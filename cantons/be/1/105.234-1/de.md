@@ -1,0 +1,677 @@
+---
+canton: BE
+number: 105.234-1
+title: Konkordat zwischen den Kantonen Bern und Jura über den Wechsel der Einwohnergemeinde Moutier zum Kanton Jura
+short: Moutier-Konkordat
+language: de
+version: 2026-01-01
+version_adopted: 2023-11-15
+adopted: 2023-11-15
+in_force: 2026-01-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/105.234-1"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3100/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Konkordat zwischen den Kantonen Bern und Jura über den Wechsel der Einwohnergemeinde Moutier zum Kanton Jura
+
+(Moutier-Konkordat)
+
+vom 15.11.2023 (Stand 01.01.2026)
+
+Die Kantone Bern und Jura,
+
+gestützt auf Artikel 53 Absatz 3 der Bundesverfassung (BV)[^ingress-1],
+
+gestützt auf Artikel 10 des Gesetzes vom 26. Januar 2016 betreffend die Durchführung von Abstimmungen über die Kantonszugehörigkeit bernjurassischer Gemeinden (KBJG)[^ingress-2],
+
+vereinbaren:
+
+[^ingress-1]: SR [101](https://db.clex.ch/link/Bund/101/de)
+[^ingress-2]: BSG [105.233](https://www.belex.sites.be.ch/data/105.233/de)
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Dieses Konkordat regelt den Wechsel der Einwohnergemeinde Moutier (nachstehend: «Gemeinde Moutier») zum Kanton Jura, die sich daraus ergebende Gebietsänderung sowie die allgemeinen Grundsätze dieses Kantonswechsels.
+
+#### Art. 2
+
+**Kantonswechsel der Gemeinde Moutier**
+
+<sup>1</sup> Die Gemeinde Moutier wird zum Zeitpunkt des Kantonswechsels in den Kanton Jura eingegliedert.
+
+<sup>2</sup> Das geografische Gebiet, das von der Gebietsänderung infolge des Kantonswechsels der Gemeinde Moutier betroffen ist, entspricht dem Gemeindegebiet von Moutier gemäss Karte in Anhang 1 dieses Konkordats.
+
+#### Art. 3
+
+**Rechtsordnung**
+
+<sup>1</sup> Ab dem Zeitpunkt des Kantonswechsels gilt unter Vorbehalt anderslautender Bestimmungen des Bundesrechts oder dieses Konkordats für die Gemeinde Moutier und ihr Gebiet die Rechtsordnung des Kantons Jura.
+
+#### Art. 4
+
+**Bevölkerung und Bürgerrecht**
+
+<sup>1</sup> Die Einwohnerinnen und Einwohner der Gemeinde Moutier werden Einwohnerinnen und Einwohner des Kantons Jura.
+
+<sup>2</sup> Personen, die das Bürgerrecht der Gemeinde Moutier besitzen, erhalten das jurassische Kantonsbürgerrecht und verlieren das bernische Kantonsbürgerrecht.
+
+<sup>3</sup> Die Wohnsitzdauer in der Gemeinde Moutier wird für den Erwerb des jurassischen Kantonsbürgerrechts und für die Stimmberechtigung im Kanton Jura angerechnet.
+
+#### Art. 5
+
+**Burgergemeinde**
+
+<sup>1</sup> Ab dem Zeitpunkt des Kantonswechsels wird die Burgergemeinde Moutier eine Burgergemeinde im Sinne des jurassischen Rechts.
+
+#### Art. 6
+
+**Kirchen**
+
+<sup>1</sup> Die beiden Kantonsregierungen können in einer Vollzugsvereinbarung die Auswirkungen des Kantonswechsels der Gemeinde Moutier auf die evangelisch-reformierten, römisch-katholischen und christkatholischen Landeskirchen und deren im Gemeindegebiet bestehenden Kirchgemeinden regeln.
+
+<sup>2</sup> Die Vollzugsvereinbarung kann vorsehen, dass die Landeskirchen der beiden Kantone in eigener Verantwortung eine Vereinbarung abschliessen. Diese Vereinbarung muss von den Regierungen der beiden Kantone genehmigt werden.
+
+## 2 Besondere Regelungsbereiche
+
+### 2.1 Anwendbares Recht und Zuständigkeiten
+
+#### Art. 7
+
+**Hängige Verfahren**
+
+<sup>1</sup> Die zum Zeitpunkt des Kantonswechsels bei den bernischen Behörden hängigen zivilrechtlichen, strafrechtlichen und öffentlich-rechtlichen Verfahren werden bis zu deren rechtskräftigen Abschluss in Anwendung des bernischen Rechts weitergeführt, soweit das Bundesrecht, dieses Konkordat oder eine Vollzugsvereinbarung nichts Anderes vorsieht.
+
+<sup>2</sup> Technische, finanzielle, administrative und rechtliche Fragen können in einer Vollzugsvereinbarung geregelt werden.
+
+#### Art. 8
+
+**Bestehende Dauerrechtsverhältnisse**
+
+<sup>1</sup> Die von den Behörden des Kantons Bern und der Gemeinde Moutier erlassenen Verfügungen, die Dauerrechtsverhältnisse regeln und ihre Wirkung auf dem Gebiet von Moutier entfalten, wie Berufsausübungs- oder Betriebsbewilligungen, unterliegen der Erneuerung durch die nach jurassischem Recht zuständigen Behörden. Bis zu ihrer Erneuerung, die innerhalb von höchstens drei Jahren ab dem Zeitpunkt des Kantonswechsels zu erfolgen hat, behalten diese Verfügungen ihre Gültigkeit und gelten als mit dem jurassischen Recht vereinbar.
+
+<sup>2</sup> Die Bestimmungen des Bundesgesetzes vom 6. Oktober 1995 über den Binnenmarkt (Binnenmarktgesetz, BGBM)[^8-1] gelten gegebenenfalls sinngemäss
+
+- a für die Erneuerung der Verfügungen gemäss Absatz 1 sowie für diejenigen Fälle, in denen eine Berufsausübungs- oder Betriebsbewilligung im Kanton Jura, nicht aber im Kanton Bern, erforderlich ist,
+- b für die Anerkennung von durch den Kanton Bern ausgestellten Fähigkeitsausweisen.
+
+<sup>3</sup> Die beiden Kantonsregierungen regeln in einer Vollzugsvereinbarung die Anpassung der Konzessionen an das jurassische Recht, dies unter Vorbehalt der Besitzstandsgarantie der Konzessionärinnen und Konzessionäre.
+
+<sup>4</sup> Ausnahmen sowie technische, finanzielle, administrative und rechtliche Fragen können in einer Vollzugsvereinbarung geregelt werden.
+
+[^8-1]: SR [943.02](https://db.clex.ch/link/Bund/943.02/de)
+
+#### Art. 9
+
+**Vollzug von Urteilen und Verfügungen sowie Opferhilfe**
+
+<sup>1</sup> Urteile, Verfügungen und Beschwerdeentscheide in öffentlich-rechtlichen Angelegenheiten, die vom Kanton Bern erlassen worden sind, werden grundsätzlich von den jurassischen Behörden vollzogen. Absatz 4 bleibt vorbehalten.
+
+<sup>2</sup> Die Zuständigkeit zum Vollzug von Urteilen und Verfügungen in Zivilsachen, deren Vollzug nicht unter das Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^9-1] fällt, ist in der Zivilprozessordnung vom 19. Dezember 2008 (ZPO)[^9-2] geregelt.
+
+<sup>3</sup> Die Zuständigkeit zum Vollzug von Urteilen, Verfügungen und Beschwerdeentscheiden, deren Vollzug unter das SchKG fällt, richtet sich nach dem SchKG.
+
+<sup>4</sup> Vom Kanton Bern erlassene Urteile und Verfügungen in Strafsachen werden durch den Kanton Bern vollzogen.
+
+<sup>5</sup> Die für den Vollzug zuständige Behörde kann um die Mitwirkung des anderen Kantons ersuchen.
+
+<sup>6</sup> Die bernischen Behörden sind zuständig für Entschädigungen und Genugtuungen, die in Anwendung des Bundesgesetzes vom 23. März 2007 über die Hilfe an Opfer von Straftaten (Opferhilfegesetz, OHG)[^9-3] für Straftaten zu leisten sind, die vor dem Zeitpunkt des Kantonswechsels auf dem Gebiet der Gemeinde Moutier begangen wurden. Artikel 26 Absatz 2 OHG bleibt vorbehalten.
+
+<sup>7</sup> Ausnahmen sowie technische, finanzielle, administrative und rechtliche Fragen können in einer Vollzugsvereinbarung geregelt werden.
+
+[^9-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
+[^9-2]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^9-3]: SR [312.5](https://db.clex.ch/link/Bund/312.5/de)
+
+#### Art. 10
+
+**Steuern**
+
+<sup>1</sup> Die in der Gemeinde Moutier steuerpflichtigen natürlichen und juristischen Personen unterstehen ab dem Zeitpunkt des Kantonswechsels der Steuergesetzgebung des Kantons Jura. Sie sind ab der Steuerperiode, die am Tag des Kantonswechsels beginnt, im Kanton Jura steuerpflichtig.
+
+<sup>2</sup> Die Steuerveranlagung und der Steuerbezug für die Steuerjahre vor dem Zeitpunkt des Kantonswechsels bleiben in der Zuständigkeit der bernischen Behörden und unterliegen dem bernischen Recht, einschliesslich für die Änderung von rechtskräftigen Veranlagungsverfügungen.
+
+<sup>3</sup> Der Kanton Bern überweist der Gemeinde Moutier die gesamten erhobenen Gemeindesteuern, die ihr für die Steuerjahre vor dem Zeitpunkt des Kantonswechsels geschuldet sind. Die Gemeinde Moutier überträgt dem Kanton Bern alle Guthaben aus Forderungen des Kantons, die im Zusammenhang mit den Gemeindesteuern für die Steuerjahre vor dem Zeitpunkt des Kantonswechsels entstanden sind.
+
+<sup>4</sup> Technische, finanzielle, administrative und rechtliche Fragen können in einer Vollzugsvereinbarung geregelt werden.
+
+#### Art. 11
+
+**Gebühren und Auslagen im Zusammenhang mit dem Kantonswechsel**
+
+<sup>1</sup> Die Leistungen und Verrichtungen der Behörden, die unmittelbar mit dem Wechsel der Gemeinde Moutier zum Kanton Jura zusammenhängen, sind gebühren- und auslagenfrei.
+
+### 2.2 Öffentliche Aufgaben
+
+#### Art. 12
+
+**Schule und Ausbildung**
+
+<sup>1</sup> Die beiden Kantone sorgen für Kontinuität bei der Volksschulbildung der Schülerinnen und Schüler.
+
+<sup>2</sup> Im Rahmen der Volksschulbildung und der nachobligatorischen Ausbildung sind die beiden Kantonsregierungen befugt, einerseits Vereinbarungen abzuschliessen, die es Personen mit Wohnsitz im einen Kanton ermöglichen, das Bildungsangebot des anderen Kantons zu nutzen, sowie andererseits technische, finanzielle, administrative und rechtliche Fragen in einer Vollzugsvereinbarung zu regeln.
+
+#### Art. 13
+
+**Dem Standort Moutier zugewiesene Spitalleistungen**
+
+<sup>1</sup> Für eine auf fünf Jahre beschränkte Dauer ab dem Zeitpunkt des Kantonswechsels erteilen die Regierungen der beiden Kantone dem Spitalstandort Moutier auf ihren jeweiligen Spitallisten die gleichen Leistungsaufträge gemäss Bundesgesetzgebung über die Krankenversicherung.
+
+<sup>2</sup> Die Leistungsaufträge gemäss Absatz 1 entsprechen dem Stand der Spitallisten des Kantons Bern per 14. Juli 2022 für den Standort Moutier gemäss Anhang 2 dieses Konkordats, sofern die Berner Kantonsregierung einzelne dieser Aufträge nicht vor dem Zeitpunkt des Kantonswechsels zurückzieht.
+
+<sup>3</sup> Die beiden Kantone verpflichten sich, nach dem Kantonswechsel und während der Übergangszeit gemäss Absatz 1 im Einvernehmen eine Revision ihrer jeweiligen Spitallisten für den Standort Moutier vorzunehmen. Diese richtet sich nach dem einschlägigen Bundesrecht und den Empfehlungen der Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren für die Spitalplanung.
+
+#### Art. 14
+
+**Zusammenarbeit der Gemeinden**
+
+<sup>1</sup> Bestehende Zusammenarbeit zwischen der Gemeinde Moutier und bernischen Gemeinden kann aufrechterhalten werden, wenn die betroffenen Gemeinden dies in geeigneten Bereichen wünschen.
+
+<sup>2</sup> Wird eine Zusammenarbeit der Gemeinden aufrechterhalten, können die beiden Kantonsregierungen die unter Berücksichtigung des interkantonalen Charakters der Zusammenarbeit erforderlichen Einzelheiten in einer Vollzugsvereinbarung und nach Anhörung der betroffenen Gemeinden regeln, namentlich indem sie das anwendbare Recht festlegen.
+
+#### Art. 15
+
+**Belastete Standorte**
+
+<sup>1</sup> Der Kanton Jura übernimmt die Verwaltung der in der Gemeinde Moutier gelegenen belasteten Standorte, die im bernischen Kataster der belasteten Standorte eingetragen sind.
+
+<sup>2</sup> Die Sanierung des Standorts Nr. 07000055 des genannten Katasters und die damit verbundenen Kosten bleiben auch nach dem Zeitpunkt des Kantonswechsels in der Zuständigkeit und zulasten des Kantons Bern.
+
+<sup>3</sup> Der Kanton Bern überweist dem Kanton Jura per Saldo aller Ansprüche einen Pauschalbetrag von 2.8 Millionen Franken für die Beteiligung an den Kosten, die sich aus den gemäss Absatz 1 erforderlichen Massnahmen ergeben.
+
+<sup>4</sup> Technische, finanzielle, administrative und rechtliche Fragen können in einer Vollzugsvereinbarung geregelt werden.
+
+### 2.3 Vermögensausscheidung und Anpassung der Finanzströme
+
+#### Art. 16
+
+**Anspruch des Kantons Jura**
+
+<sup>1</sup> Der Kanton Jura hat Anspruch auf einen Anteil am Nettovermögen des Kantons Bern, der dem gemäss Anhang 3 dieses Konkordats berechneten Anteil der Bevölkerung der Gemeinde Moutier an der Gesamtbevölkerung des Kantons Bern entspricht.
+
+<sup>2</sup> Das Nettovermögen im Sinne von Absatz 1 umfasst
+
+- a das Eigenkapital,
+- b die Verbindlichkeiten gegenüber Spezialfinanzierungen und Fonds im Fremdkapital.
+
+#### Art. 17
+
+**Begleichung des Anspruchs**
+
+<sup>1</sup> Die Begleichung des in Artikel 16 festgelegten Anspruchs erfolgt durch Übertragung
+
+- a der dem Kanton Bern gehörenden Grundstücke, die sich auf dem Gebiet der Gemeinde Moutier befinden,
+- b eines Teils der Beteiligungen des Kantons Bern an Gesellschaften.
+
+<sup>2</sup> Anhang 4 dieses Konkordats enthält
+
+- a die abschliessende Liste der gemäss Absatz 1 Buchstabe a zu übertragenden Grundstücke,
+- b die abschliessende Liste derjenigen Gesellschaften, von denen ein Teil der Beteiligungen gemäss Absatz 1 Buchstabe b übertragen wird,
+- c die Berechnung des Teils der gemäss Absatz 1 Buchstabe b zu übertragenden Beteiligungen.
+
+<sup>3</sup> Die Grundstücke und der Teil der Beteiligungen gemäss Absatz 1 werden zu den Werten gemäss Artikel 18 dem Kanton Jura übertragen.
+
+<sup>4</sup> Die Wertdifferenz zwischen dem Anspruch gemäss Artikel 16 und der Begleichung dieses Anspruchs gemäss Artikel 17 wird durch eine Geldzahlung zwischen den beiden Kantonen ausgeglichen. Die entsprechende Schuld kann über einen Zeitraum von höchstens zehn Jahren getilgt werden, wobei die Einzelheiten gegebenenfalls in einer Vollzugsvereinbarung festgelegt werden.
+
+#### Art. 18
+
+**Massgebende Werte**
+
+<sup>1</sup> Massgebend für die Berechnung des Anspruchs gemäss Artikel 16 sowie für die Bestimmung des Werts der Vermögenswerte gemäss Artikel 17 sind die folgenden Werte und Zahlen per 31. Dezember des Jahres vor dem Kantonswechsel:
+
+- a Nettovermögen: Buchwerte nach dem Harmonisierten Rechnungslegungsmodell 2 und auf der Grundlage der vom Grossen Rat genehmigten Bilanz des Kantons Bern (nachfolgend: «HRM2-Bilanz»),
+- b Grundstücke: Buchwerte entsprechend der HRM2-Bilanz, mit Ausnahme der Strassen, die unentgeltlich übertragen werden, und des Gebäudes Pré Jean-Meunier 1 (Grundbuchblatt Nr. 690), das zu einem reduzierten, gemäss Anhang 5 dieses Konkordats berechneten Wert übertragen wird,
+- c Beteiligungen: Buchwerte entsprechend der HRM2-Bilanz,
+- d Bevölkerungszahlen des Kantons Bern und der Gemeinde Moutier: Offizielle, vom Bundesamt für Statistik veröffentlichte Zahlen zur ständigen Wohnbevölkerung.
+
+#### Art. 19
+
+**Übertragung der Grundstücke**
+
+<sup>1</sup> Das Eigentum an den in Anhang 4 dieses Konkordats genannten Grundstücken geht mit Wirkung ab dem Zeitpunkt des Kantonswechsels gemäss Artikel 36 auf den Kanton Jura über.
+
+<sup>2</sup> Die beiden Kantonsregierungen regeln in einer Vollzugsvereinbarung die Einzelheiten des Übergangs gemäss Absatz 1.
+
+<sup>3</sup> Sie stellen in einer Vollzugsvereinbarung eine koordinierte Planung der Nutzung der dem Kanton Jura übertragenen Gebäude sicher, indem sie nötigenfalls die Möglichkeit vorsehen, dass der Kanton Bern bestimmte Gebäude über den Zeitpunkt des Kantonswechsels hinaus für eine vorläufige Dauer und zu Marktbedingungen nutzen kann.
+
+#### Art. 20
+
+**Aufwand und Ertrag aus Teilungen und Verteilungen, die auf den Geschäftsjahren vor dem Kantonswechsel beruhen**
+
+<sup>1</sup> Ertrag und Aufwand aus Teilungen und Verteilungen, die Perioden betreffen, die zum Zeitpunkt des Kantonswechsels beginnen, aber für die Geschäftsjahre vor diesem Zeitpunkt berechnet worden sind, fallen in Anwendung der Grundsätze der Kontinuität und der Billigkeit sowie unter Berücksichtigung des Kantonswechsels der Gemeinde Moutier dem Kanton Jura zu.
+
+<sup>2</sup> Die betreffenden Finanzströme sind in Anhang 6 dieses Konkordats aufgeführt. Die beiden Kantonsregierungen, unter Vorbehalt einer besonderen Regelung betreffend die Auswirkungen des Kantonswechsels der Gemeinde Moutier durch den Bund oder durch ein interkantonales Organ,
+
+- a ergänzen und präzisieren die Berechnungs- und Zahlungsmodalitäten in einer Vollzugsvereinbarung, nötigenfalls in Koordination mit dem Bund,
+- b können die in Anhang 6 dieses Konkordats enthaltene Liste in einer Vollzugsvereinbarung ändern, wenn zwischen der Unterzeichnung dieses Konkordats und dem Zeitpunkt des Kantonswechsels eine wesentliche Änderung des Bundesrechts erfolgt.
+
+#### Art. 21
+
+**Finanz- und Lastenausgleich zwischen Bund und Kantonen**
+
+<sup>1</sup> Regelt der Bund die Auswirkungen des Kantonswechsels der Gemeinde Moutier auf den Finanz- und Lastenausgleich zwischen Bund und Kantonen nicht spezifisch, so hat der Kanton Jura während einer befristeten Zeit von sechs Jahren ab dem Zeitpunkt des Kantonswechsels Anspruch auf einen Anteil an den Einnahmen des Kantons Bern aus dem Finanz- und Lastenausgleich.
+
+<sup>2</sup> Der jährliche Anteil gemäss Absatz 1 wird berechnet, indem die Nettoausgleichszahlung pro Einwohnerin und Einwohner des Kantons Jura mit der ständigen Wohnbevölkerung der Gemeinde Moutier am Stichtag (Art. 18 Abs. 1 Bst. d) multipliziert wird. Die Nettoausgleichszahlung umfasst die Ausgleichszahlungen des Ressourcenausgleichs, des Lastenausgleichs und der befristeten Massnahmen. Massgebend sind die vom Bundesrat genehmigten und von der Eidgenössischen Finanzverwaltung veröffentlichten Ausgleichszahlungen für das betreffende Vollzugsjahr.
+
+<sup>3</sup> Die Anteile gemäss Absatz 2 sind wie folgt gestaffelt:
+
+- a vom ersten bis zum vierten Jahr 100 Prozent,
+- b im fünften Jahr 66,6 Prozent,
+- c im sechsten Jahr 33,3 Prozent.
+
+#### Art. 22
+
+**Forderungen und Schulden zwischen dem Kanton Bern und der Gemeinde Moutier**
+
+<sup>1</sup> Forderungen und Schulden aus Abrechnungen zwischen dem Kanton Bern und der Gemeinde Moutier, die auf Rechnungsjahren vor dem Kantonswechsel beruhen und nach dem Kantonswechsel erfolgen, werden der Gemeinde Moutier letztmals in dem auf den Zeitpunkt des Kantonswechsels folgenden Jahr in Rechnung gestellt bzw. an sie überwiesen. Artikel 10 Absatz 3 bleibt vorbehalten.
+
+#### Art. 23
+
+**Endgültigkeit**
+
+<sup>1</sup> Artikel 16 bis 22 regeln die Vermögensausscheidung und die Anpassung der Finanzströme zwischen den beiden Kantonen endgültig und per Saldo aller Ansprüche.
+
+<sup>2</sup> Die beiden Kantone bestätigen, dass sie sich gegenseitig alle notwendigen Informationen im Zusammenhang mit dem Kantonswechsel der Gemeinde Moutier übermittelt haben, um die Vermögensausscheidung in Kenntnis der Sachlage sowie nach dem Grundsatz von Treu und Glauben zu ermöglichen.
+
+<sup>3</sup> Der Kanton Bern verpflichtet sich,
+
+- a die Regel der Stetigkeit der Rechnungslegungsmethoden zwischen der Bilanz per Ende 2020 und der für die Vermögensausscheidung massgebenden Bilanz anzuwenden,
+- b keine vom Kantonswechsel betroffenen und in Artikel 17 festgelegten Vermögenswerte vom Verwaltungsvermögen in das Finanzvermögen zu übertragen,
+- c keine Veräusserung oder Neubewertung der vom Kantonswechsel betroffenen und in Artikel 17 festgelegten Vermögenswerte vorzunehmen.
+
+### 2.4 Vorkehren vor der Gebietsänderung
+
+#### Art. 24
+
+**Vorzeitige Anpassung kommunaler Rechtsakte**
+
+<sup>1</sup> Die Gemeinde Moutier passt die folgenden kommunalen Rechtserlasse an das jurassische Recht an und setzt sie zum Zeitpunkt des Kantonswechsels in Kraft:
+
+- a Organisationsreglement der Einwohnergemeinde Moutier,
+- b Geschäftsordnung des Stadtrats,
+- c Reglement über die Wahlen und Urnenabstimmungen der Einwohnergemeinde Moutier.
+
+<sup>2</sup> Im Hinblick auf die Anpassung der genannten kommunalen Rechtserlasse ist die Gemeinde Moutier befugt, im Organisationsreglement vom bernischen Recht abweichende Bestimmungen vorzusehen und diese vor dem Zeitpunkt des Kantonswechsels in Kraft zu setzen.
+
+<sup>3</sup> Die Stimmberechtigung richtet sich nach jurassischem Recht.
+
+<sup>4</sup> Das Verfahren und die Zuständigkeiten in Bezug auf die Umsetzung dieses Artikels richten sich nach jurassischem Recht.
+
+<sup>5</sup> Die Absätze 2 bis 4 gelten sinngemäss für die Verabschiedung durch die Gemeinde Moutier ihres Finanzplans und ihres Budgets für das Jahr, das mit dem Zeitpunkt des Kantonswechsels beginnt.
+
+#### Art. 25
+
+**Anpassung der baurechtlichen Grundordnung**
+
+<sup>1</sup> Vor dem Zeitpunkt des Kantonswechsels kann die Gemeinde Moutier die baurechtliche Grundordnung nach dem im jurassischen Recht vorgesehenen Verfahren an das jurassische Recht anpassen und sie ab dem Zeitpunkt des Kantonswechsels in Kraft setzen.
+
+<sup>2</sup> Die Absätze 2 bis 4 von Artikel 24 sind sinngemäss anwendbar.
+
+<sup>3</sup> Unter Vorbehalt des eidgenössischen und des jurassischen Rechts bleibt die bis dahin geltende Regelung bis zum Inkrafttreten der neuen Regelung gültig.
+
+#### Art. 26
+
+**Anpassung weiterer kommunaler Rechtserlasse**
+
+<sup>1</sup> Die weiteren kommunalen Rechtserlasse werden bei Bedarf an das jurassische Recht angepasst, und zwar grundsätzlich innerhalb von zwei Jahren nach dem Zeitpunkt des Kantonswechsels.
+
+#### Art. 27
+
+**Kommunale Legislatur**
+
+<sup>1</sup> Die zum Zeitpunkt des Kantonswechsels bestehenden Gemeindebehörden bleiben bis zum Ende der laufenden Legislaturperiode nach jurassischem Recht im Amt.
+
+<sup>2</sup> Die von diesen Behörden erlassenen Rechtserlasse gelten als von nach jurassischem Recht rechtmässig zusammengesetzten Behörden erlassen.
+
+#### Art. 28
+
+**Kantonale Wahlen vor dem Zeitpunkt des Kantonswechsels**
+
+<sup>1</sup> Die in der Gemeinde Moutier wohnhaften Personen sind berechtigt, an den vom Kanton Jura durchgeführten Wahlen zur Konstituierung der kantonalen Behörden teilzunehmen.
+
+<sup>2</sup> Das jurassische Recht regelt die Stimmberechtigung, die Ausübung und die Einzelheiten der in Absatz 1 vorgesehenen politischen Rechte. Beschwerden im Zusammenhang mit den kantonalen Wahlen werden von den jurassischen Behörden nach jurassischem Recht behandelt.
+
+<sup>3</sup> Die Wohnsitzdauer in der Gemeinde Moutier wird angerechnet.
+
+<sup>4</sup> Mit dem Inkrafttreten von Absatz 1 endet die Stimmberechtigung der in der Gemeinde Moutier wohnhaften Personen bei Ersatzwahlen im Kanton Bern, wenn der Amtsantritt nach dem Zeitpunkt des Kantonswechsels erfolgt.
+
+<sup>5</sup> Ein kantonales politisches Mandat kann nicht gleichzeitig in beiden Kantonen ausgeübt werden.
+
+## 3 Vollzug des Konkordats
+
+#### Art. 29
+
+**Staatsnahe Institutionen**
+
+<sup>1</sup> In ihren Tätigkeitsbereichen sind die Gebäudeversicherung Bern (GVB) und die Kantonale Gebäudeversicherungs- und Präventionsanstalt des Kantons Jura (ECA JURA) befugt, die Auswirkungen des Kantonswechsels der Gemeinde Moutier untereinander zu regeln.
+
+<sup>2</sup> Erfordert der Wechsel der Gemeinde Moutier zum Kanton Jura besondere Vereinbarungen zwischen anderen staatsnahen Institutionen, sind diese befugt, entsprechende Vereinbarungen in eigener Verantwortung und nach vorgängiger Information der beiden Kantonsregierungen abzuschliessen.
+
+#### Art. 30
+
+**Vollzugsvereinbarungen**
+
+<sup>1</sup> Die beiden Kantonsregierungen sind befugt, die in den Artikeln 6 bis 10, 12, 14, 15, 17, 19, 20 und 32 genannten Vollzugsvereinbarungen abzuschliessen.
+
+<sup>2</sup> Sie können ausserdem Vollzugsvereinbarungen abschliessen, die technische, finanzielle, administrative und rechtliche Fragen regeln, insbesondere in den folgenden Bereichen:
+
+- a Soziale Angelegenheiten, Frühförderung, Kindes- und Erwachsenenschutz, Betreuung und Pflege von Betagten, Spitex,
+- b Landwirtschaft (Agrarpolitik, bäuerliches Bodenrecht, Tierproduktion, regionale Produkte, Rebbau usw.),
+- c Archive, Register, Daten, Geodaten usw.,
+- d Sozialversicherungen,
+- e Verbraucher- und Veterinärwesen,
+- f Kontrolle von Feuerungsanlagen,
+- g Kultur, Sport und Freizeit,
+- h Wirtschaft und Beschäftigung (Gewerbepolizei, Wirtschaftsförderung, Arbeitsinspektorat usw.),
+- i Gleichstellung (Förderung, Beratung, Information usw.),
+- j Energie,
+- k Umwelt (Klima, Jagd, Fischerei, Wild- und Wassertiere, Naturgefahren, Abfall, Wasser, Wald, Natur- und Landschaftsschutz, Boden und Untergrund, gefährliche Stoffe und Produkte, Reinhaltung der Luft, Schutz vor Lärm, vor Immissionen und vor nichtionisierender Strahlung usw.),
+- l Finanzierung von interkantonalen und nichtstaatlichen Institutionen,
+- m Infrastruktur und Kommunikation,
+- n IT,
+- o Verkehr und Mobilität (Strassenverkehr, öffentliche Verkehrsmittel, Parkplätze, Schultransport, Langsamverkehrsnetze usw.),
+- p Berufs-, Studien- und Laufbahnberatung,
+- q Pfarreien, Religionsgemeinschaften, interreligiöse Netzwerke,
+- r Bevölkerung (Zivilstand, Kindesrecht, Anerkennung, Pässe und Identitätskarten, Beglaubigungen usw.),
+- s Betreibungen und Konkurse,
+- t Bevölkerungsschutz, Verteidigung und Sicherheit (Zivilschutz, Militär, Rettungsdienste usw.),
+- u Übernahme von Personal des öffentlichen Dienstes,
+- v Gesundheitswesen,
+- w Aufenthalt und Niederlassung von Ausländerinnen und Ausländern (Fremdenpolizei, Asyl, Einbürgerung usw.),
+- x Finanzhilfen und Abgeltungen,
+- y Übertragung, Verwaltung und Bewahrung von Kulturgütern und Denkmälern,
+- z Geldspielwesen.
+
+<sup>3</sup> Die Vollzugsvereinbarungen können ausnahmsweise und für eine befristete Dauer von der bernischen und der jurassischen Gesetzgebung abweichen.
+
+<sup>4</sup> Die beiden Kantonsregierungen können vereinbaren,
+
+- a die Kompetenz zum Abschluss von Vollzugsvereinbarungen in bestimmten Bereichen an die zuständige Direktion bzw. das zuständige Departement ihres Kantons zu delegieren,
+- b andere öffentliche Körperschaften an den Vollzugsvereinbarungen zu beteiligen.
+
+<sup>5</sup> Die Gemeinde Moutier wird bei der Ausarbeitung von Vollzugsvereinbarungen, die sie besonders betreffen, konsultiert.
+
+#### Art. 31
+
+**Zusammenarbeit zwischen den Kantonen**
+
+<sup>1</sup> Die beiden Kantone verpflichten sich zur Zusammenarbeit und zum Austausch von Daten, die für die Ausarbeitung der Vollzugsvereinbarungen erforderlich sind.
+
+<sup>2</sup> Sie verpflichten sich, den Kantonswechsel der Gemeinde Moutier sowie die Reorganisation der kantonalen Verwaltungen bestmöglich zu koordinieren.
+
+#### Art. 32
+
+**Datenaustausch**
+
+<sup>1</sup> Die kantonalen, kommunalen und staatsnahen Organisationseinheiten, die öffentliche Aufgaben erfüllen, tauschen untereinander die für den Vollzug dieses Konkordats oder der Vollzugsvereinbarungen erforderlichen Daten aus und sind berechtigt, diese zu diesem Zweck zu bearbeiten.
+
+<sup>2</sup> Der Datenaustausch umfasst die Personendaten, die für die Weiterführung der Verwaltungstätigkeit ab dem Zeitpunkt des Kantonswechsels erforderlich sind, einschliesslich besonders schützenswerter Personendaten, wenn die Erfüllung einer gesetzlichen Aufgabe dies zwingend erfordert. Dies betrifft insbesondere Daten folgender Behörden:
+
+- a Einwohnerkontrollbehörden,
+- b Zivilstandsbehörden,
+- c Steuerbehörden,
+- d Strassenverkehrs- und Schifffahrtsbehörden,
+- e Kindes- und Erwachsenenschutzbehörden,
+- f Polizeibehörden,
+- g Bevölkerungsschutz-, Zivilschutz- und Militärbehörden,
+- h Strafverfolgungs- und Justizvollzugsbehörden,
+- i Gerichtsbehörden,
+- j Schul- und Bildungsbehörden, schulärztlicher Dienst sowie Schul- und Berufsberatung,
+- k Landwirtschaftsbehörden,
+- l Bewilligungs- und Aufsichtsbehörden in reglementierten Bereichen,
+- m Inkassobehörden,
+- n Sozialbehörden (Sozialhilfe, Sozialversicherungen usw.),
+- o Gesundheitsbehörden,
+- p Personaldienste,
+- q Betreibungs- und Konkursbehörden.
+
+<sup>3</sup> Die beiden Kantone sorgen gemäss ihrer kantonalen Datenschutzgesetzgebung für die Sicherheit und den Schutz der übermittelten Daten.
+
+<sup>4</sup> Soweit dies für die reibungslose Weiterführung der Verwaltungstätigkeit erforderlich ist, können Daten bereits vor dem Zeitpunkt des Kantonswechsels an den Kanton Jura übermittelt und von diesem bearbeitet werden.
+
+<sup>5</sup> Technische, finanzielle, administrative und rechtliche Fragen können in einer Vollzugsvereinbarung geregelt werden.
+
+## 4 Schlussbestimmungen
+
+#### Art. 33
+
+**Verfahren bei fehlenden Bestimmungen oder unterschiedlicher Auslegung**
+
+<sup>1</sup> Die zuständigen kantonalen Behörden verständigen sich über das weitere Vorgehen, wenn dieses Konkordat oder eine Vollzugsvereinbarung eine Lücke aufweist oder unterschiedlich ausgelegt wird.
+
+<sup>2</sup> Können sie sich nicht einigen, suchen die beiden Kantonsregierungen auf dem Verhandlungsweg nach einer Lösung.
+
+<sup>3</sup> Kann innerhalb einer angemessenen Frist keine Lösung zwischen den Kantonsregierungen gefunden werden, so kann eine von ihnen den Bund um Vermittlung ersuchen.
+
+#### Art. 34
+
+**Genehmigungsverfahren**
+
+<sup>1</sup> Dieses Konkordat wird den Parlamenten der beiden Kantone zur Genehmigung vorgelegt.
+
+<sup>2</sup> Es wird zu einem von beiden Kantonsregierungen einvernehmlich festgelegten Zeitpunkt in den beiden Kantonen gleichzeitig der Volkabstimmung unterbreitet.
+
+<sup>3</sup> Nachdem beide Kantone diesem Konkordat zugestimmt haben, legen die beiden Kantonsregierungen gemäss Artikel 53 Absatz 3 BV die Gebietsänderung gemeinsam der Bundesversammlung zur Genehmigung vor.
+
+#### Art. 35
+
+**Beendigung der Verfahren**
+
+<sup>1</sup> Mit diesem Konkordat setzen die beiden Kantone allen territorialen Streitigkeiten zwischen ihnen ein endgültiges Ende. Sie verpflichten sich, ihre Gebietsgrenzen im Geiste des Bundesfriedens zu achten.
+
+#### Art. 36
+
+**Inkrafttreten**
+
+<sup>1</sup> Die beiden Kantonsregierungen legen gemeinsam den Zeitpunkt des Inkrafttretens dieses Konkordats fest, der mit dem Zeitpunkt des Kantonswechsels gemäss Artikel 2 übereinstimmt.
+
+<sup>2</sup> Sie können besondere Bestimmungen dieses Konkordats sowie die sich daraus ergebenden Vollzugsvereinbarungen vorzeitig in Kraft setzen.
+
+<sup>3</sup> Dieses Konkordat tritt jedoch nur unter der Bedingung in Kraft, dass Artikel 139 der Verfassung des Kantons Jura[^36-1] aufgehoben worden ist.
+
+[^36-1]: RSJU [101](https://db.clex.ch/link/JU/101/de)
+
+## A1 Anhang 1 (Art. 2 Abs. 2)
+
+#### Art. A1-1
+
+<sup>1</sup> Karte im Massstab 1:100 000 des Gebiets der Gemeinde Moutier:
+
+## A2 Anhang 2 (Art. 13 Abs. 2)
+
+#### Art. A2-1
+
+<sup>1</sup> Leistungsaufträge für die somatische Akutversorgung:
+
+- 1 Basispaket Chirurgie und Innere Medizin
+- 2 Dermatologie (inkl. Geschlechtskrankheiten) — befristet (30.04.2024)
+- 3 Wundpatienten — befristet (30.04.2024)
+- 4 Schild- und Nebenschilddrüsenchirurgie
+- 5 Neurologie
+- 6 Sekundäre bösartige Neubildung des Nervensystems
+- 7 Endokrinologie — befristet (30.04.2024)
+- 8 Gastroenterologie — befristet (30.04.2024)
+- 9 Indolente Lymphome und chronische Leukämien — befristet (30.04.2024)
+- 10 Myeloproliferative Erkrankungen und Myelodysplastische Syndrome — befristet (30.04.2024)
+- 11 Interventionelle Radiologie (bei Gefässen nur Diagnostik)
+- 12 Nephrologie (akute Nierenversagen wie auch chronisch terminales Nierenversagen) (umfasst ausschliesslich den Teil-Leistungsauftrag Dialyse)
+- 13 Chirurgie Bewegungsapparat
+- 14 Orthopädie
+- 15 Handchirurgie — befristet (30.04.2024)
+- 16 Arthroskopie der Schulter und des Ellbogens
+- 17 Arthroskopie des Knies
+- 18 Rekonstruktion obere Extremität
+- 19 Rekonstruktion untere Extremität
+- 20 Elektive Erstprothese Hüfte
+- 21 Elektive Erstprothese Knie
+- 22 Wechseloperationen Hüft- und Knieprothesen
+- 23 Gynäkologie
+- 24 Onkologie
+- 25 Basis-Kinderchirurgie
+- 26 Akutgeriatrie Kompetenzzentrum
+- 27 Akutsomatische Versorgung Abhängigkeitskranker
+
+<sup>2</sup> Leistungsaufträge für die Psychiatrie:
+
+- 1 Erwachsenenpsychiatrie Grundversorgung
+- 2 Alterspsychiatrie Grundversorgung
+- 3 Kinder- und Jugendpsychiatrie Grundversorgung
+- 4 Psychische und Verhaltensstörungen durch Alkohol (Alkoholmissbrauch und -abhängigkeit)
+- 5 Psychische und Verhaltensstörungen durch andere psychotrope Substanzen (Missbrauch und Abhängigkeit von Medikamenten und Drogen)
+- 6 Schizophrenie, schizotype und wahnhafte Störungen (Störungen aus dem schizophrenen Formenkreis)
+- 7 Affektive Störungen (Depressionen, Manien, bipolare Störungen)
+- 8 Neurotische, Belastungs- und somatoforme Störungen (Angst-, Zwangsstörungen, somatoforme Störungen)
+- 9 Persönlichkeits- und Verhaltensstörungen (emotional instabile Persönlichkeitsstörung, paranoide Persönlichkeitsstörung, Impulskontrollstörungen)
+- 10 Organische Störungen (Demenzerkrankungen, Delir und andere hirnorganische Störungen)
+- 11 Verhaltensauffälligkeiten mit körperlichen Störungen oder Faktoren (Essstörungen, sexuelle Störungen, Schlafstörungen)
+- 12 Entwicklungsstörungen (Entwicklungsstörungen des Sprechens und der Sprache, schulischer Fertigkeiten, motorischer Funktionen)
+- 13 Verhaltens- und emotionale Störungen mit Beginn in der Kindheit und Jugend (hyperkinetisches Syndrom, Störung des Sozialverhaltens, Ticstörungen)
+- 14 Personen mit einer geistigen Behinderung (elektive Versorgung)
+- 15 Intelligenzstörungen (verschiedene Schweregrade von Intelligenzminderung)
+
+## A3 Anhang 3 (Art. 16 Abs. 1)
+
+#### Art. A3-1
+
+**[^A31-1]**
+
+<sup>1</sup> Berechnung des Anteils am Nettovermögen:
+
+[^A31-1]: Berichtigt durch Briefaustausch zwischen dem Regierungsrat des Kantons Bern und der Regierung des Kantons Jura vom 12. März 2024
+
+## A4 Anhang 4 (Art. 17 Abs. 2)
+
+#### Art. A4-1
+
+<sup>1</sup> Übertragene Grundstücke gemäss Artikel 17 Absatz 2 Buchstabe a:
+
+- 1 Grundstück, Grundbuchblatt Nr. 50 (30 Rue du Château)
+- 2 Grundstück, Grundbuchblatt Nr. 50 (30b Rue du Château)
+- 3 Grundstück, Grundbuchblatt Nr. 50 (30c Rue du Château)
+- 4 Grundstück, Grundbuchblatt Nr. 50 (Landanlage Rue du Château)
+- 5 Grundstück, Grundbuchblatt Nr. 66 (Landanlage Rue du Château)
+- 6 Grundstück, Grundbuchblatt Nr. 67 (9 Rue du Château)
+- 7 Grundstück, Grundbuchblatt Nr. 67 (11 Rue du Château)
+- 8 Grundstück, Grundbuchblatt Nr. 67 (13 Rue du Château)
+- 9 Grundstück, Grundbuchblatt Nr. 67 (13a Rue du Château)
+- 10 Grundstück, Grundbuchblatt Nr. 67 (13b Rue du Château)
+- 11 Grundstück, Grundbuchblatt Nr. 67 (17 Rue du Château)
+- 12 Grundstück, Grundbuchblatt Nr. 67 (Landanlage Rue du Château)
+- 13 Grundstück, Grundbuchblatt Nr. 148 (Strasse)
+- 14 Grundstück, Grundbuchblatt Nr. 420 (Strasse)
+- 15 Grundstück, Grundbuchblatt Nr. 690 (1 Pré Jean-Meunier)
+- 16 Grundstück, Grundbuchblatt Nr. 690 (1a Pré Jean-Meunier)
+- 17 Grundstück, Grundbuchblatt Nr. 690 (1b Pré Jean-Meunier)
+- 18 Grundstück, Grundbuchblatt Nr. 690 (Landanlage Pré Jean-Meunier)
+- 19 Grundstück, Grundbuchblatt Nr. 750 (Strasse)
+- 20 Grundstück, Grundbuchblatt Nr. 758 (Landanlage Rue de Soleure)
+- 21 Grundstück, Grundbuchblatt Nr. 822 (Landanlage Rue de Soleure)
+- 22 Grundstück, Grundbuchblatt Nr. 1144 (Landanlage Wald)
+- 23 Grundstück, Grundbuchblatt Nr. 1160 (Landanlage Wald)
+- 24 Grundstück, Grundbuchblatt Nr. 1161 (Landanlage Wald)
+- 25 Grundstück, Grundbuchblatt Nr. 1310 (Strasse)
+- 26 Grundstück, Grundbuchblatt Nr. 1409 (Landanlage Wald)
+- 27 Grundstück, Grundbuchblatt Nr. 1411 (Landanlage Wald)
+- 28 Grundstück, Grundbuchblatt Nr. 1412 (Landanlage Wald)
+- 29 Grundstück, Grundbuchblatt Nr. 1481 (Fischereirecht ID 015-2005/000047)
+- 30 Grundstück, Grundbuchblatt Nr. 1827 (Fliessgewässer Birs)
+- 31 Grundstück, Grundbuchblatt Nr. 2792 (L’Arceut)
+- 32 Grundstück, Grundbuchblatt Nr. 2792 (Landanlage)
+- 33 Grundstück, Grundbuchblatt Nr. 3133 (Strasse)
+- 34 Grundstück, Grundbuchblatt Nr. 3134 (Strasse)
+- 35 Grundstück, Grundbuchblatt Nr. 3135 (Strasse)
+- 36 Grundstück, Grundbuchblatt Nr. 3136 (Strasse/Gebäude; 79 Quartier de la Verrerie)
+- 37 Grundstück, Grundbuchblatt Nr. 3136 (Strasse/Gebäude; 79a Quartier de la Verrerie)
+- 38 Grundstück, Grundbuchblatt Nr. 3136 (Strasse/Gebäude)
+- 39 Grundstück, Grundbuchblatt Nr. 3137 (Strasse)
+- 40 Grundstück, Grundbuchblatt Nr. 3138 (Strasse)
+- 41 Grundstück, Grundbuchblatt Nr. 3139 (Strasse)
+- 42 Grundstück, Grundbuchblatt Nr. 3140 (Strasse)
+- 43 Grundstück, Grundbuchblatt Nr. 3141 (Strasse)
+- 44 Grundstück, Grundbuchblatt Nr. 3142 (Strasse)
+- 45 Grundstück, Grundbuchblatt Nr. 3156 (Strasse)
+- 46 Grundstück, Grundbuchblatt Nr. 3158 (119 Rue Industrielle)
+- 47 Grundstück, Grundbuchblatt Nr. 3158 (119c Rue Industrielle)
+- 48 Grundstück, Grundbuchblatt Nr. 3158 (119d Rue Industrielle)
+- 49 Grundstück, Grundbuchblatt Nr. 3158 (119j Rue Industrielle)
+- 50 Grundstück, Grundbuchblatt Nr. 3158 (Landanlage)
+- 51 Grundstück, Grundbuchblatt Nr. 3159 (Fliessgewässer Birs)
+- 52 Grundstück, Grundbuchblatt Nr. 3160 (Fliessgewässer Birs)
+- 53 Grundstück, Grundbuchblatt Nr. 3161 (Fliessgewässer Birs)
+
+#### Art. A4-2
+
+<sup>1</sup> Übertragene Beteiligungen gemäss Artikel 17 Absatz 2 Buchstabe b:
+
+- 1 Berner Kantonalbank AG, Bern
+- 2 BKW AG, Bern
+- 3 BLS AG, Bern
+- 4 Schweizer Bibliotheksdienst Genossenschaft, Bern
+- 5 Schweizer Salinen AG, Pratteln
+- 6 Schweizerische Gesellschaft für Hotelkredit (SGH), Zürich
+- 7 Schweizerische Nationalbank, Bern
+- 8 SelFin Invest AG, Pratteln
+
+#### Art. A4-3
+
+**[^A43-1]**
+
+<sup>1</sup> Berechnung des Teils der Beteiligungen gemäss Artikel 17 Absatz 2 Buchstabe c:
+
+[^A43-1]: Berichtigt durch Briefaustausch zwischen dem Regierungsrat des Kantons Bern und der Regierung des Kantons Jura vom 12. März 2024
+
+## A5 Anhang 5 (Art. 18 Abs. 1 Bst. b)
+
+#### Art. A5-1
+
+<sup>1</sup> Berechnung für den Wert des Gebäudes Pré Jean-Meunier 1 (Grundbuchblatt Nr. 690):
+
+## A6 Anhang 6 (Art. 20 Abs. 2)
+
+#### Art. A6-1
+
+<sup>1</sup> Liste der Finanzflüsse:
+
+- 1 Verrechnungssteuer
+- 2 Bahninfrastrukturfonds (BIF)
+- 3 Mineralölsteuer
+- 4 Gewinnausschüttung Schweizerische Nationalbank
+- 5 Leistungsabhängige Schwerverkehrsabgabe (LSVA)
+- 6 Bundesbeiträge an Prämienverbilligungen gemäss Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)[^A61-1]
+- 7 Bodenverbesserungen
+- 8 Entschädigungen gemäss der eidgenössischen Verordnung vom 26. September 2008 über die Abgabe zur Sanierung von Altlasten (VASA)[^A61-2]
+- 9 Programmvereinbarungen mit direktem Bezug zum Gebiet der Gemeinde Moutier
+- 10 Schulgelder für Mittelschulen, Berufsschulen und Hochschulen
+- 11 Gewinnbeteiligung der Lotterien (Swisslos)
+
+[^A61-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^A61-2]: SR [814.681](https://db.clex.ch/link/Bund/814.681/de)
+
+Bern, 15. November 2023/Delsberg, 14. November 2023
+
+Im Namen des Regierungsrates des Kantons Bern
+
+Der Präsident: Müller
+
+Der Staatsschreiber: Auer
+
+Im Namen der Regierung des Kantons Jura
+
+Der Präsident: Gerber
+
+Der Staatsschreiber: Maître
+
+RRB Nr. 1200 vom 27. November 2024:
+
+\1. Das Konkordat zwischen den Kantonen Bern und Jura über den Wechsel der Einwohnergemeinde Moutier zum Kanton Jura (Moutier-Konkordat) tritt unter Vorbehalt von Ziffer 2 und 3 am 1. Januar 2026 in Kraft.
+
+\2. Artikel 4 Absatz 3, Artikel 6, 10 bis 12, 24, 25, 29 bis 34 und 36 treten vorzeitig am 1. Januar 2025 in Kraft.
+
+\3. Das vorzeitige Inkrafttreten weiterer Artikel kann später im Einvernehmen mit der Regierung des Kantons Jura durch Regierungsratsbeschluss festgelegt werden.
+
+24-062
