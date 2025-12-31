@@ -1,25 +1,24 @@
 ---
 canton: GR
 number: "640.100"
-title: Legge sulla protezione civile del Cantone dei Grigioni
-short: Legge sulla protezione civile
+title: "Legge sulla protezione civile del Cantone dei Grigioni *"
+short: "Legge sulla protezione civile, LCPCi"
 language: it
-version: 2021-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-12-08
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 2015-06-17
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/640.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3160/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3609/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulla protezione civile del Cantone dei Grigioni
 
-(Legge sulla protezione civile)
+(Legge sulla protezione civile, LCPCi)
 
-del 17.06.2015 (stato 01.01.2021)
+del 17.06.2015 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -134,12 +133,12 @@ decide:
 - f) l'approvazione di progetti di costruzione di rifugi, compresa la determinazione del numero di posti protetti;
 - g) la determinazione dell'ammontare del contributo sostitutivo per ogni posto protetto non realizzato;
 - h) la decisione in merito all'ammontare del contributo sostitutivo riferito al progetto di costruzione;
-- i) la riscossione e l'amministrazione dei contributi sostitutivi;
+- i) la riscossione, il via libera e l'amministrazione dei contributi sostitutivi;
 - k) l'autorizzazione alla soppressione di rifugi e l'ordine per il loro ripristino;
 - l) il controllo dei lavori di costruzione di rifugi pubblici e di impianti di protezione;
 - m) i controlli finali di rifugi;
 - n) i controlli dell'efficienza operativa e della manutenzione delle opere di protezione, nonché l'ordine di esecuzioni sostitutive per garantire l'efficienza operativa;
-- o) l'impiego dei contributi sostitutivi riscossi dal 1° settembre 2004 conformemente alle condizioni quadro del diritto federale.
+- o) l'impiego dei contributi sostitutivi riscossi conformemente alle condizioni quadro del diritto federale.
 
 #### Art. 9
 
@@ -216,7 +215,7 @@ decide:
 - b) gli interventi dei militi della protezione civile in situazioni particolari e straordinarie, nonché per gli interventi dei militi della protezione civile in caso di lavori di ripristino;
 - c) il soldo dei militi della protezione civile in caso di interventi a favore della collettività sul territorio cantonale;
 - d) il personale e i mezzi materiali per lo svolgimento delle istruzioni e degli interventi conformemente alle lettere a-c;
-- e) il risarcimento del comandante della protezione civile e del suo sostituto;
+- e) il risarcimento degli ufficiali, dei sottoufficiali superiori e dei membri del Care Team;
 - f) l'esercizio e la manutenzione di un centro d'istruzione della protezione civile;
 - g) i danni causati illecitamente a terzi durante i servizi d'istruzione o altre prestazioni di servizio da parte del personale insegnante o dei militi della protezione civile.
 
@@ -275,14 +274,10 @@ decide:
 
 <sup>1</sup> Il dipartimento competente decide in qualità di ultima istanza cantonale in merito a controversie di diritto patrimoniale e non patrimoniale in relazione alla protezione civile.
 
-## 6. Disposizione transitoria
+## 6.
 
 #### Art. 21
 
-**Prolungamento limitato nel tempo dell'obbligo di prestare servizio nella protezione civile**
-
-<sup>1</sup> L'obbligo di prestare servizio nella protezione civile per le persone le quali al momento dell'entrata in vigore della legge erano già state soggette all'obbligo di prestare servizio nella protezione civile per 12 anni oppure che hanno già prestato 245 giorni di servizio, è prolungato fino alla fine dell'anno in cui compiono 40 anni.
-
-<sup>2</sup> La durata dell'obbligo di prestare servizio nella protezione civile è prolungata fino al 31 dicembre 2025.
+**…**
 
 2015-039

@@ -1,25 +1,24 @@
 ---
 canton: GR
 number: "640.100"
-title: Lescha davart la protecziun civila dal chantun Grischun
-short: lescha da protecziun civila
+title: "Lescha davart la protecziun civila dal chantun Grischun *"
+short: "Lescha da protecziun civila, LCPC"
 language: rm
-version: 2021-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-12-08
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 2015-06-17
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/640.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3160/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3609/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha davart la protecziun civila dal chantun Grischun
 
-(lescha da protecziun civila)
+(Lescha da protecziun civila, LCPC)
 
-dals 17-06-2015 (versiun dals 01-01-2021)
+dals 17-06-2015 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -134,12 +133,12 @@ concluda:
 - f) approvar projects da construcziun da locals da protecziun inclusiv fixar il dumber da plazzas protegidas;
 - g) fixar l'import da la contribuziun substitutiva per mintga plazza protegida betg construida;
 - h) decider davart l'import da la contribuziun substitutiva per project da construcziun;
-- i) incassar ed administrar las contribuziuns substitutivas;
+- i) incassar, dar liber ed administrar las contribuziuns substitutivas;
 - k) permetter l'aboliziun ed ordinar la reparaziun da locals da protecziun;
 - l) controllar la construcziun da locals da protecziun publics e da stabiliments da protecziun;
 - m) far la controlla finala dals locals da protecziun;
 - n) controllar il funcziunament ed il mantegniment da las ovras da protecziun sco er ordinar execuziuns d'uffizi per garantir il funcziunament;
-- o) utilisar las contribuziuns substitutivas ch'èn vegnidas incassadas dapi il 1. da settember 2004 tenor las cundiziuns generalas dal dretg federal.
+- o) utilisar las contribuziuns substitutivas ch'èn vegnidas incassadas tenor las cundiziuns generalas dal dretg federal.
 
 #### Art. 9
 
@@ -216,7 +215,7 @@ concluda:
 - b) las acziuns da las persunas ch'èn obligadas da far servetsch da protecziun civila en cas da situaziuns spezialas ed extraordinarias sco er per las acziuns da reparaziun;
 - c) il sold da las persunas ch'èn obligadas da far servetsch da protecziun civila en cas d'acziuns a favur da la communitad sin il territori chantunal;
 - d) il persunal ed ils meds materials per realisar l'instrucziun e las acziuns tenor las literas a fin c;
-- e) l'indemnisaziun dal cumandant da protecziun civila e da sia substituziun;
+- e) l'indemnisaziun da las uffizieras e dals uffiziers, da las sutuffizieras superiuras e dals sutuffiziers superiurs sco er da las commembras e dals commembers dal care team;
 - f) la gestiun ed il mantegniment d'in center d'instrucziun per la protecziun civila;
 - g) ils donns ch'il persunal d'instrucziun u las persunas ch'èn obligadas da far servetsch da protecziun civila chaschunan illegalmain a terzas persunas durant lur servetschs d'instrucziun u durant autras acziuns.
 
@@ -275,14 +274,10 @@ concluda:
 
 <sup>1</sup> Il departament cumpetent decida sco ultima instanza chantunala davart dispitas da dretg da facultad e davart dispitas betg da dretg da facultad che stattan en connex cun la protecziun civila.
 
-## 6. Disposiziun transitorica
+## 6.
 
 #### Art. 21
 
-**Prolungaziun limitada da l'obligaziun da far servetsch da protecziun civila**
-
-<sup>1</sup> Per persunas ch'èn gia stadas obligadas da far servetsch da protecziun civila durant 12 onns u che han gia prestà 245 dis servetsch da protecziun civila il mument che la Lescha federala davart la protecziun da la populaziun e la protecziun civila entra en vigur, vegn l'obligaziun da far servetsch da protecziun civila prolungada fin la fin da l'onn ch'ellas survegnan 40 onns.
-
-<sup>2</sup> La prolungaziun da l'obligaziun da far servetsch da protecziun civila vala fin ils 31 da december 2025.
+**…**
 
 2015-039

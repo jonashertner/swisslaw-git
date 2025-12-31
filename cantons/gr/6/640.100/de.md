@@ -2,24 +2,23 @@
 canton: GR
 number: "640.100"
 title: Gesetz über den Zivilschutz des Kantons Graubünden
-short: Zivilschutzgesetz
+short: "Zivilschutzgesetz, ZSG"
 language: de
-version: 2021-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-12-08
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 2015-06-17
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/640.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3160/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3609/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Zivilschutz des Kantons Graubünden
 
-(Zivilschutzgesetz)
+(Zivilschutzgesetz, ZSG)
 
-Vom 17.06.2015 (Stand 01.01.2021)
+Vom 17.06.2015 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -134,12 +133,12 @@ beschliesst:
 - f) die Genehmigung von Schutzraumbauprojekten einschliesslich der Festlegung der Anzahl Schutzplätze;
 - g) die Festlegung der Höhe des Ersatzbeitrags pro nicht erstellten Schutzplatz;
 - h) den Entscheid über die Höhe des bauprojektbezogenen Ersatzbeitrags;
-- i) den Einzug und die Verwaltung der Ersatzbeiträge;
+- i) den Einzug, die Freigabe und die Verwaltung der Ersatzbeiträge;
 - k) die Bewilligung der Aufhebung und die Anordnung der Wiederherstellung von Schutzräumen;
 - l) die Baukontrollen von öffentlichen Schutzräumen und von Schutzanlagen;
 - m) die Schlusskontrollen von Schutzräumen;
 - n) die Kontrollen der Betriebsbereitschaft und des Unterhalts der Schutzbauten sowie die Anordnung von Ersatzvornahmen zur Sicherstellung der Betriebsbereitschaft;
-- o) die Verwendung der seit 1. September 2004 erhobenen Ersatzbeiträge gemäss den bundesrechtlichen Rahmenbedingungen.
+- o) die Verwendung der erhobenen Ersatzbeiträge gemäss den bundesrechtlichen Rahmenbedingungen.
 
 #### Art. 9
 
@@ -216,7 +215,7 @@ beschliesst:
 - b) die Einsätze der Schutzdienstpflichtigen bei besonderen und ausserordentlichen Lagen sowie für die Einsätze der Schutzdienstpflichtigen bei Instandstellungsarbeiten;
 - c) den Sold der Schutzdienstpflichtigen bei Einsätzen zugunsten der Gemeinschaft auf dem Kantonsgebiet;
 - d) das Personal und die Sachmittel zur Durchführung der Ausbildungen und Einsätze gemäss Litera a bis c;
-- e) die Entschädigung der Zivilschutzkommandanten und deren Stellvertretung;
+- e) die Entschädigung der Offizierinnen und Offiziere, der höheren Unteroffizierinnen und höheren Unteroffiziere und der Mitglieder des Care Teams;
 - f) den Betrieb und den Unterhalt eines Zivilschutzausbildungszentrums;
 - g) die Schäden, die das Lehrpersonal oder die Schutzdienstpflichtigen in Ausbildungsdiensten oder sonstigen Einsätzen Dritten widerrechtlich zufügen.
 
@@ -275,14 +274,10 @@ beschliesst:
 
 <sup>1</sup> Das zuständige Departement entscheidet als letzte Instanz im Kanton über vermögensrechtliche und nicht vermögensrechtliche Streitigkeiten im Zusammenhang mit dem Zivilschutz.
 
-## 6. Übergangsbestimmung
+## 6.
 
 #### Art. 21
 
-**Befristete Verlängerung der Schutzdienstpflicht**
-
-<sup>1</sup> Die Schutzdienstpflicht für Schutzdienstpflichtige, die bei Inkrafttreten des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz bereits zwölf Jahre schutzdienstpflichtig waren oder 245 Diensttage geleistet haben, wird bis zum Ende des Jahres, in dem sie 40 Jahre alt werden, verlängert.
-
-<sup>2</sup> Die Verlängerung der Schutzdienstpflicht gilt bis zum 31. Dezember 2025.
+**…**
 
 2015-039
