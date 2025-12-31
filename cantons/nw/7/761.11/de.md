@@ -5,11 +5,12 @@ title: Verordnung zum Gesetz über die Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
 version: 2026-01-01
+corrected: 2025-12-02
 version_adopted: 2025-11-18
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/761.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1424/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1410/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -163,7 +164,7 @@ beschliesst:
 
 <sup>1</sup> Die Bemessung der wirtschaftlichen Sozialhilfe:
 
-- 1\. orientiert sich an den Empfehlungen der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien)[^8-1] in der Fassung per 1. Januar 2021 (5. Ausgabe), mit Ergänzungen per 1. Januar 2022, per 1. Januar 2023, per 1. Januar 2024, per 1. Januar 2025 und per 1. Januar 2026;
+- 1\. orientiert sich an den Empfehlungen der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien)[^8-1] in der Fassung per 1. Januar 2021 (5. Ausgabe), mit Ergänzung per 1. Januar 2022, per 1. Januar 2023 und per 1. Januar 2025;
 - 2\. richtet sich nach den in Anhang 1 aufgeführten Abweichungen von den SKOS-Richtlinien und den in Anhang 2 verbindlich erklärten Richtlinien der kantonalen Sozialkommission.
 
 <sup>2</sup> Der Anhang 1 geht den SKOS-Richtlinien vor.
