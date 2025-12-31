@@ -4,13 +4,12 @@ number: VII D/11/1
 title: Einführungsgesetz zum Bundesgesetz über den Strassenverkehr
 short: EG SVG
 language: de
-version: 2018-07-01
-valid_until: 2025-12-31
-version_adopted: 2018-05-06
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 1985-05-05
 in_force: 1986-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-D.11.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2040/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2040/pdf_file"
 
 (EG SVG)
 
-Vom 05.05.1985 (Stand 01.07.2018)
+Vom 05.05.1985 (Stand 01.01.2026)
 
 (Erlassen von der Landsgemeinde am 5. Mai 1985)
 
@@ -71,6 +70,18 @@ Vom 05.05.1985 (Stand 01.07.2018)
 <sup>3</sup> Verfügungen über Administrativmassnahmen im Strassenverkehr unterliegen unmittelbar der Beschwerde an das Verwaltungsgericht; es kann auch die Angemessenheit einer Verfügung überprüfen.
 
 [^5-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+
+## 1a. Verkehrsbeschränkung im Klöntal
+
+#### Art. 5a
+
+**Fahrverbot im Klöntal**
+
+<sup>1</sup> Für Motorfahrzeuge besteht im Klöntal jeweils am letzten Sonntag der Monate Juni, Juli und August von 07.00 Uhr bis 19.00 Uhr ein Fahrverbot.
+
+<sup>2</sup> Der Regierungsrat sieht begründete Ausnahmen vom Fahrverbot vor.
+
+<sup>3</sup> Der Regierungsrat regelt den Vollzug. Er kann diesen an die Gemeinde Glarus delegieren.
 
 ## 2. Strassenverkehrsabgaben
 
