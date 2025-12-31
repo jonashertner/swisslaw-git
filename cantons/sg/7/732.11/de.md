@@ -4,13 +4,12 @@ number: "732.11"
 title: Strassenverordnung
 short: StrV
 language: de
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-06-11
+version: 2026-01-01
+version_adopted: 2025-09-23
 adopted: 1988-11-22
 in_force: 1989-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/732.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3647/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3820/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3647/pdf_file"
 
 (StrV)
 
-vom 22.11.1988 (Stand 01.08.2024)
+vom 22.11.1988 (Stand 01.01.2026)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -50,13 +49,31 @@ als Verordnung:[^ingress-2]
 
 #### Art. 3
 
-**Fuss- und Wanderwege**
+**Fuss-, Wander- und Velowege**
 
-<sup>1</sup> Die politische Gemeinde sorgt für Anlage, Erhaltung, Kennzeichnung und Ersatz der Fuss- und Wanderwege nach der Bundesgesetzgebung.[^3-1]
+<sup>1</sup> Die politische Gemeinde sorgt für Anlage, Erhaltung, Kennzeichnung, Signalisation und Ersatz der Fuss-, Wander- und Velowege nach der Bundesgesetzgebung[^3-1], soweit nicht besondere Vorschriften eine andere Zuständigkeit festlegen.
 
 <sup>2</sup> Bevor Wanderwege aufgehoben oder mit bitumen-, asphalt- oder zementgebundenen Deckbelägen versehen werden, holt die politische Gemeinde die Stellungnahme des Tiefbauamtes ein.
 
-[^3-1]: BG über Fuss- und Wanderwege vom 4. Oktober 1985, SR [704](https://db.clex.ch/link/Bund/704/de); eidgV über Fuss- und Wanderwege vom 26. November 1986, SR [704.1](https://db.clex.ch/link/Bund/704.1/de).
+[^3-1]: Bundesgesetz über Fuss- und Wanderwege vom 4. Oktober 1985, SR [704](https://db.clex.ch/link/Bund/704/de); eidgV über Fuss- und Wanderwege vom 26. November 1986, SR [704.1](https://db.clex.ch/link/Bund/704.1/de); Bundesgesetz über Velowege vom 18. März 2022, SR [705](https://db.clex.ch/link/Bund/705/de).
+
+#### Art. 3bis
+
+**Fuss-, Wander- und Velowegnetze von kantonaler Bedeutung**
+
+<sup>1</sup> Fuss-, Wander- und Velowegnetze von kantonaler Bedeutung[^3bis-1] werden insbesondere anhand folgender Kriterien festgelegt:
+
+- a) Stellenwert für die Anbindung an einen Nachbarkanton oder ein Nachbarland;
+- b) Erschliessung und Verbindung von Gemeinden, Ortschaften, grösseren Ortsteilen, regionalen Ausflugszielen, regionalen Haltestellen des öffentlichen Verkehrs, grösseren Arbeitsplatzgebieten sowie anderen regional wichtigen Ziel- und Quellpunkten;
+- c) Vorhandensein von nationalen oder regionalen Routen von SchweizMobil (Wanderwegnetze, Velowegnetze für die Freizeit sowie Mountainbike-Routen);
+- d) sinnvolle Lenkung für den Fuss-, Wander- und Veloverkehr;
+- e) Potenzial für Mountainbikerinnen und Mountainbiker.
+
+<sup>2</sup> Als Mindestvoraussetzung für die kantonale Bedeutung bei Fusswegnetzen wird ein besonders hohes Fussverkehrspotenzial und ein regional wichtiger Zielort wie ein bedeutender Bahnhof, eine bedeutende Bildungseinrichtung, eine bedeutende Freizeit- oder Sportanlage oder ein wichtiges Arbeitsplatzgebiet vorausgesetzt.
+
+<sup>3</sup> Wesentliche Änderungen der Fuss-, Wander- und Velowegnetze von kantonaler Bedeutung werden in den kantonalen Richtplan aufgenommen.
+
+[^3bis-1]: Art. [10<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/732.1/de/art10bis) des Strassengesetzes vom 12. Juni 1988, sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
 
 #### Art. 4
 
@@ -104,7 +121,7 @@ als Verordnung:[^ingress-2]
 - a) Fusswege: • • • • • • •
 - b) Wanderwege ohne Hartbelag: ○ ○ ○ ○ ○ ○ ○
 - c) Wanderwege mit Hartbelag: ● ● ● ● ● ● ●
-- d) Radwege: × × × × × × ×
+- d) Velowege: × × × × × × ×
 
 #### Art. 8
 
@@ -129,12 +146,12 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Die Pauschalbeiträge werden je Kilometer mit folgenden Kostenansätzen berechnet für:
 
 - a) die Unterhaltskosten des Betriebs der Beleuchtung an Kantonsstrassen zweiter Klasse innerhalb der Bauzonen Fr. 4960.–;
-- b) Reinigung und Winterdienst der Geh- und Radwege entlang den Kantonsstrassen Fr. 4000.–;
+- b) Reinigung und Winterdienst der Geh- und Velowege entlang den Kantonsstrassen Fr. 4000.–;
 - c) die Entsorgung des Meteorwassers von Kantonsstrassen zweiter Klasse innerhalb der Bauzonen Fr. 4300.–.
 
 <sup>2</sup> Die Differenz zum gesamten Kantonsbeitrag gemäss Beschluss des Kantonsrates im Rahmen des Strassenbauprogramms wird für die allgemeinen Auswirkungen des Strassenverkehrs innerhalb der Bauzonen[^9-1] anteilmässig je Kilometer an die politischen Gemeinden ausgerichtet.
 
-[^9-1]: Art. [87](https://www.gesetzessammlung.sg.ch/data/732.1/de/art87.) Abs. 1 Bst. d StrG, sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
+[^9-1]: Art. [87](https://www.gesetzessammlung.sg.ch/data/732.1/de/art87) Abs. 1 Bst. d des Strassengesetzes vom 12. Juni 1988, sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
 
 #### Art. 10
 
@@ -147,7 +164,7 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Das Bau- und Umweltdepartement überprüft:
 
 - a) die Längen der Kantonsstrassen zweiter Klasse innerhalb der Bauzonen;
-- b) die Längen der Geh- und Radwege entlang den Kantonsstrassen.
+- b) die Längen der Geh- und Velowege entlang den Kantonsstrassen.
 
 ## IV. Schlussbestimmungen
 
