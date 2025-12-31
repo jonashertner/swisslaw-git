@@ -4,13 +4,12 @@ number: "75"
 title: Besoldungsverordnung für die Lehrpersonen und die Fachpersonen der schulischen Dienste
 short: BVOL
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-04
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2005-06-17
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/75"
-pdf: "https://srl.lu.ch/api/de/versions/4517/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4588/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4517/pdf_file"
 
 (BVOL)
 
-vom 17.06.2005 (Stand 01.08.2025)
+vom 17.06.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -52,7 +51,7 @@ beschliesst:
 - b. § 5: über den anteilmässigen Besoldungsanspruch,
 - c. § 11: über die strukturellen Lohnanpassungen,
 - d. § 14a: über die Anerkennung in Form von Naturalleistungen,
-- e. § 15: über die besondere Sozialzulage,
+- e. §§ 15 und 15a: über die besondere Sozialzulage und den Soziallohn,
 - f. § 20: über die Vergütung für Verbesserungsvorschläge,
 - g. §§ 22–30: über den Spesenersatz,
 - h. §§ 32 und 32a: über die Abfindung und deren Rückforderung,
