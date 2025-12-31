@@ -3,18 +3,18 @@ sr: "412.101.222.25"
 title: Verordnung des SBFI vom 29. August 2023 über die berufliche Grundbildung der Berufe mit EBA im Berufsfeld Gebäudehülle
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/504"
 language: de
-version: 2024-07-24
+version: 2026-01-01
 adopted: 2023-08-29
 in_force: 2023-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/504/20240724/de/xml/fedlex-data-admin-ch-eli-cc-2023-504-20240724-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/504/20240724/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/504/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2023-504-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/504/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung der Berufe mit EBA im Berufsfeld Gebäudehülle
 
-vom 29. August 2023 (Stand am 24. Juli 2024)
+vom 29. August 2023 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>52010</td><td>Abdichtungspraktikerin EBA / Abdichtungspraktiker EBA Praticienne en étanchéité AFP / Praticien en étanchéité AFP Addetta alle impermeabilizzazioni CFP / Addetto alle impermeabilizzazioni CFP</td></tr>
@@ -31,10 +31,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## 1. Abschnitt: Gegenstand, Berufe und Dauer
 
@@ -283,7 +283,7 @@ Die Ausbildung als Solarmonteurin oder Solarmonteur EBA umfasst in den folgenden
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
-[^10-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^10-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -308,17 +308,17 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <tr><td>für den Beruf Dachdeckerpraktikerin/Dachdeckerpraktiker EBA:</td><td></td><td></td><td></td></tr>
 <tr><td>– Organisieren von Arbeiten an der Gebäudehülle</td><td>160</td><td>–</td><td>160</td></tr>
 <tr><td>– Montieren von Dachsystemen Warten, Reparieren und Demontieren von Dachsystemen</td><td>–</td><td>240</td><td>240</td></tr>
-<tr><td>für den Beruf Fassadenbaupraktikerin/Fassadenbaupraktiker EBA: [tab]</td><td></td><td></td><td></td></tr>
+<tr><td>für den Beruf Fassadenbaupraktikerin/Fassadenbaupraktiker EBA:</td><td></td><td></td><td></td></tr>
 <tr><td>– Organisieren von Arbeiten an der Gebäudehülle</td><td>160</td><td>–</td><td>160</td></tr>
 <tr><td>– Montieren von Fassadensystemen Warten und Demontieren von Fassadensystemen</td><td>–</td><td>240</td><td>240</td></tr>
 <tr><td>für den Beruf Gerüstbaupraktikerin/Gerüstbaupraktiker EBA:</td><td></td><td></td><td></td></tr>
 <tr><td>– Organisieren von Arbeiten an der Gebäudehülle</td><td>160</td><td>–</td><td>160</td></tr>
 <tr><td>– Montieren und Demontieren von Gerüstsystemen</td><td>–</td><td>240</td><td>240</td></tr>
-<tr><td>für den Beruf Montagepraktikerin/Montagepraktiker Sonnenschutz und Storentechnik EBA: [tab]</td><td></td><td></td><td></td></tr>
+<tr><td>für den Beruf Montagepraktikerin/Montagepraktiker Sonnenschutz und Storentechnik EBA:</td><td></td><td></td><td></td></tr>
 <tr><td>– Organisieren von Arbeiten an der Gebäudehülle</td><td>160</td><td>–</td><td>160</td></tr>
 <tr><td>– Montieren von Sonnenschutz- und Storensystemen Demontieren von Sonnenschutz- und Storensystemen</td><td>–</td><td>240</td><td>240</td></tr>
 <tr><td>für den Beruf Solarmonteurin/Solarmonteur EBA:</td><td></td><td></td><td></td></tr>
-<tr><td>– Organisieren von Arbeiten an der Gebäudehülle [tab]</td><td>160</td><td>–</td><td>160</td></tr>
+<tr><td>– Organisieren von Arbeiten an der Gebäudehülle</td><td>160</td><td>–</td><td>160</td></tr>
 <tr><td>– Montieren von Solaranlagen Warten und Demontieren von Solaranlagen</td><td>–</td><td>240</td><td>240</td></tr>
 <tr><td>Total Berufskenntnisse pro Beruf</td><td>160</td><td>240</td><td>**400**</td></tr>
 <tr><td>b. Allgemeinbildung</td><td>160</td><td>80</td><td>240</td></tr>
@@ -328,13 +328,14 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^12-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^12-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^12-2].
 
 <sup>4</sup> Unterrichtssprache ist die Landessprache des Schulorts. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulorts und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^12-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^12-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^12-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 13
 
@@ -602,11 +603,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 
 - 6\. das Fachgespräch gemäss Absatz 5 dauert 30 Minuten.
 
-- b. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^23-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- b. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^23-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^23-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^23-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^23-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^23-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 24
 
