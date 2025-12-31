@@ -4,13 +4,12 @@ number: "372.1"
 title: Gesetz über Elternschaftsbeiträge
 short: GEB
 language: de
-version: 2018-01-01
-valid_until: 2025-12-31
-version_adopted: 2017-04-25
+version: 2026-01-01
+version_adopted: 2024-06-25
 adopted: 1985-12-05
 in_force: 1986-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/372.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2326/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3677/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2326/pdf_file"
 
 (GEB)
 
-vom 05.12.1985 (Stand 01.01.2018)
+vom 05.12.1985 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -82,7 +81,8 @@ als Gesetz:[^ingress-2]
 - e) Kapitalerträge;
 - f) Mutterschaftsentschädigungen und andere Sozialversicherungsleistungen;
 - g) Erwerbsersatzleistungen;
-- h) ein Zehntel des Reinvermögens, soweit es für ordentliche Ergänzungsleistungen anrechenbar ist.
+- h) ein Zehntel des Reinvermögens, soweit es für ordentliche Ergänzungsleistungen anrechenbar ist;
+- i) Prämienverbilligungen nach Art. 12 Abs. 4 des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^3-2].
 
 <sup>3</sup> Der Betrag wird herabgesetzt um:
 
@@ -90,6 +90,7 @@ als Gesetz:[^ingress-2]
 - 2\. die Unterhaltsbeiträge, welche der anspruchsberechtigte Elternteil und die Person nach Abs. 1 Bst. b dieser Bestimmung an Dritte bezahlen.
 
 [^3-1]: Bundesgesetz über die eingetragene Partnerschaft gleichgeschlechtlicher Paare vom 18. Juni 2004, SR [211.231](https://db.clex.ch/link/Bund/211.231/de).
+[^3-2]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
 
 #### Art. 3bis
 
