@@ -3,18 +3,18 @@ sr: "412.101.220.33"
 title: Verordnung des SBFI vom 25. Oktober 2006 über die berufliche Grundbildung Motorgerätemechanikerin/Motorgerätemechaniker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/841"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2006-10-25
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/841/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2006-841-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/841/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/841/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2006-841-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/841/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Motorgerätemechanikerin/Motorgerätemechaniker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 25. Oktober 2006 (Stand am 1. April 2024)
+vom 25. Oktober 2006 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>43907</td><td>Motorgerätemechanikerin EFZ/Motorgerätemechaniker EFZ **Mécanicienne d’appareils à moteur CFC/** Mécanicien d’appareils à moteur CFC **Meccanica d’apparecchi a motore AFC/** Meccanico d’apparecchi a motore AFC</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:[^ingress-5]
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I 22 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
@@ -114,7 +114,7 @@ Die Sozial- und Selbstkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^7-1]: Fassung gemäss Ziff. II 22 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -176,9 +176,10 @@ Der Bildungsplan legt überdies fest:
 
 **Allgemeinbildung**
 
-Für den allgemein bildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^11-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+Für den allgemein bildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^11-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^11-2].
 
-[^11-1]: SR.**412.101.241**
+[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Anforderungen an die Anbieter der Bildung im Lehrbetrieb
 
@@ -262,9 +263,10 @@ In der Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie fol
 - c. Berufskenntnisse
 - Die Berufskenntnisse werden mittels einer 4 Stunden dauernder Prüfung geprüft; davon insgesamt höchstens 1 Stunde mündlich. Die Erfahrungsnote berufskundlicher Unterricht ist das Mittel aller Semesternoten in den Fächern Grundlagen/Facharbeiten 1 und Grundlagen/Facharbeiten 2. Die Erfahrungsnote wird im Qualifikationsbereich Berufskenntnisse mitgewertet.
 - d. Allgemeinbildung
-- Die Abschlussprüfung im Qualifikationsbereich Allgemeinbildung richtet sich nach der Verordnung des SBFI vom 27. April 2006[^17-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- Die Abschlussprüfung im Qualifikationsbereich Allgemeinbildung richtet sich nach der Verordnung des SBFI vom 9. April 2025[^17-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^17-2].
 
-[^17-1]: SR.**412.101.241**
+[^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
@@ -340,7 +342,7 @@ Die Kommission hat folgende Aufgaben:
 - a. Sie passt den Bildungsplan nach Artikel 10 den wirtschaftlichen, technologischen und didaktischen Entwicklungen laufend, mindestens aber alle 5 Jahre an. Dabei trägt sie allfälligen neuen organisatorischen Aspekten der beruflichen Grundbildung Rechnung. Die Anpassungen bedürfen der Zustimmung der Vertreterinnen und Vertreter des Bundes und der Kantone (nach Absatz 1 Buchstabe e).
 - b. Sie beantragt dem SBFI Änderungen dieser Verordnung, sofern die beobachteten Entwicklungen und Regelungen dieser Verordnung, namentlich die Kompetenzen nach den Artikeln 4–6, betreffen.
 
-[^22-1]: [SR 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+[^22-1]: [SR 172.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5533)
 
 ## 11. Abschnitt: Schlussbestimmungen
 
