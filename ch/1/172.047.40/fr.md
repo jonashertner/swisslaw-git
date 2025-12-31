@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2007 régissant les émoluments de l'Office fé
 short: OEmol-OFRO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/786"
 language: fr
-version: 2025-05-01
+version: 2026-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2007-786-20250501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-786-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20250501/fr"
 
 (Ordonnance sur les émoluments de l’OFROU, OEmol-OFROU)
 
-du 7 novembre 2007 (État le 1<sup>er</sup> mai 2025)
+du 7 novembre 2007 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement
 
 arrête:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 1
 
@@ -35,11 +35,9 @@ La présente ordonnance régit les émoluments perçus pour les prestations et l
 
 #### Art. 2
 
-**Émoluments liés à la réception par type**
+[^2-1]
 
-Les émoluments liés à la procédure de réception par type des véhicules sont régis par l’art. 32 et l’annexe 3 de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers[^2-1].
-
-[^2-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^2-1]: Abrogé par le ch. I de l’O du 15 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 #### Art. 3
 
@@ -47,7 +45,7 @@ Les émoluments liés à la procédure de réception par type des véhicules son
 
 Lorsque la présente ordonnance ne prévoit pas de réglementation spéciale, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^3-1]s’appliquent.
 
-[^3-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^3-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 4
 
@@ -85,17 +83,20 @@ Les émoluments sont calculés selon:
 
 <sup>8</sup> Sont gratuits l’octroi ou le refus de l’approbation d’installation et de modification de signalisations touristiques aux abords des routes nationales de première et de deuxième classe.[^5-11]
 
+<sup>9</sup> Il est possible de renoncer aux émoluments visés aux ch. 3.1.8 et 4*a* de l’annexe si l’acte fourni est dans l’intérêt de l’OFROU ou si une modification de la réception par type doit être effectuée sans que le requérant ait commis de faute.[^5-12]
+
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6963](https://fedlex.data.admin.ch/eli/oc/2012/845)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
-[^5-3]: [RS 451.13](https://fedlex.data.admin.ch/eli/cc/2010/227)
-[^5-4]: [RS 741.57](https://fedlex.data.admin.ch/eli/cc/2018/782)
+[^5-3]: [RS 451.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7170)
+[^5-4]: [RS 741.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8681)
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 [^5-6]: RS **172.010.01**
 [^5-7]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
-[^5-8]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^5-8]: [RS 741.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8684)
 [^5-9]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 [^5-10]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 [^5-11]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5-12]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 #### Art. 5a
 
@@ -107,7 +108,10 @@ Les émoluments sont calculés selon:
 
 <sup>3</sup> Une réduction des émoluments de 50 % est accordée lorsque les données suisses extraites du sous-système SIAC-Analyse du système d’information relatif à l’admission à la circulation sont remises aux cantons ainsi qu’aux tiers qu’ils mandatent pour le traitement de ces données.
 
+<sup>4</sup> Les émoluments figurant aux ch. 3.1.8 et 4*a* de l’annexe peuvent être réduits de 50 %, si l’acte fourni est dans l’intérêt de l’OFROU ou si une modification de la réception par type doit être effectuée sans que le requérant ait commis de faute.[^5a-2]
+
 [^5a-1]: Introduit par le ch. I de l’O du 30 nov. 2012 ([RO 2012 6963](https://fedlex.data.admin.ch/eli/oc/2012/845)). Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5a-2]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 #### Art. 6
 
@@ -141,9 +145,11 @@ L’ordonnance du 19 juin 1995 sur les émoluments de l’OFROU[^9-1] est abrog�
 
 #### Art. 10
 
-**Disposition transitoire**
+**Disposition transitoire relative à la modification du 15 octobre 2025**[^10-1]
 
-Les procédures administratives et les prestations qui ne sont pas encore achevées au moment de l’entrée en vigueur de la présente ordonnance sont régies par le droit antérieur.
+L’ancien droit est applicable aux procédures administratives et aux prestations qui ne sont pas encore achevées au moment de l’entrée en vigueur de la présente modification.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 #### Art. 11
 
@@ -157,66 +163,84 @@ Annexe[^t-1]
 
 ## Émoluments pour prestations et autorisations spéciales
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 30 nov. 2018 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Mise à jour par le ch. I des O du 8 sept. 2021 ([RO 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)) et du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 69](https://fedlex.data.admin.ch/eli/oc/2025/69)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 30 nov. 2018 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Mise à jour par le ch. I des O du 8 sept. 2021 ([RO 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)) et du 15 janv. 2025 ([RO 2025 69](https://fedlex.data.admin.ch/eli/oc/2025/69)) et le ch. II de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 <table>
-<tr><th></th><th></th><th>francs</th></tr>
-<tr><td>1</td><td>Octroi ou refus d’autorisations pour l’importation ou le transit transfrontalier avec un véhicule spécial ou un chargement indivisible (art. 78, al. 2, et 79, al. 1 et 5, de l’ordonnance du 13 nov. 1962 sur les règles de la circulation routière, OCR[^annexu1-lvlu1-1])</td><td></td></tr>
-<tr><td>1.1</td><td>Autorisation unique:</td><td></td></tr>
-<tr><td>1.1.1</td><td>Pour des dépassements de dimensions et de poids compris dans les valeurs fixées à l’art. 79, al. 2 et 3, OCR</td><td>80</td></tr>
-<tr><td>1.1.2</td><td>Pour des dépassements de dimensions et de poids au-delà des valeurs fixées à l’art. 79, al. 2 et 3, OCR</td><td></td></tr>
-<tr><td></td><td>– émolument de base</td><td>200</td></tr>
-<tr><td></td><td>– examens complémentaires nécessaires, par ex. examen de l’itinéraire</td><td>en fonction du temps consacré</td></tr>
-<tr><td>1.2</td><td>Autorisation durable</td><td>400</td></tr>
-<tr><td>2</td><td>Octroi ou refus d’autorisations pour les véhicules de circuler le dimanche ou la nuit (art. 92, al. 4, OCR)</td><td></td></tr>
-<tr><td>2.1</td><td>Autorisation unique</td><td>60</td></tr>
-<tr><td>2.2</td><td>Autorisation durable</td><td>400</td></tr>
-<tr><td>3</td><td>Communication de données extraites des systèmes d’information de l’OFROU</td><td></td></tr>
-<tr><td>3.1</td><td>Système d’information relatif à l’admission à la circulation</td><td></td></tr>
-<tr><td>3.1.1</td><td>Livraison de données sur les détenteurs dans le cadre de la procédure de l’amende d’ordre:</td><td></td></tr>
-<tr><td>3.1.1.1</td><td>Forfait pour 800 adresses au maximum par an et par destinataire</td><td>200</td></tr>
-<tr><td>3.1.1.2</td><td>Toute adresse supplémentaire</td><td>0,25</td></tr>
-<tr><td>3.1.2</td><td>Livraison de données destinées à un rappel de véhicules</td><td>280</td></tr>
-<tr><td>3.1.3</td><td>Élaboration d’un contrat de prestations et de protection des données:</td><td></td></tr>
-<tr><td>3.1.3.1</td><td>pour la livraison de données sur les détenteurs dans le cadre de la procédure relative aux amendes d’ordre</td><td>gratuit</td></tr>
-<tr><td>3.1.3.2</td><td>dans tous les autres cas</td><td>280</td></tr>
-<tr><td>3.1.4</td><td>Remise d’un jeu de données existant, par livraison de données</td><td>110</td></tr>
-<tr><td>3.1.5</td><td>Élaboration de jeux de données spécifiques au client, d’évaluations et d’analyses, en fonction du temps consacré, tarif horaire</td><td>140</td></tr>
-<tr><td>3.1.6</td><td>Accès aux données suisses du sous-système SIAC-Personnes reprises dans le sous-système SIAC-Analyse, pour une durée d’un an, par accès</td><td>2000</td></tr>
-<tr><td>3.1.7</td><td>Accès aux données suisses du sous-système SIAC-Véhicules reprises dans le sous-système SIAC-Analyse, pour une durée d’un an, par accès</td><td>2000</td></tr>
-<tr><td>3.2</td><td>Système d’information relatif aux accidents de la route</td><td></td></tr>
-<tr><td>3.2.1</td><td>Élaboration d’un contrat de prestations et de protection des données</td><td>280</td></tr>
-<tr><td>3.2.2</td><td>Remise d’un jeu de données existant, par livraison de données</td><td>110</td></tr>
-<tr><td>3.2.3</td><td>Élaboration de jeux de données spécifiques au client, d’évaluations et d’analyses, en fonction du temps consacré, tarif horaire</td><td>140</td></tr>
-<tr><td>3.2.4</td><td>Accès aux données suisses du système d’analyse, pour une durée d’un an, par accès</td><td>2000</td></tr>
-<tr><td>3.3</td><td>Monitorage du trafic</td><td></td></tr>
-<tr><td></td><td>Accès aux données suisses concernant le monitorage du trafic, pour une durée d’un an, par accès</td><td>2000</td></tr>
-<tr><td>4</td><td>Émission de cartes pour tachygraphe</td><td></td></tr>
-<tr><td>4.1</td><td>Carte de conducteur</td><td></td></tr>
-<tr><td>4.1.1</td><td>Commande en ligne</td><td>70</td></tr>
-<tr><td>4.1.2</td><td>Demande sur papier</td><td>85</td></tr>
-<tr><td>4.2</td><td>Carte d’atelier, commande en ligne</td><td>70</td></tr>
-<tr><td>4.3</td><td>Carte d’entreprise</td><td></td></tr>
-<tr><td>4.3.1</td><td>Commande en ligne</td><td>70</td></tr>
-<tr><td>4.3.2</td><td>Demande sur papier</td><td>85</td></tr>
-<tr><td>4.4</td><td>Carte de contrôle, commande en ligne</td><td>45</td></tr>
-<tr><td>4.5</td><td>Cartes de remplacement: le prix est fixé en fonction de la durée de validité restante</td><td></td></tr>
-<tr><td>5</td><td>Octroi ou refus d’autorisations ainsi que contrôles préliminaires dans la zone des routes nationales</td><td></td></tr>
-<tr><td>5.1</td><td>Autorisations pour des installations destinées au ravitaillement et à la restauration ainsi que pour des installations de remise de moyens de propulsion alternatifs sur les aires de repos (art. 7 de l’ordonnance du 7 nov. 2007 sur les routes nationales, ORN[^annexu1-lvlu1-2])</td><td>300–5000</td></tr>
-<tr><td>5.2</td><td>Autorisations pour l’utilisation du domaine des routes nationales (art. 29 ORN) et pour les projets de construction sis dans la zone des routes nationales (art. 30 ORN)</td><td>300–5000</td></tr>
-<tr><td>5.3</td><td>Prises de position sur les demandes d’autorisation de construire au sens de l’art. 24, al. 2, de la loi fédérale du 8 mars 1960 sur les routes nationales[^annexu1-lvlu1-3]</td><td>300–1000</td></tr>
-<tr><td>5.4</td><td>Examen préliminaire des demandes d’autorisation de construire et des demandes d’autorisation de réclames dans la zone des routes nationales ainsi que leur octroi ou leur refus: en fonction du temps consacré</td><td></td></tr>
-<tr><td></td><td>– jusqu’à 2 heures</td><td>gratuit</td></tr>
-<tr><td></td><td>– tarif horaire dès la 3<sup>e</sup> heure</td><td>150</td></tr>
-<tr><td>6</td><td>Reconnaissance (art. 17*a*, al. 1, de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers [ORT][^annexu1-lvlu1-4]), notification (art. 17*c*, al. 2, ORT), annulation de la reconnaissance (17*d*, al. 1, ORT) et contrôle de la plausibilité du plan d’expertise d’un organe d’expertise (19*a*, al. 4, ORT)</td><td></td></tr>
-<tr><td>6.1</td><td>Par procédure de reconnaissance</td><td>300</td></tr>
-<tr><td>6.2</td><td>Par procédure de notification</td><td>200</td></tr>
-<tr><td>6.3</td><td>Par procédure d’annulation</td><td>300</td></tr>
-<tr><td>6.4</td><td>Contrôle de la plausibilité du plan d’expertise</td><td>500</td></tr>
-<tr><td>7</td><td>Autres décisions dans le domaine du droit de la circulation routière</td><td>jusqu’à 5000</td></tr>
+<tr><th></th><th colspan="2"></th><th colspan="2">francs</th></tr>
+<tr><td>1</td><td colspan="2">Octroi ou refus d’autorisations pour l’importation ou le transit transfrontalier avec un véhicule spécial ou un chargement indivisible (art. 78, al. 2, et 79, al. 1 et 5, de l’ordonnance du 13 nov. 1962 sur les règles de la circulation routière, OCR[^annexu1-lvlu1-1])</td><td colspan="2"></td></tr>
+<tr><td>1.1</td><td colspan="2">Autorisation unique:</td><td colspan="2"></td></tr>
+<tr><td>1.1.1</td><td colspan="2">Pour des dépassements de dimensions et de poids compris dans les valeurs fixées à l’art. 79, al. 2 et 3, OCR</td><td colspan="2">80</td></tr>
+<tr><td>1.1.2</td><td colspan="2">Pour des dépassements de dimensions et de poids au-delà des valeurs fixées à l’art. 79, al. 2 et 3, OCR</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">– émolument de base</td><td colspan="2">200</td></tr>
+<tr><td></td><td colspan="2">– examens complémentaires nécessaires, par ex. examen de l’itinéraire</td><td colspan="2">en fonction du temps consacré</td></tr>
+<tr><td>1.2</td><td colspan="2">Autorisation durable</td><td colspan="2">400</td></tr>
+<tr><td>2</td><td colspan="2">Octroi ou refus d’autorisations pour les véhicules de circuler le dimanche ou la nuit (art. 92, al. 4, OCR)</td><td colspan="2"></td></tr>
+<tr><td>2.1</td><td colspan="2">Autorisation unique</td><td colspan="2">60</td></tr>
+<tr><td>2.2</td><td colspan="2">Autorisation durable</td><td colspan="2">400</td></tr>
+<tr><td>3</td><td colspan="2">Communication de données extraites des systèmes d’information de l’OFROU</td><td colspan="2"></td></tr>
+<tr><td>3.1</td><td colspan="2">Système d’information relatif à l’admission à la circulation</td><td colspan="2"></td></tr>
+<tr><td>3.1.1</td><td colspan="2">Livraison de données sur les détenteurs dans le cadre de la procédure de l’amende d’ordre:</td><td colspan="2"></td></tr>
+<tr><td>3.1.1.1</td><td colspan="2">Forfait pour 800 adresses au maximum par an et par destinataire</td><td colspan="2">200</td></tr>
+<tr><td>3.1.1.2</td><td colspan="2">Toute adresse supplémentaire</td><td colspan="2">0,25</td></tr>
+<tr><td>3.1.2</td><td colspan="2">Livraison de données destinées à un rappel de véhicules</td><td colspan="2">280</td></tr>
+<tr><td>3.1.3</td><td colspan="2">Élaboration d’un contrat de prestations et de protection des données:</td><td colspan="2"></td></tr>
+<tr><td>3.1.3.1</td><td colspan="2">pour la livraison de données sur les détenteurs dans le cadre de la procédure relative aux amendes d’ordre</td><td colspan="2">gratuit</td></tr>
+<tr><td>3.1.3.2</td><td colspan="2">dans tous les autres cas</td><td colspan="2">280</td></tr>
+<tr><td>3.1.4</td><td colspan="2">Remise d’un jeu de données existant, par livraison de données</td><td colspan="2">110</td></tr>
+<tr><td>3.1.5</td><td colspan="2">Élaboration de jeux de données spécifiques au client, d’évaluations et d’analyses, en fonction du temps consacré, tarif horaire</td><td colspan="2">140</td></tr>
+<tr><td>3.1.6</td><td colspan="2">…</td><td colspan="2"></td></tr>
+<tr><td>3.1.7</td><td colspan="2">Accès aux données suisses du sous-système SIAC-Véhicules reprises dans le sous-système SIAC-Analyse, pour une durée d’un an, par accès</td><td colspan="2">2000</td></tr>
+<tr><td>3.1.8</td><td colspan="2">Communication de données concernant des véhicules extraites d’une réception par type ou d’une fiche de données, par véhicule immatriculé Communication d’un jeu de données électronique concernant un véhicule individuel (art. 72*b* de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière [OAC][^annexu1-lvlu1-2])</td><td colspan="2"></td></tr>
+<tr><td>3.1.8.1</td><td>Données concernant des voitures automobiles</td><td colspan="2">5.50</td></tr>
+<tr><td>3.1.8.2</td><td>Données concernant des remorques, des motocycles et d’autres véhicules automobiles</td><td colspan="2">4</td></tr>
+<tr><td>3.1.8.3</td><td>Données concernant des cyclomoteurs et des véhicules assimilés à des cyclomoteurs L’émolument en question est perçu auprès du titulaire de la réception par type en se fondant sur les listes visées à l’art. 92, al. 1, OAC. L’OFROU peut consulter les documents attestant du placement sous régime douanier.</td><td colspan="2">1.50</td></tr>
+<tr><td>3.2</td><td colspan="2">Système d’information relatif aux accidents de la route</td><td colspan="2"></td></tr>
+<tr><td>3.2.1</td><td colspan="2">Élaboration d’un contrat de prestations et de protection des données</td><td colspan="2">280</td></tr>
+<tr><td>3.2.2</td><td colspan="2">Remise d’un jeu de données existant, par livraison de données</td><td colspan="2">110</td></tr>
+<tr><td>3.2.3</td><td colspan="2">Élaboration de jeux de données spécifiques au client, d’évaluations et d’analyses, en fonction du temps consacré, tarif horaire</td><td colspan="2">140</td></tr>
+<tr><td>3.2.4</td><td colspan="2">Accès aux données suisses du système d’analyse, pour une durée d’un an, par accès</td><td colspan="2">2000</td></tr>
+<tr><td>3.3</td><td colspan="2">Monitorage du trafic</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">Accès aux données suisses concernant le monitorage du trafic, pour une durée d’un an, par accès</td><td colspan="2">2000</td></tr>
+<tr><td>4</td><td colspan="2">Émission de cartes pour tachygraphe</td><td colspan="2"></td></tr>
+<tr><td>4.1</td><td colspan="2">Carte de conducteur</td><td colspan="2"></td></tr>
+<tr><td>4.1.1</td><td colspan="2">Commande en ligne</td><td colspan="2">70</td></tr>
+<tr><td>4.1.2</td><td colspan="2">Demande sur papier</td><td colspan="2">85</td></tr>
+<tr><td>4.2</td><td colspan="2">Carte d’atelier, commande en ligne</td><td colspan="2">70</td></tr>
+<tr><td>4.3</td><td colspan="2">Carte d’entreprise</td><td colspan="2"></td></tr>
+<tr><td>4.3.1</td><td colspan="2">Commande en ligne</td><td colspan="2">70</td></tr>
+<tr><td>4.3.2</td><td colspan="2">Demande sur papier</td><td colspan="2">85</td></tr>
+<tr><td>4.4</td><td colspan="2">Carte de contrôle, commande en ligne</td><td colspan="2">45</td></tr>
+<tr><td>4.5</td><td colspan="2">Cartes de remplacement: le prix est fixé en fonction de la durée de validité restante</td><td colspan="2"></td></tr>
+<tr><td>4a</td><td colspan="2">Délivrance de réceptions par type</td><td colspan="2"></td></tr>
+<tr><td>4a.1</td><td colspan="2">Réception par type de véhicules et de châssis</td><td colspan="2"></td></tr>
+<tr><td>4a.1.1</td><td colspan="2">Traitement administratif des documents</td><td colspan="2">200</td></tr>
+<tr><td>4a.1.2</td><td colspan="2">Délivrance de la réception par type ou de la fiche de données</td><td colspan="2">100</td></tr>
+<tr><td>4a.1.3</td><td colspan="2">Carte supplémentaire, compléments, ajouts et corrections</td><td colspan="2">200</td></tr>
+<tr><td>4a.2</td><td colspan="2">Réception par type de composants et systèmes de véhicules, d’objets d’équipement et de dispositifs de protection</td><td colspan="2"></td></tr>
+<tr><td>4a.2.1</td><td colspan="2">Réception par type ayant une validité nationale</td><td colspan="2">100</td></tr>
+<tr><td>4a.2.2</td><td colspan="2">Réception par type ayant une validité internationale</td><td colspan="2">300</td></tr>
+<tr><td>4a.3</td><td colspan="2">Émoluments en fonction du temps consacré</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">L’émolument pour l’examen administratif des documents est calculé par heure de travail. Il dépend de l’ampleur et de la difficulté de la tâche et s’applique aux prestations qui dépassent le cadre de l’examen habituel.</td><td colspan="2">70*–*120</td></tr>
+<tr><td>4a.4</td><td colspan="2">Émoluments pour la vérification de la conformité</td><td colspan="2"></td></tr>
+<tr><td>4a.4.1</td><td colspan="2">Forfait pour la vérification de la conformité, pour une durée de 4 heures au plus</td><td colspan="2">500</td></tr>
+<tr><td>4a.4.2</td><td colspan="2">Pour chaque nouvelle heure de travail entamée</td><td colspan="2">100</td></tr>
+<tr><td>5</td><td colspan="2">Octroi ou refus d’autorisations ainsi que contrôles préliminaires dans la zone des routes nationales</td><td colspan="2"></td></tr>
+<tr><td>5.1</td><td colspan="2">Autorisations pour des installations destinées au ravitaillement et à la restauration ainsi que pour des installations de remise de moyens de propulsion alternatifs sur les aires de repos (art. 7 de l’ordonnance du 7 nov. 2007 sur les routes nationales, ORN[^annexu1-lvlu1-3])</td><td colspan="2">300–5000</td></tr>
+<tr><td>5.2</td><td colspan="2">Autorisations pour l’utilisation du domaine des routes nationales (art. 29 ORN) et pour les projets de construction sis dans la zone des routes nationales (art. 30 ORN)</td><td colspan="2">300–5000</td></tr>
+<tr><td>5.3</td><td colspan="2">Prises de position sur les demandes d’autorisation de construire au sens de l’art. 24, al. 2, de la loi fédérale du 8 mars 1960 sur les routes nationales[^annexu1-lvlu1-4]</td><td colspan="2">300–1000</td></tr>
+<tr><td>5.4</td><td colspan="2">Examen préliminaire des demandes d’autorisation de construire et des demandes d’autorisation de réclames dans la zone des routes nationales ainsi que leur octroi ou leur refus: en fonction du temps consacré</td><td colspan="2"></td></tr>
+<tr><td></td><td colspan="2">– jusqu’à 2 heures</td><td colspan="2">gratuit</td></tr>
+<tr><td></td><td colspan="2">– tarif horaire dès la 3<sup>e</sup> heure</td><td colspan="2">150</td></tr>
+<tr><td>6</td><td colspan="2">Reconnaissance (art. 17*a*, al. 1, de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers [ORT][^annexu1-lvlu1-5]), notification (art. 17*c*, al. 2, ORT), annulation de la reconnaissance (17*d*, al. 1, ORT) et contrôle de la plausibilité du plan d’expertise d’un organe d’expertise (19*a*, al. 4, ORT)</td><td colspan="2"></td></tr>
+<tr><td>6.1</td><td colspan="2">Par procédure de reconnaissance</td><td colspan="2">300</td></tr>
+<tr><td>6.2</td><td colspan="2">Par procédure de notification</td><td colspan="2">200</td></tr>
+<tr><td>6.3</td><td colspan="2">Par procédure d’annulation</td><td colspan="2">300</td></tr>
+<tr><td>6.4</td><td colspan="2">Contrôle de la plausibilité du plan d’expertise</td><td colspan="2">500</td></tr>
+<tr><td>7</td><td colspan="2">Autres décisions dans le domaine du droit de la circulation routière</td><td colspan="2">jusqu’à 5000</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^annexu1-lvlu1-2]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
-[^annexu1-lvlu1-3]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^annexu1-lvlu1-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^annexu1-lvlu1-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^annexu1-lvlu1-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^annexu1-lvlu1-3]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^annexu1-lvlu1-4]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+[^annexu1-lvlu1-5]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)

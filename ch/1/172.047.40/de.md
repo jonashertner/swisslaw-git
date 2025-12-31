@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2007 über die Gebühren des Bundesamtes für
 short: GebV-ASTRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/786"
 language: de
-version: 2025-05-01
+version: 2026-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2007-786-20250501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-786-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20250501/de"
 
 (Gebührenverordnung ASTRA, GebV-ASTRA)
 
-vom 7. November 2007 (Stand am 1. Mai 2025)
+vom 7. November 2007 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 1
 
@@ -35,11 +35,9 @@ Diese Verordnung regelt die Gebühren für Verfügungen und Dienstleistungen des
 
 #### Art. 2
 
-**Gebühren für Typengenehmigungen**
+[^2-1]
 
-Die Gebühren für das Typengenehmigungsverfahren für Fahrzeuge richten sich nach Artikel 32 und Anhang 3 der Verordnung vom 19. Juni 1995[^2-1] über die Typengenehmigung von Strassenfahrzeugen.
-
-[^2-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^2-1]: Aufgehoben durch Ziff. I der V vom 15. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 #### Art. 3
 
@@ -47,7 +45,7 @@ Die Gebühren für das Typengenehmigungsverfahren für Fahrzeuge richten sich na
 
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^3-1].
 
-[^3-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^3-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 4
 
@@ -85,17 +83,20 @@ Die Gebühren werden bemessen:
 
 <sup>8</sup> Die Erteilung oder Verweigerung der Genehmigung für das Aufstellen und Ändern von touristischen Signalisationen im Bereich von Nationalstrassen erster und zweiter Klasse erfolgt kostenlos.[^5-11]
 
+<sup>9</sup> Die Gebühren nach den Ziffern 3.1.8 und 4*a* des Anhangs können erlassen werden, sofern die Amtshandlung im Interesse des ASTRA liegt oder eine Änderung der Typengenehmigung ohne Verschulden des Gesuchstellers oder der Gesuchstellerin vorgenommen werden muss.[^5-12]
+
 [^5-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6963](https://fedlex.data.admin.ch/eli/oc/2012/845)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
-[^5-3]: [SR 451.13](https://fedlex.data.admin.ch/eli/cc/2010/227)
-[^5-4]: [SR 741.57](https://fedlex.data.admin.ch/eli/cc/2018/782)
+[^5-3]: [SR 451.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7170)
+[^5-4]: [SR 741.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8681)
 [^5-5]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
-[^5-6]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^5-6]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^5-7]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
-[^5-8]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^5-8]: [SR 741.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8684)
 [^5-9]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 [^5-10]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
 [^5-11]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5-12]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 #### Art. 5a
 
@@ -107,7 +108,10 @@ Die Gebühren werden bemessen:
 
 <sup>3</sup> Die gesamtschweizerischen Daten aus dem Subsystem IVZ-Auswertung des Informationssystems Verkehrszulassung werden den Kantonen sowie Dritten, welche die Daten in deren Auftrag bearbeiten, mit einer Gebührenermässigung von 50 Prozent abgegeben.
 
+<sup>4</sup> Die Gebühren nach den Ziffern 3.1.8 und 4*a* des Anhangs können um 50 Prozent ermässigt werden, sofern die Amtshandlung im Interesse des ASTRA liegt oder eine Änderung der Typengenehmigung ohne Verschulden des Gesuchstellers oder der Gesuchstellerin vorgenommen werden muss.[^5a-2]
+
 [^5a-1]: Eingefügt durch Ziff. I der V vom 30. Nov. 2012 ([AS 2012 6963](https://fedlex.data.admin.ch/eli/oc/2012/845)). Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^5a-2]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 #### Art. 6
 
@@ -141,9 +145,11 @@ Die Gebührenverordnung ASTRA vom 19. Juni 1995[^9-1] wird aufgehoben.
 
 #### Art. 10
 
-**Übergangsbestimmung**
+**Übergangsbestimmung zur Änderung vom 15. Oktober 2025**[^10-1]
 
-Für Verwaltungsverfahren und Dienstleistungen, die bei Inkrafttreten dieser Verordnung noch nicht abgeschlossen sind, gilt das bisherige Recht.
+Für Verwaltungsverfahren und Dienstleistungen, die bei Inkrafttreten dieser Änderung noch nicht abgeschlossen sind, gilt das bisherige Recht.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 #### Art. 11
 
@@ -157,7 +163,7 @@ Anhang[^t-1]
 
 ## Gebühren für besondere Dienstleistungen und Bewilligungen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 30. Nov. 2018 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Bereinigt gemäss Ziff. I der V vom 8. Sept. 2021 ([AS 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)) und vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 69](https://fedlex.data.admin.ch/eli/oc/2025/69)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 30. Nov. 2018 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Bereinigt gemäss Ziff. I der V vom 8. Sept. 2021 ([AS 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)), vom 15. Jan. 2025 ([AS 2025 69](https://fedlex.data.admin.ch/eli/oc/2025/69)) und Ziff. II der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 643](https://fedlex.data.admin.ch/eli/oc/2025/643)).
 
 <table>
 <tr><th></th><th></th><th>Franken</th></tr>
@@ -182,8 +188,12 @@ Anhang[^t-1]
 <tr><td>3.1.3.2</td><td>in allen anderen Fällen</td><td>280</td></tr>
 <tr><td>3.1.4</td><td>Abgabe eines bestehenden Datensatzes, pro Datenlieferung</td><td>110</td></tr>
 <tr><td>3.1.5</td><td>Erstellen von kundenspezifischen Datensätzen, Auswertungen und Analysen nach Zeitaufwand, pro Arbeitsstunde</td><td>140</td></tr>
-<tr><td>3.1.6</td><td>Erteilen einer Zugriffsberechtigung auf die gesamtschweizerischen, aus dem Subsystem IVZ-Personen übernommenen Daten im Subsystem IVZ-Auswertung, für die Dauer eines Jahres, pro Zugriffsberechtigung</td><td>2000</td></tr>
+<tr><td>3.1.6</td><td>…</td><td></td></tr>
 <tr><td>3.1.7</td><td>Erteilen einer Zugriffsberechtigung auf die gesamtschweizerischen, aus dem Subsystem IVZ-Fahrzeuge übernommenen Daten im Subsystem IVZ-Auswertung, für die Dauer eines Jahres, pro Zugriffsberechtigung</td><td>2000</td></tr>
+<tr><td>3.1.8</td><td>Bekanntgabe von Fahrzeugdaten aus einer Typengenehmigung oder einem Datenblatt, pro immatrikuliertes Fahrzeug Bekanntgabe eines elektronischen Einzelfahrzeugdatensatzes (Art. 72*b* der Verkehrszulassungsverordnung vom 27. Oktober 1976[^annexu1-lvlu1-2] [VZV])</td><td></td></tr>
+<tr><td>3.1.8.1</td><td>Fahrzeugdaten von Motorwagen</td><td>5.50</td></tr>
+<tr><td>3.1.8.2</td><td>Fahrzeugdaten von Anhängern, Motorrädern und übrigen Motorfahrzeugen</td><td>4</td></tr>
+<tr><td>3.1.8.3</td><td>Fahrzeugdaten von Motorfahrrädern sowie Fahrzeugen, die den Motorfahrrädern gleichgestellt sind. Diese Gebühr wird anhand der Verzeichnisse nach Artikel 92 Absatz 1 VZV beim Inhaber oder bei der Inhaberin der Typengenehmigung erhoben. Das Bundesamt kann in die Nachweise der Zollveranlagung Einsicht nehmen.</td><td>1.50</td></tr>
 <tr><td>3.2</td><td>Informationssystem Strassenverkehrsunfälle</td><td></td></tr>
 <tr><td>3.2.1</td><td>Erstellen einer Leistungs- und Datenschutzvereinbarung</td><td>280</td></tr>
 <tr><td>3.2.2</td><td>Abgabe eines bestehenden Datensatzes, pro Datenlieferung</td><td>110</td></tr>
@@ -201,14 +211,27 @@ Anhang[^t-1]
 <tr><td>4.3.2</td><td>Papiergesuch</td><td>85</td></tr>
 <tr><td>4.4</td><td>Kontrollkarte, Online-Bestellung</td><td>45</td></tr>
 <tr><td>4.5</td><td>Ersatzkarten: Der Preis bemisst sich nach der Restgültigkeit</td><td></td></tr>
+<tr><td>4a</td><td>Erteilen von Typengenehmigungen</td><td></td></tr>
+<tr><td>4a.1</td><td>Typengenehmigung von Fahrzeugen und Fahrgestellen</td><td></td></tr>
+<tr><td>4a.1.1</td><td>Administrative Verarbeitung der Unterlagen</td><td>200</td></tr>
+<tr><td>4a.1.2</td><td>Erteilung der Typengenehmigung bzw. des Datenblattes</td><td>100</td></tr>
+<tr><td>4a.1.3</td><td>Zusatzkarte, Ergänzungen, Nachträge und Korrekturen</td><td>200</td></tr>
+<tr><td>4a.2</td><td>Typengenehmigung von Fahrzeugteilen, Fahrzeugsystemen, Ausrüstungsgegenständen und Schutzvorrichtungen</td><td></td></tr>
+<tr><td>4a.2.1</td><td>Typengenehmigung mit nationaler Gültigkeit</td><td>100</td></tr>
+<tr><td>4a.2.2</td><td>Typengenehmigung mit internationaler Gültigkeit</td><td>300</td></tr>
+<tr><td>4a.3</td><td>Gebühren nach Zeitaufwand</td><td></td></tr>
+<tr><td></td><td>Die Gebühr für die administrative Prüfung der Unterlagen und Dokumente wird je aufgewendete Arbeitsstunde berechnet. Sie richtet sich nach dem Umfang und der Schwierigkeit und gilt für Aufwendungen, die nicht dem üblichen Prüfungsumfang entsprechen.</td><td>70*–*120</td></tr>
+<tr><td>4a.4</td><td>Gebühren für die Konformitätsüberprüfung</td><td></td></tr>
+<tr><td>4a.4.1</td><td>Konformitätsüberprüfungen von bis zu 4 Stunden Zeitaufwand, pauschal</td><td>500</td></tr>
+<tr><td>4a.4.2</td><td>jede weitere angebrochene Arbeitsstunde</td><td>100</td></tr>
 <tr><td>5</td><td>Erteilung oder Verweigerung von Bewilligungen sowie Vorprüfungen im Bereich der Nationalstrassen</td><td></td></tr>
-<tr><td>5.1</td><td>Bewilligungen für Versorgungs- und Verpflegungseinrichtungen sowie für Anlagen zur Abgabe von alternativen Antriebsmitteln auf Rastplätzen (Art. 7 der Nationalstrassenverordnung vom 7. Nov. 2007[^annexu1-lvlu1-2], NSV)</td><td>300–5000</td></tr>
+<tr><td>5.1</td><td>Bewilligungen für Versorgungs- und Verpflegungseinrichtungen sowie für Anlagen zur Abgabe von alternativen Antriebsmitteln auf Rastplätzen (Art. 7 der Nationalstrassenverordnung vom 7. Nov. 2007[^annexu1-lvlu1-3], NSV)</td><td>300–5000</td></tr>
 <tr><td>5.2</td><td>Bewilligungen für die Nutzung des Nationalstrassenareals (Art. 29 NSV) und für Bauvorhaben im Bereich von Nationalstrassen (Art. 30 NSV)</td><td>300–5000</td></tr>
-<tr><td>5.3</td><td>Stellungnahmen zu Baugesuchen nach Artikel 24 Absatz 2 des Bundesgesetzes vom 8. März 1960[^annexu1-lvlu1-3] über die Nationalstrassen</td><td>300–1000</td></tr>
+<tr><td>5.3</td><td>Stellungnahmen zu Baugesuchen nach Artikel 24 Absatz 2 des Bundesgesetzes vom 8. März 1960[^annexu1-lvlu1-4] über die Nationalstrassen</td><td>300–1000</td></tr>
 <tr><td>5.4</td><td>Vorprüfung von Baugesuchen und von Gesuchen für die Bewilligung von Reklamen im Bereich der Nationalstrassen sowie Erteilung oder Verweigerung der Genehmigung für diese Bewilligung: nach Zeitaufwand</td><td></td></tr>
 <tr><td></td><td>– Aufwand bis 2 Stunden</td><td>kostenlos</td></tr>
 <tr><td></td><td>– Aufwand ab 3. Stunde, je</td><td>150</td></tr>
-<tr><td>6</td><td>Anerkennung (Art. 17*a* Abs. 1 der Verordnung vom 19. Juni 1995[^annexu1-lvlu1-4] über die Typengenehmigung von Strassenfahrzeugen [TGV]), Notifizierung (Art. 17*c* Abs. 2 TGV), Aufhebung der Anerkennung (Art. 17*d* Abs. 1 TGV) und Plausibilisierung Prüfkonzept von Prüfstellen (Art. 19*a* Abs. 4 TGV)</td><td></td></tr>
+<tr><td>6</td><td>Anerkennung (Art. 17*a* Abs. 1 der Verordnung vom 19. Juni 1995[^annexu1-lvlu1-5] über die Typengenehmigung von Strassenfahrzeugen [TGV]), Notifizierung (Art. 17*c* Abs. 2 TGV), Aufhebung der Anerkennung (Art. 17*d* Abs. 1 TGV) und Plausibilisierung Prüfkonzept von Prüfstellen (Art. 19*a* Abs. 4 TGV)</td><td></td></tr>
 <tr><td>6.1</td><td>Pro Anerkennungsverfahren</td><td>300</td></tr>
 <tr><td>6.2</td><td>Pro Notifizierungsverfahren</td><td>200</td></tr>
 <tr><td>6.3</td><td>Pro Aufhebungsverfahren</td><td>300</td></tr>
@@ -216,7 +239,8 @@ Anhang[^t-1]
 <tr><td>7</td><td>Weitere Verfügungen im Bereich des Strassenverkehrsrechts</td><td>bis 5000</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^annexu1-lvlu1-2]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
-[^annexu1-lvlu1-3]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^annexu1-lvlu1-4]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^annexu1-lvlu1-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^annexu1-lvlu1-2]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^annexu1-lvlu1-3]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^annexu1-lvlu1-4]: [SR 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+[^annexu1-lvlu1-5]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
