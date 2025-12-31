@@ -4,13 +4,12 @@ number: VI E/211/2
 title: Verordnung zum kantonalen Jagdgesetz
 short: Jagdverordnung
 language: de
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-19
+version: 2026-01-01
+version_adopted: 2026-02-18
 adopted: 1990-06-27
 in_force: 1990-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.211.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2556/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2629/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2556/pdf_file"
 
 (Jagdverordnung)
 
-Vom 27.06.1990 (Stand 01.07.2025)
+Vom 27.06.1990 (Stand 01.01.2026)
 
 Der Landrat,
 
@@ -153,7 +152,9 @@ verordnet:
 
 **Grundsatz**
 
-<sup>1</sup> Die Grundtaxen betragen für das Jahrespatent 560 Franken und für das Zusatzpatent 60 Franken. Sie können jeweils vom Regierungsrat dem Landeskostenindex für Konsumentenpreise angepasst werden (Basis April 2002).
+<sup>1</sup> Die Grundtaxen betragen für das Jahrespatent 725 Franken und für das Zusatzpatent 60 Franken.
+
+<sup>2</sup> Der Regierungsrat kann die Grundtaxen jeweils dem Landesindex für Konsumentenpreise anpassen (Basis Januar 2025). Er macht die Anpassungen öffentlich bekannt.
 
 #### Art. 10
 
@@ -162,8 +163,8 @@ verordnet:
 <sup>1</sup> Beim Erwerb des Jagdpatentes sind folgende Taxen zu bezahlen:
 
 - a. Personen, die seit dem 1. Januar des laufenden Jahres den Wohnsitz im Kanton Glarus haben, Grundtaxe für das Jahrespatent;
-- b. in der übrigen Schweiz wohnhafte Personen oder solche, die noch nicht seit dem 1. Januar des laufenden Jahres im Kanton Glarus wohnen, die vierfache Grundtaxe des Jahrespatentes;
-- c. im Ausland wohnhafte Personen oder solche, die noch nicht seit dem 1. Januar des laufenden Jahres den Wohnsitz in der Schweiz haben, die sechsfache Grundtaxe des Jahrespatentes;
+- b. ausserhalb des Kantons Glarus wohnhafte Personen oder solche, die noch nicht seit dem 1. Januar des laufenden Jahres im Kanton Glarus wohnen, die dreieinhalbfache Grundtaxe des Jahrespatentes;
+- c. …
 - d. Zusatzpatent für Nacht- und Passjagd auf Haarraubwild, Grundtaxe.
 
 <sup>2</sup> Zur Verhütung und Vergütung von Wildschäden wird ein jährlicher Zuschlag von maximal 10 Prozent der einfachen Grundtaxe des Jahrespatentes erhoben, welcher in den Wildschadenfonds zu legen ist.
