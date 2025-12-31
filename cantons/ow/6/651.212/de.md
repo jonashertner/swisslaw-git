@@ -3,20 +3,19 @@ canton: OW
 number: "651.212"
 title: Ausführungsbestimmungen über die Fischerei im Eugenisee in Engelberg
 language: de
-version: 2015-01-01
-valid_until: 2025-12-31
-version_adopted: 2014-11-04
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 1999-03-30
 in_force: 1999-04-15
 url: "http://gdb.ow.ch/app/de/texts_of_law/651.212"
-pdf: "http://gdb.ow.ch/api/de/versions/1850/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1995/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Fischerei im Eugenisee in Engelberg
 
-vom 30.03.1999 (Stand 01.01.2015)
+vom 30.03.1999 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -44,7 +43,7 @@ beschliesst:
 
 <sup>2</sup> Eine Person darf je Tag nur ein Patent lösen.
 
-<sup>3</sup> Die Patente können persönlich am Vortag und am Tag der Gültigkeit während der Öffnungszeiten am Bahnhof zb in Engelberg sowie beim Amt für Landwirtschaft und Umwelt in Sarnen gegen Barzahlung gelöst werden. Diese und allenfalls weitere Ausgabestellen werden jeweils anfangs April im Amtsblatt veröffentlicht. Die Patente für Sonntag und/oder Montag können bereits am Freitag zuvor gelöst werden.
+<sup>3</sup> Die Patente können persönlich am Vortag und am Tag der Gültigkeit während der Öffnungszeiten beim Amt für Landwirtschaft und Umwelt in Sarnen sowie bei weiteren Ausgabestellen erworben oder über die Patent-App Obwalden gelöst werden. Die Ausgabestellen werden jeweils anfangs April im Amtsblatt veröffentlicht. Die Patente für Sonntag und/oder Montag können bereits am Freitag zuvor gelöst werden.
 
 <sup>4</sup> Berechtigt zum Bezug der Patente sind Erwachsene und Jugendliche ab dem Kalenderjahr, in welchem sie das 10. Altersjahr erreichen.
 
@@ -64,11 +63,9 @@ beschliesst:
 - b. dem Spinner/Löffel;
 - c. der Fliege mit einer künstlichen oder natürlichen Mücke, Nymphe oder eines Streamers.
 
-<sup>2</sup> Das Verwenden von Angeln mit Widerhaken ist für Anglerinnen und Angler, welche über einen Sachkunde-Nachweis nach Art. 2 der Ausführungsbestimmungen über die Fischerei[^3-1] verfügen, zugelassen.
+<sup>2</sup> Das Verwenden von Angeln mit Widerhaken ist verboten.
 
 <sup>3</sup> Gehakte Fische sind sicher und schonend zu landen und sofort zu töten. Das Hältern und das Zurücksetzen von Fischen ist verboten.
-
-[^3-1]: GDB [651.211](http://gdb.ow.ch/data/651.211/de)
 
 #### Art. 4
 
@@ -127,9 +124,9 @@ beschliesst:
 
 **Statistik**
 
-<sup>1</sup> Jede patentinhabende Person ist zur wahrheitsgetreuen Führung der Statistik verpflichtet. Keine, unwahre oder unvollständige Angaben haben den sofortigen Entzug oder die Verweigerung weiterer Patente zur Folge. Die behändigten Fische müssen sofort nach dem Fang mit Kugelschreiber oder Filzstift in die Statistik übertragen werden.
+<sup>1</sup> Jede patentinhabende Person ist zur wahrheitsgetreuen Führung der Statistik verpflichtet. Keine, unwahre oder unvollständige Angaben haben den sofortigen Entzug oder die Verweigerung weiterer Patente zur Folge. Die behändigten Fische müssen sofort nach dem Fang mit Kugelschreiber oder Filzstift in die Patentkarte eingetragen oder in der Patent-App Obwalden erfasst werden.
 
-<sup>2</sup> Die Fangstatistik ist nach dem Fischen bei den Ausgabestellen oder bei der örtlichen Rückgabestelle abzugeben (Briefkasten beim See).
+<sup>2</sup> Auf der Patentkarte geführte Statistiken sind nach dem Fischen bei den Ausgabestellen oder bei der örtlichen Rückgabestelle abzugeben (Briefkasten beim See).
 
 #### Art. 11
 
@@ -169,6 +166,8 @@ geändert durch
 
 \- Nachtrag vom 20. Mai 2014, vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) am 18. Juli 2014 als nicht genehmigungsbedürftig erklärt, in Kraft seit 1. Juli 2014 (OGS 2014, 22)
 
-\- Nachtrag zu den AB über die Fischerei vom 4. November 2014, in Kraft seit 1. Januar 2015 (OGS 2014, 49)
+\- Nachtrag zu den AB über die Fischerei vom 4. November 2014, in Kraft seit 1. Januar 2015 (OGS 2014, 49),
+
+\- Nachtrag zu den AB über die Fischerei vom 2. Dezember 2025 (OGS 2025, 30), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 21. Januar 2026 (OGS 2026, 005), in Kraft seit 1. Januar 2026
 
 OGS 1999, 71
