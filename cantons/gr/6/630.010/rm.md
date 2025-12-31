@@ -4,13 +4,12 @@ number: "630.010"
 title: Ordinaziun tar la lescha davart la protecziun da la populaziun
 short: ORtLPPC
 language: rm
-version: 2016-01-01
-valid_until: 2025-12-31
-version_adopted: 2015-12-01
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/630.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2614/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3893/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2614/pdf_file"
 
 (ORtLPPC)
 
-dals 01-12-2015 (versiun dals 01-01-2016)
+dals 01-12-2015 (versiun dals 01-01-2026)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -64,7 +63,8 @@ relaschada da la regenza il 1. da december 2015
 - k) obligar persunas da las professiuns da sanadad da far servetschs en ospitals u tar ils servetschs da salvament ubain da far auters servetschs da tgira e d'assistenza;
 - l) obligar persunas da las professiuns dals fatgs veterinars da far servetschs per cumbatter cunter epidemias d'animals u da far auters servetschs veterinars;
 - m) attribuir a las vischnancas persunas che basegnan protecziun per la collocaziun e per l'assistenza;
-- n) obligar la populaziun da prestar agid en situaziuns extraordinarias a favur da las autoritads e da las persunas privatas pertutgadas.
+- n) obligar la populaziun da prestar agid en situaziuns extraordinarias a favur da las autoritads e da las persunas privatas pertutgadas;
+- o) designar il post ch'è cumpetent per la communicaziun cun las medias e cun la populaziun en situaziuns extraordinarias.
 
 #### Art. 4
 
@@ -80,14 +80,14 @@ relaschada da la regenza il 1. da december 2015
 
 #### Art. 5
 
-**Uffizi da militar e da protecziun civila**
+**Uffizi da protecziun da la populaziun e militar**
 
-<sup>1</sup> L'uffizi da militar e da protecziun civila (uffizi) exequescha ils relaschs da la protecziun da la populaziun e prenda las mesiras e las disposiziuns necessarias, nun che questas incumbensas sajan surdadas tras questa ordinaziun u tras la legislaziun speziala explicitamain a la regenza, al departament, ad auters uffizis u a las vischnancas.
+<sup>1</sup> L'Uffizi da protecziun da la populaziun e militar (uffizi) exequescha ils relaschs da la protecziun da la populaziun e prenda las mesiras e las disposiziuns necessarias, nun che questas incumbensas sajan surdadas tras questa ordinaziun u tras la legislaziun speziala explicitamain a la Regenza, al departament, ad auters uffizis u a las vischnancas.
 
 <sup>2</sup> Plinavant ha el en spezial las suandantas incumbensas:
 
 - a) scolar il stab directiv chantunal sco er las represchentantas ed ils represchentants d'uffizis u da manaschis che vegnan engaschads dal stab directiv chantunal per liquidar eveniments da las situaziuns spezialas u extraordinarias;
-- b) scolar ils stabs directivs communals;
+- b) scolar e perfecziunar ils stabs directivs communals;
 - c) diriger e coordinar ils meds che vegnan offrids directamain a las vischnancas tras ils partenaris da la protecziun da la populaziun e tras terzas persunas;
 - d) elavurar recumandaziuns generalas per mauns dal departament per avertir u per alarmar las vischnancas e la populaziun sco er elavurar instrucziuns da cumportament per la populaziun;
 - e) ordinar als ospitals da metter en funcziun lur ospitals protegids sutterrans;
@@ -101,9 +101,9 @@ relaschada da la regenza il 1. da december 2015
 
 #### Art. 6
 
-**Uffizi per la natira e l'ambient**
+**Uffizi d'ambient**
 
-<sup>1</sup> En connex cun il provediment d'aua da baiver en situaziuns d'urgenza en il senn da la legislaziun federala davart il provediment economic dal pajais ha l'uffizi per la natira e l'ambient las suandantas incumbensas:
+<sup>1</sup> En connex cun il provediment d'aua da baiver en situaziuns d'urgenza en il senn da la legislaziun federala davart il provediment economic dal pajais ha l'Uffizi d'ambient las suandantas incumbensas:
 
 - a) coordinar la planisaziun dal provediment d'aua da baiver en situaziuns spezialas ed extraordinarias tranter ils uffizis chantunals e las proprietarias ed ils proprietaris da stabiliments dal provediment d'aua da baiver;
 - b) cussegliar las proprietarias ed ils proprietaris da stabiliments dal provediment d'aua da baiver en connex cun l'elavuraziun da planisaziuns regiunalas dal provediment d'aua da baiver;
@@ -115,15 +115,15 @@ relaschada da la regenza il 1. da december 2015
 
 **Stab directiv chantunal 1. cumposiziun**
 
-<sup>1</sup> Al stab directiv chantunal appartegnan la cumandanta u il cumandant da la polizia chantunala, la manadra u il manader da la partiziun "pumpiers" da l'assicuranza d'edifizis sco er mintgamai la manadra u il manader da l'uffizi da sanadad, da l'uffizi da construcziun bassa, da l'uffizi da guaud e privels da la natira, da l'uffizi per la natira e l'ambient e da l'uffizi da militar e da protecziun civila.
+<sup>1</sup> Al Stab directiv chantunal appartegnan la cumandanta u il cumandant da la Polizia chantunala, las manadras ed ils manaders da la partiziun Pumpiers da l'Assicuranza d'edifizis, da l'Uffizi da sanadad, da l'Uffizi da construcziun bassa, da l'Uffizi da guaud e privels da la natira, da l'Uffizi d'ambient, da l'Uffizi da veterinari e victualias, da l'Uffizi d'informatica, da l'Uffizi da persunal e da l'Uffizi da protecziun da la populaziun e militar sco er ina represchentanza da la Chanzlia chantunala.
 
-<sup>2</sup> Per la prevenziun e per la liquidaziun d'eveniments da las situaziuns spezialas u extraordinarias po il stab directiv engaschar las represchentantas ed ils represchentants necessaris d'uffizis u da manaschis.
+<sup>2</sup> Per la prevenziun e per la liquidaziun d'eveniments da las situaziuns spezialas u extraordinarias po il stab directiv engaschar las represchentantas ed ils represchentants necessaris d'uffizis, da vischnancas u da manaschis.
 
 #### Art. 8
 
-**2. schef dal stab e viceschef dal stab**
+**2. substituziun da la scheffa u dal schef dal Stab directiv chantunal**
 
-<sup>1</sup> Durant la fasa acuta d'in eveniment da la situaziun speziala u extraordinaria funghescha la cumandanta u il cumandant da la polizia chantunala sco scheffa u schef dal stab directiv chantunal e l'uffiziera u l'uffizier da pichet, che vegn designà da la scheffa u dal schef dal stab directiv chantunal, sco substituta u substitut.
+<sup>1</sup> Durant la fasa acuta da situaziuns spezialas ed extraordinarias surpiglia la manadra u il manader dal post da servetsch u dal post spezialisà ch'è pertutgà il pli fitg la substituziun da la scheffa u dal schef dal Stab directiv chantunal.
 
 <sup>2</sup> En la fasa da prevenziun e durant la fasa da restabiliment funghescha la manadra u il manader da l'uffizi da militar e da protecziun civila sco scheffa u schef dal stab directiv chantunal e la manadra u il manader da l'uffizi da guaud e privels da la natira sco substituta u substitut.
 
@@ -172,7 +172,7 @@ relaschada da la regenza il 1. da december 2015
 
 **Stab directiv communal 1. cumposiziun**
 
-<sup>1</sup> Las vischnancas ston annunziar a l'uffizi mintga onn la cumposiziun da lur stabs directivs sco er las mutaziuns.
+<sup>1</sup> Las vischnancas ston inditgar la cumposiziun da lur stabs directivs sin la plattafurma che vegn messa a disposiziun da l'uffizi ed actualisar cuntinuadamain las mutaziuns.
 
 #### Art. 12
 
@@ -184,7 +184,9 @@ relaschada da la regenza il 1. da december 2015
 
 **Scolaziun e furmaziun supplementara**
 
-<sup>1</sup> Las commembras ed ils commembers dals stabs directivs ston absolver la scolaziun fundamentala d'in di che vegn offrida da l'uffizi, e mintga 5 onns ina furmaziun supplementara d'in mez di.
+<sup>1</sup> Las commembras ed ils commembers dals stabs directivs ston absolver la scolaziun fundamentala d'in di che vegn offrida da l'uffizi, e mintga 5 onns ina furmaziun supplementara d'in di.
+
+<sup>2</sup> Igl è er pussaivel d'absolver la furmaziun supplementara d'in di en il rom d'in exercizi cun il stab directiv communal, che vegn organisà da l'uffizi.
 
 ## 3. Prevenziun per situaziuns spezialas ed extraordinarias
 
@@ -203,7 +205,7 @@ relaschada da la regenza il 1. da december 2015
 - a) che las sirenas vegnian messas en funcziun a maun per l'alarm general;
 - b) che las persunas ch'èn responsablas per metter en funcziun las sirenas a maun hajan liber access als implants da sirena.
 
-<sup>2</sup> Per mintga sirena ston las vischnancas annunziar a l'uffizi ina persuna ch'è responsabla per metter en funcziun la sirena a maun. Las datas da contact ston vegnir actualisadas cuntinuadamain.
+<sup>2</sup> Per mintga sirena ston las vischnancas annunziar a l'uffizi ina persuna ch'è responsabla per metter en funcziun la sirena a maun, e sia substituziun. Las datas da contact ston vegnir actualisadas cuntinuadamain sin la plattafurma che vegn messa a disposiziun da l'uffizi.
 
 #### Art. 16
 
@@ -211,11 +213,13 @@ relaschada da la regenza il 1. da december 2015
 
 <sup>1</sup> Ils partenaris da la protecziun da la populaziun e tut ils uffizis ston far in concept per cas d'urgenza cun l'intent da garantir l'atgna abilitad d'agir en situaziuns spezialas ed extraordinarias.
 
+<sup>2</sup> L'Uffizi da persunal sustegna ils posts da servetsch chantunals en connex cun la realisaziun dal management da la cuntinuitad da las fatschentas (BCM).
+
 #### Art. 17
 
 **2. ospitals**
 
-<sup>1</sup> Cun agid d'organisaziuns d'urgenza adattadas ston ils ospitals publics garantir ch'els possian augmentar lur capacitad da recepziun en la dimensiun prescritta da l'uffizi da sanadad ed entaifer il temp prescrit. Per quest intent sto vegnir fatg in concept che regla tge proceduras, tge cumpetenzas e tge vias da communicaziun ch'èn planisadas en cas d'in eveniment.
+<sup>1</sup> Cun agid d'organisaziuns d'urgenza adattadas ston ils ospitals publics garantir ch'els possian augmentar lur capacitad da recepziun en la dimensiun prescritta da l'Uffizi da sanadad ed entaifer il temp prescrit. Per quest intent sto vegnir fatg in concept che regla tge proceduras, tge cumpetenzas e tge vias da communicaziun ch'èn planisadas en cas d'in eveniment.
 
 <sup>2</sup> La responsabladad per l'obligaziun da magasinar e d'administrar medicaments e products medicinals ha la media chantunala u il medi chantunal per il sectur uman e la veterinaria chantunala u il veterinari chantunal per il sectur veterinar.
 

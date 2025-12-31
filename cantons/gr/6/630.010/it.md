@@ -4,13 +4,12 @@ number: "630.010"
 title: Ordinanza relativa alla legge sulla protezione della popolazione
 short: OLCPP
 language: it
-version: 2016-01-01
-valid_until: 2025-12-31
-version_adopted: 2015-12-01
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/630.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2614/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3893/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2614/pdf_file"
 
 (OLCPP)
 
-del 01.12.2015 (stato 01.01.2016)
+del 01.12.2015 (stato 01.01.2026)
 
 emanata dal Governo il 1° dicembre 2015
 
@@ -64,7 +63,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - k) l'imposizione dell'obbligo per i professionisti del settore sanitario di intervenire in ospedali, servizi di salvataggio o di effettuare altri interventi di cura e di assistenza;
 - l) l'imposizione dell'obbligo per i professionisti del settore veterinario di intervenire per la lotta alle epizoozie o di effettuare altri interventi di medicina veterinaria;
 - m) l'assegnazione ai comuni di persone in cerca di protezione da ospitare e da assistere;
-- n) l'imposizione dell'obbligo per la popolazione di prestare aiuto a favore di autorità o privati coinvolti in situazioni particolari.
+- n) l'imposizione dell'obbligo per la popolazione di prestare aiuto a favore di autorità o privati coinvolti in situazioni particolari;
+- o) la designazione dell'organo competente per la comunicazione con i media e la popolazione in situazioni straordinarie.
 
 #### Art. 4
 
@@ -80,14 +80,14 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 5
 
-**Ufficio del militare e della protezione civile**
+**Ufficio della protezione della popolazione e del militare**
 
-<sup>1</sup> L'Ufficio del militare e della protezione civile (Ufficio) esegue gli atti normativi in materia di protezione della popolazione e prende le misure e le decisioni necessarie, se tali compiti non sono espressamente assegnati al Governo, al Dipartimento, ad altri servizi o ai comuni dalla presente ordinanza o dalla legislazione speciale.
+<sup>1</sup> L'Ufficio della protezione della popolazione e del militare (Ufficio) esegue gli atti normativi in materia di protezione della popolazione e prende le misure e le decisioni necessarie, se tali compiti non sono espressamente assegnati al Governo, al Dipartimento, ad altri servizi o ai comuni dalla presente ordinanza o dalla legislazione speciale.
 
 <sup>2</sup> Inoltre, esso è competente in particolare per:
 
 - a) la formazione dello Stato maggiore di condotta cantonale e dei rappresentanti dei servizi o delle aziende a cui lo Stato maggiore di condotta cantonale si rivolge per la gestione di eventi legati a situazioni particolari o straordinarie;
-- b) la formazione degli Stati maggiori di condotta comunale;
+- b) la formazione e il perfezionamento professionale degli Stati maggiori di condotta comunali;
 - c) la gestione e il coordinamento dei mezzi offerti direttamente ai comuni dai partner della protezione della popolazione e da terzi;
 - d) l'elaborazione di raccomandazioni generali a destinazione del Dipartimento per l'allerta e l'allarme dei comuni e della popolazione nonché l'elaborazione di raccomandazioni di comportamento per la popolazione;
 - e) l'istruzione agli ospedali di garantire l'efficienza operativa dei loro ospedali sotterranei protetti;
@@ -101,9 +101,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 6
 
-**Ufficio per la natura e l'ambiente**
+**Ufficio dell'ambiente**
 
-<sup>1</sup> In relazione all'approvvigionamento con acqua potabile in situazioni di emergenza, secondo quanto previsto dalla legislazione federale sull'approvvigionamento economico del Paese, l'Ufficio per la natura e l'ambiente è competente per:
+<sup>1</sup> In relazione all'approvvigionamento con acqua potabile in situazioni di emergenza, secondo quanto previsto dalla legislazione federale sull'approvvigionamento economico del Paese, l'Ufficio dell'ambiente è competente per:
 
 - a) il coordinamento della pianificazione dell'approvvigionamento con acqua potabile in situazioni particolari e straordinarie tra i servizi cantonali e i proprietari di impianti di approvvigionamento idrico;
 - b) la consulenza a proprietari di impianti di approvvigionamento idrico in sede di allestimento delle pianificazioni regionali per l'approvvigionamento idrico;
@@ -115,15 +115,15 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Stato maggiore di condotta cantonale 1. Composizione**
 
-<sup>1</sup> Lo Stato maggiore di condotta cantonale è composto dal comandante della Polizia cantonale, dal capo della Sezione pompieri dell'Assicurazione fabbricati nonché dai capi dell'Ufficio dell'igiene pubblica, dell'Ufficio tecnico, dell'Ufficio foreste e pericoli naturali, dell'Ufficio per la natura e l'ambiente e dell'Ufficio del militare e della protezione civile.
+<sup>1</sup> Lo Stato maggiore di condotta cantonale è composto dal comandante della Polizia cantonale, dai capi della Sezione pompieri dell'Assicurazione fabbricati, dell'Ufficio della sanità, dell'Ufficio tecnico, dell'Ufficio foreste e pericoli naturali, dell'Ufficio dell'ambiente, dell'Ufficio veterinario e alimentare, dell'Ufficio d'informatica, dell'Ufficio del personale e dell'Ufficio della protezione della popolazione e del militare nonché da un rappresentante della Cancelleria dello Stato.
 
-<sup>2</sup> Per la prevenzione e la gestione di eventi legati a situazioni particolari o straordinarie lo Stato maggiore di condotta cantonale può rivolgersi ai rappresentanti di servizi o aziende.
+<sup>2</sup> Per la prevenzione e la gestione di eventi legati a situazioni particolari o straordinarie lo Stato maggiore di condotta cantonale può rivolgersi ai rappresentanti di servizi, comuni o aziende.
 
 #### Art. 8
 
-**2. Capo di Stato maggiore e sostituto capo di Stato maggiore**
+**2. Sostituto del capo di Stato maggiore di condotta cantonale**
 
-<sup>1</sup> Durante la fase acuta di un evento legato alla situazione particolare o straordinaria il comandante della Polizia cantonale funge da capo dello Stato maggiore di condotta cantonale e l'ufficiale di picchetto da questi nominato funge da suo sostituto.
+<sup>1</sup> Nella fase acuta, in situazioni particolari e straordinarie il ruolo di sostituto del capo di Stato maggiore di condotta cantonale viene assunto dal capoufficio del servizio o del servizio specializzato maggiormente interessato.
 
 <sup>2</sup> Durante la fase di prevenzione e la fase di ripristino il capo dell'Ufficio del militare e della protezione civile funge da capo dello Stato maggiore di condotta cantonale e il capo dell'Ufficio foreste e pericoli naturali funge da suo sostituto.
 
@@ -172,7 +172,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Stato maggiore di condotta comunale 1. Composizione**
 
-<sup>1</sup> Ogni anno i comuni devono comunicare all'Ufficio la composizione dei loro Stati maggiori e le variazioni.
+<sup>1</sup> I comuni devono indicare la composizione dei loro Stati maggiori di condotta sulla piattaforma messa a disposizione dall'Ufficio e devono aggiornare costantemente le modifiche.
 
 #### Art. 12
 
@@ -184,7 +184,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Formazione e perfezionamento professionale**
 
-<sup>1</sup> I membri degli Stati maggiori di condotta devono seguire la formazione di base della durata di una giornata proposta dall'Ufficio e ogni cinque anni un perfezionamento professionale di mezza giornata.
+<sup>1</sup> I membri degli Stati maggiori di condotta devono seguire la formazione di base della durata di una giornata proposta dall'Ufficio e ogni cinque anni un perfezionamento professionale di una giornata.
+
+<sup>2</sup> Il perfezionamento professionale di una giornata può essere svolto anche nel quadro di un'esercitazione con lo Stato maggiore di condotta comunale proposta dall'Ufficio.
 
 ## 3. Prevenzione di situazioni particolari e straordinarie
 
@@ -203,7 +205,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - a) l'azionamento manuale delle sirene per l'allarme generale;
 - b) l'accesso senza intralci agli impianti di sirene per le persone responsabili dell'azionamento manuale.
 
-<sup>2</sup> Essi devono comunicare all'Ufficio una persona competente per l'azionamento manuale per ciascuna sirena. I dati di contatto devono essere tenuti costantemente aggiornati.
+<sup>2</sup> Essi devono comunicare all'Ufficio una persona competente per l'azionamento manuale per ciascuna sirena e il suo sostituto. I dati di contatto devono essere tenuti costantemente aggiornati sulla piattaforma messa a disposizione dall'Ufficio.
 
 #### Art. 16
 
@@ -211,11 +213,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> I partner della protezione della popolazione e tutti i servizi devono allestire un piano d'emergenza al fine di garantire la propria capacità di agire in situazioni particolari e straordinarie.
 
+<sup>2</sup> L'Ufficio del personale sostiene i servizi cantonali nell'attuazione della gestione della continuità operativa (BCM).
+
 #### Art. 17
 
 **2. Ospedali**
 
-<sup>1</sup> Con organizzazioni d'emergenza adeguate, gli ospedali pubblici devono fare in modo di essere in grado di aumentare la loro capacità di accoglienza nella misura prescritta dall'Ufficio dell'igiene pubblica ed entro il termine di tempo prescritto. A tal fine è necessario allestire un piano che disciplini le procedure, le competenze e gli schemi di comunicazione previsti in caso di evento.
+<sup>1</sup> Con organizzazioni d'emergenza adeguate, gli ospedali pubblici devono fare in modo di essere in grado di aumentare la loro capacità di accoglienza nella misura prescritta dall'Ufficio della sanità ed entro il termine di tempo prescritto. A tal fine è necessario allestire un piano che disciplini le procedure, le competenze e gli schemi di comunicazione previsti in caso di evento.
 
 <sup>2</sup> La competenza per l'obbligo relativo allo stoccaggio e alla gestione di medicamenti e di dispositivi medici in ambito umano spetta al medico cantonale, mentre in ambito veterinario spetta al veterinario cantonale.
 

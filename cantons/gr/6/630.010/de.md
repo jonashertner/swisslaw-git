@@ -4,13 +4,12 @@ number: "630.010"
 title: Verordnung zum Bevölkerungsschutzgesetz
 short: VOzBSG
 language: de
-version: 2016-01-01
-valid_until: 2025-12-31
-version_adopted: 2015-12-01
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/630.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2614/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3893/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2614/pdf_file"
 
 (VOzBSG)
 
-Vom 01.12.2015 (Stand 01.01.2016)
+Vom 01.12.2015 (Stand 01.01.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -64,7 +63,8 @@ von der Regierung erlassen am 1. Dezember 2015
 - k) die Verpflichtung von Angehörigen der Berufe des Gesundheitswesens zu Einsätzen in Spitälern, in Rettungsdiensten oder zu anderen Pflege- und Betreuungseinsätzen;
 - l) die Verpflichtung von Angehörigen der Berufe des Veterinärwesens zum Einsatz für die Bekämpfung von Tierseuchen oder zu weiteren veterinärmedizinischen Einsätzen;
 - m) die Zuweisung von schutzsuchenden Menschen an Gemeinden zur Unterbringung und Betreuung;
-- n) die Verpflichtung der Bevölkerung in ausserordentlichen Lagen zur Hilfeleistung zugunsten von Behörden oder betroffenen Privaten.
+- n) die Verpflichtung der Bevölkerung in ausserordentlichen Lagen zur Hilfeleistung zugunsten von Behörden oder betroffenen Privaten;
+- o) die Bezeichnung der Stelle, die für die Kommunikation mit den Medien und der Bevölkerung in ausserordentlichen Lagen zuständig ist.
 
 #### Art. 4
 
@@ -80,14 +80,14 @@ von der Regierung erlassen am 1. Dezember 2015
 
 #### Art. 5
 
-**Amt für Militär und Zivilschutz**
+**Amt für Bevölkerungsschutz und Militär**
 
-<sup>1</sup> Das Amt für Militär und Zivilschutz (Amt) vollzieht die Erlasse des Bevölkerungsschutzes und trifft die notwendigen Massnahmen und Verfügungen, sofern diese Aufgaben in dieser Verordnung oder in der Spezialgesetzgebung nicht ausdrücklich der Regierung, dem Departement, anderen Dienststellen oder den Gemeinden übertragen sind.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär (Amt) vollzieht die Erlasse des Bevölkerungsschutzes und trifft die notwendigen Massnahmen und Verfügungen, sofern diese Aufgaben in dieser Verordnung oder in der Spezialgesetzgebung nicht ausdrücklich der Regierung, dem Departement, anderen Dienststellen oder den Gemeinden übertragen sind.
 
 <sup>2</sup> Ihm obliegen zudem insbesondere:
 
 - a) die Ausbildung des kantonalen Führungsstabs und der Vertreter von Dienststellen oder Betrieben, die vom kantonalen Führungsstab für die Bewältigung von Ereignissen der besonderen oder ausserordentlichen Lagen beigezogen werden;
-- b) die Ausbildung der Gemeindeführungsstäbe;
+- b) die Aus- und Weiterbildung der Gemeindeführungsstäbe;
 - c) die Steuerung und Koordination der direkt den Gemeinden angebotenen Mittel von Partnern des Bevölkerungsschutzes und von Dritten;
 - d) die Erarbeitung von allgemeinen Empfehlungen zuhanden des Departements für die Warnung oder Alarmierung der Gemeinden und der Bevölkerung sowie die Erarbeitung von Verhaltensanweisungen für die Bevölkerung;
 - e) die Anweisung der Spitäler, die Betriebsbereitschaft ihrer unterirdischen geschützten Spitäler zu erstellen;
@@ -101,9 +101,9 @@ von der Regierung erlassen am 1. Dezember 2015
 
 #### Art. 6
 
-**Amt für Natur und Umwelt**
+**Amt für Umwelt**
 
-<sup>1</sup> Dem Amt für Natur und Umwelt obliegt im Zusammenhang mit der Trinkwasserversorgung in Notlagen im Sinne der Bundesgesetzgebung über die wirtschaftliche Landesversorgung:
+<sup>1</sup> Dem Amt für Umwelt obliegt im Zusammenhang mit der Trinkwasserversorgung in Notlagen im Sinne der Bundesgesetzgebung über die wirtschaftliche Landesversorgung:
 
 - a) die Koordination der Planung der Trinkwasserversorgung in besonderen und ausserordentlichen Lagen zwischen den kantonalen Fachstellen und den Eigentümerinnen und Eigentümern von Trinkwasserversorgungsanlagen;
 - b) die Beratung der Eigentümerinnen und Eigentümer von Trinkwasserversorgungsanlagen bei der Erstellung von regionalen Wasserversorgungsplanungen;
@@ -115,15 +115,15 @@ von der Regierung erlassen am 1. Dezember 2015
 
 **Kantonaler Führungsstab 1. Zusammensetzung**
 
-<sup>1</sup> Dem kantonalen Führungsstab gehören der Kommandant beziehungsweise die Kommandantin der Kantonspolizei, der Leiter beziehungsweise die Leiterin der Abteilung Feuerwehr der Gebäudeversicherung, des Gesundheitsamts, des Tiefbauamts, des Amts für Wald und Naturgefahren, des Amts für Natur und Umwelt und des Amts für Militär und Zivilschutz an.
+<sup>1</sup> Dem kantonalen Führungsstab gehören der Kommandant beziehungsweise die Kommandantin der Kantonspolizei, die Leiter beziehungsweise die Leiterinnen der Abteilung Feuerwehr der Gebäudeversicherung, des Gesundheitsamts, des Tiefbauamts, des Amts für Wald und Naturgefahren, des Amts für Umwelt, des Veterinär- und Lebensmittelamts, des Amts für Informatik, des Personalamts und des Amts für Bevölkerungsschutz und Militär sowie eine Vertretung der Standeskanzlei an.
 
-<sup>2</sup> Der Führungsstab kann für die Vorsorge und die Bewältigung von Ereignissen der besonderen oder ausserordentlichen Lagen benötigte Vertreter beziehungsweise Vertreterinnen von Dienststellen oder Betrieben beiziehen.
+<sup>2</sup> Der Führungsstab kann für die Vorsorge und die Bewältigung von Ereignissen der besonderen oder ausserordentlichen Lagen benötigte Vertreter beziehungsweise Vertreterinnen von Dienststellen, Gemeinden oder Betrieben beiziehen.
 
 #### Art. 8
 
-**2. Stabschef und Stabschefstellvertreter**
+**2. Stellvertretung des Chefs oder der Chefin des kantonalen Führungsstabs**
 
-<sup>1</sup> Während der Akutphase eines Ereignisses der besonderen oder der ausserordentlichen Lage fungiert der Kommandant beziehungsweise die Kommandantin der Kantonspolizei als Chef beziehungsweise als Chefin des kantonalen Führungsstabs und der von ihm beziehungsweise ihr bestimmte Pikettoffizier als Stellvertreter beziehungsweise Stellvertreterin.
+<sup>1</sup> Die Stellvertretung des Chefs oder der Chefin des kantonalen Führungsstabs in der Akutphase in besonderen und ausserordentlichen Lagen übernimmt die Amtsleiterin oder der Amtsleiter der am stärksten betroffenen Dienststelle oder Fachstelle.
 
 <sup>2</sup> In der Vorsorgephase und während der Wiederherstellungsphase fungiert der Leiter beziehungsweise die Leiterin des Amts für Militär und Zivilschutz als Chef beziehungsweise Chefin des kantonalen Führungsstabs und der Leiter beziehungsweise die Leiterin des Amts für Wald und Naturgefahren als Stellvertreter beziehungsweise Stellvertreterin.
 
@@ -172,7 +172,7 @@ von der Regierung erlassen am 1. Dezember 2015
 
 **Gemeindeführungsstab 1. Zusammensetzung**
 
-<sup>1</sup> Die Gemeinden haben dem Amt jährlich die Zusammensetzung ihrer Führungsstäbe und die Änderungen zu melden.
+<sup>1</sup> Die Gemeinden haben die Zusammensetzung ihrer Führungsstäbe auf der vom Amt zur Verfügung gestellten Plattform einzutragen und die Änderungen laufend nachzutragen.
 
 #### Art. 12
 
@@ -184,7 +184,9 @@ von der Regierung erlassen am 1. Dezember 2015
 
 **Aus- und Weiterbildung**
 
-<sup>1</sup> Die Mitglieder der Führungsstäbe haben die vom Amt angebotene eintägige Grundausbildung und alle fünf Jahre eine halbtägige Weiterbildung zu absolvieren.
+<sup>1</sup> Die Mitglieder der Führungsstäbe haben die vom Amt angebotene eintägige Grundausbildung und alle fünf Jahre eine eintägige Weiterbildung zu absolvieren.
+
+<sup>2</sup> Die eintägige Weiterbildung kann auch im Rahmen einer vom Amt angebotenen Übung mit dem Gemeindeführungsstab absolviert werden.
 
 ## 3. Vorsorge für besondere und ausserordentliche Lagen
 
@@ -203,13 +205,15 @@ von der Regierung erlassen am 1. Dezember 2015
 - a) die Handauslösung der Sirenen für den allgemeinen Alarm;
 - b) den ungehinderten Zugang der für die Handauslösung verantwortlichen Personen zu den Sirenenanlagen.
 
-<sup>2</sup> Sie haben dem Amt pro Sirene eine für die Handauslösung zuständige Person zu melden. Die Kontaktdaten sind laufend zu aktualisieren.
+<sup>2</sup> Sie haben dem Amt pro Sirene eine für die Handauslösung zuständige Person und deren Stellvertretung zu melden. Die Kontaktdaten sind auf der vom Amt zur Verfügung gestellten Plattform laufend zu aktualisieren.
 
 #### Art. 16
 
 **Notfallkonzepte 1. Allgemeines**
 
 <sup>1</sup> Die Partner des Bevölkerungsschutzes und alle Dienststellen haben ein Notfallkonzept für die Sicherstellung der eigenen Handlungsfähigkeit in besonderen und ausserordentlichen Lagen zu erstellen.
+
+<sup>2</sup> Das Personalamt unterstützt die kantonalen Dienststellen bei der Umsetzung des betrieblichen Kontinuitätsmanagements (BCM).
 
 #### Art. 17
 
