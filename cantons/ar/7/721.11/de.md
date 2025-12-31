@@ -4,13 +4,12 @@ number: "721.11"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2022-04-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-22
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2003-12-02
 in_force: 2004-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/721.11"
-pdf: "https://ar.clex.ch/api/de/versions/1415/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1415/pdf_file"
 
 (BauV)
 
-vom 02.12.2003 (Stand 01.04.2022)
+vom 02.12.2003 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Appenzell A.Rh.,
 
@@ -514,13 +513,15 @@ verordnet:
 
 **Solaranlagen**
 
-<sup>1</sup> Solaranlagen auf Gebäuden in Gewerbezonen (GE) und Industriezonen (I) sind baubewilligungsfrei, auch wenn sie die Dachfläche im rechten Winkel um mehr als 20 cm überragen.
+<sup>1</sup> …
 
-<sup>2</sup> Solaranlagen auf Gebäuden in kommunalen Ortsbildschutzzonen und Ortsbildschutzzonen nationaler Bedeutung unterstehen der Baubewilligungspflicht.
+<sup>2</sup> Solaranlagen auf Dächern und an Fassaden in kommunalen Ortsbildschutzzonen und Ortsbildschutzzonen nationaler Bedeutung unterstehen der Baubewilligungspflicht.
 
-<sup>3</sup> Baubewilligungsfreie Solaranlagen sind vor der Ausführung der Baubewilligungsbehörde mit einem kantonalen Formular zu melden. Der Meldung sind ein Situationsplan, eine Dachaufsicht, ein Dachschnitt sowie ein Anlagenbeschrieb beizulegen.
+<sup>3</sup> Baubewilligungsfreie Solaranlagen nach Art. 18a des Bundesgesetzes über die Raumplanung[^40a-1] sind vor der Ausführung der Baubewilligungsbehörde mit einem kantonalen Formular zu melden. Der Meldung sind ein Situationsplan, ein Anlagenbeschrieb sowie eine Dachaufsicht und ein Dachschnitt respektive eine Fassadenansicht und ein Fassadenschnitt beizulegen.
 
 <sup>4</sup> Baubewilligungsfreie Solaranlagen dürfen ausgeführt werden, wenn die Baubewilligungsbehörde innert 30 Tagen nach Eingang der Meldung keine Einwände erhebt.
+
+[^40a-1]: RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
 
 #### Art. 41
 
@@ -581,6 +582,18 @@ verordnet:
 
 ### III. Allgemeiner Verfahrensablauf
 
+#### Art. 45a
+
+**eBauverfahren**
+
+<sup>1</sup> Das Verfahren kann elektronisch geführt werden, soweit das gemeinsame Behördenportal von Kanton und Gemeinden entsprechende eServices zur Verfügung stellt. Über die Ausgestaltung und Aufschaltung von eServices entscheidet das Departement Bau und Volkswirtschaft.
+
+<sup>2</sup> Die Nutzung der eServices setzt eine durch den Authentifizierungsdienst der Schweizer Behörden AGOV geprüfte elektronische Identität voraus. Das Departement Bau und Volkswirtschaft bestimmt die notwendigen Identitätsdaten und die Authentifizierungsstufe.
+
+<sup>3</sup> Eine elektronische Eingabe gilt als eingereicht, wenn der entsprechende e⁠Service die Übermittlung bestätigt hat. Erfordert es die Bearbeitung, kann eine Nachreichung in Papierform verlangt werden.
+
+<sup>4</sup> Im Übrigen richtet sich die Nutzung nach den Anweisungen zum jeweiligen eService.
+
 #### Art. 46
 
 **Grundsatz der Gesuchseinreichung**
@@ -589,14 +602,16 @@ verordnet:
 
 <sup>2</sup> Das amtliche Formular ist von den Gemeinden zur Verfügung zu stellen. Das Departement Bau und Volkswirtschaft kann Weisungen über die einheitliche Gestaltung und den Inhalt der Formulare sowie die Verwendung einheitlicher Checklisten und Entscheidvorlagen erlassen.
 
+<sup>3</sup> Vorbehalten bleiben besondere Vorgaben für die Nutzung von eServices.
+
 #### Art. 47
 
 **Bestandteile des Baugesuches**
 
-<sup>1</sup> In der Regel sind folgende, von der Grundeigentümerin oder vom Grundeigentümer, von der Bauherrschaft und der Planverfasserin oder dem Planverfasser unterzeichnete und datierte Pläne und Unterlagen in mindestens dreifacher Ausfertigung und zusätzlich in elektronischer Form einzureichen:
+<sup>1</sup> Das Baugesuch umfasst in der Regel die folgenden datierten Pläne und Unterlagen:
 
 - a) Gesuchsformular unter Beilage der im Einzelnen erforderlichen rechnerischen Nachweise (Ausnützungsziffer usw.);
-- b) Situationsplan, aus dem die genaue Lage des Grundstückes sowie Lage und Masse des Vorhabens und der Erschliessungs- und Entsorgungsanlagen ersichtlich sind. Ein Exemplar ist auf einer beglaubigten Kopie des gültigen Grundbuchplanes zu erstellen; bei Vorhaben gemäss Art. 44 und 45 genügt eine Fotokopie des gültigen Grundbuchplanes;
+- b) Situationsplan in der Regel im Massstab 1:500, aus dem die genaue Lage des Grundstückes sowie Lage und Masse des Vorhabens und der Erschliessungs- und Entsorgungsanlagen ersichtlich sind;
 - c) Grundrissplan aller Geschosse in der Regel im Massstab 1:100 mit Angabe der technischen Anlagen (Feuerstätten usw.), der Zweckbestimmung der einzelnen Räume, der Boden- und Fensterflächen sowie der Hauptaussenmasse; in einem Plan ist die Umgebungsgestaltung einschliesslich Terrainveränderungen, Mauern, Parkplätze, Wege, Spielplätze, Freizeitanlagen usw. darzustellen; der Umgebungsplan hat sich innerhalb der Bauzone auf das ganze Baugrundstück zu erstrecken;
 - d) Schnitt- und Fassadenpläne in der Regel im Massstab 1:100 mit Angabe der Höhenkoten, des gewachsenen und gestalteten Terrains bis an die Grundstücksgrenzen sowie des massgeblichen Höhenbezugspunktes (in Meereshöhe oder Höhendifferenz zu gesichertem Fixpunkt). In Ortsbildschutzzonen sind die Nachbarbauten in den Fassadenplänen ebenfalls darzustellen;
 - e) Baubeschrieb, soweit die beabsichtigte Ausführung aus den Plänen nicht ersichtlich ist;
@@ -610,9 +625,11 @@ verordnet:
 
 <sup>3</sup> Bei Vorhaben mit erheblichen Terrainveränderungen, insbesondere bei Deponien und Kiesgruben, sind Höhenkurvenpläne und aussagekräftige Längs- und Querschnitte für den Zustand vor Inangriffnahme und nach Abschluss des Vorhabens sowie gegebenenfalls ein Etappierungsplan einzureichen.
 
-<sup>4</sup> Falls die Beurteilung eines Gesuches es erfordert, können die Bewilligungs- und Koordinationsbehörden von der Gesuchstellerin oder dem Gesuchsteller weitere Unterlagen wie Modelle, Perspektiven, Schattendiagramme oder Fotos verlangen. Zur Verfahrensbeschleunigung können die Bewilligungs- und Koordinationsbehörden die Einreichung zusätzlicher Gesuchssätze verlangen.
+<sup>3<sup>bis</sup></sup> Das Baugesuch ist von der Gesuchstellerin oder vom Gesuchsteller (Bauherrschaft) und von der Grundeigentümerin oder vom Grundeigentümer zu unterzeichnen.
 
-<sup>5</sup> Bei geringfügigen Vorhaben kann auf vorgängige Anfrage hin die Eingabe vereinfachter Gesuchsunterlagen gewährt werden. Für das vereinfachte Verfahren und das Meldeverfahren können die Gemeindebaubehörden standardmässig Erleichterungen vorsehen.
+<sup>4</sup> Falls die Beurteilung eines Gesuches es erfordert, können die Bewilligungs- und Koordinationsbehörden von der Gesuchstellerin oder dem Gesuchsteller weitere Unterlagen wie Modelle, Perspektiven, Schattendiagramme oder Fotos verlangen.
+
+<sup>5</sup> …
 
 <sup>6</sup> Das Vorhaben ist farblich wie folgt darzustellen:
 
@@ -637,6 +654,18 @@ verordnet:
 <sup>1</sup> Die Gemeindebaubehörde prüft, nötigenfalls in Zusammenarbeit mit den zuständigen kantonalen Behörden, ob die Gesuchsdossiers vollständig, widerspruchsfrei und in der vorgeschriebenen Anzahl vorhanden sind sowie, ob die Visierung mit den eingereichten Plänen übereinstimmt. Falls die Gesuchstellerin oder der Gesuchsteller allfälligen Mängeln auch nach schriftlicher Aufforderung mit Fristansetzung nicht Abhilfe schafft, verweigert die Baubehörde die Anhandnahme des Baugesuches mit Nichteintretensentscheid.
 
 <sup>2</sup> Dasselbe gilt sinngemäss, falls kantonale Behörden entsprechende Mängel feststellen. Der Nichteintretensentscheid wird in diesem Falle durch den Baukoordinationsdienst gefällt.
+
+#### Art. 49a
+
+**Elektronische Auflage**
+
+<sup>1</sup> Baugesuche werden während der Auflagefrist[^49a-1] auf dem gemeinsamen Behördenportal von Kanton und Gemeinden zur Einsichtnahme veröffentlicht.
+
+<sup>2</sup> Die Gemeindebaubehörde gewährleistet, dass die auf dem Behördenportal veröffentlichten Baugesuche vor Ort eingesehen werden können.
+
+<sup>3</sup> Die elektronische Auflage und die Möglichkeit zur Einsichtnahme vor Ort werden durch öffentliche Anzeige im kantonalen Amtsblatt bekannt gemacht. Über andere Formen der Bekanntmachung entscheiden die Gemeinden.
+
+[^49a-1]: Art. 103 Abs. 1 Baugesetz (bGS [721.1](https://ar.clex.ch/data/721.1/de))
 
 #### Art. 50
 
@@ -749,9 +778,27 @@ verordnet:
 
 <sup>2</sup> Während der vierzehntägigen Frist gemäss Abs. 1 und einem allfälligen Vermittlungsverfahren inklusive Frist zur Klageanhängigmachung darf mit dem Bau noch nicht begonnen werden. Das Zivilgericht kann im Weiteren den Baubeginn bis zur rechtskräftigen Erledigung der Klage untersagen.
 
-### VI. Eröffnung der Entscheide durch den Baukoordinationsdienst
+### VI. Eröffnung von Entscheiden
+
+#### Art. 60a
+
+**Elektronische Eröffnung**
+
+<sup>1</sup> Entscheide und andere Mitteilungen können mit dem Einverständnis der Beteiligten elektronisch eröffnet werden. Die Eröffnung erfolgt über das gemeinsame Behördenportal von Kanton und Gemeinden.
+
+<sup>2</sup> Entscheide sind mit einer qualifizierten elektronischen Signatur oder einem geregelten elektronischen Siegel der entscheidenden Behörde zu versehen.[^60a-1]
+
+<sup>3</sup> Sendungen werden mit einer Frist von sieben Tagen für das Herunterladen im Behördenportal bereitgestellt. Die Adressaten werden mit E-Mail über die Bereitstellung und die Frist orientiert.
+
+<sup>4</sup> Die Adressaten können bis zum Ablauf der Frist eine ordentliche Zustellung auf dem Postweg verlangen, sofern noch kein Herunterladen erfolgt ist. Mit dem Herunterladen oder dem Ablauf der Frist gilt die Sendung als zugestellt.
+
+<sup>5</sup> Das Einverständnis des Adressaten verpflichtet nicht zur elektronischen Eröffnung. Die Behörde ist jederzeit berechtigt, eine ordentliche Zustellung auf dem Postweg vorzunehmen.
+
+[^60a-1]: Vgl. Bundesgesetz über die elektronische Signatur (ZertES; [943.03](https://db.clex.ch/link/Bund/943.03/de))
 
 #### Art. 61
+
+**Eröffnung durch den Baukoordinationsdienst**
 
 <sup>1</sup> Gemeinden, welche von der Möglichkeit der Entscheideröffnung durch den Baukoordinationsdienst (Art. 105 Abs. 2 Baugesetz) Gebrauch machen möchten, teilen dies dem Departement Bau und Volkswirtschaft jeweils per 31. Juli mit Wirkung für das folgende Kalenderjahr mit.
 
