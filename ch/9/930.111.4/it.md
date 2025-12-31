@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2012 concernente l'immissione in commercio e la
 short: OMCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/797"
 language: it
-version: 2016-07-01
+version: 2026-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20160701/it/xml/fedlex-data-admin-ch-eli-cc-2012-797-20160701-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20160701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-797-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,20 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20160701/it"
 
 (Ordinanza sui mezzi di contenimento per merci pericolose, OMCont)
 
-del 31 ottobre 2012 (Stato 1° luglio 2016)
+del 31 ottobre 2012 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 5 capoverso 1, 20 capoverso 3 e 24 capoverso 1 della legge del 25 settembre 2015[^ingress-1] sul trasporto di merci; visti gli articoli 30 capoverso 5, 103 capoverso 1 e 106 capoverso 1 della legge del 19 dicembre 1958[^ingress-2] sulla circolazione stradale; visti gli articoli 46*a* e 48*a* capoverso 1 della legge del 21 marzo 1997[^ingress-3] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 9 della legge federale del 12 giugno 2009[^ingress-4] sulla sicurezza dei prodotti; in esecuzione della legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio (LOTC),[^ingress-6]
+visti gli articoli 7 capoverso 1, 26 capoverso 3 e 31 capoverso 1 della legge del 21 marzo 2025[^ingress-1] sul trasporto di merci; visti gli articoli 30 capoverso 5, 103 capoverso 1 e 106 capoverso 1 della legge federale del 19 dicembre 1958[^ingress-2] sulla circolazione stradale; visti gli articoli 46*a* e 48*a* capoverso 1 della legge del 21 marzo 1997[^ingress-3] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 9 della legge federale del 12 giugno 2009[^ingress-4] sulla sicurezza dei prodotti; in esecuzione della legge federale del 6 ottobre 1995[^ingress-5] sugli ostacoli tecnici al commercio (LOTC),[^ingress-6]
 
 ordina:
 
-[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-6]: Nuovo testo giusta il n. II 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-6]: Nuovo testo giusta l’all. cifra II n. 6 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -65,9 +65,9 @@ L’ordinanza non si applica ai mezzi di contenimento usati per il trasporto di 
 - b. la sezione 2.2.7 dell’Accordo del 30 settembre 1957[^1-4] relativo al trasporto internazionale su strada delle merci pericolose (ADR).
 
 [^1-1]: Il RID non è pubblicato nella RU. Estratti dell’all. e delle sue mod. possono essere richiesti all’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita delle pubblicazioni federali, 3003 Berna, oppure direttamente all’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF), www.otif.org.
-[^1-2]: [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^1-3]: [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
-[^1-4]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^1-2]: [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^1-3]: [RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
+[^1-4]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 #### Art. 2
 
@@ -91,8 +91,8 @@ Ai fini della presente ordinanza s’intendono per:
   - 3\. cartucce di gas (n. ONU 2037), ma non aerosol (n. ONU 1950), recipienti criogenici aperti, bombole per gas per apparecchi respiratori ed estintori (n. ONU 1044), né attrezzature a pressione trasportabili escluse secondo la sottosezione 1.1.3.2 RID o la sottosezione 1.1.3.2 ADR, né attrezzature a pressione trasportabili escluse dalle prescrizioni relative alla costruzione e alle prove degli imballaggi in base alle prescrizioni speciali del capitolo 3.3 RID o del capitolo 3.3 ADR.
 
 [^2-1]: Nuovo testo giusta il n. II 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
-[^2-2]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
-[^2-3]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^2-2]: [RS 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
+[^2-3]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
 [^2-4]: Nuovo testo giusta il n. II 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^2-5]: Nuovo testo giusta il n. II 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^2-6]: Direttiva 2010/35/UE del Parlamento europeo e del Consiglio, del 16 giugno 2010, in materia di attrezzature a pressione trasportabili e che abroga le direttive del Consiglio 76/767/CEE, 84/525/CEE, 84/526/CEE, 84/527/CEE e 1999/36/CE, versione della GU L 165 del 30.6.2010, pag. 1.
@@ -172,8 +172,8 @@ Prima di immettere in commercio un mezzo di contenimento per merci pericolose, l
 
 I mezzi di contenimento per merci pericolose che non soddisfano le condizioni per l’immissione in commercio possono essere esposti o presentati nonché trasportati a tal fine dopo essere stati riempiti se:
 
-- a. una targa indica chiaramente che la loro conformità ai requisiti legali non è provata e che pertanto non possono essere immessi in commercio; e
-- b. sono state prese le misure necessarie per garantire la sicurezza e la salute delle persone.
+- una targa indica chiaramente che la loro conformità ai requisiti legali non è provata e che pertanto non possono essere immessi in commercio; e
+- sono state prese le misure necessarie per garantire la sicurezza e la salute delle persone.
 
 #### Art. 11
 
@@ -206,7 +206,7 @@ Gli organismi di valutazione della conformità per altri mezzi di contenimento p
 
 <sup>3</sup> Chi si riferisce alla documentazione emessa da un organismo di valutazione della conformità che non soddisfa le condizioni di cui al capoverso 1 o 2 deve dimostrare con verosimiglianza che le procedure applicate e la qualifica dell’organismo in questione soddisfano le esigenze svizzere (art. 18 cpv. 2 LOTC).
 
-[^12-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^12-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 13
 
@@ -345,7 +345,7 @@ I documenti e le informazioni necessarie alla loro valutazione devono essere for
 
 <sup>2</sup> Tali emolumenti sono retti dall’ordinanza generale sugli emolumenti dell’8 settembre 2004[^22-1].
 
-[^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 23
 
@@ -366,7 +366,7 @@ L’UFT riscuote emolumenti per:
 
 <sup>2</sup> Gli emolumenti per la vigilanza sugli organismi di valutazione della conformità e per la sorveglianza sul mercato sono retti dall’ordinanza del 25 novembre 1998[^23-1] sugli emolumenti e sulle tasse dell’Ufficio federale dei trasporti.
 
-[^23-1]: [RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^23-1]: [RS 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 ## Sezione 6: Disposizioni penali
 
@@ -400,7 +400,7 @@ Nel trasporto di merci pericolose per ferrovia o tramite impianti di trasporto a
 
 <sup>2</sup> Emana direttive sull’esecuzione e l’attuazione della presente ordinanza.[^26-1]
 
-[^26-1]: Introdotto dal n. II 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^26-1]: Introdotto dalla cifra II n. 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 27
 
@@ -415,14 +415,14 @@ Le attrezzature a pressione trasportabili immesse in commercio in data anteriore
 - a. il traffico merci in Svizzera;
 - b. il traffico merci tra la Svizzera e gli Stati contraenti il RID nonché le Parti contraenti l’ADR, purché questi Stati o queste Parti non siano membri dell’Unione europea.
 
-<sup>3</sup> e <sup>4</sup> …[^27-6]
+<sup>3 e <sup>4</sup></sup> …[^27-6]
 
 [^27-1]: Vedi nota a piè di pagina relativa all’art. 2 lett. b n. 1.
 [^27-2]: Direttiva 1999/36/CE del Consiglio del 29 aprile 1999 in materia di attrezzature a pressione trasportabili, GU L 138 del 1.6.1999, pag. 20; modificata da ultimo dalla direttiva 2002/50/CE, GU L 149 del 7.6.2002, pag. 28 (abrogata dalla direttiva 2010/35/UE, GU L 165 del 30.6.2010, pag. 1).
 [^27-3]: Vedi nota a piè di pagina relativa all’art. 8 cpv. 2.
 [^27-4]: Vedi nota a piè di pagina relativa all’art. 8 cpv. 2.
 [^27-5]: Vedi nota a piè di pagina relativa all’art. 8 cpv. 2.
-[^27-6]: Abrogati dal n. II 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, con effetto dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^27-6]: Abrogati dalla cifra II n. 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, con effetto dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 28
 
@@ -436,7 +436,7 @@ Allegato 1[^t-1]
 
 ## Procedure di valutazione della conformità dei mezzi di contenimento per merci pericolose diversi dalle attrezzature a pressione trasportabili
 
-[^t-1]: Aggiornato dal n. II 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^t-1]: Aggiornato dalla cifra II n. 8 dell’all. all’O del 25 mag. 2016 sul trasporto di merci ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)) e dall’all. cifra II n. 6 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 - 1\.
 
@@ -448,10 +448,10 @@ Allegato 1[^t-1]
 Tabella 1
 
 <table>
-<tr><td>Procedura</td><td>Organismo di valutazione della conformità</td></tr>
-<tr><td>Approvazione del prototipo</td><td>Xa</td></tr>
+<tr><th>Procedura</th><th>Organismo di valutazione della conformità</th></tr>
+<tr><td>Approvazione del modello</td><td>Xa</td></tr>
 <tr><td>Riconoscimento e sorveglianza dei programmi di controllo della qualità dei fabbricanti</td><td>Xa</td></tr>
-<tr><td>Controllo e prova iniziali</td><td>Xa o IS</td></tr>
+<tr><td>Ispezione nonché controllo e prova iniziali</td><td>Xa o IS</td></tr>
 <tr><td>Ispezione e controllo periodici</td><td>Xa o Xb o IS</td></tr>
 </table>
 
@@ -460,29 +460,30 @@ Tabella 1
   Le seguenti prescrizioni sono da ritenersi adempiute se le procedure menzionate nella tabella 2 sono attuate dagli organismi di valutazione della conformità indicati:
 
   - a. per il trasporto per ferrovia o tramite impianti di trasporto a fune, i capitoli da 6.7 a 6.11 RID;
-  - b. per il trasporto su strada, i capitoli 6.7–6.12 ADR.
+  - b. per il trasporto su strada, i capitoli 6.7–6.13 ADR.
 
 Tabella 2
 
 <table>
 <tr><th>Procedura</th><th>Organismo di valutazione della conformità</th></tr>
-<tr><td>Approvazione del prototipo</td><td>Xa</td></tr>
+<tr><td>Esame del tipo</td><td>Xa</td></tr>
+<tr><td>Certificato di approvazione del tipo</td><td>Xa</td></tr>
 <tr><td>Sorveglianza della fabbricazione</td><td>Xa</td></tr>
 <tr><td>Controllo e prova iniziali</td><td>Xa</td></tr>
-<tr><td>Controllo periodico e controllo intermedio</td><td>Xa</td></tr>
-<tr><td>Controllo eccezionale</td><td>Xa</td></tr>
+<tr><td>Verifica della messa in servizio</td><td>Xa</td></tr>
+<tr><td>Controllo periodico, controllo intermedio e controllo eccezionale</td><td>Xa</td></tr>
 </table>
 
 - 3\.
 
   Si intende per:
 
-  - – Xa: un organismo di valutazione della conformità accreditato secondo la norma EN ISO/IEC 17020 di categoria A e designato secondo l’allegato 5 o una persona incaricata dall’autorità competente;
-  - – Xb: un organismo di valutazione della conformità accreditato secondo la norma EN ISO/IEC 17020 di categoria B e designato secondo l’allegato 5;
+  - – Xa: un organismo di valutazione della conformità accreditato secondo la norma EN ISO/IEC 17020 di categoria A (fatta eccezione per il n. 8.1.3) e designato secondo l’allegato 5 o una persona incaricata dall’autorità competente;
+  - – Xb: un organismo di valutazione della conformità accreditato secondo la norma EN ISO/IEC 17020 di categoria B (fatta eccezione per il n. 8.1.3) e designato secondo l’allegato 5;
   - – IS: un servizio di controllo interno posto sotto la sorveglianza di un organismo di valutazione della conformità Xa.
 
 - 4\. Alle singole procedure si applicano per analogia le disposizioni della sezione 1.8.7 RID o della sezione 1.8.7 ADR.
-- 5\. Il riconoscimento dei programmi di controllo della qualità dei fabbricanti è rilasciato a tempo determinato e deve essere rinnovato di regola ogni tre anni. In singoli casi l’UFT può fissare intervalli di rinnovo diversi.
+- 5\. Il riconoscimento dei programmi di controllo della qualità dei fabbricanti è rilasciato a tempo determinato e deve essere rinnovato di regola ogni cinque anni. In singoli casi l’UFT può fissare intervalli di rinnovo diversi.
 
 Allegato 2
 
@@ -492,7 +493,7 @@ Allegato 2
 
 - 1\. Le dimensioni del seguente marchio Pi sono definite nell’articolo 15 della direttiva 2010/35/UE[^annex2-lvlu1-1]. L’immagine ha carattere informativo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20160701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20260101/it/xml/image/image1.png)
 
 - 2\. Il marchio Pi deve essere apposto in maniera visibile, leggibile e permanente sulle attrezzature a pressione trasportabili o sulla loro targhetta segnaletica nonché sulle parti rimovibili delle attrezzature a pressione trasportabili ricaricabili con una funzione diretta di sicurezza.
 - 3\. Il marchio Pi deve essere apposto prima dell’immissione in commercio o della messa a disposizione delle nuove attrezzature a pressione trasportabili o delle parti rimovibili delle attrezzature a pressione trasportabili ricaricabili con una funzione diretta di sicurezza.
@@ -516,19 +517,21 @@ Allegato 3
 - 6\. I periti devono disporre di un’assicurazione di responsabilità civile adeguata. Mandanti e periti concordano la portata della responsabilità civile e dell’assicurazione di responsabilità civile necessaria.
 - 7\. I presenti requisiti si considerano soddisfatti per il personale degli organismi di valutazione della conformità designati secondo l’articolo 15.
 
-Allegato 4
+Allegato 4[^t-2]
 
 (art. 13)
 
 ## Obblighi degli organismi di valutazione della conformità
 
+[^t-2]: Aggiornato dall’all. cifra II n. 6 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
+
 - 1\.
 
-  Gli organismi che intendono effettuare valutazioni della conformità, rivalutazioni della conformità, controlli periodici, controlli intermedi e controlli eccezionali di attrezzature a pressione trasportabili devono adempiere gli obblighi previsti dalle seguenti sottosezioni del RID o dell’ADR:
+  Gli organismi che intendono effettuare valutazioni della conformità, rivalutazioni della conformità, controlli periodici, controlli intermedi e controlli eccezionali di attrezzature a pressione trasportabili devono adempiere gli obblighi previsti dai seguenti punti del RID o dell’ADR:
 
-  - a. 1.8.6.2 in merito al loro lavoro;
-  - b. 1.8.6.4 in caso di deleghe;
-  - c. 1.8.6.5 in merito agli obblighi di notifica.
+  - a. 1.8.6.3.2 in merito al loro lavoro;
+  - b. 1.8.6.3.3 in caso di deleghe di compiti di controllo;
+  - c. 1.8.6.3.4 in merito agli obblighi di notifica.
 
 - 2\. Gli altri organismi di valutazione della conformità devono adempiere per analogia gli obblighi di cui al numero 1 lettere a–c.
 - 3\. Gli organismi di valutazione della conformità che svolgono attività di valutazione e di controllo analoghe per mezzi di contenimento comparabili devono scambiarsi informazioni pertinenti sui risultati negativi e, a richiesta, anche sui risultati positivi delle valutazioni e dei controlli.
@@ -539,11 +542,13 @@ Allegato 4
   - a. partecipazione al lavoro normativo pertinente secondo le disposizioni del DATEC;
   - b. partecipazione agli eventi di coordinamento organizzati dall’UFT.
 
-Allegato 5
+Allegato 5[^t-3]
 
 (art. 15)
 
 ## Designazione degli organismi di valutazione della conformità da parte del DATEC
+
+[^t-3]: Aggiornato dall’all. cifra II n. 6 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ### 1. Procedura
 
@@ -566,26 +571,19 @@ Allegato 5
   - b. tiene un elenco accessibile al pubblico di tutti gli organismi di valutazione della conformità designati, i loro marchi di controllo e i numeri di identificazione;
   - c. rende noti gli organismi designati a valutare la conformità delle attrezzature a pressione trasportabili, in modo che possano essere riconosciuti come organismo di valutazione della conformità nel quadro dell’Accordo del 21 giugno 1999[^annex5-lvlu1-lvl1-1] tra la Confederazione Svizzera e la Comunità europea sul reciproco riconoscimento in materia di valutazione della conformità.
 
-[^annex5-lvlu1-lvl1-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^annex5-lvlu1-lvl1-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 ### 2. Condizioni
 
-L’organismo di valutazione della conformità deve:
+- [tab] Un organismo di valutazione della conformità deve adempiere gli obblighi di cui al punto 1.8.6.3.1 lettere a–k del RID o dell’ADR.
 
-- a. disporre di personale idoneo, formato, competente ed esperto, integrato in una struttura organizzativa adeguata e in grado di assolvere correttamente le sue funzioni tecniche;
-- b. avere accesso alle necessarie e appropriate installazioni e apparecchiature;
-- c. lavorare in modo indipendente, al riparo da influenze che potrebbero ostacolare il suo lavoro;
-- d. mantenere il segreto commerciale sulle attività imprenditoriali e su quelle protette dal diritto di proprietà del fabbricante e degli altri organismi di valutazione della conformità;
-- e. distinguere chiaramente i compiti concernenti la valutazione della conformità dagli altri compiti non correlati;
-- f. mettere in opera un sistema documentato di gestione della qualità;
-- g. assicurare l’esecuzione dei controlli definiti nel RID o nell’ADR; e
-- h. gestire un sistema di rapporti e registrazioni adatto ed efficace che soddisfi i requisiti indicati nelle sezioni 1.8.7 e 1.8.8 RID o nelle sezioni 1.8.7 e 1.8.8 ADR.
-
-Allegato 6
+Allegato 6[^t-4]
 
 (art. 27 cpv. 1)
 
 ## Rivalutazione della conformità
+
+[^t-4]: Aggiornato dall’all. cifra II n. 6 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 Per la rivalutazione della conformità di attrezzature a pressione trasportabili si applica la procedura seguente:
 
@@ -598,20 +596,20 @@ Per la rivalutazione della conformità di attrezzature a pressione trasportabili
 
 - 2\. L’organismo valuta se le attrezzature a pressione trasportabili in questione offrono almeno lo stesso grado di sicurezza delle attrezzature che soddisfano i requisiti del RID o dell’ADR. La valutazione è effettuata sulla base delle informazioni prodotte conformemente al numero 1 e, se del caso, di controlli supplementari.
 - 3\. Se i risultati della valutazione di cui al numero 2 sono soddisfacenti, le attrezzature a pressione trasportabili sono sottoposte al controllo periodico previsto dal RID o dall’ADR. Se sono soddisfatti i requisiti di tale controllo periodico, allora il marchio Pi è apposto dall’organismo responsabile del controllo periodico o sotto la sua sorveglianza. Il marchio Pi è seguito dal numero di identificazione dell’organismo di valutazione della conformità. Quest’ultimo rilascia un certificato di rivalutazione della conformità tenendo conto di quanto riportato al numero 5.
-- 4\. Per i recipienti a pressione fabbricati in serie, compresi i rubinetti e altri accessori utilizzati per il trasporto, un organismo accreditato di categoria A valuta la conformità del prototipo secondo il numero 2 e rilascia un certificato di rivalutazione della conformità. Al successivo controllo periodico i recipienti a pressione così valutati sono provvisti di marchio secondo l’articolo 8. Il marchio Pi è seguito dal numero di identificazione dell’organismo di valutazione della conformità responsabile del controllo.
+- 4\. Per i recipienti a pressione fabbricati in serie, compresi i rubinetti e altri accessori utilizzati per il trasporto, un organismo accreditato di categoria A valuta la conformità del modello secondo il numero 2 e rilascia un certificato di rivalutazione della conformità. Al successivo controllo periodico i recipienti a pressione così valutati sono provvisti di marchio secondo l’articolo 8. Il marchio Pi è seguito dal numero di identificazione dell’organismo di valutazione della conformità responsabile del controllo.
 - 5\.
 
   In tutti i casi l’organismo responsabile del controllo periodico rilascia il certificato di rivalutazione della conformità. Tale certificato contiene almeno le indicazioni seguenti:
 
   - a. il numero di identificazione dell’organismo di valutazione della conformità che rilascia il certificato e, se diverso, il numero di identificazione dell’organismo accreditato di categoria A responsabile della rivalutazione della conformità secondo il numero 2;
   - b. il nome e l’indirizzo del proprietario o dell’operatore;
-  - c. in caso di applicazione della procedura di cui al numero 4, i dati per l’identificazione del certificato di rivalutazione della conformità del prototipo;
+  - c. in caso di applicazione della procedura di cui al numero 4, i dati per l’identificazione del certificato di rivalutazione della conformità del modello;
   - d. i dati per l’identificazione delle attrezzature a pressione trasportabili alle quali è stato apposto il marchio Pi, compresi almeno il numero o i numeri di serie; e
   - e. la data di rilascio.
 
 - 6\.
 
-  L’organismo responsabile rilascia un certificato di rivalutazione della conformità del prototipo. Qualora venga applicata la procedura di cui al numero 4, l’organismo responsabile rilascia il certificato di rivalutazione della conformità del prototipo. Tale certificato contiene almeno le indicazioni seguenti:
+  L’organismo responsabile rilascia un certificato di rivalutazione della conformità del modello. Qualora venga applicata la procedura di cui al numero 4, l’organismo responsabile rilascia il certificato di rivalutazione della conformità del modello. Tale certificato contiene almeno le indicazioni seguenti:
 
   - a. il numero di identificazione dell’organismo di valutazione della conformità che rilascia il certificato;
   - b. il nome e l’indirizzo del fabbricante e del detentore dell’approvazione del tipo originale per le attrezzature a pressione trasportabili sottoposte a rivalutazione della conformità nel caso in cui il detentore non sia il fabbricante;

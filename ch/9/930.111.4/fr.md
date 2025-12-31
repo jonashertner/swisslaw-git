@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2012 relative à la mise sur le marché et à l
 short: OCMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/797"
 language: fr
-version: 2016-07-01
+version: 2026-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20160701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-797-20160701-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20160701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-797-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,20 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20160701/fr"
 
 (Ordonnance sur les contenants de marchandises dangereuses, OCMD)
 
-du 31 octobre 2012 (État le 1<sup>er</sup> juillet 2016)
+du 31 octobre 2012 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 5, al. 1, 20, al. 3, et 24, al. 1, de la loi du 25 septembre 2015 sur le transport de marchandises[^ingress-1], vu les art. 30, al. 5, 103, al. 1, et 106, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière[^ingress-2], vu les art. 46*a* et 48*a*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-3], vu l’art. 9 de la loi fédérale du 12 juin 2009 sur la sécurité des produits[^ingress-4], en exécution de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-5],[^ingress-6]
+vu les art. 7, al. 1, 26, al. 3, et 31, al. 1, de la loi du 21 mars 2025 sur le transport de marchandises[^ingress-1], vu les art. 30, al. 5, 103, al. 1, et 106, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière[^ingress-2], vu les art. 46*a* et 48*a*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-3], vu l’art. 9 de la loi fédérale du 12 juin 2009 sur la sécurité des produits[^ingress-4], en exécution de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-5],[^ingress-6]
 
 arrête:
 
-[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-6]: Nouvelle teneur selon l’annexe ch. II 8 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-6]: Nouvelle teneur selon l’annexe ch. II 6 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## Section 1 Dispositions générales
 
@@ -64,10 +64,10 @@ Elle ne s’applique pas aux contenants utilisés pour le transport de marchandi
 - a. à la section 2.2.7 du règlement concernant le transport international ferroviaire des marchandises dangereuses (RID)[^1-1], appendice C à la Convention du 9 mai 1980 relative aux transports internationaux ferroviaires (COTIF)[^1-2] dans la version du protocole modificateur du 3 juin 1999[^1-3], ou
 - b. à la section 2.2.7 de l’Accord du 30 septembre 1957 relatif au transport international des marchandises dangereuses par route (ADR)[^1-4].
 
-[^1-1]: Le RID n’est pas publié au RO. Des exemplaires tirés à part incluant les modifications peuvent être commandés à l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, ou directement à l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), www.otif.org.
-[^1-2]: [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^1-3]: [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
-[^1-4]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^1-1]: Le RID n’est pas publié au RO. Des exemplaires tirés à part incluant les modifications peuvent être commandés à l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, ou directement à l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), [www.otif.org](http://www.otif.org).
+[^1-2]: [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^1-3]: [RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
+[^1-4]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 #### Art. 2
 
@@ -91,8 +91,8 @@ Au sens de la présente ordonnance, on entend par:
   - 3\. les cartouches à gaz (n<sup>o</sup> ONU 2037), mais pas les aérosols (n<sup>o</sup> ONU 1950), les récipients cryogéniques ouverts, les bouteilles de gaz pour appareils respiratoires et les extincteurs d’incendie (n<sup>o</sup> ONU 1044), ni les équipements sous pression transportables exemptés au titre de la sous-section 1.1.3.2 du RID ou de la sous-section 1.1.3.2 de l’ADR, ni les équipements sous pression transportables exemptés des règles de construction et d’épreuves des emballages conformément aux dispositions spéciales du chap. 3.3 du RID ou du chap. 3.3 de l’ADR.
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. II 8 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
-[^2-2]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
-[^2-3]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^2-2]: [RS 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
+[^2-3]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
 [^2-4]: Nouvelle teneur selon l’annexe ch. II 8 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^2-5]: Nouvelle teneur selon l’annexe ch. II 8 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^2-6]: Directive 2010/35/UE du Parlement européen et du Conseil du 16 juin 2010 relative aux équipements sous pression transportables et abrogeant les directives du Conseil 76/767/CEE, 84/525/CEE, 84/526/CEE, 84/527/CEE et 1999/36/CE, version du JO L 165 du 30.6.2010, p. 1.
@@ -206,7 +206,7 @@ Les organismes d’évaluation de la conformité d’autres contenants de marcha
 
 <sup>3</sup> Quiconque fait valoir des documents d’un organisme d’évaluation de la conformité qui ne remplit pas les conditions prévues à l’al. 1 ou 2 doit rendre vraisemblable que les procédures appliquées et la qualification de cet organisme d’évaluation de la conformité satisfont aux exigences suisses (art. 18, al. 2, LETC).
 
-[^12-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^12-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 13
 
@@ -238,7 +238,7 @@ Le DETEC désigne comme organismes d’évaluation de la conformité les organis
 <sup>3</sup> Il attribue les numéros d’identification aux organismes d’évaluation de la conformité.
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. II 8 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
-[^15-2]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^15-2]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 16
 
@@ -345,7 +345,7 @@ Les documents et les renseignements nécessaires à leur évaluation doivent êt
 
 <sup>2</sup> Les émoluments sont régis par l’ordonnance générale du 8 septembre 2004 sur les émoluments[^22-1].
 
-[^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 23
 
@@ -366,7 +366,7 @@ L’OFT perçoit des émoluments pour:
 
 <sup>2</sup> Les émoluments pour la surveillance des organismes de l’évaluation de la conformité et pour la surveillance du marché sont régis par l’ordonnance du 25 novembre 1998 sur les émoluments de l’OFT[^23-1].
 
-[^23-1]: [RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^23-1]: [RS 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 ## Section 6 Dispositions pénales
 
@@ -415,7 +415,7 @@ Les équipements sous pression transportables qui ont été mis sur le marché a
 - a. des transports en Suisse;
 - b. des transports entre la Suisse et les Etats parties au RID ou les parties contractantes à l’ADR qui ne sont pas membres de l’Union européenne.
 
-<sup>3</sup> et <sup>4</sup> …[^27-6]
+<sup>3 et <sup>4</sup></sup> …[^27-6]
 
 [^27-1]: Voir note relative à l’art. 2, let. b, ch. 1.
 [^27-2]: Directive 1999/36/CE du Conseil du 29 avril 1999 relative aux équipements sous pression transportables, JO L 138 du 1.6.1999, p. 20, modifiée en dernier lieu par la directive 2002/50/CE, JO L 149 du 7.6.2002, p. 28, abrogée par la directive 2010/35/UE, JO L 165 du 30.6.2010, p. 1.
@@ -436,7 +436,7 @@ Annexe 1[^t-1]
 
 ## Procédure d’évaluation de la conformité des contenants de marchandises dangereuses autres que les équipements sous pression transportables
 
-[^t-1]: Mise à jour selon l’annexe ch. II 8 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^t-1]: Mise à jour par l’annexe ch. II 8 de l’O du 25 mai 2016 sur le transport de marchandises ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)) et l’annexe ch. II 6 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 - 1\.
 
@@ -448,11 +448,11 @@ Annexe 1[^t-1]
 Tableau 1
 
 <table>
-<tr><td>Procédure</td><td>Organisme d’évaluation de la conformité</td></tr>
+<tr><th>Procédure</th><th>Organisme d’évaluation de la conformité</th></tr>
 <tr><td>Agrément de type</td><td>Xa</td></tr>
-<tr><td>Reconnaissance et surveillance des programmes d’assurance de la qualité des fabricants</td><td>Xa</td></tr>
-<tr><td>Contrôle initial</td><td>Xa ou IS</td></tr>
-<tr><td>Inspection et contrôle périodiques</td><td>Xa, Xb ou IS</td></tr>
+<tr><td>Reconnaissance et surveillance des programmes d’assurance-qualité des fabricants</td><td>Xa</td></tr>
+<tr><td>Inspection et épreuve initiales</td><td>Xa ou IS</td></tr>
+<tr><td>Inspection et épreuve périodiques</td><td>Xa, Xb ou IS</td></tr>
 </table>
 
 - 2\.
@@ -460,29 +460,28 @@ Tableau 1
   Les prescriptions suivantes sont considérées comme remplies lorsque les procédures mentionnées dans le tableau 2 sont exécutées par les organismes d’évaluation de la conformité indiqués:
 
   - a. pour le transport par chemin de fer ou par installation à câbles, les chap. 6.7 à 6.11 du RID;
-  - b. pour le transport par route, les chap. 6.7 à 6.12 de l’ADR.
+  - b. pour le transport par route, les chap. 6.7 à 6.13 de l’ADR.
 
 Tableau 2
 
 <table>
 <tr><th>Procédure</th><th>Organisme d’évaluation de la conformité</th></tr>
-<tr><td>Agrément de type</td><td>Xa</td></tr>
-<tr><td>Surveillance de la fabrication</td><td>Xa</td></tr>
-<tr><td>Contrôle initial</td><td>Xa</td></tr>
-<tr><td>Contrôle périodique et contrôle intermédiaire</td><td>Xa</td></tr>
-<tr><td>Contrôle exceptionnel</td><td>Xa</td></tr>
+<tr><td>Examen de type Délivrance du certificat d’agrément de type</td><td>Xa Xa</td></tr>
+<tr><td>Suivi de fabrication</td><td>Xa</td></tr>
+<tr><td>Contrôle et épreuves initiaux Vérification de la mise en service</td><td>Xa Xa</td></tr>
+<tr><td>Contrôle périodique, contrôle intermédiaire et contrôle exceptionnel</td><td>Xa</td></tr>
 </table>
 
 - 3\.
 
   Légende:
 
-  - – Xa: organisme d’évaluation de la conformité accrédité de type A selon la norme EN ISO/IEC 17020 et désigné conformément à l’annexe 5 (ou personne mandatée par l’autorité compétente;
-  - – Xb: organisme d’évaluation de la conformité accrédité de type B selon la norme EN ISO/IEC 17020 et désigné conformément à l’annexe 5;
-  - – IS: service interne d’inspection placé sous la surveillance d’un organisme d’évaluation de la conformité Xa.
+  - – Xa: organisme d’évaluation de la conformité accrédité de type A selon la norme EN ISO/CEI 17020 à l’exception du ch. 8.1.3 et désigné conformément à l’annexe 5, ou une personne mandatée par l’autorité compétente;
+  - – Xb: organisme d’évaluation de la conformité accrédité de type B selon la norme EN ISO/CEI 17020 à l’exception du ch. 8.1.3 et désigné conformément à l’annexe 5;
+  - – IS: service interne d’inspection sous la surveillance d’un organisme d’évaluation de la conformité Xa.
 
 - 4\. Les dispositions de la section 1.8.7 du RID ou de la section 1.8.7 de l’ADR sont applicables par analogie aux différentes procédures.
-- 5\. La reconnaissance des programmes d’assurance de la qualité des fabricants est octroyée pour une durée déterminée et doit être renouvelée en règle générale tous les trois ans. Dans des cas particuliers, l’OFT peut fixer un autre intervalle.
+- 5\. La reconnaissance des programmes d’assurance de la qualité des fabricants est octroyée pour une durée déterminée et doit être renouvelée en règle générale tous les cinq ans. Dans des cas particuliers, l’OFT peut fixer des intervalles de renouvellement différents.
 
 Annexe 2
 
@@ -492,7 +491,7 @@ Annexe 2
 
 - 1\. Les dimensions du marquage Pi ci-après sont définies à l’art. 15 de la directive 2010/35/UE[^annex2-lvlu1-1]. L’illustration a caractère informatif.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20160701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20260101/fr/xml/image/image1.png)
 
 - 2\. Le marquage Pi doit être apposé de manière visible, lisible et permanente sur les équipements sous pression transportables ou sur leur plaque signalétique, ainsi que sur les parties démontables d’équipements sous pression transportables rechargeables ayant une fonction directe de sécurité.
 - 3\. Le marquage Pi doit être apposé avant la mise sur le marché ou la mise à disposition de nouveaux équipements sous pression transportables ou de parties démontables d’équipements sous pression transportables rechargeables ayant une fonction directe de sécurité.
@@ -516,19 +515,21 @@ Annexe 3
 - 6\. Les experts disposent d’une assurance responsabilité civile appropriée. Le mandant et l’expert conviennent de l’étendue de la responsabilité civile et de l’assurance ad hoc.
 - 7\. Ces exigences sont considérées comme satisfaites par le personnel d’un organisme d’évaluation de la conformité désigné conformément à l’art. 15.
 
-Annexe 4
+Annexe 4[^t-2]
 
 (art. 13)
 
 ## Obligations des organismes d’évaluation de la conformité
 
+[^t-2]: Mise à jour par l’annexe ch. II 6 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
+
 - 1\.
 
-  Les organismes d’évaluation de la conformité qui souhaitent effectuer des évaluations de la conformité, des réévaluations de la conformité et des contrôles périodiques, des contrôles intermédiaires et des contrôles exceptionnels d’équipements sous pression transportables doivent satisfaire aux obligations des sous-sections suivantes du RID ou de l’ADR:
+  Les organismes d’évaluation de la conformité qui souhaitent effectuer des évaluations de la conformité, des réévaluations de la conformité, des contrôles périodiques, des contrôles intermédiaires et des contrôles exceptionnels d’équipements sous pression transportables doivent satisfaire aux obligations des paragraphes suivants du RID ou de l’ADR:
 
-  - a. 1.8.6.2 en ce qui concerne leur travail;
-  - b. 1.8.6.4 en cas de délégation;
-  - c. 1.8.6.5 en ce qui concerne l’obligation de déclarer.
+  - a. 1.8.6.3.2 en ce qui concerne leur travail;
+  - b. 1.8.6.3.3 en cas de délégation de tâches de contrôle;
+  - c. 1.8.6.3.4 en ce qui concerne l’obligation de déclarer.
 
 - 2\. Les autres organismes d’évaluation de la conformité doivent satisfaire par analogie aux obligations visées au ch. 1, let. a à c.
 - 3\. Lorsque des organismes d’évaluation de la conformité effectuent des activités d’évaluation et de contrôle similaires pour des contenants comparables de marchandises dangereuses, ils sont tenus de se fournir réciproquement les informations pertinentes quant aux résultats négatifs, et sur demande quant aux résultats positifs, des évaluations et des contrôles.
@@ -539,11 +540,13 @@ Annexe 4
   - a. participer à l’élaboration des normes pertinentes conformément aux indications du DETEC;
   - b. participer aux séances de coordination de l’OFT.
 
-Annexe 5
+Annexe 5[^t-3]
 
 (art. 15)
 
 ## Désignation d’organismes d’évaluation de la conformité par le DETEC
+
+[^t-3]: Mise à jour par l’annexe ch. II 6 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ### 1. Procédure
 
@@ -570,22 +573,15 @@ Annexe 5
 
 ### 2. Conditions
 
-Un organisme d’évaluation de la conformité doit:
+Un organisme d’évaluation de la conformité doit satisfaire aux obligations visées au par. 1.8.6.3.1, let. a à k, du RID ou de l’ADR.
 
-- a. disposer de personnel adéquat, formé, qualifié et expérimenté qui est à même d’accomplir ses tâches techniques de manière satisfaisante et qui est intégré dans une structure organisationnelle appropriée;
-- b. avoir accès à des installations et équipements adéquats et suffisants;
-- c. travailler de manière indépendante et ne pas subir d’influences qui pourraient l’en empêcher;
-- d. garder le secret professionnel quant aux activités relevant de l’entreprise et protégées par le droit de la propriété du fabricant et d’autres organismes d’évaluation de la conformité;
-- e. maintenir une séparation claire entre ses tâches d’organisme d’évaluation de la conformité et les tâches qui n’y ont pas trait;
-- f. avoir un système documenté de gestion de la qualité;
-- g. garantir que les contrôles effectués sont conformes au RID ou à l’ADR, et
-- h. entretenir un système de comptes rendus et de registres satisfaisant aux exigences des sections 1.8.7 et 1.8.8 du RID ou des sections 1.8.7 et 1.8.8 de l’ADR.
-
-Annexe 6
+Annexe 6[^t-4]
 
 (art. 27, al. 1)
 
 ## Réévaluation de la conformité
+
+[^t-4]: Mise à jour par l’annexe ch. II 6 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 La réévaluation de la conformité des équipements sous pression transportables est soumise à la procédure suivante:
 
@@ -593,7 +589,7 @@ La réévaluation de la conformité des équipements sous pression transportable
 
   Le propriétaire ou l’opérateur des équipements sous pression transportables doit:
 
-  - a. faire appel à un organisme d’évaluation de la conformité accrédité de type A selon la norme EN ISO/IEC 17020 et agréé pour effectuer des réévaluations;
+  - a. faire appel à un organisme d’évaluation de la conformité accrédité de type A selon la norme EN ISO/CEI 17020 et agréé pour effectuer des réévaluations;
   - b. fournir à cet organisme d’évaluation de la conformité toutes les informations relatives aux équipements sous pression transportables afin qu’il puisse l’identifier de manière univoque (origine, règles de construction appliquées, le cas échéant restrictions d’exploitation prescrites et relevés des dommages éventuels ou des réparations effectuées, et pour les bouteilles à acétylène également les indications relatives à la masse poreuse).
 
 - 2\. L’organisme d’évaluation de la conformité évalue si l’équipement sous pression transportable fournit au minimum le même degré de sécurité que les équipements qui satisfont aux exigences du RID ou de l’ADR. L’évaluation est effectuée sur la base des informations fournies conformément au ch. 1 et, le cas échéant, de contrôles supplémentaires.

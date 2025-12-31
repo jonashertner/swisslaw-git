@@ -4,11 +4,11 @@ title: "Verordnung vom 31. Oktober 2012 über das Inverkehrbringen und die Markt
 short: GGUV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/797"
 language: de
-version: 2016-07-01
+version: 2026-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20160701/de/xml/fedlex-data-admin-ch-eli-cc-2012-797-20160701-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20160701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-797-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,20 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/797/20160701/de"
 
 (Gefahrgutumschliessungsverordnung, GGUV)
 
-vom 31. Oktober 2012 (Stand am 1. Juli 2016)
+vom 31. Oktober 2012 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 5 Absatz 1, 20 Absatz 3 und 24 Absatz 1 des Gütertransportgesetzes vom 25. September 2015[^ingress-1], die Artikel 30 Absatz 5, 103 Absatz 1 und 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-2], die Artikel 46*a* und 48*a* Absatz 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-3] und Artikel 9 des Bundesgesetzes vom 12. Juni 2009[^ingress-4] über die Produktesicherheit sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-5] über die technischen Handelshemmnisse (THG),[^ingress-6]
+gestützt auf die Artikel 7 Absatz 1, 26 Absatz 3 und 31 Absatz 1 des Gütertransportgesetzes vom 21. März 2025[^ingress-1], die Artikel 30 Absatz 5, 103 Absatz 1 und 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-2], die Artikel 46*a* und 48*a* Absatz 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-3] und Artikel 9 des Bundesgesetzes vom 12. Juni 2009[^ingress-4] über die Produktesicherheit sowie in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-5] über die technischen Handelshemmnisse (THG),[^ingress-6]
 
 verordnet:
 
-[^ingress-1]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-6]: Fassung gemäss Anhang Ziff. II 8 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-6]: Fassung gemäss Anhang Ziff. II 6 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -64,10 +64,10 @@ Sie gilt nicht für Gefahrgutumschliessungen, die verwendet werden für die Bef�
 - a. Abschnitt 2.2.7 der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID)[^1-1], Anhang C zum Übereinkommen vom 9. Mai 1980[^1-2] über den internationalen Eisenbahnverkehr (COTIF) in der Fassung des Änderungsprotokolls vom 3. Juni 1999[^1-3]; oder
 - b. Abschnitt 2.2.7 des Übereinkommens vom 30. September 1957[^1-4] über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR).
 
-[^1-1]: Das RID wird nicht in der AS veröffentlicht. Separatdrucke mit Einschluss der Änderungen können beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern, oder direkt bei der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF), www.otif.org, bezogen werden.
-[^1-2]: [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^1-3]: [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
-[^1-4]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^1-1]: Das RID wird nicht in der AS veröffentlicht. Separatdrucke mit Einschluss der Änderungen können beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern, oder direkt bei der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF), [www.otif.org](http://www.otif.org), bezogen werden.
+[^1-2]: [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^1-3]: [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
+[^1-4]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 #### Art. 2
 
@@ -91,8 +91,8 @@ Im Sinne dieser Verordnung gelten als:
   - 3\. Gaspatronen (UN-Nummer 2037), jedoch weder Druckgaspackungen (UN 1950), offene Kryo-Behälter, Gasflaschen für Atemschutzgeräte und Feuerlöscher (UN 1044) noch ortsbewegliche Druckgeräte, die gemäss Unterabschnitt 1.1.3.2 RID oder Unterabschnitt 1.1.3.2 ADR ausgenommen sind, noch ortsbewegliche Druckgeräte, die aufgrund der Sondervorschriften in Kapitel 3.3 RID oder Kapitel 3.3 ADR von den Bau- und Prüfvorschriften für Verpackungen ausgenommen sind.
 
 [^2-1]: Fassung gemäss Anhang Ziff. II 8 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
-[^2-2]: [SR 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
-[^2-3]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^2-2]: [SR 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
+[^2-3]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
 [^2-4]: Fassung gemäss Anhang Ziff. II 8 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^2-5]: Fassung gemäss Anhang Ziff. II 8 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^2-6]: Richtlinie 2010/35/EU des Europäischen Parlaments und des Rates vom 16. Juni 2010 über ortsbewegliche Druckgeräte und zur Aufhebung der Richtlinien des Rates 76/767/EWG, 84/525/EWG, 84/526/EWG, 84/527/EWG und 1999/36/EG, Fassung gemäss ABl. L 165 vom 30.6.2010, S. 1.
@@ -206,7 +206,7 @@ Konformitätsbewertungsstellen für andere Gefahrgutumschliessungen müssen:
 
 <sup>3</sup> Wer sich auf Unterlagen einer Konformitätsbewertungsstelle beruft, die die Voraussetzungen nach Absatz 1 oder 2 nicht erfüllt, muss glaubhaft darlegen, dass die angewandten Verfahren und die Qualifikation dieser Konformitätsbewertungsstelle den schweizerischen Anforderungen genügen (Art. 18 Abs. 2 THG).
 
-[^12-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^12-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 13
 
@@ -238,7 +238,7 @@ Das UVEK bezeichnet als Konformitätsbewertungsstellen Stellen, die:
 <sup>3</sup> Es weist den bezeichneten Konformitätsbewertungsstellen ihre Kennnummern zu.
 
 [^15-1]: Fassung gemäss Anhang Ziff. II 8 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
-[^15-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^15-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 16
 
@@ -345,7 +345,7 @@ Die Unterlagen und die zu ihrer Beurteilung erforderlichen Auskünfte sind dem B
 
 <sup>2</sup> Die Gebühren richten sich nach der Allgemeinen Gebührenverordnung vom 8. September 2004[^22-1].
 
-[^22-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 23
 
@@ -366,7 +366,7 @@ Das BAV erhebt Gebühren für:
 
 <sup>2</sup> Die Gebühren für die Aufsicht über die Konformitätsbewertungsstellen und die Marktüberwachung richten sich nach der Verordnung vom 25. November 1998[^23-1] über die Gebühren und Abgaben des Bundesamtes für Verkehr.
 
-[^23-1]: [SR 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^23-1]: [SR 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 ## 6. Abschnitt: Strafbestimmungen
 
@@ -415,7 +415,7 @@ Ortsbewegliche Druckgeräte, die vor dem 1. Januar 2013 in Verkehr gebracht wurd
 - a. den Verkehr in der Schweiz;
 - b. den Verkehr zwischen der Schweiz und RID-Vertragsstaaten sowie ADR-Vertragsparteien, sofern diese Staaten beziehungsweise Parteien nicht Mitglied der Europäischen Union sind.
 
-<sup>3</sup> und <sup>4</sup> …[^27-6]
+<sup>3 und <sup>4</sup></sup> …[^27-6]
 
 [^27-1]: Siehe Fussnote zu Art. 2 Bst. b Ziff. 1.
 [^27-2]: Richtlinie 1999/36/EG des Rates vom 29. April 1999 über ortsbewegliche Druckgeräte**,** ABl. L 138 vom 1.6.1999, S. 20; zuletzt geändert durch Richtlinie 2002/50/EG, ABl. L 149 vom 7.6.2002, S. 28 (aufgehoben durch Richtlinie 2010/35/EU, ABl. L 165 vom 30.6.2010, S. 1).
@@ -436,7 +436,7 @@ Anhang 1[^t-1]
 
 ## Verfahren zur Konformitätsbewertung für Gefahrgutumschliessungen, die nicht ortsbewegliche Druckgeräte sind
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. II 8 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^t-1]: Bereinigt gemäss Anhang Ziff. II 8 der Gütertransportverordnung vom 25. Mai 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)) und Anhang Ziff. II 6 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 - 1\.
 
@@ -448,10 +448,10 @@ Anhang 1[^t-1]
 Tabelle 1
 
 <table>
-<tr><td>Verfahren</td><td>Konformitätsbewertungsstelle</td></tr>
+<tr><th>Verfahren</th><th>Konformitätsbewertungsstelle</th></tr>
 <tr><td>Bauartzulassung</td><td>Xa</td></tr>
 <tr><td>Anerkennung und Überwachung der Qualitätssicherungsprogramme von Herstellern</td><td>Xa</td></tr>
-<tr><td>Erstmalige Prüfung</td><td>Xa oder IS</td></tr>
+<tr><td>Erstmalige Inspektion und Prüfung</td><td>Xa oder IS</td></tr>
 <tr><td>Periodische Inspektion und Prüfung</td><td>Xa oder Xb oder IS</td></tr>
 </table>
 
@@ -460,29 +460,28 @@ Tabelle 1
   Die folgenden Vorschriften gelten als erfüllt, wenn die entsprechenden Verfahren durch die nach Tabelle 2 vorgesehenen Konformitätsbewertungsstellen durchgeführt werden:
 
   - a. für die Beförderung mit Eisenbahnen oder Seilbahnen die Kapitel 6.7–6.11 RID;
-  - b. für die Beförderung auf der Strasse die Kapitel 6.7–6.12 ADR.
+  - b. für die Beförderung auf der Strasse die Kapitel 6.7–6.13 ADR.
 
 Tabelle 2
 
 <table>
 <tr><th>Verfahren</th><th>Konformitätsbewertungsstelle</th></tr>
-<tr><td>Baumusterzulassung</td><td>Xa</td></tr>
+<tr><td>Baumusterprüfung Baumusterzulassungsbescheinigung</td><td>Xa Xa</td></tr>
 <tr><td>Überwachung der Herstellung</td><td>Xa</td></tr>
-<tr><td>Erstmalige Prüfung</td><td>Xa</td></tr>
-<tr><td>Wiederkehrende Prüfung und Zwischenprüfung</td><td>Xa</td></tr>
-<tr><td>Ausserordentliche Prüfung</td><td>Xa</td></tr>
+<tr><td>Erstmalige Prüfung Inbetriebnahmeüberprüfung</td><td>Xa Xa</td></tr>
+<tr><td>Wiederkehrende Prüfung, Zwischenprüfung und ausserordentliche Prüfung</td><td>Xa</td></tr>
 </table>
 
 - 3\.
 
   Es bedeuten:
 
-  - – Xa: eine gemäss der Norm EN ISO/IEC 17020 Typ A akkreditierte und nach Anhang 5 bezeichnete Konformitätsbewertungsstelle oder eine von der zuständigen Behörde beauftragte Person;
-  - – Xb: eine gemäss der Norm EN ISO/IEC 17020 Typ B akkreditierte und nach Anhang 5 bezeichnete Konformitätsbewertungsstelle;
-  - – IS: ein betriebseigener Prüfdienst unter der Überwachung einer Xa‑Konformitätsbewertungsstelle.
+  - – Xa: eine gemäss der Norm EN ISO/IEC 17020 Typ A mit Ausnahme von Absatz 8.1.3 akkreditierte und nach Anhang 5 bezeichnete Konformitätsbewertungsstelle oder eine von der zuständigen Behörde beauftragte Person;
+  - – Xb: eine gemäss der Norm EN ISO/IEC 17020 Typ B mit Ausnahme von Absatz 8.1.3 akkreditierte und nach Anhang 5 bezeichnete Konformitätsbewertungsstelle;
+  - – IS: ein betriebseigener Prüfdienst unter der Überwachung einer Xa-Konformitätsbewertungsstelle.
 
 - 4\. Für die einzelnen Verfahren gelten die Bestimmungen des Abschnitts 1.8.7 RID oder des Abschnitts 1.8.7 ADR sinngemäss.
-- 5\. Die Anerkennung der Qualitätssicherungsprogramme von Herstellern wird befristet erteilt und ist in der Regel alle drei Jahre zu erneuern. Das BAV kann in Einzelfällen abweichende Erneuerungsintervalle festlegen.
+- 5\. Die Anerkennung der Qualitätssicherungsprogramme von Herstellern wird befristet erteilt und ist in der Regel alle fünf Jahre zu erneuern. Das BAV kann in Einzelfällen abweichende Erneuerungsintervalle festlegen.
 
 Anhang 2
 
@@ -492,7 +491,7 @@ Anhang 2
 
 - 1\. Die Dimensionen der folgenden Pi-Kennzeichnung sind in Artikel 15 der Richtlinie 2010/35 EU[^annex2-lvlu1-1] definiert. Die Abbildung hat informativen Charakter.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20160701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/797/20260101/de/xml/image/image1.png)
 
 - 2\. Die Pi-Kennzeichnung ist deutlich sichtbar, lesbar und dauerhaft auf den ortsbeweglichen Druckgeräten oder ihrem Kennzeichnungsschild sowie auf den abnehmbaren Teilen der nachfüllbaren ortsbeweglichen Druckgeräte anzubringen, die eine unmittelbare Sicherheitsfunktion haben.
 - 3\. Die Pi-Kennzeichnung ist anzubringen, bevor neue ortsbewegliche Druckgeräte oder abnehmbare Teile nachfüllbarer ortsbeweglicher Druckgeräte mit unmittelbarer Sicherheitsfunktion in Verkehr gebracht oder bereitgestellt werden.
@@ -516,19 +515,21 @@ Anhang 3
 - 6\. Sachverständige müssen über eine angemessene Haftpflichtversicherung verfügen. Auftraggeber und Sachverständige vereinbaren den Umfang der Haftung sowie der erforderlichen Haftpflichtversicherung.
 - 7\. Diese Anforderungen gelten als erfüllt für das Personal einer nach Artikel 15 bezeichneten Konformitätsbewertungsstelle.
 
-Anhang 4
+Anhang 4[^t-2]
 
 (Art. 13)
 
 ## Pflichten der Konformitätsbewertungsstellen
 
+[^t-2]: Bereinigt gemäss Anhang Ziff. II 6 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
+
 - 1\.
 
-  Konformitätsbewertungsstellen, die Konformitätsbewertungen, Neubewertungen der Konformität, wiederkehrende Prüfungen, Zwischenprüfungen und ausserordentliche Prüfungen von ortsbeweglichen Druckgeräten durchführen wollen, müssen den Pflichten nach folgenden Unterabschnitten des RID oder des ADR nachkommen:
+  Konformitätsbewertungsstellen, die Konformitätsbewertungen, Neubewertungen der Konformität, wiederkehrende Prüfungen, Zwischenprüfungen und ausserordentliche Prüfungen von ortsbeweglichen Druckgeräten durchführen wollen, müssen den Pflichten nach folgenden Abschnitten des RID oder des ADR nachkommen:
 
-  - a. 1.8.6.2 in Bezug auf ihre Arbeit;
-  - b. 1.8.6.4 im Fall von Delegationen;
-  - c. 1.8.6.5 in Bezug auf Meldepflichten.
+  - a. 1.8.6.3.2 in Bezug auf ihre Arbeit;
+  - b. 1.8.6.3.3 im Fall von Delegationen von Prüfaufgaben;
+  - c. 1.8.6.3.4 in Bezug auf Meldepflichten.
 
 - 2\. Die übrigen Konformitätsbewertungsstellen müssen den Pflichten nach Ziffer 1 Buchstaben a–c sinngemäss nachkommen.
 - 3\. Falls Konformitätsbewertungsstellen ähnliche Bewertungs- und Prüftätigkeiten bei vergleichbaren Gefahrgutumschliessungen ausüben, müssen sie sich gegenseitig einschlägige Informationen über die negativen und auf Verlangen auch über die positiven Ergebnisse der Bewertungen und Prüfungen übermitteln.
@@ -539,11 +540,13 @@ Anhang 4
   - a. Mitwirkung an der einschlägigen Normungsarbeit nach den Vorgaben des UVEK;
   - b. Mitwirkung an den Koordinationsveranstaltungen des BAV.
 
-Anhang 5
+Anhang 5[^t-3]
 
 (Art. 15)
 
 ## Bezeichnung von Konformitätsbewertungsstellen durch das UVEK
+
+[^t-3]: Bereinigt gemäss Anhang Ziff. II 6 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ### 1. Verfahren
 
@@ -570,16 +573,7 @@ Anhang 5
 
 ### 2. Voraussetzungen
 
-Eine Konformitätsbewertungsstelle muss:
-
-- a. über geeignetes, geschultes, sachkundiges und erfahrenes Personal verfügen, das seine technischen Aufgaben in zufriedenstellender Weise ausüben kann und das in eine zweckmässige Organisationsstruktur eingebunden ist;
-- b. Zugang zu geeigneten und hinreichenden Einrichtungen und Ausrüstungen haben;
-- c. in unabhängiger Art und Weise arbeiten und frei von Einflüssen sein, die sie daran hindern könnten;
-- d. geschäftliche Verschwiegenheit über die unternehmerischen und eigentumsrechtlich geschützten Tätigkeiten des Herstellers und anderer Konformitätsbewertungsstellen bewahren;
-- e. eine klare Trennung zwischen den Aufgaben als Konformitätsbewertungsstelle und den damit nicht zusammenhängenden Aufgaben einhalten;
-- f. ein dokumentiertes Qualitätsmanagementsystem haben;
-- g. sicherstellen, dass die im RID oder im ADR festgelegten Prüfungen durchgeführt werden; und
-- h. ein wirksames und geeignetes Berichts- und Aufzeichnungssystem unterhalten, das die Anforderungen der Abschnitte 1.8.7 und 1.8.8 RID oder der Abschnitte 1.8.7 und 1.8.8 ADR erfüllt.
+Eine Konformitätsbewertungsstelle muss den Pflichten nach Absatz 1.8.6.3.1 Buchstaben a–k des RID oder des ADR nachkommen.
 
 Anhang 6
 
