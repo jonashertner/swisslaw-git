@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 2007 sulle lingue nazionali e la comprensio
 short: LLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: it
-version: 2021-02-01
+version: 2026-01-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2009-821-20260101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/it"
 
 (Legge sulle lingue, LLing)
 
-del 5 ottobre 2007 (Stato 1° febbraio 2021)
+del 5 ottobre 2007 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,7 +27,7 @@ visto il parere del Consiglio federale del 18 ottobre 2006[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 8229](https://fedlex.data.admin.ch/eli/fga/2006/1175)
 [^ingress-3]: [FF 2006 8295](https://fedlex.data.admin.ch/eli/fga/2006/1177)
 
@@ -93,7 +93,7 @@ Per quanto gli obiettivi perseguiti dalla presente legge lo esigano, il Consigli
 - a. le disposizioni della presente sezione siano applicabili a organizzazioni o persone di cui all’articolo 2 capoverso 4 LOGA cui sono demandati compiti amministrativi in virtù del diritto federale;
 - b. il rilascio di concessioni, l’attribuzione di mandati o l’assegnazione di aiuti finanziari siano vincolati all’osservanza di determinate disposizioni della presente sezione.
 
-[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 5
 
@@ -153,7 +153,7 @@ Per quanto gli obiettivi perseguiti dalla presente legge lo esigano, il Consigli
 
 <sup>2</sup> La pubblicazione avviene simultaneamente in tedesco, francese e italiano.
 
-[^10-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^10-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^10-2]: Nuovo giusta l’all. n. 5 della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 11
@@ -190,7 +190,7 @@ Le autorità federali si presentano nelle quattro lingue ufficiali, in particola
 
 <sup>3</sup> Sono salve le eccezioni secondo l’articolo 14 capoverso 2 della legge del 18 giugno 2004[^13-1] sulle pubblicazioni ufficiali o previste da disposizioni speciali della legislazione federale.
 
-[^13-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^13-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ## Sezione 3: Promozione della comprensione e degli scambi tra le comunità linguistiche
 
@@ -273,6 +273,8 @@ Sono compiti speciali segnatamente:
 
 #### Art. 22
 
+**Aiuti finanziari ai Cantoni dei Grigioni e Ticino[^22-1]**
+
 <sup>1</sup>
 
 Entro i limiti dei crediti stanziati, la Confederazione concede ai Cantoni dei Grigioni e Ticino aiuti finanziari per il sostegno di:
@@ -284,6 +286,25 @@ Entro i limiti dei crediti stanziati, la Confederazione concede ai Cantoni dei G
 <sup>2</sup> Nell’intento di salvaguardare e promuovere la lingua romancia, la Confederazione può sostenere misure destinate a promuovere la stampa romancia.
 
 <sup>3</sup> L’aiuto finanziario della Confederazione ammonta al massimo al 75 per cento dei costi complessivi.
+
+[^22-1]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° gen. 2026 ([RU 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+
+#### Art. 22a
+
+**Salvaguardia e promozione al di fuori delle regioni linguistiche d’origine**[^22a-1]
+
+<sup>1</sup> La Confederazione promuove misure per la salvaguardia e la promozione del romancio e dell’italiano al di fuori delle loro regioni linguistiche d’origine.
+
+<sup>2</sup>
+
+La Confederazione può concedere aiuti finanziari a organizzazioni e istituzioni segnatamente per:
+
+- a. misure e offerte che promuovono l’apprendimento del romancio e dell’italiano e il consolidamento delle competenze linguistiche;
+- b. misure e offerte che consentono e facilitano l’uso del romancio.
+
+<sup>3</sup> L’aiuto finanziario della Confederazione ammonta al massimo al 75 per cento dei costi complessivi.
+
+[^22a-1]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° gen. 2026 ([RU 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 ## Sezione 6: Esecuzione e valutazione
 
@@ -311,8 +332,8 @@ La medesima misura non può beneficiare di più aiuti finanziari secondo la pres
 
 <sup>3</sup> Con la collaborazione dei Cantoni, allestisce una statistica sugli scambi in ambito scolastico di cui all’articolo 14. I Cantoni mettono a disposizione della Confederazione i dati necessari in forma standardizzata.[^25-2]
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020 in vigore dal 1° feb. 2021 ([RU 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
-[^25-2]: Introdotto dal n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2020 in vigore dal 1° feb. 2021 ([RU 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^25-2]: Introdotto dalla cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Sezione 7: Disposizioni finali
 

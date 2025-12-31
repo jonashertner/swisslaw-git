@@ -4,11 +4,11 @@ title: "Lescha federala dals 5 d'october 2007 davart las linguas naziunalas e la
 short: LLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: rm
-version: 2021-02-01
+version: 2026-01-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/rm/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-rm-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2009-821-20260101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha da linguas, LLing)
 
-dals 5 d’october 2007 (stadi dal 1. da favrer 2021)
+dals 5 d’october 2007 (stadi dal 1. da schaner 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 4, 18 e 70 da la Constituziun federala[^ingress-1], 
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 8977](https://fedlex.data.admin.ch/eli/fga/2006/1175)
 [^ingress-3]: [BBl 2006 9047](https://fedlex.data.admin.ch/eli/fga/2006/1177)
 
@@ -93,7 +93,7 @@ Sche las finamiras ch’èn fixadas en questa lescha pretendan quai, po il Cusse
 - a. tschertas disposiziuns da questa part èn applitgablas per organisaziuns u per persunas tenor l’artitgel 2 alinea 4 LORA, a las qualas vegnan assegnadas, sin fundament dal dretg federal, incumbensas administrativas;
 - b. l’attribuziun da concessiuns u da mandats sco er la contribuziun d’agids finanzials vegnan liadas a l’obligaziun da respectar tschertas disposiziuns da questa part.
 
-[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 5
 
@@ -153,7 +153,7 @@ Sche las finamiras ch’èn fixadas en questa lescha pretendan quai, po il Cusse
 
 <sup>2</sup> La publicaziun vegn fatga a medem temp en tudestg, en franzos ed en talian.
 
-[^10-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^10-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^10-2]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 11
@@ -190,7 +190,7 @@ Las autoritads federalas sa preschentan vers anora en las quatter linguas uffizi
 
 <sup>3</sup> Resalvadas restan excepziuns tenor l’artitgel 14 alinea 2 da la Lescha dals 18 da zercladur 2004[^13-1] davart las publicaziuns uffizialas e sin fundament da disposiziuns spezialas da la legislaziun federala.
 
-[^13-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^13-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ## 3. part Promoziun da la chapientscha e dal barat tranter las cuminanzas linguisticas
 
@@ -273,6 +273,8 @@ Incumbensas spezialas èn cunzunt:
 
 #### Art. 22
 
+**Agids finanzials als chantuns Grischun e Tessin[^22-1]**
+
 <sup>1</sup>
 
 En il rom dals credits approvads conceda la Confederaziun agids finanzials als chantuns Grischun e Tessin per sustegnair:
@@ -284,6 +286,25 @@ En il rom dals credits approvads conceda la Confederaziun agids finanzials als c
 <sup>2</sup> Cun l’intent da mantegnair e da promover la lingua rumantscha po la Confederaziun sustegnair mesiras en favur da la pressa rumantscha.
 
 <sup>3</sup> L’agid finanzial da la Confederaziun importa maximalmain 75 pertschient dals custs totals.
+
+[^22-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. da schan. 2026 ([AS 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+
+#### Art. 22a
+
+**Mantegniment e promoziun ordaifer ils territoris linguistics tradiziunals**[^22a-1]
+
+<sup>1</sup> La Confederaziun sustegna mesiras per mantegnair e promover la lingua rumantscha e taliana ordaifer ils territoris linguistics tradiziunals.
+
+<sup>2</sup>
+
+La Confederaziun po conceder agids finanzials ad organisaziuns ed ad instituziuns, en spezial per:
+
+- a. mesiras e purschidas che promovan l’emprender rumantsch e talian e la consolidaziun da las cumpetenzas linguisticas;
+- b. mesiras e purschidas che pussibiliteschan e simplifitgeschan l’utilisaziun dal rumantsch.
+
+<sup>3</sup> L’agid finanzial da la Confederaziun importa maximalmain 75 pertschient dals custs totals.
+
+[^22a-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. da schan. 2026 ([AS 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 ## 6. part Execuziun ed evaluaziun
 

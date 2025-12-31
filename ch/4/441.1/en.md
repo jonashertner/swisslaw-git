@@ -4,11 +4,11 @@ title: "Federal Act of 5 October 2007 on the National Languages and Understandin
 short: LangA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: en
-version: 2021-02-01
+version: 2026-01-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-en-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2009-821-20260101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Languages Act, LangA)
 
-of 5 October 2007 (Status as 1 February 2021)
+of 5 October 2007 (Last amended on 1 January 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Articles 4, 18 and 70 of the Federal Constitution[^ingress-1], having c
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 8977](https://fedlex.data.admin.ch/eli/fga/2006/1175)
 [^ingress-3]: [BBl 2006 9047](https://fedlex.data.admin.ch/eli/fga/2006/1177)
 
@@ -93,7 +93,7 @@ Where the goals set out in this Act so require, the Federal Council may provide 
 - a. provisions of this Section apply to organisations or persons under Article 2 paragraph 4 GAOO that are entrusted with administrative tasks under federal law;
 - b. the granting of licences or assignments and the award of financial assistance are made conditional on complying with the provisions of this Section.
 
-[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 5
 
@@ -153,7 +153,7 @@ Where the goals set out in this Act so require, the Federal Council may provide 
 
 <sup>2</sup> Publication shall take place simultaneously in German, French and Italian.
 
-[^10-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^10-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^10-2]: Amended by Annex No 5 of the FA of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 11
@@ -190,7 +190,7 @@ The federal authorities shall communicate with the public in the four official l
 
 <sup>3</sup> Exceptions under Article 14 paragraph 2 of the Publications Act of 18 June 2004[^13-1] and special provisions of federal legislation are reserved.
 
-[^13-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^13-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ## Section 3 Promoting Understanding and Exchange between the Linguistic Communities
 
@@ -273,6 +273,8 @@ Specific tasks are in particular:
 
 #### Art. 22
 
+**Financial assistance for the cantons of Graubünden and Ticino[^22-1]**
+
 <sup>1</sup>
 
 Within the limits of the authorised credits, the Confederation shall grant the cantons of Graubünden and Ticino financial assistance to support:
@@ -283,7 +285,26 @@ Within the limits of the authorised credits, the Confederation shall grant the c
 
 <sup>2</sup> In order to preserve and promote the Romansh language, the Confederation may support measures to support the Romansh media.
 
-<sup>3</sup> Federal financial assistance shall amount to a maximum of 75 per cent of the overall costs.
+<sup>3</sup> The federal financial assistance shall amount to a maximum of 75 per cent of the overall costs.
+
+[^22-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 Jan. 2026 ([AS 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+
+#### Art. 22a
+
+**Preservation and promotion outside traditional areas of use**[^22a-1]
+
+<sup>1</sup> The Confederation shall support measures to preserve and promote the Romansh and Italian languages outside their traditional areas of use.
+
+<sup>2</sup>
+
+The Confederation may grant organisations and institutions financial assistance, in particular for:
+
+- a. measures and programmes that encourage the learning of the Romansh and Italian languages and the consolidation of language skills;
+- b. measures and programmes that enable and facilitate the use of the Romansh language.
+
+<sup>3</sup> The federal financial assistance shall amount to a maximum of 75 per cent of the overall costs.
+
+[^22a-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 Jan. 2026 ([AS 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 ## Section 6 Implementation and Evaluation
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 2007 über die Landessprachen und die Verst�
 short: SpG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: de
-version: 2021-02-01
+version: 2026-01-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2009-821-20260101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/de"
 
 (Sprachengesetz, SpG)
 
-vom 5. Oktober 2007 (Stand am 1. Februar 2021)
+vom 5. Oktober 2007 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 4, 18 und 70 der Bundesverfassung[^ingress-1], nach Ei
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 8977](https://fedlex.data.admin.ch/eli/fga/2006/1175)
 [^ingress-3]: [BBl 2006 9047](https://fedlex.data.admin.ch/eli/fga/2006/1177)
 
@@ -91,7 +91,7 @@ Soweit die in diesem Gesetz festgelegten Ziele es erfordern, kann der Bundesrat 
 - a. Bestimmungen dieses Abschnitts auf Organisationen oder Personen nach Artikel 2 Absatz 4 RVOG, die gestützt auf Bundesrecht mit Verwaltungsaufgaben betraut werden, anwendbar sind;
 - b. die Erteilung von Konzessionen oder Aufträgen sowie die Zusprache von Finanzhilfen mit der Auflage zu verbinden sind, Bestimmungen dieses Abschnitts zu befolgen.
 
-[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 5
 
@@ -151,7 +151,7 @@ Soweit die in diesem Gesetz festgelegten Ziele es erfordern, kann der Bundesrat 
 
 <sup>2</sup> Die Veröffentlichung erfolgt gleichzeitig in Deutsch, Französisch und Italienisch.
 
-[^10-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^10-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^10-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 11
@@ -188,7 +188,7 @@ Die Bundesbehörden treten nach aussen in den vier Amtssprachen auf, insbesonder
 
 <sup>3</sup> Vorbehalten bleiben Ausnahmen nach Artikel 14 Absatz 2 des Publikationsgesetzes vom 18. Juni 2004[^13-1] und aufgrund besonderer Bestimmungen der Bundesgesetzgebung.
 
-[^13-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^13-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ## 3. Abschnitt: Förderung der Verständigung und des Austauschs zwischen den Sprachgemeinschaften
 
@@ -271,6 +271,8 @@ Als besondere Aufgaben gelten namentlich:
 
 #### Art. 22
 
+**Finanzhilfen an die Kantone Graubünden und Tessin[^22-1]**
+
 <sup>1</sup>
 
 Im Rahmen der bewilligten Kredite gewährt der Bund den Kantonen Graubünden und Tessin Finanzhilfen zur Unterstützung:
@@ -282,6 +284,25 @@ Im Rahmen der bewilligten Kredite gewährt der Bund den Kantonen Graubünden und
 <sup>2</sup> Zur Erhaltung und Förderung der rätoromanischen Sprache kann der Bund Massnahmen zur Förderung der rätoromanischen Presse unterstützen.
 
 <sup>3</sup> Die Finanzhilfe des Bundes beträgt höchstens 75 Prozent der Gesamtkosten.
+
+[^22-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Jan. 2026 ([AS 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+
+#### Art. 22a
+
+**Erhaltung und Förderung ausserhalb der angestammten Sprachgebiete**[^22a-1]
+
+<sup>1</sup> Der Bund fördert Massnahmen zur Erhaltung und Förderung der rätoromanischen und der italienischen Sprache ausserhalb der angestammten Sprachgebiete.
+
+<sup>2</sup>
+
+Der Bund kann Organisationen und Institutionen Finanzhilfen gewähren, namentlich für:
+
+- a. Massnahmen und Angebote, die das Erlernen der rätoromanischen und der italienischen Sprache und das Festigen der Sprachkompetenzen fördern;
+- b. Massnahmen und Angebote, welche die Verwendung der rätoromanischen Sprache ermöglichen und vereinfachen.
+
+<sup>3</sup> Die Finanzhilfe des Bundes beträgt höchstens 75 Prozent der Gesamtkosten.
+
+[^22a-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Jan. 2026 ([AS 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 ## 6. Abschnitt: Vollzug und Evaluation
 

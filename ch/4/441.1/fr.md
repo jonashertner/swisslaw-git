@@ -4,22 +4,22 @@ title: "Loi fédérale du 5 octobre 2007 sur les langues nationales et la compr�
 short: LLC
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: fr
-version: 2021-02-01
+version: 2026-01-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-821-20260101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les langues nationales et la compréhension entre les communautés linguistiques<sup></sup>
+# Loi fédérale sur les langues nationales et la compréhension entre les communautés linguistiques\*
 
 (Loi sur les langues, LLC)[^t-1]
 
-du 5 octobre 2007 (État le 1<sup>er</sup> février 2021)
+du 5 octobre 2007 (État le 1<sup>er</sup> janvier 2026)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 4, 18 et 70 de la Constitution[^ingress-1], vu le rapport de la Comm
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 8505](https://fedlex.data.admin.ch/eli/fga/2006/1175)
 [^ingress-3]: [FF 2006 8575](https://fedlex.data.admin.ch/eli/fga/2006/1177)
 
@@ -93,7 +93,7 @@ Dans la mesure où les objectifs fixés dans la présente loi l’exigent, le Co
 - a. que certaines dispositions de la présente section s’appliquent aux organisations ou aux personnes extérieures à l’administration fédérale visées à l’art. 2, al. 4, LOGA et auxquelles sont confiées des tâches administratives relevant du droit fédéral;
 - b. que l’attribution de concessions ou de mandats ainsi que l’allocation d’aides financières soient liées à l’obligation de respecter certaines dispositions de la présente section.
 
-[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 5
 
@@ -153,7 +153,7 @@ Dans la mesure où les objectifs fixés dans la présente loi l’exigent, le Co
 
 <sup>2</sup> Les documents sont publiés simultanément en allemand, en français et en italien.
 
-[^10-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^10-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^10-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6325](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 11
@@ -190,7 +190,7 @@ Les autorités fédérales se présentent au public dans les quatre langues offi
 
 <sup>3</sup> Des dérogations sont possibles, en vertu de l’art. 14, al. 2, de la loi du 18 juin 2004 sur les publications officielles[^13-1] ou de dispositions particulières de la législation fédérale.
 
-[^13-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^13-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ## Section 3 Promotion de la compréhension et des échanges entre les communautés linguistiques
 
@@ -273,6 +273,8 @@ Par tâches particulières, on entend notamment:
 
 #### Art. 22
 
+**Aides financières aux cantons des Grisons et du Tessin[^22-1]**
+
 <sup>1</sup>
 
 La Confédération accorde, dans le cadre des crédits alloués, des aides financières aux cantons des Grisons et du Tessin pour qu’ils soutiennent:
@@ -284,6 +286,25 @@ La Confédération accorde, dans le cadre des crédits alloués, des aides finan
 <sup>2</sup> Pour sauvegarder et pour promouvoir la langue romanche, la Confédération peut prendre des mesures en faveur de la presse en langue romanche.
 
 <sup>3</sup> L’aide financière de la Confédération n’excède pas 75 % du coût total.
+
+[^22-1]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+
+#### Art. 22a
+
+**Sauvegarde et promotion en dehors des régions linguistiques d’origine**[^22a-1]
+
+<sup>1</sup> La Confédération encourage les mesures visant à sauvegarder et à promouvoir le romanche et l’italien en dehors de leurs régions linguistiques d’origine.
+
+<sup>2</sup>
+
+Elle peut notamment accorder des aides financières à des organisations et à des institutions pour:
+
+- a. des mesures et des offres favorisant l’apprentissage du romanche et de l’italien et la consolidation des compétences dans ces langues;
+- b. des mesures et des offres permettant et facilitant l’usage du romanche.
+
+<sup>3</sup> L’aide financière de la Confédération n’excède pas 75 % du coût total.
+
+[^22a-1]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 ## Section 6 Mise en œuvre et évaluation
 
@@ -332,7 +353,7 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 Date de l’entrée en vigueur[^27-1]: 1<sup>er</sup> janvier 2010
 
-Ch. I de l’annexe: en même temps que l'ordonnance sur les langues
+Ch. I de l’annexe: en même temps que l’ordonnance sur les langues
 
 [^27-1]: ACF du 4 déc. 2009
 
@@ -350,7 +371,7 @@ II
 
 Les lois fédérales mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RO 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514)]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821).
