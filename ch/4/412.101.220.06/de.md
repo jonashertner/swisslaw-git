@@ -3,18 +3,18 @@ sr: "412.101.220.06"
 title: Verordnung des SBFI vom 6. November 2018 über die berufliche Grundbildung Restaurantfachfrau/Restaurantfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/767"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2018-11-06
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/767/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2018-767-20240401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/767/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/767/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-767-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/767/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Restaurantfachfrau / Restaurantfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 6. November 2018 (Stand am 1. April 2024)
+vom 6. November 2018 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>78705</td><td>Restaurantfachfrau EFZ / Restaurantfachmann EFZ Spécialiste en restauration CFC Impiegata di ristorazione AFC / Impiegato di ristorazione AFC</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -153,7 +153,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
-[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -183,13 +183,14 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.[^7-2]
 
 <sup>4</sup> Unterrichtssprache ist die Landessprache des Schulortes. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 732](https://fedlex.data.admin.ch/eli/oc/2025/732)).
 
 #### Art. 8
 
@@ -236,7 +237,11 @@ Der Bildungsplan hat folgenden Inhalt:
 
 [^9-1]: Der Bildungsplan vom 6. November 2018 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe von A–Z.
 
-## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 732](https://fedlex.data.admin.ch/eli/oc/2025/732)).
 
 #### Art. 10
 
@@ -252,17 +257,21 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 
 #### Art. 11
 
-**Höchstzahl der Lernenden**
+**Höchstzahl der Lernenden**[^11-1]
 
-<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 100 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
+<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 80 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
 
-<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
+<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 80 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
 
 <sup>3</sup> Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis, ein eidgenössisches Berufsattest oder über eine gleichwertige Qualifikation verfügt.
 
 <sup>4</sup> In Betrieben, die nur eine lernende Person ausbilden dürfen, kann eine zweite lernende Person ihre Bildung beginnen, wenn die erste in das letzte Jahr der beruflichen Grundbildung eintritt.
 
 <sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
+
+<sup>6</sup> Der Betrieb organisiert die Arbeitszeit der Berufsbildnerinnen oder Berufsbildner und Fachkräfte so, dass die Lernenden während der beruflichen Praxis von einer Berufsbildnerin oder einem Berufsbildner oder von einer Fachkraft beaufsichtigt sind.
+
+[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 732](https://fedlex.data.admin.ch/eli/oc/2025/732)).
 
 ## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen
 
@@ -346,27 +355,15 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>3</td><td>Umsetzen der betriebswirtschaftlichen und verkaufsorientierten Prozesse[^18-1] Sicherstellen der logistischen Prozesse und der Werterhaltung</td><td>20 %</td></tr>
 </table>
 
-- b.
-
-  Berufskenntnisse, im Umfang von 3 Stunden; dafür gilt Folgendes:
-
-  - 1\. dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft,
-  - 2\. der Qualifikationsbereich wird schriftlich geprüft und umfasst die folgenden Handlungskompetenzbereiche in nachstehender Dauer und mit den nachstehenden Gewichtungen:
-
-<table>
-<tr><th>Position</th><th>Handlungskompetenzbereiche</th><th>Dauer</th><th>Gewichtung</th></tr>
-<tr><td>1</td><td>Handeln als Gastgeberin oder Gastgeber</td><td>30 Min.</td><td>20 %</td></tr>
-<tr><td>2</td><td>Gestalten des Getränkeservice Gestalten des Speiseservice</td><td>120 Min.</td><td>60 %</td></tr>
-<tr><td>3</td><td>Umsetzen der betriebswirtschaftlichen und verkaufsorientierten Prozesse[^18-2] Sicherstellen der logistischen Prozesse und der Werterhaltung</td><td>30 Min.</td><td>20 %</td></tr>
-</table>
-
-- c. Allgemeinbildung; der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-3] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- b.[^18-2] …
+- c.[^18-3] Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^18-4] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^18-1]: Berichtigung vom 9. Juli 2019 ([AS 2019 2109](https://fedlex.data.admin.ch/eli/oc/2019/390)).
-[^18-2]: Berichtigung vom 9. Juli 2019 ([AS 2019 2109](https://fedlex.data.admin.ch/eli/oc/2019/390)).
-[^18-3]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-2]: Aufgehoben durch Ziff. I der V des SBFI vom 7. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 732](https://fedlex.data.admin.ch/eli/oc/2025/732)).
+[^18-3]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 732](https://fedlex.data.admin.ch/eli/oc/2025/732)).
+[^18-4]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -383,12 +380,13 @@ Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
 
 Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der gewichteten Noten der einzelnen Qualifikationsbereiche der Abschlussprüfung und der gewichteten Erfahrungsnote; dabei gilt folgende Gewichtung:
 
-- a. praktische Arbeit: 40 %;
-- b. Berufskenntnisse: 20 %;
-- c. Allgemeinbildung: 20 %;
-- d. Erfahrungsnote: 20 %.
+- a. praktische Arbeit: 50 %;
+- b. Allgemeinbildung: 20 %;
+- c. Erfahrungsnote: 30 %.[^19-1]
 
 <sup>3</sup> Die Erfahrungsnote ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der sechs Semesterzeugnisnoten für den Unterricht in den Berufskenntnissen.
+
+[^19-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 732](https://fedlex.data.admin.ch/eli/oc/2025/732)).
 
 #### Art. 20
 
@@ -410,9 +408,10 @@ Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der
 
 Für die Berechnung der Gesamtnote werden in diesem Fall die einzelnen Noten wie folgt gewichtet:
 
-- a. praktische Arbeit: 60 %;
-- b. Berufskenntnisse: 20 %;
-- c. Allgemeinbildung: 20 %.
+- a. praktische Arbeit: 80 %;
+- b. Allgemeinbildung: 20 %.[^21-1]
+
+[^21-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 732](https://fedlex.data.admin.ch/eli/oc/2025/732)).
 
 ## 9. Abschnitt: Ausweise und Titel
 
@@ -481,17 +480,21 @@ Sie hat insbesondere folgende Aufgaben:
 
 Die Verordnung des SBFI vom 7. Dezember 2004[^25-1] über die berufliche Grundbildung Restaurationsfachfrau / Restaurationsfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ) wird aufgehoben.
 
-[^25-1]: [[AS 2005 1035](https://fedlex.data.admin.ch/eli/oc/2005/127), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 3 und II 3]
+[^25-1]: [[AS 2005 1035](https://fedlex.data.admin.ch/eli/oc/2005/127); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 3 und II 3]
 
 #### Art. 26
 
-**Übergangsbestimmungen und erstmalige Anwendung einzelner Bestimmungen**
+**Übergangsbestimmungen zur Änderung vom 7. November 2025 und erstmalige Anwendung einzelner Bestimmungen**[^26-1]
 
-<sup>1</sup> Lernende, die ihre Bildung als Restaurationsfachfrau oder Restaurationsfachmann vor dem Inkrafttreten dieser Verordnung begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2023.
+<sup>1</sup> Die Artikel 18 Absatz 1 Buchstabe b, 19 Absatz 2 und 21 Absatz 2 der Änderung vom 7. November 2025 kommen ab dem 1. Januar 2029 zur Anwendung.
 
-<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Restaurationsfachfrau oder Restaurationsfachmann bis zum 31. Dezember 2023 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+<sup>2</sup> Lernende, die ihre Ausbildung als Restaurantfachfrau oder Restaurantfachmann mit EFZ vor dem Inkrafttreten der Änderung vom 7. November 2025 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2030 erfolgt.
 
-<sup>3</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 16−22) kommen ab dem 1. Januar 2022 zur Anwendung.
+<sup>3</sup> Lernende, die nach dem Inkrafttreten der Änderung vom 7. November 2025 eine verkürzte Ausbildung beginnen, die vor der erstmaligen Anwendung der Artikel 18 Absatz 1 Buchstabe b, 19 Absatz 2 und 21 Absatz 2 endet, absolvieren sie nach bisherigem Recht und schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2030 erfolgt.
+
+<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Restaurantfachfrau oder Restaurantfachmann mit EFZ gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2030 wiederholen, werden nach bisherigem Recht beurteilt.
+
+[^26-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 732](https://fedlex.data.admin.ch/eli/oc/2025/732)).
 
 #### Art. 27
 
