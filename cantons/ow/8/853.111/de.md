@@ -3,20 +3,19 @@ canton: OW
 number: "853.111"
 title: Ausführungsbestimmungen zum Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung
 language: de
-version: 2021-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-09-01
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2010-11-09
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/853.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1474/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1943/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zum Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung
 
-vom 09.11.2010 (Stand 01.01.2021)
+vom 09.11.2010 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -42,13 +41,13 @@ beschliesst:
 
 <table>
 <tr><th>Lohnsummen (Beträge in Fr.)</th><th>%-Anteile der Versicherungsbeiträge</th></tr>
-<tr><td>bis 100 000.–</td><td>3.5</td></tr>
-<tr><td>ab 100 001.– bis 500 000.–</td><td>3.0</td></tr>
-<tr><td>ab 500 001.– bis 1 000 000.–</td><td>2.0</td></tr>
-<tr><td>ab 1 000 001.– bis 5 000 000.–</td><td>1.3</td></tr>
-<tr><td>ab 5 000 001.– bis 10 000 000.–</td><td>1.1</td></tr>
-<tr><td>ab 10 000 001.– bis 75 000 000.–</td><td>1.0</td></tr>
-<tr><td>ab 75 000 001.–</td><td>0.8</td></tr>
+<tr><td>bis 100 000.–</td><td>3.4</td></tr>
+<tr><td>ab 100 001.– bis 500 000.–</td><td>2.9</td></tr>
+<tr><td>ab 500 001.– bis 1 000 000.–</td><td>1.9</td></tr>
+<tr><td>ab 1 000 001.– bis 5 000 000.–</td><td>1.1</td></tr>
+<tr><td>ab 5 000 001.– bis 10 000 000.–</td><td>0.9</td></tr>
+<tr><td>ab 10 000 001.– bis 75 000 000.–</td><td>0.8</td></tr>
+<tr><td>ab 75 000 001.–</td><td>0.5</td></tr>
 </table>
 
 <sup>2</sup> …
@@ -86,7 +85,7 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Für die Beitragsjahre 2020 und früher gelten die bisherigen Verwaltungskostensätze.
+<sup>1</sup> Für die Beitragsjahre 2025 und früher gelten die damals geltenden Verwaltungskostensätze.
 
 #### Art. 6
 
@@ -102,8 +101,10 @@ Ursprüngliches Inkrafttreten: 1. Januar 2011
 
 geändert durch:
 
-\- Nachtrag vom 3. November 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 59)
+\- Nachtrag vom 3. November 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 59),
 
-\- Nachtrag vom 1. September 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 36)
+\- Nachtrag vom 1. September 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 36),
+
+\- Nachtrag vom 16. September 2025, in Kraft seit 1. Januar 2026 (OGS 2025, 16)
 
 OGS 2010, 68
