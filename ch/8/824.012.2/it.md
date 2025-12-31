@@ -4,11 +4,11 @@ title: Ordinanza del DEFR del 15 novembre 2017 sul servizio civile (OSCi-DEFR)
 short: OSCi-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-745-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-745-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20250101/it"
 
 (OSCi-DEFR)
 
-del 15 novembre 2017 (Stato 1° gennaio 2025)
+del 15 novembre 201 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -53,21 +53,23 @@ Per lavori di sistemazione e manutenzione di superfici per la promozione della b
 - j. 5 giorni di servizio per ettaro di fasce di colture estensive in campicoltura;
 - k. 5 giorni di servizio per ettaro di strisce su superficie coltiva;
 - l. 14 giorni di servizio per ettaro di vigneti con biodiversità naturale;
-- m. 7 giorni di servizio per ettaro di superfici per la promozione della biodiversità specifiche di una regione;
-- n.[^1-4] 5 giorni di servizio per ettaro di strisce per organismi utili.
+- m.[^1-4] ...
+- n.[^1-5] 5 giorni di servizio per ettaro di strisce per organismi utili.
 
 <sup>2</sup>
 
-Per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui al capoverso 1, per i quali vengono concessi contributi, gli istituti d’impiego hanno diritto a 0,21 giorni di servizio per albero per:[^1-5]
+Per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui al capoverso 1, per i quali vengono concessi contributi, gli istituti d’impiego hanno diritto a 0,21 giorni di servizio per albero per:[^1-6]
 
 - a. alberi da frutto ad alto fusto nei campi;
-- b. alberi indigeni isolati adatti al luogo e alberi in viali alberati.
+- b.[^1-7] ...
 
 [^1-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 [^1-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
-[^1-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-4]: Abrogata dalla cifra I dell’O del DEFR del 6 nov. 2024, con effetto dal 1° gen. 2026 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 [^1-5]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-6]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-7]: Abrogata dalla cifra I dell’O del DEFR del 6 nov. 2024, con effetto dal 1° gen. 2026 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 #### Art. 2
 
@@ -85,13 +87,14 @@ Per lavori di gestione di superfici in zone declive e in forte pendenza di cui a
 
 #### Art. 3
 
-**Lavori legati a progetti per il mantenimento, la promozione e lo sviluppo di paesaggi rurali variati**
+**Progetti per la biodiversità regionale e la qualità del paesaggio**[^3-1]
 
 ### (art. 6 cpv. 1 lett. a n. 5 OSCi)
 
-Il numero di giorni di servizio a cui gli istituti d’impiego hanno diritto per lavori legati a progetti per il mantenimento, la promozione e lo sviluppo di paesaggi rurali variati di cui all’articolo 63 OPD[^3-1] si calcola dividendo per 1200 il contributo annuale per la qualità del paesaggio e moltiplicando il risultato per 7.
+Il numero di giorni di servizio a cui gli istituti d’impiego hanno diritto per l’esecuzione di progetti per la biodiversità regionale e la qualità del paesaggio secondo l’articolo 78 OPD[^3-2] si calcola dividendo per 2000 il contributo per la biodiversità regionale e la qualità del paesaggio e moltiplicando il risultato per 7.
 
-[^3-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2026 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^3-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 4
 
@@ -212,6 +215,19 @@ Per gli impieghi concordati prima del 1° luglio 2016, per le prestazioni in den
 
 [^14-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019.
 [^14-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+
+#### Art. 14a
+
+**Disposizioni transitorie della modifica del 6 novembre 2024**[^14a-1]
+
+<sup>1</sup> Negli anni 2026 e 2027 gli istituti d’impiego hanno ancora diritto a 7 giorni di servizio per ettaro di superfici per la promozione della biodiversità specifiche di una regione secondo l’articolo 1 capoverso 1 lettera m del diritto anteriore.
+
+<sup>2</sup> Per lavori di sistemazione e manutenzione di superfici per la promozione della biodiversità di cui all’articolo 55 OPD[^14a-2], per i quali vengono concessi contributi, negli anni 2026 e 2027 gli istituti d’impiego hanno ancora diritto a 0,21 giorni di servizio per albero per alberi indigeni isolati adatti al luogo e viali alberati, secondo il diritto anteriore.
+
+<sup>3</sup> Negli anni 2026 e 2027 il numero di giorni di servizio secondo l’articolo 3 del diritto anteriore si calcola ancora secondo l’articolo 63 OPD del diritto anteriore.
+
+[^14a-1]: Introdotto dalla cifra I dell’O del DEFR del 6 nov. 2024, in vigore dal 1° gen. 2026 ([RU 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^14a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 15
 

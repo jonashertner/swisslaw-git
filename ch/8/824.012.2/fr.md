@@ -4,11 +4,11 @@ title: Ordonnance du DEFR du 15 novembre 2017 sur le service civil de remplaceme
 short: OSCi-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-745-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-745-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20250101/fr"
 
 (OSCi-DEFR)
 
-du 15 novembre 2017 (État le 1<sup>er</sup> janvier 2025)
+du 15 novembre 2017 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR),
 
@@ -53,20 +53,22 @@ Les établissements d’affectation ont droit au nombre de jours de service suiv
 - j. 5 jours de service par hectare de bande culturale extensive;
 - k. 5 jours de service par hectare d’ourlet sur terres assolées;
 - l. 14 jours de service par hectare de surface viticole présentant une biodiversité naturelle;
-- m. 7 jours de service par hectare de surface de promotion de la biodiversité spécifique à la région;
-- n.[^1-4] 5 jours de service par hectare de bandes semées pour organismes utiles.
+- m.[^1-4] …
+- n.[^1-5] 5 jours de service par hectare de bandes semées pour organismes utiles.
 
 <sup>2</sup>
 
 Ils ont droit au même titre à 0,21 jour de service par arbre pour les arbres suivants:
 
 - a. les arbres fruitiers haute-tige;
-- b. les arbres isolés indigènes adaptés au site et les arbres des allées d’arbres.
+- b.[^1-6] …
 
 [^1-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 [^1-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
-[^1-4]: Nouvelle teneur selon le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-4]: Abrogée par le ch. I de l’O du DEFR du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-6]: Abrogée par le ch. I de l’O du DEFR du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 #### Art. 2
 
@@ -84,13 +86,14 @@ Les établissements d’affectation ont droit au nombre de jours de service suiv
 
 #### Art. 3
 
-**Projets de préservation, de promotion et de développement de paysages cultivés diversifiés**
+**Projets de promotion de la biodiversité régionale et de la qualité du paysage**[^3-1]
 
 ### (art. 6, al. 1, let. a, ch. 5, OSCi)
 
-Le nombre de jours de service auquel un établissement d’affectation a droit pour l’exécution de projets de préservation, de promotion et de développement de paysages cultivés diversifiés au sens de l’art. 63 OPD[^3-1] se calcule comme suit: contribution annuelle à la qualité du paysage divisée par 1200, puis multipliée par 7.
+Le nombre de jours de service auquel un établissement d’affectation a droit pour l’exécution de projets de promotion de la biodiversité régionale et de la qualité du paysage au sens de l’art. 78 OPD[^3-2] se calcule comme suit: contribution à la biodiversité régionale et à la qualité du paysage divisée par 2000, puis multipliée par 7.
 
-[^3-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^3-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 4
 
@@ -211,6 +214,19 @@ Lorsque la convention d’affectation a été signée avant le 1<sup>er</sup> ju
 
 [^14-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 [^14-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+
+#### Art. 14a
+
+**Dispositions transitoires relatives à la modification du 6 novembre 2024**[^14a-1]
+
+<sup>1</sup> Les établissements d’affectation ont encore droit en 2026 et 2027 aux 7 jours de service par hectare de surface de promotion de la biodiversité spécifique à la région prévus à l’art. 1, al. 1, let. m, de l’ancien droit.
+
+<sup>2</sup> En vue de l’aménagement et de l’entretien des surfaces de promotion de la biodiversité visées à l’art. 55 OPD[^14a-2], pour lesquelles des contributions sont accordées, les établissements d’affectation ont encore droit en 2026 et 2027 à 0,21 jour de service par arbre pour les arbres isolés indigènes adaptés au site et les allées d’arbres, conformément à l’ancien droit.
+
+<sup>3</sup> Les jours de service visés à l’art. 3 de l’ancien droit sont encore calculés en 2026 et 2027 conformément à l’art. 63 OPD de l’ancien droit.
+
+[^14a-1]: Introduit par le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^14a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 15
 

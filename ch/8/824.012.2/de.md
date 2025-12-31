@@ -4,11 +4,11 @@ title: Verordnung des WBF vom 15. November 2017 über den zivilen Ersatzdienst (
 short: ZDV-WBF
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-745-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-745-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20250101/de"
 
 (ZDV-WBF)
 
-vom 15. November 2017 (Stand am 1. Januar 2025)
+vom 15. November 2017 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -53,21 +53,23 @@ Zur Anlage und Pflege von Biodiversitätsförderflächen nach den Artikeln 55 un
 - j. 5 Diensttage pro Hektare Ackerschonstreifen;
 - k. 5 Diensttage pro Hektare Saum auf Ackerfläche;
 - l. 14 Dienstage pro Hektare Rebflächen mit natürlicher Artenvielfalt;
-- m. 7 Diensttage pro Hektare regionsspezifische Biodiversitätsförderflächen;
-- n.[^1-4] 5 Diensttage pro Hektare Nützlingsstreifen.
+- m.[^1-4] …
+- n.[^1-5] 5 Diensttage pro Hektare Nützlingsstreifen.
 
 <sup>2</sup>
 
-Zur Anlage und zur Pflege von Biodiversitätsförderflächen nach Absatz 1, für die Beiträge gewährt werden, stehen den Einsatzbetrieben 0,21 Diensttage zu pro Baum für:[^1-5]
+Zur Anlage und zur Pflege von Biodiversitätsförderflächen nach Absatz 1, für die Beiträge gewährt werden, stehen den Einsatzbetrieben 0,21 Diensttage zu pro Baum für:[^1-6]
 
 - a. Hochstamm-Feldobstbäume;
-- b. einheimische standortgerechte Einzelbäume und Bäume in Alleen.
+- b.[^1-7] …
 
 [^1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-2]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 [^1-3]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
-[^1-4]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-4]: Aufgehoben durch Ziff. I der V des WBF vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2026 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 [^1-5]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-6]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^1-7]: Aufgehoben durch Ziff. I der V des WBF vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2026 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
 
 #### Art. 2
 
@@ -85,13 +87,14 @@ Zur Bewirtschaftung von Flächen in Hang- und Steillagen nach den Artikeln 43 un
 
 #### Art. 3
 
-**Projektarbeiten zur Erhaltung, Förderung und Weiterentwicklung vielfältiger Kulturlandschaften**
+**Projekte für die regionale Biodiversität und Landschaftsqualität**[^3-1]
 
 ### (Art. 6 Abs. 1 Bst. a Ziff. 5 ZDV)
 
-Die den Einsatzbetrieben zustehende Anzahl Diensttage für Projektarbeiten zur Erhaltung, Förderung und Weiterentwicklung vielfältiger Kulturlandschaften nach Artikel 63 DZV[^3-1] errechnet sich, indem der jährliche Landschaftsqualitätsbeitrag durch 1200 geteilt und das Resultat anschliessend mit 7 multipliziert wird.
+Die den Einsatzbetrieben zustehende Anzahl Diensttage für die Durchführung von Projekten für die regionale Biodiversität und Landschaftsqualität nach Artikel 78 DZV[^3-2] errechnet sich, indem der Beitrag für die regionale Biodiversität und Landschaftsqualität durch 2000 geteilt und das Resultat anschliessend mit 7 multipliziert wird.
 
-[^3-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^3-1]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2026 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^3-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 4
 
@@ -212,6 +215,19 @@ Für Einsätze, die vor dem 1. Juli 2016 vereinbart wurden, gelten bezüglich de
 
 [^14-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^14-2]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+
+#### Art. 14a
+
+**Übergangsbestimmungen zur Änderung vom 6. November 2024**[^14a-1]
+
+<sup>1</sup> Den Einsatzbetrieben stehen in den Jahren 2026 und 2027 noch 7 Diensttage pro Hektare regionsspezifische Biodiversitätsförderflächen nach Artikel 1 Absatz 1 Buchstabe m des bisherigen Rechts zu.
+
+<sup>2</sup> Zur Anlage und zur Pflege von Biodiversitätsförderflächen nach Artikel 55 DZV[^14a-2], für die Beiträge gewährt werden, stehen den Einsatzbetrieben in den Jahren 2026 und 2027 noch 0,21 Diensttage pro Baum für einheimische standortgerechte Einzelbäume und Bäume in Alleen des bisherigen Rechts zu.
+
+<sup>3</sup> Die Diensttage nach Artikel 3 des bisherigen Rechts werden in den Jahren 2026 und 2027 noch nach Artikel 63 DZV des bisherigen Rechts berechnet.
+
+[^14a-1]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2026 ([AS 2024 635](https://fedlex.data.admin.ch/eli/oc/2024/635)).
+[^14a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 15
 
