@@ -4,13 +4,12 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-19
+version: 2026-01-01
+version_adopted: 2025-09-23
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3699/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3823/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3699/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.01.2025)
+vom 13.12.2011 (Stand 01.01.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -80,7 +79,7 @@ als Verordnung:[^ingress-2]
 
 **b) Zuständigkeit**
 
-<sup>1</sup> Soweit dieser Erlass die zuständige Stelle nicht ausdrücklich bezeichnet, richtet sich die Zuständigkeit, als Arbeitgeberin oder Arbeitgeber das Arbeitsverhältnis zu gestalten, nach Art. 9 in Verbindung mit Art. 11 und 12 des Personalgesetzes.[^4-1]
+<sup>1</sup> Soweit dieser Erlass die zuständige Stelle nicht ausdrücklich bezeichnet, richtet sich die Zuständigkeit, als Arbeitgeberin oder Arbeitgeber das Arbeitsverhältnis zu gestalten, nach Art. 9 in Verbindung mit Art. 11, [12<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/143.1/de/art12bis) und [12<sup>ter</sup>](https://www.gesetzessammlung.sg.ch/data/143.1/de/art12ter) des Personalgesetzes[^4-1].
 
 [^4-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
@@ -844,9 +843,44 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Massgebend für die Bemessung des Lohns sind die Referenzfunktionen und die ihnen zugeordneten Lohnbänder nach Anhang 1 dieses Erlasses. Die Regierung erlässt durch Weisung weitere Einzelheiten zu den Referenzfunktionen.
 
-<sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber ordnet jede Stelle einer Referenzfunktion zu.
+<sup>2</sup> Die Referenzfunktionskommission ordnet die Stellen in den Departementen und der Staatskanzlei sowie in den anderen Justizbehörden einer Referenzfunktion zu.
 
-<sup>3</sup> Bei Departementen, Staatskanzlei und Gerichten bedarf die Zuordnung der Zustimmung des Personalamtes. Besteht kein Einvernehmen mit der Arbeitgeberin oder dem Arbeitgeber, entscheidet die Regierung.
+<sup>2<sup>bis</sup></sup> Die weiteren Arbeitgeberinnen und Arbeitgeber nach [Art. 9](https://www.gesetzessammlung.sg.ch/data/143.1/de/art9) des Personalgesetzes[^73b-1] ordnen ihre Stellen selbst einer Referenzfunktion zu. Vorbehalten bleibt die Zuständigkeit der Referenzfunktionskommission als beratendes Gremium nach [Art. 38a](https://www.gesetzessammlung.sg.ch/data/143.1/de/art38a) Abs. 1 Bst. b des Personalgesetzes[^73b-2].
+
+<sup>3</sup> …
+
+[^73b-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^73b-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+
+#### Art. 73bbis
+
+**Referenzfunktionskommission a) Zusammensetzung und Arbeitsweise**
+
+<sup>1</sup> Die Referenzfunktionskommission hat fünf stimmberechtigte Mitglieder.
+
+<sup>2</sup> Die Regierung wählt die Mitglieder der Referenzfunktionskommission für eine Amtsdauer von zwei Jahren. Sie achtet auf eine gleichmässige Vertretung der Departemente und der Staatskanzlei über einen längeren Zeitraum.
+
+<sup>3</sup> Das Personalamt führt den Vorsitz und die Geschäfte der Referenzfunktionskommission. Es hat kein Stimmrecht.
+
+<sup>4</sup> Die Referenzfunktionskommission erlässt ein Organisationsreglement. Es bedarf der Genehmigung durch die Regierung.
+
+#### Art. 73bter
+
+**b) Aufgaben**
+
+<sup>1</sup> Die Referenzfunktionskommission:
+
+- a) stellt die Kohärenz und Konsistenz der Zuordnung von Stellen zu den Referenzfunktionen sowie die Anwendung der Weisung der Regierung nach [Art. 73b](https://www.gesetzessammlung.sg.ch/data/143.11/de/art73b) Abs. 1 Satz 2 dieses Erlasses sicher;
+- b) entscheidet über die Anträge der Departemente und der Staatskanzlei sowie der anderen Justizbehörden betreffend:
+  - 1\. die Zuordnung neuer Stellen zu den Referenzfunktionen;
+  - 2\. die Anpassung der Zuordnung bestehender Stellen zu den Referenzfunktionen;
+- c) nimmt beratend Stellung zu den Geschäften der Gerichte und der Parlamentsdienste betreffend:
+  - 1\. die Zuordnung neuer Stellen zu den Referenzfunktionen;
+  - 2\. die Anpassung der Zuordnung bestehender Stellen zu den Referenzfunktionen;
+- d) stellt den Austausch mit den selbständigen öffentlich-rechtlichen Anstalten betreffend das System der Referenzfunktionen sicher;
+- e) kann für einfache Fälle die Erledigung von Anträgen nach Bst. b und c dieser Bestimmung an das Personalamt delegieren;
+- f) nimmt Stellung zu geplanten Anpassungen und Weiterentwicklungen des Systems der Referenzfunktionen oder stösst solche selbst an;
+- g) informiert die Generalsekretäre-Konferenz regelmässig über ihre Geschäfte.
 
 #### Art. 73c
 
@@ -858,9 +892,11 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Die Regierung erlässt durch Weisung Richtlinien zur Anrechnung früherer Tätigkeiten bei der Festlegung des Anfangslohns.
 
+<sup>3<sup>bis</sup></sup> Das Personalamt stellt den Arbeitgeberinnen und Arbeitgebern Berechnungsgrundlagen, mit denen eine Bandbreite für die Festlegung des Anfangslohns ermittelt wird, zur Verfügung.
+
 <sup>4</sup> Die Arbeitgeberin oder der Arbeitgeber legt den Anfangslohn fest.
 
-<sup>5</sup> Bei Departementen, Staatskanzlei und Gerichten bedarf die Festlegung der Zustimmung des Personalamtes. Besteht kein Einvernehmen mit der Arbeitgeberin oder dem Arbeitgeber, entscheidet die Regierung.
+<sup>5</sup> Bei Departementen und Staatskanzlei sowie bei anderen Justizbehörden bedarf die Festlegung der Zustimmung des Personalamtes, wenn die Bandbreite nach Abs. 3<sup>bis</sup> dieser Bestimmung nicht eingehalten wird.
 
 #### Art. 73d
 
@@ -1789,7 +1825,10 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Sie können zur Mitarbeit in Projektorganisationen oder Arbeitsgruppen eingeladen werden.
 
+<sup>3</sup> Über die Entwicklungen im Lohnsystem nach [Art. 6](https://www.gesetzessammlung.sg.ch/data/143.1/de/art6) Abs. 2 Bst. b<sup>bis</sup> des Personalgesetzes[^137-2] werden die Personalverbände regelmässig informiert.
+
 [^137-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^137-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 138
 
@@ -1827,16 +1866,20 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Abs. 2 dieser Bestimmung wird sachgemäss auch auf die Zusammenarbeit mit weiteren Arbeitgeberinnen und Arbeitgebern angewendet, für die das Personalamt Lohnverwaltung und Lohnauszahlung besorgt.
 
+<sup>4</sup> Nehmen Arbeitgeberinnen und Arbeitgeber nach Abs. 2 und 3 dieser Bestimmung Dienstleistungen des Personalamtes in Anspruch, gelten für sie dieselben Abläufe und Standards wie für Regierung, Departemente und Staatskanzlei sowie Gerichte und andere Justizbehörden.
+
 #### Art. 142
 
 **Aufgaben a) Personalpolitik**
 
 <sup>1</sup> Das Personalamt:
 
-- a) berät die Regierung bei der Weiterentwicklung der Personalpolitik;
+- a) entwickelt und betreibt Instrumente zur Umsetzung der Personalpolitik;
 - b) unterstützt Departemente und Staatskanzlei sowie Gerichte und andere Justizbehörden bei der Umsetzung der Personalpolitik;
-- c) erarbeitet Grundlagen für ein einheitliches, dezentrales Personalcontrolling und stellt Instrumente bereit;
+- c) erarbeitet Grundlagen für ein zentrales Personalcontrolling und stellt Instrumente bereit;
 - d) wertet periodisch Kennzahlen zuhanden der Generalsekretäre-Konferenz und der Regierung aus, erstattet Bericht und schlägt Massnahmen vor.
+
+<sup>2</sup> Das Personalamt bezieht die HR-Management-Konferenz angemessen in die Erfüllung dieser Aufgaben ein.
 
 #### Art. 143
 
@@ -1845,9 +1888,12 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Das Personalamt:
 
 - a) unterstützt Departemente und Staatskanzlei sowie Gerichte und andere Justizbehörden in der Führungstätigkeit sowie der Personal- und Organisationsentwicklung;
+- a<sup>bis</sup>) führt den Vorsitz und die Geschäfte der Referenzfunktionskommission;
 - b) steuert die zentrale Fort- und Weiterbildung;
-- c) stellt Konzepte, Instrumente und Angebote für die Personal- und Organisationsentwicklung bereit;
-- d) koordiniert die verwaltungsinterne Berufsausbildung.
+- c) stellt unter Einbezug der HR-Management-Konferenz Konzepte, Instrumente und Angebote für die Führungsunterstützung und die Personal- und Organisationsentwicklung bereit;
+- c<sup>bis</sup>) begleitet das Verfahren der Anstellung von Mitarbeiterinnen und Mitarbeitern, deren Arbeitsverhältnis von der Regierung begründet wird;
+- d) steuert und koordiniert die verwaltungsinterne Berufsausbildung und fördert vergleichbare Ausbildungs- und Einstiegsprogramme zur Sicherung des Personalbedarfs;
+- e) führt das innerbetriebliche Case Management nach [Art. 21](https://www.gesetzessammlung.sg.ch/data/143.11/de/art21) dieses Erlasses für Departemente und Staatskanzlei sowie Gerichte und andere Justizbehörden.
 
 #### Art. 144
 
@@ -1868,34 +1914,47 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Es erlässt Richtlinien und stellt Musterdokumente zur Verfügung.
 
+<sup>4</sup> Es kann über das Finanzdepartement bei der Regierung den Erlass von verbindlichen Weisungen zum Vollzug des Personalrechts beantragen.
+
 #### Art. 146
 
 **e) Personaladministration**
 
-<sup>1</sup> Das Personalamt:
+<sup>1</sup> Das Personalamt sorgt nach Anhörung der HR-Management-Konferenz für die Umsetzung der Personaladministration und legt die hierfür notwendigen Abläufe und Standards fest. Insbesondere:
 
-- a) führt die öffentliche Stellenausschreibung durch;
-- b) begleitet das Verfahren der Anstellung von Mitarbeiterinnen und Mitarbeitern, deren Arbeitsverhältnis von der Regierung begründet wird;
-- c) nimmt Stellung zu einer in Aussicht genommenen Funktions- oder Marktzulage. Es erstattet bei Nichteinverständnis in sachgemässer Anwendung von Art. 145 Abs. 2 dieses Erlasses Meldung und informiert die Vorsteherin oder den Vorsteher des Finanzdepartementes;
-- c<sup>bis</sup>) stimmt der Festlegung des Anfangslohns bei Eintritt in die Staatsverwaltung oder bei Übernahme einer anderen Stelle sowie der Zuordnung der Stellen zu den Referenzfunktionen zu;
-- d) besorgt in Zusammenarbeit mit Staatskanzlei, Departementen und Gerichten Lohnverwaltung und Lohnauszahlung;
-- e) vollzieht das Sozialversicherungsrecht und koordiniert Leistungen und Lohn;
-- f) betreibt die zentralen Informatiksysteme für das Personalwesen und sorgt für deren Weiterentwicklung;
-- g) führt das innerbetriebliche Case Management für Departemente und Staatskanzlei sowie Gerichte und andere Justizbehörden nach Art. 21 dieses Erlasses.
+- a) …
+- b) …
+- c) nimmt es Stellung zu einer in Aussicht genommenen Funktions- oder Marktzulage. Es erstattet bei Nichteinverständnis in sachgemässer Anwendung von Art. 145 Abs. 2 dieses Erlasses Meldung und informiert die Vorsteherin oder den Vorsteher des Finanzdepartementes;
+- c<sup>bis</sup>) …
+- d) besorgt es Lohnverwaltung und Lohnauszahlung;
+- e) vollzieht es das Sozialversicherungsrecht und koordiniert Leistungen und Lohn;
+- f) betreibt es die zentralen Informatiksysteme für das Personalwesen und sorgt für deren Weiterentwicklung;
+- g) …
 
 #### Art. 147
 
 **Antragsrecht**
 
-<sup>1</sup> Das Personalamt kann bei Meinungsverschiedenheiten der Regierung Bericht erstatten und Anträge stellen.
+<sup>1</sup> Bei Meinungsverschiedenheiten kann das Personalamt über das Finanzdepartement der Regierung Bericht erstatten und Anträge stellen.
+
+#### Art. 147a
+
+**HR-Managements**
+
+<sup>1</sup> Die Departemente, die Staatskanzlei und die Gerichte bezeichnen je eine für Personalangelegenheiten zuständige Stelle (HR-Management).
+
+<sup>2</sup> Die HR-Managements sind für die dezentrale HR-Beratung in den Departementen, der Staatskanzlei und den Gerichten zuständig. Insbesondere obliegt ihnen die Führungsunterstützung und die HR-Prozessführung.
 
 #### Art. 148
 
-**Personaldienstleiterkonferenz**
+**HR-Management-Konferenz**
 
-<sup>1</sup> Die von den Departementen und der Staatskanzlei sowie den Gerichten bezeichneten Leiterinnen und Leiter der für Personalangelegenheiten zuständigen Dienststellen bilden die Personaldienstleiterkonferenz.
+<sup>1</sup> Die Leiterinnen und Leiter der HR-Managements bilden die HR-Management-Konferenz.
 
-<sup>2</sup> Die Personaldienstleiterkonferenz behandelt unter Leitung und zuhanden des Personalamtes allgemeine Personalangelegenheiten.
+<sup>2</sup> Die HR-Management-Konferenz:
+
+- a) wirkt unter Leitung und zuhanden des Personalamtes bei der Entwicklung und Bereitstellung von Instrumenten der Personalpolitik und der Führungsunterstützung mit;
+- b) koordiniert die Aktivitäten der HR-Managements und sorgt dabei für eine einheitliche Umsetzung.
 
 ## VIII. Schlichtungsverfahren im Rahmen der Streiterledigung
 
