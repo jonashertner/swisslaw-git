@@ -4,11 +4,11 @@ title: Ordinaziun dals 28 da zercladur 2000 davart la planisaziun dal territori 
 short: OPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: rm
-version: 2022-07-01
+version: 2026-01-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2000-310-20220701-rm-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20220701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OPT)
 
-dals 28 da zercladur 2000 (versiun dal 1. da fanadur 2022)
+dals 28 da zercladur 2000 (versiun dal 1. da schaner 2026)
 
 Il Cussegl federal svizzer,
 
@@ -314,6 +314,18 @@ Per pudair identifitgar a temp eventuals conflicts en il rom da la planisaziun e
 
 [^19-1]: Versiun tenor la cifra II 1 da l’O dals 24 da zer. 2009, en vigur dapi il 1. da sett. 2009 ([AS 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
 
+#### Art. 19a
+
+**Integraziun da l’Assamblea federala**[^19a-1]
+
+<sup>1</sup> Sch’ina procedura d’audiziun tenor l’artitgel 19 vegn introducida en il rom d’in sboz da la part dal concept u dal program d’in plan sectorial, trametta il Cussegl federal il medem mument quest sboz a l’Assamblea federala, cun la dumonda, sch’il sboz duai vegnir suttamess ad ella per la consultaziun.
+
+<sup>2</sup> Sche la cumissiun cumpetenta pretenda ina tala consultaziun, trametta il Cussegl federal ad ella il rapport davart il resultat da la procedura d’audiziun. Il medem mument envida il Cussegl federal la cumissiun d’al trametter sia posiziun entaifer 3 mais.
+
+<sup>3</sup> En sia decisiun davart la part dal concept u dal program dal plan sectorial resguarda il Cussegl federal la posiziun da la cumissiun. Sch’el divergescha da sias propostas, communitgescha el quai a la cumissiun e motivescha las divergenzas.
+
+[^19a-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
 #### Art. 20
 
 **Rectificaziun**
@@ -482,24 +494,41 @@ Surfatschas cun culturas alternantas dastgan vegnir enzonadas mo, sche:
 
 [^32-1]: Versiun tenor la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
-### 3. secziun Implants solars
+### 3. secziun Stabiliments da producziun d’energia e stabiliments d’infrastructura
 
-[^chap5-sec3-1]
+[^chap5-sec3-1][^chap5-sec3-2]
 
-[^chap5-sec3-1]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^chap5-sec3-1]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da fan. 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^chap5-sec3-2]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32<sup>bis</sup>
+
+**Cumbinaziun da stabiliments d’infrastructura**[^32bis-1]
+
+### (art. 24<sup>bis</sup> al. 1 LPT)
+
+<sup>1</sup> Sche quai è pussaivel e cunvegnent, ston stabiliments d’infrastructura vegnir cumbinads u reunids e vegnir previs en lieus uschè pauc sensibels sco pussaivel. Il terren cultivabel sto vegnir schanegià.
+
+<sup>2</sup> Sch’in terren duai vegnir duvrà per stabiliments d’infrastructura, stoi vegnir examinà, cun tge autras utilisaziuns che quest diever pudess vegnir collià.
+
+[^32bis-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32a
 
-**Implants solars che na dovran nagina permissiun**
+**Implants solars che vegnan installads sin tetgs e che na dovran nagina permissiun**
+
+### (art. 18*a* LPT)
+
+[^32a-1]
 
 <sup>1</sup>
 
-Implants solars sin in tetg valan sco adattads suffizientamain (art. 18*a* al. 1 LPT), sch’els:[^32a-1]
+Implants solars sin in tetg valan sco adattads suffizientamain (art. 18*a* al. 1 LPT), sch’els:[^32a-2]
 
 - a. surpassan en moda rectangulara la surfatscha dal tetg per maximalmain 20 cm;
-- b.[^32a-2] na surpassan – guardà da surengiu – betg la surfatscha dal tetg;
+- b.[^32a-3] na surpassan – guardà da surengiu – betg la surfatscha dal tetg;
 - c. han – tenor il stadi da la tecnica – in pitschen grad da reflexiun; e
-- d.[^32a-3] èn posiziunads cumpactamain; largias per motivs tecnics u in posiziunament spustà pervia da la surfatscha disponibla èn admissibels.
+- d.[^32a-4] èn posiziunads cumpactamain; largias per motivs tecnics u in posiziunament spustà pervia da la surfatscha disponibla èn admissibels.
 
 <sup>1bis</sup>
 
@@ -507,16 +536,50 @@ Implants solars sin tetgs plats valan er lura sco adattads suffizientamain, sch�
 
 - a. els surpassan l’ur sura da la finiziun dal tetg per maximalmain 1 meter;
 - b. els èn spustadas enavos uschè fitg da l’ur dal tetg, ch’els n’èn betg visibels, sch’ins guarda en in angul da 45 grads da sutensi; e
-- c. els han – tenor il stadi da la tecnica – in pitschen grad da reflexiun.[^32a-4]
+- c. els han – tenor il stadi da la tecnica – in pitschen grad da reflexiun.[^32a-5]
 
 <sup>2</sup> Prescripziuns da furmaziun concretas dal dretg chantunal èn applitgablas, sch’ellas èn raschunaivlas per mantegnair interess da protecziun giustifitgads e sch’ellas na restrenschan betg l’utilisaziun da l’energia solara pli fitg che l’alinea 1.
 
 <sup>3</sup> Projects che na dovran nagina permissiun ston vegnir annunziads avant il cumenzament da las lavurs da construcziun a l’autoritad che conceda las permissiuns da construcziun u ad in’autra autoritad cumpetenta tenor il dretg chantunal. Il dretg chantunal fixescha il termin sco er ils plans ed ils documents ch’èn d’agiuntar a l’annunzia.
 
-[^32a-1]: Versiun tenor la cifra I da l’O dals 3 da zer. 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-1]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 [^32a-2]: Versiun tenor la cifra I da l’O dals 3 da zer. 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 [^32a-3]: Versiun tenor la cifra I da l’O dals 3 da zer. 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32a-4]: Integrà tras la cifra I da l’O dals 3 da zer. 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-4]: Versiun tenor la cifra I da l’O dals 3 da zer. 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-5]: Integrà tras la cifra I da l’O dals 3 da zer. 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+
+#### Art. 32a<sup>bis</sup>
+
+**Implants solars che vegnan installads vi da fatschadas e che na dovran nagina permissiun**[^32abis-1]
+
+### (art. 18*a* LPT)
+
+<sup>1</sup>
+
+Implants solars vi d’ina fatschada valan sco adattads suffizientamain, sch’els adempleschan almain ina da las suandantas premissas:
+
+- a. els èn ordinads en furma d’ina surfatscha rectangulara cumpacta coerenta u da pliras surfatschas rectangularas che sa repetan da maniera regulara;
+- b. els remplazzan en moda unitara elements da fatschada u elements da construcziun ch’eran concepids fin ussa en moda unitara;
+- c. els cuvran dal tuttafatg las surfatschas da la culmaina da tetgs pendents;
+- d. els han ina coluraziun ch’è quasi identica cun la coluraziun da las surfatschas da la fatschada cunfinantas, che n’èn betg cuvridas cun moduls solars;
+- e. els èn situads en ina zona da lavur;
+- f. els èn suttamess al champ d’applicaziun da prescripziuns da furmaziun chantunalas u communalas per implants solars vi da fatschadas che pertutgan zonas da construcziun e che valan per il territori respectiv, ed els correspundan a questas prescripziuns;
+- g. els adempleschan ina premissa respectiva ch’è previsa en il dretg chantunal per implants solars vi da fatschadas entaifer las zonas da construcziun.
+
+<sup>2</sup>
+
+Uschenavant ch’il dretg chantunal na prevesa nagut auter, ston els ultra da quai ademplir las suandantas premissas:
+
+- a. els na cuvran betg elements da structuraziun u da decoraziun existents;
+- b. guardà da davant na surpassan els betg ils urs da la fatschada;
+- c. els èn montads en ina distanza da maximalmain 20 cm da la fatschada, e quai parallelamain cun la fatschada;
+- d. els han ina coluraziun e materialisaziun unitara e – tenor il stadi da la tecnica – in pitschen grad da reflexiun.
+
+<sup>3</sup> Eventualas ulteriuras pretensiuns da prescripziuns da furmaziun chantunalas u communalas pertutgant l’adattaziun, che valan per il territori respectiv, ston vegnir observadas, nun che quai restrenschia sproporziunadamain l’utilisaziun da l’energia solara.
+
+<sup>4</sup> La procedura d’annunzia sa drizza analogamain tenor l’artitgel 32*a* alinea 3.
+
+[^32abis-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32b
 
@@ -538,23 +601,111 @@ Sco monuments culturals d’impurtanza chantunala e naziunala (art. 18*a* al. 3 
 
 #### Art. 32c
 
-**Implants solars liads al lieu ordaifer las zonas da construcziun**[^32c-1]
+**Implants solars betg plazzads libramain ordaifer las zonas da construcziun**[^32c-1]
 
-<sup>1</sup>
+### (art. 24 LPT)
 
-Implants solars colliads cun la rait electrica pon esser liads al lieu ordaifer las zonas da construcziun en spezial, sch’els:
+[^32c-2]
 
-- a. furman opticamain in’unitad cun edifizis u cun stabiliments che vegnan previsiblamain ad exister legalmain a pli lunga vista;
-- b. vegnan plazzads sco implants flottants sin in lai d’accumulaziun u sin autras surfatschas d’aua artifizialas; u
-- c. portan avantatgs per la producziun agricula en territoris pauc sensibels u servan ad intents d’emprova e da perscrutaziun en quest reguard.
+<sup>1</sup> Implants solars betg plazzads libramain, ch’èn situads ordaifer las zonas da construcziun e ch’èn colliads cun la rait electrica, pon vegnir permess sco liads al lieu en spezial, sch’els furman opticamain in’unitad cun edifizis u stabiliments legals che vegnan previsiblamain ad exister a pli lunga vista.[^32c-3]
 
-<sup>2</sup> Sche l’implant è suttamess ad in’obligaziun da planisaziun, dovra il project ina basa correspundenta.
+<sup>2</sup> Sche l’implant solar è suttamess ad in’obligaziun da planisaziun, dovra il project ina basa correspundenta.[^32c-4]
 
 <sup>3</sup> En mintga cas ston ils interess vegnir considerads en moda cumplessiva.
 
 <sup>4</sup> Sche las premissas per la permissiun n’èn betg pli ademplidas, ston ils implants e las parts dals implants correspundents vegnir demontads.
 
 [^32c-1]: Integrà tras la cifra I da l’O dals 3 da zer. 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32c-2]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32c-3]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32c-4]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32d
+
+**Implants solars libers ordaifer las zonas da construcziun, che n’èn betg d’interess naziunal**[^32d-1]
+
+### (art. 24<sup>ter</sup> LPT)
+
+<sup>1</sup> La dependenza dal lieu d’implants solars libers ordaifer las zonas da construcziun, che n’èn betg d’interess naziunal, sa drizza tenor l’artitgel 24<sup>ter</sup> LPT.
+
+<sup>2</sup> Sche l’implant solar è suttamess ad in’obligaziun da planisaziun, dovra il project ina basa correspundenta.
+
+<sup>3</sup> En mintga cas ston ils interess vegnir considerads en moda cumplessiva.
+
+<sup>4</sup> Il dretg chantunal regla las cumpetenzas e las proceduras per l’execuziun d’uffizi areguard l’obligaziun da demontascha tenor l’artitgel 24<sup>ter</sup> alinea 3 LPT.
+
+[^32d-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32e
+
+**Stabiliments per l’utilisaziun d’energia or da biomassa**[^32e-1]
+
+### (art. 24<sup>quater</sup> LPT)
+
+<sup>1</sup>
+
+Stabiliments per l’utilisaziun d’energia or da biomassa fermentabla, ch’èn situads ordaifer las zonas da construcziun, pon vegnir permess sco liads al lieu en spezial, sche:
+
+- a. els èn situads en territoris pauc sensibels u cunfineschan cun stabiliments d’infrastructura ch’existan legalmain, sco sereneras u staziuns da transfurmaziun electrica;
+- b. els èn situads en la vischinanza d’in conduct, en il qual il gas extratg po vegnir inducì, u igl exista ina pussaivladad d’inducir l’electricitad producida ed ina pussaivladad da duvrar la chalur resultanta en moda effizienta; e
+- c. igl exista gia in’avertura stradala suffizienta.
+
+<sup>2</sup>
+
+Il deposit temporar da material da partenza u da products finals ordaifer las zonas da construcziun po vegnir permess sco lià al lieu, sch’i vegn cumprovà che:
+
+- a. igl exista in basegn per quest deposit temporar; e
+- b. il lieu respectiv ordaifer las zonas da construcziun ha cleramain dapli avantatgs ch’in lieu entaifer las zonas da construcziun u las zonas spezialas.
+
+<sup>3</sup> Sche l’implant è suttamess ad in’obligaziun da planisaziun, dovra il project ina basa correspundenta. Betg suttamess ad in’obligaziun da planisaziun n’èn implants ch’elavuran ina quantitad da substrat da biomassa fermentabla da maximalmain 45 000 tonnas per onn.
+
+<sup>4</sup> En mintga cas ston ils interess vegnir considerads en moda cumplessiva.
+
+[^32e-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32f
+
+**Stabiliments per transfurmar energias regenerablas en idrogen, en metan u en auters idrocarbons sintetics**[^32f-1]
+
+### (art. 24<sup>quater</sup> LPT)
+
+<sup>1</sup>
+
+Stabiliments per transfurmar energias regenerablas en idrogen, en metan u en auters idrocarbons sintetics, ch’èn situads ordaifer las zonas da construcziun, pon vegnir permess sco liads al lieu en spezial, sche:
+
+- a. els èn situads en territoris pauc sensibels u gia engrevgiads;
+- b. els cunfineschan cun stabiliments che produceschan electricitad or d’energias regenerablas; e
+- c. els disponan dals access per transportar davent l’idrogen ed ils purtaders d’energia producids sinteticamain.
+
+<sup>2</sup> Per tals stabiliments vala in’obligaziun da planisaziun, sch’els dovran passa 5000 m<sup>2</sup> terren. In’obligaziun da planisaziun vala er, sch’in nov stabiliment che producescha electricitad or d’energias regenerablas ed il stabiliment da transfurmaziun ch’è collià cun tal tenor l’artitgel 24<sup>quater</sup> LPT, dovran ensemen dapli che 5000 m<sup>2</sup> terren.
+
+<sup>3</sup> En mintga cas ston ils interess vegnir considerads en moda cumplessiva.
+
+[^32f-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32g
+
+**Conducts da raits termicas**[^32g-1]
+
+### (art. 24<sup>quinquies</sup> LPT)
+
+<sup>1</sup> Conducts da raits termicas ordaifer las zonas da construcziun pon vegnir permess sco liads al lieu en spezial, sch’il trassé è uschè direct sco pussaivel e sche l’energia po vegnir utilisada qua tras en moda pli effizienta.
+
+<sup>2</sup> En mintga cas ston ils interess vegnir considerads en moda cumplessiva.
+
+[^32g-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32h
+
+**Indrizs da telefonia mobila**[^32h-1]
+
+### (art. 24<sup>bis</sup> al. 1 segunda frasa LPT)
+
+<sup>1</sup> Cumplementarmain als cas tenor l’artitgel 24<sup>bis</sup> alineas 2 e 3 LPT èn indrizs necessaris da telefonia mobila liads al lieu, sch’els vegnan integrads en ina pitga d’auta tensiun u installads en autra moda entaifer la siluetta d’in stabiliment d’infrastructura existent u nov. La permissiun sto vegnir fatga dependenta da l’existenza dal stabiliment, en il qual l’indriz da telefonia mobila vegn integrà.
+
+<sup>2</sup> En mintga cas ston ils interess vegnir considerads en moda cumplessiva.
+
+[^32h-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### 4. secziun Abitadis pitschens ordaifer la zona da construcziun
 
@@ -626,13 +777,14 @@ Admissibels èn plinavant edifizis e stabiliments che vegnan duvrads per produci
 
 <sup>2</sup> Passa la mesadad da la massa dals substrats elavurads sto derivar dal manaschi respectiv ubain da manaschis agriculs ch’èn per regla situads entaifer ina distanza da viadi da 15 km. Questa part sto importar almain 10 pertschient dal cuntegn energetic da tut ils substrats elavurads. Las funtaunas dals ulteriurs substrats ston per regla esser situadas entaifer ina distanza da viadi da 50 km. Excepziunalmain pon vegnir permessas distanzas da viadi pli lungas.
 
-<sup>3</sup> L’entir stabiliment sto esser subordinà al manaschi agricul e contribuir a l’utilisaziun effizienta da las energias regenerablas.
+<sup>3</sup> L’entir stabiliment sto esser part d’in manaschi agricul e contribuir a l’utilisaziun effizienta da las energias regenerablas.[^34a-4]
 
 <sup>4</sup> Las premissas da l’artitgel 34 alinea 4 ston esser ademplidas.
 
 [^34a-1]: Integrà tras la cifra I da l’O dals 4 da fan. 2007, en vigur dapi il 1. da sett. 2007 ([AS 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
 [^34a-2]: Abolì tras la cifra I da l’O dals 10 d’oct. 2012, cun effect dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^34a-3]: Integrà tras la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^34a-4]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 34b
 
@@ -715,6 +867,37 @@ Sco augment intern (art. 16*a* al. 2 LPT) vala la construcziun d’edifizis e da
 
 En il rom da sia planisaziun directiva u sin la via legislativa fixescha il chantun las pretensiuns che ston vegnir observadas per determinar zonas tenor l’artitgel 16*a* alinea 3 LPT; en quest reguard èn decisivas las finamiras ed ils princips tenor ils artitgels 1 e 3 LPT.
 
+### 5*a*. secziun Precedenza da l’agricultura en la zona d’agricultura
+
+[^chap5-sec5a-1]
+
+[^chap5-sec5a-1]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+### (art. 16 al. 5 LPT)
+
+#### Art. 38a
+
+<sup>1</sup> L’autoritad cumpetenta conceda facilitaziuns concernent la protecziun da l’ambient entaifer la zona d’agricultura, uschenavant ch’ils interess da l’agricultura predomineschan l’interess d’observar la distanza minimala per la protecziun cunter odurs u las disposiziuns davart la protecziun cunter canera.
+
+<sup>2</sup>
+
+Ils interess da l’agricultura predomineschan en spezial, sche:
+
+- a. l’utilisaziun per intents d’abitar pertutgada è resultada suenter l’utilisaziun agricula;
+- b. il spazi d’abitar pertutgà è vegnì permess sco spazi d’abitar per l’agricultura; u
+- c. il spazi d’abitar pertutgà fa part dal manaschi agricul che chaschuna las immissiuns.
+
+<sup>3</sup> Sche las persunas pertutgadas da las immissiuns d’odurs u da canera acceptan las facilitaziuns, valitescha l’autoritad cumpetenta – en il rom da la consideraziun dals interess – quai sco indizi, ch’ils interess da l’agricultura predomineschian.
+
+<sup>4</sup>
+
+En cas da plants pervia d’odurs e da canera, en cas che las disposiziuns d’odur u da canera na vegnan eventualmain betg observadas u en cas ch’i vegnan prendidas en mira facilitaziuns, stoi l’emprim vegnir examinà en spezial, sche:
+
+- a. las utilisaziuns che vegnan en conflict ina cun l’autra, existan legalmain; e
+- b. i n’èn avant maun nagins motivs da reveder la permissiun da l’utilisaziun betg agricula.
+
+<sup>5</sup> Ina permissiun da construcziun ch’è stada il motiv per in basegn da protecziun pli grond concernent il dretg da l’ambient scroda, sch’i resulta pli tard in conflict cun emissiuns d’odurs u da canera da l’agricultura.
+
 ### 6. secziun Excepziuns per edifizis e stabiliments ordaifer las zonas da construcziun
 
 [^chap5-sec6-1]
@@ -723,14 +906,9 @@ En il rom da sia planisaziun directiva u sin la via legislativa fixescha il chan
 
 #### Art. 39
 
-**Edifizis en territoris d’abitadis sparpagliads ed edifizis marcants per la cuntrada**
+**Edifizis marcants per la cuntrada[^39-1]**
 
-<sup>1</sup>
-
-En territoris cun abitadis tradiziunalmain sparpagliads, ch’èn fixads en il plan directiv chantunal ed en ils quals la colonisaziun permanenta duai vegnir rinforzada en vista al svilup dal territori giavischà, pon ils chantuns permetter sco liada al lieu (art. 24 lit. a LPT):
-
-- a. la midada da l’utilisaziun d’edifizis existents, che cuntegnan abitaziuns, a favur d’intents d’abitar betg agriculs, sche quests edifizis vegnan duvrads suenter la midada durant l’entir onn;
-- b. la midada da l’utilisaziun d’edifizis u da cumplexs d’edifizis existents, che cuntegnan abitaziuns, a favur da la pitschna mastergnanza locala (per exempel chascharias, manaschis ch’elavuran lain, lavuratoris mecanics, serrarias, butias da commerzi en detagl, ustarias); la part che vegn duvrada da la mastergnanza na dastga per regla betg esser pli gronda che la mesadad da l’edifizi u dal cumplex d’edifizis.
+<sup>1</sup> …[^39-2]
 
 <sup>2</sup>
 
@@ -741,15 +919,17 @@ Sco liada al lieu pon ils chantuns permetter la midada da l’utilisaziun d’ed
 - c. sch’il mantegniment duraivel dals edifizis po vegnir garantì mo tras ina midada d’utilisaziun; e
 - d. sch’il plan directiv chantunal cuntegna ils criteris per giuditgar la dignitad da protecziun da las cuntradas e dals edifizis.
 
-<sup>3</sup> Las permissiuns tenor quest artitgel dastgan mo vegnir dadas, sche l’aspect exteriur e la structura architectonica fundamentala na vegnan betg midads essenzialmain.[^39-1]
+<sup>3</sup> Permissiuns tenor quest artitgel dastgan mo vegnir concedidas, sche las caracteristicas essenzialas da l’aspect exteriur, da la structura architectonica fundamentala e dals conturns na vegnan betg midadas.[^39-3]
 
-<sup>4</sup> Las permissiuns tenor l’alinea 2 scadan, sche l’edifizi u – uschenavant che quai è en la responsabladad dal proprietari dal bain immobigliar – la cuntrada circumdanta ha pers la dignitad da protecziun.[^39-2]
+<sup>4</sup> Las permissiuns tenor l’alinea 2 scadan, sche l’edifizi u – uschenavant che quai è en la responsabladad dal proprietari dal bain immobigliar – la cuntrada circumdanta ha pers la dignitad da protecziun.[^39-4]
 
-<sup>5</sup> En cas da midadas illegalas da la cuntrada tenor l’alinea 2 procura in’autoritad chantunala ch’il restabiliment dal stadi legal vegnia disponì ed exequì.[^39-3]
+<sup>5</sup> En cas da midadas illegalas da la cuntrada tenor l’alinea 2 procura in’autoritad chantunala ch’il restabiliment dal stadi legal vegnia disponì ed exequì.[^39-5]
 
-[^39-1]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^39-2]: Integrà tras l’art. 7 da l’O dals 22 d’avust 2012 davart las abitaziuns secundaras ([AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Versiun tenor l’art. 12 cifra 1 da l’O dals 4 da dec. 2015 davart las abitaziuns secundaras, en vigur dapi il 1. da schan. 2016 ([AS 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
-[^39-3]: Integrà tras l’art. 7 da l’O dals 22 d’avust 2012 davart las abitaziuns secundaras ([AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Versiun tenor l’art. 12 cifra 1 da l’O dals 4 da dec. 2015 davart las abitaziuns secundaras, en vigur dapi il 1. da schan. 2016 ([AS 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
+[^39-1]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-2]: Abolì tras la cifra I da l’O dals 15 d’oct. 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-3]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-4]: Integrà tras l’art. 7 da l’O dals 22 d’avust 2012 davart las abitaziuns secundaras ([AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Versiun tenor l’art. 12 cifra 1 da l’O dals 4 da dec. 2015 davart las abitaziuns secundaras, en vigur dapi il 1. da schan. 2016 ([AS 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
+[^39-5]: Integrà tras l’art. 7 da l’O dals 22 d’avust 2012 davart las abitaziuns secundaras ([AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Versiun tenor l’art. 12 cifra 1 da l’O dals 4 da dec. 2015 davart las abitaziuns secundaras, en vigur dapi il 1. da schan. 2016 ([AS 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
 
 #### Art. 40
 
@@ -784,7 +964,7 @@ Sco manaschis accessorics che han ina stretga colliaziun materiala cun il manasc
 
 **Champ d’applicaziun da l’artitgel 24*c* LPT**[^41-1]
 
-<sup>1</sup> L’artitgel 24*c* LPT è applitgabel per edifizis e stabiliments ch’èn vegnids construids u midads legalmain, avant ch’il bain immobigliar respectiv è daventà part dal territori betg surbajegiabel en il senn dal dretg federal (edifizis e stabiliments construids tenor il dretg vegl).
+<sup>1</sup> L’artitgel 24*c* LPT è applitgabel per edifizis e stabiliments ch’èn vegnids construids u midads legalmain, avant ch’il bain immobigliar respectiv è daventà part dal territori betg surbajegiabel en il senn dal dretg federal (edifizis e stabiliments construids tenor il dretg anteriur).
 
 <sup>2</sup> El n’è betg applitgabel per edifizis e stabiliments agriculs isolads e nunabitads.
 
@@ -792,7 +972,7 @@ Sco manaschis accessorics che han ina stretga colliaziun materiala cun il manasc
 
 #### Art. 42
 
-**Transfurmaziun d’edifizis e da stabiliments construids tenor il dretg vegl[^42-1]**
+**Transfurmaziun d’edifizis e da stabiliments construids tenor il dretg anteriur[^42-1]**
 
 <sup>1</sup> Ina midada vala sco parziala ed in engrondiment sco moderà, sch’ils tratgs essenzials da l’identitad da l’edifizi u dal stabiliment inclusiv da ses conturns vegnan mantegnids. Meglieraziuns da gener concepziunal èn admessas.[^42-2]
 
@@ -802,68 +982,74 @@ Sco manaschis accessorics che han ina stretga colliaziun materiala cun il manasc
 
 La dumonda, sche l’identitad da l’edifizi u dal stabiliment vegn mantegnida essenzialmain, sto vegnir giuditgada en consideraziun da tut las circumstanzas. En mintga cas valan las suandantas reglas:
 
-- a. entaifer il volumen da l’edifizi existent na dastga la surfatscha d’auzada brutta betg vegnir engrondida per passa 60 pertschient; l’installaziun d’ina isolaziun exteriura vala sco engrondiment entaifer il volumen da l’edifizi existent;
+- a.[^42-4] entaifer il volumen da l’edifizi existent na dastga la surfatscha d’auzada brutta betg vegnir engrondida per passa 60 pertschient; questa valur dastga vegnir surpassada, sche quai è necessari per cuntanscher tut en tut ina surfatscha d’auzada brutta imputabla da 100 m<sup>2</sup> en edifizis cun in’emprima abitaziun tenor il dretg anteriur, premess che l’edifizi saja avert cumplainamain e ch’i saja garantì ch’il spazi d’abitar vegn duvrà sco emprima abitaziun;
 - b. sut las premissas da l’artitgel 24*c* alinea 4 LPT po in engrondiment vegnir realisà ordaifer il volumen da l’edifizi existent; en quest cas na dastga l’entir engrondiment surpassar ni 30 pertschient ni 100 m<sup>2</sup> tant areguard la surfatscha d’auzada brutta imputabla sco er areguard la surfatscha totala (summa da la surfatscha d’auzada brutta imputabla e da la surfatscha accessorica brutta); ils engrondiments entaifer il volumen da l’edifizi existent vegnan quintads mo per la mesadad;
-- c. las midadas architectonicas na dastgan betg pussibilitar ina midada essenziala da l’utilisaziun d’edifizis ch’eran abitads oriundamain mo temporarmain.[^42-4]
+- c. las midadas architectonicas na dastgan betg pussibilitar ina midada essenziala da l’utilisaziun d’edifizis ch’eran abitads oriundamain mo temporarmain.[^42-5]
 
-<sup>4</sup> In edifizi u in stabiliment dastga mo vegnir reconstruì, sch’el era anc utilisabel confurm a l’intent il mument da la destrucziun u da la demoliziun e sch’igl exista in interess nuninterrut vi da sia utilisaziun. Il volumen da l’edifizi dastga mo vegnir reconstruì, uschenavant ch’el po cumpigliar la surfatscha admissibla tenor l’alinea 3. L’alinea 3 litera a n’è betg applitgabel. Sche quai para d’esser inditgà per motivs objectivs, dastga il lieu da l’edifizi u dal stabiliment cumpensatoric divergiar minimalmain dal lieu da l’edifizi u dal stabiliment anteriur.[^42-5]
+<sup>4</sup> In edifizi u in stabiliment dastga mo vegnir reconstruì, sch’el era anc utilisabel confurm a l’intent il mument da la destrucziun u da la demoliziun e sch’igl exista in interess nuninterrut vi da sia utilisaziun. Il volumen da l’edifizi dastga vegnir reconstruì mo en quella dimensiun, ch’el po cumpigliar la surfatscha admissibla tenor l’alinea 3 litera b. Il lieu da l’edifizi u dal stabiliment cumpensatoric dastga divergiar minimalmain dal lieu da l’edifizi u dal stabiliment anteriur, sche motivs objectivs giustifitgeschan quai.[^42-6]
 
-<sup>5</sup> Implants solars tenor l’artitgel 18*a* alinea 1 LPT na vegnan betg en consideraziun per il giudicament tenor l’artitgel 24*c* alinea 4 LPT.[^42-6]
+<sup>5</sup> Implants solars tenor l’artitgel 18*a* alinea 1 LPT na vegnan betg en consideraziun per il giudicament tenor l’artitgel 24*c* LPT. Ina isolaziun exteriura ch’è necessaria per ina sanaziun energetica u in auzament dal tetg ch’è necessari per l’isolaziun, dastga vegnir permess ensemen cun in eventual implant solar, er sch’ils cunfins tenor l’alinea 3 litera a u b vegnan surpassads qua tras. Els sulets n’han betg per consequenza, che l’alinea 3 litera b stuess vegnir applitgà empè da l’alinea 3 litera a.[^42-7]
 
 [^42-1]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-2]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-3]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42-4]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42-5]: Versiun tenor la cifra I da l’O dals 4 da fan. 2007, en vigur dapi il 1. da sett. 2007 ([AS 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
-[^42-6]: Integrà tras la cifra I da l’O dals 3 da zer. 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^42-4]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-5]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42-6]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-7]: Integrà tras la cifra I da l’O dals 3 da zer. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 42a
 
 **Transfurmaziun d’edifizis d’abitar agriculs construids tenor il dretg nov (art. 24*d* al. 1 LPT)[^42a-2]**[^42a-1]
 
-<sup>1</sup> En il rom da l’artitgel 24*d* alineas 1 e 3 LPT pon vegnir permess engrondiments ch’èn indispensabels per in’utilisaziun per intents d’abitar confurm al temp.
+<sup>1</sup> En il rom da l’artitgel 24*d* alineas 1 e 3 LPT pon vegnir permess engrondiments ch’èn necessaris per in’utilisaziun per intents d’abitar tenor standards actuals u per ina sanaziun energetica.[^42a-3]
 
-<sup>2</sup> …[^42a-3]
+<sup>2</sup> …[^42a-4]
 
-<sup>3</sup> La reconstrucziun suenter ina destrucziun tras forza superiura po vegnir permessa.[^42a-4]
+<sup>3</sup> La reconstrucziun suenter ina destrucziun tras forza superiura po vegnir permessa.[^42a-5]
 
 [^42a-1]: Integrà tras la cifra I da l’O dals 21 da matg 2003, en vigur dapi il 1. da fan. 2003 ([AS 2003 1489](https://fedlex.data.admin.ch/eli/oc/2003/236)).
 [^42a-2]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42a-3]: Abolì tras la cifra I da l’O dals 10 d’oct. 2012, cun effect dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42a-4]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42a-3]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42a-4]: Abolì tras la cifra I da l’O dals 10 d’oct. 2012, cun effect dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42a-5]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 
 #### Art. 42b
 
 **Tegnair animals sco hobi (art. 24*e* LPT)[^42b-2]**[^42b-1]
 
-<sup>1</sup> Sche animals vegnan tegnids sco hobi, vala quai sco engrondiment da l’utilisaziun per intents d’abitar da l’edifizi d’abitar ch’è situà en la vischinanza.
+<sup>1</sup> Sche animals vegnan tegnids sco hobi, vala quai sco engrondiment da l’utilisaziun per intents d’abitar da l’edifizi d’abitar ch’è situà en la vischinanza. La tegnida d’animals sco hobi sto vegnir resguardada mo en ils cas da l’artitgel 42 alinea 3 litera b e mo sco surfatscha accessorica brutta.[^42b-3]
 
-<sup>2</sup> Quel sto vegnir mess a quint ad eventualas pussaivladads d’engrondir l’edifizi d’abitar tenor l’artitgel 42 alinea 3.[^42b-3]
+<sup>2</sup> …[^42b-4]
 
-<sup>3</sup> I dastgan vegnir tegnids mo tants animals, sco quai ch’ils abitants da l’edifizi d’abitar vischin pon tgirar sezs.[^42b-4]
+<sup>3</sup> I dastgan vegnir tegnids mo tants animals, sco quai ch’ils abitants da l’edifizi d’abitar vischin pon tgirar sezs.[^42b-5]
 
-<sup>4</sup> Sch’il dretg federal fixescha, areguard ina tegnida che tegna quint da la natira dals animals, pretensiuns pli severas che la legislaziun davart la protecziun dals animals, ston ils indrizs en ils edifizis ademplir questas pretensiuns. Exceptada da quai è la tegnida da chavals en gruppas tenor l’agiunta 6 litera A cifra 2.1 litera a da l’Ordinaziun dals 23 d’october 2013[^42b-5] davart ils pajaments directs.[^42b-6]
+<sup>4</sup> Sch’il dretg federal fixescha, areguard ina tegnida che tegna quint da la natira dals animals, pretensiuns pli severas che la legislaziun davart la protecziun dals animals, ston ils indrizs en ils edifizis ademplir questas pretensiuns. Exceptada da quai è la tegnida da chavals en gruppas tenor l’agiunta 6 litera A cifra 2.1 litera a da l’Ordinaziun dals 23 d’october 2013[^42b-6] davart ils pajaments directs.[^42b-7]
 
 <sup>5</sup>
 
 Sco stabiliments al liber valan stabiliments ch’èn necessaris per tegnair animals confurm a lur natira e che n’han betg in tetg e n’èn er betg circumdads da paraids, sco areals per tutta aura, ladimers u saivs. Exclus da quai èn en spezial:
 
 - a. stabiliments che servan exclusivamain a s’occupar dals animals sco hobi, sco plazzas da chavaltgar u d’exercizi;
-- b. sustas sin pastgiras.[^42b-7]
+- b. sustas sin pastgiras.[^42b-8]
 
-<sup>6</sup> L’areal per tutta aura dastga esser separà da la stalla mo per motivs stringents. Per la surfatscha admissibla vala l’artitgel 34*b* alinea 3 litera b.[^42b-8]
+<sup>6</sup> L’areal per tutta aura dastga esser separà da la stalla mo per motivs stringents. Per la surfatscha admissibla vala l’artitgel 34*b* alinea 3 litera b.[^42b-9]
 
-<sup>7</sup> Sche las premissas per ina permissiun tenor l’artitgel 24*e* LPT n’èn betg pli ademplidas, scada la permissiun. L’autoritad cumpetenta constatescha quai tras ina disposiziun.[^42b-9]
+<sup>6bis</sup> Stallas d’animals pitschens, ch’existivan legalmain e ch’èn vegnidas destruidas tras forza superiura, dastgan puspè vegnir reconstruidas.[^42b-10]
+
+<sup>7</sup> Sche las premissas per ina permissiun tenor l’artitgel 24*e* LPT n’èn betg pli ademplidas, scada la permissiun. L’autoritad cumpetenta constatescha quai tras ina disposiziun.[^42b-11]
 
 [^42b-1]: Integrà tras la cifra I da l’O dals 4 da fan. 2007, en vigur dapi il 1. da sett. 2007 ([AS 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
 [^42b-2]: Versiun tenor la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-3]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42b-4]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-5]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^42b-6]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-3]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-4]: Abolì tras la cifra I da l’O dals 15 d’oct. 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-5]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-6]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^42b-7]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-8]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-9]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-10]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-11]: Integrà tras la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
 #### Art. 42c
 
@@ -873,7 +1059,7 @@ Sco stabiliments al liber valan stabiliments ch’èn necessaris per tegnair ani
 
 #### Art. 43
 
-**Edifizis e stabiliments commerzials construids tenor il dretg vegl (art. 37*a* LPT)[^43-1]**
+**Edifizis e stabiliments commerzials construids tenor il dretg anteriur (art. 37*a* LPT)[^43-1]**
 
 <sup>1</sup>
 
@@ -895,6 +1081,8 @@ Midadas d’intent ed engrondiments d’edifizis e da stabiliments commerzials c
 
 **Disposiziuns cuminaivlas**[^43a-1]
 
+<sup>1</sup>
+
 Permissiuns tenor questa secziun dastgan mo vegnir concedidas:
 
 - a. sche l’edifizi na vegn betg pli duvrà per l’intent vertent che correspunda a la zona u ch’è lià al lieu u sch’i vegn garantì ch’el vegn mantegnì per quest intent;
@@ -903,7 +1091,10 @@ Permissiuns tenor questa secziun dastgan mo vegnir concedidas:
 - d. sche la cultivaziun agricula dals bains immobigliars vischins n’è betg periclitada;
 - e. sche nagins interess predominants na s’opponan a quai.
 
+<sup>2</sup> Sanaziuns energeticas, per las qualas igl exista in interess public predominant, pon vegnir permessas sin basa d’in giudicament dal cas singul, uschenavant che questa secziun na cuntegna naginas regulaziuns spezialas.[^43a-2]
+
 [^43a-1]: Integrà tras la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^43a-2]: Integrà tras la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### 7. secziun Menziun en il register funsil
 

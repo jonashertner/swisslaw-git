@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'aménagement du territoire (OAT)"
 short: OAT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: fr
-version: 2022-07-01
+version: 2026-01-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20220701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20220701/fr"
 
 (OAT)
 
-du 28 juin 2000 (État le 1<sup>er</sup> juillet 2022)
+du 28 juin 2000 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -312,6 +312,18 @@ Afin d’identifier à temps les conflits qui pourraient naître au cours du pro
 
 [^19-1]: Nouvelle teneur selon le ch. II 1 de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
 
+#### Art. 19a
+
+**Implication de l’Assemblée fédérale**[^19a-1]
+
+<sup>1</sup> Si, dans le cadre d’un projet de la partie conceptuelle ou de la partie Programme d’un plan sectoriel, une procédure de consultation au sens de l’art. 19 est ouverte, le Conseil fédéral transmet simultanément ce projet à l’Assemblée fédérale en lui demandant s’il convient de le lui soumettre pour consultation.
+
+<sup>2</sup> Si la commission compétente demande une telle consultation, le Conseil fédéral lui transmet le rapport sur le résultat de la procédure de consultation. Il invite la commission à lui faire parvenir son avis dans un délai de trois mois.
+
+<sup>3</sup> Le Conseil fédéral tient compte de l’avis de la commission lorsqu’il se prononce sur la partie conceptuelle ou la partie Programme du plan sectoriel. S’il s’écarte des propositions de la commission, il informe cette dernière et motive son choix.
+
+[^19a-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
 #### Art. 20
 
 **Conciliation**
@@ -479,24 +491,43 @@ Des surfaces d’assolement ne peuvent être classées en zone à bâtir que:
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
-### Section 3 Installations solaires
+### Section 3 Installations de production d’énergie et infrastructures
 
-[^chap5-sec3-1]
+[^chap5-sec3-1][^chap5-sec3-2]
 
 [^chap5-sec3-1]: Introduite par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^chap5-sec3-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32<sup>bis</sup>
+
+**Regroupement des infrastructures**[^32bis-1]
+
+### (art. 24<sup>bis</sup>, al. 1, LAT)
+
+<sup>1</sup> Les infrastructures doivent être regroupées ou réunies dans la mesure du possible et de manière appropriée et installées sur des sites aussi peu sensibles que possible. Les terres cultivables doivent être préservées.
+
+[^32bis-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### <sup>2</sup>
+
+**Si le sol doit être utilisé pour des infrastructures, il faut examiner avec quelles autres utilisations cette occupation pourrait être liée.**
 
 #### Art. 32a
 
-**Installations solaires dispensées d’autorisation**
+**Installations solaires sur les toits dispensées d’autorisation**
+
+### (art. 18*a* LAT)
+
+[^32abis-1]
 
 <sup>1</sup>
 
-Les installations solaires placées sur un toit sont considérées suffisamment adaptées (art. 18*a*, al. 1, LAT) si les conditions suivantes sont réunies:[^32a-1]
+Les installations solaires placées sur un toit sont considérées suffisamment adaptées (art. 18*a*, al. 1, LAT) si les conditions suivantes sont réunies:[^32abis-2]
 
 - a. elles ne dépassent pas les pans du toit perpendiculairement de plus de 20 cm;
-- b.[^32a-2] elles ne dépassent pas du toit, vu du dessus;
+- b.[^32abis-3] elles ne dépassent pas du toit, vu du dessus;
 - c. elles sont peu réfléchissantes selon l’état des connaissances techniques;
-- d.[^32a-3] elles forment un ensemble groupé; des exceptions pour raisons techniques ou une disposition décalée en raison de la surface disponible sont admissibles.
+- d.[^32abis-4] elles forment un ensemble groupé; des exceptions pour raisons techniques ou une disposition décalée en raison de la surface disponible sont admissibles.
 
 <sup>1bis</sup>
 
@@ -504,16 +535,50 @@ Sur un toit plat, elles sont aussi considérées suffisamment adaptées si, au l
 
 - a. elles ne dépassent pas de l’arête supérieure du toit de plus de 1 m;
 - b. elles sont placées suffisamment loin du bord du toit pour ne pas être visibles d’en bas avec un angle de vue de 45 degrés;
-- c. elles sont peu réfléchissantes selon l’état actuel des connaissances techniques.[^32a-4]
+- c. elles sont peu réfléchissantes selon l’état actuel des connaissances techniques.[^32abis-5]
 
 <sup>2</sup> Les dispositions concrètes fondées sur le droit cantonal traitant de l’intégration desdites installations s’appliquent lorsqu’elles visent de manière proportionnée la défense d’intérêts de protection justifiés et ne limitent pas l’exploitation de l’énergie solaire plus strictement que l’al. 1.
 
 <sup>3</sup> Les projets dispensés d’autorisation doivent être annoncés avant le début des travaux à l’autorité délivrant les autorisations de construire ou à une autre autorité déclarée compétente pour recevoir les annonces par la législation cantonale. La législation cantonale fixe le délai dans lequel l’annonce doit être faite et précise quels plans et autres documents doivent y être joints.
 
-[^32a-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32a-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32a-4]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32abis-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32abis-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32abis-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32abis-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32abis-5]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+
+#### Art. 32a<sup>bis</sup>
+
+**Installations solaires en façades dispensées d’autorisation**[^32b-1]
+
+### (art. 18*a* LAT)
+
+<sup>1</sup>
+
+Les installations solaires en façades sont réputées suffisamment adaptées si elles remplissent au moins l’une des conditions suivantes:
+
+- a. elles sont disposées sous forme d’une surface rectangulaire compacte et contiguë ou de plusieurs surfaces rectangulaires se répétant de manière régulière;
+- b. elles remplacent de manière uniforme des éléments de façades ou parties de construction jusqu’ici uniformes;
+- c. elles couvrent entièrement les surfaces d’un pignon des toits en pente;
+- d. elles présentent une teinte aussi proche que possible que celle des surfaces de façades contiguës non recouvertes de panneaux solaires;
+- e. elles se situent dans une zone d’activités;
+- f. elles tombent dans le champ d’application de prescriptions d’aménagement cantonales ou communales relatives aux installations solaires en façades, dans une zone à bâtir et correspondent à ces dernières;
+- g. elles remplissent une condition prévue par la législation cantonale pour les installations solaires en façades situées dans une zone à bâtir.
+
+<sup>2</sup>
+
+Sauf disposition contraire du droit cantonal, elles doivent en sus remplir les conditions suivantes:
+
+- a. elles ne recouvrent pas des éléments de structure ou de décoration existants;
+- b. vues de face, elles ne dépassent pas les bords de la façade;
+- c. elles sont placées à une distance maximale de 20 cm de la façade et sont parallèles à celle-ci;
+- d. elles sont conçues dans des couleurs et des matériaux uniformes et sont peu réfléchissantes selon l’état des connaissances techniques.
+
+<sup>3</sup> Les éventuelles exigences supplémentaires en matière d’intégration imposées par des prescriptions cantonales ou communales relatives à l’aménagement du territoire doivent être respectées, à moins que l’utilisation de l’énergie solaire n’en soit excessivement restreinte.
+
+<sup>4</sup> La procédure d’annonce se déroule conformément à l’art. 32*a*, al. 3.
+
+[^32b-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32b
 
@@ -521,37 +586,125 @@ Sur un toit plat, elles sont aussi considérées suffisamment adaptées si, au l
 
 Sont considérés comme des biens culturels d’importance cantonale ou nationale (art. 18*a*, al. 3, LAT):
 
-- a.[^32b-1] les biens culturels au sens de l’art. 1, let. a et b, de l’ordonnance du 29 octobre 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence[^32b-2];
-- b. les périmètres, ensembles et éléments individuels figurant à l’Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse et assortis d’un objectif de sauvegarde A[^32b-3];
-- c. les biens culturels d’importance nationale ou régionale répertoriés dans un autre inventaire adopté par la Confédération sur la base de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^32b-4];
+- a.[^32c-1] les biens culturels au sens de l’art. 1, let. a et b, de l’ordonnance du 29 octobre 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence[^32c-2];
+- b. les périmètres, ensembles et éléments individuels figurant à l’Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse et assortis d’un objectif de sauvegarde A[^32c-3];
+- c. les biens culturels d’importance nationale ou régionale répertoriés dans un autre inventaire adopté par la Confédération sur la base de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^32c-4];
 - d. les biens culturels d’importance nationale ou régionale auxquels des contributions fédérales au sens de l’art. 13 LPN ont été accordées;
 - e. les constructions et installations entrant dans le champ d’application de l’art. 24*d*, al. 2, LAT ou de l’art. 39, al. 2, de la présente ordonnance en raison de la protection dont elles bénéficient;
 - f. les objets qui, dans le plan directeur approuvé par la Confédération, sont désignés comme étant des biens culturels d’importance cantonale au sens de l’art. 18*a*, al. 3, LAT.
 
-[^32b-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence, en vigueur depuis le 1<sup>er</sup> janvier 2015 ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
-[^32b-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
-[^32b-3]: La carte des objets peut être consultée gratuitement sur le site de l’organe de coordination de la géoinformation au niveau fédéral à l’adresse suivante: map.geo.admin.ch &gt; Géocatalogue &gt; Population et économie &gt; Société, culture &gt; Inventaire fédéral ISOS.
-[^32b-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^32c-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence, en vigueur depuis le 1<sup>er</sup> janvier 2015 ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
+[^32c-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
+[^32c-3]: La carte des objets peut être consultée gratuitement sur le site de l’organe de coordination de la géoinformation au niveau fédéral à l’adresse suivante: map.geo.admin.ch &gt; Géocatalogue &gt; Population et économie &gt; Société, culture &gt; Inventaire fédéral ISOS.
+[^32c-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 32c
 
-**Installations solaires imposées par leur destination hors de la zone à bâtir**[^32c-1]
+**Installations solaires liées à des constructions ou des installations hors de la zone à bâtir**[^32d-1]
 
-<sup>1</sup>
+### (art. 24 LAT)
 
-Hors de la zone à bâtir, les installations solaires raccordées au réseau électrique peuvent être imposées par leur destination en particulier si elles:
+[^32d-2]
 
-- a. forment une unité visuelle avec des constructions ou des installations dont l’existence légale à long terme est vraisemblable;
-- b. sont mises en place de façon flottante sur un lac de barrage ou un autre plan d’eau artificiel, ou
-- c. ont, dans une partie du territoire peu sensible, des conséquences positives pour la production agricole ou sont utiles à des fins de recherche et d’expérimentation.
+<sup>1</sup> Les installations solaires liées à des constructions ou des installations situées hors de la zone à bâtir et raccordées au réseau électrique peuvent notamment être autorisées comme étant imposées par leur destination lorsqu’elles forment une unité visuelle avec des constructions ou des installations qui existent légalement et dont l’existence à long terme est vraisemblable.[^32d-3]
 
-<sup>2</sup> Si l’installation requiert une planification, le projet doit se fonder sur une base correspondante.
+<sup>2</sup> Si l’installation solaire requiert une planification, le projet doit se fonder sur une base correspondante.[^32d-4]
 
 <sup>3</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
 
 <sup>4</sup> Les installations et les parties d’installation qui ne satisfont plus aux conditions d’autorisation sont démontées.
 
-[^32c-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32d-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32d-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32d-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32d-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32d
+
+**Installations solaires indépendantes hors de la zone à bâtir qui ne revêtent pas un intérêt national**[^32e-1]
+
+### (art. 24<sup>ter</sup> LAT)
+
+<sup>1</sup> Hors de la zone à bâtir, les installations solaires indépendantes qui ne revêtent pas un intérêt national sont considérées comme imposées par leur destination aux conditions de l’art. 24<sup>ter</sup> LAT.
+
+<sup>2</sup> Si l’installation solaire est soumise à une obligation de planification, le projet doit reposer sur une base correspondante.
+
+<sup>3</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
+
+<sup>4</sup> Le droit cantonal règle les compétences et la procédure pour l’exécution par substitution pour ce qui concerne l’obligation de démantèlement au sens de l’art. 24<sup>ter</sup>, al. 3, LAT.
+
+[^32e-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32e
+
+**Installations destinées à l’utilisation de l’énergie issue de la biomasse**[^32f-1]
+
+### (art. 24<sup>quater</sup> LAT)
+
+<sup>1</sup>
+
+Les installations destinées à l’utilisation de l’énergie issue de la biomasse méthanisable et situées hors de la zone à bâtir peuvent notamment être autorisées comme étant imposées par leur destination hors de la zone à bâtir:
+
+- a. si le site se trouve dans une zone peu sensible ou jouxte des infrastructures qui existent légalement, telles que des stations d’épuration des eaux usées ou des postes de transformation;
+- b. s’il existe à proximité une conduite dans laquelle le gaz extrait peut être injecté ou s’il existe une possibilité d’injection de l’électricité produite et une possibilité d’utilisation efficace de la chaleur produite; et
+- c. si l’équipement routier est déjà suffisant.
+
+<sup>2</sup>
+
+Le stockage temporaire de matières premières ou de produits finis hors de la zone à bâtir peut être autorisé comme étant imposé par sa destination s’il est prouvé:
+
+- a. que ce stockage temporaire est nécessaire, et
+- b. que le site concerné hors de la zone à bâtir est nettement plus avantageux qu’un site situé dans des zones à bâtir ou des zones spéciales.
+
+<sup>3</sup> Si l’installation requiert une planification, le projet doit se fonder sur une base correspondante. Les installations dont la quantité de biomasse méthanisable traitée ne dépasse pas 45 000 tonnes par an ne sont pas soumises à l’obligation d’aménagement du territoire.
+
+<sup>4</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
+
+[^32f-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32f
+
+**Installations destinées à transformer de l’énergie renouvelable en hydrogène, en méthane ou en d’autres hydrocarbures synthétiques**[^32g-1]
+
+### (art. 24<sup>quater</sup> LAT)
+
+<sup>1</sup>
+
+Les installations de transformation d’énergies renouvelables à base d’hydrogène, de méthane ou d’autres hydrocarbures synthétiques qui sont situées hors de la zone à bâtir peuvent notamment être autorisées comme étant imposées par leur destination:
+
+- a. si elles sont situées dans des zones peu sensibles ou dans des zones qui subissent déjà des atteintes importantes;
+- b. si elles jouxtent des installations de production d’électricité à partir d’énergies renouvelables, et
+- c. si elles sont desservies pour l’évacuation de l’hydrogène et des agents énergétiques synthétiques générés.
+
+<sup>2</sup> De telles installations nécessitent une planification si elles occupent plus de 5000 m<sup>2</sup> du sol. Une obligation d’aménager le territoire existe également si une nouvelle installation destinée à la production d’électricité à partir d’énergies renouvelables et l’installation de transformation au sens de l’art. 24<sup>quater</sup> LAT qui y est raccordée occupent ensemble plus de 5000 m<sup>2</sup>.
+
+<sup>3</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
+
+[^32g-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32g
+
+**Conduites de réseaux thermiques**[^32h-1]
+
+### (art. 24<sup>quinquies</sup> LAT)
+
+<sup>1</sup> Les conduites de réseaux thermiques hors de la zone à bâtir peuvent en particulier être autorisées comme étant imposées par leur destination lorsque le tracé est aussi direct que possible et que cela permet ainsi une utilisation plus efficace de l’énergie.
+
+<sup>2</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
+
+[^32h-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32h
+
+**Installations de télécommunication mobile**[^32h-2]
+
+### (art. 24<sup>bis</sup>, al. 1, 2<sup>e</sup> phrase, LAT)
+
+<sup>1</sup> En plus des cas prévus à l’art. 24<sup>bis</sup>, al. 2 et 3, LAT, les installations de télécommunication mobile nécessaires sont imposées par leur destination lorsqu’elles sont intégrées dans un pylône à haute tension ou aménagées d’une autre manière à l’intérieur de la silhouette d’une infrastructure existante ou nouvelle. L’autorisation doit dépendre de l’existence de l’installation dans laquelle l’installation de téléphonie mobile sera intégrée.
+
+<sup>2</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
+
+[^32h-2]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### Section 4 Petites entités urbanisées hors de la zone à bâtir
 
@@ -623,13 +776,14 @@ Sont également admissibles les constructions et les installations nécessaires 
 
 <sup>2</sup> Les substrats utilisés doivent provenir à raison de la moitié au moins de leur masse de l’exploitation elle-même ou d’entreprises agricoles distantes, en règle générale, de 15 km au maximum par la route. Cette partie doit représenter 10 % au moins de la valeur énergétique de tous les substrats utilisés. Les sources des autres substrats de la biomasse doivent être situées, en règle générale, à une distance de 50 km au maximum par la route. Des distances plus longues peuvent être autorisée à titre exceptionnel.
 
-<sup>3</sup> L’installation complète doit être subordonnée à l’exploitation agricole et contribuer à une utilisation efficace des énergies renouvelables.
+<sup>3</sup> L’installation complète doit faire partie d’une exploitation agricole et contribuer à une utilisation efficace des énergies renouvelables.[^34a-4]
 
 <sup>4</sup> Les conditions de l’art. 34, al. 4, doivent être remplies.
 
 [^34a-1]: Introduit par le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
 [^34a-2]: Abrogée par le ch. I de l’O du 10 oct. 2012, avec effet au 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^34a-3]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^34a-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 34b
 
@@ -712,6 +866,37 @@ Est considérée comme un développement interne (art. 16*a*, al. 2, LAT) l’é
 
 Les cantons déterminent, dans le cadre de l’élaboration de leur plan directeur ou par voie législative, les exigences à respecter lors de la délimitation de zones au sens de l’art. 16*a*, al. 3, LAT; à cet égard, les buts et les principes énoncés aux art. 1 et 3 LAT sont déterminants.
 
+### Section 5*a* Priorité de l’agriculture dans la zone agricole
+
+[^chap5-sec5a-1]
+
+[^chap5-sec5a-1]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+(art. 16, al. 5, LAT)
+
+#### Art. 38a
+
+<sup>1</sup> L’autorité compétente accorde des allègements au sens du droit de la protection de l’environnement à l’intérieur de la zone agricole, pour autant que les intérêts de l’agriculture l’emportent sur l’intérêt au respect de la distance minimale de protection contre les odeurs ou des dispositions relatives à la protection contre le bruit.
+
+<sup>2</sup>
+
+Les intérêts de l’agriculture prévalent notamment:
+
+- a. si l’usage d’habitation concerné est postérieur à l’usage agricole;
+- b. si le logement concerné a été autorisé en tant que logement agricole, ou
+- c. si le logement concerné fait partie de l’exploitation agricole dont émanent les nuisances.
+
+<sup>3</sup> Si les personnes concernées par les immissions sonores ou olfactives acceptent les allègements, l’autorité compétente en tient compte dans la pesée des intérêts comme indice que les intérêts de l’agriculture prévalent.
+
+<sup>4</sup>
+
+En cas de plainte contre les odeurs ou le bruit, en cas de non-respect éventuel des dispositions relatives aux odeurs ou au bruit ou en cas d’allègements envisagés, il faut d’abord notamment vérifier:
+
+- a. si les usages qui entrent en conflit les uns avec les autres existent légalement, et
+- b. s’il n’existe pas de motifs de révision pour l’autorisation de l’usage à des fins non agricoles.
+
+<sup>5</sup> Une autorisation de construire qui nécessite une protection plus élevée du point de vue du droit de l’environnement devient caduque si un conflit avec des émissions olfactives ou sonores provenant de l’agriculture survient ultérieurement.
+
 ### Section 6 Exceptions pour les constructions et installations hors de la zone à bâtir
 
 [^chap5-sec6-1]
@@ -720,14 +905,9 @@ Les cantons déterminent, dans le cadre de l’élaboration de leur plan directe
 
 #### Art. 39
 
-**Constructions dans les territoires à habitat traditionnellement dispersé et constructions protégées en tant qu’éléments caractéristiques du paysage**
+**Constructions protégées en tant qu’éléments caractéristiques du paysage[^39-1]**
 
-<sup>1</sup>
-
-Dans les territoires à habitat traditionnellement dispersé qui sont désignés dans le plan directeur cantonal et dans lesquels, compte tenu du développement spatial souhaité, l’habitat permanent doit être renforcé, les cantons peuvent autoriser, au titre de constructions dont l’implantation est imposée par leur destination (art. 24, let. a, LAT):
-
-- a. les changements d’affectation, à des fins d’habitation sans rapport avec l’agriculture, de constructions existantes comportant des logements, si la construction après transformation est habitée à l’année;
-- b. les changements d’affectation de constructions ou de complexes de bâtiments existants comportant des logements, à des fins servant le petit artisanat et le commerce local (p. ex. les fromageries, les entreprises de transformation du bois, les ateliers mécaniques, les serrureries, les commerces de détail, les cafés); la partie réservée à l’artisanat ou au commerce ne doit en règle générale pas occuper plus de la moitié de la construction ou du complexe de bâtiments existants.
+<sup>1</sup> …[^39-2]
 
 <sup>2</sup>
 
@@ -738,15 +918,17 @@ Les cantons peuvent autoriser, au titre de constructions dont l’implantation e
 - c. si la conservation à long terme de ces constructions ne peut être assurée d’une autre manière, et
 - d. si le plan directeur cantonal définit les critères permettant de juger si les paysages et les constructions sont dignes de protection.
 
-<sup>3</sup> Des autorisations ne peuvent être délivrées sur la base du présent article que si l’aspect extérieur et la structure architecturale de la construction demeurent inchangés pour l’essentiel.[^39-1]
+<sup>3</sup> Des autorisations ne peuvent être délivrées sur la base du présent article que si les caractéristiques essentielles de l’aspect extérieur, de la structure architecturale de la construction et des environs sont conservées.[^39-3]
 
-<sup>4</sup> Une autorisation fondée sur l’al. 2 devient caduque si la construction ou, pour autant que cela relève de la responsabilité du propriétaire, le paysage environnant n’est plus digne de protection.[^39-2]
+<sup>4</sup> Une autorisation fondée sur l’al. 2 devient caduque si la construction ou, pour autant que cela relève de la responsabilité du propriétaire, le paysage environnant n’est plus digne de protection.[^39-4]
 
-<sup>5</sup> En cas de modification illégale apportée dans un paysage au sens de l’al. 2, une autorité cantonale veille à ce qu’une décision de remise en état conforme au droit soit prise et exécutée.[^39-3]
+<sup>5</sup> En cas de modification illégale apportée dans un paysage au sens de l’al. 2, une autorité cantonale veille à ce qu’une décision de remise en état conforme au droit soit prise et exécutée.[^39-5]
 
-[^39-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^39-2]: Introduit par l’art. 7 de l’O du 22 août 2012 sur les résidences secondaires ([RO 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Nouvelle teneur selon l’art. 12 ch. 2 de l’O du 4 déc. 2015 sur les résidences secondaires, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
-[^39-3]: Introduit par l’art. 7 de l’O du 22 août 2012 sur les résidences secondaires ([RO 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Nouvelle teneur selon l’art. 12 ch. 2 de l’O du 4 déc. 2015 sur les résidences secondaires, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-2]: Abrogé par le ch. I de l’O du 15 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-4]: Introduit par l’art. 7 de l’O du 22 août 2012 sur les résidences secondaires ([RO 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Nouvelle teneur selon l’art. 12 ch. 2 de l’O du 4 déc. 2015 sur les résidences secondaires, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
+[^39-5]: Introduit par l’art. 7 de l’O du 22 août 2012 sur les résidences secondaires ([RO 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Nouvelle teneur selon l’art. 12 ch. 2 de l’O du 4 déc. 2015 sur les résidences secondaires, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
 
 #### Art. 40
 
@@ -799,68 +981,74 @@ Sont considérées comme des activités accessoires étroitement liées à l’e
 
 La question de savoir si l’identité de la construction ou de l’installation est respectée pour l’essentiel est à examiner en fonction de l’ensemble des circonstances. Les règles suivantes doivent en tout cas être respectées:
 
-- a. à l’intérieur du volume bâti existant, la surface brute de plancher imputable ne peut pas être agrandie de plus de 60 % , la pose d’une isolation extérieure étant considérée comme un agrandissement à l’intérieur du volume bâti existant;
+- a.[^42-4] à l’intérieur du volume bâti existant, la surface brute de plancher imputable ne peut pas être agrandie de plus de 60 %; cette valeur peut être dépassée, dans la mesure nécessaire, dans les constructions utilisées en tant que résidence principale selon l’ancien droit, pour atteindre au total une surface brute de plancher imputable de 100 m<sup>2</sup>, pour autant que la construction soit entièrement équipée et qu’il soit garanti que l’habitation sera utilisée comme résidence principale;
 - b. un agrandissement peut être réalisé à l’extérieur du volume bâti existant si les conditions de l’art. 24*c*, al. 4, LAT sont remplies; l’agrandissement total ne peut alors excéder ni 30 % ni 100 m<sup>2</sup>, qu’il s’agisse de la surface brute de plancher imputable ou de la surface totale (somme de la surface brute de plancher imputable et des surfaces brutes annexes); les agrandissements effectués à l’intérieur du volume bâti existant ne comptent que pour moitié;
-- c. les travaux de transformation ne doivent pas permettre une modification importante de l’utilisation de bâtiments habités initialement de manière temporaire.[^42-4]
+- c. les travaux de transformation ne doivent pas permettre une modification importante de l’utilisation de bâtiments habités initialement de manière temporaire.[^42-5]
 
-<sup>4</sup> Ne peut être reconstruite que la construction ou l’installation qui pouvait être utilisée conformément à sa destination au moment de sa destruction ou de sa démolition et dont l’utilisation répond toujours à un besoin. Le volume bâti ne peut être reconstruit que dans la mesure correspondant à la surface admissible au sens de l’al. 3. L’al. 3, let. a n’est pas applicable. Si des raisons objectives l’exigent, l’implantation de la construction ou de l’installation de remplacement peut légèrement différer de celle de la construction ou de l’installation antérieure.[^42-5]
+<sup>4</sup> Ne peut être reconstruite que la construction ou l’installation qui pouvait être utilisée conformément à sa destination au moment de sa destruction ou de sa démolition et dont l’utilisation répond toujours à un besoin. Le volume bâti ne peut être reconstruit que dans la mesure correspondant à la surface admissible au sens de l’al. 3, let. b. L’implantation de la construction ou de l’installation de remplacement peut légèrement différer de celle de la construction ou de l’installation antérieure s’il existe des raisons objectives à cela.[^42-6]
 
-<sup>5</sup> Les installations solaires visées à l’art. 18*a*, al. 1, LAT, ne sont pas prises en compte dans l’examen selon l’art. 24*c*, al. 4, LAT.[^42-6]
+<sup>5</sup> Les installations solaires visées à l’art. 18*a*, al. 1, LAT ne sont pas prises en compte dans l’examen selon l’art. 24*c*, al. 4, LAT. Une isolation extérieure nécessaire à un assainissement énergétique, une surélévation de la toiture nécessaire à l’isolation ou l’aménagement d’une installation solaire peuvent être autorisés même s’ils entraînent un dépassement des limites fixées à l’al. 3, let. a ou b. Ils n’entraînent pas à eux seuls l’application de l’al. 3, let. b, au lieu de l’al. 3, let. a.[^42-7]
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-2]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-3]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42-4]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42-5]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
-[^42-6]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^42-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-5]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42-6]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-7]: Introduit par le ch. I de l’O du 3 juin 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 42a
 
 **Transformation de bâtiments d’habitation agricoles érigés selon le nouveau droit (art. 24*d*, al. 1, LAT)[^42a-2]**[^42a-1]
 
-<sup>1</sup> Un agrandissement peut être admis conformément à l’art. 24*d*, al. 1 et 3, LAT s’il est indispensable pour un usage d’habitation répondant aux normes usuelles.
+<sup>1</sup> Un agrandissement peut être admis conformément à l’art. 24*d*, al. 1 et 3, LAT s’il est nécessaire pour un usage d’habitation répondant aux normes usuelles ou pour un assainissement énergétique.[^42a-3]
 
-<sup>2</sup> …[^42a-3]
+<sup>2</sup> …[^42a-4]
 
-<sup>3</sup> La reconstruction peut être admise si la destruction était due à un cas de force majeure.[^42a-4]
+<sup>3</sup> La reconstruction peut être admise si la destruction était due à un cas de force majeure.[^42a-5]
 
 [^42a-1]: Introduit par le ch. I de l’O du 21 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1489](https://fedlex.data.admin.ch/eli/oc/2003/236)).
 [^42a-2]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42a-3]: Abrogé par le ch. I de l’O du 10 oct. 2012, avec effet au 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42a-4]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42a-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42a-4]: Abrogé par le ch. I de l’O du 10 oct. 2012, avec effet au 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42a-5]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 
 #### Art. 42b
 
 **Détention d’animaux à titre de loisir (art. 24*e* LAT)[^42b-2]**[^42b-1]
 
-<sup>1</sup> La transformation destinée à la détention d’animaux à titre de loisir est assimilée à un agrandissement de l’utilisation à des fins d’habitation du bâtiment d’habitation situé à proximité.
+<sup>1</sup> La transformation destinée à la détention d’animaux à titre de loisir est assimilée à un agrandissement de l’utilisation à des fins d’habitation du bâtiment d’habitation situé à proximité. Elle ne doit être comptabilisée comme surfaces brutes annexes que dans les cas visés à l’art. 42, al. 3, let. b.[^42b-3]
 
-<sup>2</sup> Elle est imputée aux possibilités d’agrandissement des bâtiments d’habitation au sens de l’art. 42, al. 3.[^42b-3]
+<sup>2</sup> …[^42b-4]
 
-<sup>3</sup> Le nombre d’animaux détenus ne doit pas excéder la capacité des personnes qui résident à proximité de s’en occuper elles-mêmes.[^42b-4]
+<sup>3</sup> Le nombre d’animaux détenus ne doit pas excéder la capacité des personnes qui résident à proximité de s’en occuper elles-mêmes.[^42b-5]
 
-<sup>4</sup> Lorsque le droit fédéral fixe des exigences plus sévères que la législation sur la protection des animaux pour une détention respectueuse des animaux, les installations à l’intérieur des bâtiments doivent respecter ces exigences. Fait exception à cette règle la détention en groupes de chevaux selon l’annexe 6, let. A, ch. 2.1, let. a, de l’ordonnance du 23 octobre 2013 sur les paiements directs[^42b-5].[^42b-6]
+<sup>4</sup> Lorsque le droit fédéral fixe des exigences plus sévères que la législation sur la protection des animaux pour une détention respectueuse des animaux, les installations à l’intérieur des bâtiments doivent respecter ces exigences. Fait exception à cette règle la détention en groupes de chevaux selon l’annexe 6, let. A, ch. 2.1, let. a, de l’ordonnance du 23 octobre 2013 sur les paiements directs[^42b-6].[^42b-7]
 
 <sup>5</sup>
 
 Sont considérées comme des installations extérieures les installations qui sont nécessaires pour une détention convenable des animaux et qui ne sont ni couvertes ni entourées de parois, telles que les aires de sortie toutes saisons, les aires à fumier ou les clôtures. N’en font pas partie notamment:
 
 - a. les installations qui servent uniquement à des activités à titre de loisir avec les animaux, tels que les terrains d’équitation ou d’exercice;
-- b. les abris de pâturage.[^42b-7]
+- b. les abris de pâturage.[^42b-8]
 
-<sup>6</sup> L’aire de sortie toutes saisons ne peut être séparée de l’écurie que pour des raisons impératives. La surface admissible se détermine selon l’art. 34*b,* al. 3, let. b.[^42b-8]
+<sup>6</sup> L’aire de sortie toutes saisons ne peut être séparée de l’écurie que pour des raisons impératives. La surface admissible se détermine selon l’art. 34*b,* al. 3, let. b.[^42b-9]
 
-<sup>7</sup> Si les conditions fixées à l’art. 24*e* LAT ne sont plus remplies, l’autorisation est caduque. L’autorité compétente le constate par voie de décision.[^42b-9]
+<sup>6bis</sup> Les étables pour petits animaux qui existaient légalement et qui ont été détruites par force majeure peuvent être reconstruites.[^42b-10]
+
+<sup>7</sup> Si les conditions fixées à l’art. 24*e* LAT ne sont plus remplies, l’autorisation est caduque. L’autorité compétente le constate par voie de décision.[^42b-11]
 
 [^42b-1]: Introduit par le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
 [^42b-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-3]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42b-4]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-5]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^42b-6]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-4]: Abrogé par le ch. I de l’O du 15 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-5]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-6]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^42b-7]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-8]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-9]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-10]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-11]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
 #### Art. 42c
 
@@ -892,6 +1080,8 @@ Les changements d’affectation et les agrandissements de constructions et insta
 
 **Dispositions communes**[^43a-1]
 
+<sup>1</sup>
+
 Des autorisations ne peuvent être délivrées sur la base de la présente section que si les conditions suivantes sont remplies:
 
 - a. la construction n’est plus nécessaire à l’utilisation antérieure conforme à l’affectation de la zone ou imposée par sa destination ou le maintien de cette utilisation est assuré;
@@ -900,7 +1090,10 @@ Des autorisations ne peuvent être délivrées sur la base de la présente secti
 - d. l’exploitation agricole des terrains environnants n’est pas menacée;
 - e. aucun intérêt prépondérant ne s’y oppose.
 
+<sup>2</sup> Les assainissements énergétiques présentant un intérêt public prépondérant peuvent être autorisés sur la base d’une évaluation au cas par cas, pour autant que la présente section ne contienne pas de règles spéciales.[^43a-2]
+
 [^43a-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^43a-2]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### Section 7 Mention au registre foncier
 

@@ -4,11 +4,11 @@ title: Raumplanungsverordnung vom 28. Juni 2000 (RPV)
 short: RPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: de
-version: 2022-07-01
+version: 2026-01-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2000-310-20220701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20220701/de"
 
 (RPV)
 
-vom 28. Juni 2000 (Stand am 1. Juli 2022)
+vom 28. Juni 2000 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -312,6 +312,18 @@ Um allfällige Konflikte im Rahmen der Planung rechtzeitig erkennen und partners
 
 [^19-1]: Fassung gemäss Ziff. II 1 der V vom 24. Juni 2009, in Kraft seit 1. Sept. 2009 ([AS 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
 
+#### Art. 19a
+
+**Einbezug der Bundesversammlung**[^19a-1]
+
+<sup>1</sup> Wird zum Entwurf des Konzept- oder Programmteils eines Sachplans ein Anhörungsverfahren nach Artikel 19 eingeleitet, so stellt der Bundesrat gleichzeitig diesen Entwurf der Bundesversammlung mit der Anfrage zu, ob ihr dieser zur Konsultation unterbreitet werden soll.
+
+<sup>2</sup> Verlangt die zuständige Kommission eine solche Konsultation, so leitet ihr der Bundesrat den Bericht über das Ergebnis des Anhörungsverfahrens zu. Der Bundesrat lädt die Kommission gleichzeitig ein, ihm die Stellungnahme innerhalb von drei Monaten zukommen zu lassen.
+
+<sup>3</sup> Der Bundesrat berücksichtigt bei seinem Entscheid über den Konzept- oder Programmteil des Sachplans die Stellungnahme der Kommission. Weicht er von deren Anträgen ab, so teilt er dies der Kommission mit und begründet die Abweichungen.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
 #### Art. 20
 
 **Bereinigung**
@@ -480,24 +492,41 @@ Fruchtfolgeflächen dürfen nur eingezont werden, wenn:
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
-### 3. Abschnitt: Solaranlagen
+### 3. Abschnitt: Energieerzeugungs- und Infrastrukturanlagen
 
-[^chap5-sec3-1]
+[^chap5-sec3-1][^chap5-sec3-2]
 
 [^chap5-sec3-1]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^chap5-sec3-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32
+
+**<sup>bi</sup><sup>s</sup> [^32bis-1]Bündelung von Infrastrukturanlagen**
+
+### (Art. 24<sup>bis</sup> Abs. 1 RPG)
+
+<sup>1</sup> Infrastrukturanlagen sind soweit möglich und zweckmässig zu bündeln oder zusammenzulegen und an möglichst unempfindlichen Standorten vorzusehen. Kulturland ist zu schonen.
+
+<sup>2</sup> Wenn Boden für Infrastrukturanlagen beansprucht werden soll, ist zu prüfen, mit welchen anderen Nutzungen diese Beanspruchung verbunden werden könnte.
+
+[^32bis-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32a
 
-**Bewilligungsfreie Solaranlagen**
+**Bewilligungsfreie Solaranlagen auf Dächern**
+
+### (Art. 18*a* RPG)
+
+[^32a-1]
 
 <sup>1</sup>
 
-Solaranlagen auf einem Dach gelten als genügend angepasst (Art. 18*a* Abs. 1 RPG), wenn sie:[^32a-1]
+Solaranlagen auf einem Dach gelten als genügend angepasst (Art. 18*a* Abs. 1 RPG), wenn sie:[^32a-2]
 
 - a. die Dachfläche im rechten Winkel um höchstens 20 cm überragen;
-- b.[^32a-2] von oben gesehen nicht über die Dachfläche hinausragen;
+- b.[^32a-3] von oben gesehen nicht über die Dachfläche hinausragen;
 - c. nach dem Stand der Technik reflexionsarm ausgeführt werden; und
-- d.[^32a-3] kompakt angeordnet sind; technisch bedingte Auslassungen oder eine versetzte Anordnung aufgrund der verfügbaren Fläche sind zulässig.
+- d.[^32a-4] kompakt angeordnet sind; technisch bedingte Auslassungen oder eine versetzte Anordnung aufgrund der verfügbaren Fläche sind zulässig.
 
 <sup>1bis</sup>
 
@@ -505,16 +534,50 @@ Solaranlagen auf einem Flachdach gelten auch dann als genügend angepasst, wenn 
 
 - a. die Oberkante des Dachrandes um höchstens einen Meter überragen;
 - b. von der Dachkante so weit zurückversetzt sind, dass sie, von unten in einem Winkel von 45 Grad betrachtet, nicht sichtbar sind; und
-- c. nach dem Stand der Technik reflexionsarm ausgeführt werden.[^32a-4]
+- c. nach dem Stand der Technik reflexionsarm ausgeführt werden.[^32a-5]
 
 <sup>2</sup> Konkrete Gestaltungsvorschriften des kantonalen Rechts sind anwendbar, wenn sie zur Wahrung berechtigter Schutzanliegen verhältnismässig sind und die Nutzung der Sonnenenergie nicht stärker einschränken als Absatz 1.
 
 <sup>3</sup> Bewilligungsfreie Vorhaben sind vor Baubeginn der Baubewilligungsbehörde oder einer anderen vom kantonalen Recht für zuständig erklärten Behörde zu melden. Das kantonale Recht legt die Frist sowie die Pläne und Unterlagen, die der Meldung beizulegen sind, fest.
 
-[^32a-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 [^32a-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 [^32a-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32a-4]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-4]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-5]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+
+#### Art. 32a<sup>bis</sup>
+
+**Bewilligungsfreie Solaranlagen an Fassaden**[^32abis-1]
+
+### (Art. 18*a* RPG)
+
+<sup>1</sup>
+
+Solaranlagen an einer Fassade gelten als genügend angepasst, wenn sie mindestens eine der folgenden Voraussetzungen erfüllen:
+
+- a. Sie sind als eine zusammenhängende kompakte rechteckige Fläche oder als mehrere sich gleichmässig wiederholende rechteckige Flächen angeordnet.
+- b. Sie ersetzen bisher einheitlich gestaltete Fassadenelemente oder Bauteile einheitlich.
+- c. Sie decken Giebelflächen von Schrägdächern vollständig ab.
+- d. Sie weisen eine möglichst ähnliche Farbgebung wie nicht mit Solarmodulen abgedeckte anschliessende Fassadenflächen auf.
+- e. Sie befinden sich in einer Arbeitszone.
+- f. Sie liegen im Geltungsbereich von gebietsbezogenen, Bauzonen betreffenden, kantonalen oder kommunalen Gestaltungsvorschriften zu Solaranlagen an Fassaden und entsprechen diesen.
+- g. Sie erfüllen eine entsprechende Voraussetzung, die im kantonalen Recht für Solaranlagen an Fassaden innerhalb von Bauzonen vorgesehen ist.
+
+<sup>2</sup>
+
+Soweit das kantonale Recht nichts anderes vorsieht, müssen sie zusätzlich folgende Voraussetzungen erfüllen:
+
+- a. Sie überdecken vorhandene Gliederungs- oder Schmuckelemente nicht.
+- b. Sie ragen von vorne betrachtet nicht über die Fassadenkanten hinaus.
+- c. Sie sind in einem maximalen Abstand von 20 cm zur Fassade und parallel zu dieser angeordnet.
+- d. Sie sind in einheitlicher Farbgebung und Materialisierung sowie nach dem Stand der Technik reflexionsarm ausgeführt.
+
+<sup>3</sup> Allfällige weitergehende Einpassungsanforderungen von gebietsbezogenen kantonalen oder kommunalen Gestaltungsvorschriften müssen eingehalten werden, es sei denn, die Nutzung der Sonnenenergie wird dadurch übermässig eingeschränkt.
+
+<sup>4</sup> Das Meldeverfahren richtet sich sinngemäss nach Artikel 32*a* Absatz 3.
+
+[^32abis-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32b
 
@@ -531,28 +594,116 @@ Als Kulturdenkmäler von kantonaler oder nationaler Bedeutung (Art. 18*a* Abs. 3
 
 [^32b-1]: Fassung gemäss Anhang Ziff. II 3 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen, in Kraft seit 1. Jan. 2015 ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
 [^32b-2]: [SR 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
-[^32b-3]: Die einzelnen Objekte können beim Koordinationsorgan für Geoinformation des Bundes kostenlos abgerufen werden unter map.geo.admin.ch &gt; Geokatalog &gt; Bevölkerung und Wirtschaft &gt; Gesellschaft, Kultur &gt; Bundesinventar ISOS.
+[^32b-3]: Die einzelnen Objekte können beim Koordinationsorgan für Geoinformation des Bundes kostenlos abgerufen werden unter: map.geo.admin.ch &gt; Geokatalog &gt; Bevölkerung und Wirtschaft &gt; Gesellschaft, Kultur &gt; Bundesinventar ISOS.
 [^32b-4]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 32c
 
-**Standortgebundene Solaranlagen ausserhalb der Bauzonen**[^32c-1]
+**Nicht freistehende Solaranlagen ausserhalb der Bauzonen**[^32c-1]
 
-<sup>1</sup>
+### (Art. 24 RPG)
 
-Solaranlagen mit Anschluss ans Stromnetz können ausserhalb der Bauzonen insbesondere dann standortgebunden sein, wenn sie:
+[^32c-2]
 
-- a. optisch eine Einheit bilden mit Bauten oder Anlagen, die voraussichtlich längerfristig rechtmässig bestehen;
-- b. schwimmend auf einem Stausee oder auf anderen künstlichen Gewässerflächen angebracht werden; oder
-- c. in wenig empfindlichen Gebieten Vorteile für die landwirtschaftliche Produktion bewirken oder entsprechenden Versuchs- und Forschungszwecken dienen.
+<sup>1</sup> Nicht freistehende Solaranlagen, die ausserhalb der Bauzonen liegen und ans Stromnetz angeschlossen sind, können insbesondere dann als standortgebunden bewilligt werden, wenn sie optisch eine Einheit mit Bauten oder Anlagen bilden, die rechtmässig sind und voraussichtlich längerfristig bestehen.[^32c-3]
 
-<sup>2</sup> Besteht für die Anlage eine Planungspflicht, so bedarf das Vorhaben einer entsprechenden Grundlage.
+<sup>2</sup> Besteht für die Solaranlage eine Planungspflicht, so bedarf das Vorhaben einer entsprechenden Grundlage.[^32c-4]
 
 <sup>3</sup> In jedem Fall bedarf es einer umfassenden Interessenabwägung.
 
 <sup>4</sup> Fallen die Bewilligungsvoraussetzungen dahin, so müssen die entsprechenden Anlagen und Anlageteile zurückgebaut werden.
 
 [^32c-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32c-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32c-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32c-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32d
+
+**Freistehende Solaranlagen nicht von nationalem Interesse ausserhalb der Bauzonen**[^32d-1]
+
+### (Art. 24<sup>ter</sup> RPG)
+
+<sup>1</sup> Die Standortgebundenheit von freistehenden Solaranlagen nicht von nationalem Interesse ausserhalb der Bauzonen richtet sich nach Artikel 24<sup>ter</sup> RPG.
+
+<sup>2</sup> Besteht für die Solaranlage eine Planungspflicht, so bedarf das Vorhaben einer entsprechenden Grundlage.
+
+<sup>3</sup> In jedem Fall bedarf es einer umfassenden Interessenabwägung.
+
+<sup>4</sup> Das kantonale Recht regelt Zuständigkeiten und Verfahren zur Ersatzvornahme in Bezug auf die Rückbaupflicht nach Artikel 24<sup>ter</sup> Absatz 3 RPG.
+
+[^32d-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32e
+
+**Anlagen zur Nutzung der Energie aus Biomasse**[^32e-1]
+
+### (Art. 24<sup>quater</sup> RPG)
+
+<sup>1</sup>
+
+Anlagen zur Nutzung der Energie aus vergärbarer Biomasse, die ausserhalb der Bauzonen liegen, können insbesondere dann als standortgebunden bewilligt werden, wenn:
+
+- a. der Standort in einem wenig empfindlichen Gebiet liegt oder an rechtmässig bestehende Infrastrukturanlagen wie Abwasserreinigungsanlagen oder elektrische Umspannwerke angrenzt;
+- b. eine Leitung in der Nähe ist, in die das gewonnene Gas eingespeist werden kann, oder wenn eine Einspeisemöglichkeit für den erzeugten Strom und eine effiziente Verwendungsmöglichkeit für die anfallende Wärme besteht; und
+- c. bereits eine genügende strassenmässige Erschliessung besteht.
+
+<sup>2</sup>
+
+Die Zwischenlagerung von Ausgangsmaterial oder Endprodukten ausserhalb der Bauzonen kann als standortgebunden bewilligt werden, wenn nachgewiesen wird, dass:
+
+- a. für diese Zwischenlagerung ein Bedarf besteht; und
+- b. der betreffende Standort ausserhalb der Bauzonen wesentlich vorteilhafter ist als ein Standort innerhalb von Bau- oder Spezialzonen.
+
+<sup>3</sup> Besteht für die Anlage eine Planungspflicht, so bedarf das Vorhaben einer entsprechenden Grundlage. Nicht planungspflichtig sind Anlagen bis zu einer verarbeiteten Substratmenge an vergärbarer Biomasse von 45 000 Tonnen pro Jahr.
+
+<sup>4</sup> In jedem Fall bedarf es einer umfassenden Interessenabwägung.
+
+[^32e-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32f
+
+**Anlagen zur Umwandlung von erneuerbarer Energie in Wasserstoff, Methan oder andere synthetische Kohlenwasserstoffe**[^32f-1]
+
+### (Art. 24<sup>quater</sup> RPG)
+
+<sup>1</sup>
+
+Anlagen zur Umwandlung von erneuerbarer Energie in Wasserstoff, Methan oder andere synthetische Kohlenwasserstoffe, die ausserhalb der Bauzonen liegen, können insbesondere dann als standortgebunden bewilligt werden, wenn sie:
+
+- a. in wenig empfindlichen oder in vorbelasteten Gebieten liegen;
+- b. an Anlagen zur Produktion von Elektrizität aus erneuerbaren Energien anschliessen; und
+- c. zum Abtransport des Wasserstoffs und der synthetisch erzeugten Energieträger erschlossen sind.
+
+<sup>2</sup> Solche Anlagen bedürfen einer Planung, wenn sie mehr als 5000 m<sup>2</sup> Boden beanspruchen. Eine Planungspflicht besteht auch dann, wenn eine neue Anlage zur Produktion von Elektrizität aus erneuerbaren Energien und die daran angeschlossene Anlage zur Umwandlung nach Artikel 24<sup>quater</sup> RPG zusammen mehr als 5000 m<sup>2</sup> beanspruchen.
+
+<sup>3</sup> In jedem Fall bedarf es einer umfassenden Interessenabwägung.
+
+[^32f-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32g
+
+**Leitungen thermischer Netze**[^32g-1]
+
+### (Art. 24<sup>quinquies</sup> RPG)
+
+<sup>1</sup> Leitungen thermischer Netze ausserhalb der Bauzonen können insbesondere dann als standortgebunden bewilligt werden, wenn die Linienführung möglichst direkt ist und die Energie dadurch effizienter genutzt werden kann.
+
+<sup>2</sup> In jedem Fall bedarf es einer umfassenden Interessenabwägung.
+
+[^32g-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 32h
+
+**Mobilfunkanlagen**[^32h-1]
+
+### (Art. 24<sup>bis</sup> Abs. 1 zweiter Satz RPG)
+
+<sup>1</sup> Notwendige Mobilfunkanlagen sind ergänzend zu den Fällen nach Artikel 24<sup>bis</sup> Absätze 2 und 3 RPG standortgebunden, wenn sie in einen Hochspannungsmast integriert oder anderweitig innerhalb der Silhouette einer bestehenden oder neuen Infrastrukturanlage realisiert werden. Die Bewilligung ist vom Bestand der Anlage abhängig zu machen, in welche die Mobilfunkanlage integriert wird.
+
+<sup>2</sup> In jedem Fall bedarf es einer umfassenden Interessenabwägung.
+
+[^32h-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### 4. Abschnitt: Kleinsiedlungen ausserhalb der Bauzone
 
@@ -624,13 +775,14 @@ Zulässig sind ferner Bauten und Anlagen, die benötigt werden für die Produkti
 
 <sup>2</sup> Die verarbeiteten Substrate müssen zu mehr als der Hälfte ihrer Masse vom Standortbetrieb oder aus Landwirtschaftsbetrieben stammen, die innerhalb einer Fahrdistanz von in der Regel 15 km liegen. Dieser Teil muss mindestens 10 Prozent des Energieinhalts der gesamten verarbeiteten Substrate ausmachen. Die Quellen der restlichen Substrate müssen innerhalb einer Fahrdistanz von in der Regel 50 km liegen. Ausnahmsweise können längere Fahrdistanzen bewilligt werden.
 
-<sup>3</sup> Die ganze Anlage muss sich dem Landwirtschaftsbetrieb unterordnen und einen Beitrag dazu leisten, dass die erneuerbaren Energien effizient genutzt werden.
+<sup>3</sup> Die ganze Anlage muss Teil eines Landwirtschaftsbetriebs sein und einen Beitrag dazu leisten, dass die erneuerbaren Energien effizient genutzt werden.[^34a-4]
 
 <sup>4</sup> Die Voraussetzungen von Artikel 34 Absatz 4 müssen erfüllt sein.
 
 [^34a-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
 [^34a-2]: Aufgehoben durch Ziff. I der V vom 10. Okt. 2012, mit Wirkung seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^34a-3]: Eingefügt durch Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^34a-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 34b
 
@@ -713,6 +865,37 @@ Als innere Aufstockung (Art. 16*a* Abs. 2 RPG) gilt die Errichtung von Bauten un
 
 Der Kanton legt im Rahmen seiner Richtplanung oder auf dem Wege der Gesetzgebung die Anforderungen fest, die bei der Ausscheidung von Zonen nach Artikel 16*a* Absatz 3 RPG zu beachten sind; massgebend sind dabei die Ziele und Grundsätze nach den Artikeln 1 und 3 RPG.
 
+### 5*a*. Abschnitt: Vorrang der Landwirtschaft in der Landwirtschaftszone
+
+[^chap5-sec5a-1]
+
+[^chap5-sec5a-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+### (Art. 16 Abs. 5 RPG)
+
+#### Art. 38a
+
+<sup>1</sup> Die zuständige Behörde gewährt innerhalb der Landwirtschaftszone umweltschutzrechtliche Erleichterungen, soweit die Interessen der Landwirtschaft das Interesse an der Einhaltung des Mindestabstandes zum Schutz vor Gerüchen oder der Bestimmungen zum Schutz vor Lärm überwiegen.
+
+<sup>2</sup>
+
+Die Interessen der Landwirtschaft überwiegen insbesondere, wenn:
+
+- a. die betroffene Wohnnutzung nach der landwirtschaftlichen Nutzung entstanden ist;
+- b. der betroffene Wohnraum als landwirtschaftlich bedingt bewilligt wurde; oder
+- c. der betroffene Wohnraum zum Landwirtschaftsbetrieb gehört, von dem die Immissionen ausgehen.
+
+<sup>3</sup> Stimmen die von den Geruchs- oder Lärmimmissionen betroffenen Personen den Erleichterungen zu, so gewichtet dies die zuständige Behörde bei der Interessenabwägung als Indiz dafür, dass die Interessen der Landwirtschaft überwiegen.
+
+<sup>4</sup>
+
+Bei Geruchs- oder Lärmklagen, bei einer möglichen Nichteinhaltung von Geruchs- oder Lärmbestimmungen oder bei in Aussicht genommenen Erleichterungen ist zunächst insbesondere zu prüfen, ob:
+
+- a. die Nutzungen, die miteinander in Konflikt geraten, rechtmässig bestehen; und
+- b. keine Revisionsgründe für die Bewilligung der nicht landwirtschaftlichen Nutzung vorliegen.
+
+<sup>5</sup> Eine Baubewilligung, die einen höheren umweltrechtlichen Schutzbedarf ausgelöst hat, fällt dahin, wenn sich später ein Konflikt mit Geruchs- oder Lärmemissionen aus der Landwirtschaft ergibt.
+
 ### 6. Abschnitt: Ausnahmen für Bauten und Anlagen ausserhalb der Bauzonen
 
 [^chap5-sec6-1]
@@ -721,14 +904,9 @@ Der Kanton legt im Rahmen seiner Richtplanung oder auf dem Wege der Gesetzgebung
 
 #### Art. 39
 
-**Bauten in Streusiedlungsgebieten und landschaftsprägende Bauten**
+**Landschaftsprägende Bauten[^39-1]**
 
-<sup>1</sup>
-
-In Gebieten mit traditioneller Streubauweise, die im kantonalen Richtplan räumlich festgelegt sind und in denen die Dauerbesiedlung im Hinblick auf die anzustrebende räumliche Entwicklung gestärkt werden soll, können die Kantone als standortgebunden (Art. 24 Bst. a RPG) bewilligen:
-
-- a. die Änderung der Nutzung bestehender Bauten, die Wohnungen enthalten, zu landwirtschaftsfremden Wohnzwecken, wenn sie nach der Änderung ganzjährig bewohnt werden;
-- b. die Änderung der Nutzung bestehender Bauten oder Gebäudekomplexe, die Wohnungen enthalten, zu Zwecken des örtlichen Kleingewerbes (beispielsweise Käsereien, holzverarbeitende Betriebe, mechanische Werkstätten, Schlossereien, Detailhandelsläden, Wirtshäuser); der Gewerbeteil darf in der Regel nicht mehr als die Hälfte der Baute oder des Gebäudekomplexes beanspruchen.
+<sup>1</sup> …[^39-2]
 
 <sup>2</sup>
 
@@ -739,15 +917,17 @@ Die Kantone können die Änderung der Nutzung bestehender, als landschaftspräge
 - c. die dauernde Erhaltung der Bauten nur durch eine Umnutzung sichergestellt werden kann; und
 - d. der kantonale Richtplan die Kriterien enthält, nach denen die Schutzwürdigkeit der Landschaften und Bauten zu beurteilen ist.
 
-<sup>3</sup> Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn die äussere Erscheinung und die bauliche Grundstruktur im Wesentlichen unverändert bleiben.[^39-1]
+<sup>3</sup> Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn die äussere Erscheinung, die bauliche Grundstruktur und die Umgebung in ihren wesentlichen Merkmalen erhalten bleiben.[^39-3]
 
-<sup>4</sup> Bewilligungen nach Absatz 2 fallen dahin, wenn die Schutzwürdigkeit der Baute oder, soweit dies im Verantwortungsbereich der Grundeigentümerin oder des Grundeigentümers liegt, der sie umgebenden Landschaft nicht mehr gegeben ist.[^39-2]
+<sup>4</sup> Bewilligungen nach Absatz 2 fallen dahin, wenn die Schutzwürdigkeit der Baute oder, soweit dies im Verantwortungsbereich der Grundeigentümerin oder des Grundeigentümers liegt, der sie umgebenden Landschaft nicht mehr gegeben ist.[^39-4]
 
-<sup>5</sup> Bei rechtswidrigen Veränderungen in Landschaften nach Absatz 2 sorgt eine kantonale Behörde dafür, dass die Wiederherstellung des rechtmässigen Zustandes verfügt und vollzogen wird.[^39-3]
+<sup>5</sup> Bei rechtswidrigen Veränderungen in Landschaften nach Absatz 2 sorgt eine kantonale Behörde dafür, dass die Wiederherstellung des rechtmässigen Zustandes verfügt und vollzogen wird.[^39-5]
 
-[^39-1]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^39-2]: Eingefügt durch Art. 7 der V vom 22. Aug. 2012 über Zweitwohnungen ([AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Fassung gemäss Art. 12 Ziff. 1 der Zweitwohnungsverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
-[^39-3]: Eingefügt durch Art. 7 der V vom 22. Aug. 2012 über Zweitwohnungen ([AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Fassung gemäss Art. 12 Ziff. 1 der Zweitwohnungsverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
+[^39-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-2]: Aufgehoben durch Ziff. I der V vom 15. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^39-4]: Eingefügt durch Art. 7 der V vom 22. Aug. 2012 über Zweitwohnungen ([AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Fassung gemäss Art. 12 Ziff. 1 der Zweitwohnungsverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
+[^39-5]: Eingefügt durch Art. 7 der V vom 22. Aug. 2012 über Zweitwohnungen ([AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556)). Fassung gemäss Art. 12 Ziff. 1 der Zweitwohnungsverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5669](https://fedlex.data.admin.ch/eli/oc/2015/887)).
 
 #### Art. 40
 
@@ -800,68 +980,74 @@ Als Nebenbetrieb mit einem engen sachlichen Bezug zum landwirtschaftlichen Gewer
 
 Ob die Identität der Baute oder Anlage im Wesentlichen gewahrt bleibt, ist unter Würdigung der gesamten Umstände zu beurteilen. In jedem Fall gelten folgende Regeln:
 
-- a. Innerhalb des bestehenden Gebäudevolumens darf die anrechenbare Bruttogeschossfläche nicht um mehr als 60 Prozent erweitert werden, wobei das Anbringen einer Aussenisolation als Erweiterung innerhalb des bestehenden Gebäudevolumens gilt.
+- a.[^42-4] Innerhalb des bestehenden Gebäudevolumens darf die anrechenbare Bruttogeschossfläche nicht um mehr als 60 Prozent erweitert werden; dieser Wert darf überschritten werden, soweit dies nötig ist, um in Bauten mit altrechtlicher Erstwohnung insgesamt eine anrechenbare Bruttogeschossfläche von 100 m<sup>2</sup> zu erreichen, und sofern die Baute voll erschlossen ist und sichergestellt wird, dass der Wohnraum als Erstwohnung genutzt wird.
 - b. Unter den Voraussetzungen von Artikel 24*c* Absatz 4 RPG kann eine Erweiterung ausserhalb des bestehenden Gebäudevolumens erfolgen; die gesamte Erweiterung darf in diesem Fall sowohl bezüglich der anrechenbaren Bruttogeschossfläche als auch bezüglich der Gesamtfläche (Summe von anrechenbarer Bruttogeschossfläche und Brutto-Nebenfläche) weder 30 Prozent noch 100 m<sup>2</sup> überschreiten; die Erweiterungen innerhalb des bestehenden Gebäudevolumens werden nur halb angerechnet.
-- c. Bauliche Veränderungen dürfen keine wesentlich veränderte Nutzung ursprünglich bloss zeitweise bewohnter Bauten ermöglichen.[^42-4]
+- c. Bauliche Veränderungen dürfen keine wesentlich veränderte Nutzung ursprünglich bloss zeitweise bewohnter Bauten ermöglichen.[^42-5]
 
-<sup>4</sup> Eine Baute oder Anlage darf nur wieder aufgebaut werden, wenn sie im Zeitpunkt der Zerstörung oder des Abbruchs noch bestimmungsgemäss nutzbar war und an ihrer Nutzung ein ununterbrochenes Interesse besteht. Das Gebäudevolumen darf nur so weit wieder aufgebaut werden, dass es die nach Absatz 3 zulässige Fläche umfassen kann. Absatz 3 Buchstabe a ist nicht anwendbar. Sofern dies objektiv geboten erscheint, darf der Standort der Ersatzbaute oder -anlage von demjenigen der früheren Baute oder Anlage geringfügig abweichen.[^42-5]
+<sup>4</sup> Eine Baute oder Anlage darf nur wieder aufgebaut werden, wenn sie im Zeitpunkt der Zerstörung oder des Abbruchs noch bestimmungsgemäss nutzbar war und an ihrer Nutzung ein ununterbrochenes Interesse besteht. Das Gebäudevolumen darf nur so weit wieder aufgebaut werden, dass es die nach Absatz 3 Buchstabe b zulässige Fläche umfassen kann. Der Standort der Ersatzbaute oder -anlage darf von demjenigen der früheren Baute oder Anlage geringfügig abweichen, wenn es dafür objektive Gründe gibt.[^42-6]
 
-<sup>5</sup> Solaranlagen nach Artikel 18*a* Absatz 1 RPG sind bei der Beurteilung nach Artikel 24*c* Absatz 4 RPG unbeachtlich.[^42-6]
+<sup>5</sup> Solaranlagen nach Artikel 18*a* Absatz 1 RPG sind bei der Beurteilung nach Artikel 24*c* RPG unbeachtlich. Eine für eine energetische Sanierung notwendige Aussenisolation oder eine für die Isolierung notwendige Anhebung des Daches darf samt allfälliger Solaranlage bewilligt werden, auch wenn damit die Grenzen nach Absatz 3 Buchstabe a oder b überschritten werden. Sie allein führen nicht dazu, dass Absatz 3 Buchstabe b statt Absatz 3 Buchstabe a anzuwenden wäre[^42-7]
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-2]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-3]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42-4]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42-5]: Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
-[^42-6]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^42-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-5]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42-6]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-7]: Eingefügt durch Ziff. I der V vom 3. Juni 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 42a
 
 **Änderung neurechtlicher landwirtschaftlicher Wohnbauten (Art. 24*d* Abs. 1 RPG)[^42a-2]**[^42a-1]
 
-<sup>1</sup> Im Rahmen von Artikel 24*d* Absätze 1 und 3 RPG sind Erweiterungen zulässig, welche für eine zeitgemässe Wohnnutzung unumgänglich sind.
+<sup>1</sup> Im Rahmen von Artikel 24*d* Absätze 1 und 3 RPG sind Erweiterungen zulässig, welche für eine zeitgemässe Wohnnutzung oder für eine energetische Sanierung notwendig sind.[^42a-3]
 
-<sup>2</sup> …[^42a-3]
+<sup>2</sup> …[^42a-4]
 
-<sup>3</sup> Der Wiederaufbau kann nach Zerstörung durch höhere Gewalt zugelassen werden.[^42a-4]
+<sup>3</sup> Der Wiederaufbau kann nach Zerstörung durch höhere Gewalt zugelassen werden.[^42a-5]
 
 [^42a-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1489](https://fedlex.data.admin.ch/eli/oc/2003/236)).
 [^42a-2]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42a-3]: Aufgehoben durch Ziff. I der V vom 10. Okt. 2012, mit Wirkung seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42a-4]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42a-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42a-4]: Aufgehoben durch Ziff. I der V vom 10. Okt. 2012, mit Wirkung seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^42a-5]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 
 #### Art. 42b
 
 **Hobbymässige Tierhaltung (Art. 24*e* RPG)[^42b-2]**[^42b-1]
 
-<sup>1</sup> Die hobbymässige Tierhaltung gilt als Erweiterung der Wohnnutzung der nahe gelegenen Wohnbaute.
+<sup>1</sup> Die hobbymässige Tierhaltung gilt als Erweiterung der Wohnnutzung der nahe gelegenen Wohnbaute. Sie ist nur in den Fällen von Artikel 42 Absatz 3 Buchstabe b und nur als Brutto-Nebenfläche anzurechnen.[^42b-3]
 
-<sup>2</sup> Sie ist an allfällige Möglichkeiten zur Erweiterung der Wohnbaute nach Artikel 42 Absatz 3 anzurechnen.[^42b-3]
+<sup>2</sup> …[^42b-4]
 
-<sup>3</sup> Es dürfen nur so viele Tiere gehalten werden, wie die Bewohnerinnen und Bewohner der nahe gelegenen Wohnbaute selber betreuen können.[^42b-4]
+<sup>3</sup> Es dürfen nur so viele Tiere gehalten werden, wie die Bewohnerinnen und Bewohner der nahe gelegenen Wohnbaute selber betreuen können.[^42b-5]
 
-<sup>4</sup> Wo das Bundesrecht über die Tierschutzgesetzgebung hinausgehende Anforderungen an eine tierfreundliche Haltung festlegt, müssen die Einrichtungen in den Gebäuden diese Anforderungen erfüllen. Davon ausgenommen ist die in Anhang 6 Buchstabe A Ziffer 2.1 Buchstabe a der Direktzahlungsverordnung vom 23. Oktober 2013[^42b-5] vorgesehene Gruppenhaltung von Pferden.[^42b-6]
+<sup>4</sup> Wo das Bundesrecht über die Tierschutzgesetzgebung hinausgehende Anforderungen an eine tierfreundliche Haltung festlegt, müssen die Einrichtungen in den Gebäuden diese Anforderungen erfüllen. Davon ausgenommen ist die in Anhang 6 Buchstabe A Ziffer 2.1 Buchstabe a der Direktzahlungsverordnung vom 23. Oktober 2013[^42b-6] vorgesehene Gruppenhaltung von Pferden.[^42b-7]
 
 <sup>5</sup>
 
 Als Aussenanlagen gelten Anlagen, die für eine tiergerechte Haltung notwendig und weder überdacht noch umwandet sind, namentlich Allwetterausläufe, Mistlager oder Zäune. Nicht darunter fallen insbesondere:
 
 - a. Anlagen, die ausschliesslich der hobbymässigen Beschäftigung mit den Tieren dienen, wie Reit- oder Übungsplätze;
-- b. Weideunterstände.[^42b-7]
+- b. Weideunterstände.[^42b-8]
 
-<sup>6</sup> Der Allwetterauslauf darf nur aus zwingenden Gründen abgesetzt vom Stall errichtet werden. Für die zulässige Fläche gilt Artikel 34*b* Absatz 3 Buchstabe b.[^42b-8]
+<sup>6</sup> Der Allwetterauslauf darf nur aus zwingenden Gründen abgesetzt vom Stall errichtet werden. Für die zulässige Fläche gilt Artikel 34*b* Absatz 3 Buchstabe b.[^42b-9]
 
-<sup>7</sup> Sind die Voraussetzungen für eine Bewilligung nach Artikel 24*e* RPG nicht mehr erfüllt, so fällt die Bewilligung dahin. Die zuständige Behörde stellt dies durch Verfügung fest.[^42b-9]
+<sup>6bis</sup> Kleintierställe, die rechtmässig bestanden und durch höhere Gewalt zerstört worden sind, dürfen wiederaufgebaut werden.[^42b-10]
+
+<sup>7</sup> Sind die Voraussetzungen für eine Bewilligung nach Artikel 24*e* RPG nicht mehr erfüllt, so fällt die Bewilligung dahin. Die zuständige Behörde stellt dies durch Verfügung fest.[^42b-11]
 
 [^42b-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3641](https://fedlex.data.admin.ch/eli/oc/2007/453)).
 [^42b-2]: Fassung gemäss Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-3]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
-[^42b-4]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
-[^42b-5]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
-[^42b-6]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-4]: Aufgehoben durch Ziff. I der V vom 15. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-5]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-6]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^42b-7]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-8]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^42b-9]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^42b-10]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42b-11]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 
 #### Art. 42c
 
@@ -893,6 +1079,8 @@ Zweckänderungen und Erweiterungen von zonenwidrig gewordenen gewerblichen Baute
 
 **Gemeinsame Bestimmungen**[^43a-1]
 
+<sup>1</sup>
+
 Bewilligungen nach diesem Abschnitt dürfen nur erteilt werden, wenn:
 
 - a. die Baute für den bisherigen zonenkonformen oder standortgebundenen Zweck nicht mehr benötigt wird oder sichergestellt wird, dass sie zu diesem Zweck erhalten bleibt;
@@ -901,7 +1089,10 @@ Bewilligungen nach diesem Abschnitt dürfen nur erteilt werden, wenn:
 - d. die landwirtschaftliche Bewirtschaftung der umliegenden Grundstücke nicht gefährdet ist;
 - e. keine überwiegenden Interessen entgegenstehen.
 
+<sup>2</sup> Energetische Sanierungen, an denen ein überwiegendes öffentliches Interesse besteht, können gestützt auf eine Beurteilung im Einzelfall bewilligt werden, soweit dieser Abschnitt keine speziellen Regelungen enthält.[^43a-2]
+
 [^43a-1]: Eingefügt durch Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^43a-2]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### 7. Abschnitt: Anmerkung im Grundbuch
 
