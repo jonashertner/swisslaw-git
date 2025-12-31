@@ -4,13 +4,13 @@ number: "713.121"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2025-04-01
-valid_until: 2025-12-31
-version_adopted: 2024-09-25
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-11-19
 adopted: 2011-05-25
 in_force: 2011-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3721/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3903/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3721/pdf_file"
 
 (BauV)
 
-Vom 25.05.2011 (Stand 01.04.2025)
+Vom 25.05.2011 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -261,7 +261,7 @@ beschliesst:
 - c) Form, Staffelung und Gliederung der Bauten,
 - d) Dachform, Dachneigung und Dachaufbauten,
 - e) Gestaltung, Materialisierung und Farbgebung von Fassaden und Dächern,
-- f) Ausgestaltung von Aussenräumen wie namentlich Grundstückzufahrten und -zugänge, Abstellplätze, Vorgärten und Grünflächen.
+- f) Ausgestaltung von Aussenräumen wie namentlich Grundstückzufahrten und ‑zugänge, Abstellplätze, Vorgärten und Grünflächen.
 
 ## 3. Baubegriffe und Messweisen
 
@@ -763,11 +763,11 @@ AZ = ∑aGF / aGSF
 
 #### § 49a
 
-**Solaranlagen (Art. 18a RPG[^49a-1] und 32a RPV[^49a-2])**
+**Solaranlagen (Art. 18a RPG[^49a-1], Art. 32a und 32a<sup>bis</sup> RPV[^49a-2])**
 
 <sup>1</sup> Solaranlagen auf Gebäuden in Industrie-, Arbeits- und Gewerbezonen sind baubewilligungsfrei, auch wenn sie auf Schrägdächern bei paralleler Anordnung zur Dachfläche diese im rechten Winkel um mehr als 20 cm und auf Flachdächern die Dachrandkante um mehr als 1 m überragen. Die übrigen Voraussetzungen der Bundesgesetzgebung an die genügende Anpassung gelten unverändert.
 
-<sup>2</sup> Solaranlagen auf Gebäuden unter Substanzschutz oder in Zonen mit erhöhten Anforderungen an das Orts- und Landschaftsbild, namentlich Weilerzonen mit Ortsbild von nationaler Bedeutung, Dorf-, Altstadt- oder Kernzonen, bedürfen einer Baubewilligung.
+<sup>2</sup> Solaranlagen auf oder an Gebäuden unter Substanzschutz oder in Zonen mit erhöhten Anforderungen an das Orts- und Landschaftsbild, namentlich Weilerzonen mit Ortsbild von nationaler Bedeutung, Dorf-, Altstadt- oder Kernzonen, bedürfen einer Baubewilligung.
 
 <sup>3</sup> Die Bauherrschaft meldet ihr Vorhaben dem Gemeinderat über die kantonale Plattform[^49a-3]. Bei Baubewilligungspflicht hat diese Meldung zusätzlich zur Einreichung des Baugesuchs zu erfolgen.
 
