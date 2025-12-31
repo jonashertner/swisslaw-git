@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 20. Juli 2009 über Sicherheitsmassnahmen im Luft
 short: VSL
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/463"
 language: de
-version: 2016-05-15
+version: 2026-01-01
 adopted: 2009-07-20
 in_force: 2009-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/463/20160515/de/xml/fedlex-data-admin-ch-eli-cc-2009-463-20160515-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20160515/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/463/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2009-463-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,19 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20160515/de"
 
 (VSL)
 
-vom 20. Juli 2009 (Stand am 15. Mai 2016)
+vom 20. Juli 2009 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK), im Einvernehmen mit dem Eidgenössischen Justiz- und Polizeidepartement,
 
-gestützt auf die Artikel 122*a* Absatz 4, 122*b* Absatz 1, 122*c* Absatz 1 und 122*d* der Luftfahrtverordnung vom 14. November 1973[^ingress-1] (LFV), in Ausführung der Verordnung (EG) Nr. 300/2008 und der Durchführungsverordnungen (EU) 2015/1998[^ingress-2] und (EU) Nr. 1035/2011[^ingress-3] in der für die Schweiz jeweils verbindlichen Fassung gemäss den Ziffern 4 und 5 des Anhangs zum Abkommen vom 21. Juni 1999[^ingress-4] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr,[^ingress-5]
+gestützt auf die Artikel 122*a* Absatz 4, 122*b* Absatz 1, 122*c* Absatz 1 und 122*d* der Luftfahrtverordnung vom 14. November 1973[^ingress-1] (LFV), in Ausführung der Verordnung (EG) Nr. 300/2008[^ingress-2], der Durchführungsverordnung (EU) 2015/1998[^ingress-3] und der Durchführungsverordnung (EU) 2017/373[^ingress-4],[^ingress-5]
 
 verordnet:
 
-[^ingress-1]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^ingress-2]: Ausdruck gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)). Die Änd. wurde im ganzen Text vorgenommen.
-[^ingress-3]: Ausdruck gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)). Die Änd. wurde im ganzen Text vorgenommen.
-[^ingress-4]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-5]: Fassung gemäss Ziff. I der V des UVEK vom 16. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^ingress-1]: [SR 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
+[^ingress-2]: Verordnung (EG) Nr. 300/2008 des Europäischen Parlaments und des Rates vom 11. März 2008 über gemeinsame Vorschriften für die Sicherheit in der Zivilluftfahrt und zur Aufhebung der Verordnung (EG) Nr. 2320/2002, in der Fassung, die für die Schweiz gemäss Ziff. 4 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)) verbindlich ist.
+[^ingress-3]: Durchführungsverordnung (EU) 2015/1998 der Kommission vom 5. November 2015 zur Festlegung detaillierter Massnahmen für die Durchführung der gemeinsamen Grundstandards für die Luftsicherheit, in der Fassung, die für die Schweiz gemäss Ziff. 4 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)) verbindlich ist.
+[^ingress-4]: Durchführungsverordnung (EU) 2017/373 der Kommission vom 1. März 2017 zur Festlegung gemeinsamer Anforderungen an Flugverkehrsmanagementanbieter und Anbieter von Flugsicherungsdiensten sowie sonstiger Funktionen des Flugverkehrsmanagementnetzes und die Aufsicht hierüber sowie zur Aufhebung der Verordnung (EG) Nr. 482/2008, der Durchführungsverordnungen (EU) Nr. 1034/2011, (EU) Nr. 1035/2011 und (EU) 2016/1377 und zur Änderung der Verordnung (EU) Nr. 677/2011, in der Fassung, die für die Schweiz gemäss Ziff. 5 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)) verbindlich ist.
+[^ingress-5]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## 1. Abschnitt: Geltungsbereich und anwendbares Recht
 
@@ -37,24 +37,25 @@ verordnet:
 
 <sup>1</sup>
 
-Diese Verordnung regelt für die Sicherheitsmassnahmen im Luftverkehr nach der Verordnung (EG) Nr. 300/2008 in Verbindung mit der Durchführungsverordnung (EU) 2015/1998 sowie nach der Durchführungsverordnung (EU) Nr. 1035/2011 und den Artikeln 122*a*–122*d* LFV:[^1-1]
+Diese Verordnung regelt für die Sicherheitsmassnahmen im Luftverkehr nach der Verordnung (EG) Nr. 300/2008 in Verbindung mit der Durchführungsverordnung (EU) 2015/1998 sowie nach der Durchführungsverordnung (EU) 2017/373 und den Artikeln 122*a*–122*d* LFV:[^1-1]
 
 - a. die Aufgaben des Bundesamtes für Zivilluftfahrt (BAZL) und des Nationalen Sicherheitsausschusses Luftfahrt;
 - b. die Anforderungen an die Sicherheitsprogramme der Flughafenhalter und der Luftverkehrsunternehmen;
 - b<sup>bis</sup>.[^1-2] die Anforderungen an das durch die Erbringer von Flugsicherungsdiensten zu führende System zur Gefahrenabwehr;
 - c.[^1-3] die Zulassung durch das BAZL;
-- d. die Aufgaben der unabhängigen Prüfstellen;
-- d<sup>bis</sup>.[^1-4] die Aufgaben der externen Schulungsanbieter für die Ausbildung von Sicherheitsverantwortlichen oder von Ausbildnerinnen und Ausbildnern;
+- d.[^1-4] die Aufgaben der unabhängigen Prüfstelle;
+- d<sup>bis</sup>.[^1-5] die Aufgaben des externen Schulungsanbieters;
 - e. die Massnahmen bei besonderer Bedrohung;
 - f. die Finanzierung der Massnahmen;
 - g. die erleichterten Massnahmen für bestimmte Flughafenhalter und Luftverkehrsunternehmen.
 
 <sup>2</sup> Das Flugfeld St. Gallen-Altenrhein gilt im Rahmen dieser Verordnung als Flughafen.
 
-[^1-1]: Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^1-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 [^1-2]: Eingefügt durch Ziff. I der V des UVEK vom 16. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 [^1-3]: Fassung gemäss Ziff. I der V des UVEK vom 16. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^1-4]: Eingefügt durch Ziff. I der V des UVEK vom 16. Okt. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^1-4]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^1-5]: Eingefügt durch Ziff. I der V des UVEK vom 16. Okt. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## 2. Abschnitt: Zuständige Behörde und Nationaler Sicherheitsausschuss Luftfahrt
 
@@ -167,11 +168,11 @@ Das Luftverkehrsunternehmen muss in sein Sicherheitsprogramm nach Artikel 13 der
 
 **Erbringer von Flugsicherungsdiensten**[^5a-1]
 
-<sup>1</sup> Die Massnahmen zum Schutz vor Angriffen auf die Sicherheit des Luftverkehrs nach Anhang I der Durchführungsverordnung (EU) Nr. 1035/2011 sind Sache des Erbringers von Flugsicherungsdiensten.
+<sup>1</sup> Die Massnahmen zum Schutz vor Angriffen auf die Sicherheit des Luftverkehrs nach Anhang III der Durchführungsverordnung (EU) 2017/373 sind Sache des Erbringers von Flugsicherungsdiensten.[^5a-2]
 
 <sup>2</sup>
 
-Der Erbringer von Flugsicherungsdiensten muss in sein System zur Gefahrenabwehr nach Anhang I Ziffer 4 der Durchführungsverordnung (EU) Nr. 1035/2011 mindestens aufnehmen:
+Der Erbringer von Flugsicherungsdiensten muss in sein System zur Gefahrenabwehr nach Anhang III Teilabschnitt D Punkt ATM/ANS.OR.D.010 der Durchführungsverordnung (EU) 2017/373 mindestens aufnehmen:[^5a-3]
 
 - a. ein Organigramm seiner internen Sicherheitsorganisation mit der Bezeichnung von Aufgaben und Verantwortlichkeiten;
 - b. eine Beschreibung der angewendeten Verfahren für den Schutz seiner Einrichtungen, seines Personals und seiner Daten;
@@ -184,6 +185,8 @@ Der Erbringer von Flugsicherungsdiensten muss in sein System zur Gefahrenabwehr 
 <sup>3</sup> Der Erbringer von Flugsicherungsdiensten gewährleistet, dass sämtliches Personal, das Zugang zu kritischen Einrichtungen, Anlagen oder Systemen hat, sicherheitsüberprüft ist.
 
 [^5a-1]: Eingefügt durch Ziff. I der V des UVEK vom 16. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^5a-2]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^5a-3]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## 4. Abschnitt: Zulassung
 
@@ -193,30 +196,43 @@ Der Erbringer von Flugsicherungsdiensten muss in sein System zur Gefahrenabwehr 
 
 #### Art. 6
 
+[^6-1]
+
 Das BAZL ist zuständig für die Zulassung von:
 
-- a. reglementierten Beauftragten von Fracht oder Post nach Artikel 3 Absatz 26 der Verordnung (EG) Nr. 300/2008 (Ziff. 6.3.1 des Anhangs der Durchführungsverordnung (EU) 2015/1998;
-- b. bekannten Versendern von Fracht oder Post nach Artikel 3 Absatz 27 der Verordnung (EG) Nr. 300/2008 (Ziff. 6.4.1 des Anhangs der Durchführungsverordnung (EU) 2015/1998;
-- c. reglementierten oder bekannten Lieferanten von Bordvorräten nach Ziffer 8.0.2 des Anhangs der Durchführungsverordnung (EU) 2015/1998 (Ziff. 8.1.3 des Anhangs der Durchführungsverordnung (EU) 2015/1998);
-- d. unabhängigen Prüfstellen nach Artikel 7;
-- e. externen Schulungsanbietern nach Artikel 9*a*;
-- f.[^6-1] Personen, die Röntgen- oder EDS-Ausrüstungen bedienen (Ziff. 11.3.2 des Anhangs der Durchführungsverordnung (EU) 2015/1998);
-- g.[^6-2] Ausbildnerinnen und Ausbildnern (Ziff. 11.5.1 des Anhangs der Durchführungsverordnung (EU) 2015/1998).
+- a. reglementierten Beauftragten von Fracht oder Post nach Artikel 3 Absatz 26 der Verordnung (EG) Nr. 300/2008 (Ziff. 6.3.1 des Anhangs der Durchführungsverordnung (EU) 2015/1998);
+- b. bekannten Versendern von Fracht oder Post nach Artikel 3 Absatz 27 der Verordnung (EG) Nr. 300/2008 (Ziff. 6.4.1 des Anhangs der Durchführungsverordnung (EU) 2015/1998);
+- c. reglementierten oder bekannten Lieferanten von Bordvorräten nach Ziffer 8.0.2 des Anhangs der Durchführungsverordnung (EU) 2015/1998 (Ziff. 8.1.3 und 8.1.4 des Anhangs der Durchführungsverordnung (EU) 2015/1998);
+- d. Transporteuren nach Ziffer 6.5.1 des Anhangs der Durchführungsverordnung (EU) 2015/1998 als zugelassene Transporteure;
+- e. unabhängigen Prüfstellen nach Artikel 7;
+- f. externen Schulungsanbietern nach Artikel 9*a*;
+- g. Personen, die Röntgen- oder EDS-Ausrüstungen bedienen (Ziff. 11.3.1 Bst. b des Anhangs der Durchführungsverordnung (EU) 2015/1998);
+- h. Ausbilderinnen und Ausbildern (Ziff. 11.5.1 des Anhangs der Durchführungsverordnung (EU) 2015/1998);
+- i. beauftragten Personen der unabhängigen Prüfstelle nach Artikel 9 Buchstaben a und b;
+- j. Personen, die Fracht und Post kontrollieren (Durchsuchungen von Hand) nach Ziff. 11.2.3.2 des Anhangs der Durchführungsverordnung (EU) 2015/1998.
 
-[^6-1]: Eingefügt durch Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^6-2]: Eingefügt durch Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^6-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
-## 5. Abschnitt: Unabhängige Prüfstellen
+## 5. Abschnitt: Unabhängige Prüfstelle
 
 [^sec5-1]
 
-[^sec5-1]: Fassung gemäss Ziff. I der V des UVEK vom 16. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^sec5-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 #### Art. 7
 
 **Beauftragung**
 
-Das BAZL kann unabhängige Prüfstellen mit Überprüfungs- und Ausbildungsaufgaben beauftragen.
+<sup>1</sup>
+
+Das BAZL kann eine unabhängige Prüfstelle mit Überprüfungsaufgaben bei folgenden Entitäten beauftragen:
+
+- a. reglementierten Beauftragten von Fracht oder Post nach Artikel 6 Buchstabe a;
+- b. bekannten Versendern von Fracht oder Post nach Artikel 6 Buchstabe b;
+- c. reglementierten und bekannten Lieferanten von Bordvorräten nach Artikel 6 Buchstabe c;
+- d. zugelassenen Transporteuren nach Artikel 6 Buchstabe d.
+
+<sup>2</sup> Zur Gewährleistung der Luftsicherheit kann das BAZL gleichzeitig mehrere unabhängige Prüfstellen beauftragen.
 
 #### Art. 8
 
@@ -224,51 +240,48 @@ Das BAZL kann unabhängige Prüfstellen mit Überprüfungs- und Ausbildungsaufga
 
 <sup>1</sup>
 
-Die unabhängigen Prüfstellen haben die folgenden Aufgaben:
+Die unabhängige Prüfstelle hat die folgenden Aufgaben:
 
-- a.[^8-1] Sie überprüfen die relevanten Anforderungen und erstellen darüber Berichte zuhanden des BAZL.
-- b. Sie überprüfen und begutachten zuhanden des BAZL die Sicherheitsprogramme.
-- c. Sie stellen dem BAZL Antrag auf Zulassung der geprüften Stelle.
+- a. Sie überprüft die relevanten Anforderungen an Entitäten und erstellt darüber Berichte zuhanden des BAZL.
+- b. Sie überprüft und begutachtet zuhanden des BAZL die Sicherheitsprogramme von Entitäten.
+- c. Sie stellt dem BAZL Antrag auf Zulassung der geprüften Entitäten.
+- d. Sie stellt den geprüften Entitäten nach deren Zulassung durch das BAZL auf Anfrage derselben eine Zulassungsbestätigung aus.
 
-<sup>2</sup> Sie unterstehen der Aufsicht des BAZL.
+<sup>2</sup> Sie untersteht der Aufsicht des BAZL.
 
 <sup>3</sup>
 
-Das BAZL beauftragt nur Prüfstellen, die:
+Das BAZL beauftragt nur eine Prüfstelle, die:
 
-- a. als Prüfstelle der bekannten Versender unabhängig sind von reglementierten Beauftragten und bekannten Versendern;
-- b.[^8-2] als Prüfstelle der bekannten Lieferanten von Bordvorräten oder Flughafenlieferungen unabhängig sind von den bekannten und den reglementierten Lieferanten von Bordvorräten oder Flughafenlieferungen;
-- c. mit ihrer Prüftätigkeit die ganze Schweiz zu einheitlichen Preisen abdecken;
-- d. über Personal mit ausreichender Ausbildung und Erfahrung in den relevanten Bereichen der Luftsicherheit verfügen;
-- e. über mindestens eine Inspektionsleiterin oder einen Inspektionsleiter verfügen.
-
-[^8-1]: Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^8-2]: Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+- a. unabhängig ist von allen zu überprüfenden Entitäten;
+- b. mit ihrer Prüftätigkeit die ganze Schweiz zu einheitlichen Preisen abdeckt;
+- c. über Personal mit ausreichender Ausbildung und Erfahrung in den relevanten Bereichen der Luftsicherheit verfügt;
+- d. über mindestens eine Inspektionsleiterin oder einen Inspektionsleiter verfügt.
 
 #### Art. 9
 
 **Aufgaben der Inspektionsleiterinnen und -leiter**
 
-Die Inspektionsleiterin oder der Inspektionsleiter trägt die Gesamtverantwortung für sämtliche Tätigkeiten der unabhängigen Prüfstelle. Sie oder er muss insbesondere:
+Die Inspektionsleiterin oder der Inspektionsleiter trägt die Gesamtverantwortung für sämtliche Tätigkeiten der unabhängigen Prüfstelle. Sie oder er ist Ansprechperson für das BAZL und muss insbesondere:
 
-- a. die mit der Prüfung beauftragten Personen der unabhängigen Prüfstelle ausbilden und beaufsichtigen;
-- b. die Sicherheitsverantwortliche oder den Sicherheitsverantwortlichen der zu überprüfenden Stelle ausbilden oder durch geeignete Personen ausbilden lassen;
-- c. überprüfen, ob die zu überprüfende Stelle die Vorschriften einhält;
-- d. kontrollieren, dass die Vorgaben des BAZL für die Inspektionen bei den zu überprüfenden Stellen eingehalten werden.
+- a. die mit der Prüfung beauftragten Personen der unabhängigen Prüfstelle auswählen, ausbilden und beaufsichtigen;
+- b. dem BAZL Antrag auf Zulassung der beauftragten Personen stellen;
+- c. kontrollieren, ob die zu überprüfende Entität die Vorschriften einhält;
+- d. kontrollieren, ob die Vorgaben des BAZL für die Überprüfungsaufgaben bei den Entitäten eingehalten werden.
 
-## 5*a*. Abschnitt: Externe Schulungsanbieter
+## 5*a*. Abschnitt: Externer Schulungsanbieter
 
 [^sec5a-1]
 
-[^sec5a-1]: Eingefügt durch Ziff. I der V des UVEK vom 16. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^sec5a-1]: Eingefügt durch Ziff. I der V des UVEK vom 16. Okt. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 #### Art. 9a
 
-**Beauftragung**[^9a-1]
+**Beauftragung**
 
-Das BAZL kann externe Schulungsanbieter mit der Ausbildung von Sicherheitsverantwortlichen (Ziff. 11.2.5 des Anhangs der Durchführungsverordnung (EU) 2015/1998) oder von Ausbildnerinnen und Ausbildnern beauftragen.
+<sup>1</sup> Das BAZL kann einen externen Schulungsanbieter mit der Ausbildung von Sicherheitsverantwortlichen der Entitäten sowie von Instruktorinnen und Instruktoren beauftragen.
 
-[^9a-1]: Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+<sup>2</sup> Zur Gewährleistung der Luftsicherheit kann das BAZL gleichzeitig mehrere externe Schulungsanbieter beauftragen.
 
 #### Art. 9b
 
@@ -276,31 +289,45 @@ Das BAZL kann externe Schulungsanbieter mit der Ausbildung von Sicherheitsverant
 
 <sup>1</sup>
 
-Die externen Schulungsanbieter können insbesondere folgende Aufgaben haben:
+Der externe Schulungsanbieter kann insbesondere folgende Aufgaben haben:
 
-- a. Sie erstellen eigene Schulungsunterlagen für die Ausbildung von Sicherheitsverantwortlichen oder von Ausbildnerinnen und Ausbildnern und reichen diese dem BAZL zur Genehmigung ein.
-- b. Sie unterrichten die Sicherheitsverantwortlichen oder die Ausbildnerinnen Ausbildner nach den Vorgaben des BAZL.
-- c. Sie prüfen die Sicherheitsverantwortlichen oder die Ausbildnerinnen und Ausbildner nach abgeschlossener Schulung.
-- d. Sie stellen dem BAZL Antrag auf Zulassung der Sicherheitsverantwortlichen von reglementierten Beauftragten von Fracht oder Post oder von Ausbildnerinnen und Ausbildnern.[^9b-1]
+- a. Er erstellt eigene Schulungsunterlagen für die Ausbildung von Sicherheitsverantwortlichen und weiteren Mitarbeitenden der Entitäten nach den Vorgaben des BAZL und reicht diese dem BAZL zur Genehmigung ein.
+- b. Er unterrichtet die Sicherheitsverantwortlichen und die weiteren Mitarbeitenden der Entitäten nach den Vorgaben des BAZL.
+- c. Er prüft die Sicherheitsverantwortlichen und die weiteren vom BAZL für die Schulung bestimmten Mitarbeitenden der Entitäten nach abgeschlossener Schulung.
+- d. Er stellt dem BAZL Antrag auf Zulassung der Instruktorinnen und Instruktoren.
+- e. Er stellt den Personen gemäss Artikel 6 Buchstabe j nach deren Zulassung durch das BAZL auf Anfrage derselben eine Zulassungsbestätigung aus.
 
-<sup>2</sup> Sie unterstehen der Aufsicht des BAZL.
+<sup>2</sup> Er untersteht der Aufsicht des BAZL.
 
 <sup>3</sup>
 
-Das BAZL beauftragt nur Schulungsanbieter, die:
+Das BAZL beauftragt nur einen Schulungsanbieter, der:
 
-- a. über Kompetenzen in der Durchführung und Organisation von Schulungen verfügen;
-- b. mit ihrer Schulungstätigkeit die ganze Schweiz zu einheitlichen Preisen abdecken.
+- a. unabhängig ist von allen Entitäten und nicht selber unabhängige Prüfstelle ist;
+- b. über Kompetenzen in der Durchführung und Organisation von Schulungen verfügt;
+- c. mit seiner Schulungstätigkeit die ganze Schweiz zu einheitlichen Preisen abdeckt;
+- d. über Personal mit ausreichender Ausbildung und Erfahrung in den relevanten Bereichen der Luftsicherheit verfügt;
+- e. über mindestens eine Ausbildungsverantwortliche oder einen Ausbildungsverantwortlichen verfügt.
 
-<sup>4</sup>
+#### Art. 9c
+
+**Aufgaben und Anforderungen der Ausbildungsverantwortlichen und der Instruktorinnen und Instruktoren**
+
+<sup>1</sup>
+
+Die oder der Ausbildungsverantwortliche trägt die Gesamtverantwortung für sämtliche Tätigkeiten des externen Schulungsanbieters. Sie oder er ist Ansprechperson für das BAZL und muss insbesondere:
+
+- a. die Instruktorinnen und Instruktoren des externen Schulungsanbieters auswählen, ausbilden und beaufsichtigen;
+- b. dem BAZL Antrag auf Zulassung der Instruktorinnen und Instruktoren stellen;
+- c. kontrollieren, dass die Vorgaben des BAZL für die Schulungsaufgaben eingehalten werden.
+
+<sup>2</sup>
 
 Die mit der Schulung beauftragten Instruktorinnen und Instruktoren müssen:
 
 - a. über Kompetenzen in den relevanten Bereichen der Luftsicherheit verfügen;
 - b. über Qualifikationen und Kompetenzen im Bereich der Schulungstechniken verfügen;
-- c. einen Instruktorenkurs des BAZL mit anschliessender Prüfung erfolgreich absolviert haben oder über einen gleichwertigen Zertifizierungsnachweis verfügen.
-
-[^9b-1]: Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+- c. über eine Zulassung des BAZL verfügen.
 
 ## 6. Abschnitt: Massnahmen bei besonderer Bedrohung
 
@@ -369,23 +396,25 @@ Nach Artikel 91 Absatz 1 Buchstabe i des Luftfahrtgesetzes vom 21. Dezember 1948
 
 - a.
 
-  als Mitarbeiterin oder Mitarbeiter eines Flughafenhalters, eines Luftverkehrsunternehmens, eines von einem Flughafenhalter oder einem Luftverkehrsunternehmen beauftragten Drittunternehmens, eines Erbringers von Flugsicherungsdiensten, eines reglementierten Beauftragten, eines bekannten oder geschäftlichen Versenders von Fracht oder Post, eines reglementierten oder bekannten Lieferanten von Bordvorräten, eines bekannten Lieferanten von Flughafenlieferungen, einer unabhängigen Prüfstelle oder eines externen Schulungsanbieters:[^13a-3]
+  als Mitarbeiterin oder Mitarbeiter eines Flughafenhalters, eines Luftverkehrsunternehmens, eines von einem Flughafenhalter oder einem Luftverkehrsunternehmen beauftragten Drittunternehmens, eines Erbringers von Flugsicherungsdiensten, eines reglementierten Beauftragten, eines bekannten Versenders von Fracht oder Post, eines reglementierten oder bekannten Lieferanten von Bordvorräten, eines zugelassenen Transporteurs, einer unabhängigen Prüfstelle oder eines externen Schulungsanbieters:[^13a-3]
 
   - 1\. eine Pflicht nach den Artikeln 4 Absatz 2, 5 Absatz 2, 5*a* Absatz 2, 8 Absatz 1 Buchstabe a, 9, 12 oder 13 Absatz 1 verletzt,
   - 2\. eine Pflicht zur Durchführung von Sicherheitskontrollen verletzt,
-  - 3\. eine Pflicht zum Schutz oder zur Überwachung von gesicherten Passagieren, gesichertem Handgepäck, aufgegebenem Gepäck, Fracht oder Postsendungen, Bordvorräten, Flughafenlieferungen oder Luftfahrzeugen verletzt,
-  - 4\.[^13a-4] eine Pflicht, Personal auszubilden, missachtet,
-  - 4<sup>bis</sup>.[^13a-5] eine Pflicht, nur ausgebildetes und, wo erforderlich, zertifiziertes Personal einzusetzen, missachtet,
-  - 5\. eine Pflicht zur Durchführung von Qualitätskontrollen oder Nachführung von Sicherheitsprogrammen verletzt,
+  - 3\.[^13a-4] eine Pflicht zum Schutz oder zur Überwachung von gesicherten Passagieren, gesichertem Handgepäck, aufgegebenem Gepäck, Fracht oder Postsendungen, Bordvorräten oder Luftfahrzeugen verletzt,
+  - 4\.[^13a-5] eine Pflicht, Personal auszubilden, missachtet,
+  - 4<sup>bis</sup>.[^13a-6] eine Pflicht, nur ausgebildetes und, wo erforderlich, zertifiziertes Personal einzusetzen, missachtet,
+  - 5\.[^13a-7] eine Pflicht zur Durchführung von Qualitätskontrollen verletzt,
   - 6\. eine Pflicht zur Meldung von sicherheitsrelevanten Vorfällen verletzt;
 
 - b. ohne Zulassung eine Tätigkeit ausübt, für die gemäss Artikel 6 eine Zulassung erforderlich ist.
 
 [^13a-1]: Fassung gemäss Ziff. I der V des UVEK vom 16. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^13a-2]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^13a-3]: Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^13a-4]: Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^13a-5]: Eingefügt durch Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-2]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^13a-3]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^13a-4]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^13a-5]: Fassung gemäss Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-6]: Eingefügt durch Ziff. I der V des UVEK vom 20. April 2016, in Kraft seit 15. Mai 2016 ([AS 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-7]: Fassung gemäss Ziff. I der V des UVEK vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## 9. Abschnitt: Schlussbestimmungen
 
@@ -395,7 +424,7 @@ Nach Artikel 91 Absatz 1 Buchstabe i des Luftfahrtgesetzes vom 21. Dezember 1948
 
 Die Verordnung des UVEK vom 31. März 1993[^14-1] über Sicherheitsmassnahmen im Luftverkehr wird aufgehoben.
 
-[^14-1]: [[AS 1993 1382](https://fedlex.data.admin.ch/eli/oc/1993/1382_1382_1382), [1999 2458](https://fedlex.data.admin.ch/eli/oc/1999/378), [2005 663](https://fedlex.data.admin.ch/eli/oc/2005/69)[1021](https://fedlex.data.admin.ch/eli/oc/2005/122)]
+[^14-1]: [[AS 1993 1382](https://fedlex.data.admin.ch/eli/oc/1993/1382_1382_1382); [1999 2458](https://fedlex.data.admin.ch/eli/oc/1999/378); [2005 663](https://fedlex.data.admin.ch/eli/oc/2005/69), [1021](https://fedlex.data.admin.ch/eli/oc/2005/122)]
 
 #### Art. 15
 

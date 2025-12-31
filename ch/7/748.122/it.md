@@ -4,11 +4,11 @@ title: "Ordinanza del DATEC del 20 luglio 2009 sulle misure di sicurezza nell'av
 short: OMSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/463"
 language: it
-version: 2016-05-15
+version: 2026-01-01
 adopted: 2009-07-20
 in_force: 2009-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/463/20160515/it/xml/fedlex-data-admin-ch-eli-cc-2009-463-20160515-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20160515/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/463/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2009-463-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,19 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20160515/it"
 
 (OMSA)
 
-del 20 luglio 2009 (Stato 15 maggio 2016)
+del 20 luglio 2009 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC), d’intesa con il Dipartimento federale di giustizia e polizia,
 
-visti gli articoli 122*a* capoverso 4, 122*b* capoverso 1, 122*c* capoverso 1 e 122*d* dell’ordinanza del 14 novembre 1973[^ingress-1] sulla navigazione aerea (ONA); in esecuzione del regolamento (CE) n. 300/2008, e dei regolamenti di esecuzione (UE) 2015/1998[^ingress-2] e (UE) n. 1035/2011[^ingress-3] nelle versioni vincolanti per la Svizzera conformemente ai numeri 4 e 5 dell’allegato all’Accordo del 21 giugno 1999[^ingress-4] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo,[^ingress-5]
+visti gli articoli 122*a* capoverso 4, 122*b* capoverso 1, 122*c* capoverso 1 e 122*d* dell’ordinanza del 14 novembre 1973[^ingress-1] sulla navigazione aerea (ONA); in esecuzione del regolamento (CE) n. 300/2008[^ingress-2], del regolamento di esecuzione (UE) 2015/1998[^ingress-3] e del regolamento di esecuzione (UE) 2017/373[^ingress-4],[^ingress-5]
 
 ordina:
 
-[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^ingress-2]: Nuova espessione giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)). Di detta mod. è stato tenuto conto in tutto il presente testo.
-[^ingress-3]: Nuova espessione giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)). Di detta mod. è stato tenuto conto in tutto il presente testo.
-[^ingress-4]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
+[^ingress-2]: Regolamento (CE) n. 300/2008 del Parlamento europeo e del Consiglio, dell’11 marzo 2008, che istituisce norme comuni per la sicurezza dell’aviazione civile e che abroga il regolamento (CE) n. 2320/2002, nella versione vincolante per la Svizzera in virtù del numero 4 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-3]: Regolamento di esecuzione (UE) 2015/1998 della Commissione, del 5 novembre 2015, che stabilisce disposizioni particolareggiate per l’attuazione delle norme fondamentali comuni sulla sicurezza aerea, nella versione vincolante per la Svizzera in virtù del numero 4 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-4]: Regolamento di esecuzione (UE) 2017/373 della Commissione, del 1° marzo 2017, che stabilisce i requisiti comuni per i fornitori di servizi di gestione del traffico aereo e di navigazione aerea e di altre funzioni della rete di gestione del traffico aereo e per la loro sorveglianza, che abroga il regolamento (CE) n. 482/2008 e i regolamenti di esecuzione (UE) n. 1034/2011, (UE) n. 1035/2011 e (UE) 2016/1377 e che modifica il regolamento (UE) n. 677/2011, nella versione vincolante per la Svizzera in virtù del numero 5 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## Sezione 1: Campo d’applicazione e diritto applicabile
 
@@ -37,24 +37,25 @@ ordina:
 
 <sup>1</sup>
 
-La presente ordinanza disciplina, per le misure di sicurezza nell’aviazione secondo il regolamento (CE) n. 300/2008 in combinato disposto con il regolamento di esecuzione (UE) 2015/1998 e secondo il regolamento di esecuzione (UE) n. 1035/2011 e gli articoli 122*a*–122*d* ONA:[^1-1]
+La presente ordinanza disciplina, per le misure di sicurezza nell’aviazione secondo il regolamento (CE) n. 300/2008 in combinato disposto con il regolamento di esecuzione (UE) 2015/1998 e secondo il regolamento di esecuzione (UE) 2017/373 e gli articoli 122*a*–122*d* ONA:[^1-1]
 
 - a. i compiti dell’Ufficio federale dell’aviazione civile (UFAC) e del comitato nazionale di sicurezza nell’aviazione;
 - b. i requisiti per i programmi di sicurezza degli esercenti di aeroporto e delle imprese di trasporto aereo;
 - b<sup>bis</sup>.[^1-2] i requisiti per il sistema di gestione della sicurezza dei fornitori di servizi della sicurezza aerea;
 - c.[^1-3] l’autorizzazione da parte dell’UFAC;
-- d. i compiti degli organismi di controllo indipendenti;
-- d<sup>bis</sup>.[^1-4] i compiti degli organismi di formazione esterni in relazione alla formazione dei responsabili della sicurezza o degli istruttori;
+- d.[^1-4] i compiti dell’organismo di controllo indipendente;
+- d<sup>bis</sup>.[^1-5] i compiti dell’organismo di formazione esterno;
 - e. le misure in caso di particolare minaccia;
 - f. il finanziamento delle misure;
 - g. le misure agevolate per determinati esercenti di aeroporto e imprese di trasporto aereo.
 
 <sup>2</sup> Nell’ambito della presente ordinanza il campo d’aviazione di San Gallo-Altenrhein viene considerato un aeroporto.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^1-2]: Introdotta dal n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^1-3]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^1-4]: Introdotta dal n. I dell’O del DATEC del 16 ott. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^1-2]: Introdotta dalla cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^1-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^1-5]: Introdotta dalla cifra I dell’O del DATEC del 16 ott. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## Sezione 2: Autorità competente e comitato nazionale di sicurezza nell’aviazione
 
@@ -64,7 +65,7 @@ La presente ordinanza disciplina, per le misure di sicurezza nell’aviazione se
 
 L’UFAC è l’autorità competente per il coordinamento e il monitoraggio dell’attuazione del programma nazionale di sicurezza nell’aviazione ai sensi dell’articolo 9 del regolamento (CE) n. 300/2008.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 
 #### Art. 3
 
@@ -101,15 +102,15 @@ Il comitato è composto di rappresentanti:
 
 <sup>5</sup> Il comitato si riunisce almeno una volta all’anno.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^3-2]: Introdotta dal n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^3-2]: Introdotta dalla cifra I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 
 ## Sezione 3: Obblighi degli esercenti di aeroporto, delle imprese di trasporto aereo e dei fornitori di servizi della sicurezza aerea
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 
 #### Art. 4
 
@@ -133,12 +134,12 @@ Conformemente all’articolo 12 del regolamento (CE) n. 300/2008 e all’articol
 
 <sup>3</sup> L’esercente dell’aeroporto garantisce che tutto il personale attivo nell’area di sicurezza sia dotato di nullaosta di sicurezza.[^4-6]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^4-4]: Introdotta dal n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^4-5]: Introdotta dal n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^4-6]: Introdotto dal n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^4-4]: Introdotta dalla cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^4-5]: Introdotta dalla cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^4-6]: Introdotto dalla cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 
 #### Art. 5
 
@@ -157,21 +158,21 @@ Conformemente all’articolo 13 del regolamento (CE) n. 300/2008 e all’articol
 - e. un programma di formazione per le persone incaricate di effettuare i controlli di sicurezza;
 - f.[^5-5] una procedura per la notifica, entro il termine indicato, degli eventi rilevanti per la sicurezza all’autorità competente conformemente al programma nazionale di sicurezza nell’aviazione.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^5-4]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^5-5]: Introdotta dal n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^5-5]: Introdotta dalla cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 
 #### Art. 5a
 
 **Fornitori di servizi della sicurezza aerea**[^5a-1]
 
-<sup>1</sup> Le misure di sicurezza volte a proteggere da minacce alla sicurezza degli aeromobili secondo l’allegato I al regolamento di esecuzione (UE) n. 1035/2011 sono di competenza del fornitore di servizi della sicurezza aerea.
+<sup>1</sup> Le misure di sicurezza volte a proteggere da minacce alla sicurezza degli aeromobili secondo l’allegato III al regolamento di esecuzione (UE) 2017/373 sono di competenza del fornitore di servizi della sicurezza aerea.[^5a-2]
 
 <sup>2</sup>
 
-Conformemente al numero 4 dell’allegato 1 al regolamento di esecuzione (UE) n. 1035/2011 un sistema di gestione della sicurezza del fornitore di servizi della sicurezza aerea prevede almeno:
+Conformemente alla sottoparte D punto ATM/ANS.OR.D.010 dell’allegato III al regolamento di esecuzione (UE) 2017/373, un sistema di gestione della sicurezza del fornitore di servizi della sicurezza aerea prevede almeno:[^5a-3]
 
 - a. un organigramma dell’organizzazione di sicurezza interna in cui siano definiti compiti e responsabilità;
 - b. una descrizione delle procedure applicate per la sicurezza dei suoi impianti, del suo personale e dei suoi dati;
@@ -183,40 +184,55 @@ Conformemente al numero 4 dell’allegato 1 al regolamento di esecuzione (UE) n.
 
 <sup>3</sup> Il fornitore di servizi della sicurezza aerea garantisce che tutto il personale che ha accesso a impianti, opere o sistemi critici sia dotato di nullaosta di sicurezza.
 
-[^5a-1]: Introdotto dal n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^5a-1]: Introdotto dalla cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^5a-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^5a-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## Sezione 4: Autorizzazione
 
 [^sec4-1]
 
-[^sec4-1]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^sec4-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 
 #### Art. 6
+
+[^6-1]
 
 L’UFAC è competente per l’autorizzazione di:
 
 - a. agenti regolamentati per merci o posta ai sensi dell’articolo 3 paragrafo 26 del regolamento (CE) n. 300/2008 (n. 6.3.1 dell’all. al regolamento di esecuzione (UE) 2015/1998);
 - b. mittenti conosciuti di merci o di posta ai sensi dell’articolo 3 paragrafo 27 del regolamento (CE) n. 300/2008 (n. 6.4.1 dell’all. al regolamento di esecuzione (UE) 2015/1998);
-- c. fornitori regolamentati o conosciuti di provviste di bordo ai sensi del numero 8.0.2 dell’allegato al regolamento di esecuzione (UE) 2015/1998 (n. 8.1.3 dell’all. al regolamento di esecuzione (UE) 2015/1998);
-- d. organismi di controllo indipendenti conformemente all’articolo 7;
-- e. organismi di formazione esterni conformemente all’articolo 9*a*;
-- f.[^6-1] coloro che utilizzano apparecchiature a raggi X o sistemi per il rilevamento di esplosivi (sistemi EDS) (n. 11.3.2 dell’all. al regolamento di esecuzione (UE) 2015/1998);
-- g.[^6-2] istruttori (n. 11.5.1 dell’all. al regolamento di esecuzione (UE) 2015/1998).
+- c. fornitori regolamentati o conosciuti di provviste di bordo ai sensi del numero 8.0.2 dell’allegato al regolamento di esecuzione (UE) 2015/1998 (n. 8.1.3 e 8.1.4 dell’all. al regolamento di esecuzione (UE) 2015/1998);
+- d. trasportatori ai sensi del numero 6.5.1 dell’allegato al regolamento di esecuzione (UE) 2015/1998 come trasportatori autorizzati;
+- e. organismi di controllo indipendenti conformemente all’articolo 7;
+- f. organismi di formazione esterni conformemente all’articolo 9*a*;
+- g. coloro che utilizzano apparecchiature a raggi X o sistemi per il rilevamento di esplosivi (sistemi EDS) (n. 11.3.1 lett. b dell’all. al regolamento di esecuzione (UE) 2015/1998);
+- h. istruttori (n. 11.5.1 dell’all. al regolamento di esecuzione (UE) 2015/1998);
+- i. persone incaricate dell’organismo di controllo indipendente conformemente all’articolo 9 lettere a e b;
+- j. coloro che effettuano lo screening di merci e posta (ispezioni manuali) ai sensi del numero 11.2.3.2 dell’allegato al regolamento di esecuzione (UE) 2015/1998.
 
-[^6-1]: Introdotta dal n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^6-2]: Introdotta dal n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
-## Sezione 5: Organismi di controllo indipendenti
+## Sezione 5: Organismo di controllo indipendente
 
 [^sec5-1]
 
-[^sec5-1]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^sec5-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 #### Art. 7
 
 **Attribuzione dell’incarico**
 
-L’UFAC può incaricare organismi di controllo indipendenti di svolgere compiti di controllo e di formazione.
+<sup>1</sup>
+
+L’UFAC può incaricare un organismo di controllo indipendente di svolgere compiti di controllo presso le seguenti entità:
+
+- a. agenti regolamentati per merci o posta di cui all’articolo 6 lettera a;
+- b. mittenti conosciuti di merci o di posta di cui all’articolo 6 lettera b;
+- c. fornitori regolamentati e conosciuti di provviste di bordo di cui all’articolo 6 lettera c;
+- d. trasportatori autorizzati di cui all’articolo 6 lettera d.
+
+<sup>2</sup> L’UFAC può incaricare contemporaneamente diversi organismi di controllo indipendenti al fine di garantire la sicurezza aerea.
 
 #### Art. 8
 
@@ -224,51 +240,48 @@ L’UFAC può incaricare organismi di controllo indipendenti di svolgere compiti
 
 <sup>1</sup>
 
-Gli organismi di controllo indipendenti adempiono i seguenti compiti:
+L’organismo di controllo indipendente adempie i seguenti compiti:
 
-- a.[^8-1] verificano i requisiti applicabili e stilano rapporti sulle verifiche svolte all’attenzione dell’UFAC;
-- b. esaminano e sottopongono a perizia, all’attenzione dell’UFAC, i programmi di sicurezza;
-- c. presentano all’UFAC la richiesta di autorizzazione per l’organo controllato.
+- a. verifica i requisiti applicabili alle entità e stila rapporti sulle verifiche svolte all’attenzione dell’UFAC;
+- b. esamina e sottopone a perizia, all’attenzione dell’UFAC, i programmi di sicurezza delle entità;
+- c. presenta all’UFAC la richiesta di autorizzazione per le entità controllate;
+- d. rilascia alle entità controllate, su loro richiesta, una conferma della loro autorizzazione da parte dell’UFAC.
 
-<sup>2</sup> Gli organismi di controllo indipendenti sottostanno alla vigilanza dell’UFAC.
+<sup>2</sup> L’organismo di controllo indipendente sottostà alla vigilanza dell’UFAC.
 
 <sup>3</sup>
 
-L’UFAC incarica solo organismi di controllo che:
+L’UFAC incarica soltanto un organismo di controllo che:
 
-- a. in quanto organismi di controllo dei mittenti conosciuti sono indipendenti dagli agenti regolamentati e dai mittenti conosciuti;
-- b.[^8-2] in quanto organismi di controllo dei fornitori conosciuti di provviste di bordo o di forniture per l’aeroporto, sono indipendenti dai fornitori conosciuti e regolamentati di provviste di bordo o forniture per l’aeroporto;
-- c. svolgono la propria attività di controllo in tutta la Svizzera a tariffe unitarie;
-- d. dispongono di personale con sufficiente formazione ed esperienza nei settori rilevanti della sicurezza aerea;
-- e. dispongono di almeno un responsabile delle ispezioni.
-
-[^8-1]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+- a. è indipendente da tutte le entità da controllare;
+- b. svolge la propria attività di controllo in tutta la Svizzera a tariffe unitarie;
+- c. dispone di personale con sufficiente formazione ed esperienza nei settori rilevanti della sicurezza aerea;
+- d. dispone di almeno un responsabile dell’ispezione.
 
 #### Art. 9
 
 **Compiti del responsabile dell’ispezione**
 
-Il responsabile dell’ispezione ha la responsabilità generale di tutte le attività dell’organismo di controllo. In particolare:
+Il responsabile dell’ispezione ha la responsabilità generale di tutte le attività dell’organismo di controllo indipendente. È l’interlocutore per l’UFAC e in particolare:
 
-- a. forma e sorveglia le persone dell’organismo di controllo indipendente incaricato della verifica;
-- b. forma il responsabile della sicurezza dell’organo da controllare o incarica di questo compito persone qualificate;
-- c. verifica se l’organo da controllare rispetta le prescrizioni;
-- d. controlla che siano rispettate le disposizioni dell’UFAC relative alle ispezioni presso gli organi da controllare.
+- a. seleziona, forma e sorveglia le persone dell’organismo di controllo indipendente incaricate della verifica;
+- b. presenta all’UFAC la richiesta di autorizzazione per le persone incaricate;
+- c. verifica se l’entità da controllare rispetta le prescrizioni;
+- d. controlla che presso le entità siano rispettate le disposizioni dell’UFAC per i compiti di controllo.
 
-## Sezione 5*a*: Organismi di formazione esterni
+## Sezione 5*a*: Organismo di formazione esterno
 
 [^sec5a-1]
 
-[^sec5a-1]: Introdotta dal n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^sec5a-1]: Introdotta dalla cifra I dell’O del DATEC del 16 ott. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 #### Art. 9a
 
-**Attribuzione dell’incarico**[^9a-1]
+**Attribuzione dell’incarico**
 
-L’UFAC può incaricare organismi di formazione esterni di formare i responsabili della sicurezza (n. 11.2.5 dell’all. del regolamento di esecuzione (UE) 2015/1998) o gli istruttori.
+<sup>1</sup> L’UFAC può incaricare un organismo di formazione esterno di formare i responsabili della sicurezza delle entità nonché gli istruttori.
 
-[^9a-1]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+<sup>2</sup> L’UFAC può incaricare contemporaneamente diversi organismi di formazione esterni al fine di garantire la sicurezza aerea.
 
 #### Art. 9b
 
@@ -276,31 +289,45 @@ L’UFAC può incaricare organismi di formazione esterni di formare i responsabi
 
 <sup>1</sup>
 
-Gli organismi di formazione esterni possono adempiere in particolare i seguenti compiti:
+L’organismo di formazione esterno può adempiere in particolare i seguenti compiti:
 
-- a. preparano una propria documentazione destinata alla formazione dei responsabili della sicurezza o degli istruttori e la sottopongono per approvazione all’UFAC;
-- b. istruiscono i responsabili della sicurezza o gli istruttori secondo le disposizioni dell’UFAC;
-- c. esaminano i responsabili della sicurezza o gli istruttori al termine della formazione;
-- d. presentano all’UFAC la richiesta di autorizzazione per i responsabili della sicurezza presso gli agenti regolamentati per merci o posta o per gli istruttori.[^9b-1]
+- a. prepara una propria documentazione destinata alla formazione dei responsabili della sicurezza e di altri collaboratori delle entità secondo le disposizioni dell’UFAC e la sottopone per approvazione all’UFAC;
+- b. istruisce i responsabili della sicurezza e gli altri collaboratori delle entità secondo le disposizioni dell’UFAC;
+- c. esamina i responsabili della sicurezza e gli altri collaboratori delle entità designati dall’UFAC per la formazione al termine della stessa;
+- d. presenta all’UFAC la richiesta di autorizzazione per gli istruttori;
+- e. rilascia alle persone secondo l’articolo 6 lettera j, su loro richiesta, una conferma della loro autorizzazione da parte dell’UFAC.
 
-<sup>2</sup> Gli organismi di formazione esterni sottostanno alla vigilanza dell’UFAC.
+<sup>2</sup> L’organismo di formazione esterno sottostà alla vigilanza dell’UFAC.
 
 <sup>3</sup>
 
-L’UFAC incarica soltanto organismi di formazione che:
+L’UFAC incarica soltanto un organismo di formazione che:
 
-- a. dispongono di competenze nello svolgimento e nell’organizzazione di formazioni;
-- b. svolgono la propria attività di formazione in tutta la Svizzera a tariffe unitarie;
+- a. è indipendente da tutte le entità e non è esso stesso un organismo di controllo indipendente;
+- b. dispone di competenze nello svolgimento e nell’organizzazione di formazioni;
+- c. svolge la propria attività di formazione in tutta la Svizzera a tariffe unitarie;
+- d. dispone di personale con sufficiente formazione ed esperienza nei settori rilevanti della sicurezza aerea;
+- e. dispone di almeno un responsabile della formazione.
 
-<sup>4</sup>
+#### Art. 9c
 
-Gli istruttori incaricati della formazione devono:
+**Compiti e requisiti dei responsabili della formazione e degli istruttori**
 
-- a. disporre di competenze nei settori rilevanti della sicurezza aerea;
-- b. disporre di qualifiche e competenze nel settore della metodologia didattica;
-- c. aver seguito un corso dell’UFAC destinato agli istruttori e superato il relativo esame oppure disporre di una certificazione equivalente.
+<sup>1</sup>
 
-[^9b-1]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+Il responsabile della formazione ha la responsabilità generale di tutte le attività dell’organismo di formazione esterno. È l’interlocutore per l’UFAC e in particolare:
+
+- a. seleziona, forma e sorveglia gli istruttori dell’organismo di formazione esterno;
+- b. presenta all’UFAC la richiesta di autorizzazione per gli istruttori;
+- c. controlla che siano rispettate le disposizioni dell’UFAC per i compiti di formazione.
+
+<sup>2</sup>
+
+Gli istruttori incaricati della formazione devono disporre:
+
+- a. di competenze nei settori rilevanti della sicurezza aerea;
+- b. di qualifiche e competenze nel settore della metodologia didattica;
+- c. dell’autorizzazione da parte dell’UFAC.
 
 ## Sezione 6: Misure in caso di particolare minaccia
 
@@ -353,13 +380,13 @@ L’UFAC accorda tali agevolazioni a un’impresa di trasporto aereo solo se ven
 - a.[^13-1] l’impresa di trasporto aereo ha in esercizio solo aeromobili con un peso massimo al decollo inferiore alle 15 t o con meno di 20 posti.
 - b. sulla base delle analisi della minaccia e dei rischi, per l’impresa di trasporto aereo sussiste un rischio ridotto tale da giustificare la deroga alle norme generali.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 
 ## Sezione 8*a*: Disposizione penale
 
 [^sec8a-1]
 
-[^sec8a-1]: Introdotta dal n. I 1 dell’O del DATEC del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1155](https://fedlex.data.admin.ch/eli/oc/2011/168)).
+[^sec8a-1]: Introdotta dalla cifra I n. 1 dell’O del DATEC del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1155](https://fedlex.data.admin.ch/eli/oc/2011/168)).
 
 #### Art. 13a
 
@@ -369,23 +396,25 @@ In virtù dell’articolo 91 capoverso 1 lettera i della legge federale del 21 d
 
 - a.
 
-  in quanto collaboratore di un esercente di aeroporto, di un’impresa di trasporto aereo, di un’impresa terza incaricata da un esercente di aeroporto o da un’impresa di trasporto aereo, di un fornitore di servizi della sicurezza aerea, di un agente regolamentato, di un mittente conosciuto o responsabile di merci o di posta, di un fornitore regolamentato o conosciuto di provviste di bordo, di un fornitore conosciuto di forniture per l’aeroporto, di un organismo di controllo indipendente o di un organismo di formazione esterno: [^13a-3]
+  in quanto collaboratore di un esercente di aeroporto, di un’impresa di trasporto aereo, di un’impresa terza incaricata da un esercente di aeroporto o da un’impresa di trasporto aereo, di un fornitore di servizi della sicurezza aerea, di un agente regolamentato, di un mittente conosciuto di merci o di posta, di un fornitore regolamentato o conosciuto di provviste di bordo, di un trasportatore autorizzato, di un organismo di controllo indipendente o di un organismo di formazione esterno:[^13a-3]
 
   - 1\. viola uno degli obblighi di cui agli articoli 4 capoverso 2, 5 capoverso 2, 5*a* capoverso 2, 8 capoverso 1 lettera a, 9, 12 o 13 capoverso 1,
   - 2\. viola l’obbligo di esecuzione di controlli di sicurezza,
-  - 3\. viola l’obbligo di proteggere o sorvegliare i passeggeri, il bagaglio a mano, il bagaglio da stiva, le merci o la posta, le provviste di bordo, le forniture dell’aeroporto oppure gli aeromobili protetti ai fini della sicurezza,
-  - 4\.[^13a-4] disattende l’obbligo di formare personale,
-  - 4<sup>bis</sup>.[^13a-5] disattende l’obbligo di impiegare soltanto personale formato e, se necessario, certificato,
-  - 5\. viola l’obbligo di eseguire controlli della qualità oppure di aggiornare i programmi di sicurezza,
+  - 3\.[^13a-4] viola l’obbligo di proteggere o sorvegliare i passeggeri, il bagaglio a mano, il bagaglio da stiva, le merci o la posta, le provviste di bordo oppure gli aeromobili protetti ai fini della sicurezza,
+  - 4\.[^13a-5] disattende l’obbligo di formare personale,
+  - 4<sup>bis</sup>.[^13a-6] disattende l’obbligo di impiegare soltanto personale formato e, se necessario, certificato,
+  - 5\.[^13a-7] viola l’obbligo di eseguire controlli della qualità,
   - 6\. viola l’obbligo di notificare eventi rilevanti per la sicurezza;
 
 - b. esercita senza autorizzazione un’attività per la quale è necessaria un’autorizzazione conformemente all’articolo 6.
 
-[^13a-1]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^13a-2]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^13a-3]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^13a-4]: Nuovo testo giusta il n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^13a-5]: Introdotto dal n. I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^13a-2]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^13a-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^13a-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^13a-5]: Nuovo testo giusta la cifra I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-6]: Introdotto dalla cifra I dell’O del DATEC del 20 apr. 2016, in vigore dal 15 mag. 2016 ([RU 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-7]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## Sezione 9: Disposizioni finali
 

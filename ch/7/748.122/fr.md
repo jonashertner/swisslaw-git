@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 20 juillet 2009 sur les mesures de sûreté dans 
 short: OMSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/463"
 language: fr
-version: 2016-05-15
+version: 2026-01-01
 adopted: 2009-07-20
 in_force: 2009-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/463/20160515/fr/xml/fedlex-data-admin-ch-eli-cc-2009-463-20160515-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20160515/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/463/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-463-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,19 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/463/20160515/fr"
 
 (OMSA)
 
-du 20 juillet 2009 (État le 15 mai 2016)
+du 20 juillet 2009 (État le 1<sup>er</sup> janvier 2026)
 
-Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC), d’entente avec le Département fédéral de justice et police,
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC), en accord avec le Département fédéral de justice et police,
 
-vu les art. 122*a*, al. 4, 122*b*, al. 1, 122*c*, al. 1, et 122*d* de l’ordonnance du 14 novembre 1973 sur l’aviation (OSAv)[^ingress-1], vu la version contraignante pour la Suisse du règlement (CE) n<sup>o</sup> 300/2008, des règlements d’exécution (UE) 2015/1998[^ingress-2] et (UE) n<sup>o</sup> 1035/2011[^ingress-3] conformément aux ch. 4 et 5 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^ingress-4],[^ingress-5]
+vu les art. 122*a*, al. 4, 122*b*, al. 1, 122*c*, al. 1, et 122*d* de l’ordonnance du 14 novembre 1973 sur l’aviation (OSAv)[^ingress-1], en exécution du règlement (CE) n<sup>o</sup> 300/2008[^ingress-2], en exécution du règlement d’exécution (UE) 2015/1998[^ingress-3], en exécution du règlement d’exécution (UE) 2017/373[^ingress-4],
 
-arrête:
+arrête:[^ingress-5]
 
-[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^ingress-2]: Nouvelle expression selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-3]: Nouvelle expression selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-4]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
+[^ingress-2]: Règlement (CE) n<sup>o</sup> 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l’instauration de règles communes dans le domaine de la sûreté de l’aviation civile et abrogeant le règlement (CE) n<sup>o</sup> 2320/2002, dans la version qui lie la Suisse en vertu du ch. 4 de l’annexe à l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-3]: Règlement d’exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l’aviation civile, dans la version qui lie la Suisse en vertu du ch. 4 de l’annexe à l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-4]: Règlement d’exécution (UE) 2017/373 de la Commission du 1<sup>er</sup> mars 2017 établissant des exigences communes relatives aux prestataires de services de gestion du trafic aérien et de services de navigation aérienne ainsi que des autres fonctions de réseau de la gestion du trafic aérien, et à leur supervision, abrogeant le règlement (CE) n<sup>o</sup> 482/2008, les règlements d’exécution (UE) n<sup>o</sup> 1034/2011, (UE) n<sup>o</sup> 1035/2011 et (UE) 2016/1377 et modifiant le règlement (UE) n<sup>o</sup> 677/2011, dans la version qui lie la Suisse en vertu du ch. 5 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^ingress-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## Section 1 Champ d’application et droit applicable
 
@@ -37,24 +37,25 @@ arrête:
 
 <sup>1</sup>
 
-La présente ordonnance règle, dans le domaine des mesures de sûreté dans l’aviation prises conformément au règlement (CE) n<sup>o</sup> 300/2008 en relation avec les dispositions du règlement d’exécution (UE) 2015/1998 et conformément au règlement d’exécution (UE) n<sup>o</sup> 1035/2011 et aux art. 122*a* à 122*d* OSAv:[^1-1]
+La présente ordonnance règle, dans le domaine des mesures de sûreté dans l’aviation prises conformément au règlement (CE) n<sup>o</sup> 300/2008 en relation avec les dispositions du règlement d’exécution (UE) 2015/1998 et conformément au règlement d’exécution (UE) 2017/373 et aux art. 122*a* à 122*d* OSAv:[^1-1]
 
 - a. les tâches de l’Office fédéral de l’aviation civile (OFAC) et du comité national de sûreté de l’aviation;
 - b. les exigences auxquelles sont soumis les programmes de sûreté des exploitants d’aéroports et des entreprises de transport aérien;
 - b<sup>bis</sup>.[^1-2] les exigences auxquelles est soumis le système de gestion de la sûreté que les prestataires de services de navigation aérienne sont tenus d’établir;
 - c.[^1-3] la certification par l’OFAC;
-- d. les tâches des organes de contrôle indépendants;
-- d<sup>bis</sup>.[^1-4] les tâches des organismes de formation externes assurant la formation des responsables de la sûreté ou des instructeurs;
+- d.[^1-4] les tâches de l’organe de contrôle indépendant;
+- d<sup>bis</sup>.[^1-5] les tâches de l’organisme de formation externe;
 - e. les mesures en cas de menace particulière;
 - f. le financement des mesures;
 - g. l’assouplissement des mesures dont bénéficient certains exploitants d’aéroports et entreprises de transports aérien.
 
 <sup>2</sup> Dans le cadre de la présente ordonnance, le champ d’aviation de Saint-Gall-Altenrhein est réputé aéroport.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 [^1-2]: Introduite par le ch. I de l’O du DETEC du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
 [^1-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^1-4]: Introduite par le ch. I de l’O du DETEC du 16 oct. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^1-5]: Introduite par le ch. I de l’O du DETEC du 16 oct. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## Section 2 Autorité compétente et comité national de sûreté de l’aviation
 
@@ -167,11 +168,11 @@ Conformément à l’art. 13 du règlement (CE) n<sup>o</sup> 300/2008 et à l�
 
 **Prestataires de services de navigation aérienne**[^5a-1]
 
-<sup>1</sup> Les mesures de sûreté visées à l’annexe I du règlement d’exécution (UE) n<sup>o</sup> 1035/2011 sont du ressort du prestataire de services de navigation aérienne.
+<sup>1</sup> Les mesures de sûreté visées à l’annexe III du règlement d’exécution (UE) 2017/373 sont du ressort du prestataire de services de navigation aérienne.[^5a-2]
 
 <sup>2</sup>
 
-Conformément au chiffre 4 de l’annexe I du règlement d’exécution (UE) n<sup>o</sup> 1035/2011, le système de gestion de la sûreté du prestataire de services de navigation aérienne comprend au moins:
+Conformément à l’annexe III, sous-partie D, point ATM/ANS.OR.D.010 du règlement d’exécution (UE) 2017/373, le système de gestion de la sûreté du prestataire de services de navigation aérienne comprend au moins:[^5a-3]
 
 - a. l’organigramme de son organisation interne chargée de la sûreté, avec la description des tâches et des responsabilités;
 - b. la description des procédures appliquées pour protéger ses installations, son personnel et ses données;
@@ -184,6 +185,8 @@ Conformément au chiffre 4 de l’annexe I du règlement d’exécution (UE) n<s
 <sup>3</sup> Le prestataire de services de navigation aérienne assure l’habilitation de sûreté de l’ensemble du personnel qui a accès aux installations, ouvrages ou systèmes critiques.
 
 [^5a-1]: Introduit par le ch. I de l’O du DETEC du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^5a-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^5a-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## Section 4 Certification
 
@@ -193,31 +196,43 @@ Conformément au chiffre 4 de l’annexe I du règlement d’exécution (UE) n<s
 
 #### Art. 6
 
+[^6-1]
+
 Il incombe à l’OFAC de certifier:
 
-- a. les agents habilités qui traitent du fret ou du courrier conformément à l’art. 3, par. 26, du règlement (CE) n<sup>o</sup> 300/2008 (ch. 6.3.1 de l’annexe au règlement d’exécution (UE) 2015/1998);
-- b. les chargeurs connus[^6-1] qui envoient du fret ou du courrier conformément à l’art. 3, par. 27, du règlement (CE) n<sup>o</sup> 300/2008 (ch. 6.4.1 de l’annexe au règlement d’exécution (UE) 2015/1998);
-- c. les fournisseurs habilités ou les fournisseurs connus d’approvisionnements de bord conformément au ch. 8.0.2 de l’annexe au règlement d’exécution (UE) 2015/1998 (ch. 8.1.3 de l’annexe au règlement d’exécution (UE) 2015/1998);
-- d. les organes de contrôle indépendants conformément à l’art. 7;
-- e. les organismes de formation externes conformément à l’art. 9*a*;
-- f.[^6-2] les personnes qui font fonctionner des équipements d’imagerie radioscopique ou des systèmes de détection d’explosifs (EDS) (ch. 11.3.2 de l’annexe du règlement d’exécution (UE) 2015/1998);
-- g.[^6-3] les instructeurs (ch. 11.5.1 de l’annexe du règlement d’exécution (UE) 2015/1998).
+- a. les agents habilités qui traitent du fret ou du courrier conformément à l’art. 3, par. 26, du règlement (CE) n<sup>o</sup> 300/2008 (ch. 6.3.1 de l’annexe du règlement d’exécution (UE) 2015/1998);
+- b. les chargeurs connus qui envoient du fret ou du courrier conformément à l’art. 3, par. 27, du règlement (CE) n<sup>o</sup> 300/2008 (ch. 6.4.1 de l’annexe du règlement d’exécution (UE) 2015/1998);
+- c. les fournisseurs habilités ou les fournisseurs connus d’approvisionnements de bord conformément au ch. 8.0.2 de l’annexe du règlement d’exécution (UE) 2015/1998 (ch. 8.1.3 et 8.1.4 de l’annexe du règlement d’exécution (UE) 2015/1998);
+- d. les transporteurs conformément au ch. 6.5.1 de l’annexe du règlement d’exécution (UE) 2015/1998 en tant que transporteurs agréés;
+- e. les organes de contrôle indépendants conformément à l’art. 7;
+- f. les organismes de formation externes conformément à l’art. 9*a*;
+- g. les personnes qui font fonctionner des équipements d’imagerie radioscopique ou des systèmes de détection d’explosifs (EDS) (ch. 11.3.1, point b de l’annexe du règlement d’exécution (UE) 2015/1998);
+- h. les instructeurs (ch. 11.5.1 de l’annexe du règlement d’exécution (UE) 2015/1998);
+- i. les personnes de l’organe de contrôle indépendant chargées des contrôles conformément à l’art. 9, let. a et b;
+- j. les personnes qui effectuent l’inspection/filtrage du fret et du courrier (palpation/fouille manuelle) conformément au ch. 11.2.3.2 de l’annexe du règlement d’exécution (UE) 2015/1998.
 
-[^6-1]: Nouvelle expression selon le ch. I de l’O du DETEC du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Il a été tenu compte de cette mod. dans tout le texte.
-[^6-2]: Introduite par le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^6-3]: Introduite par le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
-## Section 5 Organes de contrôle indépendants
+## Section 5 Organes de contrôle indépendant
 
 [^sec5-1]
 
-[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 #### Art. 7
 
 **Délégation**
 
-L’OFAC peut charger des organes de contrôle indépendants d’assumer des tâches de contrôle et de formation.
+<sup>1</sup>
+
+L’OFAC peut charger un organe de contrôle indépendant d’assumer des tâches de contrôle auprès des entités suivantes:
+
+- a. les agents habilités qui traitent du fret ou du courrier conformément à l’art. 6, let. a;
+- b. les chargeurs connus qui envoient du fret ou du courrier, conformément à l’art. 6, let. b;
+- c. les fournisseurs habilités et les fournisseurs connus d’approvisionnements de bord conformément à l’art. 6, let. c;
+- d. les transporteurs agréés conformément à l’art. 6, let. d.
+
+<sup>2</sup> Afin de garantir la sûreté de l’aviation, l’OFAC peut mandater simultanément plusieurs organes de contrôle indépendants.
 
 #### Art. 8
 
@@ -225,51 +240,48 @@ L’OFAC peut charger des organes de contrôle indépendants d’assumer des tâ
 
 <sup>1</sup>
 
-Les organes de contrôle indépendants assument les tâches suivantes:
+L’organe de contrôle indépendant assume les tâches suivantes:
 
-- a.[^8-1] réaliser des contrôles et établir des rapports à l’intention de l’OFAC;
-- b. contrôler et expertiser les programmes de sûreté pour le compte de l’OFAC;
-- c. proposer à l’OFAC la certification des organismes qui ont été contrôlés.
+- a. contrôler les exigences pertinentes auxquelles sont soumises les entités et établir des rapports à l’intention de l’OFAC;
+- b. contrôler et expertiser les programmes de sûreté des entités pour le compte de l’OFAC;
+- c. proposer à l’OFAC des entités contrôlées pour certification;
+- d. délivrer à leur demande une attestation de certification aux entités contrôlées une fois qu’elles ont été certifiées par l’OFAC.
 
-<sup>2</sup> Les organes de contrôle indépendants sont placés sous la surveillance de l’OFAC.
+<sup>2</sup> Il est placé sous la surveillance de l’OFAC.
 
 <sup>3</sup>
 
-L’OFAC mandate uniquement les organes de contrôle qui:
+L’OFAC mandate uniquement un organe de contrôle qui:
 
-- a. en tant que responsables du contrôle des chargeurs connus, sont indépendants de ces derniers et des agents habilités;
-- b.[^8-2] en tant qu’organe de contrôle des fournisseurs connus d’approvisionnements de bord ou de fournitures destinées aux aéroports, sont indépendants desdits fournisseurs ainsi que des fournisseurs habilités d’approvisionnements de bord;
-- c. exercent leur activité de contrôle sur l’ensemble du territoire suisse en pratiquant des tarifs uniformes;
-- d. disposent de personnel suffisamment formé et expérimenté dans les domaines pertinents de la sûreté de l’aviation;
-- e. disposent au moins d’un responsable d’inspection.
-
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+- a. est indépendant des entités à contrôler;
+- b. exerce son activité de contrôle sur l’ensemble du territoire suisse en pratiquant des tarifs uniformes;
+- c. dispose de personnel suffisamment formé et expérimenté dans les domaines pertinents de la sûreté de l’aviation;
+- d. dispose d’au moins un responsable d’inspection
 
 #### Art. 9
 
-**Tâches du responsable d’inspection**
+**Tâches des responsables d’inspection**
 
-Le responsable d’inspection répond de l’ensemble des activités de l’organe de contrôle indépendant. En particulier, il:
+Le responsable d’inspection répond de l’ensemble des activités de l’organe de contrôle indépendant. Il est l’interlocuteur auprès de l’OFAC et doit en particulier:
 
-- a. forme et supervise les personnes de l’organe de contrôle indépendant qui sont chargées des contrôles;
-- b. forme le responsable de sûreté de l’organisme à contrôler ou confie cette tâche à des personnes qualifiées;
-- c. s’assure que l’organisme à contrôler observe les prescriptions;
-- d. vérifie le respect des prescriptions de l’OFAC en matière d’inspection des organismes à contrôler.
+- a. sélectionner, former et superviser les personnes de l’organe de contrôle indépendant qui sont chargées des contrôles;
+- b. proposer à l’OFAC des personnes chargées des contrôles pour certification;
+- c. vérifier que l’entité à contrôler observe les prescriptions;
+- d. vérifier que les entités respectent les prescriptions de l’OFAC relatives aux tâches de contrôle
 
-## Section 5*a* Organismes de formation externes
+## Section 5*a* Organisme de formation externe
 
 [^sec5a-1]
 
-[^sec5a-1]: Introduite par le ch. I de l’O du DETEC du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
+[^sec5a-1]: Introduite par le ch. I de l’O du DETEC du 16 oct. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)). Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 #### Art. 9a
 
-**Délégation**[^9a-1]
+**Délégation**
 
-L’OFAC peut charger des organismes de formation externes de former des responsables de la sûreté (ch. 11.2.5 de l’annexe du règlement d’exécution (UE) 2015/1998) ou des instructeurs.
+<sup>1</sup> L’OFAC peut charger un organisme de formation externe de former des responsables de la sûreté des entités de même que des instructeurs.
 
-[^9a-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+<sup>2</sup> Afin de garantir la sûreté de l’aviation, l’OFAC peut mandater simultanément plusieurs organismes de formation externes.
 
 #### Art. 9b
 
@@ -277,31 +289,45 @@ L’OFAC peut charger des organismes de formation externes de former des respons
 
 <sup>1</sup>
 
-Les organismes de formation externes peuvent en particulier assumer les tâches suivantes:
+L’organisme de formation externe peut en particulier assumer les tâches suivantes:
 
-- a. établir et soumettre à l’approbation de l’OFAC leurs propres documents de formation destinés à la formation des responsables de la sûreté ou des instructeurs;
-- b. instruire, conformément aux prescriptions de l’OFAC, les responsables de la sûreté ou les instructeurs;
-- c. tester, au terme de la formation, les connaissances des responsables de la sûreté ou des instructeurs;
-- d. proposer à l’OFAC la certification des responsables de la sûreté d’agents habilités qui traitent du fret ou du courrier ou la certification des instructeurs.[^9b-1]
+- a. établir conformément aux prescriptions de l’OFAC ses propres documents de formation destinés à la formation des responsables de la sûreté et d’autres collaborateurs de l’entité et les soumettre à l’approbation de l’OFAC;
+- b. instruire, conformément aux prescriptions de l’OFAC, les responsables de la sûreté et d’autres collaborateurs de l’entité;
+- c. tester, au terme de la formation, les connaissances des responsables de la sûreté et des autres collaborateurs de l’entité désignés par l’OFAC pour la formation;
+- d. proposer à l’OFAC des instructeurs pour certification;
+- e. délivrer à leur demande une attestation de certification aux personnes visées à l’art. 6, let. j, une fois qu’elles ont été certifiées par l’OFAC.
 
-<sup>2</sup> Ils sont placés sous la surveillance de l’OFAC.
+<sup>2</sup> Il est placé sous la surveillance de l’OFAC.
 
 <sup>3</sup>
 
-L’OFAC mandate uniquement des organismes de formation externes qui:
+L’OFAC mandate uniquement un organisme de formation externe qui:
 
-- a. disposent de compétences dans la fourniture et l’organisation de formations;
-- b. exercent leur activité de formation sur l’ensemble du territoire suisse en pratiquant des tarifs uniformes.
+- a. est indépendant des entités et n’a pas le statut d’organe de contrôle indépendant;
+- b. dispose de compétences dans la fourniture et l’organisation de formations;
+- c. exerce son activité de formation sur l’ensemble du territoire suisse en pratiquant des tarifs uniformes;
+- d. dispose de personnel suffisamment formé et expérimenté dans les domaines pertinents de la sûreté de l’aviation;
+- e. dispose d’au moins un responsable de la formation.
 
-<sup>4</sup>
+#### Art. 9c
+
+**Tâches des responsables de la formation et des instructeurs et exigences applicables**
+
+<sup>1</sup>
+
+Le responsable de la formation répond de l’ensemble des activités de l’organisme de formation externe. Il est l’interlocuteur auprès de l’OFAC et doit en particulier:
+
+- a. sélectionner, former et superviser les instructeurs de l’organisme de formation externe;
+- b. proposer à l’OFAC des instructeurs pour certification;
+- c. vérifier le respect des exigences de l’OFAC relatives aux tâches de formation.
+
+<sup>2</sup>
 
 Les instructeurs chargés de la formation:
 
 - a. disposent de compétences dans les domaines pertinents de la sûreté de l’aviation;
 - b. disposent de qualifications et de compétences en matière de technique d’enseignement;
-- c. ont suivi un cours de l’OFAC destiné aux instructeurs et réussi l’examen consécutif à ce cours ou sont titulaires d’un certificat de certification équivalent.
-
-[^9b-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+- c. sont certifiés par l’OFAC.
 
 ## Section 6 Mesures en cas de menace particulière
 
@@ -370,23 +396,25 @@ Est puni conformément à l’art. 91, al. 1, let. i, de la loi fédérale du 21
 
 - a.
 
-  quiconque en tant qu’employé d’un exploitant d’aéroport, d’une entreprise de transport aérien, d’une entreprise tierce mandatée par un exploitant d’aéroport ou par une entreprise de transport aérien, d’un prestataire de services de navigation aérienne, d’un agent habilité, d’un chargeur connu ou d’un client en compte qui traite du fret ou du courrier, d’un fournisseur habilité ou d’un fournisseur connu d’approvisionnements de bord, d’un fournisseur connu de fournitures destinées aux aéroports, d’un organe de contrôle indépendant ou d’un organisme de formation externe:[^13a-3]
+  quiconque en tant qu’employé d’un exploitant d’aéroport, d’une entreprise de transport aérien, d’une entreprise tierce mandatée par un exploitant d’aéroport ou par une entreprise de transport aérien, d’un prestataire de services de navigation aérienne, d’un agent habilité, d’un chargeur connu qui traite du fret ou du courrier, d’un fournisseur habilité ou d’un fournisseur connu d’approvisionnements de bord, d’un transporteur agréé, d’un organe de contrôle indépendant ou d’un organisme de formation externe:[^13a-3]
 
   - 1\. enfreint l’une des obligations prévues par les art. 4, al. 2, 5, al. 2, 5*a*, al. 2, 8, al. 1, let. a, 9, 12 ou 13, al. 1,
   - 2\. enfreint une obligation d’exécuter des contrôles de sûreté,
-  - 3\. enfreint une obligation de protéger ou de superviser les passagers filtrés de même que les bagages de cabine, les bagages de soute, les expéditions de fret ou de courrier, les approvisionnements de bord, les fournitures destinées aux aéroports ou les aéronefs, qui ont été sécurisés,
-  - 4\.[^13a-4] n’observe pas une obligation de former du personnel,
-  - 4<sup>bis</sup>.[^13a-5] n’observe pas une obligation de n’employer que du personnel formé et si nécessaire certifié,
-  - 5\. enfreint une obligation d’exécuter des contrôles de qualité ou de mettre à jour le programme de sûreté,
+  - 3\.[^13a-4] enfreint une obligation de protéger ou de superviser les passagers filtrés de même que les bagages de cabine, les bagages de soute, les expéditions de fret ou de courrier, les approvisionnements de bord ou les aéronefs, qui ont été sécurisés,
+  - 4\.[^13a-5] n’observe pas une obligation de former du personnel,
+  - 4<sup>bis</sup>.[^13a-6] n’observe pas une obligation de n’employer que du personnel formé et si nécessaire certifié,
+  - 5\.[^13a-7] enfreint une obligation d’exécuter des contrôles de qualité,
   - 6\. enfreint une obligation d’adresser un compte rendu d’incidents liés à la sûreté;
 
 - b. quiconque exerce sans certification une activité pour laquelle une certification est obligatoire en vertu de l’art. 6.
 
 [^13a-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5541](https://fedlex.data.admin.ch/eli/oc/2012/642)).
-[^13a-2]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^13a-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^13a-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
-[^13a-5]: Introduit par le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-2]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^13a-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^13a-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
+[^13a-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-6]: Introduit par le ch. I de l’O du DETEC du 20 avr. 2016, en vigueur depuis le 15 mai 2016 ([RO 2016 1269](https://fedlex.data.admin.ch/eli/oc/2016/250)).
+[^13a-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 798](https://fedlex.data.admin.ch/eli/oc/2025/798)).
 
 ## Section 9 Dispositions finales
 
