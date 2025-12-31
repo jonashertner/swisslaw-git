@@ -3,10 +3,9 @@ canton: ZH
 number: "861.32"
 title: Tarifordnung für die Aufwendungen von Feuerwehreinsätzen bei Verkehrsunfällen und Fahrzeugbränden
 language: de
-nachtrag: "80"
-valid_until: 2026-01-01
+nachtrag: "131"
 adopted: 2025-09-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-861_32-2012_11_16-2013_03_01-080.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-861_32-2025_09_04-2026_01_01-131.html"
 text: pdf
 ---
 
@@ -14,7 +13,7 @@ text: pdf
 
 # Tarifordnung für die Aufwendungen von Feuerwehreinsätzen bei Verkehrsunfällen und Fahrzeugbränden
 
-(vom 16. November 2012)[^t-1],[^t-2]
+(vom 4. September 2025)[^t-1],[^t-2]
 
 Die Gebäudeversicherung Kanton Zürich,
 
@@ -22,8 +21,8 @@ gestützt auf § 28 Abs. 4 des Gesetzes über die Feuerpolizei und das Feuerwehr
 
 beschliesst:
 
-[^t-1]: OS 68, 73; Begründung siehe ABl 2012-12-07.
-[^t-2]: Inkrafttreten: 1. März 2013.
+[^t-1]: OS 80, 320; Begründung siehe ABl 2025-10-03.
+[^t-2]: Inkrafttreten: 1. Januar 2026.
 [^t-3]: LS 861.1.
 
 #### § 1
@@ -32,9 +31,9 @@ beschliesst:
 
 <sup>1</sup> Die Tarifordnung bestimmt, welche Kosten die Halterin oder der Halter des Fahrzeuges bei Unfällen im Strassen-, Schienen-, Schiffs- und Luftverkehr sowie bei Fahrzeugbränden für den Einsatz der Feuerwehr einschliesslich Rettungen bezahlen muss.
 
-<sup>2</sup> Für die Verrechnung von Aufwendungen für Einsätze bei A-, B- oder C-Ereignissen gilt die Tarifordnung für die Aufwendungen der ABC-Wehr vom 26. November 2012[^1-1].
+<sup>2</sup> Für die Verrechnung von Aufwendungen für Einsätze bei A-, B- oder C-Ereignissen gilt die Tarifordnung für die Aufwendungen der ABC-Wehr vom 17. September 2025[^1-1].
 
-[^1-1]: LS 861.31. 1. 4. 13 - 80 3
+[^1-1]: LS 861.31. 1. 1. 26 - 131 3
 
 #### § 2
 
@@ -48,53 +47,49 @@ beschliesst:
 
 **Personalkosten**
 
-<sup>1</sup> Für den Einsatz von Personal werden folgende Kosten verrechnet: Fr. 125 pro Einsatzstunde für Angehörige der Milizfeuerwehren, Fr. 180 pro Einsatzstunde für Angehörige der Berufsfeuerwehren.
+<sup>1</sup> Für den Einsatz von Personal werden folgende Kosten verrechnet: Fr. 130 pro Einsatzstunde für Angehörige der Milizfeuerwehren, Fr. 185 pro Einsatzstunde für Angehörige der Berufsfeuerwehren.
 
 <sup>2</sup> Die verrechenbare Einsatzzeit für das Personal dauert von der Alarmierung bis zur Entlassung, einschliesslich der Wiederherstellung der Einsatzbereitschaft der Fahrzeuge und Geräte (Retablierung). Die erste angebrochene Einsatzstunde wird als volle Stunde verrechnet. Die weitere Einsatzzeit wird auf die Viertelstunde genau verrechnet.
 
 <sup>3</sup> Für beigezogene Dritte werden die von diesen in Rechnung gestellten Kosten, zuzüglich 3% Umtriebsentschädigung, verrechnet.
 
-<sup>4</sup> Die Tarife nach Abs. 1 umfassen auch die Vorhaltekosten nach § 28 Abs. 1 des Gesetzes über die Feuerpolizei und das Feuerwehrwesen[^3-1].
+<sup>4</sup> Die Tarife nach Abs. 1 umfassen auch die Vorhaltekosten nach § 28 Abs. 1 des Gesetzes über die Feuerpolizei und das Feuerwehrwesen.
 
 **1**
 
-- 1\. 4. 13 - 80 § 4. <sup>1</sup> Für den Einsatz von Fahrzeugen und Geräten (ohne Personal) werden folgende Kosten verrechnet:
+- 1\. 1. 26 - 131 § 4. <sup>1</sup> Für den Einsatz von Fahrzeugen und Geräten (ohne Personal) werden folgende Kosten verrechnet:
 
 **Fahrzeug- und Gerätekosten**
 
-- a. Anhänger Fr. 100 pro Einsatzstunde
+- a. pro Einsatzstunde:
 
-- b. Autodrehleiter Fr. 400 pro Einsatzstunde
+- 1\. Anhänger Fr. 100
 
-- c. Containertransportfahrzeug, leer Fr. 600 pro Fahrzeug und Einsatz
+- 2\. Autodrehleiter (ADL) / Hubrettungsfahrzeug (HRF) Fr. 400
 
-- d. Fahrzeuge über 7,5 t,
+- 3\. Fahrzeuge über 7,5 t, z.B. Tanklöschfahrzeug (TLF) Fr. 300
 
-- z. B. Tanklöschfahrzeug Fr. 300 pro Einsatzstunde
+- 4\. Fahrzeuge bis 7,5 t Fr. 100
 
-- e. Fahrzeuge bis 7,5 t Fr. 100 pro Einsatzstunde
+- 5\. Einsatzleitfahrzeug Fr. 300
 
-- f. Hubrettungsfahrzeug Fr. 350 pro Einsatzstunde
+- 6\. Mobiler Grosslüfter (MGL) Fr. 300
 
-- g. Einsatzleit-/Kommandofahrzeug Fr. 300 pro Einsatzstunde
+- 7\. Pionierfahrzeug (PIF) Fr. 300
 
-- h. Hochleistungslüfterfahrzeug Fr. 300 pro Einsatzstunde
+- 8\. Grosslöschfahrzeug (GLF) Fr. 400
 
-- i. Kreislaufgerät Fr. 120 pro Gerät und Einsatz
+- b. Wechselladefahrzeuge (WLF), leer Fr. 500 pro Fahrzeug und Einsatz
 
-- j. Pionierfahrzeug Fr. 300 pro Einsatzstunde
+<sup>2</sup> Die verrechenbare Einsatzzeit beginnt mit der Ausfahrt des Fahrzeuges aus dem Feuerwehrlokal und endet mit dessen Rückkehr.
 
-- k. Universallöschfahrzeug Fr. 400 pro Einsatzstunde
+<sup>3</sup> Erfolgt die Verrechnung nach Einsatzstunden, wird die erste angebrochene Einsatzstunde als volle Stunde verrechnet. Die weitere Einsatzzeit wird auf die Viertelstunde genau verrechnet.
 
-<sup>2</sup> Die verrechenbare Einsatzzeit beginnt mit der Ausfahrt des Fahrzeuges aus dem Feuerwehrlokal und endet mit dessen Rückkehr. Erfolgt die Verrechnung nach Einsatzstunden, wird die erste angebrochene Einsatzstunde als volle Stunde verrechnet. Die weitere Einsatzzeit wird auf die Viertelstunde genau verrechnet.
+<sup>4</sup> Die in den Fahrzeugen mitgeführten Geräte sind mit Ausnahme der Kreislaufgeräte in den Fahrzeugkosten inbegriffen.
 
-<sup>3</sup> Die in den Fahrzeugen mitgeführten Geräte sind mit Ausnahme der Kreislaufgeräte in den Fahrzeugkosten inbegriffen.
+<sup>5</sup> Fahrzeuge und Geräte von beigezogenen Dritten werden zu den von diesen in Rechnung gestellten Kosten, zuzüglich 3% Umtriebsentschädigung, verrechnet.
 
-<sup>4</sup> Fahrzeuge und Geräte von beigezogenen Dritten werden zu den von diesen in Rechnung gestellten Kosten, zuzüglich 3% Umtriebsentschädigung, verrechnet.
-
-<sup>5</sup> Die Tarife nach Abs. 1 umfassen auch die Vorhaltekosten nach § 28 Abs. 1 des Gesetzes über die Feuerpolizei und das Feuerwehrwesen[^3-1].
-
-[^3-1]: LS 861.1.
+<sup>6</sup> Die Tarife nach Abs. 1 umfassen auch die Vorhaltekosten nach § 28 Abs. 1 des Gesetzes über die Feuerpolizei und das Feuerwehrwesen.
 
 #### § 5
 
@@ -108,4 +103,4 @@ beschliesst:
 
 **Personalkosten der Feuerwehren gegenüber der GVZ**
 
-Die Feuerwehren verrechnen die Personalkosten aus Einsätzen gegenüber der GVZ (zentrale Inkassostelle) zu den Tarifen der Entschädigungsverordnung ihrer Trägerorganisation (höchstens Fr. 65 pro Einsatzstunde für Angehörige der Milizfeuerwehren einschliesslich Spesen, höchstens Fr. 120 pro Einsatzstunde für Angehörige der Berufsfeuerwehren einschliesslich Spesen).
+Die Feuerwehren verrechnen die Personalkosten aus Einsätzen gegenüber der GVZ (zentrale Inkassostelle) zu den Tarifen der Entschädigungsverordnung ihrer Trägerorganisation (höchstens Fr. 70 pro Einsatzstunde für Angehörige der Milizfeuerwehren einschliesslich Spesen, höchstens Fr. 125 pro Einsatzstunde für Angehörige der Berufsfeuerwehren einschliesslich Spesen).
