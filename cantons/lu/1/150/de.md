@@ -4,13 +4,12 @@ number: "150"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-21
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2004-05-04
 in_force: 2005-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/150"
-pdf: "https://srl.lu.ch/api/de/versions/4398/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4660/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4398/pdf_file"
 
 (GG)
 
-vom 04.05.2004 (Stand 01.06.2025)
+vom 04.05.2004 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -362,11 +361,11 @@ beschliesst:
 
 #### § 31
 
-**Wahl und Voraussetzungen**
+**Anstellung und Voraussetzungen**
 
-<sup>1</sup> Der Gemeinderat wählt den Gemeindeschreiber oder die Gemeindeschreiberin.
+<sup>1</sup> Der Gemeinderat stellt den Gemeindeschreiber oder die Gemeindeschreiberin an.
 
-<sup>2</sup> Als Gemeindeschreiber oder -schreiberin ist wählbar, wer das Fähigkeitszeugnis als Gemeindeschreiber oder -schreiberin des Kantons Luzern erworben oder eine vergleichbare Ausbildung abgeschlossen hat.
+<sup>2</sup> Als Gemeindeschreiber oder -schreiberin kann angestellt werden, wer das Fähigkeitszeugnis als Gemeindeschreiber oder -schreiberin des Kantons Luzern erworben oder eine vergleichbare Ausbildung abgeschlossen hat.
 
 <sup>3</sup> Der Regierungsrat regelt das Nähere zur Ausbildung als Gemeindeschreiber oder ‑schreiberin und zur Erteilung des Fähigkeitszeugnisses.
 
