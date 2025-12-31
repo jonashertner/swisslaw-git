@@ -3,18 +3,18 @@ sr: "412.101.221.58"
 title: Ordinanza della SEFRI del 1° febbraio 2011 sulla formazione professionale di base Operatrice di palcoscenico/Operatore di palcoscenico con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/102"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2011-02-01
 in_force: 2011-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/102/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2011-102-20240401-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/102/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/102/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2011-102-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/102/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Operatrice di palcoscenico/Operatore di palcoscenico con attestato federale di capacità (AFC)
 
-del 1° febbraio 2011 (Stato 1° aprile 2024)
+del 1° febbraio 2011 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>66500</td><td>Operatrice di palcoscenico AFC/ Operatore di palcoscenico AFC Veranstaltungsfachfrau EFZ/ Veranstaltungsfachmann EFZ Techniscéniste CFC</td></tr>
@@ -26,11 +26,11 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-5]: Nuovo testo giusta il n. I 112 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
+[^ingress-5]: Nuovo testo giusta la cifra I n. 112 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -47,8 +47,8 @@ Gli operatori di palcoscenico di livello AFC svolgono, in particolare, le seguen
 - e. valutano le attrezzature tecniche di sicurezza e la sicurezza dei locali; inoltre mettono in pratica nel loro lavoro quotidiano le prescrizioni vigenti in materia di sicurezza e protezione della salute;
 - f. lavorano in modo strutturato, garantiscono l’economicità dei processi di lavoro e un impiego parsimonioso di tutte le risorse a loro disposizione. Proteggono attivamente l’ambiente tramite una gestione sostenibile degli eventi.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
-[^1-2]: Abrogata dal n. I dell’O della SEFRI del 16 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^1-2]: Abrogata dalla cifra I dell’O della SEFRI del 16 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 2
 
@@ -194,9 +194,9 @@ La formazione comprende le seguenti competenze operative relative a ciascun camp
   - 4\. organizzazione della logistica degli scarti;
   - 5\. scelta, messa a disposizione, manutenzione e controllo di utensili e mezzi ausiliari.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
-[^4-2]: Abrogato dal n. I dell’O della SEFRI del 16 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
-[^4-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^4-2]: Abrogato dalla cifra I dell’O della SEFRI del 16 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
 
@@ -214,8 +214,8 @@ La formazione comprende le seguenti competenze operative relative a ciascun camp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Nuovo testo giusta il n. II 112 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Nuovo testo giusta la cifra II n. 112 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -258,22 +258,23 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 [^8-2]: Il piano di formazione del 1° febbraio 2011 (stato 1° gennaio 2021) è disponibile sul sito SEFRI nell’elenco delle professioni: http://www.bvz.admin.ch &gt; Professioni A‒Z
 
 #### Art. 9
 
 **Cultura generale**
 
-Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^9-2].
 
-[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^9-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
 [^sec6-1]
 
-[^sec6-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^sec6-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 10
 
@@ -286,8 +287,8 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 - c. titolo della formazione professionale superiore in ambito pertinente;
 - d. diploma di una scuola universitaria professionale o titolo accademico in ambito pertinente e almeno due anni di esperienza professionale nel campo d’insegnamento.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
-[^10-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 11
 
@@ -303,13 +304,13 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>5</sup> In casi particolari l’autorità cantonale può autorizzare un numero maggiore di persone in formazione nelle aziende che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 ## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
 [^sec7-1]
 
-[^sec7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^sec7-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 12
 
@@ -319,7 +320,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>2</sup> Almeno una volta al semestre il formatore controlla e firma la documentazione dell’apprendimento e la discute con la persona in formazione.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 12a
 
@@ -333,7 +334,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>4</sup> Se nonostante le misure concordate gli obiettivi non sono raggiunti o se è a rischio il buon esito della formazione, il formatore lo comunica per iscritto alle parti contraenti e all’autorità cantonale.
 
-[^12a-1]: Introdotto dal n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^12a-1]: Introdotto dalla cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 13
 
@@ -341,7 +342,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 Gli operatori della formazione scolastica e della formazione di base organizzata dalla scuola documentano le prestazioni delle persone in formazione nelle materie insegnate e consegnano loro una pagella alla fine di ogni semestre.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 14
 
@@ -351,7 +352,7 @@ Gli operatori della formazione scolastica e della formazione di base organizzata
 
 <sup>2</sup> Gli esiti dei controlli delle competenze vengono espressi in note e confluiscono nel calcolo della nota dei luoghi di formazione di cui all’articolo 18 capoverso 3.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 ## Sezione 8: Procedure di qualificazione
 
@@ -371,7 +372,7 @@ Gli operatori della formazione scolastica e della formazione di base organizzata
   - 2\. di tale esperienza professionale ha svolto almeno tre anni nel campo dell’operatore di palcoscenico AFC; e
   - 3\.[^15-1] rende verosimile il possesso dei requisiti per la rispettiva procedura di qualificazione.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 16
 
@@ -389,11 +390,12 @@ Nella procedura di qualificazione con esame finale vengono esaminati i campi di 
 
 - a. «lavoro pratico» sotto forma di lavoro pratico prestabilito della durata di otto ore o sotto forma di lavoro pratico individuale della durata da 16 a 40 ore. L’autorità cantonale competente decide di concerto con l’organizzazione del mondo del lavoro responsabile in merito alla forma dell’esame. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali e della letteratura specializzata;
 - b. «conoscenze professionali», della durata da tre a quattro ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame è scritto oppure sia scritto sia orale. Se si svolge un esame orale, la durata massima è di mezz’ora;
-- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 9 aprile 2025[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^17-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
@@ -426,7 +428,7 @@ Per nota dei luoghi di formazione si intende la media arrotondata a un decimale 
 
 <sup>5</sup> Per nota relativa ai corsi interaziendali si intende la media arrotondata al punto o al mezzo punto delle note conseguite nei controlli delle competenze.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 19
 
@@ -499,7 +501,7 @@ Essa svolge in particolare i compiti seguenti:
 - c. se osserva sviluppi che richiedono una modifica del piano di formazione, presenta all’organizzazione del mondo del lavoro competente una proposta di adeguamento del piano di formazione;
 - d. esprime un parere riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 ## Sezione 11: Disposizioni finali
 
@@ -511,7 +513,7 @@ Essa svolge in particolare i compiti seguenti:
 
 <sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per operatore di palcoscenico AFC entro il 31 dicembre 2026, sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
 
-[^22a-1]: Introdotto dal n. I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
+[^22a-1]: Introdotto dalla cifra I dell’O della SEFRI del 16 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5211](https://fedlex.data.admin.ch/eli/oc/2020/905)).
 
 #### Art. 23
 
