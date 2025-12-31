@@ -3,18 +3,18 @@ sr: "412.101.222.12"
 title: Ordinanza della SEFRI del 15 marzo 2022 sulla formazione professionale di base Addetta operatrice di edifici e infrastrutture / Addetto operatore di edifici e infrastrutture con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/204"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2022-03-15
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/204/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2022-204-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/204/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/204/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2022-204-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/204/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Addetta operatrice di edifici e infrastrutture / Addetto operatore di edifici e infrastrutture con certificato federale di formazione pratica (CFP)
 
-del 15 marzo 2022 (Stato 1° aprile 2024)
+del 15 marzo 2022 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>80203</td><td>Addetta operatrice / Addetto operatore di edifici e infrastrutture CFP Unterhaltspraktikerin EBA / Unterhaltspraktiker EBA Employée d’exploitation AFP / Employé d’exploitation AFP</td></tr>
@@ -26,10 +26,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto e durata
 
@@ -120,7 +120,7 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato 2 al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -150,13 +150,14 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^7-2].
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -209,7 +210,7 @@ Il piano di formazione:
 
 Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:
 
-- a. attestato federale di capacità di operatore di edifici e infrastrutture AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- attestato federale di capacità di operatore di edifici e infrastrutture AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - b. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’addetto operatore di edifici e infrastrutture CFP e almeno cinque anni di esperienza professionale nel campo d’insegnamento;
 - c. titolo della formazione professionale superiore in ambito pertinente;
 - d. diploma di scuola universitaria in ambito pertinente e almeno due anni di esperienza professionale nel campo d’insegnamento.
@@ -304,11 +305,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>3</td><td>Colloquio professionale</td><td>20 %</td></tr>
 </table>
 
-- b. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- b. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^17-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
@@ -421,7 +423,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI dell’8 settembre 2014[^24-1] sulla formazione professionale di base per Addetto operatore di edifici e infrastrutture con certificato federale di formazione pratica (CFP) è abrogata.
 
-[^24-1]: [[RU 2014 3259](https://fedlex.data.admin.ch/eli/oc/2014/557); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)I 158, II 158, III [29](https://fedlex.data.admin.ch/eli/oc/2017/9)]
+[^24-1]: [[RU 2014 3259](https://fedlex.data.admin.ch/eli/oc/2014/557); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifra I n. 158, cifra II n. 158, cifra III n. 29]
 
 #### Art. 25
 
