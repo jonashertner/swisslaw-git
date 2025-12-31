@@ -4,11 +4,10 @@ number: "175.21"
 title: Organisationsverordnung des Verwaltungsgerichts (OV VGr)
 short: OV VGr
 language: de
-version: "2015-03-01"
-nachtrag: "90"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2010-08-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-175_21-2010_08_23-2011_01_01-090.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-175_21-2010_08_23-2011_01_01-131.html"
 text: pdf
 ---
 
@@ -31,27 +30,31 @@ beschliesst:
 
 ### A. Zentrale Organe
 
-#### § 1
+**Plenum a. Zusammensetzung und Beschlussfassung**
 
-**Gesamtgericht a. Zusammensetzung und Beschlussfassung**
-
-<sup>1</sup> Das Gesamtgericht (Plenum) besteht aus den vollamtlichen und teilamtlichen Mitgliedern des Verwaltungsgerichts.
+§ 1.[^hAZentraleOrgane-1] <sup>1</sup> Das Plenum besteht aus den vollamtlichen und teilamtlichen Mitgliedern des Verwaltungsgerichts.
 
 <sup>2</sup> Es hält so oft Sitzungen ab, als es die Geschäfte erfordern. Den Vorsitz führt die Gerichtspräsidentin oder der Gerichtspräsident, bei Verhinderung die erste Vizepräsidentin oder der erste Vizepräsident und bei deren Verhinderung die übrigen Vizepräsidentinnen und Vizepräsidenten in absteigender Reihenfolge.
 
-<sup>3</sup> Das Plenum tritt auf Einladung der Präsidentin oder des Präsidenten zusammen, ferner wenn die Verwaltungskommission, die Konsultativkommission oder mindestens vier Mitglieder des Gerichts dies verlangen.[^1-1]
+<sup>3</sup> Das Plenum tritt auf Einladung der Gerichtspräsidentin oder des Gerichtspräsidenten zusammen, ferner wenn die Gerichtsleitung oder mindestens vier Mitglieder des Gerichts dies verlangen.
 
-<sup>4</sup> Beschlüsse des Plenums sind gültig, wenn an der Sitzung oder am Zirkulationsverfahren mindestens zwei Drittel aller Mitglieder teilnehmen.
+<sup>4</sup> Jedes Mitglied kann ein Geschäft traktandieren lassen.
 
-<sup>5</sup> Jedes Mitglied ist zur Stimmabgabe verpflichtet. Bei Stimmengleichheit zählt die Stimme der oder des Vorsitzenden doppelt.
+<sup>5</sup> Beschlüsse des Plenums sind gültig, wenn an der Sitzung oder dem Zirkulationsverfahren mindestens zwei Drittel aller Mitglieder teilnehmen. Die Teilnahme kann in begründeten Fällen durch technische Hilfsmittel erfolgen.
 
-[^1-1]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
+<sup>6</sup> Das Plenum kann Beschlüsse im Zirkulationsverfahren fassen, wenn kein Mitglied eine Sitzung verlangt.
 
-#### § 2
+<sup>7</sup> Jedes Mitglied ist zur Stimmabgabe verpflichtet. Bei Stimmengleichheit zählt die Stimme der oder des Vorsitzenden doppelt.
+
+<sup>8</sup> Die Generalsekretärin oder der Generalsekretär führt das Sekretariat des Plenums und nimmt an dessen Sitzungen mit beratender Stimme teil.
 
 **b. Konstituierung**
 
-<sup>1</sup> Das Gesamtgericht konstituiert sich jeweils zu Beginn und auf Mitte einer Amtsperiode. Bei Bedarf kann es sich auch in der Zwischenzeit neu konstituieren.
+§ 2.[^hAZentraleOrgane-1] <sup>1</sup> Das Plenum konstituiert sich jeweils zu Beginn und auf Mitte einer Amtsperiode. Bei Bedarf kann es sich auch in der Zwischenzeit neu konstituieren.
+
+**1**
+
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Es beschliesst bei der Konstituierung über a. die Zahl der Abteilungen,
 
@@ -59,181 +62,170 @@ beschliesst:
 
 - c. die Zuteilung seiner Mitglieder an die Abteilungen.
 
-**1**
+<sup>3</sup> Es wählt a. die Abteilungspräsidien,
 
-- 1\. 10. 15 - 90
+- b. die Mitglieder der Gerichtsleitung,
 
-<sup>3</sup> Es wählt a. die Gerichtspräsidentin oder den Gerichtspräsidenten,
+- c. aus den Mitgliedern der Gerichtsleitung die Gerichtspräsidentin oder den Gerichtspräsidenten und die Vizepräsidentinnen und Vizepräsidenten,
 
-- b. so viele Vizepräsidentinnen und Vizepräsidenten, wie für die Besetzung der Abteilungen mit Präsidentinnen und Präsidenten erforderlich sind,
+- d. vier Mitglieder des Gerichts als Delegierte in den Plenarausschuss der obersten Gerichte.
 
-- c. vier Mitglieder als Delegierte in den Plenarausschuss der Gerichte, d.[^2-1] die Mitglieder der Konsultativkommission und dessen Präsidentin oder Präsidenten, e.[^2-1] aus der Konsultativkommission ein Mitglied der Verwaltungskommission.
+**c. Wahlen und Ernennungen**
 
-[^2-1]: Eingefügt durch B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
+§ 3.[^hAZentraleOrgane-1] Das Plenum a. ernennt die Generalsekretärin oder den Generalsekretär sowie deren bzw. dessen Stellvertreterin oder Stellvertreter,
 
-#### § 3
+- b. wählt die Vorsitzenden, Mitglieder und Ersatzmitglieder der Schätzungskommissionen (§ 34 Gesetz betreffend die Abtretung von Privatrechten vom 30. November 1879[^hAZentraleOrgane-2],
 
-**c. Wahlen**
+- c. ernennt die Datenschutz- und Informationssicherheitsbeauftragte oder den Datenschutz- und Informationssicherheitsbeauftragten,
 
-Das Gesamtgericht a. ernennt die Generalsekretärin oder den Generalsekretär sowie deren bzw. dessen Stellvertreterin oder Stellvertreter,
+- d. ernennt die Vertrauenspersonen.
 
-- b. wählt die Vorsitzenden, Mitglieder und Ersatzmitglieder der Schätzungskommissionen (§ 34 des Gesetzes betreffend die Abtretung von Privatrechten vom 30. November 1879[^3-1].
-
-[^3-1]: LS 781.
-[^3-2]: LS 175.2.
-[^3-3]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
+[^hAZentraleOrgane-1]: Fassung gemäss B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
+[^hAZentraleOrgane-2]: LS 781.
+[^hAZentraleOrgane-3]: LS 175.2.
+[^hAZentraleOrgane-4]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
 
 #### § 4
 
 **d. Verordnungen**
 
-Das Gesamtgericht erlässt die Verordnungen gemäss § 40 Abs. 1 VRG[^3-2], ferner solche über a.[^3-3] die Organisation und den Verfahrensgang des Bau- und des Steuerrekursgerichts sowie das Verfahren der Schätzungskommissionen in Abtretungsstreitigkeiten,
+Das Plenum erlässt die Verordnungen gemäss § 40 Abs. 1 VRG[^hAZentraleOrgane-3], ferner solche über[^hAZentraleOrgane-1] a.[^hAZentraleOrgane-4] die Organisation und den Verfahrensgang des Bau- und des Steuerrekursgerichts sowie das Verfahren der Schätzungskommissionen in Abtretungsstreitigkeiten,
 
 - b. die Gebühren, Kosten und Entschädigungen des Bau- und des Steuerrekursgerichts.
 
-#### § 5
-
 **e. Weitere Kompetenzen**
 
-<sup>1</sup> Das Gesamtgericht beschliesst über a. die Verabschiedung des Rechenschaftsberichts an den Kantonsrat,
+§ 5.[^4-1] <sup>1</sup> Das Plenum beschliesst über a. die Verabschiedung des Rechenschaftsberichts an den Kantonsrat,
 
-- b. Stellungnahmen im Verkehr mit dem Kantonsrat und dem Regierungsrat, soweit es um Angelegenheiten geht, die für die Organisation und den Geschäftsgang des Gerichts von grundlegender Bedeutung sind,
+- b. Stellungnahmen im Verkehr mit dem Kantonsrat und dem Regierungsrat, soweit es um Angelegenheiten geht, die für die Organisation, die Zuständigkeiten und den Geschäftsgang des Gerichts von grundlegender Bedeutung sind,
 
-- c. Urlaubsgesuche von Mitgliedern für mehr als drei Monate, sofern sie nicht wegen Krankheit oder Unfall gestellt werden,
+- c. Justizverwaltungsgeschäfte von besonderer Tragweite,
 
-- d. den Einsatz von Ersatzmitgliedern mit zeitlich bestimmtem Pensum,
+- d. Justizverwaltungsgeschäfte, welche die Gerichtsleitung dem Plenum überwiesen hat,
 
-- e. Justizverwaltungsgeschäfte, welche die Verwaltungskommission dem Gesamtgericht überwiesen hat,
+- e. die Genehmigung der Geschäftsordnungen des Bau- und des Steuerrekursgerichts,
 
-- f. die Spesenentschädigung der teilamtlichen Richter und der Ersatzmitglieder,
+- f. den Einsatz von Ersatzmitgliedern mit zeitlich bestimmtem Pensum,
 
-- g. die Genehmigung der Geschäftsordnungen des Bau- und des Steuerrekursgerichts.
+- g. Urlaubsgesuche von Mitgliedern für mehr als drei Monate, sofern sie nicht wegen Krankheit oder Unfall gestellt werden,
+
+- h. die Spesenentschädigung der teilamtlichen Richterinnen und Richter sowie der Ersatzmitglieder.
 
 <sup>2</sup> Es bezeichnet die Personen, die es dem Kantonsrat zur Wahl als Ersatzmitglieder vorschlägt.
 
-**Verwaltungskommission a. Zusammensetzung und Organisation**
+**Gerichtsleitung a. Zusammensetzung und Organisation**
 
-§ 6.[^5-1] <sup>1</sup> Die Verwaltungskommission besteht aus der Gerichtspräsidentin oder dem Gerichtspräsidenten, den Vizepräsidentinnen und Vizepräsidenten sowie einem Gerichtsmitglied, welches der Konsultativkommission angehört. Die Präsidentin oder der Präsident führt den Vorsitz.
+§ 6.[^4-1] <sup>1</sup> Die Gerichtsleitung besteht aus einer ungeraden Anzahl von Mitgliedern, wobei jede Abteilung mit einem Mitglied vertreten sein muss. Die Gerichtspräsidentin oder der Gerichtspräsident führt den Vorsitz.
 
-<sup>2</sup> Die Generalsekretärin oder der Generalsekretär führt das Sekretariat.
+<sup>2</sup> Die Generalsekretärin oder der Generalsekretär führt das Sekretariat der Gerichtsleitung und nimmt an deren Sitzungen mit beratender Stimme teil.
 
-<sup>3</sup> Für die Bearbeitung der Geschäfte kann die Kommission Ressorts bilden. Diese stehen unter der Verantwortung einzelner ihrer Mitglieder.
+<sup>3</sup> Für die Bearbeitung der Geschäfte kann die Gerichtsleitung Ressorts bilden. Diese stehen unter der Verantwortung einzelner ihrer Mitglieder.
 
-<sup>4</sup> Bei Bedarf kann die Kommission zu ihren Sitzungen weitere Mitglieder und Ersatzmitglieder des Verwaltungsgerichts sowie Angestellte der Rechtspflege und aussenstehende Fachleute beiziehen. Diese haben beratende Stimme.
+<sup>4</sup> Die Gerichtsleitung kann für bestimmte Aufgaben Ausschüsse oder Kommissionen einsetzen. Sie kann diesen Entscheidungskompetenzen delegieren.
 
-<sup>5</sup> Jedes Mitglied der Verwaltungskommission kann sich aus besonderen Gründen vertreten lassen;
+<sup>5</sup> Bei Bedarf kann die Gerichtsleitung zu ihren Sitzungen weitere Mitglieder und Ersatzmitglieder des Verwaltungsgerichts sowie Angestellte der Rechtspflege und aussenstehende Fachleute beiziehen. Diese haben beratende Stimme.
 
-- a. die Gerichtspräsidentin oder der Gerichtspräsident und die Vizepräsidentinnen und Vizepräsidenten durch ein Mitglied ihrer Abteilung,
+<sup>6</sup> Jedes Mitglied der Gerichtsleitung kann sich aus besonderen Gründen durch ein Mitglied der gleichen Abteilung vertreten lassen.
 
-- b. das Mitglied gemäss § 2 Abs. 3 lit. e durch ein anderes Mitglied der Konsultativkommission.
+**b. Aufgaben und Kompetenzen im Allgemeinen**
 
-[^5-1]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
+§ 7.[^4-1] <sup>1</sup> Die Gerichtsleitung behandelt als zentrales Führungs- und Aufsichtsorgan alle Justizverwaltungsgeschäfte des Verwaltungsgerichts und der ihm unterstellten Gerichte, soweit sie nicht durch Gesetz anderen Behörden oder durch diese Verordnung anderen Organen des Gerichts vorbehalten sind.
 
-#### § 7
-
-**b. Kompetenzen im Allgemeinen**
-
-<sup>1</sup> Die Verwaltungskommission behandelt als zentrales Führungs- und Aufsichtsorgan alle Justizverwaltungsgeschäfte des Verwaltungsgerichts und der ihm unterstellten Gerichte, soweit sie nicht durch Gesetz anderen Behörden oder durch diese Verordnung anderen Organen des Gerichts vorbehalten sind.
-
-<sup>2</sup> Die Verwaltungskommission macht die Traktandenliste sowie die Protokolle allen Mitgliedern bekannt und gibt diesen auf Verlangen weitere Informationen.[^7-1]
-
-<sup>3</sup> Die Verwaltungskommission stellt auf Antrag der Abteilungen das Personal des Sekretariats und der Kanzlei an.
-
-<sup>4</sup> Ihr obliegt die Vorbereitung aller vom Gesamtgericht zu behandelnden Geschäfte. Sie kann dem Gesamtgericht Antrag stellen.
-
-<sup>5</sup> Sie kann in ihre Kompetenz fallende Geschäfte von besonderer Tragweite dem Gesamtgericht überweisen.
+<sup>2</sup> Die Gerichtsleitung macht ihre Traktandenlisten und Protokolle allen Mitgliedern bekannt. Sie stellt diesen auf Verlangen spätestens nach Abschluss der Beratung weitere Informationen sowie die Unterlagen zur Verfügung, soweit dem nicht überwiegende Geheimhaltungsinteressen entgegenstehen. Bei Uneinigkeit zwischen dem den Zugang begehrenden Mitglied und der Gerichtsleitung über den Umfang der Zugänglichkeit entscheidet das Plenum.
 
 **3**
 
-- 1\. 10. 15 - 90 § 8. <sup>1</sup> Die Verwaltungskommission übt die administrative Aufsicht über das Bau- und das Steuerrekursgericht sowie die Schätzungskommissionen aus.[^7-2]
+- 1\. 1. 26 - 131
 
-**c. Aufsicht über Bau- und Steuerrekursgericht sowie die Schätzungskommissionen7**
+<sup>3</sup> Die Gerichtsleitung stellt auf Antrag der Abteilungen deren Personal und auf Antrag der Generalsekretärin oder des Generalsekretärs das Personal der Zentralkanzlei an. Sie stellt die Mitsprache der Angestellten in den sie betreffenden Geschäften der Justizverwaltung in angemessener Weise sicher.
 
-<sup>2</sup> Sie setzt die Anfangseinreihungen der Mitglieder des Bau- und des Steuergerichts in die Lohnklassen und die Lohnstufen fest.
+<sup>4</sup> Ihr obliegt die Vorbereitung aller vom Plenum zu behandelnden Geschäfte. Sie kann dem Plenum Antrag stellen.
+
+<sup>5</sup> Sie kann in ihre Kompetenz fallende Geschäfte in begründeten Fällen dem Plenum überweisen.
+
+**c. Aufsicht über das Bau- und das Steuerrekursgericht sowie die Schätzungskommissionen**
+
+§ 8.[^4-1] <sup>1</sup> Die Gerichtsleitung übt die administrative Aufsicht über das Bau- und das Steuerrekursgericht sowie die Schätzungskommissionen aus.
+
+<sup>2</sup> Sie setzt die Anfangseinreihungen der Mitglieder des Bau- und des Steuerrekursgerichts in die Lohnklassen und die Lohnstufen fest.
 
 <sup>3</sup> Sie genehmigt die Anstellung der Kanzleichefin oder des Kanzleichefs des Baurekursgerichts.
 
-**d. Rechtsmittelinstanz**
-
-§ 8 a.[^7-1] Die Verwaltungskommission behandelt Rechtsmittel gegen gerichtsinterne Entscheide in Justizverwaltungsgeschäften ausser gegen solche, die von ihr selbst oder vom Gesamtgericht stammen. § 38 VRG[^7-3] und §§ 12 Abs. 2, 13, 18, 20 und 21 dieser Verordnung gelten sinngemäss.
-
-**Konsultativkommission**
-
-§ 8 b.[^7-1] <sup>1</sup> Die Konsultativkommission besteht aus vier Gerichtsmitgliedern, die keine Abteilung präsidieren.
-
-<sup>2</sup> Sie wird von der Verwaltungskommission in die Vorbereitung wichtiger Geschäfte einbezogen. Sie kann a. der Verwaltungskommission und dem Plenum Anträge stellen,
-
-- b. bei der Verwaltungskommission Auskunft über bestimmte Geschäfte verlangen.
-
-[^7-1]: Eingefügt durch B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
-[^7-2]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
-[^7-3]: LS 175.2.
-
-#### § 9
+§§ 8 a und 8 b.[^4-2]
 
 **Gerichtspräsidentin oder Gerichtspräsident**
 
-<sup>1</sup> Die Gerichtspräsidentin oder der Gerichtspräsident vertritt das Gericht gegen aussen und gewährleistet die Zusammenarbeit mit den anderen obersten kantonalen Gerichten. Sie oder er kann diese Befugnis fall- oder bereichsweise einem Mitglied der Verwaltungskommission oder der Generalsekretärin oder dem Generalsekretär übertragen.[^7-2]
+§ 9.[^4-1] <sup>1</sup> Die Gerichtspräsidentin oder der Gerichtspräsident vertritt das Gericht gegen aussen und gewährleistet die Zusammenarbeit mit den anderen obersten kantonalen Gerichten. Sie oder er kann diese Befugnis fall- oder bereichsweise einem Mitglied der Gerichtsleitung oder der Generalsekretärin oder dem Generalsekretär übertragen.
 
-<sup>2</sup> Die Präsidentin oder der Präsident entscheidet in Einzelfällen bei Zuständigkeitskonflikten zwischen den Abteilungen.
+<sup>2</sup> Die Gerichtspräsidentin oder der Gerichtspräsident entscheidet in Einzelfällen bei Zuständigkeitskonflikten zwischen den Abteilungen.
 
-<sup>3</sup> Ihr oder ihm unterstehen die Generalsekretärin oder der Generalsekretär und die Zentralkanzlei.
+<sup>3</sup> Ihr oder ihm untersteht die Generalsekretärin oder der Generalsekretär.
 
 <sup>4</sup> Sie oder er entscheidet über Justizverwaltungsgeschäfte von geringer Bedeutung. Sie oder er kann diese Befugnis in Einzelfällen der Generalsekretärin oder dem Generalsekretär übertragen.
 
-<sup>5</sup> Sie oder er bestimmt die bei Fünferbesetzung mitwirkenden Mitglieder des Verwaltungsgerichts, die Referentin oder den Referenten und die Gerichtsschreiberin oder den Gerichtsschreiber bei Beschwerden gegen Erlasse aus den Bereichen des Privat-, Straf- oder Sozialversicherungsrechts. Sie oder er führt in der Regel den Vorsitz.
-
-#### § 10
+<sup>5</sup> Bei Verhinderung der Gerichtspräsidentin oder des Gerichtspräsidenten treten die Vizepräsidentinnen oder Vizepräsidenten in absteigender Reihenfolge an ihre oder seine Stelle.
 
 **Generalsekretärin oder Generalsekretär**
 
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär hat folgende Aufgaben:
+§ 10.[^4-1] <sup>1</sup> Die Generalsekretärin oder der Generalsekretär hat folgende Aufgaben:
 
-- a. Vorbereitung der Geschäfte der Präsidentin oder des Präsidenten,
+- a. Vorbereitung der Geschäfte der Gerichtspräsidentin oder des Gerichtspräsidenten,
 
-- b. Unterstützung der Präsidentin oder des Präsidenten bei der Vorbereitung der Geschäfte des Plenums und der Verwaltungskommission,
+- b. Vorbereitung der Geschäfte der Gerichtsleitung mit Antragsrecht,
 
-- c. Teilnahme an den Sitzungen des Plenums und der Verwaltungskommission mit Antragsrecht und beratender Stimme,
+- c. Unterstützung der Gerichtsleitung bei der Vorbereitung der Geschäfte des Plenums,
 
-- d. Leitung der Zentralkanzlei, wobei sie oder er insbesondere für die Personaladministration, die Budgetierung, das Rechnungswesen, die EDV, die Dokumentation und die Archivierung verantwortlich ist,
+- d. Leitung der Zentralkanzlei, wobei sie oder er insbesondere für die Personaladministration, die Budgetierung, das Rechnungswesen, die Informationstechnik, die Dokumentation und die Archivierung verantwortlich ist,
 
-- e. Koordination der Arbeit der Gerichtsschreiberinnen und Gerichtsschreiber und des administrativen Abteilungspersonals,
+- e. Unterstützung der Abteilungspräsidien bei der Personalrekrutierung.
 
-- f. Unterstützung der Abteilungspräsidentinnen und Abteilungspräsidenten bei der Personalrekrutierung,
-
-- g. Regelung der abteilungsübergreifenden personellen Belange.
-
-<sup>2</sup> Die Stellvertretung der Generalsekretärin oder des Generalsekretärs vertritt diese oder diesen bei Abwesenheit. Die Generalsekretärin oder der Generalsekretär kann der Stellvertretung übertragen:
+<sup>2</sup> Die Stellvertretung der Generalsekretärin oder des Generalsekretärs vertritt diese oder diesen bei Verhinderung. Die Generalsekretärin oder der Generalsekretär kann der Stellvertretung übertragen:
 
 - a. ausnahmsweise einzelne Geschäfte,
 
-- b. mit Zustimmung der Verwaltungskommission ganze Geschäftsbereiche.
+- b. mit Zustimmung der Gerichtsleitung ganze Geschäftsbereiche.
+
+**Vertrauenspersonen**
+
+§ 10 a.[^4-3] <sup>1</sup> Die Vertrauenspersonen sind erste Anlaufstelle für Angestellte,
+
+- a. die sich am Arbeitsplatz in ihrer Würde oder Integrität verletzt sehen,
+
+- b. die Missstände oder Fehlverhalten melden möchten.
+
+<sup>2</sup> Die Vertrauenspersonen unterliegen der Schweigepflicht.
+
+<sup>3</sup> Das Plenum regelt das Verfahren und die Einzelheiten.
+
+[^4-1]: Fassung gemäss B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
+[^4-2]: Aufgehoben durch B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
+[^4-3]: Eingefügt durch B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
 
 ### B. Abteilungen, Spruchkörper, Richterinnen und Richter
 
-#### § 11
-
 **Abteilungen**
 
-<sup>1</sup> Die Abteilungen behandeln die in Dreierbesetzung zu erledigenden Geschäfte in einer Kammer.
+§ 11.[^hBAbteilungenSpru-1] <sup>1</sup> Die Abteilungen behandeln die ihnen zugewiesenen Geschäfte in Dreier- oder Fünferbesetzung (Kammergeschäfte) oder als Einzelrichterin oder Einzelrichter.
 
-<sup>2</sup> Sie bezeichnen die Mitglieder mit Einzelrichterkompetenz.
+<sup>2</sup> Sie sorgen für eine beförderliche Erledigung der Geschäfte.
 
-<sup>3</sup> Sie erledigen andere ihnen zugewiesene Aufgaben des Gesamtgerichts.
+<sup>3</sup> Sie bezeichnen die Mitglieder mit Einzelrichterkompetenz.
 
-#### § 12
+<sup>4</sup> Sie erledigen andere ihnen vom Plenum zugewiesene Aufgaben.
 
-**Abteilungspräsidentinnen und Abteilungspräsidenten**
+**Abteilungspräsidium**
 
-<sup>1</sup> Jeder Abteilung steht die Gerichtspräsidentin oder der Gerichtspräsident oder eine Vizepräsidentin oder ein Vizepräsident vor.
+§ 12.[^hBAbteilungenSpru-1] <sup>1</sup> Jeder Abteilung steht das Abteilungspräsidium vor. Es kann durch ein einzelnes Mitglied oder durch zwei Mitglieder im Co-Präsidium ausgeübt werden.
 
-<sup>2</sup> Sie oder er sorgt bei allen Kammergeschäften für eine speditive Erledigung und eine fachkundige Urteilsredaktion.
+<sup>2</sup> Die Gerichtsschreiberinnen und Gerichtsschreiber sowie das administrative Personal der Abteilung unterstehen dem Abteilungspräsidium.
 
-<sup>3</sup> Sie oder er ist unmittelbare Vorgesetzte oder unmittelbarer Vorgesetzter der Gerichtsschreiberinnen und Gerichtsschreiber sowie des administrativen Personals der Abteilung.
+<sup>3</sup> Das Abteilungspräsidium beteiligt die übrigen Mitglieder der Abteilung in angemessenem Rahmen an der Personalführung.
+
+<sup>4</sup> Das administrative Personal kann mit Beschluss der Mitglieder der Abteilung einer Leitenden Gerichtsschreiberin oder einem Leitenden Gerichtsschreiber unterstellt werden.
 
 **5**
 
-- 1\. 10. 15 - 90 § 13.[^12-1] <sup>1</sup> Die Abteilungspräsidentin oder der Abteilungspräsident bestimmt
+- 1\. 1. 26 - 131 § 13.[^hBAbteilungenSpru-1] <sup>1</sup> Das Abteilungspräsidium bestimmt
 
 **Spruchkörper**
 
@@ -249,37 +241,24 @@ Das Gesamtgericht erlässt die Verordnungen gemäss § 40 Abs. 1 VRG[^3-2], fern
 
 <sup>2</sup> Die Bestimmung nach Abs. 1 lit. b–e erfolgt nach sachlichen Kriterien, wie besonderen fachlichen Kenntnissen und zeitlicher Verfügbarkeit, unter Wahrung der Entscheidoffenheit.
 
-<sup>3</sup> Den Spruchkörper besetzt sie oder er a. bei in Dreierbesetzung zu erledigenden Geschäften (Kammergeschäfte) mit Mitgliedern der Abteilung,
+<sup>3</sup> In begründeten Fällen können auch Mitglieder anderer Abteilungen oder Ersatzmitglieder beigezogen werden. Ein Mitglied der Abteilung führt in der Regel den Vorsitz.
 
-- b. bei Einzelrichtergeschäften mit einem Mitglied der Abteilung.
+<sup>4</sup> Bei Beschwerden gegen Erlasse aus den Bereichen des Privat-, Straf- oder Sozialversicherungsrechts bestimmt die Gerichtspräsidentin oder der Gerichtspräsident die mitwirkenden Mitglieder des Verwaltungsgerichts, den Vorsitz, die Referentin oder den Referenten und die Gerichtsschreiberin oder den Gerichtsschreiber.
 
-<sup>4</sup> In begründeten Fällen kann sie oder er auch Mitglieder anderer Abteilungen oder Ersatzmitglieder beiziehen.
-
-<sup>5</sup> Sie oder er führt in der Regel den Vorsitz.
-
-[^12-1]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
-
-#### § 14
-
-**Einzelrichterin oder Einzelrichter**
-
-<sup>1</sup> Die Einzelrichterin oder der Einzelrichter ist für eine speditive Geschäftserledigung und eine fachkundige Urteilsredaktion verantwortlich.
-
-<sup>2</sup> Sie oder er setzt Gerichtsschreiberinnen, Gerichtsschreiber und administratives Personal in Absprache mit der Abteilungspräsidentin oder dem Abteilungspräsidenten ein.
-
-<sup>3</sup> Sie oder er wird entsprechend der Belastung für Einzelrichtergeschäfte von den Kammergeschäften entlastet.
-
-#### § 15
+§ 14.[^hBAbteilungenSpru-2]
 
 **Teilamtliche Mitglieder**
 
-Teilamtliche Mitglieder sind im Rahmen ihres Beschäftigungsgrades am Sitz des Gerichts so oft anwesend, wie es für den reibungslosen Geschäftsgang erforderlich ist.
+§ 15. Teilamtliche Mitglieder sind im Rahmen ihres Beschäftigungsgrades am Sitz des Gerichts so oft anwesend, wie es für den reibungslosen Geschäftsgang erforderlich ist.
+
+[^hBAbteilungenSpru-1]: Fassung gemäss B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
+[^hBAbteilungenSpru-2]: Aufgehoben durch B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
 
 #### § 16
 
 **Ersatzmitglieder**
 
-<sup>1</sup> Ersatzmitglieder stehen grundsätzlich für den Einsatz in allen Kammern zur Verfügung. Ausnahmsweise können sie einer oder mehreren Abteilungen fest zugeteilt werden.
+<sup>1</sup> Ersatzmitglieder stehen grundsätzlich für den Einsatz in allen Abteilungen zur Verfügung. Ausnahmsweise können sie einer oder mehreren Abteilungen fest zugeteilt werden.[^hBAbteilungenSpru-1]
 
 <sup>2</sup> Bei Bedarf können einzelne Ersatzmitglieder aufgrund eines zeitlich fest bestimmten Beschäftigungsgrads unter entsprechender Entlöhnung eingesetzt werden.
 
@@ -291,23 +270,22 @@ Teilamtliche Mitglieder sind im Rahmen ihres Beschäftigungsgrades am Sitz des G
 
 <sup>1</sup> Die Abteilungen behandeln die in ihren Zuständigkeitsbereich fallenden Geschäfte.
 
-<sup>2</sup> In Zweifelsfällen verständigen sich die Abteilungspräsidentinnen und Abteilungspräsidenten. Können sie sich nicht einigen, entscheidet die Gerichtspräsidentin oder der Gerichtspräsident.
-
-#### § 18
+<sup>2</sup> In Zweifelsfällen verständigen sich die Abteilungspräsidien. Können sie sich nicht einigen, entscheidet die Gerichtspräsidentin oder der Gerichtspräsident.[^17-1] § 18.[^17-1] <sup>1</sup> Die oder der Kammervorsitzende leitet den Prozess und erlässt die dazu erforderlichen prozessleitenden Anordnungen. Vorbehalten bleiben Anordnungen der Kammer im Beweisverfahren.
 
 **Prozessleitung und Entscheid a. Kammergeschäfte**
 
-<sup>1</sup> Die oder der Kammervorsitzende leitet den Prozess und erlässt die dazu erforderlichen prozessleitenden Anordnungen. Vorbehalten bleiben Anordnungen der Kammer im Beweisverfahren.
+<sup>2</sup> Sie oder er kann der Referentin oder dem Referenten die Prozessleitung ganz oder teilweise übertragen. Die Referentin oder der Referent kann die Parteien zu einer Referentenaudienz vorladen.[^17-2]
 
-<sup>2</sup> Sie oder er kann der Referentin oder dem Referenten die Prozessleitung ganz oder teilweise übertragen. Die Referentin oder der Referent kann die Parteien zu einer Referentenaudienz vorladen.[^18-1]
+<sup>3</sup> Wichtige prozessleitende Anordnungen können der Kammer übertragen werden.
 
-<sup>3</sup> Sie oder er leitet die vor der Kammer durchzuführenden mündlichen Parteiverhandlungen. Sie oder er kann Teile der Verhandlungsleitung der Referentin oder dem Referenten übertragen.
+<sup>4</sup> Die oder der Kammervorsitzende leitet die vor der Kammer durchzuführenden mündlichen Parteiverhandlungen. Sie oder er kann Teile der Verhandlungsleitung der Referentin oder dem Referenten übertragen.
 
-<sup>4</sup> Die Kammer kann die Durchführung eines Beweisverfahrens ganz oder teilweise einer Abordnung, der oder dem Vorsitzenden oder einem Mitglied übertragen.
+<sup>5</sup> Die Kammer kann die Durchführung eines Beweisverfahrens ganz oder teilweise einer Abordnung, der oder dem Vorsitzenden oder einem Mitglied übertragen.
 
-<sup>5</sup> Die Referentin oder der Referent stellt ihren oder seinen Antrag auf Erledigung des Geschäfts in der Regel schriftlich und mit Begründung. Die oder der Vorsitzende kann ein anderes Mitglied der Kammer oder die Gerichtsschreiberin oder den Gerichtsschreiber mit der Ausarbeitung eines schriftlichen Koreferats beauftragen.
+<sup>6</sup> Die Referentin oder der Referent stellt ihren oder seinen Antrag auf Erledigung des Geschäfts in der Regel schriftlich und mit Begründung. Die oder der Vorsitzende kann ein anderes Mitglied der Kammer oder die Gerichtsschreiberin oder den Gerichtsschreiber mit der Ausarbeitung eines schriftlichen Koreferats beauftragen.
 
-[^18-1]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
+[^17-1]: Fassung gemäss B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
+[^17-2]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
 
 #### § 19
 
@@ -317,21 +295,11 @@ Teilamtliche Mitglieder sind im Rahmen ihres Beschäftigungsgrades am Sitz des G
 
 <sup>2</sup> Überweist sie oder er einen Fall von grundsätzlicher Bedeutung der Kammer, wirkt sie oder er bei dessen Behandlung mit.
 
-#### § 20
-
 **Urteilsredaktion**
 
-<sup>1</sup> Die Redaktion der Entscheide und Beschlüsse erfolgt durch die Generalsekretärin oder den Generalsekretär oder eine Gerichtsschreiberin oder einen Gerichtsschreiber. Bei Kammergeschäften stützen sie sich dabei auf das Referat und die mündliche Beratung ab.
+§ 20.[^19-1] Die Redaktion der Entscheide und Beschlüsse erfolgt durch eine Gerichtsschreiberin oder einen Gerichtsschreiber. Sie oder er stützt sich dabei auf das Referat und die mündliche Beratung ab.
 
-<sup>2</sup> Entscheide und Erledigungsbeschlüsse werden unterzeichnet:
-
-- a. durch die Vorsitzende oder den Vorsitzenden der Kammer bzw. die Einzelrichterin oder den Einzelrichter und
-
-- b. durch die Generalsekretärin oder den Generalsekretär oder eine Gerichtsschreiberin oder einen Gerichtsschreiber.
-
-**7**
-
-- 1\. 10. 15 - 90
+[^19-1]: Fassung gemäss B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
 
 ### D. Behandlung von Ausstandsbegehren
 
@@ -339,14 +307,24 @@ Teilamtliche Mitglieder sind im Rahmen ihres Beschäftigungsgrades am Sitz des G
 
 <sup>2</sup> Kann wegen einer Vielzahl von Ausstandsbegehren kein Spruchkörper gebildet werden, führt ein nicht abgelehntes Mitglied der Abteilung das Verfahren. Es zieht ergänzend Mitglieder einer anderen Abteilung oder Ersatzmitglieder bei und übernimmt den Vorsitz.
 
-<sup>3</sup> Richtet sich das Ausstandsbegehren gegen jedes Mitglied einer Abteilung, weist die Gerichtspräsidentin oder der Gerichtspräsident oder ein nicht abgelehntes Mitglied der Verwaltungskommission das Begehren einer anderen Abteilung zum Entscheid zu. Für die Bildung des Spruchkörpers gilt § 13 Abs. 1 und 2 sinngemäss.
+**7**
 
-<sup>4</sup> Richtet sich das Ausstandsbegehren gegen die Mitwirkung von Mitgliedern oder der Generalsekretärin oder des Generalsekretärs im Gesamtgericht, entscheidet das Gesamtgericht unter Ausschluss der Personen, gegen die sich das Begehren richtet.
+- 1\. 1. 26 - 131
 
-[^hDBehandlungvonAu-1]: Fassung gemäss B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
+<sup>3</sup> Richtet sich das Ausstandsbegehren gegen jedes Mitglied einer Abteilung, weist die Gerichtspräsidentin oder der Gerichtspräsident oder ein nicht abgelehntes Mitglied der Gerichtsleitung das Begehren einer anderen Abteilung zum Entscheid zu. Für die Bildung des Spruchkörpers gilt § 13 Abs. 1, 2 und 4 sinngemäss.
+
+<sup>4</sup> Richtet sich das Ausstandsbegehren gegen die Mitwirkung von Mitgliedern oder der Generalsekretärin oder des Generalsekretärs im Plenum, entscheidet dieses unter Ausschluss der Personen, gegen die sich das Begehren richtet.
+
+<sup>5</sup> Über Ausstandsbegehren gegen eine Vielzahl von Mitgliedern unterstellter Gerichte, die vom Verwaltungsgericht zu entscheiden sind, befindet jene Abteilung, die als Rechtsmittelbehörde für den Entscheid in der Sache zuständig ist.
+
+[^hDBehandlungvonAu-1]: Fassung gemäss B vom 19. November 2024 (OS 80, 323; ABl 2025-02-07). In Kraft seit 1. Januar 2026.
 
 ### E. Schlussbestimmung
 
 #### § 22
 
 Die Verordnung über die Organisation und den Geschäftsgang des Verwaltungsgerichts vom 26. Juni 1997 wird aufgehoben.
+
+## Weitere Fussnoten
+
+- [6] Eingefügt durch B vom 26. August 2014 (OS 70, 263; ABl 2014-11-28). In Kraft seit 1. März 2015.
