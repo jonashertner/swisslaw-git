@@ -3,13 +3,12 @@ canton: TG
 number: "187.23"
 title: Verordnung der Evangelischen Synode des Kantons Thurgau zur Rechtsstellung der ordinierten Amtspersonen
 language: de
-version: 2021-06-01
-valid_until: 2025-12-31
-version_adopted: 2020-12-01
+version: 2026-01-01
+version_adopted: 2025-11-17
 adopted: 2007-11-26
 in_force: 2008-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.23"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2045/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2986/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2045/pdf_file"
 
 V der Evang. Synode - Rechtsstellung der ordinierten Amtspersonen
 
-vom 26.11.2007 (Stand 01.06.2021)
+vom 26.11.2007 (Stand 01.01.2026)
 
 ## I. Geltungsbereich
 
@@ -120,11 +119,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 #### § 9
 
-**Stellenumfang**
-
-<sup>1</sup> Pfarrstellen von mindestens 60 Prozent eines Vollamtes sind vorbehältlich § 23 Abs. 2 dieser Verordnung durch eine Wahl durch die Kirchgemeinde zu besetzen.
-
-<sup>2</sup> Pfarrstellen von weniger als 60 Stellenprozenten können durch Wahl oder Anstellung besetzt werden.
+**…**
 
 #### § 10
 
@@ -138,7 +133,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 **Besoldung**
 
-<sup>1</sup> Die Besoldung richtet sich nach den Bestimmungen der Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Landeskirche[^11-1].
+<sup>1</sup> Die Besoldung richtet sich nach den Bestimmungen der Besoldungsverordnung der Evangelischen Synode des Kantons Thurgau[^11-1].
 
 [^11-1]: RB [187.22](https://www.rechtsbuch.tg.ch/data/187.22/de)
 
@@ -188,7 +183,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 **Besoldung**
 
-<sup>1</sup> Die Besoldung richtet sich nach den Bestimmungen der Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Landeskirche.
+<sup>1</sup> Die Besoldung richtet sich nach den Bestimmungen der Besoldungsverordnung.
 
 #### § 18
 
@@ -228,11 +223,11 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 #### § 22
 
-**Stellenumfang**
+**Besetzung einer Pfarrstelle im Anstellungsverhältnis**
 
-<sup>1</sup> Die Möglichkeit zur Anstellung von Pfarrern und Pfarrerinnen für ein Pfarramt beschränkt sich auf ein Teilzeitamt unter 60 Stellenprozenten.
+<sup>1</sup> Die Aufsichtskommission und die Kandidatin oder der Kandidat klären im Bewerbungsverfahren, ob eine Stelle statt durch eine Wahl im Anstellungsverhältnis besetzt werden soll.
 
-<sup>2</sup> In einem Stellenumfang von 60 und mehr Stellenprozenten ist eine Anstellung von Pfarrern und Pfarrerinnen in begründeten Fällen befristet auf höchstens drei Jahre mit Zustimmung des Kirchenrates möglich.
+<sup>2</sup> Besteht Einvernehmen darin, dass die Stelle im Anstellungsverhältnis besetzt werden soll, stellt die Aufsichtskommission einen Antrag an die Kirchgemeinde auf Kompetenzübertragung.
 
 #### § 23
 
@@ -256,9 +251,9 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 **Besoldung**
 
-<sup>1</sup> Die Besoldung wird vertraglich festgelegt. Angestellte Pfarrer und Pfarrerinnen sind in den Lohnklassen 10 bis 12 gemäss Anhang der Verordnung über die Besoldung der ordinierten Amtspersonen in den Kirchgemeinden und des Personals der Landeskirche zu besolden.
+<sup>1</sup> Die Besoldung richtet sich nach den Bestimmungen der Besoldungsverordnung.
 
-<sup>2</sup> Im Übrigen gelten die Bestimmungen der Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Landeskirche.
+<sup>2</sup> …
 
 #### § 26
 
@@ -270,13 +265,13 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 **Ferien, Freisonntage**
 
-<sup>1</sup> Die Ferien- und Freisonntagsregelung entspricht jener für Gemeindepfarrer und Gemeindepfarrerinnen gemäss Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Evangelischen Landeskirche.
+<sup>1</sup> Die Ferien- und Freisonntagsregelung entspricht jener für Gemeindepfarrer und Gemeindepfarrerinnen gemäss Besoldungsverordnung.
 
 #### § 28
 
 **Weiterbildung und Studienurlaub**
 
-<sup>1</sup> Der Anspruch auf Fort- und Weiterbildung sowie Studienurlaub richtet sich nach der Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Evangelischen Landeskirche und der Verordnung betreffend die Fortbildung und Studienurlaube[^28-1].
+<sup>1</sup> Der Anspruch auf Fort- und Weiterbildung sowie Studienurlaub richtet sich nach der Besoldungsverordnung und der Verordnung betreffend die Fortbildung und Studienurlaube[^28-1].
 
 [^28-1]: RB [187.222](https://www.rechtsbuch.tg.ch/data/187.222/de)
 
@@ -284,7 +279,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 **Kündigung**
 
-<sup>1</sup> Eine Kündigung ist gegenseitig jederzeit auf das Ende eines Monats unter Beachtung einer Frist von mindestens drei Monaten möglich, sofern keine längere Kündigungsfrist vereinbart wurde.
+<sup>1</sup> Eine Kündigung ist gegenseitig jederzeit auf das Ende eines Monats unter Beachtung einer Frist von sechs Monaten möglich.
 
 <sup>2</sup> Die Kündigung ist bei der Aufsichtskommission mit Kopie an den Kirchenrat einzureichen.
 
@@ -336,9 +331,9 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 **Besoldung**
 
-<sup>1</sup> Die Besoldung wird vertraglich festgelegt. Angestellte Diakone und Diakoninnen sind in den Lohnklassen 5 bis 7 gemäss Anhang der Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Landeskirche zu besolden.
+<sup>1</sup> Die Besoldung richtet sich nach den Bestimmungen der Besoldungsverordnung.
 
-<sup>2</sup> Im Übrigen gelten die Bestimmungen der Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Landeskirche.
+<sup>2</sup> …
 
 #### § 35
 
@@ -426,9 +421,9 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 **Besoldung**
 
-<sup>1</sup> Die Besoldung wird vertraglich festgelegt. Verweser und Verweserinnen sind in den Lohnklassen 9 bis 11 gemäss Anhang der Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Landeskirche zu besolden.
+<sup>1</sup> Die Besoldung richtet sich nach den Bestimmungen der Besoldungsverordnung.
 
-<sup>2</sup> Im Übrigen gelten die Bestimmungen der Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Landeskirche.
+<sup>2</sup> …
 
 #### § 46
 
@@ -440,7 +435,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 **Ferien, Freisonntage**
 
-<sup>1</sup> Die Ferien- und Freisonntagsregelung entspricht jener für Gemeindepfarrer und Gemeindepfarrerinnen gemäss Verordnung über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Evangelischen Landeskirche.
+<sup>1</sup> Die Ferien- und Freisonntagsregelung entspricht jener für Gemeindepfarrer und Gemeindepfarrerinnen gemäss Besoldungsverordnung.
 
 #### § 48
 
@@ -498,6 +493,8 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 <sup>1</sup> Das Anstellungsverhältnis inkl. Besoldung ist vertraglich zu regeln.
 
+<sup>2</sup> Im Übrigen gelten die Bestimmungen der Besoldungsverordnung.
+
 #### § 55
 
 **Genehmigung**
@@ -524,13 +521,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 #### § 58
 
-**Erhöhung des Umfangs einer Pfarrstelle mit Statuswechsel**
-
-<sup>1</sup> Soll eine durch Anstellung besetzte Teilzeitstelle von vormals unter 60% auf 60% oder mehr erhöht werden, so ist die neue Stelle durch eine von der Kirchgemeinde zu wählende Person zu besetzen.
-
-<sup>2</sup> Der bisherige Stelleninhaber oder die bisherige Stelleninhaberin ist unter Beachtung der Kündigungsfrist zu entlassen. Die Kündigungsfrist beginnt mit dem Entscheid des Kirchenrates über die Erhöhung der Pfarrstelle auf Ende eines Monats.
-
-<sup>3</sup> Der bisherige Stelleninhaber oder die bisherige Stelleninhaberin kann sich wie andere Kandidaten oder Kandidatinnen der Wahl durch die Kirchgemeinde stellen.
+**…**
 
 #### § 59
 
@@ -567,9 +558,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 #### § 61
 
-**Stellenreduktion bei mehreren Pfarrstellen mit gewählten Pfarrpersonen kombiniert mit Statuswechsel auf Ende der Amtsperiode**
-
-<sup>1</sup> Beschliesst die Kirchgemeindeversammlung eine Stellenreduktion und verbindet sie diese mit einem Statuswechsel, so ist zunächst gleich vorzugehen wie bei einer Reduktion ohne Statuswechsel. Die Amtsperson, die am wenigsten Stimmen auf sich vereinigen konnte, scheidet auf Ablauf der Amtsperiode aus dem Amt aus. Sie kann sich für das neue Teilzeitamt neu bewerben.
+**…**
 
 #### § 62
 
@@ -589,7 +578,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 <sup>3</sup> Der betroffene Stelleninhaber oder die betroffene Stelleninhaberin erklärt nach dem Entscheid des Kirchenrates innert Monatsfrist, ob er oder sie die reduzierte Pfarrstelle nach Ablauf der ordentlichen Amtsdauer übernehmen will. Ansonsten scheidet er oder sie auf diesen Zeitpunkt aus dem Amt aus.
 
-<sup>4</sup> Verbindet die Kirchgemeinde die Stellenreduktion mit einem Statuswechsel, so scheidet die Pfarrperson in jedem Fall auf Ende der ordentlichen Amtsdauer aus. Sie kann sich auf das neue Teilzeitamt mit Anstellung bewerben.
+<sup>4</sup> …
 
 #### § 64
 
@@ -611,7 +600,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 <sup>4</sup> Verzichtet die in der Wiederwahl am wenigsten Stimmen erzielende Amtsperson auf die Weiterführung des Amtes mit reduziertem Pensum, hat sie dies der Kirchenvorsteherschaft innert einem Monat nach der Wiederwahl mitzuteilen.
 
-<sup>5</sup> Ist die Stellenreduktion mit einem Statuswechsel verbunden, scheidet die Amtsperson in jedem Fall aus dem Amt aus. Sie kann sich für das neue Teilzeitamt neu bewerben.
+<sup>5</sup> …
 
 #### § 66
 
@@ -679,7 +668,7 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 <sup>1</sup> Gekoppelte Stellenbesetzungen betreffen zwei Personen, die als Jobsharingpartner ein bestimmtes Gesamtpensum erfüllen, sowie gemeinsam und gleichzeitig gewählt oder angestellt werden.
 
-<sup>2</sup> Bei Gesamtstellen, die mindestens 60 Prozent umfassen und nicht auf höchstens drei Jahre befristet sind, sind beide Jobsharingpartner zu wählen.
+<sup>2</sup> …
 
 <sup>3</sup> Jobsharingpartner haben denselben Status.
 
@@ -765,8 +754,6 @@ vom 26.11.2007 (Stand 01.06.2021)
 
 #### § 84
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt per 1. Juni 2008 in Kraft.
+**…**
 
 19/2008
