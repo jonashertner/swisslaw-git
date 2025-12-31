@@ -4,13 +4,12 @@ number: "741.111"
 title: Ordonnance cantonale sur l’énergie
 short: OCEn
 language: fr
-version: 2023-03-01
-valid_until: 2025-12-31
-version_adopted: 2023-01-11
+version: 2026-01-01
+version_adopted: 2025-10-22
 adopted: 2011-10-26
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/741.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2795/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3250/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2795/pdf_file"
 
 (OCEn)
 
-du 26.10.2011 (état au 01.03.2023)
+du 26.10.2011 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 60, alinéa 2 de la loi fédérale du 30 septembre 2016 sur l’énergie (LEne)[^ingress-1] ainsi que les articles 12, alinéa 1, 13, alinéas 5 et 6, 35, 40a, alinéa 3, 41, alinéa 2, 42, alinéas 1 et 3, 44, alinéa 1, 51, alinéa 2, 54, alinéa 2, 56, alinéa 3, 61, alinéa 1 et T1-1, alinéa 2 de la loi cantonale du 15 mai 2011 sur l’énergie (LCEn)[^ingress-2],
+vu l’article 60, alinéa 2 de la loi fédérale du 30 septembre 2016 sur l’énergie (LEne)[^ingress-1] ainsi que les articles 12, alinéa 1, 13, alinéas 5 et 6, 35, 39a, alinéa 6, 39d, alinéa 2, 39e, alinéa 4, 40a, alinéa 3, 41, alinéa 2, 42, alinéas 1 et 3, 44, alinéa 1, 51, alinéa 2, 54, alinéa 2, 56, alinéa 3, 61, alinéa 1 et T1-1, alinéa 2 de la loi cantonale du 15 mai 2011 sur l’énergie (LCEn)[^ingress-2],
 
 sur proposition de la Direction des travaux publics, des transports et de l'énergie,
 
@@ -219,7 +218,7 @@ arrête:
 
 <sup>1</sup> Pour tous les locaux, les exigences relatives au taux de transmission d’énergie globale (coefficient g) de la protection solaire doivent être maintenues au niveau des connaissances techniques.
 
-<sup>2</sup> Pour les locaux refroidis ou les locaux pour lesquels un refroidissement est nécessaire ou souhaitable, les exigences relatives aux commandes des dispositifs de protection solaire et à la résistance au vent de ces derniers doivent elles aussi être maintenues au niveau des connaissances techniques.
+<sup>2</sup> Pour les locaux refroidis, les exigences relatives aux commandes des dispositifs de protection solaire et à la résistance au vent de ces derniers doivent être maintenues au niveau des connaissances techniques.
 
 #### Art. 17
 
@@ -262,6 +261,86 @@ arrête:
 
 ### 4.1.2 Installations techniques du bâtiment et éclairage
 
+#### Art. 19a
+
+**Utilisation de l’énergie solaire sur les nouvelles constructions destinées à durer 1. Principe**
+
+<sup>1</sup> Les nouvelles constructions et les extensions selon l’article 39a, alinéa 1 LCEn doivent être équipées de systèmes d’utilisation de l’énergie solaire sur au moins dix pour cent de la surface déterminante de construction.
+
+<sup>2</sup> Les systèmes d’utilisation de l’énergie solaire doivent être installés sur les nouvelles constructions ou sur les extensions.
+
+#### Art. 19b
+
+**Toitures appropriées**
+
+<sup>1</sup> Sont considérées comme appropriées les toitures qui bénéficient d’un rayonnement solaire annuel moyen d’au moins 1000 kilowattheures par mètre carré.
+
+<sup>2</sup> Les toitures appropriées des nouvelles installations et des extensions doivent être équipées de systèmes d’utilisation de l’énergie solaire sur au moins 60 pour cent de leur surface brute.
+
+<sup>3</sup> La surface qu’il faut effectivement équiper est calculée sur la base du coefficient de performance et de l’angle d’inclinaison selon l’annexe 9a.
+
+<sup>4</sup> Il est également possible d’utiliser les façades et d'autres toitures des constructions pour atteindre la surface minimale à équiper.
+
+#### Art. 19c
+
+**Petits bâtiments d’habitation**
+
+<sup>1</sup> Le besoin normalisé correspond à la somme
+
+- a du besoin en chaleur calculé pour le chauffage et l’eau chaude selon la norme SIA 380/1 «Besoins de chaleur pour le chauffage», édition 2016 et
+- b du besoin en électricité pour l’éclairage, les appareils et les installations techniques générales des bâtiments selon l’annexe 7.
+
+<sup>2</sup> Le rendement annuel minimal requis pour l'installation solaire est défini sur la base de la moitié du besoin normalisé annuel.
+
+#### Art. 19d
+
+**Obligation d'annoncer les rénovations 1. Obligation d'annoncer**
+
+<sup>1</sup> La rénovation d'une toiture est dite intégrale lorsqu’au moins 50 pour cent de sa surface brute sont concernés par la rénovation de la couverture ou de l’étanchéité.
+
+<sup>2</sup> Les toitures d’une surface brute inférieure à 20 mètres carrés sont exemptées de l’obligation d’annoncer.
+
+#### Art. 19e
+
+**2. Procédure**
+
+<sup>1</sup> L’annonce selon l’article 39d LCEn doit être déposée sous forme électronique par l’intermédiaire du système de transmission cantonal pour la procédure d’octroi du permis de construire.
+
+<sup>2</sup> Pour les projets nécessitant un permis de construire, l’annonce doit être effectuée au plus tard lors du dépôt de la demande dudit permis auprès de l’autorité d’octroi du permis de construire.
+
+<sup>3</sup> Pour les projets qui ne nécessitent pas de permis de construire, l’annonce doit être déposée au plus tard sept jours ouvrés avant le début des travaux.
+
+#### Art. 19f
+
+**3. Contenu de l’annonce**
+
+<sup>1</sup> L’annonce doit indiquer si les toitures se prêtent à l’utilisation de l’énergie solaire et mentionner le rendement énergétique prévu et les coûts estimés d’un système d’utilisation de l’énergie solaire par toiture.
+
+<sup>2</sup> Il convient d'utiliser le calculateur solaire de l’Office fédéral de l’énergie pour établir la justification.
+
+#### Art. 19g
+
+**Utilisation de l'énergie solaire au-dessus de surfaces de stationnement 1. Obligation d'équipement**
+
+<sup>1</sup> Les surfaces de stationnement au sens de l'article 39e, alinéas 1 et 2 LCEn se prêtent à l’utilisation de l’énergie solaire
+
+- a lorsqu’elles bénéficient d’un rayonnement solaire annuel moyen d’au moins 1000 kilowattheures par mètre carré et
+- b qu’elles disposent d’un sol stabilisé.
+
+<sup>2</sup> Les installations de type park-and-ride existantes au sens de l'article 39e, alinéa 2 LCEn doivent être dotées d’une toiture équipée d’un système d’utilisation de l’énergie solaire en cas de rénovation intégrale, mais au plus tard dix ans après l’entrée en vigueur de l'article T2-2 LCEn.
+
+<sup>3</sup> Il n’est pas obligatoire d’équiper les surfaces de stationnement qui sont régulièrement utilisées pour des manifestations que la présence d’une toiture équipée d’un système d’utilisation de l’énergie solaire restreindrait considérablement.
+
+#### Art. 19h
+
+**2. Étendue et conception**
+
+<sup>1</sup> Les surfaces de stationnement qui s’y prêtent doivent être dotées d’une toiture équipée d’un système d’utilisation de l’énergie solaire sur au moins 50 pour cent de la surface globale.
+
+<sup>2</sup> Sont considérées comme systèmes d’utilisation de l’énergie solaire en toiture les installations photovoltaïques ou solaires thermiques fixes ou mobiles placées au-dessus de la surface de stationnement.
+
+<sup>3</sup> Les exigences en termes de sécurité pour la construction et l’exploitation des systèmes d’utilisation de l’énergie solaire en toiture se basent sur l’état actuel de la technique.
+
 #### Art. 20
 
 **Chaudières**
@@ -276,7 +355,9 @@ arrête:
 
 <sup>1</sup> Les dispositions relatives au remplacement d'un générateur de chaleur destiné au chauffage d'un bâtiment au sens de l'article 40a, alinéa 3 LCEn s'appliquent à tous les bâtiments utilisés comme habitation, administration, école, pour le commerce ou comme restaurant selon la norme SIA 380/1 «Besoins de chaleur pour le chauffage» (édition 2016).
 
-<sup>2</sup> Est considéré comme remplacement d'un générateur de chaleur le remplacement de la chaudière, du brûleur, de la cheminée ou de la citerne à mazout.
+<sup>2</sup> Est considéré comme remplacement d’un générateur de chaleur le remplacement de la chaudière, du brûleur, de la cheminée, de la citerne à mazout ou de l’ensemble du système de chauffage.
+
+<sup>2a</sup> La date d’entrée en vigueur du permis de construire est déterminante pour établir l’âge du bâtiment.
 
 <sup>3</sup> Les exigences visées à l'article 40a, alinéa 2 LCEn sont considérées comme remplies
 
@@ -326,11 +407,11 @@ arrête:
 
 **Refroidissement, humidification et déshumidification**
 
-<sup>1</sup> Les installations de refroidissement, d’humidification ou de déshumidification sont admissibles dans les bâtiments existants
+<sup>1</sup> Les installations de refroidissement, d’humidification ou de déshumidification sont admissibles dans les bâtiments existants,
 
-- a lorsque la puissance électrique nécessaire au transport et au traitement des fluides, y compris le cas échéant la puissance nécessaire au refroidissement, à l’humidification ou à la déshumidification de l’air ainsi qu’au traitement de l’eau n'excède pas douze watts par mètre carré de surface de référence énergétique;
+- a lorsque la puissance électrique nécessaire au transport et au traitement des fluides, y compris le cas échéant la puissance nécessaire au refroidissement, à l’humidification ou à la déshumidification de l’air ainsi qu’au traitement de l’eau, n’excède pas douze watts par mètre carré de surface de référence énergétique, et
 - b que les températures de l'eau froide et les coefficients de performance pour la production de froid sont définis selon le niveau des connaissances techniques et que la planification ainsi que l'exploitation sont effectuées selon le niveau des connaissances techniques ou
-- c qu'une installation photovoltaïque est mise en place pour autoproduire du courant couvrant la puissance électrique nécessaire.
+- c lorsqu'une installation photovoltaïque est mise en place pour autoproduire du courant couvrant la puissance électrique nécessaire selon la lettre a.
 
 <sup>2</sup> …
 
@@ -426,15 +507,7 @@ arrête:
 
 <sup>3</sup> Pour la pondération des agents énergétiques, les facteurs de pondération nationaux selon l’annexe 7 sont applicables.
 
-#### Art. 31a
-
-**Obligation d’utiliser l’énergie solaire pour les bâtiments**
-
-<sup>1</sup> En vertu de l'article 45a LEne, il est obligatoire d’utiliser l’énergie solaire dans les nouveaux bâtiments d’une surface déterminante de construction supérieure à 300 mètres carrés et d’équiper à cet effet au moins dix pour cent de la surface déterminante de construction d'installations solaires photovoltaïques ou thermiques.
-
-<sup>2</sup> Des dérogations à l'obligation d'utiliser l'énergie solaire au sens de l'alinéa 1 peuvent être accordées si la mise en place d’installations solaires photovoltaïques ou thermiques est disproportionnée du point de vue économique.
-
-#### Art. 32
+#### Art. 31a–32
 
 **…**
 
@@ -491,7 +564,8 @@ arrête:
 <sup>1</sup> L’interdiction d’utiliser des chauffages électriques fixes à résistances au sens de l’article 40, alinéa 2 LCEn ne s’applique pas
 
 - a aux postes de travail individuels situés dans un local non chauffé ou insuffisamment chauffé ni
-- b aux chauffages de secours au sens des alinéas 2 et 3.
+- b aux chauffages de secours au sens des alinéas 2 et 3 ni
+- c aux chauffages électriques à résistances qui sont exclusivement alimentés par de l’électricité solaire autoproduite.
 
 <sup>2</sup> Dans les cas de pompes à chaleur, des chauffages de secours peuvent être utilisés lorsque la température extérieure est inférieure à la température servant au dimensionnement.
 
@@ -512,7 +586,7 @@ arrête:
 
 #### Art. 40
 
-<sup>1</sup> Les nouveaux bâtiments qui tombent sous le coup de l’article 52, alinéa 3 LCEn doivent respecter au moins les exigences du standard Minergie-P conformément au Règlement d’utilisation du produit MINERGIE-P de la marque MINERGIE.[^40-1]
+<sup>1</sup> Les nouveaux bâtiments qui tombent sous le coup de l’article 52, alinéa 3 LCEn doivent respecter au moins les exigences du standard Minergie-A conformément au Règlement d’utilisation du produit MINERGIE-A de la marque MINERGIE[^40-1].
 
 <sup>2</sup> Lorsque des bâtiments tombant sous le coup de l’article 52, alinéa 3 LCEn sont entièrement rénovés, ils doivent respecter au minimum les exigences du standard Minergie conformément au Règlement d’utilisation de la marque MINERGIE.
 
@@ -640,6 +714,12 @@ arrête:
 
 <sup>1</sup> Les cours de formation et de perfectionnement organisés par des tiers pour les spécialistes du domaine de l’énergie, par exemple pour les spécialistes du domaine du bâtiment et de la technique du bâtiment, ainsi que pour les autorités compétentes en matière de construction, peuvent bénéficier d’aides financières.
 
+#### Art. 52a
+
+**Aides financières pour les communes**
+
+<sup>1</sup> Le canton peut octroyer aux communes des aides financières pour l’élaboration de stratégies, de plans et d’évaluations ainsi que pour l’exécution d’autres projets dans les domaines de l’énergie, du climat et du développement durable.
+
 #### Art. 53
 
 **Centres de conseil en énergie 1. Indemnités**
@@ -654,7 +734,7 @@ arrête:
 
 **2. Tâches et exigences de qualité**
 
-<sup>1</sup> Les centres de conseil en énergie conseillent les personnes privées, les entreprises et les communes pour toute question relative à l’énergie et soutiennent la Confédération et le canton dans leurs campagnes d’information.
+<sup>1</sup> Les centres de conseil en énergie conseillent les personnes privées, les entreprises et les communes pour toute question relative à l’énergie et au climat et soutiennent la Confédération et le canton dans leurs campagnes d’information.
 
 <sup>2</sup> Ils garantissent
 
@@ -692,7 +772,7 @@ arrête:
 
 **Bâtiments particulièrement efficaces sur le plan énergétique**
 
-<sup>1</sup> Sont considérés comme particulièrement efficaces sur le plan énergétique au sens de l’article 58, alinéa 2 LCEn
+<sup>1</sup> Sont considérés comme particulièrement efficaces sur le plan énergétique au sens de l’article 59, alinéa 4 LCEn
 
 - a les nouveaux bâtiments qui font partie de la meilleure classe d’efficacité du CECB en ce qui concerne l’enveloppe du bâtiment et l’efficacité énergétique;
 - b les bâtiments existants qui, après une rénovation complète au niveau énergétique, font partie au moins de la deuxième meilleure classe d’efficacité du CECB en ce qui concerne l’enveloppe du bâtiment et l’efficacité énergétique.
@@ -712,6 +792,12 @@ arrête:
 **Service compétent**
 
 <sup>1</sup> Le service de la Direction de l'économie, de l'énergie et de l'environnement qui est compétent pour exécuter la législation en matière d’énergie est l’Office de l’environnement et de l’énergie.
+
+#### Art. 60a
+
+**Traitement des données**
+
+<sup>1</sup> L’Office de l’environnement et de l’énergie peut consulter et traiter les données des administrations publiques et du système de transmission cantonal pour la procédure d’octroi du permis de construire qui ont trait à l'énergie et lui sont nécessaires pour faire appliquer la législation sur l'énergie et le climat. Le système de transmission cantonal est accessible par procédure d'appel.
 
 #### Art. 61
 
@@ -740,9 +826,11 @@ arrête:
 - a aux dispositions sur l’utilisation de l’énergie au sens de l’article 36 LCEn,
 - b à l’obligation d’adaptation pour les monuments historiques au sens de l’article 38 LCEn,
 - c aux dispositions sur les chauffages à l’extérieur au sens de l’article 48, alinéa 2 LCEn,
-- d à l'obligation d'utiliser l'énergie solaire au sens de l'article 31a.
+- d …
 
 <sup>2</sup> S’agissant des demandes de dérogation au sens de l’article 38 LCEn, l’Office de l’environnement et de l’énergie consulte le Service cantonal des monuments historiques.
+
+<sup>3</sup> L’autorité d’octroi du permis de construire statue sur les demandes de dérogation au sens des articles 39c et 39e LCEn.
 
 ## 7 Dispositions transitoires et dispositions finales
 

@@ -4,13 +4,12 @@ number: "741.111"
 title: Kantonale Energieverordnung
 short: KEnV
 language: de
-version: 2023-03-01
-valid_until: 2025-12-31
-version_adopted: 2023-01-11
+version: 2026-01-01
+version_adopted: 2025-10-22
 adopted: 2011-10-26
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/741.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2795/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3250/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2795/pdf_file"
 
 (KEnV)
 
-vom 26.10.2011 (Stand 01.03.2023)
+vom 26.10.2011 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 60 Absatz 2 des eidgenössischen Energiegesetzes vom 30. September 2016 (EnG)[^ingress-1], Artikel 12 Absatz 1, Artikel 13 Absatz 5 und 6, Artikel 35, Artikel 40a Absatz 3, Artikel 41 Absatz 2, Artikel 42 Absatz 1 und 3, Artikel 44 Absatz 1, Artikel 51 Absatz 2, Artikel 54 Absatz 2, Artikel 56 Absatz 3, Artikel 61 Absatz 1 und Artikel T1-1 Absatz 2 des kantonalen Energiegesetzes vom 15. Mai 2011 (Energiegesetz, KEnG)[^ingress-2],
+gestützt auf Artikel 60 Absatz 2 des eidgenössischen Energiegesetzes vom 30. September 2016 (EnG)[^ingress-1], Artikel 12 Absatz 1, Artikel 13 Absatz 5 und 6, Artikel 35, Artikel 39a Absatz 6, Artikel 39d Absatz 2, Artikel 39e Absatz 4, Artikel 40a Absatz 3, Artikel 41 Absatz 2, Artikel 42 Absatz 1 und 3, Artikel 44 Absatz 1, Artikel 51 Absatz 2, Artikel 54 Absatz 2, Artikel 56 Absatz 3, Artikel 61 Absatz 1 und Artikel T1-1 Absatz 2 des kantonalen Energiegesetzes vom 15. Mai 2011 (Energiegesetz, KEnG)[^ingress-2],
 
 auf Antrag der Bau-, Verkehrs- und Energiedirektion,
 
@@ -219,7 +218,7 @@ beschliesst:
 
 <sup>1</sup> Bei allen Räumen sind die Anforderungen an den Gesamtenergiedurchlassgrad (g-Wert) des Sonnenschutzes nach dem Stand der Technik einzuhalten.
 
-<sup>2</sup> Bei gekühlten Räumen oder bei Räumen, bei denen eine Kühlung notwendig oder erwünscht ist, sind zusätzlich die Anforderungen an die Steuerung und die Windfestigkeit des Sonnenschutzes nach dem Stand der Technik einzuhalten.
+<sup>2</sup> Bei gekühlten Räumen sind die Anforderungen an die Steuerung und die Windfestigkeit des Sonnenschutzes nach dem Stand der Technik einzuhalten.
 
 #### Art. 17
 
@@ -262,6 +261,86 @@ beschliesst:
 
 ### 4.1.2 Gebäudetechnische Anlagen und Beleuchtung
 
+#### Art. 19a
+
+**Solarenergienutzung bei neuen auf Dauer angelegten Bauten 1. Grundsatz**
+
+<sup>1</sup> Neubauten und Erweiterungen nach Artikel 39a Absatz 1 KEnG sind mit Anlagen zur Solarenergienutzung im Umfang von mindestens zehn Prozent der anrechenbaren Gebäudefläche auszustatten.
+
+<sup>2</sup> Die Anlagen zur Solarenergienutzung sind an der neu gebauten oder erweiterten Baute zu installieren.
+
+#### Art. 19b
+
+**2. Geeignete Dachflächen**
+
+<sup>1</sup> Als geeignet gelten Dachflächen mit einer mittleren jährlichen Sonneneinstrahlung von mindestens 1000 Kilowattstunden pro Quadratmeter.
+
+<sup>2</sup> Geeignete Dachflächen von Neubauten und Erweiterungen sind im Umfang von mindestens 60 Prozent ihrer Bruttofläche mit Anlagen zur Solarenergienutzung auszustatten.
+
+<sup>3</sup> Die effektiv auszustattende Fläche berechnet sich in Abhängigkeit von Wirkungsgrad und Neigungswinkel nach Anhang 9a.
+
+<sup>4</sup> Die minimal auszustattende Fläche kann auch an Fassaden oder auf anderen Dachflächen der Baute realisiert werden.
+
+#### Art. 19c
+
+**Kleine Wohnbauten**
+
+<sup>1</sup> Der Normbedarf entspricht der Summe
+
+- a des berechneten Wärmebedarfs für Heizung und Warmwasser nach SIA-Norm 380/1 «Heizwärmebedarf», Ausgabe 2016 und
+- b des Strombedarfs für Beleuchtung, Geräte und allgemeine Gebäudetechnik nach Anhang 7.
+
+<sup>2</sup> Aus dem halben Normbedarf ergibt sich der minimal erforderliche Jahresertrag der Solaranlage.
+
+#### Art. 19d
+
+**Meldepflicht bei Erneuerungen 1. Meldepflicht**
+
+<sup>1</sup> Eine umfassende Erneuerung einer Dachfläche liegt vor, wenn mindestens 50 Prozent deren Bruttofläche von einer Erneuerung der Eindeckung oder Abdichtung betroffen sind.
+
+<sup>2</sup> Von der Meldepflicht befreit sind Dachflächen mit einer Bruttofläche unter 20 Quadratmetern.
+
+#### Art. 19e
+
+**2. Verfahren**
+
+<sup>1</sup> Die Meldung nach Artikel 39d KEnG ist in elektronischer Form im kantonalen Übermittlungssystem für das Baubewilligungsverfahren einzureichen.
+
+<sup>2</sup> Bei baubewilligungspflichtigen Vorhaben ist die Meldung spätestens mit dem Baugesuch bei der Baubewilligungsbehörde einzureichen.
+
+<sup>3</sup> Bei baubewilligungsfreien Vorhaben ist die Meldung spätestens sieben Arbeitstage vor Baubeginn einzureichen.
+
+#### Art. 19f
+
+**3. Inhalt der Meldung**
+
+<sup>1</sup> In der Meldung ist die Eignung der Dachflächen zur Solarenergienutzung mit den prognostizierten Energieerträgen und den geschätzten Kosten einer Anlage zur Solarenergienutzung pro Dachfläche nachzuweisen.
+
+<sup>2</sup> Für den Nachweis ist der Solarrechner des Bundesamtes für Energie zu verwenden.
+
+#### Art. 19g
+
+**Solarenergienutzung bei Parkplätzen 1. Ausstattungspflicht**
+
+<sup>1</sup> Parkplätze nach Artikel 39e Absatz 1 und 2 KEnG sind zur Solarenergienutzung geeignet, wenn sie
+
+- a eine mittlere jährliche Sonneneinstrahlung von mindestens 1000 Kilowattstunden pro Quadratmeter aufweisen und
+- b über einen befestigten Untergrund verfügen.
+
+<sup>2</sup> Bestehende Park-and-ride-Anlagen nach Artikel 39e Absatz 2 KEnG sind mit solaraktiven Überdachungen auszustatten, wenn sie umfassend saniert werden, spätestens innert zehn Jahren ab Inkrafttreten von Artikel T2-2 KEnG.
+
+<sup>3</sup> Keine Pflicht zur Ausstattung besteht für Parkplätze, die regelmässig für Veranstaltungen genutzt werden, die durch eine solaraktive Überdachung erheblich eingeschränkt würden.
+
+#### Art. 19h
+
+**2. Umfang und Gestaltung**
+
+<sup>1</sup> Geeignete Parkflächen sind mit einer solaraktiven Überdachung im Umfang von mindestens 50 Prozent der gesamten Fläche auszustatten.
+
+<sup>2</sup> Als solaraktive Überdachung gelten über dem Parkplatz installierte fixe oder bewegliche Photovoltaik- oder Solarthermieanlagen.
+
+<sup>3</sup> Die Anforderungen an die Sicherheit für den Bau und Betrieb der solaraktiven Überdachungen richten sich nach dem Stand der Technik.
+
 #### Art. 20
 
 **Heizkessel**
@@ -276,7 +355,9 @@ beschliesst:
 
 <sup>1</sup> Beim Ersatz eines Wärmeerzeugers zur Gebäudebeheizung nach Artikel 40a Absatz 3 KEnG sind alle Gebäude, die zum Wohnen, als Verwaltung, als Schule, zum Verkauf oder als Restaurant nach der SIA-Norm 380/1 «Heizwärmebedarf», Ausgabe 2016, genutzt werden, betroffen.
 
-<sup>2</sup> Als Ersatz eines Wärmeerzeugers gilt, wenn entweder der Kessel, der Brenner, der Kamin oder der Öltank ersetzt werden.
+<sup>2</sup> Als Ersatz eines Wärmeerzeugers gilt, wenn entweder der Kessel, der Brenner, der Kamin, der Öltank oder das gesamte Heizungssystem ersetzt werden.
+
+<sup>2a</sup> Massgebend für die Bestimmung des Alters des Gebäudes ist der Zeitpunkt der Rechtskraft der Baubewilligung.
 
 <sup>3</sup> Die Anforderungen nach Artikel 40a Absatz 2 KEnG werden erfüllt
 
@@ -328,9 +409,9 @@ beschliesst:
 
 <sup>1</sup> Anlagen zur Kühlung, Befeuchtung oder Entfeuchtung sind in bestehenden Bauten zulässig,
 
-- a wenn der elektrische Leistungsbedarf für die Medienförderung und die Medienaufbereitung, einschliesslich allfälliger Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung zwölf Watt pro Quadratmeter Energiebezugsfläche nicht überschreitet,
+- a wenn der elektrische Leistungsbedarf für die Medienförderung und die Medienaufbereitung, einschliesslich allfälliger Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung, zwölf Watt pro Quadratmeter Energiebezugsfläche nicht überschreitet, und
 - b die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung nach dem Stand der Technik ausgelegt sind sowie die Planung und der Betrieb nach dem Stand der Technik erfolgen, oder
-- c eine Photovoltaikanlage zur Eigenstromerzeugung installiert wird, die den elektrischen Leistungsbedarf abdeckt.
+- c wenn eine Photovoltaikanlage zur Eigenstromerzeugung installiert wird, die den elektrischen Leistungsbedarf nach Buchstabe a abdeckt.
 
 <sup>2</sup> …
 
@@ -424,15 +505,7 @@ beschliesst:
 
 <sup>3</sup> Für die Gewichtung der Energieträger gelten die nationalen Gewichtungsfaktoren gemäss Anhang 7.
 
-#### Art. 31a
-
-**Pflicht zur Nutzung der Sonnenenergie bei Gebäuden**
-
-<sup>1</sup> Bei Neubauten mit einer anrechenbaren Gebäudefläche von mehr als 300 Quadratmetern besteht gemäss Artikel 45a EnG die Pflicht, Sonnenenergie zu nutzen, wobei mindestens zehn Prozent der anrechenbaren Gebäudefläche mit Photovoltaik- oder Solarthermieanlagen auszurüsten sind.
-
-<sup>2</sup> Von der Pflicht zur Nutzung der Sonnenenergie nach Absatz 1 können Ausnahmen erteilt werden, wenn die Erstellung einer Photovoltaik- oder Solarthermieanlage wirtschaftlich unverhältnismässig ist.
-
-#### Art. 32
+#### Art. 31a–32
 
 **…**
 
@@ -488,8 +561,9 @@ beschliesst:
 
 <sup>1</sup> Vom Verbot ortsfester elektrischer Widerstandsheizungen nach Artikel 40 Absatz 2 KEnG befreit sind
 
-- a die Beheizung einzelner Arbeitsplätze in ungenügend oder nicht beheizten Räumen sowie
-- b die Notheizungen nach den Absätzen 2 und 3.
+- a die Beheizung einzelner Arbeitsplätze in ungenügend oder nicht beheizten Räumen,
+- b die Notheizungen nach den Absätzen 2 und 3 sowie
+- c elektrische Widerstandsheizungen, die ausschliesslich mit eigenproduziertem Solarstrom betrieben werden.
 
 <sup>2</sup> Bei Wärmepumpen dürfen Notheizungen bei Aussentemperaturen unter der Auslegetemperatur eingesetzt werden.
 
@@ -510,7 +584,7 @@ beschliesst:
 
 #### Art. 40
 
-<sup>1</sup> Für Neubauten, die unter Artikel 52 Absatz 3 KEnG fallen, gelten mindestens die Anforderungen des Minergie-P-Standards gemäss dem Reglement zur Nutzung des Produkts MINERGIE-P der Marke MINERGIE.[^40-1]
+<sup>1</sup> Für Neubauten, die unter Artikel 52 Absatz 3 KEnG fallen, gelten mindestens die Anforderungen des Minergie-A-Standards gemäss dem Reglement zur Nutzung des Produkts MINERGIE-A der Marke MINERGIE[^40-1].
 
 <sup>2</sup> Für Gesamtrenovationen von bestehenden Gebäuden, die unter Artikel 52 Absatz 3 KEnG fallen, gelten mindestens die Anforderungen des Minergie-Standards gemäss dem Reglement zur Nutzung der Marke MINERGIE.
 
@@ -638,6 +712,12 @@ beschliesst:
 
 <sup>1</sup> Veranstaltungen Dritter zur Aus- und Weiterbildung von Berufsfachleuten im Energiebereich, wie Fachleuten aus Hochbau und Gebäudetechnik, sowie von Baubehörden können mit Finanzhilfen unterstützt werden.
 
+#### Art. 52a
+
+**Finanzhilfen für Gemeinden**
+
+<sup>1</sup> Der Kanton kann Gemeinden Finanzhilfen für die Erarbeitung von Strategien, Konzepten und Beurteilungen sowie für die Durchführung von weiteren Projekten in den Bereichen Energie, Klima und nachhaltige Entwicklung gewähren.
+
 #### Art. 53
 
 **Energieberatungsstellen 1. Abgeltungen**
@@ -652,7 +732,7 @@ beschliesst:
 
 **2. Aufgaben und Qualitätsanforderungen**
 
-<sup>1</sup> Die Energieberatungsstellen beraten Privatpersonen, Unternehmen und Gemeinden in allen Energiefragen und unterstützen Bund und Kanton bei Informationskampagnen.
+<sup>1</sup> Die Energieberatungsstellen beraten Privatpersonen, Unternehmen und Gemeinden in Energie- und Klimafragen und unterstützen Bund und Kanton bei Informationskampagnen.
 
 <sup>2</sup> Sie stellen sicher, dass
 
@@ -690,7 +770,7 @@ beschliesst:
 
 **Besonders energieeffiziente Gebäude**
 
-<sup>1</sup> Als besonders energieeffizient im Sinne von Artikel 58 Absatz 2 KEnG gelten:
+<sup>1</sup> Als besonders energieeffizient im Sinne von Artikel 59 Absatz 4 KEnG gelten:
 
 - a neu erstellte Gebäude, die hinsichtlich Gebäudehülle und Gesamtenergieeffizienz zur besten Effizienzklasse des GEAK gehören,
 - b bestehende Gebäude, die nach einer umfassenden energietechnischen Erneuerung hinsichtlich Gebäudehülle und Gesamtenergieeffizienz mindestens zur zweitbesten Effizienzklasse des GEAK gehören.
@@ -710,6 +790,12 @@ beschliesst:
 **Zuständige Stelle**
 
 <sup>1</sup> Zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion für den Vollzug der Energiegesetzgebung ist das Amt für Umwelt und Energie.
+
+#### Art. 60a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Das Amt für Umwelt und Energie kann auf die zum Vollzug der Energie- und Klimagesetzgebung erforderlichen energierelevanten Daten der öffentlichen Verwaltungen und des kantonalen Übermittlungssystems für das Baubewilligungsverfahren zugreifen und die benötigten Daten bearbeiten. Der Zugriff auf das kantonale Übermittlungssystem erfolgt im Abrufverfahren.
 
 #### Art. 61
 
@@ -738,9 +824,11 @@ beschliesst:
 - a von den Vorschriften über die Energienutzung gemäss Artikel 36 KEnG,
 - b von der Anpassungspflicht für Baudenkmäler gemäss Artikel 38 KEnG,
 - c für Heizungen im Freien gemäss Artikel 48 Absatz 2 KEnG,
-- d von der Pflicht zur Nutzung der Sonnenenergie gemäss Artikel 31a.
+- d …
 
 <sup>2</sup> Zu Ausnahmegesuchen gemäss Artikel 38 KEnG hört das Amt für Umwelt und Energie die kantonale Denkmalpflege an.
+
+<sup>3</sup> Die Baubewilligungsbehörde entscheidet über Ausnahmen gemäss Artikel 39c und 39e KEnG.
 
 ## 7 Übergangs- und Schlussbestimmungen
 
