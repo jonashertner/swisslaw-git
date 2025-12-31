@@ -3,11 +3,11 @@ sr: "0.814.515.141"
 title: "Convenzione del 14 settembre 2010 tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein concernente la cooperazione nell'ambito della radioprotezione (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/809"
 language: it
-version: 2018-08-01
+version: 2026-01-01
 adopted: 2010-09-14
 in_force: 2010-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/809/20180801/it/xml/fedlex-data-admin-ch-eli-cc-2010-809-20180801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/809/20180801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/809/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2010-809-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/809/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2010** 5713
 
 Traduzione
 
-Conclusa il 14 settembre 2010
+Conclusa il 14 settembre 2010 Entrata in vigore il 1° dicembre 2010
 
-Entrata in vigore il 1° dicembre 2010
-
-(Stato 1° agosto 2018)
+(Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero e il Governo del Principato del Liechtenstein
 
@@ -34,7 +32,7 @@ hanno convenuto quanto segue:
 
 La presente Convenzione disciplina la cooperazione tra la Svizzera e il Principato del Liechtenstein nell’ambito della radioprotezione a complemento della legislazione svizzera in materia di radioprotezione applicabile nel Liechtenstein in base al Trattato del 29 marzo 1923[^1-1] di unione doganale conchiuso tra la Confederazione Svizzera e il Principato del Liechtenstein (Trattato doganale), e tenuto conto in particolare del suo articolo 4 come pure della cooperazione passata e presente tra Svizzera e Liechtenstein in materia di radioprotezione.
 
-[^1-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^1-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 2
 
@@ -82,7 +80,7 @@ Le prescrizioni del diritto svizzero in materia di radioprotezione applicabili n
 
 *In fede di che* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Berna, in due esemplari originali in lingua tedesca, il 14 settembre 2010. Per il Consiglio federale svizzero: Didier Burkhalter Per il Governo del Principato del Liechtenstein: Renate Müssner
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 ## Elenco delle prescrizioni giuridiche svizzere applicabili nel Liechtenstein secondo l’articolo 2 della Convenzione
 
@@ -148,13 +146,13 @@ Allegato 1*[^t-1]*
 <tr><td>814.56</td><td>Ordinanza del 26 aprile 2017 sugli emolumenti in materia di radioprotezione (OEm-RaP) *applicabile eccetto gli* art. 2 e 7. Le autorità menzionate nell’allegato 2 esercitano le competenze previste negli art. 1, art. 4 cpv. 2, art. 6 e art. 8.</td><td>*2017* 4801</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 ## Autorità del Principato del Liechtenstein competenti secondo l’articolo 3 della Convenzione
 
 [^t-2]: Nuovo testo giusta lo scambio di note del 3 e 6 lug. 2018, in vigore dal 1° ago. 2018 ([RU 2018 3327](https://fedlex.data.admin.ch/eli/oc/2018/539)).
 
-(1) L’Amt für Gesundheit (AG), l’Amt für Lebensmittelkontrolle und Veterinärwesen (ALKVW), l’Amt für Volkswirtschaft (AVW), l’Amt für Umwelt (AU) e l’Amt für Bevölkerungsschutz (ABS) sono competenti in materia di esecuzione e di sorveglianza nel Principato del Liechtenstein.
+(1) L’Amt für Gesundheit (AG), l’Amt für Lebensmittelkontrolle und Veterinärwesen (ALKVW), l’Amt für Volkswirtschaft (AVW), l’Amt für Umwelt (AU)[^annex2-lvlu1-1] e l’Amt für Bevölkerungsschutz (ABS) sono competenti in materia di esecuzione e di sorveglianza nel Principato del Liechtenstein.
 
 (2) L’AG è competente per rilasciare le licenze e vigilare nei settori della medicina e della ricerca e per la sorveglianza sui centri di formazione.
 
@@ -168,7 +166,9 @@ Allegato 2*[^t-2]*
 
 (7) L’AG è competente per distribuire compresse allo iodio alla popolazione in caso di messa in pericolo dovuta a iodio radioattivo. Nel Liechtenstein l’ABS assiste l’AG nella distribuzione delle compresse allo iodio e del materiale di informazione.
 
-Allegato 3*[^t-3]*
+[^annex2-lvlu1-1]: Dal 1° agosto 2026: Amt für Umweltschutz (AUS).
+
+Allegato 3[^t-3]
 
 ## Autorità e servizi competenti in Svizzera nonché cooperazione in materia di esecuzione secondo l’articolo 3 della Convenzione
 
@@ -193,7 +193,7 @@ L’UFSP coopera alla sorveglianza dell’ambiente e nel caso di immissione nell
 - – riassunto dei risultati della sorveglianza e delle dosi di radiazione che ne risultano per la popolazione (art. 194 cpv. 4 ORaP)
 - – perizie, monitoraggio di progetti e consulenze nell’ambito della sorveglianza sulla radioattività ambientale.
 
-[^annex3-lvlu1-lvl2-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex3-lvlu1-lvl2-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 ### 3. Cooperazione tra le autorità in materia di contaminazione radiologica
 
@@ -260,8 +260,8 @@ L’UFSP è consultato sulla radioprotezione negli ambiti della medicina, della 
 - – verifica dei requisiti per il riconoscimento di un istituto che svolge formazioni in radioprotezione (art. 4 ordinanza sulla formazione in radioprotezione[^annex3-lvlu1-lvl7-2])
 - – omologazione per sorgenti di radiazioni (art. 15 ORaP).
 
-[^annex3-lvlu1-lvl7-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl7-2]: [RS 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
+[^annex3-lvlu1-lvl7-1]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^annex3-lvlu1-lvl7-2]: [RS 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
 
 ### 8. Cooperazione in materia di licenze e di sorveglianza nelle aziende industriali e artigianali
 
@@ -288,7 +288,7 @@ La Suva è consultata sulla radioprotezione nelle aziende situate nel Principato
 
 - b) L’AG notifica alla Farmacia dell’esercito i luoghi di immagazzinamento e le riserve di compresse immagazzinate secondo l’articolo 5 dell’ordinanza sulle compresse allo iodio.
 
-[^annex3-lvlu1-lvl9-1]: [RS 814.52](https://fedlex.data.admin.ch/eli/cc/2014/69)
+[^annex3-lvlu1-lvl9-1]: [RS 814.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9548)
 
 ### 10. Cooperazione tra le autorità nell’ambito della dosimetria individuale
 
@@ -305,21 +305,19 @@ La Suva è consultata sulla radioprotezione nelle aziende situate nel Principato
 
   - – tenuta del Registro centrale delle dosi per persone professionalmente esposte a radiazioni nel Principato del Liechtenstein (art. 72 ORaP).
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
-## Indennità della Convenzione per l’onere delle autorità e dei servizi svizzeri secondo l’articolo 5
+## [Indennità della Convenzione per l’onere delle autorità e dei servizi svizzeri secondo l’articolo 5](https://www.fedlex.admin.ch/eli/cc/2010/809/it)
 
-[^t-4]: Nuovo testo giusta lo scambio di note del 3 e 6 lug. 2018, in vigore dal 1° gen. 2018 ([RU 2018 3327](https://fedlex.data.admin.ch/eli/oc/2018/539)).
+[^t-4]: Nuovo testo giusta lo scambio di note del 30 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 642](https://fedlex.data.admin.ch/eli/oc/2025/642)).
 
-Le prestazioni dell’UFSP previste nell’allegato 3 sono indennizzate in modo forfettario con 40 000 franchi annuali. Qualora l’onere dovesse risultare nettamente superiore alla consuetudine, nel singolo caso e previa intesa è possibile fatturare a parte un indennizzo congruo in base all’onere effettivo.
-
-I responsabili degli audit clinici sono indennizzati sulla base di fatture separate.
+Le prestazioni dell’UFSP previste nell’allegato 3 sono indennizzate in modo forfettario con 40 000 franchi annuali. Inoltre, per gli anni 2026–2029 è previsto un importo forfettario di 36 400 franchi annuali per lo sviluppo e il co-utilizzo del Radiation Portals Switzerland. Infine, a partire dal 2030, per il co-utilizzo del Radiation Portal Switzerland sono previsti, oltre all’indennità forfettaria per le prestazioni di cui all’allegato 3, costi annuali ricorrenti pari a 5500 franchi. Qualora l’onere dovesse risultare nettamente superiore alla consuetudine, nel singolo caso e previa intesa è possibile fatturare a parte un indennizzo congruo in base all’onere effettivo. I responsabili degli audit clinici sono indennizzati sulla base di fatture separate.
 
 La Suva è indennizzata mediante un importo forfettario stabilito in una convenzione separata tra l’AVW e la Suva.
 
-Centro di raccolta della Confederazione (scorie che devono essere consegnate): il Centro di raccolta riscuote gli emolumenti per lo smaltimento dei rifiuti radioattivi conformemente all’ OEm-RaP[^annex4-lvlu1-1] secondo il principio di causalità (art. 4 LRaP[^annex4-lvlu1-2]).
+Centro di raccolta della Confederazione (scorie che devono essere consegnate): il Centro di raccolta riscuote gli emolumenti per lo smaltimento dei rifiuti radioattivi conformemente all’OEm-RaP[^annex4-lvlu1-1] secondo il principio di causalità (art. 4 LRaP[^annex4-lvlu1-2]).
 
 I costi derivanti dalla distribuzione di compresse allo iodio alla popolazione del Principato del Liechtenstein sono rimborsati contro presentazione della fattura.
 
-[^annex4-lvlu1-1]: [RS 814.56](https://fedlex.data.admin.ch/eli/cc/2017/511)
-[^annex4-lvlu1-2]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex4-lvlu1-1]: [RS 814.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9570)
+[^annex4-lvlu1-2]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)

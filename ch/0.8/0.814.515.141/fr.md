@@ -3,18 +3,18 @@ sr: "0.814.515.141"
 title: Accord du 14 septembre 2010 entre le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein concernant la collaboration dans le domaine de la radioprotection (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/809"
 language: fr
-version: 2018-08-01
+version: 2026-01-01
 adopted: 2010-09-14
 in_force: 2010-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/809/20180801/fr/xml/fedlex-data-admin-ch-eli-cc-2010-809-20180801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/809/20180801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/809/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-809-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/809/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Accord entre le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein concernant la collaboration dans le domaine de la radioprotection
 
-RO **2010** 5713
+RO **2020** 5713
 
 Traduction
 
@@ -22,7 +22,7 @@ Conclu le 14 septembre 2010
 
 Entrée en vigueur le 1<sup>er</sup> décembre 2010
 
-(Etat le 1<sup>er</sup> août 2018)
+(État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein
 
@@ -34,7 +34,7 @@ sont convenus des dispositions suivantes:
 
 L’accord réglemente la collaboration entre la Suisse et la Principauté de Liechtenstein, d’une part, pour compléter la législation suisse sur la radioprotection applicable au Liechtenstein sur la base du traité du 29 mars 1923 entre la Suisse et la Principauté de Liechtenstein concernant la réunion de la Principauté de Liechtenstein au territoire douanier suisse[^1-1] (ci-après accord douanier) et, d’autre part, en considérant notamment l’art. 4 de cet accord ainsi que la collaboration actuelle entre la Suisse et le Liechtenstein concernant la radioprotection.
 
-[^1-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^1-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 2
 
@@ -60,7 +60,7 @@ Les dispositions légales suisses applicables au Liechtenstein sur la base du pr
 
 <sup>(2)</sup> Les annexes au présent accord sont complétées ou modifiées d’un mutuel accord entre les autorités et services mentionnés aux annexes 2 et 3.
 
-<sup>(3)</sup> Les annexes revues sont publiées dans le Journal officiel national, *Landesg**e**setzblat**t* du Liechtenstein. Les annexes font partie intégrante du présent accord.
+<sup>(3)</sup> Les annexes revues sont publiées dans le Journal officiel national, *Landesgesetzblatt* du Liechtenstein. Les annexes font partie intégrante du présent accord.
 
 <sup>(4)</sup> Les questions en suspens concernant l’interprétation et l’application du présent accord seront réglées par la voie diplomatique.
 
@@ -82,7 +82,7 @@ Les dispositions légales suisses applicables au Liechtenstein sur la base du pr
 
 *En foi de quoi*, les plénipotentiaires des deux parties ont signé le présent accord. Fait à Berne, en deux exemplaires originaux en langue allemande, le 14 septembre 2010. Pour le Conseil fédéral suisse: Didier Burkhalter Pour le Gouvernement de la Principauté de Liechtenstein: Renate Müssner
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 ## Liste des lois suisses applicables au Liechtenstein en vertu de l’art. 2 du présent accord
 
@@ -148,13 +148,13 @@ Annexe 1*[^t-1]*
 <tr><td>814.56</td><td>Ordonnance du 26 avril 2017 sur les émoluments perçus dans le domaine de la radioprotection (OE-RaP) *applicable, à l’exception des* art. 2 et 7. Les compétences pour les art. 1, 4, al. 2, art. 6 et 8 sont mentionnées à l’annexe 2.</td><td>*2017* 4801</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 ## Autorités compétentes dans la Principauté de Liechtenstein selon l’art. 3 de l’accord
 
 [^t-2]: Nouvelle teneur selon l’échange de notes des 3 et 6 juil. 2018, en vigueur depuis le 1<sup>er</sup> août 2018 ([RO 2018 3327](https://fedlex.data.admin.ch/eli/oc/2018/539)).
 
-(1) Sont compétents dans la Principauté de Liechtenstein pour l’application et la surveillance: l’Office de la santé publique *(Amt für Gesundheit, AG)*, l’Office de l’inspection alimentaire et des affaires vétérinaires *(Amt für Lebensmittelkontrolle und Veterinärwesen, ALKVW)*, l’Office de l’économie nationale *(Amt für Volks**wirtschaft, AVW)*, l’Office de la protection de l’environnement *(Amt für* *Umwelt**, AU)* ainsi que l’Office de protection de la population *(Amt für Bevölkerungsschutz, ABS)*.
+(1) Sont compétents dans la Principauté de Liechtenstein pour l’application et la surveillance: l’Office de la santé publique *(Amt für Gesundheit, AG)*, l’Office de l’inspection alimentaire et des affaires vétérinaires *(Amt für Lebensmittelkontrolle und Veterinärwesen, ALKVW)*, l’Office de l’économie nationale *(Amt für Volks**wirtschaft, AVW)*, l’Office de la protection de l’environnement *(Amt für* *Umwelt**, AU)**[^annex2-lvlu1-1]* ainsi que l’Office de protection de la population *(Amt für Bevölkerungsschutz, ABS)*.
 
 (2) L’AG est compétent pour les autorisations et la surveillance dans le domaine de la médecine et de la recherche, et pour la surveillance des centres de formation.
 
@@ -168,7 +168,9 @@ Annexe 2*[^t-2]*
 
 (7) L’AG est compétent pour l’approvisionnement de la population en comprimés d’iode dans l’éventualité d’un événement susceptible d’entraîner un risque d’exposition à l’iode radioactif. L’ABS soutient l’AG lors de la distribution de comprimés d’iode et du matériel d’information sur le territoire du Liechtenstein.
 
-Annexe 3*[^t-3]*
+[^annex2-lvlu1-1]: Depuis le 1er août 2026: Office de la protection de l’environnement (Amt für Umweltschutz, AUS).
+
+Annexe 3[^t-3]
 
 ## Autorités compétentes et services compétents en Suisse et collaboration pour l’exécution de l’accord selon l’art. 3
 
@@ -193,7 +195,7 @@ L’OFSP intervient dans la Principauté de Liechtenstein pour la surveillance d
 - – rapport sur les résultats de la surveillance et sur les doses de rayonnement qui en résultent pour la population (art. 194, al. 4, ORaP)
 - – expertises, suivi de projets et activités de conseil dans le domaine de la surveillance de la radioactivité dans l’environnement.
 
-[^annex3-lvlu1-lvl2-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex3-lvlu1-lvl2-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 ### 3. Collaboration entre les autorités concernant les héritages radiologiques
 
@@ -260,8 +262,8 @@ L’OFSP intervient dans le domaine de la radioprotection en médecine, recherch
 - – examen des conditions pour la reconnaissance d’une institution visant à dispenser des formations en radioprotection (art. 4 de l’ordonnance sur la formation en radioprotection[^annex3-lvlu1-lvl7-2])
 - – autorisation de type pour les sources de rayonnement (art. 15 ORaP).
 
-[^annex3-lvlu1-lvl7-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl7-2]: [RS 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
+[^annex3-lvlu1-lvl7-1]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^annex3-lvlu1-lvl7-2]: [RS 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
 
 ### 8. Collaboration pour les autorisations et la surveillance dans les entreprises industrielles et artisanales
 
@@ -288,7 +290,7 @@ La Suva intervient dans le domaine de la radioprotection pour les entreprises de
 
 - b) L’AG indique à la Pharmacie de l’armée les lieux d’entreposage et les réserves de comprimés stockés conformément à l’art. 5 de l’ordonnance sur les comprimés d’iode.
 
-[^annex3-lvlu1-lvl9-1]: [RS 814.52](https://fedlex.data.admin.ch/eli/cc/2014/69)
+[^annex3-lvlu1-lvl9-1]: [RS 814.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9548)
 
 ### 10. Collaboration entre les autorités dans le domaine de la dosimétrie individuelle
 
@@ -305,15 +307,13 @@ La Suva intervient dans le domaine de la radioprotection pour les entreprises de
 
   - – tenue d’un registre central des doses accumulées par les personnes exposées aux rayonnements dans l’exercice de leur profession dans la Principauté de Liechtenstein (art. 72 ORaP).
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 ## Règlement des dépenses des autorités et services suisses dans le cadre de l’Accord selon l’art. 5 de ce même accord
 
-[^t-4]: Nouvelle teneur selon l’échange de notes des 3 et 6 juil. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2018 3327](https://fedlex.data.admin.ch/eli/oc/2018/539)).
+[^t-4]: Nouvelle teneur selon l’échange de notes du 30 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 642](https://fedlex.data.admin.ch/eli/oc/2025/642)).
 
-Les prestations fournies par l’OFSP qui sont mentionnées dans l’annexe 3 sont rémunérées par un forfait à hauteur de 40 000 francs par année. Si les dépenses occasionnées par ces prestations dépassent nettement le cadre usuel, une rémunération séparée et appropriée pourra être facturée en fonction de ces dépenses, au cas par cas et après accord.
-
-La rémunération des auditeurs qui effectuent les audits est facturée séparément.
+Les prestations fournies par l’OFSP qui sont mentionnées dans l’annexe 3 sont rémunérées par un forfait à hauteur de 40 000 francs par année. De plus, un forfait de 36 400 francs par an sera facturé entre 2026 et 2029 pour le développement et l’utilisation conjointe du Radiation Portal Switzerland. À partir de 2030, des coûts annuels récurrents de 5500 francs seront facturés pour l’utilisation conjointe du Radiation Portal Switzerland, en sus de la rémunération forfaitaire des prestations mentionnées dans l’annexe 3. Si les dépenses occasionnées par ces prestations dépassent nettement le cadre usuel, une rémunération séparée et appropriée pourra être facturée en fonction de ces dépenses, au cas par cas et après accord. La rémunération des auditeurs qui effectuent les audits est facturée séparément.
 
 La Suva est rémunérée par un forfait qui est fixé dans un accord séparé entre l’AVW et la Suva.
 
@@ -321,5 +321,5 @@ Le Centre fédéral de ramassage (déchets à livrer) prélève les émoluments 
 
 Les coûts occasionnés par l’approvisionnement de la population de la Principauté de Liechtenstein en comprimés d’iode sont rémunérés sur facture.
 
-[^annex4-lvlu1-1]: [RS 814.56](https://fedlex.data.admin.ch/eli/cc/2017/511)
-[^annex4-lvlu1-2]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex4-lvlu1-1]: [RS 814.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9570)
+[^annex4-lvlu1-2]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)

@@ -3,11 +3,11 @@ sr: "0.814.515.141"
 title: Vereinbarung vom 14. September 2010 zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein betreffend die Zusammenarbeit im Bereich des Strahlenschutzes (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/809"
 language: de
-version: 2018-08-01
+version: 2026-01-01
 adopted: 2010-09-14
 in_force: 2010-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/809/20180801/de/xml/fedlex-data-admin-ch-eli-cc-2010-809-20180801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/809/20180801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/809/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-809-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/809/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 14. September 2010
 
 In Kraft getreten am 1. Dezember 2010
 
-(Stand am 1. August 2018)
+(Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat und die Regierung des Fürstentums Liechtenstein
 
@@ -34,7 +34,7 @@ sind wie folgt übereingekommen:
 
 In Ergänzung zu der in Liechtenstein aufgrund des Vertrages vom 29. März 1923[^1-1] zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (Zollvertrag) anwendbaren schweizerischen Strahlenschutzgesetzgebung und unter Berücksichtigung insbesondere von Artikel 4 des Zollvertrages sowie der bisherigen Zusammenarbeit zwischen der Schweiz und Liechtenstein betreffend den Strahlenschutz, regelt diese Vereinbarung die Zusammenarbeit zwischen der Schweiz und dem Fürstentum Liechtenstein im Bereich des Strahlenschutzes.
 
-[^1-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^1-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 2
 
@@ -82,7 +82,7 @@ Die aufgrund dieser Vereinbarung in Liechtenstein anwendbaren schweizerischen Re
 
 *Zu Urkund dessen* haben die Bevollmächtigten diese Vereinbarung unterzeichnet. Geschehen in Bern, in doppelter Ausfertigung in deutscher Sprache, am 14. September 2010. Für den Schweizerischen Bundesrat: Didier Burkhalter Für die Regierung des Fürstentums Liechtenstein: Renate Müssner
 
-Anlage 1*[^t-1]*
+Anlage 1[^t-1]
 
 ## Liste der schweizerischen Rechtsvorschriften, die nach Art. 2 der Vereinbarung in Liechtenstein anwendbar sind
 
@@ -148,13 +148,13 @@ Anlage 1*[^t-1]*
 <tr><td>814.56</td><td>Verordnung vom 26. April 2017 über die Gebühren im Strahlenschutz (GebV-StS) *anwendbar, mit Ausnahme von* Art. 2 und 7. Die Zuständigkeiten für Art. 1, Art. 4 Abs. 2, Art. 6 und Art. 8 ergeben sich aus Anlage 2.</td><td>*2017* 4801</td></tr>
 </table>
 
-Anlage 2*[^t-2]*
+Anlage 2[^t-2]
 
 ## Zuständige Behörden im Fürstentum Liechtenstein nach Art. 3 der Vereinbarung
 
 [^t-2]: Fassung gemäss Notenaustausch vom 3. und 6. Juli 2018, in Kraft seit 1. Aug. 2018 ([AS 2018 3327](https://fedlex.data.admin.ch/eli/oc/2018/539)).
 
-(1) Zuständig für den Vollzug und die Aufsicht im Fürstentum Liechtenstein sind das Amt für Gesundheit (AG), das Amt für Lebensmittelkontrolle und Veterinärwesen (ALKVW), das Amt für Volkswirtschaft (AVW), das Amt für Umwelt (AU) sowie das Amt für Bevölkerungsschutz (ABS).
+(1) Zuständig für den Vollzug und die Aufsicht im Fürstentum Liechtenstein sind das Amt für Gesundheit (AG), das Amt für Lebensmittelkontrolle und Veterinärwesen (ALKVW), das Amt für Volkswirtschaft (AVW), das Amt für Umwelt (AU)[^annex2-lvlu1-1] sowie das Amt für Bevölkerungsschutz (ABS).
 
 (2) Das AG ist zuständig für die Bewilligungen und die Aufsicht im Bereich von Medizin und Forschung und für die Aufsicht in Ausbildungsstätten.
 
@@ -168,7 +168,9 @@ Anlage 2*[^t-2]*
 
 (7) Das AG ist zuständig für die Versorgung der Bevölkerung mit Jodtabletten für den Fall eines Ereignisses, das eine Gefährdung durch radioaktives Jod zur Folge haben kann. Das ABS unterstützt das AG bei der Verteilung der Jodtabletten und des Informationsmaterials innerhalb Liechtensteins.
 
-Anlage 3*[^t-3]*
+[^annex2-lvlu1-1]: Seit dem 1. Aug. 2026: Amt für Umweltschutz (AUS).
+
+Anlage 3[^t-3]
 
 ## Zuständige Behörden und Fachstellen in der Schweiz und Zusammenarbeit bei der Durchführung der Vereinbarung nach Art. 3 der Vereinbarung
 
@@ -193,7 +195,7 @@ Das BAG wird bei der Überwachung der Umwelt und im Falle der Abgabe von radioak
 - – Zusammenstellung der Ergebnisse der Überwachung und die daraus für die Bevölkerung resultierenden Strahlendosen (Art. 194 Abs. 4 StSV)
 - – Expertisen, Projektbetreuung und Beratungstätigkeiten im Bereich der Überwachung der Umweltradioaktivität.
 
-[^annex3-lvlu1-lvl2-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex3-lvlu1-lvl2-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 ### 3. Zusammenarbeit der Behörden im Rahmen von radiologischen Altlasten
 
@@ -260,8 +262,8 @@ Das BAG wird im Bereich des Strahlenschutzes in der Medizin, Forschung und Lehre
 - – Prüfung der Voraussetzungen für die Anerkennung einer Institution zur Durchführung von Strahlenschutzausbildungen (Art. 4 Strahlenschutz-Ausbildungsverordnung[^annex3-lvlu1-lvl7-2])
 - – Typenbewilligung von Strahlungsquellen (Art. 15 StSV).
 
-[^annex3-lvlu1-lvl7-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex3-lvlu1-lvl7-2]: [SR 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
+[^annex3-lvlu1-lvl7-1]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^annex3-lvlu1-lvl7-2]: [SR 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
 
 ### 8. Zusammenarbeit bei Bewilligungen und Aufsicht in Industrie- und Gewerbebetrieben
 
@@ -288,7 +290,7 @@ Die Suva wird im Bereich des Strahlenschutzes in Betrieben im Fürstentum Liecht
 
 - b) Das AG meldet der Armeeapotheke die Lagerorte und den Bestand der eingelagerten Tabletten gemäss Artikel 5 Jodtabletten-Verordnung.
 
-[^annex3-lvlu1-lvl9-1]: [SR 814.52](https://fedlex.data.admin.ch/eli/cc/2014/69)
+[^annex3-lvlu1-lvl9-1]: [SR 814.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9548)
 
 ### 10. Zusammenarbeit der Behörden im Bereich der Personendosimetrie
 
@@ -304,23 +306,20 @@ Die Suva wird im Bereich des Strahlenschutzes in Betrieben im Fürstentum Liecht
   Das BAG übernimmt folgende Aufgabe:
 
   - – Führung des zentralen Dosisregisters für beruflich strahlenexponierte Personen im Fürstentum Liechtenstein (Art. 72 StSV).
-  - [tab]
 
-Anlage 4*[^t-4]*
+Anlage 4[^t-4]
 
 ## Abgeltung des Aufwands der schweizerischen Behörden und Fachstellen im Rahmen der Vereinbarung nach Art. 5 der Vereinbarung
 
-[^t-4]: Fassung gemäss Notenaustausch vom 3. und 6. Juli 2018, in Kraft seit 1. Jan. 2018 ([AS 2018 3327](https://fedlex.data.admin.ch/eli/oc/2018/539)).
+[^t-4]: Fassung gemäss Notenaustausch vom 30. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 642](https://fedlex.data.admin.ch/eli/oc/2025/642)).
 
-Die in der Anlage 3 aufgeführten Dienstleistungen des BAG werden pauschal mit 40 000 Franken pro Jahr abgegolten. Sollte der Aufwand dieser Dienstleistungen den üblichen Rahmen deutlich überschreiten, so kann dafür im Einzelfall und nach Absprache eine angemessene separate Abgeltung nach Aufwand in Rechnung gestellt werden.
+Die in der Anlage 3 aufgeführten Dienstleistungen des BAG werden pauschal mit 40 000 Franken pro Jahr abgegolten. Zusätzlich werden in den Jahren 2026 bis 2029 für die Entwicklung und Mitnutzung des Radiation Portals Switzerland pauschal 36 400 Franken pro Jahr verrechnet. Ab dem Jahr 2030 werden für die Mitnutzung des Radiation Portals Switzerland zusätzlich zur pauschalen Abgeltung der in Anlage 3 aufgeführten Dienstleistungen jährlich wiederkehrende Kosten von 5500 Franken verrechnet. Sollte der Aufwand dieser Dienstleistungen den üblichen Rahmen deutlich überschreiten, so kann dafür im Einzelfall und nach Absprache eine angemessene separate Abgeltung nach Aufwand in Rechnung gestellt werden. Die Abgeltung der Auditorinnen und Auditoren, welche die klinischen Audits durchführen, wird separat in Rechnung gestellt.
 
-Die Abgeltung der Auditorinnen und Auditoren, welche die klinischen Audits durchführen, wird separat in Rechnung gestellt.
-
-Die Entgeltung der Suva erfolgt mittels Pauschalbetrag, welcher in einer separaten Vereinbarung zwischen dem AVW und der Suva festgelegt wird.
+Die Entgeltung der Suva erfolgt mittels Pauschalbetrags, welcher in einer separaten Vereinbarung zwischen dem AVW und der Suva festgelegt wird.
 
 Sammelstelle des Bundes (ablieferungspflichtige Abfälle): die Sammelstelle erhebt gemäss Strahlenschutz-Gebührenverordnung[^annex4-lvlu1-1] und dem Verursacherprinzip (Art. 4 StSG[^annex4-lvlu1-2]) die Gebühren für die Entsorgung der radioaktiven Abfälle direkt beim Verursacher.
 
 Die im Rahmen der Versorgung der Bevölkerung des Fürstentums Liechtenstein mit Jodtabletten anfallenden Kosten werden nach Rechnung vergütet.
 
-[^annex4-lvlu1-1]: [SR 814.56](https://fedlex.data.admin.ch/eli/cc/2017/511)
-[^annex4-lvlu1-2]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex4-lvlu1-1]: [SR 814.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9570)
+[^annex4-lvlu1-2]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
