@@ -4,13 +4,12 @@ number: 866a
 title: Verordnung zum Gesetz über die Verbilligung von Prämien der Krankenversicherung
 short: Prämienverbilligungsverordnung
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-05
+version: 2026-01-01
+version_adopted: 2025-11-04
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/866a"
-pdf: "https://srl.lu.ch/api/de/versions/4339/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4339/pdf_file"
 
 (Prämienverbilligungsverordnung)
 
-vom 12.12.1995 (Stand 01.01.2025)
+vom 12.12.1995 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -43,9 +42,9 @@ beschliesst:
 
 #### § 2
 
-**Genereller Anspruch für das Jahr 2025**
+**Genereller Anspruch für das Jahr 2026**
 
-<sup>1</sup> Ein Anspruch auf Prämienverbilligung nach § 7 Absatz 1 des Gesetzes über die Verbilligung von Prämien der Krankenversicherung (Prämienverbilligungsgesetz) vom 24. Januar 1995 besteht für das Jahr 2025, soweit die anrechenbaren Prämien das massgebende Einkommen um einen bestimmten Prozentsatz übersteigen. Dieser Prozentsatz beträgt für das Jahr 2025 mindestens 10 Prozent. Für jeden Franken des massgebenden Einkommens steigt er um 0,00006 Prozentpunkte an.
+<sup>1</sup> Ein Anspruch auf Prämienverbilligung nach § 7 Absatz 1 des Gesetzes über die Verbilligung von Prämien der Krankenversicherung (Prämienverbilligungsgesetz) vom 24. Januar 1995 besteht für das Jahr 2026, soweit die anrechenbaren Prämien das massgebende Einkommen um einen bestimmten Prozentsatz übersteigen. Dieser Prozentsatz beträgt für das Jahr 2026 mindestens 10 Prozent. Für jeden Franken des massgebenden Einkommens steigt er um 0,00006 Prozentpunkte an.
 
 - a. …
 - b. …
@@ -56,17 +55,17 @@ beschliesst:
 
 #### § 2a
 
-**Anspruch auf Prämienverbilligung für Kinder und junge Erwachsene für das Jahr 2025**
+**Anspruch auf Prämienverbilligung für Kinder und junge Erwachsene für das Jahr 2026**
 
-<sup>1</sup> Eltern oder Elternteile, unter deren Obhut Kinder bis zum vollendeten 18. Lebensjahr leben, haben für das Jahr 2025 Anspruch auf die Verbilligung der anrechenbaren Prämien für Kinder um 80 Prozent, sofern die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllt sind und ihr massgebendes Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2025
+<sup>1</sup> Eltern oder Elternteile, unter deren Obhut Kinder bis zum vollendeten 18. Lebensjahr leben, haben für das Jahr 2026 Anspruch auf die Verbilligung der anrechenbaren Prämien für Kinder um 80 Prozent, sofern die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllt sind und ihr massgebendes Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2026
 
-- a. bei Eltern — Fr. 90 688.–
-- b. bei einem Elternteil — Fr. 72 550.–
+- a. bei Eltern — Fr. 96 392.–
+- b. bei einem Elternteil — Fr. 77 114.–
 
-<sup>2</sup> Die Prämien von jungen Erwachsenen bis zum vollendeten 25. Altersjahr werden für das Jahr 2025 um die Hälfte verbilligt, sofern diese die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllen und eine mindestens sechs Monate dauernde Ausbildung absolvieren, welche einen Anspruch auf eine Ausbildungszulage gemäss dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^2a-1] begründet. Bei jungen Erwachsenen in Ausbildung, die bei ihren unterhaltspflichtigen Eltern oder einem unterhaltspflichtigen Elternteil wohnen, besteht der Anspruch auf eine hälftige Verbilligung der anrechenbaren Prämien für das Jahr 2025 zudem nur, wenn das gemeinsame massgebende Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2025
+<sup>2</sup> Die Prämien von jungen Erwachsenen bis zum vollendeten 25. Altersjahr werden für das Jahr 2026 um die Hälfte verbilligt, sofern diese die persönlichen Voraussetzungen gemäss § 5 des Prämienverbilligungsgesetzes erfüllen und eine mindestens sechs Monate dauernde Ausbildung absolvieren, welche einen Anspruch auf eine Ausbildungszulage gemäss dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^2a-1] begründet. Bei jungen Erwachsenen in Ausbildung, die bei ihren unterhaltspflichtigen Eltern oder einem unterhaltspflichtigen Elternteil wohnen, besteht der Anspruch auf eine hälftige Verbilligung der anrechenbaren Prämien für das Jahr 2026 zudem nur, wenn das gemeinsame massgebende Einkommen im Sinn von § 7 Absätze 2–6 des Prämienverbilligungsgesetzes eine bestimmte Einkommensgrenze nicht überschreitet. Diese Einkommensgrenze beträgt für das Jahr 2026
 
-- a. bei Eltern — Fr. 90 688.–
-- b. bei einem Elternteil — Fr. 72 550.–
+- a. bei Eltern — Fr. 96 392.–
+- b. bei einem Elternteil — Fr. 77 114.–
 
 <sup>2<sup>bis</sup></sup> …
 
@@ -90,20 +89,20 @@ beschliesst:
 
 **Anrechenbare Prämien**
 
-<sup>1</sup> Zur Berechnung des Anspruchs auf Prämienverbilligung für das Jahr 2025 gelten in den einzelnen Prämienregionen die folgenden Richtprämien pro Jahr in Franken:
+<sup>1</sup> Zur Berechnung des Anspruchs auf Prämienverbilligung für das Jahr 2026 gelten in den einzelnen Prämienregionen die folgenden Richtprämien pro Jahr in Franken:
 
 - a. Prämienregion 1:
-  - 1\. Erwachsene — 5436.–
-  - 2\. junge Erwachsene — 4056.–
-  - 3\. Kinder — 1260.–
+  - 1\. Erwachsene — 5628.–
+  - 2\. junge Erwachsene — 4044.–
+  - 3\. Kinder — 1308.–
 - b. Prämienregion 2:
-  - 1\. Erwachsene — 5112.–
-  - 2\. junge Erwachsene — 3804.–
-  - 3\. Kinder — 1164.–
+  - 1\. Erwachsene — 5304.–
+  - 2\. junge Erwachsene — 3780.–
+  - 3\. Kinder — 1224.–
 - c. Prämienregion 3:
-  - 1\. Erwachsene — 4932.–
-  - 2\. junge Erwachsene — 3672.–
-  - 3\. Kinder — 1128.–
+  - 1\. Erwachsene — 5100.–
+  - 2\. junge Erwachsene — 3660.–
+  - 3\. Kinder — 1176.–
 
 <sup>2</sup> Für Personen, die Ergänzungsleistungen zur AHV/IV beziehen, gelten die vom Bund für die Berechnung der Ergänzungsleistungen festgelegten Durchschnittsprämien für die obligatorische Krankenpflegeversicherung.
 
