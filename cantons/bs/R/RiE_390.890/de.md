@@ -4,13 +4,12 @@ number: RiE 390.890
 title: Reglement über die Bestattungen in der Gemeinde Riehen
 short: Bestattungsreglement
 language: de
-version: 2025-04-01
-valid_until: 2025-12-31
-version_adopted: 2025-03-18
+version: 2026-01-01
+version_adopted: 2025-10-28
 adopted: 2021-07-06
 in_force: 2021-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20390.890"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6579/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6688/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bestattungsreglement | Riehen: Einwohnergemeinde
 
 (Bestattungsreglement)
 
-Vom 6. Juli 2021 (Stand 1. April 2025)
+Vom 6. Juli 2021 (Stand 1. Januar 2026)
 
 Der Gemeinderat Riehen,
 
