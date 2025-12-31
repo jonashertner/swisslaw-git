@@ -4,11 +4,11 @@ title: "Ordinanza del 10 novembre 1993 sull'assicurazione militare (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: it
-version: 2025-06-01
+version: 2026-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250601-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/it"
 
 (OAM)
 
-del 10 novembre 1993 (Stato 1° giugno 2025)
+del 10 novembre 1993 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^ingress-3]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
 ## Sezione 1: Presupposti della responsabilità della Confederazione
@@ -43,13 +43,13 @@ ordina:
 
 <sup>4</sup> Non sono considerati servizio militare o servizio di protezione civile, segnatamente, l’adempimento degli obblighi fuori servizio per la manutenzione del vestiario, dell’equipaggiamento personale e dell’armamento nonché i lavori di preparazione in vista del servizio militare o di protezione civile.
 
-[^1-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^1-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^1-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^1-3]: Nuovo testo giusta l’all. 7 cifra II n. 8 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^1-4]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^1-5]: Abrogato dalla cifra I dell’O del 19 nov. 1997, con effetto dal 1° gen. 1998 ([RU 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^1-6]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^1-7]: [RS 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
+[^1-6]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^1-7]: [RS 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
 [^1-8]: Nuovo testo giusta l’all. 6 cifra II n. 2 dell’O dell’11 nov. 2020 sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
 
 #### Art. 2
@@ -76,7 +76,7 @@ Sono considerati istruttori dell’Ufficio federale della protezione della popol
 - d. gli aspiranti istruttori.
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^2-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^2-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 3
 
@@ -120,7 +120,7 @@ Sono considerati istruttori dell’Ufficio federale della protezione della popol
 - b. funzionario o marcatore.
 
 [^4-1]: Nuovo testo giusta l’art. 57 dell’O del 5 dic. 2003 sul tiro, in vigore dal 1° gen. 2004 ([RU 2003 5119](https://fedlex.data.admin.ch/eli/oc/2003/754)).
-[^4-2]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^4-2]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 #### Art. 5
 
@@ -161,7 +161,7 @@ Sono considerati istruttori dell’Ufficio federale della protezione della popol
 [^6-1]: Nuovo testo giusta l’all. n. 4 dell’O del 17 dic. 2014, in vigore dal 1° feb. 2015 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
 [^6-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 [^6-3]: Nuovo testo giusta la cifra I dell’O del 19 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^6-4]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645);[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. cifra I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^6-4]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645);[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. cifra I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)).
 [^6-5]: Nuovo testo giusta l’all. n. 4 dell’O del 17 dic. 2014, in vigore dal 1° feb. 2015 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
 
 #### Art. 7
@@ -171,7 +171,7 @@ Sono considerati istruttori dell’Ufficio federale della protezione della popol
 È pure considerato partecipante ad azioni di mantenimento della pace e di buoni uffici della Confederazione ai sensi dell’articolo 1*a* capoverso 1 lettera l della legge chi partecipa a missioni di cui alla legge federale del 19 dicembre 2003[^7-2] su misure di promozione civile della pace e di rafforzamento dei diritti dell’uomo.
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^7-2]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^7-2]: [RS 193.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5683)
 
 #### Art. 7a
 
@@ -182,8 +182,8 @@ Sono considerati istruttori dell’Ufficio federale della protezione della popol
 <sup>2</sup> L’assicurazione militare esplica i suoi effetti parimenti durante un congedo e durante l’interruzione di un periodo di impiego.[^7a-4]
 
 [^7a-1]: Introdotto dall’appendice 3 n. 8 dell’O dell’11 set. 1996 sul servizio civile ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)). Nuovo testo giusta la cifra I dell’O del 19 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^7a-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^7a-3]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^7a-2]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^7a-3]: [RS 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
 [^7a-4]: Introdotto dalla cifra I dell’O del 27 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3092](https://fedlex.data.admin.ch/eli/oc/2000/561)).
 
 #### Art. 8
@@ -210,7 +210,7 @@ Sono considerati istruttori dell’Ufficio federale della protezione della popol
 
 La sospensione dell’assicurazione secondo l’articolo 3 capoverso 2 della legge si limita agli infortuni professionali che sono assicurati obbligatoriamente secondo la legge federale del 20 marzo 1981[^9-1] sull’assicurazione contro gli infortuni. L’assicurazione militare copre il percorso di andata e ritorno dal lavoro.
 
-[^9-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^9-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ## Sezione 2: Prestazioni assicurative
 
@@ -238,7 +238,7 @@ La sospensione dell’assicurazione secondo l’articolo 3 capoverso 2 della leg
 
 [^10-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 [^10-2]: Nuovo testo giusta l’appendice 3 n. 8 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
-[^10-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^10-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^10-4]: Nuovo testo giusta l’appendice 3 n. 8 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 
 #### Art. 11
@@ -256,7 +256,7 @@ La sospensione dell’assicurazione secondo l’articolo 3 capoverso 2 della leg
 [^11-1]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^11-2]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^11-3]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^11-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-4]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^11-5]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 12
@@ -266,7 +266,7 @@ La sospensione dell’assicurazione secondo l’articolo 3 capoverso 2 della leg
 I chiropratici, le levatrici, le persone che dispensano cure previa prescrizione medica (personale paramedico), le organizzazioni che impiegano personale paramedico e i laboratori, autorizzati a esercitare ai sensi degli articoli 44, 44*a*, 45, 45*a*, 47–50*d*, 51–52*f*, 53 e 54 dell’ordinanza del 27 giugno 1995[^12-2] sull’assicurazione malattie (OAMal), possono praticare anche per l’assicurazione militare. Il Dipartimento federale dell’interno (DFI) può designare altre persone come personale paramedico, che possono praticare per l’assicurazione militare nel quadro dell’autorizzazione cantonale.
 
 [^12-1]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^12-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^12-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 13
 
@@ -283,7 +283,7 @@ Per l’approntamento delle tariffe sono applicabili per analogia:
 
 [^13-1]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^13-2]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^13-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^13-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 13a
 
@@ -292,7 +292,7 @@ Per l’approntamento delle tariffe sono applicabili per analogia:
 L’ordinanza del 3 luglio 2002[^13a-2] sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell’assicurazione malattie si applica per analogia agli ospedali e agli stabilimenti di cura di cui all’articolo 22 capoverso 2 della legge. Sono autorizzati a consultare i documenti le autorità della Confederazione competenti in materia, l’associazione Commissione delle tariffe mediche LAINF e i partner tariffali.
 
 [^13a-1]: Introdotto dall’all. n. 3 dell’O del 9 nov. 2016 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^13a-2]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
+[^13a-2]: [RS 832.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10142)
 
 #### Art. 13b
 
@@ -306,7 +306,7 @@ L’ordinanza del 3 luglio 2002[^13a-2] sul calcolo dei costi e la registrazione
 
 [^13b-1]: Introdotto dall’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^13b-2]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^13b-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^13b-3]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^13b-4]: Introdotto dall’all. n. 2 dell’O del 23 nov. 2022 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)). Nuovo testo giusta la cifra I dell’O del 30 apr. 2025, in vigore dal 1° giu. 2025 ([RU 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 13c
@@ -369,7 +369,7 @@ L’ordinanza del 3 luglio 2002[^13a-2] sul calcolo dei costi e la registrazione
 
 <sup>6</sup> Per i contadini indipendenti, il guadagno assicurato è fissato di regola secondo valori determinati sulla base della superficie utile nonché della situazione geografica dell’azienda (montagna o pianura) e dello stato del bestiame.
 
-[^16-1]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^16-1]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^16-2]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 17
@@ -396,8 +396,8 @@ L’indennità giornaliera è versata per tutti i giorni dell’anno, inclusi la
 
 [^19-1]: Nuovo testo del per. giusta la cifra I dell’O del 16 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
-[^19-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^19-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19-3]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^19-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^19-5]: Nuovo testo giusta l’all. n. 10 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 20
@@ -409,8 +409,8 @@ L’indennità giornaliera è versata per tutti i giorni dell’anno, inclusi la
 <sup>2</sup> L’articolo 6<sup>quater</sup> OAVS[^20-2] concernente i contributi dovuti dagli assicurati esercitanti un’attività lucrativa dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^20-3] e l’articolo 19 OAVS concernente il reddito di poco conto proveniente da attività indipendenti esercitate a titolo accessorio non sono applicabili.[^20-4]
 
 [^20-1]: Nuovo testo giusta l’all. n. 3 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^20-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^20-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^20-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^20-4]: Nuovo testo giusta l’all. n. 10 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 21
@@ -452,7 +452,7 @@ L’assicurazione militare è autorizzata a interpellare gli uffici cantonali e 
 
 <sup>2</sup> Se la rendita insorge dopo che l’assicurato ha raggiunto l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^23-1], l’assegnazione di una rendita a tempo indeterminato è esclusa.[^23-2]
 
-[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-2]: Nuovo testo giusta l’all. n. 10 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
@@ -528,7 +528,7 @@ Il valore attuale della rendita viene calcolato fondandosi sull’importo annuo 
 
 **Premio per prestazioni in caso di malattia**
 
-<sup>1</sup> Il premio mensile per le prestazioni in caso di malattia ammonta a 450 franchi.[^28a-1]
+<sup>1</sup> Il premio mensile per le prestazioni in caso di malattia ammonta a 481 franchi.[^28a-1]
 
 <sup>2</sup>
 
@@ -542,16 +542,16 @@ Per gli assicurati a titolo professionale, il cui stipendio rientra in una delle
 
 <sup>4</sup> La parte dei premi relativa al rischio di malattia degli assicurati a titolo professionale impiegati a tempo parziale è uguale a quella dovuta con un impiego a tempo pieno.
 
-[^28a-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
-[^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^28a-1]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 763](https://fedlex.data.admin.ch/eli/oc/2025/763)).
+[^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 28b
 
 **Premio per prestazioni in caso di infortunio per gli assicurati dell’assicurazione di base facoltativa**[^28b-1]
 
-Per gli assicurati dell’assicurazione di base facoltativa (assicurati a titolo facoltativo), il supplemento al premio per le prestazioni in caso di malattia previsto per le prestazioni in caso di infortunio ammonta a 61 franchi al mese.
+Per gli assicurati dell’assicurazione di base facoltativa (assicurati a titolo facoltativo), il supplemento al premio per le prestazioni in caso di malattia previsto per le prestazioni in caso di infortunio ammonta a 79 franchi al mese.
 
-[^28b-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
+[^28b-1]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 763](https://fedlex.data.admin.ch/eli/oc/2025/763)).
 
 #### Art. 28c
 
@@ -716,7 +716,7 @@ Il diritto al patrocinio gratuito sussiste se sono adempiute le seguenti condizi
 
 <sup>3</sup> L’emolumento può essere ridotto o condonato se l’assoggettato è indigente o per altri motivi giustificati.
 
-[^34a-1]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^34a-1]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 34b
 
@@ -748,7 +748,7 @@ Il diritto al patrocinio gratuito sussiste se sono adempiute le seguenti condizi
 <sup>3</sup> In caso di richieste di risarcimento per affezioni di civili che, secondo la legge militare del 3 febbraio 1995[^35a-2], sono a carico della Confederazione, l’assicurazione militare chiarisce i fatti per il Centro danni del Dipartimento federale della difesa, della protezione della popolazione e dello sport e, eventualmente, effettua una valutazione medica.
 
 [^35a-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^35a-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^35a-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 35b
 
@@ -791,7 +791,7 @@ Se la rendita insorge dopo che l’assicurata ha raggiunto l’età di riferimen
 
 [^38a-1]: Introdotto dall’all. n. 10 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^38a-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^38a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^38a-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 39
 

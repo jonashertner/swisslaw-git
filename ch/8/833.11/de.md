@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 1993 über die Militärversicherung (MVV)
 short: MVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: de
-version: 2025-06-01
+version: 2026-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/de"
 
 (MVV)
 
-vom 10. November 1993 (Stand am 1. Juni 2025)
+vom 10. November 1993 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
 ## 1. Abschnitt: Voraussetzungen der Bundeshaftung
@@ -43,12 +43,12 @@ verordnet:
 
 <sup>4</sup> Nicht als Militärdienst oder Zivilschutzdienst gelten namentlich die Erfüllung der ausserdienstlichen Pflichten zur Instandhaltung der Bekleidung, der persönlichen Ausrüstung und der Bewaffnung sowie die Vorbereitungsarbeiten für Militärdienst oder Zivilschutzdienst.
 
-[^1-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^1-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^1-2]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^1-3]: Fassung gemäss Anhang 7 Ziff. II 8 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^1-4]: Aufgehoben durch Ziff. I der V vom 19. Nov. 1997, mit Wirkung seit 1. Jan. 1998 ([AS 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^1-5]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^1-6]: [SR 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
+[^1-5]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^1-6]: [SR 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
 [^1-7]: Fassung gemäss Anhang 6 Ziff. II 2 der Zivilschutzverordnung vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
 
 #### Art. 2
@@ -75,7 +75,7 @@ Als Instruktoren des Bundesamtes für Bevölkerungsschutz im Sinne von Artikel 1
 - d. die Instruktorenanwärter.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^2-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^2-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 3
 
@@ -119,7 +119,7 @@ Als Teilnehmer an ausserdienstlichen Schiessübungen gilt auch, wer an den Übun
 - b. Funktionär oder Zeiger.
 
 [^4-1]: Fassung gemäss Art. 57 der Schiessverordnung vom 5. Dez. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5119](https://fedlex.data.admin.ch/eli/oc/2003/754)).
-[^4-2]: [SR 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^4-2]: [SR 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 #### Art. 5
 
@@ -160,7 +160,7 @@ Als Zivilperson im Sinne von Artikel 1*a* Absatz 1 Buchstabe g Ziffer 4 des Gese
 [^6-1]: Fassung gemäss Anhang Ziff. 4 der V vom 17. Dez. 2014, in Kraft seit 1. Febr. 2015 ([AS 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 [^6-3]: Fassung gemäss Ziff. I der V vom 19. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^6-4]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dezember 2019 ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^6-4]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dezember 2019 ([SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)).
 [^6-5]: Fassung gemäss Anhang Ziff. 4 der V vom 17. Dez. 2014, in Kraft seit 1. Febr. 2015 ([AS 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
 
 #### Art. 7
@@ -170,7 +170,7 @@ Als Zivilperson im Sinne von Artikel 1*a* Absatz 1 Buchstabe g Ziffer 4 des Gese
 Als Teilnehmer an friedenserhaltenden Aktionen und Guten Diensten des Bundes im Sinne von Artikel 1*a* Absatz 1 Buchstabe l des Gesetzes gilt auch, wer an Missionen nach dem Bundesgesetz vom 19. Dezember 2003[^7-2] über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte teilnimmt.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^7-2]: [SR 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^7-2]: [SR 193.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5683)
 
 #### Art. 7a
 
@@ -181,8 +181,8 @@ Als Teilnehmer an friedenserhaltenden Aktionen und Guten Diensten des Bundes im 
 <sup>2</sup> Die Militärversicherung erstreckt sich auch auf Urlaube und Unterbrüche eines Einsatzes.[^7a-4]
 
 [^7a-1]: Eingefügt durch Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996 ([AS 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)). Fassung gemäss Ziff. I der V vom 19. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^7a-2]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^7a-3]: [SR 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^7a-2]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^7a-3]: [SR 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
 [^7a-4]: Eingefügt durch Ziff. I der V vom 27. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3092](https://fedlex.data.admin.ch/eli/oc/2000/561)).
 
 #### Art. 8
@@ -209,7 +209,7 @@ Als Teilnehmer an friedenserhaltenden Aktionen und Guten Diensten des Bundes im 
 
 Der Versicherungsunterbruch nach Artikel 3 Absatz 2 des Gesetzes beschränkt sich auf Berufsunfälle, die nach dem Bundesgesetz vom 20. März 1981[^9-1] über die Unfallversicherung obligatorisch versichert sind. Für den Hin- und Rückweg zur Arbeit bleibt der Schutz der Militärversicherung bestehen.
 
-[^9-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^9-1]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ## 2. Abschnitt: Versicherungsleistungen
 
@@ -237,7 +237,7 @@ Der Versicherungsunterbruch nach Artikel 3 Absatz 2 des Gesetzes beschränkt sic
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 [^10-2]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 ([AS 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
-[^10-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^10-3]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^10-4]: Fassung gemäss Anhang 3 Ziff. 8 der Zivildienstverordnung vom 11. Sept. 1996, in Kraft seit 1. Okt. 1996 ([AS 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 
 #### Art. 11
@@ -255,7 +255,7 @@ Der Versicherungsunterbruch nach Artikel 3 Absatz 2 des Gesetzes beschränkt sic
 [^11-1]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^11-2]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^11-3]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^11-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-4]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^11-5]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 12
@@ -265,7 +265,7 @@ Der Versicherungsunterbruch nach Artikel 3 Absatz 2 des Gesetzes beschränkt sic
 Chiropraktoren, Hebammen, Personen, die auf ärztliche Anordnung hin Leistungen erbringen (medizinische Hilfspersonen), Organisationen, die medizinische Hilfspersonen beschäftigen, und Laboratorien, die nach den Artikeln 44, 44*a*, 45, 45*a*, 47–50*d*, 51–52*f*, 53 und 54 der Verordnung vom 27. Juni 1995[^12-2] über die Krankenversicherung (KVV) zugelassen sind, können auch für die Militärversicherung tätig sein. Das Eidgenössische Departement des Innern (EDI) kann weitere medizinische Hilfspersonen bezeichnen, die im Rahmen der kantonalen Bewilligung für die Militärversicherung tätig sein können.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^12-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^12-2]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 13
 
@@ -282,7 +282,7 @@ Für die Ausgestaltung der Tarife sind sinngemäss anwendbar:
 
 [^13-1]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^13-2]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^13-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^13-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 13a
 
@@ -291,7 +291,7 @@ Für die Ausgestaltung der Tarife sind sinngemäss anwendbar:
 Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung ist für die in Artikel 22 Absatz 2 des Gesetzes genannten Spitäler und Kuranstalten sinngemäss anwendbar. Die fachlich zuständigen Stellen des Bundes, der Verein Medizinaltarif-Kommission UVG und die Tarifpartner sind berechtigt, die Unterlagen einzusehen.
 
 [^13a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 9. Nov. 2016 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^13a-2]: [SR 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
+[^13a-2]: [SR 832.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10142)
 
 #### Art. 13b
 
@@ -304,7 +304,7 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 <sup>3</sup> Für die Datenbekanntgabe nach Artikel 26 Absatz 3<sup>bis</sup> des Gesetzes, die Übermittlung der Daten, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59*f*, 59*g* und 59*i* KVV[^13b-2] sinngemäss anwendbar.[^13b-3]
 
 [^13b-1]: Eingefügt durch Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^13b-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^13b-2]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^13b-3]: Eingefügt durch Anhang Ziff. 2 der V vom 23. Nov. 2022 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)). Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 13c
@@ -336,7 +336,7 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 <sup>5</sup> Medizinische Gründe nach Absatz 4 liegen bei einem Notfall vor oder wenn die erforderliche Leistung in keinem Vertragsspital angeboten wird.[^14-6]
 
 [^14-1]: Aufgehoben durch Anhang Ziff. 3 der V vom 9. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^14-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^14-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^14-3]: Fassung gemäss Anhang Ziff. 5 der V vom 27. Juni 1995 über die Krankenversicherung, in Kraft seit 1. Jan. 1996 ([AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 [^14-4]: Ausdruck gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6345](https://fedlex.data.admin.ch/eli/oc/2017/705)).
 [^14-5]: Fassung gemäss Ziff. I der V vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
@@ -369,7 +369,7 @@ Die Verordnung vom 3. Juli 2002[^13a-2] über die Kostenermittlung und die Leist
 
 <sup>6</sup> Bei selbständigen Landwirten wird der versicherte Verdienst in der Regel nach Erfahrungswerten aufgrund der Nutzfläche sowie der Berg- und Tallage des Betriebes und des Viehbestandes festgesetzt.
 
-[^16-1]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^16-1]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^16-2]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 17
@@ -396,8 +396,8 @@ Das Taggeld wird für alle Tage des Jahres, einschliesslich Sonn- und Feiertage 
 
 [^19-1]: Fassung des Satzes gemäss Ziff. I der V vom 16. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
-[^19-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^19-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19-3]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^19-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^19-5]: Fassung gemäss Anhang Ziff. 10 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 20
@@ -409,8 +409,8 @@ Das Taggeld wird für alle Tage des Jahres, einschliesslich Sonn- und Feiertage 
 <sup>2</sup> Artikel 6<sup>quater</sup> AHVV[^20-2] betreffend die Beiträge der erwerbstätigen Versicherten nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^20-3] und Artikel 19 AHVV betreffend den geringfügigen Nebenerwerb aus selbstständiger Erwerbstätigkeit sind nicht anwendbar.[^20-4]
 
 [^20-1]: Fassung gemäss Anhang Ziff. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^20-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^20-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^20-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^20-4]: Fassung gemäss Anhang Ziff. 10 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 21
@@ -450,7 +450,7 @@ Die Militärversicherung ist berechtigt, die kantonalen und die gemeinsamen Inva
 
 <sup>2</sup> Liegt der Rentenbeginn nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^23-1], so ist die Zusprechung einer Rente auf unbestimmte Zeit ausgeschlossen.[^23-2]
 
-[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-2]: Fassung gemäss Anhang Ziff. 10 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
@@ -527,7 +527,7 @@ Der Barwert der Rente wird auf der Basis des Jahresrentenansatzes berechnet, der
 
 **Prämie für Leistungen bei Krankheit**
 
-<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 450 Franken.[^28a-1]
+<sup>1</sup> Die monatliche Prämie für Leistungen bei Krankheit beträgt 481 Franken.[^28a-1]
 
 <sup>2</sup>
 
@@ -541,16 +541,16 @@ Bei beruflich Versicherten, deren Lohn in einer der folgenden Bandbreiten liegt,
 
 <sup>4</sup> Derjenige Teil der Prämie von teilzeitlich angestellten beruflich Versicherten, der das Risiko für Krankheit betrifft, ist gleich hoch wie für vollzeitlich angestellte.
 
-[^28a-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
-[^28a-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^28a-1]: Fassung gemäss Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 763](https://fedlex.data.admin.ch/eli/oc/2025/763)).
+[^28a-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 28b
 
 **Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten**[^28b-1]
 
-Der Zuschlag zur Prämie für Leistungen bei Krankheit, der als Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten (freiwillig Versicherte) vorgesehen ist, beträgt 61 Franken pro Monat.
+Der Zuschlag zur Prämie für Leistungen bei Krankheit, der als Prämie für Leistungen bei Unfall der bei der freiwilligen Grundversicherung Versicherten (freiwillig Versicherte) vorgesehen ist, beträgt 79 Franken pro Monat.
 
-[^28b-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
+[^28b-1]: Fassung gemäss Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 763](https://fedlex.data.admin.ch/eli/oc/2025/763)).
 
 #### Art. 28c
 
@@ -715,7 +715,7 @@ Der Anspruch auf unentgeltlichen Rechtsbeistand besteht, wenn folgende Vorausset
 
 <sup>3</sup> Die Gebühr kann wegen Bedürftigkeit der gebührenpflichtigen Person oder aus wichtigen Gründen ermässigt oder erlassen werden.
 
-[^34a-1]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^34a-1]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 34b
 
@@ -747,7 +747,7 @@ Der Anspruch auf unentgeltlichen Rechtsbeistand besteht, wenn folgende Vorausset
 <sup>3</sup> Bei Schadenersatzforderungen wegen Gesundheitsschädigungen von Zivilpersonen, für die der Bund nach dem MG[^35a-2] haftet, klärt die Militärversicherung für das Schadenzentrum des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport den Sachverhalt ab und nimmt gegebenenfalls die medizinische Beurteilung vor.
 
 [^35a-1]: Fassung gemäss Ziff. I der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^35a-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^35a-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 35b
 
@@ -790,7 +790,7 @@ Liegt der Rentenbeginn von weiblichen Versicherten nach Erreichen des in Buchsta
 
 [^38a-1]: Eingefügt durch Anhang Ziff. 10 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^38a-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^38a-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^38a-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 39
 

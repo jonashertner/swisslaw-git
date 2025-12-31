@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 1993 sur l'assurance militaire (OAM)"
 short: OAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080"
 language: fr
-version: 2025-06-01
+version: 2026-01-01
 adopted: 1993-11-10
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3080_3080_3080-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3080_3080_3080/20250601/fr"
 
 (OAM)
 
-du 10 novembre 1993 (État le 1<sup>er</sup> juin 2025)
+du 10 novembre 1993 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 
 ## Section 1 Conditions de la responsabilité de la Confédération
@@ -43,12 +43,12 @@ arrête:
 
 <sup>4</sup> Ne sont pas réputés service militaire ou service de protection civile, notamment, l’obligation d’entretenir, hors du service, les vêtements, l’équipement personnel et l’armement, ni les travaux préparatoires en vue du service militaire ou de la protection civile.
 
-[^1-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^1-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^1-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^1-3]: Nouvelle teneur selon l’annexe 7 ch. II 8 de l’O du 22 nov. 2017 sur les obligations militaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^1-4]: Abrogé par le ch. I de l’O du 19 nov. 1997, avec effet au 1<sup>er</sup> janv. 1998 ([RO 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^1-5]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^1-6]: [RS 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
+[^1-5]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^1-6]: [RS 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
 [^1-7]: Nouvelle teneur selon l’annexe 6 ch. II 2 de l’O du 11 nov. 2020 sur la protection civile, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
 
 #### Art. 2
@@ -75,7 +75,7 @@ Sont réputés instructeurs de l’Office fédéral de la protection de la popul
 - d. les candidats instructeurs.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^2-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^2-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 3
 
@@ -119,7 +119,7 @@ Est également réputé participant à des exercices de tir hors du service quic
 - b. de commissaire ou de marqueur.
 
 [^4-1]: Nouvelle teneur selon l’art. 57 de l’O du 5 déc. 2003 sur le tir, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5119](https://fedlex.data.admin.ch/eli/oc/2003/754)).
-[^4-2]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^4-2]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 #### Art. 5
 
@@ -160,7 +160,7 @@ Est également réputé civil, au sens de l’art. 1*a*, al. 1, let. g, ch. 4, d
 [^6-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3937](https://fedlex.data.admin.ch/eli/oc/2002/617)).
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^6-4]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^6-4]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)).
 [^6-5]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)).
 
 #### Art. 7
@@ -170,7 +170,7 @@ Est également réputé civil, au sens de l’art. 1*a*, al. 1, let. g, ch. 4, d
 Est réputé participant à des actions de maintien de la paix et de bons offices de la Confédération, au sens de l’art. 1*a*, al. 1, let. l, de la loi, quiconque participe entre autres à des missions, conformément à la loi fédérale du 19 décembre 2003 sur des mesures de promotion civile de la paix et de renforcement des droits de l’homme[^7-2].
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^7-2]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^7-2]: [RS 193.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5683)
 
 #### Art. 7a
 
@@ -181,8 +181,8 @@ Est réputé participant à des actions de maintien de la paix et de bons office
 <sup>2</sup> L’assurance militaire déploie également ses effets durant un congé et durant l’interruption d’une période d’affectation.[^7a-4]
 
 [^7a-1]: Introduit par l’app. 3 ch. 8 de l’O du 11 sept. 1996 sur le service civil ([RO 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)). Nouvelle teneur selon le ch. I de l’O du 19 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2751](https://fedlex.data.admin.ch/eli/oc/1997/2751_2751_2751)).
-[^7a-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^7a-3]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+[^7a-2]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^7a-3]: [RS 824.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9979)
 [^7a-4]: Introduit par le ch.I de l’O du 27 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3092](https://fedlex.data.admin.ch/eli/oc/2000/561)).
 
 #### Art. 8
@@ -209,7 +209,7 @@ Est réputé participant à des actions de maintien de la paix et de bons office
 
 La suspension de l’assurance selon l’art. 3, al. 2, de la loi est limitée aux accidents professionnels assurés à titre obligatoire en vertu de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^9-1]. L’assurance militaire couvre les trajets de l’aller et du retour effectués lorsque l’assuré se rend à son travail.
 
-[^9-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^9-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ## Section 2 Prestations d’assurance
 
@@ -237,7 +237,7 @@ La suspension de l’assurance selon l’art. 3, al. 2, de la loi est limitée a
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
 [^10-2]: Nouvelle teneur selon l’app. 3 ch. 8 de l’O du 11 sept. 1996 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
-[^10-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Actuellement: LF sur les allocations pour perte de gain en cas de service et de maternité.
+[^10-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Actuellement: LF sur les allocations pour perte de gain en cas de service et de maternité.
 [^10-4]: Nouvelle teneur selon l’app. 3 ch. 8 de l’O du 11 sept. 1996 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 
 #### Art. 11
@@ -255,7 +255,7 @@ La suspension de l’assurance selon l’art. 3, al. 2, de la loi est limitée a
 [^11-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^11-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-4]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^11-5]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 12
@@ -265,7 +265,7 @@ La suspension de l’assurance selon l’art. 3, al. 2, de la loi est limitée a
 Les chiropraticiens, les sages-femmes, les personnes prodiguant des soins sur prescription médicale (personnel paramédical), les organisations qui emploient du personnel paramédical et les laboratoires autorisés visés aux art. 44, 44*a*, 45, 45*a*, 47 à 50*d*, 51 à 52*f*, 53 et 54 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^12-2] peuvent aussi pratiquer à la charge de l’assurance militaire. Le Département fédéral de l’intérieur (DFI) peut désigner d’autres professions paramédicales qui, dans les limites d’une autorisation cantonale, peuvent être exercées à la charge de l’assurance militaire.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^12-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^12-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 13
 
@@ -282,7 +282,7 @@ Sont applicables par analogie pour la fixation des tarifs:
 
 [^13-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^13-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^13-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 13a
 
@@ -291,7 +291,7 @@ Sont applicables par analogie pour la fixation des tarifs:
 L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des prestations par les hôpitaux, les maisons de naissance et les établissements médico-sociaux dans l’assurance-maladie[^13a-2] s’applique par analogie aux hôpitaux et établissements de cure mentionnés à l’art. 22, al. 2, de la loi. Les services spécialisés compétents de la Confédération, l’association Commission des tarifs médicaux LAA ainsi que les partenaires tarifaires ont accès aux documents.
 
 [^13a-1]: Introduit par l’annexe ch. 3 de l’O du 9 nov. 2016 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
-[^13a-2]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
+[^13a-2]: [RS 832.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10142)
 
 #### Art. 13b
 
@@ -304,7 +304,7 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 <sup>3</sup> Les art. 59*f*, 59*h* et 59*i* de l’OAMal[^13b-2] sont applicables par analogie à la communication des données au sens de l’art. 26, al. 3<sup>bis</sup>, de la loi, ainsi qu’à leur transmission, leur sécurité et leur conservation.[^13b-3]
 
 [^13b-1]: Introduit par l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^13b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^13b-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^13b-3]: Introduit par l’annexe ch. 2 de l’O du 23 nov. 2022 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)). Nouvelle teneur selon le ch. I de l’O du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 273](https://fedlex.data.admin.ch/eli/oc/2025/273)).
 
 #### Art. 13c
@@ -368,7 +368,7 @@ L’ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des p
 
 <sup>6</sup> Pour les agriculteurs indépendants, le gain assuré est, en règle générale, fixé selon les valeurs établies, sur la base de la surface cultivable et de l’emplacement géographique de l’exploitation, ainsi que sur la base du cheptel.
 
-[^16-1]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^16-1]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^16-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 17
@@ -395,8 +395,8 @@ L’indemnité journalière est versée pour tous les jours de l’année, y com
 
 [^19-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 16 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5645](https://fedlex.data.admin.ch/eli/oc/2005/773)).
-[^19-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^19-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19-3]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^19-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^19-5]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 20
@@ -408,8 +408,8 @@ L’indemnité journalière est versée pour tous les jours de l’année, y com
 <sup>2</sup> L’art. 6<sup>quater</sup> RAVS[^20-2] sur les cotisations dues par les assurés actifs après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^20-3] et l’art. 19 RAVS sur les revenus de minime importance provenant d’une activité indépendante exercée à titre accessoire ne sont pas applicables.[^20-4]
 
 [^20-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^20-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^20-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^20-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^20-4]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 21
@@ -451,7 +451,7 @@ L’assurance militaire peut faire appel aux offices régionaux ou communs de l�
 
 <sup>2</sup> Si la rente court après que l’assuré a atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^23-1], son octroi pour une durée indéterminée est exclu.[^23-2]
 
-[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-2]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 24
@@ -527,7 +527,7 @@ La valeur capitalisée de la rente est calculée à partir de la date de la déc
 
 **Primes pour les prestations en cas de maladie**
 
-<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 450 francs.[^28a-1]
+<sup>1</sup> La prime mensuelle pour les prestations en cas de maladie est de 481 francs.[^28a-1]
 
 <sup>2</sup>
 
@@ -541,16 +541,16 @@ La prime est réduite comme suit pour les assurés à titre professionnel dont l
 
 <sup>4</sup> La partie des primes afférente au risque de maladie des assurés à titre professionnel engagés à temps partiel est égale à celle qu’ils devraient verser s’ils avaient été engagés à plein temps.
 
-[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
-[^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^28a-1]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 763](https://fedlex.data.admin.ch/eli/oc/2025/763)).
+[^28a-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 28b
 
 **Prime pour les prestations en cas d’accident des assurés auprès de l’assurance de base facultative**[^28b-1]
 
-Pour les assurés auprès de l’assurance de base facultative (assurés à titre facultatif), le supplément prévu pour les prestations en cas d’accident, qui s’ajoute à la prime pour les prestations en cas de maladie, s’élève à 61 francs par mois.
+Pour les assurés auprès de l’assurance de base facultative (assurés à titre facultatif), le supplément prévu pour les prestations en cas d’accident, qui s’ajoute à la prime pour les prestations en cas de maladie, s’élève à 79 francs par mois.
 
-[^28b-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 660](https://fedlex.data.admin.ch/eli/oc/2024/660)).
+[^28b-1]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 763](https://fedlex.data.admin.ch/eli/oc/2025/763)).
 
 #### Art. 28c
 
@@ -715,7 +715,7 @@ Le droit à l’assistance juridique gratuite dans la procédure administrative 
 
 <sup>3</sup> L’émolument peut être réduit ou remis si la personne assujettie est dans la gêne ou pour d’autres justes motifs.
 
-[^34a-1]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^34a-1]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 34b
 
@@ -747,7 +747,7 @@ Le droit à l’assistance juridique gratuite dans la procédure administrative 
 <sup>3</sup> En cas de demandes en dommages et intérêts pour des affections causées à des civils et dont répond la Confédération conformément à la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^35a-2], l’assurance militaire élucide les faits pour le compte du Centre de dommages du Département fédéral de la défense, de la protection de la population et des sports et, le cas échéant, procède à l’appréciation médicale.
 
 [^35a-1]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^35a-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^35a-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 35b
 
@@ -790,7 +790,7 @@ Si la rente d’invalidité court après que l’assurée a atteint l’âge de 
 
 [^38a-1]: Introduit par l’annexe ch. 10 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^38a-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^38a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^38a-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 39
 
