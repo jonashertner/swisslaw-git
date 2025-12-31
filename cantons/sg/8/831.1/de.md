@@ -4,13 +4,12 @@ number: "831.1"
 title: Finanzhaushaltsverordnung
 short: FHV
 language: de
-version: 2023-06-01
-valid_until: 2025-12-31
-version_adopted: 2023-04-25
+version: 2026-01-01
+version_adopted: 2026-01-13
 adopted: 1996-12-17
 in_force: 1997-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/831.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3502/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3862/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3502/pdf_file"
 
 (FHV)
 
-vom 17.12.1996 (Stand 01.06.2023)
+vom 17.12.1996 (Stand 01.01.2026)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -148,7 +147,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Einlagen in Spezialfinanzierungen erfolgen höchstens im Umfang der zweckgebundenen Einnahmen oder der im Voranschlag eingestellten Beträge.
 
-<sup>2</sup> Verpflichtungen und Vorschüsse der Spezialfinanzierungen werden verzinst.
+<sup>2</sup> …
 
 ### 4. Obliegenheiten der rechnungsführenden Stellen
 
