@@ -4,13 +4,13 @@ number: "610.11"
 title: Ausführungsreglement zum Gesetz über den Finanzhaushalt des Staates
 short: FHR
 language: de
-version: 2025-11-01
-valid_until: 2025-12-31
-version_adopted: 2025-10-06
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-12-15
 adopted: 1996-03-12
 in_force: 1996-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/610.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8264/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8340/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Finanzhaushalt des Staates – R
 
 (FHR)
 
-vom 12.03.1996 (Fassung in Kraft getreten am 01.11.2025)
+vom 12.03.1996 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -127,7 +127,7 @@ beschliesst:
 
 **Belege**
 
-<sup>1</sup> Jedem Buchungsvorgang muss ein schriftlicher Beleg mit dem Kontrollvisum der zuständigen Person zugrunde liegen.
+<sup>1</sup> Jedem Buchungsvorgang muss ein Beleg mit dem Kontrollvisum oder einer elektronischen Validierung der zuständigen Person zugrunde liegen.
 
 #### Art. 7a
 
@@ -221,6 +221,8 @@ beschliesst:
 **Rückstellungen (Art. 28 FHG)**
 
 <sup>1</sup> Rückstellungen können namentlich für eine Ausgabe vorgenommen werden, die sich aus einer bestehenden Verpflichtung von mehr als 100'000 Franken ergibt, die jedoch noch nicht in allen Einzelheiten festgelegt ist.
+
+<sup>2</sup> Rückstellungen mit Reservefunktion können vom Staatsrat in Ausnahmefällen genehmigt werden. Diese Rückstellungen müssen in der Staatsrechnung ausdrücklich ausgewiesen werden und dürfen nur für den Zweck verwendet werden, der bei ihrer Bildung festgelegt wurde.
 
 #### Art. 13a
 
@@ -479,7 +481,7 @@ beschliesst:
 
 **Begriff**
 
-<sup>1</sup> Eine Ausgabenverpflichtung ist der schriftliche Entscheid, mit dem sich die zuständige Behörde einem Dritten gegenüber verpflichtet.
+<sup>1</sup> Eine Ausgabenverpflichtung ist der Entscheid in schriftlicher oder elektronischer Form, mit dem sich die zuständige Behörde einem Dritten gegenüber verpflichtet.
 
 <sup>2</sup> Die Verpflichtung kann nur im Rahmen der Voranschlags- oder Verpflichtungskredite eingegangen werden.
 
@@ -551,39 +553,39 @@ beschliesst:
 
 <sup>3</sup> Der Entscheid über den Entzug der Befugnisse wird der Finanzverwaltung und dem Finanzinspektorat mitgeteilt.
 
-### 6.2 Zeichnung der Zahlungsanweisungen und der Einnahmenverzeichnisse
+### 6.2 Zeichnung der Zahlungen und der Einnahmenverzeichnisse
 
 #### Art. 33
 
 **Kontrolle**
 
-<sup>1</sup> Bevor die Anstalten und Dienststellen eine Zahlungsanweisung mit Belegen weiterleiten, müssen sie alle formellen und sachlichen internen Kontrollen vornehmen.
+<sup>1</sup> Bevor die Anstalten und Dienststellen Zahlungen mit Belegen weiterleiten, müssen sie alle formellen und sachlichen internen Kontrollen vornehmen.
 
 #### Art. 34
 
 **Direktionen und Anstalten**
 
-<sup>1</sup> Alle von den Dienststellen ausgestellten Zahlungsanweisungen von über 50'000 Franken werden vom Direktionsvorsteher gegengezeichnet. Er kann diese Befugnis seinem Generalsekretär oder seinem Verwaltungschef übertragen. Er kann die Grenze von 50'000 Franken jederzeit herabsetzen oder verlangen, dass alle Zahlungsanweisungen einer seiner Anstalten oder Dienststellen gegengezeichnet werden. Diese Entscheide werden der Finanzverwaltung und dem Finanzinspektorat mitgeteilt.
+<sup>1</sup> Alle Zahlungen der Dienststellen von über 50'000 Franken werden vom Direktionsvorsteher validiert. Er kann diese Befugnis oder einen Teil dieser Befugnis seinem Generalsekretär oder seinem Verwaltungschef übertragen. Er kann die Grenze von 50'000 Franken jederzeit herabsetzen oder verlangen, dass alle Zahlungen einer seiner Anstalten oder Dienststellen validiert werden. Diese Entscheide werden der Finanzverwaltung und dem Finanzinspektorat mitgeteilt.
 
-<sup>2</sup> Für die Anstalten werden alle Zahlungsanweisungen vom Direktor der Anstalt und seinem Stellvertreter gegengezeichnet.
+<sup>2</sup> Für die Anstalten werden alle Zahlungen vom Direktor der Anstalt und seinem Stellvertreter validiert.
 
-<sup>3</sup> Bei Verhinderung ist der Stellvertreter des Direktionsvorstehers, bei dessen Abwesenheit ein anderer Direktionsvorsteher oder der vom Direktor der Anstalt bezeichnete Stellvertreter zur Zeichnung befugt.
+<sup>3</sup> Bei Verhinderung ist der Stellvertreter des Direktionsvorstehers, bei dessen Abwesenheit ein anderer Direktionsvorsteher oder der vom Direktor der Anstalt bezeichnete Stellvertreter zur Validierung der Zahlungen befugt.
 
 #### Art. 35
 
 **Dienststellen**
 
-<sup>1</sup> Der Dienstchef und sein Stellvertreter oder eine vom Direktionsvorsteher bezeichnete Person zeichnen Zahlungsaufträge in einem Betrag von bis zu 50'000 Franken.
+<sup>1</sup> Der Dienstchef und sein Stellvertreter oder eine vom Direktionsvorsteher bezeichnete Person validieren Zahlungen von bis zu 50'000 Franken.
 
-<sup>2</sup> Der Dienstchef zeichnet Zahlungsaufträge in einem Betrag von über 50'000 Franken zusammen mit dem Direktionsvorsteher.
+<sup>2</sup> Der Dienstchef validiert Zahlungen von über 50'000 Franken zusammen mit dem Direktionsvorsteher.
 
-<sup>3</sup> Ist ein Dienstchef oder sein Stellvertreter verhindert, so ist ein vom Direktionsvorsteher bezeichneter Ersatz zur Zeichnung befugt.
+<sup>3</sup> Ist ein Dienstchef oder sein Stellvertreter verhindert, so ist ein vom Direktionsvorsteher bezeichneter Ersatz zur Validierung der Zahlungen befugt.
 
 #### Art. 36
 
 **Einnahmenverzeichnisse**
 
-<sup>1</sup> Die Artikel 33–35 gelten auch für Zeichnung der Einnahmenverzeichnisse.
+<sup>1</sup> Die Artikel 33–35 gelten auch für die Validierung der Einnahmenverzeichnisse.
 
 #### Art. 37
 
@@ -637,7 +639,7 @@ beschliesst:
 
 <sup>1</sup> Die Schaffung einer Kassen- und Buchhaltungsstelle sowie die Eröffnung eines Post- oder eines Bankkontos bedürfen der Zustimmung der Finanzverwaltung.
 
-<sup>2</sup> Für alle Kontobewegungen ist die Kollektivunterschrift zu zweien erforderlich.
+<sup>2</sup> Für alle Kontobewegungen ist die Validierung zu zweien erforderlich.
 
 #### Art. 45
 

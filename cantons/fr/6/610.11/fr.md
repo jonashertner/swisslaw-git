@@ -4,13 +4,13 @@ number: "610.11"
 title: "Règlement d'exécution de la loi sur les finances de l'Etat"
 short: RFE
 language: fr
-version: 2025-11-01
-valid_until: 2025-12-31
-version_adopted: 2025-10-06
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-12-15
 adopted: 1996-03-12
 in_force: 1996-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/610.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8264/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8340/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Finances de l'Etat – R
 
 (RFE)
 
-du 12.03.1996 (version entrée en vigueur le 01.11.2025)
+du 12.03.1996 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -127,7 +127,7 @@ Arrête:
 
 **Pièces justificatives**
 
-<sup>1</sup> Chaque opération comptable doit être fondée sur une pièce justificative écrite, munie du visa de contrôle de la personne compétente.
+<sup>1</sup> Chaque opération comptable doit être fondée sur une pièce justificative, munie du visa de contrôle ou d'une validation électronique de la personne compétente.
 
 #### Art. 7a
 
@@ -221,6 +221,8 @@ Arrête:
 **Provisions (art. 28 LFE)**
 
 <sup>1</sup> Peut faire l'objet de provisions notamment une dépense qui résulte d'un engagement existant dont le montant dépasse 100'000 francs mais dont toutes les modalités ne sont pas encore arrêtées.
+
+<sup>2</sup> Le recours à des provisions présentant le caractère de réserve peut être exceptionnellement autorisé par le Conseil d'Etat. Ces provisions doivent être inscrites de manière explicite aux comptes et ne peuvent être utilisées qu'en conformité avec le but fixé lors de leur constitution.
 
 #### Art. 13a
 
@@ -479,7 +481,7 @@ Arrête:
 
 **Définition**
 
-<sup>1</sup> L'engagement d'une dépense est la décision écrite par laquelle l'autorité compétente se lie à l'égard d'un tiers.
+<sup>1</sup> L'engagement d'une dépense est la décision écrite ou électronique par laquelle l'autorité compétente se lie à l'égard d'un tiers.
 
 <sup>2</sup> L'engagement ne peut être pris que dans les limites des crédits budgétaires ou des crédits d'engagement.
 
@@ -551,39 +553,39 @@ Arrête:
 
 <sup>3</sup> La décision de retrait est portée à la connaissance de l'Administration des finances et de l'Inspection des finances.
 
-### 6.2 Signature des ordres de paiement et des bordereaux de recettes
+### 6.2 Signature des paiements et des bordereaux de recettes
 
 #### Art. 33
 
 **Contrôle**
 
-<sup>1</sup> Avant de transmettre un ordre de paiement avec pièces justificatives, les établissements et services doivent procéder à tous les contrôles internes, formels et matériels.
+<sup>1</sup> Avant de transmettre des paiements avec pièces justificatives, les établissements et services doivent procéder à tous les contrôles internes, formels et matériels.
 
 #### Art. 34
 
 **Directions et établissements**
 
-<sup>1</sup> Le conseiller d'Etat-Directeur contresigne tous les ordres de paiement supérieurs à 50'000 francs émis par ses services. Il peut déléguer tout ou partie de cette compétence à son secrétaire général ou à son chef administratif. Il peut en tout temps abaisser la limite de 50'000 francs ou exiger de contresigner tous les ordres de paiement d'un de ses établissements ou services. Ces décisions sont portées à la connaissance de l'Administration des finances et de l'Inspection des finances.
+<sup>1</sup> Le conseiller d'Etat-Directeur valide tous les paiements supérieurs à 50'000 francs émis par ses services. Il peut déléguer tout ou partie de cette compétence à son secrétaire général ou à son chef administratif. Il peut en tout temps abaisser la limite de 50'000 francs ou exiger de valider tous les paiements d'un de ses établissements ou services. Ces décisions sont portées à la connaissance de l'Administration des finances et de l'Inspection des finances.
 
-<sup>2</sup> Le directeur d'établissement et son suppléant contresignent tous les ordres de paiement.
+<sup>2</sup> Le directeur d'établissement et son suppléant valident tous les paiements.
 
-<sup>3</sup> En cas d'empêchement, le suppléant du conseiller d'Etat-Directeur ou, en son absence, un autre conseiller d'Etat-Directeur ou le suppléant désigné par le directeur d'établissement est autorisé à signer.
+<sup>3</sup> En cas d'empêchement, le suppléant du conseiller d'Etat-Directeur ou, en son absence, un autre conseiller d'Etat-Directeur ou le suppléant désigné par le directeur d'établissement est autorisé à valider les paiements.
 
 #### Art. 35
 
 **Services**
 
-<sup>1</sup> Le chef de service et son suppléant, ou une autre personne désignée par le conseiller d'Etat-Directeur, signent les ordres de paiement égaux ou inférieurs à 50'000 francs.
+<sup>1</sup> Le chef de service et son suppléant, ou une autre personne désignée par le conseiller d'Etat-Directeur, valident les paiements égaux ou inférieurs à 50'000 francs.
 
-<sup>2</sup> Le chef de service signe les ordres de paiement supérieurs à 50'000 francs avec le conseiller d'Etat-Directeur.
+<sup>2</sup> Le chef de service valide les paiements supérieurs à 50'000 francs avec le conseiller d'Etat-Directeur.
 
-<sup>3</sup> En cas d'empêchement d'un chef de service ou de son suppléant, un remplaçant désigné par le conseiller d'Etat-Directeur est autorisé à signer.
+<sup>3</sup> En cas d'empêchement d'un chef de service ou de son suppléant, un remplaçant désigné par le conseiller d'Etat-Directeur est autorisé à valider les paiements.
 
 #### Art. 36
 
 **Bordereaux de recettes**
 
-<sup>1</sup> Les articles 33 à 35 s'appliquent à la signature des bordereaux de recettes.
+<sup>1</sup> Les articles 33 à 35 s'appliquent à la validation des bordereaux de recettes.
 
 #### Art. 37
 
@@ -637,7 +639,7 @@ Arrête:
 
 <sup>1</sup> La création d'un service de caisse et de comptabilité, l'ouverture d'un compte postal ou d'un compte bancaire ont lieu avec l'accord de l'Administration des finances.
 
-<sup>2</sup> La double signature est exigée pour tous les mouvements intervenant sur ces comptes.
+<sup>2</sup> La double validation est exigée pour tous les mouvements intervenant sur ces comptes.
 
 #### Art. 45
 
