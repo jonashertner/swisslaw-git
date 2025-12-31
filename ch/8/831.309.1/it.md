@@ -3,18 +3,18 @@ sr: "831.309.1"
 title: Ordinanza del DFI del 6 novembre 2024 sui premi medi dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari e delle prestazioni transitorie per i disoccupati anziani
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/659"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2024-11-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/659/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-659-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/659/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/659/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2024-659-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/659/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sui premi medi dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari e delle prestazioni transitorie per i disoccupati anziani
 
-del 6 novembre 2024 (Stato 1° gennaio 2025)
+del 6 novembre 2024 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -22,8 +22,8 @@ visto l’articolo 54*a* capoverso 3 dell’ordinanza del 15 gennaio 1971[^ingre
 
 ordina:
 
-[^ingress-1]: [RS 831.301](https://fedlex.data.admin.ch/eli/cc/1971/37_37_37)
-[^ingress-2]: [RS 837.21](https://fedlex.data.admin.ch/eli/cc/2021/376)
+[^ingress-1]: [RS 831.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10078)
+[^ingress-2]: [RS 837.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20026)
 
 #### Art. 1
 
@@ -31,9 +31,9 @@ ordina:
 
 Il premio medio cantonale o regionale da tenere in considerazione quale importo forfetario per l’assicurazione obbligatoria delle cure medico-sanitarie ai sensi dell’articolo 10 capoverso 3 lettera d della legge federale del 6 ottobre 2006[^1-1] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità e ai sensi dell’articolo 9 capoverso 1 lettera h della legge federale del 19 giugno 2020[^1-2] sulle prestazioni transitorie per i disoccupati anziani è suddiviso secondo le regioni di premi previste dalla legge federale del 18 marzo 1994[^1-3] sull’assicurazione malattie (LAMal). Sono determinanti le regioni di premi stabilite dal DFI conformemente all’articolo 61 capoverso 2<sup>bis</sup> LAMal.
 
-[^1-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^1-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^1-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^1-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^1-2]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^1-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 2
 
@@ -43,7 +43,7 @@ Il premio medio cantonale o regionale da tenere in considerazione quale importo 
 
 <sup>2</sup> Per i bambini non è considerata alcuna franchigia.
 
-[^2-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^2-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 3
 
@@ -57,7 +57,7 @@ Gli importi dei premi medi sono fissati nell’allegato.
 
 La presente ordinanza entra in vigore il 1° gennaio 2025.
 
-Allegato
+Allegato[^t-1]
 
 (art. 3)
 
@@ -65,4 +65,5 @@ Allegato
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/659](https://fedlex.data.admin.ch/eli/oc/2024/659) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 31 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 711](https://fedlex.data.admin.ch/eli/oc/2025/711)).
+[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/711](https://fedlex.data.admin.ch/eli/oc/2025/711) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

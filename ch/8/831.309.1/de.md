@@ -3,18 +3,18 @@ sr: "831.309.1"
 title: Verordnung des EDI vom 6. November 2024 über die Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen und der Überbrückungsleistungen für ältere Arbeitslose
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/659"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2024-11-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/659/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-659-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/659/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/659/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2024-659-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/659/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen und der Überbrückungsleistungen für ältere Arbeitslose
 
-vom 6. November 2024 (Stand am 1. Januar 2025)
+vom 6. November 2024 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -22,8 +22,8 @@ gestützt auf Artikel 54*a* Absatz 3 der Verordnung vom 15. Januar 1971[^ingress
 
 verordnet:
 
-[^ingress-1]: [SR 831.301](https://fedlex.data.admin.ch/eli/cc/1971/37_37_37)
-[^ingress-2]: [SR 837.21](https://fedlex.data.admin.ch/eli/cc/2021/376)
+[^ingress-1]: [SR 831.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10078)
+[^ingress-2]: [SR 837.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20026)
 
 #### Art. 1
 
@@ -31,9 +31,9 @@ verordnet:
 
 Die kantonale beziehungsweise regionale Durchschnittsprämie, die nach Artikel 10 Absatz 3 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^1-1] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und nach Artikel 9 Absatz 1 Buchstabe h des Bundesgesetzes vom 19. Juni 2020[^1-2] über Überbrückungsleistungen für ältere Arbeitslose als Pauschalbetrag für die obligatorische Krankenpflegeversicherung anzurechnen ist, wird nach den Prämienregionen nach dem Bundesgesetz vom 18. März 1994[^1-3] über die Krankenversicherung (KVG) aufgeteilt. Massgebend sind die vom EDI nach Artikel 61 Absatz 2<sup>bis</sup> KVG festgelegten Prämienregionen.
 
-[^1-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^1-2]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^1-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^1-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^1-2]: [SR 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^1-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 2
 
@@ -43,7 +43,7 @@ Die kantonale beziehungsweise regionale Durchschnittsprämie, die nach Artikel 1
 
 <sup>2</sup> Bei Kindern wird keine Franchise berücksichtigt.
 
-[^2-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^2-1]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 3
 
@@ -57,7 +57,7 @@ Die Beträge der Durchschnittsprämien sind im Anhang festgelegt.
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 3)
 
@@ -65,4 +65,5 @@ Anhang
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/659](https://fedlex.data.admin.ch/eli/oc/2024/659) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 31. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 711](https://fedlex.data.admin.ch/eli/oc/2025/711)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/711](https://fedlex.data.admin.ch/eli/oc/2025/711) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
