@@ -3,18 +3,18 @@ sr: "412.101.221.90"
 title: Ordinanza della SEFRI del 20 gennaio 2020 sulle formazioni professionali di base nel campo professionale microtecnica con attestato professionale federale (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/82"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2020-01-20
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/82/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2020-82-20240401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/82/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/82/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-82-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/82/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulle formazioni professionali di base nel campo professionale microtecnica con attestato professionale federale (AFC)
 
-del 20 gennaio 2020 (Stato 1° aprile 2024)
+del 20 gennaio 2020 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>48308</td><td>Micromeccanica AFC / Micromeccanico AFC</td></tr>
@@ -32,10 +32,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto, professioni, orientamenti e durata
 
@@ -246,7 +246,7 @@ La formazione di operatore della qualità in microtecnica AFC prevede, nei campi
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^7-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^7-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -265,8 +265,8 @@ La formazione professionale pratica in azienda comprende in media 3,75 giornate 
 <table>
 <tr><td>Insegnamento</td><td>1° anno</td><td>2° anno</td><td>3° anno</td><td>4° anno</td><td colspan="2">Totale</td></tr>
 <tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab] 1. Insegnamento interprofessionale  Preparazione delle operazioni in vista del lavoro di produzione</td><td>400</td><td>140</td><td>80</td><td>80</td><td></td><td>700</td></tr>
-<tr><td> Gestione di progetti</td><td>120</td><td>60</td><td>80</td><td>80</td><td colspan="2">340</td></tr>
+<tr><td>[tab] 1. Insegnamento interprofessionale Preparazione delle operazioni in vista del lavoro di produzione</td><td>400</td><td>140</td><td>80</td><td>80</td><td></td><td>700</td></tr>
+<tr><td>Gestione di progetti</td><td>120</td><td>60</td><td>80</td><td>80</td><td colspan="2">340</td></tr>
 <tr><td>[tab] 2. Insegnamento specifico della professione</td><td></td><td></td><td>40</td><td>40</td><td colspan="2">80</td></tr>
 <tr><td>Totale conoscenze professionali</td><td>520</td><td>200</td><td>200</td><td>200</td><td colspan="2">**1120**</td></tr>
 <tr><td>b. Cultura generale</td><td>120</td><td>120</td><td>120</td><td>120</td><td colspan="2">480</td></tr>
@@ -276,13 +276,14 @@ La formazione professionale pratica in azienda comprende in media 3,75 giornate 
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^9-2].
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^9-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 10
 
@@ -481,11 +482,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>3</td><td>Campi di competenze operative specifici della professione</td><td colspan="2">60 min.</td><td>30 %</td></tr>
 </table>
 
-- d. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^20-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- d. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^20-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^20-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^20-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^20-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^20-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 21
 
@@ -615,8 +617,8 @@ Sono abrogate:
 - 1\. l’ordinanza della SEFRI del 13 novembre 2012[^27-1] sulla formazione professionale di base Micromeccanica/Micromeccanico con attestato federale di capacità (AFC);
 - 2\. l’ordinanza della SEFRI dell’8 dicembre 2014[^27-2] sulla formazione professionale di base Disegnatrice in microtecnica/Disegnatore in microtecnica con attestato federale di capacità (AFC).
 
-[^27-1]: [[RU 2012 6773](https://fedlex.data.admin.ch/eli/oc/2012/817), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 139, II 139
-[^27-2]: [[RU 2015 185](https://fedlex.data.admin.ch/eli/oc/2015/23), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 160, II 160, III [31](https://fedlex.data.admin.ch/eli/oc/2017/10)]
+[^27-1]: [[RU 2012 6773](https://fedlex.data.admin.ch/eli/oc/2012/817), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifra I n. 139, cifra II n. 139]
+[^27-2]: [[RU 2015 185](https://fedlex.data.admin.ch/eli/oc/2015/23), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifra I n. 160, cifra II n. 160, cifra III n. 31]
 
 #### Art. 28
 
