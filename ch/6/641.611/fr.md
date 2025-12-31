@@ -4,11 +4,11 @@ title: "Ordonnance du 20 novembre 1996 sur l'imposition des huiles minérales (O
 short: Oimpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/fr"
 
 (Oimpmin)
 
-du 20 novembre 1996 (État le 1<sup>er</sup> janvier 2025)
+du 20 novembre 1996 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -949,13 +949,29 @@ L’année civile est réputée exercice comptable pour les remboursements suiva
 
 #### Art. 49
 
-**Nature et montant**
+**Nature et montant**[^49-1]
 
-<sup>1</sup> L’impôt est remboursé aux entreprises de transport concessionnaires; le montant du remboursement est calculé sur la base de la différence entre le taux normal et le taux réduit, et sur la base des quantités consommées.
+<sup>1</sup>
 
-<sup>2</sup> Le DFF détermine pour quelles courses le remboursement est octroyé et il fixe les taux de l’impôt réduit. Il détermine également les véhicules qui, pour des motifs écologiques, ne bénéficient que d’un remboursement réduit.[^49-1]
+L’impôt est remboursé aux entreprises suivantes:
 
-[^49-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3925](https://fedlex.data.admin.ch/eli/oc/2006/587)).
+- a. entreprises au bénéfice d’une concession de l’Office fédéral des transports (OFT) qui exécutent des courses au moyen de véhicules routiers et de véhicules ferroviaires aux fins du transport de voyageurs en dehors du trafic local, en vertu de l’art. 18, al. 1<sup>bis</sup>, Limpmin;
+- b. entreprises au bénéfice d’une concession de l’OFT qui exécutent des courses au moyen de bateaux aux fins du transport de voyageurs;
+- c. entreprises au bénéfice d’une autorisation fédérale qui exécutent des courses au moyen de bateaux aux fins du transport transfrontière de voyageurs, pour autant que les coûts non couverts soient indemnisés en vertu de l’art. 28 de la loi du 20 mars 2009 sur le transport de voyageurs[^49-2].
+
+<sup>2</sup> Le trafic local comprend les lignes servant à la desserte capillaire des localités conformément à l’art. 5, al. 1 et 4, de l’ordonnance du 4 novembre 2009 sur le transport de voyageurs[^49-3]. L’OFT tranche tout litige relatif à l’attribution d’une ligne au trafic local.
+
+<sup>3</sup> Pour les courses au moyen de bateaux sur des eaux limitrophes, le droit au remboursement visé à l’al. 1, let. b, vaut également pour les courses exécutées sur des sections de ligne situées en dehors du territoire suisse, si au moins un des embarcadères de la ligne se trouve sur le territoire suisse.
+
+<sup>4</sup> Le droit au remboursement visé aux al. 1 et 2 vaut également pour les courses de remplacement ou de renfort ainsi que pour les courses à vide en relation avec ces services de transport.
+
+<sup>5</sup> Le montant du remboursement est calculé sur la base de la différence entre le taux normal et le taux réduit, et sur la base des quantités consommées.
+
+<sup>6</sup> Le DFF fixe les taux de l’impôt réduit.
+
+[^49-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^49-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^49-3]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
 #### Art. 50
 
@@ -969,9 +985,13 @@ Les contrôles de la consommation doivent mentionner le genre et la quantité de
 
 - a. l’état du compteur kilométrique ou du compteur d’heures de marche au début et à la fin de la période de remboursement;
 - b. le nombre de kilomètres parcourus ou d’heures de marche effectuées, avec mention séparée des fins donnant droit à l’allégement fiscal et des fins ne donnant pas droit à l’allégement fiscal;
-- c. les indications nécessaires à l’identification du véhicule, notamment le numéro de châssis ou le numéro de série.
+- c.[^50-2] les indications nécessaires à l’identification du véhicule, notamment le numéro matricule ou le numéro de série.
+
+<sup>3</sup> La personne bénéficiaire peut aussi déterminer le kilométrage donnant droit à l’allégement fiscal et le kilométrage n’y donnant pas droit au moyen du pourcentage par rapport au kilométrage total de sa flotte de véhicules.[^50-3]
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^50-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^50-3]: Introduit par l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 51
 
@@ -1917,9 +1937,9 @@ Les allégements fiscaux pour les carburants renouvelables qui sont valables le 
 
 <sup>1</sup> Les allégements fiscaux pour les carburants renouvelables qui cessent d’être valables le 31 décembre 2024 conservent leur validité jusqu’au 31 décembre 2030.
 
-<sup>2</sup> …[^u5-2]
+<sup>2</sup> L’art. 49 de l’ancien droit s’applique aux demandes de remboursement de l’impôt sur les huiles minérales aux entreprises de transport concessionnaires pour les carburants qu’elles ont consommés jusqu’au 31 décembre 2025.[^u5-2]
 
-[^u5-2]: En vigueur le 1<sup>er</sup> janv. 2026.
+[^u5-2]: En vigueur depuis le 1<sup>er</sup> janv. 2026.
 
 Annexe 1[^t-1]
 

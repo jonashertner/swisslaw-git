@@ -4,11 +4,11 @@ title: Mineralölsteuerverordnung vom 20. November 1996 (MinöStV)
 short: MinöStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/de"
 
 (MinöStV)
 
-vom 20. November 1996 (Stand am 1. Januar 2025)
+vom 20. November 1996 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -954,13 +954,29 @@ Für die folgenden Rückerstattungen gilt das Kalenderjahr als Geschäftsjahr:
 
 #### Art. 49
 
-**Art und Umfang**
+**Art und Umfang**[^49-1]
 
-<sup>1</sup> Die Steuer wird den konzessionierten Transportunternehmungen rückerstattet; der Rückerstattungsbetrag wird aufgrund des Unterschiedes zwischen dem normalen und dem ermässigten Steuersatz sowie aufgrund der verbrauchten Mengen berechnet.
+<sup>1</sup>
 
-<sup>2</sup> Das EFD bestimmt, für welche Fahrten die Rückerstattung gewährt wird, und legt die ermässigten Steuersätze fest. Es bestimmt auch die Fahrzeuge, für die aus ökologischen Gründen nur eine reduzierte Rückerstattung ausgerichtet wird.[^49-1]
+Die Steuer wird folgenden Unternehmen rückerstattet:
 
-[^49-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 3925](https://fedlex.data.admin.ch/eli/oc/2006/587)). Aufgehoben durch Ziff. I der V vom 4. Mai 2016, mit Wirkung seit 1. Aug. 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+- a. Unternehmen mit einer Konzession des Bundesamts für Verkehr (BAV), die Fahrten mit Strassenfahrzeugen und Schienenfahrzeugen zum Zweck der Personenbeförderung ausserhalb des Ortsverkehrs nach Artikel 18 Absatz 1<sup>bis</sup> MinöStG durchführen;
+- b. Unternehmen mit einer Konzession des BAV, die Fahrten mit Schiffen zum Zweck der Personenbeförderung durchführen;
+- c. Unternehmen mit einer eidgenössischen Bewilligung, die Fahrten mit Schiffen zum Zweck der grenzüberschreitenden Personenbeförderung durchführen, sofern nach Artikel 28 des Personenbeförderungsgesetzes vom 20. März 2009[^49-2] eine Abgeltung der ungedeckten Kosten erfolgt.
+
+<sup>2</sup> Der Ortsverkehr umfasst die Linien, die nach Artikel 5 Absätze 1 und 4 der Verordnung vom 4. November 2009[^49-3] über die Personenbeförderung der Feinerschliessung von Ortschaften dienen. In Streitfällen über die Zuordnung einer Linie zum Ortsverkehr entscheidet das BAV.
+
+<sup>3</sup> Für Fahrten mit Schiffen auf Grenzgewässern besteht der Anspruch auf Rückerstattung nach Absatz 1 Buchstabe b auch für Fahrten auf Linienabschnitten ausserhalb des schweizerischen Staatsgebiets, wenn mindestens eine der Anlegestellen der Linie auf schweizerischem Staatsgebiet liegt.
+
+<sup>4</sup> Der Anspruch auf Rückerstattung nach den Absätzen 1 und 2 besteht auch für Ersatz- und Verstärkungsfahrten sowie für durch den Kursbetrieb bedingte Leerfahrten.
+
+<sup>5</sup> Der Rückerstattungsbetrag wird aufgrund des Unterschieds zwischen dem normalen und dem ermässigten Steuersatz sowie aufgrund der verbrauchten Mengen berechnet.
+
+<sup>6</sup> Das EFD legt die ermässigten Steuersätze fest.
+
+[^49-1]: Fassung gemäss Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^49-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^49-3]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
 #### Art. 50
 
@@ -974,9 +990,13 @@ Die Verbrauchskontrollen müssen die pro Fahrzeug verbrauchte Treibstoffart und 
 
 - a. den Stand des Kilometer- oder Betriebsstundenzählers am Anfang und am Ende der Rückerstattungsperiode;
 - b. die Anzahl der gefahrenen Kilometer beziehungsweise aufgewendeten Betriebsstunden, getrennt nach steuerbegünstigten und nicht steuerbegünstigten Zwecken;
-- c. die für die Identifikation des Fahrzeugs erforderlichen Angaben, namentlich die Fahrgestellnummer oder die Seriennummer.
+- c.[^50-2] die für die Identifikation des Fahrzeugs erforderlichen Angaben, namentlich die Stammnummer oder die Seriennummer.
+
+<sup>3</sup> Die begünstigte Person kann die steuerbegünstigte und die nicht steuerbegünstigte Fahrleistung auch mittels des jeweiligen prozentualen Anteils an der gesamten Fahrleistung ihrer Fahrzeugflotte ermitteln.[^50-3]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^50-2]: Fassung gemäss Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^50-3]: Eingefügt durch Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 51
 
@@ -1927,9 +1947,9 @@ Steuererleichterungen für erneuerbare Treibstoffe, deren Geltungsdauer am 30. J
 
 <sup>1</sup> Steuererleichterungen für erneuerbare Treibstoffe, deren Geltungsdauer am 31. Dezember 2024 endet, gelten bis zum 31. Dezember 2030.
 
-<sup>2</sup> …[^u5-2]
+<sup>2</sup> Für Gesuche um Rückerstattung der Mineralölsteuer an konzessionierte Transportunternehmungen gilt für bis zum 31. Dezember 2025 verbrauchte Treibstoffe Artikel 49 in der bisherigen Fassung.[^u5-2]
 
-[^u5-2]: Tritt am 1. Jan. 2026 in Kraft.
+[^u5-2]: In Kraft seit 1. Jan. 2026.
 
 Anhang 1
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1996 sull'imposizione degli oli minerali (OIOm
 short: OIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/it"
 
 (OIOm)
 
-del 20 novembre 1996 (Stato 1° gennaio 2025)
+del 20 novembre 1996 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -948,13 +948,29 @@ Per le seguenti restituzioni l’anno civile è considerato come anno d’eserci
 
 #### Art. 49
 
-**Genere e portata**
+**Genere e portata**[^49-1]
 
-<sup>1</sup> L’imposta è restituita alle imprese di trasporto concessionarie; l’importo della restituzione è calcolato in base alla differenza tra l’aliquota normale e l’aliquota ridotta nonché sulle quantità consumate.
+<sup>1</sup>
 
-<sup>2</sup> Il DFF determina per quali corse è concessa la restituzione e fissa le aliquote d’imposta ridotte. Determina parimenti quali sono i veicoli ai quali, per motivi ecologici, viene concessa soltanto una restituzione ridotta.[^49-1]
+L’imposta è restituita alle seguenti imprese:
 
-[^49-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3925](https://fedlex.data.admin.ch/eli/oc/2006/587)).
+- a. imprese con una concessione dell’Ufficio federale dei trasporti (UFT) che effettuano corse con veicoli stradali e veicoli su rotaia per il trasporto di persone al di fuori del traffico locale secondo l’articolo 18 capoverso 1<sup>bis</sup> LIOm;
+- b. imprese con una concessione dell’UFT che effettuano corse con battelli per il trasporto di persone; oppure
+- c. imprese con una concessione federale che effettuano corse con battelli per il trasporto transfrontaliero di persone, purché siano indennizzati i costi non coperti secondo l’articolo 28 della legge del 20 marzo 2009[^49-2] sul trasporto di viaggiatori.
+
+<sup>2</sup> Il traffico locale comprende le linee che in virtù dell’articolo 5 capoversi 1 e 4 dell’ordinanza del 4 novembre 2009[^49-3] sul trasporto di viaggiatori servono al collegamento capillare di località. L’UFT decide sulle controversie in merito all’attribuzione di una linea al traffico locale.
+
+<sup>3</sup> Per le corse con battelli nelle acque di confine il diritto alla restituzione di cui al capoverso 1 lettera b sussiste anche per le corse su tratti di linea al di fuori del territorio nazionale svizzero se almeno una delle banchine della linea si trova sul territorio nazionale svizzero.
+
+<sup>4</sup> Il diritto alla restituzione di cui ai capoversi 1 e 2 sussiste anche per le corse di sostituzione e di rinforzo nonché per le corse a vuoto effettuate per necessità d’esercizio.
+
+<sup>5</sup> L’importo della restituzione è calcolato in base alla differenza tra l’aliquota normale e l’aliquota ridotta nonché sulle quantità consumate.
+
+<sup>6</sup> Il DFF fissa le aliquote ridotte.
+
+[^49-1]: Nuovo testo giusta l’all. n. 2 dell’O del 2 apr. 2025, in vigore dal 1° gen. 2026 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^49-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^49-3]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
 
 #### Art. 50
 
@@ -968,9 +984,13 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 - a. la cifra segnata dal contachilometri o dal contatore delle ore di funzionamento all’inizio e alla fine del periodo di restituzione;
 - b. la quantità di chilometri percorsi o di ore di funzionamento, suddivise tra scopi fruenti e scopi non fruenti dell’agevolazione fiscale;
-- c. i dati necessari per l’identificazione del veicolo, in particolare il numero di telaio o il numero di serie.
+- c.[^50-2] i dati necessari per l’identificazione del veicolo, in particolare il numero di matricola o il numero di serie.
+
+<sup>3</sup> Il beneficiario può determinare la prestazione chilometrica che beneficia dell’agevolazione fiscale e la prestazione chilometrica che non ne beneficia anche in base alla rispettiva quota percentuale della prestazione chilometrica totale del suo parco veicoli.[^50-3]
 
 [^50-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^50-2]: Nuovo testo giusta l’all. n. 2 dell’O del 2 apr. 2025, in vigore dal 1° gen. 2026 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^50-3]: Introdotto dall’all. n. 2 dell’O del 2 apr. 2025, in vigore dal 1° gen. 2026 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 51
 
@@ -1916,9 +1936,9 @@ Le agevolazioni fiscali per carburanti rinnovabili la cui durata di validità no
 
 <sup>1</sup> Le agevolazioni fiscali per i carburanti rinnovabili la cui durata di validità termina il 31 dicembre 2024 sono valide fino al 31 dicembre 2030.
 
-<sup>2</sup> ...[^u5-2]
+<sup>2</sup> Alle domande di restituzione dell’imposta sugli oli minerali a imprese di trasporto concessionarie per i carburanti consumati fino al 31 dicembre 2025 si applica l’articolo 49 secondo il diritto anteriore.[^u5-2]
 
-[^u5-2]: Entra in vigore il 1° gen. 2026
+[^u5-2]: In vigore dal 1° gen. 2026.
 
 Allegato 1
 
