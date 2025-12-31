@@ -4,13 +4,13 @@ number: "742.115"
 title: Regierungsratsbeschluss betreffend die Liste der Heime für die Pflege von Langzeitpatientinnen und -patienten
 short: Pflegeheimliste
 language: de
-version: 2025-05-15
-valid_until: 2025-12-31
-version_adopted: 2026-02-03
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2025-09-16
 adopted: 2021-03-30
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.115"
-pdf: "https://gesetze.nw.ch/api/de/versions/1484/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1484/pdf_file"
 
 (Pflegeheimliste)
 
-vom 30.03.2021 (Stand 15.05.2025)
+vom 30.03.2021 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -93,26 +93,26 @@ beschliesst:
 
 #### Ziff. 3a
 
-**Ausbildungsleistungen in den Jahren 2024 und 2025**
+**Ausbildungsleistungen im Jahr 2026**
 
-<sup>1</sup> Die Pflegeheime und Pflegeabteilungen haben gestützt auf Art. 4 Abs. 2 des Pflegeausbildungsförderungsgesetzes (PAFG)[^Ziff3a-1] in den Jahren 2024 und 2025 folgende Anzahl an Pflegefachpersonen HF und FH auszubilden (Vollzeitäquivalent):
+<sup>1</sup> Die Pflegeheime und Pflegeabteilungen haben gestützt auf Art. 4 Abs. 2 des Pflegeausbildungsförderungsgesetzes (PAFG)[^Ziff3a-1] im Jahr 2026 folgende Anzahl an Pflegefachpersonen HF und FH auszubilden (Vollzeitäquivalent):
 
 - 1\. Alterswohnheim Hungacher — 1
 - 2\. Alterswohnheim Buochs — 3
 - 3\. Altersheim Oeltrotte — 1
 - 4\. Alters- und Pflegeheim Heimet — 4
 - 5\. Seniorenzentrum Zwyden — 4
-- 6\. Wohnhaus Mettenweg — 0
+- 6\. Wohnhaus Mettenweg — 2
 - 7\. Wohnheim Nägeligasse — 7
 
-<sup>2</sup> Sie haben gestützt auf Art. 4 Abs. 2 PAFG in den Jahren 2024 und 2025 folgende Anzahl an Fachpersonen Gesundheit auszubilden (Vollzeitäquivalent):
+<sup>2</sup> Sie haben gestützt auf Art. 4 Abs. 2 PAFG im Jahr 2026 folgende Anzahl an Fachpersonen Gesundheit auszubilden (Vollzeitäquivalent):
 
 - 1\. Alterswohnheim Hungacher — 4
 - 2\. Alterswohnheim Buochs — 6
 - 3\. Altersheim Oeltrotte — 3
-- 4\. Alters- und Pflegeheim Heimet — 9
+- 4\. Alters- und Pflegeheim Heimet — 8
 - 5\. Seniorenzentrum Zwyden — 9
-- 6\. Wohnhaus Mettenweg — 3
+- 6\. Wohnhaus Mettenweg — 4
 - 7\. Wohnheim Nägeligasse — 17
 
 [^Ziff3a-1]: NG 712.1
