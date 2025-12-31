@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juillet 2001 concernant la réduction des primes dans l�
 short: ORPMUE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: fr
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-164-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-164-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/fr"
 
 (ORPMUE)[^t-1]
 
-du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2023)
+du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I 5 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
@@ -27,7 +27,7 @@ vu l’art. 66*a*, al. 3, de la loi fédérale du 18 mars 1994 sur l’assurance
 
 arrête:
 
-[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 1
 
@@ -87,7 +87,7 @@ Le revenu pris en compte comprend:
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 9 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
 [^4-2]: Introduite par le ch. I de l’O du 9 nov. 2005 ([RO 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)). Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
-[^4-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^4-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
 #### Art. 5
@@ -97,7 +97,7 @@ Le revenu pris en compte comprend:
 La fortune nette selon l’art. 3, al. 3, et le revenu pris en compte selon l’art. 4 sont convertis en francs suisses selon le cours de conversion de l’Office fédéral de la douane et de la sécurité des frontières[^5-2] valable au moment du dépôt de la demande.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
-[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -181,7 +181,7 @@ Le droit aux réductions de primes prend fin le jour où les conditions régissa
 
 <sup>4</sup> …[^14-3]
 
-[^14-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^14-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^14-2]: Nouvelle teneur selon le ch. II 2 de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^14-3]: Abrogé par le ch. II 2 de l’O du 22 juin 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
@@ -207,12 +207,12 @@ En cas d’extinction du droit aux réductions de primes, l’assureur demande �
 
 **Décompte et contrôle de l’utilisation des subsides fédéraux**
 
-<sup>1</sup> L’art. 5, al. 1 et 2, et l’art. 6 de l’ordonnance du 7 novembre 2007 sur les subsides fédéraux destinés à la réduction de primes dans l’assurance-maladie[^17-1] sont applicables par analogie en ce qui concerne le décompte et le contrôle de l’utilisation de ces subsides.[^17-2]
+<sup>1</sup> L’art. 21, al. 1 et 2, et l’art. 22 de l’ordonnance du 12 septembre 2025 sur les contributions des cantons et les subsides de la Confédération à la réduction des primes dans l’assurance-maladie[^17-1] sont applicables par analogie en ce qui concerne le décompte et le contrôle de l’utilisation des subsides de la Confédération.[^17-2]
 
 <sup>2</sup> Les données contenues dans la formule nécessaire pour le décompte doivent être différenciées selon les États membres de l’Union européenne, l’Islande, la Norvège et le Royaume-Uni et selon les assureurs.[^17-3]
 
-[^17-1]: [RS 832.112.4](https://fedlex.data.admin.ch/eli/cc/2007/805)
-[^17-2]: Nouvelle teneur selon l’art. 9 al. 2 de l’O du 7 nov. 2007 sur les subsides fédéraux destinés à la réduction des primes dans l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)).
+[^17-1]: [RS 832.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10158)
+[^17-2]: Nouvelle teneur selon l’art. 26 ch. 2 de l’O du 12 sept. 2025 sur les contributions des cantons et les subsides de la Confédération à la réduction des primes dans l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 581](https://fedlex.data.admin.ch/eli/oc/2025/581)).
 [^17-3]: Nouvelle teneur selon le ch. I 5 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 18
@@ -257,6 +257,6 @@ v = u \* r(a) / r(p)
 - u = taux de conversion minimal selon l’art. 14, al. 2, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^annexu1-lvlu1-2]
 - r = rente annuelle selon l’âge de la retraite d’après le «Tableau pour convertir en rentes viagères les prestations en capital» de février 2006 de l’Administration fédérale des contributions[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annexu1-lvlu1-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^annexu1-lvlu1-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^annexu1-lvlu1-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^annexu1-lvlu1-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^annexu1-lvlu1-3]: Le document peut être consulté à l’adresse suivante: [www.ofsp . admin.ch/ref](http://www.ofsp.admin.ch/ref).

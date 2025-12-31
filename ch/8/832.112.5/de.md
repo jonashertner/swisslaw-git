@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juli 2001 über die Prämienverbilligung in der Kranke
 short: VPVKEU
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: de
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-164-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2002-164-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/de"
 
 (VPVKEU)[^t-1]
 
-vom 3. Juli 2001 (Stand am 1. Januar 2023)
+vom 3. Juli 2001 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I 5 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 66*a* Absatz 3 des Bundesgesetzes vom 18. März 1994[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^ingress-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 1
 
@@ -87,7 +87,7 @@ Als anrechenbares Einkommen gelten die folgenden Einkünfte:
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
 [^4-2]: Eingefügt durch Ziff. I der V vom 9. Nov. 2005 ([AS 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)). Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
-[^4-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^4-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^4-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
 #### Art. 5
@@ -97,7 +97,7 @@ Als anrechenbares Einkommen gelten die folgenden Einkünfte:
 Das Reinvermögen gemäss Artikel 3 Absatz 3 und das anrechenbare Einkommen gemäss Artikel 4 werden zum Umrechnungskurs des Bundesamts für Zoll und Grenzsicherheit[^5-2], der zum Zeitpunkt der Antragstellung gilt, in Schweizer Franken umgerechnet.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
-[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -181,7 +181,7 @@ Der Anspruch auf Prämienverbilligungen endet am Tag, an dem die Voraussetzungen
 
 <sup>4</sup> …[^14-3]
 
-[^14-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^14-1]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^14-2]: Fassung gemäss Ziff. II 2 der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^14-3]: Aufgehoben durch Ziff. II 2 der V vom 22. Juni 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
@@ -207,12 +207,12 @@ Erlöscht der Anspruch auf Prämienverbilligungen, so erhebt der Versicherer den
 
 **Abrechnung und Kontrolle der Verwendung der Bundesbeiträge**
 
-<sup>1</sup> Artikel 5 Absätze 1 und 2 sowie Artikel 6 der Verordnung vom 7. November 2007[^17-1] über den Beitrag des Bundes zur Prämienverbilligung in der Krankenversicherung (VPVK) sind in Bezug auf die Abrechnung und Kontrolle der Verwendung der Bundesbeiträge sinngemäss anwendbar.[^17-2]
+<sup>1</sup> Artikel 21 Absätze 1 und 2 sowie Artikel 22 der Verordnung vom 12. September 2025[^17-1] über die Beiträge der Kantone und des Bundes zur Prämienverbilligung in der Krankenversicherung sind in Bezug auf die Abrechnung und Kontrolle der Verwendung der Bundesbeiträge sinngemäss anwendbar.[^17-2]
 
 <sup>2</sup> Die Angaben auf dem Formular, das für die Abrechnung benötigt wird, sind nach den Mitgliedstaaten der Europäischen Union, nach Island, nach Norwegen, nach dem Vereinigten Königreich und nach den Versicherern zu differenzieren.[^17-3]
 
-[^17-1]: [SR 832.112.4](https://fedlex.data.admin.ch/eli/cc/2007/805)
-[^17-2]: Fassung gemäss Art. 9 Abs. 2 der V vom 7. Nov. 2007 über den Bundesbeitrag zur Prämienverbilligung in der Krankenversicherung, in Kraft seit 1. Jan. 2008 ([AS 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)).
+[^17-1]: [SR 832.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10158)
+[^17-2]: Fassung gemäss Art. 26 Ziff. 2 der V vom 12. Sept. 2025 über die Beiträge der Kantone und des Bundes zur Prämienverbilligung in der Krankenversicherung, in Kraft seit 1. Jan. 2026 ([AS 2025 581](https://fedlex.data.admin.ch/eli/oc/2025/581)).
 [^17-3]: Fassung gemäss Ziff. I 5 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 18
@@ -257,6 +257,6 @@ v = u \* r(a) / r(p)
 - u = Mindestumwandlungssatz nach Artikel 14 Absatz 2 des Bundesgesetzes vom 25. Juni 1982[^annexu1-lvlu1-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge
 - r = Jahresrente gemäss dem Rentenalter nach der «Tabelle zur Umrechnung von Kapitalleistungen in lebenslängliche Renten» vom Februar 2006 der Eidgenössischen Steuerverwaltung.[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annexu1-lvlu1-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu1-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^annexu1-lvlu1-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^annexu1-lvlu1-3]: Das Dokument eingesehen werden unter: www.bag.admin.ch/ref.

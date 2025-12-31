@@ -4,11 +4,11 @@ title: "Ordinanza del 3 luglio 2001 sulla riduzione dei premi nell’assicurazio
 short: ORPMUE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: it
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-164-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2002-164-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/it"
 
 (ORPMUE)[^t-1]
 
-del 3 luglio 2001 (Stato 1° gennaio 2023)
+del 3 luglio 2001 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^t-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ visto l’articolo 66a capoverso 3 della legge federale del 18 marzo 1994[^ingre
 
 ordina:
 
-[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 1
 
@@ -38,7 +38,7 @@ La presente ordinanza regola:
 - a.[^1-1] la riduzione dei premi nell’assicurazione obbligatoria delle cure medico-sanitarie per assicurati di modeste condizioni economiche residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e beneficiari di una rendita svizzera nonché per i loro familiari assicurati;
 - b. il versamento dei sussidi federali previsti per il finanziamento della riduzione dei premi giusta la lettera a.
 
-[^1-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 2
 
@@ -60,8 +60,8 @@ L’Istituzione comune applica la riduzione dei premi ai sensi dell’articolo 1
 
 <sup>5</sup> Per il reddito computabile ai sensi dell’articolo 4 sono determinanti le entrate che saranno presumibilmente ottenute nell’anno per cui si chiede la riduzione dei premi.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
 
 #### Art. 4
 
@@ -85,10 +85,10 @@ Sono considerate reddito computabile le seguenti entrate:
 
 <sup>3</sup> Il reddito computabile delle famiglie è calcolato sulla base delle entrate di tutti i membri inclusi nel campo d’applicazione della presente ordinanza.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
-[^4-2]: Introdotta dal n. I dell’O del 9 nov. 2005 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)). Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
-[^4-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^4-4]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)).
+[^4-2]: Introdotta dalla cifra I dell’O del 9 nov. 2005 ([RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819)). Nuovo testo giusta la cifra I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^4-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
 #### Art. 5
 
@@ -96,8 +96,8 @@ Sono considerate reddito computabile le seguenti entrate:
 
 La sostanza netta ai sensi dell’articolo 3 capoverso 3 e il reddito computabile ai sensi dell’articolo 4 vengono convertiti in franchi svizzeri secondo il corso di conversione dell’Ufficio federale della dogana e della sicurezza dei confini[^5-2] valido al momento della richiesta.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
-[^5-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^5-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -107,7 +107,7 @@ La sostanza netta ai sensi dell’articolo 3 capoverso 3 e il reddito computabil
 
 <sup>2</sup> Il Dipartimento federale dell’interno (DFI) fissa ogni anno il fattore di conversione per ciascuno degli Stati membri dell’Unione europea nonché per l’Islanda, la Norvegia e il Regno Unito basandosi sulle statistiche fornite da organizzazioni internazionali.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^6-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7
 
@@ -115,7 +115,7 @@ La sostanza netta ai sensi dell’articolo 3 capoverso 3 e il reddito computabil
 
 Al fine di stabilire il diritto a una riduzione dei premi, sono determinanti i premi medi dell’assicurazione obbligatoria delle cure medico-sanitarie fissati ogni anno dal DFI per ogni Stato membro dell’Unione europea, per l’Islanda, la Norvegia e il Regno Unito applicabili ai beneficiari di rendite e ai i loro familiari assicurati.
 
-[^7-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^7-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 8
 
@@ -135,7 +135,7 @@ Al fine di stabilire il diritto a una riduzione dei premi, sono determinanti i p
 
 <sup>3</sup> L’Istituzione comune calcola l’importo della riduzione dei premi e lo comunica all’assicuratore e all’assicurato.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
 #### Art. 10
 
@@ -167,7 +167,7 @@ Se durante l’anno la situazione familiare o il Paese di residenza del benefici
 
 Il diritto a una riduzione dei premi si estingue il giorno in cui non ne sono più soddisfatte le condizioni. L’Istituzione comune calcola l’importo della riduzione dei premi fino a quel giorno e lo comunica all’assicuratore e all’assicurato.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
 #### Art. 14
 
@@ -181,9 +181,9 @@ Il diritto a una riduzione dei premi si estingue il giorno in cui non ne sono pi
 
 <sup>4</sup> ...[^14-3]
 
-[^14-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^14-2]: Nuovo testo giusta il n. II 2 dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
-[^14-3]: Abrogato dal n. II 2 dell’O del 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^14-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
+[^14-2]: Nuovo testo giusta la cifra II n. 2 dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^14-3]: Abrogato dalla cifra II n. 2 dell’O del 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 15
 
@@ -191,7 +191,7 @@ Il diritto a una riduzione dei premi si estingue il giorno in cui non ne sono pi
 
 In caso di estinzione del diritto a una riduzione dei premi, l’assicuratore chiede all’assicurato la differenza del premio. L’assicuratore rimborsa all’Istituzione comune la riduzione dei premi indebitamente ricevuta dall’assicurato.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
 #### Art. 16
 
@@ -201,19 +201,19 @@ In caso di estinzione del diritto a una riduzione dei premi, l’assicuratore ch
 
 <sup>2</sup> I sussidi federali non utilizzati durante l’anno in corso vanno detratti da quelli previsti per l’anno successivo.
 
-[^16-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^16-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 
 #### Art. 17
 
 **Conteggio e controllo dell’impiego dei sussidi federali**
 
-<sup>1</sup> Gli articoli 5 capoversi 1 e 2 e 6 dell’ordinanza del 7 novembre 2007[^17-1] concernente il sussidio della Confederazione per la riduzione dei premi nell’assicurazione malattie (ORPM) si applicano per analogia al conteggio e al controllo dell’impiego dei sussidi federali.[^17-2]
+<sup>1</sup> Gli articoli 21 capoversi 1 e 2 e 22 dell’ordinanza del 12 settembre 2025[^17-1] concernente i sussidi dei Cantoni e della Confederazione per la riduzione dei premi nell’assicurazione malattie si applicano per analogia al conteggio e al controllo dell’impiego dei sussidi federali.[^17-2]
 
 <sup>2</sup> L’apposito modulo va compilato distinguendo i dati dei singoli Stati membri dell’Unione europea, dell’Islanda, della Norvegia e del Regno Unito e dei singoli assicuratori.[^17-3]
 
-[^17-1]: [RS 832.112.4](https://fedlex.data.admin.ch/eli/cc/2007/805)
-[^17-2]: Nuovo testo giusta l’art. 9 cpv. 2 dell’O del 7 nov. 2007 concernente il sussidio della Confederazione per la riduzione dei premi nell’assicurazione malattie, in vigore dal 1° gen. 2008 ([RU 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)).
-[^17-3]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^17-1]: [RS 832.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10158)
+[^17-2]: Nuovo testo giusta l’art. 26 n. 2 dell’O del 12 set. 2025 concernente i sussidi dei Cantoni e della Confederazione per la riduzione dei premi nell’assicurazione malattie, in vigore dal 1° gen. 2026 ([RU 2025 581](https://fedlex.data.admin.ch/eli/oc/2025/581)).
+[^17-3]: Nuovo testo giusta la cifra I n. 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 18
 
@@ -221,13 +221,13 @@ In caso di estinzione del diritto a una riduzione dei premi, l’assicuratore ch
 
 Il DFI ha la facoltà di emanare disposizioni più dettagliate in merito all’esecuzione della presente ordinanza.
 
-[^18-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^18-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 19
 
 [^19-1]
 
-[^19-1]: Abrogato dal n. IV 53 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^19-1]: Abrogato dalla cifra IV n. 53 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 20
 
@@ -239,7 +239,7 @@ La presente ordinanza entra in vigore il 1° giugno 2002.
 
 [^u1-1]
 
-[^u1-1]: [RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819). Abrogato dal n. I dell’O del 20 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^u1-1]: [RU 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819). Abrogato dalla cifra I dell’O del 20 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
 ...
 
@@ -249,7 +249,7 @@ Allegato[^t-2]
 
 ## Formula per il calcolo della percentuale della liquidazione in capitale
 
-[^t-2]: Introdotto dal n. II dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^t-2]: Introdotto dalla cifra II dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
 v = u \* r(a) / r(p)
 
@@ -259,6 +259,6 @@ v = u \* r(a) / r(p)
 - u = aliquota minima di conversione secondo l’articolo 14 capoverso 2 della legge federale del 25 giugno 1982[^annexu1-lvlu1-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità
 - r = rendita annua secondo l’età di pensionamento in base alla «Tabella per la conversione di prestazioni in capitale in rendite vitalizie» del febbraio 2016 dell’Amministrazione federale delle contribuzioni[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annexu1-lvlu1-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu1-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^annexu1-lvlu1-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^annexu1-lvlu1-3]: Il documento può essere consultato all’indirizzo www.ufsp.admin.ch/rif
