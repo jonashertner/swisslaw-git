@@ -4,13 +4,12 @@ number: "111.12"
 title: Verordnung über das kantonale Gebäude- und Wohnungsregister
 short: VkGWR
 language: de
-version: 2024-06-01
-valid_until: 2025-12-31
-version_adopted: 2024-05-21
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 2021-10-26
 in_force: 2021-11-01
 url: "https://bl.clex.ch/app/de/texts_of_law/111.12"
-pdf: "https://bl.clex.ch/api/de/versions/3923/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4427/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3923/pdf_file"
 
 (VkGWR)
 
-Vom 26.10.2021 (Stand 01.06.2024)
+Vom 26.10.2021 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -84,7 +83,7 @@ beschliesst:
 - b. das Amt für Geoinformation;
 - c. die Baubewilligungsbehörde;
 - d. das Amt für Umweltschutz und Energie;
-- e. das Lufthygieneamt beider Basel;
+- e. …
 - f. die Basellandschaftliche Gebäudeversicherung;
 - g. die Einwohnergemeinden.
 
