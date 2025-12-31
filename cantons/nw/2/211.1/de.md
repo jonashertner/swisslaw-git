@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 short: "Einführungsgesetz zum Zivilgesetzbuch, EG ZGB"
 language: de
-version: 2025-04-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-27
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2024-10-23
 adopted: 1988-04-24
 in_force: 1988-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/211.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1362/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1472/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1362/pdf_file"
 
 (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)
 
-vom 24.04.1988 (Stand 01.04.2025)
+vom 24.04.1988 (Stand 01.01.2026)
 
 Die Landsgemeinde,
 
@@ -728,7 +728,9 @@ beschliesst:
 
 <sup>1</sup> Die im Schweizerischen Zivilgesetzbuch vorgeschriebene amtliche Mitwirkung bei der Sicherung und Teilung einer Erbschaft obliegt der kommunalen Teilungsbehörde; vorbehalten bleibt die Zuständigkeit der Justiz- und Sicherheitsdirektion und der Abteilung für öffentliche Inventarisationen.
 
-<sup>2</sup> Die kommunale Teilungsbehörde besteht aus einem Mitglied des Gemeinderates und der Gemeindeschreiberin oder dem Gemeindeschreiber; die Aufgaben der kommunalen Teilungsbehörde können durch Beschluss der Gemeindeversammlung einer Amtsstelle übertragen werden.
+<sup>2</sup> Die kommunale Teilungsbehörde besteht aus mindestens zwei Mitgliedern.
+
+<sup>3</sup> Der Gemeinderat wählt die kommunale Teilungsbehörde und regelt die Unterschriftsberechtigung. Er kann auch Mitglieder des Gemeinderates wählen.
 
 ### 3.5.2 Erbrecht des Gemeinwesens
 
@@ -1328,6 +1330,12 @@ beschliesst:
 **Übergangsbestimmung zur Änderung vom 24. Oktober 2018**
 
 <sup>1</sup> Das kantonale Amtsnotariat übergibt die bei ihm hinterlegten Verfügungen von Todes wegen auf den Zeitpunkt des Inkrafttretens der Änderung vom 24. Oktober 2018 der jeweils zuständigen Wohnsitzgemeinde.
+
+#### Art. 128c
+
+**Übergangsbestimmung zur Änderung vom 23. Oktober 2024**
+
+<sup>1</sup> Der Gemeinderat hat binnen eines Jahres seit Inkrafttreten dieser Änderung die Teilungsbehörde zu wählen. Bis zu diesem Zeitpunkt besteht die Teilungsbehörde aus den bisherigen Mitgliedern.
 
 ## 5 Schlussbestimmungen
 
