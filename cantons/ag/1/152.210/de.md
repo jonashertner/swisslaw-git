@@ -4,13 +4,12 @@ number: "152.210"
 title: Dekret über die Geschäftsführung des Grossen Rates
 short: "Geschäftsordnung, GO"
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-09-20
+version: 2026-01-01
+version_adopted: 2025-06-17
 adopted: 1991-06-04
 in_force: 1991-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.210"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3262/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3887/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3262/pdf_file"
 
 (Geschäftsordnung, GO)
 
-Vom 04.06.1991 (Stand 01.01.2023)
+Vom 04.06.1991 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -98,7 +97,7 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Das Büro des Rates versammelt sich auf Einladung des Präsidenten so oft es die Geschäfte erfordern.
+<sup>1</sup> Das Büro des Rates tagt auf Einladung des Präsidenten so oft es die Geschäfte erfordern.
 
 <sup>2</sup> Der Präsident oder einer der beiden Vizepräsidenten führt den Vorsitz, stimmt mit und fällt bei Gleichheit der Stimmen den Stichentscheid.
 
@@ -131,7 +130,8 @@ beschliesst:
 - r) es weist Geschäfte im Bereich der Aussenbeziehungen der zuständigen Fachkommission zu. Diese übermittelt eine allfällige Stellungnahme dem Büro zuhanden des Regierungsrates;
 - s) es wählt die Mitglieder des Grossen Rates, die in interparlamentarische Geschäftsprüfungskommissionen gemäss interkantonalen Vereinbarungen Einsitz nehmen;
 - t) es bereitet die durch den Grossen Rat vorzunehmenden Wahlen vor und erlässt die für die Vorbereitung und Durchführung notwendigen Richtlinien;
-- u) es entscheidet über die Form der Einsichtnahme in die Kommissionsprotokolle und erlässt die dafür notwendigen Richtlinien.
+- u) es entscheidet über die Form der Einsichtnahme in die Kommissionsprotokolle und erlässt die dafür notwendigen Richtlinien;
+- v) es erlässt die für die Durchführung von virtuellen und hybriden Sitzungen notwendigen Richtlinien.
 
 [^6-1]: SAR [612.310](https://gesetzessammlungen.ag.ch/data/612.310/de)
 
@@ -139,11 +139,11 @@ beschliesst:
 
 **Abstimmungen**
 
-<sup>1</sup> Der Parlamentsdienst führt die Präsenzlisten.
+<sup>1</sup> Der Parlamentsdienst erhebt die Anwesenheit.
 
 <sup>2</sup> In der Regel erfolgt die Zählung mit einer elektronischen Abstimmungsanlage.
 
-<sup>3</sup> In Ausnahmefällen kann der Ratspräsident zur Feststellung von Abstimmungsergebnissen vier Stimmenzähler bezeichnen.
+<sup>3</sup> In Ausnahmefällen kann der Ratspräsident zur Feststellung von Abstimmungsergebnissen vier Stimmenzähler bezeichnen oder die Stimmen mit einer anderen geeigneten Methode auszählen lassen.
 
 <sup>4</sup> Das Büro regelt die Einzelheiten in einem Reglement.
 
@@ -179,7 +179,7 @@ beschliesst:
 
 <sup>1</sup> Kommissionsbeschlüsse auf Grund delegierter Entscheidungsbefugnisse sind dem Ratspräsidenten bekannt zu geben, sobald sie gefasst sind.
 
-<sup>2</sup> Der Ratspräsident traktandiert die Geschäfte auf eine der nächsten Sitzungen und gibt in der Einladung bekannt, dass das Kommissionsprotokoll und die Akten beim Parlamentsdienst zur Einsichtnahme aufliegen.
+<sup>2</sup> Der Ratspräsident traktandiert die Geschäfte auf eine der nächsten Sitzungen und gibt in der Einladung bekannt, dass das Kommissionsprotokoll und die Akten beim Parlamentsdienst zur Einsichtnahme aufliegen oder elektronisch zur Verfügung stehen.
 
 <sup>3</sup> Das weitere Verfahren richtet sich sinngemäss nach § 8 Absatz 2 und 3.
 
@@ -187,13 +187,19 @@ beschliesst:
 
 **Beratungen**
 
-<sup>1</sup> Die Kommissionen ordnen den Gang ihrer Beratungen selbstständig. Der Präsident bestimmt Ort und Zeit der Sitzungen.
+<sup>1</sup> Die Kommissionen ordnen den Gang ihrer Beratungen selbstständig. Der Präsident bestimmt Ort, Zeit und Art der Sitzungen.
 
 <sup>2</sup> Ein Viertel der Kommissionsmitglieder kann die Einberufung einer Sitzung verlangen.
 
 <sup>3</sup> Die Kommissionen wählen aus ihrer Mitte einen Vizepräsidenten, der die Aufgaben des Präsidenten übernimmt, wenn dieser verhindert ist.
 
 <sup>4</sup> Die Kommissionen sind verhandlungsfähig, wenn die Mehrheit der Mitglieder anwesend ist.
+
+#### § 12a
+
+**Virtuelle und hybride Sitzungen von Subkommissionen und Arbeitsgruppen**
+
+<sup>1</sup> Sitzungen von Subkommissionen und Arbeitsgruppen können virtuell oder hybrid durchgeführt werden.
 
 #### § 13
 
@@ -308,7 +314,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Akten der zur Behandlung gelangenden Begnadigungsgesuche liegen beim Parlamentsdienst zur Einsicht auf.
+<sup>3</sup> Die Akten der zur Behandlung gelangenden Begnadigungsgesuche liegen beim Parlamentsdienst zur Einsicht auf oder stehen elektronisch zur Verfügung.
 
 #### § 20a
 
@@ -320,7 +326,7 @@ beschliesst:
 
 <sup>3</sup> Die Einbürgerungskommission beziehungsweise der Grosse Rat kann mittels Beschluss und unter Orientierung des zuständigen Departements sowie der Gemeinde die Vornahme eigener Erhebungen ausnahmsweise an einzelne Mitglieder übertragen.
 
-<sup>4</sup> Die Akten der zur Behandlung gelangenden Einbürgerungsgesuche liegen beim Parlamentsdienst zur Einsicht auf.
+<sup>4</sup> Die Akten der zur Behandlung gelangenden Einbürgerungsgesuche liegen beim Parlamentsdienst zur Einsicht auf oder stehen elektronisch zur Verfügung.
 
 #### § 20b
 
@@ -455,7 +461,7 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Die Ratsmitglieder können bei der Staatskanzlei die Vernehmlassungen des Regierungsrates an Bundesbehörden samt den Unterlagen des Bundes beziehen.
+<sup>2</sup> Die Ratsmitglieder können die Vernehmlassungen des Regierungsrats an Bundesbehörden samt den Unterlagen des Bundes bei der Staatskanzlei beziehen oder elektronisch einsehen.
 
 <sup>3</sup> Die Akten erledigter Geschäfte sind im Staatsarchiv aufzubewahren.
 
@@ -515,7 +521,7 @@ beschliesst:
 
 <sup>1</sup> Die Einladung mit den erforderlichen Unterlagen soll vier Tage vor der Sitzung im Besitz der Ratsmitglieder sein.
 
-<sup>2</sup> Die Anwesenheit der Ratsmitglieder wird zu Beginn jeder Sitzung durch Eintragung in die Präsenzliste oder durch Namensaufruf festgestellt.
+<sup>2</sup> Die Anwesenheit der Ratsmitglieder wird zu Beginn jeder Sitzung festgestellt.
 
 <sup>3</sup> Ratsmitglieder, die an der Teilnahme verhindert sind, entschuldigen sich beim Ratssekretär.
 
@@ -791,7 +797,7 @@ beschliesst:
 
 **Veröffentlichung der Abstimmungsdaten**
 
-<sup>1</sup> Die elektronische Abstimmungsanlage zählt und speichert die abgegebenen Stimmen bei jeder Abstimmung. Das Stimmenverhalten der Ratsmitglieder und das Resultat werden auf Anzeigetafeln angezeigt.
+<sup>1</sup> Die elektronische Abstimmungsanlage zählt und speichert die abgegebenen Stimmen bei jeder Abstimmung. Das Stimmenverhalten der Ratsmitglieder und das Resultat werden angezeigt.
 
 <sup>2</sup> Der Ratspräsident gibt das Ergebnis bekannt.
 
@@ -965,15 +971,19 @@ beschliesst:
 
 ## 5. Entschädigungen der Ratsmitglieder
 
+#### § 86a
+
+**Grundentschädigung**
+
+<sup>1</sup> Die Mitglieder des Grossen Rates beziehen eine jährliche Grundentschädigung von Fr. 5'000.–.
+
 #### § 87
 
 **Sitzungsgeld**
 
-<sup>1</sup> Die Mitglieder des Grossen Rates beziehen für die Teilnahme an den Sitzungen des Rates, des Büros sowie der Kommissionen ein Sitzungsgeld von Fr. 150.–.
+<sup>1</sup> Die Mitglieder des Grossen Rates beziehen für die Teilnahme an den Sitzungen des Rates, des Büros sowie der Kommissionen ein Sitzungsgeld von Fr. 160.– pro Sitzung bis zwei Stunden.
 
-<sup>2</sup> Dauern eine oder mehrere Sitzungen am gleichen Tag zusammen mehr als drei Stunden, werden zwei, bei mehr als sechs Stunden drei Sitzungsgelder ausgerichtet. § 1 Abs. 2 des Gesetzes über die Entschädigung der Mitglieder des Grossen Rates vom 16. Dezember 1986[^87-1] bleibt vorbehalten.
-
-[^87-1]: AGS Bd. 12 S. 217; aufgehoben (AGS 2009 S. 163)
+<sup>2</sup> Dauert eine Sitzung mehr als zwei Stunden, wird das Sitzungsgeld für jede weitere angefangene Stunde um Fr. 80.– erhöht.
 
 #### § 88
 
@@ -989,6 +999,8 @@ beschliesst:
 
 <sup>2</sup> Bei zwei- und mehrtägigen Sitzungen beträgt die Entschädigung Fr. 120.– für Nachtessen, Übernachten und Morgenessen, sofern eine Rückkehr an den Wohnsitz nicht möglich oder für den Sitzungsverlauf zu erschwerend ist. Die Reiseentschädigung für die Hin- und Rückreise wird in diesem Fall nur einmal ausgerichtet.
 
+<sup>3</sup> Bei virtueller Teilnahme an einer Sitzung besteht kein Anspruch auf eine Spesenentschädigung.
+
 #### § 90
 
 **Zusätzliche Entschädigungen**
@@ -1003,9 +1015,9 @@ beschliesst:
 
 **Anspruchsberechtigung**
 
-<sup>1</sup> Auf Sitzungsgeld mit Reiseentschädigung haben nur diejenigen Mitglieder Anspruch, die sich bis spätestens eine Stunde nach Sitzungsbeginn in die Präsenzliste eingetragen haben.
+<sup>1</sup> Auf Sitzungsgeld und allfällige Reiseentschädigung haben nur diejenigen Mitglieder Anspruch, die sich bis spätestens eine Stunde nach Sitzungsbeginn gemeldet haben.
 
-<sup>2</sup> Ist der Rat nicht mehr verhandlungsfähig, ist die Präsenz durch Namensaufruf festzustellen. Die unentschuldigt Abwesenden haben keinen Anspruch auf Sitzungsgeld und Reiseentschädigung.
+<sup>2</sup> Ist der Rat nicht mehr verhandlungsfähig, ist die Anwesenheit festzustellen. Die unentschuldigt Abwesenden haben keinen Anspruch auf Sitzungsgeld und Reiseentschädigung.
 
 ## 6. Schluss- und Übergangsbestimmungen
 
