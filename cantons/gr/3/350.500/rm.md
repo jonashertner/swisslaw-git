@@ -4,13 +4,12 @@ number: "350.500"
 title: "Lescha davart l'execuziun giudiziala en il chantun Grischun"
 short: "lescha davart l'execuziun giudiziala, LExeG"
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-08-27
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3393/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3612/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3393/pdf_file"
 
 (lescha davart l'execuziun giudiziala, LExeG)
 
-dals 27-08-2009 (versiun dals 01-01-2025)
+dals 27-08-2009 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -756,11 +755,11 @@ concluda:
 
 <sup>1</sup> L'uffizi maina in Post da cussegliaziun per persunas violentas. Per ademplir questa incumbensa ha il Post da cussegliaziun per persunas violentas il dretg d'elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas.
 
-<sup>2</sup> Suenter l'entrada d'ina annunzia tenor l'artitgel 16 alinea 1 litera c u l'artitgel 16a da la Lescha da polizia dal chantun Grischun[^48a-1] contactescha il Post da cussegliaziun per persunas violentas immediatamain la persuna violenta e l'offra ina cussegliaziun gratuita.
+<sup>2</sup> Suenter l'entrada d'ina annunzia tenor l'artitgel 16b alinea 3 litera b u l'artitgel 16c alinea 1 da la Lescha da polizia dal chantun Grischun[^48a-1] contactescha il Post da cussegliaziun per persunas violentas immediatamain la persuna annunziada e l'offra ina cussegliaziun gratuita.
 
-<sup>3</sup> Sche la persuna violenta na giavischa betg ina cussegliaziun, destruescha u stizza il Post da cussegliaziun per persunas violentas immediatamain ils documents u las infurmaziuns ch'el ha survegnì da la Polizia chantunala.
+<sup>3</sup> Sche la persuna annunziada na giavischa betg ina cussegliaziun, destruescha u stizza il Post da cussegliaziun per persunas violentas immediatamain ils documents u las infurmaziuns ch'el ha survegnì da la Polizia chantunala.
 
-<sup>4</sup> Fatgs ch'il Post da cussegliaziun per persunas violentas è vegnì a savair tras ina cussegliaziun voluntara e documents ch'èn resultads a chaschun d'ina cussegliaziun voluntara dastga el suttametter a terzas persunas mo cun il consentiment da la persuna cussegliada.
+<sup>4</sup> Fatgs ch'il Post da cussegliaziun per persunas violentas è vegnì a savair tras ina cussegliaziun voluntara e documents ch'èn resultads a chaschun d'ina cussegliaziun voluntara, dastga el suttametter a terzas persunas mo cun il consentiment da la persuna cussegliada.
 
 [^48a-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
 

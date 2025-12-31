@@ -4,13 +4,12 @@ number: "350.500"
 title: "Legge sull'esecuzione giudiziaria nel Cantone dei Grigioni"
 short: LEG
 language: it
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-08-27
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3393/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3612/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3393/pdf_file"
 
 (LEG)
 
-del 27.08.2009 (stato 01.01.2025)
+del 27.08.2009 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -750,11 +749,11 @@ decide:
 
 **Ufficio di consulenza per le persone che esercitano violenza**
 
-<sup>1</sup> L'Ufficio gestisce un ufficio di consulenza per le persone che esercitano violenza. Per adempiere a questo compito l'ufficio di consulenza per le persone che esercitano violenza è autorizzato a trattare dati personali, compresi dati personali degni di particolare protezione.
+<sup>1</sup> L'Ufficio gestisce un ufficio di consulenza per le persone che esercitano violenza. Per adempiere questo compito l'ufficio di consulenza per le persone che esercitano violenza è autorizzato a trattare dati personali, compresi dati personali degni di particolare protezione.
 
-<sup>2</sup> Dopo aver ricevuto una segnalazione conformemente all'articolo 16 capoverso 1 lettera c o all'articolo 16a della legge sulla polizia del Cantone dei Grigioni[^48a-1], l'ufficio di consulenza per le persone che esercitano violenza contatta immediatamente la persona che esercita violenza e le propone una consulenza gratuita.
+<sup>2</sup> Dopo aver ricevuto una segnalazione conformemente all'articolo 16b capoverso 3 lettera b o all'articolo 16c capoverso 1 della legge sulla polizia del Cantone dei Grigioni[^48a-1], l'ufficio di consulenza per le persone che esercitano violenza contatta immediatamente la persona segnalata e le propone una consulenza gratuita.
 
-<sup>3</sup> Se la persona che esercita violenza non desidera ricevere una consulenza, l'ufficio di consulenza per le persone che esercitano violenza distrugge o elimina immediatamente la documentazione o le informazioni ricevute dalla Polizia cantonale.
+<sup>3</sup> Se la persona segnalata non desidera ricevere una consulenza, l'ufficio di consulenza per le persone che esercitano violenza distrugge o elimina immediatamente la documentazione o le informazioni ricevute dalla Polizia cantonale.
 
 <sup>4</sup> L'ufficio di consulenza per le persone che esercitano violenza può rivelare a terzi fatti di cui è venuto a conoscenza attraverso la consulenza volontaria e trasmettere la documentazione relativa a una consulenza volontaria solo se la persona che ha ricevuto consulenza è d'accordo.
 

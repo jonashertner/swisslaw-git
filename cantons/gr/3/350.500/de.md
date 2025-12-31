@@ -4,13 +4,12 @@ number: "350.500"
 title: Gesetz über den Justizvollzug im Kanton Graubünden
 short: "Justizvollzugsgesetz, JVG"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-08-27
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3393/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3612/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3393/pdf_file"
 
 (Justizvollzugsgesetz, JVG)
 
-Vom 27.08.2009 (Stand 01.01.2025)
+Vom 27.08.2009 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -750,15 +749,15 @@ beschliesst:
 
 #### Art. 48a
 
-**Beratungsstelle für Gewalt ausübende Personen**
+**Beratungsstelle für gewaltausübende Personen**
 
-<sup>1</sup> Das Amt führt eine Beratungsstelle für Gewalt ausübende Personen. Zur Erfüllung dieser Aufgabe ist die Beratungsstelle für Gewalt ausübende Personen berechtigt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten.
+<sup>1</sup> Das Amt führt eine Beratungsstelle für gewaltausübende Personen. Zur Erfüllung dieser Aufgabe ist die Beratungsstelle für gewaltausübende Personen berechtigt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten.
 
-<sup>2</sup> Nach Eingang einer Meldung gemäss Artikel 16 Absatz 1 Litera c oder Artikel 16a des Polizeigesetzes des Kantons Graubünden[^48a-1] nimmt die Beratungsstelle für Gewalt ausübende Personen umgehend Kontakt mit der Gewalt ausübenden Person auf und bietet ihr eine kostenlose Beratung an.
+<sup>2</sup> Nach Eingang einer Meldung gemäss Artikel 16b Absatz 3 Litera b oder Artikel 16c Absatz 1 des Polizeigesetzes des Kantons Graubünden[^48a-1] nimmt die Beratungsstelle für gewaltausübende Personen umgehend Kontakt mit der gemeldeten Person auf und bietet ihr eine kostenlose Beratung an.
 
-<sup>3</sup> Wünscht die Gewalt ausübende Person keine Beratung, vernichtet oder löscht die Beratungsstelle für Gewalt ausübende Personen die von der Kantonspolizei erhaltenen Unterlagen oder Informationen sofort.
+<sup>3</sup> Wünscht die gemeldete Person keine Beratung, vernichtet oder löscht die Beratungsstelle für gewaltausübende Personen die von der Kantonspolizei erhaltenen Unterlagen oder Informationen sofort.
 
-<sup>4</sup> Die Beratungsstelle für Gewalt ausübende Personen darf Tatsachen, von denen sie durch eine freiwillige Beratung Kenntnis erhalten hat, und Unterlagen aus einer freiwilligen Beratung Dritten nur bekanntgeben, wenn die beratene Person damit einverstanden ist.
+<sup>4</sup> Die Beratungsstelle für gewaltausübende Personen darf Tatsachen, von denen sie durch eine freiwillige Beratung Kenntnis erhalten hat, und Unterlagen aus einer freiwilligen Beratung Dritten nur bekanntgeben, wenn die beratene Person damit einverstanden ist.
 
 [^48a-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
 
