@@ -4,252 +4,216 @@ number: "786.150"
 title: Verordnung über Abfallsammlungen in der Stadt Basel
 short: ASV
 language: de
-version: 2021-06-10
-valid_until: 2025-12-31
-version_adopted: 2021-06-01
+version: 2026-01-01
+version_adopted: 2025-11-04
 adopted: 2025-11-04
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/786.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5266/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6685/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Abfallsammlungen in der Stadt Basel
 
-Abfallsammlungen in der Stadt Basel: Verordnung | Abfallbeseitigung
+Abfallbeseitigung
 
 (ASV)
 
-Vom 11. Mai 1993 (Stand 10. Juni 2021)
+Vom 4. November 2025 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-gestützt auf Art. 36 des Bundesgesetzes über den Umweltschutz (Umweltschutzgesetz, USG) vom 7. Oktober 1983[^ingress-1], Art. 44 der Verordnung über die Vermeidung und die Entsorgung von Abfällen (Abfallverordnung, VVEA) vom 4. Dezember 2015[^ingress-2], Art. 37 der Verordnung über den Verkehr mit Abfällen (VeVA) vom 22. Juni 2005[^ingress-3], § 42 des Umweltschutzgesetzes Basel-Stadt (USG BS) vom 13. März 1991[^ingress-4],
-
-beschliesst:
+gestützt auf das Bundesgesetz über den Umweltschutz (USG) vom 7. Oktober 1983 [^ingress-1], die Verordnung über die Vermeidung und Verwertung von Abfällen (VVEA) vom 4. Dezember 2015 [^ingress-2], die Verordnung über den Verkehr mit Abfällen (VeVA) vom 22. Juni 2005 [^ingress-3], das Umweltschutzgesetz Basel-Stadt (USG BS) vom 13. März 1991 [^ingress-4], unter Verweis auf seine Erläuterungen Nr. [P251679](https://www.bs.ch/regierungsratsbeschluesse/P251679?backUrl=/apps/regierungsratsbeschluesse?text=P251679),
 
 [^ingress-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
 [^ingress-2]: SR [814.600](https://db.clex.ch/link/Bund/814.600/de)
 [^ingress-3]: SR [814.610](https://db.clex.ch/link/Bund/814.610/de)
 [^ingress-4]: SG [780.100](https://www.gesetzessammlung.bs.ch/data/780.100/de)
 
-## I. Arten
-
 #### § 1
 
-<sup>1</sup> Für verwertbare Siedlungsabfälle werden öffentliche Sammelstellen bereitgestellt.
+**Gegenstand und Geltungsbereich**
 
-<sup>2</sup> Sonderabfälle aus Haushalt und Kleingewerbe werden periodisch in bewachten Sammelstellen angenommen.
-
-<sup>3</sup> Nicht verwertbare Siedlungsabfälle werden vom Abfuhrwesen und den Kehrichtverbrennungsanlagen entgegengenommen.
-
-<sup>4</sup> Sammelstellen und Abfuhren können jeweils durch die andere Sammelart ergänzt oder ersetzt werden.
-
-## II. Ausgeschlossene Abfälle
+<sup>1</sup> Diese Verordnung regelt die Sammlung von Siedlungsabfällen in der Stadt Basel sowie deren Finanzierung.
 
 #### § 2
 
-<sup>1</sup> Dem Abfuhrwesen und den Kehrichtverbrennungsanlagen dürfen nicht übergeben werden:
+**Zweck**
 
-- a) Abfälle, die verwertet werden müssen,
-- b) Abfälle, die nach der Gesetzgebung über den Umweltschutz einer besonderen Behandlung bedürfen,
-- c) Flüssigkeiten mit Ausnahme von Kleinmengen von altem Speiseöl bis zu einem Liter in Gebinden,
-- d) Asche oder Schlacke,
-- e) Schnee und Eis,
-- f) Aushub und Bauschutt,
-- g) tierische Abfälle,
-- h) stark übelriechende Abfälle,
-- i) Materialien und Gegenstände, die das Personal, die Fahrzeuge oder die Anlagen der Abfuhr- und Beseitigungsdienste gefährden, wie Explosivstoffe, Giftstoffe, radioaktive und krankheitserregende Substanzen.
-
-<sup>2</sup> Die Abfallentsorgungsbetriebe können Ausnahmen zulassen, namentlich für Kleinmengen an Asche und Schlacken.
-
-<sup>3</sup> Die Abfallentsorgungsbetriebe geben Auskunft über die vorschriftsgemässe Beseitigung oder Verwertung der vom Abfuhrwesen und den Kehrichtbeseitigungsanlagen nicht angenommenen Abfälle und die dafür nötigen Bewilligungen.
-
-## III. Kehrichtabfuhr
-
-### III.1. Umfang
-
-[^2-1]
-
-[^2-1]: Softwarebedingte, redatkionelle Einfügung von Gliederungsziffern oder -buchstaben.
+<sup>1</sup> Diese Verordnung bezweckt die umweltgerechte und wirtschaftliche Sammlung der Siedlungsabfälle zur Verwertung und Beseitigung.
 
 #### § 3
 
-<sup>1</sup> Das Abfuhrwesen nimmt entgegen:
+**Zuständigkeit**
 
-- a) Siedlungsabfälle aus Haushalten,
-- b) Siedlungsabfälle aus Industrie-, Gewerbe- und Dienstleistungsbetrieben, die in ähnlicher Menge und Zusammensetzung bereitgestellt werden wie Haushaltabfälle aus Gebäuden gleicher Grösse.
-
-<sup>2</sup> Mit Zustimmung des Tiefbauamtes können dem Abfuhrwesen weitere Siedlungsabfälle aus Industrie-, Gewerbe- und Dienstleistungsbetrieben übergeben werden.
-
-### III.2. Turnus
+<sup>1</sup> Die zuständige Behörde ist dem Bau- und Verkehrsdepartement zugeordnet.
 
 #### § 4
 
-<sup>1</sup> Die Kehrichtabfuhr erfolgt in der Regel zweimal wöchentlich.
+**Aufgaben**
 
-<sup>1<sup>bis</sup></sup> Die Entleerung von Unterflurcontainern erfolgt nach Bedarf.
+<sup>1</sup> Der zuständigen Behörde obliegen insbesondere folgende Aufgaben:
 
-<sup>2</sup> Sperrgut wird mindestens einmal monatlich abgeführt. Als Sperrgut gelten Abfälle, die in den offiziellen Abfallsäcken nicht Platz haben oder zu viel Platz beanspruchen würden.
+- a) die Sammelstellen und Verwertungsanlagen für die Siedlungsabfälle zu bestimmen, sofern dies nicht kantonal vorgegeben ist;
+- b) stofflich verwertbare Siedlungsabfälle separat zu sammeln und der Verwertung zuzuführen;
+- c) stofflich nicht verwertbare Siedlungsabfälle zu sammeln und der Beseitigung zuzuführen;
+- d) die Abfallrechnung zu führen;
+- e) jährlich den Abfuhrplan bekanntzugeben;
+- f) Beratung zur Sammlung der Siedlungsabfälle anzubieten;
+- g) das Bereitstellen der gebührenpflichtigen Gebinde und Vignetten für die Abfallsammlungen sowie der öffentlichen Sammelinfrastruktur.
 
-<sup>3</sup> Abfuhren ausserhalb des regelmässigen Turnus werden soweit möglich auf Bestellung beim Tiefbauamt ausgeführt.
-
-### III.3. Bereitstellung
+<sup>2</sup> Die zuständige Behörde kann Aufgaben an private Anbieter mittels Konzession übertragen.
 
 #### § 5
 
-**a) Zulässige Gebinde**
+**Abfuhrplan**
 
-<sup>1</sup> Nicht verwertbare Siedlungsabfälle müssen in der Regel in offiziellen Abfallsäcken bereitgestellt werden, mit denen die Abfallgebühren entrichtet worden sind. Die Säcke dürfen nicht schwerer als 20 kg sein.
-
-<sup>2</sup> Nicht verwertbare Siedlungsabfälle können auch in Containern bereitgestellt werden. Das Tiefbauamt legt im Einzelfall fest, ob die Bereitstellung der Abfälle im Container lose oder in Abfallsäcken zu erfolgen hat.
-
-<sup>2 <sup>bis</sup></sup> In öffentlichen Unterflurcontainern sind Abfälle nur in den offiziellen Abfallsäcken bereitzustellen.
-
-<sup>3</sup> Das Tiefbauamt kann verlangen, dass Abfälle aus Überbauungen mit 20 oder mehr Wohnungen und aus Betrieben in Containern bereitgestellt werden.
-
-<sup>4</sup> Sperr- und Grüngut, Papier und Karton sowie Unbrennbares sind so bereitzustellen, dass sie mit möglichst geringem Aufwand mitgenommen werden können. Das Tiefbauamt kann hierfür bestimmte Bereitstellungsformen vorgeben.
-
-<sup>5</sup> Das Tiefbauamt kann die Bereitstellung von Asche und Schlacke in Eimern und weitere Ausnahmen zulassen.
-
-<sup>6</sup> …
+<sup>1</sup> Der Abfuhrplan enthält Bestimmungen über Zeit und Ort der Sammlungen der Siedlungsabfälle sowie deren Bereitstellung.
 
 #### § 6
 
-**b) Technische Anforderungen**
+**Sammlungen und Sammelstellen**
 
-<sup>1</sup> Abfallsäcke müssen den Richtlinien des Schweizerischen Städteverbandes entsprechen.
+<sup>1</sup> Es werden in der Regel folgende Sammlungen durchgeführt:
 
-<sup>2</sup> Container müssen mit den vom Abfuhrwesen verwendeten Fahrzeugen mechanisch entleert werden können. Sie müssen gut sichtbar mit Namen und Adresse beschriftet sein. Sie sind in funktionsfähigem und sauberem Zustand und mit geschlossenem Deckel zur Leerung bereitzustellen.
+- a) zweimal wöchentlich Kehricht und Kleinsperrgut;
+- b) wöchentlich Grünabfälle;
+- c) monatlich Altpapier, Karton, Grobsperrgut und Unbrennbares;
+- d) vierteljährlich Metall.
 
-<sup>3</sup> Das Tiefbauamt kann verlangen, dass die Container so ausgerüstet werden, dass die Abfallgebühren nach Gewicht festgesetzt werden können.
+<sup>2</sup> Es werden in der Regel mindestens folgende Sammelstellen bereitgestellt:
+
+- a) 50 Sammelstellen für Wertstoffe (Glas, Blech/Alu, Batterien);
+- b) ein Recyclingpark;
+- c) 25 dezentrale Sonderabfallannahmestellen;
+- d) eine zentrale Sonderabfallannahmestelle.
+
+<sup>3</sup> Die zuständige Behörde kann weitere Sammlungen oder Sammelstellen für Siedlungsabfälle anbieten.
 
 #### § 7
 
-**c) Ort**
+**Pflichten der Verursacherinnen und Verursacher von Abfällen**
 
-<sup>1</sup> Die Abfälle sind auf uneingefriedeten privaten Vorplätzen in der Nähe der Allmendgrenze, auf dem Trottoir oder, soweit ein solches fehlt, am Strassenrand zur Abfuhr bereitzustellen. Sie müssen für das Abfuhrpersonal gut zugänglich sein und dürfen den Verkehr nicht behindern.
+<sup>1</sup> Siedlungsabfälle müssen den von der zuständigen Behörde bezeichneten Sammlungen oder Sammelstellen übergeben werden.
 
-<sup>2</sup> Container müssen so aufgestellt werden, dass sie ohne Schwierigkeiten zum Abfuhrwagen und zurück befördert werden können. Bei Schnee und Eis sind die Zugänge zu den Bereitstellungsplätzen und die Durchgänge zum Abfuhrwagen freizulegen.
+<sup>2</sup> Die im Abfuhrplan vorgegebenen Gebinde und Anforderungen an die Bereitstellung der Siedlungsabfälle sind einzuhalten.
 
-<sup>3</sup> Für Liegenschaften an Sackgassen und in anderen Fällen, in denen die Abholung der Abfälle an der Liegenschaftsgrenze mit einem unverhältnismässigen Aufwand verbunden ist, kann das Tiefbauamt andere Bereitstellungsplätze bestimmen.
+<sup>3</sup> Bereitgestellte Gebinde dürfen nicht mehr als 20 kg wiegen. Ausgenommen davon sind Container.
 
-<sup>4</sup> Bei besonderen Verhältnissen kann sich die Betriebsleitung des Abfuhrwesens zur Entleerung der Container auf Privatareal bereit erklären, sofern grössere Abfallmengen anfallen und gute Zu- und Wegfahrmöglichkeiten für die Sammelfahrzeuge bestehen.
+<sup>4</sup> Sammelstellen dürfen nur zu den angegebenen Zeiten benutzt werden.
 
-<sup>5</sup> In Gebieten mit öffentlichen Unterflurcontainern sind Abfälle in diesen bereitzustellen, soweit keine anderen gesetzlichen Vorgaben bestehen. Das Tiefbauamt kann Ausnahmen bewilligen.
+<sup>5</sup> Siedlungsabfälle, welche für die Sammlung bestimmt sind, dürfen ausschliesslich in der Zeit zwischen frühestens um 19.00 Uhr des Vorabends und spätestens um 7.00 Uhr des Tages der Sammlung bereitgestellt werden.
+
+<sup>6</sup> Die für die Sammlung bereitgestellten Siedlungsabfälle müssen für das Abfuhrpersonal gut zugänglich sein und dürfen den Verkehr nicht behindern. Sie müssen auf nicht eingefriedetem privaten Grund an der Allmendgrenze bereitgestellt werden. Ist dies nicht möglich, dürfen die Abfälle auf Allmend bereitgestellt werden.
+
+<sup>7</sup> Die zuständige Behörde kann andere Bereitstellungsplätze für die Sammlungen bestimmen.
 
 #### § 8
 
-**d) Zeit**
+**Spezifische Anforderungen an Container**
 
-<sup>1</sup> Abfälle sind zwischen 19.00 Uhr des Vorabends und 07.00 Uhr des Tages der Abholung bereitzustellen.
+<sup>1</sup> Die zuständige Behörde legt die Spezifikationen für die Container fest.
 
-<sup>2</sup> Über das Wochenende dürfen keine Abfälle zur Abholung bereitgestellt werden.
+<sup>2</sup> Container sind in funktionsfähigem und sauberem Zustand zu halten.
 
-<sup>3</sup> Container sind nach der Entleerung möglichst bald wieder an ihren üblichen Standort zu verbringen.
+<sup>3</sup> Rollcontainer müssen gut sichtbar mit Namen, Adresse sowie dem Entsorgungsbetrieb beschriftet sein und mit geschlossenem Deckel zur Leerung bereitgestellt werden.
 
-<sup>3<sup>bis</sup></sup> Abfälle können grundsätzlich jederzeit in Unterflurcontainern bereitgestellt werden.
-
-<sup>4</sup> Das Tiefbauamt kann Ausnahmen vorsehen.
+<sup>4</sup> Auf Allmend bereitgestellte Rollcontainer müssen nach der Entleerung innerhalb von höchstens zwei Stunden wieder an ihren üblichen Standort zurückgestellt werden.
 
 #### § 9
 
-**e) Vor der Abfuhr**
+**Pflichten der Liegenschaftseigentümerinnen und -eigentümer**
 
-<sup>1</sup> Bis zur Bereitstellung zur Abfuhr sind die auf Grundstücken anfallenden Abfälle auf privatem Grund zu lagern. Sammelstellen auf öffentlichem Grund sind nur mit Bewilligung der nach der Gesetzgebung über die Inanspruchnahme der Allmend zuständigen Behörde zulässig.
+<sup>1</sup> Liegenschaftseigentümerinnen und -eigentümer haben ihre Mieterinnen oder Mieter, Pächterinnen oder Pächter oder andere Nutzungsberechtigte zur Einhaltung der Vorschriften über die Bereitstellung von Siedlungsabfällen anzuhalten.
 
-<sup>2</sup> Bei der Erstellung und soweit zumutbar beim Umbau von Häusern mit 20 oder mehr Wohnungen oder mit vergleichbarem Abfallanfall ist der für Container nötige Platz zu schaffen. Wenn es die örtlichen Verhältnisse gestatten, ist die gleiche Auflage auch bei der Erstellung oder beim Umbau kleinerer Häuser zulässig, die organisatorisch zusammengehören. Der Standort soll wenn möglich vom öffentlichen Raum aus nicht einsehbar sein.
+<sup>2</sup> Die zuständige Behörde kann verlangen, dass Siedlungsabfälle aus Überbauungen mit 20 oder mehr Wohneinheiten oder aus Betrieben in Rollcontainern bereitgestellt werden.
+
+<sup>3</sup> Die zuständige Behörde kann verlangen, dass Siedlungsabfälle aus Überbauungen mit 200 oder mehr Wohneinheiten oder aus Betrieben in Roll- oder Unterflurcontainern bereitgestellt werden.
 
 #### § 10
 
-**f) Verpflichtung der Grundeigentümer und Grundeigentümerinnen**
+**Finanzierung der Abfallrechnung**
 
-<sup>1</sup> Die Grundeigentümer und Grundeigentümerinnen haben ihre Mieter und Mieterinnen, Pächter und Pächterinnen und andere Nutzungsberechtigte zur Einhaltung der Vorschriften über die Bereitstellung von Abfällen anzuhalten.
-
-## IV. Sammlung von Sonderabfällen aus Haushaltungen und Kleingewerbe
+<sup>1</sup> Für sämtliche Aufwendungen und Erträge im Bereich Abfallentsorgung wird eine Kostenrechnung geführt.
 
 #### § 11
 
-<sup>1</sup> Das Tiefbauamt führt regelmässige Sammlungen von Sonderabfällen aus Haushaltungen und Kleingewerbe durch.
+**Verursachergerechte Finanzierung der Sammlung und Entsorgung der Siedlungsabfälle**
 
-<sup>2</sup> Das Tiefbauamt betreibt eine Sammelstelle für solche Abfälle in der Kehrichtverbrennungsanlage.
+<sup>1</sup> Die Kosten der Sammlung und Entsorgung der Siedlungsabfälle, mit Ausnahme derjenigen im öffentlichen Raum namentlich Littering und öffentliche Abfalleimer, werden mittels mengenabhängigen Gebühren den Verursacherinnen und Verursachern der Abfälle auferlegt.
 
-<sup>3</sup> Kühlschränke können auf Anmeldung durch das Abfuhrwesen abgeholt werden. Sie müssen mit der Vignette der Stiftung Entsorgung Schweiz versehen werden.
+<sup>2</sup> Die mengenabhängigen Gebühren sind mit gebührenpflichtigen Sammelsäcken, Vignetten oder nach Gewicht zu erheben.
 
-<sup>4</sup> Elektrische und elektronische Geräte werden nicht abgeführt. Sie sind der Wiederverwertung zuzuführen.
+<sup>3</sup> Werden die Gebühren nach Gewicht erhoben, wird für die Leerung der Container eine Mindestgebühr erhoben.
 
-## V. Sammlung verwertbarer Abfälle
+<sup>4</sup> Für Spezialabholungen auf Bestellung wird ein Zuschlag erhoben.
 
 #### § 12
 
-<sup>1</sup> Öffentliche Wertstoffsammelstellen sind ausschliesslich bestimmt für verwertbare Siedlungsabfälle aus Haushalten und aus Industrie-, Gewerbe- und Dienstleistungsbetrieben mit vergleichbaren Abfallmengen.
+**Entsorgung nach Gewicht mittels Container**
 
-<sup>2</sup> Bei der Erstellung von Wohnsiedlungen mit mehr als 200 Haushalten ist wenn möglich auf privatem Grund Platz für Wertstoffsammelstellen zu schaffen. Lage und Grösse sind mit dem Tiefbauamt abzusprechen.
+<sup>1</sup> Gebühr pro Kilogramm inkl. Mehrwertsteuer:
 
-## VI. Abfälle aus Industrie-, Gewerbe- und Dienstleistungsbetrieben
+<table>
+<tr><th>Abfallart</th><th>Gebühr pro Kilogramm</th></tr>
+<tr><td>Kehricht</td><td>Fr. 0.42</td></tr>
+<tr><td>Grünabfall</td><td>Fr. 0.24</td></tr>
+</table>
+
+<sup>2</sup> Mindestgebühr inkl. Mehrwertsteuer pro Leerung eines Containers, falls die Gebühr gemäss Abs. 1 diesen Betrag nicht überschreitet:
+
+<table>
+<tr><th>Containertyp</th><th>Mindestgebühr</th></tr>
+<tr><td>Rollcontainer</td><td>Fr. 6.85</td></tr>
+<tr><td>Unterflurcontainer</td><td>Fr. 53.90</td></tr>
+</table>
 
 #### § 13
 
-<sup>1</sup> Industrie-, Gewerbe- und Dienstleistungsbetriebe haben selbst für die Verwertung und Beseitigung von Abfällen zu sorgen, die sie nicht einer öffentlichen Sammlung übergeben dürfen.
+**Entsorgung nach Volumen mittels Sammelsack**
 
-<sup>2</sup> Betriebe mit Abfallmengen von mehr als 100 m³ pro Jahr haben abzuklären, ob Möglichkeiten zur Verwertung bestehen oder geschaffen werden können. Sie haben eine für Abfallfragen verantwortliche Person zu bezeichnen und eine Abfallstatistik zu führen.
+<sup>1</sup> Gebührenpflichtige Sammelsäcke inkl. Mehrwertsteuer sowie Herstellungs- und Vertriebskosten:
 
-## VII. Bauabfälle
+<table>
+<tr><th>Abfallart</th><th>Sackvolumen (Liter)</th><th>Gebühr pro Sack</th></tr>
+<tr><td>Kehricht</td><td>10</td><td>Fr. 0.75</td></tr>
+<tr><td></td><td>17</td><td>Fr. 1.30</td></tr>
+<tr><td></td><td>35</td><td>Fr. 2.70</td></tr>
+<tr><td></td><td>60</td><td>Fr. 4.65</td></tr>
+<tr><td>Rüst- und Speiseabfälle</td><td>10</td><td>Fr. 0.70</td></tr>
+</table>
 
 #### § 14
 
-<sup>1</sup> Wer Bau- oder Abbrucharbeiten mit mehr als 100 m³ Abfällen durchführt, hat der zuständigen Behörde vor Erteilung der Bau- oder Abbruchbewilligung darzulegen, wie die Abfälle verwertet oder beseitigt werden.
+**Entsorgung nach Volumen und Gewicht mittels Vignette**
 
-<sup>2</sup> Für die Trennung der Abfälle ist eine verantwortliche Person zu bezeichnen.
+<sup>1</sup> Vignetten inkl. Mehrwertsteuer sowie Herstellungs- und Vertriebskosten:
 
-## VIII. Informatik und Statistik
-
-### VIII.1. Abfallkalender
+<table>
+<tr><th>Abfallart</th><th>Einheit</th><th>Gebühr Vignette</th></tr>
+<tr><td>Sperrgut</td><td>Pro 10 Kilogramm</td><td>Fr. 5.00</td></tr>
+<tr><td>Unbrennbare Abfälle</td><td>Pro 10 Kilogramm</td><td>Fr. 5.00</td></tr>
+<tr><td>Grünabfälle</td><td>Bis 60 Liter</td><td>Fr. 4.15</td></tr>
+<tr><td>Äste im Bündel</td><td>Maximal: 2 Meter Länge und 60 cm Umfang</td><td>Fr. 4.15</td></tr>
+</table>
 
 #### § 15
 
-<sup>1</sup> Das Tiefbauamt gibt den Abfuhrplan sowie die Standorte und Öffnungszeiten der Sammelstellen für wiederverwertbare Abfälle durch Zirkular und Publikation bekannt.
+**Gebühren für Abholung ausserhalb des Abfuhrplans**
 
-### VIII.2. Abfallstatistik
+<sup>1</sup> Abholungen auf Bestellung (Extrafahrt) inkl. Mehrwertsteuer:
 
-#### § 16
+<table>
+<tr><th>Art</th><th>Gebühr pro Abholung</th></tr>
+<tr><td>Sperrgut</td><td>Fr. 40.00</td></tr>
+<tr><td>Metall</td><td>Fr. 40.00</td></tr>
+<tr><td>Papier und Karton</td><td>Fr. 15.00</td></tr>
+<tr><td>Kehricht</td><td>Fr. 15.00</td></tr>
+</table>
 
-<sup>1</sup> Wer Abfälle an bewachte Annahmestellen wie Abfallbehandlungsanlagen, Deponien, Sammelstellen oder Kompostieranlagen abgibt, hat ihre Menge, Art und Herkunft zu deklarieren.
+*Schlussbestimmung*
 
-<sup>2</sup> Die im Kanton gelegenen Annahmestellen für Abfälle müssen dem Amt für Umwelt und Energie einmal jährlich eine Statistik der von ihnen angenommenen Abfälle zustellen. Das Amt für Umwelt und Energie legt den Umfang und die Aufteilung der zu erhebenden Daten fest.
+Diese Verordnung ist zu publizieren; sie tritt am 1. Januar 2026 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über Abfallsammlungen in der Stadt Basel vom 11. Mai 1993 aufgehoben.
 
-<sup>3</sup> Für ausserkantonale Annahmestellen trifft das Amt für Umwelt und Energie Vereinbarungen mit den zuständigen Behörden oder Entsorgungsbetrieben.
-
-## IX. Kosten
-
-#### § 17
-
-<sup>1</sup> Das Amt für Umwelt und Energie führt eine Abfallrechnung, in der alle Aufwendungen und Einkünfte für die umweltgerechte Entsorgung der Siedlungsabfälle ausgewiesen werden.
-
-## X. Widerhandlungen
-
-#### § 18
-
-<sup>1</sup> Es ist verboten
-
-- a) Abfälle in die Kanalisation einzuleiten oder in ein Gewässer zu schütten;
-- b) Abfälle liegen zu lassen, zu vergraben oder versickern zu lassen;
-- c) Abfälle ohne Bewilligung abzulassen oder zu verbrennen, wenn es nicht durch eine besondere Vorschrift ausdrücklich erlaubt ist;
-- d) Haushaltabfälle in Abfallbehältern auf Strassen, Plätzen und in öffentlichen Anlagen zu deponieren;
-- e) Nicht verwertbare Abfälle einer Sammlung für verwertbare Abfälle zu übergeben;
-- f) Abfälle in einem § 5 dieser Verordnung widersprechenden Gebinde oder an einem §§ 7 und 8 dieser Verordnung widersprechenden Ort oder Zeitpunkt zur Entsorgung bereit zu stellen.
-
-<sup>2</sup> …
-
-#### § 19
-
-<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt wird ermächtigt, bei Widerhandlungen
-
-- a) durch speziell beauftragtes Personal von auf frischer Tat Ertappten die Personalien aufzunehmen sowie widerrechtlich abgelagerte oder nicht zugelassene Kehrichtsäcke und andere Gebinde zur Ermittlung der Verantwortlichen zu öffnen;
-- b) für die Beseitigung des widerrechtlich abgelagerten Abfalls von den Verantwortlichen eine Gebühr zu erheben.
-- c) …
-
-Diese Verordnung ist zu publizieren; sie wird am 1. Juli 1993 wirksam. Die Verordnung über die Abfallbeseitigung in der Stadt Basel vom 12. November 1985 ist aufgehoben.
-
-KB 26.05.1993
+KB 08.11.2025
