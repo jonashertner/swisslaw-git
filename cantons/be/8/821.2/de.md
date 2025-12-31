@@ -4,13 +4,12 @@ number: "821.2"
 title: Verordnung über die Gewässerschutzmassnahmen bei Verlust von Mineralöl und andern gefährlichen Flüssigkeiten
 short: Ölwehrverordnung
 language: de
-version: 2020-08-01
-valid_until: 2025-12-31
-version_adopted: 2020-06-24
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 1969-12-30
 in_force: 1970-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/821.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1904/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1904/pdf_file"
 
 (Ölwehrverordnung)
 
-vom 30.12.1969 (Stand 01.08.2020)
+vom 30.12.1969 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -47,7 +46,7 @@ beschliesst:
 
 <sup>1</sup> Die Ölwehrorganisation untersteht der Gebäudeversicherung des Kantons Bern (GVB). Die Oberaufsicht wird durch die Wirtschafts-, Energie- und Umweltdirektion (WEU) im Einvernehmen mit der Bau- und Verkehrsdirektion (BVD) ausgeübt.
 
-<sup>2</sup> Zur Koordination und Vorbereitung von allgemeinen Ölwehrmassnahmen sowie zur Beratung in allen organisatorischen und fachtechnischen Fragen wird eine Ölwehrkommission eingesetzt.
+<sup>2</sup> …
 
 <sup>3</sup> Die BVD und die WEU schliessen mit der GVB eine Leistungsvereinbarung über die Aufgabenerfüllung nach Absatz 1 und deren Abgeltung ab.
 

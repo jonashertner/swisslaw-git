@@ -4,13 +4,12 @@ number: "821.2"
 title: "Ordonnance sur les mesures de protection des eaux à prendre lors d'écoulements d'huile minérale et d'autres liquides dangereux"
 short: "Ordonnance sur la lutte contre les accidents d'hydrocarbures"
 language: fr
-version: 2020-08-01
-valid_until: 2025-12-31
-version_adopted: 2020-06-24
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 1969-12-30
 in_force: 1970-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/821.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1904/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3315/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1904/pdf_file"
 
 (Ordonnance sur la lutte contre les accidents d'hydrocarbures)
 
-du 30.12.1969 (état au 01.08.2020)
+du 30.12.1969 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -47,7 +46,7 @@ arrête:
 
 <sup>1</sup> L'organisme de défense contre les accidents dus aux hydrocarbures est subordonné à l'Assurance immobilière du canton de Berne (AIB). La haute surveillance incombe à la Direction de l’économie, de l’énergie et de l’environnement (DEEE), d'entente avec la Direction des travaux publics et des transports (DTT).
 
-<sup>2</sup> Il est institué une Commission de la lutte contre les hydrocarbures, qui a pour attributions de coordonner et préparer des mesures générales de protection contre les hydrocarbures et qui sera consultée dans toutes les questions d'organisation et de technique de cette défense.
+<sup>2</sup> …
 
 <sup>3</sup> La DTT et l'DEEE concluent avec l'AIB une convention de prestations concernant l'exécution des tâches selon l'alinéa 1 ainsi que leur paiement.
 
