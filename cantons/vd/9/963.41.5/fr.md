@@ -4,7 +4,7 @@ number: "963.41.5"
 title: "RÈGLEMENT du 30.10.2013 sur la participation aux frais de prévention contre l'incendie et les éléments naturels (RPFPIEN)"
 short: RPFPIEN
 language: fr
-version: 2014-01-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.41.5?id=2f77c102-8084-446a-b72c-d6aaa264a3cb"
 ---
 
@@ -51,15 +51,15 @@ arrête
 
 **[^2-1]**
 
-<sup>1</sup> La construction d'un nouveau réseau d'eau, l'extension d'un réseau existant et le remplacement de conduites bénéficient d'une participation financière si ceux-ci sont utilisés pour la défense contre l'incendie et sont conformes aux prescriptions de l'ECA.
+<sup>1</sup> La construction d'un nouveau réseau d'eau, l'extension d'un réseau existant et le remplacement de conduites bénéficient d'une participation financière si ceux-ci sont utilisés pour la défense contre l'incendie et sont conformes aux prescriptions de l'ECA et à l'état de la technique.
 
 <sup>2</sup> En revanche, sous réserve d'exceptions expressément prévues par le présent règlement, les travaux d'entretien ou de remise en état ne peuvent pas faire l'objet d'une participation financière.
 
-<sup>3</sup> Toute allocation et tout versement de participation financière sont subordonnés à la mise en œuvre d'un Plan Directeur de la Distribution de l'Eau (PDDE).
+<sup>3</sup> Toute allocation et tout versement de participation financière sont subordonnés à la mise en œuvre d'un Plan Directeur de la Distribution de l'Eau (PDDE) et à la mise à jour régulière des données concernant les bornes hydrantes dans la base de données cantonale.
 
 <sup>4</sup> Les données concernant les travaux de remplacement ou d'extension du réseau d'eau doivent être transmises dans un format informatique exploitable pour l'implémentation dans le Système cantonal d'Information des Réseaux d'Eau (SIRE).
 
-[^2-1]: Modif. 1 du 17.12.2025: Modification Al. 1,3; entrée en vigueur au 01.01.2026; Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^2-1]: Modif. 1 du 17.12.2025: Modification Al. 1,3; entrée en vigueur au 01.01.2026
 
 #### Art. 4
 
@@ -91,10 +91,11 @@ arrête
 <sup>1</sup> Peuvent également faire l'objet d'une participation financière :
 
 - a. dans des endroits non équipés de conduites, la construction de réservoirs couverts avec prises directes pour motopompes ;
-- b. dans des endroits non équipés de conduites, des aménagements sur lacs ou cours d'eau tels que barrages, retenues ou estacades permettant de ravitailler en eau les moyens de lutte contre les incendies ;
-- c. les frais d'élaboration d'un PPDE.
+- b. dans des endroits non équipés de conduites, des aménagements sur lacs ou cours d'eau tels que barrages ou retenues permettant de ravitailler en eau les moyens de lutte contre les incendies ;
+- c. les frais d'élaboration d'un PDDE;
+- d. les frais d'élaboration d'une étude régionale.
 
-[^6-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, a-c; entrée en vigueur au 01.01.2026; Introduction Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^6-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, a-c; entrée en vigueur au 01.01.2026; Introduction Al. 1, d; entrée en vigueur au 01.01.2026
 
 #### Art. 8
 
@@ -109,18 +110,23 @@ arrête
 - e. les frais de servitudes constituées sur les terrains ;
 - f. les frais d'installation concernant les concessions d'eau particulières ;
 - g. les installations de traitement de l'eau ;
-- h. les frais de permis de construire, d'enquête et de publication ;
+- h. les frais de permis de construire, de permis de conduite et de fouille, d'avis d'enquête, et de publication ;
 - i. les travaux de révision et d'entretien des réseaux qui n'impliquent pas le remplacement de conduites ;
+- ibis. les éléments provisoires de chantier ;
 - j. les frais de contrôle par les autorités communales ;
+- jbis. les frais de suivi géologique et archéologique ;
 - k. les indemnités pour dégâts aux cultures ;
 - l. les frais d'inauguration ;
+- lbis. les frais de notaire et d'assurances ;
 - m. les taxes et frais d'entrée dans une association tendant à la distribution de l'eau ;
 - n. les parties d'ouvrages dont le dimensionnement n'est pas dicté par les besoins de la défense incendie ;
-- o. toutes les dépenses qui n'auraient pas été faites dans l'intérêt exclusif de l'œuvre elle-même.
+- o. toutes les dépenses qui n'auraient pas été faites dans l'intérêt exclusif de l'œuvre elle-même ;
+- p. les frais de démolition sans réutilisation de l'emprise précédente ;
+- q. les peintures de chaussée, les ensemencements de parcelles.
 
 <sup>2</sup> En outre, aucune participation financière ne peut être attribuée pour le rachat d'installations qui ont fait l'objet antérieurement d'une participation financière par l'ECA.
 
-[^7-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, h-i; entrée en vigueur au 01.01.2026; Introduction Al. 1, ibis; entrée en vigueur au 01.01.2026; Modification Al. 1, j; entrée en vigueur au 01.01.2026; Introduction Al. 1, jbis; entrée en vigueur au 01.01.2026; Modification Al. 1, k-l; entrée en vigueur au 01.01.2026; Introduction Al. 1, lbis; entrée en vigueur au 01.01.2026; Modification Al. 1, m-o; entrée en vigueur au 01.01.2026; Introduction Al. 1, p-q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^7-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, h-i; entrée en vigueur au 01.01.2026; Introduction Al. 1, ibis; entrée en vigueur au 01.01.2026; Modification Al. 1, j; entrée en vigueur au 01.01.2026; Introduction Al. 1, jbis; entrée en vigueur au 01.01.2026; Modification Al. 1, k-l; entrée en vigueur au 01.01.2026; Introduction Al. 1, lbis; entrée en vigueur au 01.01.2026; Modification Al. 1, m-o; entrée en vigueur au 01.01.2026; Introduction Al. 1, p-q; entrée en vigueur au 01.01.2026
 
 #### Art. 9
 
@@ -128,15 +134,17 @@ arrête
 
 <sup>1</sup> Les réseaux d'eau répondant aux conditions fixées par le présent règlement bénéficient :
 
-- 1\. d'un taux variable fixé à l'article 10 pour les réserves incendie de réservoirs, pour les conduites sous pression alimentant des "bornes hydrantes", pour les "bornes hydrantes" et pour la télécommande de vannes d'incendie, y compris les équipements nécessaires à la commande décentralisée depuis le Centre de Traitement des Alarmes (CTA) de l'ECA ;
+- 1\. d'un taux variable fixé à l'article 10 pour les réserves incendie de réservoirs, pour les conduites sous pression alimentant des "bornes hydrantes", pour la télécommande de vannes d'incendie, y compris les équipements nécessaires à la commande décentralisée depuis le Centre de Traitement des Alarmes (CTA) de l'ECA;
 - 2\. d'un taux fixe de 50 % pour le remplacement et les nouvelles "bornes hydrantes" ;
-- 3\. d'un taux fixe de 5 % pour les captages, les pompages, les adductions et leurs installations de télécommande et télémesure, sur le montant des travaux concernant la tranche de débit total d'alimentation (à l'étiage) inférieur à 3 litres/minute, par m<sup>3</sup>de réserve incendie ;
+- 3\. d'un taux fixe de 5 % pour les captages, les pompages, les adductions et leurs installations de télécommande et télémesure, sur le montant des travaux concernant la tranche de débit total d'alimentation (à l'étiage) inférieur à 3 litres/minute, par m3 de réserve incendie ;
 - 4\. d'un taux égal à 50 % du taux fixé à l'article 10 pour les remplacements de conduites sous pression alimentant les "bornes hydrantes" ; à partir d'un calibre de conduites existantes de 125 mm, le remplacement de conduites permettant une augmentation de 50 % du calibre en place bénéficie du taux communal ;
-- 5\. d'un taux fixe de 5 % pour les remplacements des conduites d'adduction, de transport ou de liaison ;
+- 5\. d'un taux fixe de 5 % pour les remplacements des conduites d'adduction ;
 - 6\. d'un taux fixe de 5 % pour les réserves d'alimentation des réservoirs ;
-- 7\. d'un taux fixe de 10 % sur l'ensemble des ouvrages et installations d'un réseau dont les dimensions, nécessitées par les besoins d'alimentation en eau potable de la population, dépassent de manière importante les exigences de la défense incendie ;
-- 8\. d'un taux fixe de 20 % pour les PDDE ;
-- 9\. d'un taux fixe de 20 % pour la création de réservoirs couverts d'au moins 50 m<sup>3</sup>, ainsi que pour les aménagements sur lacs ou cours d'eau tels que barrages, retenues ou estacades.
+- 7\. ...
+- 8\. d'un taux fixe de 40 % pour les PDDE ;
+- 8bis. d'un taux fixe de 50 % pour les études régionales ;
+- 9\. ...
+- 10\. d'un taux fixe de 25 % pour les groupes électrogènes de secours fixes ou mobiles, destinés aux installations d'eau potable.
 
 <sup>2</sup> Les taux mentionnés sous les chiffres 4 et 5 de l'alinéa 1 sont réduits de 50 % si les conduites sont âgées de moins de 40 ans. Toutefois, si la commune démontre l'existence de circonstances particulières justifiant un remplacement prématuré, il peut être renoncé à opérer cette réduction.
 
@@ -144,11 +152,21 @@ arrête
 
 <sup>4</sup> La détermination des capacités hydrauliques des "bornes hydrantes", effectuée dans le cadre d'une campagne de mesures sur l'ensemble du réseau d'eau, ou par zone de pression, ainsi que leur marquage (plaquettes), peut bénéficier d'une participation correspondant à 50 % du montant des mesures. En cas de modification importante sur le réseau impliquant la nécessité de nouvelles mesures, celles-ci peuvent bénéficier des mêmes conditions de participation financière.
 
-[^8-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, 1-6; entrée en vigueur au 01.01.2026; Abrogation Al. 1, 7; entrée en vigueur au 01.01.2026; Modification Al. 1, 8; entrée en vigueur au 01.01.2026; Introduction Al. 1, 8bis; entrée en vigueur au 01.01.2026; Abrogation Al. 1, 9; entrée en vigueur au 01.01.2026; Introduction Al. 1, 10; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^8-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, 1-6; entrée en vigueur au 01.01.2026; Abrogation Al. 1, 7; entrée en vigueur au 01.01.2026; Modification Al. 1, 8; entrée en vigueur au 01.01.2026; Introduction Al. 1, 8bis; entrée en vigueur au 01.01.2026; Abrogation Al. 1, 9; entrée en vigueur au 01.01.2026; Introduction Al. 1, 10; entrée en vigueur au 01.01.2026
+
+#### Art. 9a
+
+**[^9-1]**
+
+<sup>1</sup> Dans les zones non raccordées au réseau d'eau communal ou situées dans des secteurs sous dotés du point de vue hydraulique, des participations financières peuvent être octroyées au taux fixe de 50 % pour la création de réservoirs couverts d'au moins 50 m3, ainsi que pour les aménagements sur lacs ou cours d'eau tels que barrages ou retenues. Le poste incendie et son raccordement pour utilisation directe par le propriétaire en cas de feu dans ces zones est pris en charge à 100%.
+
+<sup>2</sup> La législation sur l'aménagement du territoire et des constructions concernant les zones situées hors zone à bâtir est réservée.
+
+[^9-1]: Modif. 1 du 17.12.2025: Introduction Art. 9a; entrée en vigueur au 01.01.2026
 
 #### Art. 10
 
-**[^9-1]**
+**[^9a-1]**
 
 <sup>1</sup> Les taux variables sont fixés en fonction de la capacité financière des communes et dépendent de la valeur du point d'impôt communal écrêté par habitant au sens de l'article 5 de la loi du 15 juin 2010 sur les péréquations intercommunales[^10-1] (valeur communale) par rapport à la valeur moyenne pour l'ensemble des communes de ce même point selon le tableau suivant :
 
@@ -162,22 +180,22 @@ arrête
 - h. valeur communale entre 120 % et 150 % (exclus) de la valeur moyenne : taux fixé à 15 % ;
 - i. valeur communale égale ou supérieure à 150 % de la valeur moyenne : taux fixé à 10 %.
 
-<sup>2</sup> Dans le cas des associations de communes, c'est la moyenne des points d'impôt communaux écrêtés par habitant qui est utilisée.
+<sup>2</sup> Dans le cas des associations de communes, c'est la moyenne des points d'impôt communaux écrêtés par habitant, majorée de 5%, qui est utilisée.
 
 <sup>3</sup> Les valeurs du point d'impôt déterminantes sont celles de l'année précédant celle où il est statué sur la demande de participation financière.
 
 <sup>4</sup> Dans le cas d'une commune ou d'un service des eaux pour lequel les besoins pour l'alimentation en eau potable de la population dépassent de manière importante les exigences de la défense incendie, un contrat fixant un ou des taux spécifiques peut être conclu entre cette commune ou service des eaux et l'ECA.
 
-[^9-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^9a-1]: Modif. 1 du 17.12.2025: Modification Al. 2; entrée en vigueur au 01.01.2026
 [^10-1]: Loi du 15.06.2010 sur les péréquations intercommunales ([BLV 175.51](https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.51?id=7c48dfd9-956e-4b8c-90e3-eee0f967446c))
 
 #### Art. 11
 
 **[^10-2]**
 
-<sup>1</sup> Les réseaux régionaux intéressant au moins 3 communes peuvent bénéficier d'un taux complémentaire de 5 à 10 %.
+<sup>1</sup> Les réseaux régionaux peuvent bénéficier d'un taux complémentaire de 15%.
 
-[^10-2]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^10-2]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
 
 #### Art. 12
 
@@ -187,20 +205,19 @@ arrête
 
 **[^12-1]**
 
-<sup>1</sup> Les extensions et les remplacements des réseaux à bas débit et les travaux non imposés par des obligations légales bénéficient d'une participation financière réduite de 50 % par rapport aux taux fixés à l'article 9, alinéa 1, chiffres 1 et 4. Il en est de même pour les réseaux dont la rentabilité est favorable.
+<sup>1</sup> Les extensions et les remplacements des réseaux à bas débit et les travaux non imposés par des obligations légales bénéficient d'une participation financière réduite de 50 % par rapport aux taux fixés à l'article 9, alinéa 1, chiffres 1, 2 et 4.
 
-[^12-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^12-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
 
 #### Art. 14
 
 **[^13-1]**
 
-<sup>1</sup> Lorsque les travaux sont en relation avec l'eau de boisson, la participation financière ne peut être payée que s'il est établi que l'eau est potable et que les travaux de captage et d'amenée ont été convenablement exécutés.
+<sup>1</sup> La participation financière ne peut être payée que si les travaux ont été autorisés par le service cantonal en charge du domaine de la distribution de l'eau.
 
-<sup>2</sup> En règle générale, les déterminations du service en charge du domaine de la distribution de l'eau[^14-1] relatives à l'autorisation d'utiliser l'eau valent comme attestation de la réalisation des conditions fixées à l'alinéa 1.
+<sup>2</sup> ...
 
-[^13-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Abrogation Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
-[^14-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^13-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Abrogation Al. 2; entrée en vigueur au 01.01.2026
 
 #### Art. 15
 
@@ -212,9 +229,9 @@ arrête
 
 **[^chapterChapitreIII-1]**
 
-<sup>1</sup> Par systèmes de sécurité incendie, on entend les installations de détection des incendies, les installations d'extinction automatique, les asservissements pilotés par les installations de détection des incendies et les installations d'extinction automatique, les télétransmetteurs, les paratonnerres et les équipements de protection fixes contre les surtensions complétant ces premiers, les murs coupe-feu et rideaux coupe-feu et le matériel de première intervention.
+<sup>1</sup> Par systèmes de sécurité incendie, on entend notamment les installations de détection des incendies, les installations d'extinction automatique, les asservissements pilotés par les installations de détection des incendies et les installations d'extinction automatique, les transmetteurs, les paratonnerres, les équipements de protection fixes contre les surtensions, les murs coupe-feu, le matériel de première intervention, les colonnes montantes et les ascenseurs pompiers.
 
-[^chapterChapitreIII-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^chapterChapitreIII-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
 
 #### Art. 17
 
@@ -223,7 +240,7 @@ arrête
 <sup>1</sup> Les installations imposables ou imposées, en application des dispositions légales, de détection d'incendie et d'extinction automatique assurant une protection totale d'une partie de bâtiment compartimentée coupe-feu ainsi que les paratonnerres bénéficient d'une participation financière, au taux de :
 
 - 1\. 10 % pour les installations de détection des incendies ;
-- 2\. 10 % pour les paratonnerres et les équipements de protection fixes contre les surtensions complétant ces premiers ;
+- 2\. 10 % pour les paratonnerres et les équipements de protection fixes contre les surtensions ;
 - 3\. 15 % pour les installations d'extinction automatique.
 
 <sup>2</sup> Lorsque ces installations sont volontaires, les taux de participation financière sont de :
@@ -232,23 +249,23 @@ arrête
 - 2\. 25 % pour les paratonnerres et les équipements de protection fixes contre les surtensions ;
 - 3\. 35 % pour les installations d'extinction automatique.
 
-[^16-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, 1-3; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^16-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, 1-3; entrée en vigueur au 01.01.2026
 
 #### Art. 18
 
 **[^17-1]**
 
-<sup>1</sup> Les asservissements pilotés uniquement par les installations de détection ou d'extinction (hors parties mécaniques telles que les commandes des portes coupe-feu, des exutoires de fumée, des ventilations, des ascenseurs, …) et les télétransmetteurs (hors frais de location de matériel et d'entretien) peuvent bénéficier d'une participation financière identique à celle définie à l'article 17 pour les installations de détection.
+<sup>1</sup> Les asservissements pilotés par les installations de détection ou d'extinction (hors parties mécaniques telles que les commandes des portes coupe-feu, des exutoires de fumée, des ventilations, des ascenseurs, …) et les transmetteurs (hors frais de location de matériel et d'entretien) peuvent bénéficier d'une participation financière identique à celle définie à l'article 17 pour les installations de détection.
 
-[^17-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^17-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
 
 #### Art. 19
 
 **[^18-1]**
 
-<sup>1</sup> La construction de murs coupe-feu ou de rideaux coupe-feu dans des bâtiments existants peut bénéficier d'une participation financière au taux fixe de 25 %.
+<sup>1</sup> La construction de murs coupe-feu (REI/porteur) dans des bâtiments existants peut bénéficier d'une participation financière au taux fixe de 25%.
 
-[^18-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^18-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
 
 #### Art. 20
 
@@ -256,21 +273,21 @@ arrête
 
 <sup>1</sup> Le matériel de première intervention, imposable ou imposé en application de dispositions légales, bénéficie d'une participation financière au taux de 15 %.
 
-<sup>2</sup> Par matériel de première intervention, on entend les postes à alimentation axiale, les seaux-pompes et les pompes à main.
+<sup>2</sup> Par matériel de première intervention, on entend les postes à alimentation axiale, les colonnes sèches et les ascenseurs pompiers.
 
 <sup>3</sup> Lorsque ces installations sont volontaires, le taux de participation financière est de 35 %.
 
-[^19-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^19-1]: Modif. 1 du 17.12.2025: Modification Al. 2; entrée en vigueur au 01.01.2026
 
 #### Art. 21
 
 **[^20-1]**
 
-<sup>1</sup> Pour pouvoir bénéficier d'une participation financière, les systèmes de sécurité incendie doivent être installés par une entreprise agréée par l'ECA.
+<sup>1</sup> Pour pouvoir bénéficier d'une participation financière, les systèmes de sécurité incendie doivent être installés par une entreprise agréée par l'Association des Etablissements Cantonaux d'Assurance Incendie (AEAI) ou par l'ECA.
 
-<sup>2</sup> Les listes des entreprises agréées sont disponibles auprès de l'ECA.
+<sup>2</sup> Les listes des entreprises agréées sont disponibles auprès de l'AEAI et l'ECA.
 
-[^20-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1-2; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^20-1]: Modif. 1 du 17.12.2025: Modification Al. 1-2; entrée en vigueur au 01.01.2026
 
 #### Art. 22
 
@@ -288,21 +305,23 @@ arrête
 
 **[^sectionSectionI-1]**
 
-<sup>1</sup> Toute demande de participation financière doit être formulée avant l'adjudication des travaux ou l'achat du matériel.
+<sup>1</sup> Toute demande de participation financière doit être formulée avant l'installation des moyens de prévention ou leur mise en service.
 
 <sup>2</sup> L'ECA fixe par écrit les limites financières pour lesquelles il s'engage à allouer une participation financière, ainsi que les conditions de celle-ci.
 
 <sup>3</sup> Sous réserve des actions spéciales mentionnées à l'article 22, il n'est alloué aucune participation financière pour l'acquisition de matériel ou pour des travaux d'un montant inférieur à 100 francs.
 
-[^sectionSectionI-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+[^sectionSectionI-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
 
 #### Art. 24
 
 **[^23-1]**
 
-<sup>1</sup> Les travaux ne doivent être adjugés et les achats effectués qu'après approbation du projet par l'ECA.
+<sup>1</sup> Les travaux ne peuvent en principe débuter qu'après approbation du projet par l'ECA.
 
-[^23-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026
+<sup>2</sup> Si les travaux débutent avant l'approbation du projet par l'ECA, l'ECA se réserve le droit de ne pas octroyer la participation financière.
+
+[^23-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 2; entrée en vigueur au 01.01.2026
 
 #### Art. 25
 
@@ -355,6 +374,14 @@ arrête
 
 <sup>1</sup> Lorsqu'un ouvrage ou du matériel bénéficie de subventions accordées par d'autres instances, la participation financière de l'ECA peut être réduite.
 
+#### Art. 32a
+
+**[^32-1]**
+
+<sup>1</sup> Lorsque les participations financières sont octroyées à une administration communale, le calcul est basé sur le montant HT (à l'exception des sous-entités communales ne bénéficiant pas du remboursement de la TVA).
+
+[^32-1]: Modif. 1 du 17.12.2025: Introduction Art. 32a; entrée en vigueur au 01.01.2026
+
 ### Section II Réseaux d'eau
 
 #### Art. 33
@@ -393,6 +420,6 @@ arrête
 
 **[^38-1]**
 
-<sup>1</sup> Le Département de la sécurité et de l'environnement est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2014.
+<sup>1</sup> Le Département de la jeunesse, de l'environnement et de la sécurité est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2026.
 
-[^38-1]: Modif. 1 du 17.12.2025: Introduction Art. 7, Al. 1, d; entrée en vigueur au 01.01.2026; Introduction Art. 8, Al. 1, ibis,jbis,lbis,p,q; entrée en vigueur au 01.01.2026; Introduction Art. 9, Al. 1, 10,8bis; entrée en vigueur au 01.01.2026; Introduction Art. 9a; entrée en vigueur au 01.01.2026; Introduction Art. 24, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 32a; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026
+[^38-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
