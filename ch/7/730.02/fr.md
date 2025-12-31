@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives �
 short: OEEE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: fr
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20250701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250701/fr"
 
 (Ordonnance sur les exigences relatives à l’efficacité énergétique, OEEE)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2025)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -221,13 +221,9 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 #### Art. 12a
 
-**Part biogène du mélange de carburants composé de gaz naturel et de biogaz**[^12a-1]
+[^12a-1]
 
-<sup>1</sup> Pour les voitures de tourisme, les voitures de livraison et les tracteurs à sellette légers pouvant être propulsés avec ce mélange, les émissions de CO<sub>2</sub> provenant de l’utilisation de la part biogène reconnue du mélange de carburants composé de gaz naturel et de biogaz sont considérées comme sans effet sur le climat.
-
-<sup>2</sup> La part biogène reconnue est de 20 %.
-
-[^12a-1]: Introduit par le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^12a-1]: Introduit par le ch. I de l’O du 23 oct. 2019 ([RO 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Abrogé par le ch. I de l’O du 21 mai 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 #### Art. 13
 
@@ -1606,7 +1602,7 @@ Annexe 3.2[^t-36]
 
 - 3\.1 L’étiquette-énergie doit avoir au minimum 60 mm de largeur et 120 mm de hauteur. Si elle est imprimée dans un format plus grand, les proportions doivent être conservées. L’étiquette-énergie a un fond blanc.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/fr/xml/image/image1.png)
 
 - A) Trait de l’encadré: 3 pt – angles arrondis 2 mm – X-00-00-00
 - B) Logo de la Suisse: 8 mm de large, 8 mm de haut – coins arrondis 2 mm – 00-X-X-00
@@ -1643,7 +1639,7 @@ Annexe 3.2[^t-36]
 - 3\.4 Pour la vente sur Internet, l’étiquette-énergie peut être affichée sous forme imbriquée, auquel cas l’image utilisée pour accéder à l’étiquette-énergie doit être conforme aux spécifications énoncées au ch. 3.5. Elle doit s’afficher en intégralité au premier clic ou au passage de la souris sur l’image du produit.
 - 3\.5 L’image utilisée pour accéder à l’étiquette-énergie en cas d’affichage imbriqué pour la vente sur Internet doit être une flèche de la couleur correspondant à la classe d’efficacité énergétique du produit telle qu’elle figure sur l’étiquette-énergie. La flèche doit indiquer la classe d’efficacité énergétique du produit, en blanc, dans une taille de caractères équivalente à celle du prix, et se présenter dans un des deux formats suivants:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/fr/xml/image/image2.png)
 
 Annexe 4.1[^t-37]
 
@@ -1651,7 +1647,7 @@ Annexe 4.1[^t-37]
 
 ## Indication sur la consommation d’énergie et sur d’autres caractéristiques des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers
 
-[^t-37]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II de l’O du 3 juin 2022 ([RO 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) et le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)).
+[^t-37]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II de l’O du 3 juin 2022 ([RO 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)), le ch. I de l’O du 20 nov. 2024 ([RO 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)) et le ch. II al. 1 de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Dispositions relatives à la consommation d’énergie
 
@@ -1664,7 +1660,7 @@ Annexe 4.1[^t-37]
 ### 2 Dispositions relatives aux émissions de CO<sub>2</sub>
 
 - 2\.1 Les émissions de CO<sub>2</sub> sont mesurées conformément à l’art. 97, al. 5, OETV et indiquées en grammes par kilomètre.
-- 2\.2 Pour les voitures de tourisme, les voitures de livraison et les tracteurs à sellette légers qui peuvent être propulsés à l’aide d’un mélange de carburants composé de gaz naturel et de biogaz, il convient d’indiquer l’ensemble des émissions de CO<sub>2</sub> ainsi que la part ayant des incidences sur le climat.
+- 2\.2 …
 - 2\.3 Les émissions de CO<sub>2</sub> liées à la fourniture de carburant ou d’électricité sont mesurées sur la base des facteurs déterminés par le DETEC en application de l’art. 12, al. 1, let. c.
 
 ### 3 Classement dans les catégories d’efficacité énergétique
@@ -1719,13 +1715,14 @@ Annexe 4.1[^t-37]
 
 ### 5 Marquage dans la publicité
 
-- 5\.1 Quiconque fait de la publicité pour des voitures de tourisme neuves, des voitures de livraison neuves ou des tracteurs à sellette légers neufs dans des imprimés ou des médias électroniques visuels en indiquant une variante de motorisation, d’autres caractéristiques techniques ou un prix doit indiquer pour les variantes de modèles proposées la consommation d’énergie visée au ch. 1.1 et les émissions de CO<sub>2</sub> visées au ch. 2.1 ou 2.2. Pour les voitures de tourisme, il convient en outre d’indiquer la catégorie d’efficacité énergétique.
+- 5\.1 Quiconque fait de la publicité pour des voitures de tourisme neuves, des voitures de livraison neuves ou des tracteurs à sellette légers neufs dans des imprimés ou des médias électroniques visuels en indiquant une variante de motorisation, d’autres caractéristiques techniques ou un prix doit indiquer pour les variantes de modèles proposées la consommation d’énergie visée au ch. 1.1 et les émissions de CO<sub>2</sub> visées au ch. 2.1. Pour les voitures de tourisme, la catégorie d’efficacité énergétique doit en outre être indiquée.
 - 5\.2 Les indications doivent être bien lisibles et la taille de la police utilisée doit être au moins aussi grande que celle utilisée pour les éventuelles informations techniques et données relatives à l’équipement.
 - 5\.3 La catégorie d’efficacité énergétique de la voiture de tourisme proposée doit en outre être présentée sous forme de graphique. L’échelle des sept catégories d’efficacité énergétique doit ainsi être intégralement présentée, avec une flèche noire pointant en sens inverse au niveau de la catégorie d’efficacité énergétique correspondant au véhicule, avec la lettre de la catégorie en blanc. Il convient d’utiliser les fichiers iconographiques mis à disposition par l’OFEN à l’adresse Internet [www.etiquetteenergie.ch](http://www.etiquetteenergie.ch/). Les dimensions doivent correspondre à l’image présentée à titre d’exemple au ch. 11, elles doivent être au moins de 15 mm de largeur et 20 mm de hauteur et couvrir au moins 1 % de l’ensemble de l’espace publicitaire.
+- 5\.4 Si, à sa taille minimale, la représentation graphique (15 x 20 mm) occupe plus de 5 % de l’espace publicitaire, il est possible de renvoyer aux indications nécessaires et à la représentation graphique à l’aide d’un code QR ou d’une adresse Internet. Les indications et la représentation graphique doivent apparaître directement dès que le code QR est scanné ou que l’adresse Internet indiquée est consultée.
 
 ### 6 Marquage dans les annonces de vente
 
-- 6\.1 Les voitures de tourisme neuves, les voitures de livraison neuves et les tracteurs à sellette légers neufs mis en circulation ou fournis au moyen d’annonces de vente dans des imprimés ou des médias électroniques visuels, doivent porter l’indication de la consommation d’énergie selon le ch. 1.1 et des émissions de CO<sub>2</sub> selon le ch. 2.1 ou 2.2. Pour les voitures de tourisme, il convient également d’indiquer la catégorie d’efficacité énergétique.
+- 6\.1 Les voitures de tourisme neuves, les voitures de livraison neuves et les tracteurs à sellette légers neufs mis en circulation ou fournis au moyen d’annonces de vente dans des imprimés ou des médias électroniques visuels doivent porter l’indication de la consommation d’énergie selon le ch. 1.1 et des émissions de CO<sub>2</sub> selon le ch. 2.1. Pour les voitures de tourisme, la catégorie d’efficacité énergétique doit en outre être indiquée.
 - 6\.2 Les indications doivent être bien lisibles et la taille de la police utilisée doit être au moins aussi grande que celle utilisée pour les éventuelles informations techniques et données relatives à l’équipement.
 - 6\.3 Pour les annonces de vente en ligne, la catégorie d’efficacité énergétique doit en outre être présentée sous forme de graphique, selon le ch. 5.3. La taille doit être choisie de façon à ce que l’échelle soit bien visible et lisible au premier coup d’œil.
 
@@ -1734,7 +1731,7 @@ Annexe 4.1[^t-37]
 - 7\.1 Quiconque met à disposition des listes de prix ou un outil de configuration en ligne pour des voitures de tourisme neuves, des voitures de livraison neuves ou des tracteurs à sellette légers neufs doit marquer les différents véhicules qui y figurent en indiquant la consommation d’énergie visée aux ch. 1.1 et 1.2 et les émissions de CO<sub>2</sub> visées au ch. 2. Pour les voitures de tourisme, la catégorie d’efficacité énergétique, la valeur cible des émissions de CO<sub>2</sub> fixée à l’art. 10, al. 1, let. a, de la loi sur le CO<sub>2</sub> et la moyenne des émissions de CO<sub>2</sub> visée à l’art. 12, al. 1, let. b, doivent en outre être indiquées.
 - 7\.2 Les indications doivent être bien lisibles et la taille de la police utilisée doit être au moins aussi grande que celle utilisée pour les éventuelles informations techniques et données relatives à l’équipement.
 - 7\.3 Si des prix ou d’autres indications s’appliquent à des versions différentes d’un modèle de véhicule, les indications peuvent être données sous forme de fourchette pour toutes les versions.
-- 7\.4 Pour les outils de configuration en ligne, il convient en outre d’indiquer la catégorie d’efficacité énergétique sous forme de graphique, conformément au ch. 5.3. La taille doit être choisie de façon à ce que l’échelle soit bien visible et lisible au premier coup d’œil. L’ensemble des indications doivent être fournies au plus tard lors de la configuration finale du véhicule.
+- 7\.4 Pour les outils de configuration en ligne, la catégorie d’efficacité énergétique doit être également indiquée sous forme de graphique, conformément au ch. 5.3. La taille doit être choisie de façon à ce que l’échelle soit bien visible et lisible au premier coup d’œil. L’ensemble des indications doit être fourni au plus tard lors de la configuration finale du véhicule.
 
 ### 8 Véhicules fonctionnant avec plusieurs agents énergétiques
 
@@ -1747,11 +1744,11 @@ On entend par types de véhicules actuels au sens du ch. 3.3 pour 2020 les voitu
 
 ### 10 Exemple de présentation d’une étiquette-énergie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/fr/xml/image/image3.png)
 
 ### 11 Exemple de présentation de l’échelle des catégories d’efficacité énergétique
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/fr/xml/image/image4.png)
 
 Annexe 4.2[^t-38]
 

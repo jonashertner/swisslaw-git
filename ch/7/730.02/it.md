@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 concernente le esigenze per l'efficienza
 short: OEEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20250701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250701/it"
 
 (Ordinanza sull’efficienza energetica, OEEne)
 
-del 1° novembre 2017 (Stato 1° luglio 2025)
+del 1° novembre 2017 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -222,13 +222,9 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 #### Art. 12a
 
-**Quota biogena della miscela di gas naturale e biogas**[^12a-1]
+[^12a-1]
 
-<sup>1</sup> Per le automobili, gli autofurgoni e i trattori a sella leggeri che possono essere alimentati con la miscela di gas naturale e biogas, le emissioni di CO<sub>2</sub> provenienti dall’impiego della quota biogena riconosciuta di questa miscela di carburanti sono considerate senza incidenza sul clima.
-
-<sup>2</sup> La quota biogena riconosciuta è pari al 20 per cento.
-
-[^12a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Abrogato dalla cifra I dell’O del 21 mag. 2025, con effetto dal 1° gen. 2026 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 #### Art. 13
 
@@ -1608,7 +1604,7 @@ Allegato 3.2[^t-36]
 
 - 3\.1 L’etichettaEnergia deve essere larga 60 mm e alta 120 mm almeno. Se l’etichettaEnergia è stampata in formato più grande, devono rimanere invariate le proporzioni delle suddette specifiche. Le proporzioni degli elementi grafici devono rimanere invariate. Lo sfondo è bianco.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/it/xml/image/image1.png)
 
 - A) Tratto del bordo: 3 pt – angoli arrotondati 2 mm – X-00-00-00
 - B) Logo CH: larghezza 8 mm, altezza 8 mm – angoli arrotondati: 2 mm – 00-X-X-00
@@ -1646,7 +1642,7 @@ Allegato 3.2[^t-36]
 
 - 3\.5 In caso di visualizzazione annidata l’immagine utilizzata per accedere all’etichettaEnergia è costituita da una freccia nel colore corrispondente alla classe di efficienza energetica del prodotto sull’etichettaEnergia. La freccia riporta la classe di efficienza energetica del prodotto in bianco in caratteri di dimensione equivalente a quella del prezzo e si presenta in uno dei seguenti due formati:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/it/xml/image/image2.png)
 
 Allegato 4.1[^t-37]
 
@@ -1654,7 +1650,7 @@ Allegato 4.1[^t-37]
 
 ## Indicazione del consumo di energia e di altre caratteristiche di automobili, autofurgoni e trattori a sella leggeri
 
-[^t-37]: Nuovo testo giusta la cifra II dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Aggiornato dalla cifra III dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla cifra II dell’O del 3 giu. 2022 ([RU 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)), dall’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)).
+[^t-37]: Nuovo testo giusta la cifra II dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Aggiornato dalla cifra III dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dalla cifra II dell’O del 3 giu. 2022 ([RU 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)), del 20 nov. 2024 ([RU 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)) e del 21 mag. 2025, in vigore dal 1° gen. 2026 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Disposizioni sul consumo di energia
 
@@ -1667,7 +1663,7 @@ Allegato 4.1[^t-37]
 ### 2 Disposizioni sulle emissioni di CO<sub>2</sub>
 
 - 2\.1 Le emissioni di CO<sub>2</sub> si misurano secondo l’articolo 97 capoverso 5 OETV e sono indicate in grammi per chilometro.
-- 2\.2 Per le automobili, gli autofurgoni e i trattori a sella leggeri che possono essere alimentati con la miscela di gas naturale e biogas, devono essere indicate le emissioni di CO<sub>2</sub> complessive e la quota con incidenza sul clima.
+- 2\.2 ...
 - 2\.3 Le emissioni di CO<sub>2</sub> derivanti dalla messa a disposizione di carburanti e di elettricità si calcolano in base ai fattori stabiliti dal DATEC secondo l’articolo 12 capoverso 1 lettera c.
 
 ### 3 Classificazione dei veicoli nelle categorie di efficienza energetica
@@ -1722,13 +1718,14 @@ Allegato 4.1[^t-37]
 
 ### 5 Etichettatura nella pubblicità
 
-- 5\.1 Chi pubblicizza automobili nuove, autofurgoni nuovi o trattori a sella leggeri nuovi negli stampati e nei media elettronici visivi con l’indicazione di una variante di motorizzazione, di altre caratteristiche tecniche o di un prezzo deve riportare per la variante di modello pubblicizzata le indicazioni relative al consumo di energia secondo il numero 1.1 e alle emissioni di CO<sub>2</sub> secondo il numero 2.1 o 2.2. Per le automobili deve inoltre essere indicata la categoria di efficienza energetica.
+- 5\.1 Chi pubblicizza automobili nuove, autofurgoni nuovi e trattori a sella leggeri nuovi negli stampati e nei media elettronici visivi con l’indicazione di una variante di motorizzazione, di altre caratteristiche tecniche o di un prezzo deve riportare per la variante di modello pubblicizzata le indicazioni relative al consumo di energia secondo il numero 1.1 e alle emissioni di CO<sub>2</sub> secondo il numero 2.1. Per le automobili deve inoltre essere indicata la categoria di efficienza energetica.
 - 5\.2 Le indicazioni devono essere riportate in modo ben leggibile e avere perlomeno una grandezza di carattere equivalente a quella di eventuali informazioni tecniche e indicazioni relative all’equipaggiamento.
 - 5\.3 La categoria di efficienza energetica dell’automobile pubblicizzata deve essere inoltre rappresentata in un grafico. Il grafico deve rappresentare la scala a colori con tutte e sette le categorie di efficienza energetica nonché una freccia nera puntata in senso contrario all’altezza della categoria di efficienza energetica del veicolo e recante la corrispondente lettera di colore bianco. Devono essere utilizzati i file di immagini messi a disposizione dall’UFE all’indirizzo www.etichetta-energia.ch. La rappresentazione grafica deve essere conforme all’esempio figurante al numero 11, avere una larghezza e una lunghezza minime rispettivamente di 15 mm e di 20 mm e occupare almeno l’1 per cento dell’intera superficie pubblicitaria.
+- 5\.4 Se la dimensione minima della rappresentazione grafica (15 x 20 mm) occupa più del 5 per cento della superficie pubblicitaria, è possibile rinviare alle indicazioni e al grafico mediante un codice QR o un indirizzo Internet. Le indicazioni e la rappresentazione grafica devono apparire direttamente quando il codice QR viene scansionato o l’indirizzo Internet è consultato.
 
 ### 6 Etichettatura negli annunci di vendita
 
-- 6\.1 Le automobili nuove, gli autofurgoni nuovi o i trattori a sella leggeri nuovi che vengono commercializzati o ceduti mediante annunci di vendita negli stampati e nei media elettronici visivi devono riportare le indicazioni relative al consumo di energia secondo il numero 1.1 e alle emissioni di CO<sub>2</sub> secondo il numero 2.1 o 2.2. Per le automobili deve inoltre essere indicata la categoria di efficienza energetica.
+- 6\.1 Le automobili nuove, gli autofurgoni nuovi o i trattori a sella leggeri nuovi che vengono commercializzati o ceduti mediante annunci di vendita negli stampati e nei media visivi ed elettronici devono riportare le indicazioni relative al consumo di energia secondo il numero 1.1 e alle emissioni di CO<sub>2</sub> secondo il numero 2.1. Per le automobili deve inoltre essere indicata la categoria di efficienza energetica.
 - 6\.2 Le indicazioni devono essere riportate in modo ben leggibile e avere perlomeno una grandezza di carattere equivalente a quella di eventuali informazioni tecniche e indicazioni relative all’equipaggiamento.
 - 6\.3 Per gli annunci di vendita online la categoria di efficienza energetica deve essere rappresentata anche in un grafico secondo il numero 5.3. La grandezza del grafico deve essere scelta in modo tale che la scala sia ben visibile e leggibile anche in caso di rapida occhiata.
 
@@ -1750,11 +1747,11 @@ Per l’anno 2020 si considerano tipi di veicolo attuali ai sensi del numero 3.3
 
 ### 10 Esempio della rappresentazione grafica dell’etichettaEnergia
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/it/xml/image/image3.png)
 
 ### 11 Esempio della rappresentazione grafica della scala relativa alle categorie di efficienza energetica
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/it/xml/image/image4.png)
 
 Allegato 4.2[^t-38]
 

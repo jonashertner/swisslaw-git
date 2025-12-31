@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Anforderungen an die Energieef
 short: EnEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20250701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20250701/de"
 
 (Energieeffizienzverordnung, EnEV)
 
-vom 1. November 2017 (Stand am 1. Juli 2025)
+vom 1. November 2017 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -221,13 +221,9 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 #### Art. 12a
 
-**Biogener Anteil des Treibstoffgemischs aus Erdgas und Biogas**[^12a-1]
+[^12a-1]
 
-<sup>1</sup> Bei Personenwagen, Lieferwagen und leichten Sattelschleppern, die mit dem Treibstoffgemisch aus Erdgas und Biogas betrieben werden können, gelten die CO<sub>2</sub>-Emissionen, die aus der Verwendung des anerkannten biogenen Anteils dieses Treibstoffgemischs stammen, als nicht klimarelevant.
-
-<sup>2</sup> Der anerkannte biogene Anteil beträgt 20 Prozent.
-
-[^12a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)).
+[^12a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Aufgehoben durch Ziff. I der V vom 21. Mai 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 #### Art. 13
 
@@ -1606,7 +1602,7 @@ Anhang 3.2[^t-36]
 
 - 3\.1 Die Energieetikette muss mindestens 60 mm breit und 120 mm hoch sein. Wird die Energieetikette in einem grösseren Format gedruckt, so müssen die Proportionen der Spezifikationen gewahrt bleiben. Die grafischen Elemente werden proportional skaliert. Der Hintergrund ist weiss.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/image/image1.png)
 
 - A) Begrenzungslinie: 3 pt – abgerundete Ecken 2 mm – X-00-00-00
 - B) CH-Logo:Breite 8 mm, Höhe 8 mm – abgerundete Ecken 2 mm – 00‑X-X-00
@@ -1643,7 +1639,7 @@ Anhang 3.2[^t-36]
 - 3\.4 Die Energieetikette kann beim Internetverkauf mit Hilfe einer geschachtelten Anzeige dargestellt werden, wobei das für den Zugang zur Energieetikette verwendete Bild den Vorgaben in Ziffer 3.5 entsprechen muss. Mit dem ersten Mausklick respektive beim Rollover über das Bild muss die ganze Energieetikette erscheinen.
 - 3\.5 Das für den Zugang zur Energieetikette genutzte Bild muss bei der geschachtelten Anzeige beim Internetverkauf ein Pfeil in der Farbe der Energieeffizienzklasse des Produkts auf der Energieetikette sein. Der Pfeil muss die Energieeffizienzklasse des Produkts in Weiss in einer Schriftgrösse, die der des Preises entspricht, enthalten und einem der folgenden zwei Formate entsprechen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/image/image2.png)
 
 Anhang 4.1[^t-37]
 
@@ -1651,7 +1647,7 @@ Anhang 4.1[^t-37]
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften von Personenwagen, Lieferwagen und leichten Sattelschleppern
 
-[^t-37]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), Ziff. II der V vom 3. Juni 2022 ([AS 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) und Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)).
+[^t-37]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), Ziff. II der V vom 3. Juni 2022 ([AS 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)), Ziff. I der V vom 20. Nov. 2024 ([AS 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)) und Ziff. II Abs. 1 der V vom 21. Mai 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Bestimmungen zum Energieverbrauch
 
@@ -1664,7 +1660,7 @@ Anhang 4.1[^t-37]
 ### 2 Bestimmungen zu den CO<sub>2</sub>-Emissionen
 
 - 2\.1 Die CO<sub>2</sub>-Emissionen bemessen sich nach Artikel 97 Absatz 5 VTS und werden in Gramm pro Kilometer angegeben.
-- 2\.2 Bei Personenwagen, Lieferwagen und leichten Sattelschleppern, die mit dem Treibstoffgemisch aus Erdgas und Biogas betrieben werden können, sind die gesamten CO<sub>2</sub>-Emissionen und der klimarelevante Anteil anzugeben.
+- 2\.2 ...
 - 2\.3 Die CO<sub>2</sub>-Emissionen aus der Treibstoff- und der Strombereitstellung berechnen sich gestützt auf die vom UVEK gemäss Artikel 12 Absatz 1 Buchstabe c festgelegten Faktoren.
 
 ### 3 Einteilung in die Energieeffizienz-Kategorien
@@ -1719,13 +1715,14 @@ Anhang 4.1[^t-37]
 
 ### 5 Kennzeichnung in der Werbung
 
-- 5\.1 Wer neue Personenwagen, Lieferwagen oder leichte Sattelschlepper in Druckerzeugnissen und in visuell-elektronischen Medien unter Angabe einer Motorisierungsvariante, weiterer technischer Merkmale oder eines Preises bewirbt, muss die beworbenen Modellvarianten mit den Angaben zum Energieverbrauch gemäss Ziffer 1.1 und zu den CO<sub>2</sub>-Emissionen gemäss Ziffer 2.1 oder 2.2 kennzeichnen. Bei Personenwagen ist zusätzlich die Energieeffizienz-Kategorie anzugeben.
+- 5\.1 Wer neue Personenwagen, Lieferwagen oder leichte Sattelschlepper in Druckerzeugnissen und in visuell-elektronischen Medien unter Angabe einer Motorisierungsvariante, weiterer technischer Merkmale oder eines Preises bewirbt, muss die beworbenen Modellvarianten mit den Angaben zum Energieverbrauch gemäss Ziffer 1.1 und zu den CO<sub>2</sub>-Emissionen gemäss Ziffer 2.1 kennzeichnen. Bei Personenwagen ist zusätzlich die Energieeffizienz-Kategorie anzugeben.
 - 5\.2 Die Angaben müssen gut lesbar dargestellt werden und mindestens dieselbe Schriftgrösse aufweisen, wie sie für allfällige technische Informationen und Angaben zur Ausstattung verwendet wird.
 - 5\.3 Die Energieeffizienz-Kategorie des beworbenen Personenwagens ist zusätzlich grafisch darzustellen. Dabei ist die farbige Skala mit allen sieben Energieeffizienz-Kategorien sowie ein schwarzer Pfeil in entgegengesetzter Richtung auf der Höhe der dem Fahrzeug entsprechenden Energieeffizienz-Kategorie und mit dem entsprechenden Buchstaben in Weiss abzubilden. Es sind die vom BFE auf der Internetadresse: www.energieetikette.ch zur Verfügung gestellten Bilddateien zu verwenden. Die Darstellung hat dem unter Ziffer 11 abgebildeten Beispiel zu entsprechen, mindestens 15 mm breit und 20 mm hoch zu sein und mindestens 1 Prozent der gesamten Werbefläche einzunehmen.
+- 5\.4 Macht die minimale Grösse der grafischen Darstellung (15 x 20 mm) mehr als 5 Prozent der Werbefläche aus, so darf mittels Abbildung eines QR-Codes oder Angabe einer Internetadresse auf die erforderlichen Angaben und die grafische Darstellung verwiesen werden. Die Angaben und die grafische Darstellung müssen direkt erscheinen, wenn der QR-Code gescannt oder die angegebene Internetadresse aufgerufen wird.
 
 ### 6 Kennzeichnung in Verkaufsinseraten
 
-- 6\.1 Neue Personenwagen, Lieferwagen oder leichte Sattelschlepper, die über Verkaufsinserate in Druckerzeugnissen und in visuell-elektronischen Medien in Verkehr gebracht oder abgegeben werden, müssen mit den Angaben zum Energieverbrauch gemäss Ziffer 1.1 und zu den CO<sub>2</sub>-Emissionen gemäss Ziffer 2.1 oder 2.2 gekennzeichnet werden. Bei Personenwagen ist zusätzlich die Energieeffizienz-Kategorie anzugeben.
+- 6\.1 Neue Personenwagen, Lieferwagen oder leichte Sattelschlepper, die über Verkaufsinserate in Druckerzeugnissen und in visuell-elektronischen Medien in Verkehr gebracht oder abgegeben werden, müssen mit den Angaben zum Energieverbrauch gemäss Ziffer 1.1 und zu den CO<sub>2</sub>-Emissionen gemäss Ziffer 2.1 gekennzeichnet werden. Bei Personenwagen ist zusätzlich die Energieeffizienz-Kategorie anzugeben.
 - 6\.2 Die Angaben müssen gut lesbar dargestellt werden und mindestens dieselbe Schriftgrösse aufweisen, wie sie für allfällige technische Informationen und Angaben zur Ausstattung verwendet wird.
 - 6\.3 Bei Online-Verkaufsinseraten ist die Energieeffizienz-Kategorie zusätzlich entsprechend Ziffer 5.3 grafisch darzustellen. Die Grösse ist so zu wählen, dass die Skala auch bei flüchtigem Hinschauen gut sicht- und lesbar ist.
 
@@ -1747,11 +1744,11 @@ Für das Jahr 2020 gelten als aktuelle Fahrzeugtypen im Sinne von Ziffer 3.3 typ
 
 ### 10 Beispiel der Darstellung der Energieetikette
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/image/image3.png)
 
 ### 11 Beispiel der Darstellung der Skala der Energieeffizienz-Kategorien
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20250701/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/image/image4.png)
 
 Anhang 4.2[^t-38]
 
