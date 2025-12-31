@@ -3,18 +3,18 @@ sr: "412.101.222.43"
 title: Verordnung des SBFI vom 4. Oktober 2024 über die berufliche Grundbildung Systemgastronomiepraktikerin EBA / Systemgastronomiepraktiker EBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/579"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2024-10-04
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/579/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-579-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/579/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/579/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2024-579-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/579/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Systemgastronomiepraktikerin EBA / Systemgastronomiepraktiker EBA
 
-vom 4. Oktober 2024 (Stand am 1. Januar 2025)
+vom 4. Oktober 2024 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>79012</td><td>Systemgastronomiepraktikerin EBA / Systemgastronomiepraktiker EBA Employée en restauration de système AFP / Employé en restauration de système AFP Addetta di gastronomia standardizzata CFP / Addetto di gastronomia standardizzata CFP</td></tr>
@@ -26,9 +26,9 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -150,13 +150,14 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>3</sup> Bei der Anzahl Lektionen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>4</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>4</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-2].
 
 <sup>5</sup> Unterrichtssprache ist die Landessprache des Schulorts in ihrer Standardform. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>6</sup> Zweisprachiger Unterricht in der Landessprache des Schulorts und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -321,11 +322,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>4</td><td>Fachgespräch</td><td>20 %</td></tr>
 </table>
 
-- b. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^19-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- b. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^19-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^19-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^19-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^19-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^19-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 20
 
