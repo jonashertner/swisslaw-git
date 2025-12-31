@@ -3,18 +3,18 @@ sr: "412.101.220.80"
 title: "Ordonnance du SEFRI du 1<sup>er</sup> novembre 2013 sur la formation professionnelle initiale dans le champ professionnel «construction de voies de communication» avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/866"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2013-11-01
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/866/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2013-866-20240401-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/866/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/866/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-866-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/866/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale champ professionnel «construction de voies de communication» avec certificat fédéral de capacité (CFC)\*
 
-du 1<sup>er</sup> novembre 2013 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 1<sup>er</sup> novembre 2013 (État le 1<sup>er</sup> janvier 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -32,10 +32,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Nouvelle teneur selon le ch. I 55 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
@@ -182,7 +182,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 55 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -199,8 +199,8 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 1080 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
 <table>
-<tr><td>Enseignement</td><td>1<sup>re</sup> année</td><td>2<sup>e</sup> année</td><td>3<sup>e</sup> année</td><td>Total</td></tr>
-<tr><td>a. Connaissances professionnelles – Organisation du travail et garantie de la sécurité au travail, de la protection de la santé ainsi que de la protection de l’environnement</td><td>40</td><td>20</td><td>20</td><td>[tab] 80</td></tr>
+<tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>3<sup>e</sup> année</th><th>Total</th></tr>
+<tr><td>a. Connaissances professionnelles – Organisation du travail et garantie de la sécurité au travail, de la protection de la santé ainsi que de la protection de l’environnement</td><td>40</td><td>20</td><td>20</td><td>80</td></tr>
 <tr><td>– Exécution de travaux de nature générale dans la construction de voies de communication</td><td>80</td><td>60</td><td>20</td><td>160</td></tr>
 <tr><td>– Domaines de compétences opérationnelles spécifiques à la profession</td><td>80</td><td>120</td><td>160</td><td>360</td></tr>
 <tr><td>Total</td><td>200</td><td>200</td><td>200</td><td>600</td></tr>
@@ -211,7 +211,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légères divergences par rapport au nombre prescrit de périodes d’enseignement par année d’apprentissage au sein d’un domaine de compétences opérationnelles sont possibles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>4</sup> La langue d’enseignement est en règle générale la langue nationale du lieu d’implantation de l’école.
 
@@ -219,7 +219,8 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>6</sup> Les cantons peuvent admettre d’autres langues d’enseignement.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -255,11 +256,11 @@ Les jours et les contenus sont répartis sur 7 à 10 cours comme suit:
 - c. Cours interentreprises spécifiques aux constructeurs de fondations CFC
 
 <table>
-<tr><td colspan="2">Cours</td><td>Domaine de compétences opérationnelles</td><td>Contenu</td><td>AA</td><td>Jours</td></tr>
-<tr><td>CF1</td><td colspan="2">Exécution des travaux de construction de voies ferrées</td><td>– Exécution de forages et de sondages de battage</td><td>1<sup>re</sup></td><td>5</td></tr>
-<tr><td>CF2</td><td colspan="2">Exécution des travaux de fondations</td><td>– Captage et rabattement de nappes phréatiques – Mise en place de blindages et d’étayages de fouilles et exécution de travaux de projection de béton</td><td>2<sup>e</sup></td><td>5</td></tr>
-<tr><td>CF3</td><td colspan="2">Exécution des travaux de fondations</td><td>– Exécution de travaux d’ancrage, de raidissement et d’injection – Exécution de travaux de battage de pieux et de fonçage</td><td>3<sup>e</sup></td><td>5</td></tr>
-<tr><td colspan="4">Total des jours de cours</td><td></td><td>15</td></tr>
+<tr><th>Cours</th><th>Domaine de compétences opérationnelles</th><th>Contenu</th><th>AA</th><th>Jours</th></tr>
+<tr><td>CF1</td><td>Exécution des travaux de construction de voies ferrées</td><td>– Exécution de forages et de sondages de battage</td><td>1<sup>re</sup></td><td>5</td></tr>
+<tr><td>CF2</td><td>Exécution des travaux de fondations</td><td>– Captage et rabattement de nappes phréatiques – Mise en place de blindages et d’étayages de fouilles et exécution de travaux de projection de béton</td><td>2<sup>e</sup></td><td>5</td></tr>
+<tr><td>CF3</td><td>Exécution des travaux de fondations</td><td>– Exécution de travaux d’ancrage, de raidissement et d’injection – Exécution de travaux de battage de pieux et de fonçage</td><td>3<sup>e</sup></td><td>5</td></tr>
+<tr><td colspan="3">Total des jours de cours</td><td></td><td>15</td></tr>
 </table>
 
 - d. Cours interentreprises spécifiques aux constructeurs de sols industriels et de chapes CFC
@@ -447,11 +448,12 @@ Les procédures de qualification visent à démontrer que les compétences opér
 <tr><td>2</td><td>Exécution de travaux spécifiques à la profession</td><td>60 min</td><td>30 min</td><td>70 %</td></tr>
 </table>
 
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
-[^18-1]: RS **412.101.41**
+[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: RS **412.101.41**
 
 #### Art. 19
 
