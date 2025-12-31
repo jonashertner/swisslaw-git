@@ -4,13 +4,12 @@ number: "815.200"
 title: Einführungsgesetz zum Bundesgesetz über die Familienzulagen
 short: "EG Familienzulagengesetz, EG FamZG"
 language: de
-version: 2025-12-01
-valid_until: 2025-12-31
-version_adopted: 2025-04-29
+version: 2026-01-01
+version_adopted: 2025-03-04
 adopted: 2009-03-24
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/815.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3875/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3876/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3875/pdf_file"
 
 (EG Familienzulagengesetz, EG FamZG)
 
-Vom 24.03.2009 (Stand 01.12.2025)
+Vom 24.03.2009 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Die Familienzulagen umfassen Kinder- und Ausbildungszulagen.
 
-<sup>2</sup> Die Höhe der Familienzulagen entspricht dem Mindestansatz des Familienzulagengesetzes.
+<sup>2</sup> Die Höhe der Familienzulagen entspricht dem Mindestansatz des Familienzulagengesetzes zuzüglich Fr. 10.–.
 
 #### § 2
 
@@ -77,7 +76,7 @@ beschliesst:
 
 <sup>1</sup> Eine berufliche und zwischenberufliche Familienausgleichskasse wird vom zuständigen Departement anerkannt, wenn
 
-- a) ihr mindestens acht Arbeitgebende angehören, die insgesamt mindestens 600 Arbeitnehmerinnen und Arbeitnehmer beschäftigen, und
+- a) ihr gesamtschweizerisch mindestens acht Arbeitgebende angehören, die insgesamt mindestens 600 Arbeitnehmerinnen und Arbeitnehmer beschäftigen, und
 - b) die Familienausgleichskasse Gewähr für eine geordnete und gesetzmässige Tätigkeit bietet.
 
 <sup>2</sup> Die Anerkennung wird vom zuständigen Departement entzogen, wenn die Voraussetzungen für die Anerkennung nicht mehr gegeben sind.
@@ -88,7 +87,7 @@ beschliesst:
 
 <sup>1</sup> Die Geschäftsführung der kantonalen Familienausgleichskasse wird der kantonalen Ausgleichskasse der SVA Aargau übertragen.
 
-<sup>2</sup> Der Kanton übernimmt die Defizitgarantie für die durch die kantonale Familienausgleichskasse nach diesem Gesetz auszurichtenden Leistungen.
+<sup>2</sup> …
 
 <sup>3</sup> Der kantonalen Familienausgleichskasse obliegt die Kontrolle über die Kassenzugehörigkeit der einzelnen Arbeitgebenden.
 
@@ -179,6 +178,8 @@ beschliesst:
 <sup>3</sup> Die Aufsicht über die kantonale Familienausgleichskasse und die Berichterstattung richten sich nach dem Gesetz über die SVA Aargau (SVAG) vom 15. März 1994[^18-1].
 
 <sup>4</sup> Familienausgleichskassen und Arbeitgebende haben alle Auskünfte zu erteilen, welche für die Wahrnehmung der Aufsicht erforderlich sind.
+
+<sup>5</sup> Das zuständige Departement veröffentlicht je Familienausgleichskasse jährlich die Leistungskennzahlen. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
 [^18-1]: SAR [831.100](https://gesetzessammlungen.ag.ch/data/831.100/de)
 
