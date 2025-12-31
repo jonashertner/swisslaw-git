@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 réglant les échanges d'importation, de 
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: fr
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/fr"
 
 (OITE-PT)
 
-du 18 novembre 2015 (État le 1<sup>er</sup> juillet 2025)
+du 18 novembre 2015 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,11 +25,11 @@ vu les art. 6, al. 3, 7, al. 1, 9, 14, al. 1, 15*a*, al. 2, et 32, al. 1, de la 
 
 arrête:
 
-[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-5]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-5]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 [^ingress-6]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## Chapitre 1 Dispositions générales
@@ -50,7 +50,7 @@ La présente ordonnance est applicable:
 <sup>3</sup> Elle ne s’applique pas au transit des denrées alimentaires d’origine animale qui sont destinées au ravitaillement à bord d’un avion en trafic international et qui sont gardées à bord du même avion pour un autre vol.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^1-2]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^1-2]: [RS 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
 
 #### Art. 2
 
@@ -73,12 +73,12 @@ Sont réservés, notamment, les actes législatifs suivants:
 - a. l’ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)[^3-5];
 - b. l’ordonnance du 4 septembre 2013 sur la circulation des espèces de faune et de flore protégées[^3-6].
 
-[^3-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [[RO 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116]. Voir actuellement l’O du 27 mai 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
+[^3-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^3-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^3-3]: [[RO 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116]. Voir actuellement l’O du 27 mai 2020 ([RS 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^3-5]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^3-6]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^3-5]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
+[^3-6]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 
 #### Art. 4
 
@@ -122,16 +122,16 @@ Dans la présente ordonnance, on entend par:
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-5]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-7]: Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), JO L 95 du 7.4.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1756, JO L 357 du 8.10.2021, p. 27.
 [^4-8]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-9]: Introduite par le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^4-10]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
-[^4-11]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-11]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-12]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-13]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^4-14]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-14]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-15]: Nouvelle expression selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-16]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-17]: Nouvelle expression selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -245,8 +245,8 @@ L’importateur de la viande de bœuf visée à l’al. 1 et tous les acquéreur
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^9-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^9-4]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^9-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^9-4]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 10
 
@@ -256,7 +256,7 @@ L’importateur de la viande de bœuf visée à l’al. 1 et tous les acquéreur
 
 <sup>2</sup> La déclaration doit figurer dans une langue officielle ou en anglais. La forme de la déclaration doit respecter l’art. 5 OAgrD.
 
-[^10-1]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^10-1]: [RS 916.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10945)
 
 ### Section 1*c* Fourrures et produits de la pelleterie
 
@@ -270,7 +270,7 @@ L’importateur de la viande de bœuf visée à l’al. 1 et tous les acquéreur
 
 La présente section s’applique aux fourrures et aux produits de la pelleterie au sens de l’art. 2 de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures[^10a-1].
 
-[^10a-1]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^10a-1]: [RS 944.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11328)
 
 #### Art. 10b
 
@@ -457,7 +457,7 @@ L’autorisation spécifie:
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^12-2]: Introduit par le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^12-3]: Introduit par le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^12-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^12-4]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^12-5]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 13
@@ -712,12 +712,13 @@ Les documents ci-après doivent pouvoir être présentés jusqu’à ce que le l
 - a. le DSCE sur papier ou sous forme électronique muni d’une signature électronique valable;
 - b. si les lots ne sont introduits que temporairement dans le territoire d’importation ou ne font que transiter vers des États membres de l’UE, l’Islande, la Norvège ou l’Irlande du Nord: des copies certifiées conformes des certificats sanitaires, sur papier, ou l’original sous forme électronique.[^28-1]
 
-<sup>2</sup> Les animaux reproducteurs des espèces bovine, porcine, ovine, caprine et équine doivent être accompagnés en outre d’un certificat d’ascendance conforme aux art. 27 et 28 de l’ordonnance du 31 octobre 2012 sur l’élevage[^28-2].
+<sup>2</sup> Les animaux reproducteurs des espèces bovine, porcine, ovine, caprine et équine doivent être accompagnés en outre d’un certificat d’ascendance conforme aux art. 69 et 70 de l’ordonnance du 29 octobre 2025 sur l’élevage[^28-2].[^28-3]
 
 <sup>3</sup> L’établissement de destination doit conserver les documents mentionnés à l’al. 1 pendant au moins trois ans après l’arrivée du lot.
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^28-2]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^28-2]: [RS 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)
+[^28-3]: Nouvelle teneur selon l’annexe 4 ch. 2 de l’O du 29 oct. 2025 sur l’élevage, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 723](https://fedlex.data.admin.ch/eli/oc/2025/723)).
 
 #### Art. 29
 
@@ -765,8 +766,8 @@ Les établissements de destination qui ont importé des bourdons doivent consign
 
 <sup>5</sup> Les parties et chutes de ladite viande de bœuf qui ne sont pas employées conformément aux al. 3 et 4 du présent article doivent être éliminées comme matières de catégorie 3 au sens de l’OSPA[^30-2].
 
-[^30-1]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
-[^30-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^30-1]: [RS 916.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10945)
+[^30-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 31
 
@@ -775,7 +776,7 @@ Les établissements de destination qui ont importé des bourdons doivent consign
 Le bétail de boucherie ne peut être acheminé que vers un grand établissement au sens de l’art. 3, let. l, de l’ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV)[^31-2].
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^31-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^31-2]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 #### Art. 32
 
@@ -786,7 +787,7 @@ Le gibier à poil non dépouillé et le gibier à plumes non plumé ne peuvent �
 - a. dans l’établissement en fonction des mesures d’autocontrôle applicables;
 - b. par l’autorité cantonale compétente dans le cadre de la surveillance officielle.
 
-[^32-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^32-1]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 ### Section 8 Obligations des personnes concernées
 
@@ -834,7 +835,7 @@ Outre les obligations qui lui incombent en vertu de la présente ordonnance, la 
 <sup>6</sup> Les exigences de la législation sur la protection des animaux concernant les pensions ou refuges, en particulier les art. 101 à 102 OPAn[^35-2], s’appliquent par analogie à la prise en charge des animaux vivants par les agents de manutention.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^35-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^35-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 36
 
@@ -1050,7 +1051,7 @@ Les modèles visés à l’al. 2 ne peuvent être validés qu’aux conditions s
 
 <sup>5</sup> L’autorité cantonale compétente communique à l’OSAV la liste des autorisations délivrées. L’OSAV tient une liste des établissements d’exportation autorisés.
 
-[^51-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^51-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^51-2]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 52
@@ -1076,7 +1077,7 @@ L’OSAV délivre l’autorisation aux conditions suivantes:
 <sup>3</sup> Avant de délivrer l’autorisation, l’OSAV soumet la demande d’autorisation d’exportation au vétérinaire cantonal compétent pour l’entreprise d’élimination qui procéderait à l’élimination dans le cas visé à l’al. 2, let. c.
 
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^52-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^52-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^52-3]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2023/2613, JO L, 2023/2613, 24.11.2023.
 
 #### Art. 52a
@@ -1094,7 +1095,7 @@ Les protéines animales transformées peuvent être exportées sans autorisation
 
 Si le pays de destination exige un contrôle vétérinaire officiel pour l’exportation de dispositifs médicaux au sens de l’art. 2, al. 2, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^53-1], les art. 47 à 51 et 105 de la présente ordonnance s’appliquent.
 
-[^53-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^53-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## Chapitre 5 Contrôles
 
@@ -1446,11 +1447,11 @@ Le Service vétérinaire de frontière confisque:
 <sup>4</sup> L’OSAV élimine les produits animaux confisqués et les animaux péris conformément à l’OSPA[^72-6].
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^72-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^72-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^72-3]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^72-4]: Introduite par le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^72-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^72-6]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^72-5]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^72-6]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 73
 
@@ -1469,7 +1470,7 @@ En cas de possible menace pour la santé animale, il ordonne en particulier:
 <sup>3</sup> En cas de possible menace pour le bien-être animal, il ordonne d’entente avec l’autorité cantonale compétente le séquestre des animaux concernés et leur transfert à cette autorité.
 
 [^73-1]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^73-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^73-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 74
 
@@ -1570,7 +1571,7 @@ Si la vérification des données indique que la libération n’a pas été effe
 
 <sup>3</sup> Les entreprises de restauration communiquent à l’OSAV les filières d’élimination autorisées. Toute modification doit être annoncée sans délai.
 
-[^80-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^80-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 81
 
@@ -1581,7 +1582,7 @@ Si la vérification des données indique que la libération n’a pas été effe
 <sup>2</sup> Si les lots de produits animaux acheminés par lettre ou colis à des particuliers ne remplissent pas les conditions d’importation visées à l’art. 14, le transitaire les transmet au Service vétérinaire de frontière. Celui-ci confisque le lot et organise son élimination conformément à l’OSPA.[^81-3]
 
 [^81-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^81-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^81-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^81-3]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 82
@@ -1632,7 +1633,7 @@ Si l’OFDF constate aux postes de contrôle frontaliers agréés que des animau
 <sup>4</sup> S’il s’agit de produits animaux, l’autorité cantonale compétente ordonne par voie de décision le séquestre, le refoulement, le traitement, la transformation, une autre mesure permettant de corriger la non-conformité ou la confiscation du lot entier. Les art. 70 et 71 s’appliquent par analogie au refoulement, au traitement, à la transformation et aux autres mesures permettant de corriger la non-conformité. Le cas échéant, les contrôles vétérinaires de frontière ultérieurs doivent être discutés au préalable avec le Service vétérinaire de frontière. L’autorité cantonale compétente doit éliminer les lots confisqués conformément aux dispositions de l’OSPA[^84-2] ou en ordonner l’élimination.[^84-3]
 
 [^84-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
-[^84-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^84-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^84-3]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 84a
@@ -1662,7 +1663,7 @@ Si les conditions d’importation prévoient la mise en quarantaine des animaux,
 
 <sup>4</sup> L’OSAV édicte des directives techniques relatives à l’exécution des quarantaines.
 
-[^85-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^85-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^85-2]: Règlement d’exécution (UE) n<sup>o</sup> 139/2013 de la Commission du 7 janvier 2013 fixant les conditions de police sanitaire applicables aux importations de certains oiseaux dans l’Union et les conditions de quarantaine qui leur sont applicables, JO L 47 du 20.2.2013, p. 1
 
 #### Art. 86
@@ -1763,7 +1764,7 @@ S’ils contrôlent les lots ci-après, ils sont responsables de la décision fi
 
 <sup>5</sup> Il organise, à l’intention du Service vétérinaire de frontière, des cours de formation et de perfectionnement portant sur l’exécution des législations sur les épizooties, la protection des animaux, les denrées alimentaires et les douanes.[^93-5]
 
-[^93-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^93-1]: [RS 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 [^93-2]: Règlement délégué (UE) 2019/1081 de la Commission du 8 mars 2019 établissant des règles concernant les exigences spécifiques de formation du personnel aux fins de la réalisation de certains contrôles physiques aux postes de contrôle frontaliers, version du JO L 171 du 26.6.2019, p. 1.
 [^93-3]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^93-4]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
@@ -1789,7 +1790,7 @@ Sur demande, l’OFDF renseigne l’OSAV sur tous les faits importants pour l’
 
 <sup>4</sup> Il fixe les heures d’ouverture des postes de contrôle frontaliers.
 
-[^95-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^95-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 96
 
@@ -2010,7 +2011,7 @@ Les droits des personnes dont les données sont traitées dans les systèmes d�
 - a. la loi fédérale du 25 septembre 2020 sur la protection des données[^102n-1] si les personnes font valoir leurs droits auprès de l’OSAV;
 - b. le droit sur la protection des données du canton concerné si les personnes font valoir leurs droits auprès d’une autorité cantonale d’exécution.
 
-[^102n-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102n-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 102o
 
@@ -2024,7 +2025,7 @@ L’OSAV, les autorités cantonales d’exécution, les importateurs et les expo
 
 Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^102p-1].
 
-[^102p-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^102p-1]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 102q
 
@@ -2036,7 +2037,7 @@ Les mesures pour garantir la sécurité de l’information sont régies par l’
 
 <sup>3</sup> Les données anonymisées peuvent être conservées dans les systèmes d’information au-delà du délai prévu à l’al. 1.
 
-[^102q-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^102q-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Chapitre 8 Émoluments et coûts
 
@@ -2062,7 +2063,7 @@ Sont facturés à l’importateur les émoluments et coûts d’importation ci-a
 
 <sup>4</sup> Les frais de l’hébergement visés par l’art. 24, al. 3, sont facturés à la personne assujettie à l’obligation de déclarer.
 
-[^103-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^103-1]: [RS 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 [^103-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^103-3]: Introduite par le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
@@ -2096,7 +2097,7 @@ Les cantons peuvent percevoir des émoluments sur la base du droit cantonal pour
 
 <sup>3</sup> La procédure des autorités d’exécution cantonales est régie par le droit cantonal de procédure administrative.
 
-[^107-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^107-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^107-2]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 108
@@ -2127,8 +2128,8 @@ Le vétérinaire cantonal ou le chimiste cantonal chargé de prendre des mesures
 
 <sup>4</sup> L’art. 37 LDAl est réservé.[^109-3]
 
-[^109-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^109-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^109-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^109-2]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^109-3]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## Chapitre 10 Dispositions finales

@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. Juli 2025)
+vom 18. November 2015 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,11 +25,11 @@ gestützt auf die Artikel 6 Absatz 3, 7 Absatz 1, 9, 14 Absatz 1, 15*a* Absatz 2
 
 verordnet:
 
-[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-5]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-5]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 [^ingress-6]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -50,7 +50,7 @@ Diese Verordnung gilt für:
 <sup>3</sup> Sie gilt nicht für die Durchfuhr von Lebensmitteln tierischer Herkunft im internationalen Luftverkehr, die für die Bordverpflegung im Flugzeug bestimmt sind und im selben Flugzeug weitertransportiert werden.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^1-2]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^1-2]: [SR 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
 
 #### Art. 2
 
@@ -73,12 +73,12 @@ Vorbehalten bleiben insbesondere die folgenden Erlasse:
 - a. Tierschutzverordnung vom 23. April 2008[^3-5] (TSchV);
 - b. Verordnung vom 4. September 2013[^3-6] über den Verkehr mit Tieren und Pflanzen geschützter Arten.
 
-[^3-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: die V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
+[^3-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^3-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^3-3]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: die V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^3-5]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^3-6]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^3-5]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
+[^3-6]: [SR 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 
 #### Art. 4
 
@@ -122,16 +122,16 @@ In dieser Verordnung bedeuten:
 [^4-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-5]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-5]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^4-6]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-7]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1756, ABl. L 357 vom 8.10.2021, S. 27.
 [^4-8]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-9]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^4-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^4-11]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^4-11]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-12]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-13]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^4-14]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-14]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-15]: Ausdruck gemäss gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^4-16]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
@@ -244,8 +244,8 @@ Der Importeur von Rindfleisch nach Absatz 1 und die nachgelagerten Abnehmer müs
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^9-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^9-4]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^9-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^9-4]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 10
 
@@ -255,7 +255,7 @@ Der Importeur von Rindfleisch nach Absatz 1 und die nachgelagerten Abnehmer müs
 
 <sup>2</sup> Die Deklaration muss in einer Amtssprache oder in Englisch angebracht sein. Die Form der Deklaration muss Artikel 5 LDV entsprechen.
 
-[^10-1]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^10-1]: [SR 916.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10945)
 
 ### 1*c*. Abschnitt: Pelze und Pelzprodukte
 
@@ -269,7 +269,7 @@ Der Importeur von Rindfleisch nach Absatz 1 und die nachgelagerten Abnehmer müs
 
 Dieser Abschnitt gilt für Pelze und Pelzprodukte nach Artikel 2 der Pelzdeklarationsverordnung vom 7. Dezember 2012[^10a-1].
 
-[^10a-1]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^10a-1]: [SR 944.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11328)
 
 #### Art. 10b
 
@@ -322,7 +322,7 @@ Es muss Folgendes enthalten:
 
 <sup>4</sup> Das BLV veröffentlicht das Zertifizierungsprogramm auf seiner Internetseite.
 
-[^10e-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^10e-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 10f
 
@@ -341,7 +341,7 @@ Es anerkennt eine ausländische Zertifizierungsstelle, wenn sie über eine Akkre
 
 <sup>4</sup> Eine Zertifizierungsstelle muss dem BLV unverzüglich melden, wenn sie die Voraussetzungen für die Anerkennung nicht mehr erfüllt.
 
-[^10f-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^10f-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 10g
 
@@ -456,7 +456,7 @@ Mit der Bewilligung wird festgelegt:
 [^12-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^12-2]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^12-3]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^12-4]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^12-4]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^12-5]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 13
@@ -711,12 +711,13 @@ Die folgenden Begleitdokumente müssen bis zum Bestimmungsbetrieb mit der Sendun
 - a. das GGED in Papierform oder in elektronischer Form mit einer gültigen elektronischen Signatur;
 - b. bei Sendungen, die nur vorübergehend in das Einfuhrgebiet verbracht oder nach EU-Mitgliedstaaten, Island oder Norwegen oder nach Nordirland durchgeführt werden: beglaubigte Kopien der Gesundheitsbescheinigungen in Papierform oder das Original in elektronischer Form.[^28-1]
 
-<sup>2</sup> Bei Zuchttieren der Rinder-, Schweine-, Schaf-, Ziegen- und Pferdegattung muss zusätzlich ein Abstammungsausweis nach den Artikeln 27 und 28 der Tierzuchtverordnung vom 31. Oktober 2012[^28-2] mitgeführt werden.
+<sup>2</sup> Bei Zuchttieren der Rinder-, Schweine-, Schaf-, Ziegen- und Pferdegattung muss zusätzlich ein Abstammungsausweis nach den Artikeln 69 und 70 der Tierzuchtverordnung vom 29. Oktober 2025[^28-2] mitgeführt werden.[^28-3]
 
 <sup>3</sup> Die Begleitdokumente nach Absatz 1 sind vom Bestimmungsbetrieb nach Eintreffen der Sendung drei Jahre lang aufzubewahren.
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^28-2]: [SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^28-2]: [SR 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)
+[^28-3]: Fassung gemäss Anhang 4 Ziff. 2 der Tierzuchtverordnung vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 723](https://fedlex.data.admin.ch/eli/oc/2025/723)).
 
 #### Art. 29
 
@@ -764,8 +765,8 @@ Bestimmungsbetriebe, die Hummeln importiert haben, müssen über die Weitergabe 
 
 <sup>5</sup> Teile und Abschnitte des Rindfleischs, die nicht nach den Absätzen 3 und 4 verwendet werden, müssen nach der VTNP[^30-2] als Material der Kategorie 3 entsorgt werden.
 
-[^30-1]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
-[^30-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^30-1]: [SR 916.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10945)
+[^30-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 31
 
@@ -774,7 +775,7 @@ Bestimmungsbetriebe, die Hummeln importiert haben, müssen über die Weitergabe 
 Schlachtvieh darf nur in einen Grossbetrieb nach Artikel 3 Buchstabe l der Verordnung vom 16. Dezember 2016[^31-2] über das Schlachten und die Fleischkontrolle (VSFK) verbracht werden.
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^31-2]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^31-2]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 #### Art. 32
 
@@ -785,7 +786,7 @@ Nicht enthäutetes Haarwild und Wildgeflügel im Gefieder darf nur in einen Schl
 - a. im Betrieb im Rahmen der Selbstkontrolle;
 - b. durch die zuständige kantonale Behörde im Rahmen der amtlichen Überwachung.
 
-[^32-1]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^32-1]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 ### 8. Abschnitt: Pflichten der beteiligten Personen
 
@@ -833,7 +834,7 @@ Die anmeldepflichtige Person muss zusätzlich zu den anderen in dieser Verordnun
 <sup>6</sup> Für Abfertigungsunternehmen, die lebende Tiere abfertigen, gelten die in der Tierschutzgesetzgebung festgelegten Anforderungen an Tierheime, insbesondere die Artikel 101–102 TSchV[^35-2], sinngemäss.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^35-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^35-2]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 36
 
@@ -1048,7 +1049,7 @@ Vorlagen nach Absatz 2 dürfen nur freigegeben werden, wenn:
 
 <sup>5</sup> Die zuständige kantonale Behörde meldet die erteilten Bewilligungen dem BLV. Dieses führt ein Verzeichnis der bewilligten Ausfuhrbetriebe.
 
-[^51-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^51-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^51-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 52
@@ -1074,7 +1075,7 @@ Das BLV erteilt die Bewilligung, wenn:
 <sup>3</sup> Vor der Erteilung der Bewilligung legt das BLV das Ausfuhrgesuch der Kantonstierärztin oder dem Kantonstierarzt vor, die oder der für den Entsorgungsbetrieb zuständig ist, der die Entsorgung nach Absatz 2 Buchstabe c übernehmen würde.
 
 [^52-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^52-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^52-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^52-3]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2023/2613, ABl. L, 2023/2613, 24.11.2023.
 
 #### Art. 52a
@@ -1092,7 +1093,7 @@ Verarbeitetes tierisches Protein darf ohne Bewilligung nach den in Anhang IV Kap
 
 Verlangt der Bestimmungsstaat eine amtstierärztliche Kontrolle im Zusammenhang mit der Ausfuhr von Medizinprodukten im Sinn von Artikel 2 Absatz 2 des Heilmittelgesetzes vom 15. Dezember 2000[^53-1], so gelten die Artikel 47–51 und 105 dieser Verordnung.
 
-[^53-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^53-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## 5. Kapitel: Kontrollen
 
@@ -1443,11 +1444,11 @@ Der grenztierärztliche Dienst zieht ein:
 <sup>4</sup> Eingezogene Tierprodukte und verendete Tiere werden vom BLV nach der VTNP[^72-6] entsorgt.
 
 [^72-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^72-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^72-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^72-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^72-4]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^72-5]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^72-6]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^72-5]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^72-6]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 73
 
@@ -1466,7 +1467,7 @@ Bei einer möglichen Gefährdung der Tiergesundheit ordnet er insbesondere an:
 <sup>3</sup> Bei einer möglichen Gefährdung des Tierwohls ordnet er nach Absprache mit der zuständigen kantonalen Behörde die Beschlagnahme der Tiere und deren Weiterleitung an diese Behörde an.
 
 [^73-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^73-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^73-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 74
 
@@ -1567,7 +1568,7 @@ Ergibt der Datenabgleich, dass keine Freigabe durch den grenztierärztlichen Die
 
 <sup>3</sup> Die Catering-Betriebe teilen dem BLV die bewilligten Entsorgungswege mit. Änderungen sind unverzüglich zu melden.
 
-[^80-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^80-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 81
 
@@ -1577,7 +1578,7 @@ Ergibt der Datenabgleich, dass keine Freigabe durch den grenztierärztlichen Die
 
 <sup>2</sup> Brief- und Paketsendungen von Tierprodukten an Privatpersonen, die den Einfuhrbedingungen nach Artikel 14 nicht entsprechen, leitet das Speditionsunternehmen dem grenztierärztlichen Dienst weiter. Dieser zieht die Sendung ein und führt sie der Entsorgung nach der VTNP zu.[^81-2]
 
-[^81-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^81-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^81-2]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 82
@@ -1628,7 +1629,7 @@ Stellt das BAZG an zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fes
 <sup>4</sup> Bei Tierprodukten verfügt die zuständige kantonale Behörde die Beschlagnahme, die Rückweisung, die Behandlung, die Verarbeitung, eine andere Massnahme zur Beseitigung von Mängeln oder die Einziehung der gesamten Sendung. Für die Rückweisung, die Behandlung, die Verarbeitung und andere Massnahmen zur Beseitigung von Mängeln gelten die Artikel 70 und 71 sinngemäss. Allfällige nachträgliche grenztierärztliche Kontrollen müssen vorgängig mit dem grenztierärztlichen Dienst abgesprochen werden. Eingezogene Sendungen werden von der zuständigen kantonalen Behörde nach der VTNP[^84-2] entsorgt, oder eine solche Entsorgung wird angeordnet.[^84-3]
 
 [^84-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
-[^84-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^84-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^84-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 84a
@@ -1658,7 +1659,7 @@ Ist für Tiere in den Einfuhrbedingungen eine Quarantäne vorgeschrieben, so mus
 
 <sup>4</sup> Das BLV erlässt Weisungen technischer Art zur Durchführung von Quarantänen.
 
-[^85-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^85-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^85-2]: Durchführungsverordnung (EU) Nr. 139/2013 der Kommission vom 7. Januar 2013 zur Festlegung der Veterinärbedingungen für die Einfuhr bestimmter Vogelarten in die Union sowie der dafür geltenden Quarantänebedingungen, Fassung gemäss ABl. L 47 vom 20.2.2013, S. 1.
 
 #### Art. 86
@@ -1759,7 +1760,7 @@ Kontrollieren sie die folgenden Sendungen, so sind sie verantwortlich für den S
 
 <sup>5</sup> Es organisiert für den grenztierärztlichen Dienst Aus- und Weiterbildungskurse über den Vollzug der Tierseuchen-, Tierschutz-, Lebensmittel- und Zollgesetzgebung.[^93-5]
 
-[^93-1]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^93-1]: [SR 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 [^93-2]: Delegierte Verordnung (EU) 2019/1081 der Kommission vom 8. März 2019 mit Vorschriften zu spezifischen Anforderungen an die Schulung des Personals, das bestimmte Warenuntersuchungen an Grenzkontrollstellen durchführt, Fassung gemäss ABl L. 171 vom 26.6.2019, S. 1.
 [^93-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^93-4]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
@@ -1785,7 +1786,7 @@ Das BAZG erteilt dem BLV auf Verlangen Auskunft über alle Tatsachen, die für d
 
 <sup>4</sup> Es legt die Öffnungszeiten der Grenzkontrollstellen fest.
 
-[^95-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^95-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 96
 
@@ -2006,7 +2007,7 @@ Die Rechte der Personen, über die in den Informationssystemen Daten bearbeitet 
 - a. dem Datenschutzgesetz vom 25. September 2020[^102n-1], wenn sie ihre Rechte gegenüber dem BLV geltend machen;
 - b. dem jeweiligen kantonalen Datenschutzrecht, wenn sie ihre Rechte gegenüber einer kantonalen Vollzugsbehörde geltend machen.
 
-[^102n-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102n-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 102o
 
@@ -2020,7 +2021,7 @@ Das BLV, die kantonalen Vollzugsbehörden, die Importeure und die Exporteure sor
 
 Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach der Informationssicherheitsverordnung vom 8. November 2023[^102p-1].
 
-[^102p-1]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^102p-1]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 102q
 
@@ -2032,7 +2033,7 @@ Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach 
 
 <sup>3</sup> Anonymisierte Daten dürfen über die Frist nach Absatz 1 hinaus in den Informationssystemen aufbewahrt werden.
 
-[^102q-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^102q-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 8. Kapitel: Gebühren und Kosten
 
@@ -2058,7 +2059,7 @@ Dem Importeur werden im Zusammenhang mit der Einfuhr folgende Gebühren und Kost
 
 <sup>4</sup> Der anmeldepflichtigen Person werden die Unterbringungskosten nach Artikel 24 Absatz 3 in Rechnung gestellt.
 
-[^103-1]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^103-1]: [SR 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 [^103-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^103-3]: Eingefügt durch Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
@@ -2092,7 +2093,7 @@ Die Kantone können für Dienstleistungen, Kontrollen und Massnahmen zum Vollzug
 
 <sup>3</sup> Das Verfahren der kantonalen Vollzugsbehörden richtet sich nach dem Verfahrensrecht des Kantons.
 
-[^107-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^107-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^107-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 108
@@ -2123,8 +2124,8 @@ Die Kantonstierärztin, der Kantonstierarzt, die Kantonschemikerin oder der Kant
 
 <sup>4</sup> Vorbehalten bleibt Artikel 37 LMG.[^109-3]
 
-[^109-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^109-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^109-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^109-2]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^109-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## 10. Kapitel: Schlussbestimmungen

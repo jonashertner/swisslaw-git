@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20250701/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° luglio 2025)
+del 18 novembre 2015 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,11 +25,11 @@ visti gli articoli 6 capoverso 3, 7 capoverso 1, 9, 14 capoverso 1, 15*a* capove
 
 ordina:
 
-[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-5]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-5]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 [^ingress-6]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## Capitolo 1: Disposizioni generali
@@ -50,7 +50,7 @@ La presente ordinanza si applica:
 <sup>3</sup> Essa non si applica al transito di derrate alimentari di origine animale nel traffico aereo internazionale destinate alla ristorazione di bordo e il cui trasporto prosegue a bordo dello stesso aeromobile.
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^1-2]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^1-2]: [RS 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
 
 #### Art. 2
 
@@ -73,12 +73,12 @@ Sono fatti salvi in particolare i seguenti atti normativi:
 - a. ordinanza del 23 aprile 2008[^3-5] sulla protezione degli animali (OPAn);
 - b. ordinanza del 4 settembre 2013[^3-6] sulla circolazione delle specie di fauna e di flora protette.
 
-[^3-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116.]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
+[^3-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^3-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^3-3]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116.]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)).
 [^3-4]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^3-5]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^3-6]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^3-5]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
+[^3-6]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 
 #### Art. 4
 
@@ -122,16 +122,16 @@ Nella presente ordinanza si intende per:
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-4]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-5]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^4-6]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-7]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2021/1756, GU L 357 dell’8.10.2021, pag. 27.
 [^4-8]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-9]: Introdotta della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^4-10]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-11]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-11]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-12]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^4-13]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^4-14]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-14]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-15]: Nuovo termine giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^4-16]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-17]: Nuova espressione giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)). Di detta mod. é tenuto conto in tutto il presente testo.
@@ -248,8 +248,8 @@ L’importatore di carne bovina di cui al capoverso 1 e tutti gli acquirenti suc
 
 [^9-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^9-2]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^9-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^9-4]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^9-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^9-4]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 10
 
@@ -259,7 +259,7 @@ L’importatore di carne bovina di cui al capoverso 1 e tutti gli acquirenti suc
 
 <sup>2</sup> La dichiarazione deve figurare in una delle lingue ufficiali o in inglese. La forma della dichiarazione deve essere conforme all’articolo 5 ODAgr.
 
-[^10-1]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^10-1]: [RS 916.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10945)
 
 ### Sezione 1*c*: Pellicce e prodotti di pellicceria
 
@@ -273,7 +273,7 @@ L’importatore di carne bovina di cui al capoverso 1 e tutti gli acquirenti suc
 
 La presente sezione si applica alle pellicce e ai prodotti di pellicceria di cui all’articolo 2 dell’ordinanza del 7 dicembre 2012[^10a-1] sulla dichiarazione delle pellicce.
 
-[^10a-1]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^10a-1]: [RS 944.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11328)
 
 #### Art. 10b
 
@@ -460,7 +460,7 @@ Con l’autorizzazione si stabilisce:
 [^12-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^12-2]: Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 [^12-3]: Introdotto della cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^12-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^12-4]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^12-5]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 13
@@ -715,12 +715,13 @@ I seguenti documenti di accompagnamento devono essere acclusi alla partita fino 
 - a. il DSCE in formato cartaceo o in formato elettronico munito di firma elettronica valida;
 - b. in caso di partite introdotte soltanto temporaneamente nel territorio d’importazione oppure fatte transitare verso uno Stato membro dell’UE, l’Islanda o la Norvegia o verso l’Irlanda del Nord: copie autenticate dei certificati sanitari in formato cartaceo o l’originale in formato elettronico.[^28-1]
 
-<sup>2</sup> Gli animali da allevamento della specie bovina, suina, ovina, caprina ed equina devono inoltre essere accompagnati da un certificato di ascendenza secondo gli articoli 27 e 28 dell’ordinanza del 31 ottobre 2012[^28-2] sull’allevamento di animali.
+<sup>2</sup> Gli animali da allevamento delle specie bovina, suina, ovina, caprina ed equina devono inoltre essere accompagnati da un certificato di ascendenza ai sensi degli articoli 69 e 70 dell’ordinanza del 29 ottobre 2025[^28-2] sull’allevamento di animali.[^28-3]
 
 <sup>3</sup> I documenti di accompagnamento di cui al capoverso 1 devono essere conservati dall’azienda di destinazione per tre anni dall’arrivo della partita.
 
 [^28-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^28-2]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^28-2]: [RS 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)
+[^28-3]: Nuovo testo giusta l’all. 4 n. 2 dell’O del 29 ott. 2025 sull’allevamento di animali, in vigore dal 1° gen. 2026 ([RU 2025 723](https://fedlex.data.admin.ch/eli/oc/2025/723)).
 
 #### Art. 29
 
@@ -768,8 +769,8 @@ Le aziende di destinazione che hanno importato bombi devono tenere un registro d
 
 <sup>5</sup> Le parti e le sezioni di carne bovina non utilizzate secondo i capoversi 3 e 4 devono essere eliminate come materiale della categoria 3 conformemente all’OSOAn[^30-2].
 
-[^30-1]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
-[^30-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^30-1]: [RS 916.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10945)
+[^30-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 31
 
@@ -778,7 +779,7 @@ Le aziende di destinazione che hanno importato bombi devono tenere un registro d
 Il bestiame da macello può unicamente essere trasferito in una grande azienda ai sensi dell’articolo 3 lettera l dell’ordinanza del 16 dicembre 2016[^31-2] concernente la macellazione e il controllo delle carni (OMCC).
 
 [^31-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^31-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^31-2]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 #### Art. 32
 
@@ -789,7 +790,7 @@ La selvaggina di pelo con la pelle e la selvaggina di piuma non spennata possono
 - a. in azienda, nel quadro dell’autocontrollo;
 - b. dall’autorità cantonale competente, nel quadro della sorveglianza ufficiale.
 
-[^32-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^32-1]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 ### Sezione 8: Obblighi delle persone interessate
 
@@ -837,7 +838,7 @@ Oltre ad adempiere agli altri obblighi stabiliti nella presente ordinanza, la pe
 <sup>6</sup> Per le imprese che prestano servizi di sdoganamento di animali vivi valgono per analogia i requisiti applicabili alle pensioni per animali fissati nella legislazione sulla protezione degli animali, in particolare gli articoli 101–102 OPAn[^35-2].
 
 [^35-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^35-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^35-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 36
 
@@ -1052,7 +1053,7 @@ I modelli di cui al capoverso 2 possono essere messi a disposizione soltanto se:
 
 <sup>5</sup> L’autorità cantonale competente comunica all’USAV la lista delle autorizzazioni rilasciate. Quest’ultimo tiene un registro delle aziende esportatrici autorizzate.
 
-[^51-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^51-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^51-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 52
@@ -1078,7 +1079,7 @@ L’USAV rilascia l’autorizzazione se:
 <sup>3</sup> Prima di rilasciare l’autorizzazione, l’USAV sottopone la domanda di esportazione al veterinario cantonale competente per lo stabilimento di eliminazione che provvederebbe all’eliminazione secondo il capoverso 2 lettera c.
 
 [^52-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^52-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^52-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^52-3]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2613, GU L, 2023/2613, del 24.11.2023.
 
 #### Art. 52a
@@ -1096,7 +1097,7 @@ Le proteine animali trasformate possono essere esportate, senza autorizzazione, 
 
 Se il Paese di destinazione richiede un controllo veterinario ufficiale per l’esportazione di dispositivi medici ai sensi all’articolo 2 capoverso 2 della legge del 15 dicembre 2000[^53-1] sugli agenti terapeutici, si applicano gli articoli 47–51 e 105 della presente ordinanza.
 
-[^53-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^53-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## Capitolo 5: Controlli
 
@@ -1447,11 +1448,11 @@ Il servizio veterinario di confine confisca:
 <sup>4</sup> I prodotti animali confiscati e gli animali morti vengono eliminati dall’USAV conformemente all’OSOAn[^72-6].
 
 [^72-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^72-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^72-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^72-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^72-4]: Introdotta della cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^72-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^72-6]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^72-5]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^72-6]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 73
 
@@ -1470,7 +1471,7 @@ In caso di possibile minaccia per la salute degli animali, esso dispone in parti
 <sup>3</sup> In caso di possibile minaccia per il benessere degli animali, esso ordina, d’intesa con l’autorità cantonale competente, il sequestro degli animali e il loro trasferimento a tale autorità.
 
 [^73-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^73-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^73-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 74
 
@@ -1571,7 +1572,7 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 <sup>3</sup> Le aziende di catering comunicano all’USAV le modalità di eliminazione autorizzate. Eventuali modifiche vanno notificate senza indugio.
 
-[^80-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^80-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 81
 
@@ -1581,7 +1582,7 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 <sup>2</sup> Se le lettere e i pacchi contenenti prodotti animali destinati a privati non sono conformi alle condizioni d’importazione di cui all’articolo 14, l’impresa di spedizione li trasmette al servizio veterinario di confine. Quest’ultimo confisca la partita e la elimina conformemente all’OSOAn.[^81-2]
 
-[^81-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^81-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^81-2]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
 
 #### Art. 82
@@ -1632,7 +1633,7 @@ Se ai posti di controllo frontalieri autorizzati constata che vi sono animali o 
 <sup>4</sup> Nel caso dei prodotti animali, l’autorità cantonale competente ordina il sequestro, il respingimento, il trattamento, la trasformazione, un’altra misura per eliminare le lacune o la confisca dell’intera partita. Per il respingimento, il trattamento, la trasformazione e altre misure per eliminare le lacune sono applicabili per analogia gli articoli 70 e 71. Eventuali successivi controlli veterinari di confine devono essere preventivamente concordati con il servizio veterinario di confine. La competente autorità cantonale smaltisce le partite confiscate conformemente all’OSOAn[^84-2] o ne ordina tale smaltimento.[^84-3]
 
 [^84-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
-[^84-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^84-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^84-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 84a
@@ -1662,7 +1663,7 @@ Se è prescritta dalle condizioni d’importazione, la quarantena degli animali 
 
 <sup>4</sup> L’USAV emana direttive tecniche relative allo svolgimento delle quarantene.
 
-[^85-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^85-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^85-2]: Regolamento di esecuzione (UE) n. 139/2013 della Commissione, del 7 gennaio 2013, che stabilisce le condizioni di polizia sanitaria per le importazioni nell’Unione di determinati volatili e le relative condizioni di quarantena, versione secondo GU L 47 del 20.2.2013, pag. 1.
 
 #### Art. 86
@@ -1763,7 +1764,7 @@ Se controllano le seguenti partite, sono responsabili della decisione finale:
 
 <sup>5</sup> Organizza per il servizio veterinario di confine corsi di formazione e perfezionamento sull’esecuzione della legislazione in materia di epizoozie, protezione degli animali, derrate alimentari e dogane.[^93-5]
 
-[^93-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^93-1]: [RS 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 [^93-2]: Regolamento delegato (UE) 2019/1081 della Commissione, dell’8 marzo 2019, che stabilisce norme relative a prescrizioni specifiche in materia di formazione del personale ai fini dell’esecuzione di determinati controlli fisici presso i posti di controllo frontalieri, GU L 171 del 26.6.2019, pag. 1.
 [^93-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^93-4]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
@@ -1789,7 +1790,7 @@ Su richiesta, l’UDSC fornisce all’USAV informazioni riguardo a tutti i fatti
 
 <sup>4</sup> L’USAV stabilisce gli orari di apertura dei posti d’ispezione frontalieri.
 
-[^95-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^95-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 96
 
@@ -2010,7 +2011,7 @@ I diritti delle persone i cui dati sono trattati nei sistemi d’informazione, i
 - a. dalla legge federale del 25 settembre 2020[^102n-1] sulla protezione dei dati, se fanno valere i loro diritti nei confronti dell’USAV;
 - b. dalla legislazione cantonale in materia di protezione dei dati del Cantone interessato, se fanno valere i loro diritti nei confronti di un’autorità di esecuzione cantonale.
 
-[^102n-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^102n-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 102o
 
@@ -2024,7 +2025,7 @@ L’USAV, le autorità di esecuzione cantonali, gli importatori e gli esportator
 
 Le misure volte a garantire la sicurezza delle informazioni sono rette dall’ordinanza dell’8 novembre 2023[^102p-1] sulla sicurezza delle informazioni.
 
-[^102p-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^102p-1]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 102q
 
@@ -2036,7 +2037,7 @@ Le misure volte a garantire la sicurezza delle informazioni sono rette dall’or
 
 <sup>3</sup> I dati anonimizzati possono essere conservati nei sistemi d’informazione oltre il termine di cui al capoverso 1.
 
-[^102q-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^102q-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Capitolo 8: Tasse e costi
 
@@ -2062,7 +2063,7 @@ Sono a carico dell’importatore le seguenti tasse e costi relativi alle importa
 
 <sup>4</sup> I costi di custodia di cui all’articolo 24 capoverso 3 vengono fatturati alla persona soggetta all’obbligo di dichiarazione.
 
-[^103-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^103-1]: [RS 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 [^103-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^103-3]: Introdotta della cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
@@ -2096,7 +2097,7 @@ I Cantoni possono riscuotere tasse conformemente al diritto cantonale per presta
 
 <sup>3</sup> La procedura delle autorità cantonali d’esecuzione è disciplinata dal diritto procedurale del rispettivo Cantone.
 
-[^107-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^107-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^107-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 #### Art. 108
@@ -2127,8 +2128,8 @@ Il veterinario cantonale o il chimico cantonale responsabile per la disposizione
 
 <sup>4</sup> È fatto salvo l’articolo 37 LDerr.[^109-3]
 
-[^109-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^109-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^109-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^109-2]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^109-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## Capitolo 10: Disposizioni finali
