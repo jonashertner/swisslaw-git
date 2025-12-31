@@ -4,13 +4,12 @@ number: "775"
 title: Gesetz über den öffentlichen Verkehr
 short: öVG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-06-19
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2009-06-22
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/775"
-pdf: "https://srl.lu.ch/api/de/versions/4333/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4668/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4333/pdf_file"
 
 (öVG)
 
-vom 22.06.2009 (Stand 01.01.2025)
+vom 22.06.2009 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -181,7 +180,7 @@ beschliesst:
 <sup>2</sup> Der Verbundrat nimmt die strategische Führung wahr. Er ist für die dem Verkehrsverbund übertragenen Aufgaben verantwortlich und folglich insbesondere dafür zuständig,
 
 - a. das Reglement für den Verkehrsverbund Luzern zu erlassen,
-- b. die Geschäftsleitung zu wählen,
+- b. die Geschäftsleitung anzustellen,
 - c. die Aufsicht auszuüben,
 - d. die Leistungsvereinbarung mit dem Kanton abzuschliessen,
 - e. den Geschäftsbericht zuhanden des Regierungsrates zu verabschieden,
