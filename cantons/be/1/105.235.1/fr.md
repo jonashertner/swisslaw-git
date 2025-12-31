@@ -3,20 +3,20 @@ canton: BE
 number: "105.235.1"
 title: Arrêté du Conseil-exécutif concernant l’adhésion aux accords d’exécution entre le canton de Berne et la République et Canton du Jura relatifs au transfert de la commune municipale de Moutier dans le canton du Jura
 language: fr
-version: 2025-11-01
-valid_until: 2025-12-31
-version_adopted: 2025-10-22
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-12-10
 adopted: 2024-11-27
 in_force: 2025-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/105.235.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3241/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3296/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Conseil-exécutif concernant l’adhésion aux accords d’exécution entre le canton de Berne et la République et Canton du Jura relatifs au transfert de la commune municipale de Moutier dans le canton du Jura
 
-du 27.11.2024 (état au 01.11.2025)
+du 27.11.2024 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -54,6 +54,20 @@ arrête:
 <tr><td>Accord d'exécution n° 16 concernant le transfert d’archives</td><td>27.08.2025</td><td>01.01.2026</td><td>25-070</td><td>[105.235.1-16](https://www.belex.sites.be.ch/data/105.235.1-16/fr)</td></tr>
 <tr><td>Accord d’exécution n° 17 concernant le domaine de la police</td><td>22.10.2025</td><td>15.11.2025</td><td>25-082</td><td>[105.235.1-17](https://www.belex.sites.be.ch/data/105.235.1-17/fr)</td></tr>
 <tr><td>Accord d’exécution n° 18 concernant l'accueil et l’hébergement des personnes relevant du domaine de l’asile hébergée dans des logements privés à Moutier</td><td>22.10.2025</td><td>01.01.2026</td><td>25-083</td><td>[105.235.1-18](https://www.belex.sites.be.ch/data/105.235.1-18/fr)</td></tr>
+<tr><td>Accord d’exécution n° 19 concernant le partage des biens</td><td>26.11.2025</td><td>01.01.2026</td><td>25-119</td><td>[105.235.1-19](https://www.belex.sites.be.ch/data/105.235.1-19/fr)</td></tr>
+<tr><td>Accord d’exécution n° 20 concernant l’adaptation des flux financiers</td><td>26.11.2025</td><td>01.01.2026</td><td>25-120</td><td>[105.235.1-20](https://www.belex.sites.be.ch/data/105.235.1-20/fr)</td></tr>
+<tr><td>Accord d’exécution n° 21 concernant le domaine des écoles de musique</td><td>26.11.2025</td><td>01.01.2026</td><td>25-121</td><td>[105.235.1-21](https://www.belex.sites.be.ch/data/105.235.1-21/fr)</td></tr>
+<tr><td>Accord d’exécution n° 22 concernant le domaine de la protection de la nature et des forêts</td><td>26.11.2025</td><td>01.01.2026</td><td>25-122</td><td>[105.235.1-22](https://www.belex.sites.be.ch/data/105.235.1-22/fr)</td></tr>
+<tr><td>Accord d’exécution n° 23 concernant la modification des décisions et jugements de droit public entrés en force</td><td>26.11.2025</td><td>01.01.2026</td><td>25-123</td><td>[105.235.1-23](https://www.belex.sites.be.ch/data/105.235.1-23/fr)</td></tr>
+<tr><td>Accord d’exécution n° 24 concernant les domaines du registre foncier et du droit notarial</td><td>03.12.2025</td><td>01.01.2026</td><td>25-125</td><td>[105.235.1-24](https://www.belex.sites.be.ch/data/105.235.1-24/fr)</td></tr>
+<tr><td>Accord d’exécution n° 25 concernant le domaine du sauvetage</td><td>03.12.2025</td><td>01.01.2026</td><td>25-126</td><td>[105.235.1-25](https://www.belex.sites.be.ch/data/105.235.1-25/fr)</td></tr>
+<tr><td>Accord d’exécution n° 26 concernant la formation des personnels médical et soignant</td><td>03.12.2025</td><td>01.01.2026</td><td>25-127</td><td>[105.235.1-26](https://www.belex.sites.be.ch/data/105.235.1-26/fr)</td></tr>
+<tr><td>Accord d’exécution n° 27 concernant le domaine agricole</td><td>03.12.2025</td><td>01.01.2026</td><td>25-128</td><td>[105.235.1-27](https://www.belex.sites.be.ch/data/105.235.1-27/fr)</td></tr>
+<tr><td>Accord d’exécution n° 28 concernant les procédures pendantes devant les autorités judiciaires</td><td>03.12.2025</td><td>01.01.2026</td><td>25-129</td><td>[105.235.1-28](https://www.belex.sites.be.ch/data/105.235.1-28/fr)</td></tr>
+<tr><td>Accord d’exécution n° 29 concernant le domaine des affaires sociales</td><td>03.12.2025</td><td>01.01.2026</td><td>25-130</td><td>[105.235.1-29](https://www.belex.sites.be.ch/data/105.235.1-29/fr)</td></tr>
+<tr><td>Accord d’exécution n° 30 concernant le traitement des procédures de poursuite pour dettes et de faillite pendantes</td><td>10.12.2025</td><td>01.01.2026</td><td>25-132</td><td>[105.235.1-30](https://www.belex.sites.be.ch/data/105.235.1-30/fr)</td></tr>
+<tr><td>Accord d’exécution n° 31 concernant les procédures pénales se trouvant au stade de la procédure préliminaire</td><td>10.12.2025</td><td>01.01.2026</td><td>25-133</td><td>[105.235.1-31](https://www.belex.sites.be.ch/data/105.235.1-31/fr)</td></tr>
+<tr><td>Accord d’exécution n° 32 concernant le domaine de la santé</td><td>10.12.2025</td><td>01.01.2026</td><td>25-134</td><td>[105.235.1-32](https://www.belex.sites.be.ch/data/105.235.1-32/fr)</td></tr>
 </table>
 
 #### Art. 2

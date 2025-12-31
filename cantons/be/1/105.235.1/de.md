@@ -3,20 +3,20 @@ canton: BE
 number: "105.235.1"
 title: Regierungsratsbeschluss über den Beitritt zu den Vollzugsvereinbarungen zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Wechsel der Einwohnergemeinde Moutier zum Kanton Jura
 language: de
-version: 2025-11-01
-valid_until: 2025-12-31
-version_adopted: 2025-10-22
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-12-10
 adopted: 2024-11-27
 in_force: 2025-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/105.235.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3241/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über den Beitritt zu den Vollzugsvereinbarungen zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Wechsel der Einwohnergemeinde Moutier zum Kanton Jura
 
-vom 27.11.2024 (Stand 01.11.2025)
+vom 27.11.2024 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -54,6 +54,20 @@ beschliesst:
 <tr><td>Vollzugsvereinbarung Nr. 16 betreffend die Übertragung von Archiven</td><td>27.08.2025</td><td>01.01.2026</td><td>25-070</td><td>[105.235.1-16](https://www.belex.sites.be.ch/data/105.235.1-16/de)</td></tr>
 <tr><td>Vollzugsvereinbarung Nr. 17 betreffend den polizeilichen Bereich</td><td>22.10.2025</td><td>15.11.2025</td><td>25-082</td><td>[105.235.1-17](https://www.belex.sites.be.ch/data/105.235.1-17/de)</td></tr>
 <tr><td>Vollzugsvereinbarung Nr. 18 betreffend die Aufnahme und Unterbringung von Personen aus dem Asylbereich, die in Privatunterkünften in Moutier untergebracht sind</td><td>22.10.2025</td><td>01.01.2026</td><td>25-083</td><td>[105.235.1-18](https://www.belex.sites.be.ch/data/105.235.1-18/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 19 betreffend die Vermögensausscheidung</td><td>26.11.2025</td><td>01.01.2026</td><td>25-119</td><td>[105.235.1-19](https://www.belex.sites.be.ch/data/105.235.1-19/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 20 betreffend die Anpassung der Finanzflüsse</td><td>26.11.2025</td><td>01.01.2026</td><td>25-120</td><td>[105.235.1-20](https://www.belex.sites.be.ch/data/105.235.1-20/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 21 betreffend den Bereich der Musikschulen</td><td>26.11.2025</td><td>01.01.2026</td><td>25-121</td><td>[105.235.1-21](https://www.belex.sites.be.ch/data/105.235.1-21/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 22 betreffend den Bereich Natur- und Waldschutz</td><td>26.11.2025</td><td>01.01.2026</td><td>25-122</td><td>[105.235.1-22](https://www.belex.sites.be.ch/data/105.235.1-22/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 23 betreffend die Änderung von rechtskräftigen öffentlich-rechtlichen Entscheiden und Urteilen</td><td>26.11.2025</td><td>01.01.2026</td><td>25-123</td><td>[105.235.1-23](https://www.belex.sites.be.ch/data/105.235.1-23/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 24 betreffend die Bereiche des Grundbuchs und des Notariatsrechts</td><td>03.12.2025</td><td>01.01.2026</td><td>25-125</td><td>[105.235.1-24](https://www.belex.sites.be.ch/data/105.235.1-24/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 25 betreffend das Rettungswesen</td><td>03.12.2025</td><td>01.01.2026</td><td>25-126</td><td>[105.235.1-25](https://www.belex.sites.be.ch/data/105.235.1-25/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 26 betreffend die Ausbildung von medizinischem und Pflegepersonal</td><td>03.12.2025</td><td>01.01.2026</td><td>25-127</td><td>[105.235.1-26](https://www.belex.sites.be.ch/data/105.235.1-26/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 27 betreffend die Landwirtschaft</td><td>03.12.2025</td><td>01.01.2026</td><td>25-128</td><td>[105.235.1-27](https://www.belex.sites.be.ch/data/105.235.1-27/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 28 betreffend die vor Gerichtsbehörden hängigen Verfahren</td><td>03.12.2025</td><td>01.01.2026</td><td>25-129</td><td>[105.235.1-28](https://www.belex.sites.be.ch/data/105.235.1-28/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 29 betreffend den Bereich des Sozialwesens</td><td>03.12.2025</td><td>01.01.2026</td><td>25-130</td><td>[105.235.1-29](https://www.belex.sites.be.ch/data/105.235.1-29/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 30 betreffend die Behandlung hängiger Schuldbetreibungs- und Konkursverfahren</td><td>10.12.2025</td><td>01.01.2026</td><td>25-132</td><td>[105.235.1-30](https://www.belex.sites.be.ch/data/105.235.1-30/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 31 betreffend Strafverfahren in der Phase des Vorverfahrens</td><td>10.12.2025</td><td>01.01.2026</td><td>25-133</td><td>[105.235.1-31](https://www.belex.sites.be.ch/data/105.235.1-31/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 32 betreffend den Gesundheitsbereich</td><td>10.12.2025</td><td>01.01.2026</td><td>25-134</td><td>[105.235.1-32](https://www.belex.sites.be.ch/data/105.235.1-32/de)</td></tr>
 </table>
 
 #### Art. 2
