@@ -4,13 +4,12 @@ number: "213.410"
 title: Ausführungsbestimmungen über das Grundbuch
 short: AB GB
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-11-30
+version: 2026-01-01
+version_adopted: 2025-11-04
 adopted: 2017-03-14
 in_force: 2017-06-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/213.410"
-pdf: "http://gdb.ow.ch/api/de/versions/1672/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1952/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1672/pdf_file"
 
 (AB GB)
 
-vom 14.03.2017 (Stand 01.01.2022)
+vom 14.03.2017 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -135,7 +134,7 @@ beschliesst:
 
 **b. Kosten**
 
-<sup>1</sup> Die Veröffentlichung des Erwerbs von Grundstücken im Amtsblatt ist gebührenpflichtig. Die Gebühr beträgt pauschal Fr. 40.– pro Handänderung.
+<sup>1</sup> Die Veröffentlichung des Erwerbs von Grundstücken im Amtsblatt ist gebührenpflichtig. Die Gebühr beträgt pauschal Fr. 30.– pro Handänderung.
 
 <sup>2</sup> Das Grundbuchamt stellt die Gebühr gemäss der Verordnung über die Grundbuchgebühren[^13-1] als Auslage in Rechnung. Sie rechnet mit dem Amtsblatt quartalsweise ab.
 
@@ -217,6 +216,8 @@ Aufgehobene Erlasse:
 
 Geändert durch:
 
-\- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 45)
+\- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 45),
+
+\- AB zum Publikationsgesetz vom 4. November 2025, in Kraftr seit 1. Januar 2026 (OGS 2025, 28)
 
 OGS 2017, 28
