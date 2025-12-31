@@ -4,7 +4,7 @@ number: "810.01"
 title: "LOI du 05.12.1978 sur la planification et le financement des établissements sanitaires d'intérêt public (LPFES)"
 short: LPFES
 language: fr
-version: 2025-09-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74"
 ---
 
@@ -312,7 +312,7 @@ décrète
 <sup>1</sup> Le Grand Conseil se prononce sur la planification et le financement du réseau des établissements sanitaires d'intérêt public :
 
 - a. en accordant, par voie de décret, les crédits d'ouvrage ou la garantie de l'Etat pour les investissements des établissements sanitaires cantonaux et des établissements sanitaires constitués en institution de droit public, dans les limites prévues par les dispositions légales régissant ces établissements ;
-- b. en déterminant chaque année, par voie de décret, le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par des établissements sanitaires privés reconnus d'intérêt public afin de financer leurs investissements, le total des engagements de l'Etat sous cette forme ne pouvant dépasser 1 milliard et 60 millions de francs pour les EMS, et 540 millions de francs pour les hôpitaux.
+- b. en déterminant chaque année, par voie de décret, le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par des établissements sanitaires privés reconnus d'intérêt public afin de financer leurs investissements, le total des engagements de l'Etat sous cette forme ne pouvant dépasser 1 milliard et 350 millions de francs pour les EMS, et 540 millions de francs pour les hôpitaux.
 - c. ...
 - d. en accordant, par la voie du budget ordinaire, les moyens destinés à financer la participation de l'Etat aux dépenses d'exploitation et d'investissement des établissements sanitaires d'intérêt public conformément à la présente loi et aux dispositions fédérales applicables, cette participation s'étendant au financement des prestations d'intérêt général des hôpitaux ;
 - e. ...
