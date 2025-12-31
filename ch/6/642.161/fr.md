@@ -4,11 +4,11 @@ title: "Ordonnance du 22 décembre 2023 sur l’imposition minimale des grands g
 short: OIMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/841"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2023-12-22
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-841-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-841-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20250101/fr"
 
 (Ordonnance sur l’imposition minimale, OIMin)
 
-du 22 décembre 2023 (État le 1<sup>er</sup> janvier 2025)
+du 22 décembre 2023 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 197, ch. 15, de la Constitution[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 ## Chapitre 1 Dispositions générales
 
@@ -33,30 +33,52 @@ arrête:
 
 **Objet et champ d’application**
 
+<sup>1</sup>
+
 La présente ordonnance régit l’imposition minimale des grands groupes d’entreprises multinationaux par l’application d’un impôt complémentaire calculé sur les bénéfices de leurs entités constitutives:
 
 - a. rattachées fiscalement à la Suisse (impôt complémentaire suisse);
 - b. non rattachées fiscalement à la Suisse (impôt complémentaire international).
 
+<sup>2</sup>
+
+Elle régit notamment:
+
+- a. la mise en œuvre des règles types visant à lutter à l’échelle mondiale contre l’érosion de la base d’imposition et le transfert de bénéfice (règles types GloBE; *Global Anti-Base Erosion Model Rules [Pillar Two]*)[^1-1], approuvées le 14 décembre 2021 par le Cadre inclusif sur le BEPS (*Base Erosion and Profit Shifting*) de l’Organisation de coopération et de développement économiques (OCDE) et du G20;
+- b. l’échange automatique des déclarations visant à faciliter la mise en œuvre des règles types GloBE (déclarations d’information GloBE; *GloBE Information Returns*, GIR) entre la Suisse et ses États partenaires.[^1-2]
+
+[^1-1]: Les règles types GloBE peuvent être consultées gratuitement sous: [www.oecd.org/fr/ topics/sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html](https://www.oecd.org/fr/topics/sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html).
+[^1-2]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
 #### Art. 2
 
-**Droit applicable**
+**Droit applicable**[^2-1]
 
-<sup>1</sup> Les règles types visant à lutter à l’échelle mondiale contre l’érosion de la base d’imposition et le transfert de bénéfice (règles types GloBE; *Global Anti-Base Erosion Model Rules [Pillar Two]*)[^2-1], approuvées le 14 décembre 2021 par le Cadre inclusif sur le BEPS (*Base Erosion and Profit Shifting*) de l’Organisation de coopération et de développement économiques et du G20, sont applicables directement à l’impôt complémentaire international et, par analogie, à l’impôt complémentaire suisse, sous réserve de l’al. 2.
+<sup>1</sup> Les règles types GloBE sont applicables directement à l’impôt complémentaire international et, par analogie, à l’impôt complémentaire suisse, sous réserve de l’al. 2.
 
 <sup>2</sup>
 
 Ne sont pas applicables:
 
 - a. l’art. 9.3.5 des règles types GloBE;
-- b. pour l’impôt complémentaire suisse, les art. 4.3.2, let. a et c à e, et 6.4 des règles types GloBE.
+- b. pour l’impôt complémentaire suisse, l’art. 6.4 des règles types GloBE.
 
-<sup>3</sup> L’interprétation des règles types GloBE se fonde en particulier sur le commentaire y afférent[^2-2] et sur les réglementations pertinentes de l’Organisation de coopération et de développement économiques et des États du G20.
+<sup>3</sup> L’interprétation des règles types GloBE se fonde en particulier sur les commentaires y afférents[^2-2] et sur les réglementations pertinentes adoptées par le Cadre inclusif sur le BEPS de l’OCDE et du G20.
 
 <sup>4</sup> Dans le cadre de l’application des règles types GloBE, la Suisse est réputée juridiction de mise en œuvre (*implementing jurisdiction*) au sens des règles types GloBE.
 
-[^2-1]: Les règles types GloBE peuvent être consultées gratuitement sous: [www.oecd.org](https://www.oecd.org/tax/beps/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-base-erosion-model-rules-pillar-two.htm) &gt; Topics &gt; Tax &gt; Base erosion and profit shifting &gt; BEPS Actions &gt; Tax Challenges Arising from the Digitalisation of the Economy &gt; December 2021: Global Anti-Base Erosion Model (GloBE) Rules – Pillar Two.
-[^2-2]: Le commentaire peut être consulté gratuitement sous: [www.oecd.org](https://www.oecd.org/tax/beps/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-base-erosion-model-rules-pillar-two.htm) &gt; Topics &gt; Tax &gt; Base erosion and profit shifting &gt; BEPS Actions &gt; Tax Challenges Arising from the Digitalisation of the Economy &gt; Mars 2022: Commentary to the Global Anti-Base Erosion Model (GloBE) Rules – Pillar Two (disponible en anglais uniquement).
+<sup>5</sup>
+
+L’échange automatique des GIR entre la Suisse et un État partenaire s’effectue conformément à:
+
+- a. l’Accord multilatéral du 28 août 2025 entre autorités compétentes portant sur l’échange de la Déclaration d’information Global Anti-Base Erosion (accord GloBE)[^2-3];
+- b. d’autres traités internationaux qui prévoient un échange automatique des déclarations pays par pays.
+
+<sup>6</sup> Les dispositions dérogatoires du traité applicable en l’espèce sont réservées.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^2-2]: Les commentaires peut être consulté gratuitement sous: [www.oecd.org/fr/topics/ sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html](https://www.oecd.org/fr/topics/sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html).
+[^2-3]: [RS 0.653.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40372)
 
 #### Art. 3
 
@@ -64,9 +86,10 @@ Ne sont pas applicables:
 
 <sup>1</sup> Par entités constitutives, on entend les *constituent entities* visées à l’art. 1.3 des règles types GloBE.
 
-<sup>2</sup> Les art. 105, al. 3, et 106 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^3-1] concernant la compétence territoriale s’appliquent par analogie au rattachement fiscal des entités constitutives à un canton. En dérogation aux art. 105, al. 3, et 106 LIFD, les rapports en place au début de l’année fiscale au sens de l’art. 10.1 des règles types GloBE sont déterminants.
+<sup>2</sup> Les art. 105, al. 3, et 106 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^3-1] concernant la compétence territoriale s’appliquent par analogie au rattachement fiscal des entités constitutives à un canton. En dérogation aux art. 105, al. 3, et 106 LIFD, les rapports en place au début de l’année fiscale au sens de l’art. 10.1 des règles types GloBE sont déterminants. Pour les entités constitutives créées après le début de l*’*année fiscale, les rapports en place au moment de la création de l*’*entité sont déterminants.[^3-2]
 
-[^3-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^3-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 #### Art. 4
 
@@ -83,31 +106,36 @@ Sont considérées comme des groupes d’entreprises distincts aux fins de l’i
 
 #### Art. 5
 
-<sup>1</sup> Une entité constitutive rattachée fiscalement à la Suisse qui, conformément aux dispositions des art. 2.1 à 2.3 des règles types GloBE, est assujettie à l’impôt complémentaire international en vertu de la règle d’inclusion du revenu (*Income Inclusion Rule*, IIR) est également assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de la règle relative aux bénéfices insuffisamment imposés (UTPR).
+<sup>1</sup> L’assujettissement à l’impôt complémentaire international en vertu de la règle d’inclusion du revenu (*Income Inclusion Rule*, IIR) est déterminé d’après les art. 2.1 à 2.3 des règles types GloBE. En dérogation à l’art. 2.1 des règles types GloBE, l’entité constitutive est assujettie indépendamment de la question de savoir si, dans l’année fiscale, elle a détenu ou non dans d’autres juridictions fiscales des participations dans une entité constitutive faiblement imposée.[^5-1]
 
-<sup>2</sup> Si aucune entité constitutive n’est assujettie à l’impôt complémentaire international en vertu de l’IIR en Suisse, l’entité constitutive présentant le bilan moyen le plus élevé au vu des trois derniers comptes annuels en application de l’art. 125, al. 2, let. a, LIFD[^5-1], en ne tenant pas compte de ses participations, est assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de l’UTPR. Cette entité constitutive reste assujettie à l’impôt complémentaire pendant trois années fiscales au sens de l’art. 10.1 des règles types GloBE.[^5-2]
+<sup>1bis</sup> L’entité constitutive rattachée fiscalement à la Suisse qui est assujettie à l’impôt complémentaire international en vertu de l’IIR est également assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de la règle relative aux bénéfices insuffisamment imposés (UTPR).[^5-2]
 
-<sup>3</sup> Si plusieurs entités constitutives sont assujetties à l’impôt complémentaire international en vertu de l’IIR en Suisse, celle d’entre elles présentant le bilan moyen le plus élevé au vu des trois derniers comptes annuels en application de l’art. 125, al. 2, let. a, LIFD, en ne tenant pas compte de ses participations, est assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de l’UTPR. Cette entité constitutive reste assujettie à l’impôt complémentaire pendant trois années fiscales au sens de l’art. 10.1 des règles types GloBE.[^5-3]
+<sup>2</sup> Si aucune entité constitutive n’est assujettie à l’impôt complémentaire international en vertu de l’IIR en Suisse, l’entité constitutive présentant le bilan moyen le plus élevé au vu des trois derniers comptes annuels en application de l’art. 125, al. 2, let. a, LIFD[^5-3], en ne tenant pas compte de ses participations, est assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de l’UTPR. Cette entité constitutive reste assujettie à l’impôt complémentaire pendant trois années fiscales au sens de l’art. 10.1 des règles types GloBE.[^5-4]
 
-<sup>4</sup> Dans le cas d’une coentreprise ou d’une entité constitutive à détention minoritaire au sens de l’art. 4, c’est son entité constitutive la plus élevée rattachée fiscalement à la Suisse qui est assujettie à l’impôt complémentaire suisse. Si aucune entité constitutive rattachée fiscalement à la Suisse ne peut être considérée comme la plus élevée, l’assujettissement à l’impôt complémentaire est régi par l’al. 2.[^5-4]
+<sup>3</sup> Si plusieurs entités constitutives sont assujetties à l’impôt complémentaire international en vertu de l’IIR en Suisse, l’entité constitutive qui n’est pas une société mère partiellement détenue et qui présente le bilan moyen le plus élevé au vu des trois derniers comptes annuels en application de l’art. 125, al. 2, let. a, LIFD[^5-5], en ne tenant pas compte de ses participations, est assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de l’UTPR. Cette entité constitutive reste assujettie à l’impôt complémentaire pendant trois années fiscales au sens de l’art. 10.1 des règles types GloBE.[^5-6]
+
+<sup>4</sup> Dans le cas d’une coentreprise ou d’une entité constitutive à détention minoritaire au sens de l’art. 4, c’est son entité constitutive la plus élevée rattachée fiscalement à la Suisse qui est assujettie à l’impôt complémentaire suisse. Si aucune entité constitutive rattachée fiscalement à la Suisse ne peut être considérée comme la plus élevée, l’assujettissement à l’impôt complémentaire est régi par l’al. 2.[^5-7]
 
 <sup>5</sup>
 
 Les autorités suivantes désignent l’entité constitutive d’un groupe d’entreprises assujettie à l’impôt complémentaire en cas de litige portant sur un cas concret:
 
 - a. l’administration cantonale de l’impôt complémentaire quand toutes les entités constitutives du groupe d’entreprises sont rattachées fiscalement au même canton, la décision de l’administration cantonale pouvant faire l’objet d’une réclamation selon les art. 14 et 24 et d’un recours selon l’art. 25;
-- b. l’Administration fédérale des contributions (AFC) dans les autres cas, la décision de l’AFC pouvant faire l’objet d’un recours conformément aux dispositions générales de la procédure fédérale.[^5-5]
+- b. l’Administration fédérale des contributions (AFC) dans les autres cas, la décision de l’AFC pouvant faire l’objet d’un recours conformément aux dispositions générales de la procédure fédérale.[^5-8]
 
-<sup>6</sup> La désignation de l’entité constitutive assujettie à l’impôt complémentaire peut être demandée par l’autorité chargée de la taxation de l’impôt complémentaire, par l’administration cantonale de l’impôt complémentaire ou par une entité constitutive concernée du groupe d’entreprises en question. Les entités constitutives du groupe d’entreprises qui sont rattachées fiscalement à la Suisse doivent désigner une représentation commune en Suisse pour cette procédure.[^5-6]
+<sup>6</sup> La désignation de l’entité constitutive assujettie à l’impôt complémentaire peut être demandée par l’autorité chargée de la taxation de l’impôt complémentaire, par l’administration cantonale de l’impôt complémentaire ou par une entité constitutive concernée du groupe d’entreprises en question. Les entités constitutives du groupe d’entreprises qui sont rattachées fiscalement à la Suisse doivent désigner une représentation commune en Suisse pour cette procédure.[^5-9]
 
 <sup>7</sup> L’autorité qui a traité un cas qui ne relevait pas de sa compétence territoriale transmet le dossier à l’autorité compétente.
 
-[^5-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^5-2]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^5-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
-[^5-5]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
-[^5-6]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-5]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^5-6]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^5-7]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-8]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-9]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 ## Chapitre 3 Responsabilité solidaire, charges justifiées par l’usage commercial
 
@@ -145,9 +173,10 @@ L’impôt complémentaire ne peut pas être déduit à titre de charges justifi
 
 <sup>2</sup> Pour autant que toutes les entités constitutives rattachées fiscalement à la Suisse présentent leurs comptes annuels selon les recommandations de la Fondation pour les recommandations relatives à la présentation des comptes (Swiss GAAP RPC)[^9-1] et que ces comptes soient contrôlés par un organe de révision externe, l’impôt complémentaire suisse se calcule sur la base de ces comptes annuels.
 
-<sup>3</sup> Si toutes les entités constitutives rattachées fiscalement à la Suisse ne remplissent pas les conditions fixées à l’al. 2, ou si l’année fiscale pour laquelle sont établis les comptes annuels visés à l’al. 2 d’une ou de plusieurs entités constitutives rattachées fiscalement à la Suisse diffère de l’année fiscale au sens de l’art. 10.1 des règles types GloBE, l’impôt complémentaire suisse est calculé sur la base des comptes annuels établis selon les art. 3.1.2 et 3.1.3 des règles types GloBE.
+<sup>3</sup> Si toutes les entités constitutives rattachées fiscalement à la Suisse ne remplissent pas les conditions fixées à l’al. 2, ou si l’année fiscale pour laquelle sont établis les comptes annuels visés à l’al. 2 d’une ou de plusieurs entités constitutives rattachées fiscalement à la Suisse diffère de l’année fiscale au sens de l’art. 10.1 des règles types GloBE, l’impôt complémentaire suisse est calculé sur la base du résultat (bénéfice ou perte) enregistré pour l’année fiscale selon les art. 3.1.2 et 3.1.3 des règles types GloBE.[^9-2]
 
 [^9-1]: Les recommandations peuvent être consultées gratuitement et obtenues contre paiement auprès de Verlag SKV, Reitergasse 9, Postfach, 8021 Zürich ([www.verlagskv.ch](https://verlagskv.ch/)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 ## Chapitre 5 Impôt complémentaire international
 
@@ -187,9 +216,10 @@ L’impôt complémentaire international se calcule selon les art. 5.1 à 5.6 de
 
 <sup>1</sup> Le produit brut de l’impôt complémentaire suisse provenant des activités exonérées de l’impôt sur le bénéfice en vertu de l’art. 56 LIFD[^13-1] exercées par des entités constitutives de la Confédération, des cantons et des communes qui sont soumises à l’imposition minimale en vertu des règles types GloBE revient à la collectivité publique concernée.
 
-<sup>2</sup> Au surplus, la part cantonale revient aux cantons en fonction du rattachement fiscal des entités constitutives auxquelles l’impôt complémentaire a été imputé. Si une entité constitutive a des objets fiscaux dans plusieurs cantons, le produit brut revient aux cantons en fonction de l’imputation à ces objets.
+<sup>2</sup> Au surplus, la part cantonale revient aux cantons en fonction du rattachement fiscal des entités constitutives auxquelles l’impôt complémentaire a été imputé. Si une entité constitutive a des objets fiscaux dans plusieurs cantons, le produit brut revient aux cantons en fonction de l’imputation à ces objets. Si le rattachement fiscal d’une entité constitutive change au cours de l’année fiscale au sens de l’art. 10.1 des règles types GloBE, le produit brut est réparti entre les cantons selon les principes du droit fédéral concernant l’interdiction de la double imposition intercantonale.[^13-2]
 
-[^13-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^13-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 ## Chapitre 8 Droit de procédure
 
@@ -199,7 +229,7 @@ L’impôt complémentaire international se calcule selon les art. 5.1 à 5.6 de
 
 Sous réserve des dispositions de la présente ordonnance, les art. 102 à 106, 108 à 135 et 140 à 172 LIFD[^14-1] relatifs au droit procédural sont applicables par analogie.
 
-[^14-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^14-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### Section 2 Autorités cantonales
 
@@ -228,7 +258,7 @@ Sous réserve des dispositions de la présente ordonnance, les art. 102 à 106, 
 
 <sup>5</sup> L’autorité qui a traité un cas qui ne relevait pas de sa compétence territoriale transmet le dossier à l’autorité compétente.
 
-[^16-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^16-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
@@ -238,7 +268,7 @@ Sous réserve des dispositions de la présente ordonnance, les art. 102 à 106, 
 
 **Organisation, contenu**
 
-<sup>1</sup> Les cantons exploitent un système d’information commun pour l’application de l’imposition minimale.
+<sup>1</sup> Les cantons exploitent un système d’information commun pour la taxation et la perception de l’impôt complémentaire (système d’information en matière d’impôt complémentaire).[^17-1]
 
 <sup>2</sup> Les autorités cantonales compétentes peuvent y traiter les données personnelles sensibles suivantes, dans la mesure où ces données sont nécessaires à l’accomplissement de leurs tâches conformément à la présente ordonnance: données relatives à des poursuites ou à des sanctions administratives ou pénales.
 
@@ -246,7 +276,7 @@ Sous réserve des dispositions de la présente ordonnance, les art. 102 à 106, 
 
 <sup>4</sup>
 
-Le système d’information sert notamment pour les tâches suivantes:[^17-1]
+Le système d’information sert notamment pour les tâches suivantes:[^17-2]
 
 - a. tenue d’un registre central des entités constitutives assujetties à l’impôt complémentaire (registre central de l’impôt complémentaire);
 - b. remise électronique et traitement de la déclaration d’impôt complémentaire ainsi que d’autres documents fournis par les entités constitutives assujetties aux autorités chargées de la taxation de l’impôt complémentaire;
@@ -255,7 +285,7 @@ Le système d’information sert notamment pour les tâches suivantes:[^17-1]
 
 <sup>5</sup>
 
-Il contient notamment les données suivantes:[^17-2]
+Il contient notamment les données suivantes:[^17-3]
 
 - a. les déclarations relatives à l’impôt complémentaire avec les annexes;
 - b. les décisions de taxation et autres décisions prises par les autorités chargées de la taxation de l’impôt complémentaire;
@@ -273,14 +303,15 @@ Le registre central de l’impôt complémentaire contient notamment les donnée
 
 <sup>7</sup> Les autorités chargées de la taxation de l’impôt complémentaire, les administrations cantonales de l’impôt complémentaire et l’AFC utilisent systématiquement l’IDE dans le cadre de l’accomplissement des tâches qui leur incombent en vertu de la présente ordonnance.
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 [^17-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 #### Art. 18
 
 **Droit de traiter les données**
 
-<sup>1</sup> Pour accomplir les tâches qui leur incombent en vertu de la présente ordonnance, l’autorité chargée de la taxation de l’impôt complémentaire et l’administration cantonale de l’impôt complémentaire peuvent traiter leurs données dans le système d’information.
+<sup>1</sup> Pour accomplir les tâches qui leur incombent en vertu de la présente ordonnance, l’autorité chargée de la taxation de l’impôt complémentaire et l’administration cantonale de l’impôt complémentaire peuvent traiter leurs données dans le système d’information en matière d’impôt complémentaire.[^18-1]
 
 <sup>2</sup>
 
@@ -297,15 +328,19 @@ Les administrations fiscales cantonales peuvent consulter:
 
 <sup>6</sup> Elle peut établir et publier des statistiques sur l’impôt complémentaire.
 
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
 #### Art. 19
 
 **Obligations des entités constitutives assujetties**
 
-<sup>1</sup> L’entité constitutive assujettie à l’impôt complémentaire en vertu de l’art. 5 doit s’inscrire spontanément dans le système d’information de l’impôt complémentaire avant la fin du délai prévu à l’art. 20 pour la remise de la déclaration de l’impôt complémentaire.
+<sup>1</sup> L’entité constitutive assujettie à l’impôt complémentaire doit s’inscrire spontanément dans le système d’information en matière d’impôt complémentaire avant la fin des délais prévus à l’art. 20.[^19-1]
 
 <sup>2</sup> Elle doit transmettre les données visées à l’art. 17, al. 5, let. a et d, et 6, par voie électronique.
 
 <sup>3</sup> Lorsque son assujettissement à l’impôt complémentaire prend fin, elle doit se désinscrire spontanément du système d’information.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 ### Section 4 Taxation
 
@@ -364,9 +399,9 @@ Le délai pour le dépôt du recours énoncé à l’al. 3 est:
 
 <sup>6</sup> Les jugements rendus par le Tribunal administratif fédéral peuvent faire l’objet d’un recours devant le Tribunal fédéral, conformément à la loi du 17 juin 2005 sur le Tribunal fédéral[^25-3]. L’administration cantonale de l’impôt complémentaire et l’AFC ont également qualité pour recourir dans les causes de droit public.
 
-[^25-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^25-2]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^25-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^25-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^25-2]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^25-3]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### Section 6 Inventaire
 
@@ -374,7 +409,7 @@ Le délai pour le dépôt du recours énoncé à l’al. 3 est:
 
 Les art. 154 à 159 LIFD[^26-1] concernant l’inventaire ne sont pas applicables.
 
-[^26-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^26-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### Section 7 Échéance et remise de l’impôt
 
@@ -386,7 +421,7 @@ Les art. 154 à 159 LIFD[^26-1] concernant l’inventaire ne sont pas applicable
 
 <sup>2</sup> L’impôt complémentaire échoit en même temps que l’expiration des délais prévus par l’art. 20, al. 1, concernant la déclaration de l’impôt complémentaire.
 
-[^27-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^27-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 28
 
@@ -394,11 +429,293 @@ Les art. 154 à 159 LIFD[^26-1] concernant l’inventaire ne sont pas applicable
 
 Les art. 167 à 167*g* LIFD[^28-1] concernant la remise de l’impôt ne sont pas applicables.
 
-[^28-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^28-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
-## Chapitre 9 Droit pénal fiscal
+## Chapitre 8*a* GIR
 
-### Section 1 Violation des obligations de procédure, soustraction d’impôt
+[^chap8a-1]
+
+[^chap8a-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
+### Section 1 Dispositions générales
+
+#### Art. 28a
+
+**Contenu et forme**
+
+Le contenu et la forme des GIR sont régis par les art. 8.1.4 à 8.1.5 des règles types GloBE et par les réglementations pertinentes adoptées par le Cadre inclusif sur le BEPS de l’OCDE et du G20.
+
+#### Art. 28b
+
+**Langue**
+
+Les GIR doivent être rédigées dans une langue officielle de la Confédération ou en anglais.
+
+### Section 2 Obligations des entités constitutives
+
+#### Art. 28c
+
+**Obligation de remettre des GIR**
+
+<sup>1</sup> Chaque entité constitutive assujettie à l’impôt complémentaire doit remettre une GIR. Elle la remet en utilisant le système d’information visé à l’art. 28*j*.
+
+<sup>2</sup>
+
+Une entité constitutive assujettie à l’impôt complémentaire ne doit pas remettre de GIR:
+
+- a. lorsqu’une autre entité constitutive du groupe d’entreprises rattachée fiscalement à la Suisse remet la GIR dans le système d’information visé à l’art. 28*j*, ou
+- b.
+
+  lorsqu’une autre entité constitutive du groupe d’entreprises remet la GIR conformément à l’art. 8.1.2 des règles types GloBE dans une autre juridiction fiscale, pour autant que:
+
+  - 1\. la juridiction fiscale à laquelle l’entité constitutive est rattachée fiscalement est un État partenaire, et que
+  - 2\. l’État partenaire auquel l’entité constitutive est rattachée fiscalement ne présente pas de défaillance systémique; on entend par défaillance systémique la situation qui se présente lorsque l’État partenaire suspend durablement l’échange automatique des GIR pour des motifs qui ne sont pas admis par le traité applicable.
+
+<sup>3</sup> Si une entité constitutive assujettie à l’impôt complémentaire ne remet pas de GIR, elle-même ou l’entité constitutive rattachée fiscalement à la Suisse visée à l’al. 2, let. a, doit indiquer dans le système d’information visé à l’art. 28*j* quelle entité constitutive remet la GIR et à quelle juridiction fiscale cette entité est rattachée fiscalement.
+
+<sup>4</sup> Sur demande, les entités constitutives rattachées fiscalement à la Suisse qui remettent une GIR doivent fournir à l’AFC des renseignements sur tous les faits importants pour l’application du traité applicable et de la présente ordonnance.
+
+<sup>5</sup> Les autres entités constitutives rattachées fiscalement à la Suisse d’un groupe d’entreprises sont tenues, sur demande, de fournir à l’AFC des renseignements sur la raison de commerce, l’adresse et le rattachement fiscal de l’entité constitutive chargée de remettre la GIR, pour autant que l’entité constitutive assujettie à l’impôt complémentaire ne fournisse pas ces renseignements.
+
+#### Art. 28d
+
+**Délais pour remettre la GIR**
+
+<sup>1</sup> L’entité constitutive assujettie à l’impôt complémentaire ou l’entité constitutive rattachée fiscalement à la Suisse visée à l’art. 28*c*, al. 2, let. a, doit remettre la GIR ou indiquer quelle entité constitutive remettra la GIR dans une autre juridiction fiscale dans les délais fixés à l’art. 20.
+
+<sup>2</sup> Si l’entité constitutive assujettie à l’impôt complémentaire indique que la GIR sera remise par une entité constitutive rattachée fiscalement à une autre juridiction fiscale en vertu de l’art. 28*c*, al. 2, let. b, mais que l’AFC ne reçoit pas de GIR de l’État partenaire, l’AFC fixe à l’entité constitutive assujettie à l’impôt complémentaire un délai approprié pour remettre la GIR.
+
+#### Art. 28e
+
+**Sanction administrative en cas de défaut**
+
+Si l’entité constitutive assujettie à l’impôt complémentaire ou l’entité constitutive visée à l’art. 28*c*, al. 2, let. a, n’observe pas le délai de remise selon l’art. 28*d*, un montant de 200 francs par jour écoulé entre l’échéance du délai et la remise de la GIR, mais au plus de 50 000 francs, est facturé à l’entité constitutive assujettie à l’impôt complémentaire.
+
+### Section 3 Transmission et utilisation des GIR, prescription
+
+#### Art. 28f
+
+**Transmission et utilisation des GIR**
+
+<sup>1</sup> L’AFC transmet, dans les délais fixés dans l’accord GloBE[^28f-1] et selon les prescriptions de ce dernier, les GIR qu’elle a reçues des entités constitutives aux autorités compétentes des États partenaires auxquels au moins une entité constitutive du même groupe d’entreprises multinational est rattachée fiscalement.
+
+<sup>2</sup> Elle rappelle à ces autorités les restrictions à l’utilisation des GIR et l’obligation de maintenir le secret prévue par les dispositions régissant l’assistance administrative du traité applicable.
+
+[^28f-1]: [RS 0.653.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40372)
+
+#### Art. 28g
+
+**Prescription**
+
+<sup>1</sup> Le droit de l’AFC de requérir l’entité constitutive assujettie à l’impôt complémentaire ou l’entité constitutive du groupe d’entreprises qui remet la GIR à sa place de lui fournir la GIR se prescrit par cinq ans à compter de la fin de l’année civile durant laquelle la GIR devait être fournie.
+
+<sup>2</sup> La prescription est interrompue chaque fois qu’un acte officiel tendant à requérir la GIR est porté à la connaissance de l’entité constitutive assujettie à l’impôt complémentaire ou de l’entité constitutive du groupe d’entreprises qui remet la GIR à sa place. À chaque interruption, un nouveau délai de prescription commence à courir.
+
+<sup>3</sup> Le délai absolu de prescription est de dix ans à compter de la fin de l’année civile durant laquelle la GIR devait être fournie.
+
+### Section 4 GIR reçues des États partenaires
+
+#### Art. 28h
+
+<sup>1</sup> L’AFC rend accessibles en ligne les GIR reçues des États partenaires aux autorités chargées de la taxation de l’impôt complémentaire et aux administrations cantonales de l’impôt complémentaire des cantons auxquels des entités constitutives du groupe d’entreprises multinational concerné sont rattachées fiscalement. Les collaborateurs de ces autorités n’ont accès aux renseignements que s’ils utilisent une authentification à deux facteurs, dont l’un doit être un élément d’identification physique, incontestable et infalsifiable.
+
+<sup>2</sup> L’AFC rappelle à ces autorités les restrictions à l’utilisation des GIR et l’obligation de maintenir le secret prévue par les dispositions régissant l’assistance administrative du traité applicable.
+
+### Section 5 Organisation et procédure
+
+#### Art. 28i
+
+**Tâches de l’AFC**
+
+<sup>1</sup> L’AFC veille à la bonne application du traité applicable et de la présente ordonnance.
+
+<sup>2</sup> Elle prend toutes les dispositions et précautions requises à cet effet.
+
+<sup>3</sup> Elle peut prescrire l’utilisation de formulaires particuliers et exiger que certains formulaires soient transmis sous forme électronique uniquement.
+
+#### Art. 28j
+
+**Organisation et contenu du système d’information GIR**
+
+<sup>1</sup> L’AFC exploite un système d’information pour la réception et le traitement des GIR (système d’information GIR).
+
+<sup>2</sup> Elle peut y traiter les données personnelles sensibles suivantes, dans la mesure où ces données sont nécessaires à l’accomplissement de ses tâches conformément à la présente ordonnance: données relatives à des poursuites ou à des sanctions administratives ou pénales.
+
+<sup>3</sup>
+
+Le système d’information GIR peut être utilisé en particulier pour:
+
+- a. tenir un registre central des entités constitutives assujetties à l’impôt complémentaire qui remettent une GIR ou qui doivent indiquer quelle autre entité constitutive du groupe d’entreprises remet la GIR (registre central GIR);
+- b. remettre et traiter des GIR;
+- c. transmettre des GIR aux États partenaires et recevoir des GIR transmises par les États partenaires;
+- d. traiter des procédures juridiques liées au traité applicable et à la présente ordonnance;
+- e. réaliser le contrôle en application de l’art. 28*o*;
+- f. prononcer des sanctions administratives et pénales et exécuter de telles sanctions;
+- g. traiter des demandes d’assistance administrative et d’entraide judiciaire;
+- h. établir des statistiques.
+
+<sup>4</sup>
+
+Il contient notamment les données suivantes:
+
+- a. le registre central GIR;
+- b. les GIR.
+
+<sup>5</sup>
+
+Le registre central GIR contient notamment les données suivantes concernant les entités constitutives assujetties à l’impôt complémentaire:
+
+- a. la raison de commerce de l’entité;
+- b. le lieu du siège de l’entité;
+- c. l’IDE de l’entité;
+- d. les personnes habilitées à représenter l’entité;
+- e. le cas échéant, les données correspondantes de l’entité constitutive du groupe d’entreprises qui remet la GIR à leur place.
+
+<sup>6</sup> L’AFC accorde aux autorités chargées de la taxation de l’impôt complémentaire et aux administrations cantonales de l’impôt complémentaire un accès en ligne aux données du système d’information GIR.
+
+<sup>7</sup> Elle utilise l’IDE de manière systématique pour accomplir les tâches qui lui incombent en vertu de la présente ordonnance.
+
+#### Art. 28k
+
+**Droit de traiter les données**
+
+<sup>1</sup> Pour accomplir les tâches qui lui incombent en vertu de la présente ordonnance et des traités applicables, l’AFC peut traiter ses données dans le système d’information GIR.
+
+<sup>2</sup>
+
+Les administrations fiscales cantonales peuvent consulter:
+
+- a. le registre central GIR;
+- b. la GIR d’un groupe d’entreprises, dans la mesure où des entités constitutives ou des objets fiscaux de ce groupe d’entreprises sont rattachés fiscalement au canton.
+
+<sup>3</sup> Les cantons peuvent utiliser les données obtenues en vertu de la présente ordonnance pour s’acquitter de leurs tâches dans les domaines de l’impôt fédéral direct et des impôts cantonaux et communaux.
+
+<sup>4</sup> Pour accomplir les tâches qui lui incombent en vertu de la présente ordonnance, l’AFC peut traiter toutes les données contenues dans le système d’information GIR, y compris les données personnelles sensibles suivantes: données relatives à des poursuites ou à des sanctions administratives ou pénales. Elle peut utiliser ces données pour s’acquitter de ses tâches dans le domaine de l’impôt fédéral direct.
+
+<sup>5</sup> Elle peut établir et publier des statistiques sur les GIR.
+
+#### Art. 28l
+
+**Destruction des données**
+
+L’AFC détruit les données au plus tard 20 ans après la fin de l’année civile durant laquelle elle les a obtenues.
+
+#### Art. 28m
+
+**Devoirs des entités constitutives**
+
+<sup>1</sup> L’entité constitutive assujettie à l’impôt complémentaire ou l’entité constitutive rattachée fiscalement à la Suisse visée à l’art. 28*c*, al. 2, let. a, doit s’inscrire spontanément dans le système d’information GIR avant la fin des délais prévus à l’art. 28*d*.
+
+<sup>2</sup> Elle doit transmettre les données visées à l’art. 28*j*, al. 5, par voie électronique.
+
+<sup>3</sup> Lorsque son obligation de remettre une GIR prend fin, elle doit se désinscrire spontanément du système d’information.
+
+#### Art. 28n
+
+**Obligation de garder le secret**
+
+<sup>1</sup> Toute personne chargée de l’exécution du traité applicable et de la présente ordonnance, ou appelée à y prêter son concours, est tenue, à l’égard d’autres services officiels et de tiers, de garder le secret sur ce qu’elle apprend dans l’exercice de cette activité.
+
+<sup>2</sup>
+
+L’obligation de garder le secret ne s’applique pas:
+
+- a. aux transmissions de renseignements et publications prévues par le traité applicable et la présente ordonnance;
+- b. à l’égard d’organes judiciaires ou administratifs habilités par le Département fédéral des finances (DFF), dans un cas particulier, à rechercher des renseignements officiels auprès des autorités chargées de l’exécution de la présente ordonnance;
+- c. lorsque le traité applicable autorise la levée de l’obligation de garder le secret et que le droit suisse prévoit une base qui permette la levée de cette obligation.
+
+#### Art. 28o
+
+**Contrôles**
+
+<sup>1</sup> L’AFC contrôle sur la base des informations disponibles si l’exécution des obligations découlant du traité applicable et de la présente ordonnance est complète et conforme au standard international.
+
+<sup>2</sup> Si l’AFC constate qu’une entité constitutive rattachée fiscalement à la Suisse n’a pas rempli ou n’a rempli que partiellement les obligations qui lui incombent, elle lui fixe un délai approprié pour remédier aux manquements constatés en la rendant attentive aux mesures prévues à l’al. 3.
+
+<sup>3</sup>
+
+Si l’entité constitutive assujettie à l’impôt complémentaire n’a pas remédié aux manquements dans le délai imparti, l’AFC peut:
+
+- a. requérir les livres, les pièces justificatives et tout autre document de l’entité constitutive ou les examiner sur place;
+- b. requérir des renseignements oraux ou écrits.
+
+<sup>4</sup> En cas de litige, l’AFC rend une décision.
+
+<sup>5</sup>
+
+Sur demande, l’AFC rend une décision en constatation sur:
+
+- a. l’obligation de l’entité constitutive de remettre la GIR en vertu du traité applicable et de la présente ordonnance;
+- b. le contenu de la GIR selon le traité applicable et la présente ordonnance.
+
+### Section 6 Suspension et dénonciation
+
+#### Art. 28p
+
+**Compétence**
+
+<sup>1</sup>
+
+L’AFC ne peut agir qu’avec l’autorisation du Conseil fédéral lorsqu’en vertu du traité applicable:
+
+- a. elle suspend ou dénonce l’échange des GIR avec un État partenaire;
+- b. elle dénonce le traité.
+
+<sup>2</sup> Elle suspend l’échange des GIR avec un État partenaire de sa propre compétence aussi longtemps que l’État partenaire ne remplit pas les exigences de l’OCDE en matière de confidentialité et de sécurité des données.
+
+#### Art. 28q
+
+**Demande d’une entité constitutive assujettie à l’impôt complémentaire**
+
+<sup>1</sup> Une entité constitutive assujettie à l’impôt complémentaire peut demander au DFF de suspendre l’échange des GIR avec un État partenaire, si elle démontre de manière crédible que l’État partenaire viole les dispositions prévues par le traité applicable relatives à la confidentialité des GIR et aux restrictions quant à leur utilisation.
+
+<sup>2</sup> Si le DFF considère que la demande est fondée, il la soumet au Conseil fédéral pour décision. Celui-ci statue définitivement.
+
+<sup>3</sup> Si le DFF considère que la demande est infondée, il rend une décision en constatation sur l’absence de violation par l’État partenaire des dispositions prévues par le traité applicable relatives à la confidentialité des GIR et aux restrictions quant à leur utilisation. Si l’instance de recours admet un recours contre cette décision, le DFF soumet la demande au Conseil fédéral pour décision. Celui-ci statue définitivement.
+
+## Chapitre 9 Dispositions pénales
+
+[^chap9-1]
+
+[^chap9-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
+### Section 1 Contraventions en lien avec les GIR
+
+[^chap9-sec1-1]
+
+[^chap9-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
+#### Art. 28r
+
+**Indications inexactes ou incomplètes dans la GIR**
+
+<sup>1</sup> Quiconque donne intentionnellement, dans la GIR, des indications inexactes ou incomplètes qui faussent fondamentalement les informations souhaitées et donnent une image fallacieuse de la situation est puni d’une amende de 100 000 francs au plus.
+
+<sup>2</sup> Lorsque l’amende entrant en ligne de compte ne dépasse pas 25 000 francs et que l’enquête rendrait nécessaires à l’égard des personnes punissables selon l’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)[^28r-1] des mesures d’instruction hors de proportion avec la peine encourue, il est loisible de renoncer à poursuivre ces personnes et de condamner l’entité administrative au paiement de l’amende à leur place (art. 7 DPA).
+
+[^28r-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
+#### Art. 28s
+
+**Insoumission à une décision de l’autorité**
+
+Quiconque, dans le cadre d’un contrôle selon l’art. 28*o*, omet intentionnellement de se conformer à une décision à lui signifiée par une autorité, sous la menace de la peine prévue au présent article, est puni d’une amende de 10 000 francs au plus.
+
+#### Art. 28t
+
+**Compétence et procédure**
+
+<sup>1</sup> La poursuite et le jugement des infractions aux art. 28*r* et 28*s* sont régis par la DPA[^28t-1].
+
+<sup>2</sup> L’AFC est l’autorité de poursuite et de jugement.
+
+[^28t-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
+### Section 1*a* Contraventions en lien avec la perception de l’impôt complémentaire
+
+[^chap9-sec1a-1]
+
+[^chap9-sec1a-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 #### Art. 29
 
@@ -432,7 +749,7 @@ L’entité constitutive assujettie à l’impôt complémentaire est punie d’
 
 <sup>5</sup> L’entité constitutive assujettie à l’impôt complémentaire est punie d’une amende si elle tente de se soustraire à l’impôt complémentaire. L’amende est fixée aux deux tiers de celle qui serait infligée si la soustraction de l’impôt complémentaire avait été commise intentionnellement et consommée.
 
-[^30-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^30-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 31
 
@@ -446,21 +763,35 @@ L’entité constitutive assujettie à l’impôt complémentaire est punie d’
 
 <sup>4</sup> Les al. 1 à 3 sont applicables à la personne morale qui a incité, prêté son assistance ou participé, dans l’exercice de son activité, à la soustraction de l’impôt complémentaire commise par une entité constitutive assujettie à cet impôt.
 
-[^31-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^31-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 32
 
-**Procédure et prescription**
+**Compétence et procédure**[^32-1]
 
-<sup>1</sup> La procédure est régie, par analogie, par les art. 182, al. 1, 3 et 4, et 183 LIFD[^32-1].
+<sup>1</sup> À moins que le droit cantonal ne désigne une autre autorité, l’autorité chargée de la poursuite conformément à l’art. 182, al. 4, LIFD[^32-2] est aussi l’autorité chargée de la poursuite et du jugement des contraventions liées à l’impôt complémentaire.
 
-<sup>2</sup> Les dispositions sur les principes généraux de procédure et les procédures de taxation et de recours contenues dans la présente ordonnance s’appliquent par analogie. La voie pénale est exclue.
+<sup>2</sup> La procédure est régie, par analogie, par les art. 182, al. 1, 3 et 4, et 183 LIFD.
 
-<sup>3</sup> Concernant la prescription de la poursuite pénale ainsi que la perception et la prescription des amendes et des frais, les art. 184 et 185 LIFD s’appliquent par analogie.
+<sup>3</sup> Une décision sur réclamation de l’autorité cantonale peut faire l’objet d’un recours auprès du Tribunal administratif fédéral en vertu de l’art. 25.
 
-[^32-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^32-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
-### Section 2 Délits fiscaux
+#### Art. 32a
+
+**Prescription et perception**[^32a-1]
+
+Concernant la prescription de la poursuite pénale ainsi que la perception et la prescription des amendes et des frais, les art. 184 et 185 LIFD[^32a-2] s’appliquent par analogie.
+
+[^32a-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^32a-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+
+### Section 2 Délits
+
+[^chap9-sec2-1]
+
+[^chap9-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 #### Art. 33
 
@@ -472,7 +803,7 @@ L’entité constitutive assujettie à l’impôt complémentaire est punie d’
 
 <sup>3</sup> Pour la dénonciation spontanée, l’art. 186, al. 3, LIFD[^33-1] est applicable par analogie.
 
-[^33-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^33-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 34
 
@@ -480,7 +811,7 @@ L’entité constitutive assujettie à l’impôt complémentaire est punie d’
 
 La procédure est régie, par analogie, par l’art. 188 LIFD[^34-1].
 
-[^34-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^34-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 35
 
@@ -496,7 +827,7 @@ La procédure est régie, par analogie, par l’art. 188 LIFD[^34-1].
 
 Les art. 190 à 195 LIFD[^36-1] concernant les mesures spéciales d’enquête de l’AFC en cas de soupçon de graves infractions fiscales sont applicables par analogie.
 
-[^36-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^36-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ## Chapitre 10 Répartition entre la Confédération et les cantons et répartition entre les cantons
 
@@ -536,9 +867,23 @@ Les cantons qui procèdent à la taxation peuvent retenir, sur chaque décision 
 
 <sup>2</sup> À l’exception de l’art. 10, al. 3, les dispositions relatives à l’impôt complémentaire international s’appliquent aux années fiscales, au sens de l’art. 10.1 des règles types GloBE, qui commencent le 1<sup>er</sup> janvier 2025 ou plus tard. L’art. 10, al. 3, s’appliquera à une date ultérieure.[^40-1]
 
-<sup>3</sup> La violation par négligence des obligations procédurales et la soustraction d’impôt par négligence ne sont pas punissables selon les art. 29 et 30 pour toutes les années fiscales au sens de l’art. 10.1 des règles types GloBE qui commencent avant le 31 décembre 2026 et se terminent le 30 juin 2028 au plus tard.
+<sup>3</sup> La sanction administrative en cas de défaut visée à l’art. 28*e* et les sanctions prévues aux art. 29 et 30 en cas de violation par négligence des obligations de procédure et de soustraction d’impôt par négligence ne s’appliquent pas pour toutes les années fiscales au sens de l’art. 10.1 des règles types GloBE qui commencent le 31 décembre 2026 au plus tard et se terminent le 30 juin 2028 au plus tard.[^40-2]
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
+#### Art. 40a
+
+**Dispositions transitoires relatives à la modification du 26 novembre 2025**[^40a-1]
+
+<sup>1</sup> Les art. 5, al. 1, 1<sup>bis</sup> et 3, et 13, al. 2, de la modification du 26 novembre 2025 ne s’appliquent pas aux procédures de taxation pour lesquelles une décision de taxation a déjà été établie au moment de l’entrée en vigueur de ladite modification.
+
+<sup>2</sup> Les dispositions relatives aux GIR s’appliquent aux années fiscales au sens de l’art. 10.1 des règles types GloBE qui commencent à partir du 1<sup>er</sup> janvier 2024.
+
+<sup>3</sup> Les dispositions relatives à l’échange automatique des GIR entre la Suisse et ses États partenaires n’entrent en vigueur que lorsque l’accord GloBE[^40a-2] est entré en vigueur.
+
+[^40a-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^40a-2]: [RS 0.653.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40372)
 
 #### Art. 41
 

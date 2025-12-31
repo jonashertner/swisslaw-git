@@ -4,11 +4,11 @@ title: "Verordnung vom 22. Dezember 2023 über die Mindestbesteuerung grosser Un
 short: MindStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/841"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2023-12-22
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2023-841-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2023-841-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20250101/de"
 
 (Mindestbesteuerungsverordnung, MindStV)
 
-vom 22. Dezember 2023 (Stand am 1. Januar 2025)
+vom 22. Dezember 2023 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 197 Ziffer 15 der Bundesverfassung[^ingress-1],
 
 verordnet:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -33,30 +33,52 @@ verordnet:
 
 **Gegenstand und Geltungsbereich**
 
+<sup>1</sup>
+
 Diese Verordnung regelt die Mindestbesteuerung grosser multinationaler Unternehmensgruppen durch eine Ergänzungssteuer, bemessen auf den Gewinnen ihrer Geschäftseinheiten, die:
 
 - a. steuerlich der Schweiz zugehörig sind (schweizerische Ergänzungssteuer);
 - b. steuerlich nicht der Schweiz zugehörig sind (internationale Ergänzungssteuer).
 
+<sup>2</sup>
+
+Sie regelt insbesondere:
+
+- a. die Umsetzung der Mustervorschriften zur weltweiten Bekämpfung der Gewinnverkürzung und Gewinnverlagerung des *Inclusive Framework on Base Erosion and Profit Shifting* der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung und der G20 vom 14. Dezember 2021[^1-1] (*Global Anti-Base Erosion Model Rules* *[Pillar Two]*, GloBE-Mustervorschriften);
+- b. den automatischen Austausch der Erklärungen zur Unterstützung der Anwendung der GloBE-Mustervorschriften (GloBE-Erklärungen, *GloBE Information Returns*, GIR) zwischen der Schweiz und ihren Partnerstaaten.[^1-2]
+
+[^1-1]: Die GloBE-Mustervorschriften können kostenlos abgerufen werden unter: [www.oecd.org/en/topics/sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html](https://www.oecd.org/en/topics/sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html).
+[^1-2]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
 #### Art. 2
 
-**Anwendbares Recht**
+**Anwendbares Recht**[^2-1]
 
-<sup>1</sup> Die Mustervorschriften zur weltweiten Bekämpfung der Gewinnverkürzung und Gewinnverlagerung des Inclusive Framework on Base Erosion and Profit Shifting der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung und der G20‑Staaten vom 14. Dezember 2021[^2-1] (*Global Anti-Base Erosion Model Rules [Pillar Two]*, GloBE-Mustervorschriften) sind unter Vorbehalt von Absatz 2 direkt für die internationale Ergänzungssteuer und sinngemäss für die schweizerische Ergänzungssteuer anwendbar.
+<sup>1</sup> Die GloBE-Mustervorschriften sind unter Vorbehalt von Absatz 2 direkt für die internationale Ergänzungssteuer und sinngemäss für die schweizerische Ergänzungssteuer anwendbar.
 
 <sup>2</sup>
 
 Nicht anwendbar sind:
 
 - a. Artikel 9.3.5 der GloBE-Mustervorschriften;
-- b. für die schweizerische Ergänzungssteuer: die Artikel 4.3.2 Buchstaben a und c–e sowie 6.4 der GloBE-Mustervorschriften.
+- b. für die schweizerische Ergänzungssteuer: Artikel 6.4 der GloBE-Mustervorschriften.
 
-<sup>3</sup> Die GloBE-Mustervorschriften sind insbesondere nach Massgabe des zugehörigen Kommentars[^2-2] und zugehöriger Regelwerke der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung und der G20‑Staaten auszulegen.
+<sup>3</sup> Die GloBE-Mustervorschriften sind insbesondere nach Massgabe der zugehörigen Kommentare[^2-2] und zugehöriger Regelwerke des *Inclusive Framework on Base Erosion and Profit Shifting* der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung und der G20 auszulegen.
 
 <sup>4</sup> Bei der Anwendung der GloBE-Mustervorschriften gilt die Schweiz als «Implementing Jurisdiction» im Sinne der GloBE-Mustervorschriften.
 
-[^2-1]: Die GloBE-Mustervorschriften können kostenlos eingesehen werden unter: [www.oecd.org](https://www.oecd.org/tax/beps/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-base-erosion-model-rules-pillar-two.htm) &gt; Topics &gt; Tax &gt; Base erosion and profit shifting &gt; BEPS Actions &gt; Tax Challenges Arising from the Digitalisation of the Economy &gt; December 2021: Global Anti-Base Erosion Model (GloBE) Rules – Pillar Two.
-[^2-2]: Der Kommentar kann kostenlos eingesehen werden unter: [www.oecd.org](https://www.oecd.org/tax/beps/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-base-erosion-model-rules-pillar-two.htm) &gt; Topics &gt; Tax &gt; Base erosion and profit shifting &gt; BEPS Actions &gt; Tax Challenges Arising from the Digitalisation of the Economy &gt; March 2022: Commentary to the Global Anti-Base Erosion Model (GloBE) Rules – Pillar Two.
+<sup>5</sup>
+
+Der automatische Austausch der GIR zwischen der Schweiz und einem Partnerstaat erfolgt nach:
+
+- a. der Multilateralen Vereinbarung vom 28. August 2025[^2-3] der zuständigen Behörden über den Austausch von *Global-Anti-Base-Erosion*-Erklärungen (GloBE-Vereinbarung);
+- b. anderen völkerrechtlichen Verträgen, die einen automatischen Austausch länderbezogener Berichte vorsehen.
+
+<sup>6</sup> Vorbehalten sind die abweichenden Bestimmungen des im Einzelfall anwendbaren völkerrechtlichen Vertrags.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^2-2]: Die Kommentare können kostenlos abgerufen werden unter: [www.oecd.org/en/topics/ sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html](https://www.oecd.org/en/topics/sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html).
+[^2-3]: [SR 0.653.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40372)
 
 #### Art. 3
 
@@ -64,9 +86,10 @@ Nicht anwendbar sind:
 
 <sup>1</sup> Als Geschäftseinheiten gelten die «Constituent Entities» nach Artikel 1.3 der GloBE-Mustervorschriften.
 
-<sup>2</sup> Die steuerliche Zugehörigkeit der Geschäftseinheiten zu einem Kanton bestimmt sich sinngemäss nach den Artikeln 105 Absatz 3 und 106 des Bundesgesetzes vom 14. Dezember 1990[^3-1] über die direkte Bundessteuer (DBG) betreffend die örtliche Zuständigkeit. In Abweichung der Artikel 105 Absatz 3 und 106 DBG sind die Verhältnisse zu Beginn des jeweiligen Geschäftsjahres nach Artikel 10.1 der GloBE-Mustervorschriften massgebend.
+<sup>2</sup> Die steuerliche Zugehörigkeit der Geschäftseinheiten zu einem Kanton bestimmt sich sinngemäss nach den Artikeln 105 Absatz 3 und 106 des Bundesgesetzes vom 14. Dezember 1990[^3-1] über die direkte Bundessteuer (DBG) betreffend die örtliche Zuständigkeit. In Abweichung der Artikel 105 Absatz 3 und 106 DBG sind die Verhältnisse zu Beginn des jeweiligen Geschäftsjahres nach Artikel 10.1 der GloBE-Mustervorschriften massgebend. Wird eine Geschäftseinheit erst nach Beginn des Geschäftsjahres gegründet, so sind die Verhältnisse zum Zeitpunkt der Gründung massgebend.[^3-2]
 
-[^3-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^3-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^3-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 #### Art. 4
 
@@ -81,11 +104,13 @@ Für die Zwecke der schweizerischen Ergänzungssteuer gelten als separate Untern
 
 #### Art. 5
 
-<sup>1</sup> Die steuerlich der Schweiz zugehörige Geschäftseinheit, die nach den Artikeln 2.1–2.3 der GloBE-Mustervorschriften für die internationale Ergänzungssteuer nach der Primärergänzungssteuerregelung (*Income Inclusion Rule,* IIR) steuerpflichtig ist, ist überdies für die schweizerische Ergänzungssteuer und die internationale Ergänzungssteuer nach der Sekundärergänzungssteuerregelung (UTPR) steuerpflichtig.
+<sup>1</sup> Die Steuerpflicht für die internationale Ergänzungssteuer nach der Primärergänzungssteuerregelung (*Income Inclusion Rule*, IIR) bestimmt sich nach den Artikeln 2.1–2.3 der GloBE-Mustervorschriften. In Abweichung von Artikel 2.1 der GloBE-Mustervorschriften besteht die Steuerpflicht unabhängig davon, ob die im Geschäftsjahr in anderen Steuerhoheitsgebieten gehaltenen Beteiligungen eine niedrig besteuerte Geschäftseinheit umfassen.[^5-1]
 
-<sup>2</sup> Ist in der Schweiz keine Geschäftseinheit für die internationale Ergänzungssteuer nach der IIR steuerpflichtig, so ist für die schweizerische Ergänzungssteuer und die internationale Ergänzungssteuer nach der UTPR die Geschäftseinheit mit der höchsten durchschnittlichen Bilanzsumme der letzten drei Jahresrechnungen nach Artikel 125 Absatz 2 Buchstabe a DBG[^5-1] unter Ausklammerung ihrer Beteiligungen steuerpflichtig. Diese Geschäftseinheit bleibt für drei Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften ergänzungssteuerpflichtig.
+<sup>1bis</sup> Die steuerlich der Schweiz zugehörige Geschäftseinheit, die für die internationale Ergänzungssteuer nach der IIR steuerpflichtig ist, ist überdies für die schweizerische Ergänzungssteuer und die internationale Ergänzungssteuer nach der Sekundärergänzungssteuerregelung (UTPR) steuerpflichtig.[^5-2]
 
-<sup>3</sup> Ist in der Schweiz mehr als eine Geschäftseinheit für die internationale Ergänzungssteuer nach der IIR steuerpflichtig, so ist für die schweizerische Ergänzungssteuer und die internationale Ergänzungssteuer nach der UTPR diejenige dieser Geschäftseinheiten mit der höchsten durchschnittlichen Bilanzsumme der letzten drei Jahresrechnungen nach Artikel 125 Absatz 2 Buchstabe a DBG unter Ausklammerung ihrer Beteiligungen steuerpflichtig. Diese Geschäftseinheit bleibt für drei Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften ergänzungssteuerpflichtig.
+<sup>2</sup> Ist in der Schweiz keine Geschäftseinheit für die internationale Ergänzungssteuer nach der IIR steuerpflichtig, so ist für die schweizerische Ergänzungssteuer und die internationale Ergänzungssteuer nach der UTPR die Geschäftseinheit mit der höchsten durchschnittlichen Bilanzsumme der letzten drei Jahresrechnungen nach Artikel 125 Absatz 2 Buchstabe a DBG[^5-3] unter Ausklammerung ihrer Beteiligungen steuerpflichtig. Diese Geschäftseinheit bleibt für drei Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften ergänzungssteuerpflichtig.
+
+<sup>3</sup> Ist in der Schweiz mehr als eine Geschäftseinheit für die internationale Ergänzungssteuer nach der IIR steuerpflichtig, so ist, unter Ausschluss einer in Teileigentum stehenden Muttergesellschaft, diejenige dieser Geschäftseinheiten mit der höchsten durchschnittlichen Bilanzsumme der letzten drei Jahresrechnungen nach Artikel 125 Absatz 2 Buchstabe a DBG[^5-4] unter Ausklammerung ihrer Beteiligungen für die schweizerische Ergänzungssteuer und die internationale Ergänzungssteuer nach der UTPR steuerpflichtig. Diese Geschäftseinheit bleibt für drei Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften ergänzungssteuerpflichtig.[^5-5]
 
 <sup>4</sup> Bei einem Joint Venture oder einer in Minderheitseigentum stehenden Geschäftseinheit nach Artikel 4 ist für die schweizerische Ergänzungssteuer dessen beziehungsweise deren oberste steuerlich der Schweiz zugehörige Geschäftseinheit steuerpflichtig. Ist keine steuerlich der Schweiz zugehörige Geschäftseinheit oberste Geschäftseinheit, so richtet sich die Ergänzungssteuerpflicht nach Absatz 2.
 
@@ -100,7 +125,11 @@ Ist im Einzelfall streitig, welche Geschäftseinheit einer Unternehmensgruppe er
 
 <sup>7</sup> Hat im Einzelfall eine örtlich nicht zuständige Behörde bereits gehandelt, so übermittelt sie die Akten der zuständigen Behörde.
 
-[^5-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^5-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^5-2]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^5-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^5-4]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^5-5]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 ## 3. Kapitel: Mithaftung, geschäftsmässig begründeter Aufwand
 
@@ -138,9 +167,10 @@ Die Ergänzungssteuer kann bei den Gewinnsteuern von Bund und Kantonen nicht als
 
 <sup>2</sup> Werden die Jahresrechnungen aller steuerlich der Schweiz zugehörigen Geschäftseinheiten auf der Grundlage der Fachempfehlungen zur Rechnungslegung der Stiftung für Fachempfehlungen zur Rechnungslegung (Swiss GAAP FER)[^9-1] erstellt und unterliegen sie einer Prüfung durch eine externe Revisionsstelle, so wird die schweizerische Ergänzungssteuer auf der Grundlage dieser Jahresrechnungen berechnet.
 
-<sup>3</sup> Erfüllen nicht alle steuerlich der Schweiz zugehörigen Geschäftseinheiten die Voraussetzungen nach Absatz 2 oder stimmen die Geschäftsjahre, für die die Jahresrechnungen nach Absatz 2 erstellt werden, von einer oder mehreren steuerlich der Schweiz zugehörigen Geschäftseinheiten nicht mit dem Geschäftsjahr nach Artikel 10.1 der GloBE-Mustervorschriften überein, so wird die schweizerische Ergänzungssteuer auf der Grundlage der Jahresrechnung berechnet, die gemäss den Artikeln 3.1.2 und 3.1.3 der GloBE-Mustervorschriften erstellt wird.
+<sup>3</sup> Erfüllen nicht alle steuerlich der Schweiz zugehörigen Geschäftseinheiten die Voraussetzungen nach Absatz 2 oder stimmen die Geschäftsjahre, für welche die Jahresrechnungen nach Absatz 2 erstellt werden, von einer oder mehreren steuerlich der Schweiz zugehörigen Geschäftseinheiten nicht mit dem Geschäftsjahr nach Artikel 10.1 der GloBE-Mustervorschriften überein, so wird die schweizerische Ergänzungssteuer auf der Grundlage des Gewinns oder Verlusts nach den Artikeln 3.1.2 und 3.1.3 der GloBE-Mustervorschriften für das Geschäftsjahr berechnet.[^9-2]
 
 [^9-1]: Die Empfehlungen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei: Verlag SKV, Reitergasse 9, Postfach, 8021 Zürich ([www.verlagskv.ch](https://verlagskv.ch/)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 ## 5. Kapitel: Internationale Ergänzungssteuer
 
@@ -178,9 +208,10 @@ Die internationale Ergänzungssteuer wird nach den Artikeln 5.1–5.6 der GloBE-
 
 <sup>1</sup> Der Rohertrag der schweizerischen Ergänzungssteuer aus nach Artikel 56 DBG[^13-1] gewinnsteuerbefreiten Tätigkeiten von Geschäftseinheiten von Bund, Kantonen und Gemeinden, die nach den GloBE-Mustervorschriften der Mindestbesteuerung unterliegen, steht dem jeweiligen Gemeinwesen zu.
 
-<sup>2</sup> Im Übrigen steht der kantonale Anteil den Kantonen entsprechend der steuerlichen Zugehörigkeit der Geschäftseinheiten zu, denen die Ergänzungssteuer zugerechnet wurde. Verfügt eine Geschäftseinheit über Steuerobjekte in mehreren Kantonen, so steht der Rohertrag den Kantonen entsprechend der Zurechnung zu diesen Steuerobjekten zu.
+<sup>2</sup> Im Übrigen steht der kantonale Anteil den Kantonen entsprechend der steuerlichen Zugehörigkeit der Geschäftseinheiten zu, denen die Ergänzungssteuer zugerechnet wurde. Verfügt eine Geschäftseinheit über Steuerobjekte in mehreren Kantonen, so steht der Rohertrag den Kantonen entsprechend der Zurechnung zu diesen Steuerobjekten zu. Kommt es während eines Geschäftsjahres nach Artikel 10.1 der GloBE-Mustervorschriften zu einem Wechsel der steuerlichen Zugehörigkeit einer Geschäftseinheit, so steht der Rohertrag den Kantonen nach den bundesrechtlichen Grundsätzen betreffend das Verbot der interkantonalen Doppelbesteuerung zu.[^13-2]
 
-[^13-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^13-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^13-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 ## 8. Kapitel: Verfahrensrecht
 
@@ -190,7 +221,7 @@ Die internationale Ergänzungssteuer wird nach den Artikeln 5.1–5.6 der GloBE-
 
 Unter Vorbehalt der Bestimmungen dieser Verordnung sind die Artikel 102–106, 108–135 und 140–172 DBG[^14-1] über das Verfahrensrecht sinngemäss anwendbar.
 
-[^14-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^14-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### 2. Abschnitt: Kantonale Behörden
 
@@ -217,7 +248,7 @@ Soweit das kantonale Recht keine andere Behörde bestimmt, gilt:
 
 <sup>5</sup> Hat im Einzelfall eine örtlich nicht zuständige Behörde bereits gehandelt, so übermittelt sie die Akten der zuständigen Behörde.
 
-[^16-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^16-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### 3. Abschnitt: Informationssystem Ergänzungssteuer
 
@@ -225,7 +256,7 @@ Soweit das kantonale Recht keine andere Behörde bestimmt, gilt:
 
 **Organisation, Inhalt**
 
-<sup>1</sup> Die Kantone betreiben zur Umsetzung der Mindestbesteuerung gemeinsam ein Informationssystem.
+<sup>1</sup> Die Kantone betreiben gemeinsam ein Informationssystem zur Veranlagung und zum Bezug der Ergänzungssteuer (Informationssystem Ergänzungssteuer).[^17-1]
 
 <sup>2</sup> Die zuständigen kantonalen Behörden können darin die folgenden besonders schützenswerten Personendaten bearbeiten, sofern diese Daten für die Erfüllung ihrer Aufgaben nach dieser Verordnung erforderlich sind: Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen.
 
@@ -260,11 +291,13 @@ Das zentrale Ergänzungssteuerverzeichnis enthält namentlich folgende Daten der
 
 <sup>7</sup> Die Veranlagungsbehörden für die Ergänzungssteuer, die kantonalen Verwaltungen für die Ergänzungssteuer und die ESTV verwenden die UID für die Erfüllung ihrer Aufgaben gemäss dieser Verordnung systematisch.
 
+[^17-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
 #### Art. 18
 
 **Bearbeitungsrechte**
 
-<sup>1</sup> Die Veranlagungsbehörde für die Ergänzungssteuer und die kantonale Verwaltung für die Ergänzungssteuer können zur Erfüllung ihrer Aufgaben nach dieser Verordnung ihre Daten im Informationssystem bearbeiten.
+<sup>1</sup> Die Veranlagungsbehörde für die Ergänzungssteuer und die kantonale Verwaltung für die Ergänzungssteuer können zur Erfüllung ihrer Aufgaben nach dieser Verordnung ihre Daten im Informationssystem Ergänzungssteuer bearbeiten.[^18-1]
 
 <sup>2</sup>
 
@@ -281,15 +314,19 @@ Die kantonalen Steuerverwaltungen haben Einsicht in:
 
 <sup>6</sup> Sie kann Statistiken über die Ergänzungssteuer erstellen und publizieren.
 
+[^18-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
 #### Art. 19
 
 **Pflichten der ergänzungssteuerpflichtigen Geschäftseinheit**
 
-<sup>1</sup> Die nach Artikel 5 ergänzungssteuerpflichtige Geschäftseinheit muss sich innert der für die Abgabe der Ergänzungssteuererklärung vorgesehenen Frist nach Artikel 20 unaufgefordert im Informationssystem anmelden.
+<sup>1</sup> Die ergänzungssteuerpflichtige Geschäftseinheit muss sich innert der Fristen nach Artikel 20 unaufgefordert im Informationssystem Ergänzungssteuer anmelden.[^19-1]
 
 <sup>2</sup> Sie muss ihre Eingaben nach Artikel 17 Absätze 5 Buchstaben a und d sowie 6 elektronisch einreichen.
 
 <sup>3</sup> Sie muss sich unaufgefordert im Informationssystem abmelden, wenn ihre Ergänzungssteuerpflicht endet.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 ### 4. Abschnitt: Veranlagung
 
@@ -348,9 +385,9 @@ Die Frist für die Beschwerde nach Absatz 3 beträgt:
 
 <sup>6</sup> Gegen Entscheide des Bundesverwaltungsgerichts kann nach Massgabe des Bundesgerichtsgesetzes vom 17. Juni 2005[^25-3] beim Bundesgericht Beschwerde geführt werden. Zur Beschwerde in öffentlich-rechtlichen Angelegenheiten sind auch die kantonale Verwaltung für die Ergänzungssteuer und die ESTV berechtigt.
 
-[^25-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^25-2]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^25-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^25-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^25-2]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^25-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### 6. Abschnitt: Inventar
 
@@ -358,7 +395,7 @@ Die Frist für die Beschwerde nach Absatz 3 beträgt:
 
 Die Artikel 154–159 DBG[^26-1] über das Inventar sind nicht anwendbar.
 
-[^26-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^26-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### 7. Abschnitt: Fälligkeit und Erlass der Steuer
 
@@ -370,7 +407,7 @@ Die Artikel 154–159 DBG[^26-1] über das Inventar sind nicht anwendbar.
 
 <sup>2</sup> Die Ergänzungssteuer wird gleichzeitig mit Ablauf der Fristen nach Artikel 20 Absatz 1 für die Ergänzungssteuererklärung fällig.
 
-[^27-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^27-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 28
 
@@ -378,11 +415,293 @@ Die Artikel 154–159 DBG[^26-1] über das Inventar sind nicht anwendbar.
 
 Die Artikel 167–167*g* DBG[^28-1] über den Erlass der Steuer sind nicht anwendbar.
 
-[^28-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^28-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
-## 9. Kapitel: Steuerstrafrecht
+## 8*a*. Kapitel: GIR
 
-### 1. Abschnitt: Verletzung von Verfahrenspflichten, Steuerhinterziehung
+[^chap8a-1]
+
+[^chap8a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
+### 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 28a
+
+**Inhalt und Form**
+
+Inhalt und Form der GIR richten sich nach den Artikeln 8.1.4–8.1.5 der GloBE-Mustervorschriften sowie nach den zugehörigen vom *Inclusive Framework on Base Erosion and Profit Shifting* der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung und der G20 verabschiedeten Regelwerken.
+
+#### Art. 28b
+
+**Sprache**
+
+Die GIR muss in einer Amtssprache des Bundes oder auf Englisch erstellt werden.
+
+### 2. Abschnitt: Pflichten der Geschäftseinheiten
+
+#### Art. 28c
+
+**Pflicht zur Einreichung der GIR**
+
+<sup>1</sup> Jede ergänzungssteuerpflichtige Geschäftseinheit muss eine GIR einreichen. Sie muss diese über das Informationssystem nach Artikel 28*j* einreichen.
+
+<sup>2</sup>
+
+Eine ergänzungssteuerpflichtige Geschäftseinheit muss keine GIR einreichen, wenn:
+
+- a. eine andere steuerlich der Schweiz zugehörige Geschäftseinheit der Unternehmensgruppe im Informationssystem nach Artikel 28*j* die GIR einreicht; oder
+- b.
+
+  eine andere Geschäftseinheit der Unternehmensgruppe die GIR gemäss Artikel 8.1.2 der GloBE-Mustervorschriften in einem anderen Steuerhoheitsgebiet einreicht, sofern:
+
+  - 1\. das Steuerhoheitsgebiet, welchem die Geschäftseinheit steuerlich zugehörig ist, ein Partnerstaat ist, und
+  - 2\. beim Partnerstaat, welchem die Geschäftseinheit steuerlich zugehörig ist, kein systemisches Scheitern eingetreten ist; unter einem systemischen Scheitern ist ein Zustand zu verstehen, der eintritt, wenn der Partnerstaat der Pflicht zum automatischen Austausch der GIR aus Gründen, die sich nicht durch den anwendbaren völkerrechtlichen Vertrag rechtfertigen lassen, anhaltend nicht nachkommt.
+
+<sup>3</sup> Reicht eine ergänzungssteuerpflichtige Geschäftseinheit keine GIR ein, so muss sie oder die steuerlich der Schweiz zugehörige Geschäftseinheit nach Absatz 2 Buchstabe a im Informationssystem nach Artikel 28*j* angeben, von welcher Geschäftseinheit die GIR eingereicht wird und welchem Steuerhoheitsgebiet diese Geschäftseinheit steuerlich zugehörig ist.
+
+<sup>4</sup> Steuerlich der Schweiz zugehörige Geschäftseinheiten, die eine GIR einreichen, müssen der ESTV auf Verlangen über alle Tatsachen, die für die Umsetzung des anwendbaren völkerrechtlichen Vertrags und dieser Verordnung von Bedeutung sind, Auskunft erteilen.
+
+<sup>5</sup> Die übrigen steuerlich der Schweiz zugehörigen Geschäftseinheiten einer Unternehmensgruppe müssen der ESTV auf Verlangen Auskunft über die Firma, die Adresse und die steuerliche Zugehörigkeit der zur Einreichung der GIR verpflichteten Geschäftseinheit erteilen, sofern die ergänzungssteuerpflichtige Geschäftseinheit diese Auskunft nicht erteilt.
+
+#### Art. 28d
+
+**Einreichungsfristen für die GIR**
+
+<sup>1</sup> Die ergänzungssteuerpflichtige Geschäftseinheit oder die steuerlich der Schweiz zugehörige Geschäftseinheit nach Artikel 28*c* Absatz 2 Buchstabe a muss die GIR oder die Angabe, von welcher Geschäftseinheit in einem anderen Steuerhoheitsgebiet die GIR eingereicht wird, innert der Fristen nach Artikel 20 einreichen.
+
+<sup>2</sup> Gibt eine ergänzungssteuerpflichte Geschäftseinheit an, dass die GIR gemäss Artikel 28*c* Absatz 2 Buchstabe b von einer Geschäftseinheit in einem anderen Steuerhoheitsgebiet eingereicht wird, erhält die ESTV aber keine GIR vom Partnerstaat, so setzt sie der ergänzungssteuerpflichtigen Geschäftseinheit eine angemessene Frist zur Einreichung der GIR.
+
+#### Art. 28e
+
+**Verwaltungssanktion bei Säumnis**
+
+Versäumt die ergänzungssteuerpflichtige Geschäftseinheit oder die Geschäftseinheit nach Artikel 28*c* Absatz 2 Buchstabe a die Einreichungsfrist nach Artikel 28*d*, so wird die ergänzungssteuerpflichtige Geschäftseinheit für jeden Tag zwischen dem Ende der Frist und der Einreichung der GIR mit einem Betrag von 200 Franken belastet, höchstens jedoch mit 50 000 Franken.
+
+### 3. Abschnitt: Übermittlung und Verwendung der GIR sowie Verjährung
+
+#### Art. 28f
+
+**Übermittlung und Verwendung der GIR**
+
+<sup>1</sup> Die ESTV übermittelt die von den Geschäftseinheiten erhaltenen GIR innerhalb der in der GloBE-Vereinbarung[^28f-1] festgelegten Fristen und gemäss den Vorgaben der GloBE-Vereinbarung an die zuständigen Behörden der Partnerstaaten, welchen mindestens eine Geschäftseinheit derselben multinationalen Unternehmensgruppe steuerlich zugehörig ist.
+
+<sup>2</sup> Sie weist die zuständigen Behörden der Partnerstaaten auf die Einschränkungen bei der Verwendung der GIR sowie auf die Geheimhaltungspflichten nach den Amtshilfebestimmungen des anwendbaren völkerrechtlichen Vertrags hin.
+
+[^28f-1]: [SR 0.653.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40372)
+
+#### Art. 28g
+
+**Verjährung**
+
+<sup>1</sup> Der Anspruch der ESTV gegenüber der ergänzungssteuerpflichtigen Geschäftseinheit oder der Geschäftseinheit der Unternehmensgruppe, welche die GIR anstelle der ergänzungssteuerpflichtigen Geschäftseinheit einreicht, auf Einreichung der GIR verjährt fünf Jahre nach Ablauf des Kalenderjahrs, in dem die GIR einzureichen war.
+
+<sup>2</sup> Die Verjährung wird durch jede auf die Geltendmachung des Anspruchs auf die GIR gerichtete Amtshandlung unterbrochen, die einer ergänzungssteuerpflichtigen Geschäftseinheit oder der Geschäftseinheit der Unternehmensgruppe, welche die GIR anstelle der ergänzungssteuerpflichtigen Geschäftseinheit einreicht, zur Kenntnis gebracht wird. Mit der Unterbrechung beginnt die Verjährungsfrist neu zu laufen.
+
+<sup>3</sup> Die Verjährung tritt spätestens zehn Jahre nach Ablauf des Kalenderjahres ein, in dem die GIR einzureichen war.
+
+### 4. Abschnitt: Von den Partnerstaaten erhaltene GIR
+
+#### Art. 28h
+
+<sup>1</sup> Die ESTV macht die von den Partnerstaaten erhaltenen GIR im Abrufverfahren den kantonalen Verwaltungen für die Ergänzungssteuer und den Veranlagungsbehörden für die Ergänzungssteuer derjenigen Kantone zugänglich, welchen Geschäftseinheiten der betreffenden multinationalen Unternehmensgruppe steuerlich zugehörig sind. Mitarbeiterinnen und Mitarbeiter dieser Behörden haben nur dann auf diese Informationen Zugriff, wenn sie eine Zwei-Faktor-Authentifizierung nutzen und einer der Faktoren ein physisches, eindeutiges und fälschungssicheres Identifikationsmerkmal ist.
+
+<sup>2</sup> Die ESTV weist diese Behörden auf die Einschränkungen bei der Verwendung der GIR sowie auf die Geheimhaltungspflichten nach den Amtshilfebestimmungen des anwendbaren völkerrechtlichen Vertrags hin.
+
+### 5. Abschnitt: Organisation und Verfahren
+
+#### Art. 28i
+
+**Aufgaben der ESTV**
+
+<sup>1</sup> Die ESTV sorgt für die richtige Anwendung des anwendbaren völkerrechtlichen Vertrags sowie dieser Verordnung.
+
+<sup>2</sup> Sie trifft alle Massnahmen und Vorkehrungen, die dafür notwendig sind.
+
+<sup>3</sup> Sie kann die Verwendung bestimmter Formulare vorschreiben und verlangen, dass gewisse Formulare ausschliesslich in elektronischer Form eingereicht werden.
+
+#### Art. 28j
+
+**Organisation und Inhalt des Informationssystems GIR**
+
+<sup>1</sup> Die ESTV betreibt ein Informationssystem zum Empfang und zur Bearbeitung der GIR (Informationssystem GIR).
+
+<sup>2</sup> Sie kann darin die folgenden besonders schützenswerten Personendaten bearbeiten, sofern diese Daten für die Erfüllung ihrer Aufgaben nach dieser Verordnung erforderlich sind: Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen.
+
+<sup>3</sup>
+
+Das Informationssystem GIR darf namentlich verwendet werden, um:
+
+- a. ein zentrales Verzeichnis der ergänzungssteuerpflichtigen Geschäftseinheiten, welche eine GIR einreichen oder angeben müssen, von welcher anderen Geschäftseinheit der Unternehmensgruppe die GIR eingereicht wird (zentrales Verzeichnis GIR), zu führen;
+- b. GIR einzureichen und zu bearbeiten;
+- c. GIR an Partnerstaaten zu übermitteln und von diesen zu empfangen;
+- d. Rechtsverfahren im Zusammenhang mit dem anwendbaren völkerrechtlichen Vertrag und dieser Verordnung zu bearbeiten;
+- e. die Überprüfung nach Artikel 28*o* durchzuführen;
+- f. administrative und strafrechtliche Sanktionen zu verhängen und zu vollstrecken;
+- g. Amts- und Rechtshilfeersuchen zu bearbeiten;
+- h. Statistiken zu erstellen.
+
+<sup>4</sup>
+
+Es enthält namentlich folgende Daten:
+
+- a. das zentrale Verzeichnis GIR;
+- b. die GIR.
+
+<sup>5</sup>
+
+Das zentrale Verzeichnis GIR enthält namentlich folgende Daten der ergänzungssteuerpflichtigen Geschäftseinheiten:
+
+- a. die Firma;
+- b. den Sitz;
+- c. die UID;
+- d. die zur Vertretung der Geschäftseinheiten bevollmächtigten Personen;
+- e. gegebenenfalls die entsprechenden Daten der Geschäftseinheit der Unternehmensgruppe, welche die GIR anstelle der ergänzungssteuerpflichtigen Geschäftseinheit einreicht.
+
+<sup>6</sup> Die ESTV gewährt den Veranlagungsbehörden für die Ergänzungssteuer und den kantonalen Verwaltungen für die Ergänzungssteuer im Abrufverfahren Zugriff auf die Daten im Informationssystem GIR.
+
+<sup>7</sup> Sie verwendet die UID für die Erfüllung ihrer Aufgaben gemäss dieser Verordnung systematisch.
+
+#### Art. 28k
+
+**Bearbeitungsrechte**
+
+<sup>1</sup> Die ESTV kann zur Erfüllung ihrer Aufgaben nach dieser Verordnung sowie den anwendbaren völkerrechtlichen Verträgen ihre Daten im Informationssystem GIR bearbeiten.
+
+<sup>2</sup>
+
+Die kantonalen Steuerverwaltungen haben Einsicht in:
+
+- a. das zentrale Verzeichnis GIR;
+- b. die GIR einer Unternehmensgruppe, sofern Geschäftseinheiten oder Steuerobjekte dieser Unternehmensgruppe steuerlich dem Kanton zugehörig sind.
+
+<sup>3</sup> Die Kantone dürfen die Daten, von denen sie aufgrund dieser Verordnung Kenntnis erhalten, verwenden, um ihre Aufgaben im Bereich der direkten Bundessteuer sowie der Kantons- und Gemeindesteuern zu erfüllen.
+
+<sup>4</sup> Die ESTV kann zur Erfüllung ihrer Aufgaben nach dieser Verordnung sämtliche Daten des Informationssystems GIR, einschliesslich der folgenden besonders schützenswerten Personendaten, bearbeiten: Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen. Sie kann diese Daten verwenden, um ihre Aufgaben im Bereich der direkten Bundessteuer zu erfüllen.
+
+<sup>5</sup> Sie kann Statistiken über die GIR erstellen und publizieren.
+
+#### Art. 28l
+
+**Vernichtung der Daten**
+
+Die ESTV vernichtet die Daten spätestens 20 Jahre nach Ablauf des Kalenderjahres, in dem sie diese erhalten hat.
+
+#### Art. 28m
+
+**Pflichten der Geschäftseinheiten**
+
+<sup>1</sup> Die ergänzungssteuerpflichtige Geschäftseinheit oder die steuerlich der Schweiz zugehörige Geschäftseinheit nach Artikel 28*c* Absatz 2 Buchstabe a muss sich innert der Fristen nach Artikel 28*d* unaufgefordert im Informationssystem GIR anmelden.
+
+<sup>2</sup> Sie muss ihre Eingaben nach Artikel 28*j* Absatz 5 elektronisch einreichen.
+
+<sup>3</sup> Sie muss sich unaufgefordert im Informationssystem abmelden, wenn ihre Pflicht, eine GIR einzureichen, endet.
+
+#### Art. 28n
+
+**Geheimhaltungspflicht**
+
+<sup>1</sup> Wer mit dem Vollzug des anwendbaren völkerrechtlichen Vertrags und dieser Verordnung betraut ist oder zu deren Vollzug beigezogen wird, hat gegenüber anderen Amtsstellen und Dritten über die in Ausübung dieser Tätigkeit gemachten Wahrnehmungen Stillschweigen zu bewahren.
+
+<sup>2</sup>
+
+Keine Geheimhaltungspflicht besteht:
+
+- a. bei der Übermittlung von Informationen und Bekanntmachungen nach dem anwendbaren völkerrechtlichen Vertrag und dieser Verordnung;
+- b. gegenüber Organen der Rechtspflege und der Verwaltung, die das Eidgenössische Finanzdepartement (EFD) ermächtigt hat, im Einzelfall amtliche Auskünfte bei den mit dem Vollzug dieser Verordnung betrauten Behörden einzuholen;
+- c. soweit der anwendbare völkerrechtliche Vertrag die Aufhebung der Geheimhaltungspflicht zulässt und im schweizerischen Recht eine Grundlage für diese Aufhebung besteht.
+
+#### Art. 28o
+
+**Überprüfung**
+
+<sup>1</sup> Die ESTV überprüft gestützt auf die vorliegenden Informationen die Erfüllung der Pflichten nach dem anwendbaren völkerrechtlichen Vertrag und dieser Verordnung auf deren Vollständigkeit und Konformität mit dem internationalen Standard.
+
+<sup>2</sup> Stellt sie fest, dass eine steuerlich der Schweiz zugehörige Geschäftseinheit ihren Pflichten nicht oder mangelhaft nachgekommen ist, so setzt sie der Geschäftseinheit unter Hinweis auf die Massnahmen nach Absatz 3 eine angemessene Frist zur Behebung der Mängel.
+
+<sup>3</sup>
+
+Behebt die ergänzungssteuerpflichtige Geschäftseinheit die Mängel nicht fristgerecht, so kann die ESTV:
+
+- a. die Herausgabe von Geschäftsbüchern, Belegen und anderen Urkunden der Geschäftseinheit verlangen oder diese Unterlagen an Ort und Stelle überprüfen;
+- b. schriftliche und mündliche Auskünfte einholen.
+
+<sup>4</sup> Im Streitfall erlässt die ESTV eine Verfügung.
+
+<sup>5</sup>
+
+Auf Antrag erlässt die ESTV eine Feststellungsverfügung über:
+
+- a. die Pflicht der Geschäftseinheit zur Einreichung der GIR nach dem anwendbaren völkerrechtlichen Vertrag und dieser Verordnung;
+- b. den Inhalt der GIR nach dem anwendbaren völkerrechtlichen Vertrag und dieser Verordnung.
+
+### 6. Abschnitt: Aussetzung und Kündigung
+
+#### Art. 28p
+
+**Zuständigkeit**
+
+<sup>1</sup>
+
+Die ESTV darf nur mit Ermächtigung des Bundesrates handeln, wenn sie gestützt auf den anwendbaren völkerrechtlichen Vertrag:
+
+- a. den Austausch der GIR mit einem Partnerstaat aussetzt oder kündigt;
+- b. den Vertrag kündigt.
+
+<sup>2</sup> Sie setzt den Austausch der GIR gegenüber einem Partnerstaat in eigener Kompetenz aus, solange der Partnerstaat die Anforderungen der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung an die Vertraulichkeit und die Datensicherheit nicht erfüllt.
+
+#### Art. 28q
+
+**Antrag einer ergänzungssteuerpflichtigen Geschäftseinheit**
+
+<sup>1</sup> Eine ergänzungssteuerpflichtige Geschäftseinheit kann beim EFD die Aussetzung des Austauschs der GIR mit einem Partnerstaat beantragen, wenn sie glaubhaft macht, dass der Partnerstaat die im anwendbaren völkerrechtlichen Vertrag vorgesehenen Bestimmungen betreffend Geheimhaltung und Einschränkungen bei der Verwendung der GIR verletzt.
+
+<sup>2</sup> Hält das EFD den Antrag für begründet, so unterbreitet es den Antrag dem Bundesrat zum Entscheid. Der Bundesrat entscheidet endgültig.
+
+<sup>3</sup> Hält das EFD den Antrag für unbegründet, so erlässt es eine Feststellungsverfügung darüber, dass keine Verletzung der im anwendbaren völkerrechtlichen Vertrag vorgesehenen Bestimmungen betreffend Geheimhaltung und Einschränkungen bei der Verwendung der GIR durch den Partnerstaat festgestellt wurde. Heisst die Beschwerdeinstanz eine dagegen erhobene Beschwerde gut, so unterbreitet das EFD den Antrag dem Bundesrat zum Entscheid. Der Bundesrat entscheidet endgültig.
+
+## 9. Kapitel: Strafbestimmungen
+
+[^chap9-1]
+
+[^chap9-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
+### 1. Abschnitt: Übertretungen betreffend die GIR
+
+[^chap9-sec1-1]
+
+[^chap9-sec1-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
+#### Art. 28r
+
+**Unwahre oder unvollständige Angaben in der GIR**
+
+<sup>1</sup> Wer in der GIR vorsätzlich unwahre oder unvollständige Angaben macht, welche die gewünschten Informationen wesentlich verfälschen und ein falsches Bild der tatsächlichen Verhältnisse wiedergeben, wird mit Busse bis zu 100 000 Franken bestraft.
+
+<sup>2</sup> Fällt eine Busse von höchstens 25 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 des Bundesgesetzes vom 22. März 1974[^28r-1] über das Verwaltungsstrafrecht (VStrR) strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die angedrohte Strafe unverhältnismässig wären, so kann von einer Verfolgung dieser Personen abgesehen und an ihrer Stelle die Geschäftseinheit zur Bezahlung der Busse verurteilt werden (Art. 7 VStrR).
+
+[^28r-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
+#### Art. 28s
+
+**Widerhandlungen gegen amtliche Verfügungen**
+
+Wer im Rahmen einer Überprüfung nach Artikel 28*o* einer amtlichen Verfügung, die auf die Strafdrohung dieses Artikels hinweist, vorsätzlich nicht Folge leistet, wird mit Busse bis zu 10 000 Franken bestraft.
+
+#### Art. 28t
+
+**Zuständigkeit und Verfahren**
+
+<sup>1</sup> Für die Verfolgung und Beurteilung von Widerhandlungen gegen die Artikel 28*r* und 28*s* ist das VStrR[^28t-1] anwendbar.
+
+<sup>2</sup> Verfolgende und urteilende Behörde ist die ESTV.
+
+[^28t-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
+### 1*a*. Abschnitt: Übertretungen betreffend die Erhebung der Ergänzungssteuer
+
+[^chap9-sec1a-1]
+
+[^chap9-sec1a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 #### Art. 29
 
@@ -416,7 +735,7 @@ Die ergänzungssteuerpflichtige Geschäftseinheit wird mit Busse bestraft, wenn 
 
 <sup>5</sup> Die ergänzungssteuerpflichtige Geschäftseinheit wird mit Busse bestraft, wenn sie versucht, eine Ergänzungssteuer zu hinterziehen. Die Busse beträgt zwei Drittel der Busse, die bei vorsätzlicher und vollendeter Ergänzungssteuerhinterziehung festzusetzen wäre.
 
-[^30-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^30-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 31
 
@@ -430,21 +749,35 @@ Die ergänzungssteuerpflichtige Geschäftseinheit wird mit Busse bestraft, wenn 
 
 <sup>4</sup> Werden im Geschäftsbereich einer juristischen Person Teilnahmehandlungen (Anstiftung, Gehilfenschaft, Mitwirkung) an Ergänzungssteuerhinterziehungen der ergänzungssteuerpflichtigen Geschäftseinheit begangen, so sind die Absätze 1–3 auf die juristische Person anwendbar.
 
-[^31-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^31-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 32
 
-**Verfahren und Verjährung**
+**Zuständigkeit und Verfahren**[^32-1]
 
-<sup>1</sup> Das Verfahren richtet sich sinngemäss nach den Artikeln 182 Absätze 1, 3 und 4 sowie 183 DBG[^32-1].
+<sup>1</sup> Soweit das kantonale Recht keine andere Behörde bestimmt, ist die Behörde, welcher die Verfolgung gemäss Artikel 182 Absatz 4 DBG[^32-2] obliegt, auch für die Verfolgung und Beurteilung von Übertretungen betreffend die Ergänzungssteuer zuständig.
 
-<sup>2</sup> Die Vorschriften über die Verfahrensgrundsätze, das Veranlagungs- und das Beschwerdeverfahren dieser Verordnung gelten sinngemäss. Die Strafgerichtsbarkeit ist ausgeschlossen.
+<sup>2</sup> Das Verfahren richtet sich sinngemäss nach den Artikeln 182 Absätze 1, 3 und 4 sowie 183 DBG.
 
-<sup>3</sup> Für die Verjährung der Strafverfolgung sowie den Bezug und die Verjährung der Bussen und Kosten gelten die Artikel 184 und 185 DBG sinngemäss.
+<sup>3</sup> Gegen den Einspracheentscheid der kantonalen Behörde kann gemäss Artikel 25 beim Bundesverwaltungsgericht Beschwerde erhoben werden.
 
-[^32-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^32-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^32-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
-### 2. Abschnitt: Steuervergehen
+#### Art. 32a
+
+**Verjährung und Bezug**[^32a-1]
+
+Für die Verjährung der Strafverfolgung sowie den Bezug und die Verjährung der Bussen und Kosten gelten die Artikel 184 und 185 DBG[^32a-2] sinngemäss.
+
+[^32a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^32a-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+
+### 2. Abschnitt: Vergehen
+
+[^chap9-sec2-1]
+
+[^chap9-sec2-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
 
 #### Art. 33
 
@@ -456,7 +789,7 @@ Die ergänzungssteuerpflichtige Geschäftseinheit wird mit Busse bestraft, wenn 
 
 <sup>3</sup> Für die Selbstanzeige gilt Artikel 186 Absatz 3 DBG[^33-1] sinngemäss.
 
-[^33-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^33-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 34
 
@@ -464,7 +797,7 @@ Die ergänzungssteuerpflichtige Geschäftseinheit wird mit Busse bestraft, wenn 
 
 Das Verfahren richtet sich sinngemäss nach Artikel 188 DBG[^34-1].
 
-[^34-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^34-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 35
 
@@ -480,7 +813,7 @@ Das Verfahren richtet sich sinngemäss nach Artikel 188 DBG[^34-1].
 
 Die Artikel 190–195 DBG[^36-1] über die besonderen Untersuchungsmassnahmen der ESTV bei Verdacht auf schwere Steuerwiderhandlungen gelten sinngemäss.
 
-[^36-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^36-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ## 10. Kapitel: Abrechnung zwischen Bund und Kantonen sowie unter den Kantonen
 
@@ -520,9 +853,23 @@ Die veranlagenden Kantone können pro Veranlagungsverfügung eine Entschädigung
 
 <sup>2</sup> Die Bestimmungen über die internationale Ergänzungssteuer finden, mit Ausnahme von Artikel 10 Absatz 3, Anwendung auf Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften, die ab dem 1. Januar 2025 beginnen. Artikel 10 Absatz 3 findet zu einem späteren Zeitpunkt Anwendung.[^40-1]
 
-<sup>3</sup> Bei fahrlässiger Verletzung von Verfahrenspflichten oder fahrlässiger Steuerhinterziehung entfällt die Strafbarkeit nach den Artikeln 29 und 30 für alle Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften, die bis am 31. Dezember 2026 beginnen und bis am 30. Juni 2028 enden.
+<sup>3</sup> Die Verwaltungssanktion bei Säumnis nach Artikel 28*e* sowie die Strafbarkeit bei fahrlässiger Verletzung von Verfahrenspflichten oder fahrlässiger Steuerhinterziehung nach den Artikeln 29 und 30 entfallen für alle Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften, die bis am 31. Dezember 2026 beginnen und bis am 30. Juni 2028 enden.[^40-2]
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^40-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+
+#### Art. 40a
+
+**Übergangsbestimmungen zur Änderung vom 26. November 2025**[^40a-1]
+
+<sup>1</sup> Die Artikel 5 Absätze 1, 1<sup>bis</sup> und 3 sowie 13 Absatz 2 der Änderung vom 26. November 2025 finden keine Anwendung auf Veranlagungsverfahren, zu denen zum Zeitpunkt des Inkrafttretens dieser Änderung bereits eine Veranlagungsverfügung erlassen wurde.
+
+<sup>2</sup> Die Bestimmungen über die GIR finden Anwendung auf Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften, die ab dem 1. Januar 2024 beginnen.
+
+<sup>3</sup> Die Bestimmungen betreffend den automatischen Austausch der GIR zwischen der Schweiz und ihren Partnerstaaten treten erst in Kraft, wenn die GloBE-Vereinbarung[^40a-2] in Kraft getreten ist.
+
+[^40a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 792](https://fedlex.data.admin.ch/eli/oc/2025/792)).
+[^40a-2]: [SR 0.653.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40372)
 
 #### Art. 41
 
