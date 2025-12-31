@@ -4,13 +4,12 @@ number: "436.811"
 title: Ordonnance sur la Haute école spécialisée bernoise
 short: OHESB
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-16
+version: 2026-01-01
+version_adopted: 2025-11-19
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.811"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2723/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3274/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2723/pdf_file"
 
 (OHESB)
 
-du 16.11.2022 (état au 01.01.2023)
+du 16.11.2022 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -87,10 +86,9 @@ arrête:
 
 <sup>3</sup> Sauf convention contraire, les biens matériels et immatériels financés dans le cadre des mandats deviennent propriété de la Haute école spécialisée bernoise.
 
-<sup>4</sup> Le conseil de la Haute école spécialisée
+<sup>4</sup> Le conseil de la Haute école spécialisée fixe les modalités de détail par voie de règlement, notamment les compétences et les taxes destinées à couvrir les frais administratifs.
 
-- a fixe par voie de règlement les modalités de détail, notamment les compétences et les taxes destinées à couvrir les frais administratifs;
-- b peut déléguer partiellement ou totalement à la rectrice ou au recteur la compétence visée à l'alinéa 1.
+<sup>5</sup> Il peut déléguer partiellement ou totalement à la rectrice ou au recteur la compétence visée à l'alinéa 4.
 
 #### Art. 5
 
@@ -270,15 +268,15 @@ arrête:
 - f les congés de courte durée,
 - g la prime de fidélité.
 
-<sup>2</sup> Le conseil de la Haute école spécialisée informe en temps utile les associations de personnel de toutes les dispositions dérogeant à la législation sur le personnel dans les domaines énumérés à l'alinéa 1.
+<sup>2</sup> Il informe en temps utile les organes de participation désignés dans les statuts ainsi que les associations de personnel de toutes les dispositions dérogeant à la législation sur le personnel dans les domaines énumérés à l'alinéa 1.
 
-<sup>3</sup> Il consulte les associations de personnel avant d'édicter des dérogations importantes et entretient, en fonction des besoins, un dialogue avec elles.
+<sup>3</sup> Il consulte les organes de participation et les associations de personnel avant d'édicter des dérogations importantes et entretient, en fonction des besoins, un dialogue avec elles.
 
 #### Art. 23
 
-**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps des membres de la direction de la Haute école spécialisée habilités à voter**
+**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps**
 
-<sup>1</sup> Les membres de la direction de la Haute école spécialisée habilités à voter ne sont ni concernés par la saisie du temps de travail, ni par la réglementation relative à l'indemnisation financière du solde de vacances et du solde horaire et n'ont pas de compte épargne-temps.
+<sup>1</sup> La rectrice ou le recteur, les vice-rectrices et les vice-recteurs ainsi que les directrices et directeurs de département ne sont concernés ni par la saisie du temps de travail, ni par la réglementation relative à l'indemnisation financière du solde de vacances et du solde horaire et n'ont pas de compte épargne-temps.
 
 #### Art. 24
 
@@ -356,6 +354,8 @@ arrête:
 
 <sup>1</sup> L'autorité d'engagement ainsi que les enseignantes et les enseignants peuvent résilier les rapports de travail par écrit pour la fin d’un semestre, moyennant un préavis de trois mois.
 
+<sup>1a</sup> À l’expiration d’une période au sens de l’article 28, alinéa 1 LPers, les rapports de travail des membres du corps enseignant peuvent être résiliés pour la fin d’un mois.
+
 <sup>2</sup> Les parties peuvent s'entendre sur un autre terme de résiliation ou un autre délai de préavis.
 
 #### Art. 33
@@ -392,7 +392,7 @@ arrête:
 
 **Octroi d'indemnités de fonction**
 
-<sup>1</sup> Les enseignantes et les enseignants qui assument des fonctions de direction dans l'enseignement, la recherche et développement, les prestations de service ou la formation continue perçoivent une indemnité de fonction annuelle d'un montant maximum de 20'000 francs.
+<sup>1</sup> Les enseignantes et les enseignants qui assument des fonctions de direction dans l'enseignement, la recherche et développement, les prestations de service ou la formation continue peuvent percevoir une indemnité de fonction annuelle d'un montant maximum de 20'000 francs. Les exigences et les contraintes liées aux fonctions de direction assumées sont déterminantes.
 
 <sup>2</sup> Le conseil de la Haute école spécialisée fixe les modalités de détail par voie de règlement. Celui-ci doit être porté à la connaissance de la Direction de l'instruction publique et de la culture.
 
@@ -863,7 +863,7 @@ arrête:
 
 **Taxe d'inscription**
 
-<sup>1</sup> La taxe d'inscription à une filière d'études s’élève à 100 francs.
+<sup>1</sup> La taxe d'inscription à une filière d'études s’élève à 150 francs.
 
 <sup>2</sup> Un remboursement de la taxe d'inscription est exclu.
 
@@ -880,9 +880,9 @@ arrête:
 
 **Taxe pour les études de bachelor et de master**
 
-<sup>1</sup> La taxe prélevée pour les études de bachelor et de master se monte à 750 francs par semestre.
+<sup>1</sup> La taxe prélevée pour les études de bachelor et de master se monte à 850 francs par semestre.
 
-<sup>2</sup> Les étudiantes étrangères et les étudiants étrangers s'acquittent d'une taxe d'études de 200 francs par semestre en plus de la taxe d'études prévue à l'alinéa 1 si leur domicile civil n'était situé ni en Suisse, ni dans la Principauté du Liechtenstein au moment où ils ont obtenu le diplôme les habilitant à s'inscrire à des études de bachelor.
+<sup>2</sup> Les étudiantes étrangères et les étudiants étrangers s'acquittent d'une taxe d'études de 1700 francs par semestre en plus de la taxe d'études prévue à l'alinéa 1 si leur domicile civil n'était situé ni en Suisse, ni dans la Principauté du Liechtenstein au moment où ils ont obtenu le diplôme les habilitant à s'inscrire à des études de bachelor.
 
 <sup>3</sup> Les étudiantes et les étudiants issus de cantons avec lesquels il n’existe pas de convention intercantonale acquittent, en plus de la taxe d'études, une taxe au tarif de l'accord intercantonal sur les hautes écoles spécialisées[^82-1].
 
@@ -1012,6 +1012,11 @@ arrête:
 
 <sup>4</sup> Elle ou il désigne les spécialistes auxquels il faut faire appel.
 
+<sup>5</sup> La commission de recours peut rendre des décisions par voie de circulation si
+
+- a tous ses membres sont d'accord avec cette manière de procéder et
+- b si l'objet le permet.
+
 #### Art. 96
 
 **Règlement**
@@ -1089,6 +1094,31 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2023.
+
+## T1 Dispositions transitoires de la modification du 19.11.2025
+
+#### Art. T1-1
+
+**Octroi d'indemnités de fonction**
+
+<sup>1</sup> La modification de l'article 36, alinéa 1 est applicable à compter du 1<sup>er</sup> août 2026.
+
+#### Art. T1-2
+
+**Taxes d'inscription**
+
+<sup>1</sup> Les taxes d’inscription prévues par la présente modification sont perçues pour la première fois pour l'inscription au semestre de printemps 2027.
+
+#### Art. T1-3
+
+**Taxe pour les études de bachelor et de master**
+
+<sup>1</sup> La taxe d'études prévue par la présente modification est perçue pour la première fois au semestre d'automne 2026. L'alinéa 2 est réservé.
+
+<sup>2</sup> La taxe d'études supplémentaire (art. 82, al. 2) prévue par le droit en vigueur est acquittée par les étudiantes étrangères et les étudiants étrangers qui, avant le semestre d'automne 2026,
+
+- a sont immatriculés à la Haute école spécialisée bernoise pour des études de bachelor, jusqu'à l'obtention du diplôme de bachelor;
+- b sont immatriculés à la Haute école spécialisée bernoise pour des études de master, jusqu'à l'obtention du diplôme de master.
 
 Berne, le 16 novembre 2022
 

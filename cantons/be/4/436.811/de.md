@@ -4,13 +4,12 @@ number: "436.811"
 title: Verordnung über die Berner Fachhochschule
 short: "Fachhochschulverordnung, FaV"
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-16
+version: 2026-01-01
+version_adopted: 2025-11-19
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.811"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2723/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3274/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2723/pdf_file"
 
 (Fachhochschulverordnung, FaV)
 
-vom 16.11.2022 (Stand 01.01.2023)
+vom 16.11.2022 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -81,16 +80,15 @@ beschliesst:
 
 **Forschungs-, Entwicklungs- und Dienstleistungsverträge**
 
-<sup>1</sup> Verträge mit Dritten über Forschung, Entwicklung und Dienstleistung mit einer Gesamtsumme über 250'000 Franken pro Jahr (inkl. Investitionen und Betriebskosten) sind von der Rektorin oder dem Rektor zu genehmigen. Die Genehmigung trägt der Wissenschaftsfreiheit Rechnung.
+<sup>1</sup> Verträge mit Dritten über Forschung, Entwicklung und Dienstleistung mit einer Gesamtsumme über 250'000 Franken pro Jahr (inkl. Investitionen und Betriebskosten) sind von der Rektorin oder vom Rektor zu genehmigen. Die Genehmigung trägt der Wissenschaftsfreiheit Rechnung.
 
 <sup>2</sup> Verträge mit Dritten über Forschung, Entwicklung und Dienstleistung mit einer Gesamtsumme über 100'000 Franken pro Jahr (inkl. Investitionen und Betriebskosten) sind der Rektorin oder dem Rektor zur Kenntnis zu bringen.
 
 <sup>3</sup> Sofern nichts anderes vereinbart ist, gehen die durch die Aufträge finanzierten materiellen und ideellen Güter in das Eigentum der Berner Fachhochschule über.
 
-<sup>4</sup> Der Fachhochschulrat
+<sup>4</sup> Der Fachhochschulrat regelt die Einzelheiten durch Reglement, namentlich die Zuständigkeiten und die Abgaben zur Deckung der Verwaltungskosten.
 
-- a regelt die Einzelheiten durch Reglement, namentlich die Zuständigkeiten und die Abgaben zur Deckung der Verwaltungskosten,
-- b kann die Befugnis gemäss Absatz 1 ganz oder teilweise der Rektorin oder dem Rektor übertragen.
+<sup>5</sup> Er kann die Befugnis gemäss Absatz 4 ganz oder teilweise der Rektorin oder dem Rektor übertragen.
 
 #### Art. 5
 
@@ -270,15 +268,15 @@ beschliesst:
 - f Bezug von Kurzurlaub,
 - g Bezug der Treueprämie.
 
-<sup>2</sup> Der Fachhochschulrat informiert die Personalverbände rechtzeitig über alle abweichenden Bestimmungen in den aufgeführten Bereichen.
+<sup>2</sup> Er informiert die im Statut bezeichneten Mitwirkungsgremien und die Personalverbände rechtzeitig über alle abweichenden Bestimmungen in den aufgeführten Bereichen.
 
-<sup>3</sup> Er hört die Personalverbände an, bevor er wesentliche Abweichungen erlässt und führt mit diesen nach Bedarf Gespräche.
+<sup>3</sup> Er hört die Mitwirkungsgremien und die Personalverbände an, bevor er wesentliche Abweichungen erlässt und führt mit diesen nach Bedarf Gespräche.
 
 #### Art. 23
 
-**Arbeitszeiterfassung, Ferien- und Zeitguthaben und Langzeitkonto von stimmberechtigten Mitgliedern der Fachhochschulleitung**
+**Arbeitszeiterfassung, Ferien- und Zeitguthaben und Langzeitkonto**
 
-<sup>1</sup> Die stimmberechtigten Mitglieder der Fachhochschulleitung sind von der Arbeitszeiterfassung sowie den Regelungen betreffend die finanzielle Abgeltung von Ferien- und Zeitguthaben ausgenommen und führen kein Langzeitkonto.
+<sup>1</sup> Die Rektorin oder der Rektor, die Vizerektorinnen und Vizerektoren sowie die Departementsleiterinnen und Departementsleiter sind von der Arbeitszeiterfassung sowie den Regelungen betreffend die finanzielle Abgeltung von Ferien- und Zeitguthaben ausgenommen und führen kein Langzeitkonto.
 
 #### Art. 24
 
@@ -356,6 +354,8 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsbehörde sowie die Dozentinnen und Dozenten können das Arbeitsverhältnis schriftlich und unter Wahrung einer Frist von drei Monaten jeweils auf das Ende eines Semesters beenden.
 
+<sup>1a</sup> Nach Ablauf einer Sperrfrist gemäss Artikel 28 PG ist die Beendigung jeweils auf das Ende eines Monats zulässig.
+
 <sup>2</sup> Im gegenseitigen Einvernehmen kann von Termin und Frist abgewichen werden.
 
 #### Art. 33
@@ -392,7 +392,7 @@ beschliesst:
 
 **Gewährung von Funktionszulagen**
 
-<sup>1</sup> Dozentinnen und Dozenten, die als Leiterinnen und Leiter in Lehre, Forschung und Entwicklung, Dienstleistung oder Weiterbildung eingesetzt sind, erhalten eine jährliche Funktionszulage bis höchstens 20'000 Franken.
+<sup>1</sup> Dozentinnen und Dozenten, die als Leiterinnen und Leiter in Lehre, Forschung und Entwicklung, Dienstleistung oder Weiterbildung eingesetzt sind, kann eine jährliche Funktionszulage bis höchstens 20'000 Franken ausgerichtet werden. Massgebend sind die Anforderungen und Belastungen durch die übernommene Leitungsfunktion.
 
 <sup>2</sup> Der Fachhochschulrat regelt das Nähere durch Reglement. Dieses ist der Bildungs- und Kulturdirektion zur Kenntnis zu bringen.
 
@@ -857,13 +857,13 @@ beschliesst:
 
 ### 5.4 Gebühren
 
-### 5.4.1 Anmelde-, Eigungsabklärungs- und Studiengebühren
+### 5.4.1 Anmelde-, Eignungsabklärungs- und Studiengebühren
 
 #### Art. 80
 
 **Anmeldegebühr**
 
-<sup>1</sup> Die Gebühr für die Anmeldung zu einem Studiengang beträgt 100 Franken.
+<sup>1</sup> Die Gebühr für die Anmeldung zu einem Studiengang beträgt 150 Franken.
 
 <sup>2</sup> Eine Rückerstattung der Anmeldegebühr ist ausgeschlossen.
 
@@ -880,9 +880,9 @@ beschliesst:
 
 **Studiengebühren für das Bachelor- und Masterstudium**
 
-<sup>1</sup> Die Studiengebühr für das Bachelor- und Masterstudium beträgt 750 Franken pro Semester.
+<sup>1</sup> Die Studiengebühr für das Bachelor- und Masterstudium beträgt 850 Franken pro Semester.
 
-<sup>2</sup> Ausländische Studierende bezahlen neben der Studiengebühr gemäss Absatz 1 eine zusätzliche Studiengebühr von 200 Franken pro Semester, wenn sie zum Zeitpunkt des Erlangens des Zulassungsausweises zum Studium auf der Bachelorstufe ihren zivilrechtlichen Wohnsitz weder in der Schweiz noch im Fürstentum Liechtenstein hatten.
+<sup>2</sup> Ausländische Studierende bezahlen neben der Studiengebühr gemäss Absatz 1 eine zusätzliche Studiengebühr von 1700 Franken pro Semester, wenn sie zum Zeitpunkt des Erlangens des Zulassungsausweises zum Studium auf der Bachelorstufe ihren zivilrechtlichen Wohnsitz weder in der Schweiz noch im Fürstentum Liechtenstein hatten.
 
 <sup>3</sup> Studierende aus Kantonen, mit denen keine interkantonale Vereinbarung besteht, bezahlen nebst der Studiengebühr eine Gebühr, die sich nach dem Tarif der Interkantonalen Fachhochschulvereinbarung[^82-1] richtet.
 
@@ -1012,6 +1012,11 @@ beschliesst:
 
 <sup>4</sup> Sie oder er bezeichnet die beizuziehenden Fachreferentinnen und Fachreferenten.
 
+<sup>5</sup> Die Rekurskommission kann Beschlüsse auf dem Zirkularweg fassen, wenn
+
+- a alle Mitglieder mit diesem Verfahren einverstanden sind und
+- b es der Gegenstand erlaubt.
+
 #### Art. 96
 
 **Reglement**
@@ -1089,6 +1094,31 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2023 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 19.11.2025
+
+#### Art. T1-1
+
+**Gewährung von Funktionszulagen**
+
+<sup>1</sup> Die Änderung von Artikel 36 Absatz 1 ist ab dem 1. August 2026 anwendbar.
+
+#### Art. T1-2
+
+**Anmeldegebühr**
+
+<sup>1</sup> Die Anmeldegebühren gemäss dieser Änderung werden erstmals für die Anmeldung für das Frühjahrssemester 2027 erhoben.
+
+#### Art. T1-3
+
+**Studiengebühren für das Bachelor- und Masterstudium**
+
+<sup>1</sup> Die Studiengebühren gemäss dieser Änderung werden erstmals für das Herbstsemester 2026 erhoben. Vorbehalten bleibt Absatz 2.
+
+<sup>2</sup> Die zusätzliche Studiengebühr (Art. 82 Abs. 2) nach bisherigem Recht bezahlen ausländische Studierende, die vor dem Herbstsemester 2026:
+
+- a an der Berner Fachhochschule für das Bachelorstudium immatrikuliert sind, bis zum Abschluss des Bachelorstudiums;
+- b an der Berner Fachhochschule für das Masterstudium immatrikuliert sind, bis zum Abschluss des Masterstudiums.
 
 Bern, 16. November 2022
 
