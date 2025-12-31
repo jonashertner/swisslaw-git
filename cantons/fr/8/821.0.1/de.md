@@ -4,13 +4,12 @@ number: "821.0.1"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-02-07
+version: 2026-01-01
+version_adopted: 2025-09-05
 adopted: 1999-11-16
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8041/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8279/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gesundheitsgesetz
 
 (GesG)
 
-vom 16.11.1999 (Fassung in Kraft getreten am 01.01.2025)
+vom 16.11.1999 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -984,6 +983,8 @@ beschliesst:
 - a) die Strafverfolgungsbehörden über alles zu informieren, was auf ein Verbrechen oder Vergehen gegen Leib und Leben, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lässt;
 - a1) die Polizei über jede konkrete Bedrohung im Sinne von Artikel 30f des Gesetzes vom 15. November 1990 über die Kantonspolizei, welche die physische, psychische oder sexuelle Integrität Dritter schwer beeinträchtigen könnte, zu informieren;
 - b) die Polizei über die Anwesenheit einer vermissten oder flüchtigen Person in ihren Räumlichkeiten zu informieren oder Angaben zu machen, mit denen die Person gefunden werden kann.
+- c) ihren Haftpflichtversicherer über das Eintreten eines Haftpflichtfalls zu informieren und ihm die für die Bearbeitung des Falls notwendigen Informationen zu übermitteln;
+- d) ihrer Rechtsanwältin oder ihrem Rechtsanwalt alle für die Bearbeitung eines Falles in Zusammenhang mit ihrer Tätigkeit als Gesundheitsfachperson notwendigen Informationen zu übermitteln.
 
 <sup>3</sup> Vorbehalten sind ausserdem weitere bundes- und kantonsrechtliche Bestimmungen über die Pflicht oder das Recht, eine Behörde zu informieren oder als Zeuge vor Gericht auszusagen.
 
@@ -1050,9 +1051,9 @@ beschliesst:
 
 **Schulen und Ausbildungsprogramme**
 
-<sup>1</sup> Der Staat kann im Gesundheitssektor Schulen führen oder subventionieren, die den vorrangigen Zielen der kantonalen Gesundheitsplanung dienen. Desgleichen kann er Ausbildungs- oder Fortbildungsprogramme auf diesem Gebiet organisieren oder subventionieren.
+<sup>1</sup> Der Staat kann im Gesundheitssektor Schulen führen oder subventionieren, um dem Pflegebedarf der Bevölkerung beider Sprachregionen gerecht zu werden. Desgleichen kann er Ausbildungs- oder Weiterbildungsprogramme auf diesem Gebiet organisieren oder subventionieren.
 
-<sup>2</sup> Der Staatsrat wacht darüber, dass die Zahl der Ausbildungs- und Praktikumsplätze für die Berufe des Gesundheitswesens dem Bedarf des Kantons entspricht, wie er aus der kantonalen Gesundheitsplanung hervorgeht.
+<sup>2</sup> Der Staatsrat achtet darauf, dass die Zahl der Ausbildungs- und Praktikumsplätze für die Berufe des Gesundheitswesens den Pflegebedarf der Bevölkerung deckt.
 
 <sup>3</sup> Der Staatsrat legt die Kriterien und Modalitäten fest, nach denen die Schulen und Ausbildungs- und Fortbildungsprogramme subventioniert werden.
 
@@ -1550,7 +1551,7 @@ beschliesst:
 <sup>2</sup> Sie können diese Daten namentlich folgenden Stellen bekanntgeben:
 
 - a) anderen kantonalen, interkantonalen, eidgenössischen, ausländischen oder internationalen Behörden und Organen, wenn die Daten zur Erfüllung ihrer Aufgaben nötig sind;
-- b) privaten Organen oder Personen, wenn die Daten zur Erfüllung einer gesetzlich übertragenen Aufgabe oder einer gesetzlichen Pflicht nötig sind.
+- b) privaten Organen oder Personen, wenn die Daten zur Erfüllung einer gesetzlich übertragenen Aufgabe oder einer gesetzlichen Pflicht nötig sind, sowie einer Versicherung oder einer Rechtsanwältin oder einem Rechtsanwalt, wenn eine solche Bekanntgabe im Rahmen eines Haftpflichtverfahrens notwendig ist.
 
 <sup>3</sup> Die Direktion kann den Behörden und Organen nach Absatz 2 die Daten des Registers der Gesundheitsfachpersonen über ein Abrufverfahren, namentlich einen On-line-Zugriff, zugänglich machen.
 

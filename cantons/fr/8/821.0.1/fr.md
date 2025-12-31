@@ -4,13 +4,12 @@ number: "821.0.1"
 title: Loi sur la santé
 short: LSan
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-02-07
+version: 2026-01-01
+version_adopted: 2025-09-05
 adopted: 1999-11-16
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8041/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8279/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Santé – L
 
 (LSan)
 
-du 16.11.1999 (version entrée en vigueur le 01.01.2025)
+du 16.11.1999 (version entrée en vigueur le 01.01.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -984,6 +983,8 @@ Décrète:
 - a) à informer les autorités de poursuite pénale de tout fait permettant de conclure à un crime ou à un délit contre la vie ou l'intégrité corporelle, l'intégrité sexuelle ou la santé publique;
 - a1) à informer la police de toute menace concrète susceptible de porter gravement atteinte à l'intégrité physique, psychique ou sexuelle de tiers au sens de l'article 30f de la loi du 15 novembre 1990 sur la Police cantonale;
 - b) à informer la police de la présence d'une personne disparue ou en fuite dans leurs locaux ou à fournir des indications permettant de la retrouver.
+- c) à informer leur assureur en responsabilité civile de la survenance d'un cas de responsabilité civile et à lui transmettre les informations nécessaires pour le traitement dudit cas;
+- d) à transmettre à leur avocat ou avocate toutes les informations nécessaires au traitement d'une affaire liée à leur activité de professionnel-le de la santé.
 
 <sup>3</sup> Sont en outre réservées d'autres dispositions du droit fédéral et cantonal concernant l'obligation ou le droit d'informer une autorité ou de témoigner en justice.
 
@@ -1050,9 +1051,9 @@ Décrète:
 
 **Ecoles et programmes de formation**
 
-<sup>1</sup> L'Etat peut exploiter ou subventionner des écoles dans le domaine de la santé, qui correspondent aux priorités fixées dans la planification sanitaire cantonale. De la même manière, il peut organiser ou subventionner des programmes de formation ou de formation continue dans ce domaine.
+<sup>1</sup> L'Etat peut exploiter ou subventionner des écoles dans le domaine de la santé pour répondre aux besoins en soins de la population des deux régions linguistiques. De la même manière, il peut organiser ou subventionner des programmes de formation ou de formation continue dans ce domaine.
 
-<sup>2</sup> Le Conseil d'Etat veille à ce que le nombre de places de formation et de stage dans le domaine des professions de la santé corresponde aux besoins du canton définis dans la planification sanitaire cantonale.
+<sup>2</sup> Le Conseil d'Etat veille à ce que le nombre de places de formation et de stage dans le domaine des professions de la santé permette de couvrir les besoins en soins de la population.
 
 <sup>3</sup> Le Conseil d'Etat fixe les critères et les modalités de subventionnement de ces écoles et de ces programmes de formation et de formation continue..
 
@@ -1550,7 +1551,7 @@ Décrète:
 <sup>2</sup> Ils peuvent notamment communiquer ces données:
 
 - a) à d'autres autorités et organes cantonaux, intercantonaux, fédéraux, étrangers ou internationaux lorsqu'elles sont nécessaires à l'accomplissement de leurs tâches;
-- b) à des organes ou des personnes privés lorsqu'elles sont nécessaires à l'accomplissement d'une tâche qui leur est confiée par la législation ou d'un devoir légal qui leur incombe.
+- b) à des organes ou des personnes privés lorsqu'elles sont nécessaires à l'accomplissement d'une tâche qui leur est confiée par la législation ou d'un devoir légal qui leur incombe, ainsi qu'à une assurance ou à un avocat ou une avocate lorsqu'une telle communication est nécessaire dans le cadre d'une procédure en responsabilité civile.
 
 <sup>3</sup> La Direction peut ouvrir aux autorités et organes mentionnés à l'alinéa 2 l'accès aux données du registre des professionnels de la santé au moyen d'une procédure d'appel, notamment par un accès en ligne.
 
