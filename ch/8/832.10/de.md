@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250701-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20260101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250701/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Juli 2025)
+vom 18. März 1994 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -410,13 +410,18 @@ Die Daten sind aggregiert weiterzugeben. Der Bundesrat kann vorsehen, dass die D
 
 - a. zur Überwachung der Kostenentwicklung nach Leistungsart und nach Leistungserbringer sowie zur Erarbeitung von Entscheidgrundlagen für Massnahmen zur Eindämmung der Kostenentwicklung;
 - b. zur Analyse der Wirkung des Gesetzes und des Gesetzesvollzugs und zur Erarbeitung von Entscheidgrundlagen im Hinblick auf Gesetzes- und Gesetzesvollzugsänderungen;
-- c. zur Evaluation des Risikoausgleichs.
+- c. zur Evaluation des Risikoausgleichs;
+- d.[^21-2] zur Festlegung von Kostenzielen nach Artikel 54;
+- e.[^21-3] zur Messung von Qualitätszielen und der Kosteneffizienz.
 
 <sup>3</sup> Das Bundesamt ist dafür verantwortlich, dass im Rahmen der Datenverwendung die Anonymität der Versicherten gewahrt ist.
 
-<sup>4</sup> Es stellt die erhobenen Daten den Datenlieferanten, der Forschung und Wissenschaft sowie der Öffentlichkeit zur Verfügung.
+<sup>4</sup> Es stellt die erhobenen Daten den Datenlieferanten, den Kantonen, der Forschung und Wissenschaft sowie der Öffentlichkeit zur Verfügung.[^21-4]
 
 [^21-1]: Fassung gemäss Ziff. I 1 des BG vom 19. März 2021 über die Datenweitergabe der Versicherer in der obligatorischen Krankenpflegeversicherung, in Kraft seit 1. Jan. 2023 ([AS 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [BBl 2019 5397](https://fedlex.data.admin.ch/eli/fga/2019/1903), [5925](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
+[^21-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^21-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^21-4]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 21a
 
@@ -614,6 +619,13 @@ Die obligatorische Krankenpflegeversicherung übernimmt die Kosten der zahnärzt
 <sup>1</sup> Die Leistungen nach den Artikeln 25–31 müssen wirksam, zweckmässig und wirtschaftlich sein. Die Wirksamkeit muss nach wissenschaftlichen Methoden nachgewiesen sein.
 
 <sup>2</sup> Die Wirksamkeit, die Zweckmässigkeit und die Wirtschaftlichkeit der Leistungen werden periodisch überprüft.
+
+<sup>3</sup> Leistungen, bei denen Anhaltspunkte bestehen, dass sie nicht oder nicht mehr wirksam, zweckmässig oder wirtschaftlich sind, werden anhand eines evidenzbasierten Verfahrens evaluiert. Das Evaluationsverfahren beruht auf transparenten Kriterien und den neusten wissenschaftlichen Erkenntnissen und ist verhältnismässig.[^32-1]
+
+<sup>4</sup> Leistungen, die gemäss dem evidenzbasierten Verfahren die Kriterien der Wirksamkeit, der Zweckmässigkeit und der Wirtschaftlichkeit nicht erfüllen, werden von der obligatorischen Krankenpflegeversicherung nicht vergütet.[^32-2]
+
+[^32-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^32-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 33
 
@@ -988,9 +1000,24 @@ Nicht zulässig und damit ungültig sind insbesondere folgende Massnahmen, ohne 
 
 <sup>4</sup> Der Tarifvertrag bedarf der Genehmigung durch die zuständige Kantonsregierung oder, wenn er in der ganzen Schweiz gelten soll, durch den Bundesrat. Die Genehmigungsbehörde prüft, ob der Tarifvertrag mit dem Gesetz und dem Gebot der Wirtschaftlichkeit und Billigkeit in Einklang steht.
 
+<sup>4bis</sup> Die Genehmigungsbehörde muss den Tarifvertrag innerhalb eines Jahres nach der Einreichung des Tarifgenehmigungsgesuchs prüfen. Müssen die Tarifpartner das Gesuch in klar definierten Bereichen ergänzen, so kann die Genehmigungsbehörde die Frist zur Prüfung einmal verlängern.[^46-2]
+
 <sup>5</sup> Die Frist für die Kündigung eines Tarifvertrages und für die Rücktrittserklärung nach Absatz 2 beträgt mindestens sechs Monate.
 
 [^46-1]: Eingefügt durch Art. 86 Ziff. 3 des Epidemiengesetzes vom 28. Sept. 2012, in Kraft seit 1. Jan. 2016 ([AS 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297); [BBl 2011 311](https://fedlex.data.admin.ch/eli/fga/2011/43)).
+[^46-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+
+#### Art. 46a
+
+**Anpassung eines Tarifvertrags, der die gesetzlichen Anforderungen nicht mehr erfüllt**[^46a-1]
+
+<sup>1</sup> Stellt die Genehmigungsbehörde fest, dass ein genehmigter Tarifvertrag die Anforderungen nach Artikel 46 Absatz 4 nicht mehr erfüllt, so kann sie die Tarifpartner auffordern, den Tarifvertrag anzupassen.
+
+<sup>2</sup> Können sich Leistungserbringer und Versicherer nicht innerhalb eines Jahres auf eine Anpassung des Tarifvertrags einigen, so widerruft die Genehmigungsbehörde die von ihr erteilte Genehmigung und setzt nach Anhören der Beteiligten den Tarif fest.
+
+<sup>3</sup> Bei der Ausübung ihrer Befugnisse kann die zuständige kantonale Behörde bei nationalen Tarifstrukturen, die sich als nicht mehr sachgerecht erweisen, differenzierte Tarife für bestimmte medizinische Fachgebiete oder Gruppen von Leistungserbringern festsetzen. Sie muss dabei allfällige Anpassungen des Bundesrates nach Artikel 43 Absatz 5<sup>bis</sup> berücksichtigen.
+
+[^46a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 47
 
@@ -1074,15 +1101,9 @@ Die Massnahmen nach Absatz 1 müssen pro Bereich, der für die jeweilige Art von
 
 #### Art. 48
 
-**Tarifverträge mit Ärzteverbänden**
+[^48-1]
 
-<sup>1</sup> Bei der Genehmigung eines Tarifvertrages mit einem oder mehreren Ärzteverbänden setzt die Genehmigungsbehörde (Art. 46 Abs. 4) nach Anhören der Vertragsparteien einen Rahmentarif fest, dessen Mindestansätze unter und dessen Höchstansätze über denjenigen des genehmigten Vertragstarifes liegen.
-
-<sup>2</sup> Der Rahmentarif kommt beim Wegfall des Tarifvertrages zur Anwendung. Ein Jahr nach dem Wegfall des Tarifvertrages kann die Genehmigungsbehörde den Rahmen ohne Rücksicht auf den früheren Vertragstarif neu festsetzen.
-
-<sup>3</sup> Kommt ein Tarifvertrag mit einem Ärzteverband von Anfang an nicht zustande, so kann die Genehmigungsbehörde auf Antrag der Parteien einen Rahmentarif festlegen.
-
-<sup>4</sup> Für Parteien, die einen neuen Tarifvertrag abgeschlossen haben, tritt der Rahmentarif mit der Vertragsgenehmigung ausser Kraft.
+[^48-1]: Aufgehoben durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), mit Wirkung seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 49
 
@@ -1091,6 +1112,8 @@ Die Massnahmen nach Absatz 1 müssen pro Bereich, der für die jeweilige Art von
 <sup>1</sup> Für die Vergütung der stationären Behandlung einschliesslich Aufenthalt und Pflegeleistungen in einem Spital (Art. 39 Abs. 1) oder einem Geburtshaus (Art. 29) vereinbaren die Vertragsparteien Pauschalen.[^49-2] In der Regel sind Fallpauschalen festzulegen. Die Pauschalen sind leistungsbezogen und beruhen auf gesamtschweizerisch einheitlichen Strukturen. Die Vertragsparteien können vereinbaren, dass besondere diagnostische oder therapeutische Leistungen nicht in der Pauschale enthalten sind, sondern getrennt in Rechnung gestellt werden. Die Spitaltarife orientieren sich an der Entschädigung jener Spitäler, welche die tarifierte obligatorisch versicherte Leistung in der notwendigen Qualität effizient und günstig erbringen.
 
 <sup>2</sup> Die Tarifpartner setzen gemeinsam mit den Kantonen eine Organisation ein, die für die Erarbeitung und Weiterentwicklung sowie die Anpassung und Pflege der Strukturen zuständig ist. Zur Finanzierung der Tätigkeiten kann ein kostendeckender Beitrag pro abgerechnetem Fall erhoben werden. Die Spitäler haben der Organisation die dazu notwendigen Kosten- und Leistungsdaten abzuliefern. Fehlt eine derartige Organisation, so wird sie vom Bundesrat für die Tarifpartner verpflichtend eingesetzt. Die von der Organisation erarbeiteten Strukturen sowie deren Anpassungen werden von den Tarifpartnern dem Bundesrat zur Genehmigung unterbreitet. Können sich diese nicht einigen, so legt der Bundesrat die Strukturen fest.[^49-3]
+
+<sup>2bis</sup> Der Bundesrat kann Anpassungen an den Strukturen vornehmen, wenn sie sich als nicht mehr sachgerecht erweisen und sich die Parteien nicht auf eine Revision einigen können.[^49-4]
 
 <sup>3</sup>
 
@@ -1112,6 +1135,7 @@ Die Vergütungen nach Absatz 1 dürfen keine Kostenanteile für gemeinwirtschaft
 [^49-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^49-2]: Fassung gemäss Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432), [6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
 [^49-3]: Siehe auch: die UeB Änd. 22.10.2008 der V vom 22. Juni 1995 über die Krankenversicherung ([SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)).
+[^49-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 49a
 
@@ -1187,7 +1211,7 @@ Nach Anhören der zuständigen Kommissionen und unter Berücksichtigung der Grun
 
 <sup>2</sup> Für Geburtsgebrechen (Art. 3 Abs. 2 ATSG[^52-3]) werden zusätzlich Kosten für die zum Leistungskatalog der Invalidenversicherung gehörenden Arzneimittel nach Artikel 14<sup>ter</sup> Absatz 5 des Bundesgesetzes vom 19. Juni 1959[^52-4] über die Invalidenversicherung zu den gestützt auf diese Bestimmung festgelegten Höchstpreisen übernommen.[^52-5]
 
-<sup>3</sup> Analysen, Arzneimittel und der Untersuchung oder der Behandlung dienende Mittel und Gegenstände dürfen der obligatorischen Krankenpflegeversicherung höchstens nach den Tarifen, Preisen und Vergütungsansätzen nach Absatz 1 in Rechnung gestellt werden.[^52-6] Das EDI bezeichnet die im Praxislaboratorium des Arztes oder der Ärztin vorgenommenen Analysen, für die der Tarif nach den Artikeln 46 und 48 festgesetzt werden kann.[^52-7] Es kann zudem die der Untersuchung oder Behandlung dienenden Mittel und Gegenstände nach Absatz 1 Buchstabe a Ziffer 3 bezeichnen, für die ein Tarif nach Artikel 46 vereinbart werden kann.[^52-8]
+<sup>3</sup> Analysen, Arzneimittel und der Untersuchung oder der Behandlung dienende Mittel und Gegenstände dürfen der obligatorischen Krankenpflegeversicherung höchstens nach den Tarifen, Preisen und Vergütungsansätzen nach Absatz 1 in Rechnung gestellt werden.[^52-6] Das EDI bezeichnet die im Praxislaboratorium des Arztes oder der Ärztin vorgenommenen Analysen, für die der Tarif nach Artikel 46 vereinbart werden kann.[^52-7] Es kann zudem die der Untersuchung oder Behandlung dienenden Mittel und Gegenstände nach Absatz 1 Buchstabe a Ziffer 3 bezeichnen, für die ein Tarif nach Artikel 46 vereinbart werden kann.[^52-8]
 
 [^52-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^52-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
@@ -1195,7 +1219,7 @@ Nach Anhören der zuständigen Kommissionen und unter Berücksichtigung der Grun
 [^52-4]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^52-5]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^52-6]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^52-7]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-7]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 [^52-8]: Dritter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
@@ -1214,7 +1238,7 @@ Nach Anhören der zuständigen Kommissionen und unter Berücksichtigung der Grun
 
 **Beschwerde an das Bundesverwaltungsgericht**[^53-1]
 
-<sup>1</sup> Gegen Beschlüsse der Kantonsregierungen nach den Artikeln 39, 45, 46 Absatz 4, 47, 47*b* Absatz 2, 48 Absätze 1–3, 51, 54 und 55 kann beim Bundesverwaltungsgericht Beschwerde geführt werden.[^53-2]
+<sup>1</sup> Gegen Beschlüsse der Kantonsregierungen nach den Artikeln 39, 45, 46 Absatz 4, 46*a* Absatz 2, 47, 47*b* Absatz 2, 51 und 55 kann beim Bundesverwaltungsgericht Beschwerde geführt werden.[^53-2]
 
 <sup>1bis</sup> Organisationen der Versicherer von nationaler oder regionaler Bedeutung, die sich gemäss ihren Statuten dem Schutz der Interessen ihrer Mitglieder im Rahmen der Anwendung dieses Gesetzes widmen, steht das Beschwerderecht gegen Beschlüsse der Kantonsregierungen nach Artikel 39 zu.[^53-3]
 
@@ -1229,20 +1253,54 @@ Das Beschwerdeverfahren richtet sich nach dem Verwaltungsgerichtsgesetz vom 17. 
 - e. In Beschwerdeverfahren gegen Beschlüsse nach Artikel 39 ist die Rüge der Unangemessenheit unzulässig.
 
 [^53-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^53-2]: Fassung gemäss Ziff. IV des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^53-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 [^53-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^53-4]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^53-5]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
-### 5. Abschnitt: Ausserordentliche Massnahmen zur Eindämmung der Kostenentwicklung
+### 5. Abschnitt: Massnahmen zur Eindämmung der Kostenentwicklung
+
+[^tit2-chap4-sec5-1]
+
+[^tit2-chap4-sec5-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 54
 
-**Globalbudgetierung durch die Genehmigungsbehörde**
+**Kosten- und Qualitätsziele**[^54-1]
 
-<sup>1</sup> Die Versicherer können beantragen, dass der Kanton als befristete ausserordentliche Massnahme zur Eindämmung eines überdurchschnittlichen Kostenanstiegs einen Gesamtbetrag (Globalbudget) für die Finanzierung der Spitäler und Pflegeheime festsetzt.
+Der Bundesrat legt nach Anhörung der Versicherer, der Versicherten, der Kantone und der Leistungserbringer jeweils für vier Jahre für die Leistungen Kosten- und Qualitätsziele fest.
 
-<sup>2</sup> Der Kanton hat innert drei Monaten nach der Antragstellung über das Eintreten zu entscheiden. Er hört die Einrichtungen und die Versicherer vorher an.
+[^54-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+
+#### Art. 54a
+
+**Kosten- und Qualitätsziele der Kantone**[^54a-1]
+
+<sup>1</sup> Jeder Kanton kann unter Berücksichtigung der vom Bundesrat nach Artikel 54 festgelegten Kosten- und Qualitätsziele seine Kosten- und Qualitätsziele jeweils für vier Jahre festlegen.
+
+<sup>2</sup> Der Kanton hört die Versicherer, die Versicherten und die Leistungserbringer vor der Festlegung der Kosten- und Qualitätsziele an.
+
+[^54a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+
+#### Art. 54b
+
+**Fristen**[^54b-1]
+
+Der Bundesrat legt die Kosten- und Qualitätsziele spätestens zwölf Monate vor Beginn der Periode, für die sie gelten sollen, fest.
+
+[^54b-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+
+#### Art. 54c
+
+**Eidgenössische Kommission für das Kosten- und Qualitätsmonitoring in der obligatorischen Krankenpflegeversicherung**[^54c-1]
+
+<sup>1</sup> Der Bundesrat setzt eine eidgenössische Kommission für das Kosten- und Qualitätsmonitoring in der obligatorischen Krankenpflegeversicherung ein.
+
+<sup>2</sup> Die Kommission ist zuständig für das Kosten- und Qualitätsmonitoring. Sie überwacht die Entwicklung der einzelnen Leistungsbereiche und gibt zuhanden des Bundes und der Tarifpartner Empfehlungen zu den Massnahmen ab. Die Kommission publiziert ihre Beschlüsse.
+
+<sup>3</sup> Der Bundesrat ernennt die Mitglieder der Kommission. Er sorgt für eine angemessene Vertretung der Versicherer, der Versicherten, der Kantone, der Leistungserbringer sowie von Fachleuten.
+
+[^54c-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 55
 
@@ -1325,12 +1383,18 @@ Der Leistungserbringer muss dem Schuldner der Vergütung die direkten oder indir
 
 <sup>4</sup> Gibt der Leistungserbringer die Vergünstigung nicht weiter, so kann die versicherte Person oder der Versicherer deren Herausgabe verlangen.
 
-<sup>5</sup> Leistungserbringer und Versicherer sehen in den Tarifverträgen Massnahmen zur Sicherstellung der Wirtschaftlichkeit der Leistungen vor. Sie sorgen insbesondere dafür, dass diagnostische Massnahmen nicht unnötig wiederholt werden, wenn Versicherte mehrere Leistungserbringer konsultieren.
+<sup>5</sup>
 
-<sup>6</sup> Leistungserbringer und Versicherer legen vertraglich eine Methode zur Kontrolle der Wirtschaftlichkeit fest.[^56-2]
+Leistungserbringer und Versicherer sehen in den Tarifverträgen Massnahmen zur Sicherstellung des zweckmässigen Einsatzes sowie der Wirtschaftlichkeit der Leistungen vor. Sie sorgen insbesondere dafür, dass:
+
+- a. die Kostenübernahme im Einzelfall nach einheitlichen Kriterien unter Berücksichtigung klinischer Leitlinien geprüft wird;
+- b. diagnostische Massnahmen nicht unnötig wiederholt werden, wenn Versicherte mehrere Leistungserbringer konsultieren.[^56-2]
+
+<sup>6</sup> Leistungserbringer und Versicherer legen vertraglich eine Methode zur Kontrolle der Wirtschaftlichkeit fest.[^56-3]
 
 [^56-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^56-2]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [BBl 2011 2519](https://fedlex.data.admin.ch/eli/fga/2011/341), [2529](https://fedlex.data.admin.ch/eli/fga/2011/343)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^56-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^56-3]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [BBl 2011 2519](https://fedlex.data.admin.ch/eli/fga/2011/341), [2529](https://fedlex.data.admin.ch/eli/fga/2011/343)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 #### Art. 57
 
@@ -1810,25 +1874,55 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 
 <sup>1bis</sup> Für untere und mittlere Einkommen verbilligen die Kantone die Prämien der Kinder um mindestens 80 Prozent und die Prämien der jungen Erwachsenen in Ausbildung um mindestens 50 Prozent.[^65-3]
 
-<sup>2</sup> Der Datenaustausch zwischen den Kantonen und den Versicherern erfolgt nach einem einheitlichen Standard. Der Bundesrat regelt die Einzelheiten nach Anhörung der Kantone und der Versicherer.[^65-4]
+<sup>1ter</sup> Jeder Kanton legt fest, welchen Anteil die Prämie am verfügbaren Einkommen der Versicherten mit Wohnort im Kanton höchstens ausmachen darf.[^65-4]
+
+<sup>1quater</sup> Jeder Kanton regelt die Prämienverbilligung so, dass diese pro Kalenderjahr gesamthaft einem bestimmten Mindestanteil der Bruttokosten der obligatorischen Krankenpflegeversicherung der Versicherten, die ihren Wohnort im Kanton haben, entspricht.[^65-5]
+
+<sup>1quinquies</sup>
+
+Der Mindestanteil wird nach demjenigen Anteil berechnet, den die Prämien am Einkommen der 40 Prozent einkommensschwächsten Versicherten mit Wohnort im Kanton durchschnittlich ausmachen; dabei gilt Folgendes:
+
+- a. Machen die Prämien weniger als 11 Prozent des Einkommens aus, so beträgt der Mindestanteil 3,5 Prozent der Bruttokosten.
+- b. Machen die Prämien 18,5 Prozent des Einkommens oder mehr aus, so beträgt der Mindestanteil 7,5 Prozent der Bruttokosten.
+- c. Zwischen den Eckwerten nach den Buchstaben a und b erhöht sich der Mindestanteil linear.[^65-6]
+
+<sup>1sexies</sup>
+
+Die Berechnung des Mindestanteils stützt sich auf:
+
+- a. das steuerbare Einkommen nach dem Bundesgesetz vom 14. Dezember 1990[^65-7] über die direkte Bundessteuer;
+- b. die von den Versicherten tatsächlich bezahlten Prämien sämtlicher Versicherungsformen (mittlere Prämie).[^65-8]
+
+<sup>1septies</sup> Für die Beurteilung, ob ein Kanton den Mindestanteil erfüllt, werden alle Beträge berücksichtigt, die er für die Bezahlung der Prämien der Versicherten aufwendet, mit Ausnahme von Forderungen, die er gestützt auf Artikel 64*a* Absatz 4 übernommen hat, und mit Ausnahme seines Anteils am Bundesbeitrag nach Artikel 66.[^65-9]
+
+<sup>1octies</sup> Der Bundesrat legt nach Anhörung der Kantone die Einzelheiten der Berechnung der Bruttokosten und des Mindestanteils fest.[^65-10]
+
+<sup>2</sup> Der Datenaustausch zwischen den Kantonen und den Versicherern erfolgt nach einem einheitlichen Standard. Der Bundesrat regelt die Einzelheiten nach Anhörung der Kantone und der Versicherer.[^65-11]
 
 <sup>3</sup> Die Kantone sorgen dafür, dass bei der Überprüfung der Anspruchsvoraussetzungen, insbesondere auf Antrag der versicherten Person, die aktuellsten Einkommens- und Familienverhältnisse berücksichtigt werden. Nach der Feststellung der Bezugsberechtigung sorgen die Kantone zudem dafür, dass die Auszahlung der Prämienverbilligung so erfolgt, dass die anspruchsberechtigten Personen ihrer Prämienzahlungspflicht nicht vorschussweise nachkommen müssen.
 
 <sup>4</sup> Die Kantone informieren die Versicherten regelmässig über das Recht auf Prämienverbilligung.
 
-<sup>4bis</sup> Der Kanton meldet dem Versicherer die Versicherten, die Anspruch auf eine Prämienverbilligung haben, und die Höhe der Verbilligung so früh, dass der Versicherer die Prämienverbilligung bei der Prämienfakturierung berücksichtigen kann. Der Versicherer informiert die anspruchsberechtigte Person spätestens bei der nächsten Fakturierung über die tatsächliche Prämienverbilligung.[^65-5]
+<sup>4bis</sup> Der Kanton meldet dem Versicherer die Versicherten, die Anspruch auf eine Prämienverbilligung haben, und die Höhe der Verbilligung so früh, dass der Versicherer die Prämienverbilligung bei der Prämienfakturierung berücksichtigen kann. Der Versicherer informiert die anspruchsberechtigte Person spätestens bei der nächsten Fakturierung über die tatsächliche Prämienverbilligung.[^65-12]
 
-<sup>5</sup> Die Versicherer sind verpflichtet, bei der Prämienverbilligung über die Bestimmungen betreffend die Amts- und Verwaltungshilfe nach Artikel 82 hinaus mitzuwirken.[^65-6]
+<sup>5</sup> Die Versicherer sind verpflichtet, bei der Prämienverbilligung über die Bestimmungen betreffend die Amts- und Verwaltungshilfe nach Artikel 82 hinaus mitzuwirken.[^65-13]
 
-<sup>6</sup> Die Kantone machen dem Bund zur Überprüfung der sozial- und familienpolitischen Ziele anonymisierte Angaben über die begünstigten Versicherten. Der Bundesrat erlässt die notwendigen Vorschriften dazu.[^65-7]
+<sup>6</sup> Die Kantone machen dem Bund zur Überprüfung der sozial- und familienpolitischen Ziele anonymisierte Angaben über die begünstigten Versicherten. Der Bundesrat erlässt die notwendigen Vorschriften dazu.[^65-14]
 
 [^65-1]: Fassung gemäss Ziff. I des BG vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 [^65-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^65-3]: Eingefügt durch Ziff. I des BG vom 18. März 2005 (Prämienverbilligung ([AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711)). Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [BBl 2016 7213](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7943](https://fedlex.data.admin.ch/eli/fga/2016/1716)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^65-4]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^65-5]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^65-6]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^65-7]: Fassung gemäss Ziff. I des BG vom 18. März 2005 (Prämienverbilligung), in Kraft seit 1. Jan. 2006 ([AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711)).
+[^65-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Prämienverbilligung), in Kraft seit 1. Jan. 2026 ([AS 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [BBl 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^65-5]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Prämienverbilligung), in Kraft seit 1. Jan. 2026 ([AS 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [BBl 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^65-6]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Prämienverbilligung), in Kraft seit 1. Jan. 2026 ([AS 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [BBl 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)).
+[^65-7]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^65-8]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Prämienverbilligung), in Kraft seit 1. Jan. 2026 ([AS 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [BBl 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)).
+[^65-9]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Prämienverbilligung), in Kraft seit 1. Jan. 2026 ([AS 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [BBl 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)).
+[^65-10]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Prämienverbilligung), in Kraft seit 1. Jan. 2026 ([AS 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [BBl 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)).
+[^65-11]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-12]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-13]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165), [6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-14]: Fassung gemäss Ziff. I des BG vom 18. März 2005 (Prämienverbilligung), in Kraft seit 1. Jan. 2006 ([AS 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [BBl 2004 4327](https://fedlex.data.admin.ch/eli/fga/2004/711)).
 
 #### Art. 65a
 
@@ -2706,6 +2800,24 @@ Die Verträge über das Kostenmonitoring und die Korrekturmassnahmen nach Artike
 [^u22-1]: [AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)
 
 Der Bundesrat evaluiert die Auswirkungen der Änderung vom 16. Dezember 2022 auf die Entwicklung der Pflege und erstattet dem Parlament spätestens fünf Jahre nach Inkrafttreten dieser Änderung Bericht.
+
+## Übergangsbestimmung zur Änderung vom 29. September 2023
+
+[^u23-1]
+
+[^u23-1]: [AS 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [BBl 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)
+
+<sup>1</sup> In den ersten zwei Kalenderjahren nach Inkrafttreten der Änderung vom 29. September 2023 beträgt der Mindestanteil nach Artikel 65 Absatz 1<sup>quater</sup> in allen Kantonen 3,5 Prozent der Bruttokosten.
+
+<sup>2</sup> Hat der Kanton seinen Anteil nach Artikel 65 Absatz 1<sup>ter</sup> vier Jahre nach Inkrafttreten dieser Änderung nicht festgelegt, so legt der Bundesrat den Anteil fest.
+
+## Übergangsbestimmung zur Änderung vom 29. September 2023
+
+[^u24-1]
+
+[^u24-1]: [AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)
+
+Kosten- und Qualitätsziele werden erstmals für das Kalenderjahr festgelegt, das nach Ablauf von zwei Jahren nach Inkrafttreten der Änderung vom 29. September 2023 beginnt.
 
 Anhang
 

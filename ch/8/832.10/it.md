@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250701-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20260101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250701/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° luglio 2025)
+del 18 marzo 1994 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -142,9 +142,9 @@ Sono assicurati presso lo stesso assicuratore:
 
 <sup>1</sup> Se l’affiliazione è tempestiva (art. 3 cpv. 1), l’assicurazione inizia dall’acquisizione del domicilio o dalla nascita in Svizzera. Il Consiglio federale stabilisce l’inizio dell’assicurazione delle persone menzionate nell’articolo 3 capoverso 3.
 
-<sup>2bis</sup> In caso d’affiliazione tardiva di un figlio, i genitori in solido o il genitore sono tenuti a versare il supplemento di premio, sempre che siano responsabili del ritardo.[^5-1]
-
 <sup>2</sup> In caso d’affiliazione tardiva, l’assicurazione inizia dal giorno dell’affiliazione. L’assicurato deve pagare un supplemento di premio se il ritardo non è giustificabile. Il Consiglio federale ne stabilisce i tassi indicativi, tenendo conto del livello dei premi nel luogo di residenza dell’assicurato e della durata del ritardo. Se il pagamento del supplemento risulta oltremodo gravoso per l’assicurato, l’assicuratore lo riduce, considerate equamente la situazione dell’assicurato e le circostanze del ritardo.
+
+<sup>2bis</sup> In caso d’affiliazione tardiva di un figlio, i genitori in solido o il genitore sono tenuti a versare il supplemento di premio, sempre che siano responsabili del ritardo.[^5-1]
 
 <sup>3</sup> L’assicurazione ha termine quando l’assicurato cessa di essere soggetto all’obbligo d’assicurazione.
 
@@ -409,13 +409,18 @@ I dati devono essere trasmessi in forma aggregata. Il Consiglio federale può pr
 
 - a. sorvegliare l’evoluzione dei costi secondo il tipo di prestazione e il fornitore di prestazioni, nonché elaborare le basi decisionali per misure volte a contenere l’evoluzione dei costi;
 - b. analizzare gli effetti della legge e della sua esecuzione, nonché elaborare le basi decisionali in vista di modifiche della legge e della sua esecuzione;
-- c. valutare la compensazione dei rischi.
+- c. valutare la compensazione dei rischi;
+- d.[^21-2] stabilire gli obiettivi in materia di costi di cui all’articolo 54;
+- e.[^21-3] misurare gli obiettivi in materia di qualità e l’efficienza sotto il profilo dei costi.
 
 <sup>3</sup> L’Ufficio federale è responsabile affinché nell’ambito dell’utilizzazione dei dati sia garantito l’anonimato degli assicurati.
 
-<sup>4</sup> L’Ufficio federale mette i dati rilevati a disposizione dei fornitori di dati, della ricerca, della scienza e del pubblico.
+<sup>4</sup> L’Ufficio federale mette i dati rilevati a disposizione dei fornitori di dati, dei Cantoni, della ricerca, della scienza e del pubblico.[^21-4]
 
 [^21-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 mar. 2021 sulla trasmissione di dati degli assicuratori nell’assicurazione obbligatoria delle cure medico-sanitarie, in vigore dal 1° gen. 2023 ([RU 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 4495](https://fedlex.data.admin.ch/eli/fga/2019/1903), [4883](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
+[^21-2]: Introdotta dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^21-3]: Introdotta dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^21-4]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 21a
 
@@ -613,6 +618,13 @@ L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi delle 
 <sup>1</sup> Le prestazioni di cui agli articoli 25–31 devono essere efficaci, appropriate ed economiche. L’efficacia deve essere comprovata secondo metodi scientifici.
 
 <sup>2</sup> L’efficacia, l’appropriatezza e l’economicità delle prestazioni sono riesaminate periodicamente.
+
+<sup>3</sup> Le prestazioni per le quali vi sono indizi che non sono o non sono più efficaci, appropriate o economiche sono valutate mediante una procedura basata su dati probanti. La procedura si basa su criteri trasparenti e sulle più recenti conoscenze scientifiche ed è proporzionata allo scopo.[^32-1]
+
+<sup>4</sup> Le prestazioni che non soddisfano i criteri dell’efficacia, appropriatezza ed economicità secondo la procedura basata su dati probanti non sono rimunerate dall’assicurazione obbligatoria delle cure medico-sanitarie.[^32-2]
+
+[^32-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^32-2]: Introdotto dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 33
 
@@ -988,9 +1000,24 @@ Sono in particolare inammissibili e dunque nulli i seguenti provvedimenti, indip
 
 <sup>4</sup> La convenzione tariffale dev’essere approvata dal governo cantonale competente oppure, se valevole per tutta la Svizzera, dal Consiglio federale. L’autorità che approva verifica se la convenzione è conforme alla legge e ai principi di equità e di economicità.
 
+<sup>4bis</sup> L’autorità verifica la convenzione tariffale entro un anno dalla sua presentazione. Può prorogare una volta tale termine se i partner tariffali devono completare la domanda di approvazione in determinati settori chiaramente definiti.[^46-2]
+
 <sup>5</sup> Il termine di disdetta di una convenzione tariffale o di desistenza ai sensi del capoverso 2 è di almeno sei mesi.
 
 [^46-1]: Introdotto dall’art. 86 n. 3 della L del 28 set. 2012 sulle epidemie, in vigore dal 1° gen. 2016 ([RU 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297); [FF 2011 283](https://fedlex.data.admin.ch/eli/fga/2011/43)).
+[^46-2]: Introdotto dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+
+#### Art. 46a
+
+**Adeguamento di una convenzione tariffale che non soddisfa più i requisiti legali**[^46a-1]
+
+<sup>1</sup> L’autorità d’approvazione può esigere che i partner tariffali adeguino una convenzione tariffale già approvata se accerta che quest’ultima non soddisfa più i requisiti di cui all’articolo 46 capoverso 4.
+
+<sup>2</sup> Se i fornitori di prestazioni e gli assicuratori non si accordano entro un anno su un adeguamento della convenzione tariffale, l’autorità revoca l’approvazione che ha rilasciato e, sentite le parti interessate, stabilisce la tariffa.
+
+<sup>3</sup> Nell’esercizio dei propri poteri l’autorità cantonale competente può, nel caso di strutture tariffali nazionali che si rivelano inadeguate, stabilire tariffe differenziate in base ai campi di specializzazione medica o ai gruppi di fornitori di prestazioni. Tiene conto degli eventuali adeguamenti operati dal Consiglio federale in virtù dell’articolo 43 capoverso 5<sup>bis</sup>.
+
+[^46a-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 47
 
@@ -1074,15 +1101,9 @@ Per ciascun settore rilevante per il tipo di fornitore di prestazioni, le misure
 
 #### Art. 48
 
-**Convenzioni tariffali con associazioni di medici**
+[^48-1]
 
-<sup>1</sup> All’approvazione di una convenzione tariffale con una o più associazioni di medici, l’autorità che approva (art. 46 cpv. 4), sentite le parti alla convenzione, stabilisce una tariffa limite i cui tassi minimi devono essere inferiori e i tassi massimi superiori a quelli della tariffa convenzionale approvata.
-
-<sup>2</sup> La tariffa limite è applicabile alla scadenza della convenzione tariffale. Trascorso un anno dalla scadenza della convenzione, l’autorità che approva può stabilire una nuova tariffa limite senza tener conto della tariffa convenzionale anteriore.
-
-<sup>3</sup> Se una convenzione tariffale con un’associazione di medici non può essere stipulata sin dall’inizio, l’autorità che approva può, a domanda delle parti, stabilire una tariffa limite.
-
-<sup>4</sup> Per le parti che hanno stipulato una nuova convenzione tariffale, la tariffa limite decade con l’approvazione della convenzione.
+[^48-1]: Abrogato dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), con effetto dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 49
 
@@ -1091,6 +1112,8 @@ Per ciascun settore rilevante per il tipo di fornitore di prestazioni, le misure
 <sup>1</sup> Per la remunerazione della cura ospedaliera, compresa la degenza e le cure in ospedale (art. 39 cpv. 1) o in una casa per partorienti (art. 29), le parti alla convenzione stabiliscono importi forfettari.[^49-2] Tali importi sono fissati di norma per ogni singolo caso. Essi si rifanno alle prestazioni e si basano su strutture uniformi per tutta la Svizzera. Le parti alla convenzione possono convenire che prestazioni diagnostiche o terapeutiche speciali non siano computate nell’importo forfettario, bensì fatturate separatamente. Le tariffe ospedaliere si rifanno alla remunerazione degli ospedali che forniscono la prestazione tariffata assicurata obbligatoriamente, nella qualità necessaria, in modo efficiente e vantaggioso.
 
 <sup>2</sup> I partner tariffali istituiscono insieme ai Cantoni un’organizzazione competente per l’elaborazione, lo sviluppo, l’adeguamento e la manutenzione delle strutture. Per finanziare dette attività può essere riscosso un contributo a copertura dei costi per ogni caso fatturato. Gli ospedali devono fornire all’organizzazione i dati necessari a tal fine relativi ai costi e alle prestazioni. Se siffatta organizzazione manca, il Consiglio federale la istituisce in modo vincolante per i partner tariffali. I partner tariffali sottopongono per approvazione al Consiglio federale le strutture elaborate dall’organizzazione e i loro adeguamenti. Se i partner tariffali non si accordano, le strutture sono stabilite dal Consiglio federale.[^49-3]
+
+<sup>2bis</sup> Il Consiglio federale può adeguare le strutture se queste ultime si rivelano inadeguate e se le parti alla convenzione non si accordano su una revisione.[^49-4]
 
 <sup>3</sup>
 
@@ -1112,6 +1135,7 @@ Le remunerazioni di cui al capoverso 1 non comprendono le participazioni ai cost
 [^49-1]: Nuovo testo giusta la cifra I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^49-2]: Nuovo testo giusta la cifra I n. 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
 [^49-3]: Vedi anche il cpv. 1 delle disp. fin. della mod. del 22 ott. 2008 dell’O sull’assicurazione malattie ([RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)).
+[^49-4]: Introdotto dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 49a
 
@@ -1187,7 +1211,7 @@ Sentite le competenti commissioni e conformemente ai principi di cui agli artico
 
 <sup>2</sup> In materia di infermità congenite (art. 3 cpv. 2 LPGA[^52-3]), sono inoltre assunti i costi dei medicamenti che figurano nel catalogo delle prestazioni dell’assicurazione per l’invalidità secondo l’articolo 14<sup>ter</sup> capoverso 5 della legge federale del 19 giugno 1959[^52-4] sull’assicurazione per l’invalidità, ai prezzi massimi stabiliti in virtù di tale disposizione.[^52-5]
 
-<sup>3</sup> Le analisi, i medicamenti, i mezzi e gli apparecchi diagnostici e terapeutici possono essere fatturati all’assicurazione obbligatoria delle cure medico-sanitarie al massimo secondo le tariffe, i prezzi e i tassi di remunerazione ai sensi del capoverso 1.[^52-6] Il DFI designa le analisi effettuate nel laboratorio dello studio medico per le quali la tariffa può essere stabilita secondo gli articoli 46 e 48. Può inoltre designare i mezzi e gli apparecchi diagnostici e terapeutici di cui al capoverso 1 lettera a numero 3 per i quali può essere convenuta una tariffa secondo l’articolo 46.[^52-7]
+<sup>3</sup> Le analisi, i medicamenti, i mezzi e gli apparecchi diagnostici e terapeutici possono essere fatturati all’assicurazione obbligatoria delle cure medico-sanitarie al massimo secondo le tariffe, i prezzi e i tassi di remunerazione ai sensi del capoverso 1.[^52-6] Il DFI designa le analisi effettuate nel laboratorio dello studio medico per le quali la tariffa può essere stabilita secondo l’articolo 46.[^52-7] Può inoltre designare i mezzi e gli apparecchi diagnostici e terapeutici di cui al capoverso 1 lettera a numero 3 per i quali può essere convenuta una tariffa secondo l’articolo 46.[^52-8]
 
 [^52-1]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
 [^52-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
@@ -1195,7 +1219,8 @@ Sentite le competenti commissioni e conformemente ai principi di cui agli artico
 [^52-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^52-5]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^52-6]: Nuovo testo giusta la cifra I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^52-7]: Nuovo testo del secondo e terzo per. giusta cifra I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-7]: Nuovo testo del secondo per. giusta la cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^52-8]: Nuovo testo del terzo per. giusta cifra I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
 
@@ -1213,7 +1238,7 @@ Sentite le competenti commissioni e conformemente ai principi di cui agli artico
 
 **Ricorso al Tribunale amministrativo federale**[^53-1]
 
-<sup>1</sup> Contro le decisioni dei governi cantonali ai sensi degli articoli 39, 45, 46 capoverso 4, 47, 47*b* capoverso 2, 48 capoversi 1–3, 51, 54 e 55 può essere interposto ricorso al Tribunale amministrativo federale.[^53-2]
+<sup>1</sup> Contro le decisioni dei governi cantonali ai sensi degli articoli 39, 45, 46 capoverso 4, 46*a* capoverso 2, 47, 47*b* capoverso 2, 51 e 55 può essere interposto ricorso al Tribunale amministrativo federale.[^53-2]
 
 <sup>1bis</sup> Le organizzazioni degli assicuratori d’importanza nazionale o regionale che, conformemente agli statuti, si dedicano alla tutela degli interessi dei propri membri nell’ambito dell’applicazione della presente legge sono legittimate a ricorrere contro le decisioni prese dai governi cantonali in virtù dell’articolo 39.[^53-3]
 
@@ -1228,20 +1253,54 @@ La procedura di ricorso è retta dalla legge del 17 giugno 2005[^53-4] sul Tribu
 - e. nelle procedure di ricorso contro le decisioni prese conformemente all’articolo 39 non può essere invocata l’inadeguatezza.
 
 [^53-1]: Nuovo testo giusta la cifra I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^53-2]: Nuovo testo giusta la cifra IV della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^53-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 [^53-3]: Introdotto dalla cifra I della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^53-4]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 [^53-5]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
-### Sezione 5: Misure straordinarie destinate a contenere l’evoluzione dei costi
+### Sezione 5: Misure destinate a contenere l’evoluzione dei costi
+
+[^tit2-chap4-sec5-1]
+
+[^tit2-chap4-sec5-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 54
 
-**Stanziamento globale di bilancio da parte dell’autorità che approva**
+**Obiettivi in materia di costi e di qualità**[^54-1]
 
-<sup>1</sup> Gli assicuratori possono chiedere al Cantone di stabilire un importo complessivo (stanziamento globale di bilancio), per finanziare gli ospedali o le case di cura, quale provvedimento straordinario e temporaneo per limitare un aumento dei costi al di sopra della media.
+Sentiti gli assicuratori, gli assicurati, i Cantoni e i fornitori di prestazioni, il Consiglio federale stabilisce obiettivi quadriennali in materia di costi e di qualità riguardo alle prestazioni.
 
-<sup>2</sup> Il Cantone deve decidere in merito all’entrata in materia entro tre mesi dalla presentazione della proposta. Consulta preventivamente le istituzioni e gli assicuratori.
+[^54-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+
+#### Art. 54a
+
+**Obiettivi dei Cantoni in materia di costi e di qualità**[^54a-1]
+
+<sup>1</sup> Tenendo conto degli obiettivi stabiliti dal Consiglio federale in virtù dell’articolo 54, ogni Cantone può stabilire propri obiettivi quadriennali in materia di costi e di qualità.
+
+<sup>2</sup> Prima di stabilire i propri obiettivi, il Cantone sente gli assicuratori, gli assicurati e i fornitori di prestazioni.
+
+[^54a-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+
+#### Art. 54b
+
+**Termini**[^54b-1]
+
+Il Consiglio federale stabilisce gli obiettivi in materia di costi e di qualità almeno 12 mesi prima dell’inizio del quadriennio cui essi si riferiscono.
+
+[^54b-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+
+#### Art. 54c
+
+**Commissione federale per il monitoraggio dei costi e della qualità nell’assicurazione obbligatoria delle cure medico-sanitarie**[^54c-1]
+
+<sup>1</sup> Il Consiglio federale istituisce una Commissione federale per il monitoraggio dei costi e della qualità nell’assicurazione obbligatoria delle cure medico-sanitarie.
+
+<sup>2</sup> La Commissione è responsabile del monitoraggio dei costi e della qualità. Sorveglia l’evoluzione nei singoli settori di prestazioni ed elabora all’attenzione della Confederazione e dei partner tariffali raccomandazioni concernenti le misure. Pubblica le proprie decisioni.
+
+<sup>3</sup> Il Consiglio federale nomina i membri della Commissione. Assicura la rappresentanza equa degli assicuratori, degli assicurati, dei Cantoni, dei fornitori di prestazioni nonché degli specialisti.
+
+[^54c-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 
 #### Art. 55
 
@@ -1324,12 +1383,18 @@ Il fornitore di prestazioni deve fare usufruire il debitore della rimunerazione 
 
 <sup>4</sup> Se il fornitore di prestazioni disattende questo obbligo, l’assicurato o l’assicuratore possono esigere la restituzione dello sconto.
 
-<sup>5</sup> I fornitori di prestazioni e gli assicuratori prevedono nelle convenzioni tariffali misure destinate a garantire l’economicità delle prestazioni. Essi vegliano in particolare affinché sia evitata una ripetizione inutile di atti diagnostici, quando l’assicurato consulta più fornitori di prestazioni.
+<sup>5</sup>
 
-<sup>6</sup> I fornitori di prestazioni e gli assicuratori stabiliscono mediante contratto un metodo di controllo dell’economicità delle prestazioni.[^56-2]
+I fornitori di prestazioni e gli assicuratori prevedono nelle convenzioni tariffali misure destinate a garantire l’impiego appropriato e l’economicità delle prestazioni. Essi vegliano in particolare affinché:
+
+- a. l’assunzione dei costi nel singolo caso sia esaminata secondo criteri uniformi e tenendo conto delle linee guida cliniche;
+- b. sia evitata una ripetizione inutile di atti diagnostici, quando l’assicurato consulta più fornitori di prestazioni.[^56-2]
+
+<sup>6</sup> I fornitori di prestazioni e gli assicuratori stabiliscono mediante contratto un metodo di controllo dell’economicità delle prestazioni.[^56-3]
 
 [^56-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^56-2]: Introdotto dalla cifra I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [FF 2011 2301](https://fedlex.data.admin.ch/eli/fga/2011/341)[2311](https://fedlex.data.admin.ch/eli/fga/2011/343)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^56-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
+[^56-3]: Introdotto dalla cifra I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [FF 2011 2301](https://fedlex.data.admin.ch/eli/fga/2011/341)[2311](https://fedlex.data.admin.ch/eli/fga/2011/343)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 57
 
@@ -1810,25 +1875,55 @@ L’assicuratore non può riscuotere alcuna partecipazione ai costi per:
 
 <sup>1bis</sup> Per i redditi medi e bassi i Cantoni riducono di almeno l’80 per cento i premi dei minorenni e di almeno il 50 per cento quelli dei giovani adulti in formazione.[^65-3]
 
-<sup>2</sup> Lo scambio di dati fra i Cantoni e gli assicuratori avviene sulla base di uno standard uniforme. Il Consiglio federale disciplina le modalità dopo aver sentito i Cantoni e gli assicuratori.[^65-4]
+<sup>1ter</sup> Ogni Cantone stabilisce la quota massima che i premi possono rappresentare rispetto al reddito disponibile degli assicurati domiciliati nel Cantone.[^65-4]
+
+<sup>1quater</sup> Ogni Cantone disciplina la riduzione dei premi in modo tale che corrisponda complessivamente per anno civile a una determinata quota minima delle spese lorde dell’assicurazione obbligatoria delle cure medico-sanitarie per gli assicurati domiciliati nel Cantone.[^65-5]
+
+<sup>1quinquies</sup>
+
+La quota minima è calcolata sulla base della quota media che i premi rappresentano rispetto al reddito del 40 per cento degli assicurati con il reddito più basso domiciliati nel Cantone; a tal fine vale quanto segue:
+
+- a. se i premi rappresentano meno dell’11 per cento del reddito, la quota minima ammonta al 3,5 per cento delle spese lorde;
+- b. se i premi rappresentano il 18,5 per cento del reddito o più, la quota minima ammonta al 7,5 per cento delle spese lorde;
+- c. tra i due valori limite di cui alle lettere a e b, la quota minima aumenta in modo lineare.[^65-6]
+
+<sup>1sexies</sup>
+
+Il calcolo della quota minima si basa su:
+
+- a. il reddito imponibile secondo la legge federale del 14 dicembre 1990[^65-7] sull’imposta federale diretta;
+- b. i premi effettivamente pagati dagli assicurati per tutte le forme di assicurazione (premi medi).[^65-8]
+
+<sup>1septies</sup> Per valutare se un Cantone rispetta la quota minima si considerano tutti gli importi che spende per pagare i premi degli assicurati, ad eccezione dei crediti che ha assunto in virtù dell’articolo 64*a* capoverso 4 e della quota che gli spetta del sussidio della Confederazione di cui all’articolo 66.[^65-9]
+
+<sup>1octies</sup> Il Consiglio federale stabilisce le modalità di calcolo delle spese lorde e della quota minima dopo aver sentito i Cantoni.[^65-10]
+
+<sup>2</sup> Lo scambio di dati fra i Cantoni e gli assicuratori avviene sulla base di uno standard uniforme. Il Consiglio federale disciplina le modalità dopo aver sentito i Cantoni e gli assicuratori.[^65-11]
 
 <sup>3</sup> I Cantoni provvedono affinché nell’esame delle condizioni d’ottenimento vengano considerate, su richiesta particolare dell’assicurato, le circostanze economiche e familiari più recenti. Stabilita la cerchia dei beneficiari, i Cantoni vegliano affinché il versamento delle riduzioni di premio avvenga in modo che i beneficiari non debbano adempiere in anticipo il loro obbligo di pagare i premi.
 
 <sup>4</sup> I Cantoni informano regolarmente gli assicurati del loro diritto alla riduzione dei premi.
 
-<sup>4bis</sup> Il Cantone comunica all’assicuratore il nome degli assicurati che hanno diritto a una riduzione dei premi e l’importo della riduzione con un anticipo sufficiente, affinché gli assicuratori possano tenere conto della riduzione al momento della fatturazione dei premi. L’assicuratore informa gli aventi diritto dell’importo effettivo della riduzione al più tardi in occasione della fatturazione successiva.[^65-5]
+<sup>4bis</sup> Il Cantone comunica all’assicuratore il nome degli assicurati che hanno diritto a una riduzione dei premi e l’importo della riduzione con un anticipo sufficiente, affinché gli assicuratori possano tenere conto della riduzione al momento della fatturazione dei premi. L’assicuratore informa gli aventi diritto dell’importo effettivo della riduzione al più tardi in occasione della fatturazione successiva.[^65-12]
 
-<sup>5</sup> In caso di riduzione dei premi, gli assicuratori sono tenuti a collaborare oltre quanto previsto dalle disposizioni concernenti l’assistenza amministrativa e giudiziaria di cui all’articolo 82.[^65-6]
+<sup>5</sup> In caso di riduzione dei premi, gli assicuratori sono tenuti a collaborare oltre quanto previsto dalle disposizioni concernenti l’assistenza amministrativa e giudiziaria di cui all’articolo 82.[^65-13]
 
-<sup>6</sup> I Cantoni forniscono alla Confederazione dati anonimi concernenti gli assicurati beneficiari, così da permetterle di verificare l’attuazione degli scopi di politica sociale e familiare. Il Consiglio federale emana le necessarie prescrizioni.[^65-7]
+<sup>6</sup> I Cantoni forniscono alla Confederazione dati anonimi concernenti gli assicurati beneficiari, così da permetterle di verificare l’attuazione degli scopi di politica sociale e familiare. Il Consiglio federale emana le necessarie prescrizioni.[^65-14]
 
 [^65-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^65-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^65-3]: Introdotto dalla cifra I della LF del 18 mar. 2005 (Riduzione dei premi ([RU 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 3869](https://fedlex.data.admin.ch/eli/fga/2004/711)). Nuovo testo giusta la cifra I della LF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^65-4]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^65-5]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^65-6]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
-[^65-7]: Nuovo testo giusta la cifra I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 3869](https://fedlex.data.admin.ch/eli/fga/2004/711)).
+[^65-3]: Introdotto dalla cifra I della LF del 18 mar. 2005 (Riduzione dei premi) ([RU 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 3869](https://fedlex.data.admin.ch/eli/fga/2004/711)). Nuovo testo giusta la cifra I della LF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^65-4]: Introdotto dalla cifra I della LF del 29 set. 2025 (Riduzione dei premi), in vigore dal 1° gen. 2026 ([RU 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [FF 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^65-5]: Introdotto dalla cifra I della LF del 29 set. 2025 (Riduzione dei premi), in vigore dal 1° gen. 2026 ([RU 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [FF 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^65-6]: Introdotto dalla cifra I della LF del 29 set. 2025 (Riduzione dei premi), in vigore dal 1° gen. 2026 ([RU 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [FF 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)).
+[^65-7]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^65-8]: Introdotto dalla cifra I della LF del 29 set. 2025 (Riduzione dei premi), in vigore dal 1° gen. 2026 ([RU 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [FF 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)).
+[^65-9]: Introdotto dalla cifra I della LF del 29 set. 2025 (Riduzione dei premi), in vigore dal 1° gen. 2026 ([RU 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [FF 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)).
+[^65-10]: Introdotto dalla cifra I della LF del 29 set. 2025 (Riduzione dei premi), in vigore dal 1° gen. 2026 ([RU 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [FF 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)).
+[^65-11]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-12]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-13]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
+[^65-14]: Nuovo testo giusta la cifra I della LF del 18 mar. 2005, in vigore dal 1° gen. 2006 ([RU 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 3869](https://fedlex.data.admin.ch/eli/fga/2004/711)).
 
 #### Art. 65a
 
@@ -2707,6 +2802,24 @@ Le convenzioni concernenti il monitoraggio dei costi e le misure correttive di c
 
 Il Consiglio federale valuta le ripercussioni della modifica del 16 dicembre 2022 sull’evoluzione delle cure e riferisce in merito al Parlamento entro cinque anni dall’entrata in vigore di tale modifica.
 
+## Disposizione transitoria della modifica del 29 settembre 2023
+
+[^u23-1]
+
+[^u23-1]: [RU 2025 568](https://fedlex.data.admin.ch/eli/oc/2025/568); [FF 2021 2383](https://fedlex.data.admin.ch/eli/fga/2021/2383)
+
+<sup>1</sup> Nei primi due anni civili che seguono l’entrata in vigore della modifica del 29 settembre 2023 la quota minima di cui all’articolo 65 capoverso 1<sup>quater</sup> corrisponde in tutti i Cantoni al 3,5 per cento delle spese lorde.
+
+<sup>2</sup> Se alla fine del quarto anno che segue l’entrata in vigore della presente modifica il Cantone non ha stabilito la quota massima di cui all’articolo 65 capoverso 1<sup>ter</sup>, tale quota è stabilita dal Consiglio federale.
+
+## Disposizione transitoria della modifica del 29 settembre 2023
+
+[^u24-1]
+
+[^u24-1]: [RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)
+
+Gli obiettivi in materia di costi e di qualità sono stabiliti per la prima volta per l’anno civile che inizia due anni dopo l’entrata in vigore della modifica del 29 settembre 2023.
+
 Allegato
 
 ## Abrogazione e modifica di leggi federali
@@ -2715,7 +2828,7 @@ Allegato
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [CS **8** 273; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)cifra II art. 6 n. 2;[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I; [611](https://fedlex.data.admin.ch/eli/oc/1977/611_611_611); [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)all. n. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114;[1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
+[^annexu1-lvlu1-lvl1-1]: [CS **8** 273; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)cifra II art. 6 n. 2;[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I; [611](https://fedlex.data.admin.ch/eli/oc/1977/611_611_611); [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)all. n. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114;[1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
 
 ### 2. a 6.
 
