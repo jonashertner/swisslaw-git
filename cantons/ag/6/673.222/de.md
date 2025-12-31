@@ -3,24 +3,23 @@ canton: AG
 number: "673.222"
 title: Vergütungsreglement des Verwaltungsrats und der Geschäftsleitung der Aargauischen Gebäudeversicherung
 language: de
-version: 2017-10-01
-valid_until: 2025-12-31
-version_adopted: 2017-05-04
+version: 2026-01-01
+version_adopted: 2025-03-18
 adopted: 2017-05-04
 in_force: 2017-10-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.222"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3775/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3925/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vergütungsreglement des Verwaltungsrats und der Geschäftsleitung der Aargauischen Gebäudeversicherung
 
-Vom 04.05.2017 (Stand 01.10.2017)
+Vom 04.05.2017 (Stand 01.01.2026)
 
 Der Verwaltungsrat,
 
-gestützt auf § 45 Abs. 4 lit. b des Gesetzes über die Gebäudeversicherung (Gebäudeversicherungsgesetz, GebVG) vom 19. September 2006 [^ingress-1] und § 9 Abs. 1 lit. c und Abs. 2 lit. d des Allgemeinen Geschäftsreglements (AGR) vom 6. Dezember 2012 [^ingress-2],
+gestützt auf § 45 Abs. 4 lit. b des Gesetzes über die Gebäudeversicherung (Gebäudeversicherungsgesetz, GebVG) vom 19. September 2006[^ingress-1] und § 9 Abs. 1 lit. c und Abs. 2 lit. d des Allgemeinen Geschäftsreglements (AGR) vom 6. Dezember 2012[^ingress-2],
 
 beschliesst:
 
@@ -43,25 +42,25 @@ beschliesst:
 
 **Verwaltungsratspräsidium**
 
-<sup>1</sup> Jahreshonorar pauschal Fr. 40'000.–.
+<sup>1</sup> Jahreshonorar pauschal Fr. 42'000.–.
 
 #### § 3
 
 **Vizepräsidium**
 
-<sup>1</sup> Jahreshonorar pauschal Fr. 26'000.–.
+<sup>1</sup> Jahreshonorar pauschal Fr. 27'300.–.
 
 #### § 4
 
 **Mitglied des Verwaltungsrats**
 
-<sup>1</sup> Jahreshonorar pauschal Fr. 20'000.–.
+<sup>1</sup> Jahreshonorar pauschal Fr. 21'000.–.
 
 #### § 5
 
 **Ausschüsse**
 
-<sup>1</sup> Die Präsidentin oder der Präsident eines Ausschusses wird zusätzlich pauschal mit Fr. 5'000.– entschädigt. Mitglieder von Ausschüssen werden zusätzlich pauschal mit Fr. 3'000.– entschädigt.
+<sup>1</sup> Die Präsidentin oder der Präsident eines Ausschusses wird zusätzlich pauschal mit Fr. 5'250.– entschädigt. Mitglieder von Ausschüssen werden zusätzlich pauschal mit Fr. 3'150.– entschädigt.
 
 #### § 6
 
@@ -75,7 +74,7 @@ beschliesst:
 
 <sup>1</sup> Der Verwaltungsrat kann Mitglieder des Verwaltungsrats mit der Durchführung spezieller Aufgaben beauftragen, sofern diese mit ihrer Funktion in Zusammenhang stehen. Sonderaufträge, die nicht in Zusammenhang mit der Funktion stehen, sind ausgeschlossen.
 
-<sup>2</sup> Ausserordentlicher Zeitaufwand, der den ordentlichen Zeitaufwand um mehr als 20 % überschreitet, sowie Sonderaufträge werden mit Beschluss des Verwaltungsrats mit Fr. 180.– pro Stunde separat vergütet.
+<sup>2</sup> Ausserordentlicher Zeitaufwand, der den ordentlichen Zeitaufwand um mehr als 20 % überschreitet, sowie Sonderaufträge werden mit Beschluss des Verwaltungsrats mit Fr. 190.– pro Stunde separat vergütet.
 
 #### § 8
 
@@ -89,8 +88,8 @@ beschliesst:
 
 <sup>1</sup> Die pauschalen Spesen betragen pro Jahr:
 
-- a) für das Verwaltungsratspräsidium Fr. 2'500.–,
-- b) für die übrigen Verwaltungsratsmitglieder Fr. 1'500.–.
+- a) für das Verwaltungsratspräsidium Fr. 2'650.–,
+- b) für die übrigen Verwaltungsratsmitglieder Fr. 1'600.–.
 
 #### § 10
 
