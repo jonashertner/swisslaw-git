@@ -10,7 +10,7 @@ version_adopted: 2025-12-03
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3844/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3845/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -349,15 +349,7 @@ als Reglement:[^ingress-7]
 
 #### Art. 20
 
-**Erneuerung**
-
-<sup>1</sup> Die ununterbrochene Zugehörigkeit zu einer ständigen Kommission ist auf sechs Jahre beschränkt.
-
-<sup>2</sup> Die Kommissionspräsidentin oder der Kommissionspräsident darf der Kommission insgesamt acht Jahre angehören, davon höchstens sechs Jahre als Präsidentin oder Präsident.
-
-<sup>3</sup> Diese Beschränkungen gelten nicht für die Redaktionskommission.
-
-<sup>4</sup> …
+**…**
 
 ### b) nichtständige Kommissionen
 
@@ -438,13 +430,13 @@ als Reglement:[^ingress-7]
 
 #### Art. 23quater
 
-**Bestellung und Erneuerung**
+**Bestellung**
 
 <sup>1</sup> Der Kantonsrat wählt die Vertretungen zu Beginn der Amtsdauer.
 
 <sup>2</sup> Er legt auf Antrag des Präsidiums Grösse und Zusammensetzung der Vertretungen fest. Dabei berücksichtigt er Ziel und Zweck der Gremien.
 
-<sup>3</sup> Die ununterbrochene Zugehörigkeit zu einer Vertretung ist auf sechs Jahre beschränkt.
+<sup>3</sup> …
 
 ### 4. Fraktionen
 
