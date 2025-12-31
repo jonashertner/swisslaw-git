@@ -3,20 +3,19 @@ canton: AR
 number: "625.21"
 title: Verordnung zum Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer
 language: de
-version: 2013-01-01
-valid_until: 2025-12-31
-version_adopted: 2012-12-11
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/625.21"
-pdf: "https://ar.clex.ch/api/de/versions/1011/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer
 
-vom 19.12.2000 (Stand 01.01.2013)
+vom 19.12.2000 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Appenzell A.Rh.,
 
@@ -113,9 +112,9 @@ verordnet:
 
 <sup>1</sup> Der nach Art. 11 dieser Verordnung festgesetzte Rückerstattungsanspruch gilt als verrechnet:
 
-- a) mit den vorläufig in Rechnung gestellten Staats- und Gemeindesteuern für die dem Fälligkeitsjahr folgende Steuerperiode 30 Tage nach Eingang des Rückerstattungsantrags;
-- b) mit den veranlagten Staats- und Gemeindesteuern für die mit dem Fälligkeitsjahr übereinstimmende Steuerperiode 30 Tage nach Eingang des Rückerstattungsantrags, soweit der Anspruch nicht bereits nach lit. a dieser Bestimmung verrechnet wurde;
-- c) mit anderen Staats- und Gemeindesteuern 30 Tage nach Eingang des Rückerstattungsantrags.
+- a) mit den vorläufig in Rechnung gestellten Staats- und Gemeindesteuern für die dem Fälligkeitsjahr folgende Steuerperiode 120 Tage nach Eingang des Rückerstattungsantrags;
+- b) mit den veranlagten Staats- und Gemeindesteuern für die mit dem Fälligkeitsjahr übereinstimmende Steuerperiode 120 Tage nach Eingang des Rückerstattungsantrags, soweit der Anspruch nicht bereits nach lit. a dieser Bestimmung verrechnet wurde;
+- c) mit anderen Staats- und Gemeindesteuern 120 Tage nach Eingang des Rückerstattungsantrags.
 
 ### III. Verfahren
 
