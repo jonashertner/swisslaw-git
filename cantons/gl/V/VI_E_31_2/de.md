@@ -3,20 +3,20 @@ canton: GL
 number: VI E/31/2
 title: Verordnung über die Fischerei
 language: de
-version: 2014-09-01
-valid_until: 2025-12-31
-version_adopted: 2014-06-25
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2026-02-04
 adopted: 1997-11-12
 in_force: 1998-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.31.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1674/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2674/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Fischerei
 
-Vom 12.11.1997 (Stand 01.09.2014)
+Vom 12.11.1997 (Stand 01.01.2026)
 
 Der Landrat,
 
@@ -40,13 +40,16 @@ beschliesst:
 
 <sup>1</sup> Für die Ausübung der Fischerei im Gebiete des Kantons Glarus werden folgende Patente abgegeben:
 
-- 1\. Jahrespatent: Taxe 160 Franken; es berechtigt zur Ausübung der Fischerei in sämtlichen für die Fischerei offenen Gewässern vom Ufer aus, im Klöntalersee auch vom Boot aus.
+- 1\. Jahrespatent: Taxe 180 Franken; es berechtigt zur Ausübung der Fischerei in sämtlichen für die Fischerei offenen Gewässern vom Ufer aus, im Klöntalersee auch vom Boot aus.
 - 2\. Jugendpatent: Taxe 80 Franken; es berechtigt zur Ausübung der Fischerei in sämtlichen für die Fischerei offenen Gewässern vom Ufer aus, im Klöntalersee in Begleitung einer zur Fischerei berechtigten erwachsenen Person auch vom Boot aus.
 - 3\. Ferienpatente (sie berechtigen zur Ausübung der Fischerei in sämtlichen für die Fischerei offenen Gewässern vom Ufer aus, im Klöntalersee auch vom Boot aus. Die Laufzeit der Ferienpatente beginnt an einem beliebigen, auf dem Patent vermerkten Datum, ohne Rücksicht auf den Tag der Ausstellung. Personen, welche im Bezugsjahr höchstens das 15. Lebensjahr vollenden, bezahlen die Hälfte der Taxen):
   - a. Tageskarte 30 Franken;
-  - b. Wochenkarte 120 Franken;
-  - c. Monatskarte 200 Franken;
-- 4\. Zusatzpatent Schleppangelfischerei: Die Taxe beträgt 35 Franken; das Zusatzpatent berechtigt zur Schleppangelfischerei auf dem Klöntalersee.
+  - b. Wochenkarte 100 Franken;
+  - c. Monatskarte 180 Franken;
+- 4\. Zusatzpatent Schleppangelfischerei: Die Taxe beträgt 40 Franken pro Kalenderjahr; das Zusatzpatent berechtigt Inhaber von Jahrespatenten und Ferienpatenten zur Schleppangelfischerei auf dem Klöntalersee, ausgenommen sind Inhaber von Jugendpatenten nach den Ziffern 2 und 3.
+- 5\. Gästepatent: Die Taxe beträgt 40 Franken; es berechtigt Personen mit einem Patent nach Ziffer 1, unter ihrer Aufsicht bei gleichbleibenden Tagesfangzahlen auf dem Gebiet des Kantons Glarus (ausgenommen auf dem Walensee) einen Gast mitfischen zu lassen.
+
+<sup>2</sup> Der Regierungsrat kann die Patenttaxen jeweils dem Landesindex für Konsumentenpreise anpassen (Basis Juni 2025). Er macht die Anpassungen öffentlich bekannt.
 
 #### Art. 3
 
@@ -62,7 +65,7 @@ beschliesst:
 
 <sup>1</sup> Die in Artikel 2 Ziffern 1 und 2 vorgesehenen Patenttaxen für das Angelrutenpatent gelten für Personen mit Wohnsitz im Kanton Glarus.
 
-<sup>2</sup> Personen ohne Wohnsitz im Kanton Glarus entrichten die zweieinhalbfache Taxe.
+<sup>2</sup> Personen ohne Wohnsitz im Kanton Glarus entrichten die zweieindrittelfache Taxe.
 
 #### Art. 5
 
