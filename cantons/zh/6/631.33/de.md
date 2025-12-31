@@ -3,18 +3,17 @@ canton: ZH
 number: "631.33"
 title: Verfügung der Finanzdirektion über die Pauschalierung von Berufsauslagen Unselbstständigerwerbender bei der Steuereinschätzung (ab Steuerperiode 2026)
 language: de
-nachtrag: "123"
-valid_until: 2026-01-01
+nachtrag: "131"
 adopted: 2025-09-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_33-2023_10_03-2024_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_33-2025_09_26-2026_01_01-131.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verfügung der Finanzdirektion über die Pauschalierung von Berufsauslagen Unselbstständigerwerbender bei der Steuereinschätzung (ab Steuerperiode 2024)
+# Verfügung der Finanzdirektion über die Pauschalierung von Berufsauslagen Unselbstständigerwerbender bei der Steuereinschätzung (ab Steuerperiode 2026)
 
-(vom 3. Oktober 2023)[^t-1],[^t-2]
+(vom 26. September 2025)[^t-1],[^t-2]
 
 Die Finanzdirektion verfügt:
 
@@ -36,11 +35,11 @@ I. Unselbstständigerwerbende können als notwendige Berufsauslagen im Sinne von
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 26 - 131
 
 - wenn die steuerpflichtige Person infolge Krankheit oder Gebrechlichkeit ausserstande ist, ein öffentliches Verkehrsmittel zu benützen.
 
-In diesen Fällen können zum Abzug geltend gemacht werden: für Motorrad mit weissem Kontrollschild … 40 Rp. pro Fahrkilometer für Auto … 70 Rp. pro Fahrkilometer Für Hin- und Rückfahrt über Mittag sind in diesen Fällen höchstens Fr. 3200 im Jahr (Abzug für auswärtige Verpflegung gemäss Ziff. 2 unten) als Arbeitswegkosten abziehbar.
+In diesen Fällen können zum Abzug geltend gemacht werden: für Motorrad mit weissem Kontrollschild … 40 Rp. pro Fahrkilometer für Auto … 75 Rp. pro Fahrkilometer Für Hin- und Rückfahrt über Mittag sind in diesen Fällen höchstens Fr. 3200 im Jahr (Abzug für auswärtige Verpflegung gemäss Ziff. 2 unten) als Arbeitswegkosten abziehbar.
 
 Für Fahrten zwischen Wohn- und Arbeitsstätte, unter Einbezug der Fahrkosten bei auswärtigem Wochenaufenthalt, können höchstens Fr. 5200 im Jahr abgezogen werden.
 
@@ -68,8 +67,8 @@ IV. Macht eine steuerpflichtige Person geltend, dass die tatsächlichen Auslagen
 
 **3**
 
-- 1\. 1. 24 - 123 V. Diese Verfügung gilt ab der Steuerperiode 2024. Sie ersetzt auf diesen Zeitpunkt die Verfügung der Finanzdirektion über die Pauschalierung von Berufsauslagen Unselbstständigerwerbender bei der Steuereinschätzung unter Berücksichtigung des Aus- und Weiterbildungsabzugs (ab Steuerperiode 2022) vom 23. Juli 2021.
+- 1\. 1. 26 - 131 V. Diese Verfügung gilt ab der Steuerperiode 2026. Sie ersetzt auf diesen Zeitpunkt die Verfügung der Finanzdirektion über die Pauschalierung von Berufsauslagen Unselbstständigerwerbender bei der Steuereinschätzung (ab Steuerperiode 2024) vom 3. Oktober 2023.
 
-[^t-1]: OS 78, 487; Begründung siehe ABl 2023-10-13.
-[^t-2]: Inkrafttreten: 1. Januar 2024.
+[^t-1]: OS 80, 344; Begründung siehe ABl 2025-10-10.
+[^t-2]: Inkrafttreten: 1. Januar 2026.
 [^t-3]: LS 631.1.
