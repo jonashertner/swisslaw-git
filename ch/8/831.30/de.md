@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-
 short: ELG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20250101-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20260101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20250101/de"
 
 (ELG)
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2025)
+vom 6. Oktober 2006 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 112*a* und 112*c* Absatz 2 der Bundesverfassung[^ingre
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)
 
 ## 1. Kapitel: Anwendbarkeit des ATSG
@@ -36,7 +36,7 @@ beschliesst:
 
 <sup>2</sup> Die Artikel 32 und 33 ATSG sind auf die Leistungen der gemeinnützigen Institutionen nach dem 3. Kapitel anwendbar.
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## 2. Kapitel: Ergänzungsleistungen
 
@@ -63,7 +63,7 @@ Die Ergänzungsleistungen bestehen aus:
 
 <sup>2</sup> Die jährliche Ergänzungsleistung ist eine Geldleistung (Art. 15 ATSG[^3-1]), die Vergütung von Krankheits- und Behinderungskosten eine Sachleistung (Art. 14 ATSG).
 
-[^3-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### 2. Abschnitt: Anspruch auf Ergänzungsleistungen
 
@@ -100,16 +100,16 @@ Der gewöhnliche Aufenthalt in der Schweiz nach Absatz 1 gilt als unterbrochen, 
 
 <sup>4</sup> Der Bundesrat bestimmt den Zeitpunkt der Sistierung und der Wiederausrichtung der Leistungen sowie die Fälle, in denen der gewöhnliche Aufenthalt in der Schweiz bei einem Auslandaufenthalt bis zu einem Jahr ausnahmsweise nicht unterbrochen wird.[^4-12]
 
-[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^4-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^4-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung) ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^4-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^4-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^4-6]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^4-7]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^4-8]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^4-9]: Fassung gemäss Ziff. IV des BG vom 6. Okt. 2006, in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^4-10]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-10]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^4-11]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^4-12]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
@@ -137,9 +137,9 @@ Für Ausländerinnen und Ausländer, die gestützt auf ein Sozialversicherungsab
 <sup>6</sup> Der Bundesrat bestimmt die Fälle, in denen die Karenzfrist bei einem Auslandaufenthalt bis zu einem Jahr ausnahmsweise nicht unterbrochen wird.[^5-10]
 
 [^5-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 16. Dez. 2016 (Steuerung der Zuwanderung und Vollzugsverbesserungen bei den Freizügigkeitsabkommen), in Kraft seit 1. Juli 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^5-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^5-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^5-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^5-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^5-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^5-6]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^5-7]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -165,7 +165,7 @@ Der Anspruch auf Ergänzungsleistungen darf nicht von einer bestimmten Wohn- und
 
 Die Ergänzungsleistungen werden dauernd oder vorübergehend verweigert, wenn eine Rente gestützt auf Artikel 21 Absatz 1 oder 2 ATSG[^8-1] verweigert wird.
 
-[^8-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^8-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### 3. Abschnitt: Jährliche Ergänzungsleistung
 
@@ -212,7 +212,7 @@ Der Bundesrat bestimmt:
 [^9-2]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-4]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^9-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 9a
 
@@ -361,7 +361,8 @@ Nicht angerechnet werden:
 - e. Stipendien und andere Ausbildungsbeihilfen;
 - f.[^11-12] Assistenzbeiträge der AHV oder der IV;
 - g.[^11-13] Beiträge der obligatorischen Krankenpflegeversicherung an die Pflegeleistungen in einem Heim, wenn in der Tagestaxe keine Pflegekosten nach dem KVG[^11-14] berücksichtigt werden;
-- h.[^11-15] der Rentenzuschlag nach Artikel 34<sup>bis</sup> AHVG.
+- h.[^11-15] der Rentenzuschlag nach Artikel 34<sup>bis</sup> AHVG;
+- i.[^11-16] die 13. Altersrente nach Artikel 34<sup>ter</sup> AHVG.
 
 <sup>4</sup> Der Bundesrat bestimmt die Fälle, in denen die Hilflosenentschädigungen der Sozialversicherungen als Einnahmen angerechnet werden.
 
@@ -369,17 +370,18 @@ Nicht angerechnet werden:
 [^11-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^11-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-6]: Aufgehoben durch Ziff. I des BG vom 22. März 2019 (EL-Reform), mit Wirkung seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-7]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-8]: Eingefügt durch Ziff. I 2 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)). Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-9]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^11-9]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^11-10]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^11-11]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^11-11]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^11-12]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^11-13]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-14]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-14]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^11-15]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-16]: Eingefügt durch Ziff. II 2 des BG vom 21. März 2025 (Umsetzung der 13. Altersrente), in Kraft seit 1. Jan. 2026 ([AS 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [BBl 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
 
 #### Art. 11a
 
@@ -407,7 +409,7 @@ Nicht angerechnet werden:
 
 <sup>4</sup> Der Bundesrat regelt die Nachzahlung von Leistungen; er kann die in Artikel 24 Absatz 1 ATSG[^12-1] festgelegte Dauer kürzen.
 
-[^12-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^12-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 13
 
@@ -466,7 +468,7 @@ Die Kantone vergüten den Bezügerinnen und Bezügern einer jährlichen Ergänzu
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^14-2]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^14-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^14-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^14-4]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 15
@@ -524,7 +526,7 @@ Der Bund zahlt jährlich:
 
 <sup>4</sup> Die Beiträge an die Stiftungen Pro Senectute und Pro Juventute werden aus Mitteln der AHV, jene an die Vereinigung Pro Infirmis aus Mitteln der IV geleistet.
 
-[^17-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^17-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 18
 
@@ -558,7 +560,7 @@ Der Bundesrat kann:
 
 Bei der Neufestsetzung der Renten nach Artikel 33<sup>ter</sup> AHVG[^19-1] kann der Bundesrat die Höhe der anerkannten Ausgaben (Art. 10 Abs. 1), der anrechenbaren Einnahmen (Art. 11 Abs. 1) und der Krankheits- und Behinderungskosten (Art. 14 Abs. 3 und 4) in angemessener Weise anpassen.
 
-[^19-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 20
 
@@ -579,7 +581,7 @@ Rückforderungen können mit den folgenden Leistungen verrechnet werden:
 <sup>4</sup> Hat eine mit der Durchführung betraute Stelle einem anderen Sozialversicherer oder einer Vorsorgeeinrichtung die Verrechnung einer fälligen Leistung angezeigt, so kann dieser Träger seine Leistung im Umfang der Verrechnung nicht mehr befreiend an die versicherte Person bezahlen.
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^20-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^20-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 21
 
@@ -618,7 +620,7 @@ Rückforderungen können mit den folgenden Leistungen verrechnet werden:
 <sup>3</sup> Der Betrag der jährlichen Ergänzungsleistung für den Aufenthalt in Heimen und Spitälern nach Artikel 10 Absatz 2 Buchstabe a kann in Abweichung von Artikel 20 ATSG dem Leistungserbringer abgetreten und direkt ausbezahlt werden.
 
 [^21a-1]: Eingefügt durch Ziff. II des BG vom 19. März 2010 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 22
 
@@ -639,7 +641,7 @@ Der Bundesrat erlässt die erforderlichen Buchführungsvorschriften für die Org
 <sup>4</sup> Artikel 72*b* Buchstabe e AHVG findet sinngemäss Anwendung.[^23-3]
 
 [^23-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. 4 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^23-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-3]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 24
@@ -658,7 +660,7 @@ Der Bundesrat erlässt die erforderlichen Buchführungsvorschriften für die Org
 
 Die Haftung der Organe nach Artikel 21 Absatz 2 richtet sich, in Abweichung von Artikel 78 ATSG[^25-1], nach kantonalem Recht.
 
-[^25-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^25-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 26
 
@@ -676,7 +678,7 @@ Es gelten sinngemäss die folgenden Bestimmungen des AHVG[^26-2] über:
 <sup>2</sup> Die Organe nach Artikel 21 Absatz 2 haben durch Abrufverfahren Zugriff auf das zentrale Register der laufenden Geldleistungen der Zentralen Ausgleichsstelle (Art. 50*b* AHVG).
 
 [^26-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^26-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 26a
 
@@ -685,8 +687,8 @@ Es gelten sinngemäss die folgenden Bestimmungen des AHVG[^26-2] über:
 Zur Prüfung der Voraussetzungen für den Familiennachzug sowie des Anspruchs auf Aufenthalt melden die für die Festsetzung und die Auszahlung der Ergänzungsleistungen zuständigen Organe nach Artikel 97 Absatz 3 Buchstabe d<sup>ter</sup> des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^26a-2] und in Abweichung von Artikel 33 ATSG[^26a-3] den Migrationsbehörden unaufgefordert den Bezug einer jährlichen Ergänzungsleistung nach Artikel 3 Absatz 1 Buchstabe a durch Ausländerinnen und Ausländer. Werden nur Krankheits- und Behinderungskosten nach Artikel 3 Absatz 1 Buchstabe b vergütet, so sind den Migrationsbehörden Fälle grösserer Vergütungen zu melden.
 
 [^26a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2016 (Steuerung der Zuwanderung und Vollzugsverbesserungen bei den Freizügigkeitsabkommen), in Kraft seit 1. Juli 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^26a-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^26a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^26a-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^26a-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 26b
 
@@ -695,7 +697,7 @@ Zur Prüfung der Voraussetzungen für den Familiennachzug sowie des Anspruchs au
 Die Zentrale Ausgleichsstelle nach Artikel 71 AHVG[^26b-2] führt ein Informationssystem zur Bearbeitung von Daten im Bereich Ergänzungsleistungen (EL-Informationssystem), insbesondere um Transparenz über bezogene Ergänzungsleistungen herzustellen und die Stellen nach Artikel 21 Absatz 2 beim Vollzug dieses Gesetzes zu unterstützen.
 
 [^26b-1]: Ursprünglich: Art. 26*a*. Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2011 (Verbesserung der Durchführung) ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^26b-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26b-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 26c
 
@@ -728,7 +730,7 @@ Mittels Abrufverfahren haben Zugriff auf das EL-Informationssystem:
 <sup>2</sup> Für die Aufsicht finden die Artikel 72, 72*a* und 72*b* Buchstaben a–c und i AHVG[^28-2] sinngemäss Anwendung.
 
 [^28-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^28-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^28-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 29
 
@@ -746,7 +748,7 @@ Mittels Abrufverfahren haben Zugriff auf das EL-Informationssystem:
 
 Die Artikel 72–75 ATSG[^30-1] sind nicht anwendbar.
 
-[^30-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^30-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 31
 
@@ -770,10 +772,10 @@ Falls nicht ein Tatbestand gemäss Absatz 1 vorliegt, wird mit Busse bis zu 5000
 
 <sup>3</sup> Artikel 90 AHVG[^31-4] findet Anwendung.
 
-[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^31-2]: Eingefügt durch Ziff. IV des BG vom 6. Okt. 2006, in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^31-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^31-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^31-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^31-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 5. Kapitel: Verhältnis zum europäischen Recht
 
@@ -804,12 +806,12 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
 [^32-1]: Fassung gemäss Anhang Ziff. 3 des BB vom 17. Juni 2016 (Ausdehnung des Freizügigkeitsabkommens auf die Republik Kroatien), in Kraft seit 1. Jan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^32-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^32-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^32-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^32-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^32-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^32-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
 [^32-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
-[^32-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^32-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -847,7 +849,7 @@ Datum des Inkrafttreten: 1. Januar 2008[^35-2]
 
 Die Kantone sind befugt, Artikel 21*a* erst mit der Änderung des Systems der Prämienverbilligung nach Artikel 65 Absatz 1 KVG[^u1-2] anzuwenden.
 
-[^u1-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^u1-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ## Übergangsbestimmungen zur Änderung vom 22. März 2019 (EL-Reform)
 

@@ -4,11 +4,11 @@ title: "Lescha federala dals 6 d’october 2006 davart las prestaziuns supplemen
 short: LPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: rm
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-804-20250101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-804-20260101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPS)
 
-dals 6 d’october 2006 (versiun dal 1. da schaner 2025)
+dals 6 d’october 2006 (versiun dal 1. da schaner 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 112*a* e 112*c* alinea 2 da la Constituziun federala
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)
 
 ## 1. chapitel Applitgabladad da la LPGA
@@ -38,7 +38,7 @@ concluda:
 
 <sup>2</sup> Ils artitgels 32 e 33 LPGA èn applitgabels per las prestaziuns da las instituziuns d’utilitad publica tenor il chapitel 3.
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## 2. chapitel Prestaziuns supplementaras
 
@@ -65,7 +65,7 @@ Las prestaziuns supplementaras sa cumponan:
 
 <sup>2</sup> La prestaziun supplementara annuala è ina prestaziun finanziala (art. 15 LPGA[^3-1]), l’indemnisaziun dals custs da malsogna e d’impediment è ina prestaziun materiala (art. 14 LPGA).
 
-[^3-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### 2. secziun Dretg da prestaziuns supplementaras
 
@@ -102,16 +102,16 @@ La dimora usitada en Svizra tenor l’alinea 1 vala sco interrutta, sch’ina pe
 
 <sup>4</sup> Il Cussegl federal fixescha il mument da la sistida e da la redistribuziun da las prestaziuns sco er davart ils cas, per ils quals la dimora usitada en Svizra na vegn excepziunalmain betg interrutta en cas d’ina dimora a l’exteriur da fin 1 onn.[^4-12]
 
-[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^4-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^4-3]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun) ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^4-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^4-5]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^4-6]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^4-7]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun), en vigur dapi il 1. da schan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^4-8]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^4-9]: Versiun tenor la cifra IV da la LF dals 6 d’oct. 2006, en vigur dapi il 1. da schan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^4-10]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-10]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^4-11]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^4-12]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
@@ -139,9 +139,9 @@ Per las persunas estras che avessan il dretg da rentas extraordinarias da la AVS
 <sup>6</sup> Il Cussegl federal fixescha ils cas, per ils quals il termin da carenza na vegn excepziunalmain betg interrut en cas d’ina dimora a l’exteriur da fin 1 onn.[^5-10]
 
 [^5-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 16 da dec. 2016 (regulaziun da l’immigraziun e meglieraziuns da l’execuziun tar las cunvegnas davart la libra circulaziun da persunas), en vigur dapi il 1. da fan. 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^5-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^5-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^5-3]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^5-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^5-5]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^5-6]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^5-7]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -167,7 +167,7 @@ Il dretg da prestaziuns supplementaras na dastga betg vegnir fatg dependent d’
 
 Las prestaziuns supplementaras vegnan refusadas permanentamain u temporarmain, sch’ina renta vegn refusada sin basa da l’artitgel 21 alinea 1 u 2 LPGA[^8-1].
 
-[^8-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^8-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### 3. secziun Prestaziun supplementara annuala
 
@@ -214,7 +214,7 @@ Il Cussegl federal fixescha:
 [^9-2]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-3]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-4]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^9-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 9a
 
@@ -363,7 +363,8 @@ Betg quintà na vegn il suandant:
 - e. stipendis ed auters agids da scolaziun;
 - f.[^11-12] contribuziuns d’assistenza da la AVS u da la AI;
 - g.[^11-13] contribuziuns da l’assicuranza obligatorica per la tgira da malsauns a las prestaziuns da tgira en ina chasa da dimora, sch’i na vegnan resguardads nagins custs da tgira tenor la LAMal[^11-14] en la taxa da di;
-- h.[^11-15] il supplement da renta tenor l’artitgel 34<sup>bis</sup> LAVS.
+- h.[^11-15] il supplement da renta tenor l’artitgel 34<sup>bis</sup> LAVS;
+- i.[^11-16] la 13. renta da vegliadetgna tenor l’artitgel 34<sup>ter</sup> LAVS.
 
 <sup>4</sup> Il Cussegl federal determinescha ils cas, per ils quals las indemnisaziuns da las assicuranzas socialas a persunas dependentas d’agid vegnan quintadas sco entradas.
 
@@ -371,17 +372,18 @@ Betg quintà na vegn il suandant:
 [^11-2]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-3]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-4]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^11-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-6]: Abolì tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), cun effect dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-7]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-8]: Integrà tras la cifra I 2 da la LF dals 13 da zer. 2008 davart la reordinaziun da la finanziaziun da la tgira ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432); [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)). Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-9]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^11-9]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^11-10]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^11-11]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^11-11]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^11-12]: Integrà tras la cifra 5 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras), en vigur dapi il 1. da schan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^11-13]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-14]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^11-14]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^11-15]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (AVS 21), en vigur dapi il 1. da schan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^11-16]: Integrà tras la cifra II 2 da la LF dals 21 da mars 2025 (realisaziun da la 13. renta da vegliadetgna), en vigur dapi il 1. da schan. 2026 ([AS 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [BBl 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
 
 #### Art. 11a
 
@@ -409,7 +411,7 @@ Betg quintà na vegn il suandant:
 
 <sup>4</sup> Il Cussegl federal regla ils pajaments posteriurs da prestaziuns; el po reducir la durada fixada en l’artitgel 24 alinea 1 LPGA[^12-1].
 
-[^12-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^12-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 13
 
@@ -468,7 +470,7 @@ Ils chantuns indemniseschan a las persunas che retiran ina prestaziun supplement
 
 [^14-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^14-2]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^14-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^14-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^14-4]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras), en vigur dapi il 1. da schan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 15
@@ -526,7 +528,7 @@ La Confederaziun paja annualmain:
 
 <sup>4</sup> Las contribuziuns a las fundaziuns Pro Senectute e Pro Juventute vegnan pajadas cun meds da la AVS, quellas a l’associaziun Pro Infirmis cun meds da la AI.
 
-[^17-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^17-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 18
 
@@ -560,7 +562,7 @@ Il Cussegl federal po:
 
 Cun fixar las novas rentas tenor l’artitgel 33<sup>ter</sup> LAVS[^19-1] po il Cussegl federal adattar en moda commensurada l’autezza da las expensas renconuschidas (art. 10 al. 1), da las entradas imputablas (art. 11 al. 1) e dals custs da malsogna e d’impediment (art. 14 al. 3 e 4).
 
-[^19-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^19-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 20
 
@@ -581,7 +583,7 @@ Dumondas da restituziun pon vegnir scuntradas cun las suandantas prestaziuns:
 <sup>4</sup> Sch’in post incaricà cun l’execuziun ha annunzià ad in’autra assicuranza sociala u ad ina instituziun da provediment la scuntrada d’ina prestaziun ch’è da pajar, na po quest purtader betg pli pajar sia prestaziun cun effect liberant a la persuna assicurada en la dimensiun da la scuntrada.
 
 [^20-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^20-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^20-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 21
 
@@ -620,7 +622,7 @@ Dumondas da restituziun pon vegnir scuntradas cun las suandantas prestaziuns:
 <sup>3</sup> En divergenza da l’artitgel 20 LPGA po l’import da la prestaziun supplementara annuala per la dimora en ina chasa da dimora u en in ospital tenor l’artitgel 10 alinea 2 litera a vegnir cedì e pajà directamain al furnitur da prestaziuns.
 
 [^21a-1]: Integrà tras la cifra II da la LF dals 19 da mars 2010 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)). Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^21a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 22
 
@@ -641,7 +643,7 @@ Il Cussegl federal decretescha las prescripziuns da contabilitad necessarias per
 <sup>4</sup> L’artitgel 72*b* litera e LAVS vegn applitgà analogamain.[^23-3]
 
 [^23-1]: Versiun da la segunda frasa tenor la cifra 4 da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^23-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-3]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 24
@@ -660,7 +662,7 @@ Il Cussegl federal decretescha las prescripziuns da contabilitad necessarias per
 
 En divergenza da l’artitgel 78 LPGA[^25-1] sa drizza la responsabladad dals organs tenor l’artitgel 21 alinea 2 tenor il dretg chantunal.
 
-[^25-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^25-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 26
 
@@ -678,7 +680,7 @@ Tenor il senn èn applitgablas las suandantas disposiziuns da la LAVS[^26-2], ch
 <sup>2</sup> Ils organs tenor l’artitgel 21 alinea 2 han access al register central da las prestaziuns finanzialas currentas da l’Uffizi central da cumpensaziun (art. 50*b* LAVS) tras ina procedura d’invista.
 
 [^26-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^26-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 26a
 
@@ -687,8 +689,8 @@ Tenor il senn èn applitgablas las suandantas disposiziuns da la LAVS[^26-2], ch
 Per examinar las premissas per la reuniun da la famiglia en Svizra sco er il dretg da dimora en Svizra annunzian ils organs ch’èn cumpetents per fixar e per pajar, senza vegnir intimads, las prestaziuns supplementaras a las autoritads da migraziun – tenor l’artitgel 97 alinea 3 litera d<sup>ter</sup> da la Lescha federala dals 16 da december 2005[^26a-2] davart las persunas estras e l’integraziun ed en divergenza da l’artitgel 33 LPGA[^26a-3] – la retratga d’ina prestaziun supplementara annuala tras persunas estras tenor l’artitgel 3 alinea 1 litera a. Sch’i vegnan indemnisads mo custs da malsogna u d’impediment tenor l’artitgel 3 alinea 1 litera b, ston vegnir annunziads a las autoritads da migraziun ils cas d’indemnisaziuns pli grondas.
 
 [^26a-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2016 (regulaziun da l’immigraziun e meglieraziuns da l’execuziun tar las cunvegnas davart la libra circulaziun da persunas), en vigur dapi il 1. da fan. 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^26a-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^26a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^26a-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^26a-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 26b
 
@@ -697,7 +699,7 @@ Per examinar las premissas per la reuniun da la famiglia en Svizra sco er il dre
 L’Uffizi central da cumpensaziun tenor l’artitgel 71 LAVS[^26b-2] maina in sistem d’infurmaziun per elavurar las datas en il sectur da las prestaziuns supplementaras (sistem d’infurmaziun PS), en spezial per stgaffir transparenza davart las prestaziuns supplementaras retratgas e per sustegnair ils posts tenor l’artitgel 21 alinea 2 tar l’execuziun da questa lescha.
 
 [^26b-1]: Oriundamain: art. 26*a*. Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da zer. 2011 (meglieraziun da la realisaziun) ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^26b-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26b-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 26c
 
@@ -730,7 +732,7 @@ Cun agid d’ina procedura d’invista han ils suandants organs access al sistem
 <sup>2</sup> Per la surveglianza vegnan applitgads analogamain ils artitgels 72, 72*a* e 72*b* literas a–c ed i LAVS[^28-2].
 
 [^28-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 17 da zer. 2022 (modernisaziun da la surveglianza), en vigur dapi il 1. da schan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^28-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^28-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 29
 
@@ -748,7 +750,7 @@ Cun agid d’ina procedura d’invista han ils suandants organs access al sistem
 
 Ils artitgels 72–75 LPGA[^30-1] n’èn betg applitgabels.
 
-[^30-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^30-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 31
 
@@ -772,10 +774,10 @@ Sch’i n’è betg avant maun in causal tenor l’alinea 1, vegn chastià cun i
 
 <sup>3</sup> L’artitgel 90 LAVS[^31-4] è applitgabel.
 
-[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^31-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^31-2]: Integrà tenor la cifra IV da la LF dals 6 d’oct. 2006, en vigur dapi il 1. da schan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^31-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^31-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^31-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^31-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 5. chapitel Relaziun cun il dretg europeic
 
@@ -806,12 +808,12 @@ Per persunas, per las qualas valan u valevan las prescripziuns giuridicas da la 
 <sup>4</sup> Las noziuns «stadis commembers da l’Uniun europeica», «stadis commembers da la Communitad europeica», «stadis da l’Uniun europeica» e «stadis da la Communitad europeica» en la lescha qua avant maun designeschan ils stadis, per ils quals vala la Cunvegna davart la libra circulaziun.
 
 [^32-1]: Versiun tenor la cifra 3 dal COF dals 17 da zer. 2016 (extensiun da la Cunvegna davart la libra circulaziun sin la Republica da la Croazia), en vigur dapi il 1. da schan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^32-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-3]: Ordinaziun (CE) nr. 883/2004 dal Parlament europeic e dal Cussegl dals 29 d’avr. 2004 davart la coordinaziun dals sistems da la segirezza sociala ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^32-4]: Ordinaziun (CE) nr. 987/2009 dal Parlament europeic e dal Cussegl dals 16 da sett. 2009 concernent la fixaziun da las modalitads per realisar l’Ordinaziun (CE) nr. 883/2004 davart la coordinaziun dals sistems da la segirezza sociala ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^32-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^32-3]: Ordinaziun (CE) nr. 883/2004 dal Parlament europeic e dal Cussegl dals 29 d’avr. 2004 davart la coordinaziun dals sistems da la segirezza sociala ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^32-4]: Ordinaziun (CE) nr. 987/2009 dal Parlament europeic e dal Cussegl dals 16 da sett. 2009 concernent la fixaziun da las modalitads per realisar l’Ordinaziun (CE) nr. 883/2004 davart la coordinaziun dals sistems da la segirezza sociala ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^32-5]: Ordinaziun (CEE) nr. 1408/71 dal Cussegl dals 14 da zer. 1971 concernent l’applicaziun dals sistems da la segirezza sociala sin ils lavurants, sin las persunas cun activitad da gudogn independenta sco er sin lur famiglias che immigreschan ed emigreschan entaifer la Communitad; mintgamai en la versiun valaivla da la Cunvegna davart la libra circulaziun da persunas ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) resp. da la Convenziun AECL revedida.
 [^32-6]: Ordinaziun (CEE) nr. 574/72 dal Cussegl dals 21 da mars 1972 davart l’execuziun da l’Ordinaziun (CEE) nr. 1408/71 concernent l’applicaziun dals sistems da la segirezza sociala sin ils lavurants, sin las persunas cun activitad da gudogn independenta sco er sin lur famiglias che immigreschan ed emigreschan entaifer la Communitad; mintgamai en la versiun valaivla da la Cunvegna davart la libra circulaziun da persunas ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) resp. da la Convenziun AECL revedida.
-[^32-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^32-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## 6. chapitel Disposiziuns finalas
 
@@ -849,7 +851,7 @@ Data da l’entrada en vigur: 1. da schaner 2008[^35-2]
 
 Ils chantuns èn autorisads d’applitgar l’artitgel 21*a* pir cun la midada dal sistem da la reducziun da las premias tenor l’artitgel 65 alinea 1 LAMal[^u1-2].
 
-[^u1-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^u1-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ## Disposiziuns transitoricas da la midada dals 22 da mars 2019 (refurma da las prestaziuns supplementaras)
 
