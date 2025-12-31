@@ -4,7 +4,7 @@ number: "910.11.3"
 title: ARRÊTÉ du 11.09.2024 relatif aux contributions allouées pour les années 2024 à 2025 aux exploitants agricoles qui estivent leur bétail sur France (A. Pacage)
 short: A. Pacage
 language: fr
-version: 2024-08-15
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/910.11.3?id=e6bddaa4-00f8-4484-8f10-3b2c59210855"
 ---
 
@@ -55,7 +55,7 @@ arrête
 
 **Montant [^2-2]**
 
-<sup>1</sup> Le montant de l'aide est de Fr. 50.- par pâquier normal. Le montant total des aides individuelles prévues à l'article premier du présent arrêté ne peut dépasser la somme de Fr. 150'000.- par année.
+<sup>1</sup> Le montant de l'aide est de Fr. 40.- par pâquier normal. Le montant total des aides individuelles prévues à l'article premier du présent arrêté ne peut dépasser la somme de Fr. 100'000.- par année.
 
 <sup>2</sup> Si le plafond budgétaire est atteint, le montant de l'aide est réduit en proportion.
 
@@ -81,6 +81,6 @@ arrête
 
 **Exécution [^5-2]**
 
-<sup>1</sup> Le Département des finances et de l'agriculture est chargé de l'exécution du présent arrêté, qui entre en vigueur le 15 août 2024 et prend fin le 31 décembre 2025.
+<sup>1</sup> Le Département de l'agriculture, de la durabilité et du climat et du numérique est chargé de l'exécution du présent arrêté, qui entre en vigueur le 1<sup>er</sup> janvier 2026 et prend fin le 31 décembre 2029.
 
 [^5-2]: Modif. 1 du 28.01.2026: Modification Al. 1; entrée en vigueur au 01.01.2026
