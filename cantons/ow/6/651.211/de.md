@@ -3,20 +3,19 @@ canton: OW
 number: "651.211"
 title: Ausführungsbestimmungen über die Fischerei
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-15
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2008-10-28
 in_force: 2009-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/651.211"
-pdf: "http://gdb.ow.ch/api/de/versions/1755/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1994/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Fischerei
 
-vom 28.10.2008 (Stand 01.01.2023)
+vom 28.10.2008 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -48,6 +47,10 @@ beschliesst:
 <sup>2</sup> Der Sachkunde-Nachweis wird durch das Schweizer Sportfischerbrevet, den schweizerischen Sachkunde-Nachweis oder einen gleichwertigen Nachweis erbracht. Über die Gleichwertigkeit entscheidet das Amt für Landwirtschaft und Umwelt.
 
 [^2-1]: GDB [651.21](http://gdb.ow.ch/data/651.21/de)
+
+#### Art. 2a
+
+<sup>1</sup> Das Patent wird als Patentkarte oder über die Patent-App Obwalden ausgestellt.
 
 #### Art. 3
 
@@ -129,7 +132,7 @@ beschliesst:
   - c. Seen — 130.–
   - d. …
 
-<sup>3</sup> Zusätzlich zu den Patentgebühren wird ein Depot von Fr. 20.– für die Fischfangstatistik verlangt. Das Depot wird bei fristgerechter Abgabe der Statistik zurückerstattet.
+<sup>3</sup> …
 
 ## 4. Fangausübung
 
@@ -310,7 +313,14 @@ beschliesst:
 - a. …
 - b. Fischpass und Entlastungsgerinne am Staudamm Wichelsee;
 - c. Höllbach in Lungern;
-- d. Umgehungsgerinne an der Kleinen Schliere unterhalb der Brücke A8.
+- d. Umgehungsgerinne an der Kleinen Schliere unterhalb der Brücke A8;
+- e. Umgehungsgerinne an der Grossen Melchaa (Rissmatt) im Melchtal.
+
+#### Art. 18a
+
+**Befristetes Schonrevier**
+
+<sup>1</sup> In der Sarneraa zwischen der Brücke Schwanderstrasse und der Brücke A8 ist jegliches Fischen untersagt. Das Verbot gilt während den Wasserbauarbeiten an der Sarneraa zwischen Sarnersee und Wichelsee. Es wird nach Beendigung der Arbeiten aufgehoben.
 
 #### Art. 19
 
@@ -320,15 +330,31 @@ beschliesst:
 
 [^19-1]: SR [923.0](https://db.clex.ch/link/Bund/923.0/de) und [923.01](https://db.clex.ch/link/Bund/923.01/de)
 
+## 6a. Fischfangstatistik
+
+#### Art. 19a
+
+**Führen der Statistik**
+
+<sup>1</sup> Jede patentinhabende Person ist zur wahrheitsgetreuen Führung der Fangstatistik verpflichtet.
+
+<sup>2</sup> In die Fangstatistik müssen das Fangdatum, das Gewässer, die Fischart und die Anzahl der gefangenen Fische eingetragen werden.
+
+<sup>3</sup> Die behändigten Fische müssen sofort nach dem Fang mit Kugelschreiber oder Filzstift in die Patentkarte eingetragen oder in der Patent-App Obwalden erfasst werden.
+
+#### Art. 19b
+
+**Rückgabe der Statistik**
+
+<sup>1</sup> Die Fangstatistik auf der Patentkarte oder in der Patent-App Obwalden ist bis spätestens 31. Januar des Folgejahres beim Amt für Landwirtschaft und Umwelt einzureichen. Bei nicht fristgerechter Einreichung werden die Säumigen gemahnt.
+
+<sup>2</sup> Wird die Fangstatistik bis Ende Februar nicht abgegeben, ist eine Verzugsgebühr von Fr. 100.– fällig.
+
 ## 7. Schlussbestimmungen
 
 #### Art. 20
 
 **Statistik**
-
-<sup>1</sup> Jede patentinhabende Person ist gemäss den Ausführungsbestimmungen über die Fischfangstatistik[^20-1] zur wahrheitsgetreuen Führung und Abgabe der Fangstatistik verpflichtet.
-
-[^20-1]: GDB [651.213](http://gdb.ow.ch/data/651.213/de)
 
 #### Art. 21
 
@@ -362,6 +388,8 @@ geändert durch:
 
 \- Nachtrag vom 6. November 2018 (OGS 2018, 37), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 21. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2019, 1),
 
-\- Nachtrag vom 15. November 2022 (OGS 2022, 26), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 7. Dezember 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 32)
+\- Nachtrag vom 15. November 2022 (OGS 2022, 26), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 7. Dezember 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 32),
+
+\- Nachtrag vom 2. Dezember 2025 (OGS 2025, 30), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 21. Januar 2026 (OGS 2026, 005), in Kraft seit 1. Januar 2026
 
 OGS 2008, 85
