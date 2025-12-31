@@ -4,13 +4,12 @@ number: "131.1"
 title: Gesetz über die Wahlen und Abstimmungen
 short: "Wahl- und Abstimmungsgesetz, WAG"
 language: de
-version: 2025-10-17
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2025-06-05
 adopted: 2006-09-28
 in_force: 2006-12-16
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2738/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2967/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2738/pdf_file"
 
 (Wahl- und Abstimmungsgesetz, WAG)
 
-Vom 28. September 2006 (Stand 17. Oktober 2025)
+Vom 28. September 2006 (Stand 1. Januar 2026)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -67,15 +66,13 @@ beschliesst:
 
 <sup>1</sup> Jede Einwohnergemeinde führt unter der Aufsicht des Gemeinderats ein Stimmregister. Stimmberechtigt ist nur, wer im Stimmregister eingetragen ist.
 
-<sup>2</sup> Im Stimmregister wird eingetragen, wer die Voraussetzungen von § 3 erfüllt und nicht vom Stimmrecht ausgeschlossen ist (§ 27 Abs. 3 KV[^4-1]).
+<sup>2</sup> Im Stimmregister wird eingetragen, wer die Voraussetzungen von § 3 erfüllt.
 
 <sup>3</sup> Eintragungen und Streichungen werden laufend, spätestens jedoch beim Abschluss des Stimmregisters vor einer Abstimmung oder Wahl von Amtes wegen vorgenommen.
 
 <sup>4</sup> Vor einer Abstimmung oder Wahl sind Eintragungen bis zum fünften Tag vor dem Abstimmungs- oder Wahltag vorzunehmen, wenn feststeht, dass die Voraussetzungen zur Teilnahme am Abstimmungstag erfüllt sind.
 
 <sup>5</sup> Das Stimmregister steht den Stimmberechtigten zur Einsicht offen.
-
-[^4-1]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
 
 #### § 5
 
