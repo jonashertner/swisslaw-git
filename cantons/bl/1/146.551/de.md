@@ -1,23 +1,24 @@
 ---
 canton: BL
 number: "146.551"
-title: "Verordnung über die Gebühren der Hauptabteilung Berufsbildung und Berufsberatung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH)"
+title: "Verordnung über die Gebühren der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen"
 short: Gebührenverordnung BMH
 language: de
-version: 2020-07-01
-valid_until: 2025-12-31
-version_adopted: 2020-06-16
+version: 2026-01-01
+version_adopted: 2025-12-18
 adopted: 2010-03-09
 in_force: 2010-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/146.551"
-pdf: "https://bl.clex.ch/api/de/versions/2686/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4397/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Gebühren der Hauptabteilung Berufsbildung und Berufsberatung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH)
+# Verordnung über die Gebühren der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen
 
-Vom 09.03.2010 (Stand 01.07.2020)
+(Gebührenverordnung BMH)
+
+Vom 09.03.2010 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -32,7 +33,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die Hauptabteilung Berufsbildung und Berufsberatung (Hauptabteilung) der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) kann Gebühren erheben.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) kann Gebühren erheben.
 
 #### § 2
 
