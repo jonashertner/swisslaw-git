@@ -4,13 +4,12 @@ number: 73a
 title: Besoldungsverordnung für das Staatspersonal
 short: BVO
 language: de
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-18
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/73a"
-pdf: "https://srl.lu.ch/api/de/versions/4493/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4621/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4493/pdf_file"
 
 (BVO)
 
-vom 24.09.2002 (Stand 01.07.2025)
+vom 24.09.2002 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -218,7 +217,7 @@ beschliesst:
 
 <sup>2</sup> Die Anerkennung ist ereignisgebunden und kann zu einem beliebigen Zeitpunkt gewährt werden.
 
-## 3 Sozialzulagen
+## 3 Sozialzulagen und Soziallohn
 
 #### § 15
 
@@ -235,6 +234,14 @@ beschliesst:
 <sup>5</sup> Die Angestellten haben der zuständigen Behörde alle Tatsachen zu melden, die ihren Anspruch auf die besondere Sozialzulage beeinflussen.
 
 [^15-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de)
+
+#### § 15a
+
+**Soziallohn**
+
+<sup>1</sup> Praktikantinnen und Praktikanten, Polizeiaspirantinnen und -aspiranten sowie Lernende, die Anspruch auf die besondere Sozialzulage nach § 15 haben und das soziale Existenzminimum gemäss den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS) nicht erreichen, können einen monatlichen Soziallohn beantragen.
+
+<sup>2</sup> Die Höhe des Soziallohns berechnet sich im Einzelfall nach der tatsächlichen Unterschreitung des sozialen Existenzminimums gemäss den SKOS-Richtlinien und hängt vom Beschäftigungsgrad ab. Bei einem Vollpensum beträgt der Soziallohn maximal 650 Franken pro Monat.
 
 ## 4 Vergütungen
 
@@ -344,9 +351,11 @@ beschliesst:
 - d) Mofas — Fr. –.25/km
 - e) Velos — Fr. 5.– pro Einsatz
 
-<sup>3</sup> Kosten für den Arbeitsweg und Parkgebühren am Arbeitsort werden nicht vergütet. Bei einer Dienstreise ist nur die kürzestmögliche Wegstrecke anrechenbar. Parkkosten, die auf einer Dienstreise anfallen, werden vergütet. Für die Privatfahrzeuge auf Dienstreisen besteht eine vom Kanton abgeschlossene Vollkaskoversicherung.
+<sup>3</sup> Kosten für den Arbeitsweg und Parkgebühren am Arbeitsort werden nicht vergütet. Bei einer Dienstreise ist nur die kürzestmögliche Wegstrecke anrechenbar. Parkkosten, die auf einer Dienstreise anfallen, werden vergütet.
 
 <sup>4</sup> Muss das Privatfahrzeug regelmässig für Dienstreisen mitgebracht werden, kann die zuständige Behörde in begründeten Fällen für die Kosten des Arbeitsweges und die Parkkosten eine pauschale Entschädigung zusprechen.
+
+<sup>5</sup> Schäden, die während einer Dienstreise mit einem Privatfahrzeug eintreten, sind über die Versicherungen der Fahrzeughalterin oder des Fahrzeughalters abzuwickeln. Allfällige nicht versicherte Kosten hat die zuständige Behörde zu vergüten.
 
 #### § 25
 
