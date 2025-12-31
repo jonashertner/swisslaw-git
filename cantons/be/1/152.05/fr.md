@@ -4,13 +4,13 @@ number: "152.05"
 title: Loi sur les fichiers centralisés de données personnelles
 short: LFDP
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-05
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-11
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3073/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3300/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3073/pdf_file"
 
 (LFDP)
 
-du 10.03.2020 (état au 01.01.2025)
+du 10.03.2020 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -352,7 +352,7 @@ arrête:
 <tr><td>16.</td><td>Loi sur les écoles moyennes (LEM; RSB 433.12)</td><td>d, e</td></tr>
 <tr><td>17.</td><td>Loi sur la formation professionnelle, la formation continue et l'orientation professionnelle (LFOP; RSB 435.11)</td><td>d, e</td></tr>
 <tr><td>18.</td><td>Loi sur l'octroi de subsides de formation (LSF; RSB 438.31)</td><td>d</td></tr>
-<tr><td>19.</td><td>Loi cantonale sur la protection de la population et sur la protection civile (LCPPCi; RSB 521.1)</td><td>d, f</td></tr>
+<tr><td>19.</td><td>...</td><td>...</td></tr>
 <tr><td>20.</td><td>Loi sur la police (LPol; RSB 551.1)</td><td>c, d, e, f</td></tr>
 <tr><td>21.</td><td>...</td><td>...</td></tr>
 <tr><td>22.</td><td>...</td><td>...</td></tr>

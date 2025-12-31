@@ -4,13 +4,13 @@ number: "152.05"
 title: Gesetz über die zentralen Personendatensammlungen
 short: "Personendatensammlungsgesetz, PDSG"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-05
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-11
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3073/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3073/pdf_file"
 
 (Personendatensammlungsgesetz, PDSG)
 
-vom 10.03.2020 (Stand 01.01.2025)
+vom 10.03.2020 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -352,7 +352,7 @@ beschliesst:
 <tr><td>16.</td><td>Mittelschulgesetz (MiSG; BSG 433.12)</td><td>d, e</td></tr>
 <tr><td>17.</td><td>Gesetz über die Berufsbildung, die Weiterbildung und die Berufsberatung (BerG; BSG 435.11)</td><td>d, e</td></tr>
 <tr><td>18.</td><td>Gesetz über die Ausbildungsbeiträge (ABG; BSG 438.31)</td><td>d</td></tr>
-<tr><td>19.</td><td>Kantonales Bevölkerungsschutz- und Zivilschutzgesetz (KBZG; BSG 521.1)</td><td>d, f</td></tr>
+<tr><td>19.</td><td>...</td><td>...</td></tr>
 <tr><td>20.</td><td>Polizeigesetz (PolG; BSG 551.1)</td><td>c, d, e, f</td></tr>
 <tr><td>21.</td><td>...</td><td>...</td></tr>
 <tr><td>22.</td><td>...</td><td>...</td></tr>
