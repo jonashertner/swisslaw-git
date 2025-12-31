@@ -4,13 +4,12 @@ number: II H/1
 title: Gesetz über die digitale Verwaltung
 short: DVG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-05-01
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 2022-05-01
 in_force: 2023-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-H.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2396/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2584/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2396/pdf_file"
 
 (DVG)
 
-Vom 01.05.2022 (Stand 01.01.2023)
+Vom 01.05.2022 (Stand 01.01.2026)
 
 Die Landsgemeinde,
 
@@ -48,9 +47,13 @@ erlässt:
 
 <sup>1</sup> Dieses Gesetz gilt für Behörden und Träger öffentlicher Aufgaben des Kantons und der Gemeinden unabhängig von ihrer Rechtsform (Behörden).
 
-<sup>2</sup> Es gilt nicht für die gerichtlichen Behörden gemäss Gerichtsorganisationsgesetz (GOG)[^2-1].
+<sup>2</sup> Es gilt nicht für:
+
+- a. die gerichtlichen Behörden gemäss Gerichtsorganisationsgesetz[^2-1];
+- b. die öffentlich-rechtlichen Korporationen gemäss Gemeindegesetz[^2-2].
 
 [^2-1]: GS [III A/2](https://gesetze.gl.ch/data/III-A.2/de)
+[^2-2]: GS [II E/2](https://gesetze.gl.ch/data/II-E.2/de)
 
 ## 2. Grundsätze
 
