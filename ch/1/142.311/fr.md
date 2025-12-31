@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2025-04-01
+version: 2026-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250401-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250401/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (État le 1<sup>er</sup> avril 2025)
+du 11 août 1999 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 119 de la loi du 26 juin 1998 sur l’asile[^ingress-1] (LAsi[^ingre
 
 arrête:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^ingress-2]: Nouvelle expression selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Chapitre 1 Champ d’application et définitions
@@ -57,7 +57,7 @@ Au sens de la présente ordonnance, on entend par:[^1a-1]
 - e.[^1a-3] *famille*: les conjoints et leurs enfants mineurs; sont assimilés aux conjoints les partenaires enregistrés et les personnes qui vivent en concubinage de manière durable; dans le cadre de la procédure Dublin, les termes membres de la famille et proches se réfèrent au règlement (UE) n° 604/2013[^1a-4].
 
 [^1a-1]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^1a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^1a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^1a-3]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^1a-4]: R (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des Etats membres par un ressortissant de pays tiers ou un apatride (refonte), version du JO L 180 du 29.6.2013, p. 31.
 
@@ -228,7 +228,7 @@ La personne de confiance doit posséder des connaissances du droit de l’asile,
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 [^7-2]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^7-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 [^7-5]: Introduit par le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-6]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-7]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
@@ -273,7 +273,7 @@ Le SEM ne perçoit aucun émolument pour les prestations qu’il fournit à d’
 [^7c-1]: Introduit par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 [^7c-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
 [^7c-3]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
-[^7c-4]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^7c-4]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Section 2 Demande d’asile et entrée en Suisse
 
@@ -398,7 +398,7 @@ Il y a notamment une atteinte sensible au fonctionnement et à la sécurité d�
 <sup>4</sup> L’autorité cantonale compétente ordonne l’assignation d’un lieu de résidence ou l’interdiction de pénétrer dans une région déterminée qui s’impose dans le contexte de l’hébergement dans un centre spécifique et en informe immédiatement le SEM.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^15-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^15-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ### Section 3 Procédure de première instance
 
@@ -485,7 +485,7 @@ Le DFJP édicte dans une ordonnance des dispositions concernant l’exploitation
 <sup>2</sup> Le SEM édicte, en accord avec l’Office fédéral de la santé publique (OFSP), des directives en vue de délimiter l’examen médical visé à l’art. 26*a*, al. 2, LAsi par rapport aux mesures prévues par la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme[^20a-2].
 
 [^20a-1]: Introduit par le ch. I de l’O du 13 déc. 2013 ([RO 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)). Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^20a-2]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^20a-2]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
 
 #### Art. 20b
 
@@ -752,11 +752,11 @@ Le renvoi ne peut être prononcé lorsque le requérant d’asile:[^32-2]
 [^32-1]: Nouvelle teneur selon le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^32-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
 [^32-3]: Nouvelle teneur selon le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-4]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^32-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^32-4]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^32-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^32-6]: Introduite par le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-8]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^32-7]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^32-8]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^32-9]: Introduit par le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 33
@@ -782,8 +782,8 @@ Le renvoi ne peut être prononcé lorsque le requérant d’asile:[^32-2]
 <sup>5</sup> Les cantons ainsi désignés pour exécuter les renvois ont droit aux déductions visées à l’art. 21, al. 5.
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^34-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
-[^34-3]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^34-2]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+[^34-3]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 
 #### Art. 34a
 
@@ -1252,7 +1252,7 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 - g. les éléments à prendre en considération pour évaluer l’incapacité à se déplacer pendant un temps assez long (art. 34, par. 3, pt. d).
 
 [^53b-1]: Règlement (UE) 2024/1351 du Parlement européen et du Conseil du 14 mai 2024 relatif à la gestion de l’asile et de la migration, modifiant les règlements (UE) 2021/1147 et (UE) 2021/1060 et abrogeant le règlement (UE) n<sup>o</sup> 604/2013, version du JO L, 2024/1351, 22.5.2024.
-[^53b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^53b-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Chapitre 6 Dispositions finales
 
@@ -1329,10 +1329,10 @@ Les accords d’association à Dublin comprennent les accords suivants:
 - c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex1-lvlu1-3];
 - d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentées dans un État Membre ou en Suisse[^annex1-lvlu1-4].
 
-[^annex1-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex1-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex1-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex1-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Annexe 2[^t-2]
 
@@ -1377,7 +1377,7 @@ Annexe 3[^t-3]
 
 ## Clé d’attribution proportionnelle à la population
 
-[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 11 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 674](https://fedlex.data.admin.ch/eli/oc/2024/674)).
+[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 11 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 751](https://fedlex.data.admin.ch/eli/oc/2025/751)).
 
 <table>
 <tr><th></th><th>En pourcentage</th><th></th><th>En pourcentage</th></tr>
@@ -1386,11 +1386,11 @@ Annexe 3[^t-3]
 <tr><td>Appenzell Rhodes-Intérieures</td><td>0,2</td><td>Schaffhouse</td><td>1,0</td></tr>
 <tr><td>Bâle-Campagne</td><td>3,3</td><td>Schwyz</td><td>1,9</td></tr>
 <tr><td>Bâle-Ville</td><td>2,2</td><td>Soleure</td><td>3,2</td></tr>
-<tr><td>Berne</td><td>11,9</td><td>Saint-Gall</td><td>6,0</td></tr>
+<tr><td>Berne</td><td>11,8</td><td>Saint-Gall</td><td>6,0</td></tr>
 <tr><td>Fribourg</td><td>3,8</td><td>Tessin</td><td>4,0</td></tr>
 <tr><td>Genève</td><td>5,9</td><td>Thurgovie</td><td>3,3</td></tr>
 <tr><td>Glaris</td><td>0,5</td><td>Uri</td><td>0,4</td></tr>
-<tr><td>Grisons</td><td>2,3</td><td>Vaud</td><td>9,4</td></tr>
+<tr><td>Grisons</td><td>2,3</td><td>Vaud</td><td>9,5</td></tr>
 <tr><td>Jura</td><td>0,8</td><td>Valais</td><td>4,1</td></tr>
 <tr><td>Lucerne</td><td>4,8</td><td>Zoug</td><td>1,5</td></tr>
 <tr><td>Neuchâtel</td><td>2,0</td><td>Zurich</td><td>17,9</td></tr>

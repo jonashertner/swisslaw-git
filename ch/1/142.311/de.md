@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2025-04-01
+version: 2026-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250401-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250401/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. April 2025)
+vom 11. August 1999 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 119 des Asylgesetzes vom 26. Juni 1998[^ingress-1] (AsylG[
 
 verordnet:
 
-[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^ingress-2]: Ausdruck gemäss Ziff. I 4 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Die Anpassung wurde im ganzen Text vorgenommen.
 
 ## 1. Kapitel: Geltungsbereich und Begriffe
@@ -57,7 +57,7 @@ In dieser Verordnung gelten als:[^1a-1]
 - e.[^1a-3] *Familie:* Ehegatten und deren minderjährige Kinder; den Ehegatten gleichgestellt sind die eingetragenen Partnerinnen und Partner und die in dauernder eheähnlicher Gemeinschaft zusammenlebenden Personen; im Dublin-Verfahren richten sich die Begriffe Familienangehörige und Verwandte nach der Verordnung (EU) Nr. 604/2013[^1a-4].
 
 [^1a-1]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^1a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^1a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^1a-3]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^1a-4]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
 
@@ -229,8 +229,8 @@ Die Vertrauensperson muss über Kenntnisse des Asylrechts, des Rechts betreffend
 [^7-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 [^7-2]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^7-3]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^7-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^7-5]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^7-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^7-5]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^7-6]: Eingefügt durch Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-7]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-8]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
@@ -275,7 +275,7 @@ Das SEM erhebt für Dienstleistungen zu Gunsten der Behörden des Bundes, der Ka
 [^7c-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 [^7c-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
 [^7c-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
-[^7c-4]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^7c-4]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### 2. Abschnitt: Asylgesuch und Einreise
 
@@ -402,7 +402,7 @@ Eine erhebliche Störung des Betriebs und der Sicherheit eines Zentrums des Bund
 <sup>4</sup> Die zuständige kantonale Behörde ordnet die im Zusammenhang mit der Unterbringung in einem besonderen Zentrum erforderliche Ein- oder Ausgrenzung an und informiert darüber unverzüglich das SEM.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^15-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^15-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ### 3. Abschnitt: Das erstinstanzliche Verfahren
 
@@ -489,7 +489,7 @@ Das EJPD erlässt in einer Verordnung Bestimmungen über den Betrieb der Zentren
 <sup>2</sup> Das SEM erlässt unter Einbezug des Bundesamtes für Gesundheit (BAG) die notwendigen Weisungen über die Abgrenzung der Untersuchung nach Artikel 26*a* Absatz 2 AsylG zu den Massnahmen nach dem Bundesgesetz vom 28. September 2012[^20a-2] über die Bekämpfung übertragbarer Krankheiten des Menschen.
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2013 ([AS 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)). Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^20a-2]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^20a-2]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
 
 #### Art. 20b
 
@@ -754,11 +754,11 @@ Die Wegweisung wird nicht verfügt, wenn die asylsuchende Person:[^32-2]
 [^32-1]: Fassung gemäss Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^32-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
 [^32-3]: Fassung gemäss Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-4]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^32-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^32-4]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^32-5]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^32-6]: Eingefügt durch Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Lan-desverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-8]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^32-7]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^32-8]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^32-9]: Eingefügt durch Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Lan-desverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 33
@@ -784,8 +784,8 @@ Die Wegweisung wird nicht verfügt, wenn die asylsuchende Person:[^32-2]
 <sup>5</sup> Den für den Wegweisungsvollzug neu zuständigen Kantonen wird der Abzug nach Artikel 21 Absatz 5 gewährt.
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^34-2]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
-[^34-3]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^34-2]: [SR 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+[^34-3]: [SR 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 
 #### Art. 34a
 
@@ -925,7 +925,7 @@ Neu eingereiste Personen, denen nach Artikel 68 Absatz 1 oder Artikel 69 Absatz 
 
 <sup>3</sup> Der weitere Aufenthalt der ausländischen Person bis zum Vollzug einer Wegweisung richtet sich sinngemäss nach den Artikeln 42 und 43 AsylG.
 
-[^46-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^46-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^46-2]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^46-3]: Die Berichtigung vom 4. März 2025 betrifft nur den französischen Text ([AS 2025 143](https://fedlex.data.admin.ch/eli/oc/2025/143)).
 
@@ -1251,7 +1251,7 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 - g. die Gesichtspunkte, die bei der Beurteilung einer längerfristigen Reiseunfähigkeit zu berücksichtigen sind (Art. 34 Abs. 3 Bst. d).
 
 [^53b-1]: Verordnung (EU) 2024/1351 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über Asyl- und Migrationsmanagement, zur Änderung der Verordnungen (EU) 2021/1147 und (EU) 2021/1060 und zur Aufhebung der Verordnung (EU) Nr. 604/2013, Fassung gemäss ABl. L, 2024/1351, 22.5.2024.
-[^53b-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^53b-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -1328,10 +1328,10 @@ Die Dublin-Assoziierungsabkommen umfassen:
 - c. Protokoll vom 28. Februar 2008[^annex1-lvlu1-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
 - d. Protokoll vom 28. Februar 2008[^annex1-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
 
-[^annex1-lvlu1-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex1-lvlu1-2]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex1-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex1-lvlu1-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex1-lvlu1-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex1-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Anhang 2[^t-2]
 
@@ -1376,7 +1376,7 @@ Anhang 3[^t-3]
 
 ## Schlüssel zur bevölkerungsproportionalen Zuweisung
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 8. Juni 2018 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Fassung gemäss Ziff. I der V des EJPD vom 11. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 674](https://fedlex.data.admin.ch/eli/oc/2024/674)).
+[^t-3]: Eingefügt durch Ziff. II der V vom 8. Juni 2018 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Fassung gemäss Ziff. I der V des EJPD vom 11. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 751](https://fedlex.data.admin.ch/eli/oc/2025/751)).
 
 <table>
 <tr><th></th><th>in Prozent</th><th></th><th>in Prozent</th></tr>
@@ -1385,11 +1385,11 @@ Anhang 3[^t-3]
 <tr><td>Appenzell IR</td><td>0,2</td><td>Schaffhausen</td><td>1,0</td></tr>
 <tr><td>Basel-Landschaft</td><td>3,3</td><td>Schwyz</td><td>1,9</td></tr>
 <tr><td>Basel-Stadt</td><td>2,2</td><td>Solothurn</td><td>3,2</td></tr>
-<tr><td>Bern</td><td>11,9</td><td>St. Gallen</td><td>6,0</td></tr>
+<tr><td>Bern</td><td>11,8</td><td>St. Gallen</td><td>6,0</td></tr>
 <tr><td>Freiburg</td><td>3,8</td><td>Tessin</td><td>4,0</td></tr>
 <tr><td>Genf</td><td>5,9</td><td>Thurgau</td><td>3,3</td></tr>
 <tr><td>Glarus</td><td>0,5</td><td>Uri</td><td>0,4</td></tr>
-<tr><td>Graubünden</td><td>2,3</td><td>Waadt</td><td>9,4</td></tr>
+<tr><td>Graubünden</td><td>2,3</td><td>Waadt</td><td>9,5</td></tr>
 <tr><td>Jura</td><td>0,8</td><td>Wallis</td><td>4,1</td></tr>
 <tr><td>Luzern</td><td>4,8</td><td>Zug</td><td>1,5</td></tr>
 <tr><td>Neuenburg</td><td>2,0</td><td>Zürich</td><td>17,9</td></tr>

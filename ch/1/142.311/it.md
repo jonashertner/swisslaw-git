@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2025-04-01
+version: 2026-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20250401-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20250401/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 1° aprile 2025)
+dell’11 agosto 1999 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 119 della legge del 26 giugno 1998[^ingress-1] sull’asilo (
 
 ordina:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^ingress-2]: Nuova espr. giusta la cifra I n. 4 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Capitolo 1: Campo d’applicazione e definizioni
@@ -57,7 +57,7 @@ Nella presente ordinanza s’intendono per:[^1a-1]
 - e.[^1a-3] *famiglia:* i coniugi e i figli minorenni. Sono equiparati ai coniugi i partner registrati e le persone che vivono in unione duratura simile a quella coniugale; nel quadro della procedura Dublino, le nozioni di familiari e parenti sono rette dal regolamento (UE) 604/2013[^1a-4].
 
 [^1a-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^1a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^1a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^1a-3]: Nuovo testo giusta la dalla cifra I n. 3 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^1a-4]: Regolamento (UE) 604/2013 del Parlamento europeo e del Consiglio, del 26 giu. 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un Paese terzo o da un apolide (rifusione), nella versione della GU L 180 del 29.6.2013, pag. 31.
 
@@ -233,8 +233,8 @@ La persona di fiducia deve disporre di conoscenze del diritto in materia di asil
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 [^7-2]: Nuovo testo giusta la dalla cifra I n. 3 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^7-3]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^7-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^7-5]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^7-5]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^7-6]: Introdotto dalla dalla cifra I n. 3 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-7]: Introdotto dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-8]: Introdotto dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
@@ -279,7 +279,7 @@ La SEM non preleva emolumenti e non fattura esborsi per prestazioni a favore del
 [^7c-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 [^7c-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
 [^7c-3]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
-[^7c-4]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^7c-4]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Sezione 2: Domanda d’asilo ed entrata in Svizzera
 
@@ -405,7 +405,7 @@ Vi è disturbo considerevole dell’esercizio e della sicurezza del centro della
 <sup>4</sup> L’autorità cantonale competente dispone l’assegnazione di un luogo di soggiorno e il divieto di accedere a un dato territorio necessari nel quadro del soggiorno in un centro speciale e ne informa senza indugio la SEM.
 
 [^15-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^15-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^15-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ### Sezione 3: Procedura di prima istanza
 
@@ -492,7 +492,7 @@ Il DFGP emana in un’ordinanza disposizioni sull’esercizio dei centri della C
 <sup>2</sup> In collaborazione con l’Ufficio federale della sanità pubblica (UFSP), la SEM emana le necessarie istruzioni sulla delimitazione dell’accertamento medico di cui all’articolo 26*a* capoverso 2 LAsi concernente le misure previste dalla legge federale del 28 settembre 2012[^20a-2] sulla lotta contro le malattie trasmissibili dell’essere umano.
 
 [^20a-1]: Introdotto dalla cifra I dell’O del 13 dic. 2013 ([RU 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)). Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^20a-2]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^20a-2]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
 
 #### Art. 20b
 
@@ -759,11 +759,11 @@ L’allontanamento non è deciso se il richiedente l’asilo:[^32-2]
 [^32-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^32-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
 [^32-3]: Nuovo testo giusta la cifra I n. 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-4]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^32-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^32-4]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^32-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^32-6]: Introdotta dalla dalla cifra I n. 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-8]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^32-7]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^32-8]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^32-9]: Introdotto dalla dalla cifra I n. 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 33
@@ -789,8 +789,8 @@ L’allontanamento non è deciso se il richiedente l’asilo:[^32-2]
 <sup>5</sup> Ai Cantoni designati quali competenti per l’esecuzione dell’allontanamento è concessa la deduzione di cui all’articolo 21 capoverso 5.
 
 [^34-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^34-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
-[^34-3]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^34-2]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+[^34-3]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 
 #### Art. 34a
 
@@ -936,7 +936,7 @@ Le persone entrate in Svizzera a cui è stata garantita la protezione provvisori
 
 <sup>3</sup> L’ulteriore dimora dello straniero sino all’esecuzione dell’allontanamento è retta per analogia dagli articoli 42 e 43 della LAsi.
 
-[^46-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^46-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^46-2]: Nuovo testo giusta la dalla cifra I n. 3 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^46-3]: La correzione del 4 mar. 2025 concerne soltanto il testo francese ([RU 2025 143](https://fedlex.data.admin.ch/eli/oc/2025/143)).
 
@@ -1262,7 +1262,7 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 - g. gli elementi di cui tener conto per valutare l’impossibilità per l’interessato di viaggiare per un periodo di tempo significativo (art. 34 par. 3 lett. d).
 
 [^53b-1]: Regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio, del 14 mag. 2024, sulla gestione dell’asilo e della migrazione, che modifica i regolamenti (UE) 2021/1147 e (UE) 2021/1060 e che abroga il regolamento (UE) n. 604/2013, versione della GU L, 2024/1351, 22.5.2024.
-[^53b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^53b-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -1340,10 +1340,10 @@ Gli Accordi di associazione alla normativa di Dublino comprendono gli accordi se
 - c. Protocollo del 28 febbraio 2008[^annex1-lvlu1-3] tra la Confederazione Svizzera, Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
 - d. Protocollo del 28 febbraio 2008[^annex1-lvlu1-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
 
-[^annex1-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex1-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex1-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex1-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
 
 Allegato 2[^t-2]
 
@@ -1386,7 +1386,7 @@ Allegato 3[^t-3]
 
 ## Chiave di riparto per l’attribuzione proporzionale alla popolazione
 
-[^t-3]: Introdotto dalla cifra II dell’O dell’8 giu. 2018 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nuovo testo giusta la cifra I dell’O del DFGP dell’11 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 674](https://fedlex.data.admin.ch/eli/oc/2024/674)).
+[^t-3]: Introdotto dalla cifra II dell’O dell’8 giu. 2018 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nuovo testo giusta la cifra I dell’O del DFGP dell’11 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 751](https://fedlex.data.admin.ch/eli/oc/2025/751)).
 
 <table>
 <tr><th></th><th>percentuale</th><th></th><th>percentuale</th></tr>
@@ -1395,11 +1395,11 @@ Allegato 3[^t-3]
 <tr><td>Appenzello Interno</td><td>0,2</td><td>Sciaffusa</td><td>1,0</td></tr>
 <tr><td>Basilea Campagna</td><td>3,3</td><td>Svitto</td><td>1,9</td></tr>
 <tr><td>Basilea Città</td><td>2,2</td><td>Soletta</td><td>3,2</td></tr>
-<tr><td>Berna</td><td>11,9</td><td>San Gallo</td><td>6,0</td></tr>
+<tr><td>Berna</td><td>11,8</td><td>San Gallo</td><td>6,0</td></tr>
 <tr><td>Friburgo</td><td>3,8</td><td>Ticino</td><td>4,0</td></tr>
 <tr><td>Ginevra</td><td>5,9</td><td>Turgovia</td><td>3,3</td></tr>
 <tr><td>Glarona</td><td>0,5</td><td>Uri</td><td>0,4</td></tr>
-<tr><td>Grigioni</td><td>2,3</td><td>Vaud</td><td>9,4</td></tr>
+<tr><td>Grigioni</td><td>2,3</td><td>Vaud</td><td>9,5</td></tr>
 <tr><td>Giura</td><td>0,8</td><td>Vallese</td><td>4,1</td></tr>
 <tr><td>Lucerna</td><td>4,8</td><td>Zugo</td><td>1,5</td></tr>
 <tr><td>Neuchâtel</td><td>2,0</td><td>Zurigo</td><td>17,9</td></tr>
