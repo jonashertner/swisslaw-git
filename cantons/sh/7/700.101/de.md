@@ -4,33 +4,34 @@ number: "700.101"
 title: Verordnung zum Baugesetz
 short: BauV
 language: de
-version: 2024-01-01
-corrected: 2024-06-18
-version_adopted: 2023-11-28
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-12-02
 adopted: 1998-12-15
 in_force: 1999-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/275/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2042/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Baugesetz (BauV)
+# Verordnung zum Baugesetz
 
-vom 15. Dezember 1998
+(BauV)
+
+Vom 15.12.1998 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 80 des Gesetzes über die Raumplanung und das öffentliche Baurecht im Kanton Schaffhausen (Baugesetz) vom 1. Dezember 1997 (BauG),
 
-verordnet:
+beschliesst:
 
-### A. Richtplanung
+## 1 Richtplanung
 
 #### § 1
 
-**I. Mitwirkung der Bevölkerung**
+**Mitwirkung der Bevölkerung**
 
 <sup>1</sup> Der Richtplanentwurf ist in allen Gemeinden während 60 Tagen öffentlich aufzulegen. Das Baudepartement macht die Planauflage sowie die inhaltlichen Schwerpunkte des Entwurfs öffentlich bekannt.
 
@@ -38,39 +39,37 @@ verordnet:
 
 #### § 2
 
-**II. Bereinigung**
+**Bereinigung**
 
 <sup>1</sup> Das Baudepartement fasst die Ergebnisse der Anhörung gemäss Art. 4 Abs. 2 BauG sowie die Einwendungen und Stellungnahmen der Bevölkerung in einem öffentlich zugänglichen Bericht zusammen.
 
 <sup>2</sup> Der Regierungsrat entscheidet über die eingegangenen Einwendungen und erlässt den bereinigten Richtplanentwurf.
 
-Amtsblatt 1998, S. 1811.
-
 #### § 3
 
-**III. Fachstelle**
+**Fachstelle**
 
-Kantonale Fachstelle gemäss Art. 31 des Bundesgesetzes über die Raumplanung ist das Planungs- und Naturschutzamt des Baudepartementes.
+<sup>1</sup> Kantonale Fachstelle gemäss Art. 31 des Bundesgesetzes über die Raumplanung ist das Planungs- und Naturschutzamt des Baudepartementes.
 
-### B. Erschliessung
+## 2 Erschliessung
 
-- 1\. Nachweis der Erschliessung
+### 2.1 Nachweis der Erschliessung
 
 #### § 4
 
-**I. Grundsatz**
+**Grundsatz**
 
-<sup>1</sup> Ein Grundstück kann nach den Vorschriften des Bundes, des Kantons und der Gemeinde überbaut werden, wenn im Sinne der nachfolgenden Bestimmungen auf den Zeitpunkt der Bauvollendung oder, soweit erforderlich, bereits für den Baubeginn a) eine hinreichende, rechtlich gesicherte Zufahrt besteht;
+<sup>1</sup> Ein Grundstück kann nach den Vorschriften des Bundes, des Kantons und der Gemeinde überbaut werden, wenn im Sinne der nachfolgenden Bestimmungen auf den Zeitpunkt der Bauvollendung oder, soweit erforderlich, bereits für den Baubeginn:
 
-- b) die Versorgung mit Energie sowie mit hygienisch einwandfreiem Trinkwasser und mit genügend Löschwasser gesichert ist;
-
-- c) die einwandfreie Abwasser- und Abfallbeseitigung gewährleistet ist.
+- a) eine hinreichende, rechtlich gesicherte Zufahrt besteht
+- b) die Versorgung mit Energie sowie mit hygienisch einwandfreiem Trinkwasser und mit genügend Löschwasser gesichert ist
+- c) die einwandfreie Abwasser- und Abfallbeseitigung gewährleistet ist
 
 <sup>2</sup> Die Bauherrschaft hat sich darüber bei der Einreichung des Baugesuchs auszuweisen.
 
 #### § 5
 
-**II. Zeitliche Verzögerungen**
+**Zeitliche Verzögerungen**
 
 <sup>1</sup> Die Bewilligungsbehörde kann eine Baubewilligung auch dann erteilen, wenn die Voraussetzungen gemäss § 4 wegen Verzögerungen, die nicht die Bauherrschaft zu vertreten hat, nicht zeitgerecht erfüllt werden können. Die zeitliche Verzögerung darf sich jedoch nicht über mehr als zwei Jahre erstrecken.
 
@@ -80,9 +79,7 @@ Kantonale Fachstelle gemäss Art. 31 des Bundesgesetzes über die Raumplanung is
 
 #### § 6
 
-<sup>3)</sup>
-
-**Grundsätze 3)**
+**Grundsätze**
 
 <sup>1</sup> Zufahrten sind Verbindungen von Grundstücken und darauf bestehenden oder vorgesehenen Bauten und Anlagen mit dem Strassennetz der Groberschliessung; nicht unter diesen Begriff fallen die von der Zufahrt zur Haustüre führenden Eingänge.
 
@@ -90,17 +87,14 @@ Kantonale Fachstelle gemäss Art. 31 des Bundesgesetzes über die Raumplanung is
 
 #### § 7
 
-<sup>3)</sup>
+**Besondere Anforderungen**
 
-**Besondere Anforderungen 3)**
+<sup>1</sup> Zufahrten sind hinreichend, wenn sie:
 
-<sup>1</sup> Zufahrten sind hinreichend, wenn sie a) baulich und verkehrstechnisch der zu erwartenden Beanspruchung genügen oder ein mit zunehmender Beanspruchung erforderlicher Ausbau möglich ist,
-
-- b) ihre Benützung auch durch Motorfahrzeuge rechtlich gesichert ist und die Mittel der öffentlichen Dienste fachgerecht eingesetzt werden können,
-
-- c) in reinen Wohnzonen bis zu 10 Wohneinheiten eine Fahrbahnbreite von mindestens 3,0 m aufweisen, über 10 Wohneinheiten bis zu 30 Wohneinheiten eine Fahrbahnbreite von mindestens 4,0 m und über 30 Wohneinheiten eine Fahrbahnbreite von mindestens 4,5 m aufweisen,
-
-- d) in den übrigen Zonen eine Fahrbahnbreite von mindestens 4,5 m aufweisen.
+- a) baulich und verkehrstechnisch der zu erwartenden Beanspruchung genügen oder ein mit zunehmender Beanspruchung erforderlicher Ausbau möglich ist
+- b) ihre Benützung auch durch Motorfahrzeuge rechtlich gesichert ist und die Mittel der öffentlichen Dienste fachgerecht eingesetzt werden können
+- c) in reinen Wohnzonen bis zu 10 Wohneinheiten eine Fahrbahnbreite von mindestens 3.0 m aufweisen, über 10 Wohneinheiten bis zu 30 Wohneinheiten eine Fahrbahnbreite von mindestens 4.0 m und über 30 Wohneinheiten eine Fahrbahnbreite von mindestens 4.5 m aufweisen
+- d) in den übrigen Zonen eine Fahrbahnbreite von mindestens 4.5 m aufweisen
 
 <sup>2</sup> Erfordert die geordnete Verkehrsabwicklung, in Ergänzung zu den vorstehenden Anforderungen, die Anordnung von Ausweichstellen oder breitere Kurven, werden deren Lage und Gestaltung je nach der Länge der Zufahrt, dem zu erwartenden Verkehr und den örtlichen Verhältnissen festgelegt.
 
@@ -108,27 +102,18 @@ Kantonale Fachstelle gemäss Art. 31 des Bundesgesetzes über die Raumplanung is
 
 #### § 7bis
 
-<sup>4)</sup>
-
 **Erleichterungen**
 
 <sup>1</sup> Wenn es aufgrund der tatsächlichen Verhältnisse unerlässlich ist, kann die Bewilligungsbehörde im Einzelfall unter Vorbehalt der Notzufahrt oder einer anderweitigen Gewährleistung der Notfalleinsätze geringere Anforderungen stellen, insbesondere:
 
-- a) bei Hanglagen,
-
-- b) im Interesse von Objekten des Natur- und Heimatschutzes,
-
-- c) bei landwirtschaftlichen Gebäuden sowie anderen Bauten und Anlagen ausserhalb der Bauzonen,
-
-- d) bei gemeinschaftlichen Parkierungslösungen,
-
-- e) bei separat geführter Rad- oder Fusswegerschliessung,
-
-- f) in Fussgängerzonen.
+- a) bei Hanglagen
+- b) im Interesse von Objekten des Natur- und Heimatschutzes
+- c) bei landwirtschaftlichen Gebäuden sowie anderen Bauten und Anlagen ausserhalb der Bauzonen
+- d) bei gemeinschaftlichen Parkierungslösungen
+- e) bei separat geführter Rad- oder Fusswegerschliessung
+- f) in Fussgängerzonen
 
 #### § 7ter
-
-<sup>4)</sup>
 
 **Verkehrsberuhigung**
 
@@ -138,25 +123,25 @@ Kantonale Fachstelle gemäss Art. 31 des Bundesgesetzes über die Raumplanung is
 
 #### § 8
 
-**IV. Wasserversorgung 1. Grundsatz**
+**Wasserversorgung: Grundsatz**
 
-Die Voraussetzung der Versorgung mit Trink- und Löschwasser ist erfüllt, wenn das Grundstück an die Wasserversorgung der Gemeinde angeschlossen werden kann und die Zuleitung des Wassers mit 4 bar Druck sichergestellt ist.
+<sup>1</sup> Die Voraussetzung der Versorgung mit Trink- und Löschwasser ist erfüllt, wenn das Grundstück an die Wasserversorgung der Gemeinde angeschlossen werden kann und die Zuleitung des Wassers mit 4 bar Druck sichergestellt ist.
 
 #### § 9
 
-**2. Andere Trinkwasserversorgung**
+**Wasserversorgung: Andere Trinkwasserversorgung**
 
-Die Baubewilligungsbehörde kann eine von § 8 abweichende Trinkwasserversorgung gestatten, wenn die Bauherrschaft mit einem auf ihre Kosten erstellten Gutachten des Interkantonalen Labors <sup>6)</sup> nachweist, dass das in Aussicht genommene ausreichend vorhandene Trinkwasser hygienisch einwandfrei ist.
+<sup>1</sup> Die Baubewilligungsbehörde kann eine von § 8 abweichende Trinkwasserversorgung gestatten, wenn die Bauherrschaft mit einem auf ihre Kosten erstellten Gutachten des Interkantonalen Labors nachweist, dass das in Aussicht genommene ausreichend vorhandene Trinkwasser hygienisch einwandfrei ist.
 
 #### § 10
 
-**3. Anderer Brandschutz**
+**Wasserversorgung: Anderer Brandschutz**
 
-Die Baubewilligungsbehörde kann einen von § 8 abweichenden Brandschutz gestatten, wenn die Bauherrschaft nachweist, dass die vorgesehenen Löschvorrichtungen den Anforderungen der Verordnung über den Brandschutz (Brandschutzverordnung) entsprechen.
+<sup>1</sup> Die Baubewilligungsbehörde kann einen von § 8 abweichenden Brandschutz gestatten, wenn die Bauherrschaft nachweist, dass die vorgesehenen Löschvorrichtungen den Anforderungen der Verordnung über den Brandschutz (Brandschutzverordnung) entsprechen.
 
 #### § 11
 
-**V.Energieversorgung**
+**Energieversorgung**
 
 <sup>1</sup> Die Voraussetzung der Versorgung mit Energie ist erfüllt, wenn die auf dem Grundstück vorgesehenen Bauten und Anlagen ausreichend mit Energie versorgt werden können.
 
@@ -164,29 +149,29 @@ Die Baubewilligungsbehörde kann einen von § 8 abweichenden Brandschutz gestatt
 
 #### § 12
 
-**VI. Abwasserbeseitigung 1. Grundsatz**
+**Abwasserbeseitigung: Grundsatz**
 
-Die Voraussetzung der einwandfreien Abwasserbeseitigung ist erfüllt, wenn das Grundstück über eine bestehende Kanalisation der Gemeinde an die Abwasserreinigungsanlage angeschlossen werden kann.
+<sup>1</sup> Die Voraussetzung der einwandfreien Abwasserbeseitigung ist erfüllt, wenn das Grundstück über eine bestehende Kanalisation der Gemeinde an die Abwasserreinigungsanlage angeschlossen werden kann.
 
 #### § 13
 
-**2. Sonderfälle**
+**Abwasserbeseitigung: Sonderfälle**
 
-Bei Bauten und Anlagen ausserhalb des Bereichs öffentlicher Kanalisation ordnet das Baudepartement nach Anhörung des Interkantonalen Labors <sup>6)</sup> in der Baubewilligung die dem Stand der Technik entsprechenden Massnahmen zur Beseitigung des Abwassers an.
+<sup>1</sup> Bei Bauten und Anlagen ausserhalb des Bereichs öffentlicher Kanalisation ordnet das Baudepartement nach Anhörung des Interkantonalen Labors in der Baubewilligung die dem Stand der Technik entsprechenden Massnahmen zur Beseitigung des Abwassers an.
 
 #### § 14
 
-**VII. Abfallbeseitigung**
+**Abfallbeseitigung**
 
 <sup>1</sup> Die Voraussetzung der einwandfreien Abfallbeseitigung ist erfüllt, wenn das Grundstück an den Abfallsammeldienst der Gemeinde angeschlossen ist.
 
 <sup>2</sup> Ist das Grundstück nicht an den Abfallsammeldienst angeschlossen, so hat sich die Bauherrschaft über eine andere einwandfreie Abfallbeseitigung auszuweisen.
 
-- 2\. Aufgaben der Gemeinden
+### 2.2 Aufgaben der Gemeinden
 
 #### § 15
 
-**I. Erschliessungsplanung 1. Richtpläne**
+**Erschliessungsplanung: Richtpläne**
 
 <sup>1</sup> Die Richtpläne der Gemeinden (Art. 28 BauG) legen die Erschliessung der Baugebiete gemäss Zonenplan durch Strassen sowie Wasser-, Abwasser- und Energieleitungen fest.
 
@@ -196,7 +181,7 @@ Bei Bauten und Anlagen ausserhalb des Bereichs öffentlicher Kanalisation ordnet
 
 #### § 16
 
-**2. Übersicht über den Stand der Erschliessung**
+**Erschliessungsplanung: Übersicht über den Stand der Erschliessung**
 
 <sup>1</sup> Für die zeitgerechte Erfüllung der Erschliessungsaufgaben erstellt der Gemeinderat eine Übersicht über den Stand der Erschliessung, welche von jedermann eingesehen werden kann.
 
@@ -206,13 +191,13 @@ Bei Bauten und Anlagen ausserhalb des Bereichs öffentlicher Kanalisation ordnet
 
 #### § 17
 
-**II. Erschliessung ausserhalb der Bauzonen**
+**Erschliessung ausserhalb der Bauzonen**
 
 <sup>1</sup> Die Gemeinden und andere öffentlichrechtliche Körperschaften haben den Anschluss von Grundstücken, die ausserhalb der Bauzonen liegen, an ihre Erschliessungsanlagen zu verweigern.
 
 <sup>2</sup> Vorbehalten bleiben Sonderregelungen für zonenkonforme oder standortgebundene Bauten und Anlagen.
 
-- 3\. Private Erschliessung
+### 2.3 Private Erschliessung
 
 #### § 18
 
@@ -220,31 +205,28 @@ Bei Bauten und Anlagen ausserhalb des Bereichs öffentlicher Kanalisation ordnet
 
 <sup>1</sup> Die Kostenanteile gemäss Art. 29 Abs. 2 BauG der Gemeinde und der Grundeigentümerinnen und Grundeigentümer, deren Grundstücke im Perimeter der vorzeitig erstellten Erschliessungsanlagen liegen, werden ohne Zins zur Zahlung fällig:
 
-- a) für einzelne Grundeigentümerinnen und Grundeigentümer: mit dem Beginn der baulichen Nutzung der Grundstücke;
-
-- b) für die Gemeinde und die übrigen Grundeigentümerinnen und Grundeigentümer, die ihre Grundstücke in der Zwischenzeit noch nicht baulich genutzt haben: bei Erreichen der im Richtplan vorgesehenen Erschliessungsetappe, spätestens aber nach Ablauf von zehn Jahren.
+- a) für einzelne Grundeigentümerinnen und Grundeigentümer: mit dem Beginn der baulichen Nutzung der Grundstücke
+- b) für die Gemeinde und die übrigen Grundeigentümerinnen und Grundeigentümer, die ihre Grundstücke in der Zwischenzeit noch nicht baulich genutzt haben: bei Erreichen der im Richtplan vorgesehenen Erschliessungsetappe, spätestens aber nach Ablauf von zehn Jahren
 
 <sup>2</sup> Der Gemeinderat weist die eingenommenen Beiträge unverzüglich denjenigen Grundeigentümerinnen und Grundeigentümern zu, welche die vorzeitige Erschliessung finanziert haben.
 
-### C. Schutz der Gesundheit
+## 3 Schutz der Gesundheit
 
 #### § 19
 
-**I. Räume im Erdboden**
+**Räume im Erdboden**
 
-Räume, die in den Erdboden hinabreichen, dürfen nicht als Wohn- und Schlafräume genutzt werden, wenn nicht wenigstens eine Seite vollständig frei liegt.
+<sup>1</sup> Räume, die in den Erdboden hinabreichen, dürfen nicht als Wohn- und Schlafräume genutzt werden, wenn nicht wenigstens eine Seite vollständig frei liegt.
 
 #### § 20
 
-**II. Wohn- und Arbeitsräume**
+**Wohn- und Arbeitsräume**
 
-Zum Aufenthalt von Menschen bestimmte Räume müssen den Anforderungen des Gesundheitsschutzes entsprechen, namentlich in Bezug auf Raum-, Wohnungs- und Fenstergrössen, Besonnung, Belichtung, Belüftung, Trockenheit, Wärmedämmung und Schallschutz.
+<sup>1</sup> Zum Aufenthalt von Menschen bestimmte Räume müssen den Anforderungen des Gesundheitsschutzes entsprechen, namentlich in Bezug auf Raum-, Wohnungs- und Fenstergrössen, Besonnung, Belichtung, Belüftung, Trockenheit, Wärmedämmung und Schallschutz.
 
-### D. Diverse Bestimmungen <sup>7)</sup>
+## 4 Diverse Bestimmungen
 
 #### § 20bis
-
-<sup>8)</sup>
 
 **Standortnachweis Mobilfunk**
 
@@ -258,8 +240,6 @@ Zum Aufenthalt von Menschen bestimmte Räume müssen den Anforderungen des Gesun
 
 #### § 20ter
 
-<sup>8)</sup>
-
 **Standortevaluation Mobilfunk**
 
 <sup>1</sup> Verlangt die zuständige Baubewilligungsbehörde eine Standortevaluation, hat der gesuchstellende Mobilfunkbetreiber drei Standorte abzuklären.
@@ -268,9 +248,7 @@ Zum Aufenthalt von Menschen bestimmte Räume müssen den Anforderungen des Gesun
 
 #### § 20quater
 
-<sup>11)</sup>
-
-**Meldung Solaranlagen 11)**
+**Meldung Solaranlagen**
 
 <sup>1</sup> Meldungen von baubewilligungsfreien Solaranlagen haben mit dem im Internet aufgeschalteten Meldeformular zu erfolgen.
 
@@ -280,61 +258,72 @@ Zum Aufenthalt von Menschen bestimmte Räume müssen den Anforderungen des Gesun
 
 <sup>4</sup> Für die Meldungen von baubewilligungsfreien Solaranlagen werden keine Gebühren erhoben.
 
-#### § 20quinquies
+<sup>5</sup> …
 
-<sup>12)</sup>
+#### § 20quinquies
 
 **Baubewilligungsfreie Vorhaben**
 
-In reinen, nicht überlagerten Wohnzonen und in Arbeitszonen (Gewerbe- und Industriezonen) sind bewilligungsfrei a) Kleinstbauten bis 8 m<sup>3</sup> b) Unterhalts-, Instandstellungs- und Reparaturarbeiten c) bauliche Massnahmen im Innern d) Gartenmöblierung und Kinderspielgeräte
+<sup>1</sup> In reinen, nicht überlagerten Wohnzonen und in Arbeitszonen (Gewerbe- und Industriezonen) sind bewilligungsfrei:
 
-#### §20sexies
+- a) Kleinstbauten bis 8 m³
+- b) Unterhalts-, Instandstellungs- und Reparaturarbeiten
+- c) bauliche Massnahmen im Innern
+- d) Gartenmöblierung und Kinderspielgeräte
 
-<sup>16)</sup>
+#### § 20sexies
 
-**Meldung Wärmepumpen 16)**
+**Meldung Wärmepumpen**
 
 <sup>1</sup> Meldungen von baubewilligungsfreien Wärmepumpen haben mit dem im Internet aufgeschalteten Meldeformular zu erfolgen.
 
-<sup>2</sup> Das Formular mit den Nachweisen zur Einhaltung der umweltrechtlichen und anderen Vorgaben ist im Doppel 30 Tage vor Baubeginn der kommunalen Baubehörde einzureichen.
+<sup>2</sup> Das Formular mit den Nachweisen zur Einhaltung der umweltrechtlichen und anderen rechtlichen Vorgaben ist im Doppel 30 Tage vor Baubeginn der kommunalen Baubehörde einzureichen. Diese prüft die einzureichenden Unterlagen, insbesondere bei aussen aufgestellten Luft/Wasser-Wärmepumpen die Einhaltung des Vorsorgeprinzips im Rahmen des Lärmschutznachweises.
 
-### E. Zuständigkeiten <sup>12)</sup>
+<sup>3</sup> Mit der Meldung für eine Luft/Wasser-Wärmepumpe sind folgende Unterlagen einzureichen:
+
+- a Meldeformular wärmetechnische Anlage;
+- b Situationsplan mit eingetragener Wärmepumpe;
+- c Lärmschutznachweis einschliesslich Situationsplan mit vermassten Abständen der Lärmquelle zum massgebenden Empfangspunkt;
+- d Grundrisse des Gebäudes mit Angaben zur Raumnutzung (Beurteilung der Eigenbeschallung);
+- e technisches Datenblatt der gewählten Wärmepumpe;
+- f bei aussen aufgestellten Luft/Wärmepumpen einfache Skizzen, Fotos oder Pläne der projektierten Anlage; und
+- g Energienachweis Haustechnik (EN-Formulare).
+
+<sup>4</sup> Mit der Meldung für eine Sole/Wasser-Wärmepumpe sind folgende Unterlagen einzureichen:
+
+- a Meldeformular wärmetechnische Anlage;
+- b Situationsplan mit eingetragener Wärmepumpe und den Standorten der Erdwärmesonden;
+- c Gesuch um Erteilung der gewässerschutzrechtlichen Bewilligung;
+- d technisches Datenblatt der gewählten Wärmepumpe; und
+- e Energienachweis Haustechnik (EN-Formulare).
+
+## 5 Zuständigkeiten
 
 #### § 21
 
-<sup>7)</sup>
-
-**Zuständigkeit für Rebhütten und andere Kleinbauten 11)**
+**Zuständigkeit für Rebhütten und andere Kleinbauten**
 
 <sup>1</sup> Das Planungs- und Naturschutzamt ist zuständig für die Bewilligung von Rebhütten und anderen Kleinbauten ausserhalb der Bauzonen und ausserhalb des Waldes wie erdverlegte Leitungen, Kleinantennenanlagen und dergleichen.
 
-<sup>2</sup> Als Rebhütten gelten eingeschossige Bauten mit einer Grundfläche von höchstens 12 m<sup>2</sup> und einem gedeckten Vorplatz von höchstens 1 m Tiefe, welche ausschliesslich als Abstellraum für Material und Geräte zur Bewirtschaftung eines Rebgrundstückes sowie als Unterstand für Personen zum vorübergehenden Schutz gegen Witterungseinflüsse dienen. Einrichtungen für Wohnzwecke sowie die dauernde Einlagerung von Spritz- und Imprägnierungsmitteln, anderer chemischer Stoffe oder Heizöl und dergleichen sind nicht erlaubt.
+<sup>2</sup> Als Rebhütten gelten eingeschossige Bauten mit einer Grundfläche von höchstens 12 m² und einem gedeckten Vorplatz von höchstens 1 m Tiefe, welche ausschliesslich als Abstellraum für Material und Geräte zur Bewirtschaftung eines Rebgrundstückes sowie als Unterstand für Personen zum vorübergehenden Schutz gegen Witterungseinflüsse dienen. Einrichtungen für Wohnzwecke sowie die dauernde Einlagerung von Spritz- und Imprägnierungsmitteln, anderer chemischer Stoffe oder Heizöl und dergleichen sind nicht erlaubt.
 
 <sup>3</sup> Das Planungs- und Naturschutzamt hat die Baubewilligung mit entsprechenden Bedingungen und Auflagen zu verknüpfen, insbesondere mit der Auflage, dass Rebhütten, welche nicht mehr dem ursprünglichen Zweck dienen, ohne Entschädigungsanspruch zu entfernen sind.
 
 #### § 21bis
 
-<sup>9)</sup>
-
 **Aufsichtsbehörde gemäss Zweitwohnungsgesetz**
 
-Das Planungs- und Naturschutzamt ist Aufsichtsbehörde gemäss Art. 15 des Bundesgesetzes über Zweitwohnungen vom 20. März 2015 (Zweitwohnungsgesetz).
+<sup>1</sup> Das Planungs- und Naturschutzamt ist Aufsichtsbehörde gemäss Art. 15 des Bundesgesetzes über Zweitwohnungen vom 20. März 2015 (Zweitwohnungsgesetz).
 
 #### § 22
 
-<sup>5)</sup>
+**Zuständigkeit gemäss Art. 57 BauG**
 
-**Zuständigkeit gemäss Art. 57 BauG 11)**
-
-<sup>1</sup> Das Planungs- und Naturschutzamt ist zuständig für die Erteilung von Ausnahmebewilligungen sowie von Bewilligungen gemäss Art.
-
-57 Abs. 1 BauG.
+<sup>1</sup> Das Planungs- und Naturschutzamt ist zuständig für die Erteilung von Ausnahmebewilligungen sowie von Bewilligungen gemäss Art. 57 Abs. 1 BauG.
 
 <sup>3</sup> Das Planungs- und Naturschutzamt bzw. die nach Art. 66 Abs. 1 BauG zuständige Behörde entscheidet, ob ein Bauvorhaben der Umweltverträglichkeitsprüfung unterliegt.
 
 #### § 22bis
-
-<sup>12)</sup>
 
 **Zuständigkeit gemäss Mehrwertausgleichsgesetz (MAG)**
 
@@ -344,55 +333,52 @@ Das Planungs- und Naturschutzamt ist Aufsichtsbehörde gemäss Art. 15 des Bunde
 
 #### § 22ter
 
-<sup>13)</sup>
+<sup>1</sup> Das Baudepartement vertritt bei Rohrleitungsanlagen, die dem Bundesrecht unterstehen, die kantonalen Interessen gegenüber den Bundesbehörden. Das kantonale Bauinspektorat ist zuständig für die Erteilung der Bewilligung für Bau und Betrieb von Rohrleitungsanlagen gemäss Art. 42 Abs. 1 des eidgenössischen Rohrleitungsgesetzes (RLG)[^22ter-1].
 
-<sup>1</sup> Das Baudepartement vertritt bei Rohrleitungsanlagen, die dem Bundesrecht unterstehen, die kantonalen Interessen gegenüber den Bundesbehörden. Das kantonale Bauinspektorat ist zuständig für die Erteilung der Bewilligung für Bau und Betrieb von Rohrleitungsanlagen gemäss Art. 42 Abs. 1 des eidgenössischen Rohrleitungsgesetzes (RLG) <sup>14)</sup>.
-
-<sup>2</sup> Das Baudepartement übt die Aufsicht über Rohrleitungsanlagen mit kantonaler Bewilligung gemäss Art gemäss Art. 32 Abs. 1 der eidgenössischen Rohrleitungsverordnung (RLV) <sup>15)</sup> aus.
+<sup>2</sup> Das Baudepartement übt die Aufsicht über Rohrleitungsanlagen mit kantonaler Bewilligung gemäss Art. 32 Abs. 1 der eidgenössischen Rohrleitungsverordnung (RLV)[^22ter-2] aus.
 
 <sup>3</sup> Die zuständige Behörde kann Dritte, die über die erforderliche Fachkompetenz verfügen, beiziehen.
 
-<sup>4</sup> Kantonale Alarmstelle im Sinne von Art. 32 Abs. 2 RLG<sup>1)</sup> zur Meldung einer undichten Anlage ist die Einsatz- und Verkehrsleitzentrale der Schaffhauser Polizei.
+<sup>4</sup> Kantonale Alarmstelle im Sinne von Art. 32 Abs. 2 RLG1) zur Meldung einer undichten Anlage ist die Einsatz- und Verkehrsleitzentrale der Schaffhauser Polizei.
 
 <sup>5</sup> Die Verfahren für die Bau- bzw. die Betriebsbewilligung richten sich nach dem ordentlichen kantonalen Recht im Sinne von Art. 57 ff. BauG.
 
-### F. Übertragung von Bewilligungskompetenzen <sup>12)</sup>
+[^22ter-1]: SR [746.1](http://db.clex.ch/link/Bund/746.1/de).
+[^22ter-2]: SR [746.11](http://db.clex.ch/link/Bund/746.11/de).
+
+## 6 Übertragung von Bewilligungskompetenzen
 
 #### § 23
 
-**Gesuch 11)**
+**Gesuch**
 
-<sup>1</sup> Der Gemeinderat hat das Gesuch um Übertragung der Zuständigkeit für die Bewilligung von industriellen, gewerblichen und landwirtschaftlichen Bauvorhaben, Bauten und Anlagen mit grosser Personenbelegung oder Einstellhallen für Motorfahrzeuge, Tiefgaragen und Garagen für gewerbliche Zwecke beim Baudepartement einzureichen. Ein auf konkrete Bauvorhaben beschränktes Gesuch ist nicht zulässig. <sup>10)</sup>
+<sup>1</sup> Der Gemeinderat hat das Gesuch um Übertragung der Zuständigkeit für die Bewilligung von industriellen, gewerblichen und landwirtschaftlichen Bauvorhaben, Bauten und Anlagen mit grosser Personenbelegung oder Einstellhallen für Motorfahrzeuge, Tiefgaragen und Garagen für gewerbliche Zwecke beim Baudepartement einzureichen. Ein auf konkrete Bauvorhaben beschränktes Gesuch ist nicht zulässig.
 
 <sup>2</sup> Das Gesuch hat insbesondere folgende Unterlagen zu enthalten:
 
-- a) ein Organigramm, aus dem die Abläufe bei der Bearbeitung der Baugesuche ersichtlich sind, namentlich die anstelle des Baudepartementes auszuübenden Koordinationsaufgaben gemäss Art. 66 BauG;
+- a) ein Organigramm, aus dem die Abläufe bei der Bearbeitung der Baugesuche ersichtlich sind, namentlich die anstelle des Baudepartementes auszuübenden Koordinationsaufgaben gemäss Art. 66 BauG
+- b) eine Liste des mit der Bearbeitung von Baugesuchen beauftragten Fachpersonals, unter Beilage der Pflichtenhefte und allfälliger Leistungsaufträge
+- c) bei der Übertragung von Vollzugsaufgaben im Sinne von Art. 82 BauG die Leistungsvereinbarung mit einer für mehrere Gemeinden tätigen Bauverwaltung oder den Vertrag mit der privatrechtlich organisierten Fachstelle
 
-- b) eine Liste des mit der Bearbeitung von Baugesuchen beauftragten Fachpersonals, unter Beilage der Pflichtenhefte und allfälliger Leistungsaufträge;
-
-- c) bei der Übertragung von Vollzugsaufgaben im Sinne von Art.
-
-82 BauG die Leistungsvereinbarung mit einer für mehrere Gemeinden tätigen Bauverwaltung oder den Vertrag mit der privatrechtlich organisierten Fachstelle.
-
-<sup>3</sup> Das Baudepartement prüft das Gesuch, holt allenfalls nötige Zusatzinformationen ein und stellt dem Regierungsrat Antrag. <sup>10)</sup>
+<sup>3</sup> Das Baudepartement prüft das Gesuch, holt allenfalls nötige Zusatzinformationen ein und stellt dem Regierungsrat Antrag.
 
 #### § 24
 
-**Antrag 11)**
+**Antrag**
 
-Der Antrag des Baudepartementes an den Regierungsrat enthält eine Stellungnahme zum Gesuch, die für eine ordnungsgemässe Durchführung der Bewilligungsverfahren nötigen Bedingungen und Auflagen sowie eine mit der gesuchstellenden Gemeinde getroffene Regelung über die Entschädigung der im Baubewilligungsverfahren mitwirkenden kantonalen Fachstellen.
+<sup>1</sup> Der Antrag des Baudepartementes an den Regierungsrat enthält eine Stellungnahme zum Gesuch, die für eine ordnungsgemässe Durchführung der Bewilligungsverfahren nötigen Bedingungen und Auflagen sowie eine mit der gesuchstellenden Gemeinde getroffene Regelung über die Entschädigung der im Baubewilligungsverfahren mitwirkenden kantonalen Fachstellen.
 
 #### § 25
 
-**Veröffentlichung des Beschlusses 11)**
+**Veröffentlichung des Beschlusses**
 
-Beschlüsse des Regierungsrates über die Erweiterung der Baubewilligungskompetenz von Gemeinden werden im Amtsblatt veröffentlicht und in die kantonale Gesetzessammlung aufgenommen.
+<sup>1</sup> Beschlüsse des Regierungsrates über die Erweiterung der Baubewilligungskompetenz von Gemeinden werden im Amtsblatt veröffentlicht und in die kantonale Gesetzessammlung aufgenommen.
 
 #### § 26
 
-**Aufsicht 11)**
+**Aufsicht**
 
-<sup>1</sup> Der Gemeinderat erstattet dem Baudepartement jährlich Bericht über die von ihm erteilten Bewilligungen für Bauvorhaben gemäss Art. 57 Abs. 1 lit. c - f BauG.
+<sup>1</sup> Der Gemeinderat erstattet dem Baudepartement jährlich Bericht über die von ihm erteilten Bewilligungen für Bauvorhaben gemäss Art. 57 Abs. 1 lit. c–f BauG.
 
 <sup>2</sup> Das Baudepartement ordnet die zur Beseitigung von allfälligen Mängeln nötigen Massnahmen an.
 
@@ -400,64 +386,108 @@ Beschlüsse des Regierungsrates über die Erweiterung der Baubewilligungskompete
 
 #### § 27
 
-<sup>10)</sup>
+**Rückgabe der Bewilligungskompetenz**
 
-**Rückgabe der Bewilligungskompetenz 11)**
+<sup>1</sup> Die übertragene Bewilligungskompetenz kann unter Einhaltung einer zweijährigen Anzeigefrist an das Baudepartement zurückgegeben werden.
 
-Die übertragene Bewilligungskompetenz kann unter Einhaltung einer zweijährigen Anzeigefrist an das Baudepartement zurückgegeben werden.
-
-### G. Schlussbestimmungen <sup>11)</sup>
+## 7 Schlussbestimmungen
 
 #### § 28
 
-**I. Aufhebung bisherigen Rechts**
+**Aufhebung bisherigen Rechts**
 
 <sup>1</sup> Die folgenden Erlasse werden aufgehoben:
 
-- a) die Verordnung betreffend die Erschliessung von Grundstücken für die Überbauung (Erschliessungsverordnung) vom 6. April 1971;
-
+- a) die Verordnung betreffend die Erschliessung von Grundstücken für die Überbauung (Erschliessungsverordnung) vom 6. April 1971
 - b) die Verordnung zum Bundesgesetz über die Raumplanung vom 22. Juli 1979 (Raumplanungsverordnung) vom 14. Dezember 1982
-
-- c) die Verordnung betreffend den Bau von Rebhütten ausserhalb der Bauzonen vom 14. Mai 1974;
-
-- d) der Beschluss des Regierungsrates über die Zuständigkeit für die Bewilligung von Garagen vom 23. November 1982;
-
-- e) der Beschluss des Regierungsrates über die Zuständigkeit für die Bewilligung von Bauvorhaben gemäss Art. 61 Abs. 1 des Baugesetzes vom 15. November 1983.
+- c) die Verordnung betreffend den Bau von Rebhütten ausserhalb der Bauzonen vom 14. Mai 1974
+- d) der Beschluss des Regierungsrates über die Zuständigkeit für die Bewilligung von Garagen vom 23. November 1982
+- e) der Beschluss des Regierungsrates über die Zuständigkeit für die Bewilligung von Bauvorhaben gemäss Art. 61 Abs. 1 des Baugesetzes vom 15. November 1983
 
 #### § 29
 
-**II. Inkrafttreten**
+**Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>1)</sup> und in die kantonale Gesetzessammlung aufzunehmen. Fussnoten:
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^29-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-- 1) Amtsblatt 1998, S. 1811.
+[^29-1]: Amtsblatt 1998, S. 1811.
 
-- 3) Fassung gemäss RRB vom 19. Februar 2008, in Kraft getreten am 1. März 2008 (Amtsblatt 2008, S. 245).
+## A1 Anhang 1: Skizzen zum Anhang Baugesetz (Baubegriffe und Messweisen, Art. 27 BauG)
 
-- 4) Eingefügt durch RRB vom 19. Februar 2008, in Kraft getreten am 1. März 2008 (Amtsblatt 2008, S. 245).
+#### § A1-1
 
-- 5) Fassung gemäss RRB vom 2. September 2008, in Kraft getreten am 1. Oktober 2008 (Amtsblatt 2008, S. 1249).
+**Zu Ziffer 2: Gebäude:**
 
-- 6) Fassung gemäss RRB vom 11. Mai 2010, in Kraft getreten am 1. Juli 2010 (Amtsblatt 2010, S. 726).
+<sup>1</sup> Anbaute / Kleinbaute:
 
-- 7) Fassung gemäss RRB vom 14. Dezember 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1817).
+<sup>2</sup> Fassadenlinie:
 
-- 8) Eingefügt durch RRB vom 14. Dezember 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1817).
+#### § A1-2
 
-- 9) Eingefügt durch RRB vom 15. Dezember 2015, in Kraft getreten am 1. Januar 2016 (Amtsblatt 2015, S. 1979).
+**Gebäudeteile**
 
-- 10) Fassung gemäss RRB vom 27. September 2016, in Kraft getreten am 1. Oktober 2016 (Amtsblatt 2016, S. 1519).
+<sup>1</sup> Projizierte Fassadenlinie:
 
-- 11) Fassung gemäss RRB vom 11. Dezember 2018, in Kraft getreten am 1. Januar 2019 (Amtsblatt 2018, S. 2123).
+<sup>2</sup> Fassadenflucht und Fassadenlinie, Ebenes Gelände:
 
-- 12) Eingefügt durch RRB vom 11. Dezember 2018, in Kraft getreten am 1. Januar 2019 (Amtsblatt 2018, S. 2123).
+<sup>3</sup> Fassadenflucht und Fassadenlinie, Geneigtes Gelände:
 
-- 13) Eingefügt durch RRB vom 6. Dezember 2022, in Kraft getreten am 1. Januar 2023 (Amtsblatt 2022, S. 2226).
+<sup>4</sup> Vorspringende Gebäudeteile, Schnitt:
 
-- 14) SR 746.1.
+<sup>5</sup> Vorspringende Gebäudeteile, Seitenansicht:
 
-- 15) SR 746.11.
+<sup>6</sup> Rückspringende und unbedeutende rückspringende Gebäudeteile:
 
-- 16) Eingefügt durch RRB vom 28. November 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2068).
+#### § A1-3
+
+**Längenbegriffe, Längendmasse**
+
+<sup>1</sup> Gebäudelänge und Gebäudebreite:
+
+#### § A1-4
+
+**Höhenbegriffe, Höhenmasse**
+
+<sup>1</sup> Gesamthöhe:
+
+<sup>2</sup> Fassadenhöhe:
+
+<sup>3</sup> Kniestockhöhe:
+
+<sup>4</sup> Lichte Höhe:
+
+#### § A1-5
+
+**Geschosse**
+
+<sup>1</sup> Geschosse und Geschosszahl:
+
+<sup>2</sup> Untergerschosse:
+
+<sup>3</sup> Dachgeschosse:
+
+<sup>4</sup> Attikageschosse:
+
+#### § A1-6
+
+**Abstände und Abstandsbereiche**
+
+<sup>1</sup> Abstände und Abstandsbereiche:
+
+<sup>2</sup> Bebaubarer Bereich und Baubereich:
+
+#### § A1-7
+
+**Nutzungsziffern**
+
+<sup>1</sup> Anrechenbare Grundstücksfläche:
+
+<sup>2</sup> Geschossflächenziffer:
+
+<sup>3</sup> Baumassenziffer:
+
+<sup>4</sup> Anrechenbare Gebäudefläche:
+
+Abl. 1998, S. 1811
