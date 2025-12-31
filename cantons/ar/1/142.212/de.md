@@ -4,13 +4,12 @@ number: "142.212"
 title: Personalverordnung
 short: PGV
 language: de
-version: 2025-03-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-25
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.212"
-pdf: "https://ar.clex.ch/api/de/versions/1562/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1562/pdf_file"
 
 (PGV)
 
-vom 20.11.2007 (Stand 01.03.2025)
+vom 20.11.2007 (Stand 01.01.2026)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -302,9 +301,9 @@ beschliesst:
 
 <sup>2</sup> Fortbildung ist obligatorisch und der Kanton trägt die Kosten. Es besteht keine Rückzahlungspflicht der oder des Angestellten.
 
-<sup>3</sup> Die individuelle Weiterbildung wird auf Antrag der oder des Angestellten oder der Anstellungsbehörde in Absprache mit dem Personalamt gemeinsam vereinbart und schriftlich festgehalten. Die Vereinbarung beinhaltet eine allfällige Kostenbeteiligung durch den Kanton sowie die Rückerstattungspflicht der oder des Angestellten. Die Kostenbeteiligung ist abhängig vom Nutzen für den Arbeitgeber und beträgt in der Regel maximal 2/3 der gesamten Kosten.
+<sup>3</sup> Die individuelle Weiterbildung wird auf Antrag der oder des Angestellten oder der Anstellungsbehörde in Absprache mit dem Personalamt gemeinsam vereinbart und schriftlich festgehalten. Die Vereinbarung beinhaltet eine allfällige Kostenbeteiligung durch den Kanton sowie die Rückerstattungspflicht der oder des Angestellten. Die Kostenbeteiligung ist abhängig vom Nutzen für den Arbeitgeber und beträgt in der Regel maximal 2/3 der gesamten Kosten; es werden keine Spesen übernommen.
 
-<sup>4</sup> Die gesamten Kosten der Aus- oder Weiterbildung setzen sich zusammen aus der ausfallenden Arbeitszeit, den Kurskosten, den Prüfungsgebühren und den Spesen, die im Rahmen der Aus- oder Weiterbildung anfallen.
+<sup>4</sup> Die gesamten Kosten der Aus- oder Weiterbildung setzen sich zusammen aus der ausfallenden Arbeitszeit, den Kurskosten und den Prüfungsgebühren, ferner den Spesen, die im Rahmen der Ausbildung anfallen.
 
 <sup>5</sup> Hat der Kanton mindestens einen Drittel der Kosten der Aus- oder Weiterbildung übernommen, so sind diese im Falle der durch die Angestellte oder den Angestellten ausgesprochene Kündigung wie folgt zurückzuzahlen:
 
