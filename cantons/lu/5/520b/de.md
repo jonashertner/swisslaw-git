@@ -4,13 +4,13 @@ number: 520b
 title: "Statut der Hochschule Luzern, FH Zentralschweiz"
 short: FHZ-Statut
 language: de
-version: 2024-09-01
-valid_until: 2025-12-31
-version_adopted: 2024-08-27
+version: 2026-01-01
+valid_until: 2026-03-31
+version_adopted: 2025-04-01
 adopted: 2021-08-26
 in_force: 2021-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520b"
-pdf: "https://srl.lu.ch/api/de/versions/4259/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4568/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4259/pdf_file"
 
 (FHZ-Statut)
 
-vom 26.08.2021 (Stand 01.09.2024)
+vom 26.08.2021 (Stand 01.01.2026)
 
 Der Fachhochschulrat,
 
@@ -63,7 +63,7 @@ beschliesst:
 
 <sup>1</sup> Zur Vertiefung und Erweiterung von beruflichen Qualifikationen stellt die Hochschule Luzern Weiterbildungsangebote zur Verfügung, namentlich solche, die mit einem Master of Advanced Studies (MAS), einem Diploma of Advanced Studies (DAS), einem Certificate of Advanced Studies (CAS), einem MBA oder einem Executive MBA abgeschlossen werden können.
 
-<sup>2</sup> Die Hochschule Luzern bietet zudem Weiterbildungskurse und Seminare an.
+<sup>2</sup> Die Hochschule Luzern bietet zudem Kurzprogramme wie Short Advanced Studies (SAS-)Programme und andere Formate wie Weiterbildungskurse, Fachkurse, Seminare usw. an.
 
 #### Art. 6
 
@@ -73,9 +73,9 @@ beschliesst:
 
 #### Art. 7
 
-**Anwendungsorientierte Forschung und Entwicklung**
+**Forschung und Entwicklung**
 
-<sup>1</sup> Die Hochschule Luzern führt in ihren Tätigkeitsbereichen anwendungsorientierte Forschungs- und Entwicklungsarbeiten durch.
+<sup>1</sup> Die Hochschule Luzern führt in ihren Tätigkeitsbereichen Forschungs- und Entwicklungsarbeiten durch.
 
 <sup>2</sup> Als Schnittstelle zwischen Praxis und Wissenschaft fördert sie die Innovation in ihren Tätigkeitsbereichen und integriert die Forschungsergebnisse in die Ausbildung.
 
@@ -116,13 +116,14 @@ beschliesst:
 
 - a. die Rektorin oder der Rektor der Hochschule Luzern,
 - b. die Direktorinnen und Direktoren der Departemente,
-- c. die Verwaltungsdirektorin oder der Verwaltungsdirektor,
-- d. die Leiterin oder der Leiter Marketing und Kommunikation,
-- e. die Leiterin oder der Leiter Hochschulentwicklung und ‑dienste.
+- c. die Leiterin oder der Leiter Digitale Entwicklungen und Services,
+- d. die Leiterin oder der Leiter Finanzen und Infrastruktur,
+- e. die Leiterin oder der Leiter Marketing und Kommunikation,
+- f. die Leiterin oder der Leiter Personal und Hochschulentwicklung.
 
 <sup>2</sup> Die Rektorin oder der Rektor leitet als Vorsitzende oder Vorsitzender die Sitzungen der Hochschulleitung.
 
-<sup>3</sup> Die Leiterin oder der Leiter Marketing und Kommunikation sowie die Leiterin oder der Leiter Hochschulentwicklung und ‑dienste nehmen an den Sitzungen mit beratender Stimme teil. Die Rektorin oder der Rektor kann weitere Personen beratend beiziehen.
+<sup>3</sup> Die Rektorin oder der Rektor kann an den Sitzungen weitere Personen beratend beiziehen.
 
 <sup>4</sup> Die Hochschulleitung legt ihr Geschäftsreglement fest. Die Beschlüsse der Hochschulleitung werden protokolliert. Die Sitzungen der Hochschulleitung sind nicht öffentlich.
 
@@ -138,8 +139,9 @@ beschliesst:
 - b. die Zusammenarbeit mit anderen Hochschulen und Institutionen und den Austausch von Wissen und Technologie mit der Wissenschaft, der Gesellschaft, der Wirtschaft und der Kultur zu fördern,
 - c. die Hochschule Luzern in kantonalen, interkantonalen, nationalen und internationalen Gremien zu vertreten,
 - d. die interdisziplinäre Zusammenarbeit unter den Departementen sowie die Koordination ihrer Tätigkeiten zu fördern,
-- e. die Departemente, Finanzen und Services, das Generalsekretariat und die Abteilungen Marketing und Kommunikation sowie Hochschulentwicklung und ‑dienste zu führen,
-- f. die Personalentwicklung der Mitarbeitenden zu gewährleisten,
+- e. die Departemente, die vier Bereiche Digitale Entwicklungen und Services, Finanzen und Infrastruktur, Marketing und Kommunikation, Personal und Hochschulentwicklung sowie das Generalsekretariat zu führen,
+- f. die Hochschul-, Personal- und Digitalisierungsentwicklung zu gewährleisten,
+- f<sup>bis</sup>. den Datenschutz und die Informationssicherheit sicherzustellen,
 - g. die Geschäfte des Fachhochschulrates vorzubereiten und dessen Sekretariat zu führen,
 - h. den Vorsitz der Hochschulleitung auszuüben,
 - i. die Finanzen der Departemente zu beaufsichtigen und bei Verlust oder bei wesentlichen Veränderungen der Kapitalstruktur, insbesondere bei einem Minusbestand des Eigenkapitals, Massnahmen zu ergreifen,
@@ -165,45 +167,99 @@ beschliesst:
 
 <sup>2</sup> Die Qualitätssicherung orientiert sich an bereichsspezifischen und international anerkannten Massstäben.
 
+### 2.3a Digitale Entwicklungen und Services, Finanzen und Infrastruktur, Marketing und Kommunikation, Personal und Hochschulentwicklung (Hochschuldienste)
+
+#### Art. 14a
+
+**Aufgaben**
+
+<sup>1</sup> Die vier Bereiche Digitale Entwicklungen und Services, Finanzen und Infrastruktur, Marketing und Kommunikation sowie Personal und Hochschulentwicklung erbringen Dienstleistungen für die gesamte Hochschule Luzern. Sie stellen die administrativen und technischen Betriebsabläufe sicher, unterstützen die Departemente als Business Partner und initiieren und unterstützen transversale Innovation und Weiterentwicklung.
+
+<sup>2</sup> Die Entscheidungskompetenzen der vier Bereiche richten sich nach der Kompetenzenregelung der Führungsorgane und -personen der Hochschule Luzern gemäss Anhang 1.
+
+<sup>3</sup> Die jeweilige Organisation der vier Bereiche ist von der Rektorin oder vom Rektor zu genehmigen.
+
+<sup>4</sup> Die Leitungen der vier Bereiche erfüllen die ihnen von der Rektorin oder vom Rektor in der Kompetenzenregelung der Führungsorgane und -personen der Hochschule Luzern gemäss Anhang 1 übertragenen Aufgaben.
+
+#### Art. 14b
+
+**Digitale Entwicklungen und Services**
+
+<sup>1</sup> Der Bereich Digitale Entwicklungen und Services verantwortet die grundlegenden IT-Services für alle Angehörigen der Hochschule, die spezifische IT für den vierfachen Leistungsauftrag, die Geschäftsapplikationen sowie das Technologiescouting und die Innovationen. Er stellt die Verankerung der oben genannten Aufgaben in der gesamten Hochschule sicher, in Übereinstimmung mit den strategischen Zielen der Hochschule Luzern.
+
+#### Art. 14c
+
+**Leitung Digitale Entwicklungen und Services**
+
+<sup>1</sup> Die Leiterin oder der Leiter des Bereichs Digitale Entwicklungen und Services trägt die Verantwortung für die operative und strategische Leitung und Organisation des Bereichs Digitale Entwicklungen und Services und übt insbesondere folgende Aufgaben aus:
+
+- a. Leitung und Organisation des Bereichs Digitale Entwicklungen und Services,
+- b. Vertretung des Bereichs Digitale Entwicklungen und Services intern sowie gegenüber Dritten,
+- c. Verknüpfung der eigenen Entwicklungen und Innovationen mit dem Betrieb sowie mit den Entwicklungen und Innovationen in den drei weiteren Bereichen und den Departementen,
+- d. Führen der Anstellungsverfahren für Mitarbeitende des Bereichs, insbesondere für Mitarbeitende mit Leitungsfunktionen,
+- e. Gewährleistung der Personalentwicklung im Bereich Digitale Entwicklungen und Services.
+
+#### Art. 14d
+
+**Finanzen und Infrastruktur**
+
+<sup>1</sup> Der Bereich Finanzen und Infrastruktur verantwortet die Planung und Steuerung der Finanzen und der Infrastruktur sowie operativ das Finanz- und Rechnungswesen und das Facility Management in Übereinstimmung mit den strategischen Zielen der Hochschule Luzern.
+
+#### Art. 14e
+
+**Leitung Finanzen und Infrastruktur**
+
+<sup>1</sup> Die Leiterin oder der Leiter Finanzen und Infrastruktur trägt die Verantwortung für die operative und strategische Leitung des Bereichs Finanzen und Infrastruktur. Insbesondere übt sie oder er folgende Aufgaben aus:
+
+- a. Leitung und Organisation des Bereichs Finanzen und Infrastruktur,
+- b. Vertretung des Bereichs Finanzen und Infrastruktur intern sowie gegenüber Dritten,
+- c. Verknüpfung der eigenen Entwicklungen und Innovationen mit dem Betrieb sowie mit den Entwicklungen und Innovationen in den drei weiteren Bereichen und den Departementen,
+- d. Führen der Anstellungsverfahren für Mitarbeitende des Bereichs, insbesondere für Mitarbeitende mit Leitungsfunktionen,
+- e. Gewährleistung der Personalentwicklung im Bereich Finanzen und Infrastruktur.
+
 #### Art. 15
 
 **Marketing und Kommunikation**
 
-<sup>1</sup> Die Abteilung Marketing und Kommunikation verantwortet die Kommunikations- und Marketingaktivitäten der Hochschule Luzern und unterstützt dabei die Departemente bei der Akquise von Studierenden, Weiterbildungsteilnehmenden und Forschungspartnerschaften. Die Organisation der Abteilung Marketing und Kommunikation ist von der Rektorin oder vom Rektor zu genehmigen.
+<sup>1</sup> Der Bereich Marketing und Kommunikation verantwortet die Kommunikations- und Marketingaktivitäten der Hochschule Luzern und unterstützt dabei die Departemente bei der Akquise von Studierenden, Weiterbildungsteilnehmenden und Forschungspartnerschaften.
 
-<sup>2</sup> Die Dienstleistungen der Abteilung Marketing und Kommunikation stehen allen Organisationseinheiten zwecks Sicherung strategiekonformer Positionierung und Profilierung der Hochschule Luzern durch professionelle Kommunikation und Medienarbeit sowie durch kontinuierliche Markenführung zur Verfügung.
+<sup>2</sup> Die Dienstleistungen des Bereichs Marketing und Kommunikation stehen allen Organisationseinheiten zwecks Sicherung strategiekonformer Positionierung und Profilierung der Hochschule Luzern durch professionelle Kommunikation und Medienarbeit sowie durch konsistente Markenführung zur Verfügung.
 
-<sup>3</sup> Die Entscheidungskompetenzen der Abteilung Marketing und Kommunikation richten sich nach der Kompetenzenregelung der Führungsorgane und ‑personen der Hochschule Luzern gemäss Anhang 1.
+<sup>3</sup> …
 
 #### Art. 16
 
 **Leitung Marketing und Kommunikation**
 
-<sup>1</sup> Die Leiterin oder der Leiter der Abteilung Marketing und Kommunikation trägt die Verantwortung für das Erscheinungsbild und die Kommunikation der Hochschule Luzern. Sie oder er übt im Auftrag der Rektorin oder des Rektors folgende Aufgaben aus:
+<sup>1</sup> Die Leiterin oder der Leiter des Bereichs Marketing und Kommunikation trägt die Verantwortung für das Erscheinungsbild und die Kommunikation der Hochschule Luzern und übt insbesondere folgende Aufgaben aus:
 
-- a. Leitung und Organisation der Abteilung Marketing und Kommunikation,
-- b. Vertretung der Abteilung Marketing und Kommunikation intern sowie gegenüber Dritten,
-- c. Erfüllung der ihr oder ihm von der Rektorin oder vom Rektor oder in der Kompetenzenregelung der Führungsorgane und ‑personen der Hochschule Luzern gemäss Anhang 1 übertragenen Aufgaben.
+- a. Leitung und Organisation des Bereichs Marketing und Kommunikation,
+- b. Vertretung des Bereichs Marketing und Kommunikation intern sowie gegenüber Dritten,
+- c. Verknüpfung der eigenen Entwicklungen und Innovationen mit dem Betrieb sowie mit den Entwicklungen und Innovationen in den drei weiteren Bereichen und den Departementen,
+- d. Führen der Anstellungsverfahren für Mitarbeitende des Bereichs, insbesondere für Mitarbeitende mit Leitungsfunktionen,
+- e. Gewährleistung der Personalentwicklung im Bereich Marketing und Kommunikation.
 
 #### Art. 17
 
-**Hochschulentwicklung und ‑dienste**
+**Personal und Hochschulentwicklung**
 
-<sup>1</sup> Die Abteilung Hochschulentwicklung und ‑dienste unterstützt die übergreifende und integrierte Weiterentwicklung der strategischen Ausrichtung der Leistungsaufträge und Transversalthemen im Interesse der Hochschule Luzern. Sie sorgt für die Umsetzung gemeinsam vereinbarter und hochschulübergreifender Eckwerte und Massnahmen und erbringt hochschulübergreifende Dienstleistungen.
+<sup>1</sup> Der Bereich Personal und Hochschulentwicklung verantwortet die übergreifende und integrierte Personal- und Hochschulentwicklung sowie das Personalmanagement und stellt die Verankerung dieser Aufgaben in der gesamten Hochschule sicher. Weiter koordiniert der Bereich die gemeinsamen Entwicklungen im vierfachen Leistungsauftrag und in den Transversalthemen in Übereinstimmung mit den strategischen Zielen der Hochschule Luzern.
 
-<sup>2</sup> Die Organisation der Abteilung Hochschulentwicklung und ‑dienste ist von der Rektorin oder vom Rektor zu genehmigen.
+<sup>2</sup> …
 
-<sup>3</sup> Die Entscheidungskompetenzen der Abteilung Hochschulentwicklung und ‑dienste richten sich nach der Kompetenzenregelung der Führungsorgane und ‑personen der Hochschule Luzern gemäss Anhang 1.
+<sup>3</sup> …
 
 #### Art. 18
 
-**Leitung Hochschulentwicklung und ‑dienste**
+**Leitung Personal und Hochschulentwicklung**
 
-<sup>1</sup> Die Leiterin oder der Leiter der Abteilung Hochschulentwicklung und ‑dienste übt im Auftrag der Rektorin oder des Rektors folgende Aufgaben aus:
+<sup>1</sup> Die Leiterin oder der Leiter des Bereichs Personal und Hochschulentwicklung trägt die Verantwortung für die operative und strategische Leitung des Bereichs Personal und Hochschulentwicklung. Sie oder er übt insbesondere folgende Aufgaben aus:
 
-- a. Leitung und Organisation der Abteilung Hochschulentwicklung und ‑dienste,
-- b. Vertretung der Abteilung Hochschulentwicklung und ‑dienste intern sowie gegenüber Dritten,
-- c. Erfüllung der ihr oder ihm von der Rektorin oder vom Rektor oder in der Kompetenzenregelung der Führungsorgane und ‑personen der Hochschule Luzern gemäss Anhang 1 übertragenen Aufgaben.
+- a. Leitung und Organisation des Bereichs Personal und Hochschulentwicklung,
+- b. Vertretung des Bereichs Personal und Hochschulentwicklung intern sowie gegenüber Dritten,
+- c. Verzahnung der Innovationen und Entwicklungen von Personal- und Hochschulentwicklung mit den übrigen Bereichen und den Departementen,
+- d. Führen der Anstellungsverfahren für Mitarbeitende des Bereichs, insbesondere für Mitarbeitende mit Leitungsfunktionen,
+- e. Gewährleistung der Personalentwicklung im Bereich Personal und Hochschulentwicklung.
 
 ### 2.4 Departemente
 
@@ -232,7 +288,7 @@ beschliesst:
 
 **Direktorinnen und Direktoren**
 
-<sup>1</sup> Die Direktorinnen und Direktoren sind für die operative Leitung der Departemente im Rahmen der Kompetenzenregelung der Führungsorgane und ‑personen der Hochschule Luzern gemäss Anhang 1 zuständig. Zur Erfüllung ihrer Aufgaben werden sie von Departementsleitungen unterstützt. Insbesondere haben sie
+<sup>1</sup> Die Direktorinnen und Direktoren sind für die strategische und operative Leitung der Departemente in Übereinstimmung mit der Dachstrategie sowie im Rahmen der Kompetenzenregelung der Führungsorgane und ‑personen der Hochschule Luzern gemäss Anhang 1 zuständig. Zur Erfüllung ihrer Aufgaben werden sie von Departementsleitungen unterstützt. Insbesondere haben sie
 
 - a. ihr Departement im Rahmen des Rechts, der Mission und Vision, der Hochschul- und der Departementsstrategie sowie des Werterahmens wie auch der Entwicklungsplanung und des Leistungsauftrags und der verfügbaren finanziellen Mittel zu organisieren und zu leiten,
 - b. die Entwicklung ihres Departementes zu planen und zu fördern,
@@ -241,37 +297,22 @@ beschliesst:
 - e. die Personalentwicklung ihrer Mitarbeitenden zu gewährleisten,
 - f. das Qualitätsmanagement zu führen,
 - g. die Studienreglemente zu erlassen,
+- g<sup>bis</sup>. den Datenschutz und die Informationssicherheit sicherzustellen,
 - h. alle Aufgaben auf Stufe Departement wahrzunehmen, die keinem anderen Organ übertragen sind.
 
 <sup>2</sup> Die Direktorinnen und Direktoren erstatten der Rektorin oder dem Rektor regelmässig Bericht.
 
 <sup>3</sup> Die Beschlüsse der Direktorinnen und Direktoren sind genehmigungspflichtig, soweit die Bestimmungen dieses Statuts eine Genehmigung vorsehen.
 
-### 2.5 Finanzen und Services
+### 2.5
 
 #### Art. 22
 
-**Aufgaben**
-
-<sup>1</sup> Finanzen und Services erbringt Dienstleistungen für die gesamte Hochschule Luzern und stellt die administrativen und technischen Betriebsabläufe durch fachkompetente Abteilungen sicher.
+**…**
 
 #### Art. 23
 
-**Leitung**
-
-<sup>1</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor ist für die operative Leitung von Finanzen und Services im Rahmen der Kompetenzenregelung der Führungsorgane und ‑personen der Hochschule Luzern gemäss Anhang 1 zuständig. Insbesondere hat sie oder er
-
-- a. Finanzen und Services im Rahmen des Rechts, der Mission und Vision, der Hochschulstrategie sowie des Werterahmens und der verfügbaren finanziellen Mittel zu organisieren und zu leiten,
-- b. die Entwicklung von Finanzen und Services zu planen und zu fördern,
-- c. Finanzen und Services nach innen und aussen zu vertreten, namentlich die Zusammenarbeit mit den Departementen sowie mit Dritten zu pflegen und zu fördern,
-- d. die Anstellungsverfahren für Mitarbeitende mit Leitungsfunktionen zu führen,
-- e. die Personalentwicklung der Mitarbeitenden zu gewährleisten,
-- f. das Qualitätsmanagement zu überwachen,
-- g. alle Aufgaben für Finanzen und Services wahrzunehmen, die keinem anderen Organ und keiner anderen Führungsperson übertragen sind.
-
-<sup>2</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor erstattet der Rektorin oder dem Rektor regelmässig Bericht. Die Beschlüsse der Verwaltungsdirektorin oder des Verwaltungsdirektors sind genehmigungspflichtig, soweit die Bestimmungen dieses Statuts eine Genehmigung vorsehen.
-
-<sup>3</sup> Die Organisation von Finanzen und Services ist von der Rektorin oder vom Rektor zu genehmigen.
+**…**
 
 ### 2.6 Ressorts
 
@@ -282,14 +323,16 @@ beschliesst:
 <sup>1</sup> Die Hochschule Luzern verfügt über folgende Ressorts:
 
 - a. Ausbildung,
-- b. Forschung und Entwicklung,
-- c. Weiterbildung.
+- b. Forschung und Dienstleistungen,
+- c. Weiterbildung,
+- d. Gesundheit,
+- e. Inter- und Transdisziplinarität.
 
 #### Art. 25
 
 **Organisation und Aufgaben**
 
-<sup>1</sup> Die Ressorts werden von einem Mitglied der Hochschulleitung geleitet, welches gleichzeitig die Leitung eines Departementes innehat. Im Übrigen organisieren sich die Ressorts selbst.
+<sup>1</sup> Die Ressorts werden von einem Mitglied der Hochschulleitung geleitet, welches in der Regel gleichzeitig die Leitung eines Departementes innehat. Im Übrigen organisieren sich die Ressorts selbst.
 
 <sup>2</sup> Die Ressortleitenden sind insbesondere verantwortlich für
 
@@ -406,9 +449,9 @@ beschliesst:
 
 **Mitwirkungskommissionen**
 
-<sup>1</sup> Die Mitwirkungskommissionen vertreten die Anliegen und Interessen der Mitarbeitenden eines Departementes sowie von Rektorat und Services. Rektorat und Services umfasst die Mitarbeitenden von Finanzen und Services, des Generalsekretariats und der Abteilungen Marketing und Kommunikation sowie Hochschulentwicklung und ‑dienste.
+<sup>1</sup> Die Mitwirkungskommissionen vertreten die Anliegen und Interessen der Mitarbeitenden eines Departementes sowie zusammengenommen der Mitarbeitenden des Generalsekretariats und der vier Bereiche Digitale Entwicklungen und Services, Finanzen und Infrastruktur, Marketing und Kommunikation sowie Personal und Hochschulentwicklung.
 
-<sup>2</sup> Pro Departement sowie für Rektorat und Services wird je eine Mitwirkungskommission eingesetzt, die sich aus mindestens fünf Vertreterinnen und Vertretern aller Mitarbeitendenkategorien zusammensetzt. Im Übrigen organisieren sich die Mitwirkungskommissionen nach gleichen Grundsätzen selber. Die Organisationsreglemente sind von der Direktorin oder vom Direktor zu genehmigen.
+<sup>2</sup> Pro Departement sowie für die Mitarbeitenden des Generalsekretariats und der vier Bereiche Digitale Entwicklungen und Services, Finanzen und Infrastruktur, Marketing und Kommunikation sowie Personal und Hochschulentwicklung zusammen wird je eine Mitwirkungskommission eingesetzt, die sich aus mindestens drei Vertreterinnen und Vertretern der jeweiligen Mitarbeitendenkategorien zusammensetzt. Im Übrigen organisieren sich die Mitwirkungskommissionen nach gleichen Grundsätzen selber. Die Organisationsreglemente sind von der Direktorin oder vom Direktor für die Departemente respektive der Rektorin oder dem Rektor für das Generalsekretariat und die vier Bereiche Digitale Entwicklungen und Services, Finanzen und Infrastruktur, Marketing und Kommunikation sowie Personal und Hochschulentwicklung zusammen zu genehmigen.
 
 #### Art. 35
 
