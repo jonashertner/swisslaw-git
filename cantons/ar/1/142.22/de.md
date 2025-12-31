@@ -4,13 +4,12 @@ number: "142.22"
 title: Gesetz über die Pensionskasse AR
 short: PKG
 language: de
-version: 2018-06-01
-valid_until: 2025-12-31
-version_adopted: 2018-02-19
+version: 2026-01-01
+version_adopted: 2025-03-24
 adopted: 2013-06-10
 in_force: 2014-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.22"
-pdf: "https://ar.clex.ch/api/de/versions/1223/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1644/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1223/pdf_file"
 
 (PKG)
 
-vom 10.06.2013 (Stand 01.06.2018)
+vom 10.06.2013 (Stand 01.01.2026)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -60,15 +59,21 @@ beschliesst:
 
 **Versicherungssystem**
 
-<sup>1</sup> Das Versicherungssystem der Pensionskasse AR ist das Beitragsprimat. Es gilt der Grundsatz der Vollkapitalisierung.
+<sup>1</sup> Die Pensionskasse AR wird nach dem Grundsatz der Vollkapitalisierung geführt.
+
+<sup>2</sup> Sie erbringt Altersleistungen auf der Grundlage des Sparguthabens (Beitragsprimat).
+
+<sup>3</sup> Sie erbringt Leistungen bei Invalidität und Tod vor der Pensionierung auf der Grundlage des versicherten Lohns (Leistungsprimat).
+
+<sup>4</sup> Für Versicherte, die von Gesetzes wegen der Pensionskasse AR angeschlossen sind, gilt die Standardversicherung. In Anschlussverträgen können davon abweichende Versicherungen angeboten werden.
 
 ## II. Finanzierung
 
 #### Art. 5
 
-**Beitragspläne**
+**Beitragsplan der Standardversicherung**
 
-<sup>1</sup> Die Standardversicherung beruht auf einem Beitragsplan mit paritätisch finanzierten Spar- und Risikobeiträgen. Die Pensionskasse AR kann Versicherungen mit anderen Beitragsplänen anbieten.
+<sup>1</sup> Die Standardversicherung beruht auf einem Beitragsplan, der gesamthaft zu 44 % mit Beiträgen der Versicherten und zu 56 % mit Beiträgen der Arbeitgeber finanziert wird.
 
 #### Art. 6
 
@@ -90,27 +95,50 @@ beschliesst:
 
 <sup>1</sup> Die Jahresbeiträge setzen sich aus den Spar-, Risiko- und Verwaltungskostenbeiträgen zusammen.
 
-<sup>2</sup> Die Sparbeiträge im Standardbeitragsplan in Prozent des versicherten Jahreslohnes betragen:
+<sup>2–3</sup> …
+
+<sup>4</sup> Die Verwaltungskommission legt die Jahresbeiträge im Rahmen der gesetzlichen Vorgaben im Vorsorgereglement fest. Neufestlegungen können nur auf den Beginn eines Jahres erfolgen und sind spätestens sechs Monate bevor sie wirksam werden zu veröffentlichen.
+
+<sup>5</sup> …
+
+#### Art. 7a
+
+**Sparbeiträge**
+
+<sup>1</sup> Die Sparbeiträge dienen der Äufnung des Sparguthabens.
+
+<sup>2</sup> In der Standardversicherung betragen die Sparbeiträge in Prozent des versicherten Jahreslohnes:
 
 <table>
-<tr><th>Alter</th><th>Versicherte und Arbeitgeber</th></tr>
-<tr><td>18 - 24</td><td>je 0 - 6 %</td></tr>
-<tr><td>25 - 27</td><td>je 6.0 - 8.0 %</td></tr>
-<tr><td>28 - 32</td><td>je 6.0 - 8.5 %</td></tr>
-<tr><td>33 - 37</td><td>je 6.5 - 9.0 %</td></tr>
-<tr><td>38 - 42</td><td>je 7.0 - 9.5 %</td></tr>
-<tr><td>43 - 47</td><td>je 7.5 - 10.5 %</td></tr>
-<tr><td>48 - 52</td><td>je 8.5 - 11.5 %</td></tr>
-<tr><td>53 - 57</td><td>je 9.5 - 12.5 %</td></tr>
-<tr><td>58 - 65</td><td>je 10.5 - 13.5 %</td></tr>
-<tr><td>66 - 70</td><td>je 8.0 - 11.0 %</td></tr>
+<tr><th>Alter</th><th>Versicherte</th><th>Arbeitgeber</th></tr>
+<tr><td>18 - 19</td><td>2.8 - 5.2 %</td><td>4.2 - 7.8 %</td></tr>
+<tr><td>20 - 24</td><td>3.8 - 6.2 %</td><td>5.7 - 9.3 %</td></tr>
+<tr><td>25 - 29</td><td>4.8 - 7.2 %</td><td>7.2 - 10.8 %</td></tr>
+<tr><td>30 - 34</td><td>5.8 - 8.2 %</td><td>8.7 - 12.3 %</td></tr>
+<tr><td>35 - 39</td><td>6.8 - 9.2 %</td><td>10.2 - 13.8 %</td></tr>
+<tr><td>40 - 44</td><td>7.6 - 10.0 %</td><td>11.4 - 15.0 %</td></tr>
+<tr><td>45 - 49</td><td>8.6 - 10.6 %</td><td>12.9 - 15.9 %</td></tr>
+<tr><td>50 - 54</td><td>9.2 - 11.2 %</td><td>13.8 - 16.8 %</td></tr>
+<tr><td>55 - 59</td><td>9.8 - 11.8 %</td><td>14.7 - 17.7 %</td></tr>
+<tr><td>60 - 65</td><td>10.4 -12.4 %</td><td>15.6 - 18.6 %</td></tr>
+<tr><td>66 - 70</td><td>5.6 - 8.8 %</td><td>8.4 - 13.2 %</td></tr>
 </table>
 
-<sup>3</sup> Der einheitliche Risikobeitrag im Standardbeitragsplan beträgt maximal je 2 % für die Versicherten und für die Arbeitgeber.
+#### Art. 7b
 
-<sup>4</sup> Die Verwaltungskommission legt die Beiträge innerhalb des Rahmens gemäss Abs. 2 und Abs. 3 im Vorsorgereglement fest. Neufestlegungen können nur auf den Beginn eines Jahres erfolgen und sind spätestens sechs Monate bevor sie wirksam werden zu veröffentlichen.
+**Risikobeiträge**
 
-<sup>5</sup> Der Verwaltungskostenbeitrag wird von der Verwaltungskommission auf der Grundlage der letzten Verwaltungskostenrechnung und aufgrund des Budgets für das Erhebungsjahr festgelegt. Er wird von den Arbeitgebern getragen und beträgt maximal 0.5 % aller versicherten Besoldungen.
+<sup>1</sup> Die Risikobeiträge dienen zur Finanzierung der Leistungen bei Invalidität und Tod. Sie können einen Anteil zur Finanzierung eines höheren Umwandlungssatzes enthalten.
+
+<sup>2</sup> In der Standardversicherung beträgt der Risikobeitrag für Versicherte und Arbeitgeber gesamthaft maximal 4 % des versicherten Jahreslohnes.
+
+#### Art. 7c
+
+**Verwaltungskostenbeitrag**
+
+<sup>1</sup> Die Pensionskasse AR erhebt einen angemessenen Beitrag zur Deckung der Verwaltungskosten.
+
+<sup>2</sup> Die Höhe des Beitrags wird auf der Grundlage der Verwaltungskosten der letzten Betriebsrechnung und unter Berücksichtigung des Voranschlags des Erhebungsjahrs festgelegt.
 
 #### Art. 8
 
@@ -119,6 +147,14 @@ beschliesst:
 <sup>1</sup> Im Sanierungsfall kann die Pensionskasse AR aufgrund eines Sanierungskonzeptes des Experten für berufliche Vorsorge einen befristeten Sanierungsbeitrag festlegen und erheben. Die Arbeitgeber tragen mindestens 50 % der gesamten Sanierungsmassnahmen, unter Einbezug einer allfälligen Minder- bzw. Nichtverzinsung der Sparguthaben der Versicherten.
 
 <sup>2</sup> Das Sanierungskonzept ist den Arbeitgebern und den Versicherten mindestens sechs Monate vor der erstmaligen Erhebung der Sanierungsbeiträge zur Kenntnis zu bringen.
+
+#### Art. 8a
+
+**Anpassungen an neues Bundesrecht**
+
+<sup>1</sup> Ändern sich die bundesrechtlichen Grundlagen für die Beitragsbemessung, so ergreift die Verwaltungskommission angemessene Massnahmen, um unmittelbare Härten für die Versicherten oder die Arbeitgeber zu vermeiden oder abzuschwächen.
+
+<sup>2</sup> Die Verwaltungskommission kann zu diesem Zweck insbesondere vom Koordinationsabzug gemäss Art. 6 Abs. 2 und vom Beitragsrahmen gemäss Art. 7a Abs. 2 abweichen.
 
 ## III. Leistungen
 
@@ -164,7 +200,7 @@ beschliesst:
 
 **Wahlkreise, Wahlreglement und Amtsdauer**
 
-<sup>1</sup> Die Verwaltungskommission teilt die Versicherten in vier oder fünf Wahlkreise ein. Dabei achtet sie auf eine möglichst ausgewogene Aufteilung der Versicherten auf die Wahlkreise.
+<sup>1</sup> Für die Wahl der Arbeitgebervertreter und Arbeitnehmervertreter teilt die Verwaltungskommission die Versicherten in Wahlkreise ein. Dabei achtet sie auf eine möglichst ausgewogene Aufteilung der Versicherten auf die Wahlkreise.
 
 <sup>2</sup> Im Wahlreglement legt sie die Modalitäten für die Wahl der Arbeitnehmervertreter und der Arbeitgebervertreter in den einzelnen Wahlkreisen fest.
 
@@ -190,7 +226,7 @@ beschliesst:
 
 <sup>1</sup> Der Kantonsrat nimmt im Rahmen seiner Oberaufsicht den Jahresbericht und die Jahresrechnung jährlich zur Kenntnis.
 
-## V. Übergangsbestimmung
+## V. Übergangsbestimmungen
 
 #### Art. 17
 
@@ -203,6 +239,14 @@ beschliesst:
 **Einmalige Arbeitgebereinlage**
 
 <sup>1</sup> Die angeschlossenen Arbeitgeber leisten per 1. Januar 2018 eine einmalige Einlage zur Minderung von Leistungseinbussen bei künftigen Altersrenten. Die Einlage beträgt maximal 15‘000 Franken pro versicherte Person.
+
+#### Art. 17b
+
+**Teilrevision vom 28. März 2025**
+
+<sup>1</sup> Die Verwaltungskommission passt die Finanzierung der Standardversicherung schrittweise an den neuen Beitragsplan an.
+
+<sup>2</sup> Für die Erreichung des Finanzierungsverhältnisses nach Art. 5 gilt eine Umsetzungsfrist von zwei Jahren ab Inkrafttreten der Teilrevision.
 
 ## VI. Schlussbestimmungen
 
