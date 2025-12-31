@@ -4,13 +4,12 @@ number: "414.611"
 title: Reglement über die Entschädigung für besondere Aufgaben von Lehrpersonen der Mittelschulen sowie der Berufsfachschulen und des Brückenangebots
 short: Entschädigung besondere Aufgaben Lehrpersonen
 language: de
-version: 2017-08-01
-valid_until: 2025-12-31
-version_adopted: 2017-10-24
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2017-10-24
 in_force: 2017-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.611"
-pdf: "https://bgs.zg.ch/api/de/versions/1656/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2965/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1656/pdf_file"
 
 (Entschädigung besondere Aufgaben Lehrpersonen)
 
-Vom 24. Oktober 2017 (Stand 1. August 2017)
+Vom 24. Oktober 2017 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -55,7 +54,7 @@ beschliesst:
 
 <sup>1</sup> Bei besonderer Beanspruchung kann das zuständige Schulleitungsmitglied ausrichten:
 
-- a) für die Vorbereitung maximal 15 Arbeitsstunden zu 40 Franken pro Stunde und pro Person;
+- a) für die Vorbereitung maximal 15 Arbeitsstunden zu 55 Franken pro Stunde und pro Person;
 - b) für die Durchführung bzw. Leitung bei Lehrpersonen, die nicht zu 100% angestellt sind, einen Pensenausgleich.
 
 #### § 4
@@ -106,7 +105,7 @@ beschliesst:
 
 **Besondere Aufgaben**
 
-<sup>1</sup> Das zuständige Schulleitungsmitglied kann für folgende von ihm, der Schulkommission oder der zuständigen Direktion angeordneten oder bewilligten Aufgaben, die nicht zum eigentlichen Berufsauftrag gehören und nicht bereits durch Lektionenentlastungen abgegolten werden, eine Entschädigung von maximal 40 Franken pro Stunde gewähren:
+<sup>1</sup> Das zuständige Schulleitungsmitglied kann für folgende von ihm, der Schulkommission oder der zuständigen Direktion angeordneten oder bewilligten Aufgaben, die nicht zum eigentlichen Berufsauftrag gehören und nicht bereits durch Lektionenentlastungen abgegolten werden, eine Entschädigung von maximal 55 Franken pro Stunde gewähren:
 
 - a) Vorbereitung, Ausführung und Korrektur von Aufnahmeprüfungen in schriftlicher und mündlicher Form;
 - b) Mitarbeit bei Projekten;
