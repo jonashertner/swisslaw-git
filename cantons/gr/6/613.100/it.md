@@ -4,13 +4,13 @@ number: "613.100"
 title: Ordinanza sulla polizia
 short: OPol
 language: it
-version: 2014-01-01
-corrected: 2015-03-24
-version_adopted: 2014-01-14
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-12-16
 adopted: 2005-06-21
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/613.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2236/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3616/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2236/pdf_file"
 
 (OPol)
 
-del 21.06.2005 (stato 01.01.2014)
+del 21.06.2005 (stato 01.01.2026)
 
 emanata dal Governo il 21 giugno 2005
 
@@ -45,7 +45,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>2</sup> Il Dipartimento autorizza la creazione e la soppressione delle sezioni.
 
-<sup>3</sup>
+<sup>3</sup> Il comandante di polizia stabilisce l'organizzazione del comando.
 
 #### Art. 3
 
@@ -53,9 +53,9 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>1</sup> Il comandante di polizia stabilisce uno stato maggiore di direzione quale organo consultivo.
 
-<sup>2</sup> I due supplenti del comandante di polizia vengono reclutati tra i diretti subalterni.
+<sup>2</sup> …
 
-<sup>3</sup> Per garantire la direzione permanente della polizia il comandante di polizia nomina ufficiali di picchetto.
+<sup>3</sup> Per garantire la direzione permanente della polizia il comandante di polizia nomina ufficiali di picchetto. In caso di pericolo imminente, l'ufficiale di picchetto decide in merito a misure di cui alla sezione 5a.
 
 #### Art. 4
 
@@ -114,7 +114,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>2</sup> Per l'ottenimento dei gradi di truppa valgono i presupposti seguenti:
 
-- a) Agente Scuola di polizia conclusa con successo con attestato professionale federale
+- a) Agente Formazione di polizia conclusa con successo con attestato professionale federale
 - b) Appuntato 3 anni di servizio, nonché superamento dell'esame del livello di consolidamento
 - c) Caporale 6 anni di servizio
 - d) …
@@ -122,7 +122,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>3</sup> …
 
-<sup>4</sup> L’anno di scuola di polizia non vale quale anno di servizio ai sensi delle prescrizioni sulle promozioni.
+<sup>4</sup> Il primo anno di formazione di polizia non vale quale anno di servizio ai sensi delle prescrizioni sulle promozioni.
 
 #### Art. 8a
 
@@ -132,7 +132,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>2</sup> I gradi di quadro non sono legati ad anni di servizio o a gradi di truppa conformemente all'articolo 8, fatto salvo un esame di specialista.
 
-<sup>3</sup> L'abbandono di una funzione di quadro implica la perdita dei diritti legati al corrispondente grado e alla corrispondente classe di funzione.
+<sup>3</sup> L'abbandono di una funzione di quadro implica la perdita dei diritti legati al corrispondente grado e alla corrispondente classe di funzione. Rimangono determinanti unicamente gli anni di servizio.
 
 #### Art. 9
 
@@ -198,7 +198,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>1</sup> I membri del corpo ricevono armi, equipaggiamento nuovo e di sostituzione adeguati.
 
-<sup>2</sup> Chi dispone in numero sufficiente di uniformi personali attuali riceve, in luogo dei capi di uniforme ai quali avrebbe diritto, una indennità per il vestiario pari a circa il 30 percento dei costi di acquisto.
+<sup>2</sup> Chi dispone in numero sufficiente di uniformi personali attuali può ricevere, in luogo dei capi di uniforme ai quali avrebbe diritto, una indennità per il vestiario pari a circa il 30 per cento dei costi di acquisto.
 
 <sup>3</sup> I capi di uniforme e l'arma di servizio possono essere ceduti ai collaboratori che lasciano il corpo di polizia.
 
@@ -228,6 +228,32 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>1</sup> I presupposti per l'ammissione quale aspirante in una scuola di polizia e la procedura di reclutamento vengono stabiliti dal Governo.
 
+#### Art. 20a
+
+**Formazione di polizia**
+
+<sup>1</sup> La formazione di agente di polizia dura due anni.
+
+#### Art. 20b
+
+**Primo anno di formazione di polizia**
+
+<sup>1</sup> Il primo anno di formazione di polizia viene svolto presso una scuola conformemente all'articolo 19, integrato da uno stage introduttivo e concluso con l'esame della prontezza d'intervento (EPI).
+
+<sup>2</sup> Nel corso dello stage introduttivo non è data la facoltà di porre in essere autonomamente atti di polizia. È fatto salvo l'uso di armi da fuoco in caso di legittima difesa e di aiuto alla legittima difesa. L'aspirante deve essere accompagnato in qualsiasi momento da un agente di polizia formato.
+
+<sup>3</sup> Per il primo anno di formazione di polizia viene stipulato un contratto di formazione a tempo determinato della durata di un anno.
+
+#### Art. 20c
+
+**Secondo anno di formazione di polizia**
+
+<sup>1</sup> Il secondo anno di formazione di polizia comprende uno stage nel corpo di polizia. Esso si conclude con l'esame federale di professione.
+
+<sup>2</sup> Durante lo stage un agente di polizia ha la facoltà di porre in essere autonomamente atti di polizia.
+
+<sup>3</sup> Con l'agente di polizia in stage viene stipulato un contratto di lavoro a tempo indeterminato.
+
 #### Art. 21
 
 **Rimborso dei costi di formazione**
@@ -236,9 +262,9 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>2</sup> Il rimborso ammonta in caso di partenza:
 
-- a) durante la scuola di polizia fino alla conclusione del servizio pratico a fr. 5000.–
-- b) successivamente fino alla conclusione della scuola di polizia a fr. 25 000.–
-- c) nel 1° anno di servizio a fr. 35 000.–
+- a) durante il primo anno di formazione di polizia fino allo stage introduttivo a fr. 8000.–
+- b) successivamente fino all'esame della prontezza d'intervento (EPI) a fr. 25 000.–
+- c) nel 1° anno di servizio quale agente di polizia in stage a fr. 35 000.–
 - d) nel 2° anno di servizio a fr. 27 500.–
 - e) nel 3° anno di servizio a fr. 20 000.–
 - f) nel 4° anno di servizio a fr. 10 000.–
@@ -255,7 +281,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 **Entrata nel corpo**
 
-<sup>1</sup> Candidati non incorporati possono essere ammessi nel corpo, se dispongono di una formazione comparabile con una scuola di polizia e dell'attestato professionale federale di agente di polizia o se dispongono di conoscenze speciali in un settore specifico.
+<sup>1</sup> Candidati non incorporati possono essere ammessi nel corpo dopo aver superato l'assessment con successo, se dispongono dell'attestato professionale federale di agente di polizia o se dispongono di conoscenze speciali in un settore specifico.
 
 #### Art. 24
 
@@ -269,7 +295,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 **Promessa solenne**
 
-<sup>1</sup> Prima di essere ammessi al servizio pratico durante la formazione, gli aspiranti vengono esortati dal comandante di polizia all'adempimento coscienzioso dei loro doveri d'ufficio, all'assoluta veridicità in tutte le indicazioni di servizio e alla segretezza negli affari di servizio.
+<sup>1</sup> Prima di essere ammessi allo stage introduttivo durante il primo anno di formazione di polizia gli aspiranti vengono esortati dal comandante di polizia all'adempimento coscienzioso dei loro doveri d'ufficio, all'assoluta veridicità in tutte le indicazioni di servizio e alla segretezza negli affari di servizio.
 
 <sup>2</sup> I nuovi collaboratori ammessi nel corpo devono prestare la seguente promessa solenne al comandante di polizia: «Io prometto rispetto della Costituzione e delle leggi, ubbidienza al Governo del Cantone e ai miei superiori, adempimento incorruttibile, secondo scienza e coscienza, di tutti i miei doveri di servizio indipendentemente da chi siano gli interessati, assoluta veridicità nelle mie indicazioni, rispetto e salvaguardia dei diritti del cittadino, segretezza negli affari di servizio e su quanto appreso durante il servizio, nonché l'impiego di tutte le mie forze nello svolgimento dei miei compiti.»
 
@@ -297,9 +323,11 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 #### Art. 29
 
-**Sanzioni e competenza**
+**Provvedimenti disciplinari**
 
-<sup>1</sup> Dopo aver chiarito i fatti e udito l'interessato, il comandante di polizia può infliggere sanzioni disciplinari in forma di biasimo orale o scritto, oppure disporre un trasferimento per punizione.
+<sup>1</sup> Dopo aver chiarito i fatti e aver sentito l'interessato, il comandante di polizia può infliggere sanzioni disciplinari in forma di biasimo orale o scritto, oppure disporre un trasferimento disciplinare.
+
+<sup>2</sup> In caso di trasferimento disciplinare non sussiste alcun diritto al rimborso delle spese.
 
 #### Art. 30
 
@@ -327,51 +355,159 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 [^32-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
 
+#### Art. 32a
+
+**Servizio delle attività informative**
+
+<sup>1</sup> Al comandante di polizia compete la funzione di autorità di vigilanza ai sensi dell'articolo 82 della legge federale sulle attività informative[^32a-1].
+
+[^32a-1]: RS [121](https://db.clex.ch/link/Bund/121/it)
+
+#### Art. 32b
+
+**Gestione delle minacce 1. Accordo di prestazioni**
+
+<sup>1</sup> La Polizia cantonale può stipulare accordi di prestazioni con terzi al fine di adempiere i compiti che le competono in relazione alla gestione delle minacce.
+
+#### Art. 32c
+
+**2. Servizio specializzato GCM**
+
+<sup>1</sup> Il servizio specializzato GCM dirige la gestione delle minacce.
+
+#### Art. 32d
+
+**3. Organo tecnico GCM**
+
+<sup>1</sup> L'organo tecnico sostiene il servizio specializzato GCM nella costituzione e nello sviluppo della gestione delle minacce. Esso viene diretto dal servizio specializzato GCM.
+
+<sup>2</sup> L'organo tecnico è composto da un membro ciascuno delle seguenti autorità:
+
+- a) Polizia cantonale;
+- b) Procura pubblica;
+- c) Autorità di protezione dei minori e degli adulti;
+- d) Ufficio per l'esecuzione giudiziaria;
+- e) Ufficio della migrazione e del diritto civile;
+- f) Ufficio cantonale del servizio sociale;
+- g) Servizi psichiatrici dei Grigioni.
+
+<sup>3</sup> I membri vengono designati dalla rispettiva autorità.
+
+<sup>4</sup> L'organo tecnico può coinvolgere altre persone.
+
+## 5a. Misure
+
 #### Art. 33
 
-**Misure di polizia**
+**Competenza 1. Misure di polizia**
 
-<sup>1</sup> L'ufficiale di picchetto decide in merito alle seguenti misure di polizia:
+<sup>1</sup> Un ufficiale di polizia decide in merito alle seguenti misure previste dalla legge sulla polizia[^33-1]:
 
-- a) fermo conformemente all'articolo 9 capoverso 4 della legge sulla polizia[^33-1],
-- b) custodia di polizia conformemente all'articolo 15 della legge sulla polizia,
-- c) intervento in caso di violenza domestica conformemente all'articolo 16 della legge sulla polizia e all'articolo 28b capoverso 4 del Codice civile svizzero[^33-2];
-- d) perquisizione di spazi non pubblici conformemente all'articolo 20 della legge sulla polizia,
-- e) impiego di mezzi tecnici nella sfera segreta conformemente all'articolo 22 capoverso 2 della legge sulla polizia;
-- f) sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni al di fuori di un procedimento penale;
-- g) proroga dell'arresto provvisorio in caso di contravvenzioni, conformemente all'articolo 219 capoverso 5 del Codice di diritto processuale penale svizzero[^33-3].
+- a) fermo conformemente all'articolo 9 capoverso 4;
+- a<sup>bis</sup>) divieto di accedere ad aree determinate conformemente all'articolo 12a;
+- b) custodia di polizia conformemente all'articolo 15;
+- c) misure particolari contro la violenza, le minacce o le insidie conformemente all'articolo 16;
+- d) perquisizione di spazi non pubblici conformemente all'articolo 20;
+- e) …
+- f) sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni al di fuori di un procedimento penale conformemente all'articolo 22d.
+- g) …
+
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 [^33-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
-[^33-2]: RS [210](https://db.clex.ch/link/Bund/210/it)
-[^33-3]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 33a
 
-**2. Comandante di polizia**
+**2. Misure del Concordato sulle misure contro la violenza in occasione di manifestazioni sportive**
 
-<sup>1</sup> Il comandante di polizia decide in merito alle seguenti misure di polizia del concordato sulle misure contro la violenza in occasione di manifestazioni sportive:
+<sup>1</sup> Il comandante di polizia è l'autorità competente conformemente all'articolo 3a e all'articolo 3b capoverso 2 del Concordato sulle misure contro la violenza in occasione di manifestazioni sportive[^33a-1].
 
-- a) aree vietate conformemente agli articoli 4 e 5 del concordato;
-- b) obbligo di presentarsi alla polizia conformemente agli articoli 6 e 7 del concordato;
-- c) fermo preventivo di polizia conformemente agli articoli 8 e 9 del concordato.
+- a) …
+- b) …
+- c) …
 
-<sup>2</sup> Contro le aree vietate e contro l'obbligo di presentarsi alla polizia può essere presentato ricorso amministrativo.
+<sup>2</sup> …
 
-<sup>3</sup> Contro il fermo preventivo di polizia può essere presentato ricorso giudiziario.
+<sup>3</sup> …
+
+<sup>4</sup> Un ufficiale di polizia decide in merito alle seguenti misure di polizia previste dal Concordato sulle misure contro la violenza in occasione di manifestazioni sportive:
+
+- a) aree vietate conformemente all'articolo 4 e all'articolo 5 del Concordato;
+- b) obbligo di presentarsi alla polizia conformemente all'articolo 6 e all'articolo 7 del Concordato;
+- c) fermo preventivo di polizia conformemente all'articolo 8 e all'articolo 9 del Concordato.
+
+[^33a-1]: CSC [613.180](https://www.gr-lex.gr.ch/data/613.180/it)
 
 #### Art. 33b
 
-**Interrogatori di testimoni**
+**3. Provvedimenti previsti dal Codice di procedura penale**
 
 <sup>1</sup> La Polizia cantonale stabilisce quali agenti di polizia possono interrogare dei testimoni su incarico della Procura pubblica.
 
+<sup>2</sup> Un ufficiale di polizia decide in merito ai seguenti provvedimenti coercitivi previsti dal Codice di procedura penale[^33b-1]:
+
+- a) proroga dell'arresto provvisorio in caso di contravvenzioni conformemente all'articolo 219 capoverso 5;
+- b) osservazione conformemente all'articolo 282 capoverso 1;
+- c) indagine in incognito conformemente all'articolo 298b capoverso 1.
+
+[^33b-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+
+#### Art. 33c
+
+**Comunicazione**
+
+<sup>1</sup> La Polizia cantonale comunica misure contro la violenza, le minacce o le insidie alle seguenti autorità:
+
+- a) all'autorità di protezione dei minori e degli adulti, se sono interessati minori oppure se entrano in considerazione misure di protezione degli adulti;
+- b) all'Ufficio della migrazione e del diritto civile, se entrano in considerazione misure di diritto degli stranieri o in materia d'asilo;
+- c) alle autorità scolastiche, se ciò è necessario per la protezione di bambini e adolescenti soggetti all'obbligo scolastico;
+- d) agli organi di polizia di altri Cantoni, se ciò è necessario per l'esecuzione della misura disposta.
+
 #### Art. 34
 
-**Rimborso delle spese**
+**…**
 
-<sup>1</sup> Le tasse per le prestazioni della Polizia cantonale vengono disciplinate in un'ordinanza sulle tasse separata[^34-1].
+#### Art. 34a
 
-[^34-1]: CSC [613.140](https://www.gr-lex.gr.ch/data/613.140/it)
+**Sorveglianza con acquisizione di immagini e audio senza identificazione di persone**
+
+<sup>1</sup> La Polizia cantonale può sorvegliare luoghi accessibili al pubblico con l'acquisizione di immagini e audio, se ciò non comporta il rilevamento di dati personali.
+
+#### Art. 34b
+
+**Sorveglianza nascosta di luoghi accessibili al pubblico**
+
+<sup>1</sup> Misure ai sensi dell'articolo 22a della legge sulla polizia[^34b-1] vengono disposte al fine di identificare reati o gli autori di reati.
+
+[^34b-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
+
+#### Art. 34c
+
+**Acquisizione di informazioni e sorveglianza riferite a un intervento**
+
+<sup>1</sup> Misure ai sensi dell'articolo 22c della legge sulla polizia[^34c-1] vengono disposte dal capo intervento.
+
+[^34c-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
+
+#### Art. 34d
+
+**Apparecchi di registrazione portati sul corpo (bodycam) 1. Impiego**
+
+<sup>1</sup> Bodycam possono essere impiegate in luoghi accessibili al pubblico se è probabile l'uso di coercizione di polizia perché sono già stati commessi reati o è lecito attendersi che vengano commessi.
+
+<sup>2</sup> L'inizio e la fine della registrazione rilevano il primo contatto con la persona interessata nonché le misure a cui è stata sottoposta.
+
+<sup>3</sup> Se le circostanze lo permettono, la registrazione deve essere annunciata alla persona interessata. La registrazione può essere richiesta anche dalla persona interessata.
+
+#### Art. 34e
+
+**2. Segnalazione e cancellazione**
+
+<sup>1</sup> Gli agenti di polizia dotati di bodycam nonché le registrazioni in corso devono essere riconoscibili per le persone interessate.
+
+<sup>2</sup> La cancellazione della registrazione avviene automaticamente dopo 30 giorni.
 
 ## 6. Compiti dei comuni
 
@@ -381,17 +517,35 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>1</sup> Se gli organi di polizia comunale adempiono ai propri compiti in uniforme, devono seguire un corso sulle multe disciplinari presso la Polizia cantonale, nonché un corso sulla segnalazione manuale del traffico presso un corpo di polizia comunale più grande.
 
-<sup>2</sup> Se il servizio si svolge armato, ciò richiede la formazione di agente di polizia con attestato professionale federale.
+<sup>2</sup> Se il servizio si svolge armato o al fine di attuare una misura secondo l'articolo 3 capoverso 1<sup>ter</sup> della legge sulla polizia[^35-1], ciò richiede la formazione di agente di polizia con attestato professionale federale.
 
-<sup>3</sup> Fanno stato le stesse disposizioni transitorie valide per l'introduzione dell'esame federale di professione.[^35-1]
+<sup>3</sup> Fanno stato le stesse disposizioni transitorie valide per l'introduzione dell'esame federale di professione.[^35-2]
 
-[^35-1]: Art. 30 del regolamento dell'ISP sull'esame professionale per agenti di polizia, approvato dal DFE
+[^35-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
+[^35-2]: Art. 30 del regolamento dell'ISP sull'esame professionale per agenti di polizia, approvato dal DFE
 
 #### Art. 36
 
 **Definizione della polizia comunale**
 
 <sup>1</sup> Gli organi di polizia comunale devono essere definiti come tali e devono essere chiaramente distinguibili dalla Polizia cantonale per quanto riguarda la scritta sui veicoli e l'uniforme. Il comandante di polizia decide in merito ad eccezioni.
+
+#### Art. 36a
+
+**Procedura della multa disciplinare**
+
+<sup>1</sup> Le multe disciplinari conformemente all'articolo 36k della legge sulla polizia[^36a-1] ammontano:
+
+- a) per esposizione a pericolo con fuochi d'artificio (art. 36c LPol): a fr. 150.–
+- b) per comportamento sconveniente, disturbi (art. 36g LPol): a fr. 100.–
+- c) per insudiciamento di proprietà altrui (art. 36h cpv. 1 LPol): a fr. 100.–
+- d) per accattonaggio (art. 36j LPol): a fr. 50.–
+
+<sup>2</sup> I comuni si assumono le spese per lo svolgimento di queste procedure di multa disciplinare.
+
+<sup>3</sup> Le multe incassate sono destinate alla cassa comunale.
+
+[^36a-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
 
 ## 7. Elaborazione di dati personali
 
@@ -409,23 +563,11 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 #### Art. 38
 
-**Rilevamento dei dati**
-
-<sup>1</sup> Per adempiere al mandato conferitole dalla legge, la Polizia cantonale può rilevare o accettare informazioni e dati da fonti pubbliche, private e ufficiali.
-
-<sup>2</sup> Essa può accettare o richiedere nella procedura di richiamo dati di autorità di polizia, d'azione penale e amministrative estere, federali e cantonali.
-
-<sup>3</sup> Gli uffici o le autorità cantonali e comunali, nonché privati soggetti all'obbligo di notifica possono rendere accessibili, nella procedura di richiamo, dati rilevanti per la Polizia cantonale.
+**…**
 
 #### Art. 39
 
-**Dati riguardo a persone pronte all’uso della violenza**
-
-<sup>1</sup> I dati riguardo a persone pronte all'uso della violenza secondo l'articolo 28 della legge sulla polizia[^39-1] vengono elaborati se esiste il sospetto di un reato.
-
-<sup>2</sup> L'esame della predisposizione alla violenza avviene secondo le vie di polizia giudiziaria.
-
-[^39-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
+**…**
 
 #### Art. 40
 
@@ -433,13 +575,11 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>1</sup> I collaboratori della Polizia cantonale hanno accesso ai dati nella misura in cui ciò è necessario per l'adempimento di compiti di polizia giudiziaria o di sicurezza.
 
+<sup>2</sup> Accessi a sistemi di elaborazione dati vengono protocollati.
+
 #### Art. 41
 
-**Conservazione e cancellazione di dati**
-
-<sup>1</sup> I dati di polizia di sicurezza devono essere distrutti se entro tre anni non vengono acquisite nuove informazioni rilevanti per la sicurezza.
-
-<sup>2</sup> I dati di polizia amministrativa non sono soggetti a termini di cancellazione.
+**…**
 
 #### Art. 42
 
@@ -463,7 +603,29 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>2</sup> La Polizia cantonale è responsabile per la conservazione e la cura dei dati. Essa adotta le misure necessarie per proteggere i dati dall'accesso non autorizzato e dalla perdita.
 
-<sup>3</sup> La Polizia cantonale designa un incaricato della protezione dei dati.
+<sup>3</sup> …
+
+#### Art. 43a
+
+**Gestione delle minacce 1. Sistema di elaborazione dati**
+
+<sup>1</sup> La Polizia cantonale elabora i dati della gestione delle minacce in un proprio sistema di elaborazione dati.
+
+<sup>2</sup> Hanno accesso a questo sistema esclusivamente le persone che necessitano di queste informazioni per adempiere i compiti di polizia loro delegati. Il comandante di polizia stabilisce il diritto d'accesso in base al ruolo.
+
+<sup>3</sup> Se non viene aperto alcun caso, i dati vengono distrutti al più tardi dopo cinque anni. Negli altri casi, i dati devono essere distrutti al più tardi dieci anni dopo la chiusura del caso.
+
+#### Art. 43b
+
+**2. Riunione relativa al caso**
+
+<sup>1</sup> Il servizio specializzato GCM designa le autorità, gli specialisti e le organizzazioni private che partecipano a una riunione relativa al caso.
+
+<sup>2</sup> Rende le persone interessate attente al loro obbligo di discrezione e alle conseguenze dell'inosservanza di tale obbligo. Le persone non soggette al segreto d'ufficio devono confermare mediante la loro firma l'osservanza dell'obbligo del segreto.
+
+<sup>3</sup> Il servizio specializzato GCM mette a verbale i risultati della riunione relativa al caso.
+
+<sup>4</sup> Può delegare la direzione della riunione relativa al caso a un'altra autorità.
 
 ## 8. Disposizioni finali
 

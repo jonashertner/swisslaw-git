@@ -4,13 +4,13 @@ number: "613.100"
 title: Ordinaziun da polizia
 short: OPol
 language: rm
-version: 2014-01-01
-corrected: 2015-03-24
-version_adopted: 2014-01-14
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-12-16
 adopted: 2005-06-21
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/613.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2236/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3616/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2236/pdf_file"
 
 (OPol)
 
-dals 21-06-2005 (versiun dals 01-01-2014)
+dals 21-06-2005 (versiun dals 01-01-2026)
 
 sa basond sin l'art. 39 da la lescha da polizia dal chantun Grischun dals 20 d'october 2004[^ingress-1]
 
@@ -53,9 +53,9 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>1</sup> La cumandanta u il cumandant da polizia fixescha in stab directiv da polizia sco organ consultativ.
 
-<sup>2</sup> Las duas substitutas respectivamain ils dus substituts da la cumandanta u dal cumandant da polizia vegnan recrutads or da las persunas ch'èn suttamessas directamain.
+<sup>2</sup> …
 
-<sup>3</sup> Per garantir permanentamain il commando da polizia incarichescha la cumandanta u il cumandant da polizia uffizieras u uffiziers da pichet.
+<sup>3</sup> Per garantir permanentamain il commando da polizia incarichescha la cumandanta u il cumandant da polizia uffizieras u uffiziers da pichet. Sch'in privel resulta dal retard, decida l'uffiziera u l'uffizier da pichet davart mesiras tenor il chapitel 5a.
 
 #### Art. 4
 
@@ -114,7 +114,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>2</sup> Per survegnir ils grads da la truppa valan las suandantas premissas:
 
-- a) polizista u polizist scola da polizia reussida cun certificat professiunal federal
+- a) polizista u polizist instrucziun da polizia reussida cun certificat professiunal federal
 - b) appuntà 3 onns da servetsch sco er examen dal stgalim da consolidaziun reussì
 - c) corporal 6 onns da servetsch
 - d) …
@@ -122,7 +122,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>3</sup> …
 
-<sup>4</sup> L'onn da la scola da polizia na vala betg sco onn da servetsch en il senn da las prescripziuns da promoziun.
+<sup>4</sup> L'emprim onn da l'instrucziun da polizia na vala betg sco onn da servetsch en il senn da las prescripziuns da promoziun.
 
 #### Art. 8a
 
@@ -132,7 +132,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>2</sup> Ils grads da cader èn – cun resalva d'in examen da spezialista e da spezialist – betg liads ad onns da servetsch u a grads da la truppa tenor l'artitgel 8.
 
-<sup>3</sup> Cun bandunar ina funcziun da cader crodan davent ils dretgs da purtar il grad correspundent e la classa da funcziun correspundenta.
+<sup>3</sup> Cun bandunar ina funcziun da cader crodan davent ils dretgs da purtar il grad correspundent e la classa da funcziun correspundenta. Decisivs èn sulettamain ils onns da servetsch.
 
 #### Art. 9
 
@@ -198,7 +198,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>1</sup> Commembras e commembers dal corp vegnan armads, equipads e reequipads en moda cunvegnenta.
 
-<sup>2</sup> Tgi che dispona d'unifurmas persunalas suffizientas e confurmas al temp, survegn – empè da las parts da l'unifurma ch'ella u el fiss autorisà da retrair – ina indemnisaziun per la vestgadira da circa 30 pertschient dals custs d'acquisiziun.
+<sup>2</sup> Tgi che dispona d'unifurmas persunalas suffizientas e confurmas al temp, po survegnir – empè da las parts da l'unifurma ch'ella u el fiss autorisà da retrair – ina indemnisaziun per la vestgadira da circa 30 pertschient dals custs d'acquisiziun.
 
 <sup>3</sup> Parts da l'unifurma e l'arma da servetsch pon vegnir surlaschadas a las collavuraturas ed als collavuraturs, cur ch'ellas u ch'els sortan dal corp da polizia.
 
@@ -228,6 +228,32 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>1</sup> Las premissas per vegnir admess sco aspiranta u sco aspirant en ina scola da polizia sco er la procedura da recrutaziun vegnan fixadas da la regenza.
 
+#### Art. 20a
+
+**Instrucziun da polizia**
+
+<sup>1</sup> L'instrucziun da polizista u polizist dura 2 onns.
+
+#### Art. 20b
+
+**Emprim onn da l'instrucziun da polizia**
+
+<sup>1</sup> L'emprim onn da l'instrucziun da polizia vegn absolvì en ina scola tenor l'artitgel 19, cumplettà cun in praticum d'introducziun e terminà cun l'examen davart la capacitad d'intervenziun (ECI).
+
+<sup>2</sup> Durant il praticum d'introducziun n'è l'aspiranta u l'aspirant betg autorisà d'agir independentamain sco polizista u polizist. Resalvà resta il diever d'armas da fieu en cas da defensiun legitima u d'agid a la defensiun legitima. L'aspiranta u l'aspirant sto da tut temp vegnir accumpagnà d'ina polizista scolada u d'in polizist scolà.
+
+<sup>3</sup> Per l'emprim onn da l'instrucziun da polizia vegn fatg in contract d'instrucziun ch'è limità ad 1 onn.
+
+#### Art. 20c
+
+**Segund onn da l'instrucziun da polizia**
+
+<sup>1</sup> Il segund onn da l'instrucziun da polizia cumpiglia in praticum en il corp da polizia. Quel vegn terminà cun l'examen professiunal federal.
+
+<sup>2</sup> Durant il praticum è la polizista u il polizist autorisà d'agir independentamain sco polizista u polizist.
+
+<sup>3</sup> Cun la polizista u il polizist che absolva il praticum vegn fatg in contract da lavur illimità.
+
 #### Art. 21
 
 **Restituziun dals custs da scolaziun**
@@ -236,9 +262,9 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>2</sup> La restituziun importa tar l'extrada:
 
-- a) durant la scola da polizia fin a la terminaziun dal servetsch pratic 5000 francs
-- b) alura fin a la terminaziun da la scola da polizia 25 000 francs
-- c) entaifer il 1. onn da servetsch 35 000 francs
+- a) durant l'emprim onn da l'instrucziun da polizia fin al praticum d'introducziun 8000 francs
+- b) alura fin a l'examen davart la capacitad d'intervenziun (ECI) 25 000 francs
+- c) l'emprim onn da servetsch sco polizista u polizist en il praticum 35 000 francs
 - d) entaifer il 2. onn da servetsch 27 500 francs
 - e) entaifer il 3. onn da servetsch 20 000 francs
 - f) entaifer il 4. onn da servetsch 10 000 francs
@@ -255,7 +281,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 **Entrada en il corp**
 
-<sup>1</sup> Candidatas e candidats betg incorporads pon vegnir recepids en il corp da polizia, sch'ellas ed els han fatg ina scolaziun ch'è cumparegliabla cun la scola da polizia e disponan dal certificat professiunal federal sco polizista u sco polizist u sch'ellas ed els han enconuschientschas spezialas en in champ specific.
+<sup>1</sup> Candidatas e candidats betg incorporads pon vegnir recepids en il corp da polizia suenter avair absolvì cun success l'assessment, sch'ellas ed els disponan dal certificat professiunal federal sco polizista u polizist u sch'ellas ed els han enconuschientschas spezialas en in champ specific.
 
 #### Art. 24
 
@@ -269,7 +295,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 **Empermischun**
 
-<sup>1</sup> Avant che cumenzar cun il servetsch pratic durant la scolaziun survegnan las aspirantas ed ils aspirants l'ordinaziun da la cumandanta u dal cumandant da polizia d'ademplir conscienziusamain las obligaziuns da servetsch, da star tar la vardad en tut las indicaziuns da servetsch e da restar discrets en chaussas da servetsch.
+<sup>1</sup> Avant che cumenzar cun il praticum d'introducziun durant l'emprim onn da l'instrucziun da polizia survegnan las aspirantas ed ils aspirants l'ordinaziun da la cumandanta u dal cumandant da polizia d'ademplir conscienziusamain las obligaziuns da servetsch, da star tar la vardad en tut las indicaziuns da servetsch e da restar discrets en chaussas da servetsch.
 
 <sup>2</sup> Las collavuraturas ed ils collavuraturs che vegnan admess da nov en il corp ston far la suandanta empermischun davant la cumandanta u davant il cumandant da polizia: «Jau empermet da respectar la constituziun e las leschas, da far obedientscha a la regenza dal chantun sco er a las superiuras ed als superiurs, d'ademplir mias obligaziuns senza resguard da la persuna, senza ma laschar corrumper e tenor meglier savair e pudair, da ma tegnair strictamain a la vardad, da resguardar e da proteger ils dretgs da las burgaisas e dals burgais, da restar discreta / discret davart funcziuns e davart percepziuns da servetsch e d'impunder tut mia forza per liquidar mias incumbensas.»
 
@@ -297,9 +323,11 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 #### Art. 29
 
-**Chastis e cumpetenza penala**
+**Mesiras disciplinaras**
 
-<sup>1</sup> Suenter avair sclerì ils fatgs e tadlà la persuna pertutgada, po la cumandanta u il cumandant da polizia pronunziar reprimandas a bucca ed en scrit sco chasti disciplinar u disponer ina translocaziun disciplinara.
+<sup>1</sup> Suenter avair sclerì ils fatgs e suenter avair tadlà la persuna pertutgada, po la cumandanta u il cumandant da polizia pronunziar reprimandas a bucca ed en scrit sco chasti disciplinar u disponer ina translocaziun disciplinara.
+
+<sup>2</sup> En cas d'ina translocaziun disciplinara n'exista nagin dretg sin indemnisaziun da las expensas.
 
 #### Art. 30
 
@@ -327,49 +355,159 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 [^32-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
 
+#### Art. 32a
+
+**Servetsch d'infurmaziun**
+
+<sup>1</sup> La cumandanta u il cumandant da polizia exequescha la surveglianza ierarchica en il senn da l'artitgel 82 da la lescha federala davart il servetsch d'infurmaziun[^32a-1].
+
+[^32a-1]: CS [121](https://db.clex.ch/link/Bund/121/rm)
+
+#### Art. 32b
+
+**Management da smanatschas 1. cunvegna da prestaziun**
+
+<sup>1</sup> Per ademplir sias incumbensas en il rom dal management da smanatschas, po la Polizia chantunala concluder cunvegnas da prestaziun cun terzs.
+
+#### Art. 32c
+
+**2. Post spezialisà MCS**
+
+<sup>1</sup> Il Post spezialisà MCS maina il management da smanatschas.
+
+#### Art. 32d
+
+**3. gremi spezialisà MCS**
+
+<sup>1</sup> Il gremi spezialisà gida il Post spezialisà MCS ad installar ed a sviluppar vinavant il management da smanatschas. El vegn manà dal Post spezialisà MCS.
+
+<sup>2</sup> Al gremi spezialisà appartegna mintgamai ina commembra u in commember da las suandantas autoritads:
+
+- a) da la Polizia chantunala;
+- b) da la Procura publica;
+- c) da l'Autoritad per la protecziun d'uffants e da creschids;
+- d) da l'Uffizi per l'execuziun giudiziala;
+- e) da l'Uffizi da migraziun e da dretg civil;
+- f) da l'Uffizi chantunal dal servetsch social;
+- g) dals Servetschs psichiatrics dal Grischun.
+
+<sup>3</sup> Las commembras ed ils commembers vegnan mintgamai designads da las autoritads respectivas.
+
+<sup>4</sup> Il gremi spezialisà po consultar ulteriuras persunas.
+
+## 5a. Mesiras
+
 #### Art. 33
 
-**Mesiras da polizia 1. uffiziera u uffizier da pichet**
+**Cumpetenza 1. mesiras polizialas**
 
-<sup>1</sup> Davart las suandantas mesiras da polizia decida l'uffiziera u l'uffizier da pichet:
+<sup>1</sup> Davart las suandantas mesiras da la lescha da polizia[^33-1] decida in'uffiziera u in uffizier da polizia:
 
-- a) fermar tenor l'artitgel 9 alinea 4 da la lescha da polizia[^33-1];
-- b) fermanza da polizia tenor l'artitgel 15 da la lescha da polizia;
-- c) intervenziun tar violenza a chasa tenor l'artitgel 16 da la lescha da polizia e tenor l'artitgel 28b alinea 4 dal cudesch civil svizzer[^33-2];
-- d) perquirir localitads betg publicas tenor l'artitgel 20 da la lescha da polizia;
-- e) diever da meds tecnics en il sectur secret tenor l'artitgel 22 alinea 2 da la lescha da polizia;
-- f) survegliar la correspundenza per posta ed il traffic da telecommunicaziun ordaifer proceduras penalas;
-- g) prolungar l'arrestaziun provisorica en cas da surpassaments tenor l'artitgel 219 alinea 5 dal cudesch da procedura penala[^33-3].
+- a) fermar tenor l'artitgel 9 alinea 4;
+- a<sup>bis</sup>) exclusiun tenor l'artitgel 12a;
+- b) fermanza da polizia tenor l'artitgel 15;
+- c) mesiras spezialas cunter violenza, smanatschas u persecuziuns tenor l'artitgel 16;
+- d) perquirir localitads betg publicas tenor l'artitgel 20;
+- e) …
+- f) survegliar la correspundenza per posta ed il traffic da telecommunicaziun ordaifer proceduras penalas tenor l'artitgel 22d.
+- g) …
+
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 [^33-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
-[^33-2]: CS [210](https://db.clex.ch/link/Bund/210/rm)
-[^33-3]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
 
 #### Art. 33a
 
-**2. cumandanta u cumandant da polizia**
+**2. mesiras dal Concordat davart las mesiras cunter la violenza a chaschun d'occurrenzas da sport**
 
-<sup>1</sup> Davart las suandantas mesiras da polizia dal concordat davart las mesiras cunter la violenza a chaschun d'occurrenzas da sport decida la cumandanta u il cumandant da polizia:
+<sup>1</sup> La cumandanta u il cumandant da polizia è l'autoritad cumpetenta tenor ils artitgels 3a e 3b alinea 2 dal concordat davart las mesiras cunter la violenza a chaschun d'occurrenzas da sport[^33a-1].
 
-- a) scumond d'entrar en in areal tenor ils artitgels 4 e 5 dal concordat;
-- b) obligaziun da sa preschentar a la polizia tenor ils artitgels 6 e 7 dal concordat;
-- c) fermanza da polizia tenor ils artitgels 8 e 9 dal concordat.
+- a) …
+- b) …
+- c) …
 
-<sup>2</sup> Cunter areals scumandads e cunter obligaziuns da sa preschentar a la polizia poi vegnir fatg recurs administrativ.
+<sup>2</sup> …
 
-<sup>3</sup> Cunter la fermanza da polizia poi vegnir fatg recurs da dretg administrativ.
+<sup>3</sup> …
+
+<sup>4</sup> Davart las suandantas mesiras polizialas dal concordat davart las mesiras cunter la violenza a chaschun d'occurrenzas da sport decida in'uffiziera u in uffizier da polizia:
+
+- a) scumond d'entrar en in areal tenor l'artitgel 4 e l'artitgel 5 dal concordat;
+- b) obligaziun da sa preschentar a la polizia tenor l'artitgel 6 e l'artitgel 7 dal concordat;
+- c) fermanza da polizia tenor l'artitgel 8 e l'artitgel 9 dal concordat.
+
+[^33a-1]: DG [613.180](https://www.gr-lex.gr.ch/data/613.180/rm)
 
 #### Art. 33b
 
+**3. mesiras dal Cudesch da procedura penala**
+
 <sup>1</sup> La polizia chantunala fixescha, tge polizistas e tge polizists che dastgan interrogar perditgas per incumbensa da la procura publica.
+
+<sup>2</sup> Davart las suandantas mesiras repressivas dal cudesch da procedura penala[^33b-1] decida in'uffiziera u in uffizier da polizia:
+
+- a) prolungaziun da l'arrestaziun provisorica en cas da surpassaments tenor l'artitgel 219 alinea 5;
+- b) observaziun tenor l'artitgel 282 alinea 1;
+- c) retschertga secreta tenor l'artitgel 298b alinea 1.
+
+[^33b-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+
+#### Art. 33c
+
+**Communicaziun**
+
+<sup>1</sup> La Polizia chantunala communitgescha mesiras cunter violenza, smanatschas u persecuziuns a las suandantas autoritads:
+
+- a) a l'Autoritad per la protecziun d'uffants e da creschids, sche persunas minorennas èn pertutgadas u sche mesiras da la protecziun da creschids vegnan en dumonda;
+- b) a l'Uffizi da migraziun e da dretg civil, sche mesiras dal dretg da persunas estras u dal dretg d'asil vegnan en dumonda;
+- c) a las autoritads da scola, sche quai è necessari per proteger uffants e giuvenils ch'èn obligads d'ir a scola;
+- d) als organs da polizia d'auters chantuns, sche quai è necessari per exequir las mesiras ordinadas.
 
 #### Art. 34
 
-**Indemnisaziun da custs**
+**…**
 
-<sup>1</sup> Las taxas per las prestaziuns da la polizia chantunala vegnan regladas en in'ordinaziun da taxas[^34-1] separada.
+#### Art. 34a
 
-[^34-1]: DG [613.140](https://www.gr-lex.gr.ch/data/613.140/rm)
+**Surveglianza visuala e sonora senza l'identificaziun da persunas**
+
+<sup>1</sup> La polizia chantunala po survegliar lieus generalmain accessibels en moda visuala e sonora, sch'i na vegnan betg registradas uschia datas da persunas.
+
+#### Art. 34b
+
+**Surveglianza secreta da lieus generalmain accessibels**
+
+<sup>1</sup> Mesiras en il senn da l'artitgel 22a da la lescha da polizia[^34b-1] vegnan ordinadas per identifitgar malfatgs u delinquentas e delinquents.
+
+[^34b-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
+
+#### Art. 34c
+
+**Procuraziun d'infurmaziuns e surveglianza relativas a l'acziun**
+
+<sup>1</sup> Mesiras en il senn da l'artitgel 22c da la lescha da polizia[^34c-1] vegnan ordinadas da la manadra u dal manader da l'acziun.
+
+[^34c-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
+
+#### Art. 34d
+
+**Apparats da registraziun purtads vi dal corp (bodycams) 1. utilisaziun**
+
+<sup>1</sup> Bodycams pon vegnir utilisadas en lieus generalmain accessibels, sch'igl è probabel che la polizia prenda mesiras repressivas, perquai ch'igl èn gia vegnids commess malfatgs u perquai ch'igl è da far quint cun tals.
+
+<sup>2</sup> La registraziun cuntegna il pledentar la persuna pertutgada e las mesiras prendidas.
+
+<sup>3</sup> Sche las circumstanzas permettan quai, sto la registraziun vegnir annunziada a la persuna pertutgada. Er la persuna pertutgada po pretender la registraziun.
+
+#### Art. 34e
+
+**2. designaziun e stizzada**
+
+<sup>1</sup> Per las persunas pertutgadas ston las cameras che las polizistas ed ils polizists portan sco er las registraziuns che vegnan fatgas esser percorschiblas.
+
+<sup>2</sup> Suenter 30 dis vegn la registraziun stizzada automaticamain.
 
 ## 6. Incumbensas da las vischnancas
 
@@ -379,17 +517,35 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>1</sup> Sch'ils organs da la polizia communala adempleschan lur incumbensa en unifurma, ston els absolver il curs davart las multas disciplinaras tar la polizia chantunala sco er ina scolaziun davart la signalisaziun manuala dal traffic tar in corp communal da polizia pli grond.
 
-<sup>2</sup> Sch'il servetsch vegn fatg cun arma, basegna quai la scolaziun da polizista u da polizist cun certificat professiunal federal.
+<sup>2</sup> Per in servetsch armà u per prender mesiras tenor l'artitgel 3 alinea 1<sup>ter</sup> da la lescha da polizia[^35-1] dovri la scolaziun da polizista u da polizist cun certificat professiunal federal.
 
-<sup>3</sup> I valan las medemas disposiziuns transitoricas sco tar l'introducziun da l'examen professiunal federal[^35-1].
+<sup>3</sup> I valan las medemas disposiziuns transitoricas sco tar l'introducziun da l'examen professiunal federal[^35-2].
 
-[^35-1]: art. 30 dal reglament dal ISP davart l'examen professiunal per la polizista/per il polizist, approvà dal DFE
+[^35-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
+[^35-2]: art. 30 dal reglament dal ISP davart l'examen professiunal per la polizista/per il polizist, approvà dal DFE
 
 #### Art. 36
 
 **Designaziun da la polizia communala**
 
 <sup>1</sup> Organs da la polizia communala ston vegnir designads sco tals e ston sa differenziar cleramain da la polizia chantunala areguard l'inscripziun da vehichels ed areguard l'unifurma. Davart excepziuns decida la cumandanta u il cumandant da polizia.
+
+#### Art. 36a
+
+**Procedura da multas disciplinaras**
+
+<sup>1</sup> Las multas disciplinaras tenor l'artitgel 36k da la lescha da polizia[^36a-1] importan per:
+
+- a) la periclitaziun tras fieus artifizials (art. 36c LPol): 150.– francs;
+- b) in cumportament malonest, disturbi da la quietezza (art. 36g LPol): 100.– francs;
+- c) tartagnar proprietad estra (art. 36h al. 1 LPol): 100.– francs;
+- d) batlegiar (art. 36j LPol): 50.– francs.
+
+<sup>2</sup> Las vischnancas surpiglian ils custs per realisar questa procedura da multas disciplinaras.
+
+<sup>3</sup> Las multas incassadas vegnan assegnadas a la cassa communala.
+
+[^36a-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
 
 ## 7. Elavuraziun da datas da persunas
 
@@ -407,23 +563,11 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 #### Art. 38
 
-**Retschertga da datas**
-
-<sup>1</sup> Per ademplir sia incumbensa legala po la polizia chantunala retschertgar u acceptar infurmaziuns e datas da funtaunas avertas, privatas ed uffizialas.
-
-<sup>2</sup> Ella po acceptar u dumandar en la procedura d'invista datas d'autoritads da polizia, d'autoritads da persecuziun penala e d'autoritads administrativas estras, federalas e chantunalas.
-
-<sup>3</sup> En la procedura d'invista pon uffizis chantunals e communals u autoritads chantunalas e communalas sco er persunas privatas cun obligaziun d'annunzia render accessiblas datas ch'èn relevantas per la polizia chantunala.
+**…**
 
 #### Art. 39
 
-**Datas davart persunas ch'èn prontas d'utilisar violenza**
-
-<sup>1</sup> Datas davart persunas ch'èn prontas d'utilisar violenza tenor l'artitgel 28 da la lescha da polizia[^39-1] vegnan elavuradas, sch'igl exista in suspect d'in act chastiabel.
-
-<sup>2</sup> L'examinaziun da la prontezza d'utilisar violenza succeda tras la polizia giudiziala.
-
-[^39-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
+**…**
 
 #### Art. 40
 
@@ -431,13 +575,11 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>1</sup> Las collavuraturas ed ils collavuraturs da la polizia chantunala han access a las datas, uschenavant che quai è necessari per ademplir las incumbensas da la polizia giudiziala u da la polizia da segirezza.
 
+<sup>2</sup> Access a sistems da l'elavuraziun da datas vegnan protocollads.
+
 #### Art. 41
 
-**Conservaziun ed extincziun da datas**
-
-<sup>1</sup> Datas da la polizia da segirezza ston vegnir extinguidas, sch'i na pervegnan entaifer trais onns naginas enconuschientschas ch'èn relevantas per la segirezza.
-
-<sup>2</sup> Datas da la polizia administrativa n'èn betg suttamessas a termins d'extincziun.
+**…**
 
 #### Art. 42
 
@@ -461,7 +603,29 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>2</sup> La polizia chantunala è responsabla per conservar e per tgirar las datas. Ella prenda las mesiras necessarias per proteger las datas cunter access nunautorisà e cunter perdita.
 
-<sup>3</sup> La polizia chantunala nominescha ina incumbensada u in incumbensà per la protecziun da datas.
+<sup>3</sup> …
+
+#### Art. 43a
+
+**Management da smanatschas 1. sistem d'elavuraziun da datas**
+
+<sup>1</sup> La Polizia chantunala elavura las datas dal management da smanatschas en in agen sistem d'elavuraziun da datas.
+
+<sup>2</sup> Access a quest sistem d'elavuraziun da datas survegnan mo las persunas che dovran questas infurmaziuns per ademplir las incumbensas polizialas delegadas ad ellas. La cumandanta u il cumandant da polizia definescha il dretg d'access tenor la rolla.
+
+<sup>3</sup> Sch'i na vegn betg avert in cas, vegnan las datas destruidas il pli tard suenter 5 onns. En ils auters cas ston las datas vegnir destruidas il pli tard 10 onns suenter la terminaziun dal cas.
+
+#### Art. 43b
+
+**2. conferenza da cas**
+
+<sup>1</sup> Il Post spezialisà MCS designescha las autoritads, las persunas spezialisadas e las organisaziuns privatas che participeschan ad ina conferenza da cas.
+
+<sup>2</sup> El renda attent las persunas participadas a lur obligaziun da discreziun ed a las consequenzas da l'inobservanza. Persunas che n'èn betg suttamessas al secret d'uffizi, ston confermar cun lur suttascripziun, ch'ellas observian l'obligaziun da discreziun.
+
+<sup>3</sup> Il Post spezialisà MCS protocollescha ils resultats da la conferenza da cas.
+
+<sup>4</sup> El po surdar ad in'autra autoritad l'incumbensa da manar la conferenza da cas.
 
 ## 8. Disposiziuns finalas
 
