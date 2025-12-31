@@ -4,13 +4,13 @@ number: "980"
 title: "Gesetz über das Gastgewerbe, den Handel mit alkoholischen Getränken und die Fasnacht"
 short: "Gastgewerbegesetz, GaG"
 language: de
-version: 2010-09-01
-valid_until: 2025-12-31
-version_adopted: 2010-09-01
+version: 2026-01-01
+valid_until: 2026-09-26
+version_adopted: 2025-10-20
 adopted: 1997-09-15
 in_force: 1998-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/980"
-pdf: "https://srl.lu.ch/api/de/versions/2627/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4641/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2627/pdf_file"
 
 (Gastgewerbegesetz, GaG)
 
-vom 15.09.1997 (Stand 01.09.2010)
+vom 15.09.1997 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -274,6 +274,10 @@ beschliesst:
 <sup>1</sup> Wer einen bewilligungspflichtigen Beherbergungsbetrieb führt, hat eine wahrheitsgetreue Gästekontrolle zu führen.
 
 <sup>2</sup> Der Meldeschein ist den Polizeiorganen zur Verfügung zu stellen.
+
+<sup>3</sup> Zur Erhebung der Daten können die Beherbergenden eine elektronische Plattform verwenden. Der Regierungsrat kann die Verwendung der Plattform zur Erhebung der Tourismusabgaben für die Datenerhebung des Meldescheines für obligatorisch erklären. Der Kanton beteiligt sich mit Mitteln aus der kantonalen Beherbergungsabgabe nach dem Gesetz über Abgaben und Beiträge im Tourismus (Tourismusgesetz) vom 30. Januar 1996[^20-1] an den Kosten für Errichtung und Betrieb der elektronischen Plattform.
+
+[^20-1]: SRL Nr. [650](https://srl.lu.ch/data/650/de)
 
 #### § 21
 
