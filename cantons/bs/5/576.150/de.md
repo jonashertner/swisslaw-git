@@ -4,13 +4,12 @@ number: "576.150"
 title: Verordnung über den Zivilschutz
 short: VZS
 language: de
-version: 2023-09-01
-valid_until: 2025-12-31
-version_adopted: 2023-08-22
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2023-08-22
 in_force: 2023-09-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/576.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6027/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Zivilschutz · Katastrophenhilfe
 
 (VZS)
 
-Vom 22. August 2023 (Stand 1. September 2023)
+Vom 22. August 2023 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -101,7 +100,7 @@ beschliesst:
 
 **Ersatzbeitrag nicht erstellte Schutzplätze**
 
-<sup>1</sup> Der Ersatzbeitrag pro nicht erstellten Schutzplatz beträgt Fr. 800.
+<sup>1</sup> Der Ersatzbeitrag pro nicht erstellten Schutzplatz beträgt Fr. 1'400.
 
 #### § 10
 
