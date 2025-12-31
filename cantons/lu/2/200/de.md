@@ -4,13 +4,12 @@ number: "200"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGZGB
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-09-09
+version: 2026-01-01
+version_adopted: 2025-06-16
 adopted: 2000-11-20
 in_force: 2002-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/200"
-pdf: "https://srl.lu.ch/api/de/versions/3867/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4831/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3867/pdf_file"
 
 (EGZGB)
 
-vom 20.11.2000 (Stand 01.01.2022)
+vom 20.11.2000 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -135,9 +134,9 @@ beschliesst:
 - k. Begehren um Vollzug von Schenkungsauflagen, die im Interesse der Gemeinde liegen (Art. 246 Abs. 2 OR).
 - l. Erteilung und Widerruf der Bewilligungen für Pflegekinder in Familienpflege (Art. 316 ZGB und Art. 4 und 11 der Verordnung über die Aufnahme von Kindern zur Pflege und zur Adoption vom 19. Oktober 1977, PAVO[^8-1]),
 - m. Entgegennahme der Meldungen über die Aufnahme von Pflegekindern in Tagespflege (Art. 12 PAVO),
-- n. Erteilung und Widerruf der Bewilligungen zur Führung von Kinderkrippen, Kinderhorten und dergleichen (Art. 13 Abs. 1b PAVO),
+- n. …
 - o. Bezeichnung der Aufsichtsperson (Art. 10 PAVO),
-- p. Aufsicht über die Familien- und die Tagespflege, die Kinderkrippen, Kinderhorte und dergleichen (Art. 10, 12 Abs. 2 und 19 PAVO).
+- p. Aufsicht über die Familien- und die Tagespflege (Art. 10 und 12 Abs. 2 PAVO).
 
 <sup>2</sup> Der Gemeinderat kann die Erfüllung der Aufgaben gemäss Absatz 1l–p auch einer geeigneten Stelle ausserhalb der Gemeindeverwaltung übertragen.
 
@@ -838,7 +837,9 @@ beschliesst:
 
 <sup>2</sup> Er erlässt ein Kinder- und Jugendleitbild. Dieses enthält insbesondere einen Überblick über die Kinder- und Jugendpolitik des Bundes und des Kantons und zeigt den Entwicklungs- und Handlungsbedarf sowie die Schwerpunkte der kantonalen Kinder- und Jugendpolitik auf.
 
-<sup>3</sup> Die Bereitstellung von Angeboten für Kinder und Jugendliche, wie solche der frühen Förderung und der familienergänzenden Kinderbetreuung, ist Sache der Gemeinden. Die Gemeinden erheben den Bedarf und bestimmen die Art der Angebote. Sie können mit Privaten und anderen Gemeinwesen zusammenarbeiten. Sie regeln die Kostenbeteiligung der Eltern unter Berücksichtigung sozialer Aspekte.
+<sup>3</sup> Die Bereitstellung von Angeboten für Kinder und Jugendliche, wie solche der frühen Förderung und der familienergänzenden Kinderbetreuung, ist Sache der Gemeinden. Die Gemeinden erheben den Bedarf und bestimmen die Art der Angebote. Sie können mit Privaten und anderen Gemeinwesen zusammenarbeiten. Sie regeln die Kostenbeteiligung der Eltern unter Berücksichtigung sozialer Aspekte für die nicht vom Gesetz zur familienergänzenden Kinderbetreuung (Kinderbetreuungsgesetz, KiBeG) vom 16. Juni 2025[^60-1] erfassten Angebote.
+
+[^60-1]: SRL Nr. [887](https://srl.lu.ch/data/887/de)
 
 #### § 61
 
