@@ -4,13 +4,12 @@ number: "836.1"
 title: Gesetz über die Familienzulagen
 short: FZG
 language: de
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-12-13
+version: 2026-01-01
+version_adopted: 2025-11-14
 adopted: 1990-09-26
 in_force: 1991-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/836.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6353/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Familienzulagen – G
 
 (FZG)
 
-vom 26.09.1990 (Fassung in Kraft getreten am 01.01.2020)
+vom 26.09.1990 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -131,9 +130,21 @@ beschliesst:
 
 #### Art. 10
 
-**Allgemeine Bestimmungen – Auskunftspflicht**
+**Allgemeine Bestimmungen – Auskunftspflicht und Geheimhaltungspflicht**
 
-<sup>1</sup> Der Bezugsberechtigte hat jede wichtige Änderung zu melden, die einen Einfluss auf den Anspruch auf Familienzulagen haben kann.
+<sup>1</sup> Wer Versicherungsleistungen beantragt oder bereits bezieht, muss unentgeltlich alle Auskünfte erteilen, die zur Abklärung des Anspruchs, zur Festsetzung der Versicherungsleistungen und zur Durchsetzung des Regressanspruchs erforderlich sind.
+
+<sup>2</sup> Jede wesentliche Änderung in den für eine Leistung massgebenden Verhältnissen ist von der oder dem Bezugsberechtigten oder von Dritten, denen die Leistung zukommt, dem zuständigen Organ zu melden.
+
+<sup>3</sup> Die mit der Anwendung dieses Gesetzes beauftragten Organe sind gegenüber Dritten zur Geheimhaltung ihrer Feststellungen verpflichtet.
+
+#### Art. 10a
+
+**Allgemeine Bestimmungen – Amtshilfe**
+
+<sup>1</sup> Die Verwaltungs- und Gerichtsbehörden der Kantone und der Gemeinden, die Arbeitgebenden und jede öffentliche oder private Institution sind verpflichtet, den mit der Anwendung dieses Gesetzes beauftragten Organen die notwendigen Auskünfte zur Prüfung des Anspruchs auf Familienzulagen unentgeltlich bereitzustellen.
+
+<sup>2</sup> Im Rahmen von Zulagen für nichterwerbstätige Personen in bescheidenen Verhältnissen kann die Ausgleichskasse mit einem Abrufverfahren auf die Daten der Kantonalen Steuerverwaltung über die Einkommens- und Vermögensverhältnisse zugreifen, die für die Berechnung des anrechenbaren Einkommens der Gesuchstellerin oder des Gesuchstellers erforderlich sind; dabei hält sie sich an die Regeln des Datenschutzes. Sie kann diese Daten auch benutzen, um im Sinne von Artikel 14 die Rückerstattung der Leistungen einzufordern.
 
 #### Art. 11
 
@@ -163,7 +174,7 @@ beschliesst:
 
 <sup>1</sup> Unrechtmässig bezogene Zulagen sind zurückzuerstatten. Hätte dies eine grosse Härte zur Folge, so kann bei gutem Glauben auf die Rückforderung verzichtet werden.
 
-<sup>2</sup> Der Rückforderungsanspruch verjährt mit Ablauf des Jahres, nachdem die Ausgleichskasse davon Kenntnis erhalten hat, spätestens aber mit Ablauf von 5 Jahren seit der Auszahlung der Zulagen. Wird der Rückforderungsanspruch aus einer strafbaren Handlung hergeleitet, für welche das Strafrecht eine längere Verjährungsfrist festsetzt, so ist diese Frist massgebend.
+<sup>2</sup> Der Rückforderungsanspruch erlischt drei Jahre, nachdem die Versicherungseinrichtung davon Kenntnis erhalten hat, spätestens aber fünf Jahre seit der Auszahlung der Leistung. Wird der Rückerstattungsanspruch aus einer strafbaren Handlung hergeleitet, für welche das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese Frist massgebend.
 
 #### Art. 15
 

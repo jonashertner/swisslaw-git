@@ -4,13 +4,12 @@ number: "836.1"
 title: Loi sur les allocations familiales
 short: LAFC
 language: fr
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-12-13
+version: 2026-01-01
+version_adopted: 2025-11-14
 adopted: 1990-09-26
 in_force: 1991-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/836.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6353/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8366/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Allocations familiales – L
 
 (LAFC)
 
-du 26.09.1990 (version entrée en vigueur le 01.01.2020)
+du 26.09.1990 (version entrée en vigueur le 01.01.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -131,9 +130,21 @@ Décrète:
 
 #### Art. 10
 
-**Dispositions générales – Obligation de renseigner**
+**Dispositions générales – Obligation de renseigner et de garder le secret**
 
-<sup>1</sup> L'ayant droit doit communiquer toute modification importante de nature à influencer le droit aux allocations familiales.
+<sup>1</sup> La personne qui sollicite des prestations ou qui en bénéficie déjà fournit gratuitement tous les renseignements nécessaires pour établir ce droit, fixer les prestations dues et faire valoir les prétentions récursoires.
+
+<sup>2</sup> L'ayant droit ou les tiers auxquels une prestation est versée sont tenus de communiquer à l'organe compétent toute modification importante des circonstances déterminantes pour l'octroi d'une prestation.
+
+<sup>3</sup> Les organes chargés de l'application de la présente loi sont tenus de garder à l'égard des tiers le secret sur leurs constatations.
+
+#### Art. 10a
+
+**Dispositions générales – Assistance administrative**
+
+<sup>1</sup> Les autorités administratives et judiciaires des cantons et des communes, les employeurs et toutes les institutions publiques ou privées ont l'obligation de fournir gratuitement les renseignements nécessaires à l'examen du droit aux allocations familiales aux organes chargés de l'application de la présente loi.
+
+<sup>2</sup> Dans le cadre des allocations pour personnes sans activité lucrative de condition modeste, la Caisse de compensation peut accéder, par une procédure d'appel, aux données du Service cantonal des contributions relatives aux conditions de revenu et de fortune nécessaires au calcul du revenu déterminant des requérants, dans le respect des règles découlant de la protection des données. Elle peut également utiliser ces données pour réclamer la restitution des prestations au sens de l'article 14.
 
 #### Art. 11
 
@@ -163,7 +174,7 @@ Décrète:
 
 <sup>1</sup> Les allocations indûment touchées doivent être restituées. La restitution peut ne pas être demandée, lorsque l'ayant droit était de bonne foi et serait mis par elle dans une situation difficile.
 
-<sup>2</sup> Le droit de demander la restitution se prescrit par une année à compter du moment où la caisse de compensation a eu connaissance du fait, mais au plus tard par cinq ans après le paiement des allocations. Si le droit de demander la restitution naît d'un acte punissable pour lequel la loi pénale prévoit un délai de prescription plus long, ce délai est alors déterminant.
+<sup>2</sup> Le droit de demander la restitution s'éteint trois ans après le moment où l'institution d'assurance a eu connaissance du fait, mais au plus tard cinq ans après le versement de la prestation. Si la créance naît d'un acte punissable pour lequel le droit pénal prévoit un délai de prescription plus long, celui-ci est déterminant.
 
 #### Art. 15
 
