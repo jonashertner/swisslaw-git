@@ -1,24 +1,23 @@
 ---
 canton: BS
 number: BaB 153.110
-title: Ausführungsbestimmungen zur Geschäftsordnung des Bürgerrates der Stadt Basel.
+title: Ausführungsbestimmungen zur Geschäftsordnung des Bürgerrates der Stadt Basel
 language: de
-version: 2011-09-06
-valid_until: 2025-12-31
-version_adopted: 1986-09-09
+version: 2026-01-01
+version_adopted: 2025-03-25
 adopted: 1986-09-09
 in_force: 1986-11-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20153.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5523/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6703/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsbestimmungen zur Geschäftsordnung des Bürgerrates der Stadt Basel.
+# Ausführungsbestimmungen zur Geschäftsordnung des Bürgerrates der Stadt Basel
 
 Bürgerrat: Ausführungsbestimmungen zur Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 6. September 2011)
+Vom 9. September 1986 (Stand 1. Januar 2026)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -84,6 +83,18 @@ erlässt in Ausführung von § 37 der Geschäftsordnung des Bürgerrates vom 9. 
 <sup>4</sup> Der Bürgerrat kann einem Mitglied für einen Spezialauftrag, den er diesem erteilt hat, eine Entschädigung zusprechen.
 
 <sup>5</sup> Der Bürgerrat erlässt eine Regelung für eine angemessene Spesenentschädigung für die Mitglieder des Bürgerrates.
+
+#### § 6a
+
+**Offenlegung der Interessenbindungen, Umfang**
+
+<sup>1</sup> Die Mitglieder des Bürgerrats machen Angaben zu:
+
+- a) ihrer beruflichen Tätigkeit;
+- b) Tätigkeiten in Führungs- und Aufsichtsgremien in in- und ausländischen Unternehmungen, Körperschaften, Genossenschaften, Anstalten und Stiftungen des privaten und öffentlichen Rechts;
+- c) Tätigkeiten in Kommissionen oder anderen Organen des Staates (Bund, Kanton, Gemeinde), sofern die Wahl nicht durch den Bürgerrat oder den Bürgergemeinderat erfolgt.
+
+<sup>2</sup> Die Bürgerratsschreiberin oder der Bürgerratsschreiber führt aufgrund der Angaben ein Verzeichnis und aktualisiert dieses laufend.
 
 ## II. Kommissionen
 
