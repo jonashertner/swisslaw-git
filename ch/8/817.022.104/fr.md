@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires dest
 short: OBNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: fr
-version: 2025-08-14
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250814/fr/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250814-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-180-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/fr"
 
 (OBNP)
 
-du 16 décembre 2016 (État le 14 août 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -851,11 +851,9 @@ L’ordonnance du DFI du 23 novembre 2005 sur les aliments spéciaux[^42-1] est 
 
 #### Art. 43a
 
-**Disposition transitoire de la modification du 8 décembre 2023**[^43a-1]
+[^43a-1]
 
-Les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers qui ne sont pas conformes à la modification du 8 décembre 2023 de la présente ordonnance peuvent encore être fabriquées, importées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025. Elles peuvent encore être remises au consommateur selon l’ancien droit jusqu’à épuisement des stocks.
-
-[^43a-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^43a-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 #### Art. 43b
 
@@ -864,6 +862,14 @@ Les denrées alimentaires destinées aux personnes ayant des besoins nutritionne
 Les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers qui ne sont pas conformes à la modification du 2 juin 2025 de la présente ordonnance peuvent encore être fabriquées, importées et étiquetées selon l’ancien droit jusqu’au 30 juin 2026. Elles peuvent encore être remises au consommateur selon l’ancien droit jusqu’à épuisement des stocks.
 
 [^43b-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
+
+#### Art. 43c
+
+**Disposition transitoire de la modification du 26 novembre 2025**[^43c-1]
+
+Les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers qui ne sont pas conformes à la modification du 26 novembre 2025 de la présente ordonnance peuvent encore être fabriquées, importées et étiquetées selon l’ancien droit jusqu’au 31 décembre 2026. Elles peuvent encore être remises au consommateur selon l’ancien droit jusqu’à épuisement des stocks.
+
+[^43c-1]: Introduit par le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 #### Art. 44
 
@@ -885,7 +891,7 @@ Annexe 1[^t-1]
 
 ## Substances et composés
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 9 juin 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 9 juin 2023 ([RO 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023 ([RO 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 <table>
 <tr><th>Substances</th><th>Composés</th><th colspan="4">Catégories de denrées alimentaires</th><th></th><th></th><th></th><th></th></tr>
@@ -897,6 +903,7 @@ Annexe 1[^t-1]
 <tr><td>Biotine</td><td>D-biotine</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Folates</td><td>Acide folique ou acide ptéroylmonoglutamique</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>L-méthylfolate de calcium</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Sel monosodique de l’acide L-5-méthyltétrahydrofolique[^annex1-lvlu1-1]</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Niacine</td><td>Acide nicotinique</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Chlorure de nicotinamide riboside</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Nicotinamide</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -926,7 +933,7 @@ Annexe 1[^t-1]
 <tr><td></td><td>DL-α-tocophérol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Succinate acide de D-α-tocophérol</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Succinate de D-α-tocophéryl-polyéthylèneglycol 1000 (TPGS)</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
-<tr><td>Vitamine K</td><td>Ménaquinone[^annex1-lvlu1-1]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamine K</td><td>Ménaquinone[^annex1-lvlu1-2]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Phylloquinone ou phytoménadione</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Sels minéraux</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
 <tr><td>Bore</td><td>Acide borique</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1011,7 +1018,7 @@ Annexe 1[^t-1]
 <tr><td></td><td>Lactate de potassium</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Sels potassiques de l’acide orthophosphorique</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Sélénium</td><td>Hydrogénosélénite de sodium</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
-<tr><td></td><td>Levure enrichie en sélénium[^annex1-lvlu1-2]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Levure enrichie en sélénium[^annex1-lvlu1-3]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Sélénate de sodium</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Sélénite de sodium</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Sodium</td><td>Bicarbonate de sodium</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1032,7 +1039,7 @@ Annexe 1[^t-1]
 <tr><td></td><td>Oxyde de zinc</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Sulfate de zinc</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Acides aminés</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>Acides aminés[^annex1-lvlu1-3]</td><td>Cystine[^annex1-lvlu1-4]</td><td>x et ses chlorhydrates</td><td>x et ses chlorhydrates</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Acides aminés[^annex1-lvlu1-4]</td><td>Cystine[^annex1-lvlu1-5]</td><td>x et ses chlorhydrates</td><td>x et ses chlorhydrates</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Glycine</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
 <tr><td></td><td>L-acide aspartique</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
 <tr><td></td><td>L-acide glutamique</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1082,10 +1089,11 @@ Annexe 1[^t-1]
 <tr><td></td><td>Sels de sodium du GMP</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: La ménaquinone se présente principalement sous la forme de ménaquinone-7 et, dans une moindre mesure, de ménaquinone-6.
-[^annex1-lvlu1-2]: Levures enrichies en sélénium produites par culture en présence de sélénite de sodium comme source de sélénium et dont la teneur en sélénium, sous la forme déshydratée telle que commercialisée, est de 2,5 mg/g au plus. L’espèce prédominante de sélénium organique présente dans la levure est la sélénométhionine, qui constitue entre 60 et 85 % de la totalité du sélénium extrait dans le produit. La teneur en autres composés contenant du sélénium organique, notamment la sélénocystéine, ne peut dépasser 10 % du total du sélénium extrait. Les teneurs en sélénium inorganique n’excèdent normalement pas 1 % du total du sélénium extrait.
-[^annex1-lvlu1-3]: Pour les acides aminés utilisés dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés, seul le chlorhydrate expressément mentionné peut être utilisé. Pour les acides aminés utilisés dans les denrées alimentaires destinées à des fins médicales spéciales et dans les substituts de la ration journalière totale pour contrôle du poids, s’il y a lieu, le sodium, le calcium, le potassium et les sels de magnésium ainsi que leurs chlorhydrates peuvent être utilisés.
-[^annex1-lvlu1-4]: Seule la forme L-cystine peut être utilisée dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés.
+[^annex1-lvlu1-1]: Tel que figurant sur la liste de l’Union des nouveaux aliments établie par le règlement d’exécution (UE) 2017/2470 de la Commission du 20 décembre 2017 établissant la liste de l’Union des nouveaux aliments conformément au règlement (UE) 2015/2283 du Parlement européen et du Conseil relatif aux nouveaux aliments, JO L 351 du 30.12.2017, p. 72; modifié en dernier lieu par le règlement d’exécution (UE) 2024/1037, JO L, 2024/1037, 10.4.2024.
+[^annex1-lvlu1-2]: La ménaquinone se présente principalement sous la forme de ménaquinone-7 et, dans une moindre mesure, de ménaquinone-6.
+[^annex1-lvlu1-3]: Levures enrichies en sélénium produites par culture en présence de sélénite de sodium comme source de sélénium et dont la teneur en sélénium, sous la forme déshydratée telle que commercialisée, est de 2,5 mg/g au plus. L’espèce prédominante de sélénium organique présente dans la levure est la sélénométhionine, qui constitue entre 60 et 85 % de la totalité du sélénium extrait dans le produit. La teneur en autres composés contenant du sélénium organique, notamment la sélénocystéine, ne peut dépasser 10 % du total du sélénium extrait. Les teneurs en sélénium inorganique n’excèdent normalement pas 1 % du total du sélénium extrait.
+[^annex1-lvlu1-4]: Pour les acides aminés utilisés dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés, seul le chlorhydrate expressément mentionné peut être utilisé. Pour les acides aminés utilisés dans les denrées alimentaires destinées à des fins médicales spéciales et dans les substituts de la ration journalière totale pour contrôle du poids, s’il y a lieu, le sodium, le calcium, le potassium et les sels de magnésium ainsi que leurs chlorhydrates peuvent être utilisés.
+[^annex1-lvlu1-5]: Seule la forme L-cystine peut être utilisée dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés.
 
 Annexe 2[^t-2]
 
@@ -2342,7 +2350,7 @@ Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] 
 <tr><td></td><td>dont 10 mg tel qu’acide nicotinique et hexanicotinate d’inositol (somme)</td><td></td></tr>
 <tr><td>Riboflavine (Vitamine B<sub>2</sub>)</td><td>aucune</td><td></td></tr>
 <tr><td>Thiamine (Vitamine B<sub>1</sub>)</td><td>aucune</td><td></td></tr>
-<tr><td>Vitamine A</td><td>1360 μg[^annex11-lvlu1-2] (correspondant à 8,2 mg de β-carotène)</td><td>Uniquement comme β-carotène</td></tr>
+<tr><td>Vitamine A</td><td>1360 µg[^annex11-lvlu1-2] (correspondant à 8,2 mg de β-carotène)</td><td>Uniquement comme β-carotène</td></tr>
 <tr><td>Vitamine B<sub>6</sub></td><td>15 mg</td><td></td></tr>
 <tr><td>Vitamine B<sub>12</sub></td><td>aucune</td><td></td></tr>
 <tr><td>Vitamine C</td><td>750 mg</td><td></td></tr>

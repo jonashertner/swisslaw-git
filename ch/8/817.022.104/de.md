@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel für Personen
 short: VLBE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: de
-version: 2025-08-14
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250814/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250814-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/de"
 
 (VLBE)
 
-vom 16. Dezember 2016 (Stand am 14. August 2025)
+vom 16. Dezember 2016 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -172,7 +172,7 @@ Zulässig sind zudem:
 Nicht zulässig sind:
 
 - a. das Kennzeichnen von Säuglingsanfangsnahrung in einer Weise, die vom Stillen abhalten könnte;
-- b. Bilder von Säuglingen, andere Bilder oder eine Wortlaut, die den Gebrauch dieser Nahrung idealisieren könnten;
+- b. Bilder von Säuglingen, andere Bilder oder Wortlaute, die den Gebrauch dieser Nahrung idealisieren könnten;
 - c. die Verwendung von Begriffen wie «humanisiert», «maternisiert» oder «adaptiert».
 
 <sup>6</sup> Die Kennzeichnung muss gewährleisten, dass Säuglingsanfangsnahrung eindeutig von Folgenahrungen unterschieden werden kann und jede Verwechslungsgefahr ausgeschlossen ist, insbesondere durch Text, Bilder und verwendete Farben.
@@ -848,11 +848,9 @@ Die Verordnung des EDI vom 23. November 2005[^42-1] über Speziallebensmittel wi
 
 #### Art. 43a
 
-**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^43a-1]
+[^43a-1]
 
-Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung vom 8. Dezember 2023 dieser Verordnung nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht hergestellt, eingeführt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
-
-[^43a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^43a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 #### Art. 43b
 
@@ -861,6 +859,14 @@ Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung v
 Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung vom 2. Juni 2025 dieser Verordnung nicht entsprechen, dürfen noch bis zum 30. Juni 2026 nach bisherigem Recht hergestellt, eingeführt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
 
 [^43b-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
+
+#### Art. 43c
+
+**Übergangsbestimmung zur Änderung vom 26. November 2025**[^43c-1]
+
+Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung vom 26. November 2025 dieser Verordnung nicht entsprechen, dürfen noch bis zum 31. Dezember 2026 nach bisherigem Recht hergestellt, eingeführt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^43c-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 #### Art. 44
 
@@ -882,7 +888,7 @@ Anhang 1[^t-1]
 
 ## Stoffe und Verbindungen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 9. Juni 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) und Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 9. Juni 2023 ([AS 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023 ([AS 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)), Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)) und vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 <table>
 <tr><th>Stoffe</th><th>Verbindungen</th><th colspan="4">Lebensmittelkategorien</th><th></th><th></th><th></th><th></th></tr>
@@ -890,6 +896,7 @@ Anhang 1[^t-1]
 <tr><td>Vitamine</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
 <tr><td>Biotin</td><td>D-Biotin</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Folat</td><td>Calcium-L-methylfolat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Mononatriumsalz der L-5-Methyltetrahydrofolsäure[^annex1-lvlu1-1]</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Folsäure</td><td>Folsäure oder Pteroylmonoglutaminsäure</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Calcium-L-methylfolat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Niacin</td><td>Nicotinamid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -924,7 +931,7 @@ Anhang 1[^t-1]
 <tr><td></td><td>D-α-Tocopherylsäuresuccinat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>DL-α-Tocopherol</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>DL-α-Tocopherylacetat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
-<tr><td>Vitamin K</td><td>Menachinon[^annex1-lvlu1-1]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Vitamin K</td><td>Menachinon[^annex1-lvlu1-2]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Phyllochinon oder Phytomenadion</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Mineralstoffe</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
 <tr><td>Bor</td><td>Borsäure</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1019,7 +1026,7 @@ Anhang 1[^t-1]
 <tr><td>Selen</td><td>Natriumhydrogenselenit</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Natriumselenat</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Natriumselenit</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
-<tr><td></td><td>Selenangereicherte Hefe[^annex1-lvlu1-2]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td></td><td>Selenangereicherte Hefe[^annex1-lvlu1-3]</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Zink</td><td>Zinkacetat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Zinkbisglycinat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Zinkcarbonat</td><td></td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1030,7 +1037,7 @@ Anhang 1[^t-1]
 <tr><td></td><td>Zinkoxid</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Zinksulfat</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td>Aminosäuren</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>Aminosäuren[^annex1-lvlu1-3]</td><td>Cystin[^annex1-lvlu1-4]</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
+<tr><td>Aminosäuren[^annex1-lvlu1-4]</td><td>Cystin[^annex1-lvlu1-5]</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>Glycin</td><td></td><td></td><td>x</td><td></td><td colspan="4"></td></tr>
 <tr><td></td><td>L-Alanin</td><td></td><td>–</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 <tr><td></td><td>L-Arginin</td><td>x und sein Hydrochlorid</td><td>x und sein Hydrochlorid</td><td>x</td><td>x</td><td colspan="4">x</td></tr>
@@ -1080,10 +1087,11 @@ Anhang 1[^t-1]
 <tr><td></td><td>Uridin-5’-phophorsäure (UMP)</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="4">x</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Menachinon kommt in erster Linie als Menachinon-7 und in geringerem Masse als Menachinon-6 vor.
-[^annex1-lvlu1-2]: In Gegenwart von Natriumselenit als Selenquelle in Kultur gewonnene Selen-Hefen, die in handelsüblicher getrockneter Form nicht mehr als 2,5 mg Se/g enthalten. Die in der Hefe vorherrschende organische Selenart ist Selenmethionin (zwischen 60 und 85 Prozent des insgesamt im Produkt enthaltenen Selenextrakts). Der Gehalt an anderen organischen Selenverbindungen einschliesslich Selenocystein darf 10 Prozent des gesamten Selenextrakts nicht überschreiten. Der Gehalt an anorganischem Selen darf üblicherweise 1 Prozent des gesamten Selenextrakts nicht überschreiten.
-[^annex1-lvlu1-3]: Für Aminosäuren, die Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost zugesetzt werden, dürfen nur die ausdrücklich genannten Hydrochloride verwendet werden. Für Aminosäuren, die Lebensmitteln für besondere medizinische Zwecke und für Tagesrationen für gewichtskontrollierende Ernährung zugesetzt werden, dürfen gegebenenfalls auch die Natrium-, Kalium-, Calcium- und Magnesiumsalze sowie ihre Hydrochloride verwendet werden.
-[^annex1-lvlu1-4]: Im Falle der Verwendung in Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost darf Cystin nur in Form von L-Cystin zugesetzt werden.
+[^annex1-lvlu1-1]: Gemäss Liste der Union über neuartige Lebensmittel, erstellt durch die Durchführungsverordnung (EU) 2017/2470 der Kommission vom 20. Dezember 2017 zur Erstellung der Unionsliste der neuartigen Lebensmittel gemäss der Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates über neuartige Lebensmittel, ABl. L 351 vom 30.12.2017, S. 72; zuletzt geändert durch die Durchführungsverordnung (EU) 2024/1037, ABl. L, 2024/1037, 10.4.2024.
+[^annex1-lvlu1-2]: Menachinon kommt in erster Linie als Menachinon-7 und in geringerem Masse als Menachinon-6 vor.
+[^annex1-lvlu1-3]: In Gegenwart von Natriumselenit als Selenquelle in Kultur gewonnene Selen-Hefen, die in handelsüblicher getrockneter Form nicht mehr als 2,5 mg Se/g enthalten. Die in der Hefe vorherrschende organische Selenart ist Selenmethionin (zwischen 60 und 85 Prozent des insgesamt im Produkt enthaltenen Selenextrakts). Der Gehalt an anderen organischen Selenverbindungen einschliesslich Selenocystein darf 10 Prozent des gesamten Selenextrakts nicht überschreiten. Der Gehalt an anorganischem Selen darf üblicherweise 1 Prozent des gesamten Selenextrakts nicht überschreiten.
+[^annex1-lvlu1-4]: Für Aminosäuren, die Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost zugesetzt werden, dürfen nur die ausdrücklich genannten Hydrochloride verwendet werden. Für Aminosäuren, die Lebensmitteln für besondere medizinische Zwecke und für Tagesrationen für gewichtskontrollierende Ernährung zugesetzt werden, dürfen gegebenenfalls auch die Natrium-, Kalium-, Calcium- und Magnesiumsalze sowie ihre Hydrochloride verwendet werden.
+[^annex1-lvlu1-5]: Im Falle der Verwendung in Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost darf Cystin nur in Form von L-Cystin zugesetzt werden.
 
 Anhang 2[^t-2]
 

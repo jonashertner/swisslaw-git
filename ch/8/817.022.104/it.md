@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari destinate
 short: ODPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: it
-version: 2025-08-14
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20250814/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20250814-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20250814/it"
 
 (ODPPE)
 
-del 16 dicembre 2016 (Stato 14 agosto 2025)
+del 16 dicembre 2016 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -839,7 +839,7 @@ Per le derrate alimentari di cui all’articolo 37 lettera b, nel caso si faccia
 
 L’ordinanza del DFI del 23 novembre 2005[^42-1] sugli alimenti speciali è abrogata.
 
-[^42-1]: [[RU 2005 5953](https://fedlex.data.admin.ch/eli/oc/2005/797), [2006 4919](https://fedlex.data.admin.ch/eli/oc/2006/768), [2007 1065](https://fedlex.data.admin.ch/eli/oc/2007/179), [2008 961](https://fedlex.data.admin.ch/eli/oc/2008/197)[6035](https://fedlex.data.admin.ch/eli/oc/2008/835), [2009 1997](https://fedlex.data.admin.ch/eli/oc/2009/280), [2010 973](https://fedlex.data.admin.ch/eli/oc/2010/157)[4615](https://fedlex.data.admin.ch/eli/oc/2010/669), [2011 6253](https://fedlex.data.admin.ch/eli/oc/2011/877), [2013 4919](https://fedlex.data.admin.ch/eli/oc/2013/835), [2014 405](https://fedlex.data.admin.ch/eli/oc/2014/65)]
+[^42-1]: [[RU 2005 5953](https://fedlex.data.admin.ch/eli/oc/2005/797); [2006 4919](https://fedlex.data.admin.ch/eli/oc/2006/768); [2007 1065](https://fedlex.data.admin.ch/eli/oc/2007/179); [2008 961](https://fedlex.data.admin.ch/eli/oc/2008/197), [6035](https://fedlex.data.admin.ch/eli/oc/2008/835); [2009 1997](https://fedlex.data.admin.ch/eli/oc/2009/280); [2010 973](https://fedlex.data.admin.ch/eli/oc/2010/157), [4615](https://fedlex.data.admin.ch/eli/oc/2010/669); [2011 6253](https://fedlex.data.admin.ch/eli/oc/2011/877); [2013 4919](https://fedlex.data.admin.ch/eli/oc/2013/835); [2014 405](https://fedlex.data.admin.ch/eli/oc/2014/65)]
 
 #### Art. 43
 
@@ -851,11 +851,9 @@ L’ordinanza del DFI del 23 novembre 2005[^42-1] sugli alimenti speciali è abr
 
 #### Art. 43a
 
-**Disposizione transitoria della modifica dell’8 dicembre 2023**[^43a-1]
+[^43a-1]
 
-Le derrate alimentari destinate alle persone con particolari esigenze nutrizionali che non risultano conformi alla modifica dell’8 dicembre 2023 della presente ordinanza possono essere ancora fabbricate, importate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025. Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino a esaurimento delle scorte.
-
-[^43a-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)).
+[^43a-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 #### Art. 43b
 
@@ -864,6 +862,14 @@ Le derrate alimentari destinate alle persone con particolari esigenze nutriziona
 Le derrate alimentari destinate alle persone con particolari esigenze nutrizionali che non risultano conformi alla modifica del 2 giugno 2025 della presente ordinanza possono ancora essere fabbricate, importate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2026. Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino a esaurimento delle scorte.
 
 [^43b-1]: Introdotto dalla cifra I dell’O del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
+
+#### Art. 43c
+
+**Disposizione transitoria della modifica del 26 novembre 2025**[^43c-1]
+
+Le derrate alimentari destinate alle persone con particolari esigenze nutrizionali che non risultano conformi alla modifica del 26 novembre 2025 della presente ordinanza possono ancora essere fabbricate, importate e caratterizzate secondo il diritto anteriore sino al 31 dicembre 2026. Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino a esaurimento delle scorte.
+
+[^43c-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 #### Art. 44
 
@@ -885,7 +891,7 @@ Allegato 1[^t-1]
 
 ## Sostanze e composti
 
-[^t-1]: Nuovo testo giusta la cifra II n. 1 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)) e cifra II dell’O del DFI del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)).
+[^t-1]: Nuovo testo giusta la cifra II n. 1 dell’O del DFI del 9 giu. 2023 ([RU 2023 290](https://fedlex.data.admin.ch/eli/oc/2023/290)). Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 846](https://fedlex.data.admin.ch/eli/oc/2023/846)), dalla cifra II delle O dell’USAV del 2 giu. 2025 ([RU 2025 389](https://fedlex.data.admin.ch/eli/oc/2025/389)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 807](https://fedlex.data.admin.ch/eli/oc/2025/807)).
 
 <table>
 <tr><th>Sostanze</th><th>Composti</th><th colspan="5">Categorie alimentari</th><th></th><th></th><th></th><th></th></tr>
@@ -897,6 +903,7 @@ Allegato 1[^t-1]
 <tr><td>Biotina</td><td>D-Biotina</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Folato</td><td>Acido folico o acido pteroil-monoglutammico</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>L-metilfolato di calcio</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
+<tr><td></td><td>Sale monosodico dell’acido L-5-metiltetraidrofolico[^annex1-lvlu1-1]</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Niacina</td><td>Acido nicotinico</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Nicotinamide riboside cloruro</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Riboflavina</td><td>Riboflavina</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
@@ -926,7 +933,7 @@ Allegato 1[^t-1]
 <tr><td></td><td>Succinato di D-α-tocoferolo polietilene glicole 1000 (TPGS)</td><td></td><td></td><td>x</td><td></td><td colspan="5"></td></tr>
 <tr><td></td><td>DL-α-tocoferilacetato</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Vitamina K</td><td>Fillochinone o fitomenadione</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
-<tr><td></td><td>Menachinone[^annex1-lvlu1-1]</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
+<tr><td></td><td>Menachinone[^annex1-lvlu1-2]</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>**Sali minerali**</td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
 <tr><td>Boro</td><td>Acido borico</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Borato di sodio</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
@@ -1010,7 +1017,7 @@ Allegato 1[^t-1]
 <tr><td></td><td>Gluconato di rame</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Solfato di rame</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Selenio</td><td>Idrogenoselenito di sodio</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
-<tr><td></td><td>Lievito arricchito in selenio[^annex1-lvlu1-2]</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
+<tr><td></td><td>Lievito arricchito in selenio[^annex1-lvlu1-3]</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Selenato di sodio</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Selenito di sodio</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>Sodio</td><td>Bicarbonato di sodio</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
@@ -1031,7 +1038,7 @@ Allegato 1[^t-1]
 <tr><td></td><td>Ossido di zinco</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Solfato di zinco</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td>**Aminoacidi**</td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td></tr>
-<tr><td>Aminoacidi[^annex1-lvlu1-3]</td><td>Cistina[^annex1-lvlu1-4]</td><td>x e il suo cloridrato</td><td>x e il suo cloridrato</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
+<tr><td>Aminoacidi[^annex1-lvlu1-4]</td><td>Cistina[^annex1-lvlu1-5]</td><td>x e il suo cloridrato</td><td>x e il suo cloridrato</td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 <tr><td></td><td>Glicina</td><td></td><td></td><td>x</td><td></td><td colspan="5"></td></tr>
 <tr><td></td><td>L-acido aspartato</td><td></td><td></td><td>x</td><td></td><td colspan="5"></td></tr>
 <tr><td></td><td>L-acido glutammico</td><td></td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
@@ -1081,10 +1088,11 @@ Allegato 1[^t-1]
 <tr><td></td><td>Uridina-5’-monofosfato (UMP)</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="5">x</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Menachinone principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
-[^annex1-lvlu1-2]: Lieviti arricchiti in selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 per cento e l’85 per cento del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non supera il 10 per cento del tenore complessivo di selenio estratto. I livelli di selenio inorganico non possono superare normalmente l’1 per cento del tenore complessivo di selenio estratto.
-[^annex1-lvlu1-3]: Per gli aminoacidi aggiunti agli alimenti per lattanti, agli alimenti di proseguimento, agli alimenti a base di cereali e alle altre pappe di complemento possono essere utilizzati esclusivamente i cloridrati indicati espressamente. Per gli aminoacidi aggiunti agli alimenti a fini medici speciali e ai sostituti dell’intera razione alimentare giornaliera per il controllo del peso possono essere utilizzati eventualmente anche i sali di sodio, potassio, calcio e magnesio, come pure i loro cloridrati.
-[^annex1-lvlu1-4]: In caso di utilizzo negli alimenti per lattanti, negli alimenti di proseguimento, negli alimenti a base di cereali e negli altri alimenti per la prima infanzia, la cistina può essere utilizzata solo nella forma L-cistina.
+[^annex1-lvlu1-1]: Come indicato nell’elenco dell’Unione dei nuovi alimenti stabilito dal regolamento di esecuzione (UE) 2017/2470 della Commissione, del 20 dicembre 2017, che istituisce l’elenco dell’Unione dei nuovi alimenti a norma del regolamento (UE) 2015/2283 del Parlamento europeo e del Consiglio relativo ai nuovi alimenti, GU L 351 del 30.12.2017, pag. 72; modificato da ultimo dal regolamento di esecuzione (UE) 2024/1037, GU L, 2024/1037, 10.4.2024.
+[^annex1-lvlu1-2]: Menachinone principalmente sotto forma di menachinone-7 e, in minor misura, di menachinone-6.
+[^annex1-lvlu1-3]: Lieviti arricchiti in selenio prodotti in coltura in presenza di selenito di sodio quale fonte di selenio e contenenti, nella forma in polvere commercializzata, non più di 2,5 mg di selenio/g. La specie prevalente di selenio organico presente nel lievito è la selenometionina (tra il 60 per cento e l’85 per cento del tenore complessivo di selenio estratto del prodotto). Il tenore di altri composti organici del selenio, compresa la selenocisteina, non supera il 10 per cento del tenore complessivo di selenio estratto. I livelli di selenio inorganico non possono superare normalmente l’1 per cento del tenore complessivo di selenio estratto.
+[^annex1-lvlu1-4]: Per gli aminoacidi aggiunti agli alimenti per lattanti, agli alimenti di proseguimento, agli alimenti a base di cereali e alle altre pappe di complemento possono essere utilizzati esclusivamente i cloridrati indicati espressamente. Per gli aminoacidi aggiunti agli alimenti a fini medici speciali e ai sostituti dell’intera razione alimentare giornaliera per il controllo del peso possono essere utilizzati eventualmente anche i sali di sodio, potassio, calcio e magnesio, come pure i loro cloridrati.
+[^annex1-lvlu1-5]: In caso di utilizzo negli alimenti per lattanti, negli alimenti di proseguimento, negli alimenti a base di cereali e negli altri alimenti per la prima infanzia, la cistina può essere utilizzata solo nella forma L-cistina.
 
 Allegato 2[^t-2]
 
