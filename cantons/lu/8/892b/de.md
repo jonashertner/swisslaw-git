@@ -4,13 +4,12 @@ number: 892b
 title: Kantonale Asylverordnung
 short: KAsylV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-29
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892b"
-pdf: "https://srl.lu.ch/api/de/versions/4358/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4716/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4358/pdf_file"
 
 (KAsylV)
 
-vom 24.11.2015 (Stand 01.01.2025)
+vom 24.11.2015 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -268,14 +267,20 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Nothilfe gemäss § 55 des Sozialhilfegesetzes erhalten
+<sup>1</sup> Der Kanton gewährt folgenden Personen Nothilfe im Sinne von § 55 des Sozialhilfegesetzes, sofern diese hilfebedürftig sind und keinen Anspruch auf Sozialhilfe haben:
 
-- a. rechtskräftig weggewiesene Personen aus dem Asylbereich, denen eine Ausreisefrist angesetzt worden ist (Art. 82 Abs. 1 AsylG),
-- b. Personen gemäss Absatz 1a und Asylsuchende während der Dauer eines ausser-ordentlichen Rechtsmittelverfahrens oder eines Asylverfahrens nach Artikel 111c AsylG,
+- a. Personen, die ein Asylverfahren durchlaufen haben und einen rechtskräftigen negativen Entscheid oder einen rechtskräftigen Nichteintretensentscheid erhalten haben,
+- b. Personen, die ein Asylgesuch gestellt haben und einen Abschreibungsentscheid erhalten haben,
+- c. Personen, die ein erneutes Asylgesuch gestellt haben und bei denen noch unklar ist, welchem Kanton sie zugewiesen oder zugeteilt werden,
+- d. Personen, die im Kanton Luzern vorläufig aufgenommen wurden und nach einer zwischenzeitlichen Abmeldung ohne Angaben oder nach einem Untertauchen wieder in die Schweiz eingereist sind,
+- e. Personen, die ins Heimatland, in ein Drittland oder in ein Dublin-Land überführt wurden oder selbständig ausgereist sind und wieder einreisen und für die der Kanton Luzern zuständig bleibt,
+- f. Personen, die unter Absätze 1a bis 1e aufgeführt werden und die zusätzlich eine rechtskräftige obligatorische Landesverweisung erhalten.
 
 <sup>2</sup> Die Nothilfe wird nur auf Ersuchen hin gewährt. Zudem muss die gesuchstellende Person durch amtliche Dokumente oder allenfalls mit Hilfe der Daktyloskopie identifiziert sein. Von der Identifizierung kann nur abgesehen werden, wenn eine Person nicht handlungsfähig ist und sich in einer lebensbedrohlichen Situation befindet.
 
 <sup>3</sup> …
+
+<sup>4</sup> Bei einer Wiedereinreise gilt Absatz 1, sofern seit der ersten Einreise nicht mehr als 10 Jahre vergangen sind.
 
 #### § 19
 
@@ -307,9 +312,9 @@ beschliesst:
 
 **Gesuche**
 
-<sup>1</sup> Personen im Sinn von § 18 Absatz 1 haben das Gesuch um Nothilfe bei der zuständigen Dienststelle einzureichen.
+<sup>1</sup> Personen im Sinn von § 18 Absatz 1 haben das Gesuch um Nothilfe beim Amt für Migration einzureichen.
 
-<sup>2</sup> Das Gesundheits- und Sozialdepartement kann eine andere öffentliche oder private Stelle als zuständig bezeichnen.
+<sup>2</sup> …
 
 ## 5 Unterbringung
 
@@ -387,7 +392,7 @@ beschliesst:
 
 <sup>1</sup> Die auf dem Gemeindegebiet bereits untergebrachten Personen aus dem Asylbereich werden der Gemeinde zu 100 Prozent an die Anzahl der durch diese Gemeinde aufzunehmenden Personen aus dem Asylbereich angerechnet.
 
-<sup>2</sup> Die in Kollektivunterkünften des Kantons untergebrachten Personen aus dem Asylbereich werden der Gemeinde zu 75 Prozent angerechnet.
+<sup>2</sup> …
 
 #### § 29
 
