@@ -3,20 +3,20 @@ canton: SH
 number: "641.100"
 title: Gesetz über die direkten Steuern
 language: de
-version: 2025-01-01
-corrected: 2025-10-06
-version_adopted: 2025-05-05
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2025-12-15
 adopted: 2000-03-20
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1971/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2078/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die direkten Steuern
 
-Vom 20.03.2000 (Stand 01.01.2025)
+Vom 20.03.2000 (Stand 01.01.2026)
 
 Der Kantonsrat Schaffhausen,
 
@@ -110,13 +110,14 @@ beschliesst:
 
 <sup>1</sup> Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sind aufgrund wirtschaftlicher Zugehörigkeit steuerpflichtig, wenn sie:
 
-- a) im Kanton eine Erwerbstätigkeit ausüben
+- a) im Kanton eine selbstständige oder unselbstständige Erwerbstätigkeit ausüben
 - b) als Mitglieder der Verwaltung oder Geschäftsführung von juristischen Personen mit Sitz oder Betriebsstätte im Kanton Tantiemen, Sitzungsgelder, feste Entschädigungen, Mitarbeiterbeteiligungen oder ähnliche Vergütungen beziehen
 - c) Gläubiger bzw. Gläubigerinnen oder Nutzniesser bzw. Nutzniesserinnen von Forderungen sind, die durch Grund- oder Faustpfand auf Grundstücken im Kanton gesichert sind
 - d) im Kanton gelegene Grundstücke vermitteln oder damit handeln
 - e) Pensionen, Ruhegehälter oder andere Leistungen erhalten, die aufgrund eines früheren öffentlich-rechtlichen Arbeitsverhältnisses von einem Arbeitgeber bzw. einer Arbeitgeberin oder einer Vorsorgeeinrichtung mit Sitz im Kanton ausgerichtet werden
 - f) Leistungen aus schweizerischen privatrechtlichen Einrichtungen der beruflichen Vorsorge oder aus anerkannten Formen der gebundenen Selbstvorsorge mit Sitz oder Betriebsstätten im Kanton erhalten
-- g) für Arbeit im internationalen Verkehr an Bord eines Schiffes oder eines Luftfahrzeuges oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber bzw. einer Arbeitgeberin mit Sitz oder Betriebsstätte im Kanton erhalten; davon ausgenommen bleibt die Besteuerung der Seeleute für Arbeit an Bord eines Hochseeschiffes
+- g) für Arbeit im internationalen Verkehr an Bord eines Schiffs oder eines Luftfahrzeugs oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einer Arbeitgeberin oder einem Arbeitgeber mit Sitz, tatsächlicher Verwaltung oder Betriebsstätte im Kanton erhalten; davon ausgenommen bleibt die Besteuerung von Seeleuten für die Erwerbstätigkeit an Bord eines von einer solchen Arbeitgeberin oder einem solchen Arbeitgeber unter Schweizer Flagge betriebenen Seeschiffs
+- h) eine unselbstständige Erwerbstätigkeit für eine Arbeitgeberin oder einen Arbeitgeber mit Sitz, tatsächlicher Verwaltung oder Betriebsstätte im Kanton ausüben und der Schweiz nach dem anwendbaren internationalen Abkommen im Steuerbereich mit dem jeweiligen Nachbarstaat ein Besteuerungsrecht betreffend die im Ausland ausgeübte Erwerbstätigkeit eingeräumt wird.
 
 <sup>2</sup> Kommen die Vergütungen nicht den genannten Personen, sondern Dritten zu, so sind diese dafür steuerpflichtig.
 
@@ -812,7 +813,7 @@ beschliesst:
 
 <sup>2b</sup> …
 
-<sup>3</sup> Für Vermögen über Fr. 1'750'000.00 beträgt der Steuersatz einheitlich 2.3‰.
+<sup>3</sup> Massgebend für die Bestimmung des Steuersatzes ist das Gesamtvermögen der steuerpflichtigen Person, auch wenn nur ein Teil des Vermögens unter die Steuerhoheit des Kantons fällt.
 
 ### 1.2.4 Personalsteuer
 
@@ -887,11 +888,14 @@ beschliesst:
 - a) die Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften und Gesellschaften mit beschränkter Haftung) und Genossenschaften
 - b) die Vereine, Stiftungen und die übrigen juristischen Personen
 
-<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 KAG. Die Investementgesellschaften mit festem Kapital nach Art. 110 KAG werden wie Kapitalgesellschaften besteuert.
+<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 oder 118a KAG[^55-1]. Die Investementgesellschaften mit festem Kapital nach Art. 110 KAG[^55-2] werden wie Kapitalgesellschaften besteuert.
 
 <sup>3</sup> Ausländische juristische Personen sowie die gemäss Art. 12 steuerpflichtigen ausländischen Handelsgesellschaften und Personengesamtheiten werden jenen inländischen juristischen Personen gleichgestellt, denen sie nach ihrer rechtlichen Natur und tatsächlichen Gestalt am ähnlichsten sind.
 
 <sup>4</sup> Muss aus den besonderen Umständen des Einzelfalles geschlossen werden, dass durch die gewählte zivilrechtliche Form eine Steuerumgehung oder Steuerverschiebung erreicht wird, so erfolgt die Veranlagung ohne Berücksichtigung dieser Rechtsform.
+
+[^55-1]: SR [951.31](http://db.clex.ch/link/Bund/951.31/de).
+[^55-2]: SR [951.31](http://db.clex.ch/link/Bund/951.31/de).
 
 ### 1.3.1.2 Steuerliche Zugehörigkeit
 
@@ -1035,6 +1039,8 @@ beschliesst:
 - c) den der Erfolgsrechnung nicht gutgeschriebenen Erträgen, mit Einschluss der Kapital-, Aufwertungs- und Liquidationsgewinne, vorbehältlich Art. 71
 
 <sup>2</sup> Der steuerbare Reingewinn juristischer Personen, die keine Erfolgsrechnung erstellen, bestimmt sich sinngemäss nach Abs. 1.
+
+<sup>3</sup> Leistungen, welche gemischtwirtschaftliche, im öffentlichen Interesse tätige Unternehmen überwiegend an nahestehende Personen erbringen, sind zum jeweiligen Marktpreis, zu den jeweiligen Gestehungskosten zuzüglich eines angemessenen Aufschlages oder zum jeweiligen Endverkaufspreis abzüglich einer angemessenen Gewinnmarge zu bewerten; das Ergebnis eines jeden Unternehmens ist entsprechend zu berichtigen.
 
 #### Art. 65a
 
@@ -1480,9 +1486,16 @@ beschliesst:
 
 **Der Quellensteuer unterworfene Arbeitnehmer und Arbeitnehmerinnen**
 
-<sup>1</sup> Im Ausland wohnhafte Grenzgänger und Grenzgängerinnen, Wochenaufenthalter und Wochenaufenthalterinnen sowie Kurzaufenthalter und Kurzaufenthalterinnen unterliegen für ihr in der Schweiz erzieltes Einkommen aus unselbständiger Erwerbstätigkeit der Quellensteuer nach den Art. 92 und 93. Davon ausgenommen sind Einkommen, die der Besteuerung im vereinfachten Abrechnungsverfahren nach Art. 39b unterstehen.
+<sup>1</sup> Im Ausland wohnhafte Arbeitnehmerinnen und Arbeitnehmer unterliegen für ihr in der Schweiz erzieltes Einkommen aus unselbstständiger Erwerbstätigkeit der Quellensteuer nach den Art. 92 und 93.
 
-<sup>2</sup> Ebenfalls der Quellensteuer nach den Art. 92 und 93 unterliegen im Ausland wohnhafte Arbeitnehmer und Arbeitnehmerinnen, die für Arbeit im internationalen Verkehr an Bord eines Schiffes oder eines Luftfahrzeuges oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber oder einer Arbeitgeberin mit Sitz oder Betriebsstätte in der Schweiz erhalten; davon ausgenommen bleibt die Besteuerung der Seeleute für Arbeit an Bord eines Hochseeschiffes.
+<sup>2</sup> In einem Nachbarstaat wohnhafte Arbeitnehmerinnen und Arbeitnehmer unterliegen für ihr im Ausland erzieltes Einkommen aus unselbstständiger Erwerbstätigkeit für eine Arbeitgeberin oder einen Arbeitgeber mit Sitz, tatsächlicher Verwaltung oder Betriebsstätte in der Schweiz der Quellensteuer nach den Art. 92 und 93, sofern der Schweiz nach dem anwendbaren internationalen Abkommen im Steuerbereich mit dem jeweiligen Nachbarstaat ein Besteuerungsrecht betreffend die im Ausland ausgeübte Erwerbstätigkeit eingeräumt wird.
+
+<sup>3</sup> Ebenfalls der Quellensteuer nach den Art. 92 und 93 unterliegen im Ausland wohnhafte Arbeitnehmerinnen und Arbeitnehmer, die für Arbeit im internationalen Verkehr an Bord eines Schiffs oder eines Luftfahrzeugs oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einer Arbeitgeberin oder einem Arbeitgeber mit Sitz, tatsächlicher Verwaltung oder Betriebsstätte in der Schweiz erhalten.
+
+<sup>4</sup> Von der Quellensteuer ausgenommen bleiben Einkommen:
+
+- 1\. von Seeleuten aus unselbstständiger Erwerbstätigkeit an Bord eines von einer solchen Arbeitgeberin oder einem solchen Arbeitgeber unter Schweizer Flagge betriebenen Seeschiffs
+- 2\. die der Besteuerung im vereinfachten Abrechnungsverfahren nach Art. 39b unterstehen
 
 #### Art. 97
 
@@ -2118,6 +2131,8 @@ beschliesst:
 
 <sup>2</sup> Reicht die steuerpflichtige Person trotz Mahnung die nötigen Bescheinigungen nicht ein, so können diese von der Steuerbehörde von Dritten eingefordert werden. Das gesetzlich geschützte Berufsgeheimnis bleibt vorbehalten.
 
+<sup>3</sup> Bei einem unterjährigen Austritt muss die bisherige Arbeitgeberin oder der bisherige Arbeitgeber der Arbeitnehmerin oder dem Arbeitnehmer nach Art. 96 Abs. 1 und 2 im Zeitpunkt der Beendigung des Arbeitsverhältnisses auf deren oder dessen Verlangen eine Bescheinigung mit den relevanten Angaben über die unselbstständige Erwerbstätigkeit ausstellen, die für die Umsetzung des jeweiligen internationalen Abkommens im Steuerbereich erforderlich sind.
+
 ### 1.6.3.2.4 Auskunftspflicht Dritter und Erbberechtigter
 
 #### Art. 146
@@ -2136,6 +2151,7 @@ beschliesst:
 - b) Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge über die den Begünstigten erbrachten Leistungen
 - c) einfache Gesellschaften und Personengesellschaften über alle Verhältnisse, die für die Veranlagung der Beteiligten von Bedeutung sind, insbesondere über ihren Anteil an Einkommen und Vermögen der Gesellschaft
 - d) die Arbeitgeber über die geldwerten Vorteile aus echten Mitarbeiterbeteiligungen sowie über die Zuteilung und die Ausübung von Mitarbeiteroptionen
+- e) die Arbeitgeberinnen und Arbeitgeber über die Lohndaten zu Arbeitnehmerinnen und Arbeitnehmern nach Art. 96 Abs. 1 und 2, für die ein internationales Abkommen im Steuerbereich den automatischen Austausch von Informationen über diese Daten vorsieht
 
 <sup>2</sup> Den Steuerpflichtigen ist ein Doppel der Bescheinigung zuzustellen.
 
@@ -2398,6 +2414,18 @@ beschliesst:
 <sup>3</sup> Die vereinfachte Nachbesteuerung ist ausgeschlossen, wenn die Erbschaft amtlich oder konkursamtlich liquidiert wird.
 
 <sup>4</sup> Auch der Willensvollstrecker oder der Erbschaftsverwalter kann um eine vereinfachte Nachbesteuerung ersuchen.
+
+### 1.6.6a Inventar
+
+#### Art. 171b
+
+<sup>1</sup> Nach dem Tode einer steuerpflichtigen Person wird ein amtliches Inventar aufgenommen. Die Inventaraufnahme kann unterbleiben, wenn anzunehmen ist, dass kein Vermögen vorhanden ist.
+
+<sup>2</sup> In das Inventar wird das am Todestag bestehende Vermögen der Erblasserin oder des Erblassers, ihres respektive seines in ungetrennter Ehe lebenden Ehegatten und der unter ihrer oder seiner elterlichen Sorge stehenden minderjährigen Kinder aufgenommen.
+
+<sup>3</sup> Tatsachen, die für die Steuerveranlagung von Bedeutung sind, werden festgestellt und im Inventar vorgemerkt.
+
+<sup>4</sup> Für das Verfahren und die behördliche Zuständigkeit gelten die Bestimmungen zum Inventar bei der direkten Bundessteuer.
 
 ### 1.6.7 Bezug und Sicherung der Steuer
 
@@ -3073,11 +3101,11 @@ beschliesst:
 
 **Lastenausgleich für Gemeinden**
 
-<sup>1</sup> Die Gemeinden erhalten während 10 Jahren seit dem Inkrafttreten der Änderung vom 1. Juli 2019 45 Prozent des Kantonsanteils an der direkten Bundessteuer der juristischen Personen, der sich aus dessen Erhöhung von 17 auf 21.2 Prozent ergibt.
+<sup>1</sup> Die Gemeinden erhalten ab dem Inkrafttreten der Änderung vom 1. Juli 2019 bis und mit 2024 45 Prozent und in den Jahren 2025 bis 2029 52 Prozent des Kantonsanteils an der direkten Bundessteuer der juristischen Personen, der sich aus dessen Erhöhung von 17 auf 21.2 Prozent ergibt.
 
 <sup>2</sup> Die Beteiligung nach Abs. 1 wird den Gemeinden entsprechend ihrem Anteil an den Mindereinnahmen zugeteilt. Massgebend für die Berechnung des Anteils einer Gemeinde an den Mindereinnahmen sind die durchschnittlichen ordentlichen Gemeindesteuereinnahmen der juristischen Personen während der letzten fünf Jahre vor dem Inkrafttreten der Änderung vom 1. Juli 2019 im Vergleich zum jeweiligen Steuerjahr nach deren Inkrafttreten.
 
-<sup>3</sup> Sind die Mindereinnahmen der Gemeinden nach Abs. 2 ausgeglichen, wird ein allfälliger Überschuss nach Abs. 1 im Verhältnis der Gemeindesteuereinnahmen der juristischen Personen des jeweiligen Jahres unter den Gemeinden aufgeteilt.
+<sup>3</sup> Sind die Mindereinnahmen der Gemeinden nach Abs. 2 ausgeglichen, wird ein allfälliger Überschuss nach Abs. 1 ab Inkrafttreten der Änderung vom 1. Juli 2019 bis und mit 2024 im Verhältnis der Gemeindesteuereinnahmen der juristischen Personen des jeweiligen Jahres und in den Jahren 2025 bis 2029 52 Prozent im Verhältnis der Einwohnerzahl unter den Gemeinden aufgeteilt. Für die Einwohnerzahl ist die Statistik des zuständingen Departementes masgebend.
 
 <sup>4</sup> Der Regierungsrat unterbreitet dem Kantonsrat vor Ablauf der Frist nach Abs. 1 Bericht und Antrag über die weitere Beteiligung der Gemeinden am Kantonsanteil an der direkten Bundessteuer der juristischen Personen.
 
