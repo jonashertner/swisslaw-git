@@ -1,24 +1,23 @@
 ---
 canton: FR
 number: "122.72.31"
-title: "Ordonnance concernant la fixation des échelles de traitement du personnel de l'Etat pour l'année 2025"
+title: "Ordonnance concernant la fixation des échelles de traitements du personnel de l'Etat pour l'année 2026"
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8107/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8323/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant la fixation des échelles de traitement du personnel de l'Etat pour l'année 2025
+# Ordonnance concernant la fixation des échelles de traitements du personnel de l'Etat pour l'année 2026
 
 Personnel de l'Etat, échelles de traitements – O
 
-du 10.12.2024 (version entrée en vigueur le 01.01.2025)
+du 09.12.2025 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -26,7 +25,13 @@ Vu l'article 81 de la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers);
 
 Considérant:
 
-Dans le cadre du budget 2025, le Conseil d'Etat a décidé de ne pas adapter les salaires au renchérissement. Par conséquent, les échelles de traitement valables pour l'année 2024 sont maintenues pour l'année 2025.
+Dans le cadre des travaux relatifs à la loi sur l'assainissement des finances de l'État (LAFE), il était prévu que, pour les années 2026 et 2027, le Conseil d'État ne soit pas tenu de procéder à l'indexation des salaires tant que l'indice de référence des prix à la consommation n'avait pas atteint 117 points (base mai 2000 = 100 points).
+
+Le dépôt d'un référendum contre la LAFE ayant empêché son entrée en vigueur, les dispositions actuellement en vigueur de la LPers et du RPers demeurent applicables.
+
+En vertu de ces dispositions, l'Etat-employeur n'est pas tenu d'adapter les salaires au renchérissement lorsque la situation financière ne le permet pas.
+
+Par conséquent, les échelles de traitements applicables pour l'année 2025 sont reconduites à l'identique pour l'année 2026.
 
 Sur la proposition de la Direction des finances,
 
@@ -34,15 +39,17 @@ Arrête:
 
 #### Art. 1
 
-**Adaptation des échelles de traitement**
+**Adaptation des échelles de traitements**
 
-<sup>1</sup> Les échelles de traitement valables pour l'année 2024 sont maintenues pour l'année 2025.
+<sup>1</sup> L'échelle générale des traitements et l'échelle spéciale des traitements du personnel de l'Etat (échelles de traitements) sont maintenues au niveau de l'indice de novembre 2023, soit 114,2 points (base mai 2000 = 100 pts).
+
+<sup>2</sup> Les échelles de traitements valables pour l'année 2025 sont maintenues pour l'année 2026.
 
 #### Art. 2
 
-**Echelle générale au 1<sup>er</sup> janvier 2025**
+**Echelle générale au 1<sup>er</sup> janvier 2026**
 
-<sup>1</sup> L'échelle générale déterminante pour la fixation du traitement de base du personnel de l'Etat au 1<sup>er</sup> janvier 2025 est consignée dans le tableau suivant:
+<sup>1</sup> L'échelle générale déterminante pour la fixation du traitement de base du personnel de l'Etat au 1<sup>er</sup> janvier 2026 est consignée dans le tableau suivant:
 
 <table>
 <tr><th>Echelle</th><th>Minimum en Fr.</th><th>Minimum en Fr. (y c. 13<sup>e</sup> salaire)</th><th>Maximum en Fr.</th><th>Maximum en Fr. (y c. 13<sup>e</sup> salaire)</th></tr>
@@ -88,9 +95,9 @@ Arrête:
 
 #### Art. 3
 
-**Echelle spéciale au 1<sup>er</sup> janvier 2025**
+**Echelle spéciale au 1<sup>er</sup> janvier 2026**
 
-<sup>1</sup> L'échelle spéciale déterminante pour la fixation du traitement de base de certaines catégories de personnel de l'Etat au 1<sup>er</sup> janvier 2025 est consignée dans le tableau suivant:
+<sup>1</sup> L'échelle spéciale déterminante pour la fixation du traitement de base de certaines catégories de personnel de l'Etat au 1<sup>er</sup> janvier 2026 est consignée dans le tableau suivant:
 
 <table>
 <tr><th>Echelle</th><th>Minimum en Fr.</th><th>Minimum en Fr. (y c. 13<sup>e</sup> salaire)</th><th>Maximum</th><th>Maximum en Fr. (y c. 13<sup>e</sup> salaire)</th></tr>
@@ -108,4 +115,4 @@ Arrête:
 
 <sup>1</sup> Lorsque l'Etat subventionne les charges salariales de certains secteurs, les subventions y relatives sont adaptées dans la même proportion que les traitements du personnel de l'Etat.
 
-2025\_001
+2025\_097

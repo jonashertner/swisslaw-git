@@ -1,24 +1,23 @@
 ---
 canton: FR
 number: "122.72.31"
-title: Verordnung über die Festsetzung der Lohnskalen des Staatspersonals für das Jahr 2025
+title: Verordnung über die Festsetzung der Lohnskalen des Staatspersonals für das Jahr 2026
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/8107/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Festsetzung der Lohnskalen des Staatspersonals für das Jahr 2025
+# Verordnung über die Festsetzung der Lohnskalen des Staatspersonals für das Jahr 2026
 
-Staatspersonal, Lohnskalen – V
+Personnel de l'Etat, échelles de traitements – O
 
-vom 10.12.2024 (Fassung in Kraft getreten am 01.01.2025)
+vom 09.12.2025 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -26,7 +25,13 @@ gestützt auf Artikel 81 des Gesetzes vom 17. Oktober 2001 über das Staatsperso
 
 in Erwägung:
 
-Der Staatsrat hat im Rahmen des Staatsvoranschlags 2025 beschlossen, die Löhne nicht an die Teuerung anzupassen. Damit werden die 2024 geltenden Lohnskalen 2025 unverändert beibehalten.
+Gemäss Gesetz zur Sanierung der Kantonsfinanzen (SKfG) wäre der Staatsrat in den Jahren 2026 und 2027 zu keiner Teuerungsanpassung der Löhne verpflichtet gewesen, solange der als Referenz dienende Konsumentenpreisindex 117 Punkte (Basis Mai 2000 = 100 Punkte) nicht erreicht hat.
+
+Da das SKfG nach der Einreichung eines Referendumsbegehrens nicht in Kraft gesetzt werden kann, bleiben die derzeit geltenden Bestimmungen des StPG und des StPR anwendbar.
+
+Nach diesen Bestimmungen muss der Arbeitgeber Staat die Löhne nicht an die Teuerung anpassen, wenn die finanzielle Situation dies nicht zulässt.
+
+Demzufolge werden die für 2025 geltenden Lohnskalen für 2026 unverändert beibehalten.
 
 Auf Antrag der Finanzdirektion,
 
@@ -36,13 +41,15 @@ beschliesst:
 
 **Anpassung der Lohnskalen**
 
-<sup>1</sup> Die 2024 geltenden Lohnskalen werden 2025 unverändert beibehalten.
+<sup>1</sup> Die allgemeine Lohnskala und die Sonderlohnskala (Lohnskalen) bleiben auf dem Stand nach dem Index von November 2023, also bei 114,2 Punkten (Mai 2000 = 100 Pkt.).
+
+<sup>2</sup> Die für 2025 geltenden Lohnskalen werden 2026 beibehalten.
 
 #### Art. 2
 
-**Allgemeine Lohnskala per 1. Januar 2025**
+**Allgemeine Lohnskala per 1. Januar 2026**
 
-<sup>1</sup> Für die Festsetzung des Grundlohns des Staatspersonals per 1. Januar 2025 gilt folgende allgemeine Lohnskala:
+<sup>1</sup> Für die Festsetzung des Grundlohns des Staatspersonals per 1. Januar 2026 gilt folgende allgemeine Lohnskala:
 
 <table>
 <tr><th>Klasse</th><th>Minimum in Fr.</th><th>Minimum in Fr. (einschl. 13. Monatslohn)</th><th>Maximum in Fr.</th><th>Maximum in Fr. (einschl. 13. Monatslohn)</th></tr>
@@ -84,13 +91,13 @@ beschliesst:
 <tr><td>36</td><td>148'999.20</td><td>161'415.80</td><td>210'147.00</td><td>227'659.25</td></tr>
 </table>
 
-<sup>2</sup> Die Lohnskala entspricht dem Landesindex der Konsumentenpreise von November 2023, d, h. 114,2 Punkten (Mai 2000 = 100 Punkte).
+<sup>2</sup> Die Lohnskala entspricht dem Landesindex der Konsumentenpreise von November 2023, also 114,2 Punkten (Mai 2000 = 100 Punkte).
 
 #### Art. 3
 
-**Sonderlohnskala per 1. Januar 2025**
+**Sonderlohnskala per 1. Januar 2026**
 
-<sup>1</sup> Für die Festsetzung des Grundlohns gewisser Personalkategorien per 1. Januar 2025 gilt folgende Sonderlohnskala:
+<sup>1</sup> Für die Festsetzung des Grundlohns gewisser Personalkategorien per 1. Januar 2026 gilt folgende Sonderlohnskala:
 
 <table>
 <tr><th>Klasse</th><th>Minimum in Fr.</th><th>Minimum in Fr. (einschl. 13. Monatslohn)</th><th>Maximum</th><th>Maximum in Fr. (einschl. 13. Monatslohn)</th></tr>
@@ -100,7 +107,7 @@ beschliesst:
 <tr><td>H04</td><td>172'132.80</td><td>186'477.20</td><td>239'419.20</td><td>259'370.80</td></tr>
 </table>
 
-<sup>2</sup> Die Lohnskala entspricht dem Landesindex der Konsumentenpreise von November 2023, d. h. 114,2 Punkten (Mai 2000 = 100 Punkte).
+<sup>2</sup> Die Lohnskala entspricht dem Landesindex der Konsumentenpreise von November 2023, also 114,2 Punkten (Mai 2000 = 100 Punkte).
 
 #### Art. 4
 
@@ -108,4 +115,4 @@ beschliesst:
 
 <sup>1</sup> Subventioniert der Staat die Lohnkosten gewisser Sektoren, so werden die entsprechenden Subventionen im gleichen Verhältnis wie die Löhne des Staatspersonals angepasst.
 
-2025\_001
+2025\_097
