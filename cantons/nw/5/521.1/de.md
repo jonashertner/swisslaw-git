@@ -4,13 +4,12 @@ number: "521.1"
 title: Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuergesetz, StG"
 language: de
-version: 2025-01-01
-corrected: 2025-01-13
-version_adopted: 2024-12-03
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2000-03-22
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1231/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1231/pdf_file"
 
 (Steuergesetz, StG)
 
-vom 22.03.2000 (Stand 01.01.2025)
+vom 22.03.2000 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -611,9 +610,9 @@ beschliesst:
   - a) für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben im jeweils geltenden Umfang von Art. 33 Abs. 1 lit. g Ziff. 1 des Bundesgesetzes über die direkte Bundessteuer (DBG)[^35-1];
   - b) für die übrigen Steuerpflichtigen im jeweils geltenden Umfang von Art. 33 Abs. 1 lit. g Ziff. 2 DBG;
   - c) für Steuerpflichtige ohne Beiträge gemäss den Ziff. 4 und 5 erhöhen sich diese Abzüge um die Hälfte. Diese Abzüge erhöhen sich für jedes Kind oder jede unterstützungsbedürftige Person, für die die steuerpflichtige Person einen Abzug nach Art. 39 Abs. 1 Ziff. 1 oder 4 geltend machen kann, im jeweils geltenden Umfang von Art. 33 Abs. 1<sup>bis</sup> lit. b DBG;
-- 8\. die nachgewiesenen Kosten, jedoch höchstens Fr. 8'100.–, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
-- 9\. die Einsatzkosten in der Höhe von 5 Prozent der einzelnen Gewinne aus der Teilnahme an Geldspielen, welche nicht gemäss Art. 27 Ziff. 11a–12 steuerfrei sind, jedoch höchstens Fr. 5'100.–. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen gemäss Art. 27 Ziff. 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'700.– abgezogen;
-- 10\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, bis zum Gesamtbetrag von Fr. 12'400.–, sofern:
+- 8\. die nachgewiesenen Kosten, jedoch höchstens Fr. 8'400.–, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
+- 9\. die Einsatzkosten in der Höhe von 5 Prozent der einzelnen Gewinne aus der Teilnahme an Geldspielen, welche nicht gemäss Art. 27 Ziff. 11a–12 steuerfrei sind, jedoch höchstens Fr. 5'300.–. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen gemäss Art. 27 Ziff. 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 26'500.– abgezogen;
+- 10\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, bis zum Gesamtbetrag von Fr. 12'800.–, sofern:
   - a) ein erster Abschluss auf der Sekundarstufe II vorliegt; oder
   - b) das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
@@ -623,7 +622,7 @@ beschliesst:
 
 **2. Zweitverdienerabzug**
 
-<sup>1</sup> Bei gemeinsam steuerpflichtigen Ehegatten werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, Fr. 1'100.– abgezogen; ein gleicher Abzug wird bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten gewährt. Der Abzug darf das betreffende Einkommen nach Abzug der Gewinnungskosten nicht übersteigen.
+<sup>1</sup> Bei gemeinsam steuerpflichtigen Ehegatten werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, Fr. 1'200.– abgezogen; ein gleicher Abzug wird bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten gewährt. Der Abzug darf das betreffende Einkommen nach Abzug der Gewinnungskosten nicht übersteigen.
 
 #### Art. 37
 
@@ -663,14 +662,14 @@ beschliesst:
 
 <sup>1</sup> Zur Ermittlung des steuerbaren Einkommens werden vom Reineinkommen abgezogen:
 
-- 1\. als Kinderabzug: Fr. 6'000.– für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Abzüge gemäss Art. 35 Abs. 1 Ziff. 3 für das Kind geltend gemacht werden;
+- 1\. als Kinderabzug: Fr. 6'400.– für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Abzüge gemäss Art. 35 Abs. 1 Ziff. 3 für das Kind geltend gemacht werden;
 - 2\. als Ausbildungsabzug zusätzlich zum Abzug gemäss Ziff. 1:
-  - a) Fr. 1'700.–, wenn das Kind gemäss Ziff. 1 ausserhalb des Kantons in schulischer Ausbildung steht; oder
-  - b) Fr. 5'600.– für das erste Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
-  - c) Fr. 7'800.– für jedes weitere Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
-- 3\. als Eigenbetreuungsabzug für Kinder: Fr. 3'100.– für jedes am Ende der Steuerperiode weniger als 14 Jahre alte Kind, für das ein Abzug gemäss Ziff. 1 geltend gemacht werden kann, für die eigene Betreuung;
-- 4\. als Unterstützungsabzug: Fr. 5'600.– für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, zu deren Unterhalt die steuerpflichtige Person mindestens in der Höhe des Abzuges beiträgt. Der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Ziff. 1 gewährt wird;
-- 5\. als Altersabzug: Fr. 3'900.– für jede alleinstehende steuerpflichtige Person, die über 65 Jahre alt ist; dieser Abzug vermindert sich jedoch im Umfang von fünf Prozent des Reineinkommens.
+  - a) Fr. 1'800.–, wenn das Kind gemäss Ziff. 1 ausserhalb des Kantons in schulischer Ausbildung steht; oder
+  - b) Fr. 5'800.– für das erste Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
+  - c) Fr. 8'000.– für jedes weitere Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
+- 3\. als Eigenbetreuungsabzug für Kinder: Fr. 3'200.– für jedes am Ende der Steuerperiode weniger als 14 Jahre alte Kind, für das ein Abzug gemäss Ziff. 1 geltend gemacht werden kann, für die eigene Betreuung;
+- 4\. als Unterstützungsabzug: Fr. 5'800.– für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, zu deren Unterhalt die steuerpflichtige Person mindestens in der Höhe des Abzuges beiträgt. Der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Ziff. 1 gewährt wird;
+- 5\. als Altersabzug: Fr. 4'000.– für jede alleinstehende steuerpflichtige Person, die über 65 Jahre alt ist; dieser Abzug vermindert sich jedoch im Umfang von fünf Prozent des Reineinkommens.
 
 <sup>2</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgesetzt. Die Abzüge gemäss Abs. 1 können für dieselbe Person nur einmal geltend gemacht werden. Soweit der Kinderabzug gemäss Abs. 1 Ziff. 1 aufgeteilt wird, erfolgt auch eine Aufteilung des Ausbildungsabzuges gemäss Abs. 1 Ziff. 2 und des Eigenbetreuungsabzuges gemäss Abs. 1 Ziff. 3.
 
@@ -684,24 +683,24 @@ beschliesst:
 
 <sup>1</sup> Die einfache Steuer vom steuerbaren Einkommen beträgt:
 
-- 1\. 0.00 Prozent für die ersten — Fr. 11'200.–
-- 2\. 0.50 Prozent für die nächsten — Fr. 2'300.–
-- 3\. 1.00 Prozent für die nächsten — Fr. 1'100.–
-- 4\. 1.20 Prozent für die nächsten — Fr. 1'100.–
-- 5\. 1.40 Prozent für die nächsten — Fr. 1'100.–
-- 6\. 1.60 Prozent für die nächsten — Fr. 1'100.–
-- 7\. 1.80 Prozent für die nächsten — Fr. 1'100.–
-- 8\. 2.00 Prozent für die nächsten — Fr. 1'100.–
-- 9\. 2.20 Prozent für die nächsten — Fr. 1'100.–
-- 10\. 2.40 Prozent für die nächsten — Fr. 1'100.–
-- 11\. 2.60 Prozent für die nächsten — Fr. 1'100.–
-- 12\. 2.80 Prozent für die nächsten — Fr. 7'800.–
-- 13\. 2.90 Prozent für die nächsten — Fr. 16'800.–
-- 14\. 3.00 Prozent für die nächsten — Fr. 30'200.–
-- 15\. 3.10 Prozent für die nächsten — Fr. 33'600.–
-- 16\. 3.20 Prozent für die nächsten — Fr. 31'800.–
-- 17\. 3.30 Prozent für die nächsten — Fr. 16'700.–
-- 18\. 2.75 Prozent für Einkommen ab — Fr. 160'300.–
+- 1\. 0.00 Prozent für die ersten — Fr. 11'600.–
+- 2\. 0.50 Prozent für die nächsten — Fr. 2'400.–
+- 3\. 1.00 Prozent für die nächsten — Fr. 1'200.–
+- 4\. 1.20 Prozent für die nächsten — Fr. 1'200.–
+- 5\. 1.40 Prozent für die nächsten — Fr. 1'200.–
+- 6\. 1.60 Prozent für die nächsten — Fr. 1'200.–
+- 7\. 1.80 Prozent für die nächsten — Fr. 1'200.–
+- 8\. 2.00 Prozent für die nächsten — Fr. 1'200.–
+- 9\. 2.20 Prozent für die nächsten — Fr. 1'200.–
+- 10\. 2.40 Prozent für die nächsten — Fr. 1'200.–
+- 11\. 2.60 Prozent für die nächsten — Fr. 1'200.–
+- 12\. 2.80 Prozent für die nächsten — Fr. 8'000.–
+- 13\. 2.90 Prozent für die nächsten — Fr. 17'300.–
+- 14\. 3.00 Prozent für die nächsten — Fr. 31'200.–
+- 15\. 3.10 Prozent für die nächsten — Fr. 34'700.–
+- 16\. 3.20 Prozent für die nächsten — Fr. 32'800.–
+- 17\. 3.30 Prozent für die nächsten — Fr. 17'200.–
+- 18\. 2.75 Prozent für Einkommen ab — Fr. 166'000.–
 
 <sup>2</sup> Für die Ermittlung des Steuersatzes von gemeinsam steuerpflichtigen Ehegatten wird das steuerbare Einkommen durch den Divisor 1.85 geteilt. Der gleiche Steuersatz gilt auch für verwitwete, getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern zusammenleben und deren Unterhalt zur Hauptsache bestreiten.
 
