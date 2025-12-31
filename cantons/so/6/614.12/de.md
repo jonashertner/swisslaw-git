@@ -3,20 +3,20 @@ canton: SO
 number: "614.12"
 title: Vollzugsverordnung zum Gesetz über die Staats- und Gemeindesteuern
 language: de
-version: 2022-07-01
-valid_until: 2025-12-31
-version_adopted: 2021-12-21
+version: 2026-01-01
+valid_until: 2026-03-31
+version_adopted: 2025-09-16
 adopted: 1986-01-28
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.12"
-pdf: "https://bgs.so.ch/api/de/versions/5224/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5576/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Gesetz über die Staats- und Gemeindesteuern
 
-Vom 28.01.1986 (Stand 01.07.2022)[^t-1]
+Vom 28.01.1986 (Stand 01.01.2026)[^t-1]
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -248,7 +248,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Kinder im Sinne von § 43 Absatz 1 Buchstabe a des Gesetzes sind leibliche Kinder, Adoptiv- und Stiefkinder sowie Pflegekinder, die unentgeltlich zu dauernder Pflege und Erziehung aufgenommen werden.
 
-<sup>2</sup> Der Steuerpflichtige muss dann für den Unterhalt eines Kindes aufkommen, wenn das steuerbare Einkommen des Kindes 11000 Franken nicht übersteigt.[^23-1]
+<sup>2</sup> Der Steuerpflichtige muss dann für den Unterhalt eines Kindes aufkommen, wenn das steuerbare Einkommen des Kindes 11'400 Franken nicht übersteigt.[^23-1]
 
 <sup>3</sup> …
 
@@ -266,9 +266,9 @@ beschliesst:[^ingress-2]
 
 **Sozialabzug bei ungenügendem Reineinkommen § 43 Abs. 1 Bst. f**
 
-<sup>1</sup> Ungenügend ist ein Reineinkommen dann, wenn es 32'000 Franken für die in § 44 Absatz 2 des Gesetzes genannten Steuerpflichtigen und 24'000 Franken für die andern Steuerpflichtigen nicht übersteigt.
+<sup>1</sup> Ungenügend ist ein Reineinkommen dann, wenn es 38'200 Franken für die in § 44 Absatz 2 des Gesetzes genannten Steuerpflichtigen und 30'000 Franken für die andern Steuerpflichtigen nicht erreicht.
 
-<sup>2</sup> Für jede selbständig steuerpflichtige Person, die zum Bezug einer Rente der eidgenössischen Alters- und Hinterlassenen- oder Invalidenversicherung berechtigt ist, und deren Reineinkommen den in Absatz 1 genannten Betrag übersteigt, wird ein Sozialabzug gewährt. Der Abzug beträgt bei einem Reineinkommen von 32’001 beziehungsweise 24’001 Franken 4999 Franken; er vermindert sich um je 1 Franken pro Franken, um den das Reineinkommen 32’001 beziehungsweise 24’001 Franken übersteigt.
+<sup>2</sup> Für jede selbständig steuerpflichtige Person, die zum Bezug einer Rente der eidgenössischen Alters- und Hinterlassenen- oder Invalidenversicherung berechtigt ist, und deren Reineinkommen den in Absatz 1 genannten Betrag nicht erreicht, wird ein Sozialabzug gewährt. Der Abzug beträgt bei einem Reineinkommen von 38’199 beziehungsweise 29’999 Franken 1 Franken; er erhöht sich um je 1 Franken pro Franken, um den das Reineinkommen 38’199 beziehungsweise 29’999 Franken unterschreitet.
 
 #### § 26
 
@@ -374,7 +374,7 @@ beschliesst:[^ingress-2]
 
 **Sozialabzüge § 71 Abs. 2**
 
-<sup>1</sup> Ungenügend ist ein Reineinkommen dann, wenn es 32‘000 Franken für die in § 71 Absatz 1 Buchstabe a des Gesetzes genannten Steuerpflichtigen und 24'000 Franken für die andern Steuerpflichtigen nicht übersteigt.
+<sup>1</sup> Ungenügend ist ein Reineinkommen dann, wenn es 38‘200 Franken für die in § 71 Absatz 1 Buchstabe a des Gesetzes genannten Steuerpflichtigen und 30'000 Franken für die andern Steuerpflichtigen nicht erreicht.
 
 #### § 37
 
