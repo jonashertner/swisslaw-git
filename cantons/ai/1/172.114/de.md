@@ -3,20 +3,19 @@ canton: AI
 number: "172.114"
 title: Register der Unterschriftsberechtigungen
 language: de
-version: 2025-05-01
-valid_until: 2025-12-31
-version_adopted: 2025-04-01
+version: 2026-01-01
+version_adopted: 2026-01-01
 adopted: 2025-04-01
 in_force: 2025-05-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.114"
-pdf: "https://ai.clex.ch/api/de/versions/2360/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Register der Unterschriftsberechtigungen
 
-vom 01.04.2025 (Stand 01.05.2025)
+vom 01.04.2025 (Stand 01.01.2026)
 
 Die Ratskanzlei des Kantons Appenzell I.Rh.
 
