@@ -4,13 +4,12 @@ number: "72"
 title: Besoldungsordnung für die Magistratspersonen und den Staatsschreiber oder die Staatsschreiberin
 short: BOM
 language: de
-version: 2024-03-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-11
+version: 2026-01-01
+version_adopted: 2025-12-01
 adopted: 1989-09-11
 in_force: 1990-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/72"
-pdf: "https://srl.lu.ch/api/de/versions/4178/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4613/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4178/pdf_file"
 
 (BOM)
 
-vom 11.09.1989 (Stand 01.03.2024)
+vom 11.09.1989 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -124,9 +123,9 @@ beschliesst:
 
 #### § 6
 
-**Sozialzulagen, Dienstaltersgeschenk und Leistungen im Todesfall**
+**Weitere Leistungen**
 
-<sup>1</sup> Für die Sozialzulagen, das Dienstaltersgeschenk und die Leistungen im Todesfall gelten die Bestimmungen für das Staatspersonal.
+<sup>1</sup> Für die Sozialzulagen, das Dienstaltersgeschenk, die überobligatorischen Leistungen bei Berufsunfällen und Berufskrankheiten sowie für die Leistungen im Todesfall gelten die Bestimmungen für das Staatspersonal.
 
 #### § 7
 
