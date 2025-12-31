@@ -4,13 +4,12 @@ number: "730.1"
 title: "Loi sur l'énergie"
 short: LcEne
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-08
+version: 2026-01-01
+version_adopted: 2025-02-13
 adopted: 2023-09-08
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/730.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3369/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3556/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3369/pdf_file"
 
 (LcEne)
 
-du 08.09.2023 (état 01.01.2025)
+du 08.09.2023 (état 01.01.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -687,7 +686,7 @@ ordonne:
 <sup>1</sup> Pour encourager la construction de bâtiments répondant à des critères de qualité déterminée, en particulier aux standards Minergie-P, Minergie-A ou CECB A/A, il est octroyé les incitations suivantes:
 
 - a) un bonus de 10 pour cent sur l'indice brut d'utilisation du sol fixé par le RCCZ, sous réserve de ne pas dépasser une augmentation maximale de 0,1. Par analogie et dans la mesure du possible, les communes accordent d'autres mesures incitatives dans les zones sans indice d'utilisation du sol;
-- b) l'utilisation gratuite des eaux souterraines et de surface à des fins thermoénergétiques.
+- b) l'utilisation gratuite des eaux souterraines et de surface publiques à des fins thermoénergétiques.
 
 ## 7 Exécution, dispositions pénales, voies de droit et dispositions transitoires
 

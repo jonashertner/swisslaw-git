@@ -4,13 +4,12 @@ number: "730.1"
 title: Energiegesetz
 short: kEnG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-08
+version: 2026-01-01
+version_adopted: 2025-02-13
 adopted: 2023-09-08
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/730.1"
-pdf: "https://lex.vs.ch/api/de/versions/3369/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3556/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3369/pdf_file"
 
 (kEnG)
 
-vom 08.09.2023 (Stand 01.01.2025)
+vom 08.09.2023 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -684,10 +683,10 @@ verordnet:
 
 **Förderung von Qualitätsstandards im Gebäudebereich**
 
-<sup>1</sup> Um den Bau von Gebäuden zu fördern, die bestimmte Qualitätskriterien erfüllen, insbesondere gemäss den Standards Minergie-P, Minergie-A und GEAK A/A, werden folgende Anreize gewährt:
+<sup>1</sup> Für die Förderung bestimmter Qualitätskriterien im Gebäudebereich, insbesondere solche mit dem Minergie-P- oder Minergie-A-Label oder einem Gebäudeenergieausweis GEAK der Klasse A/A, werden folgende Anreize gewährt:
 
-- a) ein Bonus von 10 Prozent auf die im BZR der Gemeinde vorgesehene Ausnützungsziffer, wobei letztere um maximal 0,1 erhöht werden darf. In Zonen ohne Ausnützungsziffer gewähren die Gemeinden andere Fördermassnahmen sinngemäss und im Rahmen des Möglichen;
-- b) die unentgeltliche Nutzung des Grund- und Oberflächenwassers zu thermischen Zwecken.
+- a) ein Bonus von 10 Prozent auf die im BZR festgelegte Geschossflächenziffer, wobei die Nutzungsziffer um maximal 0,1 erhöht werden darf. In Zonen ohne Ausnützungsziffer gewähren die Gemeinden andere Fördermassnahmen sinngemäss und im Rahmen des Möglichen;
+- b) die unentgeltliche Nutzung des öffentlichen Grund- und Oberflächenwassers zu thermischen Zwecken.
 
 ## 7 Vollzug, Strafbestimmungen, Rechtsmittel und Übergangsbestimmungen
 
