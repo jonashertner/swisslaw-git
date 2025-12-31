@@ -4,13 +4,12 @@ number: "611.11"
 title: Finanzhaushaltsverordnung
 short: FHV
 language: de
-version: 2024-06-01
-valid_until: 2025-12-31
-version_adopted: 2024-04-30
+version: 2026-01-01
+version_adopted: 2025-08-12
 adopted: 2024-04-30
 in_force: 2024-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/611.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2827/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2936/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ FHV
 
 (FHV)
 
-vom 30.04.2024 (Stand 01.06.2024)
+vom 30.04.2024 (Stand 01.01.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -292,10 +291,10 @@ vom 30.04.2024 (Stand 01.06.2024)
 
 **Spezialfinanzierung Swisslos**
 
-<sup>1</sup> Der kantonale Anteil am Ertrag der Swisslos Interkantonale Landeslotterie wird wie folgt aufgeteilt:
+<sup>1</sup> Der kantonale Anteil am Reingewinn der Swisslos Interkantonale Landeslotterie wird wie folgt aufgeteilt:
 
-- 1\. 75 % an den Lotteriefonds
-- 2\. 25 % an den Sportfonds
+- 1\. 70 % an den Lotteriefonds
+- 2\. 30 % an den Sportfonds
 
 #### § 28
 
