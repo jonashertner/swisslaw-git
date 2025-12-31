@@ -4,13 +4,12 @@ number: VIII A/1/6
 title: Pflege- und Betreuungsverordnung
 short: PBV
 language: de
-version: 2025-05-01
-valid_until: 2025-12-31
-version_adopted: 2025-03-04
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.1.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/2540/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2609/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2540/pdf_file"
 
 (PBV)
 
-Vom 29.11.2022 (Stand 01.05.2025)
+Vom 29.11.2022 (Stand 01.01.2026)
 
 Der Regierungsrat,
 
@@ -49,7 +48,7 @@ erlässt:
 
 <sup>2</sup> Sie gilt zudem für:
 
-- a. Pflegefachpersonen mit einer Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung und Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung in Bezug auf die Restfinanzierung (Art. 31);
+- a. Pflegefachpersonen mit einer Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung und Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung in Bezug auf die Tarife und die Restfinanzierung (Art. 29–31);
 - b. Bezugspersonen von pflege- und betreuungsbedürftigen Personen (Art. 35–37).
 
 <sup>3</sup> Die Bestimmungen zur Versorgung (Ziff. 3) gelten mit Ausnahme des Artikels 31 nur für Einrichtungen mit einer Leistungsvereinbarung gemäss Artikel 11 PBG.
@@ -152,6 +151,20 @@ erlässt:
 <sup>2</sup> Der Stellenplan und die Einsatzplanung für das Pflegepersonal sind in Bezug auf die Stellenprozente und die beruflichen Qualifikationen auf das Leistungsangebot der Einrichtung abgestimmt.
 
 <sup>3</sup> Das Departement erlässt entsprechende Mindestvoraussetzungen (Richtstellenplan). In begründeten Fällen kann es Abweichungen davon bewilligen.
+
+#### Art. 8a
+
+**Pflegende Bezugspersonen**
+
+<sup>1</sup> Stellt eine Einrichtung Bezugspersonen an, hat sie sicherzustellen, dass die fallverantwortliche Pflegefachperson die Bezugsperson:
+
+- a. umfassend instruiert und kontinuierlich fachlich begleitet;
+- b. in der Erbringung sowie Dokumentation der Pflegeleistung anleitet;
+- c. in regelmässigen Abständen beaufsichtigt und bei Bedarf ergänzend anleitet. Mindestens alle zwei Wochen muss ein telefonischer Kontakt stattfinden und mindestens einmal monatlich ein Besuch vor Ort erfolgen.
+
+<sup>2</sup> Die Bezugsperson meldet der fallverantwortlichen Pflegefachperson unverzüglich alle wesentlichen Veränderungen der Pflegesituation.
+
+<sup>3</sup> Eine fallverantwortliche Pflegefachperson darf bei einem Pensum von 100 Prozent höchstens 24 Bezugspersonen begleiten und überwachen. Bei einem niedrigeren Pensum reduziert sich die Zahl der beaufsichtigten Bezugspersonen entsprechend.
 
 #### Art. 9
 
@@ -396,7 +409,9 @@ erlässt:
 
 <sup>2</sup> Absatz 1 Buchstabe a ist erfüllt, wenn eine Kosten- und Leistungsrechnung gemäss Artikel 38 vorhanden ist.
 
-<sup>3</sup> Absatz 1 Buchstabe b ist erfüllt, wenn der Tarif für die jeweilige Leistung nicht mehr als fünf Prozent über dem nach Leistungseinheiten gewichteten Mittelwert der Kosten aller Leistungserbringer mit Versorgungspflicht liegt.
+<sup>3</sup> Absatz 1 Buchstabe b ist erfüllt, wenn der Tarif für die jeweilige Leistung nicht mehr als fünf Prozent über dem nach Leistungseinheiten gewichteten Mittelwert der Kosten aller Leistungserbringer mit Leistungsvereinbarung liegt.
+
+<sup>4</sup> Für Leistungserbringer ohne Leistungsvereinbarung entsprechen die Tarife 80 Prozent der gewichteten Mittelwerte gemäss Absatz 3.
 
 #### Art. 30
 
@@ -406,20 +421,22 @@ erlässt:
 
 <sup>2</sup> Seit dem vorletzten Jahr eingetretene, wesentliche, erforderliche sowie bestimmbare Veränderungen der Lohn- und Sachkosten sind zu berücksichtigen.
 
-<sup>3</sup> Das Departement kann Richtwerte für die zu berücksichtigenden Kostenentwicklungen festlegen, insbesondere im Bereich der Lohnentwicklung.
+<sup>3</sup> Das Departement kann Richtwerte für die zu berücksichtigenden Kostenentwicklungen festlegen, insbesondere im Bereich der Lohn- und Preisentwicklung.
 
 #### Art. 31
 
 **Restfinanzierung**
 
-<sup>1</sup> Die Restfinanzierungsbeiträge gemäss Artikel 23 EG KVG leiten sich aus Artikel 29 und 30 her.
+<sup>1</sup> Die Restfinanzierungsbeiträge gemäss Artikel 23 EG KVG ergeben sich aus den Tarifen gemäss Artikel 29 und 30 abzüglich der Beiträge der Versicherer und der Kostenbeteiligung der versicherten Person.
 
 <sup>2</sup> Sie sind wie folgt abzustufen:
 
 - a. bei der ambulanten Krankenpflege nach der Art der Leistung gemäss Artikel 7 Absatz 2 KLV;
 - b. bei der Krankenpflege im Pflegeheim linear nach den Pflegebedarfsstufen gemäss Artikel 7a Absatz 3 KLV.
 
-<sup>3</sup> Bei Leistungserbringern ohne Versorgungspflicht entsprechen die Restfinanzierungsbeiträge 80 Prozent der Kosten des gemäss Artikel 29 Absatz 3 gewichteten Mittelwerts der Leistungserbringer mit Versorgungspflicht.
+<sup>3</sup> …
+
+<sup>3a</sup> Für Grundpflege-Leistungen gemäss Artikel 7 Absatz 2 Buchstabe c KLV, die von angestellten Bezugspersonen erbracht werden, beträgt der Restfinanzierungsbeitrag 8.80 Franken pro Stunde abzüglich der Kostenbeteiligung der versicherten Person.
 
 <sup>4</sup> …
 
@@ -447,6 +464,8 @@ erlässt:
 
 <sup>4</sup> Sie schlüsseln die Kosten der Pflegeleistungen bei der ambulanten Krankenpflege zusätzlich nach der Art der Leistung gemäss Artikel 7 Absatz 2 KLV auf, bei der Krankenpflege im Pflegeheim nach dem Pflegebedarf gemäss Artikel 7a Absatz 3 KLV.
 
+<sup>4a</sup> Grundpflege-Leistungen gemäss Artikel 7 Absatz 2 Buchstabe c KLV, die von angestellten Bezugspersonen erbracht werden, sind in der Rechnung separat auszuweisen.
+
 <sup>5</sup> Die Leistungserbringer stellen den Leistungsbezügerinnen und Leistungsbezügern die von den Versicherern nicht gedeckten Pflegekosten in Rechnung, maximal aber 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages.
 
 <sup>6</sup> Sie gliedern die Kosten der ambulant erbrachten Leistungen gemäss Artikel 10 Absatz 2 Buchstaben c und d PBG wie folgt:
@@ -454,7 +473,7 @@ erlässt:
 - a. Beitrag der Leistungsbezügerin bzw. des Leistungsbezügers;
 - b. Beitrag des Kantons.
 
-<sup>7</sup> Die Hauptabteilung definiert die Anforderungen an die Rechnungsstellung gegenüber dem Kanton für die Restfinanzierung (Art. 31) und die Mitfinanzierung ambulanter Leistungen (Art. 32).
+<sup>7</sup> Die Hauptabteilung definiert die Anforderungen an die Rechnungsstellung gegenüber dem Kanton für die Restfinanzierung (Art. 31) und die Mitfinanzierung ambulanter Leistungen (Art. 32). Sie kann im Einzelfall weitergehende Unterlagen einfordern.
 
 ### 3.3. Information und Beratung
 
@@ -489,11 +508,10 @@ erlässt:
 <sup>3</sup> Anerkannte Kurse in der Grundpflege und Betreuung für Bezugspersonen sind:
 
 - a. Lehrgang Pflegehelfende SRK;
-- b. Lehrgang Palliative Care SRK;
-- c. Lehrgang Pflege und Betreuung von Menschen mit Demenz SRK;
-- d. Lehrgang Betreuung SRK;
+- b. Lehrgang Palliative Care A1 SRK;
+- c.–d. …
 - e. Pflegen zu Hause SRK;
-- f. Grundkurs Demenz für Angehörige SRK;
+- f. Gut leben mit Demenz (Alzheimer Glarus/SRK);
 - g. weitere durch das Departement anerkannte Kurse.
 
 <sup>4</sup> Der Kantonsbeitrag wird an die gesuchstellende Person ausbezahlt, sofern diese die Voraussetzungen gemäss Absatz 2 nachweist und eine Anmeldebestätigung eines anerkannten Kurses vorlegt.
@@ -510,7 +528,8 @@ erlässt:
 
 - a. die pflege- oder betreuungsbedürftige Person ihren Wohnsitz im Kanton Glarus hat und nicht in einem Pflegeheim wohnt;
 - b. die für die Pflege und Betreuung aufgewendete Zeit der Bezugsperson durchschnittlich mindestens eine Stunde pro Tag über einen Zeitraum von mehr als zwei Monaten beträgt und auf einer ärztlichen Anordnung beruht;
-- c. die Bezugsperson den Kurs Pflegen zu Hause SRK absolviert hat oder eine hohe pflegerische Praxiskompetenz nachweist.
+- c. die Bezugsperson den Kurs Pflegen zu Hause SRK absolviert hat oder eine hohe pflegerische Praxiskompetenz nachweist;
+- d. die Bezugsperson höchstens 65 Pflegestunden pro Monat im Rahmen einer Tätigkeit für eine Einrichtung gemäss dem PBG gegenüber der pflege- oder betreuungsbedürftigen Person erbringt.
 
 #### Art. 37
 
@@ -535,8 +554,8 @@ erlässt:
 <sup>2</sup> Für Pflegeheime sowie Tages- und Nachtstätten sind verbindlich:
 
 - a. Artikel 9, 10 Absätze 3-5, 10a und 11 der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung (VKL)[^38-1];
-- b. Handbuch Kostenrechnung und Leistungsstatistik für Alters- und Pflegeheime (Version 2019) von Curaviva Schweiz;
-- c. Handbuch Anlagebuchhaltung für Alters- und Pflegeheime (Version 2019) von Curaviva Schweiz.
+- b. Handbuch Kostenrechnung und Leistungsstatistik für Alters- und Pflegeheime (Version 2019) von Artiset;
+- c. Handbuch Anlagebuchhaltung für Alters- und Pflegeheime (Version 2019) von Artiset.
 
 <sup>3</sup> Die Leistungserbringer weisen spezialisierte Pflegeleistungen separat aus.
 
@@ -615,14 +634,14 @@ erlässt:
 <tr><td>Glarus Nord</td><td>Alters- und Pflegeheime Glarus Nord</td><td>Niederurnen</td><td>68</td></tr>
 <tr><td>Glarus Nord</td><td>Alters- und Pflegeheime Glarus Nord</td><td>Näfels</td><td>108</td></tr>
 <tr><td>Glarus Nord</td><td>Alters- und Pflegeheime Glarus Nord</td><td>Mollis</td><td>47</td></tr>
-<tr><td>Glarus</td><td>cura unita glarus</td><td>Netstal</td><td>41</td></tr>
-<tr><td>Glarus</td><td>cura unita glarus</td><td>Glarus</td><td>85</td></tr>
-<tr><td>Glarus</td><td>cura unita glarus</td><td>Ennenda</td><td>62</td></tr>
+<tr><td>Glarus</td><td>Cura Unita Glarus</td><td>Netstal</td><td>41</td></tr>
+<tr><td>Glarus</td><td>Cura Unita Glarus</td><td>Glarus</td><td>85</td></tr>
+<tr><td>Glarus</td><td>Cura Unita Glarus</td><td>Ennenda</td><td>62</td></tr>
 <tr><td>Glarus</td><td>Salem Bethesda Alterszentren AG</td><td>Ennenda</td><td>74</td></tr>
 <tr><td>Glarus</td><td>Fridlihuus</td><td>Glarus</td><td>16</td></tr>
-<tr><td>Glarus Süd</td><td>Alters- und Pflegeheime Glarus Süd</td><td>Schwanden</td><td>149</td></tr>
-<tr><td>Glarus Süd</td><td>Alters- und Pflegeheime Glarus Süd</td><td>Linthal</td><td>49</td></tr>
-<tr><td>Glarus Süd</td><td>Alters- und Pflegeheime Glarus Süd</td><td>Elm</td><td>35</td></tr>
+<tr><td>Glarus Süd</td><td>Glarus Süd Care</td><td>Schwanden</td><td>149</td></tr>
+<tr><td>Glarus Süd</td><td>Glarus Süd Care</td><td>Linthal</td><td>49</td></tr>
+<tr><td>Glarus Süd</td><td>Glarus Süd Care</td><td>Elm</td><td>35</td></tr>
 <tr><td>Glarus Süd</td><td>Glarnersteg</td><td>Schwanden</td><td>28</td></tr>
 <tr><td>Total</td><td></td><td></td><td>762</td></tr>
 </table>
