@@ -3,20 +3,19 @@ canton: LU
 number: 372a
 title: Verordnung über den Zivilschutz
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-08
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2008-04-08
 in_force: 2008-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/372a"
-pdf: "https://srl.lu.ch/api/de/versions/3987/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4620/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Zivilschutz
 
-vom 08.04.2008 (Stand 01.01.2023)
+vom 08.04.2008 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -58,7 +57,7 @@ beschliesst:
 - d. die notfallpsychologische Betreuung,
 - e. weitere Aufgaben, die in einem Leistungsauftrag zwischen dem Justiz- und Sicherheitsdepartement und weiteren Behörden oder Organisationen enthalten sind.
 
-<sup>2</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug wählt den Kommandanten oder die Kommandantin der kantonalen Zivilschutzformation und eine Stellvertretung.
+<sup>2</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug stellt den Kommandanten oder die Kommandantin der kantonalen Zivilschutzformation und bestimmt eine Stellvertretung.
 
 <sup>3</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug ist für die Administration zuständig.
 
@@ -204,7 +203,7 @@ beschliesst:
 
 <sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug bestimmt, ob Schutzräume gebaut oder Ersatzbeiträge entrichtet werden müssen.
 
-<sup>2</sup> Die Höhe der Ersatzbeiträge richtet sich nach dem Anhang dieser Verordnung.
+<sup>2</sup> …
 
 <sup>3</sup> Die Gemeinde stellt bei der Dienststelle Militär, Zivilschutz und Justizvollzug mit den erforderlichen Unterlagen ein Gesuch über die Verwendung der bis zum 31. Dezember 2011 verfügten und von den Gemeinden verwalteten Ersatzbeiträge. Sie erstattet der zuständigen kantonalen Behörde auf deren Verlangen Bericht über die Verwendung der Ersatzbeiträge.
 
