@@ -4,13 +4,12 @@ number: "923.111.1"
 title: Ordonnance de Direction sur la pêche
 short: ODPê
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 1995-09-22
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 1995-09-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/923.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3168/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3323/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3168/pdf_file"
 
 (ODPê)
 
-du 22.09.1995 (état au 01.01.2024)
+du 22.09.1995 (état au 01.01.2026)
 
 La Direction de l'économie publique du canton de Berne,
 
@@ -209,16 +208,47 @@ arrête:
 <sup>1</sup> Il peut être pêché
 
 - a au maximum par jour
-  - 1 six poissons nobles (ombres, truites, ombles chevaliers), dont un maximum de deux ombres et un maximum de trois truites provenant des lacs de Brienz, de Thoune et de Bienne,
+  - 1 six truites et ombles chevaliers au total, dont un maximum de trois truites provenant des lacs de Brienz, de Thoune et de Bienne,
   - 2 5 brochets,
   - 3 25 corégones, dont un maximum de 20 individus provenant du lac de Bienne et un maximum de 15 individus provenant du lac de Thoune,
   - 4 100 perches,
   - 5 5 sandres,
-- b mais au maximum par année civile 150 poissons nobles (ombres, truites, ombles chevaliers), dont un maximum de 20 ombres, un maximum de 50 truites de rivière et un maximum de 30 truites provenant des lacs de Brienz, de Thoune et de Bienne.
+- b au maximum par année civile 150 truites et ombles chevaliers au total, dont un maximum de 50 truites de rivière et un maximum de 30 truites provenant des lacs de Brienz, de Thoune et de Bienne.
 
-<sup>2</sup> L’alinéa 6 de l’article 20 reste réservé.
+<sup>2</sup> …
 
 <sup>3</sup> ...
+
+<sup>4</sup> L'autorisation spéciale prévue à l'article 14a permet en outre de pêcher
+
+- a un maximum d'un ombre par jour,
+- b un maximum de 5 ombres par année.
+
+#### Art. 14a
+
+**Autorisation spéciale pour la pêche d'ombres**
+
+<sup>1</sup> Une autorisation spéciale est requise pour la pêche et la prise d'ombres dans les eaux soumises à patente. Les dispositions dérogatoires des conventions intercantonales valables pour les tronçons d'eaux frontières sont réservées.
+
+<sup>2</sup> L'autorisation spéciale est réservée aux titulaires d'une patente annuelle; cette dernière peut être obtenue via l'application électronique dédiée à la pêche ou en version papier auprès de l'Inspection de la pêche.
+
+<sup>3</sup> L'autorisation spéciale est valable du 1<sup>er</sup> octobre au 31 décembre. La pêche et la prise d'ombres sont autorisées seulement dans les tronçons suivants:
+
+- a Aar depuis sa sortie du lac de Brienz jusqu'à une distance de 60 m en amont du barrage à aiguilles de l’usine électrique d’Interlaken (début de la zone de protection instaurée à hauteur du barrage à aiguilles d'Interlaken Unterseen),
+- b canal de navigation d'Interlaken,
+- c Aar depuis le barrage de l'usine hydroélectrique de Thoune jusqu'au pont de Schützenfahr à Münsingen,
+- d Aar depuis le pont d'Auguet à Muri jusqu'au barrage d'Engehalde,
+- e Aar depuis le pont de Tiefenau jusqu'au pont routier à Hagneck, y compris lacs de retenue de l'Aar situés sur ce tronçon,
+- f Sarine depuis la frontière cantonale Berne/Fribourg à Bösingen jusqu'à l'embouchure dans l'Aar,
+- g ancienne Aar.
+
+<sup>4</sup> La pêche et la prise d'ombres sont interdites dans toutes les autres eaux soumises à patente.
+
+<sup>5</sup> La pêche est autorisée avec un seul appât muni d'un hameçon simple. Dans le tronçon de l'Aar entre le pont de Tiefenau et le bac de Zehendermätteli, seule la pêche à la mouche effectuée à la canne à mouche avec des mouches et des nymphes artificielles est autorisée.
+
+<sup>6</sup> La pêche d'ombres doit prendre fin pour la journée dès qu'un ombre est capturé; l'autorisation spéciale perd sa validité après la capture du cinquième ombre. Il est permis de garder les poissons d'autres espèces attrapés durant cette pêche spéciale pour autant que les dispositions de protection en vigueur le permettent.
+
+<sup>7</sup> L'autorisation spéciale peut comporter d'autres mesures plus strictes. Elle peut notamment prévoir des restrictions géographiques supplémentaires ainsi que des quotas de pêche par tronçon.
 
 #### Art. 15
 
@@ -232,13 +262,7 @@ arrête:
 
 #### Art. 16
 
-**2 Exigences**
-
-<sup>1</sup> Quiconque conserve des poissons servant d'appâts vivants ou pêche au moyen de poissons servant d'appâts a besoin d'une attestation de compétences.
-
-<sup>2</sup> ...
-
-<sup>3</sup> ...
+**…**
 
 #### Art. 17
 
@@ -251,7 +275,7 @@ arrête:
 - c d’une épuisette de 60 cm d’ouverture au maximum.
 - d ...
 
-<sup>2</sup> Les poissons-appâts vivants ne peuvent être utilisés et relâchés que dans les eaux soumises à patente où ils ont été capturés.
+<sup>2</sup> Les poissons-appâts autres que conservés ne peuvent être utilisés et relâchés que dans les eaux soumises à patente où ils ont été capturés.
 
 #### Art. 18
 
@@ -261,29 +285,11 @@ arrête:
 
 <sup>2</sup> Les chabots ne peuvent être pêchés que du 10 mars au 31 octobre.
 
-<sup>3</sup> Il est interdit
+<sup>3</sup> …
 
-- a d’emporter dans un lac de montagne des poissons-appâts vivants capturés dans la vallée,
-- b d’emporter dans la vallée des poissons-appâts capturés dans un lac de montagne.
+<sup>4</sup> La pêche avec des poissons-appâts vivants est interdite.
 
-<sup>4</sup> L’utilisation de poissons-appâts vivants est interdite
-
-- a pour la pêche à la traîne,
-- b dans toutes les eaux courantes,
-- c dans toutes les eaux dormantes situées à plus de 800 m d’altitude,
-- d dans toutes les eaux dormantes d’une superficie de plus de 30 hectares.
-
-<sup>5</sup> En dérogation à l’alinéa 4, l’utilisation de poissons-appâts vivants est autorisée
-
-- a dans le lac de Bienne, dans le sens des aiguilles d’une montre le long de la rive, du débarcadère de Daucher (Tüscherz) jusqu’au débarcadère de La Neuveville jusqu’à une profondeur du lac de dix mètres,
-- b dans le lac de Thoune, dans le sens des aiguilles d’une montre le long de la rive, du débarcadère de Sundlauenen au débarcadère de Därligen et du débarcadère d’Einigen jusqu’au débarcadère de Hünibach jusqu’à une profondeur du lac de dix mètres,
-- c dans le lac de Brienz depuis la rive gauche entre l’embouchure de l’Aar et celle de la Lütschine aux endroits où dominent les plantes aquatiques, le bois mort (arbres abattus et engloutis) ou d’autres obstacles immergés,
-- d dans les lacs de montagne et de retenue mentionnés aux alinéas 2 et 3 de l’article 1 OPê, aux endroits où dominent les plantes aquatiques, le bois mort (arbres abattus et engloutis) ou d’autres obstacles immergés (p.ex. champs de bouées),
-- e dans le canal de la Thielle,
-- f dans le bras mort de la Rewag au confluent de l’Aar et de la Sarine,
-- g dans l’ancienne Aar au Häftli,
-- h dans le Moossee près de Moosseedorf,
-- i dans l’Amsoldingersee, aux endroits où dominent les plantes aquatiques, le bois mort ou d’autres obstacles immergés.
+<sup>5</sup> …
 
 #### Art. 19
 
@@ -313,6 +319,14 @@ arrête:
 
 <sup>5</sup> Le produit de la pêche du ou de la titulaire de la patente annuelle et le produit de la pêche de l'invité doivent être inscrits dans la même statistique de la pêche et leur cumul ne doit pas dépasser les quantités maximales fixées.
 
+#### Art. 19b
+
+**Pêche accompagnée pour les enfants**
+
+<sup>1</sup> Jusqu’à leurs douze ans révolus, deux enfants au maximum peuvent pêcher munis d’une canne à pêche chacun sans patente d’invités spécifique pour autant qu’ils soient placés sous la surveillance et la responsabilité d'une personne titulaire d’une patente annuelle.
+
+<sup>2</sup> Au surplus, les mêmes conditions s'appliquent que pour les invités au sens de l'article 19a.
+
 #### Art. 20
 
 **Prescriptions particulières à certaines eaux 1 Lacs de Brienz, Thoune et Bienne**
@@ -332,7 +346,7 @@ arrête:
 
 <sup>5</sup> ...
 
-<sup>6</sup> Dans le lac de Thoune, la pêche d'ombres est interdite toute l'année.
+<sup>6</sup> …
 
 #### Art. 21
 
@@ -347,7 +361,7 @@ arrête:
 
 <sup>3</sup> Entre le 1<sup>er</sup> novembre et le 31 décembre, les cannes à pêche ne doivent être utilisées qu’avec un flotteur et un appât avec hameçon simple chacune, jusqu’à une profondeur maximale de trois mètres, ou avec une mouche sèche.
 
-<sup>4</sup> Il est interdit de continuer la pêche après avoir capturé six salmonidés.
+<sup>4</sup> Il est interdit de continuer la pêche après avoir capturé six poissons nobles.
 
 #### Art. 22
 
@@ -391,13 +405,13 @@ arrête:
 
 <sup>3</sup> L’utilisation d’hameçons avec ardillon est interdite.
 
-<sup>4</sup> Il est interdit de continuer de pêcher après avoir capturé six salmonidés.
+<sup>4</sup> Il est interdit de continuer de pêcher après avoir capturé six poissons nobles.
 
 <sup>5</sup> Il est interdit de pêcher d’une embarcation ou d’un radeau en mouvement ou amarré.
 
-<sup>6</sup> La pêche est autorisée dans l'Emme et l'Ilfis du 16 mars au 15 septembre et dans les autres eaux du 16 mars au 30 septembre.
+<sup>6</sup> …
 
-<sup>7</sup> La pêche est autorisée seulement les lundi, mercredi et samedi, ainsi que le 16 mars, dans l'Aar (en amont de l'entrée est des gorges de l'Aar), la Fildrich, la Kien avec le Gornerenbach et le Spiggenbach, la Kirel, le Lombach, le Narrenbach, le Reichenbach, la Schwarzwasser, la petite Simme, la Sorne, la Suld, l'Urbach et la Zulg.
+<sup>7</sup> La pêche est autorisée seulement les lundi, mercredi et samedi, ainsi que le 16 mars, dans l'Aar (en amont de l'entrée est des gorges de l'Aar), l'Emme (en amont de l'embouchure de l'Ilfis), la Fildrich, la Kien avec le Gornerenbach et le Spiggenbach, la Kirel, le Lombach, le Narrenbach, le Reichenbach, la Schwarzwasser, la petite Simme, la Sorne, la Suld, l'Urbach et la Zulg.
 
 #### Art. 24a
 

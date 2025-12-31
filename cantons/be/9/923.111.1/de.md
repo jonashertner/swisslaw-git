@@ -4,13 +4,12 @@ number: "923.111.1"
 title: Direktionsverordnung über die Fischerei
 short: FiDV
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 1995-09-22
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 1995-09-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/923.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3168/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3168/pdf_file"
 
 (FiDV)
 
-vom 22.09.1995 (Stand 01.01.2024)
+vom 22.09.1995 (Stand 01.01.2026)
 
 Die Volkswirtschaftsdirektion des Kantons Bern,
 
@@ -213,16 +212,47 @@ beschliesst:
 <sup>1</sup> Es dürfen behändigt werden
 
 - a pro Tag höchstens
-  - 1 6 Edelfische (Äschen, Forellen, Saiblinge), wovon höchstens 2 Äschen sowie aus Brienzer-, Thuner- und Bielersee höchstens 3 Forellen,
+  - 1 insgesamt 6 Forellen und Saiblinge, wovon höchstens 3 Forellen aus Brienzer-, Thuner- und Bielersee,
   - 2 5 Hechte,
   - 3 25 Felchen, wovon höchstens 20 Felchen aus dem Bielersee und höchstens 15 Felchen aus dem Thunersee,
   - 4 100 Flussbarsche (Egli),
   - 5 5 Zander
-- b pro Kalenderjahr jedoch höchstens 150 Edelfische (Äschen, Forellen, Saiblinge), wovon höchstens 20 Äschen und 50 Bachforellen sowie aus Brienzer-, Thuner- und Bielersee höchstens 30 Forellen.
+- b pro Kalenderjahr insgesamt höchstens 150 Forellen und Saiblinge, wovon höchstens 50 Bachforellen sowie höchstens 30 Forellen aus Brienzer-, Thuner- und Bielersee.
 
-<sup>2</sup> Absatz 6 von Artikel 20 bleibt vorbehalten.
+<sup>2</sup> …
 
 <sup>3</sup> ...
+
+<sup>4</sup> Mit Sonderbewilligung gemäss Artikel 14a dürfen zudem behändigt werden
+
+- a pro Tag höchstens 1 Äsche,
+- b pro Jahr höchstens 5 Äschen.
+
+#### Art. 14a
+
+**Sonderbewilligung für Äschenfischerei**
+
+<sup>1</sup> Die Befischung und die Entnahme von Äschen in Patentgewässern sind nur mit einer Sonderbewilligung erlaubt. Abweichende Bestimmungen von interkantonalen Vereinbarungen in Grenzgewässerstrecken bleiben vorbehalten.
+
+<sup>2</sup> Die Sonderbewilligung ist Inhaberinnen und Inhabern von Jahrespatenten vorbehalten; sie kann in der elektronischen Fischerei-App gelöst oder in Papierform beim Fischereiinspektorat bezogen werden.
+
+<sup>3</sup> Die Sonderbewilligung gilt vom 1. Oktober bis zum 31. Dezember. Die Äschenfischerei und die Entnahme von Äschen sind nur in folgenden Gewässerabschnitten erlaubt:
+
+- a Aare vom Ausfluss aus dem Brienzersee bis 60 m oberhalb des Nadelwehrs des Elektrizitätswerks Interlaken (Beginn Schongebiet beim Nadelwehr bei Interlaken Unterseen),
+- b Schifffahrtskanal Interlaken,
+- c Aare vom Stauwehr des Kraftwerks Thun bis zur Schützenfahrbrücke bei Münsingen,
+- d Aare von der Auguetbrücke bei Muri bis zum Stauwehr Engehalde,
+- e Aare von der Tiefenaubrücke bis zur Strassenbrücke in Hagneck einschliesslich der dazwischenliegenden Aarestauseen,
+- f Saane von der Kantonsgrenze Bern/Freiburg bei Bösingen bis zur Mündung in die Aare,
+- g Alte Aare.
+
+<sup>4</sup> In allen übrigen Patentgewässern sind die Äschenfischerei und die Entnahme von Äschen verboten.
+
+<sup>5</sup> Die Fischerei ist mit einem einzigen Köder mit einfachem Haken gestattet. In der Aare von der Tiefenaubrücke bis zur Fähre Zehendermätteli ist nur die Fliegenfischerei mit der Fliegenrute und künstlichen Fliegen und Nymphen gestattet.
+
+<sup>6</sup> Die Äschenfischerei ist nach dem Behändigen einer Äsche am betreffenden Tag einzustellen; die Sonderbewilligung erlischt nach dem Behändigen von fünf Äschen. Im Rahmen der Sonderfischerei mitgefangene andere Fischarten dürfen behändigt werden, sofern sie den Schonbestimmungen entsprechen.
+
+<sup>7</sup> Die Sonderbewilligung kann weitere verschärfende Vorschriften enthalten. Insbesondere kann sie weitere räumliche Einschränkungen sowie Fangquoten pro Gewässerabschnitt umfassen.
 
 #### Art. 15
 
@@ -236,13 +266,7 @@ beschliesst:
 
 #### Art. 16
 
-**2 Anforderungen**
-
-<sup>1</sup> Wer lebende Köderfische hältert oder damit angelt, benötigt einen Sachkundenachweis.
-
-<sup>2</sup> ...
-
-<sup>3</sup> ...
+**…**
 
 #### Art. 17
 
@@ -255,7 +279,7 @@ beschliesst:
 - c einem Unterfangnetz mit höchstens 60 cm Lichtöffnung.
 - d ...
 
-<sup>2</sup> Lebende Köderfische dürfen nur in dem Patentgewässer verwendet und zurückversetzt werden, in dem sie gefangen worden sind.
+<sup>2</sup> Nicht konservierte Köderfische dürfen nur in dem Patentgewässer verwendet und zurückversetzt werden, in dem sie gefangen worden sind.
 
 #### Art. 18
 
@@ -265,29 +289,11 @@ beschliesst:
 
 <sup>2</sup> Groppen dürfen nur vom 10. März bis zum 31. Oktober gefangen werden.
 
-<sup>3</sup> Es ist verboten
+<sup>3</sup> …
 
-- a aus dem Tal lebende Köderfische an Bergseen mitzubringen,
-- b in Bergseen gefangene Köderfische ins Tal mitzunehmen.
+<sup>4</sup> Das Fischen mit lebenden Köderfischen ist verboten.
 
-<sup>4</sup> Die Verwendung lebender Köderfische ist verboten
-
-- a bei der Schleppangelei,
-- b in sämtlichen Fliessgewässern,
-- c in allen stehenden Gewässern oberhalb 800 m ü.M.,
-- d in allen stehenden Gewässern mit einer Oberfläche von mehr als 30 Hektaren.
-
-<sup>5</sup> Die Verwendung lebender Köderfische ist in Abweichung von Absatz 4 erlaubt
-
-- a im Bielersee im Uhrzeigersinn entlang des Ufers von der Schiffländte Tüscherz bis zur Schiffländte Neuenstadt jeweils bis in eine Wassertiefe von 10 Metern,
-- b im Thunersee im Uhrzeigersinn entlang des Ufers von der Schiffländte Sundlauenen bis zur Schiffländte Därligen und von der Schiffländte Einigen bis zur Schiffländte Hünibach jeweils bis in eine Wassertiefe von 10 Metern,
-- c im Brienzersee am linken Ufer zwischen der Einmündung der Aare bis zur Einmündung der Lütschine an Stellen, wo Wasserpflanzen, Totholz (umgestürzte und versunkene Bäume) oder andere Unterwasserhindernisse dominieren,
-- d in den in Artikel 1 Absätzen 2 und 3 FiV genannten Berg- und Stauseen an Stellen, wo Wasserpflanzen, Totholz (umgestürzte und versunkene Bäume) oder andere Unterwasserhindernisse (z.B. Bojenfelder) dominieren,
-- e im Zihlkanal,
-- f im Rewag-Altarm beim Zusammenfluss von Aare und Saane,
-- g in der Alten Aare im sogenannten Häftli,
-- h im Moossee bei Moosseedorf,
-- i im Amsoldingersee, wo Wasserpflanzen, Totholz oder andere Unterwasserhindernisse dominieren.
+<sup>5</sup> …
 
 #### Art. 19
 
@@ -317,6 +323,14 @@ beschliesst:
 
 <sup>5</sup> Der Fangertrag der Jahrespatentinhaberin oder des Jahrespatentinhabers und des Gastes müssen in die gleiche Fischfangstatistik eingetragen werden und dürfen zusammen die festgelegten Höchstmengen nicht überschreiten.
 
+#### Art. 19b
+
+**Mitfischen von Kindern**
+
+<sup>1</sup> Maximal zwei Kinder dürfen bis zu ihrem vollendeten 12. Altersjahr unter Aufsicht und Verantwortung einer Inhaberin oder eines Inhabers eines Jahrespatents mit je einer Rute ohne besonderes Gastpatent mitfischen.
+
+<sup>2</sup> Im Übrigen gelten dieselben Bedingungen wie für Gäste gemäss Artikel 19a.
+
 #### Art. 20
 
 **Besondere Vorschriften für einzelne Gewässer 1 Brienzer-, Thuner- und Bielersee**
@@ -336,7 +350,7 @@ beschliesst:
 
 <sup>5</sup> ...
 
-<sup>6</sup> Im Thunersee ist das Fangen von Äschen ganzjährig untersagt.
+<sup>6</sup> …
 
 #### Art. 21
 
@@ -399,9 +413,9 @@ beschliesst:
 
 <sup>5</sup> Das Fischen von fahrenden oder festgebundenen Wasserfahrzeugen und Flossen aus ist verboten.
 
-<sup>6</sup> Der Fischfang ist in der Emme und der Ilfis vom 16. März bis 15. September und in den übrigen Gewässern vom 16. März bis 30. September gestattet.
+<sup>6</sup> …
 
-<sup>7</sup> In der Aare (oberhalb des Osteingangs der Aareschlucht), im Fildrich, in der Kiene mit Gorneren- und Spiggenbach, in der Kirel, im Lombach, im Narrenbach, im Reichenbach, im Schwarzwasser, in der Kleinen Simme, in der Sorne, in der Suld, im Urbach und in der Zulg ist die Fischerei lediglich am Montag, Mittwoch und Samstag sowie am 16. März gestattet.
+<sup>7</sup> In der Aare (oberhalb des Osteingangs der Aareschlucht), in der Emme (oberhalb der Ilfismündung), im Fildrich, in der Kiene mit Gorneren- und Spiggenbach, in der Kirel, im Lombach, im Narrenbach, im Reichenbach, im Schwarzwasser, in der Kleinen Simme, in der Sorne, in der Suld, im Urbach und in der Zulg ist die Fischerei lediglich am Montag, Mittwoch und Samstag sowie am 16. März gestattet.
 
 #### Art. 24a
 
