@@ -4,13 +4,12 @@ number: "350.100"
 title: "Legge d'applicazione del Codice di diritto processuale penale svizzero"
 short: LACPP
 language: it
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3392/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3578/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3392/pdf_file"
 
 (LACPP)
 
-del 16.06.2010 (stato 01.01.2025)
+del 16.06.2010 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -492,6 +491,8 @@ decide:
 <sup>3</sup> La consultazione degli atti viene autorizzata se può essere fatto valere un interesse degno di tutela.
 
 <sup>4</sup> Decisioni concernenti la consultazione degli atti possono essere impugnate entro 30 giorni per iscritto con ricorso all'autorità di vigilanza.
+
+<sup>5</sup> Secondo il diritto cantonale, le decisioni relative alla presa in visione degli atti in procedimenti dinanzi al Tribunale d'appello e al Tribunale della magistratura sono definitive.
 
 ### 4.4. Spese di procedura e contabilità
 

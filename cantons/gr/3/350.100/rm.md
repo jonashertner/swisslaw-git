@@ -4,13 +4,12 @@ number: "350.100"
 title: Lescha introductiva tar il cudesch da procedura penala svizzer
 short: LItCPP
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3392/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3392/pdf_file"
 
 (LItCPP)
 
-dals 16-06-2010 (versiun dals 01-01-2025)
+dals 16-06-2010 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -492,6 +491,8 @@ concluda:
 <sup>3</sup> L'invista da las actas vegn concedida, sch'in interess degn da vegnir protegì po vegnir fatg valair.
 
 <sup>4</sup> Cunter decisiuns davart l'invista da las actas poi vegnir fatg recurs en scrit entaifer 30 dis tar l'autoritad da surveglianza.
+
+<sup>5</sup> Las decisiuns davart l'invista da las actas en proceduras davant la Dretgira superiura e davant la Dretgira da giustia èn definitivas tenor il dretg chantunal.
 
 ### 4.4. custs da procedura e contabilitad
 
