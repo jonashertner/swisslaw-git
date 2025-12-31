@@ -4,13 +4,12 @@ number: "751.200"
 title: Gesetz über das kantonale Strassenwesen
 short: "Strassengesetz, StrG"
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-06-15
+version: 2026-01-01
+version_adopted: 2024-06-25
 adopted: 2021-06-15
 in_force: 2022-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/751.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3106/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3880/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3106/pdf_file"
 
 (Strassengesetz, StrG)
 
-Vom 15.06.2021 (Stand 01.01.2022)
+Vom 15.06.2021 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -278,7 +277,7 @@ beschliesst:
 
 <sup>1</sup> Zu Gunsten der Strassenrechnung gehen
 
-- a) der Ertrag der Motorfahrzeugabgaben,
+- a) der Ertrag der Verkehrssteuern,
 - b) drei Viertel des Kantonsanteils aus der leistungsabhängigen Schwerverkehrsabgabe,
 - c) Kantonsanteile aus der Mineralölsteuer und der Nationalstrassenabgabe sowie andere, allgemein für Strassen bestimmte Mittel des Bundes,
 - d) Gemeindebeiträge,
