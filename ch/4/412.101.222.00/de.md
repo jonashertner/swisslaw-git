@@ -3,11 +3,11 @@ sr: "412.101.222.00"
 title: Verordnung des SBFI vom 10. Juli 2023 über die berufliche Grundbildung Interaktivmediendesignerin/Interaktivmediendesigner mit eidgenössischem Fähigkeitszeugnis (EFZ) (Interactive Media Designer EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/431"
 language: de
-version: 2025-09-11
+version: 2026-01-01
 adopted: 2023-07-10
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/431/20250911/de/xml/fedlex-data-admin-ch-eli-cc-2023-431-20250911-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20250911/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/431/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2023-431-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20250911/de"
 
 (Interactive Media Designer EFZ)
 
-vom 10. Juli 2023 (Stand am 11. September 2025)
+vom 10. Juli 2023 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>47118</td><td>Interactive Media Designer EFZ Interactive media designer CFC Interactive media designer AFC</td></tr>
@@ -149,13 +149,14 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>3</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>4</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>4</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-2].
 
 <sup>5</sup> Unterrichtssprache ist die Landessprache des Schulorts. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>6</sup> Zweisprachiger Unterricht in der Landessprache des Schulorts und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
 [^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -329,12 +330,13 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>2</td><td>Erstellen von Inhalt und Design von interaktiven digitalen Kommunikationsmitteln Realisieren und Nachbereiten von Projekten für interaktive digitale Kommunikationsmittel</td><td>120 Min.</td><td>50 %</td></tr>
 </table>
 
-- c. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verord-nung des SBFI vom 27. April 2006[^18-1] über Mindestvorschriften für die Allge-meinbildung in der beruflichen Grundbildung.[^18-2]
+- c. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verord-nung des SBFI vom 9. April 2025[^18-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^18-2].[^18-3]
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
-[^18-2]: Berichtigung vom 11. Sept. 2025 ([AS 2025 560](https://fedlex.data.admin.ch/eli/oc/2025/560)).
+[^18-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-3]: Berichtigung vom 11. Sept. 2025 ([AS 2025 560](https://fedlex.data.admin.ch/eli/oc/2025/560)).
 
 #### Art. 19
 
