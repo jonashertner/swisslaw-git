@@ -3,20 +3,19 @@ canton: BL
 number: "144.12"
 title: Dienstordnung der Bau- und Umweltschutzdirektion
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-05
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 2018-10-23
 in_force: 2019-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/144.12"
-pdf: "https://bl.clex.ch/api/de/versions/3785/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4429/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Bau- und Umweltschutzdirektion
 
-Vom 23.10.2018 (Stand 01.01.2024)
+Vom 23.10.2018 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -137,9 +136,9 @@ beschliesst:
 <sup>1</sup> Der Generalsekretärin oder dem Generalsekretär obliegt:
 
 - a. die Gesamtverantwortung für die Führung des Generalsekretariats;
-- b. die Leitung der funktionalen Einheit Strategie.
+- b. die Leitung der funktionalen Einheiten Strategie und Prozesse.
 
-<sup>1<sup>bis</sup></sup> Der stellvertretenden Generalsekretärin oder dem stellvertretenden Generalsekretär obliegt die Leitung der funktionalen Einheit Prozesse.
+<sup>1<sup>bis</sup></sup> …
 
 <sup>2</sup> Das Generalsekretariat gliedert sich in folgende funktionale Einheiten:
 
@@ -198,7 +197,7 @@ beschliesst:
 - b. direktionsexterne Juristinnen oder Juristen nur mit vorgängiger Zustimmung der Abteilung Recht konsultiert werden dürfen;
 - c. der gesamte Vollzug der Finanzhaushaltsgesetzgebung ausschliesslich mit vorgängiger Zustimmung der Abteilung Wirtschaft und Finanzen abzuwickeln ist und diese Weisungen betreffend finanzieller Steuerung und Reporting der Direktion erteilen kann;
 - c<sup>bis</sup>. das Rechnungswesen mit Hauptbuch, Kreditoren-, Debitorenrechnung und Anlagebuchhaltung der gesamten Direktion durch die Abteilung Rechnungswesen geführt wird;
-- d. für die gesamte Direktion sämtliche Neu- und Wiederbesetzungen, die Stellenausschreibungen sowie die Anstellungen von Mitarbeiterinnen und Mitarbeitern, die Funktionsänderungen, die Personalentscheide, die Personalentwicklung, die Berufsbildung und die Personalplanung über die Abteilung Personal der Direktion zu koordinieren und abzuwickeln sind. Bei Arbeitsverträgen, die nicht von der Direktionsvorsteherin oder vom Direktionsvorsteher mitunterzeichnet werden, erfolgt die Zweitunterschrift durch die Abteilung Personal; die Dienststellen unterbreiten über ihre Bereichsleitung Anträge auf Leistungsprämien und Stufenanstiege der stellvertretenden Generalsekretärin oder dem stellvertretenden Generalsekretär zum Entscheid;
+- d. für die gesamte Direktion sämtliche Neu- und Wiederbesetzungen, die Stellenausschreibungen sowie die Anstellungen von Mitarbeiterinnen und Mitarbeitern, die Funktionsänderungen, die Personalentscheide, die Personalentwicklung, die Berufsbildung und die Personalplanung über die Abteilung Personal der Direktion zu koordinieren und abzuwickeln sind. Bei Arbeitsverträgen, die nicht von der Direktionsvorsteherin oder vom Direktionsvorsteher mitunterzeichnet werden, erfolgt die Zweitunterschrift durch die Abteilung Personal; die Dienststellen unterbreiten über ihre Bereichsleitung Anträge auf Leistungsprämien und Stufenanstiege der Generalsekretärin oder dem Generalsekretär zum Entscheid;
 - e. der Einkauf, die Lagerung und Wartung sowie die Installation von EDV-Material sowohl im Hardware- wie im Softwarebereich der vorgängigen Zustimmung der Informatikabteilung bedarf, die auch rechtzeitig in alle Projekte mit EDV-relevanten Aspekten miteinzubeziehen ist und bei Bedarf die Evaluation von Informatikmitteln koordiniert. Ausnahmen werden von der Direktion gewährt;
 - f. die zentrale Beschaffung der notwendigen Infrastruktur und die Festlegung der Schnittstellen und Verantwortlichkeiten in der Zusammenarbeit und Umsetzung von Beschaffungsverfahren mit den ausschreibenden Stellen und den Beauftragten durch die Zentrale Beschaffungsstelle erfolgt;
 - g. Projekte der Digitalen Transformation ausschliesslich mit vorgängiger Zustimmung der Abteilung Digitale Transformation geplant und umgesetzt werden dürfen.
@@ -301,23 +300,40 @@ beschliesst:
 - c. Ressort Energie;
 - d. Ressort Altlasten und Nachhaltige Entwicklung;
 - e. Ressort Ressourcenwirtschaft und Anlagen;
-- f. Ressort Störfallvorsorge und Chemikalien.
+- f. Ressort Störfallvorsorge und Chemikalien;
+- g. Ressort Luft und Klima.
 
 #### § 18
 
 **Aufgaben**
 
-<sup>1</sup> Dem Amt für Umweltschutz und Energie obliegen die kantonalen Aufgaben, die der Direktion auf den Fachgebieten Gewässerschutz, Bodenschutz, Ressourcenwirtschaft, Chemikalien, Altlasten, Energie, Klimaschutz, Wasserversorgung und Nachhaltige Entwicklung zugewiesen sind.
+<sup>1</sup> Dem Amt für Umweltschutz und Energie erfüllt die Aufgaben, die der Direktion auf den nachfolgenden Fachgebieten zugewiesen sind:
 
-<sup>2</sup> Das Amt für Umweltschutz und Energie vollzieht die Gesetzgebung über den Schutz vor Störfällen, den Umgang mit Organismen in geschlossenen Systemen und in der Umwelt sowie über die Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässer.
+- a. Altlasten;
+- b. Bodenschutz;
+- c. Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässer;
+- d. Betrieblicher Umweltschutz;
+- e. Energie;
+- f. Gewässerschutz;
+- g. Luftreinhaltung und Klima;
+- h. Nichtionisierende Strahlung;
+- i. Neobiota;
+- j. Nachhaltige Entwicklung;
+- k. Ressourcenwirtschaft;
+- l. Schutz vor chemischen und biologischen Gefahren;
+- m. Störfallvorsorge;
+- n. Umgang mit Organismen in geschlossenen Systemen und in der Umwelt;
+- o. Wasserversorgung.
 
-<sup>3</sup> Das Amt für Umweltschutz und Energie erfüllt namentlich folgende Aufgaben:
+<sup>2</sup> …
+
+<sup>3</sup> Die Erfüllung der Aufgaben zu den in Abs. 1 aufgeführten Fachbereichen umfasst namentlich folgende Tätigkeiten:
 
 - a. Vollzug der eidgenössischen und kantonalen Gesetzgebung;
 - b. Konzepterarbeitungen, Planungen und Projekte;
-- c. Umweltdatenerfassung (Monitoring), Statistiken, Trends, Auswertungen;
-- d. Koordination, Information und Beratung bei Projekten und Fachfragen;
-- e. Leitung der Sitzungen der Kommission zur Beurteilung von Risikoermittlungen.
+- c. Umweltüberwachung, Statistiken, Trends, Auswertungen;
+- d. Koordination, Information und Beratung;
+- e. Leitung der Kommission zur Beurteilung von Risikoermittlungen.
 
 ### 2.5 Bauinspektorat
 
@@ -414,18 +430,11 @@ beschliesst:
 
 <sup>5</sup> Der Support (SUP) erbringt Dienstleistungen zur optimalen Erledigung der Kernaufgaben des Hochbauamts, erbringt administrative Dienstleistungen, bearbeitet und erstellt Planmaterial und bewirtschaftet solches und schafft Rahmenbedingungen für ein geeignetes, angemessenes und wirksames Qualitätsmanagementsystem.
 
-### 2.7 Lufthygieneamt beider Basel
+### 2.7
 
 #### § 23
 
-**Leitung und Organisation**
-
-<sup>1</sup> Das Lufthygieneamt beider Basel ist administrativ der Bau- und Umweltschutzdirektion unterstellt, fachlich gemeinsam der Bau- und Umweltschutzdirektion des Kantons Basel-Landschaft und dem Departement für Wirtschaft, Soziales und Umwelt des Kantons Basel-Stadt.
-
-<sup>2</sup> Die Gründung und der Betrieb des Lufthygieneamts beider Basel basieren auf der Vereinbarung über das Lufthygieneamt beider Basel vom 21. Mai 1985[^23-1], welche auch vorsieht, dass die Aufgaben und die Organisation in einer gemeinsam zu erlassenden Dienstordnung festgelegt werden. Es wird auf diese Dienstordnung verwiesen.[^23-2]
-
-[^23-1]: [SGS 144.6](https://bl.clex.ch/data/144.6/de)
-[^23-2]: [SGS 144.61](https://bl.clex.ch/data/144.61/de)
+**…**
 
 ### 2.8 Tiefbauamt
 
