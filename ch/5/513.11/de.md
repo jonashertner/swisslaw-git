@@ -4,11 +4,11 @@ title: Verordnung vom 29. März 2017 über die Strukturen der Armee (VSA)
 short: VSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-218-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-218-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20240101/de"
 
 (VSA)
 
-vom 29. März 2017 (Stand am 1. Januar 2024)
+vom 29. März 2017 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 60 Absatz 3 des Militärgesetzes vom 3. Februar 1995[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [SR 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452)
 
 #### Art. 1
 
@@ -64,10 +64,13 @@ Dienstzweige der Armee sind:
 - b.[^3-1] der Nachrichtendienst;
 - c die Armeeseelsorge;
 - d. der Psychologisch-Pädagogische Dienst;
-- e. der Territorialdienst;
-- f. der Bereitschaftsdienst.
+- e.[^3-2] die zivil-militärische Zusammenarbeit;
+- f. der Bereitschaftsdienst;
+- g.[^3-3] der Abwehrdienst.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
 
 #### Art. 4
 
@@ -122,7 +125,7 @@ Folgende Angehörige der Armee werden nicht in eine Formation eingeteilt:
 - i. Angehörige der Armee im Jahr der Entlassung aus der Militärdienstpflicht.
 
 [^6-1]: Fassung gemäss Anhang 7 Ziff. II 4 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)). Berichtigung vom 29. Jan. 2019 ([AS 2019 421](https://fedlex.data.admin.ch/eli/oc/2019/72)).
-[^6-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^6-2]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^6-3]: Eingefügt durch Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)).
 
 #### Art. 7
@@ -149,7 +152,7 @@ Anhang 1[^t-1]
 
 ## Strukturen der Armee
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 2019 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), Ziff. I der V vom 24. Nov. 2021 ([AS 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)), Ziff. II der V vom 23. Nov. 2022 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)) und Ziff. II 10 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 746](https://fedlex.data.admin.ch/eli/oc/2023/746)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
 
 <table>
 <tr><th>1. Gliederungsebene</th><th>2. Gliederungsebene</th><th>3. Gliederungsebene</th><th>Strukturebene</th></tr>
@@ -158,11 +161,9 @@ Anhang 1[^t-1]
 <tr><td></td><td></td><td></td><td>Operative Schulung</td></tr>
 <tr><td>Kommando Operationen</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Militärischer Nachrichtendienst</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Dienst für präventiven Schutz der Armee</td></tr>
+<tr><td></td><td></td><td></td><td>Dienst für Abwehr und Analyse</td></tr>
 <tr><td></td><td>Heer</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Kompetenzzentrum Führungs- und Fachsysteme</td></tr>
 <tr><td></td><td></td><td></td><td>Heeresstabsbataillon 20</td></tr>
-<tr><td></td><td></td><td></td><td>Ingenieurstab Heer</td></tr>
 <tr><td></td><td></td><td>Mechanisierte Brigade 1</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Mechanisierte Brigade Stabsbataillon 1</td></tr>
 <tr><td></td><td></td><td></td><td>Panzerbataillon 12</td></tr>
@@ -204,6 +205,7 @@ Anhang 1[^t-1]
 <tr><td></td><td></td><td></td><td>Infanteriebataillon 20</td></tr>
 <tr><td></td><td></td><td></td><td>Infanteriebataillon 56</td></tr>
 <tr><td></td><td></td><td></td><td>Infanteriebataillon 97</td></tr>
+<tr><td></td><td></td><td></td><td>Leichtes Infanteriebataillon 11</td></tr>
 <tr><td></td><td></td><td></td><td>Geniebataillon 6</td></tr>
 <tr><td></td><td></td><td></td><td>Rettungsbataillon 2</td></tr>
 <tr><td></td><td>Territorialdivision 3</td><td></td><td></td></tr>
@@ -228,33 +230,31 @@ Anhang 1[^t-1]
 <tr><td></td><td></td><td></td><td>Einsatzkommando Militärpolizei</td></tr>
 <tr><td></td><td></td><td></td><td>Einsatzkommando Militärpolizei Sicherheitsdienst</td></tr>
 <tr><td></td><td></td><td></td><td>Kompetenzzentrum Militärpolizei</td></tr>
-<tr><td></td><td></td><td></td><td>Einsatzkommando Militärpolizei Fahndung und Schutz</td></tr>
-<tr><td></td><td></td><td></td><td>Militärpolizeibataillon 1</td></tr>
-<tr><td></td><td></td><td></td><td>Militärpolizeibataillon 2</td></tr>
-<tr><td></td><td></td><td></td><td>Militärpolizeibataillon 3</td></tr>
-<tr><td></td><td></td><td></td><td>Militärpolizeibataillon 4</td></tr>
+<tr><td></td><td></td><td></td><td>Militärpolizeistabsbataillon 13</td></tr>
+<tr><td></td><td></td><td></td><td>Militärpolizeibataillon 12</td></tr>
+<tr><td></td><td></td><td></td><td>Militärpolizeibataillon 34</td></tr>
 <tr><td></td><td>Luftwaffe</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Operationszentrale Luftwaffe, einschliesslich Lufttransportgeschwader 4</td></tr>
-<tr><td></td><td></td><td></td><td>Flugplatzkommando 2, einschliesslich – Lufttransportgeschwader 2 – Lufttransportabteilung 2 – Lufttransportgeschwader 3 – Lufttransportabteilung 3</td></tr>
-<tr><td></td><td></td><td></td><td>Flugplatzkommando 4</td></tr>
-<tr><td></td><td></td><td></td><td>Flugplatzkommando 7, einschliesslich Drohnenkommando 84</td></tr>
-<tr><td></td><td></td><td></td><td>Flugplatzkommando 11, einschliesslich – Fliegergeschwader 11 – Flugplatzabteilung 11 – Fliegergeschwader 14 – Flugplatzabteilung 14 – Lufttransportgeschwader 1 – Lufttransportabteilung 1</td></tr>
-<tr><td></td><td></td><td></td><td>Flugplatzkommando 13, einschliesslich: – Fliegergeschwader 13 – Flugplatzabteilung 13</td></tr>
+<tr><td></td><td></td><td></td><td>Operationszentrale Luftwaffe,</td></tr>
+<tr><td></td><td></td><td></td><td>Kompetenzzentrum Weltraum</td></tr>
 <tr><td></td><td></td><td>Fliegerbrigade 31</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Mobile Luftwaffenradarabteilung 2</td></tr>
-<tr><td></td><td></td><td></td><td>Luftwaffennachrichtenabteilung 1</td></tr>
-<tr><td></td><td></td><td></td><td>Luftwaffennachrichtenabteilung 2</td></tr>
-<tr><td></td><td></td><td>Bodluv-Brigade 33</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Flugplatzkommando 2, einschliesslich – Lufttransportgeschwader 2 – Flugplatzabteilung 20 – Mobile Flugplatzabteilung 21</td></tr>
+<tr><td></td><td></td><td></td><td>Flugplatzkommando 4</td></tr>
+<tr><td></td><td></td><td></td><td>Flugplatzkommando 7, einschliesslich – Lufttransportgeschwader 3 – Drohnengeschwader 7 – Flugplatzabteilung 7 – Mobile Flugplatzabteilung 7</td></tr>
+<tr><td></td><td></td><td></td><td>Flugplatzkommando 11, einschliesslich – Fliegergeschwader 11 – Lufttransportgeschwader 1 – Flugplatzabteilung 11 – Mobile Flugplatzabteilung 14</td></tr>
+<tr><td></td><td></td><td></td><td>Flugplatzkommando 13, einschliesslich – Fliegergeschwader 13 – Flugplatzabteilung 13 – Mobile Flugplatzabteilung 13</td></tr>
+<tr><td></td><td></td><td>Bodengestützte Luftverteidigungsbrigade 33</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Mittlere Fliegerabwehrabteilung 32</td></tr>
 <tr><td></td><td></td><td></td><td>Mittlere Fliegerabwehrabteilung 34</td></tr>
 <tr><td></td><td></td><td></td><td>Mittlere Fliegerabwehrabteilung 45</td></tr>
 <tr><td></td><td></td><td></td><td>Leichte Fliegerabwehrlenkwaffenabteilung 1</td></tr>
 <tr><td></td><td></td><td></td><td>Leichte Fliegerabwehrlenkwaffenabteilung 5</td></tr>
 <tr><td></td><td></td><td></td><td>Leichte Fliegerabwehrlenkwaffenabteilung 7</td></tr>
+<tr><td></td><td></td><td></td><td>Luftlageabteilung 1</td></tr>
+<tr><td></td><td></td><td></td><td>Luftlageabteilung 2</td></tr>
 <tr><td></td><td>Kompetenzzentrum SWISSINT</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Kommando Ausbildungszentrum SWISSINT</td></tr>
 <tr><td></td><td>Kommando Spezialkräfte</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Spezialkräfte Stabsbataillon</td></tr>
-<tr><td></td><td></td><td></td><td>Spezialkräfte Bereitschaftsdetachement 104 (204)</td></tr>
 <tr><td></td><td></td><td></td><td>Grenadierbataillon 20</td></tr>
 <tr><td></td><td></td><td></td><td>Grenadierbataillon 30</td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Ausbildungszentrum Spezialkräfte</td></tr>
@@ -276,8 +276,8 @@ Anhang 1[^t-1]
 <tr><td></td><td></td><td></td><td>Sanitätssupportbataillon 9</td></tr>
 <tr><td></td><td>Stab Sanität</td><td></td><td></td></tr>
 <tr><td>Kommando Cyber</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Kompetenzzentrum Führungs- und Fachsysteme</td></tr>
 <tr><td></td><td>Führungsunterstützungsbrigade 41</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Kommando Führungsunterstützung Systeme/Kurse/Support</td></tr>
 <tr><td></td><td></td><td></td><td>Führungsunterstützungsbrigade Stabsbataillon 41</td></tr>
 <tr><td></td><td></td><td></td><td>HQ Bataillon 11</td></tr>
 <tr><td></td><td></td><td></td><td>HQ Bataillon 22</td></tr>
@@ -290,7 +290,7 @@ Anhang 1[^t-1]
 <tr><td></td><td></td><td></td><td>Elektronikabteilung 46</td></tr>
 <tr><td></td><td></td><td></td><td>EFK Abteilung 51</td></tr>
 <tr><td></td><td></td><td></td><td>EKF Abteilung 52</td></tr>
-<tr><td></td><td></td><td></td><td>Cyber Bataillon 42</td></tr>
+<tr><td></td><td></td><td></td><td>Cyberbataillon 42</td></tr>
 <tr><td>Kommando Ausbildung</td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Ausbildungszentrum der Armee</td></tr>
 <tr><td></td><td>Höhere Kaderausbildung der Armee</td><td></td><td></td></tr>
@@ -298,6 +298,7 @@ Anhang 1[^t-1]
 <tr><td></td><td></td><td></td><td>Kommando Zentralschule</td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Militärakademie</td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Berufsunteroffiziersschule der Armee</td></tr>
+<tr><td></td><td></td><td></td><td>Kommando Führungs- und Kommunikationsausbildung</td></tr>
 <tr><td></td><td>Lehrverband Infanterie</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Infanteriebereitschaftsbataillon 104 (204)</td></tr>
 <tr><td></td><td></td><td></td><td>Kompetenzzentrum Gebirgsdienst der Armee, einschliesslich Gebirgsspezialistenabteilung 1</td></tr>
@@ -305,9 +306,10 @@ Anhang 1[^t-1]
 <tr><td></td><td>Lehrverband Panzer/Artillerie</td><td></td><td></td></tr>
 <tr><td></td><td>Lehrverband Genie/Rettung/ABC</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Katastrophenhilfebereitschaftsbataillon 104 (204)</td></tr>
-<tr><td></td><td></td><td></td><td>Kompetenzzentrum ABC/KAMIR, einschliesslich: – Kommando KAMIR – ABC Abwehrbataillon 10 – ABC Abwehrbataillon 20</td></tr>
+<tr><td></td><td></td><td></td><td>Kompetenzzentrum ABC/ Kampfmittelbeseitigung und Minenräumung, einschliesslich: – Kommando Kampfmittelbeseitigung und Minenräumung – ABC Abwehrbataillon 10 – ABC Abwehrbataillon 20</td></tr>
 <tr><td></td><td></td><td></td><td>Kompetenzzentrum Sport der Armee</td></tr>
 <tr><td></td><td>Lehrverband Führungsunterstützung</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Kommando Führungsunterstützung Systeme/Kurse/Support</td></tr>
 <tr><td></td><td>Lehrverband Logistik</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kompetenzzentrum Veterinärdienst und Armeetiere, einschliesslich Veterinär- und Armeetiereabteilung 13</td></tr>
 <tr><td></td><td>Personelles der Armee</td><td></td><td></td></tr>
