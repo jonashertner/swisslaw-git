@@ -4,13 +4,12 @@ number: "412.212"
 title: Verordnung über die berufliche Grundbildung
 short: BbG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-22
+version: 2026-01-01
+version_adopted: 2025-10-21
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.212"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2837/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2947/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ BbG
 
 (BbG)
 
-vom 25.11.2014 (Stand 01.01.2025)
+vom 25.11.2014 (Stand 01.01.2026)
 
 ## 1. Unterricht an den Berufsfachschulen
 
@@ -102,20 +101,19 @@ vom 25.11.2014 (Stand 01.01.2025)
 
 - 1\. Noten für die Leistungen in den Fächern nach Bildungsplan
 - 2\. Noten für die Leistungen der Freikurse
-- 3\. Unentschuldigte und entschuldigte Absenzen in Lektionen
+- 3\. Absenzen in Lektionen
 
-<sup>3</sup> Das Zeugnis ist von den Lernenden, bei Unmündigen von der gesetzlichen Vertretung, sowie von den für die Ausbildung verantwortlichen Personen zu unterschreiben.
+<sup>3</sup> Die Berufsfachschulen stellen sicher, dass Lernende und Betriebe das Zeugnis erhalten.
 
 #### § 9
 
 **Absenzen**
 
-<sup>1</sup> Als Entschuldigungsgründe für Absenzen werden nur triftige Gründe anerkannt, insbesondere:
+<sup>1</sup> Als Gründe für Absenzen gelten insbesondere:
 
 - 1\. Erfüllung gesetzlicher Pflichten
-- 2\. Krankheit und Unfall, welche den Schulbesuch ausschliessen
-- 3\. Notfallarbeiten im Ausbildungsbetrieb, wenn das übrige Personal ebenfalls dafür eingesetzt wird
-- 4\. Betriebsferien bis maximal zwei Wochen
+- 2\. Krankheit und Unfall, wenn dadurch der Schulbesuch verunmöglicht wird
+- 3\.–4. …
 - 5\. ausserschulische Jugendarbeit im Rahmen von Art. 329e OR[^9-1]
 
 [^9-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
@@ -124,17 +122,17 @@ vom 25.11.2014 (Stand 01.01.2025)
 
 **Disziplinarmassnahmen**
 
-<sup>1</sup> Lehrpersonen können Lernende, welche den Unterricht oder den Schulbetrieb stören, Anordnungen nicht Folge leisten, sich nicht an die Schulordnung halten oder unentschuldigt dem Unterricht fern bleiben, disziplinarisch bestrafen und insbesondere folgende Strafen und Massnahmen anordnen:
+<sup>1</sup> Lehrpersonen können Lernende, die den Unterricht oder den Schulbetrieb stören, Anordnungen nicht Folge leisten oder sich nicht an die Schulordnung halten, disziplinarisch bestrafen und insbesondere folgende Strafen und Massnahmen anordnen:
 
 - 1\. Beschaffung fehlender Unterlagen
 - 2\. zusätzliche Aufgaben
-- 3\. Wegnahme von den Unterricht störenden Gegenständen für die Dauer des Unterrichts
+- 3\. Wegnahme von Gegenständen, die den Unterricht stören, für die Dauer des Unterrichts
 - 4\. Ausschluss vom laufenden Unterricht
 - 5\. Geldbussen bis Fr. 50
 
-<sup>1<sup>bis</sup></sup> Nach Anordnung einer Geldbusse gemäss Abs. 1 Ziff. 5 erlässt der Rektor oder die Rektorin auf Verlangen einen anfechtbaren Entscheid.
+<sup>1<sup>bis</sup></sup> Nach Anordnung einer Geldbusse gemäss Abs. 1 Ziff. 5 erlässt der Rektor oder die Rektorin oder der Prorektor oder die Prorektorin auf Verlangen einen Entscheid.
 
-<sup>2</sup> Der Rektor oder die Rektorin kann folgende Disziplinarmassnahmen unter gleichzeitiger Mitteilung an die Lehrvertragsparteien verhängen:
+<sup>2</sup> Der Rektor oder die Rektorin oder der Prorektor oder die Prorektorin kann folgende Disziplinarmassnahmen unter gleichzeitiger Mitteilung an die Lehrvertragsparteien verhängen:
 
 - 1\. schriftlicher Verweis
 - 2\. vorübergehende Wegweisung aus Unterricht, Freifächern, Exkursionen oder Schulanlässen
