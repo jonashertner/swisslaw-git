@@ -4,13 +4,13 @@ number: "151.1"
 title: Gesetz über die Organisation und die Geschäftsführung des Landrates
 short: "Landratsgesetz, LRG"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-09-25
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-08-27
 adopted: 1998-02-04
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/151.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1333/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1333/pdf_file"
 
 (Landratsgesetz, LRG)
 
-vom 04.02.1998 (Stand 01.01.2025)
+vom 04.02.1998 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -315,7 +315,7 @@ beschliesst:
 <sup>3</sup> Die Justizkommission ist ferner zuständig für die Vorberatung von:
 
 - 1\. Beschwerden;
-- 2\. Einbürgerungsgesuchen;
+- 2\. …
 - 3\. Begnadigungsgesuchen;
 - 4\. Gesuchen um Erläuterungen der Kantonsverfassung und der Gesetze;
 - 5\. Petitionen.
@@ -434,7 +434,7 @@ beschliesst:
 
 <sup>1</sup> Der Landrat kann ausnahmsweise die Öffentlichkeit der Sitzung aufheben, wenn dies im Interesse der öffentlichen Ordnung oder Sicherheit als geboten erscheint oder wenn schützenswerte private Interessen es rechtfertigen.
 
-<sup>2</sup> Die Behandlung von Begnadigungsgesuchen und Einbürgerungsgesuchen erfolgt in allen Fällen unter Ausschluss der Öffentlichkeit.
+<sup>2</sup> Die Behandlung von Begnadigungsgesuchen erfolgt in allen Fällen unter Ausschluss der Öffentlichkeit.
 
 #### Art. 33
 
@@ -466,11 +466,7 @@ beschliesst:
 
 #### Art. 35a
 
-**Verfahren bei Einbürgerungsgesuchen**
-
-<sup>1</sup> Jedes Einbürgerungsgesuch ist einzeln zur Diskussion zu stellen.
-
-<sup>2</sup> Wird kein begründeter Antrag auf Ablehnung gestellt, ist das Gesuch nach erfolgtem Abschluss der Diskussion angenommen.
+**…**
 
 #### Art. 36
 
