@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 1981 sull'assicurazione contro gli infortuni
 short: LAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20240101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20240101/it"
 
 (LAINF)
 
-del 20 marzo 1981 (Stato 1° gennaio 2024)
+del 20 marzo 1981 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,8 +25,8 @@ visti gli articoli 110 capoverso 1 lettera a e 117 capoverso 1 della Costituzion
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^ingress-3]: [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)
 
 ## Titolo primo: Applicabilità della LPGA
@@ -49,9 +49,9 @@ Esse non sono applicabili ai seguenti settori:
 - c. procedura concernente contestazioni pecuniarie tra assicuratori (art. 78*a*);
 - d.[^1-3] procedura concernente il riconoscimento di corsi di formazione e il rilascio di attestati di formazione (art. 82*a*).
 
-[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1-2]: Introdotta dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^1-3]: Introdotta dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^1-2]: Introdotta dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^1-3]: Introdotta dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 ## Titolo primo *a*: Persone assicurate
 
@@ -76,12 +76,12 @@ Sono assicurati d’obbligo ai sensi della presente legge:
 <sup>2</sup> Il Consiglio federale può estendere l’assicurazione obbligatoria alle persone vincolate da rapporto analogo a quello risultante da un contratto di lavoro. Esso può esentare dall’obbligo segnatamente i familiari collaboranti nell’impresa, i dipendenti irregolari e le persone beneficiarie di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007[^1a-6] sullo Stato ospite.[^1a-7]
 
 [^1a-1]: Originario: art. 1.
-[^1a-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^1a-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 [^1a-3]: Introdotta dall’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^1a-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^1a-5]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^1a-6]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1a-7]: Nuovo testo giusta l’all. n. II 12 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^1a-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^1a-5]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^1a-6]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^1a-7]: Nuovo testo giusta l’all. cifra II n. 12 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 
 #### Art. 2
 
@@ -107,11 +107,11 @@ Sono assicurati d’obbligo ai sensi della presente legge:
 
 <sup>5</sup> Il Consiglio federale disciplina le rimunerazioni e i redditi sostitutivi computabili come salario, come pure la forma e il contenuto degli accordi di protrazionedell’assicurazione.[^3-5]
 
-[^3-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^3-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^3-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^3-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^3-5]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^3-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^3-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^3-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^3-4]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^3-5]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 ### Capitolo 2: Assicurazione facoltativa
 
@@ -154,7 +154,7 @@ L’assicurazione effettua le prestazioni anche per le lesioni corporali seguent
 
 <sup>3</sup> L’assicurazione effettua inoltre le prestazioni per lesioni causate all’infortunato durante la cura medica (art. 10).
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 7
 
@@ -171,7 +171,7 @@ Sono infortuni professionali quelli (art. 4 LPGA[^7-1]) di cui è vittima l’as
 
 <sup>3</sup> Il Consiglio federale può definire altrimenti l’infortunio professionale per settori dell’economia con particolari forme di gestione, segnatamente l’agricoltura ed il piccolo artigianato.
 
-[^7-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^7-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^7-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 8
@@ -182,7 +182,7 @@ Sono infortuni professionali quelli (art. 4 LPGA[^7-1]) di cui è vittima l’as
 
 <sup>2</sup> Gli occupati a tempo parziale ai sensi dell’articolo 7 capoverso 2 non sono assicurati contro gli infortuni non professionali.
 
-[^8-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^8-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^8-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 9
@@ -195,7 +195,7 @@ Sono infortuni professionali quelli (art. 4 LPGA[^7-1]) di cui è vittima l’as
 
 <sup>3</sup> Salvo diversa disposizione, la malattia professionale è assimilata all’infortunio professionale dalla sua insorgenza. Essa è considerata insorta quando l’interessato abbisogna per la prima volta di cura medica o è incapace di lavorare (art. 6 LPGA).[^9-3]
 
-[^9-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^9-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^9-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^9-3]: Nuovo testo del per. giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
@@ -221,9 +221,9 @@ L’assicurato ha diritto alla cura appropriata dei postumi d’infortunio, segn
 
 <sup>3</sup> Il Consiglio federale può definire più in dettaglio le prestazioni d’obbligo a carico dell’assicurazione e limitare il rimborso delle spese di cura all’estero. Esso può inoltre fissare le condizioni relative al diritto all’assistenza e alle cure a domicilio.[^10-3]
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^10-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^10-3]: Nuovo testo del per. giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^10-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^10-3]: Nuovo testo del per. giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 11
 
@@ -274,7 +274,7 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 - c. qualora l’assicurato non riscuota affatto, o non ancora, il salario consueto nella sua professione;
 - d. qualora l’assicurato sia occupato in modo irregolare.
 
-[^15-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^15-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^15-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 ### Sezione 2: Indennità giornaliera
@@ -293,13 +293,13 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 
 <sup>5</sup> Gli assicurati di cui all’articolo 1*a* capoverso 1 lettera c cui è versata una rendita secondo l’articolo 22<sup>bis</sup> capoverso 5 LAI[^16-7] in combinato disposto con l’articolo 28 LAI non hanno diritto all’indennità giornaliera.[^16-8]
 
-[^16-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^16-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^16-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^16-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^16-4]: Nuovo testo giusta l’all. n. 3 della LF del 17 mar. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [FF 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^16-6]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^16-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^16-5]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^16-6]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^16-7]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^16-8]: Introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 17
@@ -314,11 +314,11 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 
 <sup>4</sup> L’indennità giornaliera per gli assicurati di cui all’articolo 1*a* capoverso 1 lettera c corrisponde all’indennità giornaliera netta dell’assicurazione per l’invalidità.[^17-6]
 
-[^17-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^17-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^17-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^17-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^17-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^17-5]: Abrogato dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^17-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^17-4]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^17-5]: Abrogato dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^17-6]: Introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 ### Sezione 3: Rendita d’invalidità
@@ -332,9 +332,9 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 <sup>2</sup> Il Consiglio federale disciplina la determinazione del grado d’invalidità in casi speciali. Ha la facoltà di derogare dall’articolo 16 LPGA.
 
 [^18-1]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^18-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^18-3]: Nuova espr. giusta l’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^18-4]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^18-4]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 19
 
@@ -370,13 +370,13 @@ In deroga all’articolo 69 LPGA, al raggiungimento dell’età di riferimento[^
 
 <sup>3</sup> Il Consiglio federale emana disposizioni particolareggiate, segnatamente circa il calcolo delle rendite complementari in casi speciali.
 
-[^20-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^20-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^20-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^20-3]: Nuovo testo del secondo e terzo per. introdotto dall’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^20-4]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^20-4]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^20-5]: Nuova espr. giusta l’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^20-6]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^20-7]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^20-6]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^20-7]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 21
 
@@ -404,8 +404,8 @@ Determinata la rendita, le prestazioni sanitarie e il rimborso delle spese (art.
 In deroga all’articolo 17 capoverso 1 LPGA[^22-2], la rendita non può più essere riveduta dal mese in cui l’avente diritto anticipa la riscossione della totalità della rendita AVS in virtù dell’articolo 40 capoverso 1 della legge federale del 20 dicembre 1946[^22-3] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), ma al più tardi dal momento in cui lo stesso raggiunge l’età di riferimento secondo l’articolo 21 capoverso 1 LAVS.
 
 [^22-1]: Nuovo testo giusta l’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^22-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^22-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^22-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 23
 
@@ -426,7 +426,7 @@ In deroga all’articolo 17 capoverso 1 LPGA[^22-2], la rendita non può più es
 <sup>2</sup> L’indennità è determinata simultaneamente alla rendita d’invalidità o al termine della cura medica se l’assicurato non ha diritto a una rendita. Il Consiglio federale può prevedere che in casi speciali il diritto nasca in un altro momento, segnatamente se i danni alla salute sono dovuti all’inalazione di fibre di amianto.[^24-2]
 
 [^24-1]: Nuovo testo giusta l’all. n. 5 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^24-2]: Per. introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^24-2]: Per. introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 25
 
@@ -446,7 +446,7 @@ In deroga all’articolo 17 capoverso 1 LPGA[^22-2], la rendita non può più es
 
 <sup>2</sup> …[^26-3]
 
-[^26-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^26-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^26-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^26-3]: Abrogato dall’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
@@ -456,7 +456,7 @@ In deroga all’articolo 17 capoverso 1 LPGA[^22-2], la rendita non può più es
 
 L’assegno è fissato secondo il grado della grande invalidità. Il suo ammontare mensile è pari almeno al doppio e al massimo al sestuplo dell’importo massimo del guadagno giornaliero assicurato. Alla revisione dell’assegno (art. 17 LPGA[^27-1]) si applica per analogia l’articolo 22.[^27-2]
 
-[^27-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^27-2]: Nuovo testo del per. giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 ### Sezione 6: Rendite per i superstiti
@@ -483,8 +483,8 @@ Il coniuge superstite ed i figli hanno diritto a rendite per i superstiti se l�
 
 <sup>6</sup> Il diritto alla rendita nasce il mese successivo a quello della morte dell’assicurato o qualora il coniuge superstite diventi invalido per almeno due terzi. Esso si estingue con il passaggio a nuove nozze, con la morte dell’avente diritto o col riscatto della rendita. …[^29-3]
 
-[^29-1]: Abrogato dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^29-2]: Abrogato dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^29-1]: Abrogato dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^29-2]: Abrogato dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^29-3]: Per. abrogato dall’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 30
@@ -497,7 +497,7 @@ Il coniuge superstite ed i figli hanno diritto a rendite per i superstiti se l�
 
 <sup>3</sup> Il diritto alla rendita decorre dal mese successivo a quello della morte dell’assicurato o del genitore superstite. Esso si estingue al compimento del 18.mo anno d’età, con la morte dell’orfano o col riscatto della rendita.[^30-1] Per i figli che sono ancora a tirocinio o agli studi il diritto alla rendita dura sino alla fine degli stessi, ma al massimo sino al compimento del 25.mo anno d’età. … .[^30-2]
 
-[^30-1]: Nuovo testo della frase giusta il n. II 6 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
+[^30-1]: Nuovo testo della frase giusta la cifra II n. 6 della LF del 7 ott. 1994, in vigore dal 1° gen. 1996 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)).
 [^30-2]: Per. abrogato dall’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 31
@@ -523,12 +523,12 @@ Le rendite per i superstiti ammontano, rispetto al guadagno assicurato, al:
 
 <sup>5</sup> Il Consiglio federale emana disposizioni particolareggiate, segnatamente sul calcolo delle rendite complementari, nonché delle rendite doppie per orfani quando ambedue i genitori erano assicurati.
 
-[^31-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^31-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^31-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^31-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^31-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^31-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^31-4]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^31-5]: Nuovo testo del terzo per. e quarto per. introdotto dall’all. n. 6 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^31-6]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^31-6]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 32
 
@@ -554,7 +554,7 @@ Se il diritto del coniuge superstite si estingue per nuove nozze e se queste son
 
 <sup>2</sup> Il Consiglio federale fissa le indennità in base all’indice nazionale dei prezzi al consumo. Le rendite sono adeguate al rincaro nello stesso momento delle rendite dell’assicurazione per la vecchiaia e per i superstiti.[^34-1]
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1991, in vigore dal 1° gen. 1994 ([RU 1992 1327](https://fedlex.data.admin.ch/eli/oc/1992/1327_1327_1327); [FF 1991 I 181](https://fedlex.data.admin.ch/eli/fga/1991/1_217_193_181)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1991, in vigore dal 1° gen. 1994 ([RU 1992 1327](https://fedlex.data.admin.ch/eli/oc/1992/1327_1327_1327); [FF 1991 I 181](https://fedlex.data.admin.ch/eli/fga/1991/1_217_193_181)).
 
 ### Sezione 8: Riscatto delle rendite
 
@@ -590,7 +590,7 @@ Se il diritto del coniuge superstite si estingue per nuove nozze e se queste son
 
 <sup>3</sup> Le prestazioni in contanti, in deroga all’articolo 21 capoverso 1 LPGA, possono essere ridotte, o rifiutate in casi particolarmente gravi, se l’assicurato ha provocato l’infortunio commettendo senza dolo un crimine o un delitto. Esse sono ridotte al massimo della metà se l’assicurato, all’epoca dell’infortunio, deve provvedere al sostentamento di congiunti aventi diritto, alla sua morte, a rendite per superstiti. Se egli muore dei postumi dell’infortunio, anche le prestazioni in contanti per i superstiti possono essere ridotte, in deroga all’articolo 21 capoverso 2 LPGA, al massimo della metà.[^37-3]
 
-[^37-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^37-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^37-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^37-3]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
@@ -607,7 +607,7 @@ Se il diritto del coniuge superstite si estingue per nuove nozze e se queste son
 Il Consiglio federale può designare i pericoli straordinari e gli atti temerari motivanti il rifiuto di tutte le prestazioni o la riduzione delle prestazioni in contanti in materia di assicurazione contro gli infortuni non professionali. Può ordinare il rifiuto e la riduzione in deroga all’articolo 21 capoversi1–3 LPGA[^39-2].
 
 [^39-1]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^39-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^39-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 40 e 41
 
@@ -622,7 +622,7 @@ Il Consiglio federale può designare i pericoli straordinari e gli atti temerari
 In caso di regresso secondo gli articoli 72–75 LPGA[^42-2], l’articolo 73 capoverso 2 LPGA è applicabile anche se la riduzione ha luogo in virtù dell’articolo 37 capoversi 2 e 3 oppure dell’articolo 39 della presente legge, a condizione che la riduzione sia stata motivata dal fatto che l’assicurato ha provocato il danno per propria colpa.
 
 [^42-1]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^42-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^42-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 43 e 44
 
@@ -652,9 +652,9 @@ In caso di regresso secondo gli articoli 72–75 LPGA[^42-2], l’articolo 73 ca
 
 <sup>3bis</sup> L’assicurato di cui all’articolo 1*a* capoverso 1 lettera c deve notificare tempestivamente l’infortunio all’ufficio AI o all’INSAI. S’egli muore in seguito all’infortunio, tale obbligo incombe ai superstiti aventi diritto a prestazioni.[^45-4]
 
-[^45-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^45-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^45-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^45-3]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^45-3]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^45-4]: Introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 46
@@ -715,7 +715,7 @@ I crediti in conformità della presente legge e quelli in restituzione di rendit
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^tit4-chap1-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 53
 
@@ -725,8 +725,8 @@ I crediti in conformità della presente legge e quelli in restituzione di rendit
 
 <sup>2</sup> Il Consiglio federale stabilisce a quali condizioni gli ospedali e le case di cura, il personale paramedico, i laboratori nonché le imprese di trasporto e di salvataggio possono praticare a carico dell’assicurazione contro gli infortuni.
 
-[^53-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^53-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^53-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^53-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 54
 
@@ -740,7 +740,7 @@ Chi pratica per l’assicurazione contro gli infortuni deve limitarsi a quanto r
 
 Il fornitore di prestazioni deve consegnare all’assicuratore una fattura dettagliata e comprensibile. Deve inoltre trasmettergli tutte le indicazioni necessarie per valutare il diritto alle prestazioni e verificare il conteggio della rimunerazione e l’economicità della prestazione.
 
-[^54a-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^54a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000 ([RU 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 55
 
@@ -748,7 +748,7 @@ Il fornitore di prestazioni deve consegnare all’assicuratore una fattura detta
 
 Se, per motivi gravi, un assicuratore vuol negare o non vuol più concedere a una persona esercitante una professione sanitaria, a un laboratorio, a un ospedale o a una casa di cura il diritto di curare gli assicurati, prescrivere e fornire loro medicamenti, ordinare o effettuare trattamenti o analisi, il tribunale arbitrale (art. 57) ne decide l’esclusione e la durata della stessa.
 
-[^55-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^55-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 ### Capitolo 2: Collaborazione e tariffe
 
@@ -772,10 +772,10 @@ In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 3<
 <sup>4</sup> Le tasse sono uguali per tutti gli assicurati contro gli infortuni.
 
 [^56-1]: Nuovo testo giusta l’all. n. 3 della LF del 30 set. 2022 (Misure di contenimento dei costi – Pacchetto 1*b*), in vigore dal 1° gen. 2024 ([RU 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^56-2]: Nuovo testo del per. giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^56-3]: Vedi anche l’art. 1 dell’O del 17 set. 1986 sulle tariffe degli stabilimenti e delle case di cura nell’assicurazione contro gli infortuni ([RS 832.206.2](https://fedlex.data.admin.ch/eli/cc/1986/1525_1525_1525)).
-[^56-4]: Nuovo testo del per. giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^56-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^56-2]: Nuovo testo del per. giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^56-3]: Vedi anche l’art. 1 dell’O del 17 set. 1986 sulle tariffe degli stabilimenti e delle case di cura nell’assicurazione contro gli infortuni ([RS 832.206.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10195)).
+[^56-4]: Nuovo testo del per. giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^56-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^56-6]: Introdotto dall’all. n. 2 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^56-7]: Introdotto dall’all. n. 2 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
@@ -793,8 +793,8 @@ In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 3<
 
 <sup>5</sup> Contro le sentenze del tribunale arbitrale può essere interposto ricorso al Tribunale federale secondo la legge del 17 giugno 2005[^57-2] sul Tribunale federale.[^57-3]
 
-[^57-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^57-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^57-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^57-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^57-3]: Introdotto dall’all. n. 111 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Titolo quinto: Organizzazione
@@ -809,7 +809,7 @@ In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 3<
 
 L’assicurazione contro gli infortuni è gestita, secondo le categorie d’assicurati, dall’INSAI o da altri assicuratori autorizzati e dalla cassa suppletiva da loro amministrata.
 
-[^58-1]: Nuovo testo dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^58-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 59
 
@@ -831,7 +831,7 @@ L’assicurazione contro gli infortuni è gestita, secondo le categorie d’assi
 
 <sup>3</sup> Gli assicuratori sottopongono il contratto-tipo all’approvazione del Consiglio federale. In assenza di un contratto-tipo sufficiente, il Consiglio federale stabilisce gli elementi che devono figurare in ogni contratto.
 
-[^59a-1]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^59a-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 60
 
@@ -839,7 +839,7 @@ L’assicurazione contro gli infortuni è gestita, secondo le categorie d’assi
 
 L’INSAI consulta le organizzazioni interessate di datori di lavoro e di lavoratori in merito alla determinazione delle tariffe dei premi e alla ripartizione delle stesse in comunità di rischio.
 
-[^60-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^60-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 60a
 
@@ -849,7 +849,7 @@ Per adempiere i loro compiti legali, l’INSAI e gli assicuratori registrati sec
 
 [^60a-1]: Introdotto dall’all. n. 12 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^60a-2]: Nuova espr. giusta l’all. n. 32 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^60a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^60a-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### Sezione 2: Istituto nazionale svizzero di assicurazione contro gli infortuni
 
@@ -863,8 +863,8 @@ Per adempiere i loro compiti legali, l’INSAI e gli assicuratori registrati sec
 
 <sup>3</sup> L’INSAI soggiace all’alta vigilanza della Confederazione, esercitata dal Consiglio federale. Il regolamento sull’organizzazione dell’INSAI nonché il rapporto annuale e il conto annuale necessitano dell’approvazione del Consiglio federale.[^61-2]
 
-[^61-1]: Nuovo testo dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^61-2]: Nuovo testo dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^61-1]: Nuovo testo giusta dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^61-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 62
 
@@ -876,7 +876,7 @@ Gli organi dell’INSAI sono:
 - b. la direzione;
 - c. l’ufficio di revisione.
 
-[^62-1]: Nuovo testo dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^62-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 63
 
@@ -915,8 +915,8 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 <sup>6</sup> La commissione del consiglio dell’INSAI prepara gli affari all’attenzione del consiglio dell’INSAI. Il consiglio dell’INSAI può, nel regolamento sull’organizzazione, delegare alla commissione del consiglio dell’INSAI la determinazione delle tariffe dei premi secondo il capoverso 5 lettera d nonché i compiti di cui al capoverso 5 lettere g–m. Gli altri compiti del consiglio dell’INSAI non sono delegabili.
 
-[^63-1]: Nuovo testo dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^63-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^63-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^63-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 64
 
@@ -926,9 +926,9 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 <sup>2</sup> I membri della direzione non possono appartenere al consiglio dell’INSAI. I membri della direzione sono assunti secondo le disposizioni del Codice delle obbligazioni (CO)[^64-2]. L’articolo 6*a* capoversi 1–5 LPers[^64-3] si applica per analogia al salario che percepiscono e alle altre condizioni contrattuali.
 
-[^64-1]: Nuovo testo dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^64-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^64-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^64-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^64-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^64-3]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 64a
 
@@ -942,7 +942,7 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 <sup>4</sup> Il consiglio dell’INSAI informa sulle relazioni d’interesse dei suoi membri nel rapporto annuale.
 
-[^64a-1]: Introdotto dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^64a-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 64b
 
@@ -952,8 +952,8 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 <sup>2</sup> L’ufficio di revisione è nominato per una durata di tre anni al massimo. Il suo mandato è rinnovabile.
 
-[^64b-1]: Introdotto dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^64b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64b-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^64b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 64c
 
@@ -965,7 +965,7 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 <sup>3</sup> Le controversie concernenti la responsabilità dei membri degli organi dell’INSAI e delle persone incaricate della gestione e della revisione sottostanno alla giurisdizione dei tribunali civili.
 
-[^64c-1]: Introdotto dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^64c-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^64c-2]: Nuovo testo giusta l’all. n. 23 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 65
@@ -978,7 +978,7 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 <sup>3</sup> Le norme di iscrizione a bilancio e di valutazione derivanti dai principi contabili devono essere espressamente indicate.
 
-[^65-1]: Nuovo testo dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^65-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 65a
 
@@ -988,8 +988,8 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 <sup>2</sup> Sono inoltre applicabili le disposizioni aggiuntive sui compiti dell’attuario responsabile e sul contenuto del rapporto emanate dal Dipartimento federale delle finanze sulla base della legge sulla sorveglianza degli assicuratori.
 
-[^65a-1]: Introdotto dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^65a-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^65a-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^65a-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 65b
 
@@ -1001,9 +1001,9 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 <sup>3</sup> Il personale è assicurato presso la cassa pensioni dell’INSAI.
 
-[^65b-1]: Introdotto dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^65b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^65b-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^65b-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^65b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^65b-3]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 65c
 
@@ -1011,8 +1011,8 @@ Il consiglio dell’INSAI provvede alla propria costituzione, nomina il presiden
 
 Fatto salvo l’articolo 80 LPGA[^65c-2], le prestazioni commerciali fornite dall’INSAI sono imponibili.
 
-[^65c-1]: Introdotto dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^65c-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^65c-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^65c-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 66
 
@@ -1065,11 +1065,11 @@ Il Consiglio federale precisa quali aziende sottostanno all’assicurazione obbl
 
 <sup>4</sup> L’INSAI gestisce l’assicurazione facoltativa per i datori di lavoro i cui dipendenti sono assicurati d’obbligo presso l’istituto stesso, come pure per i familiari di tali datori di lavoro, collaboranti nell’impresa (art. 4 e 5). Il Consiglio federale può inoltre autorizzare l’INSAI ad assicurare gli indipendenti che esercitano le diverse professioni suindicate e non occupano manodopera.
 
-[^66-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^66-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^66-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^66-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^66-2]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^66-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^66-4]: [RU 1982 2096](https://fedlex.data.admin.ch/eli/oc/1982/__2096)
-[^66-5]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^66-5]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^66-6]: Introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 67
@@ -1080,9 +1080,9 @@ Il Consiglio federale precisa quali aziende sottostanno all’assicurazione obbl
 
 <sup>2</sup> L’INSAI organizza l’assicurazione militare in modo ch’essa possa eseguire i suoi compiti conformemente alla LAM e sia garantito l’allestimento di rapporti annuali e di statistiche secondo l’articolo 77 LPGA[^67-3].
 
-[^67-1]: Nuovo testo giusta in n. I 2 della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
-[^67-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^67-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^67-1]: Nuovo testo giusta la cifra I n. 2 della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
+[^67-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^67-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 67a
 
@@ -1108,8 +1108,18 @@ Le attività accessorie devono essere:
 
 <sup>4</sup> Se le attività accessorie sono esercitate da centri di prestazioni, l’INSAI tiene per ogni centro un conto separato. Le eccedenze o le perdite sono accreditate o addebitate a una riserva apposita dell’INSAI.
 
-[^67a-1]: Introdotto dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^67a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^67a-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^67a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+#### Art. 67b
+
+**Sostegno finanziario alla Fondazione Fondo per le vittime dell’amianto**[^67b-1]
+
+<sup>1</sup> L’INSAI può sostenere finanziariamente la Fondazione Fondo per le vittime dell’amianto.
+
+<sup>2</sup> Il sostegno finanziario è costituito esclusivamente da eccedenze di ricavi ai sensi dell’articolo 63 capoverso 5 lettera f risultanti dall’assicurazione obbligatoria contro gli infortuni professionali e le malattie professionali.
+
+[^67b-1]: Introdotto dalla cifra I della LF del 20 giu. 2025 (Finanziamento della Fondazione Fondo per le vittime dell’amianto), in vigore dal 1° gen. 2026 ([RU 2025 685](https://fedlex.data.admin.ch/eli/oc/2025/685); [FF 2024 2479](https://fedlex.data.admin.ch/eli/fga/2024/2479)).
 
 ### Sezione 3: Altri assicuratori
 
@@ -1127,11 +1137,11 @@ Le persone, la cui assicurazione esula dalla competenza dell’INSAI, devono, a 
 
 <sup>2</sup> Gli assicuratori che intendono partecipare alla gestione dell’assicurazione obbligatoria contro gli infortuni devono iscriversi in un registro tenuto dall’Ufficio federale della sanità pubblica[^68-6]. Questo registro è pubblico.[^68-7]
 
-[^68-1]: Nuvo testo giusta l’all. n. II 5 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, in vigore dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)). Vedi anche l a disp. trans. della mod. del 25 set. 2015 alla fine del presente testo.
-[^68-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^68-1]: Nuvo testo giusta l’all. cifra II n. 5 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, in vigore dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)). Vedi anche l a disp. trans. della mod. del 25 set. 2015 alla fine del presente testo.
+[^68-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^68-3]: Vedi anche la disp. trans. della mod. del 25 set. 2015 alla fine del presente testo.
 [^68-4]: Nuovo testo giusta l’all. n. 2 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
-[^68-5]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^68-5]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^68-6]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^68-7]: Vedi anche l’art. 2 dell’O del 20 set. 1982 concernente l’entrata in vigore e l’attuazione della LF sull’assicurazione contro gli infortuni ([RU 1982 1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)).
 
@@ -1152,7 +1162,7 @@ Il datore di lavoro provvede affinché i suoi lavoratori siano assicurati presso
 <sup>3</sup> Gli assicuratori di cui all’articolo 68 possono delegare la liquidazione degli infortuni all’INSAI o a un terzo. Il trasferimento deve essere approvato dall’Autorità federale di vigilanza sui mercati finanziari per gli assicuratori di cui all’articolo 68 capoverso 1 lettera a e dall’Ufficio federale della sanità pubblica per gli assicuratori di cui all’articolo 68 capoverso 1 lettera c.[^70-2]
 
 [^70-1]: Vedi anche l’art. 2 dell’O del 20 set. 1982 concernente l’entrata in vigore e l’attuazione della LF sull’assicurazione contro gli infortuni ([RU 1982 1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)).
-[^70-2]: Introdotto dal n. I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^70-2]: Introdotto dalla cifra I della LF del 25 set. 2015 (Organizzazione e attività accessorie dell’INSAI), in vigore dal 1° gen. 2017 ([RU 2016 4941](https://fedlex.data.admin.ch/eli/oc/2016/795); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 71
 
@@ -1161,7 +1171,7 @@ Il datore di lavoro provvede affinché i suoi lavoratori siano assicurati presso
 In deroga all’articolo 80 capoverso 1 LPGA[^71-2], gli assicuratori sono esenti dalle imposte dirette federali, cantonali e comunali unicamente per gli importi destinati alle riserve tecniche, in quanto quest’ultime servano esclusivamente a garantire i diritti derivanti dalla presente legge.
 
 [^71-1]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^71-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^71-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### Sezione 4: Cassa suppletiva
 
@@ -1191,10 +1201,10 @@ In deroga all’articolo 80 capoverso 1 LPGA[^71-2], gli assicuratori sono esent
 
 <sup>3</sup> Il Consiglio federale può pure conferire alla cassa suppletiva compiti non rientranti nell’ambito d’attività degli altri assicuratori.
 
-[^73-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^73-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^73-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^73-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^73-3]: Introdotto dall’all. n. 7 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^73-4]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^73-4]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 74
 
@@ -1247,7 +1257,7 @@ Il Consiglio federale regola l’obbligo di effettuare le prestazioni e la coope
 
 <sup>2</sup> Gli eventi che si verificano in luoghi e tempi diversi costituiscono un unico evento di grandi proporzioni se sono riconducibili alla stessa causa.
 
-[^78-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^78-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 78a
 
@@ -1271,9 +1281,9 @@ L’Ufficio federale della sanità pubblica decide in merito alle contestazioni 
 
 <sup>4</sup> Sono riservate le disposizioni speciali sulla vigilanza degli assicuratori.
 
-[^79-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^79-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^79-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^79-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^79-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 80
 
@@ -1293,7 +1303,7 @@ I Cantoni informano i datori di lavoro in merito al loro obbligo assicurativo e 
 
 <sup>2</sup> Il Consiglio federale può limitare o escludere l’applicazione di dette prescrizioni per determinate categorie di aziende e di lavoratori.
 
-[^81-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^81-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 ### Sezione 2: Obblighi dei datori di lavoro e dei lavoratori
 
@@ -1315,7 +1325,7 @@ I Cantoni informano i datori di lavoro in merito al loro obbligo assicurativo e 
 
 <sup>2</sup> Il Consiglio federale disciplina la formazione e il riconoscimento dei corsi di formazione previa consultazione della Commissione federale di coordinamento per la sicurezza sul lavoro (commissione di coordinamento).
 
-[^82a-1]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^82a-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 83
 
@@ -1358,11 +1368,11 @@ Il Consiglio federale nomina la commissione di coordinamento, composta dei segue
 
 <sup>5</sup> La vigilanza sull’attività della commissione di coordinamento spetta al Consiglio federale (art. 76 LPGA[^85-5]).[^85-6]
 
-[^85-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^85-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^85-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^85-4]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^85-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^85-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^85-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^85-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^85-4]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^85-5]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^85-6]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 86
@@ -1377,7 +1387,7 @@ Il Consiglio federale nomina la commissione di coordinamento, composta dei segue
 
 [^tit6-chap1-sec4-1]
 
-[^tit6-chap1-sec4-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^tit6-chap1-sec4-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 87
 
@@ -1389,7 +1399,7 @@ Il Consiglio federale nomina la commissione di coordinamento, composta dei segue
 
 <sup>3</sup> Il premio supplementare serve a coprire le spese risultanti dalla prevenzione degli infortuni professionali e delle malattie professionali attuata dagli organi esecutivi. Il Consiglio federale disciplina i particolari.
 
-[^87-1]: Introdotta dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^87-1]: Introdotta dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 87a
 
@@ -1401,7 +1411,7 @@ Il Consiglio federale nomina la commissione di coordinamento, composta dei segue
 
 <sup>3</sup> Il Consiglio federale disciplina la procedura di riscossione.
 
-[^87a-1]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^87a-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 ### Capitolo 2: Prevenzione degli infortuni non professionali
 
@@ -1419,13 +1429,13 @@ Il Consiglio federale nomina la commissione di coordinamento, composta dei segue
 
 [^tit7-1]
 
-[^tit7-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^tit7-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 ### Capitolo 1: Conti
 
 [^tit7-chap1-1]
 
-[^tit7-chap1-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^tit7-chap1-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 89
 
@@ -1452,15 +1462,15 @@ L’INSAI tiene inoltre un conto distinto per:
 
 <sup>4</sup> L’esercizio contabile corrisponde all’anno civile.
 
-[^89-1]: Abrogata dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^89-2]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni) ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Nuovo testo giusta l’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^89-3]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^89-1]: Abrogata dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^89-2]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni) ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Nuovo testo giusta l’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^89-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 ### Capitolo 1*a*: Finanziamento
 
 [^tit7-chap1a-1]
 
-[^tit7-chap1a-1]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^tit7-chap1a-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 90
 
@@ -1474,7 +1484,7 @@ L’INSAI tiene inoltre un conto distinto per:
 
 <sup>4</sup> Nel caso di eventi di grandi proporzioni, è costituito un fondo di compensazione presso la cassa suppletiva al fine di finanziare gli oneri causati da sinistri che superano la soglia corrispondente a un evento di grandi proporzioni ai sensi dell’articolo 78. Il fondo di compensazione sarà alimentato dall’anno successivo in poi con un premio supplementare per ogni ramo assicurativo. Il premio supplementare è stabilito dalla cassa suppletiva in modo tale che tutte le spese correnti dei sinistri possano essere coperte. Il premio supplementare è prelevato dagli assicuratori conformemente all’articolo 68 e amministrato dalla cassa suppletiva. La cassa suppletiva accredita ai singoli assicuratori gli oneri che superano la soglia. Il Consiglio federale disciplina i dettagli.
 
-[^90-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^90-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 90a
 
@@ -1503,8 +1513,8 @@ Le dotazioni supplementari distinte sono finanziate da:
 
 <sup>7</sup> In caso di mancata costituzione dell’associazione, il Consiglio federale emana le necessarie disposizioni.
 
-[^90a-1]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. della mod. del 25 set. 2015 alla fine del presente testo.
-[^90a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^90a-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. della mod. del 25 set. 2015 alla fine del presente testo.
+[^90a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 90b
 
@@ -1512,7 +1522,7 @@ Le dotazioni supplementari distinte sono finanziate da:
 
 Presso l’INSAI e gli assicuratori secondo l’articolo 68 capoverso 1 lettera b le indennità di rincaro sono finanziate con le eccedenze d’interesse, e per quanto questi non bastino, secondo il sistema di ripartizione delle spese.
 
-[^90b-1]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^90b-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 90c
 
@@ -1532,7 +1542,7 @@ Le dotazioni supplementari distinte sono finanziate da:
 
 <sup>4</sup> L’INSAI fissa i contributi del fondo di compensazione dell’assicurazione contro la disoccupazione. Consulta previamente la commissione di sorveglianza per il fondo di compensazione dell’assicurazione contro la disoccupazione.
 
-[^90c-1]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^90c-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 90c<sup>bis</sup>
 
@@ -1560,7 +1570,7 @@ Le dotazioni supplementari distinte sono finanziate da:
 
 L’adeguamento dell’assegno per grandi invalidi all’aumento del guadagno massimo è finanziato applicando per gli infortuni professionali e non professionali le stesse regole previste per il finanziamento delle indennità di rincaro. Per gli assicuratori di cui all’articolo 68 capoverso 1 lettera a e la cassa suppletiva i dettagli sono disciplinati negli statuti e nel regolamento amministrativo dell’associazione secondo l’articolo 90*a* capoverso 1.
 
-[^90d-1]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^90d-1]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 ### Capitolo 2: Premi
 
@@ -1578,8 +1588,8 @@ L’adeguamento dell’assegno per grandi invalidi all’aumento del guadagno ma
 
 <sup>5</sup> L’assicurazione per l’invalidità si assume il premio per l’assicurazione obbligatoria contro gli infortuni professionali e le malattie professionali e per l’assicurazione obbligatoria contro gli infortuni non professionali degli assicurati di cui all’articolo 1*a* capoverso 1 lettera c.[^91-3]
 
-[^91-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^91-2]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^91-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^91-2]: Introdotto dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^91-3]: Introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 92
@@ -1601,9 +1611,9 @@ L’adeguamento dell’assegno per grandi invalidi all’aumento del guadagno ma
 <sup>7</sup> Il supplemento per le spese amministrative è riscosso a copertura degli oneri correnti che derivano agli assicuratori dall’esecuzione dell’assicurazione contro gli infortuni. Per tale supplemento il Consiglio federale può fissare aliquote massime. Stabilisce il termine per modificare i tariffari dei premi e procedere a una nuova classificazione delle aziende in classi e gradi. Emana inoltre disposizioni sul calcolo dei premi in casi speciali, in particolare per gli assicurati a titolo facoltativo e per gli affiliati a una cassa malati riconosciuta.[^92-4]
 
 [^92-1]: Vedi anche l’art. 7 dell’O del 20 set. 1982 concernente l’entrata in vigore e l’attuazione della LF sull’assicurazione contro gli infortuni ([RU 1982 1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)).
-[^92-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^92-3]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1994 ([RU 1993 3136](https://fedlex.data.admin.ch/eli/oc/1993/3136_3136_3136); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^92-4]: Nuovo testo giusta il n. I della LF del 8 ott. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5259](https://fedlex.data.admin.ch/eli/oc/2005/730); [FF 2003 5197](https://fedlex.data.admin.ch/eli/fga/2003/928)[5284](https://fedlex.data.admin.ch/eli/fga/2003/947)).
+[^92-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^92-3]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1994 ([RU 1993 3136](https://fedlex.data.admin.ch/eli/oc/1993/3136_3136_3136); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^92-4]: Nuovo testo giusta la cifra I della LF del 8 ott. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5259](https://fedlex.data.admin.ch/eli/oc/2005/730); [FF 2003 5197](https://fedlex.data.admin.ch/eli/fga/2003/928)[5284](https://fedlex.data.admin.ch/eli/fga/2003/947)).
 
 #### Art. 93
 
@@ -1629,8 +1639,8 @@ L’adeguamento dell’assegno per grandi invalidi all’aumento del guadagno ma
 
 In deroga all’articolo 49 LPGA[^94-2], gli assicuratori di cui all’articolo 68 non sono tenuti a emanare una decisione circa la classificazione iniziale delle aziende e degli assicurati nelle tariffe dei premi e circa la modifica di tale classificazione, salvo nel caso di cui all’articolo 92 capoverso 3.
 
-[^94-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^94-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^94-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^94-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 95
 
@@ -1642,7 +1652,7 @@ In deroga all’articolo 49 LPGA[^94-2], gli assicuratori di cui all’articolo 
 
 <sup>2</sup> L’INSAI e la cassa suppletiva s’informano a vicenda sulle decisioni in materia.
 
-[^95-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^95-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^95-2]: Introdotto dall’all. n. 7 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 (**2007** 359; [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 ## Titolo ottavo: Disposizioni diverse
@@ -1651,7 +1661,7 @@ In deroga all’articolo 49 LPGA[^94-2], gli assicuratori di cui all’articolo 
 
 [^tit8-chap1-1]
 
-[^tit8-chap1-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^tit8-chap1-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 96
 
@@ -1671,11 +1681,11 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 
 <sup>2</sup> Per adempiere tali compiti possono inoltre effettuare profilazioni, incluse quelle a rischio elevato, ai sensi della legge federale del 25 settembre 2020[^96-4] sulla protezione dei dati (LPD) ed emanare decisioni individuali automatizzate ai sensi dell’articolo 21 LPD.[^96-5]
 
-[^96-1]: Originario: art. 97a. Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^96-2]: Nuovo testo giusta l’all. 1 n. II 83 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-1]: Originario: art. 97*a*. Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^96-2]: Nuovo testo giusta l’all. 1 cifra II n. 83 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^96-3]: Introdotta dall’all. n. 12 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^96-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^96-5]: Introdotto dall’all. 1 n. II 83 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^96-5]: Introdotto dall’all. 1 cifra II n. 83 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 97
 
@@ -1731,26 +1741,26 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 
 <sup>10</sup> Se un lavoratore comunica in via confidenziale agli organi di cui all’articolo 85 capoverso 1 o agli specialisti della sicurezza del lavoro fatti relativi all’azienda o a persone, la sua identità deve essere mantenuta segreta anche nei confronti del datore di lavoro.
 
-[^97-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^97-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^97-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^97-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^97-3]: Nuovo testo giusta l’all. n. 12 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^97-4]: Introdotta dall’all. n. 12 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^97-5]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^97-6]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
-[^97-7]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^97-8]: [[RU 1977 2370](https://fedlex.data.admin.ch/eli/oc/1977/2370_2370_2370), [1995 2766](https://fedlex.data.admin.ch/eli/oc/1995/2766_2766_2766), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 97. [RU 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)art. 20 cpv. 1]. Vedi ora la L del 12 giu. 2009 sulla sicurezza dei prodotti([RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)).
-[^97-9]: [[RU 1972 360](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 10; [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 n. 4; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)II, 403; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 4; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 7. [RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. I, [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)]. Vedi ora la L del 15 dic. 2000 sui prodotti chimici ([RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)).
-[^97-10]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^97-11]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^97-12]: Introdotta dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 18 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^97-13]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^97-14]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^97-5]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^97-6]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
+[^97-7]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^97-8]: [[RU 1977 2370](https://fedlex.data.admin.ch/eli/oc/1977/2370_2370_2370), [1995 2766](https://fedlex.data.admin.ch/eli/oc/1995/2766_2766_2766), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 97. [RU 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347)art. 20 cpv. 1]. Vedi ora la L del 12 giu. 2009 sulla sicurezza dei prodotti([RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)).
+[^97-9]: [[RU 1972 360](https://fedlex.data.admin.ch/eli/oc/1972/430_435_360); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 10; [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)art. 66 n. 4; [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)II, 403; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 4; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 7. [RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. cifra I, [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388)]. Vedi ora la L del 15 dic. 2000 sui prodotti chimici ([RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)).
+[^97-10]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^97-11]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+[^97-12]: Introdotta dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. cifra II n. 18 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^97-13]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^97-14]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^97-15]: Introdotto dall’all. n. 29 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^97-16]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^97-17]: Introdotto dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. n. II 18 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^97-18]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^97-16]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^97-17]: Introdotto dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. cifra II n. 18 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^97-18]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^97-19]: Introdotto dall’all. n. 7 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 (**2007** 359; [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^97-20]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^97-20]: [RS 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
 
 #### Art. 98
 
@@ -1758,13 +1768,13 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 
 Le autorità amministrative e giudiziarie della Confederazione, dei Cantoni, dei distretti, dei circoli e dei Comuni, nonché gli organi delle altre assicurazioni sociali forniscono nel singolo caso gratuitamente agli organi incaricati dell’esecuzione della presente legge, su richiesta scritta e motivata, i dati necessari per prevenire gli infortuni o le malattie professionali.
 
-[^98-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^98-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 ### **Capitolo 2:** **Esecuzione forzata e responsabilità civile**
 
 [^tit8-chap2-1]
 
-[^tit8-chap2-1]: Introdotto dal n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^tit8-chap2-1]: Introdotto dalla cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 99
 
@@ -1772,8 +1782,8 @@ Le autorità amministrative e giudiziarie della Confederazione, dei Cantoni, dei
 
 I conteggi dei premi fondati sulle decisioni passate in giudicato sono esecutivi ai sensi dell’articolo 54 LPGA[^99-2].
 
-[^99-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^99-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^99-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^99-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 100
 
@@ -1781,14 +1791,14 @@ I conteggi dei premi fondati sulle decisioni passate in giudicato sono esecutivi
 
 Le domande di risarcimento di cui all’articolo 78 LPGA[^100-2] devono essere inoltrate all’assicuratore; esso statuisce mediante decisione.
 
-[^100-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^100-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^100-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^100-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 101
 
 [^101-1]
 
-[^101-1]: Abrogato dal n. I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^101-1]: Abrogato dalla cifra I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 102
 
@@ -1800,13 +1810,13 @@ Le domande di risarcimento di cui all’articolo 78 LPGA[^100-2] devono essere i
 
 [^102a-1]
 
-[^102a-1]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Abrogato dal n. I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^102a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000 ([RU 2000 2760](https://fedlex.data.admin.ch/eli/oc/2000/464); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Abrogato dalla cifra I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 ### Capitolo 3: Relazioni con altre assicurazioni sociali
 
 [^tit8-chap3-1]
 
-[^tit8-chap3-1]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^tit8-chap3-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 103
 
@@ -1817,7 +1827,7 @@ Le domande di risarcimento di cui all’articolo 78 LPGA[^100-2] devono essere i
 <sup>2</sup> Il Consiglio federale può prevedere deroghe ed emanare disposizioni speciali sull’obbligo di fornire prestazioni in caso di ricadute, di lesioni degli organi geminati e di pneumoconiosi. Esso può disciplinare il coordinamento dell’indennità giornaliera.
 
 [^103-1]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^103-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^103-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 104
 
@@ -1842,7 +1852,7 @@ Il Consiglio federale può disciplinare il coordinamento dell’indennità giorn
 I conteggi dei premi fondati su una decisione possono essere impugnati anche facendo opposizione (art. 52 LPGA[^105-2]).
 
 [^105-1]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^105-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^105-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 105a
 
@@ -1851,7 +1861,7 @@ I conteggi dei premi fondati su una decisione possono essere impugnati anche fac
 Se vi è pericolo nel ritardo, l’organo decisionale può dare ordini in materia di prevenzione degli infortuni e delle malattie professionali senza possibilità di opposizione ai sensi dell’articolo 52 LPGA[^105a-2]. È fatto salvo il ricorso previsto nell’articolo 109.
 
 [^105a-1]: Introdotto dall’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^105a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^105a-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 106
 
@@ -1876,7 +1886,7 @@ Il Tribunale amministrativo federale giudica in deroga all’articolo 58 capover
 - c. le disposizioni per prevenire gli infortuni e le malattie professionali.
 
 [^109-1]: Nuovo testo giusta l’all. n. 111 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^109-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^109-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 110
 
@@ -1890,7 +1900,7 @@ Il Tribunale amministrativo federale giudica in deroga all’articolo 58 capover
 
 L’opposizione o il ricorso contro una decisione in materia di classificazione delle aziende e degli assicurati nei tariffari dei premi, di fissazione di quote unitarie degli interessi maturati sulle dotazioni supplementari e di premi supplementari unitari per le indennità di rincaro non coperte, di credito su premi o di competenza di un assicuratore ha effetto sospensivo solo se la decisione lo menziona, oppure se l’autorità che pronuncia sull’opposizione o sul ricorso lo accorda.
 
-[^111-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^111-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 ### Capitolo 2: Disposizioni penali
 
@@ -1919,13 +1929,13 @@ L’opposizione o il ricorso contro una decisione in materia di classificazione 
 
 <sup>4</sup> Se l’autore ha agito per negligenza nei casi del capoverso 3, la pena è la multa sino a 5000 franchi.
 
-[^112-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^112-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 113
 
 [^113-1]
 
-[^113-1]: Abrogato dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^113-1]: Abrogato dalla cifra I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), con effetto dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
 #### Art. 114 e 115
 
@@ -1937,7 +1947,7 @@ L’opposizione o il ricorso contro una decisione in materia di classificazione 
 
 [^tit10-1]
 
-[^tit10-1]: Introdotto dal n. I 10 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione. Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^tit10-1]: Introdotto dalla cifra I n. 10 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione. Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 
 #### Art. 115a
 
@@ -1966,12 +1976,12 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 <sup>4</sup> Nella presente legge le espressioni «Stati membri dell’Unione europea», «Stati membri della Comunità europea», «Stati dell’Unione europea» e «Stati della Comunità europea» designano gli Stati cui si applica l’Accordo sulla libera circolazione delle persone.
 
 [^115a-1]: Nuovo testo giusta l’all. n. 7 al DF del 17 giu. 2016 (estensione alla Croazia dell’Acc. sulla libera circolazione delle persone), in vigore dal 1° gen. 2017 ([RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^115a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^115a-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^115a-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^115a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^115a-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^115a-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^115a-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
 [^115a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
-[^115a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^115a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Titolo undicesimo: Disposizioni finali
 
@@ -1995,8 +2005,8 @@ Sono abrogati:
 
 <sup>2</sup> Sono parimenti abrogate le disposizioni cantonali sull’assicurazione obbligatoria contro gli infortuni.
 
-[^116-1]: [CS **8** 273; CS **2** 193 in fine n. II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]
-[^116-2]: [CS **8** 310; CS **3** 499 in fine, disp. fin. mod. 20 dic. 1968 cpv. 1 n. II]
+[^116-1]: [CS **8** 273; CS **2** 193 in fine cifra II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I, [611](https://fedlex.data.admin.ch/eli/oc/1977/611_611_611); [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]
+[^116-2]: [CS **8** 310; CS **3** 499 in fine, disp. fin. mod. 20 dic. 1968 cpv. 1 cifra II]
 [^116-3]: [[RU 1963 283](https://fedlex.data.admin.ch/eli/oc/1963/272_268_283)]
 
 #### Art. 117
@@ -2032,8 +2042,8 @@ Tuttavia, per i casi previsti al capoverso 1, sono applicabili agli assicurati d
 
 [^118-1]: [CS **2** 3]
 [^118-2]: [RU 1999 1321](https://fedlex.data.admin.ch/eli/oc/1999/181)
-[^118-3]: Introdotto dal n. I del DF del 9 ott. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1321](https://fedlex.data.admin.ch/eli/oc/1999/181); [FF 1997 III 530](https://fedlex.data.admin.ch/eli/fga/1997/3_619_572_530)539).
-[^118-4]: Introdotto dal n. I della LF del 15 dic. 2000, in vigore dal 1° lug. 2001 ([RU 2001 1491](https://fedlex.data.admin.ch/eli/oc/2001/215)[142](https://fedlex.data.admin.ch/eli/oc/2001/34); [FF 2000 1184](https://fedlex.data.admin.ch/eli/fga/2000/256)1491).
+[^118-3]: Introdotto dalla cifra I del DF del 9 ott. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1321](https://fedlex.data.admin.ch/eli/oc/1999/181); [FF 1997 III 530](https://fedlex.data.admin.ch/eli/fga/1997/3_619_572_530)539).
+[^118-4]: Introdotto dalla cifra I della LF del 15 dic. 2000, in vigore dal 1° lug. 2001 ([RU 2001 1491](https://fedlex.data.admin.ch/eli/oc/2001/215)[142](https://fedlex.data.admin.ch/eli/oc/2001/34); [FF 2000 1184](https://fedlex.data.admin.ch/eli/fga/2000/256)1491).
 
 #### Art. 119
 
