@@ -3,20 +3,19 @@ canton: OW
 number: "870.711"
 title: Ausführungsbestimmungen über die Beiträge in der familienergänzenden Kinderbetreuung
 language: de
-version: 2018-01-01
-valid_until: 2025-12-31
-version_adopted: 2017-08-14
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2025-09-16
 in_force: 2026-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/870.711"
-pdf: "http://gdb.ow.ch/api/de/versions/1252/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1942/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Beiträge in der familienergänzenden Kinderbetreuung
 
-vom 09.11.2010 (Stand 01.01.2018)
+vom 16.09.2025 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -30,118 +29,70 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Ausführungsbestimmungen regeln die Beiträge an die anerkannten Betreuungseinrichtungen der familienergänzenden Kinderbetreuung.
+<sup>1</sup> Diese Ausführungsbestimmungen regeln die Gemeindebeiträge und die Elternbeiträge an die anerkannten Betreuungseinrichtungen der familienergänzenden Kinderbetreuung.
 
 #### Art. 2
 
 **Normkosten a. Kindertagesstätte**
 
-<sup>1</sup> Der Kindertagesstätte wird für ihren Aufwand je Kind und Tag (elf Stunden) ein Betrag von Fr. 128.– angerechnet.
+<sup>1</sup> Der Kindertagesstätte wird für ihren Aufwand je Kind und Tag ein Betrag von Fr. 155.– für Kinder bis und mit 18 Monaten (der Betrag gilt für den ganzen Monat, in dem das Kind 18 Monate alt wird) und Fr. 135.– für Kinder ab 19 Monaten angerechnet.
 
-<sup>2</sup> Die Gemeinden können diese Normkosten tiefer ansetzen. Der Elternbeitrag gemäss Art. 4 dieser Ausführungsbestimmungen bleibt unverändert.
+<sup>2</sup> Die Gemeinden können auf Antrag der Kindertagesstätte diese Normkosten tiefer ansetzen. Der minimale Elternbeitrag gemäss Art. 4 dieser Ausführungsbestimmungen bleibt dabei unverändert.
+
+<sup>3</sup> Der Gemeindebeitrag und der Elternbeitrag je Kind und Betreuungstag innerhalb einer Woche werden zusammengezählt und mit dem Faktor 4.25 (bei zwei Wochen Betriebsferien) beziehungsweise einem Faktor 4 (bei drei bis maximal vier Wochen Betriebsferien) zu einer Monatspauschale umgerechnet.
 
 #### Art. 3
 
-**b. Tagesfamilie**
+**b. Tagesfamilien**
 
-<sup>1</sup> Der Norm-Stundenansatz für die Entschädigung der Tagesfamilie beträgt Fr. 12.50 je Kind.
+<sup>1</sup> Die Normkosten (Stundenansatz) für die Entschädigung der Tagesfamilien betragen je Kind und Stunde Fr. 15.50 für Kinder bis und mit 18 Monate (der Betrag gilt für den ganzen Monat, in dem das Kind 18 Monate alt wird) und Fr. 13.50 für Kinder ab 19 Monaten.
+
+<sup>2</sup> Die Entschädigung der Tagesfamilien erfolgt aufgrund der tatsächlich erbrachten Betreuungsstunden im Rahmen der Kostengutsprache.
 
 #### Art. 4
 
-**Beiträge a. an Kindertagesstätten**
+**Minimaler Elternbeitrag**
 
-<sup>1</sup> Die Beiträge an die Kosten der Kindertagesstätten berechnen sich je Kind und Tag wie folgt (Beträge in Fr.):
-
-<table>
-<tr><th>Tarifstufen</th><th>Definitives steuerbares Einkommen +10 % steuerbares Vermögen</th><th>Elternbeitrag</th><th>Gemeindebeitrag</th><th>Kantonsbeitrag</th></tr>
-<tr><td>Stufe 1</td><td>bis 24 000</td><td>14.70</td><td>68.00</td><td>45.30</td></tr>
-<tr><td>Stufe 2</td><td>24 001 - 27 000</td><td>20.70</td><td>64.40</td><td>42.90</td></tr>
-<tr><td>Stufe 3</td><td>27 001 - 30 000</td><td>26.80</td><td>60.70</td><td>40.50</td></tr>
-<tr><td>Stufe 4</td><td>30 001 - 33 000</td><td>32.80</td><td>57.10</td><td>38.10</td></tr>
-<tr><td>Stufe 5</td><td>33 001 - 36 000</td><td>38.75</td><td>53.55</td><td>35.70</td></tr>
-<tr><td>Stufe 6</td><td>36 001 - 39 000</td><td>44.85</td><td>49.90</td><td>33.25</td></tr>
-<tr><td>Stufe 7</td><td>39 001 - 42 000</td><td>50.85</td><td>46.30</td><td>30.85</td></tr>
-<tr><td>Stufe 8</td><td>42 001 - 45 000</td><td>56.80</td><td>42.70</td><td>28.50</td></tr>
-<tr><td>Stufe 9</td><td>45 001 - 48 000</td><td>62.90</td><td>39.05</td><td>26.05</td></tr>
-<tr><td>Stufe 10</td><td>48 001 - 50 000</td><td>68.90</td><td>35.45</td><td>23.65</td></tr>
-<tr><td>Stufe 11</td><td>50 001 - 52 000</td><td>75.00</td><td>31.80</td><td>21.20</td></tr>
-<tr><td>Stufe 12</td><td>52 001 - 54 000</td><td>80.95</td><td>28.25</td><td>18.80</td></tr>
-<tr><td>Stufe 13</td><td>54 001 - 56 000</td><td>86.95</td><td>24.65</td><td>16.40</td></tr>
-<tr><td>Stufe 14</td><td>56 001 - 59 000</td><td>93.05</td><td>20.95</td><td>14.00</td></tr>
-<tr><td>Stufe 15</td><td>59 001 - 62 000</td><td>99.00</td><td>17.40</td><td>11.60</td></tr>
-<tr><td>Stufe 16</td><td>62 001 - 65 000</td><td>105.00</td><td>13.80</td><td>9.20</td></tr>
-<tr><td>Stufe 17</td><td>65 001 - 68 000</td><td>111.10</td><td>10.15</td><td>6.75</td></tr>
-<tr><td>Stufe 18</td><td>68 001 - 71 000</td><td>117.05</td><td>6.55</td><td>4.40</td></tr>
-<tr><td>Stufe 19</td><td>ab 71 001</td><td>128.00</td><td>0</td><td>0</td></tr>
-</table>
+<sup>1</sup> Die Erziehungsberechtigten haben in jedem Fall mindestens Fr. 15.– pro Kind und Betreuungstag selbst zu tragen (minimaler Elternbeitrag).
 
 #### Art. 5
 
-**b. an Tagesfamilien**
+**Berechnungsgrundlage**
 
-<sup>1</sup> Die Beiträge an die Kosten der Tagesfamilien berechnen sich je Kind und je Stunde wie folgt (Beträge in Fr.):
+<sup>1</sup> Die Höhe des Gemeindebeitrags und des Elternbeitrags an die Kosten der familienergänzenden Kinderbetreuung berechnet sich gemäss Art. 8 Abs. 3 des Gesetzes über die familienergänzende Kinderbetreuung nach dem steuerbaren Einkommen zuzüglich zehn Prozent des steuerbaren Vermögens der Erziehungsberechtigten (massgebendes Einkommen).
 
-<table>
-<tr><th>Tarifstufen</th><th>Definitives steuerbares Einkommen +10 % steuerbares Vermögen</th><th>Elternbeitrag</th><th>Gemeindebeitrag</th><th>Kantonsbeitrag</th></tr>
-<tr><td>Stufe 1</td><td>bis 24 000</td><td>1.50</td><td>6.60</td><td>4.40</td></tr>
-<tr><td>Stufe 2</td><td>24 001 - 27 000</td><td>2.05</td><td>6.25</td><td>4.20</td></tr>
-<tr><td>Stufe 3</td><td>27 001 - 30 000</td><td>2.65</td><td>5.90</td><td>3.95</td></tr>
-<tr><td>Stufe 4</td><td>30 001 - 33 000</td><td>3.20</td><td>5.60</td><td>3.70</td></tr>
-<tr><td>Stufe 5</td><td>33 001 - 36 000</td><td>3.80</td><td>5.20</td><td>3.50</td></tr>
-<tr><td>Stufe 6</td><td>36 001 - 39 000</td><td>4.35</td><td>4.90</td><td>3.25</td></tr>
-<tr><td>Stufe 7</td><td>39 001 - 42 000</td><td>4.95</td><td>4.55</td><td>3.00</td></tr>
-<tr><td>Stufe 8</td><td>42 001 - 45 000</td><td>5.50</td><td>4.20</td><td>2.80</td></tr>
-<tr><td>Stufe 9</td><td>45 001 - 48 000</td><td>6.10</td><td>3.85</td><td>2.55</td></tr>
-<tr><td>Stufe 10</td><td>48 001 - 50 000</td><td>6.80</td><td>3.40</td><td>2.30</td></tr>
-<tr><td>Stufe 11</td><td>50 001 - 52 000</td><td>7.35</td><td>3.10</td><td>2.05</td></tr>
-<tr><td>Stufe 12</td><td>52 001 - 54 000</td><td>7.95</td><td>2.75</td><td>1.80</td></tr>
-<tr><td>Stufe 13</td><td>54 001 - 56 000</td><td>8.50</td><td>2.40</td><td>1.60</td></tr>
-<tr><td>Stufe 14</td><td>56 001 - 59 000</td><td>9.10</td><td>2.05</td><td>1.35</td></tr>
-<tr><td>Stufe 15</td><td>59 001 - 62 000</td><td>9.65</td><td>1.70</td><td>1.15</td></tr>
-<tr><td>Stufe 16</td><td>62 001 - 65 000</td><td>10.25</td><td>1.35</td><td>0.90</td></tr>
-<tr><td>Stufe 17</td><td>65 001 - 68 000</td><td>10.80</td><td>1.00</td><td>0.70</td></tr>
-<tr><td>Stufe 18</td><td>68 001 - 71 000</td><td>11.40</td><td>0.65</td><td>0.45</td></tr>
-<tr><td>Stufe 19</td><td>ab 71 001</td><td>12.50</td><td>0</td><td>0</td></tr>
-</table>
+<sup>2</sup> Die Ermittlung des massgebenden Einkommens basiert auf der jeweils letzten definitiven und rechtskräftigen Steuerveranlagung.
+
+<sup>3</sup> Liegt keine rechtskräftige Steuerveranlagung vor oder haben sich die Lebens- und Einkommensverhältnisse wesentlich verändert, können weitere Unterlagen angefordert und berücksichtigt werden.
+
+<sup>4</sup> Bis zu einem massgebenden Einkommen von Fr. 24 000.– wird der maximale Gemeindebeitrag entrichtet (Untergrenze).
+
+<sup>5</sup> Ab einem massgebenden Einkommen von Fr. 100 000.– entfällt der Anspruch auf einen Gemeindebeitrag (Obergrenze).
+
+<sup>6</sup> Das massgebende Einkommen, die Berechnung des Gemeindebeitrags und des Elternbeitrags werden von den Gemeinden jährlich überprüft.
 
 #### Art. 6
 
-**Herabgesetzter Tarif**
+**Berechnung**
 
-<sup>1</sup> Wird aus einer Familie mehr als ein Kind in einer Kindertagesstätte oder Tagesfamilie betreut, so vermindert sich der Elternbeitrag je zusätzlich betreutes Kind um je eine Tarifstufe.
+<sup>1</sup> Der Gemeindebeitrag (x) und der Elternbeitrag (y) berechnen sich zwischen der Untergrenze und der Obergrenze des massgebenden Einkommens linear.
 
-<sup>2</sup> Die Herabsetzung des Tarifs gemäss Abs. 1 wird bei der höchsten Tarifstufe 19 nicht gewährt.
+<sup>2</sup> Für das erste Kind eines Haushalts werden der Gemeindebeitrag (x) und der Elternbeitrag (y) wie folgt berechnet:
+
+<sup>3</sup> Für jedes weitere Kind des gleichen Haushalts werden der Gemeindebeitrag (x) und der Elternbeitrag (y) wie folgt berechnet:
 
 #### Art. 7
 
-**Berechnung und Überprüfung**
+**Anpassung**
 
-<sup>1</sup> Das definitiv veranlagte steuerbare Einkommen basiert auf einer Veranlagung, die in der Regel nicht älter als zwei Jahre ist. Das steuerbare Einkommen der Eltern und die Tarifstufe werden von den Institutionen jährlich überprüft.
-
-#### Art. 8
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Ausführungsbestimmungen über die Beiträge in der familienergänzenden Kinderbetreuung vom 8. Januar 2008[^8-1] werden aufgehoben.
-
-[^8-1]: OGS 2008, 8, OGS 2009, 56 und 64
-
-#### Art. 9
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Ausführungsbestimmungen treten am 1. Januar 2011 in Kraft.
+<sup>1</sup> Die Gemeinden können bei Bedarf beim Regierungsrat eine Überprüfung der Normkosten beantragen.
 
 **Informationen zum Erlass**
 
-Ursprüngliche Fundstelle: OGS 2010, 71
+Ursprüngliche Fundstelle: OGS 2025, 16
 
-Ursprüngliches Inkrafttreten: 1. Januar 2011
+Ursprüngliches Inkrafttreten: 1. Januar 2026
 
-Geändert durch:
+Aufgehobener Erlass: AB über die Beiträge in der familienergänzenden Kinderbetreuung vom 9. November 2010 (OGS 2010, 71, OGS 2016, 64, OGS 2017, 45)
 
-\- Ausführungsbestimmungen über das Konsolidierung- und Aufgabenüberprüfungspaket vom 8. November 2016 (OGS 2016, 64),
-
-\- Nachtrag vom 14. August 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 45)
-
-OGS 2010, 71
+OGS 2025, 15
