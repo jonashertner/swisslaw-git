@@ -3,18 +3,18 @@ sr: "832.106"
 title: Verordnung des EDI vom 15. März 2022 über die Prämienregionen
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/184"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2022-03-15
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2022-184-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2022-184-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Prämienregionen
 
-vom 15. März 2022 (Stand am 1. Januar 2025)
+vom 15. März 2022 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 61 Absatz 2<sup>bis</sup> des Bundesgesetzes vom 18. März
 
 verordnet:
 
-[^ingress-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^ingress-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 1
 
@@ -52,7 +52,7 @@ Anhang 1[^t-1]
 
 ## Prämienregionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 470](https://fedlex.data.admin.ch/eli/oc/2024/470)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 22. Aug. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 540](https://fedlex.data.admin.ch/eli/oc/2025/540)).
 
 ### A. Kantone mit einer Prämienregion
 
@@ -161,7 +161,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <table>
 <tr><th>Gemeindenummer (BFS-Nr.)<sup>1</sup></th><th>Gemeinde</th><th>Prämienregion</th></tr>
 <tr><td>2321</td><td>Attalens</td><td>2</td></tr>
-<tr><td>2061</td><td>Auboranges</td><td>2</td></tr>
 <tr><td>2173</td><td>Autigny</td><td>1</td></tr>
 <tr><td>2174</td><td>Avry</td><td>1</td></tr>
 <tr><td>2162</td><td>Bas-Intyamon</td><td>2</td></tr>
@@ -175,7 +174,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>2124</td><td>Broc</td><td>2</td></tr>
 <tr><td>2292</td><td>Brünisried</td><td>2</td></tr>
 <tr><td>2125</td><td>Bulle</td><td>2</td></tr>
-<tr><td>2066</td><td>Chapelle (Glâne)</td><td>2</td></tr>
 <tr><td>2325</td><td>Châtel-Saint-Denis</td><td>2</td></tr>
 <tr><td>2128</td><td>Châtel- sur-Montsalvens</td><td>2</td></tr>
 <tr><td>2008</td><td>Châtillon (FR)</td><td>2</td></tr>
@@ -193,7 +191,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>2051</td><td>Delley-Portalban</td><td>2</td></tr>
 <tr><td>2293</td><td>Düdingen</td><td>2</td></tr>
 <tr><td>2131</td><td>Écharlens</td><td>2</td></tr>
-<tr><td>2072</td><td>Écublens (FR)</td><td>2</td></tr>
 <tr><td>2054</td><td>Estavayer</td><td>2</td></tr>
 <tr><td>2194</td><td>Ferpicloz</td><td>1</td></tr>
 <tr><td>2016</td><td>Fétigny</td><td>2</td></tr>
@@ -208,7 +205,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>2198</td><td>Granges-Paccot</td><td>1</td></tr>
 <tr><td>2079</td><td>Grangettes</td><td>2</td></tr>
 <tr><td>2261</td><td>Greng</td><td>2</td></tr>
-<tr><td>2200</td><td>Grolley</td><td>1</td></tr>
+<tr><td>2239</td><td>Grolley-Ponthaux</td><td>1</td></tr>
 <tr><td>2135</td><td>Gruyères</td><td>2</td></tr>
 <tr><td>2262</td><td>Gurmels</td><td>2</td></tr>
 <tr><td>2233</td><td>Hauterive (FR)</td><td>1</td></tr>
@@ -237,7 +234,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>2087</td><td>Mézières (FR)</td><td>2</td></tr>
 <tr><td>2272</td><td>Misery-Courtion</td><td>2</td></tr>
 <tr><td>2029</td><td>Montagny (FR)</td><td>2</td></tr>
-<tr><td>2089</td><td>Montet (Glâne)</td><td>2</td></tr>
 <tr><td>2284</td><td>Mont-Vully</td><td>2</td></tr>
 <tr><td>2143</td><td>Morlon</td><td>2</td></tr>
 <tr><td>2274</td><td>Muntelier</td><td>2</td></tr>
@@ -248,7 +244,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>2299</td><td>Plaffeien</td><td>2</td></tr>
 <tr><td>2300</td><td>Plasselb</td><td>2</td></tr>
 <tr><td>2122</td><td>Pont-en-Ogoz</td><td>2</td></tr>
-<tr><td>2217</td><td>Ponthaux</td><td>1</td></tr>
 <tr><td>2147</td><td>Pont-la-Ville</td><td>2</td></tr>
 <tr><td>2038</td><td>Prévondavaux</td><td>2</td></tr>
 <tr><td>2237</td><td>Prez</td><td>1</td></tr>
@@ -340,18 +335,15 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5001</td><td>Arbedo-Castione</td><td>1</td></tr>
 <tr><td>5144</td><td>Arogno</td><td>1</td></tr>
 <tr><td>5091</td><td>Ascona</td><td>1</td></tr>
-<tr><td>5146</td><td>Astano</td><td>1</td></tr>
 <tr><td>5324</td><td>Avegno Gordevio</td><td>2</td></tr>
 <tr><td>5242</td><td>Balerna</td><td>1</td></tr>
 <tr><td>5148</td><td>Bedano</td><td>1</td></tr>
-<tr><td>5149</td><td>Bedigliora</td><td>1</td></tr>
 <tr><td>5063</td><td>Bedretto</td><td>2</td></tr>
 <tr><td>5002</td><td>Bellinzona</td><td>1</td></tr>
 <tr><td>5281</td><td>Biasca</td><td>2</td></tr>
 <tr><td>5151</td><td>Bioggio</td><td>1</td></tr>
 <tr><td>5154</td><td>Bissone</td><td>1</td></tr>
 <tr><td>5049</td><td>Blenio</td><td>2</td></tr>
-<tr><td>5064</td><td>Bodio</td><td>2</td></tr>
 <tr><td>5304</td><td>Bosco/Gurin</td><td>2</td></tr>
 <tr><td>5269</td><td>Breggia</td><td>1</td></tr>
 <tr><td>5096</td><td>Brione sopra Minusio</td><td>2</td></tr>
@@ -374,7 +366,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5176</td><td>Comano</td><td>1</td></tr>
 <tr><td>5138</td><td>Cugnasco-Gerra</td><td>2</td></tr>
 <tr><td>5180</td><td>Cureglia</td><td>1</td></tr>
-<tr><td>5181</td><td>Curio</td><td>1</td></tr>
 <tr><td>5071</td><td>Dalpe</td><td>2</td></tr>
 <tr><td>5072</td><td>Faido</td><td>2</td></tr>
 <tr><td>5398</td><td>Gambarogno</td><td>1</td></tr>
@@ -386,6 +377,7 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5189</td><td>Lamone</td><td>1</td></tr>
 <tr><td>5112</td><td>Lavertezzo</td><td>2</td></tr>
 <tr><td>5323</td><td>Lavizzara</td><td>2</td></tr>
+<tr><td>5395</td><td>Lema</td><td>1</td></tr>
 <tr><td>5315</td><td>Linescio</td><td>2</td></tr>
 <tr><td>5113</td><td>Locarno</td><td>1</td></tr>
 <tr><td>5115</td><td>Losone</td><td>1</td></tr>
@@ -399,7 +391,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5254</td><td>Mendrisio</td><td>1</td></tr>
 <tr><td>5117</td><td>Mergoscia</td><td>2</td></tr>
 <tr><td>5199</td><td>Mezzovico-Vira</td><td>1</td></tr>
-<tr><td>5200</td><td>Miglieglia</td><td>1</td></tr>
 <tr><td>5118</td><td>Minusio</td><td>1</td></tr>
 <tr><td>5238</td><td>Monteceneri</td><td>1</td></tr>
 <tr><td>5257</td><td>Morbio Inferiore</td><td>1</td></tr>
@@ -407,7 +398,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5120</td><td>Muralto</td><td>1</td></tr>
 <tr><td>5205</td><td>Muzzano</td><td>1</td></tr>
 <tr><td>5206</td><td>Neggio</td><td>1</td></tr>
-<tr><td>5207</td><td>Novaggio</td><td>1</td></tr>
 <tr><td>5260</td><td>Novazzano</td><td>1</td></tr>
 <tr><td>5136</td><td>Onsernone</td><td>2</td></tr>
 <tr><td>5208</td><td>Origlio</td><td>1</td></tr>
@@ -417,7 +407,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>5077</td><td>Pollegio</td><td>2</td></tr>
 <tr><td>5212</td><td>Ponte Capriasca</td><td>1</td></tr>
 <tr><td>5214</td><td>Porza</td><td>1</td></tr>
-<tr><td>5078</td><td>Prato (Leventina)</td><td>2</td></tr>
 <tr><td>5216</td><td>Pura</td><td>1</td></tr>
 <tr><td>5079</td><td>Quinto</td><td>2</td></tr>
 <tr><td>5263</td><td>Riva San Vitale</td><td>1</td></tr>
@@ -1070,7 +1059,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>437</td><td>Mont-Tramelan</td><td>2</td></tr>
 <tr><td>544</td><td>Moosseedorf</td><td>2</td></tr>
 <tr><td>742</td><td>Mörigen</td><td>2</td></tr>
-<tr><td>700</td><td>Moutier</td><td>2</td></tr>
 <tr><td>668</td><td>Mühleberg</td><td>2</td></tr>
 <tr><td>546</td><td>Münchenbuchsee</td><td>2</td></tr>
 <tr><td>669</td><td>Münchenwiler</td><td>2</td></tr>
@@ -1326,7 +1314,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>3734</td><td>Trin</td><td>2</td></tr>
 <tr><td>3987</td><td>Trun</td><td>3</td></tr>
 <tr><td>3669</td><td>Tschappina</td><td>3</td></tr>
-<tr><td>3932</td><td>Tschiertschen- Praden</td><td>1</td></tr>
 <tr><td>3986</td><td>Tujetsch</td><td>3</td></tr>
 <tr><td>3946</td><td>Untervaz</td><td>2</td></tr>
 <tr><td>3670</td><td>Urmein</td><td>3</td></tr>
@@ -1383,7 +1370,6 @@ Aargau, Appenzell Innerrhoden, Appenzell Ausserrhoden, Basel-Stadt, Genf, Glarus
 <tr><td>1030</td><td>Hitzkirch</td><td>3</td></tr>
 <tr><td>1031</td><td>Hochdorf</td><td>3</td></tr>
 <tr><td>1032</td><td>Hohenrain</td><td>3</td></tr>
-<tr><td>1057</td><td>Honau</td><td>3</td></tr>
 <tr><td>1058</td><td>Horw</td><td>1</td></tr>
 <tr><td>1033</td><td>Inwil</td><td>3</td></tr>
 <tr><td>1089</td><td>Knutwil</td><td>3</td></tr>

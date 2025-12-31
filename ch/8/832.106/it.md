@@ -3,18 +3,18 @@ sr: "832.106"
 title: Ordinanza del DFI del 15 marzo 2022 sulle regioni di premio
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/184"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2022-03-15
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2022-184-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/184/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2022-184-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/184/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulle regioni di premio
 
-del 15 marzo 2022 (Stato 1° gennaio 2025)
+del 15 marzo 2022 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI)
 
@@ -22,7 +22,7 @@ visto l’articolo 61 capoverso 2<sup>bis</sup> della legge federale del 18 marz
 
 ordina:
 
-[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^ingress-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 1
 
@@ -48,9 +48,11 @@ La presente ordinanza entra in vigore il 1° gennaio 2023.
 
 Allegato 1[^t-1]
 
+(art. 1 e 3)
+
 ## Regioni di premio
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 470](https://fedlex.data.admin.ch/eli/oc/2024/470)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 22 ago. 2025, in vigore dal 1° gen. 2026 ([RU 2025 540](https://fedlex.data.admin.ch/eli/oc/2025/540)).
 
 ### A. Cantoni con un’unica regione di premio
 
@@ -61,7 +63,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Basilea Campagna
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2761</td><td>Aesch (BL)</td><td>1</td></tr>
 <tr><td>2762</td><td>Allschwil</td><td>1</td></tr>
 <tr><td>2841</td><td>Anwil</td><td>2</td></tr>
@@ -157,9 +159,8 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Friburgo
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2321</td><td>Attalens</td><td>2</td></tr>
-<tr><td>2061</td><td>Auboranges</td><td>2</td></tr>
 <tr><td>2173</td><td>Autigny</td><td>1</td></tr>
 <tr><td>2174</td><td>Avry</td><td>1</td></tr>
 <tr><td>2162</td><td>Bas-Intyamon</td><td>2</td></tr>
@@ -173,9 +174,8 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>2124</td><td>Broc</td><td>2</td></tr>
 <tr><td>2292</td><td>Brünisried</td><td>2</td></tr>
 <tr><td>2125</td><td>Bulle</td><td>2</td></tr>
-<tr><td>2066</td><td>Chapelle (Glâne)</td><td>2</td></tr>
 <tr><td>2325</td><td>Châtel-Saint-Denis</td><td>2</td></tr>
-<tr><td>2128</td><td>Châtel-sur- Montsalvens</td><td>2</td></tr>
+<tr><td>2128</td><td>Châtel-sur-Montsalvens</td><td>2</td></tr>
 <tr><td>2008</td><td>Châtillon (FR)</td><td>2</td></tr>
 <tr><td>2068</td><td>Châtonnaye</td><td>2</td></tr>
 <tr><td>2177</td><td>Chénens</td><td>1</td></tr>
@@ -191,7 +191,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>2051</td><td>Delley-Portalban</td><td>2</td></tr>
 <tr><td>2293</td><td>Düdingen</td><td>2</td></tr>
 <tr><td>2131</td><td>Écharlens</td><td>2</td></tr>
-<tr><td>2072</td><td>Écublens (FR)</td><td>2</td></tr>
 <tr><td>2054</td><td>Estavayer</td><td>2</td></tr>
 <tr><td>2194</td><td>Ferpicloz</td><td>1</td></tr>
 <tr><td>2016</td><td>Fétigny</td><td>2</td></tr>
@@ -206,7 +205,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>2198</td><td>Granges-Paccot</td><td>1</td></tr>
 <tr><td>2079</td><td>Grangettes</td><td>2</td></tr>
 <tr><td>2261</td><td>Greng</td><td>2</td></tr>
-<tr><td>2200</td><td>Grolley</td><td>1</td></tr>
+<tr><td>2239</td><td>Grolley-Ponthaux</td><td>1</td></tr>
 <tr><td>2135</td><td>Gruyères</td><td>2</td></tr>
 <tr><td>2262</td><td>Gurmels</td><td>2</td></tr>
 <tr><td>2233</td><td>Hauterive (FR)</td><td>1</td></tr>
@@ -235,7 +234,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>2087</td><td>Mézières (FR)</td><td>2</td></tr>
 <tr><td>2272</td><td>Misery-Courtion</td><td>2</td></tr>
 <tr><td>2029</td><td>Montagny (FR)</td><td>2</td></tr>
-<tr><td>2089</td><td>Montet (Glâne)</td><td>2</td></tr>
 <tr><td>2284</td><td>Mont-Vully</td><td>2</td></tr>
 <tr><td>2143</td><td>Morlon</td><td>2</td></tr>
 <tr><td>2274</td><td>Muntelier</td><td>2</td></tr>
@@ -246,7 +244,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>2299</td><td>Plaffeien</td><td>2</td></tr>
 <tr><td>2300</td><td>Plasselb</td><td>2</td></tr>
 <tr><td>2122</td><td>Pont-en-Ogoz</td><td>2</td></tr>
-<tr><td>2217</td><td>Ponthaux</td><td>1</td></tr>
 <tr><td>2147</td><td>Pont-la-Ville</td><td>2</td></tr>
 <tr><td>2038</td><td>Prévondavaux</td><td>2</td></tr>
 <tr><td>2237</td><td>Prez</td><td>1</td></tr>
@@ -283,7 +280,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>2114</td><td>Villorsonnens</td><td>2</td></tr>
 <tr><td>2160</td><td>Vuadens</td><td>2</td></tr>
 <tr><td>2113</td><td>Vuisternens-devant-Romont</td><td>2</td></tr>
-<tr><td>2309</td><td>Wünnewil- Flamatt</td><td>2</td></tr>
+<tr><td>2309</td><td>Wünnewil-Flamatt</td><td>2</td></tr>
 </table>
 
 <table>
@@ -293,7 +290,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Sciaffusa
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>2931</td><td>Bargen (SH)</td><td>2</td></tr>
 <tr><td>2951</td><td>Beggingen</td><td>2</td></tr>
 <tr><td>2932</td><td>Beringen</td><td>2</td></tr>
@@ -329,7 +326,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Ticino
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>5048</td><td>Acquarossa</td><td>2</td></tr>
 <tr><td>5141</td><td>Agno</td><td>1</td></tr>
 <tr><td>5061</td><td>Airolo</td><td>2</td></tr>
@@ -338,18 +335,15 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5001</td><td>Arbedo-Castione</td><td>1</td></tr>
 <tr><td>5144</td><td>Arogno</td><td>1</td></tr>
 <tr><td>5091</td><td>Ascona</td><td>1</td></tr>
-<tr><td>5146</td><td>Astano</td><td>1</td></tr>
 <tr><td>5324</td><td>Avegno Gordevio</td><td>2</td></tr>
 <tr><td>5242</td><td>Balerna</td><td>1</td></tr>
 <tr><td>5148</td><td>Bedano</td><td>1</td></tr>
-<tr><td>5149</td><td>Bedigliora</td><td>1</td></tr>
 <tr><td>5063</td><td>Bedretto</td><td>2</td></tr>
 <tr><td>5002</td><td>Bellinzona</td><td>1</td></tr>
 <tr><td>5281</td><td>Biasca</td><td>2</td></tr>
 <tr><td>5151</td><td>Bioggio</td><td>1</td></tr>
 <tr><td>5154</td><td>Bissone</td><td>1</td></tr>
 <tr><td>5049</td><td>Blenio</td><td>2</td></tr>
-<tr><td>5064</td><td>Bodio</td><td>2</td></tr>
 <tr><td>5304</td><td>Bosco/Gurin</td><td>2</td></tr>
 <tr><td>5269</td><td>Breggia</td><td>1</td></tr>
 <tr><td>5096</td><td>Brione sopra Minusio</td><td>2</td></tr>
@@ -372,7 +366,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5176</td><td>Comano</td><td>1</td></tr>
 <tr><td>5138</td><td>Cugnasco-Gerra</td><td>2</td></tr>
 <tr><td>5180</td><td>Cureglia</td><td>1</td></tr>
-<tr><td>5181</td><td>Curio</td><td>1</td></tr>
 <tr><td>5071</td><td>Dalpe</td><td>2</td></tr>
 <tr><td>5072</td><td>Faido</td><td>2</td></tr>
 <tr><td>5398</td><td>Gambarogno</td><td>1</td></tr>
@@ -384,6 +377,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5189</td><td>Lamone</td><td>1</td></tr>
 <tr><td>5112</td><td>Lavertezzo</td><td>2</td></tr>
 <tr><td>5323</td><td>Lavizzara</td><td>2</td></tr>
+<tr><td>5395</td><td>Lema</td><td>1</td></tr>
 <tr><td>5315</td><td>Linescio</td><td>2</td></tr>
 <tr><td>5113</td><td>Locarno</td><td>1</td></tr>
 <tr><td>5115</td><td>Losone</td><td>1</td></tr>
@@ -397,7 +391,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5254</td><td>Mendrisio</td><td>1</td></tr>
 <tr><td>5117</td><td>Mergoscia</td><td>2</td></tr>
 <tr><td>5199</td><td>Mezzovico-Vira</td><td>1</td></tr>
-<tr><td>5200</td><td>Miglieglia</td><td>1</td></tr>
 <tr><td>5118</td><td>Minusio</td><td>1</td></tr>
 <tr><td>5238</td><td>Monteceneri</td><td>1</td></tr>
 <tr><td>5257</td><td>Morbio Inferiore</td><td>1</td></tr>
@@ -405,7 +398,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5120</td><td>Muralto</td><td>1</td></tr>
 <tr><td>5205</td><td>Muzzano</td><td>1</td></tr>
 <tr><td>5206</td><td>Neggio</td><td>1</td></tr>
-<tr><td>5207</td><td>Novaggio</td><td>1</td></tr>
 <tr><td>5260</td><td>Novazzano</td><td>1</td></tr>
 <tr><td>5136</td><td>Onsernone</td><td>2</td></tr>
 <tr><td>5208</td><td>Origlio</td><td>1</td></tr>
@@ -415,7 +407,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5077</td><td>Pollegio</td><td>2</td></tr>
 <tr><td>5212</td><td>Ponte Capriasca</td><td>1</td></tr>
 <tr><td>5214</td><td>Porza</td><td>1</td></tr>
-<tr><td>5078</td><td>Prato (Leventina)</td><td>2</td></tr>
 <tr><td>5216</td><td>Pura</td><td>1</td></tr>
 <tr><td>5079</td><td>Quinto</td><td>2</td></tr>
 <tr><td>5263</td><td>Riva San Vitale</td><td>1</td></tr>
@@ -445,7 +436,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Vaud
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>5621</td><td>Aclens</td><td>1</td></tr>
 <tr><td>5742</td><td>Agiez</td><td>2</td></tr>
 <tr><td>5401</td><td>Aigle</td><td>2</td></tr>
@@ -462,15 +453,15 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5745</td><td>Baulmes</td><td>2</td></tr>
 <tr><td>5746</td><td>Bavois</td><td>2</td></tr>
 <tr><td>5704</td><td>Begnins</td><td>1</td></tr>
-<tr><td>5581</td><td>Belmont-sur- Lausanne</td><td>1</td></tr>
-<tr><td>5902</td><td>Belmont-sur- Yverdon</td><td>2</td></tr>
+<tr><td>5581</td><td>Belmont-sur-Lausanne</td><td>1</td></tr>
+<tr><td>5902</td><td>Belmont-sur-Yverdon</td><td>2</td></tr>
 <tr><td>5512</td><td>Bercher</td><td>2</td></tr>
 <tr><td>5424</td><td>Berolle</td><td>1</td></tr>
 <tr><td>5471</td><td>Bettens</td><td>2</td></tr>
 <tr><td>5402</td><td>Bex</td><td>2</td></tr>
 <tr><td>5425</td><td>Bière</td><td>1</td></tr>
 <tr><td>5903</td><td>Bioley-Magnoux</td><td>2</td></tr>
-<tr><td>5892</td><td>Blonay - Saint- Légier</td><td>1</td></tr>
+<tr><td>5892</td><td>Blonay–Saint-Légier</td><td>1</td></tr>
 <tr><td>5747</td><td>Bofflens</td><td>2</td></tr>
 <tr><td>5705</td><td>Bogis-Bossey</td><td>1</td></tr>
 <tr><td>5551</td><td>Bonvillars</td><td>2</td></tr>
@@ -482,7 +473,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5472</td><td>Bournens</td><td>2</td></tr>
 <tr><td>5473</td><td>Boussens</td><td>2</td></tr>
 <tr><td>5622</td><td>Bremblens</td><td>1</td></tr>
-<tr><td>5515</td><td>Bretigny-sur- Morrens</td><td>2</td></tr>
+<tr><td>5515</td><td>Bretigny-sur-Morrens</td><td>2</td></tr>
 <tr><td>5748</td><td>Bretonnières</td><td>2</td></tr>
 <tr><td>5623</td><td>Buchillon</td><td>1</td></tr>
 <tr><td>5552</td><td>Bullet</td><td>2</td></tr>
@@ -496,17 +487,17 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5812</td><td>Champtauroz</td><td>2</td></tr>
 <tr><td>5905</td><td>Champvent</td><td>2</td></tr>
 <tr><td>5882</td><td>Chardonne</td><td>1</td></tr>
-<tr><td>5841</td><td>Château-d’Oex</td><td>2</td></tr>
+<tr><td>5841</td><td>Château-d’Œx</td><td>2</td></tr>
 <tr><td>5707</td><td>Chavannes-de-Bogis</td><td>1</td></tr>
 <tr><td>5708</td><td>Chavannes-des-Bois</td><td>1</td></tr>
 <tr><td>5907</td><td>Chavannes-le-Chêne</td><td>2</td></tr>
-<tr><td>5475</td><td>Chavannes-le- Veyron</td><td>2</td></tr>
-<tr><td>5627</td><td>Chavannes-près- Renens</td><td>1</td></tr>
-<tr><td>5665</td><td>Chavannes-sur- Moudon</td><td>2</td></tr>
+<tr><td>5475</td><td>Chavannes-le-Veyron</td><td>2</td></tr>
+<tr><td>5627</td><td>Chavannes-près-Renens</td><td>1</td></tr>
+<tr><td>5665</td><td>Chavannes-sur-Moudon</td><td>2</td></tr>
 <tr><td>5749</td><td>Chavornay</td><td>2</td></tr>
 <tr><td>5908</td><td>Chêne-Pâquier</td><td>2</td></tr>
 <tr><td>5909</td><td>Cheseaux-Noréaz</td><td>2</td></tr>
-<tr><td>5582</td><td>Cheseaux-sur- Lausanne</td><td>1</td></tr>
+<tr><td>5582</td><td>Cheseaux-sur-Lausanne</td><td>1</td></tr>
 <tr><td>5709</td><td>Chéserex</td><td>1</td></tr>
 <tr><td>5403</td><td>Chessel</td><td>2</td></tr>
 <tr><td>5476</td><td>Chevilly</td><td>2</td></tr>
@@ -520,7 +511,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5712</td><td>Coppet</td><td>1</td></tr>
 <tr><td>5404</td><td>Corbeyrier</td><td>2</td></tr>
 <tr><td>5785</td><td>Corcelles-le-Jorat</td><td>2</td></tr>
-<tr><td>5555</td><td>Corcelles-près- Concise</td><td>2</td></tr>
+<tr><td>5555</td><td>Corcelles-près-Concise</td><td>2</td></tr>
 <tr><td>5816</td><td>Corcelles-près-Payerne</td><td>2</td></tr>
 <tr><td>5883</td><td>Corseaux</td><td>1</td></tr>
 <tr><td>5884</td><td>Corsier-sur-Vevey</td><td>1</td></tr>
@@ -552,7 +543,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5584</td><td>Épalinges</td><td>1</td></tr>
 <tr><td>5914</td><td>Épendes (VD)</td><td>2</td></tr>
 <tr><td>5856</td><td>Essertines-sur-Rolle</td><td>1</td></tr>
-<tr><td>5520</td><td>Essertines-sur- Yverdon</td><td>2</td></tr>
+<tr><td>5520</td><td>Essertines-sur-Yverdon</td><td>2</td></tr>
 <tr><td>5521</td><td>Étagnières</td><td>2</td></tr>
 <tr><td>5636</td><td>Étoy</td><td>1</td></tr>
 <tr><td>5716</td><td>Eysins</td><td>1</td></tr>
@@ -561,7 +552,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5483</td><td>Ferreyres</td><td>2</td></tr>
 <tr><td>5522</td><td>Fey</td><td>2</td></tr>
 <tr><td>5556</td><td>Fiez</td><td>2</td></tr>
-<tr><td>5557</td><td>Fontaines-sur- Grandson</td><td>2</td></tr>
+<tr><td>5557</td><td>Fontaines-sur-Grandson</td><td>2</td></tr>
 <tr><td>5604</td><td>Forel (Lavaux)</td><td>1</td></tr>
 <tr><td>5717</td><td>Founex</td><td>1</td></tr>
 <tr><td>5523</td><td>Froideville</td><td>2</td></tr>
@@ -600,7 +591,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5637</td><td>Lavigny</td><td>1</td></tr>
 <tr><td>5872</td><td>Le Chenit</td><td>2</td></tr>
 <tr><td>5873</td><td>Le Lieu</td><td>2</td></tr>
-<tr><td>5587</td><td>Le Mont-sur- Lausanne</td><td>1</td></tr>
+<tr><td>5587</td><td>Le Mont-sur-Lausanne</td><td>1</td></tr>
 <tr><td>5731</td><td>Le Vaud</td><td>1</td></tr>
 <tr><td>5750</td><td>Les Clées</td><td>2</td></tr>
 <tr><td>5407</td><td>Leysin</td><td>2</td></tr>
@@ -626,7 +617,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5490</td><td>Moiry</td><td>2</td></tr>
 <tr><td>5431</td><td>Mollens (VD)</td><td>1</td></tr>
 <tr><td>5921</td><td>Molondin</td><td>2</td></tr>
-<tr><td>5922</td><td>Montagny-près- Yverdon</td><td>2</td></tr>
+<tr><td>5922</td><td>Montagny-près-Yverdon</td><td>2</td></tr>
 <tr><td>5693</td><td>Montanaire</td><td>2</td></tr>
 <tr><td>5756</td><td>Montcherand</td><td>2</td></tr>
 <tr><td>5540</td><td>Montilliez</td><td>2</td></tr>
@@ -653,7 +644,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5493</td><td>Orny</td><td>2</td></tr>
 <tr><td>5805</td><td>Oron</td><td>2</td></tr>
 <tr><td>5925</td><td>Orzens</td><td>2</td></tr>
-<tr><td>5529</td><td>Oulens-sous- Echallens</td><td>2</td></tr>
+<tr><td>5529</td><td>Oulens-sous-Echallens</td><td>2</td></tr>
 <tr><td>5530</td><td>Pailly</td><td>2</td></tr>
 <tr><td>5588</td><td>Paudex</td><td>1</td></tr>
 <tr><td>5822</td><td>Payerne</td><td>2</td></tr>
@@ -679,7 +670,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5413</td><td>Roche (VD)</td><td>2</td></tr>
 <tr><td>5861</td><td>Rolle</td><td>1</td></tr>
 <tr><td>5761</td><td>Romainmôtier-Envy</td><td>2</td></tr>
-<tr><td>5592</td><td>Romanel-sur- Lausanne</td><td>1</td></tr>
+<tr><td>5592</td><td>Romanel-sur-Lausanne</td><td>1</td></tr>
 <tr><td>5645</td><td>Romanel-sur-Morges</td><td>1</td></tr>
 <tr><td>5798</td><td>Ropraz</td><td>2</td></tr>
 <tr><td>5684</td><td>Rossenges</td><td>2</td></tr>
@@ -716,9 +707,9 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>5828</td><td>Treytorrens (Payerne)</td><td>2</td></tr>
 <tr><td>5932</td><td>Ursins</td><td>2</td></tr>
 <tr><td>5831</td><td>Valbroye</td><td>2</td></tr>
-<tr><td>5933</td><td>Valeyres-sous- Montagny</td><td>2</td></tr>
-<tr><td>5763</td><td>Valeyres-sous- Rances</td><td>2</td></tr>
-<tr><td>5934</td><td>Valeyres-sous- Ursins</td><td>2</td></tr>
+<tr><td>5933</td><td>Valeyres-sous-Montagny</td><td>2</td></tr>
+<tr><td>5763</td><td>Valeyres-sous-Rances</td><td>2</td></tr>
+<tr><td>5934</td><td>Valeyres-sous-Ursins</td><td>2</td></tr>
 <tr><td>5764</td><td>Vallorbe</td><td>2</td></tr>
 <tr><td>5765</td><td>Vaulion</td><td>2</td></tr>
 <tr><td>5650</td><td>Vaux-sur-Morges</td><td>1</td></tr>
@@ -755,7 +746,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Vallese
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>6101</td><td>Agarn</td><td>2</td></tr>
 <tr><td>6102</td><td>Albinen</td><td>2</td></tr>
 <tr><td>6252</td><td>Anniviers</td><td>2</td></tr>
@@ -889,7 +880,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Berna
 
 <table>
-<tr><th colspan="2">Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th colspan="2">Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>301</td><td colspan="2">Aarberg</td><td>2</td></tr>
 <tr><td>321</td><td colspan="2">Aarwangen</td><td>3</td></tr>
 <tr><td>561</td><td colspan="2">Adelboden</td><td>3</td></tr>
@@ -1068,7 +1059,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>437</td><td colspan="2">Mont-Tramelan</td><td>2</td></tr>
 <tr><td>544</td><td colspan="2">Moosseedorf</td><td>2</td></tr>
 <tr><td>742</td><td colspan="2">Mörigen</td><td>2</td></tr>
-<tr><td>700</td><td colspan="2">Moutier</td><td>2</td></tr>
 <tr><td>668</td><td colspan="2">Mühleberg</td><td>2</td></tr>
 <tr><td>546</td><td colspan="2">Münchenbuchsee</td><td>2</td></tr>
 <tr><td>669</td><td colspan="2">Münchenwiler</td><td>2</td></tr>
@@ -1125,7 +1115,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>904</td><td colspan="2">Röthenbach im Emmental</td><td>3</td></tr>
 <tr><td>623</td><td colspan="2">Rubigen</td><td>2</td></tr>
 <tr><td>905</td><td colspan="2">Rüderswil</td><td>3</td></tr>
-<tr><td>420</td><td colspan="2">Rüdtligen- Alchenflüh</td><td>2</td></tr>
+<tr><td>420</td><td colspan="2">Rüdtligen-Alchenflüh</td><td>2</td></tr>
 <tr><td>880</td><td colspan="2">Rüeggisberg</td><td>2</td></tr>
 <tr><td>956</td><td colspan="2">Rüegsau</td><td>3</td></tr>
 <tr><td>421</td><td colspan="2">Rumendingen</td><td>2</td></tr>
@@ -1234,7 +1224,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Grigioni
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>3542</td><td>Albula/Alvra</td><td>3</td></tr>
 <tr><td>3701</td><td>Andeer</td><td>3</td></tr>
 <tr><td>3921</td><td>Arosa</td><td>1</td></tr>
@@ -1311,7 +1301,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>3762</td><td>Scuol</td><td>2</td></tr>
 <tr><td>3972</td><td>Seewis im Prättigau</td><td>2</td></tr>
 <tr><td>3640</td><td>Sils im Domleschg</td><td>3</td></tr>
-<tr><td>3789</td><td>Sils im Engadin/ Segl</td><td>2</td></tr>
+<tr><td>3789</td><td>Sils im Engadin/Segl</td><td>2</td></tr>
 <tr><td>3790</td><td>Silvaplana</td><td>2</td></tr>
 <tr><td>3823</td><td>Soazza</td><td>1</td></tr>
 <tr><td>3787</td><td>St. Moritz</td><td>2</td></tr>
@@ -1324,7 +1314,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>3734</td><td>Trin</td><td>2</td></tr>
 <tr><td>3987</td><td>Trun</td><td>3</td></tr>
 <tr><td>3669</td><td>Tschappina</td><td>3</td></tr>
-<tr><td>3932</td><td>Tschiertschen- Praden</td><td>1</td></tr>
 <tr><td>3986</td><td>Tujetsch</td><td>3</td></tr>
 <tr><td>3946</td><td>Untervaz</td><td>2</td></tr>
 <tr><td>3670</td><td>Urmein</td><td>3</td></tr>
@@ -1345,7 +1334,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### Lucerna
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>1051</td><td>Adligenswil</td><td>2</td></tr>
 <tr><td>1021</td><td>Aesch (LU)</td><td>3</td></tr>
 <tr><td>1121</td><td>Alberswil</td><td>3</td></tr>
@@ -1366,7 +1355,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>1002</td><td>Entlebuch</td><td>3</td></tr>
 <tr><td>1025</td><td>Ermensee</td><td>3</td></tr>
 <tr><td>1026</td><td>Eschenbach (LU)</td><td>3</td></tr>
-<tr><td>1010</td><td>Escholzmatt- Marbach</td><td>3</td></tr>
+<tr><td>1010</td><td>Escholzmatt-Marbach</td><td>3</td></tr>
 <tr><td>1128</td><td>Ettiswil</td><td>3</td></tr>
 <tr><td>1129</td><td>Fischbach</td><td>3</td></tr>
 <tr><td>1004</td><td>Flühli</td><td>3</td></tr>
@@ -1381,7 +1370,6 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>1030</td><td>Hitzkirch</td><td>3</td></tr>
 <tr><td>1031</td><td>Hochdorf</td><td>3</td></tr>
 <tr><td>1032</td><td>Hohenrain</td><td>3</td></tr>
-<tr><td>1057</td><td>Honau</td><td>3</td></tr>
 <tr><td>1058</td><td>Horw</td><td>1</td></tr>
 <tr><td>1033</td><td>Inwil</td><td>3</td></tr>
 <tr><td>1089</td><td>Knutwil</td><td>3</td></tr>
@@ -1435,7 +1423,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 ### San Gallo
 
 <table>
-<tr><th>Numero del Comune (n. UST)<sup>1</sup></th><th>Comune</th><th>Regione di premio</th></tr>
+<tr><th>Numero del Comune (n. UST)<sup><sup>1</sup></sup></th><th>Comune</th><th>Regione di premio</th></tr>
 <tr><td>3251</td><td>Altstätten</td><td>3</td></tr>
 <tr><td>3311</td><td>Amden</td><td>2</td></tr>
 <tr><td>3441</td><td>Andwil (SG)</td><td>2</td></tr>
@@ -1446,7 +1434,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>3211</td><td>Berg (SG)</td><td>2</td></tr>
 <tr><td>3233</td><td>Berneck</td><td>3</td></tr>
 <tr><td>3271</td><td>Buchs (SG)</td><td>2</td></tr>
-<tr><td>3395</td><td>Bütschwil- Ganterschwil</td><td>3</td></tr>
+<tr><td>3395</td><td>Bütschwil-Ganterschwil</td><td>3</td></tr>
 <tr><td>3401</td><td>Degersheim</td><td>3</td></tr>
 <tr><td>3234</td><td>Diepoldsau</td><td>3</td></tr>
 <tr><td>3352</td><td>Ebnat-Kappel</td><td>3</td></tr>
@@ -1664,7 +1652,7 @@ Appenzello Esterno, Appenzello Interno, Argovia, Basilea Città, Ginevra, Giura,
 <tr><td>293</td><td colspan="2">Wädenswil</td><td>2</td></tr>
 <tr><td>120</td><td colspan="2">Wald (ZH)</td><td>3</td></tr>
 <tr><td>69</td><td colspan="2">Wallisellen</td><td>2</td></tr>
-<tr><td>200</td><td colspan="2">Wangen- Brüttisellen</td><td>2</td></tr>
+<tr><td>200</td><td colspan="2">Wangen-Brüttisellen</td><td>2</td></tr>
 <tr><td>70</td><td colspan="2">Wasterkingen</td><td>3</td></tr>
 <tr><td>102</td><td colspan="2">Weiach</td><td>3</td></tr>
 <tr><td>251</td><td colspan="2">Weiningen (ZH)</td><td>3</td></tr>
