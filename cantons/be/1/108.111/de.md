@@ -4,13 +4,13 @@ number: "108.111"
 title: Archivierungsverordnung
 short: ArchV
 language: de
-version: 2025-02-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-18
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-09-17
 adopted: 2009-11-04
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/108.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3113/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3113/pdf_file"
 
 (ArchV)
 
-vom 04.11.2009 (Stand 01.02.2025)
+vom 04.11.2009 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -283,9 +283,9 @@ beschliesst:
 
 #### Art. 21
 
-**Wappenregister**
+**Register der Gemeindewappen**
 
-<sup>1</sup> Das Staatsarchiv führt das Register der Kantonswappen und das Register der Gemeindewappen.
+<sup>1</sup> Das Staatsarchiv führt das Register der Gemeindewappen.
 
 ## 5 Benützung der Bestände des Staatsarchivs
 
