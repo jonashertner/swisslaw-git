@@ -3,13 +3,12 @@ canton: BS
 number: "772.500"
 title: Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Gas
 language: de
-version: 2024-03-01
-valid_until: 2025-12-31
-version_adopted: 2022-09-01
+version: 2026-01-01
+version_adopted: 2025-11-07
 adopted: 2022-09-01
 in_force: 2024-03-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6152/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6741/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6152/pdf_file"
 
 Wasser / Energie
 
-Vom 1. September 2022 (Stand 1. März 2024)
+Vom 1. September 2022 (Stand 1. Januar 2026)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -43,6 +42,22 @@ beschliesst:
 <sup>1</sup> Kundin und Kunde: jede natürliche oder juristische Person, deren Grundstück mit Gas von IWB erschlossen ist bzw. erschlossen werden soll oder durch IWB mittels eigener Abrechnung mit Gas versorgt wird bzw. versorgt werden soll.
 
 <sup>2</sup> Grundstück: Jede Parzelle oder Baurechtsparzelle.
+
+<sup>3</sup> Stilllegung: Die endgültige Ausserbetriebnahme einer Leitung (Anschluss- oder Versorgungsleitung) durch IWB. Endgültig ausser Betrieb genommen ist eine Leitung, wenn diese gasfrei und vom vorgelagerten, noch im Betrieb befindlichen Netz physisch getrennt ist.
+
+<sup>4</sup> Rückbau: Die gesamte oder teilweise Entfernung der Anschlussleitung zwischen Versorgungsleitung und Übergabepunkt.
+
+#### § 2bis
+
+**Stilllegung des Gasnetzes auf dem Gebiet des Kantons Basel-Stadt**
+
+<sup>1</sup> IWB verfügt gestützt auf § 3 Abs. 1<sup>bis</sup> und § 37 IWB-Gesetz die Stilllegung des Versorgungsnetzes und von Anschlussleitungen sowie die Beendigung von Benützungsverhältnissen auf dem Gebiet des Kantons Basel-Stadt.
+
+<sup>2</sup> Allfällige Entschädigungen richten sich nach dem Energiegesetz (EnG) vom 16. November 2016.
+
+<sup>3</sup> Die Kundin oder der Kunde hat IWB am vorgängig schriftlich mitgeteilten Termin den Zutritt zu den Anlagen der Gasversorgung (Leitungen, Druckregelanlagen und dergleichen), insbesondere zum Übergabepunkt, zu gewähren und sämtliche Arbeiten in Zusammenhang mit der Stilllegung des Gasnetzes zu dulden, so dass das Versorgungsnetz und die Anschlussleitungen in einen gasfreien Zustand versetzt werden können. Die Kundin oder der Kunde hat dafür zu sorgen, dass die Hausinstallationen zu diesem Termin gasfrei sind. Im Widerhandlungsfall lässt IWB die Arbeiten zu Lasten der Kundin oder des Kunden ausführen.
+
+<sup>4</sup> Allfällige Arbeiten nach der Stilllegung, die von der Kundin oder dem Kunden verursacht werden – beispielsweise der Rückbau einer Anschluss- oder Versorgungsleitung auf dem betreffenden Grundstück – gehen stets zu ihren bzw. seinen Lasten.
 
 #### § 3
 
@@ -70,9 +85,9 @@ beschliesst:
 
 **Inanspruchnahme von Privatareal**
 
-<sup>1</sup> Muss für Anlagen der Gasversorgung (Leitungen, Druckregelanlagen und dergleichen) Privatareal in Anspruch genommen werden, so können die dazu erforderlichen Rechte durch Vertrag oder Enteignung (§ 32 IWB-Gesetz) erworben werden. Soweit die Anlagen dem belasteten Grundstück dienen, sind diese entschädigungslos zu dulden.
+<sup>1</sup> Muss für Anlagen der Gasversorgung Privatareal in Anspruch genommen werden, so können die dazu erforderlichen Rechte durch Vertrag oder Enteignung (§ 32 IWB-Gesetz) erworben werden. Soweit die Anlagen der Gasversorgung dem belasteten Grundstück dienen, sind diese entschädigungslos zu dulden.
 
-<sup>2</sup> Allfällige Durchleitungsrechte für Anschlussleitungen sind von der Kundin oder dem Kunden zu beschaffen (vgl. auch § 24 Abs. 1).
+<sup>2</sup> Allfällige Durchleitungsrechte für Anschlussleitungen sind von der Kundin oder dem Kunden zu beschaffen.
 
 #### § 7
 
@@ -80,7 +95,9 @@ beschliesst:
 
 <sup>1</sup> IWB oder deren Beauftragten ist der Zutritt zu den Anlagen der Gasversorgung und sämtlichen Gasverbrauchseinrichtungen während den ordentlichen Arbeitszeiten, bei besonderen Ereignissen wie z.B. Störungen jederzeit, zu ermöglichen.
 
-<sup>2</sup> Der Zugang zu dem Übergabepunkt, der Hauptabsperrarmatur, den Druckregelanlagen und den Mess- und Kontrolleinrichtungen ist stets frei und zugänglich zu halten. Kosten für Freilegungen oder das Zugänglichmachen sind von der Kundin oder dem Kunden des betroffenen Gebäudes zu tragen.
+<sup>2</sup> Der Zugang zu dem Übergabepunkt, der Hauptabsperrarmatur, den Druckregelanlagen und den Mess- und Kontrolleinrichtungen ist stets frei und zugänglich zu halten.
+
+<sup>3</sup> Kosten für Freilegungen oder das Zugänglichmachen sind von der Kundin oder dem Kunden des betroffenen Gebäudes zu tragen. Darunter fallen insbesondere auch Kosten für den Einsatz Dritter, wie beispielsweise Schlüsseldienst.
 
 #### § 8
 
@@ -118,17 +135,17 @@ beschliesst:
 
 **Änderung des Versorgungsnetzes**
 
-<sup>1</sup> IWB kann unter Berücksichtigung der übergeordneten gesetzlichen Grundlagen das Versorgungsnetz unter den Voraussetzungen erweitern oder ändern, dass:
+<sup>1</sup> IWB kann unter Berücksichtigung der übergeordneten gesetzlichen Grundlagen das Versorgungsnetz erweitern oder ändern.
 
-- a) keine überwiegenden öffentlichen Interessen entgegenstehen;
-- b) genügend Gas vorhanden ist und
-- c) es sich wirtschaftlich rechtfertigen lässt oder wenn eine Interessentin oder ein Interessent für die Kosten aufkommt, die voraussichtlich durch Gebühren und Tarife nicht gedeckt werden können.
+- a) …
+- b) …
+- c) …
 
 #### § 13
 
 **Beachtung von Sperrfristen**
 
-<sup>1</sup> Bei Neuanschlüssen oder Arbeiten an Anschlussleitungen, die Änderungen des Versorgungsnetzes in Strassen und Trottoirs bedingen, hat IWB allfällige gesetzlich vorgeschriebene Aufgrabungssperren zu beachten.
+<sup>1</sup> Bei neuen Netzanschlüssen oder Arbeiten an Anschlussleitungen, die Änderungen des Versorgungsnetzes in Strassen und Trottoirs bedingen, hat IWB allfällige gesetzlich vorgeschriebene Aufgrabungssperren zu beachten.
 
 #### § 14
 
@@ -136,7 +153,7 @@ beschliesst:
 
 <sup>1</sup> Die Kosten für die Erstellung, Unterhalt, Erweiterung, Erneuerung oder Änderung des Versorgungsnetzes gehen zu Lasten von IWB und werden über die Gebühren und Tarife finanziert.
 
-<sup>2</sup> Erfolgt der Ausbau des Versorgungsnetzes im Interesse einer einzelnen Kundin oder eines einzelnen Kunden, so hat sie oder er für die Kosten aufzukommen.
+<sup>2</sup> Erfolgt die Erweiterung oder die Erneuerung des Versorgungsnetzes im Interesse einer einzelnen Kundin oder eines einzelnen Kunden, so hat sie oder er für die Kosten aufzukommen.
 
 <sup>3</sup> Die Kosten für die Anpassung oder Verlegung von Versorgungsleitungen oder Anlagen des Versorgungsnetzes hat die Verursacherin oder der Verursacher sowohl im öffentlichen als auch im privaten Grund zu tragen.
 
@@ -202,7 +219,7 @@ beschliesst:
 
 <sup>2</sup> In der Regel wird unmittelbar nach dem Übergabepunkt die Hauptabsperrarmatur montiert. Die Hauptabsperrarmatur steht im Eigentum von IWB. Eine Hauptabsperrarmatur kann von IWB zu ihren Lasten jederzeit nachträglich eingebaut werden. Der Übergabepunkt gemäss Abs. 1 ändert sich damit nicht.
 
-<sup>3</sup> IWB ist berechtigt, aufgrund von netztopologischen oder technischen Gründen den Standort des Übergabepunktes neu festzulegen. Kommt es zu einer solchen Änderung, informiert IWB die betroffene Kundin oder den betroffenen Kunden. Die Kundin oder der Kunde hat die Hausinstallationen (§§ 31 ff.) an die neuen Verhältnisse anzupassen und die damit verbundenen Kosten zu tragen.
+<sup>3</sup> IWB ist berechtigt, aufgrund von netztopologischen oder technischen Gründen den Standort des Übergabepunktes neu festzulegen. Kommt es zu einer solchen Änderung, informiert IWB die betroffene Kundin oder den betroffenen Kunden. Die Kundin oder der Kunde hat die Hausinstallationen an die neuen Verhältnisse anzupassen und die damit verbundenen Kosten zu tragen.
 
 <sup>4</sup> IWB ist berechtigt, sofern technisch oder wirtschaftlich erforderlich, bestehende Anschlussleitungen zu erneuern, entweder selbst oder durch beauftragte Dritte. Massgeblich sind die Vorgaben von IWB.
 
@@ -216,19 +233,19 @@ beschliesst:
 
 <sup>3</sup> Von IWB angeordnete Massnahmen einschliesslich der damit verbundenen Arbeiten, wie z.B. die Demontage und Montage von Verkleidungen jeglicher Art oder das Versetzen von Pflanzen und Sträuchern, hat die Kundin oder der Kunde unverzüglich in Auftrag zu geben und ausführen zu lassen sowie die damit verbundenen Kosten zu tragen.
 
-<sup>4</sup> Nicht benutzte Anschlussleitungen werden von IWB an der Versorgungsleitung abgetrennt und verschlossen, sofern nicht eine Wiederverwendung in den nächsten drei Monaten schriftlich zugesichert wird.
+<sup>4</sup> Nicht benutzte Anschlussleitungen dürfen von IWB stillgelegt werden. Eine Anschlussleitung gilt als nicht benutzt, sobald keine Gasverbrauchseinrichtung mehr angeschlossen ist oder die Messeinrichtung demontiert ist.
 
 #### § 22
 
-**Neuanschlüsse**
+**Netzanschlüsse**
 
-<sup>1</sup> Neuanschlüsse sind mittels eines Formulars bei IWB zu beantragen (Anschlussgesuch). Gewisse Anschlussvarianten, z.B. für einen Leistungsbedarf grösser 500 kW oder für einen Hochdruckanschluss, bedürfen vorab einer netztechnischen Vorabklärung. Das Anschlussgesuch, die netztechnische Vorabklärung und eine allfällige Koordinationssitzung sind für die Kundinnen und Kunden kostenlos.
+<sup>1</sup> Neue Netzanschlüsse sind mittels eines Formulars bei IWB zu beantragen (Anschlussgesuch). Gewisse Anschlussvarianten, z.B. für einen Leistungsbedarf grösser 500 kW oder für einen Hochdruckanschluss, bedürfen vorab einer netztechnischen Vorabklärung. Das Anschlussgesuch, die netztechnische Vorabklärung und eine allfällige Koordinationssitzung sind für die Kundinnen und Kunden kostenlos.
 
 Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen (wie beispielsweise die Überprüfung eines Erschliessungskonzepts oder zusätzliche Koordinationssitzungen) werden der Kundin bzw. dem Kunden von IWB in Rechnung gestellt.
 
 <sup>2</sup> Die Modalitäten und Kosten des Netzanschlusses werden in einem Netzanschlussvertrag festgelegt, welcher mit gegenseitiger Unterzeichnung zustande kommt. Begehrt die Kundin oder der Kunde nach gegenseitiger Unterzeichnung des Netzanschlussvertrages Änderungen des Netzanschlusses, wird der Kundin bzw. dem Kunden der durch die erneute Prüfung und Planung entstehende Aufwand in Rechnung gestellt. Gleiches gilt für bereits entstandene Kosten (Materialkosten o.ä.).
 
-<sup>3</sup> IWB ist berechtigt, voraussichtlich unwirtschaftliche Neuanschlüsse abzulehnen, sofern die Kundin oder der Kunde nicht bereit ist, die sich daraus ergebenden Kosten selbst zu übernehmen. Die Kosten für die Erstellung von Anschlussleitungen, die dem ausschliesslichen Zweck der Durchleitung von Kochgas oder Gas für Durchlauferhitzer dienen, werden vollständig in Rechnung gestellt.
+<sup>3</sup> IWB ist berechtigt, neue, voraussichtlich unwirtschaftliche Netzanschlüsse abzulehnen. Ebenso ist sie berechtigt, neue Netzanschlüsse abzulehnen, welche der Planung der Stilllegung des Gasnetzes entgegenstehen. Im Falle von neuen unwirtschaftlichen Netzanschlüssen hat die Kundin oder der Kunde die sich daraus ergebenden Kosten zusätzlich zur Anschlussgebühr selbst zu tragen.
 
 <sup>4</sup> IWB bestimmt die Leitungsführung und den Ort der Hauseinführung (Übergabepunkt) und berücksichtigt die Wünsche der Kundin oder des Kunden, soweit dies möglich und zweckmässig ist.
 
@@ -236,7 +253,7 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 
 <sup>6</sup> IWB kann mehrere Grundstücke an eine gemeinsame Anschlussleitung anschliessen und ist berechtigt, von einer in einem privaten Grundstück liegenden Anschlussleitung auch Gebäude auf Fremdgrundstücken anzuschliessen.
 
-<sup>7</sup> Auf Wunsch der Kundin oder des Kunden können zusätzliche Anschlüsse erstellt werden. Die Kundin oder der Kunde hat hierfür die Kosten zu tragen.
+<sup>7</sup> Auf Wunsch der Kundin oder des Kunden können zusätzliche Netzanschlüsse erstellt werden. Die Kundin oder der Kunde hat hierfür die Kosten zu tragen.
 
 #### § 23
 
@@ -254,15 +271,15 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 
 <sup>2</sup> Die Kundin oder der Kunde hat IWB den benötigten Raum für die Leitungsführung und die Hauptabsperrarmatur kostenlos zur Verfügung zu stellen.
 
-<sup>3</sup> Die Kundin oder der Kunde hat Arbeiten zur Erstellung und zum Unterhalt von Anschlussleitungen zu dulden.
+<sup>3</sup> Die Kundin oder der Kunde hat sämtliche Arbeiten im Zusammenhang mit den Anschlussleitungen zu dulden.
 
 #### § 25
 
 **Anschlussgebühr**
 
-<sup>1</sup> Die Kundin oder der Kunde hat einen Kostenanteil (Anschlussgebühr) für die Erstellung der Anschlussleitung und der Hauptabsperrarmatur zu tragen, ohne dass diese Teile in ihr oder sein Eigentum übergehen. Die Anschlussgebühr wird aufgrund des Rohrinnendurchmessers und der Leitungslänge ab Versorgungsleitung bis zum Übergabepunkt festgesetzt. Die Kosten für den Unterhalt, die Stilllegung, den Abbruch und die Erneuerung der Anschlussleitung und der Hauptabsperrarmatur gehen zu Lasten von IWB und werden über die Gebühren und Tarife finanziert.
+<sup>1</sup> Die Kundin oder der Kunde hat einen Kostenanteil (Anschlussgebühr) für die Erstellung der Anschlussleitung und der Hauptabsperrarmatur zu tragen, ohne dass diese Teile in ihr oder sein Eigentum übergehen. Die Anschlussgebühr wird aufgrund des Rohrinnendurchmessers und der Leitungslänge ab Versorgungsleitung bis zum Übergabepunkt festgesetzt. Die Kosten für den Unterhalt, die Stilllegung sowie die Erneuerung der Anschlussleitung inklusive der Hauptabsperrarmatur gehen zu Lasten von IWB und werden über die Gebühren und Tarife finanziert.
 
-<sup>2</sup> Ein Abbruch der Anschlussleitung im Zusammenhang mit einer Änderung der Anschlussleitung auf Wunsch der Kundin oder des Kunden wird hinsichtlich der Kosten wie eine Änderung der Anschlussleitung auf Wunsch der Kundin oder des Kunden behandelt und wird gemäss § 28 abgerechnet.
+<sup>2</sup> Ein Rückbau der Anschlussleitung im Zusammenhang mit einer Änderung der Anschlussleitung auf Wunsch der Kundin oder des Kunden wird hinsichtlich der Kosten wie eine Änderung der Anschlussleitung auf Wunsch der Kundin oder des Kunden behandelt und wird gemäss § 28 abgerechnet.
 
 <sup>3</sup> Für die Berechnung der Anschlussgebühr gelten die Ansätze des Anhangs.
 
@@ -286,13 +303,13 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 
 <sup>1</sup> Soll eine bestehende Anschlussleitung geändert werden, wie z.B. eine Anpassung des nominalen Rohrinnendurchmessers, eine Umlegung oder einen vorzeitigen Ersatz, so hat die Kundin oder der Kunde dies mittels eines Formulars bei IWB zu beantragen. Die Kosten für die Änderung der Anschlussleitung hat die Verursacherin oder der Verursacher sowohl im öffentlichen als auch im privaten Grund zu tragen.
 
-<sup>2</sup> Wird eine Anschlussleitung nach mindestens 10 Betriebsjahren geändert, so beteiligt sich IWB an den Kosten. Die Beteiligung beträgt 2.5 % pro Jahr ab dem 11. Betriebsjahr der bestehenden Anschlussleitung. Eine Kostenbeteiligung von IWB an allfälligen Tiefbauarbeiten ist ausgeschlossen. Die Kundin oder der Kunden bzw. die Verursacherin oder der Verursacher hat allfällige Tiefbauarbeiten in Auftrag zu geben sowie entsprechend den Vorgaben von IWB ausführen zu lassen und die damit verbundenen Kosten zu tragen.
+<sup>2</sup> Wird eine Anschlussleitung nach mindestens 10 Betriebsjahren geändert, so beteiligt sich IWB an den Kosten. Die Beteiligung beträgt 2.5 % pro Jahr ab dem 11. Betriebsjahr der bestehenden Anschlussleitung. Eine Kostenbeteiligung von IWB an allfälligen Tiefbauarbeiten ist ausgeschlossen. Die Kundin oder der Kunde bzw. die Verursacherin oder der Verursacher hat allfällige Tiefbauarbeiten in Auftrag zu geben sowie entsprechend den Vorgaben von IWB ausführen zu lassen und die damit verbundenen Kosten zu tragen.
 
 #### § 29
 
 **Besondere Verhältnisse**
 
-<sup>1</sup> Für Anschlussleitungen, die aufgrund besonderer Verhältnisse einer speziellen Verlegungsart oder Leitungsführung bedürfen (insbesondere wenn im Bereich der Anschlussleitung kein normaler Baugrund mit Erd- oder Asphaltoberfläche vorhanden ist), hat die Kundin oder der Kunde die von IWB als notwendig erachteten baulichen Massnahmen (z.B. Tiefbauarbeiten) zu ihren oder seinen Lasten auszuführen, bzw. die daraus entstehenden Kosten zu tragen.
+<sup>1</sup> Für Anschlussleitungen, die aufgrund besonderer Verhältnisse einer speziellen Verlegungsart oder Leitungsführung bedürfen, insbesondere wenn im Bereich der Anschlussleitung kein normaler Baugrund mit Erd- oder Asphaltoberfläche vorhanden ist, hat die Kundin oder der Kunde die von IWB als notwendig erachteten baulichen Massnahmen (z.B. Tiefbauarbeiten) zu ihren oder seinen Lasten auszuführen, bzw. die daraus entstehenden Kosten zu tragen.
 
 #### § 30
 
@@ -310,7 +327,7 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 
 <sup>2</sup> Die Hausinstallationen stehen, mit Ausnahme der Hauptabsperrarmatur, der kundenseitigen Druckregelanlage und der Messeinrichtungen, im Eigentum der Kundin oder des Kunden.
 
-<sup>3</sup> Die Verantwortung für die gesamte Hausinstallationen trägt die Kundin oder der Kunde.
+<sup>3</sup> Die Verantwortung für die gesamten Hausinstallationen trägt die Kundin oder der Kunde.
 
 #### § 32
 
@@ -497,7 +514,11 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 
 **Ablesung**
 
-<sup>1</sup> IWB bestimmt wie, durch wen und zu welchem Zeitpunkt die Daten der Messeinrichtungen abgelesen werden.
+<sup>1</sup> Messdaten (Zählerstände) von Messeinrichtungen sind von den Kundinnen und Kunden in der für die Rechnungsstellung notwendigen Häufigkeit abzulesen und IWB bekanntzugeben. Die Kundinnen und Kunden erhalten dazu jeweils eine Aufforderung von IWB.
+
+<sup>2</sup> Kommt eine Kundin oder ein Kunde dieser Aufforderung nicht nach, ist IWB berechtigt, den Gasverbrauch der Kundin oder des Kunden anhand der Messdaten aus der Vergangenheit zu schätzen oder die Ablesung selbst vorzunehmen.
+
+<sup>3</sup> Nimmt IWB die Ablesung selbst vor, werden der Kundin oder dem Kunden die dadurch verursachten Kosten in Rechnung gestellt.
 
 #### § 56
 
@@ -531,7 +552,7 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 
 **Beginn und Ende des Benützungsverhältnisses, Haftung**
 
-<sup>1</sup> Das Benützungsverhältnis beginnt mit dem Datum der Montage und Inbetriebnahme der Messeinrichtung. Das Benützungsverhältnis endet zum Zeitpunkt der Entfernung des Anschlusses bzw. der Messeinrichtung. Bis zu diesem Zeitpunkt sind auch die Gebühren und die entsprechenden Tarife geschuldet.
+<sup>1</sup> Das Benützungsverhältnis beginnt mit dem Datum der Montage und Inbetriebnahme der Messeinrichtung. Das Benützungsverhältnis endet zum Zeitpunkt der Ausserbetriebnahme des Netzanschlusses, der Entfernung der Messeinrichtung oder der Stilllegung der Anschlussleitung. Bis zu diesem Zeitpunkt sind auch die Gebühren und die entsprechenden Tarife geschuldet.
 
 <sup>2</sup> Die Kundin oder der Kunde hat IWB jeden Kundenwechsel (z.B. Eigentümerwechsel, Mieterwechsel oder Adressänderung eines bestehenden Eigentümers) mindestens 10 Arbeitstage im Voraus, unter Angabe der alten und neuen Adresse sowie den Zeitpunkt des Wechsels, schriftlich mitzuteilen.
 
@@ -571,7 +592,7 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 - b) die anwendbaren gesetzlichen Bestimmungen nicht einhält;
 - c) rechts- oder tarifwidrig Gas bezieht;
 - d) IWB oder deren Beauftragten trotz Ermahnung den Zutritt zu den Anlagen der Gasversorgung, insbesondere zu den Messeinrichtungen und Hausinstallationen, verweigert oder verunmöglicht;
-- e) nach der zweiten Mahnung eine rechtskräftig festgesetzte oder fällige Gebühr nicht bezahlt wird, sofern die Einstellung der Lieferung für Dritte, die in keinem Benützungsverhältnis zu IWB stehen, keine unzumutbare Härte bedeutet.
+- e) nach der zweiten Mahnung ihren bzw. seinen Zahlungspflichten nicht nachkommt, sofern die Einstellung der Lieferung für Dritte, die in keinem Benützungsverhältnis zu IWB stehen, keine unzumutbare Härte bedeutet.
 
 <sup>2</sup> Die Einstellung der Lieferung von Gas befreit die Kundin oder den Kunden nicht von der Erfüllung ihrer oder seiner Verbindlichkeiten gegenüber IWB.
 
@@ -591,6 +612,8 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 
 <sup>2</sup> Die Begleichung der Rechnung hat mittels Banküberweisung auf das von IWB bezeichnete Konto zu erfolgen. Bei Verwendung eines anderen Zahlungsweges kann IWB der Rechnungsempfängerin oder dem Rechnungsempfänger die zusätzlich verursachten Kosten in Rechnung stellen.
 
+<sup>3</sup> IWB ist berechtigt, Akontozahlungen zu verlangen.
+
 #### § 64
 
 **Ausstellen der Rechnung**
@@ -603,13 +626,13 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 
 **Rechnungsstellung an Dritte**
 
-<sup>1</sup> Kundinnen oder Kunden, die von IWB bezogenes Gas an Dritte abgeben, dürfen dafür nicht mehr in Rechnung stellen, als sie selber bezahlt haben.
+<sup>1</sup> Kundinnen oder Kunden, die von IWB bezogenes Gas an Dritte abgeben, dürfen dafür nicht mehr in Rechnung stellen, als sie selbst bezahlt haben.
 
 #### § 66
 
 **Einsprache und Rekurs**
 
-<sup>1</sup> Gegen die Rechnung von IWB kann innert 30 Tagen nach Eröffnung mit schriftlicher Begründung Einsprache erhoben werden.
+<sup>1</sup> Gegen die Rechnungen von IWB für Leistungen gemäss öffentlichem Auftrag (Gebührenrechnungen) kann innert 30 Tagen nach Eröffnung mit schriftlicher Begründung Einsprache erhoben werden.
 
 <sup>2</sup> Offenkundig fehlerhafte Rechnungen können formlos beanstandet werden. Die Beanstandung hat vor Ablauf der Zahlungsfrist zu erfolgen.
 
@@ -633,9 +656,9 @@ Weitere von einer Kundin oder einem Kunden gewünschte Beratungsdienstleistungen
 - b) Mahngebühren ab zweiter Mahnung je Fr. 40;
 - c) Umtriebsgebühren für Inkassomassnahmen Fr. 50.
 
-<sup>4</sup> Vorbehalten bleibt die Einforderung weiterer Gebühren im Zusammenhang mit Betreibungsverfahren.
+<sup>4</sup> Vorbehalten bleibt die Einforderung weiterer Kosten im Zusammenhang mit Betreibungsverfahren.
 
-<sup>5</sup> Die zweite Mahnung hat einen Hinweis auf die Möglichkeit der Verweigerung der Lieferung von Gas gemäss § 61 Abs. 1 lit. e zu enthalten.
+<sup>5</sup> Für die Verweigerung der Lieferung von Gas gilt § 61.
 
 #### § 68
 
