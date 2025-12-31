@@ -4,13 +4,12 @@ number: "923.12"
 title: "Verordnung über die Ausübung der Patentfischerei in den Jahren 2025, 2026 und 2027"
 short: FischV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-29
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2024-10-01
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/923.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/8133/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8356/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ausübung der Patentfischerei 2025-2027 – V
 
 (FischV)
 
-vom 01.10.2024 (Fassung in Kraft getreten am 01.01.2025)
+vom 01.10.2024 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 

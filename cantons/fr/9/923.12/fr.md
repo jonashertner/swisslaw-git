@@ -4,13 +4,12 @@ number: "923.12"
 title: "Ordonnance sur l'exercice de la pêche à permis en 2025, 2026 et 2027"
 short: OPêche
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-29
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2024-10-01
 in_force: 2025-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/923.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8133/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8356/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Pêche à permis 2025 à 2027 – O
 
 (OPêche)
 
-du 01.10.2024 (version entrée en vigueur le 01.01.2025)
+du 01.10.2024 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
