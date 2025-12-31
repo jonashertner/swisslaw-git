@@ -3,20 +3,19 @@ canton: LU
 number: "204"
 title: Verordnung über die Aufnahme von Pflegekindern
 language: de
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-01-07
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2001-09-25
 in_force: 2002-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/204"
-pdf: "https://srl.lu.ch/api/de/versions/3541/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Aufnahme von Pflegekindern
 
-vom 25.09.2001 (Stand 01.01.2020)
+vom 25.09.2001 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -38,9 +37,9 @@ beschliesst:
 
 - a. die Erteilung und den Widerruf der Bewilligungen für Pflegekinder in Familienpflege (Art. 316 ZGB[^1-1] und Art. 4 und 11 der Verordnung über die Aufnahme von Pflegekindern vom 19. Oktober 1977, PAVO[^1-2]),
 - b. die Entgegennahme der Meldungen über die Aufnahme von Pflegekindern in Tagespflege (Art. 12 PAVO),
-- c. die Erteilung und den Widerruf der Bewilligungen zur Führung von Kinderkrippen, Kinderhorten und dergleichen (Art. 13 Abs. 1b PAVO),
+- c. …
 - d. die Bezeichnung der Aufsichtsperson (Art. 10 PAVO),
-- e. die Aufsicht über die Familien- und die Tagespflege, die Kinderkrippen, Kinderhorte und dergleichen (Art. 10, 12 Abs. 2 und 19 PAVO).
+- e. die Aufsicht über die Familien- und die Tagespflege (Art. 10 und 12 Abs. 2 PAVO).
 
 <sup>2</sup> Der Gemeinderat kann die Erfüllung seiner Aufgaben im Rahmen von Artikel 2 PAVO einer Dienststelle der Gemeindeverwaltung oder einer geeigneten Stelle ausserhalb der Gemeindeverwaltung übertragen. Deren Entscheide gelten bezüglich des Rechtsschutzes als Entscheide des Gemeinderates (§ 11 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch, EGZGB[^1-3]).
 
@@ -68,8 +67,8 @@ beschliesst:
 
 <sup>1</sup> Die Dienststelle Soziales und Gesellschaft ist zuständig für
 
-- a. die Erteilung und den Widerruf der Bewilligungen zum Betrieb von Kinder- und Jugendheimen (Art. 13 Abs. 1a und 20 PAVO),
-- b. die Aufsicht über diese Heime (Art. 19 PAVO),
+- a. die Erteilung und den Widerruf der Bewilligungen zum Betrieb von Kinder- und Jugendheimen sowie zur Führung von Kinderkrippen, Kinderhorten und dergleichen (Art. 13 Abs. 1 und 20 PAVO),
+- b. die Aufsicht über diese Heime und Betreuungsangebote (Art. 19 PAVO),
 - c. die Entgegennahme von Meldungen und die Aufsicht für Dienstleistungsangebote in der Familienpflege (Art. 2 Abs. 1b und 20a ff. PAVO).
 
 ## 2 Familienpflege
