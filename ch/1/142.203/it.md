@@ -4,11 +4,11 @@ title: "Ordinanza del 22 maggio 2002 concernente la libera circolazione delle pe
 short: OLCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2002-261-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2002-261-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20250101/it"
 
 (Ordinanza sulla libera circolazione delle persone, OLCP)[^t-1]
 
-del 22 maggio 2002 (Stato 1° gennaio 2025)
+del 22 maggio 2002 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta la cifra III 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^t-1]: Nuovo testo giusta la cifra III n. 1 dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 Il Consiglio federale svizzero,
 
@@ -27,13 +27,13 @@ vista la legge federale del 16 dicembre 2005[^ingress-1] sugli stranieri e la lo
 
 ordina:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-3]: [RU 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
 [^ingress-4]: [RU 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
-[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-6]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^ingress-7]: [RS 0.946.293.671.2](https://fedlex.data.admin.ch/eli/cc/2020/1073)
+[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-6]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^ingress-7]: [RS 0.946.293.671.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4230)
 [^ingress-8]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Sezione 1: Oggetto e campo d’applicazione
@@ -89,7 +89,7 @@ ordina:
 <sup>5</sup> ...[^3-6]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
-[^3-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^3-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^3-3]: Abrogato dalla cifra I dell’O del 27 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 [^3-4]: Introdotto dalla cifra I dell’O del 25 apr. 2012 ([RU 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Abrogato dalla cifra I dell’O del 13 apr. 2016, con effetto dal 1° giu. 2016 ([RU 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
 [^3-5]: Introdotto dalla cifra I dell’O del 22 mag. 2013 ([RU 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Abrogato dalla cifra I dell’O del 30 apr. 2014, con effetto dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
@@ -119,12 +119,16 @@ ordina:
 
 <sup>4</sup> I cittadini dell’UE e dell’AELS che svolgono un’attività lucrativa in Svizzera per un massimo di tre mesi complessivi per anno civile non necessitano di un permesso di soggiorno di breve durata UE/AELS.[^4-6]
 
+<sup>5</sup> In caso di lavoro temporaneo ai sensi dell’articolo 27 capoverso 2 dell’ordinanza del 16 gennaio 1991[^4-7] sul collocamento, di una durata superiore a tre mesi e inferiore a un anno, svolto per il tramite di un fornitore di personale a prestito con sede in Svizzera, i cittadini dell’UE e dell’AELS ottengono un permesso di soggiorno di breve durata UE/AELS per la durata dell’impiego presso l’impresa acquisitrice con sede in Svizzera.[^4-8]
+
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-2]: Nuova espr. giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^4-3]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 [^4-4]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-5]: Introdotto dalla cifra I dell’O del 2 mag. 2007 ([RU 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Abrogato dalla cifra I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-6]: Introdotto dalla cifra I dell’O del 18 feb. 2004 ([RU 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-7]: [RS 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
+[^4-8]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 839](https://fedlex.data.admin.ch/eli/oc/2025/839)).
 
 #### Art. 5
 
@@ -133,7 +137,7 @@ ordina:
 Ai cittadini dell’UE e dell’AELS e ai loro familiari è rilasciato un permesso di domicilio UE/AELS illimitato in virtù dell’articolo 34 LStrI e gli articoli 60–63 della OASA[^5-2], nonché in conformità degli accordi di domicilio conclusi dalla Svizzera.
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
-[^5-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 6
 
@@ -147,7 +151,7 @@ Ai cittadini dell’UE e dell’AELS e ai loro familiari è rilasciato un permes
 
 [^6-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^6-2]: Nuovo testo giusta l’all. n. 1 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^6-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^6-3]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^6-4]: Nuovo testo giusta la cifra I dell’O del 30 apr. 2014, in vigore dal 1° giu. 2014 ([RU 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 
 ## Sezione 3: Entrata, procedura di notificazione e di permesso
@@ -161,7 +165,7 @@ Ai cittadini dell’UE e dell’AELS e ai loro familiari è rilasciato un permes
 Per i familiari di cittadini dell’UE o dell’AELS e per i prestatori di servizi di cui all’articolo 2 capoverso 3, che non possiedono la cittadinanza di uno Stato membro dell’UE o dell’AELS, sono applicabili le disposizioni in materia di obbligo del visto degli articoli 8 e 9 dell’ordinanza del 15 agosto 2018[^7-2] concernente l’entrata e il rilascio del visto. Il visto è rilasciato allorquando sono adempiute le condizioni per il rilascio di un permesso di soggiorno di breve durata UE/AELS o di un permesso di dimora UE/AELS secondo le disposizioni dell’Accordo sulla libera circolazione delle persone o della Convenzione AELS.
 
 [^7-1]: Nuovo testo giusta l’art. 69 cpv. 2 n. 1 dell’O del 15 ago. 2018 concernente l’entrata e il rilascio del visto, in vigore dal 15 set. 2018 ([RU 2018 3087](https://fedlex.data.admin.ch/eli/oc/2018/493)).
-[^7-2]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^7-2]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 8
 
@@ -191,13 +195,13 @@ Per i familiari di cittadini dell’UE o dell’AELS e per i prestatori di servi
 
 [^9-1]: Nuovo testo giusta la cifra I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
 [^9-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^9-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^9-3]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^9-4]: Nuovo testo giusta la cifra I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^9-5]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^9-6]: [RS 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
+[^9-5]: [RS 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
+[^9-6]: [RS 823.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9951)
 [^9-7]: Introdotto dalla cifra I dell’O del 13 mar. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Nuovo testo giusta l’all. n. 1 dell’O del 16 apr. 2013, in vigore dal 15 mag. 2013 ([RU 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
 [^9-8]: Introdotto dalla cifra I dell’O del 13 mar. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^9-9]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^9-9]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^9-10]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, in vigore dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 [^9-11]: Nuovo testo giusta l’all. n. 1 dell’O del 20 set. 2019, in vigore dal 1° nov. 2019 ([RU 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
@@ -217,7 +221,7 @@ Per i familiari di cittadini dell’UE o dell’AELS e per i prestatori di servi
 
 **Deroghe ai contingenti massimi[^12-2]**[^12-1]
 
-<sup>1</sup> a <sup>3</sup> ... [^12-3]
+<sup>1 a <sup>3</sup></sup> ... [^12-3]
 
 <sup>4</sup> I contingenti massimi non si applicano ai cittadini del Liechtenstein.
 
@@ -260,7 +264,7 @@ Le persone che forniscono un servizio transfrontaliero nel contesto di un accord
 <sup>2</sup> Per l’ammissione sono applicabili le disposizioni della LStrI e dell’OASA[^15-2].[^15-3]
 
 [^15-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2011, in vigore dal 1° mag. 2011 ([RU 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^15-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^15-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^15-3]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 
 ## Sezione 6: Dimora senza attività lucrativa
@@ -276,7 +280,7 @@ Le persone che forniscono un servizio transfrontaliero nel contesto di un accord
 <sup>2</sup> I mezzi finanziari a disposizione di un cittadino dell’UE o dell’AELS avente diritto a una rendita o dei suoi familiari sono considerati sufficienti se superano l’importo che autorizzerebbe un richiedente svizzero e se del caso i suoi familiari a percepire le prestazioni complementari giusta la legge federale del 19 marzo 1965[^16-2] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità.
 
 [^16-1]: Queste direttive possono essere ordinate presso la Conferenza svizzera delle istituzioni dell’azione sociale (CSIAS), Mühlenplatz 3, 3000 Berna 13.
-[^16-2]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535);[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II n. 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699);[1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)cifra IV. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Vedi ora la LF del 6 ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^16-2]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535);[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II n. 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699);[1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)cifra IV. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Vedi ora la LF del 6 ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
 
 #### Art. 17
 
@@ -389,7 +393,7 @@ Il controllo dei permessi dei cittadini dell’UE e dell’AELS da parte della S
 
 [^28-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^28-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
-[^28-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^28-3]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 29
 

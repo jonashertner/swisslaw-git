@@ -4,11 +4,11 @@ title: "Verordnung vom 22. Mai 2002 über den freien Personenverkehr zwischen de
 short: VFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2002-261-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2002-261-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20250101/de"
 
 (Verordnung über den freien Personenverkehr, VFP)[^t-1]
 
-vom 22. Mai 2002 (Stand am 1. Januar 2025)
+vom 22. Mai 2002 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. III 1 der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
@@ -27,13 +27,13 @@ gestützt auf das Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-3]: [AS 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
 [^ingress-4]: [AS 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
-[^ingress-5]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-6]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^ingress-7]: [SR 0.946.293.671.2](https://fedlex.data.admin.ch/eli/cc/2020/1073)
+[^ingress-5]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-6]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^ingress-7]: [SR 0.946.293.671.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4230)
 [^ingress-8]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## 1. Abschnitt: Gegenstand und Geltungsbereich
@@ -89,7 +89,7 @@ verordnet:
 <sup>5</sup> …[^3-6]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
-[^3-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^3-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^3-3]: Aufgehoben durch Ziff. I der V vom 27. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 [^3-4]: Eingefügt durch Ziff. I der V vom 25. April 2012 ([AS 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Aufgehoben durch Ziff. I der V vom 13. April 2016, mit Wirkung seit 1. Juni 2016 ([AS 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
 [^3-5]: Eingefügt durch Ziff. I der V vom 22. Mai 2013 ([AS 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Aufgehoben durch Ziff. I der V vom 30. April 2014, mit Wirkung seit 1. Juni 2014 ([AS 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
@@ -119,11 +119,15 @@ verordnet:
 
 <sup>4</sup> Staatsangehörige der EU sowie der EFTA, die innerhalb eines Kalenderjahres insgesamt nicht länger als drei Monate in der Schweiz erwerbstätig sind, benötigen keine Kurzaufenthaltsbewilligung EU/EFTA.[^4-5]
 
+<sup>5</sup> Bei Temporärarbeit im Sinne von Artikel 27 Absatz 2 der Arbeitsvermittlungsverordnung vom 16. Januar 1991[^4-6] für eine Dauer von mehr als drei Monaten und weniger als einem Jahr über einen Verleiher mit Sitz in der Schweiz erhalten EU- und EFTA-Angehörige eine Kurzaufenthaltsbewilligung EU/EFTA für die Dauer des Einsatzes beim Einsatzbetrieb mit Sitz in der Schweiz.[^4-7]
+
 [^4-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 30. April 2014, in Kraft seit 1. Juni 2014 ([AS 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 2. Mai 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 18. Febr. 2004 ([AS 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-6]: [SR 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
+[^4-7]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 (AS **202****5** 839).
 
 #### Art. 5
 
@@ -133,7 +137,7 @@ EU- und EFTA-Angehörige und ihre Familienangehörigen erhalten eine unbefristet
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^5-2]: Ausdruck gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4565](https://fedlex.data.admin.ch/eli/oc/2018/714)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^5-3]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-3]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 6
 
@@ -146,7 +150,7 @@ EU- und EFTA-Angehörige und ihre Familienangehörigen erhalten eine unbefristet
 <sup>3</sup> Die Ausstellung und die Vorweisung der Ausländerausweise richten sich nach den Artikeln 71–72 VZAE[^6-2].
 
 [^6-1]: Fassung gemäss Anhang Ziff. 1 der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^6-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^6-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 ## 3. Abschnitt: Einreise, Anmelde- und Bewilligungsverfahren
 
@@ -163,7 +167,7 @@ EU- und EFTA-Angehörige und ihre Familienangehörigen erhalten eine unbefristet
 Für Familienangehörige von Staatsangehörigen der EU oder der EFTA und Dienstleistungserbringerinnen und Dienstleistungserbringer nach Artikel 2 Absatz 3, die nicht die Staatsangehörigkeit eines Mitgliedstaates der EU oder der EFTA besitzen, gelten die Bestimmungen über die Visumpflicht der Artikel 8 und 9 der Verordnung vom 15. August 2018[^7-2] über die Einreise und die Visumerteilung. Das Visum wird erteilt, wenn die Voraussetzungen für die Erteilung einer Kurzaufenthalts- oder Aufenthaltsbewilligung EU/EFTA nach den Bestimmungen des Freizügigkeitsabkommens oder des EFTA-Übereinkommens erfüllt sind.
 
 [^7-1]: Fassung gemäss Art. 69 Abs. 2 Ziff. 1 der V vom 15. Aug. 2018 über die Einreise und Visumerteilung, in Kraft seit 15. Sept. 2018 ([AS 2018 3087](https://fedlex.data.admin.ch/eli/oc/2018/493)).
-[^7-2]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^7-2]: [SR 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 8
 
@@ -189,14 +193,14 @@ Für Familienangehörige von Staatsangehörigen der EU oder der EFTA und Dienstl
 
 <sup>4</sup> Grenzgängerinnen und Grenzgänger, die sich während der Woche in der Schweiz aufhalten, haben sich bei der an ihrem Aufenthaltsort zuständigen Behörde anzumelden. Absatz 1 gilt sinngemäss.
 
-[^9-1]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^9-1]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^9-2]: Fassung gemäss Ziff. I der V vom 13. März 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^9-3]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^9-4]: [SR 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
+[^9-3]: [SR 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
+[^9-4]: [SR 823.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9951)
 [^9-5]: Fassung des Satzes gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^9-6]: Eingefügt durch Ziff. I der V vom 13. März 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Fassung gemäss Anhang Ziff. 1 der V vom vom 16. April 2013, in Kraft seit 15. Mai 2013 ([AS 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
 [^9-7]: Eingefügt durch Ziff. I der V vom 13. März 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^9-8]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^9-8]: [SR 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^9-9]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem, in Kraft seit 29. Mai 2006 ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 [^9-10]: Fassung gemäss Anhang Ziff. 1 der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
@@ -259,7 +263,7 @@ Personen, die grenzüberschreitende Dienstleistungen im Rahmen eines Dienstleist
 <sup>2</sup> Für die Zulassung kommen die Bestimmungen des AIG und der VZAE[^15-2] zur Anwendung.[^15-3]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 30. März 2011, in Kraft seit 1. Mai 2011 ([AS 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^15-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^15-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^15-3]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 
 ## 6. Abschnitt: Aufenthalt ohne Erwerbstätigkeit
@@ -275,7 +279,7 @@ Personen, die grenzüberschreitende Dienstleistungen im Rahmen eines Dienstleist
 <sup>2</sup> Die finanziellen Mittel sind für rentenberechtigte EU- und EFTA-Angehörige sowie ihre Familienangehörigen ausreichend, wenn sie den Betrag übersteigen, der einen schweizerischen Antragsteller oder eine schweizerische Antragstellerin und allenfalls seine oder ihre Familienangehörigen zum Bezug von Ergänzungsleistungen nach dem Bundesgesetz vom 19. März 1965[^16-2] über Ergänzungsleistungen zur Alters‑, Hinterlassenen- und Invalidenversicherung berechtigt.
 
 [^16-1]: Zu beziehen bei der Schweizerischen Konferenz für Sozialhilfe (SKOS), Mühlenplatz 3, 3000 Bern 13.
-[^16-2]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Siehe heute: das BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^16-2]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)Ziff. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Siehe heute: das BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
 
 #### Art. 17
 
@@ -387,7 +391,7 @@ Bewilligungen nach dieser Verordnung werden von den zuständigen kantonalen Beh�
 Die Kontrolle der Bewilligungen von EU- und EFTA-Angehörigen durch das Staatssekretariat für Migration (SEM)[^28-1] richtet sich nach Artikel 99 AIG sowie den Artikeln 83 und 85 VZAE[^28-2].[^28-3]
 
 [^28-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^28-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^28-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^28-3]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 
 #### Art. 29

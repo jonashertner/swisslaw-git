@@ -4,11 +4,11 @@ title: "Ordonnance du 22 mai 2002 sur la libre circulation des personnes entre l
 short: OLCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-261-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-261-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20250101/fr"
 
 (Ordonnance sur la libre circulation des personnes, OLCP)[^t-1]
 
-du 22 mai 2002 (État le 1<sup>er</sup> janvier 2025)
+du 22 mai 2002 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
@@ -27,13 +27,13 @@ vu la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration
 
 arrête:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-3]: [RO 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
 [^ingress-4]: [RO 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
-[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-6]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^ingress-7]: [RS 0.946.293.671.2](https://fedlex.data.admin.ch/eli/cc/2020/1073)
+[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^ingress-6]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^ingress-7]: [RS 0.946.293.671.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4230)
 [^ingress-8]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Section 1 Objet et champ d’application
@@ -89,7 +89,7 @@ arrête:
 <sup>5</sup> …[^3-6]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
-[^3-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^3-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^3-3]: Abrogé par le ch. I de l’O du 27 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 748](https://fedlex.data.admin.ch/eli/oc/2024/748)).
 [^3-4]: Introduit par le ch. I de l’O du 25 avr. 2012 ([RO 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Abrogé par le ch. I de l’O du 13 avr. 2016, avec effet au 1<sup>er</sup> juin 2016 ([RO 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
 [^3-5]: Introduit par le ch. I de l’O du 22 mai 2013 ([RO 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Abrogé par le ch. I de l’O du 30 avr. 2014, avec effet au 1<sup>er</sup> juin 2014 ([RO 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
@@ -113,17 +113,21 @@ arrête:
 
 <sup>2</sup> Sauf disposition contraire du droit fédéral, les autorisations de séjour de courte durée et de séjour UE/AELE sont valables sur tout le territoire suisse.[^4-2]
 
-<sup>3</sup> L’autorisation frontalière UE/AELE délivrée aux ressortissants de l’UE et de l’AELE est valable sur toute le territoire suisse.[^4-3]
+<sup>3</sup> L’autorisation frontalière UE/AELE délivrée aux ressortissants de l’UE et de l’AELE est valable sur tout le territoire suisse.[^4-3]
 
 <sup>3bis</sup> …[^4-4]
 
-<sup>4</sup> Les ressortissants de l’UE et de l’AELE qui exercent une activité lucrative en Suisse dont la durée ne dépasse pas trois mois au total par année civile n’ont pas besoin d’une autorisation de de séjour de courte durée UE/AELE.[^4-5]
+<sup>4</sup> Les ressortissants de l’UE et de l’AELE qui exercent une activité lucrative en Suisse dont la durée ne dépasse pas trois mois au total par année civile n’ont pas besoin d’une autorisation de séjour de courte durée UE/AELE.[^4-5]
+
+<sup>5</sup> En cas de travail temporaire au sens de l’art. 27, al. 2, de l’ordonnance du 16 janvier 1991 sur le service de l’emploi[^4-6] d’une durée supérieure à trois mois et inférieure à une année par l’intermédiaire d’un bailleur de services établi en Suisse, les ressortissants de l’UE et de l’AELE reçoivent une autorisation de séjour de courte durée UE/AELE pour la durée de la mission dans l’entreprise locataire de services établie en Suisse.[^4-7]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2014, en vigueur depuis le 1<sup>er</sup> juin 2014 ([RO 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 839](https://fedlex.data.admin.ch/eli/oc/2025/839)).
 [^4-4]: Introduit par le ch. I de l’O du 2 mai 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
-[^4-5]: Introduit par le ch. I de l’O du 18 fév. 2004 ([RO 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-5]: Introduit par le ch. I de l’O du 18 fév. 2004 ([RO 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 839](https://fedlex.data.admin.ch/eli/oc/2025/839)).
+[^4-6]: [RS 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
+[^4-7]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 839](https://fedlex.data.admin.ch/eli/oc/2025/839)).
 
 #### Art. 5
 
@@ -133,7 +137,7 @@ Les ressortissants de l’UE et de l’AELE ainsi que les membres de leur famill
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^5-2]: Nouvelle expression selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4565](https://fedlex.data.admin.ch/eli/oc/2018/714)). Il a été tenu compte de cette mod. dans tout le texte.
-[^5-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-3]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 6
 
@@ -146,7 +150,7 @@ Les ressortissants de l’UE et de l’AELE ainsi que les membres de leur famill
 <sup>3</sup> L’établissement et la présentation des titres pour étrangers sont régis par les art. 71 à 72 OASA[^6-2].
 
 [^6-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^6-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^6-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 ## Section 3 Entrée, procédures de déclaration et d’autorisation
 
@@ -159,7 +163,7 @@ Les ressortissants de l’UE et de l’AELE ainsi que les membres de leur famill
 Les membres de la famille d’un ressortissant de l’UE ou de l’AELE et les prestataires de services selon l’art. 2, al. 3, qui ne sont pas ressortissants d’un État membre de l’UE ou de l’AELE, sont soumis aux dispositions relatives à l’obligation du visa prévues aux art. 8 et 9 de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^7-2]. Le visa leur est octroyé si les conditions requises pour l’octroi d’une autorisation de séjour de courte durée ou de séjour UE/AELE selon l’accord sur la libre circulation des personnes ou selon la Convention instituant l’AELE sont remplies.
 
 [^7-1]: Nouvelle teneur selon l’art. 69 al. 2 ch. 1 de l’O du 15 août 2018 sur l’entrée et l’octroi de visas, en vigueur depuis le 15 sept. 2018 ([RO 2018 3087](https://fedlex.data.admin.ch/eli/oc/2018/493)).
-[^7-2]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^7-2]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 8
 
@@ -189,13 +193,13 @@ Les membres de la famille d’un ressortissant de l’UE ou de l’AELE et les p
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 13 mars 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^9-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^9-3]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^9-4]: Nouvelle teneur selon le ch. I de l’O du 13 mars 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^9-5]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^9-6]: [RS 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
+[^9-5]: [RS 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
+[^9-6]: [RS 823.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9951)
 [^9-7]: Introduit par le ch. I de l’O du 13 mars 2009 ([RO 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 16 avr. 2013, en vigueur depuis le 15 mai 2013 ([RO 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
 [^9-8]: Introduit par le ch. I de l’O du 13 mars 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^9-9]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^9-9]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^9-10]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 12 avr. 2006 sur le système d’information central sur la migration, en vigueur depuis le 29 mai 2006 ([RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 [^9-11]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
@@ -215,7 +219,7 @@ Les membres de la famille d’un ressortissant de l’UE ou de l’AELE et les p
 
 **Exceptions aux nombres maximums[^12-2]**[^12-1]
 
-<sup>1</sup> à <sup>3</sup> …[^12-3]
+<sup>1 à <sup>3</sup></sup> …[^12-3]
 
 <sup>4</sup> Les citoyens liechtensteinois ne sont pas imputés sur les nombres maximums.
 
@@ -259,7 +263,7 @@ Les personnes qui fournissent des services transfrontaliers dans le cadre d’un
 <sup>2</sup> L’admission est régie par les dispositions de la LEI et de l’OASA[^15-2].[^15-3]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2011, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^15-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^15-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 [^15-3]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 
 ## Section 6 Séjour sans exercice d’une activité lucrative
@@ -275,7 +279,7 @@ Les personnes qui fournissent des services transfrontaliers dans le cadre d’un
 <sup>2</sup> Les moyens financiers d’un ayant droit à une rente, ressortissant de l’UE ou de l’AELE ainsi que les membres de sa famille, sont réputés suffisants s’ils dépassent le montant donnant droit à un ressortissant suisse qui en fait la demande, éventuellement aux membres de sa famille, à des prestations complémentaires au sens de la loi fédérale du 19 mars 1965 sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité[^16-2].
 
 [^16-1]: Disponibles auprès de la Conférence suisse des institutions d’action sociale (CSIAS), Mühlenplatz 3, 3000 Berne 13.
-[^16-2]: [[RO 1965 541](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)ch. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)ch. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)annexe ch. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 5 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)annexe ch. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)annexe ch. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)ch. IV. [RO 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Voir actuellement la loi du 6 oct. 2006 sur les prestations complémentaires ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^16-2]: [[RO 1965 541](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)ch. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)ch. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)annexe ch. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 5 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)annexe ch. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)annexe ch. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)ch. IV. [RO 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Voir actuellement la loi du 6 oct. 2006 sur les prestations complémentaires ([RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
 
 #### Art. 17
 
@@ -388,7 +392,7 @@ Le contrôle par le Secrétariat d’État aux migrations (SEM)[^28-2] des autor
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^28-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16, al. 3, de l’O du 17 nov. 2014 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^28-3]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^28-3]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 #### Art. 29
 
