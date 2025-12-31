@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les contributions à des cultures part
 short: OCCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: fr
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/fr"
 
 (Ordonnance sur les contributions à des cultures particulières, OCCP)[^t-1]
 
-du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2023)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -27,7 +27,7 @@ vu les art. 54, al. 2, 55, al. 2, 170, al. 3, et 177, al. 1, de la loi du 29 avr
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 ## Section 1 Contributions à des cultures particulières
@@ -70,8 +70,8 @@ Aucune contribution n’est versée pour:
 - e.[^1-6] les bandes culturales extensives visées à l’art. 55, al. 1, let. j, OPD.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^1-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^1-4]: Introduit par le ch. I de l’O du 2 fév. 2022 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^1-5]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 [^1-6]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
@@ -85,17 +85,19 @@ La contribution à des cultures particulières, par hectare et par an, s’élè
 <table>
 <tr><td></td><td>Francs</td></tr>
 <tr><td>a. pour le colza, le tournesol, les courges à huile, le lin oléagineux, le pavot et le carthame des teinturiers:</td><td>700</td></tr>
-<tr><td>b. pour les plants de pommes de terre et les semences de maïs:</td><td>700</td></tr>
-<tr><td>c. pour les semences de graminées fourragères et de légumineuses fourragères:</td><td>1000</td></tr>
+<tr><td>b.[^2-1] pour les plants de pommes de terre:</td><td>2500</td></tr>
+<tr><td>c.[^2-2] pour les semences de graminées fourragères, de légumineuses fourragères et de maïs:</td><td>1500</td></tr>
 <tr><td>d. pour le soja:</td><td>1000</td></tr>
-<tr><td>e*.*[^2-1] pour les haricots (*Phaseolus*), les pois (*Pisum*), les lupins (*Lupinus*), les vesces (*Vicia*), les pois chiches (*Cicer*) et les lentilles (*Lens*) ainsi que pour les mélanges visés à l’art. 6*b*, al. 2:</td><td>1000</td></tr>
-<tr><td>f.[^2-2] pour les betteraves sucrières destinées à la fabrication de sucre</td><td>2100</td></tr>
-<tr><td>g.[^2-3] contribution supplémentaire pour les betteraves sucrières destinées à la fabrication de sucre</td><td>200</td></tr>
+<tr><td>e*.*[^2-3] pour les haricots (*Phaseolus*), les pois (*Pisum*), les lupins (*Lupinus*), les vesces (*Vicia*), les pois chiches (*Cicer*) et les lentilles (*Lens*) ainsi que pour les mélanges visés à l’art. 6*b*, al. 2:</td><td>1000</td></tr>
+<tr><td>f.[^2-4] pour les betteraves sucrières destinées à la fabrication de sucre</td><td>2100</td></tr>
+<tr><td>g.[^2-5] contribution supplémentaire pour les betteraves sucrières destinées à la fabrication de sucre</td><td>200</td></tr>
 </table>
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^2-3]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-5]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 
@@ -105,7 +107,7 @@ La contribution à des cultures particulières, par hectare et par an, s’élè
 
 <sup>2</sup> Les paiements directs de l’UE octroyés pour l’année précédente sont déterminants pour le calcul des déductions.
 
-[^3-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^3-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ## Section 2 Supplément pour les céréales
 
@@ -131,8 +133,8 @@ Aucun supplément n’est versé pour:
 - d. les mélanges de céréales visés à l’art. 6*b*, al. 2;
 - e. les bandes culturales extensives visées à l’art. 55, al. 1, let. J, OPD[^4-2].
 
-[^4-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^4-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^4-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^4-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 5
 
@@ -178,23 +180,24 @@ Les contributions à des cultures particulières et le supplément pour les cér
 <sup>2</sup> La charge de travail visée à l’al. 1, let. c, est calculée d’après le «budget de travail ART 2009» établi par Agroscope, version 2013[^6a-4].
 
 [^6a-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^6a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6a-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^6a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^6a-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^6a-4]: Le logiciel relatif au budget de travail ART est disponible à l’adresse: [www.arbeitsvoranschlag.ch.](http://www.arbeitsvoranschlag.ch.)
 
 #### Art. 6b
 
 **Conditions spéciales pour les contributions à des cultures particulières**[^6b-1]
 
-<sup>1</sup> L’octroi de la contribution pour les plants de pommes de terre, les semences de maïs, les semences de graminées fourragères et les semences de légumineuses fourragères est lié à la condition qu’une surface déterminée soit convenue par écrit entre l’exploitant et l’organisation reconnue de multiplication de semences. La surface doit satisfaire aux exigences mentionnées à l’art. 23, al. 1, de l’ordonnance du DEFR du 7 décembre 1998 sur les semences et plants[^6b-2].
+<sup>1</sup> L’octroi de la contribution pour les plants de pommes de terre, les semences de maïs, les semences de graminées fourragères et les semences de légumineuses fourragères est lié à la condition qu’une surface déterminée soit convenue par écrit entre l’exploitant et l’organisation reconnue de multiplication de semences. La surface doit satisfaire aux exigences à l’art. 23, al. 1, de l’ordonnance du DEFR du 7 décembre 1998 sur le matériel de multiplication des grandes cultures et cultures fourragères[^6b-2].[^6b-3]
 
-<sup>2</sup> L’octroi de la contribution pour les mélanges de haricots (*Phaseolus*), de pois (*Pisum*), de lupins (*Lupinus*), de vesces (*Vicia*), de pois chiches (*Cicer*) et de lentilles (*Lens*) avec des céréales ou de la caméline est lié à la condition que la part en poids des cultures donnant droit aux contributions représente au moins 30 % du produit de la récolte.[^6b-3]
+<sup>2</sup> L’octroi de la contribution pour les mélanges de haricots (*Phaseolus*), de pois (*Pisum*), de lupins (*Lupinus*), de vesces (*Vicia*), de pois chiches (*Cicer*) et de lentilles (*Lens*) avec des céréales ou de la caméline est lié à la condition que la part en poids des cultures donnant droit aux contributions représente au moins 30 % du produit de la récolte.[^6b-4]
 
 <sup>3</sup> L’octroi de la contribution pour les betteraves est lié à la condition qu’une quantité déterminée à livrer soit convenue par écrit dans un contrat entre la sucrerie, d’une part, et l’exploitant ou les membres d’une communauté d’exploitation ou d’un groupement de producteurs, d’autre part.
 
 [^6b-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^6b-2]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
-[^6b-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^6b-2]: [RS 916.151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10636)
+[^6b-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
+[^6b-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 
 ## Section 3 Procédure
 
@@ -227,11 +230,11 @@ Le canton décide:
 - b.[^7-5] si les demandes qui sont déposées électroniquement peuvent être munies d’une signature électronique qualifiée au sens de l’art. 2, let. e, de la loi du 18 mars 2016 sur la signature électronique[^7-6].
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^7-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^7-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^7-4]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^7-4]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^7-5]: Nouvelle teneur selon l’annexe ch. II 10 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^7-6]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^7-6]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 8
 
@@ -339,7 +342,7 @@ Il requiert le montant total à l’OFAG:
 
 <sup>3</sup> Les contrôles sont en partie effectués sans préavis.
 
-[^14-1]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^14-1]: [RS 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 [^14-2]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 31 oct. 2018 sur la coordination des contrôles dans les exploitations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
 
 #### Art. 15
@@ -356,7 +359,7 @@ Le canton peut déléguer les tâches à effectuer visées à l’art. 14. Il r�
 
 <sup>1</sup> Si le service de contrôle constate que les indications concernant la surface sont inexactes, que l’état des cultures n’est pas satisfaisant ou que le mode d’exploitation ou d’utilisation indiqué n’est pas respecté, ou si les acquéreurs lui signalent de tels faits, il en informe immédiatement l’exploitant.
 
-<sup>2</sup> et <sup>3</sup> …[^16-1]
+<sup>2 et <sup>3</sup></sup> …[^16-1]
 
 [^16-1]: Abrogés par le ch. I de l’O du 18 oct. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
 
@@ -378,9 +381,10 @@ Le canton peut déléguer les tâches à effectuer visées à l’art. 14. Il r�
 
 <sup>1</sup> Les cantons réduisent ou refusent les contributions ou le supplément conformément à l’annexe.
 
-<sup>2</sup> Ils établissent un rapport annuel relatif aux décisions de réduction ou de refus des contributions ou du supplément qu’ils ont prises. L’enregistrement complet dans le système d’information pour les données de contrôles visé à l’art. 165*d* de la loi du 29 avril 1998 sur l’agriculture tient lieu de rapport.
+<sup>2</sup> …[^18-2]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^18-2]: Abrogé par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
 
 #### Art. 19
 
@@ -512,5 +516,5 @@ Annexe[^t-2]
 <tr><td>b. Les surfaces ne sont pas exploitées à des fins agricoles (art. 16 OTerm)</td><td>La surface n’est pas exploitée, est fortement envahie par les mauvaises herbes ou laissée en friche</td><td>Exclusion de la surface de la SAU, pas de contributions ni supplément pour cette surface</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl2-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^annexu1-lvlu1-lvl2-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^annexu1-lvlu1-lvl2-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^annexu1-lvlu1-lvl2-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)

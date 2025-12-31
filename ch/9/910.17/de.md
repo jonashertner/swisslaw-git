@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über Einzelkulturbeiträge im Pflanzenb
 short: EKBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: de
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-873-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2013-873-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/de"
 
 (Einzelkulturbeitragsverordnung, EKBV)[^t-1]
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2023)
+vom 23. Oktober 2013 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 54 Absatz 2, 55 Absatz 2, 170 Absatz 3 und 177 Absatz 
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 ## 1. Abschnitt: Einzelkulturbeiträge
@@ -70,8 +70,8 @@ Keine Beiträge werden ausgerichtet für:
 - e.[^1-6] Ackerschonstreifen nach Artikel 55 Absatz 1 Buchstabe j DZV.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^1-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^1-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-2]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^1-3]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^1-4]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Fassung gemäss Anhang Ziff. 2 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^1-5]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 [^1-6]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
@@ -85,17 +85,19 @@ Der Einzelkulturbeitrag beträgt pro Hektare und Jahr für:
 <table>
 <tr><td></td><td>Franken</td></tr>
 <tr><td>a. Raps, Sonnenblumen, Ölkürbisse, Öllein, Mohn und Saflor</td><td>700</td></tr>
-<tr><td>b. Saatgut von Kartoffeln und Mais</td><td>700</td></tr>
-<tr><td>c. Saatgut von Futtergräsern und Futterleguminosen</td><td>1000</td></tr>
+<tr><td>b.[^2-1] Saatgut von Kartoffeln</td><td>2500</td></tr>
+<tr><td>c.[^2-2] Saatgut von Futtergräsern, Futterleguminosen und Mais</td><td>1500</td></tr>
 <tr><td>d. Soja</td><td>1000</td></tr>
-<tr><td>e.[^2-1] Bohnen (*Phaseolus*), Erbsen (*Pisum*), Lupinen (*Lupinus*), Wicken (*Vicia*), Kichererbsen (*Cicer*) und Linsen (*Lens*) sowie Mischungen nach Artikel 6*b* Absatz 2</td><td>1000</td></tr>
-<tr><td>f.[^2-2] Zuckerrüben zur Zuckerherstellung</td><td>2100</td></tr>
-<tr><td>g.[^2-3] Zusatzbeitrag für Zuckerrüben zur Zuckerherstellung</td><td>200</td></tr>
+<tr><td>e.[^2-3] Bohnen (*Phaseolus*), Erbsen (*Pisum*), Lupinen (*Lupinus*), Wicken (*Vicia*), Kichererbsen (*Cicer*) und Linsen (*Lens*) sowie Mischungen nach Artikel 6*b* Absatz 2</td><td>1000</td></tr>
+<tr><td>f.[^2-4] Zuckerrüben zur Zuckerherstellung</td><td>2100</td></tr>
+<tr><td>g.[^2-5] Zusatzbeitrag für Zuckerrüben zur Zuckerherstellung</td><td>200</td></tr>
 </table>
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^2-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^2-3]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2026 ([AS 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2026 ([AS 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^2-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-5]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 
@@ -105,7 +107,7 @@ Der Einzelkulturbeitrag beträgt pro Hektare und Jahr für:
 
 <sup>2</sup> Für die Berechnung der Abzüge sind die Direktzahlungen der EU massgebend, die für das Vorjahr ausgerichtet wurden.
 
-[^3-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^3-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ## 2. Abschnitt: Getreidezulage
 
@@ -131,8 +133,8 @@ Keine Zulage wird ausgerichtet für:
 - d. Getreide in Mischungen nach Artikel 6*b* Absatz 2;
 - e. Ackerschonstreifen nach Artikel 55 Absatz 1 Buchstabe j DZV[^4-2].
 
-[^4-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^4-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^4-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^4-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 5
 
@@ -178,23 +180,24 @@ Einzelkulturbeiträge und die Getreidezulage werden ausgerichtet, wenn:
 <sup>2</sup> Der Arbeitsaufwand nach Absatz 1 Buchstabe c berechnet sich nach dem «ART-Arbeitsvoranschlag 2009» von Agroscope, Version 2013[^6a-4].
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^6a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6a-3]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^6a-4]: Die Software für die landwirtschaftliche Betriebsplanung «ART-Arbeitsvoranschlag» ist abrufbar unter www.arbeitsvoranschlag.ch.
+[^6a-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^6a-3]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^6a-4]: Die Software für die landwirtschaftliche Betriebsplanung «ART-Arbeitsvoranschlag» ist abrufbar unter: [www.arbeitsvoranschlag.ch](http://www.arbeitsvoranschlag.ch).
 
 #### Art. 6b
 
 **Besondere Voraussetzungen für Einzelkulturbeiträge**[^6b-1]
 
-<sup>1</sup> Voraussetzung für die Gewährung des Beitrags für Saatgut von Kartoffeln, Mais, Futtergräsern und Futterleguminosen ist die schriftliche Festlegung einer bestimmten Fläche zwischen dem Bewirtschafter oder der Bewirtschafterin und einer zugelassenen Saatgutvermehrungsorganisation. Die Fläche muss die gestützt auf Artikel 23 Absatz 1 der Saat- und Pflanzgut-Verordnung des WBF vom 7. Dezember 1998[^6b-2] festgelegten Anforderungen erfüllen.
+<sup>1</sup> Voraussetzung für die Gewährung des Beitrags für Saatgut von Kartoffeln, Mais, Futtergräsern und Futterleguminosen ist die schriftliche Festlegung einer bestimmten Fläche zwischen dem Bewirtschafter oder der Bewirtschafterin und einer zugelassenen Saatgutvermehrungsorganisation. Die Fläche muss die gestützt auf Artikel 23 Absatz 1 der WBF-Vermehrungsmaterialverordnung Acker- und Futterpflanzen vom 7. Dezember 1998[^6b-2] festgelegten Anforderungen erfüllen.[^6b-3]
 
-<sup>2</sup> Voraussetzung für die Gewährung des Beitrags für Mischungen von Bohnen (*Phaseolus*), Erbsen (*Pisum*), Lupinen (*Lupinus*), Wicken (*Vicia*), Kichererbsen (*Cicer*) und Linsen (*Lens*) mit Getreide oder Leindotter ist ein Gewichtsanteil der zu Beiträgen berechtigenden Kulturen von mindestens 30 Prozent im Erntegut.[^6b-3]
+<sup>2</sup> Voraussetzung für die Gewährung des Beitrags für Mischungen von Bohnen (*Phaseolus*), Erbsen (*Pisum*), Lupinen (*Lupinus*), Wicken (*Vicia*), Kichererbsen (*Cicer*) und Linsen (*Lens*) mit Getreide oder Leindotter ist ein Gewichtsanteil der zu Beiträgen berechtigenden Kulturen von mindestens 30 Prozent im Erntegut.[^6b-4]
 
 <sup>3</sup> Voraussetzung für die Gewährung des Beitrags für Zuckerrüben ist die Festlegung einer bestimmten Liefermenge in einem schriftlichen Vertrag zwischen der Zuckerfabrik einerseits und dem Bewirtschafter oder der Bewirtschafterin oder den Mitgliedern einer Betriebszweiggemeinschaft oder einer Produzentengemeinschaft andererseits.
 
 [^6b-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^6b-2]: [SR 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
-[^6b-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^6b-2]: [SR 916.151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10636)
+[^6b-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
+[^6b-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 
 ## 3. Abschnitt: Verfahren
 
@@ -227,11 +230,11 @@ Der Kanton bestimmt:
 - b.[^7-5] ob Gesuche, die elektronisch eingereicht werden, mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe e des Bundesgesetzes vom 18. März 2016[^7-6] über die elektronische Signatur versehen werden können.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^7-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^7-2]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^7-3]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^7-4]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^7-4]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^7-5]: Fassung gemäss Anhang Ziff. II 10 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^7-6]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^7-6]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 8
 
@@ -339,7 +342,7 @@ Er fordert den entsprechenden Gesamtbetrag beim BLW an:
 
 <sup>3</sup> Die Kontrollen werden teilweise ohne Voranmeldung durchgeführt.
 
-[^14-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^14-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 [^14-2]: Fassung gemäss Anhang 2 Ziff. 3 der V vom 31. Okt. 2018 über die Koordination der Kontrollen auf Landwirtschaftsbetrieben, in Kraft seit 1. Jan. 2020 ([AS 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
 
 #### Art. 15
@@ -356,7 +359,7 @@ Der Kanton kann die nach Artikel 14 erforderlichen Arbeiten delegieren. Er regel
 
 <sup>1</sup> Stellt die Kontrollstelle bei der Kontrolle falsche Flächenangaben, einen unbefriedigenden Stand der Kulturen oder das Nichteinhalten der gemeldeten Bewirtschaftungs- oder Verwendungsart fest oder werden ihr entsprechende Tatbestände von den Abnehmern gemeldet, so gibt sie dem Bewirtschafter oder der Bewirtschafterin unverzüglich davon Kenntnis.
 
-<sup>2</sup> und <sup>3</sup> …[^16-1]
+<sup>2 und <sup>3</sup></sup> …[^16-1]
 
 [^16-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
 
@@ -378,9 +381,10 @@ Der Kanton kann die nach Artikel 14 erforderlichen Arbeiten delegieren. Er regel
 
 <sup>1</sup> Die Kantone kürzen oder verweigern die Beiträge oder die Zulage gemäss Anhang.
 
-<sup>2</sup> Sie erstellen jährlich einen Bericht über die von ihnen verfügten Kürzungen und Verweigerungen von Beiträgen oder Zulagen. Die vollständige Erfassung im zentralen Informationssystem für Kontrolldaten nach Artikel 165*d* des Landwirtschaftsgesetzes vom 29. April 1998 gilt als Bericht.
+<sup>2</sup> …[^18-2]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^18-2]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
 
 #### Art. 19
 
@@ -512,5 +516,5 @@ Anhang[^t-2]
 <tr><td>b. Flächen sind nicht sachgerecht bewirtschaftet (Art. 16 LBV)</td><td>Fläche ist nicht bewirtschaftet, stark verunkrautet oder vergandet</td><td>Ausschluss der Fläche aus der LN, keine Beiträge oder keine Zulage auf dieser Fläche</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl2-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^annexu1-lvlu1-lvl2-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^annexu1-lvlu1-lvl2-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^annexu1-lvlu1-lvl2-2]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)

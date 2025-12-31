@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i contributi per singole coltu
 short: OCSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: it
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/it"
 
 (Ordinanza sui contributi per singole colture, OCSC)[^t-1]
 
-del 23 ottobre 2013 (Stato 1° gennaio 2023)
+del 23 ottobre 2013 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 Il Consiglio federale svizzero,
 
@@ -27,14 +27,14 @@ visti gli articoli 54 capoverso 2, 55 capoverso 2, 170 capoverso 3 e 177 capover
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 ## Sezione 1: Contributi per singole colture
 
 [^sec1-1]
 
-[^sec1-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^sec1-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 1
 
@@ -69,12 +69,12 @@ Non sono versati contributi per:
 - d. superfici con zucche per l’estrazione di olio che non sono trebbiate sul campo;
 - e.[^1-6] fasce di colture estensive in campicoltura secondo l’articolo 55 capoverso 1 lettera j OPD.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^1-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^1-4]: Introdotto dal n. I dell’O del 2 feb. 2022 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Nuovo testo giusta l’all. n. 2 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^1-5]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^1-6]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^1-4]: Introdotto dalla cifra I dell’O del 2 feb. 2022 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Nuovo testo giusta l’all. n. 2 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^1-5]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-6]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 2
 
@@ -85,17 +85,19 @@ Per ettaro e anno il contributo per singole colture ammonta a:
 <table>
 <tr><th></th><th>franchi</th></tr>
 <tr><td>a. colza, girasoli, zucche per l’estrazione di olio, lino per l’estrazione di olio, papavero e cartamo</td><td>700</td></tr>
-<tr><td>b. sementi di patate e mais</td><td>700</td></tr>
-<tr><td>c. sementi di graminacee da foraggio e leguminose da foraggio</td><td>1000</td></tr>
+<tr><td>b.[^2-1] sementi di patate</td><td>2500</td></tr>
+<tr><td>c.[^2-2] sementi di graminacee da foraggio, leguminose da foraggio e mais</td><td>1500</td></tr>
 <tr><td>d. soia</td><td>1000</td></tr>
-<tr><td>e*.*[^2-1] fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*), nonché miscele ai sensi dell’articolo 6*b* capoverso 2</td><td>1000</td></tr>
-<tr><td>f.[^2-2] barbabietole da zucchero per la produzione di zucchero</td><td>2100</td></tr>
-<tr><td>g.[^2-3] contributo supplementare per le barbabietole da zucchero per la produzione di zucchero</td><td>200</td></tr>
+<tr><td>e*.*[^2-3] fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*), nonché miscele ai sensi dell’articolo 6*b* capoverso 2</td><td>1000</td></tr>
+<tr><td>f.[^2-4] barbabietole da zucchero per la produzione di zucchero</td><td>2100</td></tr>
+<tr><td>g.[^2-5] contributo supplementare per le barbabietole da zucchero per la produzione di zucchero</td><td>200</td></tr>
 </table>
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^2-3]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2026 ([RU 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2026 ([RU 2026 98](https://fedlex.data.admin.ch/eli/oc/2026/98)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-5]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 
@@ -105,13 +107,13 @@ Per ettaro e anno il contributo per singole colture ammonta a:
 
 <sup>2</sup> Ai fini del calcolo delle deduzioni sono determinanti i pagamenti diretti dell’UE versati per l’anno precedente.
 
-[^3-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^3-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ## Sezione 2: Supplemento per i cereali
 
 [^sec2-1]
 
-[^sec2-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^sec2-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 4
 
@@ -131,8 +133,8 @@ Non è versato alcun supplemento per:
 - d. cereali in miscele ai sensi dell’articolo 6*b* capoverso 2;
 - e. fasce di colture estensive in campicoltura ai sensi dell’articolo 55 capoverso 1 lettera j OPD[^4-2].
 
-[^4-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^4-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^4-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^4-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 5
 
@@ -144,7 +146,7 @@ Il supplemento per i cereali per ettaro e anno è calcolato in base ai fondi app
 
 [^sec2a-1]
 
-[^sec2a-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^sec2a-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 6
 
@@ -161,7 +163,7 @@ Il gestore di un’azienda ha diritto ai contributi o al supplemento, se:
 
 <sup>3</sup> Nel caso di società di persone, hanno diritto ai contributi o al supplemento soltanto le persone che prima del 1° gennaio dell’anno di contribuzione non hanno ancora compiuto 65 anni. I contributi e il supplemento sono versati proporzionalmente alle persone aventi diritto ai contributi.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 6a
 
@@ -177,24 +179,25 @@ I contributi per singole colture e il supplemento per i cereali sono versati se:
 
 <sup>2</sup> Il carico di lavoro di cui al capoverso 1 lettera c è calcolato in base al «Preventivo di lavoro ART 2009» di Agroscope, versione 2013[^6a-4].
 
-[^6a-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^6a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6a-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^6a-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^6a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^6a-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^6a-4]: Il software per la pianificazione aziendale agricola «Preventivo di lavoro ART» è disponibile sul sito Internet www.arbeitsvoranschlag.ch.
 
 #### Art. 6b
 
 **Condizioni particolari per i contributi per singole colture**[^6b-1]
 
-<sup>1</sup> Il contributo per sementi di patate, mais, graminacee da foraggio e leguminose da foraggio è concesso soltanto se il gestore ha stabilito per scritto una determinata superficie con un’organizzazione di moltiplicazione delle sementi autorizzata. La superficie deve soddisfare le esigenze stabilite in virtù dell’articolo 23 capoverso 1 dell’ordinanza del DEFR del 7 dicembre 1998[^6b-2] sulle sementi e i tuberi-seme.
+<sup>1</sup> Il contributo per sementi di patate, mais, graminacee da foraggio e leguminose da foraggio è concesso soltanto se il gestore ha stabilito per scritto una determinata superficie con un’organizzazione di moltiplicazione delle sementi autorizzata. La superficie deve soddisfare le esigenze stabilite in virtù dell’articolo 23 capoverso 1 dell’ordinanza del DEFR del 7 dicembre 1998[^6b-2] sul materiale di moltiplicazione di piante campicole e foraggere.[^6b-3]
 
-<sup>2</sup> Il contributo per miscele di fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*) con cereali o dorella è concesso soltanto se la proporzione in peso delle colture che danno diritto a contributi nel raccolto è di almeno il 30 per cento.[^6b-3]
+<sup>2</sup> Il contributo per miscele di fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*) con cereali o dorella è concesso soltanto se la proporzione in peso delle colture che danno diritto a contributi nel raccolto è di almeno il 30 per cento.[^6b-4]
 
 <sup>3</sup> Il contributo per le barbabietole da zucchero è concesso soltanto se in un contratto scritto tra lo zuccherificio da un lato e il gestore oppure i membri di una comunità aziendale settoriale o di una comunità di produttori dall’altro è stato stabilito un determinato quantitativo da fornire.
 
-[^6b-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^6b-2]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
-[^6b-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^6b-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^6b-2]: [RS 916.151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10636)
+[^6b-3]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
+[^6b-4]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 
 ## Sezione 3: Procedura
 
@@ -226,12 +229,12 @@ Il Cantone stabilisce:
 - a. se la domanda deve essere inoltrata in forma cartacea o elettronicamente;
 - b.[^7-5] se le domande presentate elettronicamente possono essere munite di firma elettronica qualificata secondo l’articolo 2 lettera e della legge del 18 marzo 2016[^7-6] sulla firma elettronica.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^7-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^7-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
-[^7-4]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^7-5]: Nuovo testo giusta l’all n. II 10 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^7-6]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^7-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^7-4]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^7-5]: Nuovo testo giusta l’all cifra II n. 10 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^7-6]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 8
 
@@ -241,8 +244,8 @@ Il Cantone stabilisce:
 
 <sup>2</sup> Il Cantone può fissare un termine di domanda entro il termine di cui al capoverso 1.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 9
 
@@ -261,9 +264,9 @@ Se il gestore non può adempiere le esigenze relative ai contributi per singole 
 - a. il giorno prima della ricezione di un preavviso di controllo;
 - b. il giorno prima del controllo se questo è eseguito senza preavviso.[^9-3]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
-[^9-2]: Introdotto dal n. I dell’O del 29 ott. 2014 ([RU 2014 3963](https://fedlex.data.admin.ch/eli/oc/2014/670)). Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
-[^9-3]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)). Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
+[^9-2]: Introdotto dalla cifra I dell’O del 29 ott. 2014 ([RU 2014 3963](https://fedlex.data.admin.ch/eli/oc/2014/670)). Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
+[^9-3]: Introdotto dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)). Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 10
 
@@ -273,7 +276,7 @@ Se il gestore non può adempiere le esigenze relative ai contributi per singole 
 
 <sup>2</sup> Il Cantone registra i dati concernenti l’azienda, il gestore, le superfici e le colture tra il 15 gennaio e il 28 febbraio. I Cantoni registrano le variazioni entro il 1° maggio.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 11
 
@@ -288,7 +291,7 @@ Il Cantone versa i contributi e i supplementi nella maniera seguente:
 
 <sup>2</sup> I contributi e i supplementi che non possono essere attribuiti decadono dopo cinque anni. Il Cantone deve restituirli all’Ufficio federale dell’agricoltura (UFAG).
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 12
 
@@ -316,7 +319,7 @@ Richiede il rispettivo importo totale all’UFAG:
 
 <sup>6</sup> L’UFAG controlla le distinte di pagamento del Cantone e gli versa l’importo totale.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 13
 
@@ -338,7 +341,7 @@ Richiede il rispettivo importo totale all’UFAG:
 
 <sup>3</sup> I controlli sono in parte eseguiti senza preavviso.
 
-[^14-1]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^14-1]: [RS 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 [^14-2]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 31 ott. 2018 sul coordinamento dei controlli delle aziende agricole, in vigore dal 1° gen. 2020 ([RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
 
 #### Art. 15
@@ -347,7 +350,7 @@ Richiede il rispettivo importo totale all’UFAG:
 
 Il Cantone può delegare i lavori necessari giusta l’articolo 14. Disciplina l’indennizzo dei lavori delegati e vigila sull’attività di controllo eseguendo verifiche per campionatura.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
 
 #### Art. 16
 
@@ -355,9 +358,9 @@ Il Cantone può delegare i lavori necessari giusta l’articolo 14. Disciplina l
 
 <sup>1</sup> Se durante il controllo constata indicazioni non veritiere relative alle superfici, uno stato insoddisfacente delle colture oppure l’inosservanza del tipo di gestione o di utilizzazione notificato, o se gli acquirenti gli segnalano tali fattispecie, il servizio di controllo lo comunica senza indugio al gestore.
 
-<sup>2</sup> e <sup>3</sup> ...[^16-1]
+<sup>2 e <sup>3</sup></sup> ...[^16-1]
 
-[^16-1]: Abrogati dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
+[^16-1]: Abrogati dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
 
 #### Art. 17
 
@@ -367,7 +370,7 @@ Il Cantone può delegare i lavori necessari giusta l’articolo 14. Disciplina l
 
 <sup>2</sup> Su indicazione dell’UFAG, il Cantone redige ogni anno un rapporto sulla sua attività di vigilanza giusta l’articolo 15.[^17-1]
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6079](https://fedlex.data.admin.ch/eli/oc/2017/666)).
 
 ## Sezione 5: Sanzioni amministrative
 
@@ -377,9 +380,10 @@ Il Cantone può delegare i lavori necessari giusta l’articolo 14. Disciplina l
 
 <sup>1</sup> I Cantoni riducono o negano i contributi o il supplemento conformemente all’allegato.
 
-<sup>2</sup> Redigono ogni anno un rapporto sulle riduzioni e sui dinieghi di contributi o di supplementi da loro decisi. La registrazione completa nel sistema d’informazione centrale per i dati sui controlli di cui all’articolo 165*d* della legge del 29 aprile 1998 sull’agricoltura è considerata un rapporto.
+<sup>2</sup> ...[^18-2]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^18-2]: Abrogato dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 715](https://fedlex.data.admin.ch/eli/oc/2025/715)).
 
 #### Art. 19
 
@@ -399,13 +403,13 @@ Sono considerati casi di forza maggiore, in particolare:
 
 <sup>4</sup> I Cantoni disciplinano la procedura.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3963](https://fedlex.data.admin.ch/eli/oc/2014/670)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3963](https://fedlex.data.admin.ch/eli/oc/2014/670)).
 
 #### Art. 20 a 24
 
 [^2024-1]
 
-[^2024-1]: Abrogati dal n. I dell’O del 29 ott. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3963](https://fedlex.data.admin.ch/eli/oc/2014/670)).
+[^2024-1]: Abrogati dalla cifra I dell’O del 29 ott. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3963](https://fedlex.data.admin.ch/eli/oc/2014/670)).
 
 ## Sezione 6: Disposizioni finali
 
@@ -423,7 +427,7 @@ Sono considerati casi di forza maggiore, in particolare:
 
 L’ordinanza del 7 dicembre 1998[^26-1] sui contributi nella campicoltura è abrogata.
 
-[^26-1]: [[RU 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)n. II 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)n. II 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 5]
+[^26-1]: [[RU 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)cifra II n. 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)cifra II n. 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 5]
 
 #### Art. 27
 
@@ -433,7 +437,7 @@ L’ordinanza del 7 dicembre 1998[^26-1] sui contributi nella campicoltura è ab
 
 <sup>2</sup> Per le società di persone che nel 2013 hanno ricevuto contributi secondo l’ordinanza del 7 dicembre 1998 sui contributi nella campicoltura, fino alla fine del 2015 è determinante l’età del gestore più giovane.
 
-[^27-1]: [[RU 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)n. II 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)n. II 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 5]
+[^27-1]: [[RU 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)cifra II n. 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)cifra II n. 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 5]
 
 #### Art. 28
 
@@ -447,7 +451,7 @@ Allegato[^t-2]
 
 ## Riduzione dei contributi per singole colture e del supplemento per i cereali
 
-[^t-2]: Introdotto dal n. II dell’O del 29 ott. 2014 ([RU 2014 3963](https://fedlex.data.admin.ch/eli/oc/2014/670)). Nuovo testo giusta il n. II dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^t-2]: Introdotto dalla cifra II dell’O del 29 ott. 2014 ([RU 2014 3963](https://fedlex.data.admin.ch/eli/oc/2014/670)). Nuovo testo giusta la cifra II dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 ### 1 Considerazioni generali
 
@@ -511,5 +515,5 @@ Allegato[^t-2]
 <tr><td>b. Superfici gestite in modo inadeguato (art. 16 OTerm)</td><td>La superficie non è gestita, è infestata da malerbe o è abbandonata</td><td>Esclusione della superficie dalla SAU, nessun contributo o nessun supplemento su tale superficie</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl2-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^annexu1-lvlu1-lvl2-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^annexu1-lvlu1-lvl2-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^annexu1-lvlu1-lvl2-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
