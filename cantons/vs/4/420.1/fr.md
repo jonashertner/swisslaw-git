@@ -1,343 +1,327 @@
 ---
 canton: VS
 number: "420.1"
-title: Loi sur la formation et la recherche universitaires
+title: Loi sur l’encouragement des hautes écoles et de la recherche
 short: LEHER
 language: fr
-version: 2001-07-01
-corrected: 2017-09-07
-version_adopted: 2001-02-02
+version: 2026-01-01
+version_adopted: 2024-05-15
 adopted: 2024-05-15
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/420.1"
-pdf: "https://lex.vs.ch/api/fr/versions/469/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3558/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur la formation et la recherche universitaires
+# Loi sur l’encouragement des hautes écoles et de la recherche
 
-du 2 février 2001
+(LEHER)
+
+du 15.05.2024 (état 01.01.2026)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 13, 15, 31 alinéa 1 et 42 alinéa 1 de la Constitution cantonale; sur la proposition du Conseil d'Etat,
+vu les articles 20, 61a et 64 de la Constitution fédérale;
 
-ordonne:
+vu les articles 13, 15, 31 alinéa 1 et 42 alinéa 1 de la Constitution cantonale;
 
-### Section 1: Généralités et champ d'application
+vu les articles 1 à 5 de la loi fédérale sur l’encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles du 30 septembre 2011 (Loi sur l’encouragement et la coordination des hautes écoles, LEHE);
 
-#### Article premier
+vu les articles 1 à 3 de la loi fédérale sur l’encouragement de la recherche et de l’innovation du 14 décembre 2012 (LERI);
 
-**But**
+vu l'article 5 alinéa 1 lettre a, ainsi que les articles 11 à 13 de l'ordonnance du Conseil des hautes écoles sur la coordination de l’enseignement dans les hautes écoles suisses du 29 novembre 2019;
 
-<sup>1</sup> La présente loi vise à encourager la formation et la recherche de caractère universitaire en Valais. Elle incite les institutions de formation et de recherche à participer au développement du canton.
+vu la loi sur l'information du public, la protection des données et l'archivage du 9 octobre 2008 (LIPDA);
 
-<sup>2</sup> Elle arrête les conditions auxquelles doivent satisfaire les institutions qui sollicitent de l'Etat une reconnaissance ou une aide subsidiaire.
+sur la proposition du Conseil d'Etat,
 
-<sup>3</sup> Elle encourage la collaboration entre les institutions établies en Valais d'une part, et d'autre part entre celles-ci et les universités, les écoles polytechniques fédérales, les hautes écoles spécialisées, les centres de recherche et les organismes fédéraux.
+ordonne[^ingress-1]:
+
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction, vise indifféremment l’homme ou la femme.
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**But et objet**
+
+<sup>1</sup> Le canton veille à la cohérence, à la qualité et à la coordination du paysage valaisan des hautes écoles et de la recherche. Il encourage et soutient les institutions tertiaires définies à l’article 2 alinéa 2 de la présente loi dans le cadre de leurs missions de formation et de recherche.
+
+<sup>2</sup> La présente loi règle les principes suivants:
+
+- a) la coordination du paysage valaisan des hautes écoles et de la recherche;
+- b) les contributions financières cantonales aux institutions tertiaires localisées sur le territoire du canton;
+- c) la surveillance cantonale des institutions tertiaires du canton fondée notamment sur les prestations des institutions et l’utilisation rationnelle et efficace des fonds octroyés, dans le cadre des contributions accordées et des missions confiées par la présente loi.
+
+<sup>3</sup> Sont réservées les contributions versées aux institutions tertiaires du canton par d’autres lois ou conventions fédérales ou cantonales ainsi que par des accords cantonaux et intercantonaux.
 
 #### Art. 2
 
-**Principes**
+**Champ d’application**
 
-<sup>1</sup> L'Etat favorise ou développe l'activité d'institutions à caractère universitaire en Valais.
+<sup>1</sup> La présente loi s’applique aux institutions tertiaires localisées sur le territoire du canton.
 
-<sup>2</sup> L'Etat encourage le travail en réseau des instituts en vue de tirer le meilleur parti des ressources humaines et matérielles engagées par les différents acteurs de la formation et de la recherche; il encourage les échanges avec les hautes écoles suisses et étrangères et les synergies nécessaires aux collaborations intracantonales, intercantonales et internationales.
+<sup>2</sup> Sont des institutions tertiaires au sens de la présente loi:
+
+- a) les hautes écoles ou institutions du domaine des hautes écoles, ainsi que les institutions autonomes membres d'une haute école ou d'une institution du domaine des hautes écoles, accréditées selon la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles (LEHE) et qui offrent un enseignement public au sens de l’article 45 alinéa 3 LEHE;
+- b) les antennes des hautes écoles ou institutions du domaine des hautes écoles accréditées selon la LEHE;
+- c) les autres institutions scientifiques reconnues par le Conseil d'Etat;
+- d) les hautes écoles ou institutions du domaine des hautes écoles, ainsi que les institutions autonomes membres d'une haute école ou d'une institution du domaine des hautes écoles, accréditées selon la LEHE et qui n'offrent pas un enseignement public au sens de l’article 45 alinéa 3 LEHE.
+
+<sup>3</sup> La présente loi ne s'applique pas aux institutions délivrant un diplôme relevant de la formation professionnelle supérieure.
 
 #### Art. 3
 
-**Egalité entre homme et femme**
+**Objectifs**
 
-Dans la présente loi, toute désignation de personne, de statut ou de fonction s'entend indifféremment au féminin et au masculin.
+<sup>1</sup> La formation et la recherche constituent des facteurs clés et un socle pour le développement et l’épanouissement de chacun, contribuent à l’intégration et à la cohésion cantonale et à l’amélioration de la situation sociale et économique de la population ainsi que la compétitivité économique et le développement social, culturel et artistique du canton. Les institutions tertiaires concourent à la réalisation des objectifs du canton dans ce domaine.
 
-### Section 2: Organes
+<sup>2</sup> Par ailleurs, au travers de leurs missions, les institutions tertiaires s’engagent en faveur d’un développement durable par des mesures visant à la préservation de l’environnement dans le respect des objectifs environnementaux du canton.
+
+<sup>3</sup> Pour le paysage valaisan des hautes écoles et de la recherche, le canton, dans le respect de ses deux régions linguistiques ainsi que de ses trois régions constitutionnelles, poursuit notamment les objectifs suivants:
+
+- a) encourager la formation dispensée par les hautes écoles ou institutions du domaine des hautes écoles;
+- b) encourager la recherche fondamentale, la recherche orientée vers les applications ainsi que l’innovation fondée sur la science;
+- c) encourager le transfert de connaissance vers les champs professionnels et les collectivités publiques et privées;
+- d) créer un environnement favorable à un enseignement et à une recherche de qualité dans l’ensemble du canton;
+- e) développer un paysage valaisan des hautes écoles et de la recherche incluant différents types d’institutions tertiaires;
+- f) encourager le bilinguisme français et allemand;
+- g) veiller à la coordination du paysage valaisan des hautes écoles et de la recherche;
+- h) encourager la collaboration entre les institutions tertiaires, notamment par le partage d'infrastructures et favoriser un partage des cultures académiques;
+- i) encourager les institutions tertiaires à obtenir des fonds tiers compétitifs, notamment par un financement approprié permettant le développement d'activités de recherche;
+- j) définir une politique cantonale des hautes écoles et de la recherche cohérente et compatible avec la politique d’encouragement de la recherche et de l’innovation de la Confédération;
+- k) disposer d’outils permettant de soutenir financièrement de façon efficiente, transparente et objective les institutions tertiaires;
+- l) prévenir les distorsions de la concurrence entre les prestations de formation des institutions tertiaires et celles offertes par les prestataires de la formation professionnelle supérieure.
+
+<sup>4</sup> Les institutions tertiaires s’engagent dans les domaines suivants:
+
+- a) l'enseignement de base, la formation continue et l’apprentissage tout au long de la vie;
+- b) la recherche et sa valorisation;
+- c) le développement et le transfert de connaissances, l'innovation dans les domaines couverts par les institutions ainsi que les synergies entre la formation et la recherche;
+- d) les services à la société, notamment en lien avec les politiques sectorielles cantonales.
 
 #### Art. 4
 
-**Grand Conseil**
+**Tâches et compétences du canton**
 
-Le Grand Conseil a) prend connaissance, au début de chaque période législative, des objectifs de formation et de recherche universitaires, des plans de développement et des réalisations; il reçoit une information circonstanciée sur l'activité des institutions qui bénéficient d'un soutien de l'Etat;
+<sup>1</sup> Le canton assure la mise en œuvre des objectifs fixés dans la présente loi.
 
-- b) prend connaissance des moyens financiers arrêtés dans le cadre de la planification financière et des lignes directrices;
+<sup>2</sup> Il reverse aux institutions tertiaires les contributions de la Confédération et des autres cantons dans la mesure où les institutions tertiaires ne peuvent pas les percevoir directement.
 
-- c) décide du montant global quadriennal des subsides versés par l'Etat aux institutions concernées;
-
-- d) peut créer des instituts cantonaux de formation ou de recherche.
+<sup>3</sup> Sont réservées les contributions versées aux institutions tertiaires par d’autres lois spécifiques.
 
 #### Art. 5
 
-**Conseil d'Etat**
+**Principes à respecter par le canton et les institutions tertiaires dans l’accomplissement de leurs tâches**
 
-Le Conseil d'Etat a) représente les institutions devant le Grand Conseil, auprès des autorités fédérales et des organes intercantonaux;
+<sup>1</sup> Dans l’accomplissement de ses tâches, le canton:
 
-- b) fixe les domaines prioritaires de formation et de recherche;
+- a) favorise et garantit l’autonomie accordée aux institutions tertiaires ainsi que les principes de liberté de l’enseignement et de la recherche;
+- b) tient compte de la spécificité des institutions tertiaires;
+- c) veille à assurer aux institutions des conditions-cadres ainsi qu'un financement approprié, sous réserve des disponibilités financières, permettant le développement des activités de formation et de recherche;
+- d) tient compte des disponibilités budgétaires cantonales.
 
-- c) adopte, sur proposition du Département de l'éducation, de la culture et du sport (ci-après Département) et sur préavis du Conseil de la formation et de la recherche universitaires (ci-après CoFRU), les dispositions d'application qui régissent la reconnaissance des formations, les mandats publics, ainsi que les partenariats entre institutions privées et organismes publics;
-
-- d) accorde les subventions et les reconnaissances, sur proposition du Département et sur préavis du CoFRU;
-
-- e) confie aux institutions des mandats de prestations ou des travaux de recherche; instaure diverses formes de collaboration avec elles, sous réserve des compétences du Grand Conseil;
-
-- f) ratifie les dispositions d'organisation et de fonctionnement des institutions qui bénéficient d'un soutien de l'Etat, sous la forme de reconnaissance ou d'aide financière.
+<sup>2</sup> Dans l’accomplissement de leurs tâches, les institutions tertiaires respectent les standards en vigueur dans les dispositions fédérales sur l’encouragement et la coordination des hautes écoles ainsi que sur l’encouragement de la recherche et de l’innovation.
 
 #### Art. 6
 
-**Département**
+**Protection des données et archivage**
 
-Toutes les compétences non attribuées à d'autres organes relèvent du Département.
+<sup>1</sup> Les institutions tertiaires définies à l’article 2 alinéa 2 lettres a, c et d de la présente loi sont des autorités au sens de l’article 3 alinéa 1 lettre b de la loi sur l'information du public, la protection des données et l'archivage (LIPDA) et sont soumises aux dispositions cantonales en matière de protection des données.
+
+<sup>2</sup> Les données personnelles peuvent être traitées par les institutions tertiaires définies à l’article 2 alinéa 2 lettres a, c et d de la présente loi dans l’accomplissement de leurs missions et dans les limites de la LIPDA.
+
+<sup>3</sup> Dans leurs activités, les institutions tertiaires définies à l’article 2 alinéa 2 lettre b de la présente loi respectent les standards en vigueur dans les dispositions de la loi fédérale sur la protection des données (LPD).
+
+## 2 Gouvernance
 
 #### Art. 7
 
-**Conseil de la formation et de la recherche universitaires (CoFRU)**
+**Grand Conseil**
 
-<sup>1</sup> Le Conseil d'Etat nomme les membres du CoFRU; il en désigne le président;
-
-<sup>2</sup> Le CoFRU est composé de sept à onze personnes jouissant d'une large notoriété dans les milieux universitaires; ses membres sont nommés pour quatre ans ; leur mandat est renouvelable. La composition du CoFRU tient compte de la diversité des domaines scientifiques.
-
-<sup>3</sup> Le CoFRU inscrit son action dans le cadre des lignes directrices du canton et de la Confédération. Lui incombent notamment:
-
-- a) la proposition des domaines prioritaires en matière de formation et de recherche universitaires;
-
-- b) la proposition de directives cantonales dans le domaine universitaire;
-
-- c) la définition des modalités et la proposition de répartition des subventions entre les institutions concernées;
-
-- d) l'établissement d'un bilan annuel des activités ainsi que leur évaluation;
-
-- e) l'incitation de mises en réseau, de collaborations et partenariats;
-
-- f) la proposition de reconnaissances ou de soutiens à accorder;
-
-- g) la coordination et le développement des relations avec les organes fédéraux compétents;
-
-- h) la recherche de fonds complémentaires;
-
-- i) les relations avec l'économie;
-
-- j) le suivi des évaluations externes et internes.
-
-### Section 3: Conditions cadre
+<sup>1</sup> Le Grand Conseil décide, sur la base d’un rapport sur la recherche et la formation en Valais, pour une période de 4 ans, les grandes orientations en matière de formation tertiaire et de recherche ainsi que le crédit-cadre portant sur les contributions cantonales aux institutions tertiaires selon l’article 12 alinéa 1 de la présente loi.
 
 #### Art. 8
 
-**Reconnaissance des instituts**
+**Conseil d’Etat**
 
-<sup>1</sup> Le Conseil d'Etat peut, sur préavis du CoFRU et présentation du Département, reconnaître les instituts qui répondent aux exigences suivantes:
+<sup>1</sup> Le Conseil d’Etat:
 
-- a) application des normes cantonales et des conditions cadre fixées par la présente loi;
-
-- b) ajustement de l'activité sur les standards suisses ou européens;
-
-- c) mise en oeuvre d'un système de gestion de la qualité;
-
-- d) choix d'activité offrant une réelle perspective de développement;
-
-- e) collaboration avec d'autres institutions à caractère universitaire;
-
-- f) disponibilité à apporter une contribution active aux entreprises et/ou aux services publics;
-
-- g) organisation juridique claire et pleine responsabilité du financement des activités.
-
-<sup>2</sup> La reconnaissance n'implique pas un soutien financier automatique de l'Etat ; elle en constitue toutefois la condition préalable.
-
-<sup>3</sup> L'Etat publie régulièrement la liste des instituts reconnus par le canton.
+- a) assure la surveillance des institutions tertiaires par le département en charge de la formation tertiaire (ci-après: le département);
+- b) accorde une reconnaissance aux institutions définies au sens de l’article 2 alinéa 2 lettre c de la présente loi selon les modalités prévues dans un règlement qu'il édicte;
+- c) octroie, dans la limite des disponibilités budgétaires de l’Etat, le budget global annuel des contributions cantonales aux institutions tertiaires selon l’article 12 alinéa 1 de la présente loi;
+- d) décide de la localisation des institutions tertiaires sur le territoire cantonal selon l'article 3 alinéa 3.
 
 #### Art. 9
 
-**Liberté d'enseignement et de recherche**
+**Département en charge de la formation tertiaire**
 
-La liberté d'enseignement et de recherche est garantie.
+<sup>1</sup> Le département:
+
+- a) veille à l'application de la présente loi;
+- b) assure la coordination et la surveillance du paysage valaisan des hautes écoles et de la recherche par son service en charge de la formation tertiaire (ci-après: le service) dans le cadre des contributions accordées et des missions confiées aux institutions tertiaires par la présente loi;
+- c) encourage et favorise le développement des collaborations interinstitutionnelles;
+- d) octroie les contributions annuelles aux institutions tertiaires selon l’article 12 alinéa 1 de la présente loi;
+- e) conclut, par son service, les contrats de prestations prévus à l'article 12 alinéa 2 de la présente loi avec les institutions tertiaires;
+- f) représente, dans les limites de ses compétences, les institutions tertiaires auprès du Grand Conseil, du Conseil d’Etat, ainsi qu'auprès des instances fédérales ou intercantonales;
+- g) autorise et surveille, par son service, l’activité sur le territoire du canton des prestataires privés offrant des formations conduisant à l'obtention de diplômes de niveau haute école;
+- h) rencontre annuellement le président de la Conférence de coordination du paysage valaisan des hautes écoles et de la recherche (ci-après: la conférence);
+- i) définit les priorités et axes de développement du paysage valaisan des hautes écoles et de la recherche et élabore un programme sur la recherche et la formation en collaboration avec la conférence.
 
 #### Art. 10
 
-**Coordination et collaboration**
+**Conférence de coordination du paysage valaisan des hautes écoles et de la recherche**
 
-<sup>1</sup> Les institutions bénéficiant d'un soutien de l'Etat s'engagent à coordonner leurs activités sous la supervision du CoFRU, dans les domaines possibles.
+<sup>1</sup> La conférence se compose des recteurs ou directeurs des institutions tertiaires localisées sur le territoire du canton.
 
-<sup>2</sup> Les instituts:
+<sup>2</sup> La conférence se constitue elle-même et peut se doter d’un règlement d’organisation.
 
-- a) coordonnent leurs activités de formation, de recherche et autres prestations de services;
+<sup>3</sup> La conférence assume les tâches suivantes:
 
-- b) s'associent aux efforts cantonaux et suisses de coordination et de répartition des activités dans les domaines de la formation et de la recherche;
+- a) dialoguer avec le département et le service sur des éléments de politique de formation tertiaire et de recherche, de développement du paysage de la formation tertiaire et de la recherche ainsi que des outils de financement;
+- b) soutenir les intérêts collectifs des institutions tertiaires auprès de la société;
+- c) assumer, le cas échéant, des tâches de coordination entre institutions tertiaires;
+- d) par ses actions, œuvrer au développement du paysage valaisan des hautes écoles et de la recherche.
+- e) instaurer ponctuellement des commissions d'experts en respectant notamment la représentativité des régions linguistiques;
+- f) participe à l'élaboration du programme sur la recherche et la formation.
 
-- c) collaborent avec les instituts de formation universitaire, avec les autres instituts universitaires actifs en Valais, avec d'autres instituts ou centres de compétences actifs en Valais, en Suisse ou dans d'autres pays.
-
-<sup>3</sup> Les instituts favorisent les échanges d'étudiants, de stagiaires, de chercheurs ainsi que d'enseignants à l'intérieur du canton, de la Suisse, de l'Union européenne ou d'autres pays.
+## 3 Contributions du canton
 
 #### Art. 11
 
-**Participation à la vie économique et sociale**
+**Principe**
 
-Les instituts reconnus par l'Etat contribuent au renforcement du tissu économique et social cantonal ou national, d'une part en offrant des formations de haut niveau adaptées aux besoins, d'autre part en réalisant des travaux d'expertise, de recherche et de développement pour des entreprises ou des administrations.
+<sup>1</sup> Le canton, en collaboration avec la Confédération, garantit que les pouvoirs publics fournissent aux institutions des fonds appropriés pour assurer un enseignement et une recherche de qualité, dans la limite des disponibilités budgétaires de l’Etat du Valais et de la Confédération.
+
+<sup>2</sup> Le canton octroie aux institutions tertiaires des contributions annuelles dont les montants sont déterminés par:
+
+- a) la présente loi;
+- b) les lois fédérales, les lois cantonales et les conventions cantonales et intercantonales.
 
 #### Art. 12
 
-**Publications scientifiques**
+**Contributions**
 
-Les instituts reconnus par l'Etat publient régulièrement les résultats de leurs travaux ; ils en assurent la vulgarisation par les moyens les plus appropriés. Ils sensibilisent la population à leurs objectifs scientifiques.
+<sup>1</sup> Le département, par son service, octroie aux institutions tertiaires, afin de leur assurer un financement approprié permettant le développement d'activités de formation et de recherche et dans la limite des disponibilités budgétaires de l’Etat du Valais, des contributions annuelles liées à:
+
+- a) des conventions cantonales et intercantonales ou des lois spécifiques, pour les institutions tertiaires au sens de l’article 2 alinéa 2 lettres a et b de la présente loi;
+- b) une participation aux frais d’exploitation, pour les institutions tertiaires au sens de l’article 2 alinéa 2 lettre c de la présente loi. Ces institutions tertiaires ne doivent pas entrer dans le champ d'application d'une loi cantonale spécifique ou doivent offrir un enseignement public au sens de l'article 45 alinéa 3 LEHE;
+- c) des performances pluriannuelles antérieures, notamment sur les prestations de formation et de recherche, pour les institutions tertiaires au sens de l’article 2 alinéa 2 lettres a et c de la présente loi;
+- d) des projets s’inscrivant dans les missions de formation tertiaire et de recherche pour les institutions tertiaires au sens de l’article 2 alinéa 2 lettres a à d et visant les objectifs de l'article 3 de la présente loi.
+
+<sup>2</sup> Le service conclut des contrats de prestations avec les institutions tertiaires bénéficiant des contributions au sens du présent article.
+
+<sup>3</sup> Les contributions sont calculées et enregistrées selon le principe de l'annualité des comptes.
+
+<sup>4</sup> Un règlement du Conseil d'Etat précise les modalités des contributions annuelles aux institutions tertiaires.
+
+## 4 Surveillance, protection des titres et protection contre les fraudes
 
 #### Art. 13
 
-**Evaluation et gestion de la qualité**
+**Surveillance**
 
-Les instituts évaluent régulièrement la qualité de leurs enseignements, de leurs recherches, de leurs services et de leurs publications.
+<sup>1</sup> Les institutions tertiaires font l'objet d’une surveillance de la part du département, par son service, portant sur le respect des contrats de prestations, du subventionnement et de la qualité des prestations dans le cadre des contributions accordées et des missions confiées par la présente loi.
+
+<sup>2</sup> La surveillance cantonale des institutions tertiaires du canton porte notamment sur l’utilisation rationnelle et efficace des fonds octroyés.
+
+<sup>3</sup> Sur proposition du service, le département réduit, suspend, supprime ou demande la restitution des contributions financières cantonales si les institutions tertiaires ne respectent pas les lois ou conventions fédérales ou cantonales ainsi que les accords cantonaux et intercantonaux, les règlements ou les directives du département.
 
 #### Art. 14
 
-**Organes de direction et de gestion**
+**Protection des titres**
 
-<sup>1</sup> Chaque institut dispose d'organes compétents dans ses domaines d'activités scientifiques ainsi que sur les plans administratif et financier.
+<sup>1</sup> Sont protégés tous les titres des niveaux suivants délivrés par les institutions tertiaires définies à l’article 2 alinéa 2 lettres a, c et d de la présente loi:
 
-<sup>2</sup> Chaque institut communique au CoFRU les informations nécessaires sur ses organes administratifs, financiers et scientifiques.
+- a) les bachelor;
+- b) les master;
+- c) les grades ou titres de docteur;
+- d) les licences universitaires;
+- e) les titres délivrés dans le cadre de la formation continue, soit les Certificate of Advanced Studies (CAS), les Diploma of Advanced Studies (DAS) ainsi que les Master of Advanced Studies (MAS) et leurs déclinaisons prévues par le droit fédéral.
+
+<sup>2</sup> Est réservée la protection des titres délivrés par la Haute école pédagogique du Valais qui est assurée par l'accord intercantonal sur la reconnaissance des diplômes de fin d'études.
+
+<sup>3</sup> Un titre délivré par une institution tertiaire au sens de l’article 2 alinéa 2 lettres a, c et d de la présente loi est un document officiel au sens de l’article 3 alinéa 2 LIPDA.
 
 #### Art. 15
 
-**Contrats de prestations**
+**Protection contre les discriminations et les fraudes**
 
-L'Etat favorise la conclusion de contrats de prestations avec les instituts et autres partenaires.
+<sup>1</sup> Le canton s’assure que les institutions tertiaires aient mis en place, dans leurs bases légales, les mesures nécessaires concernant les étudiants, les chercheurs et le personnel des institutions tertiaires:
 
-### Section 4: Formation et recherche
+- a) pour créer les conditions qui leur permettent de travailler dans un climat de respect et de tolérance, exempt de toute discrimination directe ou indirecte fondée sur une caractéristique personnelle;
+- b) pour les protéger contre les organisations et les personnes qui s’adonnent à la commercialisation et à la promotion de services éducatifs constitutifs de fraude par le biais d’internet, des réseaux sociaux, de la publicité ou autres.
+
+<sup>2</sup> Dans le cadre de la présente loi, la fraude s’entend d’un type de comportement ou d’action survenant visant la tromperie et l’obtention d’un avantage indu. Elle englobe notamment:
+
+- a) les activités des "usines à diplômes", "usines à accréditations", "usines à visas"," usines à dissertations" et "banques de dissertations", etc.;
+- b) l’usurpation d’identité consistant à exécuter, en tout ou en partie, des travaux ou des évaluations exigés dans le cadre d’un programme à la place de l’étudiant inscrit;
+- c) l’usage frauduleux ou irrégulier de documents authentiques;
+- d) le plagiat;
+- e) la production ou l’usage de documents falsifiés, plagiés ou contrefaits;
+- f) l’offre de qualifications non reconnues ou non agréées dans l’intention de tromper.
 
 #### Art. 16
 
-**Champ d'activité**
+**Activité sur le territoire cantonal des prestataires privés offrant des formations conduisant à l'obtention de diplômes de niveau haute école**
 
-<sup>1</sup> Les instituts de formation dispensent des programmes de niveau universitaire sous diverses formes : formations de base, formations continues et formations en emploi.
+<sup>1</sup> Une autorisation d’exploiter du département est nécessaire concernant l’activité sur le territoire cantonal des prestataires privés offrant des formations conduisant à l'obtention de diplômes de niveau haute école et ne bénéficiant pas d’une accréditation institutionnelle au sens de la LEHE.
 
-<sup>2</sup> Ils assurent les synergies entre formation et recherche.
+<sup>2</sup> Les dispositions y relatives sont fixées dans un règlement du Conseil d'Etat.
 
-<sup>3</sup> Les instituts de formation offrent des programmes compatibles avec la coordination universitaire et conformes aux standards suisses, européens ou internationaux.
+<sup>3</sup> Dans leurs activités, les prestataires privés offrant des formations conduisant à l'obtention de diplômes de niveau haute école respectent les standards en vigueur dans les dispositions de la LPD.
+
+## 5 Dispositions pénales
 
 #### Art. 17
 
-**Accès aux formations universitaires**
+**Autorité de poursuite pénale**
 
-Le Conseil d'Etat fixe dans une ordonnance les conditions concernant l'accès d'étudiants d'autres cantons ou d'autres pays aux institutions universitaires valaisannes ; il s'appuie sur le préavis du CoFRU. De la même manière, il fixe notamment les conditions d'admission, les conditions financières et les titres décernés.
+<sup>1</sup> La poursuite pénale des contraventions en application de la présente loi est confiée au service.
+
+<sup>2</sup> Conformément à l'article 38 alinéa 2 lettre b de la loi d'application du code de procédure pénale (LACPP), la procédure est régie par la loi sur la procédure et la juridiction administratives (LPJA).
 
 #### Art. 18
 
-**Règlements d'études**
+**Sanctions portant sur la protection des titres des institutions tertiaires**
 
-Tout institut proposant une filière de formation doit développer un règlement d'études. Celui-ci comprend notamment les informations suivantes : objet de la formation, conditions d'admission, durée des études, nature et délivrance du titre, systèmes d'évaluation, voies d'élimination et de recours.
+<sup>1</sup> Le non-respect de l’article 14 alinéa 1 de la présente loi est passible d'une amende de 200'000 francs au plus si la personne concernée agit intentionnellement et de 100'000 francs au plus si elle agit par négligence, dans ses documents professionnels, dans des annonces de quelque nature que ce soit ou dans tout autre document destiné à ses relations privées ou professionnelles, prétend être titulaire d’un titre protégé sans l’avoir dûment obtenu, ou se sert d’un titre ou d’un grade en laissant faussement croire qu’il lui a été conféré.
+
+<sup>2</sup> Sont réservées les sanctions portant sur les titres délivrés par la Haute école pédagogique du Valais selon l'accord intercantonal sur la reconnaissance des diplômes de fin d'études.
+
+<sup>3</sup> Sont réservées les sanctions pénales prévues par le droit fédéral.
 
 #### Art. 19
 
-**Plans d'études**
+**Sanctions portant sur la protection contre les discriminations et les fraudes**
 
-Le plan d'études d'une filière de formation comprend notamment les informations suivantes : objectifs généraux, matières enseignées, stages, caractéristiques du mémoire de fin d'études.
+<sup>1</sup> En cas de discrimination ou de fraude définie à l’article 15 alinéa 1 de la présente loi, les sanctions prévues dans les dispositifs des institutions tertiaires s'appliquent, respectivement le droit cantonal et fédéral.
 
 #### Art. 20
 
-**Reconnaissance des certificats et diplômes**
+**Sanctions portant sur l'activité sur le territoire cantonal des prestataires privés offrant des formations conduisant à l'obtention de diplômes de niveau haute école**
 
-La reconnaissance des formations de caractère universitaire est décidée par le Conseil d'Etat sur proposition du Département et sur préavis du CoFRU.
+<sup>1</sup> Le non-respect de l’article 16 alinéa 1 de la présente loi par un prestataire privé offrant des formations conduisant à l'obtention de diplômes de niveau haute école est passible d'une amende de 200'000 francs au plus s’il agit intentionnellement et de 100'000 francs au plus s’il agit par négligence.
+
+<sup>2</sup> Sont réservées les sanctions pénales prévues par le droit fédéral.
+
+## 6 Recours
 
 #### Art. 21
 
-**Activités de recherche**
+**Recours contre des amendes**
 
-<sup>1</sup> Le canton encourage la recherche fondamentale et la recherche appliquée.
-
-<sup>2</sup> Le canton peut subventionner des activités de recherche s'inscrivant dans le cadre de programmes nationaux ou européens, ainsi que des travaux répondant à des besoins du canton.
-
-<sup>3</sup> Les activités de recherche et de développement des institutions doivent viser à la complémentarité et à la synergie avec les travaux de la communauté scientifique.
-
-<sup>4</sup> Les programmes admis par le CoFRU sur le plan cantonal visent à renforcer les synergies et collaborations entre instituts, entre la Recherche fondamentale, la Recherche-Développement (R-D) et le Transfert de Technologie (TT) ou de connaissances; ils visent par ailleurs le développement de méthodo-logies.
-
-<sup>5</sup> Ils se conforment aux lignes directrices et à la stratégie arrêtée par le Conseil d'Etat pour les institutions tertiaires.
-
-### Section 5: Dispositions financières
+<sup>1</sup> Un recours au Tribunal cantonal peut être déposé contre les amendes prononcées en vertu de la présente loi et selon l'article 11 alinéa 3 LACPP.
 
 #### Art. 22
 
-**Subventions**
+**Recours contre les autres décisions**
 
-<sup>1</sup> Les instituts créés par des tiers (fondations, associations, privés) ne peuvent bénéficier de subventions que s'ils ont été reconnus par l'Etat et s'ils se conforment aux directives du CoFRU et remplissent les conditions cadres arrêtées par la présente loi.
-
-<sup>2</sup> Les instituts planifient leurs activités sous la forme de programmes annuels et pluriannuels. Le CoFRU propose les activités prioritaires susceptibles d'être subventionnées par le canton, compte tenu des disponibilités budgétaires. Les instituts de recherche reconnus par le canton sont subventionnés sur ces bases.
-
-<sup>3</sup> Des programmes ou des projets de recherche peuvent être soumis par d'autres requérants au CoFRU, notamment ceux émanant de chercheurs qui agissent à titre indépendant.
-
-#### Art. 23
-
-**Financement des instituts et contributions financières de l'Etat**
-
-<sup>1</sup> Les instituts sont responsables de leur financement.
-
-<sup>2</sup> L'Etat peut intervenir à titre subsidiaire dans le financement des institutions à caractère universitaire:
-
-- a) il peut subventionner aussi bien des programmes de formation que des programmes de recherche;
-
-- b) lorsqu'il intervient, l'Etat alloue aux instituts une aide forfaitaire; le montant de la subvention fait l'objet d'une proposition du CoFRU pour chacun des instituts considérés;
-
-- c) il peut accorder un soutien ad hoc pour faciliter l'accès et la participation d'une institution à un programme coordonné sur le plan cantonal et national ou européen;
-
-- d) il redistribue intégralement les subventions de la Confédération et des autres cantons aux ayants droit.
-
-<sup>3</sup> Les instituts se financent en partie par les prestations qu'ils fournissent sous forme de services à des tiers.
-
-<sup>4</sup> L'Etat finance les activités, les mandats et les partenariats dans les limites des budgets alloués par le Grand Conseil. Des accords ponctuels peuvent être conclus. Les dispositions de la loi sur les subventions sont applicables.
-
-#### Art. 24
-
-**Autres contributions financières cantonales**
-
-Le canton peut octroyer des aides à des organisations contribuant au développement d'activités universitaires en Valais, notamment en matière de services scientifiques, de formation continue et de manifestations scientifiques.
-
-#### Art. 25
-
-**Surveillance administrative et financière**
-
-L'Etat exerce la surveillance administrative et financière des institutions qu'il reconnaît ou/et subventionne.
-
-### Section 6: Dispositions finales
-
-#### Art. 26
-
-**Normes nationales et européennes**
-
-L'application de la présente loi se conforme aux dispositions fédérales en matière de formation ou de recherche universitaires et aux normes suisses ou aux standards européens.
-
-#### Art. 27
-
-**Protection des titres universitaires**
-
-<sup>1</sup> Le détenteur d'un titre décerné par une haute école universitaire est mis au bénéfice des droits et prérogatives qui lui sont liés.
-
-<sup>2</sup> L'annulation d'un titre obtenu abusivement relève de la responsabilité de l'institution qui l'a décerné.
-
-<sup>3</sup> L'Etat peut prononcer des amendes allant jusqu'à 10 000 francs à l'encontre de celui:
-
-- a) qui utilise, sans l'autorisation du Département compétent ou du Conseil d'Etat pour un établissement ou une activité, l'appellation "universitaire", "institut universitaire", "faculté", "haute école" ou toute autre appellation académique usuelle,
-
-- b) qui délivre des titres ou grades académiques sans autorisation du Département ou du Conseil d'Etat,
-
-- c) qui porte un grade ou un titre académique sans droit.
-
-#### Art. 28
-
-**Voies de recours - Instances et procédures**
-
-<sup>1</sup> Les décisions prises en vertu de la présente loi peuvent faire l'objet d'un recours auprès du Conseil d'Etat.
+<sup>1</sup> A l’exclusion des amendes, les décisions prises en vertu de la présente loi peuvent faire l'objet d'un recours auprès du Conseil d'Etat.
 
 <sup>2</sup> Les décisions du Conseil d'Etat peuvent être déférées au Tribunal cantonal.
 
-<sup>3</sup> La loi sur la procédure et la juridiction administratives règle les procédures.
+<sup>3</sup> La LPJA règle les procédures.
 
-#### Art. 29
-
-**Exécution et entrée en vigueur**
-
-<sup>1</sup> Le Conseil d'Etat est chargé de l'exécution de la présente loi.
-
-<sup>2</sup> La présente loi est soumise au référendum facultatif.
-
-<sup>3</sup> Le Conseil d'Etat fixe son entrée en vigueur<sup>1</sup> .
-
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Crans-Montana, le 2 février 2001.
-
-Le président du Grand Conseil: Yves-Gérard Rebord Les secrétaires: Madeleine Mayor, Hans-Peter Constantin
-
-<sup>1</sup> Entrée en vigueur le 1er juillet 2001.
+RCV RO/AGS 2024-107

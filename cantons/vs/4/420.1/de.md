@@ -1,339 +1,327 @@
 ---
 canton: VS
 number: "420.1"
-title: Gesetz über Bildung und Forschung von universitären Hochschulen und Forschungsinstituten
+title: Gesetz über die Förderung von Hochschulen und Forschung
 short: FHFG
 language: de
-version: 2001-07-01
-corrected: 2017-09-07
-version_adopted: 2001-02-02
+version: 2026-01-01
+version_adopted: 2024-05-15
 adopted: 2024-05-15
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/420.1"
-pdf: "https://lex.vs.ch/api/de/versions/469/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3558/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über Bildung und Forschung von universitären Hochschulen und Forschungsinstituten
+# Gesetz über die Förderung von Hochschulen und Forschung
 
-vom 2. Februar 2001
+(FHFG)
+
+vom 15.05.2024 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen Artikel 13, 15, 31 Absatz 1 und Artikel 42 Absatz 1 der Kantonsverfassung;
+eingesehen die Artikel 20, 61a und 64 der Bundesverfassung;
+
+eingesehen die Artikel 13, 15, 31 Absatz 1 und 42 Absatz 1 der Kantonsverfassung;
+
+eingesehen die Artikel 1 bis 5 des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich vom 30. September 2011 (Hochschulförderungs- und -koordinationsgesetz, HFKG);
+
+eingesehen die Artikel 1 bis 3 des Bundesgesetzes über die Förderung der Forschung und der Innovation vom 14. Dezember 2012 (FIFG);
+
+eingesehen Artikel 5 Absatz 1 Buchstabe a sowie die Artikel 11 bis 13 der Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen vom 29. November 2019;
+
+eingesehen das Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (GIDA);
 
 auf Antrag des Staatsrates,
 
-verordnet:
+verordnet[^ingress-1]:
 
-### 1. Abschnitt: Allgemeines und Anwendungsbereich
+[^ingress-1]: In vorliegendem Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Zweck**
+**Zweck und Gegenstand**
 
-<sup>1</sup> Förderung von Bildung und Forschung auf universitärer Stufe im Wallis. Mitarbeit der Bildungs- und Forschungseinrichtungen an der Entwicklung des Kantons.
+<sup>1</sup> Der Kanton sorgt für die Kohärenz, die Qualität und die Koordination der Walliser Hochschul- und Forschungslandschaft. Er fördert und unterstützt die in Artikel 2 Absatz 2 des vorliegenden Gesetzes definierten tertiären Institutionen im Rahmen ihres Bildungs- und Forschungsauftrags.
 
-<sup>2</sup> Festsetzung der für die Institutionen massgebenden Voraussetzungen zum Erlangen einer staatlichen Anerkennung oder subsidiären Unterstützung.
+<sup>2</sup> Das vorliegende Gesetz regelt die folgenden Grundsätze:
 
-<sup>3</sup> Zusammenarbeit der im Wallis etablierten Institutionen sowie deren Kooperation mit den Universitäten, eidgenössischen technischen Hochschulen, Fachhochschulen, Forschungszentren und eidgenössischen Organisationen.
+- a) die Koordination der Walliser Hochschul- und Forschungslandschaft;
+- b) die finanziellen Beiträge des Kantons für tertiäre Institutionen, die auf dem Kantonsgebiet angesiedelt sind;
+- c) die kantonale Aufsicht über die tertiären Institutionen des Kantons, die insbesondere auf den Leistungen der Institutionen und auf der rationellen und effizienten Verwendung der gewährten Geldmittel beruht, im Rahmen der zugewiesenen Beiträge und der durch das vorliegende Gesetz übertragenen Aufgaben.
+
+<sup>3</sup> Die den tertiären Institutionen im Kanton aufgrund von anderen Gesetzen oder kantonalen oder eidgenössischen Vereinbarungen sowie aufgrund von interkantonalen Vereinbarungen entrichteten Beiträge bleiben vorbehalten.
 
 #### Art. 2
 
-**Grundsätzliches**
+**Geltungsbereich**
 
-<sup>1</sup> Der Staat begünstigt oder fördert Hochschulinstitutionen im Wallis.
+<sup>1</sup> Dieses Gesetz gilt für tertiäre Institutionen, die auf dem Kantonsgebiet angesiedelt sind.
 
-<sup>2</sup> Der Staat fördert die Zusammenarbeit der Institutionen, um die von den verschiedenen Anbietern der Bildung und der Forschung eingesetzten menschlichen und finanziellen Ressourcen bestmöglich zu nutzen. Er fördert den Wissensaustausch mit in- und ausländischen Hochschulen und die für eine intrakantonale, interkantonale und internationale Zusammenarbeit unerlässlichen Bildungsnetze und Synergien.
+<sup>2</sup> Als tertiäre Institutionen im Sinne des vorliegenden Gesetzes gelten:
+
+- a) Hochschulen oder Institutionen des Hochschulbereiches sowie autonome Institutionen, die Mitglied einer Hochschule oder Institution des Hochschulbereiches sind, nach dem Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG) akkreditiert sind und ein öffentliches Bildungsangebot im Sinne von Artikel 45 Absatz 3 HFKG anbieten;
+- b) Zweigstellen von Hochschulen oder Institutionen des Hochschulbereiches, die nach HFKG akkreditiert sind;
+- c) die übrigen durch den Staatsrat anerkannten, wissenschaftlichen Institutionen;
+- d) Hochschulen oder Institutionen des Hochschulbereiches sowie autonome Institutionen, die Mitglied einer Hochschule oder Institution des Hochschulbereiches sind, nach dem HFKG akkreditiert sind und kein öffentliches Bildungsangebot im Sinne von Artikel 45 Absatz 3 HFKG anbieten.
+
+<sup>3</sup> Das vorliegende Gesetz ist nicht auf Institutionen anwendbar, die Diplome der höheren Berufsbildung verleihen.
 
 #### Art. 3
 
-**Gleichheitsprinzip**
+**Ziele**
 
-Alle Personen-, Status- oder Funktionsbezeichnungen vorliegenden Gesetzes gelten für beide Geschlechter.
+<sup>1</sup> Bildung und Forschung sind Schlüsselfaktoren und Grundsteine für die individuelle Entwicklung und Entfaltung, leisten einen Beitrag zur Integration, zum kantonalen Zusammenhalt und zur Verbesserung der sozialen und wirtschaftlichen Situation der Bevölkerung sowie zur wirtschaftlichen Wettbewerbsfähigkeit und zur sozialen, kulturellen und künstlerischen Entwicklung des Kantons. Die tertiären Institutionen tragen dazu bei, dass die Ziele des Kantons in diesem Bereich erreicht werden.
 
-### 2. Abschnitt: Organe
+<sup>2</sup> Darüber hinaus setzen sich die Hochschulen im Rahmen ihrer Aufträge für eine nachhaltige Entwicklung ein, indem sie im Einklang mit den Umweltzielen des Kantons Massnahmen zum Schutz der Umwelt treffen.
+
+<sup>3</sup> Für die Walliser Hochschul- und Forschungslandschaft verfolgt der Kanton, unter Berücksichtigung der beiden Sprachregionen und seiner drei Verfassungsregionen, insbesondere folgende Ziele:
+
+- a) Förderung der durch die Hochschulen oder Institutionen des Hochschulbereichs erteilten Ausbildungen;
+- b) Förderung der Grundlagenforschung, der anwendungsorientierten Forschung sowie der wissenschaftsbasierten Innovation;
+- c) Förderung des Wissenstransfers in Berufsfelder sowie öffentliche und private Körperschaften;
+- d) Schaffung günstiger Rahmenbedingungen für eine Lehre und Forschung von hoher Qualität im gesamten Kanton;
+- e) Schaffung einer Walliser Hochschul- und Forschungslandschaft, die verschiedene Arten von tertiären Institutionen umfasst;
+- f) Förderung der Zweisprachigkeit Deutsch/Französisch;
+- g) Gewährleistung der Koordination der Walliser Hochschul- und Forschungslandschaft;
+- h) Förderung der Zusammenarbeit zwischen den tertiären Institutionen, insbesondere durch die gemeinsame Nutzung von Infrastrukturen, und Begünstigung eines Austauschs der akademischen Kulturen;
+- i) Anregung der tertiären Institutionen, wettbewerbsfähige Drittmittel zu beschaffen, insbesondere durch eine angemessene Finanzierung, welche die Entwicklung von Forschungsaktivitäten ermöglicht;
+- j) Festlegung einer kantonalen Hochschul- und Forschungspolitik, die kohärent und mit der Forschungs- und Innovationsförderungspolitik des Bundes vereinbar ist;
+- k) Bereitstellung von Instrumenten, die eine effiziente, transparente und objektive finanzielle Unterstützung der tertiären Institutionen ermöglichen;
+- l) Vermeidung von Wettbewerbsverzerrungen bei Bildungsdienstleistungen von tertiären Institutionen gegenüber Anbietern der höheren Berufsbildung.
+
+<sup>4</sup> Die tertiären Institutionen engagieren sich in folgenden Bereichen:
+
+- a) Grundbildung, Weiterbildung und lebenslanges Lernen;
+- b) Forschung und Verwertung der Ergebnisse;
+- c) Entwicklung und Wissenstransfer, Innovation in den von den Institutionen abgedeckten Bereichen sowie Synergien zwischen Bildung und Forschung;
+- d) Dienstleistungen für die Gesellschaft, namentlich in Verbindung mit der bereichsspezifischen kantonalen Politik.
 
 #### Art. 4
 
-**Grosser Rat**
+**Aufgaben und Zuständigkeiten des Kantons**
 
-Der Grosse Rat a) nimmt zu Beginn jeder Legislaturperiode Kenntnis von den universitären Bildungs- und Forschungszielen sowie den geplanten und ausgeführten Vorhaben; er wird eingehend über die Aktivitäten der vom Staat unterstützten Institutionen informiert;
+<sup>1</sup> Der Kanton sorgt für die Umsetzung der im vorliegenden Gesetz festgelegten Ziele.
 
-- b) nimmt Kenntnis der in der Finanzplanung und den Richtlinien vorgesehenen finanziellen Mittel;
+<sup>2</sup> Er überweist den tertiären Institutionen die Beiträge des Bundes und der übrigen Kantone, soweit die tertiären Institutionen diese nicht direkt beziehen können.
 
-- c) beschliesst die vierjährige Globalsumme der vom Kanton an die betreffenden Institutionen gezahlten Finanzhilfen;
-
-- d) kann kantonale Forschungs- oder Bildungsinstitute schaffen.
+<sup>3</sup> Beiträge, die aufgrund anderer spezifischer Gesetze an die tertiären Institutionen ausgerichtet werden, bleiben vorbehalten.
 
 #### Art. 5
 
-**Staatsrat**
+**Grundsätze der Aufgabenerfüllung für den Kanton und die tertiären Institutionen**
 
-Der Staatsrat a) vertritt die Institutionen vor dem Grossen Rat, bei den Bundesbehörden und interkantonalen Organen;
+<sup>1</sup> Bei der Erfüllung seiner Aufgaben soll der Kanton:
 
-- b) legt die vorrangigen Bildungs- und Forschungsbereiche fest;
+- a) die den tertiären Institutionen gewährte Autonomie sowie die Grundsätze der Freiheit von Lehre und Forschung fördern und gewährleisten;
+- b) die Besonderheiten der tertiären Institutionen berücksichtigen;
+- c) dafür sorgen, dass den Institutionen Rahmenbedingungen sowie eine angemessene Finanzierung – vorbehaltlich der Verfügbarkeit finanzieller Mittel – zugesichert werden, welche die Entwicklung von Bildungs- und Forschungsaktivitäten ermöglichen;
+- d) die verfügbaren kantonalen Budgetmittel berücksichtigen.
 
-- c) beschliesst auf Vorschlag des Departements für Erziehung, Kultur und Sport (nachstehend "Departement") und nach Stellungnahme des Bildungs- und Forschungsrates (BFR) die Anwendungsbestimmungen zur Regelung der Anerkennung von Bildungsabschlüssen, der öffentlichen Mandate sowie der Partnerschaften zwischen privaten und öffentlichen Einrichtungen;
-
-- d) gewährt auf Vorschlag des Departements und nach Stellungnahme des BFR die Subventionen und Anerkennungen;
-
-- e) überträgt den Institutionen Leistungsmandate oder Forschungsaufgaben; entwickelt - unter Vorbehalt der grossrätlichen Kompetenzen - neue Zusammenarbeitsformen mit den Institutionen;
-
-- f) genehmigt die internen Vorschriften der vom Staat anerkannten oder finanziell unterstützten Institutionen zur Regelung ihrer Organisation und ihres Betriebsablaufs.
+<sup>2</sup> Bei der Erfüllung ihrer Aufgaben respektieren die tertiären Institutionen die geltenden Standards gemäss den gesetzlichen Bestimmungen des Bundes über die Förderung und die Koordination der Hochschulen sowie über die Förderung von Forschung und Innovation.
 
 #### Art. 6
 
-**Departement**
+**Datenschutz und Archivierung**
 
-Für alle Belange, die nicht in den Kompetenzbereich eines anderen Organs fallen, ist das Departement zuständig.
+<sup>1</sup> Die in Artikel 2 Absatz 2 Buchstaben a, c und d des vorliegenden Gesetzes definierten tertiären Institutionen sind Behörden im Sinne von Artikel 3 Absatz 1 Buchstabe b des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA) und unterstehen den kantonalen Datenschutzbestimmungen.
+
+<sup>2</sup> Personendaten dürfen von den in Artikel 2 Absatz 2 Buchstaben a, c und d des vorliegenden Gesetzes definierten tertiären Institutionen zur Erfüllung ihrer Aufgaben und innerhalb der Grenzen des GIDA bearbeitet werden.
+
+<sup>3</sup> Die in Artikel 2 Absatz 2 Buchstabe b des vorliegenden Gesetzes definierten tertiären Institutionen halten sich bei ihren Tätigkeiten an die Standards, die gemäss Bestimmungen des Bundesgesetzes über den Datenschutz (DSG) gelten.
+
+## 2 Führung
 
 #### Art. 7
 
-**Bildungs- und Forschungsrat (BFR)**
+**Grosser Rat**
 
-<sup>1</sup> Der Staatsrat ernennt die Mitglieder des BFR und bestimmt dessen Präsidenten.
-
-<sup>2</sup> Der BFR umfasst sieben bis elf namhafte Personen aus Hochschulkreisen; die Mitglieder werden für vier Jahre ernannt; ihr Mandat kann erneuert werden. Der Verschiedenartigkeit der wissenschaftlichen Bereiche wird bei der Ernennung der Mitglieder Rechnung getragen.
-
-<sup>3</sup> Der BFR übt seine Tätigkeit im Rahmen der kantonalen und eidgenössischen Richtlinien aus. Ihm obliegt namentlich:
-
-- a) die vorrangigen Hochschulbildungs- und Forschungsbereiche vorzuschlagen;
-
-- b) die kantonalen Richtlinien für den Hochschulbereich vorzuschlagen;
-
-- c) die Definition der Modalitäten und die Aufteilung der Subventionen unter die in Frage kommenden Institutionen vorzuschlagen;
-
-- d) die jährliche Bilanz der Aktivitäten aufzustellen und deren Evaluation vorzunehmen;
-
-- e) die Vernetzungen, Zusammenarbeit und Partnerschaften anzuregen;
-
-- f) die Anerkennungs- oder Unterstützungsvorschläge zu unterbreiten;
-
-- g) die Beziehungen zu den zuständigen Bundesstellen zu koordinieren und fortzuentwickeln;
-
-- h) die zusätzlichen Geldmittel zu beschaffen;
-
-- i) die Beziehungen zur Wirtschaft;
-
-- j) die laufende Evaluation der externen und internen Entwicklungsvorgänge.
-
-### 3. Abschnitt: Rahmenbedingungen
+<sup>1</sup> Der Grosse Rat beschliesst, auf Grundlage eines Berichts über Forschung und Bildung im Wallis, für eine Zeitspanne von 4 Jahren die Hauptausrichtungen im Bereich der tertiären Bildung und Forschung sowie den Rahmenkredit für die kantonalen Beiträge an die tertiären Institutionen gemäss Artikel 12 Absatz 1 des vorliegenden Gesetzes.
 
 #### Art. 8
 
-**Anerkennung der Institute**
+**Staatsrat**
 
-<sup>1</sup> Nach Stellungnahme des BFR und auf Vorschlag des Departements kann der Staatsrat Institute anerkennen, die folgende Anforderungen erfüllen:
+<sup>1</sup> Der Staatsrat:
 
-- a) Anwendung der kantonalen Vorschriften und der in diesem Gesetz festgelegten Rahmenbedingungen;
-
-- b) Anpassung der Tätigkeit an schweizerische oder europäische Standards;
-
-- c) Anwendung eines Qualitätsmanagementsystems;
-
-- d) entwicklungsorientierte Tätigkeit;
-
-- e) Zusammenarbeit mit anderen Hochschulinstitutionen;
-
-- f) Bereitschaft, einen aktiven Beitrag an Unternehmen und/oder den öffentlichen Dienst zu leisten;
-
-- g) klare rechtliche Strukturen und verantwortungsvolle Finanzierung der Aktivitäten.
-
-<sup>2</sup> Die Anerkennung führt nicht implizit zu einer staatlichen Hilfe, ist jedoch Voraussetzung.
-
-<sup>3</sup> Der Kanton veröffentlicht regelmässig ein Verzeichnis der von ihm anerkannten Institute.
+- a) gewährleistet die Aufsicht über die tertiären Institutionen durch das für die tertiäre Bildung zuständige Departement (nachfolgend: Departement);
+- b) gewährt den im Sinne von Artikel 2 Absatz 2 Buchstabe c des vorliegenden Gesetzes definierten Institutionen eine Anerkennung gemäss den in einem von ihm erlassenen Reglement festgelegten Modalitäten;
+- c) gewährt, unter Einhaltung der zur Verfügung stehenden Budgetmittel des Staates, das jährliche Globalbudget für die kantonalen Beiträge an die tertiären Institutionen gemäss Artikel 12 Absatz 1 des vorliegenden Gesetzes;
+- d) beschliesst den Standort der tertiären Institutionen auf dem Kantonsgebiet gemäss Artikel 3 Absatz 3.
 
 #### Art. 9
 
-**Recht auf Freiheit für Unterricht und Forschung**
+**Für die tertiäre Bildung zuständiges Departement**
 
-Unterrichts- und Forschungsfreiheit sind gewährleistet.
+<sup>1</sup> Das Departement:
+
+- a) überwacht die Anwendung des vorliegenden Gesetzes;
+- b) gewährleistet die Koordination und die Aufsicht über die Walliser Hochschul- und Forschungslandschaft durch seine für die tertiäre Bildung zuständige Dienststelle (nachfolgend: die Dienststelle) im Rahmen der gewährten Beiträge und der den tertiären Institutionen durch das vorliegende Gesetz übertragenen Aufgaben;
+- c) fördert und unterstützt die Entwicklung interinstitutioneller Zusammenarbeit;
+- d) gewährt die jährlichen Beiträge an die tertiären Institutionen gemäss Artikel 12 Absatz 1 des vorliegenden Gesetzes;
+- e) schliesst durch seine Dienststelle die in Artikel 12 Absatz 2 des vorliegenden Gesetzes vorgesehenen Leistungsverträge mit den tertiären Institutionen ab;
+- f) vertritt die tertiären Institutionen im Rahmen seiner Kompetenzen gegenüber dem Grossen Rat, dem Staatsrat sowie gegenüber eidgenössischen oder interkantonalen Instanzen;
+- g) bewilligt und überwacht über seine Dienststelle die Tätigkeiten der privaten Leistungserbringer auf dem Kantonsgebiet, die Bildungsgänge anbieten, die zu Abschlüssen auf Hochschulstufe führen;
+- h) trifft sich jährlich mit dem Präsidenten der Konferenz für die Koordination der Walliser Hochschul- und Forschungslandschaft (nachfolgend: die Konferenz);
+- i) legt die Prioritäten und Entwicklungsachsen der Walliser Hochschul- und Forschungslandschaft fest und erarbeitet in Zusammenarbeit mit der Konferenz für die Koordination der Walliser Hochschul- und Forschungslandschaft ein Programm für Forschung und Bildung.
 
 #### Art. 10
 
-**Koordination und Zusammenarbeit**
+**Konferenz für die Koordination der Walliser Hochschul- und Forschungslandschaft**
 
-<sup>1</sup> Die staatlich subventionierten Institutionen verpflichten sich, ihre Aktivitäten, soweit als möglich, unter der Aufsicht des BFR zu koordinieren.
+<sup>1</sup> Die Konferenz setzt sich aus den Rektoren oder Direktoren der tertiären Institutionen auf dem Kantonsgebiet zusammen (nachfolgend: die Konferenz).
 
-<sup>2</sup> Die Institute haben folgende Obliegenheiten:
+<sup>2</sup> Die Konferenz konstituiert sich selbst und kann ein Organisationsreglement erlassen.
 
-- a) sie koordinieren ihre Aktivitäten in Bezug auf Unterricht, Forschungsarbeiten und andere Dienstleistungen;
+<sup>3</sup> Die Konferenz übernimmt folgende Aufgaben:
 
-- b) sie schliessen sich den kantonalen und schweizerischen Bemühungen zur Koordinierung und Aktivitätenaufteilung im Bildungs- und Forschungsbereich an;
+- a) sie führt einen Dialog mit dem Departement und der Dienststelle über die Bestandteile der tertiären Bildungs- und Forschungspolitik, die Entwicklung der tertiären Bildungs- und Forschungslandschaft sowie die Finanzierungsinstrumente;
+- b) sie fördert die gemeinsamen Interessen der tertiären Institutionen in der Gesellschaft;
+- c) sie nimmt gegebenenfalls Koordinationsaufgaben zwischen tertiären Institutionen wahr;
+- d) sie unterstützt durch ihre Tätigkeiten die Entwicklung der Walliser Hochschul- und Forschungslandschaft;
+- e) sie setzt punktuell Expertenkommissionen ein, wobei insbesondere die Repräsentativität der Sprachregionen berücksichtigt wird;
+- f) sie beteiligt sich an der Erarbeitung des Forschungs- und Bildungsprogramms.
 
-- c) sie pflegen die Zusammenarbeit mit den Hochschulbildungsinstitutionen und den anderen im Wallis tätigen universitären Instituten sowie anderen Institutionen oder Kompetenzzentren mit Tätigkeitsbereich im Wallis, in der Schweiz oder in anderen Ländern.
-
-<sup>3</sup> Die Institute fördern den Austausch von Studenten, Praktikanten, Forschern und Lehrkräften innerhalb des Kantons, der Schweiz, der europäischen Union oder anderer Länder.
+## 3 Beiträge des Kantons
 
 #### Art. 11
 
-Beteiligung am wirtschaftlichen und gesellschaftlichen Gefüge Die vom Staat anerkannten Institute tragen zur Stärkung des kantonalen oder nationalen wirtschaftlichen und sozialen Gefüges bei, und zwar zum einen durch ihre den Erfordernissen angepassten, qualitativ hochwertigen Bildungsformen und zum andern durch die Erstellung von Gutachten, sowie ferner durch Forschungs- und Entwicklungsarbeiten im Dienste von Unternehmen oder Verwaltungen.
+**Grundsatz**
+
+<sup>1</sup> Der Kanton stellt in Zusammenarbeit mit dem Bund sicher, dass die öffentliche Hand den Institutionen im Rahmen der verfügbaren Budgetmittel des Staates Wallis und des Bundes angemessene Mittel zur Verfügung stellt, um eine Lehre und Forschung von hoher Qualität zu gewährleisten.
+
+<sup>2</sup> Der Kanton gewährt den tertiären Institutionen jährliche Beiträge, deren Beträge definiert werden durch:
+
+- a) das vorliegende Gesetz;
+- b) die Bundesgesetze, die kantonalen Gesetze und die kantonalen und interkantonalen Vereinbarungen.
 
 #### Art. 12
 
-**Wissenschaftliche Publikationen**
+**Beiträge**
 
-Die vom Staat anerkannten Institute publizieren regelmässig ihre Arbeitsresultate und sorgen für deren bestmögliche Verbreitung; sie sensibilisieren die Öffentlichkeit für ihre wissenschaftlichen Ziele.
+<sup>1</sup> Um den tertiären Institutionen eine angemessene Finanzierung zu sichern, welche die Entwicklung von Lehr- und Forschungsaktivitäten ermöglicht, gewährt das Departement ihnen über seine Dienststelle und im Rahmen der verfügbaren Budgetmittel des Staates Wallis jährliche Beiträge, die an Folgendes gebunden sind:
+
+- a) kantonale und interkantonale Vereinbarungen oder spezifische Gesetze für die tertiären Institutionen gemäss Artikel 2 Absatz 2 Buchstaben a und b des vorliegenden Gesetzes;
+- b) eine Beteiligung an den Betriebskosten der tertiären Institutionen im Sinne von Artikel 2 Absatz 2 Buchstabe c des vorliegenden Gesetzes. Diese tertiären Institutionen dürfen nicht in den Geltungsbereich eines spezifischen kantonalen Gesetzes fallen oder müssen öffentliche Bildungsdienstleistungen im Sinne von Artikel 45 Absatz 3 HFKG anbieten;
+- c) frühere mehrjährige Leistungen, insbesondere in Bezug auf Bildungs- und Forschungsdienstleistungen, für die tertiären Institutionen im Sinne von Artikel 2 Absatz 2 Buchstaben a und c des vorliegenden Gesetzes;
+- d) Projekte im Rahmen der Aufgaben der tertiären Bildung und Forschung für die tertiären Institutionen im Sinne von Artikel 2 Absatz 2 Buchstaben a bis d und zur Umsetzung der Ziele von Artikel 3 des vorliegenden Gesetzes.
+
+<sup>2</sup> Die Dienststelle schliesst mit den tertiären Institutionen, die Beiträge im Sinne dieses Artikels erhalten, Leistungsverträge ab.
+
+<sup>3</sup> Die Beiträge werden gemäss dem Grundsatz der Jährlichkeit der Rechnung berechnet und verbucht.
+
+<sup>4</sup> Ein Reglement des Staatsrats legt die Modalitäten der jährlichen Beiträge an tertiäre Institutionen fest.
+
+## 4 Aufsicht, Schutz der Titel und Schutz vor Betrug
 
 #### Art. 13
 
-**Evaluation und Qualitätsmanagement**
+**Aufsicht**
 
-Die Institute evaluieren regelmässig die Qualität ihres Unterrichts, ihrer Forschung, ihrer Dienstleistungen und Publikationen.
+<sup>1</sup> Die tertiären Institutionen werden vom Departement durch seine Dienststelle beaufsichtigt, wobei die Einhaltung der Leistungsverträge, der Subventionierung und der Qualität der Leistungen im Rahmen der gewährten Beiträge und der durch das vorliegende Gesetz übertragenen Aufgaben überprüft wird.
+
+<sup>2</sup> Die kantonale Aufsicht über die tertiären Institutionen des Kantons betrifft namentlich die rationelle und effiziente Verwendung der gewährten Geldmittel.
+
+<sup>3</sup> Auf Antrag der Dienststelle kürzt, sistiert, streicht oder fordert das Departement finanzielle Beiträge des Kantons zurück, wenn die tertiären Institutionen die eidgenössischen oder kantonalen Gesetze oder Vereinbarungen sowie die kantonalen und interkantonalen Abkommen, die Reglemente oder Weisungen des Departements nicht einhalten.
 
 #### Art. 14
 
-**Direktion und Verwaltung**
+**Schutz der Titel**
 
-<sup>1</sup> Jedes Institut verfügt über kompetente Organe in seinem wissenschaftlichen, verwaltungstechnischen und finanziellen Bereich.
+<sup>1</sup> Geschützt sind alle Titel der folgenden Stufen, die von den in Artikel 2 Absatz 2 Buchstaben a, c und d des vorliegenden Gesetzes definierten tertiären Institutionen verliehen werden:
 
-<sup>2</sup> Jedes Institut erteilt dem BFR die diesbezüglichen Auskünfte.
+- a) Bachelor;
+- b) Master;
+- c) Grad eines Doktors oder Doktortitel;
+- d) universitäre Lizenziate;
+- e) die im Rahmen der Weiterbildung verliehenen Titel, nämlich das Certificate of Advanced Studies (CAS), das Diploma of Advanced Studies (DAS) und der Master of Advanced Studies (MAS) sowie ihre im Bundesrecht vorgesehenen Abstufungen.
+
+<sup>2</sup> Vorbehalten bleibt der Schutz der von der Pädagogischen Hochschule Wallis ausgestellten Titel, der durch die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen gewährleistet wird.
+
+<sup>3</sup> Ein Titel, der von einer tertiären Institution im Sinne von Artikel 2 Absatz 2 Buchstaben a, c und d des vorliegenden Gesetzes ausgestellt wird, ist ein amtliches Dokument im Sinne von Artikel 3 Absatz 2 GIDA.
 
 #### Art. 15
 
-**Leistungsverträge**
+**Schutz vor Diskriminierung und Betrug**
 
-Der Staat fördert den Abschluss von Leistungsverträgen mit den Institutionen und anderen Partnern.
+<sup>1</sup> Der Kanton stellt sicher, dass die tertiären Institutionen in ihren Rechtsgrundlagen die notwendigen Massnahmen in Bezug auf Studierende, Forschende und Personal der tertiären Institutionen eingeführt haben:
 
-### 4. Abschnitt: Bildung und Forschung
+- a) um Bedingungen zu schaffen, die es ihnen ermöglichen, in einem Klima des Respekts und der Toleranz zu arbeiten, das frei von direkter oder indirekter Diskriminierung aufgrund eines persönlichen Merkmals ist;
+- b) um sie vor Organisationen und Personen zu schützen, die betrügerische Bildungsangebote über das Internet, soziale Netzwerke, Werbung oder auf andere Weise vermarkten und bewerben.
+
+<sup>2</sup> Betrug im Sinne des vorliegenden Gesetzes sind Verhaltensweisen oder Handlungen, die auf Täuschung und die Erlangung eines ungerechtfertigten Vorteils abzielen. Betrug umfasst insbesondere:
+
+- a) die Aktivitäten von "Titelmühlen", "Akkreditierungsmühlen", "Visamühlen", "Dissertationsmühlen" und "Dissertationsdatenbanken" usw.;
+- b) Identitätsmissbrauch, bei dem Arbeiten oder Bewertungen, die im Rahmen eines Programms verlangt werden, vollumfänglich oder teilweise anstelle des immatrikulierten Studierenden ausgeführt werden;
+- c) die betrügerische oder unrechtmässige Verwendung von authentischen Dokumenten;
+- d) Plagiate;
+- e) die Herstellung oder Verwendung von gefälschten, plagiierten oder nachgeahmten Dokumenten;
+- f) das Anbieten von nicht anerkannten oder nicht zugelassenen Qualifikationen mit der Absicht der Irreführung.
 
 #### Art. 16
 
-**Tätigkeitsbereich**
+**Tätigkeit von privaten Anbietern von Bildungsgängen zur Erlangung von Abschlüssen auf Hochschulstufe auf dem Kantonsgebiet**
 
-<sup>1</sup> Die von den Bildungsinstituten in verschiedener Form angebotenen Programme entsprechen der Hochschulstufe; sie erstrecken sich auf die Bereiche Grundausbildung, Weiterbildung und berufsbegleitende Ausbildung.
+<sup>1</sup> Für die Tätigkeit von privaten Anbietern von Bildungsgängen zur Erlangung von Abschlüssen auf Hochschulstufe auf dem Kantonsgebiet, die nicht über eine institutionelle Akkreditierung im Sinne des HFKG verfügen, ist eine Betriebsbewilligung des Departements erforderlich.
 
-<sup>2</sup> Die Institute sichern die Synergien zwischen Bildung und Forschung.
+<sup>2</sup> Die diesbezüglichen Bestimmungen werden in einem Reglement des Staatsrats festgelegt.
 
-<sup>3</sup> Die von den Instituten angebotenen Programme sind auf jene des Hochschulsektors abgestimmt; sie entsprechen schweizerischem, europäischem bzw. internationalem Standard.
+<sup>3</sup> Private Anbieter von Bildungsgängen zur Erlangung von Abschlüssen auf Hochschulstufe halten sich bei ihrer Tätigkeit an die geltenden Standards der Bestimmungen des DSG.
+
+## 5 Strafbestimmungen
 
 #### Art. 17
 
-**Zugang zur Hochschulbildung**
+**Strafverfolgungsbehörde**
 
-Die Zulassungsbedingungen ausserkantonaler oder ausländischer Studierenden an Walliser Hochschuleinrichtungen wird - gestützt auf die vorherige Stellungnahme des BFR - mittels staatsrätlicher Verordnung geregelt. Die gleiche Verfahrensweise gilt für Aufnahmebedingungen, Studiengebühren und die zu vergebenden Diplome.
+<sup>1</sup> Die strafrechtliche Verfolgung von Übertretungen nach diesem Gesetz wird der Dienststelle übertragen.
+
+<sup>2</sup> Gemäss Artikel 38 Absatz 2 Buchstabe b des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EGStPO) wird das Verfahren durch das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) geregelt.
 
 #### Art. 18
 
-**Studienordnung**
+**Sanktionen betreffend den Schutz der Titel der tertiären Institutionen**
 
-Jedes Institut, das einen Bildungsgang anbietet, erlässt eine Studienordnung. Letztere umfasst namentlich folgende Punkte: Bildungsziel, Zulassungsbedingungen, Studiendauer, Art der zu erwerbenden Diplome, Bewertungssystem, Ausschlussverfahren und Beschwerdemöglichkeit.
+<sup>1</sup> Die Nichteinhaltung von Artikel 14 Absatz 1 des vorliegenden Gesetzes wird mit einer Busse von bis zu 200’000 Franken bei vorsätzlichem und bis zu 100’000 Franken bei fahrlässigem Handeln bestraft, wenn die betreffende Person in Geschäftsunterlagen, in Anzeigen jeglicher Art oder in jedem anderen für private oder berufliche Beziehungen bestimmten Dokument behauptet, einen geschützten Titel zu besitzen, ohne diesen ordnungsgemäss erworben zu haben oder einen Titel oder ein Grad verwendet und fälschlicherweise glauben macht, dass er ihr verliehen wurde.
+
+<sup>2</sup> Vorbehalten bleiben Sanktionen für Titel, die von der Pädagogischen Hochschule Wallis gemäss der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen verliehen werden.
+
+<sup>3</sup> Vorbehalten bleiben die im Bundesrecht vorgesehenen strafrechtlichen Sanktionen.
 
 #### Art. 19
 
-**Studienplan**
+**Sanktionen betreffend den Schutz vor Diskriminierung und Betrug**
 
-Der Plan für einen Studiengang informiert insbesondere über die allgemeinen Ziele, den Unterrichtsstoff, Praktika und die Art der Diplomarbeit am Ende des Studiums.
+<sup>1</sup> Im Falle einer Diskriminierung oder eines in Artikel 15 Absatz 1 des vorliegenden Gesetzes definierten Betrugs gelten die in den Bestimmungen der tertiären Institutionen vorgesehenen Sanktionen beziehungsweise das kantonale und eidgenössische Recht.
 
 #### Art. 20
 
-**Anerkennung von Zeugnissen und Diplomen**
+**Sanktionen betreffend die Tätigkeit von privaten Anbietern von Bildungsgängen zur Erlangung von Abschlüssen auf Hochschulstufe auf dem Kantonsgebiet**
 
-Der Staatsrat entscheidet auf Vorschlag des Departements und nach vorheriger Stellungnahme des BFR über die Anerkennung der universitären Studiengänge.
+<sup>1</sup> Die Nichteinhaltung von Artikel 16 Absatz 1 des vorliegenden Gesetzes durch einen privaten Anbieter von Bildungsgängen zur Erlangung von Abschlüssen auf Hochschulstufe wird mit einer Busse von bis zu 200’000 Franken bei vorsätzlichem und bis zu 100’000 Franken bei fahrlässigem Handeln bestraft.
+
+<sup>2</sup> Vorbehalten bleiben die im Bundesrecht vorgesehenen strafrechtlichen Sanktionen.
+
+## 6 Beschwerden
 
 #### Art. 21
 
-**Forschung**
+**Beschwerde gegen Bussen**
 
-<sup>1</sup> Der Kanton fördert die Grundlagenforschung und die angewandte Forschung.
-
-<sup>2</sup> Er kann Forschungsarbeiten unterstützen, die im Rahmen nationaler oder europäischer Programme durchgeführt werden oder kantonalen Bedürfnissen entsprechen.
-
-<sup>3</sup> Die Forschungs- und Entwicklungsarbeiten der Institutionen müssen auf Komplementarität und Synergie mit anderen wissenschaftlichen Arbeiten abzielen.
-
-<sup>4</sup> Die auf kantonaler Ebene vom BFR genehmigten Programme bezwecken die Stärkung der Synergien und eine bessere Zusammenarbeit der Institute, der Bereiche Grundlagenforschung, Forschung-Entwicklung und Technologie- oder Wissenstransfer; sie zielen ferner auf die Methodologieentwicklung ab.
-
-<sup>5</sup> Die Programme entsprechen den Richtlinien und der vom Staatsrat für die Institutionen der tertiären Bildung beschlossenen Strategie.
-
-### 5. Abschnitt: Finanzielle Bestimmungen
+<sup>1</sup> Gegen Bussen, die gestützt auf das vorliegende Gesetz und gemäss Artikel 11 Absatz 3 EGStPO ausgesprochen wurden, kann beim Kantonsgericht Beschwerde eingereicht werden.
 
 #### Art. 22
 
-**Subventionen**
+**Beschwerde gegen die übrigen Entscheide**
 
-<sup>1</sup> Von Dritten geschaffene Institute (Stiftungen, Gesellschaften, Privatinstitute) können lediglich Subventionen beziehen, wenn sie vom Staat anerkannt sind, den Richtlinien des BFR entsprechen und die Rahmenbedingungen dieses Gesetzes erfüllen.
+<sup>1</sup> Mit Ausnahme der Bussen kann gegen die gestützt auf das vorliegende Gesetz getroffenen Entscheide beim Staatsrat Beschwerde eingereicht werden.
 
-<sup>2</sup> Die Institute planen ihre Tätigkeit in Form von Jahres- und Mehrjahresprogrammen. Der BFR unterbreitet Vorschläge für vorrangige Aktivitäten, die für einen Kantonszuschuss im Rahmen der budgetären Möglichkeiten geeignet erscheinen. Die vom Kanton anerkannten Forschungsinstitute werden auf dieser Grundlage subventioniert.
+<sup>2</sup> Die Entscheide des Staatsrats können an das Kantonsgericht weitergezogen werden.
 
-<sup>3</sup> Forschungsprogramme oder -projekte können dem BFR auch von anderen Gesuchstellern unterbreitet werden, insbesondere durch Forscher, welche diese selbstständig erarbeiten.
+<sup>3</sup> Das VVRG regelt die Verfahren.
 
-#### Art. 23
-
-**Finanzierung der Institute und finanzieller Beitrag des Staates**
-
-<sup>1</sup> Die Institute sind für ihre Finanzierung verantwortlich.
-
-<sup>2</sup> Der Staat kann subsidiär Finanzhilfe an Institute universitären Charakters leisten und zwar a) sowohl für Bildungs- als auch für Forschungsprogramme;
-
-- b) an Instituten einen pauschalen Beitrag gewähren; der BFR schlägt für die berücksichtigten Institute jeweils die Höhe der Finanzhilfe vor;
-
-- c) eine Ad-hoc-Unterstützung gewähren, um einer Institution den Zugang und die Beteiligung an einem auf kantonaler, nationaler oder europäischer Ebene koordinierten Programm zu erleichtern;
-
-- d) der Staat führt die vom Bund und den anderen Kantonen gewährten Finanzhilfen in vollem Umfang den Bezugsberechtigten zu.
-
-<sup>3</sup> Die Institute finanzieren sich zum Teil durch Dienstleistungen an Dritte.
-
-<sup>4</sup> Der Staat finanziert die Aktivitäten, die Mandate und die Partnerschaften im Rahmen des durch den Grossen Rat bewilligten Budgets. Es können auch Einzelvereinbarungen getroffen werden. Die Bestimmungen des Subventionsgesetzes finden Anwendung.
-
-#### Art. 24
-
-**Weitere finanzielle Beteiligung des Kantons**
-
-Der Kanton kann Organisationen unterstützen, die im Wallis einen Beitrag leisten an die Entwicklung von Hochschulaktivitäten, namentlich auf dem Sektor wissenschaftliche Dienstleistung, Fort- und Weiterbildung oder wissenschaftliche Veranstaltungen.
-
-#### Art. 25
-
-**Verwaltungs- und Finanzaufsicht**
-
-Dem Staat obliegt die Verwaltungs- und Finanzaufsicht anerkannter oder/und subventionierter Institutionen.
-
-### 6. Abschnitt: Schlussbestimmungen
-
-#### Art. 26
-
-**Nationale und europäische Normen**
-
-Vorliegendes Gesetz wird in Übereinstimmung mit den eidgenössischen Bestimmungen im Bereich der universitären Bildung oder Forschung sowie gemäss den schweizerischen Normen oder europäischen Standards angewandt.
-
-#### Art. 27
-
-**Rechtsschutz akademischer Titel**
-
-<sup>1</sup> Personen, denen ein akademischer Titel von einer universitären Institution verliehen wurde, kommen in den Genuss der damit verbundenen Rechte.
-
-<sup>2</sup> Ein unrechtmässig erworbener akademischer Titel wird durch die Instanz entzogen, die ihn verliehen hat.
-
-<sup>3</sup> Der Staat kann Bussen bis zu 10 000 Franken gegen jene verhängen, die a) ohne Genehmigung des zuständigen Departements oder des Staatsrates für eine Institution oder eine Tätigkeit einer Hochschule vorbehaltenen Bezeichnung, wie "universitäres Institut", "Fakultät", "Hochschule" oder jede andere gebräuchliche akademische Bezeichnung verwenden;
-
-- b) ohne Bewilligung des Departements oder des Staatsrates akademische Titel oder Grade verleihen;
-
-- c) sich zu Unrecht einen akademischen Titel zulegen.
-
-#### Art. 28
-
-**Rechtsmittel - Instanzen und Verfahren**
-
-<sup>1</sup> Gegen in Anwendung vorliegenden Gesetzes erlassene Verfügungen können beim Staatsrat Beschwerde eingereicht werden.
-
-<sup>2</sup> Die Verfügungen des Staatsrates können beim Kantonsgericht angefochten werden.
-
-<sup>3</sup> Das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege ist anwendbar.
-
-#### Art. 29
-
-**Ausführung des Gesetzes und Inkraftsetzung**
-
-<sup>1</sup> Der Staatsrat sorgt für die Anwendung des vorliegenden Gesetzes.
-
-<sup>2</sup> Das Gesetz unterliegt dem fakultativen Referendum.
-
-<sup>3</sup> Der Staatsrat bestimmt die Inkraftsetzung des Gesetzes<sup>1</sup> .
-
-So angenommen in zweiter Lesung im Grossen Rate, in Crans-Montana, am 2. Februar 2001.
-
-Der Präsident des Grossen Rates: Yves-Gérard Rebord Die Schriftführer: Hans-Peter Constantin, Madeleine Mayor
-
-<sup>1</sup> Inkrafttreten am 1. Juli 2001.
+CSW RO/AGS 2024-107
