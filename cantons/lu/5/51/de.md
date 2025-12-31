@@ -4,13 +4,12 @@ number: "51"
 title: Gesetz über das öffentlich-rechtliche Arbeitsverhältnis
 short: "Personalgesetz, PG"
 language: de
-version: 2021-09-01
-valid_until: 2025-12-31
-version_adopted: 2021-05-10
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2001-06-26
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/51"
-pdf: "https://srl.lu.ch/api/de/versions/3794/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4665/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3794/pdf_file"
 
 (Personalgesetz, PG)
 
-vom 26.06.2001 (Stand 01.09.2021)
+vom 26.06.2001 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -48,13 +47,16 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat kann durch Verordnung die Dienstverhältnisse für besondere Funktionen, insbesondere für Mitglieder von Kommissionen, für Angestellte im Nebenamt und für Arbeitsverhältnisse mit Ausbildungscharakter, abweichend von diesem Gesetz regeln.
 
-<sup>4</sup> Die übrigen Gemeinwesen gemäss § 2 Unterabsatz c können die Arbeitsverhältnisse ihrer Angestellten durch rechtsetzende Erlasse selbständig regeln. Diese Regel gilt nicht für die Lehrpersonen der Volksschulen und der Musikschulen sowie für die Fachpersonen der schulischen Dienste. Die §§ 65, 68 und 70 ff. (Rechtsschutz) sind für die Gemeinden und die Gemeindeverbände zwingend, soweit die öffentlich-rechtlichen Arbeitsverhältnisse nicht durch öffentlich-rechtlichen Vertrag geregelt werden.
+<sup>4</sup> Die übrigen Gemeinwesen gemäss § 2 Absatz 1c können die Arbeitsverhältnisse ihrer Angestellten durch rechtsetzende Erlasse abweichend von diesem Gesetz regeln. Ausgenommen sind die Arbeitsverhältnisse von Lehrpersonen der Volksschulen und der Musikschulen sowie von Fachpersonen der schulischen Dienste. Die §§ 8 Absatz 1 (Anstellung durch öffentlich-rechtlichen Vertrag), 65 und 68 (Verfahren) sowie 70 ff. (Rechtsschutz) sind für die Gemeinden und die Gemeindeverbände zwingend.
 
-<sup>5</sup> Soweit die übrigen Gemeinwesen keine selbständigen Regelungen treffen, gelten die Vorschriften dieses Gesetzes mit Ausnahme der §§ 3, 30a, 36, 42, 43, 59, 62, 63 und 69. Die §§ 31–35 und 60 sind sinngemäss anzuwenden. § 22 gilt nicht für die Mitglieder der obersten Verwaltungsbehörden der übrigen Gemeinwesen und der ihnen gleichgestellten Behörden und Kommissionen.
+<sup>4<sup>bis</sup></sup> Für die Arbeitsverhältnisse der Angestellten von öffentlich-rechtlichen rechtsfähigen Anstalten und Körperschaften, an denen der Kanton eine Mehrheitsbeteiligung hält, gelten die Vorschriften dieses Gesetzes. Öffentlich-rechtliche rechtsfähige Anstalten und Körperschaften, an denen der Kanton ohne Mehrheit beteiligt ist, können die Arbeitsverhältnisse selbständig regeln. Sie sind jedoch verpflichtet, das absolute Lohnminimum und das Lohnmaximum gemäss der Besoldungsordnung für das Staatspersonal vom 12. September 2011[^1-2] einzuhalten und ihre Angestellten bei der Luzerner Pensionskasse zu versichern.
 
-<sup>6</sup> Besondere rechtsetzende Bestimmungen über das öffentlich-rechtliche Arbeitsverhältnis, insbesondere jene des Spitalrechts und des Bildungsrechts, bleiben vorbehalten.
+<sup>5</sup> Soweit die übrigen Gemeinwesen keine abweichenden Regelungen treffen, gelten die Vorschriften dieses Gesetzes mit Ausnahme der §§ 3, 30a, 36, 37 Absatz 3, 42, 43, 59, 62, 63 und 69. Die §§ 31–35 und 60 sind sinngemäss anzuwenden. § 22 gilt nicht für die Mitglieder der obersten Verwaltungsbehörden der übrigen Gemeinwesen und der ihnen gleichgestellten Behörden und Kommissionen.
+
+<sup>6</sup> Besondere rechtsetzende Bestimmungen über das öffentlich-rechtliche Arbeitsverhältnis, insbesondere jene des Bildungsrechts, bleiben vorbehalten.
 
 [^1-1]: Gemäss Gesetz über die Schaffung des Kantonsgerichtes vom 14. Mai 2012, in Kraft seit dem 1. Juni 2013 (G 2012 189), wurden in den §§ 1, 67 und 75 die Bezeichnungen «Obergericht» und «Verwaltungsgericht» durch «Kantonsgericht» ersetzt.
+[^1-2]: SRL Nr. [73](https://srl.lu.ch/data/73/de)
 
 #### § 2
 
@@ -63,7 +65,7 @@ beschliesst:
 <sup>1</sup>
 
 - a. Angestellte sind Mitarbeiterinnen und Mitarbeiter, die in einem öffentlich-rechtlichen Arbeitsverhältnis eines Gemeinwesens stehen, eingeschlossen die Lehrpersonen und die Fachpersonen der schulischen Dienste sowie die von einem gesetzgebenden Organ auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter.
-- b. Wahl ist die Begründung eines öffentlich-rechtlichen Arbeitsverhältnisses.
+- b. …
 - c. Gemeinwesen sind der Kanton, die Gemeinden, die Gemeindeverbände und die Landeskirchen sowie deren öffentlich-rechtliche rechtsfähige Anstalten und Körperschaften.
 - d. Gesetzgebende Organe sind die Stimmberechtigten eines Gemeinwesens und deren parlamentarische Vertretung.
 - e. Personalrechtliche Entscheide sind Entscheide, die mit dem Arbeitsverhältnis zusammenhängen und die Rechtsstellung der Angestellten berühren.
@@ -133,11 +135,11 @@ beschliesst:
 
 **Begründung**
 
-<sup>1</sup> Das Arbeitsverhältnis wird durch Wahl und deren Annahme begründet.
+<sup>1</sup> Das Arbeitsverhältnis wird durch öffentlich-rechtlichen Vertrag begründet. Vorbehalten bleiben die in Gesetzen oder Verordnungen vorgesehenen Arbeitsverhältnisse, die durch Wahl begründet werden.
 
-<sup>2</sup> Es kann in besonderen Fällen mit öffentlich-rechtlichem Vertrag begründet werden. Dieser kann hinsichtlich des Besoldungsanspruchs, der Arbeitszeit, der Ferien, der beruflichen Vorsorge sowie der Beendigung des Arbeitsverhältnisses von diesem Gesetz abweichen.
+<sup>2</sup> In besonderen vom Regierungsrat bezeichneten Fällen kann im Vertrag hinsichtlich des Besoldungsanspruchs, der Arbeitszeit, der Ferien, der beruflichen Vorsorge sowie der Beendigung des Arbeitsverhältnisses von diesem Gesetz abgewichen werden.
 
-<sup>3</sup> Der Regierungsrat bezeichnet die Fälle, in denen ein Vertrag zulässig ist, und regelt das Anstellungsverfahren.
+<sup>3</sup> …
 
 ### 4.2 Dauer
 
@@ -167,15 +169,15 @@ beschliesst:
 
 **Wahl auf Amtsdauer**
 
-<sup>1</sup> Die von gesetzgebenden Organen gewählten Angestellten werden für eine Amtsdauer von vier Jahren gewählt.
+<sup>1</sup> Die von gesetzgebenden Organen gewählten Angestellten werden für eine Amtsdauer von vier Jahren gewählt. Es wird eine Wahlurkunde ausgestellt.
 
 ### 4.3 Massnahmen während der Dauer des Arbeitsverhältnisses
 
 #### § 12
 
-**Umgestaltung**
+**Einseitige Änderung des Arbeitsverhältnisses**
 
-<sup>1</sup> Eine Umgestaltung liegt vor, wenn wesentliche Bestandteile des Arbeitsverhältnisses verändert werden und diese Veränderung nicht im beidseitigen Einvernehmen erfolgt. Die Fristen und Termine gemäss § 16 sind einzuhalten.
+<sup>1</sup> Die zuständige Behörde kann wesentliche Bestandteile des Arbeitsverhältnisses einseitig durch Entscheid ändern, wenn die oder der Angestellte mit dieser Änderung nicht einverstanden ist. Die Fristen und Termine gemäss § 16 sind einzuhalten.
 
 <sup>2</sup> Wesentliche Bestandteile sind:
 
@@ -189,7 +191,7 @@ beschliesst:
 
 #### § 12a
 
-**Änderung wesentlicher Bestandteile des Arbeitsverhältnisses im gegenseitigen Einvernehmen**
+**Änderung des Arbeitsverhältnisses im gegenseitigen Einvernehmen**
 
 <sup>1</sup> Wesentliche Bestandteile des Arbeitsverhältnisses können im gegenseitigen Einvernehmen abweichend von den Bestimmungen dieses Gesetzes verändert werden.
 
@@ -222,7 +224,7 @@ beschliesst:
 <sup>1</sup> Das Arbeitsverhältnis endet durch
 
 - a. Kündigung,
-- b. Ablauf einer befristeten Anstellung ohne Kündigungsmöglichkeit,
+- b. Ablauf einer befristeten Anstellung,
 - c. fristlose Auflösung,
 - d. Auflösung im gegenseitigen Einvernehmen,
 - e. Auflösung infolge dauernder Arbeitsunfähigkeit,
@@ -250,7 +252,7 @@ beschliesst:
 
 **Form**
 
-<sup>1</sup> Das Arbeitsverhältnis endet formlos durch Zeitablauf, durch Entscheid oder durch schriftliche Kündigung der oder des Angestellten.
+<sup>1</sup> Das Arbeitsverhältnis endet formlos durch Zeitablauf oder schriftlich durch Vereinbarung, Entscheid der zuständigen Behörde oder Kündigung der oder des Angestellten.
 
 #### § 18
 
@@ -286,9 +288,9 @@ beschliesst:
 
 #### § 21
 
-**Auflösung oder Umgestaltung des Arbeitsverhältnisses infolge dauernder Arbeitsunfähigkeit**
+**Einseitige Änderung oder Auflösung des Arbeitsverhältnisses infolge dauernder Arbeitsunfähigkeit**
 
-<sup>1</sup> Ist die oder der Angestellte wegen Krankheit oder Unfall dauernd ausserstande, die Dienstpflichten voll zu erfüllen, wird das Arbeitsverhältnis unter Einhaltung der vorgeschriebenen Fristen und Termine aufgelöst oder umgestaltet.
+<sup>1</sup> Ist die oder der Angestellte wegen Krankheit oder Unfall dauernd ausserstande, die Dienstpflichten voll zu erfüllen, wird das Arbeitsverhältnis unter Einhaltung der vorgeschriebenen Fristen und Termine einseitig geändert oder aufgelöst.
 
 <sup>2</sup> Die volle oder teilweise Arbeitsunfähigkeit gilt als dauernd, wenn die zuständige Behörde, gestützt auf ein Gutachten der Vertrauensärztin oder des Vertrauensarztes des Gemeinwesens sie so beurteilt oder wenn sie länger als zwölf Monate dauert. Die zuständige Behörde kann die Frist in Ausnahmefällen verlängern.
 
@@ -353,6 +355,23 @@ beschliesst:
 
 <sup>6</sup> Angestellten, die während der Abfindungsdauer ein neues Erwerbseinkommen erzielen, welches bei der Festlegung der Abfindung noch nicht bekannt war, wird die Abfindung gekürzt. Der Regierungsrat regelt das Nähere.
 
+#### § 25a
+
+**Entschädigung bei rechtswidriger einseitiger Änderung oder Beendigung eines Arbeitsverhältnisses**
+
+<sup>1</sup> Erweist sich die einseitige Änderung oder die Beendigung eines Arbeitsverhältnisses als rechtswidrig, besteht Anspruch auf Entschädigung, nicht aber auf Weiterführung des bisherigen Arbeitsverhältnisses.
+
+<sup>2</sup> Die Entschädigung wird nach den Umständen des Einzelfalls festgelegt und beträgt höchstens einen Jahreslohn (13 Monatslöhne).
+
+<sup>3</sup> Bei der Bemessung der Entschädigung können insbesondere berücksichtigt werden:
+
+- a. der Grad der Rechtswidrigkeit,
+- b. der Anlass und das Vorgehen bei der Änderung oder der Beendigung des Arbeitsverhältnisses,
+- c. ein allfälliges Mitverschulden der oder des Angestellten,
+- d. die Dauer des Arbeitsverhältnisses,
+- e. das Alter der oder des Angestellten und
+- f. die wirtschaftlichen Folgen.
+
 #### § 26
 
 **Sozialplan**
@@ -366,6 +385,36 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat bestimmt den Umfang der Leistungen, die im Todesfall ausgerichtet werden.
 
 ## 5 Datenschutz
+
+#### § 27a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Personendaten von Angestellten sowie von Stellenbewerbenden dürfen nach den Vorschriften des kantonalen Gesetzes über den Schutz von Personendaten vom 2. Juli 1990[^27a-1] in Papierform und in Informationssystemen bearbeitet werden, wenn dies zur Erfüllung der Aufgaben nach diesem Gesetz notwendig ist, insbesondere für
+
+- a. die Rekrutierung von Angestellten,
+- b. die Begründung, Änderung und Beendigung von Arbeitsverhältnissen,
+- c die Verwaltung von Arbeitsverhältnissen.
+
+<sup>2</sup> Besonders schützenswerte Personendaten dürfen bearbeitet werden, wenn dies für die Erfüllung von Aufgaben nach Absatz 1 notwendig ist. Dazu gehören insbesondere
+
+- a. Daten über den Gesundheitszustand,
+- b. Daten aus vertrauensärztlichen Gutachten,
+- c. Daten aus einer Personenüberprüfung.
+
+<sup>3</sup> Bei der Bearbeitung von Daten in Informationssystemen sind die kantonalen Vorschriften über den Datenschutz sowie zur Informatik einzuhalten. Die Informationssysteme dürfen für eine personenbezogene Datenanalyse verwendet werden, wenn dies für die Erfüllung von Aufgaben nach Absatz 1 notwendig ist.
+
+<sup>4</sup> Personendaten von Stellenbewerbenden sind bei Nichtanstellung zu vernichten, wenn die betroffene Person der weiteren Aufbewahrung nicht zustimmt.
+
+<sup>5</sup> Der Regierungsrat regelt das Nähere.
+
+[^27a-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
+
+#### § 27b
+
+**Elektronische Zustellung von Daten**
+
+<sup>1</sup> Im Rahmen einer Anstellung dürfen Daten über gesicherte Informatikkanäle elektronisch zugestellt werden.
 
 #### § 28
 
@@ -453,13 +502,15 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat kann nicht lohnrelevante geldwerte Zusatzleistungen vorsehen.
 
-### 6.3 Sozialzulagen
+### 6.3 Finanzielle Unterstützung zur Vereinbarkeit von Beruf und Familie
 
 #### § 37
 
 <sup>1</sup> Die Angestellten haben Anspruch auf Geburts-, Kinder- und Ausbildungszulagen gemäss dem Gesetz über die Familienzulagen[^37-1].
 
 <sup>2</sup> Der Regierungsrat regelt eine besondere Sozialzulage.
+
+<sup>3</sup> Er kann zur finanziellen Unterstützung der Vereinbarkeit von Beruf und Familie einen Soziallohn und Betreuungsbeiträge vorsehen.
 
 [^37-1]: SRL Nr. [885](https://srl.lu.ch/data/885/de)
 
@@ -523,9 +574,11 @@ beschliesst:
 
 #### § 44
 
-**Verrechnung**
+**Rückforderung und Verrechnung**
 
-<sup>1</sup> Forderungen des Gemeinwesens oder der Pensionskasse, die mit dem Arbeitsverhältnis zusammenhängen, können mit Besoldungs- oder sonstigen Ansprüchen der Angestellten verrechnet werden, soweit sie pfändbar sind.
+<sup>1</sup> Das Gemeinwesen fordert zu Unrecht erbrachte finanzielle Leistungen im Zusammenhang mit einem Arbeitsverhältnis zurück.
+
+<sup>2</sup> Forderungen des Gemeinwesens oder der Pensionskasse, die mit dem Arbeitsverhältnis zusammenhängen, können mit Besoldungs- oder sonstigen Ansprüchen der Angestellten verrechnet werden, soweit sie pfändbar sind.
 
 #### § 45
 
@@ -645,6 +698,16 @@ beschliesst:
 
 <sup>1</sup> Die Angestellten können verpflichtet werden, sich einer vertrauensärztlichen Untersuchung zu unterziehen, wenn es zur Abklärung ihrer Arbeitsfähigkeit erforderlich ist.
 
+#### § 56a
+
+**Schadenminderungspflicht bei Arbeitsunfähigkeit**
+
+<sup>1</sup> Die Angestellten sind verpflichtet, bei Arbeitsunfähigkeit das ihnen Zumutbare vorzukehren, um die Wiederaufnahme der beruflichen Tätigkeit oder die Wiedereingliederung ins Erwerbsleben zu ermöglichen und damit zur Schadenminderung beizutragen.
+
+<sup>2</sup> Verletzt eine Angestellte oder ein Angestellter die Pflicht zur Schadenminderung, kann ihr oder ihm die Fortzahlung der Besoldung oder die Entschädigung bei dauernder Arbeitsunfähigkeit vorübergehend oder dauernd gekürzt oder verweigert werden. Zuständig für den Entscheid ist die Behörde gemäss § 67.
+
+<sup>3</sup> Vor einer Kürzung oder Verweigerung muss die oder der Angestellte schriftlich gemahnt und auf die Rechtsfolgen hingewiesen werden.
+
 ## 8 Verschiedene Bestimmungen
 
 ### 8.1 Arbeitszeit und Weiterbildung
@@ -737,7 +800,7 @@ beschliesst:
 - a. eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit und mit Sitz in Luzern,
 - b. eine selbständige, registrierte Vorsorgeeinrichtung im Sinn des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^63-1].
 
-<sup>2</sup> Die Luzerner Pensionskasse versichert die Angestellten des Kantons und seiner rechtsfähigen Anstalten und Körperschaften sowie die Lehrpersonen und Fachpersonen der schulischen Dienste der luzernischen Gemeinden im Sinn der beruflichen Vorsorge gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod.
+<sup>2</sup> Die Luzerner Pensionskasse versichert die Angestellten des Kantons und seiner öffentlich-rechtlichen rechtsfähigen Anstalten und Körperschaften sowie die Lehrpersonen und Fachpersonen der schulischen Dienste der luzernischen Gemeinden im Sinn der beruflichen Vorsorge gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod.
 
 Es gelten folgende Abweichungen:
 
@@ -748,10 +811,10 @@ Es gelten folgende Abweichungen:
 
 - a. ist das oberste Organ der Kasse und übt die Gesamtleitung aus,
 - b. erlässt die reglementarischen Kassenbestimmungen,
-- c. besteht aus zwölf Mitgliedern, von denen sechs als Arbeitnehmervertretung von der Mitgliederversammlung und sechs als Arbeitgebervertretung durch den Regierungsrat für je eine Amtsdauer gewählt werden,
+- c. besteht aus zwölf Mitgliedern, von denen sechs als Arbeitnehmervertretung von den aktiv Versicherten und sechs als Arbeitgebervertretung vom Regierungsrat für je eine Amtsdauer gewählt werden,
 - d. bestimmt das Präsidium für je eine Amtsdauer abwechslungsweise aus der Arbeitgeber- und aus der Arbeitnehmervertretung.
 
-<sup>4</sup> Der Regierungsrat instruiert die Arbeitgebervertretung.
+<sup>4</sup> …
 
 [^63-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
@@ -796,7 +859,7 @@ Es gelten folgende Abweichungen:
 
 <sup>1</sup> Auf Verfahren, die durch personalrechtliche Entscheide zu erledigen sind, ist das Gesetz über die Verwaltungsrechtspflege[^65-1] anzuwenden.
 
-<sup>2</sup> Die Angestellten sind vor Erlass eines sie belastenden Entscheids, insbesondere bei Kündigung und Umgestaltung des Arbeitsverhältnisses, nach entsprechender schriftlicher Orientierung mündlich oder schriftlich anzuhören.
+<sup>2</sup> Die Angestellten sind vor Erlass eines sie belastenden Entscheids, insbesondere bei einseitiger Änderung oder bei Kündigung des Arbeitsverhältnisses, nach entsprechender schriftlicher Orientierung mündlich oder schriftlich anzuhören.
 
 [^65-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de). Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
 
@@ -804,22 +867,24 @@ Es gelten folgende Abweichungen:
 
 #### § 66
 
-**Zuständige Behörde für die Wahl, die Beendigung und die Umgestaltung**
+**Zuständige Behörde für die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses**
 
-<sup>1</sup> Zuständig für die Wahl sowie für die Beendigung und die Umgestaltung des Arbeitsverhältnisses ist unter Vorbehalt abweichender Bestimmungen:
+<sup>1</sup> Zuständig für die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses sind unter Vorbehalt abweichender Bestimmungen:
 
-- a. der Regierungsrat für die durch Verordnung bezeichneten Angestellten, die Vorsteherin oder der Vorsteher der Dienststellen für die übrigen Angestellten,
+- a. der Regierungsrat für die durch Verordnung bezeichneten Angestellten, die Leiterin oder der Leiter für die Angestellten der Dienststelle,
 - b. das Kantonsgericht für seine Angestellten und für die Angestellten der dem Kantonsgericht unterstellten Gerichte und Organisationseinheiten; das Kantonsgericht legt durch Verordnung fest, welche personalrechtlichen Entscheide die ihm unterstellten Gerichte und Organisationseinheiten selber vornehmen,
-- c. die oberste Verwaltungsbehörde eines Gemeinwesens für ihre Angestellten und für die Angestellten ihrer öffentlich-rechtlichen rechtsfähigen Anstalten und Körperschaften,
-- d. die Schulleitung für die Lehrpersonen, die Fachpersonen der schulischen Dienste und der Tagesstrukturen an den öffentlichen Schulen der Gemeinden; die Bildungskommission oder der Gemeinderat für die Schulleitung der öffentlichen Schulen der Gemeinden; der Vorsteher oder die Vorsteherin der zuständigen Dienststelle beziehungsweise andere vom Regierungsrat bezeichnete Organe für die Lehrpersonen der öffentlichen Schulen des Kantons.
+- c. die obersten Verwaltungsbehörden der übrigen Gemeinwesen für ihre Angestellten und für die Angestellten ihrer öffentlich-rechtlichen rechtsfähigen Anstalten und Körperschaften,
+- d. die Schulleitung für die Lehrpersonen, die Fachpersonen der schulischen Dienste und der Tagesstrukturen an den öffentlichen Schulen der Gemeinden; die Bildungskommission oder der Gemeinderat für die Schulleitung der öffentlichen Schulen der Gemeinden; die Leiterin oder der Leiter der zuständigen Dienststelle beziehungsweise andere vom Regierungsrat bezeichnete Organe für die Lehrpersonen an den öffentlichen Schulen des Kantons.
+
+<sup>2</sup> Die Leiterin oder der Leiter der Dienststelle kann einer Abteilungsleiterin oder einem Abteilungsleiter die Begründung, die Änderung und die Beendigung von Arbeitsverhältnissen der Abteilung übertragen, wenn es organisatorisch zweckmässig ist.
 
 #### § 67
 
 **Zuständige Behörde für die übrigen personalrechtlichen Entscheide**
 
-<sup>1</sup> Die gemäss § 66 zuständige Behörde ist auch für die übrigen personalrechtlichen Entscheide zuständig.
+<sup>1</sup> Die gemäss § 66 zuständige Behörde ist auch für die übrigen personalrechtlichen Entscheide zuständig. Eine Übertragung der Zuständigkeit nach § 66 Absatz 2 ist möglich.
 
-<sup>2</sup> Wurde die oder der Angestellte durch den Regierungsrat gewählt, ist die Vorsteherin oder der Vorsteher des Departementes, dessen Dienstaufsicht die oder der Angestellte untersteht, für die übrigen personalrechtlichen Entscheide zuständig. Personalrechtliche Entscheide im Sinn von § 70 Absatz 1 erlässt der Regierungsrat.
+<sup>2</sup> Wurde die oder der Angestellte durch den Regierungsrat angestellt, ist die Vorsteherin oder der Vorsteher des Departementes, dessen Dienstaufsicht die oder der Angestellte untersteht, für die übrigen personalrechtlichen Entscheide zuständig. Personalrechtliche Entscheide im Sinn von § 70 Absatz 1 erlässt der Regierungsrat.
 
 <sup>3</sup> Wurde die oder der Angestellte von einem gesetzgebenden Organ gewählt, ist die oberste Dienstaufsichtsbehörde für die übrigen personalrechtlichen Entscheide zuständig. Ist der Regierungsrat oberste Dienstaufsichtsbehörde, gilt Absatz 2. Für die der Staatskanzlei administrativ zugeordneten Funktionen ist der Staatsschreiber oder die Staatsschreiberin zuständig. Für die dem Kantonsgericht unterstellten Gerichte und Organisationseinheiten gilt die Verordnung des Kantonsgerichtes.
 
@@ -843,11 +908,19 @@ Es gelten folgende Abweichungen:
 
 <sup>4</sup> Der Regierungsrat regelt das Nähere.
 
+#### § 69a
+
+**Schlichtungsstellen der übrigen Gemeinwesen**
+
+<sup>1</sup> Die übrigen Gemeinwesen können für sämtliche Streitigkeiten aus ihren Arbeitsverhältnissen eigene Schlichtungsstellen vorsehen.
+
+<sup>2</sup> Die Einleitung des Verfahrens vor einer Schlichtungsstelle nach Absatz 1 unterbricht allfällige Rechtsmittelfristen.
+
 #### § 70
 
 **Beschwerde gegen personalrechtliche Entscheide der Verwaltungsbehörden**
 
-<sup>1</sup> Personalrechtliche Entscheide, durch die ein Arbeitsverhältnis beendet oder umgestaltet wird, können mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden. Das Kantonsgericht prüft auch das Ermessen.
+<sup>1</sup> Personalrechtliche Entscheide, durch die ein Arbeitsverhältnis einseitig geändert oder beendet wird, können mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden. Das Kantonsgericht prüft auch das Ermessen.
 
 <sup>2</sup> Andere personalrechtliche Entscheide können beim Regierungsrat mit Verwaltungsbeschwerde angefochten werden. Der Beschwerdeentscheid ist mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht anfechtbar.
 
@@ -859,11 +932,11 @@ Es gelten folgende Abweichungen:
 
 #### § 72
 
-**Gerichtliche Entscheide über Beschwerden gegen die Umgestaltung oder die Beendigung des Arbeitsverhältnisses**
+**Gerichtliche Entscheide über Beschwerden gegen die einseitige Änderung oder die Beendigung des Arbeitsverhältnisses**
 
-<sup>1</sup> Hält eine gerichtliche Beschwerdeinstanz einen Entscheid über die Umgestaltung oder die Beendigung eines Arbeitsverhältnisses für rechtswidrig, erlässt sie einen entsprechenden Feststellungsentscheid.
+<sup>1</sup> Hält eine gerichtliche Beschwerdeinstanz einen Entscheid über die einseitige Änderung oder die Beendigung eines Arbeitsverhältnisses für rechtswidrig, erlässt sie einen entsprechenden Feststellungsentscheid und legt die durch das Gemeinwesen zu leistende Entschädigung gemäss § 25a fest.
 
-<sup>2</sup> Ändert die zuständige Behörde in der Folge ihren Entscheid nicht, hat die oder der Betroffene Anspruch auf Ersatz des entstandenen Schadens.
+<sup>2</sup> …
 
 <sup>3</sup> Vorbehalten bleibt die Nichtigkeit einer Beendigung zur Unzeit.
 
@@ -871,15 +944,17 @@ Es gelten folgende Abweichungen:
 
 **Aufschiebende Wirkung**
 
-<sup>1</sup> Beschwerden gegen die Umgestaltung oder Beendigung eines Arbeitsverhältnisses, die an eine gerichtliche Beschwerdeinstanz gerichtet sind, haben keine aufschiebende Wirkung.
+<sup>1</sup> Beschwerden gegen die einseitige Änderung oder gegen die Beendigung eines Arbeitsverhältnisses, die an eine gerichtliche Beschwerdeinstanz gerichtet sind, haben keine aufschiebende Wirkung.
 
 <sup>2</sup> Bei anderen Beschwerden sind die Vorschriften des Gesetzes über die Verwaltungsrechtspflege betreffend die aufschiebende Wirkung anzuwenden.
 
 #### § 74
 
-**Amtliche Kosten**
+**Amtliche Kosten und Vertretungskosten**
 
 <sup>1</sup> Die amtlichen Kosten werden in einem personalrechtlichen Beschwerdeverfahren um die Hälfte ermässigt.
+
+<sup>1<sup>bis</sup></sup> Im Beschwerdeverfahren nach § 70 Absatz 1 wird der obsiegenden Partei zulasten des Gemeinwesens, dem die Vorinstanz angehört, eine angemessene Vergütung für ihre Vertretungskosten zugesprochen.
 
 <sup>2</sup> Vorbehalten bleiben Fälle mutwilliger Beschwerdeführung.
 
@@ -887,7 +962,7 @@ Es gelten folgende Abweichungen:
 
 **Klage**
 
-<sup>1</sup> Im Klageverfahren beurteilt das Kantonsgericht Vermögensansprüche aus öffentlich-rechtlichen Arbeitsverhältnissen sowie Streitsachen aus öffentlichen Arbeitsverhältnissen, die mit öffentlich-rechtlichem Vertrag begründet worden sind.
+<sup>1</sup> Im Klageverfahren beurteilt das Kantonsgericht vermögensrechtliche Ansprüche aus öffentlich-rechtlichen Arbeitsverhältnissen.
 
 ## 10 Übergangs- und Schlussbestimmungen
 
@@ -960,9 +1035,7 @@ Es gelten folgende Abweichungen:
 
 #### § 80
 
-**Hängige Verfahren**
-
-<sup>1</sup> Für Verfahren, die bei Inkrafttreten dieses Gesetzes noch nicht durch rechtskräftigen Entscheid abgeschlossen sind, gelten in Bezug auf das Verfahren, die Zuständigkeit und den Rechtsschutz die bisherigen Bestimmungen.
+**…**
 
 #### § 81
 
@@ -978,15 +1051,23 @@ Es gelten folgende Abweichungen:
 
 <sup>1</sup> Die §§ 65–67 und 70–72c der Verordnung über die Luzerner Pensionskasse vom 11. Mai 1999[^81a-1] sind in den reglementarischen Kassenbestimmungen der Luzerner Pensionskasse solange unverändert weiterzuführen, wie Versicherte der Luzerner Pensionskasse noch Ansprüche daraus ableiten können.
 
-<sup>2</sup> Die bei Inkrafttreten der Änderung von § 63 Absatz 3c amtierenden Mitglieder des Vorstandes der Luzerner Pensionskasse sowie die bei Inkrafttreten der Änderung von § 63 Absatz 3d amtierende Präsidentin können ihre Funktionen bis zum Ablauf ihrer Amtsdauer am 30. Juni 2015 ausüben.
+<sup>2</sup> …
 
 [^81a-1]: SRL Nr. [131](https://srl.lu.ch/data/131/de)
 
 #### § 81b
 
-**Übergangsbestimmungen der Änderung vom 1. Dezember 2014**
+**…**
 
-<sup>1</sup> Die vor dem 1. Juli 2015 zugesprochenen Zulagen gemäss § 35 enden mit Ablauf ihrer Befristung, spätestens aber am 29. Februar 2016 beziehungsweise bei Lehrpersonen und Fachpersonen der schulischen Dienste am 31. Juli 2016.
+#### § 81c
+
+**Übergangsbestimmungen der Änderung vom 1. Januar 2026**
+
+<sup>1</sup> Für Anstellungsverhältnisse, die durch Wahl und deren Annahme begründet wurden, bleiben die bestehenden Wahlurkunden gültig. Die Überführung in einen öffentlich-rechtlichen Vertrag erfolgt bei einer allfälligen Anpassung des Anstellungsverhältnisses.
+
+<sup>2</sup> Öffentlich-rechtliche rechtsfähige Anstalten und Körperschaften, für die gemäss § 1 Absatz 4<sup>bis</sup> das Personalrecht neu vollumfänglich anwendbar ist, haben ihre Anstellungsverhältnisse bis am 1. Januar 2027 anzupassen.
+
+<sup>3</sup> Für Verfahren, die bei Inkrafttreten dieses Gesetzes noch nicht durch rechtskräftigen Entscheid abgeschlossen sind, gelten in Bezug auf das Verfahren, die Zuständigkeit und den Rechtsschutz die bisherigen Bestimmungen.
 
 #### § 82
 
