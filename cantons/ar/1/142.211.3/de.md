@@ -3,20 +3,19 @@ canton: AR
 number: "142.211.3"
 title: Weisungen über die Kriterien zur individuellen Lohnbestimmung für Lehrende an kantonalen Schulen
 language: de
-version: 2020-08-01
-valid_until: 2025-12-31
-version_adopted: 2020-03-03
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2010-05-26
 in_force: 2010-08-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.211.3"
-pdf: "https://ar.clex.ch/api/de/versions/1323/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1596/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Weisungen über die Kriterien zur individuellen Lohnbestimmung für Lehrende an kantonalen Schulen
 
-vom 26.05.2010 (Stand 01.08.2020)
+vom 26.05.2010 (Stand 01.01.2026)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -89,11 +88,9 @@ beschliesst:
 - a) im Rahmen des Mitarbeitendengesprächs die Leistungen als gut beurteilt worden sind;
 - b) aufgrund des Ergebnisses des Laufbahnqualifikationsverfahrens eine Beförderung erfolgt ist.
 
-<sup>2</sup> Lohnmassnahmen nach Abs. 1 können ausgesetzt werden, wenn der Regierungsrat im Rahmen der Gesamtsumme, die für Lohnerhöhungen oder -kürzungen zur Verfügung steht[^6-1], keinen Anteil für individuelle Lohnmassnahmen vorsieht.
+<sup>2</sup> Der Regierungsrat kann Lohnmassnahmen für alle Lehrpersonen an kantonalen Schulen aussetzen, wenn entsprechende Massnahmen für das gesamte Personal der kantonalen Verwaltung getroffen werden.
 
 <sup>3</sup> …
-
-[^6-1]: Art. 35 Abs. 2 Personalgesetz (PG; bGS [142.21](https://ar.clex.ch/data/142.21/de))
 
 #### Art. 7
 
