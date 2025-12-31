@@ -4,11 +4,11 @@ title: "Ordinanza del 2 dicembre 2005 sul personale impiegato per la promozione 
 short: OPers-PRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: it
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-764-20220101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2005-764-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/it"
 
 (OPers-PRA)
 
-del 2 dicembre 2005 (Stato 1° gennaio 2022)
+del 2 dicembre 2005 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,12 +25,12 @@ visto l’articolo 37 capoverso 1 della legge del 24 marzo 2000[^ingress-1] sul 
 
 ordina:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-4]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^ingress-5]: [[RU 1998 868](https://fedlex.data.admin.ch/eli/oc/1998/868_868_868), [2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294)all. n. 3. RU **2006** 2387 art. 20]. Vedi ora la LF del 30 set. 2016 sulla cooperazione con gli Stati dell’Europa dell’Est ([RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)).
-[^ingress-6]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-4]: [RS 974.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11701)
+[^ingress-5]: [[RU 1998 868](https://fedlex.data.admin.ch/eli/oc/1998/868_868_868); [2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294)all. n. 3. RU **2006** 2387 art. 20]
+[^ingress-6]: [RS 193.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5683)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -44,20 +44,20 @@ La presente ordinanza disciplina:
 - b.[^1-2] la preparazione degli impieghi nonché il reclutamento e la formazione del personale;
 - c. le competenze relative alla conclusione di convenzioni nel settore della promozione civile della pace, del rafforzamento dei diritti dell’uomo e dell’aiuto umanitario.
 
-[^1-1]: Nuovo testo giusta il n. I 1 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^1-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 2
 
 **Diritto applicabile**[^2-1]
 
-<sup>1</sup> Oltre alle presenti disposizioni si applicano per analogia gli articoli 3, 9, 25, 27, 29–31*a*, 35, 36, 38*a*, 44, 44*a*, 51, 51*a*, 56–60, 61–63, 77, 80, 88*a*, 88*b*, 91–103*a* e 113 dell’ordinanza del 3 luglio 2001[^2-2] sul personale federale (OPers).[^2-3]
+<sup>1</sup> Oltre alle presenti disposizioni si applicano per analogia gli articoli 3, 9, 25, 27, 29–31*a*, 35, 36, 38*a*, 44, 44*a*, 51, 51*a*, 56–60, 60*b*, 61−63, 77, 80, 88*a*, 88*b*, 91–103*a* e 113 dell’ordinanza del 3 luglio 2001[^2-2] sul personale federale (OPers).[^2-3]
 
 <sup>2</sup> Se il rapporto di lavoro del personale messo a disposizione è disciplinato da un’organizzazione internazionale o da terzi, il servizio competente precisa nel contratto di lavoro il diritto applicabile.
 
-[^2-1]: Nuovo testo giusta il n. II 4 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^2-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^2-3]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^2-1]: Nuovo testo giusta la cifra II n. 4 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^2-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^2-3]: Nuovo testo giusta la cifra III dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 3
 
@@ -84,10 +84,10 @@ I servizi competenti per decidere in qualità di datori di lavoro e assistere le
 
 <sup>2</sup> Il DFAE coordina le questioni di politica estera connesse con gli impieghi e partecipa al trattamento delle questioni relative alla situazione internazionale e al diritto internazionale.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
-[^4-2]: Abrogata dal n. I dell’O del 30 giu. 2010, con effetto dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^4-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^4-2]: Abrogata dalla cifra I dell’O del 30 giu. 2010, con effetto dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^4-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -112,12 +112,12 @@ I seguenti uffici sono autorizzati a concludere trattati internazionali in merit
 - e.[^6-7] ...
 
 [^6-1]: Nuovo testo giusta l’all. n. 5 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
-[^6-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2021.
-[^6-4]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
-[^6-5]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^6-6]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^6-7]: Abrogata dal n. I dell’O del 30 giu. 2010, con effetto dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
+[^6-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2021.
+[^6-4]: [RS 974.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11702)
+[^6-5]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6-6]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6-7]: Abrogata dalla cifra I dell’O del 30 giu. 2010, con effetto dal 15 lug. 2010 ([RU 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 
 ## Capitolo 2: Politica del personale
 
@@ -129,7 +129,7 @@ I seguenti uffici sono autorizzati a concludere trattati internazionali in merit
 
 <sup>2</sup> Può svolgere esami dell’idoneità.
 
-[^6a-1]: Introdotto dal n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 7
 
@@ -145,8 +145,8 @@ I seguenti uffici sono autorizzati a concludere trattati internazionali in merit
 
 <sup>5</sup> Il servizio competente determina l’ammontare dell’indennità per la formazione.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 8
 
@@ -160,14 +160,14 @@ Il servizio competente, in collaborazione con il DFAE, procura i documenti di vi
 
 Il conferimento di grado per la durata dell’impiego è retto dall’articolo 75 dell’ordinanza del 22 novembre 2017[^9-2] concernente l’obbligo di prestare servizio militare.
 
-[^9-1]: Nuovo testo giusta l’all. 7 n. II 1 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^9-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^9-1]: Nuovo testo giusta l’all. 7 cifra II n. 1 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^9-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogato dall’all. 8 n. II 3 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, con effetto dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^10-1]: Abrogato dall’all. 8 cifra II n. 3 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, con effetto dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 #### Art. 11
 
@@ -176,7 +176,7 @@ Il conferimento di grado per la durata dell’impiego è retto dall’articolo 7
 La persona in via d’assunzione deve compilare un questionario medico. Deve sottoporsi alle visite mediche e ai trattamenti profilattici e terapeutici ritenuti necessari dal servizio medico dell’Amministrazione federale[^11-1] o dal servizio competente per l’impiego.[^11-2]
 
 [^11-1]: Health & Medical Service (HMS)
-[^11-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 ## Capitolo 3: Inizio del rapporto di lavoro
 
@@ -196,7 +196,7 @@ La persona in via d’assunzione deve compilare un questionario medico. Deve sot
 
 <sup>2</sup> Se necessario all’adempimento di compiti di sovranità nazionale, il servizio competente può riservare l’assunzione alle persone di nazionalità svizzera.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 ## Capitolo 4: Prestazioni del datore di lavoro
 
@@ -214,8 +214,8 @@ La persona in via d’assunzione deve compilare un questionario medico. Deve sot
 
 <sup>4</sup> Per le persone impiegate a tempo determinato e a scopo di formazione, valgono le disposizioni del DFF per i praticanti.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2021 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^14-2]: Abrogato dal n. I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2021 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^14-2]: Abrogato dalla cifra I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 15
 
@@ -237,9 +237,9 @@ La persona in via d’assunzione deve compilare un questionario medico. Deve sot
 
 <sup>3</sup> Lo stipendio degli impiegati della Confederazione ai sensi dell’articolo 12 capoverso 2 viene aumentato conformemente al capoverso 2 solo se l’impiego si protrae oltre la fine dell’anno. L’aumento di stipendio ha effetto a partire dal 1° gennaio. Rimane salva l’approvazione del dipartimento da cui proviene l’impiegato.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^16-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^16-3]: Nuovo testo giusta il n. I 5 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^16-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^16-3]: Nuovo testo giusta la cifra I n. 5 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 ### Sezione 2: Supplementi di stipendio
 
@@ -263,8 +263,8 @@ La persona in via d’assunzione deve compilare un questionario medico. Deve sot
 
 <sup>4</sup> ... [^18-2]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^18-2]: Abrogato dal n. I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^18-2]: Abrogato dalla cifra I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 19
 
@@ -276,8 +276,8 @@ La persona in via d’assunzione deve compilare un questionario medico. Deve sot
 
 <sup>3</sup> ... [^19-2]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^19-2]: Abrogato dal n. I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^19-2]: Abrogato dalla cifra I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 20
 
@@ -285,8 +285,8 @@ La persona in via d’assunzione deve compilare un questionario medico. Deve sot
 
 Le indennità versate da un Paese, da un’organizzazione internazionale o da terzi devono essere comunicate senza indugio al servizio competente e vengono computate con quelle previste dalla presente ordinanza e dagli articoli 44, 51 e 51*a* OPers[^20-2].
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^20-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^20-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ### Sezione 3: Prestazioni sociali
 
@@ -302,8 +302,8 @@ Le indennità versate da un Paese, da un’organizzazione internazionale o da te
 
 <sup>4</sup> Le indennità versate da terzi ai sensi dell’articolo 20 non sono assicurate da PUBLICA.
 
-[^21-1]: Nuovo testo giusta il n. II 4 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^21-2]: [RS 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190)
+[^21-1]: Nuovo testo giusta la cifra II n. 4 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^21-2]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 
 #### Art. 22
 
@@ -313,8 +313,8 @@ Le indennità versate da un Paese, da un’organizzazione internazionale o da te
 
 <sup>2</sup> Il DFAE coordina, d’intesa con l’AFF, prestazioni complementari adeguate per i rischi relativi ai costi di cura, invalidità e morte non compresi nelle prestazioni dell’assicurazione militare.[^22-2]
 
-[^22-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^22-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^22-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 ### Sezione 4: Orario di lavoro, vacanze, congedi
 
@@ -341,7 +341,7 @@ Ogni anno civile il personale ha diritto a:
 
 <sup>4</sup> Le vacanze vanno prese nel periodo di validità del rapporto di lavoro e non vengono compensate con prestazioni in denaro o con altre agevolazioni. In casi debitamente motivati il servizio competente può autorizzare eccezioni.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 25
 
@@ -368,10 +368,10 @@ Il servizio competente assume i seguenti costi del viaggio di vacanza diretto:
 
 <sup>7</sup> Se il contratto di lavoro prevede espressamente il ricongiungimento familiare sul luogo d’impiego, il servizio competente può decidere di pagare, al posto di un viaggio di vacanza per la persona assunta, il viaggio di una persona di accompagnamento o di un figlio in visita nel luogo d’impiego. I costi del viaggio sono assunti nei limiti fissati ai capoversi 4 e 4<sup>bis</sup>.[^25-4]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^25-2]: Introdotto dal n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^25-3]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^25-4]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^25-2]: Introdotto dalla cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^25-3]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^25-4]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 26
 
@@ -381,7 +381,7 @@ Il personale ha diritto al massimo a:
 
 - a. due giorni lavorativi per fare e disfare i bagagli, sia all’inizio che al termine dell’impiego;
 - b.[^26-2] un giorno lavorativo per il proprio matrimonio, compreso il matrimonio civile, o per la registrazione dell’unione domestica;
-- c.[^26-3] dieci giorni lavorativi per la nascita di un figlio proprio (congedo parternità) oppure di quello del partner registrato; questi giorni devono essere presi di seguito o singolarmente, nei dodici mesi successivi alla nascita di uno o più figli;
+- c.[^26-3] ...
 - d.[^26-4] tre giorni lavorativi per organizzare la cura di familiari (coniuge, partner registrato, convivente, figli o genitori) colpiti inaspettatamente da una malattia grave o da un infortunio;
 - e.[^26-5] tre giorni lavorativi per il decesso di un familiare di cui alla lettera d;
 - f. fino a un giorno di lavoro per la partecipazione ai funerali di un altro parente o di terzi;
@@ -389,13 +389,13 @@ Il personale ha diritto al massimo a:
 - h.[^26-6] gli stessi giorni di congedo, per numero e frequenza, concessi sul luogo d’impiego dalle organizzazioni internazionali, allo scopo di riprendersi dal lavoro svolto in condizioni particolarmente difficili e gravose;
 - i.[^26-7] gli stessi giorni di congedo, per numero e frequenza, concessi sul luogo d’impiego dal servizio competente nel caso di impieghi bilaterali, allo scopo di riprendersi dal lavoro svolto in condizioni particolarmente difficili e gravose.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^26-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^26-3]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^26-4]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^26-5]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^26-6]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^26-7]: Introdotta dal n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^26-3]: Abrogata dalla cifra III dell’O del 3 set. 2025, con effetto dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^26-4]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^26-5]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^26-6]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^26-7]: Introdotta dalla cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 27
 
@@ -407,8 +407,8 @@ Il personale ha diritto al massimo a:
 
 <sup>3</sup> Per il calcolo dei costi di viaggio si applica per analogia l’articolo 25 capoverso 4.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 ### Sezione 5: Altre prestazioni del datore di lavoro
 
@@ -420,7 +420,7 @@ Il personale ha diritto al massimo a:
 
 <sup>2</sup> Esso organizza il trasporto e ne copre le spese effettive secondo l’allegato 1.[^28-1]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 29
 
@@ -432,8 +432,8 @@ Il personale ha diritto al massimo a:
 
 <sup>3</sup> Il servizio competente non assume costi di viaggio quando è data la possibilità di viaggiare gratuitamente.
 
-[^29-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
-[^29-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^29-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 30
 
@@ -447,7 +447,7 @@ Il personale ha diritto al massimo a:
 
 <sup>4</sup> I bagagli immediatamente necessari sul luogo d’impiego possono essere trasportati come bagaglio in eccedenza fino a un massimo di 50 kg.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 31
 
@@ -461,7 +461,7 @@ Il personale ha diritto al massimo a:
 
 <sup>4</sup> Il servizio competente non assume o assume solo una parte dei costi di vitto e alloggio delle persone assunte che prendono domicilio nel luogo d’impiego.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 32
 
@@ -469,7 +469,7 @@ Il personale ha diritto al massimo a:
 
 Per il rimborso dei costi dei viaggi di servizio ordinati del personale si applicano gli articoli 29 e 30 capoversi 1 e 2.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 33
 
@@ -479,9 +479,9 @@ Per il rimborso dei costi dei viaggi di servizio ordinati del personale si appli
 
 <sup>2</sup> Si applicano per analogia gli articoli 128 e 129 dell’ordinanza del DFAE del 20 settembre 2002[^33-3] concernente l’ordinanza sul personale federale (O-OPers-DFAE).
 
-[^33-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^33-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^33-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^33-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^33-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^33-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 #### Art. 34
 
@@ -499,8 +499,8 @@ Il servizio competente può rifondere un importo massimo di 450 franchi al mese 
 
 <sup>3</sup> Su richiesta il servizio competente può rifondere a chi esercita un’attività indipendente le spese comprovate derivanti dal mantenimento del proprio ufficio o studio durante il periodo d’impiego. Il servizio competente determina caso per caso il contributo mensile. Detto contributo non può superare i 6000 franchi al mese ed è concesso al massimo per un anno.[^35-2]
 
-[^35-1]: Abrogato dal n. III 2 dell’O del 2 dic. 2016 sul personale federale, con effetto dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^35-1]: Abrogato dalla cifra III n. 2 dell’O del 2 dic. 2016 sul personale federale, con effetto dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 36
 
@@ -516,8 +516,8 @@ Se un altro Paese, un’organizzazione internazionale o terzi assumono una parte
 
 La responsabilità per danni e quella penale sono rette dalla legge del 14 marzo 1958[^37-1] sulla responsabilità nonché, per le persone attive in un impiego militare, dalla legge militare del 3 febbraio 1995 e dal codice penale militare del 13 giugno 1927[^37-2].
 
-[^37-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^37-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^37-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^37-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 38
 
@@ -531,7 +531,7 @@ La responsabilità per danni e quella penale sono rette dalla legge del 14 marzo
 
 [^39-1]
 
-[^39-1]: Abrogato dal n. I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^39-1]: Abrogato dalla cifra I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 ## Capitolo 6: Disposizioni finali
 
@@ -561,7 +561,7 @@ L’ordinanza del 24 aprile 1996[^41-1] sull’impiego di personale in azioni di
 
 [^43-1]
 
-[^43-1]: Abrogato dal n. I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677))
+[^43-1]: Abrogato dalla cifra I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677))
 
 #### Art. 44
 
@@ -575,7 +575,7 @@ Allegato 1[^t-1]
 
 ## Trasporto di effetti personali\*
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 26 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 ### 1. Paese di provenienza o di domicilio\*\* – Paese d’impiego
 
@@ -607,4 +607,4 @@ Allegato 1[^t-1]
 
 Allegato 2[^t-2]
 
-[^t-2]: Abrogato dal n. II cpv. 2 dell’O del 26 ago. 2020, con effetto dal 1° ott. 2021 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^t-2]: Abrogato dalla cifra II cpv. 2 dell’O del 26 ago. 2020, con effetto dal 1° ott. 2021 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).

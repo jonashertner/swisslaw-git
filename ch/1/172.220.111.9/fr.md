@@ -4,11 +4,11 @@ title: "Ordonnance du 2 décembre 2005 sur le personnel affecté à la promotion
 short: OPers-PDHH
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: fr
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-764-20220101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-764-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/fr"
 
 (OPers-PDHH)
 
-du 2 décembre 2005 (État le 1<sup>er</sup> janvier 2022)
+du 2 décembre 2005 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,12 +25,12 @@ vu l’art. 37, al. 1, de la loi du 24 mars 2000 sur le personnel de la Conféd�
 
 arrête:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-4]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^ingress-5]: [[RO 1998 868](https://fedlex.data.admin.ch/eli/oc/1998/868_868_868), [2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294)annexe ch. 3. [RO 2007 2387](https://fedlex.data.admin.ch/eli/oc/2007/332)art. 20]. Voir actuellement la LF du 30 sept. 2016 sur la coopération avec les États d’Europe de l’Est ([RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)).
-[^ingress-6]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-4]: [RS 974.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11701)
+[^ingress-5]: [[RO 1998 868](https://fedlex.data.admin.ch/eli/oc/1998/868_868_868), [2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294)annexe ch. 3. [RO 2007 2387](https://fedlex.data.admin.ch/eli/oc/2007/332)art. 20].
+[^ingress-6]: [RS 193.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5683)
 
 ## Chapitre 1 Dispositions générales
 
@@ -51,13 +51,13 @@ La présente ordonnance règle:
 
 **Droit applicable**[^2-1]
 
-<sup>1</sup> Outre les dispositions de la présente ordonnance, les art. 3, 9, 25, 27, 29 à 31*a*, 35, 36, 38*a*, 44, 44*a*, 51, 51*a*, 56 à 60, 61 à 63, 77, 80, 88*a*, 88*b*, 91 à 103*a* et 113 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^2-2] sont applicables par analogie.[^2-3]
+<sup>1</sup> Outre les dispositions de la présente ordonnance, les art. 3, 9, 25, 27, 29 à 31*a*, 35, 36, 38*a*, 44, 44*a*, 51, 51*a*, 56 à 60, 60*b*, 61 à 63, 77, 80, 88*a*, 88*b*, 91 à 103*a* et 113 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^2-2] sont applicables par analogie.[^2-3]
 
 <sup>2</sup> Si une organisation internationale ou des tiers règlent les conditions de travail du personnel mis à disposition, l’autorité compétente détermine, dans le contrat de travail, le droit applicable.
 
 [^2-1]: Nouvelle teneur selon le ch. II 4 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^2-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^2-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^2-3]: Nouvelle teneur selon le ch. III de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 3
 
@@ -79,7 +79,7 @@ Les départements suivants désignent les autorités compétentes pour prendre l
 
 - a.[^4-1] le Département fédéral des affaires étrangères (DFAE): pour les engagements civils, y inclus les engagements de personnel policier, et la partie civile des engagements civilo-militaires;
 - b. le Département fédéral de la défense, de la protection de la population et des sports (DDPS): pour les engagements militaires et la partie militaire des engagements civilo-militaires, à l’exception des membres de l’armée engagés dans le service de promotion de la paix au sens de l’art. 65*a*, al. 1, de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire;
-- c.[^4-2] ...
+- c.[^4-2] …
 - d.[^4-3] le Département fédéral des finances (DFF), en accord avec le DFAE: pour les engagements du personnel de l’Office fédéral de la douane et de la sécurité des frontières[^4-4].
 
 <sup>2</sup> Le DFAE coordonne, pour chaque engagement, les aspects relevant de la politique extérieure et aide à traiter les questions relatives au droit international et au contexte international.
@@ -87,7 +87,7 @@ Les départements suivants désignent les autorités compétentes pour prendre l
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-2]: Abrogée par le ch. I de l’O du 30 juin 2010, avec effet au 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^4-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
 
@@ -109,12 +109,12 @@ Les offices suivants peuvent, chacun dans son domaine, conclure des traités int
 - b. la Direction du développement et de la coopération (DDC): en vertu de l’art. 21 de l’ordonnance du 12 décembre 1977 concernant la coopération au développement et l’aide humanitaire internationales[^6-4] et de l’art. 11 de l’arrêté fédéral du 24 décembre 1995 concernant la coopération avec les États d’Europe de l’Est;
 - c.[^6-5] le Groupement Défense et le domaine Politique de sécurité du DDPS: dans leurs domaines respectifs;
 - d.[^6-6] l’Office fédéral de la douane et de la sécurité des frontières du DFF: pour les engagements de son personnel;
-- e.[^6-7] ...
+- e.[^6-7] …
 
 [^6-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
-[^6-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2021 en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
-[^6-4]: [RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^6-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2021 en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
+[^6-4]: [RS 974.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11702)
 [^6-5]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^6-6]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^6-7]: Abrogée par le ch. I de l’O du 30 juin 2010, avec effet au 15 juil. 2010 ([RO 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
@@ -160,14 +160,14 @@ L’autorité compétente se charge, en collaboration avec le DFAE, de fournir l
 
 L’attribution d’un grade pour une durée limitée à celle de l’engagement est régie par l’art. 75 de l’ordonnance du 22 novembre 2017 sur les obligations militaires[^9-2].
 
-[^9-1]: Nouvelle teneur selon le ch. II 1 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations militaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^9-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^9-1]: Nouvelle teneur selon l’annexe 7 ch. II 1 de l’O du 22 nov. 2017 sur les obligations militaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^9-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogé par le ch. II 3 de l’annexe 8 à l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^10-1]: Abrogé par l’annexe 8 ch. II 3 de l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 #### Art. 11
 
@@ -210,7 +210,7 @@ La personne à engager doit remplir un questionnaire médical. Elle doit se fair
 
 <sup>2</sup> Le département compétent affecte chaque fonction à une classe de salaire. L’évaluation des fonctions de la classe de salaire 32 ou d’une classe supérieure est soumise à l’approbation du DFF.[^14-1]
 
-<sup>3</sup> ...[^14-2]
+<sup>3</sup> …[^14-2]
 
 <sup>4</sup> Les dispositions d’exécution sur les stagiaires du DFF sont applicables aux personnes qui sont engagées pour une durée déterminée et à des fins de formation.
 
@@ -238,7 +238,7 @@ La personne à engager doit remplir un questionnaire médical. Elle doit se fair
 <sup>3</sup> Pour les employés de la Confédération visés à l’art. 12, al. 2, une augmentation de salaire selon l’al. 2 n’est accordée que si l’engagement se prolonge au-delà de la nouvelle année. Elle prend effet au 1<sup>er</sup> janvier. L’accord du département auquel la personne est rattachée est réservé.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^16-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^16-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 [^16-3]: Nouvelle teneur selon le ch. I 5 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel fédéral, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 ### Section 2 Suppléments
@@ -261,7 +261,7 @@ La personne à engager doit remplir un questionnaire médical. Elle doit se fair
 
 <sup>3</sup> Le département compétent fixe, en coordination avec les autres départements, le montant de l’indemnité d’engagement. Celle-ci ne peut être supérieure à 900 francs par mois.[^18-1]
 
-<sup>4</sup> ...[^18-2]
+<sup>4</sup> …[^18-2]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^18-2]: Abrogé par le ch. I de l’O du 26 août 2020, avec effet au 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
@@ -274,7 +274,7 @@ La personne à engager doit remplir un questionnaire médical. Elle doit se fair
 
 <sup>2</sup> Le département compétent fixe, en coordination avec les autres départements, le montant de l’indemnité de risques. Celle-ci ne peut être supérieure à 900 francs par mois.[^19-1]
 
-<sup>3</sup> ...[^19-2]
+<sup>3</sup> …[^19-2]
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^19-2]: Abrogé par le ch. I de l’O du 26 août 2020, avec effet au 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
@@ -286,7 +286,7 @@ La personne à engager doit remplir un questionnaire médical. Elle doit se fair
 Si un État, une organisation internationale ou des tiers versent des indemnités, l’autorité compétente doit en être immédiatement avisée. Ces indemnités sont imputées sur les primes et allocations versées en vertu de la présente ordonnance et des art. 44, 51 et 51*a* de l’OPers[^20-2].
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^20-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^20-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ### Section 3 Prestations sociales
 
@@ -303,7 +303,7 @@ Si un État, une organisation internationale ou des tiers versent des indemnité
 <sup>4</sup> Les indemnités versées par des tiers selon l’art. 20 ne sont pas assurées par PUBLICA.
 
 [^21-1]: Nouvelle teneur selon le ch. II 4 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^21-2]: [RS 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190).
+[^21-2]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 [^21-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 22
@@ -314,7 +314,7 @@ Si un État, une organisation internationale ou des tiers versent des indemnité
 
 <sup>2</sup> Le DFAE coordonne, en accord avec l’AFF, les prestations complémentaires apropriées couvrant les frais médicaux, l’invalidité et le décès qui vont au-delà des prestations de l’assurance militaire.[^22-2]
 
-[^22-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^22-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^22-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 ### Section 4 Temps de travail, vacances, congés
@@ -382,7 +382,7 @@ La personne engagée a droit au maximum:
 
 - a. à 2 jours de travail à chaque fois pour faire et défaire ses bagages avant le début et à la fin de l’engagement;
 - b.[^26-2] à 1 jour de travail pour son mariage, mariage civil y compris, ou pour l’enregistrement de son partenariat;
-- c.[^26-3] à 10 jours de travail pour la naissance de son enfant (congé paternité) ou de l’enfant du partenaire enregistré; ce congé est à prendre en bloc ou séparément, durant les douze mois après la naissance d’un ou de plusieurs enfants;
+- c.[^26-3] …
 - d.[^26-4] à 3 jours de travail pour l’organisation des soins à donner à un membre de la famille tombé subitement gravement malade ou victime d’un accident (conjoint, partenaire enregistré, partenaire, enfant, père ou mère);
 - e.[^26-5] à 3 jours de travail en cas de décès d’un membre de la famille au sens de la let. d;
 - f. à jusqu’à 1 jour de travail pour assister aux obsèques d’un autre parent ou d’un tiers;
@@ -392,7 +392,7 @@ La personne engagée a droit au maximum:
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^26-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^26-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^26-3]: Abrogée par le ch. III de l’O du 3 sept. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^26-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^26-5]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^26-6]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
@@ -433,7 +433,7 @@ La personne engagée a droit au maximum:
 
 <sup>3</sup> L’autorité compétente n’assume pas les frais de voyage s’il existe une possibilité de transport gratuit.
 
-[^29-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^29-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 [^29-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 30
@@ -480,9 +480,9 @@ Le remboursement des frais des voyages de service du personnel qui ont été ord
 
 <sup>2</sup> Les art. 128 et 129 de l’ordonnance du DFAE du 20 septembre 2002 concernant l’ordonnance sur le personnel de la Confédération (OPers-DFAE)[^33-3] sont applicables par analogie.
 
-[^33-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^33-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1631](https://fedlex.data.admin.ch/eli/oc/2013/379)).
-[^33-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^33-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 #### Art. 34
 
@@ -496,7 +496,7 @@ L’autorité compétente peut rembourser les frais accessoires jusqu’à un mo
 
 <sup>1</sup> Si, lors d’un engagement, des effets personnels sont endommagés, volés ou perdus sans qu’il y ait faute de la personne engagée, une indemnité de 5000 francs au maximum peut lui être accordée dans la mesure où le dommage n’est pas couvert par l’assurance militaire, une assurance privée, ni une tiers personne responsable.
 
-<sup>2</sup> ...[^35-1]
+<sup>2</sup> …[^35-1]
 
 <sup>3</sup> L’autorité compétente peut, sur demande, verser aux indépendants une indemnité pour les frais de bureaux ou de cabinet qui continuent à courir pendant leur engagement s’ils sont dûment attestés. Elle en fixe, dans le cas d’espèce, le montant mensuel. Celui-ci ne peut être supérieur à 6000 francs et n’est versé que pendant une année.[^35-2]
 
@@ -517,8 +517,8 @@ Si un autre État, une organisation internationale ou des tiers prennent en char
 
 La responsabilité découlant d’un dommage et la responsabilité pénale sont régies, pour le personnel engagé dans des actions militaires, par la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire et par le code pénal militaire du 13 juin 1927[^37-1]; pour tous les autres engagements, elles sont régies par la loi du 14 mars 1958 sur la responsabilité[^37-2].
 
-[^37-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^37-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^37-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^37-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 38
 
@@ -554,7 +554,7 @@ L’ordonnance du 24 avril 1996 sur l’engagement de personnel dans des actions
 
 **Modification du droit en vigueur**
 
-...[^42-1]
+…[^42-1]
 
 [^42-1]: Les mod. peuvent être consultées au [RO 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764).
 

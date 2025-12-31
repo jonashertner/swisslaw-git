@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Dezember 2005 über das Personal für die Friedensför
 short: PVFMH
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: de
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-764-20220101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2005-764-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20220101/de"
 
 (PVFMH)
 
-vom 2. Dezember 2005 (Stand am 1. Januar 2022)
+vom 2. Dezember 2005 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,12 +25,12 @@ gestützt auf Artikel 37 Absatz 1 des Bundespersonalgesetzes vom 24. März 2000[
 
 verordnet:
 
-[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-4]: [SR 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^ingress-5]: [[AS 1998 868](https://fedlex.data.admin.ch/eli/oc/1998/868_868_868), [2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294)Anhang Ziff. 3. [AS 2007 2387](https://fedlex.data.admin.ch/eli/oc/2007/332)Art. 20]. Siehe heute: das BG vom 30. Sept 2016 ([SR 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)).
-[^ingress-6]: [SR 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-4]: [SR 974.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11701)
+[^ingress-5]: [[AS 1998 868](https://fedlex.data.admin.ch/eli/oc/1998/868_868_868), [2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294)Anhang Ziff. 3. [AS 2007 2387](https://fedlex.data.admin.ch/eli/oc/2007/332)Art. 20].
+[^ingress-6]: [SR 193.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5683)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -51,13 +51,13 @@ Diese Verordnung regelt:
 
 **Anwendbares Recht**[^2-1]
 
-<sup>1</sup> Zusätzlich zu dieser Verordnung gelten sinngemäss die Artikel 3, 9, 25, 27, 29–31*a*, 35, 36, 38*a*, 44, 44*a*, 51, 51*a*, 56–60, 61−63, 77, 80, 88*a*, 88*b*, 91–103*a* und 113 der Bundespersonalverordnung vom 3. Juli 2001[^2-2] (BPV).[^2-3]
+<sup>1</sup> Zusätzlich zu dieser Verordnung gelten sinngemäss die Artikel 3, 9, 25, 27, 29–31*a*, 35, 36, 38*a*, 44, 44*a*, 51, 51*a*, 56–60, 60*b*, 61−63, 77, 80, 88*a*, 88*b*, 91–103*a* und 113 der Bundespersonalverordnung vom 3. Juli 2001[^2-2] (BPV).[^2-3]
 
 <sup>2</sup> Regeln eine Internationale Organisation oder Dritte das Arbeitsverhältnis, so legt die zuständige Stelle das anwendbare Recht im Arbeitsvertrag fest.
 
 [^2-1]: Fassung gemäss Ziff. II 4 der V vom 21. Mai 2008 über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA, in Kraft seit 1. Juli 2008 ([AS 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^2-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^2-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^2-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^2-3]: Fassung gemäss Ziff. III der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 3
 
@@ -87,7 +87,7 @@ Die folgenden Departemente bezeichnen die zuständigen Stellen für die Arbeitge
 [^4-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-2]: Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^4-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^4-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 5
 
@@ -113,8 +113,8 @@ Die folgenden Ämter können je in ihren Bereichen über technische und administ
 
 [^6-1]: Fassung gemäss Anhang Ziff. 5 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
-[^6-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2021 angepasst.
-[^6-4]: [SR 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+[^6-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2021 angepasst.
+[^6-4]: [SR 974.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11702)
 [^6-5]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^6-6]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^6-7]: Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 15. Juli 2010 ([AS 2010 2945](https://fedlex.data.admin.ch/eli/oc/2010/389)).
@@ -161,7 +161,7 @@ Die zuständige Stelle ist in Zusammenarbeit mit dem EDA für die Beschaffung de
 Die befristete Verleihung eines Grades für die Dauer des Einsatzes richtet sich nach Artikel 75 der Verordnung vom 22. November 2017[^9-2] über die Militärdienstpflicht.
 
 [^9-1]: Fassung gemäss Anhang 7 Ziff. II 1 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^9-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^9-2]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 10
 
@@ -238,7 +238,7 @@ Eine anzustellende Person muss ein medizinisches Frageblatt ausfüllen. Sie muss
 <sup>3</sup> Angestellte des Bundes nach Artikel 12 Absatz 2 erhalten eine Lohnerhöhung nach Absatz 2 nur dann, wenn sich der Einsatz über den Jahreswechsel erstreckt. Die Lohnerhöhung wird auf den 1. Januar wirksam. Vorbehalten bleibt die Zustimmung des Stammdepartements.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^16-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^16-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 [^16-3]: Fassung gemäss Ziff. I 5 der V über Optimierungen im Lohnsystem des Bundespersonals vom 5. Nov. 2008, in Kraft seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 ### 2. Abschnitt: Zulagen zum Lohn
@@ -286,7 +286,7 @@ Eine anzustellende Person muss ein medizinisches Frageblatt ausfüllen. Sie muss
 Bezahlen ein Staat, eine internationale Organisation oder Dritte Zulagen, so muss dies der zuständigen Stelle unverzüglich gemeldet werden. Solche anderweitigen Zulagen werden an die Zulagen nach dieser Verordnung und nach den Artikeln 44, 51 und 51*a* BPV[^20-2] angerechnet.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^20-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^20-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ### 3. Abschnitt: Sozialleistungen
 
@@ -303,7 +303,7 @@ Bezahlen ein Staat, eine internationale Organisation oder Dritte Zulagen, so mus
 <sup>4</sup> Zulagen Dritter nach Artikel 20 sind nicht bei PUBLICA versichert.
 
 [^21-1]: Fassung gemäss Ziff. II 4 der V vom 21. Mai 2008 über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA, in Kraft seit 1. Juli 2008 ([AS 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
-[^21-2]: [SR 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190)
+[^21-2]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 [^21-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^21-4]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
@@ -315,7 +315,7 @@ Bezahlen ein Staat, eine internationale Organisation oder Dritte Zulagen, so mus
 
 <sup>2</sup> Das EDA koordiniert im Einvernehmen mit der EFV angemessene Zusatzleistungen für die Risiken Heilungskosten, Invalidität und Tod, die über diejenigen der Militärversicherung hinausgehen.[^22-2]
 
-[^22-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^22-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^22-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 ### 4. Abschnitt: Arbeitszeit, Ferien, Urlaub
@@ -383,7 +383,7 @@ Das Personal hat Anspruch auf höchstens:
 
 - a. je zwei Arbeitstage für das Ein- und Auspacken vor Beginn und am Ende des Einsatzes;
 - b.[^26-2] einen Arbeitstag bei der Heirat, einschliesslich der zivilen Trauung, oder bei der Eintragung der Partnerschaft;
-- c.[^26-3] zehn Arbeitstage bei der Geburt eines eigenen Kindes (Vaterschaftsurlaub) oder desjenigen des eingetragenen Partners oder der eingetragenen Partnerin; diese sind in den ersten zwölf Monaten nach der Geburt eines oder mehrerer Kinder einzeln oder zusammen zu beziehen;
+- c.[^26-3] …
 - d.[^26-4] drei Arbeitstage für die Organisation der Pflege von unerwartet schwer erkrankten oder von verunfallten Familienangehörigen (Ehegatte, Ehegattin, eingetragener Partner, eingetragene Partnerin, Lebenspartner, Lebenspartnerin, Kinder oder ein Elternteil);
 - e.[^26-5] drei Arbeitstage beim Tod eines oder einer Familienangehörigen nach Buchstabe d;
 - f. einen Arbeitstag beim Tod anderer Verwandten oder von Dritten zur Teilnahme an der Trauerfeier;
@@ -393,7 +393,7 @@ Das Personal hat Anspruch auf höchstens:
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^26-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
-[^26-3]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^26-3]: Aufgehoben durch Ziff. III der V vom 3. Sept. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^26-4]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^26-5]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 [^26-6]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
@@ -434,7 +434,7 @@ Das Personal hat Anspruch auf höchstens:
 
 <sup>3</sup> Die zuständige Stelle übernimmt keine Reisekosten, wenn eine kostenlose Transportmöglichkeit zur Verfügung steht.
 
-[^29-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^29-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 [^29-2]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 30
@@ -481,9 +481,9 @@ Für die Übernahme der Kosten von angeordneten Dienstreisen des Personals gelte
 
 <sup>2</sup> Die Artikel 128 und 129 der Verordnung des EDA vom 20. September 2002[^33-3] zur Bundespersonalverordnung (VBPV-EDA) gelten sinngemäss.
 
-[^33-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^33-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 [^33-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1631](https://fedlex.data.admin.ch/eli/oc/2013/379)).
-[^33-3]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^33-3]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 #### Art. 34
 
@@ -518,8 +518,8 @@ Die zuständige Stelle kann Nebenkosten bis zum Höchstbetrag von 450 Franken pr
 
 Die Haftung für Schäden und die strafrechtliche Verantwortlichkeit richten sich für Personen in militärischen Einsätzen nach dem Militärgesetz vom 3. Februar 1995 und dem Militärstrafgesetz vom 13. Juni 1927[^37-1], in den andern Einsätzen nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^37-2].
 
-[^37-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^37-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^37-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^37-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 38
 
