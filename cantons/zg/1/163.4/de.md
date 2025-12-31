@@ -4,13 +4,12 @@ number: "163.4"
 title: Verordnung über den Anwaltstarif
 short: AnwT
 language: de
-version: 2012-01-01
-valid_until: 2025-12-31
-version_adopted: 2012-01-16
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 1996-12-03
 in_force: 1997-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/163.4"
-pdf: "https://bgs.zg.ch/api/de/versions/885/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2964/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/885/pdf_file"
 
 (AnwT)
 
-Vom 3. Dezember 1996 (Stand 1. Januar 2012)
+Vom 3. Dezember 1996 (Stand 1. Januar 2026)
 
 Das Obergericht des Kantons Zug,
 
@@ -40,7 +39,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt:
 
-- 1\. Die von den Justizbehörden festzulegenden Honorare für die Parteivertretung durch Rechtsanwälte und Rechtsanwältinnen vor den Zivil- und Strafgerichten, Schlichtungs-, Strafverfolgungs- und Justizverwaltungsbehörden des Kantons Zug;
+- 1\. die von den Justizbehörden festzulegenden Honorare für die Parteivertretung durch Rechtsanwälte und Rechtsanwältinnen vor den Zivil- und Strafgerichten, Schlichtungs-, Strafverfolgungs- und Justizverwaltungsbehörden des Kantons Zug;
 - 2\. die Gebühr der zur öffentlichen Beurkundung ermächtigten Rechtsanwälte und Rechtsanwältinnen für deren Tätigkeit als Urkundspersonen.
 
 <sup>2</sup> Die Bestimmungen über die Honorare gemäss Abs. 1 Ziff. 1 gelten auch für das interne Verhältnis zwischen Rechtsanwalt bzw. Rechtsanwältin und Klientschaft, sofern nichts anderes vereinbart ist.
@@ -49,7 +48,7 @@ beschliesst:
 
 **Anwendungsregel**
 
-<sup>1</sup> Innerhalb der in diesem Tarif festgelegten Grenzen sind die Honorare bzw. Gebühren nach der Schwierigkeit des Falles sowie nach dem Umfang und der Art der angemessenen Bemühungen festzulegen.
+<sup>1</sup> Innerhalb der in diesem Tarif festgelegten Grenzen sind die Honorare bzw. Gebühren nach der Schwierigkeit des Falls sowie nach dem Umfang und der Art der angemessenen Bemühungen festzulegen.
 
 ## 2. Honorar in Zivilsachen
 
@@ -61,35 +60,37 @@ beschliesst:
 
 <table>
 <tr><th>Streitwert (in Franken)</th><th>Honorar (in Franken)</th></tr>
-<tr><td>bis 5 000</td><td>25 % des Streitwertes, mindestens Franken 200</td></tr>
-<tr><td>ab 5 000</td><td>1 250 zuzügl. 23 % des Fr. 5 000 übersteigenden Streitwertes</td></tr>
-<tr><td>ab 10 000</td><td>2 400 zuzügl. 15 % des Fr. 10 000 übersteigenden Streitwertes</td></tr>
-<tr><td>ab 20 000</td><td>3 900 zuzügl. 11 % des Fr. 20 000 übersteigenden Streitwertes</td></tr>
-<tr><td>ab 40 000</td><td>6 100 zuzügl. 9 % des Fr. 40 000 übersteigenden Streitwertes</td></tr>
-<tr><td>ab 80 000</td><td>9 700 zuzügl. 6 % des Fr. 80 000 übersteigenden Streitwertes</td></tr>
-<tr><td>ab 160 000</td><td>14 500 zuzügl. 3,5 % des Fr. 160 000 übersteigenden Streitwertes</td></tr>
-<tr><td>ab 300 000</td><td>19 400 zuzügl. 2 % des Fr. 300 000 übersteigenden Streitwertes</td></tr>
-<tr><td>ab 600 000</td><td>25 400 zuzügl. 1,5 % des Fr. 600 000 übersteigenden Streitwertes</td></tr>
-<tr><td>ab 1 Mio.</td><td>31 400 zuzügl. 1 % des Fr. 1 Mio. übersteigenden Streitwertes</td></tr>
-<tr><td>ab 4 Mio.</td><td>61 400 zuzügl. 0,75 % des Fr. 4 Mio. übersteigenden Streitwertes</td></tr>
-<tr><td>ab 10 Mio.</td><td>106 400 zuzügl. 0,5 % des Fr. 10 Mio. übersteigenden Streitwertes</td></tr>
+<tr><td>bis 5000</td><td>25 % des Streitwerts, mindestens 200</td></tr>
+<tr><td>ab 5000</td><td>1250 zzgl. 23 % des 5000 übersteigenden Streitwerts</td></tr>
+<tr><td>ab 10'000</td><td>2400 zzgl. 15 % des 10'000 übersteigenden Streitwerts</td></tr>
+<tr><td>ab 20'000</td><td>3900 zzgl. 11 % des 20'000 übersteigenden Streitwerts</td></tr>
+<tr><td>ab 40'000</td><td>6100 zzgl. 9 % des 40'000 übersteigenden Streitwerts</td></tr>
+<tr><td>ab 80'000</td><td>9700 zzgl. 6 % des 80'000 übersteigenden Streitwerts</td></tr>
+<tr><td>ab 160'000</td><td>14'500 zzgl. 3,5 % des 160'000 übersteigenden Streitwerts</td></tr>
+<tr><td>ab 300'000</td><td>19'400 zzgl. 2 % des 300'000 übersteigenden Streitwerts</td></tr>
+<tr><td>ab 600'000</td><td>25'400 zzgl. 1,5 % des 600'000 übersteigenden Streitwerts</td></tr>
+<tr><td>ab 1 Mio.</td><td>31'400 zzgl. 1 % des 1 Mio. übersteigenden Streitwerts</td></tr>
+<tr><td>ab 4 Mio.</td><td>61'400 zzgl. 0,75 % des 4 Mio. übersteigenden Streitwerts</td></tr>
+<tr><td>ab 10 Mio.</td><td>106'400 zzgl. 0,5 % des 10 Mio. übersteigenden Streitwerts</td></tr>
 </table>
 
-<sup>2</sup> Der Betrag einer Widerklage wird bei der Berechnung des Streitwertes im Sinne von Abs. 1 zum Betrag der Hauptklage hinzugerechnet, sofern sich Klage und Widerklage nicht gegenseitig ausschliessen.
+<sup>2</sup> Der Streitwert gemäss Abs. 1 wird nach Art. 91 – 94 ZPO bestimmt.
 
-<sup>3</sup> Zur Berücksichtigung der besonderen Umstände des einzelnen Falles, namentlich der Verantwortung des Rechtsanwaltes oder der Rechtsanwältin, der Schwierigkeit des Falles und des notwendigen Zeitaufwandes, können diese Ansätze um höchstens einen Drittel über- oder unterschritten werden.
+<sup>3</sup> Zur Berücksichtigung der besonderen Umstände des einzelnen Falls, namentlich der Verantwortung des Rechtsanwalts oder der Rechtsanwältin, der Schwierigkeit des Falls und des notwendigen Zeitaufwands, können diese Ansätze um höchstens einen Drittel über- oder unterschritten werden.
 
-<sup>4</sup> Sind periodisch wiederkehrende Leistungen, namentlich Unterhaltsbeiträge, im Streit, so kann das gemäss § 3 Abs. 1 und 2 berechnete Honorar bis auf die Hälfte ermässigt werden. Für die Berechnung des Streitwertes gelten die Bestimmungen der Zivilprozessordnung.
+<sup>4</sup> Sind periodisch wiederkehrende Leistungen im Streit, so kann das gemäss Abs. 1 und 2 berechnete Honorar bis auf die Hälfte ermässigt werden. Ausgenommen sind familienrechtliche Verfahren nach § 4.
 
-<sup>5</sup> Missverhältnisse zwischen Streitwert und Interesse der Parteien oder Bemühungen des Rechtsanwaltes bzw. der Rechtsanwältin sind entsprechend durch Erhöhung bzw. Herabsetzung des Honorars zu berücksichtigen.
+<sup>5</sup> Missverhältnisse zwischen Streitwert und Interesse der Parteien oder Bemühungen des Rechtsanwalts bzw. der Rechtsanwältin sind entsprechend durch Erhöhung bzw. Herabsetzung des Honorars zu berücksichtigen.
 
 #### § 4
 
-**Grundhonorar bei nicht vermögensrechtlichen Streitigkeiten**
+**Grundhonorar bei nicht vermögensrechtlichen Streitigkeiten und in familienrechtlichen Verfahren**
 
-<sup>1</sup> Stehen keine vermögensrechtlichen Interessen im Streit, so ist das Grundhonorar unter Berücksichtigung der Verantwortung, der Schwierigkeit des Falles und des notwendigen Zeitaufwandes zu berechnen. Es beträgt in der Regel Fr. 1 000.– bis Fr. 15 000.–.
+<sup>1</sup> Bei nicht vermögensrechtlichen Streitigkeiten und in den Verfahren nach Art. 271 – 307a ZPO ist das Grundhonorar unter Berücksichtigung der Verantwortung des Rechtsanwalts oder der Rechtsanwältin, der Schwierigkeit des Falls und des notwendigen Zeitaufwands zu berechnen. Es beträgt in der Regel Franken 1000 bis 18'000.
 
-<sup>2</sup> Das Grundhonorar kann im Rahmen von § 3 entsprechend erhöht werden, wenn zusätzlich vermögensrechtliche Ansprüche von mehr als Fr. 300 000.– streitig sind und diese einen aufwändigen Streitgegenstand bilden. Eine angemessene Erhöhung über den Höchstbetrag von Fr. 15 000.– hinaus kann auch dann erfolgen, wenn in einer unter Mitwirkung des Rechtsanwaltes bzw. der Rechtsanwältin vor Hängigkeit des Prozesses zustande gekommenen und dem Gericht zur Genehmigung vorgelegten Scheidungskonvention hohe und komplizierte vermögensrechtliche Ansprüche zu regeln waren.
+<sup>2</sup> Werden in Scheidungsverfahren güterrechtliche Ansprüche oder in Verfahren zur Auflösung und zur Ungültigerklärung der eingetragenen Partnerschaft vermögensrechtliche Ansprüche geltend gemacht, kann das Grundhonorar gemäss Abs. 1 nach den Regeln von § 3 angemessen erhöht werden.
+
+<sup>3</sup> Eine angemessene Erhöhung über den Höchstbetrag von Franken 18'000 hinaus kann auch dann erfolgen, wenn dem Gericht eine Scheidungskonvention oder eine Vereinbarung über die Auflösung der eingetragenen Partnerschaft vorgelegt wird, die unter Mitwirkung eines Rechtsanwalts oder einer Rechtsanwältin vor der Hängigkeit des Prozesses zustande gekommen ist und hohe sowie komplizierte vermögensrechtliche Ansprüche regelt.
 
 #### § 5
 
@@ -99,7 +100,7 @@ beschliesst:
 
 - 1\. Wenn das Hauptverfahren mehrere Verhandlungen erforderte: für jede weitere Verhandlung;
 - 2\. wenn nach der Einreichung der Klageantwort ein weiterer Schriftenwechsel stattfand: für jede zusätzliche Rechtsschrift;
-- 3\. in Rechnungsprozessen, Prozessen mit unverhältnismässig grossem oder fremdsprachigem Aktenmaterial, mit Studium fremden Rechtes, mit umfangreicher Korrespondenz oder sonst bei komplizierten Prozessen.
+- 3\. in Rechnungsprozessen, Prozessen mit unverhältnismässig grossem oder fremdsprachigem Aktenmaterial, mit Studium fremden Rechts, mit umfangreicher Korrespondenz oder sonst bei komplizierten Prozessen.
 
 <sup>2</sup> Treffen mehrere dieser Voraussetzungen zu, so kann mit Rücksicht auf jede derselben ein besonderer Zuschlag berechnet werden.
 
@@ -111,13 +112,13 @@ beschliesst:
 
 <sup>1</sup> Im summarischen Verfahren wird das Grundhonorar in der Regel auf die Hälfte bis einen Fünftel, in besonderen eherechtlichen Verfahren und bei Kinderbelangen in familienrechtlichen Angelegenheiten und bei eingetragener Partnerschaft auf drei Viertel bis einen Viertel herabgesetzt.
 
-<sup>2</sup> Paragraph 5 ist sinngemäss anwendbar.
+<sup>2</sup> § 5 ist sinngemäss anwendbar.
 
 #### § 6a
 
 **Grundhonorar bei Entscheiden der Schlichtungsbehörde**
 
-<sup>1</sup> Wenn das Schlichtungsverfahren durch angenommenen Urteilsvorschlag oder durch Entscheid erledigt wird, wird das Grundhonorar in der Regel auf die Hälfte bis einen Fünftel herabgesetzt.
+<sup>1</sup> Wird das Schlichtungsverfahren durch angenommenen Entscheidvorschlag oder durch Entscheid erledigt, wird das Grundhonorar in der Regel auf die Hälfte bis einen Fünftel herabgesetzt.
 
 #### § 7
 
@@ -129,21 +130,21 @@ beschliesst:
 
 **Grundhonorar im Rechtsmittelverfahren**
 
-<sup>1</sup> Für die Rechtsmittelverfahren dürfen ein bis zwei Drittel des Grundhonorars berechnet werden, bei Zivilprozessen unter Berücksichtigung des noch in Betracht kommenden Streitwertes. In besonderen Fällen darf ausnahmsweise das volle Grundhonorar berechnet werden.
+<sup>1</sup> Im Rechtsmittelverfahren wird das Grundhonorar nach den für die Vorinstanz geltenden Ansätzen und Bemessungsgrundsätzen festgesetzt. Davon dürfen ein bis zwei Drittel berechnet werden, bei vermögensrechtlichen Streitigkeiten unter Berücksichtigung des noch in Betracht kommenden Streitwerts. In besonderen Fällen darf ausnahmsweise das volle Grundhonorar berechnet werden.
 
-<sup>2</sup> Bezüglich der Zuschläge findet § 5 entsprechende Anwendung. Für ihre Berechnung ist das unter Berücksichtigung des noch in Betracht kommenden Streitwertes sich ergebende unverkürzte Grundhonorar massgebend.
+<sup>2</sup> Bezüglich der Zuschläge findet § 5 entsprechende Anwendung. Für ihre Berechnung ist das unverkürzte Grundhonorar massgebend, das sich unter Berücksichtigung des noch in Betracht kommenden Streitwerts ergibt.
 
 #### § 9
 
-**Grundhonorar bei Vergleich, Rückzug oder Anerkennung**
+**Grundhonorar bei Beendigung des Verfahrens ohne Sachentscheid**
 
-<sup>1</sup> Bei Vergleichsabschluss nach Übertragung des Prozessmandates und nach Instruktion, bei Klageanerkennung oder Klagerückzug nach dem Schlichtungsverfahren, jedoch vor Klageeinreichung beim Gericht, werden in der Regel 10 bis 30 %, nach Klageeinreichung bis zur ersten Verhandlung 30 bis 75 %, nachher 75 bis 100 % des Grundhonorars und der Zuschläge nach § 5 berechnet.
+<sup>1</sup> Bei Abschluss eines Vergleichs nach Übertragung des Prozessmandats und nach Instruktion, bei Klageanerkennung, Klagerückzug oder Gegenstandslosigkeit aus anderen Gründen nach dem Schlichtungsverfahren, jedoch vor Klageeinreichung beim Gericht, werden in der Regel 10 bis 30 %, nach Klageeinreichung bis zur ersten Verhandlung 30 bis 75 %, nachher 75 bis 100 % des Grundhonorars und der Zuschläge nach § 5 berechnet.
 
 #### § 10
 
 **Grundhonorar bei vorzeitiger Beendigung des Mandates**
 
-<sup>1</sup> Hört die Vertretung während des Rechtsstreites auf, so ist § 9 entsprechend anzuwenden.
+<sup>1</sup> Hört die Vertretung während des Rechtsstreits auf, so ist § 9 entsprechend anzuwenden.
 
 #### § 11
 
@@ -155,27 +156,27 @@ beschliesst:
 
 #### § 12
 
-**Grundhonorar bei Vertretung mehrerer Klienten**
+**Grundhonorar bei Vertretung mehrerer Parteien**
 
-<sup>1</sup> Vertritt ein Rechtsanwalt oder eine Rechtsanwältin im gleichen Verfahren mehrere Klienten, so findet eine der Mehrarbeit entsprechende Erhöhung des Grundhonorars und eine angemessene Verteilung des Gesamtbetrages auf die vertretenen Parteien statt.
+<sup>1</sup> Vertritt ein Rechtsanwalt oder eine Rechtsanwältin im gleichen Verfahren mehrere Parteien, so findet eine der Mehrarbeit entsprechende Erhöhung des Grundhonorars und eine angemessene Verteilung des Gesamtbetrags auf die vertretenen Parteien statt.
 
 #### § 13
 
 **Entschädigung für ausserordentliche Bemühungen**
 
-<sup>1</sup> Für ausserordentliche Bemühungen bei der Vorbereitung eines Prozesses, wie Reisen zur Besichtigung eines Streitortes oder Streitgegenstandes oder sonstige Instruktionen für den Prozess, kann zusätzlich zum Anwaltshonorar eine dem Zeitaufwand entsprechende besondere Entschädigung verrechnet werden.
+<sup>1</sup> Für ausserordentliche Bemühungen bei der Vorbereitung eines Prozesses, wie Reisen zur Besichtigung eines Streitorts oder Streitgegenstands oder sonstige Instruktionen für den Prozess, kann zusätzlich zum Anwaltshonorar eine dem Zeitaufwand entsprechende besondere Entschädigung verrechnet werden.
 
-<sup>2</sup> Sie beläuft sich in der Regel auf Franken 220.– für eine Stunde. Sie kann in besonderen Fällen bis auf Franken 300.– erhöht werden.
+<sup>2</sup> Sie beläuft sich auf Franken 240 für eine Stunde.
 
 #### § 14
 
-**Entschädigung des unentgeltlichen Rechtsbeistandes**
+**Entschädigung des unentgeltlichen Rechtsbeistands bzw. der unentgeltlichen Rechtsbeiständin**
 
 <sup>1</sup> Obsiegt die unentgeltlich vertretene Partei, berechnet sich die Parteientschädigung nach den selben Grundsätzen wie das Honorar bei einer entgeltlichen Rechtsvertretung.
 
-<sup>2</sup> Wird der unentgeltlich vertretenen Partei eine Parteientschädigung nicht zugesprochen oder ist sie von der Gegenpartei nicht erhältlich, werden dem unentgeltlichen Rechtsbeistand eine nach dem Zeitaufwand zu bemessende Entschädigung für seine notwendigen Bemühungen und eine Auslagen-Vergütung zu Lasten der Gerichtskasse zugesprochen. Der Stundenansatz beträgt in der Regel Franken 220.–. Er kann in besonderen Fällen bis auf Franken 300.– erhöht werden.
+<sup>2</sup> Wird der unentgeltlich vertretenen Partei eine Parteientschädigung nicht zugesprochen oder ist sie von der Gegenpartei nicht erhältlich, werden dem Rechtsbeistand oder der Rechtsbeiständin eine nach dem Zeitaufwand zu bemessende Entschädigung für seine bzw. ihre notwendigen Bemühungen und eine Auslagenvergütung zu Lasten der Gerichtskasse zugesprochen. In diesen Fällen beträgt der Stundenansatz Franken 240. Für Substituten und Substitutinnen beträgt der Stundenansatz Franken 150.
 
-<sup>3</sup> Die Entschädigung wird festgesetzt, nachdem der Rechtsanwalt bzw. die Rechtsanwältin eine spezifizierte Aufstellung über seine bzw. ihre Tätigkeit und die Barauslagen vorgelegt hat. Wird die spezifizierte Rechnung nicht rechtzeitig vor der Fällung des Entscheides eingereicht, kann das Gericht die Entschädigung nach Ermessen festsetzen.
+<sup>3</sup> Die Entschädigung wird festgesetzt, nachdem der Rechtsbeistand oder die Rechtsbeiständin eine spezifizierte Aufstellung über seine bzw. ihre Tätigkeit sowie die Barauslagen (§ 25) und die Mehrwertsteuer (§ 25a) vorgelegt hat. Wird die spezifizierte Rechnung nicht rechtzeitig vor der Fällung des Entscheids eingereicht, kann das Gericht die Entschädigung nach Ermessen festsetzen.
 
 <sup>4</sup> In begründeten Fällen können Akontozahlungen ausgerichtet werden.
 
@@ -185,17 +186,15 @@ beschliesst:
 
 **Bemessung**
 
-<sup>1</sup> In Strafsachen, einschliesslich der Verbeiständung bezüglich zivilrechtlicher Ansprüche im Strafprozess, bemisst sich das Honorar nach dem angemessenen Zeitaufwand des Rechtsanwaltes oder der Rechtsanwältin. Es wird nach den Regeln von § 14 Abs. 3 festgesetzt.
+<sup>1</sup> In Strafsachen bemisst sich das Honorar der Verteidigung sowie der Vertretung der Privatklägerschaft und der anderen Verfahrensbeteiligten nach dem angemessenen Zeitaufwand. Es wird nach den Regeln von § 14 Abs. 3 festgesetzt.
 
-<sup>2</sup> Der Stundenansatz beträgt in der Regel Franken 220.–. Er kann in besonderen Fällen bis auf Franken 300.– erhöht werden.
+<sup>2</sup> Der Stundenansatz beträgt Franken 240. Für Substituten und Substitutinnen beträgt der Stundenansatz Franken 150.
+
+<sup>3</sup> In begründeten Fällen können Akontozahlungen ausgerichtet werden.
 
 #### § 16
 
-**Entschädigung für die amtliche Verteidigung**
-
-<sup>1</sup> Die Entschädigung für die amtliche Verteidigung bemisst sich gemäss § 15.
-
-<sup>2</sup> In begründeten Fällen können Akontozahlungen ausgerichtet werden.
+**…**
 
 ## 4. Gebühr für Beurkundungen und Beglaubigungen
 
@@ -213,26 +212,28 @@ beschliesst:
 
 **Gebührentarif**
 
-<sup>1</sup> Die Urkundspersonen sind berechtigt, für die Beurkundungstätigkeit im Sinne von § 17 Abs. 1 folgende Gebühren zu erheben:
+<sup>1</sup> Die Urkundspersonen sind berechtigt, für die Beurkundungstätigkeit im Sinne von § 17 Abs. 1 folgende Gebühren (in Franken) zu erheben:
 
-- 1\. Stiftungen (Art. 81 und 335 ZGB): ein Promille des Stiftungsvermögens, aber mindestens Fr. 300.– und höchstens Fr. 5000.–;
-- 2\. Eheverträge (Art. 184 ZGB): ein Promille des Vermögens, aber mindestens Fr. 300.– und höchstens Fr. 5000.–;
-- 3\. Inventar mit Urkunde über die Vermögenswerte der Ehegatten (Art. 195a ZGB): ein Promille der Vermögenswerte, aber mindestens Fr. 100.– und höchstens Fr. 1000.–;
-- 4\. Begründung einer Gemeinderschaft (Art. 337 ZGB): ein Promille des Wertes, aber mindestens Fr. 300.– und höchstens Fr. 5000.–;
-- 5\. Öffentliche letztwillige Verfügungen (Art. 498 ff. ZGB) und Erbverträge (Art. 513 ZGB): ein Promille des Vermögens, über das verfügt wird, aber mindestens Fr. 300.– und höchstens Fr. 15 000.–;
-- 6\. Ersatz der Unterschrift (Art. 15 OR): Fr. 20.– bis Fr. 100.–;
-- 7\. Beurkundung aufgrund vertraglicher Abmachung (Art. 16 OR): gemäss Parteivereinbarung, aber mindestens Fr. 200.–;
-- 8\. Entkräftung eines Schuldscheins und Tilgung einer Schuld (Art. 90 OR): Fr. 50.– bis Fr. 250.–;
-- 9\. Bürgschaftserklärung (Art. 493 OR): ein Promille der Bürgschaftssumme, aber mindestens Fr. 100.– und höchstens Fr. 500.–;
-- 10\. Verpfründungsvertrag (Art. 522 OR): ein Promille des Vermögenswertes, aber mindestens Fr. 300.– und höchstens Fr. 2500.–;
-- 11\. Gründung einer AG oder einer GmbH (Art. 629 und 779 OR): zwei Promille des Kapitals, aber mindestens Fr. 500.– und höchstens Fr. 20000.–;
-- 12\. Kapitalerhöhungsbeschlüsse der Generalversammlung der AG einschliesslich Fusion (Art. 650 und 749 OR) oder der Gesellschafterversammlung der GmbH (Art. 786 OR): ein Promille des Erhöhungskapitals, aber mindestens Fr. 250.– und höchstens Fr. 10000.–;
-- 13\. Feststellungsbeschlüsse des Verwaltungsrates einer AG betreffend Kapitalerhöhung und Nachliberierung des Aktienkapitals einschliesslich Fusion (Art. 652g OR): ein Promille des Erhöhungskapitals, aber mindestens Fr. 250.– und höchstens Fr. 10 000.–;
-- 14\. Beschlüsse über die Herabsetzung des Aktienkapitals einer AG oder des Stammkapitals einer GmbH (Art. 732 und 788 OR): ein Promille des Herabsetzungskapitals, aber mindestens Fr. 200.– und höchstens Fr. 7500.–; Erfolgt die Kapitalherabsetzung zur Beseitigung einer Unterbilanz, beträgt die Gebühr die Hälfte.
-- 15\. Abtretung von Gesellschaftsanteilen einer GmbH (Art. 791 OR): ein Promille des Kapitals, aber mindestens Fr. 300.– und höchstens Fr. 20 000.–; Wird nur die Verpflichtung beurkundet oder eine beurkundete Verpflichtung vollzogen, beträgt die Gebühr die Hälfte;
-- 16\. Anderweitige Versammlungsbeschlüsse, insbesondere Beschlüsse über Statutenänderungen und Auflösung einer AG oder einer GmbH: Fr. 200.– bis Fr. 7500.–;
-- 17\. Beurkundung von Willenserklärungen, die in dieser Verordnung nicht genannt sind, sowie von ausländischen Rechtsgeschäften, wie Verträgen über dingliche Rechte an Grundstücken im Ausland oder über Anteile an ausländischen Gesellschaften: ein Promille der Gegenleistung oder des betroffenen Vermögenswertes, aber mindestens Fr. 300.– und höchstens Fr. 20 000.–;
-- 18\. Beurkundung von Wissenserklärungen sowie Urkunden über Tatbestände, Vorgänge und rechtliche Verhältnisse, die in dieser Verordnung nicht genannt sind, wie Verlosung, Wettbewerb usw.: nach Vereinbarung, aber mindestens Fr. 300.– und höchstens Fr. 10 000.–.
+- 1\. Stiftungen (Art. 81 und 335 ZGB): ein Promille des Stiftungsvermögens, aber mindestens 500 und höchstens 10'000;
+- 2\. Eheverträge (Art. 184 ZGB): ein Promille des Vermögens, aber mindestens 500 und höchstens 10'000;
+- 3\. Aufnahme eines Inventars der Vermögenswerte der Ehegatten (Art. 195a ZGB): ein Promille der Vermögenswerte, aber mindestens 500 und höchstens 5000;
+- 4\. Begründung einer Gemeinderschaft (Art. 337 ZGB): ein Promille des Vermögens, aber mindestens 500 und höchstens 5000;
+- 4\.<sup>bis</sup> Errichtung, Abänderung oder Widerruf eines Vorsorgeauftrags (Art. 361 f. ZGB): 300 bis 2000
+- 5\. Öffentliche letztwillige Verfügungen (Art. 498 ff. ZGB) und Erbverträge (Art. 512 ZGB): ein Promille des Vermögens, über das verfügt wird, aber mindestens 500 und höchstens 15'000;
+- 6\. Ersatz der Unterschrift (Art. 15 OR): 100 bis 300;
+- 7\. Beurkundung aufgrund vertraglicher Abmachung (Art. 16 OR): gemäss Parteivereinbarung, aber mindestens 300;
+- 8\. Entkräftung eines Schuldscheins und Tilgung einer Schuld (Art. 90 OR): 100 bis 300;
+- 9\. Bürgschaftserklärung (Art. 493 OR): ein Promille der Bürgschaftssumme, aber mindestens 300 und höchstens 1000;
+- 10\. Verpfründungsvertrag (Art. 522 OR): ein Promille der Vermögenswerte, aber mindestens 500 und höchstens 5000;
+- 11\. Gründung einer AG oder einer GmbH (Art. 629 und Art. 777 OR): zwei Promille des Grundkapitals, aber mindestens 1000 und höchstens 20'000;
+- 12\. Kapitalerhöhungsbeschlüsse der Generalversammlung der AG (Art. 650 OR) und diesbezügliche Feststellungsbeschlüsse des Verwaltungsrats der AG (Art. 652g OR): ein Promille des Erhöhungskapitals, aber mindestens 500 und höchstens 10'000;
+- 13\. Kapitalerhöhungsbeschlüsse der Gesellschafterversammlung der GmbH und diesbezügliche Feststellungsbeschlüsse der Geschäftsführer der GmbH (Art. 781 OR): ein Promille des Erhöhungskapitals, aber mindestens 500 und höchstens Fr. 10'000;
+- 14\. Beschlüsse der Generalversammlung über die Herabsetzung des Aktienkapitals einer AG (Art. 653n OR) oder Beschlüsse der Gesellschafterversammlung über die Herabsetzung des Stammkapitals einer GmbH (Art. 782 OR) und diesbezügliche Feststellungsbeschlüsse des Verwaltungsrats der AG (Art. 653o OR) bzw. der Geschäftsführer der GmbH (Art. 782 OR): ein Promille des Herabsetzungskapitals, aber mindestens 500 und höchstens 7500; erfolgt die Kapitalherabsetzung zur Beseitigung einer Unterbilanz, beträgt die Gebühr die Hälfte;
+- 14\.<sup>bis</sup> Beurkundungen nach FusG: gemäss den Ansätzen von Ziff. 1 und 11 – 14 (sinngemäss);
+- 15\. …
+- 16\. Anderweitige Versammlungsbeschlüsse, insbesondere Beschlüsse über Statutenänderungen und Auflösung einer AG oder einer GmbH: 500 bis 7500;
+- 17\. Beurkundung von Willenserklärungen, die in dieser Verordnung nicht genannt sind, sowie von ausländischen Rechtsgeschäften wie Verträgen über dingliche Rechte an Grundstücken im Ausland oder über Anteile an ausländischen Gesellschaften: ein Promille der Gegenleistung oder des betroffenen Vermögenswerts, aber mindestens 500 und höchstens 20'000;
+- 18\. Beurkundung von Wissenserklärungen sowie Urkunden über Tatbestände, Vorgänge und rechtliche Verhältnisse, die in dieser Verordnung nicht genannt sind, wie Verlosung, Wettbewerb usw.: nach Vereinbarung, aber mindestens 300 und höchstens 10'000.
 
 <sup>2</sup> Die Urkundsperson darf tiefere Gebühren erheben, soweit diese kostendeckend und nicht unangemessen tief sind.
 
@@ -240,20 +241,25 @@ beschliesst:
 
 **Erhöhung der Gebühr**
 
-<sup>1</sup> Die Gebühr gemäss § 18 darf angemessen erhöht werden,
+<sup>1</sup> Die Gebühr gemäss § 18 darf angemessen erhöht werden:
 
-- a) wenn die Beurkundung in einer Fremdsprache vorzunehmen ist;
-- b) wenn die Urkundsperson ausserhalb der üblichen Geschäftszeit beansprucht wird.
+- 1\. wenn die Beurkundung in einer Fremdsprache vorzunehmen ist;
+- 2\. wenn die Urkundsperson ausserhalb der üblichen Geschäftszeit beansprucht wird.
+- a)
+- b)
 
 #### § 20
 
 **Herabsetzung der Gebühr**
 
-<sup>1</sup> Die Gebühr gemäss § 18 ist angemessen herabzusetzen,
+<sup>1</sup> Die Gebühr gemäss § 18 ist angemessen herabzusetzen:
 
-- a) wenn die öffentliche Beurkundung nicht zum Abschluss gelangt;
-- b) wenn die Urkundsperson im gleichen Sachzusammenhang zahlreiche gleichartige Rechtsgeschäfte zu beurkunden hat;
-- c) wenn die Gebühr nach Tarif dem Aufwand krass widerspricht oder zu einer unbilligen Härte für die Klientschaft führen würde.
+- 1\. Wenn die öffentliche Beurkundung nicht zum Abschluss gelangt;
+- 2\. wenn die Urkundsperson im gleichen Sachzusammenhang zahlreiche gleichartige Rechtsgeschäfte zu beurkunden hat;
+- 3\. wenn die Gebühr nach Tarif dem Aufwand krass widerspricht oder zu einer unbilligen Härte für die Klientschaft führen würde.
+- a)
+- b)
+- c)
 
 #### § 21
 
@@ -267,9 +273,9 @@ beschliesst:
 
 **Bemessung der Gebühr**
 
-<sup>1</sup> Die Gebühr für Beglaubigungen bemisst sich nach dem Zeitaufwand, beträgt aber mindestens Fr. 20.–.
+<sup>1</sup> Die Gebühr für Beglaubigungen bemisst sich nach dem Zeitaufwand, beträgt aber mindestens Franken 30.
 
-<sup>2</sup> Der Stundenansatz beträgt Fr. 180.– bis Fr. 300.–.
+<sup>2</sup> Der Stundenansatz beträgt Franken 240 bis 300.
 
 ### 4.3. Amtliche Festsetzung der Gebühr
 
@@ -297,38 +303,36 @@ beschliesst:
 
 <sup>1</sup> Bei allen Geschäften haben die Rechtsanwälte und Rechtsanwältinnen Anspruch auf Ersatz ihrer notwendigen Barauslagen (bezahlte Gerichtskosten, Reisespesen, Porto und Telefonauslagen, Fotokopien usw.).
 
-<sup>2</sup> Der Ersatz notwendiger Auslagen kann pauschal mit 3 % des Honorars, höchstens Franken 1’000.–, berechnet werden.
+<sup>2</sup> Der Ersatz notwendiger Auslagen kann pauschal mit 3 % des Honorars, höchstens Franken 1000, berechnet werden.
+
+<sup>3</sup> Reichen die Rechtsanwälte und Rechtsanwältinnen in Zivilverfahren keine detaillierte Abrechnung ein oder überlassen sie die Festsetzung des Honorars dem Ermessen des Gerichts, wird der Auslagenersatz pauschal mit 3 % des Honorars, höchstens Franken 1000, berechnet.
 
 #### § 25a
 
 **Mehrwertsteuer**
 
-<sup>1</sup> Die Mehrwertsteuer wird zum Honorar und zu den Auslagen hinzugerechnet. Das Obergericht regelt das Nähere in einer Weisung.
+<sup>1</sup> Die Mehrwertsteuer wird auf entsprechenden Antrag zum Honorar und zu den Auslagen hinzugerechnet.
+
+<sup>2</sup> Das Obergericht regelt das Nähere in einer Weisung.
 
 ## 6. Übergangs- und Schlussbestimmungen
 
 #### § 26
 
-**Anwendung auf hängige Prozesse**
+**Übergangsbestimmungen**
 
-<sup>1</sup> In hängigen Prozessen ist für das ganze Verfahren vor der Instanz, bei der sie im Zeitpunkt des Inkrafttretens dieser Verordnung hängig sind, der neue Tarif anzuwenden.
+<sup>1</sup> In hängigen Prozessen ist für das ganze Verfahren vor der Instanz, bei der sie im Zeitpunkt des Inkrafttretens dieser Verordnung hängig sind, grundsätzlich der neue Tarif anzuwenden.
+
+<sup>2</sup> Für die Anwendbarkeit der geänderten Stundenansätze gemäss § 13 Abs. 2, § 14 Abs. 2 und § 15 Abs. 2 ist der Zeitpunkt der Tätigkeit massgebend.
+
+<sup>3</sup> Für die Anwendbarkeit der geänderten Gebühren gemäss § 18 und § 22 ist der Zeitpunkt der Beurkundung bzw. der Beglaubigung massgebend.
 
 #### § 27
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Auf den Zeitpunkt des Inkrafttretens dieser Verordnung werden aufgehoben:
-
-- 1\. Die «Verordnung des Obergerichts über den Anwaltstarif» vom 29. August 1972[^27-1];
-- 2\. die «Verordnung des Obergerichts betreffend Ergänzung des Anwaltstarifs vom 12. Dezember 1940» vom 22. Januar 1947[^27-2].
-
-[^27-1]: GS 20, 177
-[^27-2]: GS 15, 457
+**…**
 
 #### § 28
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1997 in Kraft und ist in die Gesetzessammlung aufzunehmen.
+**…**
 
 GS 25, 459
