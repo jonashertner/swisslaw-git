@@ -4,11 +4,10 @@ number: "211.1"
 title: Gesetz über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess (GOG)
 short: GOG
 language: de
-version: "2025-07-01"
-nachtrag: "129"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2010-05-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-211_1-2010_05_10-2011_01_01-129.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-211_1-2010_05_10-2011_01_01-131.html"
 text: pdf
 ---
 
@@ -50,7 +49,7 @@ Die ZPO, die StPO, die JStPO und dieses Gesetz finden unter Vorbehalt besonderer
 
 **1**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 ### 2. Teil: Gerichte
 
@@ -136,7 +135,7 @@ Das Gesetz über die politischen Rechte vom 1. September 2003 (GPR)<sup>6</sup> 
 
 **3**
 
-- 1\. 7. 25 - 129 § 10. Das Bezirksgericht wählt nach seiner Gesamterneuerung auf seine Amtsdauer aus seinen Mitgliedern die Präsidentinnen und Präsidenten
+- 1\. 1. 26 - 131 § 10. Das Bezirksgericht wählt nach seiner Gesamterneuerung auf seine Amtsdauer aus seinen Mitgliedern die Präsidentinnen und Präsidenten
 
 **Präsidium der Arbeits-, Miet- und Jugendgerichte**
 
@@ -236,7 +235,7 @@ Das Bezirksgericht entscheidet erstinstanzlich Streitigkeiten, für die das orde
 
 **5**
 
-- 1\. 7. 25 - 129 § 20. <sup>1</sup> Das Bezirksgericht entscheidet als Arbeitsgericht erstinstanzlich:
+- 1\. 1. 26 - 131 § 20. <sup>1</sup> Das Bezirksgericht entscheidet als Arbeitsgericht erstinstanzlich:
 
 **b. Als Arbeitsgericht**
 
@@ -334,7 +333,7 @@ Die Präsidentin oder der Präsident des Jugendgerichts beurteilt als Einzelgeri
 
 **7**
 
-- 1\. 7. 25 - 129 § 29. <sup>1</sup> Das Einzelgericht eines Bezirksgerichts im örtlichen Zuständigkeitsbereich der Staatsanwaltschaft, der Jugendanwaltschaft oder der Übertretungsstrafbehörde ist Zwangsmassnahmengericht gemäss StPO<sup>33</sup> und JStPO<sup>34,</sup> <sup>70</sup>
+- 1\. 1. 26 - 131 § 29. <sup>1</sup> Das Einzelgericht eines Bezirksgerichts im örtlichen Zuständigkeitsbereich der Staatsanwaltschaft, der Jugendanwaltschaft oder der Übertretungsstrafbehörde ist Zwangsmassnahmengericht gemäss StPO<sup>33</sup> und JStPO<sup>34,</sup> <sup>70</sup>
 
 **c. Zwangsmassnahmengericht**
 
@@ -412,9 +411,9 @@ Die Präsidentin oder der Präsident des Jugendgerichts beurteilt als Einzelgeri
 
 **9**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
-<sup>2</sup> Die Kantonsratskommission gemäss Art. 75 Abs. 1 Satz 2 KV<sup>5</sup> schreibt die Stellen öffentlich aus und prüft die Kandidaturen.
+<sup>2</sup> Die Kantonsratskommission gemäss Art. 75 Abs. 1 Satz 2 KV schreibt die Stellen öffentlich aus und prüft die Kandidaturen.
 
 <sup>3</sup> . . .<sup>47</sup>
 
@@ -560,19 +559,27 @@ Schlichtungsbehörden gemäss ZPO sind:
 
 ### 2. Abschnitt: Friedensrichterinnen und Friedensrichter
 
-#### § 53
+**Amtskreis a. im Allgemeinen**
 
-**Amtskreis**
+§ 53.<sup>73</sup> <sup>1</sup> Jede politische Gemeinde bildet einen Friedensrichterkreis mit mindestens einer Friedensrichterin oder einem Friedensrichter.
 
-<sup>1</sup> Jede politische Gemeinde hat mindestens eine Friedensrichterin oder einen Friedensrichter. Mehrere Gemeinden desselben Bezirks können die Aufgaben der Friedensrichterin oder des Friedensrichters gemeinsam besorgen lassen.
+<sup>2</sup> Besteht das Gemeindegebiet aus mehreren Kreisen gemäss § 3 Abs. 4 des Gemeindegesetzes vom 20. April 2015<sup>5</sup>, bilden diese Friedensrichterkreise. Die Gemeinden können in der Gemeindeordnung mehrere Friedensrichterkreise zusammenschliessen.
 
-<sup>2</sup> Schliessen sich mehrere Gemeinden zu einem Friedensrichterkreis (Zweckverband) zusammen, holt der Regierungsrat vor der Genehmigung einen Bericht des Obergerichts ein.
+**b. Zusammenschluss mehrerer Gemeinden**
 
-<sup>3</sup> Besteht das Gemeindegebiet aus mehreren Verwaltungskreisen, kann der Regierungsrat auf Antrag des Gemeindevorstands und nach Anhörung des Obergerichts Friedensrichterkreise zusammenschliessen.<sup>56</sup>
+§ 53 a.<sup>72</sup> <sup>1</sup> Mehrere Gemeinden desselben Bezirks können sich mittels Anschlussvertrag, Zusammenarbeitsvertrag oder Zweckverband zu einem Friedensrichterkreis zusammenschliessen.
+
+<sup>2</sup> Die Wahl der Friedensrichterin oder des Friedensrichters erfolgt durch die Stimmberechtigten des Friedensrichterkreises.
+
+<sup>3</sup> Schliessen die Gemeinden einen Zusammenarbeitsvertrag ab, legen sie darin die Sitzgemeinde fest.
+
+<sup>4</sup> Schliessen sich die Gemeinden zu einem Zweckverband zusammen, holt der Regierungsrat vor der Genehmigung einen Bericht des Obergerichts ein.
+
+#### § 54
 
 **Wahl**
 
-§ 54. Das GPR regelt das Wahlverfahren, die Wählbarkeit, den Amtszwang und die Amtsdauer der Friedensrichterinnen und -richter, soweit dieses Gesetz nichts anderes bestimmt.
+Das GPR regelt das Wahlverfahren, die Wählbarkeit, den Amtszwang und die Amtsdauer der Friedensrichterinnen und -richter, soweit dieses Gesetz nichts anderes bestimmt.
 
 #### § 55
 
@@ -594,6 +601,10 @@ Die Gemeinden entlöhnen die Friedensrichterinnen und -richter und vergüten ihn
 
 Die Friedensrichterin oder der Friedensrichter ist Schlichtungsbehörde gemäss ZPO, soweit nichts anderes bestimmt ist.
 
+**13**
+
+- 1\. 1. 26 - 131
+
 ### 3. Abschnitt: Paritätische Schlichtungsbehörde für Streitigkeiten
 
 nach dem Gleichstellungsgesetz
@@ -607,10 +618,6 @@ nach dem Gleichstellungsgesetz
 **Organisation, Wahl**
 
 <sup>1</sup> Die Schlichtungsbehörde besteht aus der oder dem Vorsitzenden, der Stellvertretung und weiteren 16 Mitgliedern, und zwar gleich vielen Vertreterinnen und Vertretern der privaten oder öffentlichen Arbeitgebenden und deren Verbände sowie der Verbände der Arbeitnehmenden.
-
-**13**
-
-- 1\. 7. 25 - 129
 
 <sup>2</sup> Das Obergericht wählt auf die Amtsdauer seiner Mitglieder die Mitglieder der Schlichtungsbehörde. Die privaten und öffentlichen Arbeitgebenden und die Verbände unterbreiten dem Obergericht Wahlvorschläge. Sie achten dabei auf eine gleichmässige Vertretung von Frauen und Männern.
 
@@ -700,11 +707,11 @@ Gerichtsübergreifende Justizverwaltungsorgane sind:
 
 - b. die Verwaltungskommission der Gerichte.
 
-#### § 70
+**15**
+
+- 1\. 1. 26 - 131 § 70. <sup>1</sup> Mitglieder des Plenarausschusses sind:
 
 **Plenarausschuss der Gerichte**
-
-<sup>1</sup> Mitglieder des Plenarausschusses sind:
 
 - a. die Mitglieder der Verwaltungskommission der Gerichte oder deren Stellvertreterinnen und Stellvertreter,
 
@@ -715,10 +722,6 @@ Gerichtsübergreifende Justizverwaltungsorgane sind:
 - d. vier von der Plenarversammlung delegierte Mitglieder des Sozialversicherungsgerichts.
 
 <sup>2</sup> Die Einberufung des Plenarausschusses erfolgt auf Beschluss der Verwaltungskommission durch deren Präsidentin oder Präsidenten.
-
-**15**
-
-- 1\. 7. 25 - 129
 
 <sup>3</sup> Der Plenarausschuss verhandelt und beschliesst unter dem Vorsitz der Präsidentin, des Präsidenten, der Vizepräsidentin oder des Vizepräsidenten der Verwaltungskommission. Jedes oberste kantonale Gericht muss mit mindestens einem Mitglied vertreten sein. Die Sekretärin oder der Sekretär der Verwaltungskommission führt das Protokoll.
 
@@ -780,6 +783,10 @@ Die gerichtsübergreifenden Justizverwaltungsorgane sind für die Justizverwaltu
 
 <sup>3</sup> Sie sind bezüglich Ausgabenkompetenzen dem Regierungsrat gleichgestellt. §§ 19–25 CRG<sup>22</sup> gelten sinngemäss.
 
+**17**
+
+- 1\. 1. 26 - 131
+
 ### C. Obergericht und Bezirksgerichte
 
 #### § 76
@@ -798,11 +805,11 @@ Die gerichtsübergreifenden Justizverwaltungsorgane sind für die Justizverwaltu
 
 <sup>2</sup> Sie oder er überwacht die Pflichterfüllung der Mitglieder des Gerichts und der Gerichtskanzlei und sorgt für beförderliche Erledigung der Geschäfte.
 
-**17**
-
-- 1\. 7. 25 - 129 § 78. Die Generalsekretärin oder der Generalsekretär des Obergerichts sowie die Leitenden Gerichtsschreiberinnen oder -schreiber sind Stabsstellen des jeweiligen Gerichts. Sie leiten die juristische und die administrative Kanzlei.
+#### § 78
 
 **Stabsstellen**
+
+Die Generalsekretärin oder der Generalsekretär des Obergerichts sowie die Leitenden Gerichtsschreiberinnen oder -schreiber sind Stabsstellen des jeweiligen Gerichts. Sie leiten die juristische und die administrative Kanzlei.
 
 ### 2. Abschnitt: Aufsicht
 
@@ -884,6 +891,10 @@ Gegen Beschwerdeentscheide der Bezirksgerichte kann innert zehn Tagen seit der M
 
 Die §§ 83 und 84 sind auf Beschwerdeverfahren anwendbar, die auf anderen kantonalen oder auf eidgenössischen Erlassen beruhen, soweit diese eine Aufsicht durch richterliche Behörden vorsehen und nicht eigene Verfahrensvorschriften enthalten.
 
+**19**
+
+- 1\. 1. 26 - 131
+
 ### 5. Teil: Strafverfolgungsbehörden
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
@@ -899,10 +910,6 @@ Die §§ 83 und 84 sind auf Beschwerdeverfahren anwendbar, die auf anderen kanto
 - b. im Verfahren gegen Erwachsene:
 
 - 1\. die Statthalterämter und die vom Regierungsrat bezeichneten Gemeinden,
-
-**19**
-
-- 1\. 7. 25 - 129
 
 - 2\. die Staatsanwaltschaften,
 
@@ -978,6 +985,10 @@ Die Übertretungsstrafbehörde, die im betreffenden Fall entschieden hat, kann v
 
 Bussen, die von einer Gemeindebehörde ausgefällt und eingetrieben werden, fallen dieser zu.
 
+**21**
+
+- 1\. 1. 26 - 131
+
 ### B. Staatsanwaltschaften
 
 #### § 93
@@ -995,10 +1006,6 @@ Bussen, die von einer Gemeindebehörde ausgefällt und eingetrieben werden, fall
 **Ordentliche Staatsanwälte**
 
 <sup>1</sup> Die Stimmberechtigten des Bezirks wählen die Staatsanwältinnen und -anwälte auf Amtsdauer. Diese können im ganzen Kanton eingesetzt werden.
-
-**21**
-
-- 1\. 7. 25 - 129
 
 <sup>2</sup> Der Kantonsrat setzt die Zahl der Staatsanwältinnen und -anwälte im Kanton fest. Bei der Festlegung der Zahl der in den Bezirken zu wählenden Staatsanwältinnen und -anwälte berücksichtigt er insbesondere a. die Verteilung der erfassten Straftaten auf die Bezirke,
 
@@ -1072,6 +1079,10 @@ Die Oberstaatsanwaltschaft kann Mitarbeitende der Staatsanwaltschaft als Assiste
 
 <sup>1</sup> Die Staatsanwältinnen und -anwälte üben die durch die StPO der Staatsanwaltschaft übertragenen Aufgaben aus.
 
+**23**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Die stellvertretenden Staatsanwältinnen und -anwälte können keine a. Strafuntersuchungen eröffnen,
 
 - b. Zwangsmassnahmen anordnen,
@@ -1085,10 +1096,6 @@ Die Oberstaatsanwaltschaft kann Mitarbeitende der Staatsanwaltschaft als Assiste
 **b. Leitende Staatsanwälte**
 
 <sup>1</sup> Die Leitende Staatsanwältin oder der Leitende Staatsanwalt besorgt die Geschäftsleitung der Staatsanwaltschaft und vertritt diese nach aussen.
-
-**23**
-
-- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Leitende Staatsanwältin oder der Leitende Staatsanwalt a. genehmigt Einstellungs-, Nichtanhandnahme- und Sistierungsverfügungen der Staatsanwaltschaft,
 
@@ -1172,11 +1179,11 @@ Der Regierungsrat legt den Amtskreis der Jugendanwaltschaften fest und bestimmt 
 
 - 3\. eine Schutzmassnahme.
 
-#### § 111
+**25**
+
+- 1\. 1. 26 - 131 § 111. Die Leitende Jugendanwältin oder der Leitende Jugendanwalt leitet neben der Tätigkeit als Jugendanwältin oder Jugendanwalt ihre oder seine Jugendanwaltschaft.
 
 **b. Leitende Jugendanwälte**
-
-Die Leitende Jugendanwältin oder der Leitende Jugendanwalt leitet neben der Tätigkeit als Jugendanwältin oder Jugendanwalt ihre oder seine Jugendanwaltschaft.
 
 ### B. Oberjugendanwaltschaft
 
@@ -1192,11 +1199,11 @@ Die Oberjugendanwaltschaft besteht aus einer vom Regierungsrat zu bestimmenden Z
 
 Der Regierungsrat ernennt die Oberjugendanwältinnen und -anwälte sowie die Leitende Oberjugendanwältin oder den Leitenden Oberjugendanwalt. Er kann ausserordentliche Oberjugendanwältinnen und -anwälte einsetzen.
 
-**25**
-
-- 1\. 7. 25 - 129 § 114. <sup>1</sup> Die Oberjugendanwaltschaft plant, führt und steuert die Jugendstrafverfolgung im Kanton sowie die damit verbundenen Vollzugsaufgaben.
+#### § 114
 
 **Zuständigkeit**
+
+<sup>1</sup> Die Oberjugendanwaltschaft plant, führt und steuert die Jugendstrafverfolgung im Kanton sowie die damit verbundenen Vollzugsaufgaben.
 
 <sup>2</sup> Sie sorgt dafür, dass Jugendanwaltschaften und die Organe der Jugendhilfe zusammenarbeiten.
 
@@ -1252,9 +1259,11 @@ Die Aufsichtsbehörde bezeichnet ausserordentliche Stellvertreterinnen oder Stel
 
 §§ 119 und 120.<sup>67</sup>
 
-**Zustellung**
+**27**
 
-§ 121. <sup>1</sup> Die Zustellung auf andere Weise als durch eingeschriebene Postsendung erfolgt gegen Empfangsbestätigung. Sie kann insbesondere durch Angehörige des Gerichts, den Gemeindeammann oder die Polizei vorgenommen werden.
+- 1\. 1. 26 - 131 § 121. <sup>1</sup> Die Zustellung auf andere Weise als durch eingeschriebene Postsendung erfolgt gegen Empfangsbestätigung. Sie kann insbesondere durch Angehörige des Gerichts, den Gemeindeammann oder die Polizei vorgenommen werden.
+
+**Zustellung**
 
 <sup>2</sup> Die Zustellung durch Veröffentlichung erfolgt im Amtsblatt des Kantons Zürich.
 
@@ -1278,13 +1287,13 @@ Als Feiertage gelten Neujahrstag, Berchtoldstag (2. Januar), Karfreitag, Ostermo
 
 - d. die Entschädigung der Sachverständigen.
 
-**27**
-
-- 1\. 7. 25 - 129 § 124. Entscheidet das Gericht nicht einstimmig, können die Minderheit sowie die Gerichtsschreiberin oder der Gerichtsschreiber ihre abweichende Meinung mit Begründung ins Protokoll aufnehmen lassen. Diese wird den Parteien mitgeteilt.
-
-#### § 125
+#### § 124
 
 **Minderheitsmeinung**
+
+Entscheidet das Gericht nicht einstimmig, können die Minderheit sowie die Gerichtsschreiberin oder der Gerichtsschreiber ihre abweichende Meinung mit Begründung ins Protokoll aufnehmen lassen. Diese wird den Parteien mitgeteilt.
+
+#### § 125
 
 **Gerichtsberichterstattung**
 
@@ -1338,6 +1347,10 @@ Die Medien sind verpflichtet, eine vom Gericht angeordnete und formulierte Beric
 
 <sup>1</sup> Das Gericht sorgt für die systematische Ablage der Akten und deren fortlaufende Erfassung in einem Verzeichnis. Es kann in einfachen Fällen von einem Verzeichnis absehen.
 
+**29**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Originaldokumente sind den berechtigten Personen gegen Empfangsbestätigung zurückzugeben, sobald die Sache rechtskräftig entschieden ist.
 
 <sup>3</sup> Das Obergericht regelt das Weitere in einer Verordnung.
@@ -1363,10 +1376,6 @@ Bild- und Tonaufnahmen innerhalb von Gerichtsgebäuden sowie Aufnahmen von Verfa
 **Mitwirkung eines Gerichtsschreibers**
 
 <sup>1</sup> An den Verhandlungen und an der Entscheidfällung nimmt unter Vorbehalt von Abs. 3 eine Gerichtsschreiberin oder ein Gerichtsschreiber teil. Diese oder dieser führt das Protokoll und hat beratende Stimme.
-
-**29**
-
-- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Durchführung von Vergleichsverhandlungen kann diesen übertragen werden.
 
@@ -1426,6 +1435,10 @@ Das Einzelgericht gemäss § 24 ist die zuständige Behörde für a. die Anordnu
 
 - i. die Mitwirkung bei der Teilung der Erbschaft und die Losbildung (Art. 609 und 611 ZGB),
 
+**31**
+
+- 1\. 1. 26 - 131
+
 - j. die Versteigerungs- oder Teilungsart vor Anhebung des Erbteilungsprozesses (Art. 612 und 613 ZGB),
 
 - k. die Bestellung von Sachverständigen für die Feststellung des Anrechnungswertes von Grundstücken nach Art. 618 ZGB, l.<sup>41</sup> Streitigkeiten gemäss § 271 EG ZGB.
@@ -1455,10 +1468,6 @@ Das Einzelgericht gemäss § 24 ist die zuständige Behörde für a. das Vorverf
 - b. den Verkauf bei Beanstandung übersandter Kaufgegenstände (Art. 204 OR),
 
 - c. den Verkauf und die Versteigerung von Kommissionsgut (Art. 427 und 435 OR),
-
-**31**
-
-- 1\. 7. 25 - 129
 
 - d. den Verkauf und die Hinterlegung von Frachtgut (Art. 444, 445 und 453 OR),
 
@@ -1530,6 +1539,10 @@ Die Annahme einer amtlich zugestellten Erklärung darf nicht verweigert werden. 
 
 § 147 a.<sup>56</sup> Die Aufgaben des Gemeindeammanns werden von der Betreibungsbeamtin oder vom Betreibungsbeamten erfüllt.
 
+**33**
+
+- 1\. 1. 26 - 131
+
 ### 3. Abschnitt: Strafverfahren
 
 ### A. Grundsätze, Zuständigkeiten
@@ -1555,10 +1568,6 @@ Die Annahme einer amtlich zugestellten Erklärung darf nicht verweigert werden. 
 **Interkantonale Rechtshilfe**
 
 <sup>1</sup> Die Strafbehörden können anderen Kantonen in Strafsachen des kantonalen Rechts Rechtshilfe gewähren.
-
-**33**
-
-- 1\. 7. 25 - 129
 
 <sup>2</sup> Die nationale Rechtshilfe wird von der am Ort der vorzunehmenden Verfahrenshandlung zuständigen Strafbehörde geleistet:
 
@@ -1614,6 +1623,10 @@ Die Annahme einer amtlich zugestellten Erklärung darf nicht verweigert werden. 
 
 - b. von anderen Behörden, wenn sie diese für die Bearbeitung hängiger Zivil-, Straf- oder Verwaltungsverfahren benötigen und der Einsichtnahme keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
 
+**35**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Dritten steht kein Recht auf Einsicht in Akten abgeschlossener Strafverfahren zu. Die zuständige Strafbehörde kann ihnen Akteneinsicht gewähren, wenn a. sie ein wissenschaftliches oder ein anderes schützenswertes Interesse geltend machen und b. der Einsichtnahme keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
 
 **Zugriff auf Daten der Statthalterämter, Übertretungsstrafbehörden der Gemeinden und Polizeien**
@@ -1635,10 +1648,6 @@ Ausstandsbegehren gegen Angehörige der Polizei behandeln a. im Verfahren gegen 
 **Protokollführung**
 
 Die Protokollführung erfolgt bei den Strafbehörden unter Beizug einer Protokollführerin oder eines Protokollführers. Bei der Polizei, bei den Staatsanwaltschaften und Jugendanwaltschaften sowie bei den Übertretungsstrafbehörden kann die oder der Einvernehmende das Protokoll selbst führen.
-
-**35**
-
-- 1\. 7. 25 - 129
 
 ### D. Parteien und andere Verfahrensbeteiligte
 
@@ -1704,6 +1713,10 @@ Behörden und Amtsstellen, die in Wahrung der ihrem Schutz anvertrauten Interess
 
 <sup>1</sup> Die zuständigen Stellen der für die Sicherheit und für das Justizwesen zuständigen Direktionen sowie die für die Stadtpolizei Zürich zuständigen Stellen treffen für Personen, die ausserhalb eines Verfahrens gefährdet sind, die geeigneten Schutzmassnahmen.
 
+**37**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Gefährdete Personen können insbesondere mit einer Legende gemäss Art. 288 Abs. 1 StPO und den dafür notwendigen Urkunden ausgestattet werden. Art. 289 StPO findet sinngemäss Anwendung.
 
 ### F. Vorladungen, Belohnungen, Zwangsmassnahmen
@@ -1742,13 +1755,13 @@ Soll eine gemäss Art. 217 Abs. 3 StPO vorläufig festgenommene Person länger a
 
 Der Regierungsrat erlässt die näheren Bestimmungen über den Vollzug der Untersuchungs- und Sicherheitshaft. Das Disziplinarrecht des Strafvollzugs ist sinngemäss anwendbar.
 
-**37**
-
-- 1\. 7. 25 - 129 § 164. Findet eine Hausdurchsuchung in Abwesenheit der Inhaberin oder des Inhabers der zu durchsuchenden Räume statt, kann der Gemeindeammann als geeignete Person im Sinne von Art. 245 Abs. 2 StPO beigezogen werden.
-
-#### § 165
+#### § 164
 
 **Hausdurchsuchung**
+
+Findet eine Hausdurchsuchung in Abwesenheit der Inhaberin oder des Inhabers der zu durchsuchenden Räume statt, kann der Gemeindeammann als geeignete Person im Sinne von Art. 245 Abs. 2 StPO beigezogen werden.
+
+#### § 165
 
 **Aussonderung zum Schutz von Berufsgeheimnissen**
 
@@ -1800,9 +1813,11 @@ Staatsanwältinnen und -anwälte sowie Jugendanwältinnen und -anwälte, die gem
 
 <sup>2</sup> Die Vorschriften des Ordnungsbussengesetzes vom 18. März 2016<sup>37</sup> finden im kantonalrechtlichen Ordnungsbussenverfahren sinngemäss Anwendung.
 
-**Erhebung der bundes- und kantonalrechtlichen Ordnungsbussen**
+**39**
 
-§ 172.<sup>61</sup> <sup>1</sup> Der Regierungsrat bezeichnet die für die Erhebung von Ordnungsbussen zuständigen Organe des Kantons und der Gemeinden.
+- 1\. 1. 26 - 131 § 172.<sup>61</sup> <sup>1</sup> Der Regierungsrat bezeichnet die für die Erhebung von Ordnungsbussen zuständigen Organe des Kantons und der Gemeinden.
+
+**Erhebung der bundes- und kantonalrechtlichen Ordnungsbussen**
 
 <sup>2</sup> Er kann Gemeinden ohne eigenes Polizeikorps zur Erhebung von Ordnungsbussen betreffend ruhenden Verkehr im Bereich des Strassenverkehrsgesetzes vom 19. Dezember 1958<sup>36</sup> auf ihrem Gebiet ermächtigen.
 
@@ -1823,10 +1838,6 @@ Staatsanwältinnen und -anwälte sowie Jugendanwältinnen und -anwälte, die gem
 **Übertragung der Abwicklung des Ordnungsbussenverfahrens**
 
 § 175 a.<sup>60</sup> Organe des Kantons und der Gemeinden können der Kantonspolizei gegen Verrechnung der Kosten die Abwicklung des Ordnungsbussenverfahrens übertragen.
-
-**39**
-
-- 1\. 7. 25 - 129
 
 ### 5. Abschnitt: Besondere Verfahren gestützt auf das ZGB
 
@@ -1882,6 +1893,10 @@ Keine Gerichtskosten werden auferlegt:
 
 <sup>6</sup> Die obersten kantonalen Gerichte und der Regierungsrat können durch gemeinsame Verordnung das Rechnungswesen von Gerichten und Verwaltungsstellen ganz oder teilweise zusammenfassen.
 
+**41**
+
+- 1\. 1. 26 - 131
+
 ### 8. Teil: Begnadigung
 
 #### § 202
@@ -1932,10 +1947,6 @@ Zivilverfahren, die bei Inkrafttreten dieses Gesetzes erstinstanzlich rechtshän
 
 - b. im übrigen Kantonsgebiet die Bezirksgerichte.
 
-**41**
-
-- 1\. 7. 25 - 129
-
 <sup>2</sup> Die Wahl der Beisitzenden für den Rest der laufenden Amtsdauer erfolgt so bald als möglich. Am Bezirksgericht Zürich amten die gewählten Arbeitsrichterinnen und Arbeitsrichter für den Rest der laufenden Amtsdauer.
 
 #### § 208
@@ -1982,11 +1993,41 @@ Die Bestimmungen über das Geschworenengericht, seine Mitglieder und sein Person
 
 <sup>3</sup> Das Obergericht entscheidet in Fünferbesetzung.
 
+**43**
+
+- 1\. 1. 26 - 131
+
 ### Übergangsbestimmung zur Änderung vom 30. November 2015
 
 (OS 71, 439)
 
 Wer im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2015 als Mitglied eines Bezirksgerichts gewählt ist, kann wiedergewählt werden, auch wenn diese Person die Voraussetzung gemäss § 8 Abs. 2 nicht erfüllt.
+
+### Übergangsbestimmung zur Änderung vom 12. Mai 2025 (OS 80, 289)
+
+Hat der Regierungsrat mehrere Kreise einer Gemeinde zu einem Friedensrichterkreis zusammengeschlossen, bleibt dieser bis zur nächsten Änderung der Gemeindeordnung bestehen. Die Gemeinde legt die Friedensrichterkreise mit der nächsten Änderung der Gemeindeordnung in dieser fest.
+
+<sup>21</sup> LS 551.19.
+
+<sup>22</sup> LS 611.
+
+<sup>23</sup> SR 151.1.
+
+<sup>24</sup> SR 161.1.
+
+<sup>25</sup> SR 210.
+
+<sup>26</sup> SR 220.
+
+<sup>27</sup> SR 221.213.2.
+
+<sup>28</sup> SR 272.
+
+<sup>29</sup> SR 281.1.
+
+<sup>30</sup> SR 291.
+
+<sup>31</sup> SR 311.0.
 
 <sup>32</sup> SR 311.1.
 
@@ -2025,6 +2066,10 @@ Wer im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2015 als Mitg
 <sup>49</sup> Fassung gemäss G vom 27. Oktober 2014 (OS 70, 110; ABl 2014-02-14). In Kraft seit 1. Juni 2015.
 
 <sup>50</sup> Eingefügt durch G über das Meldewesen und die Einwohnerregister vom 11. Mai 2015 (OS 70, 407; ABl 2014-10-31). In Kraft seit 1. Januar 2016. §§ 118–120 werden auf den 1. Januar 2021 geändert.
+
+**45**
+
+- 1\. 1. 26 - 131
 
 <sup>51</sup> Eingefügt durch G über die in der Direktion der Justiz und des Innern verwendeten Personendaten vom 27. Oktober 2014 (OS 71, 163; ABl 2013-11- 15). In Kraft seit 1. Juli 2016.
 
@@ -2068,18 +2113,14 @@ Wer im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2015 als Mitg
 
 <sup>71</sup> Eingefügt durch Gesetz über die Anpassung der Wählbarkeitsvoraussetzungen für die obersten kantonalen Gerichte vom 25. September 2023 (OS 79, 217). In Kraft seit 1. Juli 2025.
 
-**45**
-
-- 1\. 7. 25 - 129
-
 ## Weitere Fussnoten
 
-- [*] Heute: Art. 6 Abs. 1. 1. 7. 25 - 129 11
+- [*] Heute: Art. 6 Abs. 1. 1. 1. 26 - 131 11
 - [1] OS 65, 520.
 - [2] Inkrafttreten: 1. Januar 2011.
 - [3] ABl 2009, 1489.
 - [4] ABl 2010, 513.
-- [5] LS 101.
+- [5] LS 131.1.
 - [6] LS 161.
 - [7] LS 170.4.
 - [8] LS 175.2.
@@ -2095,14 +2136,5 @@ Wer im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2015 als Mitg
 - [18] LS 550.1.
 - [19] LS 551.1.
 - [20] LS 551.104.
-- [21] LS 551.19.
-- [22] LS 611.
-- [23] SR 151.1.
-- [24] SR 161.1.
-- [25] SR 210.
-- [26] SR 220.
-- [27] SR 221.213.2.
-- [28] SR 272.
-- [29] SR 281.1.
-- [30] SR 291.
-- [31] SR 311.0. 1. 7. 25 - 129 43
+- [72] Eingefügt durch G vom 12. Mai 2025 (OS 80, 289; ABl 2023-11-10). In Kraft seit 1. Januar 2026.
+- [73] Fassung gemäss G vom 12. Mai 2025 (OS 80, 289; ABl 2023-11-10). In Kraft seit 1. Januar 2026. 1. 1. 26 - 131 47
