@@ -3,11 +3,11 @@ sr: "152.11"
 title: Ordinance of 8 September 1999 to the Federal Act on Archiving (Archiving Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: en
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20260101/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20260101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Archiving Ordinance)
 
-of 8 September 1999 (Status as of 1 January 2025)
+of 8 September 1999 (Status as of 1 January 2026)
 
 The Swiss Federal Council,
 
@@ -26,7 +26,7 @@ based on Article 24 of the Archiving Act of 26 June 1998[^ingress-1] (ArchA),
 
 ordains:
 
-[^ingress-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^ingress-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Chapter 1 General Provisions
 
@@ -347,7 +347,7 @@ The competent authority may allow consultation during the retention period at th
 
 <sup>2</sup> The procedure is governed by the provisions of the Administrative Procedure Act of 20 December 1968[^22-1]. The procedure under Article 15 paragraph 1 of the Act is reserved.
 
-[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Chapter 4 Commercial Use of Archive Records
 
@@ -383,7 +383,7 @@ Such authorisation may be granted if:
 
 <sup>6</sup> The procedure is governed by the provisions of the Administrative Procedure Act of 20 December 1968[^24-1].
 
-[^24-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 25
 
@@ -434,7 +434,7 @@ Annex 1[^t-1]
 
 In accordance with the Annex to the Government and Administration Organisation Ordinance of 25 November 1998[^annex1-lvlu1-lvla-1].
 
-[^annex1-lvlu1-lvla-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^annex1-lvlu1-lvla-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ### b. Administrative units of the decentralised Federal Administration
 
@@ -463,7 +463,7 @@ Federal Department of Economic Affairs, Education and Research[^annex1-lvlu1-lvl
 
 Federal Department of the Environment, Transport, Energy and Communications
 
-- – Swiss Transportation Safety Investigation Board
+- Swiss Transportation Safety Investigation Board
 - – Federal Communications Commission
 
 [^annex1-lvlu1-lvlb-1]: The name of the administrative unit has been modified in application of Art. 16 para. 3 of the Publications O of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
@@ -481,7 +481,7 @@ Federal Department of the Environment, Transport, Energy and Communications
 
 ### e. Federal Appeals and Arbitration Commissions
 
-- – Federal Arbitration Commission for the Exploitation of Copyrights and Related Rights
+- Federal Arbitration Commission for the Exploitation of Copyrights and Related Rights
 - – Railways Arbitration Commission
 - – Independent Complaints Authority for Radio and Television (ICA)
 
@@ -521,7 +521,7 @@ Annex 3[^t-3]
 
 ## List of Archive Records with Extended Retention Periods
 
-[^t-3]: Amended by No I of the FDHA O of 6 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 666](https://fedlex.data.admin.ch/eli/oc/2024/666)).
+[^t-3]: Amended by No I of the FDHA O of 17 Nov. 2025, in force since 1 Jan. 2026 ([AS 2025 787](https://fedlex.data.admin.ch/eli/oc/2025/787)).
 
 (Art. 12 para. 1 ArchA)
 
