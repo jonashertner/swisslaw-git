@@ -3,13 +3,12 @@ canton: FR
 number: "834.2.41"
 title: Ordonnance fixant la liste des établissements médico-sociaux du canton de Fribourg
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-01-14
+version: 2026-01-01
+version_adopted: 2026-02-23
 adopted: 2018-01-30
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/834.2.41"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8118/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8411/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8118/pdf_file"
 
 Liste des établissements médico-sociaux – O
 
-du 30.01.2018 (version entrée en vigueur le 01.01.2025)
+du 30.01.2018 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -51,11 +50,11 @@ Arrête:
   - 6\. Résidence Les Martinets, 1752 Villars-sur-Glâne: — 100 lits
   - 7\. Résidence Les Epinettes, 1723 Marly: — 52 lits
   - 8\. Résidence Saint-Martin, 1741 Cottens: — 102 lits
-  - 9\. Home du Gibloux, 1726 Farvagny: — 74 lits
+  - 9\. Home médicalisé du Gibloux, 1726 Farvagny: — 74 lits
   - 10\. Résidence Le Manoir, 1762 Givisiez: — 95 lits
   - 11\. Villa Beausite, 1700 Fribourg: — 80 lits
-  - 12\. Foyer Les Peupliers, 1724 Le Mouret: — 17 lits
-  - 13\. Institution de santé pour religieux de Fribourg, 1700 Fribourg: — 56 lits
+  - 12\. EMS Les Peupliers, 1724 Le Mouret: — 17 lits
+  - 13\. Institution de santé pour religieuses et religieux Fribourg, 1700 Fribourg: — 56 lits
 - b) Lits EMS long séjour AOS
   - 1\. …
   - 2\. …
@@ -67,7 +66,7 @@ Arrête:
   - 4\. Villa Beausite, 1700 Fribourg: — 5 lits
 - d) Places en foyer de jour
   - 1\. Home médicalisé de la Sarine, 1752 Villars-sur-Glâne: — 8 places
-  - 2\. Home du Gibloux, 1726 Farvagny: — 8 places
+  - 2\. Home médicalisé du Gibloux, 1726 Farvagny: — 8 places
 
 #### Art. 2
 
@@ -79,18 +78,21 @@ Arrête:
   - 1\. Pflegeheim Maggenberg, 1712 Tafers: — 90 lits
   - 2\. Pflegeheim Aergera, 1735 Giffers: — 34 lits
   - 3\. Pflegeheim Bachmatte, 1716 Oberschrot: — 47 lits
-  - 4\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 49 lits
-  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 164 lits
+  - 4\. Pflegeheim St. Martin, 1712 Tafers: — 49 lits
+  - 5\. Pflegeheim Wolfacker, 3186 Düdingen: — 44 lits
+  - 6\. Pflegeheim Bachtela, 3178 Bösingen: — 31 lits
+  - 7\. Pflegeheim Sonnmatt, 3185 Schmitten: — 44 lits
+  - 8\. Pflegeheim Auried, 3175 Flamatt: — 45 lits
 - b) Lits EMS long séjour AOS
-  - 1\. Alters- und Pflegeheim St. Martin, 1712 Tafers: — 2 lits
+  - 1\. Pflegeheim St. Martin, 1712 Tafers: — 2 lits
 - c) Lits EMS court séjour reconnus
   - 1\. Pflegeheim Maggenberg, 1712 Tafers: — 2 lits
   - 2\. Pflegeheim Aergera, 1735 Giffers: — 1 lit
   - 3\. …
   - 4\. …
-  - 5\. Stiftung St. Wolfgang, 3186 Düdingen: — 2 lits
+  - 5\. Pflegeheim Sonnmatt, 3185 Schmitten: — 2 lits
 - d) Places en foyer de jour
-  - 1\. Stiftung St. Wolfgang, 3186 Düdingen: — 15 places
+  - 1\. Tagesheim St. Wolfgang, 3178 Bösingen: — 15 places
 
 #### Art. 3
 
@@ -101,7 +103,7 @@ Arrête:
 - a) Lits EMS long séjour reconnus
   - 1\. EMS d'Humilimont, 1633 Marsens: — 33 lits
   - 2\. Foyers de la Ville de Bulle, 1630 Bulle: — 132 lits
-  - 3\. Home Vallée de la Jogne, 1637 Charmey: — 48 lits
+  - 3\. Home de la Vallée de la Jogne, 1637 Charmey: — 48 lits
   - 4\. Foyer La Rose des Vents, 1636 Broc: — 44 lits
   - 5\. Foyer Saint-Joseph, 1634 La Roche: — 47 lits
   - 6\. Home de la Vallée de l'Intyamon, 1666 Villars- sous-Mont: — 44 lits
@@ -114,13 +116,13 @@ Arrête:
   - 2\. …
   - 3\. Foyer Saint-Joseph, 1638 Morlon: — 26 lits
 - c) Lits EMS court séjour reconnus
-  - 1\. Home Vallée de la Jogne, 1637 Charmey: — 2 lits
+  - 1\. Home de la Vallée de la Jogne, 1637 Charmey: — 2 lits
   - 2\. EMS de la Sionge, 1628 Vuadens: — 3 lits
   - 3\. Foyer Saint-Germain, 1663 Gruyères: — 3 lits
   - 4\. Foyer Saint-Joseph, 1642 Sorens: — 3 lits
 - d) Places en foyer de jour
-  - 1\. Home Vallée de la Jogne, 1637 Charmey: — 8 places
-  - 2\. Foyers de la Ville de Bulle, 1630 Bulle: — 8 places
+  - 1\. Home de la Vallée de la Jogne, 1637 Charmey: — 8 places
+  - 2\. Foyers de la Ville de Bulle, 1630 Bulle: — 16 places
 
 #### Art. 4
 
@@ -129,21 +131,22 @@ Arrête:
 <sup>1</sup> La liste des établissements médico-sociaux du district du Lac est la suivante:
 
 - a) Lits EMS long séjour reconnus
-  - 1\. Pflegeheim des Seebezirks, 3280 Morat: — 65 lits
+  - 1\. Pflegeheim Murten, 3280 Morat: — 65 lits
   - 2\. Pflegeheim Jeuss, 1793 Jeuss: — 46 lits
-  - 3\. Home médicalisé Saint-François, 1784 Courtepin: — 48 lits
+  - 3\. Home Saint-François, 1784 Courtepin: — 49 lits
   - 4\. Home du Vully, 1786 Sugiez: — 36 lits
-  - 5\. Alters- und Pflegeheim Kerzers, 3210 Kerzers: — 38 lits
-  - 6\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: — 28 lits
+  - 5\. Pflegeheim Kerzers, 3210 Kerzers: — 38 lits
+  - 6\. Altersheim Ulmiz, 3214 Ulmiz: — 28 lits
   - 7\. Stiftung Résidence Beaulieu, 3280 Morat: — 20 lits
-  - 8\. Stiftung Hospiz St. Peter, 3212 Gurmels: — 36 lits
+  - 8\. Stiftung Hospiz St. Peter, 3212 Gurmels: — 34 lits
 - b) Lits EMS long séjour AOS
   - 1\. …
   - 2\. …
   - 3\. …
 - c) Lits EMS court séjour reconnus
-  - 1\. Pflegeheim des Seebezirks, 3280 Morat: — 3 lits
-  - 2\. Pflegeheim Jeuss, 1793 Jeuss: — 3 lits
+  - 1\. Pflegeheim Murten, 3280 Morat: — 3 lits
+  - 2\. Pflegeheim Jeuss, 1793 Jeuss: — 2 lits
+  - 3\. Stiftung Hospiz St. Peter, 3212 Gurmels: — 2 lits
 - d) Places en foyer de jour
   - 1\. Pflegeheim Jeuss, 1793 Jeuss: — 8 places
 
@@ -154,13 +157,13 @@ Arrête:
 <sup>1</sup> La liste des établissements médico-sociaux du district de la Glâne est la suivante:
 
 - a) Lits EMS long séjour reconnus
-  - 1\. Réseau Santé Glâne, 1681 Billens: — 230 lits
+  - 1\. Réseau Santé de la Glâne, 1681 Billens: — 230 lits
 - b) Lits EMS long séjour AOS: — Aucun lit
   - 1\. …
 - c) Lits EMS court séjour reconnus
-  - 1\. Réseau Santé Glâne, 1681 Billens: — 5 lits
+  - 1\. Réseau Santé de la Glâne, 1681 Billens: — 5 lits
 - d) Places en foyer de jour
-  - 1\. Réseau Santé Glâne, 1681 Billens: — 8 places
+  - 1\. Réseau Santé de la Glâne, 1681 Billens: — 8 places
 
 #### Art. 6
 
@@ -170,14 +173,14 @@ Arrête:
 
 - a) Lits EMS long séjour reconnus
   - 1\. EMS Les Grèves du Lac, 1544 Gletterens: — 37 lits
-  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 182 lits
+  - 2\. Réseau Santé Social de la Broye Fribourgeoise, 1776 Montagny-la-Ville: — 182 lits
 - b) Lits EMS long séjour AOS
   - 1\. EMS Les Grèves du Lac, 1544 Gletterens: — 3 lits
   - 2\. …
 - c) Lits EMS court séjour reconnus
-  - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 6 lits
+  - 1\. Réseau Santé Social de la Broye Fribourgeoise, 1776 Montagny-la-Ville: — 6 lits
 - d) Places en foyer de jour
-  - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: — 7 places
+  - 1\. Réseau Santé Social de la Broye Fribourgeoise, 1776 Montagny-la-Ville: — 8 places
 
 #### Art. 7
 
@@ -187,11 +190,11 @@ Arrête:
 
 - a) Lits EMS long séjour reconnus
   - 1\. Maison Saint-Joseph, 1618 Châtel-Saint-Denis: — 84 lits
-  - 2\. EMS Le Châtelet, 1616 Attalens: — 68 lits
+  - 2\. Home Le Châtelet, 1616 Attalens: — 68 lits
 - b) Lits EMS long séjour AOS: — Aucun lit
 - c) Lits EMS court séjour reconnus
   - 1\. Maison Saint-Joseph, 1618 Châtel-Saint-Denis: — 3 lits
-  - 2\. EMS Le Châtelet, 1616 Attalens: — 3 lits
+  - 2\. Home Le Châtelet, 1616 Attalens: — 3 lits
 - d) Places en foyer de jour
   - 1\. Maison Saint-Joseph, 1618 Châtel-Saint-Denis: — 10 places
 
@@ -215,7 +218,7 @@ Arrête:
   - 3\. Lits EMS HFR, Résidence palliative, 1752 Villars-sur-Glâne: — 6 lits
   - 4\. Lits EMS HFR, 1752 Villars-sur-Glâne: — 17 lits
   - 5\. Lits EMS HIB, 1470 Estavayer-le-Lac: — 5 lits
-  - 6\. Réseau Santé Glâne, 1681 Billens: — 12 lits
+  - 6\. Réseau Santé de la Glâne, 1681 Billens: — 12 lits
 - d) Places en foyer de jour
   - 1\. La Famille au Jardin, 1717 St. Ursen: — 14 places
 
