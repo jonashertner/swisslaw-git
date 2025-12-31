@@ -3,18 +3,18 @@ sr: "412.101.221.67"
 title: "Ordinanza della SEFRI del 16 agosto 2011 sulla formazione professionale di base Operatrice/Operatore per la promozione dell'attività fisica e della salute AFC con attestato federale di capacità (AFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/682"
 language: it
-version: 2019-03-01
+version: 2026-01-01
 adopted: 2011-08-16
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/682/20190301/it/xml/fedlex-data-admin-ch-eli-cc-2011-682-20190301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/682/20190301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/682/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2011-682-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/682/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Operatrice/Operatore per la promozione dell’attività fisica e della salute con attestato federale di capacità (AFC)
 
-del 16 agosto 2011 (Stato 1° marzo 2019)[^t-1]
+del 16 agosto 2011 (Stato 1° gennaio 2026)[^t-1]
 
 [^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
@@ -28,8 +28,8 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 1: Oggetto e durata
 
@@ -214,9 +214,10 @@ Il piano di formazione:
 
 **Cultura generale**
 
-Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^9-2].
 
-[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^9-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
 
@@ -335,11 +336,12 @@ Nella procedura di qualificazione con esame finale vengono esaminati i campi di 
 
 - a. «lavoro pratico», sotto forma di lavoro pratico individuale della durata da 8 a 16 ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 - b. «conoscenze professionali», della durata di tre ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame si svolge in forma scritta;
-- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^16-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 9 aprile 2025[^16-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^16-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^16-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^16-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^16-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 17
 
