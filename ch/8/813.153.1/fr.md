@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur les émoluments perçus en application de 
 short: OEChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: fr
-version: 2024-07-01
+version: 2026-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-469-20260101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240701/fr"
 
 (Ordonnance sur les émoluments relatifs aux produits chimiques, OEChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> juillet 2024)
+du 18 mai 2005 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -113,7 +113,7 @@ Annexe[^t-1]
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Mise à jour par l’annexe ch. 3 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. III de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 11 ch. 2 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), l’annexe 6 ch. 3 de l’O du 5 juin 2015 sur les produits chimiques, ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), le ch. II de l’O du 5 avr. 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), l’annexe ch. 2 de l’O du 15 nov. 2023 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)) et l’annexe de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
+[^t-1]: Mise à jour par l’annexe ch. 3 de l’O du 7 nov. 2012 ([RO 2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)), le ch. III de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), l’annexe 11 ch. 2 de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), l’annexe 6 ch. 3 de l’O du 5 juin 2015 sur les produits chimiques, ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), le ch. II de l’O du 5 avr. 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), l’annexe ch. 2 de l’O du 15 nov. 2023 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)), l’annexe de l’O du 31 mai 2024 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)) et l’annexe ch. 1 de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 [^annexu1-lvlI-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -210,13 +210,21 @@ Annexe[^t-1]
 <tr><td colspan="2">2.1 Émolument de base pour une substance et un emploi</td><td>10 000–40 000</td></tr>
 <tr><td colspan="2">2.2 Émolument supplémentaire pour une substance supplémentaire d’un groupe de substances selon l’annexe XI, section 1.5, du règlement (CE) n<sup>o</sup> 1907/2006[^annexu1-lvlIII-2]</td><td>1 000–10 000</td></tr>
 <tr><td colspan="2">2.3 Émolument supplémentaire pour un emploi supplémentaire</td><td>1 000–10 000</td></tr>
-<tr><td colspan="2">*3* *Traitement d’une communication sur le procédé de fabrication en système fermé au sens de l’annexe 1.17, ch. 4*</td><td>500–3 000</td></tr>
+<tr><td colspan="2">*3*[^annexu1-lvlIII-3] *Traitement d’une communication sur le procédé de fabrication en système fermé au sens de l’annexe 1.17, ch. 4*</td><td>500–3 000</td></tr>
 <tr><td colspan="2">*4* *Traitement d**’**une demande de remboursement de la taxe* *visée* *à l**’**annexe 2.15, ch. 6.6**<sup>bis</sup>*</td><td></td></tr>
 <tr><td colspan="2">4.1 pour les piles portables</td><td>100</td></tr>
 <tr><td colspan="2">4.2 pour les piles automobiles et les piles industrielles</td><td>400</td></tr>
+<tr><td colspan="2">*5* *Délivrance et prolongation d’un permis selon les art. 12, al. 4 et 9, al. 3, ORRChim*</td><td>50</td></tr>
+<tr><td colspan="2">5.1 Émolument pour la recherche d’un stage d’adaptation selon l’art. 8*a*, al. 3, ORRChim</td><td>300–500</td></tr>
+<tr><td colspan="2">5.2 Émolument d’examen selon l’art. 8*a*, al. 3, ORRChim</td><td>50</td></tr>
+<tr><td colspan="2">*6* *Traitement* *d’une demande de raccordement à l’interface standard selon* *l’art. 10 de* *l’ordonnance du* *16 novembre 2022* *relative* *au registre* *des permis pour l’emploi des produits phytosanitaires*[^annexu1-lvlIII-4]</td><td></td></tr>
+<tr><td colspan="2">6.1 Émolument unique pour le traitement de la demande et le conseil en programmation de l’interface standard, y compris le certificat et la formation des utilisateurs</td><td>200–7 000</td></tr>
+<tr><td colspan="2">6.2 Émolument supplémentaire annuel éventuel pour l’assistance technique, le renouvellement du certificat et le contrôle de la qualité des données</td><td>200–5 000</td></tr>
 </table>
 
 [^annexu1-lvlIII-2]: R (CE) n<sup>o</sup>1907/2006 du Parlement européen et du Conseil du 18 déc. 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le R (CEE) n<sup>o</sup> 793/93 du Conseil et le R (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le R (CE) n<sup>o</sup> 412/2012, JO L 128 du 16.5.2012, p. 1.
+[^annexu1-lvlIII-3]: Suite à l’introduction des ch. 3 au 1<sup>er</sup> juin 2023 ([RO 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) et 4 au 1<sup>er</sup> juil. 2024 ([RO 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)), les ch. 3 ss du [RO 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)ont été renumérotés en ch. 5 ss.
+[^annexu1-lvlIII-4]: [RS 814.88](https://fedlex.data.admin.ch/eli/cc/2022/792)
 
 ## IV. Émoluments perçus en application de l’ordonnance du 18 mai 2005 sur les bonnes pratiques de laboratoire (OBPL)
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 sugli emolumenti per l'esecuzione della leg
 short: OEPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/469"
 language: it
-version: 2024-07-01
+version: 2026-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2005-469-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/469/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2005-469-20260101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/469/20240701/it"
 
 (Ordinanza sugli emolumenti in materia di prodotti chimici, OEPChim)
 
-del 18 maggio 2005 (Stato 1° luglio 2024)
+del 18 maggio 2005 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 47 della legge del 15 dicembre 2000[^ingress-1] sui prodotti 
 
 ordina:
 
-[^ingress-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^ingress-1]: RU **2005** 2869 RS **813.1**
 [^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 
 #### Art. 1
@@ -113,7 +113,7 @@ Allegato[^t-1]
 
 [^annexu1-lvlI-1]
 
-[^t-1]: Aggiornato dal n. III dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 11 n. 2 dell’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), dall’all. 6 n. 3 dell’O del 5 giu. 2015 sui prodotti chimici ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105),) dal n. II dell’O del 5 apr. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), dall’all. n. 2 dell’O del 15 nov. 2023 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)) e dall’all. dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)).
+[^t-1]: Aggiornato dal n. III dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 11 n. 2 all’O del 20 giu. 2014 ([RU 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)), dal n. 3 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 835](https://fedlex.data.admin.ch/eli/oc/2018/105)), dal n. II dell’O del 5 apr. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), dall’all. n. 2 dell’O del 15 nov. 2023 ([RU 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)), dall’all. dell’O del 31 mag. 2024 ([RU 2024 254](https://fedlex.data.admin.ch/eli/oc/2024/254)) e dall’all. n. 1 dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 [^annexu1-lvlI-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 <table>
@@ -131,7 +131,7 @@ Allegato[^t-1]
 <tr><td>4a Trattamento di una domanda di deroga alle disposizioni di etichettatura e di imballaggio (art. 12 OPChim)</td><td>200– 1 000</td></tr>
 </table>
 
-## II. [Emolumenti secondo l’ordinanza del 18 maggio 2005](https://www.admin.ch/opc/de/classified-compilation/20021522/index.html) sui biocidi [(OBioc)](https://www.admin.ch/opc/de/classified-compilation/20021522/index.html)
+## II. Emolumenti secondo l’ordinanza del 18 maggio 2005 sui biocidi [(OBioc)](https://www.admin.ch/opc/de/classified-compilation/20021522/index.html)
 
 [^annexu1-lvlII-1]
 
@@ -208,13 +208,24 @@ Allegato[^t-1]
 <tr><td>2.1 Emolumento di base per una sostanza e un impiego</td><td>10 000 – 40 000</td></tr>
 <tr><td>2.2 Emolumento suppletivo per un’ulteriore sostanza di un gruppo di sostanze secondo l’allegato XI sezione 1.5 del regolamento (CE) n. 1907/2006[^annexu1-lvlIII-2]</td><td>1 000 – 10 000</td></tr>
 <tr><td>2.3 Emolumento suppletivo per un impiego supplementare</td><td>1 000 – 10 000</td></tr>
-<tr><td>3 *Elaborazione di una notifica concernente il processo* *di fabbricazione all’interno di un sistema chiuso secondo l’al**legato 1.17 numero 4*</td><td>[tab] 500 – 3 000</td></tr>
+<tr><td>3[^annexu1-lvlIII-3] *Elaborazione di una notifica concernente il processo* *di fabbricazione all’interno di un sistema chiuso secondo l’al**legato 1.17 numero 4*</td><td>[tab] 500 – 3 000</td></tr>
 <tr><td>4 *Trattamento di una* *domanda* *di restituzione della tassa* *secondo* *l’allegato 2.15 numero 6.6**<sup>bis</sup>*</td><td>[tab]</td></tr>
 <tr><td>4.1 per pile per apparecchiature</td><td>[tab] 100</td></tr>
 <tr><td>4.2 per pile per veicoli e pile industriali</td><td>[tab] 400</td></tr>
 </table>
 
+<table>
+<tr><td>5 *Rilascio e proroga di un’autorizzazione speciale secondo gli art. 12 cpv. 4 e 9 cpv. 3 ORRPChim*</td><td>50</td></tr>
+<tr><td>5.1 Emolumento per la ricerca di un tirocinio di adattamento secondo l’art. 8*a* cpv. 3 ORRPChim</td><td>300–500</td></tr>
+<tr><td>5.2 Emolumento d’esame secondo l’art. 8*a* cpv. 3 ORRPChim</td><td>50</td></tr>
+<tr><td>6 *Trattamento di una domanda di raccordo all’interfaccia standard secondo l’art. 10 dell’ordinanza dell’ordinanza del 16 novembre 2022*[^annexu1-lvlIII-4] *sul registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari*</td><td></td></tr>
+<tr><td>6.1 Emolumento unico per il trattamento della domanda e la consulenza sulla programmazione dell’interfaccia standard, compresi il certificato e la formazione degli utenti</td><td>200–7 000</td></tr>
+<tr><td>6.2 Eventuale emolumento annuo aggiuntivo per l’assistenza tecnica, il rinnovo del certificato e il controllo della qualità dei dati</td><td>200–5 000</td></tr>
+</table>
+
 [^annexu1-lvlIII-2]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dic. 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato l’ultima volta dal regolamento (UE) n. 412/2012, GU L 128 del 16.5.2012, pag. 1.
+[^annexu1-lvlIII-3]: In seguito all’introduzione di un n. 3 il 1° giu. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), i n. 3 e segg. della [RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)sono rinumerati in 4 e segg.
+[^annexu1-lvlIII-4]: [RS 814.88](https://fedlex.data.admin.ch/eli/cc/2022/792)
 
 ## IV. Emolumenti secondo l’ordinanza del 18 maggio 2005 sulla buona prassi di laboratorio (OBPL)
 
