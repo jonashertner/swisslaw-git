@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250701/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Juli 2025)
+vom 27. Juni 1995 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG), auf Artikel 96 des Bundesgesetzes vom 18. März 1994[^ingress-2] über die Krankenversicherung (Gesetz/KVG), auf Artikel 82 Absatz 2 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-3] (HMG) und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-4] (RVOG),[^ingress-5]
+gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG), auf Artikel 96 des Bundesgesetzes vom 18. März 1994[^ingress-2] über die Krankenversicherung (KVG), auf Artikel 82 Absatz 2 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-3] (HMG) und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-4],[^ingress-5]
 
 verordnet:
 
@@ -29,7 +29,7 @@ verordnet:
 [^ingress-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^ingress-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
-[^ingress-5]: Fassung gemäss Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^ingress-5]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 ## 1. Teil: Obligatorische Krankenpflegeversicherung
 
@@ -43,34 +43,35 @@ verordnet:
 
 **Versicherungspflicht**
 
-<sup>1</sup> Personen mit Wohnsitz in der Schweiz nach den Artikeln 23–26 des Zivilgesetzbuches[^1-1] (ZGB) unterstehen der Versicherungspflicht nach Artikel 3 des Gesetzes.
+<sup>1</sup> Personen mit Wohnsitz in der Schweiz nach den Artikeln 23–26 des Zivilgesetzbuches[^1-1] (ZGB) unterstehen der Versicherungspflicht nach Artikel 3 KVG[^1-2].
 
 <sup>2</sup>
 
 Versicherungspflichtig sind zudem:
 
-- a.[^1-2] Ausländer und Ausländerinnen mit einer Kurzaufenthalts- oder Aufenthaltsbewilligung nach den Artikeln 32 und 33 des Bundesgesetzes vom 16. Dezember 2005[^1-3] über die Ausländerinnen und Ausländer und über die Integration (AIG), die mindestens drei Monate gültig ist;
-- b.[^1-4] unselbstständig erwerbstätige Ausländer und Ausländerinnen, deren Kurzaufenthaltsbewilligung weniger als drei Monate gültig ist, sofern sie für Behandlungen in der Schweiz nicht über einen gleichwertigen Versicherungsschutz verfügen;
-- c.[^1-5] Personen, die ein Asylgesuch in der Schweiz nach Artikel 18 des Asylgesetzes vom 26. Juni 1998[^1-6] (AsylG) gestellt haben, und Personen, welchen nach Artikel 66 des AsylG vorübergehender Schutz gewährt wurde, sowie Personen, für welche die vorläufige Aufnahme nach Artikel 83 AIG verfügt worden ist;
-- d.[^1-7] Personen, die in einem Mitgliedstaat der Europäischen Union wohnen und nach dem in Artikel 95*a* Absatz 1 des Gesetzes genannten Abkommen vom 21. Juni 1999[^1-8] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie seinem Anhang II der schweizerischen Versicherung unterstellt sind;
-- e.[^1-9] Personen, die in Island oder Norwegen wohnen und nach dem in Artikel 95*a* Absatz 2 des Gesetzes genannten Abkommen vom 21. Juni 2001[^1-10] zur Änderung des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Abkommen), seinem Anhang K und Anlage 2 zu Anhang K der schweizerischen Versicherung unterstellt sind;
-- e<sup>bis</sup>.[^1-11] Personen, die in einem Staat wohnen, mit dem ein Abkommen über soziale Sicherheit besteht, und die aufgrund dieses Abkommens der schweizerischen Versicherung unterstellt sind;
-- f.[^1-12] Personen mit einer Kurzaufenthalts- oder einer Aufenthaltsbewilligung nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen, die mindestens drei Monate gültig ist;
-- g.[^1-13] Personen, die während längstens drei Monaten in der Schweiz erwerbstätig sind und nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen hierfür keine Aufenthaltsbewilligung benötigen, sofern sie für Behandlungen in der Schweiz nicht über einen gleichwertigen Versicherungsschutz verfügen.
+- a.[^1-3] Ausländer und Ausländerinnen mit einer Kurzaufenthalts- oder Aufenthaltsbewilligung nach den Artikeln 32 und 33 des Bundesgesetzes vom 16. Dezember 2005[^1-4] über die Ausländerinnen und Ausländer und über die Integration (AIG), die mindestens drei Monate gültig ist;
+- b.[^1-5] unselbstständig erwerbstätige Ausländer und Ausländerinnen, deren Kurzaufenthaltsbewilligung weniger als drei Monate gültig ist, sofern sie für Behandlungen in der Schweiz nicht über einen gleichwertigen Versicherungsschutz verfügen;
+- c.[^1-6] Personen, die ein Asylgesuch in der Schweiz nach Artikel 18 des Asylgesetzes vom 26. Juni 1998[^1-7] (AsylG) gestellt haben, und Personen, welchen nach Artikel 66 des AsylG vorübergehender Schutz gewährt wurde, sowie Personen, für welche die vorläufige Aufnahme nach Artikel 83 AIG verfügt worden ist;
+- d.[^1-8] Personen, die in einem Mitgliedstaat der Europäischen Union wohnen und nach dem in Artikel 95*a* Absatz 1 KVG genannten Abkommen vom 21. Juni 1999[^1-9] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie seinem Anhang II der schweizerischen Versicherung unterstellt sind;
+- e.[^1-10] Personen, die in Island oder Norwegen wohnen und nach dem in Artikel 95*a* Absatz 2 KVG genannten Abkommen vom 21. Juni 2001[^1-11] zur Änderung des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Abkommen), seinem Anhang K und Anlage 2 zu Anhang K der schweizerischen Versicherung unterstellt sind;
+- e<sup>bis</sup>.[^1-12] Personen, die in einem Staat wohnen, mit dem ein Abkommen über soziale Sicherheit besteht, und die aufgrund dieses Abkommens der schweizerischen Versicherung unterstellt sind;
+- f.[^1-13] Personen mit einer Kurzaufenthalts- oder einer Aufenthaltsbewilligung nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen, die mindestens drei Monate gültig ist;
+- g.[^1-14] Personen, die während längstens drei Monaten in der Schweiz erwerbstätig sind und nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen hierfür keine Aufenthaltsbewilligung benötigen, sofern sie für Behandlungen in der Schweiz nicht über einen gleichwertigen Versicherungsschutz verfügen.
 
 [^1-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^1-2]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^1-4]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-2]: Ausdruck gemäss Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-3]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^1-5]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-6]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
-[^1-7]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-8]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^1-9]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-10]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
-[^1-11]: Eingefügt durch Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-12]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^1-13]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^1-6]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-7]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^1-8]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-9]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^1-10]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-11]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^1-12]: Eingefügt durch Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-13]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^1-14]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 
 #### Art. 2
 
@@ -200,9 +201,9 @@ Folgende Personen und die sie begleitenden Familienangehörigen im Sinne von Art
 
 <sup>1</sup> Die Versicherer dürfen auf dem Beitrittsformular nur Angaben verlangen, die für den Beitritt zur obligatorischen Krankenpflegeversicherung oder bei einem Wechsel des Versicherers erforderlich sind.
 
-<sup>2</sup> Das Beitrittsformular darf keinerlei Angaben, Hinweise und Verbindungen zu den Versicherungen nach Artikel 12 Absatz 2[^6a-2] des Gesetzes und zur freiwilligen Taggeldversicherung nach den Artikeln 67–77 des Gesetzes enthalten.
+<sup>2</sup> Das Beitrittsformular darf keinerlei Angaben, Hinweise und Verbindungen zu den Versicherungen nach Artikel 12 Absatz 2[^6a-2] KVG und zur freiwilligen Taggeldversicherung nach den Artikeln 67–77 KVG enthalten.
 
-<sup>3</sup> Die Versicherer dürfen die Personendaten nur für die im Gesetz vorgesehenen Aufgaben bearbeiten.
+<sup>3</sup> Die Versicherer dürfen die Personendaten nur für die im KVG vorgesehenen Aufgaben bearbeiten.
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Siehe auch die SchlB dieser Änd. am Ende dieser Verordnung.
 [^6a-2]: [[AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)Anhang Ziff. 2]. Siehe seit dem 1. Jan. 2016: Art. 2 Abs. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
@@ -227,7 +228,7 @@ Folgende Personen und die sie begleitenden Familienangehörigen im Sinne von Art
 
 <sup>6</sup> Die mit Vorrechten, Immunitäten und Erleichterungen begünstigten Personen, die der schweizerischen Versicherung unterstellt sein wollen (Art. 6 Abs. 1), haben sich innert sechs Monaten nach Erhalt der Legitimationskarte des EDA zu versichern. Die Versicherung beginnt am Tag, an dem sie diese Karte erhalten haben. Sie endet mit der Aufgabe der amtlichen Tätigkeit in der Schweiz, mit dem Tod der Versicherten oder mit dem Verzicht auf die Unterstellung unter die schweizerische obligatorische Versicherung. Im letzteren Fall darf ohne besonderen Grund kein neues Gesuch gestellt werden.[^7-9]
 
-<sup>7</sup> Aktive und pensionierte Bundesbedienstete nach Artikel 2 Absatz 1 Buchstabe a, die aus der Militärversicherung ausscheiden, müssen sich innert drei Monaten nach Ausscheiden aus der Militärversicherung bei einem Versicherer nach Artikel 11[^7-10] des Gesetzes für Krankenpflege versichern. Bei rechtzeitigem Versicherungsbeitritt beginnt die Versicherung im Zeitpunkt des Ausscheidens aus der Militärversicherung.
+<sup>7</sup> Aktive und pensionierte Bundesbedienstete nach Artikel 2 Absatz 1 Buchstabe a, die aus der Militärversicherung ausscheiden, müssen sich innert drei Monaten nach Ausscheiden aus der Militärversicherung bei einem Versicherer nach Artikel 11[^7-10] KVG für Krankenpflege versichern. Bei rechtzeitigem Versicherungsbeitritt beginnt die Versicherung im Zeitpunkt des Ausscheidens aus der Militärversicherung.
 
 <sup>8</sup> Versicherungspflichtige Personen nach Artikel 1 Absatz 2 Buchstaben d–e<sup>bis</sup> sind verpflichtet, sich innert drei Monaten nach Entstehung der Versicherungspflicht in der Schweiz zu versichern. Versichern sie sich innert dieser Frist, so beginnt die Versicherung im Zeitpunkt der Unterstellung unter die schweizerische Versicherung. Versichern sie sich später, so beginnt die Versicherung im Zeitpunkt des Beitritts. Die Versicherung endet, wenn diese Personen die Voraussetzungen für eine Unterstellung unter die schweizerische Versicherung nach dem Freizügigkeitsabkommen[^7-11] und dessen Anhang II, nach dem EFTA-Abkommen[^7-12] und dessen Anhang K und dessen Anlage 2 zu Anhang K oder nach anderen internationalen Abkommen nicht mehr erfüllen.[^7-13]
 
@@ -258,7 +259,7 @@ Die Versicherer können Personen, die nach Artikel 1 Absätze 1 und 2 Buchstaben
 
 **Fortdauer der Versicherungspflicht**[^7b-1]
 
-Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gesetzes schriftlich über eine Fortdauer der Versicherungspflicht.
+Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 KVG schriftlich über eine Fortdauer der Versicherungspflicht.
 
 [^7b-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
@@ -266,11 +267,11 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 **Prämienzuschlag bei verspätetem Beitritt**
 
-<sup>1</sup> Die Erhebungsdauer für den Prämienzuschlag bei verspätetem Beitritt nach Artikel 5 Absatz 2 des Gesetzes entspricht der doppelten Dauer der Verspätung, höchstens jedoch fünf Jahren.[^8-1] Der Prämienzuschlag beträgt 30 bis 50 Prozent der Prämie. Der Versicherer setzt den Zuschlag nach der finanziellen Lage der Versicherten fest. Hat die Zahlung des Prämienzuschlages eine Notlage für die Versicherten zur Folge, setzt der Versicherer einen Zuschlag von weniger als 30 Prozent fest und trägt dabei der Lage der Versicherten und den Umständen der Verspätung angemessen Rechnung.
+<sup>1</sup> Die Erhebungsdauer für den Prämienzuschlag bei verspätetem Beitritt nach Artikel 5 Absatz 2 KVG entspricht der doppelten Dauer der Verspätung, höchstens jedoch fünf Jahren.[^8-1] Der Prämienzuschlag beträgt 30 bis 50 Prozent der Prämie. Der Versicherer setzt den Zuschlag nach der finanziellen Lage der Versicherten fest. Hat die Zahlung des Prämienzuschlages eine Notlage für die Versicherten zur Folge, setzt der Versicherer einen Zuschlag von weniger als 30 Prozent fest und trägt dabei der Lage der Versicherten und den Umständen der Verspätung angemessen Rechnung.
 
 <sup>2</sup> Wenn eine Sozialhilfebehörde für die Prämien aufkommt, wird kein Prämienzuschlag erhoben.
 
-<sup>3</sup> Wechselt die versicherte Person den Versicherer, hat der bisherige Versicherer dem neuen Versicherer den Prämienzuschlag im Rahmen der Mitteilung gemäss Artikel 7 Absatz 5 des Gesetzes anzugeben. Ein einmal festgelegter Prämienzuschlag bleibt auch für spätere Versicherer verbindlich.[^8-2]
+<sup>3</sup> Wechselt die versicherte Person den Versicherer, hat der bisherige Versicherer dem neuen Versicherer den Prämienzuschlag im Rahmen der Mitteilung gemäss Artikel 7 Absatz 5 KVG anzugeben. Ein einmal festgelegter Prämienzuschlag bleibt auch für spätere Versicherer verbindlich.[^8-2]
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
 [^8-2]: Eingefügt durch Ziff. I der V vom 9. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
@@ -297,7 +298,7 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 <sup>2</sup> Die zuständige kantonale Behörde entscheidet über die in den Artikeln 2 Absätze 2–5 und 6 Absatz 3 vorgesehenen Gesuche.[^10-3]
 
-<sup>3</sup> Die rentenauszahlenden Sozialversicherer und die Organe der Arbeitslosenversicherung unterstützen die Kantone bei der Information über die Versicherungspflicht von Personen nach Artikel 6*a* Absatz 1 Buchstaben b und c des Gesetzes.[^10-4]
+<sup>3</sup> Die rentenauszahlenden Sozialversicherer und die Organe der Arbeitslosenversicherung unterstützen die Kantone bei der Information über die Versicherungspflicht von Personen nach Artikel 6*a* Absatz 1 Buchstaben b und c KVG.[^10-4]
 
 [^10-1]: Ausdruck gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^10-2]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
@@ -314,7 +315,7 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 **Sistierung der Versicherungspflicht**[^10a-1]
 
-<sup>1</sup> Die Sistierung der Versicherungspflicht nach Artikel 3 Absatz 4 des Gesetzes beginnt am Tag, an dem die versicherte Person dem MVG[^10a-2] unterstellt wird.
+<sup>1</sup> Die Sistierung der Versicherungspflicht nach Artikel 3 Absatz 4 KVG beginnt am Tag, an dem die versicherte Person dem MVG[^10a-2] unterstellt wird.
 
 <sup>2</sup> Die versicherte Person ist ab Beginn der Unterstellung unter die Militärversicherung von der Prämienzahlung befreit, wenn sie die Unterstellung mindestens acht Wochen vor deren Beginn ihrem Versicherer meldet. Hält sie diese Frist nicht ein, so erhebt der Versicherer ab dem nächsten ihm möglichen Termin, spätestens aber acht Wochen nach der Meldung keine Prämie mehr.
 
@@ -335,7 +336,7 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 **Sistierung der Unfalldeckung[^11-1]**
 
-<sup>1</sup> Die Sistierung der Unfalldeckung nach Artikel 8 des Gesetzes erfolgt auf schriftlichen Antrag der Versicherten und beginnt frühestens am ersten Tag des dem Antrag folgenden Monats.
+<sup>1</sup> Die Sistierung der Unfalldeckung nach Artikel 8 KVG erfolgt auf schriftlichen Antrag der Versicherten und beginnt frühestens am ersten Tag des dem Antrag folgenden Monats.
 
 <sup>2</sup> Der Arbeitgeber oder die Arbeitslosenversicherung haben die Versicherten vor Ende des Arbeitsverhältnisses, des Anspruchs auf Arbeitslosenentschädigung oder der Nichtberufsunfalldeckung schriftlich darüber zu informieren, dass sie den Krankenversicherer vom Erlöschen der Unfalldeckung in Kenntnis setzen müssen. Die Versicherten haben den Krankenversicherer innerhalb eines Monats nach der Information durch den Arbeitgeber oder die Arbeitslosenversicherung in Kenntnis zu setzen.
 
@@ -371,18 +372,18 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 **Erfüllung internationaler Verpflichtungen**[^19-1]
 
-<sup>1</sup> Die gemeinsame Einrichtung nimmt die sich aus Artikel 95*a* des Gesetzes ergebenden Aufgaben als Verbindungsstelle wahr. Sie erfüllt auch die Aufgaben als aushelfender Träger am Wohn- oder am Aufenthaltsort der Versicherten, für die aufgrund von Artikel 95*a* des Gesetzes Anspruch auf internationale Leistungsaushilfe besteht. Sie ist ausserdem zuständig für die Durchführung der Leistungsaushilfe und die Aufgaben als Verbindungsstelle aufgrund anderer internationaler Vereinbarungen.[^19-2]
+<sup>1</sup> Die gemeinsame Einrichtung nimmt die sich aus Artikel 95*a* KVG ergebenden Aufgaben als Verbindungsstelle wahr. Sie erfüllt auch die Aufgaben als aushelfender Träger am Wohn- oder am Aufenthaltsort der Versicherten, für die aufgrund von Artikel 95*a* KVG Anspruch auf internationale Leistungsaushilfe besteht. Sie ist ausserdem zuständig für die Durchführung der Leistungsaushilfe und die Aufgaben als Verbindungsstelle aufgrund anderer internationaler Vereinbarungen.[^19-2]
 
 <sup>2</sup>
 
-Die gemeinsame Einrichtung übernimmt überdies Koordinationsaufgaben zur Erfüllung der sich aus Artikel 95*a* des Gesetzes oder internationaler Vereinbarungen ergebenden Verpflichtungen. Namentlich erfüllt sie folgende Aufgaben:[^19-3]
+Die gemeinsame Einrichtung übernimmt überdies Koordinationsaufgaben zur Erfüllung der sich aus Artikel 95*a* KVG oder internationaler Vereinbarungen ergebenden Verpflichtungen. Namentlich erfüllt sie folgende Aufgaben:[^19-3]
 
 - a. Sie ermittelt aufgrund der anerkannten Kostenstatistiken des zuständigen Organs der Europäischen Union (Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit) oder der Statistiken des betreffenden Staates die Ansätze je Person, die die Versicherer der Prämienberechnung für die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnhaften Versicherten zu Grunde zu legen haben.
 - b.[^19-4] Sie erstellt bis zum 31. Mai einen Bericht zu Handen des BAG über die durchgeführte Leistungsaushilfe unter Angabe der Zahl der Fälle, der Gesamtkosten und der ausstehenden Rückzahlungen; die Daten sind nach den Mitgliedstaaten der Europäischen Union, nach Island, nach Norwegen, nach dem Vereinigten Königreich und nach den schweizerischen Versicherern zu differenzieren.[^19-5]
 
 <sup>3</sup> Die Versicherer tragen proportional zur Anzahl der bei ihnen obligatorisch für Krankenpflege versicherten Personen die Kosten der Aufgaben, welche die gemeinsame Einrichtung als aushelfender Träger erfüllt, sowie die Kosten der Berichterstattung gemäss Absatz 2 Buchstabe b. Der Bund trägt die durch die Vorfinanzierung der Leistungsaushilfe entstehenden Zinskosten, die Kosten der Aufgaben, welche die gemeinsame Einrichtung als Verbindungsstelle erfüllt, sowie die Kosten für die Ermittlungen gemäss Absatz 2 Buchstabe a.[^19-6]
 
-<sup>4</sup> Haben Versicherer und Leistungserbringer gemäss Artikel 42 Absatz 2 des Gesetzes vertraglich vereinbart, dass der Versicherer die Vergütung schuldet, so wird die gemeinsame Einrichtung bei der Durchführung der Leistungsaushilfe den vertragsschliessenden Versicherern gleichgestellt.
+<sup>4</sup> Haben Versicherer und Leistungserbringer gemäss Artikel 42 Absatz 2 KVG vertraglich vereinbart, dass der Versicherer die Vergütung schuldet, so wird die gemeinsame Einrichtung bei der Durchführung der Leistungsaushilfe den vertragsschliessenden Versicherern gleichgestellt.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 [^19-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
@@ -421,9 +422,9 @@ Die gemeinsame Einrichtung übernimmt überdies Koordinationsaufgaben zur Erfül
 
 **Streitigkeiten**[^22-1]
 
-<sup>1</sup> Bei Streitigkeiten zwischen der gemeinsamen Einrichtung und einem Versicherer ist Artikel 87 des Gesetzes anwendbar. Vorbehalten bleiben Absatz 3 und Artikel 27 der Verordnung vom 19. Oktober 2016[^22-2] über den Risikoausgleich in der Krankenversicherung.[^22-3]
+<sup>1</sup> Bei Streitigkeiten zwischen der gemeinsamen Einrichtung und einem Versicherer ist Artikel 87 KVG anwendbar. Vorbehalten bleiben Absatz 3 und Artikel 27 der Verordnung vom 19. Oktober 2016[^22-2] über den Risikoausgleich in der Krankenversicherung.[^22-3]
 
-<sup>2</sup> Bei Streitigkeiten der gemeinsamen Einrichtung mit einem Leistungserbringer gilt Artikel 89 des Gesetzes.
+<sup>2</sup> Bei Streitigkeiten der gemeinsamen Einrichtung mit einem Leistungserbringer gilt Artikel 89 KVG.
 
 <sup>3</sup>
 
@@ -497,7 +498,7 @@ Die gemeinsame Einrichtung entscheidet bei Streitigkeiten zwischen ihr und einem
 
 <sup>1</sup>
 
-Die Versicherer müssen dem BAG zur Erfüllung der Aufgaben nach Artikel 21 Absatz 2 Buchstaben a–c KVG regelmässig pro versicherte Person folgende Daten weitergeben:
+Die Versicherer müssen dem BAG zur Erfüllung der Aufgaben nach Artikel 21 Absatz 2 Buchstaben a–e KVG regelmässig pro versicherte Person folgende Daten weitergeben:[^28-2]
 
 - a.
 
@@ -505,7 +506,7 @@ Die Versicherer müssen dem BAG zur Erfüllung der Aufgaben nach Artikel 21 Absa
 
   - 1\. Verbindungscode,
   - 2\. Alter, Geschlecht und Wohnort,
-  - 3\. Risikogruppe nach Artikel 11 der Verordnung vom 19. Oktober 2016[^28-2] über den Risikoausgleich (VORA) und Einteilung der versicherten Person in eine pharmazeutische Kostengruppe nach Artikel 12 VORA;
+  - 3\. Risikogruppe nach Artikel 11 der Verordnung vom 19. Oktober 2016[^28-3] über den Risikoausgleich (VORA) und Einteilung der versicherten Person in eine pharmazeutische Kostengruppe nach Artikel 12 VORA;
 
 - b.
 
@@ -546,7 +547,7 @@ Im Zusammenhang mit einer Vergütung nach den Artikeln 71*a*–71*c* müssen sie
 - e. die Nutzenkategorie;
 - f. den Leistungsentscheid;
 - g. das Datum des Leistungsentscheids;
-- h. bei positivem Leistungsentscheid die Höhe der Vergütung.[^28-3]
+- h. bei positivem Leistungsentscheid die Höhe der Vergütung.[^28-4]
 
 <sup>2</sup> Sie müssen dem BAG alle Daten, die sie aggregiert oder pro versicherte Person weitergeben müssen, elektronisch zur Verfügung stellen. Das BAG kann sie bei Erhebungsanpassungen auf Gesuch hin davon für eine befristete Zeit befreien, wenn ihnen die Lieferung aufgrund fehlender technischer Voraussetzungen nicht möglich ist.
 
@@ -556,18 +557,20 @@ Im Zusammenhang mit einer Vergütung nach den Artikeln 71*a*–71*c* müssen sie
 
 <sup>5</sup> Das BAG sorgt dafür, dass den Versicherern durch die Bereitstellung der Daten möglichst wenig Aufwand entsteht.
 
-<sup>6</sup> Zur Aufwandminderung kann das BAG die Daten nach Absatz 1 mit anderen Datenquellen verknüpfen, sofern dies zur Erfüllung seiner Aufgaben nach Artikel 21 Absatz <sup>2</sup> Buchstaben a–c KVG erforderlich ist. Zur Erfüllung weiterer Aufgaben darf es die Daten nach Absatz 1 nur mit anderen Datenquellen verknüpfen, wenn die Daten anonymisiert wurden.
+<sup>6</sup> Zur Aufwandminderung kann das BAG die Daten nach Absatz 1 mit anderen Datenquellen verknüpfen, sofern dies zur Erfüllung seiner Aufgaben nach Artikel 21 Absatz 2 Buchstaben a–e KVG erforderlich ist. Zur Erfüllung weiterer Aufgaben, die sich auf das KVG stützen, darf es die Daten verknüpfen, wenn die Anonymität der Versicherten im Sinne von Artikel 21 Absatz 3 KVG gewahrt ist.[^28-5]
 
 <sup>7</sup> Das BAG erlässt nach Anhören der Versicherer Weisungen zu den nach den Absätzen 1–4 zu treffenden Vorkehren.
 
 <sup>8</sup> Die Datenverwendung im Sinne von Artikel 21 Absatz 3 KVG umfasst jede Form der Datenbearbeitung im Sinne des Datenschutzrechts des Bundes, einschliesslich der Datenbekanntgabe.
 
-<sup>9</sup> Das BAG stellt die Resultate der mit den Daten nach Absatz 2 durchgeführten Erhebungen den am Vollzug des KVG beteiligten Stellen zur Verfügung; davon ausgenommen sind die Resultate der mit den Daten nach Absatz 1<sup>bis</sup> durchgeführten Erhebungen. Es stellt sicher, dass die Anonymität der Versicherten gewährleistet bleibt.[^28-4]
+<sup>9</sup> Das BAG stellt die Resultate der mit den Daten nach Absatz 2 durchgeführten Erhebungen den am Vollzug des KVG beteiligten Stellen zur Verfügung; davon ausgenommen sind die Resultate der mit den Daten nach Absatz 1<sup>bis</sup> durchgeführten Erhebungen. Es stellt sicher, dass die Anonymität der Versicherten gewährleistet bleibt.[^28-6]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28-2]: [SR 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
-[^28-3]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2026 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^28-4]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2026 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^28-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+[^28-3]: [SR 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
+[^28-4]: Eingefügt durch Ziff. I der V vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2026 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^28-5]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+[^28-6]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft vom 1. Jan. 2024 bis zum 31. Dez. 2026 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 28a
 
@@ -611,7 +614,7 @@ Das BAG veröffentlicht je Versicherer namentlich folgende Kennzahlen der sozial
 
 <sup>1</sup> Wer für eine besondere Nutzung zusätzlich zu den nach Artikel 28*b* veröffentlichten Daten weitere Daten benötigt oder die Daten in einer anderen Form benötigt, kann ein Gesuch beim BAG stellen.
 
-<sup>2</sup> Das BAG prüft das Gesuch unter Berücksichtigung des Datenschutzrechts. Es führt eine individuelle und materielle Einzelfallprüfung durch und bestimmt insbesondere unter dem Gesichtspunkt des Re-Identifikationsrisikos der versicherten Person, ob Daten weitergegeben werden dürfen. Sofern dies zutrifft, prüft es, welche Daten in welchem Detaillierungsgrad, pro versicherte Person oder aggregiert weitergegeben werden dürfen. Es stellt sicher, dass das Amtsgeheimnis gewahrt bleibt und kann die Weitergabe der Daten vom Abschluss eines Datenschutzvertrags abhängig machen.
+<sup>2</sup> Das BAG prüft das Gesuch unter Berücksichtigung des Datenschutzrechts. Es führt eine individuelle und materielle Einzelfallprüfung durch und bestimmt insbesondere unter dem Gesichtspunkt des Re-Identifikationsrisikos der versicherten Person, ob Daten weitergegeben werden dürfen. Sofern dies zutrifft, prüft es, welche Daten in welchem Detaillierungsgrad, pro versicherte Person oder aggregiert weitergegeben werden dürfen. Es stellt sicher, dass das Geschäftsgeheimnis gewahrt bleibt und kann die Weitergabe der Daten vom Abschluss eines Datenschutzvertrags abhängig machen.[^28c-2]
 
 <sup>3</sup> Es kann nach einer individuellen und materiellen Einzelfallprüfung Daten, die nach Artikel 28 Absatz 1 erhoben wurden, den am Vollzug des KVG beteiligten Stellen regelmässig zur Verfügung stellen, sofern es sicherstellt, dass die Anonymität der Versicherten gewährleistet bleibt und die Daten für die Erfüllung ihrer Aufgaben nach dem KVG erforderlich sind. Es kann die Weitergabe der Daten vom Abschluss eines Datenschutzvertrags abhängig machen.
 
@@ -619,10 +622,11 @@ Das BAG veröffentlicht je Versicherer namentlich folgende Kennzahlen der sozial
 
 <sup>5</sup> Es gibt die Daten nach Massgabe seiner technischen, organisatorischen und personellen Möglichkeiten weiter.
 
-<sup>6</sup> Es kann für die Bearbeitung des Gesuches eine Gebühr erheben. Diese wird nach Zeitaufwand bemessen, darf aber 10 000 Franken nicht überschreiten. Der Stundenansatz beträgt je nach erforderlicher Sachkenntnis und Funktionsstufe des ausführenden Personals 90–200 Franken. Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^28c-2].
+<sup>6</sup> Es kann für die Bearbeitung des Gesuches eine Gebühr erheben. Diese wird nach Zeitaufwand bemessen, darf aber 10 000 Franken nicht überschreiten. Der Stundenansatz beträgt je nach erforderlicher Sachkenntnis und Funktionsstufe des ausführenden Personals 90–200 Franken. Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^28c-3].
 
 [^28c-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28c-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^28c-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+[^28c-3]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 29
 
@@ -789,9 +793,9 @@ Soweit die Aufbewahrung, die Löschung und die Vernichtung der Daten nicht ander
 
 **Wirkungsanalyse**
 
-<sup>1</sup> Das BAG führt in Zusammenarbeit mit den Versicherern, Leistungserbringern und Kantonen sowie Vertretern der Wissenschaft wissenschaftliche Untersuchungen über die Durchführung und die Wirkungen des Gesetzes durch.
+<sup>1</sup> Das BAG führt in Zusammenarbeit mit den Versicherern, Leistungserbringern und Kantonen sowie Vertretern der Wissenschaft wissenschaftliche Untersuchungen über die Durchführung und die Wirkungen des KVG durch.
 
-<sup>2</sup> Diese Untersuchungen haben den Einfluss des Gesetzes auf die Situation und das Verhalten der Versicherten, der Leistungserbringer und der Versicherer zum Gegenstand. Insbesondere ist zu untersuchen, ob die Qualität und Wirtschaftlichkeit der Grundversorgung gewährleistet ist und die sozial- und wettbewerbspolitischen Zielsetzungen des Gesetzes erreicht werden.
+<sup>2</sup> Diese Untersuchungen haben den Einfluss des KVG auf die Situation und das Verhalten der Versicherten, der Leistungserbringer und der Versicherer zum Gegenstand. Insbesondere ist zu untersuchen, ob die Qualität und Wirtschaftlichkeit der Grundversorgung gewährleistet ist und die sozial- und wettbewerbspolitischen Zielsetzungen des KVG erreicht werden.
 
 <sup>3</sup> Das BAG kann für die Durchführung der Untersuchungen wissenschaftliche Institute beiziehen und Expertengruppen einsetzen.
 
@@ -806,14 +810,14 @@ Soweit die Aufbewahrung, die Löschung und die Vernichtung der Daten nicht ander
 Das Eidgenössische Departement des Innern (EDI) bezeichnet nach Anhören der zuständigen Kommission:[^33-1]
 
 - a. die von Ärzten und Ärztinnen oder Chiropraktoren und Chiropraktorinnen erbrachten Leistungen, deren Kosten nicht oder nur unter bestimmten Bedingungen von der obligatorischen Krankenpflegeversicherung übernommen werden;
-- b.[^33-2] die nicht von Ärzten und Ärztinnen oder Chiropraktoren und Chiropraktorinnen erbrachten Leistungen nach den Artikeln 25 Absatz 2 und 25*a* Absätze 1 und 2 des Gesetzes;
+- b.[^33-2] die nicht von Ärzten und Ärztinnen oder Chiropraktoren und Chiropraktorinnen erbrachten Leistungen nach den Artikeln 25 Absatz 2 und 25*a* Absätze 1 und 2 KVG;
 - c. die neuen oder umstrittenen Leistungen, deren Wirksamkeit, Zweckmässigkeit oder Wirtschaftlichkeit sich in Abklärung befinden; es bestimmt die Voraussetzungen und den Umfang der Kostenübernahme durch die obligatorische Krankenpflegeversicherung;
-- d. die medizinischen Präventionsmassnahmen nach Artikel 26 des Gesetzes, die Leistungen bei Mutterschaft nach Artikel 29 Absatz 2 Buchstaben a und c des Gesetzes und die zahnärztlichen Behandlungen nach Artikel 31 Absatz 1 des Gesetzes;
-- e. die von der obligatorischen Krankenpflegeversicherung zu übernehmenden Mittel und Gegenstände nach Artikel 52 Absatz 1 Buchstabe a Ziffer 3 des Gesetzes; es setzt Höchstbeträge für ihre Vergütung fest;
-- f. den in Artikel 25 Absatz 2 Buchstabe c des Gesetzes vorgesehenen Beitrag an die Kosten von Badekuren; dieser Beitrag dient der Deckung von Kosten bei Badekuren, die nicht durch andere Leistungen aus der obligatorischen Krankenpflegeversicherung gedeckt sind; er kann während höchstens 21 Tagen pro Kalenderjahr ausgerichtet werden;
-- g. den in Artikel 25 Absatz 2 Buchstabe g des Gesetzes vorgesehenen Beitrag an die Transport- und Rettungskosten; die medizinisch notwendigen Transporte von einem Spital in ein anderes sind Teil der stationären Behandlung;
+- d. die medizinischen Präventionsmassnahmen nach Artikel 26 KVG, die Leistungen bei Mutterschaft nach Artikel 29 Absatz 2 Buchstaben a und c KVG und die zahnärztlichen Behandlungen nach Artikel 31 Absatz 1 KVG;
+- e. die von der obligatorischen Krankenpflegeversicherung zu übernehmenden Mittel und Gegenstände nach Artikel 52 Absatz 1 Buchstabe a Ziffer 3 KVG; es setzt Höchstbeträge für ihre Vergütung fest;
+- f. den in Artikel 25 Absatz 2 Buchstabe c KVG vorgesehenen Beitrag an die Kosten von Badekuren; dieser Beitrag dient der Deckung von Kosten bei Badekuren, die nicht durch andere Leistungen aus der obligatorischen Krankenpflegeversicherung gedeckt sind; er kann während höchstens 21 Tagen pro Kalenderjahr ausgerichtet werden;
+- g. den in Artikel 25 Absatz 2 Buchstabe g KVG vorgesehenen Beitrag an die Transport- und Rettungskosten; die medizinisch notwendigen Transporte von einem Spital in ein anderes sind Teil der stationären Behandlung;
 - h.[^33-3] das Verfahren der Bedarfsermittlung;
-- i.[^33-4] den in Artikel 25*a* Absätze 1 und 4 des Gesetzes vorgesehenen und nach Pflegebedarf differenzierten Beitrag an die Pflegeleistungen.
+- i.[^33-4] den in Artikel 25*a* Absätze 1 und 4 KVG vorgesehenen und nach Pflegebedarf differenzierten Beitrag an die Pflegeleistungen.
 
 [^33-1]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 2).
@@ -824,13 +828,13 @@ Das Eidgenössische Departement des Innern (EDI) bezeichnet nach Anhören der zu
 
 **Analysen und Arzneimittel**
 
-Die Listen nach Artikel 52 Absatz 1 Buchstabe a Ziffern 1 (Analysenliste) und 2 (Arzneimittelliste) sowie Buchstabe b (Spezialitätenliste) des Gesetzes werden nach Anhören der zuständigen Kommission erstellt.
+Die Listen nach Artikel 52 Absatz 1 Buchstabe a Ziffern 1 (Analysenliste) und 2 (Arzneimittelliste) sowie Buchstabe b (Spezialitätenliste) des KVG werden nach Anhören der zuständigen Kommission erstellt.
 
 #### Art. 35
 
 **Geburtsgebrechen**[^35-1]
 
-Das EDI sorgt dafür, dass die bis zum Erreichen der gesetzlichen Altersgrenze von der Invalidenversicherung für Geburtsgebrechen erbrachten medizinischen Massnahmen von der obligatorischen Krankenpflegeversicherung nach Massgabe der Voraussetzungen der Artikel 32–34 und 43–52*a* des Gesetzes vergütet werden.
+Das EDI sorgt dafür, dass die bis zum Erreichen der gesetzlichen Altersgrenze von der Invalidenversicherung für Geburtsgebrechen erbrachten medizinischen Massnahmen von der obligatorischen Krankenpflegeversicherung nach Massgabe der Voraussetzungen der Artikel 32–34 und 43–52*a* KVG vergütet werden.
 
 [^35-1]: Fassung gemäss Anhang Ziff. 4 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
@@ -852,11 +856,11 @@ Bei der Beurteilung der Wirksamkeit, Zweckmässigkeit und Wirtschaftlichkeit kom
 
 **Leistungen im Ausland**
 
-<sup>1</sup> Das EDI bezeichnet nach Anhören der zuständigen Kommission die Leistungen nach den Artikeln 25 Absatz 2 und 29 des Gesetzes, deren Kosten von der obligatorischen Krankenpflegeversicherung im Ausland übernommen werden, wenn sie in der Schweiz nicht erbracht werden können.
+<sup>1</sup> Das EDI bezeichnet nach Anhören der zuständigen Kommission die Leistungen nach den Artikeln 25 Absatz 2 und 29 KVG, deren Kosten von der obligatorischen Krankenpflegeversicherung im Ausland übernommen werden, wenn sie in der Schweiz nicht erbracht werden können.
 
 <sup>2</sup> Die obligatorische Krankenpflegeversicherung übernimmt die Kosten von Behandlungen, die in Notfällen im Ausland erbracht werden. Ein Notfall liegt vor, wenn Versicherte bei einem vorübergehenden Auslandsaufenthalt einer medizinischen Behandlung bedürfen und eine Rückreise in die Schweiz nicht angemessen ist. Kein Notfall besteht, wenn sich Versicherte zum Zwecke dieser Behandlung ins Ausland begeben.
 
-<sup>3</sup> Die obligatorische Krankenpflegeversicherung übernimmt im Rahmen von Artikel 29 des Gesetzes die Kosten einer Entbindung, die im Ausland stattgefunden hat, weil nur so das Kind die Staatsangehörigkeit der Mutter oder des Vaters erwerben konnte oder weil das Kind, in der Schweiz geboren, staatenlos wäre.
+<sup>3</sup> Die obligatorische Krankenpflegeversicherung übernimmt im Rahmen von Artikel 29 KVG die Kosten einer Entbindung, die im Ausland stattgefunden hat, weil nur so das Kind die Staatsangehörigkeit der Mutter oder des Vaters erwerben konnte oder weil das Kind, in der Schweiz geboren, staatenlos wäre.
 
 <sup>4</sup> Für Leistungen nach den Absätzen 1 und 2 und für die Behandlung im Ausland von Grenzgängern und Grenzgängerinnen, entsandten Arbeitnehmern und Arbeitnehmerinnen und Personen im öffentlichen Dienst sowie ihren Familienangehörigen (Art. 3–5) wird höchstens der doppelte Betrag der Kosten übernommen, die in der Schweiz vergütet würden, in den Fällen von Absatz 3 höchstens der einfache Betrag. Für Versicherte nach den Artikeln 4 und 5 richtet sich die Kostenübernahme nach den Tarifen und Preisen an ihrem letzten Wohnort in der Schweiz. Sofern die Behandlung für Versicherte nach Artikel 1 Absatz 2 Buchstaben d–e<sup>bis</sup> nicht nach den Regeln über die internationale Leistungsaushilfe erfolgt, richtet sich die Kostenübernahme nach den Tarifen und Preisen an ihrem letzten Wohn- oder Arbeitsort in der Schweiz; lässt sich keiner dieser Orte ermitteln, so richtet sich die Kostenübernahme nach den Tarifen und Preisen des Kantons, in dem der Versicherer seinen Sitz hat.[^36-1]
 
@@ -914,7 +918,7 @@ Bei Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in 
 
 **Beratende Kommissionen**[^37a-1]
 
-Beratende Kommissionen nach Artikel 33 Absatz 4 des Gesetzes sind:
+Beratende Kommissionen nach Artikel 33 Absatz 4 KVG sind:
 
 - a. die Eidgenössische Kommission für allgemeine Leistungen und Grundsatzfragen (Leistungs- und Grundsatzkommission);
 - b. die Eidgenössische Kommission für Analysen, Mittel und Gegenstände (Analysen-, Mittel- und Gegenständekommission);
@@ -964,7 +968,7 @@ Sie hat insbesondere die folgenden Aufgaben:
 
 - a. Definition von Grundsätzen im Leistungsbereich sowie Beratung und Vorschlag von Verordnungsbestimmungen zu Grundsätzen im Leistungsbereich;
 - b. Festsetzung von Grundsätzen, damit der Datenschutz und die Interessen der Versicherten bei der Leistungsbezeichnung in der Krankenversicherung gewahrt werden;
-- c. Ausarbeitung von Kriterien für die Beurteilung von Leistungen nach Artikel 33 Absatz 3 des Gesetzes und Artikel 70.
+- c. Ausarbeitung von Kriterien für die Beurteilung von Leistungen nach Artikel 33 Absatz 3 KVG und Artikel 70.
 
 <sup>3</sup>
 
@@ -1692,7 +1696,7 @@ Transport- und Rettungsunternehmen werden zugelassen, wenn sie die folgenden Vor
 
 **Grundsatz**
 
-<sup>1</sup> Die Planung für eine bedarfsgerechte Versorgung nach Artikel 39 Absatz 1 Buchstabe d des Gesetzes umfasst die Sicherstellung der stationären Behandlung im Spital oder in einem Geburtshaus sowie der Behandlung in einem Pflegeheim für die Einwohnerinnen und Einwohner der Kantone, die die Planung erstellen.
+<sup>1</sup> Die Planung für eine bedarfsgerechte Versorgung nach Artikel 39 Absatz 1 Buchstabe d KVG umfasst die Sicherstellung der stationären Behandlung im Spital oder in einem Geburtshaus sowie der Behandlung in einem Pflegeheim für die Einwohnerinnen und Einwohner der Kantone, die die Planung erstellen.
 
 <sup>2</sup> Sie wird periodisch überprüft.[^58a-1]
 
@@ -1833,7 +1837,7 @@ Die Leistungserbringer müssen die folgenden Qualitätsanforderungen erfüllen:
 
 <sup>1</sup>
 
-Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizinischen Angaben zu machen, die für die Überprüfung der Berechnung der Vergütung sowie der Wirtschaftlichkeit der Leistungen nach Artikel 42 Absätze 3 und 3<sup>bis</sup> des Gesetzes notwendig sind. Insbesondere sind folgende Angaben zu machen:
+Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizinischen Angaben zu machen, die für die Überprüfung der Berechnung der Vergütung sowie der Wirtschaftlichkeit der Leistungen nach Artikel 42 Absätze 3 und 3<sup>bis</sup> KVG notwendig sind. Insbesondere sind folgende Angaben zu machen:
 
 - a. Kalendarium der Behandlungen;
 - b. erbrachte Leistungen im Detaillierungsgrad, den der massgebliche Tarif vorsieht;
@@ -1868,7 +1872,7 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 <sup>4</sup> Die Datenannahmestelle bestimmt, für welche Rechnungen eine weitere Prüfung benötigt wird, und leitet die dazu notwendigen Angaben an den Versicherer weiter. Der Versicherer darf der Datenannahmestelle keine Weisungen bezüglich der Datenweitergabe in Bezug auf einzelne Rechnungen erteilen.
 
-<sup>5</sup> Verlangt der Versicherer vom Leistungserbringer im Laufe der Prüfung zusätzliche Auskünfte medizinischer Natur im Sinne von Artikel 42 Absatz 4 des Gesetzes, so hat der Versicherer die versicherte Person über ihre Wahlmöglichkeit nach Artikel 42 Absatz 5 des Gesetzes zu informieren.
+<sup>5</sup> Verlangt der Versicherer vom Leistungserbringer im Laufe der Prüfung zusätzliche Auskünfte medizinischer Natur im Sinne von Artikel 42 Absatz 4 KVG, so hat der Versicherer die versicherte Person über ihre Wahlmöglichkeit nach Artikel 42 Absatz 5 KVG zu informieren.
 
 <sup>6</sup> Jeder Versicherer muss über eine Datenannahmestelle verfügen. Diese muss nach Artikel 13 des Datenschutzgesetzes vom 25. September 2020[^59a-4] (DSG) zertifiziert sein.[^59a-5]
 
@@ -1907,11 +1911,11 @@ Für den ambulanten Bereich erlässt das EDI ausführende Bestimmungen zur Erheb
 
 [^part1-tit4-chap3-1]: Ursprünglich vor Art. 59*a*. Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
-### 1. Abschnitt: Grundsätze
+### 1. Abschnitt: Tarifgestaltung und Fallbeitrag
 
 [^part1-tit4-chap3-sec1-1]
 
-[^part1-tit4-chap3-sec1-1]: Ursprünglich vor Art. 59*a*. Eingefügt durch Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^part1-tit4-chap3-sec1-1]: Ursprünglich vor Art. 59*a*. Eingefügt durch Ziff. I der V vom 17. Sept. 1997 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 59b
 
@@ -1921,53 +1925,108 @@ Für den ambulanten Bereich erlässt das EDI ausführende Bestimmungen zur Erheb
 
 #### Art. 59c
 
-**Tarifgestaltung**[^59c-1]
+**Grundsätze für Tarifverträge**[^59c-1]
 
 <sup>1</sup>
 
-Die Genehmigungsbehörde im Sinne von Artikel 46 Absatz 4 des Gesetzes prüft, ob der Tarifvertrag namentlich folgenden Grundsätzen entspricht:
+Tarifverträge müssen namentlich folgenden Grundsätzen entsprechen:
 
-- a. Der Tarif darf höchstens die transparent ausgewiesenen Kosten der Leistung decken.
-- b. Der Tarif darf höchstens die für eine effiziente Leistungserbringung erforderlichen Kosten decken.
+- a. Ihr Tarif darf höchstens die transparent ausgewiesenen Kosten der Leistung decken.
+- b. Ihr Tarif darf höchstens die für eine effiziente Leistungserbringung erforderlichen Kosten decken.
 - c. Ein Wechsel des Tarifmodells darf keine Mehrkosten verursachen.
 
-<sup>2</sup> Die Vertragsparteien müssen die Tarife regelmässig überprüfen und anpassen, wenn die Erfüllung der Grundsätze nach Absatz 1 Buchstaben a und b nicht mehr gewährleistet ist. Die zuständigen Behörden sind über die Resultate der Überprüfungen zu informieren.
+<sup>2</sup>
 
-<sup>3</sup> Die zuständige Behörde wendet die Absätze 1 und 2 bei Tariffestsetzungen nach den Artikeln 43 Absatz 5, 47 oder 48 des Gesetzes sinngemäss an.
+Tarifverträge, die eine Tarifstruktur enthalten, müssen zudem folgenden Grundsätzen entsprechen:
 
-[^59c-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+- a. Sie müssen von Parteien abgeschlossen werden, die für die von ihnen betroffenen Leistungserbringer und Versicherer repräsentativ sind.
+- b. Sie müssen auf einem kohärenten Tarifmodell und auf wirtschaftlichen Kriterien beruhen.
+- c. Sie müssen auf Daten beruhen, die für die Leistungserbringer repräsentativ sind, welche die Tarifstrukturen anwenden müssen.
+
+<sup>3</sup> Die Modalitäten zur Anwendung der Tarifstrukturen müssen Bestandteil der Tarifverträge sein.
+
+[^59c-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+
+#### Art. 59c<sup>bis</sup>
+
+**Grundsätze für leistungsbezogene Pauschalen im stationären Bereich**[^59cbis-1]
+
+Der Bezug zur Leistung nach Artikel 49 Absatz 1 KVG ist so herzustellen, dass der Tarif nach Art und Intensität der Leistung differenziert wird.
+
+[^59cbis-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+
+#### Art. 59c<sup>ter</sup>
+
+**Inhalt des Gesuchs um Genehmigung eines Tarifvertrags**[^59cter-1]
+
+<sup>1</sup>
+
+Ist nach Artikel 43 Absatz 5, 46 Absatz 4, 47*a* Absatz 7 oder 49 Absatz 2 KVG der Bundesrat für die Genehmigung des Tarifvertrags zuständig, so muss das Genehmigungsgesuch von allen Vertragsparteien unterzeichnet sein und namentlich folgende Unterlagen und Angaben enthalten:
+
+- a. ein von allen Vertragsparteien unterzeichnetes Exemplar des Tarifvertrags;
+- b. die Erläuterungen zum übermittelten Tarifvertrag, insbesondere dazu, inwiefern dieser den Grundsätzen nach Artikel 43 KVG und nach den Artikeln 59*c* und 59*c*<sup>bis</sup> entspricht;
+- c. die Grundlagen und die Methode für die Berechnung des Tarifs;
+- d. die Schätzung der Auswirkungen der Anwendung des Tarifs auf das Leistungsvolumen und auf die Kosten;
+- e. eine ausführliche Beschreibung des nach Artikel 47*c* KVG einzurichtenden Monitorings;
+- f. gegebenenfalls die Schreiben an die Organisationen, welche die Interessen der Versicherten auf kantonaler oder auf Bundesebene vertreten, und deren Stellungnahmen nach Artikel 43 Absatz 4 KVG.
+
+<sup>2</sup> Für leistungsbezogene Pauschalen, die stationäre Behandlungen vergüten, muss die Schätzung nach Absatz 1 Buchstabe d die Kosten für sämtliche nach Artikel 49 Absatz 1 KVG geregelten Bereiche umfassen , einschliesslich der vor- und der nachgelagerten Bereiche.
+
+<sup>3</sup> Im Falle eines auf einem Patienten-Klassifikationssystem vom Typus DRG basierenden leistungsbezogenen Vergütungsmodells muss der Tarifvertrag zusätzlich das Kodierungshandbuch sowie ein Reglement zur Kodierrevision enthalten.
+
+<sup>4</sup> Ist der Kanton nach Artikel 46 Absatz 4 KVG für die Genehmigung des Tarifvertrags zuständig, so ist Absatz 1 sinngemäss anwendbar.
+
+[^59cter-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+
+#### Art. 59c<sup>quater</sup>
+
+**Aufgaben der zuständigen Behörde**[^59cquater-1]
+
+<sup>1</sup> Die Genehmigungsbehörde nach Artikel 46 Absatz 4 KVG prüft, ob der Tarifvertrag den Grundsätzen nach Artikel 43 KVG und nach Artikel 59*c* Absatz 1 entspricht. Ist der Bundesrat für die Genehmigung zuständig, so prüft er zusätzlich, ob der Vertrag den Grundsätzen nach den Artikeln 59*c* Absätze 2 und 3 sowie 59*c*<sup>bis</sup> entspricht.
+
+<sup>2</sup> Setzt die zuständige Behörde die Tarife fest, so wendet sie die Grundsätze nach Artikel 43 KVG und nach Artikel 59*c* Absatz 1 sinngemäss an. Ist der Bundesrat für die Festsetzung einer Tarifstruktur zuständig, so wendet er zusätzlich die Grundsätze nach den Artikeln 59*c* Absätze 2 und 3 sowie 59*c*<sup>bis</sup> sinngemäss an.
+
+[^59cquater-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 59d
 
-**Leistungsbezogene Pauschalen**[^59d-1]
+**Pflicht zur Überprüfung der Tarife**[^59d-1]
 
-<sup>1</sup>
+<sup>1</sup> Die Tarifpartner und die Organisationen nach den Artikeln 47*a* Absätze 1 und 2 sowie 49 Absatz 2 KVG müssen regelmässig, spätestens aber fünf Jahre nach der letzten Genehmigung des Tarifvertrags oder der letzten umfassenden Überprüfung, prüfen, ob die Tarife die Grundsätze nach Artikel 43 KVG und nach den Artikeln 59*c* und 59*c*<sup>bis</sup>, soweit diese Grundsätze anwendbar sind, weiterhin erfüllen.
 
-Die Tarifpartner müssen dem Bundesrat nach den Artikeln 46 Absatz 4 und 49 Absatz 2 des Gesetzes den Tarifvertrag zur Genehmigung unterbreiten. Der Tarifvertrag muss die einheitliche Tarifstruktur und die Anwendungsmodalitäten des Tarifs beinhalten. Zusammen mit dem Gesuch um Genehmigung müssen namentlich folgende Unterlagen eingereicht werden:
+<sup>2</sup> Sie informieren die zuständigen Behörden über die Resultate der Überprüfung und legen auf Verlangen die Unterlagen nach Artikel 59*c*<sup>ter</sup> vor.
 
-- a. die Berechnungsgrundlagen und Berechnungsmethode;
-- b. die Instrumente und Mechanismen zur Gewährleistung der Qualität der Leistungen im Rahmen der Tarifanwendung;
-- c. die Schätzungen über die Auswirkungen der Anwendung des Tarifs auf das Leistungsvolumen und auf die Kosten für sämtliche nach Artikel 49 Absatz 1 des Gesetzes geregelten Bereiche, einschliesslich der vor- und nachgelagerten Bereiche.
+[^59d-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
-<sup>2</sup> Im Falle eines auf einem Patienten-Klassifikationssystem vom Typus DRG (*Diagnosis Related Groups*) basierenden leistungsbezogenen Vergütungsmodells muss der Tarifvertrag zusätzlich das Kodierungshandbuch sowie ein Konzept zur Kodierrevision enthalten. Dem Gesuch um Genehmigung beizulegen sind ergänzende Unterlagen über die Anforderungen, die die Spitäler erfüllen müssen, damit sie bei der Erarbeitung der Tarifstruktur einbezogen werden können.
+#### Art. 59d<sup>bis</sup>
 
-<sup>3</sup> Die Tarifpartner müssen dem Bundesrat die Anpassungen des Tarifvertrags, namentlich jene der Tarifstruktur oder der Anwendungsmodalitäten, zur Genehmigung unterbreiten.
+**Anpassung der Tarifverträge**[^59dbis-1]
 
-<sup>4</sup> Der Bezug zur Leistung, der nach Artikel 49 Absatz 1 des Gesetzes herzustellen ist, muss eine Differenzierung des Tarifes nach Art und Intensität der Leistung erlauben.
+<sup>1</sup> Die Tarifpartner und die Organisationen nach den Artikeln 47*a* Absätze 1 und 2 sowie 49 Absatz 2 KVG nehmen die erforderlichen Anpassungen der Tarifverträge vor.
 
-[^59d-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
+<sup>2</sup> Die Tarifpartner unterbreiten die angepassten Tarifverträge der zuständigen Behörde zur Genehmigung.
+
+<sup>3</sup> Die Genehmigung geringfügiger Anpassungen von Tarifverträgen löst keine neue Frist zur Überprüfung nach Artikel 59*d* aus, ausser wenn diese Anpassungen das Ergebnis einer umfassenden Überprüfung der entsprechenden Tarifverträge sind.
+
+[^59dbis-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 59e
 
 **Fallbeitrag**[^59e-1]
 
-<sup>1</sup> Soll ein Fallbeitrag nach Artikel 49 Absatz 2 des Gesetzes erhoben werden, so müssen die Tarifpartner dem Bundesrat den entsprechenden Betrag zur Genehmigung unterbreiten. Dem Gesuch sind ein Tätigkeitsbericht der Organisation und ein Budget beizulegen, mit denen die Notwendigkeit des beantragten Betrags begründet wird.
+<sup>1</sup> Soll ein Fallbeitrag nach Artikel 49 Absatz 2 KVG erhoben werden, so müssen die Tarifpartner dem Bundesrat den entsprechenden Betrag zur Genehmigung unterbreiten. Dem Gesuch sind ein Tätigkeitsbericht der Organisation und ein Budget beizulegen, mit denen die Notwendigkeit des beantragten Betrags begründet wird.
 
 <sup>2</sup> Wird der Fallbeitrag erhöht, so müssen die Tarifpartner dem Bundesrat den Fallbeitrag erneut zur Genehmigung unterbreiten.
 
-<sup>3</sup> Für die Aufteilung der Finanzierung des Fallbeitrags gilt Artikel 49*a* Absätze 1 und 2 des Gesetzes sinngemäss.
+<sup>3</sup> Für die Aufteilung der Finanzierung des Fallbeitrags gilt Artikel 49*a* Absätze 1 und 2 KVG sinngemäss.
 
 [^59e-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
+
+### 1*a*. Abschnitt: Datenbekanntgabe
+
+[^part1-tit4-chap3-sec1a-1]
+
+[^part1-tit4-chap3-sec1a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 59f
 
@@ -2081,8 +2140,8 @@ Die Analysenliste (Art. 52 Abs. 1 Bst. a Ziff. 1 KVG) wird in der Regel jährlic
 Das EDI bezeichnet diejenigen Analysen, die:
 
 - a. im Rahmen der Grundversorgung von Laboratorien nach Artikel 54 Absatz 1 durchgeführt werden können;
-- b. von Chiropraktoren und Chiropraktorinnen gestützt auf Artikel 25 Absatz 2 Buchstabe b des Gesetzes veranlasst werden können;
-- c. von Hebammen gestützt auf Artikel 29 Absatz 2 Buchstabe a des Gesetzes veranlasst werden können.
+- b. von Chiropraktoren und Chiropraktorinnen gestützt auf Artikel 25 Absatz 2 Buchstabe b KVG veranlasst werden können;
+- c. von Hebammen gestützt auf Artikel 29 Absatz 2 Buchstabe a KVG veranlasst werden können.
 
 <sup>2</sup> …[^62-2]
 
@@ -2863,6 +2922,102 @@ Das EDI erlässt, nach Anhören der zuständigen Kommissionen, nähere Vorschrif
 
 [^75-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 
+### 3*a*. Kapitel: Massnahmen zur Eindämmung der Kostenentwicklung
+
+[^part1-tit4-chap3a-1]
+
+[^part1-tit4-chap3a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+
+### 1. Abschnitt: Kostenziele
+
+#### Art. 75a
+
+**Gesamtziele**
+
+<sup>1</sup> Der Bundesrat und die Kantone legen die Kostenziele nach Artikel 54 beziehungsweise 54*a* KVG für die gesamten Kosten der Leistungen fest.
+
+<sup>2</sup> Sie gehen dabei von den notwendigen Kosten für die Deckung des medizinischen Bedarfs bei einer qualitativ hochstehenden und zweckmässigen gesundheitlichen Versorgung zu möglichst günstigen Kosten aus.
+
+<sup>3</sup>
+
+Sie berücksichtigen namentlich:
+
+- a. die Entwicklung der Demografie und der Morbidität;
+- b. den medizinisch-technischen Fortschritt;
+- c. die wirtschaftliche Entwicklung und die Lohn- und Preisentwicklung;
+- d. das Potenzial zur Verbesserung der Effizienz.
+
+<sup>4</sup> Der Bundesrat koordiniert die Kostenziele mit den Qualitätszielen nach Artikel 58 KVG.
+
+#### Art. 75b
+
+**Ziele für die Kostengruppen**
+
+<sup>1</sup>
+
+Der Bundesrat legt zusätzlich zu den Zielen nach Artikel 75*a* Kostenziele namentlich für folgende Kostengruppen fest:
+
+- a. stationäre Behandlungen;
+- b. ambulante Behandlungen im Spital;
+- c. ambulante Behandlungen durch Ärzte und Ärztinnen ausserhalb des Spitals;
+- d. Arzneimittel;
+- e. Pflege im Pflegeheim oder zu Hause.
+
+<sup>2</sup> Für die Festlegung der Kostenziele für die Kostengruppen nach Absatz 1 ist Artikel 75*a* Absätze 2–4 anwendbar*.*
+
+### 2. Abschnitt: Eidgenössische Kommission für das Kosten- und Qualitätsmonitoring in der obligatorischen Krankenpflegeversicherung
+
+#### Art. 75c
+
+**Mitglieder**
+
+<sup>1</sup> Der Bundesrat wählt das Präsidium und die weiteren Mitglieder der Eidgenössischen Kommission für das Kosten- und Qualitätsmonitoring in der obligatorischen Krankenpflegeversicherung.
+
+<sup>2</sup>
+
+Die Kommission besteht aus neun Mitgliedern; davon vertreten:
+
+- a. zwei Personen die Leistungserbringer;
+- b. eine Person die Kantone;
+- c. eine Person die Versicherer;
+- d. eine Person die Versicherten;
+- e. eine Person die Eidgenössische Qualitätskommission (Art. 77*a*);
+- f. drei Personen die Wissenschaft.
+
+<sup>3</sup> Die Mitglieder der Kommission müssen über grosse Fachkompetenzen im Bereich der Kosten der Leistungserbringung, ein grosses Wissen im Kostenmanagement sowie gute Kenntnisse des schweizerischen Gesundheits- und Sozialversicherungssystems verfügen.
+
+#### Art. 75d
+
+**Aufgaben und Kompetenzen**
+
+<sup>1</sup> Die Kommission hat eine beratende Funktion im Zusammenhang mit der Kostenentwicklung und den zu deren Eindämmung zu treffenden Massnahmen.
+
+<sup>2</sup>
+
+Sie hat namentlich folgende Aufgaben:
+
+- a. Sie richtet eine systematische und kontinuierliche Überwachung der Kosten ein.
+- b. Sie überwacht die Entwicklung der Leistungsbereiche gestützt auf die Kostengruppen nach Artikel 75*b*.
+- c. Sie gibt gestützt auf die Kostenüberwachung Empfehlungen zuhanden des Bundes und der Tarifpartner ab.
+
+<sup>3</sup> Zur Erfüllung ihrer Aufgaben nach Absatz 2 nutzt sie die Datensammlungen im Gesundheitsbereich, insbesondere diejenigen des BAG, des BFS und der Eidgenössischen Qualitätskommission.
+
+#### Art. 75e
+
+**Organisation**
+
+<sup>1</sup> Die Kommission legt ihre Organisation und ihre Arbeitsweise in einer Geschäftsordnung fest; diese bedarf der Genehmigung des EDI.
+
+<sup>2</sup> Das BAG führt das Sekretariat der Kommission.
+
+#### Art. 75f
+
+**Koordination mit der Eidgenössischen Qualitätskommission**
+
+<sup>1</sup> Die Kommission stützt sich für das Qualitätsmonitoring auf die Arbeiten der Eidgenössischen Qualitätskommission.
+
+<sup>2</sup> Sie koordiniert ihre Arbeiten mit der Eidgenössischen Qualitätskommission.
+
 ### 4. Kapitel: Kontrolle der Wirtschaftlichkeit und der Qualität der Leistungen
 
 #### Art. 76
@@ -2872,14 +3027,14 @@ Das EDI erlässt, nach Anhören der zuständigen Kommissionen, nähere Vorschrif
 Die Versicherer können gemeinsam Angaben über Art und Umfang der von den verschiedenen Leistungserbringern erbrachten Leistungen und die dafür in Rechnung gestellten Vergütungen bearbeiten, dies ausschliesslich zu folgenden Zwecken:
 
 - a. Analyse der Kosten und deren Entwicklung;
-- b. Kontrolle und Sicherstellung der Wirtschaftlichkeit der Leistungen im Sinne von Artikel 56 des Gesetzes;
+- b. Kontrolle und Sicherstellung der Wirtschaftlichkeit der Leistungen im Sinne von Artikel 56 KVG;
 - c. Gestaltung von Tarifverträgen.
 
 #### Art. 76a
 
 **Weitergabe der Vergünstigung**[^76a-1]
 
-<sup>1</sup> Die Vergünstigung nach Artikel 56 Absatz 3 des Gesetzes ist durch den Leistungserbringer in der Rechnung nach Artikel 42 des Gesetzes aufzuführen und dem Schuldner der Vergütung weiterzugeben.
+<sup>1</sup> Die Vergünstigung nach Artikel 56 Absatz 3 KVG ist durch den Leistungserbringer in der Rechnung nach Artikel 42 KVG aufzuführen und dem Schuldner der Vergütung weiterzugeben.
 
 <sup>2</sup> Fliessen die Vergünstigungen über niedrigere Kosten bereits in die Berechnung der Tarife und Preise der entsprechenden Leistung ein, so müssen diese nicht mehr im Rahmen der Rechnungsstellung separat ausgewiesen werden.
 
@@ -2889,11 +3044,11 @@ Die Versicherer können gemeinsam Angaben über Art und Umfang der von den versc
 
 **Vereinbarung über die nicht vollumfängliche Weitergabe von Vergünstigungen**[^76b-1]
 
-<sup>1</sup> Vereinbarungen nach Artikel 56 Absatz 3<sup>bis</sup> des Gesetzes werden in erster Linie zwischen den Verbänden der Leistungserbringer und der Versicherer abgeschlossen.
+<sup>1</sup> Vereinbarungen nach Artikel 56 Absatz 3<sup>bis</sup> KVG werden in erster Linie zwischen den Verbänden der Leistungserbringer und der Versicherer abgeschlossen.
 
 <sup>2</sup>
 
-Die Vereinbarungen über die nicht vollumfängliche Weitergabe der Vergünstigung nach Artikel 56 Absatz 3<sup>bis</sup> des Gesetzes müssen schriftlich abgeschlossen werden und namentlich folgende Angaben enthalten:
+Die Vereinbarungen über die nicht vollumfängliche Weitergabe der Vergünstigung nach Artikel 56 Absatz 3<sup>bis</sup> KVG müssen schriftlich abgeschlossen werden und namentlich folgende Angaben enthalten:
 
 - a. Art und Umfang der Vergünstigung sowie Modalitäten zur transparenten Dokumentation in den Belegen und Rechnungen;
 - b. Verwendungszweck der nicht weitergegebenen Vergünstigung, einschliesslich des Ziels zur Verbesserung der Behandlungsqualität;
@@ -2954,11 +3109,14 @@ Die Kommission besteht aus 15 Mitgliedern; davon vertreten:
 
 <sup>5</sup> Das Sekretariat der Kommission untersteht fachlich dem Präsidium der Kommission und administrativ dem BAG.
 
+<sup>5bis</sup> Die Kommission koordiniert ihre Arbeiten mit der Eidgenössischen Kommission für das Kosten- und Qualitätsmonitoring in der obligatorischen Krankenpflegeversicherung.[^77a-2]
+
 <sup>6</sup> Die Kommission erstellt jährlich einen Bericht zuhanden des Bundesrates und veröffentlicht diesen in geeigneter Form.
 
 <sup>7</sup> Sie veröffentlicht ihre Reglemente und Berichte sowie die Dokumente, die mit den ihr nach Artikel 58*c* KVG zugewiesenen Aufgaben zusammenhängen.
 
 [^77a-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77a-2]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025 (Kosten- und Qualitätsziele), in Kraft seit 1. Jan. 2026 ([AS 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 77b
 
@@ -3150,7 +3308,7 @@ Das EDI bewilligt nur Pilotprojekte, mit denen Massnahmen erprobt werden, die di
 
 - a. Die Massnahmen sind in Bezug auf das geltende Recht innovativ.
 - b. Die Massnahmen eignen sich dazu, eines der Ziele nach Artikel 59*b* Absatz 1 KVG in einem der Bereiche nach Artikel 59*b* Absatz 2 KVG zu erreichen.
-- c. Die Massnahmen eignen sich dazu, in das Gesetz aufgenommen zu werden.
+- c. Die Massnahmen eignen sich dazu, in das KVG aufgenommen zu werden.
 
 <sup>2</sup>
 
@@ -3209,7 +3367,7 @@ In den Evaluationsberichten muss insbesondere beurteilt werden:
 - a. ob das Pilotprojekt das angestrebte Ziel erreicht;
 - b. welchen Einfluss die Massnahmen des Pilotprojekts auf das Gesundheitssystem haben;
 - c. ob es einen Konflikt zwischen den Massnahmen des Pilotprojekts und gesetzlichen Bestimmungen gibt, zu denen in der Verordnung keine Abweichung vorgesehen ist;
-- d. ob die erprobten Massnahmen in das Gesetz aufgenommen werden können.
+- d. ob die erprobten Massnahmen in das KVG aufgenommen werden können.
 
 #### Art. 77r
 
@@ -3334,7 +3492,7 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 **Abstufung der Prämien**
 
-<sup>1</sup> Ein Bestand gilt als sehr klein im Sinne von Artikel 61 Absatz 2 des Gesetzes, wenn die Kosten einer einzelnen versicherten Person einen erheblichen Einfluss auf die Prämien der Versicherten des Bestandes ausüben, namentlich wenn der Versichertenbestand weniger als 300 Personen umfasst.[^91-1]
+<sup>1</sup> Ein Bestand gilt als sehr klein im Sinne von Artikel 61 Absatz 2 KVG, wenn die Kosten einer einzelnen versicherten Person einen erheblichen Einfluss auf die Prämien der Versicherten des Bestandes ausüben, namentlich wenn der Versichertenbestand weniger als 300 Personen umfasst.[^91-1]
 
 <sup>1bis</sup> Nimmt ein Versicherer seine Tätigkeit neu auf oder erweitert er seinen örtlichen Tätigkeitsbereich, so legt er für die sehr kleinen Bestände seine Prämie so fest, dass sie einen bestimmten Minimalbetrag nicht unterschreitet.[^91-2]
 
@@ -3342,7 +3500,7 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 <sup>2</sup> Für Personen nach den Artikeln 4 und 5, die ihren Wohnort ausserhalb eines Mitgliedstaats der Europäischen Union, Islands, Norwegens und des Vereinigten Königreichs haben und die in der Schweiz versichert sind, muss der Versicherer eine Prämie nach den ausgewiesenen Kosten festlegen. Ist dies angesichts der Anzahl der betroffenen Personen unverhältnismässig, so kann der Versicherer bei diesen Personen die Prämien am letzten Wohnort in der Schweiz oder am Sitz des Versicherers anwenden.[^91-4]
 
-<sup>3</sup> Die Abstufung nach Altersgruppen für Versicherte nach Artikel 61 Absatz 3 des Gesetzes erfolgt aufgrund der Geburtsjahre.
+<sup>3</sup> Die Abstufung nach Altersgruppen für Versicherte nach Artikel 61 Absatz 3 KVG erfolgt aufgrund der Geburtsjahre.
 
 [^91-1]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^91-2]: Eingefügt durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
@@ -3382,9 +3540,19 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 #### Art. 92
 
-[^92-1]
+**Mittlere Prämie**[^92-1]
 
-[^92-1]: Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+<sup>1</sup> Das EDI berechnet jährlich die mittlere Prämie eines Kantons, indem es die Summe der in Rechnung gestellten Prämien der Versicherten dieses Kantons durch die durchschnittliche Anzahl der Versicherten dieses Kantons teilt. Analog dazu berechnet es die mittlere Prämie für die Schweiz.
+
+<sup>2</sup> Es berechnet die mittlere Prämie für das kommende Kalenderjahr (mittlere Prämie a priori) anhand der Schätzungen der Versicherer.
+
+<sup>3</sup> Es berechnet die mittlere Prämie für das Vorjahr (mittlere Prämie a posteriori) anhand der Angaben der Versicherer.
+
+<sup>4</sup> Es publiziert jährlich die mittleren Prämien, geordnet nach den Alterskategorien Kinder, junge Erwachsene und Erwachsene und über sämtliche Alterskategorien.
+
+<sup>5</sup> Es kann Einzelheiten zur Berechnung der mittleren Prämien festlegen.
+
+[^92-1]: Fassung gemäss Art. 26 Ziff. 1 der V vom 12. Sept. 2025 über die Beiträge der Kantone und des Bundes zur Prämienverbilligung in der Krankenversicherung, in Kraft seit 1. Jan. 2026 ([AS 2025 581](https://fedlex.data.admin.ch/eli/oc/2025/581)).
 
 ### 1*a*. Abschnitt: Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich
 
@@ -3464,7 +3632,7 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 <sup>2</sup> Der Wechsel zu einer tieferen Franchise, in eine Bonusversicherung oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 KVG festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^94-1]
 
-<sup>3</sup> Wechselt die versicherte Person den Versicherer auf Grund von Artikel 7 Absatz 2, 3 oder 4 des Gesetzes während des Kalenderjahres, so behält sie die beim bisherigen Versicherer gewählte Franchise, sofern der übernehmende Versicherer diese Versicherungsform führt. Artikel 103 Absatz 4 ist sinngemäss anwendbar.[^94-2]
+<sup>3</sup> Wechselt die versicherte Person den Versicherer auf Grund von Artikel 7 Absatz 2, 3 oder 4 KVG während des Kalenderjahres, so behält sie die beim bisherigen Versicherer gewählte Franchise, sofern der übernehmende Versicherer diese Versicherungsform führt. Artikel 103 Absatz 4 ist sinngemäss anwendbar.[^94-2]
 
 [^94-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^94-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
@@ -3506,9 +3674,9 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 <sup>1</sup> Die Bonusversicherung steht sämtlichen Versicherten offen. Der Wechsel von der ordentlichen Versicherung zur Bonusversicherung ist nur auf den Beginn eines Kalenderjahres möglich.
 
-<sup>2</sup> Der Wechsel zu einer anderen Versicherungsform oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 des Gesetzes festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^97-1]
+<sup>2</sup> Der Wechsel zu einer anderen Versicherungsform oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 KVG festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^97-1]
 
-<sup>3</sup> Wechselt die versicherte Person den Versicherer auf Grund von Artikel 7 Absatz 2, 3 oder 4 des Gesetzes während des Kalenderjahres, so hat der übernehmende Versicherer die leistungsfreie Zeit in der Bonusversicherung des bisherigen Versicherers anzurechnen, sofern er die Bonusversicherung führt und die versicherte Person dieser beitritt.[^97-2]
+<sup>3</sup> Wechselt die versicherte Person den Versicherer auf Grund von Artikel 7 Absatz 2, 3 oder 4 KVG während des Kalenderjahres, so hat der übernehmende Versicherer die leistungsfreie Zeit in der Bonusversicherung des bisherigen Versicherers anzurechnen, sofern er die Bonusversicherung führt und die versicherte Person dieser beitritt.[^97-2]
 
 [^97-1]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^97-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
@@ -3557,9 +3725,9 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 <sup>2</sup> Der Wechsel von einer Versicherung ohne eingeschränkte Wahl der Leistungserbringer in eine Versicherung mit eingeschränkter Wahl der Leistungserbringer ist jederzeit möglich. Artikel 97 Absatz 2 bleibt vorbehalten.[^100-1]
 
-<sup>3</sup> Der Wechsel zu einer anderen Versicherungsform oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 des Gesetzes festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^100-2]
+<sup>3</sup> Der Wechsel zu einer anderen Versicherungsform oder zu einem anderen Versicherer ist unter Einhaltung der in Artikel 7 Absätze 1 und 2 KVG festgesetzten Kündigungsfristen auf das Ende eines Kalenderjahres möglich.[^100-2]
 
-<sup>4</sup> Der Wechsel des Versicherers während des Kalenderjahres auf Grund von Artikel 7 Absatz 2, 3 oder 4 des Gesetzes bleibt vorbehalten.[^100-3]
+<sup>4</sup> Der Wechsel des Versicherers während des Kalenderjahres auf Grund von Artikel 7 Absatz 2, 3 oder 4 KVG bleibt vorbehalten.[^100-3]
 
 [^100-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^100-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
@@ -3589,7 +3757,7 @@ Die besonderen Versicherungsformen nach den Artikeln 93–101 stehen nicht offen
 
 #### Art. 102
 
-<sup>1</sup> Die Entschädigung an Dritte nach Artikel 63 des Gesetzes darf die Kosten nicht übersteigen, die dem Versicherer für die dem Dritten übertragenen Aufgaben entstehen würden.
+<sup>1</sup> Die Entschädigung an Dritte nach Artikel 63 KVG darf die Kosten nicht übersteigen, die dem Versicherer für die dem Dritten übertragenen Aufgaben entstehen würden.
 
 <sup>2</sup> Die Entschädigung zählt zu den Verwaltungskosten des Versicherers. Sie darf den Versicherten nicht als Prämienermässigung weitergegeben werden.
 
@@ -3599,9 +3767,9 @@ Die besonderen Versicherungsformen nach den Artikeln 93–101 stehen nicht offen
 
 **Franchise und Selbstbehalt**
 
-<sup>1</sup> Die Franchise nach Artikel 64 Absatz 2 Buchstabe a des Gesetzes beträgt 300 Franken je Kalenderjahr.[^103-1]
+<sup>1</sup> Die Franchise nach Artikel 64 Absatz 2 Buchstabe a KVG beträgt 300 Franken je Kalenderjahr.[^103-1]
 
-<sup>2</sup> Der jährliche Höchstbetrag des Selbstbehaltes nach Artikel 64 Absatz 2 Buchstabe b des Gesetzes beläuft sich auf 700 Franken für Erwachsene und 350 Franken für Kinder.[^103-2]
+<sup>2</sup> Der jährliche Höchstbetrag des Selbstbehaltes nach Artikel 64 Absatz 2 Buchstabe b KVG beläuft sich auf 700 Franken für Erwachsene und 350 Franken für Kinder.[^103-2]
 
 <sup>3</sup> Massgebend für die Erhebung der Franchise und des Selbstbehaltes ist das Behandlungsdatum.
 
@@ -3609,7 +3777,7 @@ Die besonderen Versicherungsformen nach den Artikeln 93–101 stehen nicht offen
 
 <sup>5</sup> Die Versicherer können für Erwachsene, bei denen der Versicherungsschutz auf weniger als ein Kalenderjahr angelegt ist, eine Pauschale für Franchise und Selbstbehalt bei Inanspruchnahme von Leistungen erheben. Diese Pauschale beträgt 250 Franken innerhalb eines Zeitraumes von 90 Tagen. Sie darf nicht in Verbindung mit besonderen Versicherungsformen nach den Artikeln 93–101*a* angeboten werden.[^103-3]
 
-<sup>6</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Liechtenstein, in Norwegen oder im Vereinigten Königreich wohnen und die bei einem Aufenthalt in der Schweiz aufgrund von Artikel 95*a* des Gesetzes oder internationaler Vereinbarungen Anspruch auf internationale Leistungsaushilfe haben, wird eine Pauschale für Franchise und Selbstbehalt erhoben. Die Pauschale beträgt für Erwachsene 92 Franken und für Kinder 33 Franken innerhalb eines Zeitraumes von 30 Tagen.[^103-4]
+<sup>6</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Liechtenstein, in Norwegen oder im Vereinigten Königreich wohnen und die bei einem Aufenthalt in der Schweiz aufgrund von Artikel 95*a* KVG oder internationaler Vereinbarungen Anspruch auf internationale Leistungsaushilfe haben, wird eine Pauschale für Franchise und Selbstbehalt erhoben. Die Pauschale beträgt für Erwachsene 92 Franken und für Kinder 33 Franken innerhalb eines Zeitraumes von 30 Tagen.[^103-4]
 
 <sup>7</sup> Für Versicherte, in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen und in der Schweiz versichert sind, gelten die Absätze 1–4 sinngemäss.[^103-5]
 
@@ -3623,7 +3791,7 @@ Die besonderen Versicherungsformen nach den Artikeln 93–101 stehen nicht offen
 
 **Beitrag an die Kosten des Spitalaufenthalts**[^104-1]
 
-<sup>1</sup> Der tägliche Beitrag an die Kosten des Aufenthalts im Spital nach Artikel 64 Absatz 5 des Gesetzes beträgt 15 Franken.
+<sup>1</sup> Der tägliche Beitrag an die Kosten des Aufenthalts im Spital nach Artikel 64 Absatz 5 KVG beträgt 15 Franken.
 
 <sup>1bis</sup>
 
@@ -3636,9 +3804,9 @@ Er ist nicht zu leisten:
 
 Keinen Beitrag haben zu entrichten:
 
-- a. Kinder nach Artikel 61 Absatz 3 des Gesetzes;
-- b. junge Erwachsene nach Artikel 61 Absatz 3 des Gesetzes, die in Ausbildung sind;
-- c.[^104-3] Frauen, bei denen die Kostenbeteiligung nach Artikel 64 Absatz 7 des Gesetzes entfällt.
+- a. Kinder nach Artikel 61 Absatz 3 KVG;
+- b. junge Erwachsene nach Artikel 61 Absatz 3 KVG, die in Ausbildung sind;
+- c.[^104-3] Frauen, bei denen die Kostenbeteiligung nach Artikel 64 Absatz 7 KVG entfällt.
 
 [^104-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)).
 [^104-2]: Eingefügt durch Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)).
@@ -3650,18 +3818,18 @@ Keinen Beitrag haben zu entrichten:
 
 <sup>1</sup>
 
-Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe a des Gesetzes eine höhere Kostenbeteiligung zu entrichten ist, und bestimmt deren Höhe. Es kann auch eine höhere Kostenbeteiligung vorsehen, wenn die Leistungen:
+Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe a KVG eine höhere Kostenbeteiligung zu entrichten ist, und bestimmt deren Höhe. Es kann auch eine höhere Kostenbeteiligung vorsehen, wenn die Leistungen:
 
 - a. während einer bestimmten Zeit erbracht worden sind;
 - b. einen bestimmten Umfang erreicht haben.
 
-<sup>1bis</sup> Das EDI bezeichnet die Arzneimittel, für die nach Artikel 64 Absatz 6 Buchstabe a des Gesetzes ein höherer Selbstbehalt zu entrichten ist, und bestimmt dessen Höhe.[^104a-2]
+<sup>1bis</sup> Das EDI bezeichnet die Arzneimittel, für die nach Artikel 64 Absatz 6 Buchstabe a KVG ein höherer Selbstbehalt zu entrichten ist, und bestimmt dessen Höhe.[^104a-2]
 
-<sup>2</sup> Ist ein höherer als der in Artikel 64 Absatz 2 Buchstabe b des Gesetzes festgelegte Selbstbehalt zu entrichten, wird der den gesetzlichen Ansatz übersteigende Betrag nur zur Hälfte an den Höchstbetrag nach Artikel 103 Absatz 2 angerechnet.
+<sup>2</sup> Ist ein höherer als der in Artikel 64 Absatz 2 Buchstabe b KVG festgelegte Selbstbehalt zu entrichten, wird der den gesetzlichen Ansatz übersteigende Betrag nur zur Hälfte an den Höchstbetrag nach Artikel 103 Absatz 2 angerechnet.
 
-<sup>3</sup> Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe b des Gesetzes die Kostenbeteiligung herabgesetzt oder aufgehoben ist. Es bestimmt die Höhe der herabgesetzten Kostenbeteiligung.
+<sup>3</sup> Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe b KVG die Kostenbeteiligung herabgesetzt oder aufgehoben ist. Es bestimmt die Höhe der herabgesetzten Kostenbeteiligung.
 
-<sup>3bis</sup> Das EDI bezeichnet die Leistungen, welche nach Artikel 64 Absatz 6 Buchstabe d des Gesetzes von der Franchise ausgenommen sind.[^104a-3]
+<sup>3bis</sup> Das EDI bezeichnet die Leistungen, welche nach Artikel 64 Absatz 6 Buchstabe d KVG von der Franchise ausgenommen sind.[^104a-3]
 
 <sup>4</sup> Vor Erlass der Bestimmungen nach den Absätzen 1, 3 und 3<sup>bis</sup> hört das EDI die zuständige Kommission an.[^104a-4]
 
@@ -3678,7 +3846,7 @@ Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe a
 
 <sup>2</sup> Eine Totgeburt nach der 23. Schwangerschaftswoche gilt als Niederkunft.
 
-<sup>3</sup> Die Frist nach Artikel 64 Absatz 7 Buchstabe b des Gesetzes endet am 56. Tag nach der Niederkunft um 24 Uhr.
+<sup>3</sup> Die Frist nach Artikel 64 Absatz 7 Buchstabe b KVG endet am 56. Tag nach der Niederkunft um 24 Uhr.
 
 [^105-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. März 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
 
@@ -3808,7 +3976,7 @@ Das EDI kann nach Anhörung der Kantone und der Versicherer technische und organ
 
 **Einem Verlustschein gleichzusetzende Rechtstitel**[^105i-1]
 
-Einem Verlustschein im Sinne von Artikel 64*a* Absatz 3 des Gesetzes sind Verfügungen über die Ausrichtung von Ergänzungsleistungen oder gleichwertige Rechtstitel, die das Fehlen von finanziellen Mitteln der versicherten Person belegen, gleichgesetzt. Der Kanton bezeichnet die Verfügungen und die betroffenen Rechtstitel.
+Einem Verlustschein im Sinne von Artikel 64*a* Absatz 3 KVG sind Verfügungen über die Ausrichtung von Ergänzungsleistungen oder gleichwertige Rechtstitel, die das Fehlen von finanziellen Mitteln der versicherten Person belegen, gleichgesetzt. Der Kanton bezeichnet die Verfügungen und die betroffenen Rechtstitel.
 
 [^105i-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
@@ -3881,13 +4049,13 @@ Der Kanton bezahlt dem Versicherer bis zum 30. Juni:
 
 **Wechsel des Versicherers bei Säumigkeit**[^105l-1]
 
-<sup>1</sup> Säumig im Sinne von Artikel 64*a* Absatz 6 des Gesetzes ist die versicherte Person ab Zustellung der Mahnung nach Artikel 105*b* Absatz 1.
+<sup>1</sup> Säumig im Sinne von Artikel 64*a* Absatz 6 KVG ist die versicherte Person ab Zustellung der Mahnung nach Artikel 105*b* Absatz 1.
 
 <sup>2</sup> Kündigt eine säumige versicherte Person ihr Versicherungsverhältnis, so muss der Versicherer sie informieren, dass die Kündigung keine Wirkung entfaltet, wenn die bis einen Monat vor Ablauf der Kündigungsfrist gemahnten Prämien, Kostenbeteiligungen und Verzugszinse sowie die bis zu diesem Zeitpunkt aufgelaufenen Betreibungskosten bis zum Ablauf der Kündigungsfrist nicht vollständig bezahlt sind.
 
 <sup>2bis</sup> Der Versicherer informiert Versicherte, die das 18. Altersjahr vollenden, dass sie bei vor Erreichen der Volljährigkeit geschuldeten Beträgen nicht als säumig gelten.[^105l-2]
 
-<sup>3</sup> Sind die ausstehenden Beträge nach Absatz 2 beim Versicherer nicht rechtzeitig eingetroffen, so muss dieser die betroffene Person informieren, dass sie weiterhin bei ihm versichert ist und frühestens auf den nächstmöglichen Termin nach Artikel 7 Absätze 1 und 2 des Gesetzes den Versicherer wechseln kann. Der Versicherer muss zudem den neuen Versicherer innerhalb von 60 Tagen darüber informieren, dass die versicherte Person weiterhin bei ihm versichert ist.
+<sup>3</sup> Sind die ausstehenden Beträge nach Absatz 2 beim Versicherer nicht rechtzeitig eingetroffen, so muss dieser die betroffene Person informieren, dass sie weiterhin bei ihm versichert ist und frühestens auf den nächstmöglichen Termin nach Artikel 7 Absätze 1 und 2 KVG den Versicherer wechseln kann. Der Versicherer muss zudem den neuen Versicherer innerhalb von 60 Tagen darüber informieren, dass die versicherte Person weiterhin bei ihm versichert ist.
 
 <sup>4</sup>
 
@@ -3910,13 +4078,13 @@ Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands, Nor
 
 - a.
 
-  Artikel 64*a* Absätze 1–7 des Gesetzes und die Artikel 105*b*–105*l* auf:
+  Artikel 64*a* Absätze 1–7 KVG und die Artikel 105*b*–105*l* auf:
 
   - 1\. Grenzgänger und Grenzgängerinnen sowie deren Familienangehörige,
   - 2\. Familienangehörige von Niedergelassenen, von Aufenthaltern und Aufenthalterinnen und von Kurzaufenthaltern und Kurzaufenthalterinnen,
   - 3\. Bezüger und Bezügerinnen einer Leistung der schweizerischen Arbeitslosenversicherung sowie deren Familienangehörige;
 
-- b. Artikel 64*a* Absätze 1, 2 und 6 des Gesetzes und die Artikel 105*b* und 105*l* auf Rentnerinnen und Rentnern sowie deren Familienangehörige; der Versicherer übernimmt die Verlustscheine.
+- b. Artikel 64*a* Absätze 1, 2 und 6 KVG und die Artikel 105*b* und 105*l* auf Rentnerinnen und Rentnern sowie deren Familienangehörige; der Versicherer übernimmt die Verlustscheine.
 
 <sup>2</sup> Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands, Norwegens oder des Vereinigten Königreichs nicht möglich, dass der Schweizer Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so hat der Versicherer der versicherten Person, die die fälligen Prämien oder Kostenbeteiligungen nicht bezahlt, nach mindestens einer schriftlichen Mahnung, eine Zahlungsaufforderung zuzustellen, ihr eine Nachfrist von 30 Tagen einzuräumen und sie auf die Folgen des Zahlungsverzugs hinzuweisen. Bezahlt die versicherte Person trotz Zahlungsaufforderung die Prämien, Kostenbeteiligungen und Verzugszinse nicht innert der gesetzten Frist, so kann der Versicherer die Übernahme der Kosten für die Leistungen aufschieben. Gleichzeitig muss er die versicherte Person und den zuständigen aushelfenden Träger am Wohnort der versicherten Person informieren. Der Aufschub endet, sobald die gemahnten Prämien und Kostenbeteiligungen sowie die angefallenen Verzugszinse bezahlt sind. Der Versicherer darf während eines Aufschubs der Übernahme der Kosten die Versicherungsleistungen mit geschuldeten Prämien oder Kostenbeteiligungen verrechnen.[^105m-3]
 
@@ -3950,13 +4118,13 @@ Anspruch auf Prämienverbilligung haben auch versicherungspflichtige Personen na
 
 <sup>1</sup>
 
-Die Prämienverbilligung richtet sich nach Artikel 65*a* des Gesetzes:
+Die Prämienverbilligung richtet sich nach Artikel 65*a* KVG:
 
 - a. für Versicherte, die eine schweizerische Rente beziehen, solange sie in der Schweiz erwerbstätig sind oder eine Leistung der schweizerischen Arbeitslosenversicherung beziehen;
 - b. für versicherte Familienangehörige einer versicherten Person nach Buchstabe a, selbst wenn ein anderer versicherter Familienangehöriger nur eine schweizerische Rente bezieht;
 - c. für versicherte Familienangehörige einer versicherten Person, die in der Schweiz erwerbstätig ist oder eine Leistung der schweizerischen Arbeitslosenversicherung bezieht, selbst wenn ein anderer versicherter Familienangehöriger nur eine schweizerische Rente bezieht.
 
-<sup>2</sup> Die Kantone dürfen bei der Prüfung der bescheidenen wirtschaftlichen Verhältnisse der in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnenden Versicherten das Einkommen und das Reinvermögen derjenigen Familienangehörigen, die dem Verfahren nach Artikel 66*a* des Gesetzes unterstellt sind, nicht berücksichtigen.[^106a-2]
+<sup>2</sup> Die Kantone dürfen bei der Prüfung der bescheidenen wirtschaftlichen Verhältnisse der in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnenden Versicherten das Einkommen und das Reinvermögen derjenigen Familienangehörigen, die dem Verfahren nach Artikel 66*a* KVG unterstellt sind, nicht berücksichtigen.[^106a-2]
 
 [^106a-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 [^106a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
@@ -3971,7 +4139,7 @@ Die Prämienverbilligung richtet sich nach Artikel 65*a* des Gesetzes:
 
 **Meldungen des Kantons**
 
-<sup>1</sup> Der Kanton bestimmt eine Stelle, welche die Daten mit den Versicherern nach Artikel 65 Absatz 2 des Gesetzes austauscht.
+<sup>1</sup> Der Kanton bestimmt eine Stelle, welche die Daten mit den Versicherern nach Artikel 65 Absatz 2 KVG austauscht.
 
 <sup>2</sup>
 
@@ -4046,7 +4214,7 @@ Die Artikel 90, 90*a*, und 105*a* sind sinngemäss anwendbar.
 
 **Beitritt**
 
-Jede Person, welche die Voraussetzungen von Artikel 67 Absatz 1 des Gesetzes erfüllt, kann zu den gleichen Bedingungen, namentlich hinsichtlich der Dauer und der Höhe des Taggeldes, wie sie für die anderen Versicherten gelten, der Taggeldversicherung beitreten, soweit dadurch voraussichtlich keine Überentschädigung entsteht.
+Jede Person, welche die Voraussetzungen von Artikel 67 Absatz 1 KVG erfüllt, kann zu den gleichen Bedingungen, namentlich hinsichtlich der Dauer und der Höhe des Taggeldes, wie sie für die anderen Versicherten gelten, der Taggeldversicherung beitreten, soweit dadurch voraussichtlich keine Überentschädigung entsteht.
 
 ## 3. Teil: Koordinationsregeln
 
@@ -4175,7 +4343,7 @@ Eine Überentschädigung bei Sachleistungen liegt in dem Masse vor, als die jewe
 - a. die der versicherten Person entstandenen Diagnose- und Behandlungskosten;
 - b. die der versicherten Person entstandenen Pflegekosten und andere ungedeckte Krankheitskosten;
 
-<sup>2</sup> Ist die versicherte Person bei mehr als einem Krankenversicherer für Taggeld gemäss den Artikeln 67–77 des Gesetzes versichert, gilt als Überentschädigungsgrenze diejenige von Artikel 69 Absatz 2 ATSG. Sind die Leistungen zu kürzen, so ist jeder Versicherer im Verhältnis des von ihm versicherten Taggeldes zum Gesamtbetrag der versicherten Taggelder leistungspflichtig.
+<sup>2</sup> Ist die versicherte Person bei mehr als einem Krankenversicherer für Taggeld gemäss den Artikeln 67–77 KVG versichert, gilt als Überentschädigungsgrenze diejenige von Artikel 69 Absatz 2 ATSG. Sind die Leistungen zu kürzen, so ist jeder Versicherer im Verhältnis des von ihm versicherten Taggeldes zum Gesamtbetrag der versicherten Taggelder leistungspflichtig.
 
 [^122-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
@@ -4211,9 +4379,9 @@ Wird eine Verfügung auf Grund von Artikel 51 Absatz 2 ATSG verlangt, so hat der
 
 **Kosten der Bekanntgabe und Publikation von Daten[^130-2]**[^130-1]
 
-<sup>1</sup> In den Fällen nach Artikel 84*a* Absatz 5 des Gesetzes wird eine Gebühr erhoben, wenn die Datenbekanntgabe zahlreiche Kopien oder andere Vervielfältigungen oder besondere Nachforschungen erfordert. Die Höhe dieser Gebühr entspricht den in den Artikeln 14 und 16 der Verordnung vom 10. September 1969[^130-3] über Kosten und Entschädigungen im Verwaltungsverfahren festgesetzten Beträgen.
+<sup>1</sup> In den Fällen nach Artikel 84*a* Absatz 5 KVG wird eine Gebühr erhoben, wenn die Datenbekanntgabe zahlreiche Kopien oder andere Vervielfältigungen oder besondere Nachforschungen erfordert. Die Höhe dieser Gebühr entspricht den in den Artikeln 14 und 16 der Verordnung vom 10. September 1969[^130-3] über Kosten und Entschädigungen im Verwaltungsverfahren festgesetzten Beträgen.
 
-<sup>2</sup> Für Publikationen nach Artikel 84*a* Absatz 3 des Gesetzes wird eine kostendeckende Gebühr erhoben.
+<sup>2</sup> Für Publikationen nach Artikel 84*a* Absatz 3 KVG wird eine kostendeckende Gebühr erhoben.
 
 <sup>3</sup> Die Gebühr kann wegen Bedürftigkeit der gebührenpflichtigen Person oder aus anderen wichtigen Gründen ermässigt oder erlassen werden.
 
@@ -4235,7 +4403,7 @@ Wird eine Verfügung auf Grund von Artikel 51 Absatz 2 ATSG verlangt, so hat der
 
 **Bestehende Versicherungsverhältnisse**
 
-<sup>1</sup> Die Krankenkassen können beim Inkrafttreten des Gesetzes bestehende Versicherungsverhältnisse mit Personen, die der obligatorischen Krankenpflegeversicherung nicht unterstehen und auch nicht auf Gesuch hin unterstellt werden können, bis spätestens am 31. Dezember 1996 weiterführen. Diese Versicherungsverhältnisse richten sich nach dem bisherigen Recht.
+<sup>1</sup> Die Krankenkassen können beim Inkrafttreten des KVG bestehende Versicherungsverhältnisse mit Personen, die der obligatorischen Krankenpflegeversicherung nicht unterstehen und auch nicht auf Gesuch hin unterstellt werden können, bis spätestens am 31. Dezember 1996 weiterführen. Diese Versicherungsverhältnisse richten sich nach dem bisherigen Recht.
 
 <sup>2</sup> Ein neues Versicherungsverhältnis nach Absatz 1 darf nur begründet werden, wenn damit die Weiterführung bis zum 31. Dezember 1996 einer entsprechenden Versicherungsdeckung gewährleistet wird, die von einem Versicherer gewährt worden war, der auf die Fortführung der sozialen Krankenversicherung verzichtet hat (Art. 99 KVG).
 
@@ -4257,9 +4425,9 @@ Wird eine Verfügung auf Grund von Artikel 51 Absatz 2 ATSG verlangt, so hat der
 
 **Leistungserbringer**
 
-<sup>1</sup> Leistungserbringer im Sinne der Artikel 44–54, die im Zeitpunkt des Inkrafttretens des Gesetzes gestützt auf eine Bewilligung nach altem Recht für die Krankenversicherung tätig sind, bleiben zugelassen, wenn sie innert einem Jahr nach Inkrafttreten des Gesetzes nach kantonalem Recht zugelassen sind.
+<sup>1</sup> Leistungserbringer im Sinne der Artikel 44–54, die im Zeitpunkt des Inkrafttretens des KVG gestützt auf eine Bewilligung nach altem Recht für die Krankenversicherung tätig sind, bleiben zugelassen, wenn sie innert einem Jahr nach Inkrafttreten des KVG nach kantonalem Recht zugelassen sind.
 
-<sup>2</sup> Logopäden und Logopädinnen sowie Ernährungsberater und Ernährungsberaterinnen, welche die Zulassungsbedingungen dieser Verordnung nur teilweise erfüllen, aber vor dem Inkrafttreten des Gesetzes ihre Ausbildung abgeschlossen und ihren Beruf selbständig ausgeübt haben, können unter dem neuen Recht für die Krankenversicherung tätig sein, wenn sie innert vier Jahren nach Inkrafttreten des Gesetzes nach kantonalem Recht zugelassen werden.[^134-1]
+<sup>2</sup> Logopäden und Logopädinnen sowie Ernährungsberater und Ernährungsberaterinnen, welche die Zulassungsbedingungen dieser Verordnung nur teilweise erfüllen, aber vor dem Inkrafttreten des KVG ihre Ausbildung abgeschlossen und ihren Beruf selbständig ausgeübt haben, können unter dem neuen Recht für die Krankenversicherung tätig sein, wenn sie innert vier Jahren nach Inkrafttreten des KVG nach kantonalem Recht zugelassen werden.[^134-1]
 
 <sup>3</sup>
 
@@ -4408,13 +4576,13 @@ Die Bestimmungen dieser Verordnung zur Revisionsstelle gelten vom ersten Geschä
 
 [^u13-1]: [AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)
 
-<sup>1</sup> Die Organisation nach Artikel 49 Absatz 2 des Gesetzes muss ihre Tätigkeit spätestens am 31. Januar 2009 aufnehmen. Die Tarifpartner und die Kantone müssen den Bundesrat über das Datum des Beginns der Tätigkeit der Organisation in Kenntnis setzen und ihm die Statuten der Organisation übermitteln.
+<sup>1</sup> Die Organisation nach Artikel 49 Absatz 2 KVG muss ihre Tätigkeit spätestens am 31. Januar 2009 aufnehmen. Die Tarifpartner und die Kantone müssen den Bundesrat über das Datum des Beginns der Tätigkeit der Organisation in Kenntnis setzen und ihm die Statuten der Organisation übermitteln.
 
 <sup>2</sup> Das erste Gesuch um Genehmigung des Tarifvertrags nach Artikel 59*d* muss dem Bundesrat spätestens am 30. Juni 2009 unterbreitet werden. Der Tarifvertrag muss zusätzlich zur einheitlichen Tarifstruktur und zu den Anwendungsmodalitäten des Tarifs einen gemeinsamen Vorschlag der Tarifpartner über die bei der Einführung der leistungsbezogenen Pauschalen erforderlichen Begleitmassnahmen enthalten. Dafür vereinbaren die Tarifpartner namentlich Instrumente zur Überwachung der Entwicklung der Kosten und der Leistungsmengen (Monitoring) sowie die Korrekturmassnahmen.
 
-<sup>2bis</sup> Das Monitoring nach Absatz 2 umfasst insbesondere pro Leistungserbringer die Entwicklung der Fallzahl, der abgerechneten Kosten und im Falle eines Vergütungsmodells vom Typus Diagnosis Related Groups (DRG) die Entwicklung des Case Mix Index (CMI). Das Monitoring über sämtliche Bereiche nach Artikel 49 Absatz 1 des Gesetzes, einschliesslich der vor- und nachgelagerten Bereiche, muss insbesondere gewährleisten, dass neben dem Korrekturmechanismus nach Absatz 2<sup>ter</sup> zusätzliche Korrekturmassnahmen von den Tarifpartnern durchgeführt werden können. Können sich die Tarifpartner nicht auf ein entsprechendes Monitoring einigen, übermitteln die Leistungserbringer den Versicherern die dazu notwendigen Informationen ab dem Einführungszeitpunkt nach Absatz 1 der Übergangsbestimmungen der Änderung vom 21. Dezember 2007 des Gesetzes bis zum Abschluss der Korrekturmassnahmen quartalsweise. Die Versicherer führen gemeinsam ein Monitoring durch und veröffentlichen halbjährlich eine Auswertung als Grundlage für Korrekturmassnahmen der Tarifpartner.[^u13-2]
+<sup>2bis</sup> Das Monitoring nach Absatz 2 umfasst insbesondere pro Leistungserbringer die Entwicklung der Fallzahl, der abgerechneten Kosten und im Falle eines Vergütungsmodells vom Typus Diagnosis Related Groups (DRG) die Entwicklung des Case Mix Index (CMI). Das Monitoring über sämtliche Bereiche nach Artikel 49 Absatz 1 KVG, einschliesslich der vor- und nachgelagerten Bereiche, muss insbesondere gewährleisten, dass neben dem Korrekturmechanismus nach Absatz 2<sup>ter</sup> zusätzliche Korrekturmassnahmen von den Tarifpartnern durchgeführt werden können. Können sich die Tarifpartner nicht auf ein entsprechendes Monitoring einigen, übermitteln die Leistungserbringer den Versicherern die dazu notwendigen Informationen ab dem Einführungszeitpunkt nach Absatz 1 der Übergangsbestimmungen der Änderung vom 21. Dezember 2007 des KVG bis zum Abschluss der Korrekturmassnahmen quartalsweise. Die Versicherer führen gemeinsam ein Monitoring durch und veröffentlichen halbjährlich eine Auswertung als Grundlage für Korrekturmassnahmen der Tarifpartner.[^u13-2]
 
-<sup>2ter</sup> Können sich die Tarifpartner im Falle eines Vergütungsmodells vom Typus DRG nicht auf gesamtschweizerisch einheitliche Korrekturmassnahmen nach Absatz 2 einigen, so muss der Leistungserbringer in den ersten beiden Jahren nach Einführung des Vergütungsmodells sowohl bei einer ungerechtfertigten Erhöhung um mehr als 2 Prozent, des effektiven CMI im Abrechnungsjahr gegenüber dem vereinbarten CMI als auch der effektiven Fallzahl im Abrechnungsjahr gegenüber der bei der Vereinbarung des CMI berücksichtigten Fallzahl, die Mehrerträge innerhalb des Folgejahres anteilsmässig nach Artikel 49*a* des Gesetzes rückvergüten. Die Umsetzungsmodalitäten werden zwischen Leistungserbringern und Versicherern vereinbart.[^u13-3]
+<sup>2ter</sup> Können sich die Tarifpartner im Falle eines Vergütungsmodells vom Typus DRG nicht auf gesamtschweizerisch einheitliche Korrekturmassnahmen nach Absatz 2 einigen, so muss der Leistungserbringer in den ersten beiden Jahren nach Einführung des Vergütungsmodells sowohl bei einer ungerechtfertigten Erhöhung um mehr als 2 Prozent, des effektiven CMI im Abrechnungsjahr gegenüber dem vereinbarten CMI als auch der effektiven Fallzahl im Abrechnungsjahr gegenüber der bei der Vereinbarung des CMI berücksichtigten Fallzahl, die Mehrerträge innerhalb des Folgejahres anteilsmässig nach Artikel 49*a* KVG rückvergüten. Die Umsetzungsmodalitäten werden zwischen Leistungserbringern und Versicherern vereinbart.[^u13-3]
 
 <sup>3</sup> Die Tarifpartner müssen dem Bundesrat den Betrag des Fallbeitrags nach Artikel 59*e* spätestens zusammen mit dem ersten Genehmigungsgesuch nach Absatz 2 zur Genehmigung unterbreiten.
 
@@ -4519,7 +4687,7 @@ In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der �
 
 [^u21-1]: [AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)
 
-<sup>1</sup> Jeder Versicherer muss bis zum 31. Dezember 2013 über eine zertifizierte Datenannahmestelle nach Artikel 59*a* Absatz 6 verfügen. Solange der Versicherer über keine zertifizierte Datenannahmestelle verfügt, ist eine systematische Weitergabe nach Artikel 59*a* Absatz 3 von medizinischen Angaben nur möglich, wenn diese direkt an den Vertrauensarzt oder die Vertrauensärztin nach Artikel 57 des Gesetzes übermittelt werden.
+<sup>1</sup> Jeder Versicherer muss bis zum 31. Dezember 2013 über eine zertifizierte Datenannahmestelle nach Artikel 59*a* Absatz 6 verfügen. Solange der Versicherer über keine zertifizierte Datenannahmestelle verfügt, ist eine systematische Weitergabe nach Artikel 59*a* Absatz 3 von medizinischen Angaben nur möglich, wenn diese direkt an den Vertrauensarzt oder die Vertrauensärztin nach Artikel 57 KVG übermittelt werden.
 
 <sup>2</sup> Bis zur Festlegung der für sie anwendbaren Klassifikationen durch das EDI (Art. 59*a*<sup>bis</sup>) geben die Leistungserbringer im ambulanten Bereich sowie in den Bereichen Rehabilitation und Psychiatrie die Diagnosen und Prozeduren nach den in den anwendbaren Tarifverträgen vereinbarten Modalitäten und Codierungen weiter.[^u21-2]
 
@@ -4641,7 +4809,7 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 <sup>2</sup> Arzneimittel, die die Voraussetzungen für eine Aufnahme in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV[^u31-2] erfüllen und in der Spezialitätenliste aufgeführt sind, werden in Umsetzung von Artikel 65 Absatz 1<sup>bis</sup> im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste überführt.
 
-<sup>3</sup> Arzneimittel, die in der Geburtsgebrechenmedikamentenliste der Spezialitätenliste aufgeführt sind, werden im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV oder die Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b des Gesetzes überführt.
+<sup>3</sup> Arzneimittel, die in der Geburtsgebrechenmedikamentenliste der Spezialitätenliste aufgeführt sind, werden im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV oder die Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b KVG überführt.
 
 [^u31-2]: [SR 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 

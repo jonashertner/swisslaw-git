@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20250701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20250701/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° luglio 2025)
+del 27 giugno 1995 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA); visto l’articolo 96 della legge federale del 18 marzo 1994[^ingress-2] sull’assicurazione malattie (legge/LAMal); visto l’articolo 82 capoverso 2 della legge del 15 dicembre 2000[^ingress-3] sugli agenti terapeutici (LATer); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-4] sull’organizzazione del Governo e dell’Amministrazione (LOGA),[^ingress-5]
+visto l*’*articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA); visto l*’*articolo 96 della legge federale del 18 marzo 1994[^ingress-2] sull*’*assicurazione malattie (LAMal); visto l*’*articolo 82 capoverso 2 della legge del 15 dicembre 2000[^ingress-3] sugli agenti terapeutici (LATer); visto l*’*articolo 46*a* della legge del 21 marzo 1997[^ingress-4] sull*’*organizzazione del Governo e dell*’*Amministrazione,[^ingress-5]
 
 ordina:
 
@@ -29,7 +29,7 @@ ordina:
 [^ingress-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^ingress-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
-[^ingress-5]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 ## Parte prima: Assicurazione obbligatoria delle cure medico-sanitarie
 
@@ -43,35 +43,36 @@ ordina:
 
 **Obbligo d’assicurazione**
 
-<sup>1</sup> Le persone domiciliate in Svizzera ai sensi degli articoli 23 a 26 del Codice civile svizzero[^1-1] (CC) sono tenute ad assicurarsi conformemente all’articolo 3 della legge.
+<sup>1</sup> Le persone domiciliate in Svizzera ai sensi degli articoli 23 a 26 del Codice civile svizzero[^1-1] (CC) sono tenute ad assicurarsi conformemente all’articolo 3 LAMal[^1-2].
 
 <sup>2</sup>
 
 Sono inoltre tenuti ad assicurarsi:
 
-- a.[^1-2] gli stranieri con permesso di soggiorno di breve durata o di dimora ai sensi degli articoli 32 e 33 della legge federale del 16 dicembre 2005[^1-3] sugli stranieri e la loro integrazione (LStrI)[^1-4], valevole almeno tre mesi;
-- b.[^1-5] gli stranieri esercitanti un’attività lucrativa dipendente con permesso di soggiorno di breve durata valevole meno di tre mesi, se non beneficiano di una copertura assicurativa equivalente per le cure in Svizzera;
-- c.[^1-6] le persone che hanno presentato una domanda d’asilo in Svizzera conformemente all’articolo 18 della legge del 26 giugno 1998[^1-7] sull’asilo (LAsi), le persone cui è stata concessa la protezione provvisoria secondo l’articolo 66 LAsi nonché le persone, per le quali è stata decisa l’ammissione provvisoria conformemente all’articolo 83 LStrI;
-- d.[^1-8] le persone che risiedono in uno Stato membro dell’Unione europea e sono soggette all’assicurazione svizzera ai sensi dell’Accordo del 21 giugno 1999[^1-9] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e del relativo allegato II, menzionati nell’articolo 95*a* capoverso 1 della legge;
-- e.[^1-10] le persone che risiedono in Islanda o in Norvegia e sono soggette all’assicurazione svizzera ai sensi dell’Accordo del 21 giugno 2001[^1-11] di emendamento della Convenzione istitutiva dell’Associazione europea di libero scambio (Accordo AELS), del relativo allegato K e dell’appendice 2 dell’allegato K, menzionati nell’articolo 95*a* capoverso 2 della legge;
-- e<sup>bis</sup>.[^1-12] le persone che risiedono in uno Stato con il quale sussiste un accordo di sicurezza sociale e che, in virtù di tale accordo, sono soggette all’assicurazione svizzera;
-- f.[^1-13] le persone con permesso di dimora di breve durata o permesso di dimora ai sensi dell’Accordo sulla libera circolazione delle persone o dell’Accordo AELS, valevole almeno tre mesi;
-- g.[^1-14] le persone che esercitano un’attività lucrativa in Svizzera per un periodo inferiore ai tre mesi e che conformemente all’Accordo sulla libera circolazione delle persone o all’Accordo AELS non necessitano di un permesso di dimora, sempre che per i trattamenti in Svizzera non dispongano di una copertura assicurativa equivalente.
+- a.[^1-3] gli stranieri con permesso di soggiorno di breve durata o di dimora ai sensi degli articoli 32 e 33 della legge federale del 16 dicembre 2005[^1-4] sugli stranieri e la loro integrazione (LStrI)[^1-5], valevole almeno tre mesi;
+- b.[^1-6] gli stranieri esercitanti un’attività lucrativa dipendente con permesso di soggiorno di breve durata valevole meno di tre mesi, se non beneficiano di una copertura assicurativa equivalente per le cure in Svizzera;
+- c.[^1-7] le persone che hanno presentato una domanda d’asilo in Svizzera conformemente all’articolo 18 della legge del 26 giugno 1998[^1-8] sull’asilo (LAsi), le persone cui è stata concessa la protezione provvisoria secondo l’articolo 66 LAsi nonché le persone, per le quali è stata decisa l’ammissione provvisoria conformemente all’articolo 83 LStrI;
+- d.[^1-9] le persone che risiedono in uno Stato membro dell’Unione europea e sono soggette all’assicurazione svizzera ai sensi dell’Accordo del 21 giugno 1999[^1-10] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e del relativo allegato II, menzionati nell’articolo 95*a* capoverso 1 LAMal;
+- e.[^1-11] le persone che risiedono in Islanda o in Norvegia e sono soggette all’assicurazione svizzera ai sensi dell’Accordo del 21 giugno 2001[^1-12] di emendamento della Convenzione istitutiva dell’Associazione europea di libero scambio (Accordo AELS), del relativo allegato K e dell’appendice 2 dell’allegato K, menzionati nell’articolo 95*a* capoverso 2 LAMal;
+- e<sup>bis</sup>.[^1-13] le persone che risiedono in uno Stato con il quale sussiste un accordo di sicurezza sociale e che, in virtù di tale accordo, sono soggette all’assicurazione svizzera;
+- f.[^1-14] le persone con permesso di dimora di breve durata o permesso di dimora ai sensi dell’Accordo sulla libera circolazione delle persone o dell’Accordo AELS, valevole almeno tre mesi;
+- g.[^1-15] le persone che esercitano un’attività lucrativa in Svizzera per un periodo inferiore ai tre mesi e che conformemente all’Accordo sulla libera circolazione delle persone o all’Accordo AELS non necessitano di un permesso di dimora, sempre che per i trattamenti in Svizzera non dispongano di una copertura assicurativa equivalente.
 
 [^1-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^1-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^1-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-5]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-2]: Nuova espr. giusta la cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)). Di detta mod. é tenuto conto in tutto il testo.
+[^1-3]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^1-5]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-6]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^1-7]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
-[^1-8]: Introdotta dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^1-10]: Introdotta dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-11]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
-[^1-12]: Introdotta dalla cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
-[^1-13]: Introdotta dalla cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^1-14]: Introdotta dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^1-7]: Nuovo testo giusta la cifra I n. 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^1-8]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^1-9]: Introdotta dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-10]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^1-11]: Introdotta dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-12]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^1-13]: Introdotta dalla cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-14]: Introdotta dalla cifra I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^1-15]: Introdotta dalla cifra I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 
 #### Art. 2
 
@@ -202,9 +203,9 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 
 <sup>1</sup> Gli assicuratori possono domandare nel formulario d’affiliazione soltanto i dati necessari per l’adesione all’assicurazione obbligatoria delle cure medico-sanitarie o per il cambiamento dell’assicuratore.
 
-<sup>2</sup> Il formulario d’affiliazione non deve contenere nessun dato, nessuna indicazione o qualsivoglia correlazione con le assicurazioni ai sensi dell’articolo 12 capoverso 2[^6a-2] della legge o con l’assicurazione facoltativa delle indennità giornaliere ai sensi degli articoli 67–77 della legge.
+<sup>2</sup> Il formulario d’affiliazione non deve contenere nessun dato, nessuna indicazione o qualsivoglia correlazione con le assicurazioni ai sensi dell’articolo 12 capoverso 2[^6a-2] LAMal o con l’assicurazione facoltativa delle indennità giornaliere ai sensi degli articoli 67–77 LAMal.
 
-<sup>3</sup> Gli assicuratori possono trattare i dati personali soltanto per i compiti previsti nella legge.
+<sup>3</sup> Gli assicuratori possono trattare i dati personali soltanto per i compiti previsti nella LAMal.
 
 [^6a-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^6a-2]: [[RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328). [RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839)all. n. 2]. Dal 1° gen. 2016 vedi l’art. 2 cpv. 2 della LF del 26 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
@@ -229,7 +230,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 
 <sup>6</sup> Le persone beneficiarie di privilegi, immunità e facilitazioni che desiderano essere soggette all’assicurazione svizzera (art. 6 cpv. 1) devono assicurarsi entro sei mesi dall’ottenimento della carta di legittimazione del DFAE. L’assicurazione inizia il giorno in cui hanno ottenuto questa carta di legittimazione. L’assicurazione cessa alla fine dell’attività ufficiale in Svizzera, con la morte o la rinuncia all’assoggettamento all’assicurazione obbligatoria svizzera. In quest’ultimo caso, fatti salvi motivi particolari, non può essere presentata una nuova domanda.[^7-9]
 
-<sup>7</sup> Gli agenti della Confederazione in attività o in pensione ai sensi dell’articolo 2 capoverso 1 lettera a che escono dall’assicurazione militare devono assicurarsi per le cure medico-sanitarie presso un assicuratore designato nell’articolo 11[^7-10] della legge entro tre mesi dall’uscita dall’assicurazione militare. Se l’affiliazione è tempestiva, l’assicurazione inizia dall’uscita dall’assicurazione militare.
+<sup>7</sup> Gli agenti della Confederazione in attività o in pensione ai sensi dell’articolo 2 capoverso 1 lettera a che escono dall’assicurazione militare devono assicurarsi per le cure medico-sanitarie presso un assicuratore designato nell’articolo 11[^7-10] LAMal entro tre mesi dall’uscita dall’assicurazione militare. Se l’affiliazione è tempestiva, l’assicurazione inizia dall’uscita dall’assicurazione militare.
 
 <sup>8</sup> Le persone tenute ad assicurarsi ai sensi dell’articolo 1 capoverso 2 lettere d–e<sup>bis</sup> devono assicurarsi entro tre mesi dalla nascita dell’obbligo d’assicurazione in Svizzera. Se si assicurano entro questo termine, l’assicurazione inizia dall’assoggettamento all’assicurazione svizzera. Se si assicurano più tardi, l’assicurazione inizia dalla data dell’affiliazione. L’assicurazione cessa se queste persone non adempiono più le condizioni per un assoggettamento all’assicurazione svizzera conformemente all’Accordo sulla libera circolazione delle persone[^7-11] e al relativo allegato II, all’Accordo AELS[^7-12], al relativo allegato K e all’appendice 2 dell’allegato K o ad altri accordi internazionali.[^7-13]
 
@@ -242,7 +243,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 [^7-7]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^7-8]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^7-9]: Nuovo testo giusta l’all. n. 15 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^7-10]: Dal 1° gen. 2016: art. 2 e 3 della legge del 16 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
+[^7-10]: Dal 1° gen. 2016: art. 2 e 3 della L del 16 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)).
 [^7-11]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^7-12]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^7-13]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
@@ -260,7 +261,7 @@ Gli assicuratori possono offrire alle persone che sono state soggette all’assi
 
 **Prolungamento dell’obbligo d’assicurazione**[^7b-1]
 
-Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a* capoverso 1 della legge circa il prolungamento dell’obbligo d’assicurazione.
+Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a* capoverso 1 LAMal circa il prolungamento dell’obbligo d’assicurazione.
 
 [^7b-1]: Introdotto dalla cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
@@ -268,11 +269,11 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 **Supplemento di premio in caso d’affiliazione tardiva**
 
-<sup>1</sup> Il supplemento di premio in caso di affiliazione tardiva, previsto nell’articolo 5 capoverso 2 della legge, è riscosso per una durata pari ad doppio di quella del ritardo di affiliazione, al massimo però per cinque anni.[^8-1] Esso è compreso tra il 30 ed il 50 per cento del premio. L’assicuratore stabilisce il supplemento secondo la situazione finanziaria dell’assicurato. Se il pagamento del supplemento risulta oltremodo gravoso per l’assicurato, l’assicuratore stabilisce un tasso inferiore al 30 per cento, considerate equamente la situazione dell’assicurato e le circostanze del ritardo.
+<sup>1</sup> Il supplemento di premio in caso di affiliazione tardiva, previsto nell’articolo 5 capoverso 2 LAMal, è riscosso per una durata pari ad doppio di quella del ritardo di affiliazione, al massimo però per cinque anni.[^8-1] Esso è compreso tra il 30 ed il 50 per cento del premio. L’assicuratore stabilisce il supplemento secondo la situazione finanziaria dell’assicurato. Se il pagamento del supplemento risulta oltremodo gravoso per l’assicurato, l’assicuratore stabilisce un tasso inferiore al 30 per cento, considerate equamente la situazione dell’assicurato e le circostanze del ritardo.
 
 <sup>2</sup> Non è riscosso alcun supplemento se i premi sono assunti da un’autorità d’assistenza sociale.
 
-<sup>3</sup> Se l’assicurato cambia assicuratore, l’assicuratore precedente deve comunicare al nuovo assicuratore il supplemento di premio nell’ambito della comunicazione giusta l’articolo 7 capoverso 5 della legge. Il supplemento di premio stabilito dal primo assicuratore è vincolante anche per gli assicuratori successivi.[^8-2]
+<sup>3</sup> Se l’assicurato cambia assicuratore, l’assicuratore precedente deve comunicare al nuovo assicuratore il supplemento di premio nell’ambito della comunicazione giusta l’articolo 7 capoverso 5 LAMal. Il supplemento di premio stabilito dal primo assicuratore è vincolante anche per gli assicuratori successivi.[^8-2]
 
 [^8-1]: Nuovo testo giusta la cifra I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
 [^8-2]: Introdotto dalla cifra I dell’O del 9 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771)).
@@ -299,7 +300,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 <sup>2</sup> L’autorità cantonale competente decide delle domande di cui all’articolo 2 capoversi 3–5 e all’articolo 6 capoverso 3.[^10-3]
 
-<sup>3</sup> Gli assicuratori sociali preposti al pagamento delle rendite e gli organi dell’assicurazione contro la disoccupazione assistono i Cantoni nel compito d’informare circa l’obbligo d’assicurazione delle persone di cui all’articolo 6*a* capoverso 1 lettere b e c della legge.[^10-4]
+<sup>3</sup> Gli assicuratori sociali preposti al pagamento delle rendite e gli organi dell’assicurazione contro la disoccupazione assistono i Cantoni nel compito d’informare circa l’obbligo d’assicurazione delle persone di cui all’articolo 6*a* capoverso 1 lettere b e c LAMal.[^10-4]
 
 [^10-1]: Nuova espr. giusta la cifra I n. 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)). Di detta mod. é tenuto conto il tutto il testo.
 [^10-2]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
@@ -316,7 +317,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 **Sospensione dell’obbligo d’assicurazione**[^10a-1]
 
-<sup>1</sup> La sospensione dell’obbligo d’assicurazione di cui all’articolo 3 capoverso 4 della legge inizia il giorno in cui l’assicurato è soggetto alla LAM[^10a-2].
+<sup>1</sup> La sospensione dell’obbligo d’assicurazione di cui all’articolo 3 capoverso 4 LAMal inizia il giorno in cui l’assicurato è soggetto alla LAM[^10a-2].
 
 <sup>2</sup> L’assicurato è esonerato dal pagamento dei premi dall’inizio del suo assoggettamento all’assicurazione militare se ne informa il suo assicuratore almeno otto settimane in anticipo. Se non rispetta questo termine, l’assicuratore lo esonera dal prossimo termine che può prendere in considerazione, ma al più tardi otto settimane dopo l’annuncio.
 
@@ -337,7 +338,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 **Sospensione della copertura dell’infortunio[^11-1]**
 
-<sup>1</sup> La sospensione della copertura dell’infortunio prevista nell’articolo 8 della legge, effettuata a domanda scritta dell’assicurato, inizia al più presto il primo giorno del mese che segue questa domanda.
+<sup>1</sup> La sospensione della copertura dell’infortunio prevista nell’articolo 8 LAMal, effettuata a domanda scritta dell’assicurato, inizia al più presto il primo giorno del mese che segue questa domanda.
 
 <sup>2</sup> Prima della fine del rapporto di lavoro, della nascita del diritto all’indennità di disoccupazione o della copertura degli infortuni non professionali, il datore di lavoro oppure l’assicurazione contro la disoccupazione deve informare per scritto l’assicurato circa l’obbligo, per questo, di comunicare all’assicuratore-malattie da quando cessa la copertura dell’infortunio. L’assicurato deve fare detta comunicazione all’assicuratore-malattie nel mese che segue l’informazione del datore di lavoro o dell’assicurazione contro la disoccupazione.
 
@@ -373,18 +374,18 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 **Adempimento di obblighi internazionali**[^19-1]
 
-<sup>1</sup> All’istituzione comune compete l’esecuzione dei compiti di cui all’articolo 95*a* della legge in qualità di organo di collegamento. Essa svolge anche i compiti di assistenza reciproca al luogo di residenza o di dimora degli assicurati per i quali esiste un diritto, fondato sull’articolo 95*a* della legge, a un’assistenza reciproca internazionale in materia di prestazioni. L’istituzione comune è inoltre competente dell’esecuzione dell’assistenza reciproca in materia di prestazioni e dei compiti che le incombono, in qualità di organo di collegamento, in virtù di altri accordi internazionali.[^19-2]
+<sup>1</sup> All’istituzione comune compete l’esecuzione dei compiti di cui all’articolo 95*a* LAMal in qualità di organo di collegamento. Essa svolge anche i compiti di assistenza reciproca al luogo di residenza o di dimora degli assicurati per i quali esiste un diritto, fondato sull’articolo 95*a* LAMal, a un’assistenza reciproca internazionale in materia di prestazioni. L’istituzione comune è inoltre competente dell’esecuzione dell’assistenza reciproca in materia di prestazioni e dei compiti che le incombono, in qualità di organo di collegamento, in virtù di altri accordi internazionali.[^19-2]
 
 <sup>2</sup>
 
-L’istituzione comune assume inoltre compiti di coordinamento per l’adempimento degli obblighi derivanti dall’articolo 95*a* della legge o da convenzioni internazionali. Adempie segnatamente i compiti seguenti:[^19-3]
+L’istituzione comune assume inoltre compiti di coordinamento per l’adempimento degli obblighi derivanti dall’articolo 95*a* LAMal o da convenzioni internazionali. Adempie segnatamente i compiti seguenti:[^19-3]
 
 - a. stabilisce, in base alle statistiche dei costi riconosciuti dall’organo competente dell’Unione europea (Commissione amministrativa per il coordinamento dei sistemi di sicurezza sociale) o in base alle statistiche dello Stato considerato, le aliquote pro capite che gli assicuratori devono considerare per il calcolo dei premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito;
 - b.[^19-4] appronta entro il 31 maggio un rapporto all’attenzione dell’UFSP sull’esecuzione dell’assistenza reciproca in materia di prestazioni, evidenziando il numero di casi, i costi complessivi e i rimborsi arretrati; i dati vanno differenziati per ogni singolo Stato membro dell’Unione europea, per l’Islanda, per la Norvegia, per il Regno Unito e per ogni singolo assicuratore svizzero.[^19-5]
 
 <sup>3</sup> I costi inerenti l’esecuzione dei compiti che l’istituzione comune adempie in qualità di istituzione d’assistenza reciproca come pure quelli inerenti il rapporto di cui al capoverso 2 lettera b sono assunti dagli assicuratori proporzionalmente al numero di persone che assicurano a titolo obbligatorio per le cure medico-sanitarie. La Confederazione assume gli interessi maturati in seguito al prefinanziamento dell’assistenza reciproca in materia di prestazioni, i costi dei compiti che l’istituzione comune svolge in qualità di organo di collegamento, come pure i costi per i calcoli di cui al capoverso 2 lettera a.[^19-6]
 
-<sup>4</sup> Se, giusta l’articolo 42 capoverso 2 della legge, assicuratori e fornitori di prestazioni hanno stabilito per convenzione che l’assicuratore è il debitore della rimunerazione, l’istituzione comune è assimilata, nell’esecuzione dell’assistenza reciproca in materia di prestazioni, agli assicuratori convenzionati.
+<sup>4</sup> Se, giusta l’articolo 42 capoverso 2 LAMal, assicuratori e fornitori di prestazioni hanno stabilito per convenzione che l’assicuratore è il debitore della rimunerazione, l’istituzione comune è assimilata, nell’esecuzione dell’assistenza reciproca in materia di prestazioni, agli assicuratori convenzionati.
 
 [^19-1]: Nuovo testo giusta la cifra I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 [^19-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
@@ -423,9 +424,9 @@ L’istituzione comune assume inoltre compiti di coordinamento per l’adempimen
 
 **Contenzioso**[^22-1]
 
-<sup>1</sup> In caso di contestazione tra l’istituzione comune e un assicuratore è applicabile l’articolo 87 della legge. Sono fatti salvi il capoverso 3 e l’articolo 27 dell’ordinanza del 19 ottobre 2016[^22-2] sulla compensazione dei rischi nell’assicurazione malattie.[^22-3]
+<sup>1</sup> In caso di contestazione tra l’istituzione comune e un assicuratore è applicabile l’articolo 87 LAMal. Sono fatti salvi il capoverso 3 e l’articolo 27 dell’ordinanza del 19 ottobre 2016[^22-2] sulla compensazione dei rischi nell’assicurazione malattie.[^22-3]
 
-<sup>2</sup> In caso di contestazione tra l’istituzione comune e un fornitore di prestazioni è applicabile l’articolo 89 della legge.
+<sup>2</sup> In caso di contestazione tra l’istituzione comune e un fornitore di prestazioni è applicabile l’articolo 89 LAMal.
 
 <sup>3</sup>
 
@@ -499,7 +500,7 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 
 <sup>1</sup>
 
-Per adempiere i compiti di cui all’articolo 21 capoverso 2 lettere a–c LAMal, gli assicuratori comunicano regolarmente all’UFSP i seguenti dati di ogni assicurato:
+Per adempiere i compiti di cui all’articolo 21 capoverso 2 lettere a–e LAMal, gli assicuratori comunicano regolarmente all’UFSP i seguenti dati di ogni assicurato:[^28-2]
 
 - a.
 
@@ -507,7 +508,7 @@ Per adempiere i compiti di cui all’articolo 21 capoverso 2 lettere a–c LAMal
 
   - 1\. il codice di collegamento,
   - 2\. l’età, il sesso e il domicilio,
-  - 3\. il gruppo di rischio secondo l’articolo 11 dell’ordinanza del 19 ottobre 2016[^28-2] sulla compensazione dei rischi nell’assicurazione malattie (OCoR) e la ripartizione dell’assicurato in un gruppo di costo farmaceutico secondo l’articolo 12 OCoR;
+  - 3\. il gruppo di rischio secondo l’articolo 11 dell’ordinanza del 19 ottobre 2016[^28-3] sulla compensazione dei rischi nell’assicurazione malattie (OCoR) e la ripartizione dell’assicurato in un gruppo di costo farmaceutico secondo l’articolo 12 OCoR;
 
 - b.
 
@@ -545,7 +546,7 @@ In relazione a una rimunerazione secondo gli articoli 71*a*–71*c* gli assicura
 - e. la categoria di beneficio;
 - f. la decisione concernente la prestazione;
 - g. la data della decisione concernente la prestazione;
-- h. in caso di decisione positiva, l’importo della rimunerazione.[^28-3]
+- h. in caso di decisione positiva, l’importo della rimunerazione.[^28-4]
 
 <sup>2</sup> Gli assicuratori forniscono all’UFSP tutti i dati da comunicare, in forma aggregata o per ogni assicurato, in formato elettronico. In caso di adeguamento delle rilevazioni possono, su richiesta, esserne dispensati dall’UFSP per un periodo limitato se mancano i mezzi tecnici adeguati.
 
@@ -555,18 +556,20 @@ In relazione a una rimunerazione secondo gli articoli 71*a*–71*c* gli assicura
 
 <sup>5</sup> L’UFSP provvede affinché la fornitura dei dati provochi agli assicuratori il minore aggravio di lavoro possibile.
 
-<sup>6</sup> Per ridurre tale aggravio, l’UFSP può collegare i dati di cui al capoverso 1 con altre fonti di dati, laddove questo risulti necessario per adempiere i propri compiti di cui all’articolo 21 capoverso 2 lettere a–c LAMal. Per adempiere ulteriori compiti, può collegare i dati di cui al capoverso 1 con altre fonti di dati, soltanto se tali dati sono stati anonimizzati.
+<sup>6</sup> Per ridurre tale aggravio, l’UFSP può collegare i dati di cui al capoverso 1 con altre fonti di dati, laddove questo risulti necessario per adempiere i propri compiti di cui all’articolo 21 capoverso 2 lettere a–e LAMal. Per adempiere ulteriori compiti derivanti dalla LAMal, può collegare tali dati se l’anonimato degli assicurati è garantito ai sensi dell’articolo 21 capoverso 3 LAMal.[^28-5]
 
 <sup>7</sup> L’UFSP, consultati gli assicuratori, stabilisce direttive sulle misure di cui ai capoversi 1–4.
 
 <sup>8</sup> L’utilizzazione dei dati ai sensi dell’articolo 21 capoverso 3 LAMal comprende qualsiasi forma di trattamento degli stessi in virtù del diritto in materia di protezione dei dati della Confederazione, compresa la loro comunicazione.
 
-<sup>9</sup> L’UFSP mette a disposizione degli organismi preposti all’esecuzione della LAMal i risultati delle rilevazioni effettuate con i dati di cui al capoverso 2; sono fatti salvi i risultati delle rilevazioni effettuate con i dati di cui al capoverso 1<sup>bis</sup>. L’UFSP assicura che l’anonimato degli assicurati resti garantito.[^28-4]
+<sup>9</sup> L’UFSP mette a disposizione degli organismi preposti all’esecuzione della LAMal i risultati delle rilevazioni effettuate con i dati di cui al capoverso 2; sono fatti salvi i risultati delle rilevazioni effettuate con i dati di cui al capoverso 1<sup>bis</sup>. L’UFSP assicura che l’anonimato degli assicurati resti garantito.[^28-6]
 
 [^28-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28-2]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
-[^28-3]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^28-4]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^28-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+[^28-3]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
+[^28-4]: Introdotto dalla cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^28-5]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+[^28-6]: Nuovo testo giusta la cifra I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2026 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 
 #### Art. 28a
 
@@ -610,7 +613,7 @@ L’UFSP pubblica per assicuratore segnatamente i seguenti dati relativi all’a
 
 <sup>1</sup> Chiunque, per un’utilizzazione particolare, necessita oltre ai dati pubblicati secondo l’articolo 28*b* anche di ulteriori dati o di dati in un’altra forma può farne domanda all’UFSP.
 
-<sup>2</sup> L’UFSP esamina la domanda tenendo conto del diritto in materia di protezione dei dati. Effettua una verifica individuale e materiale di ciascun caso e decide, in particolare nell’ottica del rischio di reidentificazione dell’assicurato, se i dati possono essere trasmessi. Se tale rischio sussiste, esamina quali dati per ogni assicurato o in forma aggregata possono essere trasmessi e con quale grado di dettaglio. Assicura il rispetto del segreto d’ufficio e può subordinare la trasmissione dei dati alla conclusione di un contratto sulla protezione dei dati.
+<sup>2</sup> L’UFSP esamina la domanda tenendo conto del diritto in materia di protezione dei dati. Effettua una verifica individuale e materiale di ciascun caso e decide, in particolare nell’ottica del rischio di reidentificazione dell’assicurato, se i dati possono essere trasmessi. Se tale rischio sussiste, esamina quali dati per ogni assicurato o in forma aggregata possono essere trasmessi e con quale grado di dettaglio. Assicura il rispetto del segreto commerciale e può subordinare la trasmissione dei dati alla conclusione di un contratto sulla protezione dei dati.[^28c-2]
 
 <sup>3</sup> Dopo una verifica individuale e materiale di ciascun caso, l’UFSP può mettere regolarmente a disposizione degli organismi preposti all’esecuzione della LAMal i dati rilevati di cui all’articolo 28 capoverso 1, se garantisce che l’anonimato degli assicurati resti garantito e i dati siano necessari per l’adempimento dei propri compiti secondo la LAMal. Può subordinare la trasmissione dei dati alla conclusione di un contratto sulla protezione dei dati.
 
@@ -618,10 +621,11 @@ L’UFSP pubblica per assicuratore segnatamente i seguenti dati relativi all’a
 
 <sup>5</sup> Trasmette i dati secondo le proprie possibilità tecniche, organizzative e personali.
 
-<sup>6</sup> Per il trattamento della domanda può riscuotere una tassa. Essa è commisurata al tempo impiegato, ma non può superare i 10 000 franchi. La tariffa oraria oscilla tra 90 e 200 franchi a seconda della competenza specifica richiesta e della classe di funzione del personale incaricato. Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^28c-2] sugli emolumenti.
+<sup>6</sup> Per il trattamento della domanda può riscuotere una tassa. Essa è commisurata al tempo impiegato, ma non può superare i 10 000 franchi. La tariffa oraria oscilla tra 90 e 200 franchi a seconda della competenza specifica richiesta e della classe di funzione del personale incaricato. Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^28c-3] sugli emolumenti.
 
 [^28c-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^28c-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+[^28c-3]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 29
 
@@ -788,9 +792,9 @@ Se la conservazione, la cancellazione e la distruzione dei dati non sono altrime
 
 **Analisi degli effetti**
 
-<sup>1</sup> L’UFSP, in collaborazione con gli assicuratori, i fornitori di prestazioni, i Cantoni e rappresentanti del campo scientifico, procede a studi scientifici sull’esecuzione e gli effetti della legge.
+<sup>1</sup> L’UFSP, in collaborazione con gli assicuratori, i fornitori di prestazioni, i Cantoni e rappresentanti del campo scientifico, procede a studi scientifici sull’esecuzione e gli effetti della LAMal.
 
-<sup>2</sup> Questi studi hanno per tema l’esame dell’influsso della legge sulla situazione e il comportamento degli assicurati, dei fornitori di prestazioni e degli assicuratori. Servono segnatamente a esaminare se la qualità e l’economicità delle cure di base sono garantite e se gli obiettivi di politica sociale e di concorrenza sono stati raggiunti.
+<sup>2</sup> Questi studi hanno per tema l’esame dell’influsso della LAMal sulla situazione e il comportamento degli assicurati, dei fornitori di prestazioni e degli assicuratori. Servono segnatamente a esaminare se la qualità e l’economicità delle cure di base sono garantite e se gli obiettivi di politica sociale e di concorrenza sono stati raggiunti.
 
 <sup>3</sup> Per l’attuazione di questi studi, l’UFSP può ricorrere a istituti scientifici e nominare gruppi di periti.
 
@@ -805,14 +809,14 @@ Se la conservazione, la cancellazione e la distruzione dei dati non sono altrime
 Sentita la commissione competente, il Dipartimento federale dell’interno (DFI) designa:[^33-1]
 
 - a. le prestazioni dispensate dai medici o dai chiropratici i cui costi non sono assunti dall’assicurazione obbligatoria delle cure medico-sanitarie o sono assunti solo a determinate condizioni;
-- b.[^33-2] le prestazioni di cui agli articoli 25 capoverso 2 e 25*a* capoversi 1 e 2 della legge, non dispensate dai medici o dai chiropratici;
+- b.[^33-2] le prestazioni di cui agli articoli 25 capoverso 2 e 25*a* capoversi 1 e 2 LAMal, non dispensate dai medici o dai chiropratici;
 - c. le prestazioni, nuove o contestate, la cui efficacia, idoneità ed economicità sono ancora in fase di valutazione; stabilisce le condizioni e l’entità della rimunerazione a carico dell’assicurazione obbligatoria delle cure medico-sanitarie;
-- d. le misure di prevenzione di cui all’articolo 26 della legge, le prestazioni di maternità di cui all’articolo 29 capoverso 2 lettere a e c della legge e le cure dentarie di cui all’articolo 31 capoverso 1 della legge;
-- e. i mezzi e gli apparecchi di cui all’articolo 52 capoverso 1 lettera a numero 3 della legge a carico dell’assicurazione obbligatoria delle cure medico-sanitarie; stabilisce gli importi massimi della corrispettiva rimunerazione;
-- f. il contributo alle spese di cura balneare di cui all’articolo 25 capoverso 2 lettera c della legge; questo contributo serve a coprire le spese non coperte da altre prestazioni dell’assicurazione obbligatoria delle cure medico-sanitarie; può essere accordato al massimo durante 21 giorni per anno civile;
-- g. il contributo alle spese di trasporto e di salvataggio di cui all’articolo 25 capoverso 2 lettera g della legge; i trasporti da un ospedale a un altro, necessari dal profilo medico, fanno parte del trattamento ospedaliero;
+- d. le misure di prevenzione di cui all’articolo 26 LAMal, le prestazioni di maternità di cui all’articolo 29 capoverso 2 lettere a e c LAMal e le cure dentarie di cui all’articolo 31 capoverso 1 LAMal;
+- e. i mezzi e gli apparecchi di cui all’articolo 52 capoverso 1 lettera a numero 3 LAMal a carico dell’assicurazione obbligatoria delle cure medico-sanitarie; stabilisce gli importi massimi della corrispettiva rimunerazione;
+- f. il contributo alle spese di cura balneare di cui all’articolo 25 capoverso 2 lettera c LAMal; questo contributo serve a coprire le spese non coperte da altre prestazioni dell’assicurazione obbligatoria delle cure medico-sanitarie; può essere accordato al massimo durante 21 giorni per anno civile;
+- g. il contributo alle spese di trasporto e di salvataggio di cui all’articolo 25 capoverso 2 lettera g LAMal; i trasporti da un ospedale a un altro, necessari dal profilo medico, fanno parte del trattamento ospedaliero;
 - h.[^33-3] la procedura di valutazione dei bisogni di cure;
-- i.[^33-4] il contributo alle cure previsto dall’articolo 25*a* capoversi 1 e 4 della legge, differenziato in funzione del bisogno di cure.
+- i.[^33-4] il contributo alle cure previsto dall’articolo 25*a* capoversi 1 e 4 LAMal, differenziato in funzione del bisogno di cure.
 
 [^33-1]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^33-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra II n. 2).
@@ -823,13 +827,13 @@ Sentita la commissione competente, il Dipartimento federale dell’interno (DFI)
 
 **Analisi e medicamenti**
 
-Gli elenchi designati nell’articolo 52 capoverso 1 lettera a numeri 1 (elenco delle analisi) e 2 (elenco dei medicamenti) e lettera b (elenco delle specialità) della legge sono approntati sentita la commissione competente.
+Gli elenchi designati nell’articolo 52 capoverso 1 lettera a numeri 1 (elenco delle analisi) e 2 (elenco dei medicamenti) e lettera b (elenco delle specialità) LAMal sono approntati sentita la commissione competente.
 
 #### Art. 35
 
 **Infermità congenite**[^35-1]
 
-Il DFI provvede affinché i provvedimenti sanitari dispensati dall’assicurazione per l’invalidità in caso d’infermità congenite fino al raggiungimento del limite d’età legale siano presi a carico dall’assicurazione obbligatoria delle cure medico-sanitarie secondo le condizioni di cui agli articoli 32–34 e 43–52*a* della legge.
+Il DFI provvede affinché i provvedimenti sanitari dispensati dall’assicurazione per l’invalidità in caso d’infermità congenite fino al raggiungimento del limite d’età legale siano presi a carico dall’assicurazione obbligatoria delle cure medico-sanitarie secondo le condizioni di cui agli articoli 32–34 e 43–52*a* LAMal.
 
 [^35-1]: Nuovo testo giusta l’all. n. 4 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
@@ -851,11 +855,11 @@ La valutazione dell’efficacia, dell’appropriatezza e dell’economicità del
 
 **Prestazioni all’estero**
 
-<sup>1</sup> Sentita la competente commissione, il DFI designa le prestazioni di cui agli articoli 25 capoverso 2 e 29 della legge, i cui costi sono a carico dell’assicurazione obbligatoria delle cure medico-sanitarie se le stesse non possono essere effettuate in Svizzera.
+<sup>1</sup> Sentita la competente commissione, il DFI designa le prestazioni di cui agli articoli 25 capoverso 2 e 29 LAMal, i cui costi sono a carico dell’assicurazione obbligatoria delle cure medico-sanitarie se le stesse non possono essere effettuate in Svizzera.
 
 <sup>2</sup> L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi dei trattamenti effettuati all’estero in caso d’urgenza. Esiste urgenza se l’assicurato che soggiorna temporaneamente all’estero necessita di un trattamento medico e se il rientro in Svizzera è inappropriato. Non esiste urgenza se l’assicurato si reca all’estero allo scopo di seguire questo trattamento.
 
-<sup>3</sup> L’assicurazione obbligatoria delle cure medico-sanitarie assume, nei limiti dell’articolo 29 della legge, i costi del parto effettuato all’estero se questo costituisce la sola possibilità di procurare al figlio la nazionalità della madre o del padre oppure nel caso in cui il figlio, se nascesse in Svizzera, risulterebbe apolide.
+<sup>3</sup> L’assicurazione obbligatoria delle cure medico-sanitarie assume, nei limiti dell’articolo 29 LAMal, i costi del parto effettuato all’estero se questo costituisce la sola possibilità di procurare al figlio la nazionalità della madre o del padre oppure nel caso in cui il figlio, se nascesse in Svizzera, risulterebbe apolide.
 
 <sup>4</sup> Le prestazioni di cui ai capoversi 1 e 2 e i trattamenti dispensati all’estero ai frontalieri, ai lavoratori distaccati all’estero e alle persone al servizio di una collettività pubblica, come pure ai loro familiari (art. 3 a 5), sono assunti al massimo fino a un importo pari al doppio del corrispettivo rimborso in Svizzera e, nei casi di cui al capoverso 3, per un importo pari a quello in Svizzera. Per gli assicurati di cui agli articoli 4 e 5, la rimunerazione è effettuata in base alle tariffe e ai prezzi valevoli nel loro ultimo luogo di domicilio in Svizzera. Se ad assicurati ai sensi dell’articolo 1 capoverso 2 lettere d–e<sup>bis</sup> vengono dispensate cure difformemente dalle regole dell’assistenza reciproca internazionale in materia di prestazioni, i costi vengono assunti secondo le tariffe ed i prezzi praticati nel loro ultimo luogo di residenza o di lavoro; non potendosi determinare alcuno di questi luoghi, i costi saranno assunti secondo le tariffe ed i prezzi del Cantone di domicilio dell’assicuratore.[^36-1]
 
@@ -879,7 +883,7 @@ Il programma deve adempiere le esigenze seguenti:
 - a. possono beneficiarne le persone affiliate all’assicurazione obbligatoria delle cure medico-sanitarie presso assicuratori che partecipano alla cooperazione transfrontaliera le quali risiedono in un Cantone di frontiera che partecipa a tale cooperazione;
 - b. prevede che gli assicurati non possano essere obbligati a farsi curare all’estero;
 - c. definisce le prestazioni fornite all’estero i cui costi sono assunti dall’assicurazione obbligatoria delle cure medico-sanitarie; le prestazioni devono adempiere le condizioni legali;
-- d. contiene la lista dei fornitori di prestazioni esteri ammessi a praticare nell’ambito della cooperazione transfrontaliera; questi fornitori di prestazioni devono rispettare esigenze simili a quelle della legge;
+- d. contiene la lista dei fornitori di prestazioni esteri ammessi a praticare nell’ambito della cooperazione transfrontaliera; questi fornitori di prestazioni devono rispettare esigenze simili a quelle della LAMal;
 - e. prevede che le tariffe e i prezzi delle prestazioni fornite all’estero siano convenuti tra gli assicuratori e i fornitori di prestazioni esteri; non possono essere superiori a quelli applicabili nel Cantone di frontiera che partecipa al programma e devono adempiere le esigenze fissate dagli articoli 43, 49 e 52 LAMal;
 - f. prevede che i fornitori di prestazioni esteri devono attenersi alle tariffe e ai prezzi convenuti e non possano esigere rimunerazioni più elevate per le prestazioni di cui alla lettera c.
 
@@ -913,7 +917,7 @@ Se le persone che risiedono in uno Stato membro dell’Unione europea, in Island
 
 **Commissioni consultive**[^37a-1]
 
-Le commissioni consultive ai sensi dell’articolo 33 capoverso 4 della legge sono:
+Le commissioni consultive ai sensi dell’articolo 33 capoverso 4 LAMal sono:
 
 - a. la Commissione federale delle prestazioni generali e delle questioni fondamentali (Commissione delle prestazioni e delle questioni fondamentali);
 - b. la Commissione federale delle analisi, dei mezzi e degli apparecchi (Commissione delle analisi, dei mezzi e degli apparecchi);
@@ -963,7 +967,7 @@ La Commissione federale delle prestazioni generali e delle questioni fondamental
 
 - a. definizione di principi nel campo delle prestazioni, esame ed elaborazione di proposte di disposizioni d’ordinanza sui principi da osservare nel campo delle prestazioni;
 - b. determinazione di principi per garantire la protezione dei dati e degli interessi degli assicurati nell’ambito della designazione delle prestazioni nell’assicurazione malattie;
-- c. elaborazione di criteri per la valutazione delle prestazioni secondo l’articolo 33 capoverso 3 della legge e l’articolo 70.
+- c. elaborazione di criteri per la valutazione delle prestazioni secondo l’articolo 33 capoverso 3 LAMal e l’articolo 70.
 
 <sup>3</sup>
 
@@ -1689,7 +1693,7 @@ Le imprese di trasporto e di salvataggio sono autorizzate se adempiono le seguen
 
 **Principio**
 
-<sup>1</sup> La pianificazione intesa a coprire il fabbisogno ai sensi dell’articolo 39 capoverso 1 lettera d della legge garantisce le cure ospedaliere in ospedale o in una casa per partorienti e le cure in una casa di cura agli abitanti dei Cantoni che effettuano la pianificazione.
+<sup>1</sup> La pianificazione intesa a coprire il fabbisogno ai sensi dell’articolo 39 capoverso 1 lettera d LAMal garantisce le cure ospedaliere in ospedale o in una casa per partorienti e le cure in una casa di cura agli abitanti dei Cantoni che effettuano la pianificazione.
 
 <sup>2</sup> È verificata periodicamente.[^58a-1]
 
@@ -1830,7 +1834,7 @@ I fornitori di prestazioni devono adempiere i seguenti requisiti di qualità:
 
 <sup>1</sup>
 
-I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazioni amministrative e mediche necessarie alla verifica del calcolo della rimunerazione e dell’economicità delle prestazioni conformemente all’articolo 42 capoverso 3 e 3<sup>bis</sup> della legge. Devono fornire in particolare le indicazioni seguenti:
+I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazioni amministrative e mediche necessarie alla verifica del calcolo della rimunerazione e dell’economicità delle prestazioni conformemente all’articolo 42 capoverso 3 e 3<sup>bis</sup> LAMal. Devono fornire in particolare le indicazioni seguenti:
 
 - a. le date delle cure;
 - b. le prestazioni dispensate, dettagliate secondo la tariffa determinante;
@@ -1865,7 +1869,7 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>4</sup> Il servizio di ricezione dei dati determina per quali fatture è necessario un esame più approfondito e trasmette all’assicuratore le indicazioni necessarie a questo scopo. L’assicuratore non può impartire al servizio di ricezione dei dati istruzioni concernenti la trasmissione dei dati in relazione a singole fatture.
 
-<sup>5</sup> Se nel corso dell’esame l’assicuratore esige dal fornitore di prestazioni ragguagli supplementari di natura medica ai sensi dell’articolo 42 capoverso 4 della legge, l’assicuratore deve informare la persona assicurata riguardo alla possibilità di scelta di cui dispone ai sensi dell’articolo 42 capoverso 5 della legge.
+<sup>5</sup> Se nel corso dell’esame l’assicuratore esige dal fornitore di prestazioni ragguagli supplementari di natura medica ai sensi dell’articolo 42 capoverso 4 LAMal, l’assicuratore deve informare la persona assicurata riguardo alla possibilità di scelta di cui dispone ai sensi dell’articolo 42 capoverso 5 LAMal.
 
 <sup>6</sup> Ogni assicuratore deve disporre di un servizio di ricezione dei dati. Quest’ultimo deve essere certificato ai sensi dell’articolo 13 della legge federale del 25 settembre 2020[^59a-4] sulla protezione dei dati (LPD).[^59a-5]
 
@@ -1900,16 +1904,15 @@ Per il settore ambulatoriale il DFI emana disposizioni d’esecuzione sulla rile
 
 ### Capitolo 3: Tariffe e prezzi
 
-[^part1-tit4-chap3-1][^part1-tit4-chap3-2]
+[^part1-tit4-chap3-1]
 
-[^part1-tit4-chap3-1]: Originario avanti art. 59*a.* Introdotto dalla cifra I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^part1-tit4-chap3-2]: [RU 1997 2440](https://fedlex.data.admin.ch/eli/oc/1997/2440_2440_2440)
+[^part1-tit4-chap3-1]: Originario avanti art. 59*a.* Nuovo testo giusta la cifra I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
-### Sezione 1: Principi
+### Sezione 1: Tariffazione e contributo per ogni caso
 
 [^part1-tit4-chap3-sec1-1]
 
-[^part1-tit4-chap3-sec1-1]: Originario avanti art. 59*a.* Introdotto dalla cifra I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^part1-tit4-chap3-sec1-1]: Originario avanti art. 59*a.* Introdotto dalla cifra I dell’O del 17 set. 1997 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 59b
 
@@ -1919,53 +1922,108 @@ Per il settore ambulatoriale il DFI emana disposizioni d’esecuzione sulla rile
 
 #### Art. 59c
 
-**Tariffazione**[^59c-1]
+**Principi applicabili alle convenzioni tariffali**[^59c-1]
 
 <sup>1</sup>
 
-L’autorità che approva ai sensi dell’articolo 46 capoverso 4 della legge verifica che la convenzione tariffaria rispetti segnatamente i principi seguenti:
+Le convenzioni tariffali devono rispettare segnatamente i seguenti principi:
 
-- a. la tariffa copre al massimo i costi della prestazione comprovati in modo trasparente;
-- b. la tariffa copre al massimo i costi necessari per la fornitura efficiente delle prestazioni;
+- a. la loro tariffa deve coprire al massimo i costi della prestazione comprovati in modo trasparente;
+- b. la loro tariffa deve coprire al massimo i costi necessari per la fornitura efficiente delle prestazioni;
 - c. un cambiamento del modello tariffale non deve comportare costi supplementari.
 
-<sup>2</sup> Le parti contraenti devono verificare regolarmente le tariffe e adeguarle se il rispetto dei principi enunciati nel capoverso 1 lettere a e b non è più garantito. Le autorità competenti devono essere informate dei risultati di dette verifiche.
+<sup>2</sup>
 
-<sup>3</sup> L’autorità competente applica per analogia i capoversi 1 e 2 all’atto di stabilire le tariffe previste negli articoli 43 capoverso 5, 47 o 48 della legge.
+Le convenzioni tariffali contenenti una struttura tariffale devono inoltre rispettare i seguenti principi:
 
-[^59c-1]: Introdotto dalla cifra I dell’O del 27 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+- a. essere concluse da parti che rappresentino i fornitori di prestazioni e gli assicuratori interessati;
+- b. basarsi su un modello tariffale coerente e su criteri economici;
+- c. fondarsi su dati rappresentativi per i fornitori di prestazioni tenuti ad applicare le strutture tariffali.
+
+<sup>3</sup> Le modalità di applicazione delle strutture tariffali devono essere parte integrante delle convenzioni tariffali.
+
+[^59c-1]: Introdotto dalla cifra I dell’O del 27 giu. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+
+#### Art. 59c<sup>bis</sup>
+
+**Principi applicabili agli importi forfettari riferiti alle prestazioni nel settore ospedaliero**[^59cbis-1]
+
+Il legame con la prestazione secondo l’articolo 49 capoverso 1 LAMal deve essere stabilito in modo da differenziare la tariffa secondo il tipo e l’intensità della prestazione.
+
+[^59cbis-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+
+#### Art. 59c<sup>ter</sup>
+
+**Contenuto della richiesta di approvazione di una convenzione tariffale**[^59cter-1]
+
+<sup>1</sup>
+
+Quando l’approvazione della convenzione tariffale compete al Consiglio federale in virtù degli articoli 43 capoverso 5, 46 capoverso 4, 47*a* capoverso 7 o 49 capoverso 2 LAMal, la richiesta di approvazione deve essere firmata da tutte le parti contraenti e contenere segnatamente i documenti e i punti seguenti:
+
+- a. un esemplare della convenzione tariffale firmata da tutte le parti contraenti;
+- b. le spiegazioni sulla convenzione tariffale trasmessa, che specifichino in particolare in che misura tale convenzione è conforme ai principi di cui agli articoli 43 LAMal nonché 59c e 59c<sup>bis</sup>;
+- c. le basi e il metodo di calcolo della tariffa;
+- d. la stima degli effetti dell’applicazione della tariffa sul volume delle prestazioni e sui costi;
+- e. una descrizione dettagliata del sistema di sorveglianza che deve essere predisposto secondo l’articolo 47c LAMal;
+- f. le lettere indirizzate, se del caso, alle organizzazioni che rappresentano gli interessi degli assicurati a livello cantonale o federale e i loro pareri ai sensi dell’articolo 43 capoverso 4 LAMal.
+
+<sup>2</sup> Per gli importi forfettari riferiti alle prestazioni che rimunerano cure ospedaliere, la stima di cui al capoverso 1 lettera d deve comprendere i costi per tutti i settori secondo l’articolo 49 capoverso 1 LAMal, inclusi i settori interessati prima e dopo il ricovero.
+
+<sup>3</sup> Nel caso di un modello di rimunerazione riferito alle prestazioni basato su un sistema di classificazione dei pazienti di tipo DRG, la convenzione tariffale deve includere anche il relativo manuale di codificazione e un regolamento per la revisione della codificazione.
+
+<sup>4</sup> Quando l’approvazione della convenzione tariffale compete al Cantone in virtù dell’articolo 46 capoverso 4 LAMal, il capoverso 1 si applica per analogia.
+
+[^59cter-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+
+#### Art. 59c<sup>quater</sup>
+
+**Compiti dell’autorità competente**[^59cquater-1]
+
+<sup>1</sup> L’autorità che approva in virtù dell’articolo 46 capoverso 4 LAMal verifica che la convenzione tariffale rispetti i principi di cui agli articoli 43 LAMal e 59*c* capoverso 1. Quando l’approvazione compete al Consiglio federale, quest’ultimo verifica inoltre che la convenzione rispetti i principi di cui agli articoli 59*c* capoversi 2 e 3 e 59*c*<sup>bis</sup>.
+
+<sup>2</sup> Se le tariffe sono fissate dall’autorità competente, quest’ultima applica per analogia i principi di cui agli articoli 43 LAMal e 59*c* capoverso 1. Se la fissazione di una struttura tariffale compete al Consiglio federale, quest’ultimo applica inoltre per analogia i principi di cui agli articoli 59*c* capoversi 2 e 3 e 59*c*<sup>bis</sup>.
+
+[^59cquater-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 59d
 
-**Importi forfettari riferiti alle prestazioni**[^59d-1]
+**Obbligo di verifica delle tariffe**[^59d-1]
 
-<sup>1</sup>
+<sup>1</sup> I partner tariffali e le organizzazioni di cui agli articoli 47*a* capoversi 1 e 2 e 49 capoverso 2 LAMal devono verificare regolarmente, ma al più tardi cinque anni dopo l’ultima approvazione della convenzione tariffale o l’ultima verifica completa, che le tariffe continuino a rispettare i principi enunciati agli articoli 43 LAMal nonché 59*c* e 59*c*<sup>bis</sup>, nella misura in cui tali principi siano applicabili.
 
-Le parti contraenti sottopongono la convenzione tariffale all’approvazione del Consiglio federale conformemente agli articoli 46 capoverso 4 e 49 capoverso 2 della legge. La convenzione tariffale include la struttura tariffale uniforme e le modalità di applicazione della tariffa. Alla richiesta di approvazione vanno allegati, in particolare, i seguenti documenti:
+<sup>2</sup> I partner tariffali informano le autorità competenti del risultato della verifica e presentano, su richiesta, i documenti di cui all’articolo 59*c*<sup>ter</sup>.
 
-- a. le basi e il metodo di calcolo;
-- b. gli strumenti e i meccanismi volti a garantire la qualità delle prestazioni nel quadro dell’applicazione della tariffa;
-- c. le stime sugli effetti dell’applicazione della tariffa sul volume delle prestazioni e sui costi per tutti i settori di cui all’articolo 49 capoverso 1 della legge, inclusi i settori interessati prima e dopo il ricovero.
+[^59d-1]: Introdotto dalla cifra I dell’O del 22 ott. 2008 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1 ° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
-<sup>2</sup> Se è scelto un modello di rimunerazione riferito alle prestazioni basato su un sistema di classificazione dei pazienti di tipo DRG (*diagnosis related groups*), la convenzione tariffale include anche il relativo manuale di codificazione e un piano per la revisione della codificazione. Alla richiesta di approvazione vanno allegati ulteriori documenti relativi ai requisiti necessari affinché gli ospedali possano essere presi in considerazione nell’elaborazione della struttura tariffale.
+#### Art. 59d<sup>bis</sup>
 
-<sup>3</sup> Le parti contraenti sottopongono per approvazione al Consiglio federale le modifiche alla convenzione tariffale, segnatamente alla struttura tariffale o alle modalità di applicazione.
+**Adeguamento delle convenzioni tariffali**[^59dbis-1]
 
-<sup>4</sup> Il legame che deve essere stabilito con la prestazione ai sensi dell’articolo 49 capoverso 1 della legge deve permettere una differenziazione della tariffa secondo il tipo e l’intensità della prestazione.
+<sup>1</sup> I partner tariffali e le organizzazioni secondo gli articoli 47*a* capoversi 1 e 2 e 49 capoverso 2 LAMal procedono agli adeguamenti necessari delle convenzioni tariffali.
 
-[^59d-1]: Introdotto dalla cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+<sup>2</sup> I partner tariffali sottopongono le convenzioni tariffali adeguate all’approvazione dell’autorità competente.
+
+<sup>3</sup> L’approvazione di convenzioni tariffali con adeguamenti minimi non comporta un nuovo termine di verifica secondo l’articolo 59*d*, eccetto se tali adeguamenti risultano da una verifica completa delle suddette convenzioni.
+
+[^59dbis-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 59e
 
 **Contributo per ogni caso**[^59e-1]
 
-<sup>1</sup> In caso di riscossione di un contributo per ogni caso ai sensi dell’articolo 49 capoverso 2 della legge, i partner tariffali sottopongono all’approvazione del Consiglio federale il relativo importo. Alla richiesta vanno allegati un rapporto di attività dell’organizzazione e un preventivo che giustifichino l’importo proposto.
+<sup>1</sup> In caso di riscossione di un contributo per ogni caso ai sensi dell’articolo 49 capoverso 2 LAMal, i partner tariffali sottopongono all’approvazione del Consiglio federale il relativo importo. Alla richiesta vanno allegati un rapporto di attività dell’organizzazione e un preventivo che giustifichino l’importo proposto.
 
 <sup>2</sup> In caso di aumento del contributo per ogni caso, i partner tariffali sottopongono il nuovo importo all’approvazione del Consiglio federale.
 
-<sup>3</sup> Per la ripartizione del finanziamento del contributo per ogni caso è applicabile per analogia l’articolo 49*a* capoversi 1 e 2 della legge.
+<sup>3</sup> Per la ripartizione del finanziamento del contributo per ogni caso è applicabile per analogia l’articolo 49*a* capoversi 1 e 2 LAMal.
 
 [^59e-1]: Introdotto dalla cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+
+### Sezione 1*a*: Comunicazione dei dati
+
+[^part1-tit4-chap3-sec1a-1]
+
+[^part1-tit4-chap3-sec1a-1]: Introdotta dalla cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 59f
 
@@ -2079,8 +2137,8 @@ L’elenco delle analisi (art. 52 cpv. 1 lett. a n. 1 LAMal) è diffuso di regol
 Il DFI designa le analisi che:
 
 - a. possono essere eseguite nell’ambito delle cure di base dai laboratori di cui all’articolo 54 capoverso 1;
-- b. possono essere prescritte dai chiropratici conformemente all’articolo 25 capoverso 2 lettera b della legge;
-- c. possono essere prescritte dalle levatrici conformemente all’articolo 29 capoverso 2 lettera a della legge.
+- b. possono essere prescritte dai chiropratici conformemente all’articolo 25 capoverso 2 lettera b LAMal;
+- c. possono essere prescritte dalle levatrici conformemente all’articolo 29 capoverso 2 lettera a LAMal.
 
 <sup>2</sup> ...[^62-2]
 
@@ -2863,6 +2921,102 @@ Sentite le commissioni competenti, il DFI emana prescrizioni di dettaglio concer
 
 [^75-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 
+### Capitolo 3*a*: Misure di contenimento dei costi
+
+[^part1-tit4-chap3a-1]
+
+[^part1-tit4-chap3a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
+
+### Sezione 1: Obiettivi in materia di costi
+
+#### Art. 75a
+
+**Obiettivi globali**
+
+<sup>1</sup> Il Consiglio federale e i Cantoni definiscono gli obiettivi in materia di costi di cui agli articoli 54 e 54*a* LAMal per la totalità dei costi generati dalle prestazioni.
+
+<sup>2</sup> Si basano sui costi necessari per coprire le necessità mediche tramite cure appropriate e di alto livello qualitativo, a costi il più possibile convenienti.
+
+<sup>3</sup>
+
+Tengono conto segnatamente dei seguenti fattori:
+
+- a. l’evoluzione della demografia e della morbilità;
+- b. i progressi tecnologici in medicina;
+- c. l’evoluzione della situazione economica, dei salari e dei prezzi;
+- d. le possibilità di guadagni di efficienza.
+
+<sup>4</sup> Il Consiglio federale coordina gli obiettivi in materia di costi con gli obiettivi di qualità secondo l’articolo 58 LAMal.
+
+#### Art. 75b
+
+**Obiettivi per i gruppi di costo**
+
+<sup>1</sup>
+
+Oltre a quelli previsti all’articolo 75*a*, il Consiglio federale definisce obiettivi in materia di costi segnatamente per i seguenti gruppi di costo:
+
+- a. cure stazionarie*;*
+- b. cure ambulatoriali in ospedale;
+- c. cure ambulatoriali dispensate da medici al di fuori degli ospedali;
+- d. medicamenti;
+- e. cure dispensate in una casa di cura o a domicilio.
+
+<sup>2</sup> L’articolo 75*a* capoversi 2–4 si applica anche agli obiettivi in materia di costi per i gruppi di costo di cui al capoverso 1.
+
+### Sezione 2: Commissione federale per il monitoraggio dei costi e della qualità nell’assicurazione obbligatoria delle cure medico-sanitarie
+
+#### Art. 75c
+
+**Membri**
+
+<sup>1</sup> Il Consiglio federale nomina la presidenza e gli altri membri della Commissione federale per il monitoraggio dei costi e della qualità nell’assicurazione obbligatoria delle cure medico-sanitarie.
+
+<sup>2</sup>
+
+La commissione è composta di nove membri, di cui:
+
+- a. due persone rappresentano i fornitori di prestazioni;
+- b. una persona rappresenta i Cantoni;
+- c. una persona rappresenta gli assicuratori;
+- d. una persona rappresenta gli assicurati;
+- e. una persona rappresenta la Commissione federale per la qualità (art. 77*a*);
+- f. tre persone rappresentano il campo scientifico.
+
+<sup>3</sup> I membri devono disporre di elevate competenze in materia di costi delle prestazioni, di conoscenze approfondite nella gestione dei costi nonché di solide conoscenze del sistema sanitario e delle assicurazioni sociali svizzero.
+
+#### Art. 75d
+
+**Compiti e competenze**
+
+<sup>1</sup> La commissione presta consulenza riguardo all’evoluzione dei costi e alle misure da adottare per contenerli.
+
+<sup>2</sup>
+
+È incaricata segnatamente dei seguenti compiti:
+
+- a. istituire una vigilanza sistematica e continua sui costi;
+- b. vigilare sull’evoluzione nei settori di prestazioni basandosi sui gruppi di costo di cui all’articolo 75*b*;
+- c. elaborare raccomandazioni all’attenzione della Confederazione e dei partner tariffali sulla base della vigilanza sui costi.
+
+<sup>3</sup> Per adempiere i compiti di cui al capoverso 2, la commissione utilizza le basi di dati del settore sanitario, in particolare quelle gestite dall’UFSP, dall’UST e dalla Commissione federale per la qualità.
+
+#### Art. 75e
+
+**Organizzazione**
+
+<sup>1</sup> La commissione definisce la sua organizzazione e le sue modalità di funzionamento in un regolamento, sottoposto all’approvazione del DFI.
+
+<sup>2</sup> L’UFSP assume la segreteria della commissione.
+
+#### Art. 75f
+
+**Coordinamento con la Commissione federale per la qualità**
+
+<sup>1</sup> Per sorvegliare la qualità, la commissione si basa sui lavori della Commissione federale per la qualità.
+
+<sup>2</sup> Coordina i suoi lavori con quelli della Commissione federale per la qualità.
+
 ### Capitolo 4: Controllo dell’economicità e della qualità delle prestazioni
 
 #### Art. 76
@@ -2872,14 +3026,14 @@ Sentite le commissioni competenti, il DFI emana prescrizioni di dettaglio concer
 Gli assicuratori possono trattare in comune i dati relativi al genere e all’entità delle prestazioni fornite dai diversi fornitori di prestazioni, come pure quelli relativi alle rimunerazioni fatturate per queste prestazioni, allo scopo esclusivo di:
 
 - a. analizzare i costi e la loro evoluzione;
-- b. controllare e garantire l’economicità delle prestazioni ai sensi dell’articolo 56 della legge;
+- b. controllare e garantire l’economicità delle prestazioni ai sensi dell’articolo 56 LAMal;
 - c. approntare le convenzioni tariffali.
 
 #### Art. 76a
 
 **Ripercussione dello sconto**[^76a-1]
 
-<sup>1</sup> Il fornitore di prestazioni deve indicare nella fattura secondo l’articolo 42 della legge lo sconto di cui all’articolo 56 capoverso 3 della legge e farne usufruire il debitore della rimunerazione.
+<sup>1</sup> Il fornitore di prestazioni deve indicare nella fattura secondo l’articolo 42 LAMal lo sconto di cui all’articolo 56 capoverso 3 LAMal e farne usufruire il debitore della rimunerazione.
 
 <sup>2</sup> Se gli sconti sono già considerati nel calcolo delle tariffe e dei prezzi della corrispondente prestazione tramite costi inferiori, non devono più essere esposti separatamente nel quadro della fatturazione.
 
@@ -2889,11 +3043,11 @@ Gli assicuratori possono trattare in comune i dati relativi al genere e all’en
 
 **Convenzione concernente la ripercussione non integrale degli sconti**[^76b-1]
 
-<sup>1</sup> Le convenzioni secondo l’articolo 56 capoverso 3<sup>bis</sup> della legge sono stipulate in primo luogo fra le associazioni dei fornitori di prestazioni e degli assicuratori.
+<sup>1</sup> Le convenzioni secondo l’articolo 56 capoverso 3<sup>bis</sup> LAMal sono stipulate in primo luogo fra le associazioni dei fornitori di prestazioni e degli assicuratori.
 
 <sup>2</sup>
 
-Le convenzioni concernenti la ripercussione non integrale degli sconti secondo l’articolo 56 capoverso 3<sup>bis</sup> della legge devono essere stipulate per scritto e contenere segnatamente le seguenti indicazioni:
+Le convenzioni concernenti la ripercussione non integrale degli sconti secondo l’articolo 56 capoverso 3<sup>bis</sup> LAMal devono essere stipulate per scritto e contenere segnatamente le seguenti indicazioni:
 
 - a. tipo ed entità dello sconto nonché modalità di una documentazione trasparente nei giustificativi e nelle fatture;
 - b. scopo d’impiego dello sconto non ripercosso, compreso l’obiettivo del miglioramento della qualità del trattamento;
@@ -2954,11 +3108,14 @@ La Commissione è composta di 15 membri, di cui:
 
 <sup>5</sup> La segreteria sottostà alla presidenza della Commissione dal punto di vista specialistico e all’UFSP da quello amministrativo.
 
+<sup>5<sup>bis</sup></sup> La Commissione coordina i suoi lavori con quelli della Commissione federale per il monitoraggio dei costi e della qualità nell’assicurazione obbligatoria delle cure medico-sanitarie.[^77a-2]
+
 <sup>6</sup> La Commissione redige ogni anno un rapporto all’attenzione del Consiglio federale e lo pubblica in forma appropriata.
 
 <sup>7</sup> Pubblica i suoi regolamenti e rapporti come pure i documenti legati ai compiti che le sono stati attribuiti secondo l’articolo 58*c* LAMal.
 
 [^77a-1]: Introdotto dalla cifra I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^77a-2]: Introdotto dalla cifra I dell’O del 26 nov. 2025 (Obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 834](https://fedlex.data.admin.ch/eli/oc/2025/834)).
 
 #### Art. 77b
 
@@ -3150,7 +3307,7 @@ Il DFI autorizza soltanto progetti pilota volti alla sperimentazione di misure a
 
 - a. le misure risultano innovative in relazione al diritto vigente;
 - b. le misure sono adeguate per raggiungere uno degli obiettivi di cui all’articolo 59*b* capoverso 1 LAMal in uno degli ambiti di cui all’articolo 59*b* capoverso 2 LAMal;
-- c. le misure sono adeguate per essere recepite nella legge.
+- c. le misure sono adeguate per essere recepite nella LAMal.
 
 <sup>2</sup>
 
@@ -3209,7 +3366,7 @@ I rapporti di valutazione devono valutare in particolare:
 - a. se il progetto pilota raggiunge l’obiettivo perseguito;
 - b. quale impatto hanno le misure del progetto pilota sul sistema sanitario;
 - c. se le misure del progetto pilota entrano in conflitto con le disposizioni legali per le quali nell’ordinanza non è prevista alcuna deroga;
-- d. se le misure sperimentate possono essere recepite nella legge.
+- d. se le misure sperimentate possono essere recepite nella LAMal.
 
 #### Art. 77r
 
@@ -3334,7 +3491,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 **Graduazione dei premi**
 
-<sup>1</sup> Un effettivo è considerato molto piccolo secondo l’articolo 61 capoverso 2 della legge, quando i costi di un singolo assicurato hanno un influsso notevole sui premi degli assicurati dell’effettivo, segnatamente quando quest’ultimo conta meno di 300 assicurati.[^91-1]
+<sup>1</sup> Un effettivo è considerato molto piccolo secondo l’articolo 61 capoverso 2 LAMal quando i costi di un singolo assicurato hanno un influsso notevole sui premi degli assicurati dell’effettivo, segnatamente quando quest’ultimo conta meno di 300 assicurati.[^91-1]
 
 <sup>1bis</sup> Un assicuratore che inizia la sua attività o che estende il suo raggio d’attività territoriale fissa per gli effettivi molto piccoli il suo premio in modo che non sia inferiore a un determinato importo minimo.[^91-2]
 
@@ -3342,7 +3499,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 <sup>2</sup> Per le persone di cui agli articoli 4 e 5 che non risiedono né in uno Stato membro dell’Unione europea, né in Islanda, in Norvegia o nel Regno Unito e che sono assicurate in Svizzera, l’assicuratore fissa un premio in base ai costi comprovati. Qualora, in considerazione del numero delle persone interessate, ciò risulti sproporzionato, l’assicuratore può applicare i premi svizzeri dell’ultimo domicilio della persona in Svizzera o della sede dell’assicuratore.[^91-4]
 
-<sup>3</sup> Per gli assicurati di cui all’articolo 61 capoverso 3 della legge, la graduazione dei premi secondo i gruppi d’età è effettuata in base all’anno di nascita.
+<sup>3</sup> Per gli assicurati di cui all’articolo 61 capoverso 3 LAMal, la graduazione dei premi secondo i gruppi d’età è effettuata in base all’anno di nascita.
 
 [^91-1]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^91-2]: Introdotto dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
@@ -3382,9 +3539,19 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 #### Art. 92
 
-[^92-1]
+**Premio medio**[^92-1]
 
-[^92-1]: Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+<sup>1</sup> L’UFSP calcola ogni anno il premio medio di un Cantone dividendo la somma dei premi fatturati agli assicurati di tale Cantone per il numero medio di assicurati dello stesso. In modo analogo, calcola il premio medio per la Svizzera.
+
+<sup>2</sup> Esso calcola il premio medio per l’anno civile successivo (premio medio a priori) sulla base delle stime fornite dagli assicuratori.
+
+<sup>3</sup> Esso calcola il premio medio per l’anno precedente (premio medio a posteriori) sulla base delle indicazioni fornite dagli assicuratori.
+
+<sup>4</sup> Esso pubblica ogni anno i premi medi suddivisi secondo le categorie di età Bambini, Giovani adulti e Adulti e per l’insieme delle categorie di età.
+
+<sup>5</sup> Esso può stabilire particolarità per il calcolo del premio medio.
+
+[^92-1]: Nuovo testo giusta l’art. 26 n. 1 dell’O del 12 set. 2025 concernente i sussidi dei Cantoni e della Confederazione per la riduzione dei premi nell’assicurazione malattie, in vigore dal 1° gen. 2026 ([RU 2025 581](https://fedlex.data.admin.ch/eli/oc/2025/581)).
 
 ### Sezione 1*a*: Premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito
 
@@ -3463,7 +3630,7 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>2</sup> Il passaggio a una franchigia inferiore o a un’assicurazione con bonus o il cambiamento dell’assicuratore è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 LAMal.[^94-1]
 
-<sup>3</sup> L’assicurato che cambia assicuratore secondo l’articolo 7 capoversi 2, 3 e 4 della legge nel corso dell’anno civile mantiene la franchigia scelta presso il precedente assicuratore sempreché il nuovo assicuratore eserciti tale forma di assicurazione. L’articolo 103 capoverso 4 si applica per analogia.[^94-2]
+<sup>3</sup> L’assicurato che cambia assicuratore secondo l’articolo 7 capoversi 2, 3 e 4 LAMal nel corso dell’anno civile mantiene la franchigia scelta presso il precedente assicuratore sempreché il nuovo assicuratore eserciti tale forma di assicurazione. L’articolo 103 capoverso 4 si applica per analogia.[^94-2]
 
 [^94-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^94-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
@@ -3505,9 +3672,9 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>1</sup> Tutti gli assicurati possono aderire all’assicurazione con bonus. Il passaggio dall’assicurazione ordinaria all’assicurazione con bonus è solo possibile per l’inizio di un anno civile.
 
-<sup>2</sup> Il passaggio a un’altra forma di assicurazione o il cambiamento di assicuratore è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 della legge.[^97-1]
+<sup>2</sup> Il passaggio a un’altra forma di assicurazione o il cambiamento di assicuratore è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 LAMal.[^97-1]
 
-<sup>3</sup> Se l’assicurato cambia assicuratore secondo l’articolo 7 capoverso 2, 3 o 4 della legge nel corso dell’anno civile, il nuovo assicuratore deve, se esercita l’assicurazione con bonus e se l’assicurato vi aderisce, computare il periodo durante il quale quest’ultimo non ha riscosso alcuna prestazione dall’assicurazione con bonus del precedente assicuratore.[^97-2]
+<sup>3</sup> Se l’assicurato cambia assicuratore secondo l’articolo 7 capoverso 2, 3 o 4 LAMal nel corso dell’anno civile, il nuovo assicuratore deve, se esercita l’assicurazione con bonus e se l’assicurato vi aderisce, computare il periodo durante il quale quest’ultimo non ha riscosso alcuna prestazione dall’assicurazione con bonus del precedente assicuratore.[^97-2]
 
 [^97-1]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^97-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
@@ -3556,9 +3723,9 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>2</sup> Il passaggio da un’assicurazione senza scelta limitata dei fornitori di prestazioni a un’assicurazione con scelta limitata dei fornitori di prestazioni è possibile in ogni momento. È fatto salvo l’articolo 97 capoverso 2.[^100-1]
 
-<sup>3</sup> Il passaggio a un’altra forma di assicurazione o il cambiamento di assicuratore è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 della legge.[^100-2]
+<sup>3</sup> Il passaggio a un’altra forma di assicurazione o il cambiamento di assicuratore è possibile per la fine di un anno civile e con preavviso secondo i termini stabiliti nell’articolo 7 capoversi 1 e 2 LAMal.[^100-2]
 
-<sup>4</sup> È fatto salvo il cambiamento di assicuratore nel corso dell’anno secondo l’articolo 7 capoversi 2, 3 e 4 della legge.[^100-3]
+<sup>4</sup> È fatto salvo il cambiamento di assicuratore nel corso dell’anno secondo l’articolo 7 capoversi 2, 3 e 4 LAMal.[^100-3]
 
 [^100-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
 [^100-2]: Nuovo testo giusta la cifra I dell’O del 6 giu. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
@@ -3588,7 +3755,7 @@ Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, 
 
 #### Art. 102
 
-<sup>1</sup> L’indennizzo di terzi ai sensi dell’articolo 63 della legge non può superare le spese che sarebbero state a carico dell’assicuratore se avesse assunto lui stesso i compiti delegati a terzi.
+<sup>1</sup> L’indennizzo di terzi ai sensi dell’articolo 63 LAMal non può superare le spese che sarebbero state a carico dell’assicuratore se avesse assunto lui stesso i compiti delegati a terzi.
 
 <sup>2</sup> Questo indennizzo fa parte dei costi d’amministrazione dell’assicuratore. Esso non può essere impiegato per ridurre i premi degli assicurati.
 
@@ -3598,9 +3765,9 @@ Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, 
 
 **Franchigia e aliquota percentuale**
 
-<sup>1</sup> La franchigia prevista nell’articolo 64 capoverso 2 lettera a della legge ammonta a 300 franchi per anno civile.[^103-1]
+<sup>1</sup> La franchigia prevista nell’articolo 64 capoverso 2 lettera a LAMal ammonta a 300 franchi per anno civile.[^103-1]
 
-<sup>2</sup> L’importo annuo massimo dell’aliquota percentuale secondo l’articolo 64 capoverso 2 lettera b della legge ammonta a 700[^103-2] franchi per gli assicurati adulti e a 350 franchi per gli assicurati che non hanno ancora compiuto 18 anni.[^103-3]
+<sup>2</sup> L’importo annuo massimo dell’aliquota percentuale secondo l’articolo 64 capoverso 2 lettera b LAMal ammonta a 700[^103-2] franchi per gli assicurati adulti e a 350 franchi per gli assicurati che non hanno ancora compiuto 18 anni.[^103-3]
 
 <sup>3</sup> Per la riscossione della franchigia e dell’aliquota percentuale è determinante la data della cura.
 
@@ -3608,7 +3775,7 @@ Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, 
 
 <sup>5</sup> Per gli adulti la cui protezione assicurativa è prevista per meno di un anno civile, gli assicuratori possono riscuotere un importo forfetario per la franchigia e l’aliquota percentuale in caso di ricorso a prestazioni. Questo importo forfetario ammonta a franchi 250 per un periodo di 90 giorni. Esso non può essere offerto in combinazione con forme speciali di assicurazione di cui agli articoli 93–101*a*.[^103-4]
 
-<sup>6</sup> Per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein, in Norvegia o nel Regno Unito e che in caso di soggiorno in Svizzera hanno diritto all’assistenza reciproca internazionale in materia di prestazioni in base all’articolo 95*a* della legge o a convenzioni internazionali, viene riscosso un importo globale per la franchigia e per l’aliquota percentuale. L’importo ammonta, per un periodo di 30 giorni, a 92 franchi per gli adulti e a 33 franchi per gli assicurati che non hanno ancora compiuto 18 anni.[^103-5]
+<sup>6</sup> Per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein, in Norvegia o nel Regno Unito e che in caso di soggiorno in Svizzera hanno diritto all’assistenza reciproca internazionale in materia di prestazioni in base all’articolo 95*a* LAMal o a convenzioni internazionali, viene riscosso un importo globale per la franchigia e per l’aliquota percentuale. L’importo ammonta, per un periodo di 30 giorni, a 92 franchi per gli adulti e a 33 franchi per gli assicurati che non hanno ancora compiuto 18 anni.[^103-5]
 
 <sup>7</sup> I capoversi 1–4 si applicano per analogia agli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che sono assicurati in Svizzera.[^103-6]
 
@@ -3623,22 +3790,22 @@ Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, 
 
 **Contributo ai costi di degenza ospedaliera**[^104-1]
 
-<sup>1</sup> Il contributo giornaliero ai costi di degenza ospedaliera previsto nell’articolo 64 capoverso 5 della legge ammonta a 15 franchi.
+<sup>1</sup> Il contributo giornaliero ai costi di degenza ospedaliera previsto nell’articolo 64 capoverso 5 LAMal ammonta a 15 franchi.
 
 <sup>1bis</sup>
 
 Non è dovuto:
 
 - a. per il giorno di dimissione;
-- b. per i giorni di congedo calcolati secondo le regole della struttura tariffale applicabile di cui all’articolo 49 capoverso 1 della legge, nel loro tenore approvato o fissato dal Consiglio federale.[^104-2]
+- b. per i giorni di congedo calcolati secondo le regole della struttura tariffale applicabile di cui all’articolo 49 capoverso 1 LAMal, nel loro tenore approvato o fissato dal Consiglio federale.[^104-2]
 
 <sup>2</sup>
 
 Sono esentati dal pagamento di questo contributo:
 
-- a. i minorenni secondo l’articolo 61 capoverso 3 della legge;
-- b. i giovani adulti secondo l’articolo 61 capoverso 3 della legge che sono in formazione;
-- c.[^104-3] le donne esentate dalla partecipazione ai costi secondo l’articolo 64 capoverso 7 della legge.
+- a. i minorenni secondo l’articolo 61 capoverso 3 LAMal;
+- b. i giovani adulti secondo l’articolo 61 capoverso 3 LAMal che sono in formazione;
+- c.[^104-3] le donne esentate dalla partecipazione ai costi secondo l’articolo 64 capoverso 7 LAMal.
 
 [^104-1]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)).
 [^104-2]: Introdotto dalla cifra I dell’O del 26 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323)).
@@ -3650,18 +3817,18 @@ Sono esentati dal pagamento di questo contributo:
 
 <sup>1</sup>
 
-Il DFI designa le prestazioni per le quali va riscossa una partecipazione ai costi più alta ai sensi dell’articolo 64 capoverso 6 lettera a della legge e ne stabilisce l’ammontare. Può inoltre prevedere una partecipazione ai costi più alta se le prestazioni:
+Il DFI designa le prestazioni per le quali va riscossa una partecipazione ai costi più alta ai sensi dell’articolo 64 capoverso 6 lettera a LAMal e ne stabilisce l’ammontare. Può inoltre prevedere una partecipazione ai costi più alta se le prestazioni:
 
 - a. sono state fornite per un determinato periodo;
 - b. hanno raggiunto un determinato volume.
 
 <sup>1bis</sup> Il DFI designa i medicamenti per i quali deve essere pagata un’aliquota percentuale più elevata ai sensi dell’articolo 64 capoverso 6 lettera a e ne stabilisce l’entità.[^104a-2]
 
-<sup>2</sup> Se l’aliquota percentuale è aumentata rispetto a quella prevista nell’articolo 64 capoverso 2 lettera b della legge, l’ammontare che supera il tasso stabilito nella legge conta solo per metà nel calcolo dell’importo massimo di cui all’articolo 103 capoverso 2.
+<sup>2</sup> Se l’aliquota percentuale è aumentata rispetto a quella prevista nell’articolo 64 capoverso 2 lettera b LAMal, l’ammontare che supera il tasso stabilito nella LAMal conta solo per metà nel calcolo dell’importo massimo di cui all’articolo 103 capoverso 2.
 
-<sup>3</sup> Il DFI designa le prestazioni per le quali la partecipazione ai costi è ridotta o soppressa ai sensi dell’articolo 64 capoverso 6 lettera b della legge. Esso stabilisce l’ammontare della partecipazione ai costi ridotta.
+<sup>3</sup> Il DFI designa le prestazioni per le quali la partecipazione ai costi è ridotta o soppressa ai sensi dell’articolo 64 capoverso 6 lettera b LAMal e. Esso stabilisce l’ammontare della partecipazione ai costi ridotta.
 
-<sup>3bis</sup> Il DFI designa le prestazioni di cui all’articolo 64 capoverso 6 lettera d della legge, per le quali la franchigia non è dovuta.[^104a-3]
+<sup>3bis</sup> Il DFI designa le prestazioni di cui all’articolo 64 capoverso 6 lettera d LAMal, per le quali la franchigia non è dovuta.[^104a-3]
 
 <sup>4</sup> Prima di emanare le disposizioni di cui ai capoversi 1, 3 e 3<sup>bis</sup>, il DFI sente la commissione competente.[^104a-4]
 
@@ -3678,7 +3845,7 @@ Il DFI designa le prestazioni per le quali va riscossa una partecipazione ai cos
 
 <sup>2</sup> La nascita di feto morto dopo la ventitreesima settimana di gravidanza è considerata alla stregua di un parto.
 
-<sup>3</sup> Il termine secondo l’articolo 64 capoverso 7 lettera b della legge scade il cinquantaseiesimo giorno dopo il parto, a mezzanotte.
+<sup>3</sup> Il termine secondo l’articolo 64 capoverso 7 lettera b LAMal scade il cinquantaseiesimo giorno dopo il parto, a mezzanotte.
 
 [^105-1]: Introdotto dalla cifra I dell’O del 29 nov. 2013, in vigore dal 1° mar. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
 
@@ -3808,7 +3975,7 @@ Dopo aver sentito i Cantoni e gli assicuratori, il DFI può stabilire prescrizio
 
 **Titoli considerati equivalenti a un attestato di carenza di beni[^105i-2]**[^105i-1]
 
-Sono equiparati ad attestati di carenza di beni ai sensi dell’articolo 64*a* capoverso 3 della legge le decisioni sulla concessione di prestazioni complementari o titoli equivalenti che certificano la mancanza di mezzi finanziari propri dell’assicurato. Il Cantone designa le decisioni e i titoli interessati.
+Sono equiparati ad attestati di carenza di beni ai sensi dell’articolo 64*a* capoverso 3 LAMal le decisioni sulla concessione di prestazioni complementari o titoli equivalenti che certificano la mancanza di mezzi finanziari propri dell’assicurato. Il Cantone designa le decisioni e i titoli interessati.
 
 [^105i-1]: Introdotto dalla cifra I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 [^105i-2]: Nuova espr. giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2025 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)). Di detta mod. è tenuto conto in tutto il presente testo.
@@ -3882,13 +4049,13 @@ Il Cantone versa all’assicuratore, entro il 30 giugno:
 
 **Cambiamento di assicuratore in caso di mora**[^105l-1]
 
-<sup>1</sup> L’assicurato è in mora ai sensi dell’articolo 64*a* capoverso 6 della legge a decorrere dal recapito della diffida di cui all’articolo 105*b* capoverso 1.
+<sup>1</sup> L’assicurato è in mora ai sensi dell’articolo 64*a* capoverso 6 LAMal a decorrere dal recapito della diffida di cui all’articolo 105*b* capoverso 1.
 
 <sup>2</sup> Se l’assicurato in mora disdice il rapporto assicurativo, l’assicuratore deve informarlo che la disdetta non ha alcun effetto se i premi, le partecipazioni ai costi e gli interessi di mora oggetto della diffida o le spese d’esecuzione accumulate fino a tale momento non sono integralmente pagate entro un mese dalla scadenza del termine di disdetta.
 
 <sup>2bis</sup> L’assicuratore informa gli assicurati maggiori di 18 anni che non sono considerati in mora per gli importi dovuti prima del raggiungimento della maggiore età.[^105l-2]
 
-<sup>3</sup> Se gli importi in arretrato conformemente al capoverso 2 non sono pervenuti all’assicuratore tempestivamente, quest’ultimo deve informare l’interessato che egli continua ad essere assicurato presso di lui e che può cambiare assicuratore soltanto al successivo termine previsto dall’articolo 7 capoversi 1 e 2 della legge. L’assicuratore informa il nuovo assicuratore entro 60 giorni che l’assicurato continua ad essere assicurato presso di lui.
+<sup>3</sup> Se gli importi in arretrato conformemente al capoverso 2 non sono pervenuti all’assicuratore tempestivamente, quest’ultimo deve informare l’interessato che egli continua ad essere assicurato presso di lui e che può cambiare assicuratore soltanto al successivo termine previsto dall’articolo 7 capoversi 1 e 2 LAMal. L’assicuratore informa il nuovo assicuratore entro 60 giorni che l’assicurato continua ad essere assicurato presso di lui.
 
 <sup>4</sup>
 
@@ -3911,13 +4078,13 @@ Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della N
 
 - a.
 
-  articolo 64*a* capoversi 1–7 della legge e articoli 105*b*–105*l* ai:
+  articolo 64*a* capoversi 1–7 LAMal e articoli 105*b*–105*l* ai:
 
   - 1\. frontalieri e ai loro familiari,
   - 2\. familiari di domiciliati, dimoranti annuali e dimoranti temporanei,
   - 3\. beneficiari di una prestazione dell’assicurazione svizzera contro la disoccupazione e ai loro familiari;
 
-- b. articolo 64*a* capoversi 1, 2 e 6 della legge e articoli 105*b* e 105*l* ai beneficiari di rendite e ai loro familiari; l’assicuratore rileva gli attestati di carenza di beni.
+- b. articolo 64*a* capoversi 1, 2 e 6 LAMal e articoli 105*b* e 105*l* ai beneficiari di rendite e ai loro familiari; l’assicuratore rileva gli attestati di carenza di beni.
 
 <sup>2</sup> Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della Norvegia o del Regno Unito non permette all’assicuratore svizzero di recuperare i premi e le partecipazioni ai costi non pagati, l’assicuratore invia all’assicurato che non paga i premi o le partecipazioni ai costi esigibili una diffida di pagamento preceduta almeno da un sollecito scritto, gli assegna un termine supplementare di 30 giorni e gli indica le conseguenze della mora. Se, nonostante la diffida, l’assicurato non paga i premi, le partecipazioni ai costi e gli interessi di mora entro il termine stabilito, l’assicuratore può sospendere l’assunzione dei costi delle prestazioni. Esso deve nel contempo informare l’assicurato e l’istituzione di assistenza competente nel luogo di residenza del medesimo in merito alla sospensione. La sospensione termina non appena sono stati pagati i premi e le partecipazioni ai costi oggetto della diffida, nonché gli interessi di mora accumulati. Durante la sospensione dell’assunzione delle prestazioni, gli assicuratori possono compensare le prestazioni con i premi o le partecipazioni ai costi dovuti.[^105m-3]
 
@@ -3947,13 +4114,13 @@ Hanno diritto alla riduzione dei premi anche le persone tenute ad assicurarsi ai
 
 <sup>1</sup>
 
-Per le seguenti persone la riduzione dei premi è praticata secondo l’articolo 65*a* della legge:
+Per le seguenti persone la riduzione dei premi è praticata secondo l’articolo 65*a* LAMal:
 
 - a. gli assicurati che percepiscono una rendita svizzera, fintanto che esercitano un’attività lucrativa in Svizzera o beneficiano di una prestazione dell’assicurazione svizzera contro la disoccupazione;
 - b. i familiari assicurati di una persona assicurata ai sensi della lettera a, anche se un altro familiare assicurato percepisce solo una rendita svizzera;
 - c. i familiari assicurati di una persona assicurata che esercita un’attività lucrativa in Svizzera o che beneficia di una prestazione dell’assicurazione svizzera contro la disoccupazione, anche se un altro familiare assicurato percepisce solo una rendita svizzera.
 
-<sup>2</sup> All’atto di verificare le modeste condizioni economiche degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito, i Cantoni non possono prendere in considerazione il reddito e la sostanza netta dei familiari assoggettati alla procedura ai sensi dell’articolo 66*a* della legge.[^106a-2]
+<sup>2</sup> All’atto di verificare le modeste condizioni economiche degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito, i Cantoni non possono prendere in considerazione il reddito e la sostanza netta dei familiari assoggettati alla procedura ai sensi dell’articolo 66*a* LAMal.[^106a-2]
 
 [^106a-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 [^106a-2]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
@@ -3968,7 +4135,7 @@ Per le seguenti persone la riduzione dei premi è praticata secondo l’articolo
 
 **Notifiche del Cantone**
 
-<sup>1</sup> Il Cantone designa un servizio per lo scambio dei dati con gli assicuratori conformemente all’articolo 65 capoverso 2 della legge.
+<sup>1</sup> Il Cantone designa un servizio per lo scambio dei dati con gli assicuratori conformemente all’articolo 65 capoverso 2 LAMal.
 
 <sup>2</sup>
 
@@ -4043,7 +4210,7 @@ Gli articoli 90, 90*a* e 105*a* sono applicabili per analogia.
 
 **Adesione**
 
-Ogni persona che adempie le condizioni di cui all’articolo 67 capoverso 1 della legge può aderire all’assicurazione d’indennità giornaliera alle stesse condizioni valevoli per gli altri assicurati, segnatamente riguardo la durata e l’ammontare dell’indennità giornaliera e per quanto, presumibilmente, non ne risulti un sovrindennizzo.
+Ogni persona che adempie le condizioni di cui all’articolo 67 capoverso 1 LAMal può aderire all’assicurazione d’indennità giornaliera alle stesse condizioni valevoli per gli altri assicurati, segnatamente riguardo la durata e l’ammontare dell’indennità giornaliera e per quanto, presumibilmente, non ne risulti un sovrindennizzo.
 
 ## Parte terza: Regole di coordinamento
 
@@ -4172,7 +4339,7 @@ Trattandosi di prestazioni in natura, vi è sovrindennizzo nella misura in cui, 
 - a. i costi diagnostici e terapeutici che ne derivano per l’assicurato;
 - b. i costi delle cure e altri costi di malattia non coperti che ne derivano per l’assicurato.
 
-<sup>2</sup> Se una persona è assicurata presso più assicuratori-malattie per l’indennità giornaliera ai sensi degli articoli 67 a 77 della legge, il sovrindenizzo è stabilito secondo l’articolo 69 capoverso 2 LPGA. Se le prestazioni devono essere ridotte, ciascun assicuratore è tenuto a versare le prestazioni nella proporzione esistente tra l’indennità giornaliera che assicura e l’importo totale delle indennità giornaliere assicurate.
+<sup>2</sup> Se una persona è assicurata presso più assicuratori-malattie per l’indennità giornaliera ai sensi degli articoli 67 a 77 LAMal, il sovrindenizzo è stabilito secondo l’articolo 69 capoverso 2 LPGA. Se le prestazioni devono essere ridotte, ciascun assicuratore è tenuto a versare le prestazioni nella proporzione esistente tra l’indennità giornaliera che assicura e l’importo totale delle indennità giornaliere assicurate.
 
 [^122-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
@@ -4208,9 +4375,9 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 
 **Spese di comunicazione e di pubblicazione dei dati[^130-2]**[^130-1]
 
-<sup>1</sup> Nei casi di cui all’articolo 84*a* capoverso 5 della legge, è riscosso un emolumento se la comunicazione dei dati richiede numerose copie o altre riproduzioni o ricerche particolari. L’ammontare dell’emolumento corrisponde agli importi fissati negli articoli 14 e 16 dell’ordinanza del 10 settembre 1969[^130-3] sulle tasse e spese nella procedura amministrativa.
+<sup>1</sup> Nei casi di cui all’articolo 84*a* capoverso 5 LAMal, è riscosso un emolumento se la comunicazione dei dati richiede numerose copie o altre riproduzioni o ricerche particolari. L’ammontare dell’emolumento corrisponde agli importi fissati negli articoli 14 e 16 dell’ordinanza del 10 settembre 1969[^130-3] sulle tasse e spese nella procedura amministrativa.
 
-<sup>2</sup> Per le pubblicazioni di cui all’articolo 84*a* capoverso 3 della legge è riscosso un emolumento a copertura delle spese.
+<sup>2</sup> Per le pubblicazioni di cui all’articolo 84*a* capoverso 3 LAMal è riscosso un emolumento a copertura delle spese.
 
 <sup>3</sup> L’emolumento può essere ridotto o condonato in caso di indigenza dell’assoggettato o per altri gravi motivi.
 
@@ -4232,7 +4399,7 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 
 **Rapporti d’assicurazione esistenti**
 
-<sup>1</sup> Al più tardi sino al 31 dicembre 1996, le casse malati possono continuare i rapporti d’assicurazione, esistenti all’entrata in vigore della legge, con persone che non sono soggette all’assicurazione obbligatoria delle cure medico-sanitarie e che nemmeno possono esservi soggette a domanda. Questi rapporti d’assicurazione sono retti dal diritto previgente.
+<sup>1</sup> Al più tardi sino al 31 dicembre 1996, le casse malati possono continuare i rapporti d’assicurazione, esistenti all’entrata in vigore della LAMal, con persone che non sono soggette all’assicurazione obbligatoria delle cure medico-sanitarie e che nemmeno possono esservi soggette a domanda. Questi rapporti d’assicurazione sono retti dal diritto previgente.
 
 <sup>2</sup> Un nuovo rapporto d’assicurazione ai sensi del capoverso 1 può essere creato soltanto se esso permette una corrispondente continuazione della copertura assicurativa sino al 31 dicembre 1996, allora garantita da un assicuratore che ha rinunciato a esercitare l’assicurazione sociale malattie (art. 99 LAMal).
 
@@ -4254,9 +4421,9 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 
 **Fornitori di prestazioni**
 
-<sup>1</sup> I fornitori di prestazioni ai sensi degli articoli 44 a 54, che all’entrata in vigore della legge esercitano a carico dell’assicurazione malattie in virtù di un permesso secondo il previgente diritto, continuano ad essere autorizzati se lo sono, giusta il diritto cantonale, entro un anno a contare dall’entrata in vigore della legge.
+<sup>1</sup> I fornitori di prestazioni ai sensi degli articoli 44 a 54, che all’entrata in vigore della LAMal esercitano a carico dell’assicurazione malattie in virtù di un permesso secondo il previgente diritto, continuano ad essere autorizzati se lo sono, giusta il diritto cantonale, entro un anno a contare dall’entrata in vigore della LAMal.
 
-<sup>2</sup> I logopedisti e i dietisti che, pur adempiendo solo in parte le condizioni d’autorizzazione della presente ordinanza, hanno conseguito la loro formazione ed esercitato a titolo indipendente prima dell’entrata in vigore della legge, possono esercitare a carico dell’assicurazione malattie secondo il nuovo diritto se autorizzati, giusta il diritto cantonale, entro quattro anni dall’entrata in vigore della legge.[^134-1]
+<sup>2</sup> I logopedisti e i dietisti che, pur adempiendo solo in parte le condizioni d’autorizzazione della presente ordinanza, hanno conseguito la loro formazione ed esercitato a titolo indipendente prima dell’entrata in vigore della LAMal, possono esercitare a carico dell’assicurazione malattie secondo il nuovo diritto se autorizzati, giusta il diritto cantonale, entro quattro anni dall’entrata in vigore della LAMal.[^134-1]
 
 <sup>3</sup>
 
@@ -4323,7 +4490,7 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 [^u6-1]
 
-[^u6-1]: [RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Abrogata dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u6-1]: [RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Abrogata dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 $ ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni finali della modifica del 26 maggio 2004
 
@@ -4405,13 +4572,13 @@ Le disposizioni della presente ordinanza relative all’ufficio di revisione val
 
 [^u13-1]: [RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)
 
-<sup>1</sup> L’organizzazione menzionata nell’articolo 49 capoverso 2 della legge inizia la sua attività al più tardi il 31 gennaio 2009. I partner tariffali e i Cantoni comunicano al Consiglio federale la data d’inizio dell’attività dell’organizzazione e gli inviano gli statuti della medesima.
+<sup>1</sup> L’organizzazione menzionata nell’articolo 49 capoverso 2 LAMal inizia la sua attività al più tardi il 31 gennaio 2009. I partner tariffali e i Cantoni comunicano al Consiglio federale la data d’inizio dell’attività dell’organizzazione e gli inviano gli statuti della medesima.
 
 <sup>2</sup> La prima richiesta di approvazione della convenzione tariffale di cui all’articolo 59*d* è sottoposta al Consiglio federale al più tardi il 30 giugno 2009. Oltre alla struttura tariffale uniforme e alle modalità di applicazione della tariffa, la convenzione include anche una proposta congiunta dei partner tariffali concernente le misure d’accompagnamento necessarie al momento dell’introduzione degli importi forfettari riferiti alle prestazioni. I partner tariffali concordano in particolare gli strumenti per la sorveglianza dell’evoluzione dei costi e del volume delle prestazioni (monitoraggio) e le misure correttive.
 
-<sup>2bis</sup> Il monitoraggio di cui al capoverso 2 comprende in particolare, per ciascun fornitore di prestazioni, l’evoluzione del numero di casi, dei costi fatturati e, nel caso di un modello di rimunerazione di tipo Diagnosis Related Groups (DRG), l’evoluzione del Case Mix Index (CMI). Il monitoraggio di tutti i settori di cui all’articolo 49 capoverso 1 della legge, inclusi i settori interessati prima e dopo il ricovero, deve garantire in particolare che, oltre al meccanismo di correzione previsto dal capoverso 2<sup>ter</sup>, ulteriori misure correttive possano essere applicate dai partner tariffali. Se i partner tariffali non riescono a concordare un monitoraggio corrispondente, i fornitori di prestazioni trasmettono trimestralmente agli assicuratori le informazioni necessarie a tal fine, a partire dalla data d’introduzione di cui al capoverso 1 delle disposizioni transitorie della modifica del 21 dicembre 2007 della legge e fino alla conclusione delle misure correttive. Gli assicuratori svolgono un monitoraggio congiuntamente e pubblicano ogni sei mesi una valutazione come base per le misure correttive dei partner tariffali.[^u13-2]
+<sup>2bis</sup> Il monitoraggio di cui al capoverso 2 comprende in particolare, per ciascun fornitore di prestazioni, l’evoluzione del numero di casi, dei costi fatturati e, nel caso di un modello di rimunerazione di tipo Diagnosis Related Groups (DRG), l’evoluzione del Case Mix Index (CMI). Il monitoraggio di tutti i settori di cui all’articolo 49 capoverso 1 LAMal, inclusi i settori interessati prima e dopo il ricovero, deve garantire in particolare che, oltre al meccanismo di correzione previsto dal capoverso 2<sup>ter</sup>, ulteriori misure correttive possano essere applicate dai partner tariffali. Se i partner tariffali non riescono a concordare un monitoraggio corrispondente, i fornitori di prestazioni trasmettono trimestralmente agli assicuratori le informazioni necessarie a tal fine, a partire dalla data d’introduzione di cui al capoverso 1 delle disposizioni transitorie della modifica del 21 dicembre 2007 LAMal e fino alla conclusione delle misure correttive. Gli assicuratori svolgono un monitoraggio congiuntamente e pubblicano ogni sei mesi una valutazione come base per le misure correttive dei partner tariffali.[^u13-2]
 
-<sup>2ter</sup> Se, nel caso di un modello di rimunerazione di tipo DRG, i partner tariffali non riescono a concordare misure correttive uniformi a livello nazionale conformemente al capoverso 2, nei primi due anni successivi all’introduzione del modello di rimunerazione, sia in caso di aumento ingiustificato superiore al 2 per cento del CMI effettivo durante l’anno di fatturazione rispetto al CMI concordato, sia del numero di casi effettivo durante l’anno di fatturazione rispetto al numero di casi considerato per concordare il CMI, il fornitore di prestazioni deve rimborsare i ricavi supplementari nel corso dell’anno successivo secondo la ripartizione ai sensi dell’articolo 49*a* della legge. Le modalità di attuazione sono concordate tra i fornitori di prestazioni e gli assicuratori.[^u13-3]
+<sup>2ter</sup> Se, nel caso di un modello di rimunerazione di tipo DRG, i partner tariffali non riescono a concordare misure correttive uniformi a livello nazionale conformemente al capoverso 2, nei primi due anni successivi all’introduzione del modello di rimunerazione, sia in caso di aumento ingiustificato superiore al 2 per cento del CMI effettivo durante l’anno di fatturazione rispetto al CMI concordato, sia del numero di casi effettivo durante l’anno di fatturazione rispetto al numero di casi considerato per concordare il CMI, il fornitore di prestazioni deve rimborsare i ricavi supplementari nel corso dell’anno successivo secondo la ripartizione ai sensi dell’articolo 49*a* LAMal. Le modalità di attuazione sono concordate tra i fornitori di prestazioni e gli assicuratori.[^u13-3]
 
 <sup>3</sup> I partner tariffali sottopongono al Consiglio federale l’importo del contributo per ogni caso ai sensi dell’articolo 59*e* al più tardi al momento della presentazione della prima richiesta di approvazione secondo il capoverso 2.
 
@@ -4516,7 +4683,7 @@ Il diritto previgente si applica a Islanda, Liechtenstein e Norvegia fino all’
 
 [^u21-1]: [RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)
 
-<sup>1</sup> Entro il 31 dicembre 2013, ogni assicuratore deve disporre di un servizio di ricezione dei dati certificato ai sensi dell’articolo 59*a* capoverso 6. Fino a quando l’assicuratore non dispone di un servizio di ricezione dei dati certificato, una trasmissione sistematica secondo l’articolo 59*a* capoverso 3 di indicazioni mediche è unicamente possibile se queste indicazioni sono trasmesse direttamente al medico di fiducia ai sensi dell’articolo 57 della legge.
+<sup>1</sup> Entro il 31 dicembre 2013, ogni assicuratore deve disporre di un servizio di ricezione dei dati certificato ai sensi dell’articolo 59*a* capoverso 6. Fino a quando l’assicuratore non dispone di un servizio di ricezione dei dati certificato, una trasmissione sistematica secondo l’articolo 59*a* capoverso 3 di indicazioni mediche è unicamente possibile se queste indicazioni sono trasmesse direttamente al medico di fiducia ai sensi dell’articolo 57 LAMal.
 
 <sup>2</sup> I fornitori di prestazioni nel settore ambulatoriale e nei settori della riabilitazione e della psichiatria trasmettono le diagnosi e le procedure secondo le modalità e le codifiche convenute nelle convenzioni tariffali applicabili fino a quando il DFI non ha fissato le classificazioni ad essi applicabili (art. 59*a*<sup>bis</sup>).[^u21-2]
 
@@ -4638,7 +4805,7 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 
 <sup>2</sup> I medicamenti che adempiono le condizioni per l’ammissione nell’elenco delle specialità per le infermità congenite di cui all’articolo 3<sup>sexies</sup> OAI[^u31-2] e figurano nell’elenco delle specialità sono inseriti, nel quadro del riesame di cui all’articolo 65*d*, in applicazione dell’articolo 65 capoverso 1<sup>bis</sup>, nell’elenco delle specialità per le infermità congenite.
 
-<sup>3</sup> I medicamenti che figurano nell’elenco dei farmaci per infermità congenite dell’elenco delle specialità sono inseriti, nel quadro del riesame di cui all’articolo 65*d*, nell’elenco delle specialità per le infermità congenite di cui all’articolo 3<sup>sexies</sup> OAI o nell’elenco delle specialità di cui all’articolo 52 capoverso 1 lettera b della legge.
+<sup>3</sup> I medicamenti che figurano nell’elenco dei farmaci per infermità congenite dell’elenco delle specialità sono inseriti, nel quadro del riesame di cui all’articolo 65*d*, nell’elenco delle specialità per le infermità congenite di cui all’articolo 3<sup>sexies</sup> OAI o nell’elenco delle specialità di cui all’articolo 52 capoverso 1 lettera b LAMal.
 
 [^u31-2]: [RS 831.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10047)
 
