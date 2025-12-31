@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2025-11-01
+version: 2026-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20251101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. November 2025)
+vom 21. September 2018 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -45,17 +45,18 @@ Diese Verordnung regelt:
 - e. die Bewilligung für den Versandhandel mit Arzneimitteln;
 - f. die Marktüberwachung und die Vigilance;
 - g. die Information der Öffentlichkeit;
-- h. das Verzeichnis von Dosierungsempfehlungen für den Arzneimitteleinsatz in der Pädiatrie;
+- h.[^1-1] …
 - i. die Veröffentlichung von Ergebnissen klinischer Studien.
 
-<sup>2</sup> Sie gilt sinngemäss auch für Transplantatprodukte nach Artikel 2 Absatz 1 Buchstabe c der Transplantationsverordnung vom 16. März 2007[^1-1].
+<sup>2</sup> Sie gilt sinngemäss auch für Transplantatprodukte nach Artikel 2 Absatz 1 Buchstabe c der Transplantationsverordnung vom 16. März 2007[^1-2].
 
 <sup>3</sup> Artikel 31 gilt nicht für Transplantatprodukte nach Artikel 2 Absatz 1 Buchstabe c Ziffer 2 der Transplantationsverordnung vom 16. März 2007.
 
-<sup>4</sup> Die Begriffe richten sich nach Artikel 2 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^1-2] (AMBV).
+<sup>4</sup> Die Begriffe richten sich nach Artikel 2 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^1-3] (AMBV).
 
-[^1-1]: [SR 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
-[^1-2]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
+[^1-1]: Aufgehoben durch Ziff. I der V vom 19. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
+[^1-2]: [SR 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
+[^1-3]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 
 ## 2. Kapitel: Zulassungsverfahren
 
@@ -712,10 +713,13 @@ Die Dokumentation muss folgende Informationen enthalten:
 - d. Datum der Abgabe;
 - e. Angaben, die die Nachvollziehbarkeit des Entscheides über die Abgabe ermöglichen.
 
-<sup>3</sup> Wird die Dokumentation in das elektronische Patientendossier nach dem Bundesgesetz vom 19. Juni 2015[^48-1] über das elektronische Patientendossier (EPDG) integriert, so sind die vom Eidgenössischen Departement des Innern (EDI) gestützt auf Artikel 10 Absatz 3 Buchstabe b der Verordnung vom 22. März 2017[^48-2] über das elektronische Patientendossier (EPDV) geregelten Austauschformate zu verwenden.
+<sup>2bis</sup> Bei der Abgabe von Arzneimitteln nach Artikel 45 Absatz 1 Buchstabe c, welche keine Wirkstoffe mit einem bekannten Missbrauchspotenzial enthalten, gilt die Anforderung nach Absatz 2 Buchstabe e als erfüllt, wenn die Indikation dokumentiert ist. Enthält das Arzneimittel einen Wirkstoff mit einem bekannten Missbrauchspotenzial, kann ein Missbrauch aufgrund der Anamnese aber weitgehend ausgeschlossen werden, so ist dies zusätzlich entsprechend zu dokumentieren.[^48-1]
 
-[^48-1]: [SR 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
-[^48-2]: [SR 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
+<sup>3</sup> Wird die Dokumentation in das elektronische Patientendossier nach dem Bundesgesetz vom 19. Juni 2015[^48-2] über das elektronische Patientendossier (EPDG) integriert, so sind die vom Eidgenössischen Departement des Innern (EDI) gestützt auf Artikel 10 Absatz 3 Buchstabe b der Verordnung vom 22. März 2017[^48-3] über das elektronische Patientendossier (EPDV) geregelten Austauschformate zu verwenden.
+
+[^48-1]: Eingefügt durch Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
+[^48-2]: [SR 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^48-3]: [SR 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 #### Art. 49
 
@@ -1068,25 +1072,13 @@ Die Swissmedic veröffentlicht:
 
 <sup>3</sup> Die Veröffentlichungen nach Absatz 1 erfolgen in der jeweiligen Verfahrenssprache. Sie können in Englisch erfolgen, wenn die ihnen zugrunde liegenden wissenschaftlichen Dokumente in dieser Sprache erstellt wurden.
 
-### 2. Abschnitt: Empfehlungen zur Dosierung von Arzneimitteln in der Pädiatrie
+### 2. Abschnitt: …
 
-#### Art. 69
+#### Art. 69 und 70
 
-**Erfassung und Harmonisierung**
+[^6970-1]
 
-<sup>1</sup> Die Medizinalpersonen der schweizerischen Kinderspitäler übermitteln dem Bundesamt für Gesundheit (BAG) die in Anhang 4 umschriebenen Angaben zur Off-Label-Dosierung für Arzneimittel, die in der Pädiatrie zum Einsatz kommen.
-
-<sup>2</sup> Die Angaben müssen dem aktuellen Stand von Wissenschaft und Technik sowie den Regeln der medizinischen und pharmazeutischen Wissenschaften entsprechen.
-
-<sup>3</sup> Das BAG erstellt gestützt auf diese Angaben national harmonisierte Off-Label-Dosierungsempfehlungen.
-
-#### Art. 70
-
-**Veröffentlichung der harmonisierten Off‑Label‑Dosierungsempfehlungen**
-
-<sup>1</sup> Die harmonisierten Off-Label-Dosierungsempfehlungen werden den Fachpersonen sowie den für den Vollzug des HMG zuständigen Stellen des Bundes und der Kantone in einem Verzeichnis in einem interoperablen Format online zur Verfügung gestellt. Ihr Abruf ist kostenlos.
-
-<sup>2</sup> Diese Empfehlungen können in Klinikinformationssystemen oder ähnlichen Systemen weiterverwendet werden. Diese Systeme müssen sicherstellen, dass beim Abruf der Daten auf die Herkunft der Empfehlungen hingewiesen wird.
+[^6970-1]: Aufgehoben durch Ziff. I der V vom 19. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
 
 ### 3. Abschnitt: Veröffentlichung von Ergebnissen klinischer Versuche
 
@@ -1338,7 +1330,7 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), vom 28. April 2023 ([AS 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)), vom 12. Aug. 2024 ([AS 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)) und vom 25. Sept. 2025, in Kraft seit 1. Nov. 2025 (AS **202****5** 602).
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), vom 28. April 2023 ([AS 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)), vom 12. Aug. 2024 ([AS 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)) und vom 25. Sept. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 602](https://fedlex.data.admin.ch/eli/oc/2025/602)).
 [^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/602](https://fedlex.data.admin.ch/eli/oc/2025/602) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
@@ -1379,27 +1371,9 @@ Anhang 3[^t-3]
 [^annex3-lvlu1-10]: Durchführungsverordnung (EU) 2021/1281 der Kommission vom 2. August 2021 mit Bestimmungen zur Anwendung der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates in Bezug auf die gute Pharmakovigilanz-Praxis sowie das Format, den Inhalt und die Zusammenfassung der Pharmakovigilanz-Stammdokumentation für Tierarzneimittel; Fassung gemäss ABl. L 279 vom 3.8.2021, S. 15.
 [^annex3-lvlu1-11]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
 
-Anhang 4
+Anhang 4[^t-4]
 
-(Art. 69 Abs. 1)
-
-## Angaben zur Off-Label-Dosierung für Arzneimittel, die in der Pädiatrie zum Einsatz kommen
-
-- 1\.
-
-  Die Medizinalpersonen der schweizerischen Kinderspitäler übermitteln dem BAG die folgenden Angaben, soweit diese vorhanden sind:
-
-  - a. Bezeichnung des Wirkstoffs;
-  - b. Altersgruppe;
-  - c. Kennzeichen Frühgeburt;
-  - d. Körpergewicht;
-  - e. Indikation;
-  - f. Applikationsweg;
-  - g. Einzeldosis;
-  - h. Repetition der Einzeldosis pro Tag;
-  - i. Evidenzlevel.
-
-- 2\. Sie übermitteln dem BAG zudem Bemerkungen, die für die Erarbeitung der Empfehlungen nach Artikel 69 Absatz 3 bedeutsam sind.
+[^t-4]: Aufgehoben durch Ziff. I der V vom 19. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
 
 Anhang 5
 

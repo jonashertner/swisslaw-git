@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2025-11-01
+version: 2026-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20251101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° novembre 2025)
+del 21 settembre 2018 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -45,17 +45,18 @@ La presente ordinanza disciplina:
 - e. l’autorizzazione della vendita per corrispondenza di medicamenti;
 - f. la sorveglianza del mercato e la vigilanza;
 - g. l’informazione del pubblico;
-- h. l’elenco delle raccomandazioni di dosaggio per l’impiego dei medicamenti in pediatria;
+- h.[^1-1] ...
 - i. la pubblicazione dei risultati di studi clinici.
 
-<sup>2</sup> Essa si applica per analogia anche agli espianti standardizzati di cui all’articolo 2 capoverso 1 lettera c dell’ordinanza del 16 marzo 2007[^1-1] sui trapianti.
+<sup>2</sup> Essa si applica per analogia anche agli espianti standardizzati di cui all’articolo 2 capoverso 1 lettera c dell’ordinanza del 16 marzo 2007[^1-2] sui trapianti.
 
 <sup>3</sup> L’articolo 31 non si applica agli espianti standardizzati di cui all’articolo 2 capoverso 1 lettera c numero 2 dell’ordinanza del 16 marzo 2007 sui trapianti.
 
-<sup>4</sup> Le definizioni sono riprese dall’articolo 2 dell’ordinanza del 14 novembre 2018[^1-2] sull’autorizzazione dei medicamenti (OAMed).
+<sup>4</sup> Le definizioni sono riprese dall’articolo 2 dell’ordinanza del 14 novembre 2018[^1-3] sull’autorizzazione dei medicamenti (OAMed).
 
-[^1-1]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
-[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° gen. 2019.
+[^1-1]: Abrogata dalla cifra I dell’O del 19 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
+[^1-2]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
+[^1-3]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° gen. 2019.
 
 ## Capitolo 2: Procedura di omologazione
 
@@ -712,10 +713,13 @@ La documentazione deve contenere le seguenti informazioni:
 - d. data della dispensazione;
 - e. dati che garantiscono la trasparenza della decisione relativa alla dispensazione.
 
-<sup>3</sup> Se la documentazione è integrata nella cartella informatizzata del paziente secondo la legge federale del 19 giugno 2015[^48-1] sulla cartella informatizzata del paziente (LCIP), devono essere utilizzati i formati di scambio stabiliti dal Dipartimento federale dell’interno (DFI) in virtù dell’articolo 10 capoverso 3 lettera b dell’ordinanza del 22 marzo 2017[^48-2] sulla cartella informatizzata del paziente (OCIP).
+<sup>2bis</sup> Nel caso di dispensazione di medicamenti di cui all’articolo 45 capoverso 1 lettera c che non contengono principi attivi con un potenziale di abuso noto, il requisito di cui al capoverso 2 lettera e è soddisfatto se l’indicazione è documentata. Se il medicamento contiene un principio attivo con un potenziale di abuso noto ma l’anamnesi consente di escludere ampiamente un abuso, ciò deve essere inoltre documentato di conseguenza.[^48-1]
 
-[^48-1]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
-[^48-2]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
+<sup>3</sup> Se la documentazione è integrata nella cartella informatizzata del paziente secondo la legge federale del 19 giugno 2015[^48-2] sulla cartella informatizzata del paziente (LCIP), devono essere utilizzati i formati di scambio stabiliti dal Dipartimento federale dell’interno (DFI) in virtù dell’articolo 10 capoverso 3 lettera b dell’ordinanza del 22 marzo 2017[^48-3] sulla cartella informatizzata del paziente (OCIP).
+
+[^48-1]: Introdotto dalla cifra I dell’O del 19 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
+[^48-2]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^48-3]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 #### Art. 49
 
@@ -1068,25 +1072,13 @@ Swissmedic pubblica:
 
 <sup>3</sup> Le pubblicazioni di cui al capoverso 1 avvengono nella rispettiva lingua della procedura. Possono essere redatte in inglese se i documenti scientifici su cui si basano sono stati allestiti in questa lingua.
 
-### Sezione 2: Raccomandazioni di dosaggio per i medicamenti in pediatria
+### Sezione 2: ...
 
-#### Art. 69
+#### Art. 69 e 70
 
-**Rilevamento e armonizzazione**
+[^6970-1]
 
-<sup>1</sup> Gli operatori sanitari degli ospedali pediatrici svizzeri trasmettono all’Ufficio federale della sanità pubblica (UFSP) i dati specificati nell’allegato 4 relativi al dosaggio *off-label* dei medicamenti impiegati in pediatria.
-
-<sup>2</sup> I dati devono corrispondere allo stato attuale della scienza e della tecnica nonché alle norme delle scienze mediche e farmaceutiche.
-
-<sup>3</sup> Sulla base di questi dati, l’UFSP formula raccomandazioni di dosaggio *off-label* armonizzate a livello nazionale.
-
-#### Art. 70
-
-**Pubblicazione delle raccomandazioni di dosaggio *off-label* armonizzate**
-
-<sup>1</sup> Le raccomandazioni di dosaggio *off-label* armonizzate sono messe a disposizione degli specialisti e dei servizi federali e cantonali responsabili dell’esecuzione della LATer in un elenco pubblicato online in un formato interoperabile. La loro consultazione è gratuita.
-
-<sup>2</sup> Tali raccomandazioni possono essere riutilizzate nei sistemi d’informazione delle cliniche o in sistemi simili. Tali sistemi devono assicurare che la consultazione dei dati rimandi all’origine delle raccomandazioni.
+[^6970-1]: Abrogati dalla cifra I dell’O del 19 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
 
 ### Sezione 3: Pubblicazione dei risultati delle sperimentazioni cliniche
 

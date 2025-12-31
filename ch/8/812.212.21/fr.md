@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2025-11-01
+version: 2026-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20251101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (État le 1<sup>er</sup> novembre 2025)
+du 21 septembre 2018 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -45,17 +45,18 @@ La présente ordonnance règle:
 - e. l’autorisation de vente par correspondance de médicaments;
 - f. la surveillance du marché et la vigilance;
 - g. l’information du public;
-- h. la liste des recommandations de dosage pour l’usage de médicaments en pédiatrie;
+- h.[^1-1] …
 - i. la publication des résultats des essais cliniques.
 
-<sup>2</sup> Elle s’applique également, par analogie, aux transplants standardisés au sens de l’art. 2, al. 1, let. c, de l’ordonnance du 16 mars 2007 sur la transplantation[^1-1].
+<sup>2</sup> Elle s’applique également, par analogie, aux transplants standardisés au sens de l’art. 2, al. 1, let. c, de l’ordonnance du 16 mars 2007 sur la transplantation[^1-2].
 
 <sup>3</sup> L’art. 31 ne s’applique pas aux transplants standardisés au sens de l’art. 2, al. 1, let. c, ch. 2, de l’ordonnance du 16 mars 2007 sur la transplantation.
 
-<sup>4</sup> Les définitions de l’art. 2 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments (OAMéd)[^1-2] sont applicables.
+<sup>4</sup> Les définitions de l’art. 2 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments (OAMéd)[^1-3] sont applicables.
 
-[^1-1]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
-[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
+[^1-1]: Abrogée par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
+[^1-2]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
+[^1-3]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
 
 ## Chapitre 2 Procédure d’autorisation de mise sur le marché
 
@@ -712,10 +713,13 @@ Les informations suivantes doivent être consignées:
 - d. date de la remise;
 - e. informations justifiant la décision de remise.
 
-<sup>3</sup> Si les informations sont enregistrées dans le dossier électronique du patient selon la loi fédérale du 19 juin 2015 sur le dossier électronique du patient (LDEP)[^48-1], les formats d’échange prévus par le Département fédéral de l’intérieur (DFI) en vertu de l’art. 10, al. 3, let. b, de l’ordonnance du 22 mars 2017 sur le dossier électronique du patient (ODEP)[^48-2] doivent être respectés.
+<sup>2bis</sup> L’exigence visée à l’al. 2, let. e, est réputée remplie par la consignation de l’indication lorsque le pharmacien remet un médicaments visé à l’art. 45, al. 1, let. c, qui ne contient aucun principe actif présentant un risque d’abus bien connu. Si le médicament contient un principe actif présentant un risque d’abus bien connu, mais que l’anamnèse permet largement d’exclure tout abus, ces informations doivent être consignées en plus.[^48-1]
 
-[^48-1]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
-[^48-2]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
+<sup>3</sup> Si les informations sont enregistrées dans le dossier électronique du patient selon la loi fédérale du 19 juin 2015 sur le dossier électronique du patient (LDEP)[^48-2], les formats d’échange prévus par le Département fédéral de l’intérieur (DFI) en vertu de l’art. 10, al. 3, let. b, de l’ordonnance du 22 mars 2017 sur le dossier électronique du patient (ODEP)[^48-3] doivent être respectés.
+
+[^48-1]: Introduit par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
+[^48-2]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^48-3]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 #### Art. 49
 
@@ -1068,25 +1072,13 @@ Swissmedic publie:
 
 <sup>3</sup> Les publications visées à l’al. 1 sont effectuées dans la langue de la procédure. Elles peuvent être faites en anglais si les documents scientifiques sur lesquels elles reposent sont rédigés dans cette langue.
 
-### Section 2 Recommandations de dosage pour les médicaments utilisés en pédiatrie
+### Section 2 …
 
-#### Art. 69
+#### Art. 69 et 70
 
-**Collecte et harmonisation**
+[^6970-1]
 
-<sup>1</sup> Les personnes exerçant une profession médicale qui travaillent dans les hôpitaux pédiatriques en Suisse transmettent à l’Office fédéral de la santé publique (OFSP) les données énoncées dans l’annexe concernant le dosage *Off Label* des médicaments utilisés en pédiatrie.
-
-<sup>2</sup> Les données doivent correspondre à l’état des connaissances scientifiques et techniques ainsi qu’aux règles des sciences médicales et pharmaceutiques.
-
-<sup>3</sup> L’OFSP émet sur la base de ces données des recommandations de dosage *Off Label* harmonisées au niveau national.
-
-#### Art. 70
-
-**Publication des recommandations de dosage *Off Label* harmonisées**
-
-<sup>1</sup> Les recommandations de dosage *Off Label* harmonisées sont mises à la disposition des professionnels et des services fédéraux et cantonaux chargés de l’exécution de la LPTh sous la forme d’une liste publiée en ligne dans un format interopérable. Leur consultation est gratuite.
-
-<sup>2</sup> Les recommandations peuvent être réutilisées dans les systèmes d’information des hôpitaux ou dans des systèmes similaires. Ces systèmes doivent garantir que lors de la consultation des données, la source des recommandations est indiquée.
+[^6970-1]: Abrogés par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
 
 ### Section 3 Publication des résultats des essais cliniques
 
@@ -1379,27 +1371,9 @@ Annexe 3[^t-3]
 [^annex3-lvlu1-10]: Règlement d’exécution (UE) 2021/1281 de la Commission du 2 août 2021 portant modalités d’application du règlement (UE) 2019/6 du Parlement européen et du Conseil en ce qui concerne les bonnes pratiques de pharmacovigilance et le format, le contenu et le résumé du dossier permanent du système de pharmacovigilance pour les médicaments vétérinaires; version du JO L 279 du 3.8.2021, p. 15.
 [^annex3-lvlu1-11]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: [www.swissmedic.ch](https://www.swissmedic.ch)*.*
 
-Annexe 4
+Annexe 4[^t-4]
 
-(art. 69, al. 1)
-
-## Données concernant le dosage *Off Label* des médicaments utilisés en pédiatrie
-
-- 1\.
-
-  Les personnes exerçant une profession médicale qui travaillent dans un hôpital pédiatrique suisse transmettent à l’OFSP les données suivantes, dans la mesure où elles sont disponibles:
-
-  - a. dénomination du principe actif;
-  - b. classe d’âge;
-  - c. identifiant pour les nouveau-nés prématurés;
-  - d. poids corporel;
-  - e. indication;
-  - f. mode d’administration;
-  - g. dose individuelle;
-  - h. répétition des doses individuelles par jour;
-  - i. degré d’évidence;
-
-- 2\. En outre, elles communiquent à l’OFSP toute remarque utile à l’élaboration des recommandations visées à l’art. 69, al. 3.
+[^t-4]: Abrogée par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 777](https://fedlex.data.admin.ch/eli/oc/2025/777)).
 
 Annexe 5
 
