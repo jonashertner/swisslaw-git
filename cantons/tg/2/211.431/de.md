@@ -4,13 +4,12 @@ number: "211.431"
 title: Verordnung über das Grundbuch- und Notariatswesen
 short: GNV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-22
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 1991-12-03
 in_force: 1992-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.431"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2850/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ GNV
 
 (GNV)
 
-vom 03.12.1991 (Stand 01.01.2025)
+vom 03.12.1991 (Stand 01.01.2026)
 
 ## 1. Allgemeines
 
@@ -233,7 +232,7 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 **Personendaten**
 
-<sup>1</sup> Neben den in der eidgenössischen Grundbuchverordnung[^24-1] für die Anmeldungsbelege verlangten Daten der Personen, denen Rechte an Grundstücken zustehen, können noch weitere für die Geschäftstätigkeit nötigen Daten, wie Beruf, Wohnadresse und Güterstand aufgenommen werden.
+<sup>1</sup> Neben den in der eidgenössischen Grundbuchverordnung (GBV)[^24-1] für die Anmeldungsbelege verlangten Daten der Personen, denen Rechte an Grundstücken zustehen, können noch weitere für die Geschäftstätigkeit nötigen Daten, wie Beruf, Wohnadresse und Güterstand aufgenommen werden.
 
 [^24-1]: SR [211.432.1](https://db.clex.ch/link/Bund/211.432.1/de)
 
@@ -428,11 +427,9 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 - 1\. befristete Dienstbarkeiten und Grundlasten zufolge Zeitablaufes
 - 2\. Nutzniessungen und Wohnrechte zufolge Ablebens des Berechtigten
-- 3\. Vormerkungen gemäss den Vorschriften der eidgenössischen Verordnung betreffend das Grundbuch (Art. 72 und Art. 76)[^42-1]
+- 3\. Vormerkungen gemäss den Vorschriften der eidgenössischen Verordnung betreffend das Grundbuch (Art. 72 und Art. 76 GBV)
 
 <sup>2</sup> Im Verfahren ist darauf hinzuwirken, dass Eintragungen, die offensichtlich überflüssig sind oder jede rechtliche Bedeutung verloren haben, gelöscht werden.
-
-[^42-1]: SR [211.432.1](https://db.clex.ch/link/Bund/211.432.1/de)
 
 #### § 43
 
@@ -663,7 +660,7 @@ vom 03.12.1991 (Stand 01.01.2025)
 - 3\. vom Einzelrichter des Bezirksgerichts entgegengenommene mündliche Verfügungen (Art. 506 und Art. 507 ZGB)
 - 4\. Erbverträge (Art. 512 folgende ZGB)
 
-<sup>2</sup> Wird dem Amt eine eigenhändige letztwillige Verfügung offen zur Aufbewahrung übergeben, hat der Notar im Einvernehmen mit dem Verfügenden zu prüfen, ob die gesetzlich vorgeschriebenen Formvorschriften erfüllt sind.
+<sup>2</sup> Wird dem Notariat eine eigenhändige letztwillige Verfügung offen zur Aufbewahrung übergeben, hat es im Einvernehmen mit dem Verfügenden zu prüfen, ob die gesetzlich vorgeschriebenen Formvorschriften erfüllt sind.
 
 <sup>3</sup> Alle aufzubewahrenden Verfügungen sind zu registrieren, und dem Verfügenden ist die Aufbewahrung zu bescheinigen.
 
@@ -671,21 +668,25 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 **Ort**
 
-<sup>1</sup> Verfügungen sind in der Regel beim Notariat des Wohnortes des Verfügenden aufzubewahren.
+<sup>1</sup> Verfügungen sind beim Notariat des Wohnortes des Verfügenden aufzubewahren.
+
+<sup>2</sup> Der Verfügende hat dem Notariat den Wechsel des Wohnortes mitzuteilen.
 
 #### § 71
 
 **Einsichtsrecht**
 
-<sup>1</sup> Dritten ist die Einsicht nur mit Zustimmung des Hinterlegers zu gewähren.
+<sup>1</sup> Dritten ist die Einsicht nur mit Zustimmung des Verfügenden oder auf gerichtliche Anordnung hin zu gewähren.
 
 #### § 72
 
 **Herausgabe**
 
-<sup>1</sup> Zu Lebzeiten des Hinterlegers darf die Verfügung nur ihm oder einem ausgewiesenen Vertreter gegen Empfangsbestätigung herausgegeben werden.
+<sup>1</sup> Zu Lebzeiten des Verfügenden darf die Verfügung nur ihm oder einem ausgewiesenen Vertreter gegen Empfangsbestätigung herausgegeben werden.
 
-<sup>2</sup> Ist das Amt, bei dem die Verfügung hinterlegt ist, zur Eröffnung nicht befugt, überweist es die Verfügung bei Bekanntwerden des Todesfalles an die zuständige Eröffnungsbehörde.
+<sup>1<sup>bis</sup></sup> Enthält die Verfügung Anordnungen mehrerer Verfügenden oder haben andere Personen mitgewirkt, müssen alle der Herausgabe zustimmen. Kann eine Zustimmung nicht beigebracht werden, bleibt die Verfügung beim Notariat deponiert oder wird der neu zuständigen kantonalen Hinterlegungsstelle direkt zur weiteren Aufbewahrung zugestellt.
+
+<sup>2</sup> Ist das Notariat, bei dem die Verfügung hinterlegt ist, für die Eröffnung nicht zuständig, überweist es die Verfügung bei Bekanntwerden des Todesfalles an die zuständige Eröffnungsbehörde.
 
 ### 4.5. Eröffnung der Verfügungen von Todes wegen, Erbenruf
 
@@ -693,64 +694,80 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 **Eröffnung des Erbvertrages**
 
-<sup>1</sup> Neben der letztwilligen Verfügung ist auch der Erbvertrag als eröffnungsbedürftige Verfügung zu behandeln, sofern die Parteien im Erbvertrag nicht ausdrücklich den Verzicht auf die Eröffnung vereinbart haben.
+<sup>1</sup> Neben der letztwilligen Verfügung ist auch der Erbvertrag als eröffnungsbedürftige Verfügung zu behandeln.
+
+<sup>2</sup> Auf die Eröffnung des Erbvertrages kann verzichtet werden, wenn
+
+- 1\. die Parteien im Vertrag ausdrücklich den Verzicht auf die Eröffnung vereinbart haben,
+- 2\. der Erblasser neben den Parteien keine weiteren Erben und Begünstigte hinterlässt und
+- 3\. keine Partei die Eröffnung ausdrücklich verlangt.
+
+<sup>3</sup> Beim Erbvertrag sind nur diejenigen Teile zu eröffnen, die durch den Tod des Erblassers wirksam werden.
 
 #### § 74
 
-**Erbenermittlung, Mitteilung**
+**Vorbereitung**
 
-<sup>1</sup> Die gesetzlichen Erben des Erblassers sind aufgrund der Ausweise aus dem Zivilstandsregister zu ermitteln. Diesen sowie bekannten eingesetzten Erben und dem Willensvollstrecker sind Ort und Zeit der Eröffnung mitzuteilen. Die Teilnahme ist fakultativ. Liegt die Verfügung verschlossen vor, sind die Erben darauf hinzuweisen.
+<sup>1</sup> Beim Notariat deponierte Verfügungen von Todes wegen werden nach dem Tod des Erblassers aus dem Depot genommen. Von Dritten eingelieferte Verfügungen werden registriert.
+
+<sup>2</sup> In verschlossen vorliegende Verfügungen ist Einsicht zu nehmen. Es ist zu prüfen, ob vorsorgliche Massnahmen anzuordnen sind (Art. 556 Abs. 3 ZGB), und es ist festzulegen, welche Beteiligten ins Eröffnungsverfahren einbezogen werden müssen.
+
+<sup>3</sup> Die gesetzlichen Erben sowie allfällige eingesetzte Erben und weitere Beteiligte sind in geeigneter Weise zu ermitteln.
 
 #### § 75
 
 **Eröffnung, Protokoll**
 
-<sup>1</sup> Die Verfügung ist den anwesenden Erben vollständig zur Kenntnis zu bringen. Verschlossene Verfügungen sind in Gegenwart der anwesenden Erben zu öffnen.
+<sup>1</sup> Die Eröffnung der Verfügung hat in der Regel innert einem Monat seit der Einlieferung zu erfolgen.
 
 <sup>2</sup> Über die Eröffnung ist ein Protokoll zu erstellen. Dieses hat zu enthalten:
 
-- 1\. den Ort und die Zeit der Eröffnung
-- 2\. das Verzeichnis der eingeladenen Erben
-- 3\. die Erwähnung der anwesenden und vertretenen Erben
-- 4\. die Bezeichnung der eröffneten Verfügung, allenfalls mit kurzer Inhaltsangabe und Beurteilung
-- 5\. den Hinweis auf die den Erben zustehenden Klagerechte (Art. 519 folgende ZGB
-- 6\. den Hinweis auf den persönlichen Anspruch des Vermächtnisnehmers gegenüber gesetzlichen oder eingesetzten Erben (Art. 562 ZGB)
-- 7\. den Hinweis auf ein Willensvollstreckermandat
-- 8\. allfällige Erklärungen anwesender Erben über die Anerkennung oder Nichtanerkennung der eröffneten Verfügung
+- 1\. die Bezeichnung des Erblassers
+- 2\. das Datum und den Ort der Eröffnung
+- 3\. die Bezeichnung der eröffneten Verfügung
+- 4\. ein Verzeichnis der an der Eröffnung Beteiligten
+- 5\. die provisorische Auslegung der Verfügung
+- 6\. den Hinweis auf die den Beteiligten zustehenden Klagerechte
+- 7\. den Hinweis auf die Mitteilungen an die Beteiligten
+- 8\. den Hinweis auf die Ausstellung der Erbenbescheinigung
 
-<sup>3</sup> Das Protokoll ist vom Notar und den anwesenden Erben oder Vertretern zu unterzeichnen. Letzteren ist eine beglaubigte Kopie der Verfügung und eine Kopie des Protokolls zu übergeben.
+<sup>3</sup> Das Protokoll ist vom Notariat zu unterzeichnen.
 
-<sup>4</sup> Können sich anwesende Erben bei der Eröffnung nicht sogleich für die Anerkennung oder Nichtanerkennung der Verfügung entscheiden, ist § 76 Abs. 2 analog anzuwenden.
+<sup>4</sup> …
 
 #### § 76
 
-**Abwesende Erben**
+**Mitteilung an die Erben**
 
-<sup>1</sup> Den nicht anwesenden Erben ist sofort nach der Eröffnung eine beglaubigte Kopie der Verfügung und eine Kopie des Protokolls zuzustellen.
+<sup>1</sup> Den Erben ist nach der Eröffnung eine beglaubigte Kopie der Verfügung und eine Kopie des Protokolls zuzustellen.
 
-<sup>2</sup> Den Erben ist Gelegenheit zu geben, innert 30 Tagen seit der Zustellung beim Notariat schriftlich die Anerkennung oder Nichtanerkennung der Verfügung zu erklären. Unterbleibt die Erklärung, wird für die Ausstellung der Erbenbescheinigung von der Anerkennung ausgegangen.
+<sup>2</sup> Den Erben ist Gelegenheit zu geben, innert einem Monat seit der Mitteilung die Berechtigung von Erben auf Erhalt einer Erbenbescheinigung schriftlich beim Notariat zu bestreiten.
 
 #### § 77
 
-**Mitteilung an Vermächtnisnehmer**
+**Mitteilung an weitere Beteiligte**
 
-<sup>1</sup> An Vermächtnisnehmer erfolgt die Mitteilung der Verfügung auszugsweise.
+<sup>1</sup> An Vermächtnisnehmer und Auflageberechtigte erfolgt die Mitteilung der Verfügung auszugsweise.
+
+<sup>2</sup> Bei minderjährigen Erben und Begünstigten hat eine Mitteilung an die Kindes- und Erwachsenenschutzbehörde an deren Wohnsitz zu erfolgen.
+
+<sup>3</sup> Die Eröffnung ist im Übrigen den bekannten gesetzlichen Vertretern von Erben sowie allfälligen Erbschaftsverwaltern, Erbschaftsliquidatoren und Willensvollstreckern mitzuteilen.
 
 #### § 78
 
-**Übrige Mitteilungen**
+**Öffentliche Bekanntmachung**
 
-<sup>1</sup> Bei Erben oder Bedachten mit unbekanntem Aufenthalt erfolgt die Mitteilung durch öffentliche Bekanntmachung (§ 36 EG ZGB). Der Kindes- und Erwachsenenschutzbehörde am letzten Wohnsitz des Erblassers ist die eröffnete Verfügung mitzuteilen.
+<sup>1</sup> Bei Erben oder Beteiligten mit unbekanntem Aufenthalt erfolgt die Mitteilung durch öffentliche Bekanntmachung (§ 36 EG ZGB).
 
-<sup>2</sup> Bei minderjährigen Erben hat an deren Wohnsitz eine Mitteilung an die Kinder- und Erwachsenenschutzbehörde zu erfolgen.
+<sup>2</sup> …
 
 #### § 79
 
 **Bekanntgabe an den Willensvollstrecker**
 
-<sup>1</sup> Ist in der Verfügung ein Willensvollstrecker bezeichnet, ist ihm unverzüglich eine beglaubigte Kopie der Verfügung zuzustellen, verbunden mit der Aufforderung, die Annahme oder Ablehnung des Auftrages gemäss Art. 517 Abs. 2 ZGB zu erklären.
+<sup>1</sup> Ist in der Verfügung ein Willensvollstrecker bezeichnet, ist ihm dies unverzüglich mitzuteilen, verbunden mit der Aufforderung, die Annahme oder Ablehnung des Auftrages gemäss Art. 517 Abs. 2 ZGB zu erklären.
 
-<sup>2</sup> Bei Annahme des Auftrages ist dem Willensvollstrecker auf Verlangen ein Zeugnis auszustellen.
+<sup>2</sup> Dem Willensvollstrecker ist auf Verlangen ein Zeugnis auszustellen.
 
 #### § 80
 
@@ -764,7 +781,7 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 **Zweck**
 
-<sup>1</sup> Die Erbenbescheinigung erbringt den notariellen Nachweis über die Erbeneigenschaft einer oder mehrerer Personen. Sie kann bei der Erbeneinsetzung (Art. 559 ZGB) sowie bei der gesetzlichen Erbfolge von jedem Erben oder Erbenvertreter verlangt werden.
+<sup>1</sup> Die Erbenbescheinigung erbringt den Nachweis über die Erbeigenschaft einer oder mehrerer Personen. Sie kann von jedem Erben oder dessen Vertreter verlangt werden.
 
 #### § 82
 
@@ -772,13 +789,13 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 <sup>1</sup> Die Erbenbescheinigung darf nicht ausgestellt werden, solange mit der Ausschlagung der Erbschaft (Art. 566 folgende ZGB) gerechnet werden muss oder die Erbfolge ungewiss ist, insbesondere während der Durchführung des öffentlichen Inventars (Art. 580 folgende ZGB) oder der amtlichen Liquidation (Art. 593 folgende ZGB).
 
-<sup>2</sup> Wird bei der Erbeneinsetzung die Verfügung von Todes wegen im Eröffnungsverfahren von gesetzlichen Erben nicht anerkannt (§ 75 und § 76), muss die Ausstellung der Erbenbescheinigung während der einjährigen Klagefrist (Art. 521, Art. 533, Art. 600 ZGB) unterbleiben.
+<sup>2</sup> Wird im Eröffnungsverfahren die Berechtigung von Erben auf Erhalt einer Erbenbescheinigung bestritten (§ 76 Abs. 2), darf während der einjährigen Klagefrist (Art. 521, Art. 533, Art. 600 ZGB) keine Erbenbescheinigung ausgestellt werden.
 
-<sup>3</sup> Nach unbenutztem Fristablauf ist dem Begehren um Ausstellung der Bescheinigung zu entsprechen. Wurde Klage erhoben, ist die Ausgabe während der Dauer des Rechtsstreites untersagt.
+<sup>3</sup> Wird die Bestreitung zurückgezogen oder ist die Klagefrist unbenutzt abgelaufen, kann die Erbenbescheinigung ausgestellt werden. Wurde Klage erhoben, ist die Ausgabe der Erbenbescheinigung bis zur rechtskräftigen Erledigung untersagt.
 
 <sup>4</sup> Im Falle der konkursamtlichen Liquidation ist die Ausstellung einer Erbenbescheinigung ausgeschlossen.
 
-<sup>5</sup> Erbenbescheinigungen aufgrund nicht eröffneter Erbverträge dürfen nur ausgestellt werden, wenn diese von allen Beteiligten anerkannt worden sind.
+<sup>5</sup> …
 
 ### 4.7. Aufbewahrung von Geld und Wertsachen
 
@@ -810,9 +827,17 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 #### § 86
 
-**Anordnung, Mitteilung**
+**Anordnung, Mitteilung, Kosten**
 
-<sup>1</sup> Werden Sicherungsmassregeln verlangt oder von der Behörde als notwendig erachtet, sind sie schriftlich und begründet anzuordnen und den Erben mitzuteilen. Bei der Siegelung kann die Mitteilung auch nach deren Durchführung erfolgen.
+<sup>1</sup> Sicherungsmassregeln werden schriftlich und begründet angeordnet und den Erben und Beteiligten mitgeteilt, wenn
+
+- 1\. sie gesetzlich vorgeschrieben sind,
+- 2\. sie verlangt werden oder
+- 3\. vom Notariat als notwendig erachtet werden.
+
+<sup>2</sup> Das Notariat kann neben den im Gesetz vorgesehenen Massregeln andere oder weitere Massnahmen anordnen, die zur Sicherung des Erbganges dienlich sind.
+
+<sup>3</sup> Die Kosten werden von der Erbschaft getragen. Reicht der Nachlass nicht aus oder wird er nicht angetreten, sind sie von demjenigen zu übernehmen, der die Massnahme verlangt hat.
 
 ### 4.8.2. Siegelung
 
@@ -820,7 +845,11 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 **Zweck**
 
-<sup>1</sup> Die Siegelung besteht darin, dass Gegenstände, Behältnisse oder Räume des Nachlasses unter Siegel gelegt werden, um die Verfügung zu verunmöglichen oder zu erschweren. Die Barschaft, Wertpapiere oder andere besonders gefährdete Wertsachen können in Verwahrung genommen werden.
+<sup>1</sup> Die Siegelung besteht darin, dass Gegenstände, Behältnisse oder Räume des Nachlasses unter Siegel gelegt werden, um die Verfügung zu verunmöglichen oder zu erschweren. Barschaft, Wertpapiere oder andere besonders gefährdete Wertsachen sowie Akten und Schriften können in Verwahrung genommen werden.
+
+<sup>2</sup> Erben und weitere Beteiligte sind verpflichtet, dem Notariat Räume und Behältnisse zu öffnen und wahrheitsgetreu Auskunft zu geben. Stösst die Siegelung auf Widerstand, kann polizeiliche Hilfe in Anspruch genommen werden.
+
+<sup>3</sup> Auf das Anlegen von amtlichen Siegeln kann verzichtet werden, wenn das Vermögen gegen unrechtmässige Veränderungen oder Verschleierungen anderweitig gesichert werden kann.
 
 #### § 88
 
@@ -828,71 +857,83 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 <sup>1</sup> Über die Siegelung ist ein Protokoll zu erstellen.
 
-<sup>2</sup> Von der Massnahme ausgenommene Gegenstände sind im Protokoll ihrer Gattung nach summarisch anzugeben.
+<sup>2</sup> Im Protokoll sind Gegenstände, die von der Massnahme ausgenommen sind oder nicht eingeschlossen oder unter Siegel gelegt werden können, summarisch anzugeben.
 
-<sup>3</sup> Gegenstände, die von Personen benötigt werden, welche mit dem Erblasser im gemeinsamen Haushalt gelebt haben, sind diesen zum Gebrauch zu überlassen. Solche Gegenstände sind im Protokoll zu verzeichnen.
+<sup>3</sup> Gegenstände, die von Personen benötigt werden, die mit dem Erblasser im gemeinsamen Haushalt gelebt haben, sind diesen zum Gebrauch zu überlassen.
 
 #### § 89
 
 **Aufhebung**
 
-<sup>1</sup> Die Aufhebung der Siegelung hat nach Wegfall des Grundes und wenn möglich im Beisein eines Erben stattzufinden.
+<sup>1</sup> Die Aufhebung der Siegelung erfolgt nach Wegfall des Grundes von Amtes wegen oder auf begründetes Gesuch hin.
 
-<sup>2</sup> Ist ein Erbschaftsinventar aufzunehmen, sind die unter Siegel oder in Verwahrung gehaltenen Nachlassgegenstände aufzunehmen.
+<sup>2</sup> Ist ein amtliches Inventar aufzunehmen, sind die unter Siegel oder in Verwahrung gehaltenen Nachlassgegenstände im Inventar aufzuführen. Nach Abschluss der Inventaraufnahme fällt die Siegelung dahin.
 
-<sup>3</sup> Sind Siegel beschädigt oder aufgebrochen worden, ist dies im Protokoll festzuhalten.
+<sup>3</sup> Sind Siegel beschädigt oder aufgebrochen worden oder besteht Verdacht, dass Gegenstände trotz der Siegelung beiseitegeschafft worden sind, ist dies im Protokoll festzuhalten.
 
-### 4.8.3. Erbschaftsinventar
+<sup>4</sup> Bei Verdacht auf eine strafbare Handlung reicht das Notariat eine Strafanzeige ein.
+
+### 4.8.3. Amtliches Inventar
 
 #### § 90
 
 **Aufnahme**
 
-<sup>1</sup> Das Inventar in Erbschaftssachen (§ 64 EG ZGB) ist in der Regel innert zwei Monaten seit Eintritt des Aufnahmegrundes zu erstellen.
+<sup>1</sup> Das amtliche Inventar (§ 64 EG ZGB) ist in der Regel innert zwei Monaten seit Eintritt des Aufnahmegrundes zu erstellen.
+
+<sup>2</sup> Das Notariat kann das Inventar bei Bedarf in der Wohnung des Erblassers, in den Geschäftsräumen oder an einem anderen Ort, wo das Vermögen ermittelt werden kann, aufnehmen.
 
 #### § 91
 
 **Mitteilung**
 
-<sup>1</sup> Der Zeitpunkt der Inventaraufnahme ist den Erben mitzuteilen. Die Teilnahme ist freiwillig.
+<sup>1</sup> Die Erben sind über die Inventaraufnahme zu informieren und aufzufordern, die notwendigen Unterlagen einzureichen.
 
 #### § 92
 
-**Inventar des erstversterbenden Ehegatten**
+**Ergänzende Angaben**
 
-<sup>1</sup> Ist der erstversterbende Ehegatte Erblasser, hat das Inventar das gesamte eheliche Vermögen zu erfassen und gegebenenfalls die güterrechtlichen Ansprüche auszuscheiden.
+<sup>1</sup> Lebte der Erblasser in ungetrennter Ehe, hat das Inventar das gesamte eheliche Vermögen zu erfassen. Die güterrechtlichen Ansprüche und Verpflichtungen des Erblassers sind festzuhalten.
+
+<sup>2</sup> Im Inventar sind lebzeitige Zuwendungen des Erblassers an erbberechtigte Personen aufzuführen.
 
 #### § 93
 
 **Abschluss**
 
-<sup>1</sup> Nach Abschluss des Inventars ist den Erben eine beglaubigte Kopie zuzustellen.
+<sup>1</sup> Die Erben sind über den Abschluss des Inventars und die Ausschlagungsfrist gemäss Art. 568 ZGB zu orientieren. Es ist ihnen eine Kopie des Inventars zuzustellen.
 
-<sup>2</sup> Erben, welche das Inventar nicht bereits bei dessen Aufnahme anerkannt haben, ist eine Frist von 30 Tagen einzuräumen, innert der sie die Anerkennung oder Ablehnung des Inventars schriftlich erklären können. Bei Stillschweigen wird die Anerkennung vermutet.
+<sup>2</sup> Allfällige nachträgliche Korrekturen, Einwendungen und Vorbehalte sind als Nachtrag zum Inventar zu vermerken und allen Erben bekanntzugeben.
 
 ### 4.8.4. Erbschaftsverwaltung
 
 #### § 94
 
-**Grundlage**
+**Grundlage, Protokoll**
 
-<sup>1</sup> Das zu erstellende Inventar bildet die Grundlage der Erbschaftsverwaltung. Ein allenfalls bereits vorhandenes Inventar ist nötigenfalls den veränderten Verhältnissen anzupassen.
+<sup>1</sup> Im Rahmen der Erbschaftsverwaltung ist ein amtliches Inventar aufzunehmen oder ein bereits vorhandenes Inventar zu überprüfen und anzupassen. Das Inventar bildet die Grundlage für die Verwaltung.
+
+<sup>2</sup> Über die Durchführung der Erbschaftsverwaltung ist ein Protokoll zu führen, in dem alle wesentlichen Handlungen und Vorgänge fortlaufend unter Verweis auf die Akten festgehalten werden.
 
 #### § 95
 
 **Durchführung**
 
-<sup>1</sup> Die Erbschaftsverwaltung beschränkt sich im allgemeinen auf die den Nachlass verwaltende und erhaltende Tätigkeit sowie auf die Abklärung und Feststellung der erbrechtlichen Verhältnisse.
+<sup>1</sup> Das Notariat bestimmt, ob es die Erbschaftsverwaltung selbst durchführt oder einen Dritten als Erbschaftsverwalter ernennt.
+
+<sup>2</sup> Die Erbschaftsverwaltung beschränkt sich im Allgemeinen auf die den Nachlass verwaltende und erhaltende Tätigkeit sowie auf die Abklärung und Feststellung der rechtlichen und finanziellen Verhältnisse des Erblassers.
+
+<sup>3</sup> Wenn mit der Aufbewahrung von Fahrnisgegenständen unverhältnismässige Kosten oder wesentliche Nachteile verbunden sind, kann der Erbschaftsverwalter solche ausnahmsweise veräussern.
 
 #### § 96
 
 **Beendigung**
 
-<sup>1</sup> Die Erbschaftsverwaltung endigt mit der Erreichung ihres Zwecks, in jedem Fall mit dem Abschluss der Erbteilung.
+<sup>1</sup> Die Erbschaftsverwaltung endigt mit der Erreichung ihres Zwecks und in jedem Fall mit dem Abschluss der Erbteilung.
 
-<sup>2</sup> Bei Wegfall eines gesetzlichen Errichtungsgrundes fällt die Verwaltung erst dahin, wenn die anordnende Behörde die Beendigung verfügt hat.
+<sup>2</sup> Bei Wegfall eines gesetzlichen Errichtungsgrundes fällt die Verwaltung erst dahin, wenn das Notariat die Beendigung verfügt hat.
 
-<sup>3</sup> Die Auslieferung erfolgt aufgrund einer Abrechnung.
+<sup>3</sup> Die Auslieferung an die Erben erfolgt aufgrund eines das Protokoll ergänzenden Schlussberichts und einer Abrechnung über das verwaltete Vermögen. In den Schlussbericht sind diejenigen Punkte aufzunehmen, die für die Erben aus dem Protokoll und der Abrechnung nicht ersichtlich sind.
 
 ### 4.9. Amtliche Liquidation
 
@@ -942,7 +983,7 @@ vom 03.12.1991 (Stand 01.01.2025)
 
 <sup>1</sup> Bei der erweiterten Mitwirkung hat das Notariat die Aufgabe, die Erbteilung als leitendes und durchführendes Organ im Einvernehmen mit den Erben zum Abschluss zu bringen.
 
-<sup>2</sup> Das Erbschaftsinventar bildet die Grundlage der Teilung.
+<sup>2</sup> Das vorliegende Inventar bildet die Grundlage der Teilung.
 
 <sup>3</sup> Im Einverständnis der Erben kann die Verwaltung der Erbschaft (Art. 554 ZGB) dem Notariat übertragen werden.
 
