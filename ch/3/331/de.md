@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Oktober 2022 über das Strafregister-Informationssyst
 short: StReV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/698"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2022-10-19
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2022-698-20250101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2022-698-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20250101/de"
 
 (Strafregisterverordnung, StReV)
 
-vom 19. Oktober 2022 (Stand am 1. Januar 2025)
+vom 19. Oktober 2022 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Strafregistergesetz vom 17. Juni 2016[^ingress-1] (StReG),
 
 verordnet:
 
-[^ingress-1]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^ingress-1]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 
 ## 1. Kapitel: Gegenstand und Begriffe
 
@@ -80,9 +80,9 @@ Stellt eine Behörde bei der Eintragung von Urteilen in VOSTRA das Vorliegen fol
 - a. bedingt ausgefällte Strafen, die widerrufen wurden, ohne dass eine Gesamtstrafe im Sinne von Artikel 46 Absatz 1 des Strafgesetzbuches (StGB)[^4-1], Artikel 31 Absatz 2 des Jugendstrafgesetzes vom 20. Juni 2003[^4-2] (JStG) oder Artikel 40 Absatz 1 des Militärstrafgesetzes vom 13. Juni 1927[^4-3] (MStG) gebildet wurde: der Behörde, die für den Vollzug des widerrufenen Urteils zuständig ist;
 - b. bedingte Entlassungen aus dem Straf- oder Massnahmenvollzug, die widerrufen wurden, ohne dass eine Gesamtstrafe im Sinne von Artikel 62*a* Absatz 2 oder 89 Absatz 6 StGB oder Artikel 31 Absatz 2 JStG gebildet wurde: der Behörde, die für den Vollzug der durch den Widerruf vollziehbar gewordenen Reststrafe zuständig ist.
 
-[^4-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^4-2]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^4-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^4-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^4-2]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^4-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 ## 3. Kapitel: Online-Zugangsrechte
 
@@ -220,9 +220,9 @@ Für die Gewährleistung der Datensicherheit gelten namentlich:
 
 <sup>3</sup> Die registerführende Stelle sorgt dafür, dass die Vorgaben der Datensicherheit eingehalten werden.
 
-[^11-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
+[^11-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Sept. 2023 angepasst.
 [^11-2]: Fassung gemäss Anhang 2 Ziff. II 15 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^11-3]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^11-3]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 12
 
@@ -242,8 +242,8 @@ Für die Gewährleistung der Datensicherheit gelten namentlich:
 
 <sup>2</sup> Die Protokollierung nach Artikel 25 StReG erfolgt zusätzlich zur Protokollierung nach Artikel 4 DSV[^13-2].
 
-[^13-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
-[^13-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
+[^13-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Sept. 2023 angepasst.
+[^13-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Sept. 2023 angepasst.
 
 #### Art. 14
 
@@ -257,7 +257,7 @@ Für die Gewährleistung der Datensicherheit gelten namentlich:
 
 <sup>3</sup> Die registerführende Stelle legt gegenüber der Empfängerin oder dem Empfänger die Bedingungen der anonymisierten Datenbearbeitung vertraglich fest, soweit dies erforderlich ist, um eine sichere und nicht personenbezogene Verwendung der VOSTRA-Daten zu gewährleisten.
 
-[^14-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
+[^14-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Sept. 2023 angepasst.
 
 ## 5. Kapitel: Inhalt von VOSTRA
 
@@ -281,7 +281,7 @@ Die Datensätze und die dazugehörigen Datenfelder, die sich auf identifizierend
 
 <sup>2</sup> Wird eine Übertretung wegen geringfügiger Schuld und geringfügigen Tatfolgen mit einem Schuldspruch mit Absehen von Strafe sanktioniert, werden dieses Delikt und diese Rechtsfolge auch dann nicht in VOSTRA eingetragen, wenn die Übertretung Teil eines Grundurteils bildet, das andere einzutragende Delikte enthält.
 
-[^16-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 17
 
@@ -330,8 +330,8 @@ Ist keine der Voraussetzungen nach Absatz 1 erfüllt, werden anstelle des analog
 
 <sup>5</sup> Bei ausländischen Grundurteilen, die vor dem Inkrafttreten des StReG in VOSTRA eingetragen wurden, wird keine Referenzkategorie angegeben.
 
-[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^19-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 20
 
@@ -357,9 +357,9 @@ Nicht eintragungspflichtig sind folgende Sanktionen:
 
 <sup>4</sup> Erfüllt ein Grundurteil die Eintragungsvoraussetzungen, so ist auch eintragungspflichtig, dass ein Schuldspruch mit Absehen von Strafe oder keine Zusatzstrafe ausgesprochen wurde; ausgenommen sind die in Artikel 16 genannten Schuldsprüche.
 
-[^20-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^20-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^20-3]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^20-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^20-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^20-3]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 21
 
@@ -441,9 +441,9 @@ Folgende nachträglichen Entscheide müssen in VOSTRA eingetragen werden:
   - 10\. die Aufhebung einer Weisung (Art. 46 Abs. 4 i. V. m. Art. 95 Abs. 4 Bst. c StGB, Art. 95 Abs. 4 Bst. c StGB, Art. 54 MStG),
   - 11\. die Änderung einer Weisung (Art. 46 Abs. 4 i. V. m. Art. 95 Abs. 4 Bst. c StGB, Art. 95 Abs. 4 Bst. c StGB, Art. 54 MStG);
 
-- g. die Aufhebung einer therapeutischen Massnahme, einer Verwahrung oder einer eintragungspflichtigen Schutzmassnahme nach JStG (Art. 56 Abs. 6 StGB, Art. 61 Abs. 4 dritter Satz StGB, Art. 62*a* Abs. 1 Bst. b StGB, Art. 62*a* Abs. 1 Bst. c StGB, Art. 62*c* Abs. 1 Bst. a–c StGB, Art. 63*a* Abs. 2 Bst. a–c StGB, Art. 63*a* Abs. 3 StGB, Art. 64 Abs. 3 StGB, Art. 64*c* Abs. 6 StGB, Art. 47 Abs. 1 MStG, Art. 19 Abs. 1 zweiter Satz JStG, Art. 19 Abs. 2 JStG);
-- h. die Änderung einer therapeutischen Massnahme, einer Verwahrung oder einer eintragungspflichtigen Schutzmassnahme nach JStG (Art. 62*a* Abs. 1 Bst. b StGB, Art. 62*c* Abs. 3 StGB, Art. 62*c* Abs. 4 StGB, Art. 62*c* Abs. 6 StGB, Art. 63*b* Abs. 5 StGB, Art. 64*c* Abs. 3 StGB, Art. 65 Abs. 1 erster Satz StGB, Art. 47 Abs. 1 MStG, Art. 18 Abs. 1 erster Satz JStG);
-- i. die nachträgliche Anordnung einer therapeutischen Massnahme oder einer Verwahrung (Art. 65 Abs. 1 erster und zweiter Satz StGB, Art. 65 Abs. 2 StGB, Art. 47 Abs. 1 MStG);
+- g.[^22-4] die Aufhebung einer therapeutischen Massnahme, einer Verwahrung oder einer eintragungspflichtigen Schutzmassnahme nach JStG (Art. 56 Abs. 6 StGB, Art. 61 Abs. 4 dritter Satz StGB, Art. 62*a* Abs. 1 Bst. b StGB, Art. 62*a* Abs. 1 Bst. c StGB, Art. 62*c* Abs. 1 Bst. a–c StGB, Art. 63*a* Abs. 2 Bst. a–c StGB, Art. 63*a* Abs. 3 StGB, Art. 64 Abs. 3 StGB, Art. 64*c* Abs. 6 StGB, Art. 47 Abs. 1 MStG, Art. 19 Abs. 1 zweiter Satz JStG, Art. 19 Abs. 2 JStG, Art. 19*c* Abs. 3 JStG);
+- h.[^22-5] die Änderung einer therapeutischen Massnahme, einer Verwahrung oder einer eintragungspflichtigen Schutzmassnahme nach JStG (Art. 62*a* Abs. 1 Bst. b StGB, Art. 62*c* Abs. 3 StGB, Art. 62*c* Abs. 4 StGB, Art. 62*c* Abs. 6 StGB, Art. 63*b* Abs. 5 StGB, Art. 64*c* Abs. 3 StGB, Art. 65 Abs. 1 erster Satz StGB, Art. 47 Abs. 1 MStG, Art. 15 Abs. 5 JStG, Art. 18 Abs. 1 erster Satz JStG, Art. 19*c* Abs. 1 und 3 JStG);
+- i.[^22-6] die nachträgliche Anordnung einer therapeutischen Massnahme oder einer Verwahrung (Art. 65 Abs. 1 erster und zweiter Satz StGB, Art. 65 Abs. 2 StGB, Art. 47 Abs. 1 MStG, Art. 19*c* Abs. 1 JStG, Art. 27*a* Abs. 1 JStG);
 - j.
 
   folgende flankierende Anordnungen während einer laufendenambulanten Behandlung:
@@ -470,9 +470,9 @@ Folgende nachträglichen Entscheide müssen in VOSTRA eingetragen werden:
   - 1\. die Aufhebung des Verbots (Art. 67*c* Abs. 4–6 StGB, Art. 50*c* Abs. 4–6 MStG, Art. 19 Abs. 1 zweiter Satz JStG, Art. 19 Abs. 2 JStG),
   - 2\. die inhaltliche Einschränkung des Verbots (Art. 67*c* Abs. 4 und 5 StGB, Art. 50*c* Abs. 4 und 5 MStG, Art. 18 Abs. 1 erster Satz JStG),
   - 3\. die zeitliche Einschränkung des Verbots (Art. 67*c* Abs. 4 und 5 StGB, Art. 50*c* Abs. 4 und 5 MStG, Art. 18 Abs. 1 erster Satz JStG),
-  - 4\. die inhaltliche Erweiterung des Verbots (Art. 67*d* Abs. 1 StGB, Art. 50*d* Abs. 1 MStG, Art. 18 Abs. 1 erster Satz JStG),
-  - 5\. die Verlängerung des Verbots (Art. 67 Abs. 2<sup>bis</sup> und Art. 67*b* Abs. 5 StGB, Art. 50 Abs. 2<sup>bis</sup> und Art. 50*b* Abs. 5 MStG, Art. 18 Abs. 1 erster Satz JStG),
-  - 6\. die Anordnung eines neuen Verbots (Art. 67*d* Abs. 1 und 2 StGB, Art. 50*d* Abs. 1 und 2 MStG, Art. 18 Abs. 1 erster Satz JStG, Art. 19 Abs. 4 JStG),
+  - 4\.[^22-7] die inhaltliche Erweiterung des Verbots (Art. 67*d* Abs. 1 StGB, Art. 50*d* Abs. 1 MStG, Art. 18 Abs. 1 erster Satz JStG, Art. 19*b* Abs. 3 JStG),
+  - 5\.[^22-8] die Verlängerung des Verbots (Art. 67 Abs. 2<sup>bis</sup> und Art. 67*b* Abs. 5 StGB, Art. 50 Abs. 2<sup>bis</sup> und Art. 50*b* Abs. 5 MStG, Art. 18 Abs. 1 erster Satz JStG, Art. 19*b* Abs. 2 JStG),
+  - 6\.[^22-9] die Anordnung eines neuen Verbots (Art. 67*d* Abs. 1 und 2 StGB, Art. 50*d* Abs. 1 und 2 MStG, Art. 18 Abs. 1 erster Satz JStG, Art. 19*b* Abs. 1 und 3 JStG),
   - 7\. der Widerruf des bedingten oder teilbedingten Vollzugs einer Sanktion oder einer bedingten Entlassung (Art. 67*c* Abs. 8 i. V. m. Art. 95 Abs. 5 StGB, Art. 50*c* Abs. 8 MStG i. V. m. Art. 95 Abs. 5 StGB),
   - 8\. die Verlängerung der Probezeit des bedingten oder teilbedingten Vollzugs einer Sanktion oder einer bedingten Entlassung (Art. 67*c* Abs. 8 i. V. m. Art. 95 Abs. 4 Bst. a StGB, Art. 50*c* Abs. 8 MStG i. V. m. Art. 95 Abs. 4 Bst. a StGB),
   - 9\. die Anordnung der Bewährungshilfe (Art. 67*c* Abs. 7 und 7<sup>bis</sup> StGB, Art. 50*c* Abs. 7 und 7<sup>bis</sup> MStG),
@@ -482,7 +482,7 @@ Folgende nachträglichen Entscheide müssen in VOSTRA eingetragen werden:
   - 13\. die Änderung einer Weisung (Art. 67*c* Abs. 8 i. V. m. Art. 95 Abs. 4 Bst. c StGB, Art. 50*c* Abs. 8 MStG i. V. m. Art. 95 Abs. 4 Bst. c StGB);
 
 - m. die Begnadigung (Art. 383 StGB, Art. 232*a* MStG) und die Amnestie (Art. 384 StGB, Art. 232*e* MStG);
-- n. die Erklärung zur Vollstreckbarkeit des Grundurteils in der Schweiz (Art. 106 des Rechtshilfegesetzes vom 20. März 1981[^22-4]);
+- n. die Erklärung zur Vollstreckbarkeit des Grundurteils in der Schweiz (Art. 106 des Rechtshilfegesetzes vom 20. März 1981[^22-10]);
 - o.
 
   folgende Entscheide im Zusammenhang mit der Landesverweisung:
@@ -490,7 +490,8 @@ Folgende nachträglichen Entscheide müssen in VOSTRA eingetragen werden:
   - 1\. der Aufschub des Vollzugs der Landesverweisung (Art. 66*d* StGB),
   - 2\. die Aufhebung des Aufschubs des Vollzugs der Landesverweisung (Art. 66*d* StGB);
 
-- p. die nachträgliche Anordnung einer Strafe nach Artikel 100<sup>ter</sup> Ziffer 4 StGB in der Fassung vom 18. März 1971[^22-5].
+- p. die nachträgliche Anordnung einer Strafe nach Artikel 100<sup>ter</sup> Ziffer 4 StGB in der Fassung vom 18. März 1971[^22-11];
+- q.[^22-12] die Aufhebung des Verwahrungsvorbehalts (Art. 25a Abs. 4 JStG).
 
 <sup>2</sup> Die Datensätze und die dazugehörigen Datenfelder von eintragungspflichtigen nachträglichen Entscheiden, die in einem Zugangsprofil sichtbar sind, sind in Anhang 3 geregelt.
 
@@ -498,11 +499,18 @@ Folgende nachträglichen Entscheide müssen in VOSTRA eingetragen werden:
 
 <sup>4</sup> Bei den nachträglichen Entscheiden wird auch die Festlegung eines fiktiven Vollzugsende-Datums nach Artikel 44 eingetragen, sofern das tatsächliche Vollzugsende nicht durch einen echten nachträglichen Entscheid belegt werden kann.
 
-[^22-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^22-2]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^22-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^22-4]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^22-5]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^22-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^22-2]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^22-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^22-4]: Fassung gemäss Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-5]: Fassung gemäss Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-6]: Fassung gemäss Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-7]: Fassung gemäss Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-8]: Fassung gemäss Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-9]: Fassung gemäss Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-10]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^22-11]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^22-12]: Eingefügt durch Ziff. I der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
 
 #### Art. 23
 
@@ -572,8 +580,8 @@ Die Datensätze und die dazugehörigen Datenfelder von Systemdaten, die in einem
 
 <sup>4</sup> Die aufbereiteten Systemmeldungen werden von den registerführenden Behörden an die Adressatinnen und Adressaten in ihrem Zuständigkeitsbereich verschickt.
 
-[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^25-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 26
 
@@ -669,8 +677,8 @@ Die folgenden Grundurteile, nachträglichen Entscheide und Vollzugsdaten sind in
 <tr><td>i. die Gutheissung eines Gesuchs um Berechnung der Frist für die Entfernung des Grundurteils nach Artikel 30 Absatz 2 Buchstabe n zweiter Teilsatz StReG:</td><td>unverzüglich.</td></tr>
 </table>
 
-[^33-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^33-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^33-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^33-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 34
 
@@ -915,7 +923,7 @@ In welche automatisch generierten Systemdaten nach Artikel 24 die jeweiligen Zug
 
 Auf Wunsch des Bestellers wird anstelle eines gedruckten Privat- oder Sonderprivatauszuges ein Auszug übermittelt, der mit einer geregelten elektronischen Signatur oder mit einem geregelten elektronischen Siegel nach dem Bundesgesetz vom 18. März 2016[^48-1] über die elektronische Signatur versehen ist.
 
-[^48-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^48-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 49
 
@@ -956,10 +964,10 @@ Das SEM darf die zum Vollzug des Asylgesetzes vom 26. Juni 1998[^50-4] einsehbar
 
 <sup>3</sup> Die in den Absätzen 1 und 2 erwähnten Zwecke gelten auch für Verarbeitung von Meldungen nach Artikel 62 Absatz 2 StReG.
 
-[^50-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^50-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^50-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^50-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^50-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^50-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^50-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^50-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 51
 
@@ -1043,8 +1051,8 @@ Für folgende Dienstleistungen wird die Gebühr um den nachstehenden Betrag erh�
 
 <sup>6</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^54-2].
 
-[^54-1]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
-[^54-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^54-1]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
+[^54-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### 4. Abschnitt: Automatische Weiterleitung von Daten aus VOSTRA an Behörden
 
@@ -1092,8 +1100,8 @@ Verfügt die betroffene Person über keinen Wohnsitz in der Schweiz, so erfolgt 
 - a. bei Grundurteilen der zivilen Strafbehörden: an die Strassenverkehrsbehörden des Kantons, in dem die urteilende Behörde ihren Sitz hat;
 - b. bei Grundurteilen der Militärjustizbehörden: an die Strassenverkehrsbehörde des Kantons, in dem die Koordinationsstelle der Militärjustiz ihren Sitz hat.
 
-[^56-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^56-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^56-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^56-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 57
 
@@ -1173,7 +1181,7 @@ VOSTRA meldet den zuständigen kantonalen Waffenbehörden über elektronische Sc
   - 1\. in strukturierter Form die im Behördenauszug 1 online sichtbare AHV-Nummer nach Anhang 1 Ziffer 1.1.1,
   - 2\. im PDF-Format die in der PDF-Ansicht des Behördenauszugs 1 sichtbaren Daten nach Anhang 1, mit Ausnahme der Bearbeitungsvermerke (Anhang 1 Ziff. 2) aber einschliesslich der AHV-Nummer (Anhang 1 Ziff. 1.1.1).
 
-[^60-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^60-1]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 61
 
@@ -1252,7 +1260,7 @@ Basierend auf dieser Liste meldet VOSTRA am nächsten Tag folgende Daten über d
     - – Datum und Uhrzeit der Erfassung des Verbots (Anhang 2 Ziff. 1.9.1.1 oder Anhang 3 Ziff. 1.6.1.1).
 
 [^61a-1]: Eingefügt durch Anhang der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^61a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^61a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 7. Kapitel: Meldung von Todesfällen an VOSTRA
 
@@ -1599,16 +1607,18 @@ Anhang 2
 <tr><td>5.6 Voraussichtliches Datum des Nichterscheinens im SPA</td><td>X</td><td>—</td><td>SPA</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^annex2-lvlu1-1]: [SR 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 [^annex2-lvlu1-2]: [AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)
 [^annex2-lvlu1-3]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^annex2-lvlu1-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^annex2-lvlu1-4]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
-Anhang 3
+Anhang 3[^t-1]
 
 (Art. 22, 24 Bst. c, 45 Abs. 1 und 47)
 
 ## Datensätze und Datenfelder von eintragungspflichtigen nachträglichen Entscheiden, die in einem Zugangsprofil sichtbar sind (ohne identifizierende Angaben zur Person)
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
 
 **B1** = aufgeführte Datenfelder sind im Behördenauszug 1 ersichtlich
 
@@ -1665,7 +1675,6 @@ Anhang 3
 <tr><td>4.4.3.2 Eröffnungsdatum des NEN (Beginn der Probezeit)</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 <tr><td>4.4.3.3 Ende der Probezeit</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 <tr><td>4.4.3.4 Zusätzliche Anordnungen während der Probezeit mit Angabe, ob Bewährungshilfe, Begleitperson, Weisung oder ambulante Behandlung</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td></tr>
 <tr><td>5. **Beim NEN «Änderung der Weisung»:**</td><td></td><td></td><td></td></tr>
 <tr><td>5.1 Vermerk, falls NEN nicht wegen einer Nichtbewährung ausgesprochen wurde</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 <tr><td>6. **Beim NEN «Anordnung der Zuteilung einer Begleitperson»:** (Es sind keine zusätzlichen Felder vorhanden.)</td><td></td><td></td><td></td></tr>
@@ -1676,10 +1685,10 @@ Anhang 3
 <tr><td>9. **Beim NEN «Anordnung eines neuen Verbots»:** (bezieht sich auf ein Tätigkeitsverbot oder Kontakt- und Rayonverbot)</td><td></td><td></td><td></td></tr>
 <tr><td>9.1 Bezeichnung des neu angeordneten Verbots</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 <tr><td>9.2 Alle Felder nach Anhang 2 Ziff. 3.4.4</td><td>(siehe Anhang 2 Ziff. 3.4.4)</td><td>(siehe Anhang 2 Ziff. 3.4.4)</td><td>(siehe Anhang 2 Ziff. 3.4.4)</td></tr>
+<tr><td>9<sup>bis</sup>. **Beim NEN «Aufhebung des Verwahrungsvorbehalts»:** (Es sind keine zusätzlichen Felder vorhanden.)</td><td></td><td></td><td></td></tr>
 <tr><td>10. **Beim NEN «Aufhebung der Zuteilung der Begleitperson»:** (Es sind keine zusätzlichen Felder vorhanden.)</td><td></td><td></td><td></td></tr>
 <tr><td>11. **Beim NEN «Aufhebung der Bewährungshilfe»:**</td><td></td><td></td><td></td></tr>
 <tr><td>11.1 Vermerk, falls NEN nicht wegen einer Nichtbewährung ausgesprochen wurde</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td></tr>
 <tr><td>12. **Beim NEN «Aufhebung der Massnahme»:** (nicht für Tätigkeits-, Kontakt- und Rayonverbote geeignet)</td><td></td><td></td><td></td></tr>
 <tr><td>12.1 Bezeichnung der aufgehobenen Massnahme</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 <tr><td>12.2 Entlassungsdatum</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
@@ -1731,7 +1740,6 @@ Anhang 3
 <tr><td>21.4.3.2 Eröffnungsdatum des NEN (Beginn der Probezeit)</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 <tr><td>21.4.3.3 Ende der Probezeit</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 <tr><td>21.4.3.4 Zusätzliche Anordnungen während der Probezeit mit Angabe, ob Bewährungshilfe, Begleitperson, Weisung oder ambulante Behandlung</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td></tr>
 <tr><td>22. **Beim NEN «Erklärung zur Vollstreckbarkeit des Grundurteils in der Schweiz»:** (nur bei ausländischen Grundurteilen, welche in der Schweiz vollstreckt werden)</td><td></td><td></td><td></td></tr>
 <tr><td>22.1 Angabe, ob zur Vollstreckung des Grundurteils eine Anpassung der Sanktion ausgesprochen wurde oder nicht</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 <tr><td>22.2 Falls Anpassung ausgesprochen:</td><td></td><td></td><td></td></tr>
@@ -1793,7 +1801,7 @@ Anhang 3
 <tr><td>36.3 Rechtskraftdatum des NEN (Datum, ab dem die Verlängerung wirksam ist, sofern Verbot bereits vor Rechtskraft abgelaufen ist)</td><td>—</td><td>B1–B4</td><td>alle Auszüge</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^annex3-lvlu1-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^annex3-lvlu1-2]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 
 Anhang 4

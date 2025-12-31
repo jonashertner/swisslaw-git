@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 2022 sul casellario giudiziale informatizzato V
 short: OCaGi
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/698"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2022-10-19
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2022-698-20250101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2022-698-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20250101/it"
 
 (Ordinanza sul casellario giudiziale, OCaGi)
 
-del 19 ottobre 2022 (Stato 1° gennaio 2025)
+del 19 ottobre 2022 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge del 17 giugno 2016[^ingress-1] sul casellario giudiziale (LCaGi),
 
 ordina:
 
-[^ingress-1]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^ingress-1]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 
 ## Capitolo 1: Oggetto e definizioni
 
@@ -80,9 +80,9 @@ Se, nell’ambito dell’iscrizione di sentenze in VOSTRA, un’autorità consta
 - a. pene sospese condizionalmente che sono state revocate senza che sia stata pronunciata una pena unica conformemente all’articolo 46 capoverso 1 del Codice penale (CP)[^4-1], all’articolo 31 capoverso 2 della legge federale del 20 giugno 2003[^4-2] sul diritto penale minorile (DPMin) o all’articolo 40 capoverso 1 del Codice penale militare del 13 giugno 1927[^4-3] (CPM): all’autorità competente per l’esecuzione della sentenza revocata;
 - b. liberazioni condizionali dall’esecuzione di pene o misure che sono state revocate senza che sia stata pronunciata una pena unica conformemente agli articoli 62*a* capoverso 2, 89 capoverso 6 CP o all’articolo 31 capoverso 2 DPMin: all’autorità competente per l’esecuzione della pena residua divenuta esecutiva per effetto della revoca.
 
-[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^4-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^4-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^4-2]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^4-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 ## Capitolo 3: Diritti di accedere in linea ai dati
 
@@ -220,9 +220,9 @@ Per garantire la sicurezza dei dati si applicano in particolare:
 
 <sup>3</sup> Il Servizio del casellario giudiziale provvede affinché i requisiti per la sicurezza dei dati siano rispettati.
 
-[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2023.
-[^11-2]: Nuovo testo giusta l’all. 2 n. II 15 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^11-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° set. 2023.
+[^11-2]: Nuovo testo giusta l’all. 2 cifra II n. 15 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^11-3]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 12
 
@@ -242,8 +242,8 @@ Per garantire la sicurezza dei dati si applicano in particolare:
 
 <sup>2</sup> La verbalizzazione secondo l’articolo 25 LCaGi si aggiunge a quella secondo l’articolo 4 OPDa[^13-2].
 
-[^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2023.
-[^13-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2023.
+[^13-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° set. 2023.
+[^13-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° set. 2023.
 
 #### Art. 14
 
@@ -257,7 +257,7 @@ Per garantire la sicurezza dei dati si applicano in particolare:
 
 <sup>3</sup> Il Servizio del casellario giudiziale precisa contrattualmente nei confronti del destinatario le condizioni del trattamento dei dati anonimizzati, nella misura in cui ciò è necessario per garantire un uso sicuro e non personalizzato dei dati di VOSTRA.
 
-[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491).Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2023.
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993).Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° set. 2023.
 
 ## Capitolo 5: Contenuto di VOSTRA
 
@@ -281,7 +281,7 @@ L’allegato 1 disciplina i dati e i relativi campi di dati riguardanti i dati i
 
 <sup>2</sup> Se una contravvenzione viene sanzionata da una condanna con rinuncia alla pena poiché la colpa e le conseguenze del fatto sono di lieve entità, non vengono iscritti in VOSTRA né il reato né le conseguenze giuridiche, anche se la contravvenzione è oggetto di una sentenza originaria concernente altri reati che devono essere iscritti.
 
-[^16-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 17
 
@@ -330,8 +330,8 @@ Se nessuna delle condizioni di cui al capoverso 1 è soddisfatta, al posto del r
 
 <sup>5</sup> Per le sentenze originarie straniere iscritte in VOSTRA prima dell’entrata in vigore della LCaGi non è indicata alcuna categoria di riferimento.
 
-[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 20
 
@@ -357,9 +357,9 @@ Non sono soggette all’obbligo d’iscrizione le seguenti sanzioni:
 
 <sup>4</sup> Se una sentenza originaria soddisfa le condizioni per l’iscrizione, è soggetta all’obbligo di iscrizione anche la condanna con rinuncia alla pena o senza pena complementare; sono fatte salve le sentenze di colpevolezza secondo l’articolo 16.
 
-[^20-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^20-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^20-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^20-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^20-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^20-3]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 21
 
@@ -441,9 +441,9 @@ Devono essere iscritte in VOSTRA le seguenti decisioni successive:
   - 10\. la revoca di una norma di condotta (art. 46 cpv. 4 CP in combinato disposto con l’art. 95 cpv. 4 lett. c CP, art. 95 cpv. 4 lett. c CP, art. 54 CPM),
   - 11\. la modifica di una norma di condotta (art. 46 cpv. 4 CP in combinato disposto con l’art. 95 cpv. 4 lett. c CP, art. 95 cpv. 4 lett. c CP, art. 54 CPM);
 
-- g. la revoca di una misura terapeutica, un internamento o una misura protettiva soggetta all’obbligo d’iscrizione secondo il DPMin (art. 56 cpv. 6 CP, art. 61 cpv. 4 terzo per. CP, art. 62*a* cpv. 1 lett. b CP, art. 62*a* cpv. 1 lett. c CP, art. 62*c* cpv. 1 lett. a‒c CP, art. 63*a* cpv. 2 lett. a‒c CP, art. 63*a* cpv. 3 CP, art. 64 cpv. 3 CP, art. 64*c* cpv. 6 CP, art. 47 cpv. 1 CPM, art. 19 cpv. 1 secondo per. DPMin, art. 19 cpv. 2 DPMin);
-- h. la modifica di una misura terapeutica, un internamento o una misura protettiva soggetta all’obbligo d’iscrizione secondo il DPMin (art. 62*a* cpv. 1 lett. b CP, art. 62*c* cpv. 3 CP, art. 62*c* cpv. 4 CP, art. 62*c* cpv. 6 CP, art. 63*b* cpv. 5 CP, art. 64*c* cpv. 3 CP, art. 65 cpv. 1 primo per. CP, art. 47 cpv. 1 CPM, art. 18 cpv. 1 primo per. DPMin);
-- i. la pronuncia a posteriori di una misura terapeutica o un internamento (art. 65 cpv. 1 primo e secondo per. CP, art. 65 cpv. 2 CP, art. 47 cpv. 1 CPM);
+- g.[^22-4] la revoca di una misura terapeutica, un internamento o una misura protettiva soggetta all’obbligo d’iscrizione secondo il DPMin (art. 56 cpv. 6 CP, art. 61 cpv. 4 terzo per. CP, art. 62*a* cpv. 1 lett. b CP, art. 62*a* cpv. 1 lett. c CP, art. 62*c* cpv. 1 lett. a‒c CP, art. 63*a* cpv. 2 lett. a‒c CP, art. 63*a* cpv. 3 CP, art. 64 cpv. 3 CP, art. 64*c* cpv. 6 CP, art. 47 cpv. 1 CPM, art. 19 cpv. 1 secondo per. DPMin, art. 19 cpv. 2 DPMin, art. 19*c* cpv. 3 DPMin);
+- h.[^22-5] la modifica di una misura terapeutica, un internamento o una misura protettiva soggetta all’obbligo d’iscrizione secondo il DPMin (art. 62*a* cpv. 1 lett. b CP, art. 62*c* cpv. 3 CP, art. 62*c* cpv. 4 CP, art. 62*c* cpv. 6 CP, art. 63*b* cpv. 5 CP, art. 64*c* cpv. 3 CP, art. 65 cpv. 1 primo per. CP, art. 47 cpv. 1 CPM, art. 15 cpv. 5 DPMin, art. 18 cpv. 1 primo per. DPMin, art. 19*c* cpv. 1 e 3 DPMin);
+- i.[^22-6] la pronuncia a posteriori di una misura terapeutica o un internamento (art. 65 cpv. 1 primo e secondo per. CP, art. 65 cpv. 2 CP, art. 47 cpv. 1 CPM, art. 19*c* cpv. 1 DPMin, art. 27*a* cpv. 1 DPMin);
 - j.
 
   le seguenti disposizioni di accompagnamento durante un trattamento ambulatoriale in corso:
@@ -470,9 +470,9 @@ Devono essere iscritte in VOSTRA le seguenti decisioni successive:
   - 1\. la revoca dell’interdizione o del divieto (art. 67*c* cpv. 4–6 CP, art. 50*c* cpv. 4–6 CPM, art. 19 cpv. 1 secondo per. DPMin, art. 19 cpv. 2 DPMin),
   - 2\. l’attenuazione del contenuto dell’interdizione o del divieto (art. 67*c* cpv. 4 e 5 CP, art. 50*c* cpv. 4 e 5 CPM, art. 18 cpv. 1 primo per. DPMin),
   - 3\. l’attenuazione della durata dell’interdizione o del divieto (art. 67*c* cpv. 4 e 5 CP, art. 50*c* cpv. 4 e 5 CPM, art. 18 cpv. 1 primo per. DPMin),
-  - 4\. l’estensione del contenuto dell’interdizione o del divieto (art. 67*d* cpv. 1 CP, art. 50*d* cpv. 1 CPM, art. 18 cpv. 1 primo per. DPMin),
-  - 5\. la proroga dell’interdizione o del divieto (art. 67 cpv. 2<sup>bis</sup> e art. 67*b* cpv. 5 CP, art. 50 cpv. 2<sup>bis</sup> e art. 50*b* cpv. 5 CPM, art. 18 cpv. 1 primo per. DPMin),
-  - 6\. la pronuncia di una nuova interdizione o di un nuovo divieto (art. 67*d* cpv. 1 e 2 CP, art. 50*d* cpv. 1 e 2 CPM, art. 18 cpv. 1 primo per. DPMin, art. 19 cpv. 4 DPMin),
+  - 4\.[^22-7] l’estensione del contenuto dell’interdizione o del divieto (art. 67*d* cpv. 1 CP, art. 50*d* cpv. 1 CPM, art. 18 cpv. 1 primo per. DPMin, art. 19*b* cpv. 3 DPMin),
+  - 5\.[^22-8] la proroga dell’interdizione o del divieto (art. 67 cpv. 2<sup>bis</sup> e art. 67*b* cpv. 5 CP, art. 50 cpv. 2<sup>bis</sup> e art. 50*b* cpv. 5 CPM, art. 18 cpv. 1 primo per. DPMin, art. 19*b* cpv. 2 DPMin),
+  - 6\.[^22-9] la pronuncia di una nuova interdizione o di un nuovo divieto (art. 67*d* cpv. 1 e 2 CP, art. 50*d* cpv. 1 e 2 CPM, art. 18 cpv. 1 primo per. DPMin, art. 19*b* cpv. 1 e 3 DPMin),
   - 7\. la revoca della sospensione condizionale o della sospensione condizionale parziale dell’esecuzione della sanzione o di una liberazione condizionale (art. 67*c* cpv. 8 CP in combinato disposto con l’art. 95 cpv. 5 CP, art. 50*c* cpv. 8 CPM in combinato disposto con l’art. 95 cpv. 5 CP),
   - 8\. la proroga del periodo di prova della sospensione condizionale o della sospensione condizionale parziale dell’esecuzione della sanzione o di una liberazione condizionale (art. 67*c* cpv. 8 CP in combinato disposto con l’art. 95 cpv. 4 lett. a CP, art. 50*c* cpv. 8 CPM in combinato disposto con l’art. 95 cpv. 4 lett. a CP),
   - 9\. la disposizione dell’assistenza riabilitativa (art. 67*c* cpv. 7 e 7<sup>bis</sup> CP, art. 50*c* cpv. 7 e 7<sup>bis</sup> CPM),
@@ -482,7 +482,7 @@ Devono essere iscritte in VOSTRA le seguenti decisioni successive:
   - 13\. la modifica di una norma di condotta (art. 67*c* cpv. 8 CP in combinato disposto con l’art. 95 cpv. 4 lett. c CP, art. 50*c* cpv. 8 CPM in combinato disposto con l’art. 95 cpv. 4 lett. c CP);
 
 - m. la grazia (art. 383 CP, art. 232*a* CPM) e l’amnistia (art. 384 CP, art. 232*e* CPM);
-- n. la dichiarazione di esecutività in Svizzera della sentenza originaria (art. 106 della legge federale del 20 marzo 1981[^22-4] sull’assistenza internazionale in materia penale);
+- n. la dichiarazione di esecutività in Svizzera della sentenza originaria (art. 106 della legge federale del 20 marzo 1981[^22-10] sull’assistenza internazionale in materia penale);
 - o.
 
   le seguenti decisioni relative all’espulsione:
@@ -490,7 +490,8 @@ Devono essere iscritte in VOSTRA le seguenti decisioni successive:
   - 1\. la sospensione dell’esecuzione dell’espulsione (art. 66*d* CP),
   - 2\. la revoca della sospensione dell’esecuzione dell’espulsione (art. 66*d* CP);
 
-- p. la pronuncia a posteriori di una pena secondo l’articolo 100<sup>ter</sup> numero 4 CP nella versione del 18 marzo 1971[^22-5].
+- p. la pronuncia a posteriori di una pena secondo l’articolo 100<sup>ter</sup> numero 4 CP nella versione del 18 marzo 1971[^22-11];
+- q.[^22-12] la revoca della riserva dell’internamento (art. 25*a* cpv. 4 DPMin).
 
 <sup>2</sup> L’allegato 3 disciplina i dati e i relativi campi di dati riguardanti le decisioni successive soggette all’obbligo d’iscrizione e visibili in un profilo di consultazione.
 
@@ -498,11 +499,18 @@ Devono essere iscritte in VOSTRA le seguenti decisioni successive:
 
 <sup>4</sup> Per le decisioni successive è iscritta anche la determinazione di una data fittizia di fine dell’esecuzione secondo l’articolo 44, nella misura in cui la fine effettiva dell’esecuzione non può essere comprovata da una decisione successiva reale.
 
-[^22-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^22-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^22-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^22-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^22-5]: [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^22-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^22-2]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^22-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^22-4]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-5]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-6]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-7]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-8]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-9]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-10]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^22-11]: [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^22-12]: Introdotta dalla cifra I dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
 
 #### Art. 23
 
@@ -572,8 +580,8 @@ I dati di sistema e i relativi campi di dati che risultano visibili in un profil
 
 <sup>4</sup> Gli avvisi di sistema elaborati sono inviati dalle autorità che gestiscono VOSTRA ai destinatari nel loro ambito di competenza.
 
-[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 26
 
@@ -669,8 +677,8 @@ Le seguenti sentenze originarie e decisioni successive e i seguenti dati d’ese
 <tr><td>i. l’approvazione della richiesta per il computo del termine per l’eliminazione della sentenza originaria secondo l’articolo 30 capoverso 2 lettera n seconda frase LCaGi:</td><td>immediatamente.</td></tr>
 </table>
 
-[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^33-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^33-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 34
 
@@ -915,7 +923,7 @@ Gli allegati 1‒4 disciplinano quali dati di sistema generati automaticamente d
 
 Il richiedente può chiedere che, invece di un estratto per privati o un estratto specifico per privati stampato, gli sia inviato un estratto corredato di una firma elettronica regolamentata o di un sigillo elettronico regolamentato secondo la legge del 18 marzo 2016[^48-1] sulla firma elettronica.
 
-[^48-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^48-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 49
 
@@ -956,10 +964,10 @@ La SEM può utilizzare i dati di VOSTRA visibili ai fini dell’esecuzione della
 
 <sup>3</sup> Gli scopi menzionati ai capoversi 1 e 2 si applicano anche al trattamento delle comunicazioni secondo l’articolo 62 capoverso 2 LCaGi.
 
-[^50-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^50-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^50-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^50-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^50-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^50-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^50-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^50-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 51
 
@@ -1043,8 +1051,8 @@ Per le seguenti prestazioni, l’emolumento è maggiorato come segue:
 
 <sup>6</sup> Per il resto è applicabile l’ordinanza generale dell’8 settembre 2004[^54-2] sugli emolumenti.
 
-[^54-1]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
-[^54-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^54-1]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
+[^54-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Sezione 4: Comunicazione automatica dei dati di VOSTRA alle autorità
 
@@ -1092,8 +1100,8 @@ Se la persona interessata non ha un domicilio in Svizzera, la comunicazione deve
 - a. per le sentenze originarie di autorità penali civili: alle autorità competenti in materia di circolazione stradale del Cantone in cui ha sede l’autorità giudicante;
 - b. per le sentenze originarie di autorità penali militari: alle autorità competenti in materia di circolazione stradale del Cantone in cui ha sede il SERCO della giustizia militare.
 
-[^56-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^56-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^56-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^56-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 57
 
@@ -1173,7 +1181,7 @@ Mediante interfacce elettroniche con i sistemi d’informazione sull’acquisto 
   - 1\. in forma strutturata, il numero AVS che figura in linea nell’estratto 1 per autorità secondo l’allegato 1 numero 1.1.1,
   - 2\. in formato PDF, i dati che figurano nella vista PDF dell’estratto 1 per autorità secondo l’allegato 1, ad eccezione delle note ad uso interno (allegato 1 n. 2), ma includendo il numero AVS (allegato 1 n. 1.1.1).
 
-[^60-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^60-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 61
 
@@ -1252,7 +1260,7 @@ Sulla base di tale elenco, il giorno successivo VOSTRA comunica all’autorità 
     - – data e ora dell’iscrizione dell’interdizione (all. 2 n. 1.9.1.1 o all. 3 n. 1.6.1.1).
 
 [^61a-1]: Introdotto dall’all. dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^61a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^61a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capitolo 7: Comunicazione di decesso a VOSTRA
 
@@ -1447,7 +1455,13 @@ Allegato 2
 
 (art. 21, 24 lett. b, 45 cpv. 1 e 47)
 
+Allegato 3[^t-1]
+
+(art. 22, 24 lett. c, 45 cpv. 1 e 47)
+
 ## Dati e relativi campi di dati riguardanti le sentenze originarie soggette all’obbligo d’iscrizione e visibili in un profilo di consultazione (senza dati identificativi della persona)
+
+[^t-1]: Aggiornato dalla cifra II dell’O del 12 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
 
 **A1**= i dati figurano nell’estratto 1 per autorità
 
@@ -1525,10 +1539,10 @@ Allegato 2
 <tr><td>3.3.4.2 Disposizioni aggiuntive durante il periodo di prova con indicazione se assistenza riabilitativa, accompagnatore, norma di condotta o trattamento ambulatoriale</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>3.3.5 Inoltre, soltanto in caso di pena con condizionale parziale: durata della parte della pena con la condizionale (analogamente alla durata complessiva secondo i n. 3.3.1 e 3.3.2);</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>3.3.6 Inoltre, soltanto per le multe: pena detentiva sostitutiva ordinata nella SO con durata complessiva secondo n. 3.3.1</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
-<tr><td>3.3.7 Inoltre, soltanto in caso di ammonizione qualificata ai sensi dell’art. 22 cpv. 1 DPMin[^annex2-lvlu1-1]: informazioni sul periodo di prova secondo il n. 3.3.4.1 e indicazione se accompagnatore o norma di condotta</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
-<tr><td>3.3.8 Inoltre, per l’interdizione dell’esercizio di una professione secondo l’art. 54 cpv. 1 CP nella versione del 5 ott. 1950[^annex2-lvlu1-2]: indicazioni secondo n. 3.4.4</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
+<tr><td>3.3.7 Inoltre, soltanto in caso di ammonizione qualificata ai sensi dell’art. 22 cpv. 1 DPMin[^annex3-lvlu1-1]: informazioni sul periodo di prova secondo il n. 3.3.4.1 e indicazione se accompagnatore o norma di condotta</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
+<tr><td>3.3.8 Inoltre, per l’interdizione dell’esercizio di una professione secondo l’art. 54 cpv. 1 CP nella versione del 5 ott. 1950[^annex3-lvlu1-2]: indicazioni secondo n. 3.4.4</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>3.4 Indicazioni complementari in caso di misure (oltre alle informazioni secondo n. 3.1)</td><td></td><td></td><td></td></tr>
-<tr><td>3.4.1 Per tutte le misure terapeutiche per adulti, per l’internamento secondo l’art. 43 n. 1 cpv. 2 CP nella versione del 18 marzo 1971[^annex2-lvlu1-3] nonché per le misure ai sensi degli art. 12‒15 DPMin: indicazione se «sospensione dell’esecuzione della pena in favore della misura»</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
+<tr><td>3.4.1 Per tutte le misure terapeutiche per adulti, per l’internamento secondo l’art. 43 n. 1 cpv. 2 CP nella versione del 18 marzo 1971[^annex3-lvlu1-3] nonché per le misure ai sensi degli art. 12‒15 DPMin: indicazione se «sospensione dell’esecuzione della pena in favore della misura»</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>3.4.2 Per il trattamento ambulatoriale: indicazione se assistenza riabilitativa, accompagnatore, norma di condotta</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>3.4.3 Per il divieto di condurre: durata del divieto in anni, mesi, giorni</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>3.4.4 Per l’interdizione di esercitare un’attività o il divieto di avere contatti e di accedere ad aree determinate:</td><td></td><td></td><td></td></tr>
@@ -1538,7 +1552,7 @@ Allegato 2
 <tr><td>3.4.4.2 Informazioni sulla durata dell’interdizione di esercitare un’attività e del divieto di avere contatti e di accedere ad aree determinate:</td><td></td><td></td><td></td></tr>
 <tr><td>3.4.4.2.1 Durata di riferimento come da dispositivo della sentenza con numero di anni, mesi, settimane, giorni, ore o a vita o durata indefinita</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>3.4.4.2.2 Informazioni sull’effetto dell’interdizione/del divieto con la data di inizio validità (data del passaggio in giudicato) con la data di fine validità, come da dispositivo della sentenza</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
-<tr><td>3.4.4.2.3 Eventuali indicazioni sui periodi di sospensione dell’interdizione/del divieto secondo l’art. 67*c* cpv. 2 CP risp. art. 50*c* cpv. 2 CPM[^annex2-lvlu1-4] con data di inizio, data di fine dell’esecuzione, autorità che iscrive i dati</td><td>—</td><td>A1 (i periodi di sospensione rilevanti sono visibili anche nella sezione Informazioni complementari dell’identità principale secondo l’allegato 1 n. 1.4.7.3.2)</td><td>No</td></tr>
+<tr><td>3.4.4.2.3 Eventuali indicazioni sui periodi di sospensione dell’interdizione/del divieto secondo l’art. 67*c* cpv. 2 CP risp. art. 50*c* cpv. 2 CPM[^annex3-lvlu1-4] con data di inizio, data di fine dell’esecuzione, autorità che iscrive i dati</td><td>—</td><td>A1 (i periodi di sospensione rilevanti sono visibili anche nella sezione Informazioni complementari dell’identità principale secondo l’allegato 1 n. 1.4.7.3.2)</td><td>No</td></tr>
 <tr><td>3.4.4.2.4 Eventuale nuovo inizio dell’interdizione/del divieto rilevante per il computo dei termini secondo l’art. 67*c* cpv. 3 CP risp. art. 50*c* cpv. 3 CPM con data</td><td>X</td><td>— (visibile tramite la sezione Informazioni complementari dell’identità principale secondo l’allegato 1 n. 1.4.7.3.1)</td><td>No</td></tr>
 <tr><td>3.4.4.2.5 Data prevista per la fine dell’interdizione/del divieto con la data alla quale, tenendo conto di tutte le indicazioni esistenti, l’interdizione/il divieto non vale più o indicazione che la data di fine non può essere calcolata</td><td>X</td><td>— (visibile tramite la sezione Informazioni complementari dell’identità principale secondo l’allegato 1 n. 1.4.7.3.3)</td><td>Tutti</td></tr>
 <tr><td>3.4.4.3 Disposizioni aggiuntive (durante l’interdizione/il divieto) con indicazione se assistenza riabilitativa, accompagnatore, norma di condotta</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
@@ -1579,14 +1593,10 @@ Allegato 2
 <tr><td>5.6 Probabile data alla quale la sentenza cessa di figurare su SP</td><td>X</td><td>—</td><td>SP</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^annex2-lvlu1-2]: [RU 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)
-[^annex2-lvlu1-3]: [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^annex2-lvlu1-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-
-Allegato 3
-
-(art. 22, 24 lett. c, 45 cpv. 1 e 47)
+[^annex3-lvlu1-1]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^annex3-lvlu1-2]: [RU 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)
+[^annex3-lvlu1-3]: [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^annex3-lvlu1-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 ## Dati e relativi campi di dati riguardanti le decisioni successive soggette all’obbligo d’iscrizione e visibili in un profilo di consultazione (senza dati identificativi della persona)
 
@@ -1628,7 +1638,7 @@ Allegato 3
 <tr><td>2.1 Se nella DS è indicata la pena residua: durata della pena residua con indicazione di anni, mesi, settimane, giorni</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>2.2 Se nella DS non è indicata la pena residua: nota secondo cui «non sono state trovate informazioni»</td><td>—</td><td>A1–A4</td><td>No</td></tr>
 <tr><td>3. **Per DS «Amnistia»:**</td><td></td><td></td><td></td></tr>
-<tr><td>3.1 Indicazione «L’amnistia comporta il rilascio immediato» (per calcolare la nuova decorrenza del termine secondo l’art. 67*c* cpv. 3 CP[^annex3-lvlu1-1])</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
+<tr><td>3.1 Indicazione «L’amnistia comporta il rilascio immediato» (per calcolare la nuova decorrenza del termine secondo l’art. 67*c* cpv. 3 CP[^annex3-lvlu2-1])</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>4. **Per DS «Modifica della misura»:** (per la revoca e la disposizione contemporanee di misure; non adatta a un’interdizione di esercitare un’attività o a un divieto di avere contatti e di accedere ad aree determinate)</td><td></td><td></td><td></td></tr>
 <tr><td>4.1 Designazione della misura revocata</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>4.2 Designazione della nuova misura disposta</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
@@ -1650,8 +1660,9 @@ Allegato 3
 <tr><td>8.1 Se applicabile, indicazione che la DS non è stata pronunciata in seguito all’insuccesso del periodo di prova</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>9. **Per DS «Nuovo divieto»:** (si riferisce a un’interdizione di esercitare un’attività o un divieto di avere contatti e di accedere ad aree determinate)</td><td></td><td></td><td></td></tr>
 <tr><td>9.1 Designazione del nuovo divieto disposto</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
-<tr><td>9.2 Tutti i campi secondo l’allegato 2 n. 3.4.4</td><td>(Cfr. allegato 2 N. 3.4.4)</td><td>(Cfr. allegato 2 N. 3.4.4)</td><td>(Cfr. allegato 2 N. 3.4.4)</td></tr>
-<tr><td>10. **Per DS «Revoca dell’accompagnatore»:** (non vi sono campi aggiuntivi)</td><td></td><td></td><td></td></tr>
+<tr><td>9.2 Tutti i campi secondo l’allegato 2 n. 3.4.4</td><td>(cfr. allegato 2 n. 3.4.4)</td><td>(cfr. allegato 2 n. 3.4.4)</td><td>(cfr. allegato 2 n. 3.4.4)</td></tr>
+<tr><td>[tab] 9<sup>bis</sup>. **Per DS «Revoca della riserva dell’internamento»:** (non vi sono campi aggiuntivi)</td><td></td><td></td><td></td></tr>
+<tr><td>10. **Per DS «Revoca dell’assegnazione di un accompagnatore»:** (non vi sono campi aggiuntivi)</td><td></td><td></td><td></td></tr>
 <tr><td>11. **Per DS «Revoca dell’assistenza riabilitativa»:**</td><td></td><td></td><td></td></tr>
 <tr><td>11.1 Se applicabile, indicazione che la DS non è stata pronunciata in seguito all’insuccesso del periodo di prova</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>12. **Per DS «Revoca della misura»:** (non adatta a un’interdizione di esercitare un’attività o a un divieto di avere contatti e di accedere ad aree determinate)</td><td></td><td></td><td></td></tr>
@@ -1730,7 +1741,7 @@ Allegato 3
 <tr><td>27.1 Designazione della nuova misura pronunciata</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>27.2 Effetti sull’esecuzione della pena residua con indicazione se sospensione dell’esecuzione in favore della misura, rinuncia all’esecuzione della pena residua, esecuzione della pena residua o se non sono state trovate informazioni</td><td>—</td><td>A1–A4</td><td>Tutti (tranne se: «Non sono state trovate informazioni»)</td></tr>
 <tr><td>27.3 Disposizioni aggiuntive indicazione se assistenza riabilitativa, accompagnatore, norma di condotta</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
-<tr><td>28. **Per DS «Pena successiva secondo l’art. 100****<sup>ter</sup>** **n. 4 vCP»:** (DS secondo il diritto previgente; **CP nella versione del 18 marzo 1971**[^annex3-lvlu1-2])</td><td></td><td></td><td></td></tr>
+<tr><td>28. **Per DS «Pena successiva secondo l’art. 100****<sup>ter</sup>** **n. 4 vCP»:** (DS secondo il diritto previgente; **CP nella versione del 18 marzo 1971**[^annex3-lvlu2-2])</td><td></td><td></td><td></td></tr>
 <tr><td>28.1 Durata della pena detentiva secondo il diritto previgente senza condizionale con indicazione di anni, mesi, settimane, giorni</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 <tr><td>29. **Per DS «Nessuna revoca»:** (si riferisce alla rinuncia alla revoca dell’esecuzione di una pena o di una misura con sospensione condizionale totale o parziale nonostante l’insuccesso del periodo di prova)</td><td></td><td></td><td></td></tr>
 <tr><td>29.1 Designazione della sanzione a cui si fa riferimento</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
@@ -1766,8 +1777,8 @@ Allegato 3
 <tr><td>36.3 Data del passaggio in giudicato della DS (data a partire dalla quale la proroga ha effetto nella misura in cui l’interdizione/il divieto è già scaduto prima del passaggio in giudicato)</td><td>—</td><td>A1–A4</td><td>Tutti</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^annex3-lvlu1-2]: [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^annex3-lvlu2-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^annex3-lvlu2-2]: [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 
 Allegato 4
 
@@ -2163,5 +2174,5 @@ Le ordinanze qui appresso sono modificate come segue:
 
 …[^annex10-lvlu1-2]
 
-[^annex10-lvlu1-1]: [[RU 2006 4503](https://fedlex.data.admin.ch/eli/oc/2006/694); [2008 51](https://fedlex.data.admin.ch/eli/oc/2008/23), [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 13; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 13; [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 2; [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)all. 3 n. 3, [3637](https://fedlex.data.admin.ch/eli/oc/2011/505)all. n. II 2; [2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)II; [2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)n. I 10, [4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. II 4; [2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766); [2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 55; [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)all. n 15]
+[^annex10-lvlu1-1]: [[RU 2006 4503](https://fedlex.data.admin.ch/eli/oc/2006/694); [2008 51](https://fedlex.data.admin.ch/eli/oc/2008/23), [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 13; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 cifra II n. 13; [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)cifra I n. 2; [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)all. 3 n. 3, [3637](https://fedlex.data.admin.ch/eli/oc/2011/505)all. cifra II n. 2; [2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)II; [2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)cifra I n. 10, [4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 cuifra II n. 4; **2018** 4779; **2020** 2929 art. 55; **2021** 132 all. n 15]
 [^annex10-lvlu1-2]: Le mod. possono essere consultate alla [RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698).

@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2022 sur le casier judiciaire informatique VOST
 short: OCJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/698"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2022-10-19
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-698-20250101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/698/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-698-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/698/20250101/fr"
 
 (Ordonnance sur le casier judiciaire, OCJ)
 
-du 19 octobre 2022 (État le 1<sup>er</sup> janvier 2025)
+du 19 octobre 2022 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 17 juin 2016 sur le casier judiciaire (LCJ)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^ingress-1]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 
 ## Chapitre 1 Objet et définitions
 
@@ -80,9 +80,9 @@ L’autorité qui saisit un jugement dans VOSTRA a les obligations suivantes:
 - a. si elle constate que le juge a révoqué un sursis sans fixer de peine d’ensemble au sens de l’art. 46, al. 1, du code pénal (CP)[^4-1], de l’art. 31, al. 2, du droit pénal des mineurs du 20 juin 2003 (DPMin)[^4-2] ou de l’art. 40, al. 1, du code pénal militaire du 13 juin 1927 (CPM)[^4-3], elle transmet la décision de révocation à l’autorité compétente pour l’exécution de la peine qui était assortie du sursis;
 - b. si elle constate que le juge a révoqué la libération conditionnelle de l’exécution d’une peine ou d’une mesure sans fixer de peine d’ensemble au sens de l’art. 62*a*, al. 2, ou 89, al. 6, CP, ou de l’art. 31, al. 2, DPMin, elle transmet la décision de révocation à l’autorité compétente pour l’exécution du solde de la peine.
 
-[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^4-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^4-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^4-2]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^4-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 ## Chapitre 3 Droits d’accès en ligne
 
@@ -220,9 +220,9 @@ La sécurité des données est régie notamment par:
 
 <sup>3</sup> Le Service du casier judiciaire veille au respect des prescriptions en matière de sécurité des données.
 
-[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^11-2]: Nouvelle teneur selon l’annexe 2 ch. II 15 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^11-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^11-3]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 12
 
@@ -242,8 +242,8 @@ La sécurité des données est régie notamment par:
 
 <sup>2</sup> Les consultations sont journalisées conformément à l’art. 25 LCJ, en sus de la journalisation prévue à l’art. 4 OPDo[^13-2].
 
-[^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^13-2]: Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^13-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^13-2]: Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 14
 
@@ -257,7 +257,7 @@ La sécurité des données est régie notamment par:
 
 <sup>3</sup> Il fixe par contrat les conditions que doit remplir le destinataire en matière de traitement des données anonymisées lorsque cela est nécessaire pour garantir que les données sont utilisées de manière sûre et à des fins ne se rapportant pas à des personnes.
 
-[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ## Chapitre 5 Contenu de VOSTRA
 
@@ -281,7 +281,7 @@ Les catégories et champs de données d’identification sont énumérés à l�
 
 <sup>2</sup> Si l’auteur d’une contravention est reconnu coupable, mais qu’aucune peine n’est prononcée parce que sa culpabilité et les conséquences de son acte sont peu importantes, ni la contravention ni ses conséquences juridiques ne sont enregistrées dans VOSTRA, même si le jugement porte aussi sur d’autres infractions donnant lieu à la saisie dans VOSTRA.
 
-[^16-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 17
 
@@ -330,8 +330,8 @@ Si aucune des conditions de l’al. 1 n’est remplie, la mention de l’infract
 
 <sup>5</sup> Aucune catégorie de référence n’est enregistrée pour les jugements étrangers saisis dans VOSTRA avant l’entrée en vigueur de la LCJ.
 
-[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 20
 
@@ -357,9 +357,9 @@ Ne doivent pas être enregistrées:
 
 <sup>4</sup> Si un verdict de culpabilité sans peine ou l’exemption de toute peine complémentaire est prononcé dans un jugement qui doit être saisi, cette donnée doit aussi être enregistrée, à l’exception des cas visés à l’art. 16.
 
-[^20-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^20-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^20-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^20-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^20-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^20-3]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 
 #### Art. 21
 
@@ -441,9 +441,9 @@ Les décisions ultérieures suivantes doivent être saisies dans VOSTRA:
   - 10\. la levée des règles de conduite (art. 46, al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP, art. 54 CPM),
   - 11\. la modification des règles de conduite (art. 46, al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP, art. 54 CPM);
 
-- g. la levée d’une mesure thérapeutique, d’un internement ou d’une mesure de protection ordonnée en application du DPMin et qui doit être saisie (art. 56, al. 6, CP, art. 61, al. 4, 3<sup>e</sup> phrase, CP, art. 62*a,* al. 1, let. b, CP, art. 62*a,* al. 1, let. c, CP, art. 62*c,* al. 1, let. a à c, CP, art. 63*a,* al. 2, let. a à c, CP, art. 63*a,* al. 3, CP, art. 64, al. 3, CP, art. 64*c,* al. 6, CP, art. 47, al. 1, CPM, art. 19, al. 1, 2<sup>e</sup> phrase, DPMin, art. 19, al. 2, DPMin);
-- h. la modification d’une mesure thérapeutique, d’un internement ou d’une mesure de protection ordonnée en application du DPMin et qui doit être saisie (art. 62*a,* al. 1, let. b, CP, art. 62*c,* al. 3, CP, art. 62*c,* al. 4, CP, art. 62*c,* al. 6, CP, art. 63*b,* al. 5, CP, art. 64*c,* al. 3, CP, art. 65, al. 1, 1<sup>re</sup> phrase, CP, art. 47, al. 1, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin);
-- i. la décision d’ordonner a posteriori une mesure thérapeutique ou un internement (art. 65, al. 1, 1<sup>re</sup> et 2<sup>e</sup> phrases, CP, art. 65, al. 2, CP, art. 47, al. 1, CPM);
+- g.[^22-4] la levée d’une mesure thérapeutique, d’un internement ou d’une mesure de protection ordonnée en application du DPMin et qui doit être saisie (art. 56, al. 6, CP, art. 61, al. 4, 3<sup>e</sup> phrase, CP, art. 62*a*, al. 1, let. b, CP, art. 62*a*, al. 1, let. c, CP, art. 62*c*, al. 1, let. a à c, CP, art. 63*a*, al. 2, let. a à c, CP, art. 63*a*, al. 3, CP, art. 64, al. 3, CP, art. 64*c*, al. 6, CP, art. 47, al. 1, CPM, art. 19, al. 1, 2<sup>e</sup> phrase, DPMin, art. 19, al. 2, DPMin, art. 19*c*, al. 3, DPMin);
+- h.[^22-5] la modification d’une mesure thérapeutique, d’un internement ou d’une mesure de protection ordonnée en application du DPMin et qui doit être saisie (art. 62*a*, al. 1, let. b, CP, art. 62*c*, al. 3, CP, art. 62*c*, al. 4, CP, art. 62*c*, al. 6, CP, art. 63*b*, al. 5, CP, art. 64*c*, al. 3, CP, art. 65, al. 1, 1<sup>re</sup> phrase, CP, art. 47, al. 1, CPM, art. 15, al. 5, DPMin, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin, art. 19*c*, al. 1 et 3, DPMin);
+- i.[^22-6] la décision d’ordonner a posteriori une mesure thérapeutique ou un internement (art. 65, al. 1, 1<sup>re</sup> et 2<sup>e</sup> phrases, CP, art. 65, al. 2, CP, art. 47, al. 1, CPM, art. 19*c*, al. 1, DPMin, art. 27*a*, al. 1, DPMin);
 - j.
 
   les décisions relatives à une mesure accessoire au traitement ambulatoire, soit:
@@ -470,9 +470,9 @@ Les décisions ultérieures suivantes doivent être saisies dans VOSTRA:
   - 1\. la levée de l’interdiction (art. 67*c,* al. 4 à 6, CP, art. 50*c,* al. 4 à 6, CPM, art. 19, al. 1, 2<sup>e</sup> phrase, DPMin, art. 19, al. 2, DPMin),
   - 2\. la limitation du contenu de l’interdiction (art. 67*c,* al. 4 et 5, CP, art. 50*c,* al. 4 et 5, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin),
   - 3\. la limitation de la durée de l’interdiction (art. 67*c,* al. 4 et 5, CP, art. 50*c,* al. 4 et 5, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin),
-  - 4\. l’extension du contenu de l’interdiction (art. 67*d,* al. 1, CP, art. 50*d,* al. 1, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin),
-  - 5\. la prolongation de l’interdiction (art. 67, al. 2<sup>bis</sup>, CP et 67*b,* al. 5, CP, art. 50, al. 2<sup>bis</sup>, CPM et 50*b,* al. 5, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin),
-  - 6\. une nouvelle interdiction (art. 67*d,* al. 1 et 2, CP, art. 50*d,* al. 1 et 2, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin, art. 19, al. 4, DPMin),
+  - 4\.[^22-7] l’extension du contenu de l’interdiction (art. 67*d*, al. 1, CP, art. 50*d*, al. 1, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin, art. 19*b*, al. 3, DPMin),
+  - 5\.[^22-8] la prolongation de l’interdiction (art. 67, al. 2<sup>bis</sup>, CP et 67*b*, al. 5, CP, art. 50, al. 2<sup>bis</sup>, CPM et 50*b*, al. 5, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin, art. 19*b*, al. 2, DPMin),
+  - 6\.[^22-9] une nouvelle interdiction (art. 67*d*, al. 1 et 2, CP, art. 50*d*, al. 1 et 2, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin, art. 19*b*, al. 1 et 3, DPMin),
   - 7\. la révocation du sursis ou du sursis partiel ou bien de la libération conditionnelle (art. 67*c,* al. 8, CP en relation avec l’art. 95, al. 5, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 5, CP),
   - 8\. la prolongation de la mise à l’épreuve dont est assorti un sursis ou un sursis partiel ou bien une libération conditionnelle (art. 67*c,* al. 8, CP en relation avec l’art. 95, al. 4, let. a, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 4, let. a, CP),
   - 9\. la prescription d’une assistance de probation (art. 67*c*, al. 7 et 7<sup>bis</sup>, CP, art. 50*c*, al. 7 et 7<sup>bis</sup>, CPM),
@@ -482,7 +482,7 @@ Les décisions ultérieures suivantes doivent être saisies dans VOSTRA:
   - 13\. la modification des règles de conduite (art. 67*c,* al. 8, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 4, let. c, CP);
 
 - m. la grâce (art. 383 CP, art. 232*a* CPM) et l’amnistie (art. 384 CP, art. 232*e* CPM);
-- n. l’exequatur (art. 106 de la loi du 20 mars 1981 sur l’entraide pénale internationale[^22-4]);
+- n. l’exequatur (art. 106 de la loi du 20 mars 1981 sur l’entraide pénale internationale[^22-10]);
 - o.
 
   les décisions relatives à une expulsion, soit:
@@ -490,7 +490,8 @@ Les décisions ultérieures suivantes doivent être saisies dans VOSTRA:
   - 1\. le report de l’exécution de l’expulsion (art. 66*d* CP),
   - 2\. la levée du report de l’exécution de l’expulsion (art. 66*d* CP);
 
-- p. l’infliction ultérieure d’une peine au sens de l’art. 100<sup>ter</sup>, ch. 4, CP dans la version du 18 mars 1971[^22-5].
+- p. l’infliction ultérieure d’une peine au sens de l’art. 100<sup>ter</sup>, ch. 4, CP dans la version du 18 mars 1971[^22-11];
+- q.[^22-12] la levée de la réserve de l’internement (art. 25a, al. 4, DPMin).
 
 <sup>2</sup> Les catégories et champs de données relatifs aux décisions ultérieures qui doivent être saisies sont énumérés à l’annexe 3 avec les profils de consultation correspondants.
 
@@ -498,11 +499,18 @@ Les décisions ultérieures suivantes doivent être saisies dans VOSTRA:
 
 <sup>4</sup> Si une date théorique de fin de l’exécution est fixée en vertu de l’art. 44, elle est enregistrée dans VOSTRA tant qu’aucune décision ultérieure proprement dite ne permet d’arrêter la date à laquelle l’exécution prendra effectivement fin.
 
-[^22-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^22-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^22-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^22-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^22-5]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^22-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^22-2]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
+[^22-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^22-4]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-5]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-6]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-7]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-8]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-9]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
+[^22-10]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^22-11]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^22-12]: Introduite par le ch. I de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
 
 #### Art. 23
 
@@ -572,8 +580,8 @@ Les catégories et champs de données générées par le système qui sont enreg
 
 <sup>4</sup> Les autorités qui gèrent VOSTRA envoient les avis reçus aux autorités à qui ils sont destinés et qui sont de leur ressort.
 
-[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 26
 
@@ -669,8 +677,8 @@ Les jugements, les décisions ultérieures et les données relatives à l’exé
 <tr><td>i. l’approbation d’une demande visant le calcul d’un délai pour l’éliminationau sens de l’art. 30, al. 2, let. n, *in fine*, LCJ:</td><td>immédiatement.</td></tr>
 </table>
 
-[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^33-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^33-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 34
 
@@ -915,7 +923,7 @@ Les données système visées à l’art. 24 qui peuvent être consultées sont 
 
 Toute personne qui demande un extrait destiné aux particuliers ou un extrait spécial peut exiger, au lieu d’un extrait imprimé, un extrait muni d’une signature électronique règlementée ou d’un cachet électronique règlementé au sens de la loi du 18 mars 2016 sur la signature électronique[^48-1].
 
-[^48-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^48-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 49
 
@@ -956,10 +964,10 @@ Dans le cadre de la mise en œuvre de la loi du 26 juin 1998 sur l’asile[^50-4
 
 <sup>3</sup> Les communications visées à l’art. 62, al. 2, LCJ peuvent être traitées dans les buts mentionnés aux al. 1 et 2.
 
-[^50-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^50-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^50-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^50-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^50-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^50-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^50-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^50-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 51
 
@@ -1043,8 +1051,8 @@ Les émoluments sont majorés:
 
 <sup>6</sup> Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^54-2] s’appliquent au demeurant.
 
-[^54-1]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
-[^54-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^54-1]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
+[^54-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Section 4 Communication automatique de données du casier judiciaire à des autorités
 
@@ -1092,8 +1100,8 @@ Si la personne concernée n’a pas de domicile en Suisse, il transmet la commun
 - a. lorsque le jugement a été rendu par une autorité civile de droit pénal: aux autorités compétentes en matière de circulation routière du canton où est située cette autorité;
 - b. lorsque le jugement a été rendu par une autorité militaire de droit pénal: à l’autorité compétente en matière de circulation routière du canton où est situé le service de coordination de la justice militaire.
 
-[^56-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^56-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^56-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^56-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 57
 
@@ -1173,7 +1181,7 @@ VOSTRA signale chaque jour aux offices cantonaux des armes compétents, via une 
   - 1\. sous forme de données structurées, le numéro AVS consultable en ligne sur l’extrait 1 destiné aux autorités au sens de l’annexe 1, ch. 1.1.1,
   - 2\. au format PDF, les données qui figurent sur l’extrait 1 destiné aux autorités au format PDF au sens de l’annexe 1, à l’exception des notes à usage interne (annexe 1, ch. 2), mais numéro AVS compris (annexe 1, ch. 1.1.1).
 
-[^60-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^60-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 61
 
@@ -1252,7 +1260,7 @@ Sur la base de cette liste, VOSTRA communique le jour suivant, via la même inte
     - – date et heure de la première saisie de l’interdiction (annexe 2, ch. 1.9.1.1, ou annexe 3, ch. 1.6.1.1).
 
 [^61a-1]: Introduit par l’annexe de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^61a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^61a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre 7 Communication des décès à VOSTRA
 
@@ -1579,16 +1587,18 @@ Annexe 2
 <tr><td>5.6 Date à laquelle le jugement devrait cesser de figurer sur l’extrait spécial</td><td>X</td><td>—</td><td>Extrait S</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^annex2-lvlu1-1]: [RS 311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6207)
 [^annex2-lvlu1-2]: [RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)
 [^annex2-lvlu1-3]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
-[^annex2-lvlu1-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^annex2-lvlu1-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
-Annexe 3
+Annexe 3[^t-1]
 
 (art. 22, 24, let. c, 45, al. 1, et 47)
 
 ## Catégories et champs de données relatifs aux décisions ultérieures qui doivent être saisies, selon le profil de consultation (sans les données d’identification)
+
+[^t-1]: Mise à jour par le ch. II de l’O du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 775](https://fedlex.data.admin.ch/eli/oc/2025/775)).
 
 **Extrait 1** = champ de données figurant sur l’extrait 1 destiné aux autorités
 
@@ -1651,6 +1661,7 @@ Annexe 3
 <tr><td>9. Pour les décisions ultérieures «**Nouvelle interdiction**»: (se réfère aux interdictions d’exercer une activité, interdictions de contact et interdictions géographiques)</td><td></td><td></td><td></td></tr>
 <tr><td>9.1 Désignation de l’interdiction</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
 <tr><td>9.2 Données énumérées à l’annexe 2, ch. 3.4.4</td><td>(voir annexe 2, ch. 3.4.4)</td><td>(voir annexe 2, ch. 3.4.4)</td><td>(voir annexe 2, ch. 3.4.4)</td></tr>
+<tr><td>9<sup>bis</sup> Pour les décisions ultérieures «**Levée de la réserve de l’internement**»: (pas de champs supplémentaires)</td><td></td><td></td><td></td></tr>
 <tr><td>10. Pour les décisions ultérieures «**Levée de l’accompagnement**»: (pas de champs supplémentaires)</td><td></td><td></td><td></td></tr>
 <tr><td>11. Pour les décisions ultérieures «**Levée de l’assistance de probation**»:</td><td></td><td></td><td></td></tr>
 <tr><td>11.1 Le cas échéant, mention que la décision n’a pas été prononcée par suite de l’échec de la mise à l’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
@@ -1766,7 +1777,7 @@ Annexe 3
 <tr><td>36.3 Date d’entrée en force de la décision ultérieure (date à partir de laquelle la prolongation entre en force, si l’interdiction n’a déjà plus effet)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^annex3-lvlu1-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^annex3-lvlu1-2]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 
 Annexe 4
