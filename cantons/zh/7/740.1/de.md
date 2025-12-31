@@ -4,11 +4,10 @@ number: "740.1"
 title: Gesetz über den öffentlichen Personenverkehr (PVG)
 short: PVG
 language: de
-version: "2019-01-01"
-nachtrag: "103"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 1988-03-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-740_1-1988_03_06-1988_05_01-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-740_1-1988_03_06-1988_05_01-131.html"
 text: pdf
 ---
 
@@ -16,13 +15,15 @@ text: pdf
 
 # Gesetz über den öffentlichen Personenverkehr (PVG)<sup>9</sup>
 
-(vom 6. März 1988)<sup>1</sup>
+(vom 6. März 1988)[^t-1]
 
 I. Allgemeines
 
 **Zweck**
 
 § 1. Das Gesetz bezweckt, das Kantonsgebiet durch einen leistungsfähigen öffentlichen Verkehr nach wirtschaftlichen Grundsätzen zu erschliessen.
+
+[^t-1]: OS 50, 393.
 
 #### § 2
 
@@ -62,7 +63,7 @@ Der Kanton<sup>9</sup> gewährt Beiträge an Investitionen für feste Anlagen, w
 
 **1**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 26 - 131
 
 <sup>2</sup> An Vorhaben, die für Nachbargemeinden von einem bedeutenden Interesse sind, haben sich diese finanziell zu beteiligen. Können sich die interessierten Gemeinden nicht über den Kostenverteilschlüssel einigen, wird er vom Regierungsrat verbindlich festgesetzt. An solche Anlagen kann der Kanton<sup>9</sup> Beiträge gewähren.
 
@@ -80,7 +81,7 @@ Der Kanton<sup>9</sup> übernimmt den nach den Bestimmungen des Eisenbahngesetze
 
 **Zuständigkeit**
 
-§ 9.<sup>9</sup> Über die Abgeltung des Kantons nach Art. 49 ff. des Eisenbahngesetzes vom 20. Dezember 1957<sup>5</sup> beschliesst der Verkehrsrat. Die Beteiligung des Kantons an Investitionen des Bundes untersteht den Bestimmungen der Kantonsverfassung über das fakultative Referendum (Art. 33 Abs. 1 lit. d).
+§ 9.<sup>9</sup> Über die Abgeltung des Kantons nach Art. 49 ff. des Eisenbahngesetzes vom 20. Dezember 1957 beschliesst der Verkehrsrat. Die Beteiligung des Kantons an Investitionen des Bundes untersteht den Bestimmungen der Kantonsverfassung über das fakultative Referendum (Art. 33 Abs. 1 lit. d).
 
 ### IV. Verkehrsverbund des Kantons Zürich
 
@@ -148,7 +149,7 @@ Der Verkehrsrat erlässt ein Reglement über die Organisation des Verkehrsverbun
 
 **3**
 
-- 1\. 1. 19 - 103 § 18. <sup>1</sup> Der Verkehrsverbund gewährleistet eine Grundversorgung. Darüber hinaus werden entsprechend der möglichen Nachfrage Fahrplanverdichtungen und zusätzliche Linien eingeführt. Die Verordnung regelt die Einzelheiten. Sie bedarf der Genehmigung durch den Kantonsrat.
+- 1\. 1. 26 - 131 § 18. <sup>1</sup> Der Verkehrsverbund gewährleistet eine Grundversorgung. Darüber hinaus werden entsprechend der möglichen Nachfrage Fahrplanverdichtungen und zusätzliche Linien eingeführt. Die Verordnung regelt die Einzelheiten. Sie bedarf der Genehmigung durch den Kantonsrat.
 
 **2. Verbundangebot a. Grundsatz**
 
@@ -246,7 +247,7 @@ Mit dem Rahmenkredit beschliesst der Kantonsrat Grundsätze über die Tarifordnu
 
 **5**
 
-- 1\. 1. 19 - 103 § 29. <sup>1</sup> Den Gemeinden steht das Rekursrecht an den Regierungsrat zu in Streitigkeiten über
+- 1\. 1. 26 - 131 § 29. <sup>1</sup> Den Gemeinden steht das Rekursrecht an den Regierungsrat zu in Streitigkeiten über
 
 **6. Rechtsschutz**
 
@@ -258,7 +259,29 @@ Mit dem Rahmenkredit beschliesst der Kantonsrat Grundsätze über die Tarifordnu
 
 <sup>2</sup> Einem Rekurs gemäss Abs. 1 lit. a oder b ist die aufschiebende Wirkung entzogen. Die Rekursinstanz kann auf Gesuch hin eine gegenteilige Anordnung treffen, sofern sich dies weder auf die Ausgestaltung der Grundversorgung noch auf die Festlegung des übrigen Verbundangebots anderer Gemeinden nachteilig auswirkt.<sup>8</sup>
 
-### V. Verkehrsfonds
+### V. Bauliche Massnahmen und Verkehrsanordnungen<sup>12</sup>
+
+**Grundsatz**
+
+§ 29 a.<sup>12</sup> Bauliche Massnahmen und Verkehrsanordnungen auf Staats- und Gemeindestrassen sind grundsätzlich so zu gestalten, dass sie den öffentlichen Verkehr nicht verlangsamen.
+
+**Kompensierende Massnahmen**
+
+§ 29 b.<sup>12</sup> <sup>1</sup> Führen bauliche Massnahmen oder Verkehrsanordnungen zu Verlangsamungen im öffentlichen Verkehr, ergreifen die an den betroffenen Linien beteiligten Strasseneigentümerinnen und Strasseneigentümer mit den betroffenen Transportunternehmungen kompensierende Massnahmen.
+
+<sup>2</sup> Kompensierende Massnahmen erhalten das Angebot, insbesondere die Anschlusssicherheit, auf den betroffenen Linien des öffentlichen Verkehrs in mindestens der bestehenden Qualität und ohne Mehrkosten im Betrieb.
+
+**Entschädigung**
+
+§ 29 c.<sup>12</sup> <sup>1</sup> Sind kompensierende Massnahem nicht möglich oder nicht zielführend, entschädigen die gemäss § 29 b Abs. 1 beteiligten Strasseneigentümerinnen und Strasseneigentümer dem Verkehrsverbund die Mehrkosten im Betrieb angemessen.
+
+<sup>2</sup> Die Einzelheiten der Entschädigung werden in einem schriftlichen Vertrag geregelt.
+
+<sup>3</sup> Können sich die Strasseneigentümerinnen und Strasseneigentümer und der Verkehrsverbund nicht einigen, setzt der Regierungsrat die Entschädigung fest.
+
+<sup>4</sup> §§ 46 und 47 des Strassengesetzes vom 27. September 1981<sup>5</sup> sind auf die Entschädigung nicht anwendbar.
+
+### VI.<sup>13</sup> Verkehrsfonds
 
 #### § 30
 
@@ -276,15 +299,15 @@ Die Investitionen gemäss diesem Gesetz werden durch einen Fonds finanziert. Aus
 
 <sup>3</sup> Kredite können im Zeitpunkt der Bewilligung den Bestand des Fonds übersteigen.
 
-### VI. Bahninfrastrukturfonds<sup>10</sup>
+### VII.<sup>13</sup> Bahninfrastrukturfonds<sup>10</sup>
 
 **Beteiligung der Gemeinden**
 
-§ 31 a.<sup>10</sup> <sup>1</sup> Die Gemeinden beteiligen sich mit 34% an der Einlage des Kantons gemäss Art. 57 des Eisenbahngesetzes vom 20. Dezember 1957<sup>5</sup> in den Bahninfrastrukturfonds des Bundes.
+§ 31 a.<sup>10</sup> <sup>1</sup> Die Gemeinden beteiligen sich mit 34% an der Einlage des Kantons gemäss Art. 57 des Eisenbahngesetzes vom 20. Dezember 1957 in den Bahninfrastrukturfonds des Bundes.
 
 <sup>2</sup> Die Beiträge der Gemeinden richten sich nach deren Einwohnerzahl.
 
-### VII.<sup>11</sup> Übergangs- und Schlussbestimmungen
+### VIII.<sup>13</sup> Übergangs- und Schlussbestimmungen
 
 #### § 32
 
@@ -300,25 +323,25 @@ Das bei der Betriebsaufnahme des Verkehrsverbundes bestehende Liniennetz und Kur
 
 <sup>2</sup> Der Kanton führt bei Inbetriebnahme der S-Bahn ein Umweltabonnement ein, das auf allen Linien des öffentlichen Verkehrs im Kanton gültig ist.
 
-#### § 34
+**7**
 
-**3. Förderung des Güterverkehrs**
-
-Der Regierungsrat legt dem Kantonsrat innert zwei Jahren nach Annahme von Art. 26 Abs. 2 der Kantonsverfassung ein Gesetz oder einen Rahmenkredit zur Förderung des Güterverkehrs mit der Bahn vor.
+- 1\. 1. 26 - 131 § 34. Der Regierungsrat legt dem Kantonsrat innert zwei Jahren nach Annahme von Art. 26 Abs. 2 der Kantonsverfassung ein Gesetz oder einen Rahmenkredit zur Förderung des Güterverkehrs mit der Bahn vor.
 
 #### § 35
+
+**3. Förderung des Güterverkehrs**
 
 **4. Änderung bisherigen Rechts**
 
 Die nachstehenden Gesetze werden wie folgt geändert:
 
-- a. Das Gesetz über den Bau und den Unterhalt der öffentlichen Strassen (Strassengesetz) vom 17. September 1981: . . .<sup>2</sup>
+- a. Das Gesetz über den Bau und den Unterhalt der öffentlichen Strassen (Strassengesetz) vom 17. September 1981: . . .[^35-1]
 
-- b. Das Gesetz betreffend die Organisation und Geschäftsordnung des Regierungsrates und seiner Direktionen vom 26. Februar 1899: . . .<sup>2</sup>
+- b. Das Gesetz betreffend die Organisation und Geschäftsordnung des Regierungsrates und seiner Direktionen vom 26. Februar 1899: . . .[^35-1]
 
-- c. Das Gesetz über die Organisation und die Geschäftsordnung des Kantonsrates (Kantonsratsgesetz) vom 5. April 1981: . . .<sup>2</sup>
+- c. Das Gesetz über die Organisation und die Geschäftsordnung des Kantonsrates (Kantonsratsgesetz) vom 5. April 1981: . . .[^35-1]
 
-- d. Das Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 24. Mai 1959: . . .<sup>2</sup>
+- d. Das Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 24. Mai 1959: . . .[^35-1]
 
 **5. Aufhebung bisherigen Rechts**
 
@@ -332,23 +355,27 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 
 - d. das Gesetz über die Finanzierung von Massnahmen zur Förderung des öffentlichen Verkehrs (Verkehrsfondsgesetz) vom 2. April 1978.
 
-**7**
+[^35-1]: Text siehe OS 50, 399.
 
-- 1\. 1. 19 - 103 § 37. <sup>1</sup> Dieses Gesetz untersteht der Volksabstimmung.
+#### § 37
 
 **6. Inkrafttreten**
 
-<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens<sup>3</sup>.
+<sup>1</sup> Dieses Gesetz untersteht der Volksabstimmung.
 
-<sup>1</sup> OS 50, 393.
+<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^37-1].
 
-<sup>2</sup> Text siehe OS 50, 399.
+[^37-1]: Teilinkraftsetzung am 1. Mai 1988 (OS 50, 401). §§ 8, 9, 17 Abs. 2 und 3, 24, 25, 26, 36 lit. b und c in Kraft seit 27. Mai 1990 (OS 50, 401).
 
-<sup>3</sup> Teilinkraftsetzung am 1. Mai 1988 (OS 50, 401). §§ 8, 9, 17 Abs. 2 und 3, 24, 25, 26, 36 lit. b und c in Kraft seit 27. Mai 1990 (OS 50, 401).
+### Übergangsbestimmung zur Änderung vom 14. April 2025
+
+(OS 80, 348)
+
+Auf vor Inkrafttreten festgesetzte bauliche Massnahmen und verfügte Verkehrsanordnungen bleibt das bisherige Recht anwendbar.
 
 <sup>4</sup> LS 101.
 
-<sup>5</sup> SR 742.101.
+<sup>5</sup> LS 722.1.
 
 <sup>6</sup> Eingefügt durch G über die Information und den Datenschutz vom 12. Februar 2007 (OS 62, 121; ABl 2005, 1283). In Kraft seit 1. Oktober 2008 (OS 63, 317).
 
@@ -361,3 +388,11 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 <sup>10</sup> Eingefügt durch G vom 30. Oktober 2017 (OS 73, 519; ABl 2016-07-08). In Kraft seit 1. Januar 2019.
 
 <sup>11</sup> Fassung gemäss G vom 30. Oktober 2017 (OS 73, 519; ABl 2016-07-08). In Kraft seit 1. Januar 2019.
+
+<sup>12</sup> Eingefügt durch G vom 14. April 2025 (OS 80, 348; ABl 2024-03-22). In Kraft seit 1. Januar 2026.
+
+<sup>13</sup> Nummmerierung gemäss G vom 14. April 2025 (OS 80, 348; ABl 2024-03-22). In Kraft seit 1. Januar 2026.
+
+**9**
+
+- 1\. 1. 26 - 131
