@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung (IVG)
 short: IVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20250101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20260101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20250101/de"
 
 (IVG)[^t-1]
 
-vom 19. Juni 1959 (Stand am 1. Januar 2025)
+vom 19. Juni 1959 (Stand am 1. Januar 2026)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. II 1 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 112 Absatz 1 und 112*b* Absatz 1 der Bundesverfassung[
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^ingress-3]: [BBl 1958 II 1137](https://fedlex.data.admin.ch/eli/fga/1958/2_1137_1161_975)
 
@@ -50,7 +50,7 @@ beschliesst:
 
 <sup>2</sup> Die Artikel 32 und 33 ATSG sind auch anwendbar auf die Förderung der Invalidenhilfe (Art. 71–76).
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^1-2]: Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
 ### 1*a*. Kapitel: Zweck
@@ -77,7 +77,7 @@ Die Leistungen dieses Gesetzes sollen:
 
 Versichert nach Massgabe dieses Gesetzes sind Personen, die gemäss den Artikeln 1*a* und 2 des Bundesgesetzes vom 20. Dezember 1946[^1b-1] über die Alters- und Hinterlassenenversicherung (AHVG) obligatorisch oder freiwillig versichert sind.
 
-[^1b-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^1b-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### 2. Kapitel: Die Beiträge
 
@@ -88,7 +88,7 @@ Versichert nach Massgabe dieses Gesetzes sind Personen, die gemäss den Artikeln
 Beitragspflichtig sind die in den Artikeln 3 und 12 AHVG[^2-2] genannten Versicherten und Arbeitgeber.
 
 [^2-1]: Soweit die bisherigen Randtitel nicht aufgehoben wurden, sind sie gemäss Ziff. I des BG vom 9. Okt. 1986, in Kraft seit 1. Jan. 1988, in Sachüberschriften umgewandelt worden ([AS 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [BBl 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
-[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 3
 
@@ -101,13 +101,13 @@ Beitragspflichtig sind die in den Artikeln 3 und 12 AHVG[^2-2] genannten Versich
 <sup>2</sup> Die Beiträge werden als Zuschläge zu den Beiträgen der Alters- und Hinterlassenenversicherung erhoben. Die Artikel 11 und 14–16 AHVG[^3-7] sind sinngemäss anwendbar mit ihren jeweiligen Abweichungen vom ATSG[^3-8].[^3-9]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
-[^3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^3-4]: Beitrag gemäss Art. 6 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^3-5]: Beitrag gemäss Art. 6 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^3-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 23. Juni 2000 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Fassung gemäss Anhang Ziff. 2 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^3-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^3-8]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-7]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^3-8]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-9]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 ### 2*a*. Kapitel: Erstmassnahmen
@@ -130,7 +130,7 @@ Beitragspflichtig sind die in den Artikeln 3 und 12 AHVG[^2-2] genannten Versich
 Ist die berufliche Eingliederung einer versicherten Person aus gesundheitlichen Gründen gefährdet oder besteht die Gefahr, dass eine versicherte Person aus gesundheitlichen Gründen an ihrem Arbeitsplatz nicht weiterbeschäftigt werden kann, so kann die IV-Stelle der versicherten Person, dem Arbeitgeber, den behandelnden Ärztinnen und Ärzten sowie den betroffenen Akteuren des Bildungswesens auf Ersuchen bereits vor Geltendmachung eines Leistungsanspruchs nach Artikel 29 Absatz 1 ATSG[^3a-2] eingliederungsorientierte Beratung gewähren.
 
 [^3a-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^3a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### B. Früherfassung
 
@@ -161,8 +161,8 @@ Zur Früherfassung können folgende Personen sich melden oder gemeldet werden:
 <sup>3</sup> Die IV-Stelle führt die Früherfassung in Zusammenarbeit mit anderen Versicherungsträgern, den dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^3abis-3] (VAG) unterstellten Versicherungsunternehmen und den kantonalen Instanzen nach Artikel 68<sup>bis</sup> Absätze 1<sup>bis</sup> und 1<sup>ter</sup> durch.
 
 [^3abis-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^3abis-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^3abis-3]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3abis-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^3abis-3]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 3b
 
@@ -192,11 +192,11 @@ Zur Meldung berechtigt sind:
 
 <sup>4</sup> …[^3b-9]
 
-[^3b-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^3b-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^3b-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^3b-3]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^3b-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^3b-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3b-3]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^3b-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^3b-5]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^3b-6]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^3b-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^3b-8]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
@@ -219,10 +219,10 @@ Zur Meldung berechtigt sind:
 <sup>6</sup> Bei Bedarf fordert sie die versicherte Person zu einer Anmeldung bei der Invalidenversicherung (Art. 29 ATSG[^3c-5]) auf. Sie macht die versicherte Person darauf aufmerksam, dass die Leistungen gekürzt oder verweigert werden können, wenn die Anmeldung nicht unverzüglich erfolgt.
 
 [^3c-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^3c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^3c-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2022 angepasst.
+[^3c-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^3c-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2022 angepasst.
 [^3c-4]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^3c-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3c-5]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### 3. Kapitel: Die Leistungen
 
@@ -236,7 +236,7 @@ Zur Meldung berechtigt sind:
 
 <sup>2</sup> Die Invalidität gilt als eingetreten, sobald sie die für die Begründung des Anspruchs auf die jeweilige Leistung erforderliche Art und Schwere erreicht hat.[^4-3]
 
-[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^4-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^4-3]: Eingefügt durch Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
 
@@ -249,7 +249,7 @@ Zur Meldung berechtigt sind:
 <sup>2</sup> Bei nicht erwerbstätigen Personen vor dem vollendeten 20. Altersjahr bestimmt sich die Invalidität nach Artikel 8 Absatz 2 ATSG.
 
 [^5-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^5-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^5-3]: Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
 #### Art. 6
@@ -267,7 +267,7 @@ Zur Meldung berechtigt sind:
 [^6-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
 [^6-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^6-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision) ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Fassung gemäss Anhang Ziff. 1 des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Siehe die SchlB vom 7. Okt. 1994 am Ende dieses Textes.
-[^6-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^6-4]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^6-5]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^6-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
@@ -281,8 +281,8 @@ Zur Meldung berechtigt sind:
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^6a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^6a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^6a-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^6a-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^6a-4]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^6a-5]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 7
@@ -302,8 +302,8 @@ Die versicherte Person muss an allen zumutbaren Massnahmen, die zur Erhaltung de
 - e.[^7-4] Massnahmen zur Wiedereingliederung von Rentenbezügerinnen und Rentenbezügern nach Artikel 8*a* Absatz 2.
 
 [^7-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^7-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^7-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^7-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^7-4]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 7a
@@ -334,7 +334,7 @@ Die Leistungen können in Abweichung von Artikel 21 Absatz 4 ATSG ohne Mahn- und
 <sup>4</sup> In Abweichung von Artikel 21 Absatz 1 ATSG werden Hilflosenentschädigungen weder verweigert noch gekürzt.[^7b-4]
 
 [^7b-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^7b-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^7b-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^7b-3]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^7b-4]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
@@ -378,7 +378,7 @@ Die IV-Stellen können folgende Massnahmen anordnen:
 
 <sup>4</sup> Der Bundesrat kann den Massnahmenkatalog erweitern. Er regelt die Dauer der Frühinterventionsphase und bestimmt die Höchstgrenze des Betrages, der pro versicherte Person für Frühinterventionsmassnahmen eingesetzt werden darf.
 
-[^7d-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^7d-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^7d-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^7d-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
@@ -431,7 +431,7 @@ Die Eingliederungsmassnahmen bestehen in:
 <sup>4</sup> …[^8-13]
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
-[^8-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^8-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^8-3]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^8-4]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision) ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^8-5]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
@@ -500,9 +500,9 @@ Ausländische Staatsangehörige mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 
 [^9-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
 [^9-2]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^9-3]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^9-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^9-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^9-5]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^9-6]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^9-6]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^9-7]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 10
@@ -516,9 +516,9 @@ Ausländische Staatsangehörige mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 
 <sup>3</sup> Der Anspruch erlischt, sobald die versicherte Person eine ganze Altersrente nach Artikel 40 Absatz 1 AHVG[^10-4] vorbezieht, spätestens aber am Ende des Monats, in dem sie das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht.[^10-5]
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^10-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^10-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^10-3]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^10-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^10-5]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 11
@@ -532,7 +532,7 @@ Ausländische Staatsangehörige mit Wohnsitz und gewöhnlichem Aufenthalt (Art. 
 <sup>3</sup> Der Bundesrat legt die Berechnung des versicherten Verdienstes im Sinne von Artikel 15 Absatz 2 UVG in Abhängigkeit vom bezogenen Taggeld fest und regelt das Verfahren.
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^11-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^11-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 11a
 
@@ -556,7 +556,7 @@ Der Anspruch auf eine Entschädigung gilt für die Betreuung:
 <sup>3</sup> Der Bundesrat setzt den Höchstbetrag der Entschädigung fest.
 
 [^11a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^11a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11a-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### II. Die medizinischen Massnahmen
 
@@ -591,7 +591,7 @@ Medizinische Massnahmen nach Absatz 1 werden gewährt für die Behandlung angebo
 <sup>3</sup> Für medizinische Massnahmen zur Behandlung der Trisomie 21 gilt Absatz 2 Buchstabe e nicht.
 
 [^13-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^13-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^13-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 14
 
@@ -633,10 +633,10 @@ Die medizinischen Massnahmen umfassen:
 <sup>2</sup> Das Rückgriffsrecht nach Artikel 72 ATSG[^14bis-5] gilt sinngemäss für den Wohnkanton für die Beiträge, die dieser nach Absatz 1 geleistet hat.[^14bis-6]
 
 [^14bis-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012 (6. IV-Revision, zweites Massnahmepaket), in Kraft seit 1. Jan. 2013 ([AS 2012 5559](https://fedlex.data.admin.ch/eli/oc/2012/644); [BBl 2011 5691](https://fedlex.data.admin.ch/eli/fga/2011/855)).
-[^14bis-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^14bis-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^14bis-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^14bis-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^14bis-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^14bis-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^14bis-5]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^14bis-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 14<sup>ter</sup>
@@ -672,7 +672,7 @@ Er kann die Vergütung von Arzneimitteln regeln, die:
 <sup>5</sup> Das zuständige Bundesamt erstellt eine Liste der Arzneimittel zur Behandlung von Geburtsgebrechen nach Artikel 13, einschliesslich der Höchstpreise, sofern sie nicht bereits auf der Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b KVG[^14ter-2] aufgeführt sind.
 
 [^14ter-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^14ter-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^14ter-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### II<sup>bis</sup>. Beratung und Begleitung
 
@@ -727,7 +727,7 @@ Als Integrationsmassnahmen gelten gezielte, auf die berufliche Eingliederung ger
 
 <sup>5</sup> Die Massnahmen, die im Betrieb erfolgen, werden in enger Zusammenarbeit mit dem Arbeitgeber getroffen und umgesetzt. Die Versicherung kann dem Arbeitgeber einen Beitrag leisten. Der Bundesrat legt den Betrag, die Dauer und die Bedingungen der Auszahlung fest.[^14a-6]
 
-[^14a-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^14a-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^14a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^14a-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^14a-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
@@ -784,10 +784,10 @@ Der erstmaligen beruflichen Ausbildung gleichgestellt sind:
 
 <sup>2</sup> Die IV-Stelle veranlasst diese Massnahmen unverzüglich, sobald eine summarische Prüfung ergibt, dass die Voraussetzungen dafür erfüllt sind.
 
-<sup>3</sup> und <sup>4</sup> …[^18-4]
+<sup>3 und <sup>4</sup></sup> …[^18-4]
 
 [^18-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^18-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^18-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^18-4]: Aufgehoben durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), mit Wirkung seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
@@ -818,7 +818,7 @@ Während des Arbeitsversuchs entsteht kein Arbeitsverhältnis nach dem Obligatio
 <sup>4</sup> Der Bundesrat regelt die Voraussetzungen für einen möglichen vorzeitigen Abbruch des Arbeitsversuchs.
 
 [^18a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision) ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)). Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^18a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 18a<sup>bis</sup>
 
@@ -838,7 +838,7 @@ Die Versicherung entschädigt dem Personalverleiher:
 <sup>4</sup> Der Bundesrat legt die Modalitäten und den Höchstbetrag der Entschädigung fest.
 
 [^18abis-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^18abis-2]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^18abis-2]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 18b
 
@@ -952,7 +952,7 @@ Für die Abgabe von ganz oder teilweise durch die Versicherung finanzierten Hilf
 <sup>2</sup> Der Bundesrat wendet Vergabeverfahren nach Absatz 1 Buchstabe d nach Prüfung der Instrumente gemäss den Buchstaben a–c an.
 
 [^21quater-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^21quater-2]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^21quater-2]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ### VI. Die Taggelder
 
@@ -986,7 +986,7 @@ Versicherte, die eine höhere Berufsbildung absolvieren oder eine Hochschule bes
 <sup>5</sup> Für Massnahmen nach den Artikeln 8 Absatz 3 Buchstabe a<sup>bis</sup> und 16 Absatz 3 Buchstabe b besteht kein Anspruch auf ein Taggeld.
 
 [^22-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^22-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^22-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 22<sup>bis</sup>
 
@@ -1014,7 +1014,7 @@ Der Bundesrat bestimmt, unter welchen Voraussetzungen Taggelder ausgerichtet wer
 - d. im Fall eines Unterbruchs von Eingliederungsmassnahmen wegen Krankheit, Unfall oder Mutterschaft.
 
 [^22bis-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^22bis-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22bis-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^22bis-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 23
@@ -1036,7 +1036,7 @@ Der Bundesrat bestimmt, unter welchen Voraussetzungen Taggelder ausgerichtet wer
 [^23-3]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^23-4]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^23-5]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision) ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^23-6]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-6]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-7]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 23<sup>bis</sup>
@@ -1068,7 +1068,7 @@ Das Kindergeld beträgt für jedes Kind 2 Prozent des Höchstbetrages des Taggel
 <sup>5</sup> Der Bundesrat regelt die Anrechnung eines allfälligen Erwerbseinkommens und kann für bestimmte Verhältnisse Kürzungen vorsehen. Das BSV[^24-6] stellt verbindliche Tabellen für die Ermittlung der Taggelder mit aufgerundeten Beträgen auf.
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^24-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^24-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^24-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^24-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^24-5]: Aufgehoben durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
@@ -1093,7 +1093,7 @@ Kommt die Invalidenversicherung vollständig für die Kosten von Unterkunft und 
 <sup>3</sup> Für Versicherte, die das 25. Altersjahr vollendet haben, entspricht das Taggeld auf den Monat hochgerechnet dem Höchstbetrag der Altersrente nach Artikel 34 Absätze 3 und 5 AHVG[^24ter-2].
 
 [^24ter-1]: Eingefügt durch Ziff. II des BG vom 18. Dez. 1998 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **1998** 3418). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^24ter-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^24ter-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 24<sup>quater</sup>
 
@@ -1130,7 +1130,7 @@ Auf dem Taggeld müssen Beiträge bezahlt werden:
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^25-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^25-3]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^25-3]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 #### Art. 25<sup>bis</sup>
 
@@ -1163,7 +1163,7 @@ Auf dem Taggeld müssen Beiträge bezahlt werden:
 <sup>4</sup> …[^26-5]
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
-[^26-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^26-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^26-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^26-4]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^26-5]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
@@ -1207,7 +1207,7 @@ Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 8 kann das
 - b. eine Busse bis zu 20 000 Franken.[^27-4]
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^27-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^27-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^27-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
@@ -1321,7 +1321,7 @@ Anspruch auf eine Rente haben Versicherte, die:
 <sup>2</sup> …[^28-4]
 
 [^28-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^28-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^28-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^28-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^28-4]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
@@ -1337,7 +1337,7 @@ Anspruch auf eine Rente haben Versicherte, die:
 
 [^28a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^28a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^28a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^28a-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^28a-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^28a-5]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^28a-6]: Fassung des ersten und zweiten Satzes gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
@@ -1383,7 +1383,7 @@ Anspruch auf eine Rente haben Versicherte, die:
 <sup>4</sup> Beträgt der Invaliditätsgrad weniger als 50 Prozent, so werden die entsprechenden Renten nur an Versicherte ausbezahlt, die ihren Wohnsitz und ihren gewöhnlichen Aufenthalt (Art. 13 ATSG) in der Schweiz haben. Diese Voraussetzung ist auch von Angehörigen zu erfüllen, für die eine Leistung beansprucht wird.
 
 [^29-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^29-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^29-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 30
 
@@ -1396,7 +1396,7 @@ Der Rentenanspruch erlischt:
 - c. mit dem Tod der anspruchsberechtigten Person.
 
 [^30-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^30-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^30-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 31
 
@@ -1467,7 +1467,7 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 [^35-1]: Fassung gemäss Ziff. II des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 [^35-2]: Aufgehoben durch Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), mit Wirkung seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^35-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^35-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^35-4]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^35-5]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 ### II. Die ordentlichen Renten
@@ -1485,7 +1485,7 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 <sup>4</sup> Beiträge, die vor dem Inkrafttreten dieses Gesetzes an die Alters- und Hinterlassenenversicherung geleistet wurden, werden angerechnet.
 
 [^36-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^36-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^36-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^36-3]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^36-4]: Aufgehoben durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
@@ -1493,14 +1493,14 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 
 **Höhe der Invalidenrenten**
 
-<sup>1</sup> Die Invalidenrenten entsprechen den Altersrenten der Alters- und Hinterlassenenversicherung.[^37-1]
+<sup>1</sup> Die Höhe der Invalidenrenten entspricht der Höhe der Altersrenten der Alters- und Hinterlassenenversicherung.[^37-1]
 
 <sup>1bis</sup> Sind beide Ehegatten rentenberechtigt, so gilt für die Kürzung der beiden Renten Artikel 35 AHVG[^37-2] sinngemäss.[^37-3]
 
 <sup>2</sup> Hat ein Versicherter mit vollständiger Beitragsdauer bei Eintritt der Invalidität das 25. Altersjahr noch nicht zurückgelegt, so betragen seine Invalidenrente und allfällige Zusatzrenten mindestens 133<sup>1</sup>/<sub>3</sub> Prozent der Mindestansätze der zutreffenden Vollrenten.[^37-4]
 
-[^37-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^37-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^37-1]: Fassung gemäss Ziff. II 1 des BG vom 21. März 2025 (Umsetzung der 13. Altersrente), in Kraft seit 1. Jan. 2026 ([AS 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [BBl 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
+[^37-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^37-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^37-4]: Eingefügt durch Ziff. II des BG vom 30. Juni 1972 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Fassung gemäss Ziff. II 1 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1980 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391), [1979 1365](https://fedlex.data.admin.ch/eli/oc/1979/1365_1365_1365)Art. 1; [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -1515,7 +1515,7 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 [^38-1]: Fassung gemäss Ziff. II des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1980 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391), [1979 1365](https://fedlex.data.admin.ch/eli/oc/1979/1365_1365_1365)Art. 1; [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^38-2]: Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^38-3]: Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^38-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^38-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^38-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 38<sup>bis</sup>
@@ -1529,7 +1529,7 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 <sup>3</sup> …[^38bis-5]
 
 [^38bis-1]: Eingefügt durch Ziff. II des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^38bis-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^38bis-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^38bis-3]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^38bis-4]: Fassung gemäss Ziff. II des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1980 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391), [1979 1365](https://fedlex.data.admin.ch/eli/oc/1979/1365_1365_1365)Art. 1; [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^38bis-5]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
@@ -1546,7 +1546,7 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 
 <sup>3</sup> Anspruch auf eine ausserordentliche Rente haben auch invalide Ausländer und Staatenlose, die als Kinder die Voraussetzungen von Artikel 9 Absatz 3 erfüllt haben.[^39-4]
 
-[^39-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^39-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^39-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^39-3]: Aufgehoben durch Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), mit Wirkung seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^39-4]: Eingefügt durch Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
@@ -1562,7 +1562,7 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 <sup>3</sup> Die ausserordentlichen Renten für Personen, die vor dem 1. Dezember des der Vollendung des 20. Altersjahres folgenden Jahres invalid geworden sind, entsprechen 133<sup>1</sup>/<sub>3</sub> Prozent des Mindestbetrages der zutreffenden ordentlichen Vollrente.[^40-4]
 
 [^40-1]: Fassung gemäss Ziff. II des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^40-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^40-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^40-3]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^40-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
@@ -1604,10 +1604,10 @@ Der Anspruch auf Hilflosenentschädigung erlischt spätestens am Ende des Monats
 <sup>6</sup> Der Bundesrat regelt die Übernahme einer anteilmässigen Leistung an die Hilflosenentschädigung der Unfallversicherung, falls die Hilflosigkeit nur zum Teil auf einen Unfall zurückzuführen ist.
 
 [^42-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^42-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^42-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^42-3]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^42-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^42-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^42-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^42-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 42<sup>bis</sup>
@@ -1625,7 +1625,7 @@ Der Anspruch auf Hilflosenentschädigung erlischt spätestens am Ende des Monats
 <sup>5</sup> Minderjährige haben keinen Anspruch auf eine Hilflosenentschädigung, wenn sie lediglich auf lebenspraktische Begleitung angewiesen sind.
 
 [^42bis-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^42bis-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^42bis-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^42bis-3]: Fassung gemäss Ziff. I 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 42<sup>ter</sup>
@@ -1639,7 +1639,7 @@ Der Anspruch auf Hilflosenentschädigung erlischt spätestens am Ende des Monats
 <sup>3</sup> Die Hilflosenentschädigung für Minderjährige, die zusätzlich eine intensive Betreuung brauchen, wird um einen Intensivpflegezuschlag erhöht; dieser Zuschlag wird nicht gewährt bei einem Aufenthalt in einem Heim. Der monatliche Intensivpflegezuschlag beträgt bei einem invaliditätsbedingten Betreuungsaufwand von mindestens 8 Stunden pro Tag 100 Prozent, bei einem solchen von mindestens 6 Stunden pro Tag 70 Prozentund bei einem solchen von mindestens 4 Stunden pro Tag 40 Prozent des Höchstbetrages der Altersrente nach Artikel 34 Absätze 3 und 5 AHVG.[^42ter-4] Der Zuschlag berechnet sich pro Tag. Der Bundesrat regelt im Übrigen die Einzelheiten.
 
 [^42ter-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^42ter-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^42ter-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^42ter-3]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^42ter-4]: Fassung des Satzes gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5987](https://fedlex.data.admin.ch/eli/oc/2017/654); [BBl 2016 7193](https://fedlex.data.admin.ch/eli/fga/2016/1538)[8185](https://fedlex.data.admin.ch/eli/fga/2016/1879)).
 
@@ -1699,9 +1699,9 @@ Der Bundesrat legt fest:
 - c. die Fälle, in denen ein Assistenzbeitrag aufgrund von Verpflichtungen aus dem Arbeitsvertrag nach dem OR[^42sexies-4] ausgerichtet wird, ohne dass die Hilfeleistungen durch eine Assistenzperson tatsächlich erbracht worden sind.
 
 [^42sexies-1]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5987](https://fedlex.data.admin.ch/eli/oc/2017/654); [BBl 2016 7193](https://fedlex.data.admin.ch/eli/fga/2016/1538)[8185](https://fedlex.data.admin.ch/eli/fga/2016/1879)).
-[^42sexies-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^42sexies-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^42sexies-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^42sexies-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^42sexies-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^42sexies-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 42<sup>septies</sup>
 
@@ -1719,9 +1719,9 @@ Der Anspruch erlischt zum Zeitpunkt:
 - b.[^42septies-2] in dem die versicherte Person eine ganze Altersrente nach Artikel 40 Absatz 1 AHVG[^42septies-3] vorbezieht oder das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht; oder
 - c. des Todes der versicherten Person.
 
-[^42septies-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^42septies-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^42septies-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^42septies-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^42septies-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 42<sup>octies</sup>
 
@@ -1803,7 +1803,7 @@ Die Renten werden gewährt:
 <sup>3</sup> Renten, deren Betrag 20 Prozent der minimalen Vollrente nicht übersteigen, werden in Abweichung von Artikel 19 Absätze 1 und 3 ATSG einmal jährlich ausbezahlt. Die berechtigte Person kann die monatliche Auszahlung verlangen.[^47-6]
 
 [^47-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^47-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^47-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^47-3]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^47-4]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^47-5]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
@@ -1816,7 +1816,7 @@ Die Renten werden gewährt:
 In Abweichung von Artikel 19 Absatz 3 ATSG[^47a-2] wird die Hilflosenentschädigung für Minderjährige nachschüssig gegen Rechnungsstellung ausbezahlt.
 
 [^47a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^47a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^47a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 48
 
@@ -1832,7 +1832,7 @@ Die Leistung wird für einen längeren Zeitraum nachgezahlt, wenn die versichert
 - b. den Anspruch spätestens zwölf Monate, nachdem sie davon Kenntnis erhalten hat, geltend macht.
 
 [^48-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^48-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^48-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 49
 
@@ -1841,7 +1841,7 @@ Die Leistung wird für einen längeren Zeitraum nachgezahlt, wenn die versichert
 Der Entscheid über die Durchführung von Eingliederungsmassnahmen (Art. 28 Abs. 1 Bst. a) hat spätestens zwölf Monate nach Geltendmachung des Leistungsanspruchs nach Artikel 29 Absatz 1 ATSG[^49-2] zu erfolgen.
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^49-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^49-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 50
 
@@ -1852,7 +1852,7 @@ Der Entscheid über die Durchführung von Eingliederungsmassnahmen (Art. 28 Abs.
 <sup>2</sup> Für die Verrechnung findet Artikel 20 Absatz 2 AHVG[^50-2] sinngemäss Anwendung.
 
 [^50-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^50-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^50-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 51
 
@@ -1889,12 +1889,12 @@ Der Bundesrat kann dem BSV Aufgaben der Durchführung übertragen in den Bereich
 - a.[^53-3] Abgabe von Hilfsmitteln nach Artikel 21<sup>quater</sup>;
 - a<sup>bis</sup>.[^53-4] …
 - b. wissenschaftliche Auswertungen nach Artikel 68;
-- c. gesamtschweizerische Information über die Versicherungsleistungen nach Artikel 68<sup>ter</sup>;
+- c. gesamtschweizerische Information über die Versicherungsleistungen nach Artikel 68<sup>te</sup><sup>r</sup>;
 - d. Pilotversuche nach Artikel 68<sup>quater</sup>; und
-- e.[^53-5] Förderung der Invalidenhilfenach den Artikeln 74 und 75.
+- e.[^53-5] Förderung der Invalidenhilfe nach den Artikeln 74 und 75.
 
 [^53-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^53-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^53-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^53-3]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^53-4]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^53-5]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
@@ -1924,7 +1924,7 @@ Der Bundesrat kann dem BSV Aufgaben der Durchführung übertragen in den Bereich
 <sup>6</sup> Die Kantone können Aufgaben kantonaler IV-Stellen nach Artikel 57 Absatz 1 einschliesslich der Kompetenz zum Erlass von Verfügungen auf öffentliche Institutionen nach Artikel 68<sup>bis</sup> Absatz 1 übertragen. Die Übertragung bedarf der Genehmigung des EDI; diese kann an Bedingungen geknüpft und mit Auflagen verbunden werden.[^54-5]
 
 [^54-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^54-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^54-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^54-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^54-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^54-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
@@ -1942,7 +1942,7 @@ Der Bundesrat kann dem BSV Aufgaben der Durchführung übertragen in den Bereich
 <sup>4</sup> Die RAD sind in ihrem medizinischen Sachentscheid im Einzelfall unabhängig.
 
 [^54a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^54a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^54a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 55
 
@@ -1953,7 +1953,7 @@ Der Bundesrat kann dem BSV Aufgaben der Durchführung übertragen in den Bereich
 <sup>2</sup> Der Bundesrat kann Vorschriften über die Erledigung von Streitigkeiten bezüglich der örtlichen Zuständigkeit erlassen und dabei von Artikel 35 ATSG[^55-2] abweichen.[^55-3]
 
 [^55-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^55-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^55-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^55-3]: Eingefügt durch Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 56
@@ -2005,7 +2005,7 @@ Die IV-Stellen haben insbesondere folgende Aufgaben:
 
 [^57a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310); [BBl 2005 3079](https://fedlex.data.admin.ch/eli/fga/2005/490)).
 [^57a-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^57a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^57a-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^57a-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 58
@@ -2015,7 +2015,7 @@ Die IV-Stellen haben insbesondere folgende Aufgaben:
 Der Bundesrat kann anordnen, dass in Abweichung von Artikel 49 Absatz 1 ATSG[^58-2] auch für bestimmte erhebliche Leistungen das formlose Verfahren nach Artikel 51 ATSG zur Anwendung kommt.
 
 [^58-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^58-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^58-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 59
 
@@ -2050,7 +2050,7 @@ Der Bundesrat kann anordnen, dass in Abweichung von Artikel 49 Absatz 1 ATSG[^58
 Ersatzforderungen nach Artikel 78 ATSG[^59a-2] sind bei der IV-Stelle geltend zu machen; diese entscheidet darüber durch Verfügung.
 
 [^59a-1]: Eingefügt durch Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^59a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^59a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 59b
 
@@ -2059,7 +2059,7 @@ Ersatzforderungen nach Artikel 78 ATSG[^59a-2] sind bei der IV-Stelle geltend zu
 Die Rechnungsführung der IV-Stellen wird im Rahmen der Revision der für die IV-Stellen zuständigen Ausgleichskassen nach Artikel 68 Absatz 1 AHVG[^59b-2] durch externe, unabhängige, spezialisierte und vom BSV zugelassene Revisionsstellen geprüft. Das BSV ist befugt, notwendige ergänzende Revisionen selbst vorzunehmen oder durch die Zentrale Ausgleichsstelle oder eine externe Revisionsstelle durchführen zu lassen.
 
 [^59b-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^59b-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^59b-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### B. Die Ausgleichskassen
 
@@ -2086,7 +2086,7 @@ Die Ausgleichskassen haben insbesondere folgende Aufgaben:[^60-1]
 [^60-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^60-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^60-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^60-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^60-4]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^60-5]: Eingefügt durch Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 61
@@ -2116,7 +2116,7 @@ Der Bundesrat regelt die Zusammenarbeit zwischen den IV-Stellen und den Organen 
 <sup>2</sup> Für die Aufsicht über die Organe der AHV beim Vollzug dieses Gesetzes finden die Vorschriften des AHVG sinngemäss Anwendung.
 
 [^64-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^64-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^64-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^64-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 64a
@@ -2142,7 +2142,7 @@ Das BSV übt die fachliche Aufsicht über die IV-Stellen und über die regionale
 Die Eidgenössische Kommission für die Alters‑, Hinterlassenen- und Invalidenversicherung ist im Rahmen von Artikel 73 AHVG[^65-2] auch für Grundsatzfragen der Invalidenversicherung zuständig. Sie umfasst auch Vertreter der Behinderten und der Invalidenhilfe.
 
 [^65-1]: Fassung gemäss Ziff. I des BG vom 9. Okt. 1986, in Kraft seit 1. Jan. 1988 ([AS 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [BBl 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
-[^65-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^65-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### D. Verschiedene Bestimmungen
 
@@ -2170,8 +2170,8 @@ Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten sinngemäss die Bestim
 <sup>2</sup> Die Haftung für Schäden richtet sich nach Artikel 78 ATSG[^66-3] und sinngemäss nach den Artikeln 52, 70 und 71*a* AHVG.
 
 [^66-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^66-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^66-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^66-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^66-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 66a
 
@@ -2192,16 +2192,16 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
 <sup>3</sup> Die Invalidenversicherung stellt der Schweizerischen Unfallversicherungsanstalt die Personendaten, die zur Risikoanalyse der Unfälle von in Artikel 1*a* Absatz 1 Buchstabe c UVG[^66a-11] bezeichneten Personen erforderlich sind, anonymisiert zur Verfügung.[^66a-12]
 
 [^66a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2685](https://fedlex.data.admin.ch/eli/oc/2000/440); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^66a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^66a-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^66a-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^66a-4]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^66a-4]: [SR 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
 [^66a-5]: Eingefügt durch Anhang Ziff. 9 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 15 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^66a-6]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^66a-6]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^66a-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^66a-8]: Eingefügt durch Anhang Ziff. 2 des BG vom 21. Juni 2019 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)). Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^66a-9]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^66a-10]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^66a-11]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^66a-9]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^66a-10]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^66a-11]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^66a-12]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 66b
@@ -2222,7 +2222,7 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
 
 [^66b-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2685](https://fedlex.data.admin.ch/eli/oc/2000/440); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^66b-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^66b-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^66b-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^66b-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^66b-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^66b-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
@@ -2240,8 +2240,8 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
 
 [^66c-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^66c-2]: [AS 2012 3129](https://fedlex.data.admin.ch/eli/oc/2012/357)
-[^66c-3]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^66c-4]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^66c-3]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^66c-4]: [SR 747.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8912)
 [^66c-5]: Fassung gemäss Ziff. II 2 des BG vom 17. März 2017, in Kraft seit 1. Jan. 2020 ([AS 2019 1749](https://fedlex.data.admin.ch/eli/oc/2019/323); [BBl 2016 6435](https://fedlex.data.admin.ch/eli/fga/2016/1228)).
 
 #### Art. 67
@@ -2329,15 +2329,15 @@ Die IV-Stellen, die Versicherungsträger und die Durchführungsorgane der Sozial
 [^68bis-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision) ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)). Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^68bis-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^68bis-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^68bis-4]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^68bis-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^68bis-4]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^68bis-5]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^68bis-6]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^68bis-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^68bis-8]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^68bis-9]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^68bis-10]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^68bis-10]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^68bis-11]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^68bis-12]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^68bis-12]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^68bis-13]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 68<sup>ter</sup>
@@ -2361,7 +2361,7 @@ Die IV-Stellen, die Versicherungsträger und die Durchführungsorgane der Sozial
 <sup>3</sup> Für die Finanzierung können Mittel der Versicherung herangezogen werden.
 
 [^68quater-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision) ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)). Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Juli 2007 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^68quater-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^68quater-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 68<sup>quinquies</sup>
 
@@ -2384,8 +2384,8 @@ Die zuständige IV-Stelle entscheidet durch Verfügung über:
 
 [^68quinquies-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^68quinquies-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^68quinquies-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^68quinquies-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68quinquies-3]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^68quinquies-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^68quinquies-5]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^68quinquies-6]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
@@ -2406,7 +2406,7 @@ Die zuständige IV-Stelle entscheidet durch Verfügung über:
 Ab dem 91. Taggeld übernimmt die Invalidenversicherung für die Personen nach Artikel 27 Absatz 5 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^68septies-2] die Kosten der Taggeldleistungen einschliesslich sämtlicher Sozialversicherungsbeiträge sowie die Kosten für die arbeitsmarktlichen Massnahmen.
 
 [^68septies-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^68septies-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^68septies-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 68<sup>octies</sup>
 
@@ -2440,14 +2440,14 @@ In Abweichung von den Artikeln 52 und 58 ATSG[^69-2] sind die nachstehenden Verf
 <sup>3</sup> Gegen Entscheide der kantonalen Schiedsgerichte nach Artikel 27<sup>quinquies</sup> kann nach Massgabe des Bundesgerichtsgesetzes vom 17. Juni 2005[^69-9] beim Bundesgericht Beschwerde geführt werden.[^69-10]
 
 [^69-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^69-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^69-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^69-3]: Fassung gemäss Ziff. IV 2 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310); [BBl 2005 3079](https://fedlex.data.admin.ch/eli/fga/2005/490)).
 [^69-4]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310); [BBl 2005 3079](https://fedlex.data.admin.ch/eli/fga/2005/490)).
 [^69-5]: Fassung gemäss Anhang Ziff. 2 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^69-6]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310); [BBl 2005 3079](https://fedlex.data.admin.ch/eli/fga/2005/490)).
-[^69-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69-7]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^69-8]: Fassung gemäss Ziff. IV 2 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310); [BBl 2005 3079](https://fedlex.data.admin.ch/eli/fga/2005/490)).
-[^69-9]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^69-9]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^69-10]: Eingefügt durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision) ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
 #### Art. 70
@@ -2456,7 +2456,7 @@ In Abweichung von den Artikeln 52 und 58 ATSG[^69-2] sind die nachstehenden Verf
 
 Die Artikel 87–91 AHVG[^70-1] finden Anwendung auf Personen, die in einer in diesen Bestimmungen umschriebenen Weise die Vorschriften der Invalidenversicherung verletzen.
 
-[^70-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^70-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 2. Teil: Die Förderung der Invalidenhilfe
 
@@ -2500,7 +2500,7 @@ Die Versicherung gewährt den sprachregional oder national tätigen Dachorganisa
 [^74-1]: Fassung gemäss Ziff. II 25 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^74-2]: Fassung gemäss Ziff. II 25 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^74-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^74-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^74-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^74-5]: Eingefügt durch Ziff. 1 des BG vom 9. Okt. 1986 ([AS 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [BBl 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)). Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 75
@@ -2575,7 +2575,7 @@ Die aufgrund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch:
 
 [^78-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2014, Abs. 4 zweiter Teilsatz seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^78-2]: Fassung gemäss Ziff. I 12 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^78-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^78-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 78<sup>bis</sup>
 
@@ -2598,7 +2598,7 @@ Die aufgrund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch:
 <sup>2</sup> Der Bestand der flüssigen Mittel und der Anlagen des Ausgleichsfonds darf in der Regel nicht unter 50 Prozent einer Jahresausgabe sinken.
 
 [^79-1]: Fassung gemäss Anhang Ziff. II 5 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^79-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^79-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 79a
 
@@ -2607,7 +2607,7 @@ Die aufgrund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch:
 Die Verwaltung des IV-Ausgleichsfonds richtet sich nach dem Ausgleichsfondsgesetz vom 16. Juni 2017[^79a-2].
 
 [^79a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 über die Sanierung der Invalidenversicherung ([AS 2010 3835](https://fedlex.data.admin.ch/eli/oc/2010/548); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721)). Fassung gemäss Anhang Ziff. II 5 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^79a-2]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^79a-2]: [SR 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 
 ### 3. Kapitel: Die Überwachung des finanziellen Gleichgewichts
 
@@ -2623,7 +2623,7 @@ Die Bestimmungen des AHVG[^80-3] betreffend die Überwachung des finanziellen Gl
 
 [^80-1]: Fassung gemäss Ziff. I des BG vom 9. Okt. 1986, in Kraft seit 1. Jan. 1988 ([AS 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [BBl 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
 [^80-2]: Aufgehoben durch Anhang Ziff. 1 des BG vom 13. Juni 2008 über die Sanierung der Invalidenversicherung, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3835](https://fedlex.data.admin.ch/eli/oc/2010/548); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721)).
-[^80-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^80-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 4. Teil: Verhältnis zum europäischen Recht
 
@@ -2658,12 +2658,12 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
 [^80a-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 17. Juni 2016 (Ausdehnung des Freizügigkeitsabkommens auf die Republik Kroatien), in Kraft seit 1. Jan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^80a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^80a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^80a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^80a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^80a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^80a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^80a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
 [^80a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
-[^80a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^80a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## 5. Teil: Schluss- und Übergangsbestimmungen
 
@@ -2753,7 +2753,7 @@ Art. 27 Abs. 1 und 2, 53–59, 60 Abs. 2, 62, 64, 66, 67 Abs. 1, 81, 84: 15. Okt
 
 Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in denen das ersatzbegründende Ereignis nach dem Inkrafttreten dieser Bestimmungen eingetreten ist.
 
-[^u1-lvle-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^u1-lvle-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### f. …
 
@@ -2799,7 +2799,7 @@ Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in d
 
 <sup>4</sup> Die Übergangsbestimmungen zu Artikel 18 Absatz 2 AHVG sind sinngemäss anwendbar.
 
-[^u4-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u4-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Schlussbestimmungen der Änderung vom 23. Juni 2000
 
@@ -2830,7 +2830,7 @@ Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in d
 
 <sup>2</sup> Laufende Fürsorgeleistungen an schweizerische Staatsangehörige in Island, Liechtenstein oder Norwegen werden auch nach dem Inkrafttreten der Änderung vom 14. Dezember 2001 im bisherigen Betrag ausgerichtet, solange die einkommensmässigen Voraussetzungen dafür erfüllt sind.
 
-[^u6-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^u6-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Schlussbestimmungen der Änderung vom 21. März 2003 (4. IV-Revision)
 
@@ -2878,7 +2878,7 @@ Die neuen Bestimmungen sind auch anwendbar auf die Taggelder für Eingliederungs
 
 <sup>4</sup> Zuständig für die Prüfung des Härtefalles und die Auszahlung der Renten nach den Absätzen 2 und 3 ist die Ausgleichskasse des Wohnsitzkantons der rentenberechtigten Person. Der Bundesrat regelt die weiteren Einzelheiten des Verfahrens.
 
-[^u7-lvld-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^u7-lvld-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### e. *…*
 
@@ -2954,8 +2954,8 @@ Das nach bisherigem Recht entrichtete Taggeld wird bis zum Abschluss der Einglie
 
 <sup>5</sup> Änderungen von IV-Rentenansprüchen nach den Absätzen 1–4 bewirken weder eine Anpassung der Rentenansprüche nach dem UVG[^u11-lvla-2] (Komplementärrente) noch andere Ausgleichsansprüche der Versicherten.
 
-[^u11-lvla-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^u11-lvla-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^u11-lvla-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^u11-lvla-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### b. Teilnehmerinnen und Teilnehmer am Pilotversuch «Assistenzbudget»
 
@@ -2987,7 +2987,7 @@ c. Nichtanpassung laufender Renten von Rentenbezügerinnen und -bezügern, die d
 
 Für Rentenbezügerinnen und -bezüger, deren Rentenanspruch vor Inkrafttreten dieser Änderung entstanden ist und die bei Inkrafttreten dieser Änderung das 55. Altersjahr vollendet haben, gilt das bisherige Recht.
 
-[^u12-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^u12-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 Anhang[^t-2]
 
@@ -3034,4 +3034,4 @@ Finanzkraft gemäss Verordnung vom 9. November 2005[^annexu1-lvlu1-1] über die 
 <tr><td>Total</td><td>7 004</td><td>100</td><td>100</td><td>694 480</td><td>100.00</td><td>490 000 000</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [SR 613.11](https://fedlex.data.admin.ch/eli/cc/2005/710)
+[^annexu1-lvlu1-1]: [SR 613.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7780)
