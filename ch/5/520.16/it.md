@@ -4,11 +4,11 @@ title: Ordinanza del 19 giugno 2024 concernente il coordinamento dei trasporti i
 short: OCTSE
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/342"
 language: it
-version: 2024-08-01
+version: 2026-01-01
 adopted: 2024-06-19
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/342/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2024-342-20240801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20240801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/342/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2024-342-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,22 +17,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20240801/it"
 
 (OCTSE)
 
-del 19 giugno 2024 (Stato 1° agosto 2024)
+del 19 giugno 2024 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-1]; visto l’articolo 97 della legge federale del 20 dicembre 2019[^ingress-2] sulla protezione della popolazione e sulla protezione civile; visti gli articoli 27 e 57 capoverso 1 della legge del 17 giugno 2016[^ingress-3] sull’approvvigionamento del Paese (LAP); visto l’articolo 57*c* capoverso 2 della legge federale del 19 dicembre 1958[^ingress-4] sulla circolazione stradale; visto l’articolo 97 della legge federale del 20 dicembre 1957[^ingress-5] sulle ferrovie (Lferr); visto l’articolo 6 capoverso 2 della legge del 25 settembre 2015[^ingress-6] sul trasporto di merci; visto l’articolo 13 della legge federale del 20 marzo 2009[^ingress-7] sull’accesso alle professioni di trasportatore su strada (LPTS); visto l’articolo 41 della legge del 20 marzo 2009[^ingress-8] sul trasporto di viaggiatori (LTV),
+visto l’articolo 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-1]; visto l’articolo 97 della legge federale del 20 dicembre 2019[^ingress-2] sulla protezione della popolazione e sulla protezione civile; visti gli articoli 27 e 57 capoverso 1 della legge del 17 giugno 2016[^ingress-3] sull’approvvigionamento del Paese (LAP); visto l’articolo 57*c* capoverso 2 della legge federale del 19 dicembre 1958[^ingress-4] sulla circolazione stradale; visto l’articolo 97 della legge federale del 20 dicembre 1957[^ingress-5] sulle ferrovie (Lferr); visto l’articolo 8 capoverso 2 della legge del 21 marzo 2025[^ingress-6] sul trasporto di merci; visto l’articolo 13 della legge federale del 20 marzo 2009[^ingress-7] sull’accesso alle professioni di trasportatore su strada (LTrS); visto l’articolo 41 della legge del 20 marzo 2009[^ingress-8] sul trasporto di viaggiatori (LTV),[^ingress-9]
 
 ordina:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^ingress-3]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^ingress-4]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-5]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-6]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-7]: [RS 744.10](https://fedlex.data.admin.ch/eli/cc/2009/681)
-[^ingress-8]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^ingress-3]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^ingress-4]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-5]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-6]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-7]: [RS 744.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8860)
+[^ingress-8]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-9]: Nuovo testo giusta l’all. cifra II n. 1 dell’O del 19 nov. 2025 sul trasporto di merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -62,7 +63,7 @@ La presente ordinanza si applica:
 
 <sup>2</sup> Non si applica alle imprese che offrono esclusivamente il trasporto di viaggiatori senza funzione di collegamento (art. 5 dell’ordinanza del 4 novembre 2009[^2-1] sul trasporto di viaggiatori).
 
-[^2-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^2-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 3
 

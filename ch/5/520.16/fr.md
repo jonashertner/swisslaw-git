@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 2024 sur la coordination des transports en situatio
 short: OCTSE
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/342"
 language: fr
-version: 2024-08-01
+version: 2026-01-01
 adopted: 2024-06-19
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/342/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2024-342-20240801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/342/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-342-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,22 +17,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20240801/fr"
 
 (OCTSE)
 
-du 19 juin 2024 (État le 1<sup>er</sup> août 2024)
+du 19 juin 2024 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 150, al. 1, de la loi du 3 février 1995 sur l’armée[^ingress-1], vu l’art. 97 de la loi fédérale du 20 décembre 2019 sur la protection de la population et sur la protection civile[^ingress-2], vu les art. 27 et 57, al. 1, de la loi du 17 juin 2016 sur l’approvisionnement du pays (LAP)[^ingress-3], vu l’art. 57*c*, al. 2, de la loi fédérale du 19 décembre 1958 sur la circulation routière[^ingress-4], vu l’art. 97 de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-5], vu l’art. 6, al. 2, de la loi du 25 septembre 2015 sur le transport de marchandises[^ingress-6], vu l’art. 13 de la loi fédérale du 20 mars 2009 sur les entreprises de transport par route (LEnTR)[^ingress-7], vu l’art. 41 de la loi du 20 mars 2009 sur le transport de voyageurs (LTV)[^ingress-8],
+vu l’art. 150, al. 1, de la loi du 3 février 1995 sur l’armée[^ingress-1], vu l’art 97 de la loi fédérale du 20 décembre 2019 sur la protection de la population et sur la protection civile[^ingress-2], vu les art. 27 et 57, al. 1, de la loi du 17 juin 2016 sur l’approvisionnement du pays (LAP)[^ingress-3], vu l’art. 57*c*, al. 2, de la loi fédérale du 19 décembre 1958 sur la circulation routière[^ingress-4], vu l’art. 97 de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-5], vu l’art. 8, al. 2, de la loi du 21 mars 2025 sur le transport de marchandises[^ingress-6], vu l’art. 13 de la loi fédérale du 20 mars 2009 sur les entreprises de transport par route (LEnTR)[^ingress-7], vu l’art. 41 de la loi du 20 mars 2009 sur le transport de voyageurs (LTV)[^ingress-8],[^ingress-9]
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^ingress-3]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^ingress-4]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-5]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-6]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-7]: [RS 744.10](https://fedlex.data.admin.ch/eli/cc/2009/681)
-[^ingress-8]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^ingress-3]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^ingress-4]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-5]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-6]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-7]: [RS 744.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8860)
+[^ingress-8]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-9]: Nouvelle teneur selon l’annexe ch. II 1 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## Section 1 Dispositions générales
 
@@ -62,7 +63,7 @@ La présente ordonnance s’applique:
 
 <sup>2</sup> Elle n’est pas applicable aux entreprises qui proposent exclusivement des transports de voyageurs sans fonction de desserte (art. 5 de l’ordonnance du 4 novembre 2009 sur le transport de voyageurs[^2-1]).
 
-[^2-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^2-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 3
 

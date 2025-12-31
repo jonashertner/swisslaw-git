@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 2024 über die Koordination des Verkehrs in Ausna
 short: VKOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/342"
 language: de
-version: 2024-08-01
+version: 2026-01-01
 adopted: 2024-06-19
 in_force: 2024-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/342/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2024-342-20240801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20240801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/342/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2024-342-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,22 +17,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/342/20240801/de"
 
 (VKOVA)
 
-vom 19. Juni 2024 (Stand am 1. August 2024)
+vom 19. Juni 2024 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1], Artikel 97 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^ingress-2], die Artikel 27 und 57 Absatz 1 des Landesversorgungsgesetzes vom 17. Juni 2016[^ingress-3] (LVG), Artikel 57*c* Absatz 2 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-4], Artikel 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-5] (EBG), Artikel 6 Absatz 2 des Gütertransportgesetzes vom 25. September 2015[^ingress-6], Artikel 13 des Bundesgesetzes vom 20. März 2009[^ingress-7] über die Zulassung als Strassentransportunternehmen (STUG) sowie Artikel 41 des Personenbeförderungsgesetzes vom 20. März 2009[^ingress-8] (PBG),
+gestützt auf Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1], Artikel 97 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^ingress-2], die Artikel 27 und 57 Absatz 1 des Landesversorgungsgesetzes vom 17. Juni 2016[^ingress-3] (LVG), Artikel 57*c* Absatz 2 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-4], Artikel 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-5] (EBG), Artikel 8 Absatz 2 des Gütertransportgesetzes vom 21. März 2025[^ingress-6], Artikel 13 des Bundesgesetzes vom 20. März 2009[^ingress-7] über die Zulassung als Strassentransportunternehmen (STUG) sowie Artikel 41 des Personenbeförderungsgesetzes vom 20. März 2009[^ingress-8] (PBG),[^ingress-9]
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^ingress-3]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^ingress-4]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-5]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-6]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-7]: [SR 744.10](https://fedlex.data.admin.ch/eli/cc/2009/681)
-[^ingress-8]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^ingress-3]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^ingress-4]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-5]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-6]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-7]: [SR 744.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8860)
+[^ingress-8]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-9]: Fassung gemäss Anhang Ziff. II 1 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -62,7 +63,7 @@ Diese Verordnung gilt für:
 
 <sup>2</sup> Sie gilt nicht für Unternehmen, die ausschliesslich Personenbeförderung ohne Erschliessungsfunktion (Art. 5 der Verordnung vom 4. November 2009[^2-1] über die Personenbeförderung) anbieten.
 
-[^2-1]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^2-1]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 3
 
