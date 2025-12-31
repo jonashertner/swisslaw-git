@@ -3,20 +3,20 @@ canton: LU
 number: "438"
 title: "Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern"
 language: de
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-19
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-11-18
 adopted: 2004-12-14
 in_force: 2004-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/438"
-pdf: "https://srl.lu.ch/api/de/versions/4217/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern
 
-vom 14.12.2004 (Stand 01.08.2024)
+vom 14.12.2004 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -151,7 +151,7 @@ beschliesst:
 <sup>3</sup> Sie hat namentlich folgende Aufgaben: Sie
 
 - a. ist verantwortlich für die Vorbereitung, Durchführung und Überwachung der Aufnahme- und Abschlussprüfungen an Fachmittelschulen,
-- b. wählt auf Antrag der Schulleitung die Prüfungsexpertinnen und -experten und
+- b. bestimmt auf Antrag der Schulleitung die Prüfungsexpertinnen und -experten und
 - c. erlässt Weisungen über das Verfassen der selbständigen Abschlussarbeit und der Fachmaturitätsarbeit.
 
 <sup>4</sup> In personellen und betrieblichen Belangen ist für die Schulstandorte Baldegg und Sursee die Dienststelle Gymnasialbildung und für den Schulstandort Luzern die Dienststelle Berufs- und Weiterbildung zuständig.
