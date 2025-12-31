@@ -3,20 +3,19 @@ canton: GL
 number: VII E/1/2
 title: Verordnung zum Energiegesetz
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-23
+version: 2026-01-01
+version_adopted: 2024-11-06
 adopted: 2001-06-27
 in_force: 2001-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2387/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2605/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Energiegesetz
 
-Vom 27.06.2001 (Stand 01.01.2023)
+Vom 27.06.2001 (Stand 01.01.2026)
 
 Der Landrat erlässt,
 
@@ -375,11 +374,19 @@ folgende Verordnung:
 
 <sup>2</sup> Bei Blockheizkraftwerken (Wärme-Kraftkoppelungsanlagen) ist die elektrische Leistung massgebend.
 
-<sup>3</sup> Für Fotovoltaikanlagen, Wärme-Kraft-Koppelungsanlagen, Anlagen zur Nutzung der Abwärme der Kehrichtverbrennungsanlagen oder zur Nutzung von Wind ermässigen sich die Gebühren auf einen Viertel. Notstromgruppen sind gebührenfrei.
+<sup>3</sup> Für Wärme-Kraft-Koppelungsanlagen ermässigen sich die Gebühren auf einen Viertel.
 
 <sup>4</sup> Für die Berechnung der Gebühren ist die theoretische elektrische oder thermische Leistung, ohne Berücksichtigung von Wirkungsgraden, massgebend. Bei der Erweiterung einer bestehenden Anlage ist für die Berechnung der Gebühr die Erhöhung der installierten Leistung massgebend.
 
 <sup>5</sup> Bei förderungswürdigen Anlagen kann der Regierungsrat die Bewilligungsgebühr reduzieren.
+
+<sup>6</sup> Gebührenfrei sind:
+
+- a. Fotovoltaikanlagen;
+- b. thermische Solaranlagen;
+- c. Anlagen zur Nutzung der Abwärme der Kehrichtverbrennungsanlagen;
+- d. Anlagen zur Nutzung von Wind;
+- e. Notstromgruppen.
 
 #### Art. 27
 
