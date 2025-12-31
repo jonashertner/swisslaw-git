@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/fr"
 
 (OPCi)
 
-du 11 novembre 2020 (État le 1<sup>er</sup> janvier 2024)
+du 11 novembre 2020 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 20 décembre 2019 sur la protection de la population et sur la prot
 
 arrête:
 
-[^ingress-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-1]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 ## Chapitre 1 Objet
 
@@ -69,7 +69,7 @@ L’appréciation médicale de l’aptitude au service de protection civile et d
 
 <sup>2</sup> L’appréciation médicale de l’aptitude des personnes astreintes à faire du service de protection civile (personnes astreintes) relève de la compétence de l’autorité chargée de la convocation.
 
-[^4-1]: [RS 511.12](https://fedlex.data.admin.ch/eli/cc/2004/748)
+[^4-1]: [RS 511.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7387)
 
 ### Section 2 Appréciation médicale de l’aptitude au service de protection civile
 
@@ -91,7 +91,11 @@ Elle apprécie l’aptitude au service de protection civile des personnes suivan
 
 - a. les personnes souhaitant effectuer du service de protection civile volontaire dont la demande a été acceptée et qui ont déjà participé à un recrutement;
 - b. les personnes qui souhaitent effectuer du service volontaire au sein d’une équipe d’aide psychologique d’urgence (*care team*).
-- [tab] <sup>3</sup> Elle apprécie également l’aptitude au service de protection civile des personnes suivantes:
+
+<sup>3</sup>
+
+Elle apprécie également l’aptitude au service de protection civile des personnes suivantes:
+
 - a. les personnes astreintes s’il existe un doute sur leur aptitude;
 - b. les personnes inaptes au service de protection civile qui souhaitent un réexamen de leur aptitude;
 - c. les personnes recrutées pour le service militaire qui ont été déclarées inaptes après le recrutement et qui n’ont pas encore accompli l’école de recrues.
@@ -202,7 +206,7 @@ L’autorité chargée de la convocation supporte les frais liés à l’appréc
 
 <sup>3</sup> Les examens médicaux effectués par un médecin-conseil ou par un spécialiste en dehors du service ne donnent droit ni à la solde, ni à l’allocation pour perte de gain, ni au remboursement des dépenses occasionnées ni aux prestations visées dans la loi fédérale du 19 juin 1992 sur l’assurance-militaire[^14-1].
 
-[^14-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^14-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### Section 4 Dispositions communes
 
@@ -224,7 +228,7 @@ Les personnes qui collaborent ou assistent à l’examen médical ou à l’appr
 
 <sup>4</sup> Le traitement des données sanitaires est régi par les art. 24 à 29 LSIA.
 
-[^16-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^16-1]: [RS 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
 [^16-2]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Chapitre 3 Obligation de servir dans la protection civile
@@ -394,7 +398,7 @@ Donnent droit à la solde:
 
 <sup>3</sup> Les services qui durent au moins deux heures mais moins de huit heures sont comptabilisés et indemnisés à la fin de l’année civile; huit heures ou un reste d’au moins deux heures donnent droit à une solde journalière.
 
-[^27-1]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^27-1]: [RS 510.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7287)
 [^27-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 #### Art. 28
@@ -491,7 +495,7 @@ Les contrôles effectués par la protection civile dans le Système d’informat
 <sup>3</sup> Le responsable des données contenues dans le SIPA est le commandement de l’Instruction (art. 2*a* et annexe 1 OSIAr). L’OFPP est le responsable des données pour le domaine de la protection civile.[^37-3]
 
 [^37-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^37-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^37-2]: [RS 510.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7378)
 [^37-3]: Nouvelle teneur selon l’annexe 2 ch. II 66 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
@@ -567,7 +571,7 @@ Par employés des autorités responsables de la protection civile au sens de l�
 - a. les commandants de la protection civile et leurs remplaçants;
 - b. les instructeurs de la protection civile.
 
-[^45-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^45-1]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 46
 
@@ -822,6 +826,8 @@ Le nombre de places protégées à réaliser dans les nouveaux immeubles est dé
 - a. pour les maisons d’habitation comptant au moins 38 pièces: 2 places protégées pour 3 pièces;
 - b. pour les hôpitaux et les établissements médico-sociaux: 1 place protégée par lit de patient.
 
+<sup>1bis</sup> Sont également considérés comme nouveaux immeubles les extensions, les surélévations, les transformations et les changements d’affectation entraînant la création d’une surface habitable supplémentaire ou une augmentation du nombre de lits de patients.[^70-1]
+
 <sup>2</sup> Les demi-pièces ne sont pas prises en compte dans le calcul.
 
 <sup>3</sup> Le calcul du nombre de places protégées ne tient pas compte des fractions de place protégée.
@@ -838,7 +844,10 @@ Les places protégées excédentaires qui remplissent les critères suivants son
 
 <sup>6</sup> Si les frais supplémentaires reconnus pour la réalisation de l’abri dépassent 5 % des coûts de construction de l’immeuble, le nombre de places protégées est réduit en conséquence. Si le nombre de places protégées qui subsiste est inférieur à 25, le propriétaire doit verser une contribution de remplacement conformément à l’art. 61, al. 1, LPPCI.
 
-<sup>7</sup> Dans les communes ou les zones d’appréciation (art. 74, al. 1) de moins de 1000 habitants, les cantons peuvent ordonner au surplus la réalisation d’abris dans des maisons d’habitation comptant moins de 38 pièces.
+<sup>7</sup> Dans les communes ou les zones d’appréciation (art. 74, al. 1) connaissant un déficit en places protégées, les cantons peuvent ordonner la réalisation d’abris également dans les maisons d’habitation de moins de 38 pièces.[^70-2]
+
+[^70-1]: Introduit par le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^70-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 71
 
@@ -846,9 +855,14 @@ Les places protégées excédentaires qui remplissent les critères suivants son
 
 <sup>1</sup> Les cantons peuvent prévoir que, dans des cas particuliers, aucun abri ne doive être construit et que des contributions de remplacement doivent être versées, notamment dans les bâtiments situés dans des zones particulièrement menacées.
 
-<sup>2</sup> Ils peuvent prévoir qu’aucun abri ne doive être construit dans les bâtiments isolés dans lesquels des personnes ne séjournent que temporairement et qu’aucune contribution de remplacement ne doive être versée pour ces bâtiments.
+<sup>1bis</sup> Si, lors d’une extension, d’une surélévation, d’une transformation ou d’un changement d’affectation, la réalisation d’un abri entraîne des frais disproportionnés ou s’avère impossible, l’obligation de construire peut être satisfaite par le versement d’une contribution de remplacement.[^71-1]
+
+<sup>2</sup> Concernant les bâtiments isolés dans lesquels des personnes ne séjournent que temporairement, les cantons peuvent ordonner qu’il soit renoncé à la construction d’abris et au versement de la contribution de remplacement correspondante.[^71-2]
 
 <sup>3</sup> L’OFPP peut fixer les conditions pour les exceptions à l’obligation de construire des abris.
+
+[^71-1]: Introduit par le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^71-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 72
 
@@ -868,13 +882,18 @@ Les places protégées excédentaires qui remplissent les critères suivants son
 
 <sup>2</sup> Les abris réalisés avant le 1<sup>er</sup> janvier 1987 qui répondent aux exigences minimales ne doivent être équipés que si le Conseil fédéral l’ordonne.
 
-<sup>3</sup> Les abris ou places protégées réalisés avant le 1<sup>er</sup> janvier 1987 qui répondent aux exigences minimales mais qui ne sont pas équipés doivent l’être s’ils sont intégrés dans une nouvelle construction sur le même terrain.
+<sup>2bis</sup> Des toilettes sèches et des lits doivent être installés dans les abris publics qui n’en sont pas encore dotés.[^73-1]
+
+<sup>3</sup> Si, lors d’une nouvelle construction sur le même terrain, des abris ou des places protégées privés réalisés avant le 1<sup>er</sup> janvier 1987 qui répondent aux exigences minimales mais qui sont équipés de manière insuffisante sont pris en compte dans le calcul selon l’art. 70, al. 4 et 5, leur équipement doit être complété.[^73-2]
 
 <sup>4</sup> L’OFPP édicte des directives concernant l’équipement des abris par les propriétaires d’hôpitaux et d’établissements médico-sociaux.
 
 <sup>5</sup> Le matériel requis pour un séjour prolongé dans l’abri doit être entreposé dans le bâtiment ou sur le terrain où se trouve l’abri.
 
 <sup>6</sup> L’OFPP règle les modalités techniques.
+
+[^73-1]: Introduit par le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^73-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 74
 
@@ -909,9 +928,11 @@ L’OFPP fixe le cadre pour la gestion de la construction d’abris et la planif
 
 <sup>1</sup> Les contributions de remplacement au sens de l’art. 61 LPPCi doivent être versées au plus tard 3 mois après le début de la construction.
 
-<sup>2</sup> Elles se montent à 400 francs au moins et à 800 francs au plus par place protégée non construite. Les cantons fixent le montant dans cette fourchette.
+<sup>2</sup> Elles se montent à 1400 francs par place protégée non construite.[^75-1]
 
 <sup>3</sup> Lorsqu’une maison d’habitation, un établissement médico-social ou un hôpital est aliéné, les arriérés sur la contribution de remplacement sont transférés au nouveau propriétaire.
+
+[^75-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 76
 
@@ -986,10 +1007,12 @@ L’OFPP fixe le cadre, notamment:
 
 <sup>4</sup>
 
-Les cantons remettent sur demande à l’OFPP une liste comportant au moins les informations suivantes:
+Les cantons remettent sur demande à l’OFPP une liste par zone d’appréciation et par catégorie d’abri, comportant au moins les informations suivantes:[^81-1]
 
 - a. le nombre d’abris et de places protégées contrôlés;
 - b. le nombre d’abris et de places protégées opérationnels.
+
+[^81-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 82
 
@@ -1096,6 +1119,17 @@ L’OFPP contrôle les nouveaux abris et les abris rénovés.
 <sup>1</sup> Les cantons veillent à assurer, conformément à l’art. 81, le contrôle périodique de la disponibilité opérationnelle et de l’entretien des abris pour biens culturels destinés aux archives cantonales et aux collections d’importance nationale.
 
 <sup>2</sup> À des fins de protection des biens culturels, l’OFPP peut fixer d’autres exigences spécifiques s’appliquant au contrôle périodique des abris.
+
+<sup>3</sup>
+
+Les cantons remettent sur demande à l’OFPP une liste de tous les abris pour biens culturels destinés aux archives cantonales et aux collections d’importance nationale, comportant pour chaque abri pour biens culturels au moins les informations suivantes:
+
+- a. le dernier contrôle effectué;
+- b. la disponibilité opérationnelle;
+- c. le lieu, le nom et l’exploitant;
+- d. le propriétaire.[^88-1]
+
+[^88-1]: Introduit par le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 89
 
@@ -1274,6 +1308,30 @@ Avant de désaffecter une construction protégée, les points suivants doivent �
 
 <sup>5</sup> Il peut régler les conditions et édicter des directives.
 
+#### Art. 102a
+
+**Désaffectation, réaffectation et mise hors service de constructions protégées dans le cadre de l’approbation de la planification des besoins**[^102a-1]
+
+<sup>1</sup> La demande d’approbation de la planification des besoins vaut également comme demande de désaffectation des constructions protégées qui ne sont plus prévues dans la planification des besoins.
+
+<sup>2</sup> Ces dernières sont désaffectées dans leur ensemble lors de l’approbation de la planification des besoins.
+
+<sup>3</sup> Si une construction protégée doit être mise hors service, une demande distincte doit être adressée à l’OFPP.
+
+<sup>4</sup>
+
+Lors de la mise hors service d’une construction protégée, les points suivants doivent être examinés, et le résultat de la vérification doit être joint à la demande visée à l’al. 3:
+
+- a. possibilité de réaffectation en totalité ou en partie en faveur de la protection civile;
+- b. possibilité de réaffectation à des fins proches de celles de la protection civile (art. 76, al. 2);
+- c. possibilité d’une autre utilisation.
+
+<sup>5</sup> L’OFPP décide de la mise hors service.
+
+<sup>6</sup> Il peut édicter des directives concernant la désaffectation et la mise hors service.
+
+[^102a-1]: Introduit par le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+
 #### Art. 103
 
 **Démontage des équipements techniques des constructions protégées**
@@ -1312,6 +1370,22 @@ Les ouvrages de protection doivent garantir une protection minimale contre les e
 **Entretien et disponibilité opérationnelle des ouvrages de protection**
 
 L’OFPP peut régler les modalités techniques concernant l’entretien et la disponibilité opérationnelle des ouvrages de protection.
+
+#### Art. 105a
+
+**Maintien de la valeur**[^105a-1]
+
+<sup>1</sup> Pour les ouvrages de protection de 40 ans ou plus, l’ensemble des composants, à l’exception des fermetures, ainsi que des équipements doivent être remplacés. Dans les cas où des éléments ou équipements ont déjà été remplacés, une dérogation peut être envisagée.
+
+<sup>2</sup> Pour les abris qui ont 40 ans ou plus au moment du contrôle périodique, le remplacement doit intervenir dans les 5 ans.
+
+<sup>3</sup> S’agissant des constructions protégées, le remplacement est effectué en se fondant sur la planification des besoins approuvée.
+
+<sup>4</sup> Au moins tous les 10 ans, les cantons collectent pour chaque ouvrage de protection les données nécessaires à la mise en œuvre du maintien de la valeur et remettent chaque année à l’OFPP les données de l’ensemble des ouvrages de protection sous une forme structurée.
+
+<sup>5</sup> L’OFPP établit des directives concernant la mise en œuvre du maintien de la valeur et la collecte de données décrite à l’al. 4.
+
+[^105a-1]: Introduit par le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 106
 
@@ -1381,6 +1455,10 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 <sup>2</sup> Jusqu’au transfert des fonctions, les personnes qui exercent les fonctions équivalentes de l’ancien droit définies dans l’annexe 5 sont réputées remplir les conditions d’admission à l’instruction des cadres définies dans l’annexe 2.
 
 <sup>3</sup> Les bases de l’instruction doivent être adaptées d’ici au 31 décembre 2022.
+
+<sup>4</sup> Les cantons qui n’ont pas, pour leurs postes de commandement et leurs postes d’attente, de planification des besoins approuvée au sens de l’art. 69, al. 2, LPPCi, en relation avec les art. 91, 92 et 94 de la présente ordonnance ainsi que l’art. 99, al. 4, première phrase, LPPCi, perçoivent le montant forfaitaire annuel (annexe 4) conformément à l’ancien droit jusqu’au 31 décembre 2026.[^112-1]
+
+[^112-1]: Introduit par le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 113
 
@@ -1541,34 +1619,38 @@ Annexe 3[^t-3]
 - 33\. Évaluation du cours
 - 34\. Satisfaction de la clientèle
 
-Annexe 4
+Annexe 4[^t-4]
 
 (art. 99, al. 1)
 
 ## Contributions forfaitaires destinées à assurer la disponibilité opérationnelle des constructions protégées en cas de conflit armé
 
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+
 ### 1. Contributions forfaitaires annuelles pour les constructions protégées: niveaux de contribution
 
 <table>
-<tr><td>Niveau de contribution</td><td>Type de construction</td><td>Montant forfaitaire en francs</td></tr>
-<tr><td>1</td><td>– po att II\* – po att II – po att III – petits centres sanitaires protégés sans alimentation électrique de secours 1)</td><td>2550.–</td></tr>
-<tr><td>2</td><td>– PC I – PC II – PC IIréd – po att I\* – po att I – PC IIréd/po att II\* – PC IIréd/po att II – PC IIréd/po att III</td><td>3000.–</td></tr>
-<tr><td>3</td><td>– PC I/po att I\* – PC I/po att I – PC I/po att II\* – PC I/po att II – PC II/po att I\* – PC II/po att I – PC II/po att II\* – PC II/po att II – PC II/po att III – PC du gouvernement 2)</td><td>3500.–</td></tr>
+<tr><th>Niveau de contribution</th><th>Type de construction</th><th>Montant forfaitaire en francs</th></tr>
+<tr><td>1</td><td>– Poste de commandement du gouvernement</td><td>7100.–</td></tr>
+<tr><td>2</td><td>– PC I – PC II – po att I\* – po att I – PC IIréd/po att II\* – PC IIréd/po att II</td><td>5000.–</td></tr>
+<tr><td>3</td><td>– PC I/po att I\* – PC I/po att I – PC I/po att II\* – PC I/po att II – PC II/po att I\* – PC II/po att I – PC II/po att II\* – PC II/po att II</td><td>6600.–</td></tr>
 <tr><td>4</td><td>– CSP</td><td>4400.–</td></tr>
-<tr><td>5</td><td>– UHP 2) 3) – PC I (PC II) / po att I\* (po att I) / CSP – PC I (PC II) / CSP – po att I\* (po att I) / CSP</td><td>5800.–</td></tr>
+<tr><td>5</td><td>– UHP</td><td>5800.–</td></tr>
+<tr><td>6</td><td>– PC I (PC II) / po att I\* (po att I) / CSP – PC I (PC II) / CSP – po att I\* (po att I) / CSP</td><td>9000.–</td></tr>
 </table>
 
 ### 2. Légendes
 
-<table>
-<tr><td>po att: poste d’attente PC: poste de commandement CSP: centre sanitaire protégé UHP: unité d’hôpital protégée réd: réduit \*: plus grand</td><td>1) Anciens centres sanitaires (po san) utilisés comme petits centres sanitaires protégés 2) Pour les constructions protégées dont la surface est 2 fois plus grande, le montant du forfait est multiplié par 1,5 3) Pour les constructions protégées dont la surface est 3 fois plus grande, le montant du forfait est multiplié par 2</td></tr>
-</table>
-
-### 3. Définitions
-
-<table>
-<tr><td>3.1 PC I: aménagé pour les organes de conduite cantonaux et régionaux de la protection de la population; effectif: 70 à 80 personnes. 3.2 PC II: aménagé pour les éléments d’intervention autonomes dans des régions géographiquement isolées, poste de conduite de la protection civile pour l’engagement ou le perfectionnement; effectif: 55 personnes. 3.3 PC II réd: aménagé pour les éléments d’intervention autonomes dans des régions géographiquement isolées, poste de conduite de la protection civile pour l’engagement ou le perfectionnement; effectif: 30 personnes. 3.4 Po att / postes d’attente: bases logistiques de la protection civile servant à abriter le personnel et le matériel des formations d’intervention de la protection civile, en particulier les membres de l’appui technique, et utilisés en général pour l’entrée en service, l’organisation et la conduite d’interventions ou pour l’accomplissement de cours de répétition. 3.5 Po att I\*: aménagés pour le personnel et le matériel de 3 ou 4 sections de pionniers; effectif: 170 personnes. 3.6 Po att I: aménagés pour le personnel et le matériel de 2 ou 3 sections de pionniers; effectif: 130 personnes. 3.7 Po att II\*: aménagés pour le personnel et le matériel de 1 ou 2 sections de pionniers; effectif: 80 personnes. 3.8 Po att II: aménagés pour le personnel et le matériel de 1 section de pionniers; effectif: 45 personnes. 3.9 Po att III: aménagé pour 1 section de pionniers; effectif: 30 personnes; en règle générale, combiné avec PC II, PC IIréd et abri. 3.10 Les CSP sont des extensions des bases logistiques de la protection civile et servent à l’hébergement protégé de formations d’intervention de la protection civile qui ne peuvent pas être hébergées dans les postes d’attente, en particulier des membres des formations d’assistance. S’ils sont intégrés dans le dispositif cantonal en cas de catastrophe ou de situation d’urgence et disposent de suffisamment de personnel formé pour assurer leur exploitation, ils peuvent être utilisés comme lieu d’hébergement provisoire pour des personnes en quête de protection, comme cabinets médicaux protégés, comme compléments aux points de rencontre d’urgence, etc. En cas de conflit armé, ils peuvent également compléter et renforcer les dispositifs des services de la santé publique. 3.11 Les UHP peuvent être utilisées en cas de catastrophe ou de situation d’urgence pour compléter l’infrastructure hôtelière des hôpitaux, pour autant qu’elles soient équipées en conséquence et intégrées dans le dispositif en cas de catastrophe du canton et qu’il y ait suffisamment de personnel formé pour assurer leur exploitation.</td></tr>
-</table>
+- 2\.1 PC I: poste de commandement pour les organes de conduite cantonaux et régionaux de la protection de la population, aménagé pour un effectif de 70 à 80 personnes.
+- 2\.2 PC II: PC pour les éléments d’intervention autonomes dans des régions isolées, poste de conduite de la protection civile pour l’engagement ou le perfectionnement, aménagé pour un effectif de 55 personnes.
+- 2\.3 PC II réd: PC pour les éléments d’intervention autonomes dans des régions isolées, poste de conduite de la protection civile pour l’engagement ou le perfectionnement, aménagé pour un effectif de 30 personnes.
+- 2\.4 Po att: poste d’attente (art. 90, al. 2).
+- 2\.5 Po att I\*: po att aménagé pour un effectif de 170 personnes et le matériel de 3 ou 4 sections de pionniers.
+- 2\.6 Po att I: po att aménagé pour un effectif de 130 personnes et le matériel de 2 ou 3 sections de pionniers.
+- 2\.7 Po att II\*: po att aménagé pour un effectif de 80 personnes et le matériel de 1 ou 2 sections de pionniers.
+- 2\.8 Po att II: po att aménagé pour un effectif de 45 personnes et le matériel de 1 section de pionniers.
+- 2\.9 CSP: centre sanitaire protégé; les CSP sont des extensions des bases logistiques de la protection civile et servent à l’hébergement protégé de formations d’intervention de la protection civile qui ne peuvent pas être hébergées dans les postes d’attente, en particulier des membres des formations d’assistance. S’ils sont intégrés dans le dispositif cantonal en cas de catastrophe ou de situation d’urgence et disposent de suffisamment de personnel formé, ils peuvent être utilisés comme lieu d’hébergement provisoire pour des personnes en quête de protection, comme cabinets médicaux protégés ou comme compléments aux points de rencontre d’urgence. En cas de conflit armé, ils peuvent également compléter ou renforcer les dispositifs des services de la santé publique.
+- 2\.10 UHP: unité d’hôpital protégée; les UHP complètent l’infrastructure hôtelière des hôpitaux en cas de catastrophe ou de situation d’urgence. Une UHP doit être équipée en conséquence, être intégrée dans le dispositif en cas de catastrophe du canton et disposer de suffisamment de personnel formé.
 
 Annexe 5
 
@@ -1580,12 +1662,12 @@ Annexe 5
 <tr><th>Échelon</th><th>Fonction visée aux annexes 1 et 2</th><th>Fonction de l’ancien droit</th></tr>
 <tr><td>Commandant (échelon du bataillon)</td><td>– Commandant de bataillon – Remplaçant du commandant de bataillon</td><td>– Commandant de bataillon – Suppléant du commandant de bataillon</td></tr>
 <tr><td>Commandant (échelon de la compagnie)</td><td>– Commandant de compagnie – Remplaçant du commandant de compagnie</td><td>– Commandant de compagnie – Suppléant du commandant de compagnie</td></tr>
-<tr><td>Aide de commandement (échelon de l’organe de conduite / du bataillon)</td><td>– Officier de l’organe de conduite [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] – Chef du service de l’aide à la conduite [tab] [tab] [tab] – Chef du service de l’assistance [tab] – Chef du service de l’appui technique [tab] – Chef du service de la logistique [tab] – Tâche supplémentaire sans modification de fonction [tab] – Incorporation sans modification de fonction</td><td>– Officier à la disposition de l’organe de conduite Chef de l’aide à la conduite Chef du suivi de la situation Chef de la télématique Chef de l’information Chef de la protection ABC Chef de la coordination logistique Chef de la protection des biens culturels Chef du service sanitaire Chef de l’équipe *care* [tab] – Chef de l’aide à la conduite Chef du suivi de la situation Chef de la télématique [tab] – Chef de l’assistance [tab] – Chef pionniers [tab] – Chef de la coordination logistique [tab] – Chef du personnel [tab] [tab] – Officier à la disposition du commandant</td></tr>
-<tr><td>Chef de section</td><td>– Officier de l’aide à la conduite [tab] – Officier de l’assistance [tab] – Officier *care* – Officier sanitaire [tab] [tab] – Officier pionnier [tab] – Officier NBC [tab] – Officier de la logistique [tab] – Officier de la protection des biens culturels [tab] [tab] – Tâche supplémentaire sans modification de fonction</td><td>– Officier de l’aide à la conduite [tab] – Officier d’assistance [tab] – Chef de l’équipe *care* – Officier sanitaire Chef du service sanitaire [tab] – Officier pionnier [tab] – Chef de la protection ABC [tab] – Officier de la logistique [tab] – Officier de la protection des biens culturels Chef de la protection des biens culturels [tab] – Officier de la sécurité</td></tr>
+<tr><td>Aide de commandement (échelon de l’organe de conduite / du bataillon)</td><td>– Officier de l’organe de conduite – Chef du service de l’aide à la conduite – Chef du service de l’assistance – Chef du service de l’appui technique – Chef du service de la logistique – Tâche supplémentaire sans modification de fonction – Incorporation sans modification de fonction</td><td>– Officier à la disposition de l’organe de conduite Chef de l’aide à la conduite Chef du suivi de la situation Chef de la télématique Chef de l’information Chef de la protection ABC Chef de la coordination logistique Chef de la protection des biens culturels Chef du service sanitaire Chef de l’équipe *care* – Chef de l’aide à la conduite Chef du suivi de la situation Chef de la télématique – Chef de l’assistance – Chef pionniers – Chef de la coordination logistique – Chef du personnel – Officier à la disposition du commandant</td></tr>
+<tr><td>Chef de section</td><td>– Officier de l’aide à la conduite – Officier de l’assistance – Officier *care* – Officier sanitaire – Officier pionnier – Officier NBC – Officier de la logistique – Officier de la protection des biens culturels – Tâche supplémentaire sans modification de fonction</td><td>– Officier de l’aide à la conduite – Officier d’assistance – Chef de l’équipe *care* – Officier sanitaire Chef du service sanitaire – Officier pionnier – Chef de la protection ABC – Officier de la logistique – Officier de la protection des biens culturels Chef de la protection des biens culturels – Officier de la sécurité</td></tr>
 <tr><td>Sergent-major</td><td>– Sergent-major</td><td>– Sergent-major</td></tr>
 <tr><td>Fourrier</td><td>– Fourrier</td><td>– Fourrier</td></tr>
-<tr><td>Chef de groupe</td><td>– Sous-officier de l’aide à la conduite [tab] – Sous-officier de l’assistance – Sous-officier *care* [tab] – Sous-officier sanitaire [tab] – Sous-officier pionnier [tab] – Sous-officier NBC [tab] – Sous-officier de cuisine [tab] – Sous-officier du matériel [tab] – Sous-officier de l’infrastructure [tab] – Sous-officier des transports [tab] – Sous-officier de la protection des biens culturels – Tâche supplémentaire sans modification de fonction</td><td>– Sous-officier de la télématique Sous-officier de l’aide à la conduite – Sous-officier d’assistance – Pas de fonction équivalente [tab] – Sous-officier sanitaire [tab] – Sous-officier pionnier [tab] – Pas de fonction équivalente [tab] – Chef de cuisine [tab] – Sous-officier du matériel [tab] – Sous-officier des constructions [tab] – Sous-officier des transports [tab] – Sous-officier de la protection des biens culturels – Sous-officier de la sécurité</td></tr>
-<tr><td>Spécialiste (échelon du personnel)</td><td>– Spécialiste *care* [tab] [tab] [tab] – Spécialiste sanitaire [tab] [tab] – Spécialiste NBC [tab] [tab] [tab] [tab] – Ordonnance de bureau [tab] – Chauffeur [tab] – Spécialiste de la protection des biens culturels – Tâche supplémentaire sans modification de fonction [tab]</td><td>– Spécialiste en *care* Préposé à l’aide psychologique d’urgence Spécialiste en assistance spirituelle d’urgence [tab] – Sanitaire Auxiliaire de transport [tab] – Détecteur A Spécialiste en radioprotection Spécialiste en décontamination Spécialiste en défense contre les épizooties [tab] – Pas de fonction équivalente [tab] – Conducteur [tab] – Spécialiste de la protection des biens culturels [tab] – Spécialiste Polycom Spécialiste en *care* Téléphoniste Spécialiste en abris Bûcheron Spécialiste en sécurité antichute Spécialiste en sauvetage en profondeur Spécialiste en sécurité</td></tr>
+<tr><td>Chef de groupe</td><td>– Sous-officier de l’aide à la conduite – Sous-officier de l’assistance – Sous-officier *care* – Sous-officier sanitaire – Sous-officier pionnier – Sous-officier NBC – Sous-officier de cuisine – Sous-officier du matériel – Sous-officier de l’infrastructure – Sous-officier des transports – Sous-officier de la protection des biens culturels – Tâche supplémentaire sans modification de fonction</td><td>– Sous-officier de la télématique Sous-officier de l’aide à la conduite – Sous-officier d’assistance – Pas de fonction équivalente – Sous-officier sanitaire – Sous-officier pionnier – Pas de fonction équivalente – Chef de cuisine – Sous-officier du matériel – Sous-officier des constructions – Sous-officier des transports – Sous-officier de la protection des biens culturels – Sous-officier de la sécurité</td></tr>
+<tr><td>Spécialiste (échelon du personnel)</td><td>– Spécialiste *care* – Spécialiste sanitaire – Spécialiste NBC – Ordonnance de bureau – Chauffeur – Spécialiste de la protection des biens culturels – Tâche supplémentaire sans modification de fonction</td><td>– Spécialiste en *care* Préposé à l’aide psychologique d’urgence Spécialiste en assistance spirituelle d’urgence – Sanitaire Auxiliaire de transport – Détecteur A Spécialiste en radioprotection Spécialiste en décontamination Spécialiste en défense contre les épizooties – Pas de fonction équivalente – Conducteur – Spécialiste de la protection des biens culturels – Spécialiste Polycom Spécialiste en *care* Téléphoniste Spécialiste en abris Bûcheron Spécialiste en sécurité antichute Spécialiste en sauvetage en profondeur Spécialiste en sécurité</td></tr>
 <tr><td>Fonctions de base (échelon du personnel)</td><td>– Préposé à l’aide à la conduite – Préposé à l’assistance – Pionnier – Cuisinier – Préposé à l’infrastructure – Préposé au matériel</td><td>– Collaborateur d’état-major – Préposé à l’assistance – Pionnier – Cuisinier – Préposé aux constructions – Préposé au matériel</td></tr>
 </table>
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2020 über den Zivilschutz (Zivilschutzveror
 short: ZSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/de"
 
 (Zivilschutzverordnung, ZSV)
 
-vom 11. November 2020 (Stand am 1. Januar 2024)
+vom 11. November 2020 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Bevölkerungs- und Zivilschutzgesetz vom 20. Dezember 2019[^in
 
 verordnet:
 
-[^ingress-1]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-1]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 ## 1. Kapitel: Gegenstand
 
@@ -69,7 +69,7 @@ Die medizinische Beurteilung der Schutzdiensttauglichkeit und der Schutzdienstf�
 
 <sup>2</sup> Für die medizinische Beurteilung der Schutzdienstfähigkeit ist die aufbietende Stelle zuständig.
 
-[^4-1]: [SR 511.12](https://fedlex.data.admin.ch/eli/cc/2004/748)
+[^4-1]: [SR 511.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7387)
 
 ### 2. Abschnitt: Medizinische Beurteilung der Schutzdiensttauglichkeit
 
@@ -206,7 +206,7 @@ Die aufbietende Stelle trägt die Kosten der Beurteilung durch den Vertrauensarz
 
 <sup>3</sup> Vertrauens- und fachärztliche Untersuchungen ausserhalb einer Dienstleistung begründen keinen Anspruch auf Sold, Erwerbsausfallentschädigung, Rückerstattung von Auslagen und Leistungen nach dem Bundesgesetz vom 19. Juni 1992[^14-1] über die Militärversicherung.
 
-[^14-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^14-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### 4. Abschnitt: Gemeinsame Bestimmungen
 
@@ -228,7 +228,7 @@ Die an der medizinischen Untersuchung oder Beurteilung beteiligten und anwesende
 
 <sup>4</sup> Die Bearbeitung der sanitätsdienstlichen Daten richtet sich nach den Artikeln 24–29 MIG.
 
-[^16-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^16-1]: [SR 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
 [^16-2]: Fassung gemäss Anhang Ziff. 8 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## 3. Kapitel: Schutzdienstpflicht
@@ -398,7 +398,7 @@ Anspruch auf Sold besteht für:
 
 <sup>3</sup> Dienstleistungen, die mindestens zwei, aber weniger als acht Stunden dauern, werden am Ende des Kalenderjahrs zusammengerechnet und vergütet; je acht Stunden und ein Rest von mindestens zwei Stunden geben Anrecht auf einen Tagessold.
 
-[^27-1]: [SR 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^27-1]: [SR 510.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7287)
 [^27-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 #### Art. 28
@@ -495,7 +495,7 @@ Die Kontrollführung durch den Zivilschutz im Personalinformationssystem der Arm
 <sup>3</sup> Das Kommando Ausbildung ist für die im PISA enthaltenen Daten verantwortlich (Art. 2*a* und Anhang 1 MIV). Für den Bereich Zivilschutz ist das BABS für die im PISA enthaltenen Daten verantwortlich.[^37-3]
 
 [^37-1]: Fassung gemäss Anhang Ziff. 8 der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^37-2]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^37-2]: [SR 510.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7378)
 [^37-3]: Fassung gemäss Anhang 2 Ziff. II 66 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
@@ -571,7 +571,7 @@ Als Personal der für den Zivilschutz zuständigen Stellen nach Artikel 1*a* Abs
 - a. Zivilschutzkommandanten und Zivilschutzkommandantinnen sowie ihre Stellvertreter und Stellvertreterinnen;
 - b. Zivilschutzinstruktoren und Zivilschutzinstruktorinnen.
 
-[^45-1]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^45-1]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 46
 
@@ -826,6 +826,8 @@ Die Anzahl der bei Neubauten zu erstellenden Schutzplätze beträgt:
 - a. für Wohnhäuser ab 38 Zimmern: zwei Schutzplätze pro drei Zimmer;
 - b. für Spitäler, Alters- und Pflegeheime: einen Schutzplatz pro Patientenbett.
 
+<sup>1bis</sup> Als Neubauten gelten auch Anbauten, Aufbauten, Umbauten und Nutzungsänderungen, die zu zusätzlicher Wohnfläche oder einer Erhöhung der Anzahl Patientenbetten führen.[^70-1]
+
 <sup>2</sup> Halbe Zimmer werden nicht mitgezählt.
 
 <sup>3</sup> Bei der Ermittlung der Schutzplatzzahl werden Bruchteile von Schutzplätzen nicht berücksichtigt.
@@ -842,7 +844,10 @@ Die Anzahl der bei Neubauten zu erstellenden Schutzplätze beträgt:
 
 <sup>6</sup> Übersteigen die anerkannten Mehrkosten des Schutzraums 5 Prozent der Gebäudekosten, so ist die Zahl der Schutzplätze entsprechend herabzusetzen. Fällt damit deren Zahl unter 25, so hat der Eigentümer oder die Eigentümerin einen Ersatzbeitrag nach Artikel 61 Absatz 1 BZG zu entrichten.
 
-<sup>7</sup> Die Kantone können anordnen, dass in Gemeinden oder Beurteilungsgebieten (Art. 74 Abs. 1) mit weniger als 1000 Einwohnern und Einwohnerinnen auch bei Wohnhäusern mit weniger als 38 Zimmern Schutzräume erstellt werden müssen.
+<sup>7</sup> Die Kantone können anordnen, dass in Gemeinden oder Beurteilungsgebieten (Art. 74 Abs. 1), in denen eine Unterdeckung an Schutzplätzen besteht, auch bei Wohnhäusern mit weniger als 38 Zimmern Schutzräume erstellt werden müssen.[^70-2]
+
+[^70-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^70-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 71
 
@@ -850,9 +855,14 @@ Die Anzahl der bei Neubauten zu erstellenden Schutzplätze beträgt:
 
 <sup>1</sup> Die Kantone können festlegen, dass in besonderen Fällen anstelle des Baus von Schutzräumen Ersatzbeiträge zu leisten sind; dies gilt insbesondere für Gebäude in besonders stark gefährdeten Gebieten.
 
-<sup>2</sup> Sie können festlegen, dass in abgelegenen Gebäuden, in denen sich nur zeitweise Menschen aufhalten, keine Schutzräume erstellt und keine Ersatzbeiträge geleistet werden müssen.
+<sup>1bis</sup> Ist bei Anbauten, Aufbauten, Umbauten oder Nutzungsänderungen der Bau eines Schutzraums mit unverhältnismässigem Aufwand verbunden oder unmöglich, so kann die Baupflicht durch die Leistung eines Ersatzbeitrags erfüllt werden.[^71-1]
+
+<sup>2</sup> Die Kantone können festlegen, dass in abgelegenen Gebäuden, in denen sich nur zeitweise Menschen aufhalten, keine Schutzräume erstellt und für diese keine Ersatzbeiträge geleistet werden müssen.[^71-2]
 
 <sup>3</sup> Das BABS kann die Rahmenbedingungen für die Ausnahmen von der Schutzraumbaupflicht festlegen.
+
+[^71-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^71-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 72
 
@@ -872,13 +882,18 @@ Die Anzahl der bei Neubauten zu erstellenden Schutzplätze beträgt:
 
 <sup>2</sup> Schutzräume, die vor dem 1. Januar 1987 erstellt wurden und den Mindestanforderungen entsprechen, müssen erst auf Anordnung des Bundesrats ausgerüstet werden.
 
-<sup>3</sup> Werden vor dem 1. Januar 1987 erstellte Schutzräume oder Schutzplätze, die den Mindestanforderungen entsprechen, jedoch nicht ausgerüstet sind, bei einem Neubau auf dem gleichen Areal in die Berechnung einbezogen, so sind diese auszurüsten.
+<sup>2bis</sup> Nicht mit Trockenklosetts und Liegestellen ausgerüstete öffentliche Schutzräume müssen damit nachgerüstet werden.[^73-1]
+
+<sup>3</sup> Vor dem 1. Januar 1987 erstellte private Schutzräume und Schutzplätze, welche die Mindestanforderungen erfüllen, die aber nicht genügend ausgerüstet sind, müssen nachgerüstet werden, wenn sie bei einem Neubau auf dem gleichen Areal in die Berechnung nach Artikel 70 Absätze 4 und 5 einbezogen werden.[^73-2]
 
 <sup>4</sup> Das BABS erlässt Vorgaben zur Ausrüstung der Schutzräume durch Eigentümer und Eigentümerinnen von Spitälern, Alters- und Pflegeheimen.
 
 <sup>5</sup> Das für einen längeren Schutzraumaufenthalt erforderliche Material ist im Gebäude oder auf dem Areal, wo sich der Schutzraum befindet, zu lagern.
 
 <sup>6</sup> Das BABS regelt die technischen Einzelheiten.
+
+[^73-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^73-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 74
 
@@ -913,9 +928,11 @@ Das BABS legt die Rahmenbedingungen und das Verfahren zur Steuerung des Schutzra
 
 <sup>1</sup> Die Ersatzbeiträge nach Artikel 61 BZG sind spätestens drei Monate nach dem Baubeginn zu entrichten.
 
-<sup>2</sup> Sie betragen 400 bis 800 Franken pro nicht erstellten Schutzplatz. Die Kantone bestimmen die Höhe der Ersatzbeiträge innerhalb dieser Bandbreite.
+<sup>2</sup> Sie betragen 1400 Franken pro nicht erstellten Schutzplatz.[^75-1]
 
 <sup>3</sup> Wird ein Wohnhaus, ein Heim oder ein Spital veräussert, so geht eine noch nicht beglichene Ersatzbeitragsschuld auf den neuen Eigentümer oder die neue Eigentümerin über.
+
+[^75-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 76
 
@@ -990,10 +1007,12 @@ Das BABS regelt die Rahmenbedingungen, insbesondere:
 
 <sup>4</sup>
 
-Die Kantone übermitteln auf Antrag dem BABS eine Zusammenstellung, die mindestens folgende Angaben enthält:
+Die Kantone übermitteln dem BABS auf Antrag eine Zusammenstellung, die pro Beurteilungsgebiet und Art des Schutzraums mindestens folgende Angaben enthält:[^81-1]
 
 - a. die Anzahl der kontrollierten Schutzräume und Schutzplätze;
 - b. die Anzahl der betriebsbereiten Schutzräume und Schutzplätze.
+
+[^81-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 82
 
@@ -1054,7 +1073,7 @@ Das BABS genehmigt das Projekt, sofern die folgenden Voraussetzungen erfüllt si
 
 <sup>6</sup> Das BABS regelt die weiteren kulturgüterschutzspezifischen Anforderungen.
 
-[^84-1]: Die SIA-Norm 261 kann im Internet beim Schweizerischen Ingenieur- und Architektenverein kostenpflichtig abgerufen werden (www.sia.ch&gt; sia.shop &gt; Normenwerk &gt; Architekt &gt; 261).
+[^84-1]: Die SIA-Norm 261 kann im Internet beim Schweizerischen Ingenieur- und Architektenverein kostenpflichtig abgerufen werden ([www.sia.ch](http://www.sia.ch) &gt; sia.shop &gt; Normenwerk &gt; Architekt &gt; 261).
 
 #### Art. 85
 
@@ -1100,6 +1119,17 @@ Das BABS kontrolliert die neuen und die erneuerten Kulturgüterschutzräume.
 <sup>1</sup> Die Kantone sorgen nach Artikel 81 für die periodische Kontrolle der Betriebsbereitschaft und des Unterhalts der Kulturgüterschutzräume für die kantonalen Archive und die Sammlungen von nationaler Bedeutung.
 
 <sup>2</sup> Das BABS kann zum Schutz der Kulturgüter weitere kulturgüterschutzspezifische Anforderungen an die periodische Kontrolle von Kulturgüterschutzräumen festlegen.
+
+<sup>3</sup>
+
+Die Kantone übermitteln dem BABS auf Antrag eine Zusammenstellung aller Kulturgüterschutzräume für kantonale Archive und Sammlungen von nationaler Bedeutung, die für jeden Kulturgüterschutzraum folgende Angaben enthält:
+
+- a. letzte erfolgte Kontrolle;
+- b. Betriebsbereitschaft;
+- c. Ort, Bezeichnung und Betreiberin;
+- d. Eigentümer oder Eigentümerin.[^88-1]
+
+[^88-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 89
 
@@ -1260,7 +1290,7 @@ Das BABS kontrolliert die neuen und erneuerten Schutzanlagen.
 
 #### Art. 102
 
-**Aufhebung, Umnutzung und Stilllegung von Schutzanlagen**
+**Aufhebung, Umnutzung und Stilllegung von einzelnen Schutzanlagen[^102-1]**
 
 <sup>1</sup> Die Kantone reichen dem BABS ihre Gesuche um Aufhebung oder Stilllegung einer Schutzanlage ein.
 
@@ -1277,6 +1307,32 @@ Bei der Aufhebung einer Schutzanlage ist Folgendes zu prüfen:
 <sup>4</sup> Das BABS entscheidet über die Aufhebung oder Stilllegung.
 
 <sup>5</sup> Es kann die Rahmenbedingungen und Vorgaben regeln.
+
+[^102-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+
+#### Art. 102a
+
+**Aufhebung, Umnutzung und Stilllegung von Schutzanlagen im Rahmen der Genehmigung der Bedarfsplanung**[^102a-1]
+
+<sup>1</sup> Das Gesuch um Genehmigung der Bedarfsplanung gilt gleichzeitig als Gesuch um Aufhebung der nicht mehr in der Bedarfsplanung vorgesehenen Schutzanlagen.
+
+<sup>2</sup> Die nicht mehr in der Bedarfsplanung vorgesehenen Schutzanlagen werden mit der Genehmigung der Bedarfsplanung gesamthaft aufgehoben.
+
+<sup>3</sup> Soll eine Schutzanlage stillgelegt werden, so muss dem BABS ein separates Gesuch gestellt werden.
+
+<sup>4</sup>
+
+Bei der Stilllegung einer Schutzanlage ist Folgendes zu prüfen und das Resultat dem Gesuch nach Absatz 3 beizulegen:
+
+- a. die Möglichkeit einer Umnutzung der Schutzanlage oder eines Teils davon zugunsten des Zivilschutzes;
+- b. die Möglichkeit einer zivilschutznahen Umnutzung (Art. 76 Abs. 2);
+- c. die Möglichkeit einer anderweitigen Nutzung.
+
+<sup>5</sup> Das BABS entscheidet über die Stilllegung.
+
+<sup>6</sup> Es kann Vorgaben zur Aufhebung und Stilllegung machen.
+
+[^102a-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 103
 
@@ -1316,6 +1372,22 @@ Schutzbauten müssen einen Basisschutz gegen die Wirkungen moderner Waffen gewä
 **Unterhalt und Betriebsbereitschaft von Schutzbauten**
 
 Das BABS kann die technischen Einzelheiten für den Unterhalt und die Betriebsbereitschaft der Schutzbauten regeln.
+
+#### Art. 105a
+
+**Werterhalt**[^105a-1]
+
+<sup>1</sup> Ist eine Schutzbaute vierzig oder mehr Jahre alt, so müssen mit Ausnahme der Schutzbauabschlüsse sämtliche Schutzbaukomponenten sowie die Ausrüstung ersetzt werden. Bei Komponenten oder Ausrüstungen, die schon ersetzt wurden, kann ein Verzicht auf den Ersatz einzelner Komponenten oder Ausrüstungen geprüft werden.
+
+<sup>2</sup> Ist der Schutzraum im Zeitpunkt der periodischen Schutzraumkontrolle vierzig oder mehr Jahre alt, so erfolgt der Ersatz innerhalb von fünf Jahren.
+
+<sup>3</sup> Bei Schutzanlagen erfolgt der Ersatz auf der Grundlage der genehmigten Bedarfsplanung.
+
+<sup>4</sup> Die Kantone erheben die zur Umsetzung des Werterhalts erforderlichen Daten für jede Schutzbaute mindestens alle zehn Jahre. Sie liefern dem BABS jährlich die Daten sämtlicher Schutzbauten in strukturierter Form.
+
+<sup>5</sup> Das BABS macht Vorgaben zum Vollzug des Werterhalts sowie zur Datenerhebung nach Absatz 4.
+
+[^105a-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 106
 
@@ -1385,6 +1457,10 @@ Die Aufhebung und die Änderung anderer Erlasse sind in Anhang 6 geregelt.
 <sup>2</sup> Bis zur Überführung der Funktionen gelten als Zulassungsbedingung für die Kaderausbildung nach Anhang 2 die gleichwertigen Funktionen nach bisherigem Recht in Anhang 5.
 
 <sup>3</sup> Die Grundlagen für die Ausbildung sind bis 31. Dezember 2022 anzupassen.
+
+<sup>4</sup> Kantonen, in denen keine genehmigte Bedarfsplanung für ihre Kommandoposten und Bereitstellungsanlagen nach Artikel 69 Absatz 2 BZG in Verbindung mit den Artikeln 91, 92 und 94 dieser Verordnung sowie Artikel 99 Absatz 4 erster Satz BZG vorliegt, wird der jährliche Pauschalbetrag (Anhang 4) bis 31. Dezember 2026 nach bisherigem Recht ausgerichtet.[^112-1]
+
+[^112-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 113
 
@@ -1545,34 +1621,38 @@ Anhang 3[^t-3]
 - 33\. Veranstaltungsbeurteilung
 - 34\. Kundenzufriedenheit
 
-Anhang 4
+Anhang 4[^t-4]
 
 (Art. 99 Abs. 1)
 
 ## Pauschalbeitrag zur Sicherstellung der Betriebsbereitschaft der Schutzanlagen für den bewaffneten Konflikt
 
+[^t-4]: Fassung gemäss Ziff. II der V vom 22. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+
 ### 1. Jährliche Pauschalbeiträge für Schutzanlagen – Beitragsstufen
 
 <table>
-<tr><td>Beitragsstufe</td><td>Schutzanlagentyp</td><td>Pauschalbeitrag in Fr.</td></tr>
-<tr><td>1</td><td>– BSA II\* – BSA II – BSA III – Kleine geschützte Sanitätsstellen ohne Not-stromversorgung 1)</td><td>2550.–</td></tr>
-<tr><td>2</td><td>– KP I – KP II – KP IIred – BSA I\* – BSA I – KP IIred/BSA II\* – KP IIred/BSA II – KP IIred/BSA III</td><td>3000.–</td></tr>
-<tr><td>3</td><td>– KP I/BSA I\* – KP I/BSA I – KP I/BSA II\* – KP I/BSA II – KP II/BSA I\* – KP II/BSA I – KP II/BSA II\* – KP II/BSA II – KP II/BSA III – Regierungs-KP 2)</td><td>3500.–</td></tr>
+<tr><th>Beitragsstufe</th><th>Schutzanlagentyp</th><th>Pauschalbeitrag in Fr.</th></tr>
+<tr><td>1</td><td>– Kommandoposten der Regierung</td><td>7100.–</td></tr>
+<tr><td>2</td><td>– KP I – KP II – BSA I\* – BSA I – KP II red. / BSA II\* – KP II red. / BSA II</td><td>5000.–</td></tr>
+<tr><td>3</td><td>– KP I / BSA I\* – KP I / BSA I – KP I / BSA II\* – KP I / BSA II – KP II / BSA I\* – KP II / BSA I – KP II / BSA II\* – KP II / BSA II</td><td>6600.–</td></tr>
 <tr><td>4</td><td>– GST</td><td>4400.–</td></tr>
-<tr><td>5</td><td>– GH 2) 3) – KP I (KP II) / BSA I\* (BSA I) / GST – KP I (KP II) / GST – BSA I\* (BSA I) / GST</td><td>5800.–</td></tr>
+<tr><td>5</td><td>– GH</td><td>5800.–</td></tr>
+<tr><td>6</td><td>– KP I (KP II) / BSA I\* (BSA I) / GST – KP I (KP II) / GST – BSA I\* (BSA I) / GST</td><td>9000.–</td></tr>
 </table>
 
 ### 2. Legende
 
-<table>
-<tr><td>BSA: Bereitstellungsanlagen KP: Kommandoposten GST: geschützte Sanitätsstelle GH: geschütztes Spital red: reduziert (kleiner) \*: «Stern» (grösser)</td><td>1) Ehemalige Sanitätsposten (San Po), die als kleine geschützte Sanitätsstellen verwendet werden. 2) Bei flächenmässig doppelt so grossen Schutzanlagen wird der jährliche Pauschalbeitrag um den Faktor 1,5 erhöht. 3) Bei flächenmässig dreimal so grossen Schutzanlagen wird der jährliche Pauschalbeitrag um den Faktor 2 erhöht.</td></tr>
-</table>
-
-### 3. Definitionen
-
-<table>
-<tr><td>3.1 KP I: Ausgelegt für kantonale und regionale Führungsorgane des Bevölkerungsschutzes. Personalbestand 70–80 Personen. 3.2 KP II: Ausgelegt für autonome Einsatzelemente in geografisch abgelegenen Gebieten, Führungsstandort des Zivilschutzes für den Einsatz oder für die Weiterbildung. Personalbestand 55 Personen. 3.3 KP II red: Ausgelegt für autonome Einsatzelemente in geografisch abgelegenen Gebieten, Führungsstandort des Zivilschutzes für den Einsatz oder für die Weiterbildung. Personalbestand 30 Personen. 3.4 BSA / Bereitstellungsanlagen: Logistikbasen des Zivilschutzes. Diese dienen der geschützten Unterbringung des Personals und Materials der Einsatzformationen des Zivilschutzes, insbesondere der Angehörigen der Technischen Hilfe, und werden in der Regel als Einrückungs-, Organisations- und Führungsstandort für den Einsatz oder die Durchführung von Wiederholungskursen genutzt. 3.5 BSA I\*: Ausgelegt für Personal und Material für 3–4 Pionierzüge; Personalbestand 170 Personen. 3.6 BSA I: Ausgelegt für Personal und Material für 2–3 Pionierzüge; Personal-bestand 130 Personen. 3.7 BSA II\*: Ausgelegt für Personal und Material für 1–2 Pionierzüge; Personalbestand 80 Personen. 3.8 BSA II: Ausgelegt für Personal und Material für 1 Pionierzug; Personalbestand 45 Personen. 3.9 BSA III: Ausgelegt für 1 Pionierzug; Personalbestand 30 Personen; grundsätzlich in Kombination mit KP II und KP IIred sowie Schutzraum. 3.10 GST sind Erweiterungen der Logistikbasen des Zivilschutzes und dienen zur geschützten Unterbringung von Einsatzformationen des Zivilschutzes, die nicht in Bereitstellungsanlagen untergebracht werden können, insbesondere von Angehörigen der Betreuung. Sofern sie in das Katastrophen- und Notfalldispositiv der Kantone eingebunden sind und über genügend ausgebildetes Personal verfügen, das den Betrieb sicherstellen kann, können sie als Betreustellen zur vorübergehenden Unterbringung von schutzsuchenden Personen, als geschützte Arztpraxen, als Ergänzung zu Notfalltreffpunkten usw. benutzt werden. Im Fall eines bewaffneten Konflikts können sie zur Ergänzung und Verstärkung des Gesundheitswesens gebraucht werden. 3.11 GH können bei Katastrophen und in Notlagen zur Ergänzung der Betteninfrastruktur von Spitälern beigezogen werden, sofern sie entsprechend ausgerüstet und ins Katastrophendispositiv der Kantone eingebunden sind sowie über genügend ausgebildetes Personal verfügen, das den Betrieb sicherstellen kann.</td></tr>
-</table>
+- 2\.1 KP I: Kommandoposten für kantonale und regionale Führungsorgane des Bevölkerungsschutzes, ausgelegt für einen Personalbestand von 70–80 Personen
+- 2\.2 KP II: KP für autonome Einsatzelemente in abgelegenen Gebieten, Führungsstandort des Zivilschutzes für den Einsatz oder die Weiterbildung, ausgelegt für einen Personalbestand von 55 Personen
+- 2\.3 KP II red: Kommandoposten für autonome Einsatzelemente in abgelegenen Gebieten, Führungsstandort des Zivilschutzes für den Einsatz oder die Weiterbildung, ausgelegt für einen Personalbestand von 30 Personen
+- 2\.4 BSA: Bereitstellungsanlage (Art. 90 Abs. 2)
+- 2\.5 BSA I\*: BSA ausgelegt für einen Personalbestand von 170 Personen und Material für 3–4 Pionierzüge
+- 2\.6 BSA I: BSA ausgelegt für einen Personalbestand von 130 Personen und Material für 2–3 Pionierzüge
+- 2\.7 BSA II\*: BSA ausgelegt für einen Personalbestand von 80 Personen und Material für 1–2 Pionierzüge
+- 2\.8 BSA II: BSA ausgelegt für einen Personalbestand von 45 Personen und Material für 1 Pionierzug
+- 2\.9 GST: geschützte Sanitätsstellen; GST sind Erweiterungen der Logistikbasen des Zivilschutzes und dienen zur geschützten Unterbringung von Einsatzformationen des Zivilschutzes, die nicht in Bereitstellungsanlagen untergebracht werden können, insbesondere von Angehörigen der Betreuung. Sofern die GST in das Katastrophen- und Notfalldispositiv der Kantone eingebunden ist und über genügend ausgebildetes Personal verfügt, kann sie insbesondere als Betreustelle zur vorübergehenden Unterbringung von schutzsuchenden Personen, als geschützte Arztpraxis oder als Ergänzung von Notfalltreffpunkten genutzt werden. Im Fall eines bewaffneten Konflikts kann die GST zur Ergänzung oder Verstärkung des Gesundheitswesens genutzt werden.
+- 2\.10 GH: geschützte Spitäler; GH dienen der Ergänzung der Betteninfrastruktur von Spitälern im Fall einer Katastrophe oder Notlage. Ein GH muss entsprechend ausgerüstet sein, in das kantonale Katastrophendispositiv eingebunden sein und über genügend ausgebildetes Personal verfügen.
 
 Anhang 5
 
@@ -1584,12 +1664,12 @@ Anhang 5
 <tr><th>Stufe</th><th>Funktion nach den Anhängen 1 und 2</th><th>bisherige Funktion</th></tr>
 <tr><td>Kommandant/in Stufe Bataillon</td><td>– Bataillonskommandant/in – Bataillonskommandant/in Stellvertreter/in</td><td>– Bataillonskommandant/in – Bataillonskommandant/in Stellvertreter/in</td></tr>
 <tr><td>Kommandant/in Stufe Kompanie</td><td>– Kompaniekommandant/in – Kompaniekommandant/in Stellvertreter/in</td><td>– Kompaniekommandant/in – Kompaniekommandant/in Stellvertreter/in</td></tr>
-<tr><td>Führungsgehilfe/‑gehilfin (Stufe Führungsorgan/Bataillon)</td><td>– Offizier/in Führungsorgan [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] – Chef/in Führungsunterstützung [tab] [tab] [tab] – Chef/in Betreuung [tab] – Chef/in Technische Hilfe [tab] – Chef/in Logistik [tab] – Zusatzaufgabe ohne Funktionsänderung [tab] – Einteilung ohne Funktionsänderung</td><td>– Offizier/in zur Verfügung Führungsorgan Chef/in Führungsunterstützung Chef/in Lage Chef/in Telematik Chef/in Information Chef/in ABC-Schutz Chef/in Logistische Koordination Chef/in Kulturgüterschutz Chef/in Sanität Chef/in Care [tab] – Chef/in Führungsunterstützung Chef/in Lage Chef/in Telematik [tab] – Chef/in Betreuung [tab] – Chef/in Pionier [tab] – Chef/in Logistische Koordination [tab] – Chef/in Personelles [tab] – Offizier/in zur Verfügung Kommandant/in</td></tr>
-<tr><td>Zugführer/in</td><td>– Führungsunterstützungsoffizier/in [tab] – Betreuungsoffizier/in [tab] – Care-Offizier/in [tab] – Sanitätsoffizier/in [tab] [tab] – Pionieroffizier/in [tab] – ABC-Offizier/in [tab] – Logistikoffizier/in [tab] – Kulturgüterschutzoffizier/in [tab] [tab] – Zusatzaufgabe ohne Funktionsänderung</td><td>– Führungsunterstützungsoffizier/in [tab] – Betreuungsoffizier/in [tab] – Chef/in Care [tab] – Sanitätsoffizier/in Chef/in Sanität [tab] – Pionieroffizier/in [tab] – Chef/in ABC-Schutz [tab] – Logistikoffizier/in [tab] – Kulturgüterschutzoffizier/in Chef/in Kulturgüterschutz [tab] – Sicherheitsoffizier/in</td></tr>
+<tr><td>Führungsgehilfe/‑gehilfin (Stufe Führungsorgan/Bataillon)</td><td>– Offizier/in Führungsorgan – Chef/in Führungsunterstützung – Chef/in Betreuung – Chef/in Technische Hilfe – Chef/in Logistik – Zusatzaufgabe ohne Funktionsänderung – Einteilung ohne Funktionsänderung</td><td>– Offizier/in zur Verfügung Führungsorgan Chef/in Führungsunterstützung Chef/in Lage Chef/in Telematik Chef/in Information Chef/in ABC-Schutz Chef/in Logistische Koordination Chef/in Kulturgüterschutz Chef/in Sanität Chef/in Care – Chef/in Führungsunterstützung Chef/in Lage Chef/in Telematik – Chef/in Betreuung – Chef/in Pionier – Chef/in Logistische Koordination – Chef/in Personelles – Offizier/in zur Verfügung Kommandant/in</td></tr>
+<tr><td>Zugführer/in</td><td>– Führungsunterstützungsoffizier/in – Betreuungsoffizier/in – Care-Offizier/in – Sanitätsoffizier/in – Pionieroffizier/in – ABC-Offizier/in – Logistikoffizier/in – Kulturgüterschutzoffizier/in – Zusatzaufgabe ohne Funktionsänderung</td><td>– Führungsunterstützungsoffizier/in – Betreuungsoffizier/in – Chef/in Care – Sanitätsoffizier/in Chef/in Sanität – Pionieroffizier/in – Chef/in ABC-Schutz – Logistikoffizier/in – Kulturgüterschutzoffizier/in Chef/in Kulturgüterschutz – Sicherheitsoffizier/in</td></tr>
 <tr><td>Feldweibel</td><td>– Feldweibel</td><td>– Feldweibel</td></tr>
 <tr><td>Fourier/in</td><td>– Fourier/in</td><td>– Fourier/in</td></tr>
-<tr><td>Gruppenführer/in</td><td>– Führungsunterstützungsunteroffizier/in [tab] [tab] – Betreuungsunteroffizier/in – Care-Unteroffizier/in [tab] – Sanitätsunteroffizier/in [tab] – Pionierunteroffizier/in [tab] – ABC-Unteroffizier/in [tab] – Küchenunteroffizier/in [tab] – Materialunteroffizier/in [tab] – Infrastrukturunteroffizier/in [tab] – Transportunteroffizier/in [tab] – Kulturgüterschutzunteroffizier/in [tab] – Zusatzaufgabe ohne Funktionsänderung</td><td>– Telematikunteroffizier/in Führungsunterstützungsunteroffizier/in [tab] – Betreuungsunteroffizier/in – Keine gleichwertige Funktion [tab] – Sanitätsunteroffizier/in [tab] – Pionierunteroffizier/in [tab] – Keine gleichwertige Funktion [tab] – Küchenchef/in [tab] – Materialunteroffizier/in [tab] – Anlageunteroffizier/in [tab] – Transportunteroffizier/in [tab] – Kulturgüterschutzunteroffizier/in [tab] – Sicherheitsunteroffizier/in</td></tr>
-<tr><td>Spezialist/in (Stufe Mannschaft)</td><td>– Care-Spezialist/in [tab] [tab] [tab] – Sanitätsspezialist/in [tab] [tab] – ABC-Spezialist/in [tab] [tab] [tab] [tab] – Büroordonanz [tab] – Fahrer/in [tab] – Kulturgüterschutzspezialist/in [tab] – Zusatzaufgabe ohne Funktionsänderung [tab]</td><td>– Spezialist/in Care Psychologische/r Nothelfer/in Spezialist/in Notfallseelsorge [tab] – Sanitäter/in Transporthelfer/in [tab] – A-Spürer/in Sachkundige/r Strahlenschutz Spezialist/in Dekontamination Spezialist/in Seuchenwehr [tab] – Keine gleichwertige Funktion [tab] – Fahrer/in [tab] – Spezialist/in Kulturgüterschutz [tab] – Spezialist/in Polycom Spezialist/in Pflege Spezialist/in Hotline Spezialist/in Schutzraum Holzer/in Spezialist/in Absturzsicherung Spezialist/in Tiefenrettung Spezialist/in Sicherheit</td></tr>
+<tr><td>Gruppenführer/in</td><td>– Führungsunterstützungsunteroffizier/in – Betreuungsunteroffizier/in – Care-Unteroffizier/in – Sanitätsunteroffizier/in – Pionierunteroffizier/in – ABC-Unteroffizier/in – Küchenunteroffizier/in – Materialunteroffizier/in – Infrastrukturunteroffizier/in – Transportunteroffizier/in – Kulturgüterschutzunteroffizier/in – Zusatzaufgabe ohne Funktionsänderung</td><td>– Telematikunteroffizier/in Führungsunterstützungsunteroffizier/in – Betreuungsunteroffizier/in – Keine gleichwertige Funktion – Sanitätsunteroffizier/in – Pionierunteroffizier/in – Keine gleichwertige Funktion – Küchenchef/in – Materialunteroffizier/in – Anlageunteroffizier/in – Transportunteroffizier/in – Kulturgüterschutzunteroffizier/in – Sicherheitsunteroffizier/in</td></tr>
+<tr><td>Spezialist/in (Stufe Mannschaft)</td><td>– Care-Spezialist/in – Sanitätsspezialist/in – ABC-Spezialist/in – Büroordonanz – Fahrer/in – Kulturgüterschutzspezialist/in – Zusatzaufgabe ohne Funktionsänderung</td><td>– Spezialist/in Care Psychologische/r Nothelfer/in Spezialist/in Notfallseelsorge – Sanitäter/in Transporthelfer/in – A-Spürer/in Sachkundige/r Strahlenschutz Spezialist/in Dekontamination Spezialist/in Seuchenwehr – Keine gleichwertige Funktion – Fahrer/in – Spezialist/in Kulturgüterschutz – Spezialist/in Polycom Spezialist/in Pflege Spezialist/in Hotline Spezialist/in Schutzraum Holzer/in Spezialist/in Absturzsicherung Spezialist/in Tiefenrettung Spezialist/in Sicherheit</td></tr>
 <tr><td>Grundfunktionen (Stufe Mannschaft)</td><td>– Führungsunterstützer/in – Betreuer/in – Pionier/in – Koch/Köchin – Infrastrukturwart/in – Materialwart/in</td><td>– Stabsassistent/in – Betreuer/in – Pionier/in – Koch/Köchin – Anlagewart/in – Materialwart/in</td></tr>
 </table>
 

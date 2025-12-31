@@ -4,11 +4,11 @@ title: Ordinanza sulla protezione civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20240101/it"
 
 (OPCi)
 
-dell’11 novembre 2020 (Stato 1° gennaio 2024)
+dell’11 novembre 2020 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale sulla protezione della popolazione e sulla protezione ci
 
 ordina:
 
-[^ingress-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-1]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 ## Capitolo 1: Oggetto
 
@@ -69,7 +69,7 @@ L’apprezzamento medico dell’idoneità al servizio di protezione civile e del
 
 <sup>2</sup> L’organo responsabile della convocazione è competente per l’apprezzamento medico dell’idoneità a prestare servizio di protezione civile.
 
-[^4-1]: [RS 511.12](https://fedlex.data.admin.ch/eli/cc/2004/748)
+[^4-1]: [RS 511.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7387)
 
 ### Sezione 2: Apprezzamento medico dell’idoneità al servizio di protezione civile
 
@@ -206,7 +206,7 @@ L’organo responsabile della convocazione o della chiamata in servizio si assum
 
 <sup>3</sup> Le visite di un medico di fiducia o di un medico specialista al di fuori di un servizio di protezione civile non danno alcun diritto al soldo, all’indennità per perdita di guadagno, al rimborso delle spese o a prestazioni secondo la legge federale del 19 giugno 1992[^14-1] sull’assicurazione militare.
 
-[^14-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^14-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### Sezione 4: Disposizioni comuni
 
@@ -228,7 +228,7 @@ Le persone che collaborano o che sono presenti alla visita medica o all’apprez
 
 <sup>4</sup> Il trattamento dei dati sanitari è retto dagli articoli 24–29 LSIM.
 
-[^16-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^16-1]: [RS 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
 [^16-2]: Nuovo testo giusta l’all. n. 8 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ## Capitolo 3: Obbligo di prestare servizio di protezione civile
@@ -239,9 +239,7 @@ Le persone che collaborano o che sono presenti alla visita medica o all’apprez
 
 L’obbligo di prestare servizio di protezione civile dura 14 anni.
 
-### Sezione 2:
-
-### Obbligo di prestare servizio di protezione civile per gli Svizzeri all’estero
+### Sezione 2: Obbligo di prestare servizio di protezione civile per gli Svizzeri all’estero
 
 #### Art. 18
 
@@ -400,8 +398,8 @@ Danno diritto al soldo:
 
 <sup>3</sup> Le prestazioni di servizio di almeno due ore, ma inferiori alle otto ore, sono sommate e retribuite con il soldo alla fine dell’anno civile; ogni periodo di otto ore o una rimanenza di almeno due ore danno diritto a un soldo giornaliero completo.
 
-[^27-1]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
-[^27-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
+[^27-1]: [RS 510.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7287)
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 #### Art. 28
 
@@ -496,9 +494,9 @@ La tenuta dei controlli da parte della protezione civile nel Sistema di gestione
 
 <sup>3</sup> Titolare dei dati contenuti nel PISA è il comando Istruzione (art. 2*a* e allegato 1 OSIM). L’UFPP è titolare dei dati contenuti nel PISA per il settore protezione civile.[^37-3]
 
-[^37-1]: Nuovo testo giusta l’all. n. 8 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([[RU 2023 133](https://www.fedlex.admin.ch/eli/oc/2023/133/it)](https://fedlex.data.admin.ch/eli/oc/2023/133))
-[^37-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
-[^37-3]: Nuovo testo giusta l’all. 2 n. II 66 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^37-1]: Nuovo testo giusta l’all. n. 8 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ( [[RU 2023 133](https://www.fedlex.admin.ch/eli/oc/2023/133/it)](https://fedlex.data.admin.ch/eli/oc/2023/133))
+[^37-2]: [RS 510.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7378)
+[^37-3]: Nuovo testo giusta l’all. 2 cifra II n. 66 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 38
 
@@ -573,11 +571,13 @@ Per «personale degli organi cantonali e comunali responsabili della protezione 
 - a. comandanti della protezione civile e loro sostituti;
 - b. istruttori della protezione civile.
 
-[^45-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^45-1]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 46
 
 **Condizioni**
+
+<sup>1</sup>
 
 Gli interventi di pubblica utilità possono essere prestati quando:
 
@@ -585,7 +585,8 @@ Gli interventi di pubblica utilità possono essere prestati quando:
 - b. l’intervento è compatibile con lo scopo e i compiti della protezione civile e permette di praticare le conoscenze e le capacità acquisite nel corso dell’istruzione;
 - c. l’intervento non fa eccessiva concorrenza alle imprese private; e
 - d. l’evento sostenuto non persegue come obiettivo principale la realizzazione di profitti.
-- [tab] <sup>2</sup> Gli interventi di pubblica utilità a livello nazionale devono essere d’importanza nazionale o internazionale.
+
+<sup>2</sup> Gli interventi di pubblica utilità a livello nazionale devono essere d’importanza nazionale o internazionale.
 
 ### Sezione 2: Interventi di pubblica utilità a livello nazionale
 
@@ -605,7 +606,7 @@ Gli interventi di pubblica utilità possono essere prestati quando:
 
 **Personale**
 
-### Il Cantone in cui si svolge l’intervento di pubblica utilità deve dimostrare che è in grado di mettere a disposizione il personale necessario o che il personale mancante è messo a disposizione da un altro Cantone.
+Il Cantone in cui si svolge l’intervento di pubblica utilità deve dimostrare che è in grado di mettere a disposizione il personale necessario o che il personale mancante è messo a disposizione da un altro Cantone.
 
 #### Art. 49
 
@@ -695,6 +696,8 @@ L’organo cantonale responsabile della protezione civile decide in merito all�
 
 **Contenuto della decisione formale**
 
+<sup>1</sup>
+
 L’autorizzazione di un intervento di pubblica utilità deve contenere in particolare le indicazioni seguenti:
 
 - a. designazione quale «autorizzazione»;
@@ -711,7 +714,8 @@ L’autorizzazione di un intervento di pubblica utilità deve contenere in parti
 - l. indicazione dei rimedi giuridici;
 - m. formula di notifica;
 - n. firma dell’autorità che rilascia l’autorizzazione, con luogo e data.
-- [tab] <sup>2</sup> Anche il rifiuto di una domanda di autorizzazione deve essere comunicato sotto forma di decisione formale.
+
+<sup>2</sup> Anche il rifiuto di una domanda di autorizzazione deve essere comunicato sotto forma di decisione formale.
 
 #### Art. 59
 
@@ -822,23 +826,28 @@ Il numero di posti protetti da realizzare in caso di nuove costruzioni è defini
 - a. per abitazioni a partire da 38 locali: due posti protetti ogni tre locali;
 - b. per ospedali, case per anziani e di cura: un posto protetto per letto di paziente.
 
+<sup>1bis</sup> Sono considerate nuove costruzioni anche gli ampliamenti, le sopraelevazioni, le ristrutturazioni e i cambiamenti di destinazione che creano superficie abitativa supplementare o posti letto per pazienti supplementari.[^70-1]
+
 <sup>2</sup> I mezzi locali non sono presi in considerazione nel calcolo.
 
 <sup>3</sup> Nella determinazione del numero di posti protetti non si tiene conto delle frazioni risultanti dal calcolo dei posti protetti.
 
 <sup>4</sup> I posti protetti eccedenti in rifugi sono tenuti in considerazione nel calcolo a condizione che:
 
-i locali si trovino in un edificio esistente situato sullo stesso terreno della nuova costruzione;
+a. i locali si trovino in un edificio esistente situato sullo stesso terreno della nuova costruzione;
 
-l’edificio esistente appartenga allo stesso proprietario della nuova costruzione; e
+b. l’edificio esistente appartenga allo stesso proprietario della nuova costruzione; e
 
-i locali esistenti soddisfino le esigenze minime secondo l’articolo 104.
+c. i locali esistenti soddisfino le esigenze minime secondo l’articolo 104.
 
 <sup>5</sup> Se il proprietario ha versato dei contributi sostitutivi per edifici esistenti ubicati sullo stesso terreno, nel calcolo si tiene conto anche di questi.
 
 <sup>6</sup> Se le spese supplementari riconosciute derivanti dal rifugio superano del 5 per cento il costo totale della costruzione, il numero di posti protetti va proporzionalmente ridotto. Se, di conseguenza, il loro numero scende al di sotto di 25, il proprietario dell’immobile deve versare contributi sostitutivi secondo l’articolo 61 capoverso 1 LPPC.
 
-<sup>7</sup> Nei Comuni e nelle zone di valutazione (art. 74 cpv. 1) con meno di 1000 abitanti, i Cantoni possono ordinare la realizzazione di rifugi anche per gli edifici abitativi con meno di 38 locali.
+<sup>7</sup> Nei Comuni e nelle zone di valutazione (art. 74 cpv. 1) in cui la copertura di posti protetti è insufficiente, i Cantoni possono disporre la realizzazione di rifugi anche negli edifici abitativi con meno di 38 locali.[^70-2]
+
+[^70-1]: Introdotto dalla cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^70-2]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 71
 
@@ -846,9 +855,14 @@ i locali esistenti soddisfino le esigenze minime secondo l’articolo 104.
 
 <sup>1</sup> I Cantoni possono stabilire che, in casi particolari, al posto di realizzare un rifugio debbano essere versati contributi sostitutivi; ciò vale in particolare per edifici ubicati in zone particolarmente minacciate.
 
-<sup>2</sup> Possono inoltre stabilire che in edifici isolati, abitati solo saltuariamente, non siano realizzati rifugi e neppure versati contributi sostitutivi.
+<sup>1bis</sup> Se nel caso di un ampliamento, una sopraelevazione, una ristrutturazione o un cambiamento di destinazione la costruzione di un rifugio risultasse sproporzionata o impossibile, l’obbligo di costruire un rifugio può essere adempiuto con il versamento di un contributo sostitutivo.[^71-1]
+
+<sup>2</sup> I Cantoni possono stabilire che in edifici isolati, abitati solo saltuariamente, non siano realizzati rifugi e che non vengano versati i corrispondenti contributi sostitutivi.[^71-2]
 
 <sup>3</sup> L’UFPP può stabilire condizioni quadro per le eccezioni dall’obbligo di costruire rifugi.
+
+[^71-1]: Introdotto dalla cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^71-2]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 72
 
@@ -868,13 +882,18 @@ i locali esistenti soddisfino le esigenze minime secondo l’articolo 104.
 
 <sup>2</sup> I rifugi realizzati prima del 1° gennaio 1987 e conformi alle esigenze minime devono essere equipaggiati solo su ordine del Consiglio federale.
 
-<sup>3</sup> Se rifugi o posti protetti realizzati prima del 1° gennaio 1987 e conformi alle esigenze minime ma non equipaggiati sono presi in considerazione nel calcolo dei posti protetti in caso di una nuova costruzione sullo stesso terreno, allora devono essere equipaggiati.
+<sup>2bis</sup> I rifugi pubblici che non ne sono ancora dotati devono essere equipaggiati con latrine a secco e letti.[^73-1]
+
+<sup>3</sup> I rifugi e i posti protetti privati realizzati prima del 1° gennaio 1987 e conformi alle esigenze minime ma non equipaggiati a sufficienza devono essere equipaggiati se sono presi in considerazione nel calcolo dei posti protetti secondo l’articolo 70 capoversi 4 e 5 in caso di una nuova costruzione sullo stesso terreno.[^73-2]
 
 <sup>4</sup> L’UFPP emana direttive per l’equipaggiamento dei rifugi da parte dei proprietari di ospedali e case per anziani e di cura.
 
 <sup>5</sup> Il materiale necessario per un soggiorno prolungato nel rifugio deve essere depositato nell’edificio o sul terreno dove si trova il rifugio.
 
 <sup>6</sup> L’UFPP disciplina i dettagli tecnici.
+
+[^73-1]: Introdotto dalla cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+[^73-2]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 74
 
@@ -909,9 +928,11 @@ L’UFPP stabilisce le condizioni quadro e la procedura per la gestione della co
 
 <sup>1</sup> I contributi sostitutivi secondo l’articolo 61 LPPC devono essere versati entro tre mesi dall’inizio dei lavori costruzione.
 
-<sup>2</sup> Essi ammontano da un minimo di 400 a un massimo di 800 franchi per ogni posto protetto non realizzato. I Cantoni stabiliscono l’ammontare dei contributi sostitutivi all’interno di questa fascia.
+<sup>2</sup> Essi ammontano a 1400 franchi per ogni posto protetto non realizzato.[^75-1]
 
 <sup>3</sup> Se un edificio abitativo, un istituto socio-sanitario o un ospedale viene alienato, l’eventuale debito da pagare sul contributo sostitutivo è trasferito al nuovo proprietario.
+
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 76
 
@@ -921,12 +942,14 @@ L’UFPP stabilisce le condizioni quadro e la procedura per la gestione della co
 
 <sup>2</sup>
 
-I contributi sostitutivi possono essere utilizzati per il cambiamento di destinazione per scopi vicini a quelli della protezione civile. Sono considerati cambiamenti di destinazione per scopi legati alla protezione civile:
+I contributi sostitutivi possono essere utilizzati per il cambiamento di destinazione per scopi legati alla protezione civile. Sono considerati cambiamenti di destinazione per scopi legati alla protezione civile:[^76-1]
 
 - a. l’utilizzo di impianti di protezione soppressi come rifugi pubblici, rifugi di istituti socio-sanitari o rifugi per beni culturali;
 - b. l’utilizzo di impianti di protezione soppressi a favore delle organizzazioni partner della protezione della popolazione mantenendo la funzione protettiva.
 
 <sup>3</sup> I contributi sostitutivi possono essere utilizzati per compiti d’istruzione nell’ambito dell’istruzione di base della truppa e dei quadri e per l’istruzione dei quadri nella protezione civile. Vi rientra il finanziamento del personale insegnante, l’amministrazione dei corsi, la messa a disposizione della documentazione e del materiale dei corsi, l’equipaggiamento dei locali per i corsi e degli impianti d’esercizio.
+
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 77
 
@@ -986,10 +1009,12 @@ L’UFPP disciplina le condizioni quadro, in particolare:
 
 <sup>4</sup>
 
-I Cantoni trasmettono annualmente all’UFPP un compendio comprendente almeno le seguenti indicazioni:
+Su richiesta, i Cantoni trasmettono all’UFPP un compendio comprendente, per zona di valutazione e tipo di rifugio, almeno le seguenti indicazioni:[^81-1]
 
 - a. il numero di rifugi e di posti protetti controllati;
 - b. il numero di rifugi e di posti protetti operativi.
+
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 82
 
@@ -1097,6 +1122,17 @@ L’UFPP controlla i rifugi per beni culturali di nuova costruzione e quelli rim
 
 <sup>2</sup> Nell’ottica della protezione dei beni culturali, l’UFPP può stabilire ulteriori esigenze specifiche per il controllo periodico dei rifugi per beni culturali.
 
+<sup>3</sup>
+
+Su richiesta, i Cantoni trasmettono all’UFPP un compendio di tutti i rifugi per beni culturali destinati ad archivi e collezioni cantonali d’importanza nazionale, che per ogni rifugio comprende le seguenti indicazioni:
+
+- a. l’ultimo controllo eseguito;
+- b. la prontezza d’esercizio;
+- c. la sede, il nome e il gestore;
+- d. il proprietario.[^88-1]
+
+[^88-1]: Introdotto dalla cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+
 #### Art. 89
 
 **Soppressione**
@@ -1155,8 +1191,6 @@ La categoria, il numero e il tipo degli impianti di protezione si basa sul fabbi
 #### Art. 93
 
 **Pianificazione del fabbisogno per gli impianti di protezione del servizio sanitario**
-
-<sup>1</sup>
 
 La categoria, il numero e il tipo di impianti di protezione del servizio sanitario si fonda sul fabbisogno di letti per pazienti a livello nazionale per l’intervento in caso di catastrofe e situazioni d’emergenza. Si applicano i principi seguenti:
 
@@ -1258,7 +1292,7 @@ L’UFPP controlla gli impianti di protezione di nuova costruzione o rimodernati
 
 #### Art. 102
 
-**Soppressione, cambiamento di destinazione e dismissione di impianti di protezione**
+**Soppressione, cambiamento di destinazione e dismissione di singoli impianti di protezione[^102-1]**
 
 <sup>1</sup> I Cantoni presentano all’UFPP le loro domande di soppressione o dismissione di impianti di protezione.
 
@@ -1275,6 +1309,32 @@ Nell’ambito della soppressione di un impianto di protezione occorre verificare
 <sup>4</sup> L’UFPP decide in merito alla soppressione o alla dismissione.
 
 <sup>5</sup> Esso può disciplinare le condizioni quadro e emanare le direttive.
+
+[^102-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+
+#### Art. 102a
+
+**Soppressione, cambiamento di destinazione e dismissione di impianti di protezione nell’ambito dell’approvazione della pianificazione del fabbisogno**[^102a-1]
+
+<sup>1</sup> La domanda di approvazione della pianificazione del fabbisogno vale al contempo come domanda per la soppressione degli impianti di protezione che non sono più previsti nella pianificazione del fabbisogno.
+
+<sup>2</sup> Con l’approvazione della pianificazione del fabbisogno, gli impianti di protezione che non vi sono più previsti vengono soppressi nella loro totalità.
+
+<sup>3</sup> Le domande di dismissione di impianti di protezione devono essere presentate all’UFPP separatamente.
+
+<sup>4</sup>
+
+Nell’ambito della dismissione di un impianto di protezione si deve esaminare quanto segue e comunicare il risultato unitamente alla domanda di cui al capoverso 3:
+
+- a. la possibilità di un cambiamento di destinazione dell’impianto di protezione o di parte di esso a favore della protezione civile;
+- b. la possibilità di un cambiamento di destinazione per scopi legati alla protezione civile (art. 76 cpv. 2);
+- c. la possibilità di un utilizzo per altri scopi.
+
+<sup>5</sup> L’UFPP decide in merito alla dismissione.
+
+<sup>6</sup> Esso può emanare direttive in materia di soppressione e dismissione.
+
+[^102a-1]: Introdotto dalla cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 103
 
@@ -1314,6 +1374,22 @@ Le costruzioni di protezione devono garantire una protezione di base dagli effet
 **Manutenzione e prontezza d’esercizio delle costruzioni di protezione**
 
 L’UFPP può disciplinare i dettagli tecnici relativi alla manutenzione e alla prontezza d’esercizio delle costruzioni di protezione.
+
+#### Art. 105a
+
+**Salvaguardia del valore**[^105a-1]
+
+<sup>1</sup> Nelle costruzioni di protezione che hanno 40 anni o più devono essere sostituiti tutti i componenti e l’equipaggiamento, ad eccezione delle chiusure. Si può valutare se rinunciare alla sostituzione di singoli componenti ed equipaggiamenti che sono già stati sostituiti in precedenza.
+
+<sup>2</sup> Nei rifugi la sostituzione deve avvenire entro cinque anni se il rifugio ha 40 anni o più al momento del controllo periodico.
+
+<sup>3</sup> Negli impianti di protezione la sostituzione si basa sulla pianificazione del fabbisogno approvata.
+
+<sup>4</sup> I Cantoni rilevano i dati necessari all’attuazione della salvaguardia del valore di ciascuna costruzione di protezione almeno ogni dieci anni. Essi mettono a disposizione dell’UFPP annualmente i dati di tutte le costruzioni di protezione in forma strutturata.
+
+<sup>5</sup> L’UFPP emette le direttive per l’esecuzione della salvaguardia del valore e il rilevamento dei dati secondo il capoverso 4.
+
+[^105a-1]: Introdotto dalla cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
 
 #### Art. 106
 
@@ -1384,6 +1460,10 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>3</sup> Le basi per l’istruzione devono essere adeguate entro il 31 dicembre 2022.
 
+<sup>4</sup> Ai Cantoni in cui non esiste una pianificazione del fabbisogno approvata per i posti di comando e gli impianti di apprestamento conformemente all’articolo 69 capoverso 2 LPPC in combinato disposto con gli articoli 91, 92 e 94 della presente ordinanza e con l’articolo 99 capoverso 4 primo periodo LPPC, il contributo forfettario annuo (allegato 4) è versato secondo il diritto anteriore fino al 31 dicembre 2026.[^112-1]
+
+[^112-1]: Introdotto dalla cifra I dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+
 #### Art. 113
 
 **Entrata in vigore**
@@ -1396,7 +1476,7 @@ Allegato 1[^t-1]
 
 ## Funzioni e gradi nella protezione civile
 
-[^t-1]: Aggiornato dal n. II dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
+[^t-1]: Aggiornato dalla cifra II dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 647](https://fedlex.data.admin.ch/eli/oc/2023/647)).
 
 <table>
 <tr><th>Livello</th><th>Funzione</th><th>Grado</th></tr>
@@ -1495,7 +1575,7 @@ Allegato 3[^t-3]
 
 ## Dati registrati nel sistema di amministrazione dei corsi
 
-[^t-3]: Aggiornato dall’all. n. II 23 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-3]: Aggiornato dall’all. cifra II n. 23 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### Dati personali
 
@@ -1543,34 +1623,38 @@ Allegato 3[^t-3]
 - 33\. Valutazione del corso
 - 34\. Soddisfazione dei clienti
 
-Allegato 4
+Allegato 4[^t-4]
 
 (art. 99 cpv. 1)
 
 ## Contributo forfettario volto a garantire la prontezza d’esercizio degli impianti di protezione in caso di conflitto armato
 
+[^t-4]: Nuovo testo giusta la cifra II dell’O del 22 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 657](https://fedlex.data.admin.ch/eli/oc/2025/657)).
+
 ### 1. Contributi forfettari annui per impianti di protezione – Gradi di contributo
 
 <table>
-<tr><td>Grado di contributo</td><td>Tipo di impianto di protezione</td><td>Contributo forfettario in fr.</td></tr>
-<tr><td>1</td><td>– IAP II\* – IAP II – IAP III – Piccoli centri sanitari protetti senza gruppo elettrogeno 1)</td><td>2550.–</td></tr>
-<tr><td>2</td><td>– PC I – PC II – PC IIrid – IAP I\* – IAP I – PC IIrid/IAP II\* – PC IIrid/IAP II – PC IIrid/IAP III</td><td>3000.–</td></tr>
-<tr><td>3</td><td>– PC I/IAP I\* – PC I/IAP I – PC I/IAP II\* – PC I/IAP II – PC II/IAP I\* – PC II/IAP I – PC II/IAP II\* – PC II/IAP II – PC II/IAP III – Posti di comando governativi 2)</td><td>3500.–</td></tr>
+<tr><th>Grado di contributo</th><th>Tipo di impianto di protezione</th><th>Contributo forfettario in fr.</th></tr>
+<tr><td>1</td><td>– Posto di comando del Governo</td><td>7100.–</td></tr>
+<tr><td>2</td><td>– PC I – PC II – IAP I\* – IAP I – PC IIrid/IAP II\* – PC IIrid/IAP II</td><td>5000.–</td></tr>
+<tr><td>3</td><td>– PC I/IAP I\* – PC I/IAP I – PC I/IAP II\* – PC I/IAP II – PC II/IAP I\* – PC II/IAP I – PC II/IAP II\* – PC II/IAP II</td><td>6600.–</td></tr>
 <tr><td>4</td><td>– CSP</td><td>4400.–</td></tr>
-<tr><td>5</td><td>– osp prot 2) 3) – PC I (PC II) / IAP I\* (IAP I) / CSP – PC I (PC II) / CSP – IAP I\* (IAP I) / CSP</td><td>5800.–</td></tr>
+<tr><td>5</td><td>– osp prot</td><td>5800.–</td></tr>
+<tr><td>6</td><td>– PC I (PC II) / IAP I\* (IAP I) / CSP – PC I (PC II) / CSP – IAP I\* (IAP I) / CSP</td><td>9000.–</td></tr>
 </table>
 
 ### 2. Legenda
 
-<table>
-<tr><td>IAP: Impianto d’apprestamento PC: Posto di comando CSP: Centro sanitario protetto osp prot: Ospedale protetto rid: ridotto (più piccolo) \*: "asterisco" (più grande)</td><td>1) Vecchi posti sanitari (po san) utilizzati come piccoli centri sanitari protetti 2) Nel caso di impianti di protezione di superficie doppia, il contributo forfettario annuo è aumentato del fattore 1.5 3) Nel caso di impianti di protezione di superficie tripla, il contributo forfettario annuo è aumentato del fattore 2</td></tr>
-</table>
-
-### 3. Definizioni
-
-<table>
-<tr><td>3.1 PC I: predisposti per gli organi cantonali e regionali di condotta della protezione della popolazione; effettivo: 70–80 persone. 3.2 PC II: predisposti per elementi d’intervento autonomi in regioni geograficamente discoste, ubicazioni di condotta della protezione civile per l’intervento o il perfezionamento; effettivo: 55 persone. 3.3 PC II rid: predisposti per elementi d’intervento autonomi in regioni geograficamente discoste, ubicazioni di condotta della protezione civile per l’intervento o il perfezionamento; effettivo: 30 persone. 3.4 IAP / impianti d’apprestamento: basi logistiche della protezione civile per il ricovero protetto del personale e del materiale delle formazioni d’intervento della protezione civile, in particolare dei membri del supporto tecnico; di regola sono utilizzati come ubicazione per l’entrata in servizio, l’organizzazione e la condotta in caso d’intervento o durante i corsi di ripetizione. 3.5 IAP I\*: predisposti per personale e materiale da 3 a 4 sezioni pionieri; effettivo: 170 persone. 3.6 IAP I: predisposti per personale e materiale da 2 a 3 sezioni pionieri; effettivo: 130 persone. 3.7 IAP II\*: predisposti per personale e materiale da 1 a 2 sezioni pionieri; effettivo: 80 persone. 3.8 IAP II: predisposti per personale e materiale per 1 sezione pionieri; effettivo: 45 persone. 3.9 IAP III: predisposti per una sezione pionieri; effettivo: 30 persone; di regola in combinazione con PC II e PC IIrid nonché rifugio. 3.10 I CSP costituiscono un ampliamento delle basi logistiche della protezione civile e servono da ricovero protetto per le formazioni d’intervento della protezione civile che non possono essere alloggiate in impianti d’apprestamento, in particolare per i membri del servizio assistenza. Nella misura in cui sono integrati nel dispositivo di catastrofe e d’emergenza cantonale e dispongono di sufficiente personale formato in grado di garantire l’esercizio, possono essere utilizzati come posti d’assistenza per l’alloggio temporaneo di persone in cerca di protezione, come studi medici protetti, come complemento ai punti di raccolta d’urgenza ecc. Inoltre, in caso di conflitto armato possono essere utilizzati per completare e rinforzare i servizi della sanità pubblica. 3.11 Gli ospedali protetti (osp prot) offrono letti supplementari all’infrastruttura ospedaliera in caso di catastrofi e situazioni d’emergenza, nella misura in cui sono adeguatamente equipaggiati, integrati nel dispositivo di catastrofe cantonale e dispongono di sufficiente personale formato per garantirne l’esercizio.</td></tr>
-</table>
+- 2\.1 PC I: posti di comando per gli organi cantonali e regionali di condotta della protezione della popolazione predisposti per un effettivo di 70–80 persone.
+- 2\.2 PC II: posti di comando per elementi d’intervento autonomi in regioni discoste che fungono da ubicazioni di condotta della protezione civile per l’intervento o il perfezionamento, predisposti per un effettivo di 55 persone.
+- 2\.3 PC II rid: posti di comando per elementi d’intervento autonomi in regioni discoste che fungono da ubicazioni di condotta della protezione civile per l’intervento o il perfezionamento, predisposti per un effettivo di 30 persone.
+- 2\.4 IAP: impianti d’apprestamento (art. 90 cpv. 2).
+- 2\.5 IAP I\*: impianti d’apprestamento predisposti per un effettivo di 170 persone e il materiale di 3–4 sezioni pionieri.
+- 2\.6 IAP I: impianti d’apprestamento predisposti per un effettivo di 130 persone e il materiale di 2–3 sezioni pionieri.
+- 2\.7 IAP II\*: impianti d’apprestamento predisposti per un effettivo di 80 persone e il materiale di 1–2 sezioni pionieri.
+- 2\.8 IAP II: impianti d’apprestamento predisposti per un effettivo di 45 persone e il materiale di una sezione pionieri.
+- 2\.9 CSP: i centri sanitari protetti costituiscono un ampliamento delle basi logistiche della protezione civile e servono da ricovero protetto per le formazioni d’intervento della protezione civile che non possono essere alloggiate in impianti d’apprestamento, in particolare per i membri del servizio assistenza. Nella misura in cui sono integrati nel dispositivo di catastrofe e d’emergenza cantonale e dispongono di sufficiente personale formato, i CSP possono essere utilizzati in particolare come posti d’assistenza per l’alloggio temporaneo di persone in cerca di protezione, come studi medici protetti, come complemento ai punti di raccolta d’urgenza ecc. Inoltre, in caso di conflitto armato possono essere utilizzati per completare e rinforzare il settore sanitario.
+- 2\.10 osp prot: gli ospedali protetti permettono di completare l’offerta di letti supplementari all’infrastruttura ospedaliera in caso di catastrofe o situazione d’emergenza. A tal fine devono essere adeguatamente equipaggiati, integrati nel dispositivo di catastrofe cantonale e disporre di sufficiente personale formato.
 
 Allegato 5
 
@@ -1582,12 +1666,12 @@ Allegato 5
 <tr><th>Livello</th><th>Funzione secondo gli allegati 1 e 2</th><th>Funzione precedente</th></tr>
 <tr><td>Comandante (livello battaglione)</td><td>– Comandante di battaglione – Sostituto/a comandante di battaglione</td><td>– Comandante di battaglione – Sostituto/a comandante di battaglione</td></tr>
 <tr><td>Comandante (livello compagnia)</td><td>– Comandante di compagnia – Sostituto/a comandante di compagnia</td><td>– Comandante di compagnia – Sostituto/a comandante di compagnia</td></tr>
-<tr><td>Aiutante al comando (livello organo di condotta/battaglione)</td><td>– Ufficiale dell’organo di condotta [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] – Capo aiuto alla condotta [tab] [tab] [tab] – Capo assistenza [tab] – Capo supporto tecnico [tab] – Capo logistica [tab] – Compito supplementare senza cambiamento di funzione [tab] – Incorporazione senza cambiamento di funzione</td><td>– Ufficiale a disposizione dell’organo di condotta Capo aiuto alla condotta Capo analisi della situazione Capo telematica Capo informazione Capo protezione NBC Capo coordinamento logistico Capo protezione dei beni culturali Capo servizio sanitario Capo Care – Capo aiuto alla condotta Capo analisi della situazione Capo telematica [tab] – Capo assistenza [tab] – Capo pionieri [tab] – Capo coordinamento logistico [tab] – Capo del personale [tab] – Ufficiale a disposizione del comandante</td></tr>
-<tr><td>Capo sezione</td><td>– Ufficiale aiuto alla condotta [tab] – Ufficiale assistenza [tab] – Ufficiale Care – Ufficiale servizio sanitario [tab] [tab] – Ufficiale pionieri [tab] – Ufficiale NBC [tab] – Ufficiale logistica [tab] – Ufficiale protezione dei beni culturali [tab] [tab] – Compito supplementare senza cambiamento di funzione</td><td>– Ufficiale aiuto alla condotta [tab] – Ufficiale assistenza [tab] – Capo Care – Ufficiale servizio sanitario Capo servizio sanitario [tab] – Ufficiale pionieri [tab] – Capo protezione NBC [tab] – Ufficiale logistica [tab] – Ufficiale protezione dei beni culturali Capo protezione dei beni culturali [tab] – Ufficiale sicurezza</td></tr>
+<tr><td>Aiutante al comando (livello organo di condotta/battaglione)</td><td>– Ufficiale dell’organo di condotta – Capo aiuto alla condotta – Capo assistenza – Capo supporto tecnico – Capo logistica – Compito supplementare senza cambiamento di funzione – Incorporazione senza cambiamento di funzione</td><td>– Ufficiale a disposizione dell’organo di condotta Capo aiuto alla condotta Capo analisi della situazione Capo telematica Capo informazione Capo protezione NBC Capo coordinamento logistico Capo protezione dei beni culturali Capo servizio sanitario Capo Care – Capo aiuto alla condotta Capo analisi della situazione Capo telematica – Capo assistenza – Capo pionieri – Capo coordinamento logistico – Capo del personale – Ufficiale a disposizione del comandante</td></tr>
+<tr><td>Capo sezione</td><td>– Ufficiale aiuto alla condotta – Ufficiale assistenza – Ufficiale Care – Ufficiale servizio sanitario – Ufficiale pionieri – Ufficiale NBC – Ufficiale logistica – Ufficiale protezione dei beni culturali – Compito supplementare senza cambiamento di funzione</td><td>– Ufficiale aiuto alla condotta – Ufficiale assistenza – Capo Care – Ufficiale servizio sanitario Capo servizio sanitario – Ufficiale pionieri – Capo protezione NBC – Ufficiale logistica – Ufficiale protezione dei beni culturali Capo protezione dei beni culturali – Ufficiale sicurezza</td></tr>
 <tr><td>Sergente maggiore</td><td>– Sergente maggiore</td><td>– Sergente maggiore</td></tr>
 <tr><td>Furiere</td><td>– Furiere</td><td>– Furiere</td></tr>
-<tr><td>Capo gruppo</td><td>– Sottufficiale aiuto alla condotta [tab] [tab] – Sottufficiale assistenza [tab] – Sottufficiale Care [tab] – Sottufficiale servizio sanitario [tab] – Sottufficiale pionieri [tab] – Sottufficiale NBC [tab] – Sottufficiale cucina [tab] – Sottufficiale materiale [tab] – Sottufficiale infrastruttura [tab] – Sottufficiale trasporti [tab] – Sottufficiale protezione dei beni culturali [tab] – Compito supplementare senza cambiamento di funzione</td><td>– Sottufficiale telematica Sottufficiale aiuto alla condotta [tab] – Sottufficiale assistenza [tab] – Nessuna funzione equivalente [tab] – Sottufficiale servizio sanitario [tab] – Sottufficiale pionieri [tab] – Nessuna funzione equivalente [tab] – Capocucina [tab] – Sottufficiale materiale [tab] – Sottufficiale impianto [tab] – Sottufficiale trasporto [tab] – Sottufficiale protezione dei beni culturali [tab] – Sottufficiale sicurezza</td></tr>
-<tr><td>Specialista (livello truppa)</td><td>– Specialista Care [tab] [tab] [tab] [tab] – Specialista servizio sanitario [tab] [tab] – Specialista NBC [tab] [tab] [tab] [tab] – Ordinanza d’ufficio [tab] – Conducente [tab] – Specialista nella protezione dei beni culturali [tab] – Compito supplementare senza cambiamento di funzione [tab]</td><td>– Specialista Care Addetto/a all’assistenza psicologica d’urgenza Specialista nell’assistenza spirituale d’urgenza [tab] – Sanitario Ausiliario/a di trasporto [tab] – Ricercatore/trice N Persona competente in radioprotezione Specialista in decontaminazione Specialista nella difesa da epizoozie [tab] – Nessuna funzione equivalente [tab] – Conducente [tab] – Specialista nella protezione dei beni culturali [tab] – Specialista Polycom Specialista cure Specialista hotline Specialista in rifugi Boscaiolo Specialista nella protezione anticaduta Specialista nel salvataggio in profondità Specialista della sicurezza</td></tr>
+<tr><td>Capo gruppo</td><td>– Sottufficiale aiuto alla condotta – Sottufficiale assistenza – Sottufficiale Care – Sottufficiale servizio sanitario – Sottufficiale pionieri – Sottufficiale NBC – Sottufficiale cucina – Sottufficiale materiale – Sottufficiale infrastruttura – Sottufficiale trasporti – Sottufficiale protezione dei beni culturali – Compito supplementare senza cambiamento di funzione</td><td>– Sottufficiale telematica Sottufficiale aiuto alla condotta – Sottufficiale assistenza – Nessuna funzione equivalente – Sottufficiale servizio sanitario – Sottufficiale pionieri – Nessuna funzione equivalente – Capocucina – Sottufficiale materiale – Sottufficiale impianto – Sottufficiale trasporto – Sottufficiale protezione dei beni culturali – Sottufficiale sicurezza</td></tr>
+<tr><td>Specialista (livello truppa)</td><td>– Specialista Care – Specialista servizio sanitario – Specialista NBC – Ordinanza d’ufficio – Conducente – Specialista nella protezione dei beni culturali – Compito supplementare senza cambiamento di funzione</td><td>– Specialista Care Addetto/a all’assistenza psicologica d’urgenza Specialista nell’assistenza spirituale d’urgenza – Sanitario Ausiliario/a di trasporto – Ricercatore/trice N Persona competente in radioprotezione Specialista in decontaminazione Specialista nella difesa da epizoozie – Nessuna funzione equivalente – Conducente – Specialista nella protezione dei beni culturali – Specialista Polycom Specialista cure Specialista hotline Specialista in rifugi Boscaiolo Specialista nella protezione anticaduta Specialista nel salvataggio in profondità Specialista della sicurezza</td></tr>
 <tr><td>Funzioni di base (livello truppa)</td><td>– Aiutante della condotta – Addetto/a all’assistenza – Pioniere – Cuoco/a – Sorvegliante dell’infrastruttura – Sorvegliante del materiale</td><td>– Assistente di stato maggiore – Addetto/a all’assistenza – Pioniere – Cuoco/a – Sorvegliante d’impianto – Sorvegliante del materiale</td></tr>
 </table>
 
@@ -1612,8 +1696,8 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex6-lvlu1-5]
 
-[^annex6-lvlu1-1]: [[RU 2003 5147](https://fedlex.data.admin.ch/eli/oc/2003/758), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 41, [2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396)art. 15, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 7, [2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817), [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 3, [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)n. III]
-[^annex6-lvlu1-2]: [[RU 2003 5161](https://fedlex.data.admin.ch/eli/oc/2003/759), [2012 449](https://fedlex.data.admin.ch/eli/oc/2012/57), [2015 3933](https://fedlex.data.admin.ch/eli/oc/2015/660)]
-[^annex6-lvlu1-3]: [[RU 2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396), [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)all. n. 2]
-[^annex6-lvlu1-4]: [[RU 2003 5179](https://fedlex.data.admin.ch/eli/oc/2003/762), [2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 6, [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 4]
+[^annex6-lvlu1-1]: [[RU 2003 5147](https://fedlex.data.admin.ch/eli/oc/2003/758); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 41; [2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396)art. 15; [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 7; [2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817); [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 3; [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25); [2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)cifra III]
+[^annex6-lvlu1-2]: [[RU 2003 5161](https://fedlex.data.admin.ch/eli/oc/2003/759); [2012 449](https://fedlex.data.admin.ch/eli/oc/2012/57); [2015 3933](https://fedlex.data.admin.ch/eli/oc/2015/660)]
+[^annex6-lvlu1-3]: [[RU 2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396); [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)all. n. 2]
+[^annex6-lvlu1-4]: [[RU 2003 5179](https://fedlex.data.admin.ch/eli/oc/2003/762); [2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 6; [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 4]
 [^annex6-lvlu1-5]: Le mod. possono essere consultate alla [RU 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888).
