@@ -3,20 +3,19 @@ canton: LU
 number: 520c
 title: "Personalverordnung der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2024-09-01
-valid_until: 2025-12-31
-version_adopted: 2023-07-05
+version: 2026-01-01
+version_adopted: 2025-12-12
 adopted: 2023-07-05
 in_force: 2024-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520c"
-pdf: "https://srl.lu.ch/api/de/versions/4248/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4695/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalverordnung der Hochschule Luzern, FH Zentralschweiz
 
-vom 05.07.2023 (Stand 01.09.2024)
+vom 05.07.2023 (Stand 01.01.2026)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -34,7 +33,11 @@ beschliesst:
 
 <sup>1</sup> Diese Personalverordnung ordnet das Arbeitsverhältnis der Mitarbeitenden der Hochschule Luzern.
 
-<sup>2</sup> Soweit diese Verordnung keine abweichenden Vorschriften enthält, ist das Personalrecht des Kantons Luzern anwendbar.
+<sup>2</sup> Soweit diese Verordnung keine abweichenden Vorschriften enthält, ist das Personalrecht des Kantons Luzern anwendbar, mit Ausnahme von § 1 Absatz 4bis (Versicherungspflicht bei der Luzerner Pensionskasse) und § 37 Absatz 3 (weitere finanzielle Beiträge zur Unterstützung der Vereinbarkeit von Familie und Beruf) des Personalgesetzes[^1-1], § 43 Absatz 5 der Personalverordnung[^1-2] (Sabbaticals) und § 20a der Besoldungsverordnung für das Staatspersonal[^1-3] (Vergütung für die Empfehlung von neuem Personal).
+
+[^1-1]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
+[^1-2]: SRL Nr. [52](https://srl.lu.ch/data/52/de)
+[^1-3]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de)
 
 #### Art. 2
 
@@ -42,18 +45,18 @@ beschliesst:
 
 <sup>1</sup> Das Personal der Hochschule setzt sich zusammen aus
 
-- a. den Dozierenden mit den
+- a. den Dozierenden mit dem Profil
   - 1\. Professorinnen und Professoren,
   - 2\. künstlerischen Professorinnen und künstlerischen Professoren,
   - 3\. Dozierenden erweitertes Profil, Profil Lehre und Profil Forschung,
   - 4\. Leitungsfunktionen Departement (Direktorin und Direktor, Vizedirektorin und Vizedirektor, Institutsleiterin und Institutsleiter, Abteilungsleiterin und Abteilungsleiter),
-- b. den assistierenden und wissenschaftlichen Mitarbeitenden mit den
+- b. den assistierenden und wissenschaftlichen Mitarbeitenden mit dem Profil
   - 1\. Senior wissenschaftlichen Mitarbeitenden,
   - 2\. wissenschaftlichen Mitarbeitenden,
   - 3\. Mitarbeitenden Fachinfrastruktur,
   - 4\. Assistierenden,
   - 5\. Hilfsassistierenden,
-- c. den administrativen und technischen Mitarbeitenden mit den
+- c. den administrativen und technischen Mitarbeitenden mit dem Profil
   - 1\. administrativen Mitarbeitenden,
   - 2\. Mitarbeitenden Hausdienst,
   - 3\. Reinigungspersonal.
@@ -79,7 +82,7 @@ beschliesst:
 - a. der Fachhochschulrat für die Rektorin oder den Rektor,
 - b. der Fachhochschulrat für die Direktorinnen oder Direktoren auf Antrag der Rektorin oder des Rektors,
 - c. die Direktorin oder der Direktor für die Vizedirektorinnen oder Vizedirektoren der Departemente der Hochschule Luzern, vorbehältlich der Zustimmung der Rektorin oder des Rektors sowie
-- d. die Mitglieder der Fachhochschulleitung mit Stimmrecht[^4-1] für die Mitarbeitenden ihres Zuständigkeitsbereichs.
+- d. die Mitglieder der Fachhochschulleitung [^4-1] für die Mitarbeitenden ihres Zuständigkeitsbereichs.
 
 [^4-1]: Gemäss Statut der Hochschule Luzern, FH Zentralschweiz (FHZ-Statut) vom 26.8.2021, SRL Nr. [520b](https://srl.lu.ch/data/520b/de)
 
@@ -101,30 +104,23 @@ beschliesst:
 
 ## 3 Arbeitsverhältnis
 
-### 3.1 Begründung
+### 3.1 Rahmenlehrvertrag
 
 #### Art. 7
 
-**Begründung des Arbeitsverhältnisses**
+<sup>1</sup> An der Hochschule Luzern kommen zur Unterstützung in der Lehre zusätzlich externe Personen (Lehrbeauftragte, Gastdozierende und Referentinnen und Referenten usw.) zum Einsatz. Diese zählen nicht zu den Mitarbeitenden gemäss Artikel 2, welche mit öffentlich-rechtlichen Verträgen angestellt werden. Für regelmässige Einsätze in der Lehre kann ein öffentlich-rechtlicher Rahmenlehrvertrag vereinbart werden, der sich nach den Bestimmungen des Einzelarbeitsvertragsrechts des Obligationenrechts richtet. Die einzelnen Einsätze sind befristet und werden in der Regel semesterweise erteilt. Es besteht kein Anspruch auf die Erteilung von Nachfolgeaufträgen.
 
-<sup>1</sup> Das Arbeitsverhältnis wird mit einem öffentlich-rechtlichen Vertrag begründet.
+<sup>2</sup> …
 
-<sup>2</sup> Es gelten die gleichen Bedingungen wie für ein Anstellungsverhältnis, das durch einen Wahlakt begründet wird. Vorbehalten bleibt Absatz 3.
+<sup>3</sup> …
 
-<sup>3</sup> Eine Abweichung von den Anstellungsbedingungen gemäss § 8 des Personalgesetzes des Kantons Luzern vom 26. Juni 2001[^7-1] ist im Rahmen von § 4 der Personalverordnung des Kantons Luzern vom 24. September 2002[^7-2] möglich.
-
-[^7-1]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
-[^7-2]: SRL Nr. [52](https://srl.lu.ch/data/52/de)
-
-### 3.2 Befristete Arbeitsverhältnisse
+### 3.2 Assistierende und wissenschaftliche Mitarbeitende
 
 #### Art. 8
 
-**Assistierende und wissenschaftliche Mitarbeitende**
+<sup>1</sup> Mitarbeitende mit Profil Assistierende oder Profil wissenschaftliche Mitarbeitende werden befristet bis zu maximal fünf Jahren angestellt.
 
-<sup>1</sup> Assistierende und wissenschaftliche Mitarbeitende mit befristeter Anstellung werden bis zu maximal fünf Jahren angestellt.
-
-<sup>2</sup> Eine Verlängerung ist nach einer Funktionsänderung möglich, wobei die Anstellungsdauer insgesamt auf maximal acht Jahre befristet ist. Falls das Arbeitsverhältnis nach Ablauf dieser Zeitdauer verlängert wird, hat es die Wirkung eines unbefristeten Arbeitsverhältnisses.
+<sup>2</sup> Eine Verlängerung ist nach einer Funktionsänderung möglich, wobei die Anstellungsdauer insgesamt auf maximal acht Jahre befristet ist.
 
 ### 3.3 Bandbreitenverträge für Dozierende
 
