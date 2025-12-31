@@ -4,13 +4,12 @@ number: "511.761"
 title: Kantonale Verordnung über die Wehrpflichtersatzabgabe
 short: WPEV-AG
 language: de
-version: 2015-11-01
-valid_until: 2025-12-31
-version_adopted: 2015-08-19
+version: 2026-01-01
+version_adopted: 2025-09-24
 adopted: 2004-05-05
 in_force: 2004-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/511.761"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2144/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3892/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2144/pdf_file"
 
 (WPEV-AG)
 
-Vom 05.05.2004 (Stand 01.11.2015)
+Vom 05.05.2004 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -64,7 +63,7 @@ beschliesst:
 
 <sup>1</sup> Kantonale Rekurskommission im Sinne von Art. 31 Abs. 1 WPEG ist das Spezialverwaltungsgericht.
 
-<sup>2</sup> Es entscheidet auf Antrag der Wehrpflichtersatzverwaltung über Pass- und Schriftensperren gemäss Art. 49 Abs. 2 WPEV.
+<sup>2</sup> …
 
 #### § 6
 
@@ -74,7 +73,7 @@ beschliesst:
 
 **Erlass**
 
-<sup>1</sup> Zuständig für den Erlass von Ersatzabgaben und Kosten ist die Wehrpflichtersatzverwaltung. Deren Entscheid kann mit Beschwerde an das Spezialverwaltungsgericht weitergezogen werden.
+<sup>1</sup> Zuständig für den Erlass von Ersatzabgaben und Kosten ist die Wehrpflichtersatzverwaltung. Deren Entscheid kann mit Beschwerde an das Verwaltungsgericht als einzige kantonale Instanz weitergezogen werden.
 
 #### § 8
 
