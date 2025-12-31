@@ -4,11 +4,11 @@ title: "Reglement des Bundesstrafgerichts vom 31. August 2010 über die Kosten, 
 short: BStKR
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/826"
 language: de
-version: 2024-09-01
+version: 2026-01-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2010-826-20240901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-826-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/de"
 
 (BStKR)
 
-vom 31. August 2010 (Stand am 1. September 2024)
+vom 31. August 2010 (Stand am 1. Januar 2026)
 
 Das Bundesstrafgericht (BStGer),
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 53 Absatz 2 Buchstabe a und 73 des Strafbehördenorgan
 
 beschliesst:
 
-[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^ingress-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^ingress-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^ingress-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^ingress-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 1. Kapitel: Verfahrenskosten
 
@@ -64,7 +64,7 @@ beschliesst:
 <sup>6</sup> Die Strafkammer und die Berufungskammer fügen nach Abschluss der Parteiverhandlungen ihre eigene Aufstellung der Kosten denjenigen bei, die sie mit der Anklageschrift erhalten haben. Die Bundesanwaltschaft ist gehalten, vor Abschluss der Parteiverhandlungen der Strafkammer bzw. der Berufungskammer ihre Kostenaufstellung für die Ausübung ihrer Parteirechte im gerichtlichen Verfahren einzureichen.[^2-3]
 
 [^2-1]: Fassung gemäss Ziff. I der V des BStGer vom 21. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
-[^2-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^2-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^2-3]: Fassung gemäss Ziff. I der V des BStGer vom 21. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
 
 #### Art. 3
@@ -122,7 +122,7 @@ Für die Untersuchung werden die folgenden Beträge als Gebühren erhoben:
 
 <sup>5</sup> Die Gebühr für die polizeilichen Ermittlungen und die Untersuchung darf den Betrag von 100 000 Franken nicht überschreiten.
 
-[^6-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^6-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 7
 
@@ -162,7 +162,7 @@ Die Gebühren für Verfahren gemäss dem VwVG betragen:
 - a. in Fällen, in denen keine Vermögensinteressen auf dem Spiel stehen: 100–5000 Franken;
 - b. in den übrigen Fällen: 100–50 000 Franken.
 
-[^8-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### 3. Abschnitt: Auslagen
 
@@ -180,7 +180,7 @@ Die Gebühren für Verfahren gemäss dem VwVG betragen:
 
 Auf die Berechnung der Entschädigung der ganz oder teilweise freigesprochenen beschuldigten Person, der Wahlverteidigung, der gänzlich oder teilweise obsiegenden Privatklägerschaft und der Drittperson im Sinne von Artikel 434 StPO[^10-1] sind die Bestimmungen über die Entschädigung der amtlichen Verteidigung anwendbar.
 
-[^10-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### 2. Abschnitt: Entschädigungen an die amtliche Verteidigung
 
@@ -199,6 +199,10 @@ Auf die Berechnung der Entschädigung der ganz oder teilweise freigesprochenen b
 <sup>1</sup> Das Honorar wird nach dem notwendigen und ausgewiesenen Zeitaufwand der Anwältin oder des Anwalts für die Verteidigung bemessen. Der Stundenansatz beträgt mindestens 200 und höchstens 300 Franken.
 
 Reicht die Anwältin oder der Anwalt die Kostennote nicht bis zum Abschluss der Parteiverhandlungen oder innerhalb der von der Verfahrensleitung angesetzten Frist oder, im Verfahren vor der Beschwerdekammer, spätestens mit der einzigen oder letzten Eingabe ein, so setzt das Gericht das Honorar nach Ermessen fest.
+
+<sup>3</sup> Reisezeit wird zum halben Stundenansatz gemäss Absatz 1 entschädigt; Wartezeit wird voll entschädigt.[^12-1]
+
+[^12-1]: Eingefügt durch Ziff. I der V des BStGer vom 29. Juli 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 500](https://fedlex.data.admin.ch/eli/oc/2025/500)).
 
 #### Art. 13
 
@@ -220,7 +224,7 @@ Es werden höchstens vergütet:
 
 <sup>4</sup> Rechtfertigen es besondere Verhältnisse, so kann anstelle der tatsächlichen Kosten nach Absatz 2 ein Pauschalbetrag vergütet werden.
 
-[^13-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^13-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 14
 
@@ -274,7 +278,7 @@ Die Spesen werden aufgrund der tatsächlichen Kosten vergütet. Es werden höchs
 
 <sup>4</sup> Rechtfertigen es besondere Verhältnisse, so kann anstelle der tatsächlichen Kosten nach Absatz 1 ein Pauschalbetrag vergütet werden.
 
-[^17-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^17-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 18
 
@@ -286,7 +290,7 @@ Auskunftspersonen oder andere Drittpersonen, die von Beweismassnahmen betroffen 
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 (AS **20****24** 385).
+[^chap2-sec4-1]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 19
 
@@ -303,7 +307,7 @@ Auskunftspersonen oder andere Drittpersonen, die von Beweismassnahmen betroffen 
 <sup>5</sup> Die Honorare und Auslagen verstehen sich exklusive Mehrwertsteuer.
 
 [^19-1]: Aufgehoben durch Ziff. I der V des BStGer vom 22. Juli 2024, mit Wirkung seit 1. Sept. 2024 ([AS 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
-[^19-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### 4*a*. Abschnitt: Entschädigung an Dolmetscherinnen, Dolmetscher, Übersetzerinnen und Übersetzer
 

@@ -4,11 +4,11 @@ title: "Regolamento del Tribunale penale federale del 31 agosto 2010 sulle spese
 short: RSPPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/826"
 language: it
-version: 2024-09-01
+version: 2026-01-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2010-826-20240901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2010-826-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/it"
 
 (RSPPF)
 
-del 31 agosto 2010 (Stato 1° settembre 2024)
+del 31 agosto 2010 (Stato 1° gennaio 2026)
 
 Il Tribunale penale federale (TPF),
 
@@ -25,9 +25,9 @@ visti gli articoli 53 capoverso 2 lettera a e 73 della legge federale del 19 mar
 
 decreta:
 
-[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^ingress-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^ingress-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^ingress-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^ingress-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 1: Spese procedurali
 
@@ -45,7 +45,7 @@ decreta:
 
 <sup>4</sup> Per i casi semplici possono essere previsti emolumenti forfettari, comprensivi pure dei disborsi.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
 
 #### Art. 2
 
@@ -63,9 +63,9 @@ decreta:
 
 <sup>6</sup> Alla chiusura dei dibattimenti, la Corte penale e la Corte d’appello allegano il proprio elenco delle spese a quelli trasmessi con l’atto di accusa. Prima della chiusura dei dibattimenti, il Ministero pubblico della Confederazione è tenuto a trasmettere alla Corte penale o alla Corte d’appello il suo elenco delle spese per l’esercizio dei suoi diritti di parte nella procedura giudiziaria.[^2-3]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
-[^2-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^2-3]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
+[^2-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^2-3]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
 
 #### Art. 3
 
@@ -77,8 +77,8 @@ decreta:
 
 <sup>3</sup> La cassa del Tribunale penale federale è competente per riscuotere gli anticipi delle spese.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del TPF del 20 ago. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3223](https://fedlex.data.admin.ch/eli/oc/2019/593)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del TPF del 20 ago. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3223](https://fedlex.data.admin.ch/eli/oc/2019/593)).
 
 #### Art. 4
 
@@ -122,7 +122,7 @@ Gli emolumenti riscossi per l’istruttoria ammontano ai seguenti importi:
 
 <sup>5</sup> Il totale degli emolumenti per le investigazioni di polizia e l’istruttoria non deve superare 100 000 franchi.
 
-[^6-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^6-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 7
 
@@ -143,7 +143,7 @@ Nelle cause giudicate dalla Corte penale, gli emolumenti di giustizia variano tr
 
 Nelle cause giudicate dalla Corte d’appello, gli emolumenti di giustizia variano tra 200 e 100 000 franchi.
 
-[^7bis-1]: Introdotto dal n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
+[^7bis-1]: Introdotto dalla cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
 
 #### Art. 8
 
@@ -162,7 +162,7 @@ Gli emolumenti riscossi per le procedure ai sensi della PA variano:
 - a. per le cause in cui non entra in linea di conto alcun interesse finanziario: da 100 a 5000 franchi;
 - b. per le altre cause: da 100 a 50 000 franchi.
 
-[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Sezione 3: Disborsi
 
@@ -180,7 +180,7 @@ Gli emolumenti riscossi per le procedure ai sensi della PA variano:
 
 Le disposizioni previste per la difesa d’ufficio si applicano pure al calcolo dell’indennità degli imputati assolti totalmente o parzialmente, alla difesa privata, nonché all’accusatore privato che ha vinto una causa, del tutto o in parte, oppure a terzi ai sensi dell’articolo 434 CPP[^10-1].
 
-[^10-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Sezione 2: Ripetibili accordate all’avvocato d’ufficio
 
@@ -199,6 +199,10 @@ Le disposizioni previste per la difesa d’ufficio si applicano pure al calcolo 
 <sup>1</sup> L’onorario è fissato secondo il tempo, comprovato e necessario, impiegato dall’avvocato per la causa e necessario alla difesa della parte rappresentata. L’indennità oraria ammonta almeno a 200 e al massimo a 300 franchi.
 
 Se l’avvocato non presenta alcuna nota delle spese entro la conclusione dell’udienza finale o entro un termine fissato da chi dirige il procedimento oppure, nelle procedure davanti alla Corte dei reclami penali, al più tardi al momento dell’inoltro dell’unica o ultima memoria, il giudice fissa l’onorario secondo libero apprezzamento.
+
+<sup>3</sup> Il tempo di viaggio è compensato alla metà dell’indennità oraria in conformità al capoverso 1; il tempo di attesa è compensato per intero.[^12-1]
+
+[^12-1]: Introdotto dalla cifra I dall’O del TPF del 29 lug. 2025, in vigore dal 1° gen. 2026 ([RU 2025 500](https://fedlex.data.admin.ch/eli/oc/2025/500)).
 
 #### Art. 13
 
@@ -220,7 +224,7 @@ Sono rimborsati al massimo:
 
 <sup>4</sup> Se circostanze particolari lo giustificano, invece dei costi effettivi di cui al capoverso 2 può essere versato un importo forfettario.
 
-[^13-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^13-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 14
 
@@ -274,7 +278,7 @@ Le spese sono rimborsate secondo i costi effettivi. Sono rimborsati al massimo:
 
 <sup>4</sup> Se circostanze particolari lo giustificano, invece dei costi effettivi di cui al capoverso 1 può essere versato un importo forfettario.
 
-[^17-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^17-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 18
 
@@ -286,7 +290,7 @@ Le persone informate sui fatti o altri terzi che sono toccati da misure probator
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 (RU **20****24** 385).
+[^chap2-sec4-1]: Nuovo testo giusta la cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 19
 
@@ -302,14 +306,14 @@ Le persone informate sui fatti o altri terzi che sono toccati da misure probator
 
 <sup>5</sup> Gli onorari e le spese si intendono IVA esclusa.
 
-[^19-1]: Abrogata dal n. I dell’O del TPF del 22 lug. 2024, con effetto dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
-[^19-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-1]: Abrogata dalla cifra I dell’O del TPF del 22 lug. 2024, con effetto dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^19-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Sezione 4*a*: Indennità a interpreti e traduttori
 
 [^chap2-sec4a-1]
 
-[^chap2-sec4a-1]: Introdotto dal n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^chap2-sec4a-1]: Introdotto dalla cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 20
 
@@ -321,7 +325,7 @@ Le persone informate sui fatti o altri terzi che sono toccati da misure probator
 
 <sup>3</sup> Il tempo di viaggio è compensato alla metà della tariffa oraria in conformità al capoverso 1; il tempo di attesa è compensato per intero.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 20a
 
@@ -333,7 +337,7 @@ Le persone informate sui fatti o altri terzi che sono toccati da misure probator
 
 <sup>3</sup> Nel determinare l’indennità forfettaria, chi dirige il procedimento prende in considerazione le tariffe di cui all’articolo 20 nonché il tempo di lavoro necessario stimato.
 
-[^20a-1]: Introdotto dal n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^20a-1]: Introdotto dalla cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 20b
 
@@ -343,7 +347,7 @@ Le persone informate sui fatti o altri terzi che sono toccati da misure probator
 
 <sup>2</sup> Se i dibattimenti si svolgono su più giorni, in caso di annullamento o riduzione importante del mandato dell’interprete con breve preavviso, il compenso è stabilito da chi dirige il procedimento secondo il suo apprezzamento.
 
-[^20b-1]: Introdotto dal n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^20b-1]: Introdotto dalla cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 20c
 
@@ -355,7 +359,7 @@ Le persone informate sui fatti o altri terzi che sono toccati da misure probator
 
 <sup>3</sup> Le indennità si intendono IVA esclusa.
 
-[^20c-1]: Introdotto dal n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^20c-1]: Introdotto dalla cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 ## Capitolo 3: Disposizioni finali
 
@@ -390,4 +394,4 @@ Le persone informate sui fatti o altri terzi che sono toccati da misure probator
 
 La modifica del 21 agosto 2018 si applica anche alle cause pendenti al momento della sua entrata in vigore.
 
-[^22a-1]: Introdotto dal n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
+[^22a-1]: Introdotto dalla cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).

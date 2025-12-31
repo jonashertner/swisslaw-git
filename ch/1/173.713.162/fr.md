@@ -4,11 +4,11 @@ title: "Règlement du Tribunal pénal fédéral du 31 août 2010 sur les frais, 
 short: RFPPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/826"
 language: fr
-version: 2024-09-01
+version: 2026-01-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-826-20240901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-826-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/fr"
 
 (RFPPF)
 
-du 31 août 2010 (État le 1<sup>er</sup> septembre 2024)
+du 31 août 2010 (État le 1<sup>er</sup> janvier 2026)
 
 Le Tribunal pénal fédéral (TPF),
 
@@ -25,9 +25,9 @@ vu les art. 53, al. 2, let. a, et 73 de la loi du 19 mars 2010 sur l’organisat
 
 arrête:
 
-[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^ingress-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^ingress-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^ingress-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^ingress-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 1 Frais de procédure
 
@@ -64,7 +64,7 @@ arrête:
 <sup>6</sup> La Cour des affaires pénales et la Cour d’appel joignent leur propre liste de frais à celles remises avec l’acte d’accusation après la clôture des débats. Le Ministère public de la Confédération est tenu de remettre à la Cour des affaires pénales ou à la Cour d’appel sa liste de frais pour l’exercice de ses droits de partie dans la procédure judiciaire avant la clôture des débats.[^2-3]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
-[^2-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^2-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4579](https://fedlex.data.admin.ch/eli/oc/2018/719)).
 
 #### Art. 3
@@ -122,7 +122,7 @@ Les montants suivants sont perçus à titre d’émoluments pour l’instruction
 
 <sup>5</sup> Le total des émoluments pour les investigations policières et l’instruction ne doit pas dépasser 100 000 francs.
 
-[^6-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^6-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 7
 
@@ -162,7 +162,7 @@ Les émoluments perçus pour les procédures selon la PA:
 - a. pour les causes où aucun intérêt financier n’entre en ligne de compte: de 100 à 5000 francs;
 - b. pour les autres causes: de 100 à 50 000 francs.
 
-[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Section 3 Débours
 
@@ -180,7 +180,7 @@ Les émoluments perçus pour les procédures selon la PA:
 
 Les dispositions prévues pour la défense d’office s’appliquent également au calcul de l’indemnité des prévenus acquittés totalement ou partiellement, à la défense privée, ainsi qu’à la partie plaignante ayant obtenu gain de cause, en tout ou en partie, ou à des tiers selon l’art. 434 CPP[^10-1].
 
-[^10-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Section 2 Indemnités allouées à l’avocat d’office
 
@@ -199,6 +199,10 @@ Les dispositions prévues pour la défense d’office s’appliquent également 
 <sup>1</sup> Les honoraires sont fixés en fonction du temps effectivement consacré à la cause et nécessaire à la défense de la partie représentée. Le tarif horaire est de 200 francs au minimum et de 300 francs au maximum.
 
 Lorsque l’avocat ne fait pas parvenir le décompte de ses prestations avant la clôture des débats ou dans le délai fixé par la direction de la procédure, ou encore, dans la procédure devant la Cour des plaintes, avec son unique ou sa dernière écriture, le montant des honoraires est fixé selon l’appréciation de la cour.
+
+<sup>3</sup> Le temps de déplacement est indemnisé à hauteur de la moitié du tarif horaire fixé à l’al. 1, le temps d’attente est indemnisé intégralement.[^12-1]
+
+[^12-1]: Introduit par le ch. I de l’O du TPF du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 500](https://fedlex.data.admin.ch/eli/oc/2025/500)).
 
 #### Art. 13
 
@@ -220,7 +224,7 @@ Le remboursement des frais ne peut cependant excéder:
 
 <sup>4</sup> Si des circonstances particulières le justifient, un montant forfaitaire peut être accordé en lieu et place du remboursement des frais effectifs prévus à l’al. 2.
 
-[^13-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^13-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 14
 
@@ -274,7 +278,7 @@ Seuls les frais effectifs sont remboursés. Le remboursement des frais ne peut c
 
 <sup>4</sup> Si des circonstances particulières le justifient, un montant forfaitaire peut être accordé en lieu et place du remboursement des frais effectifs prévus à l’al. 1.
 
-[^17-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^17-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 18
 
@@ -303,7 +307,7 @@ Les personnes appelées à donner des renseignements ou d’autres tiers qui son
 <sup>5</sup> Les honoraires et débours s’entendent hors TVA.
 
 [^19-1]: Abrogé par le ch. I de l’O du TPF du 22 juil. 2024, avec effet au 1<sup>er</sup> sept. 2024 ([RO 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
-[^19-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ### Section 4*a* Indemnités allouées aux interprètes et aux traducteurs
 
