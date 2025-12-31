@@ -4,13 +4,12 @@ number: "340.11"
 title: "Ordonnance relative à l'exécution des peines et des mesures"
 short: OEPM
 language: fr
-version: 2022-02-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-25
+version: 2026-01-01
+version_adopted: 2025-11-10
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/340.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7274/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8482/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Exécution des peines et des mesures – O
 
 (OEPM)
 
-du 05.12.2017 (version entrée en vigueur le 01.02.2022)
+du 05.12.2017 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,7 +34,12 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> La présente ordonnance précise les principes et modalités d'application de la loi sur l'exécution des peines et des mesures.
+<sup>1</sup> La présente ordonnance précise les principes et modalités d'application de la loi sur l'exécution des peines et des mesures[^1-1].
+
+<sup>2</sup> La présente ordonnance règle en outre la compétence relative à l'exécution des peines et des mesures fondées sur le code pénal militaire du 13 juin 1927 (CPM)[^1-2].
+
+[^1-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+[^1-2]: RS [321.0](https://db.clex.ch/link/Bund/321.0/fr)
 
 ## 2 Autorités compétentes
 
@@ -43,26 +47,61 @@ Arrête:
 
 #### Art. 2
 
-**Tâches (art. 7 LEPM)**
+**Tâches (art. 7 LEPM[^2-1])**
 
 <sup>1</sup> Le Service de l'exécution des sanctions pénales et de la probation (ci-après: le SESPP) a, en particulier, les tâches suivantes:
 
 - a) fixer le début de l'exécution des peines et des mesures et placer les personnes condamnées dans les établissements d'exécution des peines et des mesures (ordre d'écrou);
 - b) établir la planification de l'exécution de la peine ou de la mesure ou de l'exécution à titre anticipée;
-- c) approuver le plan d'exécution de la peine ou de la mesure (art. 67 LEPM);
+- c) approuver le plan d'exécution de la peine ou de la mesure (art. 67 LEPM[^2-2]);
 - d) statuer sur le transfert des personnes détenues;
 - e) statuer sur les formes d'exécution dérogatoires;
 - f) statuer sur l'interruption de l'exécution des peines et mesures;
 - g) autoriser une formation professionnelle ou un perfectionnement lorsqu'une prise en charge financière est sollicitée auprès de l'Etat;
 - h) présenter aux autorités judiciaires les requêtes et rapports dans les cas prévus par le droit fédéral;
 - i) statuer sur les différents allégements de l'exécution des sanctions pénales et ordonner toutes les mesures annexes;
-- j) garantir l'application des mesures de substitution au sens des articles 237 et suivants du code de procédure pénale suisse du 5 octobre 2007;
+- j) garantir l'application des mesures de substitution au sens des articles 237 et suivants du code de procédure pénale suisse du 5 octobre 2007[^2-3];
 - k) statuer sur toutes les questions liées au recouvrement des peines pécuniaires et des amendes;
 - l) coordonner le traitement des données enregistrées dans le casier judiciaire, conformément à la législation fédérale;
-- m) garantir l'application de l'assistance de probation et des règles de conduite (art. 93s. du code pénal suisse du 21 décembre 1937, CP) ordonnées par les autorités;
+- m) garantir l'application de l'assistance de probation et des règles de conduite (art. 93s. du code pénal suisse du 21 décembre 1937, CP[^2-4]) ordonnées par les autorités;
 - n) statuer sur l'octroi ou la révocation, promouvoir, organiser et superviser l'exécution des peines sous forme de travail d'intérêt général, de semi-détention et de surveillance électronique;
-- o) statuer sur les demandes d'information des victimes, des proches de la victime et des tiers ayant un intérêt digne de protection, selon l'article 92a CP.
-- p) exécuter la surveillance électronique ordonnée en vertu de l'article 28c du code civil suisse du 10 décembre 1907 (CC) dans le domaine de la violence, des menaces et du harcèlement.
+- o) statuer sur les demandes d'information des victimes, des proches de la victime et des tiers ayant un intérêt digne de protection, selon l'article 92a CP[^2-5].
+- p) exécuter la surveillance électronique ordonnée en vertu de l'article 28c du code civil suisse du 10 décembre 1907 (CC)[^2-6] dans le domaine de la violence, des menaces et du harcèlement.
+
+[^2-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+[^2-2]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+[^2-3]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+[^2-4]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+[^2-5]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+[^2-6]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+
+### 2.1a Service de la sécurité civile et militaire
+
+#### Art. 2a
+
+**Tâches**
+
+<sup>1</sup> Le Service de la sécurité civile et militaire (ci-après: le SSCM) est compétent pour l'exécution des peines et des mesures rendues en application du CPM[^2a-1].
+
+<sup>2</sup> A cet effet, les décisions rendues par la justice militaire lui sont directement transmises.
+
+<sup>3</sup> Dans l'accomplissement de cette tâche, le SSCM peut si nécessaire requérir le soutien de la Police cantonale, notamment pour la recherche du lieu de séjour, le mandat d'amener et le mandat d'arrêt.
+
+<sup>4</sup> Le SESPP est compétent pour les tâches suivantes qui lui sont signalées par le SSCM et rend les décisions y relatives:
+
+- a) l'exécution des peines privatives de liberté fermes, des mesures thérapeutiques et de l'internement;
+- b) l'exécution des peines privatives de liberté de substitution prononcées en conversion d'amendes ou de peines pécuniaires;
+- c) toute autre mesure d'exécution, notamment l'assistance de probation, les règles de conduite et leur contrôle, les interdictions diverses, l'expulsion judiciaire, les signalements particuliers, moyennant concertation entre les deux entités.
+
+[^2a-1]: RS [321.0](https://db.clex.ch/link/Bund/321.0/fr)
+
+#### Art. 2b
+
+**Exécution des sanctions pénales militaires**
+
+<sup>1</sup> Sauf disposition contraire, dans le domaine de l'exécution des sanctions pénales militaires, la LEPM[^2b-1] s'applique par analogie.
+
+[^2b-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 ### 2.2 Service de la population et des migrants
 
@@ -80,19 +119,24 @@ Arrête:
 
 **Interdiction de conduire**
 
-<sup>1</sup> L'Office de la circulation et de la navigation est compétent pour la mise en application de l'interdiction de conduire au sens de l'article 67e CP.
+<sup>1</sup> L'Office de la circulation et de la navigation est compétent pour la mise en application de l'interdiction de conduire au sens de l'article 67e CP[^4-1].
+
+[^4-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 ### 2.4 Commission consultative de libération conditionnelle et d'examen de la dangerosité
 
 #### Art. 5
 
-**Composition (art. 8 LEPM)**
+**Composition (art. 8 LEPM[^5-1])**
 
-<sup>1</sup> La Commission consultative de libération conditionnelle et d'examen de la dangerosité (ci-après: la Commission) peut constituer une sous-commission pour l'examen de la dangerosité de la personne condamnée dans le cas prévu à l'article 8 al. 4 LEPM.
+<sup>1</sup> La Commission consultative de libération conditionnelle et d'examen de la dangerosité (ci-après: la Commission) peut constituer une sous-commission pour l'examen de la dangerosité de la personne condamnée dans le cas prévu à l'article 8 al. 4 LEPM[^5-2].
 
 <sup>2</sup> Le ou la chef-fe du SESPP assiste aux séances avec voix consultative.
 
 <sup>3</sup> Le secrétariat est assuré par le SESPP.
+
+[^5-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+[^5-2]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 #### Art. 6
 
@@ -112,7 +156,7 @@ Arrête:
 
 #### Art. 7
 
-**Commission administrative (art. 16 LEPM)**
+**Commission administrative (art. 16 LEPM[^7-1])**
 
 <sup>1</sup> La Commission administrative se réunit aussi souvent que nécessaire, mais au moins trois fois par année. En outre, elle est convoquée sur décision de son président ou de sa présidente ou à la demande de trois membres.
 
@@ -123,6 +167,8 @@ Arrête:
 <sup>4</sup> Elle prend ses décisions en séance. Toutefois, en cas d'urgence, elle peut se prononcer par voie de circulation.
 
 <sup>5</sup> Pour le surplus, la Commission administrative s'organise elle-même.
+
+[^7-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 #### Art. 8
 
@@ -176,13 +222,15 @@ Arrête:
 
 #### Art. 12
 
-**Rémunération et indemnité (art. 40 et 42 LEPM)**
+**Rémunération et indemnité (art. 40 et 42 LEPM[^12-1])**
 
 <sup>1</sup> La personne en exécution d'une peine privative de liberté reçoit une rémunération pour son travail ou une indemnité équitable en cas de participation à un programme reconnu de formation.
 
 <sup>2</sup> Les dispositions arrêtées par la Conférence latine des autorités cantonales compétentes en matière pénitentiaire règlent le montant, le mode de calcul, la gestion et l'utilisation de la rémunération ainsi que la tenue du compte individuel de la personne détenue.
 
 <sup>3</sup> Les personnes détenues provisoirement ou pour motif de sûreté peuvent être affectées à une tâche et, dans ce cas, perçoivent une rémunération à l'acte selon les règles concordataires.
+
+[^12-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 #### Art. 13
 
@@ -196,7 +244,7 @@ Arrête:
 
 #### Art. 14
 
-**Relations avec l'extérieur (art. 41 LEPM)**
+**Relations avec l'extérieur (art. 41 LEPM[^14-1])**
 
 <sup>1</sup> Les règles relatives aux relations avec l'extérieur, en particulier la correspondance écrite, l'utilisation du téléphone, les colis postaux et les visites, sont définies dans les règlements internes.
 
@@ -210,13 +258,21 @@ Arrête:
 
 <sup>6</sup> Le visiteur ou la visiteuse a droit à une équitable indemnité pour ses frais de déplacement.
 
+[^14-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+
 #### Art. 15
 
-**Dossier de santé (art. 44 et 54 LEPM)**
+**Dossier de santé (art. 44 et 54 LEPM[^15-1])**
 
 <sup>1</sup> Les données concernant la santé de chaque personne détenue doivent être contenues dans un dossier électronique géré par le service infirmier de l'établissement de détention, en collaboration avec tous les professionnel-le-s de la santé concernés.
 
+[^15-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+
 ### 3.3 Mesures de contrainte (art. 33 LEPM)
+
+[^15-2]
+
+[^15-2]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 #### Art. 16
 
@@ -372,9 +428,15 @@ Arrête:
 
 <sup>3</sup> Le recours doit être formulé par écrit et contenir des motifs, des conclusions et des moyens de preuve. Il doit être adressé à l'autorité compétente dans les trente jours à compter de la communication de la décision.
 
-<sup>4</sup> Le code de procédure et de juridiction administrative s'applique pour le surplus. Toutefois, le recours n'a pas d'effet suspensif, et le motif d'inopportunité ne peut pas être soulevé.
+<sup>4</sup> Le code de procédure et de juridiction administrative[^30-1] s'applique pour le surplus. Toutefois, le recours n'a pas d'effet suspensif, et le motif d'inopportunité ne peut pas être soulevé.
+
+[^30-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ### 3.4 Mesures de sûreté particulières (art. 34 LEPM)
+
+[^30-2]
+
+[^30-2]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 #### Art. 31
 
@@ -396,7 +458,9 @@ Arrête:
 
 <sup>2</sup> Le recours doit être formulé par écrit et contenir des motifs, des conclusions et des moyens de preuve. Il doit être adressé à l'autorité compétente dans les trente jours à compter de la communication de la décision.
 
-<sup>3</sup> Le code de procédure et de juridiction administrative s'applique pour le surplus. Toutefois, le recours n'a pas d'effet suspensif, et le motif d'inopportunité ne peut pas être soulevé.
+<sup>3</sup> Le code de procédure et de juridiction administrative[^32-1] s'applique pour le surplus. Toutefois, le recours n'a pas d'effet suspensif, et le motif d'inopportunité ne peut pas être soulevé.
+
+[^32-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ### 3.5 Personnel de l'EDFR
 
@@ -415,11 +479,13 @@ Arrête:
 
 #### Art. 34
 
-**Habillement et armement (art. 24 LEPM)**
+**Habillement et armement (art. 24 LEPM[^34-1])**
 
 <sup>1</sup> L'EDFR fournit aux collaborateurs et collaboratrices chargés de la surveillance et de l'encadrement les effets d'habillement, d'équipement et d'armement nécessaires à l'accomplissement de leurs tâches.
 
 <sup>2</sup> Les armes utilisées sont celles qui sont mentionnées à l'article 24 al. 1.
+
+[^34-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 #### Art. 35
 
@@ -429,15 +495,21 @@ Arrête:
 
 ## 4 Exécution des peines privatives de liberté et des mesures (art. 59 à 71 LEPM)
 
+[^35-1]
+
+[^35-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+
 #### Art. 36
 
 **Ordre d'écrou**
 
 <sup>1</sup> L'ordre d'exécuter la condamnation (ordre d'écrou) est notifié à la personne condamnée.
 
-<sup>2</sup> La personne condamnée peut, dans les vingt jours, requérir du SESPP, pour un motif grave, l'ajournement du début de l'exécution de la sanction pénale ou l'exécution sous la forme de la semi-détention, du travail d'intérêt général ou de la surveillance électronique. La décision du SESPP est sujette à recours (art. 74 al. 2 LEPM).
+<sup>2</sup> La personne condamnée peut, dans les vingt jours, requérir du SESPP, pour un motif grave, l'ajournement du début de l'exécution de la sanction pénale ou l'exécution sous la forme de la semi-détention, du travail d'intérêt général ou de la surveillance électronique. La décision du SESPP est sujette à recours (art. 74 al. 2 LEPM[^36-1]).
 
 <sup>3</sup> Si nécessaire, les ordres d'écrou peuvent donner lieu à des mandats d'arrêts, exécutés par la Police cantonale.
+
+[^36-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 #### Art. 37
 
@@ -513,11 +585,13 @@ Arrête:
 
 **Assistance matérielle**
 
-<sup>1</sup> L'assistance matérielle des personnes sous assistance de probation est régie par la législation sur l'aide sociale (art. 96 CP).
+<sup>1</sup> L'assistance matérielle des personnes sous assistance de probation est régie par la législation sur l'aide sociale (art. 96 CP[^43-1]).
 
 <sup>2</sup> Toutefois, au besoin, le SESPP fournit aux personnes sous assistance de probation une aide matérielle ponctuelle, en espèces ou en nature.
 
 <sup>3</sup> Le SESPP assure la gestion financière des personnes en régime d'exécution des peines privatives de liberté sous forme de travail externe ainsi que sous forme de travail et de logement externes.
+
+[^43-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 44
 
@@ -533,29 +607,38 @@ Arrête:
 
 ## 5 Frais de détention, émoluments et débours (art. 31 et 72 à 75 LEPM)
 
+[^44-1]
+
+[^44-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+
 ### 5.1 Frais de détention
 
 #### Art. 45
 
-**Prix de pension des personnes placées à des fins d'assistance (art. 31 al. 3 LEPM)**
+**Prix de pension des personnes placées à des fins d'assistance (art. 31 al. 3 LEPM[^45-1])**
 
-<sup>1</sup> Pour les personnes placées par une autorité judiciaire en application de l'article 426 du code civil suisse du 10 décembre 1907, le prix de pension journalier est fixé à 260 francs.
+<sup>1</sup> Pour les personnes placées par une autorité judiciaire en application de l'article 426 du code civil suisse du 10 décembre 1907[^45-2], le prix de pension journalier est fixé à 260 francs.
 
 <sup>2</sup> Ce prix comprend les frais médicaux et pharmaceutiques inhérents à la visite médicale d'entrée et aux premiers soins urgents ainsi que la prime d'assurance-accidents.
 
 <sup>3</sup> Il ne comprend pas les autres frais médicaux, dentaires, pharmaceutiques et d'hospitalisation dans un établissement non concordataire.
 
+[^45-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+[^45-2]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+
 #### Art. 46
 
-**Participation de la personne condamnée aux frais de détention (art. 72 LEPM)**
+**Participation de la personne condamnée aux frais de détention (art. 72 LEPM[^46-1])**
 
 <sup>1</sup> La personne condamnée doit s'acquitter d'une participation aux frais d'exécution de la peine ou de la mesure, conformément aux règles concordataires.
 
 <sup>2</sup> Le SESPP procède à la facturation et à l'encaissement des montants prévus auprès des personnes qui bénéficient d'une exécution facilitée de leur peine.
 
+[^46-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+
 #### Art. 47
 
-**Participation de la personne détenue à titre provisoire ou pour des motifs de sûreté aux frais de détention (art. 73 al. 2 LEPM)**
+**Participation de la personne détenue à titre provisoire ou pour des motifs de sûreté aux frais de détention (art. 73 al. 2 LEPM[^47-1])**
 
 <sup>1</sup> La personne détenue à titre provisoire ou pour des motifs de sûreté ayant un salaire, une rémunération ou une fortune suffisante doit payer une participation aux frais de sa détention.
 
@@ -567,13 +650,17 @@ Arrête:
 
 <sup>5</sup> En cas d'acquittement de la personne, la participation perçue est remboursée.
 
+[^47-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
+
 #### Art. 48
 
-**Frais médicaux, pharmaceutiques et dentaires (art. 54 LEPM)**
+**Frais médicaux, pharmaceutiques et dentaires (art. 54 LEPM[^48-1])**
 
 <sup>1</sup> Les règles concordataires s'appliquent à toute personne détenue, qu'elle soit en exécution à titre anticipé ou en force d'une sanction pénale ou qu'elle soit détenue à titre provisoire ou pour des motifs de sûreté.
 
 <sup>2</sup> Dans certaines situations, notamment en cas de brève détention, il peut être renoncé à affilier la personne concernée contre les risques liés à la maladie et aux accidents auprès d'une caisse-maladie. Le SESPP se substitue dans ce cas à cette dernière.
+
+[^48-1]: RSF [340.1](https://bdlf.fr.ch/data/340.1/fr)
 
 ### 5.2 Emoluments
 
@@ -597,7 +684,9 @@ Arrête:
 
 <sup>4</sup> L'autorité de décision peut réduire ou renoncer à percevoir un émolument si des motifs particuliers le justifient.
 
-<sup>5</sup> Le code de procédure et de juridiction administrative s'applique en cas de contestation.
+<sup>5</sup> Le code de procédure et de juridiction administrative[^50-1] s'applique en cas de contestation.
+
+[^50-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ### 5.3 Débours
 

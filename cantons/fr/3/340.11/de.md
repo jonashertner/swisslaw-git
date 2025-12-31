@@ -4,13 +4,12 @@ number: "340.11"
 title: Verordnung über den Straf- und Massnahmenvollzug
 short: SMVV
 language: de
-version: 2022-02-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-25
+version: 2026-01-01
+version_adopted: 2025-11-10
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/340.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7274/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Straf- und Massnahmenvollzug – V
 
 (SMVV)
 
-vom 05.12.2017 (Fassung in Kraft getreten am 01.02.2022)
+vom 05.12.2017 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,7 +34,12 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> In dieser Verordnung werden die Grundsätze und die Einzelheiten für die Umsetzung des Gesetzes über den Straf- und Massnahmenvollzug festgelegt.
+<sup>1</sup> In dieser Verordnung werden die Grundsätze und die Einzelheiten für die Umsetzung des Gesetzes über den Straf- und Massnahmenvollzug[^1-1] festgelegt.
+
+<sup>2</sup> In ihr wird ausserdem die Zuständigkeit für den Vollzug von Strafen und Massnahmen nach dem Militärstrafgesetz vom 13. Juni 1927 (MStG)[^1-2] geregelt.
+
+[^1-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+[^1-2]: SR [321.0](https://db.clex.ch/link/Bund/321.0/de)
 
 ## 2 Zuständige Behörden
 
@@ -43,26 +47,61 @@ beschliesst:
 
 #### Art. 2
 
-**Aufgaben (Art. 7 SMVG)**
+**Aufgaben (Art. 7 SMVG[^2-1])**
 
 <sup>1</sup> Das Amt für Justizvollzug und Bewährungshilfe (das JVBHA) hat insbesondere folgende Aufgaben:
 
 - a) Es bestimmt den Beginn des Vollzugs der Strafen und Massnahmen und ordnet die Einweisung der verurteilten Personen in eine Straf- oder Massnahmenvollzugseinrichtung an (Strafvollstreckungsbefehl).
 - b) Es erstellt die Planung für den ordentlichen oder vorzeitigen Vollzug von Strafen und Massnahmen.
-- c) Es genehmigt den Vollzugsplan für Strafen und Massnahmen (Art. 67 SMVG).
+- c) Es genehmigt den Vollzugsplan für Strafen und Massnahmen (Art. 67 SMVG[^2-2]).
 - d) Es entscheidet über die Verlegung von Gefangenen.
 - e) Es entscheidet über abweichende Vollzugsformen.
 - f) Es entscheidet über die Unterbrechung des Straf- und Massnahmenvollzugs.
 - g) Es bewilligt berufliche Aus- und Weiterbildungen, wenn die Übernahme der Kosten durch den Staat beantragt wird.
 - h) Es legt den Gerichtsbehörden in den vom Bundesrecht vorgesehenen Fällen Gesuche und Berichte vor.
 - i) Es entscheidet über die verschiedenen Vollzugsöffnungen der strafrechtlichen Sanktionen und ordnet alle Begleitmassnahmen an.
-- j) Es stellt die Umsetzung der Ersatzmassnahmen im Sinne der Artikel 237 ff. der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 sicher.
+- j) Es stellt die Umsetzung der Ersatzmassnahmen im Sinne der Artikel 237 ff. der Schweizerischen Strafprozessordnung vom 5. Oktober 2007[^2-3] sicher.
 - k) Es entscheidet über alle Fragen zur Eintreibung von Geldstrafen und Bussen.
 - l) Es koordiniert gemäss der Bundesgesetzgebung die Bearbeitung der Daten im Strafregister.
-- m) Es stellt die Umsetzung der Bewährungshilfe und der Weisungen (Art. 93 f. des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937, StGB), die von den Behörden angeordnet wurden, sicher.
+- m) Es stellt die Umsetzung der Bewährungshilfe und der Weisungen (Art. 93 f. des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937, StGB[^2-4]), die von den Behörden angeordnet wurden, sicher.
 - n) Es gewährt oder widerruft, fördert, organisiert und überwacht den Strafvollzug in Form von gemeinnütziger Arbeit, Halbgefangenschaft und elektronischer Überwachung.
-- o) Es entscheidet über Informationsgesuche eines Opfers, von Angehörigen eines Opfers und Drittpersonen mit einem schutzwürdigen Interesse gemäss Artikel 92a StGB.
-- p) Es vollzieht bei Gewalt, Drohungen und Nachstellungen die elektronische Überwachung gemäss Artikel 28c des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB).
+- o) Es entscheidet über Informationsgesuche eines Opfers, von Angehörigen eines Opfers und Drittpersonen mit einem schutzwürdigen Interesse gemäss Artikel 92a StGB[^2-5].
+- p) Es vollzieht bei Gewalt, Drohungen und Nachstellungen die elektronische Überwachung gemäss Artikel 28c des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB[^2-6]).
+
+[^2-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+[^2-2]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+[^2-3]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^2-4]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^2-5]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^2-6]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+### 2.1a Amt für zivile Sicherheit und Militär
+
+#### Art. 2a
+
+**Aufgaben**
+
+<sup>1</sup> Das Amt für zivile Sicherheit und Militär (AZSM) ist für den Vollzug von Strafen und Massnahmen, die in Anwendung des MStG[^2a-1] verhängt werden, zuständig.
+
+<sup>2</sup> Die Militärjustiz lässt ihm dafür direkt ihre Entscheide zukommen.
+
+<sup>3</sup> Bei der Erfüllung dieser Aufgabe kann das AZSM bei Bedarf die Unterstützung der Kantonspolizei anfordern, namentlich für die Ermittlung des Aufenthaltsortes, den Vorführungsbefehl und den Haftbefehl.
+
+<sup>4</sup> Das JVBHA ist für die folgenden Aufgaben, die ihm vom AZSM gemeldet werden, zuständig und erlässt die entsprechenden Entscheide:
+
+- a) Vollzug von unbedingten Freiheitsstrafen, therapeutischen Massnahmen und Verwahrungen;
+- b) Vollzug von Ersatzfreiheitsstrafen nach Umwandlung von Bussen oder Geldstrafen;
+- c) alle übrigen Vollzugsmassnahmen, namentlich Bewährungshilfe, Weisungen und ihre Kontrolle, verschiedene Verbote, gerichtliche Landesverweisungen und besondere Meldungen, nach Absprache der beiden Behörden.
+
+[^2a-1]: SR [321.0](https://db.clex.ch/link/Bund/321.0/de)
+
+#### Art. 2b
+
+**Vollzug der militärstrafrechtlichen Sanktionen**
+
+<sup>1</sup> Soweit nichts anderes bestimmt ist, gilt für den Vollzug der militärstrafrechtlichen Sanktionen sinngemäss das SMVG[^2b-1].
+
+[^2b-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 ### 2.2 Amt für Bevölkerung und Migration
 
@@ -80,19 +119,24 @@ beschliesst:
 
 **Fahrverbot**
 
-<sup>1</sup> Das Amt für Strassenverkehr und Schifffahrt ist für die Durchsetzung des Fahrverbots im Sinne von Artikel 67e StGB zuständig.
+<sup>1</sup> Das Amt für Strassenverkehr und Schifffahrt ist für die Durchsetzung des Fahrverbots im Sinne von Artikel 67e StGB[^4-1] zuständig.
+
+[^4-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 ### 2.4 Beratende Kommission für die bedingte Strafentlassung und die Abklärung der Gemeingefährlichkeit
 
 #### Art. 5
 
-**Zusammensetzung (Art. 8 SMVG)**
+**Zusammensetzung (Art. 8 SMVG[^5-1])**
 
-<sup>1</sup> Die beratende Kommission für die bedingte Strafentlassung und die Abklärung der Gemeingefährlichkeit (die Kommission) kann gemäss Artikel 8 Abs. 4 SMVG eine Subkommission zur Abklärung der Gemeingefährlichkeit der verurteilten Person bilden.
+<sup>1</sup> Die beratende Kommission für die bedingte Strafentlassung und die Abklärung der Gemeingefährlichkeit (die Kommission) kann gemäss Artikel 8 Abs. 4 SMVG[^5-2] eine Subkommission zur Abklärung der Gemeingefährlichkeit der verurteilten Person bilden.
 
 <sup>2</sup> Die Vorsteherin oder der Vorsteher des JVBHA nimmt an den Sitzungen der Kommission mit beratender Stimme teil.
 
 <sup>3</sup> Das JVBHA führt das Sekretariat.
+
+[^5-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+[^5-2]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 #### Art. 6
 
@@ -112,7 +156,7 @@ beschliesst:
 
 #### Art. 7
 
-**Verwaltungskommission (Art. 16 SMVG)**
+**Verwaltungskommission (Art. 16 SMVG[^7-1])**
 
 <sup>1</sup> Die Verwaltungskommission tagt so oft wie nötig, jedoch mindestens dreimal pro Jahr. Sie tritt ausserdem zusammen, wenn ihre Präsidentin oder ihr Präsident sie einberuft oder wenn drei Mitglieder darum ersuchen.
 
@@ -123,6 +167,8 @@ beschliesst:
 <sup>4</sup> Sie fällt ihre Entscheide in der Sitzung. In dringenden Fällen kann sie jedoch auf dem Zirkularweg entscheiden.
 
 <sup>5</sup> Im Übrigen konstituiert sich die Verwaltungskommission selbst.
+
+[^7-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 #### Art. 8
 
@@ -176,13 +222,15 @@ beschliesst:
 
 #### Art. 12
 
-**Arbeitsentgelt und Vergütung (Art. 40 und 42 SMVG)**
+**Arbeitsentgelt und Vergütung (Art. 40 und 42 SMVG[^12-1])**
 
 <sup>1</sup> Personen im Freiheitsentzug erhalten für ihre Arbeit ein Arbeitsentgelt oder, wenn sie an einem anerkannten Ausbildungsprogramm teilnehmen, eine angemessene Vergütung.
 
 <sup>2</sup> Der Betrag sowie die Berechnung, Verwaltung und Verwendung des Arbeitsentgelts und die Führung des persönlichen Kontos der Gefangenen richten sich nach den Bestimmungen, welche die Lateinische Konferenz der in Vollzugsfragen zuständigen kantonalen Behörden erlässt.
 
 <sup>3</sup> Personen in Untersuchungs- oder Sicherheitshaft kann eine Aufgabe zugewiesen werden; in diesem Fall erhalten sie für ihre Tätigkeit ein Arbeitsentgelt, das sich nach den konkordatsrechtlichen Bestimmungen richtet.
+
+[^12-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 #### Art. 13
 
@@ -196,7 +244,7 @@ beschliesst:
 
 #### Art. 14
 
-**Beziehungen zur Aussenwelt (Art. 41 SMVG)**
+**Beziehungen zur Aussenwelt (Art. 41 SMVG[^14-1])**
 
 <sup>1</sup> Die Regeln für den Kontakt zur Aussenwelt, insbesondere für Briefwechsel, Benutzung des Telefons, Postpakete und Besuche, werden in internen Reglementen festgelegt.
 
@@ -210,13 +258,21 @@ beschliesst:
 
 <sup>6</sup> Die Besucherinnen und Besucher haben Anspruch auf eine angemessene Entschädigung für ihre Reisekosten.
 
+[^14-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+
 #### Art. 15
 
-**Gesundheitsdossier (Art. 44 und 54 SMVG)**
+**Gesundheitsdossier (Art. 44 und 54 SMVG[^15-1])**
 
 <sup>1</sup> Die Daten über die Gesundheit jeder gefangenen Person müssen in einem elektronischen Dossier, das vom Pflegedienst in Zusammenarbeit mit allen betroffenen Gesundheitsfachpersonen geführt wird, enthalten sein.
 
+[^15-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+
 ### 3.3 Zwangsmassnahmen (Art. 33 SMVG)
+
+[^15-2]
+
+[^15-2]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 #### Art. 16
 
@@ -372,9 +428,15 @@ beschliesst:
 
 <sup>3</sup> Die Beschwerde muss schriftlich abgefasst sein und Beschwerdegründe, Anträge und Beweismittel enthalten. Sie muss innert dreissig Tagen ab Eröffnung des Entscheids bei der zuständigen Behörde eingereicht werden.
 
-<sup>4</sup> Im Übrigen gilt das Gesetz über die Verwaltungsrechtspflege. Die Beschwerde hat jedoch keine aufschiebende Wirkung, und die Rüge der Unangemessenheit ist nicht zulässig.
+<sup>4</sup> Im Übrigen gilt das Gesetz über die Verwaltungsrechtspflege[^30-1]. Die Beschwerde hat jedoch keine aufschiebende Wirkung, und die Rüge der Unangemessenheit ist nicht zulässig.
+
+[^30-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ### 3.4 Besondere Sicherheitsmassnahmen (Art. 34 SMVG)
+
+[^30-2]
+
+[^30-2]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 #### Art. 31
 
@@ -396,7 +458,9 @@ beschliesst:
 
 <sup>2</sup> Die Beschwerde muss schriftlich abgefasst sein und Beschwerdegründe, Anträge und Beweismittel enthalten. Sie muss innert dreissig Tagen ab Eröffnung des Entscheids bei der zuständigen Behörde eingereicht werden.
 
-<sup>3</sup> Im Übrigen gilt das Gesetz über die Verwaltungsrechtspflege. Die Beschwerde hat jedoch keine aufschiebende Wirkung, und die Rüge der Unangemessenheit ist nicht zulässig.
+<sup>3</sup> Im Übrigen gilt das Gesetz über die Verwaltungsrechtspflege[^32-1]. Die Beschwerde hat jedoch keine aufschiebende Wirkung, und die Rüge der Unangemessenheit ist nicht zulässig.
+
+[^32-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ### 3.5 Personal der FRSA
 
@@ -415,11 +479,13 @@ beschliesst:
 
 #### Art. 34
 
-**Bekleidung und Bewaffnung (Art. 24 SMVG)**
+**Bekleidung und Bewaffnung (Art. 24 SMVG[^34-1])**
 
 <sup>1</sup> Die FRSA besorgt den Mitarbeiterinnen und Mitarbeitern, die mit der Aufsicht und Betreuung der Gefangenen beauftragt sind, die Bekleidung, die Ausrüstung und die Bewaffnung, die für die Erfüllung ihrer Aufgaben erforderlich sind.
 
 <sup>2</sup> Die einsetzbaren Waffen werden in Artikel 24 Abs. 1 aufgeführt.
+
+[^34-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 #### Art. 35
 
@@ -429,15 +495,21 @@ beschliesst:
 
 ## 4 Vollzug von Freiheitsstrafen und Massnahmen (Art. 59–71 SMVG)
 
+[^35-1]
+
+[^35-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+
 #### Art. 36
 
 **Strafvollstreckungsbefehl**
 
 <sup>1</sup> Die Anordnung der Urteilsvollstreckung (Strafvollstreckungsbefehl) wird der verurteilten Person zugestellt.
 
-<sup>2</sup> Die verurteilte Person kann bei Vorliegen schwerwiegender Gründe innert zwanzig Tagen beim JVBHA die Verschiebung des Strafantritts oder den Vollzug in Form von Halbgefangenschaft, gemeinnütziger Arbeit oder elektronischer Überwachung beantragen. Gegen den Entscheid des JVBHA kann Beschwerde geführt werden (Art. 74 Abs. 2 SMVG).
+<sup>2</sup> Die verurteilte Person kann bei Vorliegen schwerwiegender Gründe innert zwanzig Tagen beim JVBHA die Verschiebung des Strafantritts oder den Vollzug in Form von Halbgefangenschaft, gemeinnütziger Arbeit oder elektronischer Überwachung beantragen. Gegen den Entscheid des JVBHA kann Beschwerde geführt werden (Art. 74 Abs. 2 SMVG[^36-1]).
 
 <sup>3</sup> Wenn nötig können die Strafvollstreckungsbefehle mit Haftbefehlen vollstreckt werden, die von der Kantonspolizei ausgeführt werden.
+
+[^36-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 #### Art. 37
 
@@ -513,11 +585,13 @@ beschliesst:
 
 **Materielle Unterstützung**
 
-<sup>1</sup> Die materielle Unterstützung von Personen, für die eine Bewährungshilfe angeordnet wurde, wird in der Gesetzgebung über die Sozialhilfe geregelt (Art. 96 StGB).
+<sup>1</sup> Die materielle Unterstützung von Personen, für die eine Bewährungshilfe angeordnet wurde, wird in der Gesetzgebung über die Sozialhilfe geregelt (Art. 96 StGB[^43-1]).
 
 <sup>2</sup> Bei Bedarf erbringt das JVBHA jedoch für Personen, für die eine Bewährungshilfe angeordnet wurde, eine punktuelle materielle Unterstützung in Form von Geld- oder Naturalleistungen.
 
 <sup>3</sup> Das JVBHA regelt die finanziellen Angelegenheiten von Personen, deren Freiheitsstrafe im Regime des Arbeitsexternats und des Arbeits- und Wohnexternats vollzogen wird.
+
+[^43-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 44
 
@@ -533,29 +607,38 @@ beschliesst:
 
 ## 5 Haftkosten, Gebühren und Auslagen (Art. 31 und 72–75 SMVG)
 
+[^44-1]
+
+[^44-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+
 ### 5.1 Haftkosten
 
 #### Art. 45
 
-**Pensionspreis für fürsorgerisch untergebrachte Personen (Art. 31 Abs. 3 SMVG)**
+**Pensionspreis für fürsorgerisch untergebrachte Personen (Art. 31 Abs. 3 SMVG[^45-1])**
 
-<sup>1</sup> Für Personen, die in Anwendung von Artikel 426 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 von einer Gerichtsbehörde fürsorgerisch untergebracht werden, wird der Pensionspreis auf 260 Franken pro Tag festgesetzt.
+<sup>1</sup> Für Personen, die in Anwendung von Artikel 426 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907[^45-2] von einer Gerichtsbehörde fürsorgerisch untergebracht werden, wird der Pensionspreis auf 260 Franken pro Tag festgesetzt.
 
 <sup>2</sup> Der Pensionspreis umfasst die Arzt- und Medikamentenkosten, die bei der Eintrittsvisite und bei dringenden Erste-Hilfe-Massnahmen anfallen, und die Prämie für die Unfallversicherung.
 
 <sup>3</sup> Er umfasst keine weiteren Arzt-, Zahnarzt-, Medikamenten- oder Spitalkosten in einer Anstalt, die nicht dem Konkordat angehört.
 
+[^45-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+[^45-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
 #### Art. 46
 
-**Beteiligung von verurteilten Personen an den Haftkosten (Art. 72 SMVG)**
+**Beteiligung von verurteilten Personen an den Haftkosten (Art. 72 SMVG[^46-1])**
 
 <sup>1</sup> Verurteilte Personen müssen sich gemäss den Bestimmungen des Konkordatsrechts an den Straf- oder Massnahmenvollzugskosten beteiligen.
 
 <sup>2</sup> Das JVBHA führt die Rechnungstellung und das Inkasso der vorgesehenen Beträge bei den Personen im erleichterten Strafvollzug durch.
 
+[^46-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+
 #### Art. 47
 
-**Beteiligung von Personen in Untersuchungs- oder Sicherheitshaft an den Haftkosten (Art. 73 Abs. 2 SMVG)**
+**Beteiligung von Personen in Untersuchungs- oder Sicherheitshaft an den Haftkosten (Art. 73 Abs. 2 SMVG[^47-1])**
 
 <sup>1</sup> Personen in Untersuchungs- oder Sicherheitshaft, die über einen Lohn, ein Entgelt oder ein ausreichendes Vermögen verfügen, müssen eine Beteiligung an ihren Haftkosten zahlen.
 
@@ -567,13 +650,17 @@ beschliesst:
 
 <sup>5</sup> Bei einem Freispruch der Person wird die bereits geleistete Kostenbeteiligung zurückerstattet.
 
+[^47-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
+
 #### Art. 48
 
-**Arzt-, Zahnarzt- und Medikamentenkosten (Art. 54 SMVG)**
+**Arzt-, Zahnarzt- und Medikamentenkosten (Art. 54 SMVG[^48-1])**
 
 <sup>1</sup> Die konkordatsrechtlichen Bestimmungen gelten für alle Gefangenen, unabhängig davon, ob sie sich im vorzeitigen oder im ordentlichen Vollzug, in Untersuchungs- oder Sicherheitshaft befinden.
 
 <sup>2</sup> In gewissen Situation, namentlich im Falle einer kurzen Haftdauer, kann darauf verzichtet werden, die betreffende Person bei der Krankenkasse gegen Krankheit und Unfall zu versichern. In diesem Fall tritt das JVBHA an die Stelle der Krankenkasse.
+
+[^48-1]: SGF [340.1](https://bdlf.fr.ch/data/340.1/de)
 
 ### 5.2 Gebühren
 
@@ -597,7 +684,9 @@ beschliesst:
 
 <sup>4</sup> Die Entscheidbehörde kann die Gebühr senken oder auf ihre Erhebung verzichten, wenn es aus besonderen Gründen gerechtfertigt ist.
 
-<sup>5</sup> Im Fall einer Anfechtung gilt das Gesetz über die Verwaltungsrechtspflege.
+<sup>5</sup> Im Fall einer Anfechtung gilt das Gesetz über die Verwaltungsrechtspflege[^50-1].
+
+[^50-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ### 5.3 Auslagen
 
