@@ -4,13 +4,13 @@ number: "146.11"
 title: "Dienstordnung der Bildungs-, Kultur- und Sportdirektion"
 short: Do BKSD
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-12-14
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-12-18
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/146.11"
-pdf: "https://bl.clex.ch/api/de/versions/3173/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4396/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3173/pdf_file"
 
 (Do BKSD)
 
-Vom 14.12.2021 (Stand 01.01.2022)
+Vom 14.12.2021 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -478,18 +478,22 @@ beschliesst:
 <sup>1</sup> Die Dienststelle BMH gliedert sich in:
 
 - a. die Hauptabteilung Berufsbildung;
-- b. die Hauptabteilung Mittelschulen;
-- c. die Hauptabteilung Hochschulen.
+- b. die Hauptabteilung Berufs- und Mittelschulen;
+- c. die Hauptabteilung Hochschulen;
+- d. die Hauptabteilung Laufbahnzentrum;
+- e. die Stabsstelle BMH.
 
 #### § 31
 
 **Aufgaben**
 
-<sup>1</sup> Die Dienststelle BMH ist zuständig für die Planung der Bildungspolitik in den Bereichen Berufsbildung, inklusive Berufsfachschulen, betriebliche Ausbildung, Laufbahn und Integration sowie Ausbildungsbeiträge, Mittelschulen und Hochschulen und verfolgt dazu die Entwicklungen auf kantonaler, eidgenössischer und internationaler Ebene.
+<sup>1</sup> Die Dienststelle BMH ist die kantonale Behörde für den nachobligatorischen Bildungsbereich sowie die Berufs-, Studien- und Laufbahnberatung im Kanton.
 
-<sup>2</sup> Sie vertritt die Berufsbildung, Mittelschulen sowie Hochschulen in der Öffentlichkeit und gegenüber den Behörden, setzt die Entscheide der vorgesetzten Behörde um und koordiniert die schulübergreifenden Geschäfte der Berufsbildung, Mittel- und Hochschulen des Kantons.
+<sup>2</sup> Sie ist insbesondere zuständig für die Planung, die Entwicklung, das Gewährleisten, die Aufsicht, die Qualitätssicherung und die Wirtschaftlichkeit des Leistungsangebots im nachobligatorischen Bildungsbereich sowie in der Berufs-, Studien- und Laufbahnberatung im Kanton.
 
-<sup>3</sup> Sie ist zuständig für die Koordination, Planung und Weiterentwicklung der Berufsbildung, Mittelschulen und Hochschulen inklusive der Allgemeinen Weiterbildung in pädagogischen, organisatorischen, personellen, qualitativen, administrativen und finanziellen Belangen.
+<sup>3</sup> Sie vertritt die Berufsbildung, Berufs- und Mittelschulen, Hochschulen sowie Berufs-, Studien- und Laufbahnberatung in der Öffentlichkeit und gegenüber den Behörden.
+
+<sup>4</sup> Sie übt die Aufsicht über die Gymnasien, die Berufsfachschulen und die höhere Berufsbildung aus. Zudem ist sie für allfällige Anerkennungen zuständig.
 
 ### 2.6.1 Hauptabteilung Berufsbildung
 
@@ -497,18 +501,18 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Die Hauptabteilung Berufsbildung verantwortet die von Bund und Kanton der Direktion übertragenen Aufgaben in den Bereichen Berufsbildung, Berufs-, Studien- und Laufbahnberatung, Berufsintegration und Ausrichtung von Ausbildungsbeiträgen.
+<sup>1</sup> Die Hauptabteilung Berufsbildung ist zuständig für die kantonalen Aufgaben innerhalb der Verbundpartnerschaft (Bund, Kantone und Organisationen der Arbeitswelt) in den Bereichen Berufsbildung und Berufsintegration. Zudem ist sie für die Ausrichtung von Ausbildungsbeiträgen verantwortlich.
 
 <sup>2</sup> Ihre Aufgaben ergeben sich insbesondere:
 
-- a. betreffend die berufliche Grundbildung und die höhere Berufsbildung aus dem Bundesgesetz über die Berufsbildung (Berufsbildungsgesetz, BBG) vom 13. Dezember 2002[^32-1] mit sämtlichen Ausführungserlassen und Rahmenlehrplänen, dem Bundesgesetz über die Weiterbildung (WeBiG) vom 20. Juni 2014[^32-2], dem Bildungsgesetz vom 6. Juni 2002[^32-3], der Verordnung für die Berufsbildung vom 17. März 2009[^32-4] und weiteren, die berufliche Grundbildung betreffenden, kantonalen Erlassen sowie interkantonalen Vereinbarungen;
-- b. betreffend die Brückenangebote und die Berufsintegration aus dem Bildungsgesetz vom 6. Juni 2002[^32-5] und der Verordnung für die Berufsbildung vom 17. März 2009[^32-6];
-- c. betreffend die Ausbildungsbeiträge aus dem Gesetz über Ausbildungsbeiträge vom 5. Dezember 1994[^32-7], der Verordnung zum Gesetz über Ausbildungsbeiträge vom 23. Mai 1995[^32-8] sowie interkantonalen Vereinbarungen;
-- d. betreffend die Berufs-, Studien- und Laufbahnberatung aus dem Bundesgesetz über die Berufsbildung (Berufsbildungsgesetz, BBG) vom 13. Dezember 2002[^32-9] mit sämtlichen Ausführungserlassen, dem Bildungsgesetz vom 6. Juni 2002[^32-10], der Verordnung für die Berufsbildung vom 17. März 2009[^32-11] und weiteren kantonalen Erlassen.
+- a. für die berufliche Grundbildung und die höhere Berufsbildung aus dem Bundesgesetz über die Berufsbildung (Berufsbildungsgesetz, BBG) vom 13. Dezember 2002[^32-1] mit sämtlichen Ausführungserlassen und Rahmenlehrplänen, dem Bundesgesetz über die Weiterbildung (WeBiG) vom 20. Juni 2014[^32-2], dem Bildungsgesetz vom 6. Juni 2002[^32-3], der Verordnung für die Berufsbildung vom 17. März 2009[^32-4] und weiteren, die berufliche Grundbildung betreffenden, kantonalen Erlassen sowie interkantonalen Vereinbarungen.
+- b. für die Brückenangebote und die Berufsintegration aus dem Bildungsgesetz vom 6. Juni 2002[^32-5] und der Verordnung für die Berufsbildung vom 17. März 2009[^32-6];
+- c. für die Ausbildungsbeiträge aus dem Gesetz über Ausbildungsbeiträge vom 5. Dezember 1994[^32-7], der Verordnung zum Gesetz über Ausbildungsbeiträge vom 23. Mai 1995[^32-8] sowie interkantonalen Vereinbarungen.
+- d. …
 
-<sup>3</sup> Der Hauptabteilung Berufsbildung sind die kantonalen Berufsfachschulen unterstellt.
+<sup>3</sup> …
 
-<sup>4</sup> Bei den Berufsfachschulen in privatrechtlicher Trägerschaft übt sie die Aufsicht aus.
+<sup>4</sup> …
 
 [^32-1]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
 [^32-2]: [SR 419.1](https://db.clex.ch/link/Bund/419.1/de)
@@ -518,25 +522,28 @@ beschliesst:
 [^32-6]: [SGS 681.11](https://bl.clex.ch/data/681.11/de)
 [^32-7]: [SGS 365](https://bl.clex.ch/data/365/de)
 [^32-8]: [SGS 365.11](https://bl.clex.ch/data/365.11/de)
-[^32-9]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
-[^32-10]: [SGS 640](https://bl.clex.ch/data/640/de)
-[^32-11]: [SGS 681.11](https://bl.clex.ch/data/681.11/de)
 
-### 2.6.2 Hauptabteilung Mittelschulen
+### 2.6.2 Hauptabteilung Berufs- und Mittelschulen
 
 #### § 33
 
 **Aufgaben**
 
-<sup>1</sup> Die Hauptabteilung Mittelschulen ist zuständig für die Planung der Bildungspolitik im Bereich der Gymnasien (Maturitätsschulen und Fachmittelschulen) im kantonalen, eidgenössischen, und internationalen Kontext sowie für die Koordination, Planung und Weiterentwicklung der Gymnasien in pädagogischen, organisatorischen, personellen, administrativen und finanziellen Belangen.
+<sup>1</sup> Die Hauptabteilung Berufs- und Mittelschulen ist grundsätzlich zuständig für die kantonalen Aufgaben im Bereich der Gymnasien (Maturitätsschulen und Fachmittelschulen) sowie der Berufsfachschulen.
 
-<sup>2</sup> Ihr sind die kantonalen Gymnasien unterstellt.
+<sup>2</sup> Ihr sind die kantonalen Gymnasien sowie die kantonalen Berufsfachschulen unterstellt.
 
-<sup>3</sup> Ihre Aufgaben ergeben sich insbesondere aus der Verordnung über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV) vom 15. Februar 1995[^33-1], dem Bildungsgesetz vom 6. Juni 2002[^33-2], der Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule) vom 13. Mai 2003[^33-3] und weiteren, die Mittelschulen betreffenden, kantonalen Erlassen, interkantonalen Vereinbarungen und Reglementen.
+<sup>3</sup> Ihre Aufgaben ergeben sich insbesondere:
+
+- a. für die Gymnasien aus der Verordnung über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV) vom 15. Februar 1995[^33-1], dem Bildungsgesetz vom 6. Juni 2002[^33-2], der Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule) vom 13. Mai 2003[^33-3] und weiteren, die Mittelschulen betreffenden, kantonalen Erlassen, interkantonalen Vereinbarungen und Reglementen;
+- b. für die berufliche Grundbildung und die höhere Berufsbildung aus dem Bundesgesetz über die Berufsbildung (Berufsbildungsgesetz, BBG) vom 13. Dezember 2002[^33-4] mit sämtlichen Ausführungserlassen und Rahmenlehrplänen, dem Bildungsgesetz vom 6. Juni 2002[^33-5], der Verordnung für die Berufsbildung vom 17. März 2009[^33-6] und weiteren, die berufliche Grundbildung betreffenden, kantonalen Erlassen sowie interkantonalen Vereinbarungen.
 
 [^33-1]: [SR 413.11](https://db.clex.ch/link/Bund/413.11/de)
 [^33-2]: [SGS 640](https://bl.clex.ch/data/640/de)
 [^33-3]: [SGS 643.11](https://bl.clex.ch/data/643.11/de)
+[^33-4]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
+[^33-5]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^33-6]: [SGS 681.11](https://bl.clex.ch/data/681.11/de)
 
 ### 2.6.3 Hauptabteilung Hochschulen
 
@@ -546,24 +553,51 @@ beschliesst:
 
 <sup>1</sup> Die Hauptabteilung Hochschulen ist zuständig für die Trägerschaftsverantwortung für die Universität Basel, für die Fachhochschule Nordwestschweiz und für das Swiss Tropical and Public Health Institute sowie für die finanzielle Unterstützung der Stiftung Volkshochschule.
 
-<sup>2</sup> Die Hauptabteilung Hochschulen ist im Weiteren zuständig für die Allgemeine Weiterbildung.
+<sup>2</sup> …
 
 <sup>3</sup> Ihre Aufgaben ergeben sich insbesondere aus:
 
-- a. dem Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (Hochschulförderungs- und -koordinationsgesetz, HFKG) vom 30. September 2011[^34-1] mit sämtlichen Ausführungserlassen, dem Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel vom 27. Juni 2006[^34-2], dem Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) vom 9. November 2004[^34-3], dem Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft des Schweizerischen Tropen- und Public Health-Instituts vom 5. April 2016[^34-4] sowie weiteren interkantonalen Vereinbarungen den Hochschulbereich betreffend;
-- b. dem Bundesgesetz über die Weiterbildung (WeBiG) vom 20. Juni 2014[^34-5] und dem Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG) vom 16. Dezember 2005[^34-6] mit ihren sämtlichen Ausführungserlassen, dem Bildungsgesetz vom 6. Juni 2002[^34-7], der Verordnung über die Allgemeine Weiterbildung Basel-Landschaft (AWeBiV BL) vom 28. November 2017[^34-8], dem Gesetz über die Einführung der Integrationsbestimmungen des Bundesgesetzes über die Ausländerinnen und Ausländer (Integrationsgesetz) vom 19. April 2007[^34-9], der Verordnung zum Integrationsgesetz (Integrationsverordnung) vom 18. Dezember 2007[^34-10] und dem Stiftungsstatut der Stiftung Volkshochschule und Senioren-Universität beider Basel (VHS BB) vom 28. August 2002[^34-11] die Allgemeine Weiterbildung betreffend.
+- a. dem Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (Hochschulförderungs- und -koordinationsgesetz, HFKG) vom 30. September 2011[^34-1] mit sämtlichen Ausführungserlassen, dem Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel vom 27. Juni 2006[^34-2], dem Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) vom 9. November 2004[^34-3], dem Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft des Schweizerischen Tropen- und Public Health-Instituts vom 5. April 2016[^34-4], dem Stiftungsstatut der Stiftung Volkshochschule und Senioren-Universität beider Basel (VHS BB) vom 28. August 2002[^34-5] sowie weiteren interkantonalen Vereinbarungen den Hochschulbereich betreffend.
+- b. …
 
 [^34-1]: [SR 414.20](https://db.clex.ch/link/Bund/414.20/de)
 [^34-2]: [SGS 664.1](https://bl.clex.ch/data/664.1/de)
 [^34-3]: [SGS 649.22](https://bl.clex.ch/data/649.22/de)
 [^34-4]: [SGS 665.1](https://bl.clex.ch/data/665.1/de)
-[^34-5]: [SR 419.1](https://db.clex.ch/link/Bund/419.1/de)
-[^34-6]: [SR 142.20](https://db.clex.ch/link/Bund/142.20/de)
-[^34-7]: [SGS 640](https://bl.clex.ch/data/640/de)
-[^34-8]: [SGS 691.11](https://bl.clex.ch/data/691.11/de)
-[^34-9]: [SGS 114](https://bl.clex.ch/data/114/de)
-[^34-10]: [SGS 114.11](https://bl.clex.ch/data/114.11/de)
-[^34-11]: [SGS 664.155](https://bl.clex.ch/data/664.155/de)
+[^34-5]: [SGS 664.155](https://bl.clex.ch/data/664.155/de)
+
+### 2.6.4 Hauptabteilung Laufbahnzentrum
+
+#### § 34a
+
+**Aufgaben**
+
+<sup>1</sup> Die Hauptabteilung Laufbahnzentrum ist zuständig für die kantonalen Aufgaben im Bereich der Berufs-, Studien- und Laufbahnberatung sowie der Allgemeinen Weiterbildung.
+
+<sup>2</sup> Die Aufgaben ergeben sich insbesondere:
+
+- a. für die Berufs-, Studien- und Laufbahnberatung aus dem Bundesgesetz über die Berufsbildung (Berufsbildungsgesetz, BBG) vom 13. Dezember 2002[^34a-1] mit sämtlichen Ausführungserlassen, dem Bildungsgesetz vom 6. Juni 2002[^34a-2]), der Verordnung für die Berufsbildung vom 17. März 2009[^34a-3] und weiteren kantonalen Erlassen;
+- b. für die Allgemeine Weiterbildung aus dem Bundesgesetz über die Weiterbildung (WeBiG) vom 20. Juni 2014[^34a-4] und dem Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG) vom 16. Dezember 2005[^34a-5] mit ihren sämtlichen Ausführungserlassen, dem Bildungsgesetz vom 6. Juni 2002[^34a-6], der Verordnung über die Allgemeine Weiterbildung Basel-Landschaft (AWeBiV BL) vom 28. November 2017[^34a-7], dem Gesetz über die Einführung der Integrationsbestimmungen des Bundesgesetzes über die Ausländerinnen und Ausländer (Integrationsgesetz) vom 19. April 2007[^34a-8] und der Verordnung zum Integrationsgesetz (Integrationsverordnung) vom 18. Dezember 2007[^34a-9].
+
+[^34a-1]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
+[^34a-2]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^34a-3]: [SGS 681.11](https://bl.clex.ch/data/681.11/de)
+[^34a-4]: [SR 419.1](https://db.clex.ch/link/Bund/419.1/de)
+[^34a-5]: [SR 142.20](https://db.clex.ch/link/Bund/142.20/de)
+[^34a-6]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^34a-7]: [SGS 691.11](https://bl.clex.ch/data/691.11/de)
+[^34a-8]: [SGS 114](https://bl.clex.ch/data/114/de)
+[^34a-9]: [SGS 114.11](https://bl.clex.ch/data/114.11/de)
+
+### 2.6.5 Stabsstelle BMH
+
+#### § 34b
+
+**Aufgaben**
+
+<sup>1</sup> Die Stabsstelle BMH ist in Zusammenarbeit mit den Hauptabteilungen zuständig für die Bereiche Finanzen, Monitoring, politische Geschäfte, Organisations- und Strategieentwicklung, Projektmanagement und Kommunikation innerhalb der BMH.
+
+<sup>2</sup> Ihre Aufgaben ergeben sich aus den für die Hauptabteilungen massgebenden Rechtsgrundlagen gemäss § 32 Abs. 2, § 33 Abs. 3, § 34 Abs. 3 sowie § 34a Abs. 2.
 
 ### 2.7 Dienststelle Sportamt
 
