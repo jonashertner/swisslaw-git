@@ -4,13 +4,12 @@ number: "122.70.11"
 title: Reglement über das Staatspersonal
 short: StPR
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-17
+version: 2026-01-01
+version_adopted: 2025-09-01
 adopted: 2002-12-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8223/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Staatspersonal – R
 
 (StPR)
 
-vom 17.12.2002 (Fassung in Kraft getreten am 01.08.2025)
+vom 17.12.2002 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -1826,6 +1825,14 @@ beschliesst:
 <sup>2</sup> Dieser Betrag wird jedes Jahr im Dezember ausbezahlt, und zwar in Abhängigkeit vom durchschnittlichen jährlichen Beschäftigungsgrad.
 
 <sup>3</sup> Solange das Gehalt jedes Jahr nach Artikel 93 dieses Reglements erhöht wird, wird der Betrag der Treueprämie um die Hälfte des Betrags der Erhöhung gekürzt. Die Kürzung wird im Verhältnis zum Beschäftigungsgrad der Mitarbeiterin oder des Mitarbeiters berechnet.
+
+## 10a Massnahmen zur Sanierung der Kantonsfinanzen 2026-2028
+
+#### Art. 155a
+
+**Einfrieren der Entschädigungen**
+
+<sup>1</sup> In den Jahren 2026, 2027 und 2028 bleiben die Beträge der Entschädigungen nach Artikel 132 Abs. 1-3 unverändert. In diesem Zeitraum wird keine Erhöhung gewährt.
 
 ## 11 Schlussbestimmungen
 

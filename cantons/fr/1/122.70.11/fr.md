@@ -4,13 +4,12 @@ number: "122.70.11"
 title: "Règlement du personnel de l'Etat"
 short: RPers
 language: fr
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-17
+version: 2026-01-01
+version_adopted: 2025-09-01
 adopted: 2002-12-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8223/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8425/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Personnel de l'Etat – R
 
 (RPers)
 
-du 17.12.2002 (version entrée en vigueur le 01.08.2025)
+du 17.12.2002 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -1826,6 +1825,14 @@ Arrête:
 <sup>2</sup> Ce montant est versé chaque année au mois de décembre, en fonction du taux moyen d'activité sur l'année.
 
 <sup>3</sup> Tant que le traitement est augmenté chaque année conformément à l'article 93 du présent règlement, le montant de la prime de fidélité est diminué de la moitié de l'augmentation. La diminution est calculée au prorata du taux d'activité du collaborateur ou de la collaboratrice.
+
+## 10a Mesures d'assainissement des finances de l'Etat 2026-2028
+
+#### Art. 155a
+
+**Suspension de l'ajustement des indemnités**
+
+<sup>1</sup> Durant les années 2026, 2027 et 2028, les montants des indemnités prévues à l'article 132 alinéas 1 à 3 restent inchangés. Aucune augmentation n'est accordée durant cette période.
 
 ## 11 Dispositions finales
 
