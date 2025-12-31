@@ -4,13 +4,12 @@ number: "331.11"
 title: Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 short: EG-KVG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-01-24
+version: 2026-01-01
+version_adopted: 2026-04-28
 adopted: 1995-11-09
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3454/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3907/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3454/pdf_file"
 
 (EG-KVG)
 
-vom 09.11.1995 (Stand 01.01.2023)
+vom 09.11.1995 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -126,7 +125,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Der Versicherer gibt mit der Meldung Name, Vorname, Adresse, Geschlecht, Geburtsdatum und AHV-Versichertennummer der betroffenen versicherten Person bekannt.
 
-<sup>3</sup> Er setzt das Betreibungsverfahren bis zur Meldung der Sozialversicherungsanstalt über das Vorliegen eines dem Verlustschein gleichzusetzenden Rechtstitels nicht fort.
+<sup>3</sup> …
 
 #### Art. 8b
 
@@ -134,7 +133,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Sozialversicherungsanstalt leitet die Meldung an die für die betroffene versicherte Person nach dem Sozialhilfegesetz vom 27. September 1998[^8b-1] zuständige politische Gemeinde weiter.
 
-<sup>2</sup> Die zuständige politische Gemeinde teilt der Sozialversicherungsanstalt mit, ob die betroffene versicherte Person finanzielle Sozialhilfe bezieht.
+<sup>2</sup> …
 
 [^8b-1]: sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
 
@@ -191,27 +190,34 @@ als Gesetz:[^ingress-3]
 
 #### Art. 10
 
-**Voraussetzungen a) Personen**
+**Voraussetzungen a) anspruchsberechtigte Personen**
 
-<sup>1</sup> Eine Prämienverbilligung wird in der Schweiz obligatorisch krankenversicherten Personen gewährt, die:
+<sup>1</sup> Eine Prämienverbilligung wird in der Schweiz obligatorisch krankenversicherten Personen gewährt, die ein die Prämienverbilligung auslösendes Einkommen erzielen und im Jahr, für das die Prämienverbilligung beansprucht wird:
 
-- a) im Kanton St.Gallen am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird, ihren zivilrechtlichen Wohnsitz haben;
-- b) ein die Prämienverbilligung auslösendes Einkommen erzielen.
+- a) im Kanton St.Gallen ihren zivilrechtlichen Wohnsitz haben;
+- b) …
+- c) sich im Kanton St.Gallen aufhalten und über eine Aufenthaltsbewilligung verfügen, die wenigstens drei Monate gültig ist;
+- d) in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnen und die Voraussetzungen nach Art. 65a des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^10-1] erfüllen.
 
 <sup>2</sup> Keine Prämienverbilligung wird gewährt:
 
-- 1\. Quellensteuerpflichtigen, ausgenommen ausländischen Arbeitnehmern mit einer fremdenpolizeilichen Bewilligung zum Jahresaufenthalt und Grenzgängern mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die in einem Arbeitsverhältnis im Kanton stehen;
+- 1\. Personen nach Abs. 1 Bst. a dieser Bestimmung, die weder über eine Schweizer Staatsangehörigkeit noch über eine Aufenthaltsbewilligung verfügen;
 - 2\. nicht versicherungspflichtigen Personen, die sich freiwillig der Bundesgesetzgebung unterstellen;
-- 3\. in Ausbildung stehenden Personen bis zum vollendeten 25. Altersjahr, wenn für die Person eine Ausbildungszulage nach dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^10-1] oder nach dem Bundesgesetz über die Familienzulagen in der Landwirtschaft vom 20. Juni 1952[^10-2] bezogen wird. Der Anspruch dieser Personen wird gemeinsam mit dem Anspruch der Eltern berechnet.
+- 3\. in Ausbildung stehenden Personen bis zum vollendeten 25. Altersjahr, wenn für die Person eine Ausbildungszulage nach dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^10-2] oder nach dem Bundesgesetz über die Familienzulagen in der Landwirtschaft vom 20. Juni 1952[^10-3] bezogen wird. Der Anspruch dieser Personen wird gemeinsam mit dem Anspruch der Eltern berechnet;
+- 4\. Personen, bei denen die Zuständigkeit nach Bundesrecht[^10-4] bei einem anderen Kanton liegt.
 
-<sup>3</sup> Für folgende Personen bestimmt die Regierung den Beginn der Anspruchsberechtigung durch Verordnung:
+<sup>2<sup>bis</sup></sup> Für die Anspruchsberechtigung sind vorbehältlich von Abs. 3 dieser Bestimmung die persönlichen und familiären Verhältnisse am 1. Januar des Jahres massgebend, für das die Prämienverbilligung beansprucht wird.
+
+<sup>3</sup> Für folgende Personen bestimmt die Regierung durch Verordnung den Zeitpunkt, an dem die persönlichen und familiären Verhältnisse für eine Anspruchsberechtigung massgebend sind:
 
 - a) Neugeborene;
-- b) Zuzüger aus dem Ausland und Personen mit einer Aufenthaltsberechtigung im Kanton;
-- c) Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die in einem Arbeitsverhältnis im Kanton stehen.
+- b) Personen, die während des Jahres, für das die Prämienverbilligung beansprucht wird, aus dem Ausland in den Kanton St.Gallen ziehen;
+- c) Personen nach Abs. 1 Bst. d dieser Bestimmung.
 
-[^10-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
-[^10-2]: SR [836.1](https://db.clex.ch/link/Bund/836.1/de).
+[^10-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^10-2]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
+[^10-3]: SR [836.1](https://db.clex.ch/link/Bund/836.1/de).
+[^10-4]: Art. 8 der eidgenössischen Verordnung über den Bundesbeitrag zur Prämienverbilligung in der Krankenversicherung vom 7. November 2007, SR [832.112.4](https://db.clex.ch/link/Bund/832.112.4/de).
 
 #### Art. 11
 
@@ -225,18 +231,91 @@ als Gesetz:[^ingress-3]
 
 #### Art. 11bis
 
-**c) Anmeldung**
+**c) Anmeldung und Anspruchsbeginn 1. allgemein**
 
-<sup>1</sup> Der Anspruch auf Prämienverbilligung setzt eine Anmeldung bei der Sozialversicherungsanstalt bis am 31. März des Jahres voraus, für das die Prämienverbilligung beansprucht wird.
+<sup>1</sup> Der Anspruch auf Prämienverbilligung für das ganze Kalenderjahr setzt voraus:
 
-<sup>2</sup> Für folgende Personen bestimmt die Regierung die Frist zur Anmeldung der Prämienverbilligung durch Verordnung:
+- a) eine Anmeldung bei der Sozialversicherungsanstalt bis am 31. März des Jahres, für das die Prämienverbilligung beansprucht wird, oder
+- b) den Beginn der Ausrichtung von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen bis am 31. März des Jahres, für das die Prämienverbilligung beansprucht wird.
 
-- a) Zuzüger aus dem Ausland und Personen mit einer Aufenthaltsberechtigung im Kanton;
-- b) Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die in einem Arbeitsverhältnis im Kanton stehen.
+<sup>2</sup> …
 
-<sup>3</sup> Für Anmeldungen, die nicht fristgemäss eingereicht werden, gilt Art. 41 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000[^11bis-1] sachgemäss.
+<sup>3</sup> Für Anmeldungen nach Abs. 1 Bst. a dieser Bestimmung, die nicht fristgemäss eingereicht werden, entsteht der Anspruch auf Prämienverbilligung ab dem Monat der Anmeldung. Vorbehalten bleibt die sachgemässe Anwendung von Art. 41 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000[^11bis-1].
+
+<sup>4</sup> Bei einem Beginn der Ausrichtung von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen nach dem 31. März des Jahres, für das die Prämienverbilligung beansprucht wird, entsteht der Anspruch auf Prämienverbilligung ab dem Monat der Ausrichtung von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen.
 
 [^11bis-1]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
+
+#### Art. 11ter
+
+**2. Beziehende von finanzieller Sozialhilfe**
+
+<sup>1</sup> Die für den Vollzug der finanziellen Sozialhilfe zuständige Stelle der politischen Gemeinde meldet der Sozialversicherungsanstalt Beginn und Ende der Ausrichtung von finanzieller Sozialhilfe an eine in der Schweiz obligatorisch krankenversicherte Person. Dies umfasst auch Personen, bei denen ein Anspruch auf finanzielle Sozialhilfe ohne Berücksichtigung der Prämienverbilligung gegeben ist, mit der Prämienverbilligung jedoch wegfällt.
+
+<sup>2</sup> Die Meldung beinhaltet folgende zur Identifikation der Person und zur Auszahlung an den Versicherer erforderlichen Daten:
+
+- a) Name und Vorname;
+- b) Adresse;
+- c) Wohnsitz;
+- d) Geschlecht;
+- e) Geburtsdatum;
+- f) AHV-Nummer;
+- g) Versicherer;
+- h) Zivilstand;
+- i) Datum der Wohnsitznahme im Kanton St.Gallen.
+
+<sup>3</sup> Keiner Meldung bedürfen Personen, deren Anspruch auf Prämienverbilligung nach Art. 82a Abs. 7 des eidgenössischen Asylgesetzes vom 26. Juni 1998[^11ter-1] sistiert ist.
+
+<sup>4</sup> Die Meldung ersetzt die Anmeldung auf Prämienverbilligung nach Art. 11<sup>bis</sup> dieses Erlasses.
+
+<sup>5</sup> Die Anspruchsberechtigung für die Folgejahre wird von der zuständigen Stelle der politischen Gemeinde und der Sozialversicherungsanstalt auf Basis der Daten nach Abs. 1 und Abs. 2 dieser Bestimmung abgeglichen.
+
+<sup>6</sup> Diese Bestimmung wird auch auf Einrichtungen angewendet, die nach Art. 80a ff. des eidgenössischen Asylgesetzes vom 26. Juni 1998[^11ter-2] finanzielle Sozialhilfe leisten.
+
+[^11ter-1]: SR [842.31](https://db.clex.ch/link/Bund/842.31/de).
+[^11ter-2]: SR [142.31](https://db.clex.ch/link/Bund/142.31/de).
+
+#### Art. 11quater
+
+**3. Beziehende von Elternschaftsbeiträgen**
+
+<sup>1</sup> Die für den Vollzug der Elternschaftsbeiträge zuständige Stelle der politischen Gemeinde meldet der Sozialversicherungsanstalt Beginn und Ende der Ausrichtung von Elternschaftsbeiträgen an eine in der Schweiz obligatorisch krankenversicherte Person. Dies umfasst auch Personen, bei denen ein Anspruch auf Elternschaftsbeiträge ohne Berücksichtigung der Prämienverbilligung gegeben ist, mit der Prämienverbilligung jedoch wegfällt.
+
+<sup>2</sup> Die Meldung beinhaltet folgende zur Identifikation der Person und zur Auszahlung an Versicherer erforderlichen Daten:
+
+- a) Name und Vorname;
+- b) Adresse;
+- c) Wohnsitz;
+- d) Geschlecht;
+- e) Geburtsdatum;
+- f) AHV-Nummer;
+- g) Versicherer;
+- h) Zivilstand;
+- i) Datum der Wohnsitznahme im Kanton St.Gallen.
+
+<sup>3</sup> Keiner Meldung bedürfen Personen, deren Anspruch auf Prämienverbilligung nach Art. 82a Abs. 7 des eidgenössischen Asylgesetzes vom 26. Juni 1998[^11quater-1] sistiert ist.
+
+<sup>4</sup> Die Meldung ersetzt die Anmeldung auf Prämienverbilligung nach Art. 11<sup>bis</sup> dieses Erlasses.
+
+<sup>5</sup> Die Anspruchsberechtigung für die Folgejahre wird von der zuständigen Stelle der politischen Gemeinde und der Sozialversicherungsanstalt auf Basis der Daten nach Abs. 1 und Abs. 2 dieser Bestimmung abgeglichen.
+
+[^11quater-1]: SR [842.31](https://db.clex.ch/link/Bund/842.31/de).
+
+#### Art. 11quinquies
+
+**4. Elektronischer Austausch der Daten von Beziehenden von finanzieller Sozialhilfe und von Elternschaftsbeiträgen**
+
+<sup>1</sup> Der Datenaustausch nach Art. 11<sup>ter</sup> und Art. 11<sup>quater</sup> dieses Erlasses zwischen der Sozialversicherungsanstalt und der zuständigen Stelle der politischen Gemeinde erfolgt elektronisch.
+
+<sup>2</sup> Die zuständige Stelle der politischen Gemeinde kann folgende Daten elektronisch von der Sozialversicherungsanstalt abrufen, wenn sie diese zur Erfüllung ihrer gesetzlichen Aufgabe benötigt:
+
+- a) Daten nach Art. 11<sup>ter</sup> Abs. 1 und Abs. 2 dieses Erlasses;
+- b) Daten nach Art. 11<sup>quater</sup> Abs. 1 und Abs. 2 dieses Erlasses;
+- c) Höhe und Dauer der von der Sozialversicherungsanstalt ausgerichteten Prämienverbilligung.
+
+<sup>3</sup> Die Sozialversicherungsanstalt liefert der kantonalen Statistikstelle einen elektronischen Gesamtabzug der Sozialversicherungsnummern der Beziehenden von finanzieller Sozialhilfe und von Elternschaftsbeiträgen, die eine Prämienverbilligung beziehen, zur Durchführung von Simulationen zur Bestimmung der Höhe der Prämienverbilligung durch die Regierung.
+
+<sup>4</sup> Die Sozialversicherungsanstalt legt die technischen und organisatorischen Vorgaben für den elektronischen Datenaustausch fest. Sie hört vorgängig die politischen Gemeinden an.
 
 #### Art. 12
 
@@ -248,6 +327,10 @@ als Gesetz:[^ingress-3]
 
 - a) der jährlichen Ergänzungsleistung[^12-1];
 - b) einem jährlichen Pauschalbetrag in der Höhe der kantonalen beziehungsweise regionalen Durchschnittsprämie für die obligatorische Krankenpflegeversicherung (einschliesslich Unfalldeckung), höchstens jedoch der tatsächlichen Prämie[^12-2].
+
+<sup>3</sup> Für Beziehende von finanzieller Sozialhilfe entspricht die Verbilligung der von der Regierung jährlich festgelegten ordentlichen Referenzprämie nach Abs. 1 dieser Bestimmung. Ein unterjähriger Wechsel der Prämienregion wird berücksichtigt.
+
+<sup>4</sup> Für Beziehende von Elternschaftsbeiträgen entspricht die Verbilligung der von der Regierung festgelegten ordentlichen Referenzprämie nach Abs. 1 dieser Bestimmung. Ein unterjähriger Wechsel der Prämienregion wird berücksichtigt.
 
 [^12-1]: Art. [9](https://db.clex.ch/link/Bund/831.30/de) Abs. 1 des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
 [^12-2]: Art. [10](https://db.clex.ch/link/Bund/831.30/de) Abs. 3 des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
@@ -269,23 +352,19 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Für die Prämienverbilligung werden eingesetzt:
 
 - a) die Beiträge des Bundes;
-- b) ein vom Kantonsrat mit dem Budget festgelegter Kantonsbeitrag.
+- b) ein Kantonsbeitrag in der Höhe des Mindestanteils nach [Art. 65](https://db.clex.ch/link/Bund/832.10%20/de) Abs. 1<sup>quinquies</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^14-1].
 
-<sup>2</sup> Der Kantonsbeitrag beträgt wenigstens 45,4 und höchstens 54,6 Prozent der Beiträge des Bundes.
+<sup>2</sup> …
 
-<sup>3</sup> Unterschreitungen des unteren Grenzwerts werden in den Folgejahren im Ausmass von je einem Fünftel zum oberen und unteren Grenzwert hinzugezählt. Überschreitungen des oberen Grenzwerts werden in den Folgejahren im Ausmass von je einem Fünftel vom oberen und unteren Grenzwert abgezogen.
+<sup>3</sup> Erreicht der Kantonsbeitrag in einem Kalenderjahr den Mindestanteil nicht, wird der Fehlbetrag in den Folgejahren ausgeglichen.
 
-<sup>4</sup> Über- und Unterschreitungen werden unter Einbezug der Anpassungen nach Abs. 3 dieser Bestimmung jährlich ermittelt.
+<sup>4</sup> …
+
+[^14-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 #### Art. 14a
 
-**Kostenübernahme bei finanzieller Sozialhilfe**
-
-<sup>1</sup> Die politische Gemeinde übernimmt fällige Prämien und Kostenbeteiligungen sowie Betreibungskosten und Verzugszinsen der versicherungspflichtigen Person, die finanzielle Sozialhilfe bezieht.
-
-<sup>2</sup> Der Kanton vergütet der politischen Gemeinde die ihr entstandenen Kosten aus der Übernahme von Prämien und Verzugszinsen.
-
-<sup>3</sup> Die Regierung kann die Zuständigkeit für die Auszahlung der Prämien an die Sozialversicherungsanstalt übertragen.
+**…**
 
 #### Art. 14bis
 
@@ -375,6 +454,22 @@ als Gesetz:[^ingress-3]
 
 [^21a-1]: nGS 2019-092.
 [^21a-2]: nGS 2019-092.
+
+#### Art. 21b
+
+**Übergangsbestimmung des XIV. Nachtrags vom 28. April 2026[^21b-1]**
+
+<sup>1</sup> Der Kantonsbeitrag für die ersten beiden Jahre nach Inkrafttreten der Änderung vom 29. September 2023 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^21b-2] wird nach [Art. 14](https://www.gesetzessammlung.sg.ch/data/331.11/de/art14) Abs. 1 Bst. b, Abs. 2, Abs. 3 und Abs. 4 des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^21b-3] in der Fassung vor Vollzugsbeginn dieses Nachtrags festgelegt. Er entspricht wenigstens 3,5 Prozent der Bruttokosten der obligatorischen Krankenpflegeversicherung.
+
+<sup>2</sup> Auf den Ausgleich eines Restsaldos für Über- und Unterschreitungen der Grenzwerte, die vor Vollzugsbeginn dieses Nachtrags und in den beiden Folgejahren nach Massgabe des bisherigen Rechts eingetreten sind, wird ab dem dritten Jahr nach Inkrafttreten der Änderung vom 29. September 2023 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^21b-4] unter Vorbehalt von Abs. 3 dieser Bestimmung verzichtet.
+
+<sup>3</sup> Erreicht der Kantonsbeitrag im ersten oder zweiten Jahr nach Inkrafttreten der Änderung vom 29. September 2023 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^21b-5] den Mindestanteil von 3,5 Prozent der Bruttokosten der obligatorischen Krankenpflegeversicherung nicht, wird der Fehlbetrag in den Folgejahren ausgeglichen.
+
+[^21b-1]: nGS 2026-018.
+[^21b-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^21b-3]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
+[^21b-4]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^21b-5]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 #### Art. 22
 
