@@ -3,13 +3,12 @@ canton: FR
 number: "721.0.16"
 title: Verordnung über die Gebühren des Amts für Wald und Natur
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2022-01-31
 in_force: 2022-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/721.0.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/8116/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8352/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8116/pdf_file"
 
 Amt für Wald und Natur, Gebühren – V
 
-vom 31.01.2022 (Fassung in Kraft getreten am 01.01.2025)
+vom 31.01.2022 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -52,7 +51,7 @@ beschliesst:
 - j) die Interventionen aufgrund einer Gewässerverschmutzung;
 - k) die übrigen Dienstleistungen, die hauptsächlich im Interesse von Privatpersonen erbracht werden.
 
-<sup>2</sup> Für Leistungen infolge eines Auskunftsbegehrens wird keine Gebühr erhoben. Bei Dossiers mit einem Vorgesuch oder einer Vorprüfung wird die Grundgebühr lediglich einmal, bei der Schlussprüfung, erhoben. Personalkosten und andere Kosten werden zusammengerechnet.
+<sup>2</sup> Für Leistungen infolge eines Auskunftsbegehrens wird keine Gebühr erhoben.
 
 #### Art. 2
 
@@ -79,6 +78,7 @@ beschliesst:
 <sup>1</sup> Die Grundgebühr für Gutachten wird wie folgt festgelegt:
 
 - a) in einem Baubewilligungsverfahren, Abbruchbewilligungsverfahren, Standortbewilligungsverfahren, Meliorationsverfahren, Abbaubewilligungsverfahren, Planungsverfahren oder für eine Ausnahmebewilligung bei Abständen — Fr. 150
+- a1) für Gutachten im Rahmen einer Vorprüfung — Fr. 100
 - b) für eine Veranstaltung — Fr. 80
 
 #### Art. 5

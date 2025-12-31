@@ -3,13 +3,12 @@ canton: FR
 number: "721.0.16"
 title: Ordonnance fixant les émoluments du Service des forêts et de la nature
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2022-01-31
 in_force: 2022-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/721.0.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8116/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8352/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8116/pdf_file"
 
 Service des forêts et de la nature, émoluments – O
 
-du 31.01.2022 (version entrée en vigueur le 01.01.2025)
+du 31.01.2022 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -52,7 +51,7 @@ Arrête:
 - j) les interventions à la suite d'une pollution des eaux;
 - k) les autres prestations fournies principalement dans l'intérêt des particuliers.
 
-<sup>2</sup> Les prestations effectuées lors d'une demande de renseignements sont exemptées de tout émolument. Pour les dossiers faisant l'objet d'une demande ou d'un examen préalable, l'émolument de base est facturé une seule fois, lors de l'examen final, les frais de personnel et autres frais étant additionnés.
+<sup>2</sup> Les prestations effectuées lors d'une demande de renseignements sont exemptées de tout émolument.
 
 #### Art. 2
 
@@ -79,6 +78,7 @@ Arrête:
 <sup>1</sup> L'émolument de base pour les préavis est fixé comme suit:
 
 - a) dans une procédure de permis de construire, de démolir, d'implanter, d'amélioration foncière, d'autorisation d'exploiter, de planification ou pour une dérogation à la distance — Fr. 150
+- a1) pour les examens effectués dans le cadre d'une demande préalable — Fr. 100
 - b) pour une manifestation — Fr. 80
 
 #### Art. 5
