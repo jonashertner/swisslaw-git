@@ -4,13 +4,12 @@ number: "515"
 title: Gesetz über die Lehrerinnen- und Lehrerbildung und die Pädagogische Hochschule Luzern
 short: PH-Gesetz
 language: de
-version: 2014-11-30
-valid_until: 2025-12-31
-version_adopted: 2014-03-31
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2012-12-10
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/515"
-pdf: "https://srl.lu.ch/api/de/versions/2859/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4666/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2859/pdf_file"
 
 (PH-Gesetz)
 
-vom 10.12.2012 (Stand 30.11.2014)
+vom 10.12.2012 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -218,7 +217,7 @@ Grafik gemäss Anhang 1
 - i. regelt die Anforderungen für die Erteilung von Professorentiteln, soweit er diese Zuständigkeit nicht auf ein anderes Organ übertragen hat,
 - j. erlässt Studienreglemente, soweit er diese Zuständigkeit nicht auf ein anderes Organ übertragen hat,
 - k. schliesst im Rahmen seiner Entscheidungs- und Finanzkompetenzen Vereinbarungen mit Dritten ab,
-- l. wählt den Rektor oder die Rektorin und genehmigt auf Antrag des Rektors oder der Rektorin die Wahl der Mitglieder der Hochschulleitung.
+- l. stellt den Rektor oder die Rektorin an und genehmigt auf Antrag des Rektors oder der Rektorin die Anstellung der Mitglieder der Hochschulleitung.
 
 <sup>2</sup> Das Statut und die Reglemente der pädagogischen Hochschule sind in der Gesetzessammlung des Kantons Luzern zu veröffentlichen.
 
