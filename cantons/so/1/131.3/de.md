@@ -3,20 +3,19 @@ canton: SO
 number: "131.3"
 title: Verzeichnis der solothurnischen Gemeinden
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2025-12-17
 adopted: 1997-10-28
 in_force: 1997-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.3"
-pdf: "https://bgs.so.ch/api/de/versions/5627/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5628/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verzeichnis der solothurnischen Gemeinden
 
-Vom 28.10.1997 (Stand 01.08.2025)
+Vom 28.10.1997 (Stand 01.01.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -70,7 +69,7 @@ beschliesst:
   - 2\. …
   - 3\. …
   - 4\. Kriegstetten
-  - 5\. Oekingen
+  - 5\. …
   - 6\. Hüniken
 - h) Bezirk Gäu
   - 1\. Oberbuchsiten
@@ -131,7 +130,7 @@ beschliesst:
   - 5\. Derendingen
   - 6\. Etziken
   - 7\. Gerlafingen
-  - 8\. Halten
+  - 8\. …
   - 9\. …
   - 10\. …
   - 11\. Horriwil
@@ -370,12 +369,12 @@ beschliesst:
   - 1\. Solothurn (Solothurn: exkl. Ortsteil Steingrubenquartier)
   - 2\. Bellach (Bellach)
   - 3\. Bettlach (Bettlach)
-  - 4\. Flumenthal-Hubersdorf (Flumenthal, Hubersdorf, Kammersrohr: exkl. Ortsteile vorderer und hinterer Mattenhof)
+  - 4\. Flumenthal-Hubersdorf (Flumenthal, Hubersdorf, Kammersrohr: exkl. Ortsteile vorderer und hinterer Mattenhof, Riedholz: Ortsteil Kellenmatt)
   - 5\. Grenchen (Grenchen)
   - 6\. Günsberg-Niederwil-Balm (Balm bei Günsberg, Günsberg, Kammersrohr: Ortsteile vorderer und hinterer Mattenhof, Riedholz: Ortsteil Niederwil)
   - 7\. Oberdorf (Langendorf, Lommiswil, Oberdorf)
   - 8\. Selzach (Selzach)
-  - 9\. St. Niklaus (Feldbrunnen-St. Niklaus, Riedholz: exkl. Ortsteil Niederwil, Rüttenen, Solothurn: Ortsteil Steingrubenquartier)
+  - 9\. St. Niklaus (Feldbrunnen-St. Niklaus, Riedholz: exkl. Ortsteile Kellenmatt und Niederwil, Rüttenen, Solothurn: Ortsteil Steingrubenquartier)
 - b) Bezirke Wasseramt und Bucheggberg
   - 1\. Aeschi (Aeschi, Bolken, Drei Höfe: Ortsteil Winistorf, Etziken, Hüniken)
   - 2\. …
@@ -384,7 +383,7 @@ beschliesst:
   - 5\. …
   - 6\. Luterbach (Luterbach)
   - 7\. Subingen (Subingen)
-  - 7\.<sup>bis</sup> Wasseramt West - Bucheggberg (Biberist, Biezwil, Buchegg, Drei Höfe: Ortsteile Heinrichswil und Hersiwil, Gerlafingen, Halten, Horriwil, Kriegstetten, Lohn-Ammannsegg, Lüsslingen-Nennigkofen, Lüterkofen-Ichertswil, Messen, Obergerlafingen, Oekingen, Recherswil, Schnottwil, Unterramsern)
+  - 7\.<sup>bis</sup> Wasseramt West - Bucheggberg (Biberist, Biezwil, Buchegg, Drei Höfe: Ortsteile Heinrichswil und Hersiwil, Gerlafingen, Horriwil, Kriegstetten, Lohn-Ammannsegg, Lüsslingen-Nennigkofen, Lüterkofen-Ichertswil, Messen, Obergerlafingen, Recherswil, Schnottwil, Unterramsern)
   - 8\. Zuchwil (Zuchwil)
 - c) Bezirk Thal
   - 1\. Aedermannsdorf (Aedermannsdorf)
@@ -458,7 +457,7 @@ beschliesst:
 <sup>1</sup> Im Kanton Solothurn bestehen folgende christkatholische Kirchgemeinden:
 
 - a) Bezirke Solothurn, Lebern, Bucheggberg und Wasseramt
-  - 1\. Solothurn (Aeschi, Balm bei Günsberg, Bellach, Biberist, Biezwil, Bolken, Buchegg, Deitingen, Derendingen, Drei Höfe, Etziken, Feldbrunnen-St. Niklaus, Flumenthal, Gerlafingen, Günsberg, Halten, Horriwil, Hubersdorf, Hüniken, Kammersrohr, Kriegstetten, Langendorf, Lohn-Ammannsegg, Lommiswil, Luterbach, Lüterkofen-Ichertswil, Lüsslingen-Nennigkofen, Messen, Oberdorf, Obergerlafingen, Oekingen, Recherswil, Riedholz, Rüttenen, Schnottwil, Solothurn, Subingen, Unterramsern, Zuchwil)
+  - 1\. Solothurn (Aeschi, Balm bei Günsberg, Bellach, Biberist, Biezwil, Bolken, Buchegg, Deitingen, Derendingen, Drei Höfe, Etziken, Feldbrunnen-St. Niklaus, Flumenthal, Gerlafingen, Günsberg, Horriwil, Hubersdorf, Hüniken, Kammersrohr, Kriegstetten, Langendorf, Lohn-Ammannsegg, Lommiswil, Luterbach, Lüterkofen-Ichertswil, Lüsslingen-Nennigkofen, Messen, Oberdorf, Obergerlafingen, Recherswil, Riedholz, Rüttenen, Schnottwil, Solothurn, Subingen, Unterramsern, Zuchwil)
   - 2\. Grenchen/Bettlach/Selzach (Bettlach, Grenchen, Selzach)
 - b) Bezirke Thal, Gäu, Olten und Gösgen
   - 1\. Region Olten (Aedermannsdorf, Balsthal, Boningen, Dulliken, Egerkingen, Fulenbach, Gunzgen, Hauenstein-Ifenthal, Hägendorf, Härkingen, Herbetswil, Holderbank, Kappel, Kestenholz, Laupersdorf, Matzendorf, Mümliswil-Ramiswil, Neuendorf, Niederbuchsiten, Oberbuchsiten, Oensingen, Olten, Rickenbach, Starrkirch-Wil, Trimbach, Wangen bei Olten, Welschenrohr-Gänsbrunnen, Winznau, Wisen, Wolfwil)
@@ -483,7 +482,7 @@ beschliesst:
   - 4\. Oberwil (Bernische Gemeinde Oberwil bei Büren; solothurnische Gemeinden Biezwil, Buchegg: Ortsteile Bibern, Gossliwil und Lüterswil, Schnottwil)
 - c) Bezirk Wasseramt
   - 1\. Biberist-Gerlafingen (Biberist, Gerlafingen, Lohn-Ammannsegg, Obergerlafingen)
-  - 2\. Wasseramt (Aeschi, Bolken, Deitingen, Derendingen, Drei Höfe, Etziken, Halten, Horriwil, Hüniken, Kriegstetten, Luterbach, Oekingen, Recherswil, Subingen, Zuchwil)
+  - 2\. Wasseramt (Aeschi, Bolken, Deitingen, Derendingen, Drei Höfe, Etziken, Horriwil, Hüniken, Kriegstetten, Luterbach, Recherswil, Subingen, Zuchwil)
 - d) Bezirk Thal
   - 1\. Thal (Aedermannsdorf, Balsthal, Herbetswil, Holderbank, Laupersdorf, Matzendorf, Mümliswil-Ramiswil, Welschenrohr-Gänsbrunnen)
   - 2\. …
