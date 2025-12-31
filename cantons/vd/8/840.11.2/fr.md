@@ -4,7 +4,7 @@ number: "840.11.2"
 title: "RÈGLEMENT du 24.07.1991 sur les conditions d'occupation des logements construits ou rénovés avec l'appui financier des pouvoirs publics (RCOL)"
 short: RCOL
 language: fr
-version: 2025-03-19
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11.2?id=42078ea5-c141-4105-bd28-8609025cd779"
 ---
 
@@ -267,7 +267,7 @@ Appartement de: 1 pièce 1 ou 2 personnes 2 pièces 1 à 3 personnes 3 pièces 2
 
 <sup>2</sup> Si, dans l'intervalle, le locataire remplit à nouveau les conditions, et ce de manière durable, il en informe l'autorité compétente en produisant les attestations nécessaires. La prestation des pouvoirs publics pourra être maintenue.
 
-<sup>3</sup> Le non-respect des conditions d'occupation n'implique pas la résiliation du bail du locataire.
+<sup>3</sup> ...
 
 [^20-1]: Modif. 1 du 17.01.2007: Modification Al. 1; entrée en vigueur au 01.03.2007; Introduction Al. 1bis; entrée en vigueur au 01.03.2007 · Modif. 2 du 12.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 4 du 03.12.2025: Abrogation Al. 3; entrée en vigueur au 01.01.2026
 [^20-2]: Loi du 09.09.1975 sur le logement ([BLV 840.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/840.11?id=1b9db09a-aa55-43a2-beba-dd12b7271035))
@@ -413,4 +413,4 @@ Annexes
 
 1
 
-[pdf-840.11.2.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/42078ea5-c141-4105-bd28-8609025cd779/annexes/1?dmev=19.03.2025)
+[pdf-840.11.2.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/42078ea5-c141-4105-bd28-8609025cd779/annexes/1?dmev=01.01.2026)
