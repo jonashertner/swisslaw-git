@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 juin 1979 sur l'aménagement du territoire (Loi sur
 short: LAT
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: fr
-version: 2019-01-01
+version: 2026-01-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20190101-fr-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20190101/fr"
 
 (Loi sur l’aménagement du territoire, LAT)[^t-1]
 
-du 22 juin 1979 (État le 1<sup>er</sup> janvier 2019)
+du 22 juin 1979 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 1059](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
@@ -103,9 +103,12 @@ Il importe de déterminer selon des critères rationnels l’implantation des co
 - b. de faciliter l’accès de la population aux établissements tels qu’écoles, centres de loisirs et services publics;
 - c. d’éviter ou de maintenir dans leur ensemble à un minimum les effets défavorables qu’exercent de telles implantations sur le milieu naturel, la population et l’économie.
 
+<sup>5</sup> Les utilisations du sous-sol, notamment des eaux souterraines, des matières premières, des énergies et des espaces constructibles, doivent être coordonnées entre elles à un stade précoce et avec les utilisations de surface, compte tenu des intérêts en présence.[^3-4]
+
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^3-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^3-3]: Introduite par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^3-4]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 4
 
@@ -121,32 +124,33 @@ Il importe de déterminer selon des critères rationnels l’implantation des co
 
 **Compensation et indemnisation**
 
-<sup>1</sup> Le droit cantonal établit un régime de compensation permettant de tenir compte équitablement des avantages et des inconvénients majeurs qui résultent de mesures d’aménagement.
+<sup>1</sup> Le droit cantonal établit un régime de compensation permettant de tenir compte équitablement des avantages et des inconvénients majeurs qui résultent de mesures d’aménagement. Les exigences minimales sont régies par les al. 1<sup>bis</sup> à 1<sup>sexies</sup>.[^5-1]
 
-<sup>1bis</sup> Les avantages résultant de mesures d’aménagement sont compensés par une taxe d’au moins 20 %. La compensation est exigible lorsque le bien-fonds est construit ou aliéné. Le droit cantonal conçoit le régime de compensation de façon à compenser au moins les plus-values résultant du classement durable de terrains en zone à bâtir.[^5-1]
+<sup>1bis</sup> Les avantages résultant du classement durable de terrains en zone à bâtir dans le cadre de mesures d’aménagement sont compensés par une taxe d’au moins 20 %. La compensation est exigible lorsque le bien-fonds est construit ou aliéné.[^5-2]
 
-<sup>1ter</sup> Le produit de la taxe est utilisé pour financer les mesures prévues à l’al. 2, ou d’autres mesures d’aménagement du territoire prévues à l’art. 3, en particulier aux al. 2, let. a, et 3, let. a<sup>bis</sup>.[^5-2]
+<sup>1ter</sup> Le produit de la taxe est utilisé pour financer les mesures prévues à l’al. 2, ou d’autres mesures d’aménagement du territoire prévues à l’art. 3, en particulier aux al. 2, let. a, et 3, let. a<sup>bis</sup>.[^5-3]
 
-<sup>1quater</sup> Lors du calcul de la taxe, le montant qui est utilisé dans un délai approprié pour l’acquisition d’un bâtiment agricole de remplacement destiné à être exploité à titre personnel est déduit de l’avantage résultant d’un classement en zone à bâtir.[^5-3]
+<sup>1quater</sup> Lors du calcul de la taxe, le montant qui est utilisé dans un délai approprié pour l’acquisition d’un bâtiment agricole de remplacement destiné à être exploité à titre personnel est déduit de l’avantage résultant d’un classement en zone à bâtir.[^5-4]
 
 <sup>1quinquies</sup>
 
 Le droit cantonal peut prévoir une exemption de la taxe dans les cas suivants:
 
 - a. elle serait due par une collectivité publique;
-- b. son produit escompté serait insuffisant au regard du coût de son prélèvement.[^5-4]
+- b. son produit escompté serait insuffisant au regard du coût de son prélèvement.[^5-5]
 
-<sup>1sexies</sup> En cas d’impôt sur les gains immobiliers, la taxe perçue est déduite du gain en tant que partie des impenses.[^5-5]
+<sup>1sexies</sup> En cas d’impôt sur les gains immobiliers, la taxe perçue est déduite du gain en tant que partie des impenses.[^5-6]
 
 <sup>2</sup> Une juste indemnité est accordée lorsque des mesures d’aménagement apportent au droit de propriété des restrictions équivalant à une expropriation.
 
 <sup>3</sup> Les cantons peuvent prescrire la mention au registre foncier du versement d’indemnités dues par suite de restrictions au droit de propriété.
 
-[^5-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^5-2]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-1]: Phrase introduite par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^5-2]: Introduit par le ch. I de la LF du 15 juin 2012 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^5-3]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-4]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-5]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-6]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 ## Titre 2 Mesures d’aménagement
 
@@ -324,9 +328,12 @@ De nouveaux terrains peuvent être classés en zone à bâtir si les conditions 
 - d. leur disponibilité est garantie sur le plan juridique;
 - e. ils permettent de mettre en œuvre le plan directeur.
 
+<sup>4bis</sup> Lors d’un classement en zone à bâtir ou d’un changement d’affectation de la zone, les cantons peuvent désigner dans les zones à bâtir des secteurs pour lesquels les dispositions concernant la concentration d’odeur correspond à l’affectation initiale, afin que les exploitations agricoles et artisanales existantes puissent être maintenues et rénovées mais aussi adaptées au bien-être animal.[^15-2]
+
 <sup>5</sup> La Confédération et les cantons élaborent ensemble des directives techniques relatives au classement de terrains en zone à bâtir, notamment à la manière de calculer la surface répondant aux besoins.
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^15-2]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 15a
 
@@ -353,7 +360,14 @@ Les zones agricoles servent à garantir la base d’approvisionnement du pays à
 
 <sup>3</sup> Dans leurs plans d’aménagement, les cantons tiennent compte de façon adéquate des différentes fonctions des zones agricoles.
 
+<sup>4</sup> En zone agricole, l’agriculture et ses besoins ont la priorité sur les utilisations non agricoles.[^16-2]
+
+<sup>5</sup> Le Conseil fédéral définit dans quels cas en dehors des zones à bâtir les dispositions de la loi du 7 octobre 1983 sur la protection de l’environnement[^16-3] peuvent être assouplies concernant les immissions d’odeurs et de bruit de l’agriculture, de manière à garantir la priorité de l’agriculture.[^16-4]
+
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^16-2]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^16-3]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^16-4]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 16a
 
@@ -361,15 +375,22 @@ Les zones agricoles servent à garantir la base d’approvisionnement du pays à
 
 <sup>1</sup> Sont conformes à l’affectation de la zone agricole les constructions et installations qui sont nécessaires à l’exploitation agricole ou à l’horticulture productrice. Cette notion de conformité peut être restreinte en vertu de l’art. 16, al. 3.
 
-<sup>1bis</sup> Les constructions et installations nécessaires à la production d’énergie à partir de biomasse ou aux installations de compost qui leur sont liées peuvent être déclarées conformes à l’affectation de la zone et autorisées dans une exploitation agricole si la biomasse utilisée est en rapport étroit avec l’agriculture et avec l’exploitation. Les autorisations doivent être liées à la condition que ces constructions et installations ne serviront qu’à l’usage autorisé. Le Conseil fédéral règle les modalités.[^16a-2]
+<sup>1bis</sup>
 
-<sup>2</sup> Les constructions et installations qui servent au développement interne d’une exploitation agricole ou d’une exploitation pratiquant l’horticulture productrice sont conformes à l’affectation de la zone. Le Conseil fédéral règle les modalités.[^16a-3]
+Dans une exploitation agricole, les constructions et installations nécessaires à la production et au transport d’énergie à partir de biomasse ou aux installations de compost qui leur sont liées sont conformes à l’affectation de la zone et ne sont pas soumises à une obligation de planification, si:
+
+- a. la biomasse utilisée est en rapport étroit avec l’agriculture ou la sylviculture de l’exploitation du lieu ou des exploitations environnantes;
+- b. les quantités de substrat utilisées n’excèdent pas 45 000 tonnes par an, et
+- c. les constructions et installations ne servent qu’à l’usage autorisé.[^16a-2]
+
+<sup>2</sup> Les constructions et installations qui servent au développement interne d’une exploitation agricole ou d’une exploitation pratiquant l’horticulture productrice sont conformes à l’affectation de la zone. Dans le domaine de la garde d’animaux de rente, la mesure dans laquelle un développement interne peut être autorisé est déterminée sur la base de la marge brute ou du potentiel en matières sèches.[^16a-3] Le Conseil fédéral règle les modalités.[^16a-4]
 
 <sup>3</sup> Les constructions et installations dépassant le cadre de ce qui peut être admis au titre du développement interne peuvent être déclarées conformes à l’affectation de la zone et autorisées lorsqu’elles seront implantées dans une partie de la zone agricole que le canton a désignée à cet effet moyennant une procédure de planification.
 
 [^16a-1]: Introduit par le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^16a-2]: Introduit par le ch. I de la LF du 23 mars 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^16a-3]: Nouvelle teneur selon ch. I de la LF du 23 mars 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^16a-2]: Introduit par le ch. I de la LF du 23 mars 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Nouvelle teneur selon le ch. III de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^16a-3]: Phrase introduite par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^16a-4]: Nouvelle teneur selon ch. I de la LF du 23 mars 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 
 #### Art. 16a<sup>bis</sup>
 
@@ -426,22 +447,28 @@ Les zones à protéger comprennent:
 
 #### Art. 18a
 
-**Installations solaires**[^18a-1]
+**Installations solaires et assainissements énergétiques[^18a-2]**[^18a-1]
 
-<sup>1</sup> Dans les zones à bâtir et les zones agricoles, les installations solaires suffisamment adaptées aux toits ne nécessitent pas d’autorisation selon l’art. 22, al. 1. De tels projets doivent être simplement annoncés à l’autorité compétente.
+<sup>1</sup> Dans les zones à bâtir et les zones agricoles, les installations solaires suffisamment adaptées aux toits ou aux façades ne nécessitent pas d’autorisation selon l’art. 22, al. 1.[^18a-3] De tels projets doivent être simplement annoncés à l’autorité compétente.
 
 <sup>2</sup>
 
 Le droit cantonal peut:
 
-- a. désigner des types déterminés de zones à bâtir où l’aspect esthétique est mineur, dans lesquels d’autres installations solaires peuvent aussi être dispensées d’autorisation;
+- a.[^18a-4] désigner des types déterminés de zones à bâtir dans lesquelles l’aspect esthétique est mineur, dans lesquels d’autres installations solaires et assainissements énergétiques peuvent aussi être dispensées d’autorisation;
 - b. prévoir une obligation d’autorisation dans des types précisément définis de zones à protéger.
+
+<sup>2bis</sup> Dans les zones à bâtir, les structures permettant la production d’énergie solaire au-dessus ou en bordure des aires de stationnement de 15 places et plus sont en principe conformes à la zone. Les communes peuvent désigner dans leur plan d’aménagement des aires de stationnement pour lesquels de telles structures ne sont pas admissibles ou ne le sont qu’à certaines conditions. Elles peuvent déclarer en principe conformes à la zone des structures sur tout ou partie d’aires de stationnement de moins de 15 places.[^18a-5]
 
 <sup>3</sup> Les installations solaires sur des biens culturels ou dans des sites naturels d’importance cantonale ou nationale sont toujours soumises à une autorisation de construire. Elles ne doivent pas porter d’atteinte majeure à ces biens ou sites.
 
 <sup>4</sup> Pour le reste, l’intérêt à l’utilisation de l’énergie solaire sur des constructions existantes ou nouvelles l’emporte en principe sur les aspects esthétiques.
 
 [^18a-1]: Introduit par le ch. II de la LF du 22 juin 2007 ([RO 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^18a-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18a-3]: Nouvelle teneur selon le ch. III de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^18a-4]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18a-5]: Introduit par le ch. III de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 19
 
@@ -462,7 +489,11 @@ Le droit cantonal peut:
 
 Lorsque la réalisation de plans d’affectation l’exige, le remembrement peut être ordonné d’office et au besoin exécuté par l’autorité compétente.
 
-### Section 2 Effets
+### Section 2 Effets en général
+
+[^tit2-chap3-sec2-1]
+
+[^tit2-chap3-sec2-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 21
 
@@ -493,16 +524,90 @@ L’autorisation est délivrée si:
 
 Le droit cantonal règle les exceptions prévues à l’intérieur de la zone à bâtir.
 
+### Section 2*a* Autorisations exceptionnelles hors de la zone à bâtir
+
+[^tit2-chap3-sec2a-1]
+
+[^tit2-chap3-sec2a-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
 #### Art. 24
 
-**Exceptions prévues hors de la zone à bâtir**[^24-1]
+**Constructions et installations dont l’implantation est imposée par leur destination[^24-2]**[^24-1]
+
+<sup>1</sup>
 
 En dérogation à l’art. 22, al. 2, let. a, des autorisations peuvent être délivrées pour de nouvelles constructions ou installations ou pour tout changement d’affectation si:
 
 - a. l’implantation de ces constructions ou installations hors de la zone à bâtir est imposée par leur destination;
 - b. aucun intérêt prépondérant ne s’y oppose.
 
+<sup>2</sup> Le Conseil fédéral peut admettre les assainissements énergétiques qui ne sont pas fondés sur une autre disposition.[^24-3]
+
 [^24-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^24-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^24-3]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24<sup>bis</sup>
+
+**Regroupement des installations infrastructurelles et installations de télécommunication mobile**[^24bis-1]
+
+<sup>1</sup> Il convient de regrouper autant que possible les installations infrastructurelles. Le Conseil fédéral fixe les conditions auxquelles les installations de télécommunication mobile aménagées sur des installations infrastructurelles existantes ou nouvelles doivent être considérées comme des installations dont l’emplacement est imposé par leur destination, sous réserve de l’art. 24, al. 1, let. b.
+
+<sup>2</sup> Les installations de télécommunication mobile peuvent être autorisées en dehors des zones à bâtir si un emplacement en dehors des zones à bâtir est, sur la base d’une pesée globale des intérêts, nettement plus avantageux qu’un emplacement à l’intérieur des zones à bâtir.
+
+<sup>3</sup> Les adaptations, renouvellements et extensions d’installations de télécommunication mobile existantes hors de la zone à bâtir sont considérées comme imposées par leur destination.
+
+[^24bis-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24<sup>ter</sup>
+
+**Installations solaires qui ne revêtent pas un intérêt national**[^24ter-1]
+
+<sup>1</sup>
+
+Les installations solaires qui ne revêtent pas un intérêt national et qui sont situées dans des espaces ouverts hors des zones à bâtir et hors des surfaces agricoles utiles sont considérées comme des constructions dont l’implantation est imposée par leur destination si:
+
+- a. elles sont construites dans des zones peu sensibles ou dans des zones dans lesquelles se trouvent déjà d’autres constructions et installations, et
+- b. elles peuvent être équipées et raccordées au réseau à un coût raisonnable par rapport à leur puissance.
+
+<sup>2</sup>
+
+Les installations solaires situées sur des surfaces agricoles utiles sont considérées comme des constructions dont l’implantation est imposée par leur destination si:
+
+- a. outre la production d’électricité, ces installations ne portent pas préjudice aux intérêts liés à l’agriculture et ont des effets positifs pour la production agricole, ou
+- b. elles sont utilisées à des fins de recherche ou d’essais agricoles.
+
+<sup>3</sup> Lors de leur mise hors service définitive, ces installations doivent être démontées et la situation d’origine rétablie.
+
+<sup>4</sup> En tenant compte de l’objectif de développement au sens de l’art. 2 de la loi du 30 septembre 2016 sur l’énergie[^24ter-2], le Conseil fédéral règle les détails, en particulier aussi la garantie financière pour les mesures à prendre conformément à l’al. 3.
+
+[^24ter-1]: Anciennement art. 24<sup>bis</sup>. Introduit par le ch. III de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^24ter-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 24<sup>quater</sup>
+
+**Autres constructions et installations permettant l’utilisation des énergies renouvelables**[^24quater-1]
+
+<sup>1</sup> Les installations destinées à l’utilisation de l’énergie issue de la biomasse et celles destinées à transformer des énergies renouvelables en hydrogène, en méthane ou en d’autres hydrocarbures synthétiques doivent également être autorisées en dehors des zones à bâtir, dans la mesure où cela semble approprié pour garantir un approvisionnement sûr en énergie renouvelable.
+
+<sup>2</sup>
+
+Le Conseil fédéral définit les conditions auxquelles l’implantation de telles installations dans des zones peu sensibles ou dans des zones dans lesquelles se trouvent déjà d’autres constructions et installations est imposée par leur destination. Ce faisant, il met l’accent:
+
+- a. pour les installations destinées à l’utilisation de l’énergie issue de la biomasse: sur la desserte existante, en particulier sur le raccordement au gaz;
+- b. pour les installations destinées à transformer des énergies renouvelables en hydrogène ou en hydrocarbures, il met l’accent sur la proximité d’une installation de production d’électricité renouvelable.
+
+<sup>3</sup> Il peut déterminer à partir de quelle taille et de quelle importance il existe une obligation de planification pour les constructions et installations.
+
+[^24quater-1]: Anciennement art. 24<sup>ter</sup>. Introduit par le ch. III de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 24<sup>quinquies</sup>
+
+**Constructions et installations pour réseaux thermiques**[^24quinquies-1]
+
+Les réseaux thermiques qui apportent une contribution pour réduire la consommation d’énergies non renouvelables peuvent, si nécessaire, être construits hors de la zone à bâtir. Le Conseil fédéral règle les modalités.
+
+[^24quinquies-1]: Introduit par le ch. I et II de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24a
 
@@ -550,23 +655,50 @@ Lorsque le changement d’affectation de constructions et d’installations sise
 
 #### Art. 24c
 
-**Constructions et installations existantes sises hors de la zone à bâtir et non conformes à l’affectation de la zone**[^24c-1]
+**Constructions et installations érigées selon l’ancien droit[^24c-2]**[^24c-1]
 
 <sup>1</sup> Hors de la zone à bâtir, les constructions et installations qui peuvent être utilisées conformément à leur destination mais qui ne sont plus conformes à l’affectation de la zone bénéficient en principe de la garantie de la situation acquise.
 
-<sup>2</sup> L’autorité compétente peut autoriser la rénovation de telles constructions et installations, leur transformation partielle, leur agrandissement mesuré ou leur reconstruction, pour autant que les bâtiments aient été érigés ou transformés légalement.[^24c-2]
+<sup>2</sup> L’autorité compétente peut autoriser la rénovation de telles constructions et installations, leur transformation partielle, leur agrandissement mesuré ou leur reconstruction, pour autant que les bâtiments aient été érigés ou transformés légalement.[^24c-3]
 
-<sup>3</sup> Il en va de même des bâtiments d’habitation agricoles et des bâtiments d’exploitation agricole qui leur sont contigus et ont été érigés ou transformés légalement avant l’attribution du bien-fonds à un territoire non constructible au sens du droit fédéral. Le Conseil fédéral édicte des dispositions pour éviter les conséquences négatives pour l’agriculture.[^24c-3]
+<sup>3</sup> Il en va de même des bâtiments d’habitation agricoles et des bâtiments d’exploitation agricole qui leur sont contigus et ont été érigés ou transformés légalement avant l’attribution du bien-fonds à un territoire non constructible au sens du droit fédéral. Le Conseil fédéral édicte des dispositions pour éviter les conséquences négatives pour l’agriculture.[^24c-4]
 
-<sup>4</sup> Les modifications apportées à l’aspect extérieur du bâtiment doivent être nécessaires à un usage d’habitation répondant aux normes usuelles ou à un assainissement énergétique ou encore viser à une meilleure intégration dans le paysage.[^24c-4]
+<sup>4</sup> Les modifications apportées à l’aspect extérieur du bâtiment doivent être nécessaires à un usage d’habitation répondant aux normes usuelles ou à un assainissement énergétique ou encore viser à une meilleure intégration dans le paysage.[^24c-5]
 
-<sup>5</sup> Dans tous les cas, les exigences majeures de l’aménagement du territoire doivent être remplies.[^24c-5]
+<sup>5</sup> Dans tous les cas, les exigences majeures de l’aménagement du territoire doivent être remplies.[^24c-6]
 
 [^24c-1]: Introduit par le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^24c-2]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-3]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-4]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127))
-[^24c-5]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^24c-3]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-4]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-5]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127))
+[^24c-6]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+
+#### Art. 24c<sup>bis</sup>
+
+**Constructions dans les territoires à habitat traditionnellement dispersé**[^24cbis-1]
+
+<sup>1</sup>
+
+Dans les territoires à habitat traditionnellement dispersé qui sont désignés dans le plan directeur cantonal et dans lesquels, compte tenu du développement spatial souhaité, l’habitat permanent doit être renforcé, les cantons peuvent autoriser:
+
+- a. les changements d’affectation, à des fins d’habitation sans rapport avec l’agriculture, de constructions existantes comportant des logements, si la construction après transformation est habitée à l’année;
+- b. les changements d’affectation de constructions ou de complexes de bâtiments existants comportant des logements, à des fins servant le petit artisanat et le commerce local; tels que les fromageries, les entreprises de transformation du bois, les ateliers mécaniques, les serrureries, les commerces de détail, les cafés; la partie réservée à l’artisanat ou au commerce ne doit en règle générale pas occuper plus de la moitié de la construction ou du complexe de bâtiments existants.
+
+<sup>2</sup>
+
+Des autorisations ne peuvent être délivrées sur la base du présent article que si les conditions suivantes sont remplies:
+
+- a. la construction n’est plus nécessaire à l’utilisation antérieure conforme à l’affectation de la zone ou imposée par sa destination ou le maintien de cette utilisation est assuré;
+- b. le changement d’affectation n’implique pas une construction de remplacement que n’imposerait aucune nécessité;
+- c. l’aspect extérieur et la structure architecturale de la construction demeurent inchangés pour l’essentiel;
+- d. tout au plus une légère extension des équipements existants est nécessaire et tous les coûts supplémentaires d’infrastructure occasionnés par l’utilisation autorisée sont à la charge du propriétaire;
+- e. l’exploitation agricole des terrains environnants n’est pas menacée;
+- f. aucun intérêt prépondérant ne s’y oppose.
+
+<sup>3</sup> Pour les constructions qui étaient habitées à l’année au 1<sup>er</sup> janvier 1980 et qui, en vertu de l’art. 24*c*, bénéficient de la garantie de la situation acquise, une voie d’accès peut être autorisée dans les territoires à habitat traditionnellement dispersé visés à l’al. 1, pour autant que les constructions soient habitées à l’année. La voie d’accès doit être limitée au minimum sur le plan de la construction et ne doit pas imperméabiliser le sol. En cas de forte déclivité, un revêtement de sol imperméable peut être autorisé sur tout ou partie du terrain pour des raisons de sécurité.
+
+[^24cbis-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24d
 
@@ -588,7 +720,7 @@ Le changement complet d’affectation de constructions et d’installations jug�
 Les autorisations prévues par le présent article ne peuvent être délivrées que si:[^24d-6]
 
 - a. la construction ou l’installation n’est plus nécessaire à son usage antérieur, qu’elle se prête à l’utilisation envisagée et qu’elle n’implique pas une construction de remplacement que n’imposerait aucune nécessité;
-- b. l’aspect extérieur et la structure architecturale du bâtiment demeurent pour l’essentiel inchangés;
+- b.[^24d-7] les caractéristiques essentielles de l’aspect extérieur, de la structure architecturale et des environs sont conservées;
 - c. tout au plus une légère extension des équipements existants est nécessaire et que tous les coûts supplémentaires d’infrastructure occasionnés par le changement complet d’affectation de la construction ou de l’installation sont à la charge du propriétaire;
 - d. l’exploitation agricole des terrains environnants n’est pas menacée;
 - e. aucun intérêt prépondérant ne s’y oppose.
@@ -599,6 +731,7 @@ Les autorisations prévues par le présent article ne peuvent être délivrées 
 [^24d-4]: Introduit par le ch. I de la LF du 23 mars 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Abrogé par le ch. I de la LF du 22 mars 2013, avec effet au 1<sup>er</sup> mai 2014 ([RO 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 6115](https://fedlex.data.admin.ch/eli/fga/2012/960)[6133](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^24d-5]: Nouvelle teneur selon ch. I de la LF du 23 mars 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^24d-6]: Nouvelle teneur selon ch. I de la LF du 23 mars 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24d-7]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24e
 
@@ -614,9 +747,10 @@ Les autorisations prévues par le présent article ne peuvent être délivrées 
 
 <sup>5</sup> Les autorisations prévues par le présent article ne peuvent être délivrées que si les conditions prévues à l’art. 24*d*, al. 3, sont remplies.
 
-<sup>6</sup> Le Conseil fédéral règle les modalités. Il définit notamment le rapport entre les possibilités de transformation prévues par le présent article et celles prévues aux art. 24*c* et 24*d*, al. 1.
+<sup>6</sup> Le Conseil fédéral règle les modalités. Il définit notamment le rapport entre les possibilités de transformation prévues par le présent article et celles prévues par l’art. 24*c*. Il peut prévoir que la détention de petits animaux à titre de loisir ne soit pas considérée comme une extension de l’usage d’habitation, et que des bâtiments annexes de petite taille détruits par les forces de la nature peuvent être reconstruits.[^24e-2]
 
 [^24e-1]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 6115](https://fedlex.data.admin.ch/eli/fga/2012/960)[6133](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24e-2]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 ### Section 3 Compétence et procédure
 
@@ -630,8 +764,14 @@ Les autorisations prévues par le présent article ne peuvent être délivrées 
 
 <sup>2</sup> Pour tous les projets de construction situés hors de la zone à bâtir, l’autorité cantonale compétente décide si ceux-ci sont conformes à l’affectation de la zone ou si une dérogation peut être accordée.[^25-2]
 
+<sup>3 et <sup>4</sup></sup> …[^25-3]
+
+<sup>5</sup> Le droit au rétablissement de la situation conforme au droit se prescrit après 30 ans. Le délai est respecté lorsque l’autorité compétente intervient pour la première fois avant la fin de ce délai. Il n’y a pas de prescription si des biens de police, en particulier l’ordre public, la tranquillité, la sécurité ou la santé publics, sont mis en péril.[^25-4]
+
 [^25-1]: Introduit par le ch. I de la LF du 6 oct. 1995 ([RO 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 1059](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^25-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^25-3]: Entrent en vigueur le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-4]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 25a
 
@@ -676,9 +816,9 @@ L’autorité chargée de la coordination:
 
 **Restrictions des cantons concernant les constructions hors de la zone à bâtir**[^27a-1]
 
-La législation cantonale peut prévoir des restrictions aux art. 16*a*, al. 2, 24*b*, 24*c* et 24*d*.
+Le droit cantonal peut prévoir des restrictions aux art. 16*a*, al. 2, 24*b*, 24*c*, 24*d* et 24*e*.
 
-[^27a-1]: Introduit par le ch. I de la LF du 23 mars 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6533](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6547](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^27a-1]: Introduit par le ch. I de la LF du 23 mars 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 ## Titre 3 Contributions fédérales
 

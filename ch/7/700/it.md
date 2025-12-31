@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 1979 sulla pianificazione del territorio (L
 short: LPT
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: it
-version: 2019-01-01
+version: 2026-01-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20190101/it/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20190101-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20190101/it"
 
 (Legge sulla pianificazione del territorio, LPT)[^t-1]
 
-del 22 giugno 1979 (Stato 1° gennaio 2019)
+del 22 giugno 1979 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
+[^t-1]: Nuovo testo giusta la cifra I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,7 +28,7 @@ visti gli articoli 22<sup>quater</sup> e 34<sup>sexies</sup> della Costituzione 
 decreta:
 
 [^ingress-1]: [CS **1** 3; RU **1969** 1265, **1972** 1509]. A dette disp. corrispondono ora gli art. 41, 75, 108 e 147 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 [^ingress-3]: [FF 1978 I 959](https://fedlex.data.admin.ch/eli/fga/1978/1_1006_1007_959)
 
 ## Titolo primo: Introduzione
@@ -52,10 +52,10 @@ Essi sostengono con misure pianificatorie in particolare gli sforzi intesi a:
 - e. garantire la difesa nazionale;
 - f.[^1-5] promuovere l’integrazione degli stranieri e la coesione sociale.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^1-2]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^1-3]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^1-4]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^1-2]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^1-3]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^1-4]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-5]: Introdotta dal n. 3 dell’all. alla LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 2
@@ -103,9 +103,12 @@ Per gli edifici e gli impianti pubblici o di interesse pubblico deve essere dete
 - b. rendere convenientemente accessibili alla popolazione attrezzature come scuole, centri per il tempo libero e servizi pubblici;
 - c. evitare o ridurre generalmente al minimo le incidenze negative sulle basi naturali della vita, sulla popolazione e sull’economia.
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^3-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^3-3]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+<sup>5</sup> Le utilizzazioni del sottosuolo, in particolare delle acque sotterranee, delle materie prime, dell’energia e degli spazi utilizzabili per l’edificazione, devono essere coordinate tempestivamente sia fra loro sia con le utilizzazioni in superficie e con gli interessi contrapposti.[^3-4]
+
+[^3-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^3-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^3-3]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^3-4]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 4
 
@@ -121,32 +124,33 @@ Per gli edifici e gli impianti pubblici o di interesse pubblico deve essere dete
 
 **Compensazione e indennizzo**
 
-<sup>1</sup> Il diritto cantonale prevede un’adeguata compensazione di vantaggi o svantaggi rilevanti, derivanti da pianificazioni secondo la presente legge.
+<sup>1</sup> Il diritto cantonale prevede un’adeguata compensazione di vantaggi o svantaggi rilevanti, derivanti da pianificazioni secondo la presente legge. Le condizioni minime sono disciplinate nei capoversi 1<sup>bis</sup>–1<sup>sexies</sup>.[^5-1]
 
-<sup>1bis</sup> I vantaggi derivanti da pianificazioni sono compensati con un’aliquota del 20 per cento almeno. La compensazione diventa esigibile se il fondo è edificato o alienato. Il diritto cantonale imposta la compensazione in modo da compensare quantomeno il plusvalore derivante dall’assegnazione durevole del terreno a una zona edificabile.[^5-1]
+<sup>1bis</sup> I vantaggi che derivano dall’assegnazione durevole del terreno a una zona edificabile sono compensati con un’aliquota del 20 per cento almeno. La compensazione diventa esigibile se il fondo è edificato o alienato.[^5-2]
 
-<sup>1ter</sup> Il prodotto è utilizzato per misure di cui al capoverso 2 o per altre misure pianificatorie di cui all’articolo 3 in particolare ai capoversi 2 lettera a e 3 lettera a<sup>bis</sup>.[^5-2]
+<sup>1ter</sup> Il prodotto è utilizzato per misure di cui al capoverso 2 o per altre misure pianificatorie di cui all’articolo 3 in particolare ai capoversi 2 lettera a e 3 lettera a<sup>bis</sup>.[^5-3]
 
-<sup>1quater</sup> Per il calcolo della tassa, dal vantaggio derivante da pianificazioni in occasione di un azzonamento è dedotto l’importo che è utilizzato entro un congruo termine per l’acquisto di un edificio agricolo sostitutivo per la gestione in proprio.[^5-3]
+<sup>1quater</sup> Per il calcolo della tassa, dal vantaggio derivante da pianificazioni in occasione di un azzonamento è dedotto l’importo che è utilizzato entro un congruo termine per l’acquisto di un edificio agricolo sostitutivo per la gestione in proprio.[^5-4]
 
 <sup>1quinquies</sup>
 
 Il diritto cantonale può rinunciare alla riscossione della tassa se:
 
 - a. la tassa è dovuta da un ente pubblico; o
-- b. il prodotto della tassa prevedibile è insufficiente rispetto alle spese di riscossione.[^5-4]
+- b. il prodotto della tassa prevedibile è insufficiente rispetto alle spese di riscossione.[^5-5]
 
-<sup>1sexies</sup> In caso di imposta sugli utili da sostanza immobiliare, la tassa pagata è dedotta dall’utile quale parte delle spese.[^5-5]
+<sup>1sexies</sup> In caso di imposta sugli utili da sostanza immobiliare, la tassa pagata è dedotta dall’utile quale parte delle spese.[^5-6]
 
 <sup>2</sup> Per le restrizioni della proprietà equivalenti a espropriazione, derivanti da pianificazioni secondo la presente legge, è dovuta piena indennità.
 
 <sup>3</sup> I Cantoni possono prescrivere che il pagamento di indennità per restrizioni della proprietà sia menzionato nel registro fondiario.
 
-[^5-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^5-2]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^5-3]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^5-4]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^5-5]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-1]: Secondo per. introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^5-2]: Introdotto dalla cifra I della LF del 15 giu. 2012 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)). Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^5-3]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-4]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-5]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-6]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 ## Titolo secondo: Misure pianificatorie
 
@@ -174,20 +178,20 @@ Nei fondamenti i Cantoni descrivono anche lo stato e lo sviluppo avvenuto:[^6-4]
 - a.[^6-5] del loro comprensorio insediativo;
 - b.[^6-6] del traffico;
 - b<sup>bis</sup>.[^6-7] dell’approvvigionamento, segnatamente di quello di elettricità generata a partire da energie rinnovabili;
-- b<sup>ter</sup>.[^6-8] degli edifici e impianti pubblici;;
+- b<sup>ter</sup>.[^6-8] degli edifici e impianti pubblici;
 - c.[^6-9] delle loro superfici coltive.
 
 <sup>4</sup> Essi tengono conto delle concezioni e dei piani settoriali della Confederazione, dei piani direttori dei Cantoni vicini come pure dei programmi di sviluppo e piani regionali.
 
-[^6-1]: Abrogato dal n. I della LF del 15 giu. 2012, con effetto dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^6-2]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^6-3]: Introdotta dal n. II 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^6-4]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^6-5]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^6-6]: Nuovo testo giusta il n. II 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^6-7]: Introdotta dal n. II 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^6-8]: Introdotta dal n. II 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^6-9]: Introdotta dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^6-1]: Abrogato dalla cifra I della LF del 15 giu. 2012, con effetto dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^6-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^6-3]: Introdotta dalla cifra II n. 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-4]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^6-5]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^6-6]: Nuovo testo giusta la cifra II n. 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-7]: Introdotta dalla cifra II n. 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-8]: Introdotta dalla cifra II n. 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-9]: Introdotta dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 #### Art. 7
 
@@ -213,7 +217,7 @@ Ogni Cantone elabora un piano direttore, nel quale definisce almeno:
 
 <sup>2</sup> I progetti con ripercussioni considerevoli sul territorio e sull’ambiente necessitano di una base nel piano direttore.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 #### Art. 8a
 
@@ -231,8 +235,8 @@ Nell’ambito degli insediamenti, il piano direttore indica in particolare:
 
 <sup>2 e <sup>3</sup></sup> …[^8a-2]
 
-[^8a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^8a-2]: Originari art. 8 cpv. 2 e 3. Introdotti dal n. I della LF del 17 dic. 2010 ([RU 2011 2913](https://fedlex.data.admin.ch/eli/oc/2011/377); [FF 2007 5293](https://fedlex.data.admin.ch/eli/fga/2007/793)). Abrogati dall’art. 24 n. 2 della LF del 20 mar. 2015 sulle abitazioni secondarie, con effetto dal 1° gen 2016 ([RU 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [FF 2014 2065](https://fedlex.data.admin.ch/eli/fga/2014/409)).
+[^8a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^8a-2]: Originari art. 8 cpv. 2 e 3. Introdotti dalla cifra I della LF del 17 dic. 2010 ([RU 2011 2913](https://fedlex.data.admin.ch/eli/oc/2011/377); [FF 2007 5293](https://fedlex.data.admin.ch/eli/fga/2007/793)). Abrogati dall’art. 24 n. 2 della LF del 20 mar. 2015 sulle abitazioni secondarie, con effetto dal 1° gen 2016 ([RU 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [FF 2014 2065](https://fedlex.data.admin.ch/eli/fga/2014/409)).
 
 #### Art. 8b
 
@@ -240,7 +244,7 @@ Nell’ambito degli insediamenti, il piano direttore indica in particolare:
 
 Il piano direttore specifica i territori e le sezioni di corsi d’acqua adeguati per l’impiego delle energie rinnovabili.
 
-[^8b-1]: Introdotto dal n. II 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^8b-1]: Introdotto dalla cifra II n. 5 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 9
 
@@ -262,7 +266,7 @@ Il piano direttore specifica i territori e le sezioni di corsi d’acqua adeguat
 
 [^10-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^10-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^10-3]: Nuovo testo giusta il n. II 2 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^10-3]: Nuovo testo giusta la cifra II n. 2 della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 11
 
@@ -324,9 +328,12 @@ Un terreno può essere assegnato a una zona edificabile se:
 - d. la sua disponibilità è garantita sul piano giuridico; e
 - e. l’assegnazione consente di attuare quanto disposto nel piano direttore.
 
+<sup>4bis</sup> Nel caso di azzonamenti o di cambiamenti di destinazione della zona, i Cantoni possono designare nelle zone edificabili comprensori nei quali in materia di odori continuano ad applicarsi le disposizioni previste per l’utilizzazione iniziale, così da poter preservare e rinnovare le aziende agricole e artigianali esistenti, ma anche modificarle per accrescere il benessere degli animali.[^15-2]
+
 <sup>5</sup> La Confederazione e i Cantoni elaborano congiuntamente direttive tecniche per l’assegnazione di terreni alle zone edificabili, segnatamente per il calcolo del fabbisogno di tali zone.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^15-2]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 15a
 
@@ -336,7 +343,7 @@ Un terreno può essere assegnato a una zona edificabile se:
 
 <sup>2</sup> Il diritto cantonale prevede che, qualora l’interesse pubblico lo giustifichi, l’autorità competente possa impartire un termine per l’edificazione di un terreno e, in caso di inadempimento, ordinare determinate misure.
 
-[^15a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^15a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 #### Art. 16
 
@@ -353,7 +360,14 @@ Le zone agricole servono a garantire a lungo termine la base dell’approvvigion
 
 <sup>3</sup> Nelle loro pianificazioni, i Cantoni tengono conto in maniera adeguata delle diverse funzioni della zona agricola.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+<sup>4</sup> Nelle zone agricole l’agricoltura e i suoi bisogni hanno la priorità rispetto alle utilizzazioni non agricole.[^16-2]
+
+<sup>5</sup> Il Consiglio federale stabilisce in quali casi fuori delle zone edificabili è ammesso in ambito agricolo derogare alle disposizioni in materia di immissioni foniche e di odori della legge del 7 ottobre 1983[^16-3] sulla protezione dell’ambiente per assicurare la priorità dell’agricoltura.[^16-4]
+
+[^16-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^16-2]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^16-3]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^16-4]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 16a
 
@@ -361,15 +375,22 @@ Le zone agricole servono a garantire a lungo termine la base dell’approvvigion
 
 <sup>1</sup> Sono conformi alla zona agricola gli edifici e gli impianti che sono necessari alla coltivazione agricola o all’orticoltura. È fatta salva una descrizione più restrittiva della conformità alla zona ai sensi dell’articolo 16 capoverso 3.
 
-<sup>1bis</sup> Edifici e impianti necessari alla produzione di energia a partire dalla biomassa, o necessari per impianti di compostaggio loro connessi, possono essere ammessi in un’azienda agricola in quanto conformi alla zona se la biomassa trattata è in stretto rapporto con l’agricoltura, nonché con l’azienda medesima. Le autorizzazioni sono vincolate alla condizione che tali edifici e impianti possano essere usati soltanto per lo scopo autorizzato. Il Consiglio federale disciplina i dettagli.[^16a-2]
+<sup>1bis</sup>
 
-<sup>2</sup> Edifici e impianti che servono all’ampliamento interno di un’azienda agricola od orticola produttiva sono conformi alla zona. Il Consiglio federale disciplina i dettagli.[^16a-3]
+Edifici e impianti necessari alla produzione e al trasporto di energia generata dalla biomassa, o necessari per impianti di compostaggio loro connessi, sono ammessi in un’azienda agricola in quanto conformi alla zona e non sottostanno all’obbligo di pianificare se:
+
+- a. la biomassa trattata è in stretto rapporto con l’agricoltura o la silvicoltura praticata dall’azienda medesima o da aziende circostanti;
+- b. la quantità di substrato utilizzata non eccede le 45 000 t all’anno; e
+- c. tali edifici e impianti sono usati soltanto per lo scopo autorizzato.[^16a-2]
+
+<sup>2</sup> Edifici e impianti che servono all’ampliamento interno di un’azienda agricola od orticola produttiva sono conformi alla zona. Nell’ambito della tenuta di animali, le dimensioni entro le quali un ampliamento interno può essere autorizzato sono determinate in base al contributo di copertura o al potenziale di sostanza secca.[^16a-3] Il Consiglio federale disciplina i dettagli.[^16a-4]
 
 <sup>3</sup> Edifici e impianti che vanno al di là di un ampliamento interno dell’azienda possono essere ammessi in quanto conformi alla zona se sono situati in un territorio che il Cantone ha destinato a tal fine nella zona agricola mediante una procedura di pianificazione.
 
-[^16a-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^16a-2]: Introdotto dal n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^16a-3]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^16a-1]: Introdotto dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^16a-2]: Introdotto dalla cifra I della LF de 23 mar. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Nouvo testo giusta la cifra III della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^16a-3]: Secondo per. introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^16a-4]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 
 #### Art. 16a<sup>bis</sup>
 
@@ -383,7 +404,7 @@ Le zone agricole servono a garantire a lungo termine la base dell’approvvigion
 
 <sup>4</sup> Il Consiglio federale disciplina i particolari.
 
-[^16abis-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^16abis-1]: Introdotto dalla cifra I della LF del 22 mar. 2013, in vigore dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^16abis-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 16b
@@ -394,10 +415,10 @@ Le zone agricole servono a garantire a lungo termine la base dell’approvvigion
 
 <sup>2</sup> Se l’autorizzazione è stata limitata nel tempo o vincolata a una condizione risolutiva, al decadere dell’autorizzazione gli edifici e gli impianti devono essere demoliti e deve essere ripristinato lo stato anteriore.[^16b-4]
 
-[^16b-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^16b-2]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^16b-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
-[^16b-4]: Introdotto dal n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^16b-1]: Introdotto dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^16b-2]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^16b-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^16b-4]: Introdotto dalla cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 
 #### Art. 17
 
@@ -426,22 +447,28 @@ Le zone protette comprendono:
 
 #### Art 18a
 
-**Impianti solari**[^18a-1]
+**Impianti solari e risanamenti energetici [^18a-2]**[^18a-1]
 
-<sup>1</sup> Nelle zone edificabili e nelle zone agricole gli impianti solari sufficientemente adattati ai tetti non necessitano dell’autorizzazione di cui all’articolo 22 capoverso 1. Simili progetti devono essere unicamente annunciati all’autorità competente.
+<sup>1</sup> Nelle zone edificabili e nelle zone agricole gli impianti solari sufficientemente adattati ai tetti o alle facciate non necessitano dell’autorizzazione di cui all’articolo 22 capoverso 1.[^18a-3] Simili progetti devono essere unicamente annunciati all’autorità competente.
 
 <sup>2</sup>
 
 Il diritto cantonale può:
 
-- a. designare determinati tipi di zone edificabili dove l’aspetto estetico è meno importante, nelle quali anche altri impianti solari possono essere esentati dall’autorizzazione;
+- a.[^18a-4] designare determinati tipi di zone edificabili dove l’aspetto estetico è meno importante, nelle quali anche altri impianti solari e risanamenti energetici possono essere esentati dall’autorizzazione;
 - b. prevedere l’obbligo dell’autorizzazione in tipi chiaramente definiti di zone protette.
+
+<sup>2bis</sup> Nelle zone edificabili, le strutture a copertura o a margine dei parcheggi con 15 o più posti che permettono la produzione di energia solare sono in linea di principio conformi alla zona. Nelle rispettive pianificazioni territoriali, i Comuni possono designare parcheggi per i quali siffatte strutture non sono ammesse o lo sono soltanto condizionatamente. Possono dichiarare in linea di principio conformi alla zona siffatte strutture anche in relazione a tutti o a una parte dei parcheggi con meno di 15 posti.[^18a-5]
 
 <sup>3</sup> Gli impianti solari nell’ambito di monumenti culturali o naturali d’importanza cantonale o nazionale sottostanno sempre all’obbligo dell’autorizzazione. Non devono pregiudicare in modo sostanziale tali monumenti.
 
 <sup>4</sup> Per il rimanente, l’interesse a utilizzare l’energia solare negli edifici esistenti o nuovi prevale in linea di principio sugli aspetti estetici.
 
-[^18a-1]: Introdotto dal n. II della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^18a-1]: Introdotto dalla cifra II della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^18a-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18a-3]: Nouvo testo giusta la cifra III della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^18a-4]: Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18a-5]: Introdotto dalla cifra III della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 19
 
@@ -453,8 +480,8 @@ Il diritto cantonale può:
 
 <sup>3</sup> Se l’ente pubblico non urbanizza le zone edificabili nei termini previsti, deve permettere ai proprietari fondiari di provvedere da sé all’urbanizzazione dei fondi secondo i piani approvati dall’ente pubblico oppure di anticipare le spese d’urbanizzazione giusta il diritto cantonale.[^19-2]
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^19-2]: Nuovo testo giusta il n. I della LF del 6 ott. 1995, in vigore dal 1° apr. 1996 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^19-2]: Nuovo testo giusta la cifra I della LF del 6 ott. 1995, in vigore dal 1° apr. 1996 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 #### Art. 20
 
@@ -462,7 +489,11 @@ Il diritto cantonale può:
 
 La ricomposizione particellare può essere ordinata d’ufficio ed anche eseguita, se i piani d’utilizzazione lo esigono.
 
-### Sezione 2: Effetti
+### Sezione 2: Effetti generali
+
+[^tit2-chap3-sec2-1]
+
+[^tit2-chap3-sec2-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 21
 
@@ -493,16 +524,90 @@ L’autorizzazione è rilasciata solo se:
 
 Il diritto cantonale disciplina le eccezioni nelle zone edificabili.
 
+### Sezione 2*a*: Autorizzazioni eccezionali fuori delle zone edificabili
+
+[^tit2-chap3-sec2a-1]
+
+[^tit2-chap3-sec2a-1]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
 #### Art. 24
 
-**Eccezioni per edifici e impianti fuori delle zone edificabili**[^24-1]
+**Edifici e impianti a ubicazione vincolata[^24-2]**[^24-1]
+
+<sup>1</sup>
 
 In deroga all’articolo 22 capoverso 2 lettera a, possono essere rilasciate autorizzazioni per la costruzione o il cambiamento di destinazione di edifici o impianti, se:
 
 - a. la loro destinazione esige un’ubicazione fuori della zona edificabile; e
 - b. non vi si oppongono interessi preponderanti.
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+<sup>2</sup> Il Consiglio federale può autorizzare risanamenti energetici che non sono disciplinati in un’altra base legale.[^24-3]
+
+[^24-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^24-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^24-3]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24<sup>bis</sup>
+
+**Raggruppamento di impianti infrastrutturali e impianti di telefonia mobile**[^24bis-1]
+
+<sup>1</sup> Nella misura del possibile, gli impianti infrastrutturali vanno raggruppati. Il Consiglio federale stabilisce le condizioni alle quali, fatto salvo l’articolo 24 capoverso 1 lettera b, impianti di telefonia mobile realizzati su impianti infrastrutturali nuovi o esistenti sono considerati a ubicazione vincolata.
+
+<sup>2</sup> Gli impianti per la telefonia mobile possono essere autorizzati fuori della zona edificabile sempreché da una ponderazione globale degli interessi risulti che le condizioni sono nettamente migliori rispetto a quelle nella zona edificabile.
+
+<sup>3</sup> Le modifiche, il rinnovo e l’ampliamento degli impianti di telefonia mobile esistenti fuori della zona edificabile sono considerati a ubicazione vincolata.
+
+[^24bis-1]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24<sup>ter</sup>
+
+**Impianti solari che non sono di interesse nazionale**[^24ter-1]
+
+<sup>1</sup>
+
+Gli impianti solari siti in superfici libere al di fuori delle zone edificabili e delle superfici agricole utili e che non sono di interesse nazionale sono considerati vincolati all’ubicazione se:
+
+- a. sono edificati in aree poco sensibili o in cui sono già presenti altri edifici e impianti; e
+- b. l’urbanizzazione del terreno e l’allacciamento alla rete elettrica dell’impianto sono possibili con un onere proporzionato alla potenza di quest’ultimo impianto.
+
+<sup>2</sup>
+
+Gli impianti solari siti in superfici agricole utili sono considerati vincolati all’ubicazione se:
+
+- a. oltre a produrre energia elettrica, non nuocciono agli interessi agricoli e comportano vantaggi per la produzione agricola; o
+- b. sono utili alla sperimentazione o alla ricerca agricoli.
+
+<sup>3</sup> In occasione della cessazione definitiva dell’esercizio, gli impianti devono essere smantellati e lo stato anteriore ripristinato.
+
+<sup>4</sup> Il Consiglio federale disciplina i dettagli tenendo conto degli obiettivi di sviluppo di cui all’articolo 2 della legge federale del 30 settembre 2016[^24ter-2] sull’energia; disciplina in particolare le garanzie finanziarie relative alle misure previste al capoverso 3 del presente articolo.
+
+[^24ter-1]: Originario art. 24<sup>bis</sup>. Introdotto dalla cifra III della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^24ter-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 24<sup>quater</sup>
+
+**Altri edifici e impianti per lo sfruttamento delle energie rinnovabili**[^24quater-1]
+
+<sup>1</sup> Gli impianti necessari allo sfruttamento di energia a partire dalla biomassa e gli impianti per la trasformazione di energie rinnovabili in idrogeno, metano o altri idrocarburi sintetici sono ammessi anche al di fuori delle zone edificabili se opportuno per assicurare l’approvvigionamento sicuro con energie rinnovabili.
+
+<sup>2</sup>
+
+Il Consiglio federale stabilisce le condizioni alle quali simili impianti situati in aree poco sensibili o in cui sono già presenti altri edifici e impianti sono vincolati all’ubicazione. Tiene conto in particolare degli elementi indicati qui appresso:
+
+- a. per gli impianti necessari alla produzione di energia a partire dalla biomassa, i collegamenti già esistenti, in particolare sotto forma di allacciamenti alla rete del gas;
+- b. per gli impianti per la trasformazione delle energie rinnovabili in idrogeno o in idrocarburi, la vicinanza a un impianto per la produzione di elettricità a partire da energie rinnovabili.
+
+<sup>3</sup> Il Consiglio federale può stabilire la grandezza e l’importanza a partire dalle quali vige l’obbligo di pianificazione per gli edifici e gli impianti.
+
+[^24quater-1]: Originario art. 24<sup>ter</sup>. Introdotto dalla cifra III della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 24<sup>quinquies</sup>
+
+**Edifici e impianti per reti termiche**[^24quinquies-1]
+
+Se necessario, le reti termiche che contribuiscono alla riduzione del consumo di energie non rinnovabili possono essere autorizzate fuori delle zone edificabili. Il Consiglio federale disciplina i dettagli.
+
+[^24quinquies-1]: Introdotto dalle cifra I e II della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24a
 
@@ -517,7 +622,7 @@ Quando il cambiamento di destinazione di un edificio o di un impianto fuori dell
 
 <sup>2</sup> L’autorizzazione eccezionale è rilasciata con la riserva di una nuova decisione, presa d’ufficio, in caso di mutate condizioni.
 
-[^24a-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^24a-1]: Introdotto dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 
 #### Art. 24b
 
@@ -539,34 +644,61 @@ Quando il cambiamento di destinazione di un edificio o di un impianto fuori dell
 
 <sup>5</sup> Le disposizioni della legge federale sul diritto fondiario rurale concernenti le aziende accessorie non agricole non sono applicabili alle aziende accessorie di cui al presente articolo.
 
-[^24b-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^24b-1]: Introdotto dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^24b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
-[^24b-3]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^24b-4]: Introdotto dal n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^24b-5]: Introdotto dal n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^24b-6]: Introdotto dal n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^24b-7]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24b-3]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24b-4]: Introdotto dalla cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24b-5]: Introdotto dalla cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24b-6]: Introdotto dalla cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24b-7]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^24b-8]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 24c
 
-**Edifici e impianti esistenti fuori delle zone edificabili, non conformi alla destinazione della zona**[^24c-1]
+**Edifici e impianti eretti secondo il diritto anteriore[^24c-2]**[^24c-1]
 
 <sup>1</sup> Fuori delle zone edificabili, gli edifici e impianti utilizzabili in base alla loro destinazione ma non più conformi alla destinazione della zona, sono per principio protetti nella propria situazione di fatto.
 
-<sup>2</sup> Con l’autorizzazione dell’autorità competente, tali edifici e impianti possono essere rinnovati, trasformati parzialmente, ampliati con moderazione o ricostruiti, purché siano stati eretti o modificati legalmente.[^24c-2]
+<sup>2</sup> Con l’autorizzazione dell’autorità competente, tali edifici e impianti possono essere rinnovati, trasformati parzialmente, ampliati con moderazione o ricostruiti, purché siano stati eretti o modificati legalmente.[^24c-3]
 
-<sup>3</sup> Lo stesso vale per gli edifici abitativi agricoli e gli edifici annessi utilizzati a scopo di sfruttamento agricolo, eretti o trasformati legalmente prima che il fondo in questione diventasse parte della zona non edificabile ai sensi del diritto federale. Il Consiglio federale emana disposizioni al fine di evitare ripercussioni negative per l’agricoltura.[^24c-3]
+<sup>3</sup> Lo stesso vale per gli edifici abitativi agricoli e gli edifici annessi utilizzati a scopo di sfruttamento agricolo, eretti o trasformati legalmente prima che il fondo in questione diventasse parte della zona non edificabile ai sensi del diritto federale. Il Consiglio federale emana disposizioni al fine di evitare ripercussioni negative per l’agricoltura.[^24c-4]
 
-<sup>4</sup> L’aspetto esterno di un edificio può essere modificato soltanto se ciò è necessario per un’utilizzazione a scopo abitativo conforme agli standard attuali o per un risanamento energetico, oppure per migliorare l’integrazione dell’edificio nel paesaggio.[^24c-4]
+<sup>4</sup> L’aspetto esterno di un edificio può essere modificato soltanto se ciò è necessario per un’utilizzazione a scopo abitativo conforme agli standard attuali o per un risanamento energetico, oppure per migliorare l’integrazione dell’edificio nel paesaggio.[^24c-5]
 
-<sup>5</sup> In ogni caso è fatta salva la compatibilità con le importanti esigenze della pianificazione territoriale.[^24c-5]
+<sup>5</sup> In ogni caso è fatta salva la compatibilità con le importanti esigenze della pianificazione territoriale.[^24c-6]
 
-[^24c-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^24c-2]: Nuovo testo giusta il n. I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-3]: Introdotto dal n. I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-4]: Introdotto dal n. I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-5]: Introdotto dal n. I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-1]: Introdotto dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^24c-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^24c-3]: Nuovo testo giusta la cifra I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-4]: Introdotto dalla cifra I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-5]: Introdotto dalla cifra I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-6]: Introdotto dalla cifra I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+
+#### Art. 24c<sup>bis</sup>
+
+**Edifici in comprensori con insediamenti sparsi**[^24cbis-1]
+
+<sup>1</sup>
+
+In comprensori con abitati tradizionalmente sparsi, designati nel piano direttore cantonale e nei quali l’insediamento duraturo dev’essere rafforzato in vista dello sviluppo auspicato del territorio, i Cantoni possono autorizzare:
+
+- a. la modifica per scopi abitativi extra-agricoli dell’utilizzazione di edifici esistenti che comprendono abitazioni, se dopo la modifica gli edifici sono abitati tutto l’anno;
+- b. la modifica dell’utilizzazione di edifici o complessi di edifici esistenti che comprendono abitazioni per scopi del piccolo commercio locale; sono esercizi del piccolo commercio locale in particolare caseifici, aziende di lavorazione del legno, officine meccaniche, officine da fabbro ferraio, negozi di commercio al dettaglio, locande; la parte riservata all’esercizio del commercio non deve occupare di norma più della metà dell’edificio o del complesso di edifici esistenti.
+
+<sup>2</sup>
+
+Le autorizzazioni secondo il presente articolo possono essere rilasciate soltanto se:
+
+- a. l’edificio non è più necessario per l’utilizzazione anteriore conforme alla destinazione della zona o a ubicazione vincolata oppure si assicura che tale utilizzazione è mantenuta;
+- b. la nuova utilizzazione non comporta un edificio sostitutivo che non sia necessario;
+- c. l’aspetto esterno e la struttura edilizia basilare restano sostanzialmente immutati;
+- d. è necessaria tutt’al più una leggera estensione dell’urbanizzazione esistente e tutti i costi d’infrastruttura in relazione all’utilizzazione autorizzata sono a carico del proprietario;
+- e. la coltivazione agricola dei terreni circostanti non è minacciata; e
+- f. non vi si oppongono interessi preponderanti.
+
+<sup>3</sup> Per gli edifici che il 1° gennaio 1980 erano abitati tutto l’anno e che in virtù dell’articolo 24*c* sono protetti nella propria situazione di fatto può essere autorizzato un accesso, nei comprensori con insediamenti sparsi secondo il capoverso 1, a condizione che siano abitati tutto l’anno. I provvedimenti edili per realizzare l’accesso devono limitarsi al minimo indispensabile e non condurre all’impermeabilizzazione del suolo. Per ragioni di sicurezza, in caso di forte declività può essere autorizzato un rivestimento che impermeabilizza tutto o parte del terreno.
+
+[^24cbis-1]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24d
 
@@ -588,17 +720,18 @@ Il cambiamento totale di destinazione di edifici e impianti degni di protezione 
 Le autorizzazioni secondo il presente articolo possono essere rilasciate soltanto se:[^24d-6]
 
 - a. l’edificio o l’impianto non è più necessario all’utilizzazione anteriore, si presta all’utilizzazione prevista e non comporta un edificio sostitutivo che non sia necessario;
-- b. l’aspetto esterno e la struttura edilizia basilare restano sostanzialmente immutati;
+- b.[^24d-7] le caratteristiche essenziali dell’aspetto esterno, della struttura edilizia basilare e dei dintorni sono conservate;
 - c. è necessaria tutt’al più una leggera estensione dell’urbanizzazione esistente e il finanziamento di tutti i costi d’infrastruttura, causati dal cambiamento completo di destinazione dell’edificio o dell’impianto, sono ribaltati sul proprietario;
 - d. la coltivazione agricola dei terreni circostanti non è minacciata;
 - e. non vi si oppongono interessi preponderanti.
 
-[^24d-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^24d-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
-[^24d-3]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^24d-4]: Introdotto dal n. I della LF del 23 mar. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Abrogato dal n. I della LF del 22 mar. 2013, con effetto dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
-[^24d-5]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^24d-6]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24d-1]: Introdotto dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^24d-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2013, in vigore dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24d-3]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24d-4]: Introdotto dalla cifra I della LF del 23 mar. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Abrogato dalla cifra I della LF del 22 mar. 2013, con effetto dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24d-5]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24d-6]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24d-7]: Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24e
 
@@ -614,9 +747,10 @@ Le autorizzazioni secondo il presente articolo possono essere rilasciate soltant
 
 <sup>5</sup> Le autorizzazioni secondo il presente articolo possono essere rilasciate soltanto se sono adempite le condizioni di cui all’articolo 24*d* capoverso 3.
 
-<sup>6</sup> Il Consiglio federale disciplina i particolari. Definisce segnatamente il rapporto tra le possibilità di modifica secondo il presente articolo e quelle secondo gli articoli 24*c* e 24*d* capoverso 1.
+<sup>6</sup> Il Consiglio federale disciplina i dettagli. Definisce segnatamente il rapporto tra le possibilità di modifica secondo il presente articolo e quelle secondo l’articolo 24*c*. Può prevedere che la tenuta di animali a scopo di hobby non sia considerata un ampliamento dell’utilizzazione a scopo abitativo e che piccoli edifici annessi distrutti per cause di forza maggiore possano essere ricostruiti.[^24e-2]
 
-[^24e-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24e-1]: Introdotto dalla cifra I della LF del 22 mar. 2013, in vigore dal 1° mag. 2014 ([RU 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 5875](https://fedlex.data.admin.ch/eli/fga/2012/960)[5893](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24e-2]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 ### Sezione 3: Competenza e procedura
 
@@ -630,8 +764,14 @@ Le autorizzazioni secondo il presente articolo possono essere rilasciate soltant
 
 <sup>2</sup> Per tutti i progetti edilizi fuori delle zone edificabili, l’autorità cantonale competente decide se siano conformi alla zona o se un’eccezione possa essere autorizzata.[^25-2]
 
-[^25-1]: Introdotto dal n. I della LF del 6 ott. 1995 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^25-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+<sup>3 e <sup>4</sup></sup> ...[^25-3]
+
+<sup>5</sup> La pretesa al ripristino dello stato legale si prescrive in 30 anni. Il termine è osservato se il primo intervento dell’autorità competente è anteriore allo scadere di detto termine. La pretesa è imprescrittibile se sono minacciati beni di polizia, in particolare l’ordine, la quiete, la sicurezza o la salute pubblici.[^25-4]
+
+[^25-1]: Introdotto dalla cifra I della LF del 6 ott. 1995 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Nuovo testo giusta la cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^25-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^25-3]: Entrano in vigore il 1° lug. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-4]: Introdotto dalla cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 25a
 
@@ -652,7 +792,7 @@ L’autorità responsabile della coordinazione:
 
 <sup>4</sup> Questi principi sono applicabili per analogia alla procedura dei piani d’utilizzazione.
 
-[^25a-1]: Introdotto dal n. I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
+[^25a-1]: Introdotto dalla cifra I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 #### Art. 26
 
@@ -676,9 +816,9 @@ L’autorità responsabile della coordinazione:
 
 **Restrizioni dei Cantoni per costruzioni fuori delle zone edificabili**[^27a-1]
 
-La legislazione cantonale può prevedere restrizioni alle disposizioni degli articoli 16*a* capoverso 2, 24*b*, 24*c* e 24*d*.
+Il diritto cantonale può prevedere restrizioni alle disposizioni degli articoli 16*a* capoverso 2, 24*b*, 24*c*, 24*d* e 24*e*.
 
-[^27a-1]: Introdotto dal n. I della LF del 23 mar. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Nuovo testo giusta il n. I della LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [FF 2011 6315](https://fedlex.data.admin.ch/eli/fga/2011/1125)[6329](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^27a-1]: Introdotto dalla cifra I della LF del 23 mar. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 ## Titolo terzo: Sussidi federali
 
@@ -686,7 +826,7 @@ La legislazione cantonale può prevedere restrizioni alle disposizioni degli art
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. I della LF del 13 dic. 2002, con effetto dal 1° giu. 2003 ([RU 2003 1021](https://fedlex.data.admin.ch/eli/oc/2003/181); [FF 2002 6208](https://fedlex.data.admin.ch/eli/fga/2002/1110)).
+[^28-1]: Abrogato dalla cifra I della LF del 13 dic. 2002, con effetto dal 1° giu. 2003 ([RU 2003 1021](https://fedlex.data.admin.ch/eli/oc/2003/181); [FF 2002 6208](https://fedlex.data.admin.ch/eli/fga/2002/1110)).
 
 #### Art. 29
 
@@ -746,7 +886,7 @@ Il diritto cantonale garantisce:
 <sup>4</sup> Per l’impugnazione di decisioni pronunciate da autorità cantonali e alle quali è applicabile l’articolo 25*a* capoverso 1, occorre prevedere autorità di ricorso uniche.[^33-2]
 
 [^33-1]: Nuovo testo giusta il n. 64 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^33-2]: Introdotto dal n. I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
+[^33-2]: Introdotto dalla cifra I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 #### Art. 34
 
@@ -766,7 +906,7 @@ I Cantoni e i Comuni sono legittimati a ricorrere contro le decisioni cantonali 
 
 [^34-1]: Nuovo testo giusta il n. 64 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^34-2]: Ora: art. 24–24*e*.
-[^34-3]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^34-3]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^34-4]: Introdotto dal n. 5 dell’all. alla LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ## Titolo sesto: Disposizioni finali
@@ -786,10 +926,10 @@ I Cantoni provvedono affinché:
 
 <sup>3</sup> I piani d’utilizzazione vigenti al momento dell’entrata in vigore della presente legge rimangono validi secondo il diritto cantonale fintanto che non saranno approvati dall’autorità competente.[^35-4]
 
-[^35-1]: Nuovo testo giusta il n. II 27 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^35-2]: Abrogata dal n. II 27 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^35-3]: Abrogato dal n. II 27 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^35-4]: Nuovo testo giusta il n. II 27 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^35-1]: Nuovo testo giusta la cifra II n. 27 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^35-2]: Abrogata dalla cifra II n. 27 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^35-3]: Abrogato dalla cifra II n. 27 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^35-4]: Nuovo testo giusta la cifra II n. 27 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 36
 
@@ -801,7 +941,7 @@ I Cantoni provvedono affinché:
 
 <sup>3</sup> In assenza di zone edificabili e salvo diversa disposizione del diritto cantonale, il comprensorio già largamente edificato vale quale zona edificabile provvisoria.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 23 mar. 2007, in vigore dal 1° set. 2007 ([RU 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6303](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 
 #### Art. 37
 
@@ -817,7 +957,7 @@ I Cantoni provvedono affinché:
 
 Il Consiglio federale stabilisce a quali condizioni sono autorizzati i cambiamenti di destinazione degli edifici e impianti utilizzati a scopi commerciali eretti prima del 1° gennaio 1980 o non più conformi alla destinazione della zona in seguito a modifica dei piani d’utilizzazione.
 
-[^37a-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^37a-1]: Introdotto dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° set. 2000 ([RU 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 457](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 
 #### Art. 38
 
@@ -827,7 +967,7 @@ Il Consiglio federale stabilisce a quali condizioni sono autorizzati i cambiamen
 
 <sup>2</sup> Scaduto questo termine non saranno autorizzate abitazioni secondarie fino a quando i Cantoni e i Comuni non avranno adottato i necessari provvedimenti.
 
-[^38-1]: [RU 2011 2913](https://fedlex.data.admin.ch/eli/oc/2011/377); [FF 2007 5293](https://fedlex.data.admin.ch/eli/fga/2007/793). Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^38-1]: [RU 2011 2913](https://fedlex.data.admin.ch/eli/oc/2011/377); [FF 2007 5293](https://fedlex.data.admin.ch/eli/fga/2007/793). Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 #### Art. 38a
 
@@ -843,7 +983,7 @@ Il Consiglio federale stabilisce a quali condizioni sono autorizzati i cambiamen
 
 <sup>5</sup> Scaduto il termine di cui al capoverso 4, non è ammessa la delimitazione di nuove zone edificabili finché il Cantone interessato non dispone di un’adeguata compensazione secondo i requisiti dell’articolo 5. Il Consiglio federale designa tali Cantoni dopo averli sentiti.
 
-[^38a-1]: Introdotto dal n. I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^38a-1]: Introdotto dalla cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 #### Art. 39
 

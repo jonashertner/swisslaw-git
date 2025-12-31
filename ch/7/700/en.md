@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 1979 on Spatial Planning (Spatial Planning Act, S
 short: SPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: en
-version: 2019-01-01
+version: 2026-01-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20190101/en/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20190101-en-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20190101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/en/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Spatial Planning Act, SPA)[^t-1]
 
-of 22 June 1979 (Status as of 1 January 2019)
+of 22 June 1979 (Last amended on 1 January 2026)
 
 [^t-1]: Amended by No 1 of the FA of 6 Oct. 1995, in force since 1 Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
@@ -62,7 +62,7 @@ By means of spatial and regional planning measures, they shall in particular sup
 
 #### Art. 2
 
-**Planning obligation**
+**Planning requirements**
 
 <sup>1</sup> The Confederation, cantons and communes shall plan their activities that have a spatial impact, and coordinate their planning efforts.
 
@@ -105,9 +105,12 @@ Appropriate locations must be chosen for buildings and installations which are p
 - b. facilities such as schools, recreational centres and public services should be easily accessible to inhabitants;
 - c. adverse impacts on the natural environment, the population and the economy should be avoided or minimised.
 
+<sup>5</sup> The uses of the subsurface—particularly the use of groundwater, raw materials, energy, and areas suitable for construction—must be coordinated with one another at an early stage, as well as with overground uses and competing interests.[^3-4]
+
 [^3-1]: Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^3-2]: Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^3-3]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^3-4]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 4
 
@@ -123,32 +126,33 @@ Appropriate locations must be chosen for buildings and installations which are p
 
 **Compensation**
 
-<sup>1</sup> Cantonal legislation shall regulate appropriate compensation procedures for major advantages and disadvantages resulting from planning under this Act.
+<sup>1</sup> Cantonal legislation shall establish a compensation procedure for major advantages and disadvantages resulting from planning under this Act. The minimum requirements are governed by paragraphs 1<sup>bis</sup>−1<sup>sexies</sup>.[^5-1]
 
-<sup>1bis</sup> Planning advantages shall be compensated for at a rate of at least 20 per cent. Compensation becomes due on the development or disposal of the parcel of land. Cantonal law shall organise the compensation system at least so as to compensate for the added value attributable to permanently assigning land to a building zone.[^5-1]
+<sup>1bis</sup> Advantages resulting from land being newly and permanently designated as a building zone shall be compensated for at a rate of at least 20 per cent. Compensation becomes due on the development or disposal of the land.[^5-2]
 
-<sup>1ter</sup> The proceeds shall be used for measures under paragraph 2 or for other spatial planning measures under Article 3, in particular paragraphs 2 letter a and 3 letter a<sup>bis</sup>.[^5-2]
+<sup>1ter</sup> The proceeds shall be used for measures under paragraph 2 or for other spatial planning measures under Article 3, in particular paragraphs 2 letter a and 3 letter a<sup>bis</sup>.[^5-3]
 
-<sup>1quater</sup> In calculating the charge, the planning advantage resulting from being assigned to a building zone shall be reduced by the amount paid within a reasonable period to acquire a replacement agricultural building for personal use.[^5-3]
+<sup>1quater</sup> In calculating the compensation charged, the advantage resulting from being assigned to a building zone shall be reduced by the amount paid within a reasonable period to acquire a replacement agricultural building for personal use.[^5-4]
 
 <sup>1quinquies</sup>
 
-Cantonal law may waive the charge if:
+Cantonal law may waive the charging of compensation if:
 
 - a. a local authority would be liable to pay; or
-- b. the anticipated income from the charge does not justify the cost of its collection.[^5-4]
+- b. the anticipated income from the compensation charged does not justify the cost of its collection.[^5-5]
 
-<sup>1sexies</sup> The charge paid may be deducted from the gain as an allowable expense when calculating any capital gains tax on land.[^5-5]
+<sup>1sexies</sup> The compensation paid may be deducted from any profit as an allowable expense when calculating any capital gains tax on land.[^5-6]
 
 <sup>2</sup> Full compensation shall be paid if planning activities lead to restrictions of title which amount to expropriation.
 
-<sup>3</sup> The cantons may require that the payment of compensation in the case of restrictions of title must be entered in the Land Register.
+<sup>3</sup> The cantons may require that the payment of compensation in the case of restrictions of title be entered in the Land Register.
 
-[^5-1]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^5-2]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-1]: Second sentence inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^5-2]: Inserted by No I of the FA of 15 June 2012 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)) Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^5-3]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-4]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-5]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-6]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 ## Title 2 Spatial and Regional Planning Measures
 
@@ -231,7 +235,7 @@ The structure plan shall define the following in relation to settlements:
 - d. how it will be guaranteed that building zones meet the requirements of Article 15; and
 - e. how settlement renewal will be increased.
 
-<sup>2</sup> and <sup>3</sup>…[^8a-2]
+<sup>2 and <sup>3</sup></sup> …[^8a-2]
 
 [^8a-1]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^8a-2]: Originally Art. 8 para. 2 und 3. Inserted by No I of the FA of 17 Dec. 2010 ([AS 2011 2913](https://fedlex.data.admin.ch/eli/oc/2011/377); [BBl 2007 5765](https://fedlex.data.admin.ch/eli/fga/2007/793)). Repealed by Art. 24 No 2 of the Second Homes Act of 20 March 2015, with effect from 1 Jan. 2016 ([AS 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886); [BBl 2014 2287](https://fedlex.data.admin.ch/eli/fga/2014/409)).
@@ -326,9 +330,12 @@ Land may be assigned to a building zone for the first time if:
 - d. its availability is guaranteed by law; and
 - e. the requirements of the structure plans are met thereby.
 
+<sup>4bis</sup> When designating or rezoning areas, the cantons may designate areas within zones in which odour regulations continue to correspond to the original land use, thereby allowing existing agricultural and commercial operations to continue, be updated and adapted to improve animal welfare.[^15-2]
+
 <sup>5</sup> The Confederation and cantons shall together draw up technical guidelines for assigning land to building zones, and in particular for calculating the area required.
 
 [^15-1]: Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^15-2]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 15a
 
@@ -355,7 +362,14 @@ Agricultural zones shall ensure the long-term use of the land for food, the cons
 
 <sup>3</sup> The cantons shall take appropriate account of the various functions of the agricultural zones in their planning activities.
 
+<sup>4</sup> In agricultural zones, agriculture and its needs take precedence over non-agricultural uses.[^16-2]
+
+<sup>5</sup> The Federal Council shall specify the cases in which exemptions from the provisions of the Environmental Protection Act of 7 October 1983[^16-3] are permitted outside building zones with regard to ambient levels of odours and noise from agriculture, in order to ensure the priority of agriculture.[^16-4]
+
 [^16-1]: Amended by No 1 of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^16-2]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^16-3]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^16-4]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 16a
 
@@ -363,23 +377,30 @@ Agricultural zones shall ensure the long-term use of the land for food, the cons
 
 <sup>1</sup> Buildings and installations shall conform to zone requirements if they are required for agricultural or horticultural use. This is without prejudice to the narrower definition of zone conformity in the context of Article 16 paragraph 3.
 
-<sup>1bis</sup> A permit may be granted for buildings and installations at an agricultural concern that are required for the production of energy from biomass or for connected composting facilities on the basis that they conform to zone requirements if the processed biomass is closely linked to the agricultural operations and to the operations at the location. Permits must be made conditional on the buildings or installations being used only for the permitted purpose. The Federal Council shall regulate the details.[^16a-2]
+<sup>1bis</sup>
 
-<sup>2</sup> Buildings and installations that serve the internal expansion of an agricultural or horticultural concern are in conformity with zone requirements. The Federal Council shall regulate the details.[^16a-3]
+Buildings and installations at farms that are required for the production of energy from biomass or for connected composting facilities shall be deemed be in conformity with zone requirements and are not subject to planning requirements provided:
 
-<sup>3</sup> Buildings and installations that serve a purpose beyond the internal expansion of an agricultural or horticultural concern may be deemed to conform to zone requirements if they are to be constructed in an exempted area within the agricultural zone, as determined by the canton in a planning procedure.
+- a. the processed biomass is closely linked to the agricultural or forestry operations carried out on the farm or on nearby farms;
+- b. a maximum of 45,000 tons of substrate may be used annually; and
+- c. the buildings or installations are used only for the permitted purpose.[^16a-2]
+
+<sup>2</sup> Buildings and installations that serve the internal expansion of a farm or horticultural business shall be deemed to conform with zone requirements. In the case of livestock farming, the permitted extent of internal expansion shall be determined on the basis of the contribution margin or the dry matter potential.[^16a-3] The Federal Council shall regulate the details.[^16a-4]
+
+<sup>3</sup> Buildings and installations that serve a purpose beyond the internal expansion of an agricultural or horticultural concern may be deemed be in conformity with zone requirements if they are to be constructed in an exempted area within the agricultural zone, as determined by the canton in a planning procedure.
 
 [^16a-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
-[^16a-2]: Inserted by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^16a-3]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2000 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^16a-2]: Inserted by No I of the FA of 23 March 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Amended by No III of the FA of 29 Sept. 2023 on a Secure Energy Supply from Renewable Energy Sources, in force since 1 Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^16a-3]: Second sentence inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^16a-4]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2000 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 
 #### Art. 16a<sup>bis</sup>
 
 **Buildings and installations for keeping and using horses**[^16abis-1]
 
-<sup>1</sup> Buildings and installations that are required for keeping horses shall be authorised as conforming to zone requirements if they form part of an existing agricultural business as defined in the Federal Act of 4 October 1991[^16abis-2] on Rural Land Rights, provided the business produces most of its own fodder and has pastures for keeping horses.
+<sup>1</sup> Buildings and installations that are required for keeping horses shall be authorised as conforming to zone requirements if they form part of an existing farm as defined in the Federal Act of 4 October 1991[^16abis-2] on Rural Land Rights, provided the farm produces most of its own fodder and has pastures for keeping horses.
 
-<sup>2</sup> A permit may be granted for areas with compacted ground where the horses kept by the business are used.
+<sup>2</sup> A permit may be granted for areas with compacted ground where the horses kept by the farm are used.
 
 <sup>3</sup> A permit shall be granted for facilities directly related to using horses such as tack rooms or changing rooms.
 
@@ -428,22 +449,28 @@ Protection zones shall include:
 
 #### Art. 18a
 
-**Solar installations**[^18a-1]
+**Solar installations and energy-related redevelopment projects[^18a-2]**[^18a-1]
 
-<sup>1</sup> In construction and agricultural zones, solar panels on roofs which are sufficiently unobtrusive do not require a building permit in accordance with Article 22 paragraph 1. The competent authorities must merely be notified of such installations.
+<sup>1</sup> In construction and agricultural zones, solar panels on roofs or on facades which are sufficiently unobtrusive do not require a building permit in accordance with Article 22 paragraph 1.[^18a-3] The competent authorities must merely be notified of such installations.
 
 <sup>2</sup>
 
 Cantonal law may:
 
-- a. determine specific, less aesthetically sensitive types of building zone in which other solar installations may also be erected without planning permission;
+- a.[^18a-4] determine specific, less aesthetically sensitive types of building zone in which other solar installations and energy-related redevelopment projects are permitted without a building permit being required;
 - b. require a building permit in clearly described types of protection zone.
+
+<sup>2bis</sup> In building zones, structures for the generation of solar energy above and along the boundaries of parking areas with 15 or more parking spaces are generally deemed be in conformity with zone requirements. Communes may, as part of their land-use planning, designate parking areas where such structures are not permitted or are permitted only under certain conditions. They may declare such structures to be generally in conformity with zone requirements on all or part of parking areas with fewer than 15 parking spaces.[^18a-5]
 
 <sup>3</sup> Solar installations on cultural and natural monuments of cantonal or national importance always require a building permit. They may not be detrimental to the monuments to any significant degree.
 
 <sup>4</sup> In all other cases, in principle the interests of solar energy use on existing or new buildings outweigh aesthetic considerations.
 
 [^18a-1]: Inserted by No II of the FA of 22 June 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^18a-2]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18a-3]: Amended by No III of the FA of 29. Sept. 2023 on a Secure Energy Supply from Renewable Energy Sources, in force since 1 Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^18a-4]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18a-5]: Inserted by No III of the FA of 29. Sept. 2023 on a Secure Energy Supply from Renewable Energy Sources, in force since 1 Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 19
 
@@ -464,7 +491,11 @@ Cantonal law may:
 
 Land reorganisation may be officially ordered and carried out if this is required by the land use plans.
 
-### Section 2 Effects
+### Section 2 General Effects
+
+[^tit2-chap3-sec2-1]
+
+[^tit2-chap3-sec2-1]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 21
 
@@ -495,16 +526,90 @@ The basic requirement for a permit is:
 
 Cantonal legislation regulates exceptions within the building zones.
 
+### Section 2*a* Exceptional Permits outside Building Zones
+
+[^tit2-chap3-sec2a-1]
+
+[^tit2-chap3-sec2a-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
 #### Art. 24
 
-**Exceptions for buildings and installations outside building zones**[^24-1]
+**Site-specific buildings and installations[^24-2]**[^24-1]
+
+<sup>1</sup>
 
 Notwithstanding Article 22 paragraph 2a, permits to erect buildings and installations or to modify their purpose may be granted:
 
 - a. if the purpose of the buildings and installations necessitates their location outside the building zones; and
 - b. if there are no overriding interests to the contrary.
 
+<sup>2</sup> The Federal Council may permit energy-related redevelopment projects that are not provided for in any other provision.[^24-3]
+
 [^24-1]: Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^24-2]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^24-3]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24<sup>bis</sup>
+
+**Combination of infrastructure installations and mobile communications installations**[^24bis-1]
+
+<sup>1</sup> Infrastructure installations must be combined wherever possible. The Federal Council shall specify the requirements by which mobile communications installations on existing or new infrastructure installations are deemed to be site-specific, subject to Article 24 paragraph 1 letter b.
+
+<sup>2</sup> Mobile communications installations may be permitted outside building zones provided a comprehensive balancing of interests indicates that a location outside the building zones is significantly more advantageous than a location within the building zones.
+
+<sup>3</sup> Modifications, upgrades and expansions of existing mobile communications installations outside the building zone shall be deemed to be site-specific.
+
+[^24bis-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24<sup>ter</sup>
+
+**Solar installations not of national importance**[^24ter-1]
+
+<sup>1</sup>
+
+Solar installations that are not of national importance and which are located on open land outside the building zone and outside usable agricultural areas shall be deemed to be site-specific if:
+
+- a. they are built in less sensitive areas or in areas already occupied by other buildings and installations; and
+- b. the cost of developing the properties concerned and of connecting the installation to the electricity grid is reasonable in view of the capacity of the installation.
+
+<sup>2</sup>
+
+Solar installations located on usable agricultural land shall be deemed to be site-specific provided:
+
+- a. in addition to producing electricity, they do not compromise agricultural interests and provide advantages for agricultural production; or
+- b. they serve agricultural experimental and research purposes.
+
+<sup>3</sup> When the installations are taken out of service, they must be dismantled and the site restored to its original condition.
+
+<sup>4</sup> The Federal Council shall regulate the details, taking account of the need for new capacities pursuant to Article 2 of the Energy Act of 30 September 2016[^24ter-2], and in particular the guarantee of funding for measures in accordance with paragraph 3.
+
+[^24ter-1]: Originally Art. 24<sup>bis</sup>. Inserted by No III of the FA of 29. Sept. 2023 on a Secure Energy Supply from Renewable Energy Sources, in force since 1 Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^24ter-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 24<sup>quater</sup>
+
+**Other buildings and installations for harnessing renewable energies**[^24quater-1]
+
+<sup>1</sup> Installations for generating energy from biomass and installations for converting renewable energy into hydrogen, methane, or other synthetic hydrocarbons shall also be permitted outside building zones to the extent that this is deemed appropriate for ensuring a secure supply of renewable energy.
+
+<sup>2</sup>
+
+The Federal Council shall regulate the requirements by which these installations in less sensitive or occupied areas are deemed to be site-specific. In doing so, it shall take the following in particular into consideration:
+
+- a. the existing level of infrastructure, in particular existing gas connections in the case of installations for generating energy from biomass;
+- b. the proximity to an installation that produces renewable electricity in the case of facilities that convert renewable energy into hydrogen or hydrocarbons.
+
+<sup>3</sup> It may specify the size and significance thresholds at which buildings and installation become subject to planning requirements.
+
+[^24quater-1]: Originally Art. 24<sup>ter</sup>. Inserted by No III of the FA of 29. Sept. 2023 on a Secure Energy Supply from Renewable Energy Sources, in force since 1 Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 24<sup>quinquies</sup>
+
+**Buildings and installations for thermal networks**[^24quinquies-1]
+
+Thermal networks that contribute to reducing consumption of non-renewable energies may be permitted outside building zones if necessary. The Federal Council shall regulate the details.
+
+[^24quinquies-1]: Inserted by No I und II of the FA of 29. Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24a
 
@@ -525,19 +630,19 @@ If the change in purpose of a building or installation outside the building zone
 
 **Non-agricultural subsidiary operations outside building zones**[^24b-1]
 
-<sup>1</sup> Should an agricultural business within the meaning of the Federal Act of 4 October 1991[^24b-2] on Rural Land Rights be unable to survive without an additional source of income, a permit may be granted for construction work related to a non-agricultural subsidiary operation which is closely related to the primary concern and located in existing buildings and installations.[^24b-3] The requirement set out in Article 24*a* need not be met.
+<sup>1</sup> Should a farm as defined in the Federal Act of 4 October 1991[^24b-2] on Rural Land Rights be unable to survive without an additional source of income, a permit may be granted for construction work related to a non-agricultural subsidiary operation which is closely related to the primary concern and located in existing buildings and installations.[^24b-3] The requirement set out in Article 24*a* need not be met.
 
-<sup>1bis</sup> Irrespective of whether an additional source of income is required, a permit may be granted for subsidiary operations with a close practical connection to an agricultural business; for this purpose, a permit may be granted for modest expansions where no space or insufficient space is available in the existing buildings and installations.[^24b-4]
+<sup>1bis</sup> Irrespective of whether an additional source of income is required, a permit may be granted for subsidiary operations with a close practical connection to the farm; for this purpose, a permit may be granted for modest expansions where no space or insufficient space is available in the existing buildings and installations.[^24b-4]
 
 <sup>1ter</sup> In the case of temporary operating centres, a permit may be granted for construction work only in the existing buildings and installations and only for subsidiary operations offering accommodation and restaurant services.[^24b-5]
 
 <sup>1quater</sup> In order to avoid distortions of competition, non-agricultural subsidiary operations must satisfy the same statutory requirements and general conditions as commercial operations in similar situations in the building zone.[^24b-6]
 
-<sup>2</sup> The subsidiary operation may be run only by the manager of the agricultural business or his or her spouse or cohabitee. Employees who work mainly or exclusively for the subsidiary operation may only be employed for subsidiary operations in accordance with paragraph 1<sup>bis</sup>. In every case, the work of this part of the business must be predominantly carried out by the managing family.[^24b-7]
+<sup>2</sup> The subsidiary operation may be run only by the manager of the farm or their spouse or cohabitee. Employees who work mainly or exclusively for the subsidiary operation may only be employed for subsidiary operations in accordance with paragraph 1<sup>bis</sup>. In every case, the work of this part of the business must be predominantly carried out by the managing family.[^24b-7]
 
 <sup>3</sup> The existence of the subsidiary operation must be recorded in the Land Register.
 
-<sup>4</sup> Non-agricultural subsidiary operations constitute integral parts of the agricultural business and are subject to the prohibition of division and fragmentation of property pursuant to Articles 58–60 of the Federal Act of 4 October 1991 on Rural Land Rights.
+<sup>4</sup> Non-agricultural subsidiary operations constitute integral parts of the farm and are subject to the prohibition of division and fragmentation of property pursuant to Articles 58–60 of the Federal Act of 4 October 1991 on Rural Land Rights.
 
 <sup>5</sup> The provisions of the Federal Act of 4 October 1991 on Rural Land Rights with respect to non-agricultural businesses do not apply to subsidiary operations.
 
@@ -551,23 +656,50 @@ If the change in purpose of a building or installation outside the building zone
 
 #### Art. 24c
 
-**Existing buildings and installations in breach of zone requirements outside building zones**[^24c-1]
+**Buildings and installations subject to the previous law[^24c-2]**[^24c-1]
 
-<sup>1</sup> Buildings and installations outside building zones that may be used in accordance with the law but which no longer conform to zone requirements are in principle protected in their current state.
+<sup>1</sup> Buildings and installations outside building zones that comply with their intended use but which no longer conform to zone requirements are in principle protected in their current state.
 
-<sup>2</sup> Such buildings and installations may, with the permission of the competent authority, be renovated, partially modified, moderately expanded or reconstructed, provided they have been lawfully constructed or modified.[^24c-2]
+<sup>2</sup> Such buildings and installations may, with the permission of the competent authority, be renovated, partially modified, moderately expanded or reconstructed, provided they have been lawfully constructed or modified.[^24c-3]
 
-<sup>3</sup> The foregoing also applies to farmhouses and attached commercial buildings that have been lawfully constructed or modified before the parcel of land concerned become part of the area where building is not permitted in accordance with federal law. The Federal Council shall issue regulations in order to prevent negative consequences for agriculture.[^24c-3]
+<sup>3</sup> The foregoing also applies to farmhouses and attached commercial buildings that have been lawfully constructed or modified before the parcel of land concerned become part of the area where building is not permitted in accordance with federal law. The Federal Council shall issue regulations in order to prevent negative consequences for agriculture.[^24c-4]
 
-<sup>4</sup> Changes to external appearance must be necessary to enable modern residential use or to upgrade energy efficiency or so as to blend more harmoniously into the landscape.[^24c-4]
+<sup>4</sup> Changes to external appearance must be necessary to enable modern residential use or to upgrade energy efficiency or so as to blend more harmoniously into the landscape.[^24c-5]
 
-<sup>5</sup> Every case is subject to compatibility with the priority concerns of spatial planning.[^24c-5]
+<sup>5</sup> Every case is subject to compatibility with the priority concerns of spatial planning.[^24c-6]
 
 [^24c-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
-[^24c-2]: Amended by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-3]: Inserted by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-2]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^24c-3]: Amended by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
 [^24c-4]: Inserted by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
 [^24c-5]: Inserted by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-6]: Inserted by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+
+#### Art. 24c<sup>bis</sup>
+
+**Buildings in scattered settlement areas**[^24cbis-1]
+
+<sup>1</sup>
+
+In areas traditionally built as scattered settlements the size of which is defined in the cantonal structure plan and in which it is planned to increase permanent settlement with a view to achieving the desired spatial development, the cantons may permit:
+
+- a. a change in use of existing buildings that contain containing residential units to non-agricultural residential use, provided that they are occupied year-round following the change;
+- b. a change in use of existing buildings or complexes of buildings that contain residential units to use as local small business premises; local small businesses include in particular cheese dairies, carpentry workshops, mechanical workshops, metalworking shops, retail stores, and public houses; as a general rule, the commercial portion may not occupy more than half of the building or building complex.
+
+<sup>2</sup>
+
+Permits pursuant to this Article shall only be grated if:
+
+- a. the building is no longer required for the previous purpose that was in conformity with zone requirements or site-specific, or it is guaranteed that it will continue to serve this purpose;
+- b. the new use will not result in the unnecessary construction of a replacement building;
+- c. the external appearance and the basic structure of the building remain essentially unchanged;
+- d. no more than a minor extension of existing infrastructure is necessary and all infrastructure costs incurred as a result of the complete change of purpose of the buildings and installations will be passed on to their owners;
+- e. the agricultural cultivation of the surrounding land is not endangered; and
+- f. there are no overriding interests to the contrary.
+
+<sup>3</sup> In scattered settlement areas in accordance with paragraph 1, an access road may be permitted for buildings that were occupied year-round on 1 January1980 and which are protected in their current state pursuant to Article 24*c*, provided they are occupied year-round. The access road must be limited in its structure to the minimum and must not seal the ground. On steep slopes, a sealed road surface may be permitted for safety purposes along the entire road or in certain sections.
+
+[^24cbis-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24d
 
@@ -588,10 +720,10 @@ A complete change of purpose of buildings and installations that have been recog
 
 Permits under this Article may be issued only if:[^24d-6]
 
-- a. the building or installation is no longer required for its previous purpose, is suitable for the intended use, and no unnecessary replacement buildings will result;
-- b. the external appearance and the basic structure of the building remain essentially unchanged;
+- a. the building or installation is no longer required for its previous purpose, is suitable for the intended use, and no unnecessary replacement buildings will be constructed;
+- b.[^24d-7] the external appearance and the basic structure of the building and its surroundings remain essentially unchanged;
 - c. no more than a minor extension of existing infrastructure is necessary and all infrastructure costs incurred as a result of the complete change of purpose of the buildings and installations will be passed on to their owners;
-- d. the agricultural cultivation of the surrounding land is not endangered;
+- d. the agricultural cultivation of the surrounding land is not endangered; and
 - e. there are no overriding interests to the contrary.
 
 [^24d-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
@@ -600,24 +732,26 @@ Permits under this Article may be issued only if:[^24d-6]
 [^24d-4]: Inserted by No I of the FA of 23 March 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Repealed by No I of the FA of 22 March 2013, with effect from 1 May 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^24d-5]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^24d-6]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24d-7]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24e
 
-**Keeping animals as a hobby**[^24e-1]
+**Keeping livestock as a hobby**[^24e-1]
 
-<sup>1</sup> Provided the essential character of the buildings is preserved, construction work shall be permitted in uninhabited buildings or parts of buildings where they are used by residents of an adjacent residential building for the purpose of keeping animals as a hobby and animal welfare standards are respected.
+<sup>1</sup> Provided the essential character of the buildings is preserved, construction work shall be permitted in uninhabited buildings or parts of buildings where they are used by residents of an adjacent residential building for the purpose of keeping livestock as a hobby and animal welfare standards are respected.
 
-<sup>2</sup> New outdoor installations may be permitted in terms of paragraph 1 if they are necessary for keeping animals in accordance with animal welfare standards. Such installations may be larger than the statutory minimum size provided this is compatible with the main aspects of spatial planning and the installation is a reversible construction.
+<sup>2</sup> New outdoor installations may be permitted in terms of paragraph 1 if they are necessary for keeping livestock in accordance with animal welfare standards. Such installations may be larger than the statutory minimum size provided this is compatible with the main aspects of spatial planning and the installation is a reversible construction.
 
-<sup>3</sup> The outdoor installations may be used for keeping animals as a hobby provided no structural alterations are required and there is no new impact on the surrounding area and the environment.
+<sup>3</sup> The outdoor installations may be used for keeping livestock as a hobby provided no structural alterations are required and there is no new impact on the surrounding area and the environment.
 
-<sup>4</sup> If animals are kept in a building zone, permission shall also be given to fenced-in areas for grazing purposes provided there is no negative impact on the landscape.
+<sup>4</sup> If livestock are kept in a building zone, permission shall also be given to fenced-in areas for grazing purposes provided there is no negative impact on the landscape.
 
 <sup>5</sup> Permits in accordance with this Article may only be given if the requirements of Article 24*d* paragraph 3 are met.
 
-<sup>6</sup> The Federal Council shall regulate the details. In particular it shall define the relationship between the modifications possible under this Article and those under Article 24*c* and Article 24*d* paragraph 1.
+<sup>6</sup> The Federal Council shall regulate the details. In particular it shall define the relationship between the modifications possible under this Article and those under Article 24*c*. It may provide that keeping small animals as a hobby is not deemed to be an extension of residential use and that small outbuildings that have been destroyed by force majeure may be rebuilt.[^24e-2]
 
 [^24e-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 May 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24e-2]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 ### Section 3 Responsibilities and Procedures
 
@@ -631,8 +765,14 @@ Permits under this Article may be issued only if:[^24d-6]
 
 <sup>2</sup> In the case of any building projects outside the building zones the competent cantonal authority shall decide if they meet zone requirements or if an exceptional permit may be issued.[^25-2]
 
-[^25-1]: Inserted by No I of the FA of 6 Oct. 1995 (AS**1996** 965; [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)) Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+<sup>3 and <sup>4</sup></sup> ...[^25-3]
+
+<sup>5</sup> The right to restore to the lawful state is subject to a 30-year statute of limitations. The time limit is deemed to have been met if the competent authority takes action for the first time before expiry of the time limit. No statute of limitations applies if public interests, in particular public order, peace, safety and security or health, are at risk.[^25-4]
+
+[^25-1]: Inserted by No I of the FA of 6 Oct. 1995 (AS**1996** 965; [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
 [^25-2]: Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^25-3]: Come into force on 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-4]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 25a
 
@@ -677,9 +817,9 @@ The authority responsible for coordination:
 
 **Restrictive cantonal provisions on building outside the building zone**[^27a-1]
 
-Restrictive provisions relating to Articles 16*a* paragraph 2, 24*b*, 24*c* paragraph 2 and 24*d* may be issued under cantonal legislation.
+Cantonal law may provide for restrictive provisions relating to Articles 16*a* paragraph 2, 24*b*, 24*c*, 24*d* and 24*e*.
 
-[^27a-1]: Inserted by No I of the FA of 23 March 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Amended by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^27a-1]: Inserted by No I of the FA of 23 March 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 ## Title 3 Federal Subsidies
 
@@ -761,13 +901,14 @@ Cantons and communes are entitled to appeal against decisions made by ultimate c
 
 - a. compensation resulting from restrictions of title (Art. 5);
 - b. the conformity of buildings and installations to zone regulations;
-- c. permits in accordance with Articles 24–24*d* and 37*a*.[^34-2]
+- c. permits in accordance with Articles 24–24*d*[^34-2] and 37*a*.[^34-3]
 
-<sup>3</sup> The Federal Office for Agriculture has the right to appeal against decisions on projects that affect crop rotation areas.[^34-3]
+<sup>3</sup> The Federal Office for Agriculture has the right to appeal against decisions on projects that affect crop rotation areas.[^34-4]
 
 [^34-1]: Amended by Annex No 64 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^34-2]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^34-3]: Inserted by Annex No 5 of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^34-2]: Now Arts 24–24*e*.
+[^34-3]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^34-4]: Inserted by Annex No 5 of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ## Title 6 Final Provisions
 

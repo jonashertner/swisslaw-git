@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz
 short: RPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: de
-version: 2019-01-01
+version: 2026-01-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20190101-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20190101/de"
 
 (Raumplanungsgesetz, RPG)[^t-1]
 
-vom 22. Juni 1979 (Stand am 1. Januar 2019)
+vom 22. Juni 1979 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 22<sup>quater</sup> und 34<sup>sexies</sup> der Bundes
 
 beschliesst:
 
-[^ingress-1]: [[AS 1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267), [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)]. Den genannten Bestimmungen entsprechen heute die Art. 41, 75, 108 und 147 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^ingress-1]: [[AS 1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267); [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)]. Den genannten Bestimmungen entsprechen heute die Art. 41, 75, 108 und 147 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 6. Okt. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 [^ingress-3]: [BBl 1978 I 1006](https://fedlex.data.admin.ch/eli/fga/1978/1_1006_1007_959)
 
@@ -56,7 +56,7 @@ Sie unterstützen mit Massnahmen der Raumplanung insbesondere die Bestrebungen:
 [^1-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-3]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-4]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^1-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^1-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 2
 
@@ -103,9 +103,12 @@ Für die öffentlichen oder im öffentlichen Interesse liegenden Bauten und Anla
 - b. Einrichtungen wie Schulen, Freizeitanlagen oder öffentliche Dienste für die Bevölkerung gut erreichbar sein;
 - c. nachteilige Auswirkungen auf die natürlichen Lebensgrundlagen, die Bevölkerung und die Wirtschaft vermieden oder gesamthaft gering gehalten werden.
 
+<sup>5</sup> Die Nutzungen des Untergrundes, insbesondere die Nutzungen von Grundwasser, Rohstoffen, Energie und baulich nutzbaren Räumen, sind frühzeitig aufeinander sowie auf die oberirdischen Nutzungen und die entgegenstehenden Interessen abzustimmen.[^3-4]
+
 [^3-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^3-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^3-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^3-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 4
 
@@ -121,32 +124,33 @@ Für die öffentlichen oder im öffentlichen Interesse liegenden Bauten und Anla
 
 **Ausgleich und Entschädigung**
 
-<sup>1</sup> Das kantonale Recht regelt einen angemessenen Ausgleich für erhebliche Vor- und Nachteile, die durch Planungen nach diesem Gesetz entstehen.
+<sup>1</sup> Das kantonale Recht regelt einen angemessenen Ausgleich für erhebliche Vor- und Nachteile, die durch Planungen nach diesem Gesetz entstehen. Die Mindestanforderungen richten sich nach den Absätzen 1<sup>bis</sup>−1<sup>sexies</sup>.[^5-1]
 
-<sup>1bis</sup> Planungsvorteile werden mit einem Satz von mindestens 20 Prozent ausgeglichen. Der Ausgleich wird bei der Überbauung des Grundstücks oder dessen Veräusserung fällig. Das kantonale Recht gestaltet den Ausgleich so aus, dass mindestens Mehrwerte bei neu und dauerhaft einer Bauzone zugewiesenem Boden ausgeglichen werden.[^5-1]
+<sup>1bis</sup> Planungsvorteile, die sich aus neu und dauerhaft einer Bauzone zugewiesenem Boden ergeben, werden mit einem Satz von mindestens 20 Prozent ausgeglichen. Der Ausgleich wird bei der Überbauung des Grundstücks oder dessen Veräusserung fällig.[^5-2]
 
-<sup>1ter</sup> Der Ertrag wird für Massnahmen nach Absatz 2 oder für weitere Massnahmen der Raumplanung nach Artikel 3, insbesondere Absätze 2 Buchstabe a und 3 Buchstabe a<sup>bis</sup>, verwendet.[^5-2]
+<sup>1ter</sup> Der Ertrag wird für Massnahmen nach Absatz 2 oder für weitere Massnahmen der Raumplanung nach Artikel 3, insbesondere Absätze 2 Buchstabe a und 3 Buchstabe a<sup>bis</sup>, verwendet.[^5-3]
 
-<sup>1quater</sup> Für die Bemessung der Abgabe ist der bei einer Einzonung errechnete Planungsvorteil um den Betrag zu kürzen, welcher innert angemessener Frist zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.[^5-3]
+<sup>1quater</sup> Für die Bemessung der Abgabe ist der bei einer Einzonung errechnete Planungsvorteil um den Betrag zu kürzen, welcher innert angemessener Frist zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.[^5-4]
 
 <sup>1quinquies</sup>
 
 Das kantonale Recht kann von der Erhebung der Abgabe absehen, wenn:
 
 - a. ein Gemeinwesen abgabepflichtig wäre; oder
-- b. der voraussichtliche Abgabeertrag in einem ungünstigen Verhältnis zum Erhebungsaufwand steht.[^5-4]
+- b. der voraussichtliche Abgabeertrag in einem ungünstigen Verhältnis zum Erhebungsaufwand steht.[^5-5]
 
-<sup>1sexies</sup> Die bezahlte Abgabe ist bei der Bemessung einer allfälligen Grundstückgewinnsteuer als Teil der Aufwendungen vom Gewinn in Abzug zu bringen.[^5-5]
+<sup>1sexies</sup> Die bezahlte Abgabe ist bei der Bemessung einer allfälligen Grundstückgewinnsteuer als Teil der Aufwendungen vom Gewinn in Abzug zu bringen.[^5-6]
 
 <sup>2</sup> Führen Planungen zu Eigentumsbeschränkungen, die einer Enteignung gleichkommen, so wird voll entschädigt.
 
 <sup>3</sup> Die Kantone können vorschreiben, dass die Auszahlung von Entschädigungen bei Eigentumsbeschränkungen im Grundbuch anzumerken ist.
 
-[^5-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^5-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^5-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)). Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^5-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-4]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-5]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^5-6]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
 ## 2. Titel: Massnahmen der Raumplanung
 
@@ -262,7 +266,7 @@ Der Richtplan bezeichnet die für die Nutzung erneuerbarer Energien geeigneten G
 
 [^10-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^10-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^10-3]: Fassung gemäss Ziff. II 2 des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843))
+[^10-3]: Fassung gemäss Ziff. II 2 des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843))
 
 #### Art. 11
 
@@ -324,9 +328,12 @@ Land kann neu einer Bauzone zugewiesen werden, wenn:
 - d. seine Verfügbarkeit rechtlich sichergestellt ist; und
 - e. damit die Vorgaben des Richtplans umgesetzt werden.
 
+<sup>4bis</sup> Die Kantone können bei Ein- und Umzonungen Gebiete in Bauzonen bezeichnen, in denen die Geruchsbestimmungen weiterhin der ursprünglichen Nutzung entsprechen, sodass bestehende landwirtschaftliche und gewerbliche Betriebe erhalten und erneuert sowie auch zugunsten des Tierwohls angepasst werden können.[^15-2]
+
 <sup>5</sup> Bund und Kantone erarbeiten zusammen technische Richtlinien für die Zuweisung von Land zu den Bauzonen, namentlich die Berechnung des Bedarfs an Bauzonen.
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^15-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 15a
 
@@ -353,7 +360,14 @@ Landwirtschaftszonen dienen der langfristigen Sicherung der Ernährungsbasis des
 
 <sup>3</sup> Die Kantone tragen in ihren Planungen den verschiedenen Funktionen der Landwirtschaftszone angemessen Rechnung.
 
+<sup>4</sup> In Landwirtschaftszonen hat die Landwirtschaft mit ihren Bedürfnissen Vorrang gegenüber nicht landwirtschaftlichen Nutzungen.[^16-2]
+
+<sup>5</sup> Der Bundesrat legt fest, in welchen Fällen ausserhalb der Bauzonen bezüglich Geruchs- und Lärmimmissionen aus der Landwirtschaft Erleichterungen von den Bestimmungen des Umweltschutzgesetzes vom 7. Oktober 1983[^16-3] zulässig sind, um den Vorrang der Landwirtschaft zu gewährleisten.[^16-4]
+
 [^16-1]: Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^16-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^16-3]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^16-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 16a
 
@@ -361,15 +375,22 @@ Landwirtschaftszonen dienen der langfristigen Sicherung der Ernährungsbasis des
 
 <sup>1</sup> Zonenkonform sind Bauten und Anlagen, die zur landwirtschaftlichen Bewirtschaftung oder für den produzierenden Gartenbau nötig sind. Vorbehalten bleibt eine engere Umschreibung der Zonenkonformität im Rahmen von Artikel 16 Absatz 3.
 
-<sup>1bis</sup> Bauten und Anlagen, die zur Gewinnung von Energie aus Biomasse oder für damit im Zusammenhang stehende Kompostanlagen nötig sind, können auf einem Landwirtschaftsbetrieb als zonenkonform bewilligt werden, wenn die verarbeitete Biomasse einen engen Bezug zur Landwirtschaft sowie zum Standortbetrieb hat. Die Bewilligungen sind mit der Bedingung zu verbinden, dass die Bauten und Anlagen nur zum bewilligten Zweck verwendet werden dürfen. Der Bundesrat regelt die Einzelheiten.[^16a-2]
+<sup>1bis</sup>
 
-<sup>2</sup> Bauten und Anlagen, die der inneren Aufstockung eines landwirtschaftlichen oder eines dem produzierenden Gartenbau zugehörigen Betriebs dienen, sind zonenkonform. Der Bundesrat regelt die Einzelheiten.[^16a-3]
+Bauten und Anlagen für die Gewinnung und den Transport von Energie aus Biomasse oder für damit im Zusammenhang stehende Kompostanlagen sind auf einem Landwirtschaftsbetrieb zonenkonform und unterliegen nicht der Planungspflicht, wenn:
+
+- a. die verarbeitete Biomasse einen engen Bezug zur Land- oder Forstwirtschaft des Standortbetriebes oder von Betrieben in der Umgebung hat;
+- b. Substratmengen von jährlich höchstens 45 000 Tonnen genutzt werden; und
+- c. die Bauten und die Anlagen nur zum bewilligten Zweck verwendet werden.[^16a-2]
+
+<sup>2</sup> Bauten und Anlagen, die der inneren Aufstockung eines landwirtschaftlichen oder eines dem produzierenden Gartenbau zugehörigen Betriebs dienen, sind zonenkonform. Der zulässige Umfang der inneren Aufstockung wird bei der Tierhaltung anhand des Deckungsbeitrags oder anhand des Trockensubstanzpotenzials bestimmt.[^16a-3] Der Bundesrat regelt die Einzelheiten.[^16a-4]
 
 <sup>3</sup> Bauten und Anlagen, die über eine innere Aufstockung hinausgehen, können als zonenkonform bewilligt werden, wenn sie in einem Gebiet der Landwirtschaftszone erstellt werden sollen, das vom Kanton in einem Planungsverfahren dafür freigegeben wird.
 
 [^16a-1]: Eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^16a-2]: Eingefügt durch Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^16a-3]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^16a-2]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Fassung gemäss Ziff. III des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^16a-3]: Zweiter Satz eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^16a-4]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 
 #### Art. 16a<sup>bis</sup>
 
@@ -383,7 +404,7 @@ Landwirtschaftszonen dienen der langfristigen Sicherung der Ernährungsbasis des
 
 <sup>4</sup> Der Bundesrat regelt die Einzelheiten.
 
-[^16abis-1]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^16abis-1]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960), [6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^16abis-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 16b
@@ -396,7 +417,7 @@ Landwirtschaftszonen dienen der langfristigen Sicherung der Ernährungsbasis des
 
 [^16b-1]: Eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^16b-2]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^16b-3]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^16b-3]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960), [6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^16b-4]: Eingefügt durch Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 
 #### Art. 17
@@ -426,22 +447,28 @@ Schutzzonen umfassen:
 
 #### Art. 18a
 
-**Solaranlagen**[^18a-1]
+**Solaranlagen und energetische Sanierungen[^18a-2]**[^18a-1]
 
-<sup>1</sup> In Bau- und in Landwirtschaftszonen bedürfen auf Dächern genügend angepasste Solaranlagen keiner Baubewilligung nach Artikel 22 Absatz 1. Solche Vorhaben sind lediglich der zuständigen Behörde zu melden.
+<sup>1</sup> In Bau- und in Landwirtschaftszonen bedürfen auf Dächern oder an Fassaden genügend angepasste Solaranlagen keiner Baubewilligung nach Artikel 22 Absatz 1.[^18a-3] Solche Vorhaben sind lediglich der zuständigen Behörde zu melden.
 
 <sup>2</sup>
 
 Das kantonale Recht kann:
 
-- a. bestimmte, ästhetisch wenig empfindliche Typen von Bauzonen festlegen, in denen auch andere Solaranlagen ohne Baubewilligung erstellt werden können;
+- a.[^18a-4] bestimmte, ästhetisch wenig empfindliche Typen von Bauzonen festlegen, in denen auch andere Solaranlagen und energetische Sanierungen ohne Baubewilligung zulässig sind;
 - b. in klar umschriebenen Typen von Schutzzonen eine Baubewilligungspflicht vorsehen.
+
+<sup>2bis</sup> In Bauzonen sind Strukturen, welche die Gewinnung von Solarenergie über und am Rande von Parkplatzarealen mit 15 oder mehr Parkplätzen ermöglichen, grundsätzlich zonenkonform. Die Gemeinden können in ihrer Raumplanung Parkplatzareale bezeichnen, bei denen solche Strukturen nicht oder nur unter gewissen Voraussetzungen zulässig sind. Sie können solche Strukturen auf allen oder einem Teil der Parkplatzareale mit weniger als 15 Parkplätzen für grundsätzlich zonenkonform erklären.[^18a-5]
 
 <sup>3</sup> Solaranlagen auf Kultur- und Naturdenkmälern von kantonaler oder nationaler Bedeutung bedürfen stets einer Baubewilligung. Sie dürfen solche Denkmäler nicht wesentlich beeinträchtigen.
 
 <sup>4</sup> Ansonsten gehen die Interessen an der Nutzung der Solarenergie auf bestehenden oder neuen Bauten den ästhetischen Anliegen grundsätzlich vor.
 
 [^18a-1]: Eingefügt durch Ziff. II des BG vom 22. Juni 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^18a-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18a-3]: Fassung gemäss Ziff. III des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^18a-4]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18a-5]: Eingefügt durch Ziff. III des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 19
 
@@ -462,7 +489,11 @@ Das kantonale Recht kann:
 
 Die Landumlegung kann von Amtes wegen angeordnet und auch durchgeführt werden, wenn Nutzungspläne dies erfordern.
 
-### 2. Abschnitt: Wirkungen
+### 2. Abschnitt: Allgemeine Wirkungen
+
+[^tit2-chap3-sec2-1]
+
+[^tit2-chap3-sec2-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 21
 
@@ -493,16 +524,90 @@ Voraussetzung einer Bewilligung ist, dass:
 
 Ausnahmen innerhalb der Bauzonen regelt das kantonale Recht.
 
+### 2*a*. Abschnitt: Ausnahmebewilligungen ausserhalb der Bauzonen
+
+[^tit2-chap3-sec2a-1]
+
+[^tit2-chap3-sec2a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
 #### Art. 24
 
-**Ausnahmen für Bauten und Anlagen ausserhalb der Bauzonen**[^24-1]
+**Standortgebundene Bauten und Anlagen[^24-2]**[^24-1]
+
+<sup>1</sup>
 
 Abweichend von Artikel 22 Absatz 2 Buchstabe a können Bewilligungen erteilt werden, Bauten und Anlagen zu errichten oder ihren Zweck zu ändern, wenn:
 
 - a. der Zweck der Bauten und Anlagen einen Standort ausserhalb der Bauzonen erfordert; und
 - b. keine überwiegenden Interessen entgegenstehen.
 
+<sup>2</sup> Der Bundesrat kann energetische Sanierungen für zulässig erklären, die keine Grundlage in einer anderen Bestimmung finden.[^24-3]
+
 [^24-1]: Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^24-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^24-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24<sup>bis</sup>
+
+**Bündelung von Infrastrukturanlagen und Mobilfunkanlagen**[^24bis-1]
+
+<sup>1</sup> Infrastrukturanlagen sind soweit möglich zu bündeln. Der Bundesrat legt fest, unter welchen Voraussetzungen Mobilfunkanlagen auf bestehenden oder neuen Infrastrukturanlagen als standortgebunden gelten, unter Vorbehalt von Artikel 24 Absatz 1 Buchstabe b.
+
+<sup>2</sup> Mobilfunkanlagen können ausserhalb der Bauzonen bewilligt werden, sofern ein Standort ausserhalb der Bauzonen aufgrund einer umfassenden Interessenabwägung wesentlich vorteilhafter ist als ein Standort innerhalb der Bauzonen.
+
+<sup>3</sup> Anpassungen, Erneuerungen und Erweiterungen bestehender Mobilfunkanlagen ausserhalb der Bauzone gelten als standortgebunden.
+
+[^24bis-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24<sup>ter</sup>
+
+**Solaranlagen nicht von nationalem Interesse**[^24ter-1]
+
+<sup>1</sup>
+
+Solaranlagen, die nicht von nationalem Interesse sind und die sich auf freien Flächen ausserhalb der Bauzone und ausserhalb der landwirtschaftlichen Nutzfläche befinden, gelten als standortgebunden, wenn:
+
+- a. sie in wenig empfindlichen oder in bereits mit anderen Bauten und Anlagen belasteten Gebieten gebaut werden; und
+- b. der Aufwand für die Erschliessung der betroffenen Grundstücke und für den Anschluss der Anlagen ans Stromnetz im Verhältnis zur Leistung der Anlage angemessen ist.
+
+<sup>2</sup>
+
+Solaranlagen, die sich innerhalb von landwirtschaftlichen Nutzflächen befinden, gelten als standortgebunden, wenn sie:
+
+- a. neben der Stromproduktion die landwirtschaftlichen Interessen nicht beeinträchtigen und Vorteile für die landwirtschaftliche Produktion bewirken; oder
+- b. landwirtschaftlichen Versuchs- und Forschungszwecken dienen.
+
+<sup>3</sup> Die Anlagen müssen bei endgültiger Ausserbetriebnahme zurückgebaut werden und die Ausgangslage muss wiederhergestellt werden.
+
+<sup>4</sup> Der Bundesrat regelt unter Berücksichtigung des Zubaubedarfs nach Artikel 2 des Energiegesetzes vom 30. September 2016[^24ter-2] die Einzelheiten, insbesondere auch zur finanziellen Sicherstellung der Massnahmen nach Absatz 3.
+
+[^24ter-1]: Ursprünglich Art. 24<sup>bis</sup>. Eingefügt durch Ziff. III des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^24ter-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 24<sup>quater</sup>
+
+**Weitere Bauten und Anlagen zur Nutzung erneuerbarer Energien**[^24quater-1]
+
+<sup>1</sup> Anlagen zur Nutzung der Energie aus Biomasse sowie Anlagen zur Umwandlung von erneuerbarer Energie in Wasserstoff, Methan oder andere synthetische Kohlenwasserstoffe sind auch ausserhalb der Bauzonen zuzulassen, soweit dies für eine sichere Versorgung mit erneuerbarer Energie als zweckmässig erscheint.
+
+<sup>2</sup>
+
+Der Bundesrat regelt, unter welchen Voraussetzungen solche Anlagen in wenig empfindlichen oder in vorbelasteten Gebieten standortgebunden sind. Er legt dabei besonderes Gewicht auf:
+
+- a. die bestehende Erschliessung, insbesondere auf bestehende Gasanschlüsse: bei Anlagen zur Nutzung von Energie aus Biomasse;
+- b. die örtliche Nähe zu einer Anlage zur Produktion von erneuerbarer Elektrizität: bei Anlagen zur Umwandlung von erneuerbarer Energie in Wasserstoff oder Kohlenwasserstoffe.
+
+<sup>3</sup> Er kann festlegen, ab welcher Grösse und Bedeutung für die Bauten und Anlagen eine Planungspflicht besteht.
+
+[^24quater-1]: Ursprünglich Art. 24<sup>ter</sup>. Eingefügt durch Ziff. III des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 24<sup>quinquies</sup>
+
+**Bauten und Anlagen für thermische Netze**[^24quinquies-1]
+
+Thermische Netze, die für die Reduktion des Verbrauchs nicht erneuerbarer Energien einen Beitrag erbringen, können wenn nötig ausserhalb der Bauzonen bewilligt werden. Der Bundesrat regelt die Einzelheiten.
+
+[^24quinquies-1]: Eingefügt durch Ziff. I und II des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24a
 
@@ -549,23 +654,50 @@ Erfordert die Änderung des Zwecks einer Baute oder Anlage ausserhalb der Bauzon
 
 #### Art. 24c
 
-**Bestehende zonenwidrige Bauten und Anlagen ausserhalb der Bauzonen**[^24c-1]
+**Altrechtliche Bauten und Anlagen[^24c-2]**[^24c-1]
 
 <sup>1</sup> Bestimmungsgemäss nutzbare Bauten und Anlagen ausserhalb der Bauzonen, die nicht mehr zonenkonform sind, werden in ihrem Bestand grundsätzlich geschützt.
 
-<sup>2</sup> Solche Bauten und Anlagen können mit Bewilligung der zuständigen Behörde erneuert, teilweise geändert, massvoll erweitert oder wiederaufgebaut werden, sofern sie rechtmässig erstellt oder geändert worden sind.[^24c-2]
+<sup>2</sup> Solche Bauten und Anlagen können mit Bewilligung der zuständigen Behörde erneuert, teilweise geändert, massvoll erweitert oder wiederaufgebaut werden, sofern sie rechtmässig erstellt oder geändert worden sind.[^24c-3]
 
-<sup>3</sup> Dies gilt auch für landwirtschaftliche Wohnbauten sowie angebaute Ökonomiebauten, die rechtmässig erstellt oder geändert worden sind, bevor das betreffende Grundstück Bestandteil des Nichtbaugebietes im Sinne des Bundesrechts wurde. Der Bundesrat erlässt Vorschriften, um negative Auswirkungen auf die Landwirtschaft zu vermeiden.[^24c-3]
+<sup>3</sup> Dies gilt auch für landwirtschaftliche Wohnbauten sowie angebaute Ökonomiebauten, die rechtmässig erstellt oder geändert worden sind, bevor das betreffende Grundstück Bestandteil des Nichtbaugebietes im Sinne des Bundesrechts wurde. Der Bundesrat erlässt Vorschriften, um negative Auswirkungen auf die Landwirtschaft zu vermeiden.[^24c-4]
 
-<sup>4</sup> Veränderungen am äusseren Erscheinungsbild müssen für eine zeitgemässe Wohnnutzung oder eine energetische Sanierung nötig oder darauf ausgerichtet sein, die Einpassung in die Landschaft zu verbessern.[^24c-4]
+<sup>4</sup> Veränderungen am äusseren Erscheinungsbild müssen für eine zeitgemässe Wohnnutzung oder eine energetische Sanierung nötig oder darauf ausgerichtet sein, die Einpassung in die Landschaft zu verbessern.[^24c-5]
 
-<sup>5</sup> In jedem Fall bleibt die Vereinbarkeit mit den wichtigen Anliegen der Raumplanung vorbehalten.[^24c-5]
+<sup>5</sup> In jedem Fall bleibt die Vereinbarkeit mit den wichtigen Anliegen der Raumplanung vorbehalten.[^24c-6]
 
 [^24c-1]: Eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^24c-2]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-3]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-4]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
-[^24c-5]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^24c-3]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125), [7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-4]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125), [7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-5]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125), [7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^24c-6]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125), [7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+
+#### Art. 24c<sup>bis</sup>
+
+**Bauten in Streusiedlungsgebieten**[^24cbis-1]
+
+<sup>1</sup>
+
+In Gebieten mit traditioneller Streubauweise, die im kantonalen Richtplan räumlich festgelegt sind und in denen die Dauerbesiedlung im Hinblick auf die anzustrebende räumliche Entwicklung gestärkt werden soll, können die Kantone bewilligen:
+
+- a. die Änderung der Nutzung bestehender Bauten, die Wohnungen enthalten, zu landwirtschaftsfremden Wohnzwecken, wenn sie nach der Änderung ganzjährig bewohnt werden;
+- b. die Änderung der Nutzung bestehender Bauten oder Gebäudekomplexe, die Wohnungen enthalten, zu Zwecken des örtlichen Kleingewerbes; als örtliches Kleingewerbe gelten insbesondere Käsereien, holzverarbeitende Betriebe, mechanische Werkstätten, Schlossereien, Detailhandelsläden, Wirtshäuser; der Gewerbeteil darf in der Regel nicht mehr als die Hälfte der Baute oder des Gebäudekomplexes beanspruchen.
+
+<sup>2</sup>
+
+Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn:
+
+- a. die Baute für den bisherigen zonenkonformen oder standortgebundenen Zweck nicht mehr benötigt wird oder sichergestellt wird, dass sie zu diesem Zweck erhalten bleibt;
+- b. die neue Nutzung keine Ersatzbaute zur Folge hat, die nicht notwendig ist;
+- c. die äussere Erscheinung und die bauliche Grundstruktur im Wesentlichen unverändert bleiben;
+- d. höchstens eine geringfügige Erweiterung der bestehenden Erschliessung notwendig ist und sämtliche Infrastrukturkosten, die im Zusammenhang mit der bewilligten Nutzung anfallen, auf die Eigentümerin oder den Eigentümer überwälzt werden;
+- e. die landwirtschaftliche Bewirtschaftung der umliegenden Grundstücke nicht gefährdet ist; und
+- f. keine überwiegenden Interessen entgegenstehen.
+
+<sup>3</sup> Für Bauten, die am 1. Januar 1980 ganzjährig bewohnt waren und die nach Artikel 24*c* in ihrem Bestand geschützt sind, kann in Streusiedlungsgebieten nach Absatz 1 eine Zufahrt bewilligt werden, sofern sie ganzjährig bewohnt werden. Die Zufahrt ist baulich auf das Minimum zu beschränken und darf den Boden nicht versiegeln. In steilen Lagen kann aus Sicherheitsgründen auf der ganzen Strecke oder auf Teilabschnitten ein versiegelter Bodenbelag bewilligt werden.
+
+[^24cbis-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24d
 
@@ -587,17 +719,18 @@ Die vollständige Zweckänderung von als schützenswert anerkannten Bauten und A
 Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn:[^24d-6]
 
 - a. die Baute oder Anlage für den bisherigen Zweck nicht mehr benötigt wird, für die vorgesehene Nutzung geeignet ist und keine Ersatzbaute zur Folge hat, die nicht notwendig ist;
-- b. die äussere Erscheinung und die bauliche Grundstruktur im Wesentlichen unverändert bleiben;
+- b.[^24d-7] die äussere Erscheinung, die bauliche Grundstruktur und die Umgebung in ihren wesentlichen Merkmalen erhalten bleiben;
 - c. höchstens eine geringfügige Erweiterung der bestehenden Erschliessung notwendig ist und sämtliche Infrastrukturkosten, die im Zusammenhang mit der vollständigen Zweckänderung der Bauten und Anlagen anfallen, auf deren Eigentümer überwälzt werden;
 - d. die landwirtschaftliche Bewirtschaftung des umliegenden Grundstücks nicht gefährdet ist;
 - e. keine überwiegenden Interessen entgegenstehen.
 
 [^24d-1]: Eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^24d-2]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24d-2]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960), [6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^24d-3]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^24d-4]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24d-4]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960), [6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^24d-5]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^24d-6]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
+[^24d-7]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 24e
 
@@ -613,9 +746,10 @@ Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn:[^24d-6]
 
 <sup>5</sup> Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn die Voraussetzungen von Artikel 24*d* Absatz 3 erfüllt sind.
 
-<sup>6</sup> Der Bundesrat regelt die Einzelheiten. Er legt namentlich fest, in welchem Verhältnis die Änderungsmöglichkeiten nach diesem Artikel zu denjenigen nach Artikel 24*c* und nach Artikel 24*d* Absatz 1 stehen.
+<sup>6</sup> Der Bundesrat regelt die Einzelheiten. Er legt namentlich fest, in welchem Verhältnis die Änderungsmöglichkeiten nach diesem Artikel zu denjenigen nach Artikel 24*c* stehen. Er kann vorsehen, dass die hobbymässige Kleintierhaltung nicht als Erweiterung der Wohnnutzung gilt und dass kleine Nebenbauten, die durch höhere Gewalt zerstört worden sind, wiederaufgebaut werden dürfen.[^24e-2]
 
-[^24e-1]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24e-1]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960), [6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
+[^24e-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 ### 3. Abschnitt: Zuständigkeit und Verfahren
 
@@ -629,8 +763,14 @@ Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn:[^24d-6]
 
 <sup>2</sup> Die zuständige kantonale Behörde entscheidet bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung erteilt werden kann.[^25-2]
 
+<sup>3 und <sup>4</sup></sup> ...[^25-3]
+
+<sup>5</sup> Der Anspruch auf Wiederherstellung des rechtmässigen Zustands verjährt nach 30 Jahren. Die Frist ist gewahrt, wenn die zuständige Behörde vor Ablauf der Frist erstmals einschreitet. Keine Verjährung tritt ein, wenn Polizeigüter, insbesondere die öffentliche Ordnung, Ruhe, Sicherheit oder Gesundheit, gefährdet sind.[^25-4]
+
 [^25-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 1995 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^25-2]: Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^25-3]: Treten am 1. Juli 2026 in Kraft ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 25a
 
@@ -675,9 +815,9 @@ Die für die Koordination verantwortliche Behörde:
 
 **Einschränkende Bestimmungen der Kantone zum Bauen ausserhalb der Bauzonen**[^27a-1]
 
-Auf dem Weg der kantonalen Gesetzgebung können einschränkende Bestimmungen erlassen werden zu den Artikeln 16*a* Absatz 2, 24*b*, 24*c* und 24*d*.
+Das kantonale Recht kann einschränkende Bestimmungen zu den Artikeln 16*a* Absatz 2, 24*b*, 24*c*, 24*d* und 24*e* vorsehen.
 
-[^27a-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
+[^27a-1]: Eingefügt durch Ziff. I des BG vom 23. März 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 ## 3. Titel: Bundesbeiträge
 
@@ -701,7 +841,7 @@ Der Bund kann an Entschädigungen für besonders bedeutsame Schutzmassnahmen nac
 
 <sup>2</sup> Das Bundesamt für Raumentwicklung koordiniert diese Förderung mit den betroffenen Bundesstellen und stellt eine systematische Auswertung der Erfahrungen sicher.
 
-[^29a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^29a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 30
 
@@ -744,7 +884,7 @@ Es gewährleistet:
 
 <sup>4</sup> Für die Anfechtung von Verfügungen kantonaler Behörden, auf welche Artikel 25*a* Absatz 1 Anwendung findet, sind einheitliche Rechtsmittelinstanzen vorzusehen.[^33-2]
 
-[^33-1]: Fassung gemäss Anhang Ziff. 64 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^33-1]: Fassung gemäss Anhang Ziff. 64 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^33-2]: Eingefügt durch Ziff. I des BG vom 6. Okt. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 #### Art. 34
@@ -766,7 +906,7 @@ Kantone und Gemeinden sind zur Beschwerde berechtigt gegen Entscheide letzter ka
 [^34-1]: Fassung gemäss Anhang Ziff. 64 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^34-2]: Heute: Art. 24–24*e*.
 [^34-3]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
-[^34-4]: Eingefügt durch Anhang Ziff. 5 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^34-4]: Eingefügt durch Anhang Ziff. 5 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 ## 6. Titel: Schlussbestimmungen
 
