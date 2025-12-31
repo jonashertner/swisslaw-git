@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Ordonnance du DFI du 14 juin 2021 concernant la répartition des communes dans les trois régions de loyer définies par la loi fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité et la loi fédérale sur les prestations transitoires pour les chômeurs âgés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-375-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-375-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI concernant la répartition des communes dans les trois régions de loyer définies par la loi fédérale sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité et la loi fédérale sur les prestations transitoires pour les chômeurs âgés
 
-du 14 juin 2021 (État le 1<sup>er</sup> janvier 2025)
+du 14 juin 2021 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -26,10 +26,10 @@ vu l’art. 15, al. 1, de l’ordonnance du 11 juin 2021 sur les prestations tra
 
 arrête:
 
-[^ingress-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^ingress-2]: [RS 831.301](https://fedlex.data.admin.ch/eli/cc/1971/37_37_37)
-[^ingress-3]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^ingress-4]: [RS 837.21](https://fedlex.data.admin.ch/eli/cc/2021/376)
+[^ingress-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^ingress-2]: [RS 831.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10078)
+[^ingress-3]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^ingress-4]: [RS 837.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20026)
 
 #### Art. 1
 
@@ -77,8 +77,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 658](https://fedlex.data.admin.ch/eli/oc/2024/658)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/658](https://fedlex.data.admin.ch/eli/oc/2024/658) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 31 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 710](https://fedlex.data.admin.ch/eli/oc/2025/710)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/710](https://fedlex.data.admin.ch/eli/oc/2025/710) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2[^t-2]
 
@@ -88,5 +88,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 658](https://fedlex.data.admin.ch/eli/oc/2024/658)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/658](https://fedlex.data.admin.ch/eli/oc/2024/658) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 31 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 710](https://fedlex.data.admin.ch/eli/oc/2025/710)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/710](https://fedlex.data.admin.ch/eli/oc/2025/710) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

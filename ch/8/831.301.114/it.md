@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Ordinanza del DFI del 14 giugno 2021 sulla ripartizione dei Comuni nelle tre regioni di pigione secondo la legge federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità e la legge federale sulle prestazioni transitorie per i disoccupati anziani"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2021-375-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-375-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulla ripartizione dei Comuni nelle tre regioni di pigione secondo la legge federale sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità e la legge federale sulle prestazioni transitorie per i disoccupati anziani
 
-del 14 giugno 2021 (Stato 1° gennaio 2025)
+del 14 giugno 2021 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -22,9 +22,9 @@ visto l’articolo 10 capoverso 1<sup>quater</sup> della legge federale del 6 ot
 
 ordina:
 
-[^ingress-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^ingress-2]: [RS 831.301](https://fedlex.data.admin.ch/eli/cc/1971/37_37_37)
-[^ingress-3]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^ingress-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^ingress-2]: [RS 831.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10078)
+[^ingress-3]: [RS 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 [^ingress-4]: RS **831.21**
 
 #### Art. 1
@@ -69,22 +69,22 @@ La presente ordinanza entra in vigore il 1° luglio 2021.
 
 Allegato 1[^t-1]
 
-(Art. 1)
+(art. 1)
 
 ## Regioni
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 658](https://fedlex.data.admin.ch/eli/oc/2024/658))
-[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/658](https://fedlex.data.admin.ch/eli/oc/2024/658) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 31 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 710](https://fedlex.data.admin.ch/eli/oc/2025/710)).
+[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/710](https://fedlex.data.admin.ch/eli/oc/2025/710) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2[^t-2]
 
-(Art. 2)
+(art. 2)
 
 ## Importi massimi dei Comuni
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la cifra I dell’O del DFI del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 658](https://fedlex.data.admin.ch/eli/oc/2024/658))
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/658](https://fedlex.data.admin.ch/eli/oc/2024/658) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Nuovo testo giusta la cifra I dell’O del DFI del 31 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 710](https://fedlex.data.admin.ch/eli/oc/2025/710)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/710](https://fedlex.data.admin.ch/eli/oc/2025/710) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

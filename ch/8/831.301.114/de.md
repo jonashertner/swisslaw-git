@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Verordnung des EDI vom 14. Juni 2021 über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-375-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-375-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose
 
-vom 14. Juni 2021 (Stand am 1. Januar 2025)
+vom 14. Juni 2021 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -22,10 +22,10 @@ gestützt auf Artikel 10 Absatz 1<sup>quater</sup> des Bundesgesetzes vom 6. Okt
 
 verordnet:
 
-[^ingress-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^ingress-2]: [SR 831.301](https://fedlex.data.admin.ch/eli/cc/1971/37_37_37)
-[^ingress-3]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
-[^ingress-4]: [SR 837.21](https://fedlex.data.admin.ch/eli/cc/2021/376)
+[^ingress-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^ingress-2]: [SR 831.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10078)
+[^ingress-3]: [SR 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
+[^ingress-4]: [SR 837.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20026)
 
 #### Art. 1
 
@@ -75,8 +75,8 @@ Anhang I[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 658](https://fedlex.data.admin.ch/eli/oc/2024/658)).
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/658](https://fedlex.data.admin.ch/eli/oc/2024/658) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 31. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 710](https://fedlex.data.admin.ch/eli/oc/2025/710)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/710](https://fedlex.data.admin.ch/eli/oc/2025/710) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2[^t-2]
 
@@ -86,5 +86,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 658](https://fedlex.data.admin.ch/eli/oc/2024/658)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/658](https://fedlex.data.admin.ch/eli/oc/2024/658) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 31. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 710](https://fedlex.data.admin.ch/eli/oc/2025/710)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/710](https://fedlex.data.admin.ch/eli/oc/2025/710) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
