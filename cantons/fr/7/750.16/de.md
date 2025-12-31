@@ -1,30 +1,30 @@
 ---
 canton: FR
 number: "750.16"
+title: Verordnung über die Gebühren und Abgaben für die Benützung der öffentlichen Sachen
 language: de
-version: 2022-02-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-18
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2010-03-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/750.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7368/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8358/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# 
+# Verordnung über die Gebühren und Abgaben für die Benützung der öffentlichen Sachen
 
-Verordnung über die Gebühren und Abgaben für die Benützung der öffentlichen Sachen vom 02.03.2010 (Fassung in Kraft getreten am 01.02.2022)
+vom 02.03.2010 (Fassung in Kraft getreten am 01.01.2026)
 
-Der Staatsrat des Kantons Freiburg gestützt auf das Gesetz vom 4. Februar 1972 über die öffentlichen Sachen;
+## Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Strassengesetz vom 15. Dezember 1967;
+gestützt auf das Gesetz vom 4. Februar 1972 über die öffentlichen Sachen; gestützt auf das Mobilitätsgesetz vom 5. November 2021 (MobG);
 
-gestützt auf das Ausführungsreglement vom 7. Dezember 1992 zum Strassengesetz;
+gestützt auf das Mobilitätsreglement (MobR) vom 20. Dezember 2022; auf Antrag der Raumplanungs-, Umwelt- und Baudirektion,
 
-auf Antrag der Raumplanungs-, Umwelt- und Baudirektion, beschliesst:
+## beschliesst:
 
 #### Art. 1
 
@@ -38,87 +38,73 @@ Die Gebühren und Abgaben für die Benützung der öffentlichen Sachen des Kanto
 
 - 1\. Vorübergehende Besitznahme (Baustellen, verschiedene Anlagen, Lager aller Art usw.)
 
-**1.40**
+**1.70 3.40**
 
 - ausserorts: pro m<sup>2</sup> und Woche
 
-**2.80**
-
 - innerorts: pro m<sup>2</sup> und Woche 1<sup>bis</sup>.Bei einer vorübergehenden Besitznahme mit Verkehrsbeeinträchtigung (insbesondere Baustelle mit Lichtsignalanlage, Aufhebung von Fussgängerverbindungen, Fahrspurreduktion usw.), pro Tag, je nach Einteilung der Strasse und Ausmass der Beeinträchtigung, zusätzlich
 
-**50.– bis 300.–**
+**60.– bis 360.–**
 
 - 2\. Verlängerte Besitznahme (Parkplätze, Industriegeleise, Häuschen, Tankstellen, verschiedene Bauten und Anlagen):
 
-**2.80**
+**3.40 16.–**
 
 - ausserorts: pro m<sup>2</sup> und Jahr
 
-**13.–**
+- innerorts: pro m<sup>2</sup> und Jahr Technische Räume
 
-- innerorts: pro m<sup>2</sup> und Jahr
-
-- 3\. Technische Räume
+**3.**
 
 - a) Zurverfügungstellen von Flächen in technischen Räumen
 
+**180.–**
+
 - beheizte und/oder gekühlte Fläche, pro m<sup>2</sup> und Jahr
 
-**150.–**
+**120.–**
 
 - nicht beheizte und nicht gekühlte Fläche, pro m<sup>2</sup> und Jahr (min. 1 m<sup>2</sup>)
 
-**100.–**
-
 - b) Pauschale Beteiligung am Unterhalt des Zugangs
 
-**100.–**
+**120.–**
 
-- pro Zugang und Jahr
+- pro Zugang und Jahr Anschlagtafeln, Schilder, Gestänge usw.
 
-- 4\. Anschlagtafeln, Schilder, Gestänge usw.
+**4.**
 
 - a) für das Fundament
 
-**10.–**
+**15.–**
 
 - pro m<sup>2</sup> Bodenfläche und Jahr (min. 1 m<sup>2</sup>)
 
 - b) für die Anschlagtafel und/oder das Schild
 
-- pro m<sup>2</sup> Fläche oder jede weitere Fraktion und Jahr (min. 2 m<sup>2</sup>) Leitungen (Wasser, Gas, Elektrizität usw.)
+- pro m2 Fläche oder jede weitere Fraktion und Jahr (min. 2 m<sup>2</sup>) Leitungen (Wasser, Gas, Elektrizität usw.)
 
-**36.–**
+**45.–**
 
 **5.**
 
-**18.–**
+**20.–**
 
 - a) einmalige Gebühr pro m
 
 - b) einmalige Gebühr für Durchlass durch Rohre, Rohrabteile und auf Haltern in Werkleitungsstollen (die einmalige Gebühr nach Bst. a ist bereits enthalten)
 
-**54.–**
+**65.– 110.– 65.– 110.– 30.– 55.–**
 
 - Wasserleitung D&lt;80 mm, pro m
 
-**90.–**
-
 - Wasserleitung D&gt;80 mm, pro m
-
-**54.–**
 
 - Energieleitung D&lt;120 mm, pro m
 
-**90.–**
-
 - Energieleitung D&gt;120 mm, pro m
 
-**25.–**
-
 - Telekommunikationskabel D&lt;40 mm, pro m
-
-**45.–**
 
 - Telekommunikationskabel D&gt;40 mm, pro m Spätere Instandstellung von Baugruben (tatsächliche Fläche)
 
@@ -132,63 +118,61 @@ Die Gebühren und Abgaben für die Benützung der öffentlichen Sachen des Kanto
 
 - b) stabilisierte Seitenflächen
 
-**10.–**
+**15.–**
 
 - pro m<sup>2</sup>
 
 - c) Flächen mit weniger als 4 Jahre altem Mischgutbelag
 
-**90.–**
+**110.–**
 
 - pro m<sup>2</sup>, die ersten 100 m<sup>2</sup>
 
-**70.–**
+**85.–**
 
 - pro zusätzlichem m<sup>2</sup>
 
 - d) Flächen mit mehr als 4 Jahre altem Mischgutbelag
 
-**65.–**
+**80.– 60.–**
 
 - pro m<sup>2</sup>, die ersten 100 m<sup>2</sup>
 
-**50.–**
+- pro zusätzlichem m<sup>2</sup> Kabel über den öffentlichen Sachen
 
-- pro zusätzlichem m<sup>2</sup>
+**7.**
 
-- 7\. Kabel über den öffentlichen Sachen
+**25.–**
 
-**18.–**
+- einmalige Gebühr pro m Brückenstege
 
-- einmalige Gebühr pro m
+**8.**
 
-- 8\. Brückenstege
+**75.–**
 
-**60.–**
+- einmalige Gebühr pro m<sup>2</sup> Permanente und provisorische Verankerungen
 
-- einmalige Gebühr pro m<sup>2</sup>
+**9.**
 
-- 9\. Permanente und provisorische Verankerungen
+**300.–**
 
-**250.–**
+- einmalige Gebühr pro Verankerung Sendemasten und Antennen
 
-- einmalige Gebühr pro Anker
-
-- 10\. Sendemasten und Antennen
+**10.**
 
 - a) Standort Sendemasten
 
-**9 000.–**
+**11 000.–**
 
 - pro Masten und Jahr
 
-- pro zusätzliche, von einem anderen Unternehmen genutzte Antenne und Jahr
+**3 600.–**
 
-**3 000.–**
+- pro zusätzliche, von einem anderen Unternehmen genutzte Antenne und Jahr
 
 - b) Standort technisches Lokal
 
-**1 500.–**
+**1 800.–**
 
 - pro technisches Lokal und Jahr
 
@@ -196,45 +180,29 @@ Die Gebühren und Abgaben für die Benützung der öffentlichen Sachen des Kanto
 
 - einmalige Gebühr für die Bereitstellung (unabhängig von der Zahl der Antennen) pro auf dem Masten für die Antenne genutzten Laufmeter multipliziert mit der Gesamthöhe des Mastes
 
-**700.–**
+**840.–**
+
+**1 200.–**
 
 - Gebühr für die Benützung der öffentlichen Sachen und der Infrastruktur pro Antenne und Jahr
 
-**1 000.–**
-
 - d) Befestigung von Antennen auf oder an Bauten des Staats (Wände, Tunnel, Gebäude)
+
+**1 200.–**
 
 - Gebühr für die Benützung der öffentlichen Sachen und der Infrastruktur pro Antenne und Jahr Zurverfügungstellen von elektrischer Energie
 
-**1 000.–**
-
 **11.**
+
+**3 600.– 2 900.–**
 
 - mit Ersatzversorgung durch Batterien und USV oder durch Generator (min. 1 kW), pro kW und Jahr
 
-**3 000.–**
-
 - ohne Ersatzversorgung (min. 1 kW), pro kW und Jahr Der Energieverbrauch ist nicht eingeschlossen.
 
-**2 400.–**
+- 12\. Kanalisationsanschlüsse
 
-**12.**
-
-**4.–**
-
-**1.–**
-
-**3.–**
-
-**3.–**
-
-**30.–**
-
-**3.–**
-
-**1.–**
-
-Kanalisationsanschlüsse – gemäss Staatsratsbeschluss vom 7. Dezember 1992 betreffend die Benützung der Kanalisation der Kantonsstrassen für die Abwasserableitung
+- gemäss Staatsratsbeschluss vom 7. Dezember 1992 betreffend die Benützung der Kanalisation der Kantonsstrassen für die Abwasserableitung
 
 **Fr.**
 
@@ -244,15 +212,23 @@ Kanalisationsanschlüsse – gemäss Staatsratsbeschluss vom 7. Dezember 1992 be
 
 pro Liter/Minute und Jahr (gewährte Höchstmenge) 1. Quellwasser und Grundwasser a) Trinkwasserversorgung der Gemeinden oder als solche anerkannt b) Landwirtschaftlicher Wasserbedarf – Kulturen auf freiem Feld – Kulturen in Gewächshäusern c) Industrieller Wasserbedarf, Wärmepumpe, Kühlung und andere Nutzung d) Wasser für Schwimm- und Thermalbäder 2. Oberflächenwasser (natürliche Seen, Sammelbecken, Wasserspeicherung und fliessendes Wasser) a) Trinkwasserversorgung der Gemeinden oder als solche anerkannt b) Landwirtschaftlicher Wasserbedarf – Kulturen auf freiem Feld – Kulturen in Gewächshäusern c) Industrieller Wasserbedarf, Wärmepumpe, Kühlung und andere Nutzung d) Wasserbedarf für Fischzucht
 
-**3.–**
+**6.–**
 
-**–.85**
+**1.– 3.–**
+
+**3.– 35.–**
+
+**5.–**
+
+**1.– 3.–**
+
+**12.– –.85**
 
 ### B) Materialgewinnung
 
 - 1\. Gewinnung von Steinmaterialien
 
-**6.–**
+**7.–**
 
 - pro m<sup>3</sup> Dieser Betrag kann bis auf 3 Franken herabgesetzt werden, wenn die Materialgewinnung einzig den Zweck hat, den normalen Wasserabfluss und den Schutz des anliegenden Geländes, die Erhaltung der Sammelbecken und ausbeutbaren Grundwasservorkommen zu gewährleisten.
 
@@ -262,31 +238,27 @@ pro Liter/Minute und Jahr (gewährte Höchstmenge) 1. Quellwasser und Grundwasse
 
 - pro m<sup>2</sup> der durch das Gebäude benutzten Fläche und Jahr
 
-**10.–**
+**12.–**
 
 - 2\. Unüberbautes Gelände
 
-**5.–**
+**6.–**
 
 - pro m<sup>2</sup> belegter Fläche und Jahr
 
 - 3\. Strände, Badeanstalten, Campings und Sportanlagen
 
-**3.–**
-
-**–.50**
+**–.60 7.–**
 
 - pro m<sup>2</sup> wasserfreier Fläche und Jahr
 
-**6.–**
+- pro m<sup>2</sup> überbauter Fläche und Jahr
 
-- pro m<sup>2</sup> überbauter Fläche und Jahr Häfen und Kanäle
-
-**4.**
+- 4\. Häfen und Kanäle
 
 - a) für die ersten bewilligten 1000 m<sup>2</sup>
 
-**1.20**
+**1.50**
 
 - pro m<sup>2</sup> und Jahr
 
@@ -294,41 +266,39 @@ pro Liter/Minute und Jahr (gewährte Höchstmenge) 1. Quellwasser und Grundwasse
 
 **1.–**
 
-- pro m<sup>2</sup> und Jahr Wasseranlagen
+- pro m<sup>2</sup> und Jahr
 
-**5.**
+- 5\. Wasseranlagen
 
 - a) Landungsplätze, Wellenbrecher, Stege, Pontons, Flösse, Sprungtürme, schwimmende Anlagen, Rampen
 
-**10.–**
+**12.–**
 
 - pro m<sup>2</sup> belegter Fläche und Jahr
 
 - b) Schienen und Gleit- oder Rutschbahnen
 
-**10.–**
+**12.–**
 
 - pro m und Jahr
 
 - c) Verankerungsringe, Bojen, Pfahlroste, Pfähle, Leitern, pro Bootseinheit und Jahr
 
-**300.–**
+**330.– 265.–**
 
 - auf dem Murten- und dem Neuenburgersee
 
 - auf den künstlichen Seen und dem Schwarzsee
 
-**240.–**
-
 - d) Trockenplatz
 
-**240.–**
+**265.–**
 
 - pro Bootseinheit und Jahr
 
 - e) Sportanlagen auf der Wasserfläche
 
-**–.10**
+**–.12**
 
 - pro m<sup>2</sup> und Jahr
 
@@ -336,23 +306,27 @@ pro Liter/Minute und Jahr (gewährte Höchstmenge) 1. Quellwasser und Grundwasse
 
 - a) Wasser-, Gas-, Stromleitungen usw. in und über den öffentlichen Sachen
 
-**18.–**
+**22.–**
 
 - einmalige Gebühr pro m
 
 - b) Brücken und Stege
 
-**60.–**
+**72.–**
 
 - einmalige Gebühr pro m<sup>2</sup>
 
 #### Art. 2
 
-Mindestbetrag Für jede Benützung der öffentlichen Sachen beträgt die Gebühr oder Abgabe in jedem Fall mindestens 100 Franken.
+**Mindestbetrag**
+
+Für jede Benützung der öffentlichen Sachen beträgt die Gebühr oder Abgabe in jedem Fall mindestens 120 Franken.
 
 #### Art. 3
 
-Besondere Fälle Für besondere Fälle, die in keiner der im Artikel 1 aufgezählten Kategorien aufgeführt sind, legt die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt die Gebühr sinngemäss fest.
+**Besondere Fälle**
+
+Für besondere Fälle, die in keiner der im Artikel 1 aufgezählten Kategorien aufgeführt sind, legt die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt die Gebühr sinngemäss fest.
 
 #### Art. 4
 
@@ -394,7 +368,7 @@ Der Beschluss vom 31. Dezember 1963 betreffend die Benützung von öffentlichen 
 
 **Teuerungsanpassung**
 
-Die Gebühren und Abgaben werden jeweils auf den nächstfolgenden Jahresanfang an den Landesindex der Konsumentenpreise angepasst, sofern im September der Anstieg des Index seit dem Inkrafttreten dieser Verordnung oder der letzten Anpassung 5 % oder mehr beträgt (Referenzindex: September 2015 = 97,7 Pkt.; Basis Dezember 2010 = 100 Pkt.).
+Die Beträge für die Gebühren und Abgaben werden jeweils am 1. Januar an den Landesindex der Konsumentenpreise angepasst, sofern im September der Anstieg des Index seit dem Inkrafttreten der Änderung vom 15. Dezember 2025 dieser Verordnung oder der letzten Anpassung 5 Punkte oder mehr beträgt (Referenzindex: Oktober 2025 = 107,2 Pkt.; Grundlage Dezember 2020 = 100 Pkt.).
 
 #### Art. 8
 
@@ -412,22 +386,10 @@ Diese Verordnung wird rückwirkend auf den 1. Januar 2010 in Kraft gesetzt.
 
 ### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
 
-02.03.2010 Erlass Grunderlass 01.01.2010 2010\_033 07.12.2015 Art.1 geändert 01.01.2016 2015\_132 07.12.2015 Art.7a eingefügt 01.01.2016 2015\_132 18.03.2022 Art. 3 geändert 01.02.2022 2022\_032
+02.03.2010 Erlass Grunderlass 01.01.2010 2010\_033 07.12.2015 Art.1 geändert 01.01.2016 2015\_132 07.12.2015 Art.7a eingefügt 01.01.2016 2015\_132 18.03.2022 Art. 3 geändert 01.02.2022 2022\_032 15.12.2025 Ingress geändert 01.01.2026 2025\_109 15.12.2025 Art. 1 geändert 01.01.2026 2025\_109 15.12.2025 Art. 2 geändert 01.01.2026 2025\_109 15.12.2025 Art. 7a geändert 01.01.2026 2025\_109
 
 ### Änderungstabelle – Nach Artikel
 
 ### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
 
-Erlass Grunderlass 02.03.2010 01.01.2010 2010\_033
-
-#### Art.1
-
-**geändert 07.12.2015 01.01.2016 2015\_132**
-
-#### Art. 3
-
-**geändert 18.03.2022 01.02.2022 2022\_032**
-
-#### Art.7a
-
-**eingefügt 07.12.2015 01.01.2016 2015\_132**
+Erlass Grunderlass 02.03.2010 01.01.2010 2010\_033 Ingress Geändert 15.12.2025 01.01.2026 2025\_109 Art.1 geändert 07.12.2015 01.01.2016 2015\_132 Art. 1 geändert 15.12.2025 01.01.2026 2025\_109 Art. 2 geändert 15.12.2025 01.01.2026 2025\_109 Art. 3 geändert 18.03.2022 01.02.2022 2022\_032 Art.7a eingefügt 07.12.2015 01.01.2016 2015\_132 Art. 7a geändert 15.12.2025 01.01.2026 2025\_109
