@@ -3,13 +3,12 @@ canton: FR
 number: "616.12"
 title: Verordnung über bestimmte geringfügige Subventionen
 language: de
-version: 2011-07-01
-valid_until: 2025-12-31
-version_adopted: 2011-06-21
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2006-10-10
 in_force: 2006-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/616.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5286/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8344/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5286/pdf_file"
 
 Geringfügige Subventionen – V
 
-vom 10.10.2006 (Fassung in Kraft getreten am 01.07.2011)
+vom 10.10.2006 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,18 +43,20 @@ beschliesst:
 
 <table>
 <tr><th>Empfänger/innen</th><th>Nr. Budgetposition</th><th>Budgetrubrik</th></tr>
-<tr><td>1. Seerettungsdienste</td><td>3300-3636.000</td><td>Kantonsbeiträge (KB)</td></tr>
-<tr><td>2. Schweizerischer Alpenklub</td><td>3300-3636.000</td><td>KB</td></tr>
-<tr><td>3. Militärgesellschaften</td><td>3375-3636.000</td><td>KB</td></tr>
-<tr><td>4. Patenschaft für Berggemeinden</td><td>3415-3636.124</td><td>KB für die Patenschaft bedrängter Gemeinden</td></tr>
-<tr><td>5. Freiburgischer Bauernverband</td><td>3425-3636.001</td><td>KB für die Berufsorganisationen</td></tr>
-<tr><td>6. Freiburgischer Alpwirtschaftlicher Verein</td><td>3425-3636.110</td><td>KB für die Alpwirtschaft</td></tr>
-<tr><td>7. Schweizerischer Gehörlosenbund</td><td>3645-3636.127</td><td>KB an den Schweizerischen Gehörlosenbund</td></tr>
-<tr><td>8. Dachverband des Personals öffentlicher Dienste</td><td>3775-3636.000</td><td>KB</td></tr>
-<tr><td>9. Die Landwehr</td><td>3775-3636.118</td><td>KB für die Kulturförderung</td></tr>
-<tr><td>10. Die Concordia</td><td>3775-3636.118</td><td>KB für die Kulturförderung</td></tr>
-<tr><td>11. Union instrumentale</td><td>3775-3636.118</td><td>KB für die Kulturförderung</td></tr>
-<tr><td>12. Lyre musique ouvrière</td><td>3775-3636.118</td><td>KB für die Kulturförderung</td></tr>
+<tr><td>1. Seerettungsdienste</td><td>…</td><td>…</td></tr>
+<tr><td>2. Schweizerischer Alpenklub</td><td>…</td><td>…</td></tr>
+<tr><td>1. Organisationen zur Pflege des kulturellen Erbes</td><td>3105-3636.000</td><td>Kantonsbeiträge (KB)</td></tr>
+<tr><td>3. Militärgesellschaften</td><td>…</td><td>…</td></tr>
+<tr><td>2. Militärgesellschaften</td><td>3390-3636.000</td><td>KB</td></tr>
+<tr><td>3. Patenschaft für Berggemeinden</td><td>3415-3636.124</td><td>KB für die Patenschaft bedrängter Gemeinden</td></tr>
+<tr><td>4. AGRI Freiburg</td><td>3440-3636.001</td><td>KB für die Berufsorganisationen</td></tr>
+<tr><td>5. Freiburgischer Alpwirtschaftlicher Verein</td><td>3440-3636.110</td><td>KB für die Alpwirtschaft</td></tr>
+<tr><td>7. Schweizerischer Gehörlosenbund</td><td>…</td><td>…</td></tr>
+<tr><td>6. Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg</td><td>3775-3636.000</td><td>KB</td></tr>
+<tr><td>7. Die Landwehr</td><td>3775-3636.118</td><td>KB für die Kulturförderung</td></tr>
+<tr><td>8. Die Concordia</td><td>3775-3636.118</td><td>KB für die Kulturförderung</td></tr>
+<tr><td>9. Union instrumentale</td><td>3775-3636.118</td><td>KB für die Kulturförderung</td></tr>
+<tr><td>10. Lyre musique ouvrière</td><td>3775-3636.118</td><td>KB für die Kulturförderung</td></tr>
 </table>
 
 #### Art. 2

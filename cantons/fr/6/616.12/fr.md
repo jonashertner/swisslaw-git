@@ -3,13 +3,12 @@ canton: FR
 number: "616.12"
 title: Ordonnance relative à diverses subventions de moindre importance
 language: fr
-version: 2011-07-01
-valid_until: 2025-12-31
-version_adopted: 2011-06-21
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2006-10-10
 in_force: 2006-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/616.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5286/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8344/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5286/pdf_file"
 
 Subventions de moindre importance – O
 
-du 10.10.2006 (version entrée en vigueur le 01.07.2011)
+du 10.10.2006 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -44,18 +43,20 @@ Arrête:
 
 <table>
 <tr><th>Bénéficiaires</th><th>N° de la position</th><th>Rubrique budgétaire</th></tr>
-<tr><td>1. Sociétés de sauvetage lacustre</td><td>3300-3636.000</td><td>Subventions cantonales (SC)</td></tr>
-<tr><td>2. Club alpin suisse</td><td>3300-3636.000</td><td>SC</td></tr>
-<tr><td>3. Sociétés militaires</td><td>3375-3636.000</td><td>SC</td></tr>
-<tr><td>4. Parrainage suisse pour les communes de montagne</td><td>3415-3636.124</td><td>SC pour le parrainage des communes nécessiteuses</td></tr>
-<tr><td>5. Union des paysans fribourgeois</td><td>3425-3636.001</td><td>SC pour les organisations professionnelles</td></tr>
-<tr><td>6. Société fribourgeoise d'économie alpestre</td><td>3425-3636.110</td><td>SC pour l'économie alpestre</td></tr>
-<tr><td>7. Fédération suisse des sourds</td><td>3645-3636.127</td><td>SC à la Fédération suisse des sourds</td></tr>
-<tr><td>8. Fédération des associations du personnel</td><td>3775-3636.000</td><td>SC</td></tr>
-<tr><td>9. La Landwehr</td><td>3775-3636.118</td><td>SC pour le développement de la culture</td></tr>
-<tr><td>10. La Concordia</td><td>3775-3636.118</td><td>SC pour le développement de la culture</td></tr>
-<tr><td>11. L'Union instrumentale</td><td>3775-3636.118</td><td>SC pour le développement de la culture</td></tr>
-<tr><td>12. La Lyre musique ouvrière</td><td>3775-3636.118</td><td>SC pour le développement de la culture</td></tr>
+<tr><td>1. Sociétés de sauvetage lacustre</td><td>…</td><td>…</td></tr>
+<tr><td>2. Club alpin suisse</td><td>…</td><td>…</td></tr>
+<tr><td>1. Organisations patrimoniales</td><td>3105-3636.000</td><td>Subventions cantonales (SC)</td></tr>
+<tr><td>3. Sociétés militaires</td><td>…</td><td>…</td></tr>
+<tr><td>2. Sociétés militaires</td><td>3390-3636.000</td><td>SC</td></tr>
+<tr><td>3. Parrainage suisse pour les communes de montagne</td><td>3415-3636.124</td><td>SC pour le parrainage des communes nécessiteuses</td></tr>
+<tr><td>4. AGRI Fribourg</td><td>3440-3636.001</td><td>SC pour les organisations professionnelles</td></tr>
+<tr><td>5. Société fribourgeoise d'économie alpestre</td><td>3440-3636.110</td><td>SC pour l'économie alpestre</td></tr>
+<tr><td>7. Fédération suisse des sourds</td><td>…</td><td>…</td></tr>
+<tr><td>6. Fédération des associations du personnel</td><td>3775-3636.000</td><td>SC</td></tr>
+<tr><td>7. La Landwehr</td><td>3775-3636.118</td><td>SC pour le développement de la culture</td></tr>
+<tr><td>8. La Concordia</td><td>3775-3636.118</td><td>SC pour le développement de la culture</td></tr>
+<tr><td>9. L'Union instrumentale</td><td>3775-3636.118</td><td>SC pour le développement de la culture</td></tr>
+<tr><td>10. La Lyre musique ouvrière</td><td>3775-3636.118</td><td>SC pour le développement de la culture</td></tr>
 </table>
 
 #### Art. 2
