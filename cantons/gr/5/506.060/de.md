@@ -4,13 +4,13 @@ number: "506.060"
 title: Verordnung zum Gesetz über die Förderung der Krankenpflege und der Betreuung von betagten und pflegebedürftigen Personen
 short: "Verordnung zum Krankenpflegegesetz, VOzKPG"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-18
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2026-04-28
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3534/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3534/pdf_file"
 
 (Verordnung zum Krankenpflegegesetz, VOzKPG)
 
-Vom 19.12.2017 (Stand 01.01.2025)
+Vom 19.12.2017 (Stand 01.01.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 

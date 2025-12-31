@@ -4,13 +4,13 @@ number: "506.060"
 title: "Ordinaziun tar la lescha per promover la tgira da persunas malsaunas e l'assistenza da persunas attempadas e da persunas che basegnan tgira"
 short: "ordinaziun tar la lescha per promover la tgira da persunas malsaunas, OLTM"
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-18
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2026-04-28
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3534/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3534/pdf_file"
 
 (ordinaziun tar la lescha per promover la tgira da persunas malsaunas, OLTM)
 
-dals 19-12-2017 (versiun dals 01-01-2025)
+dals 19-12-2017 (versiun dals 01-01-2026)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
