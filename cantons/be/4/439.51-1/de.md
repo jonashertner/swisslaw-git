@@ -3,20 +3,19 @@ canton: BE
 number: 439.51-1
 title: Vereinbarung zwischen den Kantonen Bern und Jura zur Errichtung der interjurassischen Kommission für die land- und hauswirtschaftliche Berufsbildung (IKOLAB)
 language: de
-version: 2007-01-01
-valid_until: 2025-12-31
-version_adopted: 2006-12-13
+version: 2026-01-01
+version_adopted: 2025-11-05
 adopted: 2006-12-13
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.51-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/502/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3257/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung zwischen den Kantonen Bern und Jura zur Errichtung der interjurassischen Kommission für die land- und hauswirtschaftliche Berufsbildung (IKOLAB)
 
-vom 13.12.2006 (Stand 01.01.2007)
+vom 13.12.2006 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern und die Regierung des Kantons Jura,
 
@@ -38,17 +37,17 @@ vereinbaren Folgendes:
 
 <sup>2</sup> Die Delegation des Kantons Bern besteht aus:
 
-- a der Direktorin oder dem Direktor des Inforama
-- b einer Vertreterin oder einem Vertreter der französischsprachigen Abteilung des Mittelschul- und Berufsbildungsamtes (MBA-BE)
-- c ein bis zwei Vertreterinnen und Vertreter der landwirtschaftlichen Ausbildungsbetriebe
+- a einem Mitglied der Geschäftsleitung des Inforama,
+- b einer Vertreterin oder einem Vertreter der französischsprachigen Abteilung des Mittelschul- und Berufsbildungsamtes (MBA-BE),
+- c ein bis zwei Vertreterinnen und Vertreter der landwirtschaftlichen Ausbildungsbetriebe,
 - d ein bis zwei Vertreterinnen und Vertreter der hauswirtschaftlichen Ausbildungsbetriebe.
 
 <sup>3</sup> Die Delegation des Kantons Jura besteht aus:
 
-- a einer Vertreterin oder einem Vertreter des Service de l'économie rurale (ECR-JU)
-- b einer Vertreterin oder einem Vertreter des Service de la formation professionnelle (SFP-JU)
-- c einer Vertreterin oder einem Vertreter der mit der land- oder hauswirtschaftlichen Berufsbildung beauftragten Gremien
-- d einem Mitglied pro Amtsbezirk; von diesen drei Mitgliedern vertreten mindestens eines die Hauswirtschaft und mindestens eines die Landwirtschaft.
+- a einer Vertreterin oder einem Vertreter des Service de l'économie rurale (ECR-JU),
+- b einer Vertreterin oder einem Vertreter des Service de la formation professionnelle (SFP-JU),
+- c einer Vertreterin oder einem Vertreter der mit der land- oder hauswirtschaftlichen Berufsbildung beauftragten Gremien,
+- d drei Mitgliedern, welche die verschiedenen Regionen des Kantons vertreten; von diesen drei Mitgliedern vertreten mindestens eines die landwirtschaftlichen Ausbildungsbetriebe und mindestens eines die hauswirtschaftlichen Ausbildungsbetriebe.
 
 <sup>4</sup> Die Direktorin oder der Direktor der interjurassischen Landwirtschaftsstiftung «Fondation Rurale Interjurassienne (FRI)» nimmt mit beratender Stimme an den Sitzungen teil.
 

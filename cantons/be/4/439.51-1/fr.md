@@ -3,20 +3,19 @@ canton: BE
 number: 439.51-1
 title: Convention entre le canton de Berne et la République et Canton du Jura instituant la Commission interjurassienne de la formation professionnelle en agriculture et en économie familiale (CIFPAEF)
 language: fr
-version: 2007-01-01
-valid_until: 2025-12-31
-version_adopted: 2006-12-13
+version: 2026-01-01
+version_adopted: 2025-11-05
 adopted: 2006-12-13
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.51-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/502/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3257/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Convention entre le canton de Berne et la République et Canton du Jura instituant la Commission interjurassienne de la formation professionnelle en agriculture et en économie familiale (CIFPAEF)
 
-du 13.12.2006 (état au 01.01.2007)
+du 13.12.2006 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne, le Gouvernement de la République et Canton du Jura,
 
@@ -38,8 +37,8 @@ conviennent de ce qui suit:
 
 <sup>2</sup> La délégation du canton de Berne comprend
 
-- a le directeur ou la directrice de l’Inforama,
-- b un représentant ou une représentante de la section francophone de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle (OSP-BE),
+- a un membre de la direction de l'Inforama,
+- b un représentant ou une représentante de la section francophone de l’Office des écoles moyennes et de la formation professionnelle (OMP-BE),
 - c un ou une à deux représentants ou représentantes des entreprises formatrices en agriculture,
 - d un ou une à deux représentants ou représentantes des entreprises formatrices en économie familiale.
 
@@ -48,7 +47,7 @@ conviennent de ce qui suit:
 - a un représentant ou une représentante du Service de l’économie rurale (ECR-JU),
 - b un représentant ou une représentante du Service de la formation professionnelle (SFP-JU),
 - c un représentant ou une représentante des organismes chargés de la formation professionnelle agricole ou en économie familiale,
-- d un membre par district; sur ces trois membres, un au moins doit être représentant de l’économie familiale et un au moins doit être représentant de l’agriculture.
+- d trois membres représentant les différentes régions du canton; sur ces trois membres, un au moins doit être représentant des entreprises formatrices en agriculture et un au moins doit être représentant des entreprises formatrices en économie familiale.
 
 <sup>4</sup> Le directeur ou la directrice de la Fondation Rurale Interjurassienne (FRI) participe aux séances avec voix consultative.
 
