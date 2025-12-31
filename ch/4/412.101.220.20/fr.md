@@ -3,18 +3,18 @@ sr: "412.101.220.20"
 title: Ordonnance du SEFRI du 6 juillet 2023 sur la formation professionnelle initiale de coiffeuse/coiffeur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/425"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2023-07-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/425/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2023-425-20240401-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/425/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/425/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-425-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/425/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de coiffeuse/coiffeur avec certificat fédéral de capacité (CFC)
 
-du 6 juillet 2023 (État le 1<sup>er</sup> avril 2024)
+du 6 juillet 2023 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>82016</td><td>Coiffeuse CFC / Coiffeur CFC Coiffeuse EFZ / Coiffeur EFZ Parrucchiera AFC / Parrucchiere AFC</td></tr>
@@ -26,10 +26,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet et durée
 
@@ -154,7 +154,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe 2 du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -172,7 +172,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <table>
 <tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>3<sup>e</sup> année</th><th>Total</th></tr>
-<tr><td>a. Connaissances professionnelles</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Service à la clientèle et organisation de l’environnement de travail Soin et traitement du cuir chevelu et des cheveux Soin et taille de la barbe Transformation durable de la forme des cheveux</td><td>120</td><td>100</td><td>80</td><td>300</td></tr>
 <tr><td>– Conseil et vente de prestations et de produits Coupe des cheveux Modification de la couleur des cheveux Mise en forme et coiffage (styling) des cheveux</td><td>80</td><td>100</td><td>120</td><td>300</td></tr>
 <tr><td>Total Connaissances professionnelles</td><td>200</td><td>200</td><td>200</td><td>**600**</td></tr>
@@ -185,13 +185,14 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>3</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>4</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>4</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>5</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>6</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -208,7 +209,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td>2</td><td>3</td><td>– Établir un diagnostic du cuir chevelu et des cheveux et choisir les produits appropriés – Conseiller les clients dans le choix d’une coupe de cheveux adaptée à leur morphologie – Couper les cheveux en combinant plusieurs techniques – Établir un diagnostic et planifier la transformation durable de la forme des cheveux – Transformer durablement la forme des cheveux – Fixer la transformation et appliquer un traitement approprié aux cheveux – Réaliser une mise en plis et coiffer les cheveux – Sécher les cheveux à l’aide d’une brosse (effectuer un brushing) – Réaliser des coiffures</td><td>3</td></tr>
 <tr><td>2</td><td>4</td><td>– Nettoyer et entretenir les outils et l’environnement de travail dans le salon de coiffure – Contribuer au développement d’une culture de l’innovation et de la créativité au sein du salon de coiffure – Couper les cheveux en combinant plusieurs techniques – Effiler les cheveux en combinant plusieurs techniques – Établir un diagnostic de la peau et de la barbe et choisir les outils et les produits de soin appropriés – Tailler la barbe – Raser la barbe avec un rasoir droit – Appliquer un soin à la peau et la barbe</td><td>3</td></tr>
 <tr><td>3</td><td>5</td><td>– Nettoyer et entretenir les outils et l’environnement de travail dans le salon de coiffure – Contribuer au développement d’une culture de l’innovation et de la créativité au sein du salon de coiffure – Établir un diagnostic du cuir chevelu et des cheveux et choisir les produits appropriés – Conseiller les clients dans le choix d’une coupe de cheveux adaptée à leur morphologie – Couper les cheveux en combinant plusieurs techniques – Effiler les cheveux en combinant plusieurs techniques – Établir un diagnostic et planifier la modification de la couleur des cheveux, – Procéder à la modification de la couleur des cheveux – Réaliser une mise en plis et coiffer les cheveux – Sécher les cheveux à l’aide d’une brosse (effectuer un brushing) – Réaliser des coiffures</td><td>3</td></tr>
-<tr><td>Total</td><td></td><td>[tab]</td><td>**18**</td></tr>
+<tr><td>Total</td><td></td><td></td><td>**18**</td></tr>
 </table>
 
 <sup>3</sup> Aucun cours interentreprises ne doit avoir lieu durant le dernier semestre de la formation professionnelle initiale.
@@ -355,11 +356,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>4</td><td>– Conseil et vente de prestations et de produits – Établir un diagnostic du cuir chevelu et des cheveux et choisir les produits appropriés – Conseiller les clients dans le choix d’une coupe de cheveux adaptée à leur morphologie – Établir un diagnostic de la peau et de la barbe et choisir les outils et les produits de soin appropriés – Établir un diagnostic et planifier la modification de la couleur des cheveux – Établir un diagnostic et planifier la transformation durable de la forme des cheveux</td><td>20 %</td></tr>
 </table>
 
-- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins 2 experts aux examens.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
