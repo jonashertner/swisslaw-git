@@ -4,13 +4,12 @@ number: "152.381"
 title: Verordnung über die Sprachenregelung im Verwaltungskreis Biel/Bienne und für die regionalen Behörden im Verwaltungskreis Seeland
 short: SRV
 language: de
-version: 2022-03-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-02
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 1995-10-18
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.381"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2541/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3230/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2541/pdf_file"
 
 (SRV)
 
-vom 18.10.1995 (Stand 01.03.2022)
+vom 18.10.1995 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -55,7 +54,7 @@ beschliesst:
 
 **Betreibungs- und Konkursamt**
 
-<sup>1</sup> Das Betreibungs- und Konkursamt Seeland nimmt Begehren und Eingaben aus dem Verwaltungskreis Biel/Bienne in beiden Landessprachen entgegen.
+<sup>1</sup> Das Betreibungs- und Konkursamt Berner Jura-Seeland nimmt Begehren und Eingaben aus dem Verwaltungskreis Biel/Bienne in beiden Landessprachen entgegen.
 
 <sup>2</sup> Der Schuldnerin oder dem Schuldner wird der Zahlungsbefehl in deren bzw. dessen Sprache zugestellt. Diese ist ebenfalls für die Fortsetzung der Betreibung massgebend.
 

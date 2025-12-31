@@ -4,13 +4,12 @@ number: "152.381"
 title: "Ordonnance sur l’usage des langues dans l’arrondissement administratif de Biel/Bienne et, pour les autorités régionales, dans l'arrondissement administratif du Seeland *"
 short: OUL
 language: fr
-version: 2022-03-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-02
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 1995-10-18
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.381"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2541/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3230/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2541/pdf_file"
 
 (OUL)
 
-du 18.10.1995 (état au 01.03.2022)
+du 18.10.1995 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -55,7 +54,7 @@ arrête:
 
 **Office des poursuites et des faillites**
 
-<sup>1</sup> Les réquisitions et les écrits concernant l’arrondissement administratif de Biel/Bienne peuvent être adressés à l’Office des poursuites et des faillites du Seeland dans l'une ou l'autre des deux langues nationales.
+<sup>1</sup> Les réquisitions et les écrits concernant l’arrondissement administratif de Biel/Bienne peuvent être adressés à l’Office des poursuites et des faillites du Jura bernois–Seeland dans l'une ou l'autre des deux langues nationales.
 
 <sup>2</sup> L’office notifie les commandements de payer dans la langue du débiteur ou de la débitrice. Il en est de même dans la continuation de la poursuite.
 
