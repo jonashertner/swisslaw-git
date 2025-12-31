@@ -4,13 +4,12 @@ number: "941.11"
 title: Ordonnance sur les poids et mesures
 short: OPM
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-23
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 2000-08-16
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/941.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2764/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3223/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2764/pdf_file"
 
 (OPM)
 
-du 16.08.2000 (état au 01.01.2023)
+du 16.08.2000 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -50,13 +49,15 @@ arrête:
 
 **Offices de vérification**
 
-<sup>1</sup> Il existe cinq offices de vérification dans le canton de Berne, auxquels sont rattachés les arrondissements de vérification suivants:
+<sup>1</sup> Il existe quatre offices de vérification dans le canton de Berne, auxquels sont rattachés les arrondissements de vérification suivants:
 
-- a Office de vérification BE+1: arrondissements administratifs du Haut-Simmental et de Gessenay, de Frutigen et du Bas-Simmental, et d’Interlaken-Oberhasli,
-- b Office de vérification BE+2: arrondissement administratif de Thoune et communes selon l’annexe 1,
-- c Office de vérification BE+3: communes selon l’annexe 2,
-- d Office de vérification BE+4: arrondissement administratif de la Haute-Argovie et communes selon l’annexe 3,
-- e Office de vérification BE+5: arrondissements administratifs du Jura bernois, de Biel-Bienne et du Seeland.
+- a Office de vérification BE+1: communes d'Adelboden, Aeschi bei Spiez, Amsoldingen, Beatenberg, Blumenstein, Boltigen, Bönigen, Brienz (BE), Brienzwiler, Buchholterberg, Burgistein, Därligen, Därstetten, Diemtigen, Eriz, Erlenbach im Simmental, Fahrni, Forst-Längenbühl, Frutigen, Grindelwald, Gsteig, Gsteigwiler, Gündlischwand, Gurzelen, Guttannen, Habkern, Hasliberg, Heiligenschwendi, Heimberg, Hilterfingen, Hofstetten bei Brienz, Homberg, Horrenbach-Buchen, Innertkirchen, Interlaken, Iseltwald, Kandergrund, Kandersteg, Köniz, Krattigen, Lauenen, Lauterbrunnen, Leissigen, Lenk, Lütschental, Matten bei Interlaken, Meiringen, Neuenegg, Niederried bei Interlaken, Oberhofen am Thunersee, Oberlangenegg, Oberried am Brienzersee, Oberwil im Simmental, Pohlern, Reichenbach im Kandertal, Reutigen, Ringgenberg (BE), Saanen, Saxeten, Schattenhalb, Schwanden bei Brienz, Seftigen, Sigriswil, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Unterseen, Uttigen, Wachseldorn, Wattenwil, Wilderswil, Wimmis, Zweisimmen,
+- b Office de vérification BE+2: communes d'Aarwangen, Affoltern im Emmental, Alchenstorf, Allmendingen, Arni (BE), Auswil, Bannwil, Bäriswil, Berken, Bettenhausen, Biglen, Bleienbach, Bowil, Brenzikofen, Burgdorf, Busswil bei Melchnau, Dürrenroth, Eggiwil, Eriswil, Ersigen, Freimettigen, Gondiswil, Graben, Grosshöchstetten, Hasle bei Burgdorf, Häutligen, Heimenhausen, Heimiswil, Hellsau, Herbligen, Herzogenbuchsee, Hindelbank, Höchstetten, Huttwil, Inkwil, Jaberg, Kernenried, Kiesen, Konolfingen, Koppigen, Krauchthal, Landiswil, Langenthal, Langnau im Emmental, Lauperswil, Linden, Lotzwil, Lützelflüh, Lyssach, Madiswil, Mattstetten, Melchnau, Mirchel, Münsingen, Niederhünigen, Niederönz, Oberburg, Oberdiessbach, Oberhünigen, Oberthal, Ochlenberg, Oeschenbach, Oppligen, Reisiswil, Roggwil (BE), Rohrbach, Rohrbachgraben, Röthenbach im Emmental, Rubigen, Rüderswil, Rüegsau, Rumendingen, Rüti bei Lyssach, Rütschelen, Schangnau, Schwarzhäusern, Seeberg, Signau, Sumiswald, Thörigen, Thunstetten, Trachselwald, Trub, Trubschachen, Ursenbach, Urtenen-Schönbühl, Walkringen, Walliswil bei Niederbipp, Walliswil bei Wangen, Walterswil (BE), Wangen an der Aare, Wichtrach, Wiggiswil, Willadingen, Wynau, Wynigen, Wyssachen, Zäziwil,
+- c Office de vérification BE+3: communes d'Aarberg, Bargen (BE), Belp, Bern, Bolligen, Bremgarten bei Bern, Deisswil bei Münchenbuchsee, Ferenbalm, Frauenkappelen, Gerzensee, Guggisberg, Gurbrü, Ittigen, Kallnach, Kaufdorf, Kehrsatz, Kirchdorf (BE), Kirchlindach, Kriechenwil, Laupen, Meikirch, Moosseedorf, Mühleberg, Münchenbuchsee, Münchenwiler, Muri bei Bern, Niedermuhlern, Oberbalm, Ostermundigen, Radelfingen, Riggisberg, Rüeggisberg, Rüschegg, Schüpfen, Schwarzenburg, Seedorf (BE), Stettlen, Thurnen, Toffen, Vechigen, Wald (BE), Wileroltigen, Wohlen bei Bern, Worb, Zollikofen,
+- d Office de vérification BE+4: communes d'Aefligen, Aegerten, Arch, Attiswil, Bätterkinden, Bellmund, Belprahon, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Eschert, Farnern, Finsterhennen, Fraubrunnen, Gals, Gampelen, Grandval, Grossaffoltern, Hagneck, Hermrigen, Iffwil, Ins, Ipsach, Jegenstorf, Jens, Kappelen, Kirchberg (BE), La Ferrière, La Neuveville, Lengnau (BE), Leubringen, Leuzigen, Ligerz, Loveresse, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mont-Tramelan, Mörigen, Müntschemier, Nidau, Niederbipp, Nods, Oberbipp, Oberwil bei Büren, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Pieterlen, Plateau de Diesse, Port, Rapperswil (BE), Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Rüdtligen-Alchenflüh, Rumisberg, Rüti bei Büren, Safnern, Saicourt, Saint-Imier, Sauge, Saules (BE), Schelten, Scheuren, Seehof, Schwadernau, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, Studen, Sutz-Lattrigen, Täuffelen, Tavannes, Tramelan, Treiten, Tschugg, Twann-Tüscherz, Utzenstorf, Valbirse, Villeret, Vinelz, Walperswil, Wengi, Wiedlisbach, Wiler bei Utzenstorf, Worben, Zielebach, Zuzwil (BE),
+- e …
+
+<sup>2</sup> La Direction de l'économie, de l'énergie et de l'environnement est autorisée à modifier les arrondissements de vérification énoncés à l'alinéa 1.
 
 #### Art. 4
 
@@ -118,29 +119,23 @@ arrête:
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2001.
 
-## A1 Annexe 1: Office de vérification BE+2 (à l'art. 3, lit. b)
+## A1
 
 #### Art. A1-1
 
-**Office de vérification BE+2**
+**…**
 
-<sup>1</sup> Allmendingen, Arni (BE), Belp, Biglen, Bowil, Brenzikofen, Eggiwil, Freimettigen, Gerzensee, Grosshöchstetten, Guggisberg, Häutligen, Herbligen, Jaberg, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Konolfingen, Landiswil, Langnau im Emmental, Lauperswil, Linden, Mirchel, Münsingen, Niederhünigen, Niedermuhlern, Oberdiessbach, Oberhünigen, Oberthal, Oppligen, Riggisberg, Röthenbach im Emmental, Rubigen, Rüderswil, Rüeggisberg, Rüschegg, Schangnau, Schwarzenburg, Signau, Thurnen, Toffen, Trub, Trubschachen, Wald (BE), Walkringen, Wichtrach, Worb, Zäziwil.
-
-## A2 Annexe 2: Office de vérification BE+3 (à l'art. 3, lit. c)
+## A2
 
 #### Art. A2-1
 
-**Office de vérification BE+3**
+**…**
 
-<sup>1</sup> Affoltern i. E., Bern, Bolligen, Bremgarten b. Bern, Dürrenroth, Ferenbalm, Frauenkappelen, Gurbrü, Hasle b. Burgdorf, Ittigen, Kirchlindach, Köniz, Krauchthal, Kriechenwil, Laupen, Lützelflüh, Meikirch, Mühleberg, Münchenwiler, Muri b. Bern, Neuenegg, Oberbalm, Oberburg, Ostermundigen, Rüegsau, Stettlen, Sumiswald, Trachselwald, Vechigen, Wileroltigen, Wohlen b. Bern, Zollikofen.
-
-## A3 Annexe 3: Office de vérification BE+4 (à l'art. 3, lit. d)
+## A3
 
 #### Art. A3-1
 
-**Office de vérification BE+4**
-
-<sup>1</sup> Aefligen, Alchenstorf, Bäriswil, Bätterkinden, Burgdorf, Deisswil b. Münchenbuchsee, Ersigen, Fraubrunnen, Heimiswil, Hellsau, Hindelbank, Höchstetten, Iffwil, Jegenstorf, Kernenried, Kirchberg (BE), Koppigen, Lyssach, Mattstetten, Moosseedorf, Münchenbuchsee, Rüdtligen-Alchenflüh, Rumendingen, Rüti b. Lyssach, Urtenen-Schönbühl, Utzenstorf, Wiggiswil, Wiler b. Utzenstorf, Willadingen, Wynigen, Zielebach, Zuzwil (BE).
+**…**
 
 Berne, le 16 août 2000
 

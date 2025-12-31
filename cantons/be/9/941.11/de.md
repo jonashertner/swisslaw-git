@@ -4,13 +4,12 @@ number: "941.11"
 title: Verordnung über das Mass- und Gewichtswesen
 short: MGV
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-23
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 2000-08-16
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/941.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2764/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3223/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2764/pdf_file"
 
 (MGV)
 
-vom 16.08.2000 (Stand 01.01.2023)
+vom 16.08.2000 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -52,13 +51,15 @@ beschliesst:
 
 **Eichämter**
 
-<sup>1</sup> Im Kanton Bern bestehen fünf Eichämter, denen folgende Eichkreise zugeordnet sind:
+<sup>1</sup> Im Kanton Bern bestehen vier Eichämter, denen folgende Eichkreise zugeordnet sind:
 
-- a Eichamt BE+1: Verwaltungskreise Obersimmental-Saanen, Frutigen-Niedersimmental und Interlaken Oberhasli,
-- b Eichamt BE+2: Verwaltungskreis Thun und Gemeinden gemäss Anhang 1,
-- c Eichamt BE+3: Gemeinden gemäss Anhang 2,
-- d Eichamt BE+4: Verwaltungskreis Oberaargau und Gemeinden gemäss Anhang 3,
-- e Eichamt BE+5: Verwaltungskreise Berner Jura, Biel/Bienne und Seeland.
+- a Eichamt BE+1: Gemeinden Adelboden, Aeschi bei Spiez, Amsoldingen, Beatenberg, Blumenstein, Boltigen, Bönigen, Brienz (BE), Brienzwiler, Buchholterberg, Burgistein, Därligen, Därstetten, Diemtigen, Eriz, Erlenbach im Simmental, Fahrni, Forst-Längenbühl, Frutigen, Grindelwald, Gsteig, Gsteigwiler, Gündlischwand, Gurzelen, Guttannen, Habkern, Hasliberg, Heiligenschwendi, Heimberg, Hilterfingen, Hofstetten bei Brienz, Homberg, Horrenbach-Buchen, Innertkirchen, Interlaken, Iseltwald, Kandergrund, Kandersteg, Köniz, Krattigen, Lauenen, Lauterbrunnen, Leissigen, Lenk, Lütschental, Matten bei Interlaken, Meiringen, Neuenegg, Niederried bei Interlaken, Oberhofen am Thunersee, Oberlangenegg, Oberried am Brienzersee, Oberwil im Simmental, Pohlern, Reichenbach im Kandertal, Reutigen, Ringgenberg (BE), Saanen, Saxeten, Schattenhalb, Schwanden bei Brienz, Seftigen, Sigriswil, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Teuffenthal (BE), Thierachern, Thun, Uebeschi, Uetendorf, Unterlangenegg, Unterseen, Uttigen, Wachseldorn, Wattenwil, Wilderswil, Wimmis, Zweisimmen,
+- b Eichamt BE+2: Gemeinden Aarwangen, Affoltern im Emmental, Alchenstorf, Allmendingen, Arni (BE), Auswil, Bannwil, Bäriswil, Berken, Bettenhausen, Biglen, Bleienbach, Bowil, Brenzikofen, Burgdorf, Busswil bei Melchnau, Dürrenroth, Eggiwil, Eriswil, Ersigen, Freimettigen, Gondiswil, Graben, Grosshöchstetten, Hasle bei Burgdorf, Häutligen, Heimenhausen, Heimiswil, Hellsau, Herbligen, Herzogenbuchsee, Hindelbank, Höchstetten, Huttwil, Inkwil, Jaberg, Kernenried, Kiesen, Konolfingen, Koppigen, Krauchthal, Landiswil, Langenthal, Langnau im Emmental, Lauperswil, Linden, Lotzwil, Lützelflüh, Lyssach, Madiswil, Mattstetten, Melchnau, Mirchel, Münsingen, Niederhünigen, Niederönz, Oberburg, Oberdiessbach, Oberhünigen, Oberthal, Ochlenberg, Oeschenbach, Oppligen, Reisiswil, Roggwil (BE), Rohrbach, Rohrbachgraben, Röthenbach im Emmental, Rubigen, Rüderswil, Rüegsau, Rumendingen, Rüti bei Lyssach, Rütschelen, Schangnau, Schwarzhäusern, Seeberg, Signau, Sumiswald, Thörigen, Thunstetten, Trachselwald, Trub, Trubschachen, Ursenbach, Urtenen-Schönbühl, Walkringen, Walliswil bei Niederbipp, Walliswil bei Wangen, Walterswil (BE), Wangen an der Aare, Wichtrach, Wiggiswil, Willadingen, Wynau, Wynigen, Wyssachen, Zäziwil,
+- c Eichamt BE+3: Gemeinden Aarberg, Bargen (BE), Belp, Bern, Bolligen, Bremgarten bei Bern, Deisswil bei Münchenbuchsee, Ferenbalm, Frauenkappelen, Gerzensee, Guggisberg, Gurbrü, Ittigen, Kallnach, Kaufdorf, Kehrsatz, Kirchdorf (BE), Kirchlindach, Kriechenwil, Laupen, Meikirch, Moosseedorf, Mühleberg, Münchenbuchsee, Münchenwiler, Muri bei Bern, Niedermuhlern, Oberbalm, Ostermundigen, Radelfingen, Riggisberg, Rüeggisberg, Rüschegg, Schüpfen, Schwarzenburg, Seedorf (BE), Stettlen, Thurnen, Toffen, Vechigen, Wald (BE), Wileroltigen, Wohlen bei Bern, Worb, Zollikofen,
+- d Eichamt BE+4: Gemeinden Aefligen, Aegerten, Arch, Attiswil, Bätterkinden, Bellmund, Belprahon, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Eschert, Farnern, Finsterhennen, Fraubrunnen, Gals, Gampelen, Grandval, Grossaffoltern, Hagneck, Hermrigen, Iffwil, Ins, Ipsach, Jegenstorf, Jens, Kappelen, Kirchberg (BE), La Ferrière, La Neuveville, Lengnau (BE), Leubringen, Leuzigen, Ligerz, Loveresse, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mont-Tramelan, Mörigen, Müntschemier, Nidau, Niederbipp, Nods, Oberbipp, Oberwil bei Büren, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Pieterlen, Plateau de Diesse, Port, Rapperswil (BE), Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Rüdtligen-Alchenflüh, Rumisberg, Rüti bei Büren, Safnern, Saicourt, Saint-Imier, Sauge, Saules (BE), Schelten, Scheuren, Seehof, Schwadernau, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, Studen, Sutz-Lattrigen, Täuffelen, Tavannes, Tramelan, Treiten, Tschugg, Twann-Tüscherz, Utzenstorf, Valbirse, Villeret, Vinelz, Walperswil, Wengi, Wiedlisbach, Wiler bei Utzenstorf, Worben, Zielebach, Zuzwil (BE),
+- e …
+
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion ist zur Änderung der Eichkreise gemäss Absatz 1 berechtigt.
 
 #### Art. 4
 
@@ -120,29 +121,23 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2001 in Kraft.
 
-## A1 Anhang 1: Eichamt BE+2 (zu Art. 3 Bst. b)
+## A1
 
 #### Art. A1-1
 
-**Eichamt BE+2**
+**…**
 
-<sup>1</sup> Allmendingen, Arni (BE), Belp, Biglen, Bowil, Brenzikofen, Eggiwil, Freimettigen, Gerzensee, Grosshöchstetten, Guggisberg, Häutligen, Herbligen, Jaberg, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Konolfingen, Landiswil, Langnau im Emmental, Lauperswil, Linden, Mirchel, Münsingen, Niederhünigen, Niedermuhlern, Oberdiessbach, Oberhünigen, Oberthal, Oppligen, Riggisberg, Röthenbach im Emmental, Rubigen, Rüderswil, Rüeggisberg, Rüschegg, Schangnau, Schwarzenburg, Signau, Thurnen, Toffen, Trub, Trubschachen, Wald (BE), Walkringen, Wichtrach, Worb, Zäziwil.
-
-## A2 Anhang 2: Eichamt BE+3 (zu Art. 3 Bst. c)
+## A2
 
 #### Art. A2-1
 
-**Eichamt BE+3**
+**…**
 
-<sup>1</sup> Affoltern i. E., Bern, Bolligen, Bremgarten b. Bern, Dürrenroth, Ferenbalm, Frauenkappelen, Gurbrü, Hasle b. Burgdorf, Ittigen, Kirchlindach, Köniz, Krauchthal, Kriechenwil, Laupen, Lützelflüh, Meikirch, Mühleberg, Münchenwiler, Muri b. Bern, Neuenegg, Oberbalm, Oberburg, Ostermundigen, Rüegsau, Stettlen, Sumiswald, Trachselwald, Vechigen, Wileroltigen, Wohlen b. Bern, Zollikofen.
-
-## A3 Anhang 3: Eichamt BE+4 (zu Art. 3 Bst. d)
+## A3
 
 #### Art. A3-1
 
-**Eichamt BE+4**
-
-<sup>1</sup> Aefligen, Alchenstorf, Bäriswil, Bätterkinden, Burgdorf, Deisswil b. Münchenbuchsee, Ersigen, Fraubrunnen, Heimiswil, Hellsau, Hindelbank, Höchstetten, Iffwil, Jegenstorf, Kernenried, Kirchberg (BE), Koppigen, Lyssach, Mattstetten, Moosseedorf, Münchenbuchsee, Rüdtligen-Alchenflüh, Rumendingen, Rüti b. Lyssach, Urtenen-Schönbühl, Utzenstorf, Wiggiswil, Wiler b. Utzenstorf, Willadingen, Wynigen, Zielebach, Zuzwil (BE).
+**…**
 
 Bern, 16. August 2000
 
