@@ -4,13 +4,12 @@ number: "614.71"
 title: Gesetz über das Halten von Hunden
 short: Hundegesetz
 language: de
-version: 2007-08-01
-valid_until: 2025-12-31
-version_adopted: 2006-11-07
+version: 2026-01-01
+version_adopted: 2025-05-18
 adopted: 2006-11-07
 in_force: 2007-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.71"
-pdf: "https://bgs.so.ch/api/de/versions/3452/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5574/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/3452/pdf_file"
 
 (Hundegesetz)
 
-Vom 07.11.2006 (Stand 01.08.2007)
+Vom 07.11.2006 (Stand 01.01.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -37,9 +36,9 @@ beschliesst:
 
 #### § 1
 
-**Gegenstand**
+**Zweck und Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt das Halten, die Zucht und die Kontrolle von Hunden sowie die Erhebung der Abgaben.
+<sup>1</sup> Dieses Gesetz bezweckt den sicheren und verantwortungsbewussten Umgang mit Hunden und regelt das Halten, die Betreuung, die Zucht und die Kontrolle von Hunden sowie die Erhebung der Hundesteuer.
 
 ## 2. Haltung, Zucht und Kontrolle
 
@@ -57,15 +56,15 @@ beschliesst:
 
 <sup>1</sup> Hunde müssen so gehalten werden, dass sie weder Mensch noch Tier belästigen oder gefährden. Sie sind stets unter Kontrolle zu halten.
 
-<sup>2</sup> Der Regierungsrat kann eine Liste von potenziell gefährlichen Hunderassen und ihrer Kreuzungen erlassen. Diese Hunde müssen ausserhalb der Privatsphäre immer an der Leine geführt werden.
+<sup>2</sup> Der Regierungsrat kann eine Liste von potenziell gefährlichen Hunderassen und ihrer Kreuzungen erlassen. Diese Hunde müssen ausserhalb der Privatsphäre immer als Einzelhund an der Leine geführt werden.
 
 #### § 4
 
 **Haltebewilligung für Hunde bestimmter Rassen**
 
-<sup>1</sup> Der Regierungsrat kann die Zucht, den Handel, das Halten und das Verbringen in Kantonsgebiet von Hunden bestimmter Rassen oder Kreuzungen verbieten oder einer Bewilligungspflicht unterstellen.
+<sup>1</sup> Der Regierungsrat kann die Zucht, den Handel und das Halten sowie die regelmässige Betreuung im und das Verbringen in Kantonsgebiet von Hunden einer potenziell gefährlichen Rasse und ihrer Kreuzungen verbieten oder einer Bewilligungspflicht unterstellen.
 
-<sup>2</sup> Unterliegen Hunde bestimmter Rassen einer Bewilligung, ist diese vor dem Erwerb des Hundes und bei selbst gezüchteten Welpen spätestens 60 Tage nach deren Geburt bei der zuständigen Dienststelle einzuholen.
+<sup>2</sup> Unterliegen Hunde potenziell gefährlicher Rassen und ihrer Kreuzungen einer Bewilligungspflicht, ist die Bewilligung vor dem Erwerb des Hundes und bei selbst gezüchteten Welpen spätestens 15 Wochen nach deren Geburt beim Veterinärdienst einzuholen.
 
 <sup>3</sup> Die Bewilligung wird erteilt, wenn
 
@@ -73,13 +72,17 @@ beschliesst:
   - 1\. mündig ist,
   - 2\. den Nachweis erbringt, dass er oder sie die erforderlichen Kenntnisse über die Haltung und den Umgang mit Hunden hat,
   - 3\. einen einwandfreien Leumund hat und
-- b) der Abstammungsausweis des Hundes von einem anerkannten schweizerischen Rasseclub anerkannt ist.
+- b) der Hund
+  - 1\. über einen Abstammungsausweis von einem durch Verordnung des Regierungsrats anerkannten internationalen Dachverband verfügt; oder
+  - 2\. nach Ende der Adoleszenz eine Wesensprüfung durch eine anerkannte Fachperson bestanden hat.
 
-<sup>4</sup> Die zuständige Dienststelle kann mit der Bewilligung weitere Auflagen an die Ausbildung der oder des Gesuchstellenden und des Hundes sowie Anforderungen an die Haltung festlegen. Halter, Halterinnen und deren Hunde haben eine entsprechende Ausbildung abzuschliessen.
+<sup>3<sup>bis</sup></sup> In anderen Kantonen ausgestellte Bewilligungen zum Halten von Hunden potenziell gefährlicher Hunderassen und ihrer Kreuzungen sind im Kanton Solothurn anerkannt, wenn der Hund bisher nicht auffällig geworden ist. Kann beim Zuzug aus einem anderen Kanton keine solche Bewilligung vorgelegt werden und hat der Hund die Adoleszenz noch nicht erreicht, stellt der Veterinärdienst eine befristete Bewilligung aus. In allen anderen Fällen gilt Absatz 3.
+
+<sup>4</sup> Der Veterinärdienst legt mit der Bewilligung Auflagen an die Ausbildung der oder des Gesuchstellenden und des Hundes fest. Halter, Halterinnen und deren Hunde haben eine entsprechende Ausbildung zu absolvieren. Der Veterinärdienst kann weitere Auflagen an die Haltung und die Betreuung festlegen.
 
 <sup>5</sup> Für die Bewilligung ist eine Gebühr nach dem Gebührentarif[^4-1] zu entrichten.
 
-<sup>6</sup> Die Anordnung von weiteren Massnahmen nach § 5 bleibt vorbehalten.
+<sup>6</sup> …
 
 [^4-1]: BGS [615.11](https://bgs.so.ch/data/615.11/de).
 
@@ -87,9 +90,9 @@ beschliesst:
 
 **Massnahmen**
 
-<sup>1</sup> Das Oberamt hat, allenfalls unter Beizug der Fachorgane, die notwendigen Massnahmen anzuordnen, wenn der Halter oder die Halterin seinen respektive ihren Pflichten nicht nachkommt, ein schwerwiegender Verdacht einer Bedrohung durch den Hund besteht oder bei diesem Verhaltensauffälligkeiten festgestellt werden.
+<sup>1</sup> Das Oberamt oder der Veterinärdienst hat, allenfalls unter Beizug der Fachorgane, die notwendigen Massnahmen anzuordnen, wenn der Halter oder die Halterin seinen respektive ihren Pflichten nicht nachkommt, ein schwerwiegender Verdacht einer Bedrohung durch den Hund besteht oder bei diesem Verhaltensauffälligkeiten festgestellt werden.
 
-<sup>2</sup> Es kann insbesondere:
+<sup>2</sup> Die zuständige Dienststelle kann insbesondere:
 
 - a) Ermahnungen und Verwarnungen aussprechen;
 - b) Anordnungen über Erziehung, Pflege oder Unterbringung des Hundes erlassen;
@@ -97,7 +100,7 @@ beschliesst:
 - d) einen Hund unter Beobachtung stellen oder einen Wesenstest des Hundes anordnen;
 - e) den Besuch eines Hundehalterkurses oder eines Erziehungskurses für Hunde anordnen;
 - f) die vorübergehende Unterbringung in einem Tierheim oder eine andere geeignete Tierhaltung anordnen;
-- g) den Hund zur Neuplatzierung entziehen;
+- g) den Hund unter Entzug des Eigentums zur Neuplatzierung entziehen;
 - h) in schwerwiegenden Fällen die Kastration oder Sterilisation des Hundes anordnen, die Hundehaltung verbieten oder die kostenpflichtige Euthanasierung des Hundes anordnen;
 - i) andere geeignete Massnahmen ergreifen;
 
@@ -109,15 +112,15 @@ beschliesst:
 
 **Meldung von Gefährdungen**
 
-<sup>1</sup> Tierärzte und Tierärztinnen, Polizeiorgane sowie Hundeausbildende haben dem zuständigen Oberamt Vorfälle zu melden, bei denen ein Hund Anzeichen von Verhaltensstörungen, insbesondere eine erhöhte Aggressionsbereitschaft zeigt.
+<sup>1</sup> Tierärzte und Tierärztinnen, Polizeiorgane sowie Hundeausbildende haben dem Veterinärdienst Vorfälle zu melden, bei denen ein Hund Anzeichen von Verhaltensstörungen, insbesondere eine erhöhte Aggressionsbereitschaft zeigt.
 
-<sup>2</sup> Ärzte und Ärztinnen haben Beissvorfälle dem Oberamt zu melden.
+<sup>2</sup> Ärzte und Ärztinnen haben Beissvorfälle dem Veterinärdienst zu melden.
 
 #### § 7
 
 **Melde- und Auskunftspflicht der Halter oder Halterinnen**
 
-<sup>1</sup> Wer einen mehr als drei Monate alten Hund hält, hat diesen der Einwohnergemeinde mit Angabe der Mikrochipnummer zur Aufnahme in die Bezugsliste anzumelden. Ebenso sind die Weitergabe oder der Tod des Hundes zu melden.
+<sup>1</sup> Wer einen mehr als drei Monate alten Hund hält, hat diesen bei der Einwohnergemeinde mit Angabe der Mikrochipnummer zu melden.
 
 <sup>2</sup> Mit der Anmeldung ist der Nachweis zu erbringen, dass eine Haftpflichtversicherung nach § 10 abgeschlossen ist.
 
@@ -127,9 +130,11 @@ beschliesst:
 
 **Kennzeichnung und Registrierung**
 
-<sup>1</sup> Alle meldepflichtigen Hunde müssen durch einen Tierarzt oder eine Tierärztin mit einem Mikrochip gekennzeichnet und durch diese in einer von der zuständigen Dienststelle bezeichneten Datenbank registriert werden.
+<sup>1</sup> Alle Hunde müssen nach den Vorgaben der Tierseuchenverordnung (TSV) vom 27. Juni 1995[^8-1] gekennzeichnet und registriert werden.
 
 <sup>2</sup> Die Kosten für die Kennzeichnung und die Registrierung trägt der Halter oder die Halterin.
+
+[^8-1]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de).
 
 #### § 9
 
@@ -143,32 +148,30 @@ beschliesst:
 
 <sup>1</sup> Der Halter oder die Halterin hat eine Haftpflichtversicherung abzuschliessen, welche die Risiken der Hundehaltung einschliesst und sowohl die Haftpflicht des Halters oder der Halterin als auch die derjenigen Person abdeckt, welche den Hund tatsächlich beaufsichtigt.
 
-## 3. Abgaben
+## 3. Hundesteuer
 
 #### § 11
 
-**Hundesteuer und Kontrollzeichengebühr**
+**Höhe und Verwendung**
 
-<sup>1</sup> Für jeden meldepflichtigen, im Kanton gehaltenen Hund hat der Halter oder die Halterin in seiner Wohnsitzgemeinde eine jährliche Hundesteuer von 50 Franken bis maximal 200 Franken und eine Kontrollzeichengebühr gemäss Gebührentarif[^11-1] zu entrichten. Der Kantonsrat kann die Hundesteuer den veränderten Verhältnissen anpassen.
+<sup>1</sup> Der Kanton erhebt von den auf seinem Gebiet wohnhaften Hundehalterinnen und Hundehaltern eine Hundesteuer von 35 Franken pro Hund.
 
-<sup>2</sup> Die Einwohnergemeinden legen für jeden auf ihrem Gebiet gehaltenen Hund die Hundesteuer im Rahmen von Absatz 1 fest.
+<sup>2</sup> Die Einwohnergemeinden erheben von den auf ihrem Gebiet wohnhaften Hundehalterinnen und Hundehaltern eine Hundesteuer von 50 Franken bis maximal 200 Franken pro Hund. Der Kanton kann die Hundesteuer den veränderten Verhältnissen anpassen.
 
-<sup>3</sup> Die Einnahmen der kantonalen Hundesteuer fallen an die Gemeinde.
-
-[^11-1]: BGS [615.11](https://bgs.so.ch/data/615.11/de).
+<sup>3</sup> Der Steuerertrag ist zur Finanzierung von Tätigkeiten im Zusammenhang mit der Hundehaltung sowie für den Vollzug der eidgenössischen Tierschutz- und Tierseuchengesetzgebung betreffend Hund zu verwenden.
 
 #### § 12
 
-**Abgabenbefreiung**
+**Steuerbefreiung**
 
-<sup>1</sup> Von den Abgaben befreit sind Halter oder Halterinnen von:
+<sup>1</sup> Von der Hundesteuer befreit sind Halter oder Halterinnen von:
 
 - a) Hunden, die noch nicht drei Monate alt sind;
 - b) Diensthunden der Armee, der Polizei und des Grenzwachtkorps;
-- c) Blindenführhunden und
+- c) Assistenzhunden; und
 - d) Hunden, für die sie die Abgaben bereits in einer andern Gemeinde des Kantons oder in einem andern Kanton entrichtet haben.
 
-<sup>2</sup> Ebenfalls von den Abgaben befreit ist das Halten von Hunden durch Tierheime und -kliniken, sofern es sich um Hunde handelt, die in einer kantonalen Hundekontrolle vorgemerkt sind und entsprechende gültige Kontrollzeichen tragen.
+<sup>2</sup> Ebenfalls von der Hundesteuer befreit ist das Halten von Hunden durch Tierheime und -kliniken, sofern die Hunde entsprechend den Vorgaben der eidgenössischen Tierseuchengesetzgebung registriert sind.
 
 #### § 13
 
@@ -180,11 +183,11 @@ beschliesst:
 
 **Zuständigkeit und Bezug**
 
-<sup>1</sup> Die Veranlagung und der Bezug der Abgaben erfolgen durch die Einwohnergemeinden, die jährlich eine Bezugsliste über die in ihrem Gebiet gehaltenen Hunde zu erstellen haben. Der zuständigen Dienststelle ist jährlich eine Kopie der Bezugsliste in elektronischer Form zu übermitteln.
+<sup>1</sup> Die Veranlagung und der Bezug der Hundesteuer gemäss § 11 Absatz 1 und 2 erfolgt durch die Einwohnergemeinden.
 
-<sup>2</sup> Die Halter oder Halterinnen meldepflichtiger Hunde haben diese beim Bezüger oder der Bezügerin zur Aufnahme in die Bezugsliste anzumelden.
+<sup>2</sup> …
 
-<sup>3</sup> Die Abgaben sind jeweils für ein Kalenderjahr zu entrichten. Die Abgabepflicht besteht für die am Stichtag 1. April gehaltenen Hunde.
+<sup>3</sup> Die Hundesteuer ist jeweils für ein Kalenderjahr zu entrichten. Die Steuerpflicht besteht für die am Stichtag 1. April gehaltenen Hunde.
 
 ## 4. Strafbestimmungen
 
