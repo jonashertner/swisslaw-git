@@ -4,13 +4,13 @@ number: IV B/4/2
 title: Reglement über den Bildungsgang Gymnasium der Kantonsschule Glarus
 short: "Reglement Gymnasium, RGym"
 language: de
-version: 2022-03-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-15
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-12
 adopted: 2020-06-12
 in_force: 2020-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.4.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2276/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2591/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2276/pdf_file"
 
 (Reglement Gymnasium, RGym)
 
-Vom 12.06.2020 (Stand 01.03.2022)
+Vom 12.06.2020 (Stand 01.01.2026)
 
 Der Kantonsschulrat,
 
@@ -69,7 +69,7 @@ erlässt:
 
 <sup>4</sup> Die Schulleitung erlässt eine Weisung zur Aufnahmeprüfung, in welcher sie insbesondere Anmeldung, Durchführung und Bestehen der Prüfung regelt.
 
-<sup>5</sup> Bei Lernenden von ausserkantonalen Schulen zählt die Beurteilung der Fachleistung durch die abgebende Schule bei der Aufnahmeprüfung nicht.
+<sup>5</sup> …
 
 <sup>6</sup> Für ausserkantonale Lernende wird eine Prüfungsgebühr erhoben.
 
@@ -77,7 +77,7 @@ erlässt:
 
 **Ausserordentliche Aufnahme**
 
-<sup>1</sup> Lernende aus ausserkantonalen, staatlich anerkannten Mittelschulen werden gemäss ihrem Promotionsstand in die Kantonsschule aufgenommen.
+<sup>1</sup> Lernende aus ausserkantonalen, staatlich anerkannten Mittelschulen können gemäss ihrem Promotionsstand in die Kantonsschule aufgenommen werden.
 
 <sup>2</sup> Die Schulleitung kann einer Aufnahme auch zustimmen, wenn eine gleichwertige Vorbildung nachgewiesen ist.
 
@@ -183,7 +183,7 @@ erlässt:
 
 <sup>1</sup> Die Promotionstermine fallen für die ersten bis dritten Klassen auf die Zeugnistermine (Semesterende); für die vierten und fünften Klassen auf das Ende des Schuljahres.
 
-<sup>2</sup> Lernende der ersten bis dritten Klassen, welche die Promotionsbedingungen nicht erfüllen, werden ins Provisorium versetzt.
+<sup>2</sup> Lernende der ersten bis dritten Klassen, welche die Promotionsbedingungen nicht erfüllen, werden provisorisch promoviert.
 
 <sup>3</sup> Erfüllen provisorisch promovierte Lernende am Ende der nächsten Zeugnisperiode die Promotionsbedingungen nicht, so werden sie nicht promoviert.
 
