@@ -4,13 +4,12 @@ number: "265"
 title: "Verordnung über die Kosten in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren"
 short: "Justiz-Kostenverordnung, JusKV"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-12
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/265"
-pdf: "https://srl.lu.ch/api/de/versions/4348/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4604/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4348/pdf_file"
 
 (Justiz-Kostenverordnung, JusKV)
 
-vom 26.03.2013 (Stand 01.01.2025)
+vom 26.03.2013 (Stand 01.01.2026)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -56,6 +55,8 @@ beschliesst:
 **Bemessung der Gebühren der berufsmässigen Vertretung**
 
 <sup>1</sup> Innerhalb des vorgegebenen Rahmens bemisst sich die Gebühr nach Umfang, Bedeutung und Schwierigkeit der Streitsache, nach der Art der Vertretung sowie nach dem sachlich gebotenen Zeitaufwand für die Verfahrensführung.
+
+<sup>1<sup>bis</sup></sup> Das Kantonsgericht regelt den für den Zeitaufwand massgeblichen Referenzwert durch Weisung.
 
 <sup>2</sup> Bei besonderen Umständen kann die Gebühr ohne Bindung an den vorgegebenen Rahmen erhöht werden, insbesondere bei ausserordentlichem Umfang, grosser Bedeutung oder besonderer Schwierigkeit der Streitsache, bei Mitbeurteilung von Zivilforderungen im Strafverfahren oder wenn die Prozessführung einen ausserordentlichen Zeitaufwand erforderte.
 
@@ -201,7 +202,7 @@ beschliesst:
 <sup>1</sup> Die Gebühren der Staatsanwaltschaft im Erwachsenenstrafrecht betragen
 
 - a. für ein Vorverfahren ohne Untersuchungshandlungen — Fr. 50.– bis Fr. 1000.–
-- b. für ein Vorverfahren mit Untersuchungshandlungen — Fr. 200.– bis Fr. 10 000.–
+- b. für ein Vorverfahren mit Untersuchungshandlungen — Fr. 200.– bis Fr. 20 000.–
 - c. für ein Verfahren betreffend Friedensbürgschaft — Fr. 200.– bis Fr. 2000.–
 - d. für nachträgliche Entscheide — Fr. 100.– bis Fr. 1000.–
 - e. für selbständige Einziehungsverfahren — Fr. 100.– bis Fr. 4000.–
@@ -253,7 +254,7 @@ beschliesst:
 
 <sup>1</sup> Vor Kantonsgericht beträgt die Gerichtsgebühr
 
-- a. im Berufungsverfahren — Fr. 1000.– bis Fr. 20 000.–
+- a. im Berufungsverfahren — Fr. 1000.– bis Fr. 25 000.–
 - b. im Beschwerdeverfahren — Fr. 500.– bis Fr. 5000.–
 - c. im Revisionsverfahren — Fr. 500.– bis Fr. 5000.–
 - d. in Jugendstrafsachen — Fr. 300.– bis Fr. 1000.–
@@ -395,11 +396,14 @@ beschliesst:
 
 <sup>1</sup> Ersetzt werden die für die Prozessführung notwendigen Auslagen.
 
-<sup>2</sup> Die Auslagen sind nach ihrer Art getrennt auszuweisen, soweit sie 100 Franken übersteigen. Fehlt eine ausreichende, nachvollziehbare Aufstellung, kann ein pauschaler Auslagenersatz nach Ermessen des Gerichts zugesprochen werden.
+<sup>2</sup> Die Auslagen gemäss Absatz 1 können pauschal mit 3 Prozent des (amtlichen) Honorars verrechnet werden. Die maximale Pauschale beträgt vor der ersten Instanz 500 Franken, vor der Rechtsmittelinstanz 300 Franken und in Verfahren nach VRG 200 Franken. Die Abrechnung der effektiven Auslagen nach Absatz 3 bleibt vorbehalten.
 
-<sup>3</sup> Für Fahrtkosten gilt § 23 Absatz 4.
+<sup>3</sup> Werden die effektiven Auslagen geltend gemacht, sind diese nach ihrer Art getrennt auszuweisen. Fehlt eine ausreichende, nachvollziehbare Aufstellung, wird der pauschale Auslagenersatz nach Absatz 2 zugesprochen.
 
-<sup>4</sup> Fotokopien werden mit 30 Rappen pro Stück vergütet. Das Kopieren der eigenen Akten (Rechtsschriften, Korrespondenzen u.Ä.) wird nicht entschädigt; bei berufsmässigen Vertreterinnen und Vertretern zählt dies zu den Kanzleiarbeiten im Sinn von § 30 Absatz 1.
+- a. Für Fahrtkosten gilt § 23 Absatz 4.
+- b. Fotokopien werden mit 30 Rappen pro Stück vergütet. Das Kopieren der eigenen Akten (Rechtsschriften, Korrespondenzen u.Ä.) wird nicht entschädigt; bei berufsmässigen Vertreterinnen und Vertretern zählt dies zu den Kanzleiarbeiten im Sinn von § 30 Absatz 1.
+
+<sup>4</sup> …
 
 ## 2 Verwaltungskosten
 
@@ -442,6 +446,7 @@ beschliesst:
   - 3\. A3-Kopie — Fr. 1.– pro Kopie
 - f. andere Vervielfältigungen — effektive Kosten
 - g. andere Dienstleistungen — Fr. 20.– bis Fr. 500.–
+- h. Zugang zu amtlichen Informationen gemäss Öffentlichkeitsprinzip nach Zeitaufwand von mehr als einer Stunde — Fr. 85.– bis Fr. 275.– pro Stunde
 
 <sup>2</sup> Die Gebühr kann bis zu 50 Prozent erhöht werden, wenn die Dienstleistung auf Ersuchen hin dringlich verrichtet wird.
 
