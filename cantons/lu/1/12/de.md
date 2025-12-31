@@ -1,23 +1,24 @@
 ---
 canton: LU
 number: "12"
-title: Verordnung über die versuchsweise Einführung der elektronischen Stimmabgabe für Auslandschweizerinnen und Auslandschweizer
+title: Verordnung über die versuchsweise Einführung der elektronischen Stimmabgabe
 short: E-Voting-Verordnung
 language: de
-version: 2010-08-01
-valid_until: 2025-12-31
-version_adopted: 2010-07-06
+version: 2026-01-01
+version_adopted: 2025-11-04
 adopted: 2025-11-04
 in_force: 2026-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/12"
-pdf: "https://srl.lu.ch/api/de/versions/2150/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die versuchsweise Einführung der elektronischen Stimmabgabe für Auslandschweizerinnen und Auslandschweizer
+# Verordnung über die versuchsweise Einführung der elektronischen Stimmabgabe
 
-vom 06.07.2010 (Stand 01.08.2010)
+(E-Voting-Verordnung)
+
+vom 04.11.2025 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -27,87 +28,103 @@ auf Antrag des Justiz- und Sicherheitsdepartementes,
 
 beschliesst:
 
-[^ingress-1]: SRL Nr. 10
+[^ingress-1]: SRL Nr. [10](https://srl.lu.ch/data/10/de)
 
-## 1 Geltungsbereich
+## 1 Zweck
 
 #### § 1
 
-<sup>1</sup> Die Verordnung regelt die versuchsweise Einführung der elektronischen Stimmabgabe für Auslandschweizerinnen und Auslandschweizer, die nach Massgabe des Bundesrechts im Kanton Luzern stimmberechtigt sind. Der Bund legt den Kreis der Länder fest, in denen die Auslandschweizerinnen und Auslandschweizer berechtigt sind, ihre Stimme elektronisch abzugeben.
-
-<sup>2</sup> Das Justiz- und Sicherheitsdepartement bestimmt für jede Abstimmung, ob die Möglichkeit der elektronischen Stimmabgabe eingeräumt werden soll und unterbreitet dem Bundesrat ein entsprechendes Gesuch.
+<sup>1</sup> Die Verordnung regelt die versuchsweise Einführung der elektronischen Stimmabgabe im Kanton Luzern, die nach Massgabe der bundesrechtlichen Vorschriften durchzuführen ist.
 
 ## 2 Organisation und Vorbereitung
 
 #### § 2
 
-**Zusammenarbeit mit dem Kanton Genf**
+**System zur elektronischen Stimmabgabe**
 
-<sup>1</sup> Der Kanton Luzern ermöglicht die elektronische Stimmabgabe auf dem System des Kantons Genf.
-
-<sup>2</sup> Die Einzelheiten der Zusammenarbeit mit dem Kanton Genf werden in einer Übereinkunft zwischen den Kantonen Luzern und Genf und dem Bund geregelt, insbesondere die Einhaltung der eidgenössischen Bestimmungen zu den Versuchen mit elektronischer Stimmabgabe sowie die Zuständigkeiten, Aufgaben und Verantwortlichkeiten.
+<sup>1</sup> Der Kanton Luzern ermöglicht die elektronische Stimmabgabe auf einem System, das nach den bundesrechtlichen Vorschriften zugelassen ist.
 
 #### § 3
 
-**Berechtigung zur elektronischen Stimmabgabe**
+**Organisation**
 
-<sup>1</sup> Das Justiz- und Sicherheitsdepartement bestimmt die Frist, innert der ein Auslandschweizer oder eine Auslandschweizerin im Stimmregister eingetragen sein muss, um elektronisch abstimmen zu können.
+<sup>1</sup> Das Justiz- und Sicherheitsdepartement ist zuständig für die Durchführung der elektronischen Stimmabgabe und holt die erforderliche Grundbewilligung ein.
+
+<sup>2</sup> Es bestimmt für jede Abstimmung und Wahl den Kreis der zur elektronischen Stimmabgabe zugelassenen Stimmberechtigten und unterbreitet dem Bund ein entsprechendes Zulassungsgesuch.
 
 #### § 4
 
-**Stimmregisterdaten**
+**Berechtigung zur elektronischen Stimmabgabe**
 
-<sup>1</sup> Das Justiz- und Sicherheitsdepartement übermittelt dem Kanton Genf die für die Durchführung der Abstimmung und die Kontrolle der Stimmberechtigung erforderlichen Stimmregisterdaten verschlüsselt über eine sichere Datenleitung.
-
-<sup>2</sup> Vom Kanton Genf werden die Daten mit den für die elektronische Stimmabgabe notwendigen Informationen versehen, worauf diese wiederum verschlüsselt über eine sichere Datenleitung an den Kanton Luzern übermittelt werden.
+<sup>1</sup> Das Justiz- und Sicherheitsdepartement bestimmt die Frist, innert der die zugelassenen Stimmberechtigten im Stimmregister eingetragen sein müssen, um zur elektronischen Stimmabgabe berechtigt zu sein.
 
 #### § 5
 
-**Zustellung der Abstimmungsunterlagen**
+**Zustellung Stimmmaterial**
 
-<sup>1</sup> Die Auslandschweizerinnen und Auslandschweizer, die berechtigt sind, ihre Stimme elektronisch abzugeben, erhalten die Abstimmungsunterlagen, den Stimmrechtsausweis sowie die Informationen zum elektronischen Abstimmungsverfahren vom Justiz- und Sicherheitsdepartement in einer einzigen postalischen Sendung.
+<sup>1</sup> Die zur elektronischen Stimmabgabe zugelassenen Stimmberechtigten erhalten die Abstimmungs- und Wahlunterlagen und den Stimmrechtsausweis in einer einzigen postalischen Sendung.
 
-<sup>2</sup> Der Stimmrechtsausweis enthält die Zugangsdaten für die elektronische Stimmabgabe.
+<sup>2</sup> Den gemäss § 7 angemeldeten Stimmberechtigten kann das Stimmmaterial mit Ausnahme des Stimmrechtsausweises elektronisch zur Verfügung gestellt werden.
 
 ## 3 Stimmabgabe
 
 #### § 6
 
-**Allgemeines**
+**Form der Stimmabgabe**
 
-<sup>1</sup> Die zur elektronischen Stimmabgabe Berechtigten können bei jedem Urnengang frei zwischen persönlicher, brieflicher oder elektronischer Stimmabgabe wählen.
+<sup>1</sup> Die zur elektronischen Stimmabgabe Berechtigten können unter Vorbehalt von § 7 bei jedem Urnengang frei zwischen persönlicher, brieflicher oder elektronischer Stimmabgabe wählen.
 
-<sup>2</sup> Sie dürfen ihre Stimme nur einmal abgeben. Das Justiz- und Sicherheitsdepartement setzt zur Verhinderung doppelter Stimmabgaben ein Computerprogramm des Kantons Genf ein.
+<sup>2</sup> Sie dürfen ihre Stimme nur einmal abgeben.
 
 #### § 7
 
-**Elektronische Stimmabgabe**
+**Anmeldeverfahren**
 
-<sup>1</sup> Bei der elektronischen Stimmabgabe üben die Stimmberechtigten ihr Stimmrecht auf einer speziellen Abstimmungsseite im Internet aus. Diese ist sicherheitstechnisch durch Zertifikat geschützt.
+<sup>1</sup> Das Justiz- und Sicherheitsdepartement kann für die elektronische Stimmabgabe eine vorgängige Anmeldung durch die zugelassenen Stimmberechtigten voraussetzen. Wer angemeldet ist, kann bis zur Abmeldung oder bis zum Widerruf ausschliesslich elektronisch abstimmen.
 
-<sup>2</sup> Die Kontrolle der Stimmberechtigung erfolgt mittels Eingabe der auf dem Stimmrechtsausweis aufgedruckten Kontrollnummer, des persönlichen Passwortes und des Geburtsdatums durch die Stimmberechtigten.
+<sup>2</sup> Für die bevorstehende Abstimmung oder Wahl werden alle An- und Abmeldungen berücksichtigt, die bis spätestens acht Wochen vor dem Abstimmungs- oder Wahltag bei der Gemeinde eingetroffen sind.
 
-<sup>3</sup> Der Stimmrechtsausweis kann zusätzliche Sicherheitselemente enthalten.
+<sup>3</sup> Nach Ablauf der Frist gemäss Absatz 2 kann die Anmeldung widerrufen werden und für die bevorstehende Abstimmung oder Wahl das Stimmmaterial für die briefliche und persönliche Stimmabgabe bei der Gemeinde verlangt werden. Die Gemeinde stellt sicher, dass die Person ihre Stimme nur einmal abgeben kann.
 
 #### § 8
 
+**Elektronische Stimmabgabe**
+
+<sup>1</sup> Bei der elektronischen Stimmabgabe üben die Stimmberechtigten ihr Stimmrecht auf einer Internetseite aus.
+
+<sup>2</sup> Die Kontrolle der Stimmberechtigung erfolgt mittels Eingabe des auf dem Stimmrechtsausweis aufgedruckten persönlichen Initialisierungscodes und des Geburtsjahres durch die Stimmberechtigten.
+
+<sup>3</sup> Der Stimmrechtsausweis enthält die persönlichen Codes für die elektronische Stimmabgabe.
+
+#### § 9
+
+**Urnenbüro für Auslandschweizerinnen und Auslandschweizer**
+
+<sup>1</sup> Mitglieder des Urnenbüros für Auslandschweizerinnen und Auslandschweizer überwachen den Ablauf, die Entschlüsselung und die Auswertung der elektronisch abgegebenen Stimmen.
+
+<sup>2</sup> Der Regierungsrat kann zur Ausübung dieser Aufgaben weitere Personen bestimmen, die nicht dem Urnenbüro für Auslandschweizerinnen und Auslandschweizer angehören.
+
+<sup>3</sup> Die Personen gemäss Absatz 1 und 2 dürfen nicht für die technische Durchführung des Urnengangs mit elektronischer Stimmabgabe zuständig sein.
+
+#### § 10
+
 **Öffnung und Schliessung der elektronischen Urne**
 
-<sup>1</sup> Die elektronische Urne wird am vierten Montag vor dem Abstimmungssonntag um 12.00 Uhr geöffnet und am Samstag vor dem Abstimmungssonntag um 12.00 Uhr geschlossen.
+<sup>1</sup> Das Justiz- und Sicherheitsdepartement regelt die Öffnungs- und Schliessungszeiten der elektronischen Urne.
 
 <sup>2</sup> Die Öffnung und Schliessung der elektronischen Urne wird auf dem Stimmrechtsausweis der zur elektronischen Stimmabgabe Berechtigten aufgedruckt.
 
 <sup>3</sup> Massgebend für alle Zeitangaben im Zusammenhang mit der elektronischen Stimmabgabe ist Schweizer Zeit, das heisst Mitteleuropäische Zeit (MEZ) unter Berücksichtigung der Sommerzeit gemäss der eidgenössischen Gesetzgebung.
 
-#### § 9
+#### § 11
 
 **Helpdesk**
 
-<sup>1</sup> Das Justiz- und Sicherheitsdepartement betreibt während der letzten vier Wochen vor dem Abstimmungssonntag einen Helpdesk. Dort werden Fragen der zur elektronischen Stimmabgabe Berechtigten zu den politischen Rechten, zur elektronischen Stimmabgabe, zu Verfahrensfragen und zu technischen Problemen während der Bürozeiten der kantonalen Verwaltung telefonisch oder elektronisch beantwortet.
+<sup>1</sup> Das Justiz- und Sicherheitsdepartement betreibt einen Helpdesk. Dort werden Fragen der zur elektronischen Stimmabgabe zugelassenen Stimmberechtigten zu den politischen Rechten, zur elektronischen Stimmabgabe, zu Verfahrensfragen und zu technischen Problemen während der Bürozeiten der kantonalen Verwaltung telefonisch oder elektronisch beantwortet.
 
 ## 4 Sicherheit und Datenschutz
 
-#### § 10
+#### § 12
 
 **Sicherheit des Systems**
 
@@ -115,72 +132,22 @@ beschliesst:
 
 <sup>2</sup> Es wird regelmässig auf seine Verfügbarkeit, Funktionalität und Sicherheit überprüft.
 
-<sup>3</sup> Der Kanton Luzern kann auf eigene Kosten zusätzliche Prüfungen des Systems veranlassen.
-
-#### § 11
-
-**Testurne**
-
-<sup>1</sup> Der Kanton Luzern kann das System während des Urnengangs auf einer Testurne des Kantons Genf überprüfen. Das Justiz- und Sicherheitsdepartement gibt dem Kanton Genf dafür bei der Übermittlung der Stimmregisterdaten gemäss § 4 die gewünschte Anzahl Testkarten sowie das virtuelle Stimmlokal mit der Testurne bekannt.
-
-#### § 12
+#### § 13
 
 **Wahrung des Stimmgeheimnisses**
 
 <sup>1</sup> Die abgegebenen Stimmen werden zum Zeitpunkt der Stimmabgabe durch das System der elektronischen Stimmabgabe von den personenbezogenen Daten so getrennt, dass sie einander nicht wieder zugeordnet werden können.
 
-#### § 13
-
-**Kontrolle des Doppelstimmverbots**
-
-<sup>1</sup> Jede persönliche, briefliche oder elektronische Stimmabgabe wird im System der elektronischen Stimmabgabe registriert.
-
-<sup>2</sup> Die Registrierung der elektronischen Stimmabgaben erfolgt automatisch, diejenige der brieflichen und der persönlichen Stimmabgaben manuell durch Einlesen des Strichcodes auf dem Stimmrechtsausweis.
-
 #### § 14
 
-**Kontrollurne**
+**Ergebnis der elektronischen Urne**
 
-<sup>1</sup> Die Funktionsfähigkeit der elektronischen Urne wird für jeden Urnengang auf einer Kontrollurne des Kantons Genf geprüft.
-
-<sup>2</sup> Bei der Kontrollabstimmung wird im Kanton Genf überprüft, ob die von Kontrolleuren abgegebenen und protokollierten Stimmen mit den vom System ausgegebenen Resultaten übereinstimmen. Das Prüfungsergebnis wird am Ende des Urnengangs mit allen Einzelheiten und den Angaben zur Stimmbeteiligung an das Justiz- und Sicherheitsdepartement übermittelt.
-
-<sup>3</sup> Führt der Kanton Luzern einen elektronischen Urnengang ausserhalb des Versuchs des Kantons Genf durch, richtet dieser eine Kontrollurne für den Kanton Luzern ein. Die Kontrollabstimmung wird mit einer vom Justiz- und Sicherheitsdepartement bestimmten Delegation durchgeführt.
+<sup>1</sup> Die elektronisch abgegebenen Stimmen werden separat ausgewiesen, sofern dadurch das Stimmgeheimnis nicht verletzt wird und keine Rückschlüsse auf das Stimmverhalten einer bestimmten Gruppe von Stimmberechtigten möglich sind.
 
 #### § 15
 
-**Schlussergebnisse**
+**Löschung der Daten**
 
-<sup>1</sup> Das Justiz- und Sicherheitsdepartement erhält vom Kanton Genf am Abstimmungssonntag die detaillierten Schlussergebnisse sowie eine Statistik über die Stimmbeteiligung.
+<sup>1</sup> Nach der Erwahrung des Abstimmungs- oder Wahlergebnisses werden alle mit dem elektronischen Urnengang zusammenhängenden Daten gelöscht.
 
-#### § 16
-
-**Ablage der Datensätze**
-
-<sup>1</sup> Sämtliche zwischen den Kantonen Luzern und Genf übermittelten Datensätze werden durch das Justiz- und Sicherheitsdepartement elektronisch abgelegt.
-
-#### § 17
-
-**Löschung der Datensätze**
-
-<sup>1</sup> Nach der Erwahrung des Abstimmungsergebnisses durch den Bund löscht der Kanton Luzern die elektronischen Datensätze der jeweiligen Abstimmung umgehend. Er vereinbart mit dem Kanton Genf, dass dieser die elektronischen Datensätze, die den Kanton Luzern betreffen, ebenfalls umgehend löscht.
-
-<sup>2</sup> Vorbehalten bleiben besondere Anordnungen im Rahmen der wissenschaftlichen Begleitung des Versuchs durch den Bund.
-
-## 5 Schlussbestimmungen
-
-#### § 18
-
-**Berichterstattung**
-
-<sup>1</sup> Das Justiz- und Sicherheitsdepartement erstattet dem Regierungsrat spätestens nach fünf Abstimmungen mit elektronischer Stimmabgabe Bericht über die gemachten Erfahrungen und unterbreitet ihm Vorschläge für das weitere Vorgehen.
-
-#### § 19
-
-**Inkrafttreten**
-
-<sup>1</sup> Die Verordnung tritt unter Vorbehalt der Genehmigung des Bundes[^19-1] am 1. August 2010 in Kraft. Sie ist zu veröffentlichen.
-
-[^19-1]: Vom Bund genehmigt am 16. Juli 2010.
-
-K 2010 2171 | G 2010 196
+G 2025-086
