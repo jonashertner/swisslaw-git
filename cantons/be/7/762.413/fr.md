@@ -4,13 +4,12 @@ number: "762.413"
 title: Ordonnance sur les conférences régionales des transports
 short: OCRT
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-08
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/762.413"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2899/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3236/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2899/pdf_file"
 
 (OCRT)
 
-du 24.10.2007 (état au 01.01.2024)
+du 24.10.2007 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -127,7 +126,7 @@ arrête:
 
 <sup>1</sup> Communes de la CRT 1 / Conférence régionale de Biel/Bienne-Seeland-Jura bernois:
 
-Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Belprahon, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Eschert, Evilard, Finsterhennen, Gals, Gampelen, Grandval, Grossaffoltern, Hagneck, Hermrigen, Ins (Anet), Ipsach, Jens, Kallnach, Kappelen, La Ferrière, La Neuveville, Lengnau (BE), Leuzigen, Ligerz, Loveresse, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mont-Tramelan, Mörigen, Moutier, Müntschemier, Nidau, Nods, Oberwil bei Büren, Orpund, Orvin, Perrefitte, Péry-La Heutte, 70a. Petit-Val, Pieterlen, Plateau de Diesse, Port, Radelfingen, Rapperswil (BE) (au plus tard dès le 1.1.2010)[^A11-1], Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Rüti bei Büren, Safnern, Saicourt, Sauge, Saules (BE), Schelten, Scheuren, Schüpfen (au plus tard dès le 1.1.2010)[^A11-2], Schwadernau, Seedorf (BE), Seehof, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, St-Imier, Studen (BE), Sutz-Lattrigen, Täuffelen, Tavannes, Tramelan, Treiten, Tschugg, Twann-Tüscherz , Valbirse, Villeret, Vinelz, Walperswil, Wengi bei Büren, Worben
+Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Belprahon, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Eschert, Evilard, Finsterhennen, Gals, Gampelen, Grandval, Grossaffoltern, Hagneck, Hermrigen, Ins (Anet), Ipsach, Jens, Kallnach, Kappelen, La Ferrière, La Neuveville, Lengnau (BE), Leuzigen, Ligerz, Loveresse, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mont-Tramelan, Mörigen, Müntschemier, Nidau, Nods, Oberwil bei Büren, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Pieterlen, Plateau de Diesse, Port, Radelfingen, Rapperswil (BE) (au plus tard dès le 1.1.2010)[^A11-1], Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Rüti bei Büren, Safnern, Saicourt, Sauge, Saules (BE), Schelten, Scheuren, Schüpfen (au plus tard dès le 1.1.2010)[^A11-2], Schwadernau, Seedorf (BE), Seehof, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, St-Imier, Studen (BE), Sutz-Lattrigen, Täuffelen, Tavannes, Tramelan, Treiten, Tschugg, Twann-Tüscherz , Valbirse, Villeret, Vinelz, Walperswil, Wengi bei Büren, Worben.
 
 [^A11-1]: auparavant: CRT Berne-Mittelland
 [^A11-2]: auparavant: CRT Berne-Mittelland

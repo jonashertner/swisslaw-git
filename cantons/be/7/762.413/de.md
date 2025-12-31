@@ -4,13 +4,12 @@ number: "762.413"
 title: Verordnung über die regionalen Verkehrskonferenzen
 short: RVKV
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-08
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/762.413"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2899/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3236/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2899/pdf_file"
 
 (RVKV)
 
-vom 24.10.2007 (Stand 01.01.2024)
+vom 24.10.2007 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -125,9 +124,9 @@ beschliesst:
 
 **Regionale Verkehrskonferenz Biel-Seeland-Berner Jura (RVK 1) / Regionalkonferenz Biel/Bienne-Seeland-Jura bernois**
 
-<sup>1</sup> Gemeinden der RVK 1 / Regionalkonferenz Biel/Bienne-Seeland- Jura bernois:
+<sup>1</sup> Gemeinden der RVK 1 / Regionalkonferenz Biel/Bienne-Seeland-Jura bernois:
 
-Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Belprahon, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Eschert, Evilard (Leubringen), Finsterhennen, Gals, Gampelen, Grandval, Grossaffoltern, Hagneck, Hermrigen, Ins, Ipsach, Jens, Kallnach, Kappelen, La Ferrière, La Neuveville, Lengnau (BE), Leuzigen, Ligerz, Loveresse, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mont-Tramelan, Mörigen, Moutier, Müntschemier, Nidau, Nods, Oberwil bei Büren, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Pieterlen, Plateau de Diesse, Port, Radelfingen, Rapperswil (BE) (spätestens ab 1.1.2010)[^A11-1], Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Rüti bei Büren, Safnern, Saicourt, Sauge, Saules (BE), Schelten, Scheuren, Schüpfen (spätestens ab 1.1.2010)[^A11-2], Schwadernau, Seedorf (BE), Seehof, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, St-Imier, Studen (BE), Sutz-Lattrigen, Täuffelen, Tavannes, Tramelan, Treiten, Tschugg, Twann-Tüscherz, Valbirse, Villeret, Vinelz, Walperswil, Wengi bei Büren, Worben.
+Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Belprahon, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Eschert, Evilard, Finsterhennen, Gals, Gampelen, Grandval, Grossaffoltern, Hagneck, Hermrigen, Ins, Ipsach, Jens, Kallnach, Kappelen, La Ferrière, La Neuveville, Lengnau (BE), Leuzigen, Ligerz, Loveresse, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mont-Tramelan, Mörigen, Müntschemier, Nidau, Nods, Oberwil bei Büren, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Pieterlen, Plateau de Diesse, Port, Radelfingen, Rapperswil (BE) (spätestens ab 1.1.2010)[^A11-1], Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Rüti bei Büren, Safnern, Saicourt, Sauge, Saules (BE), Schelten, Scheuren, Schüpfen (spätestens ab 1.1.2010)[^A11-2], Schwadernau, Seedorf (BE), Seehof, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, St-Imier, Studen (BE), Sutz-Lattrigen, Täuffelen, Tavannes, Tramelan, Treiten, Tschugg, Twann-Tüscherz, Valbirse, Villeret, Vinelz, Walperswil, Wengi bei Büren, Worben.
 
 [^A11-1]: bisher: RVK Bern-Mittelland
 [^A11-2]: bisher: RVK Bern-Mittelland
