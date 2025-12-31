@@ -3,18 +3,18 @@ sr: "412.101.222.07"
 title: Ordonnance du SEFRI du 22 juillet 2014 sur la formation professionnelle initiale de peintre avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/462"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2014-07-22
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/462/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-462-20240401-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/462/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/462/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-462-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/462/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de peintre avec certificat fédéral de capacité (CFC)\*
 
-du 22 juillet 2014 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 22 juillet 2014 (État le 1<sup>er</sup> janvier 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -28,10 +28,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Nouvelle teneur selon le ch. I 154 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
@@ -73,7 +73,7 @@ Les peintres de niveau CFC maîtrisent notamment les activités suivantes et se 
 
 La formation comprend les compétences opérationnelles ci-après dans les domaines de compétences opérationnelles suivants:
 
-- a.
+-
 
   Planification, préparation des travaux et comptes-rendus:
 
@@ -82,7 +82,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   - 3\. planifier les processus de travail et installer le poste de travail,
   - 4\. préparer le travail et élaborer des comptes rendus;
 
-- b.
+-
 
   Préparation et recouvrement des fonds:
 
@@ -90,14 +90,14 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   - 2\. préparer et mener les travaux de prétraitement,
   - 3\. appliquer les revêtements;
 
-- c.
+-
 
   Décoration et façonnage:
 
   - 1\. mettre en place des techniques et des éléments décoratifs et créatifs,
   - 2\. appliquer des revêtements muraux prêts à l’emploi;
 
-- d.
+-
 
   Sécurité au travail, protection de la santé et protection de l’environnement:
 
@@ -121,7 +121,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 154 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -151,7 +151,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légères divergences par rapport au nombre prescrit de périodes d’enseignement par année d’apprentissage au sein d’un domaine de compétences opérationnelles sont possibles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>4</sup> La langue d’enseignement est en règle générale la langue nationale du lieu d’implantation de l’école.
 
@@ -159,7 +159,8 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>6</sup> Les cantons peuvent admettre d’autres langues d’enseignement.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -323,11 +324,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>4.</td><td>Entretien professionnel (sur tous les domaines de compétences opérationnelles)</td><td>oral/60 min</td><td>40 %</td></tr>
 </table>
 
-- c. Culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- c. Culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
