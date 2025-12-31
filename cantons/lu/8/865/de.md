@@ -4,20 +4,21 @@ number: "865"
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: EGKVG
 language: de
-version: 2021-09-01
-valid_until: 2025-12-31
-version_adopted: 2021-05-10
+version: 2026-01-01
+version_adopted: 2025-09-08
 adopted: 1998-03-23
 in_force: 1998-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/865"
-pdf: "https://srl.lu.ch/api/de/versions/3799/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4576/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 
-vom 23.03.1998 (Stand 01.09.2021)
+(EGKVG)
+
+vom 23.03.1998 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -95,7 +96,7 @@ beschliesst:
 
 <sup>1</sup> Das Sozialversicherungszentrum des Kantons Luzern führt eine Stelle für ausstehende Prämien und Kostenbeteiligungen der obligatorischen Krankenpflegeversicherung.
 
-<sup>2</sup> Die Versicherer melden der Stelle die Schuldnerinnen und Schuldner, die von ihnen wegen ausstehender Prämien und Kostenbeteiligungen der obligatorischen Krankenpflegeversicherung sowie Verzugszinsen betrieben werden. Die Stelle orientiert die zuständige Gemeinde über die Meldung.
+<sup>2</sup> …
 
 <sup>3</sup> Die Stelle
 
@@ -107,36 +108,7 @@ beschliesst:
 
 #### § 5a
 
-**Liste säumiger Prämienzahlerinnen und -zahler**
-
-<sup>1</sup> Die Stelle gemäss § 5 Absatz 1 führt eine elektronische Liste, in die obligatorisch versicherte Personen aufgenommen werden, die ihrer Prämienpflicht trotz Betreibung nicht nachkommen. Nicht in der Liste aufgeführt werden dürfen
-
-- a. Personen, die Ergänzungsleistungen zur AHV/IV, wirtschaftliche Sozialhilfe gemäss den §§ 28 Absatz 1 oder 61 Absatz 1 oder Mutterschaftsbeihilfe gemäss den §§ 54 ff. des Sozialhilfegesetzes vom 24. Oktober 1989[^5a-1] beziehen,
-- b. Kinder bis zum vollendeten 18. Lebensjahr.
-
-<sup>2</sup> Die zuständige Gemeinde teilt der Stelle aufgrund der Meldung gemäss § 5 Absatz 2 mit, ob die versicherte Person wirtschaftliche Sozialhilfe oder Mutterschaftsbeihilfe im Sinn von § 5a Absatz 1a bezieht. Die Ausgleichskasse Luzern teilt der Stelle mit, ob die versicherte Person Ergänzungsleistungen der AHV/IV bezieht.
-
-<sup>3</sup> Die Liste enthält
-
-- a. Name, Vorname und Adresse der versicherten Person,
-- b. die AHV-Versichertennummer der versicherten Person,
-- c. Name und Adresse des Versicherers sowie dessen Aufsichtsnummer des Bundesamtes für Gesundheit,
-- d. den vom Versicherer verfügten Leistungsaufschub mit Datum des Beginns.
-
-<sup>4</sup> Die Stelle informiert den zuständigen Versicherer und die versicherte Person über den Eintrag in die Liste. Meldet der Versicherer die Aufhebung des Leistungsaufschubs, streicht die Stelle die versicherte Person von der Liste und informiert sie darüber.
-
-<sup>5</sup> Die Luzerner Gemeinden, die Leistungserbringer nach KVG und der Kanton sind berechtigt, im Einzelfall die in Absatz 3 aufgeführten Daten einer bestimmten Person einzusehen. Die Einsichtnahmen sind zu protokollieren.
-
-<sup>6</sup> Die Leistungserbringer können ihre Leistungen für versicherte Personen, die auf der Liste aufgeführt sind, auf Notfallbehandlungen beschränken.
-
-<sup>7</sup> Der Regierungsrat regelt das Nähere zur Liste, insbesondere das Zugriffsrecht, durch Verordnung. Er kann das Einsichtsrecht nach Absatz 5 einschränken und die Einsicht in die Liste für kostenpflichtig erklären.
-
-<sup>8</sup> Im Übrigen gelten die §§ 15 und 17–20 des Kantonalen Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^5a-2].
-
-<sup>9</sup> Für die Kosten, die aus der Führung der Liste entstehen, gilt sinngemäss der Kostenteiler gemäss § 5 Absatz 4.
-
-[^5a-1]: SRL Nr. [892](https://srl.lu.ch/data/892/de)
-[^5a-2]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
+**…**
 
 ## 3 Rechtspflege
 
