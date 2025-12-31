@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Personalverordnung
 short: PV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-13
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2025-11-19
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3089/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3089/pdf_file"
 
 (PV)
 
-vom 18.05.2005 (Stand 01.01.2025)
+vom 18.05.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -187,6 +187,28 @@ beschliesst:
 **Richtlinien und Weisungen des Personalamts**
 
 <sup>1</sup> Das Personalamt erlässt die für den einheitlichen und korrekten Vollzug des Personalrechts erforderlichen Richtlinien und Weisungen.
+
+#### Art. 9b
+
+**Anrechenbare Dienstzeit**
+
+<sup>1</sup> Als massgebend für die Berechnung der Dienstjahre gilt die in der Kantonsverwaltung, im bernischen Kirchendienst, an einer öffentlichen Schule im Kanton, an der Universität, an der Berner Fachhochschule oder an der Pädagogischen Hochschule insgesamt geleistete Dienstzeit. Vorbehalten bleiben die Absätze 2 und 3.
+
+<sup>2</sup> Unter öffentlichen Schulen gemäss Absatz 1 werden Schulen verstanden, die zu mindestens 80 Prozent von Kanton oder Gemeinden finanziert oder subventioniert werden.
+
+<sup>3</sup> Nach einem Unterbruch wird die Dienstzeit gemäss Absatz 1 angerechnet, sofern der Wiedereintritt innerhalb von zehn Jahren erfolgt.
+
+<sup>4</sup> Fallen öffentliche Aufgaben an den Kanton, entscheiden die Direktionen und die Staatskanzlei über die Anrechnung der in der entsprechenden Funktion geleisteten Dienstzeit.
+
+#### Art. 9c
+
+**Nicht oder teilweise anrechenbare Dienstzeit**
+
+<sup>1</sup> Nicht angerechnet wird die Ausbildungszeit, die als Schülerin, Schüler, Studentin, Student, Lernende, Lernender, Praktikantin, Praktikant, Hilfsassistentin, Hilfsassistent, Lernpflegerin, Lernpfleger oder ähnlicher Funktion geleistet worden ist.
+
+<sup>2</sup> Die nebenamtliche Tätigkeit beim Kanton kann das Personalamt in besonderen Fällen ganz oder teilweise als anrechenbar erklären.
+
+<sup>3</sup> Nicht angerechnet wird die Zeit während des unbezahlten Urlaubs.
 
 ## 2 Stellenplan und Stellenbestand
 
@@ -485,17 +507,18 @@ beschliesst:
 
 #### Art. 33
 
-**Grundgehalt, Gehaltsstufen, Einstiegsstufen**
+**Grundgehalt, Gehaltsstufen, Vorstufen**
 
 <sup>1</sup> Die Grundgehälter der 30 Gehaltsklassen sind im Anhang zum Personalgesetz festgelegt.
 
-<sup>2</sup> Für jede Gehaltsklasse bestehen ein Grundgehalt von 100 Prozent und 80 Gehaltsstufen. Innerhalb der Gehaltsklasse ist die Gehaltsentwicklung bezogen auf das Grundgehalt wie folgt abgestuft:
+<sup>2</sup> Für jede Gehaltsklasse bestehen ein Grundgehalt von 100 Prozent und 75 Gehaltsstufen. Innerhalb der Gehaltsklasse ist die Gehaltsentwicklung bezogen auf das Grundgehalt wie folgt abgestuft:
 
-- a 20 Gehaltsstufen von je 1,0 Prozent,
-- b 40 Gehaltsstufen von je 0,75 Prozent,
-- c 20 Gehaltsstufen von je 0,5 Prozent.
+- a 12 Gehaltsstufen von je 1,5 Prozent,
+- b 8 Gehaltsstufen von je 1,0 Prozent,
+- c 26 Gehaltsstufen von je 0,75 Prozent,
+- d 29 Gehaltsstufen von je 0,5 Prozent.
 
-<sup>3</sup> Dem Grundgehalt sind sechs Einstiegsstufen von je 1,5 Prozent des Grundgehalts vorangestellt.
+<sup>3</sup> Dem Grundgehalt sind sechs Vorstufen von je 1,5 Prozent des Grundgehalts vorangestellt.
 
 #### Art. 34
 
@@ -543,11 +566,11 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Regierungsrat, die Direktionen, die Staatskanzlei oder die von ihnen ermächtigten Organisationseinheiten legen das Anfangsgehalt nach den Grundsätzen von Artikel 39, 40 und 40a fest. Bei Abweichung von den in Anhang 2 festgelegten Werten ist die Zustimmung des Personalamts erforderlich. Vorbehalten bleibt Absatz 1a.
+<sup>1</sup> Der Regierungsrat, die Direktionen, die Staatskanzlei oder die von ihnen ermächtigten Organisationseinheiten legen das Anfangsgehalt nach den Grundsätzen von Artikel 39 und 40 fest. Bei Abweichung von den in Anhang 2 festgelegten Werten ist die Zustimmung des Personalamts erforderlich. Vorbehalten bleibt Absatz 1a.
 
 <sup>1a</sup> Ist der Regierungsrat für die Anstellung zuständig, ist bei Abweichungen von den in Anhang 2 festgelegten Werten die Finanzdirektion anzuhören und keine Zustimmung des Personalamts erforderlich.
 
-<sup>2</sup> Für die nachfolgenden Funktionen legt die Justizverwaltungsleitung das Anfangsgehalt nach den Grundsätzen von Artikel 39, 40 und 40a fest. Bei Abweichung von den in Anhang 2 festgelegten Werten ist das Personalamt anzuhören:
+<sup>2</sup> Für die nachfolgenden Funktionen legt die Justizverwaltungsleitung das Anfangsgehalt nach den Grundsätzen von Artikel 39 und 40 fest. Bei Abweichung von den in Anhang 2 festgelegten Werten ist das Personalamt anzuhören:
 
 - a hauptamtliche Mitglieder des Obergerichts und des Verwaltungsgerichts,
 - b Generalstaatsanwältin oder Generalstaatsanwalt und deren Stellvertreterinnen und Stellvertreter,
@@ -558,9 +581,9 @@ beschliesst:
 - g Jugendanwältinnen und Jugendanwälte,
 - h hauptamtliche Mitglieder der Schlichtungsbehörden.
 
-<sup>3</sup> Das Anfangsgehalt der Regierungsstatthalterinnen und Regierungsstatthalter sowie der Geistlichen wird von der Direktion für Inneres und Justiz nach den Grundsätzen von Artikel 39, 40 und 40a festgelegt. Bei Abweichung von den in Anhang 2 festgelegten Werten ist die Zustimmung des Personalamts erforderlich.
+<sup>3</sup> Das Anfangsgehalt der Regierungsstatthalterinnen und Regierungsstatthalter wird von der Direktion für Inneres und Justiz nach den Grundsätzen von Artikel 39 und 40 festgelegt. Bei Abweichung von den in Anhang 2 festgelegten Werten ist die Zustimmung des Personalamts erforderlich.
 
-<sup>4</sup> Das Anfangsgehalt der oder des Beauftragten für Datenschutz wird von der Direktion für Inneres und Justiz nach Rücksprache mit dem Präsidium der Geschäftsprüfungskommission nach den Grundsätzen von Artikel 39, 40 und 40a festgelegt. Bei Abweichung von den in Anhang 2 festgelegten Werten ist die Zustimmung des Personalamts erforderlich.
+<sup>4</sup> Das Anfangsgehalt der oder des Beauftragten für Datenschutz wird von der Direktion für Inneres und Justiz nach Rücksprache mit dem Präsidium der Geschäftsprüfungskommission nach den Grundsätzen von Artikel 39 und 40 festgelegt. Bei Abweichung von den in Anhang 2 festgelegten Werten ist die Zustimmung des Personalamts erforderlich.
 
 <sup>5</sup> Die Zuständigkeit zur Festlegung des Anfangsgehalts der Mitarbeiterinnen und Mitarbeiter der Universität, der Berner Fachhochschule und der Pädagogischen Hochschule richtet sich nach der besonderen Gesetzgebung.
 
@@ -572,7 +595,7 @@ beschliesst:
 
 <sup>1</sup> Das Anfangsgehalt entspricht dem Grundgehalt der im Stellenplan vorgesehenen Gehaltsklasse, wenn die grundsätzlichen Anforderungen der Stelle erfüllt sind und keine Gehaltsstufen nach Artikel 40 angerechnet werden.
 
-<sup>2</sup> Der Regierungsrat kann für bestimmte Funktionen eine Einstiegsstufe als Anfangsgehalt bestimmen, wenn das Grundgehalt wesentlich höher ist als das Anfangsgehalt vergleichbarer Stellen öffentlicher Gemeinwesen und der Privatwirtschaft.
+<sup>2</sup> Der Regierungsrat kann für bestimmte Funktionen eine Vorstufe als Anfangsgehalt bestimmen, wenn das Grundgehalt wesentlich höher ist als das Anfangsgehalt vergleichbarer Stellen öffentlicher Gemeinwesen und der Privatwirtschaft.
 
 <sup>3</sup> …
 
@@ -590,43 +613,13 @@ beschliesst:
 
 <sup>5</sup> Für das gleiche Jahr dürfen Gehaltsstufen nicht mehrfach angerechnet werden.
 
-<sup>6</sup> Nicht angerechnet wird die Zeit der Aus- und Weiterbildung einschliesslich der dazu gehörenden Praktika, die für die Ausübung der Funktion erforderlich sind.
+<sup>6</sup> Nicht angerechnet wird die Zeit der Ausbildung.
 
 <sup>7</sup> Beim Stellenwechsel innerhalb der Kantonsverwaltung kann das Anfangsgehalt nach den Grundsätzen der Absätze 1 bis 6 festgelegt werden. Organisatorisch bedingte Stellenwechsel begründen keinen Anspruch auf die Anrechnung zusätzlicher Gehaltsstufen.
 
 #### Art. 40a
 
-**Anfangsgehalt in einer Einstiegsstufe**
-
-<sup>1</sup> Für Mitarbeiterinnen und Mitarbeiter, die direkt nach einer beruflichen Grundbildung in den Kantonsdienst eintreten, sowie für Mitarbeiterinnen und Mitarbeiter mit bis zu drei Jahren Berufserfahrung kommen Einstiegsstufen zur Anwendung.
-
-<sup>2</sup> Bei Stellen, für die keine Berufsausbildung, eine Kurzlehre oder eine Anlehre von weniger als drei Jahren erforderlich ist, wird das Anfangsgehalt in die 6. Einstiegsstufe der jeweiligen Gehaltsklasse festgelegt. Das Grundgehalt der Gehaltsklasse 1 darf nicht unterschritten werden.
-
-<sup>3</sup> Bei Stellen, für die eine drei- oder vierjährige kaufmännische, handwerkliche oder technische Berufslehre erforderlich ist, wird das Anfangsgehalt in die 6. Einstiegsstufe der jeweiligen Gehaltsklasse festgelegt.
-
-<sup>4</sup> Bei Stellen, für die als Erstausbildung eine höhere Fachschule erforderlich ist, gilt folgende Einreihung in die Gehaltsklasse als Anfangsgehalt:
-
-<table>
-<tr><th>Gehaltsklasse</th><th>Anfangsgehalt</th></tr>
-<tr><td>14 oder tiefer</td><td>Grundgehalt</td></tr>
-<tr><td>15</td><td>2. Einstiegsstufe</td></tr>
-<tr><td>16</td><td>4. Einstiegsstufe</td></tr>
-<tr><td>17 oder höher</td><td>6. Einstiegsstufe</td></tr>
-</table>
-
-<sup>5</sup> Bei Stellen, für die ein Hochschulabschluss erforderlich ist, gilt folgende Einreihung in die Gehaltsklasse als Anfangsgehalt:
-
-<table>
-<tr><th>Gehaltsklasse</th><th>Anfangsgehalt</th></tr>
-<tr><td>20 oder tiefer</td><td>Grundgehalt</td></tr>
-<tr><td>21</td><td>2. Einstiegsstufe</td></tr>
-<tr><td>22</td><td>4. Einstiegsstufe</td></tr>
-<tr><td>23</td><td>6. Einstiegsstufe</td></tr>
-</table>
-
-<sup>6</sup> Die zur Ausübung der Stelle dienliche Berufserfahrung wird ab dem jeweiligen Anfangsgehalt nach den Grundsätzen von Artikel 40 berücksichtigt. Artikel 41 bleibt vorbehalten.
-
-<sup>7</sup> Für alle Stellen mit Einreihungen in die Gehaltsklasse 24 oder höher sowie für alle Stellen mit direkter Verantwortung in der Personalführung gilt mindestens das Grundgehalt der zutreffenden Gehaltsklasse als Anfangsgehalt.
+**…**
 
 #### Art. 41
 
@@ -670,12 +663,12 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Der Aufstieg innerhalb einer Gehaltsklasse erfolgt durch Anrechnung von Gehaltsstufen. Ein Anspruch auf Ausrichtung von zusätzlichen Gehaltsstufen besteht nicht.
+<sup>1</sup> Der Aufstieg innerhalb einer Gehaltsklasse (individueller Gehaltsaufstieg) erfolgt durch Anrechnung von Gehaltsstufen. Ein Anspruch auf Ausrichtung von zusätzlichen Gehaltsstufen besteht nicht.
 
 <sup>2</sup> Der Aufstieg über die Gehaltsstufen ist von der Leistungs- und Verhaltensbeurteilung nach Artikel 163 abhängig und kann im Rahmen der verfügbaren Mittel wie folgt gewährt werden:
 
-- a für herausragende Leistungen (Beurteilungsstufe A++) jährlich bis zu zehn Gehaltsstufen,
-- b für sehr gute Leistungen (Beurteilungsstufe A+) jährlich bis zu sieben Gehaltsstufen,
+- a für herausragende Leistungen (Beurteilungsstufe A++) jährlich bis zu sechs Gehaltsstufen,
+- b für sehr gute Leistungen (Beurteilungsstufe A+) jährlich bis zu fünf Gehaltsstufen,
 - c für gute Leistungen (Beurteilungsstufe A) jährlich bis zu vier Gehaltsstufen.
 
 <sup>3</sup> Für ausreichende Leistungen (Beurteilungsstufe B) oder nicht ausreichende Leistungen (Beurteilungsstufe C) können keine Gehaltsstufen angerechnet werden.
@@ -691,6 +684,8 @@ beschliesst:
 <sup>1</sup> Bei der Gewährung von Gehaltsstufen kann die Einstufung der Mitarbeiterin oder des Mitarbeiters im Vergleich zu den Einstufungen von Mitarbeiterinnen und Mitarbeitern mit ähnlichen Voraussetzungen berücksichtigt werden.
 
 <sup>2</sup> Die Bemessung von Gehaltsstufen darf nicht von der Gehaltsklasse, dem Beschäftigungsgrad, der Hierarchiestufe, dem Arbeitsort oder dem Geschlecht abhängig gemacht werden.
+
+<sup>2a</sup> Der individuelle Gehaltsaufstieg erfolgt in der Regel innerhalb der in Anhang 2 festgelegten Bandbreite.
 
 <sup>3</sup> Das Personalamt wertet zuhanden des Regierungsrates und der Justizverwaltungsleitung periodisch die Umsetzung des individuellen Gehaltsaufstiegs anonymisiert aus. Der Regierungsrat und die Justizverwaltungsleitung treffen gegebenenfalls die erforderlichen Massnahmen zur Erreichung der Ziele nach Absatz 2.
 
@@ -741,7 +736,7 @@ beschliesst:
 
 <sup>1</sup> Von der Leistungs- und Verhaltensbeurteilung nach Artikel 163 ausgenommen ist das Reinigungspersonal.
 
-<sup>2</sup> Für diese Personalkategorie können bis zu drei Gehaltsstufen pro Jahr bis zur Gehaltsstufe 45 angerechnet werden. Artikel 47 Absätze 2 und 3 gilt sinngemäss.
+<sup>2</sup> Für diese Personalkategorie können bis zu drei Gehaltsstufen pro Jahr bis zur Gehaltsstufe 40 angerechnet werden. Artikel 47 Absätze 2 und 3 gilt sinngemäss.
 
 #### Art. 50
 
@@ -758,7 +753,7 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat kann einer Personalkategorie oder Berufsgruppe bei Vorliegen besonderer Verhältnisse einen ausserordentlichen Gehaltsaufstieg innerhalb der Gehaltsklasse gewähren, namentlich wenn
 
 - a bei bestehenden Einstufungen strukturelle Verzerrungen offenkundig sind,
-- b der Regierungsrat die Einstiegsstufen für die von ihm gemäss Artikel 39 Absatz 2 bezeichneten Funktionen aufhebt.
+- b der Regierungsrat die Vorstufen für die von ihm gemäss Artikel 39 Absatz 2 bezeichneten Funktionen aufhebt.
 
 <sup>2</sup> Die nach Artikel 38 zuständige Behörde kann einer Einzelperson im Einvernehmen mit dem Personalamt einen ausserordentlichen Gehaltsaufstieg gewähren, wenn es die besonderen Verhältnisse rechtfertigen.
 
@@ -1080,10 +1075,10 @@ beschliesst:
 
 <sup>1</sup> Die Betreuungszulage beträgt jährlich
 
-- a bei einem zulagenberechtigten Kind: — CHF 3000
-- b bei zwei zulagenberechtigten Kindern: — CHF 2160
-- c bei drei zulagenberechtigten Kindern: — CHF 1320
-- d bei vier zulagenberechtigten Kindern: — CHF 480
+- a bei einem zulagenberechtigten Kind: — CHF 3180
+- b bei zwei zulagenberechtigten Kindern: — CHF 2280
+- c bei drei zulagenberechtigten Kindern: — CHF 1440
+- d bei vier zulagenberechtigten Kindern: — CHF 540
 
 <sup>2</sup> Eltern von mehr als vier zulagenberechtigten Kindern erhalten keine Betreuungszulage.
 
@@ -1294,7 +1289,7 @@ beschliesst:
 
 <sup>2</sup> Als Team gilt jede beliebige Organisationsform mit mindestens zwei Mitarbeiterinnen und Mitarbeitern, die für die Erfüllung eines klar abgegrenzten Auftrags eingesetzt wird.
 
-<sup>3</sup> Für die Teamprämie gilt der Höchstbetrag nach Artikel 85 Absatz 2. Sie wird zu gleichen Teilen auf die Teammitglieder aufgeteilt.
+<sup>3</sup> …
 
 #### Art. 88
 
@@ -1370,29 +1365,9 @@ beschliesst:
 
 <sup>1</sup> Der bezahlte Urlaub wird auf das Langzeitkonto übertragen (Art. 160b Abs. 1), soweit er nicht im Jahr seiner Fälligkeit bezogen wird.
 
-#### Art. 97
+#### Art. 97–98
 
-**Anrechenbare Dienstzeit**
-
-<sup>1</sup> Als massgebend für die Berechnung der anrechenbaren Dienstzeit gilt die in der Kantonsverwaltung, im bernischen Kirchendienst, an einer öffentlichen Schule im Kanton, an der Universität, an der Berner Fachhochschule oder an der Pädagogischen Hochschule insgesamt geleistete Dienstzeit. Vorbehalten bleibt Absatz 1a.
-
-<sup>1a</sup> Nach einem Unterbruch wird die Dienstzeit gemäss Absatz 1 angerechnet, sofern der Wiedereintritt innerhalb von zehn Jahren erfolgt.
-
-<sup>2–3</sup> …
-
-<sup>4</sup> Fallen öffentliche Aufgaben an den Kanton, entscheiden die Direktionen und die Staatskanzlei über die Anrechnung der in der entsprechenden Funktion geleisteten Dienstzeit.
-
-<sup>5</sup> …
-
-#### Art. 98
-
-**Nicht oder teilweise anrechenbare Dienstzeit**
-
-<sup>1</sup> Nicht angerechnet wird die Ausbildungszeit, die als Schülerin, Schüler, Studentin, Student, Lernende, Lernender, Praktikantin, Praktikant, Rechtskandidatin, Rechtskandidat, Lernvikarin, Lernvikar, Hilfsassistentin, Hilfsassistent, Polizeiaspirantin, Polizeiaspirant, Lernpflegerin, Lernpfleger oder ähnlicher Funktion geleistet wurde.
-
-<sup>2</sup> Die nebenamtliche Tätigkeit beim Kanton kann das Personalamt in besonderen Fällen ganz oder teilweise als anrechenbar erklären.
-
-<sup>3</sup> Nicht angerechnet wird die Zeit während des unbezahlten Urlaubs.
+**…**
 
 #### Art. 99
 
@@ -1422,7 +1397,7 @@ beschliesst:
 
 **Abrechnung**
 
-<sup>1</sup> Die Spesenabrechnungen für Unterkunft, Verpflegung und Fahrkosten sind auf ihre materielle Richtigkeit zu prüfen sowie einer formellen und rechnerischen Prüfung zu unterziehen. Die Amtsvorsteherin oder der Amtsvorsteher visiert die Abrechnung und nimmt sie in den Zahlungsvorschlag auf.
+<sup>1</sup> Die Spesenabrechnungen für Unterkunft, Verpflegung und Fahrkosten sind auf ihre materielle Richtigkeit zu prüfen sowie einer formellen und rechnerischen Prüfung zu unterziehen. Die Amtsvorsteherin oder der Amtsvorsteher visiert die Abrechnung.
 
 <sup>2</sup> Die Entschädigungen sind in der Regel auf das Ende eines Quartals abzurechnen. Wo es die Verhältnisse erlauben, erfolgt die Abrechnung monatlich.
 
@@ -2007,10 +1982,10 @@ beschliesst:
 
 <sup>1</sup> Bezahlter Kurzurlaub wird in Anzahl Arbeitstagen gewährt. Ein Arbeitstag entspricht der täglichen Soll-Arbeitszeit gemäss Beschäftigungsgrad. Die Amtsvorsteherin oder der Amtsvorsteher bewilligt bezahlte Kurzurlaube wie folgt:
 
-- a bis drei Arbeitstage pro Ereignis wegen plötzlicher Erkrankung einer oder eines nahen Familienangehörigen, höchstens zehn Tage pro Kalenderjahr,
-- a1 bis vier Arbeitstage pro Ereignis wegen des Todes einer oder eines nahen Familienangehörigen.
-- b ein Arbeitstag pro Kalenderjahr wegen eigener Heirat oder eigenen Wohnungswechsels,
-- c ein Arbeitstag pro Kalenderjahr wegen obligatorischer oder freiwilliger Teilnahme an der militärischen Orientierungsveranstaltung oder Abgabe des persönlichen Materials bei Entlassung aus der Militärdienstpflicht.
+- a bis drei Arbeitstage pro Ereignis wegen plötzlicher Erkrankung oder Unfalls einer oder eines nahen Familienangehörigen, höchstens zehn Tage pro Kalenderjahr,
+- a1 bis vier Arbeitstage pro Ereignis wegen des Todes einer oder eines nahen Familienangehörigen,
+- b je ein Arbeitstag pro Kalenderjahr wegen eigener Heirat oder eigenen Wohnungswechsels,
+- c je ein Arbeitstag pro Kalenderjahr wegen obligatorischer oder freiwilliger Teilnahme an der militärischen Orientierungsveranstaltung oder Abgabe des persönlichen Materials bei Entlassung aus der Militärdienstpflicht.
 
 <sup>2</sup> Der Regierungsrat kann in besonderen Fällen durch Beschluss einem bestimmten Personenkreis einen bezahlten Kurzurlaub im Rahmen der benötigten Zeit generell bewilligen. Er kann den vorgängigen Abbau von positiven Zeitguthaben anordnen.
 
@@ -2026,6 +2001,8 @@ beschliesst:
 - f nach Massgabe von Artikel 160c zum Bezug von Langzeitkontoguthaben.
 
 <sup>5</sup> Die Amtsvorsteherin oder der Amtsvorsteher kann Mitarbeiterinnen und Mitarbeitern, deren Arbeitsverhältnis von der Anstellungsbehörde aufgelöst worden ist, bezahlten Urlaub im erforderlichen Umfang für Vorstellungsgespräche gewähren, höchstens jedoch einen halben Arbeitstag pro Woche. Mitarbeiterinnen und Mitarbeitern, die von einer Stellenaufhebung betroffen sind, kann der Urlaub bereits gewährt werden, sobald sie über die geplante Beendigung des Arbeitsverhältnisses informiert worden sind.
+
+<sup>6</sup> Die Amtsvorsteherin oder der Amtsvorsteher bewilligt bezahlten Kurzurlaub im erforderlichen Umfang bei Vorladungen einer Behörde zur Erfüllung gesetzlicher Pflichten.
 
 #### Art. 156a
 
@@ -2237,11 +2214,7 @@ beschliesst:
 
 <sup>2</sup> Anmeldungen zu Weiterbildungsveranstaltungen sind für die Mitarbeiterinnen und Mitarbeiter verbindlich. Sie erfolgen im Einvernehmen mit der vorgesetzten Stelle.
 
-<sup>3</sup> Bei Abmeldung bzw. Nichtteilnahme einer angemeldeten Mitarbeiterin oder eines angemeldeten Mitarbeiters stellt das Personalamt der betroffenen Organisationseinheit die folgenden Annullierungskosten in Rechnung,
-
-- a Abmeldung bis vier Wochen vor Kursbeginn: keine Kosten,
-- b Abmeldung bis zwei Wochen vor Kursbeginn: 50 Prozent der Kurskosten;
-- c Abmeldung weniger als zwei Wochen vor Kursbeginn oder Nichtteilnahme am Kurs: 100 Prozent der Kurskosten.
+<sup>3</sup> Bei Abmeldung weniger als zwei Wochen vor Kursbeginn bzw. Nichtteilnahme einer angemeldeten Mitarbeiterin oder eines angemeldeten Mitarbeiters stellt das Personalamt der betroffenen Organisationseinheit 100 Prozent der Kurskosten als Annullierungskosten in Rechnung.
 
 <sup>4</sup> Die Organisationseinheiten sind befugt, Annullierungskosten gemäss Absatz 3 den betroffenen Mitarbeiterinnen und Mitarbeitern in Rechnung zu stellen.
 
@@ -2609,6 +2582,8 @@ beschliesst:
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, der Amtsvorsteherin oder dem Amtsvorsteher alle entschädigten Nebenbeschäftigungen zu melden sowie über Tatsachen zu informieren, welche eine Bewilligungspflicht begründen können. Die einem Regierungsmitglied direkt unterstellten Mitarbeiterinnen und Mitarbeiter sind diesem gegenüber meldepflichtig. Einer gesetzlichen Schweigepflicht unterliegende oder besonders schützenswerte Daten sind nicht offen zu legen.
 
+<sup>3</sup> Eine Meldepflicht im Sinne von Absatz 2 besteht auch in Bezug auf unentgeltlich ausgeübte Nebenbeschäftigungen, sofern Interessenkonflikte nicht ausgeschlossen werden können.
+
 #### Art. 204
 
 **Bewilligungspflicht**
@@ -2620,9 +2595,7 @@ beschliesst:
 <sup>3</sup> Die folgenden Nebenbeschäftigungen sind generell erlaubt und weder melde- noch bewilligungspflichtig:
 
 - a Tätigkeit im Rahmen der Personalverbände,
-- b Tätigkeit in Vereinen verschiedenster Zweckbestimmungen, einschliesslich Vorstandstätigkeit, sofern die Funktion ehrenamtlich oder gegen ein bescheidenes Entgelt ausgeübt wird,
-- c ehrenamtliche Tätigkeit in Stiftungen, Genossenschaften und anderen Körperschaften ähnlicher Zweckbestimmung.
-- d–e …
+- b–e …
 
 <sup>4</sup> …
 
@@ -2633,6 +2606,8 @@ beschliesst:
 <sup>1</sup> Die Ermächtigung zur Ausübung einer bewilligungspflichtigen Nebenbeschäftigung erteilt die Aufsichtsbehörde nach Artikel 20 PG.
 
 <sup>2</sup> Die Aufsichtsbehörde kann für bestimmte Nebenbeschäftigungen generelle Ermächtigungen erteilen.
+
+<sup>3</sup> Ist eine Direktion die zuständige Aufsichtsbehörde, kann sie die Erteilung der Ermächtigung zur Ausübung einer bewilligungspflichtigen Nebenbeschäftigung durch Verordnung an ihr unterstellte Organisationseinheiten übertragen.
 
 #### Art. 206
 
@@ -2943,6 +2918,36 @@ beschliesst:
 **Einstufung der Funktion «Reinigungsmitarbeiterin/Reinigungsmitarbeiter» über der Gehaltsstufe 45**
 
 <sup>1</sup> Bei Mitarbeiterinnen und Mitarbeiter, welche von der Überführung der Funktion «handwerkliche Mitarbeiterin, handwerklicher Mitarbeiter» in die Funktion «Reinigungsmitarbeiterin/Reinigungsmitarbeiter» per 1. Januar 2023 betroffen und über der Gehaltsstufe 45 eingestuft sind, findet keine Rückstufung statt.
+
+## T10 Übergangsbestimmungen der Änderung vom 26.11.2025
+
+#### Art. T10-1
+
+**Dienstzeit von Polizeiaspirantinnen und Polizeiaspiranten**
+
+<sup>1</sup> Die Zeit vor dem 1. Januar 2026, die als Polizeiaspirantin oder Polizeiaspirant geleistet wurde, wird nicht als Dienstzeit angerechnet.
+
+#### Art. T10-2
+
+**Art der Überführung**
+
+<sup>1</sup> Die Überführung der bisherigen Gehaltsstufe in die Gehaltsstufe der neuen Gehaltstabelle erfolgt in die im Vergleich zur bisherigen Bruttobesoldung frankenmässig gleiche oder nächsthöhere Gehaltsstufe.
+
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die vor der Überführung in einer der folgenden Gehaltsstufen eingestuft sind, erhalten nach der Überführung zusätzliche Gehaltsstufen nach der neuen Gehaltstabelle wie folgt:
+
+- a 52. Gehaltsstufe eine zusätzliche Gehaltsstufe,
+- b 53. Gehaltsstufe zwei zusätzliche Gehaltsstufen,
+- c 54. Gehaltsstufe drei zusätzliche Gehaltsstufen,
+- d 55. und 56. Gehaltsstufe je zwei zusätzliche Gehaltsstufen,
+- e 57. und 58. Gehaltsstufe je eine zusätzliche Gehaltsstufe.
+
+<sup>3</sup> Die Anrechnung dieser Gehaltsstufen erfolgt einmalig im Zeitpunkt der Überführung.
+
+#### Art. T10-3
+
+**Zeitpunkt der Überführung**
+
+<sup>1</sup> Die der Überführung in das neue Gehaltssystem und der Änderung des degressiven Gehaltsaufstiegs zugrunde liegenden Änderungen der Artikel 33 Absätze 2 und 3, Artikel 44 Absatz 2, Artikel 45 Absatz 2a und Artikel 49 Absatz 2 sowie der Anhänge 2 und 4 werden erst ab 1. Juli 2026 anwendbar.
 
 Bern, 18. Mai 2005
 

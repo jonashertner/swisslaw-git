@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-13
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2025-11-19
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3089/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3331/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3089/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.01.2025)
+du 18.05.2005 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -187,6 +187,28 @@ arrête:
 **Directives et instructions de l’Office du personnel**
 
 <sup>1</sup> L’Office du personnel édicte les directives et instructions nécessaires pour que l’exécution du droit du personnel soit uniforme et correcte.
+
+#### Art. 9b
+
+**Temps de service déterminant**
+
+<sup>1</sup> Les années de service sont calculées en tenant compte de la durée totale de travail accomplie dans l’administration cantonale, au service du clergé bernois, dans une école publique du canton, à l’Université, à la Haute école spécialisée bernoise ou à la Haute école pédagogique. Les alinéas 2 et 3 sont réservés.
+
+<sup>2</sup> Les écoles publiques au sens de l'alinéa 1 désignent les établissements scolaires qui sont financés ou subventionnés au moins à 80 pour cent par le canton ou des communes.
+
+<sup>3</sup> Après une interruption, le temps de service est imputé conformément à l'alinéa 1 si la reprise du service intervient dans un délai de dix ans.
+
+<sup>4</sup> Si des tâches publiques sont transférées au canton, les Directions et la Chancellerie d'État décident si les années de travail accomplies à la fonction correspondante sont prises en compte.
+
+#### Art. 9c
+
+**Temps de service non déterminant ou partiellement déterminant**
+
+<sup>1</sup> Le temps de service déterminant ne comprend pas la durée de la formation en tant qu'élève, étudiant ou étudiante, apprenti ou apprentie, stagiaire, assistant ou assistante auxiliaire, apprenti-infirmier ou apprentie-infirmière ou dans une fonction analogue.
+
+<sup>2</sup> Dans des cas particuliers, l'Office du personnel peut déclarer les activités accomplies au service du canton à titre accessoire comme devant être prises en compte, en partie ou en totalité, dans le calcul du temps de service déterminant.
+
+<sup>3</sup> Les congés non payés n’entrent pas en considération.
 
 ## 2 Etat des postes et effectif du personnel
 
@@ -483,17 +505,18 @@ arrête:
 
 #### Art. 33
 
-**Traitement de base, échelons de traitement, échelons de départ**
+**Traitement de base, échelons de traitement, échelons préliminaires**
 
 <sup>1</sup> Les traitements de base des 30 classes de traitement sont fixés en annexe de la loi sur le personnel.
 
-<sup>2</sup> Chaque classe de traitement se compose du traitement de base de 100 pour cent et de 80 échelons de traitement. Au sein d'une classe de traitement, l'évolution par rapport au traitement de base est échelonnée de la manière suivante:
+<sup>2</sup> Chaque classe de traitement se compose du traitement de base de 100 pour cent et de 75 échelons de traitement. Au sein d'une classe de traitement, l'évolution par rapport au traitement de base est échelonnée de la manière suivante:
 
-- a 20 échelons de 1,0 pour cent chacun,
-- b 40 échelons de 0,75 pour cent chacun,
-- c 20 échelons de 0,5 pour cent chacun.
+- a 12 échelons de 1,5 pour cent chacun,
+- b 8 échelons de 1,0 pour cent chacun,
+- c 26 échelons de 0,75 pour cent chacun,
+- d 29 échelons de 0,5 pour cent chacun.
 
-<sup>3</sup> Le traitement de base est précédé de six échelons de départ qui représentent chacun 1,5 pour cent de ce dernier.
+<sup>3</sup> Le traitement de base est précédé de six échelons préliminaires qui représentent chacun 1,5 pour cent de ce dernier.
 
 #### Art. 34
 
@@ -541,11 +564,11 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> Le Conseil-exécutif, les Directions, la Chancellerie d’Etat ou les unités administratives par elles habilitées fixent le traitement de départ conformément aux principes fixés aux articles 39, 40 et 40a. En cas d’écart par rapport aux valeurs définies à l’annexe 2, l’accord de l’Office du personnel est nécessaire. L'alinéa 1a est réservé.
+<sup>1</sup> Le Conseil-exécutif, les Directions, la Chancellerie d’Etat ou les unités administratives par elles habilitées fixent le traitement de départ conformément aux principes fixés aux articles 39 et 40. En cas d’écart par rapport aux valeurs définies à l’annexe 2, l’accord de l’Office du personnel est nécessaire. L'alinéa 1a est réservé.
 
 <sup>1a</sup> Si l'engagement relève du Conseil-exécutif, la Direction des finances doit être entendue en cas d'écart par rapport aux valeurs définies à l'annexe 2, et il n'est pas nécessaire d'obtenir l'accord de l'Office du personnel.
 
-<sup>2</sup> Le traitement de départ des fonctions suivantes est fixé par la Direction administrative de la magistrature en vertu des principes fixés aux articles 39, 40 et 40a. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’Office du personnel doit être entendu:
+<sup>2</sup> Le traitement de départ des fonctions suivantes est fixé par la Direction administrative de la magistrature en vertu des principes fixés aux articles 39 et 40. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’Office du personnel doit être entendu:
 
 - a membres à titre principal de la Cour suprême et du Tribunal administratif,
 - b procureur général ou procureure générale et ses suppléants et suppléantes,
@@ -556,9 +579,9 @@ arrête:
 - g procureurs et procureures des mineurs,
 - h membres à titre principal des autorités de conciliation.
 
-<sup>3</sup> Le traitement de départ des préfets et des préfètes ainsi que des ecclésiastiques est fixé par la Direction de l’intérieur et de la justice en vertu des principes fixés aux articles 39, 40 et 40a. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’accord de l’Office du personnel est nécessaire.
+<sup>3</sup> Le traitement de départ des préfets et des préfètes est fixé par la Direction de l’intérieur et de la justice en vertu des principes fixés aux articles 39 et 40. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’accord de l’Office du personnel est nécessaire.
 
-<sup>4</sup> Le traitement de départ du délégué ou de la déléguée à la protection des données est fixé par la Direction de l’intérieur et de la justice, après consultation de la présidence de la Commission de gestion, en vertu des principes fixés aux articles 39, 40 et 40a. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’accord de l’Office du personnel est nécessaire.
+<sup>4</sup> Le traitement de départ du délégué ou de la déléguée à la protection des données est fixé par la Direction de l’intérieur et de la justice, après consultation de la présidence de la Commission de gestion, en vertu des principes fixés aux articles 39 et 40. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’accord de l’Office du personnel est nécessaire.
 
 <sup>5</sup> La fixation du traitement de départ des collaborateurs et des collaboratrices de l’Université, de la Haute école spécialisée bernoise et de la Haute école pédagogique relève de la législation spéciale.
 
@@ -570,7 +593,7 @@ arrête:
 
 <sup>1</sup> Le traitement de départ correspond au traitement de base de la classe de traitement prévue dans l’état des postes si les exigences fondamentales du poste sont satisfaites et si aucun échelon de traitement supplémentaire n’est accordé conformément à l’article 40.
 
-<sup>2</sup> Le Conseil-exécutif peut fixer un échelon de départ comme traitement de départ pour des fonctions déterminées, lorsque le traitement de base est sensiblement plus élevé que les traitements initiaux de postes comparables dans les secteurs public et privé.
+<sup>2</sup> Le Conseil-exécutif peut fixer un échelon préliminaire comme traitement de départ pour des fonctions déterminées, lorsque le traitement de base est sensiblement plus élevé que les traitements initiaux de postes comparables dans les secteurs public et privé.
 
 <sup>3</sup> …
 
@@ -588,43 +611,13 @@ arrête:
 
 <sup>5</sup> L’octroi d’échelons de traitements ne peut intervenir qu’une seule fois par année considérée.
 
-<sup>6</sup> Les périodes de formation et de perfectionnement, ainsi que les stages correspondants qui sont nécessaires à l’exercice de la fonction ne sont pas pris en compte.
+<sup>6</sup> Les périodes de formation ne sont pas prises en compte.
 
 <sup>7</sup> En cas de changement de poste au sein de l’administration cantonale, le traitement de départ peut être fixé selon les principes des alinéas 1 à 6. Les changements de postes qui sont nécessaires pour des raisons d’organisation ne donnent pas droit à l'octroi d'échelons de traitement supplémentaires.
 
 #### Art. 40a
 
-**Traitement de départ dans un échelon de départ**
-
-<sup>1</sup> Des échelons de départ sont applicables pour les agentes et les agents qui entrent au service du canton directement après leur formation professionnelle initiale ou après trois ans d'expérience professionnelle au plus.
-
-<sup>2</sup> Pour les postes qui ne nécessitent aucune formation professionnelle ou qui requièrent un apprentissage accéléré ou une formation élémentaire de moins de trois ans, le traitement de départ est fixé au 6<sup>e</sup> échelon de départ de la classe de traitement correspondante. Il ne peut pas être inférieur au traitement de base de la classe de traitement 1.
-
-<sup>3</sup> Pour les postes qui nécessitent une formation professionnelle commerciale, artisanale ou technique de trois ou quatre ans, le traitement de départ est fixé au 6<sup>e</sup> échelon de la classe de traitement correspondante.
-
-<sup>4</sup> Pour les postes qui nécessitent une formation initiale dans une école supérieure spécialisée, le traitement de départ est fixé comme suit:
-
-<table>
-<tr><th>Classe de traitement</th><th>Traitement de départ</th></tr>
-<tr><td>14 ou inférieure</td><td>Traitement de base</td></tr>
-<tr><td>15</td><td>2<sup>e</sup> échelon de départ</td></tr>
-<tr><td>16</td><td>4<sup>e</sup> échelon de départ</td></tr>
-<tr><td>17 ou supérieure</td><td>6<sup>e</sup> échelon de départ</td></tr>
-</table>
-
-<sup>5</sup> Pour les postes qui nécessitent un diplôme universitaire, le traitement de départ est fixé comme suit:
-
-<table>
-<tr><th>Classe de traitement</th><th>Traitement de départ</th></tr>
-<tr><td>20 ou inférieure</td><td>Traitement de base</td></tr>
-<tr><td>21</td><td>2<sup>e</sup> échelon de départ</td></tr>
-<tr><td>22</td><td>4<sup>e</sup> échelon de départ</td></tr>
-<tr><td>23</td><td>6<sup>e</sup> échelon de départ</td></tr>
-</table>
-
-<sup>6</sup> L'expérience professionnelle utile à l'exercice de la fonction est prise en compte à partir du traitement de départ correspondant, conformément aux principes énoncés à l'article 40. L'article 41 est réservé.
-
-<sup>7</sup> Pour tous les postes affectés à la classe de traitement 24 ou à une classe de traitement supérieure, ainsi que pour tous les postes impliquant une responsabilité directe dans la conduite de personnel, le traitement de départ correspond au minimum au traitement de base de la classe de traitement correspondante.
+**…**
 
 #### Art. 41
 
@@ -668,12 +661,12 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> La progression au sein d’une classe de traitement intervient par l’octroi d’échelons de traitement. Il n’existe pas de droit à l’octroi d’échelons de traitement supplémentaires.
+<sup>1</sup> La progression au sein d’une classe de traitement (progression individuelle du traitement) intervient par l’octroi d’échelons de traitement. Il n’existe pas de droit à l’octroi d’échelons de traitement supplémentaires.
 
 <sup>2</sup> La progression par échelons de traitements se fonde sur l’évaluation des performances et du comportement conformément à l’article 163. Elle peut intervenir comme suit dans la limite des moyens disponibles:
 
-- a jusqu’à dix échelons de traitement par an pour d’excellentes performances (niveau d’appréciation A++),
-- b jusqu’à sept échelons de traitement par an pour de très bonnes performances (niveau d’appréciation A+),
+- a jusqu’à six échelons de traitement par an pour d’excellentes performances (niveau d’appréciation A++),
+- b jusqu’à cinq échelons de traitement par an pour de très bonnes performances (niveau d’appréciation A+),
 - c jusqu’à quatre échelons de traitement par an pour de bonnes performances (niveau d’appréciation A).
 
 <sup>3</sup> Aucun échelon de traitement ne peut être accordé pour des performances satisfaisantes (niveau d’appréciation B) ou insuffisantes (niveau d’appréciation C).
@@ -689,6 +682,8 @@ arrête:
 <sup>1</sup> Des échelons de traitement peuvent être attribués en tenant compte du nombre d'échelons dont bénéficie l'agente ou l'agent par rapport à celui dont bénéficient des agentes ou des agents présentant des caractéristiques professionnelles semblables.
 
 <sup>2</sup> La détermination des échelons de traitement ne doit pas être liée à la classe de traitement, au degré d’occupation, au niveau hiérarchique, au lieu de travail ni au sexe de la personne concernée.
+
+<sup>2a</sup> La progression individuelle du traitement se situe en règle générale dans la plage de valeurs fixée à l'annexe 2.
 
 <sup>3</sup> L’Office du personnel évalue périodiquement et de façon anonyme, à l’intention du Conseil-exécutif et de la Direction administrative de la magistrature, la mise en œuvre de la progression individuelle des traitements. Le Conseil-exécutif et la Direction administrative de la magistrature adoptent le cas échéant les mesures nécessaires pour atteindre les objectifs fixés à l’alinéa 2.
 
@@ -739,7 +734,7 @@ arrête:
 
 <sup>1</sup> Le personnel de nettoyage est exclu de l’évaluation des performances et du comportement prévue à l'article 163.
 
-<sup>2</sup> Les traitements de cette catégorie de personnel peuvent progresser au maximum de trois échelons par an jusqu’au 45<sup>e</sup> échelon de traitement. L’article 47, alinéas 2 et 3 s’applique par analogie.
+<sup>2</sup> Les traitements de cette catégorie de personnel peuvent progresser au maximum de trois échelons par an jusqu’au 40<sup>e</sup> échelon de traitement. L’article 47, alinéas 2 et 3 s’applique par analogie.
 
 #### Art. 50
 
@@ -756,7 +751,7 @@ arrête:
 <sup>1</sup> Le Conseil-exécutif peut, dans des circonstances particulières, accorder à une catégorie de personnel ou à une catégorie professionnelle une progression exceptionnelle du traitement dans les limites de la classe de traitement, notamment
 
 - a lorsqu’il existe des distorsions structurelles flagrantes dans les classements existants;
-- b lorsqu’il supprime les échelons de départ pour les fonctions par lui désignées conformément à l’article 39, alinéa 2.
+- b lorsqu’il supprime les échelons préliminaires pour les fonctions par lui désignées conformément à l’article 39, alinéa 2.
 
 <sup>2</sup> L’autorité compétente conformément à l'article 38 peut accorder une progression de traitement exceptionnelle à un agent ou une agente, d’entente avec l’Office du personnel, lorsque des circonstances particulières le justifient.
 
@@ -829,7 +824,7 @@ arrête:
 
 **Obligation d’aviser; certificat médical**
 
-<sup>1</sup> Toute absence pour cause de maladie ou d'accident doit être signalée, dès le premier jour, au service désigné par l’office. Un certificat médical lui sera adressé au plus tard le quatrième jour ouvré en cas d‘accident et au plus tard le sixième jour ouvré en cas de maladie.
+<sup>1</sup> Toute absence pour cause de maladie ou d'accident doit être signalée, dès le premier jour, au service désigné par l’office. Un certificat médical lui sera adressé au plus tard le quatrième jour calendaire en cas d‘accident et au plus tard le sixième jour ouvré en cas de maladie.
 
 <sup>2</sup> Lorsque de courtes absences allant d’un à cinq jours interviennent à plusieurs reprises, le certificat médical peut être exigé plus tôt.
 
@@ -1078,10 +1073,10 @@ arrête:
 
 <sup>1</sup> L’allocation d’entretien s’élève aux montants annuels suivants:
 
-- a pour un enfant donnant droit aux allocations: — CHF 3000
-- b pour deux enfants donnant droit aux allocations: — CHF 2160
-- c pour trois enfants donnant droit aux allocations: — CHF 1320
-- d pour quatre enfants donnant droit aux allocations: — CHF 480
+- a pour un enfant donnant droit aux allocations: — CHF 3180
+- b pour deux enfants donnant droit aux allocations: — CHF 2280
+- c pour trois enfants donnant droit aux allocations: — CHF 1440
+- d pour quatre enfants donnant droit aux allocations: — CHF 540
 
 <sup>2</sup> Les parents de plus de quatre enfants donnant droit aux allocations ne reçoivent pas d’allocation d’entretien.
 
@@ -1292,7 +1287,7 @@ arrête:
 
 <sup>2</sup> Une équipe désigne toute forme d’organisation comprenant au moins deux agents ou agentes qui est constituée pour accomplir un mandat clairement défini.
 
-<sup>3</sup> Le montant maximal de la prime d'équipe est fixé à l’article 85, alinéa 2. Elle est répartie à parts égales entre tous les membres de l’équipe.
+<sup>3</sup> …
 
 #### Art. 88
 
@@ -1368,29 +1363,9 @@ arrête:
 
 <sup>1</sup> Le congé payé est reporté sur le compte épargne-temps (art. 160b, al. 1), à moins qu’il ne soit pris l’année de son échéance.
 
-#### Art. 97
+#### Art. 97–98
 
-**Temps de service déterminant**
-
-<sup>1</sup> Le temps de service déterminant comprend la durée totale de travail accomplie dans l’administration cantonale, au service du clergé bernois, dans une école publique du canton, à l’Université, à la Haute école spécialisée bernoise ou à la Haute école pédagogique. L'alinéa 1a est réservé.
-
-<sup>1a</sup> Après une interruption, le temps de service est imputé conformément à l'alinéa 1 si la reprise du service intervient dans un délai de dix ans.
-
-<sup>2–3</sup> …
-
-<sup>4</sup> Si des tâches publiques sont transférées au canton, les Directions et la Chancellerie d'Etat décident si les années de travail accomplies à la fonction correspondante sont prises en compte.
-
-<sup>5</sup> …
-
-#### Art. 98
-
-**Temps de service non déterminant ou partiellement déterminant**
-
-<sup>1</sup> Le temps de service déterminant ne comprend pas la durée de la formation en tant qu’élève, étudiant ou étudiante, apprenti ou apprentie, stagiaire, juriste-stagiaire, ecclésiastique-stagiaire, assistant ou assistante auxiliaire, recrue de police, apprenti-infirmier ou apprentie-infirmière ou dans une fonction analogue.
-
-<sup>2</sup> Dans des cas particuliers, l’Office du personnel peut déclarer les activités accomplies au service du canton à titre accessoire comme devant être prises en compte, en partie ou en totalité, dans le calcul du temps de service déterminant.
-
-<sup>3</sup> Les congés non payés n’entrent pas en considération.
+**…**
 
 #### Art. 99
 
@@ -1420,7 +1395,7 @@ arrête:
 
 **Décompte**
 
-<sup>1</sup> Les décomptes de frais de logement, de repas ou de déplacement sont vérifiés quant à leur exactitude matérielle et soumis à un contrôle formel et arithmétique. Ils sont ensuite visés et transmis pour proposition de paiement par le chef ou la cheffe d’office.
+<sup>1</sup> Les décomptes de frais de logement, de repas ou de déplacement sont vérifiés quant à leur exactitude matérielle et soumis à un contrôle formel et arithmétique. Ils sont ensuite visés par le chef ou la cheffe d’office.
 
 <sup>2</sup> En règle générale, ils sont établis en fin de trimestre. Lorsque les circonstances le permettent, ils sont établis mensuellement.
 
@@ -2003,10 +1978,10 @@ arrête:
 
 <sup>1</sup> Tout congé payé de courte durée est fixé en nombre de jours ouvrés. Un jour ouvré est égal au temps de travail quotidien réglementaire correspondant au degré d'occupation. Le chef ou la cheffe d’office accorde les congés payés de courte durée suivants:
 
-- a trois jours ouvrés au plus pour chaque cas de maladie subite d'un membre de la famille proche, dans la limite de dix jours par année civile,
+- a trois jours ouvrés au plus pour chaque cas de maladie subite ou d'accident d'un membre de la famille proche, dans la limite de dix jours par année civile,
 - a1 quatre jours ouvrés au plus pour chaque cas de décès d'un membre de la famille proche,
-- b un jour ouvré par année civile pour son propre mariage ou son propre déménagement,
-- c un jour ouvré par année civile pour la participation, obligatoire ou facultative, à la séance d'information des conscrits ou pour la restitution du matériel personnel lors de la libération des obligations militaires.
+- b un jour ouvré par année civile pour son propre mariage et un jour ouvré par année civile pour son propre déménagement,
+- c un jour ouvré par année civile pour la participation, obligatoire ou facultative, à la séance d'information des conscrits et un jour ouvré par année civile pour la restitution du matériel personnel lors de la libération des obligations militaires.
 
 <sup>2</sup> Dans des cas particuliers, le Conseil-exécutif peut, par voie d'arrêté, accorder de manière générale à un ensemble de personnes défini un congé payé de courte durée à concurrence du temps nécessaire. Il peut leur ordonner de réduire préalablement leurs éventuels soldes horaires positifs.
 
@@ -2022,6 +1997,8 @@ arrête:
 - f l’utilisation du solde du compte épargne-temps conformément à l’article 160c.
 
 <sup>5</sup> Le chef ou la cheffe d’office peut accorder aux agents et agentes dont les rapports de travail ont été résiliés par l’autorité d’engagement les congés payés nécessaires pour des entretiens d’engagement sans excéder une demi-journée de travail par semaine, et ce dès qu’ils ont été informés de la cessation prévue de leurs rapports de travail.
+
+<sup>6</sup> Le chef ou la cheffe d'office autorise un congé payé de courte durée du temps nécessaire aux agents et agentes cités à comparaître devant une autorité pour remplir des obligations légales.
 
 #### Art. 156a
 
@@ -2233,11 +2210,7 @@ arrête:
 
 <sup>2</sup> L’inscription à un cours de perfectionnement est contraignante pour l’agent ou l’agente concernée. Elle est prise d’entente avec le supérieur ou la supérieure hiérarchique.
 
-<sup>3</sup> Si une personne inscrite à un cours se désiste ou n’y participe pas, l’Office du personnel facture à l’unité administrative concernée les frais d’annulation suivants:
-
-- a désistement jusqu’à quatre semaines avant le début du cours: pas de frais,
-- b désistement jusqu’à deux semaines avant le début du cours: 50 pour cent des coûts du cours,
-- c désistement moins de deux semaines avant le début du cours ou non-participation au cours: 100 pour cent des coûts du cours.
+<sup>3</sup> Si une personne inscrite à un cours se désiste moins de deux semaines avant le début du cours ou n’y participe pas, l’Office du personnel facture à l’unité administrative concernée des frais d’annulation correspondant à l'intégralité du coût de ce cours.
 
 <sup>4</sup> Les unités administratives sont habilitées à facturer les frais d’annulation conformément à l’alinéa 3 aux agents concernés.
 
@@ -2605,6 +2578,8 @@ arrête:
 
 <sup>2</sup> Les agents et agentes doivent aviser les chefs et cheffes d’office et les collaborateurs et collaboratrices directes d’un membre du Conseil-exécutif doivent aviser celui-ci de toutes les activités annexes rémunérées et de tous les faits pouvant nécessiter une autorisation. Les données particulièrement dignes de protection ou soumises au secret de fonction ne doivent pas être communiquées.
 
+<sup>3</sup> Les activités annexes non rémunérées doivent également être annoncées au sens de l'alinéa 2 si le risque de conflit d’intérêts ne peut être exclu.
+
 #### Art. 204
 
 **Autorisation obligatoire**
@@ -2616,9 +2591,7 @@ arrête:
 <sup>3</sup> L'exercice des activités annexes suivantes est autorisé de manière générale et ne requiert pas d’annonce ni d'autorisation:
 
 - a activités exercées au sein d'une association de personnel;
-- b activités exercées dans des associations, quel que soit leur but, y compris les fonctions assumées au sein d'un comité, pour autant qu'elles soient exercées à titre bénévole ou contre une faible rémunération;
-- c activités exercées bénévolement dans des fondations, coopératives ou autres corporations à but similaire.
-- d–e …
+- b–e …
 
 <sup>4</sup> …
 
@@ -2626,9 +2599,11 @@ arrête:
 
 **Compétence pour accorder l’autorisation**
 
-<sup>1</sup> L’autorité de surveillance au sens de l’article 20 LPers est compétente pour autoriser l’exercice d’une activité annexe soumis à autorisation.
+<sup>1</sup> L’autorité de surveillance au sens de l’article 20 LPers est compétente pour autoriser l’exercice d’une activité annexe soumise à autorisation.
 
 <sup>2</sup> Elle peut délivrer des autorisations générales d'exercer certaines activités annexes.
+
+<sup>3</sup> Si l'autorité de surveillance compétente est une Direction, elle peut déléguer par voie d'ordonnance aux unités administratives qui lui sont subordonnées sa compétence pour autoriser l'exercice d'une activité annexe soumis à autorisation.
 
 #### Art. 206
 
@@ -2939,6 +2914,36 @@ arrête:
 **Échelons de traitement de la fonction de «collaboratrice/collaborateur du service de nettoyage» au-delà du 45<sup>e</sup> échelon de traitement**
 
 <sup>1</sup> Les personnes concernées par le transfert, au 1<sup>er</sup> janvier 2023, de la fonction de «collaboratrice artisane/collaborateur artisan» dans la fonction de «collaboratrice/collaborateur du service de nettoyage» et qui ont dépassé l'échelon de traitement 45 ne sont pas rétrogradées.
+
+## T10 Dispositions transitoires de la modification du 26.11.2025
+
+#### Art. T10-1
+
+**Temps de service des aspirants et aspirantes de police**
+
+<sup>1</sup> Le temps accompli comme aspirant ou aspirante de police avant le 1<sup>er</sup> janvier 2026 n'est pas pris en compte dans le temps de service.
+
+#### Art. T10-2
+
+**Mode de transfert**
+
+<sup>1</sup> Le transfert de l'ancien échelon de traitement à celui du nouveau tableau des classes de traitement consiste à affecter les agents et agentes concernés à l'échelon correspondant au montant brut de leur ancien traitement ou à l'échelon directement supérieur.
+
+<sup>2</sup> Après le transfert, des échelons de traitement supplémentaires selon le nouveau tableau des classes de traitement sont attribués comme suit aux agents et agentes qui, avant le transfert, étaient affectés à l'un des échelons suivants :
+
+- a échelon de traitement 52 : un échelon supplémentaire,
+- b échelon de traitement 53 : deux échelons supplémentaires,
+- c échelon de traitement 54 : trois échelons supplémentaires,
+- d échelons de traitement 55 et 56 : deux échelons supplémentaires,
+- e échelons de traitement 57 et 58 : un échelon supplémentaire.
+
+<sup>3</sup> Ces échelons de traitement sont attribués une seule fois au moment du transfert.
+
+#### Art. T10-3
+
+**Date du transfert**
+
+<sup>1</sup> Les modifications des articles 33, alinéas 2 et 3, 44, alinéa 2, 45, alinéa 2a et 49, alinéa 2 ainsi que des annexes 2 et 4, sur lesquels se fondent le transfert dans le nouveau système salarial et la modification de la progression dégressive des traitements, ne sont applicables qu'à partir du 1<sup>er</sup> juillet 2026.
 
 Berne, le 18 mai 2005
 
