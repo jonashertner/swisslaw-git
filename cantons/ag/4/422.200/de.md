@@ -4,13 +4,13 @@ number: "422.200"
 title: Gesetz über die Berufs- und Weiterbildung
 short: GBW
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
+version: 2026-01-01
+valid_until: 2026-07-31
 version_adopted: 2024-11-05
 adopted: 2007-03-06
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3811/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3834/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3811/pdf_file"
 
 (GBW)
 
-Vom 06.03.2007 (Stand 01.08.2025)
+Vom 06.03.2007 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -578,11 +578,17 @@ beschliesst:
 
 **Pauschalbeitrag**
 
-<sup>1</sup> Der Pauschalbeitrag des Kantons für die gemäss § 15 bezeichneten Berufsfachschulen ergibt sich aus der Multiplikation der Anzahl Lernenden in aargauischen Lehrverhältnissen mit der Pflichtlektionenpauschale und einer durchschnittlichen Jahrespflichtlektionenzahl für jede Lernende beziehungsweise jeden Lernenden. Dasselbe gilt in Bezug auf Lernende mit Wohnsitz im Kanton Aargau, die ein Angebot der Vorbereitung auf die berufliche Grundbildung, einen Lehrgang zur Vorbereitung auf die eidgenössische Berufsmaturität für gelernte Berufsleute (BM II) oder einen Lehrgang der beruflichen Grundbildung für Erwachsene (Nachholbildung) an einer gemäss § 15 bezeichneten Berufsfachschule nutzen.
+<sup>1</sup> Der Pauschalbeitrag des Kantons für die gemäss § 15 bezeichneten Berufsfachschulen ergibt sich aus der Multiplikation der Anzahl Ler-nenden mit der Pflichtlektionenpauschale und einer durchschnittlichen Jahrespflichtlektionenzahl für jede Lernende beziehungsweise jeden Lernenden.
 
-<sup>2</sup> Der Regierungsrat regelt Auszahlungsmodalitäten und Berechnung der durchschnittlichen Jahrespflichtlektionenzahl in den verschiedenen Bildungsgängen der beruflichen Grundbildung und Vorbereitung auf die berufliche Grundbildung.
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung die Einzelheiten zur Ermittlung des Pauschalbeitrags sowie für folgende Angebote:
 
-<sup>3</sup> Der Regierungsrat kann für bestimmte kantonale Angebote Ausnahmen von der Berechnung des Pauschalbeitrags vorsehen, namentlich für die Berufsfachschulen an stationären Einrichtungen und Anstalten, für die Handelsmittelschulen und für die Vorbereitung auf die berufliche Grundbildung.
+- a) Vorbereitung auf die berufliche Grundbildung,
+- b) berufliche Grundbildung,
+- c) Lehrgang zur eidgenössischen Berufsmaturität für gelernte Berufsleute (BM II),
+- d) berufliche Grundbildung für Erwachsene (Nachholbildung)
+- e) Repetierende in den vorgenannten Angeboten.
+
+<sup>3</sup> …
 
 #### § 48
 
@@ -602,9 +608,11 @@ beschliesst:
 
 **Gemeindebeiträge bei innerkantonalem Schulbesuch**
 
-<sup>1</sup> Die Wohnsitzgemeinden der Lernenden in aargauischen Lehrverhältnissen bezahlen für deren innerkantonalen Schulbesuch einen Gemeindebeitrag. Dieser deckt die aufgrund der Kosten- und Leistungsrechnung ermittelten Betriebskosten des dem Rechnungsjahr vorausgehenden Jahres, abzüglich des Kantonsbeitrags, weiterer Einnahmen und zuviel erwirtschafteten Betriebsüberschüssen gemäss § 50a.
+<sup>1</sup> Die Wohnsitzgemeinden der Lernenden in aargauischen Lehrverhältnissen bezahlen für deren innerkantonalen Schulbesuch einen Gemeindebeitrag. Dieser deckt die voraussichtlichen Betriebskosten gemäss dem vom Schulvorstand genehmigten Budget, abzüglich des Kantonsbeitrags, weiterer Einnahmen und zu viel erwirtschafteten Betriebsüberschüssen gemäss § 50a.
 
-<sup>1<sup>bis</sup></sup> Für die Verzinsung der Amortisationskosten für grosszyklische Sanierungen sowie für Neu- und Umbauten ist der am 30. Juni des Rechnungsjahres geltende Zinsfuss der AKB für Darlehen an öffentlich-rechtliche Körperschaften abzüglich 0,25 Prozentpunkte massgebend.
+<sup>1<sup>bis</sup></sup> Für die Verzinsung der Amortisationskosten für grosszyklische Sanierungen sowie für Neu- und Umbauten ist der am 30. Juni des Rechnungsjahres geltende Hypothekarische Referenzzinssatz des Bundesamtes für Wohnungswesen (BWO) abzüglich 0,25 Prozentpunkte massgebend.
+
+<sup>1<sup>ter</sup></sup> Der Regierungsrat regelt durch Verordnung die Verzinsung mit einem vergleichbaren Instrument, sollte der Hypothekarische Referenzzinssatz nicht mehr geführt werden.
 
 <sup>2</sup> Bei ausserkantonalem Wohnsitz der Lernenden in aargauischen Lehrverhältnissen treten die Lehrortsgemeinden an die Stelle der Wohnsitzgemeinden.
 
@@ -636,9 +644,9 @@ beschliesst:
 
 <sup>1</sup> Die Trägerschaften der gemäss § 15 bezeichneten Berufsfachschulen sind verpflichtet, einen dem Ausgleich von Schwankungen des Schulbetriebs der beruflichen Grundbildung dienenden Rücklagenfonds zu bilden. Dieser ist in der Bilanz als zweckgebundenes Kapital auszuweisen.
 
-<sup>2</sup> Der Rücklagenfonds wird mit Betriebsüberschüssen geäufnet. Er darf höchstens 10 % der sich aus der Kosten- und Leistungsrechnung ergebenden Schulbetriebskosten der beruflichen Grundbildung betragen. Darüber hinausgehende Überschüsse sind im Folgejahr vom Gemeindebeitrag abzuziehen.
+<sup>2</sup> Der Rücklagenfonds wird mit Betriebsüberschüssen geäufnet. Er darf höchstens 30 % der sich aus der Kosten- und Leistungsrechnung ergebenden, jährlichen Schulbetriebskosten der beruflichen Grundbildung betragen. Darüber hinausgehende Überschüsse sind im Folgejahr vom Gemeindebeitrag abzuziehen.
 
-<sup>3</sup> Fehlbeträge sind mit den Mitteln des Rücklagenfonds zu decken. Bei wiederholten Betriebsdefiziten sind in der Leistungsvereinbarung geeignete Massnahmen festzuhalten.
+<sup>3</sup> Fehlbeträge sind mit den Mitteln des Rücklagenfonds zu decken. Bei wiederholten Betriebsdefiziten sind im Leistungsvertrag geeignete Massnahmen festzuhalten.
 
 #### § 51
 
