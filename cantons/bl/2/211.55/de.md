@@ -3,28 +3,28 @@ canton: BL
 number: "211.55"
 title: Verordnung über die Gebühren für die Nachführungsarbeiten in der amtlichen Vermessung
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-17
+version: 2026-01-01
+version_adopted: 2026-01-13
 adopted: 1997-11-25
 in_force: 1997-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.55"
-pdf: "https://bl.clex.ch/api/de/versions/4125/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4409/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren für die Nachführungsarbeiten in der amtlichen Vermessung
 
-Vom 25.11.1997 (Stand 01.01.2025)
+Vom 25.11.1997 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 174 des Gesetzes vom 16. November 2006[^ingress-1] über die Einführung des Zivilgesetzbuches (EG ZGB),
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 174 des Gesetzes über die Einführung des Zivilgesetzbuches (EG ZGB) vom 16. November 2006[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: SGS [211](https://bl.clex.ch/data/211/de), GS 36.0153
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 211](https://bl.clex.ch/data/211/de/art174)
 
 #### § 1
 
@@ -100,7 +100,7 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für das Material (§ 2 Abs. 2) werden vom Regierungsrat periodisch gemäss der Preisentwicklung angepasst.
 
-<sup>2</sup> Die übrigen Gebühren betragen ein teuerungsbedingtes Vielfaches der Preistarife der HO33, die auf der Preisbasis von 1992 beruhen. Das Vielfache wird durch den Anwendungsfaktor bestimmt, der von der Kommission Preisbasis IGS und KGK periodisch gemäss der Preisentwicklung angepasst wird. Der Anwendungsfaktor beträgt 1,26.
+<sup>2</sup> Die übrigen Gebühren betragen ein teuerungsbedingtes Vielfaches der Preistarife der HO33, die auf der Preisbasis von 1992 beruhen. Das Vielfache wird durch den Anwendungsfaktor bestimmt, der von der Kommission Preisbasis IGS und KGK periodisch gemäss der Preisentwicklung angepasst wird. Der Anwendungsfaktor beträgt 1,28.
 
 <sup>3</sup> Die Mehrwertsteuer ist in den Gebühren nicht eingerechnet.
 
