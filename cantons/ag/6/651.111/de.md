@@ -4,13 +4,12 @@ number: "651.111"
 title: Verordnung zum Steuergesetz
 short: StGV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-20
+version: 2026-01-01
+version_adopted: 2025-10-29
 adopted: 2000-09-11
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3705/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3915/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3705/pdf_file"
 
 (StGV)
 
-Vom 11.09.2000 (Stand 01.01.2025)
+Vom 11.09.2000 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -560,7 +559,7 @@ beschliesst:
 
 #### § 63
 
-**Auskunfts- und Meldepflichten (§§ 150 Abs. 1, 171 Abs. 4 und 185 Abs. 3 StG)**
+**Melde- und Bescheinigungspflichten (§§ 171 Abs. 4 und 183 Abs. 1 StG)**
 
 <sup>1</sup> …
 
@@ -569,6 +568,8 @@ beschliesst:
 <sup>3</sup> Die Aargauische Gebäudeversicherung (AGV) meldet dem Kantonalen Steueramt die Empfänger, die Beträge sowie das Zahlungsdatum der ausgerichteten Versicherungsleistungen der obligatorischen Gebäudeversicherung.
 
 <sup>4</sup> Die Gerichte des Kantons haben dem Kantonalen Steueramt Tatsachen zu melden, für die aufgrund von Wahrnehmungen, die sie im Rahmen ihrer amtlichen Tätigkeit machen, die Wahrscheinlichkeit einer unvollständigen Besteuerung besteht.
+
+<sup>5</sup> Die Abnehmer von Solarstrom stellen den Empfängern von Solarstromerträgen jährlich eine Bescheinigung über den gesamten gutgeschriebenen Betrag des Vorjahrs unaufgefordert und unentgeltlich aus.
 
 ### 6.2. Veranlagung im ordentlichen Verfahren
 
@@ -658,6 +659,18 @@ beschliesst:
 #### § 70
 
 **…**
+
+#### § 70a
+
+**Kleinere Nachsteuerverfahren (§ 209 Abs. 2 StG)**
+
+<sup>1</sup> ​Für die Durchführung von kleineren Nachsteuerverfahren gegen natürliche Personen sind die Veranlagungsbehörden der Gemeinden zuständig, wenn die als Nachsteuer geschuldete einfache Kantonssteuer weniger als Fr. 2'000.– beträgt.
+
+<sup>2</sup> ​Im Einverständnis mit dem Kantonalen Steueramt können die Veranlagungsbehörden der Gemeinden die Durchführung von kleineren Nachsteuerverfahren gemäss Absatz 1 dem Kantonalen Steueramt übertragen.
+
+<sup>3</sup> ​Wird in einem durch das Kantonale Steueramt eröffneten Nachsteuerverfahren im Nachhinein festgestellt, dass die als Nachsteuer geschuldete einfache Kantonssteuer weniger als Fr. 2'000.– beträgt, verbleibt die Zuständigkeit für die Durchführung des Nachsteuerverfahrens beim Kantonalen Steueramt.
+
+<sup>4</sup> Eine durch die Veranlagungsbehörde der Gemeinde vorgenommene Eröffnung behält auch im Falle der Übertragung des Nachsteuerverfahrens an das Kantonale Steueramt ihre Gültigkeit.
 
 ## 7. Bezug, Erlass und Sicherung der Steuern und Bussen
 
