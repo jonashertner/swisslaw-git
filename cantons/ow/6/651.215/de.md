@@ -3,20 +3,19 @@ canton: OW
 number: "651.215"
 title: Ausführungsbestimmungen über die Fischerei im Lungerersee
 language: de
-version: 2021-12-01
-valid_until: 2025-12-31
-version_adopted: 2021-10-19
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2010-06-22
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/651.215"
-pdf: "http://gdb.ow.ch/api/de/versions/1567/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1996/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Fischerei im Lungerersee
 
-vom 22.06.2010 (Stand 01.12.2021)
+vom 22.06.2010 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -64,13 +63,13 @@ beschliesst:
 
 <sup>3</sup> Jugendlichen wird ab Beginn des Kalenderjahres, in welchem sie das 10. Altersjahr erreichen, bis zum Ende des Kalenderjahres, in welchem sie das 16. Altersjahr erreichen, ein Patent für Jugendliche erteilt. Personen gelten fischereirechtlich ab Beginn des Kalenderjahres, in welchem sie das 17. Altersjahr erreichen, als Erwachsene.
 
-<sup>4</sup> Kinder unter 10 Jahren dürfen auch ohne Patent fischen, wenn sie von einer erwachsenen Person begleitet und beaufsichtigt werden, welche ein eigenes Patent für den Lungerersee besitzt. Pro erwachsene Person dürfen maximal drei Kinder ohne Patent fischen, wobei die erwachsene Person und die Kinder nur mit je einer Rute fischen dürfen. Die Fänge sind in der Statistik der erwachsenen Person einzutragen.
+<sup>4</sup> Kinder unter 10 Jahren dürfen auch ohne Patent fischen, wenn sie von einer erwachsenen Person begleitet und beaufsichtigt werden, welche ein eigenes Patent für den Lungerersee besitzt. Pro erwachsene Person dürfen maximal zwei Kinder ohne Patent fischen, wobei die erwachsene Person und die Kinder nur mit je einer Rute fischen dürfen. Die Fänge sind in der Statistik der erwachsenen Person einzutragen. Fischt die erwachsene Person gemäss Art. 4a Abs. 1 dieser Ausführungsbestimmungen mit Gästen, darf maximal ein Kind unter 10 Jahren mitfischen.
 
 [^4-1]: GDB [651.21](http://gdb.ow.ch/data/651.21/de)
 
 #### Art. 4a
 
-<sup>1</sup> Eine erwachsene patentinhabende Person darf bis zwei Gästekarten lösen. Das Mindestalter für Gäste beträgt 10 Jahre.
+<sup>1</sup> Zu jedem Patent einer erwachsenen patentinhabenden Person dürfen bis zwei Gästekarten gelöst werden. Zum Jahrespatent darf ein Gästezusatz gelöst werden, welcher der patentinhabenden Person erlaubt, mit höchstens zwei Gästen ohne eigenes Patent und ohne Gästekarte zu fischen. Der Gästezusatz ist für jedes im gleichen Kalenderjahr erworbene Jahrespatent gültig.
 
 <sup>2</sup> Gäste sind berechtigt, in Begleitung der patentinhabenden Person zu fischen. Sie unterstehen deren Verantwortung und Kontrolle.
 
@@ -189,17 +188,17 @@ beschliesst:
 
 **Statistik**
 
-<sup>1</sup> Jede patentinhabende Person ist zur wahrheitsgetreuen Führung und Abgabe der Fangstatistik verpflichtet. Die Einwohnergemeinde Lungern bezeichnet eine oder mehrere Stellen, wo die Fangstatistik abgegeben werden kann.
+<sup>1</sup> Jede patentinhabende Person ist zur wahrheitsgetreuen Führung der Fangstatistik verpflichtet. Die Einwohnergemeinde Lungern bestimmt, wo bzw. wie die Fangstatistik abgegeben werden kann.
 
-<sup>2</sup> Für die Fangstatistik wird eine Kaution erhoben. Die Kaution wird bei fristgerechter Abgabe der Statistik zurückerstattet. Die Rückerstattung verfällt ein halbes Jahr nach Ablauf der Gültigkeit des entsprechenden Patents.
+<sup>2</sup> Für die Fangstatistik in Papierform wird eine Kaution erhoben. Die Kaution wird bei fristgerechter Abgabe der Statistik zurückerstattet. Bei Tages-, Wochen- und Monatspatenten verfällt die Rückerstattung ein halbes Jahr nach Ablauf der Gültigkeit des entsprechenden Patents. Bei Jahrespatenten verfällt die Rückerstattung am 31. Januar des Folgejahres.
 
-<sup>3</sup> Die behändigten Fische müssen sofort nach dem Fang mit Kugelschreiber oder Filzstift unabänderlich in die Statistik eingetragen werden, das heisst, bevor weitergefischt wird und bevor der Fangort verlassen wird.
+<sup>3</sup> Die behändigten Fische müssen sofort nach dem Fang mit Kugelschreiber oder Filzstift unabänderlich in die Statistik in Papierform eingetragen oder in der elektronischen Statistik erfasst werden, das heisst, bevor weitergefischt wird und bevor der Fangort verlassen wird.
 
 #### Art. 13a
 
 **Administrativmassnahmen**
 
-<sup>1</sup> Bei leichten Verstössen gegen die Fischereigesetzgebung wie Missachtung der örtlichen und zeitlichen Einschränkungen, Verunreinigung von Ufer, Lagerplätzen und Gewässern, widerrechtliche Verwendung von Widerhaken, Lebendhälterung von Regenbogenforellen oder Nichteintragen der behändigten Fische in die Statistik können die Kontrollorgane eine Verwarnung aussprechen und eine Behandlungsgebühr von Fr. 100.– erheben.
+<sup>1</sup> Bei leichten Verstössen gegen die Fischereigesetzgebung wie Missachtung der örtlichen und zeitlichen Einschränkungen, Verunreinigung von Ufer, Lagerplätzen und Gewässern, widerrechtliche Verwendung von Widerhaken, Lebendhälterung von Regenbogenforellen, Nichteintragen der behändigten Fische in die Statistik, Landen der angehakten Fische ohne Feumer oder Patenterwerb ohne Sachkunde-Nachweis können die Kontrollorgane eine Verwarnung aussprechen und eine Behandlungsgebühr von Fr. 100.– erheben.
 
 #### Art. 14
 
@@ -224,5 +223,7 @@ Geändert durch:
 \- Nachtrag vom 13. Dezember 2016, vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 26. Januar 2017, in Kraft seit 1. Januar 2017 (OGS 2016, 83, OGS 2017, 6),
 
 \- Nachtrag vom 19. Oktober 2021, vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 23. November 2021, in Kraft seit 1. Dezember 2021 (OGS 2021, 35, OGS 2021, 56),
+
+\- Nachtrag zu den AB über die Fischerei vom 2. Dezember 2025 (OGS 2025, 30), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 21. Januar 2026 (OGS 2026, 005), in Kraft seit 1. Januar 2026
 
 OGS 2010, 39
