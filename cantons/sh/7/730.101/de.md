@@ -1,29 +1,29 @@
 ---
 canton: SH
 number: "730.101"
-title: Verordnung über den Energiehaushalt in Gebäuden und Anlagen
-short: "Energiehaushaltverordnung, EHV"
+title: Energieverordnung
+short: "Energieverordnung, EnerV"
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-28
+version: 2026-01-01
+valid_until: 2026-11-30
+version_adopted: 2025-12-16
 adopted: 2005-02-15
 in_force: 2005-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2025/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2052/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Energiehaushalt in Gebäuden und Anlagen
+# Energieverordnung
 
-(Energiehaushaltverordnung, EHV)
+(Energieverordnung, EnerV)
 
-Vom 15.02.2005 (Stand 01.01.2024)
+Vom 15.02.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 42 ff. des Gesetzes über die Raumplanung und das öffentliche Baurecht im Kanton Schaffhausen vom 1. Dezember 1997 (Baugesetz, BauG),
+gestützt auf das Energiegesetz vom 16. Dezember 2024 (EnerG),
 
 beschliesst:
 
@@ -70,6 +70,16 @@ beschliesst:
 
 <sup>3</sup> Ein Bauteil gilt als vom Umbau betroffen, wenn an ihm mehr als blosse Oberflächen-Auffrischungs- oder Reparaturarbeiten vorgenommen werden.
 
+#### § 4a
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die Energiefachstelle vollzieht die bundes- und kantonsrechtlichen Vorschriften über die Energienutzung und Energieerzeugung, soweit nichts anderes bestimmt ist.
+
+<sup>2</sup> Der Vollzug von Art. 10 bis 19, 22, 24, 26 und 27 des Energiegesetzes und von § 10 bis § 29 dieser Verordnung mit Ausnahme von § 16a, § 21 Abs. 3, § 25a, § 26j, § 26k, § 26l und § 26m obliegt den Gemeinden, sofern nicht Art. 57 des Baugesetzes zur Anwendung kommt.
+
+<sup>3</sup> Zur Umsetzung der Vorbildfunktion nach Art. 2 des Energiegesetzes erarbeiten das Baudepartement und das Departement des Innern eine Klimastrategie, setzen diese um und entwickeln sie weiter. Sie können der Klimakoordination operative Aufgaben übertragen.
+
 ## 2 Förderprogramm
 
 #### § 5
@@ -93,6 +103,33 @@ beschliesst:
 <sup>3</sup> Die Höhe von Darlehen richtet sich nach der Grösse und dem Auslastungsgrad der Energieerzeugungsanlage.
 
 <sup>4</sup> Die Energiefachstelle kann weitere Voraussetzungen für die Ausrichtung von Förderbeiträgen und Darlehen festlegen, insbesondere über Qualitätsanforderungen, Bestimmungen über Beitragskumulationen und über den Auszahlungszeitpunkt und Akontozahlungen.
+
+#### § 6a
+
+**Bürgschaften für Darlehen**
+
+<sup>1</sup> Bürgschaften für Darlehen gemäss Art. 23 Abs. 6 des Energiegesetzes werden gegenüber Finanzinstituten und Pensionskassen gewährt.
+
+<sup>2</sup> Bürgschaften werden auf Gesuch hin an Betreiber von neuen und ausgebauten Wärmenetzen gewährt, deren thermische Energie von Betreibern von Bauten mit einem Abwärmeüberschuss gemäss Art. 23 Abs. 1 des Energiegesetzes stammt, und an dezentrale Bezügerinnen und Bezüger geliefert wird.
+
+<sup>3</sup> Bürgschaften werden für das Risiko des dauerhaften Ausfalls der Abwärmequelle gewährt, wenn sich dieses Risiko weder vermeiden noch anderweitig zu angemessenen Konditionen absichern lässt.
+
+<sup>4</sup> Keine Bürgschaften werden gewährt, wenn der Ausfall der Abwärmequelle auf technische Gründe zurückzuführen ist.
+
+<sup>5</sup> Für die Gewährung von Bürgschaften an Wärmenetzbetreiber müssen folgende Voraussetzungen erfüllt sein:
+
+- 1\. Der Ersatz der Wärmequelle muss angemessen dimensioniert sein.
+- 2\. Zur Abdeckung des Bedarfs an thermischer Energie dürfen jährlich maximal 10 Prozent fossile Energieträger eingesetzt werden. Fossile Überbrückungslösungen sind für maximal zwei Jahre zulässig.
+
+<sup>6</sup> Die Höhe der Bürgschaft richtet sich nach den Kosten für den dauerhaften Ersatz der Abwärmequelle abzüglich anderer Fördermittel. Sie sichert Darlehen in der Höhe von 500'000 Franken bis maximal 20 Millionen Franken ab.
+
+<sup>7</sup> Die Bürgschaften werden im Umfang von höchstens 50 Prozent der Darlehen gewährt.
+
+<sup>8</sup> Die Summe sämtlicher Bürgschaften darf den Betrag von 20 Millionen Franken nicht übersteigen.
+
+<sup>9</sup> Die Gesuche um eine Bürgschaft sind zum Zeitpunkt der Baugesuchseingabe beim Baudepartement einzureichen. Es legt die einzureichenden Unterlagen fest, prüft die Gesuche und unterbreitet sie dem Regierungsrat zum Entscheid.
+
+<sup>10</sup> Fällt die Abwärmequelle aus, so muss dies dem Baudepartement innert 60 Tagen gemeldet werden.
 
 #### § 7
 
@@ -136,9 +173,11 @@ beschliesst:
 
 <sup>1</sup> Der sommerliche Wärmeschutz ist nachzuweisen.
 
-<sup>2</sup> Bei gekühlten Räumen oder bei Räumen, bei welchen eine Kühlung notwendig oder erwünscht ist, sind die Anforderungen an den g Wert, die Steuerung und die Windfestigkeit des Sonnenschutzes gemäss Vollzugshilfe Nr. EN-102 der Energiefachstellenkonferenz einzuhalten.
+<sup>2</sup> Bei gekühlten Räumen oder bei Räumen, bei welchen eine Kühlung notwendig oder erwünscht ist, sind die Anforderungen an den g-Wert, die Steuerung und die Windfestigkeit des Sonnenschutzes gemäss Vollzugshilfe Nr. EN-102 der Energiefachstellenkonferenz einzuhalten.
 
-<sup>3</sup> Bei den anderen Räumen sind die Anforderungen an den g Wert des Sonnenschutzes gemäss Vollzugshilfe Nr. EN-102 der Energiefachstellenkonferenz einzuhalten.
+<sup>3</sup> Bei den anderen Räumen sind die Anforderungen an den g-Wert des Sonnenschutzes gemäss Vollzugshilfe Nr. EN-102 der Energiefachstellenkonferenz einzuhalten.
+
+<sup>4</sup> Die Anforderungen an die Steuerung des Sonnenschutzes gemäss Absatz 2 gelten nicht für gekühlte Räume in bestehenden Bauten bis zu einer Kälteleistung von 20 kW, wenn § 25 Abs. 1 Ziffer 3 erfüllt wird.
 
 #### § 10b
 
@@ -146,7 +185,7 @@ beschliesst:
 
 <sup>1</sup> Der gewichtete Energiebedarf pro Jahr für Heizung, Warmwasser, Lüftung und Klimatisierung in Neubauten darf die Grenzwerte gemäss Anhang 1 nicht überschreiten.
 
-<sup>2</sup> Bei Vorhaben der Gebäudekategorien VI (Restaurants), XI (Sportbauten) und XII (Hallenbäder) sind mindestens 20% der Energie für die Warmwassererwärmung mit erneuerbaren Energien zu decken.
+<sup>2</sup> Bei Vorhaben der Gebäudekategorien VI (Restaurants), XI (Sportbauten) und XII (Hallenbäder) sind mindestens 20 Prozent der Energie für die Warmwassererwärmung mit erneuerbaren Energien zu decken.
 
 <sup>3</sup> Bei Vorhaben der Gebäudekategorie XII (Hallenbäder) ist die Nutzung der Abwärme aus Fortluft, Bade- und Duschwasser zu optimieren.
 
@@ -166,15 +205,15 @@ beschliesst:
 
 **Nachweis mittels Standardlösung oder SH-Light**
 
-<sup>1</sup> Die Anforderungen für Wohnneubauten und Erweiterungen von bestehenden Wohnbauten gemäss Art. 42a des Baugesetzes gelten als erbracht, wenn eine der in Anhang 2 genannten Standardlösungen fachgerecht ausgeführt wird.
+<sup>1</sup> Die Anforderungen für Wohnneubauten und Erweiterungen von bestehenden Wohnbauten gemäss Art. 10 des Energiegesetzes gelten als erbracht, wenn eine der in Anhang 2 genannten Standardlösungen fachgerecht ausgeführt wird.
 
-<sup>2</sup> Für die Gebäudekategorien I (Wohnen MFH), II (Wohnen EFH), III (Verwaltung), IV (Schulen), IX (Industrie) und X (Lager) gelten die Anforderungen gemäss Art. 42a des Baugesetzes als erfüllt, wenn alle im Anhang 3 genannten Vorgaben fachgerecht umgesetzt werden (SH-Light).
+<sup>2</sup> Für die Gebäudekategorien I (Wohnen MFH), II (Wohnen EFH), III (Verwaltung), IV (Schulen), IX (Industrie) und X (Lager) gelten die Anforderungen gemäss Art. 10 des Energiegesetzes als erfüllt, wenn alle im Anhang 3 genannten Vorgaben fachgerecht umgesetzt werden (SH-Light).
 
 #### § 13
 
 **Befreiung für Bagatellerweiterungen**
 
-<sup>1</sup> Erweiterungen von bestehenden Bauten sind von den Anforderungen gemäss Art. 42a des Baugesetzes befreit, wenn die neu geschaffene Energiebezugsfläche:
+<sup>1</sup> Erweiterungen von bestehenden Bauten sind von den Anforderungen gemäss Art. 10 des Energiegesetzes befreit, wenn die neu geschaffene Energiebezugsfläche:
 
 - 1\. weniger als 50 m² beträgt oder
 - 2\. maximal 20 Prozent der gesamten bisherigen Energiebezugsfläche des bestehenden Gebäudeteiles und nicht mehr als 1'000 m² beträgt
@@ -189,12 +228,12 @@ beschliesst:
 
 - a) Bauten, die auf weniger als 10°C aktiv beheizt werden, ausgenommen Kühlräume
 - b) Kühlräume, die nicht auf unter 8°C aktiv gekühlt werden
-- c) Bauten, deren Baubewilligung auf maximal 3 Jahre befristet ist (provisorische Bauten)
+- c) Bauten, deren Baubewilligung begründet und angemessen befristet ist (provisorische Bauten)
 - d) denkmalpflegerisch schützenswerten Gebäuden, falls das Erscheinungsbild beeinträchtigt würde
 
 <sup>3</sup> Von den Anforderungen an den sommerlichen Wärmeschutz der Gebäudehülle gemäss § 10a sind befreit:
 
-- a) Bauten, deren Baubewilligung auf maximal 3 Jahre befristet ist (provisorische Bauten)
+- a) Bauten, deren Baubewilligung begründet und angemessen befristet ist (provisorische Bauten)
 - b) Umnutzungen, wenn damit keine Räume neu unter § 10a fallen
 - c) Vorhaben, für die mit einem anerkannten Rechenverfahren nachgewiesen wird, dass kein erhöhter Energieverbrauch auftreten wird
 
@@ -242,19 +281,19 @@ beschliesst:
 
 <sup>3</sup> Werden nur einzelne Bauteile saniert, sind für diese die U-Werte von 0.15 W/m²K für opake Bauteile gegen Aussenklima und 0.8 W/m²K für Fenster sowie 0.2 W/m²K für opake Bauteile gegen Erdreich oder unbeheizte Räume einzuhalten.
 
-<sup>4</sup> Gebäude mit hohen Personenbelegungen mit ≤ 20 m² pro Person (SIA380/1:2016) sind mit einer mechanischen Lüftungsanlage mit Wärmerückgewinnung und einem WRG-Wirkungsgrad von mindestens 70 Prozent und nach dem Stand der Technik auszurüsten.
+<sup>4</sup> Bei Neubauten und tiefgreifenden Umbau- und Sanierungsmassnahmen sind Gebäude mit Personenbelegungen, in denen bei Vollbelegung eine Personenfläche (nach SIA AP=AE/P) von 20 m² oder weniger zur Verfügung steht, mit einer mechanischen Lüftungsanlage mit Wärmerückgewinnung und einem WRG-Wirkungsgrad von mindestens 70 Prozent sowie nach dem Stand der Technik auszurüsten.
 
-<sup>5</sup> Bei Neubauten und neubauartigen Umbauten ist neben der Einhaltung der Baustandards gemäss § 16a Abs. 1 das solare Potenzial der geeigneten Dachflächen zur Eigenstromproduktion mittels PV-Anlagen zu nutzen.
+<sup>5</sup> Bei Neubauten und neubauartigen Umbauten ist neben der Einhaltung der Baustandards gemäss § 16a Abs. 1 das solare Potenzial der geeigneten Dachflächen zur Eigenstromproduktion mittels Solarstromanlagen zu nutzen.
 
 <sup>6</sup> Bauvorhaben, bei welchen die Kosten der Sanierung grösser als 50 Prozent des indexierten Gebäudeversicherungswertes sind, werden als «tiefgreifende Umbauten» bezeichnet.
 
-<sup>7</sup> Bei umfassenden Dachsanierungen, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, ist das solare Potenzial der geeigneten Dachflächen zur Eigenstromproduktion mittels PV-Anlagen zu nutzen. Bei einer umfassenden Dachsanierung wird die Dachhaut grossflächig ersetzt oder instand gestellt. Kleinteilige Reparatur- und Unterhaltsarbeiten an den Dachflächen sind hiervon nicht betroffen.
+<sup>7</sup> Bei umfassenden Dachsanierungen, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, ist das solare Potenzial der geeigneten Dachflächen zur Eigenstromproduktion mittels Solarstromanlagen zu nutzen. Bei einer umfassenden Dachsanierung wird die Dachhaut grossflächig ersetzt oder instand gestellt. Kleinteilige Reparatur- und Unterhaltsarbeiten an den Dachflächen sind hiervon nicht betroffen.
 
-<sup>8</sup> Geeignete Dachflächen sind Flächen ab 85% Globalstrahlung (Anhang 7). Ausgenommen sind Dachaufbauten wie Liftüberfahrten oder Gauben sowie Dachflächen, deren Jahresertrag unter Berücksichtigung einer vorliegenden Verschattung um mehr als 50% reduziert wird.
+<sup>8</sup> Geeignete Dachflächen sind Flächen ab 85 Prozent Globalstrahlung (Anhang 7). Ausgenommen sind Dachaufbauten wie Liftüberfahrten oder Gauben sowie Dachflächen, deren Jahresertrag unter Berücksichtigung einer vorliegenden Verschattung um mehr als 50 Prozent reduziert wird.
 
-<sup>9</sup> Zur Winterstromproduktion sind bei Neubauten zusätzlich südlich orientierte Fassadenflächen ab 75% Globalstrahlung mindestens zur Hälfte des opaken Flächenanteils für die Eigenstromproduktion mittels PV-Anlagen zu nutzen. Ausgenommen sind Fassadenflächen, deren Jahresertrag unter Berücksichtigung einer vorliegenden Verschattung um mehr als 50% reduziert wird.
+<sup>9</sup> Zur Winterstromproduktion sind bei Neubauten zusätzlich südlich orientierte Fassadenflächen ab 75 Prozent Globalstrahlung mindestens zur Hälfte des opaken Flächenanteils für die Eigenstromproduktion mittels Solarstromanlagen zu nutzen. Ausgenommen sind Fassadenflächen, deren Jahresertrag unter Berücksichtigung einer vorliegenden Verschattung um mehr als 50 Prozent reduziert wird.
 
-<sup>10</sup> Bei einem Heizungsersatz, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, gilt die Vorbildfunktion bezüglich der Förderung der Nutzung erneuerbarer und umweltverträglich produzierter Energien als wahrgenommen, wenn die neue Anlage nicht mehr mit fossilen Brennstoffen betrieben wird.
+<sup>10</sup> Bei einem Heizungsersatz, unabhängig von tiefgreifenden Umbau- und Sanierungsmassnahmen, gilt die Vorbildfunktion bezüglich der Förderung der Nutzung erneuerbarer und umweltverträglich produzierter Energien als wahrgenommen, wenn die neue Anlage nicht mehr mit fossilen Brennstoffen betrieben wird. Bei einer Übergangslösung gemäss § 26d Abs. 7 beträgt der Anteil an Schweizer Biogas oder Schweizer Bioöl 100 Prozent.
 
 ## 4 Anforderungen an haustechnische Anlagen
 
@@ -294,7 +333,7 @@ beschliesst:
 
 **Befreiung Ersatz dezentrale Elektroheizungen und Elektrowassererwärmer**
 
-<sup>1</sup> Von der Ersatzpflicht für dezentrale Elektroheizungen gemäss Art. 42f des Baugesetzes sind befreit:
+<sup>1</sup> Von der Ersatzpflicht für dezentrale Elektroheizungen gemäss Art. 14 des Energiegesetzes sind befreit:
 
 - 1\. Nasszellen und WC-Anlagen
 - 2\. Gebäude, die entweder eine installierte Leistung von höchstens 3 kW haben oder deren elektrisch beheizte Fläche kleiner als 50 m² Energiebezugsfläche ist
@@ -309,9 +348,9 @@ beschliesst:
 
 <sup>2</sup> In Neubauten und tiefgreifenden Umbauten von Wohngebäuden sind mindestens eine ausreichende Anschlussleitung sowie Leerrohre für eine spätere Installation der Ladeinfrastruktur entsprechend der Ausbaustufe «B» vorzusehen.
 
-<sup>3</sup> In Neubauten und tiefgreifenden Umbauten von Nichtwohnbauten sowie Parkhäusern sind ab 10 Parkplätzen bei 20% der Parkplätze einsatzbereite Ladestellen gemäss Ausbaustufe «D» vorzunehmen.
+<sup>3</sup> In Neubauten und tiefgreifenden Umbauten von Nichtwohnbauten sowie Parkhäusern sind ab 10 Parkplätzen bei 20 Prozent der Parkplätze einsatzbereite Ladestellen gemäss Ausbaustufe «D» vorzunehmen.
 
-<sup>4</sup> Bei bestehenden Parkhäusern und Parkplätzen im Sinne von Art. 39a Abs. 2 BauG sind zwei Prozent der Parkplätze gemäss der Ausbaustufe «D» auszurüsten.
+<sup>4</sup> Bei bestehenden Parkhäusern und Parkplätzen im Sinne von Art. 11 Abs. 2 des Energiegesetzes sind zwei Prozent der Parkplätze gemäss der Ausbaustufe «D» auszurüsten.
 
 <sup>5</sup> Eine bestehende Parkplatzsituation wird als Einheit beurteilt, wenn die einzelnen Parkplätze zusammenhängend angeordnet sind oder über ein gemeinsames Bewirtschaftungssystem verfügen.
 
@@ -370,7 +409,7 @@ beschliesst:
 
 <sup>3</sup> Bei Flächenheizungen ist für den beheizten Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0.7 W/m²K einzuhalten.
 
-<sup>4</sup> Als ausrüstungspflichtige Neubauten und Gebäudegruppen im Sinne von Art. 42b des Baugesetzes gelten alle Bauten und Gebäudegruppen, für welche die Baubewilligung nach dem 1. April 2021 erteilt worden ist.
+<sup>4</sup> Als ausrüstungspflichtige Neubauten und Gebäudegruppen im Sinne von Art. 13 des Energiegesetzes gelten alle Bauten und Gebäudegruppen, für welche die Baubewilligung nach dem 1. April 2021 erteilt worden ist.
 
 <sup>5</sup> Bei ausrüstungspflichtigen Bauten und Gebäudegruppen, für welche zwischen dem 1. April 2005 und dem 1. April 2021 die Baubewilligung erteilt worden ist, ist der Wärmebedarf für Heizung und Warmwasser zu erfassen und verbrauchsabhängig abzurechnen.
 
@@ -417,8 +456,20 @@ beschliesst:
 
 <sup>1</sup> Klimaanlagen für die Aufrechterhaltung des Komforts sind in bestehenden Bauten so zu erstellen, dass entweder:
 
-- 1\. der elektrische Leistungsbedarf für die Medienförderung und die Medienaufbereitung inklusiver allfälliger Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung 12 W/m² nicht überschreitet oder
-- 2\. die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung sowie die Planung und der Betrieb einer allfälligen Befeuchtung gemäss Vollzugshilfe Nr. EN-110 der Energiefachstellenkonferenz erfolgt
+- 1\. der elektrische Leistungsbedarf für die Medienförderung und die Medienaufbereitung inklusiver allfälliger Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung 12 W/m² nicht überschreitet, oder
+- 2\. die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung sowie die Planung und der Betrieb einer allfälligen Befeuchtung gemäss Vollzugshilfe Nr. EN-110 der Energiefachstellenkonferenz erfolgt, oder
+- 3\. eine Solarstromanlage installiert wird oder eine entsprechende Anlage bereits vorhanden ist, die nicht zur Einhaltung anderer energierechtlicher Vorgaben erforderlich ist. Die elektrische Leistung der Solarstromanlage entspricht mindestens jener zur Deckung des Kältebedarfs, mindestens aber 2 kW.
+
+<sup>2</sup> Baubewilligungspflichtige Anlagen zur Kühlung, Befeuchtung und Entfeuchtung, die neu eingebaut werden, erfüllen die Anforderung, dass diese mit erneuerbarer Energie betrieben werden, entweder durch Erzeugung der dafür nötigen Elektrizität oder den Nachweis, dass entsprechende Herkunftsnachweise vorliegen.
+
+#### § 25a
+
+**Effizienzanforderungen Rechenzentren**
+
+<sup>1</sup> Rechenzentren gemäss Art. 23 des Energiegesetzes haben mindestens nachfolgende Effizienzanforderungen zu erfüllen oder sind wie folgt zu zertifizieren:
+
+- 1\. PUE+ ≤ 1.20, spätestens 3 Jahre nach Inbetriebnahme
+- 2\. SDEA-Label Stufe Gold.
 
 #### § 26
 
@@ -430,16 +481,16 @@ beschliesst:
 
 <sup>1</sup> Bei Neubauten sowie erheblichen Umbauten und Umnutzungen, welche Geschossflächen von insgesamt mehr als 1'000 m² für Dienstleistungen, gewerbliche oder öffentliche Nutzungen enthalten, ist für diese Flächen der Elektrizitätsbedarf folgendermassen einzuhalten:
 
-- 1\. Beleuchtung: Einhaltung der Grenzwerte Energie oder Einhaltung der spezifischen installierten Leistung mittels EnFK-Berechnungswerkzeug basierend auf den Grenz- und Zielwerten der SIA-Norm 387/4, Ausgabe 2017; und
+- 1\. Beleuchtung: Einhaltung der Grenzwerte Energie oder Einhaltung der spezifischen installierten Leistung mittels EnFK-Berechnungswerkzeug basierend auf den Grenz- und Zielwerten der SIA-Norm 387/4, Ausgabe 2023; und
 - 2\. Kühlen, Be- und Entfeuchten: Bei Neubauten ist die benötigte Energie in der Berechnung gemäss § 11 zu berücksichtigen. Bei Umbauten und Umnutzungen ist entweder der elektrische Leistungsbedarf von 12 W/m² für Medienförderung, Aufbereitung, Kühlung, Be- und Entfeuchtung einzuhalten oder die Anlagen sind gemäss dem Stand der Technik Vollzugshilfe Nr. EN-110 der Energiefachstellenkonferenz auszuführen
 
-<sup>2</sup> Alternativ zu Abs. 1 ist eine zu § 26f (Art. 42a Abs. 1<sup>bis</sup> des Baugesetzes) zusätzliche Elektrizitätserzeugungsanlage mit mindestens 10 W pro m² Energiebezugsfläche zu installieren. Die Obergrenze von 30 kW entfällt.
+<sup>2</sup> Alternativ zu Abs. 1 ist eine zu § 26f (Art. 26 des Energiegesetzes) zusätzliche Elektrizitätserzeugungsanlage mit mindestens 10 W/m² Energiebezugsfläche zu installieren.
 
 #### § 26b
 
 **Beheizte Freiluftbäder**
 
-<sup>1</sup> Als Freiluftbäder gemäss Art. 42i des Baugesetzes gelten Wasserbecken mit einem Inhalt von mehr als 8 m³.
+<sup>1</sup> Als Freiluftbäder gemäss Art. 18 des Energiegesetzes gelten Wasserbecken mit einem Inhalt von mehr als 8 m³.
 
 #### § 26c
 
@@ -451,14 +502,14 @@ beschliesst:
 
 **Erneuerbare Energie beim Heizungsersatz**
 
-<sup>1</sup> Der Anteil gemäss Art. 42n Abs. 2 beträgt ab 1. Januar 2024 mindestens 40%.
+<sup>1</sup> Der Anteil gemäss Art. 22 Abs. 2 des Energiegesetzes beträgt ab 1. Januar 2024 mindestens 40%.
 
 <sup>2</sup> Die Anforderung bezüglich erneuerbare Energie beim Heizungsersatz ist erfüllt, wenn:
 
 - 1\. die fachgerechte Umsetzung einer Haupt-Standardlösung gemäss Anhang 4 (SL1 bis SL5) gewährleistet ist oder
 - 2\. die fachgerechte Umsetzung von drei oder vier Kombinations-Standardlösungen gemäss Anhang 4 (SL7 bis SL16) im Umfang gemäss § 26d Abs. 1 gewährleistet ist oder
 - 3\. die Zertifizierung des Gebäudes nach Minergie ausgewiesen ist oder
-- 4\. die Klasse B bei der Gebäudehülleneffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist oder
+- 4\. die Klasse A, B, C oder D bei der Gebäudehülleneffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist oder
 - 5\. für die betroffenen Bauten und Gebäudegruppen die Baubewilligung nach dem 1. Januar 2011 erteilt wurde
 
 <sup>3</sup> Bei flüssigen Brennstoffen sind die Zertifikate für die ganze Betriebsdauer (20 Jahre) zusammen mit dem Kaufbeleg vor Baubeginn der Anlage der Bewilligungsbehörde einzureichen.
@@ -469,6 +520,12 @@ beschliesst:
 
 <sup>6</sup> Die Frist für die Umsetzung der gewählten Standardlösungen beträgt maximal drei Jahre, mit Ausnahme der SL15 und SL16, die zum Zeitpunkt der Inbetriebnahme des Heizungsersatzes zu vereinbaren und zu beziehen sind.
 
+<sup>7</sup> Für die Haupt-Standardlösung SL3 (Fernwärmeanschluss) gilt eine Übergangsfrist von maximal 8 Jahren ab dem Zeitpunkt des Heizungsersatzes, falls der Fernwärmeanschluss noch nicht realisiert ist und folgende Bedingungen eingehalten werden:
+
+- 1\. Es liegt ein Vertrag für den Anschluss an das zukünftige Wärmenetz mit Eintrag im Grundbuch vor.
+- 2\. Es liegt ein Nachweis für den Bezug von Wärme aus mindestens 80 Prozent Schweizer Biogas oder Schweizer Bioöl während der Übergangszeit vor.
+- 3\. Ausserhalb des Altstadt-Gebiets liegt zusätzlich eine Baubewilligung für die Wärmezentrale des geplanten Wärmenetzes mit ausgewiesener Kapazität für die zu erschliessenden Liegenschaften vor.
+
 #### § 26e
 
 **…**
@@ -478,6 +535,10 @@ beschliesst:
 **Anforderung Eigenstromerzeugung bei Neubauten**
 
 <sup>1</sup> Die im, auf oder am Gebäude installierte Elektrizitätserzeugungsanlage bei Neubauten muss mindestens 30 W pro m² Energiebezugsfläche leisten.
+
+<sup>1a</sup> Neubauten ohne Energiebezugsfläche nutzen ab einer anrechenbaren Gebäudefläche von 150 m² das solare Potenzial. Zu nutzen sind dabei Dachflächen ab einer Globalstrahlung von 85 Prozent (Anhang 7), wobei mindestens 60 Prozent der Dachfläche zu belegen ist. Flächen zur Erzeugung von Warmwasser (Solarthermie) werden dabei angerechnet.
+
+<sup>1b</sup> Die Definition der anrechenbaren Gebäudefläche stützt sich auf Anhang 1 Art. A1-8 des Baugesetzes ab.
 
 <sup>2</sup> Elektrizität aus Wärme-Kraft-Kopplungsanlagen kann nur berücksichtigt werden, wenn sie nicht zur Erfüllung der Anforderung an die Deckung des Wärmebedarfs eingerechnet wird.
 
@@ -495,6 +556,58 @@ beschliesst:
 
 <sup>3</sup> Stufe 2: Bei Eigenstromproduktion unter 15 W pro m² Energiebezugsfläche ist der Energiebedarf (E<sub>hwlk</sub>) um 10.0 kWh/m²a zu senken.
 
+#### § 26h
+
+**Anforderungen an umfassende Dachsanierungen**
+
+<sup>1</sup> Wird die Dachhaut umfassend saniert, sind Dachflächen ab einer anrechenbaren Gebäudefläche von 300 m² und einer Globalstrahlung von 85 Prozent (Anhang 7) für die Eigenstromerzeugung zu nutzen.
+
+<sup>2</sup> Es gelten folgende Mindestgrössen:
+
+- 1\. Bei Gebäuden mit Energiebezugsfläche muss die Solarstromanlage mindestens 30 W/m² Energiebezugsfläche leisten.
+- 2\. Bei Gebäuden ohne Energiebezugsfläche ist mindestens 60 Prozent der Dachfläche zu belegen. Flächen zur Erzeugung von Warmwasser (Solarthermie) werden dabei angerechnet.
+
+#### § 26i
+
+**Anforderung Eigenstromerzeugung bei Neubauten mit grossen Abwärmemengen**
+
+<sup>1</sup> Bei Neubauten gemäss Art. 23 des Energiegesetzes gilt das solare Potenzial als genutzt, wenn:
+
+- 1\. Dachflächen ab einer Globalstrahlung von 85 Prozent (Anhang 7) zu mindestens 60 Prozent der Dachfläche mit Solarmodulen belegt sind; und
+- 2\. Fassadenflächen ab einer Globalstrahlung von 75 Prozent (Anhang 7) zu mindestens 50 Prozent der opaken Fläche mit Solarmodulen belegt sind.
+
+### 4a Anforderungen an die Energieerzeugung
+
+#### § 26j
+
+**Solarstrom bei Infrastrukturanlagen**
+
+<sup>1</sup> Der Kanton nutzt das solare Potenzial der sich in seinem Besitz befindenden Infrastrukturanlagen bis 2035, sofern der Hauptzweck der Infrastruktur nicht eingeschränkt wird und die Globalstrahlung mindestens 75 Prozent im Vergleich zu einer horizontalen Fläche beträgt (Anhang 7). Ausgenommen sind Flächen, deren Jahresertrag durch Verschattung um mehr als 50 Prozent reduziert wird.
+
+<sup>2</sup> Als kantonale Infrastrukturanlagen gelten insbesondere Kantonsstrassen, Kunstbauten entlang von Kantonsstrassen sowie Parkplätze im Eigentum des Kantons.
+
+#### § 26k
+
+**Mitwirkung Windenergie**
+
+<sup>1</sup> Mit der Vorprüfung reichen Projektentwickler von Grosswindenergieanlagen ein Mitwirkungskonzept ein, das den möglichst frühzeitigen Einbezug und die Begleitung durch die kommunalen Behörden und die interessierte Bevölkerung dokumentiert. Das Mitwirkungskonzept wird vor Projektbeginn zusammen mit den Standortgemeinden, den Nachbargemeinden und dem Kanton erarbeitet.
+
+<sup>2</sup> Das Mitwirkungskonzept stellt sicher, dass alle Vor- und Nachteile des geplanten Windparkvorhabens öffentlich zugänglich sind und die im Rahmen des Projektes gefällten Entscheide von allen Beteiligten eingesehen werden können.
+
+#### § 26l
+
+**Windzins**
+
+<sup>1</sup> Die schriftliche Vereinbarung zwischen dem Betreiber von Windenergieanlagen ab einer Gesamtnennleistung von 1'000 kW und den Standortgemeinden über die Höhe des zu entrichtenden Windzinses wird spätestens mit dem Baugesuch an die zuständige Baubewilligungsbehörde eingereicht.
+
+#### § 26m
+
+**Rückbau von Windenergieanlagen**
+
+<sup>1</sup> Der Rückbau von Windenergieanlagen wird dann fällig, wenn die Anlagen mehr als 12 Monate nicht mehr genutzt wurden oder die dauerhafte Stilllegung erklärt wurde.
+
+<sup>2</sup> Die Höhe der Finanzierungsabsicherung richtet sich nach den Kosten, die voraussichtlich für den Rückbau der Anlage, einschliesslich der Beseitigung der Bodenversiegelung, entstehen. Zu den Rückbaukosten gehören auch die Entsorgungs- und Transportkosten sowie die Mehrwertsteuer.
+
 ## 5 Vollzug
 
 #### § 27
@@ -508,7 +621,7 @@ beschliesst:
 
 <sup>2</sup> Der Nachweis für den Wärmeschutz ist zusammen mit dem Baugesuch einzureichen. Der Nachweis für haustechnische Anlagen kann nachträglich, bei Neubauten spätestens aber vor Abnahme des Schnurgerüstes eingereicht werden. Die Fristen können auf Gesuch hin verlängert werden, falls die Art des Bauvorhabens dies erfordert.
 
-<sup>3</sup> Ein Minergie-Label zusammen mit den nachgewiesenen erhöhten Anforderungen an die Eigenstromproduktion gemäss § 26f EHV gilt als Nachweis. Dies kontrolliert und bestätigt die Zertifizierungsstelle Minergie.
+<sup>3</sup> Ein Minergie-Label zusammen mit den nachgewiesenen erhöhten Anforderungen an die Eigenstromproduktion gemäss § 26f gilt als Nachweis. Dies kontrolliert und bestätigt die Zertifizierungsstelle Minergie.
 
 #### § 27a
 
@@ -544,17 +657,17 @@ beschliesst:
 
 **Energieoptimierungsmassnahmen in Betriebstätten**
 
-<sup>1</sup> Unternehmen oder Institutionen mit Betriebsstätten gemäss Art. 42k des Baugesetzes müssen die energetische Optimierung ihres Energieverbrauchs nachweisen.
+<sup>1</sup> Unternehmen oder Institutionen mit Betriebsstätten gemäss Art. 20 des Energiegesetzes müssen die energetische Optimierung ihres Energieverbrauchs nachweisen.
 
 <sup>2</sup> Die aufgrund einer Verbrauchsanalyse zu realisierenden Massnahmen sind für Unternehmen und Institutionen zumutbar, wenn sie dem Stand der Technik entsprechen sowie über die Nutzungsdauer der Investition wirtschaftlich und nicht mit wesentlichen betrieblichen Nachteilen verbunden sind.
 
-<sup>3</sup> Die zuständige Behörde kann im Rahmen der vorgegebenen Ziele gemäss Art. 42k Abs. 2 des Baugesetzes mit einzelnen oder mit Gruppen von Unternehmen und Institutionen mittel- und langfristige Verbrauchsziele vereinbaren. Dabei werden die Effizienz des Energieeinsatzes zum Zeitpunkt der Zielfestlegung und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher mitberücksichtigt. Für die Dauer der Vereinbarung sind diese Betriebsstätten von der Einhaltung der Art. 42a, 42c, 42f bis j, 42n (Baugesetz) und §§ 10b, 11, 12, 13, 17, 17a, 17b, 18 bis 21, 24, 24a, 25, 26a bis 26g (EHV) entbunden. Die zuständige Behörde kann die Vereinbarung aufheben, wenn die Verbrauchsziele nicht eingehalten werden.
+<sup>3</sup> Die zuständige Behörde kann im Rahmen der vorgegebenen Ziele gemäss Art. 20 Abs. 2 des Energiegesetzes mit einzelnen oder mit Gruppen von Unternehmen und Institutionen mittel- und langfristige Verbrauchsziele vereinbaren. Dabei werden die Effizienz des Energieeinsatzes zum Zeitpunkt der Zielfestlegung und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher mitberücksichtigt. Für die Dauer der Vereinbarung sind diese Betriebsstätten von der Einhaltung der Art. 10, 14 bis 19, 22, 24 des Energiegesetzes und §§ 10b, 11, 12, 13, 17, 17a, 17b, 18 bis 21, 24, 24a, 25, 26a bis 26g dieser Verordnung entbunden. Die zuständige Behörde kann die Vereinbarung aufheben, wenn die Verbrauchsziele nicht eingehalten werden.
 
 <sup>4</sup> Unternehmen oder Institutionen können sich zu Gruppen zusammenschliessen. Sie organisieren sich selbst und regeln die Aufnahme und den Ausschluss von Mitgliedern.
 
 <sup>5</sup> Der Vollzug der Energieoptimierungsmassnahmen in Betriebsstätten obliegt dem Baudepartement. Dieses kann den Vollzug Dritten übertragen.
 
-<sup>6</sup> Als wirtschaftlich zumutbar gelten Massnahmen mit einer Paybackzeit von maximal vier Jahren für Prozesse und acht Jahren bei der Gebäudeinfrastruktur.
+<sup>6</sup> Als wirtschaftlich zumutbar gelten Massnahmen mit einer Paybackzeit von maximal sechs Jahren für Prozesse und zwölf Jahren bei der Gebäudeinfrastruktur.
 
 ## 6 Schlussbestimmungen
 
@@ -562,7 +675,7 @@ beschliesst:
 
 **Widerhandlungen**
 
-<sup>1</sup> Übertretungen dieser Verordnung werden nach den Strafbestimmungen des Baugesetzes bestraft.
+<sup>1</sup> Übertretungen dieser Verordnung werden nach den Strafbestimmungen von Art. 34 des Energiegesetzes bestraft.
 
 #### § 32
 
@@ -582,7 +695,7 @@ beschliesst:
 
 <sup>1</sup> Bewilligungspflichtige Vorhaben, für welche das Gesuch vor Inkrafttreten dieser Verordnung und der Gesetzesänderung eingereicht worden ist, werden nach bisherigem Recht beurteilt.
 
-<sup>2</sup> Der Zeitpunkt des Heizungsersatzes gemäss § 26d EHV wird mit dem ordentlichen Inbetriebnahme-Protokoll der fertiggestellten neuen Heizungsanlage beurteilt.
+<sup>2</sup> Der Zeitpunkt des Heizungsersatzes gemäss § 26d wird mit dem ordentlichen Inbetriebnahme-Protokoll der fertiggestellten neuen Heizungsanlage beurteilt.
 
 <sup>3</sup> Bewilligungspflichtige Vorhaben der öffentlichen Hand gemäss § 16a Abs. 1 Ziff. 1 und § 16a Abs. 5, 7 und 9, für die das Gesuch bis zum 30. Juni 2025 eingereicht wird, werden nach dem Recht in der Fassung vom 1. April 2021 beurteilt.
 
@@ -628,13 +741,13 @@ beschliesst:
 
 <table>
 <tr><th>Gebäudehülle</th><th>Bauteil / Anforderung</th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th></tr>
-<tr><td>1</td><td>Opake Bauteile gegen aussen (0.17 W/m²/K); Fenster (1.0 W/m²/K); Kontrollierte Wohnungslüftung</td><td>X</td><td>X</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>2</td><td>Opake Bauteile gegen aussen (0.17 W/m²/K); Fenster (1.0 W/m²/K); Therm. Solaranlage für WW mit mind. 2% der EBF oder PV-Anlage mit zusätzlich 10 W/m² x EBF zur Grundanforderung</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>X</td><td>–</td><td>–</td></tr>
+<tr><td>1</td><td>Opake Bauteile gegen aussen (0.17 W/m²K); Fenster (1.0 W/m²K); Kontrollierte Wohnungslüftung</td><td>X</td><td>X</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>2</td><td>Opake Bauteile gegen aussen (0.17 W/m²K); Fenster (1.0 W/m²K); Therm. Solaranlage für WW mit mind. 2% der EBF oder Solarstromanlage mit zusätzlich 10 W/m² x EBF zur Grundanforderung</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>X</td><td>–</td><td>–</td></tr>
 <tr><td>3</td><td>Opake Bauteile gegen aussen</td><td>X</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>3</td><td>Fenster</td><td>X</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>4</td><td>Opake Bauteile gegen aussen (0.15 W/m²/K); Fenster (0.8 W/m²/K)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>5</td><td>Opake Bauteile gegen aussen (0.15 W/m²/K); Fenster (0.8 W/m²/K); Therm. Solaranlage für WW mit mind. 2% der EBF oder PV-Anlage mit zusätzlich 10 W/m² x EBF zur Grundanforderung</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>X</td><td>-</td></tr>
-<tr><td>6</td><td>Opake Bauteile gegen aussen (0.15 W/m²/K); Fenster (0.8 W/m²/K); Kontrollierte Wohnungslüftung; Therm. Solaranlage für H+WW mit mind. 7% der EBF oder PV-Anlage mit zusätzlich 35 W/m² x EBF zur Grundanforderung</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>X</td></tr>
+<tr><td>4</td><td>Opake Bauteile gegen aussen (0.15 W/m²K); Fenster (0.8 W/m²K)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5</td><td>Opake Bauteile gegen aussen (0.15 W/m²K); Fenster (0.8 W/m²K); Therm. Solaranlage für WW mit mind. 2% der EBF oder Solarstromanlage mit zusätzlich 10 W/m² x EBF zur Grundanforderung</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>X</td><td>-</td></tr>
+<tr><td>6</td><td>Opake Bauteile gegen aussen (0.15 W/m²K); Fenster (0.8 W/m²K); Kontrollierte Wohnungslüftung; Therm. Solaranlage für H+WW mit mind. 7% der EBF oder Solarstromanlage mit zusätzlich 35 W/m² x EBF zur Grundanforderung</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>(X)</td><td>X</td></tr>
 </table>
 
 <sup>2</sup> Legende:
@@ -702,16 +815,16 @@ beschliesst:
 
 <sup>2</sup> Kombinations-Standardlösungen, drei bis vier Lösungen (SL7 bis SL16) sind umzusetzen:
 
-- a) SL7: Ersatz der Fenster entlang der thermischen Gebäudehülle: U-Wert Glas neue Fenster ≤ 0.7 W/m²K; anrechenbarer erneuerbarer Anteil 10%
-- b) SL8: Wärmedämmung von Fassade und/oder Dach: U-Wert neue Fassade / Dach / Estrichboden ≤ 0.2 W/m²K, sanierte Fläche mindestens 0.5 m² pro m² Energiebezugsfläche; anrechenbarer erneuerbarer Anteil 10%
-- c) SL9: Thermische Sonnenkollektoren für die Warmwassererwärmung: Solaranlage: mindestens 2% der Energiebezugsfläche; anrechenbarer erneuerbarer Anteil 10%
-- d) SL10: Warmwasserwärmepumpe mit Solarstromanlage: Wärmepumpenboiler und Solarstromanlage mit mindestens 5 W pro m² Energiebezugsfläche; anrechenbarer erneuerbarer Anteil 10%
-- e) SL11: Kontrollierte Wohnungslüftung: Neu-Einbau einer kontrollierten Wohnungslüftung mit Wärmerückgewinnung (Wirkungsgrad mindestens 70%) und versorgt mindestens 90% der bestehenden Energiebezugsfläche; anrechenbarer erneuerbarer Anteil 10%
-- f) SL12: Mit Erdgas angetriebene Wärmepumpe: für Heizung und Warmwasser ganzjährig, entweder monovalent oder bivalent mit mindestens 50% des Leistungsbedarfs und einem Wirkungsgrad von mindestens 120%; anrechenbarer erneuerbarer Anteil 10%
-- g) SL13: Wärmekraftkopplung: elektrischer Wirkungsgrad mindestens 25% und für mindestens 60% des Wärmebedarfs für Heizung und Warmwasser; anrechenbarer erneuerbarer Anteil 10%
-- h) SL14: Grundlast-Wärmeerzeuger erneuerbar mit bivalent betriebenem fossilem Spitzenkessel: Mit erneuerbaren Energien automatisch betriebener Grundlast-Wärmeerzeuger (Holzschnitzel, Pellets, Erdwärme, Grundwasser oder Aussenluft) mit einer Wärmeleistung von mindestens 25% der im Auslegungsfall notwendigen Wärmeleistung, ergänzt mit fossilem Brennstoff bivalent betriebener Spitzenlast-Wärmeerzeuger für Heizung und Warmwasser ganzjährig; anrechenbarer erneuerbarer Anteil 10%
-- i) SL15: Bezugsvereinbarung für leitungsgebundene gasförmige Brennstoffe (CH) mit dem EVU. Erneuerbarer Anteil zunächst 10%, dieser wird mit vorgegebenem nationalen Gewichtungsfaktor der Konferenz Kantonaler Energiedirektoren berechnet (aktuell 0.5), hier 20% Schweizer Biogas, ab 1. April 2021; anrechenbarer erneuerbarer Anteil 10%
-- j) SL16: Bezugsvereinbarung für leitungsgebundene gasförmige Brennstoffe (CH) mit dem EVU. Erneuerbarer Anteil zunächst 20%, dieser wird mit vorgegebenem nationalen Gewichtungsfaktor der Konferenz Kantonaler Energiedirektoren berechnet (aktuell 0.5), hier 40% Schweizer Biogas ab 1. Januar 2024; anrechenbarer erneuerbarer Anteil 20%
+- a) SL7: Ersatz der Fenster entlang der thermischen Gebäudehülle: U-Wert Glas neue Fenster ≤ 0.7 W/m²K; anrechenbarer erneuerbarer Anteil 10 Prozent
+- b) SL8: Wärmedämmung von Fassade und/oder Dach: U-Wert neue Fassade / Dach / Estrichboden ≤ 0.2 W/m²K, sanierte Fläche mindestens 0.5 m² pro m² Energiebezugsfläche; anrechenbarer erneuerbarer Anteil 10 Prozent
+- c) SL9: Thermische Sonnenkollektoren für die Warmwassererwärmung: Solaranlage: mindestens 2 Prozent der Energiebezugsfläche; anrechenbarer erneuerbarer Anteil 10 Prozent
+- d) SL10: Warmwasserwärmepumpe mit Solarstromanlage: Wärmepumpenboiler und Solarstromanlage mit mindestens 5 W/m² Energiebezugsfläche; anrechenbarer erneuerbarer Anteil 10 Prozent
+- e) SL11: Kontrollierte Wohnungslüftung: Neu-Einbau einer kontrollierten Wohnungslüftung mit Wärmerückgewinnung (Wirkungsgrad mindestens 70 Prozent) und versorgt mindestens 90 Prozent der bestehenden Energiebezugsfläche; anrechenbarer erneuerbarer Anteil 10 Prozent
+- f) SL12: Mit Erdgas angetriebene Wärmepumpe: für Heizung und Warmwasser ganzjährig, entweder monovalent oder bivalent mit mindestens 50 Prozent des Leistungsbedarfs und einem Wirkungsgrad von mindestens 120 Prozent; anrechenbarer erneuerbarer Anteil 10 Prozent
+- g) SL13: Wärmekraftkopplung: elektrischer Wirkungsgrad mindestens 25 Prozent und für mindestens 60 Prozent des Wärmebedarfs für Heizung und Warmwasser; anrechenbarer erneuerbarer Anteil 10 Prozent
+- h) SL14: Grundlast-Wärmeerzeuger erneuerbar mit bivalent betriebenem fossilem Spitzenkessel: Mit erneuerbaren Energien automatisch betriebener Grundlast-Wärmeerzeuger (Holzschnitzel, Pellets, Erdwärme, Grundwasser oder Aussenluft) mit einer Wärmeleistung von mindestens 25 Prozent der im Auslegungsfall notwendigen Wärmeleistung, ergänzt mit fossilem Brennstoff bivalent betriebener Spitzenlast-Wärmeerzeuger für Heizung und Warmwasser ganzjährig; anrechenbarer erneuerbarer Anteil 10 Prozent
+- i) SL15: Bezugsvereinbarung für leitungsgebundene gasförmige Brennstoffe (CH) mit dem EVU. Erneuerbarer Anteil zunächst 10 Prozent, dieser wird mit vorgegebenem nationalen Gewichtungsfaktor der Konferenz Kantonaler Energiedirektoren berechnet (aktuell 0.5), hier 20 Prozent Schweizer Biogas, ab 1. April 2021; anrechenbarer erneuerbarer Anteil 10 Prozent
+- j) SL16: Bezugsvereinbarung für leitungsgebundene gasförmige Brennstoffe (CH) mit dem EVU. Erneuerbarer Anteil zunächst 20 Prozent, dieser wird mit vorgegebenem nationalen Gewichtungsfaktor der Konferenz Kantonaler Energiedirektoren berechnet (aktuell 0.5), hier 40 Prozent Schweizer Biogas ab 1. Januar 2024; anrechenbarer erneuerbarer Anteil 20 Prozent
 
 ## A4a
 
@@ -728,9 +841,9 @@ beschliesst:
 - a) SIA-Norm 180 «Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden», Ausgabe 2014
 - b) SIA-Norm 380 «Grundlagen für energetische Berechnungen von Gebäuden», Ausgabe 2022
 - c) SIA-Norm 380/1 «Heizwärmebedarf», Ausgabe 2016
-- d) SIA-Norm 382/1 «Lüftungs- und Klimaanlagen - Allgemeine Grundlagen und Anforderungen», Ausgabe 2014
+- d) SIA-Norm 382/1 «Lüftungs- und Klimaanlagen - Allgemeine Grundlagen und Anforderungen», Ausgabe 2025
 - e) SIA-Norm 384/1 «Heizungsanlagen in Gebäuden - Grundlagen und Anforderungen», Ausgabe 2022
-- f) SIA Norm 387/4 «Elektrizität in Gebäuden – Beleuchtung: Berechnung und Anforderungen», Ausgabe 2017
+- f) SIA Norm 387/4 «Elektrizität in Gebäuden – Beleuchtung: Berechnung und Anforderungen», Ausgabe 2023
 - g) SIA-Merkblatt 2024 «Raumnutzungsdaten für Energie- und Gebäudetechnik», Ausgabe 2021
 - h) SIA-Merkblatt 2028 «Klimadaten für Bauphysik, Energie- und Gebäudetechnik», Ausgabe 2010
 - i) SIA-Merkblatt 2040 «SIA-Effizienzpfad Energie», Ausgabe 2017
