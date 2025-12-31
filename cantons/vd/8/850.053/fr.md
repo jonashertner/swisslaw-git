@@ -4,7 +4,7 @@ number: "850.053"
 title: LOI du 23.11.2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (LPCFam)
 short: LPCFam
 language: fr
-version: 2023-01-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053?id=fc2c787d-e508-430e-9fa6-60f0a24f06ed"
 ---
 
@@ -487,7 +487,7 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 **Prélèvement des cotisations et contrôle [^24-1]**
 
-<sup>1</sup> Le taux unique des cotisations définies à l'article 23 est fixé à 0,06% des salaires et revenus déterminants AVS.
+<sup>1</sup> Le taux unique des cotisations définies à l'article 23 est fixé à 0,09% des salaires et revenus déterminants AVS.
 
 <sup>1bis</sup> ...
 
