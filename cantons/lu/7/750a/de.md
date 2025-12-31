@@ -4,13 +4,12 @@ number: 750a
 title: Gebäudeversicherungsverordnung
 short: GVV
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-02
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 1976-09-10
 in_force: 1977-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/750a"
-pdf: "https://srl.lu.ch/api/de/versions/3993/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3993/pdf_file"
 
 (GVV)
 
-vom 10.09.1976 (Stand 01.01.2023)
+vom 10.09.1976 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -67,8 +66,8 @@ beschliesst:
 
 <sup>1</sup> Mit dem Gebäude sind versichert:
 
-- a. im Wohnhaus: alle Einrichtungen mit Ausnahme der Möblierung und kleinerer Haushaltapparate sowie mit Ausnahme aller Einrichtungen, die vom Mieter oder Pächter installiert worden sind und die nicht ins Eigentum des Gebäudeeigentümers übergehen;
-- b. in allen andern Gebäuden: die gebäudevollendenden, ortsgebundenen sowie alle dem Eigentümer gehörenden und mit dem Gebäude fest verbundenen Einrichtungen, mit Ausnahme der ausschliesslich betrieblichen Zwecken dienenden Anlagen wie Maschinen und Apparate. Für Wohnungen in derartigen Gebäuden gilt lit. a sinngemäss.
+- a. im Wohnhaus: alle Einrichtungen mit Ausnahme der Möblierung und kleinerer Haushaltapparate sowie mit Ausnahme aller Einrichtungen, die vom Mieter oder von der Mieterin, vom Pächter oder von der Pächterin installiert worden sind und die nicht ins Eigentum des Gebäudeeigentümers oder der Gebäudeeigentümerin übergehen;
+- b. in allen andern Gebäuden: die gebäudevollendenden, ortsgebundenen sowie alle dem Eigentümer oder der Eigentümerin gehörenden und mit dem Gebäude fest verbundenen Einrichtungen, mit Ausnahme der ausschliesslich betrieblichen Zwecken dienenden Anlagen wie Maschinen und Apparate. Für Wohnungen in derartigen Gebäuden gilt Absatz 1a sinngemäss.
 
 #### § 4
 
@@ -82,29 +81,29 @@ beschliesst:
 
 <sup>1</sup> Die Baubewilligungsbehörden haben der Gebäudeversicherung eine Kopie der Baubewilligung oder der Bauanzeige zuzustellen.
 
-<sup>2</sup> Gestützt darauf sendet die Gebäudeversicherung dem Eigentümer die Versicherungsbestätigung für die Bauversicherung (Versicherung zum steigenden Wert).
+<sup>2</sup> Gestützt darauf sendet die Gebäudeversicherung dem Eigentümer oder der Eigentümerin die Versicherungsbestätigung für die Bauversicherung (Versicherung zum steigenden Wert).
 
 <sup>3</sup> In der Bauversicherung sind Gebäudeteile und -einrichtungen von dem Zeitpunkt an mit dem Gebäude versichert, wo sie eingebaut oder sonst wie mit dem Gebäude dauernd verbunden sind.
 
-<sup>4</sup> Die Vollendung des Gebäudes hat der Eigentümer der Gebäudeversicherung zu melden (vgl. § 12). Als vollendet gilt ein Gebäude, wenn es bezogen ist oder beziehbar wäre.
+<sup>4</sup> Die Vollendung des Gebäudes hat der Eigentümer oder die Eigentümerin der Gebäudeversicherung zu melden (vgl. § 12). Als vollendet gilt ein Gebäude, wenn es bezogen ist oder beziehbar wäre.
 
-<sup>5</sup> Ein vollständiger oder teilweiser Abbruch eines Gebäudes ist der Gebäudeversicherung vom Eigentümer zu melden. Die Gebäudeversicherung kann von der Gemeinde eine Bestätigung der Abbruchmeldung verlangen.
+<sup>5</sup> Ein vollständiger oder teilweiser Abbruch eines Gebäudes ist der Gebäudeversicherung vom Eigentümer oder von der Eigentümerin zu melden. Die Gebäudeversicherung kann von der Gemeinde eine Bestätigung der Abbruchmeldung verlangen.
 
 #### § 5a
 
-**Vertretung des Eigentümers**
+**Vertretung des Eigentümers oder der Eigentümerin**
 
-<sup>1</sup> Sind mehrere Personen Eigentümer eines Gebäudes oder hat der Eigentümer Wohnsitz oder Sitz im Ausland oder hält er sich für länger als ein Jahr nicht an seinem Domizil in der Schweiz auf, ist für den Geschäftsverkehr mit der Gebäudeversicherung ein Vertreter mit Wohnsitz oder Sitz in der Schweiz zu bevollmächtigen.
+<sup>1</sup> Beteiligen sich mehrere Personen am Eigentum eines Gebäudes oder hat der Eigentümer oder die Eigentümerin Wohnsitz oder Sitz im Ausland oder hält sich für länger als ein Jahr nicht am Domizil in der Schweiz auf, ist für den Geschäftsverkehr mit der Gebäudeversicherung eine Vertretung mit Wohnsitz oder Sitz in der Schweiz zu bevollmächtigen.
 
 #### § 6
 
 **Ausschluss, Verfahren**
 
-<sup>1</sup> Der Ausschluss eines Gebäudes darf erst verfügt werden, wenn der Eigentümer erfolglos aufgefordert worden ist, den Gefahrenzustand innert angemessener Frist zu beheben.
+<sup>1</sup> Der Ausschluss eines Gebäudes darf erst verfügt werden, wenn der Eigentümer oder die Eigentümerin erfolglos aufgefordert worden ist, den Gefahrenzustand innert angemessener Frist zu beheben.
 
 <sup>2</sup> In besondern Fällen kann der Ausschluss sofort verfügt werden.
 
-<sup>3</sup> Sobald der Eigentümer den Nachweis erbracht hat, dass der Gefahrenzustand beseitigt ist, hat die Gebäudeversicherung das Gebäude wieder in die Versicherung aufzunehmen.
+<sup>3</sup> Sobald der Eigentümer oder die Eigentümerin den Nachweis erbracht hat, dass der Gefahrenzustand beseitigt ist, hat die Gebäudeversicherung das Gebäude wieder in die Versicherung aufzunehmen.
 
 <sup>4</sup> Der Ausschluss und die Wiederaufnahme sind im Kantonsblatt zu veröffentlichen.
 
@@ -151,9 +150,9 @@ beschliesst:
 
 **Meldepflicht**
 
-<sup>1</sup> Der Eigentümer hat der Gebäudeversicherung nicht nur die Vollendung des Gebäudes zu melden (vgl. § 5 Abs. 4), sondern auch von allen sonstigen wertvermehrenden Um- und Ausbauten Kenntnis zu geben. Der Eigentümer ist von der Gebäudeversicherung in geeigneter Form auf diese Meldepflicht hinzuweisen.
+<sup>1</sup> Der Eigentümer oder die Eigentümerin hat der Gebäudeversicherung nicht nur die Vollendung des Gebäudes zu melden (vgl. § 5 Abs. 4), sondern auch von allen sonstigen wertvermehrenden Um- und Ausbauten Kenntnis zu geben. Die Gebäudeversicherung hat in geeigneter Form auf diese Meldepflicht hinzuweisen.
 
-<sup>2</sup> Ab dem Zeitpunkt der Übergabe der schriftlichen Meldung des Eigentümers an die Post, die Gebäudeversicherung oder die Gemeinde oder ab dem Zeitpunkt der Sendung der elektronischen Meldung an die Gebäudeversicherung gelten die gemeldeten Mehrwerte als versichert.
+<sup>2</sup> Ab dem Zeitpunkt der Übergabe der schriftlichen Meldung an die Post, die Gebäudeversicherung oder die Gemeinde oder ab dem Zeitpunkt der Sendung der elektronischen Meldung an die Gebäudeversicherung gelten die gemeldeten Mehrwerte als versichert.
 
 #### § 13
 
@@ -167,19 +166,19 @@ beschliesst:
 
 <sup>1</sup> Wenn die Akten hiefür ausreichen, kann die Direktion die Versicherungswerte auf Grund der Akten festsetzen.
 
-<sup>2</sup> Fälle, welche die Direktion nicht nach Abs. 1 erledigt, überweist sie zur Ermittlung der Versicherungswerte an die zuständigen Gebäudeschätzer.
+<sup>2</sup> Fälle, welche die Direktion nicht nach Absatz 1 erledigt, überweist sie zur Ermittlung der Versicherungswerte an die zuständige Schätzungsperson.
 
 #### § 15
 
 **Überprüfung der Versicherungswerte**
 
-<sup>1</sup> Der Eigentümer und die Gebäudeversicherung sind jederzeit berechtigt, die Versicherungswerte eines Gebäudes überprüfen zu lassen.
+<sup>1</sup> Der Eigentümer oder die Eigentümerin und die Gebäudeversicherung sind jederzeit berechtigt, die Versicherungswerte eines Gebäudes überprüfen zu lassen.
 
 #### § 16
 
 **Kosten**
 
-<sup>1</sup> Der Eigentümer hat die Kosten der Schätzung zu tragen, wenn er eine beschleunigte Schätzung wünscht oder die Neubewertung nicht wenigstens 3 % von der bisherigen abweicht.
+<sup>1</sup> Der Eigentümer oder die Eigentümerin hat die Kosten der Schätzung zu tragen, wenn er oder sie eine beschleunigte Schätzung wünscht oder die Neubewertung nicht wenigstens 3 % von der bisherigen abweicht.
 
 ## 4 Finanzierung
 
@@ -191,7 +190,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Prämie für Gebäude beträgt 0,55 ‰ des Versicherungswertes.
+<sup>3</sup> Die Prämie für Gebäude beträgt 0,51 ‰ des Versicherungswertes.
 
 <sup>4</sup> …
 
@@ -232,7 +231,7 @@ beschliesst:
 
 <sup>2</sup> Die Prämien werden mit der Rechnungsstellung fällig und sind innert 30 Tagen zu bezahlen.
 
-<sup>3</sup> Wird die Prämie nicht fristgerecht bezahlt, so ist der Eigentümer zu mahnen. Wenn die Umstände es erfordern, erlässt die Direktion einen Prämienentscheid.
+<sup>3</sup> Wird die Prämie nicht fristgerecht bezahlt, so ist der Eigentümer oder die Eigentümerin zu mahnen. Wenn die Umstände es erfordern, erlässt die Direktion einen Prämienentscheid.
 
 <sup>4</sup> Säumige haben nach Ablauf einer 14tägigen Nachfrist einen angemessenen Verzugszins zu bezahlen. Die Verwaltungskommission bestimmt die Höhe des Zinssatzes.
 
@@ -262,9 +261,9 @@ beschliesst:
 
 **Wiederherstellung**
 
-<sup>1</sup> Ein Gebäude ist wiederhergestellt, wenn es vom Eigentümer oder von einer ihm gleichzustellenden Person am alten Ort oder in der Umgebung, zum gleichen Zweck, in wenigstens gleicher Grösse und wenigstens in gleichwertigem Ausbau wiederhergestellt worden ist.
+<sup>1</sup> Ein Gebäude ist wiederhergestellt, wenn es von der Eigentümerschaft oder einer ihr gleichzustellenden Person am alten Ort oder in der Umgebung, zum gleichen Zweck, in wenigstens gleicher Grösse und wenigstens in gleichwertigem Ausbau wiederhergestellt worden ist.
 
-<sup>2</sup> Erfolgt der Wiederaufbau an einem andern Ort oder zu einem andern Zweck und erwachsen dem Geschädigten daraus wesentliche wirtschaftliche Vorteile, sind ihm diese bei der Festsetzung der Entschädigung angemessen anzurechnen.
+<sup>2</sup> Erfolgt der Wiederaufbau an einem andern Ort oder zu einem andern Zweck und erwachsen der geschädigten Person daraus wesentliche wirtschaftliche Vorteile, sind ihr diese bei der Festsetzung der Entschädigung angemessen anzurechnen.
 
 <sup>3</sup> Die Anrechnung unterbleibt, wenn das Gebäude wegen nachträglicher öffentlich-rechtlicher Baubeschränkung nicht mehr am alten Ort oder in der Nähe aufgebaut werden darf oder eine Verlegung im öffentlichen Interesse liegt.
 
@@ -278,13 +277,13 @@ beschliesst:
 
 **Selbstbehalt**
 
-<sup>1</sup> Bei Elementarschaden hat der Eigentümer 10 % des Schadens, mindestens aber Fr. 200.– und höchstens Fr. 2000.– je Gebäude und Ereignis, selbst zu tragen.
+<sup>1</sup> Bei Elementarschaden hat der Eigentümer oder die Eigentümerin 10 % des Schadens, mindestens aber Fr. 200.– und höchstens Fr. 2000.– je Gebäude und Ereignis, selbst zu tragen.
 
 #### § 27
 
 **Verzinsung**
 
-<sup>1</sup> Entschädigungen über Fr. 10 000.– sind dem Eigentümer in dem Umfang zu verzinsen, als er die Wiederaufbaukosten bevorschusst hat, längstens jedoch drei Jahre.
+<sup>1</sup> Entschädigungen über Fr. 10 000.– sind dem Eigentümer oder der Eigentümerin in dem Umfang zu verzinsen, als er oder sie die Wiederaufbaukosten bevorschusst hat, längstens jedoch drei Jahre.
 
 <sup>2</sup> Massgebend für die Verzinsung ist der Zinssatz für erste Hypotheken der Luzerner Kantonalbank.
 
@@ -296,7 +295,7 @@ beschliesst:
 
 <sup>1</sup> Wenn die Akten hiefür ausreichen, kann die Direktion die Schadensumme auf Grund der Akten festsetzen.
 
-<sup>2</sup> Schadenfälle, welche die Direktion nicht nach Abs. 1 erledigt, überweist sie zur Festsetzung der Schadensumme an die zuständigen Gebäudeschätzer.
+<sup>2</sup> Schadenfälle, welche die Direktion nicht nach Absatz 1 erledigt, überweist sie zur Festsetzung der Schadensumme an die zuständige Schätzungsperson.
 
 #### § 29
 
@@ -316,14 +315,24 @@ beschliesst:
 
 **Beiträge**
 
-<sup>1</sup> Die Gebäudeversicherung entrichtet Präventionsbeiträge zur Förderung des Feuer- und Elementarschadenschutzes in der Höhe von 15 Rappen je 1000 Franken Versicherungswert der Gebäude.
+<sup>1</sup> Die Gebäudeversicherung entrichtet Präventionsbeiträge zur Förderung des Feuer- und Elementarschadenschutzes in der Höhe von 13 Rappen je 1000 Franken Versicherungswert der Gebäude.
 
 - a. …
 - b. …
 
 <sup>2</sup> Die privaten Versicherungsgesellschaften, die im Kanton Luzern Fahrhabe gegen Feuerschäden versichern, entrichten Präventionsbeiträge zur Förderung des Feuerschutzes in der Höhe von 5 Rappen je 1000 Franken Versicherungssumme. Diese Beiträge sind der Gebäudeversicherung zu bezahlen.
 
-<sup>3</sup> Die Gebäudeversicherung hat über die Präventionsbeiträge gesondert Rechnung zu führen und über deren Einnahmen und Verwendung jährlich Bericht zu erstatten.
+<sup>3</sup> Die Gebäudeversicherung hat über die Präventionsbeiträge gesondert Rechnung zu führen. Zu diesem Zweck führt sie zwei Fonds gemäss § 31a. Über die Einnahmen und die Verwendung der Mittel aus den beiden Fonds hat die Gebäudeversicherung jährlich Bericht zu erstatten.
+
+#### § 31a
+
+**Verwaltung der Fonds**
+
+<sup>1</sup> Die Gebäudeversicherung verwaltet die Präventionsbeiträge im Fonds für Feuer- und Elementarschadenschutz im Sinne von § 43a Absätze 1 und 2b GVG sowie im Fonds für erweiterte Objektschutzmassnahmen im Sinne von § 43a Absatz 2a GVG.
+
+<sup>2</sup> Übersteigt der Saldo des Fonds für erweiterte Objektschutzmassnahmen nach den jährlichen Auszahlungen der Beiträge an Kanton und Gemeinden das Dreifache der jährlichen Einlagen in den Fonds, ist der entsprechende Saldoüberschuss in den allgemeinen Fonds für den Feuer- und Elementarschadenschutz zu übertragen.
+
+<sup>3</sup> Reichen in einem Jahr die im Fonds für erweiterte Objektschutzmassnahmen verfügbaren Mittel nicht aus, um die von Kanton und Gemeinden beantragten Beiträge an Massnahmen zum Schutz vor Naturgefahren zu decken, ist eine Beitragszusicherung für künftige Jahre mit einer Aufteilung der Auszahlung auf mehrere Jahre möglich.
 
 #### § 32
 
@@ -337,9 +346,15 @@ beschliesst:
 - d. …
 - e. …
 
-<sup>2</sup> Mindestens 30 Prozent der Präventionsbeiträge gemäss § 31 Absatz 1 sind für Massnahmen des Kantons und der Gemeinden zum Schutz vor Naturgefahren zu verwenden. Über die Mitfinanzierung einzelner Massnahmen entscheidet die Verwaltungskommission auf Gesuch des Bau-, Umwelt- und Wirtschaftsdepartementes.
+<sup>2</sup> 30 Prozent der Präventionsbeiträge gemäss § 31 Absatz 1 sind für Massnahmen des Kantons und der Gemeinden zum Schutz vor Naturgefahren zu verwenden. Über die Mitfinanzierung einzelner Massnahmen entscheidet die Verwaltungskommission auf Gesuch des Bau-, Umwelt- und Wirtschaftsdepartementes.
+
+<sup>2a</sup> Fahrzeuge der Feuerwehren für den Strassenrettungsdienst der regionalen Stützpunkte sind gemäss § 9c Absatz 2c der Verordnung zum Gesetz über den Feuerschutz vom 16. Juni 1995[^32-1] durch die Präventionsbeiträge mitzufinanzieren.
+
+<sup>2a(1)</sup> Mit diesem Anteil leistet die Gebäudeversicherung Beiträge im Umfang von mindestens 25 Prozent an die Kostenanteile von Kanton und Gemeinden an Schutz- und Sofortmassnahmen, die das Elementarschadenrisiko von Gebäuden massgeblich reduzieren.
 
 <sup>3</sup> Die Gebäudeversicherung erlässt ein Reglement über die Verwendung der Präventionsbeiträge.
+
+[^32-1]: SRL Nr. [740a](https://srl.lu.ch/data/740a/de)
 
 ## 9 Schlussbestimmungen
 
