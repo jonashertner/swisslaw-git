@@ -4,13 +4,12 @@ number: "710.300"
 title: Lescha davart la surveglianza da las finanzas
 short: LSFi
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2011-10-19
 in_force: 2012-03-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3414/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3414/pdf_file"
 
 (LSFi)
 
-dals 19-10-2011 (versiun dals 01-01-2025)
+dals 19-10-2011 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -230,9 +229,9 @@ concluda:
 
 **Access a las datas**
 
-<sup>1</sup> La controlla da finanzas ha il dretg da consultar las datas ch'èn necessarias per ademplir la surveglianza da las finanzas inclusiv las datas da persunas or da collecziuns da datas dals departaments e dals posts da servetsch sco er da las dretgiras e da las autoritads da mediaziun. Sche las datas èn adattadas e necessarias per ademplir las incumbensas, vala il dretg d'access er per las datas da persunas ch'èn spezialmain degnas da vegnir protegidas.
+<sup>1</sup> La Controlla da finanzas ha il dretg da consultar las datas ch'èn necessarias per ademplir la surveglianza da las finanzas, inclusiv las datas persunalas or da collecziuns da datas dals departaments e dals posts da servetsch sco er da las dretgiras e da las autoritads da mediaziun. Sche las datas èn adattadas e necessarias per ademplir las incumbensas, vala il dretg d'access er per las datas persunalas spezialmain sensiblas.
 
-<sup>2</sup> La controlla da finanzas dastga tegnair en salv u arcunar las datas da persunas, da las qualas ella ha prendì enconuschientscha en tala moda, mo fin che la procedura da revisiun è terminada. Ils access a las differentas collecziuns da datas ed ils intents che duain vegnir cuntanschids cun quai ston vegnir documentads.
+<sup>2</sup> La Controlla da finanzas dastga tegnair en salv u arcunar las datas persunalas, da las qualas ella ha prendì enconuschientscha en questa maniera, mo fin che la procedura da revisiun è terminada. Ils access a las differentas collecziuns da datas ed ils intents che duain vegnir cuntanschids cun quai, ston vegnir documentads.
 
 <sup>3</sup> Per las dretgiras e per las autoritads da mediaziun sa restrenscha l'access als documents ed a las datas sin conclus e sin disposiziuns che stattan en connex cun la surveglianza da la giustia.
 

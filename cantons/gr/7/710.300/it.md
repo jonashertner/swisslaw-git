@@ -4,13 +4,12 @@ number: "710.300"
 title: Legge sulla vigilanza finanziaria
 short: LVF
 language: it
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2011-10-19
 in_force: 2012-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3414/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3579/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3414/pdf_file"
 
 (LVF)
 
-del 19.10.2011 (stato 01.01.2025)
+del 19.10.2011 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -230,9 +229,9 @@ decide:
 
 **Accesso ai dati**
 
-<sup>1</sup> Il Controllo delle finanze ha il diritto di consultare i dati necessari all'adempimento della vigilanza finanziaria, inclusi i dati di persone delle collezioni di dati dei Dipartimenti e dei servizi, nonché dei tribunali e delle autorità di conciliazione. Per quanto i dati siano adatti e necessari all'adempimento del compito, il diritto d'accesso si estende anche ai dati di persone degni di particolare protezione.
+<sup>1</sup> Il Controllo delle finanze ha il diritto di consultare i dati necessari all'adempimento della vigilanza finanziaria, inclusi i dati di persone delle raccolte di dati dei Dipartimenti e dei servizi, nonché dei tribunali e delle autorità di conciliazione. Per quanto i dati siano adatti e necessari all'adempimento del compito, il diritto d'accesso si estende anche ai dati di persone degni di particolare protezione.
 
-<sup>2</sup> Il Controllo delle finanze è autorizzato a conservare o salvare i dati di persone di cui è venuto a conoscenza in questo modo soltanto fino alla conclusione della procedura di revisione. Gli accessi alle diverse collezioni di dati e gli scopi così perseguiti devono essere documentati.
+<sup>2</sup> Il Controllo delle finanze è autorizzato a conservare o salvare i dati di persone di cui è venuto a conoscenza in questo modo soltanto fino alla conclusione della procedura di revisione. Gli accessi alle diverse raccolte di dati e gli scopi così perseguiti devono essere documentati.
 
 <sup>3</sup> Nel caso dei tribunali e delle autorità di conciliazione l'accesso a documenti e dati si limita ai decreti e alle decisioni nell'ambito della vigilanza sulla giustizia.
 

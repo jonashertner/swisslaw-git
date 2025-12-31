@@ -4,13 +4,12 @@ number: "710.300"
 title: Gesetz über die Finanzaufsicht
 short: GFA
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2011-10-19
 in_force: 2012-03-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3414/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3414/pdf_file"
 
 (GFA)
 
-Vom 19.10.2011 (Stand 01.01.2025)
+Vom 19.10.2011 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -232,9 +231,9 @@ beschliesst:
 
 **Datenzugriff**
 
-<sup>1</sup> Die Finanzkontrolle hat das Recht, die für die Wahrnehmung der Finanzaufsicht erforderlichen Daten einschliesslich Personendaten aus den Datensammlungen der Departemente und der Dienststellen sowie der Gerichte und der Schlichtungsbehörden abzurufen. Soweit die Daten für die Aufgabenerfüllung geeignet und erforderlich sind, erstreckt sich das Zugriffsrecht auch auf besonders schützenswerte Personendaten.
+<sup>1</sup> Die Finanzkontrolle hat das Recht, die für die Wahrnehmung der Finanzaufsicht erforderlichen Daten einschliesslich Personendaten aus den Datenbeständen der Departemente und der Dienststellen sowie der Gerichte und der Schlichtungsbehörden abzurufen. Soweit die Daten für die Aufgabenerfüllung geeignet und erforderlich sind, erstreckt sich das Zugriffsrecht auch auf besonders schützenswerte Personendaten.
 
-<sup>2</sup> Die Finanzkontrolle darf die ihr derart zur Kenntnis gebrachten Personendaten nur bis zum Abschluss des Revisionsverfahrens aufbewahren oder speichern. Die Zugriffe auf die verschiedenen Datensammlungen und die damit verfolgten Zwecke müssen dokumentiert werden.
+<sup>2</sup> Die Finanzkontrolle darf die ihr derart zur Kenntnis gebrachten Personendaten nur bis zum Abschluss des Revisionsverfahrens aufbewahren oder speichern. Die Zugriffe auf die verschiedenen Datenbestände und die damit verfolgten Zwecke müssen dokumentiert werden.
 
 <sup>3</sup> Bei den Gerichten und den Schlichtungsbehörden beschränkt sich der Zugriff auf Dokumente und Daten auf Beschlüsse und Verfügungen im Bereich der Justizaufsicht.
 
