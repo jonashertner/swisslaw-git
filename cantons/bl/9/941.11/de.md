@@ -4,13 +4,12 @@ number: "941.11"
 title: Altersbetreuungs- und Pflegeverordnung
 short: APV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2018-03-20
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/941.11"
-pdf: "https://bl.clex.ch/api/de/versions/4110/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4110/pdf_file"
 
 (APV)
 
-Vom 20.03.2018 (Stand 01.01.2025)
+Vom 20.03.2018 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -117,6 +116,26 @@ beschliesst:
 
 [^6-1]: [SGS 941](https://bl.clex.ch/data/941/de/art11)
 
+#### § 6a
+
+**Qualitätssicherung für Inhouse-Spitex und pflegende Angehörige**
+
+<sup>1</sup> Inhouse-Spitex-Organisationen und Organisationen, die pflegende Angehörige beschäftigen, müssen der Direktion folgende Nachweise der Qualitätssicherung einreichen:
+
+- a. Ergebnis des qualivistaambulant Audits;
+- b. Inhouse-Spitex, die an ein Alters- und Pflegeheim angeschlossen sind: Ergebnis des qualivistastationär Audits;
+- c. Betriebe mit einer zusätzlichen Bewilligung des Amts für Kind, Jugend und Behindertenangebote Basel-Landschaft: Ergebnis der vom Kanton vorgegebenen Qualitätsverfahren.
+
+<sup>2</sup> Spitex-Organisationen ohne Betriebsstandort im Kanton Basel-Landschaft müssen abweichend zu Abs. 1 einen der folgenden Nachweise der Qualitätssicherung einreichen:
+
+- a. Ergebnis des qualivistaambulant Audits;
+- b. Ergebnis des Audits gemäss Qualitätsmanual des Spitex-Verbands;
+- c. gültiges Zertifikat gemäss ISO 9001;
+- d. gültiges Swiss Care Excellence Zertifikat;
+- e. gültiges EFQM-Zertifikat.
+
+<sup>3</sup> Die Nachweise der Qualitätssicherung sind spätestens 4 Wochen nach dem Erhalt des endgültigen Berichts einzureichen.
+
 #### § 7
 
 **Pharmazeutische Versorgung**
@@ -145,12 +164,9 @@ beschliesst:
 
 #### § 9
 
-**Datenlieferung**
+**Kosten- und Leistungsdaten, ambulante Leistungserbringer**
 
-<sup>1</sup> Die Leistungserbringer mit Betriebsbewilligung sind verpflichtet, der Direktion jährlich unmittelbar nach Beschlussfassung durch das zuständige Organ, spätestens aber bis Ende Juni, den Geschäftsbericht in elektronischer Form einzureichen. Dieser umfasst insbesondere:
-
-- a. die Jahresrechnung, bestehend aus Bilanz, Erfolgsrechnung und Anhang;
-- b. den Jahresbericht.
+<sup>1</sup> …
 
 <sup>2</sup> Die ambulanten Leistungserbringer (Spitex-Organisationen und Pflegefachpersonen mit Berufsausübungsbewilligung) sind verpflichtet, jährlich bis Ende Mai die Kosten- und Leistungsdaten in vorgegebener Form an die Direktion einzureichen.
 
@@ -162,17 +178,21 @@ beschliesst:
 
 #### § 10a
 
-**Kostenrechnung und Leistungsstatistik**
+**Kostenrechnung und Leistungsstatistik, stationäre Leistungserbringer**
 
-<sup>1</sup> Die stationären Pflegeeinrichtungen erstellen die Kostenrechnung, die Anlagebuchhaltung und die Leistungsstatistik gemäss der Erfassungsmethodik der Fachgruppe Monitoring APH vom Dezember 2024 (Anhang 1).
+<sup>1</sup> Die stationären Pflegeeinrichtungen erstellen die Kostenrechnung, die Anlagebuchhaltung und die Leistungsstatistik gemäss der Erfassungsmethodik der Fachgruppe Monitoring APH vom Dezember 2024 (Anhang 1) und reichen die Vollversion der abgeschlossenen und durch eine unabhängige, akkreditierte Revisionsstelle geprüfte Kostenrechnung jährlich bis Ende Mai des Folgejahres gemäss deren Vorgaben an die Direktion ein.
 
-<sup>2</sup> Sie lassen sich die Einhaltung der Erfassungsmethodik durch eine akkreditierte Revisionsstelle bestätigen und reichen die Bestätigung der Direktion sowie den Gemeinden und Versorgungsregionen, mit welchen sie eine Leistungsvereinbarung abgeschlossen haben, bis Ende Mai des Folgejahres ein.
+<sup>2</sup> Sie lassen sich die Einhaltung der Erfassungsmethodik durch die Revisionsstelle bestätigen und reichen die Bestätigung der Direktion sowie den Gemeinden und Versorgungsregionen, mit welchen sie eine Leistungsvereinbarung abgeschlossen haben, bis Ende Mai des Folgejahres ein.
+
+<sup>3</sup> Die Direktion erstellt zuhanden der Versorgungsregionen ein Datenset mit den tarifrelevanten Informationen der Einrichtungen, bei welchen sie zur Festlegung der Tarife zuständig sind.
 
 #### § 11
 
 **Verspätete oder unvollständige Einreichung**
 
 <sup>1</sup> Die Direktion kann für ihren Aufwand aufgrund verspätet oder unvollständig eingereichter Dokumente und Daten eine Gebühr nach dem Ansatz für Kontrollen und Inspektionen gemäss Verordnung über die Gebühren der Volkswirtschafts- und Gesundheitsdirektion im Gesundheitsbereich vom 15. Dezember 2015[^11-1] erheben.
+
+<sup>2</sup> Die Direktion informiert die zuständige Versorgungsregion gemäss § 10a Abs. 3 über verspätet oder unvollständig eingereichte Daten und Dokumente der stationären Pflegeeinrichtungen. Die Versorgungsregion ist berechtigt, die Tarife angemessen zu kürzen oder Tarifanpassungsbegehren nur teilweise oder gar nicht zu berücksichtigen.
 
 [^11-1]: [SGS 143.51](https://bl.clex.ch/data/143.51/de)
 
