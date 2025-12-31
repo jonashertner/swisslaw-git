@@ -4,13 +4,13 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-05
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2025-12-16
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6436/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6727/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Kranken- und Unfallversicherung / Kantonale Beiträge im Gesundheitswesen
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. Januar 2025)
+Vom 25. November 2008 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -216,9 +216,7 @@ Bei Aufenthalt der versicherten Person, welche weder eine Rente der AHV oder IV 
 
 <sup>1</sup> a) Pflegeheime
 
-\1. Die kantonalen Pflegenormkosten ergeben sich aus der Multiplikation der Indexwerte pro Pflegestufe (§ 2 Anhang 1) mit dem vom Regierungsrat festgelegten Punktwert in Franken.
-
-Für Nichtvertragsheime reduzieren sich die Normkosten um 10 Prozent.
+\1. Die Pflegenormkosten ergeben sich aus der Multiplikation des vom Regierungsrat festgelegten Punktwertes in Franken mit den Indexwerten pro Pflegestufe (Anhang 1 § 2).
 
 <table>
 <tr><th>Pflegestufe</th><th>Pflegeaufwand in Minuten pro Tag</th><th>Pflegekosten pro Tag in Fr.</th></tr>
@@ -246,9 +244,20 @@ Für Nichtvertragsheime reduzieren sich die Normkosten um 10 Prozent.
 <tr><td>Bedarfsabklärung</td><td>96</td><td>80</td></tr>
 <tr><td>Behandlungspflege</td><td>90</td><td>80</td></tr>
 <tr><td>Grundpflege</td><td>80</td><td>70</td></tr>
+<tr><td>Grundpflege erbracht durch pflegende Angehörige</td><td>69.25</td><td>61.60</td></tr>
 </table>
 
 [^8d-1]: Fassung vom 15. August 2017, in Kraft seit 1. Januar 2018 (KB 19.08.2017)
+
+#### § 8dbis
+
+**Taxe für Pension und Betreuung für Pflegeheime**
+
+<sup>1</sup> Der Regierungsrat legt die Taxe für Pension und Betreuung für Pflegeheime in der Regel alle vier Jahre in einem Pflegeheim-Rahmenvertrag fest.
+
+<sup>2</sup> Er legt die Taxe auf der Basis von Kosten-, Leistungs- und Bedarfsdaten fest. Er berücksichtigt bei der Festlegung die Kosten und den Bedarf sowie insbesondere die regulatorischen und finanzpolitischen Rahmenbedingungen als auch die Preis- und Lohnentwicklungen der für die Langzeitpflege kostenrelevanten Faktoren. Er kann zudem die Vergleichswerte anderer Kantone berücksichtigen.
+
+<sup>3</sup> Während der Geltungsdauer der im Pflegeheim-Rahmenvertrag festgelegten Taxe wird jährlich per 1. Januar ein automatischer Teuerungsausgleich auf die gesamte Taxe für Pension und Betreuung gewährt. Dieser beruht auf der Entwicklung des Basler Index der Konsumentenpreise der Jahresteuerung zum Juni (Juni-Index) des Vorjahres. Weist der Juni-Index eine negative Entwicklung aus, findet keine Anpassung der Taxe statt. Ein Teuerungsausgleich wird erst wieder gewährt, wenn der kumulierte Wert positiv ist.
 
 #### § 8e
 
