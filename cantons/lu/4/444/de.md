@@ -3,20 +3,20 @@ canton: LU
 number: "444"
 title: Reglement über die Berufsmaturität
 language: de
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-19
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-11-18
 adopted: 2013-07-02
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/444"
-pdf: "https://srl.lu.ch/api/de/versions/4218/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4582/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berufsmaturität
 
-vom 02.07.2013 (Stand 01.08.2024)
+vom 02.07.2013 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -106,7 +106,7 @@ beschliesst:
 
 **Expertinnen und Experten**
 
-<sup>1</sup> Die Expertinnen und Experten sind von der Dienststelle Berufs- und Weiterbildung gewählte externe Fachleute.
+<sup>1</sup> Die Expertinnen und Experten sind von der Dienststelle Berufs- und Weiterbildung bestimmte externe Fachleute.
 
 <sup>2</sup> Sie begutachten die schriftlichen und überwachen den ordnungsgemässen Verlauf der mündlichen und der praktischen Berufsmaturitätsprüfungen.
 
