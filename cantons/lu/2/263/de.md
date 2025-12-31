@@ -4,13 +4,13 @@ number: "263"
 title: Geschäftsordnung für das Kantonsgericht des Kantons Luzern
 short: GOKG
 language: de
-version: 2024-09-24
-valid_until: 2025-12-31
-version_adopted: 2024-09-24
+version: 2026-01-01
+valid_until: 2026-05-31
+version_adopted: 2026-09-22
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/263"
-pdf: "https://srl.lu.ch/api/de/versions/4277/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4908/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4277/pdf_file"
 
 (GOKG)
 
-vom 26.03.2013 (Stand 24.09.2024)
+vom 26.03.2013 (Stand 01.01.2026)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -78,13 +78,13 @@ beschliesst:
 <sup>2</sup> Sie ist insbesondere zuständig für
 
 - a. die Berichterstattung gegenüber dem Kantonsrat,
-- b. die Wahl der Gerichtsschreiberinnen und -schreiber,
+- b. die Anstellung der Gerichtsschreiberinnen und -schreiber,
 - c. die Zuteilung der Gerichtsschreiberinnen und -schreiber zu den Abteilungen und die Festsetzung ihrer Arbeitspensen,
 - d. die Erteilung von Urlaub an die Gerichtsschreiberinnen und -schreiber sowie deren Beförderung,
 - e. den Leistungsauftrag und die Überwachung seiner Erfüllung,
 - f. den Ausgleich der Geschäftslast zwischen den Abteilungen (§ 13 Abs. 4),
-- g. die Wahl des oder der Informationsbeauftragten (§ 11),
-- h. die Genehmigung der Wahl der Leitungen der ORIG und des FRG sowie des oder der OIB (§ 10 Abs. 1b, c und d),
+- g. die Genehmigung der Anstellung des oder der Kommunikations- und Medienverantwortlichen Gerichtswesen (§ 11),
+- h. die Genehmigung der Anstellungen der Leitungen der ORIG und des FRG sowie des oder der OIB (§ 10 Abs. 1b, c und d),
 - i. die Vernehmlassungen zu Gesetzgebungsvorlagen und anderen Projekten,
 - j. die Genehmigung von Projektanträgen und die Koordination des Projektportfolios,
 - k. das Globalbudget und die Finanzplanung,
@@ -93,9 +93,12 @@ beschliesst:
 - n. die Dienst- und Fachaufsicht über die unterstellten Gerichte und Schlichtungsbehörden,
 - o. die Wahl
   - 1\. der Präsidentinnen und Präsidenten sowie der Leiterinnen und Leiter der unterstellten Gruppen,
-  - 2\. der Grundbuchverwalterinnen und -verwalter sowie der Konkursbeamtinnen und -beamten, einschliesslich ihrer Stellvertretungen,
+  - 2\. …
   - 3\. der Mitglieder der Aufsichtsbehörden und Prüfungskommissionen, einschliesslich ihrer Präsidien,
   - 4\. von ausserordentlichen Staatsanwältinnen und -anwälten, von ausserordentlichen Jugendanwältinnen und -anwälten sowie von ausserordentlichen Mitgliedern der dem Kantonsgericht unterstehenden Gerichte und Behörden,
+- o<sup>bis</sup> die Anstellung
+  - 1\. des stellvertretenden Leiters bzw. der stellvertretenden Leiterin Grundbuch sowie der Grundbuchverwalterinnen und -verwalter, einschliesslich ihrer Stellvertretungen,
+  - 2\. der Konkursbeamtinnen und -beamten, einschliesslich ihrer Stellvertretungen.
 - p. die Festsetzung der Besoldung
   - 1\. der erstinstanzlichen Richterinnen und Richter,
   - 2\. der Friedensrichterinnen und -richter,
@@ -137,7 +140,7 @@ beschliesst:
 <sup>1</sup> Das Gesamtgericht ist von Gesetzes wegen zuständig für
 
 - a. den Erlass der Geschäftsordnung des Kantonsgerichtes und der weiteren rechtsetzenden Verordnungen,
-- b. die Wahl des Generalsekretärs oder der Generalsekretärin und seiner oder ihrer Stellvertretung,
+- b. die Anstellung des Generalsekretärs oder der Generalsekretärin und seiner oder ihrer Stellvertretung,
 - c. die Wahlvorschläge zuhanden des Kantonsrates für das Präsidium des Kantonsgerichtes und für die Ersatzrichterinnen und -richter,
 - d. die Konstituierung des Kantonsgerichtes.
 
@@ -197,7 +200,7 @@ beschliesst:
 
 <sup>3</sup> Im Einzelnen ist der Generalsekretär oder die Generalsekretärin zuständig für
 
-- a. sämtliche Personalentscheide im Bereich der zentralen Dienste unter Vorbehalt von § 4 Absatz 2h,
+- a. sämtliche Personalentscheide im Bereich der zentralen Dienste unter Vorbehalt von § 4 Absätze 2g und h,
 - b. die Vertretung des Kantonsgerichtes im eigenen Zuständigkeitsbereich oder gemäss Ermächtigung durch das Präsidium des Kantonsgerichtes,
 - c. die Verfügung über die finanziellen Mittel im eigenen Zuständigkeitsbereich,
 - d. die Veröffentlichung von Erlassen, Entscheidungen und Weisungen,
@@ -226,7 +229,8 @@ beschliesst:
 - g. die Bibliothek,
 - h. das Archiv,
 - i. der Bereich Gebäude, Mobiliar und Material,
-- j. die Sicherheit.
+- j. die Sicherheit,
+- k. die Kommunikation.
 
 <sup>2</sup> Die ORIG gewährleistet für das Kantonsgericht und die ihm unterstellten Gerichte und Dienststellen eine funktionierende Informatikinfrastruktur und die Unterstützung der Anwenderinnen und Anwender. Sie führt Informatik- und Organisationsprojekte nach den Vorgaben der Geschäftsleitung.
 
@@ -236,18 +240,18 @@ beschliesst:
 
 #### § 11
 
-**Informationsbeauftragter oder -beauftragte**
+**Der oder die Kommunikations- und Medienverantwortliche Gerichtswesen**
 
-<sup>1</sup> Der oder die Informationsbeauftragte (InfoB)
+<sup>1</sup> Der oder die Kommunikations- und Medienverantwortliche Gerichtswesen (KOM)
 
 - a. berät das Kantonsgericht und die ihm unterstellten Gerichte und Dienststellen in allen Informations- und Medienfragen,
 - b. ist Kontaktperson zu den Medien für das gesamte Gerichtswesen,
 - c. besorgt die Information nach aussen und innerhalb des Gerichtswesens,
 - d. berät den Generalsekretär oder die Generalsekretärin bezüglich des Internetauftritts des Kantonsgerichtes und der unterstellten Gerichte und Dienststellen.
 
-<sup>2</sup> Er oder sie untersteht dem Präsidium des Kantonsgerichtes.
+<sup>2</sup> …
 
-<sup>3</sup> In den öffentlichkeitswirksamen Angelegenheiten versorgen die Beteiligten den Informationsbeauftragten oder die Informationsbeauftragte mit den erforderlichen Angaben.
+<sup>3</sup> In den öffentlichkeitswirksamen Angelegenheiten versorgen die Beteiligten den oder die KOM mit den erforderlichen Angaben.
 
 ## 2 Rechtspflege
 
@@ -512,7 +516,7 @@ beschliesst:
 - a. den Vizepräsidenten oder die Vizepräsidentin: das vom Gesamtgericht gewählte Mitglied der Geschäftsleitung und danach dessen Stellvertretung gemäss § 6 Absatz 4,
 - b. die Stellvertretung des Generalsekretärs oder der Generalsekretärin: der Assistent oder die Assistentin des Generalsekretariats und danach der dienstälteste Gerichtsschreiber oder die dienstälteste Gerichtsschreiberin,
 - c. die Leitung FRG: der Generalsekretär oder die Generalsekretärin und danach deren Stellvertretung,
-- d. den oder die InfoB: der Generalsekretär oder die Generalsekretärin und danach deren Stellvertretung.
+- d. den oder die KOM: der Generalsekretär oder die Generalsekretärin und danach deren Stellvertretung.
 
 <sup>2</sup> Es vertreten sich gegenseitig, soweit das Geschäft nicht an eine andere Person delegiert wurde:
 
@@ -530,7 +534,7 @@ beschliesst:
 - b. der Generalsekretär oder die Generalsekretärin,
 - c. der oder die OIB,
 - d. die Leitung ORIG,
-- e. der oder die InfoB,
+- e. der oder die KOM,
 - f. die Leitung FRG.
 
 <sup>2</sup> Für das Gesamtgericht zeichnen der Präsident oder die Präsidentin des Kantonsgerichtes und der Generalsekretär oder die Generalsekretärin gemeinsam.
