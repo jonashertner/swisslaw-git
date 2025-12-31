@@ -4,13 +4,12 @@ number: "741.1"
 title: Kantonales Energiegesetz
 short: KEnG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-09
+version: 2026-01-01
+version_adopted: 2024-09-04
 adopted: 2011-05-15
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/741.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2713/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3249/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2713/pdf_file"
 
 (KEnG)
 
-vom 15.05.2011 (Stand 01.01.2023)
+vom 15.05.2011 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -430,6 +429,60 @@ beschliesst:
 
 <sup>1</sup> Bei Gebäuden, die beheizt, belüftet, gekühlt oder befeuchtet werden, ist die Gebäudehülle so auszugestalten, dass möglichst geringe Energieverluste auftreten.
 
+#### Art. 39a
+
+**Solarenergienutzung bei neuen auf Dauer angelegten Bauten**
+
+<sup>1</sup> Neue auf Dauer angelegte Bauten und Erweiterungen von bestehenden auf Dauer angelegten Bauten sind mit Anlagen zur Solarenergienutzung, insbesondere Photovoltaik- oder Solarthermieanlagen, auszustatten.
+
+<sup>2</sup> Geeignete Dachflächen sind unter Vorbehalt von Artikel 39b möglichst vollständig mit Anlagen zur Solarenergienutzung auszustatten. Bei Solarenergienutzung der Fassaden reduziert sich die auszustattende Dachfläche entsprechend.
+
+<sup>3</sup> Dachflächen mit einer Fläche von weniger als 50 Quadratmetern sind von der Pflicht zur Ausstattung mit Anlagen zur Solarenergienutzung gemäss Absatz 1 ausgenommen.
+
+<sup>4</sup> Gebäudeeigentümerinnen und Gebäudeeigentümer sind von der Pflicht zur Solarenergienutzung befreit, wenn die Solarausstattungskosten mehr als fünf Prozent der übrigen Baukosten betragen.
+
+<sup>5</sup> Gebäudeeigentümerinnen und Gebäudeeigentümer können ihre Pflicht zur Solarenergienutzung durch Dritte erfüllen lassen.
+
+<sup>6</sup> Der Regierungsrat legt den Mindestumfang der Solarenergienutzung der Anlagen gemäss Absatz 1 sowie die Kriterien für die Eignung und möglichst vollständige Ausstattung der Dachflächen gemäss Absatz 2 durch Verordnung fest.
+
+#### Art. 39b
+
+**Besondere Bestimmungen für kleine Wohnbauten**
+
+<sup>1</sup> Bei neuen auf Dauer angelegten Wohnbauten mit einer anrechenbaren Gebäudefläche von bis zu 300 Quadratmetern muss mindestens so viel Solarenergie genutzt werden, wie zur Deckung des halben Normbedarfs notwendig ist.
+
+<sup>2</sup> Über die Deckung des halben Normbedarfs hinaus besteht keine Pflicht zur Ausstattung der Dachflächen mit Anlagen zur Solarenergienutzung.
+
+#### Art. 39c
+
+**Ausnahmebewilligungen**
+
+<sup>1</sup> Ausnahmen von der Pflicht zur Solarenergienutzung können gewährt werden, wenn diese technisch nicht möglich oder wirtschaftlich unverhältnismässig ist.
+
+#### Art. 39d
+
+**Meldepflicht bei umfassender Erneuerung von Dachflächen**
+
+<sup>1</sup> Bei einer umfassenden Erneuerung von Dachflächen bestehender auf Dauer angelegter Bauten gilt eine Meldepflicht mit Nachweis über die Eignung der Dachflächen für die Solarenergienutzung und die Solarausstattungskosten.
+
+<sup>2</sup> Der Regierungsrat legt die Einzelheiten der Meldung und das Meldeverfahren durch Verordnung fest.
+
+#### Art. 39e
+
+**Solarenergienutzung bei Parkplätzen**
+
+<sup>1</sup> Neue auf Dauer angelegte Parkplätze für Personenwagen im Freien ab 80 Abstellplätzen, die der Allgemeinheit zur Verfügung stehen und bewirtschaftet werden, sind mit solaraktiven Überdachungen auszustatten, wenn sie dafür geeignet sind.
+
+<sup>2</sup> Park-and-ride-Anlagen gemäss Artikel 61 des Strassengesetzes vom 4. Juni 2008 (SG)[^39e-1] im Freien mit mehr als 50 Parkplätzen sind mit solaraktiven Überdachungen auszustatten, wenn sie dafür geeignet sind.
+
+<sup>3</sup> Eigentümerinnen und Eigentümer von Parkplätzen sowie von Park-and-ride-Anlagen gemäss Absatz 1 und 2 können ihre Pflicht zur Solarenergienutzung durch Dritte erfüllen lassen.
+
+<sup>4</sup> Der Regierungsrat legt die Einzelheiten wie die Kriterien für die Eignung der Parkplätze sowie Aspekte der Sicherheit und der Gestaltung durch Verordnung fest und kann gewisse Arten von Parkplätzen generell von der Pflicht zur Ausstattung mit solaraktiven Überdachungen ausnehmen.
+
+<sup>5</sup> Ausnahmen von der Pflicht zur Ausstattung mit solaraktiven Überdachungen können gewährt werden, insbesondere wenn diese technisch oder aufgrund von anderweitigen Nutzungen nicht möglich oder wirtschaftlich unverhältnismässig ist.
+
+[^39e-1]: BSG [732.11](https://www.belex.sites.be.ch/data/732.11/de)
+
 #### Art. 40
 
 **Anforderungen an gebäudetechnische Anlagen 1. Heizung, Warmwasser**
@@ -679,6 +732,8 @@ beschliesst:
 
 <sup>3</sup> Ausnahmebewilligungen nach Artikel 36, 38 und 48 erteilt die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion. Zu Ausnahmegesuchen nach Artikel 38 hört sie die kantonale Denkmalpflege an.
 
+<sup>4</sup> Ausnahmebewilligungen nach Artikel 39c und 39e erteilt die Baubewilligungsbehörde.
+
 #### Art. 63
 
 **2. Baubewilligungsfreie Vorhaben**
@@ -817,6 +872,20 @@ beschliesst:
 <sup>1</sup> Die bisherigen Vorschriften der Gemeinden gestützt auf Artikel 13 Absatz 1 Buchstabe b gelten nach dem Inkrafttreten dieser Änderung weiter.
 
 <sup>2</sup> Der Kanton stellt den Gemeinden die notwendigen Angaben zur Umrechnung von der bisherigen auf die Berechnungsweise gemäss dieser Änderung zur Verfügung.
+
+## T2 Übergangsbestimmungen der Änderung vom 04.09.2024
+
+#### Art. T2-1
+
+**Evaluation**
+
+<sup>1</sup> Der Regierungsrat überprüft innerhalb von sechs Jahren ab Inkrafttreten dieser Änderung und ihrer Ausführungsbestimmungen die Auswirkungen der Meldepflicht gemäss Artikel 39d auf den Ausbau von Solarenergienutzung bei bestehenden auf Dauer angelegten Bauten und erstellt einen entsprechenden Bericht zuhanden des Grossen Rates.
+
+#### Art. T2-2
+
+**Anpassung bestehender Park-and-ride-Anlagen**
+
+<sup>1</sup> Bestehende Park-and-ride-Anlagen gemäss Artikel 39e Absatz 2 sind innert zehn Jahren ab Inkrafttreten dieser Änderung mit solaraktiven Überdachungen auszustatten.
 
 Bern, 17. März 2010
 

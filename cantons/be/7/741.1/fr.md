@@ -4,13 +4,12 @@ number: "741.1"
 title: "Loi cantonale sur l'énergie"
 short: LCEn
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-09
+version: 2026-01-01
+version_adopted: 2024-09-04
 adopted: 2011-05-15
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/741.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2713/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3249/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2713/pdf_file"
 
 (LCEn)
 
-du 15.05.2011 (état au 01.01.2023)
+du 15.05.2011 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -430,6 +429,60 @@ arrête:
 
 <sup>1</sup> Dans le cas des bâtiments chauffés, ventilés, refroidis ou humidifiés, l’enveloppe du bâtiment doit être aménagée de manière que les pertes d’énergie soient aussi faibles que possible.
 
+#### Art. 39a
+
+**Utilisation de l'énergie solaire sur les nouvelles constructions destinées à durer**
+
+<sup>1</sup> Les nouvelles constructions destinées à durer ainsi que les extensions de constructions existantes destinées à durer doivent être équipées de systèmes d'utilisation de l'énergie solaire, en particulier d'installations solaires photovoltaïques ou thermiques.
+
+<sup>2</sup> Sous réserve de l’article 39b, les toitures qui s’y prêtent doivent être équipées autant que possible de systèmes d’utilisation de l’énergie solaire. L’utilisation de l’énergie solaire par des installations en façade réduit d’autant la surface de toiture à équiper.
+
+<sup>3</sup> Les toitures d’une surface inférieure à 50 mètres carrés sont exemptées de l’obligation prévue à l’alinéa 1 d’être équipées d’un système d’utilisation de l’énergie solaire.
+
+<sup>4</sup> Les propriétaires de bâtiments sont exemptés de l’obligation d’utiliser l’énergie solaire lorsque les coûts d’une installation solaire dépassent cinq pour cent du reste des coûts de construction.
+
+<sup>5</sup> Les propriétaires de bâtiments peuvent faire remplir par des tiers leur obligation d’utiliser l’énergie solaire.
+
+<sup>6</sup> Le Conseil-exécutif définit par voie d’ordonnance la quantité minimale d’énergie solaire que les systèmes visés à l’alinéa 1 doivent utiliser ainsi que les critères qui déterminent si les toitures sont appropriées et si elles sont équipées autant que possible conformément à l’alinéa 2.
+
+#### Art. 39b
+
+**Dispositions particulières pour les petits bâtiments d’habitation**
+
+<sup>1</sup> Les nouveaux bâtiments d’habitation destinés à durer d’une surface déterminante de construction inférieure ou égale à 300 mètres carrés doivent utiliser au moins la quantité d’énergie solaire nécessaire pour couvrir la moitié du besoin normalisé.
+
+<sup>2</sup> Au-delà de la couverture de la moitié du besoin normalisé, il n’existe aucune obligation d’équiper les toitures de systèmes d’utilisation de l’énergie solaire.
+
+#### Art. 39c
+
+**Dérogations**
+
+<sup>1</sup> Des dérogations à l’obligation d’utiliser l’énergie solaire peuvent être accordées si sa mise en œuvre n’est pas possible techniquement ou qu’elle est disproportionnée économiquement.
+
+#### Art. 39d
+
+**Obligation d’annoncer la rénovation intégrale d’une toiture**
+
+<sup>1</sup> La rénovation intégrale de la toiture d’une construction existante destinée à durer doit être annoncée, l’annonce devant être accompagnée d’une attestation du niveau d’adéquation de la toiture pour l’utilisation de l’énergie solaire et des coûts de l’installation solaire.
+
+<sup>2</sup> Le Conseil-exécutif définit par voie d’ordonnance les modalités de l’annonce ainsi que la procédure à suivre.
+
+#### Art. 39e
+
+**Utilisation de l’énergie solaire au-dessus de surfaces de stationnement**
+
+<sup>1</sup> Les nouvelles surfaces de stationnement destinées à durer et prévues pour accueillir à l’air libre 80 voitures de tourisme ou davantage, accessibles au public et exploitées doivent être dotées de systèmes d’utilisation de l’énergie solaire lorsqu’elles s’y prêtent.
+
+<sup>2</sup> Les installations à l’air libre de type park-and-ride au sens de l’article 61 de la loi du 4 juin 2008 sur les routes (LR)[^39e-1] comptant plus de 50 places de stationnement doivent être dotées de systèmes d’utilisation de l’énergie solaire lorsqu’elles s’y prêtent.
+
+<sup>3</sup> Les propriétaires de surfaces de stationnement et d’installations de type park-and-ride visées aux alinéas 1 et 2 peuvent faire remplir par des tiers leur obligation d’utiliser l’énergie solaire.
+
+<sup>4</sup> Le Conseil-exécutif définit par voie d’ordonnance les modalités de détail telles que les critères relatifs à l’adéquation des surfaces de stationnement ainsi que les aspects liés à la sécurité et à la conception des systèmes et peut prévoir pour certains types de surfaces de stationnement des exemptions généralisées de l’obligation d’installer des systèmes d’utilisation de l’énergie solaire.
+
+<sup>5</sup> Des dérogations à l’obligation d’installer des systèmes d’utilisation de l’énergie solaire peuvent être accordées, en particulier si la mise en œuvre n’est pas possible ou qu’elle est disproportionnée économiquement, pour des raisons techniques ou liées à d’autres utilisations.
+
+[^39e-1]: RSB [732.11](https://www.belex.sites.be.ch/data/732.11/fr)
+
 #### Art. 40
 
 **Exigences posées aux installations techniques des bâtiments 1. Chauffage, eau chaude**
@@ -679,6 +732,8 @@ arrête:
 
 <sup>3</sup> Il incombe au service compétent de la Direction de l'économie, de l'énergie et de l'environnement d’accorder les dérogations au sens des articles 36, 38 et 48. S’agissant des demandes de dérogation au sens de l’article 38, il consulte le Service cantonal des monuments historiques.
 
+<sup>4</sup> Les dérogations au sens des articles 39c et 39e relèvent de la compétence de l’autorité d’octroi du permis de construire.
+
 #### Art. 63
 
 **2. Projets non soumis à l’octroi du permis de construire**
@@ -817,6 +872,20 @@ arrête:
 <sup>1</sup> Les prescriptions des communes fondées sur l'article 13, alinéa 1, lettre b selon l'ancien droit restent valables après l'entrée en vigueur de la présente modification.
 
 <sup>2</sup> Le canton met à la disposition des communes les indications de conversion nécessaires pour le passage du mode de calcul selon les anciennes prescriptions à celui fixé par la présente modification.
+
+## T2 Dispositions transitoires de la modification du 04.09.2024
+
+#### Art. T2-1
+
+**Évaluation**
+
+<sup>1</sup> Dans un délai de six ans à compter de l’entrée en vigueur de la présente modification et de ses dispositions d’exécution, le Conseil-exécutif évalue les effets de l’obligation d’annoncer au sens de l’article 39d sur l’extension de l’utilisation de l’énergie solaire et soumet au Grand Conseil un rapport à ce sujet.
+
+#### Art. T2-2
+
+**Adaptation des installations existantes de type park-and-ride**
+
+<sup>1</sup> Les installations existantes de type park-and-ride au sens de l’article 39e, alinéa 2 doivent être équipées de systèmes d’utilisation de l’énergie solaire dans un délai de dix ans à compter de l’entrée en vigueur de la présente modification.
 
 Berne, le 17 mars 2010
 
