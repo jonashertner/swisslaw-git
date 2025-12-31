@@ -4,13 +4,12 @@ number: "610"
 title: Gesetz über den Finanzausgleich
 short: FAG
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2024-12-02
 adopted: 2002-03-05
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/610"
-pdf: "https://srl.lu.ch/api/de/versions/4717/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4718/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4717/pdf_file"
 
 (FAG)
 
-vom 05.03.2002 (Stand 01.06.2025)
+vom 05.03.2002 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -102,11 +101,15 @@ beschliesst:
 
 **Mindestausstattung**
 
-<sup>1</sup> Den Gemeinden wird eine einheitliche Mindestausstattung garantiert, welche 86,4 Prozent des kantonalen Mittels des Ressourcenpotenzials pro Einwohner und Einwohnerin beträgt. Liegt der Ressourcenindex einer Gemeinde unter dieser Grenze, wird die Differenz als Ressourcenausgleich vergütet.
+<sup>1</sup> Den Gemeinden wird eine einheitliche Mindestausstattung garantiert. Liegt der Ressourcenindex einer Gemeinde unter der Mindestausstattung, wird die Differenz als Ressourcenausgleich vergütet.
 
-<sup>2</sup> ...
+<sup>2</sup> Die einheitliche Mindestausstattung beträgt einen bestimmten Prozentsatz des kantonalen Mittels des Ressourcenpotenzials pro Einwohner und Einwohnerin. Dieser wird für das Bezugsjahr entsprechend der Entwicklung des Ressourcenausgleichs sämtlicher Gemeinden wie folgt berechnet, wobei jeweils der Prozentsatz der Mindestausstattung des dem Bezugsjahr vorangehenden Jahres für die Berechnung der Veränderung des gesamten Ressourcenausgleichs massgebend ist:
 
-<sup>3</sup> Wenn der Steuerfuss einer Gemeinde, die Ressourcenausgleich erhält, in den für die Berechnung massgebenden Jahren mehr als 20 Prozent unter dem mittleren Steuerfuss lag, wird der Ressourcenausgleich gekürzt. Der Regierungsrat regelt das Nähere.
+- a. Wächst der gesamte Ressourcenausgleich um maximal 10 Prozent, bleibt der Prozentsatz der Mindestausstattung unverändert.
+- b. Wächst der gesamte Ressourcenausgleich um mehr als 10 Prozent, wird der Prozentsatz der Mindestausstattung so weit gesenkt, dass ein maximales Wachstum von 10 Prozent des gesamten Ressourcenausgleichs erreicht wird. Die Mindestausstattung darf jedoch 80 Prozent nicht unterschreiten.
+- c. Verringert sich der gesamte Ressourcenausgleich, wird der Prozentsatz der Mindestausstattung in dem Masse bis zum Maximalwert von 86,4 Prozent erhöht, so dass die für den gesamten Ressourcenausgleich zur Verfügung stehenden Mittel jenen des dem Bezugsjahr vorangehenden Jahres entsprechen.
+
+<sup>3</sup> Wenn der Steuerfuss einer Gemeinde, die Ressourcenausgleich erhält, in den für die Berechnung massgebenden Jahren mehr als 20 Prozent unter dem mittleren Steuerfuss lag, wird deren Ressourcenausgleich gekürzt. Der Regierungsrat regelt das Nähere.
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten der Festlegung der Mindestausstattung.
 
@@ -120,9 +123,9 @@ beschliesst:
 
 **Horizontaler Finanzausgleich**
 
-<sup>1</sup> Gemeinden, deren Ressourcenindex mehr als 86,4 Punkte beträgt, bezahlen Beiträge an den Disparitätenabbau (horizontaler Finanzausgleich).
+<sup>1</sup> Gemeinden, deren Ressourcenindex über der Mindestausstattung gemäss § 5 liegt, bezahlen Beiträge an den Disparitätenabbau (horizontaler Finanzausgleich).
 
-<sup>2</sup> Die Beiträge an den Disparitätenabbau werden von dem Betrag an berechnet, der 86,4 Prozent des mittleren kantonalen Ressourcenpotenzials pro Einwohner und Einwohnerin übersteigt. Die Beiträge bemessen sich nach einem Grundbeitrag und einem einheitlichen Korrekturfaktor.
+<sup>2</sup> Die Beiträge an den Disparitätenabbau werden von dem Betrag an berechnet, der den Betrag der Mindestausstattung gemäss § 5 übersteigt. Der Beitragssatz wird durch den Regierungsrat jährlich festgelegt und stellt sicher, dass die Abschöpfung dem in § 6 festgelegten Anteil entspricht.
 
 <sup>3</sup> …
 
@@ -181,9 +184,9 @@ beschliesst:
 
 **Finanzierung des Lastenausgleichs**
 
-<sup>1</sup> Die Mittel für den topografischen und den soziodemografischen Lastenausgleich werden durch den Kanton aufgebracht. Sie betragen 50 bis 100 Prozent der Mittel für die Mindestausstattung gemäss § 5. Der Regierungsrat legt jährlich den genauen Betrag fest. Gegenüber dem Vorjahr dürfen diese Mittel real nicht gesenkt werden.
+<sup>1</sup> Die Mittel für den topografischen und den soziodemografischen Lastenausgleich werden durch den Kanton aufgebracht. Der Regierungsrat legt jährlich den genauen Betrag fest. Gegenüber dem Vorjahr dürfen diese Mittel real nicht gesenkt werden.
 
-<sup>2</sup> Der Regierungsrat verteilt diese Mittel auf den topografischen Lastenausgleich einerseits und den soziodemografischen Lastenausgleich sowie dessen Bereiche gemäss § 10 Absatz 2 anderseits. Er berücksichtigt dabei insbesondere die Ergebnisse von Kostenrechnungen, die Belastung der Einwohnerinnen und Einwohner der Regionen durch Immissionen oder andere indirekte Kosten und die wirtschaftliche Entwicklung der Regionen.
+<sup>2</sup> Der Regierungsrat verteilt diese Mittel auf den topografischen Lastenausgleich einerseits und den soziodemografischen Lastenausgleich sowie dessen Bereiche gemäss § 10 Absatz 2 anderseits. Dabei darf der Anteil, der für den Ausgleich für höhere Lasten aus der Infrastruktur entrichtet wird (Infrastrukturlastenausgleich), gegenüber dem Vorjahr real nicht gesenkt werden. Der Regierungsrat berücksichtigt dabei insbesondere die Ergebnisse von Kostenrechnungen, die Belastung der Einwohnerinnen und Einwohner der Regionen durch Immissionen oder andere indirekte Kosten und die wirtschaftliche Entwicklung der Regionen.
 
 ## 4 Besondere Beiträge
 
@@ -209,7 +212,7 @@ beschliesst:
 
 <sup>2</sup> Über Einlagen in den Fonds beschliesst der Kantonsrat im Rahmen seiner Zuständigkeit.
 
-<sup>3</sup> Der Regierungsrat verfügt in eigener abschliessender Kompetenz über den Fonds.
+<sup>3</sup> Der Regierungsrat verfügt in eigener abschliessender Kompetenz über den Fonds. Über Beiträge an die Zusammenarbeit von Gemeinden entscheidet das Justiz- und Sicherheitsdepartement abschliessend.
 
 ### 4.2 Sonderbeiträge an einzelne Gemeinden
 
@@ -255,12 +258,12 @@ beschliesst:
 
 <sup>2</sup> Der Beitrag beträgt pro Kopf und Gemeinde
 
-- a. für die ersten 300 Einwohner — 3000 Franken
-- b. für die nächsten 700 Einwohner — 1200 Franken
-- c. für die nächsten 1000 Einwohner — 1000 Franken
-- d. für die nächsten 3000 Einwohner — 800 Franken
-- e. für die nächsten 5000 Einwohner — 600 Franken
-- f. ab dem 10'001. Einwohner — 100 Franken
+- a. für die ersten 300 Einwohnerinnen und Einwohner — 3000 Franken
+- b. für die nächsten 700 Einwohnerinnen und Einwohner — 1200 Franken
+- c. für die nächsten 1000 Einwohnerinnen und Einwohner — 1000 Franken
+- d. für die nächsten 3000 Einwohnerinnen und Einwohner — 800 Franken
+- e. für die nächsten 5000 Einwohnerinnen und Einwohner — 600 Franken
+- f. ab dem/der 10'001. Einwohner/Einwohnerin — 100 Franken
 
 <sup>3</sup> Bei aufeinanderfolgenden Zusammenschlüssen wird die Wohnbevölkerung, für die bei einem früheren Zusammenschluss bereits Pro-Kopf-Beiträge ausgerichtet wurden, bei der Berechnung des neuen Pro-Kopf-Beitrags nicht berücksichtigt.
 
@@ -288,7 +291,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton fördert Projekte, die im Interesse mehrerer Gemeinden liegen und der Zusammenarbeit von Gemeinden dienen.
 
-<sup>2</sup> Der Regierungsrat kann zu diesem Zweck Gemeinden oder regionalen Entwicklungsträgern im Rahmen der verfügbaren Mittel Beiträge zusprechen, insbesondere für die Planung und Umsetzung von Organisationsprojekten zur Vereinfachung der interkommunalen Zusammenarbeit.
+<sup>2</sup> Das Justiz- und Sicherheitsdepartement kann zu diesem Zweck Gemeinden oder regionalen Entwicklungsträgern im Rahmen der verfügbaren Mittel Beiträge zusprechen, insbesondere für die Planung und Umsetzung von Organisationsprojekten zur Vereinfachung der interkommunalen Zusammenarbeit.
 
 #### § 13f
 
@@ -366,9 +369,9 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Die Verfügungen und Beschwerdeentscheide des zuständigen Departementes können mit Verwaltungsbeschwerde angefochten werden.
+<sup>1</sup> Gegen Verfügungen gemäss § 17 Absatz 1 ist die Einsprache im Sinn des Gesetzes über die Verwaltungsrechtspflege und gegen Einspracheentscheide die Verwaltungsgerichtsbeschwerde zulässig.
 
-<sup>2</sup> Gegen Entscheide des Regierungsrates über die Zusprechung von Sonderbeiträgen, Zusatzbeiträgen und Beiträgen für die Zusammenarbeit von Gemeinden ist die Verwaltungsgerichtsbeschwerde ausgeschlossen.
+<sup>2</sup> Gegen Entscheide des Regierungsrates über die Zusprechung von Sonderbeiträgen und Zusatzbeiträgen ist die Verwaltungsgerichtsbeschwerde ausgeschlossen.
 
 ## 8 Übergangs- und Schlussbestimmungen
 
@@ -441,6 +444,12 @@ beschliesst:
 <sup>2</sup> Das Total der Beiträge der Gemeinden an die Finanzierung des Härteausgleichs errechnet sich aus der Summe der Belastungen von mehr als 60 Franken pro Einwohner und Einwohnerin gemäss der Globalbilanz 3. Der Anteil der einzelnen Gemeinde bestimmt sich nach ihrer der Globalbilanz 3 zugrundeliegenden Einwohnerzahl. Die Beiträge bleiben während sechs Jahren unverändert.
 
 <sup>3</sup> Das Inkasso und die Vergütung der Beiträge erfolgen mit der jährlichen Finanzausgleichsleistung, erstmals für das Bezugsjahr 2020.
+
+#### § 20d
+
+**Dotierung Infrastrukturlastenausgleich 2026**
+
+<sup>1</sup> Die Mittel für den Ausgleich für höhere Lasten aus der Infrastruktur erhöhen sich für das Bezugsjahr 2026 im Vergleich zum dem Bezugsjahr vorangehenden Jahr um den Betrag von 10,6 Millionen Franken zuzüglich Teuerung.
 
 #### § 21
 
