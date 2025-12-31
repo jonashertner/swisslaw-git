@@ -4,13 +4,12 @@ number: "171.100"
 title: Legge cantonale sulla protezione dei dati
 short: LCPD
 language: it
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2025-02-10
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/171.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3383/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3575/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,196 +18,603 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3383/pdf_file"
 
 (LCPD)
 
-del 10.06.2001 (stato 01.01.2025)
+del 10.02.2025 (stato 01.01.2026)
 
-accettata dal Popolo il 10 giugno 2001[^ingress-1]
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-[^ingress-1]: M del 5 settembre 2000, 493; PGC 2000/2001, 530
+visto l'art. 31 cpv. 1 della Costituzione cantonale[^ingress-2],
+
+visto il messaggio del Governo del 24 ottobre 2024[^ingress-3],
+
+decide:
+
+[^ingress-1]: PGC 2024/2025, 542
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: Pagina 495
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Campo d'applicazione**
+**Scopo**
 
-<sup>1</sup> La presente legge serve a proteggere le persone dal trattamento illecito di dati personali da parte di autorità.
-
-<sup>2</sup> Sono considerate autorità ai sensi della presente legge:
-
-- a) autorità ed uffici del Cantone, delle regioni, dei comuni e delle unioni di comuni;
-- b) istituti, fondazioni ed enti di diritto pubblico del Cantone, delle regioni e dei comuni;
-- c) privati, per quanto siano loro delegati compiti pubblici.
-
-<sup>3</sup> …
-
-<sup>4</sup> Fanno stato per analogia i motivi di esclusione della legge federale sulla protezione dei dati[^1-1].
-
-<sup>5</sup> La legge non si applica inoltre a:
-
-- a) autorità che prendono parte alla concorrenza economica e che in questo ambito non agiscono in veste decisionale;
-- b) dati personali conservati in un archivio pubblico.
-
-[^1-1]: RS [235.1](https://db.clex.ch/link/Bund/235.1/it)
+<sup>1</sup> La presente legge serve a proteggere le persone dal trattamento illecito di dati personali da parte di organi pubblici.
 
 #### Art. 2
 
-**Trattamento di dati personali 1. Principi**
+**Campo d'applicazione**
 
-<sup>1</sup> Il trattamento di dati personali deve rispettare i principi della legalità, della proporzionalità, dell'adeguatezza, della destinazione vincolata, dell'esattezza e della sicurezza dei dati.
+<sup>1</sup> La presente legge si applica al trattamento di dati personali da parte di organi pubblici.
 
-<sup>2</sup> Le prescrizioni della legge federale[^2-1] concernenti il trattamento di dati personali ad opera di organi federali sono applicabili per analogia.
+<sup>2</sup> Se un organo pubblico prende parte alla concorrenza economica e in questo ambito non agisce in veste decisionale, per il trattamento di tali dati sono applicabili le normative della legge federale sulla protezione dei dati[^2-1]. La vigilanza si conforma alla presente legge, tranne nel caso di organi pubblici che prendono parte esclusivamente alla concorrenza economica e in questo ambito agiscono in base al diritto privato.
 
-<sup>3</sup> Per quanto la legge cantonale sulla protezione dei dati e le disposizioni d'esecuzione non contemplino disposizioni derogatorie o complementari, fanno stato per analogia le definizioni contenute nella legge federale.
+<sup>3</sup> Il trattamento di dati personali e i diritti delle persone interessate nei procedimenti giudiziari e nei procedimenti secondo gli ordinamenti procedurali federali nonché nelle procedure della giurisdizione amministrativa, ad eccezione delle procedure di prima istanza dinanzi ad autorità amministrative, sono retti dal diritto processuale applicabile.
+
+<sup>4</sup> Le disposizioni divergenti e complementari in altre leggi sono fatte salve a condizione che garantiscano la protezione dei diritti fondamentali di persone i cui dati personali sono oggetto di trattamento da parte di organi pubblici ai sensi della presente legge.
 
 [^2-1]: RS [235.1](https://db.clex.ch/link/Bund/235.1/it)
 
 #### Art. 3
 
-**2. Comunicazione in casi particolari**
+**Definizioni**
 
-<sup>1</sup> Qualora sorgano conflitti fra due autorità circa la comunicazione di dati personali, la decisione compete all'autorità comune di rango superiore.
+<sup>1</sup> Sono considerati organi pubblici ai sensi della presente legge:
 
-<sup>2</sup> Chi tratta dati personali per conto di un'autorità necessita, ai fini della comunicazione di dati personali a terzi, dell'esplicito consenso del mandante.
+- a) le autorità, le amministrazioni e le commissioni del Cantone, delle regioni, dei comuni e delle unioni di comuni;
+- b) le autorità, le amministrazioni e le commissioni di istituti, fondazioni ed enti di diritto pubblico del Cantone, delle regioni e dei comuni;
+- c) le persone fisiche o giuridiche o altre organizzazioni di diritto privato per quanto adempiano compiti pubblici loro delegati.
 
-#### Art. 3a
+<sup>2</sup> Per dati personali ai sensi della presente legge si intendono tutte le informazioni concernenti una persona fisica identificata o identificabile.
 
-**Forma particolare di trattamento di dati personali 1. Sorveglianza con acquisizione di immagini dello spazio pubblico e pubblicamente accessibile**
+<sup>3</sup> Per dati personali degni di particolare protezione si intendono dati personali associati a un pericolo particolare che vengano violati diritti fondamentali, segnatamente:
+
+- a) i dati concernenti le opinioni o attività religiose, filosofiche, politiche o sindacali;
+- b) i dati concernenti la salute, la sfera intima o l'appartenenza a una razza o a un'etnia;
+- c) i dati genetici;
+- d) i dati biometrici che identificano in modo univoco una persona fisica;
+- e) i dati concernenti perseguimenti e sanzioni amministrativi e penali;
+- f) i dati concernenti le misure d'assistenza sociale.
+
+<sup>4</sup> Per profili della personalità si intendono raccolte di dati che permettono di valutare aspetti essenziali della personalità di una persona fisica.
+
+<sup>5</sup> Per profilazione si intende qualsiasi tipo di trattamento automatizzato di dati personali consistente nell'utilizzazione degli stessi per valutare determinati aspetti personali di una persona fisica, in particolare per analizzare o prevedere aspetti concernenti il rendimento professionale, la situazione economica, la salute, le preferenze, gli interessi, l'affidabilità, il comportamento, i luoghi di permanenza e gli spostamenti di tale persona.
+
+<sup>6</sup> Per trattamento si intende qualsiasi operazione relativa a dati personali, indipendentemente dai mezzi e dalle procedure impiegati, segnatamente la raccolta, la registrazione, la conservazione, l'utilizzazione, la modificazione, la comunicazione, l'archiviazione, la cancellazione o la distruzione di dati.
+
+<sup>7</sup> Per comunicazione si intende la trasmissione di dati personali o il fatto di renderli accessibili.
+
+<sup>8</sup> Per violazione della sicurezza dei dati si intende la violazione della sicurezza in seguito alla quale, in modo accidentale o illecito, dati personali vengono persi, cancellati, distrutti, modificati oppure divulgati o resi accessibili a persone non autorizzate.
+
+<sup>9</sup> Per responsabile del trattamento si intende una terza persona che tratta dati personali per conto dell'organo pubblico titolare del trattamento.
+
+#### Art. 4
+
+**Responsabilità**
+
+<sup>1</sup> Per la protezione dei dati è responsabile l'organo pubblico che, singolarmente o insieme ad altri, determina lo scopo e i mezzi del trattamento.
+
+<sup>2</sup> Se più organi pubblici trattano dati personali di un insieme di dati, disciplinano tra loro le responsabilità e designano l'organo che detiene la responsabilità globale.
+
+<sup>3</sup> Su richiesta, l'organo pubblico titolare del trattamento deve essere in grado di dimostrare nei confronti dell'organo di vigilanza il rispetto delle disposizioni in materia di protezione dei dati.
+
+#### Art. 5
+
+**Principi del trattamento di dati**
+
+<sup>1</sup> I dati personali devono essere trattati in modo lecito.
+
+<sup>2</sup> Il trattamento deve essere conforme ai principi della buona fede e della proporzionalità.
+
+<sup>3</sup> I dati personali possono essere raccolti soltanto per uno scopo determinato e riconoscibile per la persona interessata; possono essere trattati ulteriormente soltanto in modo compatibile con tale scopo.
+
+<sup>4</sup> I dati personali sono distrutti o resi anonimi appena non sono più necessari per lo scopo del trattamento.
+
+<sup>5</sup> Chi tratta dati personali deve accertarsi della loro esattezza. Deve prendere tutte le misure adeguate per rettificare, cancellare o distruggere i dati inesatti o incompleti rispetto allo scopo per il quale sono stati raccolti o trattati. L'adeguatezza delle misure dipende segnatamente dal tipo e dall'entità del trattamento come pure dai rischi derivanti dal trattamento per i diritti fondamentali delle persone interessate.
+
+<sup>6</sup> Laddove una condizione sia necessaria per il trattamento, il consenso della persona interessata è valido soltanto se, dopo debita informazione, è dato in modo libero in riferimento a uno o più trattamenti specifici.
+
+<sup>7</sup> È necessario l'espresso consenso per:
+
+- a) il trattamento di dati personali degni di particolare protezione;
+- b) la profilazione o il trattamento di un profilo della personalità.
+
+#### Art. 6
+
+**Sicurezza dei dati**
+
+<sup>1</sup> L'organo pubblico titolare del trattamento e il responsabile del trattamento garantiscono, mediante appropriati provvedimenti tecnici e organizzativi, che la sicurezza dei dati personali sia adeguata al rischio.
+
+<sup>2</sup> I provvedimenti devono permettere di evitare violazioni della sicurezza dei dati.
+
+<sup>3</sup> Il Governo emana disposizioni sui requisiti minimi in materia di sicurezza dei dati.
+
+## 2. Trattamento di dati personali
+
+#### Art. 7
+
+**Trattamento di dati personali**
+
+<sup>1</sup> Gli organi pubblici hanno il diritto di trattare dati personali soltanto se lo prevede una base legale o se il trattamento è indispensabile all'adempimento di un compito legale.
+
+<sup>2</sup> La base legale deve figurare in una legge nei casi seguenti:
+
+- a) sono trattati dati personali degni di particolare protezione;
+- b) è allestito un profilo della personalità o è effettuata una profilazione;
+- c) lo scopo del trattamento o il tipo di trattamento può comportare una grave ingerenza nei diritti fondamentali della persona interessata.
+
+<sup>3</sup> Per il trattamento di dati personali secondo il capoverso 2 lettera a e lettera b è sufficiente una base legale figurante in un'ordinanza se:
+
+- a) il trattamento è indispensabile per l'adempimento di un compito esplicitamente descritto in una legge;
+- b) lo scopo del trattamento non comporta rischi particolari per i diritti fondamentali della persona interessata.
+
+<sup>4</sup> In deroga al capoverso 1 fino al capoverso 3, gli organi pubblici possono trattare dati personali se una delle seguenti condizioni è soddisfatta:
+
+- a) la persona interessata ha dato, nel caso specifico, il suo consenso al trattamento oppure ha reso i suoi dati personali accessibili a chiunque e non si è opposta espressamente al trattamento;
+- b) il trattamento è necessario per proteggere la vita o l'integrità fisica della persona interessata o di un terzo e non è possibile ottenere il consenso della persona interessata entro un termine ragionevole.
+
+#### Art. 8
+
+**Trattamento automatizzato di dati personali nell'ambito di sistemi pilota**
+
+<sup>1</sup> Il Governo può autorizzare il trattamento automatizzato di dati personali degni di particolare protezione o di profili della personalità o la profilazione prima dell'entrata in vigore di una legge se:
+
+- a) i compiti che richiedono tale trattamento sono disciplinati in una legge già in vigore;
+- b) sono prese misure sufficienti per ridurre al minimo l'ingerenza nei diritti fondamentali delle persone interessate; e
+- c) per l'attuazione pratica del trattamento è imprescindibile una fase sperimentale prima dell'entrata in vigore, in particolare per ragioni tecniche.
+
+<sup>2</sup> Il Governo chiede previamente il parere dell'organo di vigilanza.
+
+<sup>3</sup> L'organo pubblico titolare del trattamento presenta un rapporto di valutazione al Governo al più tardi due anni dopo la messa in opera del sistema pilota. Nel rapporto propone la continuazione o l'interruzione del trattamento.
+
+<sup>4</sup> Il trattamento automatizzato di dati personali deve in ogni caso essere interrotto se entro cinque anni dalla messa in opera del sistema pilota non è entrata in vigore una legge che prevede la pertinente base legale.
+
+#### Art. 9
+
+**Trattamento da parte di un responsabile del trattamento**
+
+<sup>1</sup> Il trattamento di dati personali può essere affidato a un responsabile del trattamento per contratto o per legge se:
+
+- a) questi effettua soltanto i trattamenti di dati che l'organo pubblico titolare del trattamento avrebbe il diritto di effettuare; e
+- b) nessun obbligo legale o contrattuale di serbare il segreto lo vieta.
+
+<sup>2</sup> L'organo pubblico titolare del trattamento deve in particolare accertarsi che il responsabile del trattamento sia in grado di garantire la sicurezza dei dati.
+
+<sup>3</sup> Il responsabile del trattamento può affidare il trattamento a un terzo soltanto previa autorizzazione dell'organo pubblico titolare del trattamento.
+
+#### Art. 10
+
+**Comunicazione di dati personali 1. Direttive generali**
+
+<sup>1</sup> Gli organi pubblici hanno il diritto di comunicare dati personali soltanto se lo prevede una base legale ai sensi dell'articolo 7 capoverso 1 fino al capoverso 3.
+
+<sup>2</sup> In deroga al capoverso 1, gli organi pubblici possono, nel caso specifico, comunicare dati personali se una delle seguenti condizioni è soddisfatta:
+
+- a) la comunicazione dei dati è indispensabile all'adempimento dei compiti legali dell'organo pubblico titolare del trattamento o del destinatario;
+- b) la persona interessata ha dato il suo consenso alla comunicazione o ha reso i suoi dati personali accessibili a chiunque e non si è opposta espressamente alla comunicazione;
+- c) la comunicazione è necessaria per proteggere la vita o l'integrità fisica della persona interessata o di un terzo e non è possibile ottenere il consenso della persona interessata entro un termine ragionevole;
+- d) il destinatario rende verosimile che la persona interessata rifiuta di dare il proprio consenso, oppure si oppone alla comunicazione, al solo scopo di impedirgli l'attuazione di pretese giuridiche o la difesa di altri interessi degni di protezione; la persona interessata deve previamente essere invitata a pronunciarsi, salvo che ciò sia impossibile o richieda un onere sproporzionato.
+
+<sup>3</sup> Gli organi pubblici possono comunicare, su richiesta, cognome, nome, indirizzo e data di nascita di una persona anche se le condizioni del capoverso 1 o del capoverso 2 non sono soddisfatte.
+
+<sup>4</sup> Gli organi pubblici rifiutano o limitano la comunicazione, oppure la vincolano a oneri, se lo esige:
+
+- a) un importante interesse pubblico o un interesse manifestamente degno di protezione della persona interessata; o
+- b) un obbligo legale di serbare il segreto o una disposizione speciale concernente la protezione dei dati.
+
+#### Art. 11
+
+**2. Comunicazione di dati personali nell'ambito dell'attività di informazione ufficiale**
+
+<sup>1</sup> Nell'ambito dell'informazione ufficiale del pubblico, gli organi pubblici possono inoltre comunicare dati personali d'ufficio se:
+
+- a) i dati sono in rapporto con l'adempimento di compiti pubblici; e
+- b) sussiste un interesse pubblico preponderante alla comunicazione.
+
+<sup>2</sup> Gli organi pubblici possono rendere accessibili a chiunque dati personali mediante servizi di informazione e comunicazione automatizzati se una base legale prevede la pubblicazione di questi dati oppure se comunicano dati in virtù del capoverso 1. Se cessa l'interesse pubblico a renderli accessibili a chiunque, i dati contenuti nel servizio di informazione e comunicazione automatizzato sono cancellati.
+
+<sup>3</sup> La procedura di accesso a documenti ufficiali si conforma alla legge sul principio di trasparenza[^11-1].
+
+[^11-1]: CSC [171.000](https://www.gr-lex.gr.ch/data/171.000/it)
+
+#### Art. 12
+
+**3. Comunicazione di dati personali all'estero**
+
+<sup>1</sup> Dati personali possono essere comunicati all'estero soltanto se la legislazione dello Stato destinatario o l'organismo internazionale garantisce una protezione adeguata.
+
+<sup>2</sup> Negli Stati la cui legislazione non garantisce una protezione adeguata i dati personali possono essere comunicati soltanto se:
+
+- a) garanzie sufficienti, in particolare mediante contratto, garantiscono una protezione adeguata all'estero;
+- b) la persona interessata ha dato il suo espresso consenso alla comunicazione;
+- c) la comunicazione è in relazione diretta con la conclusione o l'esecuzione di un contratto tra l'organo pubblico titolare del trattamento e la persona interessata o tra l'organo pubblico titolare del trattamento e un altro contraente, nell'interesse della persona interessata;
+- d) la comunicazione è necessaria per tutelare un interesse pubblico preponderante o per accertare, esercitare o far valere un diritto dinanzi a un giudice o a un'altra autorità estera competente;
+- e) la comunicazione è necessaria per proteggere la vita o l'integrità fisica della persona interessata o di un terzo e non è possibile ottenere il consenso della persona interessata entro un termine ragionevole;
+- f) la persona interessata ha reso i dati personali accessibili a chiunque e non si è opposta espressamente al loro trattamento; o
+- g) i dati provengono da un registro previsto dalla legge accessibile al pubblico o alle persone con un interesse degno di protezione, sempreché nel caso specifico siano adempiute le condizioni legali per la consultazione.
+
+<sup>3</sup> Prima della comunicazione dei dati personali all'estero l'organo pubblico informa l'organo di vigilanza in merito alle garanzie di cui al capoverso 2 lettera a.
+
+#### Art. 13
+
+**Trattamento di dati personali per scopi impersonali**
+
+<sup>1</sup> Gli organi pubblici hanno il diritto di trattare dati personali per scopi impersonali, in particolare nei settori della ricerca, della pianificazione o della statistica, se:
+
+- a) rendono anonimi i dati non appena lo scopo del trattamento lo permette;
+- b) comunicano a privati i dati personali degni di particolare protezione soltanto in una forma che non permetta d'identificare le persone interessate;
+- c) il destinatario trasmette a terzi i dati soltanto con l'autorizzazione dell'organo pubblico che glieli ha comunicati; e
+- d) i risultati sono pubblicati soltanto in una forma che non permetta d'identificare le persone interessate.
+
+<sup>2</sup> L'articolo 5 capoverso 3, l'articolo7 capoverso 2 nonché l'articolo 10 capoverso 1 non sono applicabili.
+
+#### Art. 14
+
+**Sorveglianza con acquisizione di immagini dello spazio pubblico e pubblicamente accessibile 1. Direttive generali**
 
 <sup>1</sup> Lo spazio pubblico e pubblicamente accessibile può essere sorvegliato con apparecchi di trasmissione e di registrazione di immagini allo scopo di identificare persone se:
 
-- a) la sicurezza e l'ordine pubblici sono esposti a una minaccia concreta;
+- a) la sicurezza e l'ordine pubblici sono esposti a una minaccia concreta; oppure
 - b) ciò è necessario a protezione di edifici destinati a usi pubblici o dei loro utenti.
 
 <sup>2</sup> In sede di trattamento dei dati personali devono essere rispettati i principi generali. In aggiunta occorre garantire che:
 
-- a) gli impianti di sorveglianza siano segnalati in maniera adeguata;
-- b) settori funzionali allo svolgimento di attività coperte dal segreto professionale ai sensi dell'articolo 171 del Codice di procedura penale[^3a-1] siano esclusi dalla sorveglianza;
-- c) dati personali registrati vengano cancellati entro 90 giorni se non sono necessari in un procedimento penale o per la difesa da pericoli.
+- a) gli impianti di sorveglianza siano segnalati in maniera adeguata e riconoscibile;
+- b) settori funzionali allo svolgimento di attività coperte dal segreto professionale ai sensi dell'articolo 171 del Codice di diritto processuale penale svizzero[^14-1] siano esclusi dalla sorveglianza; e
+- c) dati personali registrati vengano cancellati entro 90 giorni o vengano trasmessi all'autorità competente ai fini dell'utilizzo in un procedimento penale o dell'attuazione di pretese di diritto civile a seguito di un reato.
 
-[^3a-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^14-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
-#### Art. 3b
+#### Art. 15
 
 **2. Disposizione della sorveglianza con acquisizione di immagini dello spazio pubblico e pubblicamente accessibile**
 
-<sup>1</sup> La sorveglianza con acquisizione di immagini dello spazio pubblico e pubblicamente accessibile può essere disposta da un'autorità titolare del diritto d'uso o della sovranità sullo spazio oggetto di sorveglianza.
+<sup>1</sup> La sorveglianza con acquisizione di immagini dello spazio pubblico e pubblicamente accessibile può essere disposta da un organo pubblico titolare del diritto d'uso o della sovranità sullo spazio oggetto di sorveglianza.
 
-<sup>2</sup> L'autorità emana una decisione generale in cui vengono definiti lo scopo, la tipologia e la durata della sorveglianza, i luoghi oggetto di sorveglianza, le ubicazioni degli apparecchi di sorveglianza, le misure con le quali viene segnalata la sorveglianza, i diritti d'accesso nonché le misure adottate per garantire la sicurezza dei dati. La decisione generale è valida per al massimo cinque anni.
+<sup>2</sup> L'organo pubblico emana una decisione generale in cui vengono definiti lo scopo, la tipologia e la durata della sorveglianza, i luoghi oggetto di sorveglianza, le ubicazioni degli apparecchi di sorveglianza, le misure con le quali viene segnalata la sorveglianza, i diritti d'accesso nonché le misure adottate per garantire la sicurezza dei dati. La decisione generale è valida per al massimo cinque anni.
 
-<sup>3</sup> L'autorità è tenuta a pubblicare in precedenza la decisione generale da emanare. Concede il diritto di essere sentiti prevedendo un termine adeguato per prendere posizione.
+<sup>3</sup> L'organo pubblico è tenuto a pubblicare in precedenza la decisione generale da emanare. Concede il diritto di essere sentiti prevedendo un termine adeguato per prendere posizione.
 
 <sup>4</sup> Non va concessa una previa protezione giuridica per sorveglianze con acquisizione di immagini riferite a un evento con una durata di al massimo tre mesi e per sorveglianze con acquisizione di immagini a protezione di edifici destinati a usi pubblici che vengono impiegate in relazione a un evento e non registrano dati personali.
 
-#### Art. 4
+#### Art. 16
 
-**Registro**
+**Archiviazione e distruzione**
 
-<sup>1</sup> Le autorità notificano all'organo di sorveglianza le loro collezioni di dati.
+<sup>1</sup> L'organo pubblico offre all'archivio competente i dati personali di cui non necessita più secondo le prescrizioni vigenti in materia.
 
-<sup>2</sup> Per quanto la legge cantonale sulla protezione dei dati e le disposizioni d'esecuzione non contemplino disposizioni derogatorie o complementari, fanno stato per analogia le disposizioni sulla registrazione di collezioni di dati contenute nella legge federale[^4-1].
+<sup>2</sup> Esso distrugge i dati personali che l'archivio competente ha designato come non aventi valore archivistico, salvo che tali dati:
 
-[^4-1]: RS [235.1](https://db.clex.ch/link/Bund/235.1/it)
+- a) siano resi anonimi;
+- b) debbano essere conservati a titolo di prova, per misura di sicurezza o per salvaguardare un interesse degno di protezione della persona interessata.
 
-#### Art. 5
+## 3. Obblighi dell'organo pubblico titolare del trattamento
 
-**Diritti delle persone interessate**
+#### Art. 17
 
-<sup>1</sup> Ogni persona interessata ha diritto:
+**Obbligo di informare sulla raccolta di dati personali**
 
-- a) all'informazione sui dati che la riguardano trattati in una collezione di dati;
-- b) alla visione del registro delle collezioni di dati;
-- c) alla rettifica di dati personali inesatti;
-- d) alla distruzione di dati personali non necessari o trattati illecitamente;
-- e) al blocco di dati personali degni di protezione.
+<sup>1</sup> L'organo pubblico titolare del trattamento informa in modo adeguato la persona interessata sulla raccolta di dati personali; tale obbligo sussiste anche se i dati non sono raccolti presso la persona interessata.
 
-<sup>2</sup> Se l'autorità contesta l'inesattezza dei dati personali, essa deve comprovare la loro correttezza.
+<sup>2</sup> Al momento della raccolta, l'organo pubblico titolare del trattamento fornisce alla persona interessata le informazioni necessarie affinché questa possa far valere i propri diritti secondo la presente legge e sia garantito un trattamento trasparente dei dati; fornisce almeno le informazioni seguenti:
 
-<sup>3</sup> I diritti concessi dalla legge federale[^5-1] alle persone interessate fanno stato per analogia.
+- a) l'identità e i dati di contatto dell'organo pubblico titolare del trattamento;
+- b) la base legale e lo scopo del trattamento;
+- c) i diritti della persona interessata;
+- d) se del caso, i destinatari o le categorie di destinatari cui sono comunicati dati personali;
+- e) le categorie di dati personali trattati se i dati non sono raccolti presso la persona interessata;
+- f) se i dati sono comunicati all'estero, anche lo Stato o l'organismo internazionale destinatario e, se del caso, le garanzie o l'applicazione di un'eccezione secondo l'articolo 12 capoverso 2.
 
-[^5-1]: RS [235.1](https://db.clex.ch/link/Bund/235.1/it)
+<sup>3</sup> Se i dati personali non sono raccolti presso la persona interessata, l'organo pubblico titolare del trattamento fornisce alla persona interessata le informazioni di cui al capoverso 2 entro un mese dalla ricezione dei dati. Se comunica questi dati personali prima della scadenza di detto termine, l'organo pubblico titolare del trattamento fornisce alla persona interessata tali informazioni al più tardi al momento della comunicazione.
 
-#### Art. 6
+#### Art. 18
 
-**Protezione giuridica**
+**Eccezioni all'obbligo di informare e limitazioni**
 
-<sup>1</sup> Le decisioni di autorità ed uffici dell'Amministrazione e di istituti autonomi del diritto pubblico cantonale possono essere impugnate presso il dipartimento preposto.
+<sup>1</sup> L'obbligo di informare sulla raccolta di dati personali non sussiste se una delle seguenti condizioni è soddisfatta:
 
-<sup>2</sup> Contro le decisioni di privati, che assolvono compiti pubblici, è aperta la via del ricorso all'autorità mandataria.
+- a) la persona interessata dispone già delle pertinenti informazioni;
+- b) il trattamento è previsto dalla legge;
+- c) i dati personali non sono raccolti presso la persona interessata e l'informazione non è possibile o richiede un onere sproporzionato.
 
-<sup>3</sup> Le decisioni dei dipartimenti, delle autorità comunali e regionali, delle unioni di comuni, nonché degli istituti ed enti autonomi di diritto pubblico possono essere impugnate con ricorso al Tribunale d'appello.
+<sup>2</sup> L'organo pubblico titolare del trattamento può limitare o differire l'informazione oppure rinunciarvi alle stesse condizioni valide per il diritto d'accesso secondo l'articolo 25.
 
-<sup>4</sup> Il diritto di ricorso spetta anche all'organo di sorveglianza.
+#### Art. 19
 
-#### Art. 7
+**Valutazione d'impatto sulla protezione dei dati**
 
-**Organo di sorveglianza 1. Nomina**
+<sup>1</sup> L'organo pubblico titolare del trattamento effettua previamente una valutazione d'impatto sulla protezione dei dati quando il trattamento può comportare un rischio elevato per i diritti fondamentali della persona interessata. Se prevede più operazioni di trattamento simili può procedere a una valutazione d'impatto comune.
 
-<sup>1</sup> Il Governo nomina, quale organo di sorveglianza, un'incaricata o un incaricato per la protezione dei dati.
+<sup>2</sup> Il rischio elevato, in particolare in caso di utilizzazione di nuove tecnologie, risulta dal tipo, dall'entità, dalle circostanze e dallo scopo del trattamento. Sussiste segnatamente nel caso di:
 
-<sup>2</sup> Dal profilo professionale l'organo di sorveglianza assolve i suoi compiti in maniera autonoma ed indipendente. Esso non è vincolato da direttive.
+- a) trattamento su grande scala di dati personali degni di particolare protezione;
+- b) sorveglianza sistematica di ampi spazi pubblici.
 
-#### Art. 8
+<sup>3</sup> La valutazione d'impatto sulla protezione dei dati contiene una descrizione del trattamento previsto, una valutazione dei rischi per i diritti fondamentali della persona interessata nonché i provvedimenti a loro tutela.
 
-**2. Compiti**
+#### Art. 20
 
-<sup>1</sup> L'organo di sorveglianza:
+**Consultazione preliminare**
 
-- a) sorveglia l'applicazione delle prescrizioni sulla protezione dei dati;
-- b) tiene un registro delle collezioni di dati e degli eventuali collegamenti;
-- c) consiglia le persone interessate circa i loro diritti;
-- d) funge da mediatore fra le persone interessate e le autorità;
-- e) consiglia le autorità su questioni concernenti la protezione dei dati e vigila sulla sicurezza dei dati;
-- f) si pronuncia in merito ad atti legislativi e a progetti d'informatica, per quanto essi siano rilevanti per la protezione dei dati;
-- g) redige annualmente un rapporto sulla propria attività. Il rapporto è pubblicato.
+<sup>1</sup> L'organo pubblico titolare del trattamento chiede previamente il parere dell'organo di vigilanza se dalla valutazione d'impatto sulla protezione dei dati emerge che, nonostante i provvedimenti previsti dall'organo pubblico titolare, il trattamento previsto comporta un rischio elevato per i diritti fondamentali della persona interessata.
 
-#### Art. 9
+<sup>2</sup> L'organo di vigilanza comunica entro un termine adeguato all'organo pubblico titolare del trattamento le sue obiezioni contro il trattamento previsto e propone provvedimenti idonei.
 
-**3. Metodo di lavoro**
+#### Art. 21
 
-<sup>1</sup> Le autorità sono tenute a sostenere l'organo di sorveglianza nell'adempimento dei suoi compiti.
+**Notifica di violazioni della sicurezza dei dati**
 
-<sup>2</sup> Incurante di eventuali prescrizioni sulla segretezza, l'organo di sorveglianza può richiedere ad autorità, per via scritta ed orale, informazioni concernenti il trattamento di dati personali, visionare collezioni di dati e la rispettiva documentazione ed esigere che gli sia esibito il trattamento di dati personali.
+<sup>1</sup> L'organo pubblico titolare del trattamento notifica quanto prima all'organo di vigilanza ogni violazione della sicurezza dei dati che comporta verosimilmente un rischio elevato per i diritti fondamentali della persona interessata.
 
-<sup>3</sup> Se dai chiarimenti risulta che sono state violate prescrizioni sulla protezione dei dati, l'organo di sorveglianza sollecita l'autorità responsabile o l'autorità ad essa preposta ad adottare le misure necessarie
+<sup>2</sup> Nella notifica l'organo pubblico titolare del trattamento menziona almeno il tipo di violazione della sicurezza dei dati, le sue conseguenze e le misure disposte o previste.
 
-<sup>4</sup> Se non si dà seguito alla sollecitazione o la si respinge, l'organo di sorveglianza deferisce la pratica al Governo.
+<sup>3</sup> Il responsabile del trattamento informa quanto prima l'organo pubblico titolare del trattamento su ogni violazione della sicurezza dei dati.
 
-#### Art. 10
+<sup>4</sup> L'organo pubblico titolare del trattamento informa la persona interessata sulla violazione della sicurezza dei dati, se ciò è necessario per proteggere la persona interessata o se lo esige l'organo di vigilanza.
 
-**4. Obbligo di discrezione**
+<sup>5</sup> L'organo pubblico titolare del trattamento può limitare o differire l'informazione della persona interessata o rinunciarvi se:
 
-<sup>1</sup> Per quanto attiene ai dati personali, l‘organo di sorveglianza è tenuto al medesimo obbligo di discrezione cui soggiace l'autorità che tratta i dati.
+- a) lo esigono interessi preponderanti di terzi;
+- b) lo esigono interessi pubblici preponderanti, in particolare a tutela della sicurezza interna o esterna;
+- c) la fornitura delle informazioni rischia di compromettere un'indagine, un'istruzione o un procedimento giudiziario o amministrativo;
+- d) sussiste un obbligo legale di serbare il segreto;
+- e) l'informazione è impossibile o richiede un onere sproporzionato;
+- f) l'informazione è garantita in modo equivalente con una comunicazione pubblica.
 
-<sup>2</sup> L'organo di sorveglianza può, riservate particolari prescrizioni sulla segretezza, trasmettere informazioni, delle quali è venuto a conoscenza durante l'esercizio della propria funzione, unicamente nella misura in cui ciò sia necessario per l'adempimento dei suoi compiti.
+#### Art. 22
 
-#### Art. 10a
+**Registro delle attività di trattamento**
+
+<sup>1</sup> Quale comprova del rispetto delle disposizioni sulla protezione dei dati, gli organi pubblici designati dal Governo e i tribunali penali tengono un registro delle rispettive attività di trattamento.
+
+<sup>2</sup> Il registro contiene almeno:
+
+- a) l'identità e i dati di contatto dell'organo pubblico titolare del trattamento;
+- b) la base legale e lo scopo del trattamento;
+- c) una descrizione delle categorie di persone interessate e delle categorie di dati personali trattati;
+- d) se del caso, i destinatari o le categorie di destinatari cui sono comunicati dati personali;
+- e) la durata di conservazione dei dati personali o i criteri per stabilire tale durata;
+- f) una descrizione generale dei provvedimenti tesi a garantire la sicurezza dei dati personali;
+- g) l'indicazione se i dati personali sono comunicati all'estero e, se del caso, le garanzie o l'applicazione di un'eccezione secondo l'articolo 12 capoverso 2.
+
+<sup>3</sup> L'organo pubblico notifica i suoi registri all'organo di vigilanza e può pubblicarli.
+
+#### Art. 23
+
+**Consulente per la protezione dei dati**
+
+<sup>1</sup> Gli organi pubblici designati dal Governo e i tribunali penali designano una persona competente per la consulenza in materia di protezione dei dati. Questa ha segnatamente i compiti seguenti:
+
+- a) fornire consulenza e sostegno ai collaboratori in sede di trattamento di dati personali per quanto riguarda il rispetto delle disposizioni sulla protezione dei dati;
+- b) provvedere allo svolgimento delle valutazioni d'impatto sulla protezione dei dati;
+- c) essere la persona di riferimento dell'organo di vigilanza e collaborare con quest'ultimo.
+
+## 4. Diritti della persona interessata
+
+#### Art. 24
+
+**Diritto d'accesso**
+
+<sup>1</sup> Ogni persona interessata può domandare all'organo pubblico titolare del trattamento se dati personali che lo concernono sono oggetto di trattamento.
+
+<sup>2</sup> Alla persona interessata sono fornite le informazioni necessarie affinché possa far valere i suoi diritti secondo la presente legge e sia garantito un trattamento trasparente dei dati. In ogni caso le sono fornite le informazioni seguenti:
+
+- a) le indicazioni di cui all'articolo 17 capoverso 2;
+- b) la durata di conservazione dei dati personali o i criteri per stabilire tale durata;
+- c) le informazioni disponibili sulla provenienza dei dati personali che non sono stati raccolti presso la persona interessata.
+
+<sup>3</sup> I dati personali concernenti la salute possono essere comunicati alla persona interessata per il tramite di un professionista della salute da lei designato; a tale scopo è necessario il consenso della persona interessata.
+
+<sup>4</sup> L'organo pubblico titolare del trattamento è tenuto a fornire le informazioni richieste anche se ha affidato il trattamento dei dati personali a un responsabile del trattamento.
+
+<sup>5</sup> Nessuno può rinunciare preventivamente al diritto d'accesso.
+
+<sup>6</sup> Di norma l'informazione è fornita entro 30 giorni.
+
+#### Art. 25
+
+**Restrizione del diritto d'accesso**
+
+<sup>1</sup> L'organo pubblico titolare del trattamento può rifiutare, limitare o differire l'informazione se:
+
+- a) lo prevede un obbligo legale particolare di serbare il segreto;
+- b) lo esigono interessi preponderanti di terzi;
+- c) lo esige un interesse pubblico preponderante, in particolare la sicurezza interna o esterna della Svizzera; oppure
+- d) la fornitura delle informazioni rischia di compromettere un'indagine, un'istruzione o un procedimento giudiziario o amministrativo.
+
+#### Art. 26
+
+**Opposizione alla comunicazione di dati personali**
+
+<sup>1</sup> La persona interessata che rende verosimile un interesse degno di protezione può opporsi alla comunicazione di determinati dati personali da parte dell'organo pubblico titolare del trattamento.
+
+<sup>2</sup> L'organo pubblico respinge l'opposizione se una delle seguenti condizioni è soddisfatta:
+
+- a) sussiste un obbligo legale alla comunicazione;
+- b) l'adempimento del suo compito ne risulterebbe altrimenti pregiudicato.
+
+<sup>3</sup> È fatto salvo l'articolo 11 capoverso 1.
+
+#### Art. 27
+
+**Altre pretese**
+
+<sup>1</sup> Chi ha un interesse degno di protezione può esigere che l'organo pubblico titolare del trattamento:
+
+- a) si astenga dal trattamento illecito dei pertinenti dati personali;
+- b) elimini le conseguenze di un trattamento illecito;
+- c) accerti il carattere illecito del trattamento.
+
+<sup>2</sup> Il richiedente può in particolare esigere che l'organo pubblico titolare del trattamento:
+
+- a) rettifichi, cancelli o distrugga i pertinenti dati personali;
+- b) comunichi a terzi o pubblichi la sua decisione, in particolare la rettifica, la cancellazione o la distruzione dei dati, l'opposizione alla comunicazione o la menzione del carattere contestato dei dati.
+
+<sup>3</sup> Se non possono essere accertate né l'esattezza né l'inesattezza dei dati personali, l'organo pubblico titolare del trattamento aggiunge agli stessi una menzione che ne indica il carattere contestato.
+
+#### Art. 28
+
+**Procedura**
+
+<sup>1</sup> Se un organo pubblico non accoglie una richiesta in virtù della presente legge, emana una decisione motivata.
+
+<sup>2</sup> Di norma, l'esercizio del diritto d'accesso e del diritto di rettifica di dati personali nonché la domanda di opposizione alla comunicazione di dati personali sono gratuiti.
+
+<sup>3</sup> È possibile riscuotere una tassa adeguata se:
+
+- a) l'esercizio dei diritti è associato a spese sproporzionate; oppure
+- b) la domanda è manifestamente infondata, segnatamente se persegue uno scopo contrario alla protezione dei dati, o se è querulosa.
+
+<sup>4</sup> Se l'organo pubblico non dispone di una regolamentazione propria relativa alla riscossione di una tassa, vale per analogia l'ordinanza sulle spese nelle procedure amministrative.
+
+<sup>5</sup> Per il resto la procedura si conforma alla legge sulla giustizia amministrativa[^28-1].
+
+[^28-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+
+#### Art. 29
+
+**Procedura in caso di comunicazione di documenti ufficiali che contengono dati personali**
+
+<sup>1</sup> Se è in corso una procedura ai sensi della legge sul principio di trasparenza[^29-1] concernente l'accesso a documenti ufficiali che contengono dati personali, la persona interessata può, in tale procedura, far valere i diritti che le spettano in virtù dell'articolo 27 in riferimento ai documenti oggetto della procedura di accesso.
+
+[^29-1]: CSC [171.000](https://www.gr-lex.gr.ch/data/171.000/it)
+
+## 5. Vigilanza
+
+#### Art. 30
+
+**Organo di vigilanza**
+
+<sup>1</sup> L'organo di vigilanza per la protezione dei dati vigila sull'applicazione delle disposizioni sulla protezione dei dati.
+
+<sup>2</sup> Non sono soggetti alla vigilanza dell'organo di vigilanza:
+
+- a) i trattamenti di dati in procedimenti in corso dell'amministrazione della giustizia civile e penale;
+- b) i trattamenti di dati in procedimenti in corso della giurisdizione costituzionale e amministrativa;
+- c) il Gran Consiglio e i suoi organi.
+
+#### Art. 31
+
+**Composizione e posizione**
+
+<sup>1</sup> L'organo di vigilanza è composto almeno dall'incaricato della protezione dei dati e da un supplente.
+
+<sup>2</sup> Dal profilo professionale l'organo di vigilanza adempie i suoi compiti in maniera autonoma ed indipendente. Nell'adempimento dei suoi compiti l'organo di vigilanza non è vincolato a direttive.
+
+<sup>3</sup> Dal profilo amministrativo l'organo di vigilanza è subordinato alla Cancelleria dello Stato.
+
+<sup>4</sup> Il Governo esercita la vigilanza sull'organo di vigilanza.
+
+<sup>5</sup> I rapporti di lavoro e la previdenza professionale di tutti i collaboratori dell'organo di vigilanza si conformano al diritto cantonale sul personale rispettivamente al diritto cantonale sulla Cassa pensioni, per quanto la presente legge non preveda nulla di diverso.
+
+<sup>6</sup> Il Governo classifica gli impieghi dell'incaricato della protezione dei dati e del suo supplente in classi di funzione secondo il diritto cantonale sul personale.
+
+#### Art. 32
+
+**Nomina**
+
+<sup>1</sup> Il Governo nomina uno specialista in questioni concernenti la protezione dei dati quale incaricato della protezione dei dati nonché un supplente per un mandato di quattro anni. La riconferma è ammessa.
+
+<sup>2</sup> Il Governo può destituire l'incaricato della protezione dei dati e il suo supplente prima della scadenza del mandato se questi:
+
+- a) intenzionalmente o per negligenza grave, ha violato gravemente i suoi doveri d'ufficio; o
+- b) ha durevolmente perso la capacità di esercitare il suo ufficio.
+
+#### Art. 33
+
+**Incompatibilità**
+
+<sup>1</sup> L'incaricato della protezione dei dati e il supplente non possono ricoprire un'altra carica pubblica, esercitare una funzione direttiva in seno a un partito politico o svolgere un'altra attività lavorativa. Il Governo può autorizzare eccezioni sempreché non siano pregiudicati l'adempimento della funzione nonché l'indipendenza e la reputazione.
+
+<sup>2</sup> Se l'incaricato della protezione dei dati e il supplente svolgono la loro attività a tempo parziale, un'altra attività lucrativa deve essere autorizzata dal Governo. L'autorizzazione può essere negata se tale attività lucrativa pregiudica l'adempimento della funzione nonché l'indipendenza e la reputazione.
+
+#### Art. 34
+
+**Preventivo**
+
+<sup>1</sup> L'incaricato della protezione dei dati allestisce un proprio preventivo.
+
+<sup>2</sup> Nel messaggio sul preventivo il Governo comunica se la proposta è stata ripresa senza modifiche. Le divergenze devono essere motivate.
+
+<sup>3</sup> Nel quadro del preventivo l'incaricato della protezione dei dati è competente per l'assunzione di impiegati nonché per la disdetta e la riconfigurazione dei rispettivi rapporti di lavoro.
+
+#### Art. 35
+
+**Compiti**
+
+<sup>1</sup> L'organo di vigilanza:
+
+- a) vigila sull'applicazione delle disposizioni sulla protezione dei dati;
+- b) fornisce consulenza alle persone interessate in merito ai loro diritti;
+- c) funge da mediatore tra le persone interessate e gli organi pubblici;
+- d) fornisce consulenza alle autorità in questioni concernenti la protezione dei dati e vigila sulla sicurezza dei dati;
+- e) si pronuncia in merito ad atti legislativi e a progetti d'informatica, per quanto essi siano rilevanti per la protezione dei dati;
+- f) si occupa di notifiche inoltrate da persone interessate concernenti la violazione di disposizioni della presente legge e informa queste persone entro al massimo tre mesi in merito al risultato o allo stato degli accertamenti;
+- g) sensibilizza gli organi pubblici in merito ai loro obblighi previsti dal diritto in materia di protezione dei dati e il pubblico in merito alle esigenze della protezione dei dati;
+- h) segue gli sviluppi determinanti per la protezione di dati personali;
+- i) ai fini dell'adempimento dei suoi compiti, collabora con organi degli altri Cantoni, della Confederazione e dell'estero che adempiono gli stessi compiti.
+
+#### Art. 36
+
+**Competenze 1. Controllo e raccomandazione**
+
+<sup>1</sup> L'organo di vigilanza si attiva d'ufficio o a seguito di notifiche da parte delle persone interessate. L'organo pubblico competente deve essere messo a conoscenza della notifica e deve essere invitato a esprimere un parere.
+
+<sup>2</sup> Indipendentemente da eventuali disposizioni relative all'obbligo di serbare il segreto, l'organo di vigilanza può raccogliere tutte le informazioni relative al trattamento di dati necessarie per l'adempimento del mandato di controllo, prendere visione di tutta la documentazione, svolgere sopralluoghi e farsi spiegare lo svolgimento di trattamenti di dati.
+
+<sup>3</sup> L'organo di vigilanza può formulare raccomandazioni per il trattamento di dati personali. L'organo pubblico al quale è destinata la raccomandazione deve dichiarare all'organo di vigilanza se intende dare seguito alla raccomandazione.
+
+<sup>4</sup> Gli organi pubblici e il responsabile del trattamento sono tenuti a sostenere l'organo di vigilanza nell'adempimento dei suoi compiti. Essi partecipano in particolare all'accertamento della fattispecie.
+
+#### Art. 37
+
+**2. Decisione**
+
+<sup>1</sup> Se un organo pubblico dichiara di non dare seguito alla raccomandazione dell'organo di vigilanza o non vi dà effettivamente seguito, l'organo di vigilanza può emanare la raccomandazione o parti di essa sotto forma di decisione.
+
+<sup>2</sup> L'organo di vigilanza può emanare una decisione direttamente quando è prevedibile che l'organo pubblico rifiuterà una raccomandazione o non vi darà seguito.
+
+<sup>3</sup> Contro decisioni ai sensi dell'articolo 37 capoverso 1 e capoverso 2 l'organo pubblico può interporre ricorso al Tribunale d'appello. Fa stato la legge sulla giustizia amministrativa[^37-1].
+
+<sup>4</sup> Contro decisioni concernenti il Tribunale d'appello quest'ultimo può interporre ricorso al Tribunale della magistratura.
+
+[^37-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+
+#### Art. 38
+
+**Rapporto**
+
+<sup>1</sup> L'organo di vigilanza riferisce ogni anno al Governo in merito all'entità e ai punti centrali della propria attività nonché a importanti constatazioni e valutazioni.
+
+<sup>2</sup> L'organo di vigilanza consente all'organo pubblico interessato da raccomandazioni e decisioni di prendere posizione per iscritto. Le prese di posizione vengono allegate al rapporto.
+
+<sup>3</sup> Il rapporto viene pubblicato.
+
+#### Art. 39
+
+**Discrezione**
+
+<sup>1</sup> Per quanto attiene ai dati personali, l'organo di vigilanza è tenuto al medesimo obbligo di discrezione cui soggiace l'organo pubblico che tratta i dati. L'obbligo di discrezione si protrae oltre la cessazione della funzione.
+
+<sup>2</sup> Fatte salve particolari disposizioni relative all'obbligo di serbare il segreto, l'organo di vigilanza può trasmettere informazioni delle quali è venuto a conoscenza durante l'esercizio della propria funzione soltanto nella misura in cui ciò sia necessario per l'adempimento dei suoi compiti.
+
+## 6. Disposizioni penali e transitorie
+
+#### Art. 40
 
 **Disposizioni penali**
 
-<sup>1</sup> Chi quale persona impiegata o incaricata di un'autorità o quale persona impiegata da una persona incaricata viola intenzionalmente le disposizioni del diritto cantonale sulla protezione dei dati, è punito a querela di parte con la multa.
+<sup>1</sup> Chi in veste di responsabile del trattamento senza autorizzazione esplicita da parte dell'organo pubblico intenzionalmente o per negligenza utilizza per sé stesso o per terzi oppure comunica a terzi dati personali è punito con la multa.
 
-<sup>2</sup> La violazione delle prescrizioni in materia di protezione dei dati è punibile anche dopo lo scioglimento del rapporto contrattuale.
+<sup>2</sup> Chi, contrariamente all'obbligo di cui all'articolo 13, intenzionalmente o per negligenza tratta per scopi diversi o trasmette a terzi dati personali che ha ricevuto da un organo pubblico per il trattamento per scopi impersonali è punito con la multa.
 
-#### Art. 11
-
-**Disposizioni d'esecuzione**
-
-<sup>1</sup> Il Governo emana le necessarie disposizioni d'esecuzione.
-
-#### Art. 12
+#### Art. 41
 
 **Disposizioni transitorie**
 
-<sup>1</sup> I detentori di collezioni di dati le verificano e le adeguano entro tre anni dall'entrata in vigore della legge sulla protezione dei dati.
+<sup>1</sup> I trattamenti di dati che secondo il diritto anteriore si fondano su una base legale sufficiente possono essere proseguiti per due anni in virtù delle basi legali esistenti.
 
-<sup>2</sup> Il Governo può prorogare il termine per motivi importanti.
+<sup>2</sup> La comprova del rispetto delle disposizioni in materia di protezione dei dati deve essere fornita entro due anni dall'entrata in vigore della presente legge.
 
-<sup>3</sup> L'esercizio di apparecchi di sorveglianza di cui all'articolo 3a in uso al momento dell'entrata in vigore può essere proseguito se entro dodici mesi sono soddisfatti i presupposti richiesti per la sorveglianza con acquisizione di immagini.
+<sup>3</sup> L'articolo 19 e l'articolo 20 non sono applicabili ai trattamenti di dati avviati prima dell'entrata in vigore della presente legge, se lo scopo del trattamento o l'attività di trattamento non ha subito cambiamenti sostanziali.
 
-#### Art. 13
-
-**Entrata in vigore**
-
-<sup>1</sup> Il Governo stabilisce la data dell'entrata in vigore[^13-1] della presente legge.
-
-[^13-1]: Dichiarata in vigore con DG del 19 febbraio 2002 per il 1° maggio 2002
-
--
+2025-049
