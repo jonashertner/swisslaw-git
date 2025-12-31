@@ -3,11 +3,11 @@ sr: "221.215.329.4"
 title: Ordinanza del 20 ottobre 2010 sul contratto normale di lavoro per il personale domestico (CNL personale domestico)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-724-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2010-724-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20240101/it"
 
 (CNL personale domestico)
 
-del 20 ottobre 2010 (Stato 1° gennaio 2024)
+del 20 ottobre 2010 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ visto l’articolo 360*a* del Codice delle obbligazioni (CO)[^ingress-1],
 
 ordina:
 
-[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1
 
@@ -65,7 +65,7 @@ Essa non si applica ai rapporti di lavoro con le persone seguenti:
 - j. lavoratori che sottostanno a un contratto collettivo di lavoro di obbligatorietà generale;
 - k. lavoratori in possesso di una carta di legittimazione E o F del Dipartimento federale degli affari esteri impiegati come personale domestico di una persona beneficiaria secondo l’articolo 2 capoverso 2 della legge del 22 giugno 2007[^2-1] sullo Stato ospite.
 
-[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 3
 
@@ -109,15 +109,15 @@ Sono considerati qualificati i lavoratori in possesso di:
 
 <table>
 <tr><th></th><th>Franchi all’ora</th></tr>
-<tr><td>a. per lavoratori non qualificati</td><td>19.95</td></tr>
-<tr><td>b. per lavoratori non qualificati con almeno quattro anni di esperienza professionale nell’economia domestica</td><td>21.85</td></tr>
-<tr><td>c. per lavoratori qualificati con AFC</td><td>24.05</td></tr>
-<tr><td>d. per lavoratori qualificati con CFP</td><td>21.85 .[^5-1]</td></tr>
+<tr><td>a. per lavoratori non qualificati</td><td>20.35</td></tr>
+<tr><td>b. per lavoratori non qualificati con almeno quattro anni di esperienza professionale nell’economia domestica</td><td>22.30</td></tr>
+<tr><td>c. per lavoratori qualificati con AFC</td><td>24.55</td></tr>
+<tr><td>d. per lavoratori qualificati con CFP</td><td>22.30 .[^5-1]</td></tr>
 </table>
 
 <sup>2</sup> La Segreteria di Stato dell’economia pubblica i salari mensili calcolati in base a questi salari orari, graduati secondo le ore di lavoro settimanali. Il calcolo dei salari mensili si basa sul versamento di 12 salari mensili all’anno.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 771](https://fedlex.data.admin.ch/eli/oc/2023/771)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 805](https://fedlex.data.admin.ch/eli/oc/2025/805)).
 
 #### Art. 6
 
@@ -133,7 +133,7 @@ Sono considerati qualificati i lavoratori in possesso di:
 
 Se un lavoratore percepisce una parte del salario sotto forma di vitto o alloggio, il valore di queste prestazioni si basa sugli importi indicati all’articolo 11 dell’ordinanza del 31 ottobre 1947[^7-1] sull’assicurazione per la vecchiaia e per i superstiti.
 
-[^7-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^7-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 8
 
@@ -155,7 +155,10 @@ La presente ordinanza è applicabile fin dalla sua entrata in vigore ai rapporti
 
 <sup>5</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2025.[^9-4]
 
-[^9-1]: Introdotto dal n. I dell’O del 13 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
-[^9-2]: Introdotto dal n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
-[^9-3]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
-[^9-4]: Introdotto dal n. I dell’O del 9 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
+<sup>6</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2028.[^9-5]
+
+[^9-1]: Introdotto dalla cifra I dell’O del 13 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
+[^9-2]: Introdotto dalla cifra I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
+[^9-3]: Introdotto dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+[^9-4]: Introdotto dalla cifra I dell’O del 9 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
+[^9-5]: Introdotto dalla cifra I dell’O del 5 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 805](https://fedlex.data.admin.ch/eli/oc/2025/805)).

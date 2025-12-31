@@ -3,11 +3,11 @@ sr: "221.215.329.4"
 title: Verordnung vom 20. Oktober 2010 über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Hauswirtschaft (NAV Hauswirtschaft)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-724-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-724-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20240101/de"
 
 (NAV Hauswirtschaft)
 
-vom 20. Oktober 2010 (Stand am 1. Januar 2024)
+vom 20. Oktober 2010 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf Artikel 360*a* des Obligationenrechts (OR)[^ingress-1],
 
 verordnet:
 
-[^ingress-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1
 
@@ -65,7 +65,7 @@ Sie gilt nicht für Arbeitsverhältnisse mit folgenden Personen:
 - j. Arbeitnehmerinnen und Arbeitnehmern, die einem allgemeinverbindlich erklärten Gesamtarbeitsvertrag unterstehen;
 - k. Arbeitnehmerinnen und Arbeitnehmern mit einer Legitimationskarte E oder F des Eidgenössischen Departements für auswärtige Angelegenheiten, die im häuslichen Dienst einer nach Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^2-1] begünstigten Person stehen.
 
-[^2-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^2-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 3
 
@@ -109,15 +109,15 @@ Als gelernt gelten Arbeitnehmerinnen und Arbeitnehmer:
 
 <table>
 <tr><th></th><th>Franken pro Stunde</th></tr>
-<tr><td>a. ungelernt</td><td>19.95</td></tr>
-<tr><td>b. ungelernt mit mindestens vier Jahren Berufserfahrung in der Hauswirtschaft</td><td>21.85</td></tr>
-<tr><td>c. gelernt mit EFZ</td><td>24.05</td></tr>
-<tr><td>d. gelernt mit EBA</td><td>21.85.[^5-1]</td></tr>
+<tr><td>a. ungelernt</td><td>20.35</td></tr>
+<tr><td>b. ungelernt mit mindestens vier Jahren Berufserfahrung in der Hauswirtschaft</td><td>22.30</td></tr>
+<tr><td>c. gelernt mit EFZ</td><td>24.55</td></tr>
+<tr><td>d. gelernt mit EBA</td><td>22.30.[^5-1]</td></tr>
 </table>
 
 <sup>2</sup> Das Staatssekretariat für Wirtschaft publiziert die auf Basis dieser Stundenlöhne berechneten Monatslöhne, abgestuft nach Arbeitsstunden pro Woche. Die Berechnung der Monatslöhne beruht auf der Ausrichtung von zwölf Monatslöhnen pro Jahr.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **202****3** 771).
+[^5-1]: Fassung gemäss Ziff. I der V vom 5. Dez. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 805](https://fedlex.data.admin.ch/eli/oc/2025/805)).
 
 #### Art. 6
 
@@ -133,7 +133,7 @@ Als gelernt gelten Arbeitnehmerinnen und Arbeitnehmer:
 
 Bezieht eine Arbeitnehmerin oder ein Arbeitnehmer einen Teil des Lohnes in Form von Unterkunft oder Verpflegung, so richtet sich der Wert dieser Leistungen nach den Ansätzen in Artikel 11 der Verordnung vom 31. Oktober 1947[^7-1] über die Alters- und Hinterlassenenversicherung.
 
-[^7-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^7-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 8
 
@@ -155,7 +155,10 @@ Diese Verordnung ist ab ihrem Inkrafttreten auf bestehende Arbeitsverhältnisse 
 
 <sup>5</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2025 verlängert.[^9-4]
 
+<sup>6</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2028 verlängert.[^9-5]
+
 [^9-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
 [^9-3]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
 [^9-4]: Eingefügt durch Ziff. I der V vom 9. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
+[^9-5]: Eingefügt durch Ziff. I der V vom 5. Dez. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 805](https://fedlex.data.admin.ch/eli/oc/2025/805)).

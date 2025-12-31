@@ -3,11 +3,11 @@ sr: "221.215.329.4"
 title: "Ordonnance du 20 octobre 2010 sur le contrat-type de travail pour les travailleurs de l'économie domestique (CTT économie domestique)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-724-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-724-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20240101/fr"
 
 (CTT économie domestique)
 
-du 20 octobre 2010 (État le 1<sup>er</sup> janvier 2024)
+du 20 octobre 2010 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu l’art. 360*a* du code des obligations (CO)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1
 
@@ -65,7 +65,7 @@ Elle ne s’applique pas non plus aux rapports de travail des personnes suivante
 - j. travailleurs soumis à une convention collective de travail déclarée de force obligatoire;
 - k. travailleurs titulaires d’une carte de légitimation de type E ou F du Département fédéral des affaires étrangères et affectés au service domestique d’une personne bénéficiaire visée à l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^2-1].
 
-[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^2-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 3
 
@@ -109,15 +109,15 @@ Sont considérés comme employés qualifiés les travailleurs:
 
 <table>
 <tr><th></th><th>Francs par heure</th></tr>
-<tr><td>a. employé non qualifié</td><td>19.95</td></tr>
-<tr><td>b. employé non qualifié avec au moins quatre ans d’expérience professionnelle dans l’économie domestique</td><td>21.85</td></tr>
-<tr><td>c. employé qualifié avec CFC</td><td>24.05</td></tr>
-<tr><td>d. employé qualifié avec AFP</td><td>21.85 .[^5-1]</td></tr>
+<tr><td>a. employé non qualifié</td><td>20.35</td></tr>
+<tr><td>b. employé non qualifié avec au moins quatre ans d’expérience professionnelle dans l’économie domestique</td><td>22.30</td></tr>
+<tr><td>c. employé qualifié avec CFC</td><td>24.55</td></tr>
+<tr><td>d. employé qualifié avec AFP</td><td>22.30.[^5-1]</td></tr>
 </table>
 
 <sup>2</sup> Le Secrétariat d’État à l’économie publie les salaires mensuels calculés sur la base de ces salaires horaires en fonction du nombre d’heures de travail par semaine. Le calcul des salaires mensuels repose sur le versement de douze salaires mensuels par an.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 771](https://fedlex.data.admin.ch/eli/oc/2023/771)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 805](https://fedlex.data.admin.ch/eli/oc/2025/805)).
 
 #### Art. 6
 
@@ -133,7 +133,7 @@ Sont considérés comme employés qualifiés les travailleurs:
 
 Si un travailleur reçoit une partie de son salaire sous la forme d’un logement ou de nourriture, la valeur de ces prestations est déterminée par les montants fixés à l’art. 11 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^7-1].
 
-[^7-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^7-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 8
 
@@ -155,7 +155,10 @@ La présente ordonnance est applicable aux rapports de travail existants dès so
 
 <sup>5</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2025.[^9-4]
 
+<sup>6</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2028.[^9-5]
+
 [^9-1]: Introduit par le ch. I de l’O du 13 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
 [^9-2]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
 [^9-3]: Introduit par le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
 [^9-4]: Introduit par le ch. I de l’O du 9 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
+[^9-5]: Introduit par le ch. I de l’O du 5 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 805](https://fedlex.data.admin.ch/eli/oc/2025/805)).
