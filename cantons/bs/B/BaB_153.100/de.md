@@ -3,13 +3,12 @@ canton: BS
 number: BaB 153.100
 title: Geschäftsordnung des Bürgerrates der Stadt Basel
 language: de
-version: 2018-01-01
-valid_until: 2025-12-31
-version_adopted: 2017-06-20
+version: 2026-01-01
+version_adopted: 2025-03-25
 adopted: 1986-09-09
 in_force: 1986-11-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20153.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5522/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6668/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5522/pdf_file"
 
 Bürgerrat: Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. Januar 2018)
+Vom 9. September 1986 (Stand 1. Januar 2026)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -96,6 +95,24 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 <sup>2</sup> Ausnahmsweise genügt die Anwesenheit dreier Mitglieder, wenn alle drei den Behandlungsgegenstand als dringlich oder aber als unwichtig bezeichnen.
 
+#### § 9a
+
+**Offenlegung von Interessenbindungen**
+
+<sup>1</sup> Die Mitglieder des Bürgerrats beraten und stimmen ohne Instruktion.
+
+<sup>2</sup> Sie geben bei Amtsantritt ihre Interessenbindungen schriftlich bekannt.
+
+<sup>3</sup> Änderungen sind der Bürgerratsschreiberin oder dem Bürgerratsschreiber laufend bekanntzugeben.
+
+<sup>4</sup> Die Interessenbindungen werden in einem Verzeichnis abgebildet. Das Verzeichnis wird veröffentlicht.
+
+#### § 9b
+
+**Ausstand**
+
+<sup>1</sup> Die Ausstandspflicht der Mitglieder des Bürgerrats gilt für die Vorbereitung, die Beratung und die Beschlussfassung im Plenum und in den Kommissionen.
+
 #### § 10
 
 **Tagesordnung**
@@ -146,9 +163,7 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 #### § 15
 
-**Ausstand**
-
-<sup>1</sup> DieVorschriften der Geschäftsordnung des Bürgergemeinderates betreffend Ausstand bei Abstimmungen gelten sinngemäss.
+**…**
 
 ### (II.)3. Wahlen
 
