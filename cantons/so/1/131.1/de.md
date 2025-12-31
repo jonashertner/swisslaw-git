@@ -4,13 +4,12 @@ number: "131.1"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-09-07
+version: 2026-01-01
+version_adopted: 2024-11-06
 adopted: 1992-02-16
 in_force: 1992-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.1"
-pdf: "https://bgs.so.ch/api/de/versions/5318/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5519/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5318/pdf_file"
 
 (GG)
 
-Vom 16.02.1992 (Stand 01.01.2024)
+Vom 16.02.1992 (Stand 01.01.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -37,7 +36,7 @@ beschliesst:
 
 - a) die Rechtsstellung der Gemeindeangehörigen;
 - b) die Grundzüge der Organisation;
-- c) den Finanzhaushalt;
+- c) die Rechnungslegung und den Finanzhaushalt;
 - d) die Zusammenarbeit der Gemeinden und die Veränderung im Gemeindebestand;
 - e) den Rechtsschutz und die Staatsaufsicht.
 
@@ -517,7 +516,7 @@ beschliesst:
 - b) Sie beschliesst:
   - 1\. das Budget und den Steuerfuss;
   - 2\. die Jahresrechnung;
-  - 3\. Geschäfte, deren Auswirkungen einen in der Gemeindeordnung zu bestimmenden Betrag übersteigen (insbesondere Ausgaben, Nachtragskredite, Eigentumsübertragungen, Einräumung beschränkter dinglicher Rechte, Verpflichtungen oder Einnahmenreduktionen);
+  - 3\. Geschäfte über im Rechnungslegungsmodell definierte Finanz- und Sachanlagen des Finanzvermögens sowie Geschäfte über das Verwaltungsvermögen, deren Auswirkungen einen in der Gemeindeordnung zu bestimmenden Betrag übersteigen (insbesondere Anlagen, Ausgaben, Nachtragskredite, Eigentumsübertragungen, Einräumung beschränkter dinglicher Rechte, Verpflichtungen oder Einnahmenreduktionen); Die Geschäfte über Finanz- und Sachanlagen des Finanzvermögens können in der Gemeindeordnung vollständig an den Gemeinderat übertragen werden;
   - 4\. Spezialfinanzierungen;
   - 5\. zweckgebundene Mittel und ihre Erträge unter Vorbehalt von § 152 zu anderen Zwecken zu verwenden;
   - 6\. Anstalten und Unternehmungen zu gründen, zu erweitern oder aufzuheben, sowie sich an gemischtwirtschaftlichen oder privaten Unternehmungen zu beteiligen, sofern der finanzielle Aufwand einen in der Gemeindeordnung zu bestimmenden Betrag übersteigt;
@@ -1066,7 +1065,7 @@ beschliesst:
 
 **I. Unvereinbarkeit 1. Kantonale Ämter**
 
-<sup>1</sup> Die Mitglieder des Regierungsrates, der Vorsteher oder die Vorsteherin eines Oberamtes und des Gemeindeamtes dürfen kein kommunales Amt ausüben.
+<sup>1</sup> Die Mitglieder des Regierungsrates, der Vorsteher oder die Vorsteherin eines Oberamtes und des Amtes für Gemeinden dürfen kein kommunales Amt ausüben.
 
 #### § 112
 
@@ -1291,7 +1290,7 @@ beschliesst:
 
 <sup>5</sup> In der kantonalen und kommunalen Gesetzgebung können weitere haupt- oder nebenamtliche Stellen vorgeschrieben oder geschaffen werden
 
-## 6. Finanzhaushalt
+## 6. Rechnungslegung und Finanzhaushalt
 
 ### 6.1. Grundsätze der Haushaltführung und des Rechnungswesens
 
@@ -1430,6 +1429,8 @@ beschliesst:
 
 <sup>2</sup> Der Gemeinderat kann einen dringlichen Nachtragskredit bewilligen, wenn die Mehrausgabe nicht voraussehbar war, notwendig und unaufschiebbar ist, selbst wenn die Nachtragskreditkompetenz bei der Gemeindeversammlung oder dem Gemeindeparlament liegt. Der dringliche Nachtragskredit ist der Gemeindeversammlung oder dem Gemeindeparlament zur Kenntnis zu bringen.
 
+<sup>3</sup> Der Gemeinderat kann einen Nachtragskredit bewilligen, wenn die Mehrausgabe im Sinne von § 141 Absatz 1 gebunden ist, selbst wenn die Nachtragskreditkompetenz bei der Gemeindeversammlung oder dem Gemeindeparlament liegt. Dieser Nachtragskredit ist der Gemeindeversammlung oder dem Gemeindeparlament zur Kenntnis zu bringen.
+
 #### § 146bis
 
 **V. Wirkungsorientierte Verwaltungsführung**
@@ -1540,7 +1541,7 @@ beschliesst:
 
 <sup>2</sup> Zuwendungen Dritter, wie Stiftungen, Schenkungen, Erbschaften oder Legate, und ihre Erträge sind bestimmungsgemäss zu verwenden.
 
-<sup>3</sup> Die Rechnungen von unselbständigen Gemeindeanstalten sind in den Jahresrechnungen der Gemeinden als Spezialfinanzierungen zu führen.
+<sup>3</sup> Die Jahresrechnungen von unselbständigen Gemeindeanstalten sind in den Jahresrechnungen der Gemeinden als Spezialfinanzierungen zu führen.
 
 #### § 152
 
@@ -1589,7 +1590,7 @@ beschliesst:
 
 <sup>1</sup> Verwaltungsvermögen wird zum Anschaffungs- oder Herstellungswert bilanziert. Entstehen der Gemeinde keine Kosten, wird es zum Verkehrswert im Zeitpunkt des Zugangs bilanziert. Es wird je Anlagekategorie linear nach der Nutzungsdauer abgeschrieben. Die Anlagekategorien und die Nutzungsdauer werden vom Departement vorgegeben.
 
-<sup>2</sup> Die Bilanzwerte sind bei eingetretenen dauerhaften Wertverminderungen oder Verlusten sofort zu berichtigen.
+<sup>2</sup> Die Bilanzwerte sind bei eingetretenen dauerhaften Wertverminderungen oder Verlusten spätestens mit dem Abschluss des jeweiligen Rechnungsjahres zu berichtigen.
 
 <sup>3</sup> Darlehen und Beteiligungen werden nur abgeschrieben, wenn dauerhafte Wertverminderungen oder Verluste eingetreten sind.
 
@@ -1622,7 +1623,7 @@ beschliesst:
 
 **II. Jahresabschluss**
 
-<sup>1</sup> Die Rechnungsprüfungskommission prüft nach dem vom Departement festgelegten Revisionsmodell, ob die Rechnung richtig und vollständig ist und ob den Vorschriften über den Finanzhaushalt nachgelebt wurde.
+<sup>1</sup> Die Rechnungsprüfungskommission prüft nach dem vom Departement festgelegten Revisionsmodell, ob die Jahresrechnung richtig und vollständig ist und ob den Vorschriften über den Finanzhaushalt nachgelebt wurde.
 
 <sup>2</sup> Die Rechnungsprüfungskommission erstattet der Gemeindeversammlung oder dem Gemeindeparlament schriftlich Bericht und beantragt, ob die Jahresrechnung mit oder ohne Einschränkung zu beschliessen oder zurückzuweisen sei.
 
@@ -1632,13 +1633,37 @@ beschliesst:
 
 <sup>1</sup> Der Gemeinderat nimmt zum Bericht und Antrag der Rechnungsprüfungskommission Stellung und stellt das Rechnungsergebnis fest.
 
-<sup>2</sup> Bei der ordentlichen Gemeindeorganisation beschliesst die Gemeindeversammlung, bei der ausserordentlichen Organisation das Gemeindeparlament die Rechnung.
+<sup>2</sup> Bei der ordentlichen Gemeindeorganisation beschliesst die Gemeindeversammlung, bei der ausserordentlichen Gemeindeorganisation das Gemeindeparlament die Jahresrechnung.
 
-<sup>3</sup> Die Rechnung ist bis zum 30. Juni des auf das Rechnungsjahr folgenden Kalenderjahres zu beschliessen.
+<sup>3</sup> Die Jahresrechnung ist bis zum 30. Juni des auf das Rechnungsjahr folgenden Kalenderjahres zu beschliessen.
 
-<sup>4</sup> Die von der Gemeindeversammlung beschlossene Jahresrechnung und der Revisionsbericht sind dem Gemeindeamt bis zum 31. Juli einzureichen.
+<sup>4</sup> Die von der Gemeindeversammlung beschlossene Jahresrechnung und die Revisionsberichte sind dem Amt für Gemeinden bis zum 31. Juli einzureichen. Das Departement kann Vorgaben zur Form der Einreichung machen.
 
-<sup>5</sup> Mangelhafte oder nicht ordnungsgemäss erstellte Jahresrechnungen genehmigt das Gemeindeamt nicht. Sie sind von der Gemeinde zu korrigieren.
+<sup>5</sup> Mangelhafte oder nicht ordnungsgemäss erstellte Jahresrechnungen genehmigt das Amt für Gemeinden nicht. Sie sind von der Gemeinde zu korrigieren.
+
+### 6.6. Gemeindefinanzstatistik
+
+#### § 157bis
+
+**Zweck, Inhalt und Basis**
+
+<sup>1</sup> Die Gemeindefinanzstatistik:
+
+- a) ermöglicht die statistische Auswertung der Daten zur Finanzlage der Gemeinden;
+- b) bildet eine Grundlage für die Berichte gemäss Finanzausgleichsgesetzgebung und weitere Publikationen;
+- c) bildet die Grundlage für die Weitergabe der Daten an die Bundesstatistik und Dritte.
+
+<sup>2</sup> Die Statistik enthält Informationen über mindestens die Erfolgsrechnungen, die Investitionsrechnungen, die Bilanzen und die Finanzkennzahlen der Gemeinden.
+
+<sup>3</sup> Basis für die Statistik bilden die Jahresrechnungen der Gemeinden.
+
+#### § 157ter
+
+**Datenimport, Erstellung von statistischen Informationen und Publikation**
+
+<sup>1</sup> Die Gemeinden melden die Daten bis zum 31. Juli und in der vom Amt für Gemeinden festgelegten elektronischen Form an die web-basierte Applikation. Das Amt für Gemeinden kontrolliert die Richtigkeit der Datenmeldungen und korrigiert oder ergänzt diese, wenn nötig, im Rahmen der Rechnungsgenehmigung.
+
+<sup>2</sup> Das Amt für Gemeinden erstellt und publiziert mittels der web-basierten Applikation periodisch die statistischen Informationen.
 
 ## 7. Unternehmen
 
@@ -1699,9 +1724,9 @@ beschliesst:
 
 <sup>2</sup> Der Gemeinderat oder eine ständige Kommission beaufsichtigen die Unternehmen.
 
-<sup>3</sup> Bei Ausgliederung beschliesst die Gemeindeversammlung oder das Gemeindeparlament die Rechnung und den Jahresbericht.
+<sup>3</sup> Bei einer Ausgliederung beschliesst die Gemeindeversammlung oder das Gemeindeparlament die Jahresrechnung und einen Jahresbericht.
 
-<sup>4</sup> Bei der Auslagerung ist der Gemeindeversammlung oder dem Gemeindeparlament die Rechnung und der Jahresbericht zur Kenntnis zu bringen.
+<sup>4</sup> Bei einer Auslagerung sind der Gemeindeversammlung oder dem Gemeindeparlament die Jahresrechnung und ein Jahresbericht zur Kenntnis zu bringen.
 
 ### 7.2.
 
@@ -1928,7 +1953,7 @@ beschliesst:
 
 <sup>1</sup> Im übrigen ist der Zweckverband sinngemäss nach den Vorschriften über die ordentliche oder ausserordentliche Gemeindeorganisation auszugestalten und zu führen.
 
-<sup>2</sup> Die Bestimmungen über die politischen Rechte der Stimmberechtigten, die Gemeindeorganisation, die Dienstverhältnisse, den Finanzhaushalt, das Gemeindearchiv, den Rechtsschutz und die Staatsaufsicht sind auf den Zweckverband sinngemäss anwendbar.
+<sup>2</sup> Die Bestimmungen über die politischen Rechte der Stimmberechtigten, die Gemeindeorganisation, die Dienstverhältnisse, die Rechnungslegung und den Finanzhaushalt, das Gemeindearchiv, den Rechtsschutz und die Staatsaufsicht sind auf den Zweckverband sinngemäss anwendbar.
 
 ### 8.3. Anerkennung von Einwohnergemeindebehörden durch Bürger- und Kirchgemeinden
 
@@ -2171,9 +2196,9 @@ beschliesst:
 
 #### § 208
 
-**2. Departement, Gemeindeamt, Oberamt**
+**2. Departement, Amt für Gemeinden, Oberamt**
 
-<sup>1</sup> Der Regierungsrat setzt das Departement, das Gemeindeamt oder das Oberamt insbesondere ein, um
+<sup>1</sup> Der Regierungsrat setzt das Departement, das Amt für Gemeinden oder das Oberamt insbesondere ein, um
 
 - a) die Gemeinden in rechtlichen und organisatorischen Fragen zu beraten;
 - b) bei der Ausbildung der Behörden, Beamten, Beamtinnen und Angestellten der Gemeinde mitzuwirken;
@@ -2302,7 +2327,7 @@ beschliesst:
 
 <sup>3</sup> Entnahmen aus der Neubewertungsreserve sind vorzunehmen, wenn Finanzvermögen, das bei Einführung von HRM2 aufgewertet wurde, veräussert wird.
 
-<sup>4</sup> Die Neubewertungsreserve wird ab dem sechsten Jahr nach Einführung von HRM2 in der Gemeinde linear innerhalb von fünf Jahren zu Gunsten des Bilanzüberschusses aufgelöst.
+<sup>4</sup> Die Neubewertungsreserve wird ab dem sechsten Jahr nach Einführung von HRM2 linear und erfolgsneutral innerhalb von fünf Jahren zu Gunsten des Bilanzüberschusses aufgelöst.
 
 #### § 217quinquies
 
@@ -2337,6 +2362,14 @@ beschliesst:
 **Zuständigkeit für die Beschwerdebeurteilung**
 
 <sup>1</sup> Die Zuständigkeit für die Beurteilung von Beschwerden, welche vor dem Inkrafttreten der Teilrevision vom 28. Juni 2022 erhoben wurden, aber erst nach dem Inkrafttreten der Teilrevision vom 28. Juni 2022 beurteilt werden, richtet sich nach dem bisherigen Recht.
+
+### 12.3.<sup>ter</sup> Übergangsbestimmungen zur Teilrevision vom 6. November 2024
+
+#### § 217nonies
+
+**Zuständigkeit bei Geschäften über Finanzanlagen und Sachanlagen des Finanzvermögens**
+
+<sup>1</sup> Soweit in der Gemeindeordnung für Geschäfte über Finanz- und Sachanlagen des Finanzvermögens noch keine Beträge bestimmt wurden, ab welchen die Gemeindeversammlung zuständig ist, gelten die fünffachen Beträge für Geschäfte über das Verwaltungsvermögen.
 
 ### 12.4. Vollzug
 
