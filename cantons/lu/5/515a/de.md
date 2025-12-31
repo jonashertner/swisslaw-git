@@ -4,13 +4,12 @@ number: 515a
 title: Personalverordnung der Pädagogischen Hochschule Luzern
 short: PVO PH Luzern
 language: de
-version: 2022-08-01
-valid_until: 2025-12-31
-version_adopted: 2022-05-31
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2022-05-31
 in_force: 2022-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/515a"
-pdf: "https://srl.lu.ch/api/de/versions/3936/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4583/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3936/pdf_file"
 
 (PVO PH Luzern)
 
-vom 31.05.2022 (Stand 01.08.2022)
+vom 31.05.2022 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -139,9 +138,9 @@ beschliesst:
 
 #### § 11
 
-**Wahl, Beendigung und Umgestaltung des Arbeitsverhältnisses**
+**Begründung, Änderung und Beendigung des Arbeitsverhältnisses**
 
-<sup>1</sup> Zuständig für die Wahl, die Beendigung und die Umgestaltung des Arbeitsverhältnisses ist
+<sup>1</sup> Zuständig für die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses ist
 
 - a. der Rat der Pädagogischen Hochschule für die Rektorin oder den Rektor,
 - b. die Rektorin oder der Rektor für das übrige Personal.
