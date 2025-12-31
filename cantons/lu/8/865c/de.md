@@ -4,13 +4,12 @@ number: 865c
 title: Verordnung über die Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 short: "Kantonale Zulassungsverordnung, VZL"
 language: de
-version: 2023-07-01
-valid_until: 2025-12-31
-version_adopted: 2023-06-06
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2021-11-30
 in_force: 2022-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/865c"
-pdf: "https://srl.lu.ch/api/de/versions/4091/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4616/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4091/pdf_file"
 
 (Kantonale Zulassungsverordnung, VZL)
 
-vom 30.11.2021 (Stand 01.07.2023)
+vom 30.11.2021 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -70,11 +69,13 @@ beschliesst:
 
 <sup>2</sup> Bei Ärztinnen und Ärzten bezieht sich die Bestätigung immer auf eine Tätigkeit für eine bestimmte ambulante ärztliche Einrichtung.
 
+<sup>3</sup> Die §§ 3–6 dieser Verordnung gelten für die Bestätigung sinngemäss.
+
 #### § 3
 
 **Zulassungsvoraussetzungen**
 
-<sup>1</sup> Eine Zulassung oder Bestätigung erhält, wer die geltenden Zulassungsvoraussetzungen gemäss dem Krankenversicherungsrecht des Bundes erfüllt.
+<sup>1</sup> Eine Zulassung erhält, wer die geltenden Zulassungsvoraussetzungen gemäss dem Krankenversicherungsrecht des Bundes erfüllt.
 
 <sup>2</sup> Vorbehalten bleibt die Beschränkung der Anzahl Ärztinnen und Ärzte, die im ambulanten Bereich tätig sein dürfen, auf eine Höchstzahl gemäss § 7.
 
@@ -82,7 +83,7 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch um eine Zulassung oder um eine Bestätigung ist der Dienststelle Gesundheit und Sport einzureichen.
+<sup>1</sup> Das Gesuch um eine Zulassung ist der Dienststelle Gesundheit und Sport einzureichen.
 
 <sup>2</sup> Dem Gesuch beizufügen sind die Nachweise über das Erfüllen der Zulassungsvoraussetzungen.
 
@@ -103,7 +104,7 @@ beschliesst:
 - c. der schriftlichen Verzichtserklärung des Inhabers oder der Inhaberin oder
 - d. dem Erlöschen der Berufsausübungs- oder Betriebsbewilligung.
 
-<sup>2</sup> Sie verfällt, wenn der Inhaber oder die Inhaberin nicht innert sechs Monaten nach der Erteilung von ihr Gebrauch macht.
+<sup>2</sup> Bei Ärztinnen und Ärzten verfällt die Zulassung, wenn der Inhaber oder die Inhaberin nicht innert zwölf Monaten nach der Erteilung von ihr Gebrauch macht.
 
 ## 3 Beschränkung der Anzahl Ärztinnen und Ärzte, die im ambulanten Bereich Leistungen erbringen
 
