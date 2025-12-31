@@ -4,13 +4,12 @@ number: III A/5
 title: Verordnung zu den Kosten im Zivil- und Strafprozess
 short: Zivil- und Strafprozesskostenverordnung
 language: de
-version: 2011-01-01
-valid_until: 2025-12-31
-version_adopted: 2010-12-22
+version: 2026-01-01
+version_adopted: 2026-02-18
 adopted: 2010-12-22
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-A.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/709/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2688/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/709/pdf_file"
 
 (Zivil- und Strafprozesskostenverordnung)
 
-Vom 22.12.2010 (Stand 01.01.2011)
+Vom 22.12.2010 (Stand 01.01.2026)
 
 Der Landrat,
 
@@ -27,7 +26,7 @@ gestützt auf Artikel 424 der Schweizerischen Strafprozessordnung (StPO), Artike
 
 verordnet:
 
-[^ingress-1]: GS [III A/2](https://gesetze.gl.ch/data/III-A.2/de)
+[^ingress-1]: GS [III A/2](https://gesetze.gl.ch/data/III-A.2/de); GOG vom 5. September 2021 Art. 48
 
 ## 1. Zivilprozess
 
@@ -98,12 +97,12 @@ verordnet:
 <sup>1</sup> Im Strafuntersuchungsverfahren betragen die Gebühren:
 
 - a. bei Erledigung ohne Untersuchungsverfahren:
-  - 1\. mit Nichtanhandnahmeverfügung: 50 bis 1000 Franken,
-  - 2\. mit Strafbefehl: 50 bis 1500 Franken;
+  - 1\. mit Nichtanhandnahmeverfügung: 200 bis 1000 Franken,
+  - 2\. mit Strafbefehl: 200 bis 1500 Franken;
 - b. bei Durchführung des Untersuchungsverfahrens:
-  - 1\. mit Einstellungsverfügung: 100 bis 40'000 Franken,
-  - 2\. mit Strafbefehl: 100 bis 40'000 Franken,
-  - 3\. mit Anklageerhebung: 100 bis 80'000 Franken.
+  - 1\. mit Einstellungsverfügung: 200 bis 40'000 Franken,
+  - 2\. mit Strafbefehl: 200 bis 40'000 Franken,
+  - 3\. mit Anklageerhebung: 200 bis 80'000 Franken.
 
 #### Art. 8
 
