@@ -3,20 +3,20 @@ canton: LU
 number: "37"
 title: Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-14
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2025-12-09
 adopted: 2003-05-06
 in_force: 2003-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/37"
-pdf: "https://srl.lu.ch/api/de/versions/4143/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4723/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen
 
-vom 06.05.2003 (Stand 01.01.2024)
+vom 06.05.2003 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -118,7 +118,7 @@ beschliesst:
 - h. Gesellschaftsfragen in den Bereichen Jugend, Alter, Familie, Gleichstellung und Integration , soweit nicht andere Departemente zuständig sind,
 - i. Sozialhilfe,
 - j. Asylwesen,
-- k. soziale Einrichtungen, soweit nicht andere Departemente zuständig sind,
+- k. soziale Einrichtungen und familienergänzende Kinderbetreuung, soweit nicht andere Departemente zuständig sind,
 - l. Opferhilfe,
 - m. Sozialversicherungen,
 - n. Arbeitsmarkt und Arbeitnehmerschutz.
