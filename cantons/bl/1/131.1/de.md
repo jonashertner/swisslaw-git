@@ -4,13 +4,12 @@ number: "131.1"
 title: Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Geschäftsordnung des Landrats
 language: de
-version: 2024-06-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-21
+version: 2026-01-01
+version_adopted: 2025-11-27
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131.1"
-pdf: "https://bl.clex.ch/api/de/versions/3914/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4367/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3914/pdf_file"
 
 (Geschäftsordnung des Landrats)
 
-Vom 21.11.1994 (Stand 01.06.2024)
+Vom 21.11.1994 (Stand 01.01.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -285,6 +284,10 @@ beschliesst:
 - b. …
 - c. den Mitgliedern der Geschäftsleitung auf deren Verlangen;
 - d. je einem Vertreter oder einer Vertreterin jener Parteien, die nicht Fraktionsgrösse erreichen, auf dessen oder deren Verlangen.
+
+<sup>1<sup>bis</sup></sup> Von den Kommissionssitzungen wird für die Protokollierung eine Tonaufzeichnung angefertigt. Die Tonaufzeichnung kann automatisch in ein Textformat transkribiert werden.
+
+<sup>1<sup>ter</sup></sup> Die Tonaufzeichnung ist zu keinem anderen Zweck zu verwenden und wird nach 90 Tagen gelöscht, ausser die Genehmigung des Protokolls liegt nicht vor. In diesem Fall erfolgt die Löschung der Tonaufzeichnung unmittelbar nach erfolgter Genehmigung des Protokolls.
 
 <sup>2</sup> Die übrigen Ratsmitglieder können die Protokolle jederzeit einsehen und im Einzelfall beziehen.
 
