@@ -3,20 +3,19 @@ canton: LU
 number: "61"
 title: Verordnung über die Prüfung der Grundbuchverwalterinnen und -verwalter und ihrer Stellvertretungen
 language: de
-version: 2013-06-01
-valid_until: 2025-12-31
-version_adopted: 2013-03-26
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/61"
-pdf: "https://srl.lu.ch/api/de/versions/2725/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4602/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Prüfung der Grundbuchverwalterinnen und -verwalter und ihrer Stellvertretungen
 
-vom 17.12.2010 (Stand 01.06.2013)
+vom 17.12.2010 (Stand 01.01.2026)
 
 Das Obergericht des Kantons Luzern,
 
@@ -64,7 +63,7 @@ beschliesst:
 - b. eine Bescheinigung der Handlungsfähigkeit,
 - c. ein Auszug aus dem Strafregister,
 - d. eine Bescheinigung, dass der Kandidat oder die Kandidatin in den letzten fünf Jahren keine Verlustscheine ausgestellt hat,
-- e. der Ausweis der kantonalen Gerichtskasse über die Bezahlung der Prüfungsgebühr.
+- e. der Ausweis des Finanz- und Rechnungswesens Gerichte (FRG) über die Bezahlung der Prüfungsgebühr.
 
 <sup>4</sup> Das Kantonsgericht kann weitere Abklärungen vornehmen.
 
