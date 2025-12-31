@@ -4,11 +4,11 @@ title: "Ordonnance du 13 avril 2005 sur le transfert international des biens cul
 short: OTBC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/318"
 language: fr
-version: 2017-07-01
+version: 2026-01-01
 adopted: 2005-04-13
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/318/20170701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-318-20170701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20170701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/318/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-318-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20170701/fr"
 
 (Ordonnance sur le transfert des biens culturels, OTBC)
 
-du 13 avril 2005 (État le 1<sup>er</sup> juillet 2017)
+du 13 avril 2005 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -39,22 +39,23 @@ Les termes ci-après sont définis comme suit:
 
   *description d’un bien culturel:*
 
-  - 1\. type d’objet, matériau, dimensions ou poids, sujet, et présence d’inscriptions, de marques ou de signes particuliers (tels que des dommages apparents ou des réparations),
+  - 1\.[^1-1] indications relatives au type d’objet, au matériau, aux dimensions ou au poids, au sujet, et à la présence d’inscriptions, de marques ou de signes particuliers tels que des dommages apparents ou des réparations, qui permettent d’identifier le bien,
   - 2\. époque ou date de création, créateur et titre, pour autant que ces données soient connues ou, à défaut, que leur établissement ne nécessite pas une dépense de moyens disproportionnée;
 
-- b. *origine ou provenance d’un bien culturel*: provenance du bien culturel et lieu de sa fabrication ou, s’il s’agit du produit de fouilles ou de découvertes archéologiques ou paléontologiques, de sa découverte;
-- c.[^1-1]
+- b.[^1-2] *origine:* provenance du bien culturel et lieu de sa fabrication ou, s’il s’agit du produit de fouilles ou de découvertes archéologiques ou paléontologiques, de sa découverte;
+- c.[^1-3]
 
   *institutions de la Confédération*:
 
   - 1\. le Musée national suisse, composé du Musée national de Zurich, du Château de Prangins, du Forum de l’histoire suisse à Schwyz et du Centre des collections d’Affoltern am Albis,
-  - 2\. la Bibliothèque nationale suisse, à laquelle sont rattachés les Archives littéraires suisses, le Cabinet des estampes et le Centre Dürrenmatt Neuchâtel,
-  - 3\. le Musée de la collection Oskar Reinhart «Am Römerholz» à Winterthour,
-  - 4\. le Museo Vela à Ligornetto,
-  - 5\. le Musée des automates à musique à Seewen,
-  - 6\. l’Ecole polytechnique fédérale de Zurich et ses collections,
+  - 2\.[^1-4] la Bibliothèque nationale suisse, à laquelle sont rattachés les Archives littéraires suisses, le Cabinet des estampes, le Centre Dürrenmatt à Neuchâtel et la Phonothèque nationale suisse à Lugano,
+  - 3\.[^1-5] la collection Oskar Reinhart «Am Römerholz» à Winterthour,
+  - 4\.[^1-6] le Museo Vincenzo Vela à Ligornetto,
+  - 5\.[^1-7] le Musée des automates à musique à Seewen (SO),
+  - 6\.[^1-8] l’École polytechnique fédérale de Zurich et ses collections et archives,
   - 7\. la collection d’art et de biens culturels de la Fondation Gottfried Keller,
-  - 8\. la collection d’art de la Confédération;
+  - 8\. la collection d’art de la Confédération,
+  - 9\.[^1-9] l’École Polytechnique fédérale de Lausanne et ses collections et archives;
 
 - d. *institution prêteuse:* institution publique ou privée prêtant des biens culturels ou tout prêteur particulier;
 - e.
@@ -71,12 +72,20 @@ Les termes ci-après sont définis comme suit:
 
   *événements extraordinaires*:
 
-  - 1\.[^1-2] conflits armés,
+  - 1\.[^1-10] conflits armés,
   - 2\. catastrophes naturelles,
-  - 3\. autres événements extraordinaires mettant en péril le patrimoine culturel d’un Etat.
+  - 3\. autres événements extraordinaires mettant en péril le patrimoine culturel d’un État.
 
-[^1-1]: Nouvelle teneur selon l’art. 10 de l’O du 21 mai 2014 sur l’inventaire fédéral des biens culturels, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1451](https://fedlex.data.admin.ch/eli/oc/2014/309)).
-[^1-2]: Nouvelle teneur selon le ch. II 1 de l’annexe à l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-3]: Nouvelle teneur selon l’art. 10 de l’O du 21 mai 2014 sur l’inventaire fédéral des biens culturels, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1451](https://fedlex.data.admin.ch/eli/oc/2014/309)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-6]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-7]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-8]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-9]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-10]: Nouvelle teneur selon le ch. II 1 de l’annexe à l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
 
 ## Section 2 Inventaires des biens culturels des cantons
 
@@ -86,9 +95,14 @@ Les termes ci-après sont définis comme suit:
 
 <sup>1</sup> Le contenu des inventaires cantonaux n’est pas intégré dans l’inventaire fédéral. Toutefois, les inventaires cantonaux peuvent être reliés à l’inventaire fédéral par un lien électronique. L’Office fédéral de la culture (OFC) règle les modalités en accord avec les cantons.
 
-<sup>2</sup> La Confédération s’assure que les inventaires cantonaux sont librement et gratuitement accessibles aux autorités et au public au moyen d’une procédure d’appel électronique (Internet).
+<sup>1bis</sup> L’OFC peut donner son accord à l’inscription dans l’inventaire cantonal de biens culturels appartenant à la Confédération et déposés à titre de prêt permanent dans une institution cantonale ou communale en Suisse, pour autant que l’inscription ne restreigne pas le droit de la Confédération à disposer du bien culturel.[^2-1]
+
+<sup>2</sup> La Confédération s’assure que les inventaires cantonaux sont librement et gratuitement accessibles aux autorités et au public au moyen d’une procédure d’appel électronique, pour autant que les inventaires cantonaux existent sous forme électronique.[^2-2]
 
 <sup>3</sup> Le contenu des inventaires est de la compétence des cantons.
+
+[^2-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## Section 3 Importation et exportation
 
@@ -153,7 +167,7 @@ La demande contient les informations suivantes:
 
 - a. le nom et l’adresse de l’institution prêteuse;
 - b. la description du bien culturel;
-- c. l’indication la plus précise possible de la provenance du bien culturel;
+- c.[^7-1] l’indication la plus précise possible de l’origine du bien culturel;
 - d. la date prévue de l’importation temporaire du bien culturel en Suisse;
 - e. la date prévue de l’exportation du bien culturel hors de Suisse;
 - f. la durée de l’exposition;
@@ -161,9 +175,16 @@ La demande contient les informations suivantes:
 
 <sup>3</sup> La demande est rédigée dans une langue officielle. Les informations visées à l’al. 2, let. b et c, doivent être fournies en forme électronique. Ces informations peuvent aussi être fournies en anglais.
 
-<sup>4</sup> Un extrait du contrat de prêt passé avec l’institution prêteuse est joint à la demande. Il fait ressortir sans équivoque que le bien culturel retournera dans l’Etat partie d’où il vient au terme de l’exposition pour laquelle il a été prêté, qu’il s’agisse d’une exposition en Suisse ou d’une exposition itinérante dans plusieurs pays.
+<sup>4</sup> Un contrat de prêt signé par toutes les parties est joint à la demande. Il fait ressortir sans équivoque que le bien culturel retournera dans l’État partie d’où il vient au terme de l’exposition pour laquelle il a été prêté, qu’il s’agisse d’une exposition en Suisse ou d’une exposition itinérante dans plusieurs pays.[^7-2]
 
-<sup>5</sup> Si les informations fournies sont lacunaires ou si l’extrait du contrat de prêt manque, le service spécialisé accorde un délai de 10 jours à l’institution bénéficiaire pour compléter le dossier. Il assortit ce délai de la menace de rejeter la demande sans la publier (art. 11, al. 2, LTBC) si les informations manquantes ou l’extrait du contrat de prêt ne sont pas fournis dans le délai imparti.
+<sup>5</sup> Si les informations fournies sont lacunaires ou si le contrat de prêt manque, le service spécialisé accorde un délai de dix jours à l’institution bénéficiaire pour compléter le dossier. Il assortit ce délai de la menace de rejeter la demande sans la publier (art. 11, al. 2, LTBC) si les informations manquantes ou le contrat de prêt ne sont pas fournis dans le délai imparti.[^7-3]
+
+<sup>6</sup> En cas de prolongation de l’exposition, une garantie de restitution qui a fait l’objet d’une décision entrée en force peut être prolongée une fois pour une durée maximale de quatre mois, sur demande écrite et à condition que l’exposition soit prolongée sans interruption. Pour que la garantie de restitution puisse être prolongée, l’institution bénéficiaire du prêt doit fournir au service spécialisé une confirmation de l’institution prêteuse concernant la prolongation de la durée du prêt.[^7-4]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-4]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## Section 5 Aides financières pour la préservation du patrimoine culturel
 
@@ -173,7 +194,7 @@ La demande contient les informations suivantes:
 
 ### (art. 14 LTBC)
 
-Les demandes d’aides financières pour préserver le patrimoine culturel d’autres Etats sont présentées au service spécialisé avant l’exécution des projets envisagés.
+Les demandes d’aides financières pour préserver le patrimoine culturel d’autres États sont présentées au service spécialisé avant l’exécution des projets envisagés.
 
 #### Art. 9
 
@@ -183,7 +204,9 @@ Les demandes d’aides financières pour préserver le patrimoine culturel d’a
 
 <sup>1</sup> L’OFC se prononce sur les demandes d’aides financières pour la garde en dépôt à titre fiduciaire et la conservation de biens culturels selon l’art. 14, al. 1, let. a, LTBC.
 
-<sup>2</sup> Les demandes d’aides financières pour des projets au sens de l’art. 14, al. 1, let. b, LTBC ou pour faciliter le retour du patrimoine culturel selon l’art. 14, al. 1, let. c, LTBC sont traitées par l’OFC, qui tranche en accord avec la Direction du développement et de la coopération et la Direction politique du Département fédéral des affaires étrangères.
+<sup>2</sup> Les demandes d’aides financières pour des projets au sens de l’art. 14, al. 1, let. b, LTBC ou pour faciliter le retour du patrimoine culturel selon l’art. 14, al. 1, let. c, LTBC sont traitées par l’OFC, qui tranche en accord avec la Direction du développement et de la coopération et le Secrétariat d’État du Département fédéral des affaires étrangères.[^9-1]
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 10
 
@@ -219,7 +242,7 @@ Les aides financières ne sont allouées qu’à des musées ou à des instituti
 
 ### (art. 14, al. 1, let. b, LTBC)
 
-<sup>1</sup> Les aides à des projets visant à conserver le patrimoine culturel dans d’autres Etats parties sont allouées sous la forme d’un montant forfaitaire unique s’élevant au maximum à 100 000 francs par projet. Ce montant peut être versé par tranches.
+<sup>1</sup> Les aides à des projets visant à conserver le patrimoine culturel dans d’autres États parties sont allouées sous la forme d’un montant forfaitaire unique s’élevant au maximum à 100 000 francs par projet. Ce montant peut être versé par tranches.
 
 <sup>2</sup> Dans des cas exceptionnels, le Conseil fédéral peut, sur demande du Département fédéral de l’intérieur, allouer un montant pouvant aller jusqu’à un million de francs.
 
@@ -229,11 +252,11 @@ Les aides financières ne sont allouées qu’à des musées ou à des instituti
 
 ### (art. 14, al. 1, let. c, LTBC)
 
-<sup>1</sup> Les aides financières destinées à faciliter le retour du patrimoine culturel d’un Etat partie sont exclusivement allouées à des autorités étatiques et à des organisations internationales.
+<sup>1</sup> Les aides financières destinées à faciliter le retour du patrimoine culturel d’un État partie sont exclusivement allouées à des autorités étatiques et à des organisations internationales.
 
 <sup>2</sup> Elles s’élèvent au maximum à 50 000 francs.
 
-<sup>3</sup> Elles ne sont allouées que si l’Etat partie fournit également une prestation, adaptée à sa capacité financière.
+<sup>3</sup> Elles ne sont allouées que si l’État partie fournit également une prestation, adaptée à sa capacité financière.
 
 <sup>4</sup>
 
@@ -249,15 +272,19 @@ Elles servent à couvrir:
 L’allocation d’aides financières est assortie des charges suivantes:
 
 - a. le patrimoine culturel est protégé selon les règles de l’art;
-- b. l’allocataire rend compte de l’utilisation de l’aide financière au service spécialisé;
+- b.[^14-1] l’allocataire rend compte de l’utilisation conforme de l’aide financière au service spécialisé;
 - c. l’allocataire rend public, de manière appropriée et proportionnée, le soutien accordé par la Confédération;
 - d. les biens culturels ayant été conservés, restaurés ou recouvrés grâce aux aides financières visées aux art. 12 et 13 ne peuvent être aliénés.
 
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
 #### Art. 15
 
-**Ordre de priorité**
+**Ordre de priorité**[^15-1]
 
-Si les aides financières demandées excèdent les ressources disponibles, le Département fédéral de l’intérieur établit, en collaboration avec le Département fédéral des affaires étrangères, un ordre de priorité pour l’appréciation des requêtes.
+Si les aides financières demandées excèdent les ressources disponibles, le Département fédéral de l’intérieur établit, en collaboration avec le Département fédéral des affaires étrangères, un ordre de priorité pour l’appréciation des requêtes, en tenant compte en particulier des risques qui pèsent à ce moment-là sur les biens culturels.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## Section 6 Transfert des biens culturels
 
@@ -279,12 +306,15 @@ Les art. 15 à 17 LTBC sont applicables:
 La dérogation prévue à l’al. 2 ne s’applique pas aux catégories suivantes de biens culturels:
 
 - a. produit de fouilles ou de découvertes archéologiques ou paléontologiques;
-- b. éléments provenant du démembrement de monuments artistiques ou historiques et de sites archéologiques;
-- c. objets ethnologiques, notamment ceux qui sont utilisés dans le cadre de rites sacrés ou profanes.
+- b.[^16-1] fragments de monuments historiques et objets provenant de sites archéologiques;
+- c.[^16-2] biens culturels ethnologiques, notamment ceux qui sont utilisés dans le cadre de rites sacrés ou profanes.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 17
 
-**Etablissement de l’identité**
+**Établissement de l’identité**
 
 ### (art. 15, al. 1, et 16, al. 2, let. c, LTBC)
 
@@ -295,17 +325,32 @@ Les institutions de la Confédération, les commerçants d’art et les personne
 - a. s’il s’agit de personnes physiques et de propriétaires d’entreprises individuelles, leurs nom, prénom, date de naissance, adresse domiciliaire et nationalité;
 - b. s’il s’agit de personnes morales et de sociétés de personnes, leur raison sociale et leur adresse domiciliaire.
 
-<sup>2</sup> Les informations sont vérifiées sur la base d’une pièce justificative, s’il existe des indices qui permettent de s’interroger sur l’exactitude des données fournies ou qui remettent en cause la relation de confiance établie lors de précédentes transactions.
+<sup>2</sup> Les informations sont vérifiées sur la base de pièces justificatives.[^17-1]
 
-<sup>3</sup> Il n’est pas nécessaire d’établir l’identité du vendeur ou du fournisseur si elle a déjà été établie à une autre occasion.
+<sup>3</sup> Il n’est pas nécessaire d’établir une nouvelle fois l’identité du vendeur ou du fournisseur si les documents ayant servi à l’établir sont toujours valables.[^17-2]
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 18
 
-**Droit de disposer du bien culturel**
+**Déclaration sur le droit de disposer du bien culturel**[^18-1]
 
 ### (art. 15, al. 1, et 16, al. 2, let. a, LTBC)
 
-Le vendeur et, le cas échéant, le fournisseur signent une déclaration par laquelle ils confirment qu’ils ont le droit de disposer du bien culturel.
+Le vendeur et, le cas échéant, le fournisseur signent une déclaration par laquelle ils confirment qu’ils ont le droit de disposer du bien culturel et qui indique qui est le propriétaire du bien culturel.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
+#### Art. 18a
+
+**Information des clients sur les règles d’importation et d’exportation en vigueur dans les États parties**[^18a-1]
+
+### (art. 16, al. 2, let. b, LTBC)
+
+Les informations doivent être transmises au client par écrit, et celui-ci doit confirmer, par sa signature, avoir pris connaissance du document.
+
+[^18a-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 19
 
@@ -318,13 +363,18 @@ Le vendeur et, le cas échéant, le fournisseur signent une déclaration par laq
 Les institutions de la Confédération, les commerçants d’art et les personnes pratiquant la vente aux enchères consignent les informations suivantes et conservent les documents concernés:
 
 - a. la description du bien culturel;
+- a<sup>bis</sup>.[^19-1] les photographies probantes du bien culturel;
 - b. l’origine du bien culturel, si elle est connue;
 - c. les données attestant l’identité selon l’art. 17;
 - d. la déclaration confirmant le droit de disposer du bien culturel selon l’art. 18;
+- d<sup>bis</sup>.[^19-2] le document signé par le client mentionné à l’art. 18*a*;
 - e. la date du transfert concerné;
 - f. le prix d’achat du bien culturel ou, dans le cas de transactions pour le compte de tiers, le prix d’estimation.
 
 <sup>2</sup> Les documents sont conservés de manière à pouvoir être présentés dans un délai raisonnable en cas de demandes d’informations ou de séquestre émanant des autorités.
+
+[^19-1]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^19-2]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 20
 
@@ -380,7 +430,7 @@ Le placement sous régime douanier est régi par la législation douanière.
 
 <sup>2</sup> Quiconque entend exporter hors de Suisse un bien culturel inscrit dans un inventaire cantonal au sens de l’art. 4, al. 1, LTBC doit obtenir une autorisation des autorités cantonales compétentes, pour autant qu’une telle autorisation soit exigée par la législation du canton concerné.
 
-<sup>3</sup> Quiconque importe en Suisse ou fait transiter par la Suisse des biens culturels faisant l’objet d’un accord conformément à l’art. 7 LTBC est tenu de prouver aux autorités douanières que les dispositions sur l’exportation en vigueur dans l’Etat partie étranger sont respectées. Si la réglementation de l’Etat partie étranger soumet l’exportation de tels biens culturels à autorisation, celle-ci doit être présentée aux autorités douanières.
+<sup>3</sup> Quiconque importe en Suisse ou fait transiter par la Suisse des biens culturels faisant l’objet d’un accord conformément à l’art. 7 LTBC est tenu de prouver aux autorités douanières que les dispositions sur l’exportation en vigueur dans l’État partie étranger sont respectées. Si la réglementation de l’État partie étranger soumet l’exportation de tels biens culturels à autorisation, celle-ci doit être présentée aux autorités douanières.
 
 #### Art. 25
 
@@ -393,15 +443,23 @@ Le placement sous régime douanier est régi par la législation douanière.
 Quiconque importe, fait transiter ou exporte un bien culturel est tenu, dans la déclaration en douane:[^25-2]
 
 - a. d’indiquer le type d’objet;
-- b. de fournir des informations aussi précises que possible sur le lieu de sa fabrication ou, s’il s’agit du produit de fouilles ou de découvertes archéologiques ou paléontologiques, sur le lieu de sa découverte.
+- b. de fournir des informations aussi précises que possible sur le lieu de sa fabrication ou, s’il s’agit du produit de fouilles ou de découvertes archéologiques ou paléontologiques, sur le lieu de sa découverte;
+- c.[^25-3] d’indiquer la datation du bien culturel;
+- d.[^25-4] d’indiquer les dimensions du bien culturel.
 
-<sup>2</sup> Quiconque importe ou fait transiter un bien culturel est tenu d’indiquer dans la déclaration en douane si l’exportation du bien culturel hors d’un Etat partie est soumise à autorisation selon la législation de cet Etat.[^25-3]
+<sup>2</sup> Quiconque importe, fait transiter ou exporte un bien culturel est tenu d’indiquer dans la déclaration en douane qu’il s’agit d’un bien culturel et de préciser si l’obtention d’une autorisation au sens de l’art. 24 est nécessaire.[^25-5]
 
-<sup>3</sup> Si l’importation, le transit ou l’exportation d’un bien culturel sont soumis à autorisation conformément à l’art. 24, celle-ci doit être présentée aux autorités douanières.
+<sup>3</sup> Lors d’envois groupés, les indications visées à l’al. 1 doivent être fournies pour chaque bien culturel faisant partie de l’envoi groupé.[^25-6]
+
+<sup>4</sup> Les autorités douanières rejettent les déclarations incomplètes.[^25-7]
 
 [^25-1]: Nouvelle teneur selon le ch. 7 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^25-2]: Nouvelle teneur selon le ch. 7 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^25-3]: Nouvelle teneur selon le ch. 7 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^25-3]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-4]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-5]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-6]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-7]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 26
 
@@ -416,15 +474,19 @@ Quiconque importe, fait transiter ou exporte un bien culturel est tenu, dans la 
 
 ## Section 9 Confiscation de biens culturels et de valeurs
 
-### (art. 28 LTBC)
-
 #### Art. 27
 
-<sup>1</sup> Les biens culturels confisqués sont remis à leur Etat d’origine.
+**Remise de biens culturels confisqués**
+
+### (art. 28 LTBC)
+
+[^27-1]
+
+<sup>1</sup> Les biens culturels confisqués sont remis à leur État d’origine.
 
 <sup>2</sup> L’OFC statue sur la remise des biens culturels. Il peut différer l’exécution de la remise jusqu’à ce que le bien culturel ne soit plus mis en danger par cette remise.
 
-<sup>3</sup> Les biens culturels confisqués sont déposés au Musée national suisse ou dans une autre institution appropriée jusqu’au moment de leur remise. L’OFC décide du lieu de dépôt.
+<sup>3</sup> Les biens culturels confisqués sont déposés dans un lieu d’entreposage approprié désigné par l’OFC jusqu’au moment de leur remise.[^27-2]
 
 <sup>4</sup>
 
@@ -432,6 +494,24 @@ L’OFC affecte les valeurs confisquées:
 
 - a. à l’octroi des aides financières visées à l’art. 14 LTBC;
 - b. aux frais de garde en dépôt à titre fiduciaire et de remise des biens culturels.
+
+[^27-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
+#### Art. 27a
+
+**Exceptions à la remise**[^27a-1]
+
+<sup>1</sup>
+
+Si la remise d’un bien culturel confisqué à son État d’origine est impossible, soit parce que celui-ci ne la souhaite pas, soit parce que le bien culturel ne peut pas être attribué à un État, le bien peut être:
+
+- a. remis à une institution compétente à des fins de recherche ou de formation continue, ou
+- b. détruit de manière contrôlée, si cette mesure se justifie en raison de la faible importance ou de l’état de détérioration avancé du bien concerné.
+
+<sup>2</sup> L’OFC établit à cet effet une stratégie, qu’il soumet à l’approbation du Département fédéral de l’intérieur.
+
+[^27a-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## Section 10 Dispositions finales
 

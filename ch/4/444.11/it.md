@@ -4,11 +4,11 @@ title: "Ordinanza del 13 aprile 2005 sul trasferimento internazionale dei beni c
 short: OTBC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/318"
 language: it
-version: 2017-07-01
+version: 2026-01-01
 adopted: 2005-04-13
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/318/20170701/it/xml/fedlex-data-admin-ch-eli-cc-2005-318-20170701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20170701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/318/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2005-318-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20170701/it"
 
 (Ordinanza sul trasferimento dei beni culturali, OTBC)
 
-del 13 aprile 2005 (Stato 1° luglio 2017)
+del 13 aprile 2005 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -39,22 +39,23 @@ S’intendono per:
 
   *descrizione di un bene culturale*:
 
-  - 1\. tipo di oggetto, materiale, dimensione o peso, soggetto, iscrizione, contrassegno e caratteristiche particolari (segnatamente danni e restauri) di un bene culturale,
+  - 1\.[^1-1] indicazioni del tipo di oggetto, del materiale, delle dimensioni o del peso, del soggetto, dell’iscrizione, del contrassegno e delle caratteristiche particolari (segnatamente danni e restauri) di un bene culturale, sulla base delle quali è possibile identificare l’oggetto,
   - 2\. epoca o data di creazione, autore e titolo, per quanto questi dati siano noti o possano essere accertati con un dispendio di mezzi ragionevole;
 
-- b. *origine o* *provenienza di un bene culturale*: provenienza di un bene culturale e luogo di produzione o, nel caso di risultati di scavi o scoperte archeologici o paleontologici, luogo di ritrovamento;
-- c.[^1-1]
+- b.[^1-2] *origine:* provenienza di un bene culturale e luogo di produzione o, nel caso di risultati di scavi o scoperte archeologici o paleontologici, luogo di ritrovamento;
+- c.[^1-3]
 
   *istituzioni della Confederazione:*
 
   - 1\. il Museo nazionale svizzero costituito dal Museo nazionale di Zurigo, dal Castello di Prangins, dal Forum della storia svizzera di Svitto e dal Centro delle collezioni di Affoltern am Albis,
-  - 2\. la Biblioteca nazionale svizzera con l’Archivio svizzero di letteratura, il Gabinetto delle stampe e il Centro Dürrenmatt di Neuchâtel,
-  - 3\. il museo della collezione Oskar Reinhart «Am Römerholz» di Winterthur,
-  - 4\. il Museo Vela di Ligornetto,
-  - 5\. il Museo degli automi musicali di Seewen,
-  - 6\. il Politecnico federale di Zurigo con le sue collezioni,
+  - 2\.[^1-4] la Biblioteca nazionale svizzera con l’Archivio svizzero di letteratura, il Gabinetto delle stampe, il Centro Dürrenmatt di Neuchâtel e la Fonoteca nazionale svizzera di Lugano,
+  - 3\.[^1-5] la collezione Oskar Reinhart «Am Römerholz» di Winterthur,
+  - 4\.[^1-6] il Museo Vincenzo Vela di Ligornetto,
+  - 5\.[^1-7] il Museo degli automi musicali di Seewen (SO),
+  - 6\.[^1-8] il Politecnico federale di Zurigo con le sue collezioni e archivi,
   - 7\. la collezione d’arte e di beni culturali della Fondazione federale Gottfried Keller,
-  - 8\. la Collezione d’arte della Confederazione;
+  - 8\. la Collezione d’arte della Confederazione,
+  - 9\.[^1-9] il Politecnico federale di Losanna con le sue collezioni e archivi;
 
 - d. *istituzione che dà in prestito un bene culturale*: istituzione pubblica o privata e persone private che prestano beni culturali;
 - e.
@@ -71,12 +72,20 @@ S’intendono per:
 
   *eventi straordinari*:
 
-  - 1\.[^1-2] conflitti armati,
+  - 1\.[^1-10] conflitti armati,
   - 2\. catastrofi naturali,
   - 3\. altri eventi straordinari che minacciano il patrimonio culturale di uno Stato.
 
-[^1-1]: Nuovo testo giusta l’art. 10 dell’O del 21 mag. 2014 sull’Elenco federale dei beni culturali, in vigore dal 1° lug. 2014 ([RU 2014 1451](https://fedlex.data.admin.ch/eli/oc/2014/309)).
-[^1-2]: Nuovo testo giusta il n. II 1 dell’all. all’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza, in vigore dal 1° gen. 2015 ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-3]: Nuovo testo giusta l’art. 10 dell’O del 21 mag. 2014 sull’Elenco federale dei beni culturali, in vigore dal 1° lug. 2014 ([RU 2014 1451](https://fedlex.data.admin.ch/eli/oc/2014/309)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-5]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-6]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-7]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-8]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-9]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-10]: Nuovo testo giusta la cifra II n. 1 dell’all. all’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza, in vigore dal 1° gen. 2015 ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
 
 ## Sezione 2: Elenchi dei beni culturali dei Cantoni
 
@@ -86,9 +95,14 @@ S’intendono per:
 
 <sup>1</sup> Il contenuto degli elenchi cantonali non è integrato nell’Elenco federale. L’allacciamento all’Elenco federale è assicurato mediante collegamento ipertestuale. L’Ufficio federale della cultura (UFC) disciplina le modalità dell’allacciamento d’intesa con i Cantoni.
 
-<sup>2</sup> La Confederazione garantisce alle autorità e al pubblico l’accesso illimitato e gratuito agli elenchi cantonali mediante procedure elettroniche di richiamo (Internet).
+1<sup>bis</sup> Per i beni culturali di proprietà della Confederazione concessi in prestito permanente a un’istituzione cantonale o comunale in Svizzera, l’UFC può dare il proprio consenso all’iscrizione nell’elenco del relativo Cantone, a condizione che l’iscrizione non limiti il diritto di disporre del bene culturale da parte della Confederazione.[^2-1]
+
+<sup>2</sup> La Confederazione garantisce alle autorità e al pubblico l’accesso illimitato e gratuito agli elenchi cantonali mediante procedure elettroniche di richiamo, purché gli elenchi cantonali esistano in formato elettronico.[^2-2]
 
 <sup>3</sup> I Cantoni sono responsabili del contenuto degli elenchi.
+
+[^2-1]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## Sezione 3: Importazione ed esportazione
 
@@ -153,7 +167,7 @@ La richiesta deve indicare:
 
 - a. il nome e l’indirizzo dell’istituzione che dà in prestito il bene culturale;
 - b. la descrizione del bene culturale;
-- c. la provenienza del bene culturale, nel modo più esatto possibile;
+- c.[^7-1] l’origine del bene culturale, nel modo più esatto possibile;
 - d. la data prevista per l’importazione temporanea del bene culturale in Svizzera;
 - e. la data prevista per l’esportazione del bene culturale dalla Svizzera;
 - f. la durata dell’esposizione;
@@ -161,9 +175,16 @@ La richiesta deve indicare:
 
 <sup>3</sup> La richiesta deve essere presentata in una lingua ufficiale. Le informazioni di cui al capoverso 2 lettere b e c devono essere trasmesse in forma elettronica. Le stesse possono essere fornite anche in inglese.
 
-<sup>4</sup> Alla richiesta deve essere allegato un estratto del contratto di prestito con l’istituzione che dà in prestito il bene culturale. Nell’estratto deve essere specificato che, al termine dell’esposizione in Svizzera o di una mostra itinerante attraverso più Paesi, il bene culturale è restituito allo Stato contraente che l’ha dato in prestito.
+<sup>4</sup> Alla richiesta deve essere allegato il contratto di prestito con le firme di tutte le parti. Nel contratto di prestito deve essere specificato che, al termine dell’esposizione in Svizzera o di una mostra itinerante attraverso più Paesi, il bene culturale è restituito allo Stato contraente che l’ha dato in prestito.[^7-2]
 
-<sup>5</sup> Se le indicazioni contenute nella richiesta sono lacunose o se manca l’estratto del contratto di prestito, il Servizio specializzato accorda all’istituzione che riceve in prestito beni culturali un termine di 10 giorni per conformarsi. Il termine è accompagnato dall’avvertenza che in caso di mancata completazione delle indicazioni richieste entro il termine stabilito o di mancata presentazione dell’estratto del contratto di prestito la domanda sarà respinta senza essere pubblicata (art. 11 cpv. 2 LTBC).
+<sup>5</sup> Se le indicazioni contenute nella richiesta sono lacunose o se manca il contratto di prestito, il Servizio specializzato accorda all’istituzione che riceve in prestito beni culturali un termine di dieci giorni per conformarsi. Il termine è accompagnato dall’avvertenza che in caso di mancato completamento delle indicazioni richieste entro il termine stabilito o di mancata presentazione del contratto di prestito la domanda sarà respinta senza essere pubblicata (art. 11 cpv. 2 LTBC).[^7-3]
+
+<sup>6</sup> In caso di prolungamento della durata di un’esposizione, una garanzia di restituzione legalmente valida può, dietro richiesta scritta, essere prolungata una volta di al massimo quattro mesi, a condizione che l’esposizione prosegua senza interruzioni. Per il prolungamento della garanzia di restituzione, l’istituzione che riceve in prestito il bene culturale deve presentare al Servizio specializzato una conferma del prolungamento della durata del prestito rilasciata dall’istituzione che dà in prestito il bene culturale.[^7-4]
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-4]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## Sezione 5: Aiuti finanziari a favore del mantenimento del patrimonio culturale
 
@@ -183,7 +204,9 @@ Le domande di aiuti finanziari a favore del mantenimento del patrimonio cultural
 
 <sup>1</sup> In merito alle domande di aiuti finanziari per la custodia di beni culturali a titolo fiduciario e per la cura conservativa ai sensi dell’articolo 14 capoverso 1 lettera a LTBC decide l’UFC.
 
-<sup>2</sup> In merito a domande di aiuti finanziari per progetti ai sensi dell’articolo 14 capoverso 1 lettera b LTBC e per facilitare il rimpatrio del patrimonio culturale ai sensi dell’articolo 14 capoverso 1 lettera c LTBC, l’UFC decide d’intesa con la Direzione dello sviluppo e della cooperazione e della Direzione politica del Dipartimento federale degli affari esteri.
+<sup>2</sup> In merito a domande di aiuti finanziari per progetti ai sensi dell’articolo 14 capoverso 1 lettera b LTBC e per facilitare il rimpatrio del patrimonio culturale ai sensi dell’articolo 14 capoverso 1 lettera c LTBC, l’UFC decide d’intesa con la Direzione dello sviluppo e della cooperazione e con la Segreteria di Stato del Dipartimento federale degli affari esteri.[^9-1]
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 10
 
@@ -249,15 +272,19 @@ Essi servono a coprire:
 La concessione di aiuti finanziari è vincolata alle condizioni seguenti:
 
 - a. il patrimonio culturale deve essere protetto secondo le regole dell’arte;
-- b. il beneficiario del contributo deve rendere conto al Servizio specializzato di come utilizza l’aiuto finanziario;
+- b.[^14-1] il beneficiario del contributo deve rendere conto al Servizio specializzato in merito all’impiego conforme allo scopo dell’aiuto finanziario;
 - c. il beneficiario del contributo deve rendere pubblico il sostegno ricevuto dalla Confederazione, in modo adeguato e appropriato;
 - d. i beni culturali mantenuti, restaurati o rimpatriati grazie ad aiuti finanziari secondo gli articoli 12 e 13 non possono essere venduti.
 
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
 #### Art. 15
 
-**Ordine di priorità**
+**Ordine di priorità**[^15-1]
 
-Se gli aiuti finanziari richiesti superano i mezzi a disposizione, il Dipartimento federale dell’interno, in collaborazione con il Dipartimento federale degli affari esteri, stabilisce un ordine di priorità per la valutazione delle domande.
+Se gli aiuti finanziari richiesti superano i mezzi a disposizione, il Dipartimento federale dell’interno, in collaborazione con il Dipartimento federale degli affari esteri, stabilisce per la valutazione delle domande un ordine di priorità che tenga conto in particolare dell’attuale situazione di rischio per i beni culturali.
+
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## Sezione 6: Trasferimento di beni culturali
 
@@ -279,8 +306,11 @@ Gli articoli 15–17 LTBC si applicano:
 L’eccezione di cui al capoverso 2 non si applica al commercio di beni culturali delle categorie seguenti:
 
 - a. prodotti di scavi o scoperte archeologici o paleontologici;
-- b. elementi provenienti dallo smembramento di monumenti artistici o storici e da luoghi archeologici;
-- c. oggetti di natura etnologica, in particolare connessi con riti sacri o profani.
+- b.[^16-1] frammenti di monumenti storici e reperti archeologici;
+- c.[^16-2] beni culturali di natura etnologica, in particolare connessi con riti sacri o profani.
+
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 17
 
@@ -295,17 +325,32 @@ Al fine di accertare l’identità del venditore o del fornitore, le istituzioni
 - a. per le persone fisiche e i titolari di imprese individuali: cognome, nome, data di nascita, indirizzo del domicilio e cittadinanza;
 - b. per le persone giuridiche e le società di persone: ditta e indirizzo della sede.
 
-<sup>2</sup> Qualora vi siano indizi che facciano sorgere dubbi sulla correttezza delle indicazioni fornite o che mettano in discussione il rapporto di fiducia instauratosi nel corso di precedenti transazioni, i dati devono essere verificati sulla base di un documento comprovante l’identità.
+<sup>2</sup> I dati devono essere verificati sulla base di documenti comprovanti l’identità.[^17-1]
 
-<sup>3</sup> Non è necessario procedere all’accertamento dell’identità se essa è già stata verificata in precedenza.
+<sup>3</sup> Non è necessario procedere nuovamente all’accertamento dell’identità se i documenti utilizzati per comprovarla sono ancora attuali.[^17-2]
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 18
 
-**Diritto di disporre del bene culturale**
+**Dichiarazione concernente il diritto di disporre del bene culturale**[^18-1]
 
 ### (art. 15 cpv. 1 e 16 cpv. 2 lett. a LTBC)
 
-Il venditore ed eventualmente il fornitore firmano una dichiarazione che confermi il diritto di disporre del bene culturale.
+Il venditore ed eventualmente il fornitore devono firmare una dichiarazione che confermi il loro diritto di disporre del bene culturale e ne indichi il proprietario.
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
+#### Art. 18a
+
+**Informazione della clientela in merito alle norme d’importazione e d’esportazione vigenti negli Stati contraenti**[^18a-1]
+
+### (art. 16 cpv. 2 lett. b LTBC)
+
+La clientela deve essere informata per scritto in merito alle norme d’importazione e d’esportazione vigenti negli Stati contraenti e tale informativa deve essere confermata dalla clientela mediante firma.
+
+[^18a-1]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 19
 
@@ -318,13 +363,18 @@ Il venditore ed eventualmente il fornitore firmano una dichiarazione che conferm
 Le istituzioni della Confederazione e le persone operanti nel commercio d’arte e nelle aste pubbliche registrano le indicazioni seguenti, conservando i relativi documenti:
 
 - a. la descrizione del bene culturale;
+- a<sup>bis</sup>.[^19-1] fotografie rappresentative del bene culturale;
 - b. l’origine del bene culturale, se è nota;
 - c. indicazioni sull’identità secondo l’articolo 17;
 - d. la dichiarazione che conferma il diritto di disporre del bene culturale secondo l’articolo 18;
+- d<sup>bis</sup>.[^19-2] il documento firmato dalla clientela secondo l’articolo 18*a*;
 - e. la data del trasferimento attuale del bene culturale;
 - f. il prezzo d’acquisto o, in caso di transazioni per conto di terzi, il prezzo di stima del bene culturale.
 
 <sup>2</sup> I documenti sono conservati in modo tale da potere essere presentati entro un termine ragionevole in caso di richiesta d’informazioni o di domanda di sequestro presentata dalle autorità.
+
+[^19-1]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^19-2]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 20
 
@@ -358,7 +408,7 @@ Le istituzioni della Confederazione e le persone operanti nel commercio d’arte
 
 <sup>2</sup> ...[^22-1]
 
-[^22-1]: Abrogato dal n. I dell’O del 2 giu. 2017, con effetto dal 1° lug. 2017 ([RU 2017 3475](https://fedlex.data.admin.ch/eli/oc/2017/377)).
+[^22-1]: Abrogato dalla cifra I dell’O del 2 giu. 2017, con effetto dal 1° lug. 2017 ([RU 2017 3475](https://fedlex.data.admin.ch/eli/oc/2017/377)).
 
 ## Sezione 8: Procedura d’imposizione doganale
 
@@ -394,16 +444,25 @@ L’imposizione doganale si svolge secondo le disposizioni della legislazione do
 
 <sup>1</sup>
 
-Chi intende importare, fare transitare o esportare beni culturali deve fornire nella dichiarazione doganale:
+Chi intende importare, fare transitare o esportare un bene culturale deve fornire nella dichiarazione doganale:[^25-1]
 
 - a. indicazioni sul tipo di bene culturale;
-- b. dati il più possibile precisi sul luogo di produzione o, nel caso di risultati di scavi o scoperte archeologici o paleontologici, sul luogo di ritrovamento del bene culturale.
+- b. dati il più possibile precisi sul luogo di produzione o, nel caso di risultati di scavi o scoperte archeologici o paleontologici, sul luogo di ritrovamento del bene culturale;
+- c.[^25-2] la datazione del bene culturale;
+- d.[^25-3] l’indicazione delle dimensioni del bene culturale.
 
-<sup>2</sup> Chi intende importare o fare transitare un bene culturale deve indicare nella dichiarazione doganale se l’esportazione del bene culturale da uno Stato contraente è soggetta ad autorizzazione secondo la legislazione di tale Stato.[^25-1]
+<sup>2</sup> Chi intende importare, fare transitare o esportare un bene culturale deve indicare nella dichiarazione doganale che si tratta di un bene culturale e se questo è soggetto ad autorizzazione ai sensi dell’articolo 24.[^25-4]
 
-<sup>3</sup> Alle autorità doganali deve essere presentata l’autorizzazione eventualmente necessaria ai sensi dell’articolo 24 per l’importazione, il transito o l’esportazione di un bene culturale.
+<sup>3</sup> Se la spedizione comprende più beni culturali, le indicazioni di cui al capoverso 1 devono essere fornite per ciascun bene.[^25-5]
 
-[^25-1]: Nuovo testo giusta il n. 7 dell’all. 9 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+<sup>4</sup> Le dichiarazioni doganali incomplete vengono rifiutate dalle autorità doganali.[^25-6]
+
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-2]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-3]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-5]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-6]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 26
 
@@ -422,11 +481,17 @@ Chi intende importare, fare transitare o esportare beni culturali deve fornire n
 
 #### Art. 27
 
+**Rimpatrio di beni culturali confiscati**
+
+### (art. 28 LTBC)
+
+[^27-1]
+
 <sup>1</sup> I beni culturali confiscati devono essere riportati nello Stato d’origine.
 
 <sup>2</sup> L’UFC decide sul rimpatrio. Può differire l’esecuzione del rimpatrio fino a quando quest’ultimo non rappresenti più un pericolo per il bene culturale.
 
-<sup>3</sup> Fino al momento del rimpatrio i beni culturali confiscati sono conservati al Museo nazionale svizzero o in un’altra istituzione adeguata. L’UFC decide in quale luogo debbano essere conservati.
+<sup>3</sup> Fino al momento del rimpatrio i beni culturali confiscati sono conservati in un luogo adeguato stabilito dall’UFC.[^27-2]
 
 <sup>4</sup>
 
@@ -434,6 +499,24 @@ I valori patrimoniali confiscati sono impiegati dall’UFC per:
 
 - a. la concessione di aiuti finanziari secondo l’articolo 14 LTBC;
 - b. la copertura delle spese legate alla custodia a titolo fiduciario e al rimpatrio dei beni culturali.
+
+[^27-1]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
+#### Art. 27a
+
+**Deroghe al rimpatrio**[^27a-1]
+
+<sup>1</sup>
+
+Se non è possibile rimpatriare i beni culturali nello Stato d’origine, poiché quest’ultimo non li desidera o perché non si è in grado di assegnarli a uno Stato, i beni confiscati possono essere:
+
+- a. consegnati a istituzioni idonee a scopo di ricerca o di formazione continua; oppure
+- b. distrutti in modo controllato, se ciò è giustificato dalla loro scarsa importanza o dall’avanzato stato di deterioramento.
+
+<sup>2</sup> A tale proposito, l’UFC elabora un piano che deve essere approvato dal Dipartimento federale dell’interno.
+
+[^27a-1]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## Sezione 10: Disposizioni finali
 

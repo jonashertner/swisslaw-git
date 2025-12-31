@@ -4,11 +4,11 @@ title: "Verordnung vom 13. April 2005 über den internationalen Kulturgütertran
 short: KGTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/318"
 language: de
-version: 2017-07-01
+version: 2026-01-01
 adopted: 2005-04-13
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/318/20170701/de/xml/fedlex-data-admin-ch-eli-cc-2005-318-20170701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20170701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/318/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2005-318-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/318/20170701/de"
 
 (Kulturgütertransferverordnung, KGTV)
 
-vom 13. April 2005 (Stand am 1. Juli 2017)
+vom 13. April 2005 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -39,22 +39,23 @@ Die folgenden Ausdrücke bedeuten:
 
   *Beschreibung eines Kulturguts*:
 
-  - 1\. Objekttyp, Material, Masse bzw. Gewicht, Motiv, Inschrift, Markierung und besondere Merkmale (namentlich Schäden und Reparaturen) eines Kulturguts,
+  - 1\.[^1-1] Angaben zu Objekttyp, Material, Masse bzw. Gewicht, Motiv, Inschrift, Markierung und besonderen Merkmalen, namentlich Schäden und Reparaturen, eines Kulturguts, anhand derer das Objekt identifiziert werden kann,
   - 2\. Epoche oder Kreationsdatum, Urheber oder Urheberin sowie Titel eines Kulturguts, soweit diese Angaben bekannt sind oder mit vertretbarem Aufwand festgestellt werden können;
 
-- b. *Ursprung beziehungsweise Herkunft eines Kulturguts*: Herkunft eines Kulturguts sowie Herstellungsort oder, wenn es sich um ein Ergebnis archäologischer oder paläontologischer Ausgrabungen oder Entdeckungen handelt, Fundort eines Kulturguts;
-- c.[^1-1]
+- b.[^1-2] *Ursprung:* Herkunft eines Kulturgutes sowie Herstellungsort oder, wenn es sich um ein Ergebnis archäologischer oder paläontologischer Ausgrabungen oder Entdeckungen handelt, Fundort eines Kulturguts;
+- c.[^1-3]
 
   *Institutionen des Bundes*:
 
   - 1\. Schweizerisches Nationalmuseum mit dem Landesmuseum Zürich, dem Schloss Prangins, dem Forum der Schweizer Geschichte Schwyz und dem Sammlungszentrum Affoltern am Albis,
-  - 2\. Schweizerische Nationalbibliothek mit dem Schweizerischen Literaturarchiv, der Graphischen Sammlung und dem Centre Dürrenmatt in Neuenburg,
-  - 3\. Museum der Sammlung Oskar Reinhart «Am Römerholz» in Winterthur,
-  - 4\. Museo Vela in Ligornetto,
-  - 5\. Museum für Musikautomaten in Seewen,
-  - 6\. Eidgenössische Technische Hochschule in Zürich und ihre Sammlungen,
+  - 2\.[^1-4] Schweizerische Nationalbibliothek mit dem Schweizerischen Literaturarchiv, der Graphischen Sammlung, dem Centre Dürrenmatt in Neuenburg und der Schweizerischen Nationalphonothek in Lugano,
+  - 3\.[^1-5] Sammlung Oskar Reinhart «Am Römerholz» in Winterthur,
+  - 4\.[^1-6] Museo Vincenzo Vela in Ligornetto,
+  - 5\.[^1-7] Museum für Musikautomaten in Seewen (SO),
+  - 6\.[^1-8] Eidgenössische Technische Hochschule Zürich und ihre Sammlungen und Archive,
   - 7\. Kunst- und Kulturgütersammlung der Gottfried-Keller-Stiftung,
-  - 8\. Bundeskunstsammlung;
+  - 8\. Bundeskunstsammlung,
+  - 9\.[^1-9] Eidgenössische Technische Hochschule Lausanne und ihre Sammlungen und Archive;
 
 - d. *leihgebende Institution*: sowohl öffentliche oder private Institution, die Kulturgüter ausleiht, als auch private Leihgeberin oder privater Leihgeber;
 - e.
@@ -71,12 +72,20 @@ Die folgenden Ausdrücke bedeuten:
 
   *ausserordentliche Ereignisse*:
 
-  - 1\.[^1-2] bewaffnete Konflikte,
+  - 1\.[^1-10] bewaffnete Konflikte,
   - 2\. Naturkatastrophen,
   - 3\. andere ausserordentliche Ereignisse, die das kulturelle Erbe eines Staates gefährden.
 
-[^1-1]: Fassung gemäss Art. 10 der V vom 21. Mai 2014 über das Kulturgüterverzeichnis des Bundes, in Kraft seit 1. Juli 2014 ([AS 2014 1451](https://fedlex.data.admin.ch/eli/oc/2014/309)).
-[^1-2]: Fassung gemäss Anhang Ziff. II 1 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen, in Kraft seit 1. Jan. 2015 ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-3]: Fassung gemäss Art. 10 der V vom 21. Mai 2014 über das Kulturgüterverzeichnis des Bundes, in Kraft seit 1. Juli 2014 ([AS 2014 1451](https://fedlex.data.admin.ch/eli/oc/2014/309)).
+[^1-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-5]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-6]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-7]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-8]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-9]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^1-10]: Fassung gemäss Anhang Ziff. II 1 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen, in Kraft seit 1. Jan. 2015 ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
 
 ## 2. Abschnitt: Kulturgüterverzeichnisse der Kantone
 
@@ -86,9 +95,14 @@ Die folgenden Ausdrücke bedeuten:
 
 <sup>1</sup> Der Inhalt der kantonalen Verzeichnisse wird nicht in das Bundesverzeichnis integriert. Die Verbindung mit dem Bundesverzeichnis erfolgt durch einen Link. Das Bundesamt für Kultur (BAK) regelt die Modalitäten der Verbindung im Einvernehmen mit den Kantonen.
 
-<sup>2</sup> Der Bund stellt sicher, dass die kantonalen Verzeichnisse den Behörden und der Öffentlichkeit mittels elektronischem Abrufverfahren (Internet) uneingeschränkt und unentgeltlich zugänglich sind.
+<sup>1bis</sup> Das BAK kann bei Kulturgütern im Eigentum des Bundes, welche sich in Dauerleihgabe in einer kantonalen oder kommunalen Institution in der Schweiz befinden, sein Einverständnis zur Eintragung in das kantonale Verzeichnis geben, sofern die Eintragung die Verfügungsberechtigung des Bundes über das Kulturgut nicht einschränkt.[^2-1]
+
+<sup>2</sup> Der Bund stellt sicher, dass die kantonalen Verzeichnisse den Behörden und der Öffentlichkeit mittels elektronischem Abrufverfahren uneingeschränkt und unentgeltlich zugänglich sind, sofern die kantonalen Verzeichnisse in elektronischer Form vorliegen.[^2-2]
 
 <sup>3</sup> Für den Inhalt der Verzeichnisse sind die Kantone verantwortlich.
+
+[^2-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## 3. Abschnitt: Ein- und Ausfuhr
 
@@ -153,7 +167,7 @@ Der Antrag muss folgende Angaben enthalten:
 
 - a. den Namen und die Adresse der leihgebenden Institution;
 - b. die Beschreibung des Kulturguts;
-- c. die möglichst genaue Herkunft des Kulturguts;
+- c.[^7-1] den möglichst genauen Ursprung des Kulturguts;
 - d. den beabsichtigten Zeitpunkt der vorübergehenden Einfuhr des Kulturguts in die Schweiz;
 - e. den beabsichtigten Zeitpunkt der Ausfuhr des Kulturguts aus der Schweiz;
 - f. die Dauer der Ausstellung;
@@ -161,9 +175,16 @@ Der Antrag muss folgende Angaben enthalten:
 
 <sup>3</sup> Der Antrag ist in einer Amtssprache einzureichen. Die Angaben nach Absatz 2 Buchstaben b und c sind in elektronischer Form einzureichen. Diese Angaben können auch in englischer Sprache eingereicht werden.
 
-<sup>4</sup> Dem Antrag ist ein Auszug aus dem Leihvertrag mit der leihgebenden Institution beizulegen. Aus dem Auszug muss hervorgehen, dass das Kulturgut nach Abschluss der Ausstellung in der Schweiz oder nach Abschluss einer Wanderausstellung durch mehrere Länder in den Vertragsstaat zurückkehrt, aus dem es entliehen worden ist.
+<sup>4</sup> Dem Antrag ist ein von sämtlichen Parteien unterzeichneter Leihvertrag beizulegen. Aus dem Leihvertrag muss hervorgehen, dass das Kulturgut nach Abschluss der Ausstellung in der Schweiz oder nach Abschluss einer Wanderausstellung durch mehrere Länder in den Vertragsstaat zurückkehrt, aus dem es entliehen worden ist.[^7-2]
 
-<sup>5</sup> Sind die Angaben im Antrag lückenhaft oder fehlt der Auszug aus dem Leihvertrag, so räumt die Fachstelle der leihnehmenden Institution eine Frist von 10 Tagen zur Verbesserung ein. Sie verbindet diese Frist mit der Androhung, den Antrag abzuweisen, ohne ihn zu veröffentlichen (Art. 11 Abs. 2 KGTG), sofern die Angaben im Antrag nicht innert Frist vervollständigt werden oder der Auszug aus dem Leihvertrag nicht nachgereicht wird.
+<sup>5</sup> Sind die Angaben im Antrag lückenhaft oder fehlt der Leihvertrag, so setzt die Fachstelle der leihnehmenden Institution eine Frist von zehn Tagen zur Nachbesserung. Sie verbindet diese Frist mit der Androhung, den Antrag abzulehnen, ohne ihn zu veröffentlichen (Art. 11 Abs. 2 KGTG), sofern die Angaben im Antrag nicht innert Frist vervollständigt werden oder der Leihvertrag nicht nachgereicht wird.[^7-3]
+
+<sup>6</sup> Die Gültigkeit einer rechtskräftigen Rückgabegarantie kann im Falle einer Ausstellungsverlängerung auf schriftliches Gesuch hin einmalig um maximal vier Monate verlängert werden, sofern die Ausstellungsdauer unterbruchsfrei verlängert wird. Für die Verlängerung der Gültigkeit der Rückgabegarantie muss die leihnehmende Institution der Fachstelle eine Bestätigung der leihgebenden Institution betreffend die Verlängerung der Leihdauer einreichen.[^7-4]
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^7-4]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## 5. Abschnitt: Finanzhilfen zu Gunsten der Erhaltung des kulturellen Erbes
 
@@ -183,7 +204,9 @@ Gesuche um Finanzhilfen zu Gunsten der Erhaltung des kulturellen Erbes anderer S
 
 <sup>1</sup> Über Gesuche um Finanzhilfen für die treuhänderische Aufbewahrung und die konservatorische Betreuung von Kulturgütern nach Artikel 14 Absatz 1 Buchstabe a KGTG entscheidet das BAK.
 
-<sup>2</sup> Über Gesuche um Finanzhilfen für Projekte nach Artikel 14 Absatz 1 Buchstabe b KGTG und zur Erleichterung der Wiedererlangung des kulturellen Erbes nach Artikel 14 Absatz 1 Buchstabe c KGTG entscheidet das BAK im Einvernehmen mit der Direktion für Entwicklung und Zusammenarbeit und der Politischen Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten.
+<sup>2</sup> Über Gesuche um Finanzhilfen für Projekte nach Artikel 14 Absatz 1 Buchstabe b KGTG und zur Erleichterung der Wiedererlangung des kulturellen Erbes nach Artikel 14 Absatz 1 Buchstabe c KGTG entscheidet das BAK im Einvernehmen mit der Direktion für Entwicklung und Zusammenarbeit und dem Staatssekretariat des Eidgenössischen Departments für auswärtige Angelegenheiten.[^9-1]
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 10
 
@@ -249,15 +272,19 @@ Sie dienen zur Deckung von:
 Die Gewährung von Finanzhilfen wird mit den Auflagen verbunden, dass:
 
 - a. der Schutz des kulturellen Erbes nach allen Regeln der Fachkunde erfolgt;
-- b. der Beitragsempfänger oder die Beitragsempfängerin der Fachstelle über die Verwendung der Finanzhilfe Rechenschaft ablegt;
+- b.[^14-1] der Beitragsempfänger oder die Beitragsempfängerin der Fachstelle über die zweckentsprechende Verwendung der Finanzhilfe Rechenschaft ablegt;
 - c. der Beitragsempfänger oder die Beitragsempfängerin die Unterstützung durch den Bund in geeigneter und angemessener Weise bekannt macht;
 - d. Kulturgüter, die mit Hilfe von Finanzhilfen nach den Artikeln 12 und 13 erhalten, restauriert oder wiedererlangt wurden, nicht veräussert werden dürfen.
 
+[^14-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
 #### Art. 15
 
-**Prioritätenordnung**
+**Prioritätenordnung**[^15-1]
 
-Übersteigen die beantragten Finanzhilfen die verfügbaren Mittel, so erstellt das Eidgenössische Departement des Innern in Zusammenarbeit mit dem Eidgenössischen Departement für auswärtige Angelegenheiten eine Prioritätenordnung, nach der die Gesuche beurteilt werden.
+Übersteigen die beantragten Finanzhilfen die verfügbaren Mittel, so erstellt das Eidgenössische Departement des Innern in Zusammenarbeit mit dem Eidgenössischen Departement für auswärtige Angelegenheiten im Hinblick auf die Beurteilung der Gesuche eine Prioritätenordnung, die insbesondere der aktuellen Gefährdung der Kulturgüter Rechnung trägt.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## 6. Abschnitt: Übertragung von Kulturgut
 
@@ -279,8 +306,11 @@ Die Artikel 15–17 KGTG finden Anwendung auf:
 Die Ausnahme nach Absatz 2 gilt nicht für den Handel mit Kulturgütern folgender Kategorien:
 
 - a. Ergebnisse archäologischer oder paläontologischer Ausgrabungen oder Entdeckungen;
-- b. Teile zerstückelter künstlerischer oder geschichtlicher Denkmäler oder von Ausgrabungsstätten;
-- c. ethnologische Gegenstände, insbesondere solche, die im Zusammenhang mit sakralen oder profanen Riten in Gebrauch sind.
+- b.[^16-1] Fragmente von historischen Denkmälern sowie Fundstücke aus Ausgrabungsstätten;
+- c.[^16-2] ethnologische Kulturgüter, insbesondere solche, die im Zusammenhang mit sakralen oder profanen Riten in Gebrauch sind.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 17
 
@@ -295,17 +325,32 @@ Die Institutionen des Bundes sowie die im Kunsthandel und im Auktionswesen täti
 - a. bei natürlichen Personen und Inhabern oder Inhaberinnen von Einzelunternehmen: Name, Vorname, Geburtsdatum, Wohnsitzadresse und Staatsangehörigkeit;
 - b. bei juristischen Personen und Personengesellschaften: Firma und Domiziladresse.
 
-<sup>2</sup> Die Angaben sind anhand eines beweiskräftigen Dokuments zu überprüfen, sofern Anhaltspunkte dafür bestehen, dass die Richtigkeit der Angaben oder das bei vorausgegangenen Transaktionen aufgebaute Vertrauensverhältnis in Frage gestellt werden muss.
+<sup>2</sup> Die Angaben sind anhand beweiskräftiger Dokumente zu überprüfen.[^17-1]
 
-<sup>3</sup> Auf die Feststellung der Identität kann verzichtet werden, wenn diese bereits einmal festgestellt worden ist.
+<sup>3</sup> Auf die erneute Feststellung der Identität kann verzichtet werden, wenn die Dokumente, die zur Feststellung der Identität verwendet wurden, noch aktuell sind.[^17-2]
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 18
 
-**Verfügungsberechtigung**
+**Erklärung über die Verfügungsberechtigung**[^18-1]
 
 ### (Art. 15 Abs. 1 und Art. 16 Abs. 2 Bst. a KGTG)
 
-Der Verkäufer oder die Verkäuferin und gegebenenfalls die einliefernde Person haben eine Erklärung zu unterzeichnen, die ihre Verfügungsberechtigung über das Kulturgut bestätigt.
+Der Verkäufer oder die Verkäuferin und gegebenenfalls die einliefernde Person haben eine Erklärung zu unterzeichnen, die ihre Verfügungsberechtigung über das Kulturgut bestätigt und aus welcher der Eigentümer oder die Eigentümerin des Kulturguts hervorgeht.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
+#### Art. 18a
+
+**Unterrichtung der Kundschaft über bestehende Ein- und Ausfuhrregelungen von Vertragsstaaten**[^18a-1]
+
+### (Art. 16 Abs. 2 Bst. b KGTG)
+
+Die Unterrichtung der Kundschaft hat in schriftlicher Form zu erfolgen und ist von der Kundschaft mittels Unterschrift bestätigen zu lassen.
+
+[^18a-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 19
 
@@ -318,13 +363,18 @@ Der Verkäufer oder die Verkäuferin und gegebenenfalls die einliefernde Person 
 Die Institutionen des Bundes sowie die im Kunsthandel und im Auktionswesen tätigen Personen haben folgende Angaben aufzuzeichnen und die entsprechenden Dokumente aufzubewahren:
 
 - a. die Beschreibung des Kulturguts;
+- a<sup>bis</sup>.[^19-1] aussagekräftige Fotografien des Kulturguts;
 - b. den Ursprung des Kulturguts, soweit er bekannt ist;
 - c. die Angaben zur Identität nach Artikel 17;
 - d. die Erklärung über die Verfügungsberechtigung nach Artikel 18;
+- d<sup>bis</sup>.[^19-2] das von der Kundschaft unterzeichnete Dokument nach Artikel 18*a*;
 - e. das Datum der aktuellen Übertragung des Kulturguts;
 - f. den Ankaufspreis oder, bei Geschäften für fremde Rechnung, den Schätzwert des Kulturguts.
 
 <sup>2</sup> Die Dokumente sind so aufzubewahren, dass sie bei allfälligen Auskunfts- und Beschlagnahmebegehren der Behörden innert angemessener Frist vorgelegt werden können.
+
+[^19-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^19-2]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 20
 
@@ -394,18 +444,26 @@ Die Zollveranlagung richtet sich nach den Bestimmungen der Zollgesetzgebung.
 
 <sup>1</sup>
 
-Wer Kulturgüter ein-, durch- oder ausführt, hat in der Zollanmeldung anzugeben:[^25-2]
+Wer ein Kulturgut ein-, durch- oder ausführt, hat in der Zollanmeldung anzugeben:[^25-2]
 
 - a. den Objekttyp des Kulturguts;
-- b. möglichst genaue Angaben zum Herstellungsort oder, wenn es sich um ein Ergebnis archäologischer oder paläontologischer Ausgrabungen oder Entdeckungen handelt, zum Fundort des Kulturguts.
+- b. möglichst genaue Angaben zum Herstellungsort oder, wenn es sich um ein Ergebnis archäologischer oder paläontologischer Ausgrabungen oder Entdeckungen handelt, zum Fundort des Kulturguts;
+- c.[^25-3] die Datierung des Kulturguts;
+- d.[^25-4] die Masse des Kulturguts.
 
-<sup>2</sup> Wer Kulturgüter ein- oder durchführt, hat in der Zollanmeldung anzugeben, ob die Ausfuhr des Kulturguts aus einem Vertragsstaat gemäss der Gesetzgebung dieses Staates einer Bewilligung unterliegt.[^25-3]
+<sup>2</sup> Wer ein Kulturgut ein-, durch- oder ausführt, hat in der Zollanmeldung anzugeben, dass es sich um ein Kulturgut handelt und ob dieses einer Bewilligungspflicht nach Artikel 24 unterliegt.[^25-5]
 
-<sup>3</sup> Falls für die Ein-, Durch- oder Ausfuhr eines Kulturguts eine Bewilligung nach Artikel 24 erforderlich ist, so ist diese den Zollbehörden vorzulegen.
+<sup>3</sup> Handelt es sich um Sammelsendungen, so sind die Angaben nach Absatz 1 für jedes einzelne Kulturgut der Sammelsendung erforderlich.[^25-6]
+
+<sup>4</sup> Unvollständige Zollanmeldungen werden durch die Zollbehörden zurückgewiesen.[^25-7]
 
 [^25-1]: Fassung gemäss Anhang 4 Ziff. 7 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^25-2]: Fassung gemäss Anhang 4 Ziff. 7 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^25-3]: Fassung gemäss Anhang 4 Ziff. 7 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-3]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-4]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-5]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-6]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^25-7]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 #### Art. 26
 
@@ -426,11 +484,17 @@ Wer Kulturgüter ein-, durch- oder ausführt, hat in der Zollanmeldung anzugeben
 
 #### Art. 27
 
+**Überführung eingezogener Kulturgüter**
+
+### (Art. 28 KGTG)
+
+[^27-1]
+
 <sup>1</sup> Eingezogene Kulturgüter sind in deren Ursprungsstaat zu überführen.
 
 <sup>2</sup> Das BAK entscheidet über die Überführung. Es kann den Vollzug der Überführung aussetzen, bis das Kulturgut bei einer Überführung nicht mehr gefährdet ist.
 
-<sup>3</sup> Bis zu ihrer Überführung werden die eingezogenen Kulturgüter im Schweizerischen Landesmuseum oder einer anderen geeigneten Institution aufbewahrt. Das BAK entscheidet über den Aufbewahrungsort.
+<sup>3</sup> Bis zu ihrer Überführung werden die eingezogenen Kulturgüter an einem vom BAK bezeichneten geeigneten Lagerort aufbewahrt.[^27-2]
 
 <sup>4</sup>
 
@@ -438,6 +502,24 @@ Eingezogene Vermögenswerte sind vom BAK einzusetzen für:
 
 - a. die Gewährung von Finanzhilfen nach Artikel 14 KGTG;
 - b. die Kosten der treuhänderischen Aufbewahrung und der Überführung von Kulturgütern.
+
+[^27-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
+
+#### Art. 27a
+
+**Ausnahmen von der Überführung**[^27a-1]
+
+<sup>1</sup>
+
+Ist eine Überführung in den Ursprungsstaat nicht möglich, weil dieser keine Überführung wünscht oder weil eine Zuordnung zu einem Staat nicht möglich ist, so können eingezogene Kulturgüter:
+
+- a. zu Forschungs- oder Weiterbildungszwecken geeigneten Institutionen übergeben werden; oder
+- b. kontrolliert vernichtet werden, wenn dies aufgrund ihrer geringen Bedeutung oder ihres fortgeschrittenen Zerfalls gerechtfertigt ist.
+
+<sup>2</sup> Das BAK erstellt ein diesbezügliches Konzept; dieses bedarf der Genehmigung des Eidgenössischen Departements des Innern.
+
+[^27a-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 634](https://fedlex.data.admin.ch/eli/oc/2025/634)).
 
 ## 10. Abschnitt: Schlussbestimmungen
 
