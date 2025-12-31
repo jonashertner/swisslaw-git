@@ -4,13 +4,12 @@ number: "111.1"
 title: Verfassung des Kantons Zug
 short: "Kantonsverfassung, KV"
 language: de
-version: 2024-09-27
-valid_until: 2025-12-31
-version_adopted: 2023-11-30
+version: 2026-01-01
+version_adopted: 2025-06-05
 adopted: 1894-01-31
 in_force: 1894-07-28
 url: "https://bgs.zg.ch/app/de/texts_of_law/111.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2638/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2966/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,13 @@ pdf: "https://bgs.zg.ch/api/de/versions/2638/pdf_file"
 
 (Kantonsverfassung, KV)
 
-Vom 31. Januar 1894 (Stand 27. September 2024)
+Vom 31. Januar 1894 (Stand 1. Januar 2026)
+
+Der Kantonsrat des Kantons Zug,
+
+gestützt auf § 41 Abs. 1 Bst. b und § 79 der Kantonsverfassung[^ingress-1],
+
+[^ingress-1]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
 
 ## 1. Allgemeine Grundsätze
 
@@ -207,9 +212,9 @@ Vom 31. Januar 1894 (Stand 27. September 2024)
 
 <sup>1</sup> Das Stimmrecht für kantonale Wahlen und Abstimmungen wird ausschliesslich in der Wohngemeinde ausgeübt.
 
-<sup>2</sup> Das Recht, zu stimmen und zu wählen sowie die Wählbarkeit besitzen: Alle Kantonsbürger und -bürgerinnen und im Kanton gesetzlich niedergelassenen Schweizer Bürger und Bürgerinnen, welche das 18. Altersjahr zurückgelegt haben und sich nicht in einem der unten aufgeführten Ausnahmefälle befinden.
+<sup>2</sup> Das Recht, zu stimmen und zu wählen, sowie die Wählbarkeit besitzen: alle Kantonsbürgerinnen und -bürger und alle im Kanton gesetzlich niedergelassenen Schweizer Bürgerinnen und Bürger, die das 18. Altersjahr zurückgelegt haben.
 
-<sup>3</sup> Personen, die wegen dauerhafter Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden, haben kein Stimmrecht.
+<sup>3</sup> …
 
 #### § 28
 
