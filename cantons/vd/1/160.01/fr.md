@@ -4,7 +4,7 @@ number: "160.01"
 title: "LOI du 05.10.2021 sur l'exercice des droits politiques (LEDP)"
 short: LEDP
 language: fr
-version: 2022-01-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b"
 ---
 
@@ -836,9 +836,9 @@ décrète
 
 **Quorum [^sectionSectionII-1]**
 
-<sup>1</sup> Le bureau d'arrondissement élimine d'emblée toutes les listes qui n'ont pas recueilli 5% au moins du total des suffrages valables émis dans l'arrondissement (quorum).
+<sup>1</sup> Le bureau d'arrondissement élimine d'emblée toutes les listes ou groupes de listes apparentées qui n'ont pas recueilli au moins 5% du total des suffrages valables émis dans l'arrondissement (quorum).
 
-<sup>2</sup> Ces listes ainsi que les suffrages qu'elles ont obtenus ne sont plus pris en compte dans les opérations qui suivent.
+<sup>2</sup> Ces listes ou groupes de listes ainsi que les suffrages qu'elles ont obtenus ne sont plus pris en compte dans les opérations qui suivent.
 
 [^sectionSectionII-1]: Modif. 1 du 03.06.2025: Modification Al. 1-2; entrée en vigueur au 01.01.2026
 
@@ -864,9 +864,9 @@ décrète
 
 **Quorum [^sectionSectionIII-1]**
 
-<sup>1</sup> Le bureau d'arrondissement élimine d'emblée les listes ou les groupes de listes conjointes qui n'ont pas recueilli 5% au moins du total des suffrages valables pondérés émis dans l'arrondissement (quorum).
+<sup>1</sup> Le bureau d'arrondissement élimine d'emblée les listes ou groupes de listes apparentées ou conjointes qui n'ont pas recueilli au moins 5% du total des suffrages valables pondérés émis dans l'arrondissement (quorum).
 
-<sup>2</sup> Ces listes ou ces groupes de listes conjointes ainsi que les suffrages qu'ils ont obtenus ne sont plus pris en considération dans les opérations qui suivent.
+<sup>2</sup> Ces listes ou groupes de listes apparentées ou conjointes ainsi que les suffrages qu'ils ont obtenus ne sont plus pris en considération dans les opérations qui suivent.
 
 [^sectionSectionIII-1]: Modif. 1 du 03.06.2025: Modification Al. 1-2; entrée en vigueur au 01.01.2026
 
