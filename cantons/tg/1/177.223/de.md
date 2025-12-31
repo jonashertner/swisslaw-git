@@ -4,13 +4,12 @@ number: "177.223"
 title: Verordnung des Regierungsrates zur Besoldungsverordnung
 short: RRV BesVO
 language: de
-version: 2025-10-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2025-09-16
 adopted: 1999-09-21
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.223"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2942/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2993/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ RRV BesVO
 
 (RRV BesVO)
 
-vom 21.09.1999 (Stand 01.10.2025)
+vom 21.09.1999 (Stand 01.01.2026)
 
 ## 1. Vollzug der Allgemeinen Bestimmungen der Besoldungsverordnung
 
@@ -322,7 +321,7 @@ vom 21.09.1999 (Stand 01.10.2025)
 
 <sup>3</sup> Die Zulage für Nacht-, Samstags- und Ruhetagsdienst wird für das Strassenpersonal mit 50 % der auf eine Stunde umgerechneten Besoldung bemessen.
 
-[^26-1]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 7.23
+[^26-1]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2026: Fr. 7.25
 
 #### § 27
 
@@ -341,25 +340,30 @@ vom 21.09.1999 (Stand 01.10.2025)
 
 <sup>5</sup> Für das Zeughauspersonal gelten bezüglich des vom Bund angeordneten Bereitschaftsdienstes dessen Vorschriften.
 
-[^27-1]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 4.34
-[^27-2]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 2.89
-[^27-3]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 40.90
-[^27-4]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 81.80
+[^27-1]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2026: Fr. 4.35
+[^27-2]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2026: Fr. 2.90
+[^27-3]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2026: Fr. 41.05
+[^27-4]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2026: Fr. 82
 
 #### § 28
 
-**Inkonvenienzzulagen Polizei**
+**Inkonvenienzzulagen Kantonspolizei**
 
-<sup>1</sup> Für die Abgeltung von Erreichbarkeit, Verfügbarkeit und Dienstleistungen ausserhalb der ordentlichen Arbeitszeiten, für Überzeitdienstleistungen, für Dienstleistungen, die mit besonderen Gefährdungen oder anderen Unannehmlichkeiten verbunden sind, erhalten Polizeibeamtinnen und Polizeibeamte eine Entschädigung.
+<sup>1</sup> Die Kantonspolizei ist anspruchsberechtigte Verwaltungseinheit im Sinne von § 25 Abs. 1. Der Anspruch gilt nur für Polizistinnen und Polizisten gemäss § 19 der Polizeiverordnung (PolV) und für Zivilangestellte mit polizeilichen Aufgaben gemäss § 21 Abs. 1 Ziff. 3 PolV.
 
-<sup>2</sup> Die Inkonvenienzentschädigung beträgt jährlich höchstens Fr. 8'000[^28-1] für im Aussendienst und Fr. 7'500[^28-2] für im Fachdienst tätige Personen.
+<sup>1<sup>bis</sup></sup> Die Inkonvenienzzulagen setzen sich grundsätzlich aus einem variablen und einem pauschalen Anteil zusammen.
 
-<sup>3</sup> Das Departement für Justiz und Sicherheit legt die anteilsmässige Zusammensetzung dieser Entschädigung fest.
+<sup>2</sup> Die variablen Zulagen richten sich nach § 26 und § 27.
 
-<sup>4</sup> Das Polizeikommando ordnet die Anteile den Stellen und Personen zu und überprüft diese Anordnung jährlich.
+<sup>2<sup>bis</sup></sup> Eine pauschale Zulage wird wie folgt abgegolten:
 
-[^28-1]: Indexstand 101.8 Punkte (Basis Mai 1993=100)
-[^28-2]: Indexstand 101.8 Punkte (Basis Mai 1993=100)
+- 1\. für die besondere Gefährdung, die Unannehmlichkeiten und die Erreichbarkeit jährlich höchstens mit Fr. 5'850
+- 2\. für die Schichtarbeit jährlich mit Fr. 650
+- 3\. für das Ausrücken bei ungeplanten Ereignissen ausserhalb des Pikettdienstes mit Fr. 50 pro Ereignis
+
+<sup>3</sup> …
+
+<sup>4</sup> Das Polizeikommando ordnet die Inkonvenienzzulagen den Funktionen zu und überprüft diese Anordnung jährlich.
 
 ### 1.2.7. Überstunden
 
@@ -378,6 +382,14 @@ vom 21.09.1999 (Stand 01.10.2025)
 <sup>1</sup> Die Zulage für Überstunden beträgt 25 % der auf eine Stunde umgerechneten Besoldung.
 
 <sup>2</sup> Für Überstunden während der Nacht sowie an Samstagen und öffentlichen Ruhetagen wird nur die Zulage oder der Zeitzuschlag gemäss § 26 ausgerichtet.
+
+#### § 30a
+
+**Überstunden Kantonspolizei**
+
+<sup>1</sup> Die Kantonspolizei ist anspruchsberechtigte Verwaltungseinheit im Sinne von § 29 Abs. 1. Der Anspruch gilt nur für Polizistinnen und Polizisten gemäss § 19 PolV und für Zivilangestellte mit polizeilichen Aufgaben gemäss § 21 Abs. 1 Ziff. 3 PolV.
+
+<sup>2</sup> Überstunden werden mit Freizeit von gleicher Dauer kompensiert oder mit einer Zulage gemäss § 30 entschädigt. Aus betrieblichen Gründen kann das Polizeikommando eine Bezugsart anordnen.
 
 ### 1.3. Besoldung unter besonderen Umständen
 
