@@ -3,18 +3,18 @@ sr: "131.216.2"
 title: "Verfassung des Kantons Nidwalden, vom 10. Oktober 1965"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga"
 language: de
-version: 2023-03-13
+version: 2026-01-01
 adopted: 1965-10-10
 in_force: 1965-10-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/de/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20230313-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Nidwalden
 
-Vom 10. Oktober 1965 (Stand am 13. März 2023)[^t-2][^t-1]
+Vom 10. Oktober 1965 (Stand am 1. Januar 2026)[^t-2][^t-1]
 
 [^t-1]: Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 1, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -525,7 +525,9 @@ Das Gesetz kann für den Fall von Katastrophen und kriegerischen Ereignissen dem
 
 <sup>1</sup> Die Aktivbürgerinnen und Aktivbürger üben ihr Stimm- und Wahlrecht in den Politischen Gemeinden aus.
 
-<sup>2</sup> Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
+<sup>2</sup> …[^50-1]
+
+[^50-1]: Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Wahlen
 
@@ -948,8 +950,10 @@ Der Bestand und die Selbständigkeit der Gemeinden ist gewährleistet.
 
 Sie sind im Rahmen der Gesetzgebung befugt:
 
-- 1\. die eigene Organisation frei zu bestimmen und ihre Behörden, Beamten und Angestellten selbst zu wählen;
+- 1\.[^71-1] die eigene Organisation frei zu bestimmen und ihre Behörden sowie Mitarbeitenden selbst zu wählen;
 - 2\. die in ihren Wirkungsbereich fallenden Aufgaben nach freiem Ermessen zu erfüllen.
+
+[^71-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Zusammenwirken mit andern Gemeinden
 
@@ -985,11 +989,12 @@ Die Gemeindeversammlung, der administrative Rat und dessen Präsident sind die n
 
 <sup>1</sup> Die Gemeindeversammlung ist jährlich mindestens zweimal einzuberufen.
 
-<sup>2</sup> Ausserordentliche Gemeindeversammlungen sind einzuberufen, wenn es der administrative Rat beschliesst, oder wenn es ein Zwanzigstel der Stimmberechtigten unter Nennung der zu behandelnden Gegenstände verlangt; im letzten Fall hat die Gemeindeversammlung binnen dreier Monate stattzufinden.
+<sup>2</sup> Ausserordentliche Gemeindeversammlungen sind einzuberufen, wenn es der administrative Rat beschliesst, oder wenn es ein Zwanzigstel der Stimmberechtigten unter Nennung der zu behandelnden Gegenstände schriftlich verlangt; im letzten Fall hat die Gemeindeversammlung binnen vier Monaten stattzufinden.[^75-2]
 
 <sup>3</sup> Die Verhandlungen leitet die Präsidentin beziehungsweise der Präsident oder die Vizepräsidentin beziehungsweise der Vizepräsident oder das in der Wahl nächstfolgende Mitglied des administrativen Rates.
 
 [^75-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^75-2]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Obligatorische Abstimmung
 
@@ -997,25 +1002,24 @@ Die Gemeindeversammlung, der administrative Rat und dessen Präsident sind die n
 
 In die Zuständigkeit der Gemeindeversammlung fallen:
 
-- 1\. der Erlass von Verordnungen und Reglementen, soweit hiezu nicht durch die Gesetzgebung oder durch Beschluss der Gemeindeversammlung der administrative Rat zuständig erklärt wird;
-- 2\. die Wahl der Behörden und der nach Massgabe der Gesetzgebung von der Gemeindeversammlung zu wählenden Beamten; es steht den Gemeinden frei, die Wahl für die administrativen Räte und die Rechnungsrevisoren so festzulegen, dass alle zwei Jahre die Hälfte der Mandatsinhaber zu wählen ist;
-- 3\. die Festsetzung des Gemeindesteueransatzes;
-- 4\.[^76-1] die Beschlüsse über Ausgaben und finanzielle Verfügungen, welche die Finanzkompetenzen des administrativen Rates übersteigen;
-- 5\.[^76-2] die Festsetzung des jährlichen Voranschlages;
+- 1\.[^76-1] der Erlass der Gemeindeordnung und der Reglemente;
+- 2\.[^76-2] die Wahl der Behörden und der gemäss der Gesetzgebung von der Gemeindeversammlung zu wählenden Mitarbeitenden; es steht den Gemeinden frei, die Wahl für den administrativen Rat und die für die Rechnungsrevision zuständige Kommission so festzulegen, dass alle zwei Jahre die Hälfte der Mitglieder zu wählen ist;
+- 3\.[^76-3] die Festsetzung des Gemeindesteuerfusses;
+- 4\.[^76-4] die Beschlüsse über Ausgaben und finanzielle Verfügungen, welche die Finanzkompetenzen des administrativen Rates übersteigen;
+- 5\.[^76-5] die Festsetzung des jährlichen Budgets;
 - 6\. die Genehmigung der Gemeinderechnung.
 
-[^76-1]: Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ([BBl 1974 II 1527](https://fedlex.data.admin.ch/eli/fga/1974/2_1527__)Art. 1 Ziff. 1, 973).
-[^76-2]: Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ([BBl 1974 II 1527](https://fedlex.data.admin.ch/eli/fga/1974/2_1527__)Art. 1 Ziff. 1, 973).
-
-### Fakultative Abstimmung
+[^76-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-2]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-3]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-4]: Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ([BBl 1974 II 1527](https://fedlex.data.admin.ch/eli/fga/1974/2_1527__)Art. 1 Ziff. 1, 973).
+[^76-5]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 #### Art. 77
 
-<sup>1</sup> Der Gemeindeversammlung sind die vom administrativen Rat erlassenen oder abgeänderten Verordnungen und Reglemente zu unterbreiten, wenn es binnen zweier Monate seit der Veröffentlichung des Erlasses von einem Zwanzigstel der Stimmberechtigten verlangt wird.[^77-1]
+[^77-1]
 
-<sup>2</sup> Die Abstimmung ist an der nächsten Gemeindeversammlung durchzuführen.
-
-[^77-1]: Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ([BBl 1999 5181](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)Art. 1 Ziff. 2 2514).
+[^77-1]: Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Antragsrecht
 
@@ -1023,18 +1027,21 @@ In die Zuständigkeit der Gemeindeversammlung fallen:
 
 <sup>1</sup> Anträge können als allgemeine Anregung oder als ausgearbeitete Vorlage eingereicht werden; wird eine allgemeine Anregung zum Beschluss erhoben, so ist der Gemeindeversammlung binnen Jahresfrist die ausgearbeitete Vorlage zu unterbreiten.
 
+<sup>1a</sup> Das Gesetz kann die Verlängerung dieser Frist vorsehen.[^78-1]
+
 <sup>2</sup> Die Anträge dürfen sich nur auf einen einzigen Gegenstand beziehen und müssen eine Begründung enthalten.
 
 <sup>3</sup>
 
 Anträge können stellen:
 
-- 1\.[^78-1] jeder Aktivbürger, jede Kommission und der administrative Rat der zuständigen Gemeinde;
+- 1\.[^78-2] jede Aktivbürgerin und jeder Aktivbürger, jede Kommission und der administrative Rat der zuständigen Gemeinde;
 - 2\. juristische Personen des privaten und öffentlichen Rechts, die in der Gemeinde ihren Sitz haben, sofern es sich um einen Finanzbeschluss zugunsten eines gemeinnützigen oder genossenschaftlichen Zwecks handelt.
 
 <sup>4</sup> Die Anträge dürfen nichts enthalten, was dem Bundesrecht oder dem kantonalen Recht widerspricht.
 
-[^78-1]: Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ([BBl 1974 II 1527](https://fedlex.data.admin.ch/eli/fga/1974/2_1527__)Art. 1 Ziff. 1, 973).
+[^78-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^78-2]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Urnenabstimmung
 
@@ -1056,18 +1063,19 @@ Das Gesetz bestimmt die Voraussetzungen, unter denen Gemeinden die Gemeindeversa
 
 <sup>1</sup> Der administrative Rat (Gemeinderat, Schulrat, Kirchenrat oder Kapellrat) besteht aus drei bis elf Mitgliedern.
 
-<sup>2</sup> Aus dessen Mitte wählt die Gemeindeversammlung auf eine Amtsdauer von zwei Jahren den Präsidenten und den Vizepräsidenten.
+<sup>2</sup> Aus dessen Mitte wählt die Gemeindeversammlung das Präsidium und das Vizepräsidium. Das Gesetz regelt die Amtsdauer.[^81-1]
 
 <sup>3</sup> Es steht dem administrativen Rat im Rahmen der Gesetzgebung zu, den Aufgabenbereich seiner Mitglieder zu umschreiben sowie Kommissionen zu bilden.
+
+[^81-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Verordnungsbefugnisse
 
 #### Art. 82
 
-Der administrative Rat erlässt unter Vorbehalt von Artikel 77:
+Der administrative Rat erlässt Verordnungen, zu denen er durch die Gesetzgebung zuständig erklärt wird.[^82-1]
 
-- 1\. Verordnungen und Reglemente, zu denen er durch die Gesetzgebung oder durch Beschluss der Gemeindeversammlung zuständig erklärt wird;
-- 2\. Reglemente in nebengeordneten Fragen im Rahmen von Artikel 83 Ziffer 7.
+[^82-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Verwaltungsbefugnisse
 
@@ -1082,15 +1090,17 @@ Er ist, unter Vorbehalt von Artikel 80, namentlich befugt und beauftragt:
 - 1\. das Protokoll der Gemeindeversammlung zu genehmigen;
 - 2\. die Gesetze, Verordnungen und Reglemente zu vollziehen;
 - 3\. die Beschlüsse und Entscheidungen der kantonalen Behörden und der Gemeindeversammlung zu vollziehen, soweit diese Befugnis nicht besondern Organen vorbehalten ist;
-- 4\. die Beamten und die Angestellten zu wählen, soweit deren Wahl nicht durch die Gesetzgebung einer andern Instanz übertragen ist;
+- 4\.[^83-1] die Mitarbeitenden zu wählen, soweit deren Wahl nicht durch die Gesetzgebung einer anderen Instanz übertragen ist;
 - 5\. über die verfassungsmässige Zulässigkeit der Anträge an die Gemeindeversammlung gemäss Artikel 78 Absatz 4 zu entscheiden;
 - 6\. Vernehmlassungen zu erstatten, zu denen der Kanton die Gemeinde auffordert;
-- 7\.[^83-1] im Rahmen der in der Gesetzgebung der Gemeinde umschriebenen Finanzkompetenzen frei bestimmbare einmalige Ausgaben und jährlich wiederkehrende Ausgaben zu beschliessen, ferner Ausgaben, die der Gemeinde durch die Gesetzgebung verbindlich vorgeschrieben oder für welche durch die Gesetzgebung oder den Beschluss der Gemeindeversammlung dem administrativen Rat weitergehende Vollmachten übertragen sind;
+- 7\.[^83-2] im Rahmen der in der Gesetzgebung der Gemeinde umschriebenen Finanzkompetenzen frei bestimmbare einmalige Ausgaben und jährlich wiederkehrende Ausgaben zu beschliessen, ferner Ausgaben, die der Gemeinde durch die Gesetzgebung verbindlich vorgeschrieben oder für welche durch die Gesetzgebung oder den Beschluss der Gemeindeversammlung dem administrativen Rat weitergehende Vollmachten übertragen sind;
 - 8\. das Gemeindevermögen zu verwalten und im Rahmen von Ziffer 7 darüber zu verfügen;
-- 9\. Ausgaben für den Unterhalt der im Besitz der Gemeinde stehenden Gebäude und Anlagen ohne Rücksicht auf Ziffer 7 zu beschliessen;
+- 9\.[^83-3] …
 - 10\. alle weitern durch die Gesetzgebung ihm übertragenen Aufgaben zu erfüllen.
 
-[^83-1]: Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ([BBl 1974 II 1527](https://fedlex.data.admin.ch/eli/fga/1974/2_1527__)Art. 1 Ziff. 1 973).
+[^83-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^83-2]: Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ([BBl 1974 II 1527](https://fedlex.data.admin.ch/eli/fga/1974/2_1527__)Art. 1 Ziff. 1 973).
+[^83-3]: Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### 2. Gemeindearten
 
@@ -1390,7 +1400,6 @@ Beamte
 - – Wahl
   - – durch den Landrat 59*a*<sup>1</sup>*/*<sup>5.</sup>
   - – durch den Regierungsrat 65<sup>2/</sup><sup>3.</sup>
-  - – durch die Gemeindeversammlung 76<sup>2</sup>
 
 - – Wählbarkeit 10<sup>3</sup>
 
@@ -1447,7 +1456,7 @@ Bürger
 
 - – Bürgerpflicht 13
 - – Kantonsbürgerrecht, Gemeindebürgerrecht 12
-- – Niederlassungsfreiheit 1<sup>2/4.</sup>
+- – Niederlassungsfreiheit 1<sup>2</sup><sup>/4.</sup>
 - – Stimmberechtigung 8
 
 **Departemente** Direktionen des Regierungsrates 63
@@ -1455,9 +1464,9 @@ Bürger
 **Eigentum** (private Rechte)
 
 - – Entschädigung bei Enteignung 7
-- – Garantie 1<sup>2/7.</sup>
+- – Garantie 1<sup>2</sup><sup>/7.</sup>
 
-**Enteignung** 1<sup>2/7.</sup>, 7
+**Enteignung** 1<sup>2</sup><sup>/7.</sup>, 7
 
 **Entwurf** ausgearbeiteter
 
@@ -1467,7 +1476,7 @@ Bürger
 
 **Erziehungswesen** s. Schulwesen
 
-**Expropriation** 1<sup>2/7.</sup>, 7
+**Expropriation** 1<sup>2</sup><sup>/7.</sup>, 7
 
 **Familie**, Schutz 29
 
@@ -1481,7 +1490,7 @@ Finanzen
 Gemeinden
 
 - – Allgemeines 70–74
-- – Aufsicht durch den Regierungsrat 65<sup>2/</sup><sup>6.</sup>,74
+- – Aufsicht durch den Regierungsrat 65<sup>2/</sup><sup>6.</sup>, 74
 - – Gemeindebehörden
   - – administrativer Rat 81–83
   - – Gemeindeversammlung 75–80
@@ -1495,7 +1504,7 @@ Gerichte
 
 - – Allgemeines 66–69*a*
 - – Kantonsgericht
-  - – Kompetenzen 67, 67*a*,
+  - – Kompetenzen 67, 67*a*
   - – Wahl 59a<sup>1/</sup><sup>3.</sup>
 
 - – Obergericht
@@ -1513,7 +1522,7 @@ Gesetze
 - – Beschluss durch den Landrat 60
 - – des Volkes (Antragsrecht) 52<sup>3.</sup>, 54
 - – Erläuterung 61<sup>3.</sup>
-- – Gesetzesinitiative 52<sup>2</sup><sup>.</sup>, 54, 55
+- – Gesetzesinitiative 52<sup>2.</sup>, 54, 55
 - – Verbot rückwirkender Gesetze 5
 - – verfassungsmässige Zulässigkeit 61<sup>2.</sup>
 - – Volksabstimmung 52*a*<sup>1/</sup><sup>1.</sup>
@@ -1524,17 +1533,17 @@ Gesetze
 
 **Gewaltentrennung** 41, 66
 
-**Gewerbefreiheit** 1<sup>2/8.</sup>
+**Gewerbefreiheit** 1<sup>2</sup><sup>/8.</sup>
 
-**Glaubens- und Gewissensfreiheit** 1<sup>2/1.</sup>
+**Glaubens- und Gewissensfreiheit** 1<sup>2</sup><sup>/1.</sup>
 
 **Gleichheit** vor dem Gesetz 2
 
-**Handels**- und Gewerbefreiheit 1<sup>2/8.</sup>
+**Handels**- und Gewerbefreiheit 1<sup>2</sup><sup>/8.</sup>
 
 **Hausrecht**
 
-- – Gewährleistung 1<sup>2/6.</sup>
+- – Gewährleistung 1<sup>2</sup><sup>/6.</sup>
 
 **Heimat**, Schutz 21, 22
 
@@ -1587,7 +1596,7 @@ Korporationen
 - – Förderung 23
 - – Schutz 21, 22
 
-**Kultusfreiheit** 1<sup>2/1.</sup>
+**Kultusfreiheit** 1<sup>2</sup><sup>/1.</sup>
 
 Landammann
 
@@ -1613,11 +1622,13 @@ Landrat
 
 **Medizin** 28
 
-**Meinungsfreiheit** 1<sup>2/2.</sup>
+**Meinungsfreiheit** 1<sup>2</sup><sup>/2.</sup>
+
+**Mitarbeitende** 71<sup>2/</sup><sup>1.</sup>, 76<sup>2.</sup>, 83<sup>2/</sup><sup>4.</sup>
 
 **Natur**, Schutz 21, 22
 
-**Niederlassungsfreiheit** 1<sup>2/4.</sup>
+**Niederlassungsfreiheit** 1<sup>2</sup><sup>/4.</sup>
 
 **Notstand** 49*a*
 
@@ -1631,7 +1642,7 @@ Landrat
 
 **Politische** Rechte s. Rechte
 
-**Pressefreiheit** 1<sup>2/2.</sup>
+**Pressefreiheit** 1<sup>2</sup><sup>/2.</sup>
 
 **Proportionalwahl** des Landrates 58
 
@@ -1655,18 +1666,18 @@ Rechte
   - – Wählbarkeit 10<sup>3</sup>
 
 - – verfassungsmässige
-  - – Bewegungsfreiheit, Hausrecht 1<sup>2/6.</sup>
-  - – Eigentumsgarantie 1<sup>2/7.</sup>
+  - – Bewegungsfreiheit, Hausrecht 1<sup>2</sup><sup>/6.</sup>
+  - – Eigentumsgarantie 1<sup>2</sup><sup>/7.</sup>
   - – Gewaltentrennung 41
-  - – Glaubens-, Gewissens-, Kultusfreiheit 1<sup>2/1.</sup>
+  - – Glaubens-, Gewissens-, Kultusfreiheit 1<sup>2</sup><sup>/1.</sup>
   - – Gleichheit vor dem Gesetz 2
-  - – Handels- und Gewerbefreiheit 1<sup>2/8.</sup>
-  - – körperliche Unversehrtheit 1<sup>2/5.</sup>
-  - – Meinungs-, Pressefreiheit 1<sup>2/2.</sup>
-  - – Niederlassungsfreiheit 1<sup>2/4.</sup>
+  - – Handels- und Gewerbefreiheit 1<sup>2</sup><sup>/8.</sup>
+  - – körperliche Unversehrtheit 1<sup>2</sup><sup>/5.</sup>
+  - – Meinungs-, Pressefreiheit 1<sup>2</sup><sup>/2.</sup>
+  - – Niederlassungsfreiheit 1<sup>2</sup><sup>/4.</sup>
   - – Petitionsrecht 11
   - – Recht auf verfassungsmässigen Richter, rechtliches Gehör 3
-  - – Vereins- und Versammlungsrecht 1<sup>2/3.</sup>
+  - – Vereins- und Versammlungsrecht 1<sup>2</sup><sup>/3.</sup>
 
 Rechtspflege
 
@@ -1688,7 +1699,6 @@ Referendum
   - – Finanzreferendum 52*a*<sup>1/</sup><sup>2.</sup>
   - – gegen Bundesgesetze und Bundesbeschlüsse 61<sup>1.</sup>
   - – gegen kantonale Gesetze, Beschlüsse, interkantonale Verträge 52*a*
-  - – gegen Verordnungen des administrativen Rates 77
 
 Regierungsrat
 
@@ -1706,7 +1716,7 @@ Regierungsrat
 Religion
 
 - – Allgemeines s. Kirchen
-- – Religionsfreiheit 1<sup>2/1.</sup>
+- – Religionsfreiheit 1<sup>2</sup><sup>/1.</sup>
 
 Revision
 
@@ -1778,7 +1788,7 @@ Stimmrecht
 
 **Verantwortlichkeit** von öffentlichrechtlichen Körperschaften und Anstalten 6
 
-**Vereinsrecht** 1<sup>2/3.</sup>
+**Vereinsrecht** 1<sup>2</sup><sup>/3.</sup>
 
 Verfassung
 
@@ -1823,7 +1833,6 @@ Volk
 
 - – Volksabstimmung
   - – an der Gemeindeversammlung
-    - – fakultative 77
     - – obligatorische 76
 
   - – kantonal
@@ -1881,4 +1890,4 @@ Wirtschaft
 
 **Zivilrechtspflege** 67
 
-**Zwangsabtretung** 1<sup>2/7.</sup>, 7
+**Zwangsabtretung** 1<sup>2</sup><sup>/7.</sup>, 7

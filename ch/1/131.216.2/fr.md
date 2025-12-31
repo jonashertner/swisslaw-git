@@ -3,11 +3,11 @@ sr: "131.216.2"
 title: "Constitution du canton de Nidwald, du 10 octobre 1965"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga"
 language: fr
-version: 2023-03-13
+version: 2026-01-01
 adopted: 1965-10-10
 in_force: 1965-10-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/fr/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20230313-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/fr"
 
 Traduction[^t-2][^t-1]
 
-du 10 octobre 1965 (État le 13 mars 2023)[^t-3]
+du 10 octobre 1965 (État le 1<sup>er</sup> janvier 2026)[^t-3]
 
 [^t-1]: Accepté en votation populaire du 2 mai 2010. Garanti par l’Ass. féd. le 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 1, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^t-2]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
@@ -528,7 +528,9 @@ La loi peut, pour le cas de catastrophe ou de guerre, octroyer au Grand Conseil,
 
 <sup>1</sup> Les citoyens actifs exercent leur droit de vote dans la commune politique.
 
-<sup>2</sup> Ils peuvent l’exercer personnellement par le dépôt du bulletin dans l’urne ou par correspondance.
+<sup>2</sup> …[^50-1]
+
+[^50-1]: Abrogé en votation populaire du 22 sept. 2024, avec effet au 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Élections
 
@@ -951,8 +953,10 @@ L’existence et l’autonomie des communes sont garanties.
 
 Elles peuvent dans les limites de la loi:
 
-- 1\. régler librement leur organisation et élire elles-mêmes leurs autorités, fonctionnaires et employés;
+- 1\.[^71-1] régler librement leur organisation et élire elles-mêmes leurs autorités et leurs employés;
 - 2\. accomplir selon leur libre appréciation les tâches entrant dans leur champ d’activité.
+
+[^71-1]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Collaboration avec d’autres communes
 
@@ -988,11 +992,12 @@ L’assemblée communale, le conseil administratif et son président sont les or
 
 <sup>1</sup> L’assemblée communale est convoquée deux fois par année au moins.
 
-<sup>2</sup> Une assemblée communale extraordinaire est convoquée lorsque le conseil administratif le décide ou qu’un vingtième des citoyens actifs le demandent en indiquant les objets à traiter; dans le dernier cas, l’assemblée communale est convoquée dans les trois mois.
+<sup>2</sup> Une assemblée communale extraordinaire est convoquée lorsque le conseil administratif le décide ou qu’un vingtième des citoyens actifs le demandent par écrit en indiquant les objets à traiter; dans le dernier cas, l’assemblée communale est convoquée dans les quatre mois.[^75-2]
 
 <sup>3</sup> Le président, le vice-président ou le mieux élu des autres membres du conseil administratif conduisent les délibérations.
 
 [^75-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^75-2]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Décisions obligatoires
 
@@ -1000,25 +1005,24 @@ L’assemblée communale, le conseil administratif et son président sont les or
 
 Entrent dans la compétence de l’assemblée de commune:
 
-- 1\. l’adoption des ordonnances et règlements, en tant que la loi ou une décision de l’assemblée de commune n’a pas confié cette tâche au conseil administratif;
-- 2\. l’élection des autorités et celle des fonctionnaires que la loi place dans la compétence de l’assemblée de commune. Les communes peuvent fixer l’élection des membres du conseil administratif et des reviseurs de comptes de manière que la moitié des mandats donnent lieu à élection tous les deux ans;
-- 3\. la fixation du taux de l’impôt communal;
-- 4\.[^76-1] les décisions portant sur des dépenses et celles qui, en matière financière dépassent la compétence du conseil administratif;
-- 5\.[^76-2] la fixation du budget annuel;
+- 1\.[^76-1] l’adoption du règlement communal et des autres règlements;
+- 2\.[^76-2] l’élection des autorités et celle des employés qui est attribuée à l’assemblée de commune par la loi; les communes peuvent fixer l’élection des membres du conseil administratif et de la commission chargée de la révision de comptes de manière que la moitié des mandats donnent lieu à élection tous les deux ans;
+- 3\.[^76-3] la fixation de la quotité de l’impôt communal;
+- 4\.[^76-4] les décisions portant sur des dépenses et celles qui, en matière financière dépassent la compétence du conseil administratif;
+- 5\.[^76-5] la fixation du budget annuel;
 - 6\. l’approbation des comptes communaux.
 
-[^76-1]: Accepté par la Landsgemeinde du 28 avril 1974. Garanti par l’Ass. féd. le 12 déc. 1974 ([FF 1974 II 1508](https://fedlex.data.admin.ch/eli/fga/1974/2__1508_)art. 1 ch. 1, 973).
-[^76-2]: Accepté par la Landsgemeinde du 28 avril 1974. Garanti par l’Ass. féd. le 12 déc. 1974 ([FF 1974 II 1508](https://fedlex.data.admin.ch/eli/fga/1974/2__1508_)art. 1 ch. 1, 973).
-
-### Décisions facultatives
+[^76-1]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-2]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-3]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-4]: Accepté par la Landsgemeinde du 28 avril 1974. Garanti par l’Ass. féd. le 12 déc. 1974 ([FF 1974 II 1508](https://fedlex.data.admin.ch/eli/fga/1974/2__1508_)art. 1 ch. 1, 973).
+[^76-5]: Accepté par la Landsgemeinde du 28 avril 1974. Garanti par l’Ass. féd. le 12 déc. 1974 ([FF 1974 II 1508](https://fedlex.data.admin.ch/eli/fga/1974/2__1508_)art. 1 ch. 1, 973).
 
 #### Art. 77
 
-<sup>1</sup> Les ordonnances et les règlements édictés ou modifiés par le conseil administratif sont soumis a l’assemblée communale lorsque, dans les deux mois qui suivent leur publication, un vingtième des citoyens actifs le demandent par écrit.[^77-1]
+[^77-1]
 
-<sup>2</sup> La votation doit avoir lieu lors de la prochaine assemblée communale.
-
-[^77-1]: Accepté en votation populaire du 7 juin 1998. Garanti par l’Ass. féd. le 10 juin 1999 ([FF 1999 4784](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 ch. 2 2299).
+[^77-1]: Abrogé en votation populaire du 22 sept. 2024, avec effet au 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Droit d’initiative
 
@@ -1026,18 +1030,21 @@ Entrent dans la compétence de l’assemblée de commune:
 
 <sup>1</sup> Les initiatives peuvent revêtir la forme de projets conçus en termes généraux ou de projets rédigés de toutes pièces. Si un projet rédigé en termes généraux est adopté, l’assemblée communale doit être saisie dans le délai d’une année d’un projet rédigé de toutes pièces.
 
+<sup>1a</sup> La loi peut prévoir la prolongation de ce délai.[^78-1]
+
 <sup>2</sup> Les initiatives doivent concerner un seul objet et être motivées.
 
 <sup>3</sup>
 
 Peuvent présenter des initiatives:
 
-- 1\.[^78-1] tout citoyen actif, chaque commission et le conseil administratif de la commune compétente;
+- 1\.[^78-2] tout citoyen actif, chaque commission et le conseil administratif de la commune compétente;
 - 2\. les personnes morales de droit public ou privé qui ont leur siège dans la commune, en tant qu’il s’agit d’une décision financière en faveur d’un but d’utilité public ou coopératif.
 
 <sup>4</sup> Les initiatives ne doivent rien contenir qui soit contraire au droit fédéral ou au droit cantonal.
 
-[^78-1]: Accepté par la Landsgemeinde du 28 avril 1974. Garanti par l’Ass. féd. le 12 déc. 1974 ([FF 1974 II 1508](https://fedlex.data.admin.ch/eli/fga/1974/2__1508_)art. 1 ch. 1, 973).
+[^78-1]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^78-2]: Accepté par la Landsgemeinde du 28 avril 1974. Garanti par l’Ass. féd. le 12 déc. 1974 ([FF 1974 II 1508](https://fedlex.data.admin.ch/eli/fga/1974/2__1508_)art. 1 ch. 1, 973).
 
 ### Votation par les urnes
 
@@ -1059,18 +1066,19 @@ La loi détermine les conditions dans lesquelles les communes peuvent remplacer 
 
 <sup>1</sup> Le conseil administratif (conseil communal, conseil scolaire, conseil de la commune ecclésiastique ou conseil de paroisse) se compose de trois à onze membres.
 
-<sup>2</sup> L’assemblée communale nomme, parmi les membres du conseil administratif, le président et le vice-président, pour une durée de deux ans.
+<sup>2</sup> L’assemblée communale nomme, parmi les membres du conseil administratif, le président et le vice-président. La loi règle la durée de fonction.[^81-1]
 
 <sup>3</sup> Le conseil administratif peut fixer, dans les limites de la loi, le champ d’activité de ses membres et constituer des commissions.
+
+[^81-1]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Ordonnances
 
 #### Art. 82
 
-Le conseil administratif édicte sous réserve de l’art. 77:
+Le conseil administratif édicte les ordonnances que la loi a placées dans sa compétence.[^82-1]
 
-- 1\. les ordonnances et règlements que la loi ou une décision de l’assemblée communale a placés dans sa compétence;
-- 2\. les règlements concernant des affaires d’importance secondaire, dans les limites de l’art. 83, ch. 7.
+[^82-1]: Accepté en votation populaire du 22 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Attributions administratives
 
@@ -1085,15 +1093,17 @@ Sous réserve de l’art. 80, il a notamment le pouvoir et le mandat:
 - 1\. d’approuver les procès-verbaux de l’assemblée communale;
 - 2\. d’exécuter les lois, ordonnances et règlements;
 - 3\. d’exécuter les décisions et arrêtés des autorités cantonales et de l’assemblée communale, en tant que cela n’est pas réservé à des organes spéciaux;
-- 4\. de nommer les fonctionnaires et employés en tant que leur nomination n’est pas confiée à une autre autorité par la législation;
+- 4\.[^83-1] de nommer les employés en tant que leur nomination n’est pas confiée à une autre autorité par la législation;
 - 5\. d’apprécier la constitutionnalité des initiatives présentées à l’assemblée communale selon l’art. 78, al. 4;
 - 6\. de donner les avis que le canton sollicite de la commune;
-- 7\.[^83-1] de décider, dans les limites de la compétence financière réglée par la législation communale, l’engagement de dépenses librement déterminables et uniques et de dépenses renouvelables chaque armée, ainsi que de dépenses auxquelles la commune est légalement tenue ou pour lesquelles la loi ou une décision de la commune a délégué des pleins pouvoirs au conseil administratif;
+- 7\.[^83-2] de décider, dans les limites de la compétence financière réglée par la législation communale, l’engagement de dépenses librement déterminables et uniques et de dépenses renouvelables chaque armée, ainsi que de dépenses auxquelles la commune est légalement tenue ou pour lesquelles la loi ou une décision de la commune a délégué des pleins pouvoirs au conseil administratif;
 - 8\. d’administrer la fortune communale et d’en disposer dans les limites du ch. 7;
-- 9\. de décider les dépenses pour l’entretien des bâtiments et installations qui appartiennent à la commune, sans égard au ch. 7;
+- 9\.[^83-3] …
 - 10\. d’accomplir toutes les autres tâches qui lui sont confiées par la législation.
 
-[^83-1]: Accepté par la Landsgemeinde du 28 avril 1974. Garanti par l’Ass. féd. le 12 déc. 1974 ([FF 1974 II 1508](https://fedlex.data.admin.ch/eli/fga/1974/2__1508_)art. 1 ch. 1, 973).
+[^83-1]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^83-2]: Accepté par la Landsgemeinde du 28 avril 1974. Garanti par l’Ass. féd. le 12 déc. 1974 ([FF 1974 II 1508](https://fedlex.data.admin.ch/eli/fga/1974/2__1508_)art. 1 ch. 1, 973).
+[^83-3]: Abrogé en votation populaire du 22 sept. 2024, avec effet au 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### 2. Genre de communes
 
@@ -1742,7 +1752,6 @@ Peuple
 
   - – à l’assemblée communale
     - – obligatoire 76
-    - – facultatif 77
 
   - – révision de la constitution 52<sup>1.</sup>, 93, 94
   - – votation par les urnes dans des votation par les urnes 79
@@ -1797,7 +1806,6 @@ Référendum
 - – demande de référendum
   - – contre des arrêtés et lois fédérales 61<sup>1.</sup>
   - – contre des décisions, lois et traités intercantonaux 52*a*
-  - – contre des ordonnances du conseil administratif 77
   - – référendum financière 52*a*<sup>1/</sup><sup>2.</sup>
 
 Religion

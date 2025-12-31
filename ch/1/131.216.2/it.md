@@ -3,11 +3,11 @@ sr: "131.216.2"
 title: "Costituzione del Cantone di Nidvaldo, del 10 ottobre 1965"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga"
 language: it
-version: 2023-03-13
+version: 2026-01-01
 adopted: 1965-10-10
 in_force: 1965-10-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/it/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20230313-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/3_619_631_611_fga/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1965-3_619_631_611_fga-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/20230313/it"
 
 Traduzione[^t-2][^t-1]
 
-del 10 ottobre 1965 (Stato 13 marzo 2023)[^t-3]
+del 10 ottobre 1965 (Stato 1° gennaio 2026)[^t-3]
 
 [^t-1]: Accettato nella votazione popolare del 2 mag. 2010, in vigore dal 2 mag. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 1, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^t-2]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
@@ -528,7 +528,9 @@ La legge può, per il caso di catastrofi e eventi bellici, conferire al Gran Con
 
 <sup>1</sup> I cittadini attivi esercitano il diritto di voto nel Comune politico.
 
-<sup>2</sup> Essi possono votare personalmente alle urne o per corrispondenza.
+<sup>2</sup> ...[^50-1]
+
+[^50-1]: Abrogato nella votazione popolare del 22 set. 2024, con effetto dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Elezioni
 
@@ -541,9 +543,9 @@ Gli aventi diritto di voto eleggono:
 - 1\. il Gran Consiglio;
 - 2\. il Consiglio di Stato;
 - 3\. la deputazione al Consiglio degli Stati;
-- 4\.[^51-1] …[^51-2]
+- 4\.[^51-1] ...[^51-2]
 
-<sup>2</sup> … [^51-3]
+<sup>2</sup> ... [^51-3]
 
 [^51-1]: Abrogato nella votazione popolare del 28 nov. 1999, in vigore dal 28 nov. 1999. Garanzia dell’AF del 27 set. 2000 ([FF 2000 4495](https://fedlex.data.admin.ch/eli/fga/2000/1101)art. 1 n. 1 [3123](https://fedlex.data.admin.ch/eli/fga/2000/739)).
 [^51-2]: Accettato nella votazione popolare dell’8 giu. 1997, in vigore dall’8 giu. 1997. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
@@ -951,8 +953,10 @@ L’esistenza e l’autonomia dei Comuni sono garantite.
 
 Nei limiti fissati dalla legislazione, i Comuni hanno facoltà di:
 
-- 1\. determinare liberamente la loro organizzazione e eleggere essi stessi le loro autorità e i loro funzionari e impiegati;
+- 1\.[^71-1] determinare liberamente la loro organizzazione ed eleggere essi stessi le loro autorità e i loro impiegati;
 - 2\. svolgere secondo libero apprezzamento i compiti che rientrano nel loro settore di attività.
+
+[^71-1]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Collaborazione con altri Comuni
 
@@ -988,11 +992,12 @@ L’Assemblea comunale, nonché l’Esecutivo comunale e il suo presidente sono 
 
 <sup>1</sup> L’Assemblea comunale è convocata almeno due volte all’anno.
 
-<sup>2</sup> Un’Assemblea straordinaria è convocata su decisione dell’Esecutivo comunale o allorché un ventesimo degli aventi diritto di voto lo richieda indicando gli oggetti da trattare; in quest’ultimo caso, l’Assemblea deve svolgersi entro tre mesi.
+<sup>2</sup> Un’Assemblea straordinaria è convocata su decisione dell’Esecutivo comunale o allorché un ventesimo degli aventi diritto di voto lo richieda per scritto indicando gli oggetti da trattare; in quest’ultimo caso, l’Assemblea deve svolgersi entro quattro mesi.[^75-2]
 
 <sup>3</sup> Le deliberazioni sono dirette dal presidente o dal vicepresidente dell’Esecutivo comunale o, fra gli altri suoi membri, da quello che ha raccolto più suffragi all’atto dell’elezione.
 
 [^75-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^75-2]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Votazione obbligatoria
 
@@ -1000,25 +1005,24 @@ L’Assemblea comunale, nonché l’Esecutivo comunale e il suo presidente sono 
 
 Rientrano nella competenza dell’Assemblea comunale:
 
-- 1\. l’emanazione di ordinanze e regolamenti, per quanto la legislazione o una decisione assembleare non ne abbia dichiarato competente l’Esecutivo comunale;
-- 2\. l’elezione delle autorità e dei funzionari che secondo la legislazione devono essere eletti dall’Assemblea; i Comuni sono liberi di organizzare l’elezione dei membri degli Esecutivi comunali e dei revisori dei conti in modo che la metà dei mandati venga assegnata ogni due anni;
-- 3\. la determinazione dell’aliquota dell’imposta comunale;
-- 4\.[^76-1] le decisioni in materia di spese e le decisioni finanziarie che eccedano le competenze dell’Esecutivo comunale;
-- 5\.[^76-2] la delibera del bilancio di previsione annuale;
+- 1\.[^76-1] l’emanazione del regolamento comunale e di altri regolamenti;
+- 2\.[^76-2] l’elezione delle autorità e degli impiegati che secondo la legislazione devono essere eletti dall’Assemblea; i Comuni sono liberi di organizzare l’elezione dei membri degli Esecutivi comunali e della commissione incaricata della revisione dei conti in modo che la metà dei mandati venga assegnata ogni due anni;
+- 3\.[^76-3] la determinazione del tasso d’imposizione comunale;comunale;
+- 4\.[^76-4] le decisioni in materia di spese e le decisioni finanziarie che eccedano le competenze dell’Esecutivo comunale;
+- 5\.[^76-5] la delibera del bilancio di previsione annuale;
 - 6\. l’approvazione dei conti comunali.
 
-[^76-1]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
-[^76-2]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
-
-### Votazione facoltativa
+[^76-1]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-2]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-3]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^76-4]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
+[^76-5]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
 
 #### Art. 77
 
-<sup>1</sup> Le ordinanze e i regolamenti emanati o modificati dall’Esecutivo comunale sono sottoposti all’Assemblea comunale allorché, nei due mesi dopo la loro pubblicazione, un ventesimo degli aventi diritto di voto lo richieda.[^77-1]
+[^77-1]
 
-<sup>2</sup> La votazione deve svolgersi nella successiva Assemblea.
-
-[^77-1]: Accettato nella votazione popolare del 7 giu. 1998, in vigore dal 7 giu. 1998. Garanzia dell’AF del 10 giu. 1999 ([FF 1999 4488](https://fedlex.data.admin.ch/eli/fga/1999/1_5181_4784_4488)art. 1 n. 2 2157).
+[^77-1]: Abrogato nella votazione popolare del 22 set. 2024, con effetto dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Diritto d’iniziativa
 
@@ -1026,18 +1030,21 @@ Rientrano nella competenza dell’Assemblea comunale:
 
 <sup>1</sup> Le iniziative possono rivestire la forma di proposte generiche o di progetti elaborati; il testo elaborato in seguito all’accettazione di un’iniziativa generica dev’essere sottoposto entro un anno all’Assemblea comunale.
 
+<sup>1a</sup> La legge può prevedere la proroga di tale termine.[^78-1]
+
 <sup>2</sup> Le iniziative devono concernere un unico oggetto ed essere motivate.
 
 <sup>3</sup>
 
 Possono presentare un’iniziativa:
 
-- 1\.[^78-1] i singoli cittadini attivi, le singole commissioni e l’Esecutivo del Comune competente;
+- 1\.[^78-2] i singoli cittadini attivi, le singole commissioni e l’Esecutivo del Comune competente;
 - 2\. le persone giuridiche di diritto pubblico o privato che hanno sede nel Comune, se si tratta di una decisione finanziaria per uno scopo di pubblica utilità o cooperativo.
 
 <sup>4</sup> Le iniziative non devono contenere nulla di contrario al diritto federale o cantonale.
 
-[^78-1]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
+[^78-1]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^78-2]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
 
 ### Votazione alle urne
 
@@ -1059,18 +1066,19 @@ La legge determina a quali condizioni i Comuni possono sostituire all’Assemble
 
 <sup>1</sup> L’Esecutivo comunale (Municipio, Consiglio scolastico, Consiglio parrocchiale o Consiglio cappellaniale) si compone di tre a undici membri.
 
-<sup>2</sup> Fra i membri dell’Esecutivo comunale l’Assemblea comunale nomina, per un biennio, il presidente e il vicepresidente.
+<sup>2</sup> Fra i membri dell’Esecutivo comunale l’Assemblea comunale nomina il presidente e il vicepresidente. La legge disciplina la durata del mandato.[^81-1]
 
 <sup>3</sup> Spetta all’Esecutivo comunale, nei limiti fissati dalla legislazione, stabilire il settore di attività dei suoi membri e costituire commissioni.
+
+[^81-1]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Potere regolamentare
 
 #### Art. 82
 
-Fatto salvo l’articolo 77, l’Esecutivo comunale emana:
+L’Esecutivo comunale emana le ordinanze che la legislazione dichiara di sua competenza.[^82-1]
 
-- 1\. le ordinanze e i regolamenti che la legislazione o una decisione dell’Assemblea comunale dichiara di sua competenza;
-- 2\. i regolamenti concernenti affari di secondaria importanza, nei limiti fissati dall’articolo 83 numero 7.
+[^82-1]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### Attribuzioni amministrative
 
@@ -1085,15 +1093,17 @@ Fatto salvo l’articolo 80, esso ha segnatamente la facoltà e il mandato di:
 - 1\. approvare i processi verbali dell’Assemblea comunale;
 - 2\. eseguire le leggi, le ordinanze e i regolamenti;
 - 3\. eseguire le decisioni e le sentenze delle autorità cantonali e dell’Assemblea comunale, per quanto tale attribuzione non sia riservata a organi speciali;
-- 4\. nominare i funzionari e gli impiegati, per quanto tale nomina non competa a un’altra autorità in virtù della legislazione;
+- 4\.[^83-1] nominare gli impiegati, per quanto tale nomina non competa a un’altra autorità in virtù della legislazione;
 - 5\. decidere in merito all’ammissibilità costituzionale delle iniziative presentate all’Assemblea comunale, conformemente all’articolo 78 capoverso 4;
 - 6\. dare i pareri che il Cantone chiede al Comune;
-- 7\.[^83-1] nei limiti delle competenze finanziarie definite dalla legislazione comunale, decidere in merito a spese uniche liberamente determinabili e in merito a spese annue ricorrenti, nonché in merito a spese cui il Comune è legalmente tenuto o per le quali la legislazione o una decisione dell’Assemblea comunale ha delegato poteri più estesi all’Esecutivo comunale;
+- 7\.[^83-2] nei limiti delle competenze finanziarie definite dalla legislazione comunale, decidere in merito a spese uniche liberamente determinabili e in merito a spese annue ricorrenti, nonché in merito a spese cui il Comune è legalmente tenuto o per le quali la legislazione o una decisione dell’Assemblea comunale ha delegato poteri più estesi all’Esecutivo comunale;
 - 8\. amministrare il patrimonio comunale e disporne nei limiti fissati dal numero 7;
-- 9\. decidere in merito alle spese di manutenzione degli edifici e impianti in possesso del Comune, senza riguardo al numero 7;
+- 9\.[^83-3] ...
 - 10\. adempiere tutti gli altri compiti affidatigli dalla legislazione.
 
-[^83-1]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
+[^83-1]: Accettato nella votazione popolare del 22 set. 2024, in vigore dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+[^83-2]: Accettato nella Landsgemeinde del 28 apr. 1974, in vigore dal 28 apr. 1974. Garanzia dell’AF del 12 dic. 1974 ([FF 1974 II 1486](https://fedlex.data.admin.ch/eli/fga/1974/2___1486)art. 1 n. 1 953).
+[^83-3]: Abrogato nella votazione popolare del 22 set. 2024, con effetto dal 1° gen. 2026. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 1, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 ### 2. Genere di Comuni
 
@@ -1681,7 +1691,7 @@ Dignità umana
 
 Diritto (i)
 
-- [tab] – aventi diritto di voto 77, 86
+- [tab] – aventi diritto di voto 86
 - [tab] – circondari elettorali 58
 - [tab] – cittadini attivi aventi diritto di voto 47
 - [tab] – convocazione dell’Assemblea comunale straordinaria 75
@@ -1780,7 +1790,6 @@ Elezioni e nomina
 - [tab] – organizzazione 73
 - [tab] – potere regolamentare 82
 - [tab] – votazione
-  - [tab] – facoltativa 77
   - [tab] – obbligatoria 76
 
 **Espropriazione**
@@ -1959,6 +1968,15 @@ Nomine
 - [tab] – del vicepresidente dell’Assemblea comunale 81
 - [tab] – del vicepresidente dell’Assemblea comunale 81
 - [tab] – diritto di nomina degli ecclesiastici 89
+
+Ordinanze
+
+- [tab] – attività normativa
+  - [tab] – del Consiglio di Stato 64
+  - [tab] – dell’esecutivo comunale 82
+
+- [tab] – giurisdizione costituzionale del Tribunale d’Appello 69
+- [tab] – regime transitorio 97
 
 **Ordine pubblico**
 
@@ -2175,7 +2193,6 @@ Votazioni
 - [tab] – referendum facoltativo 52*a*
 - [tab] – votazione
   - [tab] – alle urne 79
-  - [tab] – facoltativa 77
   - [tab] – obbligatoria 76
 
 - [tab] – votazioni consultive 53
@@ -2210,7 +2227,6 @@ Voto
 - [tab] – Statuto ecclesiastico 37
 - [tab] – votazione
   - [tab] – alle urne 79
-  - [tab] – facoltativa 77
   - [tab] – obbligatoria 76
 
 - [tab] – votazioni consultive 53
