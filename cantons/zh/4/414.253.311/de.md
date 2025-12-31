@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.311"
 title: "Studienordnung für die Bachelorstudiengänge Applied Digital Life Sciences, Biomedizinische Labordiagnostik, Biotechnologie, Chemie, Facility Management, Food Science und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2025-01-01"
-nachtrag: "127"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2009-11-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_311-2009_11_12-2010_03_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_311-2009_11_12-2010_03_01-131.html"
 text: pdf
 ---
 
@@ -23,7 +22,7 @@ gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudieng�
 
 beschliesst:
 
-[^t-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 9
+[^t-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
 [^t-2]: OS 65, 31. Vom Fachhochschulrat genehmigt am 15. Dezember 2009.
 [^t-3]: LS 414.252.3.
 
@@ -42,7 +41,7 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 § 2.[^1-1] Einzelheiten zu den Studiengängen, zu den zu belegenden Modulen, den Modulgruppen, den Modultypen und der Anzahl ECTS-Credits pro Modul, werden in einem Anhang geregelt.
 
 [^1-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
-[^1-2]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 9
+[^1-2]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
 
 #### § 3
 
@@ -62,7 +61,7 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 
 **1**
 
-- 1\. 1. 25 - 127 b.[^3-1] Biotechnologie
+- 1\. 1. 26 - 131 b.[^3-1] Biotechnologie
 
 - Bioprozessentwicklung und Bioengineering,
 
@@ -102,7 +101,7 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 
 [^3-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 [^3-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 24; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-[^3-3]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 9
+[^3-3]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
 [^3-4]: Fassung gemäss B vom 10. Mai 2016 (OS 71, 235; ABl 2016-06-10). In Kraft seit 1. August 2016.
 
 #### § 4
@@ -119,16 +118,9 @@ An der ZHAW oder andernorts erworbene ECTS-Credits[^3-1] können höchstens zehn
 
 Für nicht prüfungsfrei zugelassene Studienanwärterinnen und Studienanwärter werden Aufnahmeprüfungen durchgeführt. Die Einzelheiten sind im Anhang geregelt.
 
-**Eignungsabklärung Studiengang Biomedizinische Labordiagnostik**
+§ 6.[^5-1]
 
-§ 6.[^5-1],[^5-2] <sup>1</sup> Bewerberinnen und Bewerber für den Studiengang Biomedizinische Labordiagnostik müssen eine Eignungsabklärung durchlaufen. Ausgenommen sind Bewerberinnen und Bewerber für den verkürzten Studiengang Biomedizinische Labordiagnostik.
-
-<sup>2</sup> Die Zulassung zum Studium setzt eine erfolgreiche Eignungsabklärung voraus.
-
-<sup>3</sup> Die Einzelheiten der Eignungsabklärung werden im Anhang geregelt.
-
-[^5-1]: Aufgehoben durch B vom 23. August 2018 (OS 74, 24; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-[^5-2]: Eingefügt durch B vom 1. September 2022 (OS 77, 563; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+[^5-1]: Aufgehoben durch B vom 28. August 2025 (OS 80, 303; ABl 2025-09-05). In Kraft seit 1. Januar 2026. 1. 1. 26 - 131 9
 
 ### C. Eintritt ins dritte Semester
 
@@ -174,21 +166,23 @@ Die Bachelorarbeit ist eine praxisbezogene Arbeit. Sie wird mit einem schriftlic
 
 <sup>2</sup> Weichen die Noten der beiden Beurteilungen um mehr als 0,5 Notenpunkte voneinander ab, so haben sich Expertin bzw. Experte und Dozentin bzw. Dozent auf eine Note zu einigen. Bei Uneinigkeit wird wie in § 9 verfahren.
 
-**3**
-
-- 1\. 1. 25 - 127 § 12. Für Leistungsnachweise in der Bachelorarbeit kann eine einmalige Nachbesserung erbracht werden, wenn die Gesamtbewertung der Bachelorarbeit zwischen 3,5 und 3,9 liegt. Für eine erfolgreiche Nachbesserung wird die Note 4,0 erteilt.
+#### § 12
 
 **c. Nachbesserung**
 
-**Praxismodule**
+Für Leistungsnachweise in der Bachelorarbeit kann eine einmalige Nachbesserung erbracht werden, wenn die Gesamtbewertung der Bachelorarbeit zwischen 3,5 und 3,9 liegt. Für eine erfolgreiche Nachbesserung wird die Note 4,0 erteilt.
 
-§ 12 a.[^11-1] <sup>1</sup> Im Studiengang Biomedizinische Labordiagnostik werden Praxismodule in ausgewählten Institutionen des Gesundheitswesens oder der Industrie durchgeführt (z.B. Laboratorien von Spitälern, Privat- und Industrielaboren).
+**3**
+
+- 1\. 1. 26 - 131 § 12 a.[^12-1] <sup>1</sup> Im Studiengang Biomedizinische Labordiagnostik werden Praxismodule in ausgewählten Institutionen des Gesundheitswesens oder der Industrie durchgeführt (z.B. Laboratorien von Spitälern, Privat- und Industrielaboren).
+
+**Praxismodule**
 
 <sup>2</sup> Die Organisation der Module obliegt der ZHAW.
 
 <sup>3</sup> Die Wiederholung eines Praxismoduls ist ausgeschlossen, wenn schwerwiegende Gründe, die in der Person der oder des Studierenden liegen, einer Wiederholung des Praktikums entgegenstehen. Die Studienleitung entscheidet.
 
-[^11-1]: Eingefügt durch B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
+[^12-1]: Eingefügt durch B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
 
 ### E. Module und Kurse
 
@@ -230,7 +224,7 @@ Ein Modul ist bestanden, wenn a. die Modulnote 4,00 oder die Modulgruppennote, z
 
 - Bachelor of Science ZHAW in Umweltingenieurwesen mit Vertiefung in [gewählte Vertiefungsrichtung].
 
-[^hFStudienabschluss-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 9
+[^hFStudienabschluss-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
 [^hFStudienabschluss-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 #### § 17
@@ -268,11 +262,11 @@ Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studieng
 
 <sup>1</sup> Studierende, die ihr Studium im Herbst 2009 oder früher aufgenommen haben, setzen es nach der Studien- und Prüfungsordnung für Bachelorstudiengänge der Hochschule Wädenswil vom 1. September 2006 fort.
 
+<sup>2</sup> Studierende im Vollzeitstudium, die bis Ende Frühjahrssemester 2013 und Studierende im Teilzeitstudium, die bis Ende Frühjahrssemester 2016 ihr Studium nicht abgeschlossen haben, werden für das weitere Studium dieser Studienordnung unterstellt. Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen.
+
 **5**
 
-- 1\. 1. 25 - 127
-
-<sup>2</sup> Studierende im Vollzeitstudium, die bis Ende Frühjahrssemester 2013 und Studierende im Teilzeitstudium, die bis Ende Frühjahrssemester 2016 ihr Studium nicht abgeschlossen haben, werden für das weitere Studium dieser Studienordnung unterstellt. Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen.
+- 1\. 1. 26 - 131
 
 [^20-1]: Eingefügt durch B vom 26. März 2015 (OS 70, 173; ABl 2015-04-24). In Kraft seit 1. August 2015.
 
@@ -334,10 +328,6 @@ Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studieng
 
 <sup>2</sup> Studierende im Teilzeitstudium, die ihr Studium auf Herbstsemester 2019/2020 oder 2020/2021 aufgenommen haben, schliessen mit den Vertiefungstiteln gemäss der nach der Änderung vom 20. August 2020 geltenden Regelung ab.
 
-**7**
-
-- 1\. 1. 25 - 127
-
 [^hLÜbergangsbestimmu-1]: Eingefügt durch B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 [^hLÜbergangsbestimmu-2]: Eingefügt durch B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
 
@@ -348,7 +338,7 @@ Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studieng
 § 26.[^hMÜbergangsbestimmu-1] Studierende im Studiengang Lebensmitteltechnologie, die ihr Studium bis Ende Herbstsemester 2025/2026 erfolgreich beendet haben, schliessen mit dem Titel «Bachelor of Science ZHAW in Lebensmitteltechnologie mit Vertiefung in [gewählte Vertiefungsrichtung]» ab. Alle anderen Studierenden im selben Studiengang schliessen mit dem Titel «Bachelor of Science ZHAW in Food Science mit Vertiefung in [gewählte Vertiefung]» ab.
 
 [^hMÜbergangsbestimmu-1]: Eingefügt durch B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
-[^hMÜbergangsbestimmu-2]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 9
+[^hMÜbergangsbestimmu-2]: Fassung gemäss B vom 5. September 2024 (OS 79, 446; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
 
 ### Anhang zur Studienordnung für die Bachelorstudiengänge Applied Digital Life Sciences, Biomedizinische Labordiagnostik, Biotechnologie, Chemie, Facility Management, Food Science und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften
 
@@ -362,9 +352,11 @@ bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 ## Weitere Fussnoten
 
-- [3] Eingefügt durch B vom 20. März 2014 (OS 69, 276; ABl 2014-04-25). In Kraft seit 1. August 2014.
+- [3] Eingefügt durch B vom 20. März 2014 (OS 69, 276; ABl 2014-04-25). In Kraft seit 1. August 2014. 1. 1. 26 - 131 7
 - [4] Fassung gemäss B vom 20. März 2014 (OS 69, 276; ABl 2014-04-25). In Kraft seit 1. August 2014.
 - [6] Fassung gemäss B vom 26. März 2015 (OS 70, 173; ABl 2015-04-24). In Kraft seit 1. August 2015.
+- [11] Aufgehoben durch B vom 23. August 2018 (OS 74, 24; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 - [17] Fassung gemäss B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
 - [18] Fassung gemäss B vom 8. April 2021 (OS 76, 376; ABl 2021-07-23). In Kraft seit 1. November 2021.
 - [19] Fassung gemäss B vom 2. Juni 2022 (OS 77, 497; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+- [20] Eingefügt durch B vom 1. September 2022 (OS 77, 563; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
