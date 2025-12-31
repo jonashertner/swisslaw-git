@@ -1,199 +1,249 @@
 ---
 canton: GR
 number: "950.270"
-title: "Disposiziuns executivas tar la lescha davart la construcziun d'abitaziuns socialas e la meglieraziun da las relaziuns d'abitar en il territori da muntogna"
+title: "Ordinaziun davart la promoziun d'abitaziuns"
 short: OPA
 language: rm
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-01
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/950.270"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3242/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Disposiziuns executivas tar la lescha davart la construcziun d'abitaziuns socialas e la meglieraziun da las relaziuns d'abitar en il territori da muntogna
+# Ordinaziun davart la promoziun d'abitaziuns
 
-dals 02-12-1985 (versiun dals 01-01-2022)
+(OPA)
 
-sa basond sin l'art. 35 da l'ordinaziun executiva dal cussegl grond tar la lescha davart la construcziun d'abitaziuns socialas e la meglieraziun da las relaziuns d'abitar en il territori da muntogna dals 5 d'october 1984[^ingress-1]
+dals 16-12-2025 (versiun dals 01-01-2026)
 
-relaschada da la regenza ils 2 da december 1985
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1]
 
-[^ingress-1]: DG [950.260](https://www.gr-lex.gr.ch/data/950.260/rm)
+relaschada da la Regenza ils 16 da december 2025
 
-## 1. En general
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
-**Uffizi chantunal cumpetent**
+**Cumpetenzas**
 
-<sup>1</sup> L'uffizi chantunal cumpetent è l'uffizi d'agricultura e da geoinfurmaziun (uffizi).
+<sup>1</sup> Il departament cumpetent è il Departament d'economia publica e fatgs socials (departament).
+
+<sup>2</sup> Il post chantunal cumpetent è l'Uffizi d'agricultura e da geoinfurmaziun (uffizi).
+
+<sup>3</sup> En il rom da sia cumpetenza finanziala è l'uffizi è cumpetent per conceder emprests e contribuziuns, per sistir l'amortisaziun, per prolungar la durada dals emprests sco er per refusar dumondas.
 
 #### Art. 2
 
-**Cumprova dal basegn**
+**Delegaziun d'incumbensas**
 
-<sup>1</sup> La vischnanca sto cumprovar ch'i dettia in basegn per abitaziuns cun in tschains da locaziun favuraivel.
+<sup>1</sup> L'execuziun da la promoziun da la construcziun d'abitaziuns d'utilitad publica vegn delegada per part a las duas organisaziuns da tetg da la construcziun d'abitaziuns d'utilitad publica[^2-1].
+
+<sup>2</sup> La cumpetenza da las duas organisaziuns da tetg sa drizza tenor la commembranza da las patrunas e dals patruns da construcziun d'abitaziuns d'utilitad publica ch'inoltreschan la dumonda.
+
+<sup>3</sup> La dimensiun da las incumbensas delegadas e la finanziaziun vegnan fixadas en ina incarica da prestaziun tranter il departament e l'organisaziun da tetg respectiva.
+
+<sup>4</sup> Cumpetenzas da decisiun na vegnan betg delegadas. Las organisaziuns da tetg fan recumandaziuns per mauns da las autoritads cumpetentas.
+
+[^2-1]: D'ina vart è quai l'uniun "cooperativas d'abitar svizra – federaziun dals purtaders d'abitaziuns d'utilitad publica", da l'autra vart l'associaziun "Abitar Svizra – Federaziun da las societads per la construcziun d'abitaziuns"
 
 #### Art. 3
 
-**Polizia da construcziun**
+**Noziuns e definiziuns**
 
-<sup>1</sup> Las prescripziuns da la polizia da construcziun ston vegnir observadas.
+<sup>1</sup> Valair valan las suandantas noziuns:
 
-<sup>2</sup> Resalvadas restan las disposiziuns da questas disposiziuns executivas, uschenavant ch'ellas cuntegnan pretensiuns pli severas.
+- a) territori da muntogna e da collinas: las zonas da muntogna I–IV e la zona da collinas tenor il dretg federal[^3-1];
+- b) custs d'investiziun: ils custs per il terren ed ils custs da construcziun respectivamain ils custs d'acquist;
+- c) custs per il terren: ils custs ed ils custs accessorics per acquistar il terren, ils custs per indemnisaziuns, per lavurs da planisaziun e per la finanziaziun avant il cumenzament da las lavurs da construcziun sco er ils custs per l'avertura generala, inclusiv las contribuziuns d'avertura a vischnancas ed a corporaziuns;
+- d) custs da construcziun: ils custs per lavurs preparatoricas, per edifizis, per lavurs da conturn e d'avertura sco er las expensas per ils custs da construcziun accessorics;
+- e) custs d'acquist: il pretsch da cumpra, plus custs da notariat, custs dal register funsil e taglias sin midada da maun.
+
+<sup>2</sup> Ils custs da renovaziun vegnan calculads analogamain als custs da construcziun.
+
+<sup>3</sup> Per la meglieraziun da las relaziuns d'abitar en il territori da muntogna vala plinavant il suandant:
+
+- a) sco custs d'investiziun en cas d'in acquist cumbinà cun ina renovaziun vegnan resguardads tant ils custs d'acquisiziun sco er ils custs da renovaziun;
+- b) sco custs d'investiziun en cas d'in acquist cumbinà cun ina demoliziun e cun ina reconstrucziun vegnan resguardads mo ils custs da construcziun per la reconstrucziun;
+- c) ils custs vegnan eruids sin basa da las posiziuns respectivas tenor il plan dals custs da construcziun (PCC) dal Center svizzer da studis per la raziunalisaziun da la construcziun.
+
+[^3-1]: Ordinaziun davart il cataster da producziun agricula e la determinaziun da zonas (Ordinaziun davart las zonas agriculas; CS [912.1](https://db.clex.ch/link/Bund/912.1/rm))
+
+## 2. Promoziun da la construcziun d'abitaziuns d'utilitad publica
 
 #### Art. 4
 
-**Midadas**
+**Amortisaziun dals emprests**
 
-<sup>1</sup> Midadas da project sco er lavurs posteriuras da renovaziun e da cumplettaziun basegnan il consentiment precedent da l'uffizi.
+<sup>1</sup> La data dal cumenzament da l'amortisaziun vegn fixada en il cas singul.
 
-<sup>2</sup> Il consentiment vegn dà, sche las pretensiuns e cundiziuns vegnan observadas.
+<sup>2</sup> En cas gravants resultads senza atgna culpa po l'amortisaziun dals emprests vegnir sistida sin basa d'ina dumonda motivada.
+
+<sup>3</sup> En cas d'ina sistida po la durada dals emprests vegnir prolungada per maximalmain 10 onns.
 
 #### Art. 5
 
-**Utilisaziun per in auter intent**
+**Dumondas**
 
-<sup>1</sup> In'utilisaziun per in auter intent exista, sche:
+<sup>1</sup> La dumonda per ina promoziun tras il chantun sto vegnir inoltrada a l'organisaziun da tetg cumpetenta. La dumonda vala sco suttamessa, sch'i vegn inoltrada a la Confederaziun ina dumonda da promoziun per edifizis d'abitar ch'èn situads en il chantun.
 
-- a) ils locals vegnan utilisads dal tuttafatg u per part per auters intents che quels d'abitar;
-- b) in'abitaziun vegn utilisada sco abitaziun secundara u sco abitaziun da vacanzas;
-- c) las limitas decisivas d'entradas u da facultad vegnan surpassadas;
-- d) ils tschains da locaziun disponids vegnan surpassads.
+## 3. Meglieraziun da las relaziuns d'abitar en il territori da muntogna
 
 #### Art. 6
 
-**Suspensiun**
+**Premissas**
 
-<sup>1</sup> En cas gravants senza culpa po – sin dumonda motivada – vegnir suspendida l'amortisaziun d'emprests da daners tras il departament d'economia publica e fatgs socials.
-
-<sup>2</sup> En quest connex po vegnir prolungada la perioda d'amortisaziun sin maximalmain 20 onns.
-
-#### Art. 6a
-
-**Limita d'entradas e da facultad**
-
-<sup>1</sup> Las limitas d'entradas e da facultad tenor l'artitgel 12 da l'ordinaziun executiva tar la lescha davart la construcziun d'abitaziuns socialas e la meglieraziun da las relaziuns d'abitar en il territori da muntogna valan er per projects che servan a meglierar las relaziuns d'abitar en il territori da muntogna.
+<sup>1</sup> Las entradas e la facultad suttamessas a la taglia ston esser durant 3 onns in suenter l'auter sut las limitas d'entrada e da facultad determinadas.
 
 #### Art. 7
 
-**Adattaziun da la limita d'entradas e da facultad**
+**Capacitad economica**
 
-<sup>1</sup> L'adattaziun da la limita d'entradas e da facultad tenor ils artitgels 8 e 12 da l'ordinaziun executiva tar la lescha davart la construcziun d'abitaziuns socialas e la meglieraziun da las relaziuns d'abitar en il territori da muntogna vegn mintgamai fatga analogamain a l'adattaziun da questas tariffas sin plaun federal en cas d'ina midada da 10 pertschient da l'index naziunal dals pretschs da consum.
+<sup>1</sup> La capacitad economica è exaurida, sch'i vegn pratitgada in'activitad da gudogn en ina dimensiun adequata e pretendibla e sche las pussaivladads da retgav existentas vegnan tratgas a niz.
 
 #### Art. 8
 
-**Contribuziun da terzas persunas**
+**Finanziaziun e supportabladad**
 
-<sup>1</sup> Excepziunalmain pon terzas persunas surpigliar las contribuziuns da las vischnancas ch'èn vegnidas fixadas tenor l'artitgel 22 da l'ordinaziun executiva tar la lescha davart la construcziun d'abitaziuns socialas e la meglieraziun da las relaziuns d'abitar en il territori da muntogna.
+<sup>1</sup> Per las persunas e famiglias che survegnan contribuziuns per lur edifizi d'abitar ston las grevezzas finanzialas, senza la tschainsida da l'agen chapital, star en ina relaziun commensurada cun las entradas e cun la facultad.
 
-## 2. Pretensiuns da construcziun minimalas e custs da construcziun admissibels
+<sup>2</sup> La finanziaziun e la supportabladad da l'investiziun vegnan giuditgadas sin basa dals custs d'investiziun e ston vegnir cumprovadas en in preventiv da plirs onns.
 
 #### Art. 9
 
-**Pretensiuns da construcziun, surfatscha d'abitar netta, surfatscha da las stanzas**
+**Adattaziun da las limitas d'entrada e da facultad**
 
-<sup>1</sup> Las pretensiuns da construcziun, las surfatschas d'abitar nettas minimalas sco er las surfatschas minimalas da las stanzas sa drizzan tenor las prescripziuns dal dretg federal.
+<sup>1</sup> Las limitas d'entrada e da facultad vegnan mintgamai adattadas, sche l'index naziunal dals pretschs da consum (INPC) sa mida per 10 pertschient. L'emprim termin decisiv è il zercladur 2025.
 
-<sup>2</sup> La «agiunta tecnica» che vegn mintgamai edida da l'uffizi federal d'abitaziuns è impegnativa.
+<sup>2</sup> Las limitas tenor l'artitgel 7 alinea 1 da la lescha[^9-1] importan 60 000 respectivamain 170 000 francs, las limitas tenor l'artitgel 7 alinea 2 da la lescha 3000 respectivamain 20 000 francs[^9-2].
 
-<sup>3</sup> Las pretesiuns, las surfatschas d'abitar nettas e las surfatschas da las stanzas per projects che servan a meglierar las relaziuns d'abitar en il territori da muntogna èn definidas en l'agiunta.
+[^9-1]: DG [950.250](https://www.gr-lex.gr.ch/data/950.250/rm)
+[^9-2]: Tenor il stadi dal INPC dal zercladur 2025: 107,8 puncts (basa: december 2020 = 100 puncts)
 
 #### Art. 10
 
-**Limita dals custs**
+**Pretensiuns generalas**
 
-<sup>1</sup> Ils suandants custs da construcziun admissibels na dastgan betg vegnir surpassads:
+<sup>1</sup> Contribuziuns vegnan pajadas mo per edifizis d'abitar adequats, che vegnan construids tenor princips economics e tenor il stadi da la tecnica da construcziun.
 
-<table>
-<tr><th>Grondezza da l'abitaziun</th><th>Surfatscha d'abitar netta</th><th>Custs da construcziun</th></tr>
-<tr><td>4 stanzas</td><td>89 m²</td><td>360 000 francs</td></tr>
-<tr><td>5 stanzas</td><td>100 m²</td><td>435 000 francs</td></tr>
-<tr><td>6 stanzas</td><td>107 m²</td><td>480 000 francs</td></tr>
-</table>
+<sup>2</sup> Contribuziuns vegnan pajadas mo per investiziuns essenzialas. Lavurs da mantegniment e da reparatura subordinadas n'èn betg subvenziunablas. I na vegnan concedidas naginas contribuziuns sut 15 000 francs.
 
-<sup>2</sup> Ils custs da construcziun maximals tenor l'alinea 1 s'augmentan per 10 pertschient tar las abitaziuns da proprietad e per 35 pertschient tar las chasas d'ina famiglia.
-
-<sup>3</sup> Per mesas unitads da stanzas s'augmentan las limitas dals custs tenor l'alinea 1 per 10 000 francs.
-
-<sup>4</sup> Las limitas dals custs per projects che servan a meglierar las relaziuns d'abitar en il territori da muntogna èn definidas en l'agiunta.
-
-<sup>5</sup> Sch'i dat relaziuns spezialas, po la regenza augmentar en il cas singul questas limitas dals custs fin a 10 pertschient.
+<sup>3</sup> Per midadas da project sco er per lavurs da renovaziun e d'amplificaziun posteriuras dovri ordavant il consentiment da l'uffizi.
 
 #### Art. 11
 
-**Tegnair quint sco mesas stanzas**
+**Pretensiuns architectonicas**
 
-<sup>1</sup> Sco mesas stanzas valan:
+<sup>1</sup> Las pretensiuns pertutgant la grondezza da l'edifizi d'abitar e pertutgant il program minimal da locals èn fixadas en l'agiunta. Divergenzas èn excepziunalmain pussaivlas per renovar e per acquistar edifizis d'abitar existents.
 
-- a) cuschinas d'abitar cun ina surfatscha netta d'almain 11 m²;
-- b) stivettas u secturs da mangiar cun fanestras al liber e cun ina surfatscha mobigliada d'almain 6 m²;
-- c) stanzas ordaifer l'access a l'abitaziun da pli che 6 e da main che 10 m² surfatscha netta.
+<sup>2</sup> Las pretensiuns pertutgant il construir tenor ils basegns da persunas cun impediments ston esser ademplidas. Divergenzas èn excepziunalmain pussaivlas per renovar e per acquistar edifizis d'abitar existents sco er en cas da custs supplementars sproporziunads en consequenza da questas pretensiuns.
 
 #### Art. 12
 
-**Divergenzas**
+**Limita dals custs**
 
-<sup>1</sup> Sch'i vegnan renovadas abitaziuns, pon vegnir permessas divergenzas da las prestaziuns da construcziun minimalas tenor l'artitgel 9.
+<sup>1</sup> Las limitas dals custs d'investiziun, senza custs per il terren, èn fixadas en l'agiunta. Las limitas s'augmentan u sa diminueschan mintgamai tenor l'ultim stadi da l'index svizzer dals custs da construcziun d'edifizis da l'onn precedent en la regiun Svizra Orientala.
+
+<sup>2</sup> Per unitad d'abitar vegn resguardada maximalmain ina plazza da parcar.
+
+<sup>3</sup> En cas da circumstanzas particularas pon las limitas dals custs vegnir auzadas en il cas singul per fin a 10 pertschient, en spezial en cas da relaziuns da construcziun pli difficilas, en cas da cundiziuns planisatoricas spezialas, en cas d'edifizis d'abitar per persunas attempadas u per construir tenor ils basegns da persunas cun impediments.
 
 #### Art. 13
 
-**Surpassament dals custs**
+**Midada da maun e locaziun**
 
-<sup>1</sup> L'uffizi po permetter excepziunalmain surpassaments da las limitas dals custs da construcziun tar:
+<sup>1</sup> Midadas da maun èn permessas mo cun l'approvaziun da l'uffizi. L'approvaziun vegn concedida, sche la persuna che surpiglia l'object observa las premissas, las cundiziuns e las pretensiuns. Sche la midada da maun porta in gudogn, ston las contribuziuns vegnir restituidas en il rom da quest gudogn, suenter la deducziun da las taglias sin il gudogn.
 
-- a) cundiziuns da construcziun pli difficilas;
-- b) abitaziuns per persunas attempadas e per persunas invalidas.
+<sup>2</sup> Ina locaziun totala u parziala è permessa mo cun l'approvaziun da l'uffizi. L'approvaziun vegn concedida, sche las locatarias ed ils locataris adempleschan confurm al senn las premissas e sch'il tschains da locaziun è adequat.
 
 #### Art. 14
 
-**…**
+**Surpassament general e permanent**
 
-## 3. Geners da custs
+<sup>1</sup> In surpassament general e previsiblamain permanent da las limitas d'entrada u da facultad è avant maun, sch'el importa almain 30 pertschient ed ha lieu durant 3 onns in suenter l'auter.
 
 #### Art. 15
 
-**Custs d'investiziun**
+**Restituziun da las contribuziuns**
 
-<sup>1</sup> Ils custs cun dretg da contribuziuns sa cumponan dals custs dal bain immobigliar e dals custs da construcziun.
+<sup>1</sup> En cas d'utilisaziuns per auters intents, en cas da midadas da maun u da locaziuns betg approvadas u en cas d'auters motivs da restituziun, ston las contribuziuns vegnir restituidas proporziunalmain.
 
 #### Art. 16
 
-**Custs dal bain immobigliar, tschains dal dretg da construcziun**
+**Dumondas**
 
-<sup>1</sup> Ils custs dal bain immobigliar correspundan a la posiziun 0 da la posiziun dals custs da construcziun dal center svizzer da studis per la raziunalisaziun da la construcziun (PCC).
-
-<sup>2</sup> Ils custs dal bain immobigliar u il tschains dal dretg da construcziun chapitalisà a la tariffa da tschains da la 1. ipoteca na dastgan per regla betg surpassar 25 pertschient dals custs d'investiziun.
+<sup>1</sup> Las dumondas da contribuziun ston vegnir inoltradas a l'uffizi tenor sias prescripziuns.
 
 #### Art. 17
 
-**Custs da construcziun**
+**Decleraziun da l'acceptaziun**
 
-<sup>1</sup> Ils custs da construcziun sa cumponan da las lavurs preparativas (PCC posiziun 1), da l'edifizi (PCC posiziun 2), da las lavurs da conturn (PCC posiziun 4) e dals custs da construcziun accessorics (PCC posiziun 5).
-
-## 4. Procedura
+<sup>1</sup> Entaifer 30 dis suenter la communicaziun da la decisiun davart la garanzia da contribuziun stoi vegnir declerà a l'uffizi senza resalvas ed en scrit, che las cundiziuns e pretensiuns che vegnan fixadas ensemen cun la garanzia, vegnian acceptadas. Sche la decleraziun n'arriva betg entaifer il termin prescrit, scroda la decisiun davart la garanzia da contribuziun.
 
 #### Art. 18
 
-**Dumondas**
+**Directivas**
 
-<sup>1</sup> Las dumondas ston vegnir inoltradas a l'uffizi.
+<sup>1</sup> Ensemen cun l'approvaziun dal departament po l'uffizi relaschar directivas.
 
-<sup>2</sup> Uschenavant ch'i na vegn betg applitgà il dretg chantunal, sa drizza la procedura tenor las prescripziuns dal dretg federal.
-
-<sup>3</sup> L'uffizi po relaschar directivas e publitgar fegls d'infurmaziun. Quests fegls basegnan l'approvaziun dal departament d'economia publica e fatgs socials.
-
-## 5. Entrada en vigur
+## 4. Ulteriuras disposiziuns
 
 #### Art. 19
 
-**Entrada en vigur**
+**Disposiziun transitorica**
 
-<sup>1</sup> Questas disposiziuns executivas entran en vigur il 1. da schaner 1986.
+<sup>1</sup> Sche l'emprima instanza ha decidì davart la promoziun avant l'entrada en vigur da la lescha[^19-1] e da questa ordinaziun, resta applitgabel il dretg vegl.
 
--
+[^19-1]: DG [950.250](https://www.gr-lex.gr.ch/data/950.250/rm)
+
+## A1 Agiunta 1: Grondezza da l'edifizi d'abitar, program minimal da locals e limitas dals custs (art. 11 ed art. 12)
+
+#### Art. A1-1
+
+**Grondezza da l'edifizi d'abitar e program minimal da locals tenor l'art. 11**
+
+<sup>1</sup> Resguardond l'Ordinaziun concernent la surfatscha abitabla ed il program da spazi ed er l'equipament da la cuschina e dal sectur igienic (CS [843.142.3](https://db.clex.ch/link/Bund/843.142.3/rm)) vegnan fixadas las suandantas surfatschas minimalas (dumber da stanzas senza cuschina, bogn e tualettas):
+
+<table>
+<tr><th>Stanzas</th><th>Surfatscha d'abitar netta minimala</th><th>Sectur communabel</th><th>Chombras da durmir e locals da lavur</th><th>Cuschina</th><th>Bogn, tualetta</th><th>Tualetta separada</th><th>Surfatschas restantas</th></tr>
+<tr><td>2</td><td>50 m²</td><td>18 m²</td><td>14 m²</td><td>5 m²</td><td>4 m²</td><td>-</td><td>9 m²</td></tr>
+<tr><td>3</td><td>65 m²</td><td>20 m²</td><td>26 m²</td><td>5.5 m²</td><td>4.5 m²</td><td>-</td><td>9 m²</td></tr>
+<tr><td>4</td><td>85 m²</td><td>22 m²</td><td>38 m²</td><td>6 m²</td><td>5.5 m²</td><td>1.5 m²</td><td>12 m²</td></tr>
+<tr><td>5</td><td>105 m²</td><td>24 m²</td><td>50 m²</td><td>6.5 m²</td><td>6 m²</td><td>1.5 m²</td><td>17 m²</td></tr>
+<tr><td>6</td><td>125 m²</td><td>26 m²</td><td>62 m²</td><td>7 m²</td><td>6.5 m²</td><td>1.5 m²</td><td>22 m²</td></tr>
+</table>
+
+#### Art. A1-2
+
+**Limitas dals custs tenor l'art. 12**
+
+<sup>1</sup> Las limitas dals custs d'investiziun, senza custs per il terren, tenor l'index svizzer dals custs da construcziun d'edifizis, regiun Svizra Orientala, stadi da l'october 2024 = 115.7 puncts (basa: october 2020 = 100 puncts), importan (dumber da stanzas senza cuschina, bogn e tualettas):
+
+<table>
+<tr><th>Stanzas</th><th>Abitaziun</th><th>Chasa d'ina famiglia</th></tr>
+<tr><td>2</td><td>fr. 337'600.00</td><td>-</td></tr>
+<tr><td>2.5</td><td>fr. 375'300.00</td><td>-</td></tr>
+<tr><td>3</td><td>fr. 414'000.00</td><td>fr. 548'000.00</td></tr>
+<tr><td>3.5</td><td>fr. 458'300.00</td><td>fr. 588'900.00</td></tr>
+<tr><td>4</td><td>fr. 503'700.00</td><td>fr. 631'000.00</td></tr>
+<tr><td>4.5</td><td>fr. 544'600.00</td><td>fr. 688'600.00</td></tr>
+<tr><td>5</td><td>fr. 585'600.00</td><td>fr. 745'000.00</td></tr>
+<tr><td>5.5</td><td>fr. 627'700.00</td><td>fr. 783'800.00</td></tr>
+<tr><td>6</td><td>fr. 668'600.00</td><td>fr. 822'500.00</td></tr>
+<tr><td>6.5</td><td>fr. 710'700.00</td><td>fr. 853'500.00</td></tr>
+<tr><td>7</td><td>-</td><td>fr. 885'600.00</td></tr>
+<tr><td>7.5</td><td>-</td><td>fr. 917'700.00</td></tr>
+</table>
+
+<sup>2</sup> Plazzas da parcar:
+
+- a) Garascha u parcadi en ina halla: — fr. 34'300.00
+- b) Plazza da parcar sut tetg: — fr. 21'000.00
+- c) Plazza da parcar al liber: — fr. 8'800.00
+
+2025-076

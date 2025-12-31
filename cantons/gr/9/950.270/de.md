@@ -1,199 +1,249 @@
 ---
 canton: GR
 number: "950.270"
-title: Ausführungsbestimmungen zum Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet
+title: Verordnung über die Förderung von Wohnraum
 short: VFW
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-01
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/950.270"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3242/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsbestimmungen zum Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet
+# Verordnung über die Förderung von Wohnraum
 
-Vom 02.12.1985 (Stand 01.01.2022)
+(VFW)
 
-Gestützt auf Art. 35 der grossrätlichen Vollziehungsverordnung zum Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet vom 5. Oktober 1984[^ingress-1]
+Vom 16.12.2025 (Stand 01.01.2026)
 
-von der Regierung erlassen am 2. Dezember 1985
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
-[^ingress-1]: BR [950.260](https://www.gr-lex.gr.ch/data/950.260/de/art35)
+von der Regierung erlassen am 16. Dezember 2025
 
-## 1. Allgemeines
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Zuständige kantonale Amtsstelle**
+**Zuständigkeiten**
 
-<sup>1</sup> Zuständige kantonale Amtsstelle ist das Amt für Landwirtschaft und Geoinformation (Amt).
+<sup>1</sup> Zuständiges Departement ist das Departement für Volkswirtschaft und Soziales (Departement).
+
+<sup>2</sup> Zuständige Dienststelle ist das Amt für Landwirtschaft und Geoinformation (Amt).
+
+<sup>3</sup> Das Amt ist zuständig für die Gewährung von Darlehen und Beiträgen im Rahmen seiner Finanzkompetenz, für die Sistierung der Amortisation und die Verlängerung der Laufzeit der Darlehen sowie für die Ablehnung von Gesuchen.
 
 #### Art. 2
 
-**Bedürfnisnachweis**
+**Aufgabenübertragung**
 
-<sup>1</sup> Die Gemeinde hat nachzuweisen, dass für mietzinsgünstige Wohnungen ein Bedürfnis besteht.
+<sup>1</sup> Der Vollzug der Förderung des gemeinnützigen Wohnungsbaus wird teilweise den beiden Dachorganisationen des gemeinnützigen Wohnungsbaus[^2-1] übertragen.
+
+<sup>2</sup> Die Zuständigkeit der beiden Dachorganisationen richtet sich entsprechend der Mitgliedschaft der gesuchstellenden Wohnbauträgerschaft.
+
+<sup>3</sup> Der Umfang der übertragenen Aufgaben und die Finanzierung wird zwischen dem Departement und der jeweiligen Dachorganisation in einem Leistungsauftrag festgelegt.
+
+<sup>4</sup> Entscheidkompetenzen werden nicht übertragen. Die Dachorganisationen geben zuhanden der zuständigen Behörden Empfehlungen ab.
+
+[^2-1]: Es sind dies einerseits der Verein "wohnbaugenossenschaften schweiz – verband der gemeinnützigen wohnbauträger" und andrerseits die Genossenschaft "WOHNEN SCHWEIZ Genossenschaft – Verband der Baugenossenschaften"
 
 #### Art. 3
 
-**Baupolizei**
+**Begriffe und Definitionen**
 
-<sup>1</sup> Die baupolizeilichen Vorschriften müssen eingehalten werden.
+<sup>1</sup> Es gelten folgende Begriffe:
 
-<sup>2</sup> Vorbehalten bleiben die Bestimmungen dieser Ausführungsbestimmungen, soweit sie strengere Anforderungen enthalten.
+- a) Berg- und Hügelgebiet: die Bergzonen I–IV und die Hügelzone gemäss Bundesrecht[^3-1];
+- b) Anlagekosten: Grundstücks- und Erstellungskosten beziehungsweise Erwerbskosten;
+- c) Grundstückskosten: die Kosten und Nebenkosten für den Grundstückserwerb, die Aufwendungen für Abfindungen, für Planungsarbeiten und für die Finanzierung vor Baubeginn sowie die Kosten für die Groberschliessung inklusive Erschliessungsbeiträge an Gemeinden und Korporationen;
+- d) Erstellungskosten: die Kosten für Vorbereitungsarbeiten, Gebäude, Umgebungs- und Erschliessungsarbeiten sowie die Auslagen für die Baunebenkosten;
+- e) Erwerbskosten: der Kaufpreis zuzüglich Notariatskosten, Grundbuchkosten und Handänderungssteuern.
+
+<sup>2</sup> Erneuerungskosten entsprechen sinngemäss den Erstellungskosten.
+
+<sup>3</sup> Für die Verbesserung der Wohnverhältnisse im Berggebiet gilt zudem:
+
+- a) bei einem Erwerb kombiniert mit einer Erneuerung werden als Anlagekosten sowohl die Erwerbs- als auch die Erneuerungskosten berücksichtigt;
+- b) bei einem Erwerb kombiniert mit einem Abbruch und Wiederaufbau werden als Anlagekosten nur die Erstellungskosten für den Wiederaufbau berücksichtigt;
+- c) die Kosten werden aufgrund der entsprechenden Positionen gemäss Baukostenplan der Schweizerischen Zentralstelle für Baurationalisierung (BKP) ermittelt.
+
+[^3-1]: Verordnung über den landwirtschaftlichen Produktionskataster und die Ausscheidung von Zonen (Landwirtschaftliche Zonen-Verordnung; SR 912.1)
+
+## 2. Förderung des gemeinnützigen Wohnungsbaus
 
 #### Art. 4
 
-**Änderungen**
+**Amortisation der Darlehen**
 
-<sup>1</sup> Projektänderungen sowie nachträgliche Um- und Ausbauarbeiten bedürfen der vorgängigen Zustimmung des Amtes.
+<sup>1</sup> Der Zeitpunkt für den Beginn der Amortisation wird im Einzelfall festgelegt.
 
-<sup>2</sup> Die Zustimmung wird erteilt, wenn die Auflagen und Bedingungen eingehalten werden.
+<sup>2</sup> In unverschuldeten Härtefällen kann auf begründetes Gesuch hin die Amortisation der Darlehen sistiert werden.
+
+<sup>3</sup> Bei einer Sistierung kann die Laufzeit der Darlehen um höchstens zehn Jahre verlängert werden.
 
 #### Art. 5
 
-**Zweckentfremdung**
+**Gesuche**
 
-<sup>1</sup> Eine Zweckentfremdung liegt vor, wenn
+<sup>1</sup> Das Gesuch um eine Förderung durch den Kanton ist bei der zuständigen Dachorganisation einzureichen. Es gilt als gestellt, wenn für Wohnbauten, die im Kanton liegen, ein Gesuch um eine Förderung durch den Bund eingereicht wird.
 
-- a) Räume ganz oder teilweise zu andern als zu Wohnzwecken verwendet werden;
-- b) eine Wohnung als Zweit- oder Ferienwohnung verwendet wird;
-- c) die massgebenden Einkommens- oder Vermögensgrenzen überschritten werden;
-- d) die verfügten Mietzinse überschritten werden.
+## 3. Verbesserung der Wohnverhältnisse im Berggebiet
 
 #### Art. 6
 
-**Sistierung**
+**Voraussetzungen**
 
-<sup>1</sup> In unverschuldeten Härtefällen kann die Amortisation von Darlehen auf begründetes Gesuch hin durch das Departement für Volkswirtschaft und Soziales sistiert werden.
-
-<sup>2</sup> Dabei kann die Amortisationszeit auf höchstens 20 Jahre verlängert werden.
-
-#### Art. 6a
-
-**Einkommens- und Vermögensgrenze**
-
-<sup>1</sup> Die Einkommens- und Vermögensgrenzen gemäss Artikel 12 der Vollziehungsverordnung zum Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet gelten auch für Projekte zur Verbesserung der Wohnverhältnisse im Berggebiet.
+<sup>1</sup> Das steuerbare Einkommen und Vermögen müssen in drei aufeinanderfolgenden Jahren unterhalb der festgelegten Einkommens- und Vermögensgrenzen liegen.
 
 #### Art. 7
 
-**Anpassung der Einkommens- und Vermögensgrenze**
+**Wirtschaftliche Leistungsfähigkeit**
 
-<sup>1</sup> Die Anpassung der Einkommens- und Vermögensgrenze gemäss Artikel 8 und 12 der Vollziehungsverordnung zum Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet erfolgt jeweils analog der Anpassung dieser Ansätze auf Bundesebene bei einer Veränderung des Landesindexes der Konsumentenpreise um 10 Prozent.
+<sup>1</sup> Die wirtschaftliche Leistungsfähigkeit ist ausgeschöpft, wenn einer Erwerbstätigkeit in angemessenem, zumutbarem Umfang nachgegangen wird und wenn vorhandene Ertragsmöglichkeiten genutzt werden.
 
 #### Art. 8
 
-**Beitrag Dritter**
+**Finanzierung und Tragbarkeit**
 
-<sup>1</sup> Ausnahmsweise können Dritte die gemäss Artikel 22 der Vollziehungsverordnung zum Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet festgelegten Beiträge der Gemeinden übernehmen.
+<sup>1</sup> Die finanziellen Lasten unter Ausschluss der Verzinsung des Eigenkapitals müssen für die Personen und Familien, die für ihre Wohnbaute Beiträge erhalten, in einem angemessenen Verhältnis zum Einkommen und Vermögen stehen.
 
-## 2. Bauliche Mindestanforderungen und zulässige Erstellungskosten
+<sup>2</sup> Die Finanzierung und die Tragbarkeit der Investition werden aufgrund der Anlagekosten beurteilt und müssen mittels eines mehrjährigen Budgets ausgewiesen sein.
 
 #### Art. 9
 
-**Bauliche Anforderungen, Nettowohnfläche, Zimmerfläche**
+**Anpassung der Einkommens- und Vermögensgrenzen**
 
-<sup>1</sup> Die baulichen Anforderungen, die minimalen Nettowohnflächen sowie die minimalen Zimmerflächen richten sich nach den bundesrechtlichen Vorschriften.
+<sup>1</sup> Die Einkommens- und Vermögensgrenzen werden angepasst, wenn der Landesindex der Konsumentenpreise (LIK) sich jeweils um 10 Prozent verändert. Der erste massgebende Zeitpunkt ist der Juni 2025.
 
-<sup>2</sup> Der vom Bundesamt für Wohnungswesen jeweils herausgegebene «Technische Anhang» ist verbindlich.
+<sup>2</sup> Die Grenzen gemäss Artikel 7 Absatz 1 des Gesetzes[^9-1] betragen 60 000 beziehungsweise 170 000 Franken, diejenigen nach Artikel 7 Absatz 2 des Gesetzes 3000 beziehungsweise 20 000 Franken[^9-2].
 
-<sup>3</sup> Die Anforderungen, Nettowohn- und Zimmerflächen für Projekte zur Verbesserung der Wohnverhältnisse im Berggebiet sind im Anhang festgelegt.
+[^9-1]: BR [950.250](https://www.gr-lex.gr.ch/data/950.250/de)
+[^9-2]: Gemäss Stand des LIK im Juni 2025: 107,8 Punkte (Basis Dezember 2020 = 100 Punkte)
 
 #### Art. 10
 
-**Kostengrenze**
+**Grundsätzliche Anforderungen**
 
-<sup>1</sup> Die nachstehenden zulässigen Erstellungskosten dürfen nicht überschritten werden
+<sup>1</sup> Beiträge werden nur für zweckmässige, nach wirtschaftlichen Grundsätzen und gemäss dem Stand der Bautechnik ausgeführte Wohnbauten ausgerichtet.
 
-<table>
-<tr><th>Wohnungsgrösse</th><th>Nettowohnfläche</th><th>Erstellungskosten</th></tr>
-<tr><td>4 Zimmer</td><td>89 m²</td><td>Fr. 360 000.–</td></tr>
-<tr><td>5 Zimmer</td><td>100 m²</td><td>Fr. 435 000.–</td></tr>
-<tr><td>6 Zimmer</td><td>107 m²</td><td>Fr. 480 000.–</td></tr>
-</table>
+<sup>2</sup> Beiträge werden nur für wesentliche Investitionen ausgerichtet. Untergeordnete Unterhalts- und Reparaturarbeiten sind nicht beitragsberechtigt. Es werden keine Beiträge unter 15 000 Franken gewährt.
 
-<sup>2</sup> Die maximalen Erstellungskosten gemäss Absatz 1 erhöhen sich bei Eigentumswohnungen um 10 Prozent und bei Einfamilienhäusern um 35 Prozent.
-
-<sup>3</sup> Für halbe Zimmereinheiten erhöhen sich die Kostengrenzen gemäss Absatz 1 um 10 000 Franken.
-
-<sup>4</sup> Die Kostengrenzen für Projekte zur Verbesserung der Wohnverhältnisse im Berggebiet sind im Anhang festgelegt.
-
-<sup>5</sup> Die Regierung kann im Einzelfall bei Vorliegen besonderer Verhältnisse diese Kostengrenzen bis zu 10 Prozent heraufsetzen.
+<sup>3</sup> Projektänderungen sowie nachträgliche Um- und Ausbauarbeiten bedürfen der vorgängigen Zustimmung des Amts.
 
 #### Art. 11
 
-**Anrechnung als halbe Zimmer**
+**Bauliche Anforderungen**
 
-<sup>1</sup> Als halbe Zimmer gelten:
+<sup>1</sup> Die Anforderungen an die Grösse der Wohnbaute und an das minimale Raumprogramm sind im Anhang festgelegt. Bei Erneuerungen und Erwerben bestehender Wohnbauten sind in Ausnahmefällen Abweichungen möglich.
 
-- a) Wohnküchen mit einer Nettofläche von mindestens 11 m²;
-- b) Wohndielen oder Essplätze mit Fenstern ins Freie und einer verkehrsfreien Fläche von mindestens 6 m²;
-- c) Zimmer ausserhalb des Wohnungsabschlusses von mehr als 6 und weniger als 10 m² Nettofläche.
+<sup>2</sup> Die Anforderungen an das behindertengerechte Bauen müssen erfüllt sein. Bei Erneuerungen und Erwerben bestehender Wohnbauten sowie bei unverhältnismässigen Mehrkosten aufgrund dieser Anforderungen sind in Ausnahmefällen Abweichungen möglich.
 
 #### Art. 12
 
-**Abweichungen**
+**Kostengrenzen**
 
-<sup>1</sup> Bei Wohnungserneuerungen können Abweichungen von den baulichen Mindestanforderungen gemäss Artikel 9 gestattet werden.
+<sup>1</sup> Die Grenzen für die Anlagekosten ohne Grundstückskosten sind im Anhang festgelegt. Sie erhöhen oder vermindern sich jeweils gemäss dem letzten Stand des Schweizerischen Baupreisindex für den Hochbau in der Region Ostschweiz im Vorjahr.
+
+<sup>2</sup> Pro Wohneinheit wird höchstens ein Autoabstellplatz berücksichtigt.
+
+<sup>3</sup> Im Einzelfall können die Kostengrenzen bei Vorliegen besonderer Verhältnisse um bis zu 10 Prozent erhöht werden, namentlich bei erschwerten Bauverhältnissen, besonderen planerischen Auflagen, Wohnbauten für betagte Personen oder bei behindertengerechtem Bauen.
 
 #### Art. 13
 
-**Kostenüberschreitung**
+**Handänderung und Vermietung**
 
-<sup>1</sup> Das Amt kann ausnahmsweise Überschreitungen der Erstellungskostengrenzen zulassen bei:
+<sup>1</sup> Handänderungen sind nur mit Genehmigung des Amts zulässig. Diese wird erteilt, wenn die übernehmende Person die Voraussetzungen, Auflagen und Bedingungen einhält. Werden Liegenschaftsgewinne erzielt, so sind die Beiträge im Rahmen dieser Gewinne nach Abzug der Gewinnsteuern zu erstatten.
 
-- a) erschwerten Bauverhältnissen;
-- b) Wohnungen für Betagte und Invalide.
+<sup>2</sup> Eine gänzliche oder teilweise Vermietung ist nur mit Genehmigung des Amts zulässig. Diese wird erteilt, wenn die Mieterschaft sinngemäss die Voraussetzungen erfüllt und der Mietzins nicht unangemessen ist.
 
 #### Art. 14
 
-**…**
+**Grundlegende und dauernde Überschreitung**
 
-## 3. Kostenbegriffe
+<sup>1</sup> Eine grundlegende und voraussichtlich dauernde Überschreitung der Einkommens- oder Vermögensgrenzen liegt vor, wenn sie mindestens 30 Prozent beträgt und in drei aufeinanderfolgenden Jahren erfolgt.
 
 #### Art. 15
 
-**Anlagekosten**
+**Erstattung der Beiträge**
 
-<sup>1</sup> Die beitragsberechtigten Kosten setzen sich zusammen aus den Grundstück- und den Erstellungskosten.
+<sup>1</sup> Bei Zweckentfremdungen, fehlender Genehmigung bei Handänderungen und Vermietungen oder bei Vorliegen anderer Rückerstattungsgründe sind die Beiträge anteilsmässig zu erstatten.
 
 #### Art. 16
 
-**Grundstückkosten, Baurechtszins**
+**Gesuche**
 
-<sup>1</sup> Die Grundstückkosten entsprechen der Position 0 des Baukostenplans der Schweizerischen Zentralstelle für Baurationalisierung (BKP).
-
-<sup>2</sup> Die Grundstückkosten oder der zum Zinssatz der 1. Hypothek kapitalisierte Baurechtszins dürfen in der Regel 25 Prozent der Anlagekosten nicht überschreiten.
+<sup>1</sup> Gesuche um Förderbeiträge sind beim Amt nach dessen Vorgaben einzureichen.
 
 #### Art. 17
 
-**Erstellungskosten**
+**Annahmeerklärung**
 
-<sup>1</sup> Die Erstellungskosten setzen sich zusammen aus den Vorbereitungsarbeiten (BKP Position 1), dem Gebäude (BKP Position 2), den Umgebungsarbeiten (BKP Position 4) und den Baunebenkosten (BKP Position 5).
-
-## 4. Verfahren
+<sup>1</sup> Gegenüber dem Amt ist innert 30 Tagen seit Mitteilung des Entscheids über die Beitragszusicherung vorbehaltlos und schriftlich zu erklären, dass die an die Zusicherung geknüpften Auflagen und Bedingungen angenommen werden. Bei nicht fristgerechter Annahme fällt der Entscheid über die Beitragszusicherung dahin.
 
 #### Art. 18
 
-**Gesuche**
+**Weisungen**
 
-<sup>1</sup> Gesuche sind beim Amt einzureichen.
+<sup>1</sup> Das Amt kann mit Genehmigung des Departements Weisungen erlassen.
 
-<sup>2</sup> Soweit nicht kantonales Recht Anwendung findet, richtet sich das Verfahren nach den bundesrechtlichen Vorschriften.
-
-<sup>3</sup> Das Amt kann Weisungen erlassen und Merkblätter herausgeben. Diese bedürfen der Genehmigung durch das Departement für Volkswirtschaft und Soziales.
-
-## 5. Inkrafttreten
+## 4. Weitere Bestimmungen
 
 #### Art. 19
 
-**Inkrafttreten**
+**Übergangsbestimmung**
 
-<sup>1</sup> Diese Ausführungsbestimmungen treten auf den 1. Januar 1986 in Kraft.
+<sup>1</sup> Erfolgte der erstinstanzliche Förderentscheid vor dem Inkrafttreten des Gesetzes[^19-1] und dieser Verordnung, so bleibt das bisherige Recht anwendbar.
 
--
+[^19-1]: BR [950.250](https://www.gr-lex.gr.ch/data/950.250/de)
+
+## A1 Anhang 1: Grösse der Wohnbaute, minimales Raumprogramm und Kostengrenzen (Art. 11 und Art. 12)
+
+#### Art. A1-1
+
+**Grösse der Wohnbaute und minimales Raumprogramm gemäss Art. 11**
+
+<sup>1</sup> In Mitberücksichtigung der Verordnung über Nettowohnflächen und Raumprogramm sowie über Ausstattung von Küche und Hygienebereich (SR [843.142.3](https://db.clex.ch/link/Bund/843.142.3/de)) werden folgende Mindestflächen festgelegt (Zimmerzahl ohne Küche, Bad und WC):
+
+<table>
+<tr><th>Zimmer</th><th>Minimale Nettowohnfläche</th><th>Gemeinschaftsbereich</th><th>Schlaf- und Arbeitsräume</th><th>Küche</th><th>Bad, WC</th><th>Separates WC</th><th>Restflächen</th></tr>
+<tr><td>2</td><td>50 m²</td><td>18 m²</td><td>14 m²</td><td>5 m²</td><td>4 m²</td><td>-</td><td>9 m²</td></tr>
+<tr><td>3</td><td>65 m²</td><td>20 m²</td><td>26 m²</td><td>5.5 m²</td><td>4.5 m²</td><td>-</td><td>9 m²</td></tr>
+<tr><td>4</td><td>85 m²</td><td>22 m²</td><td>38 m²</td><td>6 m²</td><td>5.5 m²</td><td>1.5 m²</td><td>12 m²</td></tr>
+<tr><td>5</td><td>105 m²</td><td>24 m²</td><td>50 m²</td><td>6.5 m²</td><td>6 m²</td><td>1.5 m²</td><td>17 m²</td></tr>
+<tr><td>6</td><td>125 m²</td><td>26 m²</td><td>62 m²</td><td>7 m²</td><td>6.5 m²</td><td>1.5 m²</td><td>22 m²</td></tr>
+</table>
+
+#### Art. A1-2
+
+**Kostengrenzen gemäss Art. 12**
+
+<sup>1</sup> Die Grenzen für die Anlagekosten ohne Grundstückskosten gemäss schweizerischem Baupreisindex, Hochbau, Region Ostschweiz, Stand Oktober 2024 = 115.7 Punkte (Basis Oktober 2020 = 100 Punke), betragen (Zimmerzahl ohne Küche, Bad und WC):
+
+<table>
+<tr><th>Zimmer</th><th>Wohnung</th><th>Einfamilienhaus</th></tr>
+<tr><td>2</td><td>Fr. 337'600.00</td><td>-</td></tr>
+<tr><td>2.5</td><td>Fr. 375'300.00</td><td>-</td></tr>
+<tr><td>3</td><td>Fr. 414'000.00</td><td>Fr. 548'000.00</td></tr>
+<tr><td>3.5</td><td>Fr. 458'300.00</td><td>Fr. 588'900.00</td></tr>
+<tr><td>4</td><td>Fr. 503'700.00</td><td>Fr. 631'000.00</td></tr>
+<tr><td>4.5</td><td>Fr. 544'600.00</td><td>Fr. 688'600.00</td></tr>
+<tr><td>5</td><td>Fr. 585'600.00</td><td>Fr. 745'000.00</td></tr>
+<tr><td>5.5</td><td>Fr. 627'700.00</td><td>Fr. 783'800.00</td></tr>
+<tr><td>6</td><td>Fr. 668'600.00</td><td>Fr. 822'500.00</td></tr>
+<tr><td>6.5</td><td>Fr. 710'700.00</td><td>Fr. 853'500.00</td></tr>
+<tr><td>7</td><td>-</td><td>Fr. 885'600.00</td></tr>
+<tr><td>7.5</td><td>-</td><td>Fr. 917'700.00</td></tr>
+</table>
+
+<sup>2</sup> Parkplätze:
+
+- a) Garage oder Einstellplatz: — Fr. 34'300.00
+- b) Gedeckter Parkplatz: — Fr. 21'000.00
+- c) Parkplatz im Freien: — Fr. 8'800.00
+
+2025-076

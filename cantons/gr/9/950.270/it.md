@@ -1,199 +1,249 @@
 ---
 canton: GR
 number: "950.270"
-title: "Disposizioni di attuazione della legge sulla costruzione di abitazioni a scopo sociale e sul miglioramento delle condizioni d'abitazione nella regione di montagna"
+title: Ordinanza concernente la promozione degli alloggi
 short: OPrA
 language: it
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-01
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/950.270"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3242/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3755/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Disposizioni di attuazione della legge sulla costruzione di abitazioni a scopo sociale e sul miglioramento delle condizioni d'abitazione nella regione di montagna
+# Ordinanza concernente la promozione degli alloggi
 
-del 02.12.1985 (stato 01.01.2022)
+(OPrA)
 
-emanate dal Governo il 2 dicembre 1985
+del 16.12.2025 (stato 01.01.2026)
 
-in base all'art. 35 dell'ordinanza d'esecuzione del Gran Consiglio del 5 ottobre 1984[^ingress-1] della legge sulla costruzione di abitazioni a scopo sociale e sul miglioramento delle condizioni d'abitazione nella regione di montagna
+emanata dal Governo il 16 dicembre 2025
 
-[^ingress-1]: CSC [950.260](https://www.gr-lex.gr.ch/data/950.260/it)
+visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
-## 1. Generalità
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Ufficio cantonale competente**
+**Competenze**
 
-<sup>1</sup> L'ufficio cantonale competente è l'Ufficio per l'agricoltura e la geoinformazione (Ufficio).
+<sup>1</sup> Il Dipartimento competente è il Dipartimento dell'economia pubblica e socialità (Dipartimento).
+
+<sup>2</sup> Il servizio competente è l'Ufficio per l'agricoltura e la geoinformazione (Ufficio).
+
+<sup>3</sup> L'Ufficio è competente per la concessione di mutui e contributi nei limiti della propria competenza finanziaria, per la sospensione dell'ammortamento e per la proroga della durata dei mutui nonché per il rigetto di domande.
 
 #### Art. 2
 
-**Comprova dell'esigenza**
+**Delega di compiti**
 
-<sup>1</sup> Il comune deve comprovare l'esigenza di abitazioni economiche.
+<sup>1</sup> L'esecuzione della promozione della costruzione di abitazioni di utilità pubblica viene in parte delegata alle due organizzazioni mantello per la costruzione di abitazioni di utilità pubblica[^2-1].
+
+<sup>2</sup> La competenza delle due organizzazioni mantello viene determinata in base all'affiliazione del committente di abitazioni che presenta la domanda.
+
+<sup>3</sup> L'entità dei compiti delegati e il finanziamento vengono stabiliti in un mandato di prestazioni tra il Dipartimento e la corrispondente organizzazione mantello.
+
+<sup>4</sup> Le competenze decisionali non vengono delegate. Le organizzazioni mantello formulano raccomandazioni a destinazione delle autorità competenti.
+
+[^2-1]: Si tratta da un lato dell'associazione «cooperative d'abitazione svizzera – federazione dei committenti di immobili d'utilità pubblica» e d'altro lato della cooperativa «WOHNEN SCHWEIZ – Verband der Baugenossenschaften»
 
 #### Art. 3
 
-**Polizia edilizia**
+**Concetti e definizioni**
 
-<sup>1</sup> Le norme della polizia edilizia devono essere rispettate.
+<sup>1</sup> Si applicano i seguenti concetti:
 
-<sup>2</sup> Restano riservate le presenti disposizioni di attuazione, ove esse contengano richieste più severe.
+- a) regione di montagna e collinare: le zone di montagna I–IV e la zona collinare conformemente al diritto federale[^3-1];
+- b) costi d'investimento: costi del terreno e di costruzione oppure costi d'acquisto;
+- c) costi del terreno: i costi e le spese accessorie per l'acquisto del terreno, le spese per liquidazioni, per lavori di pianificazione e per il finanziamento prima dell'inizio dei lavori, nonché i costi dell'urbanizzazione generale, inclusi i contributi di urbanizzazione versati a comuni e corporazioni;
+- d) costi di costruzione: i costi per lavori preparatori, edifici, lavori di sistemazione esterna e di urbanizzazione nonché le spese per i costi accessori di costruzione;
+- e) costi d'acquisto: il prezzo d'acquisto più le spese notarili, le spese del registro fondiario e le imposte sul trapasso di proprietà.
+
+<sup>2</sup> I costi di rinnovo corrispondono per analogia ai costi di costruzione.
+
+<sup>3</sup> Per il miglioramento delle condizioni d'abitazione nella regione di montagna vale inoltre quanto segue:
+
+- a) in caso di acquisto combinato a un rinnovo vengono considerati quali costi d'investimento sia i costi d'acquisto sia quelli di rinnovo;
+- b) in caso di acquisto combinato a una demolizione con ricostruzione vengono considerati quali costi d'investimento soltanto i costi della ricostruzione;
+- c) i costi vengono determinati sulla base delle corrispondenti voci previste dal codice dei costi di costruzione del Centro svizzero di studio per la razionalizzazione della costruzione (CRB).
+
+[^3-1]: Ordinanza concernente il catasto della produzione agricola e la delimitazione di zone (ordinanza sulle zone agricole; RS 912.1)
+
+## 2. Promozione della costruzione di abitazioni di utilità pubblica
 
 #### Art. 4
 
-**Modifiche**
+**Ammortamento dei mutui**
 
-<sup>1</sup> Le modifiche di progetti nonché le trasformazioni e gli ampliamenti successivi presuppongono il consenso dell'Ufficio.
+<sup>1</sup> Il termine per l'inizio dell'ammortamento viene stabilito caso per caso.
 
-<sup>2</sup> Il consenso viene dato, se gli oneri e le condizioni vengono rispettati.
+<sup>2</sup> In casi di rigore di cui il debitore non ha colpa, su domanda motivata l'ammortamento dei mutui può essere sospeso.
+
+<sup>3</sup> In caso di sospensione, la durata dei mutui può essere prolungata di dieci anni al massimo.
 
 #### Art. 5
 
-**Sottrazione alla destinazione**
+**Domande**
 
-<sup>1</sup> Sussiste una sottrazione alla destinazione, se:
+<sup>1</sup> La domanda di promozione da parte del Cantone deve essere inoltrata all'organizzazione mantello competente. Essa è considerata presentata se per edifici abitativi situati nel Cantone viene presentata una domanda per la promozione da parte della Confederazione.
 
-- a) i locali vengono usati del tutto o in parte per scopi diversi da quelli di abitazione;
-- b) un'abitazione viene usata quale residenza secondaria o di vacanza;
-- c) vengono superati i limiti determinanti di reddito o di sostanza;
-- d) gli affitti stabiliti vengono superati.
+## 3. Miglioramento delle condizioni d'abitazione nella regione di montagna
 
 #### Art. 6
 
-**Sospensione**
+**Presupposti**
 
-<sup>1</sup> In casi di rigore di cui il debitore non ha colpa, su domanda motivata l'ammortamento di mutui può essere sospeso dal Dipartimento dell'economia pubblica e socialità.
-
-<sup>2</sup> Il periodo di ammortamento può essere prorogato al massimo di 20 anni.
-
-#### Art. 6a
-
-**Limite di reddito e di sostanza**
-
-<sup>1</sup> I limiti di reddito e di sostanza conformemente all'articolo 12 dell'ordinanza d'esecuzione della legge sulla costruzione di abitazioni a scopo sociale e sul miglioramento delle condizioni d'abitazione nella regione di montagna valgono anche per i progetti volti al miglioramento delle condizioni d'abitazione nella regione di montagna.
+<sup>1</sup> Il reddito e la sostanza imponibili devono essere per tre anni consecutivi inferiori ai limiti di reddito e di sostanza stabiliti.
 
 #### Art. 7
 
-**Adeguamento del limite di reddito e di sostanza**
+**Capacità economica**
 
-<sup>1</sup> L'adeguamento del limite di reddito e di sostanza conformemente agli articoli 8 e 12 dell'ordinanza d'esecuzione della legge sulla costruzione di abitazioni a scopo sociale e sul miglioramento delle condizioni d'abitazione nella regione di montagna avviene di volta in volta sulla scorta dell'adeguamento di queste quote a livello federale in caso di variazione del 10 per cento dell'indice nazionale dei prezzi al consumo.
+<sup>1</sup> La capacità economica è esaurita se viene esercitata un'attività lucrativa in misura adeguata ed esigibile e se vengono sfruttate le possibilità di reddito esistenti.
 
 #### Art. 8
 
-**Contributi di terzi**
+**Finanziamento e sostenibilità**
 
-<sup>1</sup> Eccezionalmente terzi possono assumersi i contributi del comune fissati nell'articolo 22 dell'ordinanza d'esecuzione della legge sulla costruzione di abitazioni a scopo sociale e sul miglioramento delle condizioni d'abitazione nella regione di montagna.
+<sup>1</sup> Gli oneri finanziari, esclusi gli interessi del capitale proprio, devono essere adeguatamente proporzionati al reddito e alla sostanza delle persone e delle famiglie che ricevono contributi per il loro edificio abitativo.
 
-## 2. Requisiti edilizi minimi e costi di costruzione consentiti
+<sup>2</sup> Il finanziamento e la sostenibilità dell'investimento vengono valutati in base ai costi d'investimento e devono essere dimostrati mediante un preventivo pluriennale.
 
 #### Art. 9
 
-**Requisiti edilizi, superficie abitabile netta, superfici dei locali**
+**Adeguamento dei limiti di reddito e di sostanza**
 
-<sup>1</sup> I requisiti edilizi, le superfici abitabili nette minime nonché le superfici minime dei locali si conformano alle norme del diritto federale.
+<sup>1</sup> I limiti di reddito e di sostanza vengono adeguati in caso di variazione dell'indice nazionale dei prezzi al consumo (IPC) del 10 per cento. Il primo momento determinante è giugno 2025.
 
-<sup>2</sup> L'«Appendice tecnica» pubblicata periodicamente dall'Ufficio federale per l'abitazione è vincolante.
+<sup>2</sup> I limiti conformemente all'articolo 7 capoverso 1 della legge[^9-1] ammontano a 60 000 rispettivamente a 170 000 franchi, quelli conformemente all'articolo 7 capoverso 2 della legge a 3000 rispettivamente a 20 000 franchi[^9-2].
 
-<sup>3</sup> I requisiti, la superficie abitabile netta e le superfici dei locali per progetti volti al miglioramento delle condizioni d'abitazione nella regione montana sono fissati nell'appendice.
+[^9-1]: CSC [950.250](https://www.gr-lex.gr.ch/data/950.250/it)
+[^9-2]: In base allo stato dell'IPC a giugno 2025: 107,8 punti (base dicembre 2020 = 100 punti)
 
 #### Art. 10
 
-**Limite dei costi**
+**Requisiti di base**
 
-<sup>1</sup> I limiti dei costi di costruzione consentiti qui di seguito elencati non possono essere superati:
+<sup>1</sup> I contributi vengono versati solo per edifici abitativi adeguati e realizzati secondo principi economici e secondo lo stato della tecnica edilizia.
 
-<table>
-<tr><th>Numero dei locali</th><th>Superficie abitabile netta</th><th>Costi di costruzione</th></tr>
-<tr><td>4 locali</td><td>89 m²</td><td>fr. 360 000.–</td></tr>
-<tr><td>5 locali</td><td>100 m²</td><td>fr. 435 000.–</td></tr>
-<tr><td>6 locali</td><td>107 m²</td><td>fr. 480 000.–</td></tr>
-</table>
+<sup>2</sup> I contributi vengono versati solo per investimenti importanti. I lavori di manutenzione e riparazione di rilevanza secondaria non danno diritto a contributi. Non vengono concessi contributi inferiori a 15 000 franchi.
 
-<sup>2</sup> I costi di costruzione massimi di cui al capoverso 1 aumentano del 10 per cento per le abitazioni in condominio e del 35 per cento per le case unifamiliari.
-
-<sup>3</sup> Per ogni mezza unità di locale i limiti dei costi di cui al capoverso 1 aumentano di 10 000 franchi.
-
-<sup>4</sup> I limiti dei costi per progetti volti al miglioramento delle condizioni d'abitazione nella regione montana sono fissati nell'appendice.
-
-<sup>5</sup> In situazioni particolari il Governo può nel caso singolo aumentare fino al 10 per cento questi limiti dei costi.
+<sup>3</sup> Le modifiche di progetto nonché le trasformazioni e gli ampliamenti successivi richiedono il previo consenso dell'Ufficio.
 
 #### Art. 11
 
-**Mezzi locali**
+**Requisiti edilizi**
 
-<sup>1</sup> Sono considerati mezzi locali:
+<sup>1</sup> I requisiti posti alle dimensioni dell'edificio abitativo e al programma minimo degli spazi sono stabiliti nell'allegato. In caso di rinnovi e acquisti di edifici abitativi esistenti, sono eccezionalmente possibili deroghe.
 
-- a) le cucine-tinello con una superficie netta di almeno 11 m²;
-- b) i soggiorni vestibolo o le zone pranzo con finestre che danno verso l'esterno e una superficie di disimpegno di almeno 6 m²;
-- c) i locali situati fuori dall'accesso all'abitazione con più di 6 e meno di 10 m² di superficie netta.
+<sup>2</sup> Devono essere soddisfatti i requisiti posti all'edificazione adatta ai disabili. In caso di rinnovi e acquisti di edifici abitativi esistenti nonché in caso di costi supplementari sproporzionati dovuti a questi requisiti, sono eccezionalmente possibili deroghe.
 
 #### Art. 12
 
-**Deroghe**
+**Limiti dei costi**
 
-<sup>1</sup> Per i rinnovi di abitazioni possono essere consentite deroghe ai requisiti edilizi minimi ai sensi dell'articolo 9.
+<sup>1</sup> I limiti per i costi d'investimento senza costi del terreno sono stabiliti nell'allegato. Essi aumentano o diminuiscono in base all'ultimo stato dell'indice svizzero dei prezzi delle costruzioni nell'edilizia nella regione Svizzera orientale nell'anno precedente.
+
+<sup>2</sup> Per ogni unità abitativa viene preso in considerazione al massimo un posteggio.
+
+<sup>3</sup> In singoli casi, in presenza di condizioni particolari i limiti dei costi possono essere aumentati fino al 10 per cento, specialmente in caso di condizioni edilizie difficili, di oneri pianificatori particolari, di edifici abitativi per persone anziane o di edificazione adatta ai disabili.
 
 #### Art. 13
 
-**Eccedenza dei costi**
+**Trapasso di proprietà e locazione**
 
-<sup>1</sup> L'Ufficio può consentire eccezionalmente il superamento dei limiti dei costi per:
+<sup>1</sup> I trapassi di proprietà sono ammessi solo con l'approvazione dell'Ufficio. Tale approvazione viene rilasciata se la persona che rileva l'oggetto soddisfa i presupposti e rispetta gli oneri e le condizioni stabiliti. Se vengono realizzati utili immobiliari, i contributi vanno rimborsati nel limite di questi utili, dopo deduzione delle imposte sugli utili.
 
-- a) condizioni edilizie difficili;
-- b) abitazioni per anziani e invalidi.
+<sup>2</sup> Una locazione integrale o parziale è ammissibile solamente con l'approvazione dell'Ufficio. Tale approvazione viene rilasciata se i conduttori soddisfano i presupposti e la pigione è adeguata.
 
 #### Art. 14
 
-**…**
+**Superamento sostanziale e permanente**
 
-## 3. Genere dei costi
+<sup>1</sup> Un superamento sostanziale e presumibilmente permanente dei limiti di reddito o di sostanza sussiste se tale superamento ammonta almeno al 30 per cento e si verifica per tre anni consecutivi.
 
 #### Art. 15
 
-**Costi dell'impianto**
+**Rimborso dei contributi**
 
-<sup>1</sup> I costi sussidiabili si compongono dei costi del fondo e di quelli di costruzione.
+<sup>1</sup> In caso di destinazione ad altro scopo, mancata approvazione in caso di trapasso di proprietà e locazione o in presenza di altri motivi di rimborso, i contributi devono essere rimborsati pro rata.
 
 #### Art. 16
 
-**Costi del fondo, interessi del diritto di superficie**
+**Domande**
 
-<sup>1</sup> I costi del fondo corrispondono alla posizione 0 del Codice dei costi di costruzione del Centro svizzero di studio per la razionalizzazione dell'edilizia (CCC).
-
-<sup>2</sup> I costi del fondo oppure l'interesse del diritto di superficie capitalizzato al tasso d'interesse della la ipoteca di regola non può superare il 25 per cento dei costi dell'impianto.
+<sup>1</sup> Le domande di contributi promozionali vanno presentate all'Ufficio secondo le direttive di quest'ultimo.
 
 #### Art. 17
 
-**Costi di costruzione**
+**Dichiarazione di accettazione**
 
-<sup>1</sup> I costi di costruzione si compongono dei lavori preliminari (CCC posizione 1), dell'edificio (CCC posizione 2), dei lavori esterni (CCC posizione 4) e dei costi secondari (CCC posizione 5).
-
-## 4. Procedura
+<sup>1</sup> Entro 30 giorni dalla comunicazione della decisione in merito alla garanzia di contributo, occorre dichiarare dinanzi all'Ufficio che gli oneri e le condizioni associati alla garanzia di contributo vengono accettati. In caso di mancata accettazione entro il termine fissato, la decisione relativa alla garanzia di contributo viene meno.
 
 #### Art. 18
 
-**Domande**
+**Istruzioni**
 
-<sup>1</sup> Le domande devono essere presentate all'Ufficio.
+<sup>1</sup> Con l'approvazione del Dipartimento, l'Ufficio può emanare istruzioni.
 
-<sup>2</sup> Se non trova applicazione il diritto cantonale, la procedura si conforma alle norme del diritto federale.
-
-<sup>3</sup> L'Ufficio può emanare delle istruzioni e pubblicare dei promemoria. Questi sono subordinati all'approvazione del Dipartimento dell'economia pubblica e socialità.
-
-## 5. Entrata in vigore
+## 4. Ulteriori disposizioni
 
 #### Art. 19
 
-**Entrata in vigore**
+**Disposizione transitoria**
 
-<sup>1</sup> Le presenti disposizioni di attuazione entrano in vigore il 1° gennaio 1986.
+<sup>1</sup> Se la decisione di promozione di prima istanza è giunta prima dell'entrata in vigore della legge[^19-1] e della presente ordinanza, rimane applicabile il diritto previgente.
 
--
+[^19-1]: CSC [950.250](https://www.gr-lex.gr.ch/data/950.250/it)
+
+## A1 Allegato 1: Dimensioni dell'edificio abitativo, programma minimo degli spazi e limiti dei costi (art. 11 e art. 12
+
+#### Art. A1-1
+
+**Dimensioni dell'edificio abitativo e programma minimo degli spazi conformemente all'art. 11**
+
+<sup>1</sup> Tenendo anche conto dell'ordinanza concernente l'area abitabile netta e la relativa ripar-tizione in vani come pure la dotazione della cucina e dei servizi igienici (RS [843.142.3](https://db.clex.ch/link/Bund/843.142.3/it)), vengono stabilite le seguenti superfici minime (numero di locali senza cucina, bagno e WC):
+
+<table>
+<tr><th>Locali</th><th>Superficie abitabile netta minima</th><th>Spazi comuni</th><th>Camere da letto e locali di lavoro</th><th>Cucina</th><th>Bagno, WC</th><th>WC separato</th><th>Superfici rimanenti</th></tr>
+<tr><td>2</td><td>50 m²</td><td>18 m²</td><td>14 m²</td><td>5 m²</td><td>4 m²</td><td>-</td><td>9 m²</td></tr>
+<tr><td>3</td><td>65 m²</td><td>20 m²</td><td>26 m²</td><td>5.5 m²</td><td>4.5 m²</td><td>-</td><td>9 m²</td></tr>
+<tr><td>4</td><td>85 m²</td><td>22 m²</td><td>38 m²</td><td>6 m²</td><td>5.5 m²</td><td>1.5 m²</td><td>12 m²</td></tr>
+<tr><td>5</td><td>105 m²</td><td>24 m²</td><td>50 m²</td><td>6.5 m²</td><td>6 m²</td><td>1.5 m²</td><td>17 m²</td></tr>
+<tr><td>6</td><td>125 m²</td><td>26 m²</td><td>62 m²</td><td>7 m²</td><td>6.5 m²</td><td>1.5 m²</td><td>22 m²</td></tr>
+</table>
+
+#### Art. A1-2
+
+**Limiti dei costi conformemente all'art. 12**
+
+<sup>1</sup> I limiti per i costi d'investimento senza costi del terreno secondo l'indice svizzero dei prezzi delle costruzioni nell'edilizia, regione Svizzera orientale, stato ottobre 2024 = 115.7 punti (base ottobre 2020 = 100 punti), ammontano a (numero di locali senza cucina, bagno e WC):
+
+<table>
+<tr><th>Locali</th><th>Abitazione</th><th>Casa unifamiliare</th></tr>
+<tr><td>2</td><td>fr. 337'600.00</td><td>-</td></tr>
+<tr><td>2.5</td><td>fr. 375'300.00</td><td>-</td></tr>
+<tr><td>3</td><td>fr. 414'000.00</td><td>fr. 548'000.00</td></tr>
+<tr><td>3.5</td><td>fr. 458'300.00</td><td>fr. 588'900.00</td></tr>
+<tr><td>4</td><td>fr. 503'700.00</td><td>fr. 631'000.00</td></tr>
+<tr><td>4.5</td><td>fr. 544'600.00</td><td>fr. 688'600.00</td></tr>
+<tr><td>5</td><td>fr. 585'600.00</td><td>fr. 745'000.00</td></tr>
+<tr><td>5.5</td><td>fr. 627'700.00</td><td>fr. 783'800.00</td></tr>
+<tr><td>6</td><td>fr. 668'600.00</td><td>fr. 822'500.00</td></tr>
+<tr><td>6.5</td><td>fr. 710'700.00</td><td>fr. 853'500.00</td></tr>
+<tr><td>7</td><td>-</td><td>fr. 885'600.00</td></tr>
+<tr><td>7.5</td><td>-</td><td>fr. 917'700.00</td></tr>
+</table>
+
+<sup>2</sup> Posteggios:
+
+- a) Garage o posteggio in autorimessa: — fr. 34'300.00
+- b) Posteggio coperto: — fr. 21'000.00
+- c) Posteggio scoperto: — fr. 8'800.00
+
+2025-076
