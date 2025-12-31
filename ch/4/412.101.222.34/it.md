@@ -3,18 +3,18 @@ sr: "412.101.222.34"
 title: Ordinanza della SEFRI del 22 marzo 2021 sulla formazione professionale di base Carrozziera riparatrice / Carrozziere riparatore con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/215"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2021-03-22
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/215/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2021-215-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/215/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/215/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-215-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/215/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Carrozziera riparatrice / Carrozziere riparatore con attestato federale di capacità (AFC)
 
-del 22 marzo 2021 (Stato 1° aprile 2024)
+del 22 marzo 2021 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>45308</td><td>Carrozziera riparatrice AFC / Carrozziere riparatore AFC</td></tr>
@@ -28,10 +28,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto e durata
 
@@ -113,7 +113,7 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -131,7 +131,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <table>
 <tr><td>Insegnamento</td><td>1° anno</td><td>2° anno</td><td>3° anno</td><td>Totale</td></tr>
-<tr><td>a. Conoscenze professionali</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Smontaggio e montaggio di parti della carrozzeria</td><td>90</td><td>90</td><td>90</td><td>270</td></tr>
 <tr><td>– Riparazione di parti della carrozzeria</td><td>70</td><td>70</td><td>70</td><td>210</td></tr>
 <tr><td>– Trattamento del rivestimento di base di parti della carrozzeria</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
@@ -143,13 +143,14 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^7-2].
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -321,11 +322,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>3</td><td>Rivestimento di base di parti della carrozzeria</td><td>45 min.</td><td></td><td>20 %</td></tr>
 </table>
 
-- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^18-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 19
 
