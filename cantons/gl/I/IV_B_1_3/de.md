@@ -4,13 +4,13 @@ number: IV B/1/3
 title: Gesetz über Schule und Bildung
 short: Bildungsgesetz
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
+version: 2026-01-01
+valid_until: 2026-07-31
 version_adopted: 2025-05-04
 adopted: 2001-05-06
 in_force: 2002-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2568/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2568/pdf_file"
 
 (Bildungsgesetz)
 
-Vom 06.05.2001 (Stand 01.06.2025)
+Vom 06.05.2001 (Stand 01.01.2026)
 
 Erlassen von der Landsgemeinde am 6. Mai 2001
 
@@ -662,7 +662,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>1</sup> Die Schulkommission ist zuständig für die strategische Führung und die Aufsicht über die Schule in der Gemeinde. Sie erfüllt die ihr durch dieses Gesetz und seine kantonalen und kommunalen Ausführungsbestimmungen übertragenen Aufgaben.
 
-<sup>2</sup> Sie kann bestimmte Aufgaben anderen Kommissionen zuweisen. Artikel 93 des Gemeindegesetzes gilt sinngemäss. Entscheidbefugnisse können nur dann delegiert werden, wenn dies vom kantonalen Recht ausdrücklich vorgesehen ist und von der Gemeindeordnung nicht ausgeschlossen wird.
+<sup>2</sup> Sie kann bestimmte Aufgaben anderen Kommissionen oder einer Verwaltungseinheit zuweisen. Entscheidbefugnisse können nur dann delegiert werden, wenn dies vom kantonalen Recht ausdrücklich vorgesehen ist und von der Gemeindeordnung nicht ausgeschlossen wird.
 
 <sup>3</sup> Bei kantonalen Schulen sowie Privatschulen mit öffentlicher Aufgabenerfüllung (Art. 8) tritt die in den entsprechenden Spezialvorschriften bestimmte Behörde an die Stelle der Schulkommission.
 
