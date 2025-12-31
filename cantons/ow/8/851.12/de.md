@@ -1,22 +1,21 @@
 ---
 canton: OW
 number: "851.12"
-title: Kantonsratsbeschluss über den Selbstbehalt bei der Individuellen Prämienverbilligung in der Krankenversicherung für das Jahr 2025
+title: Kantonsratsbeschluss über den Selbstbehalt bei der Individuellen Prämienverbilligung in der Krankenversicherung für das Jahr 2026
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-03-20
+version: 2026-01-01
+version_adopted: 2026-03-26
 adopted: 2026-03-26
 in_force: 2026-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/851.12"
-pdf: "http://gdb.ow.ch/api/de/versions/1933/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2000/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonsratsbeschluss über den Selbstbehalt bei der Individuellen Prämienverbilligung in der Krankenversicherung für das Jahr 2025
+# Kantonsratsbeschluss über den Selbstbehalt bei der Individuellen Prämienverbilligung in der Krankenversicherung für das Jahr 2026
 
-vom 20.03.2025 (Stand 01.01.2025)
+vom 26.03.2026 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -31,10 +30,10 @@ beschliesst:
 
 #### Ziff. 1
 
-<sup>1</sup> Der Selbstbehalt gemäss Art. 2 Abs. 2 des Einführungsgesetzes zum Krankenversicherungsgesetz beträgt für 2025 bis Fr. 35 000.– anrechenbares Einkommen 9,50 Prozent, danach steigt der Selbstbehalt pro Fr. 100.– anrechenbares Einkommen um je 0,01 Prozent.
+<sup>1</sup> Der Selbstbehalt gemäss Art. 2 Abs. 2 des Einführungsgesetzes zum Krankenversicherungsgesetz beträgt für 2026 bis Fr. 35 000.– anrechenbares Einkommen 9,50 Prozent, danach steigt der Selbstbehalt pro Fr. 100.– anrechenbares Einkommen um je 0,01 Prozent.
 
 #### Ziff. 2
 
 <sup>1</sup> Der Regierungsrat wird mit dem Vollzug beauftragt.
 
-OGS 2025, 3
+2026, 007
