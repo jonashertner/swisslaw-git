@@ -3,20 +3,19 @@ canton: LU
 number: "687"
 title: Verordnung über den Gebührenbezug der Gemeinden
 language: de
-version: 2014-07-01
-valid_until: 2025-12-31
-version_adopted: 2014-05-13
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/687"
-pdf: "https://srl.lu.ch/api/de/versions/2770/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4609/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Gebührenbezug der Gemeinden
 
-vom 23.11.2010 (Stand 01.07.2014)
+vom 23.11.2010 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -49,7 +48,7 @@ beschliesst:
 
 **Gebühr nach Zeitaufwand**
 
-<sup>1</sup> Bemisst sich die Gebühr nach dem Zeitaufwand, kommt grundsätzlich ein Stundenansatz von 60 bis 175 Franken zur Anwendung. Dieser ist von der Qualifikation und der Erfahrung der eingesetzten Mitarbeiterinnen und Mitarbeiter abhängig.
+<sup>1</sup> Bemisst sich die Gebühr nach dem Zeitaufwand, kommt grundsätzlich ein Stundenansatz von 60 bis 200 Franken zur Anwendung. Dieser ist von der Qualifikation und der Erfahrung der eingesetzten Mitarbeiterinnen und Mitarbeiter abhängig.
 
 ## 2 Gebühren
 
@@ -59,18 +58,18 @@ beschliesst:
 
 <sup>1</sup> Es werden folgende Gebühren bezogen:
 
-- 1\. Erlass eines Entscheids, Spruchgebühr Fr. 200.– bis Fr. 15 000.–; wenn grosse wirtschaftliche Interessen auf dem Spiel stehen bis Fr. 25 000.–
-- 2\. Schriftliche Auskunftserteilung und Stellungnahmen mit erheblichem Aufwand, je nach Aufwand und wirtschaftlicher Bedeutung des Geschäfts, sofern ein Privater gebührenpflichtig ist: Fr. 120.– bis Fr. 3450.–
-- 3\. Ausfertigung (inkl. Zustellung) von Schriftstücken wie Entscheiden, Beschlüssen, Eingaben, Inventaren, Protokollen, Briefen, Meldungen u. Ä., pro Seite: Fr. 23.–, bei Verwendung von Formularen pro Stück Fr. 12.–
+- 1\. Erlass eines Entscheids, Spruchgebühr Fr. 300.– bis Fr. 15 000.–; wenn grosse wirtschaftliche Interessen auf dem Spiel stehen bis Fr. 25 000.–
+- 2\. Schriftliche Auskunftserteilung und Stellungnahmen mit erheblichem Aufwand: nach Zeitaufwand
+- 3\. Ausfertigung von Schriftstücken wie Entscheiden, Beschlüssen, Eingaben, Inventaren, Protokollen, Briefen, Meldungen u. Ä.: nach Zeitaufwand zuzüglich Portokosten
 - 4\. Kopien pro Stück: Fr. –.50, Farbkopien pro Stück: Fr. –.70
-- 5\. Erstellen einer Abschrift oder eines Auszugs, inklusive amtlicher Bescheinigung derselben, für die Seite: Fr. 23.–
-- 6\. Ausstellung eines Leumunds- oder Handlungsfähigkeitszeugnisses: Fr. 23.–; Ausstellung von anderen Zeugnissen, Bestätigungen oder Bescheinigungen: Fr. 12.–
-- 7\. Erstellung Publikation (für Zeitung, Anschlag, Internet), pro Seite: Fr. 23.–
+- 5\. …
+- 6\. Ausstellung von Zeugnissen, Bestätigungen oder Bescheinigungen: Fr. 13.–
+- 7\. Erstellung Publikation (für Zeitung, Anschlag, Internet): nach Zeitaufwand
 - 8\. Teilnahme an einer Sitzung, Augenschein, Einvernahme, Inventarisation, Dienstreise und dergleichen, wenn keine Gebühr für ein Rechtsgeschäft erhoben wird: nach Zeitaufwand. Bei Dienstreisen werden zusätzlich die Fahrtauslagen und übrigen Spesen verrechnet.
 - 9\. Aktenstudium, Vorbereitung von Sitzungen oder Beschlüssen, Entwurf von Entscheiden oder Vernehmlassungen, Nachschlagen in Protokollen und Registern usw., wenn keine Gebühr für ein Rechtsgeschäft erhoben wird: nach Zeitaufwand
-- 10\. Einlegen der Akten eines erledigten Falles in das Archiv, Scanning externer Dokumente, inbegriffen Registrierung usw.: nach Zeitaufwand
-- 11\. Versenden eines Telefax (inkl. Übertragungsgebühr), je Seite: Fr. 2.50
-- 12\. Entgegennahme von Geld und Wertsachen zur Hinterlegung, inbegriffen Quittung und Kontrolle des hinterlegten Vermögenswertes: 1 ‰, mindestens Fr. 60.–
+- 10\. …
+- 11\. …
+- 12\. …
 
 #### § 5
 
@@ -78,11 +77,11 @@ beschliesst:
 
 <sup>1</sup> Es werden folgende Gebühren bezogen:
 
-- 1\. Anmeldung bei der Einwohnerkontrolle, für Familie oder Einzelperson: Fr. 35.–; die Abmeldung ist unentgeltlich
-- 2\. Aufforderung zur Abgabe, Erneuerung oder Vorweisung von Schriften, zur Anmeldung oder zur Meldung eines Adresswechsels, je Fr. 23.–
-- 3\. Ausstellung eines Interimsausweises, inbegriffen Kontrolle: Fr. 23.–; Erneuerung Interimsausweis: Fr. 12.–
-- 4\. Ausstellung einer Wohnsitzbestätigung: Fr. 12.–
-- 5\. Versenden nicht abgeholter Ausweisschriften an den Inhaber oder die Inhaberin: Fr. 23.–
+- 1\. Anmeldung bei der Einwohnerkontrolle, für Familie oder Einzelperson: Fr. 40.–; die Abmeldung ist unentgeltlich
+- 2\. Aufforderung zur Abgabe, Erneuerung oder Vorweisung von Schriften, zur Anmeldung oder zur Meldung eines Adresswechsels, je Fr. 24.–
+- 3\. Ausstellung eines Interimsausweises, inbegriffen Kontrolle: Fr. 24.–; Erneuerung Interimsausweis: Fr. 13.–
+- 4\. Ausstellung einer Wohnsitzbestätigung: Fr. 13.–
+- 5\. Versenden nicht abgeholter Ausweisschriften an den Inhaber oder die Inhaberin: Fr. 24.–
 
 #### § 6
 
@@ -96,10 +95,11 @@ beschliesst:
 
 <sup>1</sup> Es werden folgende Gebühren bezogen:
 
-- 1\. Genehmigung der Rechnung und Prüfung des Berichts eines Vormunds, einer Vormundin, eines Beistands oder einer Beiständin: Die Gebühr beträgt generell 3 ‰, mindestens Fr. 200.–, höchstens Fr. 2500.–. Massgebend ist das Reinvermögen. In besonders umfangreichen und zeitaufwendigen Fällen kann die generelle Gebühr bis zum anderthalbfachen Betrag erhöht werden: mindestens Fr. 300.–, höchstens Fr. 3750.–.
-  - a. Ausfertigung: gemäss § 4 Ziffer 3
+- 1\. Genehmigung der Rechnung und Prüfung des Berichts eines Vormunds, einer Vormundin, eines Beistands oder einer Beiständin: Die Gebühr beträgt generell 3 ‰, mindestens Fr. 300.–, höchstens Fr. 2650.–. Massgebend ist das Reinvermögen. In besonders umfangreichen und zeitaufwendigen Fällen kann die generelle Gebühr bis zum anderthalbfachen Betrag erhöht werden: mindestens Fr. 450.–, höchstens Fr. 4000.–.
+  - a. …
   - b. Kopien: gemäss § 4 Ziffer 4
 - 2\. Entgegennahme und Registrierung der Erklärung über die gemeinsame elterliche Sorge: Fr. 100.–
+- 2\.<sup>bis</sup> Ausstellung eines Handlungsfähigkeitszeugnisses: Fr. 24.–
 - 3\. Übrige Verrichtungen der Kindes- und Erwachsenenschutzbehörde: gemäss § 4
 
 #### § 8
@@ -108,37 +108,38 @@ beschliesst:
 
 <sup>1</sup> Es werden folgende Gebühren bezogen:
 
-- 1\. Aufbewahrung Verfügungen von Todes wegen (inkl. Registereintrag und Herausgabe), einmalige Gebühr: Fr. 95.–
+- 1\. Aufbewahrung Verfügungen von Todes wegen und Eheverträge: Grundgebühr pro Dokument: Fr. 100.– zuzüglich Zeitaufwand für Registrierung, Herausgabe, Auswechseln, Einlage Ergänzungen
 - 2\. Aufnahme, Prüfung und Auflage von Sicherungsinventar, Steuerinventar und öffentlichem Inventar: nach Zeitaufwand
-  - a. Ausfertigung: gemäss § 4 Ziffer 3
+  - a. …
   - b. Kopien: gemäss § 4 Ziffer 4
 - 3\. Entgegennahme und Aufbewahrung von Erbschaftsguthaben, davon 1 ‰, mindestens Fr. 60.–, höchstens Fr. 600.–
 - 4\. Erbenverzeichnis: nach Zeitaufwand
-  - a. Ausfertigung: gemäss § 4 Ziffer 3
+  - a. …
   - b. Kopien: gemäss § 4 Ziffer 4
-- 5\. Anzeigen, Mitteilungen an die Erben, Vermächtnisnehmer, für das Stück: Fr. 23.–. Kopien der Mitteilung: gemäss § 4 Ziffer 4.
+- 5\. Anzeigen, Mitteilungen an die Erbinnen und Erben, Vermächtnisnehmerinnen und -nehmer: nach Zeitaufwand zuzüglich Portokosten; Kopien der Mitteilung: gemäss § 4 Ziffer 4
 - 6\. Erbverhandlung: nach Zeitaufwand
-  - a. Ausfertigung des Protokolls: gemäss § 4 Ziffer 3
+  - a. …
   - b. Kopien des Protokolls: gemäss § 4 Ziffer 4
-- 7\. Eröffnung von Testamenten
-  - a. Gebührenrahmen: Fr. 60.– bis Fr. 230.–
-  - b. Ausfertigung: gemäss § 4 Ziffer 3
+- 7\. Eröffnung von letztwilligen Verfügungen: nach Zeitaufwand
+  - a. …
+  - b. …
   - c. Kopien: gemäss § 4 Ziffer 4
 - 8\. Erstellung und Auflage Teilungsplan: nach Zeitaufwand
-  - a. Ausfertigung: gemäss § 4 Ziffer 3
+  - a. …
   - b. Kopien: gemäss § 4 Ziffer 4
-- 9\. Schuldenzahlung, inbegriffen Quittung und Kontrolle, für den Posten: Fr. 12.–
-- 10\. Zustimmung zum Teilungsplan, pro Erbe: Fr. 12.–
-- 11\. Aushändigung von Erbteilen oder Vermächtnissen: je Fr. 18.–, zuzüglich Auslagen
+- 9\. Schuldenzahlung: nach Zeitaufwand
+- 10\. Zustimmung zum Teilungsplan, pro Erbe und Erbin: Fr. 13.–
+- 11\. Aushändigung von Erbteilen oder Vermächtnissen: je Fr. 19.–, zuzüglich Auslagen
 - 12\. Anstelle der Gebühren gemäss den Ziffern 8–11 kann bei Teilungen eine Gebühr von 1 bis 4 Prozent des teilbaren Nachlassvermögens erhoben werden. Die Höhe richtet sich nach dem Zeitaufwand und der Höhe des Nachlasses.
-- 13\. Erbgangsbescheinigung gemäss Artikel 559 des Schweizerischen Zivilgesetzbuches[^8-1]:
-  - a. Gebührenrahmen: Fr. 60.– bis Fr. 800.–
-  - b. Ausfertigung: gemäss § 4 Ziffer 3
+- 13\. Erbenbescheinigung gemäss Artikel 559 des Schweizerischen Zivilgesetzbuches[^8-1] und Bescheinigung für Willensvollstreckerinnen und -vollstrecker gemäss Artikel 517f. des Schweizerischen Zivilgesetzbuches[^8-2]:
+  - a. Gebührenrahmen: Fr. 63.– bis Fr. 500.–; bei sehr komplexen Fällen nach Zeitaufwand
+  - b. …
   - c. Kopien: gemäss § 4 Ziffer 4
 - 14\. Führen des Verfahrensprotokolls: nach Zeitaufwand
 - 15\. Archivierung der Erbschaftsakten: nach Zeitaufwand
 
 [^8-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^8-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### § 9
 
@@ -147,12 +148,12 @@ beschliesst:
 <sup>1</sup> Es werden folgende Gebühren bezogen:
 
 - 1\. Bekanntmachung einer Steigerung in den Zeitungen: nach Zeitaufwand
-  - a. Ausfertigung: gemäss § 4 Ziffer 3
+  - a. …
   - b. Kopien: gemäss § 4 Ziffer 4
-- 2\. Ausfertigung des Gantrodels, inbegriffen Zusammenstellung der Ausstände: gemäss § 4 Ziffer 3. Kopien: gemäss § 4 Ziffer 4.
+- 2\. Ausfertigung des Gantrodels, inbegriffen Zusammenstellung der Ausstände: nach Zeitaufwand; Kopien: gemäss § 4 Ziffer 4
 - 3\. Mitwirkung an einer Versteigerung: nach Zeitaufwand
-- 4\. Ausfertigung Steigerungsverzeichnis und Steigerungsprotokoll: gemäss § 4 Ziffer 3. Kopien: gemäss § 4 Ziffer 4.
-- 5\. Anstelle der Gebühren gemäss den Ziffern 1–4 kann eine prozentuale Gebühr erhoben werden, bei Liegenschaftssteigerungen 2 Prozent des Zuschlagspreises, mindestens jedoch Fr. 5300. –, und bei Fahrnissteigerungen 10 Prozent des Zuschlagspreises, mindestens jedoch Fr. 106. –, höchstens Fr. 2120. –.
+- 4\. Ausfertigung Steigerungsverzeichnis und Steigerungsprotokoll: nach Zeitaufwand; Kopien: gemäss § 4 Ziffer 4
+- 5\. Anstelle der Gebühren gemäss den Ziffern 1–4 kann eine prozentuale Gebühr erhoben werden, bei Liegenschaftssteigerungen 2 Prozent des Zuschlagspreises, höchstens jedoch Fr. 20 000. –, und bei Fahrnissteigerungen 10 Prozent des Zuschlagspreises, höchstens jedoch Fr. 10 000. –.
 - 6\. Inkassogebühren:
   - a. bei Fahrnissteigerung: bis Fr. 50 000.–: 1 %, von Fr. 50 001.– bis Fr. 100 000.–: 0,6 %, ab Fr. 100 001.–: 0,4 %
   - b. bei Liegenschafts- und Werttitelsteigerungen: 1 ‰
