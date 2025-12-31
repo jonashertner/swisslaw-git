@@ -3,18 +3,18 @@ sr: "412.101.222.06"
 title: Verordnung des SBFI vom 8. Juli 2014 über die berufliche Grundbildung Textilpraktikerin/Textilpraktiker mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/430"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2014-07-08
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/430/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2014-430-20240401-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/430/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/430/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2014-430-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/430/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Textilpraktikerin/Textilpraktiker mit eidgenössischem Berufsattest (EBA)
 
-vom 8. Juli 2014 (Stand am 1. April 2024)
+vom 8. Juli 2014 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>26309</td><td>Textilpraktikerin EBA/Textilpraktiker EBA Agente en produits textiles AFP/ Agent en produits textiles AFP Addetta tessile CFP/Addetto tessile CFP</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:[^ingress-5]
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I 153 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand Schwerpunkte und Dauer
@@ -125,7 +125,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^5-1]: Fassung gemäss Ziff. II 153 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -143,7 +143,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <table>
 <tr><td>Unterricht</td><td>1. Lehrjahr</td><td>2. Lehrjahr</td><td>Total</td></tr>
-<tr><td>a. Berufskenntnisse</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Berufskenntnisse</td><td></td><td></td><td></td></tr>
 <tr><td>– Herstellen textiler Produkte</td><td>160</td><td>160</td><td>320</td></tr>
 <tr><td>– Konfektionieren technischer Textilien</td><td>40</td><td>40</td><td>80</td></tr>
 <tr><td>Total Berufskenntnisse</td><td>200</td><td>200</td><td>400</td></tr>
@@ -154,7 +154,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>2</sup> Geringfügige Abweichungen von der vorgegebenen Anzahl der Lektionen pro Lehrjahr innerhalb eines Handlungskompetenzbereichs sind in Absprache mit den zuständigen kantonalen Behörden und der zuständigen Organisation der Arbeitswelt möglich.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-2].
 
 <sup>4</sup> Unterrichtssprache ist in der Regel die Landessprache des Schulortes.
 
@@ -162,7 +162,8 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>6</sup> Die Kantone können andere Unterrichtssprachen zulassen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -307,11 +308,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>2.</td><td>Herstellen textiler Produkte und Konfektionieren technischer Textilien</td><td></td><td>30 Min.</td><td>50 %</td></tr>
 </table>
 
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^18-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^18-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 19
 
