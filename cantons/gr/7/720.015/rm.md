@@ -4,13 +4,12 @@ number: "720.015"
 title: Disposiziuns executivas tar la legislaziun da taglia
 short: DERtLT
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-18
+version: 2026-01-01
+version_adopted: 2026-02-17
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3536/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3793/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3536/pdf_file"
 
 (DERtLT)
 
-dals 27-11-2007 (versiun dals 01-01-2025)
+dals 27-11-2007 (versiun dals 01-01-2026)
 
 sa basond sin l'art. 182 al. 4 da la Lescha federala dals 14 da december 1990 davart la taglia federala directa (LTFD)[^ingress-1], sin l'art. 72 al. 3 da la Lescha federala dals 14 da december 1990 davart l'armonisaziun da la taglia directa dals chantuns e da las vischnancas (LATD)[^ingress-2], sin l'art. 73 al. 1 da la Lescha federala dals 13 d'october 1965 davart la taglia anticipada (LTAnt)[^ingress-3], sin l'art. 15 da l'Ordinaziun dal Cussegl federal dals 22 d'avust 1967 davart l'imputaziun da taglias a la funtauna estras[^ingress-4], sin l'Ordinaziun dal Cussegl federal dals 2 d'october 1996 tar la Cunvegna svizra-americana davart l'imposiziun dubla da taglia[^ingress-5] sco er sin l'art. 45 al. 1 da la Constituziun dal chantun Grischun dals 18 da matg 2003 / 14 da settember 2003[^ingress-6]
 
@@ -90,11 +89,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 4a
 
-**2. Marscha da chapital (art. 21c al. 6 LT)**
-
-<sup>1</sup> Per apports e per agios che vegnan pajads durant ina marscha da chapital tenor ils artitgels 653s ss. dal Dretg d'obligaziuns (DO)[^4a-1] vala l'artitgel 21c alinea 1 LT mo, per quant ch'els surpassan las restituziuns da reservas en il rom da questa marscha da chapital.
-
-[^4a-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
+**…**
 
 #### Art. 5
 
@@ -172,26 +167,11 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 10b
 
-**6. Gieus per daners (art. 30 al. 1 lit. m e lit. n, art. 36 al. 1 lit. n LT)**
-
-<sup>1</sup> Libers da taglia èn:
-
-- a) ils gudogns realisads en casinos cun gieus da casino ch'èn admess tenor la lescha federala dals 29 da settember 2017[^10b-1] davart gieus per daners (lescha da gieus per daners, LGD), sche quests gudogns na derivan betg d'ina activitad da gudogn independenta;
-- b) ils singuls gudogns fin ad ina summa dad 1 milliun francs che derivan da la participaziun a gieus da gronda extensiun admess tenor la LGD e da la participaziun online a gieus da casino admess tenor la LGD;
-- c) ils gudogns che derivan da la participaziun a gieus da pitschna extensiun admess tenor la LGD;
-- d) ils singuls gudogns fin 1000 francs che derivan da lottarias e da gieus d'inschign per promover la vendita e che n'èn – tenor l'artitgel 1 alinea 2 literas d ed e – betg suttamess a la LGD.
-
-<sup>2</sup> Dals singuls gudogns che derivan da la participaziun a gieus per daners, ils quals n'èn betg libers da taglia tenor l'alinea 1, vegnan deducids 5 pertschient, dentant maximalmain 5000 francs, sco custs da las messas. Dals singuls gudogns che derivan da la participaziun online a gieus da casino tenor l'alinea 1 litera b vegnan deducidas las messas prelevadas durant l'onn fiscal dal conto online, dentant maximalmain 25 000 francs.
-
-[^10b-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/rm)
+**…**
 
 #### Art. 10c
 
-**7. Prestaziuns transitoricas per persunas dischoccupadas pli attempadas (art. 30 al. 1 lit. o LT)**
-
-<sup>1</sup> Libras da taglia èn las entradas sin basa da la Lescha federala davart las prestaziuns transitoricas per ils dischoccupads pli attempads[^10c-1].
-
-[^10c-1]: CS [837.2](https://db.clex.ch/link/Bund/837.2/rm)
+**…**
 
 #### Art. 11
 
@@ -232,21 +212,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 14a
 
-**11. Sancziuns finanzialas (art. 32 al. 1 lit. h, al. 2 ed al. 3 LT)**
-
-<sup>1</sup> Las persunas cun activitad da gudogn independenta pon deducir ils custs motivads da la fatschenta u da la professiun, en spezial las sancziuns che prelevan il gudogn, uschenavant ch'ellas n'han betg in intent penal.
-
-<sup>2</sup> Betg deducibels n'èn en spezial:
-
-- a) pajaments da daners da corrupziun en il senn dal dretg penal svizzer;
-- b) expensas fatgas per pussibilitar malfatgs u sco cuntraprestaziun per commetter malfatgs;
-- c) multas e chastis pecuniars;
-- d) sancziuns administrativas finanzialas, uschenavant ch'ellas n'han betg in intent penal.
-
-<sup>3</sup> Sche sancziuns tenor l'alinea 2 litera c e litera d èn vegnidas pronunziadas d'ina autoritad penala u administrativa da l'exteriur, èn ellas deduciblas, sche:
-
-- a) la sancziun violescha l'urden public svizzer; u
-- b) la pajataglia u il pajataglia cumprova vardaivlamain ch'ella u el ha fatg tut il pussaivel per sa cumportar confurm a la lescha.
+**…**
 
 #### Art. 15
 
@@ -329,21 +295,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 23b
 
-**1. Sancziuns finanzialas (art. 81 al. 1 lit. a e lit. j, al. 3 ed al. 3<sup>bis</sup> LT)**
-
-<sup>1</sup> Tar las expensas motivadas da la fatschenta appartegnan en spezial las taglias federalas, chantunalas e communalas sco er las sancziuns che prelevan il gudogn, uschenavant ch'ellas n'han betg in intent penal.
-
-<sup>2</sup> Betg tar las expensas motivadas da la fatschenta n'appartegnan en spezial:
-
-- a) pajaments da daners da corrupziun en il senn dal dretg penal svizzer;
-- b) expensas fatgas per pussibilitar malfatgs u sco cuntraprestaziun per commetter malfatgs;
-- c) multas;
-- d) sancziuns administrativas finanzialas, uschenavant ch'ellas n'han betg in intent penal.
-
-<sup>3</sup> Sche sancziuns tenor l'alinea 2 litera c e litera d èn vegnidas pronunziadas d'ina autoritad penala u administrativa da l'exteriur, èn ellas deduciblas, sche:
-
-- a) la sancziun violescha l'urden public svizzer; u
-- b) la pajataglia u il pajataglia cumprova vardaivlamain ch'ella u el ha fatg tut il pussaivel per sa cumportar confurm a la lescha.
+**…**
 
 #### Art. 24
 
@@ -361,11 +313,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 24b
 
-**3. Bilantscha en valuta estra (art. 97 al. 1<sup>bis</sup> ed al. 2<sup>bis</sup> LT)**
-
-<sup>1</sup> Sche la bilantscha è vegnida fatga en ina valuta estra, sto il gudogn net suttamess a la taglia vegnir midà en francs. Decisiv è il stgomi mesaun (vendita) da la perioda fiscala.
-
-<sup>2</sup> Sche la bilantscha è vegnida fatga en ina valuta estra, sto l'agen chapital suttamess a la taglia vegnir midà en francs. Decisiv è il stgomi mesaun (vendita) a la fin da la perioda fiscala.
+**…**
 
 ## 3. Las taglias a la funtauna
 
@@ -409,15 +357,15 @@ relaschada da la regenza ils 27 da november 2007
 <sup>1<sup>bis</sup></sup> La taglia a la funtauna (incl. part a la vischnanca ed a la baselgia) sin las entradas substitutivas cun il code tariffar G importa:
 
 - a) 0,0 % per ils emprims 18 000.– fr.
-- b) 9,5 % per ils ulteriurs 6000.– fr.
-- c) 13,5 % per ils ulteriurs 12 000.– fr.
-- d) 16,0 % per ils ulteriurs 12 000.– fr.
-- e) 17,5 % per ils ulteriurs 12 000.– fr.
-- f) 17,0 % per ils ulteriurs 30 000.– fr.
-- g) 17,5 % per ils ulteriurs 30 000.– fr.
-- h) 18,7 % per ils ulteriurs 60 000.– fr.
-- i) 20,0 % per ils ulteriurs 640 000.– fr.
-- j) 19,0 % per tut las entradas suttamessas a la taglia, sche quellas surpassan 820 000.– fr.
+- b) 8,7 % per ils ulteriurs 6000.– fr.
+- c) 13,1 % per ils ulteriurs 12 000.– fr.
+- d) 15,3 % per ils ulteriurs 12 000.– fr.
+- e) 16,6 % per ils ulteriurs 12 000.– fr.
+- f) 16,1 % per ils ulteriurs 30 000.– fr.
+- g) 16,5 % per ils ulteriurs 30 000.– fr.
+- h) 17,8 % per ils ulteriurs 60 000.– fr.
+- i) 19,7 % per ils ulteriurs 640 000.– fr.
+- j) 18,6 % per tut las entradas suttamessas a la taglia, sche quellas surpassan 820 000.– fr.
 
 <sup>1<sup>ter</sup></sup> La taglia a la funtauna da las cunfinarias e dals cunfinaris tenor l'alinea 1 literas n - r importa 80 pertschient da la taglia a la funtauna tenor il code tariffar, per il qual ellas ed els adempleschan las premissas.
 
@@ -1095,5 +1043,217 @@ relaschada da la regenza ils 27 da november 2007
 <sup>2</sup> Cun l'entrada en vigur da questas disposiziuns executivas vegnan abolidas las disposiziuns executivas dals 13 da favrer 2001[^70-1] cun resalva da l'artitgel 69.
 
 [^70-1]: CUL 2001 en il FUC 2001, 914 e midadas tenor il register da la CUL
+
+## A1 Agiunta 1: Amortisaziuns e retenziuns (art. 11a)
+
+### A1.1. Amortisaziuns
+
+#### Art. A1-1
+
+**Reglas generalas**
+
+<sup>1</sup> Las amortisaziuns d'objects da la facultad da fatschenta ston esser motivadas da la fatschenta. Il medem status sco las amortisaziuns directas han ils apports en fonds d'annullaziun, d'amortisaziun, da renovaziun u d'extincziun (amortisaziuns indirectas).
+
+<sup>2</sup> Las amortisaziuns ston vegnir cumprovadas tras ina contabilitad reglada e tras inventaris cumplets. Ils pajataglias che n'èn betg obligads da far ina contabilitad e che na fan betg ina contabilitad ston far ina glista da las amortisaziuns en ina tabella d'amortisaziuns cuntinuanta.
+
+<sup>3</sup> Las amortisaziuns pon vegnir quintadas da la valur cudeschada u da la valur d'acquisiziun. La metoda d'amortisaziun che vegn tschernida ina giada sto vegnir mantegnida. Sch'i vegn amortisà da la valur d'acquisiziun, ston las tariffas d'amortisaziun che partan da la valur cudeschada, vegnir reducidas per la mesadad.
+
+<sup>4</sup> Las tariffas d'amortisaziun che figureschan sut l'artitgel A1-2 correspundan a la reducziun normala da la valur. Amortisaziuns pli autas pon vegnir admessas fiscalmain mo, sch'il pajataglia cumprova ch'igl ha dà ina reducziun da la valur pli auta durant la perioda da taxaziun.
+
+<sup>5</sup> Las reducziuns da la valur sin vaglias e sin participaziuns èn per regla da natira transitorica. Da questas reducziuns da la valur na pon ins betg tegnair quint tras amortisaziuns, mabain unicamain tras rectificaziuns da la valur. In'amortisaziun è admessa mo, sch'il pajataglia cumprova che la reducziun da la valur è definitiva. L'autoritad da taxaziun po examinar durant mintga perioda fiscala, sche las rectificaziuns da la valur admessas èn motivadas da la fatschenta.
+
+<sup>6</sup> La recuperaziun d'amortisaziuns è admessa en il rom da las pussaivladads da deducir las perditas, sche las amortisaziuns necessarias n'han betg pudì vegnir fatgas durant ils onns respectivs pervia d'in nausch andament da las fatschentas e sch'i vegn cumprovà in basegn da recuperaziun.
+
+<sup>7</sup> Fiscalmain n'èsi betg admess da sparter las valurs d'in activum, sche quai duai chaschunar tariffas d'amortisaziun pli autas.
+
+<sup>8</sup> Las amortisaziuns excessivas che surpassan las tariffas normalas e la reducziun effectiva da la valur, vegnan quintadas vitiers a las entradas / al gudogn suttamess a la taglia ed augmentan uschia las valurs da la taglia sin las entradas / sin il gudogn u vegnan quintadas giu en la procedura d'execuziun unica. La procedura d'execuziun unica consista d'in supplement unic a las entradas / al gudogn suttamess a la taglia, da moda ch'ils avantatgs da progressiun e da tschains vegnan gulivads. Las valurs da la taglia sin las entradas / sin il gudogn na vegnan betg midadas tras la procedura d'execuziun unica. Per curreger amortisaziuns excessivas vegn per regla applitgada la procedura d'execuziun unica. Il pajataglia po dentant pretender la cumpensaziun totala cun la correctura da las valurs da la taglia sin las entradas / sin il gudogn.
+
+<sup>9</sup> Amortisaziuns immediatas pon vegnir fatgas valair en il rom da l'artitgel A1-6. Sche amortisaziuns immediatas èn vegnidas admessas, vala la valur restanta sco valur d'investiziun ed ulteriuras amortisaziuns pon vegnir fatgas mo da questa valur restanta. Amortisaziuns immediatas èn admessas mo per objects cun ina reducziun da la valur relativamain auta. Per chasas d'abitar, per chasas da fatschenta, per edifizis da biro e da banca, per gronds negozis e.u.v. n'èsi betg pussaivel da far amortisaziuns immediatas. Uschenavant ch'ellas surpassan las tariffas normalas d'amortisaziun, èn amortisaziuns immediatas custs extraordinaris.
+
+<sup>10</sup> L'agiunta qua avant maun vegn applitgada tant per la taglia chantunala sco er per la taglia federala directa. Tenor la Lescha federala davart la taglia federala directa (LTFD) pon las activas ch'èn vegnidas revalitadas per gulivar perditas, mo vegnir amortisadas, sche la revalitaziun è stada admessa dal puntg da vista dal dretg commerzial e sche las perditas fissan anc stadas imputablas il mument da l'amortisaziun.
+
+#### Art. A1-2
+
+**Tariffas d'amortisaziun per manaschis da fatschenta**
+
+<sup>1</sup> Valair valan las suandantas tariffas per amortisaziuns normalas e per supplements per amortisaziuns excessivas:
+
+<table>
+<tr><th>Materia</th><th>Tariffas d'amortisaziun en % da la valur cudeschada</th><th>Supplement en % da l'amortisaziun excessiva</th></tr>
+<tr><td>Chasas d'abitar e da persunal, mo sin edifizis sulets</td><td>2</td><td>45</td></tr>
+<tr><td>Chasas d'abitar e da persunal, ensemen sin edifizis e terren</td><td>1.5</td><td>47.5</td></tr>
+<tr><td>Chasas da fatschenta, edifizis da biro e da banca, gronds negozis, edifizis da kino, mo sin edifizis sulets</td><td>4</td><td>42.5</td></tr>
+<tr><td>Chasas da fatschenta, edifizis da biro e da banca, gronds negozis, edifizis da kino, ensemen sin edifizis e terren</td><td>3</td><td>45</td></tr>
+<tr><td>Edifizis da gastronomia e d'hotellaria, mo sin edifizis sulets</td><td>6</td><td>38.5</td></tr>
+<tr><td>Edifizis da gastronomia e d'hotellaria, ensemen sin edifizis e terren</td><td>4</td><td>42.5</td></tr>
+<tr><td>Edifizis da fabricas, da magasins ed edifizis da mastergn sco lavuratoris, garaschas, tancs fixs, silos, serras, mo sin edifizis sulets</td><td>8</td><td>35.5</td></tr>
+<tr><td>Edifizis da fabricas, da magasins ed edifizis da mastergn sco lavuratoris, garaschas, tancs fixs, silos, serras, ensemen sin edifizis e terren</td><td>7</td><td>37</td></tr>
+<tr><td>Bogns cuverts, stabiliments da sport, mo sin edifizis sulets</td><td>10</td><td>32.5</td></tr>
+<tr><td>Bogns cuverts, stabiliments da sport, ensemen sin edifizis e terren</td><td>8</td><td>35.5</td></tr>
+<tr><td>Construcziuns moviblas sin terren ester</td><td>20</td><td>20</td></tr>
+<tr><td>Binaris, conducts d'aua per intents industrials</td><td>20</td><td>20</td></tr>
+<tr><td>Indrizs d'aria cundiziunada e sfradenttaders</td><td>20</td><td>20</td></tr>
+<tr><td>Ventilaziuns ed indrizs da cumbat cunter canera</td><td>20</td><td>20</td></tr>
+<tr><td>Tancs libers e transportabels, containers</td><td>20</td><td>20</td></tr>
+<tr><td>Magasins a curunas da gronda autezza ed indrizs sumegliants</td><td>15</td><td>25</td></tr>
+<tr><td>Mobiglias da fatschenta, installaziuns da lavuratori e da magasinaziun cun caracter da mobiglias</td><td>25</td><td>18</td></tr>
+<tr><td>Meds da transport da tut gener, senza vehichels a motor, incl. chars annexs</td><td>30</td><td>15</td></tr>
+<tr><td>Vehichels a motor da tut gener</td><td>40</td><td>10</td></tr>
+<tr><td>Valurs immaterialas che servan a l'activitad da gudogn, sco patentas, dretgs da firmas, da chasas edituras, da concessiuns, da licenzas ed auters dretgs d'utilisaziun, goodwill</td><td>40</td><td>10</td></tr>
+<tr><td>Apparats e maschinas per intents da producziun, maschinas da cuschina da la gastronomia, apparats da kino, automats da vendita</td><td>40</td><td>10</td></tr>
+<tr><td>Indrizs d'elavuraziun da datas, maschinas da biro, software</td><td>40</td><td>10</td></tr>
+<tr><td>Sistems da regulaziun automatics, indrizs da segirezza, apparats electronics da mesiraziun e da controlla</td><td>40</td><td>10</td></tr>
+<tr><td>Maschinas che lavuran en emprima lingia en squadra u sut cundiziuns spezialas</td><td>45</td><td>7.5</td></tr>
+<tr><td>Utensils, iseglia, utensils da maschinas, apparats, emballadis, material da puntanadas, palettas</td><td>45</td><td>7.5</td></tr>
+<tr><td>Vaschella e laschiva da la gastronomia e da l'hotellaria</td><td>45</td><td>7.5</td></tr>
+</table>
+
+<sup>2</sup> La tariffa d'amortisaziun pli auta per edifizis sulets premetta, che edifizis e terren vegnian bilantschads separadamain. Sin il terren na pon en quest cas betg vegnir fatgas fiscalmain amortisaziuns.
+
+<sup>3</sup> La tariffa «ensemen sin edifizis e terren» sto vegnir applitgada, sche edifizis e terren vegnan bilantschads ensemen. I na dastga dentant betg vegnir amortisà dapli che la valur d'investiziun resp. la valur reala pli bassa dal terren.
+
+#### Art. A1-3
+
+**Tariffas d'amortisaziun per pendicularas, runals e.u.v.**
+
+<sup>1</sup> Las tariffas d'amortisaziun per pendicularas, runals e.u.v. vegnan regladas en l'agiunta 2.
+
+#### Art. A1-4
+
+**Manaschis agriculs**
+
+<sup>1</sup> Per manaschis agriculs vegn applitgà il fegl d'infurmaziun da l'Administraziun federala da taglia pertutgant amortisaziuns (A/1993, agricultura e selvicultura). Las tariffas d'amortisaziun figureschan en il mussavia per possessurs da manaschis agriculs.
+
+#### Art. A1-5
+
+**Cas spezials**
+
+<sup>1</sup> Installaziuns che spargnan energia: Isolaziuns termicas vi d'edifizis existents, installaziuns per midar il sistem da stgaudament u per utilisar l'energia solara sco er autras mesiras per spargnar energia pon vegnir amortisadas durant l'emprim ed il segund onn fin a 50 pertschient da la valur cudeschada e durant ils onns suandants a las tariffas usitadas per las installaziuns respectivas.
+
+<sup>2</sup> Installaziuns che protegian l'ambient: Indrizs per nettegiar l'aua, per proteger cunter la canera e per nettegiar l'aria duvrada pon vegnir amortisads durant l'emprim ed il segund onn fin a 50 pertschient da la valur cudeschada e durant ils onns suandants a las tariffas usitadas per ils indrizs respectivs.
+
+#### Art. A1-6
+
+**Amortisaziuns immediatas**
+
+<sup>1</sup> Sin ils bains da la facultad d'investiziun ch'èn suttamess ad ina perdita considerabla da valur, pon vegnir fatgas valair amortisaziuns immediatas durant l'onn d'acquisiziun u da construcziun sco er durant l'onn suandant u durant l'onn da finiziun sco er durant l'onn suandant. Las amortisaziuns immediatas ston vegnir fatgas da la valur d'investiziun/dals custs d'investiziun senza il terren.
+
+<sup>2</sup> Per manaschis da fatschenta èn admessas las suandantas amortisaziuns immediatas:
+
+- a) Valurs immaterialas ed objects movibels sco mobiglias, vehichels, installaziuns da computer, installaziuns da magasinaziun, stabiliments da producziun e.u.v.: — 100%
+- b) Edifizis da fabricas, da magasins ed edifizis da mastergn sco lavuratoris, garaschas, serras e.u.v.: — 60%
+- c) Edifizis da gastronomia e d'hotellaria sco er chasas da persunal: — 40%
+
+<sup>3</sup> Per manaschis agriculs che vegnan suttamess a la taglia tenor contabilitad u tenor registraziuns, pon las amortisaziuns immediatas vegnir fatgas valair sco suonda:
+
+- a) Installaziuns mecanicas, maschinas ed apparats: — 100%
+- b) Plantas: — 60%
+- c) Edifizis: — 60%
+- d) Meglieraziuns: — 40%
+
+<sup>4</sup> Las tariffas d'amortisaziun per pendicularas, runals e.u.v. vegnan regladas en l'agiunta 2.
+
+### A1.2. Retenziuns
+
+#### Art. A1-7
+
+**Magasin**
+
+<sup>1</sup> Retenziuns pauschalas sin il magasin pon vegnir fatgas, sch'il magasin è vegnì registrà cumplettamain ed exactamain. Il magasin sto vegnir valità als custs d'acquisiziun u da producziun u, sche la valur da martgà usitada al lieu è pli bassa, tenor quels.
+
+<sup>2</sup> Sin la valur dal magasin vegnan admess 33⅓ pertschient sco reserva privilegiada e betg suttamessa a la taglia il mument ch'ella vegn augmentada. Sche la valur dal magasin sa reducescha, sa sbassa er la reserva privilegiada a maximalmain 33⅓ pertschient da la nova valur d'inventari. Immobiglias na valan betg sco rauba, medemamain betg products che vegnan producids per incarica fixa da terzas persunas (lavurs cumenzadas e finidas).
+
+#### Art. A1-8
+
+**Dabun da fatschenta**
+
+<sup>1</sup> A pajataglias che preschentan ina contabilitad manada confurm a l'urden u registraziuns cumparegliablas vegni permess – senza controlla pli detagliada – da furmar in'uschenumnada retenziun delcredere en furma d'ina pauschala. Questa pauschala importa:
+
+- a) 5 pertschient per dabuns en Svizra
+- b) 10 pertschient per dabuns a l'exteriur
+
+<sup>2</sup> Retenziuns pli autas èn admessas fiscalmain mo, sch'i vegn cumprovà che l'entir import è motivà da la fatschenta.
+
+#### Art. A1-9
+
+**Obligaziuns da garanzia**
+
+<sup>1</sup> Pajataglias che ston obligar garanzias per prestaziuns furnidas pon far valair – senza cumprova speziala – ina retenziun da maximalmain 2 pertschient da la svieuta suttamessa a l'obligaziun da garanzia. Retenziuns pli autas èn admessas fiscalmain mo, sch'i vegn cumprovà che l'entir import è motivà da la fatschenta.
+
+### A1.3. Reservas per custs da perscrutaziun e da svilup
+
+#### Art. A1-10
+
+**Reservas per custs da perscrutaziun e da svilup**
+
+<sup>1</sup> Da las expensas motivadas da la fatschenta fan part er las reservas per ils futurs custs da perscrutaziun e da svilup. Tenor las disposiziuns executivas da la Regenza (art. 12 ss. DERtLT) pon las reservas vegnir furmadas mo sa referind a projects u a products concrets. L'interpresa sto cumprovar che las expensas correspundentas vegnan a resultar en ina perioda da circa 5 onns.
+
+<sup>2</sup> Annualmain na dastgan las reservas betg surpassar 10 pertschient dal gudogn sut-tamess a la taglia (avant la deducziun da la reserva) e na dastgan betg surpassar en total l'import dad fr. 1'000'000.00.
+
+<sup>3</sup> Las reservas ston vegnir schliadas cun effect sin il resultat, sch'i na dat nagins custs da perscrutaziun e da svilup durant la perioda numnada. Cura ch'ils custs corre¬spundents vegnan pajads, ston els vegnir cudeschads sin donn e cust da la reserva.
+
+## A2 Agiunta 2: Tariffas d'amortisaziun per pendicularas, runals e.u.v. (art. 11a)
+
+#### Art. A2-1
+
+**Reglas generalas**
+
+<sup>1</sup> Las reglas generalas per amortisaziuns tenor l'agiunta 1 pertutgant amortisaziuns e retenziuns vegnan applitgadas er per pendicularas, runals e.u.v. L'autezza da las amortisaziuns per pendicularas, runals e.u.v. vegn reglada qua sutvart.
+
+#### Art. A2-2
+
+**Tariffas d'amortisaziun per pendicularas**
+
+<sup>1</sup> Valair valan las suandantas tariffas per amortisaziuns normalas e per supplements per amortisaziuns excessivas (mintgamai Pendicularas | Trajectorias):
+
+<table>
+<tr><th>Materia</th><th>Tariffas d'amortisaziun en % da la valur d'acquisiziun</th><th>Supplement en % da l'amortisaziun excessiva</th></tr>
+<tr><td>Bains immobigliars e dretgs</td><td>3 | 3</td><td>38.5</td></tr>
+<tr><td>Edifizis e terren ensemen</td><td>4 | 4</td><td>35.5</td></tr>
+<tr><td>Installaziuns mecanicas</td><td>10 | 10</td><td>20</td></tr>
+<tr><td>Installaziuns electricas</td><td>10 | 10</td><td>20</td></tr>
+<tr><td>Pilasters intermediars e fundaments</td><td>4 | 4</td><td>35.5</td></tr>
+<tr><td>Sugas purtantas</td><td>10 | 10</td><td>20</td></tr>
+<tr><td>Sugas da tracziun e sugas d'equiliber</td><td>20 | -</td><td>10</td></tr>
+<tr><td>Sugas da transport resp. sugas da tracziun</td><td>- | 30</td><td>5</td></tr>
+<tr><td>Sugas da tensiun</td><td>30 | 30</td><td>5</td></tr>
+<tr><td>Sugas auxiliaras</td><td>20 | 30</td><td>10/5</td></tr>
+<tr><td>Rollas purtantas e rollas da pressiun</td><td>15 | 25</td><td>15/6.5</td></tr>
+<tr><td>Indrizs da telecommunicaziun e da segiranza</td><td>20 | 20</td><td>10</td></tr>
+<tr><td>Cabinas, sutgas, chars auxiliars</td><td>10 | 20</td><td>20/10</td></tr>
+<tr><td>Recipients per il transport da rauba</td><td>20 | 20</td><td>10</td></tr>
+<tr><td>Mobiglias</td><td>12.5 | 12.5</td><td>18</td></tr>
+<tr><td>Vehichels champesters cun usura speziala</td><td>25 | 25</td><td>6.5</td></tr>
+<tr><td>Maschinas</td><td>15 | 15</td><td>15</td></tr>
+</table>
+
+<sup>2</sup> Per manaschis accessorics, per edifizis e per vehichels da pistas e.u.v. valan las tariffas d'amortisaziun qua sutvart:
+
+<table>
+<tr><th>Materia</th><th>Tariffas d'amortisaziun en % da la valur d'acquisiziun</th><th>Supplement en % da l'amortisaziun excessiva</th></tr>
+<tr><td>Edifizi sulet</td><td>3</td><td>38.5</td></tr>
+<tr><td>Edifizis e terren ensemen</td><td>2</td><td>42.5</td></tr>
+<tr><td>Installaziuns, maschinas, mobiglias</td><td>12.5</td><td>18</td></tr>
+<tr><td>Edifizis necessaris per pistas e per vias sco punts, galarias, tunnels, mirs da sustegn, structuraziuns dal terren e.u.v.</td><td>20</td><td>10</td></tr>
+<tr><td>Maschinas da construcziun</td><td>20</td><td>10</td></tr>
+<tr><td>Vehichels da pista</td><td>25</td><td>6.5</td></tr>
+<tr><td>Material per marcar las pistas</td><td>25</td><td>6.5</td></tr>
+<tr><td>Indrizs d'ennavar</td><td>25</td><td>6.5</td></tr>
+</table>
+
+<sup>3</sup> Runals e sutgeras pon vegnir amortisads tut en tut per la tariffa pauschala da 12 pertschient (supplement per amortisaziun excessiva 17 pertschient). Sche las singulas parts dal stabiliment vegnan amortisadas separadamain, vegnan applitgadas las tariffas che valan per ils indrizs circulatorics. Giufs pon vegnir amortisads a 35 pertschient (supplement per amortisaziun excessiva 5 pertschient).
+
+#### Art. A2-3
+
+**Amortisaziuns immediatas**
+
+<sup>1</sup> Per pendicularas, runals e.u.v. pon vegnir fatgas las suandantas amortisaziuns immediatas:
+
+- a) Pendicularas, indrizs circulatorics:
+  - 1\. installaziuns, objects movibels, maschinas e.u.v.: — 100%
+  - 2\. edifizis, pilasters intermediars e fundaments: — 40%
+- b) Pistas e vias: — 80%
+- c) Runals: — 60%
+- d) Hotels e restaurants: — 40%
 
 -

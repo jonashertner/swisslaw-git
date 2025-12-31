@@ -4,13 +4,12 @@ number: "720.015"
 title: Ausführungsbestimmungen zur Steuergesetzgebung
 short: ABzStG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-18
+version: 2026-01-01
+version_adopted: 2026-02-17
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3536/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3793/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3536/pdf_file"
 
 (ABzStG)
 
-Vom 27.11.2007 (Stand 01.01.2025)
+Vom 27.11.2007 (Stand 01.01.2026)
 
 Gestützt auf Art. 182 Abs. 4 des Bundesgesetzes über die direkte Bundessteuer vom 14. Dezember 1990 (DBG)[^ingress-1] sowie Art. 72 Abs. 3 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden vom 14. Dezember 1990 (StHG)[^ingress-2] sowie Art. 73 Abs. 1 des Bundesgesetzes über die Verrechnungssteuer vom 13. Oktober 1965 (VStG)[^ingress-3] sowie Art. 15 der bundesrätlichen Verordnung über die Anrechnung ausländischer Quellensteuern vom 22. August 1967[^ingress-4] sowie die bundesrätliche Verordnung zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996[^ingress-5] sowie Art. 45 Abs. 1 der Verfassung des Kantons Graubünden vom 18. Mai 2003 / 14. September 2003[^ingress-6]
 
@@ -90,11 +89,7 @@ von der Regierung erlassen am 27. November 2007
 
 #### Art. 4a
 
-**2. Kapitalband (Art. 21c Abs. 6 StG)**
-
-<sup>1</sup> Artikel 21c Absatz 1 StG gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts (OR)[^4a-1] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
-
-[^4a-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+**…**
 
 #### Art. 5
 
@@ -174,26 +169,11 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 10b
 
-**6. Geldspiele (Art. 30 Abs. 1 lit. m und lit. n, Art. 36 Abs. 1 lit. n StG)**
-
-<sup>1</sup> Steuerfrei sind:
-
-- a) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Bundesgesetz über Geldspiele (Geldspielgesetz, BGS) vom 29. September 2017[^10b-1] zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen;
-- b) die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
-- c) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- d) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
-
-<sup>2</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Absatz 1 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5000 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Absatz 1 Buchstabe b werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25 000 Franken abgezogen.
-
-[^10b-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
+**…**
 
 #### Art. 10c
 
-**7. Überbrückungsleistungen für ältere Arbeitslose (Art. 30 Abs. 1 lit. o StG)**
-
-<sup>1</sup> Steuerfrei sind Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^10c-1].
-
-[^10c-1]: SR [837.2](https://db.clex.ch/link/Bund/837.2/de)
+**…**
 
 #### Art. 11
 
@@ -234,21 +214,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 14a
 
-**11. Finanzielle Sanktionen (Art. 32 Abs. 1 lit. h, Abs. 2 und Abs. 3 StG)**
-
-<sup>1</sup> Selbständig Erwerbende können die geschäfts- oder berufsmässig begründeten Kosten abziehen, insbesondere die gewinnabschöpfenden Sanktionen, soweit sie keinen Strafzweck haben.
-
-<sup>2</sup> Nicht abziehbar sind insbesondere:
-
-- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
-- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
-- c) Bussen und Geldstrafen;
-- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
-
-<sup>3</sup> Sind Sanktionen nach Absatz 2 Litera c und Litera d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
-
-- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
-- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
+**…**
 
 #### Art. 15
 
@@ -331,21 +297,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 23b
 
-**1. Finanzielle Sanktionen (Art. 81 Abs. 1 lit. a und lit. j, Abs. 3 und Abs. 3<sup>bis</sup> StG)**
-
-<sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören insbesondere die Steuern des Bundes, der Kantone und der Gemeinden sowie gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
-
-<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
-
-- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
-- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
-- c) Bussen;
-- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
-
-<sup>3</sup> Sind Sanktionen nach Absatz 2 Litera c und Litera d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
-
-- a) die Sanktion gegen den schweizerischen Ordre public verstösst; oder
-- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
+**…**
 
 #### Art. 24
 
@@ -363,11 +315,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 24b
 
-**3. Geschäftsabschluss in ausländischer Währung (Art. 97 Abs. 1<sup>bis</sup> und Abs. 2<sup>bis</sup> StG)**
-
-<sup>1</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
-
-<sup>2</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
+**…**
 
 ## 3. Quellensteuern
 
@@ -411,15 +359,15 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 <sup>1<sup>bis</sup></sup> Die Quellensteuer (inkl. Anteil Gemeinde und Kirche) auf Ersatzeinkünfte mit dem Tarifcode G beträgt:
 
 - a) 0,0 % für die ersten Fr. 18 000.–
-- b) 9,5 % für die weiteren Fr. 6000.–
-- c) 13,5 % für die weiteren Fr. 12 000.–
-- d) 16,0 % für die weiteren Fr. 12 000.–
-- e) 17,5 % für die weiteren Fr. 12 000.–
-- f) 17,0 % für die weiteren Fr. 30 000.–
-- g) 17,5 % für die weiteren Fr. 30 000.–
-- h) 18,7 % für die weiteren Fr. 60 000.–
-- i) 20,0 % für die weiteren Fr. 640 000.–
-- j) 19,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 820 000.– übersteigt.
+- b) 8,7 % für die weiteren Fr. 6000.–
+- c) 13,1 % für die weiteren Fr. 12 000.–
+- d) 15,3 % für die weiteren Fr. 12 000.–
+- e) 16,6 % für die weiteren Fr. 12 000.–
+- f) 16,1 % für die weiteren Fr. 30 000.–
+- g) 16,5 % für die weiteren Fr. 30 000.–
+- h) 17,8 % für die weiteren Fr. 60 000.–
+- i) 19,7 % für die weiteren Fr. 640 000.–
+- j) 18,6 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 820 000.– übersteigt.
 
 <sup>1<sup>ter</sup></sup> Die Quellensteuer der Grenzgängerinnen und Grenzgänger nach Absatz 1 Litera n - r beträgt 80 Prozent der Quellensteuer nach dem Tarifcode, für den sie die Voraussetzungen erfüllen.
 
@@ -1097,5 +1045,217 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 <sup>2</sup> Mit dem Inkrafttreten dieser Ausführungsbestimmungen werden die Ausführungsbestimmungen vom 13. Februar 2001[^70-1] unter Vorbehalt von Artikel 69 aufgehoben.
 
 [^70-1]: AGS 2001 im KA 2001, 914 und Änderungen gemäss Register AGS
+
+## A1 Anhang 1: Abschreibungen und Rückstellungen (Art. 11a)
+
+### A1.1. Abschreibungen
+
+#### Art. A1-1
+
+**Allgemeine Regeln**
+
+<sup>1</sup> Abschreibungen auf Gegenstände des Geschäftsvermögens müssen geschäftsmässig begründet sein. Den direkten Abschreibungen gleichgestellt sind Einlagen in Abschreibungs-, Amortisations-, Erneuerungs- oder Tilgungsfonds (indirekte Abschreibungen).
+
+<sup>2</sup> Die Abschreibungen sind durch eine geordnete Buchhaltung und vollständige Inventare nachzuweisen. Nicht buchführungspflichtige Steuerpflichtige, die keine Buchhaltung führen, haben die Abschreibungen in einer fortlaufenden Abschreibungstabelle aufzulisten.
+
+<sup>3</sup> Die Abschreibungen können vom Buchwert oder vom Anschaffungswert berechnet werden. Die einmal gewählte Abschreibungsmethode ist beizubehalten. Wird vom Anschaffungswert abgeschrieben, sind die Abschreibungssätze, die vom Buchwert ausgehen, um die Hälfte zu reduzieren.
+
+<sup>4</sup> Die unter Artikel A1-2 aufgeführten Abschreibungssätze entsprechen der normalen Wertverminderung. Höhere Abschreibungen können steuerlich nur dann zugelassen werden, wenn die steuerpflichtige Person die höhere Wertverminderung in der Bemessungsperiode nachweist.
+
+<sup>5</sup> Die Wertverminderungen auf Wertschriften und Beteiligungen sind in aller Regel vorübergehender Natur. Diesen Wertverminderungen kann nicht mittels Abschreibungen, sondern lediglich mittels Wertberichtigungen Rechnung getragen werden. Eine Abschreibung ist nur dann zulässig, wenn der Steuerpflichtige nachweist, dass die Wertverminderung endgültig ist. Die Veranlagungsbehörde kann die geschäftsmässige Begründetheit der zugelassenen Wertberichtigungen in jeder Steuerperiode überprüfen.
+
+<sup>6</sup> Die Nachholung von Abschreibungen ist im Rahmen der Verlustverrechnungsmöglichkeiten zulässig, sofern die notwendigen Abschreibungen in den betreffenden Jahren wegen schlechten Geschäftsgangs nicht vorgenommen werden konnten und ein Nachholbedarf nachgewiesen wird.
+
+<sup>7</sup> Die Wertzerlegung eines Aktivums ist steuerlich nicht zulässig, wenn damit höhere Abschreibungssätze erwirkt werden sollen.
+
+<sup>8</sup> Übermässige Abschreibungen, welche über die Normalsätze und die tatsächliche Wertverminderung hinausgehen, werden zum steuerbaren Einkommen / Gewinn hinzugerechnet und erhöhen damit die Einkommens- / Gewinnsteuerwerte oder werden im Einmalerledigungsverfahren abgerechnet. Das Einmalerledigungsverfahren besteht in einem einmaligen Zuschlag zum steuerbaren Einkommen / Gewinn, womit die Progressions- und Zinsvorteile ausgeglichen werden. Die Einkommens- / Gewinnsteuerwerte werden durch das Einmalerledigungsverfahren nicht verändert. In der Regel findet für die Korrektur übermässiger Abschreibungen das Einmalerledigungsverfahren Anwendung. Die steuerpflichtige Person kann jedoch die volle Aufrechnung mit Korrektur der Einkommens- / Gewinnsteuerwerte verlangen.
+
+<sup>9</sup> Sofortabschreibungen können im Rahmen von Artikel A1-6 geltend gemacht werden. Wurden Sofortabschreibungen zugelassen, gilt der Restwert als Anlagewert und weitere Abschreibungen können nur von diesem Restwert vorgenommen werden. Sofortabschreibungen sind nur für Objekte mit relativ hoher Wertverminderung zulässig. Für Wohnhäuser, Geschäftshäuser, Büro- und Bankgebäude, Warenhäuser etc. sind keine Sofortabschreibungen möglich. Soweit sie die Normalabschreibungssätze übersteigen, stellen Sofortabschreibungen ausserordentliche Aufwendungen dar.
+
+<sup>10</sup> Der vorliegende Anhang findet sowohl für die Kantonssteuer als auch für die direkte Bundessteuer Anwendung. Nach dem DBG können Aktiven, die zum Ausgleich von Verlusten aufgewertet wurden, nur abgeschrieben werden, wenn die Aufwertung handelsrechtlich zulässig war und die Verluste im Zeitpunkt der Abschreibung noch verrechenbar gewesen wären.
+
+#### Art. A1-2
+
+**Abschreibungssätze für geschäftliche Betriebe**
+
+<sup>1</sup> Es gelten die folgenden Sätze für Normalabschreibungen und Zuschläge für Überabschreibungen:
+
+<table>
+<tr><th>Gegenstand</th><th>Abschreibungssätze in % vom Buchwert</th><th>Zuschlag in % der Überabschreibung</th></tr>
+<tr><td>Wohn- und Personalhäuser, auf Gebäude allein</td><td>2</td><td>45</td></tr>
+<tr><td>Wohn- und Personalhäuser, auf Gebäude und Land zusammen</td><td>1.5</td><td>47.5</td></tr>
+<tr><td>Geschäftshäuser, Büro- und Bankgebäude, Warenhäuser, Kinogebäude, auf Gebäude allein</td><td>4</td><td>42.5</td></tr>
+<tr><td>Geschäftshäuser, Büro- und Bankgebäude, Warenhäuser, Kinogebäude, auf Gebäude und Land zusammen</td><td>3</td><td>45</td></tr>
+<tr><td>Gebäude des Gastwirtschaftsgewerbes und der Hotellerie, auf Gebäude allein</td><td>6</td><td>38.5</td></tr>
+<tr><td>Gebäude des Gastwirtschaftsgewerbes und der Hotellerie, auf Gebäude und Land zusammen</td><td>4</td><td>42.5</td></tr>
+<tr><td>Fabrikgebäude, Lagergebäude und gewerbliche Bauten wie Werkstattgebäude, Betriebsgaragen, eingebaute Tankanlagen, Silos, Treibhäuser, auf Gebäude allein</td><td>8</td><td>35.5</td></tr>
+<tr><td>Fabrikgebäude, Lagergebäude und gewerbliche Bauten wie Werkstattgebäude, Betriebsgaragen, eingebaute Tankanlagen, Silos, Treibhäuser, auf Gebäude und Land zusammen</td><td>7</td><td>37</td></tr>
+<tr><td>Hallenbäder, Sportanlagen, auf Gebäude allein</td><td>10</td><td>32.5</td></tr>
+<tr><td>Hallenbäder, Sportanlagen, auf Gebäude und Land zusammen</td><td>8</td><td>35.5</td></tr>
+<tr><td>Fahrnisbauten auf fremdem Grund und Boden</td><td>20</td><td>20</td></tr>
+<tr><td>Gleisanschlüsse, Wasserleitungen zu industriellen Zwecken</td><td>20</td><td>20</td></tr>
+<tr><td>Klima- und Kühlanlagen</td><td>20</td><td>20</td></tr>
+<tr><td>Belüftungs- und Lärmbekämpfungseinrichtungen</td><td>20</td><td>20</td></tr>
+<tr><td>Freistehende und transportable Tanks, Container</td><td>20</td><td>20</td></tr>
+<tr><td>Hochregallager und ähnliche Einrichtungen</td><td>15</td><td>25</td></tr>
+<tr><td>Geschäftsmobiliar, Werkstatt- und Lagereinrichtungen mit Mobiliarcharakter</td><td>25</td><td>18</td></tr>
+<tr><td>Transportmittel aller Art, ohne Motorfahrzeuge, inkl. Anhänger</td><td>30</td><td>15</td></tr>
+<tr><td>Motorfahrzeuge aller Art</td><td>40</td><td>10</td></tr>
+<tr><td>Immaterielle Werte, die der Erwerbstätigkeit dienen, wie Patente, Firmen-, Verlags-, Konzessions-, Lizenz- und andere Nutzungsrechte, Goodwill</td><td>40</td><td>10</td></tr>
+<tr><td>Apparate und Maschinen zu Produktionszwecken, Küchenmaschinen des Gastwirtschaftsgewerbes, Kinoapparaturen, Verkaufsautomaten</td><td>40</td><td>10</td></tr>
+<tr><td>Datenverarbeitungsanlagen, Büromaschinen, Software</td><td>40</td><td>10</td></tr>
+<tr><td>Automatische Steuerungssysteme, Sicherheitseinrichtungen, elektronische Mess- und Prüfgeräte</td><td>40</td><td>10</td></tr>
+<tr><td>Maschinen, die vorwiegend im Schichtbetrieb eingesetzt sind oder die unter besonderen Bedingungen arbeiten</td><td>45</td><td>7.5</td></tr>
+<tr><td>Werkzeuge, Werkgeschirr, Maschinenwerkzeuge, Geräte, Gebinde, Gerüstmaterial, Paletten</td><td>45</td><td>7.5</td></tr>
+<tr><td>Geschirr und Wäsche im Hotel- und Gastwirtschaftsgewerbe</td><td>45</td><td>7.5</td></tr>
+</table>
+
+<sup>2</sup> Der höhere Abschreibungssatz für Gebäude allein setzt voraus, dass Gebäude und Land separat bilanziert werden. Auf dem Land können in diesem Fall steuerlich keine Abschreibungen vorgenommen werden.
+
+<sup>3</sup> Der Satz «Gebäude und Land zusammen» ist anzuwenden, wenn Gebäude und Land zusammen bilanziert werden. Es darf jedoch nicht unter den Anlagewert bzw. den tieferen wirklichen Wert des Landes abgeschrieben werden.
+
+#### Art. A1-3
+
+**Abschreibungssätze für luftseilbahnen, skilifte etc.**
+
+<sup>1</sup> Die Abschreibungssätze für Luftseilbahnen, Skilifte etc. werden in Anhang 2 geregelt.
+
+#### Art. A1-4
+
+**Landwirtschaftliche Betriebe**
+
+<sup>1</sup> Für landwirtschaftliche Betriebe findet das Merkblatt der Eidgenössischen Steuerverwaltung über Abschreibungen (A/1993, Land-/Forstwirtschaft) Anwendung. Die Abschreibungssätze werden in der Wegleitung für landwirtschaftliche Betriebsinhaber aufgeführt.
+
+#### Art. A1-5
+
+**Sonderfälle**
+
+<sup>1</sup> Energiesparende Einrichtungen: Wärmeisolierungen an bestehenden Gebäuden, Anlagen zur Umstellung des Heizungssystems oder zur Nutzbarmachung der Sonnenenergie sowie andere energiesparende Vorkehrungen können im ersten und zweiten Jahr bis zu 50 Prozent vom Buchwert und in den darauf folgenden Jahren zu den für die betreffenden Anlagen üblichen Sätzen abgeschrieben werden.
+
+<sup>2</sup> Umweltschutzanlagen: Gewässer-, Lärmschutz- und Abluftreinigungsanlagen können im ersten und im zweiten Jahr bis zu 50 Prozent vom Buchwert und in den darauf folgenden Jahren zu den für die betreffenden Anlagen üblichen Sätzen abgeschrieben werden.
+
+#### Art. A1-6
+
+**Sofortabschreibungen**
+
+<sup>1</sup> Auf Güter des Anlagevermögens, die einem erheblichen Wertverlust unterliegen, können im Anschaffungs- oder Erstellungsjahr sowie im darauf folgenden Jahr oder im Fertigstellungsjahr sowie im darauf folgenden Jahr Sofortabschreibungen geltend gemacht werden. Die Sofortabschreibungen sind vom Anlagewert/von den Investitionskosten ohne Boden vorzunehmen.
+
+<sup>2</sup> Für geschäftliche Betriebe sind folgende Sofortabschreibungen zulässig:
+
+- a) Immaterielle Werte und bewegliche Gegenstände wie Mobilien, Fahrzeuge, EDV-Anlagen, Lagereinrichtungen, Produktionsanlagen etc.: — 100%
+- b) Fabrikgebäude, Lagerhäuser und gewerbliche Bauten wie Werkstattgebäude, Betriebsgaragen, Treibhäuser etc.: — 60%
+- c) Gebäude des Gastwirtschaftsgewerbes und der Hotellerie sowie Personalhäuser: — 40%
+
+<sup>3</sup> Für landwirtschaftliche Betriebe, die nach Buchhaltung oder nach Aufzeichnungen veranlagt werden, können die Sofortabschreibungen wie folgt geltend gemacht werden:
+
+- a) Mechanische Einrichtungen, Maschinen und Geräte: — 100%
+- b) Pflanzen: — 60%
+- c) Gebäude: — 60%
+- d) Meliorationen: — 40%
+
+<sup>4</sup> Die Ansätze für Luftseilbahnen, Skilifte etc. sind in Anhang 2 geregelt.
+
+### A1.2. Rückstellungen
+
+#### Art. A1-7
+
+**Warenlager**
+
+<sup>1</sup> Pauschale Rückstellungen auf dem Warenlager können vorgenommen werden, wenn das Warenlager vollständig und genau aufgenommen wurde. Das Warenlager ist zu den Anschaffungs- oder Herstellungskosten oder, wenn der ortsübliche Marktwert geringer ist, nach diesem zu bewerten.
+
+<sup>2</sup> Auf dem Wert des Warenlagers werden 33⅓ Prozent als privilegierte und im Zeitpunkt der Äufnung nicht zu versteuernde Reserve zugelassen. Geht der Wert des Warenlagers zurück, ermässigt sich auch die privilegierte Reserve auf höchstens 33⅓ Prozent des neuen Inventarwerts. Liegenschaften gelten nicht als Ware; ebenso wenig Erzeugnisse, die im festen Auftrag Dritter hergestellt werden (angefangene und fertige Arbeiten).
+
+#### Art. A1-8
+
+**Geschäftsguthaben**
+
+<sup>1</sup> Steuerpflichtigen Personen, die eine ordnungsgemäss geführte Buchhaltung oder vergleichbare Aufzeichnungen vorlegen, wird ohne nähere Prüfung die Bildung einer so genannten Delkredere-Rückstellung in Form einer Pauschale gestattet. Diese Pauschale beträgt:
+
+- a) 5 Prozent für inländische Guthaben
+- b) 10 Prozent für ausländische Guthaben
+
+<sup>2</sup> Höhere Rückstellungen sind steuerlich nur zulässig, wenn die geschäftsmässige Begründetheit für den ganzen Betrag nachgewiesen wird.
+
+#### Art. A1-9
+
+**Garantieverpflichtungen**
+
+<sup>1</sup> Steuerpflichtige Personen, welche für erbrachte Leistungen Garantieverpflichtungen eingehen müssen, können – ohne besonderen Nachweis – eine Rückstellung von höchstens 2 Prozent des garantiepflichtigen Umsatzes beanspruchen. Höhere Rückstellungen sind steuerlich nur zulässig, wenn die geschäftsmässige Begründetheit für den ganzen Betrag nachgewiesen wird.
+
+### A1.3. Rücklagen für Forschungs- und Entwicklungskosten
+
+#### Art. A1-10
+
+**Rücklagen für Forschungs- und Entwicklungskosten**
+
+<sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören auch die Rücklagen für künftige Forschungs- und Entwicklungskosten. Gemäss den regierungsrätlichen Ausführungsbestimmungen (Art. 12 ff. ABzStG) können die Rücklagen nur bezogen auf konkrete Projekte oder Produkte gebildet werden. Die Unternehmung hat zu belegen, dass die entsprechenden Ausgaben in einem Zeitraum von rund fünf Jahren anfallen werden.
+
+<sup>2</sup> Die Rücklagen dürfen jährlich 10 Prozent des steuerbaren Gewinns (vor Abzug der Rücklage) und insgesamt den Betrag von Fr. 1'000'000.00 nicht übersteigen.
+
+<sup>3</sup> Die Rücklagen sind erfolgswirksam aufzulösen, wenn innerhalb des genannten Zeitraums keine Aufwendungen für Forschung und Entwicklung getätigt werden. Werden die entsprechenden Aufwendungen getätigt, sind sie zulasten der Rücklage zu verbuchen.
+
+## A2 Anhang 2: Abschreibungssätze für Luftseilbahnen, Skilifte etc. (Art. 11a)
+
+#### Art. A2-1
+
+**Allgemeine Regeln**
+
+<sup>1</sup> Die allgemeinen Regeln für Abschreibungen gemäss Anhang 1 finden auch auf Luftseilbahnen, Skilifte etc. Anwendung. Die Höhe der Abschreibungen für Luftseilbahnen, Skilifte etc. wird nachfolgend geregelt.
+
+#### Art. A2-2
+
+**Abschreibungssätze für Luftseilbahnen**
+
+<sup>1</sup> Es gelten die folgenden Sätze für Normalabschreibungen und Zuschläge für Überabschreibungen (jeweils Pendelbahnen | Umlaufbahnen):
+
+<table>
+<tr><th>Gegenstand</th><th>Abschreibungssätze in % vom Anschaffungswert</th><th>Zuschlag in % der Überabschreibung</th></tr>
+<tr><td>Grundstücke und Rechte</td><td>3 | 3</td><td>38.5</td></tr>
+<tr><td>Gebäude und Land zusammen</td><td>4 | 4</td><td>35.5</td></tr>
+<tr><td>Mechanische Einrichtungen</td><td>10 | 10</td><td>20</td></tr>
+<tr><td>Elektrische Einrichtungen</td><td>10 | 10</td><td>20</td></tr>
+<tr><td>Zwischenstützen und Fundamente</td><td>4 | 4</td><td>35.5</td></tr>
+<tr><td>Tragseile</td><td>10 | 10</td><td>20</td></tr>
+<tr><td>Zug- und Gegenseile</td><td>20 | -</td><td>10</td></tr>
+<tr><td>Förder- bzw. Zugseile</td><td>- | 30</td><td>5</td></tr>
+<tr><td>Spannseile</td><td>30 | 30</td><td>5</td></tr>
+<tr><td>Hilfsseile</td><td>20 | 30</td><td>10/5</td></tr>
+<tr><td>Seiltrag- und Druckrollen</td><td>15 | 25</td><td>15/6.5</td></tr>
+<tr><td>Fernmelde- und Sicherungsanlagen</td><td>20 | 20</td><td>10</td></tr>
+<tr><td>Kabinen, Sessel, Hilfswagen</td><td>10 | 20</td><td>20/10</td></tr>
+<tr><td>Warentransportbehälter</td><td>20 | 20</td><td>10</td></tr>
+<tr><td>Mobiliar</td><td>12.5 | 12.5</td><td>18</td></tr>
+<tr><td>Geländefahrzeuge mit besonderem Verschleiss</td><td>25 | 25</td><td>6.5</td></tr>
+<tr><td>Maschinen</td><td>15 | 15</td><td>15</td></tr>
+</table>
+
+<sup>2</sup> Für Nebenbetriebe, Bauten, Pistenfahrzeuge etc. gelten die nachfolgenden Abschreibungssätze:
+
+<table>
+<tr><th>Gegenstand</th><th>Abschreibungssätze in % vom Anschaffungswert</th><th>Zuschlag in % der Überabschreibung</th></tr>
+<tr><td>Gebäude allein</td><td>3</td><td>38.5</td></tr>
+<tr><td>Gebäude und Land zusammen</td><td>2</td><td>42.5</td></tr>
+<tr><td>Installationen, Maschinen, Mobiliar</td><td>12.5</td><td>18</td></tr>
+<tr><td>Für Pisten und Wege erforderliche Bauwerke wie Brücken, Galerien, Tunnels, Stützmauern, Geländegestaltungen etc.</td><td>20</td><td>10</td></tr>
+<tr><td>Baumaschinen</td><td>20</td><td>10</td></tr>
+<tr><td>Pistenfahrzeuge</td><td>25</td><td>6.5</td></tr>
+<tr><td>Material für Pistenmarkierungen</td><td>25</td><td>6.5</td></tr>
+<tr><td>Beschneiungsanlagen</td><td>25</td><td>6.5</td></tr>
+</table>
+
+<sup>3</sup> Skilifte und Sesselbahnen können insgesamt zum pauschalen Satz von 12 Prozent (Zuschlag für Überabschreibung 17 Prozent) abgeschrieben werden. Werden die einzelnen Anlageteile separat abgeschrieben, finden die für Umlaufbahnen geltenden Ansätze Anwendung. Skiliftbügel können dann zu 35 Prozent (Zuschlag für Überabschreibung 5 Prozent) abgeschrieben werden.
+
+#### Art. A2-3
+
+**Sofortabschreibungen**
+
+<sup>1</sup> Für Luftseilbahnen, Skilifte etc. können die folgenden Sofortabschreibungen vorgenommen werden:
+
+- a) Pendelbahnen, Umlaufbahnen:
+  - 1\. Einrichtungen, bewegliche Gegenstände, Maschinen etc.: — 100%
+  - 2\. Gebäude, Zwischenstützen und Fundamente: — 40%
+- b) Pisten und Wege: — 80%
+- c) Skilifte: — 60%
+- d) Hotels und Restaurants: — 40%
 
 -
