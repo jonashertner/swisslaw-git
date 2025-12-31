@@ -4,13 +4,13 @@ number: "405.112"
 title: Verordnung über die Schuldienste
 short: V Schuldienste
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-11
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-18
 adopted: 2017-05-03
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/405.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3711/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3864/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3711/pdf_file"
 
 (V Schuldienste)
 
-Vom 03.05.2017 (Stand 01.01.2025)
+Vom 03.05.2017 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -123,7 +123,8 @@ beschliesst:
 
 - a) Bereitstellen von Informationen und Auskunftserteilung zum Bildungs- und Berufsangebot,
 - b) Einzelberatungen für Personen bis zum vollendeten 25. Altersjahr und für Personen ohne abgeschlossene Ausbildung auf Sekundarstufe II,
-- b<sup>bis</sup>) Standortbestimmungen und Potentialabklärungen für Personen ab dem vollendeten 40. Altersjahr im Rahmen des Programms viamia zur Erhaltung oder Verbesserung der Arbeitsmarktfähigkeit,
+- b<sup>bis</sup>) …
+- b<sup>ter</sup>) Berufliche Standortbestimmungen und Beratungen für Personen ab dem vollendeten 25. Altersjahr mit abgeschlossener Ausbildung auf Sekundarstufe II, die in der obligatorischen Krankenversicherung Prämienverbilligung beziehen,
 - c) Gruppenberatungen,
 - d) Informationsveranstaltungen.
 
@@ -416,7 +417,9 @@ beschliesst:
 
 <sup>1</sup> Die §§ 1–18 und 37 dieser Verordnung treten am 1. Januar 2018 in Kraft, die §§ 19–36 am 1. August 2018.
 
-<sup>2</sup> Die Geltungsdauer von § 10 Abs. 1 lit. b<sup>bis</sup> wird bis 31. Dezember 2025 verlängert.
+<sup>2</sup> …
+
+<sup>3</sup> § 10 Abs. 1 lit. b<sup>ter</sup> gilt vom 1. Januar 2026 bis am 31. Dezember 2028.
 
 Aarau, 3. Mai 2017
 
