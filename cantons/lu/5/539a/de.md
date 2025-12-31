@@ -3,20 +3,19 @@ canton: LU
 number: 539a
 title: Personalverordnung der Universität Luzern
 language: de
-version: 2025-10-01
-valid_until: 2025-12-31
-version_adopted: 2025-09-16
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2005-10-25
 in_force: 2006-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539a"
-pdf: "https://srl.lu.ch/api/de/versions/4530/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalverordnung der Universität Luzern
 
-vom 25.10.2005 (Stand 01.10.2025)
+vom 25.10.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -47,9 +46,9 @@ beschliesst:
 
 #### § 3
 
-**Wahl sowie Beendigung und Umgestaltung des Arbeitsverhältnisses**
+**Begründung, Änderung und Beendigung des Arbeitsverhältnisses**
 
-<sup>1</sup> Zuständig für die Wahl sowie für die Beendigung und die Umgestaltung des Arbeitsverhältnisses ist
+<sup>1</sup> Zuständig für die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses ist
 
 - a. der Universitätsrat für die durch den Senat berufenen Professorinnen und Professoren sowie für die Universitätsmanagerin oder den Universitätsmanager auf Antrag der Rektorin oder des Rektors,
 - b. die Rektorin oder der Rektor für das übrige Personal, soweit im Statut der Universität Luzern vom 12. Dezember 2001[^3-1] keine andere Zuständigkeit vorgesehen ist.
