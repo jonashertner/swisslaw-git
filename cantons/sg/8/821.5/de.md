@@ -4,13 +4,12 @@ number: "821.5"
 title: Gebührentarif für die Kantons- und Gemeindeverwaltung
 short: GebT
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-17
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2000-05-02
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/821.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3788/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3849/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +17,7 @@ text: pdf
 
 # Gebührentarif für die Kantons- und Gemeindeverwaltung
 
-vom 2. Mai 2000 (Stand 1. August 2025)[^t-1]
+vom 2. Mai 2000 (Stand 1. Januar 2026)[^t-1]
 
 Die Regierung des Kantons St.Gallen
 
@@ -40,13 +39,13 @@ nGS 35–25 I.
 [^t-4]: nGS 35–25; nGS 38–86; nGS 42–139. In Vollzug ab 1. Juli 2000. Geändert durch Abschnitt II des Nachtrags zur StPV vom 14. Mai 2002, nGS 37–53 (sGS 962.11); Abschnitt II des II. Nachtrags zur Bürgerrechtsverordnung vom 2. März 2002, nGS 37–74 (sGS 121.11); Ab schnitt III des Nachtrags zur GSchVV vom 2. Juli 2002, nGS 37–97 (sGS 752.21); Art. 6 der V zur Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige vom 17. De zember 2002, nGS 38–12 (sGS 453.31); Nachtrag vom 14. Januar 2003, nGS 38–24; Art. 2 der V zur Bundesgesetzgebung über das Gewerbe der Reisenden vom 4. Februar 2003, nGS 38–34 (sGS 552.21); II. Nachtrag vom 24. Juni 2003, nGS 38–75; Art. 18 der V zur Bundesgesetz gebung über den Konsumkredit vom 2. Dezember 2003, nGS 39–23 (sGS 556.11); Art. 16 der V über private Betagten und Pflegeheime vom 3. Februar 2004, nGS 39–41 (sGS 381.18); Art. 11 der V zum G über Ruhetag und Ladenöffnung vom 17. August 2004, nGS 39–89 (sGS 552.11); Art. 12 der V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsauf gaben vom 14. Dezember 2004, nGS 40–14 (sGS 451.14); Abschnitt II Ziff. 2 des II. Nach trags der JV vom 6. Dezember 2004, nGS 40–18 (sGS 853.11); Art. 17 ZStV vom 14. Juni 2005, nGS 40–62 (sGS 912.1); III. Nachtrag vom 15. November 2005, nGS 41–20; IV. Nachtrag vom 4. Juli 2006, nGS 41–61; Abschnitt II Ziff. 2 des X. Nachtrags zur EV zum Schweizeri schen Zivilgesetzbuch vom 13. Februar 2007, nGS 42–54 (sGS 911.11); Abschnitt II Ziff. 53 des VI. Nachtrags zum GeschR vom 30. Oktober 2007, nGS 42–101 (sGS 141.3); Art. 7 der V zum EG zur eidg Chemikaliengesetzgebung vom 20. November 2007, nGS 43–28 (sGS 672.51); V. Nachtrag vom 11. März 2008, nGS 43–74; Abschnitt II des III. Nachtrags zur ZPV vom 11. März 2008, nGS 43–80 (sGS 961.21); VI. Nachtrag vom 9. Dezember 2008, nGS 44–30; Ziff. II des VI. Nachtrags zur StPV vom 18. November 2008, nGS 44–35 (sGS 962.11); VII. Nachtrag vom 26. Mai 2009, nGS 44–90; VIII. Nachtrag vom 9. Februar 2010, nGS 45–41; Art. 15 BRV vom 19. Oktober 2010, nGS 45–82 (sGS 121.11); Abschnitt III des II. Nachtrags zur GSchVV vom 7. Dezember 2010, nGS 46–31 (sGS 752.21); Art. 42 StPV vom 23. Novem ber 2010, nGS 46–46 (sGS 962.11); Art. 29 der V zum EG USG vom 13. Dezember 2011, nGS 47–22 (sGS 672.11); Art. 18 der Statistikverordnung vom 19. Juni 2012, nGS 47–83 (sGS 146.11); Art. 20 der VESB vom 11. Dezember 2012, nGS 48–47 (sGS 912.51); Art. 13 VGE vom 11. Dezember 2012, nGS 48–37 (sGS 381.11); Art. 53 BehV vom 11. Dezember 2012, nGS 48–38 (sGS 381.41); IX. Nachtrag vom 11. Juni 2013, nGS 2013 008; Art. 6 der V über die kantonale Einwohnerdatenplattform vom 8. Oktober 2013, nGS 2013 016 (sGS 453.11); X. Nachtrag vom 3. Dezember 2013, nGS 2014 024; Abschnitt II des Nachtrags zur V über die
 [^t-5]: Die Gebühren verstehen sich ohne Mehrwertsteuer. Sofern eine Gebührenposition der Mehrwert steuer unterliegt, wird die Gebühr um den Steuerbetrag erhöht.
 
-### ERSTER TEIL: <sup>Nr.</sup> ALLGEMEINE GEBÜHREN
+### ERSTER TEIL: Nr. ALLGEMEINE GEBÜHREN
 
-10.01[^hERSTERTEILsupNr-1] Verfügung oder Entscheid (Einsprache, Re kurs, Beschwerde usw.) … 150.— bis 10 000.— 10.02 Aufsichtsrechtliche Genehmigung … 150.— bis 2000.— 10.03 Einvernahme … 30.— bis 250.— 10.04 Vorladung … 6.— 10.05[^hERSTERTEILsupNr-2] Augenschein … 150.— bis 3000.— 10.06 Schriftliche Bescheinigung … 10.— bis 950.— 10.07 Mitteilung oder Anzeige im Interesse einer Privatperson … 10.— bis 120.— 10.08 Einsichtgabe in amtliche Akten oder Aus kunft über ihren Inhalt ausserhalb eines durch Verfügung oder Entscheid abzuschlies senden Verfahrens … 10.— bis 200.— 10.09 Einholen von Urkunden und Erteilung von Auskünften … 10.— bis 300.— 10.10[^hERSTERTEILsupNr-3] Mahnung … 10.— bis 50.— 10.11[^hERSTERTEILsupNr-4] Ausfertigung einer Verfügung, eines Ent scheides oder einer Urkunde, Abschriften (einschliesslich Schreiben, Auszüge und Protokollierung mündlicher Vorbringen), je Seite … 10.— bis 50.— 10.12 Fotokopie:
+10.01[^hERSTERTEILNrALL-1] Verfügung oder Entscheid (Einsprache, Re kurs, Beschwerde usw.), soweit keine andere Gebühr festgelegt ist … 150.— bis 10 000.— 10.02 Aufsichtsrechtliche Genehmigung … 150.— bis 2000.— 10.03 Einvernahme … 30.— bis 250.— 10.04 Vorladung … 6.— 10.05[^hERSTERTEILNrALL-2] Augenschein … 150.— bis 3000.— 10.06 Schriftliche Bescheinigung … 10.— bis 950.— 10.07 Mitteilung oder Anzeige im Interesse einer Privatperson … 10.— bis 120.— 10.08 Einsichtgabe in amtliche Akten oder Aus kunft über ihren Inhalt ausserhalb eines durch Verfügung oder Entscheid abzuschlies senden Verfahrens … 10.— bis 200.— 10.09 Einholen von Urkunden und Erteilung von Auskünften … 10.— bis 300.— 10.10[^hERSTERTEILNrALL-3] Mahnung … 10.— bis 50.— 10.11[^hERSTERTEILNrALL-4] Ausfertigung einer Verfügung, eines Ent scheides oder einer Urkunde, Abschriften (einschliesslich Schreiben, Auszüge und Protokollierung mündlicher Vorbringen), je Seite … 10.— bis 50.— 10.12 Fotokopie:
 
-10.12.01 bis fünf Kopien, je Kopie … 1.— 10.12.02 für jede weitere Kopie … —.50 10.12.03[^hERSTERTEILsupNr-5] für jede Farbkopie … 2.— 10.13 Zustellen oder Abholen einer Urkunde und dergleichen … 3.— bis 120.— 10.14 /15 Geldverkehr und Depots:
+10.12.01 bis fünf Kopien, je Kopie … 1.— 10.12.02 für jede weitere Kopie … —.50 10.12.03[^hERSTERTEILNrALL-5] für jede Farbkopie … 2.— 10.13 Zustellen oder Abholen einer Urkunde und dergleichen … 3.— bis 120.— 10.14 /15 Geldverkehr und Depots:
 
-10.14 1 Promille des eingelegten Betrages oder depo nierten Wertes, im Rahmen von … 10.— bis 120.— 10.15 ausserdem für jede Auszahlung … 6.— 10.16 Für eine ausserordentliche Sitzung einer Be hörde, für jedes Mitglied, den Schreiber und den Weibel, je … 30.— bis 120.— 10.17[^hERSTERTEILsupNr-6] Amtliche Kontrollen … 150.— bis 2300.— 10.18 Abgabe von grafischen umweltrelevanten
+10.14 1 Promille des eingelegten Betrages oder depo nierten Wertes, im Rahmen von … 10.— bis 120.— 10.15 ausserdem für jede Auszahlung … 6.— 10.16 Für eine ausserordentliche Sitzung einer Be hörde, für jedes Mitglied, den Schreiber und den Weibel, je … 30.— bis 120.— 10.17[^hERSTERTEILNrALL-6] Amtliche Kontrollen … 150.— bis 2300.— 10.18 Abgabe von grafischen umweltrelevanten
 
 Daten, je km<sup>2</sup> … 5.—
 
@@ -58,23 +57,23 @@ Objekt … —.20
 
 satz, je Objekt … 1.—
 
-10.21[^hERSTERTEILsupNr-7] Ausdruck aus elektronischem Archiv (sofern die Möglichkeit besteht, die Akten kostenlos in elektronischer Form zu erhalten):
+10.21[^hERSTERTEILNrALL-7] Ausdruck aus elektronischem Archiv (sofern die Möglichkeit besteht, die Akten kostenlos in elektronischer Form zu erhalten):
 
-10.21.01[^hERSTERTEILsupNr-8] bis 50 Seiten … 20.— 10.21.02[^hERSTERTEILsupNr-9] 51 bis 100 Seiten … 30.— 10.21.03[^hERSTERTEILsupNr-10] 101 bis 200 Seiten … 40.— 10.21.04[^hERSTERTEILsupNr-11] 201 bis 300 Seiten … 50.— 10.21.05[^hERSTERTEILsupNr-12] über 300 Seiten … 60.— 10.22[^hERSTERTEILsupNr-13] Aufwand für die erneute Rechnungstellung infolge falsch angegebener Rechnungsadresse 50.— bis 300.—
+10.21.01[^hERSTERTEILNrALL-8] bis 50 Seiten … 20.— 10.21.02[^hERSTERTEILNrALL-9] 51 bis 100 Seiten … 30.— 10.21.03[^hERSTERTEILNrALL-10] 101 bis 200 Seiten … 40.— 10.21.04[^hERSTERTEILNrALL-11] 201 bis 300 Seiten … 50.— 10.21.05[^hERSTERTEILNrALL-12] über 300 Seiten … 60.— 10.22[^hERSTERTEILNrALL-13] Aufwand für die erneute Rechnungstellung infolge falsch angegebener Rechnungsadresse 50.— bis 300.—
 
-[^hERSTERTEILsupNr-1]: Geändert durch XIII. Nachtrag.
-[^hERSTERTEILsupNr-2]: Geändert durch XIII. Nachtrag.
-[^hERSTERTEILsupNr-3]: Fassung gemäss II. Nachtrag.
-[^hERSTERTEILsupNr-4]: Fassung gemäss II. Nachtrag.
-[^hERSTERTEILsupNr-5]: Eingefügt durch II. Nachtrag.
-[^hERSTERTEILsupNr-6]: Geändert durch XIII. Nachtrag.
-[^hERSTERTEILsupNr-7]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
-[^hERSTERTEILsupNr-8]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
-[^hERSTERTEILsupNr-9]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
-[^hERSTERTEILsupNr-10]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
-[^hERSTERTEILsupNr-11]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
-[^hERSTERTEILsupNr-12]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
-[^hERSTERTEILsupNr-13]: Eingefügt durch XIII. Nachtrag.
+[^hERSTERTEILNrALL-1]: Geändert durch XXVI. Nachtrag.
+[^hERSTERTEILNrALL-2]: Geändert durch XIII. Nachtrag.
+[^hERSTERTEILNrALL-3]: Fassung gemäss II. Nachtrag.
+[^hERSTERTEILNrALL-4]: Fassung gemäss II. Nachtrag.
+[^hERSTERTEILNrALL-5]: Eingefügt durch II. Nachtrag.
+[^hERSTERTEILNrALL-6]: Geändert durch XIII. Nachtrag.
+[^hERSTERTEILNrALL-7]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
+[^hERSTERTEILNrALL-8]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
+[^hERSTERTEILNrALL-9]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
+[^hERSTERTEILNrALL-10]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
+[^hERSTERTEILNrALL-11]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
+[^hERSTERTEILNrALL-12]: Eingefügt durch V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsaufgaben.
+[^hERSTERTEILNrALL-13]: Eingefügt durch XIII. Nachtrag.
 
 ### ZWEITER TEIL: Nr. BESONDERE GEBÜHREN
 
@@ -119,15 +118,16 @@ zur eidgenössischen Gewässerschutzgesetzgebung vom 11. April 1996[^hVollzugsge
 
 **Fr.**
 
-20.12 Verfügung in einem Verwaltungsverfahren, soweit keine andere Gebühr festgelegt ist . . . 150.— bis 2300.— 20.13 Entscheid über ordentliche und ausser ordentliche Rechtsmittel … 125.— bis 5000.— 20.13.01[^hVollzugsgesetz-3] Rekursentscheid eines Departementes … 200.— bis 5000.— 20.13.02[^hVollzugsgesetz-4] Zwischenentscheid eines Departementes . . . 200.— bis 2000.—
+20.12 …[^hVollzugsgesetz-3] 20.13 Entscheid über ordentliche und ausser ordentliche Rechtsmittel … 125.— bis 5000.— 20.13.01[^hVollzugsgesetz-4] Rekursentscheid eines Departementes … 200.— bis 5000.— 20.13.02[^hVollzugsgesetz-5] Zwischenentscheid eines Departementes . . . 200.— bis 2000.—
 
-…[^hVollzugsgesetz-5]
+…[^hVollzugsgesetz-6]
 
 [^hVollzugsgesetz-1]: sGS 752.2.
 [^hVollzugsgesetz-2]: sGS 951.1.
-[^hVollzugsgesetz-3]: Eingefügt durch XVI. Nachtrag.
+[^hVollzugsgesetz-3]: Aufgehoben durch XXVI. Nachtrag.
 [^hVollzugsgesetz-4]: Eingefügt durch XVI. Nachtrag.
-[^hVollzugsgesetz-5]: Titel und Nr. 20.14 aufgehoben durch XII. Nachtrag.
+[^hVollzugsgesetz-5]: Eingefügt durch XVI. Nachtrag.
+[^hVollzugsgesetz-6]: Titel und Nr. 20.14 aufgehoben durch XII. Nachtrag.
 
 ### Konkordat
 
@@ -214,7 +214,7 @@ vom 3. August 2010[^hEinführungsgesetzzu-1],[^hEinführungsgesetzzu-2]
 
 [^hBundesgesetzüberdi-1]
 
-21.15 Forstrechtliche Bewilligungen und Verfü gungen (Art. 7, 9, Art. 13 Abs. 2, Art. 15, 18, Art.19 Abs.2, Art.23 Abs.2 und Art.24 Abs.2) 100.— bis 1000.—
+21.15 Forstrechtliche Bewilligungen und Verfü gungen (Art. 7, 9, Art. 13 Abs. 2, Art. 15, 18, Art. 19 Abs. 2, Art. 23 Abs. 2 und Art. 24 Abs. 2) 100.— bis 1000.—
 
 ### Bundesgesetz über die Landwirtschaft
 
@@ -241,21 +241,18 @@ vom 29. April 1998[^hBundesgesetzüberdi_2-1]
 
 21.26.01– 03[^hStatistikgesetzvom-1] Tätigkeiten der kantonalen Statistikstelle:
 
-21.26.01 Auswertung bestehender statistischer Daten der kantonalen Statistik für Personen und Organisationen ausserhalb der Kantonsver waltung (Art. 9 Abs. 1 und 3) – für Medien, Lernende und Studierende . .
+21.26.01[^hStatistikgesetzvom-2] Auswertung bestehender statistischer Daten der kantonalen Statistik für Personen und Organisationen ausserhalb der Kantonsver waltung (Art. 9 Abs. 1 und 3) – für Medien, Lernende, Studierende und Wissenschaft … je Quartal 2 Stunden kostenlos – für andere Personen und Organisationen kostenlos – danach je angefangene Stunde …
 
-**1 Stunde kostenlos**
+**je Quartal 1 Stunde**
 
-- für andere Personen und Organisationen 30 Minuten kostenlos
-
-**35.—**
-
-- danach je angefangene 15 Minuten …
+**150.—**
 
 21.26.02 BezugvongedrucktenPublikationen(Art. 20), je Exemplar … 15.— bis 80.— 21.26.03 Abgabe von statistischen Daten an öffent liche Statistik und Forschungsstellen ausser halb der Kantonsverwaltung (Art. 24), je an gefangene 15 Minuten …
 
 **35.—**
 
 [^hStatistikgesetzvom-1]: Eingefügt durch Statistikverordnung.
+[^hStatistikgesetzvom-2]: Geändert durch XXVI. Nachtrag.
 
 ### Vollzugsverordnung
 
@@ -406,7 +403,7 @@ vom 4. Juli 1971[^hGesetzüberdieUrne-1]
 
 vom 17. April 2007[^hGemeindevereinigungs-1]
 
-22.25 Genehmigung von Beschlüssen und Verein barungen (Art. 6, Art. 31 Bst. a und b, Art. 35, Art.43, Art.44, Art.51 Bst.a, Art.61 Bst.a) . . . 150.— bis 2000.— 22.26 Feststellungen (Art. 31 Bst. c, Art. 46 Abs. 1, Art. 51 Bst. b, Art. 61 Bst. b) … 100.— bis 200.— 22.27 Aufhebungsbeschlüsse (Art. 47, Art. 48) . . . . 150.— bis 1500.— 22.28 Fristverlängerung (Art. 15 Abs. 3, Art. 45 Abs. 3) … 50.— bis 200.— 22.29 Entscheid bei Uneinigkeit bei der Bildung einer neuen Gemeinde (Art. 38 Bst. b, Art. 42 Abs. 3) … 150.— bis 1500.—
+22.25 Genehmigung von Beschlüssen und Verein barungen (Art. 6, Art. 31 Bst. a und b, Art. 35, Art. 43, Art. 44, Art. 51 Bst. a, Art. 61 Bst. a) . . . 150.— bis 2000.— 22.26 Feststellungen (Art. 31 Bst. c, Art. 46 Abs. 1, Art. 51 Bst. b, Art. 61 Bst. b) … 100.— bis 200.— 22.27 Aufhebungsbeschlüsse (Art. 47, Art. 48) . . . . 150.— bis 1500.— 22.28 Fristverlängerung (Art. 15 Abs. 3, Art. 45 Abs. 3) … 50.— bis 200.— 22.29 Entscheid bei Uneinigkeit bei der Bildung einer neuen Gemeinde (Art. 38 Bst. b, Art. 42 Abs. 3) … 150.— bis 1500.—
 
 [^hGemeindevereinigungs-1]: sGS 151.3.
 
@@ -469,9 +466,9 @@ vom 10. Dezember 1907 (ZGB)[^hSchweizerischesZivi-1]
 
 zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911 / 22. Juni 1942 (EG)[^hEinführungsgesetz-1]
 
-22.50 Verfügung betreffend privatrechtliche Kor porationen (Art. 44 EG) … 150.— bis 2000.— 22.51 Namensänderung (Art. 30 ZGB) … 75.— bis 2000.<sup>1</sup>—<sup>25</sup> 22.51.01[^hEinführungsgesetz-2] Abklärungen im Namensänderungsver fahren (Art. 30 ZGB) … 200.— bis 2000.— 22.57[^hEinführungsgesetz-3] Adoptionsverfahren (Art. 268 ZGB) … 100.— bis 3000.— …[^hEinführungsgesetz-4] 22.57.02[^hEinführungsgesetz-5] Abklärungen im Adoptionsverfahren (Art. 268a ff. ZGB) … 500.— bis 6000.— 22.57.03[^hEinführungsgesetz-6] Verweigerung der Anhörung des urteilsfähi gen Kindes zur Adoption (Art. 268a<sup>bis</sup> Abs. 3 ZGB) … 200.— bis 500.— 22.57.04[^hEinführungsgesetz-7] Anordnung der Vertretung des Kindes und Nichtanordnung der vom urteilsfähi gen Kind beantragten Vertretung (Art. 268a<sup>ter</sup> ZGB) … 200.— bis 500.— 22.57.05 …[^hEinführungsgesetz-8] 22.58[^hEinführungsgesetz-9] Eignungsbescheinigung und Bewilligung zur Aufnahme eines Pflegekindes zum Zweck der späteren Adoption (Art. 7<sup>bis</sup> Bst. b Ziff. 6 EG; Art. 6 ff. der eidgenössischen Verordnung über die Adoption vom 29. Juni 2011) … 500.— bis 1000.— 22.58.01[^hEinführungsgesetz-10] Eignungsbescheinigung und Bewilligung der Aufnahme eines Pflegekindes aus dem Ausland (Art. 7<sup>bis</sup> Bst. b Ziff. 6 EG; Art. 6 der eidgenössischen Verordnung über die Auf nahme von Pflegekindern vom 19. Oktober 1977) … 100.— bis 1000.— 22.59[^hEinführungsgesetz-11] Bewilligung zum Betrieb einer Einrichtung der Heimpflege (Art. 7<sup>bis</sup> Bst. b Ziff. 5 EG;
+22.50 Verfügung betreffend privatrechtliche Kor porationen (Art. 44 EG) … 150.— bis 2000.— 22.51 Namensänderung (Art. 30 ZGB) … 75.— bis 2000.<sup>1</sup>—<sup>27</sup> 22.51.01[^hEinführungsgesetz-2] Abklärungen im Namensänderungsver fahren (Art. 30 ZGB) … 200.— bis 2000.— 22.57[^hEinführungsgesetz-3] Adoptionsverfahren (Art. 268 ZGB) … 100.— bis 3000.— …[^hEinführungsgesetz-4] 22.57.02[^hEinführungsgesetz-5] Abklärungen im Adoptionsverfahren (Art. 268a ff. ZGB) … 500.— bis 6000.— 22.57.03[^hEinführungsgesetz-6] Verweigerung der Anhörung des urteilsfähi gen Kindes zur Adoption (Art. 268a<sup>bis</sup> Abs. 3 ZGB) … 200.— bis 500.— 22.57.04[^hEinführungsgesetz-7] Anordnung der Vertretung des Kindes und Nichtanordnung der vom urteilsfähi gen Kind beantragten Vertretung (Art. 268a<sup>ter</sup> ZGB) … 200.— bis 500.— 22.57.05 …[^hEinführungsgesetz-8] 22.58[^hEinführungsgesetz-9] Eignungsbescheinigung und Bewilligung zur Aufnahme eines Pflegekindes zum Zweck der späteren Adoption (Art. 7<sup>bis</sup> Bst. b Ziff. 6 EG; Art. 6 ff. der eidgenössischen Verordnung über die Adoption vom 29. Juni 2011) … 500.— bis 1000.— 22.58.01[^hEinführungsgesetz-10] Eignungsbescheinigung und Bewilligung der Aufnahme eines Pflegekindes aus dem Ausland (Art. 7<sup>bis</sup> Bst. b Ziff. 6 EG; Art. 6 der eidgenössischen Verordnung über die Auf nahme von Pflegekindern vom 19. Oktober 1977) … 100.— bis 1000.— 22.59[^hEinführungsgesetz-11] Bewilligung zum Betrieb einer Einrichtung der Heimpflege (Art. 7<sup>bis</sup> Bst. b Ziff. 5 EG;
 
-Art. 2 ff. der Verordnung über Kinder und Jugendheime vom 21. September 1999) … 100.— bis 1000.— 22.60 Aufsichtsrechtliche Verfügungen, Massnah men und Inspektionen gegenüber Zivilstands ämtern (Art. 45, Art. 42 EG, Art. 4 der Zivil standsverordnung vom 14. Juni 2005) … 100.— bis 2000.— 22.61 Bewilligung zur vereinfachten Veröffent lichung (Art. 28 Abs. 2 EG) … 40.— bis 100.— 22.62 …[^hEinführungsgesetz-12] 22.62.01 …[^hEinführungsgesetz-13] 22.62.02 Aufhebung der gemeinsamen elterlichen Sorge und Neuregelung (Art.298a Abs.2 ZGB) 100.— bis 800.— 22.63 …[^hEinführungsgesetz-14] 22.64 …[^hEinführungsgesetz-15] 22.65 …[^hEinführungsgesetz-16] 22.66 …[^hEinführungsgesetz-17] 22.67 Rechtshilfe in Erbschaftssachen aus dem Ausland einschliesslich der Ermittlung der Erben und der Beschaffung von Erbbeschei nigungen und Vollmachten … 50.— bis 800.— 22.68 Für Vermittlung des Erbschaftsbetreffnisses
+Art. 2 ff. der Verordnung über Kinder und Jugendheime vom 21. September 1999) … 100.— bis 1000.— 22.60[^hEinführungsgesetz-12] Aufsichtsrechtliche Verfügungen, Massnah men und aufsichtsrechtliche Prüfungen ge genüber Zivilstandsämtern (Art. 45, Art. 42 EG, Art. 4 der Zivilstandsverordnung vom 14. Juni 2005) … 100.— bis 2400.— 22.61 Bewilligung zur vereinfachten Veröffent lichung (Art. 28 Abs. 2 EG) … 40.— bis 100.— 22.62 …[^hEinführungsgesetz-13] 22.62.01 …[^hEinführungsgesetz-14] 22.62.02 Aufhebung der gemeinsamen elterlichen Sorge und Neuregelung (Art.298a Abs.2 ZGB) 100.— bis 800.— 22.63 …[^hEinführungsgesetz-15] 22.64 …[^hEinführungsgesetz-16] 22.65 …[^hEinführungsgesetz-17] 22.66 …[^hEinführungsgesetz-18] 22.67 Rechtshilfe in Erbschaftssachen aus dem Ausland einschliesslich der Ermittlung der Erben und der Beschaffung von Erbbeschei nigungen und Vollmachten … 50.— bis 800.— 22.68 Für Vermittlung des Erbschaftsbetreffnisses
 
 <sup>1</sup> /<sup>2</sup> bis 1 Prozent, mindestens aber … 30.—
 
@@ -479,9 +476,7 @@ Art. 2 ff. der Verordnung über Kinder und Jugendheime vom 21. September 1999) �
 
 Grundbuchverwalter vom 30. März 1976) . . 80.—
 
-22.72[^hEinführungsgesetz-18] Grundbuchinspektion einschliesslich Bericht (Art. 956 ZGB; Art. 182 EG; Art. 32 der Ver ordnung über das Grundbuch vom 7. Januar 2014) … 500.— bis 2000.— 22.73[^hEinführungsgesetz-19] Organisation langfristige Sicherung digi tale Grundbuchdaten, je Grundbuch (Art. 949a ZGB; Art. 35 der eidgenössischen Grundbuchverordnung vom 23. September 2011) … 20.— bis 100.— Nr. Verordnung über die Prüfung und den
-
-**Fr.**
+22.72[^hEinführungsgesetz-19] Aufsichtsrechtliche Prüfungen der Grund buchämter einschliesslich Verfügung und Be richt (Art. 956 ZGB; Art. 182 EG; Art. 32 der Verordnung über das Grundbuch vom 7. Ja nuar 2014) … 500.— bis 2400.— 22.73[^hEinführungsgesetz-20] Organisation langfristige Sicherung digi tale Grundbuchdaten, je Grundbuch (Art. 949a ZGB; Art. 35 der eidgenössischen Grundbuchverordnung vom 23. September 2011) … 20.— bis 100.—
 
 [^hEinführungsgesetz-1]: sGS 911.1.
 [^hEinführungsgesetz-2]: Eingefügt durch XIII. Nachtrag.
@@ -494,31 +489,32 @@ Grundbuchverwalter vom 30. März 1976) . . 80.—
 [^hEinführungsgesetz-9]: Geändert durch XIII. Nachtrag.
 [^hEinführungsgesetz-10]: Eingefügt durch XIII. Nachtrag.
 [^hEinführungsgesetz-11]: Geändert durch XIII. Nachtrag.
-[^hEinführungsgesetz-12]: Aufgehoben durch XX. Nachtrag.
-[^hEinführungsgesetz-13]: Aufgehoben durch VESB.
+[^hEinführungsgesetz-12]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetz-13]: Aufgehoben durch XX. Nachtrag.
 [^hEinführungsgesetz-14]: Aufgehoben durch VESB.
 [^hEinführungsgesetz-15]: Aufgehoben durch VESB.
 [^hEinführungsgesetz-16]: Aufgehoben durch VESB.
 [^hEinführungsgesetz-17]: Aufgehoben durch VESB.
-[^hEinführungsgesetz-18]: Geändert durch XIII. Nachtrag.
-[^hEinführungsgesetz-19]: Eingefügt durch XIII. Nachtrag.
+[^hEinführungsgesetz-18]: Aufgehoben durch VESB.
+[^hEinführungsgesetz-19]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetz-20]: Eingefügt durch XIII. Nachtrag.
 
-### Fähigkeitsausweis der Grundbuchverwalter
+### Verordnung über die Prüfung und den Fähigkeitsausweis der Grundbuchverwalter
 
-vom 30. März 1976[^hFähigkeitsausweisde-1]
+vom 30. März 1976[^hVerordnungüberdie_2-1]
 
-22.80.01[^hFähigkeitsausweisde-2] Grundbuchverwalterprüfung (Art. 6) … 1800.— 22.80.02[^hFähigkeitsausweisde-3] Wiederholung der mündlichen Prüfung
+22.80.01[^hVerordnungüberdie_2-2] Grundbuchverwalterprüfung (Art. 6) … 1800.— 22.80.02[^hVerordnungüberdie_2-3] Wiederholung der mündlichen Prüfung
 
 (Art. 11b) … 900.—
 
-22.80.03[^hFähigkeitsausweisde-4] Teil und Erneuerungsprüfung (Art. 12 und
+22.80.03[^hVerordnungüberdie_2-4] Teil und Erneuerungsprüfung (Art. 12 und
 
 Art. 13) … 900.—
 
-[^hFähigkeitsausweisde-1]: sGS 914.45.
-[^hFähigkeitsausweisde-2]: Fassung gemäss VIII. Nachtrag.
-[^hFähigkeitsausweisde-3]: Geändert durch XIII. Nachtrag.
-[^hFähigkeitsausweisde-4]: Fassung gemäss VIII. Nachtrag.
+[^hVerordnungüberdie_2-1]: sGS 914.45.
+[^hVerordnungüberdie_2-2]: Fassung gemäss VIII. Nachtrag.
+[^hVerordnungüberdie_2-3]: Geändert durch XIII. Nachtrag.
+[^hVerordnungüberdie_2-4]: Fassung gemäss VIII. Nachtrag.
 
 ### Schweizerisches Obligationenrecht
 
@@ -534,18 +530,6 @@ stücken durch Personen im Ausland (BewG) vom 16. Dezember 1983
 
 den Erwerb von Grundstücken durch Personen im Ausland vom 7. Januar 1988 (EG)[^hEinführungsgesetzzu_4-1]
 
-22.90.01 Entscheid über die Bewilligungspflicht (Art.2, 4 bis 7 BewG) … 400.— bis 2000.— 22.90.02 Erteilung der Bewilligung (Art.8 ff. BewG) 400.— bis 3000.— 22.90.03 Verweigerung der Bewilligung … 400.— bis 2000.— 22.90.04 Widerruf der Bewilligung oder einer Auflage (Art. 25 und Art. 14 Abs. 4 BewG) … 400.— bis 2000.— 22.91 Zuteilung aus dem Kontingent bei Grund satzbewilligungen (Art. 2 Abs. 3 EG) … 250.— bis 2000.— Nr. Verordnung über Kantonsbeiträge an unbeweg-
-
-**Fr.**
-
-liche Kulturgüter vom 19. Juni 2018 <sup>149,150</sup>
-
-24.01[^hEinführungsgesetzzu_4-2] Gebühren für komplexe und mit umfang reichen Abklärungen verbundene Beratun gen (Art. 5 Abs. 2 Bst. a):
-
-24.01.01[^hEinführungsgesetzzu_4-3] Beratungen vor Ort und telefonisch, je ange brochene 30 Minuten … 60.— 24.01.02[^hEinführungsgesetzzu_4-4] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit schriftlichem Bescheid über das Ergebnis … 80.— 24.01.03[^hEinführungsgesetzzu_4-5] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit mündlichem oder telefonischem Bescheid über das Ergeb nis … 60.— 24.01.04[^hEinführungsgesetzzu_4-6] Untersuchungen und Begutachtungen durch externe Experten … nach tatsächlichen Kosten 24.01.05[^hEinführungsgesetzzu_4-7] Barauslagen der zuständigen kantonalen Stelle … nach tatsächlichen Kosten 24.02[^hEinführungsgesetzzu_4-8] Gebühren für Beratungen in überwiegendem
-
-privaten Interesse (Art. 5 Abs. 2 Bst. b):
-
 **60.—**
 
 **80.—**
@@ -554,35 +538,31 @@ privaten Interesse (Art. 5 Abs. 2 Bst. b):
 
 **nach tatsächlichen Kosten**
 
-24.02.01[^hEinführungsgesetzzu_4-9] Beratungen vor Ort und telefonisch, je ange brochene 30 Minuten … 100.— 24.02.02[^hEinführungsgesetzzu_4-10] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit schriftli chem Bescheid über das Ergebnis … 120.— 24.02.03[^hEinführungsgesetzzu_4-11] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit mündlichem oder telefonischem Bescheid über das Ergeb nis … 100.— 24.02.04[^hEinführungsgesetzzu_4-12] Untersuchungen und Begutachtungen durch externe Experten … 24.02.05[^hEinführungsgesetzzu_4-13] Barauslagen der zuständigen kantonalen Stelle …
-
-**nach tatsächlichen Kosten**
-
-**nach tatsächlichen Kosten**
-
-[^hEinführungsgesetzzu_4-1]: sGS 914.1.
-[^hEinführungsgesetzzu_4-2]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-3]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-4]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-5]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-6]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-7]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-8]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-9]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-10]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-11]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-12]: Eingefügt durch XIV. Nachtrag.
-[^hEinführungsgesetzzu_4-13]: Eingefügt durch XIV. Nachtrag.
-
-### Kulturerbeverordnung vom 18. Juni 2019 <sup>163,164</sup>
-
-24.03[^hKulturerbeverordnung-1] Gebühren für komplexe und mit umfang reichen Abklärungen verbundene Beratun
-
-gen (Art. 4 Abs. 2 Bst. a):
-
 **nach tatsächlichen Kosten**
 
 **100.—**
+
+22.90.01[^hEinführungsgesetzzu_4-2] Entscheid über die Bewilligungspflicht (Art.2, 4 bis 7 BewG) … 400.— bis 2400.— 22.90.02[^hEinführungsgesetzzu_4-3] Erteilung der Bewilligung (Art.8 ff. BewG) 400.— bis 3600.— 22.90.03[^hEinführungsgesetzzu_4-4] Verweigerung der Bewilligung … 22.90.04[^hEinführungsgesetzzu_4-5] Widerruf der Bewilligung oder einer Auflage (Art. 25 und Art. 14 Abs. 4 BewG) … 22.91 Zuteilung aus dem Kontingent bei Grund satzbewilligungen (Art. 2 Abs. 3 EG) …
+
+**400.— bis 2400.—**
+
+**400.— bis 2400.—**
+
+**250.— bis 2000.—**
+
+[^hEinführungsgesetzzu_4-1]: sGS 914.1.
+[^hEinführungsgesetzzu_4-2]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetzzu_4-3]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetzzu_4-4]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetzzu_4-5]: Geändert durch XXVI. Nachtrag.
+
+### Verordnung über Kantonsbeiträge an unbeweg-
+
+liche Kulturgüter vom 19. Juni 2018 <sup>156,157</sup>
+
+24.01[^hVerordnungüberKant-1] Gebühren für komplexe und mit umfang reichen Abklärungen verbundene Beratun
+
+gen (Art. 5 Abs. 2 Bst. a):
 
 **120.—**
 
@@ -592,7 +572,44 @@ gen (Art. 4 Abs. 2 Bst. a):
 
 **nach tatsächlichen Kosten**
 
-24.03.01[^hKulturerbeverordnung-2] Beratungen vor Ort und telefonisch, je ange brochene 30 Minuten … 24.03.02[^hKulturerbeverordnung-3] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit schriftlichem Bescheid über das Ergebnis … 24.03.03[^hKulturerbeverordnung-4] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je an gebrochene 30 Minuten, mit mündlichem oder telefonischem Bescheid über das Ergebnis . . 24.03.04[^hKulturerbeverordnung-5] Untersuchungen und Begutachtungen durch externe Experten … 24.03.05[^hKulturerbeverordnung-6] Barauslagen der zuständigen kantonalen Stelle … 24.04[^hKulturerbeverordnung-7] Gebühren für Beratungen in überwiegendem privaten Interesse (Art. 4 Abs. 2 Bst. b): 24.04.01[^hKulturerbeverordnung-8] Beratungen vor Ort und telefonisch, je ange brochene 30 Minuten … 24.04.02[^hKulturerbeverordnung-9] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit schriftlichem Bescheid über das Ergebnis … 24.04.03[^hKulturerbeverordnung-10] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je an gebrochene 30 Minuten, mit mündlichem oder telefonischem Bescheid über das Ergebnis . . 24.04.04[^hKulturerbeverordnung-11] Untersuchungen und Begutachtungen durch externe Experten … 24.04.05[^hKulturerbeverordnung-12] Barauslagen der zuständigen kantonalen Stelle …
+24.01.01[^hVerordnungüberKant-2] Beratungen vor Ort und telefonisch, je ange brochene 30 Minuten … 24.01.02[^hVerordnungüberKant-3] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit schriftlichem Bescheid über das Ergebnis … 24.01.03[^hVerordnungüberKant-4] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit mündlichem oder telefonischem Bescheid über das Ergeb nis … 24.01.04[^hVerordnungüberKant-5] Untersuchungen und Begutachtungen durch externe Experten … 24.01.05[^hVerordnungüberKant-6] Barauslagen der zuständigen kantonalen Stelle … 24.02[^hVerordnungüberKant-7] Gebühren für Beratungen in überwiegendem privaten Interesse (Art. 5 Abs. 2 Bst. b): 24.02.01[^hVerordnungüberKant-8] Beratungen vor Ort und telefonisch, je ange brochene 30 Minuten … 24.02.02[^hVerordnungüberKant-9] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit schriftli chem Bescheid über das Ergebnis … 24.02.03[^hVerordnungüberKant-10] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit mündlichem oder telefonischem Bescheid über das Ergeb nis … 24.02.04[^hVerordnungüberKant-11] Untersuchungen und Begutachtungen durch externe Experten … 24.02.05[^hVerordnungüberKant-12] Barauslagen der zuständigen kantonalen Stelle …
+
+[^hVerordnungüberKant-1]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-2]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-3]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-4]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-5]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-6]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-7]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-8]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-9]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-10]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-11]: Eingefügt durch XIV. Nachtrag.
+[^hVerordnungüberKant-12]: Eingefügt durch XIV. Nachtrag.
+
+### Kulturerbeverordnung vom 18. Juni 2019 <sup>170,171</sup>
+
+24.03[^hKulturerbeverordnung-1] Gebühren für komplexe und mit umfang reichen Abklärungen verbundene Beratun
+
+gen (Art. 4 Abs. 2 Bst. a):
+
+**60.—**
+
+**80.—**
+
+**60.—**
+
+**nach tatsächlichen Kosten**
+
+24.03.01[^hKulturerbeverordnung-2] Beratungen vor Ort und telefonisch, je ange brochene 30 Minuten … 24.03.02[^hKulturerbeverordnung-3] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit schriftlichem Bescheid über das Ergebnis … 24.03.03[^hKulturerbeverordnung-4] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je an gebrochene 30 Minuten, mit mündlichem oder telefonischem Bescheid über das Ergebnis . . 24.03.04[^hKulturerbeverordnung-5] Untersuchungen und Begutachtungen durch externe Experten … 24.03.05[^hKulturerbeverordnung-6] Barauslagen der zuständigen kantonalen Stelle … nach tatsächlichen Kosten 24.04[^hKulturerbeverordnung-7] Gebühren für Beratungen in überwiegendem
+
+privaten Interesse (Art. 4 Abs. 2 Bst. b):
+
+24.04.01[^hKulturerbeverordnung-8] Beratungen vor Ort und telefonisch, je ange brochene 30 Minuten … 100.— 24.04.02[^hKulturerbeverordnung-9] Recherchen durch Personal der zuständigen kantonalen Stelle von mehr als 1 Stunde, je angebrochene 30 Minuten, mit schriftlichem Bescheid über das Ergebnis … 120.— 24.04.03[^hKulturerbeverordnung-10] Recherchen durch Personal der zuständigen
+
+kantonalen Stelle von mehr als 1 Stunde, je an
+
+gebrochene 30 Minuten, mit mündlichem oder telefonischem Bescheid über das Ergebnis . . 100.— 24.04.04[^hKulturerbeverordnung-11] Untersuchungen und Begutachtungen durch externe Experten … nach tatsächlichen Kosten 24.04.05[^hKulturerbeverordnung-12] Barauslagen der zuständigen kantonalen Stelle … nach tatsächlichen Kosten
 
 **Fr.**
 
@@ -650,21 +667,22 @@ gen (Art. 4 Abs. 2 Bst. a):
 
 [^hsupNrsupEFi-3]
 
-25.11 Zweite und weitere Mahnungen für rechts
+25.11[^hSteuergesetzvom9_2-1] Zweite und weitere Mahnungen für rechts kräftige Steuerforderungen sowie Mahnun
 
-kräftige Steuerforderungen … 50.—
+gen für Bussen … 50.—
 
-25.12[^hSteuergesetzvom9_2-1] Kosten des Nachsteuerverfahrens (Art. 202 Abs. 1) … 50.— bis 5000.— 25.13[^hSteuergesetzvom9_2-2] Kosten des Strafbescheids (Art.262 Abs.1) . . 50.— bis 5000.—
+25.12[^hSteuergesetzvom9_2-2] Kosten des Nachsteuerverfahrens (Art. 202 Abs. 1) … 50.— bis 5000.— 25.13[^hSteuergesetzvom9_2-3] Kosten des Strafbescheids (Art.262 Abs.1) . . 50.— bis 5000.—
 
 **Fr.**
 
-[^hSteuergesetzvom9_2-1]: Eingefügt durch VI. Nachtrag.
+[^hSteuergesetzvom9_2-1]: Geändert durch XXVI. Nachtrag.
 [^hSteuergesetzvom9_2-2]: Eingefügt durch VI. Nachtrag.
-[^hSteuergesetzvom9_2-3]: Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3).
+[^hSteuergesetzvom9_2-3]: Eingefügt durch VI. Nachtrag.
+[^hSteuergesetzvom9_2-4]: Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3).
 
 ### Nr. F. Bau- und Umweltdepartement
 
-[^hSteuergesetzvom9_2-3]
+[^hSteuergesetzvom9_2-4]
 
 [^hNrFBauundUmwe-1]: sGS 731.1.
 [^hNrFBauundUmwe-2]: Geändert durch XII. Nachtrag.
@@ -673,7 +691,7 @@ kräftige Steuerforderungen … 50.—
 
 [^hNrFBauundUmwe-1][^hNrFBauundUmwe-2]
 
-26.01[^hPlanungsundBauges-1] Genehmigung von Rahmennutzungsplänen, Sondernutzungsplänen und Schutzverord nungen (Art. 38) … 75.— bis 7200.— …[^hPlanungsundBauges-2] 26.03[^hPlanungsundBauges-3] Genehmigung von Ausnahmebewilligungen (Art. 108 Abs. 4) … 75.— bis 2900.— …[^hPlanungsundBauges-4] 26.05[^hPlanungsundBauges-5] Zustimmung zu einer Baubewilligung oder Verweigerung der Zustimmung ausserhalb der Bauzonen (Art. 112) … 100.— bis 2000.— 26.06[^hPlanungsundBauges-6] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 75.— bis 1500.— 26.07[^hPlanungsundBauges-7] Teilentscheid (Art. 144) … 75.— bis 2000.— 26.08[^hPlanungsundBauges-8] Verfahrenskoordination (Art. 133) … 100.— bis 5000.— 26.09[^hPlanungsundBauges-9] Scannen von Baugesuchsunterlagen … 50.— bis 1000.— 26.09.01[^hPlanungsundBauges-10] Erlass bzw. Änderung kantonaler Sonder nutzungspläne (Art. 32) … 3000.— bis 50 000.— 26.09.02[^hPlanungsundBauges-11] Baubewilligungen (Art. 146; Art. 9a PBV) . . . 100.— bis 10 000.— 26.09.03[^hPlanungsundBauges-12] Baubewilligungen bei besonders aufwändigen Verfahren … 10 000.— bis 50 000.— Nr. Strassengesetz vom 12. Juni 1988[^hPlanungsundBauges-13]
+26.01[^hPlanungsundBauges-1] Genehmigung von Rahmennutzungsplänen, Sondernutzungsplänen und Schutzverord nungen (Art. 38) … 75.— bis 7200.— …[^hPlanungsundBauges-2] 26.03[^hPlanungsundBauges-3] Genehmigung von Ausnahmebewilligungen (Art. 108 Abs. 4) und Zustimmungen zu einer Baubewilligung im Gewässerraum und zur Unterschreitung des Abstands nach Art. 90 Abs. 2 und 3 PBG (Art. 90 Abs. 4) … 75.— bis 2900.— …[^hPlanungsundBauges-4] 26.05[^hPlanungsundBauges-5] Zustimmung zu einer Baubewilligung oder Verweigerung der Zustimmung ausserhalb der Bauzonen (Art. 112) … 100.— bis 2000.— 26.06[^hPlanungsundBauges-6] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 75.— bis 1500.— 26.07[^hPlanungsundBauges-7] Teilentscheid (Art. 144) … 75.— bis 2000.— 26.08[^hPlanungsundBauges-8] Verfahrenskoordination (Art. 133) … 100.— bis 5000.— 26.09[^hPlanungsundBauges-9] Scannen von Baugesuchsunterlagen … 50.— bis 1000.— 26.09.01[^hPlanungsundBauges-10] Erlass bzw. Änderung kantonaler Sonder nutzungspläne (Art. 32 und 33) … 3000.— bis 50 000.— 26.09.02[^hPlanungsundBauges-11] Baubewilligungen (Art. 146; Art. 9a PBV) . . . 100.— bis 10 000.— 26.09.03[^hPlanungsundBauges-12] Baubewilligungen bei besonders aufwändigen Verfahren … 10000.— bis 50000.— Nr. Strassengesetz vom 12. Juni 1988[^hPlanungsundBauges-13]
 
 **Fr.**
 
@@ -681,14 +699,14 @@ kräftige Steuerforderungen … 50.—
 
 [^hPlanungsundBauges-1]: Geändert durch XII. Nachtrag.
 [^hPlanungsundBauges-2]: Nr. 26.02 aufgehoben durch XII. Nachtrag.
-[^hPlanungsundBauges-3]: Geändert durch XII. Nachtrag.
+[^hPlanungsundBauges-3]: Geändert durch XXVI. Nachtrag.
 [^hPlanungsundBauges-4]: Nr. 26.04 aufgehoben durch XII. Nachtrag.
 [^hPlanungsundBauges-5]: Geändert durch XII. Nachtrag.
 [^hPlanungsundBauges-6]: Geändert durch XII. Nachtrag.
 [^hPlanungsundBauges-7]: Eingefügt durch XII. Nachtrag.
 [^hPlanungsundBauges-8]: Eingefügt durch XII. Nachtrag.
 [^hPlanungsundBauges-9]: Eingefügt durch XXIII. Nachtrag.
-[^hPlanungsundBauges-10]: Eingefügt durch XXIV. Nachtrag.
+[^hPlanungsundBauges-10]: Geändert durch XXVI. Nachtrag.
 [^hPlanungsundBauges-11]: Eingefügt durch XXIV. Nachtrag.
 [^hPlanungsundBauges-12]: Eingefügt durch XXIV. Nachtrag.
 [^hPlanungsundBauges-13]: sGS 732.1.
@@ -733,7 +751,7 @@ vom 24. Januar 1991[^hBundesgesetzüberde_2-1],[^hBundesgesetzüberde_2-2]
 
 schutzgesetzgebung vom 11. April 1996[^hVollzugsgesetzzure-1],[^hVollzugsgesetzzure-2]
 
-26.20.01 Einleitungs und Versickerungsbewilligung (Art. 3, 3bis und 3ter) … 200.— bis 4000.— 26.20.02 Verfügung zur Behebung von Gewässerver unreinigungen durch Sickerwasser aus Depo nien (Art. 4 Abs. 2) … 200.— bis 20 000.— 26.20.03 Genehmigung des generellen Entwässerungs plans (Art. 5 Abs. 2) … 300.— bis 20 000.— 26.20.03.01 Zustimmung zu einer vom Klärschlamm Entsorgungsplan abweichenden Entsorgung (Art. 6 Abs. 2) … 100.— bis 3000.— 26.20.04 Genehmigung von Vereinbarungen über gemeinsame öffentliche Abwasseranlagen (Art. 8 Abs. 1) … 300.— bis 3000.— 26.20.05 Entscheid über die Kostenanteile bei ge meinsamen Anlagen (Art. 8 Abs. 3) … 500.— bis 3000.— 26.20.06 Verfügung über die Mitbenützung von Ab wasseranlagen (Art. 9 Abs. 2 und 4) … 100.— bis 3000.— 26.20.06.01[^hVollzugsgesetzzure-3] Überwachung von Abwasseranlagen (Art. 10) 100.— bis 4000.— 26.20.07 Verfügung betreffend Lagerung und Unter suchung von Klärschlamm (Art.12 Abs.1) . . . 100.— bis 3000.— 26.20.08 Verfügung bei zu hohem Schadstoffgehalt im Klärschlamm (Art. 12 Abs. 2) … 100.— bis 3000.— 26.20.09 Entscheid über die Einleitung von ver schmutztem Abwasser (Art. 13 Abs. 2) … 100.— bis 3000.— 26.20.10 Entscheid in Sonderfällen und über beson dere Verfahren (Art. 22) … 100.— bis 3000.— 26.20.11 Verfügungen betreffend Betriebe mit Nutz tierhaltungen (Art. 24 Abs. 1) … 100.— bis 3000.— 26.20.12[^hVollzugsgesetzzure-4] Kontrolle von Anlagen (Art. 25) … 150.— bis 10 000.— 26.20.13 Anhörung der zuständigen Stelle des Staates (Art. 26 Abs. 2) … 100.— bis 3000.— 26.20.14 Einteilung und Anpassung von Gewässer schutzbereichen (Art. 27) … 100.— bis 1000.— 26.20.15 Bewilligung in besonders gefährdeten Berei chen (Art. 28) … 150.— bis 5000.— 26.20.15.01[^hVollzugsgesetzzure-5] Bewilligung von Bohrungen und erheb lichen Grabungen (Art. 28bis) … 150.— bis 5000.— 26.20.15.02 Verfügung über besondere Massnahmen in Zuströmbereichen (Art. 28ter) … 150.— bis 5000.— 26.20.16 Entscheid über Einsprachen in der Zone S, wenn das Departement die Ausscheidung vorgenommen hat (Art. 31 Abs. 2 Bst. b) . . . . 400.— bis 5000.— 26.20.17 Genehmigung des Umgrenzungsplans einer Gemeinde (Art. 32) … 400.— bis 6000.— 26.20.18 Verfügung über die Kostentragungspflicht bei der Ausscheidung von Schutzzonen und Schutzarealen (Art. 33 Abs. 2) … 200.— bis 4000.— 26.20.19 Ausnahmebewilligung in der Zone S (Art. 34 Abs. 2) … 200.— bis 3000.— 26.20.20 Verfügung weitergehender Schutzmassnah men (Art. 34 Abs. 2) … 100.— bis 2000.— 26.20.21 Bewilligung, Abnahme, Sanierung (ein schliesslich Mängelbehebung) und Stilllegung von Anlagen mit wassergefährdenden Flüs sigkeiten (Art. 35 Abs. 1 Bst. a) … 100.— bis 7000.— 26.20.22 Ausnahmebewilligungen bei Überschreitung der für die Gewässerschutzbereiche Au und Ao zulässigen Höchstmengen (Art. 35 Abs. 1 Bst. b) … 300.— bis 5000.— 26.20.23[^hVollzugsgesetzzure-6] … 26.20.24[^hVollzugsgesetzzure-7] Verfügung von Massnahmen bezüglich An lagen mit wassergefährdenden Flüssigkeiten (Art. 35ter) … 100.— bis 1000.— 26.20.25 Verfügung zusätzlicher Massnahmen am Gewässer (Art. 38) … 100.— bis 3000.— 26.20.26[^hVollzugsgesetzzure-8] Bewilligung für die Wasserentnahme über den Gemeingebrauch hinaus (Art. 39) … 150.— bis 1000.— 26.20.26.01 Erlass von Schutz und Nutzungsplänen (Art. 39bis ff.) … 1000.— bis 30 000.— 26.20.26.02 Schutzverfügungen (Art. 39bis ff.) … 250.— bis 5000.— 26.20.26.03 Verfügung von anderen Massnahmen zur Umsetzung einer Schutz und Nutzungspla nung (Art. 39bis ff.) … 250.— bis 5000.— 26.20.27[^hVollzugsgesetzzure-9] Verfügung von Sanierungsmassnahmen nach Art. 80 ff. des eidgenössischen Gewässer schutzgesetzes … 150.— bis 15 000.— 26.20.28[^hVollzugsgesetzzure-10] Ausnahmebewilligungen bei Fliessgewässern (Art. 41) … 150.— bis 2000.— 26.20.29[^hVollzugsgesetzzure-11] Bewilligung für Schüttungen in Seen (Art.42) 150.— bis 5000.— 26.20.30[^hVollzugsgesetzzure-12] Bewilligung für Spülungen und Entleerungen des Stauraums (Art. 43 Abs. 1 Bst. a) … 150.— bis 10 000.— 26.20.31[^hVollzugsgesetzzure-13] Ausnahmebewilligung für die Rückgabe von Treibgut (Art. 43 Abs. 1 Bst. b) … 150.— bis 1000.— 26.20.32[^hVollzugsgesetzzure-14] Verfügung baulicher Vorkehren für das Ein sammeln von Treibgut (Art. 43 Abs. 1 Bst. c) 150.— bis 1000.— 26.20.33 Verfügung zur Erhaltung von Grundwasser vorkommen (Art. 44) … 500.— bis 5000.— 26.20.34 Bewilligung zur Ausbeutung von Kies, Sand und anderem Material (Art. 45 Abs. 1) … 500.— bis 25 000.—
+26.20.01 Einleitungs und Versickerungsbewilligung (Art. 3, 3bis und 3ter) … 200.— bis 4000.— 26.20.02 Verfügung zur Behebung von Gewässerver unreinigungen durch Sickerwasser aus Depo nien (Art. 4 Abs. 2) … 200.— bis 20 000.— 26.20.03 Genehmigung des generellen Entwässerungs plans (Art. 5 Abs. 2) … 300.— bis 20 000.— 26.20.03.01 Zustimmung zu einer vom Klärschlamm Entsorgungsplan abweichenden Entsorgung (Art. 6 Abs. 2) … 100.— bis 3000.— 26.20.04 Genehmigung von Vereinbarungen über gemeinsame öffentliche Abwasseranlagen (Art. 8 Abs. 1) … 300.— bis 3000.— 26.20.05 Entscheid über die Kostenanteile bei ge meinsamen Anlagen (Art. 8 Abs. 3) … 500.— bis 3000.— 26.20.06 Verfügung über die Mitbenützung von Ab wasseranlagen (Art. 9 Abs. 2 und 4) … 100.— bis 3000.— 26.20.06.01[^hVollzugsgesetzzure-3] Überwachung von Abwasseranlagen (Art. 10) 100.— bis 4000.— 26.20.07 Verfügung betreffend Lagerung und Unter suchung von Klärschlamm (Art.12 Abs.1) . . . 100.— bis 3000.— 26.20.08 Verfügung bei zu hohem Schadstoffgehalt im Klärschlamm (Art. 12 Abs. 2) … 100.— bis 3000.— 26.20.09 Entscheid über die Einleitung von ver schmutztem Abwasser (Art. 13 Abs. 2) … 100.— bis 3000.— 26.20.10 Entscheid in Sonderfällen und über beson dere Verfahren (Art. 22) … 100.— bis 3000.— 26.20.11 Verfügungen betreffend Betriebe mit Nutz tierhaltungen (Art. 24 Abs. 1) … 100.— bis 3000.— 26.20.12[^hVollzugsgesetzzure-4] Kontrolle von Anlagen (Art. 25) … 150.— bis 10 000.— 26.20.13 Anhörung der zuständigen Stelle des Staates (Art. 26 Abs. 2) … 100.— bis 3000.— 26.20.14 Einteilung und Anpassung von Gewässer schutzbereichen (Art. 27) … 100.— bis 1000.— 26.20.15 Bewilligung in besonders gefährdeten Berei chen (Art. 28) … 150.— bis 5000.— 26.20.15.01[^hVollzugsgesetzzure-5] Bewilligung von Bohrungen und erheb lichen Grabungen (Art. 28bis) … 150.— bis 5000.— 26.20.15.02 Verfügung über besondere Massnahmen in Zuströmbereichen (Art. 28ter) … 150.— bis 5000.— 26.20.16 Entscheid über Einsprachen in der Zone S, wenn das Departement die Ausscheidung vorgenommen hat (Art. 31 Abs. 2 Bst. b) . . . . 400.— bis 5000.— 26.20.17 Genehmigung des Umgrenzungsplans einer Gemeinde (Art. 32) … 400.— bis 6000.— 26.20.18 Verfügung über die Kostentragungspflicht bei der Ausscheidung von Schutzzonen und Schutzarealen (Art. 33 Abs. 2) … 200.— bis 4000.— 26.20.19 Ausnahmebewilligung in der Zone S (Art. 34 Abs. 2) … 200.— bis 3000.— 26.20.20 Verfügung weitergehender Schutzmassnah men (Art. 34 Abs. 2) … 100.— bis 2000.— 26.20.21 Bewilligung, Abnahme, Sanierung (ein schliesslich Mängelbehebung) und Stilllegung von Anlagen mit wassergefährdenden Flüs sigkeiten (Art. 35 Abs. 1 Bst. a) … 100.— bis 7000.— 26.20.22 Ausnahmebewilligungen bei Überschreitung der für die Gewässerschutzbereiche Au und Ao zulässigen Höchstmengen (Art. 35 Abs. 1 Bst. b) … 300.— bis 5000.— 26.20.23[^hVollzugsgesetzzure-6] … 26.20.24[^hVollzugsgesetzzure-7] Verfügung von Massnahmen bezüglich An lagen mit wassergefährdenden Flüssigkeiten (Art. 35ter) … 100.— bis 1000.— 26.20.25 Verfügung zusätzlicher Massnahmen am Gewässer (Art. 38) … 100.— bis 3000.— 26.20.26[^hVollzugsgesetzzure-8] Bewilligung für die Wasserentnahme über den Gemeingebrauch hinaus (Art. 39) … 150.— bis 1000.— 26.20.26.01 Erlass von Schutz und Nutzungsplänen (Art. 39bis ff.) … 1000.— bis 30 000.— 26.20.26.02 Schutzverfügungen (Art. 39bis ff.) … 250.— bis 5000.— 26.20.26.03 Verfügung von anderen Massnahmen zur Umsetzung einer Schutz und Nutzungspla nung (Art. 39bis ff.) … 250.— bis 5000.— 26.20.27[^hVollzugsgesetzzure-9] Verfügung von Sanierungsmassnahmen nach Art. 80 ff. des eidgenössischen Gewässer schutzgesetzes … 150.— bis 15 000.— 26.20.28[^hVollzugsgesetzzure-10] Ausnahmebewilligungen bei Fliessgewässern (Art. 41) … 150.— bis 2000.— 26.20.29[^hVollzugsgesetzzure-11] Bewilligung für Schüttungen in Seen (Art.42) 150.— bis 5000.— 26.20.30[^hVollzugsgesetzzure-12] Bewilligung für Spülungen und Entleerungen des Stauraums (Art. 43 Abs. 1 Bst. a) … 150.— bis 10 000.— 26.20.31[^hVollzugsgesetzzure-13] Ausnahmebewilligung für die Rückgabe von Treibgut (Art. 43 Abs. 1 Bst. b) … 150.— bis 1000.— 26.20.32[^hVollzugsgesetzzure-14] Verfügung baulicher Vorkehren für das Ein sammeln von Treibgut (Art. 43 Abs. 1 Bst. c) 150.— bis 1000.— 26.20.33 Verfügung zur Erhaltung von Grundwasser vorkommen (Art. 44) … 500.— bis 5000.— 26.20.34[^hVollzugsgesetzzure-15] Bewilligung zur Ausbeutung von Kies, Sand und anderem Material (Art. 45 Abs. 1) … 500.— bis 100 000.—
 
 [^hVollzugsgesetzzure-1]: sGS 752.2.
 [^hVollzugsgesetzzure-2]: Fassung gemäss X. Nachtrag.
@@ -749,6 +767,7 @@ schutzgesetzgebung vom 11. April 1996[^hVollzugsgesetzzure-1],[^hVollzugsgesetzz
 [^hVollzugsgesetzzure-12]: Geändert durch XIII. Nachtrag.
 [^hVollzugsgesetzzure-13]: Geändert durch XIII. Nachtrag.
 [^hVollzugsgesetzzure-14]: Geändert durch XIII. Nachtrag.
+[^hVollzugsgesetzzure-15]: Geändert durch XXVI. Nachtrag.
 
 ### Verordnung zum Vollzugsgesetz zur
 
@@ -781,7 +800,7 @@ vom 7. Oktober 1983[^hBundesgesetzüberde_3-1],[^hBundesgesetzüberde_3-2]
 
 **Fr.**
 
-26.30[^hBundesgesetzüberde_3-9] Emissions und Immissionsmessungen sowie Emissions und Immissionskontrollen (Art.24) 1000.— bis 50 000.— 26.31[^hBundesgesetzüberde_3-10] Überprüfung und Beurteilung von Gesuchs unterlagen für die Errichtung und Änderung von Anlagen mit nicht ionisierender Strah lung (Art. 36) … 300.— bis 3000.— 26.32 <sup>250</sup> Anhörung bei Vorschriften auf dem Gebiet des Umweltschutzes (Art. 6) … 200.— bis 2000.— 26.33[^hBundesgesetzüberde_3-11] Verfügung über Luftreinhaltemassnahmen (Art. 24 und 27) … 100.— bis 20 000.— 26.34[^hBundesgesetzüberde_3-12] Verfügung über Lärmschutzmassnahmen (Art. 29 und 31) … 100.— bis 10 000.—
+26.30[^hBundesgesetzüberde_3-9] Emissions und Immissionsmessungen sowie Emissions und Immissionskontrollen (Art.24) 1000.— bis 50 000.— 26.31[^hBundesgesetzüberde_3-10] Überprüfung und Beurteilung von Gesuchs unterlagen für die Errichtung und Änderung von Anlagen mit nicht ionisierender Strah lung (Art. 36) … 300.— bis 3000.— 26.32 <sup>259</sup> Anhörung bei Vorschriften auf dem Gebiet des Umweltschutzes (Art. 6) … 200.— bis 2000.— 26.33[^hBundesgesetzüberde_3-11] Verfügung über Luftreinhaltemassnahmen (Art. 24 und 27) … 100.— bis 20 000.— 26.34[^hBundesgesetzüberde_3-12] Verfügung über Lärmschutzmassnahmen (Art. 29 und 31) … 100.— bis 10 000.—
 
 …[^hBundesgesetzüberde_3-13]
 
@@ -822,15 +841,15 @@ vom 7. Oktober 1983[^hBundesgesetzüberde_3-1],[^hBundesgesetzüberde_3-2]
 
 ### Verordnung über die Vermeidung
 
-und die Entsorgung von Abfällen vom 4. Dezember 2015[^hVerordnungüberdie_2-1],[^hVerordnungüberdie_2-2]
+und die Entsorgung von Abfällen vom 4. Dezember 2015[^hVerordnungüberdie_3-1],[^hVerordnungüberdie_3-2]
 
-26.62.01[^hVerordnungüberdie_2-3] Errichtungsbewilligung (Art. 39) … 1000.— bis 100000.— 26.62.02[^hVerordnungüberdie_2-4] Betriebsbewilligung (Art. 40) … 500.— bis 60 000.— 26.62.03[^hVerordnungüberdie_2-5] Überwachung von Abfallanlagen (Art. 28) … 300.— bis 40 000.—
+26.62.01[^hVerordnungüberdie_3-3] Errichtungsbewilligung (Art. 39) … 1000.— bis 100000.— 26.62.02[^hVerordnungüberdie_3-4] Betriebsbewilligung (Art. 40) … 500.— bis 60 000.— 26.62.03[^hVerordnungüberdie_3-5] Überwachung von Abfallanlagen (Art. 28) … 300.— bis 40 000.—
 
-[^hVerordnungüberdie_2-1]: SR 814.600.
-[^hVerordnungüberdie_2-2]: Geändert durch XXIII. Nachtrag.
-[^hVerordnungüberdie_2-3]: Geändert durch XXIII. Nachtrag.
-[^hVerordnungüberdie_2-4]: Geändert durch XXIII. Nachtrag.
-[^hVerordnungüberdie_2-5]: Geändert durch XXIII. Nachtrag.
+[^hVerordnungüberdie_3-1]: SR 814.600.
+[^hVerordnungüberdie_3-2]: Geändert durch XXIII. Nachtrag.
+[^hVerordnungüberdie_3-3]: Geändert durch XXIII. Nachtrag.
+[^hVerordnungüberdie_3-4]: Geändert durch XXIII. Nachtrag.
+[^hVerordnungüberdie_3-5]: Geändert durch XXIII. Nachtrag.
 
 ### Verordnung über den Schutz vor Störfällen
 
@@ -926,7 +945,7 @@ eidgenössisch konzessionierten Seilbahnen und Skilifte (Reglement IKSS) vom 2. 
 
 der Wasserkräfte (Wasserrechtsgesetz) vom 22. Dezember 1916[^hBundesgesetzüberdi_5-1],[^hBundesgesetzüberdi_5-2]
 
-26.73[^hBundesgesetzüberdi_5-3] Stellungnahme im Verfahren für die Ertei lung von Bundeskonzessionen (Art.62c Abs.1 und Art.62h Abs.3) … 1200.— bis 7500.—
+26.73[^hBundesgesetzüberdi_5-3] Stellungnahme im Verfahren für die Ertei lung von Bundeskonzessionen (Art.62c Abs. 1 und Art. 62 h Abs. 3) … 1200.— bis 7500.—
 
 [^hBundesgesetzüberdi_5-1]: SR 721.80.
 [^hBundesgesetzüberdi_5-2]: Eingefügt durch X. Nachtrag.
@@ -1201,59 +1220,62 @@ vom 10. Dezember 1907 (ZGB)[^hSchweizerischesZivi_2-1]
 
 zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911 / 22. Juni 1942 (EG)[^hEinführungsgesetz_2-1]
 
-30.01 Entgegennahme und Aufbewahrung einer Verfügung von Todes wegen (Art. 504 und
+30.01[^hEinführungsgesetz_2-2] Entgegennahme und Aufbewahrung einer Verfügung von Todes wegen (Art. 504 und
 
-Art. 505 Abs. 2 ZGB; Art. 79 bis 81 EG) … 100.—
+Art. 505 Abs. 2 ZGB; Art. 79 bis 81 EG) … 110.—
 
-30.01.01 bei Übernahme aus dem Depot einer ande
+30.01.01[^hEinführungsgesetz_2-3] bei Übernahme aus dem Depot einer ande
 
-ren Amtsstelle … 50.—
+ren Amtsstelle … 55.—
 
 30.02 Siegelung (Art. 83 EG; Art. 31 bis 36 der EV zum ZGB) … 300.— bis 800.— 30.03 Sicherungsinventar und Inventar bei Nach erbeneinsetzung(Art. 490Abs. 1undArt. 553 ZGB):
 
-30.03.01 Grundgebühr … 500.— 30.03.02 Zuschlag 0,5 Prozent des Teilungsvermögens vor der Ausscheidung güterrechtlicher An sprüche 30.03.03[^hEinführungsgesetz_2-2] Zuschlag bei negativem Saldo oder geringem Aktivsaldo nach Aufwand, je Stunde … 80.— bis 250.— 30.04 Erbschaftsverwaltung:
+30.03.01 Grundgebühr … 500.— 30.03.02 Zuschlag 0,5 Prozent des Teilungsvermögens vor der Ausscheidung güterrechtlicher An sprüche 30.03.03[^hEinführungsgesetz_2-4] Zuschlag bei negativem Saldo oder geringem Aktivsaldo nach Aufwand, je Stunde … 80.— bis 250.— 30.04 Erbschaftsverwaltung:
 
-30.04.01 Anordnung und Aufhebung, je … 300.— bis 600.— 30.04.02[^hEinführungsgesetz_2-3] zuzüglich Kosten der Verwaltung nach Auf wand, je Stunde … 80.— bis 250.— 30.05 Eröffnung einer Verfügung von Todes wegen (Art. 557 ZGB) … 150.— bis 1000.— 30.06 Ausstellung der Erbbescheinigung (Art. 559 ZGB):
+30.04.01 Anordnung und Aufhebung, je … 300.— bis 600.— 30.04.02[^hEinführungsgesetz_2-5] zuzüglich Kosten der Verwaltung nach Auf wand, je Stunde … 80.— bis 250.— 30.05[^hEinführungsgesetz_2-6] Eröffnung einer Verfügung von Todes wegen (Art. 557 ZGB) … 165.— bis 1100.— 30.06 Ausstellung der Erbbescheinigung (Art. 559 ZGB):
 
-30.06.01 Testamentseröffnung … 100.— bis 800.— 30.06.02 ohne Testamentseröffnung … 150.— bis 1000.— 30.07 Ausschlagung:
+30.06.01[^hEinführungsgesetz_2-7] Testamentseröffnung … 110.— bis 880.— 30.06.02[^hEinführungsgesetz_2-8] ohne Testamentseröffnung … 165.— bis 1100.— 30.07 Ausschlagung:
 
 30.07.01 Protokollierung (Art. 570 Abs. 3 ZGB) … 10.— bis 50.— 30.07.02 Verlängerung oder Erneuerung der Frist (Art. 576 ZGB) … 300.— bis 600.— 30.08 Öffentliches Inventar (Art. 580 bis 584 ZGB;
 
 Art. 84 bis 87 EG):
 
-30.08.01 Grundgebühr … 500.— 30.08.02 Zuschlag 0,5 Prozent des Teilungsvermögens vor der Ausscheidung güterrechtlicher An sprüche 30.08.03[^hEinführungsgesetz_2-4] Zuschlag bei negativem Saldo oder geringem Aktivsaldo nach Aufwand, je Stunde … 80.— bis 30.09 Entscheid über die Fortsetzung eines Ge werbes (Art. 585 ZGB; Art. 85 EG) … 200.— bis 30.10 Rechnungsruf bei erbenloser Erbschaft (Art. 592 ZGB) … 200.— bis 1000.— 30.11 Amtliche Liquidation (Art. 595 ZGB):
+30.08.01 Grundgebühr … 500.— 30.08.02 Zuschlag 0,5 Prozent des Teilungsvermögens vor der Ausscheidung güterrechtlicher An sprüche 30.08.03[^hEinführungsgesetz_2-9] Zuschlag bei negativem Saldo oder geringem Aktivsaldo nach Aufwand, je Stunde … 80.— bis 250.— 30.09 Entscheid über die Fortsetzung eines Ge werbes (Art. 585 ZGB; Art. 85 EG) … 200.— bis 500.— 30.10 Rechnungsruf bei erbenloser Erbschaft (Art. 592 ZGB) … 200.— bis 1000.— 30.11 Amtliche Liquidation (Art. 595 ZGB):
 
-**250.—**
-
-**500.—**
-
-30.11.01 Grundgebühr … 300.— 30.11.02 Zuschlag 3 Prozent der Nachlassaktiven 30.11.03[^hEinführungsgesetz_2-5] Zuschlag bei negativem Saldo oder geringem Aktivsaldo nach Aufwand, je Stunde … 80.— bis 30.12 Bestellung einer Vertretung für die Erben gemeinschaft (Art. 602 ZGB) … 300.— bis 30.13 Mitwirkung bei der Teilung nach Art. 609 Abs. 1 ZGB:
-
-**250.—**
-
-**800.—**
+30.11.01 Grundgebühr … 300.— 30.11.02 Zuschlag 3 Prozent der Nachlassaktiven 30.11.03[^hEinführungsgesetz_2-10] Zuschlag bei negativem Saldo oder geringem Aktivsaldo nach Aufwand, je Stunde … 80.— bis 250.— 30.12 Bestellung einer Vertretung für die Erben gemeinschaft (Art. 602 ZGB) … 300.— bis 800.— 30.13 Mitwirkung bei der Teilung nach Art. 609 Abs. 1 ZGB:
 
 30.13.01 Grundgebühr … 300.— 30.13.02 Zuschlag 1 Prozent des vertretenen Erbbe treffnisses 30.14–16 Durchführung der amtlichen Teilung (Art. 609 Abs. 2 ZGB; Art. 88 EG) bei einem Teilungsvermögen (im Zeitpunkt der Teilung vor der Ausscheidung güterrechtlicher und erbrechtlicher Ansprüche):
 
 30.14 bis Fr. 50 000.–:
 
-Grundgebühr … 400.— Zuschlag 5 Prozent des Teilungsvermögens 30.15 über Fr. 50 000.– bis Fr. 100 000.–:
+Grundgebühr … 400.—
 
-Grundgebühr … 1200.— Zuschlag 4 Prozent des Teilungsvermögens 30.16 über Fr. 100 000.–:
+Zuschlag 5 Prozent des Teilungsvermögens 30.15 über Fr. 50 000.– bis Fr. 100 000.–:
+
+Grundgebühr … 1200.—
 
 **100.—**
 
-Grundgebühr … 2600.— Zuschlag 3 Prozent des Teilungsvermögens 30.17 … 30.18 Bildung von Losen oder Entscheid über Ver äusserung oder Zuweisung unteilbarer Sachen usw. (Art. 611 Abs. 3 und Art. 613 Abs. 3 ZGB) … 200.— bis 800.— 30.19 Entscheid über die Art der Versteigerung (Art. 612 Abs. 3 ZGB) … 200.— bis 800.— 30.20 Bestellung von Sachverständigen (Art. 618 ZGB) … 100.— bis 500.— 30.21[^hEinführungsgesetz_2-6] Beratung in güter und erbrechtlichen Ange legenheiten (einschliesslich Abfassung einer eigenhändigen letztwilligen Verfügung) nach Aufwand, je Stunde … 150.— bis 250.— 30.22 Überwachung der Auslosung von Gülten (Art. 882 Abs. 2 ZGB) … 100.— bis 300.— 30.23 Anordnung betreffend Veröffentlichung und Verkauf des Versatzpfandes (Art.910 ZGB) 75.— bis 250.— 30.24[^hEinführungsgesetz_2-7] HinterlegungeinesVorsorgeauftrags(Art. 361 Abs. 3 ZGB) …
+Zuschlag 4 Prozent des Teilungsvermögens 30.16 über Fr. 100 000.–:
+
+Grundgebühr … 2600.—
+
+Zuschlag 3 Prozent des Teilungsvermögens 30.17 … 30.18 Bildung von Losen oder Entscheid über Ver äusserung oder Zuweisung unteilbarer Sachen usw. (Art. 611 Abs. 3 und Art. 613 Abs. 3 ZGB) … 200.— bis 800.— 30.19 Entscheid über die Art der Versteigerung (Art. 612 Abs. 3 ZGB) … 200.— bis 800.— 30.20 Bestellung von Sachverständigen (Art. 618 ZGB) … 100.— bis 500.— 30.21[^hEinführungsgesetz_2-11] Beratung in güter und erbrechtlichen Ange legenheiten (einschliesslich Abfassung einer eigenhändigen letztwilligen Verfügung) nach Aufwand, je Stunde … 150.— bis 250.— 30.22 Überwachung der Auslosung von Gülten (Art. 882 Abs. 2 ZGB) … 100.— bis 300.— 30.23 Anordnung betreffend Veröffentlichung und Verkauf des Versatzpfandes (Art.910 ZGB) 75.— bis 250.— 30.24[^hEinführungsgesetz_2-12] HinterlegungeinesVorsorgeauftrags(Art. 361 Abs. 3 ZGB) …
 
 **Fr.**
 
 [^hEinführungsgesetz_2-1]: sGS 911.1.
-[^hEinführungsgesetz_2-2]: Geändert durch XIX. Nachtrag.
-[^hEinführungsgesetz_2-3]: Geändert durch XIX. Nachtrag.
+[^hEinführungsgesetz_2-2]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetz_2-3]: Geändert durch XXVI. Nachtrag.
 [^hEinführungsgesetz_2-4]: Geändert durch XIX. Nachtrag.
 [^hEinführungsgesetz_2-5]: Geändert durch XIX. Nachtrag.
-[^hEinführungsgesetz_2-6]: Geändert durch XIX. Nachtrag.
-[^hEinführungsgesetz_2-7]: Eingefügt durch VESB.
+[^hEinführungsgesetz_2-6]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetz_2-7]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetz_2-8]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetz_2-9]: Geändert durch XIX. Nachtrag.
+[^hEinführungsgesetz_2-10]: Geändert durch XIX. Nachtrag.
+[^hEinführungsgesetz_2-11]: Geändert durch XIX. Nachtrag.
+[^hEinführungsgesetz_2-12]: Eingefügt durch VESB.
 
 ### Nr. I. Kommissionen und Experten
 
@@ -1281,24 +1303,23 @@ und Gemeinderatsschreiber (oder an ihrer Stelle zuständige Amtsstelle)
 
 vom 3. August 2010 (BRG)[^hGesetzüberdasStG_2-1],[^hGesetzüberdasStG_2-2] 50.00.01[^hGesetzüberdasStG_2-3] Entlassung aus dem Gemeindebürgerrecht (Art. 46 Abs. 3 BRG) … 100.— bis 500.— 50.00.02– 04[^hGesetzüberdasStG_2-4] Erteilung des Gemeindebürgerrechts im Ver fahren der Einbürgerung im Allgemeinen (Art. 7 ff. BRG):
 
-50.00.02 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 800.— 50.00.03 – AusländerinnenundAusländer(Einzelper sonen, einschliesslich unmündige Kinder) 100.— bis 1800.— 50.00.04[^hGesetzüberdasStG_2-5] Ausländerinnen und Ausländer (Verheiratete und eingetragene Partner, einschliesslich un mündige Kinder) … 100.— bis 2500.— 50.00.05 / 06[^hGesetzüberdasStG_2-6] Erteilung des Gemeindebürgerrechts im Verfahren der Besonderen Einbürgerung (Art. 36 ff. BRG):
+50.00.02 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 800.— 50.00.03 – AusländerinnenundAusländer(Einzelper sonen, einschliesslich unmündige Kinder) 100.— bis 1800.— 50.00.04[^hGesetzüberdasStG_2-5] Ausländerinnen und Ausländer (Verheiratete und eingetragene Partner, einschliesslich un mündige Kinder) … 100.— bis 2500.— 50.00.05 / 06 <sup>404</sup> Erteilung des Gemeindebürgerrechts im Verfahren der Besonderen Einbürgerung (Art. 36 ff. BRG):
 
 50.00.05 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 600.— 50.00.06 – Ausländische und staatenlose Jugendliche (je Gesuch) … 100.— bis 1400.—
 
-…[^hGesetzüberdasStG_2-7]
+…[^hGesetzüberdasStG_2-6]
 
 [^hGesetzüberdasStG_2-1]: sGS 121.1.
 [^hGesetzüberdasStG_2-2]: Geändert durch BRV.
 [^hGesetzüberdasStG_2-3]: Geändert durch BRV.
 [^hGesetzüberdasStG_2-4]: Geändert durch BRV.
 [^hGesetzüberdasStG_2-5]: Geändert durch X. Nachtrag zur EV zum Schweizerischen Zivilgesetzbuch.
-[^hGesetzüberdasStG_2-6]: Geändert durch BRV.
-[^hGesetzüberdasStG_2-7]: Titel und Nr. 50.01 aufgehoben durch V. Nachtrag.
-[^hGesetzüberdasStG_2-8]: sGS 911.1.
+[^hGesetzüberdasStG_2-6]: Titel und Nr. 50.01 aufgehoben durch V. Nachtrag.
+[^hGesetzüberdasStG_2-7]: sGS 911.1.
 
-### Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 3.Juli 1911/22.Juni 1942
+### Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911 / 22. Juni 1942
 
-[^hGesetzüberdasStG_2-8]
+[^hGesetzüberdasStG_2-7]
 
 50.02 Amtsanzeige oder Mitteilung einer Gegen erklärung (Art. 35<sup>bis</sup>) … 30.— bis 60.— 50.03 Ausstellung eines Zeugnisses (Art. 35<sup>ter</sup>) . . . . 7.— bis 30.— …[^hEinführungsgesetzzu_7-1]
 
@@ -1364,7 +1385,7 @@ zur eidgenössischen Waldgesetzgebung vom 7. Dezember 1999[^hEinführungsgesetzz
 
 Abs. 1) … 20.—
 
-50.24.02[^hEinführungsgesetzzu_9-10] Baubewilligungen (Art. 146 und 149) … 100.— bis 10 000.— 50.24.02.01[^hEinführungsgesetzzu_9-11] Baubewilligungen bei besonders aufwändi gen Verfahren … 10 000.– bis 50 000.— 50.24.03[^hEinführungsgesetzzu_9-12] Abbruchbewilligung (Art.146) … 100.— bis 2000.— 50.24.04[^hEinführungsgesetzzu_9-13] Verlängerung der Geltungsdauer einer Be willigung (Art.148) … 100.— bis 2000.— 50.24.05[^hEinführungsgesetzzu_9-14] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 100.— bis 5000.— 50.24.05.01[^hEinführungsgesetzzu_9-15] Teilentscheid (Art. 144) … 100.— bis 5000.— 50.24.06[^hEinführungsgesetzzu_9-16] Anordnung von Schutzmassnahmen (Art.121 ff. und Art.128 f.) … 100.— bis 5000.— 50.24.08 <sup>427</sup> Verfügung auf Behebung des rechtswidrigen Zustandes (Art. 159) … 100.— bis 10 000.—
+50.24.02[^hEinführungsgesetzzu_9-10] Baubewilligungen (Art. 146 und 149) … 100.— bis 20 000.— 50.24.02.01[^hEinführungsgesetzzu_9-11] Baubewilligungen bei besonders aufwändi gen Verfahren … 20 000.– bis 50 000.— 50.24.03[^hEinführungsgesetzzu_9-12] Abbruchbewilligung (Art.146) … 100.— bis 2000.— 50.24.04[^hEinführungsgesetzzu_9-13] Verlängerung der Geltungsdauer einer Be willigung (Art.148) … 100.— bis 2000.— 50.24.05[^hEinführungsgesetzzu_9-14] Vorbescheid im Bauermittlungsverfahren (Art. 145) … 100.— bis 5000.— 50.24.05.01[^hEinführungsgesetzzu_9-15] Teilentscheid (Art. 144) … 100.— bis 5000.— 50.24.06[^hEinführungsgesetzzu_9-16] Anordnung von Schutzmassnahmen (Art.121 ff. und Art.128 f.) … 100.— bis 5000.— 50.24.08 <sup>441</sup> Verfügung auf Behebung des rechtswidrigen Zustandes (Art. 159) … 100.— bis 10 000.—
 
 [^hEinführungsgesetzzu_9-1]: sGS 651.11.
 [^hEinführungsgesetzzu_9-2]: Eingefügt durch XXIII. Nachtrag.
@@ -1375,8 +1396,8 @@ Abs. 1) … 20.—
 [^hEinführungsgesetzzu_9-7]: Geändert durch XII. Nachtrag.
 [^hEinführungsgesetzzu_9-8]: Geändert durch XII. Nachtrag.
 [^hEinführungsgesetzzu_9-9]: Geändert durch XII. Nachtrag.
-[^hEinführungsgesetzzu_9-10]: Geändert durch XII. Nachtrag.
-[^hEinführungsgesetzzu_9-11]: Eingefügt durch XIII. Nachtrag.
+[^hEinführungsgesetzzu_9-10]: Geändert durch XXVI. Nachtrag.
+[^hEinführungsgesetzzu_9-11]: Geändert durch XXVI. Nachtrag.
 [^hEinführungsgesetzzu_9-12]: Geändert durch XII. Nachtrag.
 [^hEinführungsgesetzzu_9-13]: Geändert durch XII. Nachtrag.
 [^hEinführungsgesetzzu_9-14]: Geändert durch XII. Nachtrag.
@@ -1513,7 +1534,7 @@ vom 27. Juni 1972[^hVerordnungüberdas-1]
 
 vom 7. Oktober 1983[^hBundesgesetzüberde_4-1],[^hBundesgesetzüberde_4-2]
 
-50.67 <sup>457</sup> Einsichtgabe oder Auskunft über Umwelt informationen (Art. 10 g) … 100.— bis 2000.—
+50.67 <sup>471</sup> Einsichtgabe oder Auskunft über Umwelt informationen (Art. 10 g) … 100.— bis 2000.—
 
 [^hBundesgesetzüberde_4-1]: SR 814.01.
 [^hBundesgesetzüberde_4-2]: Eingefügt durch XI. Nachtrag.
@@ -1623,7 +1644,7 @@ vom 30. März 1911[^hSchweizerischesObli_4-1] (Art. 1034 bis 1041)
 
 ### Schweizerisches Zivilgesetzbuch
 
-vom 10.Dezember 1907 (ZGB; Art.885 Abs.3)[^hSchweizerischesZivi_5-1]
+vom 10. Dezember 1907 (ZGB; Art. 885 Abs. 3)[^hSchweizerischesZivi_5-1]
 
 [^hSchweizerischesZivi_5-1]: SR 210.
 
@@ -1648,7 +1669,7 @@ vom 30. Oktober 1917 (VvV)[^hVerordnungbetreffen-1]
 
 (Zuständigkeit nach Art. 15 des Einführungsgeset zes zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911 / 22. Juni 1942[^hNrIIIBeurkundung-1]
 
-[^hNrIIIBeurkundung-1]: sGS 911.11.
+[^hNrIIIBeurkundung-1]: sGS 911.1.
 
 ### Schweizerisches Zivilgesetzbuch
 
@@ -1656,71 +1677,76 @@ vom 10. Dezember 1907 (ZGB)[^hSchweizerischesZivi_6-1]
 
 60.01[^hSchweizerischesZivi_6-2] Errichtung einer Stiftung (Art. 81 ZGB):
 
-Ansätze je nach dem Stiftungskapital wie bei Nr. 60.13 … 300.— bis 3500.— 60.02.01– 03[^hSchweizerischesZivi_6-3] Abschluss, Abänderung oder Aufhebung eines Ehevertrages (Art. 184 ZGB) oder eines Ver mögensvertrages (Art. 25 PartG[^hSchweizerischesZivi_6-4]:
+Ansätze je nach dem Stiftungskapital wie bei Nr. 60.13 … 330.— bis 3850.— 60.02.01– 03[^hSchweizerischesZivi_6-3] Abschluss, Abänderung oder Aufhebung eines Ehevertrages (Art. 184 ZGB) oder eines Ver mögensvertrages (Art. 25 PartG[^hSchweizerischesZivi_6-4]:
 
-60.02.01 mit Wechsel des Güterstandes … 200.— bis 1000.— 60.02.02 ohne Wechsel des Güterstandes … 200.— bis 1000.— 60.02.03[^hSchweizerischesZivi_6-5] in Verbindung mit Erbvertrag und / oder Beurkundung nach Art. 49 Abs. 1 der Ein führungsverordnung zum ZGB … 300.— bis 1500.— 60.03 Errichtung des Inventars über Vermögens werte (Art. 195 a ZGB und Art. 197 alt ZGB) 100.— bis 700.— 60.05 BegründungeinerGemeinderschaft(Art. 337 ZGB) … 130.— bis 1300.— 60.05.01[^hSchweizerischesZivi_6-6] Vorsorgeauftrag (Art. 361 Abs. 1 ZGB) … 100.— bis 1000.— 60.06 Öffentliche letztwillige Verfügung (Art. 499 ZGB) … 100.— bis 1000.— 60.07 Erbvertrag (Art. 512 ZGB) … 300.— bis 1500.— 60.08 Aufnahme des Inventars über Gegenstände der Nutzniessung (Art. 763 ZGB) … 90.— bis 920.— Nr. Schweizerisches Obligationenrecht vom 30. März 1911[^hSchweizerischesZivi_6-7]
+60.02.01[^hSchweizerischesZivi_6-5] mit Wechsel des Güterstandes … 220.— bis 1100.— 60.02.02[^hSchweizerischesZivi_6-6] ohne Wechsel des Güterstandes … 220.— bis 1100.— 60.02.03[^hSchweizerischesZivi_6-7] in Verbindung mit Erbvertrag und / oder Beurkundung nach Art. 49 Abs. 1 der Ein führungsverordnung zum ZGB … 330.— bis 1650.— 60.03 Errichtung des Inventars über Vermögens werte (Art. 195 a ZGB und Art. 197 alt ZGB) 100.— bis 700.— 60.05 BegründungeinerGemeinderschaft(Art. 337 ZGB) … 130.— bis 1300.— 60.05.01[^hSchweizerischesZivi_6-8] Vorsorgeauftrag (Art. 361 Abs. 1 ZGB) … 110.— bis 1100.— 60.06 <sup>525</sup> Öffentliche letztwillige Verfügung (Art. 499 ZGB) … 110.— bis 1100.— 60.07[^hSchweizerischesZivi_6-9] Erbvertrag (Art. 512 ZGB) … 330.— bis 1650.— 60.08 Aufnahme des Inventars über Gegenstände der Nutzniessung (Art. 763 ZGB) … 90.— bis 920.— Nr. Schweizerisches Obligationenrecht vom 30. März 1911[^hSchweizerischesZivi_6-10]
 
 **Fr.**
 
 60.09 Ersatz der Unterschrift (Art. 15) … 30.— bis 100.— 60.10 Entkräftung eines Schuldscheines und Til gung der Schuld (Art. 90) … 50.— bis 200.— 60.11 Bürgschaftsverpflichtung einer natürlichen Person (Art. 493 Abs. 2, 5 und 6), je Bürge
 
-<sup>1</sup> /<sup>2</sup> Promille des Haftungsbetrages, im Rah men von … 50.— bis 400.— 60.12 Verpfründungsvertrag (Art. 522 Abs. 1) … 300.— bis 1500.— 60.13–18[^hSchweizerischesZivi_6-8] Aktiengesellschaften und Gesellschaften mit beschränkter Haftung (Art.620 ff. und 772 ff.):
+<sup>1</sup> /<sup>2</sup> Promille des Haftungsbetrages, im Rah men von … 50.— bis 400.— 60.12 Verpfründungsvertrag (Art. 522 Abs. 1) … 300.— bis 1500.— 60.13–18[^hSchweizerischesZivi_6-11] Aktiengesellschaften und Gesellschaften mit beschränkter Haftung (Art.620 ff. und 772 ff.):
 
-60.13[^hSchweizerischesZivi_6-9] Errichtung von Aktien , Partizipations oder Stammkapital:
+60.13[^hSchweizerischesZivi_6-12] Errichtung von Aktien , Partizipations oder Stammkapital:
 
-für die ersten Fr. 100 000.– … 350.—
+für die ersten Fr. 100 000.– … 385.—
 
 für je weitere volle Fr. 100 000.– … 80.—
 
 höchstens … 15000.—
 
-60.14[^hSchweizerischesZivi_6-10] Kapitalerhöhung, Fusion oder Kapitalherab
+60.14[^hSchweizerischesZivi_6-13] Kapitalerhöhung, Fusion oder Kapitalherab
 
-setzung, mindestens … 350.—
+setzung, mindestens … 385.—
 
 Im Übrigen wird die Gebühr gemäss Nr. 60.13 nach dem Betrag der Erhöhung oder Herabsetzung bemessen. Findet bei der Kapitalherabsetzung keine Rückzahlung statt, so wird die Gebühr um die Hälfte ermässigt.
 
-60.15[^hSchweizerischesZivi_6-11] Statutenänderungen, die das Kapital nicht berühren … 200.— bis 2000.— 60.16[^hSchweizerischesZivi_6-12] Stammeinlage Übertragung … 160.— bis 3200.— 60.17[^hSchweizerischesZivi_6-13] Auflösungsbeschluss … 200.— bis 2000.— 60.17.01[^hSchweizerischesZivi_6-14] Zuschlag zu Nrn. 60.13 bis 60.17, wenn die General oder Gesellschaftsversammlung nicht am Sitz der Urkundsperson stattfindet,
+60.15[^hSchweizerischesZivi_6-14] Statutenänderungen, die das Kapital nicht berühren … 220.— bis 2200.— 60.16[^hSchweizerischesZivi_6-15] … 60.17[^hSchweizerischesZivi_6-16] Auflösungsbeschluss … 220.— bis 2200.— 60.17.01[^hSchweizerischesZivi_6-17] Zuschlag zu Nrn. 60.13 bis 60.17, wenn die General oder Gesellschaftsversammlung nicht am Sitz der Urkundsperson stattfindet,
 
 nach Aufwand, je Stunde … 150.—
 
 höchstens … 1000.—
 
-60.18[^hSchweizerischesZivi_6-15] Beschlüsse einer Gläubigerversammlung bei Anleihensobligationen (Art. 6 der eidgenös sischen Verordnung über die Gläubigerge meinschaft bei Anleihensobligationen vom 9. Dezember 1949[^hSchweizerischesZivi_6-16] … 300.— bis 3000.— …[^hSchweizerischesZivi_6-17]
+60.18[^hSchweizerischesZivi_6-18] Beschlüsse einer Gläubigerversammlung bei Anleihensobligationen (Art. 6 der eidgenös sischen Verordnung über die Gläubigerge meinschaft bei Anleihensobligationen vom 9. Dezember 1949[^hSchweizerischesZivi_6-19] … 330.— bis 3300.—
+
+…[^hSchweizerischesZivi_6-20]
 
 [^hSchweizerischesZivi_6-1]: SR 210.
-[^hSchweizerischesZivi_6-2]: Fassung gemäss II. Nachtrag.
+[^hSchweizerischesZivi_6-2]: Geändert durch XXVI. Nachtrag.
 [^hSchweizerischesZivi_6-3]: Geändert durch X. Nachtrag zur EV zum Schweizerischen Zivilgesetzbuch.
 [^hSchweizerischesZivi_6-4]: Bundesgesetz über die eingetragene Partnerschaft gleichgeschlechtlicher Paare, SR 211.231.
-[^hSchweizerischesZivi_6-5]: Fassung gemäss II. Nachtrag.
-[^hSchweizerischesZivi_6-6]: Eingefügt durch VESB.
-[^hSchweizerischesZivi_6-7]: SR 220.
-[^hSchweizerischesZivi_6-8]: Fassung gemäss II. Nachtrag.
-[^hSchweizerischesZivi_6-9]: Fassung gemäss II. Nachtrag.
-[^hSchweizerischesZivi_6-10]: Fassung gemäss II. Nachtrag.
+[^hSchweizerischesZivi_6-5]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-6]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-7]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-8]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-9]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-10]: SR 220.
 [^hSchweizerischesZivi_6-11]: Fassung gemäss II. Nachtrag.
-[^hSchweizerischesZivi_6-12]: Fassung gemäss II. Nachtrag.
-[^hSchweizerischesZivi_6-13]: Fassung gemäss II. Nachtrag.
-[^hSchweizerischesZivi_6-14]: Eingefügt durch II. Nachtrag.
-[^hSchweizerischesZivi_6-15]: Fassung gemäss II. Nachtrag.
-[^hSchweizerischesZivi_6-16]: SR 221.552.1 (aufgehoben).
-[^hSchweizerischesZivi_6-17]: Titel und Nr. 60.19 aufgehoben durch XXI. Nachtrag.
+[^hSchweizerischesZivi_6-12]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-13]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-14]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-15]: Aufgehoben durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-16]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-17]: Eingefügt durch II. Nachtrag.
+[^hSchweizerischesZivi_6-18]: Geändert durch XXVI. Nachtrag.
+[^hSchweizerischesZivi_6-19]: SR 221.522.1.
+[^hSchweizerischesZivi_6-20]: Titel und Nr. 60.19 aufgehoben durch XXI. Nachtrag.
 
 ### B. Beglaubigungen
 
 ### Verordnung über die öffentliche Beurkundung und die Beglaubigung
 
-vom 2. November 2005[^hVerordnungüberdie_3-1],[^hVerordnungüberdie_3-2] (Zuständigkeit nach Art. 35ter des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911 / 22. Juni 1942[^hVerordnungüberdie_3-3]
+vom 2. November 2005[^hVerordnungüberdie_4-1],[^hVerordnungüberdie_4-2] (Zuständigkeit nach Art. 35ter des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911 / 22. Juni 1942[^hVerordnungüberdie_4-3]
 
-70.01[^hVerordnungüberdie_3-4] Beglaubigung einer Unterschrift (Art.3 und 4) 15.— bis 50.— 70.03 Entgegennahme einer Legitimationsermäch
+70.01[^hVerordnungüberdie_4-4] Beglaubigung einer Unterschrift (Art.3 und 4) 15.— bis 50.— 70.03 Entgegennahme einer Legitimationsermäch
 
 tigung zur Aufbewahrung (Art. 6) … 30.—
 
-70.04[^hVerordnungüberdie_3-5] Beglaubigung einer Abschrift oder Kopie, je Dokument … 5.— bis 10.—
+70.04[^hVerordnungüberdie_4-5] Beglaubigung einer Abschrift oder Kopie, je Dokument … 5.— bis 10.—
 
 wenigstens je Gebührenerhebung … 10.—
 
-Beglaubigungen durch die Staatskanzlei[^hVerordnungüberdie_3-6]
+Beglaubigungen durch die Staatskanzlei[^hVerordnungüberdie_4-6]
 
 70.05.01 / 02 Beglaubigung der Unterschrift von Gerichts oder Verwaltungsbehörden:
 
@@ -1728,31 +1754,33 @@ Beglaubigungen durch die Staatskanzlei[^hVerordnungüberdie_3-6]
 
 - 1\. Aufgehoben werden:
 
-- a) der Gebührentarif für das Amt für Wirtschaft vom 15. Juni 1976[^hVerordnungüberdie_3-7];
+- a) der Gebührentarif für das Amt für Wirtschaft vom 15. Juni 1976[^hVerordnungüberdie_4-7];
 
-- b) der Gebührentarif für die Staats und Gemeindeverwaltung vom 4. Juli 1995[^hVerordnungüberdie_3-8].
+- b) der Gebührentarif für die Staats und Gemeindeverwaltung vom 4. Juli 1995[^hVerordnungüberdie_4-8].
 
 - 2\. Dieser Gebührentarif wird ab 1. Juli 2000 angewendet.
 
-[^hVerordnungüberdie_3-1]: sGS 151.51.
-[^hVerordnungüberdie_3-2]: Geändert durch Nachtrag zur V über die Raumnutzung im Regierungsgebäude.
-[^hVerordnungüberdie_3-3]: sGS 911.1.
-[^hVerordnungüberdie_3-4]: Fassung gemäss II. Nachtrag.
-[^hVerordnungüberdie_3-5]: Fassung gemäss II. Nachtrag.
-[^hVerordnungüberdie_3-6]: Geändert durch Nachtrag zur V über die Raumnutzung im Regierungsgebäude.
-[^hVerordnungüberdie_3-7]: nGS 34–73 (sGS 511.7).
-[^hVerordnungüberdie_3-8]: nGS 33–79 (sGS 821.5).
+[^hVerordnungüberdie_4-1]: sGS 151.51.
+[^hVerordnungüberdie_4-2]: Geändert durch Nachtrag zur V über die Raumnutzung im Regierungsgebäude.
+[^hVerordnungüberdie_4-3]: sGS 911.1.
+[^hVerordnungüberdie_4-4]: Fassung gemäss II. Nachtrag.
+[^hVerordnungüberdie_4-5]: Fassung gemäss II. Nachtrag.
+[^hVerordnungüberdie_4-6]: Geändert durch Nachtrag zur V über die Raumnutzung im Regierungsgebäude.
+[^hVerordnungüberdie_4-7]: nGS 34–73 (sGS 511.7).
+[^hVerordnungüberdie_4-8]: nGS 33–79 (sGS 821.5).
 
 ## Weitere Fussnoten
 
-- [4] (Fortsetzung …) Raumnutzung im Regierungsgebäude vom 7. Januar 2014, nGS 2014 025 (sGS 141.81); Abschnitt II Ziff. 3 des VIII. Nachtrags zum GeschR vom 29. April 2014, nGS 2014 045 (sGS 141.3); XI. Nachtrag vom 17. Juni 2014, nGS 2014 056; Abschnitt II Ziff. 2 der Jagdverordnung vom 19. Mai 2015, nGS 2015 064 (sGS 853.11); XII. Nachtrag vom 27. Juni 2017, nGS 2017 051; XIII. Nachtrag vom 16. Januar 2018, nGS 2018 026; XIV. Nachtrag vom 19. Juni 2018, nGS 2018 056; XV. Nachtrag vom 3. Juli 2018, nGS 2018 074; XVI. Nachtrag vom 9. Oktober 2018, nGS 2018 075; XVIII. Nachtrag vom 18. Juni 2019, nGS 2019 049; XIX. Nachtrag vom 3. Dezem ber 2019, nGS 2019 098; XX. Nachtrag vom 4. Februar 2020, nGS 2020 003; XXI. Nachtrag vom 25. August 2020, nGS 2020 068; Abschnitt II der Verordnung über Kurse und Prüfungen in Le bensmittelhygiene und Suchtprävention vom 13. Oktober 2020, nGS 2020 083 (sGS 533.12); XXII. Nachtrag vom 13. Oktober 2020, nGS 2020 085; Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3); XXIII. Nachtrag vom 21. November 2023, nGS 2023 071; XXIV. Nach trag vom 21. Mai 2024, nGS 2024 017; XXV. Nachtrag vom 17. Juni 2025, nGS 2025 020.
-- [107] Titel und Nr. 22.24 aufgehoben durch XXIII. Nachtrag.
-- [125] Berichtigung vom April 2004.
-- [149] sGS 277.11.
-- [150] Eingefügt durch XIV. Nachtrag.
-- [163] sGS 277.12.
-- [164] Eingefügt durch XVIII. Nachtrag.
-- [235] Titel und Nr. 26.21.13 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
-- [250] Eingefügt durch XI. Nachtrag.
-- [427] Geändert durch XII. Nachtrag.
-- [457] Eingefügt durch XI. Nachtrag.
+- [4] (Fortsetzung …) Raumnutzung im Regierungsgebäude vom 7. Januar 2014, nGS 2014 025 (sGS 141.81); Abschnitt II Ziff. 3 des VIII. Nachtrags zum GeschR vom 29. April 2014, nGS 2014 045 (sGS 141.3); XI. Nachtrag vom 17. Juni 2014, nGS 2014 056; Abschnitt II Ziff. 2 der Jagdverordnung vom 19. Mai 2015, nGS 2015 064 (sGS 853.11); XII. Nachtrag vom 27. Juni 2017, nGS 2017 051; XIII. Nachtrag vom 16. Januar 2018, nGS 2018 026; XIV. Nachtrag vom 19. Juni 2018, nGS 2018 056; XV. Nachtrag vom 3. Juli 2018, nGS 2018 074; XVI. Nachtrag vom 9. Oktober 2018, nGS 2018 075; XVIII. Nachtrag vom 18. Juni 2019, nGS 2019 049; XIX. Nachtrag vom 3. Dezem ber 2019, nGS 2019 098; XX. Nachtrag vom 4. Februar 2020, nGS 2020 003; XXI. Nachtrag vom 25. August 2020, nGS 2020 068; Abschnitt II der Verordnung über Kurse und Prüfungen in Le bensmittelhygiene und Suchtprävention vom 13. Oktober 2020, nGS 2020 083 (sGS 533.12); XXII. Nachtrag vom 13. Oktober 2020, nGS 2020 085; Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3); XXIII. Nachtrag vom 21. November 2023, nGS 2023 071; XXIV. Nach trag vom 21. Mai 2024, nGS 2024 017; XXV. Nachtrag vom 17. Juni 2025, nGS 2025 020; XXVI. Nachtrag vom 9. Dezember 2025, nGS 2025 062.
+- [109] Titel und Nr. 22.24 aufgehoben durch XXIII. Nachtrag.
+- [127] Berichtigung vom April 2004.
+- [156] sGS 277.11.
+- [157] Eingefügt durch XIV. Nachtrag.
+- [170] sGS 277.12.
+- [171] Eingefügt durch XVIII. Nachtrag.
+- [244] Titel und Nr. 26.21.13 aufgehoben durch V zum EG zur eidg Umweltschutzgesetzgebung.
+- [259] Eingefügt durch XI. Nachtrag.
+- [404] Geändert durch BRV.
+- [441] Geändert durch XII. Nachtrag.
+- [471] Eingefügt durch XI. Nachtrag.
+- [525] Geändert durch XXVI. Nachtrag.
