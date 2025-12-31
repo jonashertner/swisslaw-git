@@ -4,13 +4,12 @@ number: "640.110"
 title: Verordnung zum Zivilschutzgesetz
 short: VOzZSG
 language: de
-version: 2016-01-01
-valid_until: 2025-12-31
-version_adopted: 2015-12-01
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/640.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2618/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3852/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2618/pdf_file"
 
 (VOzZSG)
 
-Vom 01.12.2015 (Stand 01.01.2016)
+Vom 01.12.2015 (Stand 01.01.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 18 des Zivilschutzgesetzes[^ingress-2]
 
@@ -50,7 +49,7 @@ von der Regierung erlassen am 1. Dezember 2015
 
 **Amt**
 
-<sup>1</sup> Zuständige Dienststelle ist das Amt für Militär und Zivilschutz (Amt).
+<sup>1</sup> Zuständige Dienststelle ist das Amt für Bevölkerungsschutz und Militär (Amt).
 
 <sup>2</sup> Es vollzieht die Erlasse des Zivilschutzes und trifft die notwendigen Massnahmen und Verfügungen, sofern diese Aufgaben nicht ausdrücklich der Regierung, dem Departement, anderen Dienststellen oder den Gemeinden übertragen sind.
 
@@ -78,9 +77,9 @@ von der Regierung erlassen am 1. Dezember 2015
 
 **Form der Aufgebote**
 
-<sup>1</sup> Die Dienstvoranzeige und die Aufgebote zu den ordentlichen Ausbildungsdiensten erfolgen schriftlich.
+<sup>1</sup> Die Dienstvoranzeige und die Aufgebote zu den ordentlichen Ausbildungsdiensten erfolgen postalisch oder elektronisch.
 
-<sup>2</sup> Bei besonderen und ausserordentlichen Lagen sowie zu Instandstellungsarbeiten werden die Schutzdienstpflichtigen telefonisch, mit elektronischer Post und schriftlich aufgeboten.
+<sup>2</sup> Bei besonderen und ausserordentlichen Lagen sowie zu Instandstellungsarbeiten werden die Schutzdienstpflichtigen telefonisch, postalisch oder elektronisch aufgeboten.
 
 #### Art. 7
 
@@ -144,7 +143,9 @@ von der Regierung erlassen am 1. Dezember 2015
 
 **Höhe**
 
-<sup>1</sup> Die Höhe der pro Schutzplatz zu leistenden Ersatzbeiträge wird im Anhang 1 geregelt.
+<sup>1</sup> Die Höhe der pro Schutzplatz zu leistenden Ersatzbeiträge entspricht dem in Artikel 75 Absatz 2 der Verordnung über den Zivilschutz[^14-1] festgelegten Betrag.
+
+[^14-1]: SR [520.11](https://db.clex.ch/link/Bund/520.11/de)
 
 ## 5. Gebühren
 
@@ -153,5 +154,34 @@ von der Regierung erlassen am 1. Dezember 2015
 **Ansätze**
 
 <sup>1</sup> Die Gebühren für die Leistungen des Amts werden im Anhang 2 geregelt.
+
+## A2 Anhang 2: Gebühren für die Leistungen des Amts (Art. 15)
+
+#### Art. A2-1
+
+**Gebühren für den Vollzug des Pflichtschutzraumbaus**
+
+<sup>1</sup> Für den kantonalen Vollzug des Pflichtschutzraumbaus gemäss dem Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz und dem kantonalen Zivilschutzgesetz werden folgende Gebühren erhoben:
+
+- a) Für die Prüfung von Schutzraumbauprojekten:
+  - 1\. bis 13 Schutzplätze: — Fr. 250.00
+  - 2\. 14–30 Schutzplätze: — Fr. 350.00
+  - 3\. 31–50 Schutzplätze: — Fr. 400.00
+  - 4\. 51–100 Schutzplätze: — Fr. 550.00
+  - 5\. 101–200 Schutzplätze: — Fr. 750.00
+  - 6\. über 200 Schutzplätze: Verrechnung des Aufwandes, mindestens aber Fr. 1'000.00
+- b) Für die Prüfung von Änderungen von Schutzraumprojekten: Verrechnung nach Aufwand zum Ansatz von Fr. 100.00 pro Stunde, höchstens jedoch die Ansätze gemäss litera a
+- c) Für den Erlass einer Verfügung betreffend Schutzraumbaupflicht oder Leistung von Ersatzbeiträgen: — Fr. 100.00
+- d) Für die Prüfung und Genehmigung eines Ersatzbeitragsgesuches: — Fr. 60.00
+- e) Für die periodischen Schutzraumkontrollen und die Nachkontrollen:
+  - 1\. Schutzräume ohne Schleuse: — Fr. 120.00
+  - 2\. Schutzräume mit Schleuse: — Fr. 160.00
+  - 3\. Zuschlag für die Nachkontrolle: — Fr. 60.00
+
+#### Art. A2-2
+
+**Gebühren für weitere Verrichtungen**
+
+<sup>1</sup> Für Verrichtungen, die in den Gebühren für den Vollzug des Pflichtschutzraumbaus nicht geregelt sind, wird der Aufwand zu einem Ansatz von Fr. 100.00 pro Stunde in Rechnung gestellt.
 
 2015-040
