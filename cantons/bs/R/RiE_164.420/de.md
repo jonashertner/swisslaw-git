@@ -3,13 +3,12 @@ canton: BS
 number: RiE 164.420
 title: Spesenreglement der Gemeindeverwaltung Riehen
 language: de
-version: 2020-05-01
-valid_until: 2025-12-31
-version_adopted: 2020-03-17
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2007-12-04
 in_force: 2007-12-16
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20164.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4888/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6711/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4888/pdf_file"
 
 Spesenreglement | Riehen: Einwohnergemeinde[^t-1]
 
-Vom 4. Dezember 2007 (Stand 1. Mai 2020)
+Vom 4. Dezember 2007 (Stand 1. Januar 2026)
 
 Der Gemeinderat Riehen
 
@@ -74,7 +73,7 @@ erlässt gestützt auf § 49 Abs. 2 lit. k der Personalordnung vom 24. April 200
 
 <sup>3</sup> Die Fahrtkosten werden pro Kalenderjahr bis zur Summe des doppelten Betrags eines Jahres-Halbtax-Abonnements voll vergütet. Danach erfolgt die Vergütung zum 1/2 Tarif. Vorbehalten bleibt § 4a.
 
-<sup>4</sup> Für lokale Dienstfahrten mit Tram oder Bus wird den Mitarbeiterinnen und Mitarbeitern eine entsprechende Fahrkarte zur Verfügung gestellt.
+<sup>4</sup> …
 
 #### § 4a
 
@@ -156,11 +155,7 @@ erlässt gestützt auf § 49 Abs. 2 lit. k der Personalordnung vom 24. April 200
 
 #### § 10a
 
-**Kosten für privates Handy**
-
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, welche keinen Anspruch auf ein Geschäftshandy haben und welche zwecks geschäftlicher Erreichbarkeit ihr privates Handy zur Verfügung stellen, wird mit Bewilligung der oder des Vorgesetzten eine monatliche Pauschale von CHF 10 ausgerichtet.
-
-<sup>2</sup> Allfällige Schadenersatzansprüche bei Diebstahl, Verlust, Beschädigung oder Defekt des Geräts sowie dienstlich verursachte Zusatzkosten, insbesondere Roaminggebühren, Premiumdienste und Apps, sind mit dieser Pauschale bereits vollständig abgegolten.
+**…**
 
 ## V. Administrative Bestimmungen
 
@@ -176,11 +171,11 @@ erlässt gestützt auf § 49 Abs. 2 lit. k der Personalordnung vom 24. April 200
 
 **Spesenabrechnung**
 
-<sup>1</sup> Die Spesenabrechnungen sind nach Beendigung des Spesenereignisses, bei wiederkehrenden Ausgaben mindestens jedoch halbjährlich zu erstellen und zusammen mit den entsprechenden Belegen und dem Spesenformular der oder dem zuständigen Vorgesetzten zum Visum vorzulegen. Bei Spesen im Zusammenhang mit Weiterbildungen ist zusätzlich das Visum der Leitung des Fachbereichs Personal notwendig.
+<sup>1</sup> Die Spesenabrechnungen und Spesenbelege sind nach Beendigung des Spesenereignisses bis zum von der Verwaltungsleiterin oder dem Verwaltungsleiter festgelegten Stichtag, bei wiederkehrenden Ausgaben mindestens jedoch halbjährlich im digitalen Personalinformationssystem zu erfassen. Die Vorgesetzten kontrollieren und visieren diese bis spätestens zum dafür festgelegten Stichtag. Bei Spesen im Zusammenhang mit Weiterbildungen ist zusätzlich das Visum der Leitung des Stabs Personal notwendig.
 
-<sup>2</sup> Die Rückerstattung erfolgt nach der Einreichung des visierten Spesenformulars und der Belege im Rahmen der Lohnauszahlungen. Die visierten Spesenformulare sind zusammen mit den notwendigen Belegen jeweils bis spätestens zum 14. des laufenden Monats der Lohnbuchhaltung einzureichen.
+<sup>2</sup> Die Rückerstattung erfolgt im Rahmen der Lohnauszahlungen.
 
-<sup>3</sup> Als Belege gelten die Originaldokumente wie Quittungen, quittierte Rechnungen, Kassenbons, Rechnungsbelege zu den Kreditkartenabrechnungen oder Fahrkostenbelege. Bei elektronischen Tickets gelten die Ausdrucke zum Ticketbezug als entsprechende Belege.
+<sup>3</sup> Als Belege gelten insbesondere Quittungen, quittierte Rechnungen, Kassenbons, Rechnungsbelege zu den Kreditkartenabrechnungen, Fahrkostenbelege oder Tickets, die den Nachweis für den Spesenfall erbringen.
 
 ## VI. Schlussbestimmungen
 
