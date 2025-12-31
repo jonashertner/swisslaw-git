@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protocole de 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires, du 17 février 1978 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: fr
-version: 2025-08-01
+version: 2026-01-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20250801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 décembre 1987
 
 Entré en vigueur pour la Suisse le 15 mars 1988
 
-(État le 1<sup>er</sup> août 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Art. 3 let. a de l’AF du 9 mars 1987 ([RO 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -59,7 +59,7 @@ Les Parties au présent Protocole s’engagent à donner effet aux dispositions:
 
 <sup>3.</sup> Toute référence au présent Protocole constitue en même temps une référence à son Annexe.
 
-[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 31, 4010 Bâle.
+[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
 #### Art. II
 
@@ -142,7 +142,7 @@ Le Dépositaire:
 
 <sup>3.</sup> Dès l’entrée en vigueur du présent Protocole, le Dépositaire en transmet une copie certifiée conforme au Secrétariat de l’Organisation des Nations Unies en vue de son enregistrement et de sa publication conformément à l’Article 102 de la Charte des Nations Unies[^VIII-1].
 
-[^VIII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VIII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. IX
 
@@ -178,8 +178,8 @@ sont convenues de ce qui suit:
 
 <sup>2.</sup> Sauf disposition expresse contraire, toute référence à la présente Convention constitue en même temps une référence à ses Protocoles et aux Annexes.
 
-[^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/eli/cc/1966/1200_1242_1232)
-[^annexu1-1-1]: Ces annexes et leurs amendements ne sont pas publiés au RO ([RO 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866); [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366); [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077); [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937); [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943); [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436); [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 31, 4010 Bâle.
+[^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3521)
+[^annexu1-1-1]: Ces annexes et leurs amendements ne sont pas publiés au RO ([RO 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866); [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366); [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077); [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937); [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943); [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436); [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
 #### Art. 2
 
@@ -203,7 +203,7 @@ Aux fins de la présente Convention, sauf disposition expresse contraire:
 - 6\. «Événement» désigne un incident qui entraîne ou est susceptible d’entraîner le rejet à la mer d’une substance nuisible ou d’un effluent contenant une telle substance.
 - 7\. «Organisation» désigne l’Organisation[^annexu1-2-2] intergouvernementale consultative de la navigation maritime.
 
-[^annexu1-2-1]: [RS 0.814.287](https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335)
+[^annexu1-2-1]: [RS 0.814.287](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3518)
 [^annexu1-2-2]: Depuis le 22 mai 1982, l’Organisation porte le nom d’Organisation Maritime Internationale.
 
 #### Art. 3
@@ -462,7 +462,7 @@ Les Parties à la Convention doivent, en consultation avec l’Organisation et d
 
 <sup>2.</sup> Dès l’entrée en vigueur de la présente Convention, son texte est transmis par le Secrétaire général de l’Organisation au Secrétaire général de l’Organisation des Nations Unies pour y être enregistré et publié conformément à l’Article 102 de la Charte des Nations Unies[^annexu1-19-1].
 
-[^annexu1-19-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^annexu1-19-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 20
 
@@ -480,68 +480,13 @@ Fait à Londres ce deux novembre mil neuf cent soixante‑treize.
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Nouvelle teneur selon Amendements adoptés le 5 déc. 1985 ([RO 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)).
+[^annexu1-lvlu2-1]: Nouvelle teneur selon Am. adoptés le 5 déc. 1985 ([RO 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)). Mise à jour par les Am. adoptés le 22 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 847](https://fedlex.data.admin.ch/eli/oc/2025/847)).
 
-**Dispositions concernant l’envoi de rapports sur les événements entraînant ou pouvant entraîner le rejet de substances nuisibles**
+**Dispositions concernant l’envoi de rapports sur les événements entraînant ou pouvant entraîner le rejet de substances nuisibles**[^annexu1-lvlu2-2]
 
 (en application de l’article 8 de la Convention)
 
-#### Art. I
-
-**Obligation d’établir un rapport**
-
-<sup>1.</sup> Le capitaine de tout navire auquel est survenu un des événements visés à l’article II du présent Protocole, ou toute autre personne ayant charge du navire, fait rapport sans retard sur les circonstances de l’événement, conformément aux dispositions du présent Protocole, avec tous les détails possibles.
-
-<sup>2.</sup> En cas d’abandon du navire mentionné au paragraphe 1) du présent article, ou lorsque le rapport de ce navire est incomplet ou impossible à obtenir, le propriétaire, l’affréteur, l’administrateur, l’exploitant du navire, ou leurs agents, assument, dans toute la mesure du possible, les obligations qui incombent au capitaine aux termes des dispositions du présent Protocole.
-
-#### Art. II
-
-**Quand faut‑il établir des rapports?**
-
-<sup>1.</sup>
-
-Un rapport doit être établi chaque fois qu’un événement entraîne:
-
-- a) le rejet ou la probabilité de rejet d’hydrocarbures ou de substances liquides nocives transportées en vrac, par suite d’une avarie du navire ou de son équipement ou en vue d’assurer la sécurité du navire ou de sauvegarder des vies en mer, ou
-- b) le rejet ou la probabilité de rejet de substances nuisibles en colis, y compris dans des conteneurs, des citernes mobiles, des camions, des wagons ou des barges de navire, ou
-- c) le rejet au cours de l’exploitation du navire d’hydrocarbures ou de substances liquides nocives dépassant la quantité ou le taux instantané autorisés aux termes de la présente Convention.
-
-<sup>2.</sup> Ou
-
-Aux fins du présent Protocole:
-
-- a) Les «hydrocarbures» visés à l’alinéa 1 a) du présent article désignent les hydrocarbures tels que définis au paragraphe 1 de la règle 1 de l’Annexe I de la Convention.
-- b) Les «substances liquides nocives» visées à l’alinéa 1 a) du présent article désignent les substances liquides nocives telles que définies au paragraphe 6 de la règle 1 de l’Annexe II de la Convention.
-
-- c) Les «substances nuisibles» en colis visées à l’alinéa 1 b) du présent article désignent les substances identifiées comme polluants marins dans le Code maritime international des marchandises dangereuses.
-
-#### Art. III
-
-**Nature du rapport**
-
-Les rapports contiennent en tout état de cause les renseignements suivants:
-
-- a) identité des navires concernés;
-- b) heure, nature et lieu de l’événement;
-- c) quantité et type des substances nuisibles concernées;
-- d) mesures d’assistance et de sauvetage.
-
-#### Art. IV
-
-**Rapport complémentaire**
-
-Toute personne qui est tenue, conformément aux dispositions du présent Protocole, d’envoyer un rapport doit, lorsque cela est possible:
-
-- a) compléter le rapport initial, si cela est nécessaire, et communiquer des renseignements sur les faits nouveaux, et
-- b) satisfaire dans toute la mesure du possible aux demandes de renseignements complémentaires émanant des États touchés par l’événement.
-
-#### Art. V
-
-**Procédures de notification**
-
-<sup>1.</sup> Il est fait rapport à l’État côtier le plus proche par les voies de télécommunications les plus rapides dont on dispose et avec le plus haut degré de priorité possible.
-
-<sup>2.</sup> Aux fins de l’application des dispositions du présent Protocole, les Parties à la présente Convention émettent ou font émettre des règles ou des instructions sur les procédures à suivre lorsqu’il est fait rapport sur des événements entraînant ou pouvant entraîner le rejet de substances nuisibles, en se fondant sur les directives élaborées par l’Organisation.
+[^annexu1-lvlu2-2]: Le texte de ce protocole n’est pas publié au RO. Il peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). ou auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
 ## Protocole II
 
@@ -789,7 +734,7 @@ Champ d’application le 20 novembre 2024[^t-3]
 <tr><td>Vanuatu</td><td>13 avril</td><td>1989 A</td><td>13 juillet</td><td>1989</td></tr>
 <tr><td>Venezuela</td><td>29 juillet</td><td>1994 A</td><td>29 octobre</td><td>1994</td></tr>
 <tr><td>Vietnam</td><td>29 mai</td><td>1991 A</td><td>29 août</td><td>1991</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Ces informations ainsi que celles relatives à l’acceptation par les États parties des annexes facultatives I–VI peuvent être consultées en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/fr](https://www.imo.org/fr) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book ou obtenues à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Ces informations ainsi que celles relatives à l’acceptation par les États parties des annexes facultatives I–VI peuvent être consultées en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/fr](https://www.imo.org/fr) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book ou obtenues à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
 [^t-3]: [RO 2024 689](https://fedlex.data.admin.ch/eli/oc/2024/689). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

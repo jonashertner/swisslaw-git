@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protokoll von 1978 zu den Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe, vom 17. Februar 1978 (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: de
-version: 2025-08-01
+version: 2026-01-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20250801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1988** 1652; BBl **1986** II 717
 
 Abgeschlossen in London am 17. Februar 1978 Von der Bundesversammlung genehmigt am 9. März 1987[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 15. März 1988
 
-(Stand am 1. August 2025)
+(Stand am 1. Januar 2026)
 
 [^t-1]: Art. 3 Bst. a des BB vom 17. Feb. 1978 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240))
 
@@ -53,13 +53,13 @@ Die Vertragsparteien dieses Protokolls verpflichten sich, folgenden Bestimmungen
 
 <sup>3.</sup> Jede Bezugnahme auf dieses Protokoll stellt gleichzeitig eine Bezugnahme auf seine Anlage dar.
 
-[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Der französische Text sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden
+[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Der französische Text sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
 #### Art. II
 
 **Durchführung der Anlage II des Übereinkommens**
 
-<sup>1.</sup> Ungeachtet des Artikels 14 Absatz 1 des Übereinkommens kommen die Vertragsparteien dieses Protokolls überein, dass sie drei Jahre lang vom Inkrafttreten des Protokolls an oder während eines von einer Zweidrittelmehrheit der Vertragsparteien des Protokolls im Ausschuss für den Schutz der Meeresumwelt (im folgenden als «Ausschuss» bezeichnet) der Zwischenstaatlichen Beratenden SeeschiffahrtsOrganisation[^II-1] (im folgenden als «Organisation» bezeichnet) beschlossenen längeren Zeitabschnitts nicht durch Anlage II des Übereinkommens gebunden sind.
+<sup>1.</sup> Ungeachtet des Artikels 14 Absatz 1 des Übereinkommens kommen die Vertragsparteien dieses Protokolls überein, dass sie drei Jahre lang vom Inkrafttreten des Protokolls an oder während eines von einer Zweidrittelmehrheit der Vertragsparteien des Protokolls im Ausschuss für den Schutz der Meeresumwelt (im folgenden als «Ausschuss» bezeichnet) der Zwischenstaatlichen Beratenden Seeschiffahrts-Organisation[^II-1] (im folgenden als «Organisation» bezeichnet) beschlossenen längeren Zeitabschnitts nicht durch Anlage II des Übereinkommens gebunden sind.
 
 <sup>2.</sup> Während des in Absatz 1 festgesetzten Zeitabschnitts gehen die Vertragsparteien dieses Protokolls keine Verpflichtung ein und haben sie keinen Anspruch auf Vorrechte aus dem Übereinkommen in Bezug auf mit Anlage II des Übereinkommens zusammenhängende Angelegenheiten; Bezugnahmen auf die Vertragsparteien in dem Übereinkommen schliessen nicht die Vertragsparteien des Protokolls ein, soweit Angelegenheiten im Zusammenhang mit jener Anlage betroffen sind.
 
@@ -133,7 +133,7 @@ Der Depositar:
 
 <sup>3.</sup> Sobald dieses Protokoll in Kraft tritt, übermittelt der Depositar dem Sekretariat der Vereinten Nationen eine beglaubigte Abschrift zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^VIII-1].
 
-[^VIII-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VIII-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. IX
 
@@ -169,7 +169,7 @@ sind wie folgt übereingekommen:
 
 <sup>2.</sup> Soweit nicht ausdrücklich etwas anderes bestimmt ist, bedeutet eine Bezugnahme auf dieses Übereinkommen gleichzeitig eine Bezugnahme auf seine Protokolle und auf die Anlagen.
 
-[^t-2]: [SR 0.814.288.1](https://fedlex.data.admin.ch/eli/cc/1966/1200_1242_1232)
+[^t-2]: [SR 0.814.288.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3521)
 [^annexu1-1-1]: Diese Anlagen und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866); [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366); [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077); [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937); [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943); [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436); [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden.
 
 #### Art. 2
@@ -191,7 +191,7 @@ Im Sinne dieses Übereinkommens haben, soweit nicht ausdrücklich etwas anderes 
 - 6\. Der Ausdruck «Ereignis» bezeichnet einen Vorfall, bei dem ein Schadstoff oder einen solchen Stoff enthaltende Ausflüsse tatsächlich oder wahrscheinlich ins Meer gelangen.
 - 7\. Der Ausdruck «Organisation» bezeichnet die Zwischenstaatliche Beratende Seeschiffahrts‑Organisation[^annexu1-2-2].
 
-[^annexu1-2-1]: [SR 0.814.287](https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335)
+[^annexu1-2-1]: [SR 0.814.287](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3518)
 [^annexu1-2-2]: Die Organisation führt ab 22. Mai 1982 den Namen «Internationale Seeschiffahrts-Organisation».
 
 #### Art. 3
@@ -452,7 +452,7 @@ Die Vertragsparteien fördern in Konsultation mit der Organisation und sonstigen
 
 <sup>2.</sup> Sobald dieses Übereinkommen in Kraft tritt, wird sein Wortlaut vom Generalsekretär der Organisation dem Generalsekretär der Vereinten Nationen zur Registrierung und Veröffentlichung nach Artikel 102 der Satzung der Vereinten Nationen[^annexu1-19-1] übermittelt.
 
-[^annexu1-19-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^annexu1-19-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 20
 
@@ -470,63 +470,13 @@ Geschehen zu London am 2. November 1973.
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Fassung gemäss der Resolution des Ausschusses für den Schutz der Meereswelt der Internationalen Seeschiffahrts‑Organisation vom 5. Dez. 1985 ([AS 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)).
+[^annexu1-lvlu2-1]: Fassung gemäss der am 5. Dez. 1985 angenommenen Resolution ([AS 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)). Bereinigt gemäss der am 22. März 2024 angenommenen Resolution, in Kraft seit 1. Jan. 2026 ([AS 2025 847](https://fedlex.data.admin.ch/eli/oc/2025/847)).
 
-**Bestimmungen über Meldungen von Ereignissen in Verbindung** **mit Schadstoffen**
+**Bestimmungen über Meldungen von Ereignissen in Verbindung** **mit Schadstoffen**[^annexu1-lvlu2-2]
 
 (nach Art. 8 des Übereinkommens)
 
-#### Art. I
-
-**Meldepflicht**
-
-\1) Der Kapitän eines Schiffes, das in ein in Artikel II bezeichnetes Ereignis verwickelt ist, oder die sonstige für das Schiff verantwortliche Person hat die Einzelheiten eines solchen Ereignisses unverzüglich und so ausführlich wie möglich nach Massgabe dieses Protokolls zu melden.
-
-\2) Falls das in Absatz 1 bezeichnete Schiff aufgegeben wird oder falls eine Meldung von einem solchen Schiff unvollständig oder nicht erhältlich ist, hat der Eigentümer, Charterer, Reeder oder Ausrüster des Schiffes oder ihr Beauftragter soweit wie möglich die dem Kapitän nach diesem Protokoll obliegenden Pflichten zu übernehmen.
-
-#### Art. II
-
-**Zu meldende Fälle**
-
-\2) Im Sinne dieses Protokolls
-
-\1) Eine Meldung ist zu machen, wenn ein Ereignis folgendes betrifft:
-
-- a) ein Einleiten oder wahrscheinliches Einleiten von Öl oder als Massengut beförderten schädlichen flüssigen Stoffen infolge einer Beschädigung des Schiffes oder seiner Ausrüstung oder aus Gründen der Schiffssicherheit oder zum Schutz von Menschenleben auf See;
-- b) ein Einleiten oder wahrscheinliches Einleiten von Schadstoffen in verpackter Form, einschliesslich solcher in Containern, ortsbeweglichen Tanks, Strassen‑ und Schienenfahrzeugen und Trägerschiffsleichtern, oder
-- c) ein Einleiten von Öl oder schädlichen flüssigen Stoffen während des Betriebs des Schiffes über die aufgrund dieses Übereinkommens gestattete Menge oder jeweilige Einleitrate hinaus.
-
-- a) bezeichnet der in Absatz 1 Buchstabe a verwendete Ausdruck «Öl» im Sinne der Regel 1 Nummer 1 der Anlage I des Übereinkommens;
-- b) bezeichnet der in Absatz 1 Buchstabe a verwendete Ausdruck «schädliche flüssige Stoffe» schädliche flüssige Stoffe im Sinne der Regel 1 Nummer 6 der Anlage II des Übereinkommens;
-- c) bezeichnet der in Absatz 1 Buchstabe b verwendete Ausdruck «Schadstoffe» in verpackter Form Stoffe, die im Internationalen Code für die Beförderung gefährlicher Güter mit Seeschiffen (IMDG‑Code) als Meeresschadstoffe bezeichnet sind.
-
-#### Art. III
-
-**Inhalt der Meldung**
-
-Die Meldungen müssen in jedem Fall umfassen:
-
-- a) die genaue Bezeichnung der beteiligten Schiffe;
-- b) Zeitpunkt, Art und Ort des Ereignisses;
-- c) Menge und Art der betreffenden Schadstoffe;
-- d) Hilfs‑ und Bergungsmassnahmen.
-
-#### Art. IV
-
-**Zusätzliche Meldung**
-
-Jeder, der nach diesem Protokoll verpflichtet ist, eine Meldung zu machen, hat nach Möglichkeit:
-
-- a) die ursprüngliche Meldung nach Bedarf zu ergänzen und Informationen über weitere Entwicklungen zur Verfügung zu stellen und
-- b) den Ersuchen betroffener Staaten um zusätzliche Informationen so vollständig wie möglich zu entsprechen.
-
-#### Art. V
-
-**Meldeverfahren**
-
-\1) Die Meldungen haben durch die schnellste zur Verfügung stehende Fernmeldeverbindung mit grösstem Vorrang an den nächstgelegenen Küstenstaat zu erfolgen.
-
-\2) Zur Durchführung dieses Protokolls werden die Vertragsparteien dieses Übereinkommens Vorschriften oder Anweisungen über die zu befolgenden Verfahren bei der Meldung von Ereignissen in Verbindung mit Schadstoffen aufstellen oder aufstellen lassen, die sich auf von der Organisation ausgearbeitete Richtlinien stützen.
+[^annexu1-lvlu2-2]: Der Text dieses Protokolls ist in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) oder beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
 ## Protokoll II
 
@@ -774,7 +724,7 @@ Geltungsbereich am 20. November 2024[^t-3]
 <tr><td>Kaimaninseln</td><td>9. Mai</td><td>1988</td><td>23. Juni</td><td>1988</td></tr>
 <tr><td>Vietnam</td><td>29. Mai</td><td>1991 B</td><td>29. August</td><td>1991</td></tr>
 <tr><td>Zypern</td><td>22. Juni</td><td>1989 B</td><td>22. September</td><td>1989</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Diese Informationen sowie jene über die Annahme der fakultativen Anlagen I–VI durch die Vertragsstaaten können in englischer Sprache auf der Internetseite der Internationalen Seeschifffahrtsorganisation (IMO): [www.imo.org/fr](https://www.imo.org/fr) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Diese Informationen sowie jene über die Annahme der fakultativen Anlagen I–VI durch die Vertragsstaaten können in englischer Sprache auf der Internetseite der Internationalen Seeschifffahrtsorganisation (IMO): [www.imo.org/fr](https://www.imo.org/fr) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
 [^t-3]: [AS 2024 689](https://fedlex.data.admin.ch/eli/oc/2024/689). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

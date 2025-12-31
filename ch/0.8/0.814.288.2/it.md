@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protocollo del 1978 relativo alla Convenzione internazionale del 1973 per la prevenzione dell'inquinamento da parte delle navi, del 17 febbraio 1978 (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: it
-version: 2025-08-01
+version: 2026-01-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20250801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Londra il 17 febbraio 1978 Approvato dall’Assemblea federale il 9 marzo 1987[^t-1] Strumento d’adesione depositato dalla Svizzera il 15 dicembre 1987 Entrato in vigore per la Svizzera il 15 marzo 1988
 
-(Stato 1° agosto 2025)
+(Stato 1° gennaio 2026)
 
 [^t-1]: Art. 3 lett. a del DF del 17 feb. 1978 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -53,7 +53,7 @@ Le Parti contraenti del presente Protocollo si impegnano a dare effetto:
 
 <sup>3.</sup> Qualsiasi riferimento al presente Protocollo costituisce al tempo stesso riferimento anche al suo Annesso.
 
-[^I-1]: Questo all. e i suoi emendamenti, non sono pubblicati nella RU ([RU 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
+[^I-1]: Questo all. e i suoi emendamenti, non sono pubblicati nella RU ([RU 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 #### Art. II
 
@@ -136,7 +136,7 @@ Il Depositario deve:
 
 <sup>3.</sup> Appena il presente Protocollo entrerà in vigore, una copia autentica legalizzata di esso sarà trasmessa dal Depositario al Segretariato delle Nazioni Unite per registrazione e pubblicazione secondo l’articolo 102 della Carta delle Nazioni Unite[^VIII-1].
 
-[^VIII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VIII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. IX
 
@@ -145,6 +145,8 @@ Il Depositario deve:
 Il presente Protocollo viene redatto in originale unico nelle lingue inglese, francese, russa e spagnola, ogni testo essendo ugualmente autentico. Saranno preparate, e depositate con l’originale firmato, traduzioni ufficiali nelle lingue araba, tedesca, italiana e giapponese.
 
 *In fede di che,* i sottoscritti, debitamente a ciò autorizzati dai rispettivi governi, hanno firmato il presente Protocollo. Fatto a Londra il 7 febbraio 1978. (Seguono le firme)
+
+Convenzione internazionale del 1973 per la prevenzione dell’inquinamento causato da navi
 
 Conclusa a Londra il 2 novembre 1973
 
@@ -162,13 +164,20 @@ Ritenendo che il mezzo migliore per realizzare tale obiettivo sia di fissare del
 
 hanno convenuto quanto segue:
 
-****Art. 1** Obblighi generali derivanti dalla Convenzione**
+#### Art. 1
 
-<sup>1.</sup> Le Parti della Convenzione si impegnano a dare efficacia alle disposizioni della presente Convenzione, nonché a quelle degli Allegati[^t-3] dai quali sono vincolate al fine di prevenire l’inquinamento dell’ambiente marino dovuto allo scarico di sostanze nocive o di effluenti contenenti tali sostanze che contravvengono alle disposizioni della Convenzione.
+**Obblighi generali derivanti dalla Convenzione**
+
+<sup>1.</sup> Le Parti della Convenzione si impegnano a dare efficacia alle disposizioni della presente Convenzione, nonché a quelle degli Allegati[^annexu1-1-1] dai quali sono vincolate al fine di prevenire l’inquinamento dell’ambiente marino dovuto allo scarico di sostanze nocive o di effluenti contenenti tali sostanze che contravvengono alle disposizioni della Convenzione.
 
 <sup>2.</sup> Salvo espressa disposizione in senso contrario, ogni riferimento alla presente Convenzione costituisce al tempo stesso un riferimento ai suoi Protocolli e Allegati.
 
-****Art. 2** Definizioni**
+[^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3521)
+[^annexu1-1-1]: Questi all. e i loro emendamenti, non sono pubblicati nella RU (vedi [RU 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866), [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366), [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077), [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937), [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943), [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436), [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)) Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx . Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
+
+#### Art. 2
+
+**Definizioni**
 
 Ai fini della presente Convenzione, salvo espressa disposizione in senso contrario:
 
@@ -179,29 +188,36 @@ Ai fini della presente Convenzione, salvo espressa disposizione in senso contrar
 
     Il «rigetto» non include:
 
-    - i) lo scarico secondo il significato della Convenzione sulla prevenzione dell’inquinamento marino causato dallo scarico di rifiuti o altre materie, adottata a Londra il 13 novembre 1972[^t-4]; né
+    - i) lo scarico secondo il significato della Convenzione sulla prevenzione dell’inquinamento marino causato dallo scarico di rifiuti o altre materie, adottata a Londra il 13 novembre 1972[^annexu1-2-1]; né
     - ii) gli scarichi di sostanze nocive che derivano direttamente dall’esposizione, dallo sfruttamento e dal trattamento connesso, al largo delle coste, delle risorse minerali del fondo dei mari e degli oceani; né
     - iii) gli scarichi di sostanze nocive effettuati ai fini di lecite ricerche scientifiche miranti a ridurre o a combattere l’inquinamento.
 
 - 4\. «Nave» indica un natante di qualsiasi tipo, comunque operante nell’ambiente marino e comprendente gli aliscafi, i veicoli a cuscino d’aria, i sommergibili, i galleggianti e le piattaforme fisse o galleggianti.
 - 5\. «Autorità» indica il Governo dello Stato che esercita la propria autorità sulla nave. Nel caso di una nave autorizzata a battere la bandiera di uno Stato, l’Autorità è il Governo di tale Stato. Nel caso delle piattaforme fisse o galleggianti adibite all’esplorazione ed allo sfruttamento del fondo dei mari e del sottosuolo adiacente alle coste sulle quali lo Stato rivierasco esercita dei diritti sovrani ai fini dell’esplorazione e dello sfruttamento delle loro risorse naturali, l’Autorità è il Governo dello Stato rivierasco interessato.
 - 6\. «Incidente» indica un evento che comporti o sia suscettibile di causare lo scarico in mare di una sostanza nociva o di effluenti contenenti una tale sostanza.
-- 7\. «Organizzazione» indica l’Organizzazione[^t-5] intergovernativa consultiva della navigazione marittima.
+- 7\. «Organizzazione» indica l’Organizzazione[^annexu1-2-2] intergovernativa consultiva della navigazione marittima.
 
-****Art. 3** Campo di applicazione**
+[^annexu1-2-1]: [RS 0.814.287](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3518)
+[^annexu1-2-2]: Dopo il 22 mag. 1982, l’Organizzazione porta il nome d’«Organizzazione Marittima Internazionale».
+
+#### Art. 3
+
+**Campo di applicazione**
 
 <sup>1.</sup>
 
 La presente Convenzione si applica:
 
-- a) alle navi che sono autorizzate a battere la bandiera di una Parte della Convenzione, e
+- a) alle navi che sono autorizzate a battere la bandiera di una Parte della Convenzione; e
 - b) alle navi che non sono autorizzate a battere la bandiera di una Parte ma che operano sotto l’autorità di tale Parte.
 
 <sup>2.</sup> Nessuna disposizione del presente articolo potrebbe essere interpretata come suscettibile di recare pregiudizio ai diritti sovrani delle Parti sul fondo dei mari e sul sottosuolo adiacente alle coste ai fini dell’esplorazione e dello sfruttamento delle risorse naturali o come suscettibile di estendere tali diritti, in conformità del diritto internazionale.
 
 <sup>3.</sup> La presente Convenzione non si applica né alle navi da guerra o alle navi da guerra ausiliarie né alle altre navi appartenenti ad uno Stato o gestite da tale Stato fintantoché quest’ultimo le utilizzi esclusivamente per servizi governativi e non commerciali. Tuttavia, ciascuna Parte deve accertarsi, nell’adottare delle misure adeguate che non compromettano le operazioni o la capacità operativa delle navi di questo tipo che le appartengano o che siano da essa gestite, che queste agiscano in modo che sia compatibile con la presente Convenzione, per quanto ciò sia ragionevole e praticabile.
 
-****Art. 4** Violazioni**
+#### Art. 4
+
+**Violazioni**
 
 <sup>1.</sup> Ogni violazione alle disposizioni della presente Convenzione è punita dalla legge dell’Autorità da cui dipende la nave in questione, qualunque sia il luogo in cui avviene l’infrazione. Se l’Autorità è informata di una tale infrazione ed è convinta che esistono prove sufficienti per permetterle di iniziare dei procedimenti per la presunta infrazione, essa inizia tali procedimenti al più presto possibile in conformità delle proprie leggi.
 
@@ -216,7 +232,9 @@ Ogni violazione alle disposizioni della presente Convenzione commessa sotto la g
 
 <sup>4.</sup> Le sanzioni previste dalle leggi delle Parti in applicazione del presente articolo devono essere, per il loro rigore, di natura tale da scoraggiare gli eventuali trasgressori, e di una identica severità, qualunque sia il luogo in cui è stata commessa l’infrazione.
 
-****Art. 5** Certificati e norme speciali concernenti l’ispezione della nave**
+#### Art. 5
+
+**Certificati e norme speciali concernenti l’ispezione della nave**
 
 <sup>1.</sup> Subordinatamente alle disposizioni del paragrafo 2 del presente articolo, i certificati rilasciati dall’Autorità di una Parte della Convenzione conformemente alle disposizioni delle norme devono essere accettati dalle altre Parti contraenti e ritenuti, a tutti i fini previsti dalla presente Convenzione, come aventi la stessa validità di un certificato rilasciato da loro stesse.
 
@@ -226,7 +244,9 @@ Ogni violazione alle disposizioni della presente Convenzione commessa sotto la g
 
 <sup>4.</sup> Le Parti applicano alle navi degli Stati che non sono Parti della Convenzione le norme della presente Convenzione nella misura in cui ciò è necessario per non far beneficiare tali navi di condizioni più favorevoli.
 
-****Art. 6** Ricerca delle infrazioni ed esecuzione delle disposizioni della Convenzione**
+#### Art. 6
+
+**Ricerca delle infrazioni ed esecuzione delle disposizioni della Convenzione**
 
 <sup>1.</sup> Le Parti della Convenzione collaborano nella ricerca delle infrazioni e nell’esecuzione delle disposizioni della presente Convenzione facendo uso di tutti i mezzi pratici appropriati di ricerca e di continua sorveglianza dell’ambiente nonché dei metodi soddisfacenti di trasmissione delle informazioni e di raccolta delle prove.
 
@@ -238,13 +258,17 @@ Ogni violazione alle disposizioni della presente Convenzione commessa sotto la g
 
 <sup>5.</sup> Una Parte può ispezionare ogni nave, alla quale si applichi la presente Convenzione, che faccia scalo in un porto o in un terminale al largo sotto la propria giurisdizione quando un’altra Parte le chieda di procedere a tale indagine fornendo prove sufficienti che la nave ha scaricato in un qualunque luogo delle sostanze nocive o degli effluenti contenenti tali sostanze. Viene fatto il resoconto dell’indagine alla Parte che l’ha richiesta nonché all’Autorità, allo scopo di adottare le misure del caso conformemente alle disposizioni della presente Convenzione.
 
-****Art. 7** Ritardi causati indebitamente alle navi**
+#### Art. 7
+
+**Ritardi causati indebitamente alle navi**
 
 <sup>1.</sup> Deve essere fatto ogni possibile sforzo per evitare che a seguito delle misure adottate in applicazione degli articoli 4, 5 o 6 della presente Convenzione una nave venga indebitamente fermata o ritardata.
 
 <sup>2.</sup> Ogni nave che sia stata trattenuta indebitamente o che abbia subito un ritardo a seguito dell’applicazione degli articoli 4, 5 o 6 della presente Convenzione ha diritto ad un risarcimento per le perdite o i danni subiti.
 
-****Art. 8** Rapporti sugli eventi comportanti o suscettibili di comportare lo scarico di sostanze nocive**
+#### Art. 8
+
+**Rapporti sugli eventi comportanti o suscettibili di comportare lo scarico di sostanze nocive**
 
 <sup>1.</sup> In caso di incidente, deve essere fatto, senza indugio, un rapporto nella misura più ampia possibile, in conformità delle disposizioni del Protocollo I della presente Convenzione.
 
@@ -264,7 +288,9 @@ Ogniqualvolta una Parte riceva un rapporto in base alle disposizioni del present
 
 <sup>4.</sup> Ogni Parte della Convenzione fa dare alle proprie navi ed aeronavi incaricate di compiere l’ispezione dei mari nonché ai servizi competenti delle istruzioni invitandoli a segnalare alle proprie Autorità ogni evento di cui al Protocollo I della presente Convenzione. Ove lo ritenga utile, lo comunica anche all’Organizzazione e ad ogni altra Parte interessata.
 
-****Art. 9** Altri Trattati ed interpretazione**
+#### Art. 9
+
+**Altri Trattati ed interpretazione**
 
 <sup>1.</sup> Con la sua entrata in vigore, la presente Convenzione sostituisce la Convenzione internazionale del 1954 per la prevenzione dell’inquinamento delle acque del mare da idrocarburi, ed emendamenti, nei confronti delle Parti della presente Convenzione.
 
@@ -272,32 +298,42 @@ Ogniqualvolta una Parte riceva un rapporto in base alle disposizioni del present
 
 <sup>3.</sup> Nella presente Convenzione, il termine «giurisdizione» viene interpretato conformemente al diritto internazionale in vigore al momento dell’applicazione o dell’interpretazione della presente Convenzione.
 
-****Art. 10** Composizione delle controversie**
+#### Art. 10
+
+**Composizione delle controversie**
 
 Ogni controversia fra due o più Parti della Convenzione sull’interpretazione o l’applicazione della presente Convenzione, che non abbia potuto essere composta mediante negoziati tra le Parti in causa viene, salvo decisione contraria delle Parti, sottoposta ad arbitrato a richiesta di una delle Parti, alle condizioni previste dal Protocollo II della presente Convenzione.
 
-****Art. 11** Trasmissione delle informazioni**
+#### Art. 11
+
+**Trasmissione delle informazioni**
 
 <sup>1.</sup>
 
 Le Parti della Convenzione si impegnano a comunicare all’Organizzazione:
 
 - a) il testo delle leggi, ordinanze, decreti, regolamenti ed altri strumenti promulgati sulle diverse questioni che entrano nel campo di applicazione della presente Convenzione;
-- b)[^t-6] la lista degli organismi non governativi abilitati ad agire in loro nome per tutto ciò che riguarda la concezione, la costruzione e l’equipaggiamento delle navi che trasportino delle sostanze nocive conformemente alle disposizioni contenute nelle norme;
-- e) un numero sufficiente di modelli di certificati che esse rilasciano in applicazione delle disposizioni contenute nelle norme;
+- b)[^annexu1-11-1] la lista degli organismi non governativi abilitati ad agire in loro nome per tutto ciò che riguarda la concezione, la costruzione e l’equipaggiamento delle navi che trasportino delle sostanze nocive conformemente alle disposizioni contenute nelle norme;
+- c) un numero sufficiente di modelli di certificati che esse rilasciano in applicazione delle disposizioni contenute nelle norme;
 - d) un elenco degli impianti di raccolta comprendente la loro ubicazione, capacità, disponibilità ed altre caratteristiche;
 - e) tutti i rapporti ufficiali o i riassunti di tali rapporti che espongono i risultati dell’applicazione della presente Convenzione; e
 - f) un rapporto annuo che presenti, in una forma resa standardizzata da parte dell’Organizzazione, le statistiche relative alle sanzioni effettivamente inflitte per le infrazioni della presente Convenzione.
 
 <sup>2.</sup> L’Organizzazione informa le Parti di ogni comunicazione ricevuta in base al presente articolo e diffonde a tutte le Parti le informazioni che le sono state comunicate, ai sensi delle alinee da b) a f) del paragrafo 1 del presente articolo.
 
-****Art. 12** Incidenti sopraggiunti alle navi**
+[^annexu1-11-1]: Vedi anche l’art. III del Prot. del 1978 all’inizio.
 
-L Ogni Autorità si impegna ad effettuare un’indagine su qualsiasi sinistro che avvenga ad una qualsiasi delle sue navi soggetta alle disposizioni contenute nelle norme, quando tale sinistro abbia avuto, per l’ambiente marino, un grave deleterio effetto.
+#### Art. 12
+
+**Incidenti sopraggiunti alle navi**
+
+<sup>1.</sup> Ogni Autorità si impegna ad effettuare un’indagine su qualsiasi sinistro che avvenga ad una qualsiasi delle sue navi soggetta alle disposizioni contenute nelle norme, quando tale sinistro abbia avuto, per l’ambiente marino, un grave deleterio effetto.
 
 <sup>2.</sup> Ogni Parte della Convenzione si impegna a fornire all’Organizzazione delle informazioni sui risultati di tale indagine quando essa ritiene che questi possono servire a determinare le modifiche che sarebbe auspicabile apportare alla presente Convenzione.
 
-****Art. 13** Firma, ratifica, accettazione, approvazione ed adesione**
+#### Art. 13
+
+**Firma, ratifica, accettazione, approvazione ed adesione**
 
 <sup>1.</sup>
 
@@ -311,9 +347,11 @@ La presente Convenzione resta aperta alla firma, presso la sede dell’Organizza
 
 <sup>3.</sup> Il Segretario generale dell’Organizzazione informa tutti gli Stati che hanno firmato la presente Convenzione o che vi abbiano aderito di ogni firma o del deposito di ogni nuovo strumento di ratifica, di accettazione, di approvazione o di adesione nonché della data di tale deposito.
 
-****Art. 14** Allegati facoltativi**
+#### Art. 14
 
-<sup>1.</sup> Uno Stato può, al momento della firma, della ratifica, dell’accettazione, dell’approvazione o dell’adesione della presente Convenzione, dichiarare di non accettare uno qualsiasi degli Allegati III, IV e V (qui appresso indicati «Allegati facoltativi») o l’insieme di essi della presente Convenzione. Con riserva di quanto precede, le Parti della Convenzione sono vincolate da uno qualsiasi degli Allegati nella sua interezza.[^t-7]
+**Allegati facoltativi**
+
+<sup>1.</sup> Uno Stato può, al momento della firma, della ratifica, dell’accettazione, dell’approvazione o dell’adesione della presente Convenzione, dichiarare di non accettare uno qualsiasi degli Allegati III, IV e V (qui appresso indicati «Allegati facoltativi») o l’insieme di essi della presente Convenzione. Con riserva di quanto precede, le Parti della Convenzione sono vincolate da uno qualsiasi degli Allegati nella sua interezza.[^annexu1-14-1]
 
 <sup>2.</sup> Uno Stato che abbia dichiarato di non essere vincolato da un Allegato facoltativo può accettare in ogni momento tale Allegato depositando, presso l’Organizzazione, uno strumento del tipo previsto dal paragrafo 2 dell’articolo 13.
 
@@ -321,7 +359,11 @@ La presente Convenzione resta aperta alla firma, presso la sede dell’Organizza
 
 <sup>4.</sup> L’Organizzazione informa gli Stati che hanno firmato la presente Convenzione o che vi hanno aderito, di ogni dichiarazione fatta in base al presente articolo, nonché del ricevimento di ogni strumento depositato in conformità alle disposizioni del paragrafo 2 del presente articolo.
 
-****Art. 15** Entrata in vigore**
+[^annexu1-14-1]: Vedi anche l’art. II del Prot. del 1978 all’inizio.
+
+#### Art. 15
+
+**Entrata in vigore**
 
 <sup>1.</sup> La presente Convenzione entra in vigore dodici mesi dopo la data in cui non meno di 15 Stati le cui flotte mercantili rappresentino in totale non meno del 50 per cento del tonnellaggio lordo di tutta la flotta mercantile mondiale, sono divenute Parti della presente Convenzione conformemente alle disposizioni in accordo con l’articolo 13.
 
@@ -335,7 +377,9 @@ La presente Convenzione resta aperta alla firma, presso la sede dell’Organizza
 
 <sup>6.</sup> Ogni strumento di ratifica, di accettazione, di approvazione o di adesione depositato dopo la data in cui siano state osservate tutte le condizioni previste all’articolo 16 per l’entrata in vigore di un emendamento alla presente Convenzione o ad un Allegato facoltativo, si applica al testo modificato della Convenzione o dell’Allegato facoltativo.
 
-****Art. 16** Emendamenti**
+#### Art. 16
+
+**Emendamenti**
 
 <sup>1.</sup> La presente Convenzione può essere emendata mediante una qualsiasi delle procedure definite nei seguenti paragrafi.
 
@@ -382,7 +426,9 @@ Emendamento mediante una Conferenza:
 
 <sup>9.</sup> Ogni dichiarazione od obiezione relativa ad un emendamento comunicata in base al presente articolo deve essere notificata per iscritto al Segretario generale dell’Organizzazione. Quest’ultimo informa tutte le Parti della Convenzione della notifica in questione e della sua data di ricevimento.
 
-****Art. 17** Promozione della cooperazione tecnica**
+#### Art. 17
+
+**Promozione della cooperazione tecnica**
 
 di preferenza all’interno dei Paesi interessati, in modo da favorire la realizzazione degli scopi e degli obiettivi della presente Convenzione.
 
@@ -393,7 +439,9 @@ Le Parti della Convenzione devono, in consultazione con l’Organizzazione ed al
 - c) di facilitare l’adozione di altre misure e disposizioni intese a prevenire o ad attenuare l’inquinamento dell’ambiente marino da parte delle navi; e
 - d) d’incoraggiare la ricerca;
 
-****Art. 18** Denuncia**
+#### Art. 18
+
+**Denuncia**
 
 <sup>1.</sup> La presente Convenzione od ogni Allegato facoltativo può essere denunciato da una qualsiasi delle Parti della Convenzione in ogni momento dopo lo spirare di un periodo di cinque anni a partire dalla data in cui la Convenzione o un tale Allegato entri in vigore nei confronti di tale Paese.
 
@@ -401,13 +449,19 @@ Le Parti della Convenzione devono, in consultazione con l’Organizzazione ed al
 
 <sup>3.</sup> La denuncia ha effetto dodici mesi dopo la data in cui il Segretario generale dell’Organizzazione ne ha ricevuto notifica o allo spirare di ogni altro termine più importante enunciato nella notifica.
 
-****Art. 19** Deposito e Registrazione**
+#### Art. 19
+
+**Deposito e Registrazione**
 
 <sup>1.</sup> La presente Convenzione sarà depositata presso il Segretario generale dell’Organizzazione che ne trasmetterà copie certificate conformi a tutti gli Stati che hanno firmato la presente Convenzione o vi aderiranno.
 
-<sup>2.</sup> A partire dall’entrata in vigore della presente Convenzione, il Segretario generale dell’Organizzazione ne trasmetterà copia certificata conforme al Segretario generale delle Nazioni Unite al fine della registrazione e pubblicazione in conformità dell’Articolo 102 della Carta delle Nazioni Unite[^t-8].
+<sup>2.</sup> A partire dall’entrata in vigore della presente Convenzione, il Segretario generale dell’Organizzazione ne trasmetterà copia certificata conforme al Segretario generale delle Nazioni Unite al fine della registrazione e pubblicazione in conformità dell’Articolo 102 della Carta delle Nazioni Unite[^annexu1-19-1].
 
-****Art. 20** Lingue**
+[^annexu1-19-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+
+#### Art. 20
+
+**Lingue**
 
 La presente Convenzione viene redatta in un unico esemplare nelle lingue inglese, francese, russa e spagnola, i quattro testi facenti ugualmente fede. Traduzioni ufficiali saranno redatte nelle lingue araba, tedesca, italiana e giapponese e saranno depositate con l’originale firmato.
 
@@ -415,78 +469,41 @@ La presente Convenzione viene redatta in un unico esemplare nelle lingue inglese
 
 Fatto a Londra il 2 novembre 1973.
 
-**(Seguono le firme)**
+(Seguono le firme)
 
-Protocollo I[^t-9]
+## Protocollo I
 
-**Disposizioni concernenti l’invio di rapporti sugli eventi comportanti o suscettibili di comportare lo scarico di sostanze nocive**
+[^annexu1-lvlu2-1]
+
+[^annexu1-lvlu2-1]: Nuovo testo giusta l’emendamento adattato il 5 dic. 1985 ([RU 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)). Aggiornato dall’emendamento adottato il 22 mar. 2024, in vigore dal 1° gen. 2026 ([RU 2025 847](https://fedlex.data.admin.ch/eli/oc/2025/847)).
+
+**Disposizioni concernenti l’invio di rapporti sugli eventi comportanti o suscettibili di comportare lo scarico di sostanze nocive**[^annexu1-lvlu2-2]
 
 (in applicazione dell’articolo 8 della Convenzione)
 
-****Art. I** Obbligo di redigere un rapporto**
+[^annexu1-lvlu2-2]: Il contenuto di questo protocollo non è pubblicato nella RU. Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
-\1) Il comandante di una nave alla quale sia accaduto uno degli eventi di cui all’articolo II del presente Protocollo, od ogni altra persona che ha la responsabilità della nave, fa senza indugio un rapporto sulle circostanze dell’evento, conformemente alle disposizioni del presente Protocollo, con tutti i dettagli possibili.
-
-\2) In caso di abbandono della nave di cui al paragrafo 1) qui innanzi, o qualora il rapporto relativo a tale nave sia incompleto o impossibile da ottenersi, l’armatore, il noleggiatore, il gestore o l’utente della nave o loro agenti assumono, nella misura più ampia possibile, gli obblighi che incombono al comandante ai sensi delle disposizioni del presente Protocollo.
-
-****Art. II** Redazione del rapporto**
-
-\1) Viene redatto un rapporto ogni volta che un evento comporta:
-
-- a) lo scarico o la probabilità di scarico di idrocarburi o sostanze liquide nocive trasportate alla rinfusa, a seguito di un’avaria della nave o della sua attrezzatura oppure per garantire la sicurezza della nave o di salvaguardare vite umane in mare; o
-- b) lo scarico o la probabilità di scarico di sostanze nocive trasportate in colli come anche in contenitori, in cisterne mobili, in vagoni cisterna stradali o ferroviari o in chiatte; o
-- c) lo scarico, nel corso dell’esercizio della nave, d’idrocarburi o di sostanze liquide nocive che superano la quantità o il tasso istantaneo autorizzati ai sensi della Convenzione.
-
-\2) Ai fini del presente protocollo:
-
-- a) Gli «idrocarburi» di cui al capoverso 1 a) del presente articolo designano gli idrocarburi definiti nel paragrafo 1 della regola 1 dell’Allegato I alla Convenzione.
-- b) Le «sostanze liquide nocive» di cui al capoverso 1a) del presente articolo designano le sostanze liquide nocive definite nel paragrafo 6 della regola 1 dell’Allegato II alla Convenzione.
-- oppure
-- c) Le «sostanze nocive» in colli di cui al capoverso 1b) del presente articolo designano le sostanze identificate come inquinanti marini nel Codice marittimo internazionale delle merci pericolose.
-
-****Art. III** Natura del rapporto**
-
-I rapporti comprendono in ogni caso le informazioni seguenti:
-
-- a) l’identificazione della nave;
-- b) l’ora, la natura e il luogo dell’evento;
-- c) la quantità e il tipo delle sostanze nocive considerate;
-- d) i provvedimenti di assistenza e di salvataggio.
-
-****Art. IV** Rapporto complementare**
-
-Ogni persona che sia tenuta di inviare un rapporto conformemente alle disposizioni del presente Protocollo deve, qualora fosse possibile:
-
-- a) completare, ove necessario, il rapporto iniziale e comunicare informazioni circa nuovi eventi; e
-- b) soddisfare, nella misura del possibile, le richieste di informazioni complementari provenienti dagli Stati colpiti dall’evento.
-
-****Art. V** Procedure di notifica**
-
-\1) Attraverso le vie di telecomunicazione più rapide a disposizione viene fatto rapporto, con la massima priorità, allo Stato costiero più vicino.
-
-\2) Ai fini dell’applicazione delle disposizioni del presente Protocollo le Parti alla Convenzione, fondandosi sulle direttive elaborate dall’Organizzazione, emanano o fanno emanare regole o istruzioni sulle procedure da seguire qualora venga fatto rapporto su eventi comportanti o suscettibili di comportare lo scarico di sostanze nocive.
-
-Protocollo II
+## Protocollo II
 
 **Arbitraggio**
 
 (in applicazione dell’articolo 10 della Convenzione)
 
-****Art. I****
+#### Art. I
 
 A meno che le Parti in controversia non decidano altrimenti, il procedimento arbitrale viene condotto conformemente alle disposizioni del presente Protocollo.
 
-****Art. II****
+#### Art. II
 
 <sup>1.</sup> Viene costituito un tribunale arbitrale su domanda indirizzata da una Parte della Convenzione ad un’altra Parte in applicazione dell’articolo 10 della presente Convenzione. La domanda di arbitrato contiene l’oggetto della richiesta nonché ogni documento giustificativo in appoggio all’esposizione del caso.
 
 <sup>2.</sup> La Parte richiedente informa il Segretario generale dell’Organizzazione del fatto che essa ha richiesto la costituzione di un tribunale, del nome delle Parti in controversia nonché degli articoli della Convenzione o delle norme la cui interpretazione o applicazione dia luogo, a proprio avviso, alla disputa. Il Segretario generale trasmette tali informazioni a tutte le Parti.
 
-****Art. III****
+#### Art. III
 
 Il tribunale è composto di tre membri: un arbitro nominato da ogni Parte in controversia ed un terzo arbitro designato di comune accordo dai primi due, che assume la presidenza del tribunale.
 
-****Art. IV****
+#### Art. IV
 
 <sup>1.</sup> Se allo scadere di un termine di sessanta giorni a partire dalla nomina del secondo arbitro, il presidente del tribunale non è stato nominato, il Segretario generale dell’Organizzazione, su richiesta della Parte più diligente, procede, entro un nuovo termine di sessanta giorni, alla sua designazione, scegliendolo da una lista di persone qualificate, redatta in anticipo dal consiglio dell’Organizzazione.
 
@@ -498,23 +515,23 @@ Il tribunale è composto di tre membri: un arbitro nominato da ogni Parte in con
 
 <sup>5.</sup> In caso di decesso o di assenza di un arbitro la cui designazione spettava ad una Parte, quest’ultima nomina il suo sostituto entro un termine di sessanta giorni a partire dalla data di decesso o di assenza. Ove essa non lo faccia, il procedimento continua con gli arbitri che restano. In caso di decesso o di assenza del presidente del tribunale, il suo sostituto viene nominato alle condizioni previste dal precedente articolo III, o, in mancanza di accordo tra i membri del tribunale, entro sessanta giorni dal decesso o dall’assenza, alle condizioni previste dal presente articolo.
 
-****Art. V****
+#### Art. V
 
 Il tribunale può conoscere e decidere delle domande riconvenzionali direttamente connesse all’oggetto della controversia.
 
-****Art. VI****
+#### Art. VI
 
 Ogni Parte assume a proprio carico la remunerazione del proprio arbitro e le spese connesse, nonché le spese incorse per la preparazione del proprio incartamento. Il costo della rimunerazione del presidente del tribunale nonché tutte le spese di ordine generale causate dall’arbitro sono divise equamente fra le Parti. Il tribunale registra tutte le sue spese e ne fornisce una dimostrazione finale.
 
-****Art. VII****
+#### Art. VII
 
 Ogni Parte della Convenzione della quale sia in causa un interesse di ordine giuridico, può, dopo avere avvisato per iscritto le Parti che hanno iniziato tale procedimento, associarsi al procedimento arbitrale, con l’accordo del tribunale.
 
-****Art. VIII****
+#### Art. VIII
 
 Ogni tribunale arbitrale costituito ai sensi del presente Protocollo fissa le proprie norme di procedura.
 
-****Art. IX****
+#### Art. IX
 
 <sup>1.</sup> Le decisioni del tribunale, sia sulla propria procedura e sul luogo delle proprie riunioni sia su ogni controversia che gli venga sottoposta, vengono adottate alla maggioranza dei voti dei suoi membri; l’assenza o l’astensione di uno dei membri del tribunale designati dalle Parti non impedisce al tribunale di deliberare. In caso di parità, il voto del presidente è decisivo.
 
@@ -527,24 +544,13 @@ Le Parti facilitano i lavori del tribunale; a tale fine, conformemente alla loro
 
 <sup>3.</sup> L’assenza o la mancanza di una Parte non ostacola il procedimento.
 
-****Art. X****
+#### Art. X
 
 <sup>1.</sup> Il tribunale pronuncia la propria sentenza entro un termine di cinque mesi a partire dalla data della propria costituzione, a meno che non decida, in caso di necessità, di prorogare tale termine per un ulteriore periodo di tempo non superiore a tre mesi. La sentenza del tribunale viene motivata. Essa è definitiva e inappellabile e viene comunicata al Segretario generale dell’Organizzazione. Le Parti devono uniformarvisi senza indugio.
 
 <sup>2.</sup> Ogni controversia che potrebbe sorgere fra le Parti sull’interpretazione o sull’esecuzione di una sentenza, può essere sottoposta dalla Parte più diligente al giudizio del tribunale che l’ha resa o, se quest’ultimo non può esserne investito, di un tribunale costituito a tale scopo nello stesso modo del primo.
 
-Convenzione internazionale del 1973 per la prevenzione dell’inquinamento causato da navi
-
-[^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/eli/cc/1966/1200_1242_1232)
-[^t-3]: Questi all. e i loro emendamenti, non sono pubblicati nella RU (vedi [RU 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866), [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366), [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077), [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937), [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943), [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436), [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
-[^t-4]: [RS 0.814.287](https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335)
-[^t-5]: Dopo il 22 mag. 1982, l’Organizzazione porta il nome d’«Organizzazione Marittima Internazionale».
-[^t-6]: Vedi anche l’art. III del Prot. del 1978 all’inizio.
-[^t-7]: Vedi anche l’art. II del Prot. del 1978 all’inizio.
-[^t-8]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^t-9]: Nuovo testo giusta l’emendamento adattato il 5 dic. 1985 ([RU 1989 492](https://fedlex.data.admin.ch/eli/oc/1989/492_492_492)).
-
-Campo d’applicazione il 20 novembre 2024[^t-10]
+Campo d’applicazione il 20 novembre 2024[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -723,7 +729,7 @@ Campo d’applicazione il 20 novembre 2024[^t-10]
 <tr><td>Vanuatu</td><td>13 aprile</td><td>1989 A</td><td>13 luglio</td><td>1989</td></tr>
 <tr><td>Venezuela</td><td>29 luglio</td><td>1994 A</td><td>29 ottobre</td><td>1994</td></tr>
 <tr><td>Vietnam</td><td>29 maggio</td><td>1991 A</td><td>29 agosto</td><td>1991</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. Tali informazioni, così come quelle relative all’accettazione degli allegati facoltativi I−VI da parte degli Stati partecipanti, possono essere consultate in inglese sul sito Internet dell’Organizzazione marittima internazionale (IMO): [www.imo.org/fr](https://www.imo.org/fr) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. Tali informazioni, così come quelle relative all’accettazione degli allegati facoltativi I−VI da parte degli Stati partecipanti, possono essere consultate in inglese sul sito Internet dell’Organizzazione marittima internazionale (IMO): [www.imo.org/fr](https://www.imo.org/fr) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-10]: [RU 2024 689](https://fedlex.data.admin.ch/eli/oc/2024/689)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-3]: [RU 2024 689](https://fedlex.data.admin.ch/eli/oc/2024/689)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
