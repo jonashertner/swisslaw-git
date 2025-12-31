@@ -4,11 +4,11 @@ title: Ordonnance du 27 avril 2022 concernant les systèmes d’information de l
 short: O-SICAL
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: fr
-version: 2024-07-01
+version: 2026-01-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2022-272-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-272-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20240701/fr"
 
 (O-SICAL)
 
-du 27 avril 2022 (État le 1<sup>er</sup> juillet 2024)
+du 27 avril 2022 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,10 +25,10 @@ vu les art. 45*c,* al. 4, 45*d*, al. 3, et 45*f* de la loi du 1<sup>er</sup> jui
 
 arrête:
 
-[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-4]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## Section 1 Objet
 
@@ -90,9 +90,9 @@ ARES sert au traitement des résultats:
 
 <sup>4</sup> Fleko sert au traitement des résultats du contrôle des animaux avant l’abattage et du contrôle des viandes visés à l’art. 57 de l’ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes[^3-3].
 
-[^3-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^3-3]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^3-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^3-2]: [RS 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
+[^3-3]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 #### Art. 4
 
@@ -137,8 +137,8 @@ Les services suivants sont autorisés à traiter les données d’ASAN, d’ARES
 - b. remplir leurs devoirs de notification: les laboratoires agréés visés à l’art. 312 OFE[^5-1] et les laboratoires d’essais pour le contrôle du lait visés par l’OCL[^5-2];
 - c. assurer l’exploitation, attribuer les droits d’accès et apporter un soutien aux utilisateurs: les services spécialisés (art. 19).
 
-[^5-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^5-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^5-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^5-2]: [RS 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
 
 #### Art. 6
 
@@ -192,8 +192,8 @@ Dans la mesure où les tâches qui leur incombent en vertu de l’art. 5 l’exi
 - d. les collaborateurs des laboratoires agréés visés à l’art. 312 OFE[^9-1] et des laboratoires d’essais visés dans l’OCL[^9-2]: les données d’exécution saisies par leur propre laboratoire;
 - e. les collaborateurs des services spécialisés: toutes les données d’exécution du système concerné.
 
-[^9-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^9-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^9-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^9-2]: [RS 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
 
 #### Art. 10
 
@@ -234,12 +234,13 @@ Aucun consentement n’est requis pour consulter les données d’exécution d�
 
 - a. le numéro REE visé à l’art. 3, al. 2, let. c, de l’ordonnance du 30 juin 1993 sur le registre des entreprises et des établissements[^13-2];
 - b. le numéro AVS du détenteur d’animaux;
-- c. le numéro BDTA de l’unité d’élevage ou le numéro d’identification de l’animal concerné exigé par l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA)[^13-3], ou
+- c.[^13-3] le numéro d’identification de l’animal concerné exigé par l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA)[^13-4] ou le numéro BDTA ou REE de l’unité d’élevage, ou
 - d. le nom du détenteur d’animaux ou de la personne qui a envoyé l’échantillon à analyser ou qui a donné le mandat d’analyse.
 
-[^13-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^13-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^13-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^13-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^13-2]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
+[^13-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^13-4]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 #### Art. 14
 
@@ -247,7 +248,7 @@ Aucun consentement n’est requis pour consulter les données d’exécution d�
 
 Les abattoirs, les détenteurs des animaux et d’autres ayants-droit peuvent consulter, dans la banque de données sur le trafic des animaux visée dans l’OId-BDTA[^14-1], les données concernant les résultats du contrôle des animaux avant l’abattage et ceux du contrôle des viandes qui concernent la salubrité.
 
-[^14-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^14-1]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 #### Art. 15
 
@@ -283,11 +284,11 @@ Chacun des trois systèmes ASAN, ARES et Fleko peut reprendre les données des d
 
 <sup>2</sup> Les systèmes visés à l’al. 1, let. b, c et g, peuvent prélever des données d’ASAN, d’ARES et de Fleko.
 
-[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^17-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^17-3]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^17-4]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^17-5]: [RS 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
+[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^17-2]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^17-3]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
+[^17-4]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
+[^17-5]: [RS 916.350.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10749)
 
 ## Section 4 Tâches de l’OSAV, services spécialisés et comité mixte
 
@@ -389,11 +390,11 @@ Pour évaluer et analyser les données de son domaine de compétence, l’OSAV e
 
 <sup>2</sup> Les droits d’accès aux données dans ALVPH sont soumis aux règles qui valent pour chacun des systèmes d’information individuellement. Les droits d’accès aux données transmises à ALVPH via l’interface ARES à partir des systèmes d’information des cantons (art. 3, al. 3) sont régis par les art. 9 et 10.
 
-[^23-1]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^23-1]: [RS 455.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7207)
 [^23-2]: Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), JO L 95 du 7.4.2017, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2019/2127, JO L 321 du 12.12.2019, p. 111.
-[^23-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^23-3]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 [^23-4]: Introduite par le ch. II 1 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^23-5]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^23-5]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 ## Section 7 Protection des données, sécurité des données et sécurité informatique, conservation et archivage des données, et dispositions de caractère technique
 
@@ -419,7 +420,7 @@ Les droits des personnes dont les données sont traitées dans ASAN, ARES ou Fle
 - b. le droit sur la protection des données du canton concerné si les personnes font valoir leurs droits auprès d’une autorité d’exécution cantonale.
 
 [^25-1]: Nouvelle teneur selon l’annexe 2 ch. II 129 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^25-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 26
 
@@ -431,7 +432,7 @@ Les droits des personnes dont les données sont traitées dans ASAN, ARES ou Fle
 
 <sup>3</sup> Les données anonymisées peuvent être conservées dans les systèmes d’information au-delà du délai prévu à l’al. 1.
 
-[^26-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^26-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 27
 
@@ -529,7 +530,7 @@ Annexe 1
 - 2\.6.1 Modèles de documents
 - 2\.6.2 Documents d’exécution spécifiques à une unité
 
-[^annex1-lvlu1-lvl2-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-lvl2-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### 3 Données système
 
@@ -598,7 +599,7 @@ Annexe 3
 - 1\.2 Notifications issues de la Banque de données sur le trafic des animaux en cas d’abattage d’animaux conformément à l’annexe 1, ch. 1, let. e, ch. 2, let. e, ch. 3, let. c, et ch. 4, let. j, OId-BDTA[^annex3-lvlu1-lvl1-1]
 - 1\.3 Identification et nom de la personne compétente pour le contrôle des viandes
 
-[^annex3-lvlu1-lvl1-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^annex3-lvlu1-lvl1-1]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 ### 2 Données d’exécution
 

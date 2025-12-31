@@ -4,11 +4,11 @@ title: Verordnung vom 27. April 2022 über Informationssysteme des BLV für die 
 short: ISLK-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: de
-version: 2024-07-01
+version: 2026-01-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2022-272-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2022-272-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20240701/de"
 
 (ISLK-V)
 
-vom 27. April 2022 (Stand am 1. Juli 2024)
+vom 27. April 2022 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf die Artikel 45*c* Absatz 4, 45*d* Absatz 3 und 45*f* des Tierseuch
 
 verordnet:
 
-[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-4]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -90,9 +90,9 @@ Das ARES dient der Bearbeitung der Ergebnisse:
 
 <sup>4</sup> Das Fleko dient der Bearbeitung der Ergebnisse der Schlachttier- und Fleischuntersuchung nach Artikel 57 der Verordnung vom 16. Dezember 2016[^3-3] über das Schlachten und die Fleischkontrolle.
 
-[^3-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-2]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^3-3]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^3-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^3-2]: [SR 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
+[^3-3]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 #### Art. 4
 
@@ -137,8 +137,8 @@ Im Rahmen ihrer gesetzlichen Aufgaben dürfen die folgenden Stellen die Daten de
 - b. zur Erfüllung ihrer Meldepflichten: die anerkannten Laboratorien nach Artikel 312 TSV[^5-1] und die Prüflaboratorien für die Milchprüfung nach der MiPV[^5-2];
 - c. zur Sicherstellung des Betriebs, zur Erteilung von Zugriffsrechten und zur Unterstützung der Anwenderinnen und Anwender: die Fachstellen (Art. 19).
 
-[^5-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^5-2]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^5-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^5-2]: [SR 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
 
 #### Art. 6
 
@@ -192,8 +192,8 @@ Soweit es ihre Aufgaben nach Artikel 5 erfordern, dürfen die folgenden Personen
 - d. die Mitarbeiterinnen und Mitarbeiter der anerkannten Laboratorien nach Artikel 312 TSV[^9-1] und der Prüflaboratorien nach der MiPV[^9-2]: die Vollzugsdaten, die vom eigenen Laboratorium eingegeben werden;
 - e. die Mitarbeiterinnen und Mitarbeiter der Fachstellen: alle Vollzugsdaten des jeweiligen Systems.
 
-[^9-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^9-2]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^9-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^9-2]: [SR 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
 
 #### Art. 10
 
@@ -234,12 +234,13 @@ Keine Zustimmung ist erforderlich für die Einsicht in die Vollzugsdaten des ARE
 
 - a. der BUR-Nummer des Betriebs nach Artikel 3 Absatz 2 Buchstabe c der Verordnung vom 30. Juni 1993[^13-2] über das Betriebs- und Unternehmensregister;
 - b. der AHV-Nummer der Tierhalterin oder des Tierhalters;
-- c. der TVD-Nummer der Tierhaltung oder der Identifikationsnummer des betreffenden Tieres nach der Verordnung vom 3. November 2021[^13-3] über die Identitas AG und die Tierverkehrsdatenbank (IdTVD-V); oder
+- c.[^13-3] der Identifikationsnummer des betreffenden Tieres nach der Verordnung vom 3. November 2021[^13-4] über die Identitas AG und die Tierverkehrsdatenbank (IdTVD-V) oder der TVD- oder der BUR-Nummer der Tierhaltung; oder
 - d. des Namens der Tierhalterin oder des Tierhalters oder derjenigen Person, welche die Probe zur Untersuchung eingesandt oder die Untersuchung in Auftrag gegeben hat.
 
-[^13-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^13-2]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^13-3]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^13-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^13-2]: [SR 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
+[^13-3]: Fassung gemäss Anhang Ziff. 7 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^13-4]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 #### Art. 14
 
@@ -247,7 +248,7 @@ Keine Zustimmung ist erforderlich für die Einsicht in die Vollzugsdaten des ARE
 
 Schlachtbetriebe, Tierhalterinnen und Tierhalter und weitere Berechtigte dürfen in der Tierverkehrsdatenbank nach der IdTVD-V[^14-1] Einsicht nehmen in die Daten zu den Ergebnissen der Schlachttieruntersuchung sowie zu denjenigen Ergebnissen der Fleischuntersuchung, die die Genusstauglichkeit betreffen.
 
-[^14-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^14-1]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 #### Art. 15
 
@@ -283,11 +284,11 @@ Das ASAN, das ARES und das Fleko können je die Daten aus den beiden anderen Inf
 
 <sup>2</sup> Die Informationssysteme nach Absatz 1 Buchstaben b, c und g können Daten aus dem ASAN, dem ARES und dem Fleko beziehen.
 
-[^17-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^17-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^17-3]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^17-4]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^17-5]: [SR 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
+[^17-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^17-2]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^17-3]: [SR 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
+[^17-4]: [SR 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
+[^17-5]: [SR 916.350.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10749)
 
 ## 4. Abschnitt: Aufgaben des BLV, Fachstellen und gemeinsamer Ausschuss
 
@@ -389,11 +390,11 @@ Das BLV betreibt zur Auswertung und Analyse der Daten aus seinem Zuständigkeits
 
 <sup>2</sup> Die Zugriffsrechte für die Daten im ALVPH richten sich nach den rechtlichen Vorgaben, die für die einzelnen Informationssysteme gelten. Die Zugriffsrechte für die Daten, die über die Schnittstelle im ARES aus den Informationssystemen der Kantone ins ALVPH übermittelt werden (Art. 3 Abs. 3), richten sich nach den Artikeln 9 und 10.
 
-[^23-1]: [SR 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^23-1]: [SR 455.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7207)
 [^23-2]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2019/2127, ABl. L 321 vom 12.12.2019, S. 111.
-[^23-3]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^23-3]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 [^23-4]: Eingefügt durch Ziff. II 1 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^23-5]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^23-5]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 ## 7. Abschnitt: Datenschutz, Daten- und Informatiksicherheit, Aufbewahrung und Archivierung der Daten sowie Vorschriften technischer Art
 
@@ -419,7 +420,7 @@ Die Rechte der Personen, über die im ASAN, im ARES oder im Fleko Daten bearbeit
 - b. dem jeweiligen kantonalen Datenschutzrecht, wenn sie ihre Rechte gegenüber einer kantonalen Vollzugsbehörde geltend machen.
 
 [^25-1]: Fassung gemäss Anhang 2 Ziff. II 129 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^25-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^25-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 26
 
@@ -431,7 +432,7 @@ Die Rechte der Personen, über die im ASAN, im ARES oder im Fleko Daten bearbeit
 
 <sup>3</sup> Anonymisierte Daten dürfen über die Frist nach Absatz 1 hinaus in den Informationssystemen aufbewahrt werden.
 
-[^26-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^26-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 27
 
@@ -529,7 +530,7 @@ Anhang 1
 - 2\.6.1 Dokumentvorlagen
 - 2\.6.2 Spezifische Vollzugsdokumente zu einer Einheit
 
-[^annex1-lvlu1-lvl2-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-lvl2-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### 3 Systemdaten
 
@@ -598,7 +599,7 @@ Anhang 3
 - 1\.2 Meldungen aus der Tierverkehrsdatenbank zur Schlachtung von Tieren nach Anhang 1 Ziffer 1 Buchstabe e, Ziffer 2 Buchstabe e, Ziffer 3 Buchstabe c und Ziffer 4 Buchstabe j IdTVD-V[^annex3-lvlu1-lvl1-1]
 - 1\.3 Identifikation und Name der für die Fleischkontrolle zuständigen Personen
 
-[^annex3-lvlu1-lvl1-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^annex3-lvlu1-lvl1-1]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 ### 2 Vollzugsdaten
 
