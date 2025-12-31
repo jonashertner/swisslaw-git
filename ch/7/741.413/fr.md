@@ -4,11 +4,11 @@ title: Ordonnance du 16 novembre 2016 concernant les exigences techniques requis
 short: OETV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/821"
 language: fr
-version: 2019-02-01
+version: 2026-01-01
 adopted: 2016-11-16
 in_force: 2017-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/821/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-821-20190201-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/821/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/821/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-821-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/821/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/821/20190201/fr"
 
 (OETV 2)
 
-du 16 novembre 2016 (État le 1<sup>er</sup> février 2019)
+du 16 novembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 8, al. 1, 9, al. 1<sup>bis</sup> et 3, 25 et 106, al. 1, 6 et 10, de
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 1
 
@@ -35,15 +35,16 @@ arrête:
 
 <sup>2</sup> Elle s’applique aux tracteurs (art. 11, al. 2, let. h, de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, OETV[^1-1]) et à leurs remorques.
 
-[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 2
 
 **Contrôle des véhicules et service antipollution**
 
-Le contrôle en vue de l’immatriculation, le contrôle subséquent et le service antipollution des véhicules visés à l’art. 1, al. 2 sont régis par l’OETV[^2-1].
+Le contrôle en vue de l’immatriculation, le contrôle subséquent et le service antipollution des véhicules visés à l’art. 1, al. 2 sont régis par l’OETV[^2-1].[^2-2]
 
-[^2-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-2]: La mod. du ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026, ne concerne que le texte italien ([RO 2025 648](https://fedlex.data.admin.ch/eli/oc/2025/648)).
 
 #### Art. 3
 
@@ -51,7 +52,7 @@ Le contrôle en vue de l’immatriculation, le contrôle subséquent et le servi
 
 Les définitions de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers[^3-1] s’appliquent.
 
-[^3-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^3-1]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 4
 
@@ -63,8 +64,8 @@ Les définitions de l’ordonnance du 19 juin 1995 sur la réception par type de
 
 <sup>3</sup> S’agissant de l’application des réglementations internationales mentionnées à l’annexe 2 OETV, les dispositions transitoires desdites réglementations s’appliquent; toutefois, la date de l’importation ou de la construction en Suisse est déterminante pour l’immatriculation.
 
-[^4-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^4-2]: Les textes des règlements CEE-ONU peuvent être consultés gratuitement sur le site www.unece.org &gt; Our Work &gt; Transport &gt; Vehicle Regulations &gt; UN Regulations (1958 Agreement) &gt; Regulations (Addenda to the 1958 Agreement), ou obtenus contre paiement auprès de l’Office fédéral des routes, division Circulation routière, 3003 Berne.
+[^4-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^4-2]: Les textes des règlements CEE-ONU peuvent être consultés gratuitement sur le site [www.un e ce.org](http://www.unece.org) &gt; Our Work &gt; Transport &gt; Vehicle Regulations &gt; UN Regulations (1958 Agreement) &gt; Regulations (Addenda to the 1958 Agreement), ou obtenus contre paiement auprès de l’Office fédéral des routes, division Circulation routière, 3003 Berne.
 
 #### Art. 5
 
@@ -78,7 +79,7 @@ L’annexe 1 précise à quelles catégories suisses de véhicules correspondent
 
 La reconnaissance des réceptions générales UE, des réceptions partielles UE et des certificats de conformité UE est réglée à l’art. 1, al. 2, et à l’annexe 1, chap. 13, de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^6-1]. L’art. 4, al. 3, demeure réservé.
 
-[^6-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^6-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 7
 
@@ -100,7 +101,7 @@ L’al. 1 ne s’applique pas:
 
 Pour les véhicules ne bénéficiant pas de réceptions UE au sens de l’art. 6 ni de déclarations de conformité idoines du constructeur, les exigences techniques de l’OETV[^8-1] s’appliquent.
 
-[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 9
 
@@ -128,7 +129,7 @@ Annexe 1
 <tr><td>engin interchangeable tracté (S)</td><td>remorque de travail (art. 22, OETV)</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 Annexe 2[^t-1]
 
@@ -162,5 +163,5 @@ L’ordonnance du 2 avril 2008 sur les machines[^annex3-lvlu1-2] est modifiée c
 …[^annex3-lvlu1-3]
 
 [^annex3-lvlu1-1]: [[RO 1995 4171](https://fedlex.data.admin.ch/eli/oc/1995/4171_4171_4171), [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 9 [2475](https://fedlex.data.admin.ch/eli/oc/1998/2475_2475_2475), [2000 2398](https://fedlex.data.admin.ch/eli/oc/2000/382), [2002 3182](https://fedlex.data.admin.ch/eli/oc/2002/473), [2005 4181](https://fedlex.data.admin.ch/eli/oc/2005/547), [2007 2181](https://fedlex.data.admin.ch/eli/oc/2007/302), [2009 5797](https://fedlex.data.admin.ch/eli/oc/2009/698), [2012 1915](https://fedlex.data.admin.ch/eli/oc/2012/263)]
-[^annex3-lvlu1-2]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^annex3-lvlu1-2]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
 [^annex3-lvlu1-3]: Les mod. peuvent être consultées au [RO 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821).

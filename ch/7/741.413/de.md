@@ -4,11 +4,11 @@ title: Verordnung vom 16. November 2016 über technische Anforderungen an Trakto
 short: TAFV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/821"
 language: de
-version: 2019-02-01
+version: 2026-01-01
 adopted: 2016-11-16
 in_force: 2017-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/821/20190201/de/xml/fedlex-data-admin-ch-eli-cc-2016-821-20190201-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/821/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/821/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2016-821-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/821/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/821/20190201/de"
 
 (TAFV 2)
 
-vom 16. November 2016 (Stand am 1. Februar 2019)
+vom 16. November 2016 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 8 Absatz 1, 9 Absätze 1<sup>bis</sup> und 3, 25 sowie
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 1
 
@@ -35,15 +35,16 @@ verordnet:
 
 <sup>2</sup> Sie gilt für Traktoren (Art. 11 Abs. 2 Bst. h der Verordnung vom 19. Juni 1995[^1-1] über die technischen Anforderungen an Strassenfahrzeuge; VTS) und für deren Anhänger.
 
-[^1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^1-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 2
 
 **Fahrzeugprüfung und Abgaswartung**
 
-Die Zulassungsprüfung, die Nachprüfung und die Abgaswartung von Fahrzeugen nach Artikel 1 Absatz 2 richten sich nach der VTS[^2-1].
+Die Zulassungsprüfung, die Nachprüfung und die Abgaswartung von Fahrzeugen nach Artikel 1 Absatz 2 richten sich nach der VTS[^2-1].[^2-2]
 
-[^2-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-2]: Die Änderung vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 betrifft nur den italienischen Text ([AS 2025 648](https://fedlex.data.admin.ch/eli/oc/2025/648)).
 
 #### Art. 3
 
@@ -51,7 +52,7 @@ Die Zulassungsprüfung, die Nachprüfung und die Abgaswartung von Fahrzeugen nac
 
 Es gelten die Begriffsbestimmungen der Verordnung vom 19. Juni 1995[^3-1] über die Typengenehmigung von Strassenfahrzeugen.
 
-[^3-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^3-1]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 4
 
@@ -63,8 +64,8 @@ Es gelten die Begriffsbestimmungen der Verordnung vom 19. Juni 1995[^3-1] über 
 
 <sup>3</sup> Für die Anwendung der in Anhang 2 VTS aufgeführten internationalen Regelungen gelten die in den jeweiligen Regelungen enthaltenen Übergangsbestimmungen, wobei für die Zulassung auf den Zeitpunkt der Einfuhr oder der Herstellung in der Schweiz abgestellt wird.
 
-[^4-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^4-2]: Textausgaben der UNECE-Reglemente können beim Bundesministerium für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland kostenlos abgerufen werden unter www.bmvi.de &gt; Verkehr und Mobilität &gt; Verkehrsteilnehmer &gt; Fahrzeuge &gt; KfZ‑technische Vorschriften &gt; UN/ECE-Regelungen, oder sie können gegen Bezahlung bezogen werden beim Bundesamt für Strassen, Abteilung Strassenverkehr, 3003 Bern.
+[^4-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^4-2]: Textausgaben der UNECE-Reglemente können beim Bundesministerium für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland kostenlos abgerufen werden unter: [www.bmvi.de](http://www.bmvi.de) &gt; Verkehr und Mobilität &gt; Verkehrsteilnehmer &gt; Fahrzeuge &gt; KfZ‑technische Vorschriften &gt; UN/ECE-Regelungen, oder sie können gegen Bezahlung bezogen werden beim Bundesamt für Strassen, Abteilung Strassenverkehr, 3003 Bern.
 
 #### Art. 5
 
@@ -78,7 +79,7 @@ In Anhang 1 ist festgelegt, welchen Schweizer Fahrzeugkategorien die EU-Fahrzeug
 
 Die Anerkennung von EU-Gesamtgenehmigungen, EU-Teilgenehmigungen und EU‑Übereinstimmungsbescheinigungen ist in Artikel 1 Absatz 2 und Anhang 1 Kapitel 13 des Abkommens vom 21. Juni 1999[^6-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die gegenseitige Anerkennung von Konformitätsbewertungen geregelt. Vorbehalten bleibt Artikel 4 Absatz 3.
 
-[^6-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^6-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 #### Art. 7
 
@@ -100,7 +101,7 @@ Absatz 1 gilt nicht für:
 
 Für Fahrzeuge, für die keine EU-Genehmigungen nach Artikel 6 oder entsprechende Konformitätserklärungen des Herstellers oder der Herstellerin vorliegen, gelten die technischen Anforderungen der VTS[^8-1].
 
-[^8-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 9
 
@@ -128,7 +129,7 @@ Anhang 1
 <tr><td>gezogenes auswechselbares Gerät (S)</td><td>Arbeitsanhänger (Art. 22 VTS)</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 Anhang 2[^t-1]
 
@@ -159,5 +160,5 @@ II
 
 …[^annex3-lvlu1-2]
 
-[^annex3-lvlu1-1]: [[AS 1995 4171](https://fedlex.data.admin.ch/eli/oc/1995/4171_4171_4171), [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 9 [2475](https://fedlex.data.admin.ch/eli/oc/1998/2475_2475_2475), [2000 2398](https://fedlex.data.admin.ch/eli/oc/2000/382), [2002 3182](https://fedlex.data.admin.ch/eli/oc/2002/473), [2005 4181](https://fedlex.data.admin.ch/eli/oc/2005/547), [2007 2181](https://fedlex.data.admin.ch/eli/oc/2007/302), [2009 5797](https://fedlex.data.admin.ch/eli/oc/2009/698), [2012 1915](https://fedlex.data.admin.ch/eli/oc/2012/263)]
+[^annex3-lvlu1-1]: [[AS 1995 4171](https://fedlex.data.admin.ch/eli/oc/1995/4171_4171_4171); [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 9, [2475](https://fedlex.data.admin.ch/eli/oc/1998/2475_2475_2475); [2000 2398](https://fedlex.data.admin.ch/eli/oc/2000/382); [2002 3182](https://fedlex.data.admin.ch/eli/oc/2002/473); [2005 4181](https://fedlex.data.admin.ch/eli/oc/2005/547); [2007 2181](https://fedlex.data.admin.ch/eli/oc/2007/302); [2009 5797](https://fedlex.data.admin.ch/eli/oc/2009/698); [2012 1915](https://fedlex.data.admin.ch/eli/oc/2012/263)]
 [^annex3-lvlu1-2]: Die Änd. können unter [AS 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)konsultiert werden.
