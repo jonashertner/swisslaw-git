@@ -3,13 +3,12 @@ canton: BS
 number: BaB 111.100
 title: Gemeindeordnung der Bürgergemeinde der Stadt Basel
 language: de
-version: 2023-09-01
-valid_until: 2025-12-31
-version_adopted: 2023-03-21
+version: 2026-01-01
+version_adopted: 2025-03-25
 adopted: 1985-10-22
 in_force: 1984-10-17
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20111.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5981/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6667/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5981/pdf_file"
 
 Gemeindeordnung | Basel: Bürgergemeinde[^t-1]
 
-Vom 22. Oktober 1985 (Stand 1. September 2023)
+Vom 22. Oktober 1985 (Stand 1. Januar 2026)
 
 Der Weitere Bürgerrat der Stadt Basel erlässt
 
@@ -481,6 +480,28 @@ folgende Gemeindeordnung:
 **Aufgaben und Befugnisse**
 
 <sup>1</sup> Die Einbürgerungskommission begutachtet alle Begehren um Aufnahme in das Bürgerrecht der Stadt Basel nach den geltenden Gesetzen und behandelt weitere Geschäfte, die sich auf Bürgerrechtsangelegenheiten beziehen. Sie besorgt die Organisation und die Durchführung von Bürgerkundekursen.
+
+### (III.) 4a Interessenbindungen und Ausstand
+
+#### § 20a
+
+**Offenlegung von Interessenbindungen**
+
+<sup>1</sup> Die Mitglieder des Bürgergemeinderats und seiner Kommissionen, des Bürgerrats und der Einbürgerungskommission legen, unter Vorbehalt des Berufsgeheimnisses, ihre Interessenbindungen offen.
+
+<sup>2</sup> Die Interessenbindungen werden veröffentlicht.
+
+#### § 20b
+
+**Ausstand**
+
+<sup>1</sup> Die Mitglieder des Bürgergemeinderats und seiner Kommissionen, des Bürgerrats und der Einbürgerungskommission sowie Mitarbeitende der Institutionen und der Zentralen Dienste der Bürgergemeinde treten bei Geschäften, an welchen sie oder ihnen nahestehende Personen ein unmittelbares persönliches Interesse haben, in den Ausstand.
+
+<sup>2</sup> Die Ausstandspflicht gilt auch, wenn das Geschäft die unmittelbaren Interessen von natürlichen oder juristischen Personen betrifft, deren gesetzliche, statutarische oder vertragliche Vertretung durch ein Behördenmitglied oder eine Mitarbeitende oder einen Mitarbeitenden wahrgenommen wird.
+
+<sup>3</sup> Die Mitglieder des Bürgerrats treten bei aufsichtsrechtlichen Entscheiden, welche ihr Departement betreffen, in den Ausstand.
+
+<sup>4</sup> Ein Ausstand findet nicht statt bei Behandlung und Entscheid von Geschäften, welche die Bürgergemeinde, ihre Institutionen oder die ihrer Aufsicht unterstellten Stiftungen und Korporationen im Allgemeinen betreffen.
 
 #### § 21
 
