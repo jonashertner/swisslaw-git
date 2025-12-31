@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Februar 1995 über die Armee und die Militärverwalt
 short: MG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20240101/de"
 
 (Militärgesetz, MG)
 
-vom 3. Februar 1995 (Stand am 1. Januar 2024)
+vom 3. Februar 1995 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1048,13 +1048,14 @@ Der Bundesrat regelt das Verfahren und die Kostentragung. Er kann:
 
 <sup>1</sup> Militärdienstpflichtige absolvieren die Rekrutenschule frühestens ab Beginn des 19. Altersjahres und spätestens in dem Jahr, in dem sie das 25. Altersjahr vollenden. Der Zeitpunkt richtet sich nach dem Bedarf der Armee. Die Wünsche der Stellungspflichtigen werden so weit wie möglich berücksichtigt.
 
-<sup>2</sup> Rekrutierte, welche die Rekrutenschule am Ende des Jahres, in dem sie das 25. Altersjahr vollenden, nicht geleistet haben, werden aus der Armee entlassen.
+<sup>2</sup> Rekrutierte, welche die Rekrutenschule am Ende des Jahres, in dem sie das 25. Altersjahr vollenden, nicht absolviert haben, werden aus der Militärdienstpflicht entlassen und der Schutzdienstpflicht unterstellt.[^49-2]
 
 <sup>3</sup> Der Bundesrat kann vorsehen, dass die Rekrutenschule auch noch später absolviert werden kann, sofern innerhalb der Altersgrenzen für die Militärdienstpflicht (Art. 13) die Ausbildungsdienstpflicht (Art. 42) noch erfüllt werden kann.
 
 <sup>4</sup> Die Rekrutenschule dauert 18 Wochen. Der Bundesrat kann für Formationen mit einem besonderen Ausbildungsbedürfnis eine um höchstens sechs Wochen kürzere oder längere Dauer vorsehen.
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^49-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 50
 

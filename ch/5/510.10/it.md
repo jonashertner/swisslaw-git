@@ -4,11 +4,11 @@ title: "Legge federale del 3 febbraio 1995 sull'esercito e sull'amministrazione 
 short: LM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20240101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20240101/it"
 
 (Legge militare, LM)
 
-del 3 febbraio 1995 (Stato 1° gennaio 2024)
+del 3 febbraio 1995 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,13 +27,13 @@ decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 1993 IV 1](https://fedlex.data.admin.ch/eli/fga/1993/4_1_1_1)
-[^ingress-3]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^ingress-3]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ## Titolo primo: Compiti dell’esercito
 
 [^tit1-1]
 
-[^tit1-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit1-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 1
 
@@ -78,7 +78,7 @@ L’esercito può:
 
 [^tit2-1]
 
-[^tit2-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^tit2-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Capitolo 1: Disposizioni generali
 
@@ -90,7 +90,7 @@ L’esercito può:
 
 <sup>2</sup> Il servizio di protezione civile, il servizio civile sostitutivo e l’assoggettamento alla tassa d’esenzione sono disciplinati in leggi federali speciali.
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 3
 
@@ -102,7 +102,7 @@ L’esercito può:
 
 <sup>3</sup> Ha i medesimi diritti e obblighi degli Svizzeri soggetti all’obbligo di prestare servizio militare. Il Consiglio federale può prevedere eccezioni, in particolare per quanto concerne il proscioglimento del servizio militare, la durata dei servizi, l’impiego e la promozione.
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^3-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 4
 
@@ -123,8 +123,8 @@ Il Consiglio federale disciplina i particolari, segnatamente:
 - a. gli obblighi fuori del servizio;
 - b. l’obbligo di entrare in servizio e l’impiego nel servizio attivo.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^4-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^4-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 5
 
@@ -136,7 +136,7 @@ Il Consiglio federale disciplina i particolari, segnatamente:
 
 <sup>3</sup> Il Consiglio federale disciplina i particolari. Può stipulare accordi con altri Stati sul reciproco riconoscimento dell’adempimento dell’obbligo di prestare servizio militare da parte di persone con doppia cittadinanza.[^5-1]
 
-[^5-1]: Nuovo testo del per. giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^5-1]: Nuovo testo del per. giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 6
 
@@ -152,7 +152,7 @@ Il Consiglio federale può ordinare che siano attribuiti o assegnati all’eserc
 
 <sup>2</sup> Le persone attribuite o assegnate all’esercito hanno i medesimi diritti e obblighi degli altri militari. Il Consiglio federale può prevedere eccezioni.
 
-[^6-1]: Introdotta dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^6-1]: Introdotta dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 6a
 
@@ -162,19 +162,19 @@ Il Consiglio federale può ordinare che siano attribuiti o assegnati all’eserc
 
 <sup>2</sup> L’attestato è aggiornato periodicamente.
 
-[^6a-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^6a-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Capitolo 2: Contenuto dell’obbligo di prestare servizio militare
 
 [^tit2-chap2-1]
 
-[^tit2-chap2-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^tit2-chap2-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Sezione 1: Obbligo di leva e reclutamento
 
 [^tit2-chap2-sec1-1]
 
-[^tit2-chap2-sec1-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^tit2-chap2-sec1-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 7
 
@@ -184,7 +184,7 @@ Il Consiglio federale può ordinare che siano attribuiti o assegnati all’eserc
 
 <sup>2</sup> Le persone soggette all’obbligo di leva devono annunciarsi presso le autorità militari competenti per la registrazione nel controllo militare e fornire i dati di cui all’articolo 27. L’obbligo di annunciarsi si estingue alla fine dell’anno in cui le persone soggette all’obbligo di leva compiono 29 anni.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 8
 
@@ -201,7 +201,7 @@ Le persone soggette all’obbligo di leva devono partecipare a una manifestazion
 
 <sup>3</sup> Le Svizzere non soggette all’obbligo di leva e gli Svizzeri all’estero non soggetti all’obbligo di leva possono partecipare alla manifestazione informativa.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 9
 
@@ -215,10 +215,10 @@ Le persone soggette all’obbligo di leva devono partecipare a una manifestazion
 
 <sup>4</sup> Le persone soggette all’obbligo di leva possono essere chiamate in servizio dal giorno in cui sono tenute ad assolvere la scuola reclute (art. 49 cpv. 1).[^9-4]
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^9-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Correzione della Commissione di redazione dell’AF del 16 ago. 2018, pubblicata il 28 ago. 2018 ([RU 2018 3079](https://fedlex.data.admin.ch/eli/oc/2018/490)).
-[^9-3]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^9-4]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^9-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^9-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Correzione della Commissione di redazione dell’AF del 16 ago. 2018, pubblicata il 28 ago. 2018 ([RU 2018 3079](https://fedlex.data.admin.ch/eli/oc/2018/490)).
+[^9-3]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^9-4]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 10
 
@@ -235,8 +235,8 @@ Nell’ambito del reclutamento delle persone soggette all’obbligo di leva sono
 
 <sup>2</sup> Le giornate di reclutamento sono computate sul totale obbligatorio di giorni di servizio d’istruzione (art. 42).
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^10-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^10-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 11
 
@@ -261,18 +261,18 @@ I Cantoni hanno i compiti seguenti:
 <sup>4</sup> La Confederazione assume i costi del reclutamento. I Cantoni assumono i costi della manifestazione informativa.[^11-7]
 
 [^11-1]: Nuova espressione giusta l’all. n. 13 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^11-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-5]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^11-6]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-7]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-4]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-5]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-6]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-7]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Sezione 2: Servizio militare
 
 [^tit2-chap2-sec2-1]
 
-[^tit2-chap2-sec2-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit2-chap2-sec2-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 12
 
@@ -286,7 +286,7 @@ Le persone soggette all’obbligo di prestare servizio militare dichiarate idone
 - d. il servizio attivo (art. 76–91).
 - e. obblighi generali fuori del servizio (art. 25).
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 13
 
@@ -327,10 +327,10 @@ Il Consiglio federale può:
 - b. aumentare di cinque anni al massimo i limiti d’età per un servizio attivo o un servizio d’appoggio;
 - c.[^13-4] prevedere che i sottufficiali superiori, gli ufficiali e gli specialisti possano, se necessario per l’esercito, prolungare la durata dell’obbligo di prestare servizio militare, tuttavia al massimo sino alla fine dell’anno in cui compiono 65 anni.
 
-[^13-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^13-2]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^13-3]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^13-4]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^13-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^13-2]: Introdotta dalla cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^13-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^13-4]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 14
 
@@ -412,12 +412,12 @@ Sono esentati dall’obbligo di prestare servizio militare, finché durano le lo
 
 <sup>6</sup> Non sono esentati dall’obbligo di prestare servizio militare i militari incorporati quali ciberspecialisti che sono indispensabili all’esercito.[^18-6]
 
-[^18-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-2]: Abrogate dal n. I della LF del 18 mar. 2022, con effetto dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-3]: Introdotta dal n. I della LF 18 mar. 2016 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Abrogata dal n. I della LF del 18 mar. 2022, con effetto dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-4]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-5]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-6]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-2]: Abrogate dalla cifra I della LF del 18 mar. 2022, con effetto dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-3]: Introdotta dalla cifra I della LF 18 mar. 2016 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Abrogata dalla cifra I della LF del 18 mar. 2022, con effetto dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-4]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-5]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-6]: Introdotto dalla cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 19
 
@@ -425,7 +425,7 @@ Sono esentati dall’obbligo di prestare servizio militare, finché durano le lo
 
 Le persone esentate dal servizio militare giusta l’articolo 18 sono reincorporate nell’esercito al venir meno del motivo dell’esenzione, se l’esercito ha ancora bisogno di loro.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 20
 
@@ -450,20 +450,20 @@ Possono presentare una domanda scritta e motivata di riesame:
 
 <sup>3</sup> Il Consiglio federale disciplina i presupposti e la procedura.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^20-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^20-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^20-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2019.
-[^20-4]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^20-4]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^20-5]: Corretto: Comando Istruzione.
 [^20-6]: Corretto: Comando Istruzione.
-[^20-7]: Nuovo testo del secondo e terzo per. giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^20-8]: Originario cpv. 1<sup>bis</sup>. Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^20-7]: Nuovo testo del secondo e terzo per. giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^20-8]: Originario cpv. 1<sup>bis</sup>. Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Sezione 3: Non reclutamento, esclusione dall’esercito, degradazione
 
 [^tit2-chap2-sec3-1]
 
-[^tit2-chap2-sec3-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^tit2-chap2-sec3-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 21
 
@@ -491,10 +491,10 @@ Le persone di cui al capoverso 1 possono, su loro domanda, essere ammesse al rec
 
 <sup>3</sup> L’ammissione può essere revocata se a posteriori risulta che le relative condizioni non erano adempiute.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^21-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^21-3]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^21-4]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^21-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^21-3]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^21-4]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 22
 
@@ -522,10 +522,10 @@ Le persone di cui al capoverso 1 possono, su loro domanda, essere riammesse nell
 
 <sup>3</sup> La riammissione può essere revocata se a posteriori risulta che le relative condizioni non erano adempiute.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^22-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^22-3]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^22-4]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^22-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^22-3]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^22-4]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 22a
 
@@ -535,7 +535,7 @@ Le persone di cui al capoverso 1 possono, su loro domanda, essere riammesse nell
 
 <sup>2</sup> L’autorità che pronuncia la degradazione decide nel contempo se il militare interessato sarà ancora chiamato a prestare servizio.
 
-[^22a-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^22a-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 23
 
@@ -554,8 +554,8 @@ Per la decisione, esso può:
 
 <sup>3</sup> Se un tribunale militare ha espressamente rinunciato all’esclusione dall’esercito o alla degradazione, il Comando Operazioni[^23-4] è vincolato a tale decisione.
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^23-2]: Nuova espressione giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^23-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^23-2]: Nuova espressione giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^23-3]: Corretto: Comando Istruzione.
 [^23-4]: Corretto: Comando Istruzione.
 
@@ -567,14 +567,14 @@ Per la decisione, esso può:
 
 <sup>2</sup> Il Consiglio federale disciplina la competenza e la procedura.
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^24-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^24-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Sezione 4: Obblighi fuori del servizio
 
 [^tit2-chap2-sec4-1]
 
-[^tit2-chap2-sec4-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^tit2-chap2-sec4-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 25
 
@@ -591,8 +591,8 @@ Fuori del servizio le persone soggette all’obbligo di prestare servizio milita
 
 <sup>2</sup> Il Consiglio federale può emanare prescrizioni atte a garantire che i militari appartenenti a determinate formazioni e i militari con determinate funzioni siano raggiungibili fuori del servizio.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^25-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^25-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 26
 
@@ -603,7 +603,7 @@ Fuori del servizio, le persone soggette all’obbligo di prestare servizio milit
 - a. audizioni personali nel caso di controlli di sicurezza relativi alle persone concernenti persone soggette all’obbligo di leva e militari;
 - b. visite mediche nel caso di un nuovo esame dell’idoneità al servizio.
 
-[^26-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 27
 
@@ -627,12 +627,12 @@ Esse devono comunicare spontaneamente al Comando Operazioni[^27-5] i seguenti da
 
 <sup>2</sup> Il Consiglio federale disciplina l’obbligo di notificazione degli Svizzeri all’estero, delle persone che prestano un servizio civile e delle persone che beneficiano di un congedo all’estero.
 
-[^27-1]: Introdotta dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^27-2]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^27-3]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^27-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^27-1]: Introdotta dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^27-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^27-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^27-4]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^27-5]: Corretto: Comando Istruzione.
-[^27-6]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^27-6]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ## Titolo terzo: Diritti e obblighi dei militari
 
@@ -648,7 +648,7 @@ Esse devono comunicare spontaneamente al Comando Operazioni[^27-5] i seguenti da
 
 <sup>3</sup> Il Consiglio federale emana le disposizioni necessarie concernenti i diritti e gli obblighi dei militari.[^28-1]
 
-[^28-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^28-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 29
 
@@ -662,7 +662,7 @@ Esse devono comunicare spontaneamente al Comando Operazioni[^27-5] i seguenti da
 
 <sup>4</sup> L’Assemblea federale emana le disposizioni concernenti il soldo, la sussistenza, l’alloggio e i viaggi di servizio.
 
-[^29-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 29a
 
@@ -672,8 +672,8 @@ Esse devono comunicare spontaneamente al Comando Operazioni[^27-5] i seguenti da
 
 <sup>2</sup> Il Consiglio federale emana le disposizioni concernenti il contributo per la formazione.
 
-[^29a-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^29a-2]: Nuovo testo giusta il n. I della LF 27 set. 2019, in vigore dal 1° giu. 2020 ([RU 2020 1547](https://fedlex.data.admin.ch/eli/oc/2020/307); [FF 2019 1867](https://fedlex.data.admin.ch/eli/fga/2019/618)).
+[^29a-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^29a-2]: Nuovo testo giusta la cifra I della LF 27 set. 2019, in vigore dal 1° giu. 2020 ([RU 2020 1547](https://fedlex.data.admin.ch/eli/oc/2020/307); [FF 2019 1867](https://fedlex.data.admin.ch/eli/fga/2019/618)).
 
 #### Art. 30
 
@@ -685,8 +685,8 @@ Esse devono comunicare spontaneamente al Comando Operazioni[^27-5] i seguenti da
 
 <sup>2</sup> L’indennità per perdita di guadagno è disciplinata da una legge federale speciale.
 
-[^30-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^30-2]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^30-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^30-2]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 31
 
@@ -696,7 +696,7 @@ Esse devono comunicare spontaneamente al Comando Operazioni[^27-5] i seguenti da
 
 <sup>2</sup> La Confederazione provvede ai relativi servizi. Essi sono abilitati a elaborare dati personali, compresi quelli degni di particolare protezione, sempreché e finché l’esecuzione dei loro compiti lo esiga.[^31-1]
 
-[^31-1]: Nuovo testo del per. giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^31-1]: Nuovo testo del per. giusta l’all. 1 cifra II n. 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 2: Obblighi generali
 
@@ -726,7 +726,7 @@ Esse devono comunicare spontaneamente al Comando Operazioni[^27-5] i seguenti da
 
 L’assicurazione contro le malattie e gli infortuni delle persone soggette all’obbligo di leva e dei militari è disciplinata da una legge federale speciale. Per i danni alle persone la responsabilità della Confederazione si fonda esclusivamente su tale legge speciale.
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 34a
 
@@ -738,7 +738,7 @@ L’assicurazione contro le malattie e gli infortuni delle persone soggette all�
 
 <sup>3</sup> Il Consiglio federale stabilisce le condizioni per la fornitura delle prestazioni. Designa i terzi a favore dei quali la sanità militare fornisce prestazioni. Si considerano terzi in particolare gli enti pubblici, gli impiegati dell’Amministrazione federale nonché i pazienti civili curati nel quadro dell’istruzione e durante gli impieghi.
 
-[^34a-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^34a-1]: Introdotto dalla cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 35
 
@@ -750,12 +750,12 @@ L’assicurazione contro le malattie e gli infortuni delle persone soggette all�
 
 <sup>3</sup> Può offrire alle persone soggette all’obbligo di leva e ai militari la possibilità di effettuare esami del sangue e vaccinazioni.[^35-6]
 
-[^35-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^35-2]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
 [^35-3]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
-[^35-4]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^35-5]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^35-6]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^35-4]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^35-5]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^35-6]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 35a
 
@@ -763,7 +763,7 @@ L’assicurazione contro le malattie e gli infortuni delle persone soggette all�
 
 Il DDPS può prevedere esami medici di routine periodici effettuati da un medico di fiducia o dal Servizio medico per gli alti ufficiali superiori, il personale militare della polizia militare e i quadri di massimo livello dell’amministrazione militare della Confederazione.
 
-[^35a-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^35a-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Capitolo 4: Protezione giuridica in affari non patrimoniali del servizio militare
 
@@ -781,7 +781,7 @@ Il DDPS può prevedere esami medici di routine periodici effettuati da un medico
 
 <sup>5</sup> Il Consiglio federale disciplina i particolari.
 
-[^36-1]: Nuova espressione giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^36-1]: Nuova espressione giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 37
 
@@ -805,7 +805,7 @@ Contro chiamate in servizio, decisioni concernenti differimento del servizio, se
 
 Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissioni per la visita sanitaria sono impugnabili mediante ricorso presso un’altra commissione per la visita sanitaria. La decisione di quest’ultima è inappellabile.
 
-[^39-1]: Nuova espressione giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^39-1]: Nuova espressione giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 40
 
@@ -822,7 +822,7 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 [^tit3-chap5-1]
 
-[^tit3-chap5-1]: Introdotto dal n. I 5 della LF del 23 giu. 2000 concernente le liberalità e le onorificenze di autorità estere, in vigore dal 1° feb. 2001 ([RU 2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^tit3-chap5-1]: Introdotto dalla cifra I n. 5 della LF del 23 giu. 2000 concernente le liberalità e le onorificenze di autorità estere, in vigore dal 1° feb. 2001 ([RU 2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 #### Art. 40a
 
@@ -834,7 +834,7 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 [^tit3-chap6-1]
 
-[^tit3-chap6-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^tit3-chap6-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 40b
 
@@ -860,8 +860,8 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 <sup>4</sup> ...[^41-2]
 
-[^41-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^41-2]: Abrogato dal n. I della LF 18 mar. 2016, con effetto dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^41-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^41-2]: Abrogato dalla cifra I della LF 18 mar. 2016, con effetto dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 42
 
@@ -873,8 +873,8 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 <sup>3</sup> Il Consiglio federale stabilisce il numero di giorni di servizio d’istruzione per gli altri militari. Detto numero ammonta a 1700 giorni al massimo.
 
-[^42-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^42-2]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^42-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^42-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 43
 
@@ -884,7 +884,7 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 <sup>2</sup> I servizi d’istruzione prestati e retribuiti nell’ambito di un rapporto di lavoro su base contrattuale non danno diritto al soldo e non sono computati.
 
-[^43-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^43-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 44
 
@@ -894,7 +894,7 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 <sup>2</sup> I servizi d’istruzione prestati su base volontaria non sono computati sul totale obbligatorio di giorni di servizio d’istruzione.
 
-[^44-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^44-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 45
 
@@ -902,7 +902,7 @@ Le decisioni circa l’idoneità al servizio militare pronunciate dalle Commissi
 
 Se una formazione è riorganizzata o equipaggiata a nuovo, il Consiglio federale può ordinare servizi d’istruzione supplementari e stabilirne la durata.
 
-[^45-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^45-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 46
 
@@ -912,7 +912,7 @@ Se una formazione è riorganizzata o equipaggiata a nuovo, il Consiglio federale
 
 <sup>2</sup> Il DDPS stabilisce gli obiettivi e la condotta dell’istruzione per l’impiego dell’esercito.
 
-[^46-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^46-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 47
 
@@ -928,8 +928,8 @@ Se una formazione è riorganizzata o equipaggiata a nuovo, il Consiglio federale
 
 <sup>5</sup> Il personale militare è specificamente istruito per la propria attività. L’istruzione può aver luogo in collaborazione con università e scuole universitarie professionali, con specialisti e con forze armate estere.
 
-[^47-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^47-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^47-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^47-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 48
 
@@ -939,7 +939,7 @@ Se una formazione è riorganizzata o equipaggiata a nuovo, il Consiglio federale
 
 <sup>2</sup> Il Consiglio federale disciplina l’organizzazione dell’istruzione delle truppe.
 
-[^48-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^48-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 48a
 
@@ -967,8 +967,8 @@ Il Consiglio federale emana disposizioni sul servizio militare obbligatorio o vo
 - e. le assicurazioni;
 - f. la responsabilità.[^48a-2]
 
-[^48a-1]: Introdotto dal n. I della LF del 6 ott. 2000 ([RU 2001 2264](https://fedlex.data.admin.ch/eli/oc/2001/323); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)). Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^48a-2]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^48a-1]: Introdotto dalla cifra I della LF del 6 ott. 2000 ([RU 2001 2264](https://fedlex.data.admin.ch/eli/oc/2001/323); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)). Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^48a-2]: Introdotto dalla cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 48b
 
@@ -980,7 +980,7 @@ Il Consiglio federale emana disposizioni sul servizio militare obbligatorio o vo
 
 <sup>3</sup> A tale scopo la Confederazione gestisce un centro di competenza per la medicina militare e la medicina in caso di catastrofe. Il centro di competenza è un’unità amministrativa del DDPS. Esso può incaricare terzi dell’esecuzione di misure di istruzione e di formazione continua.
 
-[^48b-1]: Introdotto dal n. I della LF del 19 mar. 2010 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Nuovo testo giusta l’all. n. 21 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^48b-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Nuovo testo giusta l’all. n. 21 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 48c
 
@@ -990,7 +990,7 @@ Il Consiglio federale emana disposizioni sul servizio militare obbligatorio o vo
 
 <sup>2</sup> Può incaricare terzi dell’esecuzione di misure di istruzione e di formazione continua.
 
-[^48c-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^48c-1]: Introdotto dalla cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 48d
 
@@ -1043,7 +1043,7 @@ Il Consiglio federale disciplina la procedura e l’assunzione dei costi. Può:
 
 <sup>8</sup> Le truppe in servizio d’istruzione possono prestare, non armate, aiuto spontaneo per la gestione di eventi imprevisti.
 
-[^48d-1]: Introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^48d-1]: Introdotto dalla cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Capitolo 2: Istruzione di base
 
@@ -1053,13 +1053,14 @@ Il Consiglio federale disciplina la procedura e l’assunzione dei costi. Può:
 
 <sup>1</sup> Le persone soggette all’obbligo di prestare servizio militare assolvono la scuola reclute al più presto dall’inizio dell’anno in cui compiono 19 anni e al più tardi nell’anno in cui compiono 25 anni. Il momento è stabilito sulla base delle necessità dell’esercito. I desideri delle persone soggette all’obbligo di leva sono considerati per quanto possibile.
 
-<sup>2</sup> I reclutati che alla fine dell’anno in cui compiono 25 anni non hanno ancora assolto la scuola reclute sono prosciolti dall’esercito.
+<sup>2</sup> I reclutati che alla fine dell’anno in cui compiono 25 anni non hanno ancora assolto la scuola reclute sono prosciolti dall’obbligo di prestare servizio militare e assoggettati all’obbligo di prestare servizio di protezione civile.[^49-2]
 
 <sup>3</sup> Il Consiglio federale può prevedere che la scuola reclute possa essere assolta anche dopo suddetto termine, sempre che il totale obbligatorio di giorni di servizio d’istruzione (art. 42) possa ancora essere adempiuto entro i limiti d’età dell’obbligo di prestare servizio militare (art. 13).
 
 <sup>4</sup> La scuola reclute dura 18 settimane. Il Consiglio federale può prevedere che la durata della scuola reclute possa essere ridotta o aumentata di sei settimane al massimo nel caso di formazioni con particolari esigenze in materia di istruzione.
 
-[^49-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^49-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^49-2]: Nuovo testo giusta l’all. n. 1 della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 ([RU 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 50
 
@@ -1084,13 +1085,13 @@ Dopo aver assolto la scuola reclute gli specialisti possono completare la loro i
 
 <sup>4</sup> Se particolari esigenze in materia di istruzione lo impongono, il Consiglio federale può prevedere corsi di ripetizione più brevi o corsi di ripetizione a giornata.
 
-[^51-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^51-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 52
 
 [^52-1]
 
-[^52-1]: Abrogato dal n. I della LF del 18 mar. 2022, con effetto dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^52-1]: Abrogato dalla cifra I della LF del 18 mar. 2022, con effetto dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 53
 
@@ -1110,7 +1111,7 @@ Per militari con determinate funzioni il Consiglio federale può ordinare serviz
 
 [^tit4-chap3a-1]
 
-[^tit4-chap3a-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^tit4-chap3a-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 54a
 
@@ -1122,15 +1123,15 @@ Per militari con determinate funzioni il Consiglio federale può ordinare serviz
 
 <sup>4</sup> I militari in ferma continuata che hanno assolto interamente il servizio d’istruzione obbligatorio restano incorporati nell’esercito per quattro anni. In caso di necessità possono essere chiamati in servizio per impieghi dell’esercito.[^54a-3]
 
-[^54a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^54a-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^54a-3]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^54a-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^54a-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^54a-3]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Capitolo 4: Istruzione dei sottufficiali, dei sottufficiali superiori e degli ufficiali
 
 [^tit4-chap4-1]
 
-[^tit4-chap4-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit4-chap4-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 55
 
@@ -1150,14 +1151,14 @@ Il Consiglio federale disciplina:
 
 <sup>4</sup> Il Consiglio federale può autorizzare il DDPS a disciplinare i dettagli relativi ai servizi d’istruzione, quali il frazionamento, i partecipanti e le condizioni d’ammissione.
 
-[^55-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^55-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^55-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^55-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 56 a 58
 
 [^5658-1]
 
-[^5658-1]: Abrogati dal n. I della LF del 19 mar. 2010, con effetto dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^5658-1]: Abrogati dalla cifra I della LF del 19 mar. 2010, con effetto dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Capitolo 5: Servizio nelle scuole, nei corsi e nell’amministrazione militare
 
@@ -1176,7 +1177,7 @@ Vi è bisogno imperativo quando:
 
 <sup>4</sup> I servizi prestati nell’amministrazione militare della Confederazione o dei Cantoni da personale militare o da impiegati della corrispondente amministrazione militare nel quadro del rispettivo rapporto di lavoro non danno diritto al soldo e non sono computati.[^59-1]
 
-[^59-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^59-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Capitolo 6: Impiego dei militari al di fuori della truppa
 
@@ -1190,8 +1191,8 @@ Vi è bisogno imperativo quando:
 
 <sup>3</sup> Il Consiglio federale designa i militari che non vengono incorporati in una formazione.
 
-[^60-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^60-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^60-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^60-2]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 61
 
@@ -1203,9 +1204,9 @@ Vi è bisogno imperativo quando:
 
 <sup>3</sup> Il Consiglio federale può mettere durevolmente a disposizione delle autorità civili militari incaricati del coordinamento per consentire all’esercito di adempiere rapidamente ed efficacemente compiti d’appoggio.[^61-3]
 
-[^61-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^61-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^61-3]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^61-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^61-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^61-3]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Capitolo 7: Attività fuori del servizio
 
@@ -1221,8 +1222,8 @@ Vi è bisogno imperativo quando:
 
 <sup>4</sup> La Confederazione organizza corsi d’istruzione.
 
-[^62-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^62-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^62-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^62-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 63
 
@@ -1245,8 +1246,8 @@ Finché soggiacciono all’obbligo di prestare servizio militare, i seguenti mil
 
 <sup>6</sup> La Confederazione indennizza le associazioni e le società di tiro riconosciute per l’organizzazione e lo svolgimento degli esercizi federali.
 
-[^63-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^63-2]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^63-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^63-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Capitolo 8: Istruzione premilitare
 
@@ -1260,13 +1261,13 @@ Finché soggiacciono all’obbligo di prestare servizio militare, i seguenti mil
 
 [^tit5-1]
 
-[^tit5-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^tit5-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Capitolo 1: Disposizioni generali
 
 [^tit5-chap1-1]
 
-[^tit5-chap1-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^tit5-chap1-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 65
 
@@ -1274,7 +1275,7 @@ Finché soggiacciono all’obbligo di prestare servizio militare, i seguenti mil
 
 L’esercito è impiegato nel servizio di promovimento della pace, nel servizio d’appoggio e nel servizio attivo.
 
-[^65-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^65-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 65a
 
@@ -1286,7 +1287,7 @@ L’esercito è impiegato nel servizio di promovimento della pace, nel servizio 
 
 <sup>3</sup> Nel caso di un’importante chiamata in servizio di truppe o di impieghi di lunga durata, il Consiglio federale può ordinare che il servizio d’appoggio non sia computato o sia computato soltanto in parte sul totale obbligatorio di giorni di servizio d’istruzione.
 
-[^65a-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^65a-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 65b
 
@@ -1294,7 +1295,7 @@ L’esercito è impiegato nel servizio di promovimento della pace, nel servizio 
 
 Il Consiglio federale può prevedere uno stato di prontezza elevata per le formazioni di milizia che devono essere disponibili per gli impieghi con particolare rapidità.
 
-[^65b-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^65b-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 65c
 
@@ -1306,7 +1307,7 @@ Il Consiglio federale può prevedere uno stato di prontezza elevata per le forma
 
 <sup>3</sup> Il DDPS disciplina i rapporti di subordinazione per la durata dell’impiego.
 
-[^65c-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^65c-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Capitolo 2: Servizio di promovimento della pace
 
@@ -1320,8 +1321,8 @@ Il Consiglio federale può prevedere uno stato di prontezza elevata per le forma
 
 <sup>3</sup> L’annuncio per partecipare a un impiego di promovimento della pace è volontario.[^66-2]
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 6 ott. 2000, in vigore dal 1° set. 2001 ([RU 2001 2266](https://fedlex.data.admin.ch/eli/oc/2001/324); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)).
-[^66-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 6 ott. 2000, in vigore dal 1° set. 2001 ([RU 2001 2266](https://fedlex.data.admin.ch/eli/oc/2001/324); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)).
+[^66-2]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 66a
 
@@ -1331,7 +1332,7 @@ Il Consiglio federale può prevedere uno stato di prontezza elevata per le forma
 
 <sup>2</sup> È vietata la partecipazione ad azioni di combattimento di imposizione della pace.
 
-[^66a-1]: Introdotto dal n. I dell’O del 6 ott. 2000, in vigore dal 1° set. 2001 ([RU 2001 2266](https://fedlex.data.admin.ch/eli/oc/2001/324); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)).
+[^66a-1]: Introdotto dalla cifra I dell’O del 6 ott. 2000, in vigore dal 1° set. 2001 ([RU 2001 2266](https://fedlex.data.admin.ch/eli/oc/2001/324); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)).
 
 #### Art. 66b
 
@@ -1345,7 +1346,7 @@ Il Consiglio federale può prevedere uno stato di prontezza elevata per le forma
 
 <sup>4</sup> Un impiego armato dev’essere approvato dall’Assemblea federale qualora siano impegnati oltre 100 militari oppure la sua durata sia superiore a tre settimane. In casi urgenti, il Consiglio federale può chiedere la successiva approvazione dell’Assemblea federale.
 
-[^66b-1]: Introdotto dal n. I dell’O del 6 ott. 2000, in vigore dal 1° set. 2001 ([RU 2001 2266](https://fedlex.data.admin.ch/eli/oc/2001/324); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)).
+[^66b-1]: Introdotto dalla cifra I dell’O del 6 ott. 2000, in vigore dal 1° set. 2001 ([RU 2001 2266](https://fedlex.data.admin.ch/eli/oc/2001/324); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)).
 
 ### Capitolo 3: Servizio d’appoggio
 
@@ -1374,7 +1375,7 @@ L’appoggio ha luogo su richiesta delle autorità interessate della Confederazi
 
 <sup>4</sup> Il Consiglio federale stabilisce in ogni singolo caso quale armamento è necessario alla truppa per la protezione delle persone e delle truppe impiegate nonché per l’adempimento del suo compito.
 
-[^67-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^67-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 68
 
@@ -1399,7 +1400,7 @@ All’estero, il servizio d’appoggio a favore di autorità civili è prestato:
 
 <sup>4</sup> Per disciplinare le questioni giuridiche e amministrative dell’impiego, il Consiglio federale può concludere le convenzioni internazionali necessarie allo svolgimento dello stesso.
 
-[^69-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^69-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 70
 
@@ -1417,8 +1418,8 @@ La competenza in materia di chiamata in servizio e di assegnazione alle autorit�
 
 <sup>3</sup> Senza chiedere l’approvazione dell’Assemblea federale il Consiglio federale può chiamare in servizio contemporaneamente dieci militari al massimo per impieghi di durata superiore a tre settimane. Esso presenta annualmente un rapporto su tali chiamate in servizio alle Commissioni della politica estera e della politica di sicurezza.[^70-2]
 
-[^70-1]: Introdotta dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^70-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^70-1]: Introdotta dalla cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^70-2]: Introdotto dalla cifra I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 71
 
@@ -1436,7 +1437,7 @@ La competenza in materia di chiamata in servizio e di assegnazione alle autorit�
 
 Il Consiglio federale disciplina gli obblighi dei Cantoni, dei Comuni e dei privati in caso di chiamata in servizio per un servizio d’appoggio.
 
-[^72-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^72-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 73
 
@@ -1455,8 +1456,8 @@ Per servizi d’appoggio all’estero prestati da impiegati dell’amministrazio
 
 <sup>3</sup> Il ricorso a personale esterno all’amministrazione federale è disciplinato mediante contratto.[^73-2]
 
-[^73-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^73-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^73-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^73-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 74
 
@@ -1500,7 +1501,7 @@ Il servizio attivo è prestato per:
 
 <sup>2</sup> Durante il servizio attivo le truppe possono assumere anche compiti del servizio d’appoggio e del servizio di promovimento della pace.
 
-[^76-1]: Introdotta dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^76-1]: Introdotta dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 77
 
@@ -1518,10 +1519,10 @@ Il servizio attivo è prestato per:
 
 <sup>6</sup> ...[^77-4]
 
-[^77-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^77-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^77-3]: Nuovo testo del per. giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^77-4]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 [RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^77-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^77-2]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^77-3]: Nuovo testo del per. giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^77-4]: Abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 [RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 78
 
@@ -1553,7 +1554,7 @@ Il servizio attivo è prestato per:
 
 <sup>5</sup> In servizio attivo il Consiglio federale può ordinare la messa fuori uso di esercizi, impianti e magazzini di merci.
 
-[^80-1]: Nuovo testo del per. giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^80-1]: Nuovo testo del per. giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 81
 
@@ -1574,13 +1575,13 @@ In servizio attivo il Consiglio federale può decretare l’esercizio militare p
 
 <sup>5</sup> La Confederazione risarcisce equamente le imprese per il danno causato loro dall’esercizio militare.
 
-[^81-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^81-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 82
 
 [^82-1]
 
-[^82-1]: Abrogato dal n. I della LF 18 mar. 2016, con effetto dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^82-1]: Abrogato dalla cifra I della LF 18 mar. 2016, con effetto dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 83
 
@@ -1598,9 +1599,9 @@ In servizio attivo il Consiglio federale può decretare l’esercizio militare p
 
 <sup>6</sup> Nel servizio di difesa nazionale, la Confederazione provvede per la sicurezza interna, per quanto sia necessario impiegare truppe a tal fine. Il Consiglio federale impartisce le necessarie istruzioni al comandante in capo dell’esercito.
 
-[^83-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^83-2]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^83-3]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^83-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^83-2]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^83-3]: Abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Sezione 2: Comando supremo
 
@@ -1620,7 +1621,7 @@ Il generale è il comandante in capo dell’esercito.
 
 <sup>3</sup> Su proposta del generale il Consiglio federale ne designa il sostituto.[^85-1]
 
-[^85-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^85-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 86
 
@@ -1652,7 +1653,7 @@ Il Consiglio federale consulta il generale in merito alle decisioni relative all
 
 <sup>2</sup> Il Consiglio federale disciplina lo statuto degli interessati sotto il profilo del diritto del personale.[^89-1] Fatte salve le pretese pecuniarie, non è vincolato dalle disposizioni legali in materia di personale.
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^89-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 90
 
@@ -1670,7 +1671,7 @@ In stato di grave necessità il Consiglio federale può ordinare che il generale
 
 [^tit5a-1]
 
-[^tit5a-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^tit5a-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 92
 
@@ -1701,7 +1702,7 @@ Il Consiglio federale, tenendo conto del tipo di compiti e del livello d’istru
 - a. l’esercizio dei poteri di polizia e l’impiego delle armi da parte dei militari secondo il capoverso 2;
 - b. i compiti per il cui adempimento gli impiegati dell’amministrazione militare della Confederazione possono essere armati.
 
-[^92-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^92-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^92-2]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 92a
@@ -1722,7 +1723,7 @@ Il Consiglio federale, tenendo conto del tipo di compiti e del livello d’istru
 
 <sup>7</sup> Il DDPS emana le prescrizioni per l’impiego delle armi previa consultazione del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni.
 
-[^92a-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^92a-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ## Titolo sesto: Organizzazione dell’esercito
 
@@ -1730,7 +1731,7 @@ Il Consiglio federale, tenendo conto del tipo di compiti e del livello d’istru
 
 [^tit6-chap1-1]
 
-[^tit6-chap1-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit6-chap1-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 93
 
@@ -1740,7 +1741,7 @@ Il Consiglio federale, tenendo conto del tipo di compiti e del livello d’istru
 
 <sup>2</sup> L’Assemblea federale emana i principi relativi all’organizzazione dell’esercito, definisce la struttura dell’esercito e stabilisce le Armi, le formazioni di professionisti e i servizi ausiliari. Può delegare le sue competenze al Consiglio federale e al DDPS.
 
-[^93-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^93-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 94
 
@@ -1760,19 +1761,19 @@ L’organizzazione dell’esercito secondo il principio di milizia è fondata:
 
 <sup>2</sup> È consentito derogare al principio di milizia soltanto nella misura prevista dalla legge e se assolutamente indispensabile all’adempimento dei compiti dell’esercito.
 
-[^94-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^94-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 95
 
 [^95-1]
 
-[^95-1]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^95-1]: Abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Capitolo 2: Tecnologie militari dell’informazione e della comunicazione
 
 [^tit6-chap2-1]
 
-[^tit6-chap2-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^tit6-chap2-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 96
 
@@ -1782,19 +1783,19 @@ L’organizzazione dell’esercito secondo il principio di milizia è fondata:
 
 <sup>2</sup> Nel quadro dell’allestimento, della gestione e dell’utilizzo o della protezione delle tecnologie militari dell’informazione e della comunicazione l’esercito può collaborare con le autorità civili.
 
-[^96-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^96-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 97 e 98
 
 [^9798-1]
 
-[^9798-1]: Abrogati dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^9798-1]: Abrogati dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Capitolo 3: Servizio informazioni e Sicurezza militare
 
 [^tit6-chap3-1]
 
-[^tit6-chap3-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit6-chap3-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 99
 
@@ -1835,20 +1836,20 @@ Il Consiglio federale disciplina:
 <sup>6</sup> Il Consiglio federale definisce ogni anno la collaborazione del servizio informazioni con autorità estere; approva accordi amministrativi internazionali del servizio informazioni e provvede affinché tali accordi divengano esecutivi soltanto dopo aver ottenuto l’approvazione.[^99-15]
 
 [^99-1]: Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-2]: Per. introdotto dal n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^99-2]: Per. introdotto dalla cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^99-3]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
-[^99-4]: Introdotto dall’all. n. 4 dellla LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-4]: Introdotto dall’all. n. 4 dellla LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. cifra II n. 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^99-5]: Introdotto dall’all. n. 4 dellla LF del 23 dic. 2011, in vigore dal 1° nov. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)[5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^99-6]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-7]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^99-8]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-9]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^99-10]: Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-11]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^99-12]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-13]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
-[^99-14]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^99-15]: Introdotto dall’all. n. II 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-6]: Introdotto dall’all. cifra II n. 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-7]: Nuovo testo giusta l’all. 1 cifra II n. 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-8]: Introdotto dalla cifra I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
+[^99-9]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^99-10]: Nuovo testo giusta l’all. cifra II n. 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-11]: Nuovo testo giusta l’all. 1 la cifra II n. 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-12]: Introdotto dall’all. cifra II n. 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-13]: Introdotto dalla cifra I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2008 sul servizio informazioni civile, in vigore dal 1° gen. 2010 ([RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [FF 2008 3439](https://fedlex.data.admin.ch/eli/fga/2008/810)[3457](https://fedlex.data.admin.ch/eli/fga/2008/812)).
+[^99-14]: Introdotto dalla cifra I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Nuovo testo giusta l’all. cifra II n. 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^99-15]: Introdotto dall’all. cifra II n. 8 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 100
 
@@ -1893,12 +1894,12 @@ Il Consiglio federale disciplina:
   - 1\. la protezione dei dati e la facoltà di trattare dati personali all’insaputa delle persone interessate,
   - 2\.[^100-6] le eccezioni all’obbligo di notificare all’Incaricato federale della protezione dei dati e della trasparenza i registri delle attività di trattamento (art. 12 cpv. 4 LPD) quando tale notifica pregiudicasse la raccolta di informazioni.
 
-[^100-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^100-2]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^100-3]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^100-2]: Nuovo testo giusta l’all. 1 cifra II n. 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-3]: Nuovo testo giusta l’all. 1 cifra II n. 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^100-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^100-5]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
-[^100-6]: Nuovo testo giusta l’all. 1 n. II 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^100-6]: Nuovo testo giusta l’all. 1 cifra II n. 40 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Capitolo 4: Formazioni di professionisti
 
@@ -1919,13 +1920,13 @@ Possono essere costituite formazioni di professionisti per adempiere i compiti s
 
 <sup>3</sup> Essi sono assunti in qualità di personale militare.
 
-[^101-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^101-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Capitolo 5: Gradi e funzioni particolari
 
 [^tit6-chap5-1]
 
-[^tit6-chap5-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit6-chap5-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 102
 
@@ -1946,8 +1947,8 @@ I gradi dell’esercito sono i seguenti:
   - 4\. alti ufficiali superiori: brigadiere, divisionario, comandante di corpo,
   - 5\. comandante in capo dell’esercito: generale.
 
-[^102-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^102-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^102-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^102-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 103
 
@@ -1968,9 +1969,9 @@ Per determinare l’idoneità di un aspirante, l’autorità competente può:
 
 <sup>4</sup> Le promozioni e le nomine che contraddicono alla presente legge o alle sue disposizioni d’esecuzione possono essere invalidate.
 
-[^103-1]: Nuova espressione giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^103-2]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^103-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^103-1]: Nuova espressione giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^103-2]: Abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^103-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 104
 
@@ -1984,8 +1985,8 @@ Per determinare l’idoneità di un aspirante, l’autorità competente può:
 
 <sup>4</sup> Se la funzione di ufficiale non viene più esercitata, di regola la nomina ad ufficiale specialista resta acquisita. Il Consiglio federale stabilisce le eccezioni.
 
-[^104-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^104-2]: Nuovo testo del per. giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^104-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^104-2]: Nuovo testo del per. giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 104a
 
@@ -1995,13 +1996,13 @@ Per determinare l’idoneità di un aspirante, l’autorità competente può:
 
 <sup>2</sup> Il Consiglio federale determina e definisce dettagliatamente le funzioni in un’ordinanza.
 
-[^104a-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^104a-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ## Titolo settimo: Materiale dell’esercito
 
 [^tit7-1]
 
-[^tit7-1]: Nuovo testo giusta il n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^tit7-1]: Nuovo testo giusta la cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### Capitolo 1: Disposizioni generali
 
@@ -2014,7 +2015,7 @@ Il materiale dell’esercito comprende:
 - a. l’equipaggiamento personale;
 - b. il rimanente materiale dell’esercito.
 
-[^105-1]: Nuovo testo giusta il n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^105-1]: Nuovo testo giusta la cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 106
 
@@ -2024,8 +2025,8 @@ Il materiale dell’esercito comprende:
 
 <sup>2</sup> La Confederazione fornisce se possibile materiale di origine svizzera, prendendo in considerazione tutte le regioni del Paese.[^106-2]
 
-[^106-1]: Nuovo testo giusta il n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^106-2]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^106-1]: Nuovo testo giusta la cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^106-2]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 106a
 
@@ -2035,13 +2036,13 @@ Il materiale dell’esercito comprende:
 
 <sup>2</sup> Può incaricare della gestione e della manutenzione i Cantoni, dietro rimunerazione.
 
-[^106a-1]: Introdotto dal n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^106a-1]: Introdotto dalla cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 107
 
 [^107-1]
 
-[^107-1]: Abrogato dal n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^107-1]: Abrogato dalla cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 108
 
@@ -2069,8 +2070,8 @@ La Confederazione deve tenere pronta un’adeguata scorta di beni di sostegno ch
 
 <sup>4</sup> Il Consiglio federale sottopone per approvazione all’Assemblea federale un messaggio sulla messa fuori servizio o la liquidazione di grandi sistemi d’arma.[^109a-2]
 
-[^109a-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^109a-2]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^109a-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^109a-2]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 109b
 
@@ -2088,7 +2089,7 @@ Tali accordi possono in particolare concernere:
 - d. le condizioni della cooperazione, relativa a progetti specifici, con l’industria nel campo dell’armamento;
 - e. la determinazione di progetti comuni in tale campo.
 
-[^109b-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^109b-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Capitolo 2: Equipaggiamento personale
 
@@ -2104,14 +2105,14 @@ Tali accordi possono in particolare concernere:
 
 <sup>4</sup> Esso disciplina la consegna dell’equipaggiamento personale ai membri del Corpo delle guardie di confine. Gli articoli 112, 114 e 139 capoverso 2 si applicano per analogia.[^110-2]
 
-[^110-1]: Abrogato dal n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^110-1]: Abrogato dalla cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^110-2]: Introdotto dall’all. n. 4 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
 #### Art. 111
 
 [^111-1]
 
-[^111-1]: Abrogato dal n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^111-1]: Abrogato dalla cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 112
 
@@ -2123,7 +2124,7 @@ Tali accordi possono in particolare concernere:
 
 <sup>3</sup> Gli ex militari sono tenuti a custodire al sicuro l’equipaggiamento personale e a provvedere alla relativa manutenzione fino alla sua restituzione.[^112-1]
 
-[^112-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^112-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 113
 
@@ -2171,11 +2172,11 @@ Per valutare il potenziale di pericolo o di abuso, l’autorità di controllo de
 
 <sup>8</sup> I terzi possono comunicare ai servizi competenti del DDPS, indicandone i motivi, qualsiasi segno o indizio ai sensi del capoverso 1 o un corrispondente sospetto.
 
-[^113-1]: Nuovo testo giusta il n. I 3 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^113-1]: Nuovo testo giusta la cifra I n. 3 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^113-2]: La correzione della CdR dell’AF del 23 ago. 2016, pubblicata il 13 set. 2016 concerne soltanto il testo francese ([RU 2016 3167](https://fedlex.data.admin.ch/eli/oc/2016/530)).
 [^113-3]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 [^113-4]: Nuovo testo giusta l’all. 1 n. 12 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^113-5]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^113-5]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 114
 
@@ -2191,15 +2192,15 @@ Per valutare il potenziale di pericolo o di abuso, l’autorità di controllo de
 
 <sup>5</sup> Il DDPS disciplina le modalità secondo cui l’uniforme può eccezionalmente essere indossata da persone che non sono militari.[^114-3]
 
-[^114-1]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^114-2]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^114-3]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^114-1]: Abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^114-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^114-3]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 115
 
 [^115-1]
 
-[^115-1]: Abrogato dal n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^115-1]: Abrogato dalla cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ## Titolo ottavo: Direzione dell’esercito e amministrazione militare
 
@@ -2213,13 +2214,13 @@ Per valutare il potenziale di pericolo o di abuso, l’autorità di controllo de
 
 <sup>2</sup> Il Consiglio federale stabilisce il Comando dell’esercito e ne definisce i compiti. Sono fatti salvi gli articoli 84–91.
 
-[^116-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^116-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 117
 
 [^117-1]
 
-[^117-1]: Abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^117-1]: Abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Capitolo 2: Confederazione e Cantoni
 
@@ -2229,7 +2230,7 @@ Per valutare il potenziale di pericolo o di abuso, l’autorità di controllo de
 
 Gli affari militari sono di competenza della Confederazione e dei Cantoni per quanto siano stati ad essi delegati. La Confederazione esercita l’alta vigilanza.
 
-[^118-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^118-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 119
 
@@ -2237,7 +2238,7 @@ Gli affari militari sono di competenza della Confederazione e dei Cantoni per qu
 
 L’esercito collabora con gli altri attori della Rete integrata Svizzera per la sicurezza in modo da consentire a quest’ultima di reagire in modo flessibile, globale, tempestivo ed efficace alle minacce e ai pericoli in materia di politica di sicurezza in Svizzera e nelle regioni limitrofe.
 
-[^119-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^119-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 120
 
@@ -2247,7 +2248,7 @@ L’esercito collabora con gli altri attori della Rete integrata Svizzera per la
 
 <sup>2</sup> Consulta preventivamente i Cantoni.
 
-[^120-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^120-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 121
 
@@ -2257,7 +2258,7 @@ L’esercito collabora con gli altri attori della Rete integrata Svizzera per la
 
 <sup>2</sup> Se necessario suddividono i circondari in sezioni, per ciascuna delle quali nominano un caposezione.
 
-[^121-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^121-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 122
 
@@ -2265,7 +2266,7 @@ L’esercito collabora con gli altri attori della Rete integrata Svizzera per la
 
 I Cantoni provvedono al disbrigo delle formalità amministrative per il proscioglimento dall’obbligo di prestare servizio militare e, in collaborazione con la Confederazione, all’organizzazione della riconsegna dell’equipaggiamento personale.
 
-[^122-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^122-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 122a
 
@@ -2273,7 +2274,7 @@ I Cantoni provvedono al disbrigo delle formalità amministrative per il prosciog
 
 Per le attività che servono alla difesa nazionale non occorrono né autorizzazioni né piani cantonali.
 
-[^122a-1]: Introdotto dal n. I 4 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^122a-1]: Introdotto dalla cifra I n. 4 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 123
 
@@ -2301,8 +2302,8 @@ Non riscuotono emolumenti per:
 - b. la partecipazione a procedure di approvazione dei piani per costruzioni e impianti militari.[^123-3]
 
 [^123-1]: Nuovo testo giusta l’art. 7 n. 2 della LF del 10 ott. 1997 concernente le imprese d’armamento della Confederazione, in vigore dal 1° mag. 1998 ([RU 1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202); [FF 1997 III 651](https://fedlex.data.admin.ch/eli/fga/1997/3_769_708_651)).
-[^123-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^123-3]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^123-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^123-3]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 124
 
@@ -2312,7 +2313,7 @@ Non riscuotono emolumenti per:
 
 <sup>2</sup> Il Consiglio federale designa le piazze d’armi. Disciplina l’utilizzazione e la gestione delle piazze d’armi, di tiro e d’esercitazione.[^124-1]
 
-[^124-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^124-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 125
 
@@ -2326,13 +2327,13 @@ Non riscuotono emolumenti per:
 
 <sup>4</sup> Contro le decisioni delle autorità cantonali di ultimo grado nel settore del tiro fuori del servizio è ammesso il ricorso al Tribunale amministrativo federale. Il DDPS è parimenti legittimato a ricorrere. Le autorità cantonali di ultimo grado inviano immediatamente e gratuitamente le loro decisioni al DDPS.[^125-1]
 
-[^125-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^125-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Capitolo 3: Costruzioni e impianti militari
 
 [^tit8-chap3-1]
 
-[^tit8-chap3-1]: Nuovo testo giusta il n. I 4 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^tit8-chap3-1]: Nuovo testo giusta la cifra I n. 4 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### Sezione 1: Disposizioni generali
 
@@ -2458,7 +2459,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 <sup>2</sup> La procedura semplificata d’approvazione dei piani si applica per analogia. Occorre tener conto dell’interesse a mantenere il segreto.
 
 [^128a-1]: [RS 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
-[^128a-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^128a-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Sezione 3: Procedura di conciliazione e di stima; immissione in possesso anticipata
 
@@ -2495,7 +2496,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 [^tit8-chap3-sec5-1]
 
-[^tit8-chap3-sec5-1]: Introdotta dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^tit8-chap3-sec5-1]: Introdotta dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 130a
 
@@ -2507,7 +2508,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>2</sup> Conclude i contratti necessari per la messa fuori servizio.
 
-[^130a-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^130a-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 130b
 
@@ -2539,7 +2540,7 @@ I Comuni mettono gratuitamente a disposizione:
 - d. le piazze di riunione e di posteggio per la truppa;
 - e. i pannelli d’affissione per gli avvisi di chiamata e per altre comunicazioni delle autorità militari.
 
-[^132-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^132-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 133
 
@@ -2561,7 +2562,7 @@ I Comuni mettono gratuitamente a disposizione:
 
 <sup>2</sup> La Confederazione risarcisce i danni che ne conseguono, conformemente agli articoli 135 a 143. ...[^134-1]
 
-[^134-1]: Per. abrogato dal n. I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^134-1]: Per. abrogato dalla cifra I della LF del 4 ott. 2002, con effetto dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Capitolo 5: Responsabilità per danni
 
@@ -2620,7 +2621,7 @@ Risarcito il danno, la Confederazione ha diritto di regresso contro i militari c
 
 <sup>2</sup> A copertura del danno può essere trattenuta una parte del soldo.
 
-[^140-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^140-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 141
 
@@ -2646,9 +2647,9 @@ Risarcito il danno, la Confederazione ha diritto di regresso contro i militari c
 
 <sup>4</sup> Le decisioni di queste autorità possono essere impugnate mediante ricorso al Tribunale amministrativo federale.[^142-3]
 
-[^142-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^142-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^142-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^142-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^142-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 143
 
@@ -2669,7 +2670,7 @@ Risarcito il danno, la Confederazione ha diritto di regresso contro i militari c
 
 [^tit8-chap6-1]
 
-[^tit8-chap6-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit8-chap6-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 144
 
@@ -2681,8 +2682,8 @@ Risarcito il danno, la Confederazione ha diritto di regresso contro i militari c
 
 <sup>3</sup> La Confederazione e i Cantoni provvedono nel quadro delle rispettive competenze a garantire la possibilità di conciliare la formazione civile con la scuola reclute e i servizi d’istruzione per il conseguimento del grado di sergente, sergente maggiore, sergente maggiore capo, furiere o tenente.[^144-2]
 
-[^144-1]: Nuovo testo giusta il n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^144-2]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^144-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^144-2]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 145
 
@@ -2690,7 +2691,7 @@ Risarcito il danno, la Confederazione ha diritto di regresso contro i militari c
 
 Per l’adempimento di compiti importanti nei settori civili della Rete integrata Svizzera per la sicurezza, le persone soggette all’obbligo di prestare servizio militare possono essere dispensate o congedate dal servizio d’appoggio e dal servizio attivo.
 
-[^145-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^145-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Capitolo 7: Trattamento di dati personali
 
@@ -2713,7 +2714,7 @@ Il trattamento di dati personali nei sistemi d’informazione e nell’ambito de
 
 In occasione del reclutamento e nel corso dell’istruzione, le persone soggette all’obbligo di leva e i militari possono essere sottoposti, su incarico del DDPS, a inchieste svolte per scopi scientifici. Quest’ultime devono essere eseguite garantendo la protezione della personalità e dei dati.
 
-[^146a-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^146a-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 147 a 148h
 
@@ -2723,7 +2724,7 @@ Abrogati
 
 [^tit8-chap8-1]
 
-[^tit8-chap8-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^tit8-chap8-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 148i
 
@@ -2741,7 +2742,7 @@ Le unità amministrative del DDPS possono fornire prestazioni commerciali a terz
 
 [^tit8a-1]
 
-[^tit8a-1]: Introdotto dal n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^tit8a-1]: Introdotto dalla cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 148j
 
@@ -2755,7 +2756,7 @@ L’Assemblea federale decide il limite di spesa per le risorse finanziarie dell
 
 L’Assemblea federale emana le disposizioni secondo gli articoli 29 capoverso 4 e 93 capoverso 2, nonché le disposizioni completive sulla procedura amministrativa militare, in forma di ordinanza dell’Assemblea federale.
 
-[^149-1]: Nuovo testo giusta n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^149-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 149a
 
@@ -2763,9 +2764,9 @@ L’Assemblea federale emana le disposizioni secondo gli articoli 29 capoverso 4
 
 Il Consiglio federale può mettere a disposizione installazioni e materiale dell’esercito per provvedimenti di promovimento internazionale della pace.[^149a-2] Nell’ambito di tali provvedimenti può anche sostenere persone giuridiche, crearne o associarvisi.[^149a-3]
 
-[^149a-1]: Introdotto dal n. I della LF del 20 mar. 1998, in vigore dal 1° mar. 1999 ([RU 1999 1153](https://fedlex.data.admin.ch/eli/oc/1999/151); FF **1998** 489).
-[^149a-2]: Nuovo testo giusta il n. II 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^149a-3]: Nuovo testo del per. giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^149a-1]: Introdotto dalla cifra I della LF del 20 mar. 1998, in vigore dal 1° mar. 1999 ([RU 1999 1153](https://fedlex.data.admin.ch/eli/oc/1999/151); FF **1998** 489).
+[^149a-2]: Nuovo testo giusta la cifra II n. 8 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^149a-3]: Nuovo testo del per. giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art 149b
 
@@ -2775,7 +2776,7 @@ Il Consiglio federale può mettere a disposizione installazioni e materiale dell
 
 <sup>2</sup> Prima di introdurre modifiche fondamentali nei settori dell’istruzione, dell’impiego e dell’organizzazione dell’esercito, il Consiglio federale consulta le competenti commissioni parlamentari.
 
-[^149b-1]: Introdotto dal n. I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^149b-1]: Introdotto dalla cifra I della LF del 4 ott. 2002, in vigore dal 1° gen. 2004 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 #### Art. 150
 
@@ -2789,7 +2790,7 @@ Il Consiglio federale può mettere a disposizione installazioni e materiale dell
 
 <sup>4</sup> ...[^150-1]
 
-[^150-1]: Introdotto dal n. I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Abrogato dall’all. 1 n. 12 della L del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^150-1]: Introdotto dalla cifra I della LF del 4 ott. 2002 ([RU 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 768](https://fedlex.data.admin.ch/eli/fga/2002/118)). Abrogato dall’all. 1 n. 12 della L del 18 dic. 2020 sulla sicurezza delle informazioni, con effetto dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 150a
 
@@ -2805,7 +2806,7 @@ Può derogare al diritto in vigore negli ambiti seguenti:
 - b. la competenza per il perseguimento di reati e di infrazioni disciplinari;
 - c. l’importazione e l’esportazione di materiale, oggetti d’equipaggiamento, combustibili e carburanti di truppe straniere.
 
-[^150a-1]: Introdotto dal n. I della LF del 6 ott. 2000, in vigore dal 1° set. 2001 ([RU 2001 2264](https://fedlex.data.admin.ch/eli/oc/2001/323); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)).
+[^150a-1]: Introdotto dalla cifra I della LF del 6 ott. 2000, in vigore dal 1° set. 2001 ([RU 2001 2264](https://fedlex.data.admin.ch/eli/oc/2001/323); [FF 2000 414](https://fedlex.data.admin.ch/eli/fga/2000/142)).
 
 #### Art. 151
 
@@ -2825,7 +2826,7 @@ Nel suddetto periodo il Consiglio federale può, per motivi imperativi, derogare
 
 <sup>3</sup> Per il suddetto periodo il Consiglio federale disciplina, mediante ordinanza, l’istruzione e l’organizzazione dell’esercito nonché la collaborazione e il coordinamento dell’esercito con gli altri attori della Rete integrata Svizzera per la sicurezza.
 
-[^151-1]: Nuovo testo giusta il n. I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^151-1]: Nuovo testo giusta la cifra I della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^151-2]: [RS 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)
 
 #### Art. 152
@@ -2854,7 +2855,7 @@ Appendice
 
 [^annexu1-lvlu1-lvl7-1]
 
-[^annexu1-lvlu1-lvl7-1]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a a d; **1952** 339, 346 art. 2; **1959** 2125 art. 48 cpv. 2 lett. d; **1961** 241; **1968** 74 n. I, III**;** **1970** 46; **1972** 1069 art. 15 n; **1975**; **1979** 114 art. 72 lett; **1984** 1; **1990** 1; **1991** 857 all. n. 10, 1412; **1992** 288 all. n. 20, 2392 n. I 2, 2521 art. 55 n. 3; **1993** 901 all. n. 5, 3043 all. n. 2; **1994** 1622 art. 22 cpv. 2]
+[^annexu1-lvlu1-lvl7-1]: [CS **5** 3; [RU 1948 365](https://fedlex.data.admin.ch/eli/oc/1948/425_417_365); [1949 1525](https://fedlex.data.admin.ch/eli/oc/1949/1491_1595_1525)art. 1 a 3, 5 lett. a a d; **1952** 339, 346 art. 2; **1959** 2125 art. 48 cpv. 2 lett. d; **1961** 241; **1968** 74 cifra I, cifra III**;** **1970** 46; **1972** 1069 art. 15 n; **1975**; **1979** 114 art. 72 lett; **1984** 1; **1990** 1; **1991** 857 all. n. 10, 1412; **1992** 288 all. n. 20, 2392 cifra I n. 2, 2521 art. 55 n. 3; **1993** 901 all. n. 5, 3043 all. n. 2; **1994** 1622 art. 22 cpv. 2]
 
 Abrogata
 

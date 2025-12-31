@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 février 1995 sur l'armée et l'administration milit
 short: LAAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20240101/fr"
 
 (Loi sur l’armée, LAAM)[^t-1]
 
-du 3 février 1995 (État le 1<sup>er</sup> janvier 2024)
+du 3 février 1995 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
@@ -393,8 +393,8 @@ Sont exemptés du service militaire tant qu’ils exercent leur fonction ou leur
   - 7\. les membres des sapeurs-pompiers et des services de défense reconnus par l’État,
   - 8\. le personnel indispensable pour assurer le service civil de la navigation aérienne qui n’est pas absolument nécessaire au service militaire de la navigation aérienne.
 
-- d. à i.[^18-2] ...
-- j.[^18-3] ...
+- d. à i.[^18-2] …
+- j.[^18-3] …
 
 <sup>2</sup> Exceptionnellement et si les circonstances le justifient, le DDPS peut exempter d’autres professionnels occupés à titre principal auprès d’institutions ou de services publics ou privés qui exercent des activités vitales ou indispensables pour l’aide d’urgence ou en cas de catastrophe, dans la mesure où ils ne sont pas absolument nécessaires à l’armée pour des tâches analogues.[^18-4]
 
@@ -1044,13 +1044,14 @@ Le Conseil fédéral règle la procédure et la prise en charge des coûts. Il p
 
 <sup>1</sup> Les personnes astreintes au service militaire accomplissent l’école de recrues au plus tôt au début de l’année au cours de laquelle elles atteignent l’âge de 19 ans et au plus tard pendant l’année au cours de laquelle elles atteignent l’âge de 25 ans. Le moment est déterminé par les besoins de l’armée. Les souhaits des conscrits sont pris en compte dans la mesure du possible.
 
-<sup>2</sup> Les conscrits qui n’ont pas accompli l’école de recrues à la fin de l’année au cours de laquelle ils atteignent l’âge de 25 ans sont libérés de l’obligation d’accomplir le service militaire.
+<sup>2</sup> Les conscrits qui n’ont pas accompli l’école de recrues à la fin de l’année au cours de laquelle ils atteignent l’âge de 25 ans sont libérés de l’obligation d’accomplir le service militaire et soumis à l’obligation de servir dans la protection civile.[^49-2]
 
 <sup>3</sup> Le Conseil fédéral peut prévoir que l’école de recrues peut être accomplie ultérieurement si les services d’instruction obligatoires (art. 42) peuvent encore être accomplis dans les limites d’âge visées à l’art. 13.
 
 <sup>4</sup> L’école de recrues dure 18 semaines. Le Conseil fédéral peut prévoir une durée plus longue ou plus courte, de six semaines au plus, pour les formations nécessitant une instruction particulière.
 
 [^49-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^49-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 50
 
@@ -2775,7 +2776,7 @@ Le Conseil fédéral peut mettre à disposition des installations et du matérie
 
 <sup>3</sup> Il peut donner au DDPS la compétence d’arrêter des prescriptions sur la sauvegarde du secret militaire.
 
-<sup>4</sup> ...[^150-1]
+<sup>4</sup> …[^150-1]
 
 [^150-1]: Introduit par le ch. I de la LF du 4 oct. 2002 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)). Abrogé par l’annexe 1 ch. 12 de la L du 18 déc. 2020 sur la sécurité de l’information, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
