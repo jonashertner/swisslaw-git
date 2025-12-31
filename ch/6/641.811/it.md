@@ -4,11 +4,11 @@ title: "Ordinanza del 27 marzo 2024 concernente la tassa sul traffico pesante (O
 short: OTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: it
-version: 2025-10-01
+version: 2026-01-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2024-150-20251001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2024-150-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/it"
 
 (Ordinanza sul traffico pesante, OTTP)
 
-del 27 marzo 2024 (Stato 1° ottobre 2025)
+del 27 marzo 2024 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ vista la legge del 19 dicembre 1997[^ingress-1] sul traffico pesante (LTTP); vis
 
 ordina:
 
-[^ingress-1]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^ingress-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^ingress-1]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
+[^ingress-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 
 ## Titolo primo: Oggetto della tassa e base di calcolo
 
@@ -57,7 +57,7 @@ Sono assoggettati alla tassa sul traffico pesante (tassa) i seguenti autoveicoli
 - l. i rimorchi per il trasporto di attrezzi sportivi (art. 20 cpv. 2 lett. d OETV);
 - m. i rimorchi il cui interno è adibito a locale (art. 20 cpv. 1 OETV).
 
-[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 2
 
@@ -93,14 +93,14 @@ I seguenti veicoli sono esentati dalla tassa:
 
 <sup>2</sup> Su domanda, l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) può autorizzare altre esenzioni dalla tassa in casi specifici, in particolare in considerazione di accordi internazionali, per motivi umanitari o per corse non commerciali d’utilità pubblica.
 
-[^2-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^2-2]: [RS 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
-[^2-3]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^2-4]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^2-5]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^2-6]: [RS 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
-[^2-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-8]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^2-1]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^2-2]: [RS 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
+[^2-3]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^2-4]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^2-5]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^2-6]: [RS 741.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8671)
+[^2-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-8]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 3
 
@@ -175,7 +175,7 @@ Per i seguenti veicoli fa stato il peso indicato qui appresso:
 
 <sup>3</sup> Il peso determinante è, in ogni caso, di 40 t al massimo.
 
-[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 7
 
@@ -205,9 +205,9 @@ Per i veicoli assoggettati alla tassa commisurata alle prestazioni la tassa per 
 
 <sup>3</sup> I veicoli assegnati alla categoria di tassa 3 rimangono classificati in questa categoria per almeno sette anni. Il termine decorre dal momento in cui, conformemente agli allegati 2 e 5 OETV[^8-2] e all’ordinanza del 19 giugno 1995[^8-3] concernente le esigenze tecniche per gli autoveicoli di trasporto e i loro rimorchi, la rispettiva classe di emissione diventa obbligatoria per la prima messa in circolazione di veicoli nuovi.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 20 set. 2024, in vigore dal 1° gen. 2025 ([RU 2024 522](https://fedlex.data.admin.ch/eli/oc/2024/522)).
-[^8-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^8-3]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 20 set. 2024, in vigore dal 1° gen. 2025 ([RU 2024 522](https://fedlex.data.admin.ch/eli/oc/2024/522)).
+[^8-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^8-3]: [RS 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)
 
 ### Capitolo 3: Disciplinamenti speciali per veicoli con scopi d’impiego particolari
 
@@ -294,56 +294,13 @@ Il periodo di restituzione per i veicoli non utilizzati esclusivamente per il tr
 
 <sup>2</sup> Tutti i documenti e giustificativi rilevanti per la restituzione devono essere conservati per cinque anni e presentati all’UDSC su richiesta.
 
-### Sezione 3: Corse nel traffico combinato non accompagnato
+### Sezione 3: ...
 
-### (art. 4 cpv. 3 LTTP)
+#### Art. 15–19
 
-#### Art. 15
+[^1519-1]
 
-**Restituzione per i veicoli utilizzati nel traffico combinato non accompagnato**
-
-<sup>1</sup> I detentori di veicoli assoggettati alla tassa utilizzati per effettuare corse nel traffico combinato non accompagnato (TCNA) ricevono, su domanda, una restituzione per le corse iniziali e finali nel TCNA.
-
-<sup>2</sup> Per ogni unità di carico e semirimorchio trasbordato dal traffico stradale a quello ferroviario o per via d’acqua oppure dal traffico ferroviario o per via d’acqua a quello stradale l’importo della restituzione ammonta a:
-
-<table>
-<tr><td></td><td>franchi</td></tr>
-<tr><td>a. per le unità di carico o i semirimorchi di lunghezza da 4,8 a 5,5 m</td><td>15</td></tr>
-<tr><td>b. per le unità di carico o i semirimorchi di lunghezza superiore a 5,5 e fino a 6,1 m</td><td>22</td></tr>
-<tr><td>c. per le unità di carico o i semirimorchi di lunghezza superiore a 6,1 m</td><td>33</td></tr>
-</table>
-
-#### Art. 16
-
-**Corse iniziali e finali nel TCNA**
-
-Per corsa iniziale o finale nel TCNA s’intende una corsa effettuata da veicoli stradali con unità di carico o semirimorchi tra il luogo di carico o di scarico e uno scalo ferroviario di trasbordo o un porto renano.
-
-#### Art. 17
-
-**Divieto di cambiare contenitore di trasporto**
-
-La merce trasportata non può cambiare di unità di carico o semirimorchio all’atto del trasbordo da un modo di trasporto all’altro.
-
-#### Art. 18
-
-**Domanda di restituzione e compensazione dell’importo della restituzione**
-
-<sup>1</sup> La domanda di restituzione deve essere presentata all’UDSC entro un anno dalla fine del mese civile in cui è avvenuta la corsa.
-
-<sup>2</sup> La domanda deve contenere l’indicazione del numero di unità di carico e semirimorchi, suddivisi per le categorie di cui all’articolo 15 capoverso 2.
-
-<sup>3</sup> La domanda deve comprendere tutte le corse iniziali e finali nel TCNA effettuate in un mese civile con tutti i veicoli del detentore.
-
-<sup>4</sup> L’UDSC può compensare l’importo della restituzione con la tassa dovuta.
-
-#### Art. 19
-
-**Prova**
-
-<sup>1</sup> Il richiedente deve trasmettere all’UDSC, su richiesta, una prova per ogni corsa iniziale e finale nel TCNA per la quale presenta una domanda di restituzione. L’UDSC può esigere ulteriori indicazioni e documenti.
-
-<sup>2</sup> Tutti i documenti e giustificativi rilevanti per la restituzione devono essere conservati per cinque anni e presentati all’UDSC su richiesta.
+[^1519-1]: Abrogati dall’all. cifra II n. 2 dell’O del 19 nov. 2025 sul trasporto merci, con effetto dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## Titolo secondo: Riscossione della tassa commisurata alle prestazioni
 
@@ -518,7 +475,7 @@ Chi mette a disposizione o possiede un veicolo di riserva svizzero secondo l’a
 - b. il numero d’identificazione delle imprese (IDI) dell’utente o, se l’utente non dispone di un IDI, il numero di partner commerciale dell’UDSC;
 - c. la prevista durata di utilizzo del veicolo.
 
-[^32-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^32-1]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 33
 
@@ -676,7 +633,7 @@ In caso di guasto o difetto al sistema di rilevazione nel veicolo (art. 28) la p
 
 ### Sezione 3: Correzione della dichiarazione
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/it/xml/image/image2.png) Art. 43
+#### Art. 43
 
 I dati rilevati ai fini della dichiarazione possono essere corretti fino al momento in cui la dichiarazione diventa vincolante.
 
@@ -848,7 +805,7 @@ L’UDSC può esigere una garanzia a copertura di tasse, interessi e costi, comp
 
 <sup>3</sup> Il ricorso contro le decisioni di richiesta di garanzia è retto dall’articolo 23 LTTP. Esso non ha effetto sospensivo.
 
-[^53-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^53-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 54
 
@@ -1025,7 +982,7 @@ L’UDSC può esigere prestazioni di garanzia da parte del fornitore del SET se 
 
 Per l’aggiudicazione della commessa al fornitore secondo l’articolo 11*a* capoverso 1 LTTP si applica la legge federale del 21 giugno 2019[^67-1] sugli appalti pubblici.
 
-[^67-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^67-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ### Capitolo 6: Termine per la trasmissione dei dati da parte del fornitore del NETS
 
@@ -1131,7 +1088,7 @@ La dichiarazione deve contenere le seguenti indicazioni:
 
 <sup>3</sup> Se la dichiarazione viene omessa, l’UDSC riscuote la tassa secondo l’articolo 3 per l’intero periodo.
 
-[^78-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^78-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 ### Capitolo 2: Veicoli esteri
 
@@ -1222,7 +1179,7 @@ I proventi netti corrispondono alle entrate correnti dalla tassa dopo deduzione:
 
 <sup>2</sup> Le entrate correnti corrispondono alle entrate lorde dalla tassa dopo deduzione delle restituzioni della tassa e della quota del Principato del Liechtenstein secondo l’articolo 6 paragrafo 2 del Trattato dell’11 aprile 2000[^84-1] tra la Confederazione Svizzera e il Principato del Liechtenstein concernente la tassa sul traffico pesante commisurata alle prestazioni nel Principato del Liechtenstein.
 
-[^84-1]: [RS 0.641.851.41](https://fedlex.data.admin.ch/eli/cc/2001/112)
+[^84-1]: [RS 0.641.851.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2470)
 
 #### Art. 85
 
@@ -1269,7 +1226,7 @@ Per la lunghezza della rete stradale sono determinanti i dati più recenti rigua
 
 <sup>6</sup> L’ammontare degli importi che spettano ai Cantoni si basa sul modello di calcolo nell’allegato 3.
 
-[^86-1]: [RS 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
+[^86-1]: [RS 725.116.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8463)
 
 #### Art. 87
 
@@ -1481,7 +1438,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>3</sup> Finché viene utilizzato un apparecchio di rilevazione secondo l’OTTP anteriore, sono applicabili il capitolo 4 e le sezioni 1 e 2 del capitolo 4*a* dell’OTTP anteriore.
 
-[^102-1]: [[RU 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192); [2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686); [2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670), [5011](https://fedlex.data.admin.ch/eli/oc/2007/702), [5987](https://fedlex.data.admin.ch/eli/oc/2007/797)art. 35; [2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190), [1653](https://fedlex.data.admin.ch/eli/oc/2008/241); [2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528); [2012 3423](https://fedlex.data.admin.ch/eli/oc/2012/384); [2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93), [1859](https://fedlex.data.admin.ch/eli/oc/2016/329)all. n. II 2, [3275](https://fedlex.data.admin.ch/eli/oc/2016/557); [2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)n. II, [6789](https://fedlex.data.admin.ch/eli/oc/2017/758); [2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230); [2019 237](https://fedlex.data.admin.ch/eli/oc/2019/39); [2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55), [589](https://fedlex.data.admin.ch/eli/oc/2021/589), [623](https://fedlex.data.admin.ch/eli/oc/2021/623); [2023 803](https://fedlex.data.admin.ch/eli/oc/2023/803)]
+[^102-1]: [[RU 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192); [2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686); [2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670), [5011](https://fedlex.data.admin.ch/eli/oc/2007/702), [5987](https://fedlex.data.admin.ch/eli/oc/2007/797)art. 35; [2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190), [1653](https://fedlex.data.admin.ch/eli/oc/2008/241); [2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528); [2012 3423](https://fedlex.data.admin.ch/eli/oc/2012/384); [2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93), [1859](https://fedlex.data.admin.ch/eli/oc/2016/329)all. cifra II n. 2, [3275](https://fedlex.data.admin.ch/eli/oc/2016/557); [2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)cifra II, [6789](https://fedlex.data.admin.ch/eli/oc/2017/758); [2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230); [2019 237](https://fedlex.data.admin.ch/eli/oc/2019/39); [2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55), [589](https://fedlex.data.admin.ch/eli/oc/2021/589), [623](https://fedlex.data.admin.ch/eli/oc/2021/623); [2023 803](https://fedlex.data.admin.ch/eli/oc/2023/803)]
 
 #### Art. 103
 
@@ -1505,8 +1462,6 @@ Le autorizzazioni con le quali l’UDSC, sulla base dell’articolo 15 capoverso
 
 **Autorizzazione per l’esenzione dall’obbligo di pagare la tassa**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/it/xml/image/image3.png)</sup>
-
 Le autorizzazioni con le quali l’UDSC, prima dell’entrata in vigore della presente ordinanza, ha esentato i veicoli dall’obbligo della tassa (art. 3 cpv. 2 OTTP anteriore) sono valide al massimo fino al:
 
 - a. 31 dicembre 2025 per la tassa commisurata alle prestazioni;
@@ -1514,9 +1469,11 @@ Le autorizzazioni con le quali l’UDSC, prima dell’entrata in vigore della pr
 
 #### Art. 107
 
-**Restituzione della tassa per corse iniziali e finali nel TCNA**
+**Restituzione della tassa per corse iniziali e finali nel TCNA**[^107-1]
 
-Per i veicoli equipaggiati con un apparecchio di rilevazione consegnato dall’UDSC sulla base dell’OTTP anteriore e con i quali vengono effettuate corse iniziali e finali nel TCNA, la procedura di restituzione è retta dal nuovo diritto, a condizione che il richiedente sia detentore di almeno un veicolo a motore equipaggiato con un sistema di rilevazione nel veicolo secondo il nuovo diritto.
+La restituzione della tassa per corse iniziali e finali nel TCNA effettuate nel 2025 è retta dal diritto anteriore.
+
+[^107-1]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 108
 
@@ -1555,7 +1512,7 @@ I regolamenti UNECE possono essere consultati e ottenuti presso l’ufficio indi
 
 ### 1 Autoveicoli pesanti
 
-[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 1.1 Categoria di tassa 1
 
@@ -1825,7 +1782,7 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex5-lvlu1-4]
 
-[^annex5-lvlu1-1]: [[RU 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192); [2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686); [2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670), [5011](https://fedlex.data.admin.ch/eli/oc/2007/702), [5987](https://fedlex.data.admin.ch/eli/oc/2007/797)art. 35; [2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190), [1653](https://fedlex.data.admin.ch/eli/oc/2008/241); [2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528); [2012 3423](https://fedlex.data.admin.ch/eli/oc/2012/384); [2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93), [1859](https://fedlex.data.admin.ch/eli/oc/2016/329)all. n. II 2, [3275](https://fedlex.data.admin.ch/eli/oc/2016/557); [2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)n. II, [6789](https://fedlex.data.admin.ch/eli/oc/2017/758); [2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230); [2019 237](https://fedlex.data.admin.ch/eli/oc/2019/39); [2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55), [589](https://fedlex.data.admin.ch/eli/oc/2021/589), [623](https://fedlex.data.admin.ch/eli/oc/2021/623); [2023 803](https://fedlex.data.admin.ch/eli/oc/2023/803)]
+[^annex5-lvlu1-1]: [[RU 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192); [2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686); [2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670), [5011](https://fedlex.data.admin.ch/eli/oc/2007/702), [5987](https://fedlex.data.admin.ch/eli/oc/2007/797)art. 35; [2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190), [1653](https://fedlex.data.admin.ch/eli/oc/2008/241); [2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528); [2012 3423](https://fedlex.data.admin.ch/eli/oc/2012/384); [2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93), [1859](https://fedlex.data.admin.ch/eli/oc/2016/329)all. cifra II n. 2, [3275](https://fedlex.data.admin.ch/eli/oc/2016/557); [2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)cifra II, [6789](https://fedlex.data.admin.ch/eli/oc/2017/758); [2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230); [2019 237](https://fedlex.data.admin.ch/eli/oc/2019/39); [2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55), [589](https://fedlex.data.admin.ch/eli/oc/2021/589), [623](https://fedlex.data.admin.ch/eli/oc/2021/623); [2023 803](https://fedlex.data.admin.ch/eli/oc/2023/803)]
 [^annex5-lvlu1-2]: [[RU 2000 2621](https://fedlex.data.admin.ch/eli/oc/2000/419)]
 [^annex5-lvlu1-3]: [[RU 2000 2739](https://fedlex.data.admin.ch/eli/oc/2000/457)]
 [^annex5-lvlu1-4]: Le mod. possono essere consultate alla [RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)

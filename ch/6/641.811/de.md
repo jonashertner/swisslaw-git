@@ -4,11 +4,11 @@ title: "Verordnung vom 27. März 2024 über die Schwerverkehrsabgabe (Schwerverk
 short: SVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: de
-version: 2025-10-01
+version: 2026-01-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2024-150-20251001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2024-150-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/de"
 
 (Schwerverkehrsabgabeverordnung, SVAV)
 
-vom 27. März 2024 (Stand am 1. Oktober 2025)
+vom 27. März 2024 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf das Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^ingress-1] (
 
 verordnet:
 
-[^ingress-1]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^ingress-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-3]: [SR 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^ingress-1]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
+[^ingress-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-3]: [SR 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 
 ## 1. Titel: Abgabeobjekt und Bemessungsgrundlage
 
@@ -57,7 +57,7 @@ Der Schwerverkehrsabgabe (Abgabe) unterliegen die folgenden Transportmotorwagen 
 - l. Sportgeräteanhänger (Art. 20 Abs. 2 Bst. d VTS);
 - m. Anhänger mit Aufbau als Nutzraum (Art. 20 Abs. 1 VTS).
 
-[^1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^1-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 2
 
@@ -93,14 +93,14 @@ Folgende Fahrzeuge sind von der Abgabe befreit:
 
 <sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) kann in Einzelfällen, insbesondere mit Rücksicht auf staatsvertragliche Regelungen, aus humanitären Gründen oder für gemeinnützige nicht kommerzielle Fahrten, auf Gesuch hin weitere Abgabebefreiungen bewilligen.
 
-[^2-1]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^2-2]: [SR 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
-[^2-3]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^2-4]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^2-5]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^2-6]: [SR 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
-[^2-7]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-8]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^2-1]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^2-2]: [SR 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
+[^2-3]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^2-4]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^2-5]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^2-6]: [SR 741.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8671)
+[^2-7]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-8]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 3
 
@@ -175,7 +175,7 @@ Für folgende Fahrzeuge ist folgendes Gewicht massgebend:
 
 <sup>3</sup> Das massgebende Gewicht beträgt in jedem Fall höchstens 40 t.
 
-[^6-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^6-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 7
 
@@ -206,8 +206,8 @@ Für Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen, beträgt die Ab
 <sup>3</sup> Fahrzeuge, die der Abgabekategorie 3 zugeteilt werden, bleiben während mindestens sieben Jahren in dieser Abgabekategorie eingereiht. Die Frist beginnt im Zeitpunkt zu laufen, in dem die jeweilige Emissionsklasse für die erste Inverkehrsetzung von Neufahrzeugen gemäss den Anhängen 2 und 5 VTS[^8-2] sowie der Verordnung vom 19. Juni 1995[^8-3] über technische Anforderungen an Transportmotorwagen und deren Anhänger obligatorisch wird.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 20. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 522](https://fedlex.data.admin.ch/eli/oc/2024/522)).
-[^8-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^8-3]: [SR 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
+[^8-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^8-3]: [SR 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)
 
 ### 3. Kapitel: Sonderregelungen für Fahrzeuge mit besonderem Verwendungszweck
 
@@ -294,56 +294,13 @@ Die Rückerstattungsperiode für Fahrzeuge, mit denen nicht ausschliesslich Rohh
 
 <sup>2</sup> Sämtliche für die Rückerstattung wesentlichen Unterlagen und Belege sind während fünf Jahren aufzubewahren und dem BAZG auf Verlangen vorzuweisen.
 
-### 3. Abschnitt: Fahrten im unbegleiteten kombinierten Verkehr
+### 3. Abschnitt: …
 
-### (Art. 4 Abs. 3 SVAG)
+#### Art. 15–19
 
-#### Art. 15
+[^1519-1]
 
-**Rückerstattung für im unbegleiteten kombinierten Verkehr eingesetzte Fahrzeuge**
-
-<sup>1</sup> Halterinnen und Halter von der Abgabe unterliegenden Fahrzeugen, mit denen Fahrten im unbegleiteten kombinierten Verkehr (UKV) ausgeführt werden, erhalten für die Fahrten im Vor- und Nachlauf des UKV auf Gesuch hin eine Rückerstattung.
-
-<sup>2</sup> Pro Ladebehälter und pro Sattelanhänger, der von der Strasse auf die Bahn oder das Schiff oder von der Bahn oder dem Schiff auf die Strasse umgeschlagen wird, beträgt die Rückerstattung:
-
-<table>
-<tr><th></th><th>Franken</th></tr>
-<tr><td>a. für Ladebehälter oder Sattelanhänger mit einer Länge von 4,8 bis 5,5 m:</td><td>15</td></tr>
-<tr><td>b. für Ladebehälter oder Sattelanhänger mit einer Länge von über 5,5 bis 6,1 m:</td><td>22</td></tr>
-<tr><td>c. für Ladebehälter oder Sattelanhänger mit einer Länge von über 6,1 m:</td><td>33</td></tr>
-</table>
-
-#### Art. 16
-
-**Fahrten im Vor- oder Nachlauf des UKV**
-
-Als Fahrt im Vor- und Nachlauf des UKV gilt eine Fahrt, die von Strassenfahrzeugen mit Ladebehältern oder mit Sattelanhängern zwischen dem Verlade- oder Entladeort und einem Umschlagsbahnhof oder Rheinhafen ausgeführt wird.
-
-#### Art. 17
-
-**Verbot des Wechsels des Transportgefässes**
-
-Das Ladegut darf beim Übergang vom einen zum anderen Verkehrsträger den Ladebehälter oder den Sattelanhänger nicht wechseln.
-
-#### Art. 18
-
-**Rückerstattungsgesuch und Verrechnung des Rückerstattungsbetrags**
-
-<sup>1</sup> Das Gesuch um Rückerstattung muss innerhalb eines Jahres nach Ablauf des Kalendermonats, in dem die Fahrt stattgefunden hat, beim BAZG eingereicht werden.
-
-<sup>2</sup> Es muss die Anzahl Ladebehälter und Sattelanhänger enthalten, aufgeschlüsselt nach den Kategorien nach Artikel 15 Absatz 2.
-
-<sup>3</sup> Es muss sämtliche Fahrten im Vor- und Nachlauf des UKV aller Fahrzeuge der Halterin oder des Halters in einem Kalendermonat umfassen.
-
-<sup>4</sup> Das BAZG kann den Rückerstattungsbetrag mit der geschuldeten Abgabe verrechnen.
-
-#### Art. 19
-
-**Nachweis**
-
-<sup>1</sup> Für jede Fahrt im Vor- und Nachlauf des UKV, für die eine Rückerstattung beantragt wird, muss die gesuchstellende Person dem BAZG auf Verlangen einen Nachweis vorlegen. Das BAZG kann zusätzliche Angaben und Unterlagen verlangen.
-
-<sup>2</sup> Sämtliche für die Rückerstattung wesentlichen Unterlagen und Belege sind während fünf Jahren aufzubewahren und dem BAZG auf Verlangen vorzuweisen.
+[^1519-1]: Aufgehoben durch Anhang Ziff. II 2 der Gütertransportverordnung vom 19. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## 2. Titel: Erhebung der leistungsabhängigen Abgabe
 
@@ -518,7 +475,7 @@ Wer ein inländisches Ersatzfahrzeug nach Artikel 9 Absatz 4 VVV[^32-1] zur Verf
 - b. die Unternehmens-Identifikationsnummer (UID) der Nutzerin oder des Nutzers oder, wenn die Nutzerin oder der Nutzer über keine UID verfügt, die Geschäftspartner-Nummer des BAZG;
 - c. die Dauer, während der das Fahrzeug voraussichtlich genutzt wird.
 
-[^32-1]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^32-1]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 33
 
@@ -676,7 +633,7 @@ Kommt es zu einem Defekt oder Ausfall des fahrzeugseitigen Erfassungssystems (Ar
 
 ### 3. Abschnitt: Korrektur der Anmeldung
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/de/xml/image/image2.png) Art. 43
+#### Art. 43
 
 Die im Hinblick auf die Anmeldung erfassten Daten können bis zum Zeitpunkt, zu dem die Anmeldung verbindlich wird, korrigiert werden.
 
@@ -848,7 +805,7 @@ Das BAZG kann zur Deckung von Abgaben, Zinsen und Kosten, auch solche, die weder
 
 <sup>3</sup> Die Beschwerde gegen Sicherstellungsverfügungen richtet sich nach Artikel 23 SVAG. Sie hat keine aufschiebende Wirkung.
 
-[^53-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^53-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 54
 
@@ -1025,7 +982,7 @@ Das BAZG kann vom EETS-Anbieter Sicherheitsleistungen verlangen, wenn Zweifel an
 
 Für die Vergabe des Auftrags an den Anbieter nach Artikel 11*a* Absatz 1 SVAG ist das Bundesgesetz vom 21. Juni 2019[^67-1] über das öffentliche Beschaffungswesen anwendbar.
 
-[^67-1]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^67-1]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ### 6. Kapitel: Frist für die Übermittlung von Daten durch die NETS-Anbieter
 
@@ -1131,7 +1088,7 @@ Die Anmeldung muss folgende Angaben enthalten:
 
 <sup>3</sup> Bleibt die Anmeldung aus, so erhebt das BAZG die Abgabe in der Höhe nach Artikel 3 für die ganze Periode.
 
-[^78-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^78-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 ### 2. Kapitel: Ausländische Fahrzeuge
 
@@ -1222,7 +1179,7 @@ Als Reinertrag gelten die laufenden Einnahmen aus der Abgabe abzüglich:
 
 <sup>2</sup> Als laufende Einnahmen gelten die Bruttoeingänge aus der Abgabe abzüglich der Rückerstattungen der Abgabe sowie des Anteils des Fürstentum Liechtensteins nach Artikel 6 Absatz 2 des Vertrags vom 11. April 2000[^84-1] zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein betreffend die leistungsabhängige Schwerverkehrsabgabe im Fürstentum Liechtenstein.
 
-[^84-1]: [SR 0.641.851.41](https://fedlex.data.admin.ch/eli/cc/2001/112)
+[^84-1]: [SR 0.641.851.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2470)
 
 #### Art. 85
 
@@ -1269,7 +1226,7 @@ Massgebend für die Strassenlängen sind die neuesten Angaben über:
 
 <sup>6</sup> Die Höhe der den Kantonen zustehenden Beträge richtet sich nach dem Berechnungsmodell in Anhang 3.
 
-[^86-1]: [SR 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
+[^86-1]: [SR 725.116.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8463)
 
 #### Art. 87
 
@@ -1505,8 +1462,6 @@ Bewilligungen, mit denen des BAZG vor Inkrafttreten dieser Verordnung gestützt 
 
 **Bewilligungen für Befreiung von der Pflicht zur Entrichtung der Abgabe**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/de/xml/image/image4.png)</sup>
-
 Bewilligungen, mit denen das BAZG vor Inkrafttreten dieser Verordnung Fahrzeuge von der Abgabepflicht ausgenommen hat (Art. 3 Abs. 2 bisherige SVAV), sind längstens gültig bis zum:
 
 - a. 31. Dezember 2025 für die leistungsabhängig erhobene Abgabe
@@ -1514,9 +1469,11 @@ Bewilligungen, mit denen das BAZG vor Inkrafttreten dieser Verordnung Fahrzeuge 
 
 #### Art. 107
 
-**Rückerstattung der Abgabe für Fahrten im Vor- und Nachlauf des UKV**
+**Rückerstattung der Abgabe für Fahrten im Vor- und Nachlauf des UKV**[^107-1]
 
-Für Motorfahrzeuge, die mit einem vom BAZG gestützt auf die bisherige SVAV abgegebenen Erfassungsgerät ausgerüstet sind und mit denen Fahrten im Vor- und Nachlauf des UKV ausgeführt werden, richtet sich das Rückerstattungsverfahren nach neuem Recht, sofern die gesuchstellende Person Halterin oder Halter von mindestens einem Motorfahrzeug ist, das mit einem fahrzeugseitigen Erfassungssystem nach neuem Recht ausgerüstet ist.
+Für die Rückerstattung der Abgabe für Fahrten im Vor- und Nachlauf des UKV, welche im Jahr 2025 durchgeführt worden sind, gelten die Bestimmungen nach bisherigem Recht.
+
+[^107-1]: Fassung gemäss Anhang Ziff. II 2 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 108
 
@@ -1555,7 +1512,7 @@ Die Stelle, bei der die UNECE-Reglemente eingesehen und bezogen werden können, 
 
 ### 1 Schwere Motorwagen
 
-[^annex1-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 1.1 Abgabekategorie 1
 

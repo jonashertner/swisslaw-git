@@ -4,11 +4,11 @@ title: Ordonnance du 27 mars 2024 concernant la redevance sur le trafic des poid
 short: ORPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: fr
-version: 2025-10-01
+version: 2026-01-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2024-150-20251001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-150-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/fr"
 
 (ORPL)
 
-du 27 mars 2024 (État le 1<sup>er</sup> octobre 2025)
+du 27 mars 2024 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids
 
 arrête:
 
-[^ingress-1]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^ingress-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^ingress-1]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
+[^ingress-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 
 ## Titre 1 Objet de la redevance et base de calcul
 
@@ -57,7 +57,7 @@ Les voitures automobiles de transport et les remorques de transport au sens des 
 - l. les remorques pour engins de sport (art. 20, al. 2, let. d, OETV);
 - m. les remorques dont la carrosserie sert de local (art. 20, al. 1, OETV).
 
-[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 2
 
@@ -93,14 +93,14 @@ Les véhicules suivants sont exonérés de la redevance:
 
 <sup>2</sup> Dans des cas d’espèce, notamment eu égard aux conventions internationales, pour des raisons humanitaires ou pour des courses d’intérêt public à caractère non commercial, l’Office fédéral de la douane et de la sécurité des frontières (OFDF) peut sur demande autoriser d’autres exonérations de la redevance.
 
-[^2-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^2-2]: [RS 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
-[^2-3]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^2-4]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^2-5]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^2-6]: [RS 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
-[^2-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-8]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^2-1]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^2-2]: [RS 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
+[^2-3]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^2-4]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^2-5]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^2-6]: [RS 741.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8671)
+[^2-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-8]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 3
 
@@ -175,7 +175,7 @@ Pour les véhicules ci-après, le poids suivant est déterminant:
 
 <sup>3</sup> Le poids déterminant est dans tous les cas de 40 t au plus.
 
-[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 7
 
@@ -206,8 +206,8 @@ Pour les véhicules soumis à la redevance liée aux prestations, la redevance, 
 <sup>3</sup> Les véhicules qui sont attribués à la catégorie de redevance 3 restent classés dans cette catégorie pendant au moins sept ans. Le délai commence à courir au moment où, en application des annexes 2 et 5 OETV[^8-2] et de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les voitures automobiles de transport et leurs remorques[^8-3], la classe d’émission correspondante devient obligatoire lors de la première mise en circulation des véhicules neufs de cette catégorie.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 522](https://fedlex.data.admin.ch/eli/oc/2024/522)).
-[^8-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^8-3]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
+[^8-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^8-3]: [RS 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)
 
 ### Chapitre 3 Règles particulières applicables aux véhicules à usage spécial
 
@@ -294,56 +294,13 @@ La période de remboursement pour les véhicules qui ne transportent pas exclusi
 
 <sup>2</sup> Tous les documents et justificatifs essentiels pour le remboursement doivent être conservés durant cinq ans et présentés à l’OFDF sur demande.
 
-### Section 3 Courses effectuées en transport combiné non accompagné
+### Section 3 …
 
-### (art. 4, al. 3, LRPL)
+#### Art. 15 à 19
 
-#### Art. 15
+[^1519-1]
 
-**Remboursement pour les véhicules affectés au transport combiné non accompagné**
-
-<sup>1</sup> Les détenteurs de véhicules soumis à la redevance à l’aide desquels sont effectuées des courses en transport combiné non accompagné (TCNA) bénéficient sur demande d’un remboursement pour les parcours initiaux ou terminaux du TCNA.
-
-<sup>2</sup> Le montant suivant est remboursé par unité de chargement et par semi-remorque transbordée de la route au trafic ferroviaire ou fluvial, ou du trafic ferroviaire ou fluvial à la route:
-
-<table>
-<tr><th></th><th>Francs</th></tr>
-<tr><td>a. pour les unités de chargement ou semi-remorques d’une longueur de 4,8 à 5,5 m</td><td>15</td></tr>
-<tr><td>b. pour les unités de chargement ou semi-remorques d’une longueur de plus de 5,5 à 6,1 m</td><td>22</td></tr>
-<tr><td>c. pour les unités de chargement ou semi-remorques d’une longueur supérieure à 6,1 m</td><td>33</td></tr>
-</table>
-
-#### Art. 16
-
-**Parcours initiaux ou terminaux du TCNA**
-
-Est considéré comme parcours initial et terminal du TCNA le parcours que des véhicules routiers chargés d’unités de chargement ou tractant des semi-remorques effectuent entre le lieu de chargement ou de déchargement et une gare de transbordement ou un port rhénan.
-
-#### Art. 17
-
-**Interdiction du changement de contenant**
-
-La marchandise transportée ne doit pas changer d’unité de chargement ou de semi-remorque lors du passage d’un mode de transport à l’autre.
-
-#### Art. 18
-
-**Demande de remboursement et déduction du montant du remboursement**
-
-<sup>1</sup> La demande de remboursement doit être présentée à l’OFDF dans un délai d’une année à compter de l’expiration du mois civil au cours duquel la course a eu lieu.
-
-<sup>2</sup> Elle doit indiquer le nombre d’unités de chargement et de semi-remorques, ventilé selon les catégories visées à l’art. 15, al. 2.
-
-<sup>3</sup> Elle doit comprendre tous les parcours initiaux et terminaux du TCNA de tous les véhicules du détenteur au cours d’un mois civil.
-
-<sup>4</sup> L’OFDF peut déduire le montant du remboursement de la redevance due.
-
-#### Art. 19
-
-**Preuve**
-
-<sup>1</sup> Pour chaque parcours initial et terminal du TCNA pour lequel un remboursement est demandé, le requérant doit présenter une preuve à l’OFDF sur demande. Ce dernier peut exiger des informations et des documents supplémentaires.
-
-<sup>2</sup> Tous les documents et justificatifs essentiels pour le remboursement doivent être conservés durant cinq ans et présentés à l’OFDF sur demande.
+[^1519-1]: Abrogés par l’annexe ch. II 2 de l’O du 19 nov. 2025 sur le transport de marchandises, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## Titre 2 Perception de la redevance liée aux prestations
 
@@ -518,7 +475,7 @@ Quiconque met à disposition ou possède un véhicule de remplacement suisse au 
 - b. le numéro d’identification des entreprises (IDE) de l’utilisateur ou le numéro de partenaire commercial de l’OFDF si l’utilisateur ne dispose pas d’un IDE;
 - c. la durée d’utilisation prévue du véhicule.
 
-[^32-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^32-1]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 33
 
@@ -676,7 +633,7 @@ En cas de défectuosité ou de panne du système de saisie embarqué (art. 28), 
 
 ### Section 3 Correction de la déclaration
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/fr/xml/image/image1.png) Art. 43
+#### Art. 43
 
 Les données saisies pour la déclaration peuvent être corrigées jusqu’au moment où la déclaration devient contraignante.
 
@@ -848,7 +805,7 @@ L’OFDF peut exiger une garantie pour couvrir les redevances, les intérêts et
 
 <sup>3</sup> Le recours contre des décisions relatives à la fourniture d’une sûreté est régi par l’art. 23 LRPL. Le recours n’a pas d’effet suspensif.
 
-[^53-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^53-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 54
 
@@ -1025,7 +982,7 @@ L’OFDF peut exiger du prestataire du SET qu’il fournisse des sûretés si de
 
 Pour l’adjudication du mandat au prestataire visé à l’art. 11*a*, al. 1, LRPL, c’est la loi fédérale du 21 juin 2019 sur les marchés publics[^67-1] qui s’applique.
 
-[^67-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^67-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 ### Chapitre 6 Délai de transmission des données par les prestataires du NETS
 
@@ -1131,7 +1088,7 @@ La déclaration comprend les données suivantes:
 
 <sup>3</sup> Si la déclaration fait défaut, l’OFDF perçoit la redevance selon l’art. 3 pour la période entière.
 
-[^78-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^78-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 ### Chapitre 2 Véhicules étrangers
 
@@ -1222,7 +1179,7 @@ Par produit net, on entend les recettes courantes provenant de la perception de 
 
 <sup>2</sup> Par recettes courantes, on entend les rentrées brutes provenant de la perception de la redevance moins les remboursements de la redevance ainsi que la part de la Principauté de Liechtenstein visée à l’art. 6, al. 2, du Traité du 11 avril 2000 entre la Confédération suisse et la Principauté de Liechtenstein relatif à la redevance sur le trafic des poids lourds liée aux prestations dans la Principauté de Liechtenstein[^84-1].
 
-[^84-1]: [RS 0.641.851.41](https://fedlex.data.admin.ch/eli/cc/2001/112)
+[^84-1]: [RS 0.641.851.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2470)
 
 #### Art. 85
 
@@ -1269,7 +1226,7 @@ Sont déterminants pour établir la longueur des routes les chiffres les plus r�
 
 <sup>6</sup> Le montant des contributions destinées aux cantons est régie par le modèle de calcul visé à l’annexe 3.
 
-[^86-1]: [RS 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
+[^86-1]: [RS 725.116.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8463)
 
 #### Art. 87
 
@@ -1505,8 +1462,6 @@ Les autorisations par lesquelles l’OFDF, avant l’entrée en vigueur de la pr
 
 **Autorisations de déroger à l’obligation de payer la redevance**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/fr/xml/image/image20.png)</sup>
-
 Les autorisations par lesquelles l’OFDF, avant l’entrée en vigueur de la présente ordonnance, a exempté des véhicules de l’assujettissement à la redevance (art. 3, al. 2, de l’ancienne ORPL) sont valables au plus tard jusqu’au:
 
 - a. 31 décembre 2025 pour la redevance liée aux prestations;
@@ -1514,9 +1469,11 @@ Les autorisations par lesquelles l’OFDF, avant l’entrée en vigueur de la pr
 
 #### Art. 107
 
-**Remboursement de la redevance pour les parcours initiaux et terminaux du TCNA**
+**Remboursement de la redevance pour les parcours initiaux et terminaux du TCNA**[^107-1]
 
-Pour les véhicules à moteur équipés d’un appareil de saisie remis par l’OFDF en vertu de l’ancienne ORPL et avec lesquels sont effectués des parcours initiaux et terminaux du TCNA, la procédure de remboursement est régie par le nouveau droit, pour autant que le requérant soit détenteur d’au moins un véhicule à moteur équipé d’un système de saisie embarqué conforme au nouveau droit.
+Les dispositions de l’ancien droit s’appliquent au remboursement de la redevance pour les parcours initiaux et terminaux du TCNA effectués en 2025.
+
+[^107-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 108
 
@@ -1555,7 +1512,7 @@ Le service où peuvent être consultés et obtenus les règlements de l’UNECE 
 
 ### 1 Voitures automobiles lourdes
 
-[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 1.1 Catégorie de redevance 1
 
