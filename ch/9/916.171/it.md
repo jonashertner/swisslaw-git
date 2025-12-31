@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2023 sulla messa in commercio di concimi (Ord
 short: OCon
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: it
-version: 2025-06-01
+version: 2026-01-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/it"
 
 (Ordinanza sui concimi, OCon)
 
-del 1° novembre 2023 (Stato 1° giugno 2025)
+del 1° novembre 2023 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -92,7 +92,7 @@ Si intende per:
 - j. *fornitura sfusa:* fornitura di concimi senza imballaggio;
 - k. *concime fogliare:* concime destinato a essere applicato sulle foglie delle piante in vista dell’assorbimento delle sostanze nutritive attraverso l’apparato fogliare.
 
-<sup>2</sup> Per interpretare correttamente il regolamento (UE) 2019/1009[^2-1], a cui rimanda la presente ordinanza, occorre tener conto delle seguenti espressioni equivalenti:
+<sup>2</sup> Per interpretare correttamente il regolamento (UE) 2019/1009[^2-1], a cui rimanda la presente ordinanza, occorre tener conto delle seguenti espressioni equivalenti:[^2-2]
 
 <table>
 <tr><th>UE</th><th>Svizzera</th></tr>
@@ -112,7 +112,8 @@ Si intende per:
 <tr><td>materia secca</td><td>sostanza secca</td></tr>
 </table>
 
-[^2-1]: Regolamento (UE) 2019/1009 del Parlamento europeo e del Consiglio del 5 giugno 2019 che stabilisce norme relative alla messa a disposizione sul mercato di prodotti fertilizzanti dell’UE, che modifica i regolamenti (CE) n. 1069/2009 e (CE) n. 1107/2009 e che abroga il regolamento (CE) n. 2003/2003, GU L 170 del 25.6.2019, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2023/409, GU L 59 del 24.2.2023, pag. 1.
+[^2-1]: Regolamento (UE) 2019/1009 del Parlamento europeo e del Consiglio, del 5 giugno 2019, che stabilisce norme relative alla messa a disposizione sul mercato di prodotti fertilizzanti dell’UE, che modifica i regolamenti (CE) n. 1069/2009 e (CE) n. 1107/2009 e che abroga il regolamento (CE) n. 2003/2003, GU L 170 del 25.6.2019, pag. 1; modificato dal: regolamento delegato (UE) 2021/1768, GU L 356 del 8.10.2021, pag. 8; regolamento delegato (UE) 2021/2086, GU L 427 del 30.11.2021, pag. 120; regolamento delegato (UE) 2021/2087, GU L 427 del 30.11.2021, pag. 130; regolamento delegato (UE) 2021/2088, GU L 427 del 30.11.2021, pag. 140; regolamento delegato (UE) 2022/973, GU L 167 del 24.6.2022, pag. 29; regolamento delegato (UE) 2022/1171, GU L 183 del 8.7.2022, pag. 2; regolamento delegato (UE) 2022/1519, GU L 236 del 13.9.2022, pag. 5; regolamento delegato (UE) 2023/409, GU L 59 del 24.2.2023, pag. 1; regolamento (UE) 2024/2516, GU L, 2024/2516, del 30.9.2024.
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ## Capitolo 2: Obblighi degli operatori economici
 
@@ -286,6 +287,19 @@ I concimi di cui al capoverso 1 devono essere costituiti esclusivamente da mater
 - i. CMC 10: prodotti derivati da sottoprodotti di origine animale; oppure
 - j. CMC 100: concime aziendale.
 
+<sup>3</sup>
+
+I concimi di cui ai capoversi 1 e 2 contenenti un sottoprodotto di origine animale del seguente elenco sono soggetti a registrazione:
+
+- a. resti alimentari non provenienti dal traffico transfrontaliero;
+- b. scarti verdi con resti alimentari;
+- c. uova, latte, latticini e colostro;
+- d. prodotti dell’apicoltura;
+- e. lana;
+- f. scarti del metabolismo.[^14-1]
+
+[^14-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
+
 #### Art. 15
 
 **Registrazione**
@@ -310,9 +324,23 @@ Non soggiacciono all’obbligo di registrazione di cui all’articolo 14:
 
 - a. i concimi importati o messi in commercio in quantità inferiore a 100 chilogrammi all’anno;
 - b. i concimi aziendali le cui forniture sono state registrate conformemente all’articolo 29 e che non sono forniti in sacchi;
-- c. i compost e i digestati le cui forniture sono registrate conformemente all’ordinanza del 23 ottobre 2013[^17-1] sui sistemi d’informazione nel campo dell’agricoltura (OSIAgr) e che non sono costituiti da una delle materie prime soggette ad autorizzazione di cui all’articolo 29.
+- c.[^17-1]
 
-[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+  i compost e i digestati:
+
+  - 1\. provenienti da impianti di compostaggio e di fermentazione che dispongono di un regolamento d’esercizio sottoposto all’autorità cantonale competente per parere, e
+  - 2\. che non sono costituiti da materie prime soggette ad autorizzazione di cui all’articolo 20 capoverso 1 lettere b–g o 2;
+
+- d.[^17-2]
+
+  i substrati di coltivazione, tranne se:
+
+  - 1\. le quantità fornite superano 105 chilogrammi di azoto o 15 chilogrammi di fosforo per anno civile,
+  - 2\. sono forniti in sacchi, o
+  - 3\. sono costituiti da materie prime soggette ad autorizzazione di cui all’articolo 20 capoverso 1 lettere b–g o 2.
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
+[^17-2]: Introdotta dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ### Sezione 3: Procedura di registrazione
 
@@ -642,11 +670,13 @@ Tutte le affermazioni contenute nella pubblicità devono essere tecnicamente giu
 
 <sup>1</sup> Salvo disposizioni contrarie, l’esecuzione della presente ordinanza e delle prescrizioni che ne derivano compete all’UFAG.
 
-<sup>2</sup> I Cantoni controllano se i concimi messi in commercio sono conformi alle prescrizioni della presente ordinanza e se i divieti di utilizzazione fondati su quest’ultima sono rispettati. L’UFAG assume tali compiti a titolo sussidiario e coordina i compiti di esecuzione dei Cantoni.
+<sup>2</sup> I Cantoni controllano se i concimi messi in commercio e importati sono conformi alle prescrizioni della presente ordinanza e se i divieti di utilizzazione fondati su quest’ultima sono rispettati. L’UFAG assume tali compiti a titolo sussidiario e coordina i compiti di esecuzione dei Cantoni.[^36-1]
 
 <sup>3</sup> Le autorità di esecuzione possono prelevare, far prelevare o esigere campioni.
 
 <sup>4</sup> Sono autorizzate ad analizzare o a far analizzare ogni anno un campione o, se il comportamento dell’azienda o della persona lo giustifica, più campioni per prodotto a spese dell’azienda o della persona che produce, fabbrica, importa, fornisce in nuovo imballaggio, trasforma o mette in commercio i concimi.
+
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 #### Art. 37
 
@@ -745,6 +775,15 @@ L’identificatore unico di formula (UFI) secondo l’articolo 15*a* OPChim[^44-
 - b. i concimi destinati a utilizzatori privati e messi in commercio prima del 1° gennaio 2022.
 
 [^44-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+
+#### Art. 44a
+
+**Disposizioni transitorie della modifica del 26 novembre 2025**[^44a-1]
+
+I concimi immessi sul mercato prima del 1° gennaio 2026 e contenenti farine di carne e di ossa o proteine animali trasformate devono adempiere le disposizioni di cui all’articolo 34*b* dell’ordinanza del 25 maggio 2011[^44a-2] concernente i sottoprodotti di origine animale entro il 1° gennaio 2028.
+
+[^44a-1]: Introdotto dalla cifra III dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^44a-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 45
 
@@ -1512,11 +1551,13 @@ Se aggiunto al concime, un additivo per concimi ne migliora le proprietà o l’
 
 <sup>2</sup> L’efficacia dei prodotti appartenenti a questa PFC non deve necessariamente essere documentata. In questo caso l’UFAG esige una dicitura sull’etichetta o sui documenti di accompagnamento secondo la quale l’efficacia non è stata verificata.
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 14 cpv. 2 e 20 cpv. 1 lett. b e c)
 
 ## Categorie di materiali costituenti (CMC)
+
+[^t-2]: Aggiornato dalla cifra II dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 <sup>1</sup> Le CMC da 1 a 15 corrispondono a quelle definite nell’allegato II del regolamento (UE) 2019/1009[^annex2-lvlu1-1]. La CMC 100 è specifica della legislazione svizzera sui concimi.
 
@@ -1575,7 +1616,7 @@ CMC 100: Concime aziendale
 
 <sup>1</sup> Un concime soggetto a registrazione può contenere piante, parti di piante o estratti di piante che hanno subito i procedimenti di lavorazione definiti per la CMC 2 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009.
 
-<sup>2</sup> I concimi costituiti integralmente o in parte da piante, parti di piante o estratti di piante che non hanno subito i procedimenti di lavorazione definiti per la CMC 2 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 sono soggetti ad autorizzazione*.*
+<sup>2</sup> Le piante, le parti di piante o gli estratti di piante che non hanno subito i procedimenti di lavorazione definiti per la CMC 2 o per la CMC 6 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 non corrispondono ad alcuna CMC. I concimi che ne sono costituiti o in parte costituiti sono soggetti ad autorizzazione.
 
 ### CMC 3: Compost
 
@@ -1615,35 +1656,35 @@ Un concime può contenere un digestato diverso da quello di colture fresche se q
 
 <sup>2</sup> I sottoprodotti che non adempiono le esigenze relative alla CMC 6 di cui al punto 2 della parte II dell’allegato II del regolamento (UE) 2019/1009 devono essere notificati conformemente all’articolo 24 OPChim.
 
-<sup>3</sup> Un concime costituito o in parte costituito da sottoprodotti dell’industria alimentare che non adempiono le prescrizioni definite per la CMC 6 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 è soggetto ad autorizzazione.
+<sup>3</sup> Un sottoprodotto dell’industria alimentare che non adempie le prescrizioni definite per la CMC 6 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 non corrisponde ad alcuna CMC. I concimi che ne sono costituiti o in parte costituiti sono soggetti ad autorizzazione.
 
 ### CMC 7: Microrganismi
 
-Un concime può contenere microrganismi se è messo in commercio come biostimolante microbico delle piante (PFC 6(A)) o come miscela fisica di concimi (PFC 7) e se è autorizzato dall’UFAG.
+Un concime a cui vengono aggiunti intenzionalmente microrganismi è soggetto ad autorizzazione.
 
 ### CMC 8: Polimeri nutrienti
 
 <sup>1</sup> Un concime soggetto a registrazione costituito o in parte costituito da polimeri nutrienti deve adempiere le esigenze relative alla CMC 8 di cui alla parte II dell’allegato II del regolamento (UE) 2019/1009.
 
-<sup>2</sup> Un concime costituito o in parte costituito da polimeri nutrienti che non adempiono le prescrizioni definite per la CMC 8 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 è soggetto ad autorizzazione.
+<sup>2</sup> Un polimero nutriente che non adempie le prescrizioni definite per la CMC 8 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 non corrisponde ad alcuna CMC. I concimi che ne sono costituiti o in parte costituiti sono soggetti ad autorizzazione.
 
 ### CMC 9: Polimeri diversi dai polimeri nutrienti
 
 <sup>1</sup> Un concime soggetto a registrazione costituito o in parte costituito da polimeri diversi dai polimeri nutrienti deve adempiere le esigenze relative alla CMC 9 di cui alla parte II dell’allegato II del regolamento (UE) 2019/1009.
 
-<sup>2</sup> Un concime costituito o in parte costituito da polimeri diversi dai polimeri nutrienti che non adempiono le prescrizioni definite per la CMC 9 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 è soggetto ad autorizzazione.
+<sup>2</sup> Un polimero diverso dai polimeri nutrienti che non adempie le prescrizioni definite per la CMC 9 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 non corrisponde ad alcuna CMC. I concimi che ne sono costituiti o in parte costituiti sono soggetti ad autorizzazione.
 
 ### CMC 10: Prodotti derivati da sottoprodotti di origine animale
 
 <sup>1</sup> Un concime costituito o in parte costituito da prodotti derivati da sottoprodotti di origine animale che hanno raggiunto il punto finale nella catena di fabbricazione ai sensi dell’OSOAn o del regolamento (CE) n. 1069/2009[^annex2-lvlu1-lvl2-lvlCMC-3] è soggetto a registrazione.
 
-<sup>2</sup> Un concime costituito o in parte costituito da un sottoprodotto di origine animale che non ha raggiunto il punto finale nella catena di fabbricazione ai sensi dell’OSOAn o del regolamento (CE) n. 1069/2009 è soggetto ad autorizzazione. Si applicano le prescrizioni dell’OSOAn.
+<sup>2</sup> Un sottoprodotto di origine animale che non ha raggiunto il punto finale nella catena di fabbricazione ai sensi dell’OSOAn o del regolamento (CE) n. 1069/2009 non corrisponde ad alcuna CMC. I concimi che ne sono costituiti o in parte costituiti sono soggetti ad autorizzazione. Si applicano le prescrizioni dell’OSOAn.
 
 [^annex2-lvlu1-lvl2-lvlCMC-3]: Regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio del 21 ottobre 2009 recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano e che abroga il regolamento (CE) n. 1774/2002 (regolamento sui sottoprodotti di origine animale), GU L 300 del 14.11.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1009 del 5.6.2019, GU L 170 del 25.6.2019, pag. 1.
 
 ### CMC 11: Sottoprodotti ai sensi della direttiva 2008/98/CE
 
-Un concime costituito o in parte costituito da sottoprodotti ai sensi dell’articolo 5 della direttiva 2008/98/CE è soggetto ad autorizzazione.
+Un concime costituito o in parte costituito da sottoprodotti ai sensi dell’articolo 5 della direttiva 2008/98/CE deve adempiere le prescrizioni definite per la CMC 11 ai sensi della parte II dell’allegato II del regolamento (UE) 2019/1009 ed è soggetto ad autorizzazione.
 
 ### CMC 12: Precipitati di sali di fosfato e loro derivati
 
@@ -1693,13 +1734,13 @@ Un concime costituito o in parte costituito da materiali di elevata purezza recu
 
 Un concime può contenere un concime aziendale se i requisiti di qualità ai sensi dell’allegato 2.6 ORRPChim sono soddisfatti.
 
-Allegato 3[^t-2]
+Allegato 3[^t-3]
 
 (art. 31 cpv. 1)
 
 ## Prescrizioni di etichettatura
 
-[^t-2]: Aggiornato dalla correzione del 13 ago. 2024 ([RU 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
+[^t-3]: Aggiornato dalla correzione del 13 ago. 2024 ([RU 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)) e dalla cifra II dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ### 1 Prescrizioni generali di etichettatura
 
@@ -1728,6 +1769,8 @@ Allegato 3[^t-2]
 <sup>5</sup> La dicitura «a basso tenore di cloruro» o un’espressione simile può essere utilizzata soltanto se il tenore di cloruro (Cl-) è inferiore a 30 g/kg di sostanza secca.
 
 <sup>6</sup> Qualora le prescrizioni relative alle informazioni di cui al presente allegato facciano riferimento al carbonio organico (C<sub>org</sub>), le informazioni possono riferirsi alla sostanza organica in luogo del o in aggiunta al carbonio organico (C<sub>org</sub>), conformemente al seguente fattore di conversione: carbonio organico (C<sub>org</sub>) = sostanza organica × 0,56.
+
+<sup>6bis</sup> Se si aggiungono intenzionalmente microrganismi, devono esserne indicati il genere, la specie e i ceppi. La loro concentrazione deve essere espressa quale numero di unità attive per volume o peso o in qualsiasi altro modo pertinente per il microrganismo, ad esempio in unità formanti colonie per grammo (ufc/g). L’etichetta deve contenere la dicitura: «I microrganismi possono provocare reazioni di sensibilizzazione».
 
 <sup>7</sup> Qualora il concime sia un substrato di coltivazione di cui al punto 2<sup>bis</sup> della PFC 4 della parte II dell’allegato I del regolamento (UE) 2019/1009 o contenga un polimero allo scopo di legare materiale nel prodotto, di cui al punto 1 lettera c della CMC 9 della parte II dell’allegato II del regolamento (UE) 2019/1009, all’utilizzatore è fornita l’istruzione di non utilizzare il prodotto a contatto con il suolo e, in collaborazione con il fabbricante, di provvedere a uno smaltimento corretto del prodotto dopo la fine dell’utilizzazione.
 
@@ -2189,12 +2232,6 @@ Devono essere fornite le seguenti informazioni:
 - c. effetto dichiarato per ogni pianta bersaglio;
 - d. qualsiasi istruzione pertinente relativa all’efficacia del prodotto, comprese le pratiche di gestione del suolo, la concimazione chimica, l’incompatibilità con prodotti fitosanitari, la dimensione raccomandata degli ugelli irroranti, la pressione raccomandata dell’irroratrice e altre misure antideriva.
 
-### PFC 6(A): Biostimolante microbico delle piante
-
-<sup>1</sup> Il genere, la specie e i ceppi di tutti i microrganismi aggiunti intenzionalmente devono essere indicati. La loro concentrazione deve essere espressa quale numero di unità attive per volume o peso o in qualsiasi altro modo pertinente per il microrganismo, ad esempio in unità formanti colonie per grammo (ufc/g).
-
-<sup>2</sup> L’etichetta deve contenere la dicitura: «I microrganismi possono provocare reazioni di sensibilizzazione».
-
 ### PFC 7: Miscela fisica di concimi
 
 <sup>1</sup> Tutte le prescrizioni di etichettatura applicabili a ciascuno dei concimi costituenti si applicano alla miscela fisica di concimi e devono essere espresse in riferimento alla miscela fisica finale di concimi.
@@ -2219,7 +2256,7 @@ Devono essere fornite le seguenti informazioni:
 - c. conducibilità elettrica;
 - d. quantità.
 
-<sup>3</sup> Le prescrizioni di etichettatura di cui ai capoversi 1 e 2 non si applicano al concime aziendale proveniente da un’azienda di allevamento di animali fornito direttamente agli utilizzatori finali professionali secondo l’OSIAgr[^annex3-lvlu1-lvl2-lvlu8-1]. I Principi di concimazione di Agroscope fungono da istruzioni concernenti l’utilizzazione.
+<sup>3</sup> Le prescrizioni di etichettatura di cui ai capoversi 1 e 2 non si applicano ai concimi aziendali provenienti da un’azienda di allevamento di animali, forniti direttamente agli utilizzatori finali professionali e registrati secondo l’OSIAgr[^annex3-lvlu1-lvl2-lvlu8-1]. I Principi di concimazione di Agroscope fungono da istruzioni concernenti l’utilizzazione.
 
 <sup>4</sup> In caso di fornitura in sacchi di concime aziendale, le istruzioni concernenti l’utilizzazione devono tener conto delle raccomandazioni in materia di concimazione applicabili per il rispettivo acquirente.
 

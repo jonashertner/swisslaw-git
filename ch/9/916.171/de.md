@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2023 über das Inverkehrbringen von Düngern 
 short: DüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: de
-version: 2025-06-01
+version: 2026-01-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/de"
 
 (Düngerverordnung, DüV)
 
-vom 1. November 2023 (Stand am 1. Juni 2025)
+vom 1. November 2023 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -92,7 +92,7 @@ In dieser Verordnung bedeuten:
 - j. *Loselieferung:* Düngerlieferung ohne Verpackung;
 - k. *Blattdünger:* Dünger, der auf das Aufbringen auf die Blätter und die Aufnahme von Nährstoffen über die Blätter ausgelegt ist.
 
-<sup>2</sup> Für die korrekte Auslegung der Verordnung (EU) 2019/1009[^2-1], auf die in dieser Verordnung verwiesen wird, gelten die folgenden Entsprechungen von Ausdrücken:
+<sup>2</sup> Für die korrekte Auslegung der Verordnung (EU) 2019/1009[^2-1], auf die in dieser Verordnung verwiesen wird, gelten die folgenden Entsprechungen von Ausdrücken:[^2-2]
 
 <table>
 <tr><th>EU</th><th>Schweiz</th></tr>
@@ -112,7 +112,8 @@ In dieser Verordnung bedeuten:
 <tr><td>materia secca</td><td>sostanza secca</td></tr>
 </table>
 
-[^2-1]: Verordnung (EU) 2019/1009 des Europäischen Parlaments und des Rates vom 5. Juni 2019 mit Vorschriften für die Bereitstellung von EU-Düngeprodukten auf dem Markt und zur Änderung der Verordnungen (EG) Nr. 1069/2009 und (EG) Nr. 1107/2009 sowie zur Aufhebung der Verordnung (EG) Nr. 2003/2003, ABl. L 170 vom 25.6.2019, S. 1; zuletzt geändert durch die Delegierte Verordnung (EU) Nr. 2023/409, ABl. L 59 vom 24.2.2023, S. 1.
+[^2-1]: Verordnung (EU) 2019/1009 des Europäischen Parlaments und des Rates vom 5. Juni 2019 mit Vorschriften für die Bereitstellung von EU-Düngeprodukten auf dem Markt und zur Änderung der Verordnungen (EG) Nr. 1069/2009 und (EG) Nr. 1107/2009 sowie zur Aufhebung der Verordnung (EG) Nr. 2003/2003, ABl. L 170 vom 25.6.2019, S. 1; geändert durch: Delegierte Verordnung (EU) 2021/1768, ABl. L 356 vom 8.10.2021, S. 8; Delegierte Verordnung (EU) 2021/2086, ABl. L 427 vom 30.11.2021, S. 120; Delegierte Verordnung (EU) 2021/2087, ABl. L 427 vom 30.11.2021, S. 130; Delegierte Verordnung (EU) 2021/2088, ABl. L 427 vom 30.11.2021, S. 140; Delegierte Verordnung (EU) 2022/973, ABl. L 167 vom 24.6.2022, S. 29; Delegierte Verordnung (EU) 2022/1171, ABl. L 183 vom 8.7.2022, S. 2; Delegierte Verordnung (EU) 2022/1519, ABl. L 236 vom 13.9.2022, S. 5; Delegierte Verordnung (EU) 2023/409, ABl. L 59 vom 24.2.2023, S. 1; Verordnung (EU) 2024/2516, ABl. L, 2024/2516, 30.9.2024.
+[^2-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ## 2. Kapitel: Pflichten der Wirtschaftsakteure
 
@@ -286,6 +287,19 @@ Dünger nach Absatz 1 dürfen ausschliesslich aus Ausgangsmaterialien der folgen
 - i. CMC 10: Folgeprodukte aus tierischen Nebenprodukten; oder
 - j. CMC 100: Hofdünger.
 
+<sup>3</sup>
+
+Dünger nach den Absätzen 1 und 2, die eines der folgenden tierischen Nebenprodukte enthalten, sind registrierungspflichtig:
+
+- a. Speisereste, die nicht aus Transportmitteln stammen, die im grenzüberschreitenden Verkehr eingesetzt werden;
+- b. Grüngut mit Speiseresten;
+- c. Eier, Milch, Milchprodukte und Kolostrum;
+- d. Imkereiprodukte;
+- e. Wolle;
+- f. Stoffwechselprodukte.[^14-1]
+
+[^14-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
+
 #### Art. 15
 
 **Registrierung**
@@ -310,9 +324,23 @@ Von der Registrierungspflicht nach Artikel 14 ausgenommen sind:
 
 - a. Dünger, von denen pro Jahr weniger als 100 kg importiert oder in Verkehr gebracht werden;
 - b. Hofdünger, deren Lieferungen gemäss Artikel 29 erfasst wurden und die nicht in Säcken abgegeben werden;
-- c. Kompost und Gärgut, deren Lieferungen gemäss der Verordnung vom 23. Oktober 2013[^17-1] über Informationssysteme im Bereich der Landwirtschaft (ISLV) registriert sind und die nicht aus einem nach Artikel 29 bewilligungspflichtigen Ausgangsmaterial bestehen.
+- c.[^17-1]
 
-[^17-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+  Kompost und Gärgut, die:
+
+  - 1\. aus einer Kompostier- oder Vergärungsanlage stammen, die über ein Betriebsreglement verfügt, das der zuständigen kantonalen Behörde zur Stellungnahme unterbreitet wurde, und
+  - 2\. die nicht aus Ausgangsmaterialien nach Artikel 20 Absatz 1 Buchstabe b–g oder Absatz 2 bestehen;
+
+- d.[^17-2]
+
+  Kultursubstrate; nicht ausgenommen sind Kultursubstrate, wenn:
+
+  - 1\. die gelieferten Mengen 105 kg Stickstoff und 15 kg Phosphor pro Kalenderjahr überschreiten,
+  - 2\. sie in Säcken abgegeben werden, oder
+  - 3\. sie aus Ausgangsmaterialien nach Artikel 20 Absatz 1 Buchstabe b–g oder Absatz 2 bestehen.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
+[^17-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ### 3. Abschnitt: Registrierungsverfahren
 
@@ -642,11 +670,13 @@ Alle in der Werbung verwendeten Aussagen müssen technisch zu rechtfertigen sein
 
 <sup>1</sup> Soweit nicht anders geregelt, vollzieht das BLW diese Verordnung und die hierauf erlassenen Vorschriften.
 
-<sup>2</sup> Die Kantone kontrollieren, ob in Verkehr gebrachte Dünger die Vorschriften dieser Verordnung erfüllen und ob die auf diese Verordnung gestützten Verwendungsverbote eingehalten werden. Das BLW nimmt diese Aufgaben subsidiär wahr und koordiniert die Vollzugsaufgaben der Kantone.
+<sup>2</sup> Die Kantone kontrollieren, ob die in Verkehr gebrachten und importierten Dünger den Bestimmungen dieser Verordnung entsprechen und ob die auf diese Verordnung gestützten Verwendungsverbote eingehalten werden. Das BLW nimmt diese Aufgaben subsidiär wahr und koordiniert die Vollzugsaufgaben der Kantone.[^36-1]
 
 <sup>3</sup> Die Vollzugsbehörden können Proben nehmen, nehmen lassen oder einfordern.
 
 <sup>4</sup> Sie sind ermächtigt, jährlich pro Produkt eine Probe oder, soweit das Verhalten eines Unternehmens oder einer Person dazu Anlass gibt, mehrere Proben auf Kosten des Unternehmens oder der Person, die die Dünger gewinnt, herstellt, importiert, neu verpackt, umarbeitet oder in Verkehr bringt, zu untersuchen oder untersuchen zu lassen.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 #### Art. 37
 
@@ -689,9 +719,11 @@ Das BLW kann:
 
 <sup>2</sup> Das BLW kann das BAZG beauftragen, zeitlich befristet die Durchführung bestimmter physischer Kontrollen zu intensivieren.
 
-<sup>3</sup> Entsprechen die Dünger nicht den Anforderungen dieser Verordnung oder besteht ein entsprechender Verdacht besteht, so kann das BAZG die Dünger vorläufig sicherstellen und den anderen Vollzugsbehörden nach dieser Verordnung übergeben. Diese übernehmen die weiteren Abklärungen und treffen die erforderlichen Massnahmen.
+<sup>3</sup> Entsprechen die Dünger nicht den Anforderungen dieser Verordnung oder besteht ein entsprechender Verdacht, so kann das BAZG die Dünger vorläufig sicherstellen und den anderen Vollzugsbehörden nach dieser Verordnung übergeben. Diese übernehmen die weiteren Abklärungen und treffen die erforderlichen Massnahmen.[^39-1]
 
 <sup>4</sup> Das BAZG übermittelt dem BLW die für den Vollzug dieser Verordnung notwendigen Daten.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 #### Art. 40
 
@@ -745,6 +777,15 @@ Der eindeutige Rezepturidentifikator (UFI) nach Artikel 15*a* ChemV[^44-1] muss 
 - b. Dünger, die für private Verwender bestimmt sind und vor dem 1. Januar 2022 in Verkehr gebracht wurden.
 
 [^44-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+
+#### Art. 44a
+
+**Übergangsbestimmung zur Änderung vom 26. November 2025**[^44a-1]
+
+Dünger, die vor dem 1. Januar 2026 in Verkehr gebracht wurden und Fleisch- und Knochenmehl oder verarbeitetes tierisches Protein enthalten, müssen spätestens am 1. Januar 2028 die Bestimmungen nach Artikel 34*b* der Verordnung vom 25. Mai 2011[^44a-2] über tierische Nebenprodukte einhalten.
+
+[^44a-1]: Eingefügt durch Ziff. III der vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^44a-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 45
 
@@ -1512,11 +1553,13 @@ Ein Zusatz zu Dünger verbessert die Eigenschaften oder die Wirksamkeit von Dün
 
 <sup>2</sup> Die Wirksamkeit von Produkten, die zu dieser PFC gehören, muss nicht zwingend dokumentiert werden. In diesem Fall verlangt das BLW einen Hinweis auf der Etikette oder in den Begleitdokumenten, dass die Wirksamkeit nicht überprüft wurde.
 
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 14 Abs. 2 sowie 20 Abs. 1 Bst. b und c)
 
 ## Komponentenmaterialkategorien (CMC)
+
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 <sup>1</sup> Die CMC 1–15 entsprechen den in Anhang II der Verordnung (EU) 2019/1009[^annex2-lvlu1-1] festgelegten Kategorien. Die CMC 100 ist spezifisch für die schweizerische Düngergesetzgebung.
 
@@ -1575,7 +1618,7 @@ CMC 100: Hofdünger
 
 <sup>1</sup> Ein registrierungspflichtiger Dünger kann Pflanzen, Pflanzenteile oder Pflanzenextrakte enthalten, die die für Anhang II Teil II CMC 2 der Verordnung (EU) 2019/1009 festgelegten Behandlungen einhalten.
 
-<sup>2</sup> Dünger, die aus Pflanzen, Pflanzenteilen oder Pflanzenextrakten bestehen oder Teile davon enthalten, die nicht die für Anhang II Teil II CMC 2 der Verordnung (EU) 2019/1009 festgelegten Behandlungen einhalten, sind bewilligungspflichtig*.*
+<sup>2</sup> Pflanzen, Pflanzenteile und Pflanzenextrakte, die nicht die für Anhang II Teil II CMC 2 oder CMC 6 der Verordnung (EU) 2019/1009 festgelegten Behandlungen einhalten, entsprechen keiner CMC. Dünger, die daraus bestehen oder Teile davon enthalten, sind bewilligungspflichtig.
 
 ### CMC 3: Kompost
 
@@ -1615,35 +1658,35 @@ Ein Dünger kann anderes Gärgut als frisches Gärgut von Pflanzen enthalten, di
 
 <sup>2</sup> Ein Nebenprodukt, das die Anforderungen nach Anhang II Teil II CMC 6 Nummer 2 der Verordnung (EU) 2019/1009 nicht erfüllt, muss nach Artikel 24 ChemV angemeldet werden.
 
-<sup>3</sup> Ein Dünger, der vollständig oder teilweise aus einem Nebenprodukt der Nahrungsmittelindustrie besteht, das die für Anhang II Teil II CMC 6 der Verordnung (EU) 2019/1009 festgelegten Anforderungen nicht erfüllt, ist bewilligungspflichtig.
+<sup>3</sup> Ein Nebenprodukt der Nahrungsmittelindustrie, das die Anforderungen nach Anhang II Teil II CMC 6 der Verordnung (EU) 2019/1009 nicht erfüllt, entspricht keiner CMC. Dünger, die daraus bestehen oder Teile davon enthalten, sind bewilligungspflichtig.
 
 ### CMC 7: Mikroorganismen
 
-Ein Dünger kann Mikroorganismen enthalten, wenn er als mikrobielles Pflanzen-Biostimulans (PFC 6.A) oder als Düngermischung (PFC 7) in Verkehr gebracht wird und vom BLW bewilligt ist.
+Dünger, denen absichtlich Mikroorganismen zugesetzt wurden, sind bewilligungspflichtig.
 
 ### CMC 8: Nährstoff-Polymere
 
 <sup>1</sup> Ein registrierungspflichtiger Dünger, der ganz oder teilweise aus Nährstoff-Polymeren besteht, muss die Anforderungen erfüllen, die für Anhang II Teil II CMC 8 der Verordnung (EU) 2019/1009 festgelegt wurden.
 
-<sup>2</sup> Ein Dünger, der ganz oder teilweise aus einem Nährstoff-Polymer besteht, der die für Anhang II Teil II CMC 8 der Verordnung (EU) 2019/1009 festgelegten Anforderungen nicht erfüllt, ist bewilligungspflichtig.
+<sup>2</sup> Ein Nährstoff-Polymer, das die für Anhang II Teil II CMC 8 der Verordnung (EU) 2019/1009 festgelegten Anforderungen nicht erfüllt, entspricht keiner CMC. Dünger, die daraus bestehen oder Teile davon enthalten, sind bewilligungspflichtig.
 
 ### CMC 9: Sonstige Polymere mit Ausnahme von Nährstoff-Polymeren
 
 <sup>1</sup> Ein registrierungspflichtiger Dünger, der ganz oder teilweise aus sonstigen Polymeren mit Ausnahme von Nährstoff-Polymeren besteht, muss die Anforderungen erfüllen, die für Anhang II Teil II CMC 9 der Verordnung (EU) 2019/1009 festgelegt wurden.
 
-<sup>2</sup> Ein Dünger, der ganz oder teilweise aus einem sonstigen Polymer mit Ausnahme von Nährstoff-Polymeren besteht, der die für Anhang II Teil II CMC 9 der Verordnung (EU) 2019/1009 festgelegten Anforderungen nicht erfüllt, ist bewilligungspflichtig.
+<sup>2</sup> Ein sonstiges Polymer mit Ausnahme von Nährstoff-Polymeren, die die Anforderungen nach Anhang II Teil II CMC 9 der Verordnung (EU) 2019/1009 nicht erfüllen, entsprechen keiner CMC. Dünger, die daraus bestehen oder Teile davon enthalten, sind bewilligungspflichtig.
 
 ### CMC 10: Folgeprodukte aus tierischen Nebenprodukten
 
 <sup>1</sup> Ein Dünger, der ganz oder teilweise aus Folgeprodukten tierischer Nebenprodukte besteht, die den Endpunkt der Herstellungskette im Sinne der VTNP oder der Verordnung (EG) Nr. 1069/2009[^annex2-lvlu1-lvl2-lvlCMC-3] erreicht haben, ist registrierungspflichtig.
 
-<sup>2</sup> Ein Dünger, der ganz oder teilweise aus Folgeprodukten aus tierischen Nebenprodukten besteht, die den Endpunkt der Herstellungskette im Sinne der VTNP oder der Verordnung (EG) Nr. 1069/2009 noch nicht erreicht haben, ist bewilligungspflichtig. Es gelten die Vorschriften der VTNP.
+<sup>2</sup> Ein Folgeprodukt aus tierischen Nebenprodukten, das den Endpunkt der Herstellungskette im Sinne der VTNP oder der Verordnung (EG) Nr. 1069/2009 noch nicht erreicht hat, entspricht keiner CMC. Dünger, die daraus bestehen oder Teile davon enthalten, sind bewilligungspflichtig. Es gelten die Vorschriften der VTNP.
 
 [^annex2-lvlu1-lvl2-lvlCMC-3]: Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte), ABl. L 300 vom 14.11.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1009 ABl. L 170 vom 25.6.2019, S. 1.
 
 ### CMC 11: Nebenprodukte im Sinne der Richtlinie 2008/98/EG
 
-Ein Dünger, der ganz oder teilweise aus Nebenprodukten im Sinne von Artikel 5 der Richtlinie 2008/98/EG besteht, ist bewilligungspflichtig.
+Dünger, die aus Nebenprodukten im Sinne von Artikel 5 der Richtlinie 2008/98/EG bestehen oder solche enthalten, müssen die Anforderungen nach Anhang II Teil II CMC 11 der Verordnung (EU) 2019/1009 erfüllen und sind bewilligungspflichtig.
 
 ### CMC 12: Gefällte Phosphatsalze und deren Folgeprodukte
 
@@ -1693,13 +1736,13 @@ Ein Dünger, der ganz oder teilweise aus zurückgewonnenen hochreinen Materialie
 
 Ein Dünger darf einen Hofdünger enthalten, wenn die Qualitätsvorschriften nach Anhang 2.6 ChemRRV eingehalten werden.
 
-Anhang 3[^t-2]
+Anhang 3[^t-3]
 
 (Art. 31 Abs. 1)
 
 ## Kennzeichnungsanforderungen
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 13. Aug. 2024 ([AS 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ### 1 Allgemeine Kennzeichnungsanforderungen
 
@@ -1728,6 +1771,8 @@ Anhang 3[^t-2]
 <sup>5</sup> Der Hinweis «chloridarm» oder ein ähnlicher Ausdruck darf nur verwendet werden, wenn der Anteil an Chlor (Cl-) weniger als 30 g/kg Trockenmasse beträgt.
 
 <sup>6</sup> Beziehen sich die gemäss diesem Anhang vorgeschriebenen Informationen auf organischen Kohlenstoff (C<sub>org</sub>), so kann sich die Information statt auf den organischen Kohlenstoff (C<sub>org</sub>) oder zusätzlich zu diesem auf das organische Material beziehen, wobei folgender Umrechnungsfaktor anzuwenden ist: organischer Kohlenstoff C<sub>org</sub> = organisches Material × 0,56.
+
+<sup>6bis</sup> Wurden die Mikroorganismen absichtlich zugesetzt, so sind sie mit Gattung, Art und Stamm anzugeben. Ihre Konzentration ist als Zahl aktiver Einheiten je Volumen- oder Gewichtseinheit oder in einer anderen für den Mikroorganismus relevanten Weise, wie als koloniebildende Einheiten pro Gramm (KBE/g), auszudrücken. Die Etikette muss folgenden Hinweis enthalten: «Mikroorganismen können allergische Reaktionen hervorrufen».
 
 <sup>7</sup> Ist der Dünger ein Kultursubstrat gemäss Anhang I Teil II PFC 4 Nummer 2*a* der Verordnung (EU) 2019/1009[^annex3-lvlu1-lvl1-2] oder enthält es ein Polymer, das zur Einbindung von Material in das Produkt dient, wie in Anhang II Teil II CMC 9 Nummer 1 Buchstabe c der Verordnung (EU) 2019/1009 beschrieben, so ist die Anwenderin oder der Anwender anzuweisen, das Produkt nicht so zu verwenden, dass es mit dem Boden in Berührung kommt, und es ist in Zusammenarbeit mit dem Hersteller für eine sachgerechte Entsorgung des Produkts nach Beendigung der Anwendung zu sorgen.
 
@@ -2193,12 +2238,6 @@ Folgende Angaben sind zu machen:
 - c. Wirkung, die für jede Zielpflanze angegeben wird;
 - d. alle einschlägigen Anweisungen in Bezug auf die Wirksamkeit des Produkts, einschliesslich der Verfahren der Bodenbewirtschaftung, chemischer Düngung, Unvereinbarkeit mit Pflanzenschutzmitteln, empfohlener Sprühdüsengrösse, empfohlenem Sprühdruck und anderen Massnahmen zur Abdriftminderung.
 
-### PFC 6(A): Mikrobielles Pflanzen-Biostimulans
-
-<sup>1</sup> Alle absichtlich zugesetzten Mikroorganismen sind mit Gattung, Art und Stamm anzugeben. Ihre Konzentration ist als Zahl aktiver Einheiten je Volumen- oder Gewichtseinheit oder in einer anderen für den Mikroorganismus relevanten Weise, z. B. als koloniebildende Einheiten pro Gramm (KBE/g), auszudrücken.
-
-<sup>2</sup> Die Etikette muss folgenden Hinweis enthalten: «Mikroorganismen können allergische Reaktionen hervorrufen».
-
 ### PFC 7: Düngermischung
 
 <sup>1</sup> Alle Kennzeichnungsvorschriften für alle Dünger als Mischungskomponenten gelten für die Düngermischung und sind auszudrücken in Bezug auf die fertige Düngermischung.
@@ -2223,7 +2262,7 @@ Folgende Angaben sind zu machen:
 - c. elektrische Leitfähigkeit;
 - d. Menge.
 
-<sup>3</sup> Hofdünger, die von einem Betrieb mit Nutztierhaltung direkt an gewerbliche Endverbraucherinnen und Endverbraucher abgegeben werden und die gemäss der ISLV[^annex3-lvlu1-lvl2-lvlu8-1] worden sind, sind von den Kennzeichnungsvorschriften nach den Absätzen 1 und 2 ausgenommen. Als Gebrauchsanweisung gelten die Grundlagen für die Düngung von Agroscope.
+<sup>3</sup> Hofdünger, die von einem Betrieb mit Nutztierhaltung direkt an gewerbliche Endverbraucherinnen und Endverbraucher abgegeben werden und die gemäss der ISLV[^annex3-lvlu1-lvl2-lvlu8-1] registriert worden sind, sind von den Kennzeichnungsvorschriften nach den Absätzen 1 und 2 ausgenommen. Als Gebrauchsanweisung gelten die Grundlagen für die Düngung von Agroscope.
 
 <sup>4</sup> Wird Hofdünger in Säcken abgegeben, so muss die Gebrauchsanweisung die für die jeweilige Abnehmerin oder den jeweiligen Abnehmer anwendbaren Düngungsempfehlungen berücksichtigen.
 
@@ -2248,7 +2287,7 @@ Folgende Angaben sind zu machen:
 
 <sup>1</sup> Zusätzlich zur Bezeichnung der PFC kann das BLW eine weitere Bezeichnung des Produkts bewilligen.
 
-<sup>2</sup> Liegt kein ausreichender Nachweis betreffend die beabsichtigten Wirkungen vor, so muss der Hinweis «Die Wirksamkeit wurde im Rahmen des Zulassungsverfahren nicht geprüft» auf der Etikette angebracht werden.
+<sup>2</sup> Liegt kein ausreichender Nachweis betreffend die beabsichtigten Wirkungen vor, so muss der Hinweis «Die Wirksamkeit wurde im Rahmen des Zulassungsverfahrens nicht geprüft» auf der Etikette angebracht werden.
 
 Anhang 4
 

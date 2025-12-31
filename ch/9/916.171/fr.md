@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2023 sur la mise en circulation de
 short: OEng
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: fr
-version: 2025-06-01
+version: 2026-01-01
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20250601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20250601/fr"
 
 (Ordonnance sur les engrais, OEng)
 
-du 1<sup>er</sup> novembre 2023 (État le 1<sup>er</sup> juin 2025)
+du 1<sup>er</sup> novembre 2023 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -92,7 +92,7 @@ On entend par:
 - j. *livraison en vrac:* livraison d’engrais sans emballage;
 - k. *engrais foliaire:* engrais destiné à être appliqué sur le feuillage des plantes en vue d’une absorption foliaire des éléments fertilisants.
 
-<sup>2</sup> Afin d’interpréter correctement le règlement (UE) 2019/1009[^2-1], auquel renvoie la présente ordonnance, on tiendra compte des équivalences suivantes entre les expressions utilisées:
+<sup>2</sup> Afin d’interpréter correctement le règlement (UE) 2019/1009[^2-1], auquel renvoie la présente ordonnance, on tiendra compte des équivalences suivantes entre les expressions utilisées:[^2-2]
 
 <table>
 <tr><th>UE</th><th>Suisse</th></tr>
@@ -112,7 +112,8 @@ On entend par:
 <tr><td>materia secca</td><td>sostanza secca</td></tr>
 </table>
 
-[^2-1]: Règlement (UE) 2019/1009 du Parlement européen et du Conseil du 5 juin 2019 établissant les règles relatives à la mise à disposition sur le marché des fertilisants UE, modifiant les règlements (CE) n<sup>o</sup> 1069/2009 et (CE) n<sup>o</sup> 1107/2009 et abrogeant le règlement (CE) n<sup>o</sup> 2003/2003, JO L 170 du 25.6.2019, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2023/409, JO L 59 du 24.2.2023, p. 1.
+[^2-1]: Règlement (UE) 2019/1009 du Parlement européen et du Conseil du 5 juin 2019 établissant les règles relatives à la mise à disposition sur le marché des fertilisants UE, modifiant les règlements (CE) n<sup>o</sup> 1069/2009 et (CE) n<sup>o</sup> 1107/2009 et abrogeant le règlement (CE) n<sup>o</sup> 2003/2003, JO L 170 du 25.6.2019, p. 1; modifié par: le règlement délégué (UE) 2021/1768, JO L 356 du 8.10.2021, p. 8; le règlement délégué (UE) 2021/2086, JO L 427 du 30.11.2021, p. 120; le règlement délégué (UE) 2021/2087, JO L 427 du 30.11.2021, p. 130; le règlement délégué (UE) 2021/2088, JO L 427 du 30.11.2021, p. 140; le règlement délégué (UE) 2022/973, JO L 167 du 24.6.2022, p. 29; le règlement délégué (UE) 2022/1171, JO L 183 du 8.7.2022, p. 2; le règlement délégué (UE) 2022/1519, JO L 236 du 13.9.2022, p. 5; le règlement délégué (UE) 2023/409, JO L 59 du 24.2.2023, p. 1; le règlement (UE) 2024/2516, JO L, 2024/2516, 30.9.2024.
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ## Chapitre 2 Obligations des opérateurs économiques
 
@@ -286,6 +287,19 @@ Les engrais visés à l’al. 1 doivent être constitués uniquement de matière
 - i. CMC 10: Produits dérivés provenant de sous-produits animaux, ou
 - j. CMC 100: Engrais de ferme.
 
+<sup>3</sup>
+
+Les engrais visés aux al. 1 et 2 contenant un sous-produit animal de la liste suivante sont soumis à enregistrement:
+
+- a. les restes d’aliments ne provenant pas de moyens de transport opérant au niveau international;
+- b. les déchets verts contenant des restes d’aliments;
+- c. les œufs, le lait, les produits laitiers et le colostrum;
+- d. les produits de l’apiculture;
+- e. la laine;
+- f. les déchets du métabolisme.[^14-1]
+
+[^14-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
+
 #### Art. 15
 
 **Enregistrement**
@@ -308,11 +322,25 @@ Les engrais visés à l’al. 1 doivent être constitués uniquement de matière
 
 Sont exemptés de l’enregistrement obligatoire visé à l’art. 14:
 
-- a. les engrais qui sont importés ou mis en circulation en quantité inférieure à 100 kg par an.
-- b. les engrais de ferme dont les livraisons ont été saisies conformément à l’art. 29 et qui ne sont pas remis en sacs.
-- c. les composts et digestats dont les livraisons sont enregistrées conformément à l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture (OSIAgr)[^17-1] et qui ne sont pas constitués d’une des matières premières soumises à autorisation visées à l’art. 29.
+- a. les engrais qui sont importés ou mis en circulation en quantité inférieure à 100 kg par an;
+- b. les engrais de ferme dont les livraisons ont été saisies conformément à l’art. 29 et qui ne sont pas remis en sacs;
+- c.[^17-1]
 
-[^17-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+  les composts et les digestats:
+
+  - 1\. qui proviennent d’installations de compostage et de méthanisation disposant d’un règlement d’exploitation, soumis à l’autorité cantonale compétente pour avis, et
+  - 2\. qui ne sont pas constitués de matières premières soumises à autorisation visées à l’art. 20, al. 1, let. b à g ou al. 2;
+
+- d.[^17-2]
+
+  les supports de cultures sauf:
+
+  - 1\. si les quantités livrées dépassent 105 kg d’azote ou 15 kg de phosphore par année civile,
+  - 2\. s’ils sont remis en sacs, ou
+  - 3\. s’ils sont constitués de matières premières soumise à autorisation visées à l’art. 20, al. 1, let. b à g ou al. 2.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
+[^17-2]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ### Section 3 Procédure d’enregistrement
 
@@ -643,11 +671,13 @@ Toutes les allégations publicitaires doivent se justifier sur le plan technique
 
 <sup>1</sup> Sauf dispositions contraires, l’exécution de la présente ordonnance et l’application des prescriptions qui en découlent relèvent de l’OFAG.
 
-<sup>2</sup> Les cantons vérifient que les engrais mis en circulation sont conformes aux prescriptions de la présente ordonnance et que les interdictions d’utilisation fondées sur celle-ci sont respectées. L’OFAG exécute ces tâches à titre subsidiaire et coordonne les tâches d’exécution des cantons.
+<sup>2</sup> Les cantons vérifient que les engrais mis en circulation et importés sont conformes aux prescriptions de la présente ordonnance et que les interdictions d’utilisation fondées sur celle-ci sont respectées. L’OFAG exécute ces tâches à titre subsidiaire et coordonne les tâches d’exécution des cantons.[^36-1]
 
 <sup>3</sup> Les autorités d’exécution peuvent prélever, faire prélever ou exiger des échantillons.
 
 <sup>4</sup> Elles sont autorisées à analyser ou à faire analyser chaque année aux frais de l’entreprise ou de la personne qui produit, fabrique, importe, réemballe, transforme ou met en circulation les engrais un échantillon par produit ou, si le comportement de l’entreprise ou de la personne le justifie, plusieurs échantillons du produit.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 #### Art. 37
 
@@ -746,6 +776,15 @@ L’identifiant unique de formulation (UFI) au sens de l’art. 15*a* OChim[^44-
 - b. les engrais destinés aux utilisateurs privés et mis sur le marché avant le 1<sup>er</sup> janvier 2022.
 
 [^44-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+
+#### Art. 44a
+
+**Disposition transitoire de la modification du 26 novembre 2025**[^44a-1]
+
+Les engrais mis en circulation avant le 1<sup>er</sup> janvier 2026 et contenant des farines de viande et d’os ou des protéines animales transformées doivent satisfaire aux dispositions de l’art. 34*b* de l’ordonnance du 25 mai 2011 concernant les sous-produits animaux[^44a-2] dans un délai de 1<sup>er</sup> janvier 2028.
+
+[^44a-1]: Introduit par le ch. III de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^44a-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 45
 
@@ -1513,11 +1552,13 @@ Un additif aux engrais améliore les propriétés ou l’efficacité des engrais
 
 <sup>2</sup> L’efficacité des produits appartenant à cette PFC ne doit pas obligatoirement être documentée. Dans ce cas de figure, l’OFAG exige une mention sur l’étiquette ou dans les documents d’accompagnement indiquant que l’efficacité n’a pas été vérifiée.
 
-Annexe 2
+Annexe 2[^t-2]
 
 (art. 14, al. 2, et 20, al. 1, let. b et c)
 
 ## Catégories de matières constitutives (CMC)
+
+[^t-2]: Mise à jour par le ch. II de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 <sup>1</sup> Les CMC 1 à 15 correspondent à celles définies dans l’annexe II du règlement (UE) 2019/1009[^annex2-lvlu1-1]. La CMC 100 est propre à la législation suisse sur les engrais.
 
@@ -1576,7 +1617,7 @@ CMC 100: Engrais de ferme
 
 <sup>1</sup> Un engrais soumis à enregistrement peut contenir des végétaux, parties de végétaux ou extraits de végétaux qui respectent les traitements définis à l’annexe II, partie II, CMC 2, du règlement (UE) 2019/1009.
 
-<sup>2</sup> Les engrais constitués en tout ou en partie de végétaux, parties de végétaux ou extraits de végétaux qui ne respectent pas les traitements définis à l’annexe II, partie II, CMC 2, du règlement (UE) 2019/1009 sont soumis à autorisation*.*
+<sup>2</sup> Les végétaux, parties de végétaux ou extraits de végétaux qui ne respectent pas les traitements définis à l’annexe II, partie II, CMC 2 ou CMC 6, du règlement (UE) 2019/1009, ne correspondent à aucune CMC. Les engrais qui en sont constitués en tout ou en partie sont soumis à autorisation.
 
 ### CMC 3: Compost
 
@@ -1616,35 +1657,35 @@ Un engrais peut contenir un digestat autre qu’issu de culture végétale si ce
 
 <sup>2</sup> Le sous-produit ne remplissant pas les exigences visées à l’annexe II, partie II, point 2, CMC 6, du règlement (UE) 2019/1009 doit être notifiée conformément à l’art. 24 OChim.
 
-<sup>3</sup> Un engrais constitué en tout ou en partie d’un sous-produit de l’industrie alimentaire ne respectant pas les prescriptions définies à l’annexe II, partie II, CMC 6, du règlement (UE) 2019/1009 est soumis à autorisation.
+<sup>3</sup> Un sous-produit de l’industrie alimentaire ne respectant pas les prescriptions définies à l’annexe II, partie II, CMC 6, du règlement (UE) 2019/1009 ne correspond à aucune CMC. Les engrais qui en sont constitués en tout ou en partie sont soumis à autorisation.
 
 ### CMC 7: Microorganismes
 
-Un engrais peut contenir des microorganismes s’il est mis en circulation en tant que biostimulant microbien des végétaux (PFC 6.A) ou comme combinaison d’engrais (PFC 7) et qu’il est autorisé par l’OFAG.
+Un engrais auquel des microorganismes sont ajoutés intentionnellement est soumis à autorisation.
 
 ### CMC 8: Polymères nutritifs
 
 <sup>1</sup> Un engrais soumis à enregistrement constitué en tout ou en partie de polymères nutritifs doit respecter les exigences définies à l’annexe II, partie II, CMC 8, du règlement (UE) 2019/1009.
 
-<sup>2</sup> Un engrais constitué en tout ou en partie d’un polymère nutritif ne respectant pas les prescriptions définies à l’annexe II, partie II, CMC 8, du règlement (UE) 2019/1009 est soumis à autorisation.
+<sup>2</sup> Un polymère nutritif ne respectant pas les prescriptions définies à l’annexe II, partie II, CMC 8, du règlement (UE) 2019/1009 ne correspond à aucune CMC. Les engrais qui en sont constitués en tout ou en partie sont soumis à autorisation.
 
 ### CMC 9: Polymères autres que des polymères nutritifs
 
 <sup>1</sup> Un engrais soumis à enregistrement constitué en tout ou en partie de polymères autres que des polymères nutritifs doit respecter les exigences définies à l’annexe II, partie II, CMC 9, du règlement UE 2019/1009.
 
-<sup>2</sup> Un engrais constitué en tout ou en partie d’un polymère autres que des polymères nutritifs ne respectant pas les prescriptions définies à l’annexe II, partie II, CMC 9, du règlement (UE) 2019/1009 est soumis à autorisation.
+<sup>2</sup> Un polymère autres que des polymères nutritifs ne respectant pas les prescriptions définies à l’annexe II, partie II, CMC 9, du règlement (UE) 2019/1009 ne correspond à aucune CMC. Les engrais qui en sont constitués en tout ou en partie sont soumis à autorisation.
 
 ### CMC 10: Produits dérivés provenant de sous-produits animaux
 
 <sup>1</sup> Un engrais constitué en tout ou en partie de produits dérivés provenant de sous-produits animaux ayant atteint le point final de la chaîne de fabrication au sens de l’OSPA ou du règlement (CE) n<sup>o</sup> 1069/2009[^annex2-lvlu1-lvl2-lvlCMC-3] est soumis à enregistrement.
 
-<sup>2</sup> Un engrais constitué en tout ou en partie d’un produit dérivé provenant de sous-produits animaux n’ayant pas atteint le point final de la chaîne de fabrication au sens de l’OSPA ou du règlement (CE) n<sup>o</sup> 1069/2009 est soumis à autorisation. Les prescriptions de l’OSPA s’appliquent.
+<sup>2</sup> Un produit dérivé provenant de sous-produits animaux n’ayant pas atteint le point final de la chaîne de fabrication au sens de l’OSPA ou du règlement (CE) n<sup>o</sup> 1069/2009 ne correspond à aucune CMC. Les engrais qui en sont constitués en tout ou en partie sont soumis à autorisation. Les prescriptions de l’OSPA s’appliquent.
 
 [^annex2-lvlu1-lvl2-lvlCMC-3]: Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (règlement relatif aux sous-produits animaux), JO L 300 du 14.11.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1009 JO L 170 du 25.6.2019, p. 1.
 
 ### CMC 11: Sous-produits au sens de la directive 2008/98/CE
 
-Un engrais constitué en tout ou en partie de sous-produits au sens de l’art. 5 de la directive 2008/98/CE est soumis à autorisation.
+Un engrais constitué en tout ou en partie de sous-produits au sens de l’art. 5 de la directive 2008/98/CE doit respecter les exigences définies à l’annexe II, partie II, CMC 11, du règlement (UE) 2019/1009 et est soumis à autorisation.
 
 ### CMC 12: Sels de phosphate précipités et leurs dérivés
 
@@ -1694,13 +1735,13 @@ Un engrais constitué en tout ou en partie de matière de grande pureté valoris
 
 Un engrais peut contenir un engrais de ferme si les prescriptions de qualité définies à l’annexe 2.6 ORRChim sont respectées.
 
-Annexe 3[^t-2]
+Annexe 3[^t-3]
 
 (art. 31, al. 1)
 
 ## Exigences en matière d’étiquetage
 
-[^t-2]: Mise à jour par l’erratum du 13 août 2024 ([RO 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
+[^t-3]: Mise à jour par l’erratum du 13 août 2024 ([RO 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)) et le ch. II de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 720](https://fedlex.data.admin.ch/eli/oc/2025/720)).
 
 ### 1 Exigences générales en matière d’étiquetage
 
@@ -1729,6 +1770,8 @@ Annexe 3[^t-2]
 <sup>5</sup> La mention «pauvre en chlore» ou une expression similaire ne peut être utilisée que si la teneur en chlore (Cl<sup>-</sup>) est inférieure à 30 g/kg de matière sèche.
 
 <sup>6</sup> Si les informations prescrites selon la présente annexe se réfèrent au carbone organique (C<sub>org</sub>), les informations peuvent se rapporter à la matière organique au lieu du carbone organique (C<sub>org</sub>) ou en plus de celui-ci, en appliquant le facteur de conversion suivant: carbone organique C<sub>org</sub> = matière organique × 0,56.
+
+<sup>6bis</sup> Si des microorganismes ont été ajoutés intentionnellement, ils sont indiqués avec leur genre, espèce et souche. Leur concentration est exprimée en nombre d’unités actives par unité de volume ou de masse, ou de toute autre manière adéquate pour le microorganisme considéré, par exemple en unités formant colonie par gramme (UFC/g). L’étiquette doit comprendre la mention suivante: «Les microorganismes peuvent produire une réaction allergique».
 
 <sup>7</sup> Si l’engrais est un support de culture tel que défini à l’annexe I, partie II, PFC 4, ch. 2bis, du règlement (UE) 2019/1009[^annex3-lvlu1-lvl1-2] ou s’il contient un polymère utilisé pour incorporer des matières dans le produit, tel que défini à l’annexe II, partie II, CMC 9, ch. 1, let. c, du règlement (UE) 2019/1009, il convient d’informer l’utilisateur qu’il doit éviter que le produit entre en contact avec le sol au moment de l’utilisation et veiller, en coopération avec le fabricant, à ce que le produit soit éliminé de manière appropriée lorsque son utilisation est terminée.
 
@@ -1909,7 +1952,7 @@ Les informations suivantes doivent être fournies:
 
 - c.
 
-  lorsque les oligo-éléments déclarés sont chélatés par un ou plusieurs agents chélatants ou par un ou plusieurs agents complexants, le qualificatif suivant, selon le cas, placé après le nom et la formule chimique de l’oligo-élément:
+  lorsque les oligo-éléments déclarés sont chélatés par un ou plusieurs agents chélatants ou complexés par un ou plusieurs agents complexants, le qualificatif suivant, selon le cas, placé après le nom et la formule chimique de l’oligo-élément:
 
   - 1\. «chélaté par [nom du ou des agents chélatants ou de la ou des abréviations respectives]»/«complexé par [nom du ou des agents complexants ou de la ou des abréviations respectives]»/«chélaté par [nom du ou des agents chélatants ou de la ou des abréviations respectives] et complexé par [nom du ou des agents complexants ou de la ou des abréviations respectives]»,
   - 2\. la quantité de l’oligo-élément ou des oligo-éléments chélatés/complexés, exprimée en % en masse;
@@ -2016,7 +2059,7 @@ Les informations suivantes doivent être fournies:
 
 - c.
 
-  lorsque les oligo-éléments déclarés sont chélatés par un ou plusieurs agents chélatants ou par un ou plusieurs agents complexants, le qualificatif suivant, selon le cas, placé après le nom et la formule chimique de l’oligo-élément:
+  lorsque les oligo-éléments déclarés sont chélatés par un ou plusieurs agents chélatants ou complexés par un ou plusieurs agents complexants, le qualificatif suivant, selon le cas, placé après le nom et la formule chimique de l’oligo-élément:
 
   - 1\. «chélaté par [nom du ou des agents chélatants ou de la ou des abréviations respectives]»/«complexé par [nom du ou des agents complexants ou de la ou des abréviations respectives]»/«chélaté par [nom du ou des agents chélatants ou de la ou des abréviations respectives] et complexé par [nom du ou des agents complexants ou de la ou des abréviations respectives]»,
   - 2\. la quantité de l’oligo-élément ou des oligo-éléments chélatés/complexés, exprimée en % en masse;
@@ -2061,7 +2104,7 @@ Les informations suivantes doivent être fournies:
 
 - c.
 
-  lorsque les oligo-éléments déclarés sont chélatés par un ou plusieurs agents chélatants ou par un ou plusieurs agents complexants, le qualificatif suivant, selon le cas, placé après le nom et la formule chimique de l’oligo-élément:
+  lorsque les oligo-éléments déclarés sont chélatés par un ou plusieurs agents chélatants ou complexés par un ou plusieurs agents complexants, le qualificatif suivant, selon le cas, placé après le nom et la formule chimique de l’oligo-élément:
 
   - 1\. «chélaté par [nom du ou des agents chélatants ou de la ou des abréviations respectives]»/«complexé par [nom du ou des agents complexants ou de la ou des abréviations respectives]»/«chélaté par [nom du ou des agents chélatants ou de la ou des abréviations respectives] et complexé par [nom du ou des agents complexants ou de la ou des abréviations respectives]»,
   - 2\. la quantité de l’oligo-élément ou des oligo-éléments chélatés/complexés, exprimée en % en masse;
@@ -2194,12 +2237,6 @@ Les informations suivantes doivent être fournies:
 - c. effet allégué sur chaque végétal-cible;
 - d. toute consigne utile liée à l’efficacité du produit, y compris pratiques de gestion des sols, fertilisation chimique, incompatibilité avec des produits phytosanitaires, taille recommandée des buses de pulvérisation, pression de pulvérisation recommandée et autres mesures antidérive.
 
-### PFC 6(A): Biostimulant microbien des végétaux
-
-<sup>1</sup> Tous les micro-organismes ajoutés intentionnellement sont indiqués avec leur genre, espèce et souche. Leur concentration est exprimée en nombre d’unités actives par unité de volume ou de masse, ou de toute autre manière adéquate pour le micro-organisme considéré, par exemple en unités formant colonie par gramme (UFC/g).
-
-<sup>2</sup> L’étiquette doit comprendre la mention suivante: «Les micro-organismes peuvent produire une réaction allergique».
-
 ### PFC 7: Combinaison de fertilisants
 
 <sup>1</sup> Toutes les exigences en matière d’étiquetage applicables à chacun des fertilisants composant la combinaison s’appliquent à la combinaison de fertilisants et sont exprimées par rapport à la combinaison de fertilisants finale.
@@ -2224,7 +2261,7 @@ Les informations suivantes doivent être fournies:
 - c. conductivité électrique;
 - d. quantité.
 
-<sup>3</sup> Les prescriptions en matière d’étiquetage des al. 1 et 2 ne s’appliquent pas aux engrais de ferme provenant d’une exploitation pratiquant l’élevage d’animaux et qui sont remis directement aux utilisateurs finaux professionnels selon l’OSIAgr[^annex3-lvlu1-lvl2-lvlu8-1]. Les données de base pour la fumure éditées par Agroscope font office de mode d’emploi.
+<sup>3</sup> Les prescriptions en matière d’étiquetage des al. 1 et 2 ne s’appliquent pas aux engrais de ferme provenant d’une exploitation pratiquant l’élevage d’animaux, qui sont remis directement aux utilisateurs finaux professionnels et qui sont enregistrés selon l’OSIAgr[^annex3-lvlu1-lvl2-lvlu8-1]. Les données de base pour la fumure éditées par Agroscope font office de mode d’emploi.
 
 <sup>4</sup> Lors de la remise d’engrais de ferme en sacs, le mode d’emploi doit prendre en considération les recommandations de fumure applicables aux acheteurs concernés.
 
