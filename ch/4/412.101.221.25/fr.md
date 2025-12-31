@@ -3,18 +3,18 @@ sr: "412.101.221.25"
 title: "Ordonnance du SEFRI du 10 février 2015 sur la formation professionnelle initiale d'opératrice en horlogerie/opérateur en horlogerie avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/160"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2015-02-10
 in_force: 2015-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/160/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-160-20240401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/160/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/160/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-160-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/160/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’opératrice en horlogerie / opérateur en horlogerie avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 10 février 2015 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 10 février 2015 (État le 1<sup>er</sup> janvier 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -28,10 +28,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Nouvelle teneur selon le ch. I 93 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet, domaines spécifiques, durée et forme
@@ -167,7 +167,7 @@ Selon le domaine spécifique choisi, les compétences opérationnelles suivantes
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^6-1]: Nouvelle teneur selon le ch. II 93 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^6-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^6-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -185,11 +185,11 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <table>
 <tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>Total</th></tr>
-<tr><td>a. Connaissances professionnelles</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td></tr>
 <tr><td>– Réalisation d’outils et d’outillage horloger</td><td>[tab] 60</td><td>[tab] 60</td><td>[tab] 120</td></tr>
 <tr><td>– Assemblage de composants</td><td>[tab] 120</td><td>[tab] 100</td><td>[tab] 220</td></tr>
-<tr><td>– *(dont: Enseignement propre au domaine spécifique)*</td><td>[tab] *(20)*</td><td>[tab] *(20)*</td><td>[tab]</td></tr>
-<tr><td>– *(dont: Application des directives de sécurité au travail, de protection de la santé et de protection de l’environnement)*</td><td>[tab] *(20)*</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– *(dont: Enseignement propre au domaine spécifique)*</td><td>[tab] *(20)*</td><td>[tab] *(20)*</td><td></td></tr>
+<tr><td>– *(dont: Application des directives de sécurité au travail, de protection de la santé et de protection de l’environnement)*</td><td>[tab] *(20)*</td><td></td><td></td></tr>
 <tr><td>– Respect des standards de production</td><td>[tab] 20</td><td>[tab] 40</td><td>[tab] 60</td></tr>
 <tr><td>Total</td><td>200</td><td>200</td><td>400</td></tr>
 <tr><td>b. Culture générale</td><td>[tab] 120</td><td>[tab] 120</td><td>[tab] 240</td></tr>
@@ -199,7 +199,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légères divergences par rapport au nombre prescrit de périodes d’enseignement par année d’apprentissage au sein d’un domaine de compétences opérationnelles sont possibles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^8-2].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^8-2] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^8-3].
 
 <sup>4</sup> La langue d’enseignement est en règle générale la langue nationale du lieu d’implantation de l’école.
 
@@ -208,7 +208,8 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <sup>6</sup> Les cantons peuvent admettre d’autres langues d’enseignement.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
-[^8-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^8-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^8-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 9
 
@@ -383,12 +384,13 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>3.</td><td>Entretien professionnel</td><td>20 %</td></tr>
 </table>
 
-- b. culture générale: ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^20-1].[^20-2]
+- b. culture générale: ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^20-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^20-2].[^20-3]
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^20-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
-[^20-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
+[^20-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^20-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^20-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 
 #### Art. 21
 
@@ -484,11 +486,12 @@ La note globale correspond à la moyenne, arrondie à la première décimale, de
 - c. module de posage-emboîtage;
 - d. culture générale.
 
-<sup>5</sup> Le domaine de qualification de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^23-3].
+<sup>5</sup> Le domaine de qualification de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^23-3] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^23-4].
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 [^23-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
-[^23-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^23-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^23-4]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 24
 
