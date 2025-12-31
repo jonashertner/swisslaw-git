@@ -4,29 +4,29 @@ number: "180.113"
 title: Verordnung über die Arbeitszeit des Staatspersonals
 short: Arbeitszeitverordnung
 language: de
-version: 2024-01-01
-corrected: 2024-10-22
-version_adopted: 2023-12-12
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2010-08-31
 in_force: 2011-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.113"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/376/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2050/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Arbeitszeit des Staatspersonals (Arbeitszeitverordnung)
+# Verordnung über die Arbeitszeit des Staatspersonals
 
-vom 31. August 2010
+(Arbeitszeitverordnung)
+
+Vom 31.08.2010 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
 gestützt auf Art. 31 Abs. 2 und 3 sowie Art. 44 Abs. 1 bis 3 des Personalgesetzes vom 3. Mai 2004 und § 31 Abs. 2 der Personalverordnung vom 14. Dezember 2004,
 
-verordnet:
+beschliesst:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
@@ -46,8 +46,6 @@ verordnet:
 
 <sup>2</sup> Bei der Umsetzung hat die Sicherstellung des Betriebes und der öffentlichen Dienste Vorrang. Individuelle Bedürfnisse sollen wenn immer möglich bei der Gestaltung der Arbeitszeit berücksichtigt werden.
 
-Amtsblatt 2010, S. 1759
-
 <sup>3</sup> Die Dienststellen legen unter Einbezug der Mitarbeiterinnen und Mitarbeiter und mit Genehmigung des zuständigen Departementes bzw. des Obergerichtes oder der Staatskanzlei die Arbeitszeitmodelle fest, die für sie Geltung haben. Der Regierungsrat bzw. das Obergericht sowie die Departemente bzw. die Staatskanzlei können die Anwendung bestimmter Arbeitszeitmodelle anordnen.
 
 <sup>4</sup> Der zuständige Personaldienst ist über die angewendeten Arbeitszeitmodelle zu informieren.
@@ -64,13 +62,11 @@ Amtsblatt 2010, S. 1759
 
 <sup>1</sup> Die Arbeitszeit wird unter Berücksichtigung der betrieblichen und persönlichen Bedürfnisse vereinbart und kann im Rahmen dieser Verordnung flexibel gestaltet werden.
 
-<sup>2</sup> Die Arbeit ist grundsätzlich von Montag bis Freitag zwischen 6.00 Uhr und 20.00 Uhr zu leisten. Im Einvernehmen mit der vorgesetzten Stelle kann auch am Samstag oder an Sonn- und Feiertagen, ausserhalb dieser Zeiten oder ausnahmsweise mehr als 12 Stunden täglich gearbeitet werden.
+<sup>2</sup> Die Arbeit ist grundsätzlich von Montag bis Freitag zwischen 6:00 Uhr und 20:00 Uhr zu leisten. Im Einvernehmen mit der vorgesetzten Stelle kann auch am Samstag oder an Sonn- und Feiertagen, ausserhalb dieser Zeiten oder ausnahmsweise mehr als 12 Stunden täglich gearbeitet werden.
 
-<sup>3</sup> Soweit es der Dienstbetrieb zulässt, kann täglich eine bezahlte Pause von maximal 15 Minuten im Arbeitsumfeld erfolgen. Dauert die tägliche Arbeitszeit mehr als sechs Stunden, muss ei-ne Mittagspause oder eine vergleichbare Arbeitsunterbrechung von mindestens 30 Minuten bezogen werden.[^3-1] Sie wird nicht als Arbeitszeit angerechnet. Weitere unbezahlte Pausen können bezogen werden, soweit es die dienstlichen Verhältnisse zulassen. Vorbehalten bleiben Arbeitszeiten, die an eine Schicht oder an einen Spezialeinsatz gebunden sind. Rauchpausen gelten nicht als Arbeitszeit.
+<sup>3</sup> Soweit es der Dienstbetrieb zulässt, kann täglich eine bezahlte Pause von maximal 15 Minuten im Arbeitsumfeld erfolgen. Dauert die tägliche Arbeitszeit mehr als sechs Stunden, muss eine Mittagspause oder eine vergleichbare Arbeitsunterbrechung von mindestens 30 Minuten bezogen werden. Sie wird nicht als Arbeitszeit angerechnet. Weitere unbezahlte Pausen können bezogen werden, soweit es die dienstlichen Verhältnisse zulassen. Vorbehalten bleiben Arbeitszeiten, die an eine Schicht oder an einen Spezialeinsatz gebunden sind. Rauchpausen gelten nicht als Arbeitszeit.
 
-[^3-1]: Fassung gemäss RRB vom 28. Juni 2022, in Kraft getreten am 1. Juli 2022 (Amtsblatt 2022, S. 1227).
-
-### 2. Abschnitt: Feste Arbeitszeit
+## 2 Feste Arbeitszeit
 
 #### § 4
 
@@ -82,24 +78,17 @@ Amtsblatt 2010, S. 1759
 
 <sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter sind an die festgelegten Arbeitszeiten gebunden. Abwesenheiten sind abzusprechen.
 
-[^4-1]: Fassung gemäss RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2237).
+## 3 Jahresarbeitszeit
 
-### 3. Abschnitt: Jahresarbeitszeit
-
-[^4-1]
-
-I. …[^h3AbschnittJahres-1]
-
-[^h3AbschnittJahres-1]: Aufgehoben durch RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2237).
-[^h3AbschnittJahres-2]: Fassung gemäss RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2237).
+### 3.1
 
 #### § 5
 
-**Jahresarbeitszeit 4)**[^h3AbschnittJahres-2]
+**Jahresarbeitszeit**
 
 <sup>1</sup> Soweit es betrieblich möglich ist, wird den Mitarbeiterinnen und Mitarbeitern Jahresarbeitszeit angeboten. Diese richtet sich an den betrieblichen Bedürfnissen und den persönlichen Bedürfnissen der Mitarbeiterinnen und Mitarbeiter aus.
 
-<sup>2</sup> Auf der Basis einer 42-Stunden-Woche beträgt die tägliche Arbeitszeit 8 Stunden 24 Minuten sowie eine allfällige vom Regierungsrat beschlossene Vorholzeit. Diese kann im Durchschnitt der Abrechnungsperiode erbracht werden. Bei einem Teilzeitpensum reduzieren sich die Sollarbeitszeiten entsprechend dem Beschäftigungsgrad.
+<sup>2</sup> Auf der Basis einer 42-Stunden-Woche beträgt die tägliche Arbeitszeit 8 Stunden 24 Minuten. Diese kann im Durchschnitt der Abrechnungsperiode erbracht werden. Bei einem Teilzeitpensum reduzieren sich die Sollarbeitszeiten entsprechend dem Beschäftigungsgrad.
 
 <sup>3</sup> Ein positiver oder negativer Zeitsaldo errechnet sich aus der Differenz zwischen der tatsächlich geleisteten Arbeitszeit und der durchschnittlichen täglichen Sollarbeitszeit. Der positive oder negative Zeitsaldo darf am Ende der Abrechnungsperiode nicht mehr als 100 Stunden betragen.
 
@@ -111,7 +100,7 @@ I. …[^h3AbschnittJahres-1]
 
 <sup>1</sup> Die An- und Abwesenheiten der Mitarbeiterinnen und Mitarbeiter sowie Zeitpunkt und Umfang des Arbeitszeitausgleichs sind Gegenstand einer Absprache bzw. Planung mit der vorgesetzten Stelle.
 
-<sup>2</sup> Ein positiver Zeitsaldo kann stundenweise oder durch den Bezug von ganzen und halben Tagen kompensiert werden. Pro Kalenderjahr dürfen insgesamt höchstens 25 Arbeitstage kompensiert werden.
+<sup>2</sup> Ein positiver Zeitsaldo kann stundenweise oder durch den Bezug von ganzen und halben Tagen kompensiert werden. Pro Kalenderjahr dürfen insgesamt höchstens 30 Arbeitstage kompensiert werden.
 
 <sup>3</sup> Ein negativer Zeitsaldo kann mit Ferientagen, Überstunden oder durch Leistung zusätzlicher Arbeitsstunden ausgeglichen werden.
 
@@ -119,28 +108,25 @@ I. …[^h3AbschnittJahres-1]
 
 **Zeitsaldo**
 
-<sup>1</sup> Zeitguthaben, welche am Ende der Abrechnungsperiode 100 Plusstunden überschreiten, verfallen. Die Anstellungsbehörde kann im Einvernehmen mit dem zuständigen Personaldienst die Auszahlung von höchstens 180 darüber liegenden Plusstunden pro Kalenderjahr bewilligen, wenn eine Kompensation innerhalb der Periode aus dienstlichen Gründen oder wegen Krankheit, Unfall oder Mutterschaft nicht möglich war. Für angeordnete Überstunden gilt § 34 der Personalverordnung.[^7-1]
+<sup>1</sup> Zeitguthaben, welche am Ende der Abrechnungsperiode 100 Plusstunden überschreiten, verfallen. Die Anstellungsbehörde kann im Einvernehmen mit dem zuständigen Personaldienst die Auszahlung von höchstens 180 darüber liegenden Plusstunden pro Kalenderjahr bewilligen, wenn eine Kompensation innerhalb der Periode aus dienstlichen Gründen oder wegen Krankheit, Unfall oder Mutterschaft nicht möglich war. Für angeordnete Überstunden gilt § 34 der Personalverordnung.
 
 <sup>2</sup> Zeitguthaben, welche am Ende der Abrechnungsperiode die Maximalzahl an Minusstunden überschreiten, werden mit dem Lohn, mit Überstunden oder mit Ferienguthaben verrechnet. Für die gleitende Arbeitszeit gilt § 8 Abs. 4. Ausnahmsweise kann die vorgesetzte Stelle im Einvernehmen mit dem zuständigen Personaldienst eine Verrechnung aufschieben.
 
-<sup>3</sup> Vor Auflösung des Arbeitsverhältnisses ist ein positiver oder negativer Saldo möglichst auszugleichen. Die vorgesetzte Stelle legt mit den Mitarbeiterinnen und Mitarbeitern eine entsprechende Planung fest.
+<sup>3</sup> Ein positiver oder negativer Arbeitszeitsaldo ist bis zum Übertritt in eine andere Dienststelle oder bis zur Beendigung des Arbeitsverhältnisses möglichst auszugleichen. Die vorgesetzte Stelle legt mit den Mitarbeiterinnen und Mitarbeitern eine entsprechende Planung fest.
 
-<sup>4</sup> Ein positiver Saldo wird ohne Zuschlag finanziell abgegolten, wenn ein Abbau der Plusstunden aus dienstlichen Gründen, wegen Krankheit, Unfall oder Mutterschaft bis zum Austritt nicht möglich war.[^7-1]
+<sup>4</sup> Ein positiver Saldo wird ohne Zuschlag finanziell abgegolten, wenn ein Abbau der Plusstunden aus dienstlichen Gründen, wegen Krankheit, Unfall oder Mutterschaft bis zum Austritt nicht möglich war.
 
 <sup>5</sup> Besteht beim Austritt ein negativer Saldo, wird der letzte Lohn gekürzt bzw. der zu viel ausgerichtete Lohn zurückgefordert, sofern keine Verrechnung mit Überstunden oder Ferienguthaben erfolgt.
 
 <sup>6</sup> Die Eckwerte des Zeitsaldos gelten unabhängig vom Beschäftigungsgrad auch für Teilzeitbeschäftigte.
 
-II. …[^7-2]
-
-[^7-1]: Fassung gemäss RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2237).
-[^7-2]: Aufgehoben durch RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2237).
+### 3.2
 
 #### § 8
 
-**III. …[^8-1]**[^7-2]
+**…**
 
-[^8-1]: Aufgehoben durch RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2237).
+### 3.3
 
 #### § 9
 
@@ -160,7 +146,7 @@ II. …[^7-2]
 
 **Jährliche Sollarbeitszeit**
 
-<sup>1</sup> Die jährliche Sollarbeitszeit für Vollzeitbeschäftigte ergibt sich durch Multiplikation der Arbeitstage mit der täglichen Sollarbeitszeit, unter Berücksichtigung der arbeitsfreien Tage gemäss § 33 der Personalverordnung sowie einer allfälligen Vorholzeit. Die jährliche Sollarbeitszeit für Teilzeitbeschäftigte wird umgerechnet auf den Beschäftigungsgrad.
+<sup>1</sup> Die jährliche Sollarbeitszeit für Vollzeitbeschäftigte ergibt sich durch Multiplikation der Arbeitstage mit der täglichen Sollarbeitszeit, unter Berücksichtigung der arbeitsfreien Tage gemäss § 33 der Personalverordnung. Die jährliche Sollarbeitszeit für Teilzeitbeschäftigte wird umgerechnet auf den Beschäftigungsgrad.
 
 <sup>2</sup> Das Personalamt gibt jährlich die zu leistende Sollarbeitszeit für Vollzeitbeschäftigte bekannt.
 
@@ -176,17 +162,16 @@ II. …[^7-2]
 
 <sup>4</sup> Abhängig vom aktuellen Zeitsaldo der Mitarbeiterinnen und Mitarbeitern treten in der Ampelsteuerung verschiedene Phasen auf, die eine unterschiedliche Behandlung erfordern:
 
-Phase Plussaldo Minussaldo Grün 0 bis +60 Stunden 0 bis -60 Stunden Kompetenzbereich der Mit- Kompetenzbereich der Mitarbeiterinnen und Mitarbeiter arbeiterinnen und Mitarbeiter Gelb Über +60 bis +100 Stunden Über -60 bis -100 Stunden Plusstunden nur in Abspra- Minusstunden nur in Absprache mit der vorgesetzten che mit der vorgesetzten
-
-Stelle möglich Stelle möglich
-
-Rot Über +100 Stunden Über -100 Stunden Massnahmen zum Abbau Massnahmen zum Abbau der Plusstunden in Abspra- der Minusstunden in Absprache mit der vorgesetzten che mit der vorgesetzten
-
-Stelle erforderlich Stelle erforderlich
+<table>
+<tr><th>Phase</th><th>Plussaldo</th><th>Minussaldo</th></tr>
+<tr><td>Grün</td><td>0 bis +60 Stunden: Kompetenzbereich der Mitarbeiterinnen und Mitarbeiter</td><td>0 bis -60 Stunden: Kompetenzbereich der Mitarbeiterinnen und Mitarbeiter</td></tr>
+<tr><td>Gelb</td><td>Über +60 bis +100 Stunden: Plusstunden nur in Absprache mit der vorgesetzten Stelle möglich</td><td>Über -60 bis -100 Stunden: Minusstunden nur in Absprache mit der vorgesetzten Stelle möglich</td></tr>
+<tr><td>Rot</td><td>Über +100 Stunden: Massnahmen zum Abbau der Plusstunden in Absprache mit der vorgesetzten Stelle erforderlich</td><td>Über -100 Stunden: Massnahmen zum Abbau der Minusstunden in Absprache mit der vorgesetzten Stelle erforderlich</td></tr>
+</table>
 
 <sup>5</sup> Während des Jahres sind auch Schwankungen über die roten Grenzen hinaus grundsätzlich möglich, verlangen jedoch zwingend ein Gespräch zwischen der vorgesetzten Stelle und Mitarbeiterinnen und Mitarbeitern betreffend Abbau der Plus- oder Minusstunden.
 
-### 4. Abschnitt: Zeiterfassung und Abwesenheiten
+## 4 Zeiterfassung und Abwesenheiten
 
 #### § 12
 
@@ -194,27 +179,23 @@ Stelle erforderlich Stelle erforderlich
 
 <sup>1</sup> Persönliche Verrichtungen gelten grundsätzlich nicht als Arbeitszeit.
 
-<sup>2</sup> Arzt- und Zahnarztbesuche sowie Therapien gelten nicht als Arbeitszeit. Für Arztbesuche und Therapien als Folge von Berufsunfällen wird die benötigte Zeit als Arbeitszeit angerechnet; sie sind nach Möglichkeit auf Randzeiten zu legen.[^12-1]
+<sup>2</sup> Arzt- und Zahnarztbesuche sowie Therapien gelten nicht als Arbeitszeit. Für Arztbesuche und Therapien als Folge von Berufsunfällen wird die benötigte Zeit als Arbeitszeit angerechnet; sie sind nach Möglichkeit auf Randzeiten zu legen.
 
 <sup>3</sup> Folgende Abwesenheiten gelten als Arbeitszeit: Ferien, bezahlter Urlaub, Kurzurlaub gemäss § 40 der Personalverordnung, Krankheit, Unfall, Militärdienst, Zivildienst und andere bezahlte Dienstpflichten gemäss § 45 der Personalverordnung.
 
 <sup>4</sup> Für diese Abwesenheiten ist die Arbeitszeit jeweils auf Grund der täglichen Sollarbeitszeit zu erfassen. Bei Krankheit wird die geplante Arbeitszeit erfasst. Wenn durch ärztliches Zeugnis der Beschäftigungsgrad reduziert wird, darf die Summe der für Abwesenheiten gutgeschriebenen sowie der geleisteten Arbeitszeit pro Woche die wöchentliche Sollarbeitszeit nicht übersteigen.
 
-<sup>4a</sup> Krankheit, Mutterschaft oder Unfall an einem Vorholtag haben keine Entschädigung zur Folge. Es besteht kein Anspruch auf Nachbezug.[^12-2]
+<sup>4a</sup> …
 
-<sup>5</sup> Abwesenheiten infolge Aus- und Weiterbildung sowie Tagungen einschliesslich Reisezeit sind mit der effektiven Zeit, jedoch höchstens mit 11 Stunden zu erfassen.[^12-3]
+<sup>5</sup> Abwesenheiten infolge Aus- und Weiterbildung sowie Tagungen einschliesslich Reisezeit sind mit der effektiven Zeit, jedoch höchstens mit 11 Stunden zu erfassen.
 
 <sup>6</sup> Der zuständige Personaldienst kann Richtlinien zur Zeiterfassung erlassen.
-
-[^12-1]: Fassung gemäss RRB vom 14. August 2018, in Kraft getreten am 1. Januar 2019 (Amtsblatt 2018, S. 2027).
-[^12-2]: Eingefügt durch RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2237).
-[^12-3]: Fassung gemäss RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2237).
 
 #### § 13
 
 **Zeiterfassung und individuelles Arbeitszeitkonto**
 
-<sup>1</sup> Die Erfassung der Arbeitszeit erfolgt in der Regel mit technischen Mitteln. Wo dies aus organisatorischen oder wirtschaftlichen Gründen nicht möglich oder sinnvoll ist, ist eine manuelle Zeiterfassung zulässig.
+<sup>1</sup> Die Erfassung der Arbeitszeit erfolgt mit technischen Mitteln.
 
 <sup>2</sup> Zu erfassen sind jeder Arbeitsbeginn und jedes Arbeitsende sowie Arbeitsunterbrüche mit Ausnahme bezahlter Pausen. Dienstliche und andere bezahlte Abwesenheiten, an Samstagen, Sonn- und Feiertagen sowie ausserhalb des Tagesrahmens oder des Arbeitsplatzes geleistete Arbeitszeit kann mit Zustimmung der vorgesetzten Stelle auf den Arbeitszeitsaldo angerechnet werden.
 
@@ -234,19 +215,21 @@ Stelle erforderlich Stelle erforderlich
 
 <sup>2</sup> Das Finanzdepartement kann dazu Richtlinien erlassen.
 
-### 5. Abschnitt: Überstunden
+## 5 Überstunden
 
 #### § 15
 
 **Definition der Überstundenarbeit**
 
-<sup>1</sup> Überstundenarbeit ist bei Mitarbeiterinnen und Mitarbeitern mit flexibler Arbeitszeit die a) über den nicht übertragbaren Zeitsaldo hinaus angeordnete Arbeitszeit;
+<sup>1</sup> Überstundenarbeit ist bei Mitarbeiterinnen und Mitarbeitern mit flexibler Arbeitszeit die:
 
-- b) an Samstagen, Sonntagen, Feiertagen gemäss § 33 der Personalverordnung und vom Regierungsrat beschlossenen Vorholtagen und an den übrigen Tagen zwischen 20.00 Uhr und 06.00 Uhr angeordnete Arbeitszeit.
+- a) über den nicht übertragbaren Zeitsaldo hinaus angeordnete Arbeitszeit
+- b) an Samstagen, Sonntagen, Feiertagen gemäss § 33 der Personalverordnung und vom Regierungsrat beschlossenen Freitagen und an den übrigen Tagen zwischen 20:00 Uhr und 06:00 Uhr angeordnete Arbeitszeit
 
-<sup>2</sup> Nicht als Überstundenarbeit im Sinne von Abs. 1 gelten insbesondere a) Mehrzeitleistungen im Rahmen der flexiblen Arbeitszeitvarianten;
+<sup>2</sup> Nicht als Überstundenarbeit im Sinne von Abs. 1 gelten insbesondere:
 
-- b) die im Einvernehmen mit der vorgesetzten Stelle freiwillig an den betreffenden Tagen oder Zeiten geleistete Arbeit.
+- a) Mehrzeitleistungen im Rahmen der flexiblen Arbeitszeitvarianten
+- b) die im Einvernehmen mit der vorgesetzten Stelle freiwillig an den betreffenden Tagen oder Zeiten geleistete Arbeit
 
 <sup>3</sup> Vorbehalten bleiben besondere Regelungen, insbesondere für Dienststellen, Abteilungen oder Funktionen, welche aus betrieblichen Gründen regelmässig Arbeit ausserhalb der ordentlichen Zeiten leisten.
 
@@ -254,7 +237,7 @@ Stelle erforderlich Stelle erforderlich
 
 **Anordnung**
 
-Überstunden werden von der vorgesetzten Stelle im Voraus angeordnet. Notwendige Überstunden zur Erledigung unvorhergesehener und unaufschiebbarer Arbeit sind der vorgesetzten Stelle sofort zu melden und können nachträglich genehmigt werden.
+<sup>1</sup> Überstunden werden von der vorgesetzten Stelle im Voraus angeordnet. Notwendige Überstunden zur Erledigung unvorhergesehener und unaufschiebbarer Arbeit sind der vorgesetzten Stelle sofort zu melden und können nachträglich genehmigt werden.
 
 #### § 17
 
@@ -264,19 +247,21 @@ Stelle erforderlich Stelle erforderlich
 
 <sup>2</sup> Überstunden sind grundsätzlich durch Freizeit von gleicher Dauer zu kompensieren. Die Kompensation und ausnahmsweise Entschädigung richtet sich nach § 34 der Personalverordnung, soweit nichts anderes geregelt ist.
 
-### 6. Abschnitt: Schlussbestimmungen
+## 6 Schlussbestimmungen
 
 #### § 18
 
 **Aufhebung bisherigen Rechts und Übergangsbestimmung**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden alle mit ihr in Widerspruch stehenden Bestimmungen aufgehoben, insbesondere das Gleitzeitreglement vom 10. Januar 1989.
+<sup>1</sup> …[^18-1]
 
 <sup>2</sup> Bestehende Regelungen, Weisungen oder Vereinbarungen über die Arbeitszeit gelten weiter, soweit sie § 31 der Personalverordnung und dieser Verordnung nicht widersprechen und nicht durch eine neue Regelung abgelöst werden.
 
 <sup>3</sup> Für Mitarbeiterinnen und Mitarbeiter, welche bereits die gleitende Arbeitszeit nutzen, gelten die entsprechenden Bestimmungen dieser Verordnung. Der bestehende Gleitzeitsaldo wird übertragen.
 
 <sup>4</sup> Der Entscheid über die Einführung der Jahresarbeitszeit richtet sich nach § 2 Abs. 3.
+
+[^18-1]: Gegenstandslos.
 
 #### § 19
 
@@ -286,6 +271,6 @@ Stelle erforderlich Stelle erforderlich
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^19-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
-
 [^19-1]: Amtsblatt 2010, S. 1759.
+
+Abl. 2010, S. 1759
