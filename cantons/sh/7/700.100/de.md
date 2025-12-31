@@ -5,11 +5,12 @@ title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: Baugesetz
 language: de
 version: 2026-01-01
+corrected: 2025-09-12
 version_adopted: 2024-12-16
 adopted: 1997-12-01
 in_force: 1999-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2017/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2013/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -108,17 +109,13 @@ beschliesst:
 - 8\. die Baukonstruktionen, Baumaterialien und die Anwendbarkeit von technischen Normen öffentlicher und privater Organisationen
 - 9\. die Erhaltung schöner oder geschichtlich wertvoller Kultur- und Baudenkmäler, Landschafts-, Orts-, Quartier- und Strassenbilder sowie Naturobjekte und Schutzgebiete
 - 10\. Einfriedungen und Geländeveränderungen
-- 11\. Mobilfunk- und Aussenantennen, Art und Standort von Reklamen und Firmenschildern
+- 11\. Solaranlagen, Mobilfunk- und Aussenantennen, Art und Standort von Reklamen und Firmenschildern
 - 12\. die Anlegung von Einstellräumen für Fahr- und Motorfahrräder auf privatem Grund bei Neu-, Umbauten und Zweckänderungen und über die Pflicht zur Erstellung von Abstellplätzen für Motorfahrzeuge auf privatem Grund bei Neu-, Umbauten und Zweckänderungen oder – falls die Abstellplätze nicht oder nicht in ausreichendem Masse bereitgestellt werden können oder dürfen (Art. 36) – zum Einkauf in öffentliche und private Parkierungsanlagen oder zur Leistung einer zweckgebundenen Ablösungszahlung
 - 13\. die Anlegung oder Beibehaltung geeigneter Kinderspielplätze, die Errichtung von grösseren Gemeinschaftsanlagen oder den Einkauf in bereits bestehende oder künftige öffentliche Kinderspielplätze
 - 14\. die Anlegung von Abstellplätzen für Abfuhrgut und Kehrichtbehälter auf privatem Grund
 - 15\. die Sicherung angemessener Wohnflächenanteile
 - 16\. behindertengerechtes Bauen
 - 17\. die Baukontrolle sowie die Voraussetzungen und das Verfahren zum Bezug neuer Wohnungen und Arbeitsräume
-- 18\. Erleichterungen für Solaranlagen im Sinne von Art. 54 Abs. 4
-- 19\. ein Verschotterungs- und Versiegelungsverbot von Grün- und Freiflächen in besiedelten oder hochwassergefährdeten Gebieten
-- 20\. die bodensparende und möglichst mehrgeschossige Bauweise in Industrie-, Gewerbe- und Dienstleitungszonen
-- 21\. die unterirdische Anordnung von Parkierungsflächen von verkehrsintensiven Einrichtungen und die Voraussetzungen für Ausnahmen in begründeten Fällen
 - 22\. Standorte von Unternehmen mit hoher Abwärmemenge und deren Nutzung
 
 <sup>2</sup> Ausserdem erlassen die Gemeinden die Ausführungsbestimmungen, für die sie aufgrund ausdrücklicher Gesetzesvorschrift zuständig sind.
@@ -159,22 +156,6 @@ beschliesst:
 
 <sup>5</sup> Kommt zwischen den Grundeigentümerinnen und Grundeigentümern und dem Gemeinwesen keine Einigung zustande, ist die Enteignung nach dem Enteignungsgesetz durchzuführen. Das Enteignungsverfahren beschränkt sich auf die Behandlung der angemeldeten Forderungen.
 
-#### Art. 9a
-
-**2a. Speziallandwirtschaftszonen**
-
-<sup>1</sup> Speziallandwirtschaftszonen sind Zonen für Bauten und Anlagen der Landwirtschaft, welche über die innere Aufstockung hinausgehen. Sie müssen im Sinne des Konzentrationsprinzips wenn möglich an eine bestehende Bauzone (primär Arbeitszone) anschliessen. Zudem müssen Bauten und Anlagen dieser Zone landschaftsverträglich eingeordnet werden können.
-
-<sup>2</sup> Speziallandwirtschaftszonen dürfen insbesondere in folgenden Gebieten nicht ausgeschieden werden:
-
-- a) in schützenswerten Landschaften von nationaler Bedeutung gemäss BLN
-- b) in schützenswerten Landschaften von kantonaler Bedeutung, ausgenommen in der Nähe eines bestehenden Betriebs
-- c) in Biotopen von nationaler und kantonaler Bedeutung gemäss Bundesinventaren, kantonalen Inventaren oder kantonalem Richtplan; ausgenommen in der Nähe eines bestehenden Betriebs
-- d) in Zuströmbereichen
-- e) in weiteren vom kantonalen Richtplan zu bezeichnenden Gebieten
-
-<sup>3</sup> Die Gemeinden können weitere Kriterien für das Ausscheiden von Speziallandwirtschaftszonen festlegen.
-
 #### Art. 10
 
 **Zonenplan: Materialabbauzone**
@@ -206,12 +187,6 @@ beschliesst:
 <sup>4</sup> Die Gemeinden können in ihren Bauordnungen für kleine Änderungen des Zonenplanes ein vereinfachtes Verfahren vorsehen und den Gemeinderat zur Beschlussfassung für zuständig erklären.
 
 <sup>5</sup> Gegen die Änderung von Zonenplänen kann Rekurs beim Regierungsrat erheben, wer davon berührt ist und ein schutzwürdiges Interesse an der Aufhebung oder Änderung des Beschlusses dartut. Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen.
-
-<sup>6</sup> Wenn vor Obergericht Beschwerde gegen Rekursentscheide des Regierungsrats im Zusammenhang mit Änderungen der Nutzungsplanung erhoben wird, so kann dennoch eine Baubewilligung gestützt auf die revidierten, aber noch nicht rechtskräftigen Regelungen erlassen werden, wenn:
-
-- a) die betroffene Gemeinde mit der vorgezogenen Anwendung einverstanden ist
-- b) die das Bauvorhaben betreffenden Bauvorschriften unbestritten sind und
-- c) der Regierungsrat zustimmt
 
 #### Art. 12
 
@@ -686,7 +661,7 @@ beschliesst:
 - a) die Errichtung neuer und die Erneuerung, Änderung und Erweiterung bestehender Hoch- und Tiefbauten, inkl. kulturhistorisch sowie gesundheits- oder baupolizeilich und energetisch bedeutsame bauliche Massnahmen im Freien, an der Aussenhülle und im Innern bestehender Bauten
 - b) die Änderung der Zweckbestimmung von Bauten und Anlagen oder Teilen hiervon
 - c) den Abbruch oder die Wiederherstellung einer Baute oder eines Teils davon
-- d) die Errichtung von Jauchegruben sowie von Mauern und Einfriedungen sowie Solarzäunen, wenn sie die Höhe von 1.5 m übersteigen
+- d) die Errichtung von Jauchegruben sowie von Mauern und Einfriedungen, wenn sie die Höhe von 1.5 m übersteigen
 - e) die Einrichtung von Abstellflächen für Motorfahrzeuge, Lagerungsplätzen, Ablagerungs- und Materialentnahmestellen, Zelt- und Campingplätzen
 - f) Antennen- und Reklameanlagen
 - g) Bohrungen und Geländeveränderungen, die zum gewachsenen Boden eine Niveaudifferenz von mehr als 1.5 m bewirken oder welche mehr als 200 m³ Aufschüttungen oder Abgrabungen umfassen
@@ -694,9 +669,7 @@ beschliesst:
 
 <sup>3</sup> Bei öffentlichen Bauten gilt das in diesem Abschnitt geregelte Verfahren nur soweit, als die einschlägigen Gesetze nichts anderes vorschreiben.
 
-<sup>4</sup> In Bau- und in Landwirtschaftszonen bedürfen auf Dächern und an Fassaden genügend angepasste Solaranlagen keiner Baubewilligung. Solche Vorhaben sind der zuständigen Behörde zu melden. Solaranlagen auf oder an Kultur- und Naturdenkmälern oder in Schutzzonen von kantonaler oder nationaler Bedeutung bedürfen stets einer Baubewilligung. Sie dürfen solche Denkmäler nicht wesentlich beeinträchtigen. Die Gemeinden können für Solaranlagen bestimmte, ästhetisch wenig empfindliche Typen von Bauzonen festlegen, in denen auch Solaranlagen, die nicht auf Dächern und an Fassaden angebracht werden, ohne Baubewilligung erstellt werden können. Grundsätzlich gehen die Interessen an der Nutzung der Solarenergie auf bestehenden oder neuen Bauten den ästhetischen Anliegen vor.
-
-<sup>4<sup>bis</sup></sup> In Arbeitszonen bedürfen Solaranlagen auf Dächern und an Fassaden keiner Baubewilligung, auch wenn sie nach Art. 32a RPV nicht genügend angepasst sind.
+<sup>4</sup> In Bau- und in Landwirtschaftszonen bedürfen auf Dächern genügend angepasste Solaranlagen keiner Baubewilligung. Solche Vorhaben sind der zuständigen Behörde zu melden. Solaranlagen auf Kultur- und Naturdenkmälern von kantonaler oder nationaler Bedeutung bedürfen stets einer Baubewilligung. Sie dürfen solche Denkmäler nicht wesentlich beeinträchtigen. Die Gemeinden können für Solaranlagen bestimmte, ästhetisch wenig empfindliche Typen von Bauzonen festlegen, in denen auch Solaranlagen, die nicht auf Dächern angebracht werden, ohne Baubewilligung erstellt werden können. Grundsätzlich gehen die Interessen an der Nutzung der Solarenergie auf bestehenden oder neuen Bauten den ästhetischen Anliegen vor.
 
 <sup>5</sup> Mit Ausnahme von Abs. 4 richtet sich die Bewilligungspflicht ausschliesslich nach kantonalem Recht. Bauliche Massnahmen geringfügiger Bedeutung sind durch Verordnung von der Bewilligungspflicht zu befreien. Von der Bewilligungspflicht befreite Massnahmen haben keine Grenzabstandsvorschriften und keinen Baulinienabstand einzuhalten. Wird eine Strasse oder ein Platz nachträglich erweitert, sind von der Baubewilligungspflicht befreite bauliche Massnahmen ohne Anspruch auf Entschädigung zu entfernen.
 
@@ -872,7 +845,7 @@ beschliesst:
 
 <sup>4</sup> Verzichten die Beigeladenen während des Rekursverfahrens auf die Prozessführung, ist damit das Recht auf die Erhebung weiterer Rechtsmittel verwirkt; andernfalls wird ihnen der Entscheid wie einer Partei eröffnet.
 
-<sup>5</sup> …
+<sup>5</sup> Privatrechtlich begründete Einsprachen gegen ein Bauvorhaben sind innert 20 Tagen ab Erhalt des Baurechtsentscheides zur Erwirkung eines Bauverbotes schriftlich beim zuständigen Richter zu erheben.
 
 #### Art. 70
 
@@ -1028,7 +1001,7 @@ beschliesst:
 
 **Vollzug: Grundbuchanmerkungen**
 
-<sup>1</sup> Nebst den im Gesetz ausdrücklich vorgesehenen Fällen hat der Gemeinderat die Quartierpläne samt Sonderbauvorschriften im Grundbuch anmerken zu lassen. Baulinienpläne können im Grundbuch eingetragen werden, wenn dies aufgrund der Verhältnisse angezeigt ist.
+<sup>1</sup> Nebst den im Gesetz ausdrücklich vorgesehenen Fällen hat der Gemeinderat sämtliche Baulinienpläne mit der Umschreibung von Zweck und Wirkung der Baulinien sowie die Quartierpläne samt Sonderbauvorschriften im Grundbuch anmerken zu lassen.
 
 <sup>2</sup> Der Regierungsrat kann noch in weiteren Fällen die Anmerkung öffentlich-rechtlicher Eigentumsbeschränkungen im Grundbuch vorschreiben, vorbehältlich der Genehmigung durch den Bundesrat.
 
@@ -1137,13 +1110,13 @@ beschliesst:
 
 <sup>1</sup> Gebäude: Gebäude sind ortsfeste Bauten, die zum Schutz von Menschen, Tieren oder Sachen eine feste Überdachung und in der Regel weitere Abschlüsse aufweisen.
 
-<sup>2</sup> Kleinbauten: Kleinbauten sind freistehende Gebäude, die eine Gebäudefläche von höchstens 50 m² aufweisen, bei Schrägdachbauten eine traufseitige Fassadenhöhe von 3.5 m und eine Gesamthöhe von 4.5 m, bei Flachdachbauten eine Gesamthöhe von 3.5 m nicht überschreiten und die nur Nebennutzflächen enthalten.
+<sup>2</sup> Kleinbauten: Kleinbauten sind freistehende Gebäude, die in ihren Dimensionen die folgenden Masse nicht überschreiten und die nur Nebennutzflächen enthalten: Gebäudegrundfläche 50 m², Fassadenhöhe 3.5 m und Gesamthöhe 5 m.
 
 <sup>3</sup> Anbauten: Anbauten sind mit einem anderen Gebäude zusammengebaut, überschreiten in ihren Dimensionen die zulässigen Masse gemäss Abs. 2 nicht und enthalten nur Nebennutzflächen.
 
-<sup>4</sup> Unterirdische Bauten: Unterirdische Bauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen vollständig unter dem massgebenden, respektive unter dem tiefer gelegten Terrain liegen. Erschliessungen, Geländer und Brüstungen, welche das massgebende Terrain um mehr als 1.5 m überragen, sind als separate Bau- oder Anlageteile zu beurteilen.
+<sup>4</sup> Unterirdische Bauten: Unterirdische Bauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen vollständig unter dem massgebenden, respektive unter dem tiefer gelegten Terrain liegen.
 
-<sup>5</sup> Unterniveaubauten: Unterniveaubauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen höchstens bis zu 0.5 m über das massgebende, respektive über das tiefer gelegte Terrain hinausragen. Erschliessungen, Geländer und Brüstungen, welche das massgebende Terrain um mehr als 1.5 m überragen, sind als separate Bau- oder Anlageteile zu beurteilen.
+<sup>5</sup> Unterniveaubauten: Unterniveaubauten sind Gebäude, die höchstens bis zu 0.5 m über das massgebende, respektive über das tiefer gelegte Terrain hinausragen.
 
 #### Art. A1-3
 
