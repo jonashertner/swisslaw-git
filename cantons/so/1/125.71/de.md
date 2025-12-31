@@ -3,20 +3,19 @@ canton: SO
 number: "125.71"
 title: Geschäftsreglement des Obergerichts des Kantons Solothurn und der ihm angegliederten Spezialgerichte
 language: de
-version: 2019-08-01
-valid_until: 2025-12-31
-version_adopted: 2019-05-20
+version: 2026-01-01
+version_adopted: 2025-10-13
 adopted: 1998-09-11
 in_force: 1999-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/125.71"
-pdf: "https://bgs.so.ch/api/de/versions/4858/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement des Obergerichts des Kantons Solothurn und der ihm angegliederten Spezialgerichte
 
-Vom 11.09.1998 (Stand 01.08.2019)
+Vom 11.09.1998 (Stand 01.01.2026)
 
 Das Obergericht des Kantons Solothurn
 
@@ -334,6 +333,8 @@ beschliesst:
 **d) Stellvertretung**
 
 <sup>1</sup> Der Obergerichtsschreiber oder die Obergerichtsschreiberin kann gesamtbetriebliche Aufgaben generell oder von Fall zu Fall dem Stellvertreter oder der Stellvertreterin übertragen.
+
+<sup>2</sup> Als Stellvertreter oder Stellvertreterin des Obergerichtsschreibers oder der Obergerichtsschreiberin amten die Leitenden Gerichtsschreiberinnen und Gerichtsschreiber.
 
 #### § 33
 
