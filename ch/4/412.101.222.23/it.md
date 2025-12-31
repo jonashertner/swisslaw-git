@@ -3,18 +3,18 @@ sr: "412.101.222.23"
 title: "Ordinanza della SEFRI dell' 11 ottobre 2016 sulla formazione professionale di base Impiegata in comunicazione alberghiera/Impiegato in comunicazione alberghiera (AFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/615"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2016-10-11
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/615/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2016-615-20240401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/615/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/615/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2016-615-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/615/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Impiegata in comunicazione alberghiera / Impiegato in comunicazione alberghiera (AFC)
 
-dell’11 ottobre 2016 (Stato 1° aprile 2024)
+dell’11 ottobre 2016 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>79200</td><td>Impiegata in comunicazione alberghiera / Impiegato in comunicazione alberghiera AFC Hotel-Kommunikationsfachfrau / Hotel-Kommunikationsfachmann EFZ Spécialiste en communication hôtelière CFC</td></tr>
@@ -26,11 +26,11 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-5]: Nuovo testo giusta il n. I 166 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
+[^ingress-5]: Nuovo testo giusta la cifra I n. 166 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -129,8 +129,8 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Nuovo testo giusta il n. II 166 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Nuovo testo giusta la cifra II n. 166 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -163,7 +163,7 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammesse deroghe minime al numero di lezioni prescritte per anno di formazione in un campo di competenze operative.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.[^7-2]
 
 <sup>4</sup> La lingua d’insegnamento è di norma la lingua nazionale del luogo in cui si trova la scuola professionale.
 
@@ -171,7 +171,8 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>6</sup> I Cantoni possono autorizzare altre lingue d’insegnamento.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 8
 
@@ -231,34 +232,45 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^9-1]
 
-[^9-1]: Nuovo testo giusta il n. III 37 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^9-1]: Nuovo testo giusta la cifra III n. 37 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
-## Sezione 6: Requisiti minimi per i formatori e numero massimo di persone in formazione in azienda
+## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
+
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 10
 
-**Requisiti professionali minimi richiesti ai formatori**
+**Requisiti professionali richiesti ai formatori[^10-1]**
 
-I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere a e b OFPr sono soddisfatti se il formatore possiede una delle seguenti qualifiche:
+Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:[^10-2]
 
 - a. attestato federale di capacità di impiegato in comunicazione alberghiera AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - b. attestato federale di capacità di una professione del ramo alberghiero con le necessarie conoscenze professionali nel campo di attività dell’impiegato in comunicazione alberghiera AFC e almeno tre anni di esperienza nel campo d’insegnamento;
 - c. titolo della formazione professionale superiore in ambito pertinente;
 - d. diploma di scuola universitaria in ambito pertinente e almeno cinque anni di esperienza professionale nel campo d’insegnamento.
 
+[^10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+
 #### Art. 11
 
-**Numero massimo di persone in formazione in azienda**
+**Numero massimo di persone in formazione in azienda**[^11-1]
 
-<sup>1</sup> Nelle aziende che impiegano un formatore al 100 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.
+<sup>1</sup> Nelle aziende che impiegano un formatore all’80 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.
 
-<sup>2</sup> Per ogni altro specialista occupato al 100 per cento o per ogni due specialisti in più occupati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
+<sup>2</sup> Per ogni altro specialista impiegato all’80 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
 
 <sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità o di una qualifica equivalente nel campo della persona in formazione.
 
-<sup>4</sup> Nelle aziende che possono impiegare solo una persona in formazione una seconda persona può iniziare il tirocinio quando la prima arriva all’ultimo anno della formazione professionale di base.
+<sup>4</sup> Nelle aziende che possono impiegare soltanto una persona in formazione una seconda persona può iniziare il tirocinio quando la prima inizia l’ultimo anno della formazione professionale di base.
 
-<sup>5</sup> In casi particolari l’autorità cantonale può autorizzare il superamento del numero massimo di persone in formazione nelle aziende di tirocinio che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
+<sup>5</sup> In casi particolari l’autorità cantonale può autorizzare un numero maggiore di persone in formazione nelle aziende che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
+
+<sup>6</sup> L’azienda pianifica gli orari lavorativi dei formatori e degli specialisti affinché, durante la pratica professionale, la persona in formazione possa essere seguita da un formatore o da uno specialista.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 ## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
@@ -335,20 +347,14 @@ Nella procedura di qualificazione con esame finale vengono esaminate, nel modo i
 <tr><td>3</td><td>Colloquio professionale (comune a tutti i campi di competenze operative)</td><td>30 %</td></tr>
 </table>
 
-- b. «conoscenze professionali», della durata di tre ore. L’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base. L’esame del campo di qualificazione «conoscenze professionali» avviene in forma scritta e comprende i campi di competenze operative sottoelencati con le seguenti ponderazioni:
-
-<table>
-<tr><td>Voce</td><td>Campi di competenze operative</td><td>Durata</td><td>Ponderazione</td></tr>
-<tr><td>1</td><td>Consulenza e assistenza agli ospiti e ai partner</td><td>70 min.</td><td>40 %</td></tr>
-<tr><td>2</td><td>Ideazione e organizzazione di misure di marketing e cooperazioni</td><td>40 min.</td><td>20 %</td></tr>
-<tr><td>3</td><td>Organizzazione e applicazione di processi amministrativi</td><td>70 min.</td><td>40 %</td></tr>
-</table>
-
-- c. «cultura generale». A questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- b.[^18-1] ...
+- c.[^18-2] «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^18-3] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Abrogata dalla cifra I dell’O della SEFRI del 7 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^18-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -369,10 +375,11 @@ La procedura di qualificazione con esame finale è superata se:
 
 Per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
 
-- a. lavoro pratico: 40 per cento;
-- b. conoscenze professionali: 20 per cento;
-- c. cultura generale: 20 per cento;
-- d. nota relativa all’insegnamento professionale: 20 per cento.
+- a. lavoro pratico: 50 per cento;
+- b. cultura generale: 20 per cento;
+- c. nota relativa all’insegnamento delle conoscenze professionali: 30 per cento.[^19-1]
+
+[^19-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 20
 
@@ -392,11 +399,12 @@ Per il calcolo della nota complessiva valgono le note sottoelencate con la segue
 
 <sup>2</sup>
 
-Per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
+In questo caso, per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
 
-- a. lavoro pratico: 50 per cento;
-- b. conoscenze professionali: 30 per cento;
-- c. cultura generale: 20 per cento.
+- a. lavoro pratico: 80 per cento;
+- b. cultura generale: 20 per cento.[^21-1]
+
+[^21-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 ## Sezione 9: Attestazioni e titolo
 
@@ -453,10 +461,32 @@ Essa svolge in particolare i seguenti compiti:
 
 <sup>4</sup> Le autorità cantonali competenti hanno il diritto di accedere ai corsi in qualsiasi momento.
 
-## Sezione 11: Entrata in vigore
+## Sezione 11: Disposizioni finali
+
+[^sec11-1]
+
+[^sec11-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+
+#### Art. 24a
+
+**Disposizioni transitorie della modifica del 7 novembre 2025 e prima applicazione di singole disposizioni**[^24a-1]
+
+<sup>1</sup> Gli articoli 18 capoverso 1 lettera b, 19 capoverso 4 e 21 capoverso 2 della modifica del 7. November 2025 si applicano dal 1° gennaio 2029.
+
+<sup>2</sup> Le persone che hanno iniziato la formazione di impiegato in comunicazione alberghiera AFC prima dell’entrata in vigore della modifica del 7 novembre 2025 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2030.
+
+<sup>3</sup> Le persone che, dopo l’entrata in vigore della modifica del 7 novembre 2025, iniziano una formazione abbreviata che si conclude anteriormente alla prima applicazione degli articoli 18 capoverso 1 lettera b, 19 capoverso 4 e 21 capoverso 2, la svolgono e la portano a termine secondo il diritto anteriore, al massimo però entro il 31 dicembre 2030.
+
+<sup>4</sup> I candidati che hanno portato a termine la procedura di qualificazione con esame finale per impiegato in comunicazione alberghiera AFC in base al diritto anteriore e che la ripetono entro il 31 dicembre 2030 sono valutati in base al diritto anteriore.
+
+[^24a-1]: Introdotto dalla cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 25
+
+**Entrata in vigore[^25-1]**
 
 <sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 1° gennaio 2017.
 
 <sup>2</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 16–22) entrano in vigore il 1° gennaio 2020.
+
+[^25-1]: Introdotto dalla cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).

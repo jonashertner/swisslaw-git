@@ -3,18 +3,18 @@ sr: "412.101.222.23"
 title: Ordonnance du SEFRI du 11 octobre 2016 sur la formation professionnelle initiale de spécialiste en communication hôtelière avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/615"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2016-10-11
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/615/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-615-20240401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/615/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/615/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-615-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/615/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de spécialiste en communication hôtelière avec certificat fédéral de capacité (CFC)\*
 
-du 11 octobre 2016 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 11 octobre 2016 (État le 1<sup>er</sup> janvier 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -28,10 +28,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Nouvelle teneur selon le ch. I 166 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
@@ -132,7 +132,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 166 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -165,7 +165,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>2</sup> De légères divergences par rapport au nombre prescrit de périodes d’enseignement par année d’apprentissage au sein d’un domaine de compétences opérationnelles sont possibles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].[^7-2]
 
 <sup>4</sup> La langue d’enseignement est en règle générale la langue nationale du lieu d’implantation de l’école.
 
@@ -173,7 +173,8 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>6</sup> Les cantons peuvent admettre d’autres langues d’enseignement.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 8
 
@@ -235,32 +236,43 @@ Le plan de formation:
 
 [^9-1]: Nouvelle teneur selon le ch. III 37 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
-## Section 6 Exigences minimales posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
+## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
+
+[^sec6-1]
+
+[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 10
 
-**Exigences minimales posées aux formateurs**
+**Exigences posées aux formateurs[^10-1]**
 
-Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, let. a et b, OFPr sont remplies par:
+Les personnes ci-après remplissent les exigences posées aux formateurs:[^10-2]
 
 - a. les spécialistes en communication hôtelière CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
 - b. les personnes titulaires d’un CFC dans une profession de la branche de l’hôtellerie/restauration et justifiant des connaissances professionnelles requises propres aux spécialistes en communication hôtelière CFC et d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’elles dispensent;
 - c. les personnes titulaires d’un titre correspondant de la formation professionnelle supérieure;
 - d. les personnes titulaires d’un diplôme correspondant d’une haute école et justifiant d’au moins 5 ans d’expérience professionnelle dans le domaine de la formation qu’elles dispensent.
 
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+
 #### Art. 11
 
-**Nombre maximal de personnes en formation**
+**Nombre maximal de personnes en formation**[^11-1]
 
-<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 100 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
+<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 80 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
 
-<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 100 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
+<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 80 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
 
 <sup>3</sup> Sont réputés professionnels les titulaires d’un certificat fédéral de capacité ou d’une qualification équivalente dans le domaine de la personne en formation.
 
 <sup>4</sup> Dans les entreprises qui ne sont autorisées à former qu’une seule personne, une seconde personne peut commencer sa formation si la première entame sa dernière année de formation professionnelle initiale.
 
 <sup>5</sup> Dans des cas particuliers, l’autorité cantonale peut autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
+
+<sup>6</sup> Les entreprises organisent le temps de travail des formateurs et des professionnels de telle manière que les personnes en formation puissent être encadrées par un formateur ou un professionnel à tout moment de leur formation en entreprise.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 ## Section 7 Dossier de formation, rapport de formation et dossiers des prestations
 
@@ -331,26 +343,20 @@ La procédure de qualification avec examen final porte sur les compétences opé
 - a. travail pratique sous la forme d’un travail pratique prescrit (TPP) d’une durée de 8 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides. Ce domaine de qualification porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
 
 <table>
-<tr><td>Point d’appréciation</td><td>Domaine de compétences opérationnelles</td><td>Pondération</td></tr>
+<tr><th>Point d’appréciation</th><th>Domaine de compétences opérationnelles</th><th>Pondération</th></tr>
 <tr><td>1</td><td>Conseil et encadrement des clients et des partenaires Garantie de la durabilité et des prescriptions en matière de qualité</td><td>40 %</td></tr>
 <tr><td>2</td><td>Conception et organisation de mesures de marketing et de coopérations Organisation et mise en œuvre de processus de travail administratifs</td><td>30 %</td></tr>
 <tr><td>3</td><td>Entretien professionnel concernant tous les domaines de compétences opérationnelles</td><td>30 %</td></tr>
 </table>
 
-- b. connaissances professionnelles d’une durée de 3 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. Il fait l’objet d’un examen écrit; il porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
-
-<table>
-<tr><td>Point d’appréciation</td><td>Domaine de compétences opérationnelles</td><td>Durée de l’examen</td><td>Pondération</td></tr>
-<tr><td>1</td><td>Conseil et encadrement des clients et des partenaires</td><td>70 min.</td><td>40 %</td></tr>
-<tr><td>2</td><td>Conception et organisation de mesures de marketing et de coopérations</td><td>40 min.</td><td>20 %</td></tr>
-<tr><td>3</td><td>Organisation et mise en œuvre de processus de travail administratifs</td><td>70 min.</td><td>40 %</td></tr>
-</table>
-
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- b.[^18-1] …
+- c.[^18-2] culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-3].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Abrogée par le ch. I de l’O du SEFRI du 7 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^18-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -371,10 +377,11 @@ La procédure de qualification avec examen final est réussie si:
 
 Pour le calcul de la note globale, les notes sont pondérées de la manière suivante:
 
-- a. travail pratique: 40 %;
-- b. connaissances professionnelles: 20 %;
-- c. culture générale: 20 %;
-- d. note d’expérience: 20 %.
+- a. travail pratique: 50 %;
+- b. culture générale: 20 %;
+- c. note d’expérience: 30 %.[^19-1]
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 20
 
@@ -396,9 +403,10 @@ Pour le calcul de la note globale, les notes sont pondérées de la manière sui
 
 Pour le calcul de la note globale, les notes sont pondérées de la manière suivante:
 
-- a. travail pratique: 50 %;
-- b. connaissances professionnelles: 30 %;
-- c. culture générale: 20 %.
+- a. travail pratique: 80 %;
+- b. culture générale: 20 %.[^21-1]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 ## Section 9 Certificat et titre
 
@@ -455,10 +463,32 @@ Elle est notamment chargée des tâches suivantes:
 
 <sup>4</sup> Les autorités cantonales compétentes ont accès aux cours en tout temps.
 
-## Section 11 Entrée en vigueur
+## Section 11 Dispositions finales
+
+[^sec11-1]
+
+[^sec11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+
+#### Art. 24a
+
+**Dispositions transitoires relatives à la modification du 7 novembre 2025 et première application de dispositions particulières**[^24a-1]
+
+<sup>1</sup> Les art. 18, al. 1, let. b, 19, al. 4, et 21, al. 2, de la modification du 7 novembre 2025 sont applicables au 1<sup>er</sup> janvier 2029.
+
+<sup>2</sup> Les personnes qui ont commencé leur formation de spécialiste en communication hôtelière CFC avant l’entrée en vigueur de la modification du 7 novembre 2025 l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2030.
+
+<sup>3</sup> Les personnes qui, après l’entrée en vigueur de la modification du 7 novembre 2025, commencent une formation raccourcie se terminant avant la première application des art. 18, al. 1, let. b, 19, al. 4, et 21, al. 2, de ladite modification la suivent et l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2030.
+
+<sup>4</sup> Les candidats qui se sont présentés à la procédure de qualification avec examen final de spécialiste en communication hôtelière CFC selon l’ancien droit et qui la répètent jusqu’au 31 décembre 2030 voient leurs prestations appréciées selon l’ancien droit.
+
+[^24a-1]: Introduit par le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 25
+
+**Entrée en vigueur[^25-1]**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2017, les dispositions de l’al. 2 étant réservées.
 
 <sup>2</sup> Les dispositions relatives aux procédures de qualification, au certificat et au titre (art. 16 à 22) entrent en vigueur le 1<sup>er</sup> janvier 2020.
+
+[^25-1]: Introduit par le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).

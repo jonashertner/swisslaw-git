@@ -3,18 +3,18 @@ sr: "412.101.222.23"
 title: Verordnung des SBFI vom 11. Oktober 2016 über die berufliche Grundbildung Hotel-Kommunikationsfachfrau/Hotel-Kommunikationsfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/615"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2016-10-11
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/615/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2016-615-20240401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/615/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/615/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2016-615-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/615/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Hotel-Kommunikationsfachfrau/ Hotel-Kommunikationsfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 11. Oktober 2016 (Stand am 1. April 2024)
+vom 11. Oktober 2016 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>79200</td><td>Hotel-Kommunikationsfachfrau/ Hotel-Kommunikationsfachmann EFZ Spécialiste en communication hôtelière CFC Impiegata in comunicazione alberghiera/ Impiegato in comunicazione alberghiera AFC</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:[^ingress-5]
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I 166 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
@@ -130,7 +130,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^5-1]: Fassung gemäss Ziff. II 166 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -163,7 +163,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>2</sup> Geringfügige Abweichungen von der vorgegebenen Anzahl der Lektionen pro Lehrjahr innerhalb eines Handlungskompetenzbereichs sind in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.[^7-2]
 
 <sup>4</sup> Unterrichtssprache ist in der Regel die Landessprache des Schulortes.
 
@@ -171,7 +171,8 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>6</sup> Die Kantone können andere Unterrichtssprachen zulassen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 8
 
@@ -233,32 +234,43 @@ Der Bildungsplan hat folgenden Inhalt:
 
 [^9-1]: Fassung gemäss Ziff. III 37 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
-## 6. Abschnitt: Mindestanforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 10
 
-**Fachliche Mindestanforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner[^10-1]**
 
-Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben a und b BBV an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
+Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:[^10-2]
 
 - a. Hotel-Kommunikationsfachfrau EFZ oder Hotel-Kommunikationsfachmann EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
 - b. eidgenössisches Fähigkeitszeugnis eines gastgewerblichen Berufs mit den notwendigen Berufskenntnissen im Bereich der Hotel-Kommunikationsfachfrau EFZ und des Hotel-Kommunikationsfachmanns EFZ und mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
 - c. einschlägiger Abschluss der höheren Berufsbildung;
 - d. einschlägiger Hochschulabschluss mit mindestens fünf Jahren beruflicher Praxis im Lehrgebiet.
 
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^10-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+
 #### Art. 11
 
-**Höchstzahl der Lernenden**
+**Höchstzahl der Lernenden**[^11-1]
 
-<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 100 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
+<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 80 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
 
-<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
+<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 80 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
 
 <sup>3</sup> Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis oder über eine gleichwertige Qualifikation verfügt.
 
 <sup>4</sup> In Betrieben, die nur eine lernende Person ausbilden dürfen, kann eine zweite lernende Person ihre Bildung beginnen, wenn die erste in das letzte Jahr der beruflichen Grundbildung eintritt.
 
 <sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
+
+<sup>6</sup> Der Betrieb organisiert die Arbeitszeit der Berufsbildnerinnen oder Berufsbildner und Fachkräfte so, dass die Lernenden während der beruflichen Praxis von einer Berufsbildnerin oder einem Berufsbildner oder von einer Fachkraft beaufsichtigt sind.
+
+[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 ## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen
 
@@ -335,20 +347,14 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>3</td><td>handlungskompetenzbereichübergreifendes Fachgespräch</td><td>30 %</td></tr>
 </table>
 
-- b. Berufskenntnisse, im Umfang von drei Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Der Qualifikationsbereich Berufskenntnisse wird schriftlich geprüft; er umfasst die folgenden Handlungskompetenzbereiche mit den nachstehenden Gewichtungen:
-
-<table>
-<tr><td>Position</td><td>Handlungskompetenzbereiche</td><td>Dauer</td><td>Gewichtung</td></tr>
-<tr><td>1</td><td>Beraten und Betreuen von Gästen und Partnern</td><td>70 Min.</td><td>40 %</td></tr>
-<tr><td>2</td><td>Gestalten und Organisieren von Marketingmassnahmen und Kooperationen</td><td>40 Min.</td><td>20 %</td></tr>
-<tr><td>3</td><td>Organisieren und Umsetzen von administrativen Arbeitsprozessen</td><td>70 Min.</td><td>40 %</td></tr>
-</table>
-
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- b.[^18-1] …
+- c.[^18-2] Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^18-3] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Aufgehoben durch Ziff. I der V des SBFI vom 7. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^18-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+[^18-3]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -369,10 +375,11 @@ Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
 
 Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichtet:
 
-- a. praktische Arbeit: 40 %;
-- b. Berufskenntnisse: 20 %;
-- c. Allgemeinbildung: 20 %;
-- d. Erfahrungsnote: 20 %.
+- a. praktische Arbeit: 50 %;
+- b. Allgemeinbildung: 20 %;
+- c. Erfahrungsnote: 30 %.[^19-1]
+
+[^19-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 20
 
@@ -392,11 +399,12 @@ Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichte
 
 <sup>2</sup>
 
-Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichtet:
+Für die Berechnung der Gesamtnote werden in diesem Fall die einzelnen Noten wie folgt gewichtet:
 
-- a. praktische Arbeit: 50 %;
-- b. Berufskenntnisse: 30 %;
-- c. Allgemeinbildung: 20 %.
+- a. praktische Arbeit: 80 %;
+- b. Allgemeinbildung: 20 %.[^21-1]
+
+[^21-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 ## 9. Abschnitt: Ausweise und Titel
 
@@ -453,10 +461,32 @@ Sie hat insbesondere folgende Aufgaben:
 
 <sup>4</sup> Die zuständigen Behörden der Kantone haben jederzeit Zutritt zu den Kursen.
 
-## 11. Abschnitt: Inkrafttreten
+## 11. Abschnitt: Schlussbestimmungen
+
+[^sec11-1]
+
+[^sec11-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
+
+#### Art. 24a
+
+**Übergangsbestimmungen zur Änderung vom 7. November 2025 und erstmalige Anwendung einzelner Bestimmungen**[^24a-1]
+
+<sup>1</sup> Die Artikel 18 Absatz 1 Buchstabe b, 19 Absatz 4 und 21 Absatz 2 der Änderung vom 7. November 2025 kommen ab dem 1. Januar 2029 zur Anwendung.
+
+<sup>2</sup> Lernende, die ihre Ausbildung als Hotel-Kommunikationsfachfrau oder Hotel-Kommunikationsfachmann mit EFZ vor dem Inkrafttreten der Änderung vom 7. November 2025 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2030 erfolgt.
+
+<sup>3</sup> Lernende, die nach dem Inkrafttreten der Änderung vom 7. November 2025 eine verkürzte Ausbildung beginnen, die vor der erstmaligen Anwendung der Artikel 18 Absatz 1 Buchstabe b, 19 Absatz 4 und 21 Absatz 2 endet, absolvieren sie nach bisherigem Recht und schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2030 erfolgt.
+
+<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Hotel-Kommunikationsfachfrau oder Hotel-Kommunikationsfachmann mit EFZ gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2030 wiederholen, werden nach bisherigem Recht beurteilt.
+
+[^24a-1]: Eingefügt durch Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
 
 #### Art. 25
+
+**Inkrafttreten[^25-1]**
 
 <sup>1</sup> Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Januar 2017 in Kraft.
 
 <sup>2</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 16–22) treten am 1. Januar 2020 in Kraft.
+
+[^25-1]: Eingefügt durch Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 734](https://fedlex.data.admin.ch/eli/oc/2025/734)).
