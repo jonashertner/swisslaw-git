@@ -4,13 +4,12 @@ number: "311.121"
 title: "Verordnung über die Berufe, Organisationen und Betriebe im Gesundheitswesen"
 short: VBOB
 language: de
-version: 2023-10-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-06
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/311.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3637/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3906/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3637/pdf_file"
 
 (VBOB)
 
-Vom 11.11.2009 (Stand 01.10.2023)
+Vom 11.11.2009 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -128,8 +127,8 @@ beschliesst:
 
 <sup>7</sup> Veränderungen in den Verhältnissen wie Beendigung der Tätigkeit, Änderungen der Personalien sowie der Geschäftsadresse oder Privatadresse sind dem Departement umgehend schriftlich zu melden.
 
-[^7-1]: Bundesgesetz über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen (BGMD) vom 14. Dezember 2012 (SR [935.01)](https://db.clex.ch/link/Bund/935.01)/de)
-[^7-2]: Verordnung über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen (VMD) vom 26. Juni 2013 (SR [935.011](https://db.clex.ch/link/Bund/935.011/de))
+[^7-1]: Bundesgesetz über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und ‑erbringern in reglementierten Berufen (BGMD) vom 14. Dezember 2012 (SR [935.01)](https://db.clex.ch/link/Bund/935.01)/de)
+[^7-2]: Verordnung über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und ‑erbringern in reglementierten Berufen (VMD) vom 26. Juni 2013 (SR [935.011](https://db.clex.ch/link/Bund/935.011/de))
 
 #### § 8
 
@@ -291,7 +290,11 @@ beschliesst:
 
 **Podologie**
 
-<sup>1</sup> Die Bewilligung zur selbstständigen Tätigkeit als Podologin oder Podologe setzt voraus, dass sich die Gesuchstellerin oder der Gesuchsteller über ein eidgenössisches Diplom einer höheren Fachschule oder einen als gleichwertig anerkannten Ausbildungsabschluss ausweist.
+<sup>1</sup> Die Bewilligung zur selbstständigen Tätigkeit als Podologin oder Podologe setzt voraus, dass sich die Gesuchstellerin oder der Gesuchsteller über ein eidgenössisches Fähigkeitszeugnis, ein eidgenössisches Diplom einer höheren Fachschule oder einen als gleichwertig anerkannten Ausbildungsabschluss ausweist.
+
+<sup>2</sup> Die Podologin oder der Podologe mit eidgenössischem Fähigkeitszeugnis darf in eigener fachlicher Verantwortung nur Patientinnen und Patienten behandeln, die zu keiner Risikogruppe[^23-1] gemäss der Organisation Podologie Schweiz (OPS) gehören.
+
+[^23-1]: Definition Risikogruppen - Schweizerischer Podologen-Verband SPV [https://podologie.swiss/podologie/1x1-der-podologie/definition-risikogruppen/](https://podologie.swiss/podologie/1x1-der-podologie/definition-risikogruppen/)
 
 #### § 24
 
@@ -611,9 +614,11 @@ dass sie
 
 **Stellvertretung in Apotheken; Abdeckung Normalöffnungszeit**
 
-<sup>1</sup> Die gesamtverantwortliche Leitungsperson hat mit ihrer Anwesenheit mindestens 60% der allgemein üblichen Öffnungszeit (Normalöffnungszeit) von 44 Stunden pro Woche abzudecken.
+<sup>1</sup> Die gesamtverantwortliche Leitungsperson hat mit ihrer Anwesenheit mindestens 30 % der allgemein üblichen Öffnungszeit (Normalöffnungszeit) von 44 Stunden pro Woche abzudecken.
 
-<sup>2</sup> Für die maximal 40%ige Abwesenheit innerhalb dieser Normalöffnungszeit kann sie sich durch eine gemäss § 27 bewilligte Assistentin oder einen Assistenten vertreten lassen.
+<sup>2</sup> Für die maximal 70‑prozentige Abwesenheit innerhalb dieser Normalöffnungszeit kann sie sich durch eine gemäss § 27 bewilligte Assistentin oder einen Assistenten vertreten lassen.
+
+<sup>3</sup> Übersteigt die Abwesenheit der gesamtverantwortlichen Leitungsperson 40 % der 44 Stunden Normalöffnungszeit pro Woche, muss eine separate Stellvertreterbewilligung gemäss § 46 eingeholt werden.
 
 #### § 46
 
@@ -629,9 +634,9 @@ dass sie
 
 **Stellvertretung in Drogerien; Abdeckung Normalöffnungszeit**
 
-<sup>1</sup> Die gesamtverantwortliche Leitungsperson hat mit ihrer Anwesenheit mindestens 60% der allgemein üblichen Öffnungszeit (Normalöffnungszeit) von 44 Stunden pro Woche abzudecken.
+<sup>1</sup> Die gesamtverantwortliche Leitungsperson hat mit ihrer Anwesenheit mindestens 30 % der allgemein üblichen Öffnungszeit (Normalöffnungszeit) von 44 Stunden pro Woche abzudecken.
 
-<sup>2</sup> Für die maximal 40%ige Abwesenheit innerhalb dieser Normalöffnungszeit kann sie eine Stellvertretung bezeichnen. Diese hat die Voraussetzungen gemäss § 30 zu erfüllen.
+<sup>2</sup> Für die maximal 70‑prozentige Abwesenheit innerhalb dieser Normalöffnungszeit kann sie eine Stellvertretung bezeichnen. Diese hat die Voraussetzungen gemäss § 30 zu erfüllen.
 
 <sup>3</sup> Für eine Öffnungszeit von über 44–60 Stunden pro Woche kann sich die gesamtverantwortliche Leitungsperson durch eine Drogistin oder einen Drogisten mit eidgenössischem Fähigkeitszeugnis und dem zusätzlichen Nachweis von zwei Jahren praktischer Tätigkeit oder dem zusätzlichen Nachweis über die erfolgreiche Absolvierung des Stellvertreterkurses des Schweizerischen Drogistenverbands vertreten lassen.
 
