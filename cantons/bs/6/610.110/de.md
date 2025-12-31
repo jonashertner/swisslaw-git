@@ -4,13 +4,12 @@ number: "610.110"
 title: Verordnung zum Gesetz über den kantonalen Finanzhaushalt
 short: Finanzhaushaltverordnung
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-17
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 2012-05-22
 in_force: 2012-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/610.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6615/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6762/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Finanzordnung
 
 (Finanzhaushaltverordnung)
 
-Vom 22. Mai 2012 (Stand 1. Januar 2025)
+Vom 22. Mai 2012 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -415,7 +414,8 @@ beschliesst:
 - e) die Art der Offenlegung der erhaltenen Investitionsbeiträge,
 - f) die Nichtanwendung des Komponentenansatzes im Bereich Tiefbau,
 - g) die Bildung von Rückstellungen für wesentliche, zusätzliche künftige NFA-Zahlungen aufgrund ausserordentlicher, einmaliger Steuererträge,
-- h) die Bewertung aller Positionen des Finanzvermögens zu Verkehrswerten und aller Positionen des Verwaltungsvermögens zu Anschaffungswerten gemäss § 44 des Finanzhaushaltgesetzes.
+- h) die Bewertung aller Positionen des Finanzvermögens zu Verkehrswerten und aller Positionen des Verwaltungsvermögens zu Anschaffungswerten gemäss § 44 des Finanzhaushaltgesetzes,
+- i) die bilanzielle Erfassung des operativen Leasings.
 
 #### § 33
 
