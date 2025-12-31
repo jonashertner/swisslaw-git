@@ -4,13 +4,12 @@ number: "331.2"
 title: Dekret über den Steuerfuss
 short: Steuerfussdekret BL
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-12
+version: 2026-01-01
+version_adopted: 2025-12-11
 adopted: 2021-12-16
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/331.2"
-pdf: "https://bl.clex.ch/api/de/versions/4128/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4401/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4128/pdf_file"
 
 (Steuerfussdekret BL)
 
-Vom 16.12.2021 (Stand 01.01.2025)
+Vom 16.12.2021 (Stand 01.01.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -130,5 +129,11 @@ beschliesst:
 **Steuerfuss 2025**
 
 <sup>1</sup> Der kantonale Einkommenssteuerfuss für das Steuerjahr 2025 beträgt 100 % der normalen Staatssteuer vom Einkommen der natürlichen Personen.
+
+#### § 18
+
+**Steuerfuss 2026**
+
+<sup>1</sup> Der kantonale Einkommenssteuerfuss für das Steuerjahr 2026 beträgt 100 % der normalen Staatsteuer vom Einkommen der natürlichen Personen.
 
 GS 2022.001
