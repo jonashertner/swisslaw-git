@@ -1,24 +1,23 @@
 ---
 canton: TG
 number: "921.13"
-title: Verordnung des Regierungsrates betreffend die rechtliche Stellung und die Aufgaben der Revierförsterinnen und Revierförster
+title: Revierförsterverordnung
 language: de
-version: 2020-06-01
-valid_until: 2025-12-31
-version_adopted: 2020-05-19
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2013-10-29
 in_force: 2013-11-02
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/921.13"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2310/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2954/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates betreffend die rechtliche Stellung und die Aufgaben der Revierförsterinnen und Revierförster
+# Revierförsterverordnung
 
 Revierförsterverordnung
 
-vom 29.10.2013 (Stand 01.06.2020)
+vom 29.10.2013 (Stand 01.01.2026)
 
 ## 1. Rechtliche Stellung, Anstellung und Besoldung
 
@@ -46,7 +45,7 @@ vom 29.10.2013 (Stand 01.06.2020)
 
 <sup>2</sup> Es dürfen nur Inhaberinnen oder Inhaber eines Diploms einer interkantonalen Försterschule oder einer kantonalen Wählbarkeitsbescheinigung angestellt werden.
 
-<sup>3</sup> Die Anstellung der Revierförsterinnen oder Revierförster ist gemäss § 6 Abs. 3 der Verordnung zum Waldgesetz (Waldverordnung)[^2-1] vom Forstamt zu genehmigen.
+<sup>3</sup> Die Anstellung der Revierförsterinnen oder Revierförster ist gemäss § 6 Abs. 3 der Waldverordnung (WaldV)[^2-1] vom Forstamt zu genehmigen.
 
 <sup>4</sup> Jede Revierförsterin und jeder Revierförster erhält vom Forstrevier ein Pflichtenheft, in welchem insbesondere der Holzverkauf geregelt wird. Das Pflichtenheft ist dem Forstamt zur Kenntnis zu bringen.
 
@@ -284,7 +283,7 @@ vom 29.10.2013 (Stand 01.06.2020)
 
 - 1\. fördern die Zusammenarbeit unter den Waldeigentümern;
 - 2\. beraten die Waldeigentümer bei der Bestandesbegründung, bei der Pflege und Nutzung sowie bei Naturschutz-Massnahmen;
-  - a. zeichnen die Durchforstungen und die in der waldbaulichen Planung vorgesehenen Verjüngungen gemäss § 25 Abs. 2 des Waldgesetzes an. Bei den übrigen Eingriffen handeln sie in Absprache mit der Kreisforstingenieurin oder dem Kreisforstingenieur;
+  - a. zeichnen die Durchforstungen und die in der waldbaulichen Planung vorgesehenen Verjüngungen gemäss § 26 Abs. 3 WaldV an, und handeln bei den übrigen Eingriffen in Absprache mit der Kreisforstingenieurin oder dem Kreisforstingenieur;
   - b. leiten zur waldschonenden Holzerei und zur zweckmässigen Holzsortierung an;
   - c. vermitteln und koordinieren Arbeiten, vermitteln Arbeitskräfte, Maschinen und Geräte sowie Forstpflanzen auf Wunsch des Waldeigentümers.
 
@@ -351,16 +350,8 @@ vom 29.10.2013 (Stand 01.06.2020)
 
 <sup>1</sup> § 1 bis § 27 sind Bestandteil des Anstellungsvertrages für Revierförsterinnen oder Revierförster im Kanton Thurgau.
 
-#### § 35
+#### § 35–36
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Das Reglement des Departementes für Bau und Umwelt über die rechtliche Stellung und die Aufgaben der Revierförsterinnen oder Revierförster (Försterinnen- und Försterreglement) vom 31. Mai 1996 wird aufgehoben.
-
-#### § 36
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt mit der Publikation im Amtsblatt in Kraft.
+**…**
 
 44/2013
