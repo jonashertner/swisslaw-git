@@ -5,12 +5,12 @@ title: Delegationsverordnung
 short: DelV
 language: de
 version: 2026-01-01
-valid_until: 2026-03-31
+corrected: 2025-12-16
 version_adopted: 2025-11-25
 adopted: 2011-01-04
 in_force: 2011-02-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3843/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3831/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -54,11 +54,6 @@ als Verordnung:[^ingress-2]
 - b) schreibt Verfahren nach Art. 57 und Art. 96 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege vom 16. Mai 1965[^2-2] ab, wenn Kosten zu erheben oder zu verlegen sind;
 - c) erlässt für das Departement aufsichtsrechtliche Genehmigungen und Bewilligungen nach dem Gemeindegesetz vom 21. April 2009[^2-3], soweit nach dem Anhang zu diesem Erlass nicht andere Mitarbeiterinnen oder Mitarbeiter dazu ermächtigt sind;
 - d) ermächtigt zur Aussage und Aktenedition nach Art. 166 Abs. 1 Bst. c der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008[^2-4] sowie Art. 170 Abs. 2 und 3 und Art. 194 Abs. 2 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007.[^2-5]
-
-<sup>2</sup> In Fällen nach Abs. 1 Bst. a dieser Bestimmung kann sich die Leiterin oder der Leiter des Rechtsdienstes des Departementes oder des mit der Angelegenheit betrauten Amtes von der Sachbearbeiterin oder dem Sachbearbeiter vertreten lassen bei:
-
-- a) Augenscheinen;
-- b) mündlichen Verhandlungen.
 
 [^2-1]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
 [^2-2]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
