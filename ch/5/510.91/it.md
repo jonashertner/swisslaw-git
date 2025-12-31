@@ -4,11 +4,11 @@ title: Legge federale del 3 ottobre 2008 sui sistemi d’informazione militari e
 short: LSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20250101/it"
 
 (LSIM)[^t-1]
 
-del 3 ottobre 2008 (Stato 1° gennaio 2025)
+del 3 ottobre 2008 (Stato 1° gennaio 2026)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -27,7 +27,7 @@ visti gli articoli 40 capoverso 2, 60 capoverso 1 e 173 capoverso 2 della Costit
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^ingress-3]: [FF 2008 2685](https://fedlex.data.admin.ch/eli/fga/2008/701)
 
@@ -55,7 +55,7 @@ La presente legge disciplina il trattamento di dati personali di persone fisiche
 [^1-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-5]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^1-6]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^1-6]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^1-7]: Nuovo testo giusta l’all. n. 1 della LF del 17 giu. 2022, in vigore dal 1° set. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046))
 
 #### Art. 2
@@ -81,7 +81,7 @@ Per quanto necessario per adempiere i loro compiti legali o contrattuali, nell�
 [^2-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^2-2]: Abrogata dal n. I della LF del 17 giu. 2022, con effetto dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^2-3]: Nuova espr. giusta l’all. n. 14 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto in tutto il testo.
-[^2-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 2a
 
@@ -159,7 +159,7 @@ Nell’ambito della cooperazione con autorità e comandi militari di altri Paesi
 - b. è previsto dalle disposizioni d’esecuzione emanate dal Consiglio federale relative alla presente legge o da un trattato internazionale concluso dal Consiglio federale, sempre che secondo la LPD[^6-2] per il trattamento di tali dati non sia necessaria una base legale figurante in una legge in senso formale.
 
 [^6-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 7
 
@@ -337,7 +337,7 @@ Il PISA contiene i seguenti dati delle persone assistite dal Servizio psicopedag
 [^14-2]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-3]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-4]: Introdotta dall’all. 1 n. 14 della LF del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^14-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-5]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^14-6]: Nuovo testo giusta l’all. 1 n. 14 della LF del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^14-7]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-8]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -379,9 +379,9 @@ Il SPP raccoglie i dati di cui all’articolo 14 capoverso 4 presso:
 
 [^15-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-3]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^15-3]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 [^15-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^15-5]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^15-5]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^15-6]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-7]: Introdotto dal n. I della LF del 18 mar. 2016 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Abrogato dall’all. n 3 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), con effetto dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^15-8]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -447,12 +447,12 @@ L’Aggruppamento Difesa comunica agli organi e alle persone seguenti i dati del
 
 [^16-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-2]: Introdotta dal n. I della LF del 18 mar. 2016 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^16-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^16-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^16-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-5]: Introdotta dall’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^16-6]: Introdotta dal n. II 1 della LF del 27 set. 2013 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Abrogato dall’all. n 3 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), con effetto dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-7]: Introdotto dall’all. n. II 9 della LF del 25 set. 2015 sulle attività informative ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)). Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^16-8]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-8]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^16-9]: Originaria lett. i. Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-10]: Introdotto dal n. II 1 della LF del 27 set. 2013 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Nuovo testo giusta l’all. n 3 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-11]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -463,9 +463,9 @@ L’Aggruppamento Difesa comunica agli organi e alle persone seguenti i dati del
 [^16-16]: Nuovo testo giusta il n. I 12 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-17]: Nuovo testo giusta l’all. 2 n. 4 della LF del 17 giu. 2016 sul casellario giudiziale informatizzato VOSTRA, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^16-18]: Nuovo testo giusta l’all. 2 n. 4 della LF del 17 giu. 2016 sul casellario giudiziale informatizzato VOSTRA, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-19]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^16-19]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^16-20]: Introdotta dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-21]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-21]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^16-22]: Introdotto dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^16-23]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
@@ -498,9 +498,9 @@ I dati del PISA concernenti reati, decisioni e misure penali possono essere cons
 <sup>5</sup> Gli altri dati del PISA sono conservati per cinque anni al massimo a decorrere dal proscioglimento dall’obbligo di prestare servizio militare o dall’obbligo di prestare servizio di protezione civile.[^17-9]
 
 [^17-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^17-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^17-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^17-3]: Introdotta dal n. I della LF del 18 mar. 2016 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^17-4]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^17-4]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^17-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^17-6]: Introdotto dal n. II della LF del 23 dic. 2011 ([RU 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [FF 2011 4077](https://fedlex.data.admin.ch/eli/fga/2011/715)). Nuovo testo giusta il n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^17-7]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -692,7 +692,7 @@ Il MEDISA contiene inoltre i seguenti dati delle persone soggette all’obbligo 
 - d. la corrispondenza scambiata con le persone sottoposte all’apprezzamento nonché con gli organi ufficiali e i medici interessati.
 
 [^26-1]: Introdotta dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^26-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^26-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 27
 
@@ -757,11 +757,11 @@ L’Aggruppamento Difesa comunica al CIVI:[^28-13]
 [^28-3]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^28-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^28-5]: Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^28-6]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^28-6]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
 [^28-7]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-8]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^28-8]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 [^28-9]: Introdotta dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-10]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^28-10]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^28-11]: Introdotto dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^28-12]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^28-13]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -1186,7 +1186,7 @@ Il PERAUS contiene i seguenti dati:
 - l. dati per il servizio dei morti e dei dispersi;
 - m. l’appartenenza religiosa.
 
-[^68-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^68-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 69
 
@@ -1236,15 +1236,15 @@ I dati del PERAUS sono conservati per cinque anni al massimo a decorrere dall’
 
 **Organo responsabile**[^72-1]
 
-L’Aggruppamento Difesa gestisce un sistema d’informazione e d’impiego del Servizio sanitario coordinato (SII-SSC).
+L’Ufficio federale della protezione della popolazione (UFPP) gestisce il sistema d’informazione e d’impiego del Servizio sanitario coordinato (SII‑SSC).
 
-[^72-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^72-1]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 
 #### Art. 73
 
 **Scopo**
 
-Il SII-SSC serve all’incaricato del Consiglio federale per il Servizio sanitario coordinato (SSC) e agli organi civili e militari incaricati della pianificazione, della preparazione e dell’esecuzione di misure sanitarie (partner SSC) per la gestione di eventi di rilevanza sanitaria, nell’ambito dei seguenti compiti:[^73-1]
+Il SII-SSC serve all’UFPP e agli organi civili e militari incaricati della pianificazione, della preparazione e dell’esecuzione di misure sanitarie (partner SSC) per la gestione di eventi di rilevanza sanitaria, nell’ambito dei seguenti compiti:[^73-1]
 
 - a. migliore assistenza possibile dei pazienti in tutte le situazioni;
 - b. appoggio alle forze d’intervento e agli organi di condotta civili e militari;
@@ -1255,7 +1255,7 @@ Il SII-SSC serve all’incaricato del Consiglio federale per il Servizio sanitar
 - g. assegnazione del personale medico;
 - h. garanzia del flusso delle informazioni tra i partner SSC.
 
-[^73-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^73-1]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 
 #### Art. 74
 
@@ -1291,13 +1291,13 @@ Il SII-SSC contiene i seguenti dati dei pazienti:
 - e. connotati;
 - f. registro delle modifiche.
 
-[^74-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^74-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 75
 
 **Raccolta dei dati**
 
-L’incaricato del Consiglio federale per il SSC e i partner SSC raccolgono i dati per il SII-SSC presso:
+L’UFPP e i partner SSC raccolgono i dati per il SII-SSC presso:[^75-1]
 
 - a. i pazienti interessati e le persone che li accompagnano;
 - b. le organizzazioni curanti e il loro personale;
@@ -1306,6 +1306,8 @@ L’incaricato del Consiglio federale per il SSC e i partner SSC raccolgono i da
 - e. la persona interessata o il suo rappresentante legale;
 - f. il registro delle professioni mediche universitarie;
 - g. le associazioni e le federazioni del rimanente personale medico.
+
+[^75-1]: Nuovo testo giusta l’all. n. 2 della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 (RU 2025 703; FF 2024 1216).
 
 #### Art. 76
 
@@ -1379,7 +1381,7 @@ Il MIL Office serve all’amministrazione e all’esercizio delle scuole e dei c
 [^85-3]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-4]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-5]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^85-6]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^85-6]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^85-7]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 86
@@ -2300,7 +2302,7 @@ Lo JORASYS serve all’adempimento dei compiti secondo l’articolo 100 capovers
 - c. alla valutazione della situazione in materia di sicurezza sotto il profilo militare;
 - d. all’autoprotezione dell’esercito.
 
-[^167b-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167b-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 167c
 
@@ -2356,7 +2358,7 @@ Il comando della polizia militare raccoglie i dati per lo JORASYS presso:
   - 10\. dal PSN.
 
 [^167d-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^167d-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^167d-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 167e
 
@@ -2378,7 +2380,7 @@ Il comando della polizia militare comunica i dati dello JORASYS sotto forma di e
 - b. ai comandanti della truppa competenti, relativamente al loro ambito;
 - c.[^167e-3] agli organi competenti per la protezione delle informazioni e delle opere.
 
-[^167e-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167e-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^167e-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^167e-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -2412,7 +2414,7 @@ L’IPSA serve al SPPEs per l’adempimento dei suoi compiti secondo l’articol
 - b. alla protezione preventiva dallo spionaggio, dal sabotaggio e da altri atti illeciti;
 - c. alla tenuta dei giornali e alla condotta dell’impiego.
 
-[^167h-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167h-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 167i
 
@@ -2435,7 +2437,7 @@ L’IPSA contiene i seguenti dati di persone da cui deriva una possibile minacci
 - m. dettagli relativi alla possibile minaccia per l’esercito derivante dalla persona;
 - n. ulteriori informazioni e dati necessari al SPPEs per l’adempimento dei compiti secondo l’articolo 100 capoverso 1 LM[^167i-1].
 
-[^167i-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167i-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 167j
 
@@ -2478,8 +2480,8 @@ Il SPPEs comunica i dati dell’IPSA sotto forma di estratti scritti agli organi
 - g. al Servizio delle attività informative della Confederazione, fatto salvo l’articolo 5 capoverso 5 LAIn[^167k-2];
 - h. all’Ufficio federale di polizia.
 
-[^167k-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^167k-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^167k-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^167k-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 167l
 
@@ -2516,10 +2518,10 @@ Il SCHAMIS serve:[^169-1]
 - e.[^169-4] alla liquidazione dei sinistri in cui sono coinvolti veicoli a motore di parlamentari conformemente all’articolo 4 capoverso 2 dell’ordinanza dell’Assemblea federale del 18 marzo 1988[^169-5] concernente la legge sulle indennità parlamentari.
 
 [^169-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^169-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^169-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^169-3]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^169-4]: Introdotta dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^169-5]: [RS 171.211](https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166)
+[^169-5]: [RS 171.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5011)
 
 #### Art. 170
 
@@ -2686,7 +2688,7 @@ Il PSN serve alla gestione della logistica, delle finanze e del personale dell�
 - d. consentire lo scambio di dati con la banca dati di cui all’articolo 32*a* capoverso 1 lettera d LArm[^179b-1];
 - e. consentire l’amministrazione, la gestione e l’archiviazione di dati personali e dati concernenti conteggi relativi al personale civile e militare.
 
-[^179b-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179b-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 179c
 
@@ -2716,9 +2718,9 @@ Per quanto riguarda le persone soggette all’obbligo di leva e i militari nonch
 
 <sup>4</sup> Il PSN contiene i dati dei candidati a un impiego nonché i dati degli impiegati contenuti, rispettivamente, nei dossier di candidatura e negli atti del personale tenuti in virtù della LPers[^179c-3] e delle sue disposizioni d’esecuzione.[^179c-4]
 
-[^179c-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^179c-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^179c-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^179c-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^179c-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^179c-3]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^179c-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179d
@@ -2734,7 +2736,7 @@ Le unità amministrative dell’Aggruppamento Difesa raccolgono i dati per il PS
 - e.[^179d-1] le competenti unità amministrative della Confederazione e dei Cantoni: dai sistemi d’informazione militari, dall’IGDP e dalla banca dati di cui all’articolo 32*a* capoverso 1 lettera c LArm[^179d-2].
 
 [^179d-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^179d-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179d-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 179e
 
@@ -2768,7 +2770,7 @@ Le unità amministrative dell’Aggruppamento Difesa comunicano i dati del PSN, 
 - e.[^179e-2] alle unità amministrative dell’Amministrazione federale tramite un’interfaccia con l’IGDP;
 - f. a terzi, per quanto necessario ai fini dell’adempimento dei loro compiti legali o contrattuali.
 
-[^179e-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179e-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^179e-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179f
@@ -3053,7 +3055,7 @@ Il Consiglio federale disciplina i dettagli:
 
 <sup>3</sup> Nell’ambito della politica estera e della politica di sicurezza il Consiglio federale può concludere trattati internazionali sul trattamento transfrontaliero di dati personali, sempre che secondo la LPD[^186-1] non sia necessaria una base legale figurante in una legge in senso formale.[^186-2]
 
-[^186-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^186-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^186-2]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 187

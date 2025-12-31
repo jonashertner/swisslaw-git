@@ -4,11 +4,11 @@ title: Bundesgesetz vom 3. Oktober 2008 über militärische und andere Informati
 short: MIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20250101/de"
 
 (MIG)[^t-1]
 
-vom 3. Oktober 2008 (Stand am 1. Januar 2025)
+vom 3. Oktober 2008 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 40 Absatz 2, 60 Absatz 1 und 173 Absatz 2 der Bundesve
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^ingress-3]: [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)
 
@@ -55,7 +55,7 @@ Dieses Gesetz regelt die Bearbeitung von Personendaten natürlicher und juristis
 [^1-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^1-5]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^1-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^1-6]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^1-7]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2022, in Kraft seit 1. Sept. 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 2
@@ -81,7 +81,7 @@ Soweit es zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendi
 [^2-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^2-2]: Aufgehoben durch Ziff. I des BG vom 17. Juni 2022, mit Wirkung seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^2-3]: Ausdruck gemäss Anhang Ziff. 14 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde im ganzen Erlass vorgenommen.
-[^2-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 2a
 
@@ -159,7 +159,7 @@ Die zuständigen Behörden und militärischen Kommandos dürfen im Rahmen der Zu
 - b. in den vom Bundesrat erlassenen Ausführungsbestimmungen zu diesem Gesetz oder in einem vom Bundesrat abgeschlossenen internationalen Abkommen vorgesehen ist und für die Bearbeitung dieser Daten gemäss DSG[^6-2] keine Grundlage in einem Gesetz im formellen Sinn erforderlich ist.
 
 [^6-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^6-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 7
 
@@ -337,7 +337,7 @@ Es enthält folgende Daten der vom psychologisch-pädagogischen Dienst der Armee
 [^14-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-4]: Eingefügt durch Anhang 1 Ziff. 13 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^14-5]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^14-5]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^14-6]: Fassung gemäss Anhang 1 Ziff. 13 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^14-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^14-8]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -380,9 +380,9 @@ Der PPD beschafft die Daten nach Artikel 14 Absatz 4 bei:
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^15-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-3]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^15-3]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 [^15-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^15-5]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^15-5]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^15-6]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-7]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Aufgehoben durch Anhang Ziff. 3 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^15-8]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -448,12 +448,12 @@ Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Perso
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^16-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^16-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^16-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-5]: Eingefügt durch Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^16-6]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Aufgehoben durch Anhang Ziff. 3 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), mit Wirkung seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-7]: Eingefügt durch Anhang Ziff. II 9 des Nachrichtendienstgesetzes vom 25. Sept. 2015 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^16-8]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-8]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^16-9]: Ursprünglich: Bst. i. Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-10]: Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Fassung gemäss Anhang Ziff. 3 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 [^16-11]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -463,9 +463,9 @@ Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Perso
 [^16-15]: Fassung gemäss Ziff. I 12 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-16]: Fassung gemäss Anhang 2 Ziff. 4 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^16-17]: Fassung gemäss Anhang 2 Ziff. 4 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-18]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^16-18]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^16-19]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-20]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-20]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^16-21]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^16-22]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
@@ -498,9 +498,9 @@ Daten des PISA über Straftaten sowie strafrechtliche Entscheide und Massnahmen 
 <sup>5</sup> Die übrigen Daten des PISA werden nach der Entlassung aus der Militärdienst- oder Schutzdienstpflicht längstens während fünf Jahren aufbewahrt.[^17-9]
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^17-2]: [<sup>SR</sup> <sup>510.10</sup>](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^17-2]: [<sup>SR</sup> <sup>510.10</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^17-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^17-4]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^17-4]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^17-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^17-6]: Eingefügt durch Ziff. II des BG vom 23. Dez. 2011 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)). Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^17-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -692,7 +692,7 @@ Das MEDISA enthält zudem folgende Daten der Stellungs-, Militärdienst- und Sch
 - d. Korrespondenz mit den zu beurteilenden Personen sowie den involvierten Stellen, Ärzten und Ärztinnen.
 
 [^26-1]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^26-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^26-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 27
 
@@ -756,11 +756,11 @@ Sie gibt dem ZIVI bekannt:
 [^28-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^28-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^28-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^28-5]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^28-5]: [SR 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
 [^28-6]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-7]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^28-7]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 [^28-8]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-9]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^28-9]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^28-10]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^28-11]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -1184,7 +1184,7 @@ Das PERAUS enthält folgende Daten:
 - l. Daten für den Verstorbenen- und Vermisstendienst;
 - m. Religionszugehörigkeit.
 
-[^68-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^68-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 69
 
@@ -1234,15 +1234,15 @@ Die Daten des PERAUS werden nach dem letzten Einsatz oder, wenn kein Einsatz erf
 
 **Verantwortliches Organ**[^72-1]
 
-Die Gruppe Verteidigung betreibt ein Informations- und Einsatz-System Koordinierter Sanitätsdienst (IES-KSD).
+Das Bundesamt für Bevölkerungsschutz (BABS) betreibt das Informations- und Einsatz-System Koordinierter Sanitätsdienst (IES-KSD).
 
-[^72-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^72-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 73
 
 **Zweck**
 
-Das IES-KSD dient der oder dem Beauftragten des Bundesrates für den Koordinierten Sanitätsdienst (KSD) sowie den zivilen und militärischen Stellen, die mit der Planung, Vorbereitung und Durchführung von sanitätsdienstlichen Massnahmen beauftragt sind (KSD-Partnern), bei der Bewältigung von sanitätsdienstlich relevanten Ereignissen für folgende Aufgaben:[^73-1]
+Das IES-KSD dient dem BABS sowie den zivilen und militärischen Stellen, die mit der Planung, Vorbereitung und Durchführung von sanitätsdienstlichen Massnahmen beauftragt sind (KSD-Partner), bei der Bewältigung von sanitätsdienstlich relevanten Ereignissen für folgende Aufgaben:[^73-1]
 
 - a. bestmögliche Versorgung der Patientinnen und Patienten in allen Lagen;
 - b. Unterstützung der zivilen und militärischen Einsatzkräfte und Führungsgremien;
@@ -1253,7 +1253,7 @@ Das IES-KSD dient der oder dem Beauftragten des Bundesrates für den Koordiniert
 - g. Zuweisung von Medizinalpersonen;
 - h. Sicherung des Informationsflusses von und zu den KSD-Partnern.
 
-[^73-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^73-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 74
 
@@ -1289,13 +1289,13 @@ Das IES-KSD enthält folgende Daten der Patientinnen und Patienten:
 - e. Signalement;
 - f. Änderungsjournal.
 
-[^74-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^74-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 #### Art. 75
 
 **Datenbeschaffung**
 
-Die oder der Beauftragte des Bundesrates für den KSD sowie die KSD-Partner beschaffen die Daten für das IES-KSD bei:[^75-1]
+Das BABS und die KSD-Partner beschaffen die Daten für das IES-KSD bei:[^75-1]
 
 - a. den betreffenden Patientinnen und Patienten und deren Begleitpersonen;
 - b. den behandelnden Organisationen und deren Personal;
@@ -1305,7 +1305,7 @@ Die oder der Beauftragte des Bundesrates für den KSD sowie die KSD-Partner besc
 - f. dem Register der universitären Medizinalberufe;
 - g. den Vereinigungen und Verbänden des übrigen Medizinalpersonals.
 
-[^75-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^75-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 76
 
@@ -1379,7 +1379,7 @@ Das MIL Office dient der Verwaltung und dem Betrieb in Schulen und Kursen, insbe
 [^85-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-4]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^85-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^85-6]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^85-6]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^85-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 86
@@ -2294,7 +2294,7 @@ Das JORASYS dient zur Erfüllung der Aufgaben nach Artikel 100 Absatz 1 MG[^167b
 - c. der Beurteilung der militärischen Sicherheitslage;
 - d. dem Eigenschutz der Armee.
 
-[^167b-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167b-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 167c
 
@@ -2350,7 +2350,7 @@ Das Kommando Militärpolizei beschafft die Daten für das JORASYS:
   - 10\. dem PSN.
 
 [^167d-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^167d-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^167d-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 167e
 
@@ -2372,7 +2372,7 @@ Es gibt die Daten des JORASYS in Form schriftlicher Auszüge folgenden Stellen u
 - b.[^167e-3] den zuständigen Truppenkommandantinnen und Truppenkommandanten für ihren Bereich;
 - c.[^167e-4] den für die Informations- und Objektsicherheit zuständigen Stellen.
 
-[^167e-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167e-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^167e-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^167e-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^167e-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -2407,7 +2407,7 @@ Das IPSA dient dem DPSA zur Erfüllung der Aufgaben nach Artikel 100 Absatz 1 MG
 - b. zum vorsorglichen Schutz vor Spionage, Sabotage und weiteren rechtswidrigen Handlungen;
 - c. zur Journal- und Einsatzführung.
 
-[^167h-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167h-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 167i
 
@@ -2430,7 +2430,7 @@ Das IPSA enthält von Personen, von denen eine mögliche Bedrohung der Armee aus
 - m. Einzelheiten zu der von einer Person ausgehenden möglichen Bedrohung der Armee;
 - n. weitere Informationen und Daten, die der DPSA für die Erfüllung der Aufgaben nach Artikel 100 Absatz 1 MG[^167i-1] benötigt.
 
-[^167i-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^167i-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 167j
 
@@ -2473,8 +2473,8 @@ Er gibt die Daten des IPSA in Form schriftlicher Auszüge folgenden Stellen und 
 - g. dem Nachrichtendienst des Bundes; vorbehalten bleibt Artikel 5 Absatz 5 NDG[^167k-2];
 - h. dem Bundesamt für Polizei.
 
-[^167k-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^167k-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^167k-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^167k-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 167l
 
@@ -2507,10 +2507,10 @@ Das SCHAMIS dient:[^169-1]
 - e.[^169-4] der Regulierung von Schadenfällen von Motorfahrzeugen von Ratsmitgliedern nach Artikel 4 Absatz 2 der Verordnung der Bundesversammlung vom vom 18. März 1988[^169-5] zum Parlamentsressourcengesetz.
 
 [^169-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^169-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^169-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^169-3]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^169-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^169-5]: [SR 171.211](https://fedlex.data.admin.ch/eli/cc/1988/1166_1166_1166)
+[^169-5]: [SR 171.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5011)
 
 #### Art. 170
 
@@ -2678,7 +2678,7 @@ Das PSN dient der logistischen, personellen und finanziellen Führung der Armee 
 - e. die Verwaltung, Bewirtschaftung und Ablage von Personal- und Abrechnungsdaten des zivilen und des militärischen Personals.
 
 [^179b-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^179b-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179b-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 179c
 
@@ -2708,9 +2708,9 @@ Es enthält folgende Daten von Stellungspflichtigen und Angehörigen der Armee s
 
 <sup>4</sup> Es enthält die Daten der Stellenbewerberinnen und Stellenbewerber sowie der Angestellten aus den gestützt auf das BPG[^179c-3] und dessen Ausführungsbestimmungen geführten Bewerbungs- und Personaldossiers.[^179c-4]
 
-[^179c-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^179c-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^179c-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^179c-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^179c-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^179c-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^179c-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179d
@@ -2726,7 +2726,7 @@ Die Verwaltungseinheiten der Gruppe Verteidigung beschaffen die Daten für das P
 - e.[^179d-1] den zuständigen Verwaltungseinheiten des Bundes und der Kantone aus den militärischen Informationssystemen, dem IPDM und der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe c WG[^179d-2].
 
 [^179d-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^179d-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179d-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 179e
 
@@ -2760,7 +2760,7 @@ Sie geben die Daten des PSN zur Erfüllung ihrer gesetzlichen oder vertraglichen
 - e.[^179e-2] den Verwaltungseinheiten der Bundesverwaltung über eine Schnittstelle mit dem IPDM;
 - f. Dritten, soweit dies zur Erfüllung derer gesetzlichen oder vertraglichen Aufgaben notwendig ist.
 
-[^179e-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^179e-1]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^179e-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 179f
@@ -3045,7 +3045,7 @@ Er regelt die Einzelheiten:
 
 <sup>3</sup> Er kann im Rahmen der Aussen- und Sicherheitspolitik internationale Abkommen über die grenzüberschreitende Bearbeitung von Personendaten, deren Bearbeitung nach DSG[^186-1] keine Grundlage in einem Gesetz im formellen Sinn erfordert, abschliessen.[^186-2]
 
-[^186-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^186-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^186-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. April 2023 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 187
