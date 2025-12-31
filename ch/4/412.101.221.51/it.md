@@ -3,18 +3,18 @@ sr: "412.101.221.51"
 title: Ordinanza della SEFRI del 27 ottobre 2010 sulla formazione professionale di base Panettiera-pasticciera-confettiera/Panettiere-pasticciere-confettiere con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/867"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2010-10-27
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/867/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2010-867-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/867/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/867/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2010-867-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/867/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Panettiera-pasticciera-confettiera/ Panettiere-pasticciere-confettiere con certificato federale di formazione pratica (CFP)
 
-del 27 ottobre 2010 (Stato 1° aprile 2024)
+del 27 ottobre 2010 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>21107</td><td>Panettiere-pasticciere-confettiere CFP/ Panettiera-pasticcera-confettiera CFP Bäckerin-Konditorin-Confiseurin EBA/ Bäcker-Konditor-Confiseur EBA Boulangère-pâtissière-confiseuse AFP/ Boulanger-pâtissier-confiseur AFP</td></tr>
@@ -26,10 +26,10 @@ visto l’articolo 19 della legge federale del 13 dicembre 2002[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
 
 ## Sezione 1: Oggetto e durata
@@ -118,7 +118,7 @@ La competenza sociale e personale comprende conoscenze e capacità nei seguenti 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6575](https://fedlex.data.admin.ch/eli/oc/2017/727)).
-[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -170,9 +170,10 @@ Il piano di formazione:
 
 **Cultura generale**
 
-Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^11-2].
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
 
@@ -281,11 +282,12 @@ L’esame finale della procedura di qualificazione valuta i campi di qualificazi
 
 - a. «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata da sei a otto ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 - b. «conoscenze professionali», della durata da due a tre ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame è scritto oppure sia scritto sia orale. Se si svolge un esame orale, la durata massima è di mezz’ora;
-- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^18-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 19
 
