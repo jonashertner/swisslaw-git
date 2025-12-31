@@ -4,13 +4,12 @@ number: "142.211"
 title: Besoldungsverordnung
 short: BVO
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-12
+version: 2026-01-01
+version_adopted: 2024-09-23
 adopted: 2006-10-30
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.211"
-pdf: "https://ar.clex.ch/api/de/versions/1514/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1514/pdf_file"
 
 (BVO)
 
-vom 30.10.2006 (Stand 01.01.2024)
+vom 30.10.2006 (Stand 01.01.2026)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -211,6 +210,16 @@ beschliesst:
 
 <sup>5</sup> …
 
+#### Art. 14a
+
+**Vergünstigte Abonnemente im öffentlichen Verkehr**
+
+<sup>1</sup> Der Kanton fördert die Nutzung des öffentlichen Verkehrs durch vergünstigte Abonnemente für seine Angestellten.
+
+<sup>2</sup> Angestellte, die über vom Arbeitgeber vergünstigte Abonnemente verfügen, sind verpflichtet, diese für Dienstfahrten einzusetzen.
+
+<sup>3</sup> Der Regierungsrat regelt das Nähere.
+
 ## 2. Abschnitt: Besondere Bestimmungen
 
 ### I. Besondere Funktionen
@@ -259,7 +268,7 @@ beschliesst:
 
 <sup>6</sup> Die Besoldung von Lehrpersonen an Volksschulabteilungen kantonaler Schulen richtet sich nach der Besoldungsverordnung für die Lehrpersonen der Volksschule[^18-1].
 
-[^18-1]: BLV (bGS...)
+[^18-1]: BLV (bGS [412.02](https://ar.clex.ch/data/412.02/de))
 
 #### Art. 19
 
