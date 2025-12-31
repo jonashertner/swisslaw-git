@@ -4,13 +4,13 @@ number: "122.20"
 title: "Loi portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration"
 short: Li LFAE
 language: fr
-version: 2024-02-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-05
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-11
 adopted: 2019-12-09
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.20"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2997/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3299/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2997/pdf_file"
 
 (Li LFAE)
 
-du 09.12.2019 (état au 01.02.2024)
+du 09.12.2019 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -259,7 +259,7 @@ arrête:
 
 **Situation d'urgence**
 
-<sup>1</sup> Les dispositions de la loi cantonale du 19 mars 2014 sur la protection de la population et la protection civile (LCPPCi)[^21-1] s'appliquent en situation d'urgence.
+<sup>1</sup> Les dispositions de la loi cantonale du 11 septembre 2024 sur la protection de la population (LCPP)[^21-1] s'appliquent en situation d'urgence.
 
 [^21-1]: RSB [521.1](https://www.belex.sites.be.ch/data/521.1/fr)
 

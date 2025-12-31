@@ -4,13 +4,13 @@ number: "122.20"
 title: Einführungsgesetz zum Ausländer- und Integrationsgesetz sowie zum Asylgesetz
 short: EG AIG und AsylG
 language: de
-version: 2024-02-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-05
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-11
 adopted: 2019-12-09
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.20"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2997/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3299/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2997/pdf_file"
 
 (EG AIG und AsylG)
 
-vom 09.12.2019 (Stand 01.02.2024)
+vom 09.12.2019 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -259,7 +259,7 @@ beschliesst:
 
 **Notlage**
 
-<sup>1</sup> In Notlagen kommen die Bestimmungen des Kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes vom 19. März 2014 (KBZG)[^21-1] zur Anwendung.
+<sup>1</sup> In Notlagen kommen die Bestimmungen des Kantonalen Bevölkerungsschutzgesetzes vom 11. September 2024 (KBSG)[^21-1] zur Anwendung.
 
 [^21-1]: BSG [521.1](https://www.belex.sites.be.ch/data/521.1/de)
 
