@@ -4,10 +4,10 @@ number: "831.51"
 title: "Verordnung über den selbstbestimmten Leistungsbezug durch Menschen mit Behinderung (Selbstbestimmungsverordnung, SLBV)"
 short: SLBV
 language: de
-nachtrag: "123"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2023-04-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_51-2023_04_19-2024_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_51-2023_04_19-2024_01_01-131.html"
 text: pdf
 ---
 
@@ -35,22 +35,21 @@ beschliesst:
 
 <sup>1</sup> Das Kantonale Sozialamt (Amt) vollzieht das Selbstbestimmungsgesetz und diese Verordnung, soweit diese Erlasse nichts anderes vorsehen.
 
-<sup>2</sup> Gesuche können in Papierform oder elektronisch eingereicht werden.
-
-#### § 2
+<sup>2</sup> . . .[^1-1]
 
 **Karenzfrist**
 
-<sup>1</sup> Menschen mit Behinderung können Leistungen nach dem Selbstbestimmungsgesetz beziehen, wenn sie seit mindestens zwei Jahren Wohnsitz im Kanton haben.
+§ 2. <sup>1</sup> Menschen mit Behinderung können Leistungen nach dem Selbstbestimmungsgesetz beziehen, wenn sie seit mindestens zwei Jahren Wohnsitz im Kanton haben.
 
-<sup>2</sup> War vor dem Austritt aus einer Institution nach dem Bundesgesetz vom 6. Oktober 2006 über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^2-1] ein anderer Kanton gemäss Interkantonaler Vereinbarung für soziale Einrichtungen vom 13. Dezember 2002 (IVSE)[^2-2] für die Leistungsabgeltung zuständig, gilt die Karenzfrist ab dem Austritt.
+<sup>2</sup> War vor dem Austritt aus einer Institution nach dem Bundesgesetz vom 6. Oktober 2006 über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^1-2] ein anderer Kanton gemäss Interkantonaler Vereinbarung für soziale Einrichtungen vom 13. Dezember 2002 (IVSE)[^1-3] für die Leistungsabgeltung zuständig, gilt die Karenzfrist ab dem Austritt.
 
 <sup>3</sup> Die Karenzfrist gemäss Abs. 1 und 2 kann entfallen, wenn dies in einer interkantonalen Vereinbarung oder in einem Staatsvertrag vorgesehen ist.
 
 <sup>4</sup> Sie gilt nicht, wenn der Kanton gemäss IVSE bereits für die Leistungsabgeltung vor Wohnsitznahme im Kanton zuständig war.
 
-[^2-1]: SR 831.26.
-[^2-2]: LS 851.5.
+[^1-1]: Aufgehoben durch RRB vom 26. Juni 2024 (OS 79, 376; ABl 2024-07-12). In Kraft seit 1. Januar 2026.
+[^1-2]: SR 831.26.
+[^1-3]: LS 851.5.
 
 #### § 3
 
@@ -60,7 +59,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Befinden sich Leistungsansprüche nach anderen Gesetzen in Abklärung, können vorläufig Leistungen gemäss dem Selbstbestimmungsgesetz gewährt werden.
 
@@ -162,7 +161,7 @@ Die Abklärungsstelle stellt die Weiterentwicklung der fachlich anerkannten Meth
 
 **3**
 
-- 1\. 1. 24 - 123 § 13. <sup>1</sup> Die Abklärungsstelle richtet Menschen mit Behinderung, die Assistenzbeiträge gemäss Art. 43<sup>ter</sup> des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung[^12-1] oder Art. 42<sup>quater</sup> ff. des Bundesgesetzes vom 19. Juni 1959 über die Invalidenversicherung[^12-2] erhalten, in der Regel anstelle eines Vouchers einen Betrag zur Selbstverwaltung aus.
+- 1\. 1. 26 - 131 § 13. <sup>1</sup> Die Abklärungsstelle richtet Menschen mit Behinderung, die Assistenzbeiträge gemäss Art. 43<sup>ter</sup> des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung[^12-1] oder Art. 42<sup>quater</sup> ff. des Bundesgesetzes vom 19. Juni 1959 über die Invalidenversicherung[^12-2] erhalten, in der Regel anstelle eines Vouchers einen Betrag zur Selbstverwaltung aus.
 
 **Betrag zur Selbstverwaltung**
 
@@ -261,7 +260,7 @@ Die Abklärungsstelle stellt die Weiterentwicklung der fachlich anerkannten Meth
 
 **5**
 
-- 1\. 1. 24 - 123 § 21. Die Trägerschaft stellt sicher, dass ihre Organe und die operative Leitung voneinander unabhängig sind. Die operative Leitung und ihre Stellvertretung dürfen grundsätzlich nicht dem leitenden Organ der Trägerschaft angehören oder mit Mitgliedern dieses Organs persönlich oder wirtschaftlich eng verbunden sein. Das Amt kann in Richtlinien Ausnahmen vorsehen.
+- 1\. 1. 26 - 131 § 21. Die Trägerschaft stellt sicher, dass ihre Organe und die operative Leitung voneinander unabhängig sind. Die operative Leitung und ihre Stellvertretung dürfen grundsätzlich nicht dem leitenden Organ der Trägerschaft angehören oder mit Mitgliedern dieses Organs persönlich oder wirtschaftlich eng verbunden sein. Das Amt kann in Richtlinien Ausnahmen vorsehen.
 
 #### § 22
 
@@ -361,7 +360,7 @@ Das Amt kann die Festlegung von Voraussetzungen gemäss § 30 Abs. 2 SLBG begren
 
 **7**
 
-- 1\. 1. 24 - 123 § 31. <sup>1</sup> Das Amt bestimmt eine oder mehrere Schlichtungsstellen.
+- 1\. 1. 26 - 131 § 31. <sup>1</sup> Das Amt bestimmt eine oder mehrere Schlichtungsstellen.
 
 **Schlichtungsstelle**
 
@@ -449,7 +448,7 @@ Erfüllen Leistungserbringende Bestimmungen des Selbstbestimmungsgesetzes oder d
 
 **9**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 26 - 131
 
 ### G. Sicherung und Entwicklung des Angebots
 
@@ -555,7 +554,7 @@ Die Kommission a. begleitet die Umsetzung des Selbstbestimmungsgesetzes und ber�
 
 **11**
 
-- 1\. 1. 24 - 123
+- 1\. 1. 26 - 131
 
 [^47-1]: SR 0.109.
 
