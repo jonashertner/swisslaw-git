@@ -3,18 +3,18 @@ sr: "131.235"
 title: "Constitution de la République et canton du Jura, du 20 mars 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1977-03-20
 in_force: 1977-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution de la République et Canton du Jura
 
-du 20 mars 1977 (État le 1<sup>er</sup> janvier 2025)[^t-1]
+du 20 mars 1977 (État le 1<sup>er</sup> janvier 2026)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
@@ -73,7 +73,7 @@ Le français est la langue nationale et officielle de la République et Canton d
 Les armoiries de la République et Canton du Jura sont les suivantes:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/fr/xml/image/image1.png)</td><td>«Parti d’argent à la crosse épiscopale de gueules et de gueules à trois fasces d’argent.»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/fr/xml/image/image1.png)</td><td>«Parti d’argent à la crosse épiscopale de gueules et de gueules à trois fasces d’argent.»</td></tr>
 </table>
 
 ## II. Les droits fondamentaux
@@ -1128,7 +1128,7 @@ La loi règle les modalités d’élection des autorités judiciaires, leur orga
 
 <sup>2</sup> Les districts sont délimités par la loi.
 
-[^109-1]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 5, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^109-1]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 5 al. 1, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### 2. Les communes
 
@@ -1541,6 +1541,16 @@ Le Gouvernement fixe l’entrée en vigueur de la présente modification[^u1-13-
 
 [^u1-14-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 5; [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^u1-14-2]: Il s’agit de la mod. des art. 65 al. 1, 66 al. 2 et de l’abrogation de l’art. 6 al. 1 disp. fin. et trans. (Mod. de la durée des législatures et réélection des membres du Gouvernement), en vigueur depuis le 1<sup>er</sup> juil. 2010.
+
+#### Art. 15
+
+[^u1-15-1]
+
+<sup>1</sup> Pendant les années 2026 à 2031, il peut être dérogé aux al. 1 et 2 de l’art. 123*a* pour neutraliser les effets de l’accueil de la commune municipale de Moutier dans le canton du Jura. La loi règle les modalités.
+
+<sup>2</sup> La totalité des montants neutralisés dans le calcul du mécanisme du frein à l’endettement en application de l’al. 1 doit être compensée.
+
+[^u1-15-1]: Accepté en votation populaire du 18 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 5 al. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ## Index des matières
 
@@ -2298,6 +2308,8 @@ Votes populaires
 - – gestion des finances publiques
   - – dispositions générales 123
   - – frein à l’endettement123*a*
+    - – dérogation temporaire disp. fin. et trans. 15
+
   - – publicité des comptes et du budget 124
   - – financement 125
   - – péréquation financière 126
@@ -2327,6 +2339,8 @@ Votes populaires
 - – handicapés 36
 - – hors du canton 37
 - – professionnelle 35<sup>2, 3</sup>, 40<sup>2</sup>
+
+- – dérogation temporaire disp. fin. et trans. 15
 
 - – Bureau de l’Assemblée constituante disp. fin. et trans. 5
 - – délégation de compétences 59

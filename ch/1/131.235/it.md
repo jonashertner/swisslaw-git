@@ -3,11 +3,11 @@ sr: "131.235"
 title: "Costituzione della Repubblica e Cantone del Giura, del 20 marzo 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1977-03-20
 in_force: 1977-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/it"
 
 Traduzione[^t-1]
 
-del 20 marzo 1977 (Stato 1° gennaio 2025)[^t-2]
+del 20 marzo 1977 (Stato 1° gennaio 2026)[^t-2]
 
 [^t-1]: Dal testo originale francese.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -76,7 +76,7 @@ Il francese è la lingua nazionale e ufficiale della Repubblica e Cantone del Gi
 Lo stemma della Repubblica e Cantone del Giura è così costituito:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/it/xml/image/image1.png)</td><td>«Partito, nel primo, d’argento al pastorale di rosso e, nel secondo, di rosso a tre fasce d’argento.»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/it/xml/image/image1.png)</td><td>«Partito, nel primo, d’argento al pastorale di rosso e, nel secondo, di rosso a tre fasce d’argento.»</td></tr>
 </table>
 
 ## II. Diritti fondamentali
@@ -1131,7 +1131,7 @@ La legge disciplina le modalità di elezione, l’organizzazione e le competenze
 
 <sup>2</sup> I distretti sono delimitati dalla legge.
 
-[^109-1]: Accettato nella votazione popolare del 24 nov. 2024, in vigore dal 1° gen. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 5, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^109-1]: Accettato nella votazione popolare del 24 nov. 2024, in vigore dal 1° gen. 2025. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 5 cpv. 1, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### 2. Comuni
 
@@ -1544,6 +1544,16 @@ Il Governo determina l’entrata in vigore della presente modifica[^u1-13-2].
 
 [^u1-14-1]: Accettato nella votazione popolare del 7 mar. 2010, in vigore dal 1° lug. 2010. Garanzia dell’AF del 2 mar. 2011 ([FF 2011 2667](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 n. 5, [2010 7007](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^u1-14-2]: Si tratta della modifica degli art. 65 cpv. 1, 66 cpv. 2 e dell’abrogazione dell’art. 6 cpv. 1 disp. fin. e trans. (Modifica della durata delle legislature e rielezione dei membri del Governo), in vigore dal 1° lug. 2010.
+
+#### Art. 15
+
+[^u1-15-1]
+
+<sup>1</sup> Dal 2026 al 2031 è possibile derogare all’articolo 123*a* capoversi 1 e 2 al fine di neutralizzare gli effetti dell’aggregazione del Comune di Moutier al Cantone del Giura. La legge disciplina le modalità.
+
+<sup>2</sup> Il totale degli importi neutralizzati nel calcolo del meccanismo del freno all’indebitamento in applicazione del capoverso 1 deve essere compensato.
+
+[^u1-15-1]: Accettato nella votazione popolare del 18 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell’AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 5 cpv. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ## Indice delle materie
 

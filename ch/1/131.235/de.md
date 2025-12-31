@@ -3,11 +3,11 @@ sr: "131.235"
 title: "Verfassung der Republik und des Kantons Jura, vom 20. März 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1977-03-20
 in_force: 1977-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1977-2_264_259_261_fga-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/de"
 
 Übersetzung[^t-1]
 
-vom 20. März 1977 (Stand am 1. Januar 2025)[^t-2]
+vom 20. März 1977 (Stand am 1. Januar 2026)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleitungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -76,7 +76,7 @@ Das Französische ist Landes- und Amtssprache der Republik und des Kantons Jura.
 Die Republik und der Kanton Jura hat das folgende Wappen:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20250101/de/xml/image/image1.png)</td><td>«Gespalten von Silber mit rotem Bischofsstab und von Rot mit drei silbernen Balken»</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/2_264_259_261_fga/20260101/de/xml/image/image1.png)</td><td>«Gespalten von Silber mit rotem Bischofsstab und von Rot mit drei silbernen Balken»</td></tr>
 </table>
 
 ## II. Die Grundrechte
@@ -1131,7 +1131,7 @@ Das Gesetz regelt die Einzelheiten der Wahl der richterlichen Behörden, ihrer O
 
 <sup>2</sup> Die Grenzen der Bezirke werden durch das Gesetz festgelegt.
 
-[^109-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 5, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^109-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 5 Abs. 1, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### 2. Die Gemeinden
 
@@ -1543,6 +1543,16 @@ Die Regierung bestimmt das Inkrafttreten dieser Änderung[^u1-13-2].
 [^u1-14-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 5; [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 [^u1-14-2]: Es handelt sich um die Änderungen der Art. 65 Abs. 1, 66 Abs. 2 und die Aufhebung von Art. 6 Abs. 1 der Schluss- und Übergangsbestimmungen (Änderung der Dauer der Legislaturperioden und Wiederwahl der Regierungsmitglieder), in Kraft seit 1. Juli 2010.
 
+#### Art. 15
+
+[^u1-15-1]
+
+<sup>1</sup> Während der Jahre 2026–2031 kann von den Absätzen 1 und 2 des Artikels 123*a* abgewichen werden, um die Auswirkungen der Aufnahme der Einwohnergemeinde Moutier in den Kanton Jura zu neutralisieren. Das Gesetz regelt die Einzelheiten.
+
+<sup>2</sup> Das Total der neutralisierten Beträge, die sich in der Schuldenbremsenrechnung in Anwendung von Absatz 1 ergeben, muss kompensiert werden.
+
+[^u1-15-1]: Angenommen in der Volksabstimmung vom 18. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 5 Abs. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+
 ## Sachregister
 
 Die Zahlen verweisen auf die Artikel und Artikelteile der Verfassung
@@ -1833,7 +1843,7 @@ Richter
 
 **Rückwirkung von Gesetzen** 58
 
-**Schuldenbremse** 123*a*
+**Schuldenbremse** 123*a*, UeB 15
 
 **Schule** 32–41
 
