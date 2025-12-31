@@ -4,36 +4,39 @@ number: "822.10"
 title: Verordnung zum Vollzug des eidgenössischen Arbeitsgesetzes
 short: Arbeitsgesetzvollzugsverordnung
 language: de
-version: 2012-01-01
-valid_until: 2025-12-31
-version_adopted: 2011-11-08
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2005-04-05
 in_force: 2005-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/822.10"
-pdf: "https://bl.clex.ch/api/de/versions/4335/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4384/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Vollzug des eidgenössischen Arbeitsgesetzes
 
-Vom 05.04.2005 (Stand 01.01.2012)
+(Arbeitsgesetzvollzugsverordnung)
+
+Vom 05.04.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs.2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], das Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG) vom 13. März 1964[^ingress-2] sowie das Finanzhaushaltsgesetz (FHG) vom 1. Juni 2017[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SR 822.11](https://db.clex.ch/link/Bund/822.11/de)
+[^ingress-3]: [SGS 310](https://bl.clex.ch/data/310/de/art9)
 
 #### § 1
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug des Bundesgesetzes vom 13. März 1964[^1-1] über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz) sowie des darauf beruhenden Bundesrechts.
+<sup>1</sup> Diese Verordnung regelt den Vollzug des Arbeitsgesetzes[^1-1] sowie des darauf beruhenden Bundesrechts.
 
-[^1-1]: SR 822.11
+[^1-1]: [SR 822.11](https://db.clex.ch/link/Bund/822.11/de)
 
 #### § 2
 
@@ -45,9 +48,7 @@ beschliesst:
 
 #### § 3
 
-**Meldepflicht**
-
-<sup>1</sup> Die Eröffnung, Verlegung, Umgestaltung, Übergabe oder Schliessung eines Betriebes sowie jede Änderung der Betriebsart ist dem KIGA schriftlich mitzuteilen.
+**…**
 
 #### § 4
 
@@ -101,7 +102,7 @@ beschliesst:
 
 <sup>2</sup> Wird ein Strafverfahren zum Abschluss gebracht, so stellt die Staatsanwaltschaft dem KIGA eine Kopie des verfahrenserledigenden Entscheides zu.
 
-[^9-1]: SR 822.1
+[^9-1]: [SR 822.11](https://db.clex.ch/link/Bund/822.11/de)
 
 #### § 10
 
@@ -109,15 +110,16 @@ beschliesst:
 
 <sup>1</sup> Für Genehmigungen, Bewilligungen und Begutachtungen werden folgende Gebühren erhoben:
 
-- a. für Plangenehmigungen entsprechend dem umbauten Raum: CHF 150.– bis CHF 2'000.–;
-- b. für Bewilligungen zur Einrichtung bestehender Räumlichkeiten sowie für Nachtragsvorlagen: CHF 150.– bis CHF 1'000.–;
+- a. für Plangenehmigungen entsprechend dem umbauten Raum: CHF 280.– bis 3'900.–;
+- b. …
 - c. ...
-- d. für Betriebsbewilligungen 50 % des für die Plangenehmigung erhobenen Betrags, mindestens jedoch: CHF 75.–;
-- e. für Planbegutachtungen: CHF 100.– bis CHF 400.–;
-- f. für die Beschaffung von Akten aus dem Archiv (zuzüglich pro Blatt Fotokopie CHF –.50): CHF 100.–;
-- g. für Arbeitszeitbewilligungen: CHF 100.– bis CHF 400.–.
+- d. für Betriebsbewilligungen: CHF 280.– bis CHF 1'750.–;
+- e. für Planbegutachtungen: CHF 280.– bis CHF 2'800.–;
+- f. für die Beschaffung von Akten aus dem Archiv (zuzüglich pro Blatt Fotokopie CHF 1.–): CHF 150.–;
+- g. für Arbeitszeitbewilligungen: CHF 100.– bis CHF 400.–;
+- h. für die Prüfung von Betriebsordnungen: CHF 250.–.
 
-<sup>2</sup> Bei ausserordentlichem Aufwand, zeitlicher Dringlichkeit, besonderer Schwierigkeit des Falls oder anderen speziellen Umständen können die Gebühren bis auf maximal den doppelten Betrag erhöht werden.
+<sup>2</sup> …
 
 #### § 11
 
