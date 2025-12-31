@@ -1,24 +1,23 @@
 ---
 canton: TG
 number: "412.227"
-title: Reglement des Departementes für Erziehung und Kultur über die Ausbildung zur diplomierten Pflegefachperson HF
+title: Reglement des Departements für Erziehung und Kultur über die Ausbildung zur diplomierten Pflegefachperson HF
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-07-16
+version: 2026-01-01
+version_adopted: 2025-12-19
 adopted: 2025-12-19
 in_force: 2026-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.227"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2000/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3007/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement des Departementes für Erziehung und Kultur über die Ausbildung zur diplomierten Pflegefachperson HF
+# Reglement des Departements für Erziehung und Kultur über die Ausbildung zur diplomierten Pflegefachperson HF
 
-Reglement DEK Ausbildung Pflegefachperson HF
+Reglement diplomierte Pflegefachpersonen HF
 
-vom 30.08.2010 (Stand 01.01.2022)
+vom 19.12.2025 (Stand 01.01.2026)
 
 ## 1. Allgemeines
 
@@ -26,7 +25,7 @@ vom 30.08.2010 (Stand 01.01.2022)
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement regelt in Ergänzung zu den bundesrechtlichen Vorschriften die Ausbildung zur Pflegefachperson HF am Bildungszentrum für Gesundheit und Soziales (BfGS).
+<sup>1</sup> Dieses Reglement regelt in Ergänzung zu den bundesrechtlichen Vorschriften die Ausbildung zur diplomierten Pflegefachperson HF am Bildungszentrum für Gesundheit und Soziales (BfGS).
 
 #### § 2
 
@@ -34,7 +33,7 @@ vom 30.08.2010 (Stand 01.01.2022)
 
 <sup>1</sup> Die Ausbildung umfasst 5'400 Lernstunden während sechs bis acht Semestern.
 
-<sup>2</sup> Für Personen, die über ein eidgenössisches Fähigkeitszeugnis als Fachfrau/Fachmann Gesundheit oder einen gleichwertigen Abschluss verfügen, kann sie auf vier Semester mit 3'600 Lernstunden verkürzt werden.
+<sup>2</sup> Für Personen, die über ein eidgenössisches Fähigkeitszeugnis als Fachfrau/Fachmann Gesundheit oder einen gleichwertigen Abschluss verfügen, kann die Ausbildung auf vier bis sechs Semester mit 3'600 Lernstunden verkürzt werden.
 
 <sup>3</sup> Andere Vorleistungen können individuell angerechnet werden.
 
@@ -44,100 +43,75 @@ vom 30.08.2010 (Stand 01.01.2022)
 
 **Organisation**
 
-<sup>1</sup> Die regulären Bildungsgänge beginnen im September, die berufsbegleitenden im Januar. Sie verlaufen in Blockkursen.
+<sup>1</sup> Die HF-Bildungsgänge werden von der Abteilung Höhere Fachschule des BfGS geführt.
 
-<sup>2</sup> Der Betrieb läuft ganzjährig, mit Ausnahme der unterrichtsfreien Kalenderwochen 1, 11, 37 und 52.
-
-#### § 4
-
-**Ausbildungsvereinbarung**
-
-<sup>1</sup> Das BfGS schliesst mit den Praktikumsbetrieben eine Ausbildungsvereinbarung ab. Diese regelt die gegenseitigen Verpflichtungen.
-
-#### § 5
-
-**…**
+<sup>2</sup> Sie beginnen in der Regel im September (Vollzeit) und Januar (berufsbegleitend). Sie verlaufen in Blockkursen.
 
 ## 2. Zulassungsbedingungen
 
-#### § 6
+#### § 4
 
-**Generelle Zulassungsbedingungen**
+**Voraussetzungen für die Zulassung**
 
-<sup>1</sup> Die Aufnahme wird von folgenden Voraussetzungen abhängig gemacht:
+<sup>1</sup> Zu den HF-Bildungsgängen wird zugelassen,
 
-- 1\. erfolgreicher Abschluss einer Ausbildung auf Sekundarstufe II, mindestens auf Stufe Eidgenössisches Fähigkeitszeugnis
-- 2\. bestandene Eignungsabklärung
-- 3\. Vertrag mit einem vom BfGS anerkannten Praktikumsbetrieb
-- 4\. ausreichende physische und psychische Gesundheit
+- 1\. wer über einen in der Schweiz anerkannten Abschluss der Sekundarstufe II verfügt,
+- 2\. wer die Eignungsabklärung erfolgreich durchlaufen hat,
+- 3\. wer über einen Vertrag mit einem vom BfGS anerkannten Praktikumsbetrieb verfügt und
+- 4\. wer über Deutschkenntnisse auf mindestens Niveau C1 verfügt.
 
-#### § 7
+<sup>2</sup> Sind die Voraussetzungen nach § 4 Abs. 1 nicht erfüllt oder unklar, prüft das BfGS die Anrechnung von Bildungsleistungen und Kompetenznachweisen.
 
-**Zulassung zur verkürzten Ausbildung**
-
-<sup>1</sup> Die Aufnahme in den verkürzten Ausbildungsgang wird zusätzlich von folgenden Voraussetzungen abhängig gemacht:
-
-- 1\. Besitz eines eidgenössischen Fähigkeitszeugnisses als Fachfrau/Fachmann Gesundheit
-- 2\. Notendurchschnitt von mindestens 5.0 im Zeugnis des vierten Semesters der beruflichen Grundbildung
-- 3\. Empfehlung der Berufsfachschule und des Lehrbetriebes oder mindestens zweijährige Berufserfahrung
-
-#### § 8
+#### § 5
 
 **Eignungsabklärung**
 
-<sup>1</sup> Die Eignungsabklärung umfasst Gespräche sowie schriftliche und mündliche Prüfungen in folgenden Bereichen:
+<sup>1</sup> Die Eignungsabklärung findet in den jeweiligen Praktikumsbetrieben statt. Der Ausbildungsvertrag wird zwischen der angehenden diplomierten Pflegefachperson HF und der Institution geschlossen.
 
-- 1\. Selbstkompetenz mit den Erfassungsbereichen psychische und physische Belastbarkeit, Eigenständigkeit/Reife, Berufswahl
-- 2\. Sozialkompetenz mit den Erfassungsbereichen Beziehungsfähigkeit, Teamfähigkeit und Kommunikationsfähigkeit
-- 3\. Sachkompetenz mit den Erfassungsbereichen intellektuelle Leistungsfähigkeit, Fähigkeit zu methodischem und vernetztem Denken, Arbeitsverhalten und praktische Fähigkeiten
+<sup>2</sup> Die Aufnahmekommission des BfGS überprüft die Erfüllung der formalen Zulassungsvoraussetzungen und entscheidet über die Aufnahme.
 
-<sup>2</sup> Zur Beurteilung können neben dem Bewerbungsdossier weitere Unterlagen und Referenzauskünfte beigezogen werden.
+## 3. Promotion und Qualifikationsverfahren
 
-<sup>3</sup> Ist das Resultat der Eignungsabklärung ungenügend, ist es auf Antrag mit den Kandidatinnen und Kandidaten zu besprechen. Das Gespräch ist zu protokollieren.
+#### § 6
+
+**Grundlagen**
+
+<sup>1</sup> Promoviert wird, wer in den Lernbereichen Schule und Praxis ausreichende Leistungen erbringt.
+
+<sup>2</sup> Die Prüfungskommission erlässt ein Prüfungsreglement, das die Ausführungsbestimmungen festlegt.
+
+<sup>3</sup> Die HF-Bildungsgänge werden mit dem Bestehen des Qualifikationsverfahrens gemäss § 13 abgeschlossen.
+
+#### § 7
+
+**Promotion**
+
+<sup>1</sup> In den nächsten Ausbildungsabschnitt wird befördert, wer die Promotionsbedingungen erfüllt hat und im absolvierten Schulblock eine Anwesenheit von mindestens 80 % aufweist.
+
+<sup>2</sup> Wurden weniger als 80 % des Unterrichts besucht, kann die Schulleitung die Promotion in den folgenden Ausbildungsabschnitt verweigern oder eine Zusatzleistung einfordern, die als Pflichtleistung gilt.
+
+#### § 8
+
+**Leistungsnachweise**
+
+<sup>1</sup> Leistungsnachweise werden erbracht durch:
+
+- 1\. Praktikumsqualifikation
+- 2\. schulische Leistungsnachweise
+
+<sup>2</sup> Anzahl und Form der schulischen Leistungsnachweise richten sich nach dem Prüfungsreglement.
 
 #### § 9
 
-**…**
-
-## 3. Kompetenznachweise (Promotion)
-
-#### § 10
-
-**Zeitpunkt**
-
-<sup>1</sup> Am Ende jedes Ausbildungsjahres wird festgestellt, ob die erforderlichen Kompetenznachweise erbracht wurden.
-
-#### § 11
-
-**Kompetenznachweise**
-
-<sup>1</sup> Kompetenznachweise werden erbracht durch:
-
-- 1\. Praktikumsqualifikation
-- 2\. praxisorientierte Projektarbeit
-- 3\. sechs Leistungsprüfungen in allen Kompetenzfeldern
-
-<sup>2</sup> In der verkürzten Ausbildung sind sechs Leistungsprüfungen im ersten Ausbildungsjahr abzulegen.
-
-#### § 12
-
 **Praktikumsqualifikation**
 
-<sup>1</sup> Das Praktikum jedes Ausbildungsjahres wird durch die Berufsbildungsverantwortlichen und die zuständigen Berufsbildnerinnen und Berufsbildner gemäss den in der Praktikumsqualifikation aufgeführten Kompetenzfeldern beurteilt.
+<sup>1</sup> Die Beurteilung im Lernbereich Praxis erfolgt in schriftlicher Form.
 
-#### § 13
+<sup>2</sup> Die Leistungen im Lernbereich Praxis werden am Ende jedes Ausbildungsjahrs bewertet.
 
-**Praxisorientierte Projektarbeit**
+<sup>3</sup> Die Beurteilung der Leistungen beruht auf den zu erreichenden Kompetenzen gemäss Kompetenzenkatalog des Rahmenlehrplans.
 
-<sup>1</sup> Die Fallstudie wird von zwei Lehrpersonen beurteilt.
-
-#### § 14
-
-**Leistungsprüfungen**
-
-<sup>1</sup> Die Leistungsprüfungen erfolgen in Form von schriftlichen und mündlichen Prüfungen sowie von Fertigkeitsprüfungen.
-
-#### § 15
+#### § 10
 
 **Beurteilungsraster**
 
@@ -150,78 +124,54 @@ vom 30.08.2010 (Stand 01.01.2022)
 - 5\. E: ausreichend
 - 6\. F: nicht bestanden
 
-#### § 16
+#### § 11
+
+**Wiederholungen**
+
+<sup>1</sup> Ein nicht bestandener schulischer Leistungsnachweis kann einmal wiederholt werden.
+
+<sup>2</sup> Ist die Promotion nicht erfüllt, kann der Ausbildungsabschnitt oder das Semester einmal wiederholt werden.
+
+<sup>3</sup> Mit Ausnahme des ersten Praktikums kann ein nicht bestandenes Praktikum einmal wiederholt werden.
+
+#### § 12
 
 **Unredlichkeit bei der Prüfung**
 
-<sup>1</sup> Wer in einer Prüfung unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat sie nicht bestanden.
+<sup>1</sup> Wer bei einer Prüfung unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat die Prüfung nicht bestanden.
 
-#### § 17
+<sup>2</sup> Wer unentschuldigt nicht zu einer Prüfung erscheint, hat sie nicht bestanden.
 
-**Wiederholung**
+#### § 13
 
-<sup>1</sup> Ein nicht bestandener Kompetenznachweis kann spätestens bis Mitte des nächsten Semesters einmal wiederholt werden.
+**Bestehen des Qualifikationsverfahrens**
 
-<sup>2</sup> Mit Ausnahme des ersten Praktikums kann ein nicht bestandenes Praktikum einmal wiederholt werden.
+<sup>1</sup> Die Prüfungskommission erlässt eine Wegleitung zum Qualifikationsverfahren.
 
-<sup>3</sup> Das erste Praktikum kann nicht wiederholt werden.
+<sup>2</sup> Das Qualifikationsverfahren besteht aus folgenden Prüfungsteilen:
 
-#### § 18
+- 1\. Praktikumsqualifikation
+- 2\. praxisorientierte Diplomarbeit
+- 3\. Fachgespräch
 
-**Ausschluss**
+<sup>3</sup> Das Diplom wird erteilt, wenn jeder Prüfungsteil mindestens mit dem Prädikat E beurteilt wurde.
 
-<sup>1</sup> Erbringt jemand auch nach der Wiederholung den geforderten Kompetenznachweis nicht, kann die Ausbildung nicht weitergeführt werden.
+#### § 14
 
-#### § 19
+**Wiederholung des Qualifikationsverfahrens**
 
-**Ausnahmen**
+<sup>1</sup> Eine nicht bestandene praxisorientierte Diplomarbeit kann einmalig überarbeitet und ein nicht bestandenes Prüfungsgespräch kann einmalig wiederholt werden.
 
-<sup>1</sup> Aus wichtigen Gründen kann ausnahmsweise zugunsten einer Studentin oder eines Studenten von den Bestimmungen dieses Kapitels abgewichen werden.
+<sup>2</sup> Eine nicht bestandene Praktikumsqualifikation kann frühestens sechs Monate nach der ersten Durchführung absolviert werden. Die effektive Dauer des Wiederholungspraktikums wird von der Schule und der Praxis gemeinsam festgelegt.
 
-## 4. Abschliessendes Qualifikationsverfahren
+<sup>3</sup> Ist ein Prüfungsteil bei der Wiederholung erneut nicht bestanden, ist das Qualifikationsverfahren definitiv nicht bestanden.
 
-#### § 20
+<sup>4</sup> Ist das abschliessende Qualifikationsverfahren definitiv nicht bestanden, kann das letzte Ausbildungsjahr einmal wiederholt werden.
 
-**Organisation**
-
-<sup>1</sup> Das Rektorat organisiert das Qualifikationsverfahren.
-
-<sup>2</sup> Das Qualifikationsverfahren richtet sich nach den Vorgaben des massgeblichen Rahmenlehrplans.
-
-#### § 21–22
-
-**…**
-
-#### § 23
-
-**Beurteilung**
-
-<sup>1</sup> Die Diplomarbeit wird von zwei Lehrpersonen beurteilt.
-
-<sup>2–3</sup> …
-
-#### § 24
-
-**…**
-
-#### § 25
-
-**Wiederholung**
-
-<sup>1</sup> Ist das abschliessende Qualifikationsverfahren definitiv nicht bestanden, kann das letzte Ausbildungsjahr einmal wiederholt werden.
-
-<sup>2–3</sup> …
-
-#### § 26
+#### § 15
 
 **Diplom**
 
-<sup>1</sup> Wer alle Prüfungsteile bestanden und nicht mehr als 10 % der Ausbildungszeit versäumt hat, erhält ein von der zuständigen Regierungsrätin oder dem zuständigen Regierungsrat und vom BfGS unterzeichnetes Diplom als «dipl. Pflegefachfrau»/«dipl. Pflegefachmann HF».
+<sup>1</sup> Wer alle Prüfungsteile bestanden hat, erhält ein von der Departementschefin oder vom Departementschef und vom Rektorat unterzeichnetes Diplom, das zur Führung des geschützten Titels «Dipl. Pflegefachfrau HF» oder «Dipl. Pflegefachmann HF» berechtigt.
 
-## 5.
-
-#### § 27–29
-
-**…**
-
-ABl. 36/2010
+3/2026
