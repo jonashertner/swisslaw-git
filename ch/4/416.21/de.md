@@ -3,18 +3,18 @@ sr: "416.21"
 title: Verordnung vom 30. Januar 2013 über Stipendien für ausländische Studierende und Kunstschaffende in der Schweiz
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/104"
 language: de
-version: 2018-09-01
+version: 2026-01-01
 adopted: 2013-01-30
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20180901/de/xml/fedlex-data-admin-ch-eli-cc-2013-104-20180901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20180901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2013-104-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Stipendien für ausländische Studierende und Kunstschaffende in der Schweiz
 
-vom 30. Januar 2013 (Stand am 1. September 2018)
+vom 30. Januar 2013 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 10 des Bundesgesetzes vom 19. Juni 1987[^ingress-1] über 
 
 verordnet:
 
-[^ingress-1]: [SR 416.2](https://fedlex.data.admin.ch/eli/cc/1987/1192_1192_1192)
+[^ingress-1]: [SR 416.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6850)
 
 #### Art. 1
 
@@ -97,9 +97,18 @@ Einmal zugesprochene Stipendien können verlängert werden. Die Verlängerung be
 
 Die monatlichen Grundbeträge der Stipendien belaufen sich auf:
 
-- a. 1920 Franken für Personen, die ein Doktorat in der Schweiz vorbereiten (Art. 3 Abs. 2 Bst. a Ziff. 1) oder ein Forschungspraktikum in der Schweiz absolvieren (Art. 3 Abs. 2 Bst. a Ziff. 2);
+- a.[^7-1]
+
+  2450 Franken für Personen, die:
+
+  - 1\. ein Doktorat in der Schweiz vorbereiten (Art. 3 Abs. 2 Bst. a Ziff. 1), oder
+  - 2\. ein Forschungspraktikum in der Schweiz absolvieren (Art. 3 Abs. 2 Bst. a Ziff. 2);
+
 - b. 3500 Franken für Personen, die über ein Doktorat verfügen (Art. 3 Abs. 2 Bst. b);
-- c. 1920 Franken für Kunstschaffende (Art. 3 Abs. 3).
+- c.[^7-2] 2450 Franken für Kunstschaffende (Art. 3 Abs. 3).
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 8
 
@@ -109,16 +118,17 @@ Die monatlichen Grundbeträge der Stipendien belaufen sich auf:
 
 Das WBF gewährt den Stipendiatinnen und Stipendiaten folgende Zulagen:
 
-- a. einen einmaligen Beitrag von 300 Franken an die Wohnkosten;
+- a.[^8-1] einen einmaligen Beitrag von 600 Franken an die Wohnkosten;
 - b. die Prämien für die Kranken- und die Unfallversicherung für Stipendiatinnen und Stipendiaten aus Ländern ausserhalb der EU und der EFTA.
 
-<sup>2</sup> Es kann auf begründetes Gesuch hin weitere Zulagen für ausserordentliche Kosten gewähren, namentlich Kosten für den endgültigen Rückflug von Stipendiatinnen und Stipendiaten in ihr Herkunftsland. Für Forschungsreisen der Stipendiatinnen und Stipendiaten werden keine Zulagen gewährt.[^8-1]
+<sup>2</sup> Es kann auf begründetes Gesuch hin weitere Zulagen für ausserordentliche Kosten gewähren, namentlich Kosten für den endgültigen Rückflug von Stipendiatinnen und Stipendiaten in ihr Herkunftsland. Für Forschungsreisen der Stipendiatinnen und Stipendiaten werden keine Zulagen gewährt.[^8-2]
 
 <sup>3</sup> Die Zulagen nach Absatz 2 werden in Abhängigkeit von der wirtschaftlichen Lage der Stipendiatin oder des Stipendiaten gewährt.
 
 <sup>4</sup> Das WBF regelt die Einzelheiten der Bemessung der Zulagen in einer Verordnung.
 
-[^8-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2018, in Kraft seit 1. Sept. 2018 ([AS 2018 2543](https://fedlex.data.admin.ch/eli/oc/2018/372)).
+[^8-1]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2018, in Kraft seit 1. Sept. 2018 ([AS 2018 2543](https://fedlex.data.admin.ch/eli/oc/2018/372)).
 
 #### Art. 9
 
@@ -132,7 +142,7 @@ Das WBF unterstützt die Stellen der Hochschulen, die Stipendiatinnen und Stipen
 
 Die Verordnung vom 14. Dezember 1987[^10-1] über Stipendien an ausländische Studierende und Kunstschaffende in der Schweiz wird aufgehoben.
 
-[^10-1]: [[AS 1988 165](https://fedlex.data.admin.ch/eli/oc/1988/165_165_165), [2007 2413](https://fedlex.data.admin.ch/eli/oc/2007/336)]
+[^10-1]: [[AS 1988 165](https://fedlex.data.admin.ch/eli/oc/1988/165_165_165); [2007 2413](https://fedlex.data.admin.ch/eli/oc/2007/336)]
 
 #### Art. 11
 

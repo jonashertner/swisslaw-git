@@ -3,18 +3,18 @@ sr: "416.21"
 title: "Ordonnance du 30 janvier 2013 concernant l'attribution de bourses à des étudiants et artistes étrangers en Suisse"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/104"
 language: fr
-version: 2018-09-01
+version: 2026-01-01
 adopted: 2013-01-30
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20180901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-104-20180901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20180901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-104-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’attribution de bourses à des étudiants et artistes étrangers en Suisse
 
-du 30 janvier 2013 (État le 1<sup>er</sup> septembre 2018)
+du 30 janvier 2013 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 10 de la loi fédérale du 19 juin 1987 concernant l’attribution d
 
 arrête:
 
-[^ingress-1]: [RS 416.2](https://fedlex.data.admin.ch/eli/cc/1987/1192_1192_1192)
+[^ingress-1]: [RS 416.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6850)
 
 #### Art. 1
 
@@ -97,9 +97,18 @@ Les bourses octroyées peuvent être renouvelées. La durée de renouvellement e
 
 Les montants mensuels de base s’élèvent à:
 
-- a. 1920 francs, pour les personnes qui préparent un doctorat en Suisse (art. 3, al. 2, let. a, ch. 1) ou qui effectuent un stage de recherche en Suisse (art. 3, al. 2, let. a, ch. 2);
+- a.[^7-1]
+
+  2450 francs pour les personnes:
+
+  - 1\. qui préparent un doctorat en Suisse (art. 3, al. 2, let. a, ch. 1), ou
+  - 2\. qui effectuent un stage de recherche en Suisse (art. 3, al. 2, let. a, ch. 2);
+
 - b. 3500 francs, pour les personnes titulaires d’un doctorat (art. 3, al. 2, let. b);
-- c. 1920 francs, pour les artistes (art. 3, al. 3).
+- c.[^7-2] 2450 francs pour les artistes (art. 3, al. 3).
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 8
 
@@ -109,16 +118,17 @@ Les montants mensuels de base s’élèvent à:
 
 Le DEFR octroie aux boursiers les allocations suivantes:
 
-- a. aide au logement unique de 300 francs;
+- a.[^8-1] aide au logement unique de 600 francs;
 - b. primes d’assurance-maladie et d’assurance-accident lorsque le boursier est ressortissant d’un Etat non membre de l’UE ou de l’AELE.
 
-<sup>2</sup> Il peut en outre leur octroyer, sur présentation d’une demande motivée, d’autres allocations pour le financement de frais extraordinaires, notamment des frais du vol de retour définitif des boursiers dans leur pays d’origine. Les frais de voyage des boursiers ne sont pas financés.[^8-1]
+<sup>2</sup> Il peut en outre leur octroyer, sur présentation d’une demande motivée, d’autres allocations pour le financement de frais extraordinaires, notamment des frais du vol de retour définitif des boursiers dans leur pays d’origine. Les frais de voyage des boursiers ne sont pas financés.[^8-2]
 
 <sup>3</sup> Les allocations visées à l’al. 2 sont octroyées en fonction de la situation économique du boursier.
 
 <sup>4</sup> Le DEFR fixe les modalités du calcul des allocations dans une ordonnance.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> sept. 2018 ([RO 2018 2543](https://fedlex.data.admin.ch/eli/oc/2018/372)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> sept. 2018 ([RO 2018 2543](https://fedlex.data.admin.ch/eli/oc/2018/372)).
 
 #### Art. 9
 

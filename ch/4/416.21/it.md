@@ -3,18 +3,18 @@ sr: "416.21"
 title: Ordinanza del 30 gennaio 2013 sulle borse di studio a studenti e artisti stranieri in Svizzera
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/104"
 language: it
-version: 2018-09-01
+version: 2026-01-01
 adopted: 2013-01-30
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20180901/it/xml/fedlex-data-admin-ch-eli-cc-2013-104-20180901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20180901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/104/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2013-104-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/104/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle borse di studio a studenti e artisti stranieri in Svizzera
 
-del 30 gennaio 2013 (Stato 1° settembre 2018)
+del 30 gennaio 2013 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 10 della legge federale del 19 giugno 1987[^ingress-1] sulle 
 
 ordina:
 
-[^ingress-1]: [RS 416.2](https://fedlex.data.admin.ch/eli/cc/1987/1192_1192_1192)
+[^ingress-1]: [RS 416.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6850)
 
 #### Art. 1
 
@@ -97,9 +97,18 @@ Le borse assegnate possono essere rinnovate. La durata del rinnovo è:
 
 Gli importi base mensili delle borse sono di:
 
-- a. 1920 franchi per chi prepara un dottorato in Svizzera (art. 3 cpv. 2 lett. a n. 1) o svolge uno stage di ricerca in Svizzera (art. 3 cpv. 2 lett. a n. 2);
+- a.[^7-1]
+
+  2450 franchi per chi:
+
+  - 1\. prepara un dottorato in Svizzera (art. 3 cpv. 2 lett. a n. 1), o
+  - 2\. svolge uno stage di ricerca in Svizzera (art. 3 cpv. 2 lett. a n. 2);
+
 - b. 3500 franchi per i titolari di un dottorato (art. 3 cpv. 2 lett. b);
-- c. 1920 franchi per gli artisti (art. 3 cpv. 3).
+- c.[^7-2] 2450 franchi per gli artisti (art. 3 cpv. 3).
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2025, in vigore dal 1° gen. 2025 ([RU 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2025, in vigore dal 1° gen. 2025 ([RU 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
 
 #### Art. 8
 
@@ -109,16 +118,17 @@ Gli importi base mensili delle borse sono di:
 
 Il DEFR concede ai borsisti i seguenti assegni:
 
-- a. un assegno unico per l’alloggio di 300 franchi;
+- a.[^8-1] un assegno unico per l’alloggio di 600 franchi;
 - b. i premi dell’assicurazione malattie e infortuni per i borsisti cittadini di uno Stato non membro dell’UE o dell’AELS.
 
-<sup>2</sup> Dietro presentazione di una domanda motivata, il DEFR può inoltre concedere assegni per il finanziamento di spese straordinarie, segnatamente per il volo di ritorno finale di borsisti nel loro Paese d’origine. Non sono concessi assegni per i viaggi di ricerca dei borsisti.[^8-1]
+<sup>2</sup> Dietro presentazione di una domanda motivata, il DEFR può inoltre concedere assegni per il finanziamento di spese straordinarie, segnatamente per il volo di ritorno finale di borsisti nel loro Paese d’origine. Non sono concessi assegni per i viaggi di ricerca dei borsisti.[^8-2]
 
 <sup>3</sup> Gli assegni di cui al capoverso 2 sono concessi in funzione della situazione economica del borsista.
 
 <sup>4</sup> Il DEFR stabilisce le modalità di calcolo degli assegni in un’ordinanza.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 20 giu. 2018, in vigore dal 1° set. 2018 ([RU 2018 2543](https://fedlex.data.admin.ch/eli/oc/2018/372)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2025, in vigore dal 1° gen. 2025 ([RU 2025 783](https://fedlex.data.admin.ch/eli/oc/2025/783)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 20 giu. 2018, in vigore dal 1° set. 2018 ([RU 2018 2543](https://fedlex.data.admin.ch/eli/oc/2018/372)).
 
 #### Art. 9
 
