@@ -4,13 +4,12 @@ number: "228"
 title: Verordnung über die Grundbuchgebühren
 short: "Grundbuchgebührentarif, GBGT"
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-08
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2015-05-18
 in_force: 2015-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/228"
-pdf: "https://srl.lu.ch/api/de/versions/4027/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4599/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4027/pdf_file"
 
 (Grundbuchgebührentarif, GBGT)
 
-vom 18.05.2015 (Stand 01.01.2023)
+vom 18.05.2015 (Stand 01.01.2026)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -189,7 +188,7 @@ beschliesst:
 <sup>1</sup> Es werden die folgenden Gebühren erhoben:
 
 - 1\. Für telefonische, mündliche, schriftliche und elektronische Auskünfte und sonstige Verrichtungen, die in diesem Tarif nicht aufgeführt sind, z.B. Vorprüfungen, Abweisungen, Nachforschungen, je nach Zeitaufwand Fr. 20.– bis Fr. 1000.–.
-- 1a. Für Zugriffe auf Informationssysteme, welche Grundbuchdaten anbieten, pro Benutzer oder Benutzerin zwischen Fr. 0.10 und Fr. 100.– für Einrichtungskosten, Lizenzen und einzelne Datenabfragen.
+- 1a. Für Zugriffe auf Informationssysteme, welche Grundbuchdaten anbieten, pro Benutzer oder Benutzerin zwischen Fr. 0.10 und Fr. 100.– für Einrichtungskosten, Lizenzen und Datenabfragen.
 - 1b. Für Zugriffe auf das Grundstückdateninformationssystem Gravis gemäss Anhang 1 dieser Verordnung.
 - 1c. Für Zugriffe auf das Grundstückdateninformationssystem Terravis gemäss Anhang 2 dieser Verordnung.
 - 2\. Für Grundbuchauszüge Fr. 45.– inkl. Porto. Wird der Auszug für mehr als ein Grundstück ausgestellt, ist für jedes weitere Grundstück ein Zuschlag von Fr. 10.– zu entrichten. Für Teilauszüge beträgt die Gebühr inkl. Porto Fr. 25.– für das erste Grundstück. Für jedes weitere Grundstück Fr. 5.–. Für Eigentümerverzeichnisse beträgt die Gebühr inkl. Porto Fr. 15.– für das erste Grundstück. Für jedes weitere Grundstück Fr. 2.50.
@@ -211,7 +210,7 @@ beschliesst:
 
 <sup>2</sup> Bei amtlichen Verrichtungen ausserhalb des Büros werden den Parteien die Auslagen in Rechnung gestellt.
 
-<sup>3</sup> Ab der zweiten Mahnung wird eine Gebühr von Fr. 40.– erhoben.
+<sup>3</sup> Mahnkosten können in Rechnung gestellt werden.
 
 #### § 17
 
