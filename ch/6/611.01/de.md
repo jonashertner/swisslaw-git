@@ -4,11 +4,11 @@ title: Finanzhaushaltverordnung vom 5. April 2006 (FHV)
 short: FHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: de
-version: 2025-05-01
+version: 2026-01-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2006-228-20250501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2006-228-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20250501/de"
 
 (FHV)
 
-vom 5. April 2006 (Stand am 1. Mai 2025)
+vom 5. April 2006 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Finanzhaushaltgesetz vom 7. Oktober 2005[^ingress-1] (FHG),[^i
 
 verordnet:
 
-[^ingress-1]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
+[^ingress-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ## 1. Kapitel: Staatsrechnung
@@ -52,7 +52,7 @@ Soweit Gesetz und Verordnung nichts anderes bestimmen, sind die Bestimmungen die
 
 [^1-1]: Eingefügt durch Anhang 2 Ziff. II 68 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^1-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^1-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^1-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 [^1-4]: Fassung gemäss Anhang 2 Ziff. II 68 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2
@@ -142,7 +142,7 @@ Die Darstellung der finanziellen Entwicklung in der Legislaturperiode umfasst in
 <sup>5</sup> Der Bundesrat unterbreitet der Bundesversammlung mehrjährige und periodisch wiederkehrende Finanzbeschlüsse von erheblicher Tragweite in der Regel innerhalb von sechs Monaten nach der Verabschiedung der Botschaft über die Legislaturplanung.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^5-2]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^5-2]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 
 #### Art. 6
 
@@ -240,7 +240,7 @@ Die Kreditbegehren der Verwaltungseinheiten müssen folgenden Anforderungen gen�
 
 <sup>3</sup> Fehlen Bestimmungen in Spezialerlassen, so entscheidet die Finanzverwaltung nach Anhörung der betroffenen Verwaltungseinheit und des Departementes, in welcher Form ein Verpflichtungskredit beantragt werden muss.
 
-[^13-1]: [SR 611.051](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7767)
+[^13-1]: [SR 611.051](https://fedlex.data.admin.ch/eli/cc/2004/383)
 
 #### Art. 14
 
@@ -309,7 +309,7 @@ Die Jahresziele sollen mindestens:
 
 <sup>3</sup> Die Finanzverwaltung erlässt zusammen mit dem Eidgenössischen Personalamt (EPA) und dem Bereich digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI[^18-1]) technische Weisungen für das Eingabeverfahren.[^18-2]
 
-[^18-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Mai 2025 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^18-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Mai 2025 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^18-2]: Fassung gemäss Anhang Ziff. 16 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 19
@@ -841,9 +841,9 @@ Die Bearbeitung von Personendaten dient der Erfüllung der Aufgaben nach dieser 
 - g.[^42-6] der Abwicklung der Kundenbeziehungsprozesse.
 
 [^42-1]: Fassung gemäss Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
-[^42-2]: [SR 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
-[^42-3]: [SR 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
-[^42-4]: [SR 172.215.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5319)
+[^42-2]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^42-3]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^42-4]: [SR 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)
 [^42-5]: Fassung gemäss Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 [^42-6]: Eingefügt durch Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
@@ -868,8 +868,8 @@ Zur Aufgabenerfüllung können folgende Personendaten von Angestellten der Bunde
 <sup>2</sup> Die Personendaten der Angestellten der Bundesverwaltung können aus dem Informationssystem Personaldatenmanagement (Art. 27 des Bundespersonalgesetzes vom 24. März 2000[^43-2]) oder aus dem zentralen Identitätsspeicher (Art. 13 der Verordnung vom 19. Oktober 2016[^43-3] über Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes) bezogen werden.[^43-4]
 
 [^43-1]: Eingefügt durch Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
-[^43-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
-[^43-3]: [SR 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
+[^43-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-3]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
 [^43-4]: Fassung gemäss Anhang der V vom 22. Nov. 2022 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben, in Kraft seit 1. Jan. 2024 ([AS 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 44
@@ -911,7 +911,7 @@ Sämtliche Verwaltungseinheiten des Bundes:
 
 <sup>2</sup> Im Übrigen gelten für die Bekanntgabe der Daten der Angestellten der Bundesverwaltung an andere Informationssysteme die Voraussetzungen von Artikel 34 der Verordnung vom 22. November 2017[^47-1] über den Schutz von Personendaten des Bundespersonals.[^47-2]
 
-[^47-1]: [SR 172.220.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5367)
+[^47-1]: [SR 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
 [^47-2]: Fassung gemäss Anhang 8 Ziff. II 5 der V vom 22. Nov. 2017 über den Schutz von Personendaten des Bundespersonals, in Kraft seit 1. Jan. 2018 ([AS 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 #### Art. 48
@@ -1026,29 +1026,11 @@ Die Finanzverwaltung erlässt Weisungen über:
 
 ### 3. Abschnitt: Besondere Finanzierungsarten
 
-#### Art. 61
+#### Art. 61 und 62
 
-**Spezialfonds**[^61-1]
+[^6162-1]
 
-### (Art. 52 FHG)
-
-<sup>1</sup> Die Spezialfonds werden unter dem Eigenkapital bilanziert, wenn die zuständige Verwaltungseinheit die Art oder den Zeitpunkt der Mittelverwendung beeinflussen kann.
-
-<sup>2</sup> In den anderen Fällen erfolgt die Bilanzierung unter dem Fremdkapital.
-
-[^61-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 62
-
-**Spezialfinanzierungen**[^62-1]
-
-### (Art. 53 FHG)
-
-<sup>1</sup> Die Spezialfinanzierungen werden unter dem Eigenkapital bilanziert, wenn die zuständige Verwaltungseinheit die Art oder den Zeitpunkt der Mittelverwendung beeinflussen kann.
-
-<sup>2</sup> In den anderen Fällen erfolgt die Bilanzierung unter dem Fremdkapital.
-
-[^62-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^6162-1]: Aufgehoben durch Ziff. I der V vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
 
 #### Art. 63
 
@@ -1138,7 +1120,7 @@ Die Finanzverwaltung erlässt Weisungen über:
 
 Zahlungsfristen und Mahnungen richten sich nach Artikel 12 Absätze 2–4 der Allgemeinen Gebührenverordnung vom 8. September 2004[^67-1].
 
-[^67-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^67-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 68
 
@@ -1267,7 +1249,7 @@ Personen nach Absatz 2 Buchstaben d und f bleiben zur Kontobeziehung mit der SKB
 <sup>3</sup> Das Finanzdepartement führt den Kreis der Kontoberechtigten näher aus.
 
 [^72a-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^72a-2]: [SR 172.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5234)
+[^72a-2]: [SR 172.121](https://fedlex.data.admin.ch/eli/cc/1990/254_254_254)
 [^72a-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 [^72a-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 
@@ -1435,15 +1417,13 @@ Anhang 2[^t-2]
 
 ## Abweichungen der Bundesrechnung von den IPSAS
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 10. Nov. 2021 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)). Bereinigt gemäss Ziff. II der V vom 21. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
+[^t-2]: Fassung gemäss Ziff. III der V vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
 
 <table>
 <tr><th>Nr.</th><th>IPSAS</th><th>Nr.</th><th>Abweichung</th></tr>
-<tr><td>17</td><td>*Aktivierungsvoraussetzung:* Wirtschaftlicher Nutzen bzw. wirtschaftliches Nutzenpotenzial für die öffentliche Aufgabenerbringung *(Service Potential)*</td><td>17</td><td>Rüstungsmaterial: Es werden nur Hauptsysteme aus den Rüstungsprogrammen aktiviert. Übriges aktivierungsfähiges Rüstungsmaterial wird nicht bilanziert.</td></tr>
-<tr><td>18</td><td>*Segmentberichterstattung*</td><td>18</td><td>Auf die Erstellung einer Segmentberichterstattung wird verzichtet. Im Kommentar zur Jahresrechnung werden die Ausgaben nach Aufgabengebieten offengelegt. Die Offenlegung erfolgt allerdings nach der Finanzierungs- und nicht nach der Erfolgssicht und ohne Angaben von Bilanzwerten.</td></tr>
-<tr><td>23</td><td>Erträge aus Transaktionen ohne zurechenbare Gegenleistung</td><td>23.1</td><td>Die Erträge aus der direkten Bundessteuer werden nach dem Forderungsprinzip und nicht nach dem Periodenabgrenzungsprinzip verbucht. Die Ertragserfassung erfolgt aus administrativen Gründen einen Monat nach erfolgter Rechnungsstellung durch die Kantone gegenüber der oder dem Steuerpflichtigen.</td></tr>
-<tr><td></td><td></td><td>23.2</td><td>Die Erträge aus der Mehrwertsteuer und der Schwerverkehrsabgabe (LSVA) werden mit einer Verzögerung von einem Quartal verbucht.</td></tr>
+<tr><td>17</td><td>*Aktivierungsvoraussetzung:* Wirtschaftlicher Nutzen bzw. wirtschaftliches Nutzenpotenzial für die öffentliche Aufgabenerbringung (Service Potential)</td><td>17</td><td>*Rüstungsmaterial:* Es werden nur Hauptsysteme aus den Rüstungsprogrammen aktiviert. Übriges aktivierungsfähiges Rüstungsmaterial wird nicht bilanziert.</td></tr>
 <tr><td>43</td><td>Leasing</td><td>43</td><td>Der Standard wird nicht angewendet. Dementsprechend wird bei Leasingtransaktionen auf die Bilanzierung eines Nutzungsrechts und einer Leasingverbindlichkeit verzichtet. Stattdessen werden die Ausgaben im Zeitpunkt der Fälligkeit der Erfolgsrechnung belastet.</td></tr>
+<tr><td>47</td><td>Erträge</td><td>47</td><td>*Periodenverzögerte* *Einnahme**erfassung:* Die Einnahmen der Mehrwertsteuer werden um ein Quartal verzögert zum steuerbaren Ereignis erfasst. Die Einnahmen der direkten Bundessteuer sowie der Ergänzungssteuer werden im Zeitpunkt der Rechnungstellung durch die Kantone erfasst, jedoch verzögert um einen Monat.</td></tr>
 </table>
 
 Anhang 3[^t-3]

@@ -4,11 +4,11 @@ title: Ordinanza del 5 aprile 2006 sulle finanze della Confederazione (OFC)
 short: OFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/228"
 language: it
-version: 2025-05-01
+version: 2026-01-01
 adopted: 2006-04-05
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2006-228-20250501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/228/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2006-228-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/228/20250501/it"
 
 (OFC)
 
-del 5 aprile 2006 (Stato 1° maggio 2025)
+del 5 aprile 2006 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 7 ottobre 2005[^ingress-1] sulle finanze della Confe
 
 ordina:
 
-[^ingress-1]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
+[^ingress-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
 ## Capitolo 1: Consuntivo della Confederazione
@@ -52,7 +52,7 @@ Sempre che la legge e l’ordinanza non dispongano altrimenti, le disposizioni d
 
 [^1-1]: Introdotta dall’all. 2 cifra II n. 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^1-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^1-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^1-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 [^1-4]: Nuovo testo giusta l’all. 2 cifra II n. 68 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 2
@@ -142,7 +142,7 @@ La presentazione dello sviluppo finanziario durante la legislatura comprende ind
 <sup>5</sup> Di regola entro sei mesi dall’adozione del messaggio sul programma di legislatura, il Consiglio federale sottopone all’Assemblea federale decisioni finanziarie pluriennali e periodiche di portata rilevante.
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^5-2]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+[^5-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 
 #### Art. 6
 
@@ -240,7 +240,7 @@ Le domande di credito delle unità amministrative devono soddisfare le seguenti 
 
 <sup>3</sup> In difetto di disposizioni in atti normativi speciali, spetta all’Amministrazione delle finanze determinare, sentite le unità amministrative interessate e il dipartimento, in quale forma il credito d’impegno deve essere domandato.
 
-[^13-1]: [RS 611.051](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7767)
+[^13-1]: [RS 611.051](https://fedlex.data.admin.ch/eli/cc/2004/383)
 
 #### Art. 14
 
@@ -309,7 +309,7 @@ Gli obiettivi annui devono almeno:
 
 <sup>3</sup> L’Amministrazione delle finanze emana, congiuntamente con l’Ufficio federale del personale (Ufficio del personale) e il settore Trasformazione digitale e governance delle TIC della Cancelleria federale (settore TDT[^18-1]), istruzioni tecniche sulla procedura da seguire per le domande per il preventivo.[^18-2]
 
-[^18-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° mag. 2025. Di detta mod. è tenuto conto in tutto il presente testo.
+[^18-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° mag. 2025. Di detta mod. è tenuto conto in tutto il presente testo.
 [^18-2]: Nuovo testo giusta l’all. n. 16 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 19
@@ -841,9 +841,9 @@ Il trattamento di dati personali serve ad adempiere i compiti previsti dalla pre
 - g.[^42-6] l’esecuzione di processi concernenti le relazioni con i clienti.
 
 [^42-1]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
-[^42-2]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
-[^42-3]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
-[^42-4]: [RS 172.215.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5319)
+[^42-2]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^42-3]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^42-4]: [RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)
 [^42-5]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 [^42-6]: Introdotta dall’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
@@ -868,8 +868,8 @@ Ai fini dell’adempimento dei compiti possono essere trattati i seguenti dati p
 <sup>2</sup> I dati personali degli impiegati dell’Amministrazione federale possono essere ottenuti dal sistema d’informazione per la gestione dei dati del personale (art. 27 della legge del 24 marzo 2000[^43-2] sul personale federale) o dall’archivio centralizzato delle identità (art. 13 dell’ordinanza del 19 ottobre 2016[^43-3] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione).[^43-4]
 
 [^43-1]: Introdotta dall’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
-[^43-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
-[^43-3]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
+[^43-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^43-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
 [^43-4]: Nuovo testo giusta l’all. dell’O del 22 nov. 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, in vigore dal 1° gen. 2024 ([RU 2023 754](https://fedlex.data.admin.ch/eli/oc/2023/754)).
 
 #### Art. 44
@@ -911,7 +911,7 @@ Tutte le unità amministrative della Confederazione:
 
 <sup>2</sup> Per il resto, per la comunicazione dei dati degli impiegati dell’Amministrazione federale ad altri sistemi d’informazione si applicano le condizioni di cui all’articolo 34 dell’ordinanza del 22 novembre 2017[^47-1] sulla protezione dei dati personali del personale federale.[^47-2]
 
-[^47-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5367)
+[^47-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
 [^47-2]: Nuovo testo giusta l’all. 8 cifra II n. 5 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 #### Art. 48
@@ -1026,29 +1026,11 @@ L’Amministrazione delle finanze emana istruzioni in merito:
 
 ### Sezione 3: Generi di finanziamento particolari
 
-#### Art. 61
+#### Art. 61 e 62
 
-**Fondi speciali**[^61-1]
+[^6162-1]
 
-### (art. 52 LFC)
-
-<sup>1</sup> I fondi speciali sono iscritti a bilancio sotto il capitale proprio se l’unità amministrativa competente può influenzare il tipo o il momento dell’utilizzazione dei mezzi.
-
-<sup>2</sup> Negli altri casi l’iscrizione a bilancio è effettuata sotto il capitale di terzi.
-
-[^61-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-
-#### Art. 62
-
-**Finanziamenti speciali**[^62-1]
-
-### (art. 53 LFC)
-
-<sup>1</sup> I finanziamenti speciali sono iscritti a bilancio sotto il capitale proprio se l’unità amministrativa competente può influenzare il tipo o il momento dell’utilizzazione dei mezzi.
-
-<sup>2</sup> Negli altri casi l’iscrizione a bilancio è effettuata sotto il capitale di terzi.
-
-[^62-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
+[^6162-1]: Abrogati dalla cifra I dell’O del 21 mar. 2025, con effetto dal 1° gen. 2026 ([RU 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
 
 #### Art. 63
 
@@ -1138,7 +1120,7 @@ Riguardo alle liberalità di cui il Dipartimento delle finanze non è competente
 
 I termini di pagamento e le diffide sono retti dall’articolo 12 capoversi 2–4 dell’ordinanza generale dell’8 settembre 2004[^67-1] sugli emolumenti.
 
-[^67-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^67-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 68
 
@@ -1267,7 +1249,7 @@ Le persone di cui al capoverso 2 lettere d ed f continuano ad avere diritto a un
 <sup>3</sup> Il Dipartimento delle finanze precisa la cerchia delle persone aventi diritto a un conto.
 
 [^72a-1]: Introdotto dalla cifra I dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^72a-2]: [RS 172.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5234)
+[^72a-2]: [RS 172.121](https://fedlex.data.admin.ch/eli/cc/1990/254_254_254)
 [^72a-3]: Introdotta dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 [^72a-4]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6747](https://fedlex.data.admin.ch/eli/oc/2017/756)).
 
@@ -1435,15 +1417,13 @@ Allegato 2[^t-2]
 
 ## Deroghe del conto della Confederazione agli IPSAS
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 10 nov. 2021 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)). Aggiornato dalla cifra II dell’O del 21 mar. 2025, in vigore dal 1° mag. 2025 ([RU 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
+[^t-2]: Nuovo testo giusta la III dell’O del 21 mar. 2025, in vigore dal 1° gen. 2026 ([RU 2025 207](https://fedlex.data.admin.ch/eli/oc/2025/207)).
 
 <table>
-<tr><th>N.</th><th>IPSAS</th><th>N.</th><th>Deroga</th></tr>
-<tr><td>17</td><td>*Requisito per l’iscrizione* *all’attivo**:* utilità economica o potenziale di utilità economica per l’adempimento di compiti pubblici *(Service Potential)*</td><td>17</td><td>Materiale d’armamento: sono iscritti all’attivo solo i sistemi principali previsti nei programmi d’armamento. Il rimanente materiale d’armamento iscrivibile all’attivo non viene iscritto a bilancio.</td></tr>
-<tr><td>18</td><td>Presentazione delle informazioni per segmento</td><td>18</td><td>Si rinuncia a fornire una presentazione delle informazioni per segmento. Nel commento al conto annuale le uscite sono esposte per settori di compiti. L’esposizione è tuttavia effettuata nell’ottica del finanziamento e non nell’ottica dei risultati e non fornisce indicazioni sui valori di bilancio.</td></tr>
-<tr><td>23</td><td>Reddito derivante da operazioni non commerciali</td><td>23.1</td><td>I ricavi dell’imposta federale diretta sono contabilizzati secondo il principio che considera il momento in cui sorge il credito e non secondo il principio della conformità temporale. Per ragioni amministrative, i ricavi sono registrati un mese dopo che i Cantoni hanno emesso la fattura al contribuente.</td></tr>
-<tr><td></td><td></td><td>23.2</td><td>I ricavi dell’imposta sul valore aggiunto e della tassa sul traffico pesante commisurata alle prestazioni (TTPCP) sono contabilizzati con un differimento di un trimestre.</td></tr>
+<tr><td>N.</td><td>IPSAS</td><td>N.</td><td>Deroga</td></tr>
+<tr><td>17</td><td>*Requisito per l’iscrizione all’attivo:* utilità economica o potenziale di utilità economica per l’adempimento di compiti pubblici (*Service Potential*)</td><td>17</td><td>*Materiale d’armamento:* sono iscritti all’attivo solo i sistemi principali previsti nei programmi d’armamento. Il rimanente materiale d’armamento iscrivibile all’attivo non viene iscritto a bilancio.</td></tr>
 <tr><td>43</td><td>Leasing</td><td>43</td><td>Lo standard non viene applicato. Di conseguenza, nel quadro di operazioni di leasing i diritti d’uso e le obbligazioni derivanti dal contratto di leasing non sono iscritti a bilancio. Per contro, al momento della scadenza le uscite sono addebitate al conto economico.</td></tr>
+<tr><td>47</td><td>Ricavi</td><td>47</td><td>*Registrazione posticipata delle* *entrate**:* le entrate dell’imposta sul valore aggiunto sono registrate con un trimestre di ritardo a contare dalla nascita del debito fiscale. Le entrate dell’imposta federale diretta e dell’imposta integrativa sono registrate con la data della fatturazione da parte dei Cantoni, ma con un ritardo di un mese.</td></tr>
 </table>
 
 Allegato 3[^t-3]
