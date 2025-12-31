@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2025-12-23
+version: 2026-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251223-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251223/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260101-en-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Last amended on 23 December 2025)
+of 18 May 2005 (Last amended on 1 January 2026)
 
 The Swiss Federal Council,
 
-on the basis of Articles 2 paragraph 4, 19, 22 paragraph 2, 24, 38, 39 paragraph 2, 44 paragraph 2, 45 paragraphs 2 and 5 and 46 paragraph 1 of the Chemicals Act of 15 December 2000[^ingress-1] (ChemA), on the basis of Articles 27 paragraph 2, 29, 30*a,* 30*b*, 30*c* paragraph 3, 30*d,* 32*a*<sup>bis</sup>, 38 paragraph 3, 39 paragraphs 1 and 1<sup>bis</sup>, 41 paragraph 3, 44 paragraphs 2 and 3, 46 paragraphs 2 and 3, and 48 paragraph 2 of the Environmental Protection Act of 7 October 1983[^ingress-2] (EPA), on the basis of Articles 9 paragraph 2 letter c, 27 paragraph 2 and 48 paragraph 2 of the Waters Protection Act of 24 January 1991[^ingress-3], on the basis of Article 15 paragraphs 4 and 5 of the Foodstuffs Act of 20 June 2014[^ingress-4], and of Article 56 paragraph 2 of the Energy Act of 30 September 2016[^ingress-5] (EnA), and in implementation of the Federal Act of 6 October 1995[^ingress-6] on Technical Barriers to Trade,[^ingress-7]
+on the basis of Articles 2 paragraph 4, 19, 22 paragraph 2, 24, 38, 39 paragraph 2, 44 paragraph 2, 45 paragraphs 2 and 5 and 46 paragraph 1 of the Chemicals Act of 15 December 2000[^ingress-1] (ChemA), on the basis of Articles 27 paragraph 2, 29, 30*a,* 30*b*, 30*c* paragraph 3, 30*d,* 32*a*<sup>bis</sup>, 38 paragraph 3, 39 paragraphs 1 and 1<sup>bis</sup>, 41 paragraph 3, 44 paragraphs 2 and 3, 46 paragraphs 2 and 3, 48 paragraph 2 and 63 paragraph 2 of the Environmental Protection Act of 7 October 1983[^ingress-2] (EPA), on the basis of Articles 9 paragraph 2 letter c, 27 paragraph 2 and 48 paragraph 2 of the Federal Act of 24 January 1991[^ingress-3] on the Protection of Waters, on the basis of Article 15 paragraphs 4 and 5 of the Foodstuffs Act of 20 June 2014[^ingress-4], and of Article 56 paragraph 2 of the Energy Act of 30 September 2016[^ingress-5] (EnA), and in implementation of the Federal Act of 6 October 1995[^ingress-6] on Technical Barriers to Trade,[^ingress-7]
 
 ordains:
 
@@ -33,7 +33,7 @@ ordains:
 [^ingress-4]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^ingress-5]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
-[^ingress-7]: Amended by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^ingress-7]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 ## Chapter 1 General Provisions
 
@@ -192,9 +192,10 @@ The following activities may only be carried out on a professional or commercial
 
 <sup>2</sup> Pest control with fumigants may only be carried out by natural persons with an appropriate certificate or with a qualification regarded as equivalent.
 
-<sup>3</sup> The competent Federal Department shall specify detailed requirements for certificates. It may provide for exemptions to authorisation requirements and specify a time limit for certificates for pest control with fumigants. In its regulations it shall take account of the protection goals.
+<sup>3</sup> The competent Federal Department shall specify detailed requirements for certificates. It may provide for exemptions to authorisation requirements. It shall take account of the protection goals.[^7-2]
 
 [^7-1]: Amended by No I of the O of 7 Nov. 2012, in force since 1 Dec. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+[^7-2]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 #### Art. 8
 
@@ -210,11 +211,11 @@ A certificate shall be issued to a person who, in an examination, has demonstrat
 - d. environmental impacts and the appropriate use and disposal of substances, preparations and articles;
 - e. appliances and their appropriate handling.
 
-<sup>2</sup> Certificates from member states of the EU and EFTA are regarded as equivalent to Swiss certificates.
+<sup>2</sup> Certificates from member states of the EU and EFTA are regarded as equivalent to Swiss certificates; the provisions on certificates for the use of plant protection products are reserved.[^8-1]
 
-<sup>3</sup> The competent Federal Department or its designated agency shall decide, if requested by a college or vocational training establishment, whether a specific qualification must be regarded as equivalent to a certificate.
+<sup>3</sup> The competent Federal Department or its designated agency shall decide, if requested by a college or vocational training establishment, whether a specific qualification must be regarded as equivalent to a certificate. Such equivalence does not apply to the use of plant protection products.[^8-2]
 
-<sup>4</sup> The competent Federal Department shall determine which agency may recognise occupational experience as equivalent to a certificate and under what conditions.
+<sup>4</sup> The competent Federal Department shall determine which agency may recognise occupational experience as equivalent to a certificate and under what conditions. Such equivalence does not apply to the use of plant protection products.[^8-3]
 
 <sup>5</sup>
 
@@ -224,17 +225,49 @@ Articles 9–11 apply *mutatis mutandis* to:
 - b. qualifications regarded as equivalent to a certificate (para. 3);
 - c. occupational experience recognised as equivalent to a certificate (para. 4).
 
+[^8-1]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^8-2]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^8-3]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+
+#### Art. 8a
+
+**Certificates for the use of plant protection products issued by member states of the EU and EFTA**[^8a-1]
+
+<sup>1</sup> Equivalence in accordance with Article 8 paragraph 2 does not apply to certificates for the use of plant protection products whose holder is established in Switzerland within the meaning of the Agreement of 21 June 1999[^8a-2] between the Swiss Confederation, of the one part, and the European Community and its Member States, of the other, on the free movement of persons or Annex K of the Convention of 4 January 1960[^8a-3] establishing the European Free Trade Association.
+
+<sup>2</sup> At the request of the holder of a relevant certificate from a member state of the EU or EFTA, the competent Federal Department shall decide on the recognition of the requesting person’s professional qualifications. Recognition shall make it possible for a Swiss certificate to be granted.
+
+<sup>3</sup> If the competent Federal Department finds significant differences between the foreign and the related Swiss qualification, it shall offer measures to compensate for these differences (compensation measures), in particular in the form of an examination or an adaptation course.
+
+<sup>4</sup> Recognition is not required for service providers. However, they must comply with the Swiss law on reporting requirement and the review of professional qualifications.
+
+[^8a-1]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^8a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^8a-3]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+
 #### Art. 9
 
-**Geographical applicability**
+**Geographical scope and period of validity**[^9-1]
 
-Certificates are valid throughout Switzerland.
+<sup>1</sup> Certificates are valid throughout Switzerland.
+
+<sup>2</sup> The certificate permitting the professional or commercial use of plant protection products in accordance with Article 7 paragraph 1 letter a is valid for five years. It shall be extended for a further five years, provided that the holder has completed the continuing education and training in accordance with Article 10 before the expiry of the certificate's period of validity.
+
+<sup>3</sup> The competent Federal Department may restrict the period of validity of certificates.
+
+[^9-1]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 #### Art. 10
 
-**Continuing education and training requirements**
+**Mandatory continuing education and training**[^10-1]
 
-Any person who holds a certificate and carries out the relevant activities must keep abreast of best practices and undergo continuing education and training.
+<sup>1</sup> Any person who holds a certificate and carries out the relevant activities must keep abreast of best practices and undergo continuing education and training.
+
+<sup>2</sup> If necessary, the competent Federal Department may regulate the details of the mandatory continuing education and training, in particular with regard to its scope, content and conditions, as well as the recognition and monitoring of institutions for continuing education and training.
+
+<sup>3</sup> In the case of certificates permitting the professional or commercial use of plant protection products, the continuing education and training must be completed at an institution for continuing education and training recognised by the FOEN.
+
+[^10-1]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 #### Art. 11
 
@@ -242,12 +275,14 @@ Any person who holds a certificate and carries out the relevant activities must 
 
 <sup>1</sup>
 
-If the holder of a certificate wilfully infringes the relevant provisions of environmental, health and worker protection legislation, or repeatedly infringes such provisions through negligence, the cantonal authority may, by means of a ruling:
+If the holder of a certificate wilfully infringes the relevant provisions of environmental, health and worker protection legislation, or repeatedly infringes such provisions through negligence, the cantonal authority may, by means of a ruling:[^11-1]
 
 - a. require the person concerned to attend a course or take an examination; or
 - b. temporarily or permanently revoke the certificate.
 
 <sup>2</sup> The cantonal authority shall inform the competent Federal Office of such rulings.
+
+[^11-1]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 #### Art. 12
 
@@ -264,9 +299,39 @@ The Department shall define:
 - a. the content, scope and procedure for examinations;
 - b. the documentation requirements for examining bodies.
 
-<sup>4</sup> The Department or its designated agency shall specify the examining bodies that conduct examinations and issue certificates.
+<sup>4</sup> The Department or its designated agency shall specify the examining bodies that conduct examinations and issue certificates. The certificates permitting the professional and commercial use of plant protection products shall be issued by the FOEN.[^12-1]
 
 <sup>5</sup> DETEC shall provide opportunities for preparation for examinations within its sphere of responsibility.
+
+<sup>6</sup>
+
+In the case of certificates permitting the professional and commercial use of plant protection products:
+
+- a. the FOEN shall decide in response to a written request whether an institution for continuing education and training may be recognised for offering a continuing education and training course within the meaning of Article 10;
+- b. the FOEN shall monitor the institutions for continuing education and training;
+- c. the FOEN shall revoke its recognition of an institution for continuing education and training if it fails to implement any corrective measures ordered despite being warned beforehand.[^12-2]
+
+[^12-1]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^12-2]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+
+#### Art. 12a
+
+**Funding of examining bodies and institutions for continuing education and training**[^12a-1]
+
+<sup>1</sup>
+
+Based on Article 49 paragraph 1 EPA and in response to an application made to the FOEN, the Confederation may grant financial assistance for basic and continuing education and training. The bodies and institutions may claim financial assistance for education and training in the following fields:
+
+- a. agriculture;
+- b. horticulture;
+- c. specialist fields, in particular the use of herbicides in agriculture and in the maintenance of railway and military installations and the maintenance of the grounds of residential, service, commercial, industrial and public buildings;
+- d. forestry.
+
+<sup>2</sup> Financial assistance shall be provided in the form of flat-rate payments amounting to a maximum of 50 per cent of the costs of efficient education and training. This includes the planning, organisation, preparation and conduct of examinations and basic and continuing education and training courses.
+
+<sup>3</sup> DETEC shall decide on the content and objectives of the basic and continuing education and training and shall stipulate the criteria for granting financial assistance in an ordinance. The content, objectives and criteria shall in principle apply for the period to which the funding decision relates.
+
+[^12a-1]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 ## Chapter 3 Enforcement
 
@@ -390,11 +455,18 @@ The obligation to pay fees and the calculation of fees for administrative acts p
 
 #### Art. 23a
 
-**Transitional provision to the Amendment of 11 March 2022**[^23a-1]
+**Transitional provisions to the Amendment of 16 November 2022**[^23a-1]
 
-Substances, preparations, appliances, articles and systems that are labelled in accordance with the previous law may be supplied to third parties until 31 December 2025.
+<sup>1</sup> Holders of a licence to use plant protection products that was granted in accordance with the provisions of the former Article 8 paragraphs 1, 3 or 4 that were valid until 31 December 2025 may apply to the FOEN by 30 June 2026 for the licence to be replaced.
 
-[^23a-1]: Inserted by Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+<sup>2</sup> Where an application has been submitted in respect of licences granted under the previous law by 30 June 2026, the licences shall be replaced by a certificate valid for five years, which shall be recorded in the Register of PPP Certificates in accordance with Article 1 of the Ordinance of 16 November 2022[^23a-2] on the Register of Certificates for the Use of Plant Protection Products.
+
+<sup>3</sup> Holders of a licence acquired before 1 January 2000 must successfully complete all the continuing education and training courses required in accordance with Article 9 paragraph 3 by 31 December 2029.
+
+<sup>4</sup> Licences granted under the previous law expire on 1 January 2027.
+
+[^23a-1]: Inserted by Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2026 ([AS 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^23a-2]: [SR 814.88](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40086)
 
 #### Art. 24
 
@@ -406,7 +478,7 @@ Annexes[^t-1]
 
 ## 1 Provisions relating to specific substances
 
-[^t-1]: Revised by No I of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 27 Nov. 2024 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)) and Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)) and No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 [AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-1]: Revised by No I of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 27 Nov. 2024 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)), Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)) and No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 - 1\.1 Persistent organic pollutants
 - 1\.2 Halogenated organic substances
@@ -448,6 +520,7 @@ Annexes[^t-1]
 - 2\.16 Special provisions relating to metals
 - 2\.17 Wood-based articles and other articles containing resin
 - 2\.18 Electrical and electronic equipment
+- 2\.19 Insulating gases in electrical systems and electrical devices
 
 [^annexu1-lvl2-1]: Term in accordance with No I 2 of the O of 10 Dec. 2010, in force since 1 Feb. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). This amendment has been applied throughout the text.
 
@@ -461,7 +534,7 @@ Annex 1.1[^t-2]
 
 ## Persistent organic pollutants
 
-[^t-2]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-2]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Prohibitions
 
@@ -472,13 +545,17 @@ Annex 1.1[^t-2]
 
 <sup>2</sup> New articles may not be placed on the market if they or their components contain persistent organic substances as specified in Number 3 which are not merely unavoidable impurities.
 
-<sup>3</sup> For perfluorooctane sulfonic acid and its derivatives (PFOS), and perfluorooctanoic acid (PFOA) and its precursor compounds, Annex 1.16 applies.
+<sup>3</sup> Annex 1.16 applies to the following substances:
+
+- a. perfluorooctane sulfonic acid and its derivatives (PFOS);
+- b. perfluorohexane sulfonic acid (PFHxS) and its precursor compounds;
+- c. perfluorooctanoic acid (PFOA) and its precursor compounds.
 
 <sup>4</sup> For electrical and electronic equipment that contains hexabromobiphenyl or brominated diphenyl ethers, Annex 2.18 applies.
 
 <sup>5</sup> For decabromodiphenyl ether, Annex 1.9 numbers 2 and 4 apply.
 
-### 2 Exemptions
+### 2 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 1 paragraph 1 do not apply to:
 
@@ -515,6 +592,8 @@ Annex 1.1[^t-2]
   - – Mirex (CAS no 2385-85-5);
   - – Toxaphene (CAS no 8001-35-2).
   - – Perfluorooctanoic acid (PFOA) and its precursor compounds.
+  - – Perfluorohexane sulfonic acid (PFHxS) and its precursor compounds;
+  - – 1,6,7,8,9,14,15,16,17,17,18,18-Dodecachloropenta- cyclo[12.2.1.1<sup>6,9</sup>.0<sup>2,13</sup>.0<sup>5,10</sup>]octadeca-7,15-diene (Dechlorane Plus, CAS No. 13560-89-9) including its *anti-* and *syn-*isomers (CAS No. 135821-74-8 and CAS No. 135821-03-3).
 
 - b. *Halogenated Monoaromaten*
   - – Pentachlorobenzene (CAS no 608-93-5);
@@ -536,18 +615,81 @@ Annex 1.1[^t-2]
 - e. *DDT and DDT-like compounds*
   - – Dichlorodiphenyltrichloroethane (DDT);
   - – Dicofol (CAS no 115-32-2).
+  - – Methoxychlor (CAS No 72-43-5).
+
+- f. *Benzotriazoles*
+  - – 2-(*2H-*benzotriazol-2-yl)-4,6-di-*tert*-pentylphenol(UV-328, CAS No 25973-55-1).
 
 ### 4 Transitional provisions
 
-<sup>1</sup> The prohibitions specified in Number 1 paragraph 1 letter b and paragraph 2 come into force on 1 March 2016 for:
+<sup>1</sup> The prohibitions specified in Number 1 paragraphs 1 and 2 do not apply to:
 
-- a. the placing on the market and use of expandable polystyrene that contains HBCDD for the manufacture of insulation panels for use in and on buildings;
-- b. the first placing on the market of insulation panels made of expanded polystyrene that contains HBCDD for use in and on buildings;
-- c. the first placing on the market of installation panels made of extruded polystyrene that contains HBCDD for use in and on buildings.
+- a.
 
-<sup>2</sup> The prohibition specified in Number 1 paragraph 2 does not apply to insulation panels made of expanded or extruded polystyrene for use in and on buildings if the insulation panels were manufactured with sections containing HBCDD that arise in the processing of new insulation panels in and on buildings.
+  the placing on the market of the following articles containing Dechlorane Plus that were first placed on the market before 26 February 2030:
 
-<sup>3</sup> On the receipt of a justified request, the Federal Office for the Environment (FOEN) may grant temporary exemptions from the prohibitions specified in paragraph 1 letters a and b if the applicant can demonstrate that a substitute without HBCDD cannot actually be obtained for the preparations or objects. The time limit may last until 1 March 2018 at the latest.
+  - 1\. articles with applications in the aerospace and defence industry,
+  - 2\. devices for medical imaging,
+  - 3\. devices and equipment for radiotherapy,
+  - 4\. components for the manufacture of articles, equipment and installations in accordance with items 1-3;
+
+- b.
+
+  the placing on the market of spare parts containing Dechlorane Plus for the repair of the following articles until 31 December 2043, if Dechlorane Plus was used in the manufacture of these articles:
+
+  - 1\. motor vehicles that were first placed on the market before 1 January 2026,
+  - 2\. stationary machinery for agriculture, forestry and construction that was first placed on the market before 1 January 2026,
+  - 3\. devices with applications in shipping, forestry and gardening that were first placed on the market before 1 January 2026,
+  - 4\. analysis, measuring, control, monitoring, testing, production and inspection equipment, including in vitro diagnostic medical devices, which were first placed on the market before 1 January 2026,
+  - 5\. articles with applications in the aerospace and defence industry that were first placed on the market before 26 February 2030,
+  - 6\. medical imaging devices that were first placed on the market before 26 February 2030,
+  - 7\. devices and systems for radiotherapy that were placed on the market for the first time before 26 February 2030;
+
+- c. the placing on the market of all other articles containing Dechlorane Plus that were first placed on the market in Switzerland or an EU or EFTA Member State before 1 January 2026;
+- d.
+
+  the placing on the market and use of Dechlorane Plus and preparations containing Dechlorane Plus for:
+
+  - 1\. the manufacture of articles, devices, systems and components in accordance with letter a until 25 February 2030,
+  - 2\. the manufacture of spare parts that may be placed on the market in accordance with letter b.
+
+<sup>2</sup> The prohibition specified in Number 1 paragraph 2 does not apply to:
+
+- a
+
+  the placing on the market of the following articles containing UV-328 that were first placed on the market before 26 February 2030:
+
+  - 1\. motor vehicles and their components,
+  - 2\. aircraft and their spare parts, each containing UV-328 in tapes, adhesives or coatings,
+  - 3\. railway vehicles, production machinery and large steel structures that each contain UV-328 in coatings,
+  - 4\. mechanical separators in blood collection tubes,
+  - 5\. triacetylcellulose film in polarisers and articles containing such polarisers,
+  - 6\. photo paper;
+
+- b.
+
+  the placing on the market of spare parts containing UV-328 for the repair of the following articles until 31 December 2043 if UV-328 was used in the manufacture of these articles:
+
+  - 1\. stationary machinery for agriculture, forestry and construction that was first placed on the market before 1 January 2026,
+  - 2 motor vehicles that were first placed on the market before 26 February 2030;
+  - 3\. liquid crystal displays in analysis, measurement, control, monitoring, testing, production and inspection equipment placed on the market for the first time before 26 February 2030,
+  - 4\. liquid crystal displays in medical devices that were first placed on the market before 26 February 2030;
+
+- c. the placing on the market of all other articles containing UV-328 that were first placed on the market in Switzerland or an EU or EFTA Member State before 1 January 2026.
+
+<sup>3</sup> The FOEN may, in response to a justified application, grant temporary exemptions from the prohibitions specified in Number 1 paragraph 1 for the placing on the market and use of preparations containing UV-328 and UV-328 for:
+
+- a. the manufacture of articles specified in paragraph 2 letter a: until 25 February 2030;
+- b. the manufacture of spare parts that may be placed on the market in accordance with paragraph 2 letter b: until 31 December 2043.
+
+<sup>4</sup> The FOEN shall grant an exemption in accordance with paragraph 3 if the measures required to protect human health and the environment are taken and emissions of UV-328 into the environment are reduced to a minimum.
+
+<sup>5</sup> An application in accordance with paragraph 3 must contain at least the following information:
+
+- a. the location of the use;
+- b. the intended use of UV-328 or preparations containing this substance;
+- c. the expected quantities used and information on the expected environmental impact of UV-328;
+- d. a description of the measures taken to minimise environmental inputs of UV-328 and human exposure as far as technically feasible and economically viable.
 
 Annex 1.2[^t-3]
 
@@ -572,7 +714,7 @@ Annex 1.2[^t-3]
 
 <sup>5</sup> For electrical and electronic equipment that contain octabromodiphenyl ether, Annex 2.18 applies.
 
-### 2 Exemptions
+### 2 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 1 paragraph 1 do not apply to:
 
@@ -654,7 +796,7 @@ Annex 1.3[^t-4]
 
 <sup>3</sup> It is prohibited to use hexachloroethane (CAS no 67-72-1) in the manufacturing or processing of non-ferrous metals.
 
-### 2 Exemptions
+### 2 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 1 paragraphs 1 and 2 do not apply to:
 
@@ -682,7 +824,7 @@ Annex 1.4[^t-5]
 
 ## Substances that deplete the ozone layer
 
-[^t-5]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-5]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definitions
 
@@ -732,7 +874,7 @@ Annex 1.4[^t-5]
 
 It is prohibited to manufacture substances that deplete the ozone layer.
 
-### 2.2 Exemption
+### 2.2 Exception
 
 The prohibition specified in Number 2.1 does not apply to the manufacture of regenerated substances that deplete the ozone layer.
 
@@ -740,25 +882,32 @@ The prohibition specified in Number 2.1 does not apply to the manufacture of reg
 
 ### 3.1 Prohibition
 
-It is prohibited to place on the market preparations and articles which:
+<sup>1</sup> It is prohibited to place on the market preparations and articles which:
 
 - a. contain substances that deplete the ozone layer;
 - b. were manufactured with substances that deplete the ozone layer and are listed in an Annex to the Montreal Protocol of 16 September 1987[^annex14-lvlu1-lvl3-lvl31-1] on Substances that Deplete the Ozone Layer (Montreal Protocol).
 
-[^annex14-lvlu1-lvl3-lvl31-1]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+<sup>2</sup> Substances that are listed in Annex II of Regulation (EU) 2024/573[^annex14-lvlu1-lvl3-lvl31-2] and are ozone-depleting substances must be placed on the market in reusable containers if they are intended for use:
 
-### 3.2 Exemptions
+- a. in accordance with Annex 2.9 number 3.3; or
+- b. in systems or equipment that may be placed on the market or imported for private purposes in accordance with Annex 2.10 numbers 2.1 and 2.2 and Annex 2.11 numbers 2.1 and 2.2.
+
+[^annex14-lvlu1-lvl3-lvl31-1]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex14-lvlu1-lvl3-lvl31-2]: Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014, version as per OJ L, 2024/573, 20.2.2024.
+
+### 3.2 Exceptions
 
 The prohibition specified in Number 3.1 does not apply to the placing on the market of:
 
-- a. preparations and articles for whose manufacture or maintenance substances that deplete the ozone layer may be used in accordance with Number 6.2 or on the basis of an exemption permit under Number 6.3.1 paragraph 1;
-- b. preparations and articles which may be placed on the market in accordance with the provisions of Annexes 2.9–2.11 and which, if imported, are imported from countries that comply with the provisions of the Montreal Protocol and the Amendments to the Protocol of 29 June 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 November 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 September 1997[^annex14-lvlu1-lvl3-lvl32-3] and 3 December 1999[^annex14-lvlu1-lvl3-lvl32-4], as approved by Switzerland;
+- a. preparations and articles for whose manufacture or maintenance substances that deplete the ozone layer may be used in accordance with Number 6.2 or on the basis of an exemption granted under Number 6.3.1 paragraph 1;
+- b. preparations and articles which may be placed on the market in accordance with the provisions of Annexes 2.9–2.11 and which, if imported, are imported from countries that comply with the provisions of the Montreal Protocol and the Amendments to the Protocol of 29 June 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 November 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 September 1997[^annex14-lvlu1-lvl3-lvl32-3] and 3 December 1999[^annex14-lvlu1-lvl3-lvl32-4], as approved by Switzerland[^annex14-lvlu1-lvl3-lvl32-5];
 - c. preparations deemed equivalent to substances that deplete the ozone layer as specified in Number 1 paragraph 2.
 
 [^annex14-lvlu1-lvl3-lvl32-1]: [SR 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)
 [^annex14-lvlu1-lvl3-lvl32-2]: [SR 0.814.021.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3487)
 [^annex14-lvlu1-lvl3-lvl32-3]: [SR 0.814.021.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3488)
 [^annex14-lvlu1-lvl3-lvl32-4]: [SR 0.814.021.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3489)
+[^annex14-lvlu1-lvl3-lvl32-5]: The list of these states can be found in the said amendments to the Montreal Protocol ([SR 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)**/.4**) in the section ‘Scope of application on …’.
 
 ### 3.3 Import of substances
 
@@ -770,10 +919,12 @@ Any person wishing to import substances that deplete the ozone layer as specifie
 
 <sup>1</sup> An import licence is granted on application, provided that:
 
-- a. the substances that deplete the ozone layer which are intended to be imported are for a permitted use as specified in Number 6.2 or the intended user has an exemption permit in accordance with Number 6.3.1 paragraph 1; and
-- b. the substances that deplete the ozone layer which are intended to be imported are imported from countries that comply with the Montreal Protocol provisions approved by Switzerland.
+- a. the substances that deplete the ozone layer which are intended to be imported are for a permitted use as specified in Number 6.2 or the intended user has been granted an exemption in accordance with Number 6.3.1 paragraph 1; and
+- b. the import comes from countries that have approved the Montreal Protocol and its amendments of 29 June 1990, 25 November 1992, 17 September 1997 and 3 December 1999[^annex14-lvlu1-lvl3-lvl33-lvl332-1].
 
 <sup>2</sup> In addition, for substances specified in Number 1 paragraph 1, the import licence is only issued for the quantities and uses approved by the Parties to the Montreal Protocol.
+
+[^annex14-lvlu1-lvl3-lvl33-lvl332-1]: The list of these states can be found in the said amendments to the Montreal Protocol ([SR 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)**/.4**) in the section ‘Scope of application on …’.
 
 ### 3.3.3 Principles
 
@@ -837,7 +988,9 @@ For substances that deplete the ozone layer as specified in Number 1 paragraph 1
 
 ### 4.2.2 Licence conditions
 
-An export licence is granted on application, provided the export is to countries that comply with the Montreal Protocol provisions approved by Switzerland.
+An export licence shall be granted on application if the export is to countries that have approved the Montreal Protocol and its amendments of 29 June 1990, 25 November 1992, 17 September 1997 and 3 December 1999[^annex14-lvlu1-lvl4-lvl42-lvl422-1].
+
+[^annex14-lvlu1-lvl4-lvl42-lvl422-1]: The list of these states can be found in the said amendments to the Montreal Protocol ([SR 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)**/.4**) in the section ‘Scope of application on …’.
 
 ### 4.2.3 Principles
 
@@ -868,7 +1021,7 @@ An export licence is granted on application, provided the export is to countries
 
 <sup>1</sup> The FOEN shall make a decision on the complete application within two months.
 
-<sup>2</sup> An export licence is issued for a period of 12 months and is numbered.
+<sup>2</sup> An export licence shall be issued for a maximum period of 12 months and shall be numbered.
 
 ### 4.2.6 Obligations relating to export and removal from storage
 
@@ -886,7 +1039,7 @@ An export licence is granted on application, provided the export is to countries
 
 <sup>2</sup> The reports must be classified by substance and intended use.
 
-### 5.2 Exemptions
+### 5.2 Exceptions
 
 The reporting requirements specified in Number 5.1 paragraph 1 do not apply to storage in, or removal to another country from, a customs bonded warehouse, a bulk goods warehouse or a duty-free warehouse.
 
@@ -896,7 +1049,7 @@ The reporting requirements specified in Number 5.1 paragraph 1 do not apply to s
 
 It is prohibited to use substances that deplete the ozone layer.
 
-### 6.2 Exemptions
+### 6.2 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 6.1 does not apply to the use of substances that deplete the ozone layer for the manufacture of preparations or articles which may be placed on the market or imported for private purposes in accordance with the provisions of Annexes 2.9–2.11.
 
@@ -907,17 +1060,17 @@ It is prohibited to use substances that deplete the ozone layer.
 
 [^annex14-lvlu1-lvl6-lvl62-1]: The text of this Decision may be obtained at [www.ozone.unep.org](http://www.ozone.unep.org) &gt; Treaties &gt; Montreal Protocol &gt; Decisions of the Meetings of the Parties to the Montreal Protocol &gt; Twenty-Sixth Meeting of the Parties &gt; Decision XXVI/5.
 
-### 6.3 Exemption permits
+### 6.3 Exemptions
 
 ### 6.3.1 Principles
 
 <sup>1</sup> On receipt of a justified application, the FOEN may grant temporary exemptions for other uses of substances that deplete the ozone layer.
 
-<sup>2</sup> It shall inform the cantons of the granting and revocation of exemption permits.
+<sup>2</sup> It shall inform the cantons of the granting and revocation of exemptions.
 
-### 6.3.2 Authorisation requirements
+### 6.3.2 Exemption requirements
 
-An exemption permit may be granted if:
+An exemption may be granted if:
 
 - a. according to the state of the art, no substitute is available for the substances that deplete the ozone layer or for the preparations and articles manufactured using these substances; and
 - b. the quantity of substances that deplete the ozone layer being used is no greater than is required for the intended purpose.
@@ -943,6 +1096,19 @@ An exemption permit may be granted if:
 
 The FOEN shall decide on complete applications within two months of receiving the decision of the Meeting of the Parties to the Montreal Protocol on the quantity of a particular substance which may be used during a particular period.
 
+### 6<sup>bis</sup> Special labelling
+
+<sup>1</sup> The manufacturer may only place on the market containers that contain or will contain substances listed in Annex II to Regulation (EU) 2024/573 and that are ozone-depleting substances if their labelling contains the following information:
+
+- a. the text: "Contains fluorinated greenhouse gases";
+- b. the abbreviated chemical names of the substances contained or to be contained in the containers, using the industrial nomenclature accepted for the area concerned;
+- c. the quantity of substances, in kg and tonnes of CO<sub>2</sub> equivalents, and the global warming potential of the substances.
+
+<sup>2</sup> The manufacturer of containers that contain or will contain substances referred to in paragraph 1 in recycled or reclaimed form in accordance with Article 3 paragraphs 12 and 13 of Regulation (EU) 2024/573 or in regenerated form in accordance with Number 1 paragraph 3 must indicate this on the containers:
+
+- a. the quality of the fabrics;
+- b. the name and address of the facility where the substances have been recycled, reprocessed or regenerated.
+
 ### 7 Transitional provision
 
 Preparations and articles which were manufactured with substances that deplete the ozone layer and are listed in an Annex to the Montreal Protocol (No. 3.2.1 let. b) may continue to be imported for one year after the relevant Annex to the Montreal Protocol comes into force.
@@ -953,13 +1119,13 @@ Annex 1.5[^t-6]
 
 ## Substances stable in the atmosphere
 
-[^t-6]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by the Annex to the O of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-6]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by the Annex to the O of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definition
 
 <sup>1</sup> Substances stable in the atmosphere are:
 
-- a. hydrofluorocarbons as listed in Annex F to the Montreal Protocol on Substances that Deplete the Ozone Layer[^annex15-lvlu1-lvl1-1];
+- a. hydrofluorocarbons in accordance with Annex F of the Montreal Protocol of 16 September 1987 on Substances that Deplete the Ozone Layer[^annex15-lvlu1-lvl1-1] (Montreal Protocol);
 - b. other fluorinated organic compounds[^annex15-lvlu1-lvl1-2] with a vapour pressure of at least 0.1 mbar at 20ºC or whose boiling point does not exceed 240ºC at 1013.25 mbar, and which have a mean atmospheric lifetime of at least 2 years;
 - c. sulfur hexafluoride (CAS no 2551-62-4);
 - d. nitrogen trifluoride (CAS no 7783-54-2).
@@ -990,7 +1156,7 @@ For substances stable in the atmosphere which are substances that deplete the oz
 
 The manufacture of hydrofluorocarbons as specified in Number 1 letter a is prohibited.
 
-### 3.2 Exemption
+### 3.2 Exception
 
 The prohibition specified in Number 3.1 does not apply to the manufacture of regenerated hydrofluorocarbons.
 
@@ -1000,19 +1166,19 @@ The prohibition specified in Number 3.1 does not apply to the manufacture of reg
 
 <sup>1</sup> It is prohibited to place on the market preparations and articles containing substances stable in the atmosphere.
 
-<sup>2</sup> Substances listed in Annex I to Regulation (EU) No 517/2014[^annex15-lvlu1-lvl4-lvl41-1] must be placed on the market in reusable containers if they are intended for use:
+<sup>2</sup> Substances that are listed in one of Annexes I-III of Regulation (EU) 2024/573[^annex15-lvlu1-lvl4-lvl41-1] and are stable in the atmosphere must be placed on the market in reusable containers if they are intended for use:
 
-- a. in accordance with Number 6.2 paragraph 2 or Annex 2.3 number 4.2; or
-- b. in systems and appliances that may be placed on the market or imported for private purposes in accordance with Annex 2.10 numbers 2.1 and 2.2 and Annex 2.11 numbers 2.1 and 2.2.
+- a. in accordance with Annex 2.3 number 4.2 or Annex 2.9 number 3.3; or
+- b. in systems or devices that may be placed on the market or imported for private purposes in accordance with Annex 2.10 numbers. 2.1 and 2.2, Annex 2.11 numbers 2.1 and 2.2 and Annex 2.19 numbers 2.1 and 2.2.
 
-[^annex15-lvlu1-lvl4-lvl41-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, Last amended by OJ L 150 of 20.5.2014, p. 195.
+[^annex15-lvlu1-lvl4-lvl41-1]: Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014, last amended by OJ L, 2024/573, 20.2.2024.
 
-### 4.2 Exemptions
+### 4.2 Exceptions
 
 Without prejudice to Number 8 paragraph 1, the prohibition specified in Number 4.1 paragraph 1 does not apply to the placing on the market of:
 
-- a. preparations and articles for whose manufacture or maintenance substances stable in the atmosphere may be used in accordance with Number 6.2 or on the basis of an exemption permit under Number 6.3.1 paragraph 1;
-- b. preparations and articles which may be placed on the market in accordance with the provisions of Annexes 2.3, 2.9, 2.10, 2.11 and 2.12; and
+- a. preparations and articles for whose manufacture or maintenance substances stable in the atmosphere may be used in accordance with Number 6.2 or on the basis of an exemption granted under Number 6.3.1 paragraph 1;
+- b. preparations and articles that may be placed on the market in accordance with the provisions of Annexes 2.3 and 2.9-2.11 and articles that may be placed on the market in accordance with the provisions of Annexes 2.12 and 2.19; and
 - c. preparations deemed equivalent to substances stable in the atmosphere as specified in Number 1 paragraph 2.
 
 ### 4.3 Import of substances
@@ -1023,7 +1189,7 @@ Any person wishing to import hydrofluorocarbons as specified in Number 1 paragra
 
 ### 4.3.2 Licence conditions
 
-Without prejudice to Number 8 paragraph 1, an import licence is granted on application, provided that the hydrofluorocarbons which are intended to be imported are for a permitted use as specified in Number 6.2 or the intended user has an exemption permit in accordance with Number 6.3.1 paragraph 1.
+Without prejudice to Number 8 paragraph 1, an import licence is granted on application, provided that the hydrofluorocarbons which are intended to be imported are for a permitted use as specified in Number 6.2 or the intended user has been granted an exemption in accordance with Number 6.3.1 paragraph 1.
 
 ### 4.3.3 Principles
 
@@ -1126,32 +1292,26 @@ An application must include:
 
 It is prohibited to use substances stable in the atmosphere.
 
-### 6.2 Exemptions
+### 6.2 Exceptions
 
-<sup>1</sup> Without prejudice to paragraph 3, the prohibition specified in Number 4.1 does not apply to the use of substances stable in the atmosphere:
+<sup>1</sup> Without prejudice to paragraph 2, the prohibition specified in Number 4.1 does not apply to the use of substances stable in the atmosphere:
 
-- a. for the manufacture or maintenance of preparations or articles which may be placed on the market or imported for private purposes in accordance with the provisions of Annexes 2.3 and 2.9–2.12;
+- a. for the manufacture or maintenance of preparations or articles that may be placed on the market or imported for private purposes in accordance with the provisions of Annexes 2.3 and 2.9-2.11, as well as articles that may be placed on the market or imported for private purposes in accordance with the provisions of Annexes 2.12 and 2.19;
 - b. 5% of the quantity of substances used;
 - c. as an intermediate in a process leading to complete chemical conversion, provided that emissions do not exceed 0.5% of the quantity of substances used;
 - d. as heat transfer or insulation fluids in welding machines and in testing and calibration baths;
-- e. for research and analysis purposes.
+- e. as medicinal products or medical devices;
+- f. for research and analysis purposes.
 
-<sup>2</sup> In addition, without prejudice to paragraph 3, the prohibition specified in Number 4.1 does not apply to the use of sulfur hexafluoride:
+<sup>2</sup> The exceptions under paragraph 1 only apply if:
 
-- a. for the manufacture of the high-voltage component of particle accelerators whose gas compartment is continuously monitored or hermetically sealed, in particular X-ray equipment, electron microscopes and industrial particle accelerators used in the production of plastics;
-- b. for the manufacture of mini-relays;
-- c. for the manufacture of electrical distribution systems with voltages according to the International Electrotechnical Commission (IEC) above 1 kV, whose gas compartment is continuously monitored or hermetically sealed in accordance with the standard SN EN 62271-1:2008[^annex15-lvlu1-lvl6-lvl62-1];
-- d. for the maintenance and operation of equipment and systems allowed to contain sulfur hexafluoride in accordance with letters a to c.
-
-<sup>3</sup> The exemptions specified in paragraphs 1 and 2 apply provided that:
-
-- a. according to the state of the art, no substitute is available either for the substances stable in the atmosphere or for the preparations and articles manufactured with or containing such substances;
+- a. no state-of-the-art alternative is available either for the substances stable in the atmosphere or for the preparations and articles manufactured with or containing these substances;
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
 - c. emissions of substances stable in the atmosphere are kept as low as possible throughout the life cycle of the intended use.
 
-[^annex15-lvlu1-lvl6-lvl62-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+<sup>3</sup> After consulting the industry concerned and the cantonal authorities responsible for enforcing this Ordinance, the FOEN shall issue recommendations on the state of the art in accordance with paragraph 2.
 
-### 6.3 Exemption permits
+### 6.3 Exemptions
 
 ### 6.3.1 Principles
 
@@ -1159,9 +1319,9 @@ It is prohibited to use substances stable in the atmosphere.
 
 <sup>2</sup> It shall inform the cantons of the granting and revocation of exemption permits.
 
-### 6.3.2 Authorisation requirements
+### 6.3.2 Exemption requirements
 
-An exemption permit may be granted if:
+An exemption may be granted if:
 
 - a. according to the state of the art, no substitute is available either for the substances stable in the atmosphere or for the preparations and articles manufactured with these substances;
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used is no greater than is required for the intended purpose according to the state of the art; and
@@ -1190,7 +1350,7 @@ An application must include:
 
 <sup>2</sup> The reports must be classified by substance and intended use.
 
-### 7.1.2 Exemptions
+### 7.1.2 Exceptions
 
 The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to:
 
@@ -1208,9 +1368,9 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 - a. the type and location of the appliance or system;
 - b. the quantity of sulfur hexafluoride contained therein;
 - c. the date of commissioning or decommissioning;
-- d. in the case of decommissioning: the recipient of the sulfur hexafluoride.
+- d. in the case of decommissioning: the recipient of the sulfur hexafluoride..
 
-### 7.2.2 Exemptions
+### 7.2.2 Exceptions
 
 <sup>1</sup> Parties to a sectoral agreement, as defined in Art. 41*a* of the Environmental Protection Act, on sulfur hexafluoride are exempt from the reporting requirements specified in Number 7.2.1 paragraph 1 if this agreement ensures that the FOEN will be duly informed.
 
@@ -1223,24 +1383,22 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 
 ### 7.3 Reporting by the FOEN
 
-The FOEN is responsible for reporting of data in accordance with Article 7 paragraph 3 of the Montreal Protocol on Substances that Deplete the Ozone Layer.
+The FOEN is responsible for reporting of data in accordance with Article 7 paragraph 3 of the Montreal Protocol.
 
 ### 8 Special labelling
 
-<sup>1</sup> The manufacturer may only place on the market containers containing or designed to contain substances listed in Annex I to Regulation (EU) No 517/2014[^annex15-lvlu1-lvl8-1] or switchgear containing sulfur hexafluoride or preparations with sulfur hexafluoride, if they are labelled with the following information:
+<sup>1</sup> The manufacturer may only place on the market containers that contain or will contain substances that are listed in one of Annexes I-III of Regulation (EU) 2024/573 and are stable in the atmosphere if their labelling contains the following information:
 
 - a. the text: «Contains fluorinated greenhouse gases»;
-- b. the abbreviated chemical names for the substances stable in the atmosphere contained or designed to be contained in the containers or systems, using the industry nomenclature accepted for the area concerned;
-- c. the quantity of the substances stable in the atmosphere, expressed in kilograms and in tonnes of CO<sub>2</sub> equivalent, and the global warming potential of the substances.
+- b. the abbreviated chemical names of the substances contained or to be contained in the containers, using the industrial nomenclature accepted for the area concerned;
+- c. the quantity of substances, in kg and tonnes of CO<sub>2</sub>-equivalents, and the global warming potential of the substances.
 
-<sup>1bis</sup> The manufacturer of containers that contain or will contain substances mentioned in paragraph 1 in recycled or reclaimed form in terms of Article 2 paragraphs 15 and 16 of Regulation (EU) No 517/2014 or in regenerated form in terms of Number 1 paragraph 3 must indicate on the containers:
+<sup>1bis</sup> The manufacturer of containers that contain or will contain substances mentioned in paragraph 1 in recycled or reclaimed form in terms of Article 3 paragraphs 12 and 13 of Regulation (EU) 2024/573 or in regenerated form in terms of Number 1 paragraph 3 must indicate on the containers:
 
 - a. the form of the substances;
 - b. the name and address of the facility in which the substances were recycled, reclaimed or regenerated.
 
-<sup>2</sup> The manufacturer of appliances or of systems other than those referred to in paragraph 1 which contain more than 1kg sulfur hexafluoride must indicate the presence of this substance on the appliances or systems and indicate the quantity of the substance contained in the appliances or systems.
-
-[^annex15-lvlu1-lvl8-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
+<sup>2</sup> The manufacturer of devices or systems containing more than 1 kg of sulphur hexafluoride must indicate this substance on the devices or systems and state the quantity of this substance contained in the devices or systems. For electrical systems and electrical devices containing sulphur hexafluoride as an insulating gas, the labelling requirements according to Annex 2.19 Number 2.3 apply.
 
 ### 9 Obligations in relation to chemical conversion processes
 
@@ -1254,16 +1412,13 @@ The FOEN is responsible for reporting of data in accordance with Article 7 parag
 
 <sup>2</sup> If the monitoring indicates that the obligation is not being complied with, the FOEN shall take the measures required. If necessary, it shall order the discontinuation of the manufacturing process concerned.
 
-### 10 Transitional provision
+### 10 Transitional provisions
 
-For containers containing substances stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex15-lvlu1-lvl10-1] (Kyoto Protocol) and switchgear containing sulfur hexafluoride or preparations with sulfur hexafluoride, labelling as specified in Number 5 of the ORRChem in the version of 11 December 2010[^annex15-lvlu1-lvl10-2] remains permitted until 31 May 2020.
+<sup>1</sup> If an alternative is available for substances stable in the atmosphere that were authorised for use on the basis of Number 6.2 paragraph 1 letter b-f in conjunction with paragraph 2 due to a change in the state of the art, these substances may continue to be used for the purposes specified in these letters for a period of 12 months.
 
-[^annex15-lvlu1-lvl10-1]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
-[^annex15-lvlu1-lvl10-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+<sup>2</sup> …[^annex15-lvlu1-lvl10-1]
 
-### 11 Transitional provision to the Amendment of 24 November 2021
-
-Substances in accordance with Number 1 paragraph 1<sup>bis</sup> letter f may continue to be manufactured until 30 June 2023 without converting the nitrous oxide generated.
+[^annex15-lvlu1-lvl10-1]: Comes into force on 1 Jan. 2028 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 Annex 1.6[^t-7]
 
@@ -1297,7 +1452,7 @@ It is prohibited:
 - c. to export asbestos-containing preparations or articles;
 - d. to use asbestos-containing preparations or articles.
 
-### 3 Exemptions
+### 3 Exceptions
 
 <sup>1</sup> On receipt of a justified request and with the agreement of the FOPH, the FOEN may grant exemptions to the prohibitions specified in Number 2 letters a and b if:
 
@@ -1322,7 +1477,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1410,7 +1565,7 @@ Annex 1.7[^t-8]
 [^annex17-lvlu1-lvl1-lvl11-2]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^annex17-lvlu1-lvl1-lvl11-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
-### 1.2 Exemptions
+### 1.2 Exceptions
 
 <sup>1</sup> The prohibitions of the placing on the market of mercury compounds specified in Number 1.1 paragraph 1 and of articles specified in Number 1.1 paragraph 3 do not apply for analysis and research purposes.
 
@@ -1441,15 +1596,15 @@ Annex 1.7[^t-8]
 
 [^annex17-lvlu1-lvl1-lvl12-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Directive (EU) 2017/2102 of the European Parliament and of the Council, OJ L 305 of 21.11.2017, p. 8.
 
-### 1.3 Exemptions with Authorisation
+### 1.3 Exemptions
 
 ### 1.3.1 Principle
 
 On receipt of a justified request, the FOEN may, with the agreement of the Federal Office of Public Health (FOPH), grant temporary exemptions from the prohibition specified in Number 1.1 paragraph 2 letter e.
 
-### 1.3.2 Authorisation requirements
+### 1.3.2 Exemption requirements
 
-An exemption permit is granted if:
+An exemption shall be granted if:
 
 - a. the use of the preparation or article is not possible without mercury for technical reasons or the use of the preparation or article is not financially viable for a medium-sized and economically healthy enterprise of the sector without mercury; and
 - b. evidence is provided that there are no significant risks for the environment and human health associated with the use of the mercury-containing preparation or mercury-containing article.
@@ -1478,7 +1633,7 @@ An application must contain at least:
 
 <sup>2</sup> In addition, any person who intends to store substances and preparations or any other mercury compounds specified in paragraph 1 in a customs bonded warehouse, in a customs warehouse for bulk goods or in a duty-free warehouse requires an import licence as specified in paragraph 1.
 
-### 1.4.2 Exemptions
+### 1.4.2 Exceptions
 
 No import licence is required by a person who:
 
@@ -1614,19 +1769,19 @@ Prohibited is the use of:
 - b. dental amalgam, if priority can be given to a different filling material for medical reasons;
 - c. mercury (CAS no 7439-97-6), mercury compounds and mercury-containing preparations as auxiliary substances in industrial manufacturing processes.
 
-### 3.2 Exemption authorisations
+### 3.2 Exemptions
 
 ### 3.2.1 Principle
 
 <sup>1</sup> On request, the FOEN, with the agreement of the FOPH, may grant temporary exemptions from the prohibition specified in Number 3.1 letter c if the mercury (CAS no 7439-97-6), the mercury compounds or the mercury-containing preparations are not be used for chlorine-alkali electrolysis or in the manufacture of acetaldehyde, vinyl chloride, sodium- or potassium-methylate or ethylate.
 
-<sup>2</sup> An authorisation granted within the meaning of paragraph 1 is subject to an authorisation granted on the basis of Number 2.2 paragraph 1 of this Annex in the version of 1 July 2015[^annex17-lvlu1-lvl3-lvl32-lvl321-1].
+<sup>2</sup> An exemption granted on the basis of Number 2.2 paragraph 1 of this Annex in the version of 1 July 2015[^annex17-lvlu1-lvl3-lvl32-lvl321-1] is regarded as a temporary exemption granted in accordance with paragraph 1.
 
 [^annex17-lvlu1-lvl3-lvl32-lvl321-1]: [AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
 
-### 3.2.2 Authorisation requirements
+### 3.2.2 Exemption requirements
 
-An exemption permit is granted, provided that:
+An exemption shall be granted, provided that:
 
 - a. mercury-free auxiliary substances cannot be used for technical reasons or the use of these auxiliary substances is not financially viable for a medium-sized and economically healthy enterprise of the sector; and
 - b. the volume of the mercury emissions into the environment is reduced to a minimum and measures necessary to protect human health and the environment are taken.
@@ -1681,7 +1836,7 @@ An application must contain at least:
 
 ### 4.3 Use
 
-A request based on the previous law under Number 2.2 paragraph 1 will be assessed in accordance with the previous law.
+A request for an exemption based on the previous law under Number 2.2 paragraph 1 will be assessed in accordance with the previous law.
 
 Annex 1.8[^t-9]
 
@@ -1711,7 +1866,7 @@ Annex 1.8[^t-9]
 
 [^annex18-lvlu1-lvl1-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
-### 2 Exemptions
+### 2 Exceptions
 
 The prohibitions specified in Number 1 do not apply to:
 
@@ -1766,7 +1921,7 @@ It is prohibited for the manufacturer to place on the market textiles containing
 
 <sup>2</sup> For the purposes of Number 4 letter a No 2 and 4, a *motor vehicle* means a category M, N or O vehicle as defined in Annex II Section A number 1 of Directive 2007/46/EC[^annex19-lvlu1-lvl2-lvl21-4].
 
-[^annex19-lvlu1-lvl2-lvl21-1]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, version in accordance with OJ L 212 of 22.8.2018, p. 1.
+[^annex19-lvlu1-lvl2-lvl21-1]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, last amended by OJ L 212 of 22.8.2018, p. 1.
 [^annex19-lvlu1-lvl2-lvl21-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^annex19-lvlu1-lvl2-lvl21-3]: The list of states can be found on the ICAO website at [www.icao.int](http://www.icao.int) &gt; About ICAO &gt; List Member States.
 [^annex19-lvlu1-lvl2-lvl21-4]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263 of 9.10.2007, p. 1; last amended by Regulation (EU) 2017/1347, OJ L 192 of 24.7.2017, p. 1.
@@ -1800,7 +1955,7 @@ It is prohibited for the manufacturer to place on the market textiles containing
 
 [^annex19-lvlu1-lvl3-lvl31-1]: The standard may be inspected free of charge or obtained for a fee from the Swiss Association for Standardization (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
-### 3.2 Exemption
+### 3.2 Exception
 
 Number 3.1 paragraph 1 does not apply to loose cellulose insulating material used in the manufacture of an article for which compliance with the emission limit for ammonia of 3 ppm is demonstrated in accordance with Number 2.1 paragraph 2.
 
@@ -1862,7 +2017,7 @@ Annex 1.10[^t-11]
 [^annex110-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) 2025/1731, OJ L, 2025/1731, 11.8.2025.
 [^annex110-lvlu1-lvl1-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Delegated Regulation (EU) 2024/197, OJ L, 2024/197, 5.1.2024.
 
-### 2 Exemptions
+### 2 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 1 paragraph 1 does not apply to:
 
@@ -1957,7 +2112,7 @@ Annex 1.12[^t-13]
 
 <sup>2</sup> It is also prohibited to place on the market and to use any substances or preparations with a benzene content of 0.1% or more by mass.
 
-### 1.2 Exemptions
+### 1.2 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 1.1 do not apply to the use of benzene or substances and preparations containing benzene:
 
@@ -2004,7 +2159,7 @@ Annex 1.13[^t-14]
 
 <sup>3</sup> It is prohibited to place on the market and to use blue colourant or any substances or preparations with a blue colourant content of 0.1% or more by mass for dyeing textiles or leather goods.
 
-### 3 Exemptions
+### 3 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 2 paragraphs 1 and 2 do not apply to placing on the market and use for analysis and research purposes.
 
@@ -2076,7 +2231,7 @@ It is prohibited:
 - b. to place on the market or use antifouling products containing trialkyl or triaryl tin compounds;
 - c. to manufacture or place on the market articles containing tri-substituted organotin compounds.
 
-### 2.3 Exemptions
+### 2.3 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 2.2 letters a and b do not apply for research and development purposes.
 
@@ -2090,7 +2245,7 @@ It is prohibited:
 
 <sup>2</sup> It is also prohibited to place on the market and to use any substances or preparations with a DBB content of 0.1% or more by mass.
 
-### 3.2 Exemptions
+### 3.2 Exceptions
 
 The prohibitions specified in Number 3.1 do not apply:
 
@@ -2149,11 +2304,11 @@ It is prohibited:
 - d. to place on the market tar-containing clay pigeons;
 - e. to place on the market tar-containing paints and varnishes.
 
-### 3 Exemptions
+### 3 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 2 are not applicable in cases where authorisations have been granted by the European Commission in accordance with Article 60 paragraph 1 of Regulation (EC) No 1907/2006[^annex115-lvlu1-lvl3-1].
 
-<sup>2</sup> On receipt of a justified request, the FOEN may, with the agreement of the FOPH and SECO, grant further (possibly temporary) exemptions to the prohibitions specified in Number 2 letters a–c and e, if:
+<sup>2</sup> On receipt of a justified request, the FOEN may, with the agreement of the FOPH and SECO, grant further (possibly temporary) exemptions from the prohibitions specified in Number 2 letters a–c and e, if:
 
 - a. in the current state of technology, no substitutes for tar-containing preparations are available;
 - b. the quantity of tar-containing preparations used is no greater than is essential for the intended purpose; and
@@ -2184,7 +2339,7 @@ Annex 1.16[^t-17]
 - a. a concentration of PFOS equal to or greater than 0.1% by mass calculated with reference to the mass of structurally or microstructurally distinct parts that contain PFOS; or
 - b. for textiles or other coated materials: an amount of PFOS equal to or greater than 1 µg/m<sup>2</sup> of the coated material.
 
-### 1.3 Exemptions
+### 1.3 Exceptions
 
 The prohibitions specified in Number 1.2 do not apply to manufacture, placing on the market or use for analysis and research purposes.
 
@@ -2211,7 +2366,7 @@ Precursor compounds of perfluorohexane sulfonic acid in the form of their linear
 - a. a concentration by mass of PFHxS of 0.0000025 per cent (25 ppb); or
 - b. a concentration by mass of the sum of PFHxS precursor compounds of 0.0001 per cent (1000 ppb).
 
-### 2.3 Exemptions
+### 2.3 Exceptions
 
 The prohibitions specified in Number 2.2 do not apply to manufacture, placing on the market and use for analysis and research purposes.
 
@@ -2255,7 +2410,7 @@ The prohibitions specified in Number 2.2 do not apply to manufacture, placing on
 - b. a content of the sum of PFOA precursor compounds of 0.0001 per cent (1000 ppb); or
 - c. a concentration by mass of the sum of C<sub>9</sub>–C<sub>14</sub>-PFCA precursor compounds of 0.000026 per cent (260 ppb).
 
-### 3.3 Exemptions
+### 3.3 Exceptions
 
 <sup>1</sup> The prohibitions in Number 3.2 paragraph 1 do not apply to:
 
@@ -2420,14 +2575,14 @@ Annex 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), of 10 Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), the correction of 26 Feb. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), No I of the O of 5 April 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) and No I of the FOEN O of 27 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^t-18]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the FOEN Ordinance of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), of 10 Jan. 2017 ([AS 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), of 27 Sept. 2018 ([AS 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), the correction of 26 Feb. 2019 ([AS 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN Ordinance of 29 Sept. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), No I of the O of 5 April 2023 ([AS 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), No I of the FOEN O of 27 Nov. 2023 ([AS 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 [^annex117-lvlu1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) No 2017/999, OJ L 150, 14.6.2017, p. 7.
 
 ### 1 Prohibitions
 
-It is prohibited to place on the market for use the substances listed in Number 5 or preparations containing such substances, or to use them on a professional or commercial basis, subject to the exemptions specified in Number 2 and in the list under Number 5.
+It is prohibited to place on the market for use the substances listed in Number 5 or preparations containing such substances, or to use them on a professional or commercial basis, subject to the exceptions specified in Number 2 and in the list under Number 5.
 
-### 2 Exemptions
+### 2 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 1 do not apply to use:
 
@@ -2579,7 +2734,7 @@ It is prohibited to place on the market for use the substances listed in Number 
 <tr><td>48.</td><td>Sodium perborate; perboric acid, sodium salt EC no: 239-172-9; 234-390-0 CAS no: –</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 Februar 2024</td><td></td><td></td></tr>
 <tr><td>49.</td><td>Sodium peroxometaborate EC no: 231-556-4 CAS no: 7632-04-4</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 February 2024</td><td></td><td></td></tr>
 <tr><td>50.</td><td>5-sec-Butyl-2-(2,4-dimethylcyclohex-3-en-1-yl)–5-methyl-1,3-dioxane [1], 5-sec-Butyl-2- (4,6-dimethylcyclohex-3-en-1-yl)-5-methyl- 1,3-dioxane [2] [includes each individual stereoisomer of [1] and [2] or any combination thereof] EC no: – CAS no: –</td><td>vPvB</td><td colspan="2">2 May 2024</td><td></td><td></td></tr>
-<tr><td>51.</td><td>2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol (UV-328) EC no: 247-384-8 CAS no: 25973-55-1</td><td>PBT, vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
+<tr><td>51.</td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>52.</td><td>2,4-Di-tert-butyl-6-(5-chlorbenzotriazol-2- yl)phenol (UV-327) EC no: 223-383-8 CAS no: 3864-99-1</td><td>vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
 <tr><td>53.</td><td>2-(2H-Benzotriazol-2-yl)-4-(tert-butyl)- 6- (sec-butyl)phenol (UV-350) EC no: 253-037-1 CAS no: 36437-37-3</td><td>vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
 <tr><td>54.</td><td>2-Benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320) EC no: 223-346-6 CAS no: 3846-71-7</td><td>PBT, vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
@@ -2649,7 +2804,7 @@ Annex 1.18[^t-19]
 
 <sup>6</sup> For the purposes of Number 5 letter a No 2 and 4, a motor vehicle means a category M, N or O vehicle as defined in Annex II Section A number 1 of Directive 2007/46/EC[^annex118-lvlu1-lvl1-4].
 
-[^annex118-lvlu1-lvl1-1]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, version in accordance with OJ L 212 of 22.8.2018, p. 1.
+[^annex118-lvlu1-lvl1-1]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91, last amended by OJ L 212 of 22.8.2018, p. 1.
 [^annex118-lvlu1-lvl1-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^annex118-lvlu1-lvl1-3]: The list of states can be found on the ICAO website at [www.icao.int](http://www.icao.int) &gt; About ICAO &gt; List Member States.
 [^annex118-lvlu1-lvl1-4]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263 of 9.10.2007, p. 1; last amended by Regulation (EU) 2017/1347, OJ L 192 of 24.7.2017, p. 1.
@@ -2668,9 +2823,9 @@ Annex 1.18[^t-19]
 
 For the placing on the market of phthalate-containing consumer articles, toys and utility articles for infants and small children, the FUAO applies.
 
-### 4 Exemptions
+### 4 Exceptions
 
-Exempted from the prohibition specified in Number 2 paragraph 1 are:
+The prohibition specified in Number 2 paragraph 1 does not apply to:
 
 - a. measuring devices for laboratory purposes and parts of such devices;
 - b. the immediate packaging of medicinal products within the scope of Regulation (EC) No 726/2004[^annex118-lvlu1-lvl4-1], Directive 2001/82/EC[^annex118-lvlu1-lvl4-2] and/or Directive 2001/83/EC[^annex118-lvlu1-lvl4-3];
@@ -2714,7 +2869,7 @@ Annex 1.19[^t-20]
 
 <sup>2</sup> It is prohibited to use substances and preparations listed in paragraph 1 for the chemical cleaning of textiles, leathers and furs.
 
-### 2 Exemptions
+### 2 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 1 paragraph 1 do not apply to placing on the market for the purposes of professional or commercial use as:
 
@@ -2911,7 +3066,7 @@ Annex 2.1[^t-21]
 
 [^annex21-lvlu1-lvl5-1]: International Nomenclature of Cosmetic Ingredients.
 
-### 6 Exemptions
+### 6 Exceptions
 
 <sup>1</sup> The requirements specified in Numbers 2–5 do not apply to the import of laundry detergents which are only finished or repackaged in Switzerland and then re‑exported in their entirety.
 
@@ -2944,7 +3099,7 @@ Annex 2.1[^t-21]
 - a. evidence has been presented to the FOEN showing that a request for an exemption for the area of use concerned was submitted in an EU member state before this date in accordance with the procedure specified in Regulation (EC) No 648/2004; or
 - b. a request for an exemption has been submitted to the FOEN in accordance with Number 6 paragraph 5.
 
-<sup>4</sup> The provisions of paragraphs 2 and 3 apply until a decision has been made by the relevant authority on the application for approval of an exemption.
+<sup>4</sup> The provisions of paragraphs 2 and 3 apply until a decision has been made by the relevant authority on the application for an exemption.
 
 Annex 2.2[^t-22]
 
@@ -3086,7 +3241,7 @@ Annex 2.2[^t-22]
 
 [^annex22-lvlu1-lvl5-1]: International Nomenclature of Cosmetic Ingredients.
 
-### 6 Exemptions
+### 6 Exceptions
 
 <sup>1</sup> The requirements specified in Numbers 2–5 do not apply to the import of cleaning products which are only finished or repackaged in Switzerland and then re‑exported in their entirety.
 
@@ -3126,7 +3281,7 @@ Annex 2.2[^t-22]
 - a. evidence has been presented to the FOEN showing that a request for an exemption for the area of use concerned was submitted in an EU member state before this date in accordance with the procedure specified in Regulation (EC) No 648/2004; or
 - b. a request for an exemption has been submitted to the FOEN in accordance with Number 6 paragraph 6.
 
-<sup>4</sup> The provisions of paragraphs 2 and 3 apply until a decision has been made by the relevant authority on the application for approval of an exemption.
+<sup>4</sup> The provisions of paragraphs 2 and 3 apply until a decision has been made by the relevant authority on the application for an exemption.
 
 <sup>5</sup> The prohibition specified in Number 2 paragraph 1<sup>bis</sup> and the requirements specified in Number 4 paragraph 1 do not apply to household machine dishwashing detergents first placed on the market before 1 January 2017.
 
@@ -3138,7 +3293,7 @@ Annex 2.3[^t-23]
 
 ## Solvents
 
-[^t-23]: Amended by No II 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-23]: Amended by No II 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Methanol
 
@@ -3166,7 +3321,7 @@ It is prohibited to place on the market:
 
 ### 1<sup>bis</sup>.2 Special labelling
 
-<sup>1</sup> Paints, other than spray paints, containing DEGBE in a concentration of 3% or more by mass ofd intended for supply to the general public must be labelled as follows: «Do not use in paint spraying equipment».
+<sup>1</sup> Paints, other than spray paints, containing DEGBE in a concentration of 3% or more by mass and intended for supply to the general public must be labelled as follows: «Do not use in paint spraying equipment».
 
 <sup>2</sup> …
 
@@ -3174,7 +3329,7 @@ It is prohibited to place on the market:
 
 ### 2.1 Special labelling
 
-<sup>1</sup> Neoprene-based contact adhesives containing cyclohexane (CAS no 110-82-7) in a concentration of 0.1% or more by mass ofd intended for supply to the general public must be labelled as follows: «This product is not to be used under conditions of poor ventilation. – This product is not to be used for carpet laying».
+<sup>1</sup> Neoprene-based contact adhesives containing cyclohexane (CAS no 110-82-7) in a concentration of 0.1% or more by mass and intended for supply to the general public must be labelled as follows: «This product is not to be used under conditions of poor ventilation. – This product is not to be used for carpet laying».
 
 <sup>2</sup> …
 
@@ -3208,11 +3363,11 @@ It is prohibited:
 - a. to manufacture, place on the market, import on a private basis or use substances that deplete the ozone layer (Annex 1.4) or substances stable in the atmosphere (Annex 1.5), or preparations containing such substances, for purposes of cleaning, dissolution, emulsification or suspension;
 - b. to manufacture, place on the market, or import on a private basis articles which contain substances that deplete the ozone layer (Annex 1.4) or substances stable in the atmosphere (Annex 1.5) for purposes of cleaning, dissolution, emulsification or suspension.
 
-### 4.2 Exemptions
+### 4.2 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 4.1 letter a does not apply to substances stable in the atmosphere, or preparations containing such substances, which are used in surface treatment installations as specified in Annex 2 Number 87 of the Air Pollution Control Ordinance of 16 December 1985[^annex23-lvlu1-lvl4-lvl42-1].
 
-<sup>2</sup> On receipt of a justified request, the FOEN may grant temporary exemptions to the prohibitions specified in Number 4.1 for further uses if:
+<sup>2</sup> On receipt of a justified request, the FOEN may grant temporary exemptions from the prohibitions specified in Number 4.1 for further uses if:
 
 - a. according to the state of the art, no substitute is available for the substances stable in the atmosphere, or for the preparations and articles containing such substances;
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
@@ -3222,15 +3377,13 @@ It is prohibited:
 
 ### 4.3 Special labelling
 
-<sup>1</sup> Containers containing or designed to contain substances which are listed in Annex I to Regulation (EU) No 517/2014[^annex23-lvlu1-lvl4-lvl43-1] must be labelled with the following information:
+The manufacturer may only place on the market containers that contain or will contain substances listed in one of Annexes I-III of Regulation (EU) 2024/573[^annex23-lvlu1-lvl4-lvl43-1] if their labelling contains the following information:
 
 - a. the text: «Contains fluorinated greenhouse gases»;
-- b. the abbreviated chemical names for the substances stable in the atmosphere contained in the containers, using the industry nomenclature accepted for the area concerned;
+- b. the abbreviated chemical names of the substances contained or to be contained in the containers, using the industrial nomenclature accepted for the area concerned;
 - c. the quantity of the substances expressed in kg and in tonnes of CO<sub>2</sub> equivalent, and the global warming potential of the substances.
 
-<sup>2</sup> ...
-
-[^annex23-lvlu1-lvl4-lvl43-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
+[^annex23-lvlu1-lvl4-lvl43-1]: See footnote to Annex 1.5 number 4.1 paragraph 2.
 
 ### 5 Halogenated solvent wastes handling
 
@@ -3271,22 +3424,13 @@ The canton may require holders of halogenated solvent wastes or companies who ac
 - b. to inform the canton of the results of their investigations;
 - c. to ensure that these wastes are recycled if this is technically feasible and economically viable and does not entail disproportionate use of energy.
 
-### 6 Transitional provisions
-
-<sup>1</sup> For paints, contact adhesives and paint strippers, labelling as specified in Numbers 1.2, 2.1 and 3.2 of the ORRChem in the version of 7 November 2012[^annex23-lvlu1-lvl6-1] remains permitted until 31 May 2020.
-
-<sup>2</sup> For containers containing substances stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex23-lvlu1-lvl6-2] (Kyoto Protocol), labelling as specified in Number 4.3 of the ORRChem in the version of 7 November 2012 remains permitted until 31 May 2020.
-
-[^annex23-lvlu1-lvl6-1]: [AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
-[^annex23-lvlu1-lvl6-2]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
-
 Annex 2.4[^t-24]
 
 (Art. 3)
 
 ## Biocidal products
 
-[^t-24]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No II of the O of 3 Sept. 2025, in force since 1 Oct. 2025 ([AS 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
+[^t-24]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No II of the O of 3 Sept. 2025, in force since 1 Oct. 2025 ([AS 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 ### 1 Wood preservatives
 
@@ -3322,7 +3466,7 @@ Annex 2.4[^t-24]
 - a. in the list of notified active substances specified in Article 9 paragraph 1 letter d, in conjunction with paragraph 2 letter b and paragraph 3 OBP; or
 - b. in Annex 1 List I or Annex 2 List IA OBP and complies with the requirements specified therein.
 
-### 1.3 Exemptions
+### 1.3 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 1.2 paragraph 1 letter b does not apply to wood preservatives containing tar oil if they:
 
@@ -3341,7 +3485,7 @@ Annex 2.4[^t-24]
 
 <sup>4</sup> The prohibition specified in Number 1.2 paragraph 3 does not apply to the import of wood which is only finished or repackaged in Switzerland and then re-exported in its entirety.
 
-<sup>5</sup> The Notification Authority (Art. 77 of the Chemicals Ordinance of 5 June 2015[^annex24-lvlu1-lvl1-lvl13-1]) may grant exceptions from the prohibition specified in Number 1.2 paragraph 3. It shall make its decision with the agreement of the competent assessment authorities specified in Article 52 OBP.
+<sup>5</sup> The Notification Authority (Art. 77 of the Chemicals Ordinance of 5 June 2015[^annex24-lvlu1-lvl1-lvl13-1]) may grant exemptions from the prohibition specified in Number 1.2 paragraph 3. It shall make its decision with the agreement of the competent assessment authorities specified in Article 52 OBP.
 
 [^annex24-lvlu1-lvl1-lvl13-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
@@ -3464,11 +3608,11 @@ Biocidal products used to control arthropods and microorganisms are:
 
 <sup>2</sup> Small quantities of biocidal products shall be taken back free of charge.
 
-### 6 Exemptions relating to biocidal products for research and development purposes
+### 6 Exceptions relating to biocidal products for research and development purposes
 
 The prohibitions specified in this Annex do not apply to the placing on the market of biocidal products for research and development purposes.
 
-### 7 Transitional provision
+### 7 Transitional provisions
 
 <sup>1</sup> The prohibition on use specified in Number 1.2 paragraph 2 does not apply to wood supplied by 31 December 2001 and used by 31 December 2011.
 
@@ -3520,14 +3664,14 @@ Annex 2.5[^t-25]
 
 <sup>3</sup> …
 
-<sup>4</sup> With regard to the use of plant protection products in the areas of contribution *Z**<sub>u</sub>* and *Z**<sub>o</sub>*, the cantons, taking account of the exemptions specified in Number 1.2 paragraphs 2, 4 and 5, shall specify restrictions going beyond those listed in paragraphs 1 and 2 if this is necessary to ensure water protection. In particular, they shall restrict the use of a plant protection product in the area of contribution *Z**<sub>u</sub>* if the active substances it contains or its degradation products repeatedly appear in a groundwater well of public interest
+<sup>4</sup> With regard to the use of plant protection products in the areas of contribution *Z**<sub>u</sub>* and *Z**<sub>o</sub>*, the cantons, taking account of the exceptions specified in Number 1.2 paragraphs 2, 4 and 5, shall specify restrictions going beyond those listed in paragraphs 1 and 2 if this is necessary to ensure water protection. In particular, they shall restrict the use of a plant protection product in the area of contribution *Z**<sub>u</sub>* if the active substances it contains or its degradation products repeatedly appear in a groundwater well of public interest
 
 <sup>5</sup> With regard to the use of plant protection products and basic substances on or alongside railway track installations outside groundwater protection zones S1, S2 and S<sub>h</sub>, the Federal Office of Transport shall specify the restrictions and prohibitions required to ensure protection of the environment. It shall take local conditions into account and consult the cantons concerned before making its decision.
 
 [^annex25-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex25-lvlu1-lvl1-lvl11-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
 
-### 1.2 Exemptions
+### 1.2 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 1.1 paragraph 1 letters a and b do not apply to the use of plant protection products and basic substances intended to preserve crops in closed installations or buildings, provided that measures are taken to prevent run-off and seepage of the products or their degradation products.
 
@@ -4065,7 +4209,7 @@ The quality requirements stipulated in Number 2.2.1.10 also apply to compost and
 
 The maximum permitted spread of materials obtained by pyrolysis or gasification in one year amounts to 1 t per hectare and 10 t per hectare over twenty years.
 
-### 3.3 Prohibitions and exemptions
+### 3.3 Prohibitions and exceptions
 
 ### 3.3.1 Prohibitions
 
@@ -4088,7 +4232,7 @@ The maximum permitted spread of materials obtained by pyrolysis or gasification 
 [^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex26-lvlu1-lvl3-lvl33-lvl331-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
 
-### 3.3.2 Exemptions
+### 3.3.2 Exceptions
 
 <sup>1</sup> Notwithstanding the prohibition specified in Number 3.3.1 paragraph 2, the cantonal authority may permit the spreading of a maximum of 20m<sup>3</sup> liquid farm manure and recycling fertilisers per hectare in groundwater protection zone S2 up to three times per growing season, at appropriate intervals, if the nature of the soil is such that no pathogenic microorganisms can enter the groundwater well or recharge facility.
 
@@ -4197,7 +4341,7 @@ Annex 2.8[^t-28]
 
 <sup>3</sup> The placing on the market of packaging and packaging components treated with cadmium- or lead-containing paints or varnishes is governed by Annex 2.16 Number 4.
 
-### 3 Exemptions
+### 3 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 2 paragraph 1 does not apply to the placing on the market of:
 
@@ -4275,13 +4419,13 @@ Annex 2.9[^t-29]
 
 It is prohibited to place on the market microplastics and preparations with a microplastic content of 0.01 per cent or more by mass if the microplastic is used to give the preparation a desired property.
 
-### 1.3 Exception
+### 1.3 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 1.2 does not apply to:
 
 - a. products for analysis and research purposes;
-- b. foodstuffs in accordance with Article 4 of the Foodstuffs Act of 20 June 2014 ( FSA )[^annex29-lvlu1-lvl1-lvl13-1];
-- c. feed in accordance with Article 3 paragraph 1 of the Feedstuffs Ordinance of 26 October 2011 ( FeedO )[^annex29-lvlu1-lvl1-lvl13-2];
+- b. foodstuffs in accordance with Article 4 of the Foodstuffs Act of 20 June 2014 (FSA)[^annex29-lvlu1-lvl1-lvl13-1];
+- c. feed in accordance with Article 3 paragraph 1 of the Feedstuffs Ordinance of 26 October 2011 (FeedO)[^annex29-lvlu1-lvl1-lvl13-2];
 - d. medicinal products in accordance with Article 4 paragraph 1 letter a of the Therapeutic Products Act of 15 December 2000 (TPA)[^annex29-lvlu1-lvl1-lvl13-3];
 - e. fertilisers that are growing media of category PFC 4 and contain microplastics in accordance with Annex II Part II CMC 9 point 1 letter c of Regulation (EU) 2019/1009.
 
@@ -4304,11 +4448,11 @@ It is prohibited to place on the market microplastics and preparations with a mi
 
 ### 1.5 Duty to provide information to the enforcement authority
 
-Any person who claims that microplastics or preparations containing microplastics are not considered to be microplastics on the basis of Number 1.1 paragraph 2 must on request submit to the cantonal authority:
+Any person who claims that microplastics or preparations containing microplastics are not considered to be microplastics on the basis of Number 1.1 paragraph 5 must on request submit to the cantonal authority:
 
-- a. documents that provide information on the specific identity of the polymer in accordance with Number 1.1. paragraph 2 letters a or b;
-- b. documents proving the degradability of the polymer specified in Number 1.1 paragraph 2 letter c in accordance with the requirements of Number 1.1 paragraph 3;
-- c. documents proving the water solubility of the polymer specified in Number 1.1 paragraph 2 letter d in accordance with the requirements of Number 1.1 paragraph 4.
+- a. documents that provide information on the specific identity of the polymer in accordance with Number 1.1 paragraph 5 letters a or b;
+- b. documents proving the degradability of the polymer specified in Number 1.1 paragraph 5 letter c in accordance with the requirements of Number 1.1 paragraph 6;
+- c. documents proving the water solubility of the polymer specified in Number 1.1 paragraph 5 letter d in accordance with the requirements of Number 1.1 paragraph 7.
 
 ### 1.6 Determination of the content by mass of microplastics
 
@@ -4356,7 +4500,7 @@ For aerosol dispensers used to produce foams, Annex 2.12 applies.
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
 - c. emissions of substances stable in the atmosphere are kept as low as possible throughout the life cycle of the intended use, in particular during the disposal of wastes from foams and from substances stable in the atmosphere contained therein.
 
-<sup>3</sup> The FOEN may grant a temporary exemption from the prohibitions specified in Number 3.2 paragraph 2 on justified application if
+<sup>3</sup> The FOEN may grant a temporary exemption from the prohibitions specified in Number 3.2 paragraph 2 on justified application if:
 
 - a. no state-of-the-art alternative is available for the substances stable in the atmosphere or for the preparations and articles manufactured using such substances;
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
@@ -4409,7 +4553,7 @@ PVC is defined as polymers and copolymers of vinyl chloride.
 
 Annex 2.16 number 4 applies to plastic packaging containing heavy metals.
 
-### 5.2.2. Prohibitions
+### 5.2.2 Prohibitions
 
 <sup>1</sup> It is prohibited to manufacture and place on the market preparations or articles containing plastics if the cadmium content in preparations is 0.01 per cent by mass or more and in articles 0.01 per cent by mass or more in the plastic.
 
@@ -4452,15 +4596,15 @@ Any person who places an article in accordance with Number 5.3 letter b on the m
 - b. Class T, R or S in accordance with Article 4 of Regulation (EU) No 167/2013[^annex29-lvlu1-lvl6-lvl61-2];
 - c. Classes L1e-L7e in accordance with Article 4 of Regulation (EU) No 168/2013[^annex29-lvlu1-lvl6-lvl61-3].
 
+### 6.2.1 Toys and articles for infants and toddlers
+
 [^annex29-lvlu1-lvl6-lvl61-1]: Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC, OJ L 151, 14.6.2018, p. 1; last amended by Regulation (EU) 2022/2236, OJ L 296, 16.11.2022, p. 1.
 [^annex29-lvlu1-lvl6-lvl61-2]: Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles, OJ L 60, 2.3.2013, p. 1; last amended by Regulation (EU) 2019/519, OJ L 91, 29.3.2019, p. 42.
 [^annex29-lvlu1-lvl6-lvl61-3]: Regulation (EC) No 168/2013 of the European Parliament and of the Council of 15 November 2013 on cosmetic products, OJ L 60, 2.3.2013, p. 52; last amended by Regulation (EU) No 2020/1694, OJ L 381, 13.11.2020, p. 4.
 
-### 6.2.1 Toys and articles for infants and toddlers
+The Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex29-lvlu1-lvl6-lvl61-lvl621-1] applies to toys and articles for infants and young children that contain polycyclic aromatic hydrocarbons in accordance with Number 6.2.2 paragraph 1 letter b.
 
-The Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex29-lvlu1-lvl6-lvl63-1] applies to toys and articles for infants and young children that contain polycyclic aromatic hydrocarbons in accordance with Number 6.2.2 paragraph 1 letter b.
-
-[^annex29-lvlu1-lvl6-lvl63-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex29-lvlu1-lvl6-lvl61-lvl621-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 6.2.2 Prohibitions
 
@@ -4521,7 +4665,8 @@ Plastic granulate or crumb placed on the market for use as infill material for a
 </table>
 
 - b. all other products that were placed on the market for the first time before 1 June 2026.
-- [tab] <sup>2</sup> Any person who places a preparation in accordance with paragraph 1 letter a on the market must, on request, submit to the competent cantonal authority documentation on the function of the microplastics in the preparation that demonstrates compliance with the relevant requirements for placing the preparation on the market.
+
+<sup>2</sup> Any person who places a preparation in accordance with paragraph 1 letter a on the market must, on request, submit to the competent cantonal authority documentation on the function of the microplastics in the preparation that demonstrates compliance with the relevant requirements for placing the preparation on the market.
 
 <sup>3</sup> The prohibitions specified in Number 2.2 do not apply to the placing on the market and use of oxo-degradable plastics that were first placed on the market before 1 October 2022.
 
@@ -4529,7 +4674,7 @@ Plastic granulate or crumb placed on the market for use as infill material for a
 
 <sup>5</sup> Until 30 November 2026, labelling in accordance with Number 4 paragraph 1 of the previous law is permitted instead of labelling in accordance with Number 3.4.
 
-<sup>6</sup> The prohibitions on manufacturing and placing on the market in accordance with Number 5.2.2 paragraph 2 do not apply to
+<sup>6</sup> The prohibitions on manufacturing and placing on the market in accordance with Number 5.2.2 paragraph 2 do not apply to:
 
 - a.
 
@@ -4674,7 +4819,7 @@ Annex 2.10[^t-30]
 
 <sup>7</sup> It is prohibited to place on the market systems for medium temperature cooling, low temperature cooling or a combination of the two with a cooling capacity of more than 10kW, if they contain more than 2kg per kW of cooling capacity of a refrigerant stable in the atmosphere and are not fitted with technology to reduce the refrigerant content by at least 15%.
 
-### 2.2 Exemptions
+### 2.2 Exceptions
 
 <sup>1</sup> The prohibitions specified in Number 2.1 paragraphs 1 letter b and 2 letters a–c do not apply to appliances belonging to a private household or which are placed on the market on a private basis or imported or exported on a private basis.
 
@@ -4728,7 +4873,7 @@ Annex 2.10[^t-30]
 
 <sup>7</sup> …
 
-<sup>8</sup> On receipt of a justified request, the FOEN may grant an exemption to the prohibition specified in Number 2.1 paragraph 3 if:
+<sup>8</sup> On receipt of a justified request, the FOEN may grant an exemption from the prohibition specified in Number 2.1 paragraph 3 if:
 
 - a.
 
@@ -4747,13 +4892,13 @@ Annex 2.10[^t-30]
 
 ### 2.3 Operator and information obligations relating to exemptions
 
-<sup>1</sup> A system, which may only be placed on the market if an exemption has been granted for it as specified in Number 2.2 paragraph 8[^annex210-lvlu1-lvl2-lvl23-1], may only be operated if the operator of this system has first ascertained that this authorisation is available.
+<sup>1</sup> A system, which may only be placed on the market if an exemption has been granted for it as specified in Number 2.2 paragraph 8[^annex210-lvlu1-lvl2-lvl23-1], may only be operated if the operator of this system has first ascertained that this exemption is available.
 
-<sup>2</sup> Any person who places such a system on the market shall provide the operator of this system with a copy of the exemption permit free of charge.
+<sup>2</sup> Any person who places such a system on the market shall provide the operator of this system with a copy of the exemption free of charge.
 
 [^annex210-lvlu1-lvl2-lvl23-1]: The reference was modified on 1 June 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
-### 2.4 Special labelling for professionnals
+### 2.4 Special labelling for professionals
 
 <sup>1</sup> Manufacturers of appliances and systems must provide on the appliance or system a clear indication of the types and quantities of refrigerants used.
 
@@ -4769,7 +4914,7 @@ Annex 2.10[^t-30]
 - a. contain refrigerants stable in the atmosphere which are listed in Annex I to Regulation (EU) No 517/2014; and
 - b. are insulated with foam blown with substances stable in the atmosphere which are listed in Annex I to Regulation (EU) No 517/2014 before being placed on the market.
 
-[^annex210-lvlu1-lvl2-lvl24-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
+[^annex210-lvlu1-lvl2-lvl24-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, last amended by OJ L 150 of 20.5.2014, p. 195.
 
 ### 2.5 Requirements for the supply of refrigerants
 
@@ -4790,7 +4935,7 @@ Any person who handles or uses refrigerants, or appliances or systems containing
 
 It is prohibited to refill appliances or systems with ozone-depleting refrigerants.
 
-### 3.2.2 Exemptions
+### 3.2.2 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 3.2.1 does not apply to refilling in systems placed on the market under the exemption specified in Number 2.2 paragraph 6.
 
@@ -4817,7 +4962,7 @@ The prohibition in number 3.3.1 does not apply to refilling:
 
 - a. regenerated refrigerants that are stable in the atmosphere with a global warming potential of 2500 or more;
 - b. non-regenerated refrigerants that are stable in the atmosphere with a global warming potential of 2500 or more in systems with a working temperature lower than –50°C, provided regenerated refrigerants are not available on the market for such systems;
-- c. non-regenerated refrigerants that are stable in the atmosphere with a global warming potential of 2500 or more in systems that have been placed on the market in terms of an exemption authorised in accordance with number 2.2 paragraph 8, provided regenerated refrigerants are not available on the market.
+- c. non-regenerated refrigerants that are stable in the atmosphere with a global warming potential of 2500 or more in systems that have been placed on the market in terms of an exemption granted in accordance with number 2.2 paragraph 8, provided regenerated refrigerants are not available on the market.
 
 ### 3.4 Leak checking and detection
 
@@ -4884,7 +5029,7 @@ The prohibition in number 3.3.1 does not apply to refilling:
 
 <sup>8</sup> The FOEN shall on request provide the Swiss Federal Office of Energy (SFOE) with the information mentioned in paragraph 2 letters a, c, d, and f.
 
-### 5.2 Exemptions
+### 5.2 Exception
 
 Reporting under Number 5.1 is not required for systems serving the interests of national defence.
 
@@ -4918,7 +5063,7 @@ Annex 2.11[^t-31]
 
 ## Extinguishing agents
 
-[^t-31]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No I of the O of 17 April 2019, in force since 1 June 2024 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-31]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definitions
 
@@ -4942,14 +5087,14 @@ For extinguishing agents containing PFOS or PFOA C<sub>9</sub>–C<sub>14</sub>-
 
 It is prohibited to place on the market or import on a private basis ozone-depleting extinguishing agents or extinguishing agents stable in the atmosphere, or appliances or systems containing such extinguishing agents.
 
-### 2.2 Exemptions
+### 2.2 Exceptions
 
-The prohibitions specified in Number 2.1 do not apply:
+The prohibitions specified in Number 2.1 do not apply to:
 
-- a. to supply for purposes of recycling;
-- b. to the import of portable extinguishers for use in one's own vehicle;
-- c. to the re-import of extinguishing agents for which there is proof that they were exported for recycling;
-- d. if, according to the state of the art for fire prevention, the safety of persons in aircraft, special-purpose military vehicles or nuclear installations cannot be adequately ensured without the use of ozone-depleting extinguishing agents or extinguishing agents stable in the atmosphere; the FOEN may in other similar cases grant temporary exemptions for the owners of individual items of property.
+- a. the re-import of extinguishing agents for which there is proof that they were exported for recycling;
+- b. the placing on the market of ozone-depleting extinguishing agents if the safety of persons in aeroplanes, in special armed forces vehicles or in nuclear installations is not sufficiently guaranteed according to the state of the art in fire prevention without the use of ozone-depleting extinguishing agents;
+- c. the import of portable fire extinguishers containing extinguishing agents stable in the atmosphere for use in one's own vehicle;
+- d. the placing on the market of extinguishing agents stable in the atmosphere and of equipment or installations containing such extinguishing agents if the safety of persons in aircraft, special-purpose military vehicles or nuclear installations cannot be adequately ensured without the use of extinguishing agents stable in the atmosphere; the FOEN may in other similar cases grant temporary exemptions for the owners of individual items of property.
 
 ### 3 Export
 
@@ -4961,11 +5106,9 @@ It is prohibited to export:
 - b. waste from ozone-depleting extinguishing agents; and
 - c. appliances and systems required for the use of ozone-depleting extinguishing agents.
 
-### 3.2 Exemptions
+### 3.2 Exceptions
 
-<sup>1</sup> Ozone-depleting extinguishing agents, together with appliances and systems required for the use of ozone-depleting extinguishing agents, may be exported for use in aircraft, in special purpose military vehicles and in nuclear installations if, according to the state of the art of fire prevention, the safety of persons cannot be adequately ensured without the use of ozone-depleting extinguishing agents.
-
-<sup>2</sup> Waste from ozone-depleting extinguishing agents may only be exported for neutralisation, disposal or treatment for re-importation.
+Ozone-depleting extinguishing agents, together with appliances and systems required for the use of ozone-depleting extinguishing agents, may be exported for use in aircraft, in special purpose military vehicles and in nuclear installations if, according to the state of the art of fire prevention, the safety of persons cannot be adequately ensured without the use of ozone-depleting extinguishing agents.
 
 ### 3.3 Export licence
 
@@ -5066,22 +5209,13 @@ Owners of appliances containing more than 8kg of ozone-depleting extinguishing a
 
 ### 8 Special labelling
 
-<sup>1</sup> Extinguishing appliances and systems containing or designed to contain extinguishing agents listed in Annex I to Regulation (EU) No 517/2014[^annex211-lvlu1-lvl8-1] must be labelled by manufacturers with the following information:
+The manufacturer may only place on the market extinguishing appliances and systems that contain or will contain extinguishing agents that are listed in any one of Annexes I-III of Regulation (EU) 2024/573[^annex211-lvlu1-lvl8-1] if their labelling contains the following information:
 
 - a. the text: «Contains fluorinated greenhouse gases»;
-- b. the abbreviated chemical names for the fluorinated greenhouse gases contained or designed to be contained, using the industry nomenclature accepted for the area concerned;
+- b. the abbreviated chemical names of the extinguishing agents contained or to be contained in the extinguishing appliances and systems, using the industrial nomenclature accepted for the area concerned;
 - c. the quantity of extinguishing agents, expressed in kilograms and in tonnes of CO<sub>2</sub> equivalent, and the global warming potential of the extinguishing agents.
 
-<sup>2</sup> …
-
-[^annex211-lvlu1-lvl8-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006 of the European Parliament and of the Council, version in accordance with OJ L 150 of 20.5.2014, p. 195.
-
-### 9 Transitional provision
-
-For extinguishing appliances and systems containing or designed to contain extinguishing agents stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex211-lvlu1-lvl9-1] (Kyoto Protocol), labelling as specified in Number 8 of the ORRChem in the version of 10 December 2010[^annex211-lvlu1-lvl9-2] remains permitted until 31 May 2020.
-
-[^annex211-lvlu1-lvl9-1]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
-[^annex211-lvlu1-lvl9-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex211-lvlu1-lvl8-1]: See footnote to Annex 1.5 number 4.1 paragraph 2.
 
 Annex 2.12[^t-32]
 
@@ -5089,7 +5223,7 @@ Annex 2.12[^t-32]
 
 ## Aerosol dispensers
 
-[^t-32]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by Annex No 3 of the Ordinance on Foodstuffs and Utility Articles of 16 Dec. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-32]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by Annex No 3 of the Ordinance on Foodstuffs and Utility Articles of 16 Dec. 2016 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definitions
 
@@ -5107,10 +5241,11 @@ Annex 2.12[^t-32]
 
 ### 2 Prohibitions
 
-<sup>1</sup> It is prohibited to manufacture or place on the market aerosol dispensers if they contain:
+<sup>1</sup> It is prohibited to manufacture, place on the market or import for private purposes aerosol dispensers if they:
 
-- a. substances that deplete the ozone layer (Annex 1.4); or
-- b. substances stable in the atmosphere (Annex 1.5).
+- a. contain ozone-depleting substances as defined in Annex 1.4 number 1 paragraph 1;
+- b. contain substances stable in the atmosphere as defined in Annex 1.5 number 1 paragraph 1; or
+- c. contain partially halogenated unsaturated fluorocarbons (HFOs) and substances that are neither ozone-depleting nor stable in the atmosphere.
 
 <sup>2</sup> It is prohibited to manufacture, place on the market, import on a private basis or use aerosol dispensers if they contain:
 
@@ -5136,31 +5271,44 @@ Annex 2.12[^t-32]
 [^annex212-lvlu1-lvl2-1]: Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196, 16.8.1967, p. 1, last amended by Directive 2009/2/EC, OJ L 11, 16.1.2009, p. 6.
 [^annex212-lvlu1-lvl2-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; in the version referred to Annex 2, No 1, of the Chemicals Ordinance of 5 June 2015 (ChemO).
 
-### 3 Exemptions
+### 3 Exceptions
 
-<sup>1</sup> The prohibitions specified in Number 2 paragraph 1 letter b do not apply to medicinal products or medical devices if:
-
-- a. according to the state of the art, no substitute is available for the substances stable in the atmosphere, or for the preparations and articles containing such substances; and
-- b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art.
-
-<sup>2</sup> On receipt of a justified request and with the agreement of the FOPH, the FOEN may grant a manufacturer a temporary exemption from the prohibition specified in Number 2 paragraph 1 letter b if:
+<sup>1</sup> The prohibitions specified in Number 2 paragraph 1 letters b and c do not apply to medicinal products or medical devices if:
 
 - a. according to the state of the art, no substitute is available for the substances stable in the atmosphere, or for the preparations and articles containing such substances; and
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art.
+
+<sup>2</sup> The prohibitions specified in Number 2 paragraph 1 letter c do not apply if, according to the state of the art, the safety requirements cannot be met without using aerosol dispensers that contain HFOs and substances that are neither ozone-depleting nor stable in the atmosphere.
 
 <sup>3</sup> The prohibition on supply to the general public specified in Number 2 paragraph 3 does not apply to aerosol dispensers which are referred to in Article 8 paragraph 1 letter a of Directive 75/324/EEC[^annex212-lvlu1-lvl3-1] and which meet the requirements specified therein.
+
+<sup>4</sup> After consulting the relevant industry and the cantonal authorities responsible for implementing this Ordinance, the FOEN shall issue recommendations on the state of the art in accordance with paragraphs 1 and 2.
 
 [^annex212-lvlu1-lvl3-1]: Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers, OJ L 147, 9.6.1975, p. 40; last amended by Regulation (EC) No 219/2009, OJ L 87, 31.3.2009, p. 109.
 
 ### 4 Special labelling
 
-<sup>1</sup> Aerosol dispensers as specified in Number 2 paragraph 3 must be labelled as follows: “For professional users only”.
+<sup>1</sup> Subject to Number 2 paragraph 1 letters b and c in conjunction with Number 3 paragraphs 1 and 2, the manufacturer may only place aerosol dispensers that contain or will contain substances listed in any one of Annexes I-III of Regulation (EU) 2024/573[^annex212-lvlu1-lvl4-1] on the market if their labelling contains the following information:
 
-<sup>2</sup> …
+- a. the text: ‘Contains fluorinated greenhouse gases’;
+- b. the abbreviated chemical names of the substances contained or to be contained in the aerosol dispensers, using the industrial nomenclature accepted for the area concerned;
+- c. the quantity of substances, in kg and tonnes of CO<sub>2</sub> equivalents and the global warming potential of the substances.
+
+<sup>2</sup> Aerosol dispensers in accordance with Number 2 paragraph 3 must be labelled as follows: ‘For professional users only’.
+
+[^annex212-lvlu1-lvl4-1]: See footnote to Annex 1.5 number 4.1 paragraph 1.
 
 ### 5 Reporting requirements
 
 Any persons who themselves fill or import aerosol dispensers with substances stable in the atmosphere must inform the FOEN, if so requested, of the quantities of the various substances used during the past three years; the information must be classified by import, consumption in Switzerland and export, as well as by intended use.
+
+### 6 …
+
+### 7 Transitional Provisions
+
+<sup>1</sup> The prohibitions specified in Number 2 paragraph 1 letter c do not apply to aerosol dispensers that do not contain personal care products until 31 December 2029.
+
+<sup>2</sup> If, due to a change in the state of the art, an alternative is available for medicinal products and medical devices that were authorised for use on the basis of Number 3 paragraph 1, these products and devices may continue to be manufactured and imported for professional or commercial purposes for 6 months and supplied to third parties for a further 12 months.
 
 Annex 2.13[^t-33]
 
@@ -5262,7 +5410,7 @@ Annex 2.15[^t-35]
 
 <sup>2</sup> Portable batteries, including those incorporated into appliances, must not be placed on the market if they contain more than 20 mg cadmium per kilogram.
 
-### 3 Exemptions
+### 3 Exceptions
 
 <sup>1</sup> …
 
@@ -5459,7 +5607,7 @@ Annex 2.16[^t-36]
 
 It is prohibited to place on the market or use cement and cement-containing preparations which contain, when hydrated, more than 0.0002% soluble chromium(VI) of the total dry mass of the cement.
 
-### 1.2 Exemptions
+### 1.2 Exceptions
 
 The prohibitions specified in Number 1.1 do not apply to placing on the market for, or use in, controlled closed and totally automated processes, and in processes in which cement and cement-containing preparations are handled solely by machines and in which there is no possibility of contact with the skin.
 
@@ -5505,7 +5653,7 @@ Cadmium-plated articles are:
 
 <sup>2</sup> For the placing on the market of electrical and electronic equipment, Annex 2.18 applies.
 
-### 2.3 Exemptions
+### 2.3 Exceptions
 
 <sup>1</sup> The prohibition on placing on the market specified in Number 2.2 does not apply to:
 
@@ -5547,7 +5695,7 @@ Brazing is a joining technique using alloys and undertaken at temperatures above
 
 It is prohibited to manufacture or place on the market brazing fillers with a cadmium content of 0.01% or more by mass.
 
-### 3<sup>bis</sup>.3 Exemptions
+### 3<sup>bis</sup>.3 Exception
 
 The prohibitions specified in Number 3<sup>bis</sup>.2 do not apply to brazing fillers used in defence and aerospace applications or used for safety reasons.
 
@@ -5573,9 +5721,9 @@ The prohibitions specified in Number 3<sup>bis</sup>.2 do not apply to brazing f
 
 For the placing on the market of consumer articles, toys, jewellery and candle wicks containing lead or lead compounds, intended for sale to the general public and which, or their accessible parts, can be put into the mouth by children under normal or reasonably foreseeable conditions of use, the FUAO applies.
 
-### 3<sup>ter</sup>.4 Exemptions
+### 3<sup>ter</sup>.4 Exceptions
 
-<sup>1</sup> Exempted from the prohibition specified in Number 3<sup>ter</sup>.2 are:
+<sup>1</sup> The prohibition specified in Number 3<sup>ter</sup>.2 does not apply to:
 
 - a. crystal glass in accordance with Annex I (crystal glass types 1, 2, 3 and 4) under Directive 69/493/ EEC[^annex216-lvlu1-lvl3ter-lvl3ter.4-1];
 - b. non-synthetic or reconstituted precious or semi-precious stones (customs tariff number 7103), insofar as they are not treated with lead or lead compounds or preparations containing these substances;
@@ -5606,7 +5754,7 @@ For the placing on the market of consumer articles, toys, jewellery and candle w
 
 It is prohibited for the manufacturer to place on the market packaging or packaging components with a heavy metal content in excess of 100mg/kg.
 
-### 4.3 Exemptions
+### 4.3 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 4.2 does not apply to the following:
 
@@ -5632,7 +5780,7 @@ It is prohibited for the manufacturer to place on the market packaging or packag
 
 Vehicles are cars and light duty vehicles in accordance with Directive 2000/53/EC[^annex216-lvlu1-lvl5-lvl51-1], covered by the categories M<sub>1</sub> or N<sub>1</sub> of Annex II A number 1 to Directive 2007/46/EC[^annex216-lvlu1-lvl5-lvl51-2].
 
-[^annex216-lvlu1-lvl5-lvl51-1]: Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles, version in accordance with OJ L 269, 21.10.2000, p. 34.
+[^annex216-lvlu1-lvl5-lvl51-1]: Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles, last amended by OJ L 269, 21.10.2000, p. 34.
 [^annex216-lvlu1-lvl5-lvl51-2]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263, 9.10.2007, p. 1; last amended by Commission Regulation (EU) 2015/45, OJ L 9, 15.1.2015, p. 1.
 
 ### 5.2 Prohibitions
@@ -5641,11 +5789,11 @@ Vehicles are cars and light duty vehicles in accordance with Directive 2000/53/E
 
 <sup>2</sup> It is also prohibited to place on the market new vehicles which contain materials or components as specified in paragraph 1.
 
-### 5.3 Exemptions
+### 5.3 Exceptions
 
 <sup>1</sup> The prohibition specified in Number 5.2 paragraph 1 does not apply to:
 
-- a. the vehicle materials and components listed without an exemption expiry date in Annex II to the Directive 2000/53/EC[^annex216-lvlu1-lvl5-lvl53-1], subject to the conditions stated in this Annex;
+- a. the vehicle materials and components listed without an expiry date in Annex II to the Directive 2000/53/EC[^annex216-lvlu1-lvl5-lvl53-1], subject to the conditions stated in this Annex;
 - b.
 
   spare parts for vehicles placed on the market for the first time before 1 August 2006, with the exception of:
@@ -5664,7 +5812,7 @@ Vehicle materials and components must be labelled or made identifiable by other 
 
 [^annex216-lvlu1-lvl5-lvl54-1]: See footnote to No 5.3 para. 1.
 
-### 5.5 Adaptation of the exemptions and labelling
+### 5.5 Adaptation of the exceptions and labelling
 
 <sup>1</sup> On receipt of a justified request, with the agreement of the FOPH, the FOEN may adapt Number 5.3 paragraph 1, Number 5.4 and Number 7 paragraph 2 to the version of Annex II to Directive 2000/53/EC[^annex216-lvlu1-lvl5-lvl55-1] in force.
 
@@ -5750,7 +5898,7 @@ Annex 2.17[^t-37]
 
 ### 3 Transitional Provisions
 
-The prohibitions under Number 1 paragraphs 2 and 3 do not apply to the placing on the market of
+The prohibitions under Number 1 paragraphs 2 and 3 do not apply to the placing on the market of:
 
 - a. articles that were first placed on the market in Switzerland or a member state of the EU or EFTA before 1 June 2027;
 - b. road vehicles that were first placed on the market in Switzerland or a member state of the EU or EFTA before 6 August 2027.
@@ -5815,7 +5963,7 @@ Annex 2.18[^t-38]
 
 [^annex218-lvlu1-lvl2-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174 of 1.7.2011, p. 88; last amended by Delegated Directive (EU) (EU) 2015/863, OJ L 137 of 4.6.2015, p. 10.
 
-### 3 Exemptions
+### 3 Exceptions
 
 The prohibitions specified in Number 2 do not apply to electrical and electronic equipment, cables and spare parts which contain substances included in Annexes III and IV to Directive 2011/65/EU[^annex218-lvlu1-lvl3-1] in the applications listed therein.
 
@@ -5946,7 +6094,171 @@ For batteries in electrical and electronic equipment, Annex 2.15 applies.
 - d. recovered from industrial monitoring and control instruments placed on the market before 22 July 2017 and used in electrical and electronic equipment placed on the market before 22 July 2027;
 - e. recovered from any other electrical and electronic equipment that was outside the scope of Directive 2002/95/EC and which is placed on the market before 22 July 2019, and used in electrical and electronic equipment placed on the market before 22 July 2029.
 
-<sup>5</sup> If new electrical and electronic equipment contains hexabromobiphenyl or polybrominated diphenyl ethers, with the exception of decabromodiphenyl ether, paragraph 1 letter a does not apply..
+<sup>5</sup> If new electrical and electronic equipment contains hexabromobiphenyl or polybrominated diphenyl ethers, with the exception of decabromodiphenyl ether, paragraph 1 letter a does not apply.
 
 [^annex218-lvlu1-lvl8-1]: Directive 2002/95/EC of the European Parliament and of the Council of 27 January 2003 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 37, 13.2.2003, p. 19; last amended by Decision 2011/534/EU, OJ L 234, 10.9.2011, p. 44; repealed by Directive 2011/65/EU, OJ L 174, 1.7.2011, p. 88.
 [^annex218-lvlu1-lvl8-2]: See footnote to No 1 para. 1.
+
+Annex 2.19[^t-39]
+
+(Art. 3)
+
+## Insulating gases in electrical systems and electrical devices
+
+[^t-39]: Inserted by No I para. 1 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+
+### 1 Definitions
+
+<sup>1</sup> Insulating gases are substances and preparations that are used in electrical installations and electrical equipment to ensure the required dielectric strength.
+
+<sup>2</sup> Insulating gases that contain substances stable in the atmosphere in accordance with Annex 1.5 number 1 paragraph 1 are deemed to be insulating gases stable in the atmosphere.
+
+<sup>3</sup> Partially halogenated unsaturated hydrofluorocarbon insulating gases (HFO insulating gases) are insulating gases that contain partially halogenated unsaturated hydrofluorocarbons (HFOs) but do not contain ozone-depleting substances in accordance with Annex 1.4 number 1 paragraph 1 or substances stable in the atmosphere in accordance with Annex 1.5 number 1 paragraph 1.
+
+<sup>4</sup> Fluoroketone insulating gases are insulating gases that contain fluorinated ketones but do not contain ozone-depleting substances in accordance with Annex 1.4 number 1 paragraph 1 or substances stable in the atmosphere in accordance with Annex 1.5 number 1 paragraph 1.
+
+<sup>5</sup> Switchgear and switching devices are electrical installations and electrical equipment intended for use in connection with the generation, transmission, distribution and conversion of electrical energy. A switchgear system consists of all components that are used to operate the switchgear system.
+
+<sup>6</sup> Primary and secondary distribution refers to the transport of electrical energy from the interface to the transmission grid to the interface at voltages of less than 1 kV.
+
+<sup>7</sup> The extension of existing electrical installations and electrical appliances with additional gas compartments is deemed equivalent to placing them on the market for the first time.
+
+### 2 Placing on the market and bringing into operation
+
+### 2.1 Prohibitions
+
+<sup>1</sup> It is prohibited to place on the market for the first time switchgear and control gear operated with insulating gases stable in the atmosphere, HFOs or fluoroketone insulating gases is prohibited if they have any of the following properties:
+
+- a. a maximum voltage of 24 kV for primary and secondary distribution;
+- b. a voltage of more than 24 kV and no more than 52 kV for primary and secondary distribution;
+- c. a voltage of more than 52 kV and not more than 145 kV and a short-circuit current of not more than 50 kA if the insulating gases have a global warming potential of 1 or more;
+- d. a voltage of more than 145 kV or, in the case of a voltage of more than 52 kV, a short-circuit current of more than 50 kA if the insulating gases have a global warming potential of 1 or more.
+
+<sup>2</sup> It is prohibited to place on the market for the first time other electrical systems and other electrical devices that are operated with insulating gases that are stable in the atmosphere.
+
+<sup>3</sup> It is prohibited to bring systems and devices into operation that have been placed on the market in contravention of paragraphs 1 or 2.
+
+### 2.2 Exceptions
+
+<sup>1</sup> The prohibitions specified in Number 2.1 paragraphs 1 and 2 do not apply to electrical equipment:
+
+- a. for the repair or maintenance of existing electrical installations if the repair or maintenance does not result in an expansion of the electrical installation or the quantity of CO<sub>2</sub> equivalents contained in the electrical installation, and
+- b. for the expansion of existing electrical installations if the expansion would not be compatible with the existing electrical installation without the use of the same insulating gas as already contained in the existing electrical installation and would therefore require the replacement of the entire installation.
+
+<sup>2</sup> The prohibition specified in Number 2.1 paragraph 1 does not apply if:
+
+- a. no state-of-the-art alternative is available;
+- b. the quantity and global warming potential of the insulating gases, HFOs or fluoroketone insulating gases stable in the atmosphere used are not greater than is necessary for the intended purpose according to the state of the art; and
+- c. the structural measures and monitoring measures available according to the state of the art have been taken to prevent emissions of the insulating gas.
+
+<sup>3</sup> The prohibition specified in Number 2.1 paragraph 1 does not apply if significant greenhouse gas emissions are avoided due to a state-of-the-art design and over the entire life cycle of the intended use.
+
+<sup>4</sup> The prohibition specified in Number 2.1 paragraph 2 does not apply to particle accelerators whose gas compartments are permanently monitored or hermetically sealed, or to mini-relays if:
+
+- a. no state-of-the-art alternative is available;
+- b. the quantity and the global warming potential of the insulating gases stable in the atmosphere used are no greater than is required for the intended purpose according to the state of the art; and
+- c. the structural measures and monitoring measures available according to the state of the art have been taken to prevent emissions of the insulating gas.
+
+### 2.3 Special labelling
+
+<sup>1</sup> The manufacturer may only place on the market containers that contain or will contain insulating gases that are listed in any one of Annexes I-III of Regulation (EU) 2024/573[^annex219-lvlu1-lvl2-lvl23-1] and are stable in the atmosphere if their labelling contains the following information:
+
+- a. the text: ‘Contains fluorinated greenhouse gases’;
+- b. the abbreviated chemical names of the insulating gases contained or to be contained in the switchgear or switching devices, using the industrial nomenclature accepted for the area concerned;
+- c. the quantity of insulating gases, in kg and in tonnes of CO<sub>2</sub> equivalents, as well as the global warming potential of the insulating gases;
+- d. for hermetically sealed switchgear and switching devices, the addition of the text: ‘hermetically sealed’;
+- e. where there is an annual leakage rate of less than 0.1%, the addition of the text: ‘Annual leakage rate &lt; 0.1%’.
+
+<sup>2</sup> The manufacturer of other electrical installations or other electrical equipment containing more than 1 kg of sulphur hexafluoride as an insulating gas must indicate this substance and the quantity contained on the electrical installations and electrical equipment.
+
+[^annex219-lvlu1-lvl2-lvl23-1]: See footnote to Annex 1.5 number 4.1 paragraph 2.
+
+### 3 Use
+
+### 3.1 Duty of care
+
+Any person who works with electrical systems or electrical devices that contain stable insulating gases, HFOs or fluoroketone insulating gases stable in the atmosphere, or with such insulating gases, must ensure that the insulating gases do not pose a risk to the environment, in particular by:
+
+- a. preventing emissions of these insulating gases as far as possible; and
+- b. ensuring the appropriate disposal of waste from these isolating gases.
+
+### 3.2 Refilling
+
+### 3.2.1 Prohibition
+
+It is prohibited to refill switchgear and switching devices with sulphur hexafluoride.
+
+### 3.2.2 Exceptions
+
+The prohibition specified in Number 3.2.1 does not apply to the refilling using:
+
+- a. regenerated sulphur hexafluoride;
+- b. non-regenerated sulphur hexafluoride, if regenerated sulphur hexafluoride cannot be used for technical reasons or is not available on the market.
+
+### 3.3 Leak checking and detection
+
+### 3.3.1 Duties
+
+<sup>1</sup> The owners of switchgear and switching devices containing more than 5 tonnes of CO<sub>2</sub>-equivalent insulating gases stable in the atmosphere or more than 1 kg of HFOs or fluoroketone insulating gases must arrange for leak checking to be carried out regularly.
+
+<sup>2</sup> The owners of switchgear and switching devices containing more than 500 tonnes of CO<sub>2</sub>-equivalent insulating gases stable in the atmosphere or more than 100 kg of HFOs or fluoroketone insulating gases which were brought into operation after 1 January 2017 must ensure that:
+
+- a. the switchgear and devices are fitted with a leak detection system that has an alert function;
+- b. the leak detection system is checked at least every 6 years.
+
+<sup>3</sup> If a leak is detected, the owner must arrange for the switchgear and switching device to be repaired immediately.
+
+### 3.3.2 Exceptions
+
+Number 3.3.1 paragraph 1 does not apply to switchgear and switching devices if these:
+
+- a. have a manufacturer-tested leakage rate of less than 0.1 % per year and are labelled accordingly;
+- b. are equipped with a leak detection system that has an alert function; or
+- c. contain less than 6 kg of insulating gases stable in the atmosphere.
+
+### 3.4 Maintenance log
+
+### 3.4.1 Duties
+
+<sup>1</sup> Owners of switchgear and switching devices that produce more than 5 tonnes of CO<sub>2</sub>-equivalent insulating gases stable in the atmosphere or more than 1 kg of HFOs or fluoroketone insulating gases must ensure that a maintenance log is kept.
+
+<sup>2</sup> The name of the owner of the switchgear and the switchgear device must appear in the maintenance log as well as information that allows the system and the device to be identified.
+
+<sup>3</sup> After each intervention or service, the specialist carrying out the work on the switchgear must record the following information in the maintenance log:
+
+- a. the date of the intervention or service;
+- b. a brief description of the work carried out;
+- c. the result of the leak check in accordance with Number 3.3;
+- d. the quantity and type of insulating gas extracted;
+- e. the quantity and type of insulating gas used to refill the switchgear and whether it is new or regenerated insulating gas;
+- f. the name of the company and the specialist’s own name and signature.
+
+### 3.4.2 Exceptions
+
+Number 3.4.1 does not apply to switchgear and devices that are exempt from the duty to check for leaks in accordance with Number 3.3.2.
+
+### 4 Disposal
+
+Any person accepting switchgear and switchgear containing insulating gases stable in the atmosphere, HFOs or fluoroketone insulating gases for disposal must remove the insulating gases contained therein and dispose of them separately and properly.
+
+### 5 Recommendations
+
+After consulting the relevant industry and the cantonal authorities responsible for implementing this Ordinance, the FOEN shall issue recommendations on:
+
+- a. the state of the art in accordance with Number 2.2 paragraphs 2-4;
+- b. leak checks in accordance with Number 3.3.1 paragraph 1.
+
+### 6 Transitional Provisions
+
+<sup>1</sup> The prohibition on first placing on the market in accordance with Number 2.1 paragraph 1 does not apply to switchgear and control gear:
+
+- a. for which there is proof that they were ordered before 1 January 2026;
+- b. in accordance with Number 2.1 paragraph 1 letter b; until 31 December 2029;
+- c. in accordance with Number 2.1 paragraph 1 letter c; until 31 December 2027;
+- d. in accordance with Number 2.1 paragraph 1 letter d; until 31 December 2031.
+
+<sup>2</sup> If, due to a change in the state of the art, an alternative is available for systems and devices that were authorised for use on the basis of Number 2.2 paragraphs 2-4, these systems and devices may still be placed on the market for the first time for two years.
+
+<sup>3</sup> The refilling prohibition specified in Number 3.2.1 does not apply until 31 December 2034.
+
+<sup>4</sup> Systems producing more than 500 tonnes of CO<sub>2</sub>-equivalent insulating gases stable in the atmosphere or more than 100 kg of HFOs or fluoroketone insulating gases which were brought into operation before 1 January 2026 may still be operated without a leak detection system until 31 December 2027..

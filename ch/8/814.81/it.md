@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2025-12-23
+version: 2026-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251223-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260101-it-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251223/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 23 dicembre 2025)
+del 18 maggio 2005 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 2 capoverso 4, 19, 22 capoverso 2, 24, 38, 39 capoverso 2, 44 capoverso 2, 45 capoversi 2 e 5 nonché 46 capoverso 1 della legge del 15 dicembre 2000[^ingress-1] sui prodotti chimici (LPChim); visti gli articoli 27 capoverso 2, 29, 30*a*, 30*b*, 30*c* capoverso 3, 30*d*, 32*a*<sup>bis</sup>, 38 capoverso 3, 39 capoversi 1 e 1<sup>bis</sup>, 41 capoverso 3, 44 capoversi 2 e 3, 46 capoversi 2 e 3 nonché 48 capoverso 2 della legge del 7 ottobre 1983[^ingress-2] sulla protezione dell’ambiente (LPAmb); visti gli articoli 9 capoverso 2 lettera c, 27 capoverso 2 e 48 capoverso 2 della legge federale del 24 gennaio 1991[^ingress-3] sulla protezione delle acque; visti gli articoli 15 capoversi 4 e 5 della legge del 20 giugno 2014[^ingress-4] sulle derrate alimentari; visto l’articolo 56 capoverso 2 della legge federale del 30 settembre 2016[^ingress-5] sull’energia (LEne); in esecuzione della legge federale del 6 ottobre 1995[^ingress-6] sugli ostacoli tecnici al commercio,[^ingress-7]
+visti gli articoli 2 capoverso 4, 19, 22 capoverso 2, 24, 38, 39 capoverso 2, 44 capoverso 2, 45 capoversi 2 e 5 e 46 capoverso 1 della legge del 15 dicembre 2000[^ingress-1] sui prodotti chimici (LPChim); visti gli articoli 27 capoverso 2, 29, 30*a*, 30*b*, 30*c* capoverso 3, 30*d*, 32*a*<sup>bis</sup>, 38 capoverso 3, 39 capoversi 1 e 1<sup>bis</sup>, 41 capoverso 3, 44 capoversi 2 e 3, 46 capoversi 2 e 3, 48 capoverso 2 e 63 capoverso 2 della legge del 7 ottobre 1983[^ingress-2] sulla protezione dell’ambiente (LPAmb); visti gli articoli 9 capoverso 2 lettera c, 27 capoverso 2 e 48 capoverso 2 della legge federale del 24 gennaio 1991[^ingress-3] sulla protezione delle acque; visto l’articolo 15 capoversi 4 e 5 della legge del 20 giugno 2014[^ingress-4] sulle derrate alimentari; visto l’articolo 56 capoverso 2 della legge federale del 30 settembre 2016[^ingress-5] sull’energia (LEne); in esecuzione della legge federale del 6 ottobre 1995[^ingress-6] sugli ostacoli tecnici al commercio,[^ingress-7]
 
 ordina:
 
@@ -31,7 +31,7 @@ ordina:
 [^ingress-4]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^ingress-5]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
-[^ingress-7]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^ingress-7]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -171,7 +171,7 @@ Quando il rilascio dell’autorizzazione compete ad un’autorità federale, pri
 
 <sup>1</sup>
 
-Le seguenti attività possono essere esercitate a titolo professionale o commerciale soltanto da persone fisiche che dispongono di un’apposita autorizzazione speciale o sotto la loro direzione:
+Le seguenti attività possono essere esercitate a titolo professionale o commerciale soltanto da persone fisiche che dispongono di un’apposita autorizzazione speciale, di una qualifica riconosciuta come equivalente o sotto la loro direzione:[^7-1]
 
 - a.
 
@@ -182,18 +182,21 @@ Le seguenti attività possono essere esercitate a titolo professionale o commerc
   - 3\. prodotti per la disinfezione dell’acqua nelle piscine pubbliche,
   - 4\. prodotti per la protezione del legno;
 
-- b.[^7-1]
+- b.[^7-2]
 
   l’utilizzazione di prodotti refrigeranti:
 
   - 1\. nella fabbricazione, nel montaggio, nella manutenzione e nello smaltimento di apparecchi o impianti che servono per la refrigerazione, la climatizzazione o la produzione di calore,
   - 2\. nello smaltimento di prodotti refrigeranti.
 
-<sup>2</sup> La lotta antiparassitaria con fumiganti può essere effettuata soltanto da persone fisiche che dispongono di un’apposita autorizzazione speciale.
+<sup>2</sup> La lotta antiparassitaria con fumiganti può essere effettuata soltanto da persone fisiche che dispongono di un’apposita autorizzazione speciale o di una qualifica riconosciuta come equivalente.[^7-3]
 
-<sup>3</sup> Il Dipartimento competente disciplina i dettagli delle autorizzazioni speciali. Può prevedere deroghe all’obbligo di autorizzazione e una limitazione temporale per le autorizzazioni speciali concernenti la lotta antiparassitaria con fumiganti. Nell’ambito di tale regolamentazione tiene conto degli obiettivi di protezione.
+<sup>3</sup> Il Dipartimento competente disciplina le modalità delle autorizzazioni speciali. Può prevedere deroghe all’obbligo di autorizzazione. Tiene conto degli obiettivi di protezione.[^7-4]
 
-[^7-1]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 7 nov. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 #### Art. 8
 
@@ -209,11 +212,11 @@ Un’autorizzazione speciale è rilasciata a chi ha dimostrato, nell’ambito di
 - d. la compatibilità ambientale nonché l’impiego e lo smaltimento corretti delle sostanze, dei preparati e degli oggetti;
 - e. gli apparecchi e il loro uso corretto.
 
-<sup>2</sup> Le corrispondenti autorizzazioni speciali rilasciate in Stati membri dell’UE e dell’AELS sono equiparate a quelle emesse in Svizzera.
+<sup>2</sup> Le corrispondenti autorizzazioni speciali dei Paesi membri dell’UE o dell’AELS sono equiparate a quelle emesse in Svizzera, fatte salve le disposizioni in materia di autorizzazioni speciali per l’impiego di prodotti fitosanitari.[^8-1]
 
-<sup>3</sup> Il Dipartimento competente o l’organo da esso designato decide, su domanda di una scuola o di un’istituzione di formazione professionale se un determinato diploma può essere considerato equivalente a un’autorizzazione speciale.
+<sup>3</sup> Su domanda di una scuola o di un’istituzione di formazione professionale, il Dipartimento competente o l’organo da esso designato decide se un determinato diploma può essere considerato equivalente a un’autorizzazione speciale. Tale equivalenza è esclusa per l’impiego di prodotti fitosanitari.[^8-2]
 
-<sup>4</sup> Il Dipartimento competente stabilisce quale organo, e a quali condizioni, riconosce l’esperienza professionale come equivalente a un’autorizzazione professionale.
+<sup>4</sup> Il Dipartimento competente stabilisce quale organo, e a quali condizioni, riconosce l’esperienza professionale come equivalente a un’autorizzazione speciale e fissa le condizioni che devono essere adempiute per tale riconoscimento. Tale equivalenza è esclusa per l’impiego di prodotti fitosanitari.[^8-3]
 
 <sup>5</sup>
 
@@ -223,17 +226,49 @@ Gli articoli 9–11 si applicano per analogia:
 - b. ai diplomi considerati equivalenti a un’autorizzazione speciale (cpv. 3);
 - c. all’esperienza professionale riconosciuta come equivalente a un’autorizzazione speciale (cpv. 4).
 
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+
+#### Art. 8a
+
+**Autorizzazioni speciali UE/AELS in materia di prodotti fitosanitari**[^8a-1]
+
+<sup>1</sup> L’equiparazione prevista dall’articolo 8 capoverso 2 è esclusa per le autorizzazioni speciali che consentono l’impiego di prodotti fitosanitari alle persone residenti in Svizzera ai sensi dell’Accordo del 21 giugno 1999[^8a-2] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone dell’allegato K della Convenzione istitutiva dell’Associazione europea di libero scambio del 4 gennaio 1960[^8a-3].
+
+<sup>2</sup> Su richiesta dei titolari di autorizzazioni speciali corrispondenti rilasciate in Stati membri dell’UE o dell’AELS, il Dipartimento competente decide se riconoscere le loro qualifiche professionali. Tale riconoscimento consente di ottenere un’autorizzazione speciale svizzera.
+
+<sup>3</sup> Se il Dipartimento constata differenze sostanziali tra la formazione straniera e quella svizzera, prevede misure volte a compensarle (provvedimenti di compensazione), segnatamente sotto forma di un esame o di un tirocinio di adattamento.
+
+<sup>4</sup> I prestatori di servizi sono dispensati dal riconoscimento. Tuttavia sono soggetti alla legislazione svizzera in materia di dichiarazione e verifica delle loro qualifiche professionali.
+
+[^8a-1]: Introdotto dalla cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^8a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^8a-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+
 #### Art. 9
 
-**Campo d’applicazione locale**
+**Campo d’applicazione territoriale e temporale**[^9-1]
 
-Le autorizzazioni speciali sono valide in tutta la Svizzera.
+<sup>1</sup> L’autorizzazione speciale è valida in tutta la Svizzera.
+
+<sup>2</sup> L’autorizzazione speciale che consente l’impiego a titolo professionale o commerciale dei prodotti fitosanitari in virtù dell’articolo 7 capoverso 1 lettera a ha una validità di cinque anni. Può essere prorogata di volta in volta di cinque anni, purché il suo titolare abbia seguito la formazione continua di cui all’articolo 10 prima della scadenza dell’autorizzazione speciale.
+
+<sup>3</sup> Il Dipartimento competente può limitare la durata di validità delle autorizzazioni speciali.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 #### Art. 10
 
-**Obbligo di perfezionamento**
+**Formazione continua obbligatoria**[^10-1]
 
-Chi possiede un’autorizzazione speciale e svolge un’attività corrispondente ha l’obbligo di informarsi regolarmente sulla migliore pratica professionale e di perfezionarsi.
+<sup>1</sup> Chiunque sia titolare di un’autorizzazione speciale e svolga un’attività corrispondente deve informarsi regolarmente sull’evoluzione della pratica professionale e seguire corsi di formazione continua.
+
+<sup>2</sup> Il Dipartimento competente può stabilire, se necessario, le modalità della formazione continua obbligatoria, segnatamente la portata, il contenuto e le condizioni, nonché il riconoscimento e il controllo degli organi incaricati della formazione continua.
+
+<sup>3</sup> Per le autorizzazioni speciali che consentono l’impiego di prodotti fitosanitari a titolo professionale o commerciale, la formazione continua deve essere seguita presso gli organi di formazione riconosciuti dall’UFAM.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 #### Art. 11
 
@@ -241,12 +276,14 @@ Chi possiede un’autorizzazione speciale e svolge un’attività corrispondente
 
 <sup>1</sup>
 
-Se il titolare di un’autorizzazione speciale contravviene intenzionalmente o per ripetuta negligenza alle prescrizioni previste dalla legislazione in materia di protezione dell’ambiente, della salute e dei lavoratori per quanto riguarda il campo d’applicazione della sua autorizzazione speciale, l’autorità cantonale può, con un’apposita decisione:
+Se il titolare di un’autorizzazione speciale contravviene alle prescrizioni previste dalla legislazione in materia di protezione dell’ambiente, della salute o dei lavoratori riguardanti il campo d’applicazione della sua autorizzazione speciale, l’autorità cantonale può, mediante decisione:[^11-1]
 
 - a. esigere che il titolare dell’autorizzazione speciale frequenti un corso o sostenga un esame professionale; o
 - b. revocare l’autorizzazione speciale per un periodo limitato o definitivamente.
 
 <sup>2</sup> L’autorità cantonale comunica le sue decisioni all’ufficio federale competente.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 #### Art. 12
 
@@ -263,9 +300,39 @@ Il Dipartimento definisce:
 - a. il contenuto, l’ampiezza e la procedura degli esami professionali;
 - b. gli obblighi di documentazione degli organi d’esame.
 
-<sup>4</sup> Il Dipartimento o l’organo da esso designato definisce gli organi responsabili degli esami e del rilascio delle autorizzazioni speciali.
+<sup>4</sup> Il Dipartimento o l’organo da esso designato definisce gli organi che sono incaricati degli esami, tengono gli esami e rilasciano le autorizzazioni speciali. Le autorizzazioni speciali che consentono di utilizzare prodotti fitosanitari a titolo professionale o commerciale sono rilasciate dall’UFAM.[^12-1]
 
 <sup>5</sup> Il DATEC offre possibilità di preparazione agli esami professionali nell’ambito della sua sfera di competenza.
+
+<sup>6</sup>
+
+Per le autorizzazioni speciali che consentono di utilizzare prodotti fitosanitari a titolo professionale o commerciale, l’UFAM:
+
+- a. decide, su richiesta scritta, se un organo incaricato della formazione continua può essere riconosciuto per proporre una formazione continua secondo l’articolo 10;
+- b. controlla gli organi incaricati della formazione continua;
+- c. revoca il riconoscimento a un organo incaricato della formazione continua se, nonostante un avvertimento, non attua le misure correttive ordinate.[^12-2]
+
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^12-2]: Introdotto dalla cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+
+#### Art. 12a
+
+**Finanziamento degli organi incaricati degli esami e delle formazioni**[^12a-1]
+
+<sup>1</sup>
+
+In virtù dell’articolo 49 capoverso 1 LPAmb, su richiesta presentata all’UFAM la Confederazione può concedere aiuti finanziari per le formazioni di base e continue agli organi incaricati degli esami e delle formazioni. Questi organi possono ottenere gli aiuti finanziari nei seguenti settori:
+
+- a. agricoltura;
+- b. orticoltura;
+- c. settori particolari, ovvero impiego di erbicidi nell’agricoltura e nella manutenzione delle infrastrutture ferroviarie, dei terreni militari, dell’area esterna di edifici residenziali o di servizi nonché degli edifici commerciali, industriali o pubblici;
+- d. economia forestale.
+
+<sup>2</sup> Gli aiuti finanziari sono versati sotto forma d’importo forfettario e ammontano al massimo al 50 per cento delle spese necessarie per una formazione efficace. Tali spese includono la concezione, l’organizzazione, la preparazione e lo svolgimento degli esami e dei corsi di formazione.
+
+<sup>3</sup> Il DATEC disciplina il contenuto e gli obiettivi delle formazioni e fissa i criteri determinanti per la concessione degli aiuti finanziari mediante ordinanza. In generale, i contenuti, gli obiettivi e i criteri sono stabiliti per il periodo coperto dalla decisione di finanziamento.
+
+[^12a-1]: Introdotto dalla cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
 
 ## Capitolo 3: Esecuzione
 
@@ -387,11 +454,18 @@ L’obbligo di pagare gli emolumenti e il calcolo degli stessi per atti amminist
 
 #### Art. 23a
 
-**Disposizione transitoria della modifica dell’11 marzo 2022**[^23a-1]
+**Disposizioni transitorie relative alla modifica del 16 novembre 2022**[^23a-1]
 
-Le sostanze, i preparati, gli apparecchi, gli oggetti e gli impianti etichettati secondo il diritto anteriore possono essere forniti a terzi fino al 31 dicembre 2025.
+<sup>1</sup> I titolari di un’abilitazione all’impiego di prodotti fitosanitari rilasciata secondo l’articolo 8 capoversi 1, 3 o 4 in vigore fino al 31 dicembre 2025 possono annunciare questa abilitazione all’UFAM entro il 30 giugno 2026 al fine di sostituirla.
 
-[^23a-1]: Introdotto dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+<sup>2</sup> Le abilitazioni rilasciate secondo il diritto previgente e annunciate entro il 30 giugno 2026 sono sostituite con un’autorizzazione speciale valida per cinque anni i cui dati sono contenuti nel Registro Autorizzazioni speciali di cui all’articolo 1 dell’ordinanza del 16 novembre 2022[^23a-2] concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari.
+
+<sup>3</sup> I titolari che hanno ottenuto l’abilitazione prima del 1° gennaio 2000 devono seguire l’intera formazione continua ai sensi dell’articolo 9 capoverso 3 entro il 31 dicembre 2029.
+
+<sup>4</sup> Le abilitazioni rilasciate secondo il diritto previgente non sono più valide dal 1° gennaio 2027.
+
+[^23a-1]: Introdotto dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Nuovo testo giusta la cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2022 788](https://fedlex.data.admin.ch/eli/oc/2022/788)).
+[^23a-2]: [RS 814.88](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40086)
 
 #### Art. 24
 
@@ -403,7 +477,7 @@ Allegati[^t-1]
 
 ## 1 Disposizioni per determinate sostanze
 
-[^t-1]: Aggiornato dalla cifra I delle O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 27 nov. 2024 ([RU 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)) ), del 27 nov. 2024 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)) e dalla cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-1]: Aggiornato dalla cifra I delle O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 27 nov. 2024 ([RU 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)), del 27 nov. 2024 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)) e del 29 ott. 2025, in vigore dal 1° gen. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 - 1\.1 Inquinanti organici persistenti
 - 1\.2 Sostanze organiche alogenate
@@ -445,6 +519,7 @@ Allegati[^t-1]
 - 2\.16 Disposizioni particolari concernenti i metalli
 - 2\.17 Oggetti a base di materiali legnosi e altri oggetti contenenti resina
 - 2\.18 Apparecchiature elettriche ed elettroniche
+- 2\.19 Gas isolanti in impianti e apparecchi elettrici
 
 Allegato 1
 
@@ -456,7 +531,7 @@ Allegato 1.1[^t-2]
 
 ## Inquinanti organici persistenti
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dai dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dalla cifra I delle O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dalla cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Divieti
 
@@ -467,7 +542,11 @@ Allegato 1.1[^t-2]
 
 <sup>2</sup> Gli oggetti nuovi non possono essere immessi sul mercato se essi o i loro componenti contengono inquinanti organici persistenti di cui al numero 3 non solo come impurità inevitabile.
 
-<sup>3</sup> Per l’acido perfluorottano sulfonato e suoi derivati (PFOS) nonché per l’acido perfluoroottanoico (PFOA) e le sue sostanze correlate si applica l’allegato 1.16.
+<sup>3</sup> L’allegato 1.16 si applica alle seguenti sostanze:
+
+- a. acido perfluorottano sulfonato e suoi derivati (PFOS);
+- b. acido perfluoroesano sulfonico (PFHxS) e le sue sostanze correlate;
+- c. acido perfluoroottanoico (PFOA) e le sue sostanze correlate.
 
 <sup>4</sup> Per le apparecchiature elettriche ed elettroniche che contengono esabromobifenile o difenileteri bromati si applica l’allegato 2.18.
 
@@ -509,7 +588,9 @@ Allegato 1.1[^t-2]
   - – eptacloro (n. CAS 76-44-8) ed eptacloro epossido (n. CAS 1024-57-3);
   - – mirex (n. CAS 2385-85-5);
   - – toxafene (n. CAS 8001-35-2);
-  - – acido perfluorottanoico (PFOA) e le sue sostanze correlate.
+  - – acido perfluorottanoico (PFOA) e le sue sostanze correlate;
+  - – acido perfluoroesano sulfonico (PFHxS) e le sue sostanze correlate;
+  - – 1,6,7,8,9,14,15,16,17,17,18,18-dodecacloropentaciclo[12.2.1.1<sup>6,9</sup>.0<sup>2,13</sup>.0<sup>5,10</sup>]ottadeca-7,15-diene (Dechloran Plus, n. CAS 13560‑89‑9) inclusi i suoi *anti* e *syn* isomeri (n. CAS 135821‑74‑8 e n. CAS 135821‑03‑3).
 
 - b. *Monoaromatici alogenati*
   - – pentaclorobenzene (n. CAS 608-93-5);
@@ -530,19 +611,82 @@ Allegato 1.1[^t-2]
 
 - e. *DDT e* *composti simili al DDT*
   - – diclorodifeniltricloroetano (DDT);
-  - – dicofol (n. CAS 115-32-2).
+  - – dicofol (n. CAS 115-32-2);
+  - – metoxicloro (n. CAS 72-43-5).
+
+- f. *Benzotriazoli*
+  - – 2-(2*H*-benzotriazol-2-il)-4,6-di-*terz*-pentilfenolo (UV-328, n. CAS 25973-55-1).
 
 ### 4 Disposizioni transitorie
 
-<sup>1</sup> I divieti di cui al numero 1 capoverso 1 lettera b nonché capoverso 2 entrano in vigore il 1° marzo 2016 per:
+<sup>1</sup> I divieti di cui al numero 1 capoversi 1 e 2 non si applicano:
 
-- a. l’immissione sul mercato e l’impiego di polistirene espansibile contenente HBCDD, per la fabbricazione di pannelli isolanti destinati all’impiego dentro e fuori gli edifici;
-- b. la prima immissione sul mercato di pannelli isolanti in polistirene espanso contenente HBCDD, per l’impiego all’interno e all’esterno di edifici;
-- c. la prima immissione sul mercato di pannelli isolanti in polistirene estruso contenente HBCDD, per l’impiego all’interno e all’esterno di edifici.
+- a.
 
-<sup>2</sup> Il divieto di cui al numero 1 capoverso 2 non si applica ai pannelli isolanti di polistirene espanso o estruso per l’impiego all’interno e all’esterno di edifici se i pannelli isolanti sono fabbricati con sezioni contenenti HBCDD che risultano dalla lavorazione dentro e fuori gli edifici di pannelli isolanti nuovi.
+  all’immissione sul mercato dei seguenti oggetti contenenti Dechloran Plus che sono stati immessi per la prima volta sul mercato prima del 26 febbraio 2030:
 
-<sup>3</sup> Su domanda motivata, l’UFAMpuò concedere deroghe temporanee ai divieti di cui al capoverso 1 lettere a e b se il richiedente può dimostrare che per i preparati o gli oggetti non è effettivamente possibile acquistare un sostituto senza HBCDD. Le deroghe sono valide al massimo fino al 1° marzo 2018.
+  - 1\. oggetti con applicazioni nella navigazione aerea e spaziale nonché nell’industria della difesa,
+  - 2\. apparecchi per la diagnostica per immagini medica,
+  - 3\. apparecchi e impianti per la radioterapia,
+  - 4\. componenti per la fabbricazione di oggetti, apparecchi e impianti di cui ai numeri 1–3;
+
+- b.
+
+  all’immissione sul mercato di pezzi di ricambio contenenti Dechloran Plus per la riparazione dei seguenti oggetti fino al 31 dicembre 2043, se è stato impiegato Dechloran Plus nella fabbricazione di questi oggetti:
+
+  - 1\. veicoli a motore immessi per la prima volta sul mercato prima del 1° gennaio 2026,
+  - 2\. macchine stazionarie per l’agricoltura e la silvicoltura nonché per l’edilizia immesse per la prima volta sul mercato prima del 1° gennaio 2026,
+  - 3\. apparecchi con applicazioni nella navigazione, silvicoltura e orticoltura immessi per la prima volta sul mercato prima del 1° gennaio 2026,
+  - 4\. apparecchi di analisi, di misurazione, di controllo, di monitoraggio, di collaudo, di produzione e di ispezione, inclusi dispositivi medico-diagnostici in vitro, immessi per la prima volta sul mercato prima del 1° gennaio 2026,
+  - 5\. oggetti con applicazioni nella navigazione aerea e spaziale nonché nell’industria della difesa immessi per la prima volta sul mercato prima del 26 febbraio 2030,
+  - 6\. apparecchi per la diagnostica per immagini medica immessi per la prima volta sul mercato prima del 26 febbraio 2030,
+  - 7\. apparecchi e impianti per la radioterapia immessi per la prima volta sul mercato prima del 26 febbraio 2030;
+
+- c. all’immissione sul mercato di tutti i restanti oggetti contenenti Dechloran Plus immessi per la prima volta sul mercato della Svizzera o di uno Stato membro dell’UE o dell’AELS prima del 1° gennaio 2026;
+- d.
+
+  all’immissione sul mercato e all’impiego di Dechloran Plus e di preparati contenenti Dechloran Plus per:
+
+  - 1\. la fabbricazione di oggetti, apparecchi, impianti e componenti di cui alla lettera a fino al 25 febbraio 2030,
+  - 2\. la fabbricazione di pezzi di ricambio che possono essere immessi sul mercato ai sensi della lettera b.
+
+<sup>2</sup> Il divieto di cui al numero 1 capoverso 2 non si applica:
+
+- a.
+
+  all’immissione sul mercato dei seguenti oggetti contenenti UV-328 che sono stati immessi per la prima volta sul mercato prima del 26 febbraio 2030:
+
+  - 1\. veicoli a motore e loro componenti,
+  - 2\. aeromobili e i loro pezzi di ricambio che contengono UV-328 all’interno di nastri adesivi, colle o rivestimenti,
+  - 3\. veicoli ferroviari, macchine di produzione e grandi strutture in acciaio che contengono UV‑328 all’interno di rivestimenti,
+  - 4\. separatori meccanici nelle provette per il prelievo di sangue,
+  - 5\. pellicole in triacetato di cellulosa nei polarizzatori e oggetti che contengono tali polarizzatori,
+  - 6\. carta fotografica;
+
+- b.
+
+  all’immissione sul mercato di pezzi di ricambio contenenti UV-328 per la riparazione dei seguenti oggetti fino al 31 dicembre 2043, se è stato impiegato UV‑328 nella loro fabbricazione:
+
+  - 1\. macchine stazionarie per l’agricoltura e la silvicoltura nonché per l’edilizia immesse per la prima volta sul mercato prima del 1° gennaio 2026,
+  - 2\. veicoli a motore immessi per la prima volta sul mercato prima del 26 febbraio 2030,
+  - 3\. schermi a cristalli liquidi in apparecchi di analisi, di misurazione, di controllo, di monitoraggio, di collaudo, di produzione e di ispezione immessi per la prima volta sul mercato prima del 26 febbraio 2030,
+  - 4\. schermi a cristalli liquidi in dispositivi medici immessi per la prima volta sul mercato prima del 26 febbraio 2030;
+
+- c. all’immissione sul mercato di tutti i restanti oggetti contenenti UV-328 immessi per la prima volta sul mercato della Svizzera o di uno Stato membro dell’UE o dell’AELS prima del 1° gennaio 2026.
+
+<sup>3</sup> Su domanda motivata, l’UFAM può autorizzare deroghe temporanee ai divieti di cui al numero 1 capoverso 1 per l’immissione sul mercato e l’impiego di UV‑328 e di preparati contenenti UV‑328 per:
+
+- a. la fabbricazione di oggetti di cui al capoverso 2 lettera a fino al 25 febbraio 2030;
+- b. la fabbricazione di pezzi di ricambio che possono essere immessi sul mercato secondo il capoverso 2 lettera b fino al 31 dicembre 2043.
+
+<sup>4</sup> L’UFAM rilascia un’autorizzazione secondo il capoverso 3 se sono adottate le necessarie misure volte a proteggere la salute umana e l’ambiente e se le emissioni di UV‑328 nell’ambiente sono ridotte al minimo.
+
+<sup>5</sup> In una domanda secondo il capoverso 3 devono figurare almeno indicazioni:
+
+- a. sul luogo di utilizzo di UV-328 o dei preparati contenenti tale sostanza;
+- b. sul tipo di impiego di UV-328 o dei preparati contenenti tale sostanza;
+- c. sulle quantità che si prevede di impiegare e sulle emissioni attese di UV-328 nell’ambiente;
+- d. sulle misure adottate per ridurre al minimo, per quanto possibile secondo lo stato della tecnica e per quanto economicamente sostenibile, le emissioni di UV‑328 nell’ambiente e l’esposizione delle persone.
 
 Allegato 1.2[^t-3]
 
@@ -677,7 +821,7 @@ Allegato 1.4[^t-5]
 
 ## Sostanze che impoveriscono lo strato di ozono
 
-[^t-5]: Nuovo testo giusta la cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-5]: Nuovo testo giusta la cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dalla cifra I delle O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definizioni
 
@@ -735,25 +879,32 @@ In deroga al divieto di cui al numero 2.1 è autorizzata la fabbricazione di sos
 
 ### 3.1 Divieto
 
-È vietata l’immissione sul mercato di preparati e oggetti che:
+<sup>1</sup> È vietata l’immissione sul mercato di preparati e oggetti che:
 
 - a. contengono sostanze che impoveriscono lo strato di ozono;
 - b. sono stati fabbricati con sostanze che impoveriscono lo strato di ozono e sono elencati in uno degli allegati del Protocollo di Montreal del 16 settembre 1987[^annex14-lvlu1-lvl3-lvl31-1] sulle sostanze che impoveriscono lo strato di ozono (Protocollo di Montreal).
 
+<sup>2</sup> Le sostanze che sono elencate nell’allegato II del regolamento (UE) 2024/573[^annex14-lvlu1-lvl3-lvl31-2] e che impoveriscono lo strato di ozono devono essere immesse sul mercato in contenitori riutilizzabili se sono destinate a essere utilizzate:
+
+- a. secondo l’allegato 2.9 numero 3.3; o
+- b. in impianti o apparecchi che, secondo l’allegato 2.10 numeri 2.1 e 2.2 nonché l’allegato 2.11 numeri 2.1 e 2.2, possono essere immessi sul mercato o importati per scopi privati.
+
 [^annex14-lvlu1-lvl3-lvl31-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex14-lvlu1-lvl3-lvl31-2]: Regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio, del 7 febbraio 2024, sui gas fluorurati a effetto serra, che modifica la direttiva (UE) 2019/1937 e che abroga il regolamento (UE) n. 517/2014, versione secondo GU L, 2024/573, 20.2.2024.
 
 ### 3.2 Deroghe
 
-Il divieto di cui al numero 3.1 non si applica all’immissione sul mercato di:
+Il divieto di cui al numero 3.1 capoverso 1 non si applica all’immissione sul mercato di:
 
 - a. preparati e oggetti per la cui fabbricazione o manutenzione possono essere impiegate sostanze che impoveriscono lo strato di ozono secondo il numero 6.2 o a seguito di un’autorizzazione eccezionale secondo il numero 6.3.1 capoverso 1;
-- b. preparati e oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.9–2.11 e, se sono importati, la cui importazione avviene da Stati che si attengono alle disposizioni approvate dalla Svizzera del Protocollo di Montreal e delle sue modifiche del 29 giugno 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 novembre 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 settembre 1997[^annex14-lvlu1-lvl3-lvl32-3] e 3 dicembre 1999[^annex14-lvlu1-lvl3-lvl32-4];
+- b. preparati e oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.9–2.11 e, se sono importati, la cui importazione avviene da Stati che hanno approvato il Protocollo di Montreal e i suoi emendamenti del 29 giugno 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 novembre 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 settembre 1997[^annex14-lvlu1-lvl3-lvl32-3] e 3 dicembre 1999[^annex14-lvlu1-lvl3-lvl32-4]<sup>,</sup> [^annex14-lvlu1-lvl3-lvl32-5];
 - c. preparati che secondo il numero 1 capoverso 2 sono equiparati alle sostanze che impoveriscono lo strato di ozono.
 
 [^annex14-lvlu1-lvl3-lvl32-1]: [RS 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)
 [^annex14-lvlu1-lvl3-lvl32-2]: [RS 0.814.021.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3487)
 [^annex14-lvlu1-lvl3-lvl32-3]: [RS 0.814.021.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3488)
 [^annex14-lvlu1-lvl3-lvl32-4]: [RS 0.814.021.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3489)
+[^annex14-lvlu1-lvl3-lvl32-5]: L’elenco di questi Stati può essere consultato negli emendamenti del Protocollo di Montreal ([RS 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)**/.4**) alla sezione «Campo d’applicazione il …» .
 
 ### 3.3 Importazione di sostanze
 
@@ -766,9 +917,11 @@ Chi intende importare o stoccare in un deposito doganale aperto, in un deposito 
 <sup>1</sup> Un’autorizzazione d’importazione è rilasciata su domanda se:
 
 - a. le sostanze che impoveriscono lo strato di ozono destinate all’importazione sono previste per un impiego autorizzato secondo il numero 6.2 o se il previsto utilizzatore dispone di un’autorizzazione eccezionale secondo il numero 6.3.1 capoverso 1; e
-- b. le sostanze che impoveriscono lo strato di ozono destinate all’importazione sono importate da Stati che si attengono alle disposizioni del Protocollo di Montreal approvate dalla Svizzera.
+- b. l’importazione avviene da Stati che hanno approvato il Protocollo di Montreal e i suoi emendamenti del 29 giugno 1990, 25 novembre 1992, 17 settembre 1997 e 3 dicembre 1999[^annex14-lvlu1-lvl3-lvl33-lvl332-1].
 
 <sup>2</sup> Per le sostanze di cui al numero 1 capoverso 1, l’autorizzazione d’importazione viene inoltre concessa soltanto limitatamente alle quantità approvate e agli impieghi approvati dalle Parti contraenti del Protocollo di Montreal.
+
+[^annex14-lvlu1-lvl3-lvl33-lvl332-1]: L’elenco di questi Stati può essere consultato negli emendamenti del Protocollo di Montreal ([RS 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)**/.4**) alla sezione «Campo d’applicazione il …».
 
 ### 3.3.3 Principi
 
@@ -832,7 +985,9 @@ Chi intende esportare sostanze che impoveriscono lo strato di ozono secondo il n
 
 ### 4.2.2 Presupposti per il rilascio dell’autorizzazione
 
-Un’autorizzazione d’esportazione è rilasciata su domanda se l’esportazione è effettuata verso Stati che si attengono alle disposizioni del Protocollo di Montreal approvate dalla Svizzera.
+Un’autorizzazione d’esportazione è rilasciata su domanda se l’esportazione è effettuata verso Stati che hanno approvato il Protocollo di Montreal e i suoi emendamenti del 29 giugno 1990, 25 novembre 1992, 17 settembre 1997 e 3 dicembre 1999[^annex14-lvlu1-lvl4-lvl42-lvl422-1].
+
+[^annex14-lvlu1-lvl4-lvl42-lvl422-1]: L’elenco di questi Stati può essere consultato negli emendamenti del Protocollo di Montreal ([RS 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)**–4**) alla sezione «Campo d’applicazione il …».
 
 ### 4.2.3 Principi
 
@@ -863,7 +1018,7 @@ Un’autorizzazione d’esportazione è rilasciata su domanda se l’esportazion
 
 <sup>1</sup> L’UFAM decide sulla domanda completa entro due mesi.
 
-<sup>2</sup> L’autorizzazione d’esportazione è rilasciata per un periodo massimo di 12 mesi; essa è munita di un numero.
+<sup>2</sup> L’autorizzazione d’esportazione è rilasciata per un periodo massimo di dodici mesi; essa è munita di un numero.
 
 ### 4.2.6 Obblighi al momento dell’esportazione e del trasferimento da un deposito
 
@@ -938,6 +1093,19 @@ Un’autorizzazione eccezionale può essere rilasciata se:
 
 L’UFAM decide in merito alle domande complete entro due mesi dalla ricezione della decisione della Conferenza delle Parti del Protocollo di Montreal concernente la quantità di una determinata sostanza che può essere impiegata per un determinato periodo.
 
+### 6<sup>bis</sup> Etichettatura particolare
+
+<sup>1</sup> Il fabbricante può immettere sul mercato contenitori che contengono o conterranno sostanze che sono elencate nell’allegato II del regolamento (UE) 2024/573 e che impoveriscono lo strato di ozono soltanto se sono provvisti di etichette con i seguenti dati:
+
+- a. la dicitura: «Contiene gas fluorurati a effetto serra»;
+- b. le designazioni chimiche abbreviate delle sostanze che sono o saranno contenute nei contenitori, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
+- c. le quantità di sostanze in kg e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra delle sostanze.
+
+<sup>2</sup> Il fabbricante di contenitori che contengono o conterranno sostanze di cui al capoverso 1 in forma riciclata o rigenerata ai sensi dell’articolo 3 paragrafi 12 e 13 del regolamento (UE) 2024/573 o in forma rigenerata ai sensi del numero 1 capoverso 3 deve indicare sui contenitori:
+
+- a. la qualità delle sostanze;
+- b. il nome e l’indirizzo dell’impianto nel quale le sostanze sono state riciclate o rigenerate.
+
 ### 7 Disposizione transitoria
 
 I preparati e gli oggetti che sono fabbricati con sostanze che impoveriscono lo strato di ozono e che sono elencati in uno degli allegati del Protocollo di Montreal (n. 3.1 lett. b) possono essere immessi sul mercato ancora per un anno dopo l’entrata in vigore del relativo allegato del Protocollo di Montreal.
@@ -948,13 +1116,13 @@ Allegato 1.5[^t-6]
 
 ## Sostanze stabili nell’aria
 
-[^t-6]: Nuovo testo giusta la cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dall’all. dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-6]: Nuovo testo giusta la cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dall’all. dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e cifra I cpv. 3 del 29 ott. 205, in vigore dal 1° gen 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definizioni
 
 <sup>1</sup> Sono considerati sostanze stabili nell’aria:
 
-- a. i fluorocarburi parzialmente alogenati secondo l’allegato F del Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono[^annex15-lvlu1-lvl1-1];
+- a. i fluorocarburi parzialmente alogenati secondo l’allegato F del Protocollo di Montreal del 16 settembre 1987[^annex15-lvlu1-lvl1-1] sulle sostanze che impoveriscono lo strato di ozono (Protocollo di Montreal);
 - b gli altri composti organici fluorurati[^annex15-lvlu1-lvl1-2] con una pressione di vapore di almeno 0,1 mbar a 20° C oppure con un punto di ebollizione di al massimo 240° C a 1013,25 mbar e il cui periodo di permanenza medio nell’atmosfera è di almeno 2 anni;
 - c. l’esafluoruro di zolfo (n. CAS 2551-62-4);
 - d. il trifluoruro di azoto (n. CAS 7783-54-2).
@@ -995,19 +1163,19 @@ Il divieto di cui al numero 3.1 non si applica alla fabbricazione di fluorocarbu
 
 <sup>1</sup> È vietata l’immissione sul mercato di preparati e oggetti che contengono sostanze stabili nell’aria.
 
-<sup>2</sup> Le sostanze elencate nell’allegato I del regolamento (UE) n. 517/2014[^annex15-lvlu1-lvl4-lvl41-1] devono essere immesse sul mercato in contenitori riutilizzabili se sono destinate a essere utilizzate:
+<sup>2</sup> Le sostanze che sono elencate in uno degli allegati I–III del regolamento (UE) 2024/573[^annex15-lvlu1-lvl4-lvl41-1] e che sono stabili nell’aria devono essere immesse sul mercato in contenitori riutilizzabili se sono destinate a essere utilizzate:
 
-- a. secondo il numero 6.2 capoverso 2 o l’allegato 2.3 numero 4.2; o
-- b. in impianti e apparecchi che, secondo l’allegato 2.10 numeri 2.1 e 2.2 nonché l’allegato 2.11 numeri 2.1 e 2.2, possono essere immessi sul mercato o importati per scopi privati.
+- a. secondo l’allegato 2.3 numero 4.2 o l’allegato 2.9 numero 3.3; o
+- b. in impianti o apparecchi che, secondo l’allegato 2.10 numeri 2.1 e 2.2, l’allegato 2.11 numeri 2.1 e 2.2 nonché l’allegato 2.19 numeri 2.1 e 2.2, possono essere immessi sul mercato o importati per scopi privati.
 
-[^annex15-lvlu1-lvl4-lvl41-1]: Regolamento (UE) n. 517/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sui gas fluorurati a effetto serra e che abroga il regolamento (CE) n. 842/2006, versione secondo GU L 150 del 20.05.2014, pag. 195.
+[^annex15-lvlu1-lvl4-lvl41-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv. 2.
 
 ### 4.2 Deroghe
 
 Fatto salvo il numero 8 capoverso 1, il divieto di cui al numero 4.1 capoverso 1 non si applica all’immissione sul mercato di:
 
 - a. preparati e oggetti per la fabbricazione o manutenzione dei quali l’impiego di sostanze stabili nell’aria è autorizzato in virtù del numero 6.2 o di un’autorizzazione eccezionale secondo il numero 6.3.1 capoverso 1;
-- b. preparati e oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.3, 2.9, 2.10, 2.11 e 2.12; e
+- b. preparati e oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.3 e 2.9–2.11, nonché oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.12 e 2.19; e
 - c. preparati che secondo il numero 1 capoverso 2 sono equiparati alle sostanze stabili nell’aria.
 
 ### 4.3 Importazione di sostanze
@@ -1105,7 +1273,7 @@ Nella domanda devono figurare:
 
 <sup>1</sup> L’UFAM decide sulla domanda completa entro due mesi.
 
-<sup>2</sup> L’autorizzazione d’esportazione è rilasciata per un periodo massimo di 12 mesi; essa è munita di un numero.
+<sup>2</sup> L’autorizzazione d’esportazione è rilasciata per un periodo massimo di dodici mesi; essa è munita di un numero.
 
 ### 5.6 Obblighi al momento dell’esportazione e del trasferimento da un deposito
 
@@ -1123,28 +1291,22 @@ Nella domanda devono figurare:
 
 ### 6.2 Deroghe
 
-<sup>1</sup> Fatto salvo il capoverso 3, il divieto di cui al numero 6.1 non si applica all’impiego di sostanze stabili nell’aria:
+<sup>1</sup> Fatto salvo il capoverso 2, il divieto di cui al numero 6.1 non si applica all’impiego di sostanze stabili nell’aria:
 
-- a. per la fabbricazione o la manutenzione di preparati e oggetti che possono essere immessi sul mercato o importati per scopi privati secondo le disposizioni degli allegati 2.3 e 2.9-2.12;
+- a. per la fabbricazione o la manutenzione di preparati e oggetti che possono essere immessi sul mercato o importati per scopi privati secondo le disposizioni degli allegati 2.3 e 2.9–2.11, nonché di oggetti che possono essere immessi sul mercato o importati per scopi privati secondo le disposizioni degli allegati 2.12 e 2.19;
 - b. per la fabbricazione di semiconduttori se le emissioni costituiscono al massimo il 5 per cento della quantità di sostanze impiegate;
 - c. quale prodotto intermedio in vista della trasformazione chimica completa se le emissioni costituiscono al massimo lo 0,5 per cento della quantità di sostanze impiegate;
 - d. come fluidi per il trasferimento di calore o isolanti per le macchine saldatrici e per i bagni di prova e di taratura;
-- e. per scopi di ricerca e di analisi.
+- e. come farmaci o dispositivi medici;
+- f. per scopi di ricerca e di analisi.
 
-<sup>2</sup> Fatto salvo il capoverso 3, il divieto di cui al numero 6.1 non si applica inoltre all’impiego di esafluoruro di zolfo:
-
-- a. per la fabbricazione della parte sottoposta ad alta tensione di acceleratori di particelle i cui compartimenti a gas sono costantemente monitorati o ermeticamente chiusi, segnatamente apparecchi per esami radiografici, microscopi elettronici e acceleratori industriali di particelle per la produzione di materie plastiche;
-- b. per la fabbricazione di relais in miniatura;
-- c. per la fabbricazione di impianti elettrici di erogazione con tensione nominale secondo la Commissione elettrotecnica internazionale (CEI) superiore a 1 kV e i cui compartimenti a gas sono costantemente monitorati o ermeticamente chiusi in conformità alla norma SN EN 62271-1:2008[^annex15-lvlu1-lvl6-lvl62-1];
-- d. per la manutenzione e il funzionamento di apparecchi e impianti che secondo le lettere a–c possono contenere esafluoruro di zolfo.
-
-<sup>3</sup> Le deroghe di cui ai capoversi 1 e 2 si applicano soltanto se:
+<sup>2</sup> Le deroghe di cui al capoverso 1 si applicano soltanto se:
 
 - a. secondo lo stato della tecnica non esistono sostanze alternative a quelle stabili nell’aria o preparati e oggetti alternativi a quelli fabbricati con tali sostanze o che le contengono;
 - b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non superano i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
 - c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono mantenute al livello più basso possibile.
 
-[^annex15-lvlu1-lvl6-lvl62-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch.](https://www.snv.ch/de/)
+<sup>3</sup> Dopo aver consultato il settore interessato e le autorità cantonali responsabili dell’esecuzione della presente ordinanza, l’UFAM emana raccomandazioni sullo stato della tecnica secondo il capoverso 2.
 
 ### 6.3 Autorizzazioni eccezionali
 
@@ -1218,26 +1380,22 @@ L’obbligo di notifica di cui al numero 7.1.1 capoverso 1 non si applica:
 
 ### 7.3 Comunicazione di dati da parte dell’UFAM
 
-L’UFAM è responsabile per la comunicazione dei dati secondo l’articolo 7 capoverso 3 del Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono.
+L’UFAM è responsabile per la comunicazione dei dati secondo l’articolo 7 capoverso 3 del Protocollo di Montreal.
 
 ### 8 Etichettatura particolare
 
-<sup>1</sup> Il fabbricante può immettere sul mercato contenitori che contengono o conterranno sostanze stabili nell’aria elencate nell’allegato I del regolamento (UE) n. 517/2014[^annex15-lvlu1-lvl8-1] e impianti di distribuzione contenenti esafluoruro di zolfo o preparati contenenti esafluoruro di zolfo soltanto se sono provvisti di etichette con i seguenti dati:
+<sup>1</sup> Il fabbricante può immettere sul mercato contenitori che contengono o conterranno sostanze che sono elencate in uno degli allegati I–III del regolamento (UE) 2024/573 e che sono stabili nell’aria soltanto se la loro etichetta contiene i seguenti dati:
 
 - a. la dicitura: «Contiene gas fluorurati a effetto serra»;
-- b. le designazioni chimiche abbreviate delle sostanze stabili nell’aria che sono o saranno contenute nei contenitori o impianti, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
-- c. le quantità di sostanze in kg e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra delle sostanze.
+- b. le designazioni chimiche abbreviate delle sostanze che sono o saranno contenute nei contenitori, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
+- c. le quantità di sostanze in chilogrammi e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra delle sostanze.
 
-<sup>1bis</sup> Il fabbricante di contenitori che contengono o conterranno sostanze di cui al capoverso 1 in qualità riciclata o rigenerata ai sensi dell’articolo 2 paragrafi 15 e 16 del regolamento (UE) n. 517/2014 o in qualità rigenerata ai sensi del numero 1 capoverso 3 deve indicare sui contenitori:
+<sup>1bis</sup> Il fabbricante di contenitori che contengono o conterranno sostanze di cui al capoverso 1 in forma riciclata o rigenerata ai sensi dell’articolo 3 paragrafi 12 e 13 del regolamento (UE) 2024/573 o in forma rigenerata ai sensi del numero 1 capoverso 3 deve indicare sui contenitori:
 
 - a. la qualità delle sostanze;
 - b. il nome e l’indirizzo dell’impianto nel quale le sostanze sono state riciclate o rigenerate.
 
-<sup>2</sup> Il fabbricante di apparecchi o di impianti non menzionati nel capoverso 1, contenenti oltre 1 kg di esafluoruro di zolfo, deve segnalare sugli apparecchi o sugli impianti la presenza di questa sostanza e indicarne la quantità contenuta in detti apparecchi o
-
-impianti.
-
-[^annex15-lvlu1-lvl8-1]: Regolamento (UE) n. 517/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sui gas fluorurati a effetto serra e che abroga il regolamento (CE) n. 842/2006, versione secondo GU L 150 del 20.5. 2014, pag. 195.
+<sup>2</sup> Il fabbricante di apparecchi o di impianti contenenti oltre 1 chilogrammo di esafluoruro di zolfo deve segnalare sugli apparecchi o sugli impianti la presenza di questa sostanza e indicarne la quantità contenuta in detti apparecchi o impianti. Per gli impianti e gli apparecchi elettrici contenenti esafluoruro di zolfo come gas isolante vigono gli obblighi di etichettatura secondo l’allegato 2.19 numero 2.3.
 
 ### 9 Obblighi in caso di processi di trasformazione chimica
 
@@ -1251,16 +1409,13 @@ impianti.
 
 <sup>2</sup> Se constata violazioni di tale obbligo, ordina le misure del caso. Se necessario ordina la sospensione del relativo processo di fabbricazione.
 
-### 10 Disposizione transitoria
+### 10 Disposizioni transitorie
 
-Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex15-lvlu1-lvl10-1] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto) e gli impianti di distribuzione contenenti esafluoruro di zolfo o preparati contenenti esafluoruro di zolfo, fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo il numero 5 ORRPChim nella versione del 10 dicembre 2010[^annex15-lvlu1-lvl10-2].
+<sup>1</sup> Le sostanze stabili nell’aria che potevano essere utilizzate sulla base del numero 6.2 capoverso 1 lettere b–f in combinato disposto con il capoverso 2 e per cui è disponibile un’alternativa a seguito di un cambiamento dello stato della tecnica possono continuare a essere utilizzate ancora per 12 mesi per gli scopi menzionati in tali lettere.
 
-[^annex15-lvlu1-lvl10-1]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
-[^annex15-lvlu1-lvl10-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+<sup>2</sup> …[^annex15-lvlu1-lvl10-1]
 
-### 11 Disposizioni transitorie concernenti la modifica del 24 novembre 2021.
-
-Le sostanze di cui al numero 1 capoverso 1<sup>bis</sup> lettera f possono essere fabbricate fino al 30 giugno 2023 senza trasformazione dell’ossido di diazoto risultante dalla fabbricazione.
+[^annex15-lvlu1-lvl10-1]: Entra in vigore il 1° gen. 2028 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 Allegato 1.6[^t-7]
 
@@ -1319,7 +1474,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -2165,7 +2320,7 @@ Allegato 1.16[^t-17]
 
 ## Sostanze per- e polifluoroalchiliche
 
-[^t-17]: Introdotto dalla cifra I n. 4 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Nuovo testo giusta la cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). Aggiornato dalla correzione del 6 ott. 2022 concerne soltanto il testo francese ([RU 2022 560](https://fedlex.data.admin.ch/eli/oc/2022/560)) e dalla cifra I cpv. 3 dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-17]: Introdotto dalla cifra I n. 4 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Nuovo testo giusta la cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). Aggiornato dalla cifra I cpv. 3 dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1. Acido perfluorottano sulfonato e suoi derivati
 
@@ -2418,7 +2573,7 @@ Allegato 1.17[^t-18]
 
 [^annex117-lvlu1-1]
 
-[^t-18]: Introdotto dalla cifra II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla cifra I delle O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), del 10 gen. 2017 ([RU 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dalla correzione del 26 feb. 2019 ([RU 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla cifra I dell’O dell’UFAM del 29 set. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), dalla cifra I dell’O del 5 apr. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)) e dalla cifra I dell’O dell’UFAM del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)).
+[^t-18]: Introdotto dalla cifra II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla cifra I delle O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), del 10 gen. 2017 ([RU 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dalla correzione del 26 feb. 2019 ([RU 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla cifra I dell’O dell’UFAM del 29 set. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)), dalla cifra I dell’O del 5 apr. 2023 ([RU 2023 191](https://fedlex.data.admin.ch/eli/oc/2023/191)), dalla cifra I dell’O dell’UFAM del 27 nov. 2023 ([RU 2023 749](https://fedlex.data.admin.ch/eli/oc/2023/749)) e della cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 [^annex117-lvlu1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2022/586, GU L 112 dell’11.4.2022, pag. 6.
 
 ### 1 Divieti
@@ -2577,7 +2732,7 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td colspan="2">48.</td><td colspan="2">Perborato di sodio; acido perborico, sale di sodio n. CE 239-172-9; 234-390-0 n. CAS —</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td colspan="2">–</td><td>–</td></tr>
 <tr><td colspan="2">49.</td><td colspan="2">Perossometaborato di sodio n. CE 231-556-4 n. CAS 7632-04-4</td><td colspan="2">Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td colspan="2">–</td><td>–</td></tr>
 <tr><td colspan="2">50.</td><td colspan="2">5-sec-butil-2-(2,4-dimetilcicloes-3-en-1-il)-5- metil-1,3-diossano [1], 5-sec-butil-2-(4,6-dimetilcicloes-3-en-1-il)-5-metil-1,3-diossano [2] (comprendenti qualsiasi singolo stereoisomero di [1] e [2] o qualsiasi combinazione degli stessi) n. CE — n. CAS —</td><td colspan="2">vPvB</td><td>2 maggio 2024</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td colspan="2">51.</td><td colspan="2">2-(2H-benzotriazol-2-il)-4,6-diterzpentilfenolo (UV-328) n. CE 247-384-8 n. CAS 25973-55-1</td><td colspan="2">PBT, vPvB</td><td>2 agosto 2024</td><td colspan="2">–</td><td>–</td></tr>
+<tr><td colspan="2">51.</td><td colspan="2">...</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="2">52.</td><td colspan="2">2,4-di-terz-butil-6- (5-clorobenzotriazol-2-il) fenolo (UV-327) n. CE 223-383-8 n. CAS 3864-99-1</td><td colspan="2">vPvB</td><td>2 agosto 2024</td><td colspan="2">–</td><td>–</td></tr>
 <tr><td colspan="2">53.</td><td colspan="2">2-(2H-benzotriazol- 2-il)-4-(terz-butil)-6-(sec- butil)fenolo (UV-350) n. CE 253-037-1 n. CAS 36437-37-3</td><td colspan="2">vPvB</td><td>2 agosto 2024</td><td colspan="2">–</td><td>–</td></tr>
 <tr><td colspan="2">54.</td><td colspan="2">2-benzotriazol-2-il- 4,6-di-terz-butilfenolo (UV-320) n. CE 223-346-6 n. CAS 3846-71-7</td><td colspan="2">PBT, vPvB</td><td>2 agosto 2024</td><td colspan="2">–</td><td>–</td></tr>
@@ -2828,7 +2983,7 @@ Allegato 2.1[^t-21]
 
 <sup>3</sup> I metodi di verifica e di analisi sono disciplinati dagli allegati II, III e VIII del regolamento (CE) n. 648/2004.
 
-[^annex21-lvlu1-lvl2-1]: GU L 104 dell’8/4/2004, p. 1, modificata da ultimo dal regolamento (CE) n. 907/2006 della Commissione, del 20 giugno 2006 (GU L 168 del 21/6/2006, p. 5). I testi degli atti giuridici dell’UE citati nel presente allegato possono essere ordinati contro pagamento presso l’Organo di notifica per i prodotti chimici, 3003 Berna, possono essere visionati gratuitamente oppure consultati al seguente sito Internet: [www.cheminfo.ch](http://www.cheminfo.ch)
+[^annex21-lvlu1-lvl2-1]: GU L 104 dell’8/4/2004, p. 1, modificata da ultimo dal regolamento (CE) n. 907/2006 della Commissione, del 20 giugno 2006 (GU L 168 del 21/6/2006, p. 5). I testi degli atti giuridici dell’UE citati nel presente allegato possono essere ordinati contro pagamento presso l’Organo di notifica per i prodotti chimici, 3003 Berna, possono essere visionati gratuitamente oppure consultati al seguente sito Internet: [www.cheminfo.ch](http://www.cheminfo.ch).
 [^annex21-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
 
 ### 3 Etichettatura particolare
@@ -2883,7 +3038,7 @@ Allegato 2.1[^t-21]
 
 <sup>1</sup> Nelle istruzioni per l’uso dei detersivi forniti al grande pubblico, il dosaggio deve essere indicato in unità SI (millilitri o grammi).
 
-<sup>2</sup> Un dosaggio dipendente dalla durezza dell’acqua deve essere adeguato alle gradazioni di durezza totale, ovvero dolce, media (25° df = 2.5 mmol CaCO<sub>3</sub>/l) e dura.
+<sup>2</sup> Un dosaggio dipendente dalla durezza dell’acqua deve essere adeguato alle gradazioni di durezza totale, ovvero dolce, media (25° df = 2,5 mmol CaCO<sub>3</sub>/l) e dura.
 
 ### 5 Scheda dei dati relativi agli ingredienti
 
@@ -3135,7 +3290,7 @@ Allegato 2.3[^t-23]
 
 ## Solventi
 
-[^t-23]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-23]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dalla cifra I cpv. 3 dell’O dedl 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Metanolo
 
@@ -3219,15 +3374,13 @@ Sono vietati:
 
 ### 4.3 Etichettatura particolare
 
-<sup>1</sup> I contenitori che contengono o conterranno sostanze elencate nell’allegato I del regolamento (UE) n. 517/2014[^annex23-lvlu1-lvl4-lvl43-1] devono essere etichettati con i seguenti dati:
+Il fabbricante può immettere sul mercato contenitori che contengono o conterranno sostanze elencate in uno degli allegati I–III del regolamento (UE) 2024/573[^annex23-lvlu1-lvl4-lvl43-1] soltanto se la loro etichetta contiene i seguenti dati:
 
 - a. la dicitura: «Contiene gas fluorurati ad effetto serra»;
-- b. le designazioni chimiche abbreviate delle sostanze stabili nell’aria che sono nei contenitori, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
+- b. le designazioni chimiche abbreviate delle sostanze che sono o saranno contenute nei contenitori, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
 - c. le quantità di sostanze in kg e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra delle sostanze.
 
-<sup>2</sup> ...
-
-[^annex23-lvlu1-lvl4-lvl43-1]: Regolamento (UE) n. 517/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sui gas fluorurati a effetto serra e che abroga il regolamento (CE) n. 842/2006, versione secondo GU L 150 del 20.5.2014, pag. 195.
+[^annex23-lvlu1-lvl4-lvl43-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv. 2.
 
 ### 5 Utilizzazione di rifiuti di solventi alogenati
 
@@ -3268,22 +3421,13 @@ Il Cantone può esigere dal detentore di rifiuti di solventi alogenati e dalle d
 - b. che informino il Cantone sui risultati dei loro accertamenti;
 - c. che provvedano al riciclaggio di tali rifiuti se ciò è tecnicamente possibile e sopportabile sotto il profilo economico e non causa un consumo di energia sproporzionato.
 
-### 6 Disposizioni transitorie
-
-<sup>1</sup> Per vernici, adesivi di contatto e svernicianti è ammessa fino al 31 maggio 2020 anche un’etichettatura secondo i numeri 1.2, 2.1 e 3.2 ORRPChim nella versione del 7 novembre 2012[^annex23-lvlu1-lvl6-1].
-
-<sup>2</sup> Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex23-lvlu1-lvl6-2] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto), fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo l’articolo 4.3 ORRPChim nella versione del 7 novembre 2012.
-
-[^annex23-lvlu1-lvl6-1]: [RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
-[^annex23-lvlu1-lvl6-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
-
 Allegato 2.4[^t-24]
 
 (art. 3)
 
 ## Biocidi
 
-[^t-24]: Aggiornato dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dalla cifra II dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
+[^t-24]: Aggiornato dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) , dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dalla cifra II dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 ### 1 Prodotti per la protezione del legno
 
@@ -4254,7 +4398,7 @@ Allegato 2.9[^t-29]
 
 <sup>6</sup> I metodi di test ammessi e i criteri da soddisfare per comprovare la degradabilità secondo il capoverso 5 lettera c si basano su:
 
-- e. per i polimeri, che nei concimi secondo l’allegato 2.6 numero 1 servono come agenti di rivestimento oppure aumentano la capacità di ritenzione idrica o la bagnabilità, secondo il punto 2 della CMC 9 della parte II dell’allegato II del regolamento (UE) 2019/1009[^annex29-lvlu1-lvl1-lvl11-3];
+- a. per i polimeri, che nei concimi secondo l’allegato 2.6 numero 1 servono come agenti di rivestimento oppure aumentano la capacità di ritenzione idrica o la bagnabilità, secondo il punto 2 della CMC 9 della parte II dell’allegato II del regolamento (UE) 2019/1009[^annex29-lvlu1-lvl1-lvl11-3];
 - b. per tutti gli altri polimeri secondo l’appendice 15 dell’allegato XVII del regolamento (CE) n. 1907/2006[^annex29-lvlu1-lvl1-lvl11-4].
 
 <sup>7</sup> I metodi di test ammessi per comprovare l’idrosolubilità secondo il capoverso 5 lettera d si basano sull’appendice 16 dell’allegato XVII del regolamento (CE) n. 1907/2006.
@@ -4293,7 +4437,7 @@ Allegato 2.9[^t-29]
 [^annex29-lvlu1-lvl1-lvl13-2]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 [^annex29-lvlu1-lvl1-lvl13-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
-### 1.4 ...
+### 1.4 …
 
 [^annex29-lvlu1-lvl1-lvl14-1]
 
@@ -4301,11 +4445,11 @@ Allegato 2.9[^t-29]
 
 ### 1.5 Obblighi di informazione nei confronti dell’autorità esecutiva
 
-Chi sostiene che per l’immissione sul mercato di microplastica o di preparati contenenti microplastica questa o questi non sono da considerarsi microplastica secondo il numero 1.1 capoverso 2 deve presentare all’autorità cantonale, su richiesta:
+Chi sostiene che per l’immissione sul mercato di microplastica o di preparati contenenti microplastica questa o questi non sono da considerarsi microplastica secondo il numero 1.1 capoverso 5 deve presentare all’autorità cantonale, su richiesta:
 
-- a. documenti che forniscono informazioni sull’identità specifica del polimero secondo il numero 1.1 capoverso 2 lettera a o b;
-- b. documenti che dimostrano la degradabilità del polimero secondo il numero 1.1 capoverso 2 lettera c conformemente alle prescrizioni di cui al numero 1.1 capoverso 3;
-- c. documenti che dimostrano l’idrosolubilità del polimero secondo il numero 1.1 capoverso 2 lettera d conformemente alle prescrizioni di cui al numero 1.1 capoverso 4.
+- a. documenti che forniscono informazioni sull’identità specifica del polimero secondo il numero 1.1 capoverso 5 lettera a o b;
+- b. documenti che dimostrano la degradabilità del polimero secondo il numero 1.1 capoverso 5 lettera c conformemente alle prescrizioni di cui al numero 1.1 capoverso 6;
+- c. documenti che dimostrano l’idrosolubilità del polimero secondo il numero 1.1 capoverso 5 lettera d conformemente alle prescrizioni di cui al numero 1.1 capoverso 7.
 
 ### 1.6 Determinazione del contenuto in massa di microplastica
 
@@ -4323,62 +4467,6 @@ Se non è possibile determinare il contenuto in massa di microplastica di un pre
 ### 2.2 Divieti
 
 L’immissione sul mercato e l’impiego di plastiche oxo-degradabili sono vietati.
-
-### 2 Divieti
-
-<sup>1</sup> Sono vietati:
-
-- a. la fabbricazione e l’immissione sul mercato da parte del fabbricante di materie plastiche al cadmio se il loro tenore di cadmio è pari o superiore allo 0,01 per cento in massa delle materie plastiche;
-- b. la fabbricazione e l’immissione sul mercato di materie plastiche espanse per la cui fabbricazione sono impiegate sostanze che impoveriscono lo strato di ozono (allegato 1.4) e di oggetti contenenti tali materie plastiche espanse;
-- c. la fornitura e l’impiego di materie plastiche espanse per la cui fabbricazione vengono impiegate sostanze stabili nell’aria (allegato 1.5) e di oggetti contenenti tali materie plastiche espanse;
-- d.
-
-  l’immissione sul mercato e l’impiego di oli diluenti per la fabbricazione di pneumatici o di componenti di pneumatici se questi oli contengono:
-
-  - 1\. oltre 1 mg di benzo[a]pirene per chilogrammo,
-  - 2\.
-
-    complessivamente oltre 10 mg per ogni chilogrammo dei seguenti idrocarburi policiclici aromatici:
-
-    - – benzo[a]pirene (n. CAS 50-32-8)
-    - – benzo[e]pirene (n. CAS 192-97-2)
-    - – benzo[a]antracene (n. CAS 56-55-3)
-    - – crisene (n. CAS 218-01-9)
-    - – benzo[b]fluorantene (n. CAS 205-99-2)
-    - – benzo[j]fluorantene (n. CAS 205-82-3)
-    - – benzo[k]fluorantene (n. CAS 207-08-9)
-    - – dibenz[a,h]antracene (n. CAS 53-70-3);
-
-- e. l’immissione sul mercato di penumatici e battistrada per la rigenerazione se contengono oli diluenti che superano i valori limite di cui alla lettera d;
-- e<sup>bis</sup>
-
-  l’immissione sul mercato di oggetti composti interamente o parzialmente di materie plastiche contenenti oltre 1 mg di un idrocarburo policiclico aromatico di cui alla lettera d numero 2, per chilogrammo di materia plastica se:
-
-  - 1\. gli oggetti sono destinati al grande pubblico, e
-  - 2\.
-
-    nell’impiego normale o ragionevolmente prevedibile di un oggetto, un suo componente contenente un idrocarburo policiclico aromatico entra in contatto direttamente, per un periodo prolungato o per ripetuti periodi brevi, con la pelle o con la cavità orale delle persone. Ciò vale in particolare per:
-
-    - – attrezzature sportive come biciclette, mazze da golf, racchette
-    - – elettrodomestici, carrelli provvisti di ruote, girelli e deambulatori
-    - – utensili per uso privato
-    - – abbigliamento, scarpe, guanti e abbigliamento sportivo, nonché
-    - – orologi da polso, bracciali, maschere, fasce per la fronte;
-
-- e<sup>ter</sup>. l’immissione sul mercato e l’impiego di granulati o polveri di plastica che contengono complessivamente più di 20 mg per chilogrammo di idrocarburi policiclici aromatici di cui al numero 2 lettera d e che sono destinati all’impiego come materiale di spargimento per campi in erba sintetica o come materiale sfuso per parchi giochi o campi sportivi;
-- f. l’immissione sul mercato e l’impiego di acrilammide (n. CAS 79-06-1) nonché di sostanze e preparati con un contenuto in massa di acrilammide pari o superiore allo 0,1 per cento per applicazioni di consolidamento del suolo quali ad esempio l’iniezione, l’iniezione in profondità, la ripassatura dei giunti o la sigillatura;
-- g. l’immissione sul mercato e l’impiego di plastiche oxo-degradabili.
-
-<sup>1bis</sup> I metodi di verifica e di analisi per la determinazione dei valori limite di cui al capoverso 1 lettere d ed e si fondano sull’allegato XVII voce 50 del regolamento (CE) n. 1907/2006[^annex29-lvlu1-lvl3-1].
-
-<sup>2</sup> Per le confezioni aerosol destinate alla fabbricazione di materie plastiche espanse si applica l’allegato 2.12.
-
-<sup>3</sup> Agli imballaggi di plastica contenenti cadmio si applica l’allegato 2.16 numero 4.
-
-<sup>4</sup> Ai giocattoli e agli oggetti per lattanti e bambini in tenera età contenenti idrocarburi policiclici aromatici di cui al capoverso 1 lettera d numero 2 si applica l’ordinanza del 16 dicembre 2016[^annex29-lvlu1-lvl3-2] sulle derrate alimentari e gli oggetti d’uso.
-
-[^annex29-lvlu1-lvl3-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione n. 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) n. 326/2015, GU L 58 del 3.3.2015, pag. 43.
-[^annex29-lvlu1-lvl3-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Materie plastiche espanse
 
@@ -4413,19 +4501,19 @@ Alle confezioni di aerosol destinate alla fabbricazione di materie plastiche esp
 - b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non superano i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
 - c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono mantenute al minimo livello possibile, specialmente in occasione dello smaltimento dei rifiuti delle materie plastiche espanse e delle sostanze stabili nell’aria in essi contenute.
 
-<sup>4</sup> ... [^annex29-lvlu1-lvl4-lvl43-1]
+<sup>4</sup> ...[^annex29-lvlu1-lvl3-lvl33-1]
 
 <sup>5</sup> Dopo aver consultato il settore interessato e le autorità cantonali responsabili dell’esecuzione della presente ordinanza, l’UFAM emana raccomandazioni sullo stato della tecnica secondo i capoversi 1–4.
 
-[^annex29-lvlu1-lvl4-lvl43-1]: Entra in vigore il 1° gen. 2033.
+[^annex29-lvlu1-lvl3-lvl33-1]: Entra in vigore il 1° gen. 2033 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 3.4 Etichettatura particolare
 
 <sup>1</sup> I fabbricanti di materie plastiche espanse devono fornire agli acquirenti informazioni sugli agenti schiumogeni contenuti in tali materie mediante la loro designazione chimica o quella industriale riconosciuta su un’etichetta o in un’altra indicazione scritta equivalente.
 
-<sup>2</sup> Per le materie plastiche espanse la cui fabbricazione comporta l’impiego di sostanze che figurano nell’allegato I o II del regolamento (UE) 2024/573[^annex29-lvlu1-lvl4-lvl34-1], l’etichettatura deve riportare la chiara avvertenza che tali materie contengono gas fluorurati a effetto serra. Per i pannelli in schiuma e i pannelli laminati, tale indicazione deve essere riportata in modo chiaro e indelebile sui pannelli.
+<sup>2</sup> Per le materie plastiche espanse la cui fabbricazione comporta l’impiego di sostanze che figurano nell’allegato I o II del regolamento (UE) 2024/573[^annex29-lvlu1-lvl3-lvl34-1], l’etichettatura deve riportare la chiara avvertenza che tali materie contengono gas fluorurati a effetto serra. Per i pannelli in schiuma e i pannelli laminati, tale indicazione deve essere riportata in modo chiaro e indelebile sui pannelli.
 
-[^annex29-lvlu1-lvl4-lvl34-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv. 2.
+[^annex29-lvlu1-lvl3-lvl34-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv. 2.
 
 ### 3.5 Obbligo di notifica
 
@@ -4446,9 +4534,9 @@ I preparati, il cui contenuto in massa di diisocianato di metilendifenile è par
 
 ### 4.3 Imballaggio particolare
 
-L’imballaggio di un preparato, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che è destinato al grande pubblico, deve contenere guanti protettivi che proteggano gli utilizzatori dai rischi della categoria III secondo l’allegato I del regolamento (UE) 2016/425[^annex29-lvlu1-lvl5-lvl54-1]. Ciò non si applica agli imballaggi di colle a caldo.
+L’imballaggio di un preparato, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che è destinato al grande pubblico, deve contenere guanti protettivi che proteggano gli utilizzatori dai rischi della categoria III secondo l’allegato I del regolamento (UE) 2016/425[^annex29-lvlu1-lvl4-lvl43-1]. Ciò non si applica agli imballaggi di colle a caldo.
 
-[^annex29-lvlu1-lvl5-lvl54-1]: Cfr. nota a piè di pagina relativa all’all. 1.16 n. 4.3 cpv. 1 lett. a.
+[^annex29-lvlu1-lvl4-lvl43-1]: Cfr. nota a piè di pagina relativa all’all. 1.16 n. 4.3 cpv. 1 lett. a.
 
 ### 5 Additivi contenenti metalli pesanti
 
@@ -4489,9 +4577,9 @@ I divieti di cui al numero 5.2.2 non si applicano:
 
 ### 5.4 Obblighi di informazione nei confronti dell’autorità esecutiva
 
-Chi immette sul mercato un oggetto di cui al numero 5.3 lettera b deve presentare all’autorità cantonale, su richiesta, i documenti che comprovano la quantità e l’origine del PVC recuperato contenuto nell’oggetto e dimostrano l’osservanza dei rispettivi requisiti per l’immissione sul mercato dell’oggetto, in particolare mediante un certificato che si basa sulle specifiche tecniche della norma SN EN 15343:2008[^annex29-lvlu1-lvl6-lvl54-1].
+Chi immette sul mercato un oggetto di cui al numero 5.3 lettera b deve presentare all’autorità cantonale, su richiesta, i documenti che comprovano la quantità e l’origine del PVC recuperato contenuto nell’oggetto e dimostrano l’osservanza dei rispettivi requisiti per l’immissione sul mercato dell’oggetto, in particolare mediante un certificato che si basa sulle specifiche tecniche della norma SN EN 15343:2008[^annex29-lvlu1-lvl5-lvl54-1].
 
-[^annex29-lvlu1-lvl6-lvl54-1]: La norma menzionata può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
+[^annex29-lvlu1-lvl5-lvl54-1]: La norma menzionata può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
 ### 6 Idrocarburi aromatici policiclici come sottoprodotti in materie plastiche
 
@@ -4499,19 +4587,19 @@ Chi immette sul mercato un oggetto di cui al numero 5.3 lettera b deve presentar
 
 <sup>1</sup> Sono pneumatici ai sensi del numero 6 gli pneumatici di veicoli delle classi seguenti:
 
-- a. classe M, N od O secondo l’articolo 4 capoverso 1 del regolamento (UE) 2018/858[^annex29-lvlu1-lvl7-lvl61-1];
-- b. classe T, R o S secondo l’articolo 4 del regolamento (UE) n. 167/2013[^annex29-lvlu1-lvl7-lvl61-2];
-- c. classe L1e–L7e secondo l’articolo 4 del regolamento (UE) n. 168/2013[^annex29-lvlu1-lvl7-lvl61-3].
+- a. classe M, N od O secondo l’articolo 4 capoverso 1 del regolamento (UE) 2018/858[^annex29-lvlu1-lvl6-lvl61-1];
+- b. classe T, R o S secondo l’articolo 4 del regolamento (UE) n. 167/2013[^annex29-lvlu1-lvl6-lvl61-2];
+- c. classe L1e–L7e secondo l’articolo 4 del regolamento (UE) n. 168/2013[^annex29-lvlu1-lvl6-lvl61-3].
 
 ### 6.2.1 Giocattoli e oggetti per lattanti e bambini in tenera età
 
-[^annex29-lvlu1-lvl7-lvl61-1]: Regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento (UE) 2022/2236, GU L 296 del 16.11.2022, pag. 1.
-[^annex29-lvlu1-lvl7-lvl61-2]: Regolamento (UE) n. 167/2013 del Parlamento europeo e del Consiglio, del 5 febbraio 2013, relativo all’omologazione e alla vigilanza del mercato dei veicoli agricoli e forestali, GU L 60 del 2.3.2013, pag. 1; modificato da ultimo dal regolamento (UE) 2019/519, GU L 91 del 29.3.2019, pag. 42.
-[^annex29-lvlu1-lvl7-lvl61-3]: Regolamento (UE) n. 168/2013 del Parlamento europeo e del Consiglio, del 15 gennaio 2013, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore a due o tre ruote e dei quadricicli, GU L 60 del 2.3.2013, pag. 52; modificato da ultimo dal regolamento (UE) 2020/1694, GU L 381 del 13.11.2020, pag. 4.
+[^annex29-lvlu1-lvl6-lvl61-1]: Regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento (UE) 2022/2236, GU L 296 del 16.11.2022, pag. 1.
+[^annex29-lvlu1-lvl6-lvl61-2]: Regolamento (UE) n. 167/2013 del Parlamento europeo e del Consiglio, del 5 febbraio 2013, relativo all’omologazione e alla vigilanza del mercato dei veicoli agricoli e forestali, GU L 60 del 2.3.2013, pag. 1; modificato da ultimo dal regolamento (UE) 2019/519, GU L 91 del 29.3.2019, pag. 42.
+[^annex29-lvlu1-lvl6-lvl61-3]: Regolamento (UE) n. 168/2013 del Parlamento europeo e del Consiglio, del 15 gennaio 2013, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore a due o tre ruote e dei quadricicli, GU L 60 del 2.3.2013, pag. 52; modificato da ultimo dal regolamento (UE) 2020/1694, GU L 381 del 13.11.2020, pag. 4.
 
-Ai giocattoli e agli oggetti per lattanti e bambini in tenera età contenenti idrocarburi aromatici policiclici di cui al numero 6.2.2 capoverso 1 lettera b si applica l’ODerr[^annex29-lvlu1-lvl7-lvl61-lvl621-1].
+Ai giocattoli e agli oggetti per lattanti e bambini in tenera età contenenti idrocarburi aromatici policiclici di cui al numero 6.2.2 capoverso 1 lettera b si applica l’ODerr[^annex29-lvlu1-lvl6-lvl61-lvl621-1].
 
-[^annex29-lvlu1-lvl7-lvl61-lvl621-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex29-lvlu1-lvl6-lvl61-lvl621-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 6.2.2 Divieti
 
@@ -4798,7 +4886,7 @@ Allegato 2.10[^t-30]
 
 <sup>9</sup> D’intesa con la SECO, l’UFAM può adeguare di conseguenza i capoversi 4<sup>ter</sup> lettera a e 8 lettera a in caso di modifica delle norme ivi indicate.
 
-[^annex210-lvlu1-lvl2-lvl22-1]: Le norme possono essere consultate gratuitamente o acquistate presso l’Associazione svizzera di normalizzazione (SNV), Sulzeralle 70, 8404 Winterthur, [www.snv.ch.](https://www.snv.ch/de/)
+[^annex210-lvlu1-lvl2-lvl22-1]: Le norme possono essere consultate gratuitamente o acquistate presso l’Associazione svizzera di normalizzazione (SNV), Sulzeralle 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch).
 
 ### 2.3 Obblighi del gestore e obblighi di informazione relativi alle deroghe
 
@@ -4973,7 +5061,7 @@ Allegato 2.11[^t-31]
 
 ## Prodotti estinguenti
 
-[^t-31]: Aggiornato dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalle dalla cifra I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dalla cifra I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2024 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-31]: Aggiornato dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalle dalla cifra I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)), dalla cifra I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definizioni
 
@@ -5001,10 +5089,10 @@ L’immissione sul mercato e l’importazione a scopi privati di prodotti esting
 
 I divieti di cui al numero 2.1 non si applicano:
 
-- a. alla fornitura a scopo di riciclaggio;
-- b. all’importazione di estintori a mano destinati all’uso personale nella propria autovettura;
-- c. alla reimportazione di prodotti estinguenti se esiste la prova che erano stati esportati a scopo di riciclaggio;
-- d. quando la sicurezza delle persone negli aeroplani, nei veicoli speciali dell’esercito o negli impianti nucleari, tenendo conto dello stato della tecnica in materia di prevenzione degli incendi, non è sufficientemente garantita senza l’impiego di prodotti estinguenti che impoveriscono lo strato di ozono o che sono stabili nell’aria; in altri casi analoghi l’UFAM può concedere deroghe temporanee ai detentori di singoli oggetti.
+- a. alla reimportazione di prodotti estinguenti se esiste la prova che erano stati esportati a scopo di riciclaggio;
+- b. all’immissione sul mercato di prodotti estinguenti che impoveriscono lo strato di ozono, quando la sicurezza delle persone negli aeroplani, nei veicoli speciali dell’esercito o negli impianti nucleari, tenendo conto dello stato della tecnica in materia di prevenzione degli incendi, non è sufficientemente garantita senza l’impiego di prodotti estinguenti che impoveriscono lo strato di ozono;
+- c. all’importazione di estintori a mano che contengono prodotti estinguenti stabili nell’aria, destinati all’uso personale nella propria autovettura;
+- d. all’immissione sul mercato di prodotti estinguenti stabili nell’aria, nonché apparecchi o impianti che contengono tali prodotti estinguenti, quando la sicurezza delle persone negli aeroplani, nei veicoli speciali dell’esercito o negli impianti nucleari, tenendo conto dello stato della tecnica in materia di prevenzione degli incendi, non è sufficientemente garantita senza l’impiego di prodotti estinguenti stabili nell’aria; in altri casi analoghi l’UFAM può concedere deroghe temporanee ai detentori di singoli oggetti.
 
 ### 3 Esportazione
 
@@ -5018,9 +5106,7 @@ I divieti di cui al numero 2.1 non si applicano:
 
 ### 3.2 Deroghe
 
-<sup>1</sup> I prodotti estinguenti che impoveriscono lo strato di ozono nonché gli apparecchi e gli impianti per il cui uso sono necessari prodotti estinguenti che impoveriscono lo strato di ozono possono essere esportati per l’uso negli aeroplani, nei veicoli speciali dell’esercito o negli impianti nucleari quando la sicurezza delle persone, tenendo conto dello stato della tecnica in materia di prevenzione degli incendi, non è sufficientemente garantita senza l’impiego di prodotti estinguenti che impoveriscono lo strato di ozono.
-
-<sup>2</sup> I rifiuti di prodotti estinguenti che impoveriscono lo strato di ozono possono essere esportati soltanto se sono destinati a essere resi innocui, a essere smaltiti o a essere reimportati dopo il trattamento.
+I prodotti estinguenti che impoveriscono lo strato di ozono nonché gli apparecchi e gli impianti per il cui uso sono necessari prodotti estinguenti che impoveriscono lo strato di ozono possono essere esportati per l’uso negli aeroplani, nei veicoli speciali dell’esercito o negli impianti nucleari quando la sicurezza delle persone, tenendo conto dello stato della tecnica in materia di prevenzione degli incendi, non è sufficientemente garantita senza l’impiego di prodotti estinguenti che impoveriscono lo strato di ozono.
 
 ### 3.3 Autorizzazione d’esportazione
 
@@ -5117,22 +5203,13 @@ I detentori di apparecchi che contengono più di 8 kg di prodotti estinguenti ch
 
 ### 8 Etichettatura particolare
 
-<sup>1</sup> I fabbricanti devono etichettare gli estintori e gli impianti che contengono o conterranno prodotti estinguenti elencati nell’allegato I del regolamento (UE) n. 517/2014[^annex211-lvlu1-lvl8-1] con le seguenti indicazioni:
+Il fabbricante può immettere sul mercato estintori e impianti che contengono o conterranno prodotti estinguenti elencati in uno degli allegati I–III del regolamento (UE) 2024/573[^annex211-lvlu1-lvl8-1] soltanto se la loro etichetta contiene le seguenti indicazioni:
 
 - a. la dicitura: «Contiene gas fluorurati a effetto serra»;
-- b. le designazioni chimiche abbreviate dei gas fluorurati a effetto serra che sono o saranno contenuti, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
+- b. le designazioni chimiche abbreviate dei prodotti estinguenti che sono o saranno contenuti negli estintori e negli impianti antincendio, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
 - c. le quantità di prodotti estinguenti in kg e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra dei prodotti estinguenti.
 
-<sup>2</sup> ...
-
-[^annex211-lvlu1-lvl8-1]: Regolamento (UE) n. 517/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sui gas fluorurati a effetto serra e che abroga il regolamento (CE) n. 842/2006 del Parlamento europeo e del Consiglio, versione secondo GU L 150 del 20.5.2014, pag. 195.
-
-### 9 Disposizione transitoria
-
-Per gli estintori e gli impianti che contengono o conterranno prodotti estinguenti stabili nell’aria elencati nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex211-lvlu1-lvl9-1] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto), fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo l’articolo 8 ORRPChim nella versione del 10 dicembre 2010[^annex211-lvlu1-lvl9-2].
-
-[^annex211-lvlu1-lvl9-1]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
-[^annex211-lvlu1-lvl9-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex211-lvlu1-lvl8-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv 2.
 
 Allegato 2.12[^t-32]
 
@@ -5140,7 +5217,7 @@ Allegato 2.12[^t-32]
 
 ## Confezioni aerosol
 
-[^t-32]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dall’all. n. 3 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), dalla correzione del 20 nov. 2018 ([RU 2018 4093](https://fedlex.data.admin.ch/eli/oc/2018/665)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-32]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dall’all. n. 3 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), dalla correzione del 20 nov. 2018 ([RU 2018 4093](https://fedlex.data.admin.ch/eli/oc/2018/665)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e la cifra I cpv. 3 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Definizioni
 
@@ -5158,10 +5235,11 @@ Allegato 2.12[^t-32]
 
 ### 2 Divieti
 
-<sup>1</sup> Sono vietate la fabbricazione e l’immissione sul mercato di confezioni aerosol se contengono:
+<sup>1</sup> Sono vietate la fabbricazione, l’immissione sul mercato e l’importazione a scopi privati di confezioni aerosol se contengono:
 
-- a. sostanze che impoveriscono lo strato di ozono (allegato 1.4); o
-- b. sostanze stabili nell’aria (allegato 1.5).
+- a. sostanze che impoveriscono lo strato di ozono ai sensi dell’allegato 1.4 numero 1 capoverso 1;
+- b. sostanze stabili nell’aria ai sensi dell’allegato 1.5 numero 1 capoverso 1; o
+- c. fluorocarburi insaturi parzialmente alogenati (HFO) e non contengono sostanze che impoveriscono lo strato di ozono né sostanze stabili nell’aria.
 
 <sup>2</sup> Sono vietati la fabbricazione, l’immissione sul mercato, l’importazione a scopi privati e l’impiego di confezioni aerosol se:
 
@@ -5189,29 +5267,42 @@ Allegato 2.12[^t-32]
 
 ### 3 Deroghe
 
-<sup>1</sup> I divieti di cui al numero 2 capoverso 1 lettera b non si applicano ai farmaci e ai dispositivi medici se:
+<sup>1</sup> I divieti di cui al numero 2 capoverso 1 lettere b e c non si applicano ai farmaci e ai dispositivi medici se:
 
 - a. secondo lo stato della tecnica non esistono ancora sostanze alternative a quelle stabili nell’aria né a preparati e oggetti alternativi a quelli contenenti tali sostanze;
 - b. la quantità e il potenziale effetto serra delle sostanze stabili nell’aria impiegate non sono superiori a quelli necessari secondo lo stato della tecnica a fini della realizzazione dell’obiettivo stabilito.
 
-<sup>2</sup> Su domanda motivata, l’UFAM, d’intesa con l’UFSP, può concedere a un fabbricante una deroga temporanea ai divieti di cui al numero 2 capoverso 1 lettera b se:
-
-- a. secondo lo stato della tecnica non esistono ancora sostanze alternative a quelle stabili nell’aria, né a preparati e oggetti alternativi a quelli contenenti tali sostanze; e
-- b. la quantità e il potenziale effetto serra delle sostanze stabili nell’aria impiegate non sono superiori a quelli necessari secondo lo stato della tecnica ai fini della realizzazione degli obiettivi previsti.
+<sup>2</sup> I divieti di cui al numero 2 capoverso 1 lettera c non si applicano se, secondo lo stato della tecnica, i requisiti di sicurezza non possono essere soddisfatti senza che siano impiegate confezioni aerosol che contengono HFO ma non sostanze che impoveriscono lo strato di ozono né sostanze stabili nell’aria.
 
 <sup>3</sup> Il divieto di fornire al grande pubblico di cui al numero 2 capoverso 3 non si applica alle confezioni aerosol menzionate nell’articolo 8 paragrafo 1*bis* della direttiva 75/324/CEE[^annex212-lvlu1-lvl3-1], e conformi ai requisiti ivi riportati.
+
+<sup>4</sup> Dopo aver consultato il settore interessato e le autorità cantonali responsabili dell’esecuzione della presente ordinanza, l’UFAM emana raccomandazioni sullo stato della tecnica secondo i capoversi 1 e 2.
 
 [^annex212-lvlu1-lvl3-1]: Direttiva 75/324/CEE del Consiglio del 20 mag. 1975 per il ravvicinamento delle legislazioni degli Stati membri relative agli aerosol, GU L 147 del 9.6.1975, pag. 40; modificata l’ultima volta dal regolamento (CE) n. 219/2009, GU L 87 del 31.3.2009, pag. 109.
 
 ### 4 Etichettatura particolare
 
-<sup>1</sup> Sull’etichetta delle confezioni aerosol di cui al numero 2 capoverso 3 deve figurare la dicitura seguente: «A uso esclusivamente commerciale».
+<sup>1</sup> Il fabbricante può immettere sul mercato confezioni aerosol che contengono o conterranno sostanze elencate in uno degli allegati I–III del regolamento (UE) 2024/573[^annex212-lvlu1-lvl4-1], fatto salvo il numero 2 capoverso 1 lettere b e c in combinato disposto con il numero 3 capoversi 1 e 2, soltanto se la loro etichetta contiene le seguenti indicazioni:
 
-<sup>2</sup> ...
+- a. la dicitura «Contiene gas fluorurati a effetto serra»;
+- b. le designazioni chimiche abbreviate delle sostanze che sono o saranno contenute nelle confezioni aerosol, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
+- c. le quantità di sostanze in chilogrammi e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra delle sostanze.
+
+<sup>2</sup> Sull’etichetta delle confezioni aerosol di cui al numero 2 capoverso 3 deve figurare la dicitura seguente: «A uso esclusivamente commerciale».
+
+[^annex212-lvlu1-lvl4-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv 1.
 
 ### 5 Obbligo di notifica
 
 Chi riempie per proprio conto confezioni aerosol con sostanze stabili nell’aria oppure importa tali confezioni deve notificare all’UFAM, su richiesta, le quantità di ogni singola sostanza impiegate negli ultimi tre anni; le indicazioni vanno suddivise secondo le categorie seguenti: importazione, consumo in Svizzera, esportazione e tipi d’impiego.
+
+**6** **...**
+
+### 7 Disposizioni transitorie
+
+<sup>1</sup> I divieti di cui al numero 2 capoverso 1 lettera c non si applicano, fino al 31 dicembre 2029, alle confezioni aerosol che non contengono prodotti per la cura del corpo.
+
+<sup>2</sup> I farmaci e i dispositivi medici che potevano essere utilizzati sulla base del numero 3 capoverso 1 e per cui è disponibile un’alternativa a seguito di un cambiamento dello stato della tecnica possono essere fabbricati e importati a scopi professionali o commerciali ancora per 12 mesi come pure essere ceduti a terzi per ulteriori 6 mesi.
 
 Allegato 2.13[^t-33]
 
@@ -6001,3 +6092,167 @@ Per le pile incorporate nelle apparecchiature elettriche ed elettroniche si appl
 
 [^annex218-lvlu1-lvl8-1]: Direttiva 2002/95/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 37 del 13.2.2003, pag. 19; modificata da ultimo dalla decisione 2011/534/UE, GU L 234 del 10.9.2010, pag. 44; abrogata dalla direttiva 2011/65/UE GU L 174 dell’1.7.2011, pag. 88.
 [^annex218-lvlu1-lvl8-2]: Cfr. nota relativa al n. 1 cpv. 1.
+
+Allegato 2.19[^t-39]
+
+(art. 3)
+
+## Gas isolanti in impianti e apparecchi elettrici
+
+[^t-39]: Introdotto dalla cifra I cpv. 1 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+
+### 1 Definizioni
+
+<sup>1</sup> Sono considerati gas isolanti le sostanze e i preparati impiegati negli impianti e negli apparecchi elettrici per garantire la resistenza elettrica necessaria al loro interno.
+
+<sup>2</sup> Sono considerati gas isolanti stabili nell’aria i gas isolanti che contengono sostanze stabili nell’aria ai sensi dell’allegato 1.5 numero 1 capoverso 1.
+
+<sup>3</sup> Sono considerati gas isolanti idrofluorocarbonici insaturi parzialmente alogenati (gas isolanti HFO) i gas isolanti che contengono idrofluorocarburi insaturi parzialmente alogenati (HFO) e non contengono sostanze che impoveriscono lo strato di ozono ai sensi dell’allegato 1.4 numero 1 capoverso 1 né sostanze stabili nell’aria ai sensi dell’allegato 1.5 numero 1 capoverso 1.
+
+<sup>4</sup> Sono considerati gas isolanti al fluorochetone i gas isolanti che contengono chetoni fluorurati e non contengono sostanze che impoveriscono lo strato di ozono ai sensi dell’allegato 1.4 numero 1 capoverso 1 né sostanze stabili nell’aria ai sensi dell’allegato 1.5 numero 1 capoverso 1.
+
+<sup>5</sup> Sono considerati impianti e apparecchi di commutazione gli impianti e gli apparecchi elettrici destinati a essere utilizzati in combinazione con la generazione, trasmissione, distribuzione e conversione di energia elettrica. Un impianto di commutazione consiste di tutti i componenti che servono al suo utilizzo.
+
+<sup>6</sup> La distribuzione primaria e secondaria si riferisce al trasporto di energia elettrica dall’interfaccia con la rete di trasmissione fino all’interfaccia con tensioni inferiori a 1 kV.
+
+<sup>7</sup> L’ampliamento di impianti e apparecchi elettrici esistenti con compartimenti a gas aggiuntivi equivale alla loro prima immissione sul mercato.
+
+### 2 Immissione sul mercato e messa in esercizio
+
+### 2.1 Divieti
+
+<sup>1</sup> È vietata la prima immissione sul mercato di impianti e apparecchi di commutazione che funzionano con gas isolanti stabili nell’aria, gas isolanti HFO o gas isolanti al fluorochetone se presentano una delle seguenti caratteristiche:
+
+- a. una tensione di massimo 24 kV per la distribuzione primaria e secondaria;
+- b. una tensione superiore a 24 kV e di massimo 52 kV per la distribuzione primaria e secondaria;
+- c. una tensione superiore a 52 kV e di massimo 145 kV nonché una corrente di corto circuito di massimo 50 kA, se i gas isolanti presentano un potenziale di effetto serra pari o superiore a 1;
+- d. una tensione superiore a 145 kV oppure, in presenza di una tensione superiore a 52 kV, una corrente di corto circuito superiore a 50 kA, se i gas isolanti presentano un potenziale di effetto serra pari o superiore a 1.
+
+<sup>2</sup> È vietata la prima immissione sul mercato di altri impianti e apparecchi elettrici che funzionano con gas isolanti stabili nell’aria.
+
+<sup>3</sup> È vietata la messa in esercizio di impianti e apparecchi immessi sul mercato in violazione dei capoversi 1 o 2.
+
+### 2.2 Deroghe
+
+<sup>1</sup> I divieti di cui al numero 2.1 capoversi 1 e 2 non si applicano agli apparecchi elettrici:
+
+- a. per la riparazione o la manutenzione di impianti elettrici esistenti, se la riparazione o la manutenzione non comporta un ampliamento dell’impianto elettrico o della quantità di CO<sub>2</sub> equivalenti contenuta nell’impianto elettrico; e
+- b. per l’ampliamento di impianti elettrici esistenti se, senza l’utilizzo dello stesso gas isolante già contenuto nell’impianto elettrico esistente, l’ampliamento non sarebbe compatibile con tale impianto e sarebbe quindi necessaria la sostituzione dell’intero impianto.
+
+<sup>2</sup> Il divieto di cui al numero 2.1 capoverso 1 non si applica se:
+
+- a. secondo lo stato della tecnica non esiste un prodotto alternativo;
+- b. la quantità e il potenziale di effetto serra dei gas isolanti stabili nell’aria, dei gas isolanti HFO o dei gas isolanti al fluorochetone impiegati non superano i livelli minimi necessari secondo lo stato della tecnica per raggiungere lo scopo perseguito; e
+- c. sono state adottate le misure edilizie e di sorveglianza disponibili secondo lo stato della tecnica per evitare le emissioni del gas isolante.
+
+<sup>3</sup> Il divieto di cui al numero 2.1 capoverso 1 non si applica se l’adozione di un metodo di costruzione secondo lo stato della tecnica e durante l’intero ciclo di vita dell’impiego previsto consente di evitare emissioni significative di gas serra.
+
+<sup>4</sup> Il divieto di cui al numero 2.1 capoverso 2 non si applica agli acceleratori di particelle i cui compartimenti di gas sono permanentemente monitorati o sigillati ermeticamente né ai mini-relè se:
+
+- a. secondo lo stato della tecnica non esiste un prodotto alternativo;
+- b. la quantità e il potenziale di effetto serra dei gas isolanti stabili nell’aria impiegati non superano i livelli minimi necessari secondo lo stato della tecnica per raggiungere lo scopo perseguito; e
+- c. sono state adottate le misure edilizie e di sorveglianza disponibili secondo lo stato della tecnica per evitare le emissioni del gas isolante.
+
+### 2.3 Etichettatura particolare
+
+<sup>1</sup> Il fabbricante può immettere sul mercato impianti e apparecchi di commutazione che contengono o conterranno gas isolanti elencati in uno degli allegati I–III del regolamento (UE) 2024/573[^annex219-lvlu1-lvl2-lvl23-1] soltanto se la loro etichetta contiene le seguenti indicazioni:
+
+- a. la dicitura: «Contiene gas fluorurati a effetto serra»;
+- b. le designazioni chimiche abbreviate dei gas isolanti che sono o saranno contenuti negli impianti e negli apparecchi di commutazione, utilizzando la nomenclatura industriale riconosciuta per il campo di applicazione in questione;
+- c. la quantità di gas isolanti in chilogrammi e in tonnellate di CO<sub>2</sub> equivalenti nonché il potenziale di effetto serra dei gas isolanti;
+- d. per gli impianti e gli apparecchi di commutazione chiusi ermeticamente, l’aggiunta: «Chiuso ermeticamente»;
+- e. con un tasso di perdita annuale inferiore allo 0,1 per cento, l’aggiunta: «Tasso di perdita annuale &lt; 0,1 %».
+
+<sup>2</sup> Il fabbricante di altri impianti o apparecchi elettrici che contengono più di 1 kg di esafluoruro di zolfo come gas isolante deve segnalare sugli impianti elettrici e sugli apparecchi elettrici la presenza di questa sostanza e indicarne la quantità in essi contenuta.
+
+[^annex219-lvlu1-lvl2-lvl23-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv. 2.
+
+### 3 Impiego
+
+### 3.1 Obbligo di diligenza
+
+Chi manipola impianti o apparecchi elettrici che contengono gas isolanti stabili nell’aria, gas isolanti HFO o gas isolanti al fluorochetone, o manipola tali gas isolanti è tenuto a provvedere affinché i gas isolanti non costituiscano un pericolo per l’ambiente, e in particolare a:
+
+- a. evitare per quanto possibile che questi gas isolanti producano emissioni; e
+- b. assicurarsi che i loro rifiuti siano smaltiti conformemente alle prescrizioni.
+
+### 3.2 Ricarica
+
+### 3.2.1 Divieto
+
+È vietata la ricarica di esafluoruro di zolfo in impianti e apparecchi di commutazione.
+
+### 3.2.2 Deroghe
+
+Il divieto di cui al numero 3.2.1 non si applica alla ricarica di:
+
+- a. esafluoruro di zolfo rigenerato;
+- b. esafluoruro di zolfo non rigenerato, se l’esafluoruro di zolfo rigenerato non può essere impiegato per motivi tecnici o non è disponibile sul mercato.
+
+### 3.3 Controllo della tenuta stagna e rilevazione delle perdite
+
+### 3.3.1 Obblighi
+
+<sup>1</sup> I detentori di impianti e apparecchi di commutazione che contengono più di 5 tonnellate di CO<sub>2</sub> equivalenti di gas isolanti stabili nell’aria o più di 1 kg di gas isolanti HFO o di gas isolanti al fluorochetone devono farne controllare periodicamente la tenuta stagna.
+
+<sup>2</sup> I detentori di impianti e apparecchi di commutazione che contengono più di 500 tonnellate di CO<sub>2</sub> equivalenti di gas isolanti stabili nell’aria o più di 100 kg di gas isolanti HFO o di gas isolanti al fluorochetone e che sono stati messi in esercizio dopo il 1° gennaio 2017 devono provvedere affinché:
+
+- a. gli impianti e gli apparecchi di commutazione siano dotati di un sistema di rilevazione delle perdite con funzione di avviso;
+- b. il sistema di rilevazione delle perdite sia controllato almeno ogni sei anni.
+
+<sup>3</sup> Qualora rilevi una perdita, il detentore deve immediatamente far riparare l’impianto e l’apparecchio di commutazione.
+
+### 3.3.2 Deroghe
+
+Il numero 3.3.1 capoverso 1 non si applica agli impianti e agli apparecchi di commutazione che:
+
+- a. presentano un tasso di perdita annuale comprovato dal fabbricante inferiore allo 0,1 per cento e dispongono della relativa etichettatura;
+- b. sono dotati di un sistema di rilevazione delle perdite con funzione di avviso; o
+- c. contengono meno di 6 kg di gas isolanti stabili nell’aria.
+
+### 3.4 Registro di manutenzione
+
+### 3.4.1 Obblighi
+
+<sup>1</sup> I detentori di impianti e apparecchi di commutazione che contengono più di 5 tonnellate di CO<sub>2</sub> equivalenti di gas isolanti stabili nell’aria o più di 1 kg di gas isolanti HFO o di gas isolanti al fluorochetone devono provvedere affinché venga costituito un registro di manutenzione.
+
+<sup>2</sup> Nel registro di manutenzione deve figurare il nome del detentore dell’impianto e dell’apparecchio di commutazione nonché un’indicazione che permetta di identificare l’impianto e l’apparecchio.
+
+<sup>3</sup> Il tecnico specializzato che esegue i lavori deve annotare nel registro di manutenzione, dopo ogni intervento e ogni manutenzione dell’impianto di commutazione, le seguenti indicazioni:
+
+- a. la data dell’intervento o della manutenzione;
+- b. una breve descrizione dei lavori eseguiti;
+- c. il risultato del controllo della tenuta stagna secondo il numero 3.3;
+- d. la quantità e il tipo di gas isolante prelevato;
+- e. la quantità e il tipo di gas isolante caricato nell’impianto e l’indicazione se si tratta di un gas isolante nuovo o rigenerato;
+- f. la ditta, il proprio nome e la propria firma.
+
+### 3.4.2 Deroghe
+
+Il numero 3.4.1 non si applica agli impianti e agli apparecchi di commutazione che secondo il numero 3.3.2 sono esclusi dall’obbligo di controllo della tenuta stagna.
+
+### 4 Smaltimento
+
+Chi accetta impianti e apparecchi di commutazione che contengono gas isolanti stabili nell’aria, gas isolanti HFO o gas isolanti al fluorochetone per lo smaltimento deve rimuovere i gas isolanti in essi contenuti e smaltirli separatamente e correttamente.
+
+### 5 Raccomandazioni
+
+Dopo aver consultato il settore interessato e le autorità cantonali responsabili dell’esecuzione della presente ordinanza, l’UFAM emana raccomandazioni:
+
+- a. sullo stato della tecnica secondo il numero 2.2 capoversi 2–4;
+- b. sul controllo della tenuta stagna secondo il numero 3.3.1 capoverso 1.
+
+### 6 Disposizioni transitorie
+
+<sup>1</sup> Il divieto della prima immissione sul mercato secondo il numero 2.1 capoverso 1 non si applica agli impianti e agli apparecchi di commutazione:
+
+- a. se esiste la prova che sono stati ordinati prima del 1° gennaio 2026;
+- b. secondo il numero 2.1 capoverso 1 lettera b fino al 31 dicembre 2029;
+- c. secondo il numero 2.1 capoverso 1 lettera c fino al 31 dicembre 2027;
+- d. secondo il numero 2.1 capoverso 1 lettera d fino al 31 dicembre 2031.
+
+<sup>2</sup> Gli impianti e gli apparecchi che potevano essere utilizzati sulla base del numero 2.2 capoversi 2–4 e per cui è disponibile un’alternativa a seguito di un cambiamento dello stato della tecnica possono essere immessi sul mercato per la prima volta ancora per due anni.
+
+<sup>3</sup> Il divieto di ricarica secondo il numero 3.2.1 non si applica fino al 31 dicembre 2034.
+
+<sup>4</sup> Gli impianti che contengono più di 500 tonnellate di CO<sub>2</sub> equivalenti di gas isolanti stabili nell’aria o più di 100 kg di gas isolanti HFO o di gas isolanti al fluorochetone e che sono stati messi in esercizio prima del 1° gennaio 2026 possono restare in esercizio senza un sistema di rilevazione delle perdite fino al 31 dicembre 2027.
