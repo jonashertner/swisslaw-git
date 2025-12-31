@@ -3,20 +3,19 @@ canton: BL
 number: "362.14"
 title: Verordnung über die Finanzierung von Pflegeleistungen
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-19
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2011-02-22
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/362.14"
-pdf: "https://bl.clex.ch/api/de/versions/3844/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4380/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Finanzierung von Pflegeleistungen
 
-Vom 22.02.2011 (Stand 01.01.2024)
+Vom 22.02.2011 (Stand 01.01.2026)
 
 Der Regierungsrat des Kanton Basel-Landschaft,
 
@@ -66,6 +65,26 @@ beschliesst:
 - a. für Massnahmen der Abklärung, Beratung und Koordination — CHF 90.65,
 - b. für Massnahmen der Untersuchung und Behandlung — CHF 87.10,
 - c. für Massnahmen der Grundpflege — CHF 75.75.
+
+#### § 1b
+
+**Anrechenbare Normkosten für Inhouse-Spitex und pflegende Angehörige**
+
+<sup>1</sup> Die anrechenbaren Normkosten gemäss § 15c EG KVG betragen abweichend von § 1a für ambulante Pflegeleistungen, die durch Inhouse-Spitex-Organisationen und Organisationen, die pflegende Angehörige beschäftigen, erbracht werden, in der 1. Stunde:
+
+- a. für Massnahmen der Abklärung, Beratung und Koordination — CHF 85.25;
+- b. für Massnahmen der Untersuchung und Behandlung — CHF 71.85;
+- c. für Massnahmen der Grundpflege — CHF 64.75.
+
+<sup>2</sup> Die anrechenbaren Normkosten gemäss § 15c EG KVG betragen abweichend von § 1a für ambulante Pflegeleistungen, die durch Organisationen gemäss Abs. 1 erbracht werden, ab der 2. Stunde:
+
+- a. für Massnahmen der Abklärung, Beratung und Koordination — CHF 77.60;
+- b. für Massnahmen der Untersuchung und Behandlung — CHF 64.20;
+- c. für Massnahmen der Grundpflege — CHF 57.10.
+
+<sup>3</sup> Die Normkosten gemäss Abs. 1 und 2 können von Organisationen abgerechnet werden, die einen Qualitätsnachweis gemäss § 6a der Altersbetreuungs- und Pflegeverordnung erbracht haben. Der Nachweis ist spätestens 4 Wochen vor der Rechnungsstellung an die Volkswirtschafts- und Gesundheitsdirektion einzureichen.
+
+<sup>4</sup> Ohne Qualitätsnachweis gemäss Abs. 3 besteht kein Anspruch auf eine Finanzierung der Pflegeleistungen durch die Gemeinde oder den Kanton. Die ungedeckten Kosten dürfen nicht der versicherten Person in Rechnung gestellt werden.
 
 #### § 2
 
