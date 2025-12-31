@@ -4,24 +4,23 @@ number: "781.500"
 title: Verordnung zur kurzfristigen Bekämpfung übermässiger Luftschadstoff-Immissionen infolge austauscharmer Wetterlagen
 short: Smog-Verordnung
 language: de
-version: 2009-01-01
-valid_until: 2025-12-31
-version_adopted: 2008-12-09
+version: 2026-01-01
+version_adopted: 2026-02-03
 adopted: 2007-02-13
 in_force: 2007-03-11
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/781.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3976/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6776/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur kurzfristigen Bekämpfung übermässiger Luftschadstoff-Immissionen infolge austauscharmer Wetterlagen
 
-Smog-Verordnung | Lufthygiene[^t-1]
+Lufthygiene[^t-1]
 
 (Smog-Verordnung)
 
-Vom 13. Februar 2007 (Stand 1. Januar 2009)
+Vom 13. Februar 2007 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -96,7 +95,7 @@ beschliesst:
 
 **Zuständigkeiten und Verfahren**
 
-<sup>1</sup> Das Lufthygieneamt beider Basel
+<sup>1</sup> Das Amt für Umwelt und Energie:
 
 - a) stellt fest, ob die Voraussetzungen für das Inkrafttreten und die Anordnung oder die Aufhebung der Massnahmen erfüllt sind;
 - b) stellt die diesbezügliche Koordination mit den Lufthygienefachstellen der Nachbarkantone sicher;
