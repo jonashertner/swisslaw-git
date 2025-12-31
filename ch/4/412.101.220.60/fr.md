@@ -3,18 +3,18 @@ sr: "412.101.220.60"
 title: "Ordonnance du SEFRI du 9 octobre 2019 sur la formation professionnelle initiale dans le champ professionnel «facture d'instruments de musique» avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/585"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2019-10-09
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/585/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-585-20240401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/585/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/585/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-585-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/585/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale dans le champ professionnel «facture d’instruments de musique» avec certificat fédéral de capacité (CFC)
 
-du 9 octobre 2019 (État le 1<sup>er</sup> avril 2024)
+du 9 octobre 2019 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>54215</td><td>Factrice d’instruments à vent CFC / Facteur d’instruments à vent CFC Blasinstrumentenbauerin EFZ / Blasinstrumentenbauer EFZ Fabbricante di strumenti a fiato AFC</td></tr>
@@ -29,10 +29,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet, professions et durée
 
@@ -54,17 +54,17 @@ Les spécialistes du champ professionnel «facture d’instruments de musique» 
 
 Le champ professionnel «facture d’instruments de musique» de niveau CFC englobe les professions suivantes:
 
-- a. facteur d’instruments à vent CFC;
-- b. facteur de pianos CFC;
-- c. facteur d’orgues CFC;
+- facteur d’instruments à vent CFC;
+- facteur de pianos CFC;
+- facteur d’orgues CFC;
 - d. facteur de tuyaux d’orgues CFC.
 
 <sup>3</sup>
 
 Les facteurs d’instruments à vent de niveau CFC peuvent choisir entre les domaines spécifiques suivants:
 
-- a. facture d’instruments à vent;
-- b. réparation d’instruments à vent.
+- facture d’instruments à vent;
+- réparation d’instruments à vent.
 
 <sup>4</sup> Le domaine spécifique est inscrit dans le contrat d’apprentissage et indiqué lors de l’inscription à l’examen final.
 
@@ -275,7 +275,7 @@ La formation de facteur de tuyaux d’orgues CFC comprend les compétences opér
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-[^8-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^8-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -305,11 +305,12 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^10-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^10-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^10-2].
 
 <sup>4</sup> L’enseignement est bilingue; il est donné dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale. Selon les besoins, les cantons permettent la mise en place de mesures adéquates afin de soutenir l’enseignement dans une troisième langue nationale ou en anglais.
 
-[^10-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^10-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^10-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 11
 
@@ -322,8 +323,8 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 Ils comprennent le nombre suivant de jours de cours par profession, à raison de 8 heures de cours par jour:
 
 - a. facteur d’instruments à vent CFC: 42 jours, dont
-  - 1\. 8 jours de cours communs (cours «C»),
-  - 2\. 34 jours de cours spécifiques (cours «V»);
+  - 8 jours de cours communs (cours «C»),
+  - 34 jours de cours spécifiques (cours «V»);
 
 - b.
 
@@ -349,9 +350,9 @@ Ils comprennent le nombre suivant de jours de cours par profession, à raison de
 <sup>3</sup> Les cours communs (cours «C») englobent les contenus ci-après, répartis comme suit sur 4 cours; ils sont obligatoires pour les professions suivantes (signalées par «x»:
 
 <table>
-<tr><td></td><td></td><td></td><td></td><td></td><td colspan="4">Profession</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>Facteur d’instruments à vent CFC</td><td>Facteur de pianos CFC</td><td>Facteurs d’orgues CFC</td><td>Facteur de tuyaux d’orgues CFC</td></tr>
-<tr><td>Année</td><td>Cours</td><td>Intitulé</td><td>Domaine de compétences opérationnelles</td><td>Durée (jours)</td><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th colspan="4">Profession</th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th>Facteur d’instruments à vent CFC</th><th>Facteur de pianos CFC</th><th>Facteurs d’orgues CFC</th><th>Facteur de tuyaux d’orgues CFC</th></tr>
+<tr><th>Année</th><th>Cours</th><th>Intitulé</th><th>Domaine de compétences opérationnelles</th><th>Durée (jours)</th><th></th><th></th><th></th><th></th></tr>
 <tr><td>1<sup>re</sup></td><td>C1</td><td>Outillage manuel et machines 1</td><td>a. traitement des mandats</td><td>5</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>1<sup>re</sup></td><td>C2</td><td>Outillage manuel et machines 2</td><td>a. traitement des mandats</td><td>5</td><td></td><td>x</td><td>x</td><td></td></tr>
 <tr><td>1<sup>re</sup></td><td>C3</td><td>Conduite d’entretiens et documentation de travail</td><td>a. traitement des mandats</td><td>3</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
@@ -366,7 +367,7 @@ Les cours spécifiques à la profession sont organisés comme suit:
 - a. pour les facteurs d’instruments à vent CFC, les jours et les contenus sont répartis comme suit sur 7 cours (cours «V»):
 
 <table>
-<tr><td>Année</td><td>Cours</td><td>Intitulé</td><td>Domaine de compétences opérationnelles</td><td>Durée (jours)</td></tr>
+<tr><th>Année</th><th>Cours</th><th>Intitulé</th><th>Domaine de compétences opérationnelles</th><th>Durée (jours)</th></tr>
 <tr><td>1<sup>re</sup></td><td>V1</td><td>Usinage par élimination de copeaux 1</td><td>a. traitement des mandats b. fabrication et réparation d’instruments de musique</td><td>5</td></tr>
 <tr><td>2<sup>e</sup></td><td>V2</td><td>Débosselage / traitement de surface</td><td>a. traitement des mandats b. fabrication et réparation d’instruments de musique</td><td>5</td></tr>
 <tr><td>2<sup>e</sup></td><td>V3</td><td>Connaissances de bases, pistons / coulisses</td><td>a. traitement des mandats b. fabrication et réparation d’instruments de musique c. maintenance et réglage d’instruments de musique</td><td>4</td></tr>
@@ -554,11 +555,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>3</td><td>Entretien professionnel</td><td>10 %</td></tr>
 </table>
 
-- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^21-1].
+- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^21-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^21-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^21-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^21-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^21-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 22
 
