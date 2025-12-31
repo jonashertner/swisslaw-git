@@ -4,13 +4,12 @@ number: "641.41"
 title: Vollziehungsverordnung zum Steuergesetz
 short: StV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-05-23
+version: 2026-01-01
+version_adopted: 2025-10-23
 adopted: 1994-11-18
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.41"
-pdf: "http://gdb.ow.ch/api/de/versions/1905/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1949/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1905/pdf_file"
 
 (StV)
 
-vom 18.11.1994 (Stand 01.01.2025)
+vom 18.11.1994 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Obwalden erlässt,
 
@@ -364,7 +363,7 @@ als Verordnung:
 
 **Ausführungsbestimmungen (Art. 49, 165, 244 und 248 Abs. 3 StG sowie Art. 10 StV)**
 
-<sup>1</sup> Die vom Regierungsrat für jede Steuerperiode zu erlassenden Ausführungsbestimmungen (Art. 165 Abs. 2 StG) sind im Amtsblatt zu veröffentlichen. Darin werden insbesondere geregelt:
+<sup>1</sup> Der Regierungsrat erlässt für jede Steuerperiode Ausführungsbestimmungen (Art. 165 Abs. 2 StG). Darin werden insbesondere geregelt:
 
 - a. die Frist für die allgemeine Zustellung der Mitteilung zur Einreichung der Steuererklärung sowie die Frist für die Einreichung der Steuererklärung durch die Steuerpflichtigen;
 - b. Fälligkeiten, Zahlungsfristen und die Höhe des Verzugs- und Ausgleichszinses;
@@ -748,6 +747,8 @@ geändert durch
 
 \- Nachtrag zum Steuergesetz vom 3. Dezember 2020 (OGS 2020, 51), Botschaft und Vorlage des Regierungsrats vom 3. Juli 2020, Kantonsratssitzungen vom 22. Oktober und 3. Dezember 2020 (22.20.06), in Kraft seit 1. Januar 2021 (OGS 2021, 6),
 
-\- Nachtrag zum Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht (Schätzungs- und Grundpfandgesetz) vom 23. Mai 2024 (OGS 2024 36), Botschaft und Vorlage des Regierungsrats vom 28. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.01), angenommen an der Volksabstimmung vom 24. November 2024 (ABl 2024, 1697), in Kraft seit 1. Januar 2025 (OGS 2024, 37)
+\- Nachtrag zum Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht (Schätzungs- und Grundpfandgesetz) vom 23. Mai 2024 (OGS 2024 36), Botschaft und Vorlage des Regierungsrats vom 28. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.01), angenommen an der Volksabstimmung vom 24. November 2024 (ABl 2024, 1697), in Kraft seit 1. Januar 2025 (OGS 2024, 37),
+
+\- das Gesetz über das Amtsblatt und die Gesetzessammlungen vom 23. Oktober 2025 (OGS 2025, 18), Botschaft und Vorlage des Regierungsrats vom 3. Juni 2005, Kantonsratssitzungen vom 11. September und 23. Oktober 2025 (22.25.04), in Kraft seit 1. Januar 2026 (OGS 2025, 23)
 
 OGS 1995, 42
