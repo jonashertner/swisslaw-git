@@ -4,13 +4,12 @@ number: "350.114"
 title: Reglement über die Tarife der Basellandschaftlichen Gebäudeversicherung
 short: "Tarifreglement, TR"
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-09-21
+version: 2026-01-01
+version_adopted: 2025-12-12
 adopted: 2022-09-21
 in_force: 2023-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/350.114"
-pdf: "https://bl.clex.ch/api/de/versions/3566/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4378/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3566/pdf_file"
 
 (Tarifreglement, TR)
 
-Vom 21.09.2022 (Stand 01.01.2023)
+Vom 21.09.2022 (Stand 01.01.2026)
 
 Der Verwaltungsrat der Basellandschaftlichen Gebäudeversicherung (BGV),
 
@@ -51,7 +50,7 @@ beschliesst:
 
 **Index für die Versicherungswerte**
 
-<sup>1</sup> Der Index für die Versicherungswerte der Gebäude sowie der freiwillig zusätzlich versicherten weiteren baulichen Objekte beträgt 146 Punkte.
+<sup>1</sup> Der Index für die Versicherungswerte der Gebäude sowie der freiwillig zusätzlich versicherten weiteren baulichen Objekte beträgt 155 Punkte.
 
 <sup>2</sup> Die Index-Basis von 100 Punkten bezieht sich auf den 1. Oktober 1988.
 
@@ -158,7 +157,8 @@ beschliesst:
 
 - a. das Jahr 2023: CHF 0.–;
 - b. das Jahr 2024: CHF 0.–;
-- c. das Jahr 2025: CHF 0.–.
+- c. das Jahr 2025: CHF 0.–;
+- d. das Jahr 2026: CHF 0.–.
 
 #### § 10
 
