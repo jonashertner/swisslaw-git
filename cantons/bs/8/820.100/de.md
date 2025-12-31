@@ -2,15 +2,14 @@
 canton: BS
 number: "820.100"
 title: Einführungsgesetz zum Bundesgesetz über die Familienzulagen
-short: Familienzulagengesetz; EG FamZG
+short: "Familienzulagengesetz, EG FamZG"
 language: de
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-09-19
+version: 2026-01-01
+version_adopted: 2025-09-10
 adopted: 2008-06-04
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/820.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4706/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6699/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +18,9 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4706/pdf_file"
 
 Familienzulagen: Einführungsesetz | Familienzulagen für Arbeitnehmende
 
-(Familienzulagengesetz; EG FamZG)
+(Familienzulagengesetz, EG FamZG)
 
-Vom 4. Juni 2008 (Stand 1. Januar 2020)
+Vom 4. Juni 2008 (Stand 1. Januar 2026)
 
 Der Grosse Rat des Kantons Basel Stadt,
 
@@ -292,9 +291,13 @@ beschliesst:
 
 **Ausgleichsbeitrag**
 
-<sup>1</sup> Die Familienausgleichskassen, die eine Mehrbelastung aus den Zulagenzahlungen an Arbeitnehmerinnen und Arbeitnehmer oder an Selbständigerwerbende aufweisen, erhalten einen jährlichen Ausgleichsbeitrag.
+<sup>1</sup> Die Familienausgleichskassen, die eine Mehrbelastung aus den Zulagenzahlungen an Arbeitnehmerinnen und Arbeitnehmer oder an Selbständigerwerbende aufweisen, erhalten einen jährlichen Ausgleichsbeitrag. Als Grundlage für die Berechnung dieses Beitrags dient der Lastenausgleichssatz.
 
-<sup>2</sup> Als Mehrbelastung gelten die gewichteten Aufwendungen für die kantonalen Mindestzulagen, soweit sie die gewichteten durchschnittlichen Aufwendungen aller Familienausgleichskassen um wenigstens 10 Prozent übersteigen. Die Gewichtung wird jeweils gestützt auf die nach Art. 16 FamZG beitragspflichtigen Einkommen vorgenommen.
+<sup>1<sup>bis</sup></sup> Zur Ermittlung des für das entsprechende Kalenderjahr massgebenden Lastenausgleichssatzes werden von allen Familienausgleichskassen einerseits die beitragspflichtige Einkommenssumme und andererseits das Total der gemäss gesetzlichem Umfang geleisteten Familienzulagen ermittelt.
+
+<sup>2</sup> Das Total der Familienzulagen im Verhältnis zur Einkommenssumme ergibt den in Prozenten ausgedrückten Lastenausgleichssatz. Der Risikosatz der einzelnen Kasse ergibt sich aufgrund der gleichen Berechnung auf Kassenebene.
+
+<sup>2<sup>bis</sup></sup> Die beitragspflichtige Einkommenssumme ist gleich der Lohnsumme der Arbeitnehmenden, inklusive derjenigen ohne beitragspflichtige Arbeitgebenden, und der beitragspflichtigen Summe der Einkommen aus selbständiger Erwerbstätigkeit, beides berechnet gemäss AHV-Gesetzgebung.
 
 <sup>3</sup> Der Ausgleichsbeitrag wird ausgerichtet, wenn das Vermögen der Familienausgleichskasse nicht über dem Betrag der jährlichen Zulagenzahlungen liegt. Der Ausgleichsbeitrag ist nicht höher als die Mehrbelastung.
 
