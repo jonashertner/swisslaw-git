@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 18. November 2020 über die Nutzung des Funkfreq
 short: VVNF
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20250101/de"
 
 (VVNF)
 
-vom 18. November 2020 (Stand am 1. Januar 2025)
+vom 18. November 2020 (Stand am 1. Januar 2026)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 8 Absatz 3, 14 Absatz 4, 15 Absatz 2, 46, 51 Absatz 2 
 
 verordnet:
 
-[^ingress-1]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
-[^ingress-2]: [SR 784.106](https://fedlex.data.admin.ch/eli/cc/2020/1028)
+[^ingress-1]: [SR 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
+[^ingress-2]: [SR 784.106](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9200)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -46,7 +46,7 @@ verordnet:
 
 <sup>2</sup> Absatz 1 ist nicht anwendbar auf die Nutzung von Funkanlagen für die Verbreitung von Radio- und Fernsehprogrammen.
 
-[^2-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^2-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 3
 
@@ -103,7 +103,7 @@ Betreibt die Inhaberin oder der Inhaber eines der folgenden Fähigkeitszeugnisse
 - a. Fähigkeitszeugnisse nach Artikel 44 Absatz 1 Buchstabe a Ziffern 1–3 VNF: «HBØ/» (HB Null Schrägstrich);
 - b. Fähigkeitszeugnisse nach Artikel 44 Absatz 1 Buchstabe a Ziffer 4 VNF: «HBØY/» (HB Null Yankee Schrägstrich).
 
-[^7-1]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^7-1]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 ## 4. Abschnitt: Prüfungen für Funkerinnen und Funker
 
@@ -193,10 +193,10 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 12. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 695](https://fedlex.data.admin.ch/eli/oc/2024/695)).
-[^annex1-lvlu1-1]: Der Inhalt des Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/695](https://fedlex.data.admin.ch/eli/oc/2024/695) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern ([www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch)), gegen Bezahlung bezogen werden.
+[^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 736](https://fedlex.data.admin.ch/eli/oc/2025/736)).
+[^annex1-lvlu1-1]: Der Inhalt des Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/736](https://fedlex.data.admin.ch/eli/oc/2025/736) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern ([www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch/de/)), gegen Bezahlung bezogen werden.
 
-Fassung 7 vom 12. November 2024
+Fassung 8 vom 12. November 2025
 
 Anhang 2[^t-2]
 
@@ -249,12 +249,12 @@ Anhang 4[^t-3]
 
 ## Nutzung von Frequenzbereichen nach Artikel 44 VNF
 
-[^t-3]: Bereinigt gemäss Ziff. I Abs. 2 der V des BAKOM vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
+[^t-3]: Fassung gemäss Ziff. I der V des BAKOM vom 12. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 736](https://fedlex.data.admin.ch/eli/oc/2025/736)).
 
 ### 1. Frequenzbereiche für Inhaberinnen und Inhaber eines Fähigkeitszeugnisses nach Artikel 44 Absatz 1 Buchstabe a Ziffern 1–3 VNF
 
 <table>
-<tr><th>Frequenzbereich</th><th></th><th></th><th>Status für terrestrische Verbindungen</th><th>Status für Verbindungen über Amateurfunk-Satelliten</th><th>Maximale Senderleistung<sup>a</sup></th></tr>
+<tr><th colspan="3">Frequenzbereich</th><th>Status für terrestrische Verbindungen</th><th>Status für Verbindungen über Amateurfunk-Satelliten</th><th>Maximale Senderleistung <sup>a</sup></th></tr>
 <tr><td>135,700</td><td>–</td><td>137,800 kHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>1 W ERP<sup>e</sup></td></tr>
 <tr><td>472,000</td><td>–</td><td>479,000 kHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>5 W EIRP<sup>f</sup></td></tr>
 <tr><td>1810,000</td><td>–</td><td>1850,000 kHz</td><td>primär</td><td>nicht zulässig</td><td>1000 W</td></tr>
@@ -269,25 +269,22 @@ Anhang 4[^t-3]
 <tr><td>21000,000</td><td>–</td><td>21450,000 kHz</td><td>primär</td><td>primär</td><td>1000 W</td></tr>
 <tr><td>24890,000</td><td>–</td><td>24990,000 kHz</td><td>primär</td><td>primär</td><td>1000 W</td></tr>
 <tr><td>28000,000</td><td>–</td><td>29700,000 kHz</td><td>primär</td><td>primär</td><td>1000 W</td></tr>
-<tr><td>50,000</td><td>–</td><td>52,000 MHz</td><td>sekundär <sup>b</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
-<tr><td>70,000</td><td>–</td><td>70,0375 MHz</td><td>sekundär <sup>b</sup></td><td>nicht zulässig</td><td>25 W ERP <sup>e</sup></td></tr>
-<tr><td>70,1125</td><td>–</td><td>70,500 MHz</td><td>sekundär <sup>b</sup></td><td>nicht zulässig</td><td>25 W ERP <sup>e</sup></td></tr>
+<tr><td>50,000</td><td>–</td><td>52,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
+<tr><td>70,000</td><td>–</td><td>70,0375 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>25 W ERP<sup>e</sup></td></tr>
+<tr><td>70,1125</td><td>–</td><td>70,500 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>25 W ERP<sup>e</sup></td></tr>
 <tr><td>144,000</td><td>–</td><td>146,000 MHz</td><td>primär</td><td>primär</td><td>1000 W</td></tr>
 <tr><td>430,000</td><td>–</td><td>435,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>1000 W</td></tr>
 <tr><td>435,000</td><td>–</td><td>438,000 MHz</td><td>primär</td><td>sekundär<sup>b</sup></td><td>1000 W</td></tr>
 <tr><td>438,000</td><td>–</td><td>440,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>1000 W</td></tr>
-<tr><td>1240,000</td><td>–</td><td>1260,000 MHz</td><td>sekundär<sup>c</sup></td><td>nicht zulässig</td><td>1000 W</td></tr>
-<tr><td>1260,000</td><td>–</td><td>1270,000 MHz</td><td>sekundär<sup>b</sup></td><td>sekundär<sup>b, d</sup></td><td>1000 W</td></tr>
+<tr><td>1240,000</td><td>–</td><td>1260,000 MHz</td><td>sekundär<sup>b,c</sup></td><td>nicht zulässig</td><td>1000 W</td></tr>
+<tr><td>1260,000</td><td>–</td><td>1270,000 MHz</td><td>sekundär<sup>b</sup></td><td>sekundär<sup>b,d</sup></td><td>1000 W</td></tr>
 <tr><td>1270,000</td><td>–</td><td>1300,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>1000 W</td></tr>
-<tr><td>2300,000</td><td>–</td><td>2308,000 MHz</td><td>sekundär<sup>c</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
-<tr><td>2308,000</td><td>–</td><td>2312,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
-<tr><td>2312,000</td><td>–</td><td>2400,000 MHz</td><td>sekundär<sup>c</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
-<tr><td>2400,000</td><td>–</td><td>2450,000 MHz</td><td>sekundär<sup>c</sup></td><td>sekundär<sup>c</sup></td><td>100 W</td></tr>
-<tr><td>5650,000</td><td>–</td><td>5670,000 MHz</td><td>sekundär<sup>c</sup></td><td>sekundär<sup>c, d</sup></td><td>100 W</td></tr>
-<tr><td>5670,000</td><td>–</td><td>5725,000 MHz</td><td>sekundär<sup>c</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
-<tr><td>5725,000</td><td>–</td><td>5850,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
+<tr><td>2300,000</td><td>–</td><td>2400,000 MHz</td><td>sekundär<sup>b,g</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
+<tr><td>2400,000</td><td>–</td><td>2450,000 MHz</td><td>sekundär<sup>b,g</sup></td><td>sekundär<sup>b,g</sup></td><td>100 W</td></tr>
+<tr><td>5650,000</td><td>–</td><td>5670,000 MHz</td><td>sekundär<sup>b</sup></td><td>sekundär<sup>b,d</sup></td><td>100 W</td></tr>
+<tr><td>5670,000</td><td>–</td><td>5850,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
 <tr><td>10000,000</td><td>–</td><td>10450,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>100 W</td></tr>
-<tr><td>10450,000</td><td>–</td><td>10500,000 MHz</td><td>sekundär<sup>b</sup></td><td>sekundär</td><td>100 W</td></tr>
+<tr><td>10450,000</td><td>–</td><td>10500,000 MHz</td><td>sekundär<sup>b</sup></td><td>sekundär<sup>b</sup></td><td>100 W</td></tr>
 <tr><td>24000,000</td><td>–</td><td>24050,000 MHz</td><td>primär</td><td>primär</td><td>10 W</td></tr>
 <tr><td>24050,000</td><td>–</td><td>24250,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td>10 W</td></tr>
 <tr><td>47,000</td><td>–</td><td>47,200 GHz</td><td>primär</td><td>primär</td><td>10 W</td></tr>
@@ -304,17 +301,17 @@ Anhang 4[^t-3]
 ### 2. Frequenzbereiche für Inhaberinnen und Inhaber eines Fähigkeitszeugnisses nach Artikel 44 Absatz 1 Buchstabe a Ziffer 4 VNF
 
 <table>
-<tr><td>Frequenzbereich</td><td colspan="3"></td><td></td><td colspan="2">Status für terrestrische Verbindungen</td><td colspan="2">Status für Verbindungen über Amateurfunk-Satelliten</td><td>Maximale Senderleistung<sup>a</sup></td></tr>
-<tr><td>144,000</td><td colspan="3">–</td><td>146,000 MHz</td><td colspan="2">primär</td><td colspan="2">primär</td><td>50 W</td></tr>
-<tr><td>430,000</td><td colspan="3">–</td><td>435,000 MHz</td><td colspan="2">sekundär<sup>b</sup></td><td colspan="2">nicht zulässig</td><td>50 W</td></tr>
-<tr><td>435,000</td><td colspan="3">–</td><td>438,000 MHz</td><td colspan="2">primär</td><td colspan="2">sekundär<sup>b</sup></td><td>50 W</td></tr>
-<tr><td>438,000</td><td colspan="3">–</td><td>440,000 MHz</td><td colspan="2">sekundär<sup>b</sup></td><td colspan="2">nicht zulässig</td><td>50 W</td></tr>
-<tr><td>1810,000</td><td colspan="3">–</td><td>1850,000 kHz</td><td colspan="2">primär</td><td colspan="2">nicht zulässig</td><td>100 W</td></tr>
-<tr><td>1850,000</td><td colspan="3">–</td><td>2000,000 kHz</td><td colspan="2">sekundär<sup>b</sup></td><td colspan="2">nicht zulässig</td><td>100 W</td></tr>
-<tr><td>3500,000</td><td colspan="3">–</td><td>3800,000 kHz</td><td colspan="2">sekundär<sup>b</sup></td><td colspan="2">nicht zulässig</td><td>100 W</td></tr>
-<tr><td>21000,000</td><td colspan="3">–</td><td>21450,000 kHz</td><td colspan="2">primär</td><td colspan="2">primär</td><td>100 W</td></tr>
-<tr><td>28000,000</td><td colspan="3">–</td><td>29700,000 kHz</td><td colspan="2">primär</td><td colspan="2">primär</td><td>100 W</td></tr>
-<tr><td colspan="10"><sup>a</sup> Die Spitzenleistung beim Senderausgang ist die Durchschnittsleistung, die ein Sender während einer Periode der Hochfrequenzschwingung bei der höchsten Spitze der Modulationshüllkurve maximal abgeben darf (PEP). <sup>b</sup> Frequenzbereich, der auch anderen Nutzerinnen und Nutzern zur Verfügung steht, die bei der Nutzung Vorrang haben. <sup>c</sup> Frequenzbereich, der nur nach erfolgter Meldung beim BAKOM nach Art. 33 Abs. 1 Bst. d VNF benutzt werden darf. <sup>d</sup> Nur für Verbindungen von der Erde zum Satelliten. <sup>e</sup> Effective Radiated Power. <sup>f</sup> Effective Isotropically Radiated Power.</td></tr>
+<tr><th colspan="3">Frequenzbereich</th><th>Status für terrestrische Verbindungen</th><th>Status für Verbindungen über Amateurfunk-Satelliten</th><th colspan="2">Maximale Senderleistung <sup>a</sup></th></tr>
+<tr><td>1810,000</td><td>–</td><td>1850,000 kHz</td><td>primär</td><td>nicht zulässig</td><td colspan="2">100 W</td></tr>
+<tr><td>1850,000</td><td>–</td><td>2000,000 kHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td colspan="2">100 W</td></tr>
+<tr><td>3500,000</td><td>–</td><td>3800,000 kHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td colspan="2">100 W</td></tr>
+<tr><td>21000,000</td><td>–</td><td>21450,000 kHz</td><td>primär</td><td>primär</td><td colspan="2">100 W</td></tr>
+<tr><td>28000,000</td><td>–</td><td>29700,000 kHz</td><td>primär</td><td>primär</td><td colspan="2">100 W</td></tr>
+<tr><td>144,000</td><td>–</td><td>146,000 MHz</td><td>primär</td><td>primär</td><td colspan="2">50 W</td></tr>
+<tr><td>430,000</td><td>–</td><td>435,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td colspan="2">50 W</td></tr>
+<tr><td>435,000</td><td>–</td><td>438,000 MHz</td><td>primär</td><td>sekundär<sup>b</sup></td><td colspan="2">50 W</td></tr>
+<tr><td>438,000</td><td>–</td><td>440,000 MHz</td><td>sekundär<sup>b</sup></td><td>nicht zulässig</td><td colspan="2">50 W</td></tr>
+<tr><td colspan="6"><sup>a</sup> Die Spitzenleistung beim Senderausgang ist die Durchschnittsleistung, die ein Sender während einer Periode der Hochfrequenzschwingung bei der höchsten Spitze der Modulationshüllkurve maximal abgeben darf (PEP). <sup>b</sup> Frequenzbereich, der auch anderen Nutzerinnen und Nutzern zur Verfügung steht, die bei der Nutzung Vorrang haben. <sup>c</sup> Frequenzbereich, der nur benutzt werden darf, wenn die Nutzung dem BAKOM vorgängig gemeldet wurde (Art. 33 Abs. 1 Bst. d VNF). <sup>d</sup> Nur für Verbindungen von der Erde zum Satelliten. <sup>e</sup> Effective Radiated Power. <sup>f</sup> Effective Isotropically Radiated Power. <sup>g</sup> Frequenzbereich, der mit mehr als 20 W Senderleistung nur benutzt werden darf, wenn die Nutzung dem BAKOM vorgängig gemeldet wurde (Art. 33 Abs. 1 Bst. d VNF).</td></tr>
 </table>
 
 Anhang 5

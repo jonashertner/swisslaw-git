@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 18 novembre 2020 sur l'utilisation du spectre d
 short: OOUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20250101/fr"
 
 (OOUS)
 
-du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2025)
+du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2026)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -25,8 +25,8 @@ vu les art. 8, al. 3, 14, al. 4, 15, al. 2, 46, 51, al. 2, et 60, al. 1, de l’
 
 arrête:
 
-[^ingress-1]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
-[^ingress-2]: [RS 784.106](https://fedlex.data.admin.ch/eli/cc/2020/1028)
+[^ingress-1]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
+[^ingress-2]: [RS 784.106](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9200)
 
 ## Section 1 Dispositions générales
 
@@ -46,7 +46,7 @@ arrête:
 
 <sup>2</sup> L’al. 1 n’est pas applicable aux installations de radiocommunication utilisées pour la diffusion de programmes de radio et de télévision.
 
-[^2-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^2-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 3
 
@@ -103,7 +103,7 @@ Si le titulaire d’un des certificats de capacité suivants exploite son instal
 - a. certificat de capacité selon l’art. 44, al. 1, let. a, ch. 1 à 3, OUS: «HBØ/» (HB zéro barre oblique);
 - b. certificat de capacité selon l’art. 44, al. 1, let. a, ch. 4, OUS: «HBØY/» (HB zéro Yankee barre oblique).
 
-[^7-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^7-1]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 ## Section 4 Examens pour opérateurs radio
 
@@ -193,10 +193,10 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 12 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 695](https://fedlex.data.admin.ch/eli/oc/2024/695)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/695](https://fedlex.data.admin.ch/eli/oc/2024/695) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. Des tirés à part peuvent être obtenus contre paiement auprès de l’OFCL, Vente des publications fédérales, 3003 Berne ([www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch/fr/)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 736](https://fedlex.data.admin.ch/eli/oc/2025/736)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/736](https://fedlex.data.admin.ch/eli/oc/2025/736) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. Des tirés à part peuvent être obtenus contre paiement auprès de l’OFCL, Vente des publications fédérales, 3003 Berne ([www.publicationsfederales.admin.ch](https://www.bundespublikationen.admin.ch/fr/)).
 
-Version 7 du 12 novembre 2024
+Version 8 du 12 novembre 2025
 
 Annexe 2[^t-2]
 
@@ -249,12 +249,12 @@ Annexe 4[^t-3]
 
 ## Utilisation des domaines de fréquences selon l’art. 44 OUS
 
-[^t-3]: Mise à jour par le ch. I al. 2 de l’O de l’OFCOM du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 736](https://fedlex.data.admin.ch/eli/oc/2025/736)).
 
 ### 1. Domaines de fréquences utilisables par les titulaires d’un certificat de capacité selon l’art. 44, al. 1, let. a, ch. 1 à 3, OUS
 
 <table>
-<tr><th>Domaine de fréquences</th><th></th><th></th><th>Statut pour les liaisons terrestres</th><th>Statut pour les liaisons de radioamateurs par satellite</th><th>Puissance maximale d’émission<sup>a</sup></th></tr>
+<tr><th colspan="3">Domaine de fréquences</th><th>Statut pour les liaisons terrestres</th><th>Statut pour les liaisons de radioamateurs par satellite</th><th>Puissance maximale d’émission<sup>a</sup></th></tr>
 <tr><td>135,700</td><td>–</td><td>137,800 kHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>1 W ERP<sup>e</sup></td></tr>
 <tr><td>472,000</td><td>–</td><td>479,000 kHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>5 W EIRP<sup>f</sup></td></tr>
 <tr><td>1810,000</td><td>–</td><td>1850,000 kHz</td><td>primaire</td><td>non admis</td><td>1000 W</td></tr>
@@ -276,18 +276,15 @@ Annexe 4[^t-3]
 <tr><td>430,000</td><td>–</td><td>435,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>1000 W</td></tr>
 <tr><td>435,000</td><td>–</td><td>438,000 MHz</td><td>primaire</td><td>secondaire<sup>b</sup></td><td>1000 W</td></tr>
 <tr><td>438,000</td><td>–</td><td>440,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>1000 W</td></tr>
-<tr><td>1240,000</td><td>–</td><td>1260,000 MHz</td><td>secondaire<sup>c</sup></td><td>non admis</td><td>1000 W</td></tr>
-<tr><td>1260,000</td><td>–</td><td>1270,000 MHz</td><td>secondaire<sup>b</sup></td><td>secondaire<sup>b,</sup> <sup>d</sup></td><td>1000 W</td></tr>
+<tr><td>1240,000</td><td>–</td><td>1260,000 MHz</td><td>secondaire<sup>b,</sup><sup>c</sup></td><td>non admis</td><td>1000 W</td></tr>
+<tr><td>1260,000</td><td>–</td><td>1270,000 MHz</td><td>secondaire<sup>b</sup></td><td>secondaire<sup>b,d</sup></td><td>1000 W</td></tr>
 <tr><td>1270,000</td><td>–</td><td>1300,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>1000 W</td></tr>
-<tr><td>2300,000</td><td>–</td><td>2308,000 MHz</td><td>secondaire<sup>c</sup></td><td>non admis</td><td>100 W</td></tr>
-<tr><td>2308,000</td><td>–</td><td>2312,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>100 W</td></tr>
-<tr><td>2312,000</td><td>–</td><td>2400,000 MHz</td><td>secondaire<sup>c</sup></td><td>non admis</td><td>100 W</td></tr>
-<tr><td>2400,000</td><td>–</td><td>2450,000 MHz</td><td>secondaire<sup>c</sup></td><td>secondaire<sup>c</sup></td><td>100 W</td></tr>
-<tr><td>5650,000</td><td>–</td><td>5670,000 MHz</td><td>secondaire<sup>c</sup></td><td>secondaire<sup>c,</sup> <sup>d</sup></td><td>100 W</td></tr>
-<tr><td>5670,000</td><td>–</td><td>5725,000 MHz</td><td>secondaire<sup>c</sup></td><td>non admis</td><td>100 W</td></tr>
-<tr><td>5725,000</td><td>–</td><td>5850,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>100 W</td></tr>
+<tr><td>2300,000</td><td>–</td><td>2400,000 MHz</td><td>secondaire<sup>b,g</sup></td><td>non admis</td><td>100 W</td></tr>
+<tr><td>2400,000</td><td>–</td><td>2450,000 MHz</td><td>secondaire<sup>b,g</sup></td><td>secondaire<sup>b,g</sup></td><td>100 W</td></tr>
+<tr><td>5650,000</td><td>–</td><td>5670,000 MHz</td><td>secondaire<sup>b</sup></td><td>secondaire<sup>b,</sup><sup>d</sup></td><td>100 W</td></tr>
+<tr><td>5670,000</td><td>–</td><td>5850,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>100 W</td></tr>
 <tr><td>10000,000</td><td>–</td><td>10450,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>100 W</td></tr>
-<tr><td>10450,000</td><td>–</td><td>10500,000 MHz</td><td>secondaire<sup>b</sup></td><td>secondaire</td><td>100 W</td></tr>
+<tr><td>10450,000</td><td>–</td><td>10500,000 MHz</td><td>secondaire<sup>b</sup></td><td>secondaire<sup>b</sup></td><td>100 W</td></tr>
 <tr><td>24000,000</td><td>–</td><td>24050,000 MHz</td><td>primaire</td><td>primaire</td><td>10 W</td></tr>
 <tr><td>24050,000</td><td>–</td><td>24250,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>10 W</td></tr>
 <tr><td>47,000</td><td>–</td><td>47,200 GHz</td><td>primaire</td><td>primaire</td><td>10 W</td></tr>
@@ -304,17 +301,17 @@ Annexe 4[^t-3]
 ### 2. Domaines de fréquences utilisables par les titulaires d’un certificat de capacité selon l’art. 44, al. 1, let. a, ch. 4, OUS
 
 <table>
-<tr><td>Domaine de fréquences</td><td></td><td></td><td>Statut pour les liaisons terrestres</td><td>Statut pour les liaisons de radioamateurs par satellite</td><td>Puissance maximale d’émission<sup>a</sup></td></tr>
-<tr><td>144,000</td><td>–</td><td>146,000 MHz</td><td>primaire</td><td>primaire</td><td>50 W</td></tr>
-<tr><td>430,000</td><td>–</td><td>435,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>50 W</td></tr>
-<tr><td>435,000</td><td>–</td><td>438,000 MHz</td><td>primaire</td><td>secondaire<sup>b</sup></td><td>50 W</td></tr>
-<tr><td>438,000</td><td>–</td><td>440,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>50 W</td></tr>
+<tr><th colspan="3">Domaine de fréquences</th><th>Statut pour les liaisons terrestres</th><th>Statut pour les liaisons de radioamateurs par satellite</th><th>Puissance maximale d’émission<sup>a</sup></th></tr>
 <tr><td>1810,000</td><td>–</td><td>1850,000 kHz</td><td>primaire</td><td>non admis</td><td>100 W</td></tr>
 <tr><td>1850,000</td><td>–</td><td>2000,000 kHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>100 W</td></tr>
 <tr><td>3500,000</td><td>–</td><td>3800,000 kHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>100 W</td></tr>
 <tr><td>21000,000</td><td>–</td><td>21450,000 kHz</td><td>primaire</td><td>primaire</td><td>100 W</td></tr>
 <tr><td>28000,000</td><td>–</td><td>29700,000 kHz</td><td>primaire</td><td>primaire</td><td>100 W</td></tr>
-<tr><td colspan="6">a La puissance de crête à la sortie d’un émetteur est la moyenne de la puissance qu’un émetteur peut fournir au cours d’un cycle de radiofréquence correspondant à l’amplitude maximale de l’enveloppe de modulation (PEP). b Domaine de fréquences également disponible pour d’autres usagers qui peuvent l’utiliser en priorité. c Domaine de fréquences qui ne peut être utilisé qu’une fois l’annonce faite auprès de l’OFCOM conformément à l’art 33, al. 1, let. d, OUS. d Uniquement pour les liaisons de la Terre au satellite. e Effective Radiated Power. f Effective Isotropically Radiated Power.</td></tr>
+<tr><td>144,000</td><td>–</td><td>146,000 MHz</td><td>primaire</td><td>primaire</td><td>50 W</td></tr>
+<tr><td>430,000</td><td>–</td><td>435,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>50 W</td></tr>
+<tr><td>435,000</td><td>–</td><td>438,000 MHz</td><td>primaire</td><td>secondaire<sup>b</sup></td><td>50 W</td></tr>
+<tr><td>438,000</td><td>–</td><td>440,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>50 W</td></tr>
+<tr><td colspan="6"><sup>a</sup> La puissance de crête à la sortie d’un émetteur est la moyenne de la puissance qu’un émetteur peut fournir au cours d’un cycle de radiofréquence correspondant à l’amplitude maximale de l’enveloppe de modulation (PEP). <sup>b</sup> Domaine de fréquences également disponible pour d’autres usagers qui peuvent l’utiliser en priorité. <sup>c</sup> Domaine de fréquences qui ne peut être utilisé que si son utilisation a été préalablement annoncée à l’OFCOM conformément à l’art. 33, al. 1, let. d, OUS. <sup>d</sup> Uniquement pour les liaisons de la Terre au satellite. <sup>e</sup> Effective Radiated Power. <sup>f</sup> Effective Isotropically Radiated Power. <sup>g</sup> Domaine de fréquences qui ne peut être utilisé avec une puissance d’émission supérieure à 20 W que si son utilisation a été préalablement annoncée à l’OFCOM conformément à l’art. 33, al. 1, let. d, OUS.</td></tr>
 </table>
 
 Annexe 5[^t-4]
