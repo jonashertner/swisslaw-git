@@ -4,13 +4,13 @@ number: "351"
 title: Verordnung über die Luzerner Polizei
 short: PolV
 language: de
-version: 2025-12-01
-valid_until: 2025-12-31
-version_adopted: 2025-08-18
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-11-18
 adopted: 2004-04-06
 in_force: 2004-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/351"
-pdf: "https://srl.lu.ch/api/de/versions/4545/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4545/pdf_file"
 
 (PolV)
 
-vom 06.04.2004 (Stand 01.12.2025)
+vom 06.04.2004 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -244,9 +244,9 @@ beschliesst:
 
 #### § 8a
 
-**Wahl der Abteilungsleiterinnen und -leiter sowie des stellvertretenden Kommandanten oder der stellvertretenden Kommandantin**
+**Anstellung der Abteilungsleiterinnen und -leiter sowie des stellvertretenden Kommandanten oder der stellvertretenden Kommandantin**
 
-<sup>1</sup> Der Vorsteher oder die Vorsteherin des Justiz- und Sicherheitsdepartementes wählt auf Antrag des Kommandanten oder der Kommandantin die Abteilungsleiterinnen und -leiter sowie aus ihrem Kreis den stellvertretenden Kommandanten oder die stellvertretende Kommandantin.
+<sup>1</sup> Der Vorsteher oder die Vorsteherin des Justiz- und Sicherheitsdepartementes stellt auf Antrag des Kommandanten oder der Kommandantin die Abteilungsleiterinnen und -leiter an und bestimmt aus ihrem Kreis den stellvertretenden Kommandanten oder die stellvertretende Kommandantin.
 
 #### § 9
 
@@ -319,7 +319,7 @@ beschliesst:
 - o. Oberstleutnant
 - p. Oberst
 
-<sup>3</sup> Soweit keine besondere Regelung besteht, ist die Wahlbehörde für die Zuweisung der Dienstgrade zuständig.
+<sup>3</sup> Soweit keine besondere Regelung besteht, weist die für die Anstellung zuständige Behörde die Dienstgrade zu.
 
 #### § 11
 
@@ -336,7 +336,7 @@ beschliesst:
 <tr><td>Leitung spezialisierter Fachbereich:</td><td>Oberleutnant, Hauptmann, Major, Oberstleutnant</td></tr>
 </table>
 
-<sup>2</sup> Ist zur Ausübung einer Tätigkeit ein höherer Dienstgrad angezeigt, kann die zuständige Wahlbehörde in Einzelfällen nach eigenem Ermessen einen höheren Dienstgrad zuweisen.
+<sup>2</sup> Ist zur Ausübung einer Tätigkeit ein höherer Dienstgrad angezeigt, kann die zuständige Anstellungsbehörde in Einzelfällen nach eigenem Ermessen einen höheren Dienstgrad zuweisen.
 
 <sup>3</sup> Der Dienstgrad der Kommandantin oder des Kommandanten wird von der Vorsteherin oder vom Vorsteher des Justiz- und Sicherheitsdepartementes festgelegt.
 
