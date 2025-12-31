@@ -3,20 +3,20 @@ canton: LU
 number: "787"
 title: Verordnung über die Schifffahrt
 language: de
-version: 2024-05-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-12
+version: 2026-01-01
+valid_until: 2026-03-31
+version_adopted: 2025-12-09
 adopted: 2011-02-18
 in_force: 2011-03-01
 url: "https://srl.lu.ch/app/de/texts_of_law/787"
-pdf: "https://srl.lu.ch/api/de/versions/4197/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4619/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schifffahrt
 
-vom 18.02.2011 (Stand 01.05.2024)
+vom 18.02.2011 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -354,7 +354,7 @@ beschliesst:
 
 **Zulassungsbewilligung**
 
-<sup>1</sup> Die Zulassungsbewilligung lautet auf die im Schiffsausweis eingetragene Person und ist nicht übertragbar. Davon ausgenommen ist die Übertragung auf den Ehegatten oder die Ehegattin, den eingetragenen Partner oder die eingetragene Partnerin oder auf eine einzelne Person innerhalb der Verwandtschaft in gerader Linie sowie im Bootsgewerbe mit Geschäftsübergabe.
+<sup>1</sup> Die Zulassungsbewilligung lautet auf die im Schiffsausweis eingetragene Person und ist nicht übertragbar. Davon ausgenommen ist die Übertragung auf den Ehegatten oder die Ehegattin, den eingetragenen Partner oder die eingetragene Partnerin, den Lebenspartner oder die Lebenspartnerin, der oder die mit der eingetragenen Person seit mindestens fünf Jahren ununterbrochen einen gemeinsamen Haushalt führt, oder auf eine einzelne Person innerhalb der Verwandtschaft in gerader Linie sowie im Boots- und Fischereigewerbe mit Geschäftsübergabe.
 
 <sup>2</sup> Die Zulassungsbewilligung für Schiffe mit Verbrennungsmotoren, welche zahlenmässig beschränkt sind, wird mit der Zuteilung des Kontrollschildes und der Abgabe des Schiffsausweises erteilt.
 
@@ -457,7 +457,7 @@ beschliesst:
 
 **Zulassungsbewilligung**
 
-<sup>1</sup> Die Zulassungsbewilligung lautet auf die im Schiffsausweis eingetragene Person und ist nicht übertragbar. Davon ausgenommen ist die Übertragung auf den Ehegatten oder die Ehegattin, den eingetragenen Partner oder die eingetragene Partnerin oder auf eine einzelne Person innerhalb der Verwandtschaft in gerader Linie sowie im Bootsgewerbe mit Geschäftsübergabe.
+<sup>1</sup> Die Zulassungsbewilligung lautet auf die im Schiffsausweis eingetragene Person und ist nicht übertragbar. Davon ausgenommen ist die Übertragung auf den Ehegatten oder die Ehegattin, den eingetragenen Partner oder die eingetragene Partnerin, den Lebenspartner oder die Lebenspartnerin, der oder die mit der eingetragenen Person seit mindestens fünf Jahren ununterbrochen einen gemeinsamen Haushalt führt, oder auf eine einzelne Person innerhalb der Verwandtschaft in gerader Linie sowie im Boots- und Fischereigewerbe mit Geschäftsübergabe.
 
 <sup>2</sup> Die Zulassungsbewilligung für Schiffe mit Verbrennungsmotoren, welche zahlenmässig beschränkt sind, wird mit der Zuteilung des Kontrollschildes und der Abgabe des Schiffsausweises erteilt.
 
