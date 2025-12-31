@@ -4,13 +4,12 @@ number: "152.221.141"
 title: Verordnung über die Organisation und die Aufgaben der Sicherheitsdirektion
 short: Organisationsverordnung SID; OrV SID
 language: de
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-10-23
+version: 2026-01-01
+version_adopted: 2025-11-05
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.141"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1723/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3255/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1723/pdf_file"
 
 (Organisationsverordnung SID; OrV SID)
 
-vom 18.10.1995 (Stand 01.01.2020)
+vom 18.10.1995 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -161,7 +160,8 @@ beschliesst:
 - k ist zuständig für zentrale Beschaffungen von Fahrzeugen, Treibstoff und Mobilitätsdienstleistungen,
 - l vertritt den Regierungsrat und die Direktion in ihrem Geschäftsbereich vor kantonalen und eidgenössischen Verwaltungsjustizbehörden und Gerichten,
 - m erfüllt die dem Kanton gemäss Bundesrecht obliegenden Aufgaben im Bereich des Staatsschutzes,
-- n ist Bewilligungs- und Aufsichtsbehörde im Bereich der privaten Sicherheitsleistungen.
+- n ist Bewilligungs- und Aufsichtsbehörde im Bereich der privaten Sicherheitsdienstleistungen,
+- o stellt die Transporte von eingewiesenen Personen sicher, die sich im Justizvollzug befinden.
 
 <sup>2</sup> Sie besorgt das Finanz-, Rechnungs- und Personalwesen, die Informatik, das Controlling sowie weitere Querschnittsaufgaben in ihrem Zuständigkeitsbereich.
 
@@ -185,7 +185,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Justizvollzug
 
-- a erfüllt alle mit dem Justizvollzug zusammenhängenden Aufgaben unter Vorbehalt von Artikel 11 Absatz 1 Buchstabe i,
+- a erfüllt alle mit dem Justizvollzug zusammenhängenden Aufgaben unter Vorbehalt von Artikel 8 Absatz 1 Buchstabe o und Artikel 11 Absatz 1 Buchstabe i,
 - b übt im Rahmen der Bewährungshilfe und der sozialen Betreuung die im Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (StGB)[^10-1] vorgesehenen Aufgaben aus,
 - c ist für Planung, Konzipierung, Führung und Betrieb der ihr angegliederten Vollzugseinrichtungen verantwortlich,
 - d besorgt die Vollzugsadministration und führt ein Vollzugsregister.

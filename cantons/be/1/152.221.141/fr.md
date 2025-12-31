@@ -4,13 +4,12 @@ number: "152.221.141"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de la sécurité *"
 short: "Ordonnance d'organisation DSE, OO DSE"
 language: fr
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-10-23
+version: 2026-01-01
+version_adopted: 2025-11-05
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.141"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1723/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3255/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1723/pdf_file"
 
 (Ordonnance d'organisation DSE, OO DSE)
 
-du 18.10.1995 (état au 01.01.2020)
+du 18.10.1995 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -161,7 +160,8 @@ arrête:
 - k est compétente pour les achats centralisés de véhicules, de carburant et de prestations de mobilité;
 - l représente le Conseil-exécutif et la Direction devant les tribunaux et devant les autorités de justice administrative cantonales et fédérales dans les affaires de son ressort;
 - m s'acquitte des obligations attribuées au canton par la législation fédérale en matière de sécurité de l'État;
-- n est l'autorité délivrant les autorisations et assurant la surveillance dans le domaine des prestations de sécurité privées.
+- n est l'autorité délivrant les autorisations et assurant la surveillance dans le domaine des prestations de sécurité privées,
+- o assure le transport de personnes détenues qui se trouvent en exécution judiciaire.
 
 <sup>2</sup> Elle s'occupe des finances, de la comptabilité, du personnel, de l'informatique, du contrôle de gestion ainsi que d'autres tâches inter-offices dans son domaine de compétences.
 
@@ -185,7 +185,7 @@ arrête:
 
 <sup>1</sup> L'Office de l'exécution judiciaire
 
-- a accomplit toutes les tâches ayant trait à l'exécution judiciaire, sous réserve de l'article 11, alinéa 1, lettre i;
+- a accomplit toutes les tâches ayant trait à l'exécution judiciaire, sous réserve de l'article 8, alinéa 1, lettre o et de l'article 11, alinéa 1, lettre i;
 - b accomplit les tâches prévues par le Code pénal suisse du 21 décembre 1937 (CP)[^10-1] dans le cadre de l'assistance de probation et de l'assistance sociale;
 - c est responsable de la planification, de la conception, de la direction et de l'exploitation des établissements d'exécution qui lui sont rattachés;
 - d s'occupe de l'administration de l'application des peines et des mesures et tient un registre de l'application des peines et des mesures.
