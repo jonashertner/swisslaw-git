@@ -1,37 +1,34 @@
 ---
 canton: UR
 number: "1.1111"
-title: GEMEINDEGESETZ
+title: Gemeindegesetz
 short: GEG
 language: de
-version: 2017-06-01
-corrected: 2025-08-21
-version_adopted: 2017-05-21
+version: 2026-01-01
+version_adopted: 2025-11-30
 adopted: 2017-05-21
 in_force: 2017-06-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.1111"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/3/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/1111/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# GEMEINDEGESETZ
+# Gemeindegesetz
 
-GEMEINDEGESETZ (GEG)
+(GEG)
 
-(vom 21. Mai 2017[^t-1]; Stand am 1. Juni 2017)
+Vom 21.05.2017 (Stand 01.01.2026)
 
-Das Volk des Kantons Uri, gestützt auf Artikel 24 Buchstabe b und Artikel 67 Absatz 2 der Verfassung des Kantons Uri[^t-2],
+Das Volk des Kantons Uri,
+
+gestützt auf Artikel 24 Buchstabe b und Artikel 67 Absatz 2 der Verfassung des Kantons Uri (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
 
 beschliesst:
 
-[^t-1]: AB vom 7. Oktober 2016
-[^t-2]: RB 1.1101
+## 1 Allgemeine Bestimmungen
 
-### 1. Teil: ALLGEMEINE BESTIMMUNGEN
-
-### 1. Kapitel: GEGENSTAND, GELTUNGSBEREICH UND AUTONOMIE
+### 1.1 Gegenstand, Geltungsbereich und Autonomie
 
 #### Artikel 1
 
@@ -49,15 +46,15 @@ beschliesst:
 
 **Autonomie**
 
-Die Gemeinden ordnen ihre Angelegenheiten im Rahmen des übergeordneten Rechts selbstständig.
+<sup>1</sup> Die Gemeinden ordnen ihre Angelegenheiten im Rahmen des übergeordneten Rechts selbstständig.
 
-### 2. Kapitel: RECHTSETZUNG
+### 1.2 Rechtsetzung
 
 #### Artikel 3
 
 **Gemeindeordnung**
 
-Die Gemeinden regeln die Grundzüge ihrer Organisation, die Zuständigkeiten ihrer Organe und die Mitwirkung der Stimmberechtigten in der Gemeindeordnung.
+<sup>1</sup> Die Gemeinden regeln die Grundzüge ihrer Organisation, die Zuständigkeiten ihrer Organe und die Mitwirkung der Stimmberechtigten in der Gemeindeordnung.
 
 #### Artikel 4
 
@@ -71,7 +68,7 @@ Die Gemeinden regeln die Grundzüge ihrer Organisation, die Zuständigkeiten ihr
 
 **Zuständigkeit**
 
-Soweit das übergeordnete Recht und dieses Gesetz nichts anderes bestimmen, sind die Stimmberechtigten zuständig, Recht zu setzen.
+<sup>1</sup> Soweit das übergeordnete Recht und dieses Gesetz nichts anderes bestimmen, sind die Stimmberechtigten zuständig, Recht zu setzen.
 
 #### Artikel 6
 
@@ -85,9 +82,9 @@ Soweit das übergeordnete Recht und dieses Gesetz nichts anderes bestimmen, sind
 
 **Rechtssammlung**
 
-Die Gemeinden veröffentlichen ihr Recht in einer systematisch aufgebauten Rechtssammlung.
+<sup>1</sup> Die Gemeinden veröffentlichen ihr Recht in einer systematisch aufgebauten Rechtssammlung.
 
-### 3. Kapitel: VERÖFFENTLICHUNGEN
+### 1.3 Veröffentlichungen
 
 #### Artikel 8
 
@@ -95,11 +92,11 @@ Die Gemeinden veröffentlichen ihr Recht in einer systematisch aufgebauten Recht
 
 <sup>1</sup> Rechtserlasse, allgemeinverbindliche Beschlüsse, die die Bevölkerung betreffen, und Wahl- und Abstimmungsergebnisse werden veröffentlicht.
 
-2 Die Gemeinde bestimmt in einem Rechtserlass das Publikationsorgan. Für Rechtserlasse kann sie die Internetseite der Gemeinde als Publikationsorgan bezeichnen.
+<sup>2</sup> Die Gemeinde bestimmt in einem Rechtserlass das Publikationsorgan. Für Rechtserlasse kann sie die Internetseite der Gemeinde als Publikationsorgan bezeichnen.
 
-### 2. Teil: ORGANE
+## 2 Organe
 
-### 1. Kapitel: STIMMBERECHTIGTE
+### 2.1 Stimmberechtigte
 
 #### Artikel 9
 
@@ -115,7 +112,7 @@ Die Gemeinden veröffentlichen ihr Recht in einer systematisch aufgebauten Recht
 
 **Oberstes Organ**
 
-Oberstes Organ der Gemeinde sind die Stimmberechtigten. Sie üben ihre Rechte an der Urne oder an der Gemeindeversammlung aus.
+<sup>1</sup> Oberstes Organ der Gemeinde sind die Stimmberechtigten. Sie üben ihre Rechte an der Urne oder an der Gemeindeversammlung aus.
 
 #### Artikel 11
 
@@ -127,13 +124,13 @@ Oberstes Organ der Gemeinde sind die Stimmberechtigten. Sie üben ihre Rechte an
 
 <sup>3</sup> Abstimmungen und Wahlen, die an der Urne vorzunehmen sind, richten sich nach dem kantonalen Recht.
 
-### 2. Kapitel: GEMEINDEVERSAMMLUNG
+### 2.2 Gemeindeversammlung
 
 #### Artikel 12
 
 **Begriff**
 
-Die Gemeindeversammlung ist die Versammlung der Stimmberechtigten einer Gemeinde mit dem Zweck, über Geschäfte zu entscheiden und Wahlen zu treffen, die in ihren Zuständigkeitsbereich fallen.
+<sup>1</sup> Die Gemeindeversammlung ist die Versammlung der Stimmberechtigten einer Gemeinde mit dem Zweck, über Geschäfte zu entscheiden und Wahlen zu treffen, die in ihren Zuständigkeitsbereich fallen.
 
 #### Artikel 13
 
@@ -153,11 +150,9 @@ Die Gemeindeversammlung ist die Versammlung der Stimmberechtigten einer Gemeinde
 
 <sup>2</sup> Die Verfahrensordnung kann Varianten-, Grundsatz- oder Konsultativabstimmungen vorsehen. Dabei gilt Folgendes:
 
-- a) bei Variantenabstimmungen dürfen den Stimmberechtigten höchstens zwei Varianten zur Abstimmung unterbreitet werden. Der Gemeinderat hat die Variante zu bezeichnen, der er den Vorzug gibt;
-
-- b) eine Grundsatzfrage, der die Stimmberechtigten zugestimmt haben, ist für den Gemeinderat bindend;
-
-- c) die Konsultativabstimmung richtet sich nach dem ordentlichen Abstimmungsverfahren. Das Ergebnis ist nicht bindend.
+- a) bei Variantenabstimmungen dürfen den Stimmberechtigten höchstens zwei Varianten zur Abstimmung unterbreitet werden. Der Gemeinderat hat die Variante zu bezeichnen, der er den Vorzug gibt
+- b) eine Grundsatzfrage, der die Stimmberechtigten zugestimmt haben, ist für den Gemeinderat bindend
+- c) die Konsultativabstimmung richtet sich nach dem ordentlichen Abstimmungsverfahren. Das Ergebnis ist nicht bindend
 
 #### Artikel 15
 
@@ -167,23 +162,20 @@ Die Gemeindeversammlung ist die Versammlung der Stimmberechtigten einer Gemeinde
 
 <sup>2</sup> Nicht stimmberechtigte Personen sind von den Stimmberechtigten getrennt zu platzieren. Die Verhandlungsleitung kann sie aus dem Versammlungsraum weisen, wenn überwiegende öffentliche oder private Interessen es erfordern.
 
-### 3. Kapitel: BEHÖRDEN
+### 2.3 Behörden
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 2.3.1 Allgemeine Bestimmungen
 
 #### Artikel 16
 
 **Begriff**
 
-Als Behörden nach diesem Gesetz gelten:
+<sup>1</sup> Als Behörden nach diesem Gesetz gelten:
 
-- a) der Gemeinderat;
-
-- b) der Schulrat;
-
-- c) der Sozialrat;
-
-- d) die selbstständigen Kommissionen.
+- a) der Gemeinderat
+- b) der Schulrat
+- c) der Sozialrat
+- d) die selbstständigen Kommissionen
 
 #### Artikel 17
 
@@ -191,27 +183,27 @@ Als Behörden nach diesem Gesetz gelten:
 
 <sup>1</sup> Die Grundzüge der Organisation der Behörden richten sich nach den Bestimmungen der Kantonsverfassung und der Gemeindeordnung.
 
-<sup>2</sup> Das gilt insbesondere für die Unvereinbarkeit, den Verwandtenausschluss, den Ausstand, die Beschlussfähigkeit, die Beschlussfassung, die Amtsdauer und den Amtszwang[^17-1].
+<sup>2</sup> Das gilt insbesondere für die Unvereinbarkeit, den Verwandtenausschluss, den Ausstand, die Beschlussfähigkeit, die Beschlussfassung, die Amtsdauer und den Amtszwang[^Artikel17-1].
 
-[^17-1]: Siehe Artikel 75 bis 86 der Kantonsverfassung.
+[^Artikel17-1]: Siehe Artikel 75 bis 86 der Kantonsverfassung.
 
 #### Artikel 18
 
 **Verfahrensregeln**
 
-Im Rahmen des übergeordneten Rechts erlässt die Gemeinde Vorschriften für das Verfahren in den Behörden.
+<sup>1</sup> Im Rahmen des übergeordneten Rechts erlässt die Gemeinde Vorschriften für das Verfahren in den Behörden.
 
 #### Artikel 19
 
 **Ausschluss der Öffentlichkeit**
 
-Die Verhandlungen der Behörden sind nicht öffentlich.
+<sup>1</sup> Die Verhandlungen der Behörden sind nicht öffentlich.
 
 #### Artikel 20
 
 **Information der Öffentlichkeit**
 
-Die Pflicht der Behörden, die Öffentlichkeit über wichtige Probleme, Vorhaben und Beschlüsse zu informieren, richtet sich nach der Kantonsverfassung.
+<sup>1</sup> Die Pflicht der Behörden, die Öffentlichkeit über wichtige Probleme, Vorhaben und Beschlüsse zu informieren, richtet sich nach der Kantonsverfassung und dem Öffentlichkeitsgesetz (RB [2.2711](https://rechtsbuch.ur.ch/data/2.2711/de)).
 
 #### Artikel 21
 
@@ -221,13 +213,15 @@ Die Pflicht der Behörden, die Öffentlichkeit über wichtige Probleme, Vorhaben
 
 <sup>2</sup> Die Pflicht, das Amtsgeheimnis zu wahren, gilt auch, wenn das Amt oder das Mandat beendigt ist.
 
-3 Der Gemeinderat kann die betroffene Person vom Amtsgeheimnis entbinden, wenn das Interesse an der Wahrheitsfindung das Geheimhaltungsinteresse überwiegt.
+<sup>3</sup> Der Gemeinderat kann die betroffene Person vom Amtsgeheimnis entbinden, wenn das Interesse an der Wahrheitsfindung das Geheimhaltungsinteresse überwiegt.
 
 #### Artikel 22
 
-Verantwortlichkeit Die Verantwortlichkeit der Behörden und ihrer Mitglieder richtet sich nachden Bestimmungen der Kantonsverfassung.
+**Verantwortlichkeit**
 
-### 2. Abschnitt: Gemeinderat
+<sup>1</sup> Die Verantwortlichkeit der Behörden und ihrer Mitglieder richtet sich nachden Bestimmungen der Kantonsverfassung.
+
+### 2.3.2 Gemeinderat
 
 #### Artikel 23
 
@@ -245,29 +239,25 @@ Verantwortlichkeit Die Verantwortlichkeit der Behörden und ihrer Mitglieder ric
 
 <sup>2</sup> Er hat insbesondere:
 
-- a) die Gemeinde zu führen sowie deren Tätigkeiten zu planen und zu steuern;
-
-- b) die Verwaltung zu organisieren, zu leiten und zu beaufsichtigen;
-
-- c) für die zweckmässige und wirtschaftliche Verwendung der Mittel zu sorgen;
-
-- d) dafür zu sorgen, dass die Grundsätze rechtsstaatlichen Handelns eingehalten sind;
-
-- e) die Geschäfte der Gemeindeversammlung vorzubereiten und zu vollziehen;
-
-- f) die Gemeinde gegen aussen zu vertreten.
+- a) die Gemeinde zu führen sowie deren Tätigkeiten zu planen und zu steuern
+- b) die Verwaltung zu organisieren, zu leiten und zu beaufsichtigen
+- c) für die zweckmässige und wirtschaftliche Verwendung der Mittel zu sorgen
+- d) dafür zu sorgen, dass die Grundsätze rechtsstaatlichen Handelns eingehalten sind
+- e) die Geschäfte der Gemeindeversammlung vorzubereiten und zu vollziehen
+- f) die Gemeinde gegen aussen zu vertreten
 
 <sup>3</sup> Der Gemeinderat kann die Leitung einzelner Verwaltungsbereiche an Gemeindeangestellte delegieren.
 
-### 3. Abschnitt: Schulrat
+### 2.3.3 Schulrat
 
 #### Artikel 25
 
-Zusammensetzung Sofern die Gemeinde einen Schulrat einsetzt, gilt Folgendes:
+**Zusammensetzung**
 
-- a) Der Schulrat besteht aus dem Präsidium und mindestens vier weiteren Mitgliedern.
+<sup>1</sup> Sofern die Gemeinde einen Schulrat einsetzt, gilt Folgendes:
 
-- b) Die Gemeindeordnung bestimmt die Zahl der Mitglieder und die Konstituierung des Schulrats.
+- a) Der Schulrat besteht aus dem Präsidium und mindestens vier weiteren Mitgliedern
+- b) Die Gemeindeordnung bestimmt die Zahl der Mitglieder und die Konstituierung des Schulrats
 
 #### Artikel 26
 
@@ -277,17 +267,16 @@ Zusammensetzung Sofern die Gemeinde einen Schulrat einsetzt, gilt Folgendes:
 
 <sup>2</sup> Besteht kein Schulrat und bestimmt die Gemeindeordnung nichts anderes, übernimmt der Gemeinderat diese Aufgabe.
 
-### 4. Abschnitt: Sozialrat
+### 2.3.4 Sozialrat
 
 #### Artikel 27
 
 **Zusammensetzung**
 
-Sofern die Gemeinde einen Sozialrat einsetzt, gilt Folgendes:
+<sup>1</sup> Sofern die Gemeinde einen Sozialrat einsetzt, gilt Folgendes:
 
-- a) Der Sozialrat besteht aus dem Präsidium und mindestens vier weiteren Mitgliedern.
-
-- b) Die Gemeindeordnung bestimmt die Zahl der Mitglieder und die Konstituierung des Sozialrats.
+- a) Der Sozialrat besteht aus dem Präsidium und mindestens vier weiteren Mitgliedern
+- b) Die Gemeindeordnung bestimmt die Zahl der Mitglieder und die Konstituierung des Sozialrats
 
 #### Artikel 28
 
@@ -297,7 +286,7 @@ Sofern die Gemeinde einen Sozialrat einsetzt, gilt Folgendes:
 
 <sup>2</sup> Besteht kein Sozialrat und bestimmt die Gemeindeordnung nichts anderes, übernimmt der Gemeinderat diese Aufgabe.
 
-### 5. Abschnitt: Kommissionen
+### 2.3.5 Kommissionen
 
 #### Artikel 29
 
@@ -317,9 +306,9 @@ Sofern die Gemeinde einen Sozialrat einsetzt, gilt Folgendes:
 
 <sup>2</sup> Selbstständige Kommissionen müssen auf einer Verordnung gründen. Diese regelt mindestens die Organisation, den Aufgabenbereich und die Verfügungsbefugnisse der Kommission.
 
-### 3. Teil: AUFGABEN
+## 3 Aufgaben
 
-### 1. Kapitel: AUFGABEN UND AUFGABENTRÄGER
+### 3.1 Aufgaben und Aufgabenträger
 
 #### Artikel 31
 
@@ -335,29 +324,26 @@ Sofern die Gemeinde einen Sozialrat einsetzt, gilt Folgendes:
 
 **Grundlage für selbstgewählte Aufgaben**
 
-Die Gemeinden übernehmen selbstgewählte Aufgaben durch einen Rechtserlass oder einen Beschluss des zuständigen Gemeindeorgans.
+<sup>1</sup> Die Gemeinden übernehmen selbstgewählte Aufgaben durch einen Rechtserlass oder einen Beschluss des zuständigen Gemeindeorgans.
 
 #### Artikel 33
 
 **Aufgabenträger**
 
-Sofern die besondere Gesetzgebung nichts anderes bestimmt, können die Gemeinden ihre Aufgaben:
+<sup>1</sup> Sofern die besondere Gesetzgebung nichts anderes bestimmt, können die Gemeinden ihre Aufgaben:
 
-- a) selbst erfüllen;
+- a) selbst erfüllen
+- b) einem selbstständigen Gemeindeunternehmen zuweisen
+- c) Dritten übertragen oder
+- d) in Zusammenarbeit mit einer oder mehreren anderen Gemeinden erfüllen
 
-- b) einem selbstständigen Gemeindeunternehmen zuweisen;
-
-- c) Dritten übertragen; oder
-
-- d) in Zusammenarbeit mit einer oder mehreren anderen Gemeinden erfüllen.
-
-### 2. Kapitel: SELBSTSTÄNDIGES GEMEINDEUNTERNEHMEN
+### 3.2 Selbstständiges Gemeindeunternehmen
 
 #### Artikel 34
 
 **Gründung**
 
-Die Gemeinden können geeignete Verwaltungszweige als Gemeindeunternehmen organisatorisch verselbstständigen und sie mit eigener Rechtspersönlichkeit ausstatten.
+<sup>1</sup> Die Gemeinden können geeignete Verwaltungszweige als Gemeindeunternehmen organisatorisch verselbstständigen und sie mit eigener Rechtspersönlichkeit ausstatten.
 
 #### Artikel 35
 
@@ -367,15 +353,12 @@ Die Gemeinden können geeignete Verwaltungszweige als Gemeindeunternehmen organi
 
 <sup>2</sup> Die Verordnung bestimmt mindestens:
 
-- a) die Art und den Umfang der übertragenen Leistungen;
+- a) die Art und den Umfang der übertragenen Leistungen
+- b) die Grundzüge der Organisation des Unternehmens
+- c) die Finanzierung des Unternehmens und
+- d) die Aufsicht über das Unternehmen
 
-- b) die Grundzüge der Organisation des Unternehmens;
-
-- c) die Finanzierung des Unternehmens; und;
-
-- d) die Aufsicht über das Unternehmen.
-
-### 3. Kapitel: ERFÜLLUNG DURCH DRITTE
+### 3.3 Erfüllung durch Dritte
 
 #### Artikel 36
 
@@ -387,21 +370,19 @@ Die Gemeinden können geeignete Verwaltungszweige als Gemeindeunternehmen organi
 
 <sup>3</sup> Werden der oder dem Dritten keine hoheitlichen Befugnisse übertragen, ist der Gemeinderat zuständig, die Erfüllung durch Dritte zu beschliessen, sofern die besondere Gesetzgebung nichts anderes bestimmt. Vorbehalten bleiben die Ausgabenkompetenzen in der Gemeinde.
 
-### 4. Kapitel: ZUSAMMENARBEIT UNTER DEN GEMEINDEN
+### 3.4 Zusammenarbeit unter den Gemeinden
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 3.4.1 Allgemeine Bestimmungen
 
 #### Artikel 37
 
 **Art der Zusammenarbeit**
 
-Die Zusammenarbeit mit anderen Gemeinden erfolgt durch:
+<sup>1</sup> Die Zusammenarbeit mit anderen Gemeinden erfolgt durch:
 
-- a) einen Leistungsvertrag;
-
-- b) einen Zusammenarbeitsvertrag;
-
-- c) einen Zweckverband.
+- a) einen Leistungsvertrag
+- b) einen Zusammenarbeitsvertrag
+- c) einen Zweckverband
 
 #### Artikel 38
 
@@ -419,7 +400,7 @@ Die Zusammenarbeit mit anderen Gemeinden erfolgt durch:
 
 <sup>2</sup> Er bewilligt die beantragte Zusammenarbeitsweise, wenn sie im Einzelfall sinnvoller erscheint.
 
-### 2. Abschnitt: Leistungsvertrag und Zusammenarbeitsvertrag
+### 3.4.2 Leistungsvertrag und Zusammenarbeitsvertrag
 
 #### Artikel 40
 
@@ -427,19 +408,15 @@ Die Zusammenarbeit mit anderen Gemeinden erfolgt durch:
 
 <sup>1</sup> Mit dem Leistungsvertrag kann die Gemeinde:
 
-- a) für eine andere Gemeinde eine oder mehrere gemeindliche Aufgaben erfüllen;
-
-- b) einer anderen Gemeinde die Benützung von öffentlichen Einrichtungen ermöglichen;
-
-- c) einer anderen Gemeinde Verwaltungspersonal zur Verfügung stellen;
-
-- d) für eine andere Gemeinde weitere Leistungen im gemeindlichen Aufgabenbereich erbringen.
+- a) für eine andere Gemeinde eine oder mehrere gemeindliche Aufgaben erfüllen
+- b) einer anderen Gemeinde die Benützung von öffentlichen Einrichtungen ermöglichen
+- c) einer anderen Gemeinde Verwaltungspersonal zur Verfügung stellen
+- d) für eine andere Gemeinde weitere Leistungen im gemeindlichen Aufgabenbereich erbringen
 
 <sup>2</sup> Sofern die besondere Gesetzgebung nichts anderes bestimmt:
 
-- a) ist der Gemeinderat zuständig, den Leistungsvertrag abzuschliessen, wenn dieser keine hoheitlichen Befugnisse überträgt. Vorbehalten bleiben die Ausgabenkompetenzen in der Gemeinde;
-
-- b) ist der Leistungsvertrag den Stimmberechtigten zur Genehmigung vorzulegen, wenn mit dem Vertrag hoheitliche Befugnisse übertragen werden.
+- a) ist der Gemeinderat zuständig, den Leistungsvertrag abzuschliessen, wenn dieser keine hoheitlichen Befugnisse überträgt. Vorbehalten bleiben die Ausgabenkompetenzen in der Gemeinde
+- b) ist der Leistungsvertrag den Stimmberechtigten zur Genehmigung vorzulegen, wenn mit dem Vertrag hoheitliche Befugnisse übertragen werden
 
 #### Artikel 41
 
@@ -447,21 +424,18 @@ Die Zusammenarbeit mit anderen Gemeinden erfolgt durch:
 
 <sup>1</sup> Mit dem Zusammenarbeitsvertrag können die Gemeinden vereinbaren:
 
-- a) gemeinsames Verwaltungspersonal oder gemeinsame Kommissionen einzusetzen;
-
-- b) eine oder mehrere gemeindliche Aufgaben gemeinsam zu erfüllen. Dabei gelten die Bestimmungen des Obligationenrechts[^41-1] über die einfache Gesellschaft sinngemäss als gemeindliches öffentliches Recht, sofern der Zusammenarbeitsvertrag nichts anderes bestimmt;
-
-- c) eine gemeinsame Einrichtung des öffentlichen oder privaten Rechts zu schaffen.
+- a) gemeinsames Verwaltungspersonal oder gemeinsame Kommissionen einzusetzen
+- b) eine oder mehrere gemeindliche Aufgaben gemeinsam zu erfüllen. Dabei gelten die Bestimmungen des Obligationenrechts[^Artikel41-1] über die einfache Gesellschaft sinngemäss als gemeindliches öffentliches Recht, sofern der Zusammenarbeitsvertrag nichts anderes bestimmt
+- c) eine gemeinsame Einrichtung des öffentlichen oder privaten Rechts zu schaffen
 
 <sup>2</sup> Sofern die besondere Gesetzgebung nichts anderes bestimmt:
 
-- a) ist der Gemeinderat zuständig, den Zusammenarbeitsvertrag abzuschliessen, wenn dieser keine hoheitlichen Befugnisse überträgt. Vorbehalten bleiben die Ausgabenkompetenzen in der Gemeinde;
+- a) ist der Gemeinderat zuständig, den Zusammenarbeitsvertrag abzuschliessen, wenn dieser keine hoheitlichen Befugnisse überträgt. Vorbehalten bleiben die Ausgabenkompetenzen in der Gemeinde
+- b) ist der Zusammenarbeitsvertrag den Stimmberechtigten zur Genehmigung vorzulegen, wenn mit dem Vertrag hoheitliche Befugnisse übertragen werden
 
-- b) ist der Zusammenarbeitsvertrag den Stimmberechtigten zur Genehmigung vorzulegen, wenn mit dem Vertrag hoheitliche Befugnisse übertragen werden.
+[^Artikel41-1]: Artikel 530 ff. SR [220](https://db.clex.ch/link/Bund/220/de).
 
-[^41-1]: Artikel 530 ff. SR Artikel 530 ff. SR
-
-### 3. Abschnitt: Zweckverband
+### 3.4.3 Zweckverband
 
 #### Artikel 42
 
@@ -475,21 +449,15 @@ Die Zusammenarbeit mit anderen Gemeinden erfolgt durch:
 
 **Statuten**
 
-Die Statuten des Zweckverbands bestimmen mindestens:
+<sup>1</sup> Die Statuten des Zweckverbands bestimmen mindestens:
 
-- a) Name, Mitglieder, Zweck und Sitz des Verbands;
-
-- b) Wahl, Zusammensetzung und Einberufung der Verbandsorgane;
-
-- c) die Zuständigkeiten des Verbands und seiner Organe;
-
-- d) die Finanzierungsgrundsätze;
-
-- e) die Voraussetzungen und das Verfahren für den Beitritt und den Austritt;
-
-- f) die Rechte der Mitglieder;
-
-- g) die Mitbestimmungsrechte der Stimmberechtigten der beteiligten Gemeinden.
+- a) Name, Mitglieder, Zweck und Sitz des Verbands
+- b) Wahl, Zusammensetzung und Einberufung der Verbandsorgane
+- c) die Zuständigkeiten des Verbands und seiner Organe
+- d) die Finanzierungsgrundsätze
+- e) die Voraussetzungen und das Verfahren für den Beitritt und den Austritt
+- f) die Rechte der Mitglieder
+- g) die Mitbestimmungsrechte der Stimmberechtigten der beteiligten Gemeinden
 
 #### Artikel 44
 
@@ -497,45 +465,47 @@ Die Statuten des Zweckverbands bestimmen mindestens:
 
 <sup>1</sup> Organe des Zweckverbands sind:
 
-- a) die Delegiertenversammlung;
-
-- b) der Verwaltungsrat;
-
-- c) die Rechnungsprüfungskommission. Die Bestimmungen dieses Gesetzes zur Rechnungsprüfung sind sinngemäss anzuwenden.
+- a) die Delegiertenversammlung
+- b) der Verwaltungsrat
+- c) die Rechnungsprüfungskommission. Die Bestimmungen dieses Gesetzes zur Rechnungsprüfung sind sinngemäss anzuwenden
 
 <sup>2</sup> Der Regierungsrat kann eine andere Organisation genehmigen, wenn sich diese im Einzelfall als sinnvoller erweist.
 
-[^44-1]: Siehe Artikel 1 Absatz 2 Buchstabe d des Reglements über das Rechnungswesen der Einwohnergemeinden; RB 3.2115.
-
 #### Artikel 45
 
-Finanzhaushalt Der Zweckverband führt eine eigene Rechnung. Diese richtet sich nach dem kantonalen Recht[^44-1].
+**Finanzhaushalt**
+
+<sup>1</sup> Der Zweckverband führt eine eigene Rechnung. Diese richtet sich nach dem kantonalen Recht[^Artikel45-1].
+
+[^Artikel45-1]: Siehe Artikel 1 Absatz 2 Buchstabe d des Reglements über das Rechnungswesen der Einwohnergemeinden, RB [3.2115](https://rechtsbuch.ur.ch/data/3.2115/de).
 
 #### Artikel 46
 
-Haftung der Mitglieder Die Mitglieder haften für den Zweckverband subsidiär entsprechend ihren Anteilen.
+**Haftung der Mitglieder**
+
+<sup>1</sup> Die Mitglieder haften für den Zweckverband subsidiär entsprechend ihren Anteilen.
 
 #### Artikel 47
 
-Rechte der Mitglieder Die Statuten haben insbesondere:
+**Rechte der Mitglieder**
 
-- a) sicherzustellen, dass jedes Mitglied wenigstens eine Vertretung in der Delegiertenversammlung hat;
+<sup>1</sup> Die Statuten haben insbesondere:
 
-- b) die Finanzkompetenzen klar zu regeln, namentlich die Höhe der neuen Ausgaben festzulegen, die die Zustimmung aller Mitglieder erfordern;
-
-- c) die umfassenden Informationsrechte der Mitglieder zu gewährleisten.
+- a) sicherzustellen, dass jedes Mitglied wenigstens eine Vertretung in der Delegiertenversammlung hat
+- b) die Finanzkompetenzen klar zu regeln, namentlich die Höhe der neuen Ausgaben festzulegen, die die Zustimmung aller Mitglieder erfordern
+- c) die umfassenden Informationsrechte der Mitglieder zu gewährleisten
 
 #### Artikel 48
 
-Mitbestimmungsrecht der Stimmberechtigten a) Grundsatz
+**Mitbestimmungsrecht der Stimmberechtigten: Grundsatz**
 
 <sup>1</sup> Die Mitbestimmungsrechte der Stimmbürger müssen gewahrt bleiben.
 
 <sup>2</sup> Die Statuten des Zweckverbands bestimmen die Höhe der neuen, einmaligen und wiederkehrenden Ausgaben sowie weitere wichtige Beschlüsse, die der obligatorischen Volksabstimmung bei den Stimmberechtigten der beteiligten Gemeinden unterliegen.
 
-#### Artikel 49 b
+#### Artikel 49
 
-**) Verfahren**
+**Mitbestimmungsrecht der Stimmberechtigten: Verfahren**
 
 <sup>1</sup> Die Statuten des Zweckverbands bestimmen das Verfahren, in dem die Mitbestimmungsrechte der Stimmberechtigten zu wahren sind. Sie bezeichnen hierfür das Verfahren an der Gemeindeversammlung oder jenes an der Urne.
 
@@ -549,25 +519,25 @@ Mitbestimmungsrecht der Stimmberechtigten a) Grundsatz
 
 <sup>2</sup> Das Gleiche gilt für die Änderung und die Aufhebung der Statuten.
 
-### 4. Teil: FINANZHAUSHALT
+## 4 Finanzhaushalt
 
-### 1. Kapitel: GRUNDSÄTZE UND ANWENDBARES RECHT
+### 4.1 Grundsätze und anwendbares Recht
 
 #### Artikel 51
 
 **Grundsätze des Finanzhaushalts**
 
-Der Finanzhaushalt wird nach den Grundsätzen der Gesetzmässigkeit, des Haushaltsgleichgewichts und der zweckmässigen und wirtschaftlichen Verwendung der öffentlichen Gelder geführt.
+<sup>1</sup> Der Finanzhaushalt wird nach den Grundsätzen der Gesetzmässigkeit, des Haushaltsgleichgewichts und der zweckmässigen und wirtschaftlichen Verwendung der öffentlichen Gelder geführt.
 
 #### Artikel 52
 
 **Verweis**
 
-Die Gemeinden führen ihren Finanzhaushalt nach den Vorschriften des kantonalen Rechts[^52-1].
+<sup>1</sup> Die Gemeinden führen ihren Finanzhaushalt nach den Vorschriften des kantonalen Rechts[^Artikel52-1].
 
-[^52-1]: Siehe Artikel 1 des Reglements über das Rechnungswesen der Einwohnergemeinden; RB 3.2115.
+[^Artikel52-1]: Siehe Artikel 1 des Reglements über das Rechnungswesen der Einwohnergemeinden; RB [3.2115](https://rechtsbuch.ur.ch/data/3.2115/de).
 
-### 2. Kapitel: RECHNUNGSPRÜFUNG
+### 4.2 Rechnungsprüfung
 
 #### Artikel 53
 
@@ -587,11 +557,9 @@ Die Gemeinden führen ihren Finanzhaushalt nach den Vorschriften des kantonalen 
 
 <sup>2</sup> Die Prüfung erfolgt unter folgenden Gesichtspunkten:
 
-- a) finanzrechtliche Zulässigkeit;
-
-- b) fachtechnische Richtigkeit;
-
-- c) finanzielle Angemessenheit.
+- a) finanzrechtliche Zulässigkeit
+- b) fachtechnische Richtigkeit
+- c) finanzielle Angemessenheit
 
 #### Artikel 55
 
@@ -603,27 +571,28 @@ Die Gemeinden führen ihren Finanzhaushalt nach den Vorschriften des kantonalen 
 
 <sup>3</sup> Die Rechnungsprüfungskommission kann der betroffenen Behörde Vorschläge und Anträge unterbreiten.
 
-### 5. Teil: ÄNDERUNG IM BESTAND UND IM GEBIET DER GEMEINDEN
+## 5 Änderung im Bestand und im Gebiet der Gemeinden
 
-### 1. Kapitel: FREIWILLIGKEIT
+### 5.1 Freiwilligkeit
 
 #### Artikel 56
 
-Grundsatz Bestand und Gebiet der Gemeinden sind gewährleistet. Änderungen sind für die Gemeinden freiwillig.
+**Grundsatz**
 
-### 2. Kapitel: ÄNDERUNG IM BESTAND
+<sup>1</sup> Bestand und Gebiet der Gemeinden sind gewährleistet. Änderungen sind für die Gemeinden freiwillig.
 
-### 1. Abschnitt: Art, Wirkung und Verfahren des Zusammenschlusses
+### 5.2 Änderung im Bestand
+
+### 5.2.1 Art, Wirkung und Verfahren des Zusammenschlusses
 
 #### Artikel 57
 
 **Art des Zusammenschlusses**
 
-Gemeinden können sich zusammenschliessen, indem:
+<sup>1</sup> Gemeinden können sich zusammenschliessen, indem:
 
-- a) eine oder mehrere Gemeinden von einer anderen Gemeinde aufgenommen werden (Absorptionsfusion);
-
-- b) sich zwei oder mehrere Gemeinden zu einer neuen Gemeinde zusammenschliessen (Kombinationsfusion).
+- a) eine oder mehrere Gemeinden von einer anderen Gemeinde aufgenommen werden (Absorptionsfusion)
+- b) sich zwei oder mehrere Gemeinden zu einer neuen Gemeinde zusammenschliessen (Kombinationsfusion)
 
 #### Artikel 58
 
@@ -635,41 +604,34 @@ Gemeinden können sich zusammenschliessen, indem:
 
 #### Artikel 59
 
-**Fusionsvertrag**
-
-- a) Zuständigkeit
+**Fusionsvertrag: Zuständigkeit**
 
 <sup>1</sup> Die Stimmberechtigten der beteiligten Gemeinden entscheiden über den Zusammenschluss, indem sie an der Urne über den Fusionsvertrag abstimmen.
 
 <sup>2</sup> Für den Zusammenschluss von Gemeinden ist die Zustimmung der Mehrheit der Stimmenden jeder beteiligten Gemeinde erforderlich.
 
-#### Artikel 60 b
+#### Artikel 60
 
-**) Inhalt**
+**Fusionsvertrag: Inhalt**
 
 <sup>1</sup> Der Fusionsvertrag regelt die Einzelheiten, die für den Vollzug des Zusammenschlusses erforderlich sind.
 
 <sup>2</sup> Er regelt insbesondere:
 
-- a) ob eine neue Gemeinde gebildet wird oder eine Gemeinde andere Gemeinden aufnimmt;
+- a) ob eine neue Gemeinde gebildet wird oder eine Gemeinde andere Gemeinden aufnimmt
+- b) den Zeitpunkt des Zusammenschlusses, die Grenzen und den Namen der neuen Gemeinde
+- c) die Grundzüge der Organisation und Zuständigkeiten der neuen Gemeinde
+- d) die Übergangsordnung. Diese regelt namentlich die allfällige Weitergeltung und die Aufhebung von gesetzlichen Bestimmungen der aufgehobenen Gemeinden
 
-- b) den Zeitpunkt des Zusammenschlusses, die Grenzen und den Namen der neuen Gemeinde;
+#### Artikel 61
 
-- c) die Grundzüge der Organisation und Zuständigkeiten der neuen
-
-Gemeinde;
-
-- d) die Übergangsordnung. Diese regelt namentlich die allfällige Weitergeltung und die Aufhebung von gesetzlichen Bestimmungen der aufgehobenen Gemeinden.
-
-#### Artikel 61 c
-
-**) Genehmigung**
+**Fusionsvertrag: Genehmigung**
 
 <sup>1</sup> Gemeindefusionen sind erst gültig, wenn der Regierungsrat sie genehmigt hat. Die Genehmigung wird erteilt, wenn der Zusammenschluss rechtmässig ist.
 
 <sup>2</sup> Will der Regierungsrat den Fusionsvertrag nicht genehmigen, entscheidet der Landrat kantonsintern letztinstanzlich über die Genehmigung. Die betroffenen Gemeinden sind vorher anzuhören.
 
-### 2. Abschnitt: Unterstützung durch den Kanton
+### 5.2.2 Unterstützung durch den Kanton
 
 #### Artikel 62
 
@@ -677,19 +639,18 @@ Gemeinde;
 
 <sup>1</sup> Der Kanton leistet den fusionierenden Einwohnergemeinden:
 
-- a) einen einmaligen Beitrag an die Projektkosten zur Vorbereitung eines Zusammenschlusses;
+- a) einen einmaligen Beitrag an die Projektkosten zur Vorbereitung eines Zusammenschlusses
+- b) einen einmaligen Beitrag an die Folgen der Fusion. Dieser Beitrag berücksichtigt insbesondere die Kosten der Neuorganisation und einen angemessenen Entschuldungsbeitrag
 
-- b) einen einmaligen Beitrag an die Folgen der Fusion. Dieser Beitrag berücksichtigt insbesondere die Kosten der Neuorganisation und einen angemessenen Entschuldungsbeitrag.
-
-2 Im Rahmen von Absatz 1 beschliesst der Landrat die Höhe der Beiträge. Er beschliesst die damit verbundenen Ausgaben abschliessend.
+<sup>2</sup> Im Rahmen von Absatz 1 beschliesst der Landrat die Höhe der Beiträge. Er beschliesst die damit verbundenen Ausgaben abschliessend.
 
 #### Artikel 63
 
 **Personelle Unterstützung**
 
-Die zuständige Direktion berät die fusionswilligen Einwohnergemeinden. Sie kann für diese Gemeinden Abklärungen treffen und Vorschläge erarbeiten.
+<sup>1</sup> Die zuständige Direktion berät die fusionswilligen Einwohnergemeinden. Sie kann für diese Gemeinden Abklärungen treffen und Vorschläge erarbeiten.
 
-### 3. Kapitel: ÄNDERUNG IM GEBIET
+### 5.3 Änderung im Gebiet
 
 #### Artikel 64
 
@@ -703,7 +664,7 @@ Die zuständige Direktion berät die fusionswilligen Einwohnergemeinden. Sie kan
 
 **Vertrag**
 
-Die Gemeinden regeln die Änderung im Gebiet mit einem Vertrag. Dieser bestimmt den neuen Grenzverlauf und bei der Gebietsveränderung zudem die Rechtsfolgen der Änderung.
+<sup>1</sup> Die Gemeinden regeln die Änderung im Gebiet mit einem Vertrag. Dieser bestimmt den neuen Grenzverlauf und bei der Gebietsveränderung zudem die Rechtsfolgen der Änderung.
 
 #### Artikel 66
 
@@ -713,9 +674,9 @@ Die Gemeinden regeln die Änderung im Gebiet mit einem Vertrag. Dieser bestimmt 
 
 <sup>2</sup> Die Verträge sind vom Regierungsrat zu genehmigen.
 
-### 6. Teil: AUFSICHT UND RECHTSPFLEGE
+## 6 Aufsicht und Rechtspflege
 
-### 1. Kapitel: AUFSICHT
+### 6.1 Aufsicht
 
 #### Artikel 67
 
@@ -723,83 +684,64 @@ Die Gemeinden regeln die Änderung im Gebiet mit einem Vertrag. Dieser bestimmt 
 
 <sup>1</sup> Treten in der Gemeinde Ordnungswidrigkeiten auf, klärt der Gemeinderat die Angelegenheit ab. Er veranlasst im Rahmen seiner Zuständigkeit die notwendigen Massnahmen, die geeignet sind, den festgestellten Missstand zu beheben; fehlt ihm die Zuständigkeit, wendet er sich an das zuständige Organ. Artikel 68 Absatz 3 ist sinngemäss anzuwenden.
 
-<sup>2</sup> Der Gemeinderat kann Untersuchungen durchführen oder durchführen lassen. Das Verfahren richtet sich sinngemäss nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege[^67-1].
-
-[^67-1]: RB 2.2345
+<sup>2</sup> Der Gemeinderat kann Untersuchungen durchführen oder durchführen lassen. Das Verfahren richtet sich sinngemäss nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
 
 #### Artikel 68
 
-**Aufsicht durch den Regierungsrat**
-
-- a) Grundsatz
+**Aufsicht durch den Regierungsrat: Grundsatz**
 
 <sup>1</sup> Der Regierungsrat übt die Aufsicht aus über die Gemeinden und deren Behörden. Vorbehalten bleiben die gemeinderätliche Aufsichtspflicht nach Artikel 67 und jene der besonderen Gesetzgebung.
 
 <sup>2</sup> Der Regierungsrat beaufsichtigt zudem die selbstständigen Gemeindeunternehmen und die Zweckverbände.
 
-3 Der Regierungsrat greift als Aufsichtsbehörde nur ein, wenn:
+<sup>3</sup> Der Regierungsrat greift als Aufsichtsbehörde nur ein, wenn:
 
-- a) Hinweise auf klare Rechtsverletzungen bestehen; oder
+- a) Hinweise auf klare Rechtsverletzungen bestehen oder
+- b) die ordnungsgemässe Führungs- und Verwaltungstätigkeit auf andere Weise ernsthaft gefährdet ist
 
-- b) die ordnungsgemässe Führungs- und Verwaltungstätigkeit auf andere Weise ernsthaft gefährdet ist.
+#### Artikel 69
 
-#### Artikel 69 b
-
-**) Untersuchung**
+**Aufsicht durch den Regierungsrat: Untersuchung**
 
 <sup>1</sup> Der Regierungsrat klärt den massgeblichen Sachverhalt ab. Dazu kann er die Akten der Gemeinde einsehen, Behördenmitglieder und Angestellte befragen sowie auf andere geeignete Weise den Sachverhalt klären.
 
-<sup>2</sup> Das Verfahren richtet sich sinngemäss nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege[^69b-1].
+<sup>2</sup> Das Verfahren richtet sich sinngemäss nach den Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB 2.2345).
 
-[^69b-1]: RB 2.2345
+#### Artikel 70
 
-#### Artikel 70 c
-
-**) Massnahmen**
+**Aufsicht durch den Regierungsrat: Massnahmen**
 
 <sup>1</sup> Ergibt sich aus der aufsichtsrechtlichen Untersuchung Handlungsbedarf, ergreift der Regierungsrat die verhältnismässigen Massnahmen.
 
 <sup>2</sup> Er kann insbesondere:
 
-- a) anstelle der Gemeinde handeln;
-
-- b) Weisungen erteilen;
-
-- c) vorsorgliche Massnahmen treffen;
-
-- d) widerrechtliche Anordnungen, Beschlüsse und Erlasse aufheben;
-
-- e) Ersatzanordnungen und Ersatzvornahmen treffen;
-
-- f) Ersatzvorschriften erlassen;
-
-- g) das Budget und den Steuerfuss einer Gemeinde festlegen;
-
-- h) ein Behördenmitglied, das Amtspflichten wiederholt oder schwerwiegend verletzt, vorübergehend oder endgültig des Amts entheben, wenn dies im öffentlichen Interesse liegt;
-
+- a) anstelle der Gemeinde handeln
+- b) Weisungen erteilen
+- c) vorsorgliche Massnahmen treffen
+- d) widerrechtliche Anordnungen, Beschlüsse und Erlasse aufheben
+- e) Ersatzanordnungen und Ersatzvornahmen treffen
+- f) Ersatzvorschriften erlassen
+- g) das Budget und den Steuerfuss einer Gemeinde festlegen
+- h) ein Behördenmitglied, das Amtspflichten wiederholt oder schwerwiegend verletzt, vorübergehend oder endgültig des Amts entheben, wenn dies im öffentlichen Interesse liegt
 - i) einer Gemeinde das Recht zur Selbstverwaltung entziehen und ein leitendes Organ einsetzen, sofern die ordnungsgemässe Aufgabenerfüllung nicht anders gewährleistet werden kann. Dies ist namentlich der Fall, wenn die Gemeinde:
-
-- 1\. mangels gehörig bestellter Behörden nicht mehr beschlussfähig ist;
-
-- 2\. ihre rechtlichen Verpflichtungen grob verletzt;
-
-- 3\. sich den Anordnungen des Regierungsrats als Aufsichtsbehörde widersetzt; oder
-
-- 4\. durch ihr Finanzverhalten die Zahlungsfähigkeit der Gemeinde gefährdet.
+  - 1\. mangels gehörig bestellter Behörden nicht mehr beschlussfähig ist
+  - 2\. ihre rechtlichen Verpflichtungen grob verletzt
+  - 3\. sich den Anordnungen des Regierungsrats als Aufsichtsbehörde widersetzt oder
+  - 4\. durch ihr Finanzverhalten die Zahlungsfähigkeit der Gemeinde gefährdet
 
 <sup>3</sup> Entscheidungen des Regierungsrats über aufsichtsrechtliche Untersuchungen und Massnahmen sind kantonal letztinstanzlich.
 
-#### Artikel 71 d
+#### Artikel 71
 
-**) Kosten**
+**Aufsicht durch den Regierungsrat: Kosten**
 
-Trifft der Regierungsrat aufsichtsrechtliche Massnahmen, auferlegt er die Kosten der Untersuchung und der Massnahmen in der Regel der betroffenen Gemeinde.
+<sup>1</sup> Trifft der Regierungsrat aufsichtsrechtliche Massnahmen, auferlegt er die Kosten der Untersuchung und der Massnahmen in der Regel der betroffenen Gemeinde.
 
-### 2. Kapitel: RECHTSPFLEGE
+### 6.2 Rechtspflege
 
 #### Artikel 72
 
-Beschwerden gegen Wahlen und Abstimmungen der Gemeindeversammlung
+**Beschwerden gegen Wahlen und Abstimmungen der Gemeindeversammlung**
 
 <sup>1</sup> Abstimmungen und Wahlen der Gemeindeversammlung sowie vorbereitende, nachbereitende und verfahrensmässige Anordnungen dazu können beim Regierungsrat mit Verwaltungsbeschwerde angefochten werden.
 
@@ -809,11 +751,9 @@ Beschwerden gegen Wahlen und Abstimmungen der Gemeindeversammlung
 
 <sup>4</sup> Beschwerdeberechtigt ist, wer in der Gemeinde stimmberechtigt ist.
 
-<sup>5</sup> Im Übrigen gelten die Bestimmungen der Verordnung über die Verwaltungsrechtspflege[^72-1].
+<sup>5</sup> Im Übrigen gelten die Bestimmungen der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
 
-[^72-1]: RB 2.2345
-
-### 7. Teil: ZUSAMMENARBEIT MIT DEM KANTON
+## 7 Zusammenarbeit mit dem Kanton
 
 #### Artikel 73
 
@@ -831,11 +771,10 @@ Beschwerden gegen Wahlen und Abstimmungen der Gemeindeversammlung
 
 <sup>2</sup> Im Rahmen ihrer personellen und fachlichen Möglichkeiten unterstützt die Ansprechstelle die Gemeinden, wenn sie es verlangen:
 
-- a) bei der Erfüllung der eigenen, öffentlichen Angelegenheiten;
+- a) bei der Erfüllung der eigenen, öffentlichen Angelegenheiten
+- b) bei der Zusammenarbeit mit dem Kanton
 
-- b) bei der Zusammenarbeit mit dem Kanton.
-
-### 8. Teil: SCHLUSSBESTIMMUNGEN
+## 8 Schlussbestimmungen
 
 #### Artikel 75
 
@@ -855,31 +794,28 @@ Beschwerden gegen Wahlen und Abstimmungen der Gemeindeversammlung
 
 **Redaktionelle Anpassung**
 
-Der Gemeinderat passt die gemeindlichen Rechtserlasse den Begriffen «Verordnung» und «Reglement» an.
+<sup>1</sup> Der Gemeinderat passt die gemeindlichen Rechtserlasse den Begriffen «Verordnung» und «Reglement» an.
 
 #### Artikel 77
 
 **Aufhebung bisherigen Rechts**
 
-Das Gesetz vom 1. Mai 1859 über das Stimmrecht an Dorfgemeinden[^77-1] wird aufgehoben.
-
-[^77-1]: RB 2.1302
+<sup>1</sup> Das Gesetz vom 1. Mai 1859 über das Stimmrecht an Dorfgemeinden wird aufgehoben.
 
 #### Artikel 78
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts[^Artikel78-1]**
 
-…[^78-1]
+[^Artikel78-1]: Die Änderung wurde in den entsprechenden Erlass eingefügt.
 
-**Artikel 79 Inkrafttreten**
+#### Artikel 79
+
+**Inkrafttreten**
 
 <sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung.
 
-**Im Namen des Volkes**
+<sup>2</sup> Der Regierungsrat bestimmt, wann es in Kraft tritt[^Artikel79-1].
 
-**Der Landammann: Beat Jörg Der Kanzleidirektor: Roman Balli**
+[^Artikel79-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. Juni 2017).
 
-<sup>2</sup> Der Regierungsrat bestimmt, wann es in Kraft tritt[^78-2].
-
-[^78-1]: Die Änderung wurde in den entsprechenden Erlass eingefügt.
-[^78-2]: Vom Regierungsrat in Kraft gesetzt auf den 1. Juni 2017 (AB vom 9. Juni 2017).
+AB 07.10.2016
