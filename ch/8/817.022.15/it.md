@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sui tenori massimi di contaminant
 short: OCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: it
-version: 2025-09-08
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250908/it/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250908-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250908/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-156-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250908/it"
 
 (Ordinanza sui contaminanti, OCont)
 
-del 16 dicembre 2016 (Stato 8 settembre 2025)
+del 16 dicembre 2016 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -193,23 +193,15 @@ Le derrate alimentari che non soddisfano i requisiti della presente ordinanza po
 
 #### Art. 8a
 
-**Disposizione transitoria della modifica del 27 maggio 2020**[^8a-1]
+[^8a-1]
 
-<sup>1</sup> Le derrate alimentari non conformi agli allegati 2–4, 8 e 9 della modifica del 27 maggio 2020 possono essere importate e fabbricate secondo il diritto anteriore sino al 31 dicembre 2020 e consegnate ai consumatori fino a esaurimento delle scorte.
-
-<sup>2</sup> Le misure da adottare secondo gli articoli 5a e 5b devono essere attuate entro il 30 giugno 2021.
-
-[^8a-1]: Introdotto dalla cifra I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)). Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^8a-1]: Introdotto dalla cifra I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 #### Art. 8b
 
-**Disposizione transitoria della modifica dell’8 dicembre 2023**[^8b-1]
+[^8b-1]
 
-<sup>1</sup> Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate e fabbricate secondo il diritto anteriore sino al 31 gennaio 2025 e consegnate ai consumatori fino a esaurimento delle scorte.
-
-<sup>2</sup> In deroga al capoverso 1, le derrate alimentari che non rispettano i tenori massimi di sostanze perfluoroalchiliche (PFAS) secondo l’allegato 8*a* possono essere importate e fabbricate secondo il diritto anteriore sino al 31 luglio 2024 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-[^8b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^8b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 #### Art. 8c
 
@@ -217,7 +209,15 @@ Le derrate alimentari che non soddisfano i requisiti della presente ordinanza po
 
 Le derrate alimentari non conformi alla modifica del 2 giugno 2025 possono ancora essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2026 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^8c-1]: Introdotto dalla cifra I dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391))
+[^8c-1]: Introdotto dalla cifra I dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391))
+
+#### Art. 8d
+
+**Disposizione transitoria della modifica del 26 novembre 2025**[^8d-1]
+
+Le derrate alimentari non conformi alla modifica del 26 novembre 2025 possono ancora essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2026 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^8d-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 #### Art. 9
 
@@ -231,7 +231,7 @@ Allegato 1[^t-1]
 
 ## Tenori massimi di nitrato e perclorato nelle derrate alimentari
 
-[^t-1]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-1]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -278,7 +278,7 @@ Allegato 2[^t-2]
 
 ## Tenori massimi delle micotossine nelle derrate alimentari
 
-[^t-2]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)). La correzione dell’8 set. 2025 concerne soltanto il testo tedesco ([RU 2025 547](https://fedlex.data.admin.ch/eli/oc/2025/547)).
+[^t-2]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), dalle cifre II delle O dell’USAV del 2 giu. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -401,12 +401,9 @@ Nella somma del limite inferiore il contributo di ciascun epimero non quantifica
 <tr><td>"</td><td>prodotti di macinazione di cereali</td><td>600 µg/kg</td><td>eccetto prodotti di macinazione di mais e riso</td></tr>
 <tr><td>"</td><td>prodotti di macinazione di mais</td><td>750 µg/kg</td><td>destinati al consumo umano diretto</td></tr>
 <tr><td>"</td><td>prodotti di macinazione di mais</td><td>1000 µg/kg</td><td>non destinati al consumo umano diretto</td></tr>
-<tr><td>Fumonisine (somma di B<sub>1</sub> e B<sub>2</sub>)</td><td>cereali e altri alimenti a base di mais destinati ai lattanti e ai bambini piccoli</td><td>200 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>cereali da colazione e merende a base di mais</td><td>800 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>farina e prodotti della molitura del mais ottenuti per soffiatura o tostatura</td><td>2000 µg/kg</td><td>con una grandezza delle particelle ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
-<tr><td>"</td><td>mais destinato al consumo umano diretto</td><td>1000 µg/kg</td><td>eccetto cereali da colazione e merende a base di mais nonché alimenti a base di mais e altri alimenti destinati ai lattanti e ai bambini piccoli; prodotti a base di mais destinati al consumo umano diretto</td></tr>
-<tr><td>"</td><td>mais non trasformato</td><td>4000 µg/kg</td><td>eccetto mais non trasformato destinato alla molitura ad umido</td></tr>
-<tr><td>"</td><td>prodotti della molitura del mais sotto forma di semole, semolini e agglomerati in forma di pellet</td><td>1400 µg/kg</td><td>con una grandezza delle particelle &gt; 500 micrometri, non destinati al consumo umano diretto</td></tr>
+<tr><td>Fumonisine (somma di B<sub>1</sub> e B<sub>2</sub>)</td><td>cereali da colazione e merende a base di mais</td><td>800 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>prodotti della molitura del mais</td><td>1400 µg/kg</td><td>meno del 90 %, misurato in peso, delle particelle del prodotto della molitura presenta dimensioni ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
+<tr><td>"</td><td>farina di mais e prodotti della molitura del mais</td><td>2000 µg/kg</td><td>almeno il 90 %, misurato in peso, delle particelle del prodotto della molitura presenta dimensioni ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
 <tr><td>Ocratossina A</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>0,5 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>alimenti a fini medici speciali destinati ai lattanti e ai bambini nella prima infanzia</td><td>0,5 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>bevande analcoliche a base di malto</td><td>3 µg/kg</td><td></td></tr>
@@ -478,13 +475,12 @@ Nella somma del limite inferiore il contributo di ciascun epimero non quantifica
 <tr><td>Zearalenone</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td><td>20 µg/kg</td><td>eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
 <tr><td>"</td><td>cereali, crusca e germe, destinati al consumo umano diretto farina di cereali e semola</td><td>75 µg/kg</td><td>eccetto mais destinato al consumo umano diretto, merende e cereali da colazione; eccetto prodotti della molitura del mais sotto forma di semole, semolini e agglomerati in forma di pellet ed eccetto altri alimenti destinati ai lattanti e ai bambini piccoli; eccetto riso e prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli)</td></tr>
 <tr><td>"</td><td>cereali, non trasformati</td><td>100 µg/kg</td><td>eccetto mais non trasformato e riso</td></tr>
-<tr><td>"</td><td>derrate alimentari trasformate a base di mais, destinate ai lattanti e ai bambini piccoli</td><td>20 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>farina e prodotti della molitura del mais ottenuti per soffiatura o tostatura</td><td>300 µg/kg</td><td>con una grandezza delle particelle ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
+<tr><td>"</td><td>farina di mais e prodotti della molitura del mais</td><td>300 µg/kg</td><td>almeno il 90 %, misurato in peso, delle particelle del prodotto della molitura presenta dimensioni ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
 <tr><td>"</td><td>mais destinato al consumo umano diretto, merende a base di mais e cereali da colazione a base di mais</td><td>100 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>mais, non trasformato</td><td>350 µg/kg</td><td>eccetto mais non trasformato destinato alla molitura ad umido</td></tr>
 <tr><td>"</td><td>olio di mais</td><td>400 µg/kg</td><td>Raffinato</td></tr>
 <tr><td>"</td><td>pane, prodotti della pasticceria, biscotteria, merende a base di cereali e cereali da colazione</td><td>50 µg/kg</td><td>eccetto merende a base di mais e cereali da colazione a base di mais; eccetto prodotti a base di riso (prodotti di cui il riso o i prodotti trasformati a base di riso sono gli unici ingredienti cerealicoli); compresi i piccoli prodotti da forno</td></tr>
-<tr><td>"</td><td>prodotti della molitura del mais sotto forma di semole, semolini e agglomerati in forma di pellet</td><td>200 µg/kg</td><td>con una grandezza delle particelle &gt; 500 micrometri, non destinati al consumo umano diretto</td></tr>
+<tr><td>"</td><td>prodotti della molitura del mais</td><td>200 µg/kg</td><td>meno del 90 %, misurato in peso, delle particelle del prodotto della molitura presenta dimensioni ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
 </table>
 
 Allegato 3[^t-3]
@@ -493,7 +489,7 @@ Allegato 3[^t-3]
 
 ## Tenori massimi per i metalli e i metalloidi
 
-[^t-3]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-3]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), dalle cifre II delle O dell’USAV del 2 giu. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -556,7 +552,7 @@ Allegato 3[^t-3]
 <tr><td>"</td><td>"</td><td>0,005</td><td>liquido</td></tr>
 <tr><td>"</td><td>alimenti per lattanti e alimenti di proseguimento a base di isolati proteici della soia, soli o mescolati a proteine di latte vaccino</td><td>0,02</td><td>in polvere</td></tr>
 <tr><td>"</td><td>"</td><td>0,01</td><td>liquido</td></tr>
-<tr><td>"</td><td>alimenti per sportivi con un tenore definito di vitamine e sali minerali o altre sostanze rilevanti per sportivi</td><td>1</td><td>eccetto le bevande e i prodotti composti esclusivamente o principalmente da alghe marine essiccate, da prodotti derivati da alghe marine o da molluschi bivalvi essiccati</td></tr>
+<tr><td>"</td><td>alimenti per sportivi con un tenore definito di vitamine e sali minerali o altre sostanze rilevanti per sportivi</td><td>1</td><td>eccetto bevande e prodotti costituiti almeno per l’80 % da alghe marine essiccate, da prodotti derivati da alghe marine o da molluschi bivalvi essiccati</td></tr>
 <tr><td>"</td><td>ananas</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>arachidi</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>bacche e piccoli frutti</td><td>0,03</td><td>eccetto i lamponi</td></tr>
@@ -591,8 +587,8 @@ Allegato 3[^t-3]
 <tr><td>"</td><td>glutine di frumento</td><td>0,15</td><td></td></tr>
 <tr><td>"</td><td>granchi e crostacei analoghi *(Brachyura* e *Anomura*)</td><td>0,5</td><td>muscolo delle appendici</td></tr>
 <tr><td>"</td><td>grano duro</td><td>0,18</td><td></td></tr>
-<tr><td>"</td><td>integratori alimentari</td><td>1</td><td>eccetto integratori alimentari composti esclusivamente o principalmente da alghe marine essiccate, da prodotti derivati da alghe marine o da molluschi bivalvi essiccati</td></tr>
-<tr><td>"</td><td>integratori alimentari composti esclusivamente o principalmente da alghe marine essiccate, da prodotti derivati da alghe marine o da molluschi bivalvi essiccati</td><td>3</td><td></td></tr>
+<tr><td>"</td><td>integratori alimentari</td><td>1</td><td>eccetto integratori alimentari costituiti almeno per l’80 % da alghe marine essiccate, da prodotti derivati da alghe marine o da molluschi bivalvi essiccati</td></tr>
+<tr><td>"</td><td>integratori alimentari costituiti almeno per l’80 % da alghe marine essiccate, da prodotti derivati da alghe marine o da molluschi bivalvi essiccati</td><td>3</td><td></td></tr>
 <tr><td>"</td><td>kiwi</td><td>0,02</td><td></td></tr>
 <tr><td>"</td><td>lamponi</td><td>0,04</td><td></td></tr>
 <tr><td>"</td><td>legumi</td><td>0,04</td><td></td></tr>
@@ -760,7 +756,7 @@ Allegato 4[^t-4]
 
 ## Tenori massimi per il 3-monocloro-1,2-propandiolo (3-MCPD) e i glicidil esteri degli acidi grassi nelle derrate alimentari
 
-[^t-4]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-4]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -790,7 +786,7 @@ Allegato 5[^t-5]
 
 ## Tenori massimi di diossine e PCB nelle derrate alimentari
 
-[^t-5]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-5]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -905,7 +901,7 @@ Allegato 6[^t-6]
 
 ## Tenori massimi di idrocarburi policiclici aromatici nelle derrate alimentari
 
-[^t-6]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-6]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -970,11 +966,13 @@ Allegato 6[^t-6]
 <tr><td>"</td><td>spratti (*Sprattus sprattus*)</td><td>30</td><td colspan="2">compresi spratti in scatola; affumicati</td></tr>
 </table>
 
-Allegato 7
+Allegato 7[^t-7]
 
 (art. 2 cpv. 3 lett. g, 4 cpv. 4, 5 cpv. 1 e 2, nonché 7 cpv. 1)
 
 ## Tenori massimi di melamina e dei suoi analoghi strutturali nelle derrate alimentari
+
+[^t-7]: Aggiornato dalla cifra II dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -986,16 +984,17 @@ Allegato 7
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td>Sostanza</td><td>Derrata alimentare</td><td>Tenore massimo (mg/kg)</td><td>Osservazioni</td></tr>
 <tr><td>Melamina</td><td>alimenti per lattanti e alimenti di proseguimento in polvere</td><td>1</td><td>il tenore massimo non si applica per le derrate alimentari per le quali può essere dimostrato che il livello di melamina superiore a 2,5 mg/kg è una conseguenza dell’uso autorizzato di ciromazina come insetticida; il livello di melamina non deve superare il livello di ciromazina.</td></tr>
+<tr><td>"</td><td>alimenti per lattanti e alimenti di proseguimento, liquidi</td><td>0,15</td><td>il tenore massimo non si applica per le derrate alimentari per le quali può essere dimostrato che il livello di melamina superiore a 2,5 mg/kg è una conseguenza dell’uso autorizzato di ciromazina come insetticida; il livello di melamina non deve superare il livello di ciromazina</td></tr>
 <tr><td>"</td><td>derrate alimentari in generale</td><td>2,5</td><td>eccetto alimenti per lattanti e alimenti di proseguimento; il tenore massimo non si applica per le derrate alimentari per le quali può essere dimostrato che il livello di melamina superiore a 2,5 mg/kg è una conseguenza dell’uso autorizzato di ciromazina come insetticida; il livello di melamina non deve superare il livello di ciromazina.</td></tr>
 </table>
 
-Allegato 8[^t-7]
+Allegato 8[^t-8]
 
 (art. 2 cpv. 3 lett. h, 4 cpv. 4, 5 cpv. 1 e 2, nonché 7 cpv. 1)
 
 ## Tenori massimi di tossine vegetali naturali
 
-[^t-7]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-8]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), dalle cifre II delle O dell’USAV del 2 giu. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -1058,6 +1057,8 @@ Allegato 8[^t-7]
 <tr><th>Sostanza</th><th>Derrata alimentare</th><th>Tenore massimo</th><th>Osservazioni</th></tr>
 <tr><td>Atropina</td><td>alimenti a base di cereali e altri alimenti destinati a lattanti e bambini piccoli contenenti miglio, sorgo, grano saraceno, mais o loro prodotti derivati</td><td>1 µg/kg</td><td>riferito ai prodotti nella forma in cui vengono messi in vendita</td></tr>
 <tr><td>Acido cianidrico, compreso lʼacido cianidrico legato in glicosidi cianogenici</td><td>farina di manioca e farina di tapioca</td><td>10 mg/kg</td><td></td></tr>
+<tr><td>"</td><td>acquavite di frutta a nocciolo</td><td>70 mg/l</td><td>riferito all’alcool puro; totale come HCN</td></tr>
+<tr><td>"</td><td>acquavite di vinaccia di frutta a nocciolo</td><td>70 mg/l</td><td>"</td></tr>
 <tr><td>"</td><td>mandorle</td><td>35 mg/kg</td><td>non trasformate intere, macinate, molite, frantumate o tritate destinate al consumatore</td></tr>
 <tr><td>"</td><td>radice di manioca</td><td>50 mg/kg</td><td>fresca, pelata</td></tr>
 <tr><td>"</td><td>semi di albicocca</td><td>20 mg/kg</td><td>non trasformati interi, macinati, moliti, frantumati o tritati destinati al consumatore</td></tr>
@@ -1094,13 +1095,13 @@ Allegato 8[^t-7]
 <tr><td>"</td><td>tè di erbe</td><td>25 µg/kg</td><td>essiccate; eccetto infusione a base di erbe di semi di anice</td></tr>
 </table>
 
-Allegato 8a[^t-8]
+Allegato 8a[^t-9]
 
 (art. 2 cpv. 3 lett. h<sup>bis</sup>, 4 cpv. 4, 5 cpv. 1 e 2 nonché 7 cpv. 1)
 
 ## Tenori massimi per i PFAS
 
-[^t-8]: Introdotto dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-9]: Introdotto dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -1184,13 +1185,13 @@ Allegato 8a[^t-8]
 <tr><td>"</td><td>frattaglie di selvaggina</td><td>50</td><td>eccetto frattaglie di orso; riferito al peso fresco</td></tr>
 </table>
 
-Allegato 9[^t-9]
+Allegato 9[^t-10]
 
 (art. 2 cpv. 3 lett. i, 4 cpv. 4, 5 cpv. 1 e 2, nonché 7 cpv. 1)
 
 ## Tenori massimi di ulteriori contaminanti nelle derrate alimentari
 
-[^t-9]: Aggiornato dalla cifra III dell’O dell’USAV del 12 mar. ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)) e dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 [RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-10]: Aggiornato dalla cifra III dell’O dell’USAV del 12 mar. ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dalla cifre II delle O dell’USAV del 2 giu. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -1221,7 +1222,7 @@ Allegato 9[^t-9]
 <tr><td>PSP (paralytic shellfish poison)</td><td>"</td><td>800 µg/kg</td><td>somma</td></tr>
 <tr><td>Sassitossina</td><td>"</td><td></td><td>vedi PSP</td></tr>
 <tr><td>Tossina botulinica</td><td>derrate alimentari in generale</td><td>nr</td><td>il metodo più sensibile</td></tr>
-<tr><td>Yessotossine</td><td>molluschi bivalvi</td><td>3500 µg/kg</td><td>in equivalente yessotossine</td></tr>
+<tr><td>Yessotossine</td><td>Molluschi bivalvi</td><td>3750 µg/kg</td><td>in equivalente yessotossine</td></tr>
 <tr><td colspan="4">Contaminanti derivanti dalla produzione di gelatina e collagene</td></tr>
 <tr><td>Anidride solforosa (SO<sub>2</sub>)</td><td>collagene</td><td>50 mg/kg</td><td></td></tr>
 <tr><td>"</td><td>gelatina</td><td>50 mg/kg</td><td></td></tr>
@@ -1229,12 +1230,12 @@ Allegato 9[^t-9]
 <tr><td>"</td><td>gelatina</td><td>10 mg/kg</td><td></td></tr>
 <tr><td colspan="4">Contaminanti derivanti dalla produzione di bevande alcoliche</td></tr>
 <tr><td>Carbammato d’etile</td><td>bevande spiritose</td><td>1 mg/l</td><td>non applicabile a bevande spiritose con data di produzione antecedente al 2003 (data di distillazione)</td></tr>
-<tr><td>Cianuro d’idrogeno</td><td>acquavite di frutta a nocciolo</td><td>70 mg/l</td><td>riferito all’alcool puro; totale come HCN</td></tr>
-<tr><td>"</td><td>acquavite di vinaccia di frutta a nocciolo</td><td>70 mg/l</td><td>"</td></tr>
 <tr><td>Metanolo</td><td>acquavite di albicocche</td><td>1200 g/hl</td><td>riferito all’alcool puro</td></tr>
 <tr><td>"</td><td>acquavite di bacche di ginepro</td><td>1350 g/hl</td><td>"</td></tr>
 <tr><td>"</td><td>acquavite di bacche di sambuco</td><td>1350 g/hl</td><td>"</td></tr>
 <tr><td>"</td><td>acquavite di frutta o di verdura</td><td>1000 g/hl</td><td>altra; riferito all’alcool puro</td></tr>
+<tr><td>"</td><td>acquavite di frutti del sorbo ciavardello</td><td>1350 g/hl</td><td>riferito all’alcool puro; totale come HCN</td></tr>
+<tr><td>"</td><td>acquavite di frutti del sorbole</td><td>1350 g/hl</td><td>riferito all’alcool puro; totale come HCN</td></tr>
 <tr><td>"</td><td>acquavite di lamponi</td><td>1200 g/hl</td><td>riferito all’alcool puro</td></tr>
 <tr><td>"</td><td>acquavite di mele</td><td>1200 g/hl</td><td>"</td></tr>
 <tr><td>"</td><td>acquavite di mele cotogne</td><td>1350 g/hl</td><td>"</td></tr>
@@ -1246,6 +1247,7 @@ Allegato 9[^t-9]
 <tr><td>"</td><td>acquavite di prugne</td><td>1200 g/hl</td><td>"</td></tr>
 <tr><td>"</td><td>acquavite di residui di frutta</td><td>1500 g/hl</td><td>"</td></tr>
 <tr><td>"</td><td>acquavite di ribes</td><td>1350 g/hl</td><td>da ribes rossi e/o neri; riferito all’alcool puro</td></tr>
+<tr><td>"</td><td>acquavite di rosa canina</td><td>1350 g/hl</td><td>riferito all’alcool puro; totale come HCN</td></tr>
 <tr><td>"</td><td>acquavite di sidro di mele e pere</td><td>1000 g/hl</td><td>compresa l’acquavite di sidro di mele e pere; riferito all’alcool puro</td></tr>
 <tr><td>"</td><td>acquavite di sorbo</td><td>1350 g/hl</td><td>riferito all’alcool puro</td></tr>
 <tr><td>"</td><td>acquavite di susine</td><td>1200 g/hl</td><td>"</td></tr>
@@ -1264,7 +1266,6 @@ Allegato 9[^t-9]
 <tr><td>"</td><td>paste alimentari</td><td>2 mg/kg</td><td>prodotti con ingredienti di canapa; riferito alla sostanza secca</td></tr>
 <tr><td>"</td><td>semi di canapa</td><td>10 mg/kg</td><td>riferito alla massa secca</td></tr>
 <tr><td>"</td><td>tè di erbe e di frutti</td><td>200 µg/kg</td><td>prodotti con ingredienti di canapa; riferito alla preparazione pronta al consumo, 15 g di parti di pianta per kg d’acqua, aspergere con acqua bollente e mantenere a una temperatura di 85 °C per 30 minuti</td></tr>
-<tr><td>Morfina</td><td>semi di papavero</td><td>30 mg/kg</td><td>calcolato come base</td></tr>
 <tr><td>Tetraidrocannabinolo, Delta 9-</td><td>articoli di panetteria e di biscotteria</td><td>2 mg/kg</td><td>prodotti con ingredienti di canapa; riferito alla sostanza secca</td></tr>
 <tr><td>"</td><td>bevande alcoliche</td><td>200 µg/kg</td><td>eccetto bevande spiritose; prodotti con ingredienti di canapa</td></tr>
 <tr><td>"</td><td>bevande senz’alcool</td><td>200 µg/kg</td><td>prodotti con ingredienti di canapa; riferito alla preparazione pronta al consumo</td></tr>
@@ -1281,13 +1282,13 @@ Allegato 9[^t-9]
 [^annex9-lvlu1-partC-1]: Regolamento (CE) n. 2074/2005 della Commissione, del 5 dicembre 2005, recante modalità di attuazione relative a taluni prodotti di cui al regolamento (CE) n. 853/2004 del Parlamento europeo e del Consiglio e all’organizzazione di controlli ufficiali a norma dei regolamenti del Parlamento europeo e del Consiglio (CE) n. 854/2004 e (CE) n. 882/2004, deroga al regolamento (CE) n. 852/2004 del Parlamento europeo e del Consiglio e modifica dei regolamenti (CE) n. 853/2004 e (CE) n. 854/2004, GU L 338 del 22.12.2005, pag. 27; modificato da ultimo dal regolamento di esecuzione (UE) 2019/1139, GU L 180 del 4.7.2019, pag. 12.
 [^annex9-lvlu1-partC-2]: La versione originale della *Pharmacopea europea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita pubblicazioni federali, 3003 Berna, [www.pubblicazionifederali.admin.ch](http://www.pubblicazionifederali.admin.ch/), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni. (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
 
-Allegato 10[^t-10]
+Allegato 10[^t-11]
 
 (art. 3, 4 cpv. 4, 5 cpv. 1 e 2, nonché 7 cpv. 1)
 
 ## Tenori massimi dei radionuclidi a seguito di un incidente nucleare o in qualsiasi altro caso di emergenza radiologica
 
-[^t-10]: Aggiornato dalla cifra II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 2 ott. 2018 ([RU 2018 3313](https://fedlex.data.admin.ch/eli/oc/2018/534)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)) e dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-11]: Aggiornato dalla cifra II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 2 ott. 2018 ([RU 2018 3313](https://fedlex.data.admin.ch/eli/oc/2018/534)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)) e dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -1365,13 +1366,13 @@ Allegato 10[^t-10]
 <tr><td>"</td><td>latte e derivati del latte</td><td>125</td><td>"</td></tr>
 </table>
 
-Allegato 11[^t-11]
+Allegato 11[^t-12]
 
 (art. 5*a* cpv. 1, 5*b* cpv. 1 e 7 cpv. 1)
 
 ## Valori indicativi di contaminanti per la verifica della buona prassi procedurale
 
-[^t-11]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-12]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### *Parte A:* *tabella*
 

@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les teneurs maximales en cont
 short: OCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: fr
-version: 2025-09-08
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250908/fr/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250908-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250908/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-156-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250908/fr"
 
 (Ordonnance sur les contaminants, OCont)
 
-du 16 décembre 2016 (État le 8 septembre 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -193,23 +193,15 @@ Les denrées alimentaires qui ne satisfont pas aux exigences de la présente ord
 
 #### Art. 8a
 
-**Disposition transitoire de la modification du 27 mai 2020**[^8a-1]
+[^8a-1]
 
-<sup>1</sup> Les denrées alimentaires non conformes aux annexes 2 à 4, 8 et 9 de la modification du 27 mai 2020 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 31 décembre 2020 et remises aux consommateurs jusqu’à épuisement des stocks.
-
-<sup>2</sup> Les mesures à prendre en vertu des art. 5*a* et 5*b* doivent être mises en œuvre jusqu’au 30 juin 2021.
-
-[^8a-1]: Introduit par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^8a-1]: Introduit par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 #### Art. 8b
 
-**Disposition transitoire de la modification du 8 décembre 2023**[^8b-1]
+[^8b-1]
 
-<sup>1</sup> Les denrées alimentaires non conformes à la modification du 8 décembre 2023 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
-
-<sup>2</sup> Par dérogation à l’al. 1, les denrées alimentaires qui ne sont pas conformes aux teneurs maximales en substances perfluoroalkylées (PFAS) fixées à l’annexe 8*a* peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 31 juillet 2024 et remises au consommateur jusqu’à épuisement des stocks.
-
-[^8b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^8b-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 #### Art. 8c
 
@@ -218,6 +210,14 @@ Les denrées alimentaires qui ne satisfont pas aux exigences de la présente ord
 Les denrées alimentaires non conformes à la modification du 2 juin 2025 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 30 juin 2026 et remises aux consommateurs jusqu’à épuisement des stocks.
 
 [^8c-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+
+#### Art. 8d
+
+**Disposition transitoire de la modification du 26 novembre 2025**[^8d-1]
+
+Les denrées alimentaires non conformes à la modification du 26 novembre 2025 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 30 juin 2026 et remises aux consommateurs jusqu’à épuisement des stocks.
+
+[^8d-1]: Introduit par le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 #### Art. 9
 
@@ -278,7 +278,7 @@ Annexe 2[^t-2]
 
 ## Teneurs maximales en mycotoxines dans les denrées alimentaires
 
-[^t-2]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)). L’erratum du 8 sept. 2025 ne concerne que le texte allemand ([RO 2025 547](https://fedlex.data.admin.ch/eli/oc/2025/547)).
+[^t-2]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### Partie A: remarques
 
@@ -402,11 +402,8 @@ Dans la somme inférieure, la contribution de chaque épimère non quantifié es
 <tr><td>"</td><td>produits de la mouture de maïs</td><td>750 µg/kg</td><td>destinés à la consommation humaine directe</td></tr>
 <tr><td>"</td><td>produits de la mouture de maïs</td><td>1000 µg/kg</td><td>non destinés à la consommation humaine directe</td></tr>
 <tr><td>Fumonisines (somme de B<sub>1</sub> et B<sub>2</sub>)</td><td>céréales pour petit déjeuner et collations à base de maïs</td><td>800 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>farine et produits de mouture de maïs obtenus par soufflage ou grillage</td><td>2000 µg/kg</td><td>dont la taille des particules est ≤ 500 micromètres, qui ne sont pas destinés à la consommation humaine directe</td></tr>
-<tr><td>"</td><td>maïs brut</td><td>4000 µg/kg</td><td>sauf maïs brut destiné à être transformé par mouture humide</td></tr>
-<tr><td>"</td><td>maïs destiné à la consommation humaine directe</td><td>1000 µg/kg</td><td>sauf céréales pour petit déjeuner et collations à base de maïs et préparations à base de céréales et autres aliments à base de maïs pour nourrissons et enfants en bas âge; denrées alimentaires à base de maïs destinées à la consommation humaine directe</td></tr>
-<tr><td>"</td><td>préparations à base de céréales et autres aliments à base de maïs pour nourrissons et enfants en bas âge</td><td>200 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>produits de mouture de maïs, en gruaux, semoule ou granules</td><td>1400 µg/kg</td><td>dont la taille des particules est &gt; 500 micromètres, qui ne sont pas destinés à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>produits de mouture de maïs</td><td>1400 µg/kg</td><td>moins de 90 %, mesurés en poids, des particules du produit de mouture ont une taille ≤ 500 micromètres; non destinés à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>farine de maïs et produits de mouture de maïs</td><td>2000 µg/kg</td><td>au moins 90 %, mesurés en poids, des particules du produit de mouture ont une taille ≤ 500 micromètres; non destinés à la consommation humaine directe</td></tr>
 <tr><td>Ochratoxine A</td><td>boissons non alcooliques à base de malt</td><td>3 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>café soluble</td><td>5 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>café torréfié</td><td>3 µg/kg</td><td>sauf café soluble; en grains ou moulu</td></tr>
@@ -477,14 +474,13 @@ Dans la somme inférieure, la contribution de chaque épimère non quantifié es
 <tr><td>"</td><td>sons de céréales autres que l’avoine</td><td>50 μg/kg</td><td></td></tr>
 <tr><td>Zéaralénone</td><td>céréales non transformées</td><td>100 µg/kg</td><td>à l’exclusion du maïs non transformé et du riz</td></tr>
 <tr><td>"</td><td>céréales, son et germes de céréales destinés à la consommation humaine directe farine et semoule de céréales</td><td>75 µg/kg</td><td>à l’exclusion du maïs destiné à la consommation humaine directe, des collations et des céréales pour petit-déjeuner; à l’exclusion des produits de mouture de maïs, en gruaux, semoule ou granules, et des autres denrées alimentaires pour bébés destinés aux nourrissons et aux enfants en bas âge; à l’exclusion du riz et des produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
-<tr><td>"</td><td>denrées alimentaires à base de maïs transformé destinées aux nourrissons et enfants en bas âge</td><td>20 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>farine et produits de mouture de maïs obtenus par soufflage ou grillage</td><td>300 µg/kg</td><td>dont la taille des particules est ≤ 500 micromètres, et qui ne sont pas destinés à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>farine de maïs et produits de mouture de maïs</td><td>300 µg/kg</td><td>au moins 90 %, mesurés en poids, des particules du produit de mouture ont une taille ≤ 500 micromètres; non destinés à la consommation humaine directe</td></tr>
 <tr><td>"</td><td>huile de maïs</td><td>400 µg/kg</td><td>raffinée</td></tr>
 <tr><td>"</td><td>maïs destiné à la consommation humaine directe, collations et céréales pour le petit‑déjeuner à base de maïs</td><td>100 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>maïs non transformé</td><td>350 µg/kg</td><td>à l’exclusion du maïs non transformé destiné à être transformé par mouture humide</td></tr>
 <tr><td>"</td><td>pain, pâtisseries, biscuits, collations aux céréales et céréales pour le petit-déjeuner</td><td>50 µg/kg</td><td>à l’exclusion des collations au maïs et des céréales pour petit-déjeuner à base de maïs; à l’exclusion de produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz); y compris les petits produits de boulangerie</td></tr>
 <tr><td>"</td><td>préparations à base de céréales et denrées alimentaires pour bébés destinés aux nourrissons et aux enfants en bas âge</td><td>20 µg/kg</td><td>à l’exclusion des produits à base de riz (produits dont les seuls ingrédients céréaliers sont le riz ou des produits transformés à partir du riz)</td></tr>
-<tr><td>"</td><td>produits de la mouture de maïs, en gruaux, semoule ou granules</td><td>200 µg/kg</td><td>dont la taille des particules est &gt; 500 micromètres, et qui ne sont pas destinés à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>produits de mouture de maïs</td><td>200 µg/kg</td><td>moins de 90 %, mesurés en poids, des particules du produit de mouture ont une taille ≤ 500 micromètres; non destinés à la consommation humaine directe</td></tr>
 </table>
 
 Annexe 3[^t-3]
@@ -493,7 +489,7 @@ Annexe 3[^t-3]
 
 ## Teneurs maximales en métaux et métalloïdes
 
-[^t-3]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-3]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### Partie A: remarques
 
@@ -575,11 +571,11 @@ Annexe 3[^t-3]
 <tr><td>"</td><td>céphalopodes</td><td>1</td><td>sans viscères</td></tr>
 <tr><td>"</td><td>céréales</td><td>0,1</td><td>sauf orge, blé dur, riz, seigle, quinoa, gluten de blé, son de blé et germes de blé</td></tr>
 <tr><td>"</td><td>collagène</td><td>0,5</td><td></td></tr>
-<tr><td>"</td><td>compléments alimentaires</td><td>1</td><td>sauf compléments alimentaires composés exclusivement ou principalement d’algues marines séchées, de produits issus d’algues marines ou de mollusques bivalves séchés</td></tr>
-<tr><td>"</td><td>compléments alimentaires composés exclusivement ou principalement d’algues marines séchées, de produits issus d’algues marines ou de mollusques bivalves séchés</td><td>3</td><td></td></tr>
+<tr><td>"</td><td>compléments alimentaires</td><td>1</td><td>sauf compléments alimentaires composés à au moins 80 % d’algues marines séchées, de produits issus d’algues marines ou de mollusques bivalves séchés</td></tr>
+<tr><td>"</td><td>compléments alimentaires composés à au moins 80 % d’algues marines séchées, de produits issus d’algues marines ou de mollusques bivalves séchés</td><td>3</td><td></td></tr>
 <tr><td>"</td><td>crabes et crustacés de type crabe (*Brachyura* et *Anomura*)</td><td>0,5</td><td>chair musculaire des appendices</td></tr>
 <tr><td>"</td><td>crustacés</td><td>0,5</td><td>chair musculaire des appendices et de l’abdomen</td></tr>
-<tr><td>"</td><td>denrées alimentaires destinées aux sportifs ayant une teneur définie en vitamines et en sels minéraux ou en autres substances pertinentes pour les sportifs</td><td>1</td><td>sauf boissons et produits composés exclusivement ou principalement d’algues marines séchées, de produits issus d’algues marines ou de mollusques bivalves séchés</td></tr>
+<tr><td>"</td><td>denrées alimentaires destinées aux sportifs ayant une teneur définie en vitamines et en sels minéraux ou en autres substances pertinentes pour les sportifs</td><td>1</td><td>sauf boissons et produits composés à au moins 80 % d’algues marines séchées, de produits issus d’algues marines ou de mollusques bivalves séchés</td></tr>
 <tr><td>"</td><td>épinards et feuilles similaires</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>fèves de soja</td><td>0,2</td><td></td></tr>
 <tr><td>"</td><td>fines herbes fraîches</td><td>0,2</td><td></td></tr>
@@ -990,11 +986,13 @@ Annexe 6[^t-6]
 <tr><td>"</td><td>"</td><td>12</td><td colspan="2">fumés</td></tr>
 </table>
 
-Annexe 7
+Annexe 7[^t-7]
 
 (art. 2, al. 3, let. g, 4, al. 4, 5, al. 1 et 2, et 7, al. 1)
 
 ## Teneurs maximales en mélamine et ses analogues structuraux dans les denrées alimentaires
+
+[^t-7]: Mise à jour par le ch. II de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### Partie A: remarques
 
@@ -1006,16 +1004,17 @@ Annexe 7
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td>Substance</td><td>Denrée alimentaire</td><td>Teneur maximale (mg/kg)</td><td>Remarques</td></tr>
 <tr><td>Mélamine</td><td>préparations pour nourrissons et préparations de suite en poudre</td><td>1</td><td>les teneurs maximales ne s’appliquent pas aux denrées alimentaires pour lesquelles il peut être prouvé qu’une teneur en mélamine supérieure à 2,5 mg/kg résulte de l’utilisation autorisée de cyromazine en tant qu’insecticide; la teneur en mélamine ne doit pas être supérieure à celle en cyromazine</td></tr>
-<tr><td>"</td><td>toutes denrées alimentaires</td><td>2,5</td><td>sauf préparations pour nourrissons et préparations de suite; les teneurs maximales ne s’appliquent pas aux denrées alimentaires pour lesquelles il peut être prouvé qu’une teneur en mélamine supérieure à 2,5 mg/kg résulte de l’utilisation autorisée de cyromazine en tant qu’insecticide; la teneur en mélamine ne doit pas être supérieure à celle en cyromazine</td></tr>
+<tr><td>"</td><td>préparations pour nourrissons et préparations de suite liquides</td><td>0,15</td><td>les teneurs maximales ne s’appliquent pas aux denrées alimentaires pour lesquelles il peut être prouvé qu’une teneur en mélamine supérieure à 2,5 mg/kg résulte de l’utilisation autorisée de cyromazine en tant qu’insecticide; la teneur en mélamine ne doit pas être supérieure à celle en cyromazine</td></tr>
+<tr><td></td><td>toutes denrées alimentaires</td><td>2,5</td><td>sauf préparations pour nourrissons et préparations de suite; les teneurs maximales ne s’appliquent pas aux denrées alimentaires pour lesquelles il peut être prouvé qu’une teneur en mélamine supérieure à 2,5 mg/kg résulte de l’utilisation autorisée de cyromazine en tant qu’insecticide; la teneur en mélamine ne doit pas être supérieure à celle en cyromazine</td></tr>
 </table>
 
-Annexe 8[^t-7]
+Annexe 8[^t-8]
 
 (art. 2, al. 3, let. h, 4, al. 4, 5, al. 1 et 2, et 7, al. 1)
 
 ## Teneurs maximales en toxines endogènes des plantes
 
-[^t-7]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-8]: Mise à jour par le ch. II al. 1 de l’O du DFI du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### Partie A: remarques
 
@@ -1079,6 +1078,8 @@ Annexe 8[^t-7]
 <tr><td>Atropine</td><td>préparations à base de céréales et autres aliments pour nourrissons et enfants en bas âge contenant du millet, du sorgho, du sarrasin, du maïs ou des produits qui en sont dérivés</td><td>1 µg/kg</td><td>rapportée au produit tel qu’il est mis sur le marché</td></tr>
 <tr><td>Acide cyanhydrique, y compris l’acide cyanhydrique lié dans les glycosides cyanogènes</td><td>amandes d’abricot</td><td>20 mg/kg</td><td>non transformées entières, broyées, moulues, brisées ou concassées, et destinées au consommateur</td></tr>
 <tr><td>"</td><td>amandes</td><td>35 mg/kg</td><td>non transformées entières, broyées, moulues, brisées ou concassées, et destinées au consommateur</td></tr>
+<tr><td>"</td><td>eaux-de-vie de fruits à noyau</td><td>70 mg/l</td><td>rapporté à l’alcool pur; total en HCN</td></tr>
+<tr><td>"</td><td>eaux-de-vie de marc de fruits à noyau</td><td>70 mg/l</td><td>"</td></tr>
 <tr><td>"</td><td>graines de lin</td><td>250 mg/kg</td><td>non transformées, entières, broyées, moulues, brisées ou concassées, à l’exclusion des graines de lin non destinées au consommateur et des graines oléagineuses destinées à être broyées pour la fabrication d’huile végétale raffinée, à condition que les graines oléagineuses pressées restantes ne soient pas mises sur le marché en tant que denrées alimentaires. Si les graines oléagineuses pressées restantes sont mises sur le marché en tant que denrées alimentaires, la teneur maximale s’applique en tenant compte de l’art. 4, al. 1 et 2.</td></tr>
 <tr><td>"</td><td>"</td><td>150 mg/kg</td><td>entières, broyées, moulues, brisées ou concassées et destinées au consommateur</td></tr>
 <tr><td>"</td><td>manioc (racine de manioc)</td><td>50 mg/kg</td><td>frais, épluché</td></tr>
@@ -1114,13 +1115,13 @@ Annexe 8[^t-7]
 <tr><td>"</td><td>sorgho</td><td>5 µg/kg</td><td>brut ou destiné au consommateur</td></tr>
 </table>
 
-Annexe 8a[^t-8]
+Annexe 8a[^t-9]
 
 (art. 2, al. 3, let. h<sup>bis</sup>, 4, al. 4, 5, al. 1 et 2, et 7, al. 1)
 
 ## Teneurs maximales en PFAS
 
-[^t-8]: Introduite par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
+[^t-9]: Introduite par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)).
 
 ### Partie A
 
@@ -1204,13 +1205,13 @@ Annexe 8a[^t-8]
 <tr><td>"</td><td>viande de gibier</td><td>9</td><td>sauf viande d’ours; rapportée au poids frais</td></tr>
 </table>
 
-Annexe 9[^t-9]
+Annexe 9[^t-10]
 
 (art. 2, al. 3, let. i, 4, al. 4, 5, al. 1 et 2, et 7, al. 1)
 
 ## Teneurs maximales d’autres contaminants dans les denrées alimentaires
 
-[^t-9]: Mise à jour par le ch. III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-10]: Mise à jour par le ch. III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
 
 ### Partie A: remarques
 
@@ -1229,31 +1230,31 @@ Annexe 9[^t-9]
 ### Partie B: tableau
 
 <table>
-<tr><th>1</th><th>2</th><th>3</th><th colspan="2">4</th></tr>
-<tr><th>Substance</th><th>Denrée alimentaire</th><th>Teneur maximale</th><th colspan="2">Remarques</th></tr>
-<tr><td colspan="5">Autres toxines microbiennes</td></tr>
-<tr><td>Acide domoïque</td><td>mollusques bivalves</td><td>20 mg/kg</td><td colspan="2"></td></tr>
-<tr><td>Acide okadaïque</td><td>"</td><td>160 µg/kg</td><td colspan="2">acide okadaïque, dinophysistoxines et pectenotoxines pris ensemble, en équivalent d’acide okadaïque</td></tr>
-<tr><td>Azaspiracides</td><td>"</td><td>160 µg/kg</td><td colspan="2">en équivalent d’azaspiracide</td></tr>
-<tr><td>Dinophysistoxines</td><td>"</td><td></td><td colspan="2">voir acide okadaïque</td></tr>
-<tr><td>Pectenotoxines</td><td>"</td><td></td><td colspan="2">voir acide okadaïque</td></tr>
-<tr><td>Phycotoxines amnésiantes (ASP, amnesic shellfish poison)</td><td>"</td><td></td><td colspan="2">voir acide domoïque</td></tr>
-<tr><td>Phycotoxines paralysantes (PSP, paralytic shellfish poison)</td><td>"</td><td>800 µg/kg</td><td colspan="2">somme</td></tr>
-<tr><td>Saxitoxine</td><td>"</td><td></td><td colspan="2">voir phycotoxines paralysantes</td></tr>
-<tr><td>Toxines botuliniques</td><td>toutes denrées alimentaires</td><td>nd</td><td colspan="2">méthode la plus sensible</td></tr>
-<tr><td>Yessotoxines</td><td>mollusques bivalves</td><td>3500 µg/kg</td><td colspan="2">en équivalent de yessotoxine</td></tr>
-<tr><td colspan="5">Contaminants dans la production de gélatine et de collagène</td></tr>
-<tr><td>Dioxyde de soufre (SO<sub>2</sub>)</td><td>collagène</td><td>50 mg/kg</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>gélatine</td><td>50 mg/kg</td><td colspan="2"></td></tr>
-<tr><td>Peroxyde d’hydrogène (H<sub>2</sub>O<sub>2</sub>)</td><td>collagène</td><td>10 mg/kg</td><td colspan="2"></td></tr>
-<tr><td>"</td><td>gélatine</td><td>10 mg/kg</td><td colspan="2"></td></tr>
-<tr><td colspan="5">Contaminants dans la production de boissons alcooliques</td></tr>
+<tr><th>1</th><th>2</th><th>3</th><th>4</th></tr>
+<tr><th>Substance</th><th>Denrée alimentaire</th><th>Teneur maximale</th><th>Remarques</th></tr>
+<tr><td colspan="4">Autres toxines microbiennes</td></tr>
+<tr><td>Acide domoïque</td><td>mollusques bivalves</td><td>20 mg/kg</td><td></td></tr>
+<tr><td>Acide okadaïque</td><td>"</td><td>160 µg/kg</td><td>acide okadaïque, dinophysistoxines et pectenotoxines pris ensemble, en équivalent d’acide okadaïque</td></tr>
+<tr><td>Azaspiracides</td><td>"</td><td>160 µg/kg</td><td>en équivalent d’azaspiracide</td></tr>
+<tr><td>Dinophysistoxines</td><td>"</td><td></td><td>voir acide okadaïque</td></tr>
+<tr><td>Pectenotoxines</td><td>"</td><td></td><td>voir acide okadaïque</td></tr>
+<tr><td>Phycotoxines amnésiantes (ASP, amnesic shellfish poison)</td><td>"</td><td></td><td>voir acide domoïque</td></tr>
+<tr><td>Phycotoxines paralysantes (PSP, paralytic shellfish poison)</td><td>"</td><td>800 µg/kg</td><td>somme</td></tr>
+<tr><td>Saxitoxine</td><td>"</td><td></td><td>voir phycotoxines paralysantes</td></tr>
+<tr><td>Toxines botuliniques</td><td>toutes denrées alimentaires</td><td>nd</td><td>méthode la plus sensible</td></tr>
+<tr><td>Yessotoxines</td><td>"</td><td>3750 µg/kg</td><td>en équivalent de yessotoxine</td></tr>
+<tr><td colspan="4">Contaminants dans la production de gélatine et de collagène</td></tr>
+<tr><td>Dioxyde de soufre (SO<sub>2</sub>)</td><td>collagène</td><td>50 mg/kg</td><td></td></tr>
+<tr><td>"</td><td>gélatine</td><td>50 mg/kg</td><td></td></tr>
+<tr><td>Peroxyde d’hydrogène (H<sub>2</sub>O<sub>2</sub>)</td><td>collagène</td><td>10 mg/kg</td><td></td></tr>
+<tr><td>"</td><td>gélatine</td><td>10 mg/kg</td><td></td></tr>
+<tr><td colspan="4">Contaminants dans la production de boissons alcooliques</td></tr>
 <tr><td>Carbamate d’éthyle</td><td>boissons spiritueuses</td><td>1 mg/l</td><td>n’est pas applicable aux spiritueux produits avant 2003 (date de distillation)</td></tr>
-<tr><td>Cyanure d’hydrogène</td><td>eaux-de-vie de fruits à noyau</td><td>70 mg/l</td><td>rapporté à l’alcool pur; total en HCN</td></tr>
-<tr><td>"</td><td>eaux-de-vie de marc de fruits à noyau</td><td>70 mg/l</td><td>"</td></tr>
 <tr><td>Méthanol</td><td>boissons spiritueuses</td><td>1000 g/hl</td><td>autres; rapporté à l’alcool pur</td></tr>
 <tr><td>"</td><td>*Brandy ou Weinbrand*</td><td>200 g/hl</td><td>rapporté à l’alcool pur</td></tr>
 <tr><td>"</td><td>eau-de-vie d’abricot</td><td>1200 g/hl</td><td>"</td></tr>
+<tr><td>"</td><td>eau-de-vie d’alisier</td><td>1350 g/hl</td><td>rapporté à l’alcool pur</td></tr>
+<tr><td>"</td><td>eau-de-vie d’églantier</td><td>1350 g/hl</td><td>rapporté à l’alcool pur</td></tr>
 <tr><td>"</td><td>eau-de-vie de baies de genièvre</td><td>1350 g/hl</td><td>"</td></tr>
 <tr><td>"</td><td>eau-de-vie de baies de sorbier</td><td>1350 g/hl</td><td>"</td></tr>
 <tr><td>"</td><td>eau-de-vie de cidre et de poiré</td><td>1000 g/hl</td><td>y compris eau-de-vie de cidre et de poiré; rapporté à l’alcool pur</td></tr>
@@ -1270,18 +1271,18 @@ Annexe 9[^t-9]
 <tr><td>"</td><td>eau-de-vie de poire Williams</td><td>1350 g/hl</td><td>rapporté à l’alcool pur</td></tr>
 <tr><td>"</td><td>eau-de-vie de pomme</td><td>1200 g/hl</td><td>"</td></tr>
 <tr><td>"</td><td>eau-de-vie de prune</td><td>1200 g/hl</td><td>"</td></tr>
-<tr><td>"</td><td>eau-de-vie de quetsche</td><td>1200 g/hl</td><td colspan="2">"</td></tr>
-<tr><td>"</td><td>eau-de-vie de sureau</td><td>1350 g/hl</td><td colspan="2">"</td></tr>
-<tr><td>"</td><td>eau-de-vie de vin</td><td>200 g/hl</td><td colspan="2">"</td></tr>
-<tr><td>"</td><td>gentiane</td><td>1500 g/hl</td><td colspan="2">"</td></tr>
-<tr><td>"</td><td>London gin</td><td>5 g/hl</td><td colspan="2">"</td></tr>
-<tr><td>"</td><td>vodka</td><td>10 g/hl</td><td colspan="2">"</td></tr>
-<tr><td>Nitrosamines volatiles</td><td>bière</td><td>0,5 µg/kg</td><td colspan="2">somme</td></tr>
-<tr><td colspan="5">Autres composants d’origine végétale</td></tr>
+<tr><td>"</td><td>eau-de-vie de quetsche</td><td>1200 g/hl</td><td>"</td></tr>
+<tr><td>"</td><td>eau-de-vie de sorbier</td><td>1350 g/hl</td><td>rapporté à l’alcool pur</td></tr>
+<tr><td>"</td><td>eau-de-vie de sureau</td><td>1350 g/hl</td><td>"</td></tr>
+<tr><td>"</td><td>eau-de-vie de vin</td><td>200 g/hl</td><td>"</td></tr>
+<tr><td>"</td><td>gentiane</td><td>1500 g/hl</td><td>"</td></tr>
+<tr><td>"</td><td>London gin</td><td>5 g/hl</td><td>"</td></tr>
+<tr><td>"</td><td>vodka</td><td>10 g/hl</td><td>"</td></tr>
+<tr><td>Nitrosamines volatiles</td><td>bière</td><td>0,5 µg/kg</td><td>somme</td></tr>
+<tr><td colspan="4">Autres composants d’origine végétale</td></tr>
 <tr><td>Équivalents de delta‑9‑tétrahydrocannabinol (Δ<sup>9</sup>-THC)</td><td>chènevis moulu, chènevis (partiellement) dégraissé et autres produits dérivés ou transformés du chènevis</td><td>3 mg/kg</td><td>à l’exclusion de l’huile de chènevis</td></tr>
 <tr><td>"</td><td>chènevis (graines de chanvre)</td><td>3 mg/kg</td><td></td></tr>
 <tr><td>"</td><td>huile de chènevis</td><td>7,5 mg/kg</td><td></td></tr>
-<tr><td>Morphine</td><td>graines de pavot</td><td>30 mg/kg</td><td>calculé comme base</td></tr>
 </table>
 
 ### Partie C: méthodes
@@ -1293,13 +1294,13 @@ Annexe 9[^t-9]
 [^annex9-lvlu1-partC-1]: Règlement (CE) n° 2074/2005 de la Commission du 5 décembre 2005 établissant les mesures d’application relatives à certains produits régis par le règlement (CE) n° 853/2004 du Parlement européen et du Conseil et à l’organisation des contrôles officiels prévus par les règlements (CE) n° 854/2004 du Parlement européen et du Conseil et (CE) n° 882/2004 du Parlement européen et du Conseil, portant dérogation au règlement (CE) n° 852/2004 du Parlement européen et du Conseil et modifiant les règlements (CE) n° 853/2004 et (CE) n° 854/2004, JO L 338 du 22.12.2005, p. 27; modifié en dernier lieu par le règlement d’exécution (UE) n° 2019/1139, JO L 180 du 4.7.2019, p. 12
 [^annex9-lvlu1-partC-2]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, [www.publicationsfederales.admin.ch](https://www.publicationsfederales.admin.ch), aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
 
-Annexe 10[^t-10]
+Annexe 10[^t-11]
 
 (art. 3, 4, al. 4, 5, al. 1 et 2, et 7, al. 1)
 
 ## Teneurs maximales en radionucléides après un accident nucléaire ou dans toute autre situation d’urgence radiologique
 
-[^t-10]: Mise à jour par le ch. II de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), par l’erratum du 2 oct. 2018 ([RO 2018 3313](https://fedlex.data.admin.ch/eli/oc/2018/534)) et par le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-11]: Mise à jour par le ch. II de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), par l’erratum du 2 oct. 2018 ([RO 2018 3313](https://fedlex.data.admin.ch/eli/oc/2018/534)) et par le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### Partie A: remarques
 
@@ -1377,13 +1378,13 @@ Annexe 10[^t-10]
 <tr><td>"</td><td>toutes denrées alimentaires</td><td>750</td><td>autres; notamment Sr-90</td></tr>
 </table>
 
-Annexe 11[^t-11]
+Annexe 11[^t-12]
 
 (art. 5*a*, al. 1, 5*b,* al. 1, et 7, al. 1)
 
 ## Valeurs indicatives pour le contrôle des bonnes pratiques
 
-[^t-11]: Introduite par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
+[^t-12]: Introduite par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)).
 
 ### Partie A: tableau
 
