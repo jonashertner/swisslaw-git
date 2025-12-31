@@ -3,11 +3,11 @@ sr: "0.916.051.41"
 title: Accordo del 28 settembre 2020 tra la Svizzera e il Liechtenstein relativo al disciplinamento della partecipazione del Liechtenstein alle misure di sostegno del mercato e dei prezzi della politica agricola svizzera (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/874"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2020-09-28
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2020-874-20250101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-874-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2020** 4907
 
 Concluso il 28 settembre 2020 Entrato retroattivamente in vigore il 1° gennaio 2020
 
-(Stato 1° gennaio 2025)
+(Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero e il Governo del Principato del Liechtenstein,
 
@@ -34,7 +34,7 @@ per disciplinare la partecipazione del Liechtenstein alle misure della politica 
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^ingress-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 ## Capitolo primo: Disposizioni generali
 
@@ -87,9 +87,10 @@ Per lo svolgimento delle misure dal profilo amministrativo (procedura), in parti
 
 <sup>1</sup> Riguardo alla partecipazione del Liechtenstein alle misure di cui all’allegato 1, la legge federale sull’agricoltura[^6-1] è applicabile nei limiti fissati nell’appendice.
 
-<sup>2</sup> L’articolo 166 capoverso 2 della legge federale sull’agricoltura non è applicabile, sempre che le autorità liechtensteinensi adottino proprie misure equivalenti. L’Ufficio dell’ambiente liechtensteinense adotta misure amministrative in virtù dell’articolo 169 della suddetta legge, sempre che il Liechtenstein non abbia proprie prescrizioni equivalenti.
+<sup>2</sup> L’articolo 166 capoverso 2 della legge federale sull’agricoltura non è applicabile, sempre che le autorità liechtensteinensi adottino proprie misure equivalenti. L’Ufficio dell’ambiente[^6-2] liechtensteinense adotta misure amministrative in virtù dell’articolo 169 della suddetta legge, sempre che il Liechtenstein non abbia proprie prescrizioni equivalenti.
 
-[^6-1]: LF del 29 apr. 1998 sull’agricoltura (Legge sull’agricoltura, LAgr – [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)**)**.
+[^6-1]: LF del 29 apr. 1998 sull’agricoltura (Legge sull’agricoltura, LAgr – [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)**)**.
+[^6-2]: Dal 1° agosto 2026: Ufficio per le foreste, la natura e l’agricoltura.
 
 #### Art. 7
 
@@ -233,12 +234,12 @@ Fatto a Berna, il 28 settembre 2020, in due esemplari originali in lingua tedesc
 
 Appendice[^t-1]
 
-## Atti normativi federali che costituiscono la base giuridica per includere i produttori, i trasformatori e i commercianti liechtensteinensi nelle misure della politica agricola svizzera.
+## Atti normativi federali che costituiscono la base giuridica per includere i produttori, i trasformatori e i commercianti liechtensteinensi nelle misure della politica agricola svizzera
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornata dalle dec. delle autorità competenti, in vigore dal 1° gen. 2023 ([RU 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)) e in vigore dal 1° gen. 2025([RU 2025 56](https://fedlex.data.admin.ch/eli/oc/2025/56)).
-[^annexu1-lvlu1-1]: L’appendice non è pubblicata nella RU. Può essere consultata sul sito Internet [www.gesetze.li](https://www.gesetze.li/chrono/2024473000?search_text=&search_loc=text&lrnr=&lgblid_von=&lgblid_bis=2024.473): [LR‑Nr 0631.112.3](https://www.gesetze.li/chrono/2024473000?search_text=&search_loc=text&lrnr=&lgblid_von=&lgblid_bis=2024.473).
+[^t-1]: Aggiornata dalle dec. delle autorità competenti, in vigore dal 1° gen. 2023 ([RU 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)), 1° gen. 2025 ([RU 2025 56](https://fedlex.data.admin.ch/eli/oc/2025/56)) e 1° gen. 2026 ([RU 2025 874](https://fedlex.data.admin.ch/eli/oc/2025/874)).
+[^annexu1-lvlu1-1]: L’appendice non è pubblicata nella RU. Può essere consultata sul sito Internet [www.gesetze.li](https://www.gesetze.li/): [LGBl-Nr 2025.575](https://www.gesetze.li/chrono/2025575000?search_text=&search_loc=text&lrnr=0.631.112.3&lgblid_von=&lgblid_bis=).
 
 Allegato 1[^t-2]
 
@@ -353,7 +354,7 @@ Le domande dei richiedenti liechtensteinensi per il versamento del supplemento p
 
 Le domande dei richiedenti liechtensteinensi per il versamento del supplemento per i cereali devono essere presentate all’Ufficio dell’ambiente liechtensteinense entro i termini di cui all’articolo 24 dell’ordinanza liechtensteinense sull’integrazione al reddito agricolo.
 
-[^annex2-lvl2-1]: O del 25 giu. 2008 sul sostegno del prezzo del latte ([RS 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)).
+[^annex2-lvl2-1]: O del 25 giu. 2008 sul sostegno del prezzo del latte ([RS 916.350.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10749)).
 
 ## 3. Pagamento di contributi ai richiedenti liechtensteinensi
 
@@ -363,4 +364,4 @@ Il pagamento di eventuali contributi ai richiedenti liechtensteinensi può esser
 - – l’Ufficio dell’ambiente liechtensteinense effettua il pagamento del supplemento per il latte commerciale (analogamente all’art. 5 OSL);
 - – l’Ufficio dell’ambiente liechtensteinense effettua il pagamento del supplemento per i cereali (analogamente all’art. 11 OCSC[^annex2-lvl3-1] ) entro i termini di cui all’articolo 26 dell’ordinanza liechtensteinense sull’integrazione al reddito agricolo.
 
-[^annex2-lvl3-1]: O del 23 ottobre 2013 sui contributi per singole colture ([RS 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)).
+[^annex2-lvl3-1]: O del 23 ottobre 2013 sui contributi per singole colture ([RS 910.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10417)).

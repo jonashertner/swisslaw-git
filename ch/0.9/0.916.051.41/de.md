@@ -3,11 +3,11 @@ sr: "0.916.051.41"
 title: Vereinbarung vom 28. September 2020 zwischen der Schweiz und Liechtenstein zur Regelung der Beteiligung Liechtensteins an Markt- und Preisstützungsmassnahmen der schweizerischen Landwirtschaftspolitik (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/874"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2020-09-28
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-874-20250101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-874-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 28. September 2020
 
 Rückwirkend in Kraft getreten am 1. Januar 2020
 
-(Stand am 1. Januar 2025)
+(Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat und die Regierung des Fürstentums Liechtenstein
 
@@ -36,7 +36,7 @@ haben zur Regelung der Beteiligung Liechtensteins an Massnahmen der schweizerisc
 
 Folgendes vereinbart:
 
-[^ingress-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^ingress-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -89,9 +89,10 @@ Für die verwaltungstechnische Abwicklung der Massnahmen (Verfahren), insbesonde
 
 <sup>1</sup> In Bezug auf die Beteiligung Liechtensteins an den Massnahmen gemäss Anhang 1 ist das Bundesgesetz über die Landwirtschaft[^6-1] in dem gemäss Anlage festgelegten Umfang anwendbar.
 
-<sup>2</sup> Art. 166 Abs. 2 LwG ist nicht anwendbar, soweit die liechtensteinischen Behörden eigene gleichwertige Massnahmen treffen. Verwaltungsmassnahmen werden durch das liechtensteinische Amt für Umwelt gestützt auf Art. 169 LwG getroffen, soweit Liechtenstein keine eigenen gleichwertigen Vorschriften hat.
+<sup>2</sup> Art. 166 Abs. 2 LwG ist nicht anwendbar, soweit die liechtensteinischen Behörden eigene gleichwertige Massnahmen treffen. Verwaltungsmassnahmen werden durch das liechtensteinische Amt für Umwelt[^6-2] gestützt auf Art. 169 LwG getroffen, soweit Liechtenstein keine eigenen gleichwertigen Vorschriften hat.
 
-[^6-1]: Bundesgesetz vom 29. April 1998 über die Landwirtschaft (Landwirtschaftsgesetz, LwG), [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033).
+[^6-1]: Bundesgesetz vom 29. April 1998 über die Landwirtschaft (Landwirtschaftsgesetz, LwG), [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401).
+[^6-2]: Seit dem 1. Aug. 2026: Amt für Wald, Natur und Landwirtschaft.
 
 #### Art. 7
 
@@ -239,8 +240,8 @@ Anlage[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss der am 1. Jan. 2023 ([AS 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)) und am 1. Jan. 2025 ([AS 2025 56](https://fedlex.data.admin.ch/eli/oc/2025/56)) in Kraft getretenen Aktualisierungen.
-[^annexu1-lvlu1-1]: Diese Anlage wird in der AS nicht publiziert. Sie kann auf der Internetseite [www.gesetze.li](http://www.gesetze.li): LR-Nr. 0.631.112.3 konsultiert werden.
+[^t-1]: Bereinigt gemäss der am 1. Jan. 2023 ([AS 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)), am 1. Jan. 2025 ([AS 2025 56](https://fedlex.data.admin.ch/eli/oc/2025/56)) und am 1. Jan. 2026 ([AS 2025 874](https://fedlex.data.admin.ch/eli/oc/2025/874)) in Kraft getretenen Aktualisierungen.
+[^annexu1-lvlu1-1]: Diese Anlage wird in der AS nicht publiziert. Sie kann auf der Internetseite: [www.gesetze.li](https://www.gesetze.li/): [LGBl-Nr 2025.575](https://www.gesetze.li/chrono/2025575000?search_text=&search_loc=text&lrnr=0.631.112.3&lgblid_von=&lgblid_bis=) konsultiert werden.
 
 Anhang 1[^t-2]
 
@@ -355,7 +356,7 @@ Die Gesuche von liechtensteinischen Antragsstellern um Ausrichtung der Zulage f�
 
 Die Gesuche von liechtensteinischen Antragsstellern um Ausrichtung der Zulage für Getreide müssen beim liechtensteinischen Amt für Umwelt gemäss den Fristen nach Artikel 24 der liechtensteinischen Landwirtschafts-Einkommensbeitrags-Verordnung eingereicht werden.
 
-[^annex2-lvl2-1]: Schweizerische Milchpreisstützungsverordnung vom 25. Juni 2008; [SR 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
+[^annex2-lvl2-1]: Schweizerische Milchpreisstützungsverordnung vom 25. Juni 2008; [SR 916.350.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10749)
 
 ## 3. Auszahlung von Beiträgen an liechtensteinische Antragsteller
 
@@ -365,4 +366,4 @@ Die Auszahlung allfälliger Beiträge an liechtensteinische Antragsteller kann d
 - – Die Auszahlung der Zulage für Verkehrsmilch erfolgt durch das liechtensteinische Amt für Umwelt (analog Art. 5 MSV).
 - – Die Auszahlung der Zulage für Getreide erfolgt durch das liechtensteinische Amt für Umwelt (analog Art. 11 EKBV[^annex2-lvl3-1]) gemäss den Fristen nach Artikel 26 der liechtensteinischen Landwirtschafts-Einkommensbeitrags-Verordnung.
 
-[^annex2-lvl3-1]: Schweizerische Einzelkulturbeitragsverordnung vom 23. Oktober 2013; [SR 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
+[^annex2-lvl3-1]: Schweizerische Einzelkulturbeitragsverordnung vom 23. Oktober 2013; [SR 910.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10417)

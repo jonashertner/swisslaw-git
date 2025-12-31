@@ -3,11 +3,11 @@ sr: "0.916.051.41"
 title: Arrangement du 28 septembre 2020 entre la Suisse et le Liechtenstein concernant les modalités de la participation du Liechtenstein aux mesures de soutien du marché et des prix prises dans le cadre de la politique agricole suisse (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/874"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2020-09-28
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-874-20250101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/874/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-874-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/874/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Conclu le 28 septembre 2020
 
 Entré en vigueur avec effet rétroactif le 1<sup>er</sup> janvier 2020
 
-(État le 1<sup>er</sup> janvier 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein,
 
@@ -36,7 +36,7 @@ pour réglementer la participation de la Principauté de Liechtenstein aux mesur
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^ingress-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 ## Chapitre 1 Dispositions générales
 
@@ -89,9 +89,10 @@ Concernant le déroulement administratif des mesures (procédures), notamment la
 
 <sup>1</sup> En ce qui concerne la participation du Liechtenstein aux mesures mentionnées à l’annexe 1, la loi du 29 avril 1998 sur l’agriculture (LAgr)[^6-1] est applicable selon les indications dans l’appendice.
 
-<sup>2</sup> L’art. 166, al. 2, LAgr n’est par contre pas applicable, pour autant que les autorités liechtensteinoises prennent des mesures équivalentes. Les mesures administratives sont prises par l’Office liechtensteinois de l’environnement en vertu de l’art. 169 LAgr, dans la mesure où la Principauté ne dispose pas de prescriptions équivalentes.
+<sup>2</sup> L’art. 166, al. 2, LAgr n’est par contre pas applicable, pour autant que les autorités liechtensteinoises prennent des mesures équivalentes. Les mesures administratives sont prises par l’Office liechtensteinois[^6-2] de l’environnement en vertu de l’art. 169 LAgr, dans la mesure où la Principauté ne dispose pas de prescriptions équivalentes.
 
-[^6-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^6-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^6-2]: Depuis le 1<sup>er</sup> août 2026: Office des forêts, de la nature et de l’agriculture.
 
 #### Art. 7
 
@@ -235,8 +236,8 @@ Appendice[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par les D des autorités compétentes, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)) et le 1<sup>er</sup> janv. 2025 ([RO 2025 56](https://fedlex.data.admin.ch/eli/oc/2025/56)).
-[^annexu1-lvlu1-1]: Cet appendice n’est pas publié dans le RO. Il peut être consulté sur le site Internet [www.gesetze.li](https://www.gesetze.li): LR-Nr. 0.631.112.3.
+[^t-1]: Mise à jour par les D des autorités compétentes, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 861](https://fedlex.data.admin.ch/eli/oc/2022/861)), le 1<sup>er</sup> janv. 2025 ([RO 2025 56](https://fedlex.data.admin.ch/eli/oc/2025/56)) et le 1<sup>er</sup> janv. 2026 ([RO 2025 874](https://fedlex.data.admin.ch/eli/oc/2025/874)).
+[^annexu1-lvlu1-1]: Cet appendice n’est pas publié dans le RO. Il peut être consulté sur le site Internet [www.gesetze.li](https://www.gesetze.li/): [LGBl-Nr 2025.575](https://www.gesetze.li/chrono/2025575000?search_text=&search_loc=text&lrnr=0.631.112.3&lgblid_von=&lgblid_bis=).
 
 Annexe 1[^t-2]
 
@@ -351,7 +352,7 @@ Les demandes de contributions émanant de requérants liechtensteinois en vue du
 
 Les demandes de contributions émanant de requérants liechtensteinois en vue du versement du supplément pour céréales doivent être déposées auprès de l’Office liechtensteinois de l’environnement, conformément aux délais mentionnés à l’art. 24 de l’ordonnance liechtensteinoise sur les contributions versées dans l’agriculture.
 
-[^annex2-lvl2-1]: Ordonnance de la Suisse sur le soutien du prix du lait du 25 juin 2008; [RS 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
+[^annex2-lvl2-1]: Ordonnance de la Suisse sur le soutien du prix du lait du 25 juin 2008; [RS 916.350.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10749)
 
 ## 3. Versement des contributions aux requérants liechtensteinois
 
@@ -361,4 +362,4 @@ Le versement, le cas échéant, de contributions aux requérants liechtensteinoi
 - – Le versement du supplément pour le lait commercialisé est effectué par l’Office liechtensteinois de l’environnement (par analogie à l’art. 5 OSL).
 - – Le versement du supplément pour les céréales est effectué par l’Office liechtensteinois de l’environnement (de manière analogue à l’art. 11 OCCP[^annex2-lvl3-1]), conformément aux délais figurant à l’art. 26 du règlement liechtensteinois sur la contribution au revenu agricole.
 
-[^annex2-lvl3-1]: Ordonnance de la Suisse sur les contributions à des cultures particulières du 23 octobre 2013; [RS 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
+[^annex2-lvl3-1]: Ordonnance de la Suisse sur les contributions à des cultures particulières du 23 octobre 2013; [RS 910.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10417)
