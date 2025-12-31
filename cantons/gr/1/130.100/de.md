@@ -4,13 +4,12 @@ number: "130.100"
 title: Bürgerrechtsgesetz des Kantons Graubünden
 short: KBüG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2017-06-13
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/130.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3376/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3574/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3376/pdf_file"
 
 (KBüG)
 
-Vom 13.06.2017 (Stand 01.01.2025)
+Vom 13.06.2017 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -255,7 +254,7 @@ beschliesst:
 
 **Bearbeitung von Personendaten**
 
-<sup>1</sup> Die zuständigen kantonalen und kommunalen Behörden sowie die von ihnen beauftragten Stellen können für die Erfüllung ihrer Aufgaben nach diesem Gesetz Daten bearbeiten, einschliesslich der Persönlichkeitsprofile und der besonders geschützten Personendaten über:
+<sup>1</sup> Die zuständigen kantonalen und kommunalen Behörden sowie die von ihnen beauftragten Stellen können für die Erfüllung ihrer Aufgaben nach diesem Gesetz Daten bearbeiten, einschliesslich der Persönlichkeitsprofile und der besonders schützenswerten Personendaten über:
 
 - a) religiöse und weltanschauliche Ansichten;
 - b) politische Tätigkeiten;

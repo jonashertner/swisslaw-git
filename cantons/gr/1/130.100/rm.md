@@ -4,13 +4,12 @@ number: "130.100"
 title: Lescha dal dretg da burgais dal chantun Grischun
 short: LDBchant
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2017-06-13
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/130.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3376/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3574/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3376/pdf_file"
 
 (LDBchant)
 
-dals 13-06-2017 (versiun dals 01-01-2025)
+dals 13-06-2017 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -255,7 +254,7 @@ concluda:
 
 **Elavuraziun da datas persunalas**
 
-<sup>1</sup> Per ademplir lur incumbensas tenor questa lescha pon las autoritads chantunalas e communalas cumpetentas sco er ils posts ch'ellas han incumbensà elavurar datas, inclusiv ils profils da persunalitad e las datas persunalas spezialmain protegidas davart:
+<sup>1</sup> Per ademplir lur incumbensas tenor questa lescha pon las autoritads chantunalas e communalas cumpetentas sco er ils posts ch'ellas han incumbensà elavurar datas, inclusiv profils da la persunalitad e datas persunalas spezialmain sensiblas, davart:
 
 - a) vistas religiusas ed ideologicas;
 - b) activitads politicas;

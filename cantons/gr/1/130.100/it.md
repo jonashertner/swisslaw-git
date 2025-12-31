@@ -4,13 +4,12 @@ number: "130.100"
 title: Legge sulla cittadinanza del Cantone dei Grigioni
 short: LCCit
 language: it
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2017-06-13
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/130.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3376/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3574/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3376/pdf_file"
 
 (LCCit)
 
-del 13.06.2017 (stato 01.01.2025)
+del 13.06.2017 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -255,7 +254,7 @@ decide:
 
 **Trattamento di dati personali**
 
-<sup>1</sup> Per adempiere i compiti conformemente alla presente legge, le competenti autorità cantonali e comunali, nonché gli uffici da essi incaricati, possono trattare dati, compresi profili di personalità e dati personali degni di particolare protezione, concernenti:
+<sup>1</sup> Per adempiere i compiti conformemente alla presente legge, le competenti autorità cantonali e comunali nonché gli uffici da esse incaricati possono trattare dati, compresi profili della personalità e dati personali degni di particolare protezione, concernenti:
 
 - a) opinioni religiose o visioni del mondo;
 - b) attività politiche;
