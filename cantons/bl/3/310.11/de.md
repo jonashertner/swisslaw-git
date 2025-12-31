@@ -4,13 +4,12 @@ number: "310.11"
 title: Finanzhaushaltsverordnung
 short: Vo FHG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-17
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2017-11-14
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310.11"
-pdf: "https://bl.clex.ch/api/de/versions/4124/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4363/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4124/pdf_file"
 
 (Vo FHG)
 
-Vom 14.11.2017 (Stand 01.01.2025)
+Vom 14.11.2017 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -558,7 +557,9 @@ beschliesst:
 - c. den Kantonsbeitrag an das SECO für Arbeitsvermittlung und arbeitsmarktliche Massnahmen;
 - d. die Revier- und Pflegebeiträge gemäss der kantonalen Waldgesetzgebung;
 - e. Kantonsbeiträge, Investitionskredite und Betriebshilfedarlehen in Kompetenz der Investitionshilfekommission gemäss § 4 der Verordnung über die Investitionshilfen in der Landwirtschaft vom 26. Januar 1999[^39-3];
-- f. sämtliche im Rahmen des Vollzugs des Gesetzes über die Erhebung einer Gasttaxe (Gasttaxengesetz) vom 29. November 2012[^39-4] anfallenden Ausgaben.
+- f. sämtliche im Rahmen des Vollzugs des Gesetzes über die Erhebung einer Gasttaxe (Gasttaxengesetz) vom 29. November 2012[^39-4] anfallenden Ausgaben;
+- g. die Kosten zur Förderung der Leistungen im Bereich der praktischen Ausbildung von Pflegenden und die Ausbildungsbeiträge im Rahmen der Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (Vo EG BGFAP) vom 24. September 2024[^39-5];
+- h. sämtliche im Rahmen von § 1<sup>bis</sup> der Verordnung über die Finanzierung von Pflegeleistungen vom 22. Februar 2011[^39-6] anfallenden Ausgaben.
 
 <sup>3</sup> Die Bau- und Umweltschutzdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
@@ -566,7 +567,7 @@ beschliesst:
 - b. die Beiträge für die Verbundabonnemente;
 - c. die FABI-Pauschale;
 - d. die Abgeltung der grenzüberschreitenden öV-Kosten;
-- e. die Rückerstattungen an Gemeinden aufgrund von Entschädigungen von Planungsnachteilen gemäss Gesetz über die Abgeltung von Planungsmehrwerten vom 27. September 2018[^39-5].
+- e. die Rückerstattungen an Gemeinden aufgrund von Entschädigungen von Planungsnachteilen gemäss Gesetz über die Abgeltung von Planungsmehrwerten vom 27. September 2018[^39-7].
 
 <sup>4</sup> Die Sicherheitsdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
@@ -582,14 +583,16 @@ beschliesst:
 - d. die schulischen Aufgaben- und Leistungschecks;
 - e. die Kulturvertragspauschale;
 - f. die bedarfsabhängigen Leistungen der Behinderten- und Jugendhilfe;
-- g. die bedarfsabhängigen Leistungen der Speziellen Förderung an einer Privatschule, der integrativen oder separativen Sonderschulung und der heilpädagogischen Früherziehung gemäss der Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung (Vo SoPä) vom 22. Juni 2021[^39-6].
+- g. die bedarfsabhängigen Leistungen der Speziellen Förderung an einer Privatschule, der integrativen oder separativen Sonderschulung und der heilpädagogischen Früherziehung gemäss der Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung (Vo SoPä) vom 22. Juni 2021[^39-8].
 
 [^39-1]: [SGS 850](https://bl.clex.ch/data/850/de/art31)
 [^39-2]: [SGS 844](https://bl.clex.ch/data/844/de/art14)
 [^39-3]: [SGS 514.11](https://bl.clex.ch/data/514.11/de/art4)
 [^39-4]: [SGS 548](https://bl.clex.ch/data/548/de/art6)
-[^39-5]: [SGS 404](https://bl.clex.ch/data/404/de)
-[^39-6]: [SGS 640.71](https://bl.clex.ch/data/640.71/de)
+[^39-5]: [SGS 915.11](https://bl.clex.ch/data/915.11/de)
+[^39-6]: [SGS 362.14](https://bl.clex.ch/data/362.14/de/art1bis)
+[^39-7]: [SGS 404](https://bl.clex.ch/data/404/de)
+[^39-8]: [SGS 640.71](https://bl.clex.ch/data/640.71/de)
 
 #### § 40
 
