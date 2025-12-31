@@ -1,124 +1,82 @@
 ---
 canton: GR
 number: "350.325"
-title: "Disposiziuns executivas tar l'ordinaziun executiva dal cussegl grond tar la lescha federala davart las materias explosivas dals 25 da mars 1977"
-short: DER tar la lescha davart las materias explosivas
+title: Ordinaziun executiva tar il dretg federal davart las materias explosivas
+short: "Ordinaziun chantunala davart las materias explosivas, OCExpl"
 language: rm
-version: 2011-01-01
-corrected: 2015-06-22
-version_adopted: 2010-12-21
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.325"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2036/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3812/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Disposiziuns executivas tar l'ordinaziun executiva dal cussegl grond tar la lescha federala davart las materias explosivas dals 25 da mars 1977
+# Ordinaziun executiva tar il dretg federal davart las materias explosivas
 
-(DER tar la lescha davart las materias explosivas)
+(Ordinaziun chantunala davart las materias explosivas, OCExpl)
 
-dals 20-12-1982 (versiun dals 01-01-2011)
+dals 16-12-2025 (versiun dals 01-01-2026)
 
-sa basond sin l'art. 13 da l'ordinaziun executiva dal cussegl grond dals 28 da settember 1982 tar la lescha davart las materias explosivas[^ingress-1]
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1]
 
-relaschadas da la regenza ils 20 da december 1982
+relaschada da la Regenza ils 16 da december 2025
 
-[^ingress-1]: DG [350.320](https://www.gr-lex.gr.ch/data/350.320/rm)
-
-## 1. Cumpetenza
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 
 #### Art. 1
 
-**Departament da giustia, segirezza e sanadad**
+**Cumpetenzas 1. Departament da giustia, segirezza e sanadad**
 
-<sup>1</sup> Il departament:
+<sup>1</sup> Il Departament da giustia, segirezza e sanadad conceda las permissiuns per vender materias explosivas ed objects pirotecnics per intents professiunals.
 
-- a) designescha las organisaziuns da l'economia ch'èn adattadas per realisar ils examens per survegnir la legitimaziun da siglientar e regla tals examens, sch'i na stattan a disposiziun naginas organisaziuns correspundentas. El maina ina glista davart talas organisaziuns;
-- b) conceda permissiuns da vendita tenor ils artitgels 17 e 18 da l'ordinaziun davart las materias explosivas[^1-1]. Dumondas ston vegnir inoltradas a la polizia chantunala;
-- c) reparta las permissiuns da vendita ed ils magasins da materias explosivas als suandantas secturs:
-  - 1\. sectur 1: districts: Alvra, Mantogna, Plaun, Oberlandquart, Plessur, Unterlandquart, Rain posteriur = 2 magasins per la vendita da materias explosivas;
-  - 2\. sectur 2: districts: Glogn, Rain anteriur = 1 magasin per la vendita da materias explosivas;
-  - 3\. sectur 3: districts: En, Malögia, Val Müstair = 2 magasins per la vendita da materias explosivas;
-  - 4\. sectur 4: district: Moesa = 1 magasin per la vendita da materias explosivas;
-  - 5\. sectur 5: district: Bernina = 1 magasin per la vendita da materias explosivas;
-- d) decida davart l'utilisaziun da materias explosivas ch'èn vegnidas confiscadas en moda administrativa. El po delegar questa incumbensa a la polizia chantunala.
-
-[^1-1]: CS [941.411](https://db.clex.ch/link/Bund/941.411/rm)
+<sup>2</sup> Dumondas da survegnir ina permissiun da vendita tenor l'alinea 1 èn d'inoltrar a la Polizia chantunala.
 
 #### Art. 2
 
-**Departament da finanzas e vischnancas**
+**2. Departament da finanzas e vischnancas**
 
-<sup>1</sup> Il departament da finanzas e vischnancas fa in'assicuranza da responsabladad per ils magasins chantunals da materias explosivas e d'objects pirotecnics.
+<sup>1</sup> Il Departament da finanzas e vischnancas fa in'assicuranza da responsabladad per ils magasins da materias explosivas e d'objects pirotecnics ch'èn en proprietad dal chantun.
 
 #### Art. 3
 
-**Polizia chantunala**
+**3. Polizia chantunala**
 
-<sup>1</sup> La polizia chantunala:
+<sup>1</sup> La Polizia chantunala exequescha la Lescha federala davart las materias explosivas[^3-1] e l'Ordinaziun davart las materias explosivas[^3-2], uschenavant che questa incumbensa n'è betg vegnida delegada ad in'autra autoritad.
 
-- a) surveglia la producziun, la vendita, la magasinaziun, l'utilisaziun, la segirada e la destrucziun da materias explosivas e d'objects pirotecnics;
-- b) ordinescha las mesiras da segirezza ch'èn necessarias en cas che materias explosivas van a perder, en cas d'accidents ed en cas da smanatschas cun materias explosivas;
-- c) orientescha en cas da basegn il post central federal, sch'ella constatescha materias explosivas betg pli admessas u betg pli utilisablas;
-- d) examinescha, sche la construcziun e sche l'equipament da magasins da materias explosivas correspundan a las prescripziuns;
-- e) sto vegnir clamada sco organ consultativ tar la construcziun e tar la realisaziun d'edifizis e da stabiliments;
-- f) conceda a las consumentas ed als consuments la permissiun per magasinar materias explosivas ed objects pirotecnics, e quai en enclegientscha cun l'uffizi chantunal da polizia da fieu;
-- g) maina tras examens per acquistar la legitimaziun da siglientar, uschenavant ch'i na stattan a disposiziun naginas organisaziuns adattadas or da l'economia;
-- h) conceda attests d'acquist per materias explosivas e per objects pirotecnics. Las dumondas ston vegnir inoltradas a la polizia chantunala;
-- i) sto – en cas da dubi – sa persvader tras agens scleriments che las indicaziuns d'ina petenta u d'in petent per in attest d'acquist sajan crediblas e ch'igl existia la garanzia per in'utilisaziun admissibla e professiunala;
-- j) emetta l'attest da fidaivladad;
-- k) fa las registraturas necessarias;
-- l) revochescha attest d'acquist da materias explosivas e segirescha legitimaziuns da siglientar per mauns dal departament;
-- m) po metter en segirezza materias explosivas che pervegnan en cas che la permissiun scada sco er materias explosivas ch'èn segiradas e conservadas insuffizientamain;
-- n) dat permissiuns excepziunalas per l'utilisaziun da pulvra da sajettar per festivar eveniments istorics u per usits sumegliants, e quai en enclegientscha cun la suprastanza communala. La permissiun sto vegnir refusada, sch'i n'exista nagina garanzia per in'utilisaziun professiunala;
-- o) conceda permissiuns per la vendita da pulvra da sajettar libra tras persunas privatas, cun resalva dal consentiment da l'administraziun federala dal material da guerra.
-
-## 2. Disposiziuns spezialas
+[^3-1]: CS [941.41](https://db.clex.ch/link/Bund/941.41/rm)
+[^3-2]: CS [941.411](https://db.clex.ch/link/Bund/941.411/rm)
 
 #### Art. 4
 
-**Vendita ad uffants**
+**4. Protecziun da las lavurantas e dals lavurants**
 
-<sup>1</sup> La vendita da fieus artifizials da tuttas sorts ad uffants da vegliadetgna prescolara è scumandada.
+<sup>1</sup> L'Institut svizzer d'assicuranza d'accidents surveglia ils manaschis e las interpresas en il sectur da la protecziun da las lavurantas e dals lavurants.
 
-## 3. Taxas
+<sup>2</sup> El collavura cun l'Uffizi da lavur.
 
 #### Art. 5
 
-**…**
+**5. Permissiun per arder objects pirotecnics**
+
+<sup>1</sup> Las autoritads che dattan la permissiun per arder objects pirotecnics, èn inditgadas en la Lescha davart la protecziun cunter incendis[^5-1].
+
+[^5-1]: DG [840.100](https://www.gr-lex.gr.ch/data/840.100/rm)
 
 #### Art. 6
 
-**…**
+**Occurrenzas istoricas ed usits sumegliants**
 
-#### Art. 7
+<sup>1</sup> La Polizia chantunala permetta d'utilisar pulvra da sajettar per festivar occurrenzas istoricas u usits sumegliants, sche:
 
-**…**
+- a) la petenta u il petent è en possess d'in document che cumprova, ch'ella u el è qualifitgà d'utilisar pulvra da sajettar en moda cumpetenta;
+- b) eventuals donns èn cuvrids suffizientamain tras in'assicuranza d'accidents e tras in'assicuranza da responsabladad;
+- c) la vischnanca da staziunament ha permess l'occurrenza istorica u l'usit sumegliant u ha dà ses consentiment a la realisaziun.
 
-#### Art. 8
+<sup>2</sup> Dumondas da survegnir ina permissiun d'utilisar pulvra da sajettar per festivar occurrenzas istoricas u usits sumegliants èn d'inoltrar a la Polizia chantunala almain 30 dis avant la realisaziun.
 
-**Controllas spezialas**
+<sup>3</sup> Pulvra da sajettar betg utilisada sto vegnir returnada al post da vendita.
 
-<sup>1</sup> Sche la purtadra u sch'il purtader da la permissiun ha dà in motiv giustifitgà a controllas spezialas, pon vegnir mess a quint 50 fin 200 francs per questas controllas[^8-1].
-
-[^8-1]: DG [350.000](https://www.gr-lex.gr.ch/data/350.000/rm)
-
-## 4. Procedura
-
-#### Art. 9
-
-**…**
-
-## 5. Disposiziuns finalas
-
-#### Art. 10
-
-**Entrada en vigur**
-
-<sup>1</sup> Questas disposiziuns executivas entran en vigur ensemen cun l'ordinaziun executiva dal cussegl grond tar la lescha federala davart las materias explosivas (OECG tar la lescha federala davart las materias explosivas) dals 25 da mars 1977 e tar l'ordinaziun davart las materias explosivas dals 26 da mars 1980[^10-1].
-
-[^10-1]: vesair DG [350.320](https://www.gr-lex.gr.ch/data/350.320/rm); A tar l'art. 14
-
--
+2025-065
