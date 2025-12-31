@@ -3,18 +3,18 @@ sr: "412.101.221.21"
 title: Verordnung des SBFI über die berufliche Grundbildung der Berufe mit EFZ im Berufsfeld Gebäudetechnikplanung
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/441"
 language: de
-version: 2025-09-04
+version: 2026-01-01
 adopted: 2024-08-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/441/20250904/de/xml/fedlex-data-admin-ch-eli-cc-2024-441-20250904-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/441/20250904/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/441/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2024-441-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/441/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung der Berufe mit EFZ im Berufsfeld Gebäudetechnikplanung
 
-vom 6. August 2024 (Stand am 4. September 2025)
+vom 6. August 2024 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>64619</td><td>Gebäudetechnikplanerin Heizung EFZ / Gebäudetechnikplaner Heizung EFZ</td></tr>
@@ -190,13 +190,14 @@ Die Handlungskompetenzen in den Handlungskompetenzbereichen nach Absatz 1 Buchst
 
 <sup>2</sup> Bei der Anzahl Lektionen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-2].
 
 <sup>4</sup> Unterrichtssprache ist die Landessprache des Schulorts in ihrer Standardform. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulorts und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
 [^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -353,12 +354,13 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>3</td><td>Fachgespräch</td><td>20 %</td></tr>
 </table>
 
-- b. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verord-nung des SBFI vom 27. April 2006[^18-1] über Mindestvorschriften für die Allge-meinbildung in der beruflichen Grundbildung.[^18-2]
+- b. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verord-nung des SBFI vom 9. April 2025[^18-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^18-2].[^18-3]
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
-[^18-2]: Berichtigung vom 4. Sept. 2025 ([AS 2025 542](https://fedlex.data.admin.ch/eli/oc/2025/542)).
+[^18-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-3]: Berichtigung vom 4. Sept. 2025 ([AS 2025 542](https://fedlex.data.admin.ch/eli/oc/2025/542)).
 
 #### Art. 19
 
