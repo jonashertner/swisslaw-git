@@ -3,18 +3,18 @@ sr: "412.101.221.24"
 title: Verordnung des SBFI vom 30. Oktober 2009 über die berufliche Grundbildung Formenpraktikerin/Formenpraktiker mit eidgenössischem Berufstattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/820"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2009-820-20240401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2009-820-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Formenpraktikerin/Formenpraktiker mit eidgenössischem Berufstattest (EBA)
 
-vom 30. Oktober 2009 (Stand am 1. April 2024)
+vom 30. Oktober 2009 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>30906</td><td>Formenpraktikerin EBA/Formenpraktiker EBA Aide-mouleuse AFP/Aide-mouleur AFP Aiuto costruttrice di modelli e stampi CFP/ Aiuto costruttore di modelli e stampi CFP</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:[^ingress-5]
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I 92 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
@@ -88,7 +88,7 @@ Das Kompetenzenprofil setzt sich aus den folgenden Kompetenzen zusammen:
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^4-1]: Fassung gemäss Ziff. II 92 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^4-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^4-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -130,7 +130,7 @@ Der Bildungsplan hat folgenden Inhalt:
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.[^7-4]
 
 [^7-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
-[^7-2]: Der Bildungsplan vom 1. Juni 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z
+[^7-2]: Der Bildungsplan vom 1. Juni 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z.
 [^7-3]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 [^7-4]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
@@ -138,9 +138,10 @@ Der Bildungsplan hat folgenden Inhalt:
 
 **Allgemeinbildung**
 
-Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^8-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^8-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^8-2].
 
-[^8-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^8-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^8-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -257,11 +258,12 @@ In den Qualifikationsverfahren ist nachzuweisen, dass die Kompetenzen nach Artik
 Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie folgt geprüft:
 
 - a. Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 8–12 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
-- b. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^15-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- b. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^15-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^15-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^15-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^15-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^15-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 16
 
