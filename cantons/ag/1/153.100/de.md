@@ -4,13 +4,12 @@ number: "153.100"
 title: Gesetz über die Organisation des Regierungsrates und der kantonalen Verwaltung
 short: Organisationsgesetz
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-12
+version: 2026-01-01
+version_adopted: 2025-06-17
 adopted: 1985-03-26
 in_force: 1986-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3571/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3885/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3571/pdf_file"
 
 (Organisationsgesetz)
 
-Vom 26.03.1985 (Stand 01.07.2024)
+Vom 26.03.1985 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -209,7 +208,9 @@ beschliesst:
 
 **Sitzungen**
 
-<sup>1</sup> Der Regierungsrat tritt periodisch zusammen. Der Landammann kann ihn zu ausserordentlichen Sitzungen einberufen.
+<sup>1</sup> Der Regierungsrat tagt periodisch. Die Frau Landammann beziehungsweise der Landammann kann ihn zu ausserordentlichen Sitzungen einladen.
+
+<sup>2</sup> Die Frau Landammann beziehungsweise der Landammann kann nach Rücksprache mit der Staatsschreiberin beziehungsweise dem Staatsschreiber beschliessen, dass Sitzungen ausnahmsweise virtuell oder hybrid durchgeführt werden.
 
 #### § 16
 
@@ -229,7 +230,7 @@ beschliesst:
 
 **Abstimmungen**
 
-<sup>1</sup> Um gültig verhandeln zu können, müssen wenigstens drei Mitglieder des Regierungsrates anwesend sein.
+<sup>1</sup> Um gültig verhandeln zu können, müssen wenigstens drei Mitglieder des Regierungsrats anwesend sein. Als anwesend gilt, wer an den Sitzungen vor Ort oder virtuell gemäss § 15 Abs. 2 teilnimmt.
 
 <sup>2</sup> Jedes anwesende Mitglied ist zur Stimmabgabe verpflichtet.
 
