@@ -4,13 +4,13 @@ number: "165.1"
 title: Gesetz über das öffentlich-rechtliche Arbeitsverhältnis
 short: "Personalgesetz, PersG"
 language: de
-version: 2023-10-01
-valid_until: 2025-12-31
-version_adopted: 2023-05-31
+version: 2026-01-01
+valid_until: 2026-05-31
+version_adopted: 2024-10-23
 adopted: 1998-06-03
 in_force: 1999-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1178/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1434/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1178/pdf_file"
 
 (Personalgesetz, PersG)
 
-vom 03.06.1998 (Stand 01.10.2023)
+vom 03.06.1998 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -46,7 +46,7 @@ beschliesst:
 <sup>2</sup> Die Stimmberechtigten der Gemeinde können in einem Reglement:
 
 - 1\. Regelungen erlassen, die von den personalrechtlichen Verordnungen des Kantons abweichen; oder
-- 2\. den administrativen Rat ermächtigen, in einem dem fakultativen Referendum unterstehenden Erlass Regelungen zu erlassen, die von den personalrechtlichen Verordnungen des Kantons abweichen.
+- 2\. den administrativen Rat ermächtigen, in einer Verordnung Regelungen zu erlassen, die von den personalrechtlichen Verordnungen des Kantons abweichen.
 
 <sup>3</sup> Beim Vollzug nimmt:
 
