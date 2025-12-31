@@ -4,11 +4,11 @@ title: Ordinanza del 25 maggio 2011 concernente i sottoprodotti di origine anima
 short: OSOAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: it
-version: 2022-06-01
+version: 2026-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2011-372-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220601/it"
 
 (OSOAn)[^t-1]
 
-del 25 maggio 2011 (Stato 1° giugno 2022)
+del 25 maggio 2011 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 10 capoverso 1, 10*a*, 22 e 53 capoverso 1 della legge del 1° luglio 1966[^ingress-1] sulle epizoozie (LFE); visti gli articoli 29 capoverso 1, 32 capoverso 1 e 39 capoverso 1 della legge del 7 ottobre 1983[^ingress-2] sulla protezione dell’ambiente,
+visti gli articoli 10 capoverso 1, 10*a*, 22, 42 capoverso 1 lettera c e 53 capoverso 1 della legge del 1° luglio 1966[^ingress-1] sulle epizoozie; visti gli articoli 29 capoverso 1, 32 capoverso 1 e 39 capoverso 1 della legge del 7 ottobre 1983[^ingress-2] sulla protezione dell’ambiente; visti gli articoli 159*a* e 160 capoversi 1–3 della legge del 29 aprile 1998[^ingress-3] sull’agricoltura,[^ingress-4]
 
 ordina:
 
-[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -60,13 +62,13 @@ Essa non si applica a:
 - f.[^2-2] ...
 - g.
 
-  prodotti del metabolismo, eccettuato se:
+  contenuto dello stomaco e dell’intestino nonché liquame, eccettuato se:[^2-3]
 
   - 1\. provengono da macelli, oppure
   - 2\. sono destinati all’importazione o all’esportazione;
 
 - h. sottoprodotti di origine animale contaminati da radioattività, soggetti alla normativa in materia di radioprotezione;
-- i. sottoprodotti di origine animale menzionati come rifiuti speciali nell’elenco dei rifiuti emanato secondo l’articolo 2 dell’ordinanza del 22 giugno 2005[^2-3] sul traffico di rifiuti.
+- i. sottoprodotti di origine animale menzionati come rifiuti speciali nell’elenco dei rifiuti emanato secondo l’articolo 2 dell’ordinanza del 22 giugno 2005[^2-4] sul traffico di rifiuti.
 
 <sup>2bis</sup>
 
@@ -74,24 +76,25 @@ La presente ordinanza si applica ai resti alimentari che:
 
 - a. provengono da mezzi di trasporto impiegati nel traffico transfrontaliero;
 - b. sono destinati all’alimentazione degli animali;
-- c.[^2-4] sono destinati a essere trasformati in concime o a essere utilizzati in impianti di produzione di biogas o di compostaggio, tranne se provengono da economie domestiche private e se sono miscelati con scarti verdi nel quadro della raccolta pubblica dei rifiuti urbani ed eliminati in impianti nella cui area non vi è nessuna azienda detentrice di animali.[^2-5]
+- c.[^2-5] sono destinati a essere trasformati in concime o a essere utilizzati in impianti di produzione di biogas o di compostaggio, tranne se provengono da economie domestiche private e se sono miscelati con scarti verdi nel quadro della raccolta pubblica dei rifiuti urbani ed eliminati in impianti nella cui area non vi è nessuna azienda detentrice di animali.[^2-6]
 
 <sup>3</sup>
 
-I seguenti sottoprodotti di origine animale sono inoltre soggetti all’ordinanza del 9 maggio 2012[^2-6] sull’impiego confinato:[^2-7]
+I seguenti sottoprodotti di origine animale sono inoltre soggetti all’ordinanza del 9 maggio 2012[^2-7] sull’impiego confinato:[^2-8]
 
 - a. organismi geneticamente modificati o patogeni oggetto di esami di diagnostica medico-microbiologica;
 - b. sottoprodotti derivati da animali geneticamente modificati o trattati con organismi geneticamente modificati o patogeni.
 
 <sup>4</sup> Sono fatte salve le disposizioni particolari concernenti la lotta alle epizoozie nonché l’importazione, il transito e l’esportazione di sottoprodotti di origine animale.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^2-2]: Abrogata dal n. I dell’O del 28 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^2-3]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^2-4]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^2-5]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^2-6]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^2-7]: Nuovo testo giusta l’all. 5 n. 14 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^2-2]: Abrogata dalla cifra I dell’O del 28 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^2-4]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^2-5]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^2-6]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^2-7]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^2-8]: Nuovo testo giusta l’all. 5 n. 14 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 2a
 
@@ -101,9 +104,10 @@ I seguenti sottoprodotti di origine animale sono inoltre soggetti all’ordinanz
 
 <sup>2</sup> I prodotti derivati che hanno raggiunto il punto finale sono enumerati all’allegato 1*a*.
 
-<sup>3</sup> I punti finali non si applicano ai prodotti derivati che vengono utilizzati come concime o alimenti per animali o che vengono successivamente trasformati in tali, ad eccezione degli alimenti per animali da compagnia.
+<sup>3</sup> Non possono raggiungere il punto finale i prodotti derivati che vengono utilizzati come alimenti per animali o concime o successivamente trasformati in tali. Le eccezioni sono elencate nell’allegato 1*a*.[^2a-2]
 
-[^2a-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^2a-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 3
 
@@ -119,13 +123,29 @@ Ai fini della presente ordinanza le espressioni seguenti significano:
 - f.[^3-2] *animali da reddito:* animali tenuti dall’uomo e di cui è ammessa l’utilizzazione per la produzione di derrate alimentari, lana, pellicce, piume, pelame, pelli o altri prodotti derivati da animali, o che vengono impiegati in altro modo a scopi agricoli, nonché equidi;
 - g. *animali da compagnia:* animali tenuti dall’uomo di cui non è ammessa l’utilizzazione per il consumo umano o che non sono destinati a tale scopo;
 - h. *animali acquatici:* pesci della superclasse degli Agnati (Agnatha) e delle classi dei Pesci cartilaginei (Chondrichthyes) e Pesci ossei (Osteichthyes), nonché Molluschi (Mollusca) e Crostacei (Crustacea);
-- h<sup>bis</sup>.[^3-3] *proteine animali trasformate:* prodotto derivato ottenuto da materiale della categoria 3 e adatto alla produzione di alimenti per animali o concime, con deroga per prodotti sanguigni, latte e latticini, colostro e relativi prodotti, fanghi di centrifugazione e di separazione, gelatina, proteine idrolizzate e fosfato bicalcico, uova e prodotti a base di uova, compresi i gusci di uova, fosfato tricalcico e collagene;
-- i.[^3-4] *farina di pesce:* proteine di animali acquatici trasformate;
+- h<sup>bis</sup>.[^3-3]
+
+  *proteine animali trasformate:* prodotto derivato ottenuto da sottoprodotti di origine animale della categoria 3 e adatto alla produzione di alimenti per animali o concime, ad eccezione di:
+
+  - 1\. prodotti sanguigni,
+  - 2\. latte e latticini,
+  - 3\. colostro e relativi prodotti,
+  - 4\. fanghi di centrifugazione e di separazione,
+  - 5\. uova e prodotti a base di uova, compresi i gusci di uova,
+  - 6\. collagene e gelatina,
+  - 7\. proteine idrolizzate,
+  - 8\. fosfato bicalcico e fosfato tricalcico di origine animale;
+
+- i.[^3-4] *farina di pesce:* proteine trasformate di animali acquatici, di altri animali acquatici invertebrati di allevamento e di stelle marine della specie *Asterias rubens*;
 - j. *prodotti sanguigni:* prodotti derivati dal sangue o da componenti del sangue, come plasma secco, congelato o liquido, sangue intero secco, globuli rossi essiccati, congelati o liquidi, o miscele di tali prodotti;
 - k. *proteine idrolizzate:* polipeptidi, peptidi e aminoacidi, e loro miscele, ottenuti per idrolisi di sottoprodotti di origine animale;
 - l. *collagene:* prodotti a base di proteine ottenuti da ossa, pelli, pelame, tendini e legamenti di animali;
 - m. *gelatina*: proteina naturale e solubile, gelificata o non, ottenuta per idrolisi parziale del collagene;
-- n*.* *prodotti del metabolismo:* urina nonché contenuto del rumine, dello stomaco e dell’intestino;
+- m<sup>bis</sup>.[^3-5] *riciclaggio canalizzato:* riciclaggio di sottoprodotti di origine animale negli alimenti per animali da reddito, con cui si evita che gli animali da reddito ingeriscano sottoprodotti di origine animale che non possono essere somministrati alla rispettiva specie animale;
+- m<sup>ter</sup>.[^3-6] *alimenti per animali da compagnia:* alimenti e articoli da masticare di origine animale per animali da compagnia;
+- n.[^3-7] *contenuto dello stomaco e dell’intestino:* contenuto del rumine, dello stomaco e dell’intestino di mammiferi e ratiti;
+- n<sup>bis</sup>.[^3-8] *liquame:* escrementi e urina, con o senza lettiera, di animali da reddito diversi dagli animali acquatici in aziende di acquacoltura;
+- n<sup>ter</sup>.[^3-9] *frass:* miscela di escrementi di insetti d’allevamento, substrato alimentare, parti di insetti d’allevamento e uova morte, in cui la percentuale di insetti d’allevamento non supera il 5 per cento del volume o il 3 per cento del peso;
 - o. *materiali solidi:* sottoprodotti di origine animale separati dalle acque reflue di un’azienda del settore alimentare o di uno stabilimento di eliminazione mediante grigliatura o pre-depurazione (flottazione o dispositivo di filtraggio);
 - p*.* *resti alimentari*: rifiuti di cucina e ristorazione provenienti da installazioni in cui si producono derrate alimentari con costituenti di origine animale per il consumo immediato, come nuclei familiari, ristoranti, imprese di catering e cucine, incluse le cucine centralizzate e le cucine domestiche;
 - q. *prodotti apicoli*: miele, cera di api, pappa reale, propoli e polline;
@@ -134,10 +154,15 @@ Ai fini della presente ordinanza le espressioni seguenti significano:
 - t*.* *impianto di produzione di biogas:* impianto adibito alla degradazione biologica di sottoprodotti di origine animale in condizioni anaerobiche;
 - u*.* *impianto di compostaggio*: impianto ad uso professionale adibito alla degradazione biologica di sottoprodotti di origine animale in condizioni aerobiche.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^3-3]: Introdotta dal n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^3-3]: Introdotta dalla cifra I dell’O del 25 apr. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-5]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-6]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-7]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-8]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-9]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ## Capitolo 2: Sottoprodotti di origine animale
 
@@ -162,17 +187,18 @@ I sottoprodotti di origine animale della categoria 1 sono:
   - 2\.[^5-1] da cui il materiale a rischio specificato ai sensi degli articoli 179*d* capoversi 1 e 1<sup>bis</sup> e 180*c* dell’ordinanza del 27 giugno 1995[^5-2] sulle epizoozie (OFE) non è stato asportato;
 
 - c.[^5-3] materiale a rischio specificato ai sensi degli articoli 179*d* capoversi 1 e 1<sup>bis</sup> e 180*c* OFE;
-- d. sottoprodotti derivati da animali a cui sono stati somministrati sostanze o preparati contemplati dall’allegato 4 dell’ordinanza del 18 agosto 2004[^5-4] sui medicamenti veterinari;
-- e.[^5-5] animali selvatici morti o parti di essi, che presentano segni di una malattia trasmissibile all’uomo o agli animali;
-- f.[^5-6] materiali solidi provenienti dalle acque reflue di macelli per bovini, ovini e caprini e da stabilimenti di sezionamento in cui viene asportato materiale a rischio specificato ai sensi dell’articolo 179*d* capoverso 1 o 1<sup>bis</sup> oppure 180*c* OFE;
+- d.[^5-4] sottoprodotti derivati da animali a cui sono stati somministrati sostanze o preparati contemplati dall’articolo 10*c* dell’ordinanza del 18 agosto 2004[^5-5] sui medicamenti veterinari (OMVet);
+- e.[^5-6] animali selvatici morti o parti di essi, che presentano segni di una malattia trasmissibile all’uomo o agli animali;
+- f.[^5-7] materiali solidi provenienti dalle acque reflue di macelli per bovini, ovini e caprini e da stabilimenti di sezionamento in cui viene asportato materiale a rischio specificato ai sensi dell’articolo 179*d* capoverso 1 o 1<sup>bis</sup> oppure 180*c* OFE;
 - g. resti alimentari provenienti da mezzi di trasporto impiegati nel traffico transfrontaliero.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^5-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^5-3]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^5-4]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^5-5]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^5-6]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^5-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^5-5]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^5-6]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^5-7]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 6
 
@@ -182,15 +208,19 @@ I sottoprodotti di origine animale della categoria 2 sono:
 
 - a. carcasse o parti di esse non appartenenti alla categoria 1, dichiarate non commestibili dal controllo delle carni e che presentano segni di una malattia trasmissibile all’uomo o agli animali;
 - b.[^6-1] corpi di pollame che per ragioni commerciali o nell’ambito della lotta alla salmonella è stato ucciso invece di essere macellato;
-- c. prodotti del metabolismo;
-- d.[^6-2] ...
+- c.[^6-2] contenuto dello stomaco e dell’intestino;
+- d.[^6-3] ...
 - e. prodotti di origine animale non commestibili a causa della presenza di impurità;
-- f. sottoprodotti di origine animale con residui in concentrazioni maggiori dei valori limite secondo l’ordinanza del 26 giugno 1995[^6-3] sulle sostanze estranee e sui componenti, o esclusi dalla catena alimentare a causa della positività di un test di rilevamento di sostanze inibitrici;
-- g. materiali solidi provenienti da macelli diversi da quelli menzionati all’articolo 5 lettera f.
+- f.[^6-4] sottoprodotti di origine animale con residui in concentrazioni superiori ai valori massimi stabiliti dal Dipartimento federale dell’interno (DFI) in applicazione dell’articolo 10 capoverso 4 lettera e dell’ordinanza del 16 dicembre 2016[^6-5] sulle derrate alimentari e gli oggetti d’uso (ODerr), o esclusi dalla catena alimentare a causa della positività di un test di rilevamento di sostanze inibitrici;
+- g. materiali solidi provenienti da macelli diversi da quelli menzionati all’articolo 5 lettera f;
+- h.[^6-6] liquame e frass.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^6-2]: Abrogata dal n. I dell’O del 25 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^6-3]: [[RU 1995 2893](https://fedlex.data.admin.ch/eli/oc/1995/2893_2893_2893), [2002 955](https://fedlex.data.admin.ch/eli/oc/2002/172), [2005 5749](https://fedlex.data.admin.ch/eli/oc/2005/793), [2008 793](https://fedlex.data.admin.ch/eli/oc/2008/196), [4475](https://fedlex.data.admin.ch/eli/oc/2008/623), [6027](https://fedlex.data.admin.ch/eli/oc/2008/834), [2009 4741](https://fedlex.data.admin.ch/eli/oc/2009/557), [2011 1985](https://fedlex.data.admin.ch/eli/oc/2011/291), [2012 2147](https://fedlex.data.admin.ch/eli/oc/2012/278), [2013 4715](https://fedlex.data.admin.ch/eli/oc/2013/833), [2015 3219](https://fedlex.data.admin.ch/eli/oc/2015/600). [RU 2017 793](https://fedlex.data.admin.ch/eli/oc/2017/151)art. 12]. Vedi ora: l’O del 16 dic. 2016 concernente i livelli massimi per i residui di antiparassitari nei o sui prodotti di origine vegetale e animale ([RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)), l’O del 16 dic. 2016 sui contaminanti ([RS 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)) e l’O del DFI del 16 dic. 2016 concernente i limiti massimi per i residui di sostanze farmacologicamente attive e di additivi per alimenti per animali nelle derrate alimentari di origine animale ([RS 817.022.13](https://fedlex.data.admin.ch/eli/cc/2017/154)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^6-3]: Abrogata dalla cifra I dell’O del 25 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^6-5]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^6-6]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 7
 
@@ -212,10 +242,10 @@ Salvo che appartengano alla categoria 1 o 2, i sottoprodotti di origine animale 
 - f.[^7-4] derrate alimentari e alimenti per animali che contengono prodotti di origine animale e che per ragioni commerciali o a causa di piccoli difetti non sono più destinati o adatti al consumo umano o animale, ma che non rappresentano un pericolo per la salute pubblica e animale;
 - g. resti alimentari diversi da quelli menzionati all’articolo 5 lettera g.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^7-3]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^7-4]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^7-3]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 
 #### Art. 8
 
@@ -229,7 +259,7 @@ Salvo che appartengano alla categoria 1 o 2, i sottoprodotti di origine animale 
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^chap3-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 ### Sezione 1: Principi, obbligo di notifica e autorizzazione, controllo autonomo
 
@@ -245,9 +275,9 @@ Chi commercia sottoprodotti di origine animale o li elimina deve provvedere affi
 - d. recipienti, locali, veicoli e utensili siano sufficientemente capienti e confacenti allo scopo, e vengano puliti regolarmente;
 - e.[^9-3] i flussi di merci siano documentati in maniera comprensibile.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^9-3]: Introdotta dal n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^9-3]: Introdotta dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 10
 
@@ -267,31 +297,35 @@ La notifica deve contenere le seguenti informazioni:
 
 Non sussiste alcun obbligo di notifica per:
 
-- a. l’eliminazione di prodotti del metabolismo se non sono importati o esportati per questo motivo;
+- a.[^10-2] l’eliminazione del contenuto dello stomaco e dell’intestino nonché del liquame se non sono importati o esportati per questo motivo;
 - b. il sotterramento di animali di piccola taglia in terreno privato (art. 25 cpv. 1 lett. d);
 - c. il trasporto a titolo non professionale di sottoprodotti di origine animale al centro di raccolta;
 - d. la raccolta e l’immagazzinamento intermedio di sottoprodotti di origine animale prodotti dalla propria azienda alimentare;
 - e. la raccolta e l’immagazzinamento intermedio di resti alimentari nel luogo in cui sono prodotti;
-- f. la consegna e l’acquisto di sottoprodotti di origine animale per l’utilizzo ai sensi dell’articolo 34;
+- f.[^10-3] la consegna e l’acquisto di sottoprodotti di origine animale per l’utilizzo ai sensi dell’articolo 33*a*;
+- f<sup>bis</sup>.[^10-4] la somministrazione di corpi di animali nella propria azienda detentrice di animali ai sensi dell’articolo 33*b*;
 - g. l’utilizzo di sottoprodotti di origine animale delle categorie 2 e 3 per attività artistiche o a fini diagnostici, didattici e di ricerca, se i sottoprodotti di origine animale non sono importati o esportati per questo motivo.
 
 <sup>4</sup> Le persone fisiche e giuridiche soggette a notifica devono notificare al veterinario cantonale cambiamenti di nome, ambiti di attività nuovi o cambiati, la cessazione di un’attività nonché ristrutturazioni degli impianti e degli stabilimenti che possano influire sulla sicurezza sanitaria o dei prodotti.
 
 <sup>5</sup> Il veterinario cantonale registra le persone fisiche e giuridiche soggette a notifica nonché la dicitura da loro notificata degli impianti e degli stabilimenti di cui al capoverso 2 lettera a.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^10-4]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 11
 
 **Obbligo di autorizzazione**
 
-<sup>1</sup> Gli impianti e gli stabilimenti di cui all’allegato 1*b* necessitano di un’autorizzazione rilasciata dal veterinario cantonale.[^11-1]
+<sup>1</sup> Gli impianti e gli stabilimenti di cui all’allegato 1*b* numero 1 necessitano di un’autorizzazione rilasciata dal veterinario cantonale.[^11-1]
 
 <sup>2</sup> L’autorizzazione viene rilasciata se i requisiti costruttivi e gestionali determinanti per l’attività in questione secondo la presente ordinanza sono soddisfatti. Il rilascio dell’autorizzazione deve essere preceduto da un’ispezione sul posto.
 
 <sup>3</sup> Sono fatte salve ulteriori autorizzazioni o procedure di verifica previste dal diritto federale.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 12
 
@@ -307,9 +341,9 @@ Non sussiste alcun obbligo di notifica per:
 
 <sup>5</sup> L’autorizzazione d’esercizio è rinnovata su richiesta, qualora dalla verifica risulti che i requisiti costruttivi e gestionali sono soddisfatti.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 13
 
@@ -317,41 +351,49 @@ Non sussiste alcun obbligo di notifica per:
 
 <sup>1</sup>
 
-Il veterinario cantonale inserisce i seguenti dati nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione di cui all’ordinanza del 27 aprile 2022[^13-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare:[^13-3]
+Il veterinario cantonale inserisce i seguenti dati nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione ai sensi dell’ordinanza del 27 aprile 2022[^13-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O‑SIFA):[^13-3]
 
 - a. per ogni persona fisica o giuridica registrata: il numero di registrazione, il nome e l’indirizzo, le sue attività, comprese le categorie dei sottoprodotti di origine animale interessati nonché la dicitura degli impianti e degli stabilimenti da lei notificata;
 - b. per ogni impianto e stabilimento autorizzato: il numero di autorizzazione, il nome e l’indirizzo dell’impianto o dello stabilimento nonché le attività che vi si svolgono, comprese le categorie dei sottoprodotti di origine animale interessati.
 
 <sup>2</sup> L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) può emanare prescrizioni tecniche sul tipo e il formato delle voci di cui al capoverso 1.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^13-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^13-3]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^13-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 13a
+
+**Elenchi delle registrazioni e delle autorizzazioni**[^13a-1]
+
+L’USAV tiene e pubblica elenchi delle persone fisiche e giuridiche registrate nonché degli impianti e degli stabilimenti autorizzati.
+
+[^13a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 14
 
 **Revoca dell’autorizzazione e divieto di commercio o di eliminazione[^14-1]**
 
-Se nel quadro dei controlli ufficiali vengono accertate inadempienze gravi, il veterinario cantonale può sospendere o revocare l’autorizzazione e vietare temporaneamente o definitivamente alle persone fisiche e giuridiche registrate il commercio dei sottoprodotti di origine animale o la loro eliminazione. Il veterinario cantonale valuta soprattutto:[^14-2]
+Se nel quadro dei controlli ufficiali vengono accertate inadempienze gravi o si constata che provvedimenti ordinati sono rimasti senza effetto, il veterinario cantonale può sospendere o revocare l’autorizzazione e vietare temporaneamente o definitivamente alle persone fisiche o giuridiche registrate il commercio dei sottoprodotti di origine animale o la loro eliminazione. Il veterinario cantonale valuta soprattutto:[^14-2]
 
 - a. la natura e la gravità delle inadempienze in relazione ai pericoli per la salute pubblica e animale;
 - b. la possibilità di rimuovere le inadempienze entro un termine ragionevole.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 15
 
 **Controllo autonomo**
 
-<sup>1</sup> Le persone fisiche e giuridiche registrate devono redigere, documentare e attuare permanentemente una procedura di controllo che garantisca il rispetto delle disposizioni della presente ordinanza. Per gli impianti e gli stabilimenti di cui all’allegato 1*b* numeri 1, 4 e 5 è necessario redigere, documentare e attuare la procedura di controllo conforme ai principi del controllo autonomo di cui all’allegato 2.[^15-1]
+<sup>1</sup> Le persone fisiche e giuridiche registrate devono elaborare, documentare e applicare permanentemente una procedura di controllo che garantisca il rispetto delle disposizioni della presente ordinanza. Per gli impianti e gli stabilimenti autorizzati di cui all’allegato 1*b* numeri 11, 14 e 15 è necessario elaborare, documentare e applicare la procedura di controllo conforme ai principi del controllo autonomo di cui all’allegato 2.[^15-1]
 
 <sup>2</sup> I competenti organi di controllo di Confederazione e Cantoni hanno sempre accesso alla documentazione. I documenti devono essere conservati per tre anni.
 
 <sup>3</sup> Se i risultati dei controlli non sono conformi alle prescrizioni si devono attuare immediatamente i provvedimenti necessari. In casi gravi, come la fornitura di sottoprodotti di origine animale di una categoria per la quale l’impianto o l’azienda in questione non hanno l’autorizzazione, oppure di errori nel processo di sterilizzazione, è necessario informare il veterinario ufficiale.[^15-2]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 ### Sezione 2: Impianti
 
@@ -369,21 +411,41 @@ Se nel quadro dei controlli ufficiali vengono accertate inadempienze gravi, il v
 
 <sup>5</sup> Il veterinario cantonale può autorizzare deroghe ai requisiti di cui all’allegato 3 se viene dimostrato l’adempimento dei principi di cui all’articolo 9. In particolare deve essere garantita la separazione tra le fasi di lavorazione «sporche» e quelle «pulite» e deve essere esclusa una contaminazione dei sottoprodotti di origine animale trasformati.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 17
 
 **Notifica della quantità eliminata**[^17-1]
 
-Le persone fisiche e giuridiche registrate devono notificare al veterinario cantonale la quantità totale di sottoprodotti di origine animale eliminati in un anno nei loro impianti. La notifica deve avvenire entro il 31 gennaio dell’anno successivo, specificando le categorie merceologiche.
+<sup>1</sup> Le persone fisiche e giuridiche registrate devono notificare al veterinario cantonale la quantità totale di sottoprodotti di origine animale eliminati in un anno nei loro impianti.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+<sup>2</sup>
+
+È esente dall’obbligo di notifica l’eliminazione:
+
+- a.
+
+  dei sottoprodotti di origine animale seguenti:
+
+  - 1\. pelli e pelame,
+  - 2\. contenuto dello stomaco e dell’intestino, liquame e frass,
+  - 3\. resti alimentari,
+  - 4\. prodotti secondo l’articolo 7 lettera d,
+  - 5\. prodotti derivati immagazzinabili a temperatura ambiente;
+
+- b. di una quantità totale inferiore a 1000 kg all’anno.
+
+<sup>3</sup> Il veterinario cantonale può disporre la notifica della quantità eliminata al di fuori dell’obbligo di notifica.
+
+<sup>4</sup> La notifica deve avvenire specificando le categorie merceologiche. Deve essere effettuata entro il 31 gennaio dell’anno successivo.
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 18
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. I dell’O del 28 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^18-1]: Abrogato dalla cifra I dell’O del 28 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 
 ### Sezione 3: Trasporto
 
@@ -395,15 +457,15 @@ Le persone fisiche e giuridiche registrate devono notificare al veterinario cant
 
 <sup>2</sup> I requisiti relativi a raccolta, immagazzinamento intermedio e trasporto di sottoprodotti di origine animale nonché ai centri di raccolta sono definiti all’allegato 4. Per i resti alimentari della categoria 3 valgono unicamente i requisiti relativi a veicoli e recipienti di cui all’allegato 4 numeri 21–24.[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 
 #### Art. 20
 
 **Identificazione e schede d’accompagnamento**
 
-<sup>1</sup> I sottoprodotti di origine animale devono essere contrassegnati in modo da evidenziare la categoria a cui appartengono, salvo se si tratta di attività non soggette a notifica (art. 10 cpv. 3).[^20-1]
+<sup>1</sup> I sottoprodotti di origine animale devono essere contrassegnati in modo da evidenziare la categoria a cui appartengono, salvo se si tratta di attività non soggette a notifica secondo l’articolo 10 capoverso 3 lettere a–c ed e–g.[^20-1]
 
-<sup>2</sup> Durante il trasporto ai sottoprodotti di origine animale deve essere acclusa una scheda d’accompagnamento o una decisione del controllo delle carni conformemente all’allegato 4 numero 3. Sono eccettuati i trasporti per attività non soggette a notifica (art. 10 cpv. 3) nonché i trasporti di resti alimentari.[^20-2]
+<sup>2</sup> Durante il trasporto, ai sottoprodotti di origine animale deve essere acclusa una scheda d’accompagnamento o una decisione del controllo delle carni conformemente all’allegato 4 numero 3. Sono eccettuati i trasporti per attività non soggette a notifica secondo l’articolo 10 capoverso 3 lettere a–c ed e–g nonché i trasporti di resti alimentari.[^20-2]
 
 <sup>3</sup>
 
@@ -419,8 +481,8 @@ Per i prodotti derivati valgono i requisiti di cui ai capoversi 1 e 2:
 
 <sup>6</sup> I requisiti relativi a identificazione e schede d’accompagnamento figurano all’allegato 4 numeri 1 e 3.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ### Sezione 4: Tipi di eliminazione ammessi
 
@@ -434,7 +496,7 @@ Per i prodotti derivati valgono i requisiti di cui ai capoversi 1 e 2:
 
 <sup>3</sup> ...[^21-1]
 
-[^21-1]: Abrogato dal n. I dell’O del 25 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^21-1]: Abrogato dalla cifra I dell’O del 25 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 22
 
@@ -459,16 +521,16 @@ Corpi di animali e parti di essi possono essere utilizzati per l’alimentazione
 - a.[^22-2] ruminanti di età superiore a 12 mesi;
 - b. animali geneticamente modificati;
 - c. animali da compagnia;
-- d.[^22-3] animali a cui sono stati somministrati sostanze o preparati di cui all’allegato 4 dell’ordinanza del 18 agosto 2004[^22-4] sui medicamenti veterinari oppure nei quali sono stati riscontrati limiti massimi per i residui di cui alle disposizioni emanate dal Dipartimento federale dellʼinterno in virtù dell’articolo 10 capoverso 4 lettera e dell’ordinanza del 16 dicembre 2016[^22-5] sulle derrate alimentari e gli oggetti d’uso;
+- d.[^22-3] animali a cui sono stati somministrati sostanze o preparati di cui all’articolo 10*c* OMVet[^22-4] oppure nei quali è stato riscontrato un superamento dei limiti massimi per i residui stabiliti dal DFI in applicazione dell’articolo 10 capoverso 4 lettera e ODerr[^22-5];
 - e. animali che potrebbero essere contaminati da radioattività.
 
 <sup>3</sup> Se non sussiste un pericolo per la salute pubblica e animale, il veterinario ufficiale può autorizzare l’uso di sottoprodotti di origine animale della categoria 1 per attività artistiche o a fini diagnostici, didattici e di ricerca nonché a fini tassidermici o per la produzione di trofei.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^22-3]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^22-4]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^22-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^22-4]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^22-5]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 23
 
@@ -484,14 +546,17 @@ I sottoprodotti di origine animale della categoria 2 vanno eliminati:
   mediante sterilizzazione a pressione, conformemente all’allegato 5, e successivo riciclaggio:
 
   - 1\. in un impianto di produzione di biogas o di compostaggio,
-  - 2\. del grasso fuso nella fabbricazione di concimi organici o di altri prodotti tecnici, eccettuati i prodotti farmaceutici, cosmetici o medici,
-  - 3\. dei materiali proteici e ossei nella fabbricazione di concimi organici.
+  - 2\.[^23-1] del grasso fuso nella fabbricazione di concimi o di altri prodotti tecnici, eccettuati i prodotti farmaceutici, cosmetici o medici,
+  - 3\.[^23-2] delle farine di carne e di ossa nella fabbricazione di concimi.
 
-<sup>2</sup> I prodotti del metabolismo possono essere riciclati direttamente in un impianto di produzione di biogas o in un impianto di compostaggio oppure nella fabbricazione di prodotti tecnici. Quantità minime di tali prodotti possono essere compostate anche presso l’azienda di provenienza dell’animale macellato.
+<sup>2</sup> Il contenuto dello stomaco e dell’intestino nonché il liquame possono essere riciclati direttamente in un impianto di produzione di biogas o in un impianto di compostaggio oppure essere utilizzati nella fabbricazione di prodotti tecnici. Quantità minime di tali prodotti possono essere compostate anche presso l’azienda di provenienza dell’animale macellato.[^23-3]
 
-<sup>3</sup> I sottoprodotti di origine animale con residui o risultati positivi ad un test di rilevamento di sostanze inibitrici secondo l’articolo 6 lettera f possono essere eliminati anche in una stazione di depurazione delle acque di scarico pubblica oppure, se si tratta di latte o colostro, fatti defluire in un pozzetto per la raccolta del colaticcio. Se non sono possibili altre modalità di eliminazione, il veterinario cantonale può permettere che il latte o il colostro dopo essere stato diluito almeno con un fattore di diluizione 4 venga spanto direttamente su superfici agricole, se ciò non comporta un rischio eccessivo per la salute pubblica e animale.[^23-1]
+<sup>3</sup> I sottoprodotti di origine animale con residui o risultati positivi ad un test di rilevamento di sostanze inibitrici secondo l’articolo 6 lettera f possono essere eliminati anche in una stazione di depurazione delle acque di scarico pubblica oppure, se si tratta di latte o colostro, fatti defluire in un pozzetto per la raccolta del colaticcio. Se non sono possibili altre modalità di eliminazione, il veterinario cantonale può permettere che il latte o il colostro dopo essere stato diluito almeno con un fattore di diluizione 4 venga spanto direttamente su superfici agricole, se ciò non comporta un rischio eccessivo per la salute pubblica e animale.[^23-4]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^23-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^23-4]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 
 #### Art. 24
 
@@ -507,8 +572,8 @@ I sottoprodotti di origine animale della categoria 3 vanno eliminati:
 
 <sup>2</sup> Il veterinario cantonale, d’intesa con l’autorità cantonale preposta alla sorveglianza della pesca e quella preposta alla protezione delle acque, può permettere che i sottoprodotti di animali acquatici derivati dall’eviscerazione effettuata a bordo delle barche utilizzate per la pesca in Svizzera o subito dopo l’approdo vengano eliminati nelle acque di provenienza.[^24-2]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 
 #### Art. 25
 
@@ -526,7 +591,30 @@ Possono essere sotterrati:
 
 <sup>2</sup> I requisiti relativi ai luoghi previsti per il sotterramento di corpi di animali ai sensi del capoverso 1 lettere b, c ed e, nonché le misure di sicurezza da osservare al momento del sotterramento in questi luoghi, sono definiti all’allegato 7.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+
+#### Art. 25a
+
+**Cremazione di animali**[^25a-1]
+
+<sup>1</sup>
+
+Nei crematori per animali è consentita la cremazione di:
+
+- a. animali da compagnia ed equidi;
+- b.
+
+  altri animali provenienti da aziende detentrici di animali in Svizzera, se il veterinario dell’effettivo conferma previamente per scritto al crematorio per animali:
+
+  - 1\. la causa della morte,
+  - 2\. l’assenza di segni di epizoozia.
+
+<sup>2</sup> Gli animali che presentano segni di epizoozia o sono soggetti a provvedimenti di sequestro ai sensi degli articoli 66–71 OFE[^25a-2] non possono essere cremati.
+
+<sup>3</sup> I crematori per animali devono tenere un registro sulla provenienza, la specie e il numero di animali cremati.
+
+[^25a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^25a-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 26
 
@@ -534,23 +622,27 @@ Possono essere sotterrati:
 
 L’eliminazione o il riciclaggio dei residui provenienti da impianti di incenerimento, di biogas e di compostaggio è disciplinata dalla normativa in materia di protezione dell’ambiente e dalla normativa in materia di agricoltura, in particolare dall’ordinanza del 4 dicembre 2015[^26-1] sui rifiuti (OPSR)[^26-2], dall’ordinanza del 22 giugno 2005[^26-3] sul traffico di rifiuti, dall’ordinanza del 18 maggio 2005[^26-4] sulla riduzione dei rischi inerenti ai prodotti chimici e dall’ordinanza del 10 gennaio 2001[^26-5] sui concimi.
 
-[^26-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
-[^26-2]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^26-3]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^26-4]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^26-5]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^26-1]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
+[^26-2]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^26-3]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^26-4]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^26-5]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 
-## Capitolo 4: Utilizzo di sottoprodotti di origine animale per l’alimentazione di animali e per la fabbricazione di concime e di prodotti tecnici
+## Capitolo 4: Utilizzo di sottoprodotti di origine animale per l’alimentazione di animali nonché per la fabbricazione e l’utilizzo di concime e di prodotti tecnici
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^chap4-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-### Sezione 1: Divieti e deroghe
+### Sezione 1: Divieti di somministrazione
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 27
 
-**Divieti**
+**...[^27-1]**
 
 <sup>1</sup> Gli animali non possono essere alimentati con proteine derivate da animali della loro stessa specie. Fanno eccezione gli animali acquatici.
 
@@ -563,90 +655,130 @@ Gli animali da reddito non possono essere alimentati con:
 - a. resti alimentari;
 - b. proteine animali;
 - c. fosfato bicalcico e fosfato tricalcico di origine animale;
-- d. alimenti per animali in cui sono presenti costituenti di cui alle lettere a–c.
+- d. alimenti per animali in cui sono presenti costituenti di cui alle lettere a–c;
+- e.[^27-2] foraggi verdi provenienti da terreni sui quali sono stati applicati concimi contenenti sottoprodotti di origine animale diversi dal contenuto dello stomaco e dell’intestino, dal liquame o dai sottoprodotti di origine animale di cui all’articolo 28 capoverso 1, a meno che il taglio dell’erba o il pascolo abbiano luogo dopo un periodo di attesa di almeno 21 giorni.
 
-<sup>4</sup> Per l’attuazione dei capoversi 1–3, d’intesa con l’Ufficio federale dell’agricoltura l’USAV può stabilire in un’ordinanza metodi tecnici e valori soglia nonché criteri per impedire contaminazioni incrociate fra gli alimenti per animali per diverse specie.[^27-1]
+<sup>4</sup> Per l’attuazione dei capoversi 1–3, d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca, il DFI può stabilire metodi e valori soglia.[^27-3]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^27-1]: Abrogata dalla cifra I dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^27-2]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^27-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+### Sezione 1*a*: Deroghe generali al divieto di utilizzo di sottoprodotti di origine animale per l’alimentazione degli animali da reddito
+
+[^chap4-sec1a-1]
+
+[^chap4-sec1a-1]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 28
 
-**Deroghe**
-
-In deroga all’articolo 27 gli animali possono essere alimentati con:
-
-- a.[^28-1] latte e latticini, colostro, fanghi di centrifugazione e di separazione provenienti dalla trasformazione del latte secondo l’allegato 5 numero 31a, uova e prodotti a base di uova;
-- b.[^28-2] collagene e gelatina di non ruminanti;
-- c. proteine idrolizzate di non ruminanti o ottenute da pelli e pelami di ruminanti;
-- d.[^28-3] grassi fusi da sottoprodotti di origine animale della categoria 3 di cui all’articolo 7 lettere a e d–f dopo una trasformazione secondo l’allegato 5 numero 31
-
-[^28-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^28-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^28-3]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-
-### Sezione 2: Alimentazione degli animali da reddito
-
-#### Art. 29
-
-**Somministrazione di farina di pesce ai non ruminanti e ai vitelli**[^29-1]
-
-In deroga all’articolo 27 capoverso 3, la farina di pesce può entrare nella composizione di alimenti per non ruminanti e di prodotti in polvere sostitutivi del latte per vitelli, se:
-
-- a. è prodotta secondo l’allegato 5 numero 30 ed è dimostrato l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38;
-- b. quale costituente di alimenti per non ruminanti a ogni livello della filiera (dalla produzione fino al momento della somministrazione) è raccolta, immagazzinata, trasformata e trasportata in installazioni e impianti non utilizzati per produrre alimenti per ruminanti;
-- c. quale costituente di prodotti in polvere sostitutivi del latte per vitelli a ogni livello della filiera (dalla produzione fino al momento della somministrazione) è raccolta, immagazzinata, trasformata e trasportata in installazioni e impianti non utilizzati per produrre alimenti per bovini adulti e altre specie animali;
-- d. lo stabilimento di produzione di alimenti per animali è notificato al controllo ufficiale degli alimenti per animali Agroscope;
-- e. lo stabilimento di produzione tiene un registro sull’utilizzo della farina di pesce; e
-- f. con deroga per i prodotti in polvere sostitutivi del latte per vitelli, gli alimenti per animali sono immagazzinati e somministrati soltanto in aziende in cui non sono tenuti ruminanti.
-
-[^29-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-
-#### Art. 30
-
-**Somministrazione di prodotti sanguigni ai non ruminanti e agli animali acquatici**[^30-1]
-
-In deroga all’articolo 27, i prodotti sanguigni possono entrare nella composizione di alimenti per non ruminanti e animali acquatici, se:
-
-- a. non provengono da ruminanti;
-- b. provengono da macelli in cui non sono macellati ruminanti o in cui la macellazione dei ruminanti viene effettuata in locali separati;
-- c. provengono da animali ammessi alla macellazione sulla base di un controllo ufficiale degli animali da macello;
-- d. sono prodotti secondo l’allegato 5 numero 30*a* e si dimostra l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38;
-- e. a ogni livello della filiera (dalla produzione fino al momento della somministrazione) sono raccolti, immagazzinati, trasformati e trasportati in installazioni e impianti non utilizzati per produrre alimenti per ruminanti;
-- f. lo stabilimento di produzione di alimenti per animali è notificato al controllo ufficiale degli alimenti per animali Agroscope;
-- g. lo stabilimento di produzione tiene un registro sull’utilizzo dei prodotti sanguigni; e
-- h. gli alimenti per animali sono immagazzinati e somministrati soltanto in aziende in cui non sono tenuti ruminanti.
-
-[^30-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-
-#### Art. 31
-
-**Somministrazione di proteine animali trasformate di non ruminanti agli animali acquatici: disposizione generale**[^31-1]
-
-In deroga all’articolo 27 capoverso 3, le proteine animali trasformate di non ruminanti, con deroga per quelle di insetti e di farina di pesce, possono entrare nella composizione di alimenti per animali acquatici, se:
-
-- a. provengono da sottoprodotti di origine animale della categoria 3 di cui all’articolo 7 lettera a, e o f;
-- b. sono prodotte secondo l’allegato 5 numero 30 e si dimostra l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38;
-- c. a ogni livello della filiera (dalla produzione fino al momento della somministrazione) sono raccolte, immagazzinate, trasformate e trasportate in installazioni e impianti non utilizzati per produrre alimenti per ruminanti;
-- d. lo stabilimento di produzione di alimenti per animali è notificato al controllo ufficiale degli alimenti per animali Agroscope;
-- e. lo stabilimento di produzione tiene un registro sull’utilizzo delle proteine animali trasformate;
-- f. gli alimenti per animali sono immagazzinati e somministrati soltanto in aziende di acquacoltura registrate di cui all’articolo 6 lettera o<sup>bis</sup> OFE[^31-2]; e
-- g. gli altri animali da reddito tenuti nell’area dell’azienda di acquacoltura non entrano a contatto né direttamente né indirettamente con gli alimenti per animali acquatici.
-
-[^31-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^31-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-
-#### Art. 31a
-
-**Somministrazione di proteine animali trasformate di non ruminanti agli animali acquatici: disposizione per proteine animali trasformate di insetti**[^31a-1]
+[^28-1]
 
 <sup>1</sup>
 
-In deroga all’articolo 27 capoverso 3 le proteine animali trasformate di insetti possono entrare nella composizione di alimenti per animali acquatici, se:[^31a-2]
+Tutti gli animali da reddito possono essere alimentati con:
 
-- a. provengono da sottoprodotti di origine animale di cui all’articolo 7 lettera d;
+- a. latte e latticini, colostro, fanghi di centrifugazione e di separazione provenienti dalla trasformazione del latte;
+- b. uova e prodotti a base di uova;
+- c. collagene e gelatina di non ruminanti;
+- d. proteine idrolizzate di non ruminanti e ottenute da pelli e pelami di ruminanti;
+- e. grassi fusi.
+
+<sup>2</sup> Il collagene e la gelatina dei ruminanti possono essere somministrati soltanto ai non ruminanti.
+
+<sup>3</sup>
+
+I sottoprodotti di origine animale di cui ai capoversi 1 e 2 devono:
+
+- a. essere costituiti da o fabbricati con sottoprodotti di origine animale della categoria 3 risultanti dalla produzione primaria o dall’ottenimento o dalla produzione di derrate alimentari o alimenti per animali;
+- b. soddisfare i rispettivi criteri applicabili secondo l’allegato 5 numeri 30–38.
+
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+### Sezione 1*b*: Deroghe per gli esperimenti in materia di alimentazione
+
+[^chap4-sec1b-1]
+
+[^chap4-sec1b-1]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 28a
+
+L’USAV può autorizzare deroghe ai divieti di cui all’articolo 27 per esperimenti in materia di alimentazione di durata limitata, se i requisiti previsti dalla presente ordinanza sono per quanto possibile soddisfatti e se l’esperimento è compatibile con le norme e i trattati internazionali applicabili.
+
+### Sezione 2: Deroghe al divieto di utilizzo di sottoprodotti di origine animale per l’alimentazione degli animali da reddito in caso di riciclaggio canalizzato
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 29
+
+**Somministrazione di farina di pesce ai non ruminanti e ai ruminanti non svezzati**
+
+In caso di riciclaggio canalizzato, la farina di pesce può entrare nella composizione degli alimenti elencati di seguito, se sono soddisfatte le condizioni seguenti:
+
+- a.
+
+  nella composizione degli alimenti per non ruminanti, se:
+
+  - 1\. la farina di pesce è prodotta secondo l’allegato 5 numero 30 ed è dimostrato l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38, e
+  - 2\. la separazione lungo la catena degli alimenti per animali viene garantita in conformità all’articolo 32*a*;
+
 - b.
 
-  i sottoprodotti di origine animale provengono da una delle specie di insetti seguenti:
+  nella composizione di prodotti in polvere sostitutivi del latte per ruminanti non svezzati, se:
+
+  - 1\. le condizioni di cui alla lettera a sono soddisfatte, e
+  - 2\. il prodotto in polvere sostitutivo del latte viene commercializzato allo stato secco e dopo averlo diluito in un liquido viene somministrato ai ruminanti non svezzati in aggiunta o in sostituzione del latte materno postcolostrale prima della fine dello svezzamento.
+
+#### Art. 30
+
+**Somministrazione di prodotti sanguigni di non ruminanti ai non ruminanti**
+
+In caso di riciclaggio canalizzato, i prodotti sanguigni di non ruminanti possono entrare nella composizione di alimenti per non ruminanti, se:
+
+- a. il sangue proviene da animali ammessi alla macellazione sulla base di un controllo ufficiale degli animali da macello;
+- b. i prodotti sanguigni sono prodotti secondo l’allegato 5 numero 30*a* ed è dimostrato l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38; e
+- c. la separazione lungo la catena degli alimenti per animali viene garantita in conformità all’articolo 32*a*.
+
+#### Art. 30a
+
+**Somministrazione di proteine trasformate di suini al pollame e agli animali acquatici in aziende di acquacoltura**
+
+In caso di riciclaggio canalizzato, le proteine trasformate di suini possono entrare nella composizione di alimenti per pollame e di alimenti per animali acquatici in aziende di acquacoltura, se:
+
+- a. il materiale greggio proviene da sottoprodotti di suini della categoria 3 di cui all’articolo 7 lettere a, e o f;
+- b. le proteine animali trasformate sono prodotte secondo l’allegato 5 numero 30 ed è dimostrato l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38; e
+- c. la separazione lungo la catena degli alimenti per animali viene garantita in conformità all’articolo 32*a*.
+
+#### Art. 30b
+
+**Somministrazione di proteine trasformate di pollame ai suini e agli animali acquatici in aziende di acquacoltura**
+
+In caso di riciclaggio canalizzato, le proteine trasformate di pollame possono entrare nella composizione di alimenti per suini e di alimenti per animali acquatici in aziende di acquacoltura, se:
+
+- a. il materiale greggio proviene da sottoprodotti di pollame della categoria 3 di cui all’articolo 7 lettere a, e o f;
+- b. le proteine animali trasformate sono prodotte secondo l’allegato 5 numero 30 ed è dimostrato l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38; e
+- c. la separazione lungo la catena degli alimenti per animali viene garantita in conformità all’articolo 32*a*.
+
+#### Art. 31
+
+**Somministrazione di proteine miste trasformate di non ruminanti agli animali acquatici in aziende di acquacoltura**
+
+In caso di riciclaggio canalizzato, le proteine miste trasformate di diverse specie di non ruminanti possono entrare nella composizione di alimenti per animali acquatici in aziende di acquacoltura, se sono soddisfatti, per analogia, i requisiti di cui agli articoli 30*a* e 30*b*.
+
+#### Art. 31a
+
+**Somministrazione di proteine trasformate di insetti d’allevamento al pollame, ai suini e agli animali acquatici in aziende di acquacoltura**
+
+<sup>1</sup>
+
+In caso di riciclaggio canalizzato, le proteine trasformate di insetti d’allevamento possono entrare nella composizione di alimenti per pollame, di alimenti per suini e di alimenti per animali acquatici in aziende di acquacoltura, se:
+
+- a. il materiale greggio proviene da sottoprodotti di insetti d’allevamento della categoria 3 di cui all’articolo 7 lettere d–f;
+- b.
+
+  i sottoprodotti di origine animale provengono dalla produzione primaria di una delle specie di insetti seguenti:
 
   - 1\. mosca soldato nera (*Hermetia illucens*),
   - 2\. tarma della farina (*Tenebrio molitor*),
@@ -654,56 +786,162 @@ In deroga all’articolo 27 capoverso 3 le proteine animali trasformate di inset
   - 4\. grillo domestico (*Acheta domesticus*),
   - 5\. grillo tropicale (*Gryllodes sigillatus*),
   - 6\. grillo silente (*Gryllus assimilis*),
-  - 7\.[^31a-3] mosca domestica (*Musca domestica*);
+  - 7\. mosca domestica (*Musca domestica*),
+  - 8\. baco da seta (*Bombyx mori*);
 
 - c. le larve degli insetti sono alimentate esclusivamente con prodotti di cui al capoverso 2;
-- d. sono prodotte secondo l’allegato 5 numero 30 e si dimostra l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38;
-- e. a ogni livello della filiera (dalla produzione fino al momento della somministrazione) sono raccolte, immagazzinate, trasformate e trasportate in installazioni e impianti non utilizzati per produrre alimenti per ruminanti;
-- f. lo stabilimento di produzione di alimenti per animali è notificato al controllo ufficiale degli alimenti per animali Agroscope;
-- g. lo stabilimento di produzione tiene un registro sull’utilizzo delle proteine animali trasformate;
-- h. gli alimenti per animali sono immagazzinati e somministrati soltanto in aziende di acquacoltura registrate di cui all’articolo 6 lettera o<sup>bis</sup> OFE[^31a-4]; e
-- i. gli altri animali da reddito tenuti nell’area dell’azienda di acquacoltura non entrano a contatto né direttamente né indirettamente con gli alimenti per animali acquatici.
+- d. le proteine animali trasformate sono prodotte secondo l’allegato 5 numero 30 ed è dimostrato l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38; e
+- e. la separazione lungo la catena degli alimenti per animali viene garantita in conformità all’articolo 32*a*.
 
 <sup>2</sup>
 
 Le larve degli insetti possono essere alimentate con sostrati vegetali e con i sottoprodotti di origine animale seguenti:
 
-- a. prodotti di cui all’articolo 28;
-- b. prodotti sanguigni di non ruminanti;
-- c. fosfato bicalcico e tricalcico;
-- d. farina di pesce.
-
-[^31a-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^31a-2]: Nuovo testo giusta l’all. n. 2 dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^31a-3]: Introdotto dall’all. n. 2 dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^31a-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+- a. sottoprodotti di origine animale di cui all’articolo 28;
+- b. farina di pesce;
+- c. prodotti sanguigni di non ruminanti;
+- d. fosfato bicalcico e fosfato tricalcico di origine animale.
 
 #### Art. 32
 
-**Somministrazione di fosfato bicalcico e fosfato tricalcico ai non ruminanti**[^32-1]
+**Somministrazione di fosfato bicalcico e fosfato tricalcico di origine animale ai non ruminanti**
 
-In deroga all’articolo 27 capoverso 3, il fosfato bicalcico e il fosfato tricalcico possono entrare nella composizione di alimenti per non ruminanti, se:
+In caso di riciclaggio canalizzato, il fosfato bicalcico e il fosfato tricalcico di origine animale possono entrare nella composizione di alimenti per non ruminanti, se:
 
-- a. provengono da sottoprodotti di origine animale della categoria 3;
-- b. sono stati fabbricati conformemente ai metodi di trasformazione di cui all’allegato 5;
-- c. a ogni livello della filiera (dalla produzione fino al momento della somministrazione) sono raccolti, immagazzinati, trasformati e trasportati in installazioni e impianti non utilizzati per produrre alimenti per ruminanti;
-- d. lo stabilimento di produzione di alimenti per animali è notificato al controllo ufficiale degli alimenti per animali Agroscope;
-- e. lo stabilimento di produzione tiene un registro sull’utilizzo del fosfato bicalcico e del fosfato tricalcico;
-- f. gli alimenti per animali in cui sono contenuti hanno un contenuto totale di fosforo inferiore al 10 per cento; e
-- g. gli alimenti per animali sono immagazzinati soltanto in aziende in cui non sono tenuti ruminanti.
+- a. il materiale greggio proviene da sottoprodotti di origine animale della categoria 3 di cui all’articolo 7 lettere a e c–f;
+- b. sono stati prodotti conformemente ai metodi di trasformazione di cui all’allegato 5;
+- c. gli alimenti per animali in cui sono contenuti hanno un contenuto totale di fosforo inferiore al 10 per cento; e
+- d. la separazione lungo la catena degli alimenti viene garantita in conformità all’articolo 32*a*.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+### Sezione 2*a*: Requisiti tecnici in caso di riciclaggio canalizzato
+
+[^chap4-sec2a-1]
+
+[^chap4-sec2a-1]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 32a
 
-**Requisiti della separazione lungo le catene degli alimenti per le diverse specie animali**[^32a-1]
+**Requisiti della separazione lungo la catena degli alimenti per animali**[^32a-1]
 
-<sup>1</sup> Per i requisiti della separazione lungo le catene degli alimenti per animali di cui agli articoli 29 lettere b, c ed f, 30 lettere b, e ed h, 31 lettere c, f e g, 31*a* lettere e, h ed i nonché 32 lettere c e g si applicano le disposizioni dell’allegato IV capo III e IV nonché del capo V sezioni B e C del regolamento (CE) n. 999/2001[^32a-2].
+<sup>1</sup> Il DFI disciplina i requisiti della separazione lungo la catena degli alimenti per animali in caso di riciclaggio canalizzato.
 
-<sup>2</sup> Nel quadro del regolamento (CE) n. 999/2001 l’USAV può stabilire in un’ordinanza misure tecniche per impedire contaminazioni incrociate fra gli alimenti per animali.
+<sup>2</sup>
 
-[^32a-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^32a-2]: Regolamento (CE) n. 999/2001 del Parlamento europeo e del Consiglio, del 22 maggio 2001, recante disposizioni per la prevenzione, il controllo e l’eradicazione di alcune encefalopatie spongiformi trasmissibili, GU L 147 del 31.5.2001, pag. 1; modificato da ultimo dal regolamento (UE) n. 2017/894, del 24 maggio 2017, GU L 138 del 25.05.2017, pag. 117.
+Provvede affinché vengano impedite le contaminazioni incrociate nelle fasi del riciclaggio canalizzato seguenti:
+
+- a. ottenimento di sottoprodotti di origine animale;
+- b. trasformazione di sottoprodotti di origine animale;
+- c. produzione di alimenti per animali con sottoprodotti di origine animale trasformati;
+- d. trasporto e immagazzinamento dei prodotti di cui alle lettere a–c;
+- e. utilizzo e immagazzinamento di alimenti per animali con sottoprodotti di origine animale trasformati in aziende della produzione primaria.
+
+[^32a-1]: Introdotto dalla cifra I dell’O del 25 apr. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 32b
+
+**Trasporto e immagazzinamento**[^32b-1]
+
+<sup>1</sup> Chiunque, in caso di riciclaggio canalizzato, trasporti e immagazzini alternativamente diversi sottoprodotti di origine animale o alimenti per animali sfusi che non possono essere somministrati all’altra specie animale deve pulire i veicoli e le installazioni secondo una procedura documentata che impedisca contaminazioni incrociate.
+
+<sup>2</sup>
+
+Il piano di pulizia deve essere previamente sottoposto per approvazione all’autorità seguente:
+
+- a. per il trasporto fino agli stabilimenti di produzione di alimenti per animali e l’immagazzinamento prima del trasporto agli stabilimenti di produzione di alimenti per animali: all’autorità cantonale competente;
+- b. per il trasporto e l’immagazzinamento dagli stabilimenti di produzione di alimenti per animali: al controllo ufficiale degli alimenti per animali.
+
+<sup>3</sup> Le pulizie effettuate devono essere registrate. Le autorità competenti hanno accesso ai registri. I documenti devono essere conservati per almeno due anni.
+
+[^32b-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+### Sezione 2*b*: Requisiti amministrativi in caso di riciclaggio canalizzato
+
+[^chap4-sec2b-1]
+
+[^chap4-sec2b-1]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 32c
+
+**Obbligo di notifica per le aziende alimentari e gli stabilimenti di trasformazione, produzione e immagazzinamento**
+
+<sup>1</sup> Le aziende alimentari e gli stabilimenti di trasformazione di cui all’allegato 1*b* numeri 21–24 e 31–34 che intendono ottenere o trasformare sottoprodotti di origine animale per l’alimentazione degli animali da reddito ricorrendo al riciclaggio canalizzato devono notificarlo previamente all’autorità cantonale competente.
+
+<sup>2</sup> Gli stabilimenti di produzione di alimenti per animali e di immagazzinamento di cui all’allegato 1*b* numeri 35 e 37 che intendono immagazzinare e utilizzare sottoprodotti di origine animale per l’alimentazione degli animali da reddito ricorrendo al riciclaggio canalizzato devono notificarlo previamente al controllo ufficiale degli alimenti per animali.
+
+<sup>3</sup> Gli stabilimenti di produzione di alimenti per animali di cui all’allegato 1*b* numeri 25 e 36 che, ricorrendo al riciclaggio canalizzato, producono alimenti composti contenenti sottoprodotti di origine animale per l’alimentazione di animali da reddito per uso esclusivo nella propria azienda di produzione primaria, devono notificarlo previamente all’autorità cantonale competente. Se per la produzione vengono impiegati additivi per alimenti per animali, fatta eccezione per gli additivi per l’insilamento, o premiscele, la notifica va effettuata presso il controllo ufficiale degli alimenti per animali.
+
+<sup>4</sup>
+
+La notifica deve contenere le seguenti informazioni:
+
+- a. la denominazione dello stabilimento;
+- b. il tipo di riciclaggio canalizzato;
+- c. se del caso, informazioni su eventuali registrazioni o autorizzazioni previste dalla legislazione sulle derrate alimentari, sulle epizoozie e sugli alimenti per animali.
+
+#### Art. 32d
+
+**Registrazione di aziende alimentari e di stabilimenti di trasformazione e di produzione di alimenti per animali**
+
+<sup>1</sup> Le aziende alimentari e gli stabilimenti di trasformazione di cui all’allegato 1*b* numeri 21–24 vengono registrati dall’autorità cantonale competente.
+
+<sup>2</sup> Gli stabilimenti di produzione di alimenti per animali di cui all’allegato 1*b* numero 25 che, ricorrendo al riciclaggio canalizzato, producono alimenti composti contenenti sottoprodotti di origine animale per l’alimentazione di animali da reddito per uso esclusivo nella propria azienda di produzione primaria, vengono registrati dall’autorità cantonale competente. Se per la produzione impiegano additivi per alimenti per animali, fatta eccezione per gli additivi per l’insilamento, o premiscele, gli stabilimenti vengono registrati dal controllo ufficiale degli alimenti per animali.
+
+#### Art. 32e
+
+**Obbligo di autorizzazione per le aziende alimentari e gli stabilimenti di trasformazione, produzione di alimenti per animali e immagazzinamento**
+
+<sup>1</sup> Le aziende alimentari e gli stabilimenti di trasformazione di cui all’allegato 1*b* numeri 31–34 che intendono ottenere o trasformare sottoprodotti di origine animale per l’alimentazione degli animali da reddito ricorrendo al riciclaggio canalizzato necessitano di un’autorizzazione dell’autorità cantonale competente.
+
+<sup>2</sup> Gli stabilimenti di produzione di alimenti per animali e di immagazzinamento di cui all’allegato 1*b* numeri 35 e 37 che intendono immagazzinare e utilizzare sottoprodotti di origine animale per l’alimentazione degli animali da reddito ricorrendo al riciclaggio canalizzato necessitano di un’autorizzazione del controllo ufficiale degli alimenti per animali.
+
+<sup>3</sup> Gli stabilimenti di produzione di alimenti per animali di cui all’allegato 1*b* numero 36 che, ricorrendo al riciclaggio canalizzato, producono alimenti composti contenenti sottoprodotti di origine animale per l’alimentazione di animali da reddito per uso esclusivo nella propria azienda di produzione primaria, necessitano di un’autorizzazione dell’autorità cantonale competente. Se per la produzione impiegano additivi per alimenti per animali, fatta eccezione per gli additivi per l’insilamento, o premiscele, gli stabilimenti necessitano di un’autorizzazione del controllo ufficiale degli alimenti per animali.
+
+<sup>4</sup> L’autorità competente rilascia l’autorizzazione se sono soddisfatti i requisiti determinanti per il riciclaggio canalizzato previsti dalla presente ordinanza, compresi i requisiti per il trasporto e l’immagazzinamento. Prima del rilascio dell’autorizzazione effettua un’ispezione sul posto.
+
+#### Art. 32f
+
+**Limitazione del periodo di validità e rinnovo dell’autorizzazione**
+
+<sup>1</sup> L’autorizzazione è valida per dieci anni al massimo.
+
+<sup>2</sup> È rinnovata su richiesta, qualora dalla verifica risulti che i requisiti previsti dalla presente ordinanza per il riciclaggio canalizzato sono soddisfatti.
+
+#### Art. 32g
+
+**Notifica delle registrazioni e delle autorizzazioni all’USAV**
+
+L’autorità cantonale competente inserisce per ogni azienda o stabilimento da essa registrato o autorizzato i dati per il riciclaggio canalizzato nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione ai sensi dell’O‑SIFA[^32g-1].
+
+[^32g-1]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+
+#### Art. 32h
+
+**Elenchi delle aziende e degli stabilimenti registrati e autorizzati**
+
+<sup>1</sup> L’USAV tiene e pubblica elenchi delle aziende o degli stabilimenti registrati e autorizzati dalle autorità cantonali competenti.
+
+<sup>2</sup> Il controllo ufficiale degli alimenti per animali tiene e pubblica elenchi degli stabilimenti da esso registrati e autorizzati.
+
+#### Art. 32i
+
+**Revoca dell’autorizzazione e divieto del riciclaggio canalizzato**
+
+Se nel quadro dei controlli ufficiali vengono accertate inadempienze gravi o si constata che provvedimenti ordinati sono rimasti senza effetto, l’autorità competente può sospendere o revocare l’autorizzazione e vietare temporaneamente o definitivamente ad aziende o stabilimenti registrati il riciclaggio canalizzato. Essa valuta soprattutto:
+
+- a. la natura e la gravità delle inadempienze in relazione ai pericoli per la salute pubblica e animale;
+- b. la possibilità di rimuovere le inadempienze entro un termine ragionevole.
+
+#### Art. 32j
+
+**Controllo autonomo e verifica delle misure di controllo autonomo**
+
+<sup>1</sup> Gli stabilimenti registrati devono elaborare, documentare e applicare permanentemente una procedura di controllo che garantisca il rispetto delle disposizioni della presente ordinanza per il riciclaggio canalizzato. Negli stabilimenti autorizzati è necessario elaborare, documentare e applicare una procedura di controllo conforme ai principi del controllo autonomo di cui all’allegato 2.
+
+<sup>2</sup> Le autorità competenti hanno accesso alla documentazione. I documenti devono essere conservati per tre anni.
+
+<sup>3</sup> Il DFI stabilisce quali stabilimenti autorizzati di cui all’allegato 1*b* numero 3 devono far verificare il funzionamento delle misure di controllo autonomo mediante prelievi e analisi.
+
+<sup>4</sup> Se i risultati dei controlli non sono conformi alle prescrizioni, lo stabilimento deve attuare immediatamente i provvedimenti necessari.
 
 ### Sezione 3: Alimentazione di altri animali
 
@@ -732,31 +970,56 @@ I prodotti derivati possono essere utilizzati per la produzione di alimenti per 
 
 <sup>5</sup> I sottoprodotti di origine animale utilizzati per la produzione di alimenti per animali da compagnia possono essere immagazzinati sfusi soltanto in locali distinti ed essere trasportati esclusivamente in recipienti appositi.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+<sup>6</sup> Il DFI può stabilire requisiti per la produzione separata secondo il capoverso 2 lettera b e per l’immagazzinamento e il trasporto separati secondo il capoverso 5.[^33-2]
 
-#### Art. 34
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^33-2]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-**Consegna diretta per l’alimentazione di carnivori e uccelli necrofagi**[^34-1]
+#### Art. 33a
+
+**Consegna diretta per l’alimentazione di carnivori e uccelli necrofagi**[^33a-1]
 
 <sup>1</sup>
 
-Per l’alimentazione di animali da compagnia e altri carnivori nonché uccelli necrofagi tenuti in cattività possono essere consegnati direttamente:
+Per l’alimentazione di animali carnivori e uccelli necrofagi tenuti in cattività possono essere consegnati direttamente:[^33a-2]
 
 - a. sottoprodotti di origine animale di cui all’articolo 7 lettera a;
 - b. corpi di animali o parti di essi di cui all’articolo 22 capoverso 2.
 
 <sup>2</sup> Lo stabilimento in cui si producono i sottoprodotti di origine animale deve consegnarli direttamente al detentore di animali. Il detentore di animali può somministrarli solo ai suoi animali.
 
-<sup>3</sup> I sottoprodotti di origine animale di cui all’articolo 7 lettera a numero 2 di animali per i quali è prescritto un controllo delle carni secondo l’ordinanza del 16 dicembre 2016[^34-2] concernente la macellazione e il controllo delle carni, devono essere accompagnati da una decisione del controllo delle carni con la dicitura «non commestibile, senza segni di una malattia trasmissibile all’uomo o agli animali».
+<sup>3</sup> I sottoprodotti di origine animale di cui all’articolo 7 lettera a numero 2 di animali per i quali è prescritto un controllo delle carni secondo l’ordinanza del 16 dicembre 2016[^33a-3] concernente la macellazione e il controllo delle carni, devono essere accompagnati da una decisione del controllo delle carni secondo l’allegato 4 numero 33 con la dicitura «non commestibile, senza segni di una malattia trasmissibile all’uomo o agli animali».[^33a-4]
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^34-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^33a-1]: Originario art. 34. Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^33a-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^33a-3]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^33a-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-### Sezione 4: Fabbricazione di concime e di prodotti tecnici
+#### Art. 33b
+
+**Somministrazione di corpi di animali di piccola taglia e di animali da zoo ad animali carnivori nella propria azienda detentrice**[^33b-1]
+
+I detentori di animali carnivori quali rettili, anfibi, uccelli o altri animali carnivori con particolari esigenze nutrizionali possono somministrare ai propri animali carnivori corpi di animali e parti di piccoli roditori, lagomorfi, pollame, pesci, insetti e animali da zoo, a condizione che questi corpi e parti di animali non presentino segni di malattie trasmissibili all’uomo o agli animali.
+
+[^33b-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+### Sezione 3*a*: Diagnostica
+
+[^chap4-sec3a-1]
+
+[^chap4-sec3a-1]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 34
+
+<sup>1</sup> Il laboratorio di Agroscope è responsabile, in qualità di laboratorio nazionale di riferimento, dell’esame per verificare la presenza di costituenti di origine animale vietati per l’alimentazione di determinate specie animali e dell’esame per verificare la presenza di trieptanoato di glicerina.
+
+<sup>2</sup> Il DFI definisce le procedure di prelievo e i metodi di analisi. Tiene conto dei metodi di esame riconosciuti a livello internazionale.
+
+### Sezione 4: Fabbricazione e utilizzo di concime e di prodotti tecnici
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^chap4-sec4-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 34a
 
@@ -764,7 +1027,40 @@ Per l’alimentazione di animali da compagnia e altri carnivori nonché uccelli 
 
 Per la fabbricazione di concime si applicano i requisiti di cui all’allegato 5 numero 39.
 
-[^34a-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^34a-1]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+
+#### Art. 34b
+
+**Miscela di concime contenente farine di carne e di ossa o proteine animali trasformate**[^34b-1]
+
+<sup>1</sup>
+
+I concimi contenenti farine di carne e di ossa o proteine animali trasformate devono essere miscelati con un costituente che:
+
+- a. è composto da calce, liquame, compost o residui di fermentazione di impianti di produzione di biogas o altre sostanze non utilizzati per l’alimentazione animale, come i concimi minerali;
+- b. non presenta rischi per il suolo e le acque; e
+- c. rende la miscela non commestibile per gli animali ed esclude l’utilizzo della miscela a scopi alimentari secondo le buone pratiche agricole.
+
+<sup>2</sup> D’intesa con l’Ufficio federale dell’agricoltura e l’Ufficio federale dell’ambiente, l’USAV può autorizzare altri costituenti per la miscela se la loro efficacia è equivalente a quella dei costituenti di cui al capoverso 1.
+
+<sup>3</sup>
+
+I concimi contenuti nei seguenti imballaggi non devono essere miscelati con un costituente di cui ai capoversi 1 o 2:
+
+- a. concimi in imballaggi finali di peso non superiore a 50 kg destinati al consumatore finale;
+- b. concimi in sacchi preimballati di peso non superiore a 1000 kg, se contrassegnati correttamente.
+
+[^34b-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 34c
+
+**Utilizzo di concimi**[^34c-1]
+
+<sup>1</sup> I concimi contenenti farine di carne e di ossa o proteine animali trasformate devono essere utilizzati in modo che gli animali da reddito non entrino in contatto con essi.
+
+<sup>2</sup> Il DFI può stabilire restrizioni per l’utilizzo di concimi e misure per prevenirne l’ingestione da parte degli animali.
+
+[^34c-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 35
 
@@ -776,9 +1072,9 @@ I sottoprodotti di origine animale della categoria 3 possono essere utilizzati p
 - b. i prodotti sono conformi alle norme pertinenti degli altri settori giuridici; e
 - c.[^35-3] i sottoprodotti di origine animale risultanti dalla fabbricazione sono eliminati secondo le disposizioni della presente ordinanza.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^35-3]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^35-1]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^35-3]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 ## Capitolo 5: Responsabilità dell’eliminazione
 
@@ -788,12 +1084,12 @@ I sottoprodotti di origine animale della categoria 3 possono essere utilizzati p
 
 <sup>1</sup> Chi fabbrica o trasforma a titolo professionale prodotti di origine animale è tenuto ad eliminare o a fare eliminare i sottoprodotti che risultano da tale attività.
 
-<sup>2</sup> Chi svolge attività di macellazione o di trasformazione delle carni e affida a terzi l’eliminazione dei sottoprodotti di origine animale è tenuto a dimostrare al Cantone, presentando accordi scritti, che l’eliminazione è garantita per almeno due anni. Gli accordi devono specificare le quantità e le condizioni di recesso. Il Cantone registra la prova nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione ai sensi dell’ordinanza del 6 giugno 2014[^36-1] concernente i sistemi dʼinformazione per il servizio veterinario pubblico.[^36-2]
+<sup>2</sup> Chi svolge attività di macellazione o di trasformazione delle carni e affida a terzi l’eliminazione dei sottoprodotti di origine animale è tenuto a dimostrare al Cantone, presentando accordi scritti, che l’eliminazione è garantita per almeno due anni. Gli accordi devono specificare le quantità e le condizioni di recesso. Il Cantone registra la prova nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione ai sensi dell’O‑SIFA[^36-1].[^36-2]
 
 <sup>3</sup> Gli altri proprietari di sottoprodotti di origine animale devono consegnare questi ultimi al centro di raccolta designato dal Cantone qualora non siano in grado di provvedere alla loro eliminazione.
 
-[^36-1]: [[[RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325); [2015 4269](https://fedlex.data.admin.ch/eli/oc/2015/717); [2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 n. 3, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)all. n. 34, [751](https://fedlex.data.admin.ch/eli/oc/2021/751)all. 3 n. II 11. [RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)all. 4 n. I ]. Vedi ora l’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare ([RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)).
-[^36-2]: Nuovo testo giusta l’all. 3 n. II 12 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^36-1]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 37
 
@@ -826,17 +1122,17 @@ Ogni Cantone provvede affinché:
 
 <sup>2</sup> È necessario provare mediante una garanzia scritta di presa a carico che, in caso di restrizioni all’importazione, i sottoprodotti di origine animale possono essere eliminati in Svizzera. Una garanzia di presa a carico può essere rilasciata solo e fintanto che l’impianto dispone di riserve di capacità. Queste ultime corrispondono alla differenza tra la capacità di trasformazione stabilita nell’autorizzazione per l’impianto e la quantità totale annua eliminata.[^39-1]
 
-<sup>3</sup> La garanzia di presa a carico non è necessaria se i sottoprodotti di origine animale esportati sono pelli e pelame, resti alimentari, prodotti di cui all’articolo 7 lettera d oppure prodotti derivati immagazzinabili a temperatura ambiente, o se si tratta di una quantità annua totale inferiore a 1000 kg.[^39-2]
+<sup>3</sup> La garanzia di presa a carico non è necessaria per i sottoprodotti di origine animale di cui all’articolo 17 capoverso 2.[^39-2]
 
 <sup>4</sup> La quantità di sottoprodotti di origine animale esportati deve essere notificata mensilmente all’USAV.
 
 <sup>5</sup> Per il resto l’esportazione di sottoprodotti di origine animale è disciplinata dall’articolo 27 capoverso 1 dell’ordinanza del 18 novembre 2015[^39-3] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia e dall’articolo 52 capoverso 1 dell’ordinanza del 18 novembre 2015[^39-4] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi.[^39-5]
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^39-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^39-3]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^39-4]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^39-5]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^39-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^39-3]: [RS 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
+[^39-4]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^39-5]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 40
 
@@ -876,7 +1172,7 @@ Lo stabilimento di eliminazione deve:
 
 I sottoprodotti di origine animale non possono essere trasportati fuori da aree o aziende soggette a restrizioni di polizia sanitaria a causa di epizoozie altamente contagiose. Nel caso suddetto non possono nemmeno essere utilizzati come alimenti per animali o per la fabbricazione di concime o di prodotti tecnici. Sono fatti salvi gli articoli 43 e 44.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 43
 
@@ -891,7 +1187,7 @@ Se viene constatata un’epizoozia il veterinario cantonale decide le modalità 
 
 <sup>2</sup> Qualora, in seguito alla comparsa di una grave epizoozia o ad altre situazioni impreviste o straordinarie, l’eliminazione di sottoprodotti di origine animale delle categorie 1 e 2 non possa più avvenire negli impianti e nelle aziende a ciò destinati, il veterinario cantonale può consentirne l’eliminazione in un impianto autorizzato per la categoria 3. Se tale impianto riprende a eliminare esclusivamente sottoprodotti di origine animale della categoria 3, esso necessita nuovamente di un’autorizzazione ai sensi dell’articolo 12.[^43-1]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 44
 
@@ -906,20 +1202,33 @@ Se viene constatata un’epizoozia altamente contagiosa l’USAV può:
 
 #### Art. 45
 
-**Attuazione**
+**Attuazione**[^45-1]
 
-L’attuazione della presente ordinanza spetta ai Cantoni.
+<sup>1</sup> L’attuazione della presente ordinanza spetta ai Cantoni.
+
+<sup>2</sup>
+
+Il controllo ufficiale degli alimenti per animali attua la presente ordinanza per quanto riguarda:
+
+- a. il piano di pulizia per il trasporto e l’immagazzinamento dagli stabilimenti di produzione di alimenti per animali secondo l’articolo 32*b* capoverso 2 lettera b;
+- b. gli stabilimenti di produzione di alimenti per animali e di immagazzinamento che devono effettuare una notifica secondo l’articolo 32*c* capoversi 2 e 3 seconda frase;
+- c. gli stabilimenti di produzione di alimenti per animali che devono essere registrati secondo l’articolo 32*d* capoverso 2 seconda frase;
+- d. gli stabilimenti di produzione di alimenti per animali e di immagazzinamento che necessitano di un’autorizzazione secondo l’articolo 32*e* capoversi 2 e 3 seconda frase.
+
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 46
 
-**Controlli ufficiali**
+**Controlli ufficiali**[^46-1]
 
-<sup>1</sup> I Cantoni vigilano sull’eliminazione dei sottoprodotti di origine animale. I Cantoni controllano gli impianti almeno una volta all’anno; la frequenza con cui sono controllati gli altri stabilimenti autorizzati e gli stabilimenti registrati dipende dal tipo e dal volume di attività che essi svolgono.
+<sup>1</sup> I Cantoni vigilano sull’eliminazione dei sottoprodotti di origine animale. Controllano gli impianti almeno una volta all’anno e gli stabilimenti autorizzati e registrati periodicamente, a dipendenza del tipo e del volume di attività che svolgono.
 
-<sup>2</sup> Il controllo della produzione e della messa in commercio di alimenti per animali è inoltre disciplinato dall’ordinanza del 26 ottobre 2011[^46-1] sugli alimenti per animali.[^46-2]
+<sup>2</sup> L’autorità cantonale competente e il controllo ufficiale degli alimenti per animali controllano almeno una volta all’anno le aziende e gli stabilimenti di cui agli articoli 32*d* o 32*e* registrati o autorizzati per il riciclaggio canalizzato.
 
-[^46-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^46-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+<sup>3</sup> Il controllo della produzione e della messa in commercio di alimenti per animali è inoltre disciplinato dall’ordinanza del 26 ottobre 2011[^46-2] sugli alimenti per animali (OsAlA).
+
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^46-2]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 ## Capitolo 8: Disposizioni finali
 
@@ -937,6 +1246,14 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate dall’alleg
 
 <sup>2</sup> Gli impianti di produzione di biogas e gli impianti di compostaggio esistenti, in cui resti alimentari non precedentemente igienizzati subiscono una fermentazione termofila secondo altri metodi conformemente all’allegato 5 numero 46, devono disporre della necessaria autorizzazione dell’USAV al più tardi il 1° luglio 2013.
 
+#### Art. 48a
+
+**Disposizioni transitorie della modifica del 26 novembre 2025**[^48a-1]
+
+Gli impianti e gli stabilimenti registrati e autorizzati secondo gli articoli 10 e 11 che fanno uso del riciclaggio canalizzato devono disporre della registrazione o dell’autorizzazione secondo gli articoli 32*d* e 32*e* entro il 1° gennaio 2027.
+
+[^48a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
 #### Art. 49
 
 **Entrata in vigore**
@@ -945,78 +1262,133 @@ La presente ordinanza entra in vigore il 1° luglio 2011.
 
 Allegato 1a[^t-2]
 
-(art. 2*a* cpv. 2)
+(art. 2*a* cpv. 2 e 3)
 
 ## Prodotti derivati che hanno raggiunto il punto finale
 
-[^t-2]: Originario all. 6. Aggiornato dal n. II dell’O del 28 ott. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)) e dal n. II cpv. 4 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-2]: Originario all. 6. Nuovo testo giusta la cifra II cpv. 1 dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 - 1 Biodiesel e residui del processo di distillazione, biogas e altri carburanti ottenuti da prodotti derivati.
-- 2 Alimenti finiti per animali da compagnia e articoli da masticare in fusti e imballaggi pronti per l’uso e caratterizzati ai sensi dell’articolo 15 dell’ordinanza del 26 ottobre 2011[^annex1a-lvlu1-1] sugli alimenti per animali.
-- 3
+- 2
 
-  Pelli e pelame di animali ad unghia fessa:
+  Pelli e pelame di animali a unghia fessa:
 
-  - a. idonei al consumo umano ma utilizzati per altri scopi,
-  - b. sottoposti ad un processo completo di conciatura,
-  - c. conciati al cromo (allo stato «*wet blue*»),
-  - d. allo stato «*pickled pelts*», oppure
+  - a. idonei alla produzione di derrate alimentari, ma utilizzati per altri scopi;
+  - b. sottoposti a un processo completo di conciatura;
+  - c. conciati al cromo (allo stato «*wet blue*»);
+  - d. allo stato «*pickled pelts*»; oppure
   - e. trattati con calce e in salamoia, a pH compreso tra 12 e 13, per almeno 8 ore (pelli calcinate).
 
-- 4
+- 3
 
   Trofei di caccia e altri preparati animali:
 
   - a. ottenuti da ungulati e uccelli sottoposti a un trattamento tassidermico completo che ne garantisca la conservazione a temperatura ambiente;
   - b. ottenuti da specie diverse dagli ungulati e dagli uccelli provenienti da regioni non soggette a restrizioni per motivi di polizia sanitaria.
 
-- 5[^annex1a-lvlu1-2] Lana sottoposta a lavaggio industriale.
-- 6 Piume, parti di piume e piumino sottoposti a lavaggio industriale o trattati con vapore caldo a 100 °C per almeno 30 minuti.
+- 4 Lana sottoposta a lavaggio industriale.
+- 5 Piume, parti di piume e piumino sottoposti a lavaggio industriale o trattati con vapore caldo a 100 °C per almeno 30 minuti.
+- 6
 
-[^annex1a-lvlu1-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1a-lvlu1-2]: [RU 2011 3253](https://fedlex.data.admin.ch/eli/oc/2011/425)
+  I seguenti prodotti derivati utilizzati o ulteriormente trasformati come alimenti per animali o concimi:
+
+  - a. alimenti finiti per animali da compagnia e articoli da masticare in fusti e imballaggi pronti per l’uso e caratterizzati ai sensi dell’articolo 15 OsAlA[^annex1a-lvlu1-1];
+  - b.
+
+    substrato di coltura pronto per la vendita non importato da Paesi terzi contenente meno del:
+
+    - 1\. 5 per cento in volume di prodotti derivati da materiali della categoria 2 o 3, oppure
+    - 2\. 50 per cento in volume di liquame trasformato;
+
+  - c. concime secondo il regolamento delegato (UE) 2023/1605[^annex1a-lvlu1-2].
+
+[^annex1a-lvlu1-1]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex1a-lvlu1-2]: Regolamento delegato (UE) 2023/1605 della Commissione del 22 maggio 2023 che integra il regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio per quanto riguarda la determinazione dei punti finali nella catena di fabbricazione di determinati fertilizzanti organici e ammendanti, GU L 198 del 8.8.2023, pag. 1.
 
 Allegato 1b[^t-3]
 
-(art. 11 cpv. 1 e 15 cpv. 1)
+(art. 11 cpv. 1, 15 cpv. 1, 32*c* cpv. 1–3, 32*d*, 32*e* cpv. 1–3 e 32*j* cpv. 3)
 
-## Impianti e stabilimenti soggetti ad autorizzazione
+## Impianti e stabilimenti soggetti ad autorizzazione e registrazione
 
-[^t-3]: Originario all. 1. Nuovo testo giusta il n. II cpv. 3 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-3]: Originario all. 1. Nuovo testo giusta la cifra II cpv. 1 dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-- 1 Stabilimenti che trasformano sottoprodotti di origine animale con metodi di trasformazione di cui all’allegato 5 oppure all’articolo 21 capoverso 2.
-- 2 Stabilimenti che inceneriscono sottoprodotti di origine animale, tranne se dispongono di un’autorizzazione di diritto ambientale.
-- 3 Stabilimenti che producono combustibile o carburante da sottoprodotti di origine animale oppure che utilizzano tale combustibile.
-- 4 Stabilimenti che producono alimenti per animali da compagnia.
-- 5 Impianti che producono biogas e impianti di compostaggio.
-- 6 Stabilimenti che producono concime organico e fertilizzanti.
-- 7 Crematori e cimiteri per animali;
-- 8
+### 1 Impianti e stabilimenti che necessitano di un’autorizzazione per l’eliminazione dei sottoprodotti di origine animale
 
-  Stabilimenti che immagazzinano sottoprodotti di origine animale; per immagazzinare prodotti derivati è necessaria un’autorizzazione solo se sono:
+- 11 Stabilimenti che trasformano sottoprodotti di origine animale con metodi di trasformazione di cui all’allegato 5 oppure all’articolo 21 capoverso 2.
+- 12 Stabilimenti che inceneriscono sottoprodotti di origine animale, tranne se dispongono di un’autorizzazione di diritto ambientale.
+- 13 Stabilimenti che producono combustibile o carburante da sottoprodotti di origine animale oppure che utilizzano tale combustibile.
+- 14 Stabilimenti che producono alimenti per animali da compagnia.
+- 15 Impianti che producono biogas e impianti di compostaggio.
+- 16 Stabilimenti che producono concimi.
+- 17 Crematori e cimiteri per animali.
+- 18
+
+  Stabilimenti che immagazzinano sottoprodotti di origine animale; per immagazzinare prodotti derivati è necessaria un’autorizzazione soltanto se i prodotti derivati sono:
 
   - a. da eliminare mediante incenerimento;
-  - b. da utilizzare come alimenti per animali e se lo stabilimento non è registrato od omologato ai sensi degli articoli 46–54 dell’ordinanza del 26 ottobre 2011[^annex1b-lvlu1-1] sugli alimenti per animali;
-  - c. destinati alla fabbricazione di concime organico e fertilizzanti.
+  - b. da utilizzare come alimenti per animali e se lo stabilimento non è registrato od omologato ai sensi degli articoli 46–54 OsAlA[^annex1b-lvlu1-lvl1-1];
+  - c. destinati alla fabbricazione di concime.
 
-- 9 Stabilimenti in cui avvengono le fasi successive della trasformazione dei sottoprodotti di origine animale, in particolare cernita, taglio, riscaldamento, refrigerazione, congelamento e salatura dei sottoprodotti di origine animale, scuoiamento o asportazione del materiale a rischio specificato.
-- 10
+- 19 Stabilimenti in cui avvengono le fasi successive della trasformazione dei sottoprodotti di origine animale, in particolare cernita, taglio, riscaldamento, refrigerazione, congelamento e salatura dei sottoprodotti di origine animale, scuoiamento o asportazione del materiale a rischio specificato.
 
-  Stabilimenti alimentari, di trasformazione e di produzione di alimenti per animali di cui all’allegato IV capo V punto A del regolamento (CE) n. 999/2001[^annex1b-lvlu1-2] in cui:
+[^annex1b-lvlu1-lvl1-1]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
-  - a. sono prodotti, trasformati e utilizzati sottoprodotti di origine animale per la fabbricazione di alimenti per animali;
-  - b. sono prodotti, trasformati e immagazzinati prima dell’esportazione sottoprodotti di origine animale per l’esportazione di proteine animali trasformate verso Paesi terzi.
+### 2 Stabilimenti che devono essere registrati per il riciclaggio canalizzato
 
-[^annex1b-lvlu1-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1b-lvlu1-2]: Cfr. nota a piè di pagina relativa all’art. 32*a.*
+- 21 Aziende alimentari e stabilimenti di trasformazione in cui il sangue di non ruminanti viene raccolto e trasformato per la somministrazione di prodotti sanguigni ai non ruminanti ai sensi dell’articolo 30, se negli stessi stabilimenti non vengono macellati ruminanti né trasformati prodotti di ruminanti.
+- 22 Aziende alimentari e stabilimenti di trasformazione in cui si ottengono e si trasformano sottoprodotti di suini per la somministrazione di proteine trasformate di suini al pollame o agli animali acquatici in aziende di acquacoltura ai sensi dell’articolo 30*a*, se negli stessi stabilimenti non vengono macellati né ruminanti né pollame e vengono esclusivamente trasformati prodotti a base di suini.
+- 23 Aziende alimentari e stabilimenti di trasformazione in cui si ottengono e si trasformano sottoprodotti di pollame per la somministrazione di proteine trasformate di pollame ai suini o agli animali acquatici in aziende di acquacoltura ai sensi dell’articolo 30*b*, se negli stessi stabilimenti non vengono macellati né ruminanti né suini e vengono esclusivamente trasformati prodotti a base di pollame.
+- 24 Aziende alimentari e stabilimenti di trasformazione in cui si ottengono e si trasformano sottoprodotti di non ruminanti per la somministrazione di proteine miste trasformate di non ruminanti agli animali acquatici in aziende di acquacoltura ai sensi dell’articolo 31, se negli stessi stabilimenti vengono esclusivamente macellati non ruminanti e trasformati prodotti a base di non ruminanti.
+- 25
+
+  Stabilimenti di produzione di alimenti per animali che, per uso esclusivo nella propria azienda di produzione primaria, producono alimenti composti per animali con farina di pesce, prodotti sanguigni di non ruminanti, proteine trasformate di suini, proteine trasformate di pollame, proteine miste trasformate di non ruminanti, proteine trasformate di insetti d’allevamento o fosfato bicalcico e fosfato tricalcico di origine animale, se:
+
+  - a.
+
+    detengono esclusivamente le seguenti specie animali a cui sono destinati gli alimenti per animali:
+
+    - 1\. non ruminanti, se producono alimenti composti per animali con farina di pesce, fosfato bicalcico e fosfato tricalcico o prodotti sanguigni di non ruminanti,
+    - 2\. pollame o animali acquatici in aziende di acquacoltura, se producono alimenti composti per animali con proteine trasformate di suini,
+    - 3\. suini o animali acquatici in aziende di acquacoltura, se producono alimenti composti con proteine trasformate di pollame,
+    - 4\. animali acquatici in aziende di acquacoltura, se producono alimenti composti con proteine miste trasformate di non ruminanti, eccettuata la farina di pesce,
+    - 5\. pollame, suini e animali acquatici in aziende di acquacoltura, se producono alimenti composti con proteine trasformate di insetti d’allevamento; e
+
+  - b.
+
+    i seguenti alimenti composti per animali prodotti da loro contengono le percentuali di seguito esposte:
+
+    - 1\. alimenti composti per animali con proteine animali trasformate, farina di pesce o prodotti sanguigni di non ruminanti: meno del 50 per cento di proteine gregge,
+    - 2\. alimenti composti per animali con fosfato bicalcico e fosfato tricalcico di origine animale: meno del 10 per cento di fosforo totale.
+
+### 3 Stabilimenti che necessitano di un’autorizzazione per il riciclaggio canalizzato
+
+- 31 Aziende alimentari e stabilimenti di trasformazione in cui il sangue di non ruminanti viene ottenuto e trasformato per la somministrazione di prodotti sanguigni ai non ruminanti ai sensi dell’articolo 30, se nelle stesse aziende e negli stessi stabilimenti i ruminanti vengono macellati in impianti fisicamente separati e i loro prodotti vengono trasformati in installazioni o impianti fisicamente separati.
+- 32 Aziende alimentari e stabilimenti di trasformazione in cui i sottoprodotti di suini vengono ottenuti e trasformati per la somministrazione di proteine trasformate di suini al pollame o agli animali acquatici in aziende di acquacoltura ai sensi dell’articolo 30*a,* se nelle stesse aziende e negli stessi stabilimenti i ruminanti o il pollame vengono macellati in impianti fisicamente separati e i loro prodotti vengono trasformati in installazioni o impianti fisicamente separati.
+- 33 Aziende alimentari e stabilimenti di trasformazione in cui i sottoprodotti di pollame vengono ottenuti e trasformati per la somministrazione di proteine trasformate di pollame ai suini o agli animali acquatici in aziende di acquacoltura ai sensi dell’articolo 30*b*, se nelle stesse aziende e negli stessi stabilimenti i ruminanti o i suini vengono macellati in impianti fisicamente separati e i loro prodotti vengono trasformati in installazioni o impianti fisicamente separati.
+- 34 Aziende alimentari e stabilimenti di trasformazione in cui i sottoprodotti di non ruminanti vengono ottenuti e trasformati per la somministrazione di proteine miste trasformate di non ruminanti agli animali acquatici in aziende di acquacoltura ai sensi dell’articolo 31, se nelle stesse aziende e negli stessi stabilimenti i ruminanti vengono macellati in impianti fisicamente separati e i loro prodotti vengono trasformati in installazioni o impianti fisicamente separati.
+- 35 Stabilimenti di produzione di alimenti per animali che utilizzano farina di pesce, prodotti sanguigni di non ruminanti, proteine trasformate di suini, proteine trasformate di pollame, proteine miste trasformate di non ruminanti, proteine trasformate di insetti d’allevamento e fosfato bicalcico e tricalcico di origine animale nella composizione di alimenti per animali.
+- 36 Stabilimenti di produzione di alimenti per animali che, per uso esclusivo nella propria azienda di produzione primaria, producono alimenti composti per animali con farina di pesce, prodotti sanguigni di non ruminanti, proteine trasformate di suini, proteine trasformate di pollame, proteine miste trasformate di non ruminanti, proteine trasformate di insetti d’allevamento o fosfato bicalcico e fosfato tricalcico di origine animale e non soddisfano i requisiti di cui al numero 25.
+- 37
+
+  Stabilimenti di immagazzinamento, eccettuate le aziende della produzione primaria, in cui vengono immagazzinati alimenti per ruminanti e le materie prime e gli alimenti composti per animali seguenti:
+
+  - a. farina di pesce sfusa;
+  - b. prodotti sanguigni sfusi di non ruminanti;
+  - c. proteine trasformate sfuse di suini;
+  - d. proteine trasformate sfuse di pollame;
+  - e. proteine miste trasformate sfuse di non ruminanti;
+  - f. proteine trasformate sfuse di insetti d’allevamento;
+  - g. fosfato bicalcico e fosfato tricalcico di origine animale sfusi;
+  - h. alimenti composti per animali sfusi contenenti materie prime di cui alle lettere a–g.
 
 Allegato 2[^t-4]
 
-(art. 15 cpv. 1)
+(art. 15 cpv. 1 e 32*j* cpv. 1)
 
 ## Principi del controllo autonomo
 
-[^t-4]: Aggiornato n. II cpv. 4 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-4]: Aggiornato dalla cifra II cpv. 4 dell’O del 25 apr. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)) e dalla cifra II cpv. 2 dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 - 1
 
@@ -1033,11 +1405,13 @@ Allegato 2[^t-4]
 - 2 L’attuazione del sistema di controllo di cui al numero 1 deve essere commisurata ai rischi per la sicurezza e al volume di produzione.
 - 3 Il personale deve conoscere le prescrizioni necessarie alla sicurezza dell’eliminazione. Il responsabile dello stabilimento deve imporne e verificarne l’osservanza.
 
-Allegato 3
+Allegato 3[^t-5]
 
 (art. 16 cpv. 4 e 5)
 
 ## Requisiti degli impianti
+
+[^t-5]: Aggiornato dalla cifra II cpv. 2 dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ### 1 Requisiti generali
 
@@ -1089,9 +1463,9 @@ Allegato 3
 - 224 I parametri più importanti in relazione all’incenerimento, in particolare la temperatura e il tempo, devono essere costantemente rilevati e registrati.
 - 225 La corretta installazione e il funzionamento di ogni dispositivo automatico di sorveglianza devono essere sottoposti a controllo e a un test annuale di verifica. La taratura deve essere effettuata mediante misurazioni parallele in base ai metodi di riferimento almeno ogni tre anni.
 
-[^annex3-lvlu1-lvl2-lvl22-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex3-lvlu1-lvl2-lvl22-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^annex3-lvlu1-lvl2-lvl22-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex3-lvlu1-lvl2-lvl22-1]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^annex3-lvlu1-lvl2-lvl22-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
+[^annex3-lvlu1-lvl2-lvl22-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ### 23 Requisiti degli impianti di produzione di biogas e degli impianti di compostaggio
 
@@ -1101,9 +1475,15 @@ Allegato 3
 - 234 L’immagazzinamento e la trasformazione devono per quanto possibile garantire che i sottoprodotti di origine animale greggi non siano accessibili agli animali selvatici, compresi roditori ed uccelli.
 - 235 Mediante l’attuazione di misure costruttive e gestionali si deve garantire che il prodotto finito non possa essere contaminato.
 - 236 L’USAV può prescrivere agli impianti requisiti minimi in materia di capacità e quantità.
+- 237
 
-[^annex3-lvlu1-lvl2-lvl23-1]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex3-lvlu1-lvl2-lvl23-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+  I requisiti di cui ai numeri 231–236 non si applicano, se:
+
+  - a. l’impianto di produzione di biogas o di compostaggio utilizza resti alimentari provenienti da economie domestiche private che sono stati miscelati con scarti verdi nel quadro della raccolta pubblica dei rifiuti urbani; e
+  - b. nell’area dell’impianto di produzione di biogas o di compostaggio vi è un’azienda detentrice di animali.
+
+[^annex3-lvlu1-lvl2-lvl23-1]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^annex3-lvlu1-lvl2-lvl23-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^annex3-lvlu1-lvl2-lvl23-3]: [RU 2011 3315](https://fedlex.data.admin.ch/eli/oc/2011/445)
 
 ### 24 Requisiti degli impianti nella cui area vengono tenuti animali
@@ -1112,11 +1492,13 @@ Allegato 3
 - 242 Gli animali da reddito non possono venire in contatto né direttamente né indirettamente con l’impianto, i veicoli, i recipienti di trasporto e gli utensili usati per i sottoprodotti di origine animale.
 - 243 Anche le vie di accesso all’impianto e di uscita da esso devono essere oggetto di provvedimenti costruttivi e gestionali volti a separarle dal luogo in cui sono tenuti gli animali da reddito. Le distanze devono essere stabilite in modo da impedire che dalla presenza dell’impianto derivi un rischio inaccettabile in relazione alla propagazione di malattie trasmissibili all’uomo o agli animali.
 
-Allegato 4
+Allegato 4[^t-6]
 
-(art. 19 cpv. 2 nonché 20 cpv. 2 e 6)
+(art. 19 cpv. 2, 20 cpv. 2 e 6 nonché 33*a* cpv. 3)
 
 ## Prescrizioni per la raccolta, l’immagazzinamento intermedio e il trasporto dei sottoprodotti di origine animale
+
+[^t-6]: Aggiornato dalla cifra II cpv. 2 dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ### 1 Identificazione
 
@@ -1127,7 +1509,13 @@ Allegato 4
   - a. il colore nero e la scritta «destinato solo all’eliminazione/all’incenerimento» oppure «destinato allo sfruttamento energetico e al successivo incenerimento» nel caso di sottoprodotti della categoria 1;
   - b. il colore nero e la scritta «destinato all’alimentazione di (nome della categoria di animali)» nel caso di sottoprodotti di origine animale della categoria 1 di cui sia ammessa l’utilizzazione per l’alimentazione di animali carnivori e di uccelli necrofagi (art. 22 cpv. 2);
   - c. il colore giallo e la scritta «non destinato al consumo animale» nel caso di sottoprodotti di origine animale della categoria 2;
-  - d. il colore verde e la scritta «non destinato al consumo umano» nel caso di sottoprodotti di origine animale della categoria 3.
+  - d. il colore verde e la scritta «non destinato al consumo umano» nel caso di sottoprodotti di origine animale della categoria 3;
+  - e.
+
+    la scritta «concime organico / per almeno 21 giorni dopo l’applicazione è vietato alimentare gli animali da reddito con piante erbacee assunte attraverso il pascolo o somministrate dopo essere state raccolte» nel caso del concime, eccettuato il concime:
+
+    - 1\. in imballaggi finiti di peso non superiore a 50 kg destinati al consumatore finale,
+    - 2\. che non contiene sottoprodotti di origine animale diversi dal contenuto dello stomaco e dell’intestino, dal liquame o dai sottoprodotti di origine animale di cui all’articolo 28.
 
 - 12
 
@@ -1165,7 +1553,7 @@ Allegato 4
 - 32 La scheda d’accompagnamento deve essere rilasciata in almeno tre copie. L’originale deve essere accluso all’invio fino alla destinazione finale ed essere conservato dal destinatario. Una copia rimane allo stabilimento di provenienza, l’altra all’impresa di trasporto.
 - 33
 
-  Le decisioni del controllo delle carni di cui agli articoli 20 capoverso 2 e 34 lettera b devono contenere i dati seguenti:
+  Le decisioni del controllo delle carni di cui agli articoli 20 capoverso 2 e 33*a* capoverso 3 devono contenere i dati seguenti:
 
   - a. data;
   - b. macello;
@@ -1202,13 +1590,13 @@ Allegato 4
 - 433 Nei centri di raccolta devono essere attuati i provvedimenti necessari per impedire l’intrusione di uccelli e roditori come pure per combattere gli insetti.
 - 434 I centri di raccolta devono disporre di un sistema di evacuazione delle acque reflue igienicamente ineccepibile.
 
-Allegato 5[^t-5]
+Allegato 5[^t-7]
 
-(art. 20 cpv. 3 lett. c, 21, 22 cpv. 1 lett. b, 23 cpv. 1 lett. b, 28 lett. a e d, 29 lett. a, 30 lett. d, 31 lett. b, 31*a* lett. d, 32 lett. b, 33 cpv. 1 e 2 lett. a e d nonché cpv. 4, 34*a* e 35 lett. a)
+(art. 20 cpv. 3 lett. c, 21, 22 cpv. 1 lett. b, 23 cpv. 1 lett. b, 28 cpv. 3 lett. b, 29 lett. a n. 1, 30 lett. b, 30*a* lett. b, 30*b* lett. b, 31*a* cpv. 1 lett. d, 32 lett. b, 33 cpv. 1 e 2 lett. a e c nonché cpv. 4, 34*a* e 35 lett. a)
 
 ## Metodi di trasformazione dei sottoprodotti di origine animale
 
-[^t-5]: Aggiornato dal n. II dell’O del 28 ott. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)) e dal n. II cpv. 4 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-7]: Aggiornato dalla cifra II dell’O del 28 ott. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)), dalla cifra II cpv. 4 dell’O del 25 apr. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)) e dalla cifra II cpv. 2 dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ### 1 Sterilizzazione a pressione
 
@@ -1234,7 +1622,7 @@ Allegato 5[^t-5]
 
   Le proteine animali trasformate di mammiferi utilizzate per la fabbricazione di alimenti per animali devono essere sterilizzate a pressione secondo il numero 1. In deroga, si può utilizzare uno dei seguenti metodi:
 
-  - a. il sangue di suini o costituenti del sangue di suini possono essere trattati per la fabbricazione di farina di sangue con uno dei metodi 2–5 o 7 di cui all’allegato IV capo III del regolamento (UE) n. 142/2011[^annex5-lvlu1-lvl3-lvl30-1]. Nell’attuazione del metodo 7 il trattamento termico deve avvenire a una temperatura al centro della massa di 80 °C.
+  - a. il sangue di suini o costituenti del sangue di suini possono essere trattati per la fabbricazione di farina di sangue con uno dei metodi 2–5 o 7 di cui all’allegato IV capo III del regolamento (UE) n. 142/2011[^annex5-lvlu1-lvl3-lvl30-1]. Nell’attuazione del metodo 7 il trattamento termico deve avvenire a una temperatura al centro della massa di 80 °C;
   - b.
 
     le proteine animali trasformate possono essere trattate con uno dei metodi 2–5 o 7 di cui all’allegato IV capo III del regolamento (UE) n. 142/2011, se:
@@ -1246,7 +1634,7 @@ Allegato 5[^t-5]
 - 302 Le proteine animali trasformate che non provengono da mammiferi, con deroga per la farina di pesce, devono essere trattate con uno dei metodi 1–5 o 7 di cui all’allegato IV capo III del regolamento (UE) n. 142/2011.
 - 303 La farina di pesce deve essere trattata con uno dei metodi di cui all’allegato IV capo III del regolamento (UE) n. 142/2011 o con un altro metodo che garantisca che il prodotto soddisfa i criteri microbiologici di cui al numero 38.
 
-[^annex5-lvlu1-lvl3-lvl30-1]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, pag. 1; modificato da ultimo dal regolamento (UE) 2017/893, del 24 maggio 2017, GU L 138 del 25.5.2017, pag. 92.
+[^annex5-lvlu1-lvl3-lvl30-1]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1719, GU L, 2024/1719, 21.6.2024.
 
 ### 30*a* Utilizzo di prodotti sanguigni per la fabbricazione di alimenti per animali
 
@@ -1274,6 +1662,15 @@ Allegato 5[^t-5]
 - b. i prodotti vengono somministrati in un’azienda detentrice di animali che è direttamente incorporata nello stabilimento di produzione;
 - c. il produttore di latte ha acquistato i prodotti dallo stesso stabilimento di trasformazione a cui fornisce il proprio latte;
 - d. il colostro è consegnato nelle vicinanze per l’approvvigionamento di animali appena nati.
+
+### 31*b* Utilizzo di uova e prodotti a base di uova
+
+-
+
+  Se non sono conformi alla normativa in materia di derrate alimentari, le uova e i prodotti a base di uova devono essere trasformati come segue:
+
+  - a. con uno dei metodi di trasformazione 1–5 o 7 di cui all’allegato IV capo III del regolamento (UE) n. 142/2011; oppure
+  - b. con un altro metodo che garantisca che i prodotti rispondano alle norme microbiologiche per i prodotti derivati stabilite al numero 38.
 
 ### 32 Produzione di collagene
 
@@ -1320,14 +1717,20 @@ Allegato 5[^t-5]
 ### 37 Fabbricazione di alimenti per animali da compagnia
 
 - 371 Per fabbricare conserve di alimenti per animali da compagnia il materiale deve essere sottoposto a trattamento termico in cui sia raggiunto un valore F<sub>c</sub> pari o superiore a 3.
-- 372 Gli alimenti per animali trasformati in modo diverso devono essere sottoposti a un trattamento termico con una temperatura di almeno 90 °C al centro della massa.
+- 372
+
+  Gli alimenti per animali trasformati in modo diverso devono essere:
+
+  - a. sottoposti a un trattamento termico con una temperatura di almeno 90 °C al centro della massa; oppure
+  - b. sottoposti a un trattamento quale l’essiccazione o la fermentazione che garantisce che gli alimenti per animali da compagnia non presentino rischi inaccettabili per la salute pubblica e animale.
+
 - 373 Gli articoli da masticare devono essere sottoposti a un trattamento in grado di distruggere gli organismi patogeni.
 
 ### 38 Criteri microbiologici per la fabbricazione di alimenti per animali
 
 - 381
 
-  Degli alimenti per animali da compagnia, eccettuate le conserve di alimenti per animali di cui al numero 371, e dei prodotti derivati per la fabbricazione di alimenti per animali devono essere prelevati campioni casuali per fornire la prova che adempiono alle seguenti norme microbiologiche:
+  Degli alimenti per animali da compagnia, eccettuate le conserve di alimenti per animali di cui al numero 371, e dei prodotti derivati per la fabbricazione di alimenti per animali, eccettuati i grassi fusi di cui al numero 31, devono essere prelevati campioni casuali per fornire la prova che adempiono alle seguenti norme microbiologiche:
 
   - a. *Salmonella spp.:* assenza in 25 g; n=5, c=0, m=0, M=0; campioni di materiale prelevati durante o immediatamente dopo l’immagazzinamento presso lo stabilimento di trasformazione;
   - b. *Enterobacteriaceae:* n=5, c=2, m=10, M=300 in 1 g; campioni di materiale prelevati durante o immediatamente dopo l’immagazzinamento presso lo stabilimento di trasformazione.
@@ -1346,7 +1749,9 @@ Allegato 5[^t-5]
 - 391 I sottoprodotti delle categorie 2 e 3 devono essere sterilizzati a pressione secondo il numero 1 prima della trasformazione in concime.
 - 392 In caso di utilizzo di proteine animali trasformate, per la loro fabbricazione si applicano i requisiti di cui al numero 30.
 - 393 Il materiale di partenza della categoria 3 diverso dalle proteine animali trasformate deve essere trattato con uno dei metodi 1–7 di cui all’allegato IV capo III del regolamento (UE) n. 142/2011.
-- 394 In deroga al numero 393, i sottoprodotti di animali acquatici e invertebrati nonché resti alimentari, pelli, pelame, pellicce, zoccoli, corna, setole, piume e peli, prima della successiva trasformazione possono essere sottoposti per almeno un’ora a un trattamento termico con una temperatura al centro della massa di 70 °C.
+- 394 In deroga al numero 393, i sottoprodotti di animali acquatici e invertebrati nonché resti alimentari, pelli, pelame, pellicce, setole, piume e peli, prima della successiva trasformazione possono essere sottoposti per almeno 60 minuti a un trattamento termico con una temperatura al centro della massa di 70 °C. Per zoccoli e corna, la temperatura al centro della massa è di 80 °C.
+- 395 Il liquame è considerato trasformato se è stato sottoposto per almeno 60 minuti a un trattamento termico ad almeno 70 °C.
+- 396 In deroga al numero 391, il frass può essere sottoposto per almeno 60 minuti a un trattamento termico con una temperatura di almeno 70 °C. Se nell’ambito del piano del controllo autonomo di cui all’articolo 15 capoverso 1, i batteri sporigeni o la tossinogenesi sono identificati come un pericolo rilevante, è necessario un trattamento finalizzato alla loro riduzione.
 
 ### 4 Riciclaggio in impianti che producono biogas e impianti di compostaggio
 
@@ -1367,17 +1772,17 @@ Allegato 5[^t-5]
 
 - I sottoprodotti di origine animale e i prodotti derivati usati nella fabbricazione di prodotti tecnici devono essere pastorizzati oppure trattati utilizzando un altro processo di efficacia comparabile per quanto attiene alla riduzione di microorganismi.
 
-Allegato 6[^t-6]
+Allegato 6[^t-8]
 
-[^t-6]: Ora: allegato 1*a* ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-8]: Ora: allegato 1*a* ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
-Allegato 7[^t-7]
+Allegato 7[^t-9]
 
 (art. 25 cpv. 2)
 
 ## Requisiti dei luoghi di sotterramento di corpi di animali e misure preventive relative al sotterramento
 
-[^t-7]: Aggiornato dell’all. n. 5 dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^t-9]: Aggiornato dell’all. n. 5 dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 ### 1 Ubicazione
 
@@ -1385,7 +1790,7 @@ Allegato 7[^t-7]
 - 12 I luoghi previsti per il sotterramento di corpi di animali non possono trovarsi in aree con suoli umidi né in aree minacciate da inondazioni, cadute di massi, smottamenti o particolarmente esposte ad erosione.
 - 13 I corpi di animali non possono essere sotterrati nei bacini di raccolta di acque sorgive o in aree importanti per la captazione di acqua potabile.
 
-[^annex7-lvlu1-lvl1-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex7-lvlu1-lvl1-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 
 ### 2 Misure preventive
 
@@ -1409,5 +1814,5 @@ Le seguenti ordinanze sono modificate come segue:
 
 …[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[RU 2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399), [2005 709](https://fedlex.data.admin.ch/eli/oc/2005/81)[4199](https://fedlex.data.admin.ch/eli/oc/2005/551)all. 3 n. II 9, [2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 6, [2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 2, [2008 1189](https://fedlex.data.admin.ch/eli/oc/2008/214)]
+[^annex8-lvlu1-1]: [[RU 2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399); [2005 709](https://fedlex.data.admin.ch/eli/oc/2005/81), [4199](https://fedlex.data.admin.ch/eli/oc/2005/551)all. 3 cifra II n. 9; [2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 6; [2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)cifra II n. 2; [2008 1189](https://fedlex.data.admin.ch/eli/oc/2008/214)]
 [^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372).

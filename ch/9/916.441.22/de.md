@@ -4,31 +4,33 @@ title: Verordnung vom 25. Mai 2011 über tierische Nebenprodukte (VTNP)
 short: VTNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: de
-version: 2022-06-01
+version: 2026-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2011-372-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über tierische Nebenprodukte
 
-(VTNP)**[^t-1]**
+(VTNP)[^t-1]
 
-vom 25. Mai 2011 (Stand am 1. Juni 2022)
+vom 25. Mai 2011 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 10 Absatz 1, 10*a*, 22 und 53 Absatz 1 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-1] (TSG) und die Artikel 29 Absatz 1, 32 Absatz 1 und 39 Absatz 1 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2],
+gestützt auf die Artikel 10 Absatz 1, 10*a*, 22, 42 Absatz 1 Buchstabe c und 53 Absatz 1 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-1], die Artikel 29 Absatz 1, 32 Absatz 1 und 39 Absatz 1 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2] und die Artikel 159*a* und 160 Absätze 1–3 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-3],[^ingress-4]
 
 verordnet:
 
-[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -60,13 +62,13 @@ Sie gilt nicht für:
 - f.[^2-3] …
 - g.
 
-  Stoffwechselprodukte, ausser wenn diese:
+  Magen- und Darminhalt sowie Gülle, ausser wenn diese:[^2-4]
 
   - 1\. in Schlachtbetrieben anfallen, oder
   - 2\. für die Ein- oder Ausfuhr bestimmt sind;
 
 - h. radioaktiv belastete tierische Nebenprodukte, die der Strahlenschutzgesetzgebung unterstehen;
-- i. tierische Nebenprodukte, die im Abfallverzeichnis, das nach Artikel 2 der Verordnung vom 22. Juni 2005[^2-4] über den Verkehr mit Abfällen erlassen wurde, als Sonderabfälle bezeichnet sind.
+- i. tierische Nebenprodukte, die im Abfallverzeichnis, das nach Artikel 2 der Verordnung vom 22. Juni 2005[^2-5] über den Verkehr mit Abfällen erlassen wurde, als Sonderabfälle bezeichnet sind.
 
 <sup>2bis</sup>
 
@@ -74,11 +76,11 @@ Für Speisereste gilt sie, wenn diese:
 
 - a. aus Transportmitteln stammen, die im grenzüberschreitenden Verkehr eingesetzt werden;
 - b. für die Tierernährung bestimmt sind;
-- c.[^2-5] für die Verarbeitung zu Düngemitteln oder für die Verwendung in einer Biogas- oder Kompostierungsanlage bestimmt sind, ausser sie stammen aus Privathaushalten und werden im Rahmen der öffentlichen Sammlung von Siedlungsabfällen mit Grüngut vermischt und in Anlagen entsorgt, auf deren Areal sich keine Tierhaltung befindet.[^2-6]
+- c.[^2-6] für die Verarbeitung zu Dünger oder für die Verwendung in einer Biogas- oder Kompostierungsanlage bestimmt sind, ausser sie stammen aus Privathaushalten und werden im Rahmen der öffentlichen Sammlung von Siedlungsabfällen mit Grüngut vermischt und in Anlagen entsorgt, auf deren Areal sich keine Tierhaltung befindet.[^2-7]
 
 <sup>3</sup>
 
-Für folgende tierische Nebenprodukte gilt zusätzlich die Einschliessungsverordnung vom 9. Mai 2012[^2-7]:[^2-8]
+Für folgende tierische Nebenprodukte gilt zusätzlich die Einschliessungsverordnung vom 9. Mai 2012[^2-8]:[^2-9]
 
 - a. Nebenprodukte, die gentechnisch veränderte oder pathogene Organismen sind und mittels einer medizinisch-mikrobiologischen Diagnostik untersucht worden sind;
 - b. Nebenprodukte, die von Tieren stammen, die gentechnisch verändert oder mit gentechnisch veränderten oder pathogenen Organismen behandelt worden sind.
@@ -88,11 +90,12 @@ Für folgende tierische Nebenprodukte gilt zusätzlich die Einschliessungsverord
 [^2-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^2-2]: Ausdruck gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^2-3]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^2-4]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^2-5]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^2-6]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^2-7]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^2-8]: Fassung gemäss Anhang 5 Ziff. 14 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^2-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^2-5]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^2-6]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^2-7]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^2-8]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^2-9]: Fassung gemäss Anhang 5 Ziff. 14 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 2a
 
@@ -102,9 +105,10 @@ Für folgende tierische Nebenprodukte gilt zusätzlich die Einschliessungsverord
 
 <sup>2</sup> Die Folgeprodukte, die den Endpunkt erreicht haben, sind in Anhang 1*a* aufgeführt.
 
-<sup>3</sup> Die Endpunkte gelten nicht für Folgeprodukte, die als Dünge- oder Futtermittel verwendet oder zu solchen weiterverarbeitet werden, mit Ausnahme von Heimtierfutter.
+<sup>3</sup> Den Endpunkt nicht erreichen können Folgeprodukte, die als Futtermittel oder Dünger verwendet oder dazu weiterverarbeitet werden. Die Ausnahmen sind in Anhang 1*a* aufgeführt.[^2a-2]
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^2a-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 3
 
@@ -120,13 +124,29 @@ Die folgenden Ausdrücke bedeuten:
 - f.[^3-2] *Nutztiere:* Tiere, die vom Menschen gehalten und zur Gewinnung von Lebensmitteln, Wolle, Pelz, Federn, Fellen, Häuten oder sonstigen von Tieren gewonnenen Erzeugnissen zugelassen sind oder anderweitig zu landwirtschaftlichen Zwecken genutzt werden, sowie Equiden;
 - g. *Heimtiere**:* Tiere, die von Menschen gehalten, aber nicht für den menschlichen Verzehr zugelassen oder bestimmt sind;
 - h. *Wassertiere:* Fische der Überklasse Kieferlose (*Agnatha*) und der Klassen Knorpelfische (*Chondrichthyes*) und Knochenfische (*Osteichthyes*) sowie Weichtiere (*Mollusca*) und Krebstiere (*Crustacea*);
-- h<sup>bis</sup>.[^3-3] *verarbeitetes tierisches Protein:* Folgeprodukt, das aus Material der Kategorie 3 gewonnen wird und zur Herstellung von Tierfutter oder Dünger geeignet ist, mit Ausnahme von Blutprodukten, Milch und Milchprodukten, Kolostrum und Kolostrumprodukten, Zentrifugen- und Separatorenschlamm, Gelatine, hydrolysiertem Protein und Dicalciumphosphat sowie Eiern und Eierzeugnissen einschliesslich Eierschalen, Tricalciumphosphat und Kollagen;
-- i.[^3-4] *Fischmehl:* verarbeitetes tierisches Protein von Wassertieren;
+- h<sup>bis</sup>.[^3-3]
+
+  *verarbeitetes tierisches Protein:* Folgeprodukt, das aus tierischen Nebenprodukten der Kategorie 3 gewonnen wird und zur Herstellung von Tierfutter oder Dünger geeignet ist, mit Ausnahme von:
+
+  - 1\. Blutprodukten,
+  - 2\. Milch und Milchprodukten,
+  - 3\. Kolostrum und Kolostrumprodukten,
+  - 4\. Zentrifugen- und Separatorenschlamm,
+  - 5\. Eiern und Eierzeugnissen einschliesslich Eierschalen,
+  - 6\. Kollagen und Gelatine,
+  - 7\. hydrolysiertem Protein,
+  - 8\. Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft;
+
+- i.[^3-4] *Fischmehl:* verarbeitetes Protein von Wassertieren, von anderen gezüchteten wirbellosen Wassertieren und von Seesternen der Art *Asterias rubens*;
 - j. *Blutprodukte:* aus Blut oder Blutfraktionen gewonnene Erzeugnisse wie getrocknetes, gefrorenes oder flüssiges Plasma, getrocknetes Vollblut, getrocknete, gefrorene oder flüssige rote Blutkörperchen, oder Mischungen davon;
 - k. *hydrolysiertes Protein*[^3-5]*:* durch Hydrolyse von tierischen Nebenprodukten gewonnene Polypeptide, Peptide und Aminosäuren sowie Mischungen davon;
 - l. *Kollagen:* aus tierischen Knochen, Häuten, Fellen, Sehnen und Bändern gewonnene Erzeugnisse auf Proteinbasis;
 - m. *Gelatine:* natürliches, lösliches Protein, gelierend oder nicht gelierend, das durch die teilweise Hydrolyse von Kollagen gewonnen wird;
-- n. *Stoffwechselprodukte:* Harn sowie Pansen-, Magen- und Darminhalt;
+- m<sup>bis</sup>.[^3-6] *kanalisierte Verwertung:* Verwertung von tierischen Nebenprodukten in Futtermitteln für Nutztiere, bei der verhindert wird, dass Nutztiere tierische Nebenprodukte einnehmen, die an die jeweilige Tierart nicht verfüttert werden dürfen;
+- m<sup>ter</sup>.[^3-7] *Heimtierfutter:* Futtermittel und Kauspielzeuge tierischer Herkunft für Heimtiere;
+- n.[^3-8] *Magen- und Darminhalt:* Pansen-, Magen- und Darminhalt von Säugetieren und Laufvögeln;
+- n<sup>bis</sup>.[^3-9] *Gülle:* Exkremente und Urin, mit oder ohne Einstreu, von anderen Nutztieren als Wassertieren in Aquakulturbetrieben;
+- n<sup>ter</sup>.[^3-10] *Frass:* Mischung aus Exkrementen von Nutzinsekten, Futtersubstrat, Teilen von Nutzinsekten und toten Eiern, in welcher der Anteil der Nutzinsekten höchstens 5 Prozent des Volumens oder 3 Prozent des Gewichts beträgt;
 - o. *Feststof**f**e**:* tierische Nebenprodukte, die durch Gitter in Abläufen oder einen Vorklärprozess (Flotation oder Filteranlage) aus dem Abwasser von Lebensmittel- oder Entsorgungsbetrieben abgesondert werden;
 - p. *Speisereste:* Küchen- und Speiseabfälle, die aus Einrichtungen stammen, in denen Lebensmittel mit tierischen Bestandteilen für den unmittelbaren Verzehr hergestellt werden, wie private Haushalte, Restaurants, Catering-Einrichtungen und Küchen, einschliesslich Gross- und Haushaltküchen;
 - q. *Imkereiprodukte:* Honig, Bienenwachs, Gelée royale, Propolis und Pollen;
@@ -137,9 +157,14 @@ Die folgenden Ausdrücke bedeuten:
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^3-3]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^3-4]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 25. April 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 [^3-5]: Ausdruck gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3-6]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-7]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-8]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-9]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^3-10]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ## 2. Kapitel: Tierische Nebenprodukte
 
@@ -164,17 +189,18 @@ Tierische Nebenprodukte der Kategorie 1 sind:
   - 2\.[^5-1] von denen das spezifizierte Risikomaterial nach den Artikeln 179*d* Absätze 1 und 1<sup>bis</sup> sowie 180*c* der Tierseuchenverordnung vom 27. Juni 1995[^5-2] (TSV) nicht entfernt worden ist;
 
 - c.[^5-3] spezifiziertes Risikomaterial nach den Artikeln 179*d* Absätze 1 und 1<sup>bis</sup> sowie 180*c* TSV;
-- d. tierische Nebenprodukte von Tieren, denen Stoffe oder Zubereitungen nach Anhang 4 der Tierarzneimittelverordnung vom 18. August 2004[^5-4] verabreicht worden sind;
-- e.[^5-5] tote Wildtiere oder Teile davon, die Anzeichen einer auf Menschen oder Tiere übertragbaren Krankheit aufweisen;
-- f.[^5-6] Feststoffe aus dem Abwasser von Schlachtbetrieben für Rinder, Schafe und Ziegen und von Zerlegebetrieben, in denen spezifiziertes Risikomaterial nach Artikel 179*d* Absatz 1 oder 1<sup>bis</sup> oder 180*c* TSV entfernt wird;
+- d.[^5-4] tierische Nebenprodukte von Tieren, denen Stoffe oder Zubereitungen nach Artikel 10*c* der Tierarzneimittelverordnung vom 18. August 2004[^5-5] (TAMV) verabreicht worden sind;
+- e.[^5-6] tote Wildtiere oder Teile davon, die Anzeichen einer auf Menschen oder Tiere übertragbaren Krankheit aufweisen;
+- f.[^5-7] Feststoffe aus dem Abwasser von Schlachtbetrieben für Rinder, Schafe und Ziegen und von Zerlegebetrieben, in denen spezifiziertes Risikomaterial nach Artikel 179*d* Absatz 1 oder 1<sup>bis</sup> oder 180*c* TSV entfernt wird;
 - g. Speisereste aus Transportmitteln, die im grenzüberschreitenden Verkehr eingesetzt werden.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^5-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^5-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^5-3]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^5-4]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^5-5]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^5-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^5-5]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^5-6]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^5-7]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 6
 
@@ -184,15 +210,19 @@ Tierische Nebenprodukte der Kategorie 2 sind:
 
 - a. Schlachttierkörper oder Teile davon, die nicht zur Kategorie 1 gehören, von der Fleischkontrolle als ungeniessbar bezeichnet worden sind und Anzeichen einer auf Menschen oder Tiere übertragbaren Krankheit aufweisen;
 - b.[^6-1] Tierkörper von Geflügel, das aus kommerziellen Gründen oder im Rahmen der Salmonellenbekämpfung getötet statt geschlachtet wurde;
-- c. Stoffwechselprodukte;
-- d.[^6-2] …
+- c.[^6-2] Magen- und Darminhalt;
+- d.[^6-3] …
 - e. tierische Erzeugnisse, die mit Fremdkörpern vermengt und deshalb nicht genusstauglich sind;
-- f. tierische Nebenprodukte mit Rückständen in Konzentrationen, welche die Grenzwerte nach der Fremd- und Inhaltsstoffverordnung vom 26. Juni 1995[^6-3] überschreiten, oder die aufgrund eines positiven Hemmstofftests aus der Lebensmittelkette ausgeschlossen werden;
-- g. Feststoffe aus anderen Schlachtbetrieben als den in Artikel 5 Buchstabe f genannten.
+- f.[^6-4] tierische Nebenprodukte mit Rückständen in Konzentrationen, welche die Grenzwerte nach den vom Eidgenössischen Departement des Innern (EDI) gestützt auf Artikel 10 Absatz 4 Buchstabe e der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^6-5] (LGV) erlassenen Bestimmungen überschreiten, oder die aufgrund eines positiven Hemmstofftests aus der Lebensmittelkette ausgeschlossen werden;
+- g. Feststoffe aus anderen Schlachtbetrieben als den in Artikel 5 Buchstabe f genannten;
+- h.[^6-6] Gülle und Frass.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^6-2]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^6-3]: [[AS 1995 2893](https://fedlex.data.admin.ch/eli/oc/1995/2893_2893_2893), [2002 955](https://fedlex.data.admin.ch/eli/oc/2002/172), [2005 5749](https://fedlex.data.admin.ch/eli/oc/2005/793), [2008 793](https://fedlex.data.admin.ch/eli/oc/2008/196)[4475](https://fedlex.data.admin.ch/eli/oc/2008/623)[6027](https://fedlex.data.admin.ch/eli/oc/2008/834), [2009 4741](https://fedlex.data.admin.ch/eli/oc/2009/557), [2011 1985](https://fedlex.data.admin.ch/eli/oc/2011/291), [2012 2147](https://fedlex.data.admin.ch/eli/oc/2012/278), [2013 4715](https://fedlex.data.admin.ch/eli/oc/2013/833), [2015 3219](https://fedlex.data.admin.ch/eli/oc/2015/600). [AS 2017 793](https://fedlex.data.admin.ch/eli/oc/2017/151)Art. 12]. Siehe heute: die V des EDI vom 16. Dez. 2016 über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlicher und tierischer Herkunft ([SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)), die Kontaminantenverordnung vom 16. Dez. 2016 ([SR 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)) und die V des EDI vom 16. Dez. 2016 über die Höchstgehalte für Rückstände von pharmakologisch wirksamen Stoffen und von Futtermittelzusatzstoffen in Lebensmitteln tierischer Herkunft ([SR 817.022.13](https://fedlex.data.admin.ch/eli/cc/2017/154)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^6-3]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^6-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^6-5]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^6-6]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 7
 
@@ -226,13 +256,13 @@ Tierische Nebenprodukte der Kategorie 3 sind, sofern sie nicht zur Kategorie 1 o
 
 <sup>2</sup> Tierische Nebenprodukte, die in den Artikeln 5–7 nicht erwähnt sind, fallen in die Kategorie 2.
 
-## 3. Kapitel: Handel und Entsorgung****
+## 3. Kapitel: Handel und Entsorgung
 
 [^chap3-1]
 
 [^chap3-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
-### 1. Abschnitt: Grundsätze, Meldepflicht und Bewilligung, Selbstkontrolle****
+### 1. Abschnitt: Grundsätze, Meldepflicht und Bewilligung, Selbstkontrolle
 
 [^chap3-sec1-1]
 
@@ -272,12 +302,13 @@ Die Meldung muss folgende Informationen beinhalten:
 
 Keine Meldepflicht besteht für:
 
-- a. die Entsorgung von Stoffwechselprodukten, wenn diese dafür nicht ein- oder ausgeführt werden;
+- a.[^10-2] die Entsorgung von Magen- und Darminhalt sowie Gülle, wenn diese dafür nicht ein- oder ausgeführt werden;
 - b. das Vergraben kleiner Tiere auf Privatgrund (Art. 25 Abs. 1 Bst. d);
 - c. den nichtgewerblichen Transport von tierischen Nebenprodukten zur Sammelstelle;
 - d. das Sammeln und Zwischenlagern von tierischen Nebenprodukten, die im eigenen Lebensmittelbetrieb anfallen;
 - e. das Sammeln und Zwischenlagern von Speiseresten am Ort, wo sie anfallen;
-- f. die Abgabe und den Bezug von tierischen Nebenprodukten zur Verwendung nach Artikel 34;
+- f.[^10-3] die Abgabe und den Bezug von tierischen Nebenprodukten zur Verwendung nach Artikel 33*a*;
+- f<sup>bis</sup>.[^10-4] die Verfütterung von Tierkörpern in der eigenen Tierhaltung nach Artikel 33*b*;
 - g. das Verwenden von tierischen Nebenprodukten der Kategorien 2 und 3 für künstlerische Aktivitäten oder zu Diagnose-, Lehr- und Forschungszwecken, wenn die Nebenprodukte dafür nicht ein- oder ausgeführt werden.
 
 <sup>4</sup> Die meldepflichtigen natürlichen und juristischen Personen müssen Namensänderungen, neue oder geänderte Tätigkeitsbereiche, die Aufgabe einer Tätigkeit sowie Umbauten der Anlagen und Betriebe, die sich auf die Hygiene- oder Produktesicherheit auswirken können, der Kantonstierärztin oder dem Kantonstierarzt melden.
@@ -285,18 +316,21 @@ Keine Meldepflicht besteht für:
 <sup>5</sup> Die meldepflichtigen natürlichen und juristischen Personen sowie die von ihnen nach Absatz 2 Buchstabe a bezeichneten Anlagen und Betriebe werden von der Kantonstierärztin oder vom Kantonstierarzt registriert.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 11
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Anlagen und Betriebe nach Anhang 1*b* benötigen eine Bewilligung der Kantonstierärztin oder des Kantonstierarztes.[^11-1]
+<sup>1</sup> Anlagen und Betriebe nach Anhang 1*b* Ziffer 1 benötigen eine Bewilligung der Kantonstierärztin oder des Kantonstierarztes.[^11-1]
 
 <sup>2</sup> Die Bewilligung wird erteilt, wenn die für die betreffende Tätigkeit massgebenden baulichen und betrieblichen Anforderungen nach dieser Verordnung erfüllt sind. Vor der Erteilung muss eine Inspektion an Ort und Stelle durchgeführt werden.
 
 <sup>3</sup> Vorbehalten bleiben weitere durch Bundesrecht vorgeschriebene Bewilligungen und Prüfverfahren.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 12
 
@@ -322,7 +356,7 @@ Keine Meldepflicht besteht für:
 
 <sup>1</sup>
 
-Die Kantonstierärztin oder der Kantonstierarzt gibt die folgenden Daten in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 27. April 2022[^13-2] über Informationssysteme des BLV für die Lebensmittelkette ein:[^13-3]
+Die Kantonstierärztin oder der Kantonstierarzt gibt die folgenden Daten in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 27. April 2022[^13-2] über Informationssysteme des BLV für die Lebensmittelkette (ISLK-V) ein:[^13-3]
 
 - a. für jede registrierte natürliche oder juristische Person: die Registrierungsnummer, den Namen und die Adresse, ihre Tätigkeiten einschliesslich der Kategorien der betroffenen tierischen Nebenprodukte sowie die von ihr bezeichneten Anlagen und Betriebe;
 - b. für jede bewilligte Anlage und jeden bewilligten Betrieb: die Bewilligungsnummer, den Namen und die Adresse der Anlage oder des Betriebs und die darin ausgeübten Tätigkeiten einschliesslich der Kategorien der betroffenen tierischen Nebenprodukte.
@@ -330,32 +364,40 @@ Die Kantonstierärztin oder der Kantonstierarzt gibt die folgenden Daten in das 
 <sup>2</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) kann Vorschriften technischer Art erlassen über die Art und das Format der Einträge nach Absatz 1.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^13-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^13-3]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^13-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^13-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 13a
+
+**Listen über die Registrierungen und Bewilligungen**[^13a-1]
+
+Das BLV führt Listen der registrierten natürlichen und juristischen Personen sowie der bewilligten Anlagen und Betriebe und veröffentlicht sie.
+
+[^13a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 14
 
 **Entzug der Bewilligung und Verbot des Handels oder der Entsorgung[^14-1]**
 
-Werden im Rahmen der amtlichen Kontrollen schwerwiegende Mängel festgestellt, so kann die Kantonstierärztin oder der Kantonstierarzt die Bewilligung sistieren oder entziehen und registrierten natürlichen und juristischen Personen den Handel mit tierischen Nebenprodukten oder deren Entsorgung vorübergehend oder dauerhaft verbieten. Sie oder er berücksichtigt dabei namentlich:[^14-2]
+Werden im Rahmen der amtlichen Kontrollen schwerwiegende Mängel festgestellt oder sind angeordnete Massnahmen wirkungslos geblieben, so kann die Kantonstierärztin oder der Kantonstierarzt die Bewilligung sistieren oder entziehen und registrierten natürlichen oder juristischen Person den Handel mit tierischen Nebenprodukten oder deren Entsorgung vorübergehend oder dauerhaft verbieten. Sie oder er berücksichtigt dabei namentlich:[^14-2]
 
 - a. die Art und den Schweregrad der Mängel im Hinblick auf Gefahren für die Gesundheit von Menschen und Tieren;
 - b. ob zu erwarten ist, dass die Mängel innerhalb einer vertretbaren Frist behoben werden können.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^14-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 15
 
 **Selbstkontrolle**
 
-<sup>1</sup> Registrierte natürliche und juristische Personen müssen ein Kontrollverfahren erstellen, dokumentieren und kontinuierlich anwenden, das gewährleistet, dass die Vorgaben dieser Verordnung eingehalten werden. Für Anlagen und Betriebe nach Anhang 1*b* Ziffern 1, 4 und 5 muss das Kontrollverfahren nach den in Anhang 2 festgelegten Grundsätzen der Selbstkontrolle erstellt, dokumentiert und angewendet werden.[^15-1]
+<sup>1</sup> Registrierte natürliche und juristische Personen müssen ein Kontrollverfahren erstellen, dokumentieren und kontinuierlich anwenden, das gewährleistet, dass die Vorgaben dieser Verordnung eingehalten werden. Für bewilligte Anlagen und Betriebe nach Anhang 1*b* Ziffern 11, 14 und 15 muss das Kontrollverfahren nach den in Anhang 2 festgelegten Grundsätzen der Selbstkontrolle erstellt, dokumentiert und angewendet werden.[^15-1]
 
 <sup>2</sup> Den zuständigen Kontrollorganen des Bundes und der Kantone ist Einsicht in die Dokumentation zu gewähren. Die Unterlagen sind drei Jahre aufzubewahren.
 
 <sup>3</sup> Entsprechen die Ergebnisse der Kontrolle nicht den Vorschriften, so sind unverzüglich die erforderlichen Massnahmen einzuleiten. In schwerwiegenden Fällen, wie der Anlieferung von tierischen Nebenprodukten einer Kategorie, für welche die betreffende Anlage oder der betreffende Betrieb keine Bewilligung hat, oder wie bei Abweichungen im Sterilisationsprozess, ist die amtliche Tierärztin oder der amtliche Tierarzt zu informieren.[^15-2]
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 [^15-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 ### 2. Abschnitt: Anlagen
@@ -380,9 +422,29 @@ Werden im Rahmen der amtlichen Kontrollen schwerwiegende Mängel festgestellt, s
 
 **Meldung der Entsorgungsmenge**[^17-1]
 
-Registrierte natürliche und juristische Personen müssen der Kantonstierärztin oder dem Kantonstierarzt die Gesamtmenge der in ihren Anlagen in einem Jahr entsorgten tierischen Nebenprodukte melden. Die Meldung muss bis am 31. Januar des Folgejahres, aufgeschlüsselt nach Warengruppen, erfolgen.
+<sup>1</sup> Registrierte natürliche und juristische Personen müssen der Kantonstierärztin oder dem Kantonstierarzt die Gesamtmenge der in ihren Anlagen in einem Jahr entsorgten tierischen Nebenprodukte melden.
 
-[^17-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+<sup>2</sup>
+
+Von der Meldepflicht ausgenommen ist die Entsorgung:
+
+- a.
+
+  der folgenden tierischen Nebenprodukte:
+
+  - 1\. Häute und Felle,
+  - 2\. Magen- und Darminhalt, Gülle und Frass*,*
+  - 3\. Speisereste,
+  - 4\. Produkte nach Artikel 7 Buchstabe d,
+  - 5\. bei Umgebungstemperatur lagerfähige Folgeprodukte;
+
+- b. einer Gesamtmenge von weniger als 1000 kg pro Jahr.
+
+<sup>3</sup> Die Kantonstierärztin oder der Kantonstierarzt kann die Meldung der Entsorgungsmenge ausserhalb der Meldepflicht verfügen.
+
+<sup>4</sup> Die Meldung muss nach Warengruppen aufgeschlüsselt werden. Sie ist bis zum 31. Januar des Folgejahres zu erstatten.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 18
 
@@ -406,9 +468,9 @@ Registrierte natürliche und juristische Personen müssen der Kantonstierärztin
 
 **Kennzeichnungen und Begleitpapiere**
 
-<sup>1</sup> Tierische Nebenprodukte müssen so gekennzeichnet sein, dass ersichtlich ist, welcher Kategorie sie zugeordnet sind, ausser im Rahmen von nicht meldepflichtigen Tätigkeiten (Art. 10 Abs. 3).[^20-1]
+<sup>1</sup> Tierische Nebenprodukte müssen so gekennzeichnet sein, dass ersichtlich ist, welcher Kategorie sie zugeordnet sind, ausser im Rahmen von nicht meldepflichtigen Tätigkeiten nach Artikel 10 Absatz 3 Buchstaben a–c und e–g.[^20-1]
 
-<sup>2</sup> Während des Transports muss den tierischen Nebenprodukten ein Begleitpapier oder ein Entscheid der Fleischkontrolle nach Anhang 4 Ziffer 3 beiliegen. Davon ausgenommen sind Transporte für nicht meldepflichtige Tätigkeiten (Art. 10 Abs. 3) sowie Transporte von Speiseresten.[^20-2]
+<sup>2</sup> Während des Transports muss den tierischen Nebenprodukten ein Begleitpapier oder ein Entscheid der Fleischkontrolle nach Anhang 4 Ziffer 3 beiliegen. Davon ausgenommen sind Transporte für nicht meldepflichtige Tätigkeiten nach Artikel 10 Absatz 3 Buchstaben a–c und e–g sowie Transporte von Speiseresten.[^20-2]
 
 <sup>3</sup>
 
@@ -424,8 +486,8 @@ Für Folgeprodukte gelten die Anforderungen nach den Absätzen 1 und 2:
 
 <sup>6</sup> Die Anforderungen an die Kennzeichnung und die Begleitpapiere finden sich in Anhang 4 Ziffern 1 und 3.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^20-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ### 4. Abschnitt: Zulässige Entsorgungsarten
 
@@ -464,16 +526,16 @@ Tierkörper und Teile davon dürfen als Futter für vom Menschen gehaltene Fleis
 - a.[^22-2] Wiederkäuern, die älter als 12 Monate sind;
 - b. gentechnisch veränderten Tieren;
 - c. Heimtieren;
-- d.[^22-3] Tieren, denen Stoffe oder Zubereitungen nach Anhang 4 der Tierarzneimittelverordnung vom 18. August 2004[^22-4] verabreicht worden sind oder bei denen Rückstandshöchstgehalte nach den vom Eidgenössischen Departement des Innern gestützt auf Artikel 10 Absatz 4 Buchstabe e der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^22-5] erlassenen Bestimmungen festgestellt wurden;
+- d.[^22-3] Tieren, denen Stoffe oder Zubereitungen nach Artikel 10*c* TAMV[^22-4] verabreicht worden sind oder bei denen eine Überschreitung der Rückstandshöchstgehalte nach den vom EDI gestützt auf Artikel 10 Absatz 4 Buchstabe e LGV[^22-5] erlassenen Bestimmungen festgestellt wurde;
 - e. Tieren, die radioaktiv kontaminiert sein könnten.
 
 <sup>3</sup> Die amtliche Tierärztin oder der amtliche Tierarzt kann die Verwendung von tierischen Nebenprodukten der Kategorie 1 für künstlerische Aktivitäten oder zu Diagnose-, Lehr- und Forschungszwecken sowie zu taxidermischen Zwecken oder zur Herstellung von Trophäen bewilligen, sofern weder für Menschen noch für Tiere ein Gesundheitsrisiko besteht.
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^22-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^22-3]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^22-4]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^22-5]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^22-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^22-4]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^22-5]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 23
 
@@ -489,15 +551,17 @@ Tierische Nebenprodukte der Kategorie 2 sind zu entsorgen:
   nach Drucksterilisation gemäss Anhang 5 durch Verwertung:
 
   - 1\. in einer Biogas- oder Kompostierungsanlage,
-  - 2\. des ausgeschmolzenen Fettes in organischen Düngern oder in anderen technischen Erzeugnissen, ausgenommen in pharmazeutischen, kosmetischen oder medizinischen Produkten,
-  - 3\.[^23-1] der protein- und knochenhaltigen Materialien in organischen Düngern.
+  - 2\.[^23-1] des ausgeschmolzenen Fettes in Düngern oder in anderen technischen Erzeugnissen, ausgenommen in pharmazeutischen, kosmetischen oder medizinischen Produkten,
+  - 3\.[^23-2] der Fleisch- und Knochenmehle in Düngern.
 
-<sup>2</sup> Stoffwechselprodukte dürfen direkt in einer Biogas- oder Kompostierungsanlage verwertet oder für die Herstellung technischer Erzeugnisse verwendet werden. Kleinstmengen dürfen auch im Herkunftsbetrieb des Schlachttieres kompostiert werden.
+<sup>2</sup> Magen- und Darminhalt sowie Gülle dürfen direkt in einer Biogas- oder Kompostierungsanlage verwertet oder für die Herstellung technischer Erzeugnisse verwendet werden. Kleinstmengen dürfen auch im Herkunftsbetrieb des Schlachttieres kompostiert werden.[^23-3]
 
-<sup>3</sup> Tierische Nebenprodukte mit Rückständen oder einem positiven Hemmstofftest nach Artikel 6 Buchstabe f dürfen auch in einer öffentlichen Abwasserreinigungsanlage entsorgt oder, falls es sich um Milch oder Kolostrum handelt, in eine Jauchegrube eingeleitet werden. Ist die Entsorgung auf anderem Weg nicht möglich, so kann die Kantonstierärztin oder der Kantonstierarzt gestatten, dass die Milch oder das Kolostrum nach einer Verdünnung um mindestens den Faktor 4 direkt auf landwirtschaftliche Flächen ausgebracht wird, sofern dadurch weder für Menschen noch Tiere ein übermässiges Gesundheitsrisiko entsteht.[^23-2]
+<sup>3</sup> Tierische Nebenprodukte mit Rückständen oder einem positiven Hemmstofftest nach Artikel 6 Buchstabe f dürfen auch in einer öffentlichen Abwasserreinigungsanlage entsorgt oder, falls es sich um Milch oder Kolostrum handelt, in eine Jauchegrube eingeleitet werden. Ist die Entsorgung auf anderem Weg nicht möglich, so kann die Kantonstierärztin oder der Kantonstierarzt gestatten, dass die Milch oder das Kolostrum nach einer Verdünnung um mindestens den Faktor 4 direkt auf landwirtschaftliche Flächen ausgebracht wird, sofern dadurch weder für Menschen noch Tiere ein übermässiges Gesundheitsrisiko entsteht.[^23-4]
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^23-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^23-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^23-4]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 
 #### Art. 24
 
@@ -534,29 +598,56 @@ Vergraben werden dürfen:
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 
+#### Art. 25a
+
+**Kremation von Tieren**[^25a-1]
+
+<sup>1</sup>
+
+In Tierkrematorien dürfen kremiert werden:
+
+- a. Heimtiere und Equiden;
+- b.
+
+  andere Tiere aus Tierhaltungen in der Schweiz, wenn dem Tierkrematorium vorgängig Folgendes durch die Bestandestierärztin oder den Bestandestierarzt schriftlich bestätigt wird:
+
+  - 1\. die Todesursache,
+  - 2\. dass keine Anzeichen einer Tierseuche bestehen.
+
+<sup>2</sup> Nicht kremiert werden dürfen Tiere, die Anzeichen einer Tierseuche aufweisen oder Sperrmassnahmen nach den Artikeln 66–71 TSV[^25a-2] unterstehen.
+
+<sup>3</sup> Die Tierkrematorien müssen über die Herkunft, Art und Anzahl der kremierten Tiere Buch führen.
+
+[^25a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^25a-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+
 #### Art. 26
 
 **Entsorgung von Verbrennungs- und Fermentationsrückständen**
 
 Die Entsorgung oder Verwertung von Rückständen aus Verbrennungs-, Biogas- und Kompostierungsanlagen richtet sich nach der Umweltschutz- und der Landwirtschaftsgesetzgebung, insbesondere nach der Abfallverordnung vom 4. Dezember 2015[^26-1] (VVEA)[^26-2], der Verordnung vom 22. Juni 2005[^26-3] über den Verkehr mit Abfällen, der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^26-4] und der Dünger-Verordnung vom 10. Januar 2001[^26-5].
 
-[^26-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
-[^26-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
-[^26-3]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^26-4]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^26-5]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^26-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
+[^26-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
+[^26-3]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^26-4]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^26-5]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 
-## 4. Kapitel: Verwendung von tierischen Nebenprodukten zur Fütterung sowie zur Herstellung von Dünger und von technischen Erzeugnissen****
+## 4. Kapitel: Verwendung von tierischen Nebenprodukten zur Fütterung sowie zur Herstellung und Verwendung von Dünger und von technischen Erzeugnissen
 
 [^chap4-1]
 
-[^chap4-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^chap4-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-### 1. Abschnitt: Verbote und Ausnahmen
+### 1. Abschnitt: Verfütterungsverbote
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 27
 
-**Verbote**
+**…[^27-1]**
 
 <sup>1</sup> Tiere, ausgenommen Wassertiere, dürfen nicht mit Protein gefüttert werden, das von Tieren derselben Art stammt.
 
@@ -569,90 +660,130 @@ An Nutztiere dürfen nicht verfüttert werden:
 - a. Speisereste;
 - b. tierisches Protein;
 - c. Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft;
-- d. Futtermittel, die Bestandteile nach den Buchstaben a–c enthalten.
+- d. Futtermittel, die Bestandteile nach den Buchstaben a–c enthalten;
+- e.[^27-2] Grünfutter von Flächen, auf die Dünger ausgebracht wurde, der andere tierische Nebenprodukte enthält als Magen- und Darminhalt, Gülle oder die tierischen Nebenprodukte nach Artikel 28 Absatz 1, es sei denn, der Schnitt oder die Beweidung erfolgt nach einer Wartefrist von mindestens 21 Tagen.
 
-<sup>4</sup> Das BLV kann nach Anhörung des Bundesamtes für Landwirtschaft für den Vollzug der Absätze 1–3 in einer Verordnung technische Methoden und Schwellenwerte sowie Kriterien zur Verhinderung von Kreuzkontaminationen zwischen den Futtermitteln für verschiedene Tierarten festlegen.[^27-1]
+<sup>4</sup> Das EDI kann nach Anhörung des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung für den Vollzug der Absätze 1–3 Methoden und Schwellenwerte festlegen.[^27-3]
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^27-1]: Aufgehoben durch Ziff. I der V vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^27-2]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^27-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+### 1*a*. Abschnitt: Allgemeine Ausnahmen vom Verbot der Verfütterung tierischer Nebenprodukte an Nutztiere
+
+[^chap4-sec1a-1]
+
+[^chap4-sec1a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 28
 
-**Ausnahmen**
-
-Abweichend von Artikel 27 dürfen verfüttert werden:
-
-- a.[^28-1] Milch und Milchprodukte, Kolostrum, Zentrifugen- und Separatorenschlamm aus der Milchverarbeitung nach Anhang 5 Ziffer 31a, Eier und Eierzeugnisse;
-- b.[^28-2] Kollagen und Gelatine von Nichtwiederkäuern;
-- c. hydrolisiertes Protein von Nichtwiederkäuern und aus Häuten und Fellen von Wiederkäuern;
-- d.[^28-3] ausgeschmolzene Fette aus tierischen Nebenprodukten der Kategorie 3 nach Artikel 7 Buchstaben a und d–f nach einer Verarbeitung gemäss Anhang 5 Ziffer 31.
-
-[^28-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^28-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^28-3]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-
-### 2. Abschnitt: Fütterung von Nutztieren
-
-#### Art. 29
-
-**Verfütterung von Fischmehl an Nichtwiederkäuer und an Kälber**[^29-1]
-
-Abweichend von Artikel 27 Absatz 3 darf Fischmehl als Bestandteil von Futtermitteln für Nichtwiederkäuer und von pulverförmigen Milchaustauschfuttermitteln für Kälber verwendet werden, wenn:
-
-- a. es nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird;
-- b. es als Bestandteil von Futtermitteln für Nichtwiederkäuer auf allen Stufen von der Gewinnung bis zum Zeitpunkt der Verfütterung in Einrichtungen und Anlagen, die nicht für Futtermittel von Wiederkäuern benutzt werden, gesammelt, gelagert, verarbeitet und transportiert wird;
-- c. es als Bestandteil von pulverförmigen Milchaustauschfuttermitteln für Kälber auf allen Stufen von der Gewinnung bis zum Zeitpunkt der Verfütterung in Einrichtungen und Anlagen, die nicht für Futtermittel von älteren Rindern und anderen Tierarten benutzt werden, gesammelt, gelagert, verarbeitet und transportiert wird;
-- d. der Herstellerbetrieb des Futtermittels der amtlichen Futtermittelkontrolle von Agroscope gemeldet ist;
-- e. der Herstellerbetrieb über die Verwendung des Fischmehls Buch führt; und
-- f. die Futtermittel, mit Ausnahme der pulverförmigen Milchaustauschfuttermitteln für Kälber, nur in Tierhaltungen gelagert und verfüttert werden, in denen keine Wiederkäuer gehalten werden.
-
-[^29-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-
-#### Art. 30
-
-**Verfütterung von Blutprodukten an Nichtwiederkäuer und an Wassertiere**[^30-1]
-
-Abweichend von Artikel 27 dürfen Blutprodukte als Bestandteil von Futtermitteln für Nichtwiederkäuer und Wassertiere verwendet werden, wenn:
-
-- a. sie nicht von Wiederkäuern stammen;
-- b. sie aus Schlachtbetrieben stammen, in denen keine Wiederkäuer geschlachtet werden oder in denen die Schlachtung von Wiederkäuern räumlich getrennt stattfindet;
-- c. sie von Tieren stammen, die aufgrund einer amtlichen Schlachttieruntersuchung zur Schlachtung zugelassen worden sind;
-- d. sie nach Anhang 5 Ziffer 30*a* hergestellt werden und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird;
-- e. sie auf allen Stufen von der Gewinnung bis zum Zeitpunkt der Verfütterung in Einrichtungen und Anlagen, die nicht für Futtermittel von Wiederkäuern benutzt werden, gesammelt, gelagert, verarbeitet und transportiert werden;
-- f. der Herstellerbetrieb des Futtermittels der amtlichen Futtermittelkontrolle von Agroscope gemeldet ist;
-- g. der Herstellerbetrieb über die Verwendung der Blutprodukte Buch führt; und
-- h. die Futtermittel nur in Tierhaltungen gelagert und verfüttert werden, in denen keine Wiederkäuer gehalten werden.
-
-[^30-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-
-#### Art. 31
-
-**Verfütterung von verarbeitetem tierischem Protein von Nichtwiederkäuern an Wassertiere: allgemeine Regelung**[^31-1]
-
-Abweichend von Artikel 27 Absatz 3 darf verarbeitetes tierisches Protein von Nichtwiederkäuern, mit Ausnahme von solchem von Insekten und von Fischmehl, als Bestandteil von Futtermitteln für Wassertiere verwendet werden, wenn:
-
-- a. es aus tierischen Nebenprodukten der Kategorie 3 nach Artikel 7 Buchstabe a, e oder f stammt;
-- b. es nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird;
-- c. es auf allen Stufen von der Gewinnung bis zum Zeitpunkt der Verfütterung in Einrichtungen und Anlagen, die nicht für Futtermittel von Wiederkäuern benutzt werden, gesammelt, gelagert, verarbeitet und transportiert wird;
-- d. der Herstellerbetrieb des Futtermittels der amtlichen Futtermittelkontrolle von Agroscope gemeldet ist;
-- e. der Herstellerbetrieb über die Verwendung des verarbeiteten tierischen Proteins Buch führt;
-- f. die Futtermittel in keinen anderen Tierhaltungen gelagert und verfüttert werden als in registrierten Aquakulturbetrieben nach Artikel 6 Buchstabe o<sup>bis</sup> TSV[^31-2]; und
-- g. andere Nutztiere, die auf dem Areal des Aquakulturbetriebs gehalten werden, weder direkt noch indirekt mit den Futtermitteln für Wassertiere in Kontakt kommen.
-
-[^31-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^31-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-
-#### Art. 31a
-
-**Verfütterung von verarbeitetem tierischem Protein von Nichtwiederkäuern an Wassertiere: Regelung für verarbeitetes tierisches Protein von Insekten**[^31a-1]
+[^28-1]
 
 <sup>1</sup>
 
-Abweichend von Artikel 27 Absatz 3 darf verarbeitetes tierisches Protein von Insekten als Bestandteil von Futtermitteln für Wassertiere verwendet werden, wenn:
+An alle Nutztiere verfüttert werden dürfen:
 
-- a. es aus tierischen Nebenprodukten nach Artikel 7 Buchstabe d stammt;
+- a. Milch und Milchprodukte, Kolostrum, Zentrifugen- und Separatorenschlamm aus der Milchverarbeitung;
+- b. Eier und Eierzeugnisse;
+- c. Kollagen und Gelatine von Nichtwiederkäuern;
+- d. hydrolisiertes Protein von Nichtwiederkäuern und aus Häuten und Fellen von Wiederkäuern;
+- e. ausgeschmolzene Fette.
+
+<sup>2</sup> Nur an Nichtwiederkäuer verfüttert werden dürfen Kollagen und Gelatine von Wiederkäuern.
+
+<sup>3</sup>
+
+Die tierischen Nebenprodukte nach den Absätzen 1 und 2 müssen:
+
+- a. aus tierischen Nebenprodukten der Kategorie 3 bestehen oder hergestellt werden, die im Rahmen der Primärproduktion oder der Gewinnung oder Herstellung von Lebensmitteln oder Futtermitteln anfallen;
+- b. die jeweils anwendbaren Kriterien nach Anhang 5 Ziffern 30–38 erfüllen.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+### 1*b*. Abschnitt: Ausnahmen für Verfütterungsversuche
+
+[^chap4-sec1b-1]
+
+[^chap4-sec1b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 28a
+
+Das BLV kann Ausnahmen von den Verboten nach Artikel 27 für befristete Verfütterungsversuche bewilligen, wenn die Anforderungen nach dieser Verordnung so weit wie möglich erfüllt sind und der Versuch mit den anwendbaren internationalen Normen und völkerrechtlichen Verträgen vereinbar ist.
+
+### 2. Abschnitt: Ausnahmen vom Verbot der Verfütterung tierischer Nebenprodukte an Nutztiere bei kanalisierter Verwertung
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 29
+
+**Verfütterung von Fischmehl an Nichtwiederkäuer und an nicht abgesetzte Wiederkäuer**
+
+Bei kanalisierter Verwertung darf Fischmehl als Bestandteil der folgenden Futtermittel verwendet werden, wenn die nachstehenden Voraussetzungen erfüllt sind:
+
+- a.
+
+  von Futtermitteln für Nichtwiederkäuer, wenn:
+
+  - 1\. das Fischmehl nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird, und
+  - 2\. die Trennung entlang der Futtermittelkette nach Artikel 32*a* sichergestellt wird;
+
 - b.
 
-  die tierischen Nebenprodukte von einer der folgenden Insektenarten stammen:
+  von pulverförmigem Milchaustauschfuttermittel für nicht abgesetzte Wiederkäuer, wenn:
+
+  - 1\. die Voraussetzungen nach Buchstabe a erfüllt sind, und
+  - 2\. das Milchaustauschfuttermittel in trockener Form gehandelt und nach Auflösung in einer Flüssigkeit an nicht abgesetzte Wiederkäuer als Ergänzung oder Ersatz für postkolostrale Milch vor Ende des Absetzens verfüttert wird.
+
+#### Art. 30
+
+**Verfütterung von Blutprodukten von Nichtwiederkäuern an Nichtwiederkäuer**
+
+Bei kanalisierter Verwertung dürfen Blutprodukte von Nichtwiederkäuern als Bestandteil von Futtermitteln für Nichtwiederkäuer verwendet werden, wenn:
+
+- a. das Blut von Tieren stammt, die aufgrund einer amtlichen Schlachttieruntersuchung zur Schlachtung zugelassen worden sind;
+- b. das Blutprodukt nach Anhang 5 Ziffer 30*a* hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird; und
+- c. die Trennung entlang der Futtermittelkette nach Artikel 32*a* sichergestellt wird.
+
+#### Art. 30a
+
+**Verfütterung von verarbeitetem Protein von Schweinen an Geflügel und an Wassertiere in Aquakulturbetrieben**
+
+Bei kanalisierter Verwertung darf verarbeitetes Protein von Schweinen als Bestandteil von Futtermitteln für Geflügel und von Futtermitteln für Wassertiere in Aquakulturbetrieben verwendet werden, wenn:
+
+- a. das Rohmaterial aus Nebenprodukten von Schweinen der Kategorie 3 nach Artikel 7 Buchstabe a, e oder f besteht;
+- b. das verarbeitete tierische Protein nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird; und
+- c. die Trennung entlang der Futtermittelkette nach Artikel 32*a* sichergestellt wird.
+
+#### Art. 30b
+
+**Verfütterung von verarbeitetem Protein von Geflügel an Schweine und an Wassertiere in Aquakulturbetrieben**
+
+Bei kanalisierter Verwertung darf verarbeitetes Protein von Geflügel als Bestandteil von Futtermitteln für Schweine und von Futtermitteln für Wassertiere in Aquakulturbetrieben verwendet werden, wenn:
+
+- a. das Rohmaterial aus Nebenprodukten von Geflügel der Kategorie 3 nach Artikel 7 Buchstabe a, e oder f besteht;
+- b. das verarbeitete tierische Protein nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird; und
+- c. die Trennung entlang der Futtermittelkette nach Artikel 32*a* sichergestellt wird.
+
+#### Art. 31
+
+**Verfütterung von gemischtem verarbeitetem Protein von Nichtwiederkäuern an Wassertiere in Aquakulturbetrieben**
+
+Bei kanalisierter Verwertung darf gemischtes verarbeitetes Protein von mehreren Nichtwiederkäuerarten als Bestandteil von Futtermitteln für Wassertiere in Aquakulturbetrieben verwendet werden, wenn die Anforderungen nach den Artikeln 30*a* und 30*b* sinngemäss erfüllt sind.
+
+#### Art. 31a
+
+**Verfütterung von verarbeitetem Protein von Nutzinsekten an Geflügel, an Schweine und an Wassertiere in Aquakulturbetrieben**
+
+<sup>1</sup>
+
+Bei kanalisierter Verwertung darf verarbeitetes Protein von Nutzinsekten als Bestandteil von Futtermitteln für Geflügel, von Futtermitteln für Schweine und von Futtermitteln für Wassertiere in Aquakulturbetrieben verwendet werden, wenn:
+
+- a. das Rohmaterial aus Nebenprodukten von Nutzinsekten der Kategorie 3 nach Artikel 7 Buchstaben d–f besteht;
+- b.
+
+  die tierischen Nebenprodukte aus der Primärproduktion einer der folgenden Insektenarten stammen:
 
   - 1\. schwarze Soldatenfliege (*Hermetia illucens*),
   - 2\. gelber Mehlkäfer (*Tenebrio molitor*),
@@ -660,55 +791,162 @@ Abweichend von Artikel 27 Absatz 3 darf verarbeitetes tierisches Protein von Ins
   - 4\. Heimchen oder Hausgrille (*Acheta domesticus*),
   - 5\. Kurzflügelgrille oder südliche Hausgrille (*Gryllodes sigillatus*),
   - 6\. Steppengrille (*Gryllus assimilis*),
-  - 7\.[^31a-2] Stubenfliege (*Musca domestica*);
+  - 7\. Stubenfliege (*Musca domestica*),
+  - 8\. Seidenspinner *(Bombyx mori)*;
 
 - c. die Insektenlarven ausschliesslich mit Produkten nach Absatz 2 gefüttert werden;
-- d. es nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird;
-- e. es auf allen Stufen von der Gewinnung bis zum Zeitpunkt der Verfütterung in Einrichtungen und Anlagen, die nicht für Futtermittel von Wiederkäuern benutzt werden, gesammelt, gelagert, verarbeitet und transportiert wird;
-- f. der Herstellerbetrieb des Futtermittels der amtlichen Futtermittelkontrolle von Agroscope gemeldet ist;
-- g. der Herstellerbetrieb über die Verwendung des verarbeiteten tierischen Proteins Buch führt;
-- h. die Futtermittel in keinen anderen Tierhaltungen gelagert und verfüttert werden als in registrierten Aquakulturbetrieben nach Artikel 6 Buchstabe o<sup>bis</sup> TSV[^31a-3]; und
-- i. andere Nutztiere, die auf dem Areal des Aquakulturbetriebs gehalten werden, weder direkt noch indirekt mit den Futtermitteln für Wassertiere in Kontakt kommen.
+- d. das verarbeitete tierische Protein nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird; und
+- e. die Trennung entlang der Futtermittelkette nach Artikel 32*a* sichergestellt wird.
 
 <sup>2</sup>
 
 Den Insektenlarven dürfen pflanzliche Substrate sowie die folgenden tierischen Nebenprodukte verfüttert werden:
 
-- a. Erzeugnisse nach Artikel 28;
-- b. Blutprodukte von Nichtwiederkäuern;
-- c. Di- und Tricalciumphosphat;
-- d. Fischmehl.
-
-[^31a-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^31a-2]: Eingefügt durch Anhang Ziff. 2 der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^31a-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+- a. tierische Nebenprodukte nach Artikel 28;
+- b. Fischmehl;
+- c. Blutprodukte von Nichtwiederkäuern;
+- d. Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft.
 
 #### Art. 32
 
-**Verfütterung von Dicalciumphosphat und Tricalciumphosphat an Nichtwiederkäuer**[^32-1]
+**Verfütterung von Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft an Nichtwiederkäuer**
 
-Abweichend von Artikel 27 Absatz 3 dürfen Dicalciumphosphat und Tricalciumphosphat als Bestandteil von Futtermitteln für Nichtwiederkäuer verwendet werden, wenn:
+Bei kanalisierter Verwertung dürfen Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft als Bestandteil von Futtermitteln für Nichtwiederkäuer verwendet werden, wenn:
 
-- a. sie aus tierischen Nebenprodukten der Kategorie 3 stammen;
+- a. das Rohmaterial aus tierischen Nebenprodukten der Kategorie 3 nach Artikel 7 Buchstaben a und c–f besteht;
 - b. sie entsprechend den Verarbeitungsmethoden nach Anhang 5 hergestellt wurden;
-- c. sie auf allen Stufen von der Gewinnung bis zum Zeitpunkt der Verfütterung in Einrichtungen und Anlagen, die nicht für Futtermittel von Wiederkäuern benutzt werden, gesammelt, gelagert, verarbeitet und transportiert werden;
-- d. der Herstellerbetrieb des Futtermittels der amtlichen Futtermittelkontrolle von Agroscope gemeldet ist;
-- e. der Herstellerbetrieb über die Verwendung von Dicalciumphosphat und Tricalciumphosphat Buch führt;
-- f. die Futtermittel, in denen sie enthalten sind, insgesamt weniger als 10 Prozent Phosphor enthalten; und
-- g. die Futtermittel nur in Tierhaltungen gelagert werden, in denen keine Wiederkäuer gehalten werden.
+- c. die Futtermittel, in denen sie enthalten sind, insgesamt weniger als 10 Prozent Phosphor enthalten; und
+- d. die Trennung entlang der Futtermittelkette nach Artikel 32*a* sichergestellt wird.
 
-[^32-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+### 2*a*. Abschnitt: Technische Anforderungen bei kanalisierter Verwertung
+
+[^chap4-sec2a-1]
+
+[^chap4-sec2a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 32a
 
-**Anforderungen an die Trennung entlang der Futtermittelketten für unterschiedliche Tierarten**[^32a-1]
+**Anforderungen an die Trennung entlang der Futtermittelkette**[^32a-1]
 
-<sup>1</sup> Für die Anforderungen an die Trennung entlang der Futtermittelketten nach den Artikeln 29 Buchstaben b, c und f, 30 Buchstaben b, e und h, 31 Buchstaben c, f und g, 31*a* Buchstaben e, h und i sowie 32 Buchstaben c und g gelten die Bestimmungen nach Anhang IV Kapitel III und IV sowie Kapitel V Abschnitte B und C der Verordnung (EG) Nr. 999/2001[^32a-2].
+<sup>1</sup> Das EDI regelt die Anforderungen an die Trennung entlang der Futtermittelkette bei kanalisierter Verwertung.
 
-<sup>2</sup> Im Rahmen der Verordnung (EG) Nr. 999/2001 kann das BLV in einer Verordnung Massnahmen technischer Art festlegen, um eine Kreuzkontamination zwischen den Futtermitteln zu verhindern.
+<sup>2</sup>
 
-[^32a-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^32a-2]: Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien, ABl. L 147 vom 31.5.2001, S. 1; zuletzt geändert durch Verordnung (EU) 2017/894 vom 24. Mai 2017, ABl. L 138 vom 25.5.2017, S. 117.
+Es achtet dabei darauf, dass auf folgenden Stufen der kanalisierten Verwertung Kreuzkontaminationen verhindert werden:
+
+- a. Gewinnung von tierischen Nebenprodukten;
+- b. Verarbeitung von tierischen Nebenprodukten;
+- c. Herstellung von Futtermitteln mit verarbeiteten tierischen Nebenprodukten;
+- d. Transport und Lagerung der Produkte nach den Buchstaben a–c;
+- e. Verwendung und Lagerung von Futtermitteln mit verarbeiteten tierischen Nebenprodukten in Betrieben der Primärproduktion.
+
+[^32a-1]: Eingefügt durch Ziff. I der V vom 25. April 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 32b
+
+**Transport und Lagerung**[^32b-1]
+
+<sup>1</sup> Wer bei kanalisierter Verwertung alternierend unterschiedliche tierische Nebenprodukte oder Futtermittel in loser Form transportiert und lagert, die nicht an die jeweils andere Tierart verfüttert werden dürfen, muss die Fahrzeuge und Einrichtungen nach einem dokumentierten Verfahren reinigen, welches Kreuzkontaminationen verhindert.
+
+<sup>2</sup>
+
+Das Konzept zur Reinigung muss der folgenden Behörde im Voraus zur Genehmigung unterbreitet werden:
+
+- a. für den Transport bis zu den Futtermittelbetrieben und die Lagerung vor den Futtermittelbetrieben: der zuständigen kantonalen Behörde;
+- b. für den Transport und die Lagerung ab den Futtermittelbetrieben: der amtlichen Futtermittelkontrolle.
+
+<sup>3</sup> Über die durchgeführten Reinigungen sind Aufzeichnungen zu führen. Den zuständigen Behörden ist Einsicht in die Aufzeichnungen zu gewähren. Die Unterlagen sind mindestens zwei Jahre aufzubewahren.
+
+[^32b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+### 2*b*. Abschnitt: Administrative Anforderungen bei kanalisierter Verwertung
+
+[^chap4-sec2b-1]
+
+[^chap4-sec2b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 32c
+
+**Meldepflicht für Lebensmittel-, Verarbeitungs-, Futtermittel- und Lagerbetriebe**
+
+<sup>1</sup> Lebensmittel- und Verarbeitungsbetriebe nach Anhang 1*b* Ziffern 21–24 und 31–34, die tierische Nebenprodukte zur Fütterung von Nutztieren in kanalisierter Verwertung gewinnen oder verarbeiten wollen, müssen dies der zuständigen kantonalen Behörde im Voraus melden.
+
+<sup>2</sup> Futtermittel- und Lagerbetriebe nach Anhang 1*b* Ziffern 35 und 37, die tierische Nebenprodukte zur Fütterung von Nutztieren in kanalisierter Verwertung lagern und verwenden wollen, müssen dies der amtlichen Futtermittelkontrolle im Voraus melden.
+
+<sup>3</sup> Futtermittelbetriebe nach Anhang 1*b* Ziffern 25 und 36, die Mischfuttermittel mit tierischen Nebenprodukten zur Fütterung von Nutztieren in kanalisierter Verwertung zur ausschliesslichen Verwendung im eigenen Betrieb der Primärproduktion herstellen, müssen dies der zuständigen kantonalen Behörde im Voraus melden. Werden für die Herstellung der Mischfuttermittel zusätzlich Futtermittelzusatzstoffe, mit Ausnahme von Silierzusatzstoffen, oder Vormischungen verwendet, so muss die Meldung an die amtliche Futtermittelkontrolle erfolgen.
+
+<sup>4</sup>
+
+Die Meldung muss folgende Informationen enthalten:
+
+- a. die Bezeichnung des Betriebs;
+- b. die Art der kanalisierten Verwertung;
+- c. gegebenenfalls Angaben über bestehende Registrierungen oder Bewilligungen nach der Lebensmittel-, Tierseuchen- und Futtermittelgesetzgebung.
+
+#### Art. 32d
+
+**Registrierung von Lebensmittel-, Verarbeitungs- und Futtermittelbetrieben**
+
+<sup>1</sup> Lebensmittel- und Verarbeitungsbetriebe nach Anhang 1*b* Ziffern 21–24 werden von der zuständigen kantonalen Behörde registriert.
+
+<sup>2</sup> Futtermittelbetriebe nach Anhang 1*b* Ziffer 25, die Mischfuttermittel mit tierischen Nebenprodukten zur Fütterung von Nutztieren in kanalisierter Verwertung zur ausschliesslichen Verwendung im eigenen Betrieb der Primärproduktion herstellen, werden von der zuständigen kantonalen Behörde registriert. Werden für die Herstellung der Mischfuttermittel zusätzlich Futtermittelzusatzstoffe, mit Ausnahme von Silierzusatzstoffen, oder Vormischungen verwendet, so werden die Betriebe von der amtlichen Futtermittelkontrolle registriert.
+
+#### Art. 32e
+
+**Bewilligungspflicht für Lebensmittel-, Verarbeitungs-, Futtermittel- und Lagerbetriebe**
+
+<sup>1</sup> Lebensmittel- und Verarbeitungsbetriebe nach Anhang 1*b* Ziffern 31–34, die tierische Nebenprodukte zur Fütterung von Nutztieren in kanalisierter Verwertung gewinnen oder verarbeiten wollen, benötigen dafür eine Bewilligung der zuständigen kantonalen Behörde.
+
+<sup>2</sup> Futtermittel- und Lagerbetriebe nach Anhang 1*b* Ziffern 35 und 37, die tierische Nebenprodukte zur Fütterung von Nutztieren in kanalisierter Verwertung lagern und verwenden wollen, benötigen dafür eine Bewilligung der amtlichen Futtermittelkontrolle.
+
+<sup>3</sup> Futtermittelbetriebe nach Anhang 1*b* Ziffer 36, die Mischfuttermittel mit tierischen Nebenprodukten zur Fütterung von Nutztieren in kanalisierter Verwertung zur ausschliesslichen Verwendung im eigenen Betrieb der Primärproduktion herstellen, benötigen dafür eine Bewilligung der zuständigen kantonalen Behörde. Werden für die Herstellung der Mischfuttermittel zusätzlich Futtermittelzusatzstoffe, mit Ausnahme von Silierzusatzstoffen, oder Vormischungen verwendet, so benötigen die Betriebe eine Bewilligung der amtlichen Futtermittelkontrolle.
+
+<sup>4</sup> Die zuständige Behörde erteilt die Bewilligung, wenn die für die kanalisierte Verwertung massgebenden Anforderungen nach dieser Verordnung, einschliesslich der Anforderungen an den Transport und die Lagerung, erfüllt sind. Vor der Erteilung führt sie eine Inspektion an Ort und Stelle durch.
+
+#### Art. 32f
+
+**Befristung und Erneuerung der Bewilligung**
+
+<sup>1</sup> Die Bewilligung wird für höchstens zehn Jahre erteilt.
+
+<sup>2</sup> Sie wird auf Gesuch hin erneuert, wenn die Überprüfung ergibt, dass die für die kanalisierte Verwertung massgebenden Anforderungen nach dieser Verordnung erfüllt sind.
+
+#### Art. 32g
+
+**Meldung der Registrierungen und der Bewilligungen an das BLV**
+
+Die zuständige kantonale Behörde gibt für jeden von ihr registrierten oder bewilligten Betrieb die Daten für die kanalisierte Verwertung in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der ISLK-V[^32g-1] ein.
+
+[^32g-1]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+
+#### Art. 32h
+
+**Listen der registrierten und der bewilligten Betriebe**
+
+<sup>1</sup> Das BLV führt Listen der von den zuständigen kantonalen Behörden registrierten und bewilligten Betriebe und veröffentlicht sie.
+
+<sup>2</sup> Die amtliche Futtermittelkontrolle führt Listen der von ihr registrierten und bewilligten Betriebe und veröffentlicht sie.
+
+#### Art. 32i
+
+**Entzug der Bewilligung und Verbot der kanalisierten Verwertung**
+
+Werden im Rahmen der amtlichen Kontrollen schwerwiegende Mängel festgestellt oder sind angeordnete Massnahmen wirkungslos geblieben, so kann die zuständige Behörde die Bewilligung sistieren oder entziehen und registrierten Betrieben die kanalisierte Verwertung vorübergehend oder dauerhaft verbieten. Sie berücksichtigt dabei namentlich:
+
+- a. die Art und den Schweregrad der Mängel im Hinblick auf Gefahren für die Gesundheit von Menschen und Tieren;
+- b. ob zu erwarten ist, dass die Mängel innerhalb einer vertretbaren Frist behoben werden können.
+
+#### Art. 32j
+
+**Selbstkontrolle und Überprüfung der Selbstkontrollmassnahmen**
+
+<sup>1</sup> Registrierte Betriebe müssen ein Kontrollverfahren erstellen, dokumentieren und kontinuierlich anwenden, das gewährleistet, dass die Vorgaben dieser Verordnung für die kanalisierte Verwertung eingehalten werden. Für bewilligte Betriebe muss ein Kontrollverfahren nach den in Anhang 2 festgelegten Grundsätzen der Selbstkontrolle erstellt, dokumentiert und angewendet werden.
+
+<sup>2</sup> Den zuständigen Behörden ist Einsicht in die Dokumentation zu gewähren. Die Unterlagen sind drei Jahre aufzubewahren.
+
+<sup>3</sup> Das EDI legt fest, welche bewilligten Betriebe nach Anhang 1*b* Ziffer 3 das Funktionieren der Selbstkontrollmassnahmen durch Probenahmen und Analysen überprüfen lassen müssen.
+
+<sup>4</sup> Entsprechen die Ergebnisse der Kontrolle nicht den Vorschriften, so hat der Betrieb unverzüglich die erforderlichen Massnahmen einzuleiten.
 
 ### 3. Abschnitt: Fütterung von anderen Tieren
 
@@ -737,31 +975,56 @@ Folgeprodukte dürfen für die Herstellung von Heimtierfutter verwendet werden, 
 
 <sup>5</sup> Tierische Nebenprodukte, die für die Herstellung von Heimtierfutter verwendet werden, dürfen offen nur in gesonderten Räumen gelagert und in ausschliesslich dafür vorgesehenen Behältern transportiert werden.
 
+<sup>6</sup> Das EDI kann Anforderungen für die getrennte Herstellung nach Absatz 2 Buchstabe b sowie die getrennte Lagerung und den Transport nach Absatz 5 festlegen.[^33-2]
+
 [^33-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^33-2]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-#### Art. 34
+#### Art. 33a
 
-**Direkte Abgabe zur Verfütterung an Fleischfresser und aasfressende Vögel**[^34-1]
+**Direkte Abgabe zur Verfütterung an Fleischfresser und aasfressende Vögel**[^33a-1]
 
 <sup>1</sup>
 
-Zur Fütterung von Heimtieren und anderen vom Menschen gehaltenen Fleischfressern und aasfressenden Vögeln dürfen direkt abgegeben werden:
+Zur Fütterung von vom Menschen gehaltenen Fleischfressern und aasfressenden Vögeln dürfen direkt abgegeben werden:[^33a-2]
 
 - a. tierische Nebenprodukte nach Artikel 7 Buchstabe a;
 - b. die Tierkörper oder Teile davon nach Artikel 22 Absatz 2.
 
 <sup>2</sup> Der Betrieb, in dem die tierischen Nebenprodukte anfallen, muss sie direkt an die Tierhalterin oder den Tierhalter abgeben. Diese oder dieser darf sie nur den eigenen Tieren verfüttern.
 
-<sup>3</sup> Tierische Nebenprodukte nach Artikel 7 Buchstabe a Ziffer 2 von Tieren, für die nach der Verordnung vom 16. Dezember 2016[^34-2] über das Schlachten und die Fleischkontrolle eine Fleischkontrolle vorgeschrieben ist, müssen von einem Entscheid der Fleischkontrolle begleitet sein, der die Bezeichnung «ungeniessbar, ohne Anzeichen einer für Menschen oder Tiere ansteckenden Krankheit» enthält.
+<sup>3</sup> Tierische Nebenprodukte nach Artikel 7 Buchstabe a Ziffer 2 von Tieren, für die nach der Verordnung vom 16. Dezember 2016[^33a-3] über das Schlachten und die Fleischkontrolle eine Fleischkontrolle vorgeschrieben ist, müssen von einem Entscheid der Fleischkontrolle nach Anhang 4 Ziffer 33 begleitet sein, der die Bezeichnung «ungeniessbar, ohne Anzeichen einer für Menschen oder Tiere ansteckenden Krankheit» enthält.[^33a-4]
 
-[^34-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^34-2]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^33a-1]: Ursprünglich: Art. 34. Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^33a-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^33a-3]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^33a-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-### 4. Abschnitt: Herstellung von Dünger und von technischen Erzeugnissen****
+#### Art. 33b
+
+**Verfütterung von Tierkörpern von kleinen Futtertieren und von Zootieren an Fleischfresser in der eigenen Tierhaltung**[^33b-1]
+
+Halterinnen und Halter von Fleischfressern wie Reptilien, Amphibien oder Vögeln oder anderen Fleischfressern mit besonderen Ernährungsbedürfnissen dürfen Tierkörper und Teile von kleinen Nagetieren, Hasenartigen, Geflügel, Fischen und Insekten sowie von Zootieren an die eigenen Fleischfresser verfüttern, sofern diese Tierkörper und Teile keine Anzeichen einer auf Menschen oder Tiere übertragbaren Krankheit aufweisen.
+
+[^33b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+### 3*a*. Abschnitt: Diagnostik
+
+[^chap4-sec3a-1]
+
+[^chap4-sec3a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 34
+
+<sup>1</sup> Für die Untersuchung auf Bestandteile tierischen Ursprungs, die an bestimmte Tierarten nicht verfüttert werden dürfen, und für die Untersuchung auf Glycerintriheptanoat ist das Labor von Agroscope als nationales Referenzlabor zuständig.
+
+<sup>2</sup> Das EDI legt die Probenahmeverfahren und Analysemethoden fest. Es berücksichtigt dabei die international anerkannten Untersuchungsmethoden.
+
+### 4. Abschnitt: Herstellung und Verwendung von Dünger und von technischen Erzeugnissen
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^chap4-sec4-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 34a
 
@@ -770,6 +1033,39 @@ Zur Fütterung von Heimtieren und anderen vom Menschen gehaltenen Fleischfresser
 Für die Herstellung von Dünger gelten die Anforderungen nach Anhang 5 Ziffer 39.
 
 [^34a-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+
+#### Art. 34b
+
+**Mischung von Dünger mit Fleisch- und Knochenmehl oder mit verarbeitetem tierischem Protein**[^34b-1]
+
+<sup>1</sup>
+
+Dünger mit Fleisch- und Knochenmehl oder mit verarbeitetem tierischem Protein müssen mit einem Bestandteil gemischt werden, der:
+
+- a. aus Kalk, Gülle, Kompost oder Fermentationsrückständen aus Biogasanlagen oder aus anderen Stoffen besteht, die nicht zur Tierfütterung verwendet werden, beispielsweise mineralischen Düngemitteln;
+- b. keine Gefährdung für Böden und Gewässer darstellt; und
+- c. die Mischung für Tiere ungeniessbar macht und eine Verwendung der Mischung zu Fütterungszwecken nach guter landwirtschaftlicher Praxis ausschliesst.
+
+<sup>2</sup> Das BLV kann nach Anhörung des Bundesamtes für Landwirtschaft und des Bundesamtes für Umwelt weitere Bestandteile für die Mischung zulassen, wenn sie in der Wirkung den Bestandteilen nach Absatz 1 entsprechen.
+
+<sup>3</sup>
+
+Nicht mit einem Bestandteil nach Absatz 1 oder 2 gemischt werden müssen Dünger in folgenden Verpackungen:
+
+- a. Dünger in endkonfektionierten Verpackungen mit einem Gewicht von höchstens 50 kg zur Verwendung durch die Endverbraucherin oder den Endverbraucher;
+- b. Dünger in vorverpackten Säcken mit einem Gewicht von höchstens 1000 kg, wenn sie korrekt gekennzeichnet sind.
+
+[^34b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
+#### Art. 34c
+
+**Verwendung von Dünger**[^34c-1]
+
+<sup>1</sup> Dünger mit Fleisch- und Knochenmehl oder mit verarbeitetem tierischem Protein sind so zu verwenden, dass Nutztiere damit nicht in Berührung kommen.
+
+<sup>2</sup> Das EDI kann für die Verwendung von Dünger Einschränkungen und Massnahmen festlegen, um die Einnahme durch Tiere zu verhindern.
+
+[^34c-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 35
 
@@ -793,12 +1089,12 @@ Tierische Nebenprodukte der Kategorie 3 dürfen für die Herstellung von pharmaz
 
 <sup>1</sup> Wer gewerbsmässig Erzeugnisse tierischer Herkunft gewinnt oder verarbeitet, muss die dabei anfallenden tierischen Nebenprodukte entsorgen oder entsorgen lassen.
 
-<sup>2</sup> Wer Tiere schlachtet oder Fleisch verarbeitet und die anfallenden tierischen Nebenprodukte durch Dritte entsorgen lässt, muss gegenüber dem Kanton durch Vorlegen schriftlicher Vereinbarungen nachweisen, dass die Entsorgung für mindestens zwei Jahre gesichert ist. Die Vereinbarungen müssen Angaben zu den Mengen und den Ausstiegskonditionen enthalten. Der Kanton erfasst den Nachweis im Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 6. Juni 2014[^36-1] über die Informationssysteme für den öffentlichen Veterinärdienst.[^36-2]
+<sup>2</sup> Wer Tiere schlachtet oder Fleisch verarbeitet und die anfallenden tierischen Nebenprodukte durch Dritte entsorgen lässt, muss gegenüber dem Kanton durch Vorlegen schriftlicher Vereinbarungen nachweisen, dass die Entsorgung für mindestens zwei Jahre gesichert ist. Die Vereinbarungen müssen Angaben zu den Mengen und den Ausstiegskonditionen enthalten. Der Kanton erfasst den Nachweis im Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der ISLK-V[^36-1].[^36-2]
 
 <sup>3</sup> Alle übrigen Inhaberinnen und Inhaber von tierischen Nebenprodukten müssen diese in die vom Kanton bestimmte Sammelstelle liefern, sofern sie zu deren Entsorgung nicht selber in der Lage sind.
 
-[^36-1]: [[AS 2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399); [2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Anhang 3 Ziff. II 9; [2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 6; [2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 2; [2008 1189](https://fedlex.data.admin.ch/eli/oc/2008/214). [AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)Anhang 8 Ziff. I]
-[^36-2]: Fassung gemäss Anhang 3 Ziff. II 12 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^36-1]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^36-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 37
 
@@ -831,16 +1127,16 @@ Jeder Kanton sorgt dafür, dass:
 
 <sup>2</sup> Der Nachweis, dass die tierischen Nebenprodukte im Fall einer Einfuhrbeschränkung im Inland entsorgt werden können, ist mit einer schriftlichen Übernahmegarantie zu erbringen. Eine Übernahmegarantie kann nur ausgestellt werden, sofern und solange die Anlage über freie Kapazität verfügt. Diese ergibt sich aus der Differenz zwischen der in der Bewilligung für die Anlage festgelegten Verarbeitungskapazität und der pro Jahr entsorgten Gesamtmenge.[^39-1]
 
-<sup>3</sup> Handelt es sich bei den ausgeführten tierischen Nebenprodukten um Häute und Felle, Speisereste, Produkte nach Artikel 7 Buchstabe d oder um bei Umgebungstemperatur lagerfähige Folgeprodukte oder beträgt die Gesamtmenge weniger als 1000 kg pro Jahr, so ist keine Übernahmegarantie erforderlich.[^39-2]
+<sup>3</sup> Für tierische Nebenprodukte nach Artikel 17 Absatz 2 ist keine Übernahmegarantie erforderlich.[^39-2]
 
 <sup>4</sup> Die Menge der ausgeführten tierischen Nebenprodukte muss dem BLV monatlich gemeldet werden.
 
 <sup>5</sup> Im Übrigen richtet sich die Ausfuhr von tierischen Nebenprodukten nach Artikel 27 Absatz 1 der Verordnung vom 18. November 2015[^39-3] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen und Artikel 52 Absatz 1 der Verordnung vom 18. November 2015[^39-4] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten.[^39-5]
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^39-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
-[^39-3]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^39-4]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^39-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^39-3]: [SR 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
+[^39-4]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 [^39-5]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 40
@@ -911,20 +1207,33 @@ Wird eine hochansteckende Seuche festgestellt, so kann das BLV anordnen, dass:
 
 #### Art. 45
 
-**Vollzug**
+**Vollzug**[^45-1]
 
-Die Kantone vollziehen diese Verordnung.
+<sup>1</sup> Die Kantone vollziehen diese Verordnung.
+
+<sup>2</sup>
+
+Die amtliche Futtermittelkontrolle vollzieht diese Verordnung in Bezug auf:
+
+- a. das Reinigungskonzept für den Transport und die Lagerung ab den Futtermittelbetrieben nach Artikel 32*b* Absatz 2 Buchstabe b;
+- b. die Futtermittel- und Lagerbetriebe, die nach Artikel 32*c* Absätze 2 und 3 zweiter Satz eine Meldung erstatten müssen;
+- c. die Futtermittelbetriebe, die nach Artikel 32*d* Absatz 2 zweiter Satz registriert werden müssen;
+- d. die Futtermittel- und Lagerbetriebe, die nach Artikel 32*e* Absätze 2 und 3 zweiter Satz eine Bewilligung benötigen.
+
+[^45-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 #### Art. 46
 
-**Amtliche Kontrollen**
+**Amtliche Kontrollen**[^46-1]
 
-<sup>1</sup> Die Kantone beaufsichtigen die Entsorgung der tierischen Nebenprodukte. Sie kontrollieren die Anlagen mindestens einmal jährlich, die anderen bewilligten Betriebe und die registrierten Betriebe periodisch je nach Art und Umfang ihrer Tätigkeit.
+<sup>1</sup> Die Kantone beaufsichtigen die Entsorgung der tierischen Nebenprodukte. Sie kontrollieren die Anlagen mindestens einmal jährlich, die bewilligten und die registrierten Betriebe periodisch je nach Art und Umfang ihrer Tätigkeit.
 
-<sup>2</sup> Die Kontrolle über die Herstellung und das Inverkehrbringen von Futtermitteln richtet sich zusätzlich nach der Futtermittel-Verordnung vom 26. Oktober 2011[^46-1].[^46-2]
+<sup>2</sup> Die zuständige kantonale Behörde und die amtliche Futtermittelkontrolle kontrollieren die Betriebe, die nach Artikel 32*d* oder 32*e* für die kanalisierte Verwertung registriert sind oder eine Bewilligung dafür erhalten haben, mindestens einmal jährlich.
 
-[^46-1]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^46-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+<sup>3</sup> Die Kontrolle über die Herstellung und das Inverkehrbringen von Futtermitteln richtet sich zusätzlich nach der Futtermittel-Verordnung vom 26. Oktober 2011[^46-2] (FMV).
+
+[^46-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+[^46-2]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -942,84 +1251,149 @@ Die Aufhebung und die Änderung bisherigen Rechts werden in Anhang 8 geregelt.
 
 <sup>2</sup> Bestehende Biogas- und Kompostierungsanlagen, die Speisereste ohne vorgehende Hygienisierung mit den in Anhang 5 Ziffer 46 vorgesehenen anderen Verfahren thermophil vergären, müssen die dafür erforderliche Bewilligung des BLV spätestens am 1. Juli 2013 vorweisen können.
 
+#### Art. 48a
+
+**Übergangsbestimmung zur Änderung vom 26. November 2025**[^48a-1]
+
+Registrierte und bewilligte Anlagen und Betriebe nach den Artikeln 10 und 11, die von der kanalisierten Verwertung Gebrauch machen, müssen die Registrierung oder Bewilligung nach den Artikeln 32*d* und 32*e* spätestens am 1. Januar 2027 vorweisen können.
+
+[^48a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
+
 #### Art. 49
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Juli 2011 in Kraft.
 
-Anhang 1a*[^t-2]*
+Anhang 1a[^t-2]
 
-(Art. 2*a* Abs. 2)
+(Art. 2*a* Abs. 2 und 3)
 
 ## Folgeprodukte, die den Endpunkt erreicht haben
 
-[^t-2]: Ursprünglich: Anhang 6. Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)) und Ziff. II Abs. 4 der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-2]: Ursprünglich: Anhang 6. Fassung gemäss Ziff. II Abs. 1 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-- 1 Biodiesel einschliesslich Rückstände aus dem Destillationsprozess, Biogas und andere Treibstoffe aus Folgeprodukten;
-- 2 endkonfektioniertes Heimtierfutter und Kauartikel in gebrauchsfertigen und nach Artikel 15 der Futtermittel-Verordnung vom 26. Oktober 2011[^annex1a-lvlu1-1] gekennzeichneten Gebinden oder Verpackungen;
-- 3
+- 1 Biodiesel einschliesslich Rückständen aus dem Destillationsprozess, Biogas und andere Treibstoffe aus Folgeprodukten;
+- 2
 
   Häute und Felle von Klauentieren, die:
 
   - a. für die Herstellung von Lebensmitteln tauglich sind, aber für andere Zwecke verwendet werden,
   - b. vollständig gegerbt wurden,
-  - c. chromgegerbt wurden (Wet Blues),
+  - c. chromgegerbt wurden *(Wet Blues)*,
   - d. gepickelt wurden, oder
   - e. mindestens acht Stunden lang bei einem pH-Wert von 12–13 gekalkt und gesalzen wurden (Kalkhäute);
 
-- 4
+- 3
 
   Jagdtrophäen und andere Tierpräparate:
 
   - a. von Schalen- und Federwild, die zur Gewährleistung ihrer Haltbarkeit bei Raumtemperatur einer vollständigen taxidermischen Behandlung unterzogen wurden,
   - b. von anderen Arten als Schalen- und Federwild aus Gebieten, die keinen tierseuchenrechtlich begründeten Beschränkungen unterliegen;
 
-- 5 Wolle, die industriell gewaschen wurde;
-- 6 Federn, Federnteile und Daunen, die industriell gewaschen oder mindestens 30 Minuten lang mit heissem Dampf bei einer Temperatur von 100 °C behandelt wurden.
+- 4 Wolle, die industriell gewaschen wurde;
+- 5 Federn, Federnteile und Daunen, die industriell gewaschen oder mindestens 30 Minuten lang mit heissem Dampf bei einer Temperatur von 100 °C behandelt wurden.
+- 6
 
-[^annex1a-lvlu1-1]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+  Folgende als Futtermittel oder Dünger verwendete oder dazu weiterverarbeitete Folgeprodukte:
 
-Anhang 1b*[^t-3]*
+  - a. Endkonfektioniertes Heimtierfutter und Kauspielzeug in gebrauchsfertigen und nach Artikel 15 FMV[^annex1a-lvlu1-1] gekennzeichneten Gebinden oder Verpackungen,
+  - b.
 
-(Art. 11 Abs. 1 und 15 Abs. 1)
+    Verkaufsfertiges Kultursubstrat, das nicht aus Drittländern eingeführt wurde, mit einem Gehalt von weniger als:
 
-## Anlagen und Betriebe, für die eine Bewilligung erforderlich ist
+    - 1\. 5 Volumenprozent Folgeprodukte aus Material der Kategorien 2 oder 3 oder
+    - 2\. 50 Volumenprozent verarbeiteter Gülle,
 
-[^t-3]: Ursprünglich: Anhang 1. Fassung gemäss Ziff. II Abs. 3 der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+  - c. Dünger nach der Delegierten Verordnung (EU) 2023/1605[^annex1a-lvlu1-2].
 
-- 1 Betriebe, die tierische Nebenprodukte mit den Verarbeitungsmethoden nach Anhang 5 oder Artikel 21 Absatz 2 verarbeiten;
-- 2 Betriebe, die tierische Nebenprodukte verbrennen, ausser wenn sie über eine umweltschutzrechtliche Bewilligung verfügen;
-- 3 Betriebe, die aus tierischen Nebenprodukten Brenn- oder Treibstoffe gewinnen oder solche Brennstoffe verwenden;
-- 4 Betriebe, die Heimtierfutter herstellen;
-- 5 Biogas- und Kompostierungsanlagen;
-- 6 Betriebe, die organische Dünger und Bodenverbesserungsmittel herstellen;
-- 7 Tierkrematorien und Tierfriedhöfe;
-- 8
+[^annex1a-lvlu1-1]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex1a-lvlu1-2]: Delegierte Verordnung (EU) 2023/1605 der Kommission vom 22. Mai 2023 zur Ergänzung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates hinsichtlich der Bestimmung von Endpunkten in der Herstellungskette bestimmter organischer Düngemittel und Bodenverbesserungsmittel, ABl. L 198 vom 8.8.2023, S. 1.
 
-  Betriebe, die tierische Nebenprodukte lagern; für die Lagerung von Folgeprodukten ist eine Bewilligung nur erforderlich, wenn sie:
+Anhang 1b[^t-3]
 
-  - a. durch Verbrennung entsorgt werden;
-  - b. als Futtermittel verwendet werden und der Betrieb nicht nach den Artikeln 46–54 der Futtermittel-Verordnung vom 26. Oktober 2011[^annex1b-lvlu1-1] registriert oder zugelassen ist;
-  - c. zur Herstellung von organischen Düngern und Bodenverbesserungsmitteln bestimmt sind;
+(Art. 11 Abs. 1, 15 Abs. 1, 32*c* Abs. 1–3, 32*d*, 32*e* Abs. 1–3 und 32*j* Abs. 3)
 
-- 9 Betriebe, die gesammelte tierische Nebenprodukte weiterverarbeiten, insbesondere Betriebe, die Nebenprodukte sortieren, zerlegen, erhitzen, kühlen, einfrieren, salzen oder die Häute und Felle oder spezifiziertes Risikomaterial entfernen;
+## Bewilligungspflichtige und registrierungspflichtige Anlagen und Betriebe
 
-10 Lebensmittel-, Verarbeitungs- und Futtermittelbetriebe nach Anhang IV Kapitel V Abschnitt A der Verordnung (EG) Nr. 999/2001[^annex1b-lvlu1-2], in denen:
+[^t-3]: Ursprünglich: Anhang 1. Fassung gemäss Ziff. II Abs. 1 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
-- a. tierische Nebenprodukte zur Herstellung von Futtermitteln gewonnen, verarbeitet und verwendet werden;
-- b. tierische Nebenprodukte für die Ausfuhr von verarbeitetem tierischen Protein nach Drittstaaten gewonnen, verarbeitet und vor der Ausfuhr gelagert werden.
+### 1 Anlagen und Betriebe, die für die Entsorgung von tierischen Nebenprodukten eine Bewilligung benötigen
 
-[^annex1b-lvlu1-1]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1b-lvlu1-2]: Siehe Fussnote zu Art. 32*a.*
+- 11 Betriebe, die tierische Nebenprodukte mit den Verarbeitungsmethoden nach Anhang 5 oder Artikel 21 Absatz 2 verarbeiten;
+- 12 Betriebe, die tierische Nebenprodukte verbrennen, ausser wenn sie über eine umweltschutzrechtliche Bewilligung verfügen;
+- 13 Betriebe, die aus tierischen Nebenprodukten Brenn- oder Treibstoffe gewinnen oder solche Brennstoffe verwenden;
+- 14 Betriebe, die Heimtierfutter herstellen;
+- 15 Biogas- und Kompostierungsanlagen;
+- 16 Betriebe, die Dünger herstellen;
+- 17 Tierkrematorien und Tierfriedhöfe;
+- 18
 
-Anhang 2*[^t-4]*
+  Betriebe, die tierische Nebenprodukte lagern; für die Lagerung von Folgeprodukten ist eine Bewilligung nur erforderlich, wenn die Folgeprodukte:
 
-(Art. 15 Abs. 1)
+  - a. durch Verbrennung entsorgt werden,
+  - b. als Futtermittel verwendet werden und der Betrieb nicht nach den Artikeln 46–54 FMV[^annex1b-lvlu1-lvl1-1] registriert oder zugelassen ist,
+  - c. zur Herstellung von Dünger bestimmt sind;
+
+- 19 Betriebe, die gesammelte tierische Nebenprodukte weiterverarbeiten, insbesondere Betriebe, die Nebenprodukte sortieren, zerlegen, erhitzen, kühlen, einfrieren, salzen oder die Häute und Felle oder spezifiziertes Risikomaterial entfernen.
+
+[^annex1b-lvlu1-lvl1-1]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+
+### 2 Betriebe, die für die kanalisierte Verwertung registriert werden müssen
+
+- 21 Lebensmittel- und Verarbeitungsbetriebe, in welchen Blut von Nichtwiederkäuern für die Verfütterung von Blutprodukten an Nichtwiederkäuer nach Artikel 30 gewonnen und verarbeitet wird, wenn in den gleichen Betrieben weder Wiederkäuer geschlachtet noch Produkte von Wiederkäuern verarbeitet werden;
+- 22 Lebensmittel- und Verarbeitungsbetriebe, in welchen Nebenprodukte von Schweinen für die Verfütterung von verarbeitetem Protein von Schweinen an Geflügel oder an Wassertiere in Aquakulturbetrieben nach Artikel 30*a* gewonnen und verarbeitet werden, wenn in den gleichen Betrieben keine Wiederkäuer und kein Geflügel geschlachtet und ausschliesslich Produkte von Schweinen verarbeitet werden;
+- 23 Lebensmittel- und Verarbeitungsbetriebe, in welchen Nebenprodukte von Geflügel für die Verfütterung von verarbeitetem Protein von Geflügel an Schweine oder an Wassertiere in Aquakulturbetrieben nach Artikel 30*b* gewonnen und verarbeitet werden, wenn in den gleichen Betrieben keine Wiederkäuer und Schweine geschlachtet und ausschliesslich Produkte von Geflügel verarbeitet werden;
+- 24 Lebensmittel- und Verarbeitungsbetriebe, in welchen Nebenprodukte von Nichtwiederkäuern zur Verfütterung von gemischtem verarbeitetem Protein von Nichtwiederkäuern an Wassertiere in Aquakulturbetrieben nach Artikel 31 gewonnen und verarbeitet werden, wenn in den gleichen Betrieben ausschliesslich Nichtwiederkäuer geschlachtet und Produkte von Nichtwiederkäuern verarbeitet werden;
+- 25
+
+  Futtermittelbetriebe, die Mischfuttermittel mit Fischmehl, Blutprodukten von Nichtwiederkäuern, verarbeitetem Protein von Schweinen, verarbeitetem Protein von Geflügel, gemischtem verarbeitetem Protein von Nichtwiederkäuern, verarbeitetem Protein von Nutzinsekten oder Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft zur ausschliesslichen Verwendung im eigenen Betrieb der Primärproduktion herstellen, wenn:
+
+  - a.
+
+    sie nur die folgenden Tierarten halten, für die das Futtermittel bestimmt ist:
+
+    - 1\. Nichtwiederkäuer, wenn sie Mischfuttermittel mit Fischmehl, mit Dicalciumphosphat und Tricalciumphosphat oder mit Blutprodukten von Nichtwiederkäuern herstellen
+    - 2\. Geflügel oder Wassertiere in Aquakulturbetrieben, wenn sie Mischfuttermittel mit verarbeitetem Protein von Schweinen herstellen
+    - 3\. Schweine oder Wassertiere in Aquakulturbetrieben, wenn sie Mischfuttermittel mit verarbeitetem Protein von Geflügel herstellen
+    - 4\. Wassertiere in Aquakulturbetrieben, wenn sie Mischfuttermittel mit gemischtem verarbeitetem Protein von Nichtwiederkäuern, ausgenommen Fischmehl, herstellen
+    - 5\. Geflügel, Schweine und Wassertiere in Aquakulturbetrieben, wenn sie Mischfuttermittel mit verarbeitetem Protein von Nutzinsekten herstellen, und
+
+  - b.
+
+    die folgenden von ihnen hergestellten Mischfuttermittel den nachstehenden Anteil enthalten:
+
+    - 1\. Mischfuttermittel mit verarbeitetem tierischem Protein, Fischmehl oder Blutprodukten von Nichtwiederkäuern: weniger als 50 Prozent Rohprotein
+    - 2\. Mischfuttermittel mit Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft: weniger als 10 Prozent Gesamtphosphor.
+
+### 3 Betriebe, die für die kanalisierte Verwertung eine Bewilligung benötigen
+
+- 31 Lebensmittel- und Verarbeitungsbetriebe, in welchen Blut von Nichtwiederkäuern für die Verfütterung von Blutprodukten an Nichtwiederkäuer nach Artikel 30 gewonnen und verarbeitet wird, wenn in den gleichen Betrieben Wiederkäuer in räumlich getrennten Linien geschlachtet und Produkte von Wiederkäuern in räumlich getrennten Einrichtungen oder Anlagen verarbeitet werden;
+- 32 Lebensmittel- und Verarbeitungsbetriebe, in welchen Nebenprodukte von Schweinen für die Verfütterung von verarbeitetem Protein von Schweinen an Geflügel oder an Wassertiere in Aquakulturbetrieben nach Artikel 30*a* gewonnen und verarbeitet werden, wenn in den gleichen Betrieben Wiederkäuer und Geflügel in räumlich getrennten Linien geschlachtet und Produkte von Wiederkäuern oder Geflügel in räumlich getrennten Einrichtungen oder Anlagen verarbeitet werden;
+- 33 Lebensmittel- und Verarbeitungsbetriebe, in welchen Nebenprodukte von Geflügel für die Verfütterung von verarbeitetem Protein von Geflügel an Schweine oder an Wassertiere in Aquakulturbetrieben nach Artikel 30*b* gewonnen und verarbeitet werden, wenn in den gleichen Betrieben Wiederkäuer oder Schweine in räumlich getrennten Linien geschlachtet und Produkte von Wiederkäuern oder Schweinen in räumlich getrennten Einrichtungen oder Anlagen verarbeitet werden;
+- 34 Lebensmittel- und Verarbeitungsbetriebe, in welchen Nebenprodukte von Nichtwiederkäuern zur Verfütterung von gemischtem verarbeitetem Protein von Nichtwiederkäuern an Wassertiere in Aquakulturbetrieben nach Artikel 31 gewonnen und verarbeitet werden, wenn in den gleichen Betrieben Wiederkäuer in räumlich getrennten Linien geschlachtet und Produkte von Wiederkäuern in räumlich getrennten Einrichtungen oder Anlagen verarbeitet werden;
+- 35 Futtermittelbetriebe, die Fischmehl, Blutprodukte von Nichtwiederkäuern, verarbeitetes Protein von Schweinen, verarbeitetes Protein von Geflügel, gemischtes verarbeitetes Protein von Nichtwiederkäuern, verarbeitetes Protein von Nutzinsekten sowie Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft als Bestandteil von Futtermitteln verwenden;
+- 36 Futtermittelbetriebe, die Mischfuttermittel mit Fischmehl, Blutprodukten von Nichtwiederkäuern, verarbeitetem Protein von Schweinen, verarbeitetem Protein von Geflügel, gemischtem verarbeitetem Protein von Nichtwiederkäuern, verarbeitetem Protein von Nutzinsekten oder Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft zur ausschliesslichen Verwendung im eigenen Betrieb der Primärproduktion herstellen und die Anforderungen nach Ziffer 25 nicht erfüllen;
+- 37
+
+  Lagerbetriebe, ausgenommen Betriebe der Primärproduktion, in denen Futtermittel für Wiederkäuer und folgende Einzel- und Mischfuttermittel gelagert werden:
+
+  - a. loses Fischmehl,
+  - b. lose Blutprodukte von Nichtwiederkäuern,
+  - c. loses verarbeitetes Protein von Schweinen
+  - d. loses verarbeitetes Protein von Geflügel,
+  - e. loses gemischtes verarbeitetes Protein von Nichtwiederkäuern,
+  - f. loses verarbeitetes Protein von Nutzinsekten,
+  - g. loses Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft,
+  - h. lose Mischfuttermittel, welche die in den Buchstaben a–g aufgeführten Einzelfuttermittel enthalten.
+
+Anhang 2[^t-4]
+
+(Art. 15 Abs. 1 und 32*j* Abs. 1)
 
 ## Grundsätze der Selbstkontrolle
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 4 der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 4 der V vom 25. April 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)) und Ziff. II Abs. 2 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 - 1
 
@@ -1036,11 +1410,13 @@ Anhang 2*[^t-4]*
 - 2 Das Kontrollsystem nach Ziffer 1 ist in einer dem Sicherheitsrisiko und dem Produktionsumfang angepassten Form anzuwenden.
 - 3 Die für die Entsorgungssicherheit notwendigen Vorschriften müssen den Beschäftigten bekannt sein. Die für den Betrieb verantwortliche Person muss deren Befolgung durchsetzen und kontrollieren.
 
-Anhang 3
+Anhang 3[^t-5]
 
 (Art. 16 Abs. 4 und 5)
 
 ## Anforderungen an Anlagen
+
+[^t-5]: Bereinigt durch Ziff. II Abs. 2 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ### 1 Allgemeine Anforderungen
 
@@ -1092,9 +1468,9 @@ Anhang 3
 - 224 Die relevanten Parameter der Verbrennung, insbesondere Temperatur und Zeit, müssen ständig erhoben und aufgezeichnet werden.
 - 225 Der ordnungsgemässe Einbau und das Funktionieren automatischer Überwachungsgeräte müssen kontrolliert werden, und jedes Jahr ist ein Überwachungstest durchzuführen. Die Kalibrierung muss mindestens alle drei Jahre anhand von parallelen Messungen nach den Referenzmethoden erfolgen.
 
-[^annex3-lvlu1-lvl2-lvl22-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
-[^annex3-lvlu1-lvl2-lvl22-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^annex3-lvlu1-lvl2-lvl22-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^annex3-lvlu1-lvl2-lvl22-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
+[^annex3-lvlu1-lvl2-lvl22-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
+[^annex3-lvlu1-lvl2-lvl22-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
 
 ### 23 Anforderungen an Biogas- und Kompostierungsanlagen
 
@@ -1104,9 +1480,15 @@ Anhang 3
 - 234 Die Lagerung und die Verarbeitung müssen soweit wie möglich sicherstellen, dass Wildtiere, einschliesslich Nagetiere und Vögel, zu den rohen tierischen Nebenprodukten keinen Zugang haben.
 - 235 Durch bauliche oder betriebliche Massnahmen ist sicherzustellen, dass eine Kontamination des Endproduktes verhindert wird.
 - 236 Das BLV kann Mindestkapazitäten und Mindestmengen für Anlagen vorschreiben.
+- 237
 
-[^annex3-lvlu1-lvl2-lvl23-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
-[^annex3-lvlu1-lvl2-lvl23-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+  Die Anforderungen nach den Ziffern 231–236 sind nicht anwendbar, wenn:
+
+  - a. die Biogas- oder Kompostierungsanlage Speisereste aus Privathaushalten verwendet, die im Rahmen der öffentlichen Sammlung von Siedlungsabfällen mit Grüngut vermischt wurden; und
+  - b. sich auf dem Areal der Biogas- oder Kompostierungsanlage eine Tierhaltung befindet.
+
+[^annex3-lvlu1-lvl2-lvl23-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
+[^annex3-lvlu1-lvl2-lvl23-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 24 Anforderungen an Anlagen, auf deren Areal sich eine Tierhaltung befindet
 
@@ -1114,11 +1496,13 @@ Anhang 3
 - 242 Die Nutztiere dürfen weder direkten noch indirekten Kontakt haben zur Anlage oder den Fahrzeugen, Transportbehältern und Geräten, die für tierische Nebenprodukte verwendet werden.
 - 243 Die Zu- und Abfahrtswege zur Anlage sind in die baulichen und betrieblichen Massnahmen zur Trennung von der Nutztierhaltung miteinzubeziehen. Die Abstände sind so festzulegen, dass von der Anlage kein unannehmbares Risiko hinsichtlich der Übertragung einer auf Mensch oder Tier übertragbaren Krankheit ausgeht.
 
-Anhang 4
+Anhang 4[^t-6]
 
-(Art. 19 Abs. 2 sowie 20 Abs. 2 und 6)
+(Art. 19 Abs. 2, 20 Abs. 2 und 6 sowie 33*a* Abs. 3)
 
 ## Vorschriften für das Sammeln, Zwischenlagern und Transportieren von tierischen Nebenprodukten
+
+[^t-6]: Bereinigt durch Ziff. II Abs. 2 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ### 1 Kennzeichnung
 
@@ -1129,7 +1513,13 @@ Anhang 4
   - a. die Farbe schwarz und die Bezeichnung «Nur zur Entsorgung/Verbrennung» oder «Zur energetischen Nutzung vor der Verbrennung» bei tierischen Nebenprodukten der Kategorie 1;
   - b. die Farbe schwarz und die Bezeichnung «Zur Verfütterung an (Name der Tiergruppe)» bei tierischen Nebenprodukten der Kategorie 1, die zur Fütterung von Fleischfressern und aasfressenden Vögeln zugelassen sind (Art. 22 Abs. 2 );
   - c. die Farbe gelb und die Bezeichnung «Darf nicht verfüttert werden» bei tierischen Nebenprodukten der Kategorie 2;
-  - d. die Farbe grün und die Bezeichnung «Nicht für den menschlichen Verzehr» bei tierischen Nebenprodukten der Kategorie 3.
+  - d. die Farbe grün und die Bezeichnung «Nicht für den menschlichen Verzehr» bei tierischen Nebenprodukten der Kategorie 3;
+  - e.
+
+    die Bezeichnung «Organischer Dünger/Keine Beweidung durch Nutztiere und keine Verwendung der Pflanzen als Grünfutter für die Dauer von mindestens 21 Tagen nach der Ausbringung» bei Dünger, ausgenommen Dünger:
+
+    - 1\. in endkonfektionierten Verpackungen mit einem Gewicht von höchstens 50 kg zur Verwendung durch die Endverbraucherin oder den Endverbraucher,
+    - 2\. der keine anderen tierischen Nebenprodukte enthält als Magen- und Darminhalt, Gülle oder die tierischen Nebenprodukte nach Artikel 28.
 
 - 12
 
@@ -1167,7 +1557,7 @@ Anhang 4
 - 32 Das Begleitpapier ist in mindestens drei Exemplaren auszustellen. Das Original muss der Sendung bis zum Endbestimmungsort beiliegen und ist vom Empfängerbetrieb aufzubewahren. Je eine Kopie verbleibt beim Herkunftsbetrieb und beim Transportunternehmen.
 - 33
 
-  Die Entscheide der Fleischkontrolle nach den Artikeln 20 Absatz 2 und 34 Buchstabe b müssen folgende Angaben enthalten:
+  Die Entscheide der Fleischkontrolle nach den Artikeln 20 Absatz 2 und 33*a* Absatz 3 müssen folgende Angaben enthalten:
 
   - a. Datum;
   - b. Schlachtbetrieb;
@@ -1178,7 +1568,7 @@ Anhang 4
 
 - 34
 
-  Begleitpapiere für tierische Nebenprodukte, die für künstlerische Aktivitäten, zur Herstellung von Trophäen, zu taxidermischen Zwecken oder zu Diagnose-, Lehr- und Forschungszwecken bestimmt sind, müssen nur folgende Angaben enthalten:
+  Begleitpapiere für tierische Nebenprodukte, die für künstlerische Aktivitäten, zur Herstellung von Trophäen, zu taxidermischen Zwecken oder zu Diagnose‑, Lehr- und Forschungszwecken bestimmt sind, müssen nur folgende Angaben enthalten:
 
   - a. Datum;
   - b. Name und Anschrift der Absenderin oder des Absenders und der Empfängerin oder des Empfängers;
@@ -1204,13 +1594,13 @@ Anhang 4
 - 433 In den Sammelstellen sind Vorkehrungen zu treffen, um Vögeln und Nagern den Zugang zu verwehren und Insekten zu bekämpfen.
 - 434 Die Sammelstellen müssen über ein hygienisch einwandfreies Abwasserableitungssystem verfügen.
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-7]
 
-(Art. 20 Abs. 3 Bst. c, 21, 22 Abs. 1 Bst. b, 23 Abs. 1 Bst. b, 28 Bst. a und d, 29 Bst. a, 30 Bst. d, 31 Bst. b, 31*a* Bst. d, 32 Bst. b, 33 Abs. 1 und 2 Bst. a und d sowie Abs. 4, 34*a* und 35 Bst. a)
+(Art. 20 Abs. 3 Bst. c, 21, 22 Abs. 1 Bst. b, 23 Abs. 1 Bst. b, 28 Abs. 3 Bst. b, 29 Bst. a Ziff. 1, 30 Bst. b, 30*a* Bst. b, 30*b* Bst. b, 31*a* Abs. 1 Bst. d, 32 Bst. b, 33 Abs. 1 und 2 Bst. a und c sowie Abs. 4, 34*a* und 35 Bst. a)
 
 ## Verarbeitungsmethoden für tierische Nebenprodukte
 
-[^t-5]: Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)) und Ziff. II Abs. 4 der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-7]: Bereinigt durch Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)), Ziff. II Abs. 4 der V vom 25. April 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)) und Ziff. II Abs. 2 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 785](https://fedlex.data.admin.ch/eli/oc/2025/785)).
 
 ### 1 Drucksterilisation
 
@@ -1248,7 +1638,7 @@ Anhang 5*[^t-5]*
 - 302 Verarbeitetes tierisches Protein, das nicht von Säugetieren stammt, mit Ausnahme von Fischmehl, muss mit einer der Methoden 1–5 oder 7 nach Anhang IV Kapitel III der Verordnung (EU) Nr. 142/2011 behandelt werden.
 - 303 Fischmehl muss mit einer der Methoden nach Anhang IV Kapitel III der Verordnung (EU) Nr. 142/2011 oder mit einer anderen Methode behandelt werden, die gewährleistet, dass das Produkt die mikrobiologischen Kriterien nach Ziffer 38 erfüllt.
 
-[^annex5-lvlu1-lvl3-lvl30-1]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2017/893 vom 24. Mai 2017, ABl. L 138 vom 25.5.2017, S. 92.
+[^annex5-lvlu1-lvl3-lvl30-1]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1719, ABl. L, 2024/1719, 21.6.2024.
 
 ### 30*a* Verwendung von Blutprodukten zur Herstellung von Tierfutter
 
@@ -1267,7 +1657,7 @@ Anhang 5*[^t-5]*
 - 313 Fett von anderen Tieren als Säugetieren, ausser Fischöl, muss nach einer der Methoden 1–5 oder 7 nach Anhang IV Kapitel III der Verordnung EU Nr. 142/2011 behandelt werden.
 - 314 Fischöl muss mit einer der Methoden 1–7 nach Anhang IV Kapitel III der Verordnung EU Nr. 142/2011 oder mit einer anderen Methode behandelt werden, die gewährleistet, dass die mikrobiologischen Kriterien nach Ziffer 38 erfüllt sind.
 
-### 31a Verfütterung von Milch, Milchprodukten und Kolostrum sowie von Zentrifugen- und Separatorenschlamm aus der Milchverarbeitung an Klauentiere
+### 31*a* Verfütterung von Milch, Milchprodukten und Kolostrum sowie von Zentrifugen- und Separatorenschlamm aus der Milchverarbeitung an Klauentiere
 
 - 311a Milch, Milchprodukte und Kolostrum zur Verfütterung an Klauentiere sind unter Erhitzung auf mindestens 72 °C während 15 Sekunden zu pasteurisieren. Andere Temperatur-Zeit-Relationen oder Verfahren mit gleicher Wirkung auf die Inaktivierung von Maul- und Klauenseuchenviren sind ebenfalls zulässig.
 - 312a Zentrifugen- und Separatorenschlamm aus der Milchverarbeitung muss während mindestens 60 Minuten auf 70 °C oder während mindestens 30 Minuten auf 80 °C erhitzt werden.
@@ -1276,6 +1666,15 @@ Anhang 5*[^t-5]*
 - b. die Produkte in einer Tierhaltung verfüttert werden, die dem Herstellungsbetrieb unmittelbar angegliedert ist;
 - c. der Milchproduzent die Produkte direkt vom Verarbeitungsbetrieb bezogen hat, in den er seine Milch selber abliefert;
 - d. Kolostrum zur Versorgung von neugeborenen Tieren in der Nachbarschaft abgegeben wird.
+
+### 31*b* Verwendung von Eiern und Eierzeugnissen
+
+-
+
+  Entsprechen die Eier und Eierzeugnisse nicht den lebensmittelrechtlichen Anforderungen, so müssen sie wie folgt verarbeitet werden:
+
+  - a. mit einer der Verarbeitungsmethoden 1–5 oder der Verarbeitungsmethode 7 nach Anhang IV Kapitel III der Verordnung EU 142/2011; oder
+  - b. mit einer anderen Methode, die gewährleistet, dass die Produkte den mikrobiologischen Normen für Folgeprodukte nach Ziffer 38 entsprechen.
 
 ### 32 Herstellung von Kollagen
 
@@ -1322,14 +1721,20 @@ Anhang 5*[^t-5]*
 ### 37 Herstellung von Futter für Heimtiere
 
 - 371 Zur Herstellung von Futterkonserven für Heimtiere muss das Material auf einen F<sub>c</sub>-Wert von mindestens 3 erhitzt werden.
-- 372 Auf andere Weise verarbeitetes Futter muss einer Hitzebehandlung bei einer Kerntemperatur von mindestens 90 °C unterzogen werden.
+- 372
+
+  Auf andere Weise verarbeitetes Futter muss:
+
+  - a. einer Hitzebehandlung bei einer Kerntemperatur von mindestens 90 C unterzogen werden; oder
+  - b. einer Behandlung wie Trocknung oder Fermentierung unterzogen werden, die sicherstellt, dass das Heimtierfutter keine unannehmbaren Risiken für die Gesundheit von Menschen und Tieren darstellt.
+
 - 373 Kauspielzeug muss bei der Herstellung einer Behandlung unterzogen werden, die gewährleistet, dass Krankheitserreger wirksam abgetötet werden.
 
 ### 38 Mikrobiologische Kriterien zur Herstellung von Tierfutter
 
 - 381
 
-  Von Heimtierfutter, ausgenommen Futterkonserven nach Ziffer 371, und von Folgeprodukten zur Herstellung von Futtermitteln müssen Zufallsstichproben entnommen werden zum Nachweis, dass sie die folgenden mikrobiologischen Normen erfüllen:
+  Von Heimtierfutter, ausgenommen Futterkonserven nach Ziffer 371, und von Folgeprodukten zur Herstellung von Futtermitteln, ausgenommen ausgeschmolzene Fette nach Ziffer 31, müssen Zufallsstichproben entnommen werden zum Nachweis, dass sie die folgenden mikrobiologischen Normen erfüllen:
 
   - a. *Salmonella spp.:* kein Befund in 25 g: n=5, c=0, m=0, M=0; Materialprobe während oder unmittelbar nach der Auslagerung aus dem Verarbeitungsbetrieb entnommen;
   - b. *Enterobacteriaceae:* n=5, c=2, m=10, M=300 in 1 g; Materialprobe während oder unmittelbar nach der Auslagerung aus dem Verarbeitungsbetrieb entnommen.
@@ -1348,7 +1753,9 @@ Anhang 5*[^t-5]*
 - 391 Nebenprodukte der Kategorien 2 und 3 müssen vor der Verarbeitung zu Dünger nach Ziffer 1 drucksterilisiert werden.
 - 392 Bei der Verwendung von verarbeitetem tierischem Protein gelten für dessen Herstellung die Anforderungen nach Ziffer 30.
 - 393 Anderes Ausgangsmaterial der Kategorie 3 als verarbeitetes tierisches Protein muss mit einer der Methoden 1–7 nach Anhang IV Kapitel III der Verordnung (EU) Nr. 142/2011 behandelt werden.
-- 394 Abweichend von Ziffer 393 können Nebenprodukte von Wassertieren und Wirbellosen sowie Speisereste, Häute, Felle, Pelze, Hufe, Hörner, Borsten, Federn und Haare vor der Weiterverarbeitung während mindestens einer Stunde einer Hitzebehandlung mit einer Kerntemperatur von 70 °C unterzogen werden.
+- 394 Abweichend von Ziffer 393 können Nebenprodukte von Wassertieren und Wirbellosen sowie Speisereste, Häute, Felle, Pelze, Borsten, Federn und Haare vor der Weiterverarbeitung mindestens 60 Minuten lang einer Hitzebehandlung mit einer Kerntemperatur von 70 °C unterzogen werden. Im Falle von Hufen und Hörnern beträgt die Kerntemperatur 80 °C.
+- 395 Gülle gilt als verarbeitet, wenn sie mindestens 60 Minuten lang einer Hitzebehandlung bei mindestens 70 °C unterzogen worden ist.
+- 396 Abweichend von Ziffer 391 kann Frass mindestens 60 Minuten lang einer Hitzebehandlung bei mindestens 70 °C unterzogen werden. Falls im Rahmen des Selbstkontrollkonzeptes nach Artikel 15 Absatz 1 sporenbildende Bakterien oder die Toxinbildung als relevante Gefahr ermittelt werden, ist ausserdem eine Behandlung im Hinblick auf deren Verringerung erforderlich.
 
 ### 4 Verwertung in Biogas- und Kompostierungsanlagen
 
@@ -1361,7 +1768,7 @@ Anhang 5*[^t-5]*
 
   Das BLV kann andere Verfahren bewilligen, sofern eine vergleichbare hygienische Wirkung nachgewiesen ist. Der Nachweis muss eine Risikobewertung bezüglich der vom Einspeisungsmaterial ausgehenden Gefahr, eine Definition der Verfahrensbedingungen und eine Validierung des Verfahrens beinhalten. Die Validierung muss nachweisen, dass folgende Gesamtrisikoreduktion erreicht wird:
 
-  - a. eine Reduktion von 5 log10 von *Enterococcus faecalis* oder *Salmo**ne**l**la* *Senftenberg* (775W, H2S negativ);
+  - a. eine Reduktion von 5 log10 von *Enterococcus faecalis* oder *Salmo**nella* *Senftenberg* (775W, H2S negativ);
   - b. eine Verminderung des Infektiositätstiters von thermoresistenten Viren wie etwa *Parvovirus* um mindestens 3 log10 immer dann, wenn sie als relevante Gefahr ermittelt werden; und
   - c. bei chemischen Verfahren zusätzlich eine Reduktion resistenter Parasiten wie etwa Eier von *Ascaris* sp. um mindestens 99,9 % (3 log10) der lebensfähigen Stadien.
 
@@ -1369,19 +1776,17 @@ Anhang 5*[^t-5]*
 
 - Tierische Nebenprodukte und Folgeprodukte, die für die Herstellung von technischen Erzeugnissen verwendet werden, müssen pasteurisiert oder nach einem anderen Verfahren mit vergleichbarer Wirkung im Hinblick auf die Reduktion von Mikroorganismen behandelt werden.
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-8]
 
-- [tab]
+[^t-8]: Heute: Anhang 1*a* ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
-[^t-6]: Heute: Anhang 1*a* ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-
-Anhang 7*[^t-7]*
+Anhang 7[^t-9]
 
 (Art. 25 Abs. 2)
 
 ## Anforderungen an Plätze zum Vergraben von Tierkörpern und Schutzmassnahmen beim Vergraben
 
-[^t-7]: Bereinigt gemäss Anhang Ziff. 5 der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^t-9]: Bereinigt gemäss Anhang Ziff. 5 der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 ### 1 Standort
 
@@ -1389,7 +1794,7 @@ Anhang 7*[^t-7]*
 - 12 Sie dürfen nicht in Gebieten mit vernässtem Boden liegen oder in Gebieten, die überschwemmungs-, steinschlag-, rutsch- oder besonders erosionsgefährdet sind.
 - 13 Tierkörper dürfen nicht im Einzugsgebiet von Quellen und in Gebieten vergraben werden, die für die Trinkwassergewinnung von Bedeutung sind.
 
-[^annex7-lvlu1-lvl1-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex7-lvlu1-lvl1-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 
 ### 2 Schutzmassnahmen
 
