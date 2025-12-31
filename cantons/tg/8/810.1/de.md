@@ -4,13 +4,12 @@ number: "810.1"
 title: Gesundheitsgesetz
 short: GG
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2024-01-10
+version: 2026-01-01
+version_adopted: 2025-05-07
 adopted: 2014-12-03
 in_force: 2015-09-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/810.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2792/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3014/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ GG
 
 (GG)
 
-vom 03.12.2014 (Stand 01.07.2024)
+vom 03.12.2014 (Stand 01.01.2026)
 
 ## 1. Allgemeines
 
@@ -109,7 +108,7 @@ vom 03.12.2014 (Stand 01.07.2024)
 - 1\. die Überwachung der Orts- und Wohnhygiene sowie die Anordnung und den Vollzug gesundheitspolizeilicher Massnahmen auf ihrem Gebiet
 - 2\. die Mütter- und Väterberatung, Kleinkinderberatung, Familien- und Erziehungsberatung, Jugendberatung, Paar- und Erwachsenenberatung, Suchtberatung sowie das Angebot weiterer vom Gesetz oder durch Leistungsvereinbarungen mit dem Kanton vorgesehener Beratungsstellen
 - 3\. die zielgruppenorientierte Umsetzung von Gesundheitsförderungs- und Präventionsmassnahmen
-- 4\. die ambulante Kranken- und Gesundheitspflege sowie die Hilfe und Betreuung zu Hause im Sinne von § 22 des Gesetzes über die Krankenversicherung (TG KVG)[^7-1]
+- 4\. die ambulante Kranken- und Gesundheitspflege sowie die Hauswirtschaft und Betreuung zu Hause im Sinne von § 22 des Krankenversicherungsgesetzes (TG KVG)[^7-1]
 - 5\. die stationäre Pflegeversorgung im Pflegeheim im Sinne von § 15 TG KVG ohne die stationäre Akut- und Übergangspflege
 - 6\. das Bestattungswesen
 
