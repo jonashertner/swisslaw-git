@@ -3,20 +3,19 @@ canton: LU
 number: "267"
 title: Kantonsratsbeschluss über die Zahl und den Beschäftigungsgrad der Mitglieder des Kantonsgerichtes
 language: de
-version: 2013-06-01
-valid_until: 2025-12-31
-version_adopted: 2012-05-14
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2012-05-14
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/267"
-pdf: "https://srl.lu.ch/api/de/versions/2444/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4720/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Zahl und den Beschäftigungsgrad der Mitglieder des Kantonsgerichtes
 
-vom 14.05.2012 (Stand 01.06.2013)
+vom 14.05.2012 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -33,10 +32,10 @@ beschliesst:
 
 **Zahl und Beschäftigungsgrad der Richterinnen und Richter**
 
-<sup>1</sup> Die Zahl und der Beschäftigungsgrad der Richterinnen und Richter des Kantonsgerichtes wird wie folgt festgesetzt:
+<sup>1</sup> Die Zahl und der Beschäftigungsgrad der Richterinnen und Richter des Kantonsgerichtes werden wie folgt festgesetzt:
 
-- a. 17 vollamtliche Richterinnen und Richter,
-- b. 7 hauptamtliche Richterinnen und Richter mit einem Beschäftigungsgrad von je 50 Prozent,
+- a. 20 vollamtliche Richterinnen und Richter,
+- b. 9 hauptamtliche Richterinnen und Richter mit einem Beschäftigungsgrad von je 50 Prozent,
 - c. 10–20 Ersatzrichterinnen und -richter,
 - d. 20–25 Fachrichterinnen und -richter.
 
