@@ -4,13 +4,12 @@ number: "442.410"
 title: Vereinbarung über das Immobilienwesen der Universität Basel
 short: "Immobilienvereinbarung, ImmoV"
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-05-25
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2021-05-25
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/442.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5431/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6749/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,11 +20,9 @@ Hochschulförderung · Finanzmittel · Gebühren
 
 (Immobilienvereinbarung, ImmoV)
 
-Vom 25. Mai 2021 (Stand 1. Januar 2022)
+Vom 25. Mai 2021 (Stand 1. Januar 2026)
 
-Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton Basel-Stadt und die Einwohnergemeinde der Stadt Basel, handelnd durch den Regierungsrat des Kantons Basel-Stadt, gestützt auf § 39 Abs. 5, § 40 Abs. 7 und § 40a Abs. 5 des Vertrags zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel vom 27. Juni 2006[^ingress-1], vereinbaren:
-
-[^ingress-1]: SGS 664.1, SG 442.400
+Der Kanton Basel-Stadt und die Einwohnergemeinde der Stadt Basel, handelnd durch den Regierungsrat des Kantons Basel-Stadt, sowie der Kanton Basel-Landschaft, handelnd durch den Regierungsrat beschliessen:
 
 ## I. Allgemeines
 
@@ -36,7 +33,7 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 <sup>1</sup> Die Vereinbarung regelt in Ergänzung zum Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel (nachfolgend Universitätsvertrag) den Umgang mit den von der Universität genutzten Liegenschaften, namentlich:
 
 - a) das Mietmodell und die Festlegung der Mietabgeltung für Liegenschaften im Eigentum eines Vertragskantons;
-- b) den Grundausbau sowie den Mietausbau der Universität in Liegenschaften im Eigentum eines Vertragskantons;
+- b) die Zuständigkeit für bauliche und betriebliche Infrastruktur in Liegenschaften im Eigentum eines Vertragskantons;
 - c) die Investitionen in Liegenschaften im Eigentum eines Vertragskantons;
 - d) die Neuinvestitionen der Universität;
 - e) die Einmietung der Universität in Drittliegenschaften und Investitionsobjekten eines Vertragskantons;
@@ -62,19 +59,20 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 
 - a) die Beiträge der Vertragskantone für Immobilienaufwendungen;
 - b) die Beiträge des Bundes für Immobilienaufwendungen;
-- c) die Grundmiete für Liegenschaften im Eigentum eines Vertragskantons;
+- c) die Mietabgeltung gemäss Kostenrechnungsmodell der Schweizerischen Hochschulkonferenz (SHK) für die universitären Hochschulen (Kostenrechnungsmodell SHK) und weitere Mietkosten (ausserhalb Kostenrechnungsmodell SHK) für Liegenschaften im Eigentum eines Vertragskantons;
 - d) den Mietaufwand für Drittliegenschaften;
-- e) den Aufwand für Unterhalt und Investitionen innerhalb des Ausbaufonds (Liegenschafen der Vertragskantone);
-- f) den Aufwand für Unterhalt und Investitionen ausserhalb des Ausbaufonds (Drittliegenschaften, Liegenschaften im Eigentum der Universität);
+- d<sup>bis</sup>) den Aufwand für Mietnebenkosten;
+- e) den Aufwand für Unterhalt und Investitionen innerhalb des Fonds für Instandhaltung und Instandsetzung (Liegenschaften der Vertragskantone);
+- f) den Aufwand für Unterhalt und Investitionen ausserhalb des Fonds für Instandhaltung und Instandsetzung (Drittliegenschaften, Liegenschaften im Eigentum der Universität);
 - g) den Aufwand für Mobiliar, Betriebseinrichtungen und Betriebskosten;
 - h) die Abschreibungen und Zinsen auf Investitionen im Eigentum der Universität;
-- i) die Auflösung und Bildung von Rücklagen (inkl. Ausbaufonds und Ausgleichskonto).
+- i) die Auflösung und Bildung von Rücklagen (inkl. Fonds für Instandhaltung und Instandsetzung und Ausgleichskonto).
 
 <sup>4</sup> Die Einzelheiten zu Umfang und Detaillierungsgrad der Spartenrechnung Immobilien legen die Vertragskantone in Absprache mit der Universität fest.
 
 <sup>5</sup> Die Spartenrechnung schliesst jeweils mit einem ausgeglichenen Ergebnis ab. Über- und Unterdeckungen sind einem Ausgleichskonto zuzuführen.
 
-<sup>6</sup> Die Spartenrechnung sowie die Ausbaufondseinlagen und -entnahmen sind im Anhang zur Bilanz separat auszuweisen.
+<sup>6</sup> Die Spartenrechnung sowie die Fondseinlagen und -entnahmen sind im Anhang zur Bilanz separat auszuweisen.
 
 #### § 4
 
@@ -112,11 +110,13 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 
 **Mietmodell**
 
-<sup>1</sup> Die Vermietung von Liegenschaften im Eigentum eines Vertragskantons an die Universität orientiert sich an der Trennung von Grundausbau und Mietausbau. Der Grundausbau ist in der Verantwortung des vermietenden Vertragskantons. Der Mietausbau ist in der Verantwortung der Universität als Mieterin.
+<sup>1</sup> Liegenschaften im Eigentum eines Vertragskantons werden grundsätzlich nach verschiedenen Miet-Typen mit unterschiedlichen Verantwortlichkeiten an die Universität vermietet. Die Typisierung orientiert sich an Schnittstellen, welche mit den Elementen des Kostenrechnungsmodells SHK kompatibel sind.
 
-<sup>2</sup> Der vermietende Vertragskanton und die Universität regeln in Rahmenmietverträgen für unterschiedliche Raumtypen die allgemeinen Rechte und Pflichten der Vertragsparteien sowie die Abgrenzung des Mietausbaus vom Grundausbau.
+<sup>2</sup> Der vermietende Vertragskanton und die Universität regeln in einem Rahmenmietvertrag die Schnittstellen und Zuständigkeiten für die definierten Miet-Typen. Im Rahmenmietvertrag definieren die Parteien auch die Berechnung der Mietabgeltung für sämtliche Miet-Typen.
 
-<sup>3</sup> Die Rahmenmietverträge sind vor Abschluss dem Immobiliengremium zur Beurteilung vorzulegen.
+<sup>2<sup>bis</sup></sup> Der Rahmenmietvertrag gilt mindestens bis zum 31. Dezember 2029. Anschliessend richtet sich die Geltungsdauer des Rahmenmietvertrages nach den Leistungsauftragsperioden der Universität.
+
+<sup>3</sup> Der Rahmenmietvertrag und dessen Änderungen sind vor Abschluss dem Immobiliengremium zur Beurteilung vorzulegen.
 
 #### § 9
 
@@ -124,67 +124,61 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 
 <sup>1</sup> Objektspezifische Regelungen werden in Einzelmietverträgen zwischen dem vermietenden Vertragskanton und der Universität festgelegt.
 
-<sup>2</sup> Die Einzelmietverträge sind vor Abschluss dem Immobiliengremium zur Beurteilung vorzulegen.
+<sup>2</sup> Die Muster-Einzelmietverträge pro Miet-Typ sind dem Immobiliengremium zur Beurteilung vorzulegen.
 
-<sup>3</sup> Die Mietverhältnisse werden jeweils auf eine befristete Dauer abgeschlossen, die auf einen Fünf-Jahres-Zyklus abgestimmt ist. Der Universität als Mieterin wird in der Regel einmalig ein einseitiges Optionsrecht für weitere fünf Jahre eingeräumt.
+<sup>3</sup> Die Mietverhältnisse werden grundsätzlich mit einer festen Laufzeit von vier Jahren abgeschlossen, welche auf die Laufzeit des Rahmenmietvertrages (resp. der Leistungsauftragsperioden) abgestimmt ist. Weitere Regelungen bezüglich der Geltungsdauer der Mietverträge sowie der Kündigungsmodalitäten werden im Rahmenmietvertrag festgelegt.
 
-<sup>4</sup> Zum Zweck des Investitionsschutzes können Mietverhältnisse über mehrere Fünf-Jahres-Zyklen vereinbart werden.
+<sup>4</sup> Zum Zweck des Investitionsschutzes kann vom vermietenden Vertragskanton eine längere Mindestvertragslaufzeit verbindlich festgelegt werden.
 
 #### § 10
 
 **Mietabgeltung**
 
-<sup>1</sup> Die Mietabgeltungen werden grundsätzlich auf Basis des Kostenrechnungsmodells der Schweizerischen Hochschulkonferenz (SHK) für die universitären Hochschulen (Kostenrechnungsmodell SHK) festgelegt.
+<sup>1</sup> Die Mietabgeltungen werden grundsätzlich auf Basis des Kostenrechnungsmodells SHK festgelegt. Die Mietabgeltung setzt sich zusammen aus Kostenanteilen für Kapitalverzinsung, Instandhaltung, Instandsetzung und Landanteil.
 
-<sup>2</sup> Das Kostenrechnungsmodell SHK wird brutto (ohne Abzug der Bundessubventionen) angewandt und die dem vermietenden Vertragskanton effektiv angefallenen oder anfallenden Bundessubventionen sowie weitere Beiträge Dritter werden bei der Berechnung der Mietabgeltung in Abzug gebracht.
+<sup>2</sup> Die Methodik zur Festlegung der Mietabgeltung pro Miet-Typ sowie die Aufteilung der Gesamtmiete gemäss dem Kostenrechnungsmodell SHK (SHK-Ge-samtmiete) wird im Rahmenmietvertrag definiert. Wenn der Bau oder einzelne Massnahmen des Baus subventioniert wurden resp. werden, finden die subventionierten SHK-Mietansätze Anwendung.
 
-<sup>3</sup> Die Mietabgeltung bezieht sich auf die effektiv gemieteten Flächen (Hauptnutzflächen nach SIA 416) und wird bei Veränderung der Flächen dem aktuellen Stand angepasst.
+<sup>3</sup> Die Mietabgeltung bezieht sich auf die effektiv gemieteten Flächen (Nutzflächen) und SHK-Raumt-penliste (Anhang 1 der Verordnung des WBF vom 23. November 2016 über die Bauinvestitions- und Baunutzungsbeiträge für Hochschulbauten (Hochschulbauten-Beitrags-Verordnung, HSBBV [^10-1])). Veränderungen der Flächen und Raumtypenzuteilung werden jeweils auf Beginn einer Leistungsauftragsperiode gemäss Rahmenmietvertrag angepasst.
 
-<sup>4</sup> Massgebend für die Festlegung der Mietabgeltung ist die Gesamtmiete gemäss dem Kostenrechnungsmodell SHK (SHK-Gesamtmiete). Die SHK-Gesamtmiete wird aufgeteilt in einen Anteil Grundausbau und einen Anteil Mietausbau. Der Anteil Grundausbau geht als Mietabgeltung an den vermietenden Vertragskanton. Der Anteil Mietausbau wird dem Ausbaufonds zugewiesen.
+<sup>4</sup> Für jeden Miet-Typ wird im Rahmenmietvertrag die für jeden Raumtyp geltende Mietabgeltung, jeweils mit und ohne Abzug Bundessubvention, festgelegt. Die Festlegung der Mietabgeltungen hat unter Berücksichtigung der Elemente Kapitalverzinsung, Instandhaltung, Instandsetzung und Landanteil zu erfolgen.
 
-<sup>5</sup> Die Aufteilung der SHK-Gesamtmiete in Anteil Grundausbau und Anteil Mietausbau wird in den Einzelmietverträgen einvernehmlich festgelegt. Die Aufteilung kann jeweils auf Beginn einer neuen Leistungsauftragsperiode gesamthaft überprüft und angepasst werden. Das Verhältnis der Aufteilung hat keinen Einfluss auf die SHK-Gesamtmiete.
+<sup>5</sup> Die Aufteilung der SHK-Gesamtmiete erfolgt entsprechend der Zuständigkeit und Verantwortung für Instandhaltung und Instandsetzung. Die Anteile für Kapitalanteil und Landanteil verbleiben immer beim vermietenden Vertragskanton (Eigentümer).
 
-<sup>6</sup> Differenzen aus der Überprüfung werden in der Verteilung der SHK-Gesamtmiete der nächsten Leistungsauftragsperiode berücksichtigt.
+<sup>6</sup> Aktualisierungen des SHK-Modells sowie Flächen-und/oder Nutzungsänderungen mit Auswirkungen auf die Mietabgeltung werden jeweils auf eine Leistungsauftragsperiode hin nachvollzogen.
 
-<sup>7</sup> Die Mietnebenkosten sind nicht in der Gesamtmiete enthalten. Sie werden ausserhalb des Ausbaufonds der Spartenrechnung «Immobilien» belastet.
+<sup>7</sup> Die Mietnebenkosten sowie weitere Kosten ausserhalb des SHK-Modells sind nicht in der Gesamtmiete enthalten. Sie werden der Spartenrechnung «Immobilien» belastet.
+
+[^10-1]: SR [414.201.1](https://db.clex.ch/link/Bund/414.201.1/de).
 
 ## III. Grund- und Mietausbau in Liegenschaften eines Vertragskantons
 
 #### § 11
 
-**Grundausbau**
-
-<sup>1</sup> Der Grundausbau in Liegenschaften, die an die Universität vermietet werden, berücksichtigt die Nutzungsbedürfnisse der Universität.
-
-<sup>2</sup> Der Vertragskanton hat die an die Universität vermieteten Liegenschaften werterhaltend und der Nutzung entsprechend angemessen zu unterhalten.
+**…**
 
 #### § 12
 
-**Mietausbau**
-
-<sup>1</sup> Die Universität trägt die Verantwortung für den Mietausbau, dessen Unterhalt und allfällige Rückbauten.
-
-<sup>2</sup> Die Universität plant und realisiert den Mietausbau sowie dessen Unterhalt unter Berücksichtigung des Grundsatzes der Nachhaltigkeit.
-
-<sup>3</sup> Sie hat für beabsichtigte Mietausbauten frühzeitig die Zustimmung des vermietenden Vertragskantons einzuholen.
-
-<sup>4</sup> Der vermietende Vertragskanton prüft eine Koordination des Mietausbaus mit Grundausbauten, einschliesslich Unterhaltsarbeiten.
+**…**
 
 #### § 13
 
-**Mehrkosten infolge Schutzwürdigkeit von Liegenschaften, Altlasten oder verdeckten Mängeln**
+**Mehrkosten infolge Bauherrenaltlasten, Altlasten oder verdeckten Mängeln**
 
-<sup>1</sup> Verursacht die Schutzwürdigkeit von Liegenschaften zusätzliche Kosten, gehen diese zu Lasten des vermietenden Vertragskantons.
+<sup>1</sup> Mehrkosten infolge einer Belastung mit Altlasten oder Bauherrenaltlasten gehen zu Lasten des vermietenden Vertragskantons, sofern nicht die Universität die Belastung seit 2007 verursacht hat.
 
-<sup>2</sup> Treten an den unter diese Vereinbarung fallenden Liegenschaften im Eigentum eines Vertragskantons verdeckte Mängel oder Altlasten auf, gelangen die Gewährleistungsregelungen gemäss Universitätsvertrag zur Anwendung.
+<sup>2</sup> Treten an den unter diese Vereinbarung fallenden Liegenschaften im Eigentum eines Vertragskantons verdeckte Mängel auf, gelangen die Gewährleistungsregelungen gemäss Universitätsvertrag zur Anwendung.
 
 #### § 14
 
-**Ausbaufonds**
+**Fonds für Instandhaltung und Instandsetzung**
 
-<sup>1</sup> Die Universität führt einen Ausbaufonds zur Finanzierung von Mietausbauten sowie deren Unterhalt und erforderlichen Rückbauten in Liegenschaften eines Vertragskantons.
+<sup>1</sup> Die Universität führt einen Fonds zur Finanzierung von Instandhaltung und Instandsetzung von Liegenschaften im Eigentum eines Vertragskantons, für welche die Universität gemäss Rahmenmietvertrag zuständig ist.
 
-<sup>2</sup> Der Fonds wird gespiesen durch den Anteil Mietausbau an der SHK-Gesamtmiete.
+<sup>2</sup> Der Fonds wird gespiesen durch den Anteil für Instandhaltung und Instandsetzung der effektiven SHK-Raumtypen der SHK-Gesamtmiete, welcher gemäss Rahmenmietvertrag bei der Universität verbleibt.
+
+<sup>3</sup> Die Verwendung von Mitteln des Fonds für Instandhaltung und Instandsetzung für Mobiliar (BKP 9) und gemäss Schnittstellenpapier Bau ist ausgeschlossen. Diese Kosten werden über den Globalbeitrag finanziert und in der Spartenrechnung „Immobilien“ ausgewiesen.
+
+<sup>4</sup> Die Äufnung und Mittelverwendung des Fonds ist bei Bedarf zu prüfen.
 
 ## IV. Investitionen in Liegenschaften eines Vertragskantons
 
@@ -192,9 +186,11 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 
 **Finanzierung**
 
-<sup>1</sup> Neu- und Umbauten zur anschliessenden Vermietung an die Universität werden in der Regel von dem Vertragskanton finanziert, der Gebäudeeigentümer ist bzw. wird. Den Mietausbau finanziert die Universität aus dem Ausbaufonds.
+<sup>1</sup> Erstinvestitionen und zwischen den Trägerkantonen und der Universität gemeinsam beschlossene Neupositionierungen von Liegenschaften zur anschliessenden Vermietung an die Universität werden in der Regel von dem Vertragskanton finanziert, der Gebäudeeigentümer ist bzw. wird.
 
-<sup>2</sup> Die Bundessubventionen kommen vollumfänglich der Universität zugute. Die Umsetzung wird objektspezifisch zwischen dem vermietenden Vertragskanton und der Universität geregelt und dem Immobiliengremium vorgängig zur Beurteilung unterbreitet.
+<sup>2</sup> Bundessubventionen werden in der Mietabgeltung berücksichtigt und kommen so vollumfänglich der Universität zugute.
+
+<sup>3</sup> Die anschliessende Vermietung erfolgt grundsätzlich nach den Bestimmungen gemäss Kapitel II. Wird objektspezifisch vom Rahmenmietvertrag abgewichen, wird der abzuschliessende Einzelmietvertrag dem Immobiliengremium vorgängig zur Beurteilung unterbreitet.
 
 #### § 16
 
@@ -202,7 +198,7 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 
 <sup>1</sup> Die Bauherrschaft liegt beim Vertragskanton, der Gebäudeeigentümer ist bzw. wird, sofern die Vertragskantone keine andere Regelung über die Projektorganisation treffen.
 
-<sup>2</sup> Die Universität wird als Nutzerin in das Projekt eingebunden. Sie ist verantwortlich für die Definition der betrieblichen Anforderungen und des Mietausbaus inkl. Betriebseinrichtungen und Mobilien.
+<sup>2</sup> Die Universität wird als Nutzerin in das Projekt eingebunden. Sie ist verantwortlich für die Definition der betrieblichen Anforderungen inkl. Betriebseinrichtungen und Mobilien.
 
 <sup>3</sup> Die Projektanträge müssen den Standards der Vertragskantone entsprechen und bezüglich Wirtschaftlichkeit, Leistungen, Leistungsstandards und Synergien auf jede Projektphase angewendet werden.
 
@@ -246,7 +242,7 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 
 <sup>2</sup> Die Mietzinsen müssen verhältnismässig sein. Sie dürfen marktübliche Preise nicht überschreiten.
 
-<sup>3</sup> Ausnahmsweise und im gegenseitigen Einvernehmen der Vertragskantone kann ein Vertragskanton als Investor auftreten und vom Mietmodell gemäss § 8 und von der Mietabgeltung gemäss § 10 abgewichen werden. In diesem Fall müssen Bundessubventionen vollumfänglich in der Mietzinsberechnung berücksichtigt werden.
+<sup>3</sup> Ausnahmsweise und im gegenseitigen Einvernehmen der Vertragskantone kann ein Vertragskanton als Investor auftreten und es kann vom Mietmodell gemäss § 8 und von der Mietabgeltung gemäss § 10 abgewichen werden. Bundessubventionen sind in der Mietzinsberechnung analog der Vereinbarung gemäss § 10 zu berücksichtigen.
 
 #### § 20
 
@@ -283,9 +279,9 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 
 #### § 23
 
-**Wertvermehrende Investitionen bis 31. Dezember 2021**
+**Übergangsbestimmung Ausbaufonds**
 
-<sup>1</sup> Wertvermehrende Investitionen, die die Universität seit Inkrafttreten des Universitätsvertrags bis zum 31. Dezember 2021 in Liegenschaften eines Vertragskantons getätigt hat, hat der Vertragskanton der Universität zum Zeitpunkt einer Handänderung oder Rückgabe der Liegenschaft in dem Umfang zu entschädigen, als sie noch nicht abgeschrieben sind.
+<sup>1</sup> Der Fonds für Instandhaltung und Instandsetzung löst den Ausbaufonds zum 1. Januar 2026 ab. Der Bestand des Ausbaufonds per 31. Dezember 2025 wird vollumfänglich dem Fonds für Instandhaltung und Instandsetzung gutgeschrieben. Sämtliche vor dem 1. Januar 2026 bewilligten und laufenden Projekte und Aufträge (auch diejenigen in Typ1 Liegenschaften gemäss Schnittstellenpapier) werden bis zu ihrer Schlussabrechnung auch nach dem 1. Januar 2026 dem Fonds für Instandhaltung und Instandsetzung belastet. Die Kosten aller ab dem 1. Januar 2026 bewilligten Projekte, die in Typ1 Liegenschaften durchgeführt werden und gemäss Schnittstellenpapier von der Universität zu tragen sind, werden ab dem 1. Januar 2026 der Sparte «Immobilien» belastet.
 
 <sup>2</sup> Die getätigten wertvermehrenden Investitionen in die Liegenschaften eines Vertragskantons sollen bis zum 31. Dezember 2021 erfasst werden mit Summe, Inhalt und Zeitpunkt der Investition. Dies gilt nur für Liegenschaften, für die derzeit eine Handänderung oder eine Rückgabe an den Vertragskanton beabsichtigt ist.
 
@@ -293,11 +289,7 @@ Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton 
 
 #### § 24
 
-**Überführung von Liegenschaften in das neue Mietmodell**
-
-<sup>1</sup> Bestehende Mietverhältnisse zwischen dem Kanton Basel-Stadt und der Universität werden bis 31. Dezember 2023 in das neue Mietmodell überführt.
-
-<sup>2</sup> Die Überführung der Mietverhältnisse ist den Regierungen der Vertragskantone vorgängig zur Genehmigung vorzulegen.
+**…**
 
 #### § 25
 
