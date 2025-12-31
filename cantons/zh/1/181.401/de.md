@@ -3,11 +3,10 @@ canton: ZH
 number: "181.401"
 title: Vollzugsverordnung zur Personalverordnung
 language: de
-version: "2025-08-01"
-nachtrag: "130"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2011-07-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_401-2011_07_06-2012_01_01-130.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_401-2011_07_06-2012_01_01-131.html"
 text: pdf
 ---
 
@@ -67,7 +66,7 @@ Soweit diese Verordnung nicht ausdrücklich etwas anderes bestimmt, gelten für 
 
 **1**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ### B. Personalcontrolling und Stellenplan
 
@@ -166,7 +165,7 @@ Der Kirchenrat überwacht die Einreihungsordnung und die Entwicklung des Persona
 
 **3**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Das fiktive Eintrittsdatum wird bei einem Wiedereintritt in den Dienst einer Kirchgemeinde oder der Landeskirche angepasst, ebenso bei einmaligen oder mehrfachen unbezahlten Urlauben, deren Dauer im Einzelfall insgesamt drei Monate übersteigt, wobei nur die diese Dauer übersteigende Zeit berücksichtigt wird.
 
@@ -250,7 +249,7 @@ Bestehen für eine Pfarrerin, einen Pfarrer, eine Angestellte oder einen Angeste
 
 **5**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Bei einer Entlassung aus dem Amt gemäss Art. 132 Abs. 2 der Kirchenordnung zeigt der Kirchenrat dies den Pfarrerinnen und Pfarrern sowie der Kirchenpflege mindestens neun Monate im Voraus an. In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer teilen dem Kirchenrat mindestens sechs Monate im Voraus den genauen Zeitpunkt des Ausscheidens aus dem Amt mit.
 
@@ -330,7 +329,9 @@ Kommen Pfarrerinnen, Pfarrer und Angestellte ihrer Informationspflicht gemäss �
 
 **7**
 
-1.10. 25 - 130 c. dem Gespräch mit den Angestellten über ihre berufliche und persönliche Entwicklung,
+- 1\. 1. 26 - 131
+
+- c. dem Gespräch mit den Angestellten über ihre berufliche und persönliche Entwicklung,
 
 - d. den Rückmeldungen der Angestellten zum Führungsverhalten der vorgesetzten Stelle.
 
@@ -412,7 +413,7 @@ Kommen Pfarrerinnen, Pfarrer und Angestellte ihrer Informationspflicht gemäss �
 
 **9**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Die Geschäftsordnung der Kirchenpflege kann ein anderes Mitglied der Kirchenpflege oder das personalverantwortliche Mitglied einer unterstellten Kommission mit der Führung des Mitarbeitendengesprächs gemäss Abs. 1 beauftragen.
 
@@ -475,7 +476,7 @@ Kommen Pfarrerinnen, Pfarrer und Angestellte ihrer Informationspflicht gemäss �
 
 **11**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Die Personalakten sind verschlossen aufzubewahren sowie vor dem Zugriff, der Einsichtnahme und Veränderungen durch unbefugte Personen zu schützen, insbesondere wenn sie zur Bearbeitung von Personalgeschäften durch verschiedene Stellen versandt werden müssen.
 
@@ -548,7 +549,9 @@ Die Bestimmungen über die Personalakten und Personaldossiers sowie über die Be
 
 **13**
 
-1.10. 25 - 130 b. Staatsangehörigkeit, Bürgerort und Niederlassungs- oder Aufenthaltsstatus ausländischer Staatsangehöriger,
+- 1\. 1. 26 - 131
+
+- b. Staatsangehörigkeit, Bürgerort und Niederlassungs- oder Aufenthaltsstatus ausländischer Staatsangehöriger,
 
 - c. Geburtsdatum der Ehegattin, des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners,
 
@@ -655,7 +658,7 @@ Die Bestimmungen über die Personalakten und Personaldossiers sowie über die Be
 
 **15**
 
-1.10. 25 - 130 § 44.[^43-1] <sup>1</sup> Die Anstellungsinstanz setzt den Anfangslohn unter Berücksichtigung von § 55 Abs. 1 und 2 PVO im unteren oder mittleren Bereich einer Lohnklasse fest.
+- 1\. 1. 26 - 131 § 44.[^43-1] <sup>1</sup> Die Anstellungsinstanz setzt den Anfangslohn unter Berücksichtigung von § 55 Abs. 1 und 2 PVO im unteren oder mittleren Bereich einer Lohnklasse fest.
 
 **Anfangslohn (§ 63 Abs. 1 PVO)**
 
@@ -749,7 +752,7 @@ Erfordern die Aufgaben von Pfarrerinnen, Pfarrern und Angestellten eine Mitwirku
 
 **17**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Die mittelfristige individuelle Lohnerhöhung bei Pfarrerinnen und Pfarrern entspricht der durchschnittlichen Lohnentwicklung bei den Angestellten der Gesamtkirchlichen Dienste aufgrund erfolgter individueller Lohnerhöhungen in diesem Zeitraum.
 
@@ -849,7 +852,7 @@ Kein Anspruch auf den 13. Monatslohn besteht auf:
 
 **19**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Pfarrerinnen, Pfarrer und Angestellte, die mit einem vollzeitlichen Pensum bei einer Anstellungsinstanz tätig sind, erhalten auf Nebenbeschäftigungen gemäss § 93 PVO, die sie bei einer Anstellungsinstanz ausüben, kein Dienstaltersgeschenk.
 
@@ -922,7 +925,7 @@ Funktionszulagen, Einmalzulagen und Leistungsprämien sind nicht an die Termine 
 
 **21**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ### 4. Abschnitt: Ersatz von dienstlichen Auslagen und Sachschaden
 
@@ -996,7 +999,7 @@ Als dienstliche Auslagen gelten Auslagen, die Pfarrerinnen, Pfarrern und Angeste
 
 **23**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Pfarrerinnen, Pfarrer und Angestellte können im amtlichen oder dienstlichen Interesse Drittpersonen einladen. Sie dokumentieren zuhanden der gemäss § 76 Abs. 1 zuständigen Behörde Art und Teilnehmende des Anlasses sowie das amtliche oder dienstliche Interesse an der Einladung.
 
@@ -1090,7 +1093,7 @@ Beziehen in einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer ihre Ferien nic
 
 **25**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Die zusätzliche Ferienwoche gemäss § 78 Abs. 1 PVO, die Angestellten ab Beginn des Kalenderjahres zusteht, in dem sie das 60. Altersjahr vollenden, wird Angestellten im katechetischen Dienst durch einen Zuschlag auf den Lohn von 1,96% abgegolten.[^82-1]
 
@@ -1160,7 +1163,7 @@ Der Ferienanspruch von Angestellten im Stundenlohn wird durch einen Zuschlag zum
 
 **27**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Ist eine gegenseitige Stellvertretung nicht möglich, so regeln Pfarrerinnen und Pfarrer in Institutionen und in Pfarrämtern der Gesamtkirchlichen Dienste die Stellvertretung in Absprache mit Pfarrerinnen und Pfarrern, die in einer Kirchgemeinde im Einzugsgebiet der Institution oder des Pfarramtes der Gesamtkirchlichen Dienste tätig sind. Bei Pfarrämtern mit gemischter Trägerschaft erfolgt die Stellvertretung nach Möglichkeit durch die verantwortlichen Personen der weiteren Trägerinnen und Träger.
 
@@ -1243,7 +1246,9 @@ Der Ferienanspruch von Angestellten im Stundenlohn wird durch einen Zuschlag zum
 
 **29**
 
-1.10. 25 - 130 d. An- und Abmeldung bei Behörden die notwendige Zeit,
+- 1\. 1. 26 - 131
+
+- d. An- und Abmeldung bei Behörden die notwendige Zeit,
 
 - e. Vorladungen vor Gericht oder vor eine andere Behörde die notwendige Zeit.
 
@@ -1335,7 +1340,7 @@ Unbezahlter Urlaub kann gewährt werden, wenn die amtlichen oder dienstlichen Ve
 
 **31**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ### D. Elternschaft
 
@@ -1419,7 +1424,7 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **33**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>4</sup> In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer informieren gleichzeitig die Kirchenpflege, Pfarrerinnen und Pfarrer in Institutionen sowie Angestellte die vorgesetzte Stelle.
 
@@ -1485,9 +1490,11 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **35**
 
-1.10. 25 - 130 § 117. <sup>1</sup> Die Anstellungsinstanz kann den Lohn kürzen, wenn Pfarrerinnen, Pfarrer und Angestellte a. einen Unfall oder eine Krankheit absichtlich oder grobfahrlässig herbeigeführt haben oder diese die Folge einer ausserberuflich bewusst eingegangenen, besonderen Gefährdung sind,
+- 1\. 1. 26 - 131 § 117. <sup>1</sup> Die Anstellungsinstanz kann den Lohn kürzen, wenn Pfarrerinnen, Pfarrer und Angestellte
 
 **c. Kürzung**
+
+- a. einen Unfall oder eine Krankheit absichtlich oder grobfahrlässig herbeigeführt haben oder diese die Folge einer ausserberuflich bewusst eingegangenen, besonderen Gefährdung sind,
 
 - b. ein ärztliches Zeugnis nicht oder nicht rechtzeitig einreichen,
 
@@ -1559,7 +1566,7 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **37**
 
-1.10. 25 - 130 § 124. Erleiden Pfarrerinnen, Pfarrer oder Angestellte, die nicht nach dem Bundesgesetz über die Unfallversicherung[^123-1] versichert sind, im Rahmen ihrer amtlichen oder dienstlichen Tätigkeit einen Berufsunfall, so erbringt die Anstellungsinstanz die Leistungen gemäss dem Bundesgesetz über die Unfallversicherung, wenn die amtliche oder dienstliche Tätigkeit bei der Anstellungsinstanz nicht durch eine Unfallversicherung aufgrund einer anderen beruflichen Tätigkeit versichert ist.
+- 1\. 1. 26 - 131 § 124. Erleiden Pfarrerinnen, Pfarrer oder Angestellte, die nicht nach dem Bundesgesetz über die Unfallversicherung[^123-1] versichert sind, im Rahmen ihrer amtlichen oder dienstlichen Tätigkeit einen Berufsunfall, so erbringt die Anstellungsinstanz die Leistungen gemäss dem Bundesgesetz über die Unfallversicherung, wenn die amtliche oder dienstliche Tätigkeit bei der Anstellungsinstanz nicht durch eine Unfallversicherung aufgrund einer anderen beruflichen Tätigkeit versichert ist.
 
 [^123-1]: SR 832.20.
 
@@ -1619,7 +1626,11 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **39**
 
-1.10. 25 - 130 e. Kinder und Stiefkinder der verstorbenen Person, für deren Unterhalt sie zur Hauptsache aufgekommen ist, sowie Kinder, welche die verstorbene Person unentgeltlich zu dauernder Pflege und Erziehung aufgenommen hat, sofern die Kinder und Stiefkinder 1. das 20. Altersjahr noch nicht vollendet haben,
+- 1\. 1. 26 - 131
+
+- e. Kinder und Stiefkinder der verstorbenen Person, für deren Unterhalt sie zur Hauptsache aufgekommen ist, sowie Kinder, welche die verstorbene Person unentgeltlich zu dauernder Pflege und Erziehung aufgenommen hat, sofern die Kinder und Stiefkinder
+
+- 1\. das 20. Altersjahr noch nicht vollendet haben,
 
 - 2\. das 25. Altersjahr noch nicht vollendet haben und in der Ausbildung oder wegen körperlicher oder geistiger Gebrechen bis zu höchstens einem Drittel erwerbsfähig sind.
 
@@ -1693,7 +1704,7 @@ Als Lohn im Sinn der Bestimmungen dieses Abschnitts gelten der vereinbarte Lohn 
 
 **41**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> In einer Kirchgemeinde tätige Pfarrerinnen und Pfarrer haben Anspruch auf einen Freisonntag bei einer Dienstleistung als Armeeseelsorger von mindestens fünf Tagen pro Kalenderjahr und einen weiteren Freisonntag bei einer Dienstleistung als Armeeseelsorger von zehn und mehr Tagen pro Kalenderjahr.
 
@@ -1765,7 +1776,7 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 **43**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Die jährliche Arbeitszeit beträgt bei einem vollen Pensum brutto 2184 Stunden (52 Wochen (cid:2) 42 Stunden). Bei einem teilzeitlichen Pensum wird die jährliche Arbeitszeit aufgrund des betreffenden Beschäftigungsgrads ermittelt. Für die Berechnung der Netto-Jahres-Arbeitszeit werden der individuelle Ferienanspruch, die auf einen Wochentag fallenden Ruhetage sowie Arbeitszeitreduktionen vor Ruhetagen in Abzug gebracht.
 
@@ -1787,7 +1798,7 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 <sup>6</sup> §§ 136, 139 Abs. 2–4 und 140–151 sind nicht anwendbar.
 
-[^136-1]: Fassung gemäss B vom 7. Mai 2025 (OS 80, 162; ABl 2025-05-16). In Kraft seit 1. August 2025. 1.10. 25 - 130 71
+[^136-1]: Fassung gemäss B vom 7. Mai 2025 (OS 80, 162; ABl 2025-05-16). In Kraft seit 1. August 2025.
 [^136-2]: Fassung gemäss B vom 20. September 2017 (OS 72, 604; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
 
 #### § 138
@@ -1826,7 +1837,7 @@ Für Arbeitszeit, die über die zeitliche Beanspruchung gemäss § 131 Abs. 2 hi
 
 **45**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>4</sup> Die Regelarbeitszeit wird innerhalb des Tagesrahmens unter Berücksichtigung der dienstlichen und persönlichen Verhältnisse vereinbart. Die Vereinbarung kann sich auf die tägliche Sollzeit beschränken oder durch feste zeitliche Einteilungen ergänzt werden.
 
@@ -1912,7 +1923,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **47**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Der massgebende Stundenansatz für die Vergütung beträgt bei einer wöchentlichen Arbeitszeit von 42 Stunden <sup>1</sup>(cid:3)2184 des Jahreslohns.
 
@@ -1989,7 +2000,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **49**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Im Rahmen der Bewilligung gemäss Abs. 1 und 2 berücksichtigt die Anstellungsinstanz insbesondere,
 
@@ -2059,7 +2070,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **51**
 
-1.10. 25 - 130 § 158 c.[^153-1] <sup>1</sup> Die Anstellungsinstanz entscheidet über die Beteiligung an den Kosten einer Weiterbildung.
+- 1\. 1. 26 - 131 § 158 c.[^153-1] <sup>1</sup> Die Anstellungsinstanz entscheidet über die Beteiligung an den Kosten einer Weiterbildung.
 
 **d. Entscheid**
 
@@ -2137,7 +2148,11 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **53**
 
-1.10. 25 - 130 c. zu 25%, wenn 1. die Weiterbildung es Pfarrerinnen, Pfarrern und Angestellten ermöglicht, grundlegende Kenntnisse und Befähigungen zu erwerben, die auf einen möglichen neuen Aufgabenbereich vorbereiten, und zugleich wesentlich der beruflichen oder persönlichen Weiterentwicklung dient,
+- 1\. 1. 26 - 131
+
+- c. zu 25%, wenn
+
+- 1\. die Weiterbildung es Pfarrerinnen, Pfarrern und Angestellten ermöglicht, grundlegende Kenntnisse und Befähigungen zu erwerben, die auf einen möglichen neuen Aufgabenbereich vorbereiten, und zugleich wesentlich der beruflichen oder persönlichen Weiterentwicklung dient,
 
 - 2\. die Voraussetzungen gemäss lit. a und b nicht erfüllt sind, damit aber ein wesentlicher Beitrag zur arbeitsplatzbezogenen Gesamtsituation geleistet wird.
 
@@ -2211,7 +2226,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **55**
 
-1.10. 25 - 130 § 163 b.[^162-1] Der Kirchenrat bezeichnet eine Stelle, die Pfarrerinnen, Pfarrer und Angestellte bei der Planung und Durchführung von Weiterbildungen sowie Weiterbildungsurlauben unterstützt und begleitet. Die Stelle begutachtet zuhanden der Anstellungsinstanz insbesondere Plan und Inhalte von Weiterbildungsurlauben.
+- 1\. 1. 26 - 131 § 163 b.[^162-1] Der Kirchenrat bezeichnet eine Stelle, die Pfarrerinnen, Pfarrer und Angestellte bei der Planung und Durchführung von Weiterbildungen sowie Weiterbildungsurlauben unterstützt und begleitet. Die Stelle begutachtet zuhanden der Anstellungsinstanz insbesondere Plan und Inhalte von Weiterbildungsurlauben.
 
 **Begleitung und Unterstützung**
 
@@ -2287,7 +2302,7 @@ Bei bezahltem Urlaub gemäss §§ 92–100 wird die tatsächliche Abwesenheit, h
 
 **57**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>7</sup> Während des Weiterbildungsurlaubs wird die Lohnzahlung weitergeführt. Pfarrerinnen, Pfarrern und Angestellten bleiben Rechte und Pflichten in Bezug auf das Pfarrhaus, die Pfarrwohnung oder die Dienstwohnung gewahrt.
 
@@ -2356,7 +2371,7 @@ Die Anstellungsinstanz kann Pfarrerinnen, Pfarrern und Angestellten für Vorschl
 
 **59**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ### B. Pflichten
 
@@ -2432,7 +2447,7 @@ Leisten Pfarrerinnen, Pfarrer oder Angestellte der Einladung, sich einer vertrau
 
 **61**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Die Anstellungsinstanz setzt die zu leistenden Vergütungen fest und regelt deren Einzug.
 
@@ -2502,7 +2517,7 @@ Leisten Pfarrerinnen, Pfarrer oder Angestellte der Einladung, sich einer vertrau
 
 **63**
 
-1.10. 25 - 130 § 183. <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte bestätigen gegenüber der Anstellungsinstanz schriftlich, dass sie auf §§ 180–188 aufmerksam gemacht worden sind und die möglichen straf-, zivil- und personalrechtlichen Konsequenzen eines Missbrauchs von Internet, E-Mail und elektronischen Kommunikationsplattformen zur Kenntnis genommen haben.
+- 1\. 1. 26 - 131 § 183. <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellte bestätigen gegenüber der Anstellungsinstanz schriftlich, dass sie auf §§ 180–188 aufmerksam gemacht worden sind und die möglichen straf-, zivil- und personalrechtlichen Konsequenzen eines Missbrauchs von Internet, E-Mail und elektronischen Kommunikationsplattformen zur Kenntnis genommen haben.
 
 **Schriftliche Bestätigung**
 
@@ -2586,7 +2601,7 @@ Bei in einer Kirchgemeinde tätigen Pfarrerinnen und Pfarrern sowie bei Pfarreri
 
 **65**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Der Urabstimmung unterliegen:
 
@@ -2676,7 +2691,7 @@ Der Kirchenrat kann die Lohnadministration für andere Anstellungsinstanzen übe
 
 **67**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ### B. Besondere Anstellungsverhältnisse
 
@@ -2790,7 +2805,7 @@ Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 **69**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ### Übergangsbestimmung zur Änderung vom 27. März 2019 (OS 74, 259)
 
@@ -2852,7 +2867,7 @@ Administrative/r Leiter/in Chorleiter/in Erwachsenenbildner/in HF Katechet/in Or
 
 **73**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 [^hKlasse9-1]: Fassung gemäss B vom 4. September 2013 (OS 68, 388; ABl 2013-09-20). In Kraft seit 1. Januar 2014.
 
@@ -2898,7 +2913,7 @@ Abteilungsleiter/in Bereichsleiter/in Gemeindepfarrer/in Geschäftsleiter/in Pfa
 
 **75**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ### Klasse 18
 
@@ -2912,7 +2927,7 @@ Kirchenratsschreiber/in Mitglied des Kirchenrates
 
 Kirchenratspräsident/in
 
-[^hKlasse21-1]: Fassung gemäss B vom 29. November 2023 (OS 78, 541). In Kraft seit 1. Januar 2024.
+[^hKlasse21-1]: Fassung gemäss B vom 26. November 2025 (OS 80, 331). In Kraft seit 1. Januar 2026. 1. 1. 26 - 131 71
 
 ### Anhang 2: Beträge der Lohnklassen
 
@@ -2922,81 +2937,81 @@ Kirchenratspräsident/in
 
 LK 1 2 3 4 5
 
-### 36 B3 10 75 007 77 356 80 093 83 232 86 805 90 860 95 417 100 516 106 190 112 475
+### 36 B3 10 75 832 78 207 80 974 84 148 87 760 91 859 96 467 101 622 107 358 113 712
 
-35 B3 9 74 367 76 696 79 411 82 522 86 066 90 085 94 604 99 659 105 285 111 516
+35 B3 9 75 185 77 540 80 285 83 430 87 013 91 076 95 645 100 755 106 443 112 743
 
-34 B3 8 73 728 76 037 78 728 81 813 85 325 89 311 93 791 98 803 104 380 110 558
+34 B3 8 74 539 76 873 79 594 82 713 86 264 90 293 94 823 99 890 105 528 111 774
 
-33 B3 7 73 088 75 378 78 045 81 105 84 586 88 537 92 978 97 947 103 476 109 599
+33 B3 7 73 892 76 207 78 903 81 997 85 516 89 511 94 001 99 024 104 614 110 805
 
-32 B3 6 72 449 74 718 77 362 80 394 83 846 87 762 92 166 97 089 102 571 108 640
+32 B3 6 73 246 75 540 78 213 81 278 84 768 88 727 93 180 98 157 103 699 109 835
 
-31 B3 5 71 809 74 060 76 680 79 685 83 106 86 987 91 352 96 234 101 666 107 683
+31 B3 5 72 599 74 875 77 523 80 562 84 020 87 944 92 357 97 293 102 784 108 868
 
-30 B3 4 71 172 73 400 75 997 78 975 82 367 86 214 90 539 95 375 100 760 106 724
+30 B3 4 71 955 74 207 76 833 79 844 83 273 87 162 91 535 96 424 101 868 107 898
 
-29 B3 3 70 531 72 741 75 315 78 265 81 625 85 439 89 725 94 520 99 855 105 765
+29 B3 3 71 307 73 541 76 143 79 126 82 523 86 379 90 712 95 560 100 953 106 928
 
-28 B3 2 69 892 72 082 74 633 77 557 80 887 84 664 88 911 93 663 98 950 104 806
+28 B3 2 70 661 72 875 75 454 78 410 81 777 85 595 89 889 94 693 100 038 105 959
 
-### 27 B3 1 69 253 71 423 73 950 76 847 80 147 83 890 88 098 92 806 98 045 103 848
+### 27 B3 1 70 015 72 209 74 763 77 692 81 029 84 813 89 067 93 827 99 123 104 990
 
-26 B2 10 68 613 70 764 73 267 76 139 79 407 83 116 87 285 91 949 97 140 102 889
+26 B2 10 69 368 71 542 74 073 76 977 80 280 84 030 88 245 92 960 98 209 104 021
 
-25 B2 9 67 974 70 105 72 583 75 429 78 667 82 341 86 471 91 093 96 236 101 931
+25 B2 9 68 722 70 876 73 381 76 259 79 532 83 247 87 422 92 095 97 295 103 052
 
-24 B2 8 67 336 69 445 71 902 74 718 77 928 81 566 85 659 90 235 95 331 100 971
+24 B2 8 68 077 70 209 72 693 75 540 78 785 82 463 86 601 91 228 96 380 102 082
 
-23 B2 7 66 696 68 786 71 218 74 010 77 188 80 793 84 845 89 380 94 425 100 014
+23 B2 7 67 430 69 543 72 001 74 824 78 037 81 682 85 778 90 363 95 464 101 114
 
-22 B2 6 66 056 68 126 70 536 73 300 76 447 80 019 84 033 88 522 93 520 99 055
+22 B2 6 66 783 68 875 71 312 74 106 77 288 80 899 84 957 89 496 94 549 100 145
 
-21 B2 5 65 416 67 467 69 855 72 591 75 708 79 244 83 219 87 666 92 615 98 097
+21 B2 5 66 136 68 209 70 623 73 390 76 541 80 116 84 134 88 630 93 634 99 176
 
-20 B2 4 64 778 66 808 69 171 71 882 74 968 78 470 82 405 86 810 91 709 97 137
+20 B2 4 65 491 67 543 69 932 72 673 75 793 79 333 83 311 87 765 92 718 98 206
 
-19 B2 3 64 139 66 149 68 488 71 174 74 229 77 695 81 593 85 953 90 805 96 179
+19 B2 3 64 845 66 877 69 241 71 957 75 046 78 550 82 491 86 898 91 804 97 237
 
-18 B2 2 63 499 65 490 67 806 70 463 73 488 76 921 80 779 85 097 89 900 95 220
+18 B2 2 64 197 66 210 68 552 71 238 74 296 77 767 81 668 86 033 90 889 96 267
 
-### 17 B2 1 62 860 64 831 67 123 69 754 72 749 76 147 79 967 84 239 88 995 94 262
+### 17 B2 1 63 551 65 544 67 861 70 521 73 549 76 985 80 847 85 166 89 974 95 299
 
-16 B1 14 62 221 64 171 66 441 69 045 72 009 75 372 79 153 83 384 88 089 93 304
+16 B1 14 62 905 64 877 67 172 69 804 72 801 76 201 80 024 84 301 89 058 94 330
 
-15 B1 13 61 581 63 512 65 759 68 334 71 269 74 597 78 341 82 525 87 184 92 345
+15 B1 13 62 258 64 211 66 482 69 086 72 053 75 418 79 203 83 433 88 143 93 361
 
-14 B1 12 60 943 62 852 65 076 67 626 70 529 73 824 77 527 81 670 86 280 91 387
+14 B1 12 61 613 63 543 65 792 68 370 71 305 74 636 78 380 82 568 87 229 92 392
 
-13 B1 11 60 303 62 193 64 393 66 917 69 790 73 049 76 713 80 812 85 375 90 428
+13 B1 11 60 966 62 877 65 101 67 653 70 558 73 853 77 557 81 701 86 314 91 423
 
-12 B1 10 59 664 61 534 63 710 66 207 69 050 72 274 75 901 79 957 84 470 89 470
+12 B1 10 60 320 62 211 64 411 66 935 69 810 73 069 76 736 80 837 85 399 90 454
 
-11 B1 9 59 025 60 874 63 028 65 498 68 309 71 500 75 087 79 099 83 565 88 510
+11 B1 9 59 674 61 544 63 721 66 218 69 060 72 287 75 913 79 969 84 484 89 484
 
-10 B1 8 58 385 60 215 62 345 64 789 67 569 70 726 74 275 78 243 82 660 87 551
+10 B1 8 59 027 60 877 63 031 65 502 68 312 71 504 75 092 79 104 83 569 88 514
 
-9 B1 7 57 745 59 556 61 662 64 079 66 830 69 951 73 461 77 386 81 754 86 592
+9 B1 7 58 380 60 211 62 340 64 784 67 565 70 720 74 269 78 237 82 653 87 545
 
-8 B1 6 57 108 58 895 60 980 63 369 66 091 69 177 72 648 76 529 80 849 85 634
+8 B1 6 57 736 59 543 61 651 64 066 66 818 69 938 73 447 77 371 81 738 86 576
 
-7 B1 5 56 468 58 236 60 298 62 660 65 350 68 402 71 835 75 673 79 944 84 675
+7 B1 5 57 089 58 877 60 961 63 349 66 069 69 154 72 625 76 505 80 823 85 606
 
-6 B1 4 55 828 57 577 59 613 61 951 64 610 67 628 71 021 74 817 79 039 83 717
+6 B1 4 56 442 58 210 60 269 62 632 65 321 68 372 71 802 75 640 79 908 84 638
 
-5 B1 3 55 189 56 918 58 932 61 242 63 872 66 855 70 207 73 959 78 134 82 758
+5 B1 3 55 796 57 544 59 580 61 916 64 575 67 590 70 979 74 773 78 993 83 668
 
-4 B1 2 54 550 56 259 58 250 60 532 63 131 66 080 69 394 73 103 77 229 81 800
+4 B1 2 55 150 56 878 58 891 61 198 63 825 66 807 70 157 73 907 78 079 82 700
 
-3 B1 1 53 910 55 599 57 566 59 823 62 391 65 305 68 580 72 246 76 324 80 841
+3 B1 1 54 503 56 211 58 199 60 481 63 077 66 023 69 334 73 041 77 164 81 730
 
-### 2 B1 0 53 271 54 940 56 884 59 114 61 652 64 532 67 768 71 389 75 420 79 882
+### 2 B1 0 53 857 55 544 57 510 59 764 62 330 65 242 68 513 72 174 76 250 80 761
 
-1 AS 51 993 53 621 55 519 57 694 60 172 62 982 66 142 69 676 73 609 77 965
+1 AS 52 565 54 211 56 130 58 329 60 834 63 675 66 870 70 442 74 419 78 823
 
 **77**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ### Beträge der Lohnklassen
 
@@ -3004,35 +3019,36 @@ LK 1 2 3 4 5
 
 11 12 13 14 15 16 17 18 19 20 21
 
-### 119 403 127 019 135 350 143 270 153 167 163 899 174 336 186 872 200 372 214 875 230 429
+### 120 716 128 416 136 839 144 846 154 852 165 702 176 254 188 928 202 576 217 239 232 964
 
-118 386 125 937 134 196 142 049 151 863 162 501 172 849 185 279 198 665 213 043 228 466 117 369 124 852 133 043 140 829 150 557 161 105 171 365 183 686 196 956 211 213 226 501 116 351 123 771 131 889 139 608 149 251 159 707 169 880 182 094 195 249 209 381 224 538 115 334 122 689 130 735 138 385 147 946 158 311 168 393 180 501 193 540 207 549 222 575 114 316 121 606 129 582 137 165 146 641 156 914 166 907 178 909 191 834 205 718 220 611 113 297 120 524 128 428 135 943 145 335 155 518 165 421 177 316 190 126 203 886 218 647 112 280 119 442 127 276 134 724 144 030 154 120 163 935 175 723 188 419 202 056 216 683 111 263 118 357 126 122 133 503 142 725 152 724 162 450 174 131 186 710 200 225 214 719
+119 688 127 322 135 672 143 612 153 533 164 289 174 750 187 317 200 850 215 386 230 979 118 660 126 225 134 506 142 378 152 213 162 877 173 250 185 707 199 123 213 536 228 993 117 631 125 132 133 340 141 144 150 893 161 464 171 749 184 097 197 397 211 684 227 008 116 603 124 039 132 173 139 907 149 573 160 052 170 245 182 487 195 669 209 832 225 023 115 573 122 944 131 007 138 674 148 254 158 640 168 743 180 877 193 944 207 981 223 038 114 543 121 850 129 841 137 438 146 934 157 229 167 241 179 266 192 217 206 129 221 052 113 515 120 756 128 676 136 206 145 614 155 815 165 738 177 656 190 492 204 279 219 067 112 487 119 659 127 509 134 972 144 295 154 404 164 237 176 046 188 764 202 427 217 081
 
-### 110 245 117 275 124 967 132 280 141 418 151 327 160 964 172 538 185 003 198 393 212 754
+### 111 458 118 565 126 342 133 735 142 974 152 992 162 735 174 436 187 038 200 575 215 094
 
-109 228 116 193 123 815 131 060 140 113 149 929 159 478 170 945 183 295 196 562 210 791 108 210 115 111 122 661 129 838 138 809 148 533 157 991 169 353 181 587 194 730 208 828 107 192 114 028 121 507 128 618 137 502 147 135 156 506 167 759 179 879 192 898 206 863 106 175 112 946 120 353 127 398 136 198 145 739 155 021 166 167 178 171 191 068 204 899 105 157 111 863 119 201 126 175 134 892 144 343 153 535 164 574 176 465 189 236 202 935 104 139 110 780 118 046 124 955 133 586 142 945 152 049 162 981 174 757 187 405 200 971 103 122 109 698 116 893 123 733 132 280 141 549 150 563 161 389 173 049 185 574 199 008 102 104 108 616 115 740 122 513 130 976 140 152 149 077 159 796 171 341 183 742 197 044 101 086 107 534 114 585 121 291 129 671 138 755 147 592 158 204 169 633 181 912 195 080
+110 430 117 471 125 177 132 502 141 654 151 578 161 232 172 825 185 311 198 724 213 110 109 400 116 377 124 010 131 266 140 336 150 167 159 729 171 216 183 584 196 872 211 125 108 371 115 282 122 844 130 033 139 015 148 753 158 228 169 604 181 858 195 020 209 138 107 343 114 188 121 677 128 799 137 696 147 342 156 726 167 995 180 131 193 170 207 153 106 314 113 093 120 512 127 563 136 376 145 931 155 224 166 384 178 406 191 318 205 167 105 285 111 999 119 345 126 330 135 055 144 517 153 722 164 774 176 679 189 466 203 182 104 256 110 905 118 179 125 094 133 735 143 106 152 219 163 164 174 953 187 615 201 197 103 227 109 811 117 013 123 861 132 417 141 694 150 717 161 554 173 226 185 763 199 211 102 198 108 717 115 845 122 625 131 097 140 281 149 216 159 944 171 499 183 913 197 226
 
-### 100 069 106 450 113 432 120 070 128 365 137 358 146 106 156 612 167 926 180 080 193 115
+### 101 170 107 621 114 680 121 391 129 777 138 869 147 713 158 335 169 773 182 061 195 239
 
-99 052 105 367 112 279 118 850 127 060 135 961 144 619 155 019 166 217 178 249 191 151 98 034 104 285 111 126 117 628 125 753 134 564 143 134 153 427 164 510 176 417 189 187 97 015 103 202 109 972 116 408 124 448 133 167 141 649 151 834 162 802 174 585 187 224 95 998 102 120 108 817 115 185 123 143 131 772 140 163 150 241 161 096 172 755 185 260 94 980 101 038 107 665 113 964 121 838 130 373 138 677 148 649 159 387 170 923 183 297 93 962 99 956 106 511 112 745 120 533 128 977 137 190 147 056 157 680 169 093 181 333 92 946 98 872 105 357 111 523 119 227 127 580 135 704 145 464 155 971 167 261 179 368 91 928 97 790 104 204 110 303 117 921 126 183 134 220 143 870 154 264 165 429 177 405 90 910 96 708 103 051 109 080 116 616 124 786 132 734 142 277 152 556 163 599 175 442 89 893 95 624 101 896 107 859 115 311 123 390 131 248 140 685 150 849 161 767 173 477 88 874 94 542 100 744 106 639 114 006 121 992 129 762 139 092 149 141 159 935 171 513 87 856 93 460 99 590 105 418 112 700 120 596 128 275 137 499 147 433 158 104 169 549 86 840 92 378 98 435 104 198 111 395 119 200 126 790 135 907 145 726 156 272 167 585 85 822 91 294 97 283 102 975 110 089 117 802 125 305 134 314 144 018 154 441 165 622
+100 142 106 526 113 514 120 157 128 458 137 457 146 210 156 724 168 045 180 210 193 254 99 112 105 432 112 348 118 922 127 136 136 044 144 708 155 115 166 320 178 358 191 268 98 082 104 337 111 182 117 688 125 817 134 632 143 207 153 504 164 593 176 505 189 283 97 054 103 243 110 014 116 452 124 498 133 221 141 705 151 894 162 868 174 655 187 298 96 025 102 149 108 849 115 218 123 178 131 807 140 202 150 284 161 140 172 803 185 313 94 996 101 056 107 683 113 985 121 859 130 396 138 699 148 674 159 414 170 953 183 328 93 968 99 960 106 516 112 750 120 538 128 983 137 197 147 064 157 687 169 101 181 341 92 939 98 866 105 350 111 516 119 218 127 571 135 696 145 453 155 961 167 249 179 356 91 910 97 772 104 185 110 280 117 899 126 159 134 194 143 842 154 234 165 399 177 372 90 882 96 676 103 017 109 045 116 579 124 747 132 692 142 233 152 508 163 546 175 385 89 852 95 582 101 852 107 812 115 260 123 334 131 189 140 622 150 782 161 694 173 400 88 822 94 488 100 685 106 578 113 940 121 923 129 686 139 011 149 055 159 843 171 414 87 795 93 394 99 518 105 344 112 620 120 511 128 185 137 402 147 329 157 991 169 428 86 766 92 298 98 353 104 108 111 300 119 098 126 683 135 791 145 602 156 140 167 444
 
-### 84 804 90 212 96 129 101 754 108 783 116 406 123 819 132 722 142 310 152 610 163 658
+### 85 737 91 204 97 186 102 873 109 980 117 686 125 181 134 182 143 875 154 289 165 458
 
-82 769 88 047 93 822 99 312 106 173 113 612 120 846 129 536 138 894 148 948 159 729
+83 679 89 016 94 854 100 404 107 341 114 862 122 175 130 961 140 422 150 586 161 486
 
-[^h848049021296129-1]: Fassung gemäss B vom 29. November 2023 (OS 78, 541). In Kraft seit 1. Januar 2024.
+[^h857379120497186-1]: Fassung gemäss B vom 26. November 2025 (OS 80, 331). In Kraft seit 1. Januar 2026. 1. 1. 26 - 131 71
 
 ### Anhang 3: Beträge der Lohnklassen 16 und 17 für Pfarrerinnen und Pfarrer in den Kirchgemeinden und in Institutionen
 
-[^h848049021296129-1]
+[^h857379120497186-1]
 
-LK 16 17 41 172 279 183 251 40 170 882 181 766 39 169 486 180 279 38 168 089 178 794 37 166 692 177 309 36 165 295 175 822 35 163 899 174 336 34 162 501 172 849 33 161 105 171 365 32 159 707 169 880 31 158 311 168 393 30 156 914 166 907 29 155 518 165 421 28 154 120 163 935 27 152 724 162 450 26 151 327 160 964 25 149 929 159 478 24 148 533 157 991 23 147 135 156 506 22 145 739 155 021 21 144 343 153 535 20 142 945 152 049 19 141 549 150 563 18 140 152 149 077 17 138 755 147 592 16 137 358 146 106 15 135 961 144 619 14 134 564 143 134 13 133 167 141 649 12 131 772 140 163 11 130 373 138 677 10 128 977 137 190 9 127 580 135 704 8 126 183 134 220 7 124 786 132 734 6 123 390 131 248 5 121 992 129 762 4 120 596 128 275 3 119 200 126 790 2 117 802 125 305 1 116 406 123 819
+LK 16 17 41 174 174 185 267 40 172 762 183 765 39 171 350 182 262 38 169 938 180 761 37 168 526 179 259 36 167 113 177 756 35 165 702 176 254 34 164 289 174 750 33 162 877 173 250 32 161 464 171 749 31 160 052 170 245 30 158 640 168 743 29 157 229 167 241 28 155 815 165 738 27 154 404 164 237 26 152 992 162 735 25 151 578 161 232 24 150 167 159 729 23 148 753 158 228 22 147 342 156 726 21 145 931 155 224 20 144 517 153 722 19 143 106 152 219 18 141 694 150 717 17 140 281 149 216 16 138 869 147 713 15 137 457 146 210 14 136 044 144 708 13 134 632 143 207 12 133 221 141 705 11 131 807 140 202 10 130 396 138 699 9 128 983 137 197 8 127 571 135 696 7 126 159 134 194 6 124 747 132 692 5 123 334 131 189 4 121 923 129 686 3 120 511 128 185 2 119 098 126 683 1 117 686 125 181
 
 **79**
 
-1.10. 25 - 130
+- 1\. 1. 26 - 131
 
 ## Weitere Fussnoten
 
 - [18] Nummerierung gemäss V über das Pfarramt in der Landeskirche vom 3. September 2014 (OS 69, 410; ABl 2014-09-19). In Kraft seit 1. Januar 2015.
 - [24] Fassung gemäss B vom 28. November 2018 (OS 74, 12). In Kraft seit 1. Januar 2019.
+- [28] Fassung gemäss B vom 29. November 2023 (OS 78, 541). In Kraft seit 1. Januar 2024.
