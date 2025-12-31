@@ -4,7 +4,7 @@ number: "818.21.2"
 title: "RÈGLEMENT du 10.06.2009 sur le fonds pour la prévention et la lutte contre les addictions et le fonds de la dîme de l'alcool (RF-Addic)"
 short: RF-Addic
 language: fr
-version: 2018-05-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.21.2?id=6221c58e-0d40-48d4-a9f7-c53c35bd04b3"
 ---
 
@@ -140,6 +140,11 @@ arrête
 - c. les bénéficiaires d'un financement doivent appliquer les procédures et les règles relatives à l'octroi, au suivi, au contrôle et à l'examen des subventions en suivant les principes d'efficacité et d'efficience, telles que définies dans la loi du 22 février 2005 sur les subventions [^10-1] et son règlement d'application du 22 novembre 2006 [^10-2] , et précisées dans la convention signée avec le Service de la santé publique conformément à l'article 11, alinéa 3 ;
 - d. un projet relevant de l'article 2, alinéas 1 et 2 ne peut pas être soutenu financièrement via les fonds plus de 3 ans.
 
+<sup>2</sup> En dérogation à l'alinéa 1, lettre d), un soutien financier supérieur à 3 ans mais n'excédant pas 5 ans peut être octroyé à condition que le projet :
+
+- a. soit un essai pilote de nature expérimentale avec une étude scientifique ;
+- b. nécessite un temps d'observation d'une durée supérieure à trois ans.
+
 [^9-1]: Modif. 2 du 14.01.2026: Introduction Al. 2; entrée en vigueur au 01.01.2026
 [^10-1]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
 [^10-2]: Règlement du 22.11.2006 d'application de la loi du 22.02.2005 sur les subventions ( [BLV 610.15.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15.1?id=397495b7-df09-43c2-a14f-2ebbf0e1cc8b))
@@ -158,11 +163,11 @@ arrête
 
 **Décision [^11-1]**
 
-<sup>1</sup> Sous réserve des montants disponibles sur les fonds, les décisions prises en vertu de l'article 2, alinéa 1, lettre a) et 2, lettres a), c), d) sont de la compétence :
+<sup>1</sup> Sous réserve des montants disponibles sur les fonds, les décisions prises en vertu de l'article 2, alinéa 1, lettre a) et alinéa 2, lettres a), c), d) sont de la compétence :
 
 - a. du Service de la santé publique jusqu'à CHF 100'000.– ;
 - b. du chef du département jusqu'à CHF 250'000.– ;
-- c. du Conseil d'Etat au-delà de CHF 250'000.–.
+- c. du Conseil d'Etat au-delà de CHF 250'000.– ou dans les cas visés par l'article 10, alinéa 2.
 
 <sup>2</sup> Après consultation du Groupe d'experts en matière d'addictions et sous réserve des montants disponibles sur le fonds de prévention et de lutte contre les addictions, les décisions prises en vertu de l'article 2, alinéa 2, lettre b) sont de la compétence du Conseil d'Etat.
 
@@ -170,17 +175,17 @@ arrête
 
 <sup>4</sup> Les montants affectés au fonds de la dîme de l'alcool doivent respecter les recommandations émises par la Régie fédérale des alcools.
 
-[^11-1]: Modif. 1 du 18.04.2018: Modification Al. 1; entrée en vigueur au 01.05.2018 · Modif. 2 du 14.01.2026: Introduction Art. 10, Al. 2; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, c; entrée en vigueur au 01.01.2026
+[^11-1]: Modif. 1 du 18.04.2018: Modification Al. 1; entrée en vigueur au 01.05.2018 · Modif. 2 du 14.01.2026: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, c; entrée en vigueur au 01.01.2026
 
 #### Art. 13
 
 **Renouvellement de la demande de soutien financier [^12-1]**
 
-<sup>1</sup> Les responsables d'un projet ayant déjà obtenu un premier soutien financier de la part d'un fonds peuvent renouveler la demande pour le même projet auprès du Service de la santé publique au maximum deux fois, sous réserve des conditions citées à l'article 10, alinéa 1, lettre d).
+<sup>1</sup> Les responsables d'un projet ayant déjà obtenu un premier soutien financier de la part d'un fonds peuvent adresser leur demande de renouvellement d'aide pour le même projet auprès du Service de la santé publique au maximum deux fois, sous réserve des conditions citées à l'article 10, alinéa 1, lettre d) et alinéa 2.
 
 <sup>2</sup> La demande de renouvellement du financement doit être accompagnée des résultats et du rapport d'activités de l'exercice précédent ou en cours. Ceux-ci font l'objet d'une évaluation par le Service de la santé publique.
 
-[^12-1]: Modif. 2 du 14.01.2026: Introduction Art. 10, Al. 2; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026
+[^12-1]: Modif. 2 du 14.01.2026: Modification Al. 1; entrée en vigueur au 01.01.2026
 
 ## Chapitre V Dispositions transitoires
 
