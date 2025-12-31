@@ -1,25 +1,26 @@
 ---
 canton: TG
 number: "211.443"
-title: Verordnung des Regierungsrates über die amtliche Vermessung
+title: Vermessungsverordnung
 short: VV
 language: de
-version: 2018-01-01
-valid_until: 2025-12-31
-version_adopted: 2017-12-12
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.443"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2458/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2966/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die amtliche Vermessung
+# Vermessungsverordnung
 
-RRV Amtliche Vermessung (RRV AV)
+VV
 
-vom 22.11.2011 (Stand 01.01.2018)
+(VV)
+
+vom 22.11.2011 (Stand 01.01.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -39,9 +40,11 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 #### § 3
 
-**Kantonsgeometer**
+**Kantonsgeometerin oder Kantonsgeometer**
 
-<sup>1</sup> Als Kantonsgeometer bezeichnet das Departement eine im eidgenössischen Register der Ingenieur-Geometerinnen und Ingenieur-Geometer eingetragene Person.
+<sup>1</sup> Als Kantonsgeometerin oder Kantonsgeometer bezeichnet das Departement eine im eidgenössischen Register der Ingenieur-Geometerinnen und Ingenieur-Geometer eingetragene Person.
+
+<sup>2</sup> Die Kantonsgeometerin oder der Kantonsgeometer leitet die für die Aufsicht über die amtliche Vermessung zuständige Stelle fachlich weisungsungebunden.
 
 ## 2. Vermarkung
 
@@ -117,9 +120,11 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 <sup>1</sup> Der Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus dem Grunddatensatz unterliegen der Genehmigung des Regierungsrates.
 
-<sup>2</sup> Werden nicht rechtsrelevante Informationsebenen bearbeitet, erfolgt die Genehmigung durch das Departement.
+<sup>2</sup> Werden Daten bearbeitet, die nicht den Mindestbestand des Plans für das Grundbuch nach Art. 7 Abs. 2 der Verordnung über die amtliche Vermessung (VAV)[^11-1] oder Hoheitsgrenzen betreffen, erfolgt die Genehmigung durch das Departement.
 
 <sup>3</sup> Die Genehmigung erfolgt gestützt auf den Verifikationsbericht des Amtes für Geoinformation und eine Bescheinigung der auftraggebenden Stelle über die erfolgte öffentliche Auflage des Vermessungswerkes und die Erledigung aller Rechtsmittel, die gerichtlich anhängigen Fälle ausgenommen.
+
+[^11-1]: SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de)
 
 ## 4. Geografische Namen
 
@@ -154,7 +159,7 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 **Vergabe**
 
-<sup>1</sup> Die Gemeinde beauftragt eine im eidgenössischen Register der Ingenieur-Geometerinnen und Ingenieur-Geometer eingetragene Person (Nachführungsgeometer) mit der Nachführung der amtlichen Vermessung (Nachführungsmandat).
+<sup>1</sup> Die Gemeinde beauftragt eine im eidgenössischen Register der Ingenieur-Geometerinnen und Ingenieur-Geometer eingetragene Person (Nachführungsgeometerin oder Nachführungsgeometer) mit der Nachführung der amtlichen Vermessung (Nachführungsmandat).
 
 <sup>2</sup> Das Nachführungsmandat wird in der Regel direkt vergeben.
 
@@ -168,7 +173,7 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 <sup>1</sup> Der Vertrag regelt den Inhalt des Nachführungsmandates und die Stellvertretung. Er ist mit einer Kündigungsfrist von zwölf Monaten jeweils per Ende eines Kalenderjahres kündbar.
 
-<sup>2</sup> Zum Nachführungsmandat gehört die Verwaltung des originalen und massgeblichen Datenbestandes.
+<sup>2</sup> Zum Nachführungsmandat gehört die Verwaltung des originalen und massgeblichen Datenbestandes sowie die regelmässige Datenabgabe an das Amt für Geoinformation.
 
 <sup>3</sup> Die Nachführungsverträge unterliegen der Genehmigung des Amtes für Geoinformation.
 
@@ -178,13 +183,13 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 **Zuständige Person**
 
-<sup>1</sup> Der von der Gemeinde beauftragte Nachführungsgeometer ist für die fachgerechte laufende Nachführung der amtlichen Vermessung zuständig.
+<sup>1</sup> Die von der Gemeinde beauftragte Nachführungsgeometerin oder der von der Gemeinde beauftragte Nachführungsgeometer ist für die fachgerechte laufende Nachführung der amtlichen Vermessung zuständig.
 
 #### § 17
 
 **Meldepflicht der Gemeinde**
 
-<sup>1</sup> Die Gemeinde meldet dem Nachführungsgeometer:
+<sup>1</sup> Die Gemeinde meldet der Nachführungsgeometerin oder dem Nachführungsgeometer:
 
 - 1\. Bewilligung und Vollendung oder Abbruch von Bauten und Anlagen, die eine Änderung des Inhalts der amtlichen Vermessung bewirken;
 - 2\. Änderungen von Strassennamen;
@@ -194,7 +199,7 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 **Meldepflicht der Fachstellen**
 
-<sup>1</sup> Die nach der Fachgesetzgebung zuständigen Stellen melden dem Nachführungsgeometer:
+<sup>1</sup> Die nach der Fachgesetzgebung zuständigen Stellen melden der Nachführungsgeometerin oder dem Nachführungsgeometer:
 
 - 1\. Änderungen von Bauten, Strassen, Wegen und anderen Objekten der Bodenbedeckung;
 - 2\. Änderungen am Waldwegnetz, Rodungen, Aufforstungen und Waldfeststellungen;
@@ -206,7 +211,7 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 **Weitere Meldepflichten**
 
-<sup>1</sup> Die Werke melden dem Nachführungsgeometer Erstellung und Abbruch von oberirdischen Starkstromleitungen sowie Rohrleitungen, die dem Bundesgesetz über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- oder Treibstoffe[^19-1] unterstellt sind.
+<sup>1</sup> Die Werke melden der Nachführungsgeometerin oder dem Nachführungsgeometer Erstellung und Abbruch von oberirdischen Starkstromleitungen sowie Rohrleitungen, die dem Bundesgesetz über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- oder Treibstoffe[^19-1] unterstellt sind.
 
 <sup>2</sup> Die kantonale Gebäudeversicherung meldet alle neuen und geänderten Gebäudeversicherungsnummern.
 
@@ -218,9 +223,9 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 **Grenzänderungen**
 
-<sup>1</sup> Grundeigentümerinnen und -eigentümer haben dem Grundbuchamt zuhanden des Nachführungsgeometers für geplante Grenzänderungen einen Vermessungsauftrag einzureichen.
+<sup>1</sup> Grundeigentümerinnen und -eigentümer haben dem Grundbuchamt zuhanden der Nachführungsgeometerin oder des Nachführungsgeometers für geplante Grenzänderungen einen Vermessungsauftrag einzureichen.
 
-<sup>2</sup> Das Grundbuchamt bestätigt dem Nachführungsgeometer die grundbuchliche Erledigung der Grenzänderungen innert Wochenfrist.
+<sup>2</sup> Das Grundbuchamt bestätigt der Nachführungsgeometerin oder dem Nachführungsgeometer die grundbuchliche Erledigung der Grenzänderungen innert Wochenfrist.
 
 #### § 21
 
@@ -228,7 +233,7 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 <sup>1</sup> Können Grenzänderungen nicht innert einem Jahr seit Abgabe des Mutationsplanes im Grundbuch eingetragen werden, setzt das Grundbuchamt unter der Androhung der Rückmutation eine Frist von höchstens drei Monaten an.
 
-<sup>2</sup> Nach unbenütztem Fristablauf erteilt das Grundbuchamt dem Nachführungsgeometer den Auftrag zur Rückmutation der Grenzänderung.
+<sup>2</sup> Nach unbenütztem Fristablauf erteilt das Grundbuchamt der Nachführungsgeometerin oder dem Nachführungsgeometer den Auftrag zur Rückmutation der Grenzänderung.
 
 <sup>3</sup> Die Kosten gehen zu Lasten der Person, die den ursprünglichen Vermessungsauftrag erteilt hat.
 
@@ -236,7 +241,7 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 **Berichtigungsmutation**
 
-<sup>1</sup> Zur Behebung von Widersprüchen in der amtlichen Vermessung reicht das Amt für Geoinformation dem Grundbuchamt zuhanden des Nachführungsgeometers den Auftrag für eine Berichtigungsmutation ein.
+<sup>1</sup> Zur Behebung von Widersprüchen in der amtlichen Vermessung reicht das Amt für Geoinformation dem Grundbuchamt zuhanden der Nachführungsgeometerin oder des Nachführungsgeometers den Auftrag für eine Berichtigungsmutation ein.
 
 #### § 23
 
@@ -244,7 +249,7 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 <sup>1</sup> Die Kosten der Nachführung werden nach einem vom Regierungsrat genehmigten Tarif berechnet.
 
-<sup>2</sup> Der Nachführungsgeometer stellt die Kosten mittels Entscheid in Rechnung und besorgt das Inkasso. Bei Grenzänderungen kann er einen Kostenvorschuss verlangen.
+<sup>2</sup> Die Nachführungsgeometerin oder der Nachführungsgeometer stellt die Kosten mittels Entscheid in Rechnung und besorgt das Inkasso. Bei Grenzänderungen kann er einen Kostenvorschuss verlangen.
 
 <sup>3</sup> Nach erfolgloser Betreibung geht die Forderung gegen Vergütung der Nachführungs- und Betreibungskosten auf die Gemeinde über.
 
@@ -308,7 +313,7 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 **Beglaubigung**
 
-<sup>1</sup> Einen Auszug aus der amtlichen Vermessung darf nur amtlich beglaubigen, wer das Nachführungsmandat beziehungsweise die Stellvertretung für das entsprechende Gebiet hat.
+<sup>1</sup> Einen Auszug aus der amtlichen Vermessung sowie Mutationsurkunden darf nur amtlich beglaubigen, wer das Nachführungsmandat beziehungsweise die Stellvertretung für das entsprechende Gebiet hat.
 
 #### § 32
 
@@ -318,18 +323,10 @@ vom 22.11.2011 (Stand 01.01.2018)
 
 <sup>2</sup> Die Angebote sind dem Amt für Geoinformation auf Verlangen einzureichen.
 
-## 7. Schlussbestimmungen
+## 7.
 
-#### § 33
+#### § 33–34
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates über die amtliche Vermessung vom 28. November 1998 wird aufgehoben.
-
-#### § 34
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2012 in Kraft.
+**…**
 
 ABl. 47/2011
