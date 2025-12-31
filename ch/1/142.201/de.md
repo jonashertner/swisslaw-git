@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2025-12-01
+version: 2026-01-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20251201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20251201/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Dezember 2025)
+vom 24. Oktober 2007 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2238,11 +2238,15 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 
 ### (Art. 111*i* AIG)
 
-<sup>1</sup> Bei Eurodac-Abfragen nach Artikel 111*i* Absatz 6 AIG werden für die Überprüfung der Fingerabdrücke Fingerabdruckspezialistinnen und ‑spezialisten der AFIS/DNA-Services des Bundesamtes für Polizei nach Artikel 102*a*<sup>ter</sup> AsylG eingesetzt.
+[^87a-1]
 
-<sup>2</sup> Das Verfahren richtet sich nach Artikel 11 der Asylverordnung 3 vom 11. August 1999[^87a-1] (AsylV 3). Die Spezialistin oder der Spezialist übermittelt das Ergebnis der Überprüfung an das SEM sowie an die Stellen, die den Abgleich im Eurodac vorgenommen haben (Grenzwachtkorps, kantonale und kommunale Polizeibehörden).
+<sup>1</sup> Bei Eurodac-Abfragen nach Artikel 111*i* Absatz 6 AIG[^87a-2] werden für die Überprüfung der Fingerabdrücke Fingerabdruckspezialistinnen und ‑spezialisten der AFIS/DNA-Services des Bundesamtes für Polizei nach Artikel 102*a*<sup>ter</sup> AsylG eingesetzt.
 
-[^87a-1]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+<sup>2</sup> Das Verfahren richtet sich nach Artikel 11 der Asylverordnung 3 vom 11. August 1999[^87a-3] (AsylV 3). Die Spezialistin oder der Spezialist übermittelt das Ergebnis der Überprüfung an das SEM sowie an die Stellen, die den Abgleich im Eurodac vorgenommen haben (Grenzwachtkorps, kantonale und kommunale Polizeibehörden).
+
+[^87a-1]: Heute: Art. 109*k* AIG.
+[^87a-2]: Heute: Art. 109*k* Abs. 6 AIG.
+[^87a-3]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87b
 
@@ -2412,33 +2416,33 @@ Anhang 1[^t-1]
 
 ## Höchstzahlen für Kurzaufenthaltsbewilligungen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 780](https://fedlex.data.admin.ch/eli/oc/2025/780)).
 
 \1. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19 werden insgesamt auf 4000 festgesetzt:
 
 - a. Höchstzahlen für die Kantone: 2000
 
 <table>
-<tr><td>Zürich</td><td>399</td><td>Schaffhausen</td><td>17</td></tr>
-<tr><td>Bern</td><td>232</td><td>Appenzell A.Rh.</td><td>10</td></tr>
-<tr><td>Luzern</td><td>92</td><td>Appenzell I.Rh.</td><td>3</td></tr>
-<tr><td>Uri</td><td>7</td><td>St. Gallen</td><td>114</td></tr>
-<tr><td>Schwyz</td><td>31</td><td>Graubünden</td><td>49</td></tr>
-<tr><td>Obwalden</td><td>8</td><td>Aargau</td><td>128</td></tr>
-<tr><td>Nidwalden</td><td>9</td><td>Thurgau</td><td>53</td></tr>
-<tr><td>Glarus</td><td>8</td><td>Tessin</td><td>95</td></tr>
-<tr><td>Zug</td><td>46</td><td>Waadt</td><td>182</td></tr>
-<tr><td>Freiburg</td><td>58</td><td>Wallis</td><td>70</td></tr>
-<tr><td>Solothurn</td><td>54</td><td>Neuenburg</td><td>41</td></tr>
-<tr><td>Basel-Stadt</td><td>72</td><td>Genf</td><td>148</td></tr>
-<tr><td>Basel-Landschaft</td><td>57</td><td>Jura</td><td>17</td></tr>
+<tr><td>Aargau</td><td>127</td><td>Nidwalden</td><td>9</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>10</td><td>Obwalden</td><td>8</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>3</td><td>St. Gallen</td><td>112</td></tr>
+<tr><td>Basel-Landschaft</td><td>57</td><td>Schaffhausen</td><td>17</td></tr>
+<tr><td>Basel-Stadt</td><td>72</td><td>Schwyz</td><td>32</td></tr>
+<tr><td>Bern</td><td>231</td><td>Solothurn</td><td>53</td></tr>
+<tr><td>Freiburg</td><td>58</td><td>Tessin</td><td>94</td></tr>
+<tr><td>Genf</td><td>149</td><td>Thurgau</td><td>52</td></tr>
+<tr><td>Glarus</td><td>8</td><td>Uri</td><td>7</td></tr>
+<tr><td>Graubünden</td><td>49</td><td>Waadt</td><td>181</td></tr>
+<tr><td>Jura</td><td>18</td><td>Wallis</td><td>71</td></tr>
+<tr><td>Luzern</td><td>93</td><td>Zug</td><td>48</td></tr>
+<tr><td>Neuenburg</td><td>42</td><td>Zürich</td><td>399</td></tr>
 </table>
 
 - b. Höchstzahl für den Bund: 2000
 
-\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025.
+\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026.
 
-\3. Die durch die Änderung vom 29. November 2023[^annex1-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
+\3. Die durch die Änderung vom 27. November 2024[^annex1-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
 
 \4. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19*a* werden insgesamt auf 3000 festgesetzt:
 
@@ -2447,9 +2451,9 @@ Anhang 1[^t-1]
 <tr><td>750</td><td>750</td><td>750</td><td>750</td></tr>
 </table>
 
-\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025 und werden quartalsweise freigegeben.
+\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026 und werden quartalsweise freigegeben.
 
-\6. Die durch die Änderung vom 29. November 2023 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
+\6. Die durch die Änderung vom 27. November 2024 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
 
 \7. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19*b* werden insgesamt auf 1400 festgesetzt:
 
@@ -2458,11 +2462,11 @@ Anhang 1[^t-1]
 <tr><td>350</td><td>350</td><td>350</td><td>350</td></tr>
 </table>
 
-\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025 und werden quartalsweise freigegeben.
+\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026 und werden quartalsweise freigegeben.
 
 \9. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen, die vom Geltungsbereich des Abkommens vom 11. Oktober 2024[^annex1-lvlu1-2] zwischen dem Schweizerischen Bundesrat und der Regierung der Vereinigten Staaten von Amerika über den Austausch von Praktikantinnen und Praktikanten sowie jungen Berufsleuten erfasst werden (Art. 42 Abs. 2<sup>bis</sup>), werden auf 300 pro Kalenderjahr festgesetzt. Der nicht genutzte Restbestand wird nicht auf das folgende Jahr übertragen.
 
-[^annex1-lvlu1-1]: [AS 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
+[^annex1-lvlu1-1]: [AS 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)
 [^annex1-lvlu1-2]: [SR 0.142.113.367](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40229)
 
 Anhang 2[^t-2]
@@ -2471,33 +2475,33 @@ Anhang 2[^t-2]
 
 ## Höchstzahlen für Aufenthaltsbewilligungen
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
+[^t-2]: Fassung gemäss Ziff. I der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 780](https://fedlex.data.admin.ch/eli/oc/2025/780)).
 
 \1. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20 werden insgesamt auf 4500 festgesetzt:
 
 - a. Höchstzahlen für die Kantone: 1250
 
 <table>
-<tr><td>Zürich</td><td>249</td><td>Schaffhausen</td><td>11</td></tr>
-<tr><td>Bern</td><td>145</td><td>Appenzell A.Rh.</td><td>6</td></tr>
-<tr><td>Luzern</td><td>58</td><td>Appenzell I.Rh.</td><td>2</td></tr>
-<tr><td>Uri</td><td>4</td><td>St. Gallen</td><td>71</td></tr>
-<tr><td>Schwyz</td><td>20</td><td>Graubünden</td><td>31</td></tr>
-<tr><td>Obwalden</td><td>5</td><td>Aargau</td><td>80</td></tr>
-<tr><td>Nidwalden</td><td>5</td><td>Thurgau</td><td>33</td></tr>
-<tr><td>Glarus</td><td>5</td><td>Tessin</td><td>59</td></tr>
-<tr><td>Zug</td><td>29</td><td>Waadt</td><td>114</td></tr>
-<tr><td>Freiburg</td><td>36</td><td>Wallis</td><td>44</td></tr>
-<tr><td>Solothurn</td><td>33</td><td>Neuenburg</td><td>26</td></tr>
-<tr><td>Basel-Stadt</td><td>45</td><td>Genf</td><td>92</td></tr>
-<tr><td>Basel-Landschaft</td><td>36</td><td>Jura</td><td>11</td></tr>
+<tr><td>Aargau</td><td>80</td><td>Nidwalden</td><td>6</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>6</td><td>Obwalden</td><td>5</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>2</td><td>St. Gallen</td><td>70</td></tr>
+<tr><td>Basel-Landschaft</td><td>36</td><td>Schaffhausen</td><td>11</td></tr>
+<tr><td>Basel-Stadt</td><td>45</td><td>Schwyz</td><td>20</td></tr>
+<tr><td>Bern</td><td>144</td><td>Solothurn</td><td>33</td></tr>
+<tr><td>Freiburg</td><td>36</td><td>Tessin</td><td>59</td></tr>
+<tr><td>Genf</td><td>93</td><td>Thurgau</td><td>33</td></tr>
+<tr><td>Glarus</td><td>5</td><td>Uri</td><td>4</td></tr>
+<tr><td>Graubünden</td><td>31</td><td>Waadt</td><td>113</td></tr>
+<tr><td>Jura</td><td>11</td><td>Wallis</td><td>44</td></tr>
+<tr><td>Luzern</td><td>58</td><td>Zug</td><td>30</td></tr>
+<tr><td>Neuenburg</td><td>26</td><td>Zürich</td><td>249</td></tr>
 </table>
 
 - b. Höchstzahl für den Bund: 3250
 
-\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025.
+\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026.
 
-\3. Die durch die Änderung vom 29. November 2023[^annex2-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
+\3. Die durch die Änderung vom 27. November 2024[^annex2-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
 
 \4. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20*a* werden insgesamt auf 500 festgesetzt:
 
@@ -2506,9 +2510,9 @@ Anhang 2[^t-2]
 <tr><td>125</td><td>125</td><td>125</td><td>125</td></tr>
 </table>
 
-\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025 und werden quartalsweise freigegeben.
+\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026 und werden quartalsweise freigegeben.
 
-\6. Die durch die Änderung vom 29. November 2023 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
+\6. Die durch die Änderung vom 27. November 2024 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
 
 \7. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20*b* werden insgesamt auf 2100 festgesetzt:
 
@@ -2517,9 +2521,9 @@ Anhang 2[^t-2]
 <tr><td>525</td><td>525</td><td>525</td><td>525</td></tr>
 </table>
 
-\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2025 bis zum 31. Dezember 2025 und werden quartalsweise freigegeben.
+\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2026 bis zum 31. Dezember 2026 und werden quartalsweise freigegeben.
 
-[^annex2-lvlu1-1]: [AS 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
+[^annex2-lvlu1-1]: [AS 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)
 
 Anhang 3[^t-3]
 

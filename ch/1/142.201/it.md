@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2025-12-01
+version: 2026-01-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20251201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20251201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20251201/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 1° dicembre 2025)
+del 24 ottobre 2007 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2259,11 +2259,15 @@ I dati di cui al capoverso 1 lettere a e b possono essere rilevati sistematicame
 
 ### (art. 111*i* LStrI)
 
-<sup>1</sup> Nel quadro delle consultazioni Eurodac secondo l’articolo 111*i* capoverso 6 LStrI, la verifica delle impronte digitali è affidata a un esperto dei Servizi AFIS DNA dell’Ufficio federale di polizia conformemente all’articolo 102*a*<sup>ter</sup> LAsi.
+[^87a-1]
 
-<sup>2</sup> La procedura è retta dall’articolo 11 dell’ordinanza 3 dell’11 agosto 1999[^87a-1] sull’asilo (OAsi 3). L’esperto trasmette il risultato della propria verifica alla SEM, nonché ai servizi (Corpo guardie di confine, polizie cantonali e comunali) che hanno proceduto al confronto Eurodac.
+<sup>1</sup> Nel quadro delle consultazioni Eurodac secondo l’articolo 111*i* capoverso 6 LStrI[^87a-2], la verifica delle impronte digitali è affidata a un esperto dei Servizi AFIS DNA dell’Ufficio federale di polizia conformemente all’articolo 102*a*<sup>ter</sup> LAsi.
 
-[^87a-1]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+<sup>2</sup> La procedura è retta dall’articolo 11 dell’ordinanza 3 dell’11 agosto 1999[^87a-3] sull’asilo (OAsi 3). L’esperto trasmette il risultato della propria verifica alla SEM, nonché ai servizi (Corpo guardie di confine, polizie cantonali e comunali) che hanno proceduto al confronto Eurodac.
+
+[^87a-1]: Ora: l’art. 109*k* LStrI.
+[^87a-2]: Ora: l’art. 109*k* cpv. 6 LStrI.
+[^87a-3]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87b
 
@@ -2433,33 +2437,33 @@ Allegato 1[^t-1]
 
 ## Contingenti dei permessi di soggiorno di breve durata
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 780](https://fedlex.data.admin.ch/eli/oc/2025/780)).
 
 \1. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19 sono stabiliti complessivamente a 4000:
 
 - a. Contingente a disposizione dei Cantoni: 2000
 
 <table>
-<tr><td>Zurigo</td><td>399</td><td>Sciaffusa</td><td>17</td></tr>
-<tr><td>Berna</td><td>232</td><td>Appenzello Esterno</td><td>10</td></tr>
-<tr><td>Lucerna</td><td>92</td><td>Appenzello Interno</td><td>3</td></tr>
-<tr><td>Uri</td><td>7</td><td>San Gallo</td><td>114</td></tr>
-<tr><td>Svitto</td><td>31</td><td>Grigioni</td><td>49</td></tr>
-<tr><td>Obvaldo</td><td>8</td><td>Argovia</td><td>128</td></tr>
-<tr><td>Nidvaldo</td><td>9</td><td>Turgovia</td><td>53</td></tr>
-<tr><td>Glarona</td><td>8</td><td>Ticino</td><td>95</td></tr>
-<tr><td>Zugo</td><td>46</td><td>Vaud</td><td>182</td></tr>
-<tr><td>Friburgo</td><td>58</td><td>Vallese</td><td>70</td></tr>
-<tr><td>Soletta</td><td>54</td><td>Neuchâtel</td><td>41</td></tr>
-<tr><td>Basilea Città</td><td>72</td><td>Ginevra</td><td>148</td></tr>
-<tr><td>Basilea Campagna</td><td>57</td><td>Giura</td><td>17</td></tr>
+<tr><td>Appenzello Esterno</td><td>10</td><td>Nidvaldo</td><td>9</td></tr>
+<tr><td>Appenzello Interno</td><td>3</td><td>Obvaldo</td><td>8</td></tr>
+<tr><td>Argovia</td><td>127</td><td>San Gallo</td><td>112</td></tr>
+<tr><td>Basilea Campagna</td><td>57</td><td>Sciaffusa</td><td>17</td></tr>
+<tr><td>Basilea Città</td><td>72</td><td>Svitto</td><td>32</td></tr>
+<tr><td>Berna</td><td>231</td><td>Soletta</td><td>53</td></tr>
+<tr><td>Friburgo</td><td>58</td><td>Ticino</td><td>94</td></tr>
+<tr><td>Ginevra</td><td>149</td><td>Turgovia</td><td>52</td></tr>
+<tr><td>Giura</td><td>18</td><td>Uri</td><td>7</td></tr>
+<tr><td>Glarona</td><td>8</td><td>Vallese</td><td>71</td></tr>
+<tr><td>Grigioni</td><td>49</td><td>Vaud</td><td>181</td></tr>
+<tr><td>Lucerna</td><td>93</td><td>Zugo</td><td>48</td></tr>
+<tr><td>Neuchâtel</td><td>42</td><td>Zurigo</td><td>399</td></tr>
 </table>
 
 - b. Contingente a disposizione della Confederazione: 2000
 
-\2. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025.
+\2. I contingenti sono validi dal 1° gennaio 2026 al 31 dicembre 2026.
 
-\3. I contingenti liberati in virtù della modifica del 29 novembre 2023[^annex1-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
+\3. I contingenti liberati in virtù della modifica del 27 novembre 2024[^annex1-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
 
 \4. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19*a* sono stabiliti complessivamente a 3000:
 
@@ -2468,9 +2472,9 @@ Allegato 1[^t-1]
 <tr><td>750</td><td>750</td><td>750</td><td>750</td></tr>
 </table>
 
-\5. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025 e sono liberati trimestralmente.
+\5. I contingenti sono validi dal 1° gennaio 2026 al 31 dicembre 2026 e sono liberati trimestralmente.
 
-\6. I contingenti liberati in virtù della modifica del 29 novembre 2023 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
+\6. I contingenti liberati in virtù della modifica del 27 novembre 2024 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
 
 \7. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 19*b* sono stabiliti complessivamente a 1400:
 
@@ -2479,11 +2483,11 @@ Allegato 1[^t-1]
 <tr><td>350</td><td>350</td><td>350</td><td>350</td></tr>
 </table>
 
-\8. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025 e sono liberati trimestralmente.
+\8. I contingenti sono validi dal 1° gennaio 2026 al 31 dicembre 2026 e sono liberati trimestralmente.
 
 \9. I contingenti dei permessi di soggiorno di breve durata per le persone di cui all’articolo 42 capoverso 2<sup>bis</sup> che rientrano nel campo d’applicazione dell’Accordo dell’11 ottobre 2024[^annex1-lvlu1-2] tra il Consiglio federale svizzero e il Governo degli Stati Uniti d’America sullo scambio di stagisti e di giovani professionisti sono stabiliti a 300 per anno civile. Il saldo inutilizzato non è riportato sull’anno successivo.
 
-[^annex1-lvlu1-1]: [RU 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
+[^annex1-lvlu1-1]: [RU 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)
 [^annex1-lvlu1-2]: [RS 0.142.113.367](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40229)
 
 Allegato 2[^t-2]
@@ -2492,33 +2496,33 @@ Allegato 2[^t-2]
 
 ## Contingenti dei permessi di dimora
 
-[^t-2]: Nuovo testo giusta la cifra II dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)).
+[^t-2]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 780](https://fedlex.data.admin.ch/eli/oc/2025/780)).
 
 \1. I contingenti dei permessi di dimora per le persone di cui all’articolo 20 sono stabiliti complessivamente a 4500:
 
 - a. Contingente a disposizione dei Cantoni: 1250
 
 <table>
-<tr><td>Zurigo</td><td>249</td><td>Sciaffusa</td><td>11</td></tr>
-<tr><td>Berna</td><td>145</td><td>Appenzello Esterno</td><td>6</td></tr>
-<tr><td>Lucerna</td><td>58</td><td>Appenzello Interno</td><td>2</td></tr>
-<tr><td>Uri</td><td>4</td><td>San Gallo</td><td>71</td></tr>
-<tr><td>Svitto</td><td>20</td><td>Grigioni</td><td>31</td></tr>
-<tr><td>Obvaldo</td><td>5</td><td>Argovia</td><td>80</td></tr>
-<tr><td>Nidvaldo</td><td>5</td><td>Turgovia</td><td>33</td></tr>
-<tr><td>Glarona</td><td>5</td><td>Ticino</td><td>59</td></tr>
-<tr><td>Zugo</td><td>29</td><td>Vaud</td><td>114</td></tr>
-<tr><td>Friburgo</td><td>36</td><td>Vallese</td><td>44</td></tr>
-<tr><td>Soletta</td><td>33</td><td>Neuchâtel</td><td>26</td></tr>
-<tr><td>Basilea Città</td><td>45</td><td>Ginevra</td><td>92</td></tr>
-<tr><td>Basilea Campagna</td><td>36</td><td>Giura</td><td>11</td></tr>
+<tr><td>Appenzello Esterno</td><td>6</td><td>Nidvaldo</td><td>6</td></tr>
+<tr><td>Appenzello Interno</td><td>2</td><td>Obvaldo</td><td>5</td></tr>
+<tr><td>Argovia</td><td>80</td><td>San Gallo</td><td>70</td></tr>
+<tr><td>Basilea Campagna</td><td>36</td><td>Sciaffusa</td><td>11</td></tr>
+<tr><td>Basilea Città</td><td>45</td><td>Soletta</td><td>33</td></tr>
+<tr><td>Berna</td><td>144</td><td>Svitto</td><td>20</td></tr>
+<tr><td>Friburgo</td><td>36</td><td>Ticino</td><td>59</td></tr>
+<tr><td>Ginevra</td><td>93</td><td>Turgovia</td><td>33</td></tr>
+<tr><td>Giura</td><td>11</td><td>Uri</td><td>4</td></tr>
+<tr><td>Glarona</td><td>5</td><td>Vallese</td><td>44</td></tr>
+<tr><td>Grigioni</td><td>31</td><td>Vaud</td><td>113</td></tr>
+<tr><td>Lucerna</td><td>58</td><td>Zugo</td><td>30</td></tr>
+<tr><td>Neuchâtel</td><td>26</td><td>Zurigo</td><td>249</td></tr>
 </table>
 
 - b. Contingente a disposizione della Confederazione: 3250
 
-\2. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025.
+\2. I contingenti sono validi dal 1° gennaio 2026 al 31 dicembre 2026.
 
-\3. I contingenti liberati in virtù della modifica del 29 novembre 2023[^annex2-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
+\3. I contingenti liberati in virtù della modifica del 27 novembre 2024[^annex2-lvlu1-1] della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono computati sul contingente della Confederazione (n. 1 lett. b).
 
 \4. I contingenti dei permessi di dimora per le persone di cui all’articolo 20*a* sono stabiliti complessivamente a 500:
 
@@ -2527,9 +2531,9 @@ Allegato 2[^t-2]
 <tr><td>125</td><td>125</td><td>125</td><td>125</td></tr>
 </table>
 
-\5. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025 e sono liberati trimestralmente.
+\5. I contingenti sono validi dal 1° gennaio 2026 al 31 dicembre 2026 e sono liberati trimestralmente.
 
-\6. I contingenti liberati in virtù della modifica del 29 novembre 2023 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
+\6. I contingenti liberati in virtù della modifica del 27 novembre 2024 della presente ordinanza, ma non ancora esauriti, possono ancora essere utilizzati. Sono riportati sul primo trimestre dell’anno successivo.
 
 \7. I contingenti dei permessi di dimora per le persone di cui all’articolo 20*b* sono stabiliti complessivamente a 2100:
 
@@ -2538,9 +2542,9 @@ Allegato 2[^t-2]
 <tr><td>525</td><td>525</td><td>525</td><td>525</td></tr>
 </table>
 
-\8. I contingenti sono validi dal 1° gennaio 2025 al 31 dicembre 2025 e sono liberati trimestralmente.
+\8. I contingenti sono validi dal 1° gennaio 2026 al 31 dicembre 2026 e sono liberati trimestralmente.
 
-[^annex2-lvlu1-1]: [RU 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
+[^annex2-lvlu1-1]: [RU 2024 747](https://fedlex.data.admin.ch/eli/oc/2024/747)
 
 Allegato 3[^t-3]
 
