@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-11
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2025-11-19
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3106/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3295/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3106/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.08.2025)
+vom 28.03.2007 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -605,11 +605,12 @@ geführt werden,
 
 <sup>1</sup> Die Schulleitung bewilligt bezahlte Kurzurlaube im Einzelfall wie folgt:
 
-- a bis zu drei Arbeitstage pro Ereignis wegen plötzlicher Erkrankung einer oder eines nahen Familienangehörigen, höchstens aber zehn Arbeitstage pro Schuljahr,
+- a bis zu drei Arbeitstage pro Ereignis wegen plötzlicher Erkrankung oder Unfalls einer oder eines nahen Familienangehörigen, höchstens aber zehn Arbeitstage pro Schuljahr,
 - a1 bis zu vier Arbeitstage pro Ereignis wegen des Todes einer oder eines nahen Familienangehörigen,
-- b ein Arbeitstag pro Schuljahr wegen eigener Heirat oder eigenen Wohnungswechsels,
+- b je ein Arbeitstag pro Schuljahr wegen eigener Heirat oder eigenen Wohnungswechsels,
 - c im Rahmen der benötigten Zeit wegen anderer dringender privater oder familiärer Verpflichtungen, die sich nicht ausserhalb der Unterrichtszeit erledigen lassen,
-- d ein Arbeitstag pro Schuljahr wegen obligatorischer oder freiwilliger Teilnahme an der militärischen Orientierungsveranstaltung oder Abgabe des persönlichen Materials bei Entlassung aus der Militärdienstpflicht.
+- d je ein Arbeitstag pro Schuljahr wegen obligatorischer oder freiwilliger Teilnahme an der militärischen Orientierungsveranstaltung oder Abgabe des persönlichen Materials bei Entlassung aus der Militärdienstpflicht,
+- e im Rahmen der benötigten Zeit bei Vorladungen einer Behörde zur Erfüllung gesetzlicher Pflichten.
 
 <sup>2</sup> …
 

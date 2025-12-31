@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-11
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2025-11-19
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3106/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3295/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3106/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.08.2025)
+du 28.03.2007 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -604,11 +604,12 @@ arrête:
 
 <sup>1</sup> La direction d’école accorde d’autres congés payés de courte durée dans les cas suivants:
 
-- a trois jours ouvrés au plus pour chaque cas de maladie subite d'un membre de la famille proche, dans la limite de dix jours ouvrés par année scolaire;
+- a trois jours ouvrés au plus pour chaque cas de maladie subite ou d'accident d'un membre de la famille proche, dans la limite de dix jours ouvrés par année scolaire;
 - a1 quatre jours ouvrés au plus pour chaque cas de décès d'un membre de la famille proche;
-- b un jour ouvré par année scolaire pour son propre mariage ou son propre déménagement;
+- b un jour ouvré par année scolaire pour son propre mariage et un jour ouvré par année scolaire pour son propre déménagement;
 - c le temps jugé nécessaire pour d'autres obligations familiales ou personnelles urgentes dont l’enseignante ou l’enseignant ne peut s’acquitter en dehors des heures de classe;
-- d un jour ouvré par année scolaire pour la participation, obligatoire ou facultative, à la séance d’information des conscrits ou pour la restitution du matériel personnel lors de la libération des obligations militaires.
+- d un jour ouvré par année scolaire pour la participation, obligatoire ou facultative, à la séance d’information des conscrits et un jour ouvré par année scolaire pour la restitution du matériel personnel lors de la libération des obligations militaires;
+- e le temps jugé nécessaire en cas de citation à comparaître devant une autorité pour remplir des obligations légales.
 
 <sup>2</sup> …
 
