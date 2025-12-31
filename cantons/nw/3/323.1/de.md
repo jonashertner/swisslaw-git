@@ -4,13 +4,13 @@ number: "323.1"
 title: Gesetz über die Aktenführung und die Archivierung
 short: "Archivierungsgesetz, ArchG"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-08-30
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2024-10-23
 adopted: 2008-12-17
 in_force: 2009-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/323.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1323/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1323/pdf_file"
 
 (Archivierungsgesetz, ArchG)
 
-vom 17.12.2008 (Stand 01.01.2025)
+vom 17.12.2008 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -157,6 +157,8 @@ beschliesst:
 
 <sup>3</sup> Die Verfügungskompetenz der anderen Archive obliegt dem administrativen Rat, dem Vorstand von Gemeindeverbänden sowie der Geschäftsleitung der kantonalen und kommunalen selbständigen öffentlich-rechtlichen Körperschaften und Anstalten.
 
+<sup>4</sup> Die Gemeinde kann die Verfügungskompetenz in der Gesetzgebung einer Organisationseinheit übertragen.
+
 #### Art. 14
 
 **Grundsätze**
@@ -182,6 +184,8 @@ beschliesst:
 **Anbieterecht**
 
 <sup>1</sup> Die Archivierungspflichtigen sind berechtigt, ihr Archivgut auf ihre Kosten dem Staatsarchiv zur Erschliessung oder dauernden Aufbewahrung zu übergeben.
+
+<sup>2</sup> Die administrativen Räte der Gemeinden sind ermächtigt, die Verträge mit dem Staatsarchiv zur Übertragung des Archivguts abzuschliessen. Eine Genehmigung durch die Gemeindeversammlung ist nicht erforderlich.
 
 #### Art. 17
 
