@@ -3,18 +3,18 @@ sr: "513.316"
 title: Ordinanza del 21 novembre 2018 concernente la posta da campo
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/729"
 language: it
-version: 2019-01-01
+version: 2026-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/729/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-729-20190101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/729/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/729/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2018-729-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/729/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la posta da campo
 
-del 21 novembre 2018 (Stato 1° gennaio 2019)
+del 21 novembre 2018 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -22,8 +22,8 @@ visto l’articolo 150 capoverso 1 della legge militare del 3 febbraio 1995[^ing
 
 ordina:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452)
 
 #### Art. 1
 
@@ -39,7 +39,7 @@ La presente ordinanza disciplina le prestazioni nei settori del servizio postale
 
 <sup>2</sup> In caso di necessità comprovata, la posta da campo, d’intesa con la Base logistica dell’esercito (BLEs), può fornire ulteriori prestazioni nei settori del servizio postale e del traffico dei pagamenti nonché articoli personali d’uso di prima necessità. Devono essere osservate le disposizioni concernenti il traffico dei pagamenti contenute nell’ordinanza del 5 aprile 2006[^2-1] sulle finanze della Confederazione.
 
-[^2-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^2-1]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 3
 
@@ -57,7 +57,7 @@ Il Dipartimento federale della difesa, della protezione della popolazione e dell
 
 <sup>3</sup> La fornitura di prestazioni in situazioni straordinarie è retta dall’articolo 12 della legge del 17 dicembre 2010[^4-1] sulle poste.
 
-[^4-1]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-1]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 5
 
@@ -73,7 +73,19 @@ La posta da campo comprende:
 
 <sup>2</sup> Durante l’impiego la posta da campo può essere diretta secondo le direttive del capo della BLEs.
 
-<sup>3</sup> L’obbligo di prestare servizio militare dei collaboratori della posta da campo può essere prorogato su richiesta.
+<sup>3</sup> ...[^5-1]
+
+[^5-1]: Abrogato dalla cifra III dell’O del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
+
+#### Art. 5a
+
+**Membri della posta da campo**[^5a-1]
+
+<sup>1</sup> L’obbligo di prestare servizio militare dei collaboratori della posta da campo può essere prorogato su richiesta congiunta della persona interessata e della Direzione della posta da campo.
+
+<sup>2</sup> Ai collaboratori della posta da campo che in base alla loro funzione civile sono attribuiti a una determinata funzione militare può essere conferito per la durata dell’attribuzione il grado necessario per la funzione.
+
+[^5a-1]: Introdotto dalla cifra III dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
 
 #### Art. 6
 

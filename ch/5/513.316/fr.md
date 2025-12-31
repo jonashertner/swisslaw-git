@@ -3,18 +3,18 @@ sr: "513.316"
 title: Ordonnance du 21 novembre 2018 concernant la poste de campagne
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/729"
 language: fr
-version: 2019-01-01
+version: 2026-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/729/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-729-20190101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/729/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/729/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-729-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/729/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la poste de campagne
 
-du 21 novembre 2018 (État le 1<sup>er</sup> janvier 2019)
+du 21 novembre 2018 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -22,8 +22,8 @@ vu l’art. 150, al. 1, de la loi du 3 février 1995 sur l’armée[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452)
 
 #### Art. 1
 
@@ -39,7 +39,7 @@ La présente ordonnance règle les prestations en matière de trafic postal et d
 
 <sup>2</sup> En cas de besoin justifié, la poste de campagne peut, en accord avec la Base logistique de l’armée (BLA), offrir d’autres prestations en matière de trafic postal et de trafic des paiements à la troupe, ainsi que des articles personnels de première nécessité. Les dispositions relatives au trafic des paiments prescrites par l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^2-1] doivent être respectées.
 
-[^2-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^2-1]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 3
 
@@ -57,7 +57,7 @@ Le Département fédéral de la défense, de la protection de la population et d
 
 <sup>3</sup> La fourniture de services postaux dans des situations extraordinaires est régie par l’art. 12 de la loi du 17 décembre 2010 sur la poste[^4-1].
 
-[^4-1]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-1]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 5
 
@@ -73,7 +73,19 @@ La poste de campagne comprend:
 
 <sup>2</sup> Durant un engagement, le chef de la BLA peut établir des directives à l’intention de la direction de la poste de campagne.
 
-<sup>3</sup> La durée des obligations militaires du personnel de la poste de campagne peut être prolongée.
+<sup>3</sup> …[^5-1]
+
+[^5-1]: Abrogé par le ch. III de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
+
+#### Art. 5a
+
+**Membres de la poste de campagne**[^5a-1]
+
+<sup>1</sup> La durée des obligations militaires des collaborateurs de la poste de campagne peut être prolongée à la demande conjointe de la personne concernée et de la direction de la poste de campagne.
+
+<sup>2</sup> Le grade requis en vue de l’exercice d’une fonction militaire déterminée peut être conféré, pour la durée de l’attribution, aux collaborateurs de la poste de campagne attribués à ladite fonction en raison de leurs activités civiles.
+
+[^5a-1]: Introduit par le ch. III de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
 
 #### Art. 6
 

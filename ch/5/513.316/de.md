@@ -3,18 +3,18 @@ sr: "513.316"
 title: Verordnung vom 21. November 2018 über die Feldpost
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/729"
 language: de
-version: 2019-01-01
+version: 2026-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/729/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-729-20190101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/729/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/729/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-729-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/729/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Feldpost
 
-vom 21. November 2018 (Stand am 1. Januar 2019)
+vom 21. November 2018 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -22,8 +22,8 @@ gestützt auf Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ing
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [SR 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452)
 
 #### Art. 1
 
@@ -39,7 +39,7 @@ Diese Verordnung regelt die Post- und Zahlungsverkehrsdienstleistungen sowie die
 
 <sup>2</sup> Sofern ein nachgewiesenes Bedürfnis besteht, kann die Feldpost im Einvernehmen mit der Logistikbasis der Armee (LBA) weitere Post- und Zahlungsverkehrsdienstleistungen sowie persönliche Bedarfsartikel anbieten. Dabei dürfen die Bestimmungen der Finanzhaushaltsverordnung vom 5. April 2006[^2-1] bezüglich die Ausgestaltung des Zahlungsverkehrs nicht verletzt werden.
 
-[^2-1]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^2-1]: [SR 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 3
 
@@ -57,7 +57,7 @@ Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport
 
 <sup>3</sup> Die Leistungserbringung in ausserordentlichen Lagen erfolgt nach Artikel 12 des Postgesetzes vom 17. Dezember 2010[^4-1].
 
-[^4-1]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-1]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 5
 
@@ -73,7 +73,19 @@ Die Feldpost umfasst:
 
 <sup>2</sup> Im Einsatz kann die Feldpost nach den Vorgaben der Chefin oder des Chefs der LBA geleitet werden.
 
-<sup>3</sup> Die Militärdienstpflicht der Mitarbeiterinnen und Mitarbeiter der Feldpost kann auf Gesuch hin verlängert werden.
+<sup>3</sup> …[^5-1]
+
+[^5-1]: Aufgehoben durch Ziff. III der V vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
+
+#### Art. 5a
+
+**Angehörige der Feldpost**[^5a-1]
+
+<sup>1</sup> Die Militärdienstpflicht der Mitarbeitenden der Feldpost kann auf gemeinsames Gesuch der betroffenen Person und der Feldpostdirektion hin verlängert werden.
+
+<sup>2</sup> Mitarbeitenden der Feldpost, die aufgrund ihrer zivilen Funktion in eine bestimmte militärische Funktion zugeteilt werden, kann für die Dauer der Zuteilung der für die Funktion notwendige Grad verliehen werden.
+
+[^5a-1]: Eingefügt durch Ziff. III der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 696](https://fedlex.data.admin.ch/eli/oc/2025/696)).
 
 #### Art. 6
 
