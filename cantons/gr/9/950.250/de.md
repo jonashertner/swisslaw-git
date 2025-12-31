@@ -1,181 +1,188 @@
 ---
 canton: GR
 number: "950.250"
-title: Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet
+title: Gesetz über die Förderung von Wohnraum
 short: GFW
 language: de
-version: 2007-01-01
-corrected: 2014-10-09
-version_adopted: 2006-08-31
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 2025-06-12
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/950.250"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1817/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3619/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet
+# Gesetz über die Förderung von Wohnraum
 
-Vom Volke angenommen am 10. März 1985[^t-1]
+(GFW)
 
-I. Allgemeine Bestimmungen
+Vom 12.06.2025 (Stand 01.01.2026)
 
-[^t-1]: B vom 18. Juni 1984, 331; GRP 1984/85, 463
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
+
+gestützt auf Art. 31 Abs. 1 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 10. Februar 2025[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: GRP 2024/2025, 912
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 955
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-Dieses Gesetz fördert den Wohnungsbau, insbesondere für Familien und Personen in bescheidenen finanziellen Verhältnissen.
+<sup>1</sup> Dieses Gesetz dient der Förderung des gemeinnützigen Wohnungsbaus und der Verbesserung der Wohnverhältnisse im Kanton Graubünden.
 
 #### Art. 2
 
-**Leistungen a) Anwendungsbereich**
+**Massnahmen**
 
-Die Leistungen des Kantons richten sich nach der Wohnungsmarktlage. Sie erstrecken sich auf:
+<sup>1</sup> Der Kanton kann die Erstellung, den Erwerb und die Erneuerung von preisgünstigen Mietwohnungen durch gemeinnützige Wohnbauträgerschaften mittels Gewährung von zinsgünstigen Darlehen fördern.
 
-- a) den Bau von preisgünstigen Wohnungen;
-
-- b) die Erneuerung bestehender Wohnungen;
-
-- c) den Erwerb von Wohnungs- und Hauseigentum;
-
-- d) die Verbesserung der Wohnverhältnisse im Berggebiet.
+<sup>2</sup> Der Kanton kann Familien und Personen in bescheidenen finanziellen Verhältnissen Beiträge für die Erstellung, den Erwerb und die Erneuerung einer Wohnbaute im Berg- und Hügelgebiet zur Eigennutzung gewähren.
 
 #### Art. 3
 
-**b) Arten**
+**Zuständigkeit**
 
-<sup>1</sup> Zur Erreichung des Zweckes können:
+<sup>1</sup> Das Departement ist zuständig für:
 
-- a) Nachgangshypotheken vermittelt und verbürgt,
+- a) die Gewährung der Darlehen und Beiträge, ungeachtet ihrer Höhe, vorbehältlich derjenigen im Kompetenzbereich der Dienststelle;
+- b) den Abschluss von Leistungsaufträgen zur Übertragung von Vollzugsaufgaben.
 
-- b) Darlehen in der Regel zu Vorzugsbedingungen gewährt,
+<sup>2</sup> Im Übrigen ist die Dienststelle zuständig für den Vollzug dieses Gesetzes.
 
-- c) nicht rückzahlungspflichtige Zusatzbeiträge ausgerichtet, und
-
-- d) Baukostenbeiträge zugesprochen werden.
-
-<sup>2</sup> Die Leistungen sind in der Regel an Einkommens- und Vermögensgrenzen gebunden.
+## 2. Förderung des gemeinnützigen Wohnungsbaus
 
 #### Art. 4
 
-**Beteiligung von Bund, Kanton, Gemeinden und Dritten**
+**Zinsgünstige Darlehen 1. Voraussetzungen**
 
-<sup>1</sup> Die einzelnen Leistungen können als Ergänzung zu solchen des Bundes oder, wenn dieser keine Leistungen ausrichtet, eigenständig gewährt werden.
+<sup>1</sup> Der Kanton kann gemeinnützigen Wohnbauträgerschaften für die Erstellung, den Erwerb und die Erneuerung von preisgünstigen Mietwohnungen zinsgünstige Darlehen gewähren, sofern sie durch den Bund entsprechend gefördert werden.
 
-<sup>2</sup>[^4-1]Über die Zusicherung von Kantonsbeiträgen im Sinne von Artikel 3 dieses Gesetzes entscheidet im Rahmen des jährlichen kantonalen Budgets die Regierung endgültig.
+<sup>2</sup> Die Bestimmungen des Bundes über die Wohnraumförderung gelten sinngemäss. Eine Förderung durch den Kanton setzt die Einhaltung aller Voraussetzungen, Auflagen und Bedingungen für eine Förderung durch den Bund voraus.
 
-<sup>3</sup> Voraussetzung für einen kantonalen Beitrag ist die Zusicherung eines Beitrages durch die Gemeinde oder Dritte.
+<sup>3</sup> Erfolgt keine Förderung des Bundes, weil eine Zinsvergünstigung aufgrund dessen Mindestzinssatzes nicht möglich ist, so ist eine Förderung durch den Kanton dennoch möglich.
 
-<sup>4</sup> Der Grosse Rat setzt den Beitrag Dritter und der Gemeinde im Rahmen der Finanzkraft fest.
-
-[^4-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3332, am 1. Januar 2007 in Kraft getreten. 1.01.2007 1
+<sup>4</sup> Die Darlehen sind grundpfändlich sicherzustellen.
 
 #### Art. 5
 
-**Finanzierung**
+**2. Umfang und Konditionen**
 
-<sup>1</sup> Die dem Kanton aus diesem Gesetz erwachsenden Ausgaben sind durch allgemeine Staatsmittel zu finanzieren.
+<sup>1</sup> Die Darlehen des Kantons belaufen sich auf dieselbe Höhe wie diejenigen des Bundes.
 
-<sup>2</sup> Die Vollziehungsverordnung[^5-1] setzt den jährlichen Höchstbetrag für Leistungen des Kantons im Sinne von Artikel 3 dieses Gesetzes fest.
+<sup>2</sup> Der Zinssatz, die Laufzeit des Darlehens und die Amortisationskonditionen entsprechen, vorbehältlich der nachfolgenden Absätze, denjenigen des Bundes.
 
-[^5-1]: BR 950.260 2 1.01.2007
+<sup>3</sup> Der Kanton kann eine zusätzliche Zinsvergünstigung gewähren. Die maximale Vergünstigung gemäss den Bestimmungen des Bundes darf nicht überschritten werden. Der Mindestzinssatz beträgt 0,5 Prozent.
+
+<sup>4</sup> Der Zeitpunkt für den Beginn der Amortisation kann bis fünf Jahre später festgelegt werden. Die Laufzeit bleibt unverändert.
+
+## 3. Verbesserung der Wohnverhältnisse
 
 #### Art. 6
 
-**Gemeinnützige Organisationen**
+**Voraussetzungen**
 
-Der Kanton kann insbesondere die Tätigkeit von Trägern und Organisationen des gemeinnützigen Wohnungsbaues fördern.
+<sup>1</sup> Der Kanton kann Familien und Personen Beiträge für die Erstellung, den Erwerb und die Erneuerung einer Wohnbaute im Berg- und Hügelgebiet zur Eigennutzung gewähren, wenn das steuerbare Einkommen und Vermögen aller im Haushalt wohnenden Personen, mit Ausnahme von Kindern gemäss Artikel 7 Absatz 2, unterhalb der Grenzen gemäss Artikel 7 liegen.
+
+<sup>2</sup> Die Beitragsgewährung setzt eine angemessene Ausschöpfung der wirtschaftlichen Leistungsfähigkeit voraus. Zudem müssen die Finanzierung und die Tragbarkeit der Investition ausgewiesen sein.
+
+<sup>3</sup> Negative Einkünfte werden für das steuerbare Einkommen nicht berücksichtigt.
 
 #### Art. 7
 
-**Ausschluss**
+**Einkommens- und Vermögensgrenzen**
 
-Zweit- und Ferienwohnungen sind von Leistungen im Sinne dieses Gesetzes ausgeschlossen.
+<sup>1</sup> Die Grenze für das steuerbare Einkommen beträgt 60 000 Franken, diejenige für das steuerbare Vermögen 170 000 Franken.
 
-### II. Besondere Bestimmungen
+<sup>2</sup> Für jedes minderjährige oder sich in Ausbildung befindliche maximal 25 Jahre alte Kind, das im Haushalt wohnt, erhöht sich die Einkommensgrenze um 3000 Franken, die Vermögensgrenze um 20 000 Franken.
+
+<sup>3</sup> Die Regierung passt die Einkommens- und Vermögensgrenzen bei wesentlichen Veränderungen des Landesindexes der Konsumentenpreise an.
 
 #### Art. 8
 
-**Veräusserungs- und Zweckentfremdungsverbot**
+**Beitragssatz und Anforderungen**
 
-<sup>1</sup> Auf Objekten, für die Leistungen aus diesem Gesetz beansprucht werden, kann ein auf höchstens 25 Jahre befristetes Veräusserungs- und Zweckentfremdungsverbot festgelegt werden. In diesem Fall ist eine Handänderung nur mit Zustimmung des Kantons und der Standortgemeinde oder noch beteiligter Dritter zulässig.
+<sup>1</sup> Der Beitrag beträgt zwölf Prozent der Anlagekosten abzüglich der Grundstückskosten.
 
-<sup>2</sup> Die Genehmigung ist zu erteilen, wenn sich der neue Eigentümer im Übernahmevertrag verpflichtet, die mit der Wohnbauhilfe verbundenen Auflagen und Bedingungen vorbehaltlos zu übernehmen.
+<sup>2</sup> Die Regierung legt die Anforderungen an die zu fördernden Wohnbauten fest.
+
+## 4. Weitere Bestimmungen
 
 #### Art. 9
 
-**Kaufs- und Vorkaufsrecht**
+**Finanzierung**
 
-<sup>1</sup> Zur Sicherung des Zweckes kann sich der Kanton ein auf höchstens 25 Jahre befristetes Kaufs- und Vorkaufsrecht zu den Selbstkosten, erhöht um den Mehrwert des Eigenkapitals, vorbehalten.
+<sup>1</sup> Der Grosse Rat setzt in eigener Kompetenz die Kredite für Aufwendungen gemäss diesem Gesetz im Budget fest.
 
-<sup>2</sup> Der Kanton kann das Kaufs- und Vorkaufsrecht der Standortgemeinde oder Trägern des gemeinnützigen Wohnungsbaues abtreten.
+<sup>2</sup> Er beschliesst für die Gewährung von Darlehen gemäss Artikel 2 Absatz 1 jeweils mehrjährige Rahmenverpflichtungskredite. Der Beschluss der Verpflichtungskredite erfolgt netto.
+
+<sup>3</sup> Der jährliche Budgetkredit für Beiträge gemäss Artikel 2 Absatz 2 beträgt zwei bis fünf Millionen Franken.
 
 #### Art. 10
 
-**Weitere Auflagen und Bedingungen**
+**Auflagen und Bedingungen**
 
-<sup>1</sup> Der Kanton legt den maximal zulässigen Mietzins fest.
+<sup>1</sup> Wohnbauten, die vom Kanton gefördert werden, dürfen nur zu Erstwohnzwecken genutzt werden.
 
-<sup>2</sup> An die Gewährung von Leistungen können weitere Auflagen und Bedingungen gebunden werden.
+<sup>2</sup> Sie dürfen weder zweckentfremdet noch veräussert werden. Der Kanton stimmt jedoch einer Handänderung zu, wenn sich die übernehmende Person verpflichtet, die Förderauflagen und ‑bedingungen zu übernehmen, oder wenn eine Rückerstattung der Förderleistungen erfolgt.
+
+<sup>3</sup> An die Förderung können weitere Auflagen und Bedingungen geknüpft werden.
+
+<sup>4</sup> Die Auflagen und Bedingungen sind auf 20 Jahre befristet. Die zuständige Behörde kann diese Frist im Einzelfall ausnahmsweise reduzieren.
+
+<sup>5</sup> Die Auflagen und Bedingungen sind als öffentlich-rechtliche Eigentumsbeschränkungen im Grundbuch anzumerken.
+
+<sup>6</sup> Der Kanton überprüft periodisch die Einhaltung des Zwecks sowie der Auflagen und Bedingungen.
 
 #### Art. 11
 
-**Sanktionen**
+**Rückerstattungspflicht und gesetzliches Pfandrecht**
 
-<sup>1</sup> Werden Auflagen und Bedingungen nicht eingehalten oder Behörden durch unwahre oder unvollständige Angaben irregeführt oder eine solche Irreführung versucht, sind zugesicherte Leistungen ganz oder teilweise zu sistieren und allfällige Bürgschaften zu kündigen. Bereits bezogene Leistungen sind samt Zins und Zinseszins sowie Umtriebskosten zurückzuzahlen.
+<sup>1</sup> Erfolgt eine Zweckentfremdung, werden Voraussetzungen, Auflagen oder Bedingungen nicht eingehalten oder werden unwahre oder unvollständige Angaben gemacht, sind die Förderleistungen ganz oder teilweise zu widerrufen und zu erstatten.
 
-<sup>2</sup> Fehlbare Gesuchsteller oder aus der Zusicherung Berechtigte können von der weiteren Gewährung von Leistungen ausgeschlossen werden. Ist der Fehlbare an Arbeiten oder Lieferungen für das unterstützte Objekt beteiligt, so kann ihm die Mitwirkung bei diesen oder künftigen Objekten untersagt werden.
+<sup>2</sup> Eine Zweckentfremdung liegt insbesondere vor, wenn:
 
-<sup>3</sup> Die strafrechtliche Verfolgung bleibt vorbehalten.
+- a) Wohnbauten oder Räume nicht zu Erstwohnzwecken verwendet werden;
+- b) Wohnbauten gemäss Artikel 2 Absatz 2 oder deren Räume nicht zur Eigennutzung verwendet werden;
+- c) die massgebenden Einkommens- oder Vermögensgrenzen grundlegend und voraussichtlich dauernd überschritten werden.
+
+<sup>3</sup> Die Rückerstattungspflicht ist als öffentlich-rechtliche Eigentumsbeschränkung im Grundbuch anzumerken.
+
+<sup>4</sup> Für Rückforderungsansprüche des Kantons besteht ein gesetzliches Pfandrecht gemäss Artikel 836 des Schweizerischen Zivilgesetzbuches[^11-1].
+
+[^11-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 12
 
-**Gesetzliches Pfandrecht**
+**Aufgabenübertragung**
 
-<sup>1</sup> Für Rückforderungen im Sinne von Artikel 11 dieses Gesetzes besteht ein gesetzliches, den eingetragenen Belastungen nachgehendes Pfandrecht der Gemeinwesen gemäss Artikel 836 des Schweizerischen Zivilgesetzbuches.[^12-1]
-
-<sup>2</sup> Das Pfandrecht ist im Grundbuch einzutragen.
-
-[^12-1]: SR 210
+<sup>1</sup> Der Kanton kann den Dachorganisationen des gemeinnützigen Wohnungsbaus oder anderen Dritten Aufgaben für den Vollzug dieses Gesetzes übertragen.
 
 #### Art. 13
 
-**Anmerkungen im Grundbuch**
+**Datenbearbeitung**
 
-Kaufs- und Vorkaufsrechte, Zweckentfremdungs- und Veräusserungsverbote sowie weitere Auflagen und Bedingungen sind als öffentlich-rechtliche Eigentumsbeschränkungen im Grundbuch anzumerken.
+<sup>1</sup> Die für den Vollzug zuständigen Behörden sind berechtigt, die Personendaten, einschliesslich besonders schützenswerter Daten, zu bearbeiten, die sie zur Erfüllung ihrer Aufgaben nach diesem Gesetz benötigen. Sie sind befugt, die notwendigen Daten, insbesondere Steuerdaten, bei anderen Behörden zu beschaffen.
 
-### III. Schlussbestimmungen
+<sup>2</sup> Sie können für den Vollzug ein Informationssystem betreiben.
+
+<sup>3</sup> Im Rahmen der Übertragung von Vollzugsaufgaben dürfen die Daten Dritten bekanntgegeben werden, auch im Abrufverfahren, und von Dritten bearbeitet werden.
 
 #### Art. 14
 
-**Inkraftsetzung**
+**Anspruch und Rechtsmittel**
 
-Dieses Gesetz wird nach seiner Annahme durch das Volk von der Regierung in Kraft gesetzt.[^14-1]
+<sup>1</sup> Auf Förderleistungen gemäss diesem Gesetz besteht kein Rechtsanspruch.
 
-[^14-1]: Mit RB 2868/85 auf den 1.1.1986 in Kraft gesetzt 1.01.2007 3
+<sup>2</sup> Erstinstanzliche Entscheide des Departements unterliegen der Beschwerde an die Regierung. Beschwerdeentscheide des Departements und der Regierung sind endgültig.
 
-#### Art. 15
-
-**Vollziehungsverordnung**
-
-Der Grosse Rat erlässt eine Vollziehungsverordnung.[^15-1]
-
-[^15-1]: BR 950.260
-
-#### Art. 16
-
-**Aufhebung bisherigen Rechts**
-
-Mit dem Inkrafttreten dieses Gesetzes wird das Gesetz über die Verbesserung der Wohnverhältnisse im Berggebiet des Kantons Graubünden vom 6. Juni 1971[^16-1] aufgehoben.
-
-[^16-1]: AGS 1971, 75 4 1.01.2007
-
-#### Art. 17
-
-**Übergangsbestimmungen**
-
-Vor dem Inkrafttreten dieses Gesetzes eingereichte Gesuche sind nach bisherigem Recht zu behandeln, sofern kein Ergänzungsgesuch eingereicht wird.
+2025-074

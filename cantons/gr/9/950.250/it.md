@@ -1,181 +1,188 @@
 ---
 canton: GR
 number: "950.250"
-title: "Legge sulla costruzione di abitazioni a scopo sociale e sul miglioramento delle condizioni d'abitazione nella regione di montagna"
+title: Legge concernente la promozione degli alloggi
 short: LcPrA
 language: it
-version: 2007-01-01
-corrected: 2014-10-09
-version_adopted: 2006-08-31
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 2025-06-12
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/950.250"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1817/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3619/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sulla costruzione di abitazioni a scopo sociale e sul miglioramento delle condizioni d'abitazione nella regione di montagna
+# Legge concernente la promozione degli alloggi
 
-accettata dal Popolo il 10 marzo 1985[^t-1]
+(LcPrA)
 
-I. Disposizioni generali
+del 12.06.2025 (stato 01.01.2026)
 
-[^t-1]: M del 18 giu. 1984, 331; PGC 1984/85, 463 1.1.2007 1
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
+
+visto l'art. 31 cpv. 1 della Costituzione cantonale[^ingress-2],
+
+visto il messaggio del Governo del 10 febbraio 2025[^ingress-3],
+
+decide:
+
+[^ingress-1]: PGC 2024/2025, 912
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: Pagina 955
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
 **Scopo**
 
-La presente legge promuove la costruzione di abitazioni, in modo particolare a favore di famiglie e persone di condizioni finanziarie modeste.
+<sup>1</sup> La presente legge serve alla promozione della costruzione di abitazioni di utilità pubblica e al miglioramento delle condizioni d'abitazione nel Cantone dei Grigioni.
 
 #### Art. 2
 
-**Contributi a) Campo di applicazione**
+**Misure**
 
-I contributi del Cantone si conformano alla situazione del mercato degli alloggi. Essi comprendono:
+<sup>1</sup> Il Cantone può promuovere la costruzione, l'acquisto e il rinnovo di alloggi a pigione moderata da parte di committenti di abitazioni di utilità pubblica concedendo mutui a tasso agevolato.
 
-- a) la costruzione di abitazioni economiche;
-
-- b) il rinnovo di abitazioni esistenti;
-
-- c) l'accesso alla proprietà di appartamenti e di case familiari;
-
-- d) il miglioramento delle condizioni di abitazione nella regione di montagna.
+<sup>2</sup> Il Cantone può concedere contributi a famiglie e persone che si trovano in condizioni finanziarie modeste per la costruzione, l'acquisto e il rinnovo per uso proprio di un edificio abitativo nella regione di montagna e collinare.
 
 #### Art. 3
 
-**b) Genere**
+**Competenza**
 
-<sup>1</sup> Per raggiungere lo scopo possono essere:
+<sup>1</sup> Il Dipartimento è competente per:
 
-- a) procurate e garantite mediante fideiussione ipoteche di grado inferiore;
+- a) la concessione dei mutui e dei contributi, indipendentemente dal loro importo, fatti salvi quelli che rientrano nell'ambito di competenza del servizio;
+- b) la stipula di mandati di prestazioni per il trasferimento di compiti esecutivi.
 
-- b) concessi mutui di regola a condizioni privilegiate;
+<sup>2</sup> Per il resto la competenza per l'esecuzione della presente legge spetta al servizio.
 
-- c) versati contributi suppletivi non soggetti all'obbligo di rimborso e
-
-- d) assegnati contributi edilizi.
-
-<sup>2</sup> I contributi dipendono di regola dai limiti del reddito e della sostanza.
+## 2. Promozione della costruzione di abitazioni di utilità pubblica
 
 #### Art. 4
 
-**Partecipazione della Confederazione, del Cantone, dei comuni e di terzi**
+**Mutui a interesse favorevole 1. Presupposti**
 
-<sup>1</sup> I singoli contributi possono essere accordati a titolo di complemento a quelli della Confederazione oppure, se la stessa non ne versa, come aiuto indipendente.
+<sup>1</sup> Il Cantone può concedere mutui a interesse favorevole a committenti di abitazioni di utilità pubblica per la costruzione, l'acquisto e il rinnovo di alloggi a pigione moderata, a condizione che vi sia una corrispondente promozione da parte della Confederazione.
 
-<sup>2</sup>[^4-1]Il Governo nei limiti del preventivo cantonale annuo decide in via definitiva l'assegnazione di contributi del Cantone ai sensi dell'articolo 3 della presente legge.
+<sup>2</sup> Si applicano per analogia le disposizioni della Confederazione in materia di promozione degli alloggi. Una promozione da parte del Cantone presuppone il rispetto di tutti i presupposti, gli oneri e le condizioni validi per la promozione da parte della Confederazione.
 
-<sup>3</sup> Il contributo cantonale presuppone l'assegnazione di un aiuto da parte del comune o di terzi.
+<sup>3</sup> In assenza di una promozione federale per via dell'impossibilità di ridurre gli interessi a seguito del tasso d'interesse minimo, una promozione da parte del Cantone è comunque possibile.
 
-<sup>4</sup> Il Gran Consiglio fissa il contributo di terzi e del comune nei limiti della capacità finanziaria.
-
-[^4-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3423; entrato in vigore il 1° gen. 2007
+<sup>4</sup> I mutui devono essere garantiti da ipoteca legale.
 
 #### Art. 5
 
-**Finanziamento**
+**2. Entità e condizioni**
 
-<sup>1</sup> Le spese risultanti al Cantone dalla presente legge devono essere finanziate mediante mezzi generali dello Stato.
+<sup>1</sup> I mutui del Cantone hanno lo stesso importo di quelli della Confederazione.
 
-<sup>2</sup> L'ordinanza d'esecuzione[^5-1] fissa l'importo massimo annuo dei contributi del Cantone ai sensi dell'articolo 3 della presente legge.
+<sup>2</sup> Il tasso d'interesse, la durata del mutuo e le condizioni di ammortamento corrispondono, fatti salvi i capoversi seguenti, a quelli della Confederazione.
 
-[^5-1]: CSC 950.260 2 1.1.2007
+<sup>3</sup> Il Cantone può concedere un ribasso aggiuntivo sugli interessi. Non è ammesso superare il ribasso massimo previsto dalle disposizioni della Confederazione. Il tasso d'interesse minimo ammonta allo 0,5 per cento.
+
+<sup>4</sup> Il termine per l'inizio dell'ammortamento può essere fissato fino a cinque anni più tardi. La durata rimane invariata.
+
+## 3. Miglioramento delle condizioni d'abitazione
 
 #### Art. 6
 
-**Organizzazioni di utilità pubblica**
+**Presupposti**
 
-Il Cantone può promuovere in modo particolare l'attività di enti responsabili e di organizzazioni della costruzione di abitazioni a scopo di utilità pubblica.
+<sup>1</sup> Il Cantone può concedere a famiglie e persone contributi per la costruzione, l'acquisto e il rinnovo per uso proprio di un edificio abitativo nella regione di montagna e collinare se il reddito e la sostanza imponibili di tutte le persone che vivono nell'economia domestica, ad eccezione dei figli conformemente all'articolo 7 capoverso 2, si trovano al di sotto dei limiti stabiliti conformemente all'articolo 7.
+
+<sup>2</sup> La concessione dei contributi presuppone un esaurimento adeguato della capacità economica. Inoltre, il finanziamento e la sostenibilità dell'investimento devono essere dimostrati.
+
+<sup>3</sup> I proventi negativi non vengono considerati ai fini del reddito imponibile.
 
 #### Art. 7
 
-**Esclusione**
+**Limiti di reddito e di sostanza**
 
-Le residenze secondarie e le abitazioni di vacanza sono escluse da contributi ai sensi della presente legge.
+<sup>1</sup> Il limite per il reddito imponibile ammonta a 60 000 franchi, quello per la sostanza imponibile a 170 000 franchi.
 
-### II. Disposizioni speciali
+<sup>2</sup> Per ogni figlio minorenne o per ogni figlio in formazione di età massima di 25 anni che vive nell'economia domestica, il limite di reddito aumenta di 3000 franchi, mentre il limite di sostanza aumenta di 20 000 franchi.
+
+<sup>3</sup> Il Governo adegua i limiti di reddito e di sostanza in caso di variazioni importanti dell'indice nazionale dei prezzi al consumo.
 
 #### Art. 8
 
-**Divieto di alienazione e di sottrazione alla destinazione**
+**Aliquota di contributo e requisiti**
 
-<sup>1</sup> Per gli oggetti di abitazione per i quali vengono pretesi dei contributi giusta la presente legge, può essere stabilito un divieto di alienazione e di sottrazione alla destinazione limitato a un massimo di 25 anni. In tal caso un passaggio di proprietà è subordinato al consenso del Cantone e del comune di ubicazione oppure di terzi che ancora vi partecipano.
+<sup>1</sup> Il contributo ammonta al dodici per cento dei costi d'investimento al netto dei costi del terreno.
 
-<sup>2</sup> L'approvazione deve essere accordata se il nuovo proprietario nel contratto d'assunzione s'impegna ad assumersi senza riserve gli oneri e le condizioni collegati all'aiuto nella costruzione di abitazioni.
+<sup>2</sup> Il Governo stabilisce i requisiti posti agli edifici abitativi da promuovere.
+
+## 4. Ulteriori disposizioni
 
 #### Art. 9
 
-**Diritto di acquisto e di prelazione**
+**Finanziamento**
 
-<sup>1</sup> Per garantire la destinazione il Cantone può riservarsi un diritto di acquisto e di prelazione limitato al massimo a 25 anni a prezzo di costo, maggiorato del plusvalore del capitale proprio.
+<sup>1</sup> Il Gran Consiglio stabilisce di propria iniziativa nel preventivo i crediti per le spese ai sensi della presente legge.
 
-<sup>2</sup> Il Cantone può cedere il diritto di acquisto e di prelazione al comune di ubicazione oppure ad enti della costruzione di abitazioni a scopo di utilità pubblica.
+<sup>2</sup> Per la concessione di mutui conformemente all'articolo 2 capoverso 1 esso decide crediti d'impegno quadro pluriennali. I crediti d'impegno vengono decisi al netto.
+
+<sup>3</sup> Il credito di preventivo annuale per contributi conformemente all'articolo 2 capoverso 2 è compreso tra due e cinque milioni di franchi.
 
 #### Art. 10
 
-**Altri oneri e altre condizioni**
+**Oneri e condizioni**
 
-<sup>1</sup> Il Cantone fissa il massimo affitto consentito.
+<sup>1</sup> Gli edifici abitativi promossi dal Cantone possono essere utilizzati esclusivamente a scopo di abitazione primaria.
 
-<sup>2</sup> I contributi possono essere subordinati ad altri oneri e ad altre condizioni.
+<sup>2</sup> Non possono essere destinati ad altro scopo né alienati. Tuttavia il Cantone approva un trapasso di proprietà, se la persona che rileva l'oggetto si impegna a rilevare gli oneri e le condizioni di promozione o se le prestazioni di promozione vengono rimborsate.
+
+<sup>3</sup> La promozione può essere vincolata ad altri oneri e condizioni.
+
+<sup>4</sup> Gli oneri e le condizioni sono limitati a 20 anni. In singoli casi l'autorità competente può eccezionalmente ridurre questa durata.
+
+<sup>5</sup> Gli oneri e le condizioni devono essere menzionati nel registro fondiario quali restrizioni di diritto pubblico della proprietà.
+
+<sup>6</sup> Il Cantone verifica periodicamente il rispetto dello scopo nonché degli oneri e delle condizioni.
 
 #### Art. 11
 
-**Sanzioni**
+**Obbligo di rimborso e ipoteca legale**
 
-<sup>1</sup> Se gli oneri e le condizioni non vengono rispettati oppure se le autorità vengono indotte in errore mediante indicazioni fallaci o incomplete oppure se si tenta un simile inganno, i contributi assegnati devono essere sospesi del tutto o in parte e le eventuali fideiussioni disdette. I contributi già percepiti devono essere rimborsati compresi gli interessi e gli interessi composti nonché le spese amministrative.
+<sup>1</sup> Se si procede a una destinazione ad altro scopo, se i presupposti, gli oneri o le condizioni non vengono rispettati oppure se vengono fornite informazioni non veritiere o incomplete le prestazioni di promozione devono essere revocate e rimborsate completamente o in parte.
 
-<sup>2</sup> I richiedenti colpevoli o gli altri colpevoli aventi diritto giusta un'assegnazione, possono essere esclusi da un'ulteriore concessione di contributi. Se il colpevole partecipa a opere o forniture per l'oggetto di abitazione sussidiato, può essergli vietata la cooperazione a questo o a futuri oggetti.
+<sup>2</sup> Una destinazione ad altro scopo è data in particolare se:
 
-<sup>3</sup> Resta riservata l'azione penale.
+- a) gli edifici abitativi o i locali non vengono utilizzati a scopo di abitazione primaria;
+- b) gli edifici abitativi conformemente all'articolo 2 capoverso 2 o i relativi locali non vengono utilizzati per uso proprio;
+- c) i limiti di reddito o di sostanza determinanti vengono superati in modo sostanziale e presumibilmente permanente.
+
+<sup>3</sup> L'obbligo di rimborso deve essere menzionato nel registro fondiario quale restrizione di diritto pubblico della proprietà.
+
+<sup>4</sup> Per diritti di rimborso del Cantone vige un'ipoteca legale conformemente all'articolo 836 del Codice civile svizzero[^11-1].
+
+[^11-1]: RS [210](https://db.clex.ch/link/Bund/210/it)
 
 #### Art. 12
 
-**Ipoteca legale**
+**Delega di compiti**
 
-<sup>1</sup> Per le pretese di restituzione ai sensi dell'articolo 11 della presente legge sussiste un'ipoteca legale degli enti di diritto pubblico giusta l'articolo 836 del codice civile svizzero,[^12-1] preceduta dagli oneri iscritti.
-
-<sup>2</sup> L'ipoteca deve essere iscritta nel registro fondiario.
-
-[^12-1]: RS 210
+<sup>1</sup> Il Cantone può delegare alle organizzazioni mantello per la costruzione di abitazioni di utilità pubblica o ad altri terzi i compiti per l'esecuzione della presente legge.
 
 #### Art. 13
 
-**Menzioni nel registro fondiario**
+**Elaborazione dei dati**
 
-I diritti di acquisto e di prelazione, i divieti di sottrazione alla destinazione e di alienazione, come pure altri oneri e altre condizioni devono essere menzionati nel registro fondiario quali restrizioni di diritto pubblico della proprietà.
+<sup>1</sup> Le autorità competenti per l'esecuzione sono autorizzate a elaborare i dati personali, compresi quelli degni di particolare protezione, di cui necessitano per svolgere i compiti previsti dalla presente legge. Esse sono autorizzate a procurarsi i dati necessari, in particolare i dati fiscali, da altre autorità.
 
-### III. Disposizioni finali
+<sup>2</sup> Per l'esecuzione possono gestire un sistema d'informazione.
+
+<sup>3</sup> Nel quadro della delega di compiti esecutivi i dati possono essere comunicati a terzi, anche nella procedura di richiamo, ed essere elaborati da terzi.
 
 #### Art. 14
 
-**Entrata in vigore**
+**Diritto e rimedi giuridici**
 
-La presente legge viene dichiarata in vigore dal Governo dopo la sua accettazione da parte del Popolo.[^14-1]
+<sup>1</sup> Non sussiste un diritto giuridico a ricevere prestazioni di promozione conformemente alla presente legge.
 
-[^14-1]: Dichiarata in vigore per il 1° gen. 1986 con DG 2868/85 1.1.2007 3
+<sup>2</sup> Le decisioni di prima istanza del Dipartimento sono impugnabili con ricorso al Governo. Le decisioni su ricorso del Dipartimento e del Governo sono definitive.
 
-#### Art. 15
-
-**Ordinanza d'esecuzione**
-
-Il Gran Consiglio emana un'ordinanza d'esecuzione.[^15-1]
-
-[^15-1]: CSC 950.260
-
-#### Art. 16
-
-**Abrogazioni**
-
-Con l'entrata in vigore della presente legge viene abrogata la legge del 6 giugno 1971[^16-1] concernente il miglioramento delle condizioni d'abitazione nelle regioni di montagna del Cantone dei Grigioni.
-
-[^16-1]: RC 1971, 75 4 1.1.2007
-
-#### Art. 17
-
-**Disposizioni transitorie**
-
-Le domande presentate prima dell'entrata in vigore della presente legge devono essere evase giusta il diritto precedente, per quanto non venga presentata una domanda complementare.
+2025-074
