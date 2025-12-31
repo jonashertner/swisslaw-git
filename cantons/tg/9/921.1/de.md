@@ -2,26 +2,25 @@
 canton: TG
 number: "921.1"
 title: Waldgesetz
-short: TG WaldG
+short: WaldG
 language: de
-version: 2014-04-01
-valid_until: 2025-12-31
-version_adopted: 2013-11-20
+version: 2026-01-01
+version_adopted: 2024-05-08
 adopted: 1994-09-14
 in_force: 1996-04-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/921.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2308/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3012/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Waldgesetz
 
-TG WaldG
+WaldG
 
-(TG WaldG)
+(WaldG)
 
-vom 14.09.1994 (Stand 01.04.2014)
+vom 14.09.1994 (Stand 01.01.2026)
 
 ## 1. Geltungsbereich
 
@@ -69,7 +68,7 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 <sup>2</sup> Die Waldeigentümer sind Mitglieder der Körperschaft.
 
-<sup>3</sup> Die Körperschaft stellt einen Revierförster oder eine Revierförsterin an.
+<sup>3</sup> Die Körperschaft stellt die Revierförster und Revierförsterinnen an.
 
 <sup>4</sup> Der Regierungsrat erlässt Rahmenvorschriften über Anstellung und Besoldung der Revierförster und Revierförsterinnen.
 
@@ -79,11 +78,13 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 #### § 6
 
-**Staatsforstbetrieb**
+**Staatswald und Staatsforstbetrieb**
 
-<sup>1</sup> Der Kanton führt einen Staatsforstbetrieb nach ökologischen und betriebswirtschaftlichen Grundsätzen.
+<sup>1</sup> Der Regierungsrat legt fest, welche kantonseigenen Wälder zum Staatswald gehören.
 
-<sup>2</sup> Der Regierungsrat legt fest, welche kantonseigenen Wälder zum Staatsforstbetrieb gehören.
+<sup>2</sup> Die Staatswaldflächen werden nach ökologischen und betriebswirtschaftlichen Grundsätzen bewirtschaftet.
+
+<sup>3</sup> Zur Bewirtschaftung der Staatswaldflächen führt der Kanton einen Forstbetrieb. Der Staatsforstbetrieb kann forstliche Arbeiten im Auftrag von Dritten ausführen. Er kann Ausbildungen im Forstbereich anbieten.
 
 ## 3. Walderhaltung
 
@@ -105,7 +106,7 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 **Ausgleich**
 
-<sup>1</sup> Entstehen durch Rodungsbewilligungen erhebliche Vorteile, sind die Grundeigentümer durch den Kanton zu Ausgleichszahlungen heranzuziehen.
+<sup>1</sup> Entstehen durch Rodungsbewilligungen Vorteile, die nicht nach § 63 des Planungs- und Baugesetzes (PBG)[^9-1] erfasst werden, sind die Grundeigentümer durch den Kanton zu Ausgleichszahlungen heranzuziehen.
 
 <sup>2</sup> Diese betragen 60 Prozent der Differenz zwischen dem Verkehrswert des gerodeten Grundstücks und jenem des Waldes. Aufwendungen für den Rodungsersatz sind vom Verkehrswert des gerodeten Grundstücks abzuziehen.
 
@@ -113,15 +114,17 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 <sup>4</sup> Für nicht ausgeführte Rodungen wird die Ausgleichszahlung nach Erlöschen der Bewilligung auf Gesuch zurückerstattet.
 
+[^9-1]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
+
 #### § 10
 
 **Waldfonds**
 
-<sup>1</sup> Ersatzabgaben im Sinne des Bundesgesetzes über den Wald[^10-1] sowie Ausgleichszahlungen fliessen in einen kantonalen Waldfonds.
+<sup>1</sup> Der Kanton führt einen Waldfonds als Spezialfinanzierung.
 
-<sup>2</sup> Der Regierungsrat verwendet die Mittel des Fonds für Walderhaltungsmassnahmen. Er kann diese Befugnis an das Departement delegieren.
+<sup>2</sup> Der Fonds wird durch Ausgleichszahlungen gemäss § 9 geäufnet.
 
-[^10-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
+<sup>3</sup> Der Regierungsrat verwendet die Mittel für Walderhaltungsmassnahmen. Er kann diese Befugnis an das Departement delegieren.
 
 #### § 11
 
@@ -129,7 +132,7 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 <sup>1</sup> Waldfeststellungen zur Abgrenzung von Wald und Nutzungszonen werden durch den Kanton in Form von Plänen erlassen. Sind nur wenige Grundeigentümer betroffen, können nach Anhörung der Gemeinde und der Grundeigentümer Einzelentscheide erlassen werden.
 
-<sup>2</sup> Die Pläne sind in den Gemeinden während 20 Tagen öffentlich aufzulegen. Die Auflagefrist kann auf maximal 30 Tage verlängert werden, um die Koordination mit anderen Verfahren sicherzustellen. Der Kanton sorgt für die Koordination mit Planauflagen der Gemeinden.
+<sup>2</sup> Die Pläne sind in den Gemeinden während 30 Tagen öffentlich aufzulegen. Der Kanton sorgt für die Koordination mit Planauflagen der Gemeinden.
 
 <sup>3</sup> Wer durch die Pläne berührt ist und ein schutzwürdiges Interesse hat, kann während der Auflagefrist bei der zuständigen kantonalen Behörde schriftlich Einsprache erheben. Die Einsprache ist zu begründen.
 
@@ -153,9 +156,7 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 #### § 13a
 
-**Verbotene Freizeitaktivitäten im Wald**
-
-<sup>1</sup> Freizeitaktivitäten im Wald, deren Zweck im Treffen oder Markieren von Personen oder Gegenständen mit Waffen oder waffenähnlichen Gegenständen besteht, wie insbesondere Paintball-Spiele, sind verboten.
+**…**
 
 #### § 14
 
@@ -165,17 +166,25 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 <sup>2</sup> Die Gemeinde kann mit Zustimmung der betroffenen Waldeigentümer und des Kantons spezielle Rad- oder Reitwege bewilligen.
 
+#### § 14a
+
+**Nachteilige Nutzungen**
+
+<sup>1</sup> Nachteilige Nutzungen im Sinne von Art. 16 Abs. 1 des Bundesgesetzes über den Wald (Waldgesetz, WaG)[^14a-1] wie das Niederhalten von Bäumen, die Waldweide, dauernde Christbaumkulturen, das Abstellen nichtforstlicher Maschinen und Geräte, der Betrieb von Begräbnisstätten im Wald sowie das Ablagern und Zwischenlagern von Abfällen sind verboten.
+
+<sup>2</sup> Der Kanton kann aus wichtigen Gründen Ausnahmen bewilligen, sofern die nachhaltige Bewirtschaftung nicht beeinträchtigt wird.
+
+[^14a-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
+
 #### § 15
 
 **Bauten und Anlagen**
 
 <sup>1</sup> Bewilligungen für Bauten oder Anlagen im Wald dürfen nur mit Zustimmung des Kantons erteilt werden.
 
-<sup>2</sup> Für nicht-forstliche Bauten oder Anlagen darf die Zustimmung nur erteilt werden, sofern das Gefüge des Waldbestandes nicht beeinträchtigt wird und die Rodungsvoraussetzungen nach Art. 5 des Bundesgesetzes[^15-1] sinngemäss erfüllt sind.
+<sup>2</sup> Für nicht-forstliche Bauten oder Anlagen darf die Zustimmung nur erteilt werden, sofern das Gefüge des Waldbestandes nicht beeinträchtigt wird und die Rodungsvoraussetzungen nach Art. 5 WaG sinngemäss erfüllt sind.
 
 <sup>3</sup> Der Regierungsrat regelt, unter welchen Voraussetzungen der Erstellung von einfachen, offenen und der Allgemeinheit dienenden Erholungseinrichtungen im Wald zugestimmt werden kann.
-
-[^15-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
 
 #### § 16
 
@@ -191,7 +200,7 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 <sup>1</sup> Für die Verjüngung oder Erstaufforstung von Wald legt der Regierungsrat Mindestabstände gegenüber angrenzenden Nutzungen fest.
 
-<sup>2</sup> Diese Abstände sind so zu bemessen, dass sie den Aufbau eines naturnahen und stabilen Waldsaumes zulassen. Allfällige Beeinträchtigungen der angrenzenden Nutzung durch den Wald sind angemessen zu berücksichtigen.
+<sup>2</sup> Diese Abstände sind so zu bemessen, dass sie den Aufbau eines naturnahen und stabilen Waldrands zulassen. Allfällige Beeinträchtigungen der angrenzenden Nutzung durch den Wald sind angemessen zu berücksichtigen.
 
 ## 4. Bewirtschaftung des Waldes
 
@@ -199,55 +208,51 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 **Grundsätze**
 
-<sup>1</sup> Pflege und Nutzung des Waldes sind Aufgabe der Eigentümer. Diese achten auf den Aufbau eines stabilen Bestandes und befolgen die Grundsätze des naturnahen Waldbaues.
+<sup>1</sup> Pflege und Nutzung des Walds sind Aufgaben der Waldeigentümer. Diese achten auf den Aufbau eines stabilen Bestands und befolgen die Grundsätze des naturnahen Waldbaus. Sie tragen den sich verändernden klimatischen Bedingungen Rechnung. Sie schonen Boden, Flora und Fauna.
 
-<sup>2</sup> Wald und Waldsaum sind als ökologisch reichhaltige Lebensräume für Wildtiere und Pflanzen zu gestalten.
+<sup>2</sup> Wald und Waldrand sind als ökologisch reichhaltige Lebensräume für Wildtiere und Pflanzen zu gestalten.
 
-<sup>3</sup> Die Strauchschicht des Waldsaumes ist nachhaltig zu sichern.
+<sup>3</sup> Die Strauchschicht des Waldrands ist nachhaltig zu sichern und zu entwickeln.
 
 #### § 19
 
 **Forstliche Planung**
 
-<sup>1</sup> Der Kanton regelt und plant die Bewirtschaftung des Waldes. Der Regierungsrat erlässt regionale Waldpläne, das Departement Betriebspläne. Dabei ist für die Koordination mit anderen raumwirksamen Tätigkeiten zu sorgen.
+<sup>1</sup> Der Kanton regelt und plant die Bewirtschaftung des Walds. Der Regierungsrat erlässt einen Waldentwicklungsplan, das Departement Ausführungspläne. Dabei ist für die Koordination mit anderen raumwirksamen Tätigkeiten zu sorgen.
 
 <sup>2</sup> Die Interessen der Waldeigentümer sind bei der Planung zu berücksichtigen, soweit nicht erhebliche öffentliche Interessen entgegenstehen.
 
 #### § 20
 
-**Regionale Waldpläne**
+**Waldentwicklungsplan**
 
-<sup>1</sup> Regionale Waldpläne legen die langfristigen Ziele der Waldentwicklung fest.
+<sup>1</sup> Der Waldentwicklungsplan gibt Aufschluss über die Waldfunktionen und deren Gewichtung sowie über die angestrebten Entwicklungen. Er ist behördenverbindlich.
 
 <sup>2</sup> Die Interessen der Gemeinden sind angemessen zu berücksichtigen.
 
-<sup>3</sup> Die Entwürfe der regionalen Waldpläne sind öffentlich bekannt zu machen. Jedermann kann sich zu den Entwürfen äussern.
+<sup>3</sup> Der Entwurf des Waldentwicklungsplans ist während 30 Tagen zur öffentlichen Einsichtnahme bereitzustellen. Die Möglichkeit zur Einsichtnahme ist im Amtsblatt zu publizieren. Jedermann kann sich zum Entwurf äussern.
 
 #### § 21
 
-**Betriebspläne**
+**Ausführungspläne**
 
-<sup>1</sup> Betriebspläne legen die mittelfristigen Ziele und Massnahmen fest, die zur Umsetzung der regionalen Waldpläne notwendig sind.
+<sup>1</sup> Ausführungspläne legen die mittelfristigen Ziele und Massnahmen fest, die zur Umsetzung des Waldentwicklungsplans notwendig sind.
 
-<sup>2</sup> Betriebspläne werden für Forstbetriebe mit einer vom Regierungsrat festzulegenden minimalen Waldfläche erstellt.
+<sup>2</sup> Für jedes Forstrevier wird ein eigentumsübergreifender Ausführungsplan erstellt.
 
-<sup>3</sup> Für die übrigen Waldflächen wird revierweise ein Betriebsplan erstellt.
+<sup>3</sup> Ausführungspläne sind in Bezug auf den Hiebsatz für die Grundeigentümer verbindlich.
 
-<sup>4</sup> Betriebspläne sind während 30 Tagen öffentlich aufzulegen. Während der Auflagefrist können betroffene Waldeigentümer beim Kanton schriftlich Einsprache erheben. Die Einsprache ist zu begründen.
+<sup>4</sup> Ausführungspläne sind während 30 Tagen öffentlich aufzulegen. Während der Auflagefrist können betroffene Waldeigentümer beim Kanton schriftlich Einsprache erheben. Die Einsprache ist zu begründen.
 
 #### § 22
 
-**Verbindlichkeit der Pläne**
-
-<sup>1</sup> Die regionalen Waldpläne sind für die Behörden verbindlich.
-
-<sup>2</sup> Betriebspläne sind in bezug auf Walderhaltungsmassnahmen für die Eigentümer verbindlich.
+**…**
 
 #### § 23
 
 **Minimale Pflege**
 
-<sup>1</sup> Um die Schutzfunktionen des Waldes zu gewährleisten, kann der Kanton die Eigentümer über die Betriebsplanung hinaus zu einer minimalen Pflege verpflichten.
+<sup>1</sup> Um die Schutzfunktionen des Walds zu gewährleisten, kann der Kanton die Waldeigentümer unabhängig von der Ausführungsplanung zu einer minimalen Pflege verpflichten.
 
 #### § 24
 
@@ -265,9 +270,9 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 **Holznutzungen**
 
-<sup>1</sup> Holznutzungen im Wald bedürfen einer Bewilligung des Kantons. Sie sind vor der Ausführung durch den Forstdienst anzuzeichnen.
+<sup>1</sup> Holznutzungen im Wald bedürfen einer Bewilligung des Kantons. Vor ihrer Ausführung sind sie durch den Forstdienst anzuzeichnen.
 
-<sup>2</sup> Keiner Bewilligung bedürfen angezeichnete Holznutzungen, wenn die betreffende Fläche im regionalen Waldplan vorrangig der Holznutzung zugewiesen und der Eingriff im Betriebsplan vorgesehen ist.
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
 
 #### § 26
 
@@ -291,7 +296,7 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 **Aus-, Fort- und Weiterbildung**
 
-<sup>1</sup> Die Ausbildung des Forstpersonals sowie der Waldarbeiter und der Waldarbeiterinnen ist Sache des Kantons. Für Waldarbeiter und Waldarbeiterinnen, die in Forstbetrieben tätig sind, ist die Ausbildung obligatorisch.
+<sup>1</sup> Die Ausbildung des Forstpersonals sowie der Waldarbeiter und Waldarbeiterinnen ist Sache des Kantons.
 
 <sup>2</sup> Der Kanton ist mit den Berufsverbänden und forstlichen Organisationen für die Fortbildung des gesamten Forstpersonals verantwortlich. Er sorgt mit den Berufsverbänden für die Organisation und die Durchführung der höheren Fachprüfung für Forstwart-Meister und -Meisterinnen sowie der Berufsprüfung für Forstwart-Vorarbeiter und -Vorarbeiterinnen. Er beteiligt sich an den Kosten.
 
@@ -333,9 +338,11 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 #### § 33
 
-**Finanzhilfe**
+**Finanzhilfen**
 
-<sup>1</sup> Der Kanton kann auf der Grundlage von Leistungsvereinbarungen Finanzhilfe für den Waldbau und die forstliche Infrastruktur gewähren.
+<sup>1</sup> Der Kanton kann auf der Grundlage von Leistungsvereinbarungen Finanzhilfen für den naturnahen Waldbau gewähren, wenn dieser sich an den sich verändernden klimatischen Bedingungen orientiert.
+
+<sup>2</sup> Er kann Finanzhilfen für die forstliche Infrastruktur im Rahmen von Einzelprojekten gewähren.
 
 #### § 33a
 
@@ -357,56 +364,60 @@ vom 14.09.1994 (Stand 01.04.2014)
 
 **Berechtigung**
 
-<sup>1</sup> Beiträge für Massnahmen werden ausgerichtet, wenn die Ausführung nach den Grundsätzen der Waldgesetzgebung von Bund und Kanton erfolgt.
+<sup>1</sup> Beiträge werden ausgerichtet, wenn die Ausführung der Massnahmen nach den Grundsätzen der Waldgesetzgebung von Bund und Kanton sowie nach Massgabe der forstlichen Planung erfolgt.
 
 <sup>2</sup> Beiträge erhält, wer die angeordnete Leistung erbringt oder die Kosten von Massnahmen oder Investitionen zu tragen hat, wie Waldeigentümer, Forstrevierkörperschaften oder Gemeinden.
 
+#### § 34a
+
+**Kostenbeteiligung durch Dritte**
+
+<sup>1</sup> Der Kanton kann Dritte, die aus beitragsberechtigten Massnahmen einen besonderen Nutzen ziehen, dazu verpflichten, sich im Verhältnis zum Vorteil an den Kosten zu beteiligen.
+
+<sup>2</sup> Ein besonderer Nutzen liegt insbesondere vor, wenn sich durch die forstlichen Massnahmen andere Massnahmen, zu denen Gemeinden oder Dritte verpflichtet sind, erübrigen oder kostengünstiger ausführen lassen.
+
 #### § 35
 
-**Höhe**
+**Beitragshöhe**
 
-<sup>1</sup> Der Regierungsrat legt den Rahmen für Beiträge gemäss § 31 bis § 33 fest.
+<sup>1</sup> Abgeltungen betragen 80 % der anrechenbaren Kosten.
 
-## 7. Strafbestimmungen
+<sup>2</sup> Finanzhilfen betragen 40 % bis 70 % der anrechenbaren Kosten und richten sich nach der Art und der Schwierigkeit der Massnahme oder der Bedeutung der Objekte.
 
-#### § 36
+#### § 35a
 
-**...[^36-1]**
+**Rückforderung und Kürzung von Beiträgen**
 
-[^36-1]: Änderung und Aufhebung bisherigen Rechtes, ABl. 1994, Seite 1833.
+<sup>1</sup> Beiträge werden gekürzt, nicht ausbezahlt oder zurückgefordert, wenn
 
-#### § 37
+- 1\. der Empfänger oder die Empfängerin seine oder ihre Verpflichtungen nicht erfüllt oder erfüllen kann,
+- 2\. verfügte oder vereinbarte Auflagen nicht eingehalten werden oder
+- 3\. Beiträge zweckentfremdet werden.
 
-**Strafbestimmung**
+<sup>2</sup> Abgeltungen nach § 32 werden gekürzt, wenn die Revierstrukturen oder die Anstellungsbedingungen für den Revierförster oder die Revierförsterin nicht den kantonalen Grundsätzen entsprechen.
 
-<sup>1</sup> Wer gegen das Verbot nach § 13a verstösst, wird mit Busse bis zu Fr. 20'000 bestraft.
+<sup>3</sup> Das Rückforderungsrecht verjährt zehn Jahre nach der Auszahlung. Zurückzuerstattende Beträge sind ab Entstehung des Rückforderungsanspruchs zu verzinsen. Der Zinssatz entspricht jenem der Thurgauer Kantonalbank für Darlehen an öffentlich-rechtliche Körperschaften.
 
-## 8. Übergangs- und Schlussbestimmungen
+## 6a. Besondere Bestimmungen
 
-#### § 38
+#### § 35b
 
-**Bildung von Forstrevierkörperschaften**
+**Anmerkungen im Grundbuch**
 
-<sup>1</sup> Die Forstrevierkörperschaften gemäss § 5 sind innert fünf Jahren nach Inkrafttreten dieses Gesetzes zu bilden. Nach Ablauf dieser Frist kann der Regierungsrat Forstrevierkörperschaften schaffen.
+<sup>1</sup> Vertraglich vereinbarte Nutzungsverzichte und besondere Pflegemassnahmen zur Förderung der Biodiversität sind durch den Kanton im Grundbuch anmerken zu lassen.
 
-#### § 39
+<sup>2</sup> Die Kosten der Anmerkung trägt der Kanton.
 
-**Bildung von betrieblichen Ausgleichsfonds**
+## 7.
 
-<sup>1</sup> Forstbetriebe gemäss § 26 Abs. 1 haben innert fünf Jahren nach Inkrafttreten dieses Gesetzes die bisherigen Forstreservekassen aufzulösen und mit den frei werdenden Mitteln einen betrieblichen Ausgleichsfonds zu bilden.
+#### § 36–37
 
-#### § 40
+**…**
 
-**Hängige Verfahren**
+## 8.
 
-<sup>1</sup> Beim Inkrafttreten dieses Gesetzes hängige Verfahren werden nach neuem Recht durch die nach altem Recht zuständige Behörde weitergeführt.
+#### § 38–41
 
-#### § 41
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat festzulegenden Zeitpunkt in Kraft[^41-1].
-
-[^41-1]: § 16 und § 18 bis § 22 vom Bund genehmigt am 31. August 1995, in Kraft gesetzt auf den 1. April 1996.
+**…**
 
 ABl. 38/1994
