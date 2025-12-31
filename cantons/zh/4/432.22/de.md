@@ -4,11 +4,10 @@ number: "432.22"
 title: Bibliotheksförderungsverordnung (BFV)
 short: BFV
 language: de
-version: "2020-01-01"
-nachtrag: "107"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2011-08-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-432_22-2011_08_24-2011_11_01-107.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-432_22-2011_08_24-2011_11_01-131.html"
 text: pdf
 ---
 
@@ -74,7 +73,7 @@ Diese Verordnung bezweckt,
 
 **1**
 
-- 1\. 1. 20 - 107
+- 1\. 1. 26 - 131
 
 - c. berät Bibliothekarinnen und Bibliothekare sowie Trägerschaften von Gemeinde- und Volksschulbibliotheken in bibliothekstechnischen und betrieblichen Fragen sowie in Fragen der Weiterentwicklung der Bibliothek,
 
@@ -86,11 +85,12 @@ Diese Verordnung bezweckt,
 
 - g. führt das Sekretariat der Bibliothekskommission,
 
-- h. fördert den fachlichen Austausch zwischen Gemeinde- und Volksschulbibliotheken sowie deren Vernetzung.
+- h. fördert den fachlichen Austausch zwischen Gemeinde- und Volksschulbibliotheken sowie deren Vernetzung, i.[^5-2] kann für die Wahrnehmung der Aufgaben gemäss § 4 bibliothekarische Hilfsmittel zur Verfügung stellen.
 
 <sup>3</sup> Das Amt koordiniert seine Arbeit mit den zuständigen Fachstellen anderer Verwaltungseinheiten, der Zentralbibliothek Zürich und Dritten.
 
 [^5-1]: Fassung gemäss RRB vom 6. November 2019 (OS 74, 604; ABl 2019-11-15). In Kraft seit 1. Januar 2020.
+[^5-2]: Eingefügt durch RRB vom 27. August 2025 (OS 80, 304; ABl 2025-09-12). In Kraft seit 1. Januar 2026.
 
 #### § 6
 
@@ -159,7 +159,7 @@ Die Kommission a. berät die Bildungsdirektion und das Amt in Fragen der Gemeind
 
 **3**
 
-- 1\. 1. 20 - 107
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Die Ausrichtung von Subventionen kann vom Abschluss einer Leistungsvereinbarung abhängig gemacht werden.
 
