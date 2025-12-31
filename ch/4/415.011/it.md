@@ -4,11 +4,11 @@ title: Ordinanza del DDPS del 25 maggio 2012 su programmi e progetti per la prom
 short: OPPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: it
-version: 2022-12-01
+version: 2026-01-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20221201-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20221201/it"
 
 (OPPSpo)
 
-del 25 maggio 2012 (Stato 1° dicembre 2022)
+del 25 maggio 2012 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -25,7 +25,7 @@ vista l’ordinanza del 23 maggio 2012[^ingress-1] sulla promozione dello sport 
 
 ordina:
 
-[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
+[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
 
 ## Capitolo 1: Oggetto
 
@@ -56,7 +56,7 @@ Nella presente ordinanza, s’intende per:
 - d. *scuole*: la scuola obbligatoria secondo l’articolo 48 OPSpo e le scuole di livello secondario II;
 - e. *attività:* un’occupazione singola, limitata nel tempo, di carattere sportivo (lezione, allenamento, escursione o competizione).
 
-[^2-1]: Abrogata dal n. I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^2-1]: Abrogata dalla cifra I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 #### Art. 3
 
@@ -70,10 +70,10 @@ Nella presente ordinanza, s’intende per:
 
 <sup>3</sup> Le attività nel quadro di discipline sportive di cui all’articolo 6 capoverso 2 OPSpo sono vietate in un’offerta G+S. Nei corsi e campi G+S della disciplina sportiva canoismo sono autorizzate le discese in acque vive, comprese quelle con grado di difficoltà superiore al II ai sensi dell’allegato 3 dell’ordinanza del 30 gennaio 2019[^3-3] sulle attività a rischio, se tali attività sono dirette da persone con riconoscimento valido di monitore G+S canoismo e il riconoscimento complementare «sicurezza».[^3-4]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^3-2]: Introdotto dal n. I dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogato dal n. I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^3-3]: [RS 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
-[^3-4]: Nuovo testo giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^3-2]: Introdotto dalla cifra I dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogato dalla cifra I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^3-3]: [RS 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
+[^3-4]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### Sezione 2: Corsi G+S
 
@@ -97,8 +97,8 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 <sup>2</sup> La grandezza dei gruppi è stabilita nell’allegato 2.
 
-[^5-1]: Per. abrogato dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
-[^5-2]: Introdotto dal n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^5-1]: Per. abrogato dalla cifra I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^5-2]: Introdotto dalla cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
 
 #### Art. 6
 
@@ -108,13 +108,13 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 <sup>2</sup> Se le attività di un corso sono svolte in sottogruppi, ciascun sottogruppo deve essere diretto da un monitore G+S che dispone di tutti i riconoscimenti necessari per lo svolgimento delle corrispondenti attività G+S.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^7-1]: Abrogato dalla cifra I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 8
 
@@ -136,9 +136,9 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 <sup>7</sup> In casi eccezionali l’Ufficio federale dello sport (UFSPO) può autorizzare corsi più brevi e un numero inferiore di allenamenti.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
-[^8-3]: Introdotto dal n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^8-3]: Introdotto dalla cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 9
 
@@ -154,8 +154,8 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 <sup>5</sup> Se in un corso del gruppo di utenti 2 si svolgono più discipline sportive in parte attribuite al gruppo di utenti 1, a tale corso si applica l’articolo 8.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 10
 
@@ -175,10 +175,10 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 <sup>2</sup> La vita comunitaria al campo comprende esperienze di gruppo in una struttura diurna in un luogo determinato con o senza pernottamento comune.[^11-1]
 
-<sup>3</sup> e <sup>4</sup> ...[^11-2]
+<sup>3 e <sup>4</sup></sup> ...[^11-2]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
-[^11-2]: Abrogati dal n. I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^11-2]: Abrogati dalla cifra I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 12
 
@@ -186,7 +186,7 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S riconosciuti nella corrispondente disciplina sportiva e per il gruppo di destinatari «bambini» o «giovani».
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 13
 
@@ -212,9 +212,9 @@ Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S ricono
 
 <sup>6</sup> In un campo che dura più di quattro giorni vi può essere un giorno senza allenamenti. Questo non viene considerato ai fini del calcolo dei contributi.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DDPS del 5 set. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2843](https://fedlex.data.admin.ch/eli/oc/2014/490)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
-[^14-3]: Abrogato dal n. I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 5 set. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2843](https://fedlex.data.admin.ch/eli/oc/2014/490)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^14-3]: Abrogato dalla cifra I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 15
 
@@ -230,7 +230,7 @@ Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S ricono
 
 [^1620-1]
 
-[^1620-1]: Abrogati dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^1620-1]: Abrogati dalla cifra I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
 
 ### Sezione 5: Formazione dei quadri in generale
 
@@ -274,10 +274,10 @@ L’ammissione ai corsi e ai moduli della formazione dei quadri può essere subo
 
 <sup>6</sup> L’UFSPO decide in merito all’ammissione alla formazione dei quadri su richiesta dell’organizzatore della stessa.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del DDPS del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
-[^21-3]: Introdotto dal n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^21-4]: Abrogato dal n. I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^21-3]: Introdotto dalla cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^21-4]: Abrogato dalla cifra I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 22
 
@@ -299,7 +299,7 @@ L’UFSPO sorveglia la formazione dei quadri dei Cantoni e delle organizzazioni 
 
 [^24-1]
 
-[^24-1]: Abrogato dal n. I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^24-1]: Abrogato dalla cifra I dell’O del DDPS del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 25
 
@@ -316,7 +316,7 @@ Può essere espulso da un’offerta della formazione dei quadri chi:
 
 Per lo svolgimento dei moduli della formazione continua[^26-1] o per l’insegnamento di singoli temi della formazione dei quadri è possibile impiegare anche persone che non dispongono di un riconoscimento quale quadro G+S.
 
-[^26-1]: Nuova espr. giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^26-1]: Nuova espr. giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 6: Monitori G+S
 
@@ -328,7 +328,7 @@ Per lo svolgimento dei moduli della formazione continua[^26-1] o per l’insegna
 
 I monitori G+S nella disciplina sportiva sport di campo/trekking possono dirigere corsi e campi G+S o singole attività isolate nel quadro di corsi o campi di un organizzatore anche se non hanno ancora compiuto 18 anni.
 
-[^26a-1]: Introdotto dal n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 al 31 dic. 2025 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^26a-1]: Introdotto dalla cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 al 31 dic. 2025 e dal 1° gen. 2026 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218); [2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 27
 
@@ -336,11 +336,12 @@ I monitori G+S nella disciplina sportiva sport di campo/trekking possono diriger
 
 <sup>1</sup> La formazione di monitore G+S avviene nell’ambito di corsi per monitori G+S specifici alle diverse discipline sportive in considerazione delle esigenze dei gruppi di destinatari «bambini» o «giovani».[^27-1]
 
-<sup>2</sup> Nei corsi per monitori G+S sono insegnate conoscenze di base in materia di pedagogia, motricità sportiva e metodologia.
+<sup>2</sup> ...[^27-2]
 
 <sup>3</sup> L’UFSPO offre formazioni abbreviate sotto forma di corsi di introduzione a persone che dispongono di una formazione equiparabile al corso per monitori.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^27-2]: Abrogato dalla cifra I dell’O del DDPS del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 28
 
@@ -352,7 +353,7 @@ I monitori G+S nella disciplina sportiva sport di campo/trekking possono diriger
 
 <sup>3</sup> I moduli di formazione continua che servono ad approfondire le competenze, se interrotti, per essere considerati validi ai fini dell’obbligo in materia di formazione continua devono essere seguiti per una durata almeno uguale a quella dei moduli previsti esclusivamente per mantenere valido il riconoscimento quale monitore.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° gen. 2021, il cpv. 2 entra in vigore il 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° gen. 2021, il cpv. 2 entra in vigore il 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 29
 
@@ -433,7 +434,7 @@ I coach G+S sono responsabili dello svolgimento conforme alle prescrizioni delle
 
 [^3539-1]
 
-[^3539-1]: Abrogati dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^3539-1]: Abrogati dalla cifra I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
 
 ### Sezione 9: Esperti G+S
 
@@ -451,7 +452,7 @@ I coach G+S sono responsabili dello svolgimento conforme alle prescrizioni delle
 
 <sup>4</sup> Esso può offrire a persone che dispongono di una formazione equivalente a un corso per esperti formazioni abbreviate sotto forma di corsi di introduzione.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 41
 
@@ -490,9 +491,9 @@ Sono ammessi alla formazione o alla formazione continua i candidati che:
 
 <sup>4</sup> L’UFSPO può svolgere con gli esperti G+S corsi per i quadri destinati a preparare o sviluppare la formazione dei quadri G+S.[^43-3]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^43-2]: Abrogato dal n. I dell’O del DDPS del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^43-3]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^43-2]: Abrogato dalla cifra I dell’O del DDPS del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-3]: Nuovo testo giusta la cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
 
 ### Sezione 10: Concessione dei contributi
 
@@ -506,11 +507,11 @@ Sono ammessi alla formazione o alla formazione continua i candidati che:
 
 <sup>2</sup> Per i corsi G+S con i bambini nel gruppo di utenti 5 sono versati contributi maggiorati.
 
-<sup>3</sup> e <sup>4</sup> ...[^44-1]
+<sup>3 e <sup>4</sup></sup> ...[^44-1]
 
 <sup>5</sup> I contributi massimi sono stabiliti nell’allegato 3.
 
-[^44-1]: Abrogati dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^44-1]: Abrogati dalla cifra I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
 
 #### Art. 45
 
@@ -520,7 +521,7 @@ Sono ammessi alla formazione o alla formazione continua i candidati che:
 
 <sup>2</sup> I contributi massimi sono stabiliti nell’allegato 3.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 46
 
@@ -534,13 +535,13 @@ Sono ammessi alla formazione o alla formazione continua i candidati che:
 
 <sup>4</sup> L’UFSPO può prevedere limitazioni alla partecipazione di bambini a competizioni.
 
-[^46-1]: Abrogato dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^46-1]: Abrogato dalla cifra I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
 
 #### Art. 47
 
 [^47-1]
 
-[^47-1]: Abrogato dal n. I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^47-1]: Abrogato dalla cifra I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 #### Art. 48
 
@@ -548,7 +549,7 @@ Sono ammessi alla formazione o alla formazione continua i candidati che:
 
 Per l’impiego di guide alpine con attestato professionale federale nelle discipline sportive alpinismo e sci escursionismo, come pure nelle attività su roccia nella disciplina arrampicata sportiva, agli organizzatori delle offerte G+S e delle offerte di formazione dei quadri G+S può essere concesso un contributo supplementare secondo l’allegato 5.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 49
 
@@ -563,7 +564,7 @@ Se a un corso o a un campo G+S partecipa almeno una persona che, in quanto affet
 
 <sup>2</sup> Se le misure particolari consistono nell’impiego di persone supplementari con compiti di assistenza, queste non sono computate come monitori ulteriori ai sensi dell’allegato 2 anche se dispongono di un riconoscimento di monitori G+S.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 #### Art. 50
 
@@ -573,20 +574,21 @@ Se a un corso o a un campo G+S partecipa almeno una persona che, in quanto affet
 
 <sup>2</sup> L’UFSPO concede i contributi secondo l’allegato 7.
 
-<sup>2bis</sup>
+<sup>2<sup>bis</sup></sup>
 
-Se Cantoni o federazioni sportive o giovanili svolgono su incarico dell’UFSPO moduli per la formazione e la formazione continua di esperti G+S, l’UFSPO stipula con essi un accordo in cui sono stabiliti:
+Se Cantoni o federazioni sportive o associazioni giovanili svolgono su incarico dell’UFSPO corsi o moduli per la formazione e la formazione continua di esperti G+S, l’UFSPO stipula con essi un accordo in cui sono stabiliti:[^50-1]
 
 - a. l’indennizzo dovuto al Cantone o alla federazione per le spese da essi sostenute per l’alloggio, il vitto e l’uso di infrastrutture sportive e di trasporto che comunque non deve superare un massimo di 200 franchi al giorno per partecipante;
-- b. l’eventuale partecipazione dei partecipanti ai costi per l’uso di infrastrutture sportive e di trasporto.[^50-1]
+- b. l’eventuale partecipazione dei partecipanti ai costi per l’uso di infrastrutture sportive e di trasporto.[^50-2]
 
-<sup>3</sup> Non sono concessi contributi e non sono messi a disposizione buoni per il viaggio di andata e ritorno dei partecipanti verso il luogo del corso se un’istituzione attiva nel campo della formazione svolge la formazione dei quadri come parte integrante di un ciclo di formazione e la frequenza a detta formazione dei quadri è obbligatoria.[^50-2]
+<sup>3</sup> Non sono concessi contributi e non sono messi a disposizione buoni per il viaggio di andata e ritorno dei partecipanti verso il luogo del corso se un’istituzione attiva nel campo della formazione svolge la formazione dei quadri come parte integrante di un ciclo di formazione e la frequenza a detta formazione dei quadri è obbligatoria.[^50-3]
 
-<sup>4</sup> La formazione dei quadri organizzata dalle associazioni giovanili è indennizzata secondo la legge federale del 6 ottobre 1989[^50-3] per la promozione delle attività giovanili extrascolastiche.
+<sup>4</sup> La formazione dei quadri organizzata dalle associazioni giovanili è indennizzata secondo la legge federale del 6 ottobre 1989[^50-4] per la promozione delle attività giovanili extrascolastiche.
 
-[^50-1]: Introdotto dal n. I dell’O del DDPS del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7377](https://fedlex.data.admin.ch/eli/oc/2017/802)).
-[^50-2]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
-[^50-3]: [RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
+[^50-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^50-2]: Introdotto dalla cifra I dell’O del DDPS del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7377](https://fedlex.data.admin.ch/eli/oc/2017/802)).
+[^50-3]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^50-4]: [RS 446.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7156)
 
 #### Art. 51
 
@@ -600,7 +602,7 @@ Se Cantoni o federazioni sportive o giovanili svolgono su incarico dell’UFSPO 
 
 <sup>4</sup> Se i compiti sono svolti in modo incompleto i contributi sono ridotti in misura corrispondente.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 ### Sezione 11: Altre prestazioni della Confederazione
 
@@ -660,8 +662,8 @@ Le offerte G+S, i corsi e i moduli della formazione dei quadri sono amministrate
 
 <sup>2</sup> Il coach G+S rappresenta l’organizzazione in tutte le questioni attinenti a G+S.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^57-2]: Introdotto dal n. I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^57-2]: Introdotto dalla cifra I dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 58
 
@@ -680,7 +682,7 @@ L’annuncio deve contenere almeno le seguenti indicazioni:
 
 <sup>3</sup> L’autorità competente decide in merito all’approvazione delle offerte prima del loro inizio.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 59
 
@@ -768,11 +770,13 @@ Può essere escluso da un’offerta della formazione dei quadri chi:
 
 **Formazione**
 
-<sup>1</sup> Nella formazione di monitore ESA si insegnano conoscenze di base di pedagogia degli adulti, motricità sportiva, metodologia e specifiche alla disciplina sportiva. Questi contenuti possono variare a seconda del gruppo di destinatari.
+<sup>1</sup> La formazione di monitore ESA può variare a seconda del gruppo di destinatari.[^66-1]
 
 <sup>2</sup> Gli organizzatori della formazione dei monitori possono offrire iter formativi abbreviati sotto forma di corsi di introduzione a persone che dispongono di una formazione equivalente alla formazione ESA.
 
 <sup>3</sup> La formazione dura di regola sei giorni. Essa può essere abbreviata per le persone che dispongono di conoscenze specifiche in materia, segnatamente i monitori G+S.
+
+[^66-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 67
 
@@ -875,7 +879,7 @@ Non sono versati contributi:
 
 <sup>4</sup> L’UFSPO stabilisce i contributi nel caso concreto. Al riguardo considera segnatamente la frequenza delle offerte di corsi ESA nelle singole regioni o discipline sportive.
 
-[^73-1]: Introdotto dal n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^73-1]: Introdotto dalla cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 #### Art. 74
 
@@ -917,7 +921,7 @@ La Confederazione può mettere a disposizione stampati, materiale per l’insegn
 
 [^chap3a-1]
 
-[^chap3a-1]: Introdotto dal n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^chap3a-1]: Introdotto dalla cifra I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 ### (art. 40 cpv. 4 OPSpo)
 
@@ -1039,8 +1043,8 @@ Sono abrogate le seguenti ordinanze:
 - 5\. ordinanza dell’11 gennaio 1989[^83-5] concernente l’attribuzione di sussidi all’Associazione Olimpica Svizzera, alle federazioni sportive e ad altre organizzazioni sportive.
 
 [^83-1]: [[RU 1992 494](https://fedlex.data.admin.ch/eli/oc/1992/494_494_494)]
-[^83-2]: [[RU 2001 3319](https://fedlex.data.admin.ch/eli/oc/2001/495), [2002 4033](https://fedlex.data.admin.ch/eli/oc/2002/644), [2003 4279](https://fedlex.data.admin.ch/eli/oc/2003/635), [2005 259](https://fedlex.data.admin.ch/eli/oc/2005/40), [2007 6711](https://fedlex.data.admin.ch/eli/oc/2007/866)]
-[^83-3]: [[RU 2002 4040](https://fedlex.data.admin.ch/eli/oc/2002/645), [2004 4667](https://fedlex.data.admin.ch/eli/oc/2004/718), [2011 5627](https://fedlex.data.admin.ch/eli/oc/2011/789)]
+[^83-2]: [[RU 2001 3319](https://fedlex.data.admin.ch/eli/oc/2001/495); [2002 4033](https://fedlex.data.admin.ch/eli/oc/2002/644); [2003 4279](https://fedlex.data.admin.ch/eli/oc/2003/635); [2005 259](https://fedlex.data.admin.ch/eli/oc/2005/40); [2007 6711](https://fedlex.data.admin.ch/eli/oc/2007/866)]
+[^83-3]: [[RU 2002 4040](https://fedlex.data.admin.ch/eli/oc/2002/645); [2004 4667](https://fedlex.data.admin.ch/eli/oc/2004/718); [2011 5627](https://fedlex.data.admin.ch/eli/oc/2011/789)]
 [^83-4]: [[RU 1999 587](https://fedlex.data.admin.ch/eli/oc/1999/79)]
 [^83-5]: [[RU 1989 193](https://fedlex.data.admin.ch/eli/oc/1989/193_193_193)]
 
@@ -1056,13 +1060,13 @@ Allegato 1[^t-1]
 
 ## Discipline sportive G+S
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 Aikido, alpinismo, allround, arrampicata sportiva, artistic swimming, atletica leggera, badminton, balestra, baseball/softball, biathlon, BMX, calcio, canoismo, canottaggio, carabina, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, equitazione, football americano, gara nautica, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacanestro, pallacesto, pallamano, pallanuoto, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, pistola, rampichino, rock’n’roll, rugby, ruota di Rhön, salto con gli sci, scherma, sci, sci di fondo, sci escursionismo, snowboard, sport di campo/trekking, squash, street hockey, tavola a vela, tchoukball, tennis, tennistavolo, tiro con l’arco, trampolino, trial in bicicletta, triathlon, tuffi, unihockey, vela, volteggio, wushu/kung-fu.
 
 Allegato 1a[^t-2]
 
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogato dal n. II cpv. 2 dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^t-2]: Introdotto dalla cifra II cpv. 1 dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogato dalla cifra II cpv. 2 dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 Allegato 2[^t-3]
 
@@ -1070,22 +1074,22 @@ Allegato 2[^t-3]
 
 ## Disposizioni specifiche concernenti l’impiego di monitori G+S in relazione con la dimensione dei gruppi
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### A. Disposizioni per le discipline sportive G+S
 
-- 1\. Nelle discipline sportive baseball/softball, calcio, football americano, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, pallacanestro, pallamano, pallavolo, rugby, sport di campo/trekking, streethockey, tchoukball e unihockey non è consentito che i gruppi siano formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
-- 2\. Nelle discipline sportive aikido, allround, artistic swimming, atletica leggera, badminton, balestra, biathlon, BMX, carabina, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacesto, pallanuoto, pallapugno, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, pistola, rampichino, rock’n’roll, ruota di Rhön, scherma, sci di fondo, squash, tennis, tennistavolo, tiro con l’arco, trampolino, trial in bicicletta, triathlon, tuffi e wushu/kung-fu non è consentito che i gruppi siano formati da più di 16 partecipanti per monitore. A partire da 17 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
-- 3\. Nelle discipline sportive alpinismo, arrampicata sportiva, canoismo, canottaggio, equitazione, gara nautica, salto con gli sci, sci, sci escursionismo, snowboard, vela, volteggio e tavola a vela non è consentito che i gruppi siano formati da più di 12 partecipanti per monitore. A partire da 13 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti.
+- 1\. Nelle discipline sportive baseball/softball, calcio, football americano, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, pallacanestro, pallamano, pallavolo, rugby, streethockey, tchoukball e unihockey i gruppi non possono essere formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, un’ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 24 partecipanti.
+- 2\. Nelle discipline sportive aikido, allround, artistic swimming, atletica leggera, badminton, balestra, biathlon, BMX, carabina, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacesto, pallanuoto, pallapugno, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, pistola, rampichino, rock’n’roll, ruota di Rhön, scherma, sci di fondo, sport di campo/trekking, squash, tennis, tennistavolo, tiro con l’arco, trampolino, trial in bicicletta, triathlon, tuffi e wushu/kung fu i gruppi non possono essere formati da più di 16 partecipanti per monitore. A partire da 17 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 16 partecipanti.
+- 3\. Nelle discipline sportive alpinismo, arrampicata sportiva, canoismo, canottaggio, equitazione, gara nautica, salto con gli sci, sci, sci escursionismo, snowboard, vela, volteggio e tavola a vela i gruppi non possono essere formati da più di 12 partecipanti per monitore. A partire da 13 partecipanti, un’ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti.
 
 ### B. Disposizioni speciali per il gruppo di utenti 5
 
-- 1\. In tutte le attività delle discipline sportive di cui alla lettera A numeri 1 e 2 non è consentito che i gruppi siano formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
-- 2\. In tutte le attività delle discipline sportive di cui alla lettera A numero 3 si applicano le disposizioni di sicurezza delle singole discipline.
+- 1\. In tutte le attività delle discipline sportive di cui alla lettera A numeri 1 e 2 i gruppi non possono essere formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, un’ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti.
+- 2\. In tutte le attività delle discipline sportive di cui alla lettera A numero 3 nonché per l’artistic swimming, la balestra, la carabina, la pallanuoto, la pistola, il nuoto, il nuoto di salvataggio, il tiro con l’arco, il triathlon e i tuffi si applicano le disposizioni di sicurezza delle singole discipline.
 
 ### C. Disposizioni particolari per l’allenamento della condizione fisica e mentale
 
-Nell’allenamento della condizione fisica e in quello mentale per ogni disciplina sportiva non sono consentiti gruppi di più di 24 partecipanti per monitore. A partire da 25 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+Nell’allenamento della condizione fisica e in quello mentale per ogni disciplina sportiva i gruppi non possono essere formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, un’ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 24 partecipanti.
 
 ### D. Numero insufficiente di monitori G+S
 
@@ -1097,7 +1101,7 @@ Allegato 3[^t-4]
 
 ## Contributi massimi per le offerte G+S
 
-[^t-4]: Nuovo testo giusta il n. II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^t-4]: Nuovo testo giusta la cifra II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### A. Contributi per i corsi G+S dei gruppi di utenti 1, 2, 4 e 5
 
@@ -1136,7 +1140,7 @@ Allegato 4[^t-5]
 
 ## Categorie delle competizioni G+S del gruppo di utenti 1
 
-[^t-5]: Nuovo testo giusta il n. II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^t-5]: Nuovo testo giusta la cifra II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 <table>
 <tr><td>Durata del corso</td><td>Categoria 1 Numero di competizioni</td><td>Categoria 2 Numero di competizioni</td><td>Categoria 3 Numero di competizioni</td></tr>
@@ -1150,7 +1154,7 @@ art. 48)
 
 ## Contributi supplementari per le guide alpine con attestato professionale federale e riconoscimento G+S
 
-[^t-6]: Nuovo testo giusta il n. II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^t-6]: Nuovo testo giusta la cifra II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 - 1\.
 
@@ -1168,7 +1172,7 @@ Allegato 6[^t-7]
 
 ## Contributi supplementari per le offerte G+S con partecipanti disabili
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^t-7]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 - 1\. Agli organizzatori di campi è corrisposta un’indennità forfettaria di 60 franchi al massimo per giorno di campo e partecipante con disabilità. L’importo totale per il campo può tuttavia ammontare al massimo al doppio di quanto sarebbe corrisposto per un campo di uguale durata e numero di partecipanti, ma senza partecipanti con disabilità.
 - 2\. Agli organizzatori di corsi è corrisposta un’indennità forfettaria di 10 franchi al massimo per ora e partecipante con disabilità. L’importo totale per il corso può tuttavia ammontare al massimo al doppio di quanto sarebbe corrisposto per un corso di uguale durata e numero di partecipanti, ma senza partecipanti con disabilità.
@@ -1179,14 +1183,14 @@ Allegato 7[^t-8]
 
 ## Contributi per lo svolgimento della formazione dei quadri G+S
 
-[^t-8]: Nuovo testo giusta il n. II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^t-8]: Nuovo testo giusta la cifra II dell’O del DDPS del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### 1 Formazione dei quadri organizzata dalla Confederazione
 
 - La Confederazione mette a disposizione dei partecipanti buoni per il viaggio gratuito di andata e di ritorno in seconda classe dal domicilio al luogo del corso con i mezzi di trasporto pubblici.
 - Versa inoltre indennità secondo la legge federale del 25 settembre 1952[^annex7-lvlu1-lvl1-1] sulle indennità di perdita di guadagno.
 
-[^annex7-lvlu1-lvl1-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^annex7-lvlu1-lvl1-1]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### 2 Formazione dei quadri organizzata dagli uffici cantonali G+S
 
@@ -1221,7 +1225,7 @@ Allegato 8[^t-9]
 
 ## Contributi alle federazioni sportive nazionali per le prestazioni nell’ambito della formazione dei quadri G+S: elenco dei compiti dei responsabili della formazione
 
-[^t-9]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^t-9]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 - 1\. Garantire un numero sufficiente di posti di formazione nelle offerte per la formazione dei quadri G+S delle rispettive discipline sportive G+S sulla base di un rilevamento annuale del fabbisogno.
 - 2\. Partecipare attivamente alle sedute e alle conferenze specialistiche richieste dall’UFSPO.

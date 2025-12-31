@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 25. Mai 2012 über Sportförderungsprogramme und -
 short: VSpoFöP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: de
-version: 2022-12-01
+version: 2026-01-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2012-462-20221201-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20221201/de"
 
 (VSpoFöP)
 
-vom 25. Mai 2012 (Stand am 1. Dezember 2022)
+vom 25. Mai 2012 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -25,7 +25,7 @@ gestützt auf die Sportförderungsverordnung vom 23. Mai 2012[^ingress-1] (SpoF�
 
 verordnet:
 
-[^ingress-1]: [SR 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
+[^ingress-1]: [SR 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
 
 ## 1. Kapitel: Gegenstand
 
@@ -72,7 +72,7 @@ In dieser Verordnung bedeuten:
 
 [^3-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 [^3-2]: Eingefügt durch Ziff. I der V des VBS vom 26. Okt. 2015 ([AS 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Aufgehoben durch Ziff. I der V des VBS vom 8. April 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^3-3]: [SR 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
+[^3-3]: [SR 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
 [^3-4]: Fassung gemäss Ziff. I der V des VBS vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### 2. Abschnitt: J+S-Kurse
@@ -175,7 +175,7 @@ Ein J+S-Kurs umfasst Aktivitäten in den J+S-Sportarten, die regelmässig durchg
 
 <sup>2</sup> Eine Lagergemeinschaft beinhaltet das Zusammenleben in einer Tagesstruktur an einem bestimmten Ort mit oder ohne gemeinsame Übernachtung.[^11-1]
 
-<sup>3</sup> und <sup>4</sup> …[^11-2]
+<sup>3 und <sup>4</sup></sup> …[^11-2]
 
 [^11-1]: Fassung gemäss Ziff. I der V des VBS vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 [^11-2]: Aufgehoben durch Ziff. I der V des VBS vom 30. März 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
@@ -326,7 +326,7 @@ Für die Durchführung von Modulen der Weiterbildung oder für die Vermittlung v
 
 J+S-Leiterinnen und -Leiter in der Sportart Lagersport/Trekking können J+S-Kurse und J+S-Lager oder einzelne Aktivitäten innerhalb von Kursen und Lagern eines Organisators leiten, auch wenn sie das 18. Altersjahr noch nicht vollendet haben.
 
-[^26a-1]: Eingefügt durch Ziff. I der V des VBS vom 30. März 2022, in Kraft vom 1. Dez. 2022 bis zum 31. Dez. 2025 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^26a-1]: Eingefügt durch Ziff. I der V des VBS vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218); [2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 27
 
@@ -334,11 +334,12 @@ J+S-Leiterinnen und -Leiter in der Sportart Lagersport/Trekking können J+S-Kurs
 
 <sup>1</sup> Die Ausbildung zur J+S-Leiterin oder zum J+S-Leiter erfolgt in J+S-Leiterkursen sportartenspezifisch für die Zielgruppen Kinder oder Jugendliche.[^27-1]
 
-<sup>2</sup> In den J+S-Leiterkursen werden pädagogische, sportmotorische und methodische Grundkenntnisse vermittelt.
+<sup>2</sup> …[^27-2]
 
 <sup>3</sup> Das BASPO bietet Personen, die über eine dem Leiterkurs gleichwertige Ausbildung verfügen, verkürzte Ausbildungen in der Form von Einführungskursen an.
 
 [^27-1]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^27-2]: Aufgehoben durch Ziff. I der V des VBS vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 28
 
@@ -504,7 +505,7 @@ Zur Aus- und Weiterbildung werden Kandidatinnen und Kandidaten zugelassen, welch
 
 <sup>2</sup> Für J+S-Kurse mit Kindern in der Nutzergruppe 5 werden erhöhte Beiträge ausgerichtet.
 
-<sup>3</sup> und <sup>4</sup> …[^44-1]
+<sup>3 und <sup>4</sup></sup> …[^44-1]
 
 <sup>5</sup> Die Maximalbeiträge sind in Anhang 3 festgelegt.
 
@@ -573,18 +574,19 @@ Nimmt an einem J+S-Kurs oder -Lager mindestens eine Person teil, die als Folge e
 
 <sup>2bis</sup>
 
-Führen Kantone oder Sport- oder Jugendverbände im Auftrag des BASPO Module der Aus- und Weiterbildung von J+S-Expertinnen und -Experten durch, so schliesst das BASPO mit ihnen eine Vereinbarung ab und legt darin fest:
+Führen Kantone oder Sport- oder Jugendverbände im Auftrag des BASPO Kurse oder Module der Aus- und Weiterbildung von J+S-Expertinnen und -Experten durch, so schliesst das BASPO mit ihnen eine Vereinbarung ab und legt darin fest:[^50-1]
 
 - a. die Abgeltung des Kantons oder Verbands für dessen Aufwand für Unterkunft, Verpflegung und Nutzung von Sport- und Transportinfrastrukturen, wobei die Abgeltung 200 Franken pro Tag und für jede Teilnehmerin und jeden Teilnehmer nicht übersteigen darf;
-- b. die allfällige Beteiligung der Teilnehmerinnen und Teilnehmer an den Kosten für die Nutzung von Sport- und Transportinfrastrukturen.[^50-1]
+- b. die allfällige Beteiligung der Teilnehmerinnen und Teilnehmer an den Kosten für die Nutzung von Sport- und Transportinfrastrukturen.[^50-2]
 
-<sup>3</sup> Es werden keine Beiträge ausgerichtet und keine Gutscheine für die An- und Rückreise der Teilnehmerinnen und Teilnehmer zum Kursort zur Verfügung gestellt, wenn eine Bildungsinstitution die Kaderbildung als integrierten Teil eines Ausbildungslehrgangs durchführt und die Teilnahme an dieser Kaderbildung obligatorisch ist.[^50-2]
+<sup>3</sup> Es werden keine Beiträge ausgerichtet und keine Gutscheine für die An- und Rückreise der Teilnehmerinnen und Teilnehmer zum Kursort zur Verfügung gestellt, wenn eine Bildungsinstitution die Kaderbildung als integrierten Teil eines Ausbildungslehrgangs durchführt und die Teilnahme an dieser Kaderbildung obligatorisch ist.[^50-3]
 
-<sup>4</sup> Die von Jugendverbänden organisierte Kaderbildung wird nach dem Bundesgesetz vom 6. Oktober 1989[^50-3] über die Förderung der ausserschulischen Jugendarbeit entschädigt.
+<sup>4</sup> Die von Jugendverbänden organisierte Kaderbildung wird nach dem Bundesgesetz vom 6. Oktober 1989[^50-4] über die Förderung der ausserschulischen Jugendarbeit entschädigt.
 
-[^50-1]: Eingefügt durch Ziff. I der V des VBS vom 16. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7377](https://fedlex.data.admin.ch/eli/oc/2017/802)).
-[^50-2]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
-[^50-3]: [SR 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
+[^50-1]: Fassung gemäss Ziff. I der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^50-2]: Eingefügt durch Ziff. I der V des VBS vom 16. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7377](https://fedlex.data.admin.ch/eli/oc/2017/802)).
+[^50-3]: Fassung gemäss Ziff. I der V des VBS vom 8. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^50-4]: [SR 446.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7156)
 
 #### Art. 51
 
@@ -766,11 +768,13 @@ Von einem Angebot der Kaderbildung kann ausgeschlossen werden, wer:
 
 **Ausbildung**
 
-<sup>1</sup> In der Ausbildung zur ESA-Leiterin oder zum ESA-Leiter werden erwachsenenbildnerische, sportmotorische, methodische und sportfachspezifische Grundkenntnisse vermittelt. Diese Inhalte können zielgruppenorientiert ausgerichtet werden.
+<sup>1</sup> Die Ausbildung zur ESA-Leiterin oder zum ESA-Leiter kann zielgruppenorientiert ausgerichtet werden.[^66-1]
 
 <sup>2</sup> Organisatoren von Leiterkursen können Personen, die über eine der ESA-Ausbildung gleichwertige Ausbildung verfügen, verkürzte Ausbildungen in der Form von Einführungskursen anbieten.
 
 <sup>3</sup> Die Ausbildung dauert in der Regel sechs Tage. Sie kann für Personen, die über spezifische Vorkenntnisse, namentlich als J+S-Leiterin oder -Leiter verfügen, kürzer ausfallen.
+
+[^66-1]: Fassung gemäss Ziff. I der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 67
 
@@ -1068,22 +1072,22 @@ Anhang 2[^t-3]
 
 ## Spezifische Bestimmungen für den Einsatz von J+S-Leiterinnen und -Leitern im Zusammenhang mit der Gruppengrösse
 
-[^t-3]: Fassung gemäss Ziff. II der V des VBS vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^t-3]: Fassung gemäss Ziff. II der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### A. Bestimmungen für J+S-Sportarten
 
-- 1\. In den Sportarten American Football, Baseball/Softball, Basketball, Eishockey, Fussball, Handball, Hornussen, Inline Hockey, Landhockey, Lagersport/Trekking, Rollhockey, Rugby, Streethockey, Tchoukball, Unihockey und Volleyball darf die Gruppengrösse von 24 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 25 Teilnehmerinnen und Teilnehmern muss jeweils für 12 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
-- 2\. In den Sportarten Aikido, Akrobatikturnen, Allround, Armbrust, Artistic Swimming, Badminton, Bahnradsport, Biathlon, BMX, Bogenschiessen, Curling, Einrad, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Geräteturnen, Gewehr, Golf, Gymnastik, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Pistole, Radball, Radquer, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollkunstlauf, Schwimmen, Schwingen, Skilanglauf, Speedskating, Squash, Strassenradsport, Synchronized Skating, Tanzen Standard/Latein, Tennis, Tischtennis, Trampolin, Trialradsport, Triathlon, Turnen, Wasserball, Wasserspringen und Wushu/Kung-Fu darf die Gruppengrösse von 16 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 17 Teilnehmerinnen und Teilnehmern muss jeweils für 12 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
+- 1\. In den Sportarten American Football, Baseball/Softball, Basketball, Eishockey, Fussball, Handball, Hornussen, Inline Hockey, Landhockey, Rollhockey, Rugby, Streethockey, Tchoukball, Unihockey und Volleyball darf die Gruppengrösse von 24 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 25 Teilnehmerinnen und Teilnehmern muss jeweils für 24 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
+- 2\. In den Sportarten, Aikido, Akrobatikturnen, Allround, Armbrust, Artistic Swimming, Badminton, Bahnradsport, Biathlon, BMX, Bogenschiessen, Curling, Einrad, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Geräteturnen, Gewehr, Golf, Gymnastik, Judo, Ju-Jitsu, Karate, Kickboxing Light, Lagersport/Trekking, Korbball, Kunstradfahren, Kunstturnen, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Pistole, Radball, Radquer, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollkunstlauf, Schwimmen, Schwingen, Skilanglauf, Speedskating, Squash, Strassenradsport, Synchronized Skating, Tanzen Standard/Latein, Tennis, Tischtennis, Trampolin, Trialradsport, Triathlon, Turnen, Wasserball, Wasserspringen und Wushu/Kung-Fu darf die Gruppengrösse von 16 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 17 Teilnehmerinnen und Teilnehmern muss jeweils für 16 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden
 - 3\. In den Sportarten Bergsteigen, Kanusport, Reiten, Rudern, Segeln, Skifahren, Skispringen, Skitouren, Snowboard, Sportklettern, Voltige, Wasserfahren und Windsurfen darf die Gruppengrösse von 12 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 13 Teilnehmerinnen und Teilnehmern muss jeweils für 12 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
 
 ### B. Spezielle Bestimmungen für die Nutzergruppe 5
 
 - 1\. In allen Aktivitäten von Sportarten nach Buchstabe A Ziffer 1 und 2 darf die Gruppengrösse von 24 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 25 Teilnehmerinnen und Teilnehmern muss jeweils für 12 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
-- 2\. In allen Aktivitäten von Sportarten nach Buchstabe A Ziffer 3 gelten die jeweiligen Bestimmungen der einzelnen Sportarten.
+- 2\. In allen Aktivitäten von Sportarten nach Buchstabe A Ziffer 3 sowie für Armbrust, Artistic Swimming, Bogenschiessen, Gewehr, Pistole, Rettungsschwimmen, Schwimmen, Triathlon, Wasserball und Wasserspringen gelten die jeweiligen Bestimmungen der einzelnen Sportarten.
 
 ### C. Spezielle Bestimmungen für Konditions- und Mentaltrainings
 
-In Konditions- und Mentaltrainings aller Sportarten darf die Gruppengrösse von 24 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 25 Teilnehmerinnen und Teilnehmern muss jeweils für 12 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
+In Konditions- und Mentaltrainings aller Sportarten darf die Gruppengrösse von 24 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 25 Teilnehmerinnen und Teilnehmern muss jeweils für 24 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
 
 ### D. Ungenügende Anzahl J+S-Leiterinnen und J+S-Leiter
 
@@ -1184,7 +1188,7 @@ Anhang 7[^t-8]
 - Der Bund stellt den Teilnehmerinnen und Teilnehmern Gutscheine für die unentgeltliche An- und Rückreise vom Wohnort zum Kursort mit öffentlichen Verkehrsmitteln in der 2. Klasse zur Verfügung.
 - Er richtet Entschädigungen nach dem Erwerbsersatzgesetz vom 25. September 1952[^annex7-lvlu1-lvl1-1] aus.
 
-[^annex7-lvlu1-lvl1-1]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^annex7-lvlu1-lvl1-1]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### 2 Kaderbildung der kantonalen Amtsstellen für J+S
 

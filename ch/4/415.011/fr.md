@@ -4,11 +4,11 @@ title: "Ordonnance du DDPS du 25 mai 2012 sur les programmes et les projets d'en
 short: OPESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: fr
-version: 2022-12-01
+version: 2026-01-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20221201-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20221201/fr"
 
 (OPESp)
 
-du 25 mai 2012 (Etat le 1<sup>er</sup> décembre 2022)
+du 25 mai 2012 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -25,7 +25,7 @@ vu l’ordonnance du 23 mai 2012 sur l’encouragement du sport (OESp)[^ingress-
 
 arrête:
 
-[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
+[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
 
 ## Chapitre 1 Objet
 
@@ -52,7 +52,7 @@ Dans la présente ordonnance, on entend par:
 
 - a. *enfants:* les participants J+S jusqu’à la fin de l’année civile durant laquelle ils atteignent l’âge de 10 ans;
 - b. *jeunes:* les participants J+S à partir du début de l’année civile durant laquelle ils atteignent l’âge de 10 ans;
-- c.[^2-1] *...*
+- c.[^2-1] *…*
 - d. *écoles:* les établissements de l’école obligatoire désignés à l’art. 48 OESp, ainsi que les écoles du degré secondaire II;
 - e. *activité:* une activité sportive unique et limitée dans le temps (leçon, entraînement, excursion ou compétition).
 
@@ -64,7 +64,7 @@ Dans la présente ordonnance, on entend par:
 
 <sup>1</sup> Il est possible de réaliser des offres J+S dans les sports énumérés dans l’annexe 1.
 
-<sup>1bis</sup> ...[^3-2]
+<sup>1bis</sup> …[^3-2]
 
 <sup>2</sup> Le sport Allround ne peut être proposé qu’aux enfants.
 
@@ -72,7 +72,7 @@ Dans la présente ordonnance, on entend par:
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 [^3-2]: Introduit par le ch. I de l’O du DDPS du 26 oct. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogé par le ch. I de l’O du DDPS du 8 avr. 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
-[^3-3]: [RS 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
+[^3-3]: [RS 935.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11135)
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### Section 2 Cours J+S
@@ -175,7 +175,7 @@ Un cours J+S comprend des activités dans les sports J+S, pratiquées régulièr
 
 <sup>2</sup> Par cadre de vie communautaire, on entend une cohabitation dans une structure de jour en un lieu défini avec ou sans nuitée en commun.[^11-1]
 
-<sup>3</sup> et <sup>4</sup> …[^11-2]
+<sup>3 et <sup>4</sup></sup> …[^11-2]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 [^11-2]: Abrogés par le ch. I de l’O du DDPS du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
@@ -326,7 +326,7 @@ Il est possible d’engager aussi des personnes qui ne sont pas titulaires d’u
 
 Les moniteurs J+S Sport de camp/Trekking peuvent diriger des cours et des camps J+S ou certaines activités dans le cadre de cours et de camps d’un organisateur même s’ils ne sont pas âgés de 18 ans révolus.
 
-[^26a-1]: Introduit par le ch. I de l’O du DDPS du 30 mars 2022, en vigueur du 1<sup>er</sup> déc. 2022 au 31 déc. 2025 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^26a-1]: Introduit par le ch. I de l’O du DDPS du 30 mars 2022, en vigueur du 1<sup>er</sup> déc. 2022 au 31 déc. 2025 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)), prolongé pour une durée indéterminée par le ch. III al. 3 de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 27
 
@@ -334,11 +334,12 @@ Les moniteurs J+S Sport de camp/Trekking peuvent diriger des cours et des camps 
 
 <sup>1</sup> Les moniteurs J+S sont formés dans des cours de moniteurs J+S, pour un sport spécifique et pour le groupe cible des enfants ou le groupe cible des jeunes.[^27-1]
 
-<sup>2</sup> Les cours de moniteurs J+S permettent d’acquérir des notions pédagogiques et méthodologiques de base, ainsi que des connaissances fondamentales en motricité sportive.
+<sup>2</sup> …[^27-2]
 
 <sup>3</sup> L’OFSPO propose des formations abrégées sous la forme de cours d’introduction aux personnes qui ont suivi une formation équivalente au cours de moniteurs.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^27-2]: Abrogé par le ch. I de l’O du DDPS du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 28
 
@@ -350,7 +351,7 @@ Les moniteurs J+S Sport de camp/Trekking peuvent diriger des cours et des camps 
 
 <sup>3</sup> Les modules de formation continue ne visant pas uniquement à conserver une reconnaissance de moniteur doivent, pour satisfaire à l’obligation de formation continue, avoir été suivis pendant une durée au moins équivalente à celle des modules de formation continue servant exclusivement à conserver une reconnaissance de moniteur.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, à l'exception de l'al. 2 qui entre en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, à l’exception de l’al. 2 qui entre en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 29
 
@@ -504,7 +505,7 @@ Sont admis à la formation et à la formation continue les candidats:
 
 <sup>2</sup> Des subventions plus élevées sont versées pour les cours J+S dispensés à des enfants dans le groupe d’utilisateurs 5.
 
-<sup>3</sup> et <sup>4</sup>…[^44-1]
+<sup>3 et <sup>4</sup></sup> …[^44-1]
 
 <sup>5</sup> Les subventions maximales sont définies à l’annexe 3.
 
@@ -573,18 +574,19 @@ Si au moins une personne participe à un cours ou à un camp J+S alors que, en r
 
 <sup>2bis</sup>
 
-Si des cantons, des fédérations sportives ou des associations de jeunesse réalisent à la demande de l’OFSPO des modules de formation et de formation continue pour les experts J+S, l’OFSPO conclut avec eux une convention précisant:
+Si des cantons, des fédérations sportives ou des associations de jeunesse réalisent à la demande de l’OFSPO des cours ou des modules de formation et de formation continue pour les experts J+S, l’OFSPO conclut avec eux une convention précisant:[^50-1]
 
 - a. l’indemnité due au canton, à la fédération ou à l’association pour ses charges d’hébergement, de restauration et d’utilisation d’infrastructures de sport et de transport, cette indemnité ne devant toutefois pas excéder 200 francs par jour et par participant;
-- b. l’éventuelle participation aux frais exigée des participants pour l’utilisation des infrastructures de sport et de transport.[^50-1]
+- b. l’éventuelle participation aux frais exigée des participants pour l’utilisation des infrastructures de sport et de transport.[^50-2]
 
-<sup>3</sup> Aucune subvention ni aucun bon pour le voyage aller-retour des participants jusqu’au lieu des cours ne sont alloués si la formation des cadres est réalisée par une institution de formation dans le cadre d’une de ses filières de formation et que la participation à cette formation est obligatoire.[^50-2]
+<sup>3</sup> Aucune subvention ni aucun bon pour le voyage aller-retour des participants jusqu’au lieu des cours ne sont alloués si la formation des cadres est réalisée par une institution de formation dans le cadre d’une de ses filières de formation et que la participation à cette formation est obligatoire.[^50-3]
 
-<sup>4</sup> La formation des cadres organisée par les associations de jeunesse fait l’objet d’une indemnisation conformément à la loi fédérale du 6 octobre 1989 concernant l’encouragement des activités de jeunesse extra-scolaires[^50-3].
+<sup>4</sup> La formation des cadres organisée par les associations de jeunesse fait l’objet d’une indemnisation conformément à la loi fédérale du 6 octobre 1989 concernant l’encouragement des activités de jeunesse extra-scolaires[^50-4].
 
-[^50-1]: Introduit par le ch. I de l’O du DDPS du 16 nov. 2017, en vigeur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7377](https://fedlex.data.admin.ch/eli/oc/2017/802)).
-[^50-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
-[^50-3]: [RS 446.1](https://fedlex.data.admin.ch/eli/cc/2012/698)
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^50-2]: Introduit par le ch. I de l’O du DDPS du 16 nov. 2017, en vigeur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7377](https://fedlex.data.admin.ch/eli/oc/2017/802)).
+[^50-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^50-4]: [RS 446.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7156)
 
 #### Art. 51
 
@@ -766,11 +768,13 @@ Peut être exclu d’une offre de formation des cadres quiconque:
 
 **Formation de base**
 
-<sup>1</sup> La formation de base des moniteurs ESA vise à transmettre des connaissances fondamentales en matière de formation des adultes, de motricité sportive, de méthodologie et de sport. Ces contenus peuvent être adaptés à des groupes cibles.
+<sup>1</sup> La formation de base des moniteurs ESA peut être adaptée à des groupes cibles.[^66-1]
 
 <sup>2</sup> Les organisateurs des cours de moniteurs peuvent proposer des formations abrégées sous la forme de cours d’introduction aux personnes qui ont suivi une formation équivalente à la formation ESA.
 
 <sup>3</sup> La formation dure en général six jours. Sa durée peut être réduite pour les personnes qui, tels les moniteurs J+S, disposent de connaissances préalables spécifiques.
+
+[^66-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 #### Art. 67
 
@@ -1066,24 +1070,24 @@ Annexe 2[^t-3]
 
 (art. 5, al. 2, 6, al. 1, et 13, al. 2)
 
-## Dispositions spécifiques pour l’engagement de moniteurs J+S selon la taille des groupe
+## Dispositions spécifiques pour l’engagement de moniteurs J+S selon la taille des groupes
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
 
 ### A. Dispositions pour les sports J+S
 
-- 1\. Pour le baseball/softball, le basketball, le football, le football américain, le handball, le hockey inline, le hockey sur gazon, le hockey sur glace, le hornuss, le rink-hockey, le rugby, le sport de camp/trekking, le street-hockey, le tchoukball, le unihockey et le volleyball, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 2\. Pour l’aïkido, l’allround, l’arbalète, l’arc, l’athlétisme, le badminton, la balle à la corbeille, la balle au poing, le biathlon, le BMX, la boxe light-contact, la carabine, la course d’orientation, le curling, le cyclisme artistique, le cyclisme sur piste, le cyclisme sur route, le cycle-balle, le cyclo-cross, les danses standard et latines, l’escrime, le golf, la gymnastique, la gymnastique acrobatique, la gymnastique artistique, la gymnastique aux agrès, la gymnastique rythmique, le kick-boxing light, les jeux nationaux, le judo, le ju-jitsu, le karaté, la lutte, la lutte suisse, le monocycle, la natation, la natation artistique, la natation de sauvetage, le parkour, le patinage artistique sur glace, le patinage artistique sur roulettes, le patinage de vitesse sur glace, le patinage de vitesse sur roulettes, le patinage synchronisé sur glace, le pistolet, le plongeon, le rhönrad, le rock’n’roll, le ski de fond, le squash, le tennis, le tennis de table, le trampoline, le trial, le triathlon, le VTT, le waterpolo et le wushu/kung-fu, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 1\. Pour le baseball/softball, le basketball, le football, le football américain, le handball, le hockey inline, le hockey sur gazon, le hockey sur glace, le hornuss, le rink-hockey, le rugby, le street-hockey, le tchoukball, le unihockey et le volleyball, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de 24 participants supplémentaires.
+- 2\. Pour l’aïkido, l’allround, l’arbalète, l’arc, l’athlétisme, le badminton, la balle à la corbeille, la balle au poing, le biathlon, le BMX, la boxe light-contact, la carabine, la course d’orientation, le curling, le cyclisme artistique, le cyclisme sur piste, le cyclisme sur route, le cycle-balle, le cyclo-cross, les danses standard et latines, l’escrime, le golf, la gymnastique, la gymnastique acrobatique, la gymnastique artistique, la gymnastique aux agrès, la gymnastique rythmique, le kick-boxing light, les jeux nationaux, le judo, le ju-jitsu, le karaté, la lutte, la lutte suisse, le monocycle, la natation, la natation artistique, la natation de sauvetage, le parkour, le patinage artistique sur glace, le patinage artistique sur roulettes, le patinage de vitesse sur glace, le patinage de vitesse sur roulettes, le patinage synchronisé sur glace, le pistolet, le plongeon, le rhönrad, le rock’n’roll, le ski de fond, le sport de camp/trekking, le squash, le tennis, le tennis de table, le trampoline, le trial, le triathlon, le VTT, le waterpolo et le wushu/kung-fu, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de 16 participants supplémentaires.
 - 3\. Dans les sports alpinisme, aviron, canoë-kayak, course nautique, équitation, escalade sportive, excursions à skis, planche à voile, saut à skis, ski, snowboard, voile et voltige, la taille des groupes ne doit pas dépasser douze participants par moniteur. Pour les groupes de treize participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
 
 ### B. Dispositions particulières pour le groupe d’utilisateurs 5
 
 - 1\. Dans toutes les activités des sports visés à la lettre A, ch. 1 et 2, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 2\. Toutes les activités des sports visés à la lettre A, ch. 3 sont soumises aux dispositions particulières régissant les sports concernés.
+- 2\. Toutes les activités des sports visés à la lettre A, ch. 3 ainsi que pour l’arbalète, la carabine, la natation, la natation artistique, la natation de sauvetage, le pistolet, le plongeon, le tir à l’arc, le triathlon et le waterpolo sont soumises aux dispositions particulières régissant les sports concernés.
 
 ### C. Dispositions particulières pour les entraînements de condition physique et les entraînements mentaux
 
-Dans les entraînements de condition physique et les entraînements mentaux, la taille des groupes ne doit pas dépasser 24 participants par moniteur quel que soit le sport pratiqué. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+Dans les entraînements de condition physique et les entraînements mentaux, la taille des groupes ne doit pas dépasser 24 participants par moniteur quel que soit le sport pratiqué. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de 24 participants supplémentaires.
 
 ### D. Nombre insuffisant de moniteurs J+S
 
@@ -1184,7 +1188,7 @@ Annexe 7[^t-8]
 - La Confédération fournit aux participants des bons donnant droit à un voyage aller-retour gratuit du domicile jusqu’au lieu du cours en 2<sup>e</sup> classe avec les transports publics.
 - Elle verse des allocations conformément à la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain[^annex7-lvlu1-lvl1-1].
 
-[^annex7-lvlu1-lvl1-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^annex7-lvlu1-lvl1-1]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ### 2 Formation des cadres par les services cantonaux J+S
 
