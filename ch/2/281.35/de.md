@@ -4,11 +4,11 @@ title: Gebührenverordnung vom 23. September 1996 zum Bundesgesetz über Schuldb
 short: GebV SchKG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937"
 language: de
-version: 2022-01-01
+version: 2026-01-01
 adopted: 1996-09-23
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20220101/de"
 
 (GebV SchKG)
 
-vom 23. September 1996 (Stand am 1. Januar 2022)
+vom 23. September 1996 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 16 des Bundesgesetzes vom 11. April 1889 über Schuldbetre
 
 verordnet:
 
-[^ingress-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^ingress-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -96,7 +96,7 @@ Die Gebühr für die Erstellung eines nicht besonders tarifierten Schriftstücks
 - a. 8 Franken je Seite bis zu einer Anzahl von 20 Ausfertigungen;
 - b. 4 Franken je Seite für jede weitere Ausfertigung.
 
-<sup>1</sup> <sup>bis</sup> Erfordert die Erstellung eines Schriftstücks mehr als eine Stunde, so erhöht sich die Gebühr um 40 Franken für jede weitere halbe Stunde.[^9-1]
+<sup>1<sup>bis</sup></sup> Erfordert die Erstellung eines Schriftstücks mehr als eine Stunde, so erhöht sich die Gebühr um 40 Franken für jede weitere halbe Stunde.[^9-1]
 
 <sup>2</sup> Schriftstücke im Geldverkehr und Aktenexemplare sind gebührenfrei.
 
@@ -199,7 +199,7 @@ Keinen Anspruch auf Ersatz begründen:
 
 <sup>3</sup> Die Aufsichtsbehörde kann in besonderen Fällen die Entschädigung angemessen erhöhen, wenn die Entlegenheit des Ortes einen Aufwand an Zeit oder Kosten verursacht, den die in den Absätzen 1 und 2 vorgesehene Entschädigung offensichtlich nicht deckt.
 
-[^14-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^14-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 [^14-2]: Fassung gemäss Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 15
@@ -214,15 +214,7 @@ Keinen Anspruch auf Ersatz begründen:
 
 **Gebühren im eSchKG-Verbund[^15a-2]**[^15a-1]
 
-<sup>1</sup> Wird in einer geschlossenen Benutzergruppe nach Artikel 14 Absatz 1 der Verordnung vom 18. Juni 2010[^15a-3] über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren (eSchKG-Verbund) ein Betreibungsbegehren oder ein Begehren für einen Auszug aus dem Betreibungsregister eingereicht, so erhebt das Bundesamt für Justiz (BJ) vom betroffenen Betreibungsamt folgende Gebühren:
-
-<table>
-<tr><td></td><td>Gebühr pro Begehren/Franken</td></tr>
-<tr><td>für die ersten 1 000 Begehren</td><td>1.—</td></tr>
-<tr><td>für die Begehren 1 001 bis 5 000</td><td>–.90</td></tr>
-<tr><td>für die Begehren 5 001 bis 10 000</td><td>–.80</td></tr>
-<tr><td>für die Begehren ab 10 001</td><td>–.70.[^15a-4]</td></tr>
-</table>
+<sup>1</sup> Wird in einer geschlossenen Benutzergruppe nach Artikel 14 Absatz 1 der Verordnung vom 18. Juni 2010[^15a-3] über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren (eSchKG-Verbund) ein Betreibungsbegehren oder ein Begehren für einen Auszug aus dem Betreibungsregister eingereicht, so erhebt das Bundesamt für Justiz (BJ) vom betroffenen Betreibungsamt eine Gebühr von 60 Rappen pro Begehren.[^15a-4]
 
 <sup>2</sup> Betreibt ein Kanton eine zentrale Applikation für alle Betreibungsämter und können die Gebühren gemäss Absatz 1 in einer Rechnung gestellt werden, so wird für deren Berechnung die Summe aller Begehren aller Betreibungsämter herangezogen.
 
@@ -234,8 +226,8 @@ Keinen Anspruch auf Ersatz begründen:
 
 [^15a-1]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)). Fassung gemäss Ziff. I der V vom 20. Jan. 2016, in Kraft seit 1. Febr. 2016 ([AS 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
 [^15a-2]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^15a-3]: [SR 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
-[^15a-4]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-3]: [SR 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
+[^15a-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 (AS **202****5** 630).
 [^15a-5]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 [^15a-6]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 [^15a-7]: Aufgehoben durch Ziff. I der V vom 28. April 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
@@ -244,9 +236,14 @@ Keinen Anspruch auf Ersatz begründen:
 
 **Ersatz von Auslagen im eSchKG-Verbund**[^15b-1]
 
-<sup>1</sup> Für den Beitritt zum eSchKG-Verbund werden einmalige Kosten von 500 Franken erhoben.
+<sup>1</sup> Für den Beitritt und den Zugang zum eSchKG-Verbund werden von jedem Teilnehmer im eSchKG-Verbund einmalige Kosten von 400 Franken erhoben.[^15b-2]
 
-<sup>2</sup> Ab dem zweiten Kalenderjahr werden von jedem Beteiligten im eSchKG-Verbund 200 Franken pro Jahr für die Erneuerung des Zugangs zum Verbund erhoben.
+<sup>2</sup>
+
+Ab dem zweiten Kalenderjahr werden für die Erneuerung des Zugangs zum Verbund die folgenden jährlichen Gebühren erhoben:
+
+- a. für einen logischen Teilnehmer: 140 Franken;
+- b. für einen physischen Teilnehmer: 380 Franken.[^15b-3]
 
 <sup>3</sup> Für das Ausstellen und für jede Erneuerung der Signaturzertifikate der Betreibungsämter werden 50 Franken erhoben.
 
@@ -255,6 +252,8 @@ Keinen Anspruch auf Ersatz begründen:
 <sup>5</sup> Die Rechnungstellung erfolgt durch das BJ oder eine von ihm beauftragte Stelle.
 
 [^15b-1]: Eingefügt durch Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15b-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 630](https://fedlex.data.admin.ch/eli/oc/2025/630)).
+[^15b-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 630](https://fedlex.data.admin.ch/eli/oc/2025/630)).
 
 ## 2. Kapitel: Gebühren des Betreibungsamtes
 
@@ -498,7 +497,7 @@ Die Gebühr für die Feststellung, dass eine in bar zu tilgende Forderung auf an
 <sup>1</sup> Die Gebühr für die Verrichtungen bei der Eintragung von Eigentumsvorbehalten nach Verordnung vom 19. Dezember 1910[^37-1] betreffend die Eintragung der Eigentumsvorbehalte geht zu Lasten des Antragstellers und beträgt:
 
 <table>
-<tr><td></td><td colspan="6">Restschuld/Franken</td><td>Gebühr/Franken</td></tr>
+<tr><th></th><th colspan="6">Restschuld/Franken</th><th>Gebühr/Franken</th></tr>
 <tr><td>a.</td><td colspan="6">für die Eintragung des Eigentumsvorbehaltes:</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>bis</td><td>1 000</td><td></td><td>25.–</td></tr>
 <tr><td></td><td>über</td><td>1 000</td><td></td><td>bis</td><td>5 000</td><td></td><td>50.–</td></tr>
@@ -513,7 +512,7 @@ Die Gebühr für die Feststellung, dass eine in bar zu tilgende Forderung auf an
 
 <sup>3</sup> Im Falle des Verkaufs derselben Sache an mehrere Erwerber mit Wohnsitz im gleichen Registerkreis ist nur eine Gebühr geschuldet.
 
-[^37-1]: [SR 211.413.1](https://fedlex.data.admin.ch/eli/cc/27/215_211_275)
+[^37-1]: [SR 211.413.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5775)
 
 #### Art. 38
 
@@ -644,7 +643,7 @@ Die Entschädigung je halbe Sitzungsstunde beträgt:
 <sup>3</sup> Keine Entscheidgebühr wird erhoben, wenn es um die Sicherung oder Vollstreckung eines Anspruchs aus einer Streitigkeit gemäss Artikel 114 ZPO geht.
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^48-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^48-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 49 und 50
 
@@ -736,9 +735,9 @@ Unentgeltlich sind:
 - a. das Beschwerdeverfahren und die Weiterziehung eines Beschwerdeentscheides (Art. 17–19 SchKG);
 - b.[^61-3] im Stundungs‑, Konkurs- und Nachlassverfahren der Banken das Beschwerdeverfahren vor dem Stundungsgericht, dem Konkursgericht und der Nachlassbehörde.
 
-[^61-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^61-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^61-2]: Fassung gemäss Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^61-3]: Art. 61 Abs. 2 Bst. b ist heute gegenstandslos. Stundungs-, Konkurs- und Nachlassverfahren über Banken sind seit 1. Juli 2004 in den Art. 33–37g des Bankengesetzes ([SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)) geregelt.
+[^61-3]: Art. 61 Abs. 2 Bst. b ist heute gegenstandslos. Stundungs-, Konkurs- und Nachlassverfahren über Banken sind seit 1. Juli 2004 in den Art. 33–37g des Bankengesetzes ([SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)) geregelt.
 
 #### Art. 62
 

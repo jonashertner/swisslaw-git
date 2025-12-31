@@ -4,11 +4,11 @@ title: Ordinanza del 23 settembre 1996 sulle tasse riscosse in applicazione dell
 short: OTLEF
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937"
 language: it
-version: 2022-01-01
+version: 2026-01-01
 adopted: 1996-09-23
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20220101/it"
 
 (OTLEF)
 
-del 23 settembre 1996 (Stato 1° gennaio 2022)
+del 23 settembre 1996 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero
 
@@ -25,7 +25,7 @@ visto l’articolo 16 della legge federale dell’11 aprile 1889 sulla esecuzion
 
 ordina:
 
-[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -96,7 +96,7 @@ La tassa per la stesura di un atto non espressamente previsto nella presente ord
 - a. 8 franchi per pagina, fino a 20 esemplari;
 - b. 4 franchi per pagina, per ogni ulteriore esemplare.
 
-<sup>1</sup> <sup>bis</sup> Se la stesura di un atto dura più di un’ora, la tassa è aumentata di 40 franchi per ogni mezz’ora supplementare.[^9-1]
+<sup>1<sup>bis</sup></sup> Se la stesura di un atto dura più di un’ora, la tassa è aumentata di 40 franchi per ogni mezz’ora supplementare.[^9-1]
 
 <sup>2</sup> La stesura di documenti concernenti la riscossione o il versamento di denaro e la stesura di copie che rimangono all’ufficio sono esenti da tassa.
 
@@ -104,7 +104,7 @@ La tassa per la stesura di un atto non espressamente previsto nella presente ord
 
 <sup>4</sup> Per la compilazione di moduli di domanda può essere riscossa una tassa di 5 franchi al massimo.
 
-[^9-1]: Introdotto dal n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^9-1]: Introdotto dalla cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 
 #### Art. 10
 
@@ -114,7 +114,7 @@ La tassa per la stesura di un atto non espressamente previsto nella presente ord
 
 <sup>2</sup> Per l’invio di un atto via telefax può essere riscossa una tassa di 1 franco. Se l’atto comprende più di 5 pagine, la tassa è aumentata di 1 franco ogni 5 pagine supplementari.
 
-[^10-1]: Nuovo testo giusta il n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^10-1]: Nuovo testo giusta la cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 10<sup>bis</sup>
 
@@ -122,7 +122,7 @@ La tassa per la stesura di un atto non espressamente previsto nella presente ord
 
 Se l’ufficio ha già tentato almeno una volta senza successo di notificare al debitore un precetto esecutivo, un avviso di pignoramento o una comminatoria di fallimento e in seguito il debitore è invitato per scritto a ritirare personalmente il documento presso l’ufficio d’esecuzione, la tassa riscossa per questo invio ammonta a 8 franchi.
 
-[^10bis-1]: Introdotto dal n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^10bis-1]: Introdotto dalla cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 
 #### Art. 11
 
@@ -150,8 +150,8 @@ La tassa per una pubblicazione è di 40 franchi al massimo; se il tempo impiegat
 
 <sup>3</sup> Per l’estratto scritto del registro delle esecuzioni non è riscossa nessuna tassa se il diritto federale prevede che le autorità giudiziarie e amministrative devono essere informate.[^12a-2]
 
-[^12a-1]: Introdotto dal n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^12a-2]: Nuovo testo giusta il n. I dell’O del 20 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
+[^12a-1]: Introdotto dalla cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^12a-2]: Nuovo testo giusta la cifra I dell’O del 20 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
 
 #### Art. 12b
 
@@ -161,7 +161,7 @@ La tassa per una pubblicazione è di 40 franchi al massimo; se il tempo impiegat
 
 <sup>2</sup> Il richiedente è tenuto a pagare la tassa in ogni caso e indipendentemente dall’esito della procedura.
 
-[^12b-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4585](https://fedlex.data.admin.ch/eli/oc/2018/722)).
+[^12b-1]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4585](https://fedlex.data.admin.ch/eli/oc/2018/722)).
 
 #### Art. 13
 
@@ -183,11 +183,11 @@ Non devono essere rimborsate:
 
 <sup>4</sup> Se la notificazione di un precetto esecutivo, di un avviso di pignoramento o di una comminatoria di fallimento è affidata a un servizio di recapito speciale della Posta Svizzera, le spese che superano il prezzo di un invio per raccomandata possono essere addebitate alla parte che le ha causate, purché in precedenza sia stato fatto almeno un tentativo infruttuoso di notificare l’atto.[^13-5]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^13-2]: Nuovo testo giusta il n. II 20 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
-[^13-3]: Abrogata dal n. I dell’O del 28 apr. 2021, con effetto dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^13-4]: Introdotta dal n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile1 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)). Nuovo testo giusta il n. I dell’O del 20 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
-[^13-5]: Introdotto dal n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^13-2]: Nuovo testo giusta la cifra II n. 20 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^13-3]: Abrogata dalla cifra I dell’O del 28 apr. 2021, con effetto dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^13-4]: Introdotta dalla cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile1 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)). Nuovo testo giusta la cifra I dell’O del 20 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
+[^13-5]: Introdotto dalla cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 14
 
@@ -199,8 +199,8 @@ Non devono essere rimborsate:
 
 <sup>3</sup> In casi speciali, se l’ubicazione discosta di una località provoca una perdita di tempo o spese che rendono manifestamente insufficiente l’indennità prevista ai capoversi 1 e 2, l’autorità di vigilanza può aumentarne adeguatamente l’importo.
 
-[^14-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
-[^14-2]: Nuovo testo giusta il n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^14-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
+[^14-2]: Nuovo testo giusta la cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 15
 
@@ -214,15 +214,7 @@ Non devono essere rimborsate:
 
 **Tasse nel gruppo e-LEF[^15a-2]**[^15a-1]
 
-<sup>1</sup> Se la domanda d’esecuzione o la domanda di estratto del registro delle esecuzioni è presentata in un gruppo di utenti chiuso secondo l’articolo 14 capoverso 1 dell’ordinanza del 18 giugno 2010[^15a-3] sulla comunicazione per via elettronica nell’ambito di procedimenti civili e penali nonché di procedure d’esecuzione e fallimento (gruppo e-LEF), l’Ufficio federale di giustizia (UFG) riscuote dall’ufficio di esecuzione interessato le seguenti tasse:
-
-<table>
-<tr><td></td><td>Tassa per domanda in franchi</td></tr>
-<tr><td>per le prime 1000 domande</td><td>1.—</td></tr>
-<tr><td>dalla 1001<sup>a</sup> alla 5000<sup>a</sup> domanda</td><td>–.90</td></tr>
-<tr><td>dalla 5001<sup>a</sup> alla 10 000<sup>a</sup> domanda</td><td>–.80</td></tr>
-<tr><td>a partire da 10 001 domande</td><td>–.70 .[^15a-4]</td></tr>
-</table>
+<sup>1</sup> Se la domanda d’esecuzione o la domanda di estratto del registro delle esecuzioni è presentata in un gruppo di utenti chiuso secondo l’articolo 14 capoverso 1 dell’ordinanza del 18 giugno 2010[^15a-3] sulla comunicazione per via elettronica nell’ambito di procedimenti civili e penali nonché di procedure d’esecuzione e fallimento (gruppo e‑LEF), l’Ufficio federale di giustizia (UFG) riscuote dall’ufficio di esecuzione interessato una tassa di 60 centesimi per domanda.[^15a-4]
 
 <sup>2</sup> Se un Cantone utilizza un’applicazione centrale per tutti gli uffici di esecuzione e le tasse secondo il capoverso 1 possono essere addebitate mediante un’unica fattura, queste sono calcolate tenendo conto della somma di tutte le domande presentate a tutti gli uffici di esecuzione.
 
@@ -232,21 +224,26 @@ Non devono essere rimborsate:
 
 <sup>5</sup> *...*[^15a-7]
 
-[^15a-1]: Introdotto dal n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)). Nuovo testo giusta il n. I dell’O del 20 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
-[^15a-2]: Nuovo testo giusta il n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^15a-3]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
-[^15a-4]: Nuovo testo giusta il n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^15a-5]: Nuovo testo giusta il n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^15a-6]: Nuovo testo giusta il n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^15a-7]: Abrogato dal n. I dell’O del 28 apr. 2021, con effetto dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-1]: Introdotto dalla cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)). Nuovo testo giusta la cifra I dell’O del 20 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
+[^15a-2]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-3]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
+[^15a-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 630](https://fedlex.data.admin.ch/eli/oc/2025/630)).
+[^15a-5]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-6]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-7]: Abrogato dalla cifra I dell’O del 28 apr. 2021, con effetto dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 
 #### Art. 15b
 
 **Rimborso di spese nel gruppo e-LEF**[^15b-1]
 
-<sup>1</sup> Per l’adesione al gruppo e-LEF è riscosso un importo unico di 500 franchi.
+<sup>1</sup> Per l’adesione e l’accesso al gruppo e-LEF è riscosso da ogni partecipante un importo unico di 400 franchi.[^15b-2]
 
-<sup>2</sup> Dal secondo anno civile ogni partecipante al gruppo e-LEF versa 200 franchi all’anno per il rinnovo dell’accesso al gruppo.
+<sup>2</sup>
+
+Dal secondo anno civile, per il rinnovo dell’accesso al gruppo sono riscosse le seguenti tasse annuali:
+
+- a. per ogni partecipante logico: 140 franchi;
+- b. per ogni partecipante fisico: 380 franchi.[^15b-3]
 
 <sup>3</sup> Per il rilascio e per ogni rinnovo dei certificati sulle firme degli uffici d’esecuzione sono riscossi 50 franchi.
 
@@ -254,7 +251,9 @@ Non devono essere rimborsate:
 
 <sup>5</sup> L’UFG o un servizio da esso incaricato effettua la fatturazione.
 
-[^15b-1]: Introdotto dal n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15b-1]: Introdotto dalla cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15b-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 630](https://fedlex.data.admin.ch/eli/oc/2025/630)).
+[^15b-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 630](https://fedlex.data.admin.ch/eli/oc/2025/630)).
 
 ## Capitolo 2: Tasse riscosse dall’ufficio d’esecuzione
 
@@ -513,7 +512,7 @@ L’accertamento che un credito pagabile in contanti è stato pagato in altro mo
 
 <sup>3</sup> In caso di vendita della stessa cosa a parecchi acquirenti domiciliati nel medesimo circondario è dovuta una tassa sola.
 
-[^37-1]: [RS 211.413.1](https://fedlex.data.admin.ch/eli/cc/27/215_211_275)
+[^37-1]: [RS 211.413.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5775)
 
 #### Art. 38
 
@@ -541,7 +540,7 @@ La tassa per l’allestimento di un inventario (art. 162 e 163 LEF) è di 40 fra
 
 La registrazione del ritiro di un’esecuzione e la cancellazione di un attestato di carenza beni sono esenti da tassa.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 
 #### Art. 42
 
@@ -643,14 +642,14 @@ L’indennità per ogni mezz’ora di seduta è di:
 
 <sup>3</sup> Non è riscossa alcuna tassa per le decisioni concernenti la garanzia o l’esecuzione di una pretesa che rientra in uno degli ambiti di cui all’articolo 114 CPC.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^48-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^48-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 49 e 50
 
 [^4950-1]
 
-[^4950-1]: Abrogati dal n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, con effetto dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^4950-1]: Abrogati dalla cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, con effetto dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 ### Sezione 2: Cause in materia di esecuzione e fallimento
 
@@ -736,9 +735,9 @@ Sono esenti da tassa:
 - a. la procedura di reclamo e il ricorso contro una decisione sul reclamo (art. 17–19 LEF);
 - b.[^61-3] la procedura di reclamo davanti al giudice della moratoria, a quello del fallimento e all’autorità dei concordati nella procedura di moratoria, di fallimento o di concordato concernente una banca.
 
-[^61-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^61-2]: Nuovo testo giusta il n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^61-3]: L’art. 60 cpv. 2 lett. b è ora privo d’oggetto. Dal 1° lug. 2004, rispettivamente 1° ago. 2005, moratoria, di fallimento e concordato concernenti le banche sono regolati negli art. 33–37g della L sulle banche ([RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)).
+[^61-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^61-2]: Nuovo testo giusta la cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^61-3]: L’art. 60 cpv. 2 lett. b è ora privo d’oggetto. Dal 1° lug. 2004, rispettivamente 1° ago. 2005, moratoria, di fallimento e concordato concernenti le banche sono regolati negli art. 33–37g della L sulle banche ([RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)).
 
 #### Art. 62
 
@@ -748,7 +747,7 @@ Sono esenti da tassa:
 
 <sup>2</sup> Nella procedura di reclamo giusta gli articoli 17 a 19 LEF non è riconosciuta nessuna indennità alle parti.
 
-[^62-1]: Abrogato dal n. II 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, con effetto dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^62-1]: Abrogato dalla cifra II n. 5 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, con effetto dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 ## Capitolo 5: Disposizioni finali
 
@@ -766,4 +765,4 @@ Sono esenti da tassa:
 
 Alle operazioni effettuate prima dell’entrata in vigore della modifica del 28 aprile 2021, ma fatturate successivamente a tale data si applica il diritto anteriore.
 
-[^63a-1]: Introdotto dal n. I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^63a-1]: Introdotto dalla cifra I dell’O del 28 apr. 2021, in vigore dal 1° gen. 2022 ([RU 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).

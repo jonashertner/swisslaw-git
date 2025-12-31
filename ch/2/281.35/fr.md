@@ -4,11 +4,11 @@ title: Ordonnance du 23 septembre 1996 sur les émoluments perçus en applicatio
 short: OELP
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937"
 language: fr
-version: 2022-01-01
+version: 2026-01-01
 adopted: 1996-09-23
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20220101/fr"
 
 (OELP)
 
-du 23 septembre 1996 (État le 1<sup>er</sup> janvier 2022)
+du 23 septembre 1996 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 16 de la loi fédérale du 11 avril 1889 sur la poursuite pour dette
 
 arrête:
 
-[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ## Chapitre 1 Dispositions générales
 
@@ -96,7 +96,7 @@ L’émolument pour l’établissement des pièces ne faisant pas l’objet d’
 - a. 8 francs par page, jusqu’à 20 exemplaires;
 - b. 4 francs par page pour tout exemplaire supplémentaire.
 
-<sup>1</sup> <sup>bis</sup> Lorsque l’opération dépasse une heure, l’émolument est augmenté de 40 francs pour chaque demi-heure supplémentaire.[^9-1]
+<sup>1<sup>bis</sup></sup> Lorsque l’opération dépasse une heure, l’émolument est augmenté de 40 francs pour chaque demi-heure supplémentaire.[^9-1]
 
 <sup>2</sup> L’établissement de pièces concernant l’encaissement et le versement d’argent et l’établissement d’exemplaires du dossier sont gratuits.
 
@@ -178,7 +178,7 @@ Ne donnent pas lieu à remboursement:
 - a. les frais de matériel et de multiplication de pièces soumises à émolument;
 - b. les frais généraux de télécommunications;
 - c.[^13-2] les taxes des comptes postaux, sous réserve de l’art. 19, al. 3;
-- d.[^13-3] ...
+- d.[^13-3] …
 - e.[^13-4] l’émolument pour l’utilisation du réseau e-LP prévu à l’art. 15*a*.
 
 <sup>4</sup> Lorsque l’office utilise un service spécial de la Poste suisse pour expédier un commandement de payer, un avis de saisie ou une commination de faillite, il peut facturer les coûts excédant les frais de l’envoi recommandé à la partie qui les a occasionnés, après au moins un échec de la remise.[^13-5]
@@ -199,7 +199,7 @@ Ne donnent pas lieu à remboursement:
 
 <sup>3</sup> L’autorité de surveillance peut, dans des cas particuliers, augmenter de manière adéquate l’indemnité, lorsque le caractère isolé d’un endroit entraîne une perte de temps ou des frais pour lesquels l’indemnité calculée selon les al. 1 et 2 apparaît manifestement insuffisante.
 
-[^14-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^14-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 [^14-2]: Nouvelle teneur selon le ch. II 5 de l’O du 18 juin 2010 portant adaptation d’O au CPC, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 15
@@ -214,15 +214,7 @@ Ne donnent pas lieu à remboursement:
 
 **Demandes par le réseau e-LP[^15a-2]**[^15a-1]
 
-<sup>1</sup> Si les membres du réseau d’utilisateurs au sens de l’art. 14, al. 1, de l’ordonnance du 18 juin 2010 sur la communication électronique dans le cadre de procédures civiles et pénales et de procédures en matière de poursuite pour dettes et de faillite[^15a-3] (réseau e-LP) établissent la réquisition de poursuite ou la demande d’extrait du registre de l’office des poursuites , l’Office fédéral de la justice (OFJ) perçoit auprès de l’office des poursuites les émoluments suivants:
-
-<table>
-<tr><td></td><td>Émolument par demande en francs</td></tr>
-<tr><td>pour les 1000 premières demandes</td><td>1.—</td></tr>
-<tr><td>pour les 1001<sup>e</sup> à 5000<sup>e</sup> demandes</td><td>–.90</td></tr>
-<tr><td>pour les 5 001<sup>e</sup> à 10 000<sup>e</sup> demandes</td><td>–.80</td></tr>
-<tr><td>à partir de 10 001 demandes</td><td>–.70 .[^15a-4]</td></tr>
-</table>
+<sup>1</sup> Si les membres du réseau d’utilisateurs au sens de l’art. 14, al. 1, de l’ordonnance du 18 juin 2010 sur la communication électronique dans le cadre de procédures civiles et pénales et de procédures en matière de poursuite pour dettes et de faillite[^15a-3] (réseau e‑LP) établissent la réquisition de poursuite ou la demande d’extrait du registre de l’office des poursuites, l’Office fédéral de la justice (OFJ) perçoit auprès de l’office des poursuites un émolument de 60 centimes par demande.[^15a-4]
 
 <sup>2</sup> Si un canton exploite une application centrale pour tous les offices des poursuites et que les émoluments visés à l’al. 1 puissent être facturés en une fois, l’OFJ tient compte, pour le calcul des émoluments, de toutes les demandes, tous offices confondus.
 
@@ -230,12 +222,12 @@ Ne donnent pas lieu à remboursement:
 
 <sup>4</sup> La perception des émoluments incombe à l’OFJ ou à un service désigné par ce dernier.[^15a-6]
 
-<sup>5</sup> ...[^15a-7]
+<sup>5</sup> …[^15a-7]
 
 [^15a-1]: Introduit par le ch. II 5 de l’O du 18 juin 2010 portant adaptation d’O au CPC ([RO 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)). Nouvelle teneur selon le ch. I de l’O du 20 janv. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
 [^15a-2]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^15a-3]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
-[^15a-4]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-3]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
+[^15a-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 630](https://fedlex.data.admin.ch/eli/oc/2025/630)).
 [^15a-5]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 [^15a-6]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 [^15a-7]: Abrogé par le ch. I de l’O du 28 avr. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
@@ -244,9 +236,14 @@ Ne donnent pas lieu à remboursement:
 
 **Remboursement de débours dans le réseau e-LP**[^15b-1]
 
-<sup>1</sup> Les participants au réseau e-LP doivent verser la somme unique de 500 francs pour en être membres.
+<sup>1</sup> Les participants au réseau e-LP doivent verser la somme unique de 400 francs pour en être membres et y avoir accès.[^15b-2]
 
-<sup>2</sup> À partir de la deuxième année civile, la somme de 200 francs par année est perçue auprès de chaque participant au réseau e-LP pour le renouvellement de l’accès au réseau.
+<sup>2</sup>
+
+À partir de la deuxième année civile, les émoluments annuels suivants sont perçus pour le renouvellement de l’accès au réseau:
+
+- a. pour un participant logique: 140 francs;
+- b. pour un participant physique: 380 francs.[^15b-3]
 
 <sup>3</sup> La somme de 50 francs est perçue pour la délivrance et le renouvellement des certificats de signature des offices de poursuite.
 
@@ -255,6 +252,8 @@ Ne donnent pas lieu à remboursement:
 <sup>5</sup> La facturation est établie par l’OFJ ou un service désigné par lui.
 
 [^15b-1]: Introduit par le ch. I de l’O du 28 avr. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15b-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 630](https://fedlex.data.admin.ch/eli/oc/2025/630)).
+[^15b-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 630](https://fedlex.data.admin.ch/eli/oc/2025/630)).
 
 ## Chapitre 2 Émoluments perçus par l’office des poursuites
 
@@ -265,7 +264,7 @@ Ne donnent pas lieu à remboursement:
 <sup>1</sup> L’émolument pour la rédaction d’un commandement de payer, son établissement en double exemplaire, son enregistrement et sa notification est fonction du montant de la créance:
 
 <table>
-<tr><td>Créance en francs</td><td>Émolument en francs</td></tr>
+<tr><th>Créance en francs</th><th>Émolument en francs</th></tr>
 <tr><td>jusqu’à 100</td><td>7.–</td></tr>
 <tr><td>supérieure à 100 et ne dépassant pas 500</td><td>20.–</td></tr>
 <tr><td>supérieure à 500 et ne dépassant pas 1 000</td><td>40.–</td></tr>
@@ -316,7 +315,7 @@ Les opérations relatives à l’opposition sont gratuites.
 <sup>1</sup> L’émolument pour l’exécution de la saisie, y compris la rédaction du procès-verbal de saisie, est fonction du montant de la créance:
 
 <table>
-<tr><td>Créance en francs</td><td>Émolument en francs</td></tr>
+<tr><th>Créance en francs</th><th>Émolument en francs</th></tr>
 <tr><td>jusqu’à 100</td><td>10.–</td></tr>
 <tr><td>supérieure à 100 et ne dépassant pas 500</td><td>25.–</td></tr>
 <tr><td>supérieure à 500 et ne dépassant pas 1 000</td><td>45.–</td></tr>
@@ -513,7 +512,7 @@ L’émolument pour constater qu’une créance qui devait être réglée en esp
 
 <sup>3</sup> En cas de vente de la même chose à plusieurs acquéreurs domiciliés dans le même arrondissement, il n’est dû qu’un seul émolument.
 
-[^37-1]: [RS 211.413.1](https://fedlex.data.admin.ch/eli/cc/27/215_211_275)
+[^37-1]: [RS 211.413.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5775)
 
 #### Art. 38
 
@@ -631,7 +630,7 @@ L’indemnité par demi-heure de séance est de:
 <sup>1</sup> Si la présente ordonnance n’en dispose pas autrement, l’émolument pour les décisions judiciaires rendues dans une procédure sommaire en matière de poursuite (art. 251 du code de procédure civile, CPC[^48-2]) est fonction de la valeur litigieuse:
 
 <table>
-<tr><td colspan="4">Valeur litigieuse en francs</td><td>Émolument en francs</td></tr>
+<tr><th colspan="4">Valeur litigieuse en francs</th><th>Émolument en francs</th></tr>
 <tr><td></td><td></td><td>jusqu’à</td><td>1 000</td><td>40–150</td></tr>
 <tr><td>supérieure à</td><td>1 000</td><td>et ne dépassant pas</td><td>10 000</td><td>50–300</td></tr>
 <tr><td>supérieure à</td><td>10 000</td><td>et ne dépassant pas</td><td>100 000</td><td>60–500</td></tr>
@@ -644,7 +643,7 @@ L’indemnité par demi-heure de séance est de:
 <sup>3</sup> Aucun émolument n’est perçu pour les décisions judiciaires lorsqu’elles concernent la garantie ou l’exécution d’une prétention appartenant aux domaines mentionnés à l’art. 114 CPC.
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
-[^48-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^48-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 49 et 50
 
@@ -713,7 +712,7 @@ L’émolument pour les décisions du juge du concordat est de 200 à 2500 franc
 
 Les émoluments et honoraires dans la procédure de sursis extraordinaire sont fixés, par analogie, selon les art. 40, 54 et 55.
 
-### Section 4 ...
+### Section 4 …
 
 #### Art. 58 à 60
 
@@ -736,15 +735,15 @@ Sont gratuites:
 - a. la procédure de plainte devant l’autorité de surveillance et le recours contre une décision sur la plainte (art. 17 à 19 LP);
 - b.[^61-3] dans les procédures de sursis, de faillite et de concordat concernant les banques, la procédure de recours devant le juge du sursis, le juge de la faillite et le juge du concordat.
 
-[^61-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^61-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^61-2]: Nouvelle teneur selon le ch. II 5 de l’O du 18 juin 2010 portant adaptation d’O au CPC, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^61-3]: L’art. 61, al. 2, let. b est actuellement sans objet. La procédure de sursis, de faillite et de concordat concernant les banques est réglée, depuis le 1<sup>er</sup> juil. 2004, dans les art. 33 à 37*g* de la loi sur les banques ([RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)).
+[^61-3]: L’art. 61, al. 2, let. b est actuellement sans objet. La procédure de sursis, de faillite et de concordat concernant les banques est réglée, depuis le 1<sup>er</sup> juil. 2004, dans les art. 33 à 37*g* de la loi sur les banques ([RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)).
 
 #### Art. 62
 
 **Dépens**
 
-<sup>1</sup> ...[^62-1]
+<sup>1</sup> …[^62-1]
 
 <sup>2</sup> Dans la procédure de plainte au sens des art. 17 à 19 LP, il ne peut être alloué aucun dépens.
 
