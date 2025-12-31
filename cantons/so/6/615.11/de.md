@@ -4,13 +4,13 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-06-25
+version: 2026-01-01
+valid_until: 2026-02-28
+version_adopted: 2025-11-11
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/5527/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5605/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5527/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.01.2025)
+Vom 08.03.2016 (Stand 01.01.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -404,6 +404,12 @@ beschliesst:
 - c) Kursgeld Vorbereitungskurs Passerelle Berufsmaturität oder Fachmaturität - universitäre Hochschulen pro Semester — 1000
 - d) Prüfungsgebühr Vorkurs Pädagogik — 300
 
+<sup>2</sup> Die Prüfungsgebühr beträgt für:
+
+- a) die gymnasiale Maturität — 250
+- b) den Abschluss mit Fachmittelschulausweis — 250
+- c) die Fachmaturität Pädagogik — 250
+
 #### § 33
 
 **Berufsbildung**
@@ -477,12 +483,12 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für die Erteilung oder die Verweigerung der Berufsausübungsbewilligung sowie weiterer Bewilligungen im Zusammenhang mit der Berufsausübung betragen für
 
-- a) in eigener fachlicher Verantwortung ausgeübte Tätigkeiten — 300-500
+- a) in eigener fachlicher Verantwortung ausgeübte Tätigkeiten — 300-1'000
 - b) …
 - c) …
-- d) Stellvertreter und Stellvertreterinnen — 100-200
+- d) Stellvertreter und Stellvertreterinnen — 100-500
 
-<sup>2</sup> Die Gebühren für die Prüfung und die Bescheinigung, dass ein Inhaber oder eine Inhaberin einer Berufsausübungsbewilligung nach Vollendung des 75. Altersjahres in physischer und psychischer Hinsicht eine einwandfreie Berufsausübung zu gewährleisten vermag, betragen 50-200 Franken.
+<sup>2</sup> Die Gebühren für die Prüfung und die Bescheinigung, dass ein Inhaber oder eine Inhaberin einer Berufsausübungsbewilligung nach Vollendung des 75. Altersjahres in physischer und psychischer Hinsicht eine einwandfreie Berufsausübung zu gewährleisten vermag, betragen 100-500 Franken.
 
 #### § 41
 
@@ -490,28 +496,39 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für die Erteilung oder die Verweigerung der Betriebsbewilligungen betragen für
 
-- a) öffentliche Apotheken und Drogerien — 100-1'000
-- b) ärztliche, zahnärztliche und tierärztliche Privatapotheken
-  - 1\. neue Bewilligungen — 100-500
-  - 2\. bisherige Bewilligungsinhaber und Bewilligungsinhaberinnen — 50
+- a) öffentliche Apotheken und Drogerien — 100-2'000
+- b) ärztliche, zahnärztliche und tierärztliche Privatapotheken — 100-2'000
+  - 1\. …
+  - 2\. …
 - c) Spital- und Heimapotheken — 100-2'000
-- c<sup>bis</sup>) andere Detailhandelsgeschäfte und Abgabestellen — 100-500
+- c<sup>bis</sup>) weitere Abgabestellen — 100-1'000
 - d) den Versandhandel — 100-2'000
 - e) …
 - f) die Lagerung von Blut und Blutprodukten — 100-1'000
 - g) Spitäler — 2'000-10'000
+- g<sup>bis</sup>) Pflegeheime — 1'000-5'000
 - h) …
-- i) alle übrigen Einrichtungen des Gesundheitswesens — 500-5'000
+- i) alle übrigen Einrichtungen des Gesundheitswesens sowie Tagesstätten für Erwachsene und Suchtinstitutionen gemäss der Sozialgesetzgebung — 500-5'000
 
 <sup>2</sup> Die Gebühren für die Erteilung oder die Verweigerung anderer Bewilligungen betragen für
 
 - a) die Herstellung von Arzneimitteln — 400-2'000
 - a<sup>bis</sup>) die Abgabe von Arzneimitteln an Messen und Ausstellungen — 50-200
-- a<sup>ter</sup>) den Bezug, die Lagerung und die Verwendung von Betäubungsmitteln durch Spitäler und Institute, welche der wissenschaftlichen Forschung dienen — 100-300
-- b) die Zulassung von Leistungserbringern zur Tätigkeit zu Lasten der obligatorischen Krankenversicherung — 100-1'000
-- c) das Betreiben eines Fumoirs — 50-250
+- a<sup>ter</sup>) den Bezug, die Lagerung und die Verwendung von Betäubungsmitteln durch Spitäler und Institute, welche der wissenschaftlichen Forschung dienen — 100-1'000
+- b) die Zulassung von Leistungserbringern zur Tätigkeit zu Lasten der obligatorischen Krankenversicherung — 50-2'000
+- c) das Betreiben eines Fumoirs — 50-1'000
 
-<sup>3</sup> Die Gebühren für Vorkehrungen im Zusammenhang mit dem Umgang mit Patientendokumentationen bei Berufsaufgabe oder im Todesfall betragen 50-500 Franken.
+<sup>3</sup> Die Gebühren für Vorkehrungen im Zusammenhang mit dem Umgang mit Patientendokumentationen bei Berufsaufgabe oder im Todesfall betragen 50-2'000 Franken.
+
+<sup>4</sup> Die Gebühren für die Prüfung und Bearbeitung von Meldungen, insbesondere betreffend 90-Tage-Dienstleistende aus EU/EFTA-Staaten, bewilligungsfreie Tätigkeiten und medizinische Leistungen in Apotheken, betragen 50-500 Franken.
+
+<sup>5</sup> Die Gebühren für Einzelfallanerkennungen von ausserkantonalen Institutionen in den Bereichen Alter, Sucht und Pflege gemäss der Sozialgesetzgebung betragen 50-500 Franken.
+
+#### § 41bis
+
+**Anpassung von bestehenden Bewilligungen**
+
+<sup>1</sup> Die Gebühren für die Anpassung von bestehenden Bewilligungen betragen 50-500 Franken.
 
 #### § 42
 
@@ -519,15 +536,15 @@ beschliesst:
 
 #### § 43
 
-**Kontrollen**
+**Kontrollen und Massnahmen**
 
-<sup>1</sup> Die Gebühren betragen für Kontrollen in Praxen und Betrieben (mit Berichterstattung) 200-5'000 Franken.
+<sup>1</sup> Die Gebühren betragen für durchgeführte Kontrollen von Praxen, Betrieben, Studios, Salons, Solarien und Verkaufsstellen (mit Berichterstattung), für deren Vor- und Nachbereitung sowie für in diesem Zusammenhang angeordnete Massnahmen 100-6'000 Franken.
 
 #### § 44
 
-**Disziplinarmassnahmen und Entzug von Bewilligungen**
+**Aufsichts- und disziplinarrechtliche Massnahmen und Entzug von Bewilligungen**
 
-<sup>1</sup> Die Gebühren für Disziplinarmassnahmen und für den Entzug von Berufsausübungs- und Betriebsbewilligungen sowie von anderen Bewilligungen betragen 200-5'000 Franken.
+<sup>1</sup> Die Gebühren für aufsichts- und disziplinarrechtliche Massnahmen und für den Entzug von Berufsausübungs- und Betriebsbewilligungen sowie von anderen Bewilligungen betragen 200-5'000 Franken.
 
 ### 2.2.9. Hochbau
 
@@ -536,6 +553,80 @@ beschliesst:
 **Subventionierter Wohnungsbau**
 
 <sup>1</sup> Die Gebühren für die Genehmigung oder Änderung von Mietzinsen im subventionierten Wohnungsbau betragen 15 Franken.
+
+### 2.2.9<sup>bis</sup>. Kindes- und Erwachsenenschutz
+
+#### § 45bis
+
+**Grundsätze der Gebührenbemessung**
+
+<sup>1</sup> Die Gebühren können auf den angefallenen Arbeitsaufwand reduziert werden, wenn
+
+- a) ein Verfahren ohne Sachentscheid endet oder
+- b) ein Entscheid ohne Begründung ergeht.
+
+<sup>2</sup> Aufhebungen und Abänderungen von Massnahmen sind in der Regel in gleicher Weise gebührenpflichtig wie deren Anordnung.
+
+<sup>3</sup> Umfasst ein Entscheid mehrere Geschäfte, werden die Gebühren grundsätzlich kumuliert.
+
+#### § 45ter
+
+**Gemeinsame Gebühren**
+
+<sup>1</sup> Im Kindes- und Erwachsenenschutz sind folgende Gebühren geschuldet:
+
+- a) Anordnung von Beistandschaften und Vormundschaften — 200-2'000
+- b) Anordnung zur Aufnahme eines öffentlichen Inventars (Art. 405 Abs. 3 ZGB[^45ter-1]) — 100-1'000
+- c) zustimmungsbedürftige Geschäfte (Art. 416 f. ZGB), wobei von der Gebühr abgesehen werden kann, wenn die betroffene Person keinen finanziellen Vorteil aus dem Geschäft zieht — 200-2'000
+- d) Prüfung und Genehmigung von Bericht und Rechnung (Art. 415 Abs. 1 und 2 ZGB, Art. 425 Abs. 2 ZGB) — 500-5'000
+- e) vorsorgliche Massnahmen (Art. 445 ZGB) und andere Zwischenentscheide — 200-2'000
+- f) Anordnung einer Verfahrensvertretung mitsamt Ernennung der Beistandsperson (Art. 314*a*<sup>bis</sup> ZGB, Art. 449*a* ZGB) — 200-2'000
+- g) Ernennung eines Beistandes bzw. Ersatzbeistandes oder Regelung der Angelegenheit durch die Kindes- und Erwachsenenschutzbehörde selbst (Art. 306 Abs. 2 ZGB, Art. 403 Abs. 1 ZGB) — 200-2'000
+- h) schriftliche Auskünfte über das Bestehen oder Nichtbestehen einer Massnahme sowie über die Regelung der elterlichen Sorge gegenüber Privatpersonen und privaten Unternehmen (Art. 451 Abs. 2 ZGB) — 20
+
+[^45ter-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+
+#### § 45quater
+
+**Kindesschutz**
+
+<sup>1</sup> Im Kindesschutz sind folgende Gebühren geschuldet:
+
+- a) Zustimmung zur Adoption (Art. 265 Abs. 2 ZGB[^45quater-1]) — 200-5'000
+- b) Entgegennahme der Zustimmungserklärung der Eltern zur Adoption (Art. 265*a* Abs. 2 ZGB) — 50-200
+- c) Entscheid über das Absehen von der Zustimmung der Eltern zur Adoption (Art. 265*c* f. ZGB) — 500-2'000
+- d) Verfahren zur Regelung, Ausgestaltung und Umsetzung des persönlichen Verkehrs, einschliesslich der Anordnung, Änderung und Aufhebung von Schutzmassnahmen (Art. 273 ff. ZGB, Art. 27 Bundesgesetz über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz, PartG) vom 18. Juni 2004[^45quater-2]) — 200-5'000
+- e) Entscheide im Zusammenhang mit der elterlichen Sorge bei unverheirateten Eltern (Art. 298*a* ff. ZGB) — 200-5'000
+- f) Genehmigung von Unterhaltsverträgen und Vereinbarungen über Unterhaltsabfindungen (Art. 287 Abs. 1 und 2 ZGB, Art. 288 Abs. 2 Ziff. 1 ZGB) — 200-2'000
+- g) Neuregelung der elterlichen Sorge, der Obhut und die Genehmigung eines Unterhaltsvertrages (Art. 134 Abs. 3 ZGB) sowie des persönlichen Verkehrs (Art. 134 Abs. 4 ZGB, Art. 275 ZGB) — 200-2'000
+- h) Anordnung einer Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung seiner erbrechtlichen Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB) — 100-500
+- i) Anordnungen und Massnahmen betreffend das Kindsvermögen (Art. 318 ff. ZGB), wobei von der Gebühr abgesehen werden kann, wenn das Kind keinen finanziellen Vorteil aus dem Geschäft zieht — 100-500
+
+[^45quater-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+[^45quater-2]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de).
+
+#### § 45quinquies
+
+**Erwachsenenschutz**
+
+<sup>1</sup> Im Erwachsenenschutz sind folgende Gebühren geschuldet:
+
+- a) Anordnungen und Massnahmen betreffend den Vorsorgeauftrag (Art. 360 ff. ZGB[^45quinquies-1]) sowie die Patientenverfügung (Art. 373 ZGB) — 200-2'000
+- b) Massnahmen von Gesetzes wegen für urteilsunfähige Personen (Art. 374 Abs. 3 ZGB, Art. 376 ZGB, Art. 381 Abs. 1 ZGB, Art. 385 Abs. 2 ZGB) — 50-5'000
+- c) Entscheide betreffend Entbindung von der Inventarpflicht, der Pflicht zur periodischen Berichterstattung und Rechnungsablage sowie der Pflicht, für bestimmte Geschäfte die Zustimmung einzuholen (Art. 420 ZGB) — 500-2'000
+- d) Entscheide bei Verzicht auf eine Beistandschaft (Art. 392 ZGB) — 200-2'000
+
+[^45quinquies-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+
+#### § 45sexies
+
+**Internationaler Kindes- und Erwachsenenschutz**
+
+<sup>1</sup> Für Entscheide, Bescheinigungen und Bestätigungen im Anwendungsbereich des Haager Kindesschutzübereinkommens (HKsÜ) vom 19. Oktober 1996[^45sexies-1], des Haager Erwachsenenschutzübereinkommens (HEsÜ) vom 13. Januar 2000[^45sexies-2] sowie des Haager Übereinkommens über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption (HAÜ) vom 29. Mai 1993[^45sexies-3] betragen die Gebühren 50-2'000 Franken.
+
+[^45sexies-1]: SR [0.211.231.011](https://db.clex.ch/link/Bund/0.211.231.011/de).
+[^45sexies-2]: SR [0.211.232.1](https://db.clex.ch/link/Bund/0.211.232.1/de).
+[^45sexies-3]: SR [0.211.221.311](https://db.clex.ch/link/Bund/0.211.221.311/de).
 
 ### 2.2.10. Landwirtschaft
 
@@ -666,13 +757,13 @@ beschliesst:
 <sup>1</sup> Bei Aufschaltung einer Alarmanlage fallen folgende Gebühren an:
 
 - a) eine einmalige Bearbeitungs- und Aufschaltgebühr (eingeschlossen ist die Ausarbeitung eines Alarmdispositivs) — 500-1'000
-- b) Nutzungsgebühr, pro Jahr — 300
+- b) Nutzungsgebühr, pro Jahr — 350
 - c) Änderung des Alarmdispositivs wegen Umzug oder Umbau — 300-1'000
 
-<sup>2</sup> Für das Ausrücken bei Fehlalarm (auch bei Anlagen, die nicht bei der Polizei aufgeschaltet sind) betragen die Gebühren
+<sup>2</sup> Für das Ausrücken bei Fehlalarmen (auch bei Anlagen, die nicht bei der Polizei aufgeschaltet sind) betragen die Gebühren pro Fehlalarm 350 Franken.
 
-- a) für 2. und 3. Fehlalarm pro Kalenderjahr — 150
-- b) ab 4. Fehlalarm pro Kalenderjahr — 250
+- a) …
+- b) …
 
 <sup>3</sup> Die Gebühren nach Absatz 2 werden halbiert, wenn der Alarm mittels Codewort vor Beginn der polizeilichen Intervention bei der Alarmzentrale widerrufen wird.
 
@@ -910,13 +1001,13 @@ beschliesst:
 
 **Betriebs- und Taxbewilligungen nach der Sozialgesetzgebung**
 
-<sup>1</sup> Die Gebühren für Betriebs- und Taxbewilligungen nach der Sozialgesetzgebung, insbesondere für ambulante, teilstationäre und stationäre Institutionen in den Bereichen Kinder- und Jugendbetreuung, Alter, Sucht, Behinderung, Pflege sowie soziale Notlagen betragen 100-1'000 Franken.
+<sup>1</sup> Die Gebühren für Betriebs- und Taxbewilligungen nach der Sozialgesetzgebung betragen 100-1'000 Franken. Vorbehalten bleibt § 41 Absatz 1 Buchstaben g<sup>bis</sup> und i.
 
 #### § 85
 
 **Vollstreckungen**
 
-<sup>1</sup> Die Gebühren für Vollstreckungen von Verfügungen, Entscheiden oder Urteilen betragen 300-3'000 Franken.
+<sup>1</sup> Die Gebühren für Vollstreckungen von Verfügungen, Entscheiden oder Urteilen betragen 300-5'000 Franken.
 
 #### § 86
 
@@ -932,26 +1023,7 @@ beschliesst:
 
 #### § 87
 
-**Verrichtungen der Kindes- und Erwachsenenschutzbehörde**
-
-<sup>1</sup> Für die Anordnung, Aufhebung und Abänderung von Massnahmen, einschliesslich vorsorglicher Massnahmen, im Bereich des Kindes- und Erwachsenenschutzes sind folgende Gebühren geschuldet:
-
-- a) Anordnung, Aufhebung und Abänderung von Beistandschaften und Vormundschaften zum Schutze von Nettovermögen ab 50'000 Franken — 200-2'000
-- b) Anordnung zur Aufnahme eines öffentlichen Inventars nach Artikel 405 Absatz 3 ZGB[^87-1] — 100-1'000
-- c) Erteilung von Zustimmungen nach Artikel 416 Absatz 1 Ziffer 3 bis 9 ZGB[^87-2]. Von der Gebühr kann abgesehen werden, wenn die betroffene Person keinen finanziellen Vorteil aus dem Geschäft zieht. — 200-2'000
-- d) Prüfung und Genehmigung der Rechnung bei Beistandschaften, Vormundschaften und anderen Vermögensverwaltungen sowie -kontrollen — 500-5'000
-- e) Vormundschaften und Beistandschaften im Zusammenhang mit Adoptionen einschliesslich die Ernennung von Mandatsträgerinnen und Mandatsträgern — 100-1'000
-- f) Zustimmung zur Adoption gemäss Artikel 265 ZGB[^87-3] — 100-1'000
-- g) Verfahren zur Regelung, Ausgestaltung und Umsetzung des persönlichen Verkehrs, einschliesslich der Anordnung, Änderung und Aufhebung von Schutzmassnahmen — 200-5'000
-- h) Genehmigung einer Abfindungsvereinbarung nach Artikel 288 ZGB[^87-4] — 200-2'000
-- i) Verfahren zur Regelung der elterlichen Sorge, einschliesslich der Ausgestaltung und Umsetzung der Obhutsausübung — 200-5'000
-- j) Entgegennahme der Erklärung für die gemeinsame elterliche Sorge — 30
-- k) Schriftliche Auskünfte über das Bestehen oder nicht Bestehen einer Massnahme und über die Regelung der elterlichen Sorge gegenüber Privatpersonen und privaten Unternehmen — 20
-
-[^87-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
-[^87-2]: SR [210](https://db.clex.ch/link/Bund/210/de).
-[^87-3]: SR [210](https://db.clex.ch/link/Bund/210/de).
-[^87-4]: SR [210](https://db.clex.ch/link/Bund/210/de).
+**…**
 
 #### § 88
 
@@ -982,8 +1054,9 @@ beschliesst:
 - c) Rückvergrösserung ab Mikrofilmlesegerät
   - 1\. Format A4 — 1.50
   - 2\. Format A3 — 2
-- d) Reproduktion von Archivgut — 30
-- e) Ausleihe von Archivgut zu Ausstellungszwecken (pro Stück) — 10-100
+- d) Reproduktion von Archivgut — 40
+- e) Ausleihe von Archivgut zu Ausstellungszwecken (pro Stück) — 50-1000
+- f) Fotokopien und Scans (pro Seite) — 1
 
 #### § 90
 
@@ -1450,8 +1523,8 @@ beschliesst:
 <sup>1</sup> Die Gebühren für folgende Tätigkeiten nach dem Gesetz über das Halten von Hunden (Hundegesetz) vom 7. November 2006[^115-1] betragen:
 
 - a) Haltebewilligung für Hunde bestimmter Rassen (§ 4) — 200-3‘000
-- b) Anordnung von Massnahmen (§ 5) — 100-1'500
-- c) Kennzeichnungskontrolle (§ 11) — 40
+- b) Anordnung von Massnahmen (§ 5) — 100-3'000
+- c) …
 - d) Mahngebühr pro Mahnung — 50
 
 [^115-1]: BGS [614.71](https://bgs.so.ch/data/614.71/de).
