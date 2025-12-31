@@ -4,11 +4,11 @@ title: "Ordonnance du 16 novembre 2016 concernant la reconnaissance des récepti
 short: OETV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/822"
 language: fr
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-11-16
 in_force: 2017-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-822-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-822-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/fr"
 
 (OETV 3)
 
-du 16 novembre 2016 (État le 1<sup>er</sup> juillet 2025)
+du 16 novembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 8, al. 1, 9, al. 1<sup>bis</sup> et 3, 106, al. 1, 6 et 10, de la lo
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 1
 
@@ -40,15 +40,16 @@ La présente ordonnance règle:
 
 <sup>2</sup> Elle s’applique aux motocycles visés à l’art. 14, let. a et b, de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^1-1], aux quadricycles légers à moteur, aux quadricycles à moteur et aux tricycles à moteur visés à l’art. 15 OETV, ainsi qu’aux cyclomoteurs visés à l’art. 18, let. a et b, OETV.
 
-[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 2
 
 **Contrôle des véhicules et service antipollution**
 
-Le contrôle en vue de l’immatriculation, le contrôle subséquent et le service antipollution des véhicules visés à l’art. 1, al. 2, sont régis par l’OETV[^2-1].
+Le contrôle en vue de l’immatriculation, le contrôle subséquent et le service antipollution des véhicules visés à l’art. 1, al. 2, sont régis par l’OETV[^2-1].[^2-2]
 
-[^2-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-2]: La mod. du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 649](https://fedlex.data.admin.ch/eli/oc/2025/649)), ne concerne que le texte italien.
 
 #### Art. 3
 
@@ -56,7 +57,7 @@ Le contrôle en vue de l’immatriculation, le contrôle subséquent et le servi
 
 Les définitions de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers[^3-1] s’appliquent.
 
-[^3-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^3-1]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 4
 
@@ -68,7 +69,7 @@ Les définitions de l’ordonnance du 19 juin 1995 sur la réception par type de
 
 <sup>3</sup> S’agissant de l’application des réglementations internationales mentionnées à l’annexe 2 OETV, les dispositions transitoires desdites réglementations s’appliquent; toutefois, la date de l’importation ou de la construction en Suisse est déterminante pour l’immatriculation.
 
-[^4-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^4-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^4-2]: Les textes des règlements CEE-ONU peuvent être consultés gratuitement sur le site [www.unece.org](http://www.unece.org) &gt; Our Work &gt; Programmes &gt; Transport &gt; Vehicle Regulations &gt; Regulations &gt; UN Regulations (1958 Agreement), ou obtenus contre paiement auprès de l’Office fédéral des routes, division Circulation routière, 3003 Berne.
 
 #### Art. 5
@@ -91,7 +92,7 @@ Ne sont pas reconnus les réceptions et les certificats pour:
 - b. les véhicules utilisables également sur une voie ferrée, sur l’eau ou dans les airs;
 - c. les véhicules spéciaux (art. 25, al. 1, OETV[^6-1]) et les véhicules de travail (art. 13, al. 1, et 22, al. 1, OETV).
 
-[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 7
 
@@ -113,7 +114,7 @@ L’al. 1 ne s’applique pas:
 
 Pour les véhicules ne bénéficiant pas de réceptions UE au sens de l’art. 6, al. 1, ni de déclarations de conformité idoines du constructeur, les exigences techniques de l’OETV[^8-1] s’appliquent.
 
-[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 9
 
@@ -158,7 +159,7 @@ Annexe 1[^t-1]
 <tr><td>vélo à moteur (L1e-A)</td><td>cyclomoteur léger (art. 18, let. b, OETV) ou cyclomoteur rapide (art. 18, let. a, OETV) ou cyclomoteur lourd (art. 18, let. e, OETV)</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 Annexe 2
 

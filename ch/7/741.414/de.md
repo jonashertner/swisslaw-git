@@ -4,11 +4,11 @@ title: "Verordnung vom 16. November 2016 über die Anerkennung von EU-Genehmigun
 short: TAFV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/822"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-11-16
 in_force: 2017-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2016-822-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2016-822-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/de"
 
 (TAFV 3)
 
-vom 16. November 2016 (Stand am 1. Juli 2025)
+vom 16. November 2016 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 8 Absatz 1, 9 Absätze 1<sup>bis</sup> und 3 sowie 106
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 1
 
@@ -40,15 +40,16 @@ Diese Verordnung regelt:
 
 <sup>2</sup> Sie gilt für Motorräder nach Artikel 14 Buchstaben a und b der Verordnung vom 19. Juni 1995[^1-1] über die technischen Anforderungen an Strassenfahrzeuge (VTS), für Leicht-, Klein- und dreirädrige Motorfahrzeuge nach Artikel 15 VTS sowie für Motorfahrräder nach Artikel 18 Buchstaben a und b VTS.
 
-[^1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^1-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 2
 
 **Fahrzeugprüfung und Abgaswartung**
 
-Die Zulassungsprüfung, die Nachprüfung und die Abgaswartung von Fahrzeugen nach Artikel 1 Absatz 2 richten sich nach der VTS[^2-1].
+Die Zulassungsprüfung, die Nachprüfung und die Abgaswartung von Fahrzeugen nach Artikel 1 Absatz 2 richten sich nach der VTS[^2-1].[^2-2]
 
-[^2-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-2]: Die Änd. vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 betrifft nur den italienischen Text ([AS 2025 649](https://fedlex.data.admin.ch/eli/oc/2025/649)).
 
 #### Art. 3
 
@@ -56,7 +57,7 @@ Die Zulassungsprüfung, die Nachprüfung und die Abgaswartung von Fahrzeugen nac
 
 Es gelten die Begriffsbestimmungen der Verordnung vom 19. Juni 1995[^3-1] über die Typengenehmigung von Strassenfahrzeugen.
 
-[^3-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^3-1]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 4
 
@@ -68,7 +69,7 @@ Es gelten die Begriffsbestimmungen der Verordnung vom 19. Juni 1995[^3-1] über 
 
 <sup>3</sup> Für die Anwendung der in Anhang 2 VTS aufgeführten internationalen Regelungen gelten die in den jeweiligen Regelungen enthaltenen Übergangsbestimmungen, wobei für die Zulassung auf den Zeitpunkt der Einfuhr oder der Herstellung in der Schweiz abgestellt wird.
 
-[^4-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^4-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^4-2]: Textausgaben der UNECE-Reglemente können beim Bundesministerium für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland kostenlos abgerufen werden unter [www.bmvi.de](http://www.bmvi.de) &gt; Verkehr und Mobilität &gt; Verkehrsteilnehmer &gt; Fahrzeuge &gt; KfZ‑technische Vorschriften &gt; UN/ECE-Regelungen, oder sie können gegen Bezahlung bezogen werden beim Bundesamt für Strassen, Abteilung Strassenverkehr, 3003 Bern.
 
 #### Art. 5
@@ -91,7 +92,7 @@ Nicht anerkannt werden Genehmigungen und Bescheinigungen für:
 - b. Fahrzeuge, die auch auf Schienen, zu Wasser oder in der Luft verwendet werden;
 - c. Ausnahmefahrzeuge (Art. 25 Abs. 1 VTS[^6-1]) und Arbeitsfahrzeuge (Art. 13 Abs. 1 und 22 Abs. 1 VTS).
 
-[^6-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^6-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 7
 
@@ -113,7 +114,7 @@ Absatz 1 gilt nicht für:
 
 Für Fahrzeuge, für die keine EU-Genehmigungen nach Artikel 6 Absatz 1 oder entsprechende Konformitätserklärungen des Herstellers oder der Herstellerin vorliegen, gelten die technischen Anforderungen der VTS[^8-1].
 
-[^8-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 9
 
@@ -121,7 +122,7 @@ Für Fahrzeuge, für die keine EU-Genehmigungen nach Artikel 6 Absatz 1 oder ent
 
 Die Verordnung vom 2. September 1998[^9-1] über technische Anforderungen an Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge wird aufgehoben.
 
-[^9-1]: [[AS 1998 2487](https://fedlex.data.admin.ch/eli/oc/1998/2487_2487_2487), [2000 2403](https://fedlex.data.admin.ch/eli/oc/2000/383), [2002 3184](https://fedlex.data.admin.ch/eli/oc/2002/474), [2003 1824](https://fedlex.data.admin.ch/eli/oc/2003/272), [2009 5803](https://fedlex.data.admin.ch/eli/oc/2009/699), [2012 1919](https://fedlex.data.admin.ch/eli/oc/2012/264), [2015 509](https://fedlex.data.admin.ch/eli/oc/2015/69)]
+[^9-1]: [[AS 1998 2487](https://fedlex.data.admin.ch/eli/oc/1998/2487_2487_2487); [2000 2403](https://fedlex.data.admin.ch/eli/oc/2000/383); [2002 3184](https://fedlex.data.admin.ch/eli/oc/2002/474); [2003 1824](https://fedlex.data.admin.ch/eli/oc/2003/272); [2009 5803](https://fedlex.data.admin.ch/eli/oc/2009/699); [2012 1919](https://fedlex.data.admin.ch/eli/oc/2012/264); [2015 509](https://fedlex.data.admin.ch/eli/oc/2015/69)]
 
 #### Art. 10
 
@@ -158,7 +159,7 @@ Anhang 1[^t-1]
 <tr><td>Fahrrad mit Antriebssystem (L1e-A),</td><td>Leicht-Motorfahrrad (Art. 18 Bst. b VTS) oder schnelles Motorfahrrad (Art. 18 Bst. a VTS) oder schweres Motorfahrrad (Art. 18 Bst. e VTS)</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 Anhang 2
 

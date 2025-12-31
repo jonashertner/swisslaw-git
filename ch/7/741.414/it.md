@@ -4,11 +4,11 @@ title: "Ordinanza del 16 novembre 2016 concernente il riconoscimento delle omolo
 short: OETV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/822"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-11-16
 in_force: 2017-01-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2016-822-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/822/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2016-822-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/822/20250701/it"
 
 (OETV 3)
 
-del 16 novembre 2016 (Stato 1° luglio 2025)
+del 16 novembre 2016 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 8 capoverso 1, 9 capoversi 1<sup>bis</sup> e 3 nonché 106 ca
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 1
 
@@ -40,15 +40,16 @@ La presente ordinanza disciplina:
 
 <sup>2</sup> Essa si applica ai motoveicoli di cui all’articolo 14 lettere a e b dell’ordinanza del 19 giugno 1995[^1-1] concernente le esigenze tecniche per i veicoli stradali (OETV), ai quadricicli leggeri a motore, ai quadricicli a motore e ai tricicli a motore di cui all’articolo 15 OETV nonché ai ciclomotori di cui all’articolo 18 lettere a e b OETV.
 
-[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 2
 
 **Esami del veicolo e manutenzione del sistema antinquinamento**
 
-L’esame d’immatricolazione, l’esame successivo e la manutenzione del sistema antinquinamento dei veicoli di cui all’articolo 1 capoverso 2 sono disciplinati dall’OETV[^2-1].
+L’esame d’immatricolazione, l’esame successivo e la manutenzione del sistema antinquinamento dei veicoli di cui all’articolo 1 capoverso 2 sono disciplinati dall’OETV[^2-1].[^2-2]
 
-[^2-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^2-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 649](https://fedlex.data.admin.ch/eli/oc/2025/649), [689](https://fedlex.data.admin.ch/eli/oc/2025/689)).
 
 #### Art. 3
 
@@ -56,7 +57,7 @@ L’esame d’immatricolazione, l’esame successivo e la manutenzione del siste
 
 Si applicano le definizioni dell’ordinanza del 19 giugno 1995[^3-1] concernente l’approvazione del tipo di veicoli stradali.
 
-[^3-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^3-1]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 4
 
@@ -68,7 +69,7 @@ Si applicano le definizioni dell’ordinanza del 19 giugno 1995[^3-1] concernent
 
 <sup>3</sup> Per l’applicazione delle normative internazionali elencate nell’allegato 2 OETV vigono le disposizioni transitorie di dette normative, fermo restando che per la data d’immatricolazione è determinante la data dell’importazione o della costruzione in Svizzera.
 
-[^4-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^4-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^4-2]: I regolamenti UNECE contenuti negli atti normativi UE citati sono disponibili gratuitamente sul sito web dell’UNECE [www.unece.org](http://www.unece.org) &gt; Our Work &gt; Programmes &gt; Transport &gt; Vehicle Regulations &gt; Regulations &gt; UN Regulations (1958 Agreement) o possono essere richiesti, a pagamento, all’Ufficio federale delle strade, divisione Circolazione stradale, 3003 Berna.
 
 #### Art. 5
@@ -91,7 +92,7 @@ Non sono riconosciuti le omologazioni e i certificati per:
 - b. veicoli utilizzati anche su rotaie, sull’acqua o nell’aria;
 - c. veicoli speciali (art. 25 cpv. 1 OETV[^6-1]) e veicoli di lavoro (art. 13 cpv. 1 e art. 22 cpv. 1 OETV).
 
-[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^6-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 7
 
@@ -113,7 +114,7 @@ Il capoverso 1 non si applica a:
 
 Ai veicoli per i quali non è disponibile un’omologazione UE ai sensi dell’articolo 6 capoverso 1 o una dichiarazione di conformità del costruttore si applicano le esigenze tecniche dell’OETV[^8-1].
 
-[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^8-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 9
 
@@ -158,7 +159,7 @@ Allegato 1[^t-1]
 <tr><td>ciclo a propulsione (L1e-A)</td><td>ciclomotore leggero (art. 18 lett. b OETV) oppure ciclomotore veloce (art. 18 lett. a OETV) oppure ciclomotore pesante (art. 18 lett. e OETV)</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 Allegato 2
 
