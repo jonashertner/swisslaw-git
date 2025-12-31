@@ -1,238 +1,357 @@
 ---
 canton: BE
 number: "521.14"
-title: Verordnung über die Einsatzkostenversicherung der Gemeinden bei Katastrophen und in Notlagen
-short: Einsatzkostenverordnung; EKV
+title: Verordnung über die Einsatzkostenversicherung der Einwohnergemeinden bei Katastrophen und in Notlagen
+short: "Einsatzkostenversicherungsverordnung, EKVV"
 language: de
-version: 2010-01-01
-valid_until: 2025-12-31
-version_adopted: 2009-10-14
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 2025-11-26
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/521.14"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3245/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3352/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Einsatzkostenversicherung der Gemeinden bei Katastrophen und in Notlagen
+# Verordnung über die Einsatzkostenversicherung der Einwohnergemeinden bei Katastrophen und in Notlagen
 
-(Einsatzkostenverordnung; EKV)
+(Einsatzkostenversicherungsverordnung, EKVV)
 
-vom 17.03.1999 (Stand 01.01.2010)
+vom 26.11.2025 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 73 und 78 des Kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes (KBZG)[^ingress-1],
+gestützt auf Artikel 76, 77 und 78 des Kantonalen Bevölkerungsschutzgesetzes vom 11. September 2024 (KBSG)[^ingress-1],
 
-auf Antrag der Polizei-und Militärdirektion,
+auf Antrag der Sicherheitsdirektion,
 
 beschliesst:
 
-[^ingress-1]: Aufgehoben durch Kantonales Bevölkerungsschutz- und Zivischutzgesetz vom 19.3.2014; BSG 521.1
+[^ingress-1]: BSG [521.1](https://www.belex.sites.be.ch/data/521.1/de)
 
-## 1 Allgemeines
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Die Verordnung regelt die Grundsätze, die Organisation und die Zuständigkeiten für die zu schaffende Einsatzkostenversicherung der Gemeinden bei Katastrophen und in Notlagen.
+<sup>1</sup> Die Verordnung regelt die Grundsätze, die Organisation und die Zuständigkeiten der Stiftung «Einsatzkostenversicherung der Gemeinden in ausserordentlichen Lagen» (nachfolgend Stiftung).
 
 <sup>2</sup> Sie legt das Finanzierungssystem fest.
 
-## 2 Grundsätze
-
 #### Art. 2
 
-**Zielsetzungen**
+**Ziele**
 
-<sup>1</sup> Der nachfolgend geregelten Einsatzkostenversicherung liegen folgende Zielsetzungen zu Grunde:
+<sup>1</sup> Der Stiftung liegen folgende Zielsetzungen zugrunde:
 
-- a Prinzip der Solidarität;
-- b möglichst geringe finanzielle Belastung der Gemeinden;
-- c rasche und unbürokratische Hilfe an die Gemeinden;
-- d kostengünstige Administration;
+- a Prinzip der Solidarität,
+- b möglichst geringe finanzielle Belastung der Einwohnergemeinden,
+- c rasche und unbürokratische Hilfe an die Einwohnergemeinden,
+- d kostengünstige Administration,
 - e Geschäftsführung ausserhalb der kantonalen Verwaltung.
 
 #### Art. 3
 
-**Versicherte Ereignisse**
+**Finanzierungsgrundsätze**
 
-<sup>1</sup> Die Versicherungsdeckung beschränkt sich auf überraschend eintretende Ereignisse, insbesondere Natur- und Zivilisationsereignisse, die für die betroffene Gemeinde zu einer Katastrophe oder Notlage führen.
+<sup>1</sup> Die Versicherung wird durch feste Pauschalbeiträge aller bernischen Einwohnergemeinden finanziert.
 
-<sup>2</sup> Ausgenommen von der Deckung sind nicht überraschend eintretende Ereignisse wie lang andauernde Trockenheit, aussergewöhnliche Kälteperioden, Epidemien, Verstrahlungen und Migrationsbewegungen.
+<sup>2</sup> Dabei gilt, dass über ein Minimalkapital hinaus nur soweit Pauschalbeiträge eingefordert werden, als es die Schadenereignisse bzw. die Aufwendungen der Stiftung nötig machen.
+
+## 2 Versicherungsdeckung
 
 #### Art. 4
 
-**Versicherte Leistungen**
+**Versicherte Ursachen**
 
-<sup>1</sup> Versichert sind die Einsatzkosten der Gemeinden bei Katastrophen und in Notlagen für
+<sup>1</sup> Die Versicherungsdeckung beschränkt sich auf überraschend eintretende Ereignisse, insbesondere Natur- und Zivilisationsereignisse, die für die betroffene Einwohnergemeinde zu einer Katastrophe oder Notlage führen.
 
-- a die Schadenbekämpfung;
-- b die Sofortmassnahmen zur Verhütung weiterer Schäden;
-- c die behelfsmässige Sicherstellung der überlebenswichtigen Infrastrukturen;
-- d die Räumungsarbeiten, soweit sie für die Tätigkeiten gemäss den Buchstaben a bis c unmittelbar erforderlich sind.
+<sup>2</sup> Ausgenommen von der Deckung sind
 
-<sup>2</sup> Versichert sind nur die den Gemeinden verbleibenden Nettokosten.
-
-<sup>3</sup> Es besteht ein Rechtsanspruch auf Versicherungsleistungen.
-
-<sup>4</sup> Nicht unter die Versicherungsdeckung fallen die Kosten für die Instandstellung, die Prävention sowie allfällige Kulturschäden.
+- a nicht überraschend eintretende Ereignisse wie
+  - 1\. lang andauernde Trockenheit,
+  - 2\. aussergewöhnliche Kälte- und Wärmeperioden,
+- b Epidemien und Pandemien,
+- c Verstrahlungen,
+- d Migrationsbewegungen.
 
 #### Art. 5
 
-**Finanzierungsgrundsätze**
+**Versicherte Leistungen**
 
-<sup>1</sup> Die Versicherung wird durch feste Pauschalbeiträge aller bernischen Gemeinden finanziert. Dabei gilt, dass über ein Minimalkapital hinaus nur soweit Pauschalbeiträge eingefordert werden, als es die Schadenereignisse bzw. die Aufwendungen der Stiftung nötig machen.
+<sup>1</sup> Versichert sind die Ausgaben der Einwohnergemeinden bei Ereignissen gemäss Artikel 4 Absatz 1 für
+
+- a die Schadenbekämpfung,
+- b die Sofortmassnahmen zur Verhütung weiterer unmittelbarer Schäden,
+- c die behelfsmässige Sicherstellung der überlebenswichtigen Infrastrukturen,
+- d die Räumungsarbeiten, soweit sie für die Tätigkeiten gemäss den Buchstaben a bis c unmittelbar erforderlich sind.
+
+<sup>2</sup> Versichert sind zudem die Ausgaben der Einwohnergemeinden bei Ereignissen gemäss Artikel 4 Absatz 1 für
+
+- a die Einsatzkosten der für die Einwohnergemeinde zuständigen Feuerwehr nach Ablauf von 24 Stunden nach dem Ereignis,
+- b den Einsatz von Gerätschaften und Material, die nicht zur Ausrüstung der für die Einwohnergemeinde zuständigen Feuerwehr und Zivilschutzorganisation gehören, die für die Bewältigung von Alltagsereignissen erforderlich ist.
+
+<sup>3</sup> Nicht unter die Versicherungsdeckung fallen die Ausgaben für
+
+- a die Instandstellung,
+- b die Prävention,
+- c allfällige Kulturschäden.
+
+<sup>4</sup> Versichert sind nur die den Einwohnergemeinden verbleibenden Ausgaben nach Abzug von Beiträgen Dritter (Nettokosten).
 
 #### Art. 6
 
-**Verwirkung**
+**Besondere Einzelfälle und Rechtsanspruch**
 
-<sup>1</sup> Versicherungsansprüche von Gemeinden, die nicht innert zwei Jahren nach dem Schadenereignis geltend gemacht werden, sind verwirkt.
+<sup>1</sup> Der Stiftungsrat ist befugt, in begründeten Einzelfällen von diesen Regelungen abzuweichen, wobei er die Einzelheiten dazu in einem Reglement festlegt.
 
-## 3 Rechtsform
+<sup>2</sup> Es besteht ein Rechtsanspruch auf Versicherungsleistungen.
+
+## 3 Rechtsform und Organe
 
 #### Art. 7
 
-**Stiftung**
+**Rechtsform**
 
-<sup>1</sup> Die Einsatzkostenversicherung der Gemeinden hat die Rechtsform einer selbstständigen Stiftung des privaten Rechts.
+<sup>1</sup> Die Einsatzkostenversicherung der Gemeinden in ausserordentlichen Lagen hat die Rechtsform einer selbstständigen Stiftung des privaten Rechts.
 
 #### Art. 8
 
 **Organe**
 
-<sup>1</sup> Organe der Stiftung sind:
+<sup>1</sup> Organe der Stiftung sind
 
-- a der Stiftungsrat, mehrheitlich bestehend aus Gemeindevertretern;
-- b der Ausschuss des Stiftungsrates;
-- c die Geschäftsstelle;
+- a der Stiftungsrat,
+- b der Ausschuss des Stiftungsrates,
+- c die Geschäftsstelle,
 - d die unabhängige Kontrollstelle.
 
-## 4 Zuständigkeiten
+<sup>2</sup> Die Organe der Stiftung bzw. deren Mitglieder haben Anspruch auf eine angemessene Entschädigung für ihre Tätigkeiten.
 
 #### Art. 9
 
-**Regierungsrat**
+**Zusammensetzung des Stiftungsrates**
 
-<sup>1</sup> Der Regierungsrat gründet die Stiftung durch Genehmigung der Stiftungsurkunde und wählt den Stiftungsrat und seinen Präsidenten auf eine Amtsdauer von vier Jahren sowie die Rekurskommission.
+<sup>1</sup> Der Stiftungsrat besteht aus sieben Mitgliedern und setzt sich wie folgt zusammen:
+
+- a Präsidentin oder Präsident,
+- b fünf Vertretungen der Einwohnergemeinden,
+- c einer Vertretung des Amtes für Bevölkerungsschutz, Sport und Militär (BSM).
+
+<sup>2</sup> Die Amtsdauer der Mitglieder des Stiftungsrates beträgt vier Jahre, wobei eine Wiederwahl möglich ist.
+
+<sup>3</sup> Eine Person scheidet vor Ablauf der Amtsdauer auf Ende des Kalenderjahres aus dem Stiftungsrat oder dem Ausschuss aus, wenn sie aufgrund ihrer Zugehörigkeit zu einer bestimmten Organisation gewählt worden ist und dieser Organisation nicht mehr angehört.
+
+<sup>4</sup> Der Stiftungsrat konstituiert sich selber.
+
+## 4 Zuständigkeiten
 
 #### Art. 10
 
-**Stiftungsrat**
+**Regierungsrat**
 
-<sup>1</sup> Der Stiftungsrat besteht aus 7 Mitgliedern, mehrheitlich zusammengesetzt aus Vertreterinnen/Vertretern der Gemeinden.
+<sup>1</sup> Der Regierungsrat wählt auf Antrag der Sicherheitsdirektion und nach Anhörung des Verbands Bernischer Gemeinden für eine Amtsdauer von vier Jahren
 
-<sup>2</sup> Der Stiftungsrat wählt:
+- a die Präsidentin oder den Präsidenten des Stiftungsrates,
+- b die sechs weiteren Mitglieder des Stiftungsrates,
+- c die drei Mitglieder der Beschwerdekommission.
 
-- a den dreiköpfigen Ausschuss;
-- b die Kontrollstelle.
-
-<sup>3</sup> Er erlässt das Stiftungsreglement, überwacht die Geschäftsführung der Geschäftsstelle und kann in seinem Zuständigkeitsbereich Weisungen erlassen. Im Übrigen konstituiert er sich selbst.
-
-<sup>4</sup> Er kann Rückversicherungsverträge abschliessen.
+<sup>2</sup> Eine Wiederwahl ist möglich.
 
 #### Art. 11
 
-**Ausschuss**
+**Stiftungsrat**
 
-<sup>1</sup> Der Ausschuss bereitet auf Grund der Vorschläge der Geschäftsstelle die Geschäfte zuhanden des Stiftungsrates vor.
+<sup>1</sup> Der Stiftungsrat ist das oberste Organ der Stiftung und vertritt diese nach aussen.
 
-<sup>2</sup> Er orientiert laufend den Stiftungsrat.
+<sup>2</sup> Der Stiftungsrat
+
+- a erlässt das Stiftungsreglement und das Entschädigungsreglement,
+- b legt die Beiträge der Einwohnergemeinden an die Stiftung fest,
+- c beschliesst die Auszahlung von Versicherungsleistungen an die Einwohnergemeinden und erlässt die dazu erforderlichen Verfügungen,
+- d überwacht die Geschäftsführung der Geschäftsstelle und sorgt dafür, dass die Stiftung ihre Aufgaben gemäss den gesetzlichen Bestimmungen, wirtschaftlich und auf zweckmässige Weise erfüllt,
+- e kann in seinem Zuständigkeitsbereich weitere Weisungen und Reglemente erlassen,
+- f kann Rückversicherungsverträge abschliessen,
+- g wählt
+  - 1\. eine Vizepräsidentin oder einen Vizepräsidenten,
+  - 2\. den Ausschuss des Stiftungsrates,
+  - 3\. die Kontrollstelle,
+- h entscheidet in allen Angelegenheiten, die nicht durch eine gesetzliche Regelung, nach der Stiftungsurkunde oder nach dem Stiftungsreglement einem anderen Organ übertragen sind.
 
 #### Art. 12
 
-**Geschäftsstelle**
+**Ausschuss des Stiftungsrates**
 
-<sup>1</sup> Die GVB führt die Geschäfte der Stiftung gegen angemessene Entschädigung.
+<sup>1</sup> Der Ausschuss zählt drei Mitglieder und besteht aus
 
-<sup>2</sup> Sie bereitet die Entschädigungsentscheide vor.
+- a der Präsidentin oder dem Präsidenten des Stiftungsrates,
+- b der Vizepräsidentin oder dem Vizepräsidenten des Stiftungsrates,
+- c einem weiteren Mitglied des Stiftungsrates.
+
+<sup>2</sup> Der Ausschuss des Stiftungsrates
+
+- a bereitet aufgrund der Vorschläge der Geschäftsstelle die Geschäfte zuhanden des Stiftungsrates vor und führt dessen Beschlüsse aus,
+- b stellt dem Stiftungsrat Antrag betreffend die Beiträge der Einwohnergemeinden an die Stiftung und die Auszahlung von Versicherungsleistungen an die Einwohnergemeinden,
+- c orientiert den Stiftungsrat laufend,
+- d kann weitere Personen mit beratender Stimme beiziehen.
 
 #### Art. 13
 
-**Kontrollstelle**
+**Geschäftsstelle**
 
-<sup>1</sup> Für die Revision der Jahresrechnungen ist ein unabhängiges, ausgewiesenes Unternehmen zu bezeichnen.
+<sup>1</sup> Die Gebäudeversicherung Bern (GVB) führt die Geschäftsstelle der Stiftung gegen angemessene Entschädigung.
 
-## 5 Finanzierung
+<sup>2</sup> Die Geschäftsstelle
+
+- a besorgt die laufenden Geschäfte im Rahmen der Weisungen und Beschlüsse des Stiftungsrates und des Ausschusses,
+- b bereitet die Anträge des Ausschusses an den Stiftungsrat vor.
 
 #### Art. 14
 
-**Beitragsleistung**
+**Kontrollstelle**
 
-<sup>1</sup> Jede Gemeinde leistet Beiträge an die Einsatzkostenversicherung in Form fester Pauschalen gemäss Tabelle im Anhang.
+<sup>1</sup> Der Stiftungsrat wählt ein unabhängiges, ausgewiesenes Unternehmen als Kontrollstelle für eine Amtsdauer von vier Jahren.
 
-<sup>2</sup> Die Beitragspauschale beträgt mindestens 375 Franken und höchstens 50'000 Franken.
+<sup>2</sup> Die Kontrollstelle
 
-<sup>3</sup> Unter Vorbehalt von Artikel 5 entrichtet jede Gemeinde ab dem Jahr 2000 ihre Beitragspauschale jährlich. Pro Kalenderjahr ist die Leistungspflicht der Gemeinden auf den zweifachen Pauschalbeitrag begrenzt.
+- a prüft die Rechnungsführung und die Buchhaltung auf rechnerische Richtigkeit, auf Übereinstimmung mit den Belegen und auf Rechtmässigkeit,
+- b erstattet dem Stiftungsrat jährlich über das Ergebnis Bericht und stellt Antrag auf Genehmigung oder Nichtgenehmigung der Jahresrechnung zuhanden der Aufsichtsbehörde.
 
-<sup>4</sup> Versicherungsleistungen und Kosten sind dem Gesamtbetrag dieser Pauschalbeiträge zu belasten.
-
-<sup>5</sup> …
-
-<sup>6</sup> Nötigenfalls bevorschusst die GVB geschuldete Versicherungsleistungen. Dabei verrechnet sie einen Zins zum jeweiligen Satz für Gemeindedarlehen der BEKB.
+## 5 Finanzierung
 
 #### Art. 15
+
+**Beitragsleistung**
+
+<sup>1</sup> Jede Einwohnergemeinde
+
+- a leistet Beiträge an die Einsatzkostenversicherung in Form fester Pauschalen gemäss Anhang 1,
+- b entrichtet ihre Beitragspauschale jährlich unter Vorbehalt von Artikel 3.
+
+<sup>2</sup> Pro Kalenderjahr ist die Leistungspflicht der Einwohnergemeinden auf den zweifachen Pauschalbeitrag begrenzt.
+
+<sup>3</sup> Versicherungsleistungen und Kosten sind dem Gesamtbetrag dieser Pauschalbeiträge zu belasten.
+
+<sup>4</sup> Die GVB
+
+- a bevorschusst nötigenfalls geschuldete Versicherungsleistungen,
+- b verrechnet dabei einen Zins zum jeweiligen Satz für Gemeindedarlehen der Berner Kantonalbank.
+
+#### Art. 16
 
 **Leistungsbegrenzung**
 
 <sup>1</sup> Die Versicherung leistet höchstens sechs Millionen Franken pro Kalenderjahr.
 
-<sup>2</sup> Die Versicherungsleistungen sind für die einzelnen betroffenen Gemeinden verhältnismässig zu kürzen, wenn die Grenze gemäss Absatz 1 überschritten wird.
+<sup>2</sup> Die Versicherungsleistungen sind für die einzelnen betroffenen Einwohnergemeinden verhältnismässig zu kürzen, wenn die Grenze gemäss Absatz 1 überschritten wird.
 
-<sup>3</sup> Der Stiftungsrat kann Akontozahlungen ausrichten.
-
-#### Art. 16
-
-**Selbstbehalt**
-
-<sup>1</sup> Pro Ereignis trägt jede betroffene Gemeinde einen Selbstbehalt, der das Siebenfache ihres einfachen Pauschalbeitrags, jedoch mindestens 5000 Franken beträgt.
-
-## 6 Rechtspflege
+<sup>3</sup> Der Stiftungsrat kann Akontozahlungen bewilligen.
 
 #### Art. 17
 
-**Rekurs**
+**Selbstbehalt**
 
-<sup>1</sup> Gegen Entscheide des Stiftungsrates kann die betroffene Gemeinde innert 30 Tagen Rekurs einlegen.
+<sup>1</sup> Pro Ereignis trägt jede betroffene Einwohnergemeinde einen Selbstbehalt, der das Fünffache ihres einfachen Pauschalbeitrags, jedoch mindestens 5000 Franken, beträgt.
 
-<sup>2</sup> Rekursinstanz bildet eine dreiköpfige Rekurskommission, die vom Regierungsrat gewählt wird.
+<sup>2</sup> Pro Kalenderjahr wird der Selbstbehalt nur einmal berechnet.
 
-<sup>3</sup> Die Rekursinstanz entscheidet kantonal letztinstanzlich.
-
-<sup>4</sup> Für das Verfahren ist das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^17-1] sinngemäss anwendbar.
-
-[^17-1]: BSG 155.21
-
-## 7 Übergangs- und Schlussbestimmungen
+## 6 Gesuchsverfahren
 
 #### Art. 18
 
-**Vorbezug**
+**Anmeldung und Einreichung**
 
-<sup>1</sup> Ein Bezug der Beitragspauschalen ist bereits ab dem Jahr 1999 möglich, sofern das Schadengeschehen dies notwendig macht.
+<sup>1</sup> Unmittelbar nach einem Ereignis melden die Einwohnergemeinden voraussichtliche Gesuche unter Nennung der geschätzten Beträge bei der Geschäftsstelle an.
+
+<sup>2</sup> Die definitiven Gesuche sind in der Regel bis sechs Monate nach dem Ereignis bei der Geschäftsstelle schriftlich einzureichen.
+
+<sup>3</sup> Die Gesuche enthalten
+
+- a eine kurze Beschreibung des Ereignisses,
+- b eine Auflistung der geltend gemachten Ausgaben unter Abzug zugesicherter oder bereits geleisteter Beiträge Dritter,
+- c sämtliche Belege,
+- d die Angaben einer Kontaktperson,
+- e eine Kontoverbindung der Einwohnergemeinde,
+- f die Unterschrift der unterschriftskompetenten Vertretung der Einwohnergemeinde.
+
+<sup>4</sup> Es können nur belegte Ausgaben geltend gemacht werden.
 
 #### Art. 19
 
+**Prüfung der Gesuche**
+
+<sup>1</sup> Die eingegangenen Gesuche werden durch die Geschäftsstelle im Auftrag des Ausschusses des Stiftungsrates geprüft und beurteilt.
+
+<sup>2</sup> Dazu hält diese bei Bedarf Rücksprache mit den Verantwortlichen der Einwohnergemeinde und kann Dritte beiziehen.
+
+#### Art. 20
+
+**Entscheid**
+
+<sup>1</sup> Der Entscheid des Stiftungsrates wird der gesuchstellenden Einwohnergemeinde bis spätestens zwölf Monate nach Einreichung des definitiven Gesuches eröffnet.
+
+<sup>2</sup> Bei Bedarf erläutert die Geschäftsstelle der gesuchstellenden Einwohnergemeinde den Entscheid zusätzlich mündlich.
+
+#### Art. 21
+
+**Auszahlung**
+
+<sup>1</sup> Nach Ablauf der Beschwerdefrist werden der gesuchstellenden Einwohnergemeinde die ihr zustehenden Versicherungsleistungen durch die Geschäftsstelle ausbezahlt.
+
+#### Art. 22
+
+**Verwirkung**
+
+<sup>1</sup> Versicherungsansprüche von Einwohnergemeinden, die nicht innert eines Jahres nach dem Schadenereignis geltend gemacht werden, sind verwirkt.
+
+## 7 Rechtspflege
+
+#### Art. 23
+
+<sup>1</sup> Gegen Entscheide des Stiftungsrates kann die betroffene Einwohnergemeinde innert 30 Tagen Beschwerde einlegen.
+
+<sup>2</sup> Der Regierungsrat wählt für eine Amtsdauer von vier Jahren eine Beschwerdekommission als Beschwerdeinstanz, die
+
+- a drei Mitglieder zählt,
+- b kantonal letztinstanzlich entscheidet.
+
+<sup>3</sup> Für das Verfahren ist das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^23-1] sinngemäss anwendbar.
+
+[^23-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
+
+## 8 Übergangs- und Schlussbestimmungen
+
+#### Art. 24
+
+**Übergangsrecht**
+
+<sup>1</sup> Für zum Zeitpunkt des Inkrafttretens dieser Verordnung hängige Gesuche sowie für Gesuche, die sich auf Ereignisse vor dem Inkrafttreten dieser Verordnung beziehen, gilt das bisherige Recht.
+
+#### Art. 25
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Verordnung vom 17. März 1999 über die Einsatzkostenversicherung der Gemeinden bei Katastrophen und in Notlagen (Einsatzkostenverordnung; EKV)[^25-1] wird aufgehoben.
+
+[^25-1]: BSG [521.14](https://www.belex.sites.be.ch/data/521.14/de)
+
+#### Art. 26
+
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. April 1999 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2026 in Kraft.
 
-<sup>2</sup> Sie ist in Anwendung von Art. 7 und 8 des Publikationsgesetzes vom 18. Januar 1993[^19-1] amtlich zu veröffentlichen (ausserordentliche Veröffentlichung).
-
-[^19-1]: BSG 103.1
-
-## A1 Anhang 1: Finanzierung (Art. 14)
+## A1 Anhang 1 zu Artikel 15 Absatz 1
 
 #### Art. A1-1
 
-<sup>1</sup> Jede Gemeinde leistet Beiträge an die Einsatzkostenversicherung in Form fester Pauschalen gemäss nachstehender Tabelle:
+<sup>1</sup> Jede Einwohnergemeinde leistet Beiträge an die Einsatzkostenversicherung in Form fester Pauschalen gemäss nachstehender Tabelle:
 
 <table>
-<tr><th>Einwohner</th><th>einfacher Pauschalbeitrag CHF</th></tr>
-<tr><td>&lt; 100</td><td>375</td></tr>
+<tr><th>Einwohnerinnen und Einwohner</th><th>einfacher Pauschalbeitrag CHF</th></tr>
+<tr><td>&lt;101</td><td>375</td></tr>
 <tr><td>101 – 250</td><td>750</td></tr>
 <tr><td>251 – 300</td><td>900</td></tr>
 <tr><td>301 – 400</td><td>1200</td></tr>
@@ -257,12 +376,12 @@ beschliesst:
 <tr><td>&gt;100'000</td><td>50'000</td></tr>
 </table>
 
-Bern, 17. März 1999
+Bern, 26. November 2025
 
 Im Namen des Regierungsrates
 
-Der Präsident: Annoni
+Der Präsident: Neuhaus
 
-Der Staatsschreiber: Nuspliger
+Der Staatsschreiber: Auer
 
-99-29
+25-106
