@@ -4,11 +4,11 @@ title: "Ordinanza del 9 novembre 2005 sulla sorveglianza delle imprese di assicu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: it
-version: 2024-09-01
+version: 2026-01-01
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/it"
 
 (Ordinanza sulla sorveglianza, OS)
 
-del 9 novembre 2005 (Stato 1° settembre 2024)
+del 9 novembre 2005 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2786,11 +2786,126 @@ Le indicazioni di cui al capoverso 2 devono essere determinate come segue:
 
 [^129c-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-#### Art. 129da 129l
+#### Art. 129d
 
-[^129d129l-1]
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: messa a disposizione**[^129d-1]
 
-[^129d129l-1]: Entrano in vigore il 1° gennaio 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)IV cpv. 2)*.*
+### (art. 39*f* LSA)
+
+<sup>1</sup> Il foglio informativo di base deve essere messo a disposizione degli stipulanti su un supporto durevole secondo l’articolo 14*c* capoverso 4 o su un sito Internet.
+
+<sup>2</sup>
+
+Se il foglio informativo di base è messo a disposizione su un sito Internet, l’impresa di assicurazione deve:
+
+- a. provvedere affinché il foglio informativo di base possa essere consultato, scaricato e registrato su un supporto durevole in qualsiasi momento;
+- b. comunicare agli stipulanti l’indirizzo del sito Internet e dove possono trovare le informazioni da consultare su questo sito.
+
+<sup>3</sup> Il foglio informativo di base deve essere messo a disposizione degli stipulanti in modo da lasciare loro tempo a sufficienza per comprendere le informazioni ivi contenute in vista della conclusione del contratto o della fornitura della prestazione assicurativa.
+
+[^129d-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129e
+
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: contenuto**[^129e-1]
+
+### (art. 39*f* LSA)
+
+<sup>1</sup> Il contenuto del foglio informativo di base deve adempiere i requisiti di cui all’allegato 4.
+
+<sup>2</sup> Sono fatti salvi i requisiti specifici per prodotto previsti da norme speciali.
+
+<sup>3</sup> La FINMA può emanare disposizioni di esecuzione, segnatamente per agevolare la comprensione del foglio informativo di base.
+
+[^129e-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129f
+
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: dimensioni, lingua e presentazione grafica**[^129f-1]
+
+### (art. 39*f* LSA)
+
+<sup>1</sup>
+
+Il foglio informativo di base deve essere redatto in una delle seguenti lingue:
+
+- a. una lingua ufficiale;
+- b. inglese; o
+- c. la lingua di corrispondenza degli stipulanti.
+
+<sup>2</sup> La presentazione grafica e le dimensioni del foglio informativo di base devono corrispondere al modello di cui all’allegato 4.
+
+[^129f-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129g
+
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: terzi qualificati alla redazione**[^129g-1]
+
+### (art. 39*b* cpv. 3 LSA)
+
+<sup>1</sup> Sono considerati terzi qualificati le persone che possono garantire di redigere adeguatamente il foglio informativo di base.
+
+<sup>2</sup> Spetta all’impresa di assicurazione verificare le qualifiche.
+
+[^129g-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129h
+
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: versione provvisoria**[^129h-1]
+
+### (art. 39*b* cpv. 4 LSA)
+
+Se il foglio informativo di base contiene indicazioni orientative, occorre segnalarlo agli stipulanti nel foglio informativo di base. Le indicazioni orientative devono essere riconoscibili come tali.
+
+[^129h-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129i
+
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: indicazioni su genere e caratteristiche**[^129i-1]
+
+### (art. 39*c* cpv. 2 lett. b LSA)
+
+L’impresa di assicurazione deve descrivere allo stipulante in un linguaggio comprensibile in particolare:
+
+- a. il processo di risparmio;
+- b. la copertura assicurativa;
+- c. la durata dell’assicurazione sulla vita qualificata.
+
+[^129i-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129j
+
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: indicazioni sui costi**[^129j-1]
+
+### (art. 39*c* cpv. 2 lett. d LSA)
+
+<sup>1</sup> Il foglio informativo di base contiene indicazioni sui costi unici e ricorrenti, inclusi i costi che insorgono alla conclusione e al riscatto dell’assicurazione sulla vita qualificata.
+
+<sup>2</sup> I costi che non possono essere definiti esattamente in anticipo o che possono essere definiti esattamente soltanto con un dispendio sproporzionato devono essere indicati approssimativamente o come intervallo di valori. Se neppure questo è possibile o lo è soltanto con un dispendio sproporzionato, occorre comunicarlo segnalando il rischio che lo stipulante debba pagare emolumenti o tasse supplementari oppure sostenere ulteriori costi.
+
+[^129j-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129k
+
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: verifica e adeguamento**[^129k-1]
+
+### (art. 39*e* LSA)
+
+Le indicazioni contenute nel foglio informativo di base devono essere verificate periodicamente, ma almeno una volta all’anno fintanto che è offerta l’assicurazione sulla vita qualificata.
+
+[^129k-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129l
+
+**Foglio informativo di base nell*’*assicurazione sulla vita qualificata: documenti esteri**[^129l-1]
+
+### (art. 39*b* cpv. 2 e 39*f* LSA)
+
+<sup>1</sup> I documenti redatti in virtù di una normativa estera che figurano nell’allegato 5 sono equivalenti al foglio informativo di base secondo l’articolo 39*b* capoverso 2 LSA e possono essere utilizzati in sua vece.
+
+<sup>2</sup> La messa a disposizione dei documenti è retta dall’articolo 129*d*.
+
+[^129l-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129m
 
@@ -4489,27 +4604,212 @@ Allegato 3[^t-3]
 
 Per un livello di probabilità *u* ∈ (0,1) il quantile *u* *q**<sub>u</sub>* *(X)* di una variabile aleatoria *X* (perdite di segno negativo) inferiore al grado di probabilità *P* è definito come
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/it/xml/image/image1.png)
 
 L’expected shortfall *ES**<sub>α</sub>* *[X]* di una variabile aleatoria *X* con un livello di probabilità che si verifichi l’evento *α* ∈ (0,1) (generalmente esiguo) è definita come
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/it/xml/image/image2.png)
 
 Se la distribuzione di *X* è continua, l’expected shortfall *ES**<sub>α</sub>* *[X]* è data dal valore atteso condizionato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/it/xml/image/image3.png)
 
 Allegato 4[^t-4]
 
 (art. 129*f*)
 
+## Foglio informativo di base nell’assicurazione sulla vita qualificata: dimensioni, lingua e presentazione grafica
+
 [^t-4]: Introdotto dal n. II cpv. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### 1. Prescrizioni formali
+
+- 1\.1 Nella versione stampata il foglio informativo di base non può superare la lunghezza massima complessiva di tre pagine di formato A4.
+- 1\.2 La dimensione dei caratteri deve essere tale da consentire una buona leggibilità.
+- 1\.3 I colori eventualmente utilizzati nel foglio informativo di base non devono pregiudicare la comprensibilità delle informazioni se il foglio viene stampato o fotocopiato in bianco e nero.
+- 1\.4 L’eventuale utilizzo del nome commerciale o del logo del produttore o del gruppo a cui appartiene non deve distrarre dalle informazioni contenute nel foglio informativo di base né occultarne il testo.
+- 1\.5 Il produttorei deve rispettare l’ordine e i titoli delle sezioni prescritti nel presente modello (n. 2).
+- 1\.6 Per l’ordine di successione delle indicazioni all’interno delle singole sezioni, la lunghezza delle sezioni e la disposizione delle interruzioni di pagina non sono previste prescrizioni.
+- 1\.7 Le indicazioni sui prodotti possono essere fornite anche sotto forma di tabella.
+
+### 2. Modello
+
+<table>
+<tr><th>Foglio informativo di base</th></tr>
+<tr><td>Scopo «Il presente foglio informativo di base mette a Sua<sup>1</sup> disposizione informazioni essenziali sulla presente assicurazione sulla vita qualificata (qui di seguito: il «prodotto»). Non si tratta di materiale pubblicitario. Le presenti informazioni sono prescritte dalla legge allo scopo di aiutarla a capire il genere, i rischi, i costi nonché gli utili e le perdite possibili legati a questo prodotto e a confrontarlo con altri prodotti.» *[**<sup>1</sup>**In alternativa alla forma pronominale, in tutto il foglio informativo di base è possibile utilizzare l’espressione «stipulante» o «assicurato».]*</td></tr>
+<tr><td>Prodotto **Prodotto:** *[nome dell’assicurazione sulla vita qualificata]* **Produttore:** *[nome, indirizzo, sito Internet e numero di telefono dell’impresa di* *assicurazione che ha prodotto l’assicurazione sulla vita qualificata]* **Autorità di vigilanza:** *[indicare se l’impresa di assicurazione che ha prodotto l’assicurazione sulla vita qualificata è sottoposta a una vigilanza prudenziale ed eventualmente il nome dell’autorità di vigilanza]*</td></tr>
+<tr><td>Approvazione o autorizzazione del prodotto *[Indicare se per l’assicurazione sulla vita qualificata vige un eventuale obbligo* *legale* *di approvazione o autorizzazione]*</td></tr>
+<tr><td>**Avvertenza:** «È in procinto di acquistare un prodotto complesso, che potrebbe essere difficile da capire.»</td></tr>
+<tr><td>Che genere di prodotto è? *[Fornire le indicazioni secondo il numero 3]*</td></tr>
+<tr><td>Quali sono i rischi e che cosa è possibile ottenere in cambio? *[Fornire le indicazioni secondo il numero 4]*</td></tr>
+<tr><td>Cosa accade se [*nome dell’impresa di assicurazione*] non è in grado di effettuare il pagamento? *[Indicare se lo stipulante può subire una perdita finanziaria a causa del fallimento dell’impresa di assicurazione che ha prodotto l’assicurazione sulla vita qualificata e, in caso affermativo, se è prevista una protezione degli investitori o una garanzia e se sussistono condizioni o limitazioni per tale protezione o garanzia.)*</td></tr>
+<tr><td>Quali sono i costi? *[Fornire le indicazioni* *secondo* *il numero 5]*</td></tr>
+<tr><td>È possibile sciogliere anticipatamente il contratto di assicurazione e ritirare il capitale anticipatamente? *[Fornire le indicazioni secondo il numero 6]*</td></tr>
+<tr><td>Come fare per presentare reclamo? *[Indicare le modalità con cui lo stipulante può presentare reclami relativi all’assicurazione sulla vita qualificata, alla condotta del produttore o della persona che fornisce consulenza o svolge attività di intermediazione sull’assicurazione sulla vita qualificata o la vende, nonché il luogo dove può inviare i reclami, inserendo (i) un link verso il sito web pertinente come pure (ii) un indirizzo postale e un* *indirizzo* *di posta elettronica aggiornati]*</td></tr>
+<tr><td>Altre indicazioni pertinenti *[Facoltative, in* *particolare**:* *–* *un rimando a* documenti *supplementari che contengono informazioni,* *–* – informazioni sull’imposizione dell’assicurazione sulla vita qualificata]</td></tr>
+</table>
+
+### 3. Indicazioni sul genere di prodotto
+
+### 3.0 In generale
+
+-
+
+  La sezione «Che genere di prodotto è?» contiene indicazioni su:
+
+  - a. genere e caratteristiche dell’assicurazione sulla vita qualificata (n. 3.1);
+  - b. prestazioni assicurate con l’assicurazione sulla vita qualificata (n. 3.2);
+  - c. processo di risparmio dell’assicurazione sulla vita qualificata (n. 3.3);
+  - d. facoltativo: destinatari e mercato a cui il prodotto è destinato (n. 3.4).
+
+### 3.1 Genere e caratteristiche
+
+-
+
+  Il foglio informativo di base contiene una descrizione:
+
+  - a. del genere dell’assicurazione sulla vita qualificata;
+  - b. delle caratteristiche dell’assicurazione sulla vita qualificata.
+
+### 3.2 Prestazioni assicurate
+
+-
+
+  Il foglio informativo di base contiene:
+
+  - a. informazioni rilevanti per lo stipulante in merito ai rischi assicurabili, per i quali né la prestazione né il premio dipende dall’andamento dello strumento finanziario;
+  - b. l’indicazione che per i rischi assicurabili, per i quali né la prestazione né il premio dipende dall’andamento dello strumento finanziario, si rimanda ai documenti contrattuali.
+
+### 3.3 Processo di risparmio
+
+- 3\.3.1
+
+  Il foglio informativo di base contiene le seguenti informazioni:
+
+  - a. descrizione del genere e delle caratteristiche degli strumenti finanziari sottostanti al processo di risparmio;
+  - b. informazione relativa al processo di risparmio o rimando ai documenti concernenti la configurazione del processo di risparmio;
+  - c. dichiarazioni concernenti le garanzie o le cauzioni nel processo di risparmio e informazioni sui garanti e i fornitori di protezione del capitale.
+
+- 3\.3.2 Se per uno strumento finanziario di cui all’articolo 3 lettera a LSerFi[^annex4-lvlu1-lvl3-lvl33-1] è disponibile un foglio informativo di base, è possibile farvi riferimento.
+
+[^annex4-lvlu1-lvl3-lvl33-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+### 3.4 Facoltativo: destinatari e mercato a cui il prodotto è destinato
+
+- Il foglio informativo di base può contenere una descrizione degli stipulanti cui si intende offrire l’assicurazione sulla vita qualificata, in particolare per quanto riguarda l’obiettivo di risparmio e la capacità di sostenere le perdite nel processo di risparmio nonché la durata contrattuale dell’assicurazione sulla vita qualificata.
+
+### 4. Indicazioni sul profilo di rischio del processo di risparmio
+
+-
+
+  La sezione «Quali sono i rischi e che cosa è possibile ottenere in cambio?» contiene:
+
+  - a. una descrizione generica del profilo di rischio (n. 4.1) o un indicatore di rischio (n. 4.2);
+  - b. l’indicazione della perdita massima e un rimando a scenari di performance (n. 4.3).
+
+### 4.1 Descrizione generica del profilo di rischio
+
+- 4\.1.1
+
+  Se il profilo di rischio è descritto in modo generico, bisogna tenere conto di rischi tipici del prodotto come:
+
+  - a. il rischio connesso all’emittente;
+  - b. il rischio di mercato;
+  - c. il rischio di liquidità;
+  - d. il rischio di cambio;
+  - e. il rischio di disdetta e di reinvestimento.
+
+- 4\.1.2 Se per uno strumento finanziario di cui all’articolo 3 lettera a LSerFi è disponibile un foglio informativo di base, è possibile farvi riferimento.
+
+### 4.2 Indicatore di rischio
+
+-
+
+  Se si utilizza un indicatore di rischio:
+
+  - a. il suo calcolo e la sua presentazione devono essere effettuati sulla base delle pertinenti disposizioni di un ordinamento giuridico contenente norme relative a documenti che sono equivalenti al foglio informativo di base secondo l’articolo 129*l*;
+  - b. occorre indicare l’ordinamento giuridico in virtù del quale è calcolato e presentato l’indicatore di rischio.
+
+### 4.3 Indicazione della perdita massima e rimando a scenari di performance
+
+- 4\.3.1 Agli stipulanti occorre spiegare in modo facilmente comprensibile qual è la perdita massima che possono subire se investono nell’assicurazione sulla vita qualificata ed, eventualmente, qual è il rendimento massimo che possono ottenere.
+- 4\.3.2 Occorre avvertire gli stipulanti di quanto segue: «L’evoluzione del valore di questa assicurazione sulla vita qualificata dipende dall’evoluzione del valore degli investimenti scelti o sottostanti. La somma che riceverà effettivamente dipende dall’evoluzione del mercato e dalla durata della detenzione del prodotto. Per le simulazioni delle performance si rimanda alle informazioni specifiche per l’assicurazione sulla vita qualificata.»
+
+### 5. Indicazioni sui costi del prodotto
+
+-
+
+  La sezione «Quali sono i costi?» contiene indicazioni su:
+
+  - a. costi complessivi (n. 5.1);
+  - b. composizione dei costi complessivi (n. 5.2).
+
+### 5.1 Costi complessivi
+
+- 5\.1.1
+
+  I costi complessivi dell’assicurazione sulla vita qualificata comprendono tutti i costi, gli emolumenti (incluse le spese del fondo), i tributi e le deduzioni dal punto di vista dello stipulante. Devono essere indicati nella seguente forma:
+
+  - a. un rendimento lordo; se non può essere definito esattamente in anticipo o può essere definito esattamente soltanto con un dispendio sproporzionato, occorre presupporre un valore per approssimazione o valori di massima;
+  - b. la riduzione del rendimento in percentuale per tutti i costi, eccetto i costi di rischio;
+  - c. i costi di rischio in termini nominali.
+
+- 5\.1.2
+
+  Per consentire il confronto con altre assicurazioni sulla vita qualificate, occorre ipotizzare:
+
+  - a. per le assicurazioni sulla vita qualificate finanziate periodicamente, una durata di 15 anni e una durata di 30 anni per una donna che alla scadenza raggiunge l’età di pensionamento legale senza ulteriori caratteristiche che aumentano il rischio;
+  - b. per le assicurazioni sulla vita qualificate finanziate con un versamento unico, una durata di 10 anni e una durata di 20 anni per una donna che alla scadenza raggiunge l’età di pensionamento legale senza ulteriori caratteristiche che aumentano il rischio;
+  - c. per le assicurazioni di rendita vitalizia e di rendita a termine sotto forma di assicurazioni sulla vita qualificate, una donna che come età d’ingresso in assicurazione ha l’età di pensionamento legale e una durata di 20 anni;
+  - d. per le assicurazioni di rendita vitalizia e di rendita a termine differita sotto forma di assicurazioni sulla vita qualificate, una donna che come età d’ingresso in assicurazione ha l’età di pensionamento legale meno cinque anni come periodo di differimento e per le rendite a termine differite una durata di 20 anni;
+  - e. per un’assicurazione sulla vita qualificata finanziata periodicamente, un premio assicurativo annuo di 3000 franchi; per un’assicurazione sulla vita qualificata non finanziata periodicamente, un versamento unico di 60 000 franchi; se l’assicurazione sulla vita qualificata non è denominata in franchi svizzeri, occorre utilizzare un importo di valore corrispondente, divisibile esattamente per 1000.
+
+- 5\.1.3 I costi complessivi possono essere presentati, come nell’esempio seguente, sotto forma di tabella:
+
+<table>
+<tr><th colspan="4">assicurativo fr. 3000 l’anno [o «versamento unico di fr Premio. 60 000»]</th></tr>
+<tr><td>Scenari</td><td>Scioglimento del contratto dopo [1] anno</td><td>Scioglimento del contratto nella seconda metà della durata contrattuale</td><td>Scioglimento del contratto alla scadenza della durata contrattuale prevista</td></tr>
+<tr><td>Riduzione del rendimento (RIY) per anno</td><td>[■] %</td><td>[■] %</td><td>[■] %</td></tr>
+<tr><td>Costi di rischio</td><td>fr. [■]</td><td>fr. [■]</td><td>fr. [■]</td></tr>
+</table>
+
+- 5\.1.4 La «riduzione del rendimento lordo» (Reduction in Yield, RIY) mostra l’effetto dei costi pagati sul rendimento nel processo di risparmio. I premi per il rischio assicurato non sono compresi nella RIY e figurano separatamente come somma in denaro sotto il titolo «Costi di rischio».
+- 5\.1.5 Gli importi esposti corrispondono ai costi aggregati in caso di tre diverse durate di detenzione. Gli importi indicati si basano sull’ipotesi che Lei investa ogni anno 3000 franchi o «60 000 franchi» in un versamento unico. Gli importi sono stimati e possono cambiare in futuro.
+
+### 5.2 Composizione dei costi complessivi
+
+- 5\.2.1 I costi complessivi si compongono dei costi unici e dei costi ricorrenti.
+- 5\.2.2 I costi unici senza costi di rischio sono presentati come riduzione del rendimento. Vi rientrano segnatamente i costi di ingresso e di uscita, le spese d’acquisizione una tantum, incluse le spese di distribuzione e gli altri costi unici.
+- 5\.2.3 I costi ricorrenti senza costi di rischio sono presentati come riduzione del rendimento. Vi rientrano segnatamente le spese del fondo, i costi di transazione sul portafoglio, le commissioni di performance nonché le spese amministrative addebitate nel corso della durata, le spese d’acquisizione ricorrenti (incluse le spese di distribuzione) e gli altri costi ricorrenti.
+- 5\.2.4 I costi di rischio sono esposti separatamente in termini nominali.
+- 5\.2.5 Occorre indicare chiaramente che si tratta sempre di costi aggregati. Se si tratta di costi variabili, ciò deve risultare dalle indicazioni fornite.
+- 5\.2.6 Per consentire il confronto con altre assicurazioni sulla vita qualificate, occorre basarsi sulle ipotesi di cui al numero 5.1.2 lettere a–e.
+- 5\.2.7 La composizione dei costi può essere presentata sotto forma di tabella. In tal caso la tabella deve essere strutturata come segue:
+
+<table>
+<tr><th colspan="4">La seguente tabella mostra l’effetto dei diversi tipi di costi sul prodotto assicurativo</th></tr>
+<tr><td>Costi unici senza costi di rischio</td><td>Costi di ingresso</td><td>[■] %</td><td>Da indicare per singolo prodotto</td></tr>
+<tr><td></td><td>Costi di uscita</td><td>[■] %</td><td>Da indicare per singolo prodotto</td></tr>
+<tr><td>Costi ricorrenti senza costi di rischio</td><td>Costi di transazione sul portafoglio</td><td>[■] %</td><td>Da indicare per singolo prodotto</td></tr>
+<tr><td></td><td>Altri costi ricorrenti</td><td>[■] %</td><td>Da indicare per singolo prodotto</td></tr>
+<tr><td>Da ciò risulta la riduzione annua del rendimento</td><td></td><td>[■] %</td><td>Totale</td></tr>
+<tr><td>A cui si aggiungono i costi di rischio pari a</td><td></td><td>fr. [■]</td><td>Da indicare per singolo prodotto</td></tr>
+</table>
+
+### 6. Indicazioni sullo scioglimento anticipato del contratto di assicurazione
+
+- a. La sezione «È possibile sciogliere anticipatamente il contratto di assicurazione e ritirare il capitale anticipatamente?» contiene indicazioni in merito alle conseguenze di uno scioglimento anticipato del contratto.
+- b. Occorre avvertire gli stipulanti di quanto segue: «Può revocare il Suo contratto di assicurazione entro 14 giorni. Ulteriori informazioni in merito al diritto di revoca e allo scioglimento anticipato sono contenute nei documenti contrattuali. In caso di scioglimento anticipato prima della scadenza del contratto possono insorgere costi a Suo carico.»
 
 Allegato 5[^t-5]
 
 (art. 129*l*)
 
+## Foglio informativo di base nell’assicurazione sulla vita qualificata: documenti esteri equivalenti
+
 [^t-5]: Introdotto dal n. II cpv. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+L’allegato attualmente non contiene voci.
 
 Allegato 6[^t-6]
 

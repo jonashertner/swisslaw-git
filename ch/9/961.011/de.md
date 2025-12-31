@@ -4,11 +4,11 @@ title: "Verordnung vom 9. November 2005 über die Beaufsichtigung von privaten V
 short: AVO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: de
-version: 2024-09-01
+version: 2026-01-01
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/de"
 
 (Aufsichtsverordnung, AVO)
 
-vom 9. November 2005 (Stand am 1. September 2024)
+vom 9. November 2005 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2780,11 +2780,126 @@ Die Angaben in Absatz 2 müssen wie folgt bestimmt werden:
 
 [^129c-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-#### Art. 129d–129l
+#### Art. 129d
 
-[^129d129l-1]
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Bereitstellung**[^129d-1]
 
-[^129d129l-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+### (Art. 39*f* VAG)
+
+<sup>1</sup> Das Basisinformationsblatt ist den Versicherungsnehmerinnen und -nehmern auf einem dauerhaften Datenträger nach Artikel 14*c* Absatz 4 oder über eine Website zur Verfügung zu stellen.
+
+<sup>2</sup>
+
+Wird es über eine Website zur Verfügung gestellt, so muss das Versicherungsunternehmen:
+
+- a. dafür sorgen, dass das Basisinformationsblatt jederzeit abgefragt, heruntergeladen und auf einem dauerhaften Datenträger erfasst werden kann;
+- b. den Versicherungsnehmerinnen und -nehmern die Adresse der Website und die Stelle, bekanntgeben, an der die Informationen auf dieser Website eingesehen werden können.
+
+<sup>3</sup> Das Basisinformationsblatt ist den Versicherungsnehmerinnen und -nehmern so bereitzustellen, dass ihnen genügend Zeit bleibt, um die darin enthaltenen Informationen mit Blick auf den Vertragsschluss oder auf die Erbringung der Versicherungsdienstleistung zu verstehen.
+
+[^129d-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129e
+
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Inhalt**[^129e-1]
+
+### (Art. 39*f* VAG)
+
+<sup>1</sup> Der Inhalt des Basisinformationsblatts muss den Anforderungen nach Anhang 4 entsprechen.
+
+<sup>2</sup> Spezialrechtliche produktspezifische Anforderungen bleiben vorbehalten.
+
+<sup>3</sup> Die FINMA kann Ausführungsbestimmungen erlassen, namentlich zur Verständlichkeit des Basisinformationsblatts.
+
+[^129e-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129f
+
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Umfang, Sprache und Gestaltung**[^129f-1]
+
+### (Art. 39*f* VAG)
+
+<sup>1</sup>
+
+Das Basisinformationsblatt muss in einer der folgenden Sprachen erstellt werden:
+
+- a. eine Amtssprache;
+- b. Englisch;
+- c. die Korrespondenzsprache der Versicherungsnehmerinnen und -nehmer.
+
+<sup>2</sup> Die Gestaltung und der Umfang des Basisinformationsblatts müssen der Mustervorlage nach Anhang 4 entsprechen.
+
+[^129f-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129g
+
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Für die Erstellung qualifizierte Dritte**[^129g-1]
+
+### (Art. 39*b* Abs. 3 VAG)
+
+<sup>1</sup> Als qualifizierte Dritte gelten Personen, die eine fachgerechte Erstellung des Basisinformationsblatts gewährleisten können.
+
+<sup>2</sup> Die Prüfung der Qualifikation obliegt dem Versicherungsunternehmen.
+
+[^129g-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129h
+
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Vorläufige Fassung**[^129h-1]
+
+### (Art. 39*b* Abs. 4 VAG)
+
+Enthält ein Basisinformationsblatt indikative Angaben, so müssen die Versicherungsnehmerinnen und -nehmer im Basisinformationsblatt darauf hingewiesen werden. Die indikativen Angaben müssen als solche erkennbar sein.
+
+[^129h-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129i
+
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Angaben zu Art und Merkmalen**[^129i-1]
+
+### (Art. 39*c* Abs. 2 Bst. b VAG)
+
+Das Versicherungsunternehmen muss der Versicherungsnehmerin und dem Versicherungsnehmer insbesondere Folgendes in verständlicher Sprache beschreiben:
+
+- a. den Sparprozess;
+- b. die Versicherungsdeckung;
+- c. die Laufzeit der qualifizierten Lebensversicherung.
+
+[^129i-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129j
+
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Angaben zu den Kosten**[^129j-1]
+
+### (Art. 39*c* Abs. 2 Bst. d VAG)
+
+<sup>1</sup> Das Basisinformationsblatt enthält Angaben zu den einmaligen und laufenden Kosten einschliesslich der Kosten, die beim Abschluss und Rückkauf der qualifizierten Lebensversicherung entstehen.
+
+<sup>2</sup> Nicht im Voraus oder nur mit unverhältnismässigem Aufwand genau zu bestimmende Kosten sind annäherungsweise oder in Bandbreiten anzugeben. Ist auch dies nicht oder nur mit unverhältnismässigem Aufwand möglich, so ist dies offenzulegen und es ist auf das Risiko zusätzlicher Gebühren, Steuern oder weiterer Kosten hinzuweisen.
+
+[^129j-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129k
+
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Überprüfung und Anpassung**[^129k-1]
+
+### (Art. 39*e* VAG)
+
+Die im Basisinformationsblatt enthaltenen Angaben sind regelmässig, mindestens aber einmal pro Jahr, zu überprüfen, solange die qualifizierte Lebensversicherung angeboten wird.
+
+[^129k-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129l
+
+**Basisinformationsblatt in der qualifizierten Lebensversicherung: Ausländische Dokumente**[^129l-1]
+
+### (Art. 39*b* Abs. 2 und Art. 39*f* VAG)
+
+<sup>1</sup> Die Dokumente nach ausländischem Recht, die in Anhang 5 aufgeführt sind, sind dem Basisinformationsblatt nach Artikel 39*b* Absatz 2 VAG gleichwertig und können an dessen Stelle verwendet werden.
+
+<sup>2</sup> Die Bereitstellung der Dokumente richtet sich nach Artikel 129*d*.
+
+[^129l-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129m
 
@@ -4483,27 +4598,212 @@ Anhang 3[^t-3]
 
 Für eine Eintrittswahrscheinlichkeit *u* ∈ (0,1) ist das *u*-Quantil *q**<sub>u</sub>* *(X)* einer Zufallsvariablen *X* (Verluste mit negativem Vorzeichen) unter dem Wahrscheinlichkeitsmass *P* definiert als
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/de/xml/image/image1.png)
 
 Der Expected Shortfall *ES**<sub>α</sub>* *[X]* einer Zufallsvariablen *X* bei einer Eintrittswahrscheinlichkeit *α* ∈ (0,1) (typischerweise klein) ist definiert als
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/de/xml/image/image2.png)
 
 Falls die Verteilung von *X* stetig ist, so ist der Expected Shortfall *ES**<sub>α</sub>* *[X]* gegeben durch den bedingten Erwartungswert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/de/xml/image/image3.png)
 
 Anhang 4[^t-4]
 
 (Art. 129*f*)
 
+## Basisinformationsblatt in der qualifizierten Lebensversicherung: Umfang, Sprache und Gestaltung
+
 [^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### 1. Formvorgaben
+
+- 1\.1 Das Basisinformationsblatt darf in der gedruckten Version insgesamt nicht mehr als drei DIN-A4-Seiten umfassen.
+- 1\.2 Es müssen Buchstaben in gut lesbarer Grösse verwendet werden.
+- 1\.3 Wenn im Basisinformationsblatt Farben verwendet werden, darf die Verständlichkeit der Informationen nicht beeinträchtigt sein, falls das Blatt in Schwarz und Weiss ausgedruckt oder fotokopiert wird.
+- 1\.4 Wird die Unternehmensmarke oder das Logo der Erstellerin oder des Erstellers oder der Gruppe, zu der sie oder er gehört, verwendet, darf sie beziehungsweise es weder von den im Basisinformationsblatt enthaltenen Informationen ablenken noch den Text verschleiern.
+- 1\.5 Erstellerinnen und Ersteller müssen sich an die Reihenfolge und Überschriften der Abschnitte halten, wie sie in der Mustervorlage (Ziff. 2) vorgegeben werden.
+- 1\.6 In Bezug auf die Reihenfolge der Angaben innerhalb der einzelnen Abschnitte, die Länge der einzelnen Abschnitte und die Anordnung der Seitenumbrüche bestehen keine Vorgaben.
+- 1\.7 Produktangaben können auch in tabellarischer Form vorgenommen werden.
+
+### 2. Mustervorlage
+
+<table>
+<tr><th>Basisinformationsblatt</th></tr>
+<tr><td>Zweck «Dieses Basisinformationsblatt stellt Ihnen wesentliche Informationen über diese qualifizierte Lebensversicherung (das «Produkt») zur Verfügung. Es handelt sich nicht um Werbematerial. Diese Informationen sind gesetzlich vorgeschrieben, um Ihnen dabei zu helfen, die Art, das Risiko, die Kosten sowie die möglichen Gewinne und Verluste dieses Produkts zu verstehen, und Ihnen dabei zu helfen, es mit anderen Produkten zu vergleichen.» *[Alternativ können im gesamten Basisinformationsblatt statt «Ihnen» auch die* *Bezeichnungen* *«Versicherungsnehmerin und Versicherungsnehmer» oder* *«Versicherte» verwendet werden.]*</td></tr>
+<tr><td>Produkt **Produkt:** *[Name der qualifizierten Lebensversicherung, der vom Ersteller vergeben wurde]* **Ersteller:** *[Name, Adresse, Website und Telefonnummer des Versicherungsunternehmens, welches die qualifizierte Lebensversicherung erstellt hat.]* **Aufsichtsbehörde:** *[Hinweis darauf, ob das Versicherungsunternehmen, welches die qualifizierte Lebensversicherung erstellt hat, einer prudenziellen Aufsicht* *untersteht* *oder nicht und gegebenenfalls Angabe der Aufsichtsbehörde.]*</td></tr>
+<tr><td>Produktgenehmigung oder -bewilligung *[Hinweis auf eine allfällige gesetzliche Genehmigungs- oder Bewilligungspflicht für die qualifizierte* *Lebensversicherung**.]*</td></tr>
+<tr><td>**Warnhinweis**: «Sie sind im Begriff, ein Produkt zu erwerben, das nicht einfach ist und schwer zu verstehen sein kann.»</td></tr>
+<tr><td>Um welche Art von Produkt handelt es sich? *[Angaben gemäss Ziffer 3]*</td></tr>
+<tr><td>Welche Risiken bestehen und was könnte ich im Gegenzug dafür bekommen? *[**Angaben* *gemäss Ziffer 4]*</td></tr>
+<tr><td>Was geschieht, wenn *[Name des Versicherungsunternehmens*] nicht in der Lage ist, die Auszahlung vorzunehmen? *[Angabe, ob die Versicherungsnehmerin oder der Versicherungsnehmer aufgrund des Ausfalls des Versicherungsunternehmens, welches die qualifizierte Lebensversicherung erstellt hat, einen finanziellen Verlust erleiden kann, und, falls ja, ob ein Anlegerschutz oder* **eine** *Sicherheit vorhanden ist, sowie die Bedingungen und Einschränkungen des Anlegerschutzes oder der Sicherheit)*</td></tr>
+<tr><td>Welche Kosten entstehen? *[Angaben gemäss Ziffer 5]*</td></tr>
+<tr><td>Kann ich den Versicherungsvertrag vorzeitig auflösen und kann ich vorzeitig Geld entnehmen? *[Angaben gemäss Ziffer 6]*</td></tr>
+<tr><td>Wie kann ich mich beschweren? *[Hinweis darauf, wie und wo sich die Versicherungsnehmerin oder der Versicherungsnehmer über die qualifizierte Lebensversicherung oder über das Verhalten des Erstellers oder der Person, die zu der qualifizierten Lebensversicherung berät oder sie vermittelt oder verkauft, beschweren kann, unter Aufnahme (i) eines Links zur entsprechenden Website für solche Beschwerden und (ii) einer aktuellen Adresse und einer E-Mail-Adresse, unter der solche Beschwerden eingereicht werden können.]*</td></tr>
+<tr><td>Sonstige zweckdienliche Angaben *Optional, insbesondere:* – ein Verweis auf zusätzliche Unterlagen, welche Informationen enthalten – – Informationen zur Besteuerung der qualifizierten Lebensversicherung</td></tr>
+</table>
+
+### 3. Angaben zur Art des Produkts
+
+### 3.0 Allgemeines
+
+-
+
+  Der Abschnitt «Um welche Art von Produkt handelt es sich?» enthält:
+
+  - a. Angaben zur Art und zu den Eigenschaften der qualifizierten Lebensversicherung (Ziff. 3.1);
+  - b. Angaben zu den mit der qualifizierten Lebensversicherung versicherten Leistungen (Ziff. 3.2);
+  - c. Angaben zum Sparprozess der qualifizierten Lebensversicherung (Ziff. 3.3);
+  - d. Optional: Angaben zur Zielgruppe und zum Zielmarkt (Ziff. 3.4)
+
+### 3.1 Art und Eigenschaften
+
+-
+
+  Das Basisinformationsblatt enthält einen Beschrieb:
+
+  - a. der Art der qualifizierten Lebensversicherung;
+  - b. der Eigenschaften der qualifizierten Lebensversicherung.
+
+### 3.2 Versicherte Leistungen
+
+-
+
+  Das Basisinformationsblatt enthält:
+
+  - a. die für die Versicherungsnehmerin oder den Versicherungsnehmer wesentlichen Informationen zu den versicherbaren Risiken, bei denen die Leistung oder die Prämie von der Entwicklung des Finanzinstruments abhängig ist;
+  - b. einen Hinweis, dass für versicherbare Risiken, bei denen weder Leistung noch Prämie von der Entwicklung des Finanzinstruments abhängig sind, auf die Vertragsunterlagen verwiesen wird.
+
+### 3.3 Sparprozess
+
+- 3\.3.1
+
+  Das Basisinformationsblatt enthält folgende Informationen:
+
+  - a. Beschreibung der Art und Merkmale der Finanzinstrumente, welche dem Sparprozess zugrunde liegen;
+  - b. Information zum Sparprozess beziehungsweise einen Verweis auf Dokumente zur Ausgestaltung des Sparprozesses;
+  - c. Aussagen über Garantien oder Sicherheiten im Sparprozess und Information über Garantieträgerinnen und -träger oder Kapitalschutzgeberinnen und -geber.
+
+- 3\.3.2 Sofern für ein Finanzinstrument nach Artikel 3 Buchstabe a FIDLEG[^annex4-lvlu1-lvl3-lvl33-1] ein Basisinformationsblatt zur Verfügung steht, kann auf dieses verwiesen werden.
+
+[^annex4-lvlu1-lvl3-lvl33-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+### 3.4 Optional: Zielgruppe und Zielmarkt
+
+- Das Basisinformationsblatt kann eine Beschreibung der Versicherungsnehmerinnen und -nehmer enthalten, denen die qualifizierte Lebensversicherung angeboten werden soll, insbesondere was das Sparziel und die Fähigkeit im Sparprozess Verluste zu verkraften und die Vertragslaufzeit der qualifizierten Lebensversicherung betrifft.
+
+### 4 Angaben zum Risikoprofil des Sparprozesses
+
+-
+
+  Der Abschnitt «Welche Risiken bestehen und was könnte ich im Gegenzug dafür bekommen?» enthält:
+
+  - a. eine generische Umschreibung des Risikoprofils (Ziff. 4.1) oder einen Risikoindikator (Ziff. 4.2);
+  - b. Angabe des maximalen Verlusts und Verweis auf Performanceszenarien (Ziff. 4.3).
+
+### 4.1 Generische Umschreibung des Risikoprofils
+
+- 4\.1.1
+
+  Sofern das Risikoprofil generisch umschrieben wird, sind typische Produktrisiken zu berücksichtigen, wie:
+
+  - a. das Emittentenrisiko;
+  - b. das Marktrisiko;
+  - c. das Liquiditätsrisiko;
+  - d. das Fremdwährungsrisiko;
+  - e. das Kündigungs- und Wiederanlagerisiko.
+
+- 4\.1.2 Sofern für ein Finanzinstrument nach Artikel 3 Buchstabe a FIDLEG ein Basisinformationsblatt zur Verfügung steht, kann auf dieses verwiesen werden.
+
+### 4.2 Risikoindikator
+
+-
+
+  Wird ein Risikoindikator aufgenommen, so muss:
+
+  - a. dessen Berechnung und Darstellung auf der Basis von entsprechenden Vorgaben einer Rechtsordnung erfolgen, welche Vorschriften für dem Basisinformationsblatt nach Artikel 129*l* gleichwertige Dokumente kennt;
+  - b. angegeben werden, nach welcher Rechtsordnung er berechnet und dargestellt wird.
+
+### 4.3 Angabe des maximalen Verlusts und Verweis auf Performanceszenarien
+
+- 4\.3.1 Den Versicherungsnehmerinnen und -nehmern ist in leicht verständlicher Sprache darzulegen, welches der maximale Verlust ist, den sie bei einer Investition in die qualifizierte Lebensversicherung erleiden und, gegebenenfalls, welche maximale Rendite sie erzielen können.
+- 4\.3.2 Für Versicherungsnehmerinnen und -nehmer ist folgender Hinweis anzubringen: «Die Wertentwicklung dieser qualifizierten Lebensversicherung hängt von der Wertentwicklung der ausgewählten oder zugrundeliegenden Anlagen ab. Wie viel Sie tatsächlich erhalten, hängt davon ab, wie sich der Markt entwickelt und wie lange Sie das Produkt halten. Für Performancesimulationen wird auf die produktespezifische Information zur qualifizierten Lebensversicherung verwiesen.»
+
+### 5. Angaben zu den Kosten des Produkts
+
+-
+
+  Der Abschnitt «Welche Kosten entstehen?» enthält Angaben über:
+
+  - a. die Gesamtkosten (Ziff. 5.1);
+  - b. die Zusammensetzung der Gesamtkosten (Ziff. 5.2).
+
+### 5.1 Gesamtkosten
+
+- 5\.1.1
+
+  Die Gesamtkosten der qualifizierten Lebensversicherung umfassen alle Kosten, Gebühren (einschliesslich der Fondskosten), Abgaben und Abzüge aus Sicht der Versicherungsnehmerin oder des Versicherungsnehmers. Sie sind auszuweisen in der Form:
+
+  - a. einer Bruttorendite; kann diese nicht im Voraus oder nur mit unverhältnismässigem Aufwand genau bestimmt werden, ist von einem Annäherungswert oder einer Bandbreite auszugehen;
+  - b. der Renditeminderung in Prozent für alle Kosten ausser den Risikokosten;
+  - c. der Risikokosten in nominaler Form.
+
+- 5\.1.2
+
+  Um eine Vergleichbarkeit mit anderen qualifizierten Lebensversicherungen zu ermöglichen, ist auszugehen:
+
+  - a. bei periodisch finanzierten qualifizierten Lebensversicherungen: von einer Laufzeit von 15 und von einer Laufzeit von 30 Jahren für eine Frau mit gesetzlichem Rentenalter bei Fälligkeit ohne zusätzliche risikoerhöhende Merkmale;
+  - b. bei durch Einmaleinlage finanzierten qualifizierten Lebensversicherungen: von einer Laufzeit von zehn Jahren und von einer Laufzeit von 20 Jahren für eine Frau mit gesetzlichem Rentenalter bei Fälligkeit ohne zusätzliche risikoerhöhende Merkmale;
+  - c. für Leib- und Zeitrentenversicherungen in Form von qualifizierten Lebensversicherungen mit sofortigem Beginn: von einer Frau mit gesetzlichem Rentenalter als Eintrittsalter und von einer Laufzeit von 20 Jahren;
+  - d. für aufgeschobene Leib- und Zeitrentenversicherungen in Form von qualifizierten Lebensversicherungen: von einer Frau mit gesetzlichem Rentenalter minus fünf Jahre Aufschubzeit als Eintrittsalter und bei aufgeschobenen Zeitrenten von einer Laufzeit von 20 Jahren;
+  - e. bei einer periodisch finanzierten qualifizierten Lebensversicherung: von einer jährlichen Versicherungsprämie von 3000 Franken; bei einer nicht periodisch finanzierten qualifizierten Lebensversicherung: von einer Einmaleinlage von 60 000 Franken; lautet die qualifizierte Lebensversicherung nicht auf Schweizerfranken, so ist ein Betrag in ähnlicher Grössenordnung zu verwenden, der durch 1000 teilbar ist.
+
+- 5\.1.3 Die Gesamtkosten können wie im folgenden Beispiel tabellarisch dargestellt werden:
+
+<table>
+<tr><th colspan="4">Versicherungsprämie CHF 3000 pro Jahr [bzw. «Einmaleinlage CHF 60 000.–»]</th></tr>
+<tr><td>Szenarien</td><td>Wenn Sie den Vertrag nach [1] Jahr auflösen</td><td>Wenn Sie den Vertrag nach der Hälfte der Vertragslaufzeit auflösen</td><td>Bis Ende der vorgesehenen Vertragslaufzeit</td></tr>
+<tr><td>Renditeminderung (RIY) pro Jahr</td><td>[■] Prozent</td><td>[■] Prozent</td><td>[■] Prozent</td></tr>
+<tr><td>Risikokosten</td><td>CHF [■]</td><td>CHF [■]</td><td>CHF [■]</td></tr>
+</table>
+
+- 5\.1.4 Die «Renditeminderung der Bruttorendite» (Reduction in Yield, RIY) zeigt, wie sich die von Ihnen gezahlten Kosten auf die Rendite im Sparprozess auswirken. Die Prämien für das versicherte Risiko sind in der RIY nicht erfasst. Sie werden separat als Geldbetrag unter dem Titel «Risikokosten» ausgewiesen.
+- 5\.1.5 Die ausgewiesenen Beträge entsprechen den kumulierten Kosten bei drei verschiedenen Haltedauern. Bei den angegebenen Zahlen wird davon ausgegangen, dass Sie jährlich 3000 Franken, beziehungsweise einmalig 60 000 Franken, investieren. Die Zahlen sind Schätzungen und können in der Zukunft anders ausfallen.
+
+### 5.2 Zusammensetzung der Gesamtkosten
+
+- 5\.2.1 Die Gesamtkosten setzen sich zusammen aus den einmaligen Kosten und den laufenden Kosten.
+- 5\.2.2 Einmalige Kosten ohne Risikokosten werden als Renditeminderung dargestellt. Dazu gehören namentlich Ein- und Ausstiegskosten, einmalige Abschlusskosten einschliesslich Vertriebskosten und einmalige übrige Kosten.
+- 5\.2.3 Laufende Kosten ohne Risikokosten werden als Renditeminderung dargestellt. Dazu gehören namentlich Fondskosten, Portfolio-Transaktionskosten, Performance-Gebühren sowie über die Laufzeit belastete Verwaltungskosten, laufende Abschlusskosten (inkl. Vertriebskosten) und laufende übrige Kosten.
+- 5\.2.4 Risikokosten werden separat in nominaler Form ausgewiesen.
+- 5\.2.5 Es ist klarzustellen, dass es sich um die jeweiligen aggregierten Kosten handelt. Falls es sich um variable Kosten handelt, muss dies aus den Angaben hervorgehen.
+- 5\.2.6 Um die Vergleichbarkeit mit anderen qualifizierten Lebensversicherungen zu ermöglichen, ist von den Annahmen nach Ziffer 5.1.2 Buchstaben a–e auszugehen.
+- 5\.2.7 Die Zusammenstellung der Kosten kann in einer Tabelle dargestellt werden. In diesem Fall ist die Tabelle wie folgt auszugestalten:
+
+<table>
+<tr><th colspan="4">Diese Tabelle zeigt Ihnen die Auswirkungen der verschiedenen Arten von Kosten auf das Versicherungsprodukt</th></tr>
+<tr><td>Einmalige Kosten ohne Risikokosten</td><td>Einstiegskosten</td><td>[■] Prozent</td><td>Produktindividuell anzugeben</td></tr>
+<tr><td></td><td>Ausstiegskosten</td><td>[■] Prozent</td><td>Produktindividuell anzugeben</td></tr>
+<tr><td>Laufende Kosten ohne Risikokosten</td><td>Portfolio-Transaktionskosten</td><td>[■] Prozent</td><td>Produktindividuell anzugeben</td></tr>
+<tr><td></td><td>Sonstige laufende Kosten</td><td>[■] Prozent</td><td>Produktindividuell anzugeben</td></tr>
+<tr><td>Dies ergibt die Renditeminderung pro Jahr</td><td></td><td>[■] Prozent</td><td>Summe</td></tr>
+<tr><td>Hinzu kommen Risikokosten in der Höhe von</td><td></td><td>CHF [■]</td><td>Produktindividuell anzugeben</td></tr>
+</table>
+
+### 6. Angaben zur vorzeitigen Auflösung des Versicherungsvertrages
+
+- a. Der Abschnitt «Kann ich den Versicherungsvertrag vorzeitig auflösen und kann ich vorzeitig Geld entnehmen?» enthält Angaben zu den Folgen vorzeitiger Vertragsauflösung.
+- b. Für die Versicherungsnehmerinnen und -nehmer ist folgender Hinweis anzubringen: «Sie können Ihren Versicherungsvertrag innerhalb von 14 Tagen widerrufen. Weitere Informationen zum Widerrufsrecht sowie zur vorzeitigen Auflösung finden Sie in Ihren Vertragsunterlagen. Bei vorzeitiger Auflösung vor Vertragsablauf können Ihnen Kosten entstehen.»
 
 Anhang 5[^t-5]
 
 (Art. 129*l*)
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+## Basisinformationsblatt in der qualifizierten Lebensversicherung: Gleichwertige ausländische Dokumente
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2026 (AS **2023** 356).
+
+Der Anhang enthält zurzeit keine Einträge.
 
 Anhang 6[^t-6]
 

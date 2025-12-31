@@ -4,11 +4,11 @@ title: "Ordonnance du 9 novembre 2005 sur la surveillance des entreprises d'assu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: fr
-version: 2024-09-01
+version: 2026-01-01
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/fr"
 
 (Ordonnance sur la surveillance, OS)
 
-du 9 novembre 2005 (État le 1<sup>er</sup> septembre 2024)
+du 9 novembre 2005 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -555,7 +555,7 @@ Ne sont pas de sa compétence les déclarations portant sur:
 
 [^tit3-1]
 
-[^tit3-1]: Mise à jour par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit3-1]: Mis à jour par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Chapitre 1 Dispositions générales
 
@@ -2779,11 +2779,126 @@ Les informations mentionnées à l’al. 2 doivent être déterminées de la fa�
 
 [^129c-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
-#### Art. 129d à 129l
+#### Art. 129d
 
-[^129d129l-1]
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: préparation**[^129d-1]
 
-[^129d129l-1]: Entrent en vigueur le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)ch. IV al. 2).
+### (art. 39*f* LSA)
+
+<sup>1</sup> La feuille d’information de base doit être mise à la disposition des preneurs d’assurance sur un support durable au sens de l’art. 14*c*, al. 4, ou par l’intermédiaire d’un site Internet.
+
+<sup>2</sup>
+
+Si elle est mise à disposition par l’intermédiaire d’un site Internet, l’entreprise d’assurance doit:
+
+- a. veiller à ce que la feuille d’information de base puisse à tout moment être consultée, téléchargée et saisie sur un support durable;
+- b. communiquer aux preneurs d’assurance l’adresse du site Internet et l’endroit où ces informations peuvent y être consultées.
+
+<sup>3</sup> La feuille d’information de base doit être mise à la disposition des preneurs d’assurance de manière à ce qu’il leur reste suffisamment de temps pour comprendre les informations qui y figurent en vue de la conclusion du contrat ou de la fourniture de la prestation d’assurance.
+
+[^129d-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129e
+
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: contenu**[^129e-1]
+
+### (art. 39*f* LSA)
+
+<sup>1</sup> Le contenu de la feuille d’information de base doit répondre aux exigences de l’annexe 4.
+
+<sup>2</sup> Les exigences par produit relevant du droit spécial sont réservées.
+
+<sup>3</sup> La FINMA peut édicter des dispositions d’exécution, afin notamment d’assurer la compréhensibilité de la feuille d’information de base.
+
+[^129e-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129f
+
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: ampleur, langue et conception**[^129f-1]
+
+### (art. 39*f* LSA)
+
+<sup>1</sup>
+
+La feuille d’information de base doit être rédigée dans l’une des langues suivantes:
+
+- a. une langue officielle;
+- b. l’anglais;
+- c. la langue de correspondance des preneurs d’assurance.
+
+<sup>2</sup> La conception et l’ampleur de la feuille d’information de base doivent correspondre au modèle présenté à l’annexe 4.
+
+[^129f-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129g
+
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: tiers qualifiés pour son établissement**[^129g-1]
+
+### (art. 39*b*, al. 3, LSA)
+
+<sup>1</sup> Sont réputées tiers qualifiés les personnes pouvant garantir que la feuille d’information de base est établie de manière professionnelle.
+
+<sup>2</sup> Le contrôle de la qualification incombe à l’entreprise d’assurance.
+
+[^129g-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129h
+
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: version provisoire**[^129h-1]
+
+### (art. 39*b*, al. 4, LSA)
+
+Si une feuille d’information de base contient des renseignements indicatifs, les preneurs d’assurance doivent en être informés dans la feuille d’information de base. Les renseignements indicatifs doivent être reconnaissables comme tels.
+
+[^129h-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129i
+
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: informations sur le type et les caractéristiques**[^129i-1]
+
+### (art. 39*c*, al. 2, let. b, LSA)
+
+L’entreprise d’assurance doit décrire aux assurés de manière compréhensible, en particulier:
+
+- a. le processus d’épargne;
+- b. la couverture d’assurance;
+- c. l’échéance de l’assurance sur la vie qualifiée.
+
+[^129i-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129j
+
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: informations relatives aux coûts**[^129j-1]
+
+### (art. 39*c*, al. 2, let. d, LSA)
+
+<sup>1</sup> La feuille d’information de base contient des informations sur les coûts uniques et récurrents, y compris les coûts occasionnés lors de la conclusion et du rachat de l’assurance sur la vie qualifiée.
+
+<sup>2</sup> Les coûts impossibles à déterminer précisément à l’avance ou qui ne peuvent l’être qu’au prix d’efforts disproportionnés doivent être indiqués par approximation ou par ordre de grandeur. Si une telle indication n’est pas non plus possible ou ne l’est qu’au prix d’efforts disproportionnés, une communication à ce sujet doit être publiée et accompagnée d’une indication du risque de taxes, d’impôts ou d’autres coûts supplémentaires.
+
+[^129j-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129k
+
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: vérification et modification**[^129k-1]
+
+### (art. 39*e* LSA)
+
+Les informations contenues dans la fiche d’information de base doivent être vérifiées régulièrement, mais au moins une fois par an, tant que l’assurance sur la vie qualifiée est proposée.
+
+[^129k-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 129l
+
+**Feuille d’information de base dans l’assurance sur la vie qualifiée: documents étrangers**[^129l-1]
+
+### (art. 39*b*, al. 2, et 39*f* LSA)
+
+<sup>1</sup> Les documents établis selon des législations étrangères qui sont indiqués à l’annexe 5 sont considérés comme équivalents à la feuille d’information de base pour les assurances sur la vie qualifiées au sens de l’art. 39*b*, al. 2, LSA et peuvent être utilisés en lieu et place de celle-ci.
+
+<sup>2</sup> La mise à disposition des documents est régie par l’art. 129*d*.
+
+[^129l-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129m
 
@@ -4482,27 +4597,212 @@ Annexe 3[^t-3]
 
 Pour une probabilité de survenance *u* ∈ (0,1), le *u* – quantile *q**<sub>u</sub>* *(X)* d’une variable aléatoire *X* (signe négatif pour les pertes) avec la mesure de probabilité *P* est défini comme
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/fr/xml/image/image1.png)
 
 L’expected shortfall *ES**<sub>α</sub>* *[X]* d’une variable aléatoire *X* pour une probabilité de survenance *α* ∈ (0,1) (typiquement faible) est défini comme
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/fr/xml/image/image2.png)
 
 Si la répartition de *X* est continue, l’expected shortfall *ES**<sub>α</sub>* *[X]* est donné par l’espérance mathématique conditionnelle
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/fr/xml/image/image3.png)
 
 Annexe 4[^t-4]
 
 (art. 129*f*)
 
+## Feuille d’information de base dans l’assurance sur la vie qualifiée: ampleur, langue et conception
+
 [^t-4]: Introduite par le ch. II al. 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+### 1. Prescriptions de forme
+
+- 1\.1 Dans sa version imprimée, la feuille d’information de base ne doit pas comporter plus de trois pages au format DIN-A4.
+- 1\.2 Elle doit utiliser des lettres d’une taille aisément lisible.
+- 1\.3 Lorsque la feuille d’information de base utilise des couleurs, celles-ci ne doivent pas compromettre l’intelligibilité des informations si la fiche est imprimée en noir et blanc ou si elle est photocopiée.
+- 1\.4 Si la marque de l’entreprise ou le logo de l’auteur ou du groupe auquel il appartient est utilisé, cette marque ou ce logo ne doit ni distraire des informations contenues dans la feuille d’information de base, ni dissimuler le texte.
+- 1\.5 Les auteurs doivent s’en tenir à l’ordre et aux titres des sections prescrits dans le modèle (chiffre 2).
+- 1\.6 Aucune prescription ne s’applique à l’ordre de succession des informations au sein des diverses sections, à la longueur de chaque section, ni à la disposition des sauts de page.
+- 1\.7 Les informations sur les produits peuvent également être données sous forme de tableau.
+
+### 2. Modèle
+
+<table>
+<tr><th>Feuille d’information de base</th></tr>
+<tr><td>But «La présente feuille d’information de base met à votre<sup>1</sup> disposition des informations essentielles concernant la présente assurance sur la vie qualifiée (le «produit»). Elle ne constitue pas un matériel publicitaire. Ces informations sont prescrites par la loi pour vous aider à comprendre la nature, le risque et les coûts de ce produit ainsi que les bénéfices et les pertes possibles qui lui sont liés et pour vous aider à le comparer à d’autres.» *<sup>1</sup>* *À titre alternatif, il est également possible d’utiliser, dans l’ensemble de la feuille d’information de base, la désignation «preneur d’assurance» ou «assuré» à la place de «vous/votre/vos».*</td></tr>
+<tr><td>Produit **Produit:** *[Nom de l’assurance sur la vie qualifiée donné par l’auteur]* **Auteur:** *[Nom, adresse, site Internet et numéro de téléphone de l’entreprise* *d’assurance* *qui est l’auteur de l’assurance sur la vie qualifiée.]* **Autorité de surveillance:** *[Indication signalant si l’entreprise d’assurance qui est l’auteur de l’assurance sur la vie qualifiée est assujettie à une surveillance prudentielle ou non et, le cas échéant, indication de l’autorité de surveillance.]*</td></tr>
+<tr><td>Autorisation ou homologation du produit *[Indication d’une éventuelle obligation légale d’autorisation ou d’homologation pour* **l’assurance** *sur la vie qualifiée.]*</td></tr>
+<tr><td>**Avertissement:** «Vous êtes sur le point d’acquérir un produit qui n’est pas simple et qui peut être difficile à comprendre.»</td></tr>
+<tr><td>De quel type de produit s’agit-il? *[Informations* *conformément* *au ch. 3]*</td></tr>
+<tr><td>Quels sont les risques et que peut-on obtenir en contrepartie? *[Informations conformément au ch. 4]*</td></tr>
+<tr><td>Que se passe-t-il si *[nom de l’entreprise d’assurance]* n’est pas en mesure de procéder au versement? *[Indiquer si le preneur d’assurance peut subir une perte financière en cas de* *défaillance* *de l’entreprise d’assurance qui est l’auteur de l’assurance sur la vie qualifiée et, le cas échéant, s’il existe une protection des investisseurs ou une garantie, ainsi que les conditions et restrictions de la protection des investisseurs ou de la garantie]*</td></tr>
+<tr><td>Quels sont les coûts? *[Informations conformément au ch. 5]*</td></tr>
+<tr><td>Est-il possible de résilier le contrat d’assurance par anticipation et de retirer de l’argent avant l’expiration du contrat? *[**Informations* *conformément au ch. 6]*</td></tr>
+<tr><td>Comment faire recours? *[Indication des modalités et de l’instance auprès de laquelle le preneur d’assurance peut contester l’assurance sur la vie qualifiée ou le comportement de l’auteur ou de la personne qui dispense des conseils sur l’assurance sur la vie qualifiée, en fait l’intermédiation ou la vend, en indiquant (i) un lien menant au site Internet correspondant à ce type de recours, (ii) une adresse postale actuelle et une adresse* *électronique* *auxquelles de tels recours peuvent être déposés.]*</td></tr>
+<tr><td>Autres informations utiles *À titre facultatif, notamment:* – un renvoi aux documents complémentaires contenant des informations *–* *des* informations *sur* l’imposition *de l’assurance sur la vie qualifiée*</td></tr>
+</table>
+
+### 3. Informations relatives à la nature du produit
+
+### 3.0 Généralités
+
+-
+
+  La section «De quel type de produit s’agit-il?» contient:
+
+  - a. des informations relatives à la nature et aux propriétés de l’assurance sur la vie qualifiée (ch. 3.1);
+  - b. des informations relatives aux prestations assurées au moyen de l’assurance sur la vie qualifiée (ch. 3.2);
+  - c. des informations sur le processus d’épargne de l’assurance sur la vie qualifiée (ch. 3.3).
+  - d. À titre facultatif: des informations sur le groupe cible et sur le marché cible (ch. 3.4)
+
+### 3.1 Nature et propriétés
+
+-
+
+  La feuille d’information de base contient un descriptif:
+
+  - a. de la nature de l’assurance sur la vie qualifiée;
+  - b. des propriétés de l’assurance sur la vie qualifiée.
+
+### 3.2 Prestations assurées
+
+-
+
+  La feuille d’information de base contient:
+
+  - a. les informations essentielles pour le preneur d’assurance relatives aux risques assurables pour lesquels soit la prestation, soit la prime dépend de l’évolution de l’instrument financier;
+  - b. une mention renvoyant aux documents contractuels en ce qui concerne les risques assurables pour lesquels ni la prestation, ni la prime ne dépendent de l’évolution de l’instrument financier.
+
+### 3.3 Processus d’épargne
+
+- 3\.3.1
+
+  La feuille d’information de base contient les informations suivantes:
+
+  - a. description de la nature et des caractéristiques des instruments financiers sous-tendant le processus d’épargne;
+  - b. information sur le processus d’épargne ou renvoi aux documents concernant l’aménagement du processus d’épargne;
+  - c. déclarations portant sur les garanties ou sûretés dans le processus d’épargne et information relative aux garants ou aux bailleurs assurant la protection des capitaux.
+
+- 3\.3.2 Si une feuille d’information de base est disponible pour un instrument financier selon l’art. 3, let. a, LSFin[^annex4-lvlu1-lvl3-lvl33-1], il est possible d’y renvoyer.
+
+[^annex4-lvlu1-lvl3-lvl33-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+### 3.4 Facultatif: groupe cible et marché cible
+
+- La feuille d’information de base peut comporter une description des preneurs d’assurance auxquels l’assurance sur la vie qualifiée doit être proposée, s’agissant notamment de l’objectif d’épargne et de la capacité à absorber les pertes dans le processus d’épargne ainsi que de l’échéance contractuelle de l’assurance sur la vie qualifiée.
+
+### 4. Informations concernant le profil de risque du processus d’épargne
+
+-
+
+  La section «Quels sont les risques et que peut-on obtenir en contrepartie?» comporte:
+
+  - a. une description générique du profil de risque (ch. 4.1) ou un indicateur des risques (ch. 4.2);
+  - b. l’indication de la perte maximale et un renvoi aux scénarios de performance (ch. 4.3).
+
+### 4.1 Description générique du profil de risque
+
+- 4\.1.1
+
+  Si le profil de risque est décrit de façon générique, les risques de produit typiques doivent être pris en considération, tels que:
+
+  - a. le risque d’émetteur;
+  - b. le risque de marché;
+  - c. le risque de liquidité;
+  - d. le risque de change;
+  - e. le risque de résiliation et de réinvestissement.
+
+- 4\.1.2 Si un instrument financier au sens de l’art. 3, let. a, LSFin met à disposition une feuille d’information de base, il est possible d’y renvoyer.
+
+### 4.2 Indicateur des risques
+
+-
+
+  Si un indicateur des risques est intégré:
+
+  - a. il convient de le calculer et de le présenter selon les règles d’une législation qui connaît des prescriptions prévoyant un document équivalant à la feuille d’information de base conformément à l’art. 129*l*;
+  - b. il convient d’indiquer selon quelle législation il est calculé et présenté.
+
+### 4.3 Indication de la perte maximale et renvoi aux scénarios de performance
+
+- 4\.3.1 Il convient de présenter aux preneurs d’assurance, dans un langage aisément compréhensible, la perte maximale susceptible d’être subie en cas d’investissement dans l’assurance sur la vie qualifiée et, le cas échéant, le rendement maximal qu’ils peuvent en retirer.
+- 4\.3.2 Pour les preneurs d’assurance, la mention suivante doit être apposée: «L’évolution de la valeur de cette assurance sur la vie qualifiée dépend de celle des placements sélectionnés ou sous-jacents. Le montant que vous obtiendrez effectivement dépend de l’évolution du marché et de la durée pendant laquelle vous détiendrez le produit. Pour les simulations de performance, nous renvoyons aux informations par produit relatives à l’assurance sur la vie qualifiée.»
+
+### 5. Indications concernant les coûts du produit
+
+-
+
+  La section «Quels sont les coûts?» contient des informations:
+
+  - a. sur les coûts globaux (ch. 5.1);
+  - b. sur la composition des coûts globaux (ch. 5.2).
+
+### 5.1 Coûts globaux
+
+- 5\.1.1
+
+  Les coûts globaux de l’assurance sur la vie qualifiée incluent tous les coûts, taxes (y compris coûts des fonds), émoluments et déductions du point de vue du preneur d’assurance. Ils doivent être comptabilisés sous la forme:
+
+  - a. d’un rendement brut; si celui-ci ne peut pas être déterminé précisément à l’avance ou ne peut l’être qu’au prix d’efforts disproportionnés, il convient de s’appuyer sur une valeur d’approximation ou sur un ordre de grandeur;
+  - b. la réduction du rendement en pourcentage pour tous les coûts à l’exception des coûts du risque;
+  - c. les coûts du risque sous forme nominale.
+
+- 5\.1.2
+
+  Pour permettre une comparaison avec d’autres assurances sur la vie qualifiées, il convient de s’appuyer sur les éléments suivants:
+
+  - a. pour les assurances sur la vie qualifiées financées périodiquement: une durée de quinze ans et une de 30 ans pour une femme atteignant l’âge légal de la retraite à l’échéance sans caractéristiques supplémentaires accroissant le risque;
+  - b. pour les assurances sur la vie qualifiées financées par un versement unique: une durée de dix ans et une de 20 ans pour une femme atteignant l’âge légal de la retraite à l’échéance sans caractéristiques supplémentaires accroissant le risque;
+  - c. pour les assurances de rentes viagères et temporaires sous forme d’assurances sur la vie qualifiées débutant immédiatement: une femme dont l’âge légal de la retraite est l’âge d’entrée, pour une durée de 20 ans;
+  - d. pour les assurances de rentes viagères et temporaires différées sous forme d’assurances sur la vie qualifiées: une femme dont l’âge légal de la retraite moins une période de différé de cinq ans est l’âge d’entrée, pour des rentes temporaires différées d’une durée de 20 ans;
+  - e. pour une assurance sur la vie qualifiée financée périodiquement: une prime d’assurance annuelle de 3000 francs; pour une assurance sur la vie qualifiée non financée périodiquement: un versement unique de 60 000 francs; si l’assurance sur la vie qualifiée n’est pas libellée en francs suisses, il convient d’utiliser un montant d’un ordre de grandeur similaire directement divisible par 1000.
+
+- 5\.1.3 Les coûts globaux peuvent être représentés sous forme de tableau comme dans l’exemple suivant:
+
+<table>
+<tr><th colspan="4">Prime d’assurance de 3000 francs par an [ou «versement unique de 60 000 francs»]</th></tr>
+<tr><td>Scénarios</td><td>Résiliation du contrat après [1] an</td><td>Résiliation du contrat au bout de la moitié de l’échéance</td><td>Résiliation du contrat à l’échéance prévue</td></tr>
+<tr><td>Réduction de rendement (RIY) par an</td><td>[■]%</td><td>[■]%</td><td>[■]%</td></tr>
+<tr><td>Coûts du risque</td><td>[■] francs</td><td>[■] francs</td><td>[■] francs</td></tr>
+</table>
+
+- 5\.1.4 La «réduction du rendement brut» (*reduction in yield, RIY)* présente l’incidence sur le rendement dans le processus d’épargne des coûts que vous avez assumés. Les primes pour le risque assuré ne sont pas saisies dans la RIY. Elles sont indiquées séparément sous le titre de «coûts de risque».
+- 5\.1.5 Les montants comptabilisés correspondent aux coûts cumulés pour trois durées de détention différentes. Pour les chiffres indiqués, on considère que vous investissez chaque année 3 000 francs ou 60 000 francs à titre de versement unique. Ces chiffres sont des estimations et peuvent être différents à l’avenir.
+
+### 5.2 Composition des coûts globaux
+
+- 5\.2.1 Les coûts globaux se composent des coûts uniques et des frais courants.
+- 5\.2.2 Les coûts uniques sans les coûts du risque sont présentés en tant que réduction du rendement. Ils comprennent notamment les coûts d’entrée et de sortie, les coûts d’acquisition uniques, y compris les coûts de distribution et les autres coûts uniques.
+- 5\.2.3 Les frais courants sans les coûts du risque sont présentés en tant que réduction du rendement. Ils comprennent notamment les coûts des fonds, les coûts de transaction du portefeuille, les taxes d’exécution ainsi que les coûts administratifs imputés sur la durée de validité, les coûts d’acquisition courants (y compris les coûts de distribution) et les autres frais courants.
+- 5\.2.4 Les coûts du risque sont indiqués séparément sous forme nominale.
+- 5\.2.5 Il convient de préciser qu’il s’agit chaque fois des coûts agrégés. S’il s’agit de coûts variables, cela doit ressortir des informations fournies.
+- 5\.2.6 Pour permettre la comparaison avec d’autres assurances sur la vie qualifiées, il convient de s’appuyer sur les exceptions prévues au chiffre 5.1.2, let. a à e.
+- 5\.2.7 Le récapitulatif des coûts peut être présenté sous forme de tableau. Il convient de présenter le tableau de la manière suivante:
+
+<table>
+<tr><th colspan="4">Ce tableau présente les répercussions des divers types de coûts sur le produit d’assurance</th></tr>
+<tr><td>Coûts uniques sans les coûts du risque</td><td>Coûts d’entrée</td><td>[■] %</td><td>À indiquer individuellement pour chaque produit</td></tr>
+<tr><td></td><td>Coûts de sortie</td><td>[■] %</td><td>À indiquer individuellement pour chaque produit</td></tr>
+<tr><td>Frais courants sans les coûts du risque</td><td>Coûts de transaction du portefeuille</td><td>[■] %</td><td>À indiquer individuellement pour chaque produit</td></tr>
+<tr><td></td><td>Autres frais courants</td><td>[■] %</td><td>À indiquer individuellement pour chaque produit</td></tr>
+<tr><td>Il en découle la diminution de rendement par an</td><td></td><td>[■] %</td><td>Total</td></tr>
+<tr><td>À cela s’ajoutent les coûts du risque à hauteur de</td><td></td><td>[■] francs</td><td>À indiquer individuellement pour chaque produit</td></tr>
+</table>
+
+### 6. Indications concernant la résiliation anticipée du contrat d’assurance
+
+- a. La section «Est-il possible de résilier le contrat d’assurance par anticipation et de prélever de l’argent avant l’expiration du contrat?» contient des informations relatives aux conséquences de la résiliation anticipée du contrat.
+- b. La mention suivante doit être apposée à l’intention des preneurs d’assurance: «Vous pouvez révoquer votre contrat d’assurance dans les quatorze jours. De plus amples informations sur le droit de révocation ainsi que sur la résiliation anticipée figurent dans vos documents contractuels. En cas de résiliation anticipée avant l’échéance du contrat, vous êtes susceptibles d’encourir des frais.»
 
 Annexe 5[^t-5]
 
 (art. 129*l*)
 
+## Feuille d’information de base dans l’assurance sur la vie qualifiée: documents étrangers équivalents
+
 [^t-5]: Introduite par le ch. II al. 2 de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+L’annexe ne contient aucune entrée pour l’instant.
 
 Annexe 6[^t-6]
 
