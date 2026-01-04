@@ -5,11 +5,12 @@ title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PersV"
 language: de
 version: 2026-01-01
+corrected: 2026-01-05
 version_adopted: 2025-09-23
 adopted: 2025-09-23
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1460/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -917,7 +918,7 @@ beschliesst:
 
 <sup>1</sup> Das Personalamt koordiniert die Weiterbildungsmassnahmen und organisiert die nichtfachliche Weiterbildung.
 
-<sup>2</sup> Die Amtsvorsteherinnen und Amtsvorsteher fördern eine zweckmässige fachliche und nichtfachliche Weiterbildung ihrer Mitarbeitenden und informieren sie über geeignete Weiterbildungsmöglichkeiten.
+<sup>2</sup> Die Amtsvorsteherinnen und Amtsvorsteher fördern für eine zweckmässige fachliche und nichtfachliche Weiterbildung ihrer Mitarbeitenden und informieren sie über geeignete Weiterbildungsmöglichkeiten.
 
 <sup>3</sup> Mitarbeitende mit Führungsfunktion haben in der Regel innert eines Jahres nach Übernahme dieser Funktion eine geeignete Führungsausbildung zu beginnen oder nachzuweisen.
 
