@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.406 n Iv. pa. Jost. Famiglie forti grazie ad assegni adeguati
 document: Progetto posto in consultazione
 language: it

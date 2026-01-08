@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.406 n Pa. Iv. Jost. Starke Familien durch angepasste Zulagen
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.406 n Iv. pa. Jost. Des familles fortes grâce à des allocations adaptées
 document: Projet mis en consultation
 language: fr
