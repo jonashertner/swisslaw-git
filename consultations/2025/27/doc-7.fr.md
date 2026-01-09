@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Redevance liée à la prestation kilométrique des véhicules électriques / Impôt sur le courant de recharge pour les véhicules électriques
 document: Projet mis en consultation-3
 language: fr

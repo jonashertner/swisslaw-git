@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Abgabe auf der Fahrleistung von Elektrofahrzeugen / Steuer auf dem Ladestrom für Elektrofahrzeuge
 document: Vernehmlassungsvorlage-2
 language: de

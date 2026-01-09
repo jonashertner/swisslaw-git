@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Tassa sul chilometraggio dei veicoli elettrici / Imposta sulla corrente di ricarica dei veicoli elettrici
 document: Progetto posto in consultazione-1
 language: it
