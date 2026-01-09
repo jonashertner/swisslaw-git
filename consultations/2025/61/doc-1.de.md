@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung Bankengesetz und Eigenmittelverordnung (Eigenmittelunterlegung ausländischer Beteiligungen im Stammhaus von systemrelevanten Banken)
 document: Vernehmlassungsvorlage - BankG
 language: de

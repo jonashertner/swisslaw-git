@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge sulle banche e dell'ordinanza sui fondi propri (copertura con fondi propri per partecipazioni estere nella casa madre di banche di rilevanza sistemica)"
 document: Progetto posto in consultazione - LBCR
 language: it

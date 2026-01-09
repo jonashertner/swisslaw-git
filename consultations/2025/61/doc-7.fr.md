@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur les banques et de l’ordonnance sur les fonds propres (couverture des participations étrangères au moyen de fonds propres de la banque mère des banques d’importance systémique)
 document: Projet mis en consultation - OFR
 language: fr
