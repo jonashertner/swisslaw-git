@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de quatre ordonnances relevant du droit de la circulation routière en ce qui concerne des adaptations pour les véhicules utilitaires électriques dont le poids n’excède pas 4,25 tonnes"
 document: Projet mis en consultation - OSR
 language: fr

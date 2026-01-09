@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung von vier Verordnungen des Strassenverkehrsrechts bezüglich Anpassungen für Elektro-Nutzfahrzeuge bis 4,25 Tonnen"
 document: Vernehmlassungsvorlage - ARV 1
 language: de

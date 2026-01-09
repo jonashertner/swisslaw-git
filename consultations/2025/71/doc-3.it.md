@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica di quattro ordinanze del codice stradale per l’adeguamento dei requisiti applicabili ai veicoli commerciali elettrici fino a 4,25 tonnellate"
 document: Progetto posto in consultazione - OETV
 language: it
