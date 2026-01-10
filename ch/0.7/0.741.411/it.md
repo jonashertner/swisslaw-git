@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accordo del 20 marzo 1958 concernente l'adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite (con R e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: it
-version: 2025-12-27
+version: 2026-01-11
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20251227/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20251227-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20251227/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260111/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20260111-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20260111/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Ginevra il 20 marzo 1958 Emendato il 10 novembre 1967 Approvato dall’Assemblea federale il 15 marzo 1973[^t-1] Istrumento d’adesione depositato dalla Svizzera il 29 giugno 1973 Entrato in vigore per la Svizzera il 28 agosto 1973 Emendamenti adottati il 18 agosto 1994 Entrata in vigore il 16 ottobre 1995 Emendamenti adottati il 25 settembre 2015 Entrata in vigore il 14 settembre 2017
 
-(Stato 27 dicembre 2025)
+(Stato 11 gennaio 2026)
 
 [^t-1]: [RU 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -678,7 +678,7 @@ Allegato 5[^t-3]
 
 \2. Nella banca dati online protetta sono archiviati almeno i documenti specificati nei singoli regolamenti ONU. Essi comprendono la documentazione con la quale si comunicano alle Parti contraenti l’omologazione, l’estensione, il rifiuto o la revoca dell’omologazione oppure la cessazione definitiva della produzione di un tipo di veicolo a ruote, equipaggiamento o pezzo in virtù del regolamento ONU.
 
-\3. Se le omologazioni di tipo applicabili a veicoli a ruote, equipaggiamenti o pezzi sono archiviate nella banca dati online protetta, le marche di omologazione richieste a titolo dei regolamenti ONU interessati possono essere sostituite con un identificatore unico preceduto dal simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20251227/it/xml/image/image1.png)</sub>, se esplicitamente previsto nei regolamenti ONU in questione e a condizione che tale possibilità sia offerta nella banca dati online protetta. L’identificatore unico è generato automaticamente dalla banca dati.
+\3. Se le omologazioni di tipo applicabili a veicoli a ruote, equipaggiamenti o pezzi sono archiviate nella banca dati online protetta, le marche di omologazione richieste a titolo dei regolamenti ONU interessati possono essere sostituite con un identificatore unico preceduto dal simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260111/it/xml/image/image1.png)</sub>, se esplicitamente previsto nei regolamenti ONU in questione e a condizione che tale possibilità sia offerta nella banca dati online protetta. L’identificatore unico è generato automaticamente dalla banca dati.
 
 \4. Tutte le Parti contraenti che applicano un regolamento ONU devono avere accesso alle informazioni concernenti tale regolamento contenute nella banca dati utilizzando l’identificatore unico, con il quale è dato accesso alle informazioni rilevanti in merito alle omologazioni in questione.
 
@@ -864,7 +864,7 @@ Regolamenti[^t-5]
 
 ## Regolamento n. 0 allegato all’accordo
 
-[^t-5]: Il testo e il campo d’applicazione dei regolamenti non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Possono essere ottenuto presso l’Ufficio federale delle strade, 3003 Berna oppure consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/un ‑regulations-addenda-1958-agreement](http://www.unece.org/unregulations-addenda-1958-agreement). Il campo d’applicazione può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
+[^t-5]: Il testo e il campo d’applicazione dei regolamenti non sono pubblicati nella RU ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639); [2026 253](https://fedlex.data.admin.ch/eli/oc/2026/253)). Possono essere ottenuti presso l’Ufficio federale delle strade, 3003 Berna oppure consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://unece.org/transport/standards/transport/vehicle-regulations-wp29/addenda-1958-agreement-regulations-161-180](https://unece.org/transport/standards/transport/vehicle-regulations-wp29/addenda-1958-agreement-regulations-161-180). Il campo d’applicazione può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
 
 Prescrizioni uniformi per quanto concerne il systema di omologazione internazionale dei veicoli completi
 
@@ -1705,3 +1705,15 @@ Applicato dalla Svizzera dal 23 giugno 2025
 Prescrizioni uniformi relative all’omologazione di un tipo di veicolo per quanto concerne l’assistente per il campo di visibilità
 
 Applicato dalla Svizzera dal 23 giugno 2025
+
+## Regolamento n. 177 allegato all’Accordo
+
+Prescrizioni uniformi concernenti la determinazione della potenza di sistema dei veicoli elettrici ibridi e dei veicoli esclusivamente elettrici aventi più di una macchina elettrica per la propulsione
+
+Applicato dalla Svizzera dal 27 settembre 2025
+
+## Regolamento n. 178 allegato all’Accordo
+
+Prescrizioni uniformi relative all’omologazione dei veicoli a motore delle categorie M1 e N1 per quanto riguarda il sistema di emergenza di mantenimento della corsia (ELKS)
+
+Applicato dalla Svizzera dall’11 gennaio 2026

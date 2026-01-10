@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Übereinkommen vom 20. März 1958 der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden (mit R und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: de
-version: 2025-12-27
+version: 2026-01-11
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20251227/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20251227-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20251227/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260111/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20260111-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20260111/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2017** 5085
 
 Abgeschlossen in Genf am 20. März 1958 Geändert am 10. November 1967 Von der Bundesversammlung genehmigt um 15. März 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. Juni 1973 In Kraft getreten für die Schweiz am 28. August 1973 Änderungen angenommen am 18. August 1994 In Kraft getreten am 16. Oktober 1995 Änderungen angenommen am 25. September 2015 In Kraft getreten am 14. September 2017
 
-(Stand am 27. Dezember 2025)
+(Stand am 11. Januar 2026)
 
 [^t-1]: [AS 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -672,7 +672,7 @@ Anhang 5[^t-3]
 
 ## Übermittlung von Genehmigungsunterlagen
 
-[^t-3]: Bereinigt gemäss der am 27. Sept. 2025 angenommenen Änd., in Kraft seit 27. Dez. 2025 (AS **202****5** 859).
+[^t-3]: Bereinigt gemäss der am 27. Sept. 2025 angenommenen Änd., in Kraft seit 27. Dez. 2025 ([AS 2025 859](https://fedlex.data.admin.ch/eli/oc/2025/859)).
 
 \1. Hat eine Genehmigungsbehörde aufgrund von Vorschriften oder eines Antrags eine Kopie einer Genehmigung und ihrer Anhänge zur Verfügung zu stellen, übermittelt sie die Dokumente in Papierform oder elektronisch per E-Mail oder unter Nutzung der sicheren Internetdatenbank, die von der Wirtschaftskommission für Europa der Vereinten Nationen eingerichtet wurde.
 
@@ -864,7 +864,7 @@ Reglemente[^t-5]
 
 ## Reglement Nr. 0 zum Übereinkommen
 
-[^t-5]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Organisation der Vereinten Nationen eingesehen werden: [www.unece.org/un ‑regulations-addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Der Geltungsbereich ist auf der Internetseite der Organisation der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
+[^t-5]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639); [2026 253](https://fedlex.data.admin.ch/eli/oc/2026/253)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Organisation der Vereinten Nationen eingesehen werden: [https://unece.org/transport/standards/transport/vehicle-regulations-wp29/addenda-1958-agreement-regulations-161-180](https://unece.org/transport/standards/transport/vehicle-regulations-wp29/addenda-1958-agreement-regulations-161-180). Der Geltungsbereich ist auf der Internetseite der Organisation der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
 
 Einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung
 
@@ -1711,3 +1711,15 @@ Angewendet durch die Schweiz seit dem 23. Juni 2025
 Einheitliche Vorschriften für die Genehmigung eines Fahrzeugtyps hinsichtlich des Sichtfeldassistenten
 
 Angewendet durch die Schweiz seit dem 23. Juni 2025
+
+## Reglement Nr. 177 zum Übereinkommen
+
+Einheitliche Bedingungen zur Ermittlung der Systemleistung von Hybridelektrofahrzeugen und von Elektrofahrzeugen mit mehr als einer elektrischen Maschine als Antrieb
+
+Angewendet durch die Schweiz seit dem 27. September 2025
+
+## Reglement Nr. 178 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen der Klassen M1 und N1 hinsichtlich des Notfall-Spurhalteassistenten (ELKS)
+
+Angewendet durch die Schweiz seit dem 11. Januar 2026
