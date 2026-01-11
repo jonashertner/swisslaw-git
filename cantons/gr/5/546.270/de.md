@@ -5,12 +5,12 @@ title: Ausführungsbestimmungen zum kantonalen Unterstützungsgesetz
 short: ABzUG
 language: de
 version: 2025-01-01
-corrected: 2025-02-04
+corrected: 2026-01-12
 version_adopted: 2025-02-04
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3486/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3531/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -247,12 +247,44 @@ von der Regierung erlassen am 8. November 2005
 
 <sup>1</sup> Das kantonale Sozialamt prüft periodisch den Kostendeckungsgrad der den Gemeinden ausgerichteten Beiträge sowie die übergeordneten Aufgaben und deren Kosten.
 
+## 3. Rückerstattungspflicht
+
 #### Art. 13
 
-**Schluss- und Übergangsbestimmung**
+**Rückerstattung aus Einkommen**
 
-<sup>1</sup> Diese Ausführungsbestimmungen treten am 1. Januar 2006 in Kraft.
+<sup>1</sup> Das für die Rückerstattung massgebende Einkommen beträgt die Hälfte des nach Absatz 2 berechneten Betrags.
 
-<sup>2</sup> Laufende Unterstützungsfälle sind ab 1. April 2016 nach den ab 1. Januar 2016 geltenden Bestimmungen abzuwickeln.
+<sup>2</sup> Der Betrag ergibt sich aus der Summe der steuerbaren Einkünfte abzüglich der folgenden Positionen:
+
+- a) doppelter Ansatz des Grundbedarfs für den Lebensunterhalt;
+- b) effektive Wohnkosten;
+- c) medizinische Grundversorgung;
+- d) Erwerbs- und Ausbildungskosten;
+- e) übrige Kosten: Steuern, Versicherungen, Unterhaltsbeiträge, Krankheitskosten, Schuldzinsen und Schuldentilgung sowie weitere begründete Auslagen nach effektivem Aufwand.
+
+#### Art. 14
+
+**Rückerstattung aus Vermögensanfall**
+
+<sup>1</sup> Bei einem Vermögensanfall sind folgende Freibeträge zu berücksichtigen:
+
+- a) für Einzelpersonen: — Fr. 30 000.–
+- b) für Ehepaare und eingetragene Partnerschaften: — Fr. 50 000.–
+- c) für jedes minderjährige Kind: — Fr. 15 000.–
+
+<sup>2</sup> Integritätsentschädigungen und Genugtuungsleistungen unterliegen nicht der Rückerstattungspflicht.
+
+#### Art. 15
+
+**Verrechnung**
+
+<sup>1</sup> Eine Rückerstattungsforderung aufgrund von zu Unrecht bezogenen Unterstützungsleistungen kann mit laufenden Unterstützungsleistungen verrechnet werden.
+
+<sup>2</sup> Die Verrechnung erfolgt mit dem Grundbedarf für den Lebensunterhalt. Sie darf jedoch, auch unter Berücksichtigung einer Kürzung, den Grundbedarf für den Lebensunterhalt um nicht mehr als 30 Prozent reduzieren.
+
+<sup>3</sup> Erfolgt eine Verrechnung von über zehn Prozent, ist die Verrechnung auf maximal sechs Monate befristet. Ansonsten gilt keine Befristung.
+
+<sup>4</sup> Rückerstattungsforderungen betreffend Leistungen, die wegen eines Versehens der unterstützenden Behörde ohne Rechtsgrund ausgerichtet wurden, dürfen nicht verrechnet werden.
 
 -
