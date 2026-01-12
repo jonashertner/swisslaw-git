@@ -5,30 +5,33 @@ title: Lescha davart ils salaris e davart la prevenziun professiunala da las com
 short: LSPR
 language: rm
 version: 2007-01-01
-corrected: 2014-10-09
+corrected: 2026-01-13
 version_adopted: 2006-10-19
 adopted: 2006-10-19
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.380"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/35/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2014/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha davart ils salaris e davart la prevenziun professiunala da las commembras e dals commembers da la regenza (LSPR)
+# Lescha davart ils salaris e davart la prevenziun professiunala da las commembras e dals commembers da la regenza
 
-dals 19 d'october 2006
+(LSPR)
 
-Il cussegl grond dal chantun Grischun[^t-1]
+dals 19-10-2006 (versiun dals 01-01-2007)
 
-sa basond sin l'art. 31 da la constituziun chantunala[^t-2], suenter avair gì invista da la missiva da la regenza dals 4 da fanadur 2006[^t-3],
+Il cussegl grond dal chantun Grischun[^ingress-1],
+
+sa basond sin l'art. 31 da la constituziun chantunala[^ingress-2],
+
+suenter avair gì invista da la missiva da la regenza dals 4 da fanadur 2006[^ingress-3],
 
 concluda:
 
-[^t-1]: PCG 2006/2007, 543
-[^t-2]: DG 110.100
-[^t-3]: pagina 1079
+[^ingress-1]: PCG 2006/2007, 543
+[^ingress-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: pagina 1079
 
 #### Art. 1
 
@@ -38,47 +41,47 @@ concluda:
 
 <sup>2</sup> Il salari annual vegn pajà en 12 ratas mensilas da la medema grondezza.
 
-[^1-1]: DG 170.400 1-2-2007 1
+[^1-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 2
 
 **Supplement presidial**
 
-Il supplement presidial importa 1/24 dal salari annual e vegn pajà mintga mais.
+<sup>1</sup> Il supplement presidial importa 1/24 dal salari annual e vegn pajà mintga mais.
 
 #### Art. 3
 
 **Supplements socials, prestaziuns en cas da mort**
 
-Il supplement social spezial, ils supplements per uffants e las prestaziuns en cas da mort sa drizzan tenor las disposiziuns da la legislaziun chantunala dal persunal.
+<sup>1</sup> Il supplement social spezial, ils supplements per uffants e las prestaziuns en cas da mort sa drizzan tenor las disposiziuns da la legislaziun chantunala dal persunal.
 
 #### Art. 4
 
 **Salari en cas d'impediment da la prestaziun da lavur**
 
-Il salari en cas d'impediment da la prestaziun da lavur, spezialmain en cas da malsogna, en cas d'accident durant la lavur u ordaifer la lavur sco er durant la gravidanza e suenter la naschientscha, sa drizza tenor las disposiziuns da la legislaziun chantunala dal persunal.
+<sup>1</sup> Il salari en cas d'impediment da la prestaziun da lavur, spezialmain en cas da malsogna, en cas d'accident durant la lavur u ordaifer la lavur sco er durant la gravidanza e suenter la naschientscha, sa drizza tenor las disposiziuns da la legislaziun chantunala dal persunal.
 
 #### Art. 5
 
 **Indemnisaziun da las expensas**
 
-Expensas che resultan cun exequir l'activitad sco commembra u sco commember da la regenza, vegnan indemnisadas tenor las disposiziuns da la legislaziun chantunala dal persunal.
+<sup>1</sup> Expensas che resultan cun exequir l'activitad sco commembra u sco commember da la regenza, vegnan indemnisadas tenor las disposiziuns da la legislaziun chantunala dal persunal.
 
 #### Art. 6
 
 **Entradas accessoricas**
 
-Las entradas accessoricas da substituziuns en il senn da l'art. 41 CC[^6-1] tutgan a la cassa chantunala. Exceptadas da quai èn las schurnadas e las indemnisaziuns da las expensas.
+<sup>1</sup> Las entradas accessoricas da substituziuns en il senn da l'artitgel 41 da la constituziun chantunala[^6-1] tutgan a la cassa chantunala. Exceptadas da quai èn las schurnadas e las indemnisaziuns da las expensas.
 
-[^6-1]: DG 110.100
+[^6-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm/art41)
 
 #### Art. 7
 
 **Prevenziun professiunala**
 
-Per la prevenziun professiunala vegnan las commembras ed ils commembers da la regenza assicurads tar la cassa da pensiun chantunala dal Grischun (CP). Las contribuziuns e las prestaziuns sa drizzan tenor la lescha davart la cassa da pensiun chantunala dal Grischun[^7-1].
+<sup>1</sup> Per la prevenziun professiunala vegnan las commembras ed ils commembers da la regenza assicurads tar la cassa da pensiun chantunala dal Grischun (CP). Las contribuziuns e las prestaziuns sa drizzan tenor la lescha davart la cassa da pensiun chantunala dal Grischun[^7-1].
 
-[^7-1]: DG 170.450
+[^7-1]: DG [170.450](https://www.gr-lex.gr.ch/data/170.450/rm)
 
 #### Art. 8
 
@@ -96,15 +99,15 @@ Per la prevenziun professiunala vegnan las commembras ed ils commembers da la re
 
 **2. imputaziun d'autras prestaziuns d'assicuranza**
 
-Sch'igl exista – en cas d'ina invaliditad – il medem mument in dretg sin prestaziuns da la CP e sin autras prestaziuns imputablas en il senn da l'artitgel 18 da la lescha davart la cassa da pensiun chantunala dal Grischun[^9-1], vegn la pensiun reducida uschia che tut ils pajaments ensemen importan maximalmain 60 pertschient dal salari ch'è vegnì retratg sco ultim. En cas ch'ina commembra u ch'in commember da la regenza mora en uffizi, importa questa limitaziun 50 pertschient per las surviventas e per ils survivents.
+<sup>1</sup> Sch'igl exista – en cas d'ina invaliditad – il medem mument in dretg sin prestaziuns da la CP e sin autras prestaziuns imputablas en il senn da l'artitgel 18 da la lescha davart la cassa da pensiun chantunala dal Grischun[^9-1], vegn la pensiun reducida uschia che tut ils pajaments ensemen importan maximalmain 60 pertschient dal salari ch'è vegnì retratg sco ultim. En cas ch'ina commembra u ch'in commember da la regenza mora en uffizi, importa questa limitaziun 50 pertschient per las surviventas e per ils survivents.
 
-[^9-1]: DG 170.450 2 1-2-2007
+[^9-1]: DG [170.450](https://www.gr-lex.gr.ch/data/170.450/rm)
 
 #### Art. 10
 
 **3. finanziaziun**
 
-Las pensiuns e las prestaziuns conassicuradas vegnan finanziadas dal chantun en la procedura da repartiziun.
+<sup>1</sup> Las pensiuns e las prestaziuns conassicuradas vegnan finanziadas dal chantun en la procedura da repartiziun.
 
 #### Art. 11
 
@@ -114,7 +117,7 @@ Las pensiuns e las prestaziuns conassicuradas vegnan finanziadas dal chantun en 
 
 <sup>2</sup> Per il pajament da las prestaziuns procura la CP.
 
-[^11-1]: DG 170.450
+[^11-1]: DG [170.450](https://www.gr-lex.gr.ch/data/170.450/rm)
 
 #### Art. 12
 
@@ -134,5 +137,7 @@ Las pensiuns e las prestaziuns conassicuradas vegnan finanziadas dal chantun en 
 
 <sup>2</sup> La regenza fixescha il termin da l'entrada en vigur[^13-2].
 
-[^13-1]: il termin da referendum è scadì ils 24 da schaner 2007 senza esser vegnì duvrà
-[^13-2]: mess en vigur retroactivamain cun CR dals 30 da schaner 2007 per il 1. da schaner 2007 1-2-2007 3
+[^13-1]: Il termin da referendum è scadì ils 24 da schaner 2007. Entaifer quest termin n'èn vegnids inoltrads nagins referendums.
+[^13-2]: messa en vigur retroactivamain cun CR dals 30 da schaner 2007 per il 1. da schaner 2007
+
+-
