@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Ordinanza del 22 giugno 2005 che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: it
-version: 2025-01-15
+version: 2026-01-13
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20250115/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20250115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20250115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20260113/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20260113-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20260113/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 
-del 22 giugno 2005 (Stato 15 gennaio 2025)
+del 22 giugno 2005 (Stato 13 gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 21 feb. 2018, in vigore dal 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)).
 
 ## Sezione 1: Misure coercitive
@@ -50,8 +50,8 @@ Sono esclusi dai divieti elencati nei capoversi 1 e 2:
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2008, in vigore dal 15 lug. 2008 ([RU 2008 3185](https://fedlex.data.admin.ch/eli/oc/2008/425)).
 [^1-2]: Introdotto dalla cifra I dell’O del 25 giu. 2008, in vigore dal 15 lug. 2008 ([RU 2008 3185](https://fedlex.data.admin.ch/eli/oc/2008/425)).
-[^1-3]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-4]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-3]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-4]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -137,7 +137,7 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2008, in vigore dal 15 lug. 2008 ([RU 2008 3185](https://fedlex.data.admin.ch/eli/oc/2008/425)).
 [^5-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
-[^5-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -205,5 +205,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dalla cifra I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dalla cifra I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), del 22 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), del 19 set. 2022 ([RU 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), del 19 dic. 2022 ([RU 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)), del 10 lug. 2023 ([RU 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)), del 14 ago. 2023 ([RU 2023 450](https://fedlex.data.admin.ch/eli/oc/2023/450)), del 20 dic. 2023 ([RU 2023 816](https://fedlex.data.admin.ch/eli/oc/2023/816)), del 29 gen. 2024 ([RU 2024 43](https://fedlex.data.admin.ch/eli/oc/2024/43)), del 21 mag. 2024 ([RU 2024 225](https://fedlex.data.admin.ch/eli/oc/2024/225)), del 15 ago. 2024 ([RU 2024 421](https://fedlex.data.admin.ch/eli/oc/2024/421)), del 22 ott. 2024 ([RU 2024 588](https://fedlex.data.admin.ch/eli/oc/2024/588)) e del 14 gen. 2025, in vigore dal 15 gen. 2025 alle ore 18.00 (RU **202****5** 34).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/34](https://fedlex.data.admin.ch/eli/oc/2025/34) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Introdotto dalla cifra I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dalla cifra I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), del 22 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), del 19 set. 2022 ([RU 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), del 19 dic. 2022 ([RU 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)), del 10 lug. 2023 ([RU 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)), del 14 ago. 2023 ([RU 2023 450](https://fedlex.data.admin.ch/eli/oc/2023/450)), del 20 dic. 2023 ([RU 2023 816](https://fedlex.data.admin.ch/eli/oc/2023/816)), del 29 gen. 2024 ([RU 2024 43](https://fedlex.data.admin.ch/eli/oc/2024/43)), del 21 mag. 2024 ([RU 2024 225](https://fedlex.data.admin.ch/eli/oc/2024/225)), del 15 ago. 2024 ([RU 2024 421](https://fedlex.data.admin.ch/eli/oc/2024/421)), del 22 ott. 2024 ([RU 2024 588](https://fedlex.data.admin.ch/eli/oc/2024/588)), del 14 gen. 2025 ([RU 2025 34](https://fedlex.data.admin.ch/eli/oc/2025/34)) e del 12 gen. 2026, in vigore dal 13 gen. 2026 alle ore 23.00 ([RU 2026 10](https://fedlex.data.admin.ch/eli/oc/2026/10)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/10](https://fedlex.data.admin.ch/eli/oc/2026/10) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

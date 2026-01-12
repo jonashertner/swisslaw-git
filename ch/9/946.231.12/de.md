@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Verordnung vom 22. Juni 2005 über Massnahmen gegenüber der Demokratischen Republik Kongo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: de
-version: 2025-01-15
+version: 2026-01-13
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20250115/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20250115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20250115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20260113/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20260113-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20260113/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Demokratischen Republik Kongo
 
-vom 22. Juni 2005 (Stand am 15. Januar 2025)
+vom 22. Juni 2005 (Stand am 13. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)).
 
 ## 1. Abschnitt: Zwangsmassnahmen
@@ -50,8 +50,8 @@ Von den Verboten der Absätze 1 und 2 sind ausgenommen:
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2008, in Kraft seit 15. Juli 2008 ([AS 2008 3185](https://fedlex.data.admin.ch/eli/oc/2008/425)).
 [^1-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2008, in Kraft seit 15. Juli 2008 ([AS 2008 3185](https://fedlex.data.admin.ch/eli/oc/2008/425)).
-[^1-3]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-4]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-3]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-4]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -137,7 +137,7 @@ Es kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2008, in Kraft seit 15. Juli 2008 ([AS 2008 3185](https://fedlex.data.admin.ch/eli/oc/2008/425)).
 [^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurdeim ganzen Text vorgenommen.
-[^5-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -205,5 +205,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Bereinigt gemäss Ziff. I der V des WBF vom 23. April 2018 ([AS 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), vom 17. Jan. 2019 ([AS 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), vom 19. Dez. 2019 ([AS 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), vom 21. Dez. 2020 ([AS 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), vom 22. Dez. 2021 ([AS 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), vom 19. Sept. 2022 ([AS 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), vom 19. Dez. 2022 ([AS 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)), vom 10. Juli 2023 ([AS 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)), vom 14. Aug. 2023 ([AS 2023 450](https://fedlex.data.admin.ch/eli/oc/2023/450)), vom 20. Dez. 2023 ([AS 2023 816](https://fedlex.data.admin.ch/eli/oc/2023/816)), vom 29. Jan. 2024 ([AS 2024 43](https://fedlex.data.admin.ch/eli/oc/2024/43)), vom 21. Mai 2024 ([AS 2024 225](https://fedlex.data.admin.ch/eli/oc/2024/225)), vom 15. Aug. 2024 ([AS 2024 421](https://fedlex.data.admin.ch/eli/oc/2024/421)), vom 22. Okt. 2024 ([AS 2024 588](https://fedlex.data.admin.ch/eli/oc/2024/588)) und vom 14. Jan. 2025, in Kraft seit 15. Jan. 2025 um 18.00 Uhr (AS **202****5** 34).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/34](https://fedlex.data.admin.ch/eli/oc/2025/34) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Bereinigt gemäss Ziff. I der V des WBF vom 23. April 2018 ([AS 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), vom 17. Jan. 2019 ([AS 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), vom 19. Dez. 2019 ([AS 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), vom 21. Dez. 2020 ([AS 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), vom 22. Dez. 2021 ([AS 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), vom 19. Sept. 2022 ([AS 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)), vom 19. Dez. 2022 ([AS 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)), vom 10. Juli 2023 ([AS 2023 370](https://fedlex.data.admin.ch/eli/oc/2023/370)), vom 14. Aug. 2023 ([AS 2023 450](https://fedlex.data.admin.ch/eli/oc/2023/450)), vom 20. Dez. 2023 ([AS 2023 816](https://fedlex.data.admin.ch/eli/oc/2023/816)), vom 29. Jan. 2024 ([AS 2024 43](https://fedlex.data.admin.ch/eli/oc/2024/43)), vom 21. Mai 2024 ([AS 2024 225](https://fedlex.data.admin.ch/eli/oc/2024/225)), vom 15. Aug. 2024 ([AS 2024 421](https://fedlex.data.admin.ch/eli/oc/2024/421)), vom 22. Okt. 2024 ([AS 2024 588](https://fedlex.data.admin.ch/eli/oc/2024/588)), vom 14. Jan. 2025 ([AS 2025 34](https://fedlex.data.admin.ch/eli/oc/2025/34)) und vom 12. Jan. 2026, in Kraft seit 13. Jan. 2026 um 23.00 Uhr (AS **202****6** 10).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/10](https://fedlex.data.admin.ch/eli/oc/2026/10) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
