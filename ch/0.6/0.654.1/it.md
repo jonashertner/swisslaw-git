@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: Accordo multilaterale del 27 gennaio 2016 tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: it
-version: 2025-10-01
+version: 2026-01-13
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2017-785-20251001-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20251001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20260113/it/xml/fedlex-data-admin-ch-eli-cc-2017-785-20260113-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20260113/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 27 gennaio 2016 Approvato dall’Assemblea federale il 16 giugno 2017[^t-1] Entrato in vigore il 1° dicembre 2017
 
-(Stato 1° ottobre 2025)
+(Stato 13 gennaio 2026)
 
 [^t-1]: [RU 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -159,7 +159,7 @@ Salvo se stabilito diversamente nell’Accordo, il Segretariato dell’Organo di
 
 Fatto in francese e in inglese, entrambi i testi facenti ugualmente fede.
 
-Campo d’applicazione il 1° ottobre 2025[^t-2]
+Campo d’applicazione il 13 gennaio 2026[^t-2]
 
 La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese verso gli Stati e i territori seguenti conformemente al paragrafo 2 della sezione 8 del presente Accordo:
 
@@ -250,6 +250,7 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td>Romania</td><td>1° gennaio 2018\*</td></tr>
 <tr><td>Russia</td><td>1° gennaio 2018</td></tr>
 <tr><td>San Marino</td><td>1° gennaio 2018</td></tr>
+<tr><td>Senegal</td><td>1° gennaio 2025</td></tr>
 <tr><td>Seychelles</td><td>1° gennaio 2018\*\*</td></tr>
 <tr><td>Serbia</td><td>1° gennaio 2024\*</td></tr>
 <tr><td>Singapore</td><td>1° gennaio 2018\*\*</td></tr>
@@ -271,5 +272,5 @@ La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra aut
 <tr><td colspan="2">\* Questi Stati e territori applicano sistematicamente lo scambio automatico di informazioni senza che vi sia reciprocità sulla base di una notifica secondo il para. 1 b) della Sez. 8 dell’Acc. multilaterale. Questo significa che essi non ricevono rendicontazioni Paese per Paese da parte della Svizzera, ma gliele trasmettono. \*\* Incluse le rendicontazioni Paese per Paese fornite su base volontaria in Svizzera per i periodi fiscali 2016 e 2017 in conformità alla Dichiarazione relativa alla data effettiva per lo scambio di informazioni previsto dall’Accordo multilaterale tra autorità competenti concernente lo scambio di rendicontazioni Paese per Paese[^t-3].</td></tr>
 </table>
 
-[^t-2]: [RU 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214), [243](https://fedlex.data.admin.ch/eli/oc/2025/243), [380](https://fedlex.data.admin.ch/eli/oc/2025/380), [492](https://fedlex.data.admin.ch/eli/oc/2025/492); [2025 667](https://fedlex.data.admin.ch/eli/oc/2025/667). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: Completa quello in [RU 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214), [243](https://fedlex.data.admin.ch/eli/oc/2025/243), [380](https://fedlex.data.admin.ch/eli/oc/2025/380), [492](https://fedlex.data.admin.ch/eli/oc/2025/492), [667](https://fedlex.data.admin.ch/eli/oc/2025/667); [2026 28](https://fedlex.data.admin.ch/eli/oc/2026/28). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 [^t-3]: [RU 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)

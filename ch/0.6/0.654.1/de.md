@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: Multilaterale Vereinbarung vom 27. Januar 2016 der zuständigen Behörden über den Austausch länderbezogener Berichte
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: de
-version: 2025-10-01
+version: 2026-01-13
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2017-785-20251001-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20251001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20260113/de/xml/fedlex-data-admin-ch-eli-cc-2017-785-20260113-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20260113/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 16. Juni 2017[^t-1]
 
 In Kraft getreten am 1. Dezember 2017
 
-(Stand am 1. Oktober 2025)
+(Stand am 13. Januar 2026)
 
 [^t-1]: [AS 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -163,7 +163,7 @@ Sofern die Vereinbarung nichts anderes vorsieht, benachrichtigt das Sekretariat 
 
 Geschehen in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
-Geltungsbereich am 1. Oktober 2025[^t-2]
+Geltungsbereich am 13. Januar 2026[^t-2]
 
 Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zuständigen Behörden über den Austausch länderbezogener Berichte in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Abschnitt 8 Absatz 2 dieser Vereinbarung:
 
@@ -253,6 +253,7 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td>San Marino</td><td>1. Januar 2018</td></tr>
 <tr><td>Saudi-Arabien</td><td>1. Januar 2018</td></tr>
 <tr><td>Schweden</td><td>1. Januar 2018\*\*</td></tr>
+<tr><td>Senegal</td><td>1. Januar 2025</td></tr>
 <tr><td>Serbien</td><td>1. Januar 2024\*</td></tr>
 <tr><td>Seychellen</td><td>1. Januar 2018\*\*</td></tr>
 <tr><td>Singapur</td><td>1. Januar 2018\*\*</td></tr>
@@ -275,5 +276,5 @@ Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung der zust�
 <tr><td colspan="2">\* Diese Staaten und Gebiete wenden den automatischen Informationsaustausch gestützt auf eine Notifikation gemäss Abschnitt 8 Absatz 1 Buchstabe b der Multilateralen Vereinbarung ständig in nichtreziproker Weise an. Dies bedeutet, dass sie keine länderbezogene Berichte von der Schweiz erhalten, der Schweiz aber solche Berichte übermitteln werden. \*\* Einschliesslich freiwillig in der Schweiz eingereichte länderbezogene Berichte für Steuerperioden 2016 und 2017 gemäss Erklärung zum zeitlichen Geltungsbereich für den Informationsaustausch gemäss der multilateralen Vereinbarung der zuständigen Behörden über den Austausch länderbezogener Berichte[^t-3].</td></tr>
 </table>
 
-[^t-2]: [AS 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214), [243](https://fedlex.data.admin.ch/eli/oc/2025/243), [380](https://fedlex.data.admin.ch/eli/oc/2025/380), [492](https://fedlex.data.admin.ch/eli/oc/2025/492), [677](https://fedlex.data.admin.ch/eli/oc/2025/677). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214), [243](https://fedlex.data.admin.ch/eli/oc/2025/243), [380](https://fedlex.data.admin.ch/eli/oc/2025/380), [492](https://fedlex.data.admin.ch/eli/oc/2025/492),[667](https://fedlex.data.admin.ch/eli/oc/2025/667); [2026 28](https://fedlex.data.admin.ch/eli/oc/2026/28). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 [^t-3]: [AS 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
