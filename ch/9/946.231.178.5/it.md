@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: Ordinanza del 28 marzo 2018 che istituisce provvedimenti nei confronti del Venezuela
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: it
-version: 2025-09-15
+version: 2026-01-13
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2018-191-20250915-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20250915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20260113/it/xml/fedlex-data-admin-ch-eli-cc-2018-191-20260113-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20260113/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Venezuela
 
-del 28 marzo 2018 (Stato 15 settembre 2025)
+del 28 marzo 2018 (Stato 13 gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -236,8 +236,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Aggiornato dalle cifre I delle O della SEFRI del 9 lug. 2018 ([RU 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)), del 15 nov. 2018 ([RU 2018 4005](https://fedlex.data.admin.ch/eli/oc/2018/645)), del 5 ago. 2019 ([RU 2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)), del 10 ott. 2019 ([RU 2019 3117](https://fedlex.data.admin.ch/eli/oc/2019/574)), del 21 nov. 2019 ([RU 2019 3695](https://fedlex.data.admin.ch/eli/oc/2019/670)), del 6 lug. 2020 ([RU 2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)), del 26 nov. 2020 ([RU 2020 4935](https://fedlex.data.admin.ch/eli/oc/2020/879)), del 18 mar. 2021 ([RU 2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)) e del 23 nov. 2021, in vigore dal 24 nov. 2021 ([RU 2021 746](https://fedlex.data.admin.ch/eli/oc/2021/746)), del 23 gen. 2023 ([RU 2023 27](https://fedlex.data.admin.ch/eli/oc/2023/27)), del 27 nov. 2023 ([RU 2023 693](https://fedlex.data.admin.ch/eli/oc/2023/693)), del 27 mag. 2024 ([RU 2024 233](https://fedlex.data.admin.ch/eli/oc/2024/233)) e del 3 feb. 2025, in vigore il 5 feb. 2025 ([RU 2025 85](https://fedlex.data.admin.ch/eli/oc/2025/85)).
-[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/85](https://fedlex.data.admin.ch/eli/oc/2025/85) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dalle cifre I delle O della SEFRI del 9 lug. 2018 ([RU 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)), del 15 nov. 2018 ([RU 2018 4005](https://fedlex.data.admin.ch/eli/oc/2018/645)), del 5 ago. 2019 ([RU 2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)), del 10 ott. 2019 ([RU 2019 3117](https://fedlex.data.admin.ch/eli/oc/2019/574)), del 21 nov. 2019 ([RU 2019 3695](https://fedlex.data.admin.ch/eli/oc/2019/670)), del 6 lug. 2020 ([RU 2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)), del 26 nov. 2020 ([RU 2020 4935](https://fedlex.data.admin.ch/eli/oc/2020/879)), del 18 mar. 2021 ([RU 2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)) e del 23 nov. 2021, in vigore dal 24 nov. 2021 ([RU 2021 746](https://fedlex.data.admin.ch/eli/oc/2021/746)), del 23 gen. 2023 ([RU 2023 27](https://fedlex.data.admin.ch/eli/oc/2023/27)), del 27 nov. 2023 ([RU 2023 693](https://fedlex.data.admin.ch/eli/oc/2023/693)), del 27 mag. 2024 ([RU 2024 233](https://fedlex.data.admin.ch/eli/oc/2024/233)), del 3 feb. 2025 ([RU 2025 85](https://fedlex.data.admin.ch/eli/oc/2025/85)) e del 12 gen. 2026, in vigore dal 13 gen. 2026 alle ore 23.00 ([RU 2026 12](https://fedlex.data.admin.ch/eli/oc/2026/12)).
+[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/12](https://fedlex.data.admin.ch/eli/oc/2026/12) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2
 
