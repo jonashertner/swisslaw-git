@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 6 novembre 2025 che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: it
-version: 2025-12-16
+version: 2026-01-13
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251216/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251216-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251216/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260113/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260113-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260113/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 
-del 6 novembre 2025 (Stato 16 dicembre 2025)
+del 6 novembre 2025 (Stato 13 gennaio 2026)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -71,7 +71,11 @@ Le zone di protezione, di sorveglianza e intermedie nonché i Cantoni e Comuni i
 
 **Zone di controllo**
 
-L’estensione delle zone di controllo intorno ai luoghi che rappresentano un rischio per le aziende detentrici di pollame, in particolare intorno ai luoghi di ritrovamento di uccelli selvatici morti, è almeno di 1 km.
+<sup>1</sup> L’estensione delle zone di controllo intorno ai luoghi che rappresentano un rischio per le aziende detentrici di pollame, in particolare intorno ai luoghi di ritrovamento di uccelli selvatici morti, è almeno di 1 km.
+
+<sup>2</sup> Oltre alle zone di controllo definite dai veterinari cantonali, sono considerate zone di controllo i luoghi indicati nell’allegato 2.[^5-1]
+
+[^5-1]: Introdotto dalla cifra I dell’O dell’USAV del 12 gen. 2026, in vigore dal 13 gen. 2026 alle ore 12.00 ([RU 2026 9](https://fedlex.data.admin.ch/eli/oc/2026/9)).
 
 #### Art. 6
 
@@ -191,10 +195,14 @@ Allegato 1[^t-1]
 
 Allegato 2[^t-2]
 
-(art. 6)
+(art. 5 cpv. 2 e art. 6)
+
+## Zone di controllo
+
+[^t-2]: Nuovo testo giusta la cifra II dell’O dell’USAV del 12 gen. 2026, in vigore dal 13 gen. 2026 alle ore 12.00 ([RU 2026 9](https://fedlex.data.admin.ch/eli/oc/2026/9)).
+
+È considerata zona di controllo la zona di 1 km di larghezza lungo le rive svizzere del Reno e del Lago di Costanza tra l’emissario del Lago Superiore e il ponte di Flurlingen presso Neuhausen am Rheinfall, compresa l’enclave tedesca di Büsingen nel Cantone di Sciaffusa.
 
 ## Zone di osservazione
 
-[^t-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 24 nov. 2025, in vigore il 25 nov. 2025 alle ore 12.00 ([RU 2025 750](https://fedlex.data.admin.ch/eli/oc/2025/750)).
-
-È considerata zona di osservazione l’intera Svizzera, compresa l’enclave tedesca di Büsingen nel Cantone di Sciaffusa.
+È considerata zona di osservazione l’intera Svizzera.

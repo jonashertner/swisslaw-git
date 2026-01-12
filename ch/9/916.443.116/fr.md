@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 6 novembre 2025 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: fr
-version: 2025-12-16
+version: 2026-01-13
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251216/fr/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251216-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251216/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260113/fr/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260113-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260113/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 6 novembre 2025 (État le 16 décembre 2025)
+du 6 novembre 2025 (État le 13 janvier 2026)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -71,7 +71,11 @@ Les zones de protection et de surveillance, les zones intermédiaires ainsi que 
 
 **Régions de contrôle**
 
-Le rayon des régions de contrôle est au minimum de 1 km autour des lieux présentant un risque pour des unités d’élevage de volailles, notamment les endroits où des oiseaux sauvages morts ont été trouvés.
+<sup>1</sup> Le rayon des régions de contrôle est au minimum de 1 km autour des lieux présentant un risque pour des unités d’élevage de volailles, notamment les endroits où des oiseaux sauvages morts ont été trouvés.
+
+<sup>2</sup> Les lieux mentionnés dans l’annexe 2 sont réputés régions de contrôle, en plus de celles ordonnées par les vétérinaires cantonaux.[^5-1]
+
+[^5-1]: Introduit par le ch. I de l’O de l’OSAV du 12 janv. 2026, en vigueur depuis le 13 janv. 2026 à 12 heures ([RO 2026 9](https://fedlex.data.admin.ch/eli/oc/2026/9)).
 
 #### Art. 6
 
@@ -191,10 +195,14 @@ La présente annexe ne comporte actuellement aucune entrée.
 
 Annexe 2[^t-2]
 
-(art. 6)
+(art. 5, al. 2, et 6)
+
+## Régions de contrôle
+
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 12 janv. 2026, en vigueur depuis le 13 janv. 2026 à 12 heures ([RO 2026 9](https://fedlex.data.admin.ch/eli/oc/2026/9)).
+
+Est réputée région de contrôle la région d’une largeur de 1 km bordant la rive suisse du Rhin et du lac de Constance entre l’effluent du lac Supérieur de Constance et la passerelle de Flurlingen près de Neuhausen am Rheinfall, y compris l’enclave allemande de Büsingen dans le canton de Schaffhouse.
 
 ## Régions d’observation
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 24 nov. 2025, en vigueur depuis le 25 nov. 2025 à 12 heures ([RO 2025 750](https://fedlex.data.admin.ch/eli/oc/2025/750)).
-
-La Suisse toute entière est considérée comme région d’observation, y compris l’enclave allemande de Büsingen dans le canton de Schaffhouse.
+La Suisse tout entière est réputée région d’observation.

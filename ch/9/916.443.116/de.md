@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 6. November 2025 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: de
-version: 2025-12-16
+version: 2026-01-13
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251216/de/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251216-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251216/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260113/de/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260113-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260113/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 6. November 2025 (Stand am 16. Dezember 2025)
+vom 6. November 2025 (Stand am 13. Januar 2026)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -71,7 +71,11 @@ Die Schutz-, Überwachungs- und Zwischenzonen sowie die betroffenen Kantone und 
 
 **Kontrollgebiete**
 
-Der Umfang von Kontrollgebieten um Orte, die ein Risiko für Geflügelhaltungen darstellen, insbesondere Fundstellen toter Wildvögel, beträgt mindestens 1 km.
+<sup>1</sup> Der Umfang von Kontrollgebieten um Orte, die ein Risiko für Geflügelhaltungen darstellen, insbesondere Fundstellen toter Wildvögel, beträgt mindestens 1 km.
+
+<sup>2</sup> Die in Anhang 2 genannten Orte gelten zusätzlich zu den von den Kantonstierärzten angeordneten Kontrollgebieten als Kontrollgebiete.[^5-1]
+
+[^5-1]: Eingefügt durch Ziff. I der V des BLV vom 12. Jan. 2026, in Kraft seit 13. Jan. 2026 um 12.00 Uhr ([AS 2026 9](https://fedlex.data.admin.ch/eli/oc/2026/9)).
 
 #### Art. 6
 
@@ -120,7 +124,7 @@ Sie müssen:
 
 **Massnahmen der Tierhalterinnen und Tierhalter in den Beobachtungsgebieten**
 
-In den Beobachtungsgebieten müssen die Tierhalterinnen und Tierhalter, die 50 oder mehr Vögel halten, von denen mindestens ein Tier der Ordnungen Hühnervögel (*Gal**liformes*), Gänsevögel (*Anseriformes*) oder Laufvögel (S*truthioniformes*) gehört, die Massnahmen nach Artikel 7 treffen.
+In den Beobachtungsgebieten müssen die Tierhalterinnen und Tierhalter, die 50 oder mehr Vögel halten, von denen mindestens ein Tier der Ordnungen Hühnervögel (*Galliformes*), Gänsevögel (*Anseriformes*) oder Laufvögel (S*truthioniformes*) gehört, die Massnahmen nach Artikel 7 treffen.
 
 #### Art. 10
 
@@ -134,13 +138,13 @@ In den Beobachtungsgebieten müssen die Tierhalterinnen und Tierhalter, die 50 o
 
 **Melde- und Aufzeichnungspflicht von Tierhalterinnen und Tierhaltern in den Kontroll- und Beobachtungsgebieten**
 
-<sup>1</sup> In den Kontroll- und Beobachtungsgebieten müssen Tierhalterinnen und Tierhalter, die Vögel halten, bei Tieren in ihrer Haltung Folgendes einer Tierärztin oder einem Tierarzt melden:
+<sup>1</sup>
 
-a. ausgeprägte respiratorische Symptome;
+In den Kontroll- und Beobachtungsgebieten müssen Tierhalterinnen und Tierhalter, die Vögel halten, bei Tieren in ihrer Haltung Folgendes einer Tierärztin oder einem Tierarzt melden:
 
-b. einen Rückgang der Legeleistung;
-
-c. eine Abnahme der Futter- und Wasseraufnahme.
+- a. ausgeprägte respiratorische Symptome;
+- b. einen Rückgang der Legeleistung;
+- c. eine Abnahme der Futter- und Wasseraufnahme.
 
 <sup>2</sup> Tierhalterinnen und Tierhalter von 100 und mehr Stück Hausgeflügel müssen zusätzlich Aufzeichnungen zu umgestandenen Tieren und besonderen Krankheitsanzeichen machen.
 
@@ -191,10 +195,14 @@ Dieser Anhang enthält zurzeit keine Einträge.
 
 Anhang 2[^t-2]
 
-(Art. 6)
+(Art. 5 Abs. 2 und 6)
+
+## Kontrollgebiete
+
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 12. Jan. 2026, in Kraft seit 13. Jan. 2026 um 12.00 Uhr ([AS 2026 9](https://fedlex.data.admin.ch/eli/oc/2026/9)).
+
+Als Kontrollgebiet gilt das Gebiet von 1 Kilometer Breite entlang der Schweizer Rhein- und Bodenseeufer zwischen dem Abfluss des Obersees und dem Flurlingersteg bei Neuhausen am Rheinfall, einschliesslich der deutschen Enklave Büsingen im Kanton Schaffhausen.
 
 ## Beobachtungsgebiete
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLV vom 24. Nov. 2025, in Kraft seit 25. Nov. 2025 um 12 Uhr ([AS 2025 750](https://fedlex.data.admin.ch/eli/oc/2025/750)).
-
-Als Beobachtungsgebiet gilt die ganze Schweiz, einschliesslich der deutschen Enklave Büsingen im Kanton Schaffhausen.
+Als Beobachtungsgebiet gilt die ganze Schweiz.
