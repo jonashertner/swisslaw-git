@@ -1,24 +1,23 @@
 ---
 canton: FR
 number: "431.1.12"
-title: "Ordonnance limitant le nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2025/26"
+title: "Ordonnance limitant le nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2026/27"
 language: fr
-version: 2024-12-16
-valid_until: 2026-01-12
-version_adopted: 2024-12-16
+version: 2026-01-13
+version_adopted: 2026-01-13
 adopted: 2026-01-13
 in_force: 2026-01-13
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8102/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8374/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance limitant le nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2025/26
+# Ordonnance limitant le nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2026/27
 
 Formation à l'enseignement au secondaire II, nombre d'admissions – O
 
-du 16.12.2024 (version entrée en vigueur le 16.12.2024)
+du 13.01.2026 (version entrée en vigueur le 13.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -26,13 +25,13 @@ Vu l'article 24 de la loi du 19 novembre 1997 sur l'Université (LUni);
 
 Considérant:
 
-En automne 2025, un nombre élevé d'inscriptions à la formation francophone à l'enseignement au secondaire II est une nouvelle fois attendu. Les collèges et le Centre d'enseignement et de recherche pour la formation à l'enseignement au secondaire (CERF ou le centre de formation à l'enseignement pour les écoles de maturité dès le 1<sup>er</sup> août 2025) ne pourront assurer une formation de qualité que dans les limites de leur capacité d'accueil.
+En automne 2026, un nombre élevé d'inscriptions à la formation francophone à l'enseignement au secondaire II est une nouvelle fois attendu. Les collèges et le Centre de formation à l'enseignement pour les écoles de maturité (CEEM) dans son unité francophone ne pourront assurer une formation de qualité que dans les limites de leur capacité d'accueil.
 
-C'est la raison pour laquelle le Rectorat de l'Université de Fribourg, par décision du 7 octobre 2024 et suivant la proposition du Conseil de la formation à l'enseignement au secondaire, a préavisé favorablement le recours à une limitation du nombre d'admissions à la formation à l'enseignement au secondaire II pour l'année académique 2025/26.
+Pour cette raison, le Rectorat de l'Université de Fribourg, par décision du 24 novembre 2025 et suivant la proposition du Groupe consultatif pour les programmes d'études reconnus par la CDIP, a préavisé favorablement le recours à une limitation du nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2026/27.
 
-Les critères de sélection demeurent inchangés, si ce n'est la date de l'attestation de l'achèvement complet des études qui a été fixée au 27 juin 2025 en raison de l'organisation des stages.
+Les critères de sélection demeurent inchangés. La date de l'attestation de l'achèvement complet des études académiques est fixée au 25 juin de chaque année en raison de l'organisation des stages.
 
-La condition de la restitution de la taxe de réservation de stage est précisée à l'article 5 al. 4. Pour que la taxe de réservation soit restituée aux candidats et candidates, ceux-ci doivent ne pas avoir interrompu leurs stages en date du 1<sup>er</sup> décembre 2025. Cette disposition permet d'éviter que la taxe d'inscription soit restituée à un candidat ou à une candidate ayant interrompu ses stages tout en restant momentanément inscrit‑e à la formation.
+La condition de la restitution de la taxe de réservation de stage est précisée à l'article 5 al. 4. Pour que la taxe de réservation soit restituée aux candidats et candidates, ceux-ci doivent ne pas avoir interrompu leurs stages en date du 1<sup>er</sup> décembre 2026. Cette disposition permet d'éviter que la taxe d'inscription soit restituée à un candidat ou à une candidate ayant interrompu ses stages tout en restant momentanément inscrit-e à la formation.
 
 Sur la proposition de la Direction de la formation et des affaires culturelles,
 
@@ -42,7 +41,7 @@ Arrête:
 
 **Champ d'application et but**
 
-<sup>1</sup> La présente ordonnance s'applique à la formation francophone à l'enseignement au secondaire II pour l'année académique 2025/26.
+<sup>1</sup> La présente ordonnance s'applique à la formation francophone à l'enseignement au secondaire II pour l'année académique 2026/27.
 
 <sup>2</sup> Elle règle la limitation de l'accès aux études, fondée sur une procédure d'admission sélective.
 
@@ -56,7 +55,7 @@ Arrête:
 
 **Organisation**
 
-<sup>1</sup> La procédure d'admission est organisée par la Commission d'évaluation de la formation pratique des enseignants et enseignantes du secondaire II en section française de l'Université de Fribourg (ci-après: la Commission d'évaluation), conformément à la réglementation relative à la formation francophone à l'enseignement au secondaire II, au plan d'études de cette formation et aux statuts de la Commission d'évaluation.
+<sup>1</sup> La procédure d'admission est organisée par la Commission d'évaluation de la formation professionnelle pratique du Diplôme d'enseignement pour les écoles de maturité, section française, de l'Université de Fribourg (ci-après: la Commission d'évaluation), conformément à la réglementation relative à la formation francophone à l'enseignement au secondaire II, au plan d'études de cette formation et aux statuts de la Commission d'évaluation.
 
 #### Art. 4
 
@@ -64,19 +63,19 @@ Arrête:
 
 <sup>1</sup> Si le nombre total de demandes d'admission dépasse la capacité d'accueil, selon l'article 2, ou si le nombre de demandes d'admission dans une discipline dépasse le nombre d'admissions possibles, une sélection des candidatures doit être opérée. Pour la décision d'admission sont alors déterminants:
 
-- a) l'attestation de l'achèvement complet, au 27 juin 2025, de la formation disciplinaire, y compris la soutenance du mémoire et les éventuels compléments;
+- a) l'attestation de l'achèvement complet, au 25 juin 2026, de la formation disciplinaire, y compris la soutenance du mémoire et les éventuels compléments;
 - b) le résultat obtenu à l'évaluation mise sur pied conjointement par les départements de l'Université de Fribourg dont dépendent les disciplines enseignables et par les responsables de la didactique de celles-ci.
 
 #### Art. 5
 
 **Dates de la procédure d'admission**
 
-<sup>1</sup> Pour l'année académique 2025/26, le dépôt des demandes d'admission est possible jusqu'au 15 février 2025; l'évaluation aura lieu entre le 24 février et le 17 mars 2025.
+<sup>1</sup> Pour l'année académique 2026/27, le dépôt des demandes d'admission est possible jusqu'au 15 février 2026; l'évaluation aura lieu entre le 23 février et le 13 mars 2026.
 
-<sup>2</sup> Les candidats et candidates avec deux disciplines enseignables informent au moment du dépôt du dossier si la formation monodisciplinaire est également souhaitée. Cette possibilité reste toutefois du ressort de la Commission d'évaluation, en fonction du nombre de places de stage.
+<sup>2</sup> Les candidats et candidates avec deux disciplines enseignables informent au moment du dépôt du dossier si la formation mono-disciplinaire est également souhaitée. Cette possibilité reste toutefois du ressort de la Commission d'évaluation, en fonction du nombre de places de stage.
 
-<sup>3</sup> D'ici au 21 mars 2025, la Commission d'évaluation communique aux personnes candidates la décision d'admission provisoire, sous condition de présentation de l'attestation mentionnée à l'article 4 al. 1 let. a.
+<sup>3</sup> D'ici au 24 mars 2026, la Commission d'évaluation communique aux personnes candidates la décision d'admission provisoire, sous condition de présentation de l'attestation mentionnée à l'article 4 al. 1 let. a.
 
-<sup>4</sup> Les candidats et candidates qui déposent une demande d'admission jusqu'au 15 février 2025 versent également, à cette échéance au plus tard une taxe de réservation de stage de 1000 francs. Pour les personnes non retenues par la Commission d'évaluation, cette finance leur est rétrocédée dès la fin de la procédure de préinscription; pour celles qui sont retenues, cette finance leur est rétrocédée dès le 1<sup>er</sup> décembre 2025, pour autant que le candidat ou la candidate n'ait pas interrompu ses stages jusque-là.
+<sup>4</sup> Les candidats et candidates qui déposent une demande d'admission jusqu'au 15 février 2026 versent également, à cette échéance au plus tard une taxe de réservation de stage de 1000 francs. Pour les personnes non retenues par la Commission d'évaluation, cette finance leur est rétrocédée dès la fin de la procédure de préinscription; pour celles qui sont retenues, cette finance leur est rétrocédée dès le 1<sup>er</sup> décembre 2026, pour autant que le candidat ou la candidate n'ait pas interrompu ses stages jusque-là.
 
-2024\_107
+2026\_002
