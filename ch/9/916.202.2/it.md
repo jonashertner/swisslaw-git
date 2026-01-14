@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFAM concernente le misure fitosanitarie per le foreste (
 short: OMF-UFAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: it
-version: 2023-05-15
+version: 2026-01-15
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20230515/it/xml/fedlex-data-admin-ch-eli-cc-2017-825-20230515-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20230515/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20260115/it/xml/fedlex-data-admin-ch-eli-cc-2017-825-20260115-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20230515/it"
 
 (OMF-UFAM)
 
-del 29 novembre 2017 (Stato 15 maggio 2023)
+del 29 novembre 2017 (Stato 15 gennaio 2026)
 
 L’Ufficio federale dell’ambiente (UFAM),
 
@@ -25,8 +25,8 @@ visti gli articoli 22, 23, 32, 34 e 36 dell’ordinanza del 31 ottobre 2018[^ing
 
 ordina:
 
-[^ingress-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O dell’UFAM del 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^ingress-1]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O dell’UFAM del 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
 
 #### Art. 1
 
@@ -48,8 +48,8 @@ Le merci temporaneamente escluse dal divieto d’importazione, le condizioni d�
 
 Le merci per la cui importazione da Stati terzi si applicano condizioni riconosciute come equivalenti alle condizioni specifiche di cui all’allegato 7 dell’ordinanza del DEFR e del DATEC del 14 novembre 2019[^2a-2] concernente l’ordinanza sulla salute dei vegetali (OSalV-DEFR-DATEC) sono indicate nell’allegato 2*a*.
 
-[^2a-1]: Introdotto dal n. I dell’O dell’UFAM del 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
-[^2a-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^2a-1]: Introdotto dalla cifra I dell’O dell’UFAM del 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^2a-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 3
 
@@ -57,7 +57,7 @@ Le merci per la cui importazione da Stati terzi si applicano condizioni riconosc
 
 Le misure volte a impedire l’introduzione e la diffusione di organismi da quarantena potenziali sono indicate nell’allegato 3.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
 
 #### Art. 4
 
@@ -65,8 +65,8 @@ Le misure volte a impedire l’introduzione e la diffusione di organismi da quar
 
 Le misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di determinati organismi da quarantena potenziali di cui all’allegato 1 OSalV-DEFR-DATEC[^4-2] sono indicate nell’allegato 4.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
-[^4-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^4-1]: Nuovo testo giusta la cifra I dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^4-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 5
 
@@ -80,7 +80,7 @@ Allegato 1[^t-1]
 
 ## Equivalenze terminologiche e diritto applicabile
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Aggiornato dal n. II cpv. 1 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) e dal n. I dell’O dell’UFAM del 6 apr. 2023, in vigore dal 15 mag. 2023 ([RU 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Aggiornato dalla cifra II cpv. 1 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) e dalla cifra I dell’O dell’UFAM del 6 apr. 2023, in vigore dal 15 mag. 2023 ([RU 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
 
 ### 1 Equivalenze terminologiche
 
@@ -142,7 +142,7 @@ Se la presente ordinanza rimanda ad atti normativi dell’UE che, a loro volta, 
 <tr><td colspan="2">All. I parte B</td><td colspan="2">Art. 8 cpv. 4 OSalV</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex1-lvlu1-lvl2-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 Allegato 2[^t-2]
 
@@ -150,34 +150,64 @@ Allegato 2[^t-2]
 
 ## Merci temporaneamente escluse dal divieto d’importazione, condizioni d’importazione e durata dell’esclusione dal divieto d’importazione
 
-[^t-2]: Aggiornato dal n. II cpv. 2 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)), dal n. II cpv. 1 dell’O dell’UFAM del 17 nov. 2020, in vigore dal1° gen. 2021 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) e dal n. II dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^t-2]: Nuovo testo giusta la cifra I cpv. 1 dell’O dell’UFAM del 10 dic. 2025, in vigore dal 15 gen. 2026 ([RU 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 ...
+### 1 Vegetali di *Chamaecyparis* Spach, *Juniperus* L. e *Pinus* L. nanizzati naturalmente o artificialmente, originari della Repubblica di Corea
 
-### 2 Vegetali di *Chamaecyparis* Spach, *Juniperus* L. e *Pinus* L., nanizzati naturalmente o artificialmente, originari del Giappone
+### 1.1 Esclusione temporanea dal divieto d’importazione
+
+L’importazione di vegetali di cui all’articolo 1 del regolamento di esecuzione (UE) 2023/1310[^annex2-lvlu1-lvl1-lvl11-1] originari della Repubblica di Corea è temporaneamente esclusa dal divieto d’importazione se sono soddisfatte le seguenti condizioni:
+
+- a. l’importatore dispone di uno spazio adeguato per la quarantena di cui al numero 9 dell’allegato del regolamento di esecuzione (UE) 2023/1310;
+- b. il fornitore figura nell’elenco, aggiornato annualmente dalla Repubblica di Corea, dei vivai autorizzati a esportare in Europa di cui al numero 3 dell’allegato del regolamento di esecuzione (UE) 2023/1310;
+- c. i vegetali soddisfano, oltre ai requisiti di cui all’allegato 7 numero 30 OSalV-DEFR-DATEC[^annex2-lvlu1-lvl1-lvl11-2], i requisiti stabiliti nell’allegato del regolamento di esecuzione (UE) 2023/1310.
+
+[^annex2-lvlu1-lvl1-lvl11-1]: Regolamento di esecuzione (UE) 2023/1310 della Commissione, del 27 giugno 2023, che stabilisce una deroga al regolamento di esecuzione (UE) 2019/2072 per quanto riguarda l’introduzione nel territorio dell’Unione di piante nanizzate naturalmente o artificialmente, da impianto, di *Chamaecyparis* Spach, *Juniperus* L. e di alcune specie di *Pinus* L., originarie della Repubblica di Corea, versione della GU L 162 del 28.6.2023, pag. 6.
+[^annex2-lvlu1-lvl1-lvl11-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+
+### 1.2 Notifica di una partita destinata all’importazione
+
+Al SFF devono essere comunicati almeno con una settimana di anticipo:
+
+- a. la data prevista d’arrivo di una partita destinata all’importazione contenente vegetali di cui al numero 1.1;
+- b. la quantità dei vegetali importati; e
+- c. il luogo di sbarco della partita nell’UE.
+
+### 1.3 Durata dell’esclusione dal divieto d’importazione
+
+L’esclusione dal divieto d’importazione si applica durante i periodi indicati nell’articolo 4 del regolamento di esecuzione (UE) 2023/1310.
+
+### 1.4 Disposizione speciale
+
+Laddove, conformemente al regolamento di esecuzione (UE) 2023/1310, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
+
+### 2 Vegetali di *Chamaecyparis* Spach, *Juniperus* L. e *Pinus* L. nanizzati naturalmente o artificialmente, originari del Giappone
 
 ### 2.1 Esclusione temporanea dal divieto d’importazione
 
-L’importazione di vegetali di cui all’articolo 1 del regolamento di esecuzione (UE) 2020/1217[^annex2-lvlu1-lvl2-lvl21-1], originari del Giappone, è temporaneamente esclusa dal divieto d’importazione se sono soddisfatte le seguenti condizioni:
+L’importazione di vegetali di cui all’articolo 1 del regolamento di esecuzione (UE) 2024/2852[^annex2-lvlu1-lvl2-lvl21-1] originari del Giappone è temporaneamente esclusa dal divieto d’importazione se sono soddisfatte le seguenti condizioni:
 
-- a. l’importatore dispone di uno spazio adeguato per la quarantena di cui al numero 10 dell’allegato del regolamento di esecuzione (UE) 2020/1217;
-- b. il fornitore figura nell’elenco, aggiornato annualmente dal Giappone, dei vivai autorizzati a esportare in Europa di cui al numero 3 dell’allegato del regolamento di esecuzione (UE) 2020/1217;
-- c. i vegetali soddisfano, oltre ai requisiti di cui all’allegato 7 numero 30 OSalV-DEFR-DATEC[^annex2-lvlu1-lvl2-lvl21-2], i requisiti stabiliti nell’allegato del regolamento di esecuzione 2020/1217 (UE).
+- a. l’importatore dispone di uno spazio adeguato per la quarantena di cui al numero 2.1 dell’allegato del regolamento di esecuzione (UE) 2024/2852;
+- b. il fornitore figura nell’elenco, aggiornato annualmente dal Giappone, dei vivai autorizzati a esportare in Europa di cui al numero 1.2 dell’allegato del regolamento di esecuzione (UE) 2024/2852;
+- c. i vegetali soddisfano, oltre ai requisiti di cui all’allegato 7 numero 30 OSalV-DEFR-DATEC, i requisiti stabiliti nell’allegato del regolamento di esecuzione (UE) 2024/2852.
 
-[^annex2-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2020/1217 della Commissione, del 25 agosto 2020, relativo a una deroga al regolamento di esecuzione (UE) 2019/2072 per quanto riguarda l’introduzione nell’Unione di piante nanizzate naturalmente o artificialmente, da impianto, di *Chamaecyparis Spach*, *Juniperus L.* e alcune specie di *Pinus L*., originarie del Giappone, e che abroga la decisione 2002/887/CE, versione secondo GU L 277 del 26.8.2020, pag. 6.
-[^annex2-lvlu1-lvl2-lvl21-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex2-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2024/2852 della Commissione, dell’11 novembre 2024, che stabilisce una deroga al regolamento di esecuzione (UE) 2019/2072 per quanto riguarda le prescrizioni per l’introduzione nel territorio dell’Unione di piante nanizzate naturalmente o artificialmente, da impianto, di *Chamaecyparis* Spach, *Juniperus* L., e alcune specie di *Pinus* L., originarie del Giappone, e che abroga il regolamento di esecuzione (UE) 2020/1217, versione della GU L, 2024/2852, 12.11.2024.
 
 ### 2.2 Notifica di una partita destinata all’importazione
 
-La data prevista d’arrivo di una partita destinata all’importazione contenente vegetali di cui al numero 2.1, la loro quantità e il loro luogo di sbarco nell’UE devono essere comunicati al SFF almeno con una settimana di anticipo.
+Al SFF devono essere comunicati almeno con una settimana di anticipo:
+
+- a. la data prevista d’arrivo di una partita destinata all’importazione contenente vegetali di cui al numero 2.1;
+- b. la quantità dei vegetali importati; e
+- c. il luogo di sbarco della partita nell’UE.
 
 ### 2.3 Durata dell’esclusione dal divieto d’importazione
 
-L’esclusione dal divieto d’importazione si applica durante i periodi indicati nell’articolo 3 del regolamento di esecuzione (UE) 2020/1217.
+L’esclusione dal divieto d’importazione si applica durante i periodi indicati nell’articolo 2 del regolamento di esecuzione (UE) 2024/2852.
 
 ### 2.4 Disposizione speciale
 
-Laddove, conformemente al regolamento di esecuzione (UE) 2020/2017 la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
+Laddove, conformemente al regolamento di esecuzione (UE) 2024/2852, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
 
 Allegato 2a[^t-3]
 
@@ -185,54 +215,36 @@ Allegato 2a[^t-3]
 
 ## Merci per la cui importazione da Stati terzi si applicano condizioni specifiche riconosciute come equivalenti
 
-[^t-3]: Introdotto dal n. II cpv. 2 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)). Aggiornato dal n. II dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^t-3]: Introdotto dalla cifra II cpv. 2 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)). Aggiornato dalla cifra I cpv. 2 dell’O dell’UFAM del 10 dic. 2025, in vigore dal 15 gen. 2026 ([RU 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 Legno di *Fraxinus* L. originario del Canada o ivi lavorato
+### 1 e 2 ...
 
-### 1.1 Condizioni specifiche riconosciute come equivalenti
+### 3 Legno di quercia (*Quercus* L.), che ha conservato la superficie rotonda naturale insieme alla corteccia, originario degli Stati Uniti d’America
 
-Per l’importazione di legno di frassino (*Fraxinus* L.) di cui all’allegato 7 numero 87 OSalV-DEFR-DATEC[^annex2a-lvlu1-lvl1-lvl11-1], originario del Canada o ivi lavorato, le seguenti condizioni sono riconosciute come equivalenti alle condizioni specifiche di cui all’allegato 7 numero 87 lettere a e b OSalV-DEFR-DATEC:
+### 3.1 Condizioni specifiche riconosciute come equivalenti
 
-- a. il legno è accompagnato da un certificato fitosanitario rilasciato in Canada attestante che esso risulta indenne da organismi da quarantena e da organismi da quarantena potenziali;
-- b.
+Per l’importazione di legno di quercia (*Quercus* L.) secondo l’allegato 7 numero 90 OSalV-DEFR-DATEC[^annex2a-lvlu1-lvl3-lvl31-1] originario degli Stati Uniti d’America, le condizioni di cui agli articoli 4−8 del regolamento di esecuzione (UE) 2023/1312[^annex2a-lvlu1-lvl3-lvl31-2] e al relativo allegato sono riconosciute come equivalenti per il legno che ha conservato la superficie rotonda naturale insieme alla corteccia.
 
-  il certificato fitosanitario deve comprendere nella rubrica «Dichiarazione supplementare» le seguenti indicazioni:
+[^annex2a-lvlu1-lvl3-lvl31-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^annex2a-lvlu1-lvl3-lvl31-2]: Regolamento di esecuzione (UE) 2023/1312 della Commissione del 27 giugno 2023 recante deroga al regolamento di esecuzione (UE) 2019/2072 per quanto riguarda le prescrizioni per l’introduzione nel territorio dell’Unione di tronchi di quercia con corteccia originari degli Stati Uniti, versione della GU L 162 del 28.6.2023, pag. 51.
 
-  - 1\. la dicitura «In conformità con i requisiti stabiliti dal regolamento di esecuzione (UE) 2020/918[^annex2a-lvlu1-lvl1-lvl11-2] della Commissione»,
-  - 2\. il numero del fascio corrispondente a ogni specifico fascio che viene esportato,
-  - 3\. il nome dell’impianto autorizzato in Canada;
+### 3.2 Notifica di una partita destinata all’importazione
 
-- c. il legno soddisfa i requisiti di cui all’allegato del regolamento di esecuzione (UE) 2020/918.
+Al SFF devono essere comunicati almeno con una settimana di anticipo:
 
-[^annex2a-lvlu1-lvl1-lvl11-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex2a-lvlu1-lvl1-lvl11-2]: Regolamento di esecuzione (UE) 2020/918 della Commissione, del 1° luglio 2020, recante deroga al regolamento di esecuzione (UE) 2019/2072 per quanto riguarda le prescrizioni per l’introduzione nell’Unione di legno di frassino originario del Canada o ivi lavorato, versione secondo GU L 209 del 2.7.2020, pag. 14.
+a. la data prevista d’arrivo di una partita destinata all’importazione contenente vegetali di cui al numero 3.1;
 
-### 1.2 Durata di validità delle condizioni specifiche riconosciute come equivalenti
+b. la quantità dei vegetali importati; e
 
-Le condizioni di cui al numero 1.1 sono riconosciute come equivalenti durante il periodo indicato nell’articolo 3 del regolamento di esecuzione (UE) 2020/918.
+c. il luogo di sbarco della partita nell’UE.
 
-### 2 Legno di *Fraxinus* L. originario degli Stati Uniti o ivi lavorato
+### 3.3 Durata di validità delle condizioni specifiche riconosciute come equivalenti
 
-### 2.1 Condizioni specifiche riconosciute come equivalenti
+Le condizioni di cui al numero 3.1 sono considerate equivalenti durante i periodi indicati nell’articolo 10 del regolamento di esecuzione (UE) 2023/1312.
 
-Per l’importazione di legno di frassino (*Fraxinus* L.) di cui all’allegato 7 numero 87 OSalV-DEFR-DATEC, originario degli Stati Uniti o ivi lavorato, le seguenti condizioni sono riconosciute come equivalenti alle condizioni specifiche di cui all’allegato 7 numero 87 lettere a e b OSalv-DEFR-DATEC:
+### 3.4 Disposizione speciale
 
-- a. il legno è accompagnato da un certificato fitosanitario emesso negli Stati Uniti attestante che esso risulta indenne da organismi da quarantena e da organismi da quarantena potenziali;
-- b.
-
-  il certificato fitosanitario deve comprendere nella rubrica «Dichiarazione supplementare» i seguenti elementi:
-
-  - 1\. la dicitura «In conformità con i requisiti stabiliti dal regolamento di esecuzione (UE) 2020/1002[^annex2a-lvlu1-lvl2-lvl21-1] della Commissione»,
-  - 2\. il numero del fascio corrispondente a ogni specifico fascio che viene esportato,
-  - 3\. il nome dell’impianto autorizzato negli Stati Uniti;
-
-- c. il legno soddisfa i requisiti di cui all’allegato del regolamento di esecuzione (UE) 2020/1002.
-
-[^annex2a-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2020/1002 della Commissione, del 9 luglio 2020, recante deroga al regolamento di esecuzione (UE) 2019/2072 per quanto riguarda le prescrizioni per l’introduzione nell’Unione di legno di frassino originario degli Stati Uniti o ivi lavorato, versione secondo GU L 221 del 10.7.2020, pag. 122.
-
-### 2.2 Durata di validità delle condizioni specifiche riconosciute come equivalenti
-
-Le condizioni di cui al numero 2.1 sono riconosciute come equivalenti durante il periodo indicato nell’articolo 3 del regolamento di esecuzione (UE) 2020/1002.
+Laddove, conformemente al regolamento di esecuzione (UE) 2023/1312, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
 
 Allegato 3[^t-4]
 
@@ -240,21 +252,9 @@ Allegato 3[^t-4]
 
 ## Misure volte a impedire l’introduzione e la diffusione di organismi da quarantena potenziali
 
-[^t-4]: Aggiornato dai n. II cpv. 2 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) e II dell’O dell’UFAM del 30 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^t-4]: Aggiornato dalla cifra II cpv. 2 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)), dalla cifra II dell’O dell’UFAM del 30 nov. 2021 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)) e dalla cifra I cpv. 2 dell’O dell’UFAM del 10 dic. 2025, in vigore dal 15 gen. 2026 ([RU 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov.
-
-### 1.1 Misure volte a impedire l’introduzione e la diffusione
-
-Per prevenire l’introduzione e la diffusione di *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov. si applicano gli articoli 1–7 della decisione 2002/757/CE[^annex3-lvlu1-lvl1-lvl11-1] e gli allegati I e II ivi menzionati.
-
-[^annex3-lvlu1-lvl1-lvl11-1]: Decisione 2002/757/CE della Commissione, del 19 settembre 2002, relativa a misure fitosanitarie provvisorie di emergenza volte ad impedire l’introduzione e la propagazione nella Comunità di *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov., GU L 252, del 20.9.2002, modificata da ultimo dalla decisione 2016/1967/UE, GU L 303, del 10.11.2016, pag. 21.
-
-### 1.2 Disposizioni speciali
-
-- 1\.2.1 I vegetali sensibili, il legname sensibile e le cortecce sensibili che soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dalla decisione 2002/757/CE possono essere introdotti anche in Svizzera.
-- 1\.2.2 Invece del termine stabilito all’articolo 6 paragrafo 2 della decisione 2002/757/CE, si applica il termine stabilito dal Servizio fitosanitario federale (SFF). Il SFF comunica il termine ai Cantoni in forma adeguata.
-- 1\.2.3 Laddove, conformemente agli articoli 5, 6 capoversi 2 e 3, 6*a* e 7 della decisione 2002/757/CE, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
+### 1 ...
 
 ### 2 ...
 
@@ -264,23 +264,23 @@ Allegato 4[^t-5]
 
 ## Misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di organismi da quarantena di cui all’allegato 1 OSalV-DEFR-DATEC
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Aggiornato dal n. II cpv. 1 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)), dal n. II dell’O dell’UFAM del 30 nov. 2021 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)) e dal n. I dell’O dell’UFAM del 6 apr. 2023, in vigore dal 15 mag. 2023 ([RU 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
+[^t-5]: Nuovo testo giusta la cifra I cpv. 1 dell’O dell’UFAM del 10 dic. 2025, in vigore dal 15 gen. 2026 ([RU 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
 ### 1 Merci con materiale da imballaggio in legno proveniente da Stati terzi
 
 ### 1.1 Misure volte a impedire l’introduzione e la diffusione
 
-Per prevenire l’introduzione e la diffusione di organismi da quarantena di cui all’allegato 1 OSalV-DEFR-DATEC[^annex4-lvlu1-lvl1-lvl11-1], in caso di rischio fitosanitario elevato, all’importazione di merci con materiale da imballaggio in legno proveniente da Stati terzi si applicano gli articoli 1–4 del regolamento di esecuzione (UE) 2021/127[^annex4-lvlu1-lvl1-lvl11-2].
+Per prevenire l’introduzione e la diffusione di organismi da quarantena di cui all’allegato 1 OSalV-DEFR-DATEC[^annex4-lvlu1-lvl1-lvl11-1], in caso di rischio fitosanitario elevato, all’importazione di merci con materiale da imballaggio in legno proveniente da Stati terzi si applicano gli articoli 1–4 del regolamento di esecuzione (UE) 2024/288[^annex4-lvlu1-lvl1-lvl11-2].
 
-[^annex4-lvlu1-lvl1-lvl11-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex4-lvlu1-lvl1-lvl11-2]: Regolamento di esecuzione (UE) 2021/127 della Commissione, del 3 febbraio 2021, che stabilisce le prescrizioni per l’introduzione nel territorio dell’Unione di materiale da imballaggio in legno per il trasporto di determinati prodotti originari di alcuni paesi terzi e per i controlli fitosanitari effettuati su tale materiale, e che abroga la decisione di esecuzione (UE) 2018/1137, versione secondo GU L 40 del 4.2.2021, pag. 3.
+[^annex4-lvlu1-lvl1-lvl11-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^annex4-lvlu1-lvl1-lvl11-2]: Regolamento di esecuzione (UE) 2024/288 della Commissione, del 18 gennaio 2024, relativo alla frequenza dei controlli effettuati sul materiale da imballaggio in legno utilizzato per trasportare, proteggere o sostenere determinati prodotti provenienti da alcuni Paesi terzi, versione della GU L, 2024/288, 19.1.2024.
 
 ### 1.2 Disposizioni speciali
 
-- 1\.2.1 Laddove, conformemente al regolamento di esecuzione (UE) 2021/127, si parla di materiale di imballaggio originario della Bielorussia, della Cina e dell’India, nella presente ordinanza s’intende materiale da imballaggio in legno proveniente da Stati terzi secondo l’articolo 2 lettera k OSalV.
-- 1\.2.2 Laddove, conformemente al regolamento di esecuzione (UE) 2021/127, la competenza spetta alle autorità competenti, in Svizzera è competente il Servizio fitosanitario federale (SFF).
+- 1\.2.1 Laddove, conformemente al regolamento di esecuzione (UE) 2024/288, si parla di materiale di imballaggio originario della Bielorussia, della Cina e dell’India, nella presente ordinanza s’intende materiale da imballaggio in legno proveniente da Stati terzi secondo l’articolo 2 lettera k OSalV.
+- 1\.2.2 Laddove, conformemente al regolamento di esecuzione (UE) 2024/288, la competenza spetta alle autorità competenti, in Svizzera è competente il SFF.
 - 1\.2.3 Le merci di cui al numero 1.2.8 introdotte con materiale da imballaggio in legno devono essere notificate al SFF due giorni lavorativi prima dell’importazione. La vendita e la distribuzione di tali merci sono bloccate fintanto che il controllo del SFF non attesta che il materiale da imballaggio in legno è indenne e sono soddisfatti i requisiti dell’allegato 7 numeri 9–14 OSalV-DEFR-DATEC.
-- 1\.2.4 le unità d’imballaggio devono essere depositate temporaneamente con il sigillo originale.
+- 1\.2.4 Le unità d’imballaggio devono essere depositate temporaneamente con il sigillo originale.
 - 1\.2.5 Le merci con materiale da imballaggio in legno devono essere depositate temporaneamente in modo da consentire agli ispettori del SFF di accedere facilmente alle unità di imballaggio e al loro contenuto.
 - 1\.2.6
 
@@ -290,7 +290,7 @@ Per prevenire l’introduzione e la diffusione di organismi da quarantena di cui
   - b. nei casi rimanenti: entro due giorni lavorativi dall’arrivo della merce nel luogo d’ispezione.
 
 - 1\.2.7 Se il controllo non ha dato luogo a contestazioni, il SFF conferma, per scritto, lo sblocco della vendita o della distribuzione del lotto.
-- 1\.2.8 Invece dell’allegato I del regolamento di esecuzione (UE) 2021/127, si applica la seguente tabella:
+- 1\.2.8 Invece dell’allegato del regolamento di esecuzione (UE) 2024/288, si applica la seguente tabella:
 
 <table>
 <tr><th>Codice NC / voce di tariffa doganale</th><th>Descrizione</th></tr>
@@ -309,7 +309,7 @@ Per prevenire l’introduzione e la diffusione di organismi da quarantena di cui
 <tr><td>4418</td><td>Lavori di falegnameria e lavori di carpenteria per costruzioni, compresi i pannelli cellulari, i pannelli assemblati per pavimenti e le tavole di copertura, di legno</td></tr>
 <tr><td>4421</td><td>Altri lavori di legno</td></tr>
 <tr><td></td><td>Carta e cartone; lavori di pasta di carta, di carta o di cartone</td></tr>
-<tr><td>4823</td><td>Altra carta, altro cartone, altra ovatta di cellulosa e altri strati di fibre di cellulosa, tagliati a misura; altri lavori di pasta di carta, di carta, di cartone, di ovatta di cellulosa o di strati di fibre di cellulosa</td></tr>
+<tr><td>4823</td><td>Altra carta, altro cartone, altra ovatta di cellulosa e altri strati di fibre di cellulosa, tagliati a misura; altri lavori di pasta di cellulosa, di carta, cartone, ovatta di cellulosa o strati di fibre di cellulosa</td></tr>
 <tr><td></td><td>Lavori di pietre, gesso, cemento, amianto, mica o materie simili</td></tr>
 <tr><td>6801</td><td>Blocchetti, bordi per marciapiedi, e lastre per pavimentazioni, di pietre naturali (diverse dall’ardesia)</td></tr>
 <tr><td>6802</td><td>Pietre da taglio o da costruzione (diverse dall’ardesia) lavorate e lavori di tali pietre, esclusi quelli della voce 6801; cubi, tessere e simili per mosaici, di pietre naturali (compresa l’ardesia), anche su supporto; granulati, scaglie e polveri di pietre naturali (compresa l’ardesia), colorati artificialmente</td></tr>
@@ -356,47 +356,47 @@ Per prevenire l’introduzione e la diffusione di organismi da quarantena di cui
 
 ### 2.1 Misure volte a impedire l’introduzione e la diffusione
 
-Per prevenire l’introduzione e la diffusione di *Anoplophora chinensis* (Forster), in caso di rischio fitosanitario elevato si applicano gli articoli 1–14 del regolamento di esecuzione (UE) 2022/2095[^annex4-lvlu1-lvl2-lvl21-1] e gli allegati I e II ivi menzionati nonché le norme internazionali per le misure fitosanitarie (ISPM) numero 5, 9, 14 e 31 dell’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura (FAO) ivi menzionate[^annex4-lvlu1-lvl2-lvl21-2].
+Per prevenire l’introduzione e la diffusione di *Anoplophora chinensis* (Forster), in caso di rischio fitosanitario elevato si applicano gli articoli 1–9, 13 e 14 del regolamento di esecuzione (UE) 2022/2095[^annex4-lvlu1-lvl2-lvl21-1] e gli allegati I e II ivi menzionati nonché le norme internazionali per le misure fitosanitarie (ISPM) numero 5, 9, 14 e 31 dell’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura[^annex4-lvlu1-lvl2-lvl21-2] ivi menzionate.
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2022/2095 della Commissione, del 28 ottobre 2022, che stabilisce misure per prevenire l’introduzione, l’insediamento e la diffusione nel territorio dell’Unione di *Anoplophora chinensis* (Forster) e che abroga la decisione 2012/138/UE, versione della GU L 281 del 31.10.2022, pag. 53.
-[^annex4-lvlu1-lvl2-lvl21-2]: Le norme ISPM n. 5 «Glossary of phytosanitary terms» (versione del 6.2.2023), n. 9 «Guidelines for pest eradication programmes» (versione del 13.7.2021), n. 14 «The use of integrated measures in a systems approach for pest risk management» (versione del 13.7.2021) e n. 31 «Methodologies for sampling of consignments» (versione del 13.7.2021) possono essere consultate gratuitamente sul sito [www.ippc.int](http://www.ippc.int) &gt; Standards.
+[^annex4-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2022/2095 della Commissione, del 28 ottobre 2022, che stabilisce misure per prevenire l’introduzione, l’insediamento e la diffusione nel territorio dell’Unione di *Anoplophora chinensis* (Forster) e che abroga la decisione 2012/138/UE, versione della GU L 281 del 31.10.2022, pag. 53; modificato da ultimo dal regolamento di esecuzione (UE) 2025/2461, GU L, 2025/2461, 3.12.2025.
+[^annex4-lvlu1-lvl2-lvl21-2]: Le norme ISPM n. 5 «Glossary of phytosanitary terms» (versione del 6.2.2023), n. 9 «Guidelines for pest eradication programmes» (versione del 13.7.2021), n. 14 «The use of integrated measures in a systems approach for pest risk management» (versione del 13.7.2021) e n. 31 «Methodologies for sampling of consignments» (versione del 13.7.2021) possono essere consultate gratuitamente sul sito [www.ippc.int](https://www.ippc.int/fr/) &gt; Standards.
 
 ### 2.2 Disposizioni speciali
 
-- 2\.2.1 I vegetali specificati che soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dall’articolo 10 del regolamento di esecuzione (UE) 2022/2095 possono essere introdotti anche in Svizzera.
+- 2\.2.1 I vegetali specificati che soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dal regolamento di esecuzione (UE) 2022/2095 possono essere introdotti anche in Svizzera.
 - 2\.2.2 Invece dei termini stabiliti agli articoli 4 e 13 del regolamento di esecuzione (UE) 2022/2095, si applicano i termini stabiliti dal SFF. Il SFF comunica i termini ai Cantoni in forma adeguata.
-- 2\.2.3 Laddove, conformemente agli articoli 4, 9 capoverso 2 e 14 del regolamento di esecuzione (UE) 2022/2095, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
+- 2\.2.3 Laddove, conformemente agli articoli 4, 9 paragrafo 2 e 14 del regolamento di esecuzione (UE) 2022/2095, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
 
 ### 3 *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al.
 
 ### 3.1 Misure volte a impedire l’introduzione e la diffusione
 
-Per prevenire l’introduzione e la diffusione di *Bursaphelenchus xylophilus* (Steiner et Buhrer), in caso di rischio fitosanitario elevato si applicano gli articoli 1–17 della decisione di esecuzione 2012/535/UE[^annex4-lvlu1-lvl3-lvl31-1] e gli allegati I-III ivi menzionati.
+Per prevenire l’introduzione e la diffusione di *Bursaphelenchus xylophilus* (Steiner et Burher) in caso di rischio fitosanitario elevato si applicano gli articoli 1–17 della decisione di esecuzione 2012/535/UE[^annex4-lvlu1-lvl3-lvl31-1] e gli allegati I–III ivi menzionati.
 
-[^annex4-lvlu1-lvl3-lvl31-1]: Decisione di esecuzione 2012/535/UE della Commissione, del 26 settembre 2012, relativa a misure urgenti di prevenzione della propagazione nell’Unione di *Bursaphelenchus xylophilus* (Steiner e Buhrer) Nickle et al. (nematode del pino), GU L 266, del 2.10.2012, pag. 42, modificata da ultimo dalla decisione di esecuzione (UE) 2018/618, GU L 102 del 23.4.2018, pag. 17.
+[^annex4-lvlu1-lvl3-lvl31-1]: Regolamento di esecuzione 2012/535/UE della Commissione, del 26 settembre 2012, relativa a misure urgenti di prevenzione della propagazione nell’Unione di *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al. (nematode del pino), versione della GU L 266 del 2.10.2012, pag. 42; modificata da ultimo dalla decisione di esecuzione (UE) 2018/618, versione della GU L 102 del 23.4.2018, pag. 17.
 
 ### 3.2 Disposizioni speciali
 
 - 3\.2.1 I vegetali sensibili, il legname sensibile e le cortecce sensibili che soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dalla decisione di esecuzione 2012/535/UE possono essere introdotti anche in Svizzera.
-- 3\.2.2 Invece dei termini stabiliti agli articoli 5, 9 e 11 capoverso 3 della decisione di esecuzione 2012/535/UE, si applicano i termini stabiliti dal SFF. Il SFF comunica i termini ai Cantoni in forma adeguata.
-- 3\.2.3 Laddove, conformemente all’articolo 2 capoversi 2 e 3 e agli articoli 4, 5 capoverso 2, 9 capoversi 1, 2, 4 e 5 e 13–17 della decisione di esecuzione 2012/535/UE, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
+- 3\.2.2 Invece dei termini stabiliti agli articoli 5, 9 e 11 paragrafo 3 della decisione di esecuzione 2012/535/UE, si applicano i termini stabiliti dal SFF. Il SFF comunica i termini ai Cantoni in forma adeguata.
+- 3\.2.3 Laddove, conformemente all’articolo 2 paragrafi 2 e 3, agli articoli 4, 5 paragrafo 2, all’articolo 9 paragrafi 1, 2, 4 e 5, e agli articoli 13–17 della decisione di esecuzione 2012/535/UE, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
 
 ### 4 *Anoplophora glabripennis* (Motschulsky)
 
 ### 4.1 Misure volte a impedire l’introduzione e la diffusione
 
-Per prevenire l’introduzione e la diffusione di *Anoplophora glabripennis* (Motschulsky), in caso di rischio fitosanitario elevato si applicano gli articoli 1–9 della decisione di esecuzione (UE) 2015/893[^annex4-lvlu1-lvl4-lvl41-1] e gli allegati I-III ivi menzionati.
+Per prevenire l’introduzione e la diffusione di *Anoplophora glabripennis* (Motschulsky) in caso di rischio fitosanitario elevato si applicano gli articoli 1–11 della decisione di esecuzione (UE) 2025/1952[^annex4-lvlu1-lvl4-lvl41-1] e gli allegati I e II ivi menzionati.
 
-[^annex4-lvlu1-lvl4-lvl41-1]: Decisione di esecuzione (UE) 2015/893 della Commissione, del 9 giugno 2015, relativa alle misure atte a impedire l’introduzione e la diffusione nell’Unione di *Anoplophora glabripennis* (Motschulsky); versione secondo la GU L 146 dell’11.6.2015, pag. 16.
+[^annex4-lvlu1-lvl4-lvl41-1]: Decisione di esecuzione (UE) 2025/1952 della Commissione, del 29 settembre 2025, relativa a misure per prevenire l’insediamento e la diffusione nel territorio dell’Unione di *Anoplophora glabripennis* (Motschulsky) e per l’eradicazione e il contenimento di tale organismo nocivo all’interno di determinate aree delimitate e che abroga la decisione di esecuzione (UE) 2015/893, versione della GU L, 2025/1952, 3.12.2025.
 
 ### 4.2 Disposizioni speciali
 
-- 4\.2.1 I vegetali specificati, il legname specificato e il materiale da imballaggio di legno specificato che soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dalla decisione di esecuzione (UE) 2015/893 possono essere introdotti anche in Svizzera.
-- 4\.2.2 Invece dei termini stabiliti agli articoli 6–8 della decisione di esecuzione (UE) 2015/893, si applicano i termini stabiliti dal SFF. Il SFF comunica i termini ai Cantoni in forma adeguata.
-- 4\.2.3 Laddove, conformemente agli articoli 7 capoverso 2, 8 e 9 della decisione di esecuzione (UE) 2015/893, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
+- 4\.2.1 I vegetali specificati, il legname specificato e il materiale da imballaggio di legno specificato che soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dalla decisione di esecuzione (UE) 2025/1952 possono essere introdotti anche in Svizzera.
+- 4\.2.2 Invece dei termini stabiliti all’articolo 11 del regolamento di esecuzione (UE) 2025/1952, si applicano i termini stabiliti dal SSF. Il SFF comunica i termini ai Cantoni in forma adeguata.
+- 4\.2.3 Laddove, conformemente all’articolo 4 della decisione di esecuzione (UE) 2025/1952, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
 - 4\.2.4
 
-  In Svizzera, il legname specificato di cui all’articolo 1 lettera b della decisione di esecuzione (UE) 2015/893 è definito come segue: legname ottenuto in tutto o in parte dai vegetali specificati, che soddisfa i seguenti criteri:
+  In Svizzera, il legname specificato di cui all’articolo 2 paragrafo 4 della decisione di esecuzione (UE) 2025/1952 è definito come segue: legname ottenuto in tutto o in parte dai vegetali specificati, che soddisfa i seguenti criteri:
 
   - a. si tratta di legno, escluso il materiale da imballaggio di legno, compreso il legname che non ha conservato la superficie rotonda naturale; e
   - b. figura tra le seguenti descrizioni:
@@ -407,8 +407,6 @@ Per prevenire l’introduzione e la diffusione di *Anoplophora glabripennis* (Mo
 <tr><td>4401.2200</td><td>Legno, diverso da quello di conifere, in piccole placche o in particelle</td></tr>
 <tr><td>ex 4401.4900</td><td>Avanzi e cascami di legno, non agglomerati</td></tr>
 <tr><td>ex 4403.12</td><td>Legno grezzo trattato con una tinta, con creosoto o altri agenti di conservazione, anche scortecciato, privato dell’alburno o squadrato, diverso da quello di conifere o di legni tropicali</td></tr>
-<tr><td>4403.9300</td><td>Legno di faggio (*Fagus* spp.) grezzo, la cui dimensione minima della sezione trasversale è uguale o superiore a 15 cm, anche scortecciato, privato dell’alburno o squadrato</td></tr>
-<tr><td>4403.9400</td><td>Legno di faggio (*Fagus* spp.) grezzo, altri, anche scortecciato, privato dell’alburno o squadrato</td></tr>
 <tr><td>4403.9500</td><td>Legno di betulla (*Betula* spp.) grezzo, la cui dimensione minima della sezione trasversale è uguale o superiore a 15 cm, anche scortecciato, privato dell’alburno o squadrato</td></tr>
 <tr><td>4403.9600</td><td>Legno di betulla (*Betula* spp.) grezzo, altri, anche scortecciato, privato dell’alburno o squadrato</td></tr>
 <tr><td>4403.9700</td><td>Legno di pioppo (*Populus* spp.) grezzo, anche scortecciato, privato dell’alburno o squadrato</td></tr>
@@ -428,23 +426,25 @@ Per prevenire l’introduzione e la diffusione di *Anoplophora glabripennis* (Mo
 
 ### 5.1 Misure volte a impedire l’introduzione e la diffusione
 
-Per prevenire l’introduzione e la diffusione di *Fusarium circinatum* Nirenberg & O’Donnell (precedentemente *Gibberella circinata*), in caso di rischio fitosanitario elevato si applicano gli articoli 1–12 della decisione di esecuzione (UE) 2019/ 2032[^annex4-lvlu1-lvl5-lvl51-1].
+Per prevenire l’introduzione e la diffusione di *Fusarium circinatum* Nirenberg & O’Donnell (precedentemente *Gibberella circinata*), in caso di rischio fitosanitario elevato si applicano gli articoli 1–12 della decisione di esecuzione (UE) 2019/2032[^annex4-lvlu1-lvl5-lvl51-1].
 
-[^annex4-lvlu1-lvl5-lvl51-1]: Decisione di esecuzione (UE) 2019/2032 della Commissione, del 26 novembre 2019, che stabilisce misure per impedire l’introduzione e la diffusione nell’Unione del *Fusarium circinatum* Nirenberg & O’Donnell (precedentemente *Gibberella circinata*) e che abroga la decisione 2007/433/CE, versione secondo GU L 313 del 4.12.2019, pag. 94.
+[^annex4-lvlu1-lvl5-lvl51-1]: Decisione di esecuzione (UE) 2019/2032 della Commissione, del 26 novembre 2019, che stabilisce misure per impedire l’introduzione e la diffusione nell’Unione del *Fusarium* *circinatum* Nirenberg & O’Donnell (precedentemente *Gibberella circinata*) e che abroga la decisione 2007/433/CE, versione della GU L 313 del 4.12.2019, pag. 94.
 
 ### 5.2 Disposizioni speciali
 
 - 5\.2.1 I vegetali specificati che soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dalla decisione di esecuzione (UE) 2019/2032 possono essere introdotti e immessi in commercio anche in Svizzera.
 - 5\.2.2 Laddove, conformemente all’articolo 12 della decisione di esecuzione (UE) 2019/2032, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.
 
-### 6 Legno di *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans* *mandshurica* Maxim., *Ulmus davidiana* Planch. e di *Pterocarya rhoifolia* Siebold & Zucc., originario del Canada o degli Stati Uniti
+### 6 *Agrilus planipennis* Fairmaire
 
-### 6.1 Deroga temporanea alle condizioni specifiche per l’importazione
+### 6.1 Misure volte a impedire l’introduzione e la diffusione
 
-In deroga alle condizioni specifiche per l’importazione di cui all’allegato 7 numero 87 OSalV-DEFR-DATEC, l’importazione di legno di *Fraxinus* L., *Juglans* *ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch e *Pterocarya rhoifolia* Siebold & Zucc. originario del Canada o degli Stati Uniti è autorizzata se il legno è accompagnato da una dichiarazione ufficiale di cui all’allegato 7 numero 87 lettera a o c OSalV-DEFR-DATEC.
+Per prevenire l’introduzione e la diffusione di *Agrilus planipennis* Fairmaire, in caso di rischio fitosanitario elevato si applicano gli articoli 1–9 del regolamento di esecuzione (UE) 2024/434[^annex4-lvlu1-lvl6-lvl61-1].
 
-### 6.2 Durata della deroga alle condizioni specifiche per l’importazione
+[^annex4-lvlu1-lvl6-lvl61-1]: Regolamento di esecuzione (UE) 2024/434 della Commissione, del 5 febbraio 2024, relativo a misure per prevenire l’insediamento e la diffusione di *Agrilus planipennis* Fairmaire nel territorio dell’Unione, versione della GU L, 2024/434, 6.2.2024.
 
-La deroga alle condizioni specifiche per l’importazione si applica durante il periodo indicato nell’articolo 2 del regolamento di esecuzione (UE) 2020/1164[^annex4-lvlu1-lvl6-lvl62-1].
+### 6.2 Disposizioni speciali
 
-[^annex4-lvlu1-lvl6-lvl62-1]: Regolamento di esecuzione (UE) 2020/1164 della Commissione, del 6 agosto 2020, che prevede una deroga temporanea da talune disposizioni del regolamento di esecuzione (UE) 2019/2072 relativo alle misure per impedire l’introduzione e la diffusione nell’Unione dell’organismo nocivo *Agrilus planipennis* Fairmaire dal Canada e dagli Stati Uniti, versione secondo GU L 258 del 7.8.2020, pag. 6.
+- 6\.2.1 I vegetali specificati che soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dal regolamento di esecuzione (UE) 2024/434 possono essere introdotti e immessi in commercio anche in Svizzera.
+- 6\.2.2 Invece dei termini stabiliti all’articolo 9 del regolamento di esecuzione (UE) 2024/434, si applicano i termini stabiliti dal SSF. Il SFF comunica i termini ai Cantoni in forma adeguata.
+- 6\.2.3 Laddove, conformemente agli articoli 8 e 9 del regolamento di esecuzione (UE) 2024/434, la competenza spetta agli Stati membri, in Svizzera è competente il SFF.

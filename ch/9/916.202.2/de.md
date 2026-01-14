@@ -4,11 +4,11 @@ title: Verordnung des BAFU vom 29. November 2017 über phytosanitäre Massnahmen
 short: VpM-BAFU
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: de
-version: 2023-05-15
+version: 2026-01-15
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20230515/de/xml/fedlex-data-admin-ch-eli-cc-2017-825-20230515-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20230515/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20260115/de/xml/fedlex-data-admin-ch-eli-cc-2017-825-20260115-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20230515/de"
 
 (VpM-BAFU)
 
-vom 29. November 2017 (Stand am 15. Mai 2023)
+vom 29. November 2017 (Stand am 15. Januar 2026)
 
 Das Bundesamt für Umwelt (BAFU),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 22, 23, 32, 34 und 36 der Pflanzengesundheitsverordnun
 
 verordnet:
 
-[^ingress-1]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^ingress-1]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^ingress-2]: Fassung gemäss Ziff. I der V des BAFU vom 17. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
 
 #### Art. 1
@@ -49,7 +49,7 @@ Die vorübergehend vom Einfuhrverbot ausgenommenen Waren, die Einfuhrbedingungen
 Die Waren, für deren Einfuhr aus Drittländern Voraussetzungen gelten, die als gleichwertig mit den spezifischen Voraussetzungen nach Anhang 7 der Verordnung des WBF und des UVEK vom 14. November 2019[^2a-2] zur Pflanzengesundheitsverordnung (PGesV-WBF-UVEK) anerkannt werden, sind in Anhang 2*a* aufgeführt.
 
 [^2a-1]: Eingefügt durch Ziff. I der V des BAFU vom 17. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
-[^2a-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^2a-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 3
 
@@ -66,7 +66,7 @@ Die Massnahmen gegen die Einschleppung und Ausbreitung von potenziellen Quarant�
 Die besonderen Massnahmen, die bei erhöhtem phytosanitärem Risiko gegen die Einschleppung und Ausbreitung von bestimmten Quarantäneorganismen nach Anhang 1 PGesV-WBF-UVEK[^4-2] ergriffen werden, sind in Anhang 4 aufgeführt.
 
 [^4-1]: Fassung gemäss Ziff. I der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
-[^4-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^4-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 5
 
@@ -80,7 +80,7 @@ Anhang 1[^t-1]
 
 ## Entsprechung von Ausdrücken und anwendbares Recht
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. I der V des BAFU vom 6. April 2023, in Kraft seit 15. Mai 2023 (AS **202****3** 183).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. I der V des BAFU vom 6. April 2023, in Kraft seit 15. Mai 2023 ([AS 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
 
 ### 1 Entsprechung von Ausdrücken
 
@@ -145,7 +145,7 @@ Wird in dieser Verordnung auf EU-Rechtsakte verwiesen, die ihrerseits auf andere
 <tr><td>Anh. I Teil B</td><td>Art. 8 Abs. 4 PGesV</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex1-lvlu1-lvl2-1]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 Anhang 2[^t-2]
 
@@ -153,34 +153,64 @@ Anhang 2[^t-2]
 
 ## Vorübergehend vom Einfuhrverbot ausgenommene Waren, Einfuhrbedingungen und Dauer der Aufhebung des Einfuhrverbots
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) und Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. II der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des BAFU vom 10. Dez. 2025, in Kraft seit 15. Jan. 2026 ([AS 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 …
+### 1 Auf natürliche oder künstliche Weise kleinwüchsig gehaltene Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und *Pinus* L. mit Ursprung in der Republik Korea
+
+### 1.1 Vorübergehende Ausnahme vom Einfuhrverbot
+
+Die Einfuhr von Pflanzen nach Artikel 1 der Durchführungsverordnung (EU) 2023/1310[^annex2-lvlu1-lvl1-lvl11-1] mit Ursprung in der Republik Korea ist vorübergehend vom Einfuhrverbot ausgenommen, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Dem Importeur steht ein geeigneter Raum für die Quarantäne nach Ziffer 9 des Anhangs der Durchführungsverordnung (EU) 2023/1310 zur Verfügung.
+- b. Der Lieferant ist auf dem von der Republik Korea jährlich aktualisierten Verzeichnis der für den Export nach Europa zugelassenen Baumschulen nach Ziffer 3 des Anhangs der Durchführungsverordnung (EU) 2023/1310 aufgeführt.
+- c. Die Pflanzen erfüllen zusätzlich zu den Anforderungen nach Anhang 7 Ziffer 30 PGesV-WBF-UVEK[^annex2-lvlu1-lvl1-lvl11-2] die im Anhang der Durchführungsverordnung (EU) 2023/1310 festgelegten Anforderungen.
+
+[^annex2-lvlu1-lvl1-lvl11-1]: Durführungsverordnung (EU) 2023/1310 der Kommission vom 27. Juni 2023 zur Festlegung einer Ausnahme von der Durchführungsverordnung (EU) 2019/2072 hinsichtlich des Einführens von auf natürliche oder künstliche Weise kleinwüchsig gehaltenen, zum Anpflanzen bestimmten Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und bestimmten Arten von *Pinus* L. mit Ursprung in der Republik Korea in das Gebiet der Union, Fassung gemäss ABl. L 162 vom 28.6.2023, S. 6.
+[^annex2-lvlu1-lvl1-lvl11-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+
+### 1.2 Anmeldung von Einfuhrsendungen
+
+Beim EPSD sind mindestens eine Woche im Voraus anzumelden:
+
+- a. der voraussichtliche Zeitpunkt der Ankunft einer Einfuhrsendung mit Pflanzen nach Ziffer 1.1;
+- b. die Menge der eingeführten Pflanzen; und
+- c. der Ort der Ausschiffung der Sendung in der EU.
+
+### 1.3 Dauer der Aufhebung des Einfuhrverbots
+
+Die Ausnahme vom Einfuhrverbot gilt während den in Artikel 4 der Durchführungsverordnung (EU) 2023/1310 genannten Zeiträumen.
+
+### 1.4 Besondere Bestimmung
+
+Wo gemäss der Durchführungsverordnung (EU) 2023/1310 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
 ### 2 Auf natürliche oder künstliche Weise kleinwüchsig gehaltene Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und *Pinus* L. mit Ursprung in Japan
 
 ### 2.1 Vorübergehende Ausnahme vom Einfuhrverbot
 
-Die Einfuhr von Pflanzen nach Artikel 1 der Durchführungsverordnung (EU) 2020/1217[^annex2-lvlu1-lvl2-lvl21-1], mit Ursprung in Japan, ist vorübergehend vom Einfuhrverbot ausgenommen, wenn die folgenden Voraussetzungen erfüllt sind:
+Die Einfuhr von Pflanzen nach Artikel 1 der Durchführungsverordnung (EU) 2024/2852[^annex2-lvlu1-lvl2-lvl21-1] mit Ursprung in Japan ist vorübergehend vom Einfuhrverbot ausgenommen, wenn die folgenden Voraussetzungen erfüllt sind:
 
-- a. Dem Importeur steht ein geeigneter Raum für die Quarantäne nach Ziffer 10 des Anhangs der Durchführungsverordnung (EU) 2020/1217 zur Verfügung.
-- b. Der Lieferant ist auf dem von Japan jährlich aktualisierten Verzeichnis der für den Export nach Europa zugelassenen Baumschulen nach Ziffer 3 des Anhangs der Durchführungsverordnung (EU) 2020/1217 aufgeführt.
-- c. Die Pflanzen erfüllen zusätzlich zu den Anforderungen nach Anhang 7 Ziffer 30 PGesV-WBF-UVEK[^annex2-lvlu1-lvl2-lvl21-2] die im Anhang der Durchführungsverordnung (EU) 2020/1217 festgelegten Anforderungen.
+- a. Dem Importeur steht ein geeigneter Raum für die Quarantäne nach Ziffer 2.1 des Anhangs der Durchführungsverordnung (EU) 2024/2852 zur Verfügung.
+- b. Der Lieferant ist auf dem von Japan jährlich aktualisierten Verzeichnis der für den Export nach Europa zugelassenen Baumschulen nach Ziffer 1.2 des Anhangs der Durchführungsverordnung (EU) 2024/2852 aufgeführt.
+- c. Die Pflanzen erfüllen zusätzlich zu den Anforderungen nach Anhang 7 Ziffer 30 PGesV-WBF-UVEK die im Anhang der Durchführungsverordnung (EU) 2024/2852 festgelegten Anforderungen.
 
-[^annex2-lvlu1-lvl2-lvl21-1]: Durführungsverordnung (EU) 2020/1217 der Kommission vom 25. August 2020 über eine Ausnahme von der Durchführungsverordnung (EU) 2019/2072 hinsichtlich der Einführung in die Union von auf natürliche oder künstliche Weise kleinwüchsig gehaltenen, zum Anpflanzen bestimmten Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und bestimmten Arten von *Pinus* L. mit Ursprung in Japan und zur Aufhebung der Entscheidung 2002/887/EG, Fassung gemäss ABl. L 277 vom 26.8.2020, S. 6.
-[^annex2-lvlu1-lvl2-lvl21-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex2-lvlu1-lvl2-lvl21-1]: Durführungsverordnung (EU) 2024/2852 der Kommission vom 11. November 2024 zur Festlegung einer Ausnahme von der Durchführungsverordnung (EU) 2019/2072 hinsichtlich der Anforderungen an das Einführen in das Gebiet der Union von auf natürliche oder künstliche Weise kleinwüchsig gehaltenen, zum Anpflanzen bestimmten Pflanzen von *Chamaecyparis* Spach, *Juniperus* L. und bestimmten Arten von *Pinus* L. mit Ursprung in Japan und zur Aufhebung der Durchführungsverordnung (EU) 2020/1217, Fassung gemäss ABl. L, 2024/2852, 12.11.2024.
 
 ### 2.2 Anmeldung von Einfuhrsendungen
 
-Der voraussichtliche Zeitpunkt der Ankunft einer Einfuhrsendung mit Pflanzen nach Ziffer 2.1, deren Menge sowie der Ort der Ausschiffung der Sendung in der EU sind dem EPSD mindestens eine Woche im Voraus anzumelden.
+Beim EPSD sind mindestens eine Woche im Voraus anzumelden:
+
+- a. der voraussichtliche Zeitpunkt der Ankunft einer Einfuhrsendung mit Pflanzen nach Ziffer 2.1;
+- b. die Menge der eingeführten Pflanzen; und
+- c. der Ort der Ausschiffung der Sendung in der EU.
 
 ### 2.3 Dauer der Aufhebung des Einfuhrverbots
 
-Die Ausnahme vom Einfuhrverbot gilt während den in Artikel 3 der Durchführungsverordnung (EU) 2020/1217 genannten Zeiträumen.
+Die Ausnahme vom Einfuhrverbot gilt während den in Artikel 2 der Durchführungsverordnung (EU) 2024/2852 genannten Zeiträumen.
 
 ### 2.4 Besondere Bestimmung
 
-Wo gemäss der Durchführungsverordnung (EU) 2020/1217 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
+Wo gemäss der Durchführungsverordnung (EU) 2024/2852 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
 Anhang 2a[^t-3]
 
@@ -188,54 +218,34 @@ Anhang 2a[^t-3]
 
 ## Waren, für deren Einfuhr aus Drittländern als gleichwertig anerkannte spezifische Voraussetzungen gelten
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des BAFU vom 17. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)). Bereinigt gemäss Ziff. I Abs. 2 der V des BAFU vom 10. Dez. 2025, in Kraft seit 15. Jan. 2026 ([AS 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 Holz von *Fraxinus* L., dessen Ursprung Kanada ist oder das dort verarbeitet wurde
+### 1 und 2 …
 
-### 1.1 Als gleichwertig anerkannte spezifische Voraussetzungen
+### 3 Eichenholz (*Quercus* L.), das seine natürliche Oberflächenrundung mitsamt Rinde behalten hat, mit Ursprung in den Vereinigten Staaten von Amerika
 
-Für die Einfuhr von Eschenholz (Fraxinus L.) nach Anhang 7 Ziffer 87 PGesV-WBF-UVEK[^annex2a-lvlu1-lvl1-lvl11-1], dessen Ursprung Kanada ist oder das dort verarbeitet wurde, werden die folgenden Voraussetzungen als gleichwertig mit den spezifischen Voraussetzungen nach Anhang 7 Ziffer 87 Buchstaben a und b PGesV-WBF-UVEK anerkannt:
+### 3.1 Als gleichwertig anerkannte spezifische Voraussetzungen
 
-- a. Dem Holz muss ein in Kanada ausgestelltes Pflanzengesundheitszeugnis beiliegen, mit dem bescheinigt wird, dass das Holz nach der Inspektion frei von Quarantäneorganismen und von potenziellen Quarantäneorganismen ist.
-- b.
+Für die Einfuhr von Eichenholz (*Quercus* L.) nach Anhang 7 Nummer 90 PGesV-WBF-UVEK[^annex2a-lvlu1-lvl3-lvl31-1] mit Ursprung in den Vereinigten Staaten von Amerika werden die Anforderungen gemäss den Artikeln 4−8 und dem Anhang der Durchführungsverordnung (EU) 2023/1312[^annex2a-lvlu1-lvl3-lvl31-2] als gleichwertig anerkannt für Holz, das seine natürliche Oberflächenrundung mitsamt Rinde behalten hat.
 
-  Das Pflanzengesundheitszeugnis muss in der Rubrik «Zusätzliche Erklärung» folgende Angaben enthalten:
+[^annex2a-lvlu1-lvl3-lvl31-1]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^annex2a-lvlu1-lvl3-lvl31-2]: Durchführungsverordnung (EU) 2023/1312 der Kommission vom 27. Juni 2023 zur Gewährung einer Ausnahme von der Durchführungsverordnung (EU) 2019/2072 hinsichtlich der Anforderungen an das Einführen von Eichenstämmen mit Rinde mit Ursprung in den Vereinigten Staaten von Amerika in die Union, Fassung gemäss ABl. L 162 vom 28.6.2023, S. 51.
 
-  - 1\. die Angabe «Im Einklang mit den von der Europäischen Union in der Durchführungsverordnung (EU) 2020/918[^annex2a-lvlu1-lvl1-lvl11-2] der Kommission festgelegten Anforderungen»;
-  - 2\. die Nummer des Bündels für jedes einzelne Bündel, das ausgeführt wird;
-  - 3\. den Namen der zugelassenen Einrichtung in Kanada.
+### 3.2 Anmeldung von Einfuhrsendungen
 
-- c. Das Holz erfüllt die im Anhang der Durchführungsverordnung (EU) 2020/ 918 festgelegten Anforderungen.
+Beim EPSD sind mindestens eine Woche im Voraus anzumelden:
 
-[^annex2a-lvlu1-lvl1-lvl11-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex2a-lvlu1-lvl1-lvl11-2]: Durchführungsverordnung (EU) 2020/918 der Kommission vom 1. Juli 2020 zur Festlegung einer Ausnahme von der Durchführungsverordnung (EU) 2019/2072 hinsichtlich der Anforderungen für die Einfuhr in die Union von Eschenholz, dessen Ursprung Kanada ist oder das dort verarbeitet wurde, Fassung gemäss ABl. L 209 vom 2.7.2020, S. 14.
+- a. der voraussichtliche Zeitpunkt der Ankunft einer Einfuhrsendung mit Pflanzen nach Ziffer 3.1;
+- b. die Menge der eingeführten Pflanzen; und
+- c. der Ort der Ausschiffung der Sendung in der EU.
 
-### 1.2 Geltungsdauer der als gleichwertig anerkannten spezifischen Voraussetzungen
+### 3.3 Geltungsdauer der als gleichwertig anerkannten spezifischen Voraussetzungen
 
-Die Voraussetzungen nach Ziffer 1.1 gelten während des in Artikel 3 der Durchführungsverordnung (EU) 2020/918 genannten Zeitraums als gleichwertig.
+Die Voraussetzungen nach Ziffer 3.1 gelten während den in Artikel 10 der Durchführungsverordnung (EU) 2023/1312 genannten Zeiträumen als gleichwertig.
 
-### 2 Holz von *Fraxinus* L., dessen Ursprung die Vereinigten Staaten von Amerika sind oder das dort verarbeitet wurde
+### 3.4 Besondere Bestimmung
 
-### 2.1 Als gleichwertig anerkannte spezifische Voraussetzungen
-
-Für die Einfuhr von Eschenholz (*Fraxinus* L.) nach Anhang 7 Ziffer 87 PGesV-WBF-UVEK, dessen Ursprung die Vereinigten Staaten von Amerika sind oder das dort verarbeitet wurde, werden die folgenden Voraussetzungen als gleichwertig mit den spezifischen Voraussetzungen nach Anhang 7 Ziffer 87 Buchstaben a und b PGesV-WBF-UVEK anerkannt:
-
-- a. Dem Holz muss ein in den Vereinigten Staaten von Amerika ausgestelltes Pflanzengesundheitszeugnis beiliegen, mit dem bescheinigt wird, dass das Holz nach der Inspektion frei von Quarantäneorganismen und von potenziellen Quarantäneorganismen ist.
-- b.
-
-  Das Pflanzengesundheitszeugnis muss in der Rubrik «Zusätzliche Erklärung» folgende Angaben enthalten:
-
-  - 1\. die Angabe «Im Einklang mit den von der Europäischen Union in der Durchführungsverordnung (EU) 2020/1002[^annex2a-lvlu1-lvl2-lvl21-1] der Kommission festgelegten Anforderungen»;
-  - 2\. die Nummer des Bündels für jedes einzelne Bündel, das ausgeführt wird;
-  - 3\. den Namen der zugelassenen Einrichtung in den Vereinigten Staaten von Amerika.
-
-- c. Das Holz erfüllt die im Anhang der Durchführungsverordnung (EU) 2020/ 1002 festgelegten Anforderungen.
-
-[^annex2a-lvlu1-lvl2-lvl21-1]: Durchführungsverordnung (EU) 2020/1002 der Kommission vom 9. Juli 2020 zur Gewährung einer Ausnahme von der Durchführungsverordnung (EU) 2019/2072 hinsichtlich der Anforderungen an das Einführen von Eschenholz in die Union, dessen Ursprung die Vereinigten Staaten von Amerika sind oder das dort verarbeitet wurde, Fassung gemäss ABl. L 221 vom 10.7.2020, S. 122.
-
-### 2.2 Geltungsdauer der als gleichwertig anerkannten spezifischen Voraussetzungen
-
-Die Voraussetzungen nach Ziffer 2.1 gelten während des in Artikel 3 der Durchführungsverordnung (EU) 2020/1002 genannten Zeitraums als gleichwertig.
+Wo gemäss der Durchführungsverordnung (EU) 2023/1312 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
 Anhang 3[^t-4]
 
@@ -243,21 +253,9 @@ Anhang 3[^t-4]
 
 ## Massnahmen gegen die Einschleppung und Ausbreitung von potenziellen Quarantäneorganismen
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) und Ziff. II der V des BAFU vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)), Ziff. II der V des BAFU vom 30. Nov. 2021 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)) und Ziff. I Abs. 2 der V des BAFU vom 10. Dez. 2025, in Kraft seit 15. Jan. 2026 ([AS 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov.
-
-### 1.1 Massnahmen gegen die Einschleppung und Ausbreitung
-
-Zum Schutz gegen die Einschleppung und Ausbreitung von *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov. gelten die Artikel 1–7 der Entscheidung 2002/757/EG[^annex3-lvlu1-lvl1-lvl11-1] und die darin genannten Anhänge I und II.
-
-[^annex3-lvlu1-lvl1-lvl11-1]: Entscheidung 2002/757/EG der Kommission vom 19. September 2002 über vorläufige Sofortmassnahmen zur Verhinderung der Einschleppung und Ausbreitung von *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov. in die bzw. in der Gemeinschaft, ABl. L 252, vom 20.9.2002; zuletzt geändert durch Beschluss 2016/1967/EU, ABl. L 303 vom 10.11.2016, S. 21.
-
-### 1.2 Besondere Bestimmungen
-
-- 1\.2.1 Anfällige Pflanzen, anfälliges Holz und anfällige Rinde, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss der Entscheidung 2002/757/EG erfüllen, dürfen auch in die Schweiz eingeführt werden.
-- 1\.2.2 Anstelle der Frist nach Artikel 6 Absatz 2 der Entscheidung 2002/757/EG gilt die vom Eidgenössischen Pflanzenschutzdienst (EPSD) festgelegte Frist. Dieser gibt die Frist den Kantonen in geeigneter Form bekannt.
-- 1\.2.3 Wo gemäss den Artikeln 5, 6 Absätze 2 und 3, 6*a* und 7 der Entscheidung 2002/757/EG die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
+### 1 …
 
 ### 2 …
 
@@ -267,24 +265,24 @@ Anhang 4[^t-5]
 
 ## Besondere Massnahmen gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anhang 1 PGesV‑WBF-UVEK bei erhöhtem phytosanitärem Risiko
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)), Ziff. II der V des BAFU vom 30. Nov. 2021 ([AS 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)) und Ziff. I der V des BAFU vom 6. April 2023, in Kraft seit 15. Mai 2023 ([AS 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
+[^t-5]: Fassung gemäss Ziff. I Abs. 1 der V des BAFU vom 10. Dez. 2025, in Kraft seit 15. Jan. 2026 ([AS 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
 ### 1 Waren mit Holzverpackungsmaterial aus Drittländern
 
 ### 1.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nach Anhang 1 PGesV-WBF-UVEK[^annex4-lvlu1-lvl1-lvl11-1] gelten für die Einfuhr von Waren mit Holzverpackungsmaterial aus Drittländern bei erhöhtem phytosanitärem Risiko die Artikel 1–4 der Durchführungsverordnung (EU) 2021/127[^annex4-lvlu1-lvl1-lvl11-2].
+Zum Schutz gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nach Anhang 1 PGesV-WBF-UVEK[^annex4-lvlu1-lvl1-lvl11-1] gelten für die Einfuhr von Waren mit Holzverpackungsmaterial aus Drittländern bei erhöhtem phytosanitärem Risiko die Artikel 1–4 der Durchführungsverordnung (EU) 2024/288[^annex4-lvlu1-lvl1-lvl11-2].
 
-[^annex4-lvlu1-lvl1-lvl11-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex4-lvlu1-lvl1-lvl11-2]: Durchführungsverordnung (EU) 2021/127 der Kommission vom 3. Februar 2021 zur Festlegung der Anforderungen an das Einführen von Verpackungsmaterial aus Holz für die Beförderung bestimmter Waren mit Ursprung in bestimmten Drittländern in das Gebiet der Union und für Pflanzengesundheitskontrollen bei diesem Material sowie zur Aufhebung des Durchführungsbeschlusses (EU) 2018/1137, Fassung gemäss ABl. L 40 vom 4.2.2021, S. 3.
+[^annex4-lvlu1-lvl1-lvl11-1]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^annex4-lvlu1-lvl1-lvl11-2]: Durchführungsverordnung (EU) 2024/288 der Kommission vom 18. Januar 2024 über die Häufigkeit der Kontrollen von Verpackungsmaterial aus Holz, mit dem bestimmte Waren mit Ursprung in bestimmten Drittländern getragen, geschützt oder unterstützt werden, Fassung gemäss ABl. L, 2024/288, 19.1.2024.
 
 ### 1.2 Besondere Bestimmungen
 
-- 1\.2.1 Wo gemäss der Durchführungsverordnung (EU) 2021/127 von Holzverpackungsmaterial mit Ursprung in Belarus, China, und Indien die Rede ist, ist darunter in dieser Verordnung Holzverpackungsmaterial aus Drittländern gemäss Artikel 2 Buchstabe k PGesV zu verstehen.
-- 1\.2.2 Wo gemäss der Durchführungsverordnung (EU) 2021/127 die Zuständigkeit bei den zuständigen Behörden liegt, ist in der Schweiz der Eidgenössische Pflanzenschutzdienst (EPSD) zuständig.
-- 1\.2.3 Waren gemäss Ziffer 1.2.8, die mit Holzverpackungsmaterial eingeführt werden, müssen zwei Arbeitstage vor der Einfuhr dem EPSD angemeldet werden. Sie sind so lange für den Verkauf und die Verteilung gesperrt, bis die Kontrolle des EPSD ergeben hat, dass das Holzverpackungsmaterial befallsfrei ist und die Anforderungen nach Anhang 7 Ziffern 9–14 PGesV-WBF-UVEK erfüllt sind.
+- 1\.2.1 Wo gemäss der Durchführungsverordnung (EU) 2024/288 von Holzverpackungsmaterial mit Ursprung in Belarus, China und Indien die Rede ist, ist darunter in dieser Verordnung Holzverpackungsmaterial aus Drittländern gemäss Artikel 2 Buchstabe k PGesV zu verstehen.
+- 1\.2.2 Wo gemäss der Durchführungsverordnung (EU) 2024/288 die Zuständigkeit bei den zuständigen Behörden liegt, ist in der Schweiz der EPSD zuständig.
+- 1\.2.3 Waren gemäss Ziffer 1.2.8, die mit Holzverpackungsmaterial eingeführt werden, müssen zwei Arbeitstage vor der Einfuhr beim EPSD angemeldet werden. Sie sind so lange für den Verkauf und die Verteilung gesperrt, bis die Kontrolle des EPSD ergeben hat, dass das Holzverpackungsmaterial befallsfrei ist und die Anforderungen nach Anhang 7 Ziffern 9–14 PGesV-WBF-UVEK erfüllt sind.
 - 1\.2.4 Verpackungseinheiten sind mit dem Originalsiegel versehen zwischenzulagern.
-- 1\.2.5 Die Waren mit Holzverpackungsmaterial sind so zwischenzulagern, dass die Kontrolleure des EPSD ungehinderten Zugang zur Verpackungseinheit und deren Inhalt haben.
+- 1\.2.5 Die Waren mit Holzverpackungsmaterial sind so zwischenzulagern, dass die Kontrolleurinnen und Kontrolleure des EPSD ungehinderten Zugang zur Verpackungseinheit und deren Inhalt haben.
 - 1\.2.6
 
   Die Kontrollen des EPSD finden statt:
@@ -293,10 +291,10 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nac
   - b. in den übrigen Fällen: innerhalb von zwei Arbeitstagen nach Eintreffen der Ware am Kontrollort.
 
 - 1\.2.7 Der EPSD gibt das Lieferungslos schriftlich für die Verteilung oder den Verkauf frei, wenn die Kontrolle keine Beanstandung ergeben hat.
-- 1\.2.8 Anstelle des Anhangs der Durchführungsverordnung (EU) 2021/127 gilt die folgende Tabelle:
+- 1\.2.8 Anstelle des Anhangs der Durchführungsverordnung (EU) 2024/288 gilt die folgende Tabelle:
 
 <table>
-<tr><th>HS-Code/Zolltarifnummer</th><th>Warenbezeichnung</th></tr>
+<tr><th>HS-Code/ Zolltarifnummer</th><th>Warenbezeichnung</th></tr>
 <tr><td></td><td>Salz, Schwefel, Erden und Steine, Gips, Kalk und Zement</td></tr>
 <tr><td>2506</td><td>Quarze (andere als natürliche Sande); Quarzite, auch grob behauen oder durch Sägen oder auf andere Weise lediglich zerteilt, in Blöcken oder in quadratischen oder rechteckigen Platten</td></tr>
 <tr><td>2514</td><td>Schiefer, auch grob behauen oder durch Sägen oder auf andere Weise lediglich zerteilt, in Blöcken oder in quadratischen oder rechteckigen Platten</td></tr>
@@ -359,14 +357,14 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nac
 
 ### 2.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung von *Anoplophora chinensis* (Forster) gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–14 der Durchführungsverordnung (EU) 2022/2095[^annex4-lvlu1-lvl2-lvl21-1] sowie die darin genannten Anhänge I und II und die darin genannten Internationalen Standards für Pflanzenschutzmassnahmen (ISPM) Nrn. 5, 9, 14 und 31 der Ernährungs- und Landwirtschaftsorganisation der UNO (FAO)[^annex4-lvlu1-lvl2-lvl21-2].
+Zum Schutz gegen die Einschleppung und Ausbreitung von *Anoplophora chinensis* (Forster) gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–9, 13 und 14 der Durchführungsverordnung (EU) 2022/2095[^annex4-lvlu1-lvl2-lvl21-1] sowie die darin genannten Anhänge I und II und die darin genannten Internationalen Standards für Pflanzenschutzmassnahmen (ISPM) Nrn. 5, 9, 14 und 31 der Ernährungs- und Landwirtschaftsorganisation der UNO[^annex4-lvlu1-lvl2-lvl21-2].
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Durchführungsverordnung (EU) 2022/2095 der Kommission vom 28. Oktober 2022 zur Einführung von Massnahmen zum Schutz der Union gegen die Einschleppung, Etablierung und Ausbreitung von *Anoplophora chinensis* (Forster) und zur Aufhebung des Beschlusses 2012/138/EU, Fassung gemäss ABl. L 281 vom 31.10.2022, S. 53.
-[^annex4-lvlu1-lvl2-lvl21-2]: Die ISPM Nr. 5 «Glossary of phytosanitary terms» (Ausgabe vom 6.2.2023), Nr. 9 «Guidelines for pest eradication programmes» (Ausgabe vom 13.7.2021), Nr. 14 «The use of integrated measures in a systems approach for pest risk management» (Ausgabe vom 13.7.2021) und Nr. 31 «Methodologies for sampling of consignmenets» (Ausgabe vom 13.7.2021) können kostenlos abgerufen werden unter www.ippc.int &gt; Standards.
+[^annex4-lvlu1-lvl2-lvl21-1]: Durchführungsverordnung (EU) 2022/2095 der Kommission vom 28. Oktober 2022 zur Einführung von Massnahmen zum Schutz der Union gegen die Einschleppung, Etablierung und Ausbreitung von *Anoplophora chinensis* (Forster) und zur Aufhebung des Beschlusses 2012/138/EU, ABl. L 281 vom 31.10.2022, S. 53; zuletzt geändert durch Durchführungsverordnung (EU) 2025/2461, ABl. L, 2025/2461, 3.12.2025.
+[^annex4-lvlu1-lvl2-lvl21-2]: Die ISPM Nr. 5 «Glossary of phytosanitary terms» (Ausgabe vom 6.2.2023), Nr. 9 «Guidelines for pest eradication programmes» (Ausgabe vom 13.7.2021), Nr. 14 «The use of integrated measures in a systems approach for pest risk management» (Ausgabe vom 13.7.2021) und Nr. 31 «Methodologies for sampling of consignmenets» (Ausgabe vom 13.7.2021) können kostenlos abgerufen werden unter [www.ippc.int](https://www.ippc.int/en/) &gt; Standards.
 
 ### 2.2 Besondere Bestimmungen
 
-- 2\.2.1 Spezifizierte Pflanzen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss Artikel 10 der Durchführungsverordnung (EU) 2022/2095 erfüllen, dürfen auch in die Schweiz eingeführt werden.
+- 2\.2.1 Spezifizierte Pflanzen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss der Durchführungsverordnung (EU) 2022/2095 erfüllen, dürfen auch in die Schweiz eingeführt werden.
 - 2\.2.2 Anstelle der Fristen nach den Artikeln 4 und 13 der Durchführungsverordnung (EU) 2022/2095 gelten die vom EPSD festgelegten Fristen. Dieser gibt die Fristen den Kantonen in geeigneter Form bekannt.
 - 2\.2.3 Wo gemäss den Artikeln 4, 9 Absatz 2 und 14 der Durchführungsverordnung (EU) 2022/2095 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
@@ -374,44 +372,42 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Anoplophora chinensis* (
 
 ### 3.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung von *Bursaphelenchus xylophilus* (Steiner et Burher) gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–17 des Durchführungsbeschlusses 2012/535/EU[^annex4-lvlu1-lvl3-lvl31-1] und die darin genannten Anhänge I bis III.
+Zum Schutz gegen die Einschleppung und Ausbreitung von *Bursaphelenchus* *xylophilus* (Steiner et Buhrer) gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–17 des Durchführungsbeschlusses 2012/535/EU[^annex4-lvlu1-lvl3-lvl31-1] und die darin genannten Anhänge I–III.
 
-[^annex4-lvlu1-lvl3-lvl31-1]: Durchführungsbeschluss 2012/535/EU der Kommission vom 26. September 2012 über Sofortmassnahmen gegen die Ausbreitung von *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al. (Kiefernfadenwurm) in der Union, ABl. L 266, vom 2.10.2012, S. 42; zuletzt geändert durch Durchführungsbeschluss (EU) 2018/618, ABl. L 102 vom 23.4.2018, S. 17.
+[^annex4-lvlu1-lvl3-lvl31-1]: Durchführungsbeschluss 2012/535/EU der Kommission vom 26. September 2012 über Sofortmassnahmen gegen die Ausbreitung von *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al. (Kiefernfadenwurm) in der Union, ABl. L 266 vom 2.10.2012, S. 42; zuletzt geändert durch Durchführungsbeschluss (EU) 2018/618, ABl. L 102 vom 23.4.2018, S. 17.
 
 ### 3.2 Besondere Bestimmungen
 
 - 3\.2.1 Anfällige Pflanzen, anfälliges Holz und anfällige Rinde, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss dem Durchführungsbeschluss 2012/535/EU erfüllen, dürfen auch in die Schweiz eingeführt werden.
 - 3\.2.2 Anstelle der Fristen gemäss den Artikeln 5, 9 und 11 Absatz 3 des Durchführungsbeschlusses 2012/535/EU gelten die vom EPSD festgelegten Fristen. Dieser gibt die Fristen den Kantonen in geeigneter Form bekannt.
-- 3\.2.3 Wo gemäss Artikel 2 Absätze 2 und 3 und den Artikeln 4, 5 Absatz 2, 9 Absätze 1, 2, 4 und 5 und 13–17 des Durchführungsbeschlusses 2012/535/EU die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
+- 3\.2.3 Wo gemäss Artikel 2 Absätze 2 und 3, den Artikeln 4, 5 Absatz 2, Artikel 9 Absätze 1, 2, 4 und 5 sowie den Artikeln 13–17 des Durchführungsbeschlusses 2012/535/EU die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
 ### 4 *Anoplophora glabripennis* (Motschulsky)
 
 ### 4.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung von *Anoplophora glabripennis* (Motschulsky) gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–9 des Durchführungsbeschlusses (EU) 2015/893[^annex4-lvlu1-lvl4-lvl41-1] und die darin genannten Anhänge I bis III.
+Zum Schutz gegen die Einschleppung und Ausbreitung von *Anoplophora glabripennis* (Motschulsky) gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–11 des Durchführungsbeschlusses (EU) 2025/1952[^annex4-lvlu1-lvl4-lvl41-1] und die darin genannten Anhänge I und II.
 
-[^annex4-lvlu1-lvl4-lvl41-1]: Durchführungsbeschluss (EU) 2015/893 der Kommission vom 9. Juni 2015 über Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Anoplophora glabripennis* (Motschulsky); Fassung gemäss ABl. L 146 vom 11.6.2015, S. 16.
+[^annex4-lvlu1-lvl4-lvl41-1]: Durchführungsbeschluss (EU) 2025/1952 der Kommission vom 29. September 2025 über Massnahmen zum Schutz des Gebiets der Union gegen die Etablierung und Ausbreitung von *Anoplophora glabripennis* (Motschulsky) und zur Tilgung und Eindämmung dieses Schädlings in bestimmten abgegrenzten Gebieten sowie zur Aufhebung des Durchführungsbeschlusses (EU) 2015/893, Fassung gemäss ABl. L, 2025/1952, 3.12.2025.
 
 ### 4.2 Besondere Bestimmungen
 
-- 4\.2.1 Spezifizierte Pflanzen, spezifiziertes Holz und spezifiziertes Holzverpackungsmaterial, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss dem Durchführungsbeschluss (EU) 2015/893 erfüllen, dürfen auch in die Schweiz eingeführt werden.
-- 4\.2.2 Anstelle der Fristen nach den Artikeln 6–8 des Durchführungsbeschlusses (EU) 2015/893 gelten die vom EPSD festgelegten Fristen. Dieser gibt die Fristen den Kantonen in geeigneter Form bekannt.
-- 4\.2.3 Wo gemäss den Artikeln 7 Absatz 2, 8 und 9 des Durchführungsbeschlusses (EU) 2015/893 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
+- 4\.2.1 Spezifizierte Pflanzen, spezifiziertes Holz und spezifiziertes Holzverpackungsmaterial, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss dem Durchführungsbeschluss (EU) 2025/1952 erfüllen, dürfen auch in die Schweiz eingeführt werden.
+- 4\.2.2 Anstelle der Fristen nach Artikel 11 des Durchführungsbeschlusses (EU) 2025/1952 gelten die vom EPSD festgelegten Fristen. Dieser gibt die Fristen den Kantonen in geeigneter Form bekannt.
+- 4\.2.3 Wo gemäss Artikel 4 des Durchführungsbeschlusses (EU) 2025/1952 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 - 4\.2.4
 
-  Das in Artikel 1 Buchstabe b des Durchführungsbeschlusses (EU) 2015/893 spezifizierte Holz wird in der Schweiz wie folgt definiert: ganz oder teilweise aus den spezifizierten Pflanzen gewonnenes Holz, das die folgenden Kriterien erfüllt:
+  Das in Artikel 2 Ziffer 4 des Durchführungsbeschlusses (EU) 2025/1952 spezifizierte Holz wird in der Schweiz wie folgt definiert: ganz oder teilweise aus den spezifizierten Pflanzen gewonnenes Holz, das die folgenden Kriterien erfüllt:
 
   - a. Es handelt sich um Holz, Holzverpackungsmaterial ausgenommen, einschliesslich Holz, das die natürliche Rundung seiner Oberfläche nicht behalten hat.
   - b. Es ist unter einer der folgenden Warenbezeichnungen aufgeführt:
 
 <table>
-<tr><th>HS-Code/Zolltarifnummer</th><th>Warenbezeichnung</th></tr>
+<tr><th>HS-Code/ Zolltarifnummer</th><th>Warenbezeichnung</th></tr>
 <tr><td>4401.1200</td><td>Brennholz, in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln oder ähnlichen Formen, aus anderem als Nadelholz</td></tr>
 <tr><td>4401.2200</td><td>Holz, in Form von Plättchen oder Schnitzeln, aus anderem als Nadelholz</td></tr>
 <tr><td>ex 4401.4900</td><td>Holzabfälle und Holzausschuss, nicht agglomeriert</td></tr>
 <tr><td>ex 4403.12</td><td>Rohholz, mit Farbe, Beize, Kreosot oder anderen Konservierungsmitteln behandelt, auch entrindet, entsplintet oder zwei- oder vierseitig behauen, anderes als Nadelholz oder als tropische Hölzer</td></tr>
-<tr><td>4403.9300</td><td>Buchenholz (*Fagus* spp.), roh, mit einer kleinsten Querschnittdimension von 15 cm oder mehr, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
-<tr><td>4403.9400</td><td>Anderes Buchenholz (*Fagus* spp.), roh, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
 <tr><td>4403.9500</td><td>Birkenholz (*Betula* spp.), roh, mit einer kleinsten Querschnittdimension von 15 cm oder mehr, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
 <tr><td>4403.9600</td><td>Anderes Birkenholz (*Betula* spp.), roh, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
 <tr><td>4403.9700</td><td>Pappelholz (*Populus* spp.), roh, auch entrindet, entsplintet oder zwei- oder vierseitig behauen</td></tr>
@@ -437,17 +433,20 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Fusarium circinatum* Nir
 
 ### 5.2 Besondere Bestimmungen
 
-- 5\.2.1 Pflanzen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss des Durchführungsbeschlusses (EU) 2019/2032 erfüllen, dürfen auch in die Schweiz eingeführt und in Verkehr gebracht werden.
+- 5\.2.1 Pflanzen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss des Durchführungsbeschlusses (EU) 2019/2032 erfüllen, dürfen auch in die Schweiz eingeführt und dort in Verkehr gebracht werden.
 - 5\.2.2 Wo gemäss Artikel 12 des Durchführungsbeschlusses (EU) 2019/2032 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
 
-### 6 Holz von *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. und *Pterocarya rhoifolia* Siebold & Zucc., dessen Ursprung Kanada oder die Vereinigten Staaten von Amerika sind
+### 6 *Agrilus planipennis* Fairmaire
 
-### 6.1 Vorübergehende Abweichung von den spezifischen Voraussetzungen für die Einfuhr
+### 6.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-In Abweichung von den spezifischen Voraussetzungen für die Einfuhr nach Anhang 7 Ziffer 87 PGesV-WBF-UVEK ist die Einfuhr von Holz von *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. und *Pterocarya rhoifolia* Siebold & Zucc. mit Ursprung in Kanada und den Vereinigten Staaten von Amerika nur mit einer amtlichen Feststellung nach Anhang 7 Ziffer 87 Buchstabe a oder c PGesV-WBF-UVEK zulässig.
+Zum Schutz gegen die Einschleppung und Ausbreitung von *Agrilus planipennis* Fairmaire gelten bei erhöhtem phytosanitärem Risiko die Artikel 1–9 der Durchführungsverordnung (EU) 2024/434[^annex4-lvlu1-lvl6-lvl61-1].
 
-### 6.2 Dauer der Abweichung von den spezifischen Voraussetzungen für die Einfuhr
+[^annex4-lvlu1-lvl6-lvl61-1]: Durchführungsverordnung (EU) 2024/434 der Kommission vom 5. Februar 2024 über Massnahmen zur Verhinderung der Ansiedlung und Ausbreitung von *Agrilus planipennis* Fairmaire im Gebiet der Union, Fassung gemäss ABl. L, 2024/434, 6.2.2024.
 
-Die Abweichung von den spezifischen Voraussetzungen für die Einfuhr gilt während den in Artikel 2 der Durchführungsverordnung (EU) 2020/1164[^annex4-lvlu1-lvl6-lvl62-1] genannten Zeiträumen.
+### 6.2 Besondere Bestimmungen
 
-[^annex4-lvlu1-lvl6-lvl62-1]: Durchführungsverordnung (EU) 2020/1164 der Kommission vom 6. August 2020 über eine vorübergehende Ausnahme von bestimmten Vorschriften der Durchführungsverordnung (EU) 2019/2072 in Bezug auf Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung des Schädlings *Agrilus planipennis* Fairmaire aus Kanada und den Vereinigten Staaten, Fassung gemäss ABl. L 258 vom 7.8.2020, S. 6.
+- 6\.2.1 Pflanzen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss der Durchführungsverordnung (EU) 2024/434 erfüllen, dürfen auch in die Schweiz eingeführt und in der Schweiz in Verkehr gebracht werden.
+- 6\.2.2 Anstelle der Frist nach Artikel 9 der Durchführungsverordnung (EU) 2024/434 gelten die vom EPSD festgelegten Fristen. Dieser gibt die Fristen den Kantonen in geeigneter Form bekannt.
+
+6.2.3 Wo gemäss den Artikeln 8 und 9 der Durchführungsverordnung (EU) 2024/434 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.

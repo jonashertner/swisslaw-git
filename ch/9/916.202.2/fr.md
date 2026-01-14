@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFEV sur les mesures phytosanitaires au profit de la for
 short: OMP-OFEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: fr
-version: 2023-05-15
+version: 2026-01-15
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20230515/fr/xml/fedlex-data-admin-ch-eli-cc-2017-825-20230515-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20230515/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20260115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-825-20260115-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20230515/fr"
 
 (OMP-OFEV)
 
-du 29 novembre 2017 (État le 15 mai 2023)
+du 29 novembre 2017 (État le 15 janvier 2026)
 
 L’Office fédéral de l’environnement (OFEV),
 
@@ -25,7 +25,7 @@ vu les art. 22, 23, 32, 34 et 36 de l’ordonnance du 31 octobre 2018 sur la san
 
 arrête:
 
-[^ingress-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^ingress-1]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 17 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
 
 #### Art. 1
@@ -49,7 +49,7 @@ Les marchandises faisant l’objet d’une dérogation temporaire à l’interdi
 Les marchandises dont l’importation en provenance de pays tiers est soumise à des conditions reconnues comme équivalentes aux conditions spécifiques fixées à l’annexe 7 de l’ordonnance du DEFR et du DETEC du 14 novembre 2019 relative à l’ordonnance sur la santé des végétaux (OSaVé-DEFR-DETEC)[^2a-2] sont indiquées à l’annexe 2*a*.
 
 [^2a-1]: Introduit par le ch. I de l’O de l’OFEV du 17 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
-[^2a-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^2a-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 3
 
@@ -66,7 +66,7 @@ Les mesures contre l’introduction et la propagation d’organismes de quaranta
 Les mesures particulières qui doivent être prises en cas de risque phytosanitaire accru pour éviter l’introduction et la propagation d’organismes de quarantaine visés à l’annexe 1 OSaVé-DEFR-DETEC[^4-2] sont indiquées à l’annexe 4.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
-[^4-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^4-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 5
 
@@ -145,7 +145,7 @@ Lorsque la présente ordonnance renvoie à des actes juridiques de l’UE qui eu
 <tr><td>Annexe I, partie B</td><td colspan="2">Art. 8, al. 4, OSaVé</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex1-lvlu1-lvl2-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 Annexe 2[^t-2]
 
@@ -153,34 +153,64 @@ Annexe 2[^t-2]
 
 ## Marchandises faisant l’objet d’une dérogation temporaire à l’interdiction d’importation, conditions d’importation et durée de la levée de ladite interdiction
 
-[^t-2]: Mise à jour par le ch. II al. 2 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)), le ch. II al. 1 de l’O de l’OFEV du 17 nov. 2020 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) et le ch. II de l’O de l’OFEV du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFEV du 10 déc. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 …
+### 1. Végétaux de *Chamaecyparis* Spach, *Juniperus* L. et *Pinus* L. originaires de la République de Corée et dont la croissance est inhibée naturellement ou artificiellement
+
+### 1.1 Dérogation temporaire à l’interdiction d’importation
+
+Les végétaux visés à l’art. 1 du règlement d’exécution (UE) 2023/1310[^annex2-lvlu1-lvl1-lvl11-1] originaires de la République de Corée font l’objet d’une dérogation temporaire à l’interdiction d’importation si les conditions suivantes sont remplies:
+
+- a. l’importateur dispose d’un local approprié pour la quarantaine à l’importation visée à l’annexe, ch. 9, du règlement d’exécution (UE) 2023/1310;
+- b. le fournisseur figure sur la liste des pépinières autorisées pour l’exportation vers l’Europe mise à jour annuellement par la République de Corée conformément à l’annexe, ch. 3, du règlement d’exécution (UE) 2023/1310;
+- c. les végétaux répondent aux exigences fixées à l’annexe du règlement d’exécution (UE) 2023/1310 en plus de celles fixées à l’annexe 7, ch. 30, OSaVé-DEFR-DETEC[^annex2-lvlu1-lvl1-lvl11-2].
+
+[^annex2-lvlu1-lvl1-lvl11-1]: Règlement d’exécution (UE) 2023/1310 de la Commission du 27 juin 2023 établissant une dérogation au règlement d’exécution (UE) 2019/2072 en ce qui concerne l’introduction sur le territoire de l’Union de végétaux dont la croissance est inhibée naturellement ou artificiellement, destinés à la plantation, de *Chamaecyparis* Spach, de *Juniperus* L. et de certaines espèces de *Pinus* L., originaires de la République de Corée, version du JO L 162 du 28.6.2023, p. 6.
+[^annex2-lvlu1-lvl1-lvl11-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+
+### 1.2 Annonce d’un envoi d’importation
+
+Doivent être annoncés au SPF au moins une semaine à l’avance:
+
+- a. la date prévue de l’arrivée d’un envoi d’importation des végétaux visés au ch. 1.1;
+- b. la quantité de végétaux importés, et
+- c. le lieu de débarquement de la marchandise dans l’UE.
+
+### 1.3 Durée de la levée d’interdiction d’importation
+
+La dérogation à l’interdiction d’importation est valable pendant les durées fixées à l’art. 4 du règlement d’exécution (UE) 2023/1310.
+
+### 1.4 Disposition particulière
+
+Lorsque les États membres sont compétents en vertu du règlement d’exécution (UE) 2023/1310, c’est le SPF qui exerce cette fonction en Suisse.
 
 ### 2. Végétaux de *Chamaecyparis* Spach, *Juniperus* L. et *Pinus* L. originaires du Japon et dont la croissance est inhibée naturellement ou artificiellement
 
-### 2.1 Dérogation temporaire à l’interdiction d’importation
+### 2.1 Dérogation temporaire de l’interdiction d’importation
 
-Les végétaux visés à l’art. 1 du règlement d’exécution (UE) 2020/1217[^annex2-lvlu1-lvl2-lvl21-1] originaires du Japon font l’objet d’une dérogation temporaire à l’interdiction d’importation si les conditions suivantes sont remplies:
+Les végétaux visés à l’art. 1 du règlement d’exécution (UE) 2024/2852[^annex2-lvlu1-lvl2-lvl21-1] originaires du Japon font l’objet d’une dérogation temporaire à l’interdiction d’importation si les conditions suivantes sont remplies:
 
-- a. l’importateur dispose d’un local approprié pour la quarantaine à l’importation visée à l’annexe, ch. 10, du règlement d’exécution (UE) 2020/1217;
-- b. le fournisseur figure sur la liste des pépinières autorisées pour l’exportation vers l’Europe mise à jour annuellement par le Japon conformément à l’annexe, ch. 3, du règlement d’exécution (UE) 2020/1217;
-- c. les végétaux répondent aux exigences fixées à l’annexe du règlement d’exécution (UE) 2020/1217 en plus de celles fixées à l’annexe 7, ch. 30, OSaVé-DEFR-DETEC[^annex2-lvlu1-lvl2-lvl21-2].
+- a. l’importateur dispose d’un local approprié pour la quarantaine à l’importation visée à l’annexe, ch. 2.1, du règlement d’exécution (UE) 2024/2852;
+- b. le fournisseur figure sur la liste des pépinières autorisées pour l’exportation vers l’Europe mise à jour annuellement par le Japon conformément à l’annexe, ch. 1.2, du règlement d’exécution (UE) 2024/2852;
+- c. les végétaux répondent aux exigences fixées à l’annexe du règlement d’exécution (UE) 2024/2852 en plus de celles fixées à l’annexe 7, ch. 30, OSaVé-DEFR-DETEC.
 
-[^annex2-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2020/1217 de la Commission du 25 août 2020 relatif à une dérogation au règlement d’exécution (UE) 2019/2072 en ce qui concerne l’introduction dans l’Union de végétaux dont la croissance est inhibée naturellement ou artificiellement destinés à la plantation, de *Chamaecyparis* Spach, de *Juniperus* L. et de certaines espèces de *Pinus* L., originaires du Japon, et abrogeant la décision 2002/887/CE, version du JO L 277 du 26.8.2020, p. 6.
-[^annex2-lvlu1-lvl2-lvl21-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex2-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2024/2852 de la Commission du 11 novembre 2024 établissant une dérogation au règlement d’exécution (UE) 2019/2072 en ce qui concerne les exigences relatives à l’introduction sur le territoire de l’Union de végétaux dont la croissance est inhibée naturellement ou artificiellement, destinés à la plantation, de *Chamaecyparis* Spach, de *Juniperus* L. et de certaines espèces de *Pinus* L., originaires du Japon, et abrogeant le règlement d’exécution (UE) 2020/1217, version du JO L, 2024/2852, 12.11.2024.
 
 ### 2.2 Annonce d’un envoi d’importation
 
-La date prévue de l’arrivée d’un envoi d’importation des végétaux visés au ch. 2.1, la quantité ainsi que le lieu de débarquement de la marchandise dans l’UE doivent être annoncés au SPF au moins une semaine à l’avance.
+Doivent être annoncés au SPF au moins une semaine à l’avance:
+
+- a. la date prévue de l’arrivée d’un envoi d’importation des végétaux visés au ch. 2.1;
+- b. la quantité de végétaux importés, et
+- c. le lieu de débarquement de la marchandise dans l’UE.
 
 ### 2.3 Durée de la levée d’interdiction d’importation
 
-La dérogation à l’interdiction d’importation est valable pendant les durées fixées à l’art. 3 du règlement d’exécution (UE) 2020/1217.
+La dérogation à l’interdiction d’importation est valable pendant les durées fixées à l’art. 2 du règlement d’exécution (UE) 2024/2852.
 
 ### 2.4 Disposition particulière
 
-Lorsque les États membres sont compétents en vertu du règlement d’exécution (UE) 2020/1217, c’est le SPF qui exerce cette fonction en Suisse.
+Lorsque les États membres sont compétents en vertu du règlement d’exécution (UE) 2024/2852, c’est le SPF qui exerce cette fonction en Suisse.
 
 Annexe 2a[^t-3]
 
@@ -188,54 +218,34 @@ Annexe 2a[^t-3]
 
 ## Marchandises dont l’importation en provenance de pays tiers est soumise à des conditions spécifiques reconnues comme équivalentes
 
-[^t-3]: Introduite par le ch. II al. 2 de l’O de l’OFEV du 17 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)).
+[^t-3]: Introduite par le ch. II al. 2 de l’O de l’OFEV du 17 nov. 2020 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)). Mise à jour par le ch. I al. 2 de l’O de l’OFEV du 10 déc. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 Bois de *Fraxinus* L. originaire du Canada ou transformé au Canada
+### 1 et 2 …
 
-### 1.1 Conditions spécifiques reconnues comme équivalentes
+### 3 Bois de chêne (*Quercus* L.) qui a conservé sa surface ronde naturelle, écorce comprise, originaire des États-Unis d’Amérique
 
-S’agissant de l’importation de bois de frêne (*Fraxinus* L.) au sens de l’annexe 7, ch. 87, OSaVé-DEFR-DETEC[^annex2a-lvlu1-lvl1-lvl11-1] originaire du Canada ou transformé au Canada, les conditions suivantes sont reconnues comme équivalentes aux conditions spécifiques fixées à l’annexe 7, ch. 87, let. a et b, OSaVé-DEFR-DETEC:
+### 3.1 Conditions spécifiques reconnues comme équivalentes
 
-- a. le bois est accompagné d’un certificat phytosanitaire délivré par le Canada, attestant qu’il est, après inspection, exempt d’organismes de quarantaine et d’organismes de quarantaine potentiels;
-- b.
+S’agissant de l’importation de bois de chêne (*Quercus* L.) soumis aux conditions spécifiques fixées à l’annexe 7, ch. 90, OSaVé-DEFR-DETEC[^annex2a-lvlu1-lvl3-lvl31-1], originaire des États-Unis d’Amérique, les exigences fixées aux art. 4 à 8 du règlement d’exécution (UE) 2023/1312[^annex2a-lvlu1-lvl3-lvl31-2] et à son annexe sont reconnues comme équivalentes pour le bois qui a conservé sa surface ronde naturelle, écorce comprise.
 
-  le certificat phytosanitaire doit comprendre, à la rubrique «Déclaration supplémentaire», les éléments suivants:
+[^annex2a-lvlu1-lvl3-lvl31-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^annex2a-lvlu1-lvl3-lvl31-2]: Règlement d’exécution (UE) 2023/1312 de la Commission du 27 juin 2023 établissant une dérogation au règlement d’exécution (UE) 2019/2072 en ce qui concerne les exigences applicables à l’introduction sur le territoire de l’Union de grumes de chêne avec écorce originaires des États-Unis, version du JO L 162 du 28.6.2023, p. 51.
 
-  - 1\. la mention «Conforme aux exigences de l’Union européenne énoncées dans le règlement d’exécution (UE) 2020/918 de la Commission»[^annex2a-lvlu1-lvl1-lvl11-2],
-  - 2\. le numéro de lot correspondant à chaque lot spécifique exporté,
-  - 3\. le nom de l’installation agréée au Canada;
+### 3.2 Annonce d’un envoi d’importation
 
-- c. le bois répond aux exigences fixées à l’annexe du règlement d’exécution (UE) 2020/918.
+Doivent être annoncés au SPF au moins une semaine à l’avance:
 
-[^annex2a-lvlu1-lvl1-lvl11-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex2a-lvlu1-lvl1-lvl11-2]: Règlement d’exécution (UE) 2020/918 de la Commission du 1<sup>er</sup> juillet 2020 établissant une dérogation au règlement d’exécution (UE) 2019/2072 en ce qui concerne les exigences applicables à l’introduction dans l’Union de bois de frêne originaire du Canada ou transformé au Canada, version du JO L 209 du 2.7.2020, p. 14.
+- a. la date prévue de l’arrivée d’un envoi d’importation des végétaux visés au ch. 3.1;
+- b. la quantité de végétaux importés, et
+- c. le lieu de débarquement de la marchandise dans l’UE.
 
-### 1.2 Durée de validité des conditions spécifiques reconnues comme équivalentes
+### 3.3 Durée de validité des conditions spécifiques reconnues comme équivalentes
 
-Les conditions visées au ch. 1.1 sont considérées comme équivalentes pendant la durée fixée à l’art. 3 du règlement d’exécution (UE) 2020/918.
+Les conditions visées au ch. 3.1 sont reconnues comme équivalentes pendant les durées fixées à l’art. 10 du règlement d’exécution (UE) 2023/1312.
 
-### 2 Bois de *Fraxinus* L. originaire des États-Unis d’Amérique ou transformé aux États-Unis d’Amérique
+### 3.4 Disposition particulière
 
-### 2.1 Conditions spécifiques reconnues comme équivalentes
-
-S’agissant de l’importation de bois de frêne (*Fraxinus* L.) au sens de l’annexe 7, ch. 87, OSaVé-DEFR-DETEC originaire des États-Unis d’Amérique ou transformé aux États-Unis d’Amérique, les conditions suivantes sont reconnues comme équivalentes aux conditions spécifiques fixées à l’annexe 7, ch. 87, let. a et b, OSaVé-DEFR-DETEC:
-
-- a. le bois est accompagné d’un certificat phytosanitaire délivré par les États-Unis d’Amérique, attestant qu’il est, après inspection, exempt d’organismes de quarantaine et d’organismes de quarantaine potentiels;
-- b.
-
-  le certificat phytosanitaire doit comprendre, à la rubrique «Déclaration supplémentaire», les éléments suivants:
-
-  - 1\. la mention «Conforme aux exigences de l’Union européenne énoncées dans le règlement d’exécution (UE) 2020/1002 de la Commission»[^annex2a-lvlu1-lvl2-lvl21-1],
-  - 2\. le numéro de lot correspondant à chaque lot spécifique exporté,
-  - 3\. le nom de l’installation agréée aux États-Unis d’Amérique;
-
-- c. le bois répond aux exigences fixées à l’annexe du règlement d’exécution (UE) 2020/1002.
-
-[^annex2a-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2020/1002 de la Commission du 9 juillet 2020 établissant une dérogation au règlement d’exécution (UE) 2019/2072 en ce qui concerne les exigences applicables à l’introduction dans l’Union de bois de frêne originaire des États-Unis ou transformé aux États-Unis, version du JO L 221 du 10.7.2020, p. 122.
-
-### 2.2 Durée de validité des conditions spécifiques reconnues comme équivalentes
-
-Les conditions visées au ch. 2.1 sont considérées comme équivalentes pendant la durée fixée à l’art. 3 du règlement d’exécution (UE) 2020/1002.
+Lorsque les États membres sont compétents en vertu du règlement d’exécution (UE) 2023/1312, c’est le SPF qui exerce cette fonction en Suisse.
 
 Annexe 3[^t-4]
 
@@ -243,23 +253,11 @@ Annexe 3[^t-4]
 
 ## Mesures contre l’introduction et la propagation d’organismes de quarantaine potentiels
 
-[^t-4]: Mise à jour par le ch. II al. 2 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)) et le ch. II de l’O de l’OFEV du 30 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)).
+[^t-4]: Mise à jour par le ch. II al. 2 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)), le ch. II de l’O de l’OFEV du 30 nov. 2021 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)) et le ch. I al. 2 de l’O de l’OFEV du 10 déc. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov.
+### 1 …
 
-### 1.1 Mesures contre l’introduction et la propagation
-
-Afin de prévenir l’introduction et la propagation de *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov., les art. 1 à 7 de la décision 2002/757/CE[^annex3-lvlu1-lvl1-lvl11-1] et les annexes I et II qui y sont mentionnées s’appliquent.
-
-[^annex3-lvlu1-lvl1-lvl11-1]: Décision 2002/757/CE de la Commission du 19 septembre 2002 relative à des mesures provisoires d’urgence en matière phytosanitaire visant à empêcher l’introduction et la propagation dans la Communauté de *Phytophthora ramorum* Werres, De Cock & Man in ’t Veld sp. nov., JO L 252 du 20.9.2002, p. 37; modifiée en dernier lieu par la décision d’exécution 2016/1967/UE, JO L 303 du 10.11.2016, p. 21.
-
-### 1.2 Dispositions particulières
-
-- 1\.2.1 Les végétaux, les bois et les écorces sensibles conformes dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par la décision 2002/757/CE peuvent également être importés en Suisse.
-- 1\.2.2 Le délai fixé à l’art. 6, al. 2, de la décision 2002/757/CE est remplacé par celui fixé par le Service phytosanitaire fédéral (SPF). Ce dernier communique le délai aux cantons de manière appropriée.
-- 1\.2.3 Lorsque les États membressont compétentsen vertu des art. 5, 6, al. 2 et 3, 6*a* et 7 de la décision 2002/757/CE, c’est le SPF qui exerce cette fonction en Suisse
-
-### 2 ...
+### 2 …
 
 Annexe 4[^t-5]
 
@@ -267,24 +265,24 @@ Annexe 4[^t-5]
 
 ## Mesures particulières contre l’introduction et la propagation des organismes nuisibles visés à l’annexe 1 OSaVé-DEFR-DETEC en cas de risque phytosanitaire accru
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Mise à jour par le ch. II al. 1 de l’O de l’OFEV du 17 nov. 2020 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) et le ch. II de l’O de l’OFEV du 30 nov. 2021 ([RO 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)) et le ch. I de l’O de l’OFEV du 6 avr. 2023, en vigueur depuis le 15 mai 2023 ([RO 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
+[^t-5]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFEV du 10 déc. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
 ### 1 Marchandises emballées dans du matériel en bois en provenance de pays tiers
 
 ### 1.1 Mesures contre l’introduction et la propagation
 
-Afin de prévenir l’introduction et la propagation d’organismes de quarantaine visés à l’annexe 1 OSaVé-DEFR-DETEC[^annex4-lvlu1-lvl1-lvl11-1], les art. 1 à 4 du règlement d’exécution (UE) 2021/127[^annex4-lvlu1-lvl1-lvl11-2] s’appliquent en cas de risque phytosanitaire accru lors de l’importation de marchandises emballées dans du matériel en bois en provenance de pays tiers.
+Afin de prévenir l’introduction et la propagation d’organismes de quarantaine visés à l’annexe 1 OSaVé–DEFR–DETEC[^annex4-lvlu1-lvl1-lvl11-1], les art. 1 à 4 du règlement d’exécution (UE) 2024/288[^annex4-lvlu1-lvl1-lvl11-2] s’appliquent en cas de risque phytosanitaire accru lors de l’importation de marchandises emballées dans du matériel en bois en provenance de pays tiers.
 
-[^annex4-lvlu1-lvl1-lvl11-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex4-lvlu1-lvl1-lvl11-2]: Règlement d’exécution (UE) 2021/127 de la Commission du 3 février 2021 fixant les exigences relatives à l’introduction sur le territoire de l’Union de matériaux d’emballage en bois destinés au transport de certaines marchandises originaires de certains pays tiers et aux contrôles phytosanitaires sur ces matériaux, et abrogeant la décision d’exécution (UE) 2018/1137, version du JO L 40 du 4.2.2021, p. 3.
+[^annex4-lvlu1-lvl1-lvl11-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^annex4-lvlu1-lvl1-lvl11-2]: Règlement d’exécution (UE) 2024/288 de la Commission du 18 janvier 2024 concernant la fréquence des contrôles des matériaux d’emballage en bois transportant, protégeant ou soutenant certaines marchandises provenant de certains pays tiers, version du JO L, 2024/288, 19.1.2024.
 
 ### 1.2 Dispositions particulières
 
-- 1\.2.1 Lorsqu’il est question, dans le règlement d’exécution (UE) 2021/127, de matériel d’emballage en bois en provenance du Bélarus, de Chine et d’Inde, cette expression correspond, dans la présente ordonnance, à du matériel d’emballage en bois en provenance des pays tiers visés à l’art. 2, let. k, OSaVé.
-- 1\.2.2 Lorsque les autorités sont compétentes en vertu du règlement d’exécution (UE) 2021/127, c’est le Service phytosanitaire fédéral (SPF) qui exerce cette fonction en Suisse.
-- 1\.2.3 Les marchandises visées au ch. 1.2.8 et importées dans du matériel d’emballage en bois doivent être annoncées au SPF deux jours ouvrés avant leur importation. Leur vente et leur distribution sont bloquées jusqu’à ce que le contrôle par le SPF ait établi que le matériel d’emballage en bois n’est pas contaminé et qu’il répond aux exigences définies à l’annexe 7, ch. 9 à 14, OSaVé-DEFR-DETEC.
+- 1\.2.1 Lorsqu’il est question, dans le règlement d’exécution (UE) 2024/288, de matériel d’emballage en bois en provenance du Bélarus, de Chine et d’Inde, cette expression correspond, dans la présente ordonnance, à du matériel d’emballage en bois en provenance des pays tiers visés à l’art. 2, let. k, OSaVé.
+- 1\.2.2 Lorsque les autorités sont compétentes en vertu du règlement d’exécution (UE) 2024/288, c’est le SPF qui exerce cette fonction en Suisse.
+- 1\.2.3 Les marchandises visées au ch. 1.2.8 et importées dans du matériel d’emballage en bois doivent être annoncées au SPF deux jours ouvrés avant leur importation. Leur vente et leur distribution sont bloquées jusqu’à ce que le contrôle par le SPF ait établi que le matériel d’emballage en bois n’est pas contaminé et qu’il répond aux conditions définies à l’annexe 7, ch. 9 à 14, OSaVé‑DEFR-DETEC.
 - 1\.2.4 Les lots d’emballages doivent être entreposés avec leur scellé d’origine.
-- 1\.2.5 Les marchandises emballées dans du matériel en bois doivent être entreposées de manière à ce que les lots d’emballage et leur contenu soient accessibles sans obstacle aux contrôleurs du SPF.
+- 1\.2.5 Les marchandises emballées dans du matériel en bois doivent être entreposées de manière que les lots d’emballage et leur contenu soient accessibles sans obstacle aux contrôleurs du SPF.
 - 1\.2.6
 
   Le SPF effectue les contrôles:
@@ -293,16 +291,16 @@ Afin de prévenir l’introduction et la propagation d’organismes de quarantai
   - b. dans les autres cas: dans un délai de deux jours ouvrés suivant l’arrivée des marchandises sur le lieu du contrôle.
 
 - 1\.2.7 Si le contrôle ne donne lieu à aucune réserve, le SPF autorise par écrit la distribution ou la vente du lot de livraison.
-- 1\.2.8 Le tableau suivant remplace l’annexe du règlement d’exécution (UE) 2021/127:
+- 1\.2.8 Le tableau suivant remplace l’annexe du règlement d’exécution (UE) 2024/288:
 
 <table>
-<tr><th>Code SH/numéro de tarif douanier</th><th>Désignation des marchandises</th></tr>
+<tr><th>Code SH/ numéro de tarif douanier</th><th>Désignation des marchandises</th></tr>
 <tr><td></td><td>Sel, soufre, terres et pierres, plâtre, chaux et ciment</td></tr>
 <tr><td>2506</td><td>Quartz (autres que les sables naturels); quartzites, même dégrossies ou simplement débitées, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire</td></tr>
 <tr><td>2514</td><td>Ardoise, même dégrossie ou simplement débitée, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire</td></tr>
 <tr><td>2515</td><td>Marbres, travertins, écaussines et autres pierres calcaires de taille ou de construction d’une densité apparente égale ou supérieure à 2,5, et albâtre, même dégrossis ou simplement débités, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire</td></tr>
 <tr><td>2516</td><td>Granit, porphyre, basalte, grès et autres pierres de taille ou de construction, même dégrossis ou simplement débités, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire</td></tr>
-<tr><td>2517</td><td>Cailloux, graviers, pierres concassées, des types généralement utilisés pour le bétonnage ou pour l’empierrement des routes, des voies ferrées ou autres ballasts, galets et silex, même traités thermiquement; macadam de laitier, de scories ou de déchets industriels similaires, même comprenant des matières indiquées dans la première partie du libellé; tarmacadam; granulés, éclats et poudres de pierres des n<sup>os</sup> 2515 ou 2516, même traités thermiquement</td></tr>
+<tr><td>2517</td><td>Cailloux, graviers, pierres concassées, des types généralement utilisés pour le bétonnage ou pour l’empierrement des routes, des voies ferrées ou autres ballasts, galets et silex, même traités thermiquement; macadam de laitier, de scories ou de déchets industriels similaires, même comprenant des matières reprises dans la première partie du libellé; tarmacadam; granules, éclats et poudres de pierres des n<sup>os</sup> 2515 ou 2516, même traités thermiquement</td></tr>
 <tr><td>2518</td><td>Dolomie, même frittée ou calcinée, y compris la dolomie dégrossie ou simplement débitée, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire</td></tr>
 <tr><td>2521</td><td>Castines; pierres à chaux ou à ciment</td></tr>
 <tr><td>2526</td><td>Stéatite naturelle, même dégrossie ou simplement débitée par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire; talc</td></tr>
@@ -322,7 +320,7 @@ Afin de prévenir l’introduction et la propagation d’organismes de quarantai
 <tr><td>6811</td><td>Ouvrages en amiante-ciment, cellulose-ciment ou similaires</td></tr>
 <tr><td>6815</td><td>Ouvrages en pierre ou en autres matières minérales (y compris les fibres de carbone, les ouvrages en ces matières et en tourbe), non dénommés ni compris ailleurs</td></tr>
 <tr><td></td><td>Produits céramiques</td></tr>
-<tr><td>6901</td><td>Briques, dalles, carreaux et autres pièces céramiques en farines siliceuses fossiles (kieselguhr, tripolite, diatomite, par exemple) ou en terres siliceuses analogues</td></tr>
+<tr><td>6901</td><td>Briques, dalles, carreaux et autres pièces céramiques en farines siliceuses fossiles (kieselguhr, tripolite, diatomite, par ex.) ou en terres siliceuses analogues</td></tr>
 <tr><td>6902</td><td>Briques, dalles, carreaux et pièces céramiques analogues de construction, réfractaires, autres que ceux en farines siliceuses fossiles ou en terres siliceuses analogues</td></tr>
 <tr><td>6904</td><td>Briques de construction, hourdis, cache-poutrelles et articles similaires, en céramique</td></tr>
 <tr><td>6905</td><td>Tuiles, éléments de cheminée, conduits de fumée, ornements architectoniques, en céramique, et autres poteries de bâtiment</td></tr>
@@ -338,16 +336,16 @@ Afin de prévenir l’introduction et la propagation d’organismes de quarantai
 <tr><td>7007</td><td>Verre de sécurité, consistant en verres trempés ou formés de feuilles contre-collées</td></tr>
 <tr><td>7008</td><td>Vitrages isolants à parois multiples</td></tr>
 <tr><td>7009</td><td>Miroirs en verre, même encadrés, y compris les miroirs rétroviseurs</td></tr>
-<tr><td></td><td>Fonte, fer et acier</td></tr>
+<tr><td></td><td>Fer et acier</td></tr>
 <tr><td>7210</td><td>Produits laminés plats, en fer ou en aciers non alliés, d’une largeur de 600 mm ou plus, plaqués ou revêtus</td></tr>
 <tr><td></td><td>Cuivre et ouvrages en cuivre</td></tr>
 <tr><td>7411</td><td>Tubes et tuyaux en cuivre</td></tr>
-<tr><td>7412</td><td>Accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en cuivre</td></tr>
+<tr><td>7412</td><td>Accessoires de tuyauterie (raccords, coudes, manchons, par ex.), en cuivre</td></tr>
 <tr><td>7415</td><td>Pointes, clous, punaises, crampons appointés et articles similaires, en cuivre ou avec tige en fer ou en acier et tête en cuivre; vis, boulons, écrous, crochets à pas de vis, rivets, goupilles, chevilles, clavettes, rondelles (y compris les rondelles destinées à faire ressort) et articles similaires, en cuivre</td></tr>
 <tr><td></td><td>Aluminium et ouvrages en aluminium</td></tr>
 <tr><td>7606</td><td>Tôles et bandes en aluminium, d’une épaisseur supérieure à 0,2 mm</td></tr>
 <tr><td>7608</td><td>Tubes et tuyaux en aluminium</td></tr>
-<tr><td>7609</td><td>Accessoires de tuyauterie (raccords, coudes, manchons, par exemple), en aluminium</td></tr>
+<tr><td>7609</td><td>Accessoires de tuyauterie (raccords, coudes, manchons, par ex.), en aluminium</td></tr>
 <tr><td></td><td>Réacteurs nucléaires, chaudières, machines, appareils et engins mécaniques; parties de ces machines ou appareils</td></tr>
 <tr><td>8407</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion)</td></tr>
 <tr><td>8424</td><td>Appareils mécaniques (même à main) à projeter, disperser ou pulvériser des matières liquides ou en poudre; extincteurs, même chargés; pistolets aérographes et appareils similaires; machines et appareils à jet de sable, à jet de vapeur et appareils à jet similaires</td></tr>
@@ -359,15 +357,15 @@ Afin de prévenir l’introduction et la propagation d’organismes de quarantai
 
 ### 2.1 Mesures contre l’introduction et la propagation
 
-Afin de prévenir l’introduction et la propagation d’*Anoplophora chinensis* (Forster), les art. 1 à 14 du règlement d’exécution (UE) 2022/2095[^annex4-lvlu1-lvl2-lvl21-1] et les annexes I et II qui y sont mentionnées, ainsi que les normes internationales pour les mesures phytosanitaires (NIMP) n<sup>o</sup> 5, 9, 14 et 31 de l’Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO) qui y sont mentionnées, s’appliquent en cas de risque phytosanitaire accru[^annex4-lvlu1-lvl2-lvl21-2].
+Afin de prévenir l’introduction et la propagation d’*Anoplophora chinensis* (Forster), les art. 1 à 9, 13 et 14 du règlement d’exécution (UE) 2022/2095[^annex4-lvlu1-lvl2-lvl21-1] et les annexes I et II qui y sont mentionnées, ainsi que les normes internationales pour les mesures phytosanitaires (NIMP) n<sup>os</sup> 5, 9, 14 et 31 de l’Organisation des Nations Unies pour l’alimentation et l’agriculture qui y sont mentionnées, s’appliquent en cas de risque phytosanitaire accru[^annex4-lvlu1-lvl2-lvl21-2].
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2022/2095 de la Commission du 28 octobre 2022 instituant des mesures destinées à prévenir l’introduction, l’établissement et la dissémination d’*Anoplophora* *chinensis* (Forster) sur le territoire de l’Union et abrogeant la décision 2012/138/UE, JO L 281 du 31.10.2022, p. 53
-[^annex4-lvlu1-lvl2-lvl21-2]: Les NIMP n<sup>o</sup> 5 «[Glossaire des termes phytosanitaires](https://www.ippc.int/fr/publications/622/)» (version du 6.2.2023), n<sup>o</sup> 9 «[Directives pour les programmes d’éradication des organismes nuisibles](https://www.ippc.int/fr/publications/611/)» (version du 13.7.2021), n<sup>o</sup> 14 «[L’utilisation de mesures intégrées dans une approche systémique de gestion du risque phytosanitaire](https://www.ippc.int/fr/publications/607/)» (version du 13.7.2021) et n<sup>o</sup> 31 «Méthodes d’échantillonnage des envois» (version du 13.7.2021) peuvent être consultées gratuitement sous [www.ippc.int/fr](http://www.ippc.int/fr) &gt; Normes.
+[^annex4-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2022/2095 de la Commission du 28 octobre 2022 instituant des mesures destinées à prévenir l’introduction, l’établissement et la dissémination d’*Anoplophora* *chinensis* (Forster) sur le territoire de l’Union et abrogeant la décision 2012/138/UE, JO L 281 du 31.10.2022, p. 53; modifié en dernier lieu par le règlement d’exécution (UE) 2025/2461 JO L, 2025/2461, 3.12.2025.
+[^annex4-lvlu1-lvl2-lvl21-2]: Les NIMP n<sup>o</sup> 5 «Glossaire des termes phytosanitaires» (version du 6.2.2023), n<sup>o</sup> 9 «Directives pour les programmes d’éradication des organismes nuisibles» (version du 13.7.2021), n<sup>o</sup> 14 «L’utilisation de mesures intégrées dans une approche systémique de gestion du risque phytosanitaire» (version du 13.7.2021) et n<sup>o</sup> 31 «Méthodes d’échantillonnage des envois» (version du 13.7.2021) peuvent être consultées gratuitement sous [www.ippc.int/fr](https://www.ippc.int/fr/) &gt; Normes.
 
 ### 2.2 Dispositions particulières
 
-- 2\.2.1 Les végétaux spécifiés qui répondent dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par l’art. 10 du règlement d’exécution (UE) 2022/2095 peuvent également être importés en Suisse.
-- 2\.2.2 Les délais fixés par les art. 4 et 13 du règlement d’exécution (UE) 2022/2095 sont remplacés par ceux fixés par le Service phytosanitaire fédéral (SPF). Ce dernier communique les délais aux cantons de manière appropriée.
+- 2\.2.1 Les végétaux spécifiés qui répondent dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par le règlement d’exécution (UE) 2022/2095 peuvent également être importés en Suisse.
+- 2\.2.2 Les délais fixés par les art. 4 et 13 du règlement d’exécution (UE) 2022/2095 sont remplacés par ceux fixés par le SPF. Ce dernier communique les délais aux cantons de manière appropriée.
 - 2\.2.3 Lorsque les États membres sont compétents en vertu des art. 4, 9, al. 2, et 14 du règlement d’exécution (UE) 2022/2095, c’est le SPF qui exerce cette fonction en Suisse.
 
 ### 3 *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al.
@@ -376,42 +374,40 @@ Afin de prévenir l’introduction et la propagation d’*Anoplophora chinensis*
 
 Afin de prévenir l’introduction et la propagation de *Bursaphelenchus xylophilus* (Steiner et Burher), les art. 1 à 17 de la décision d’exécution 2012/535/UE[^annex4-lvlu1-lvl3-lvl31-1] et les annexes I à III qui y sont mentionnées s’appliquent en cas de risque phytosanitaire accru.
 
-[^annex4-lvlu1-lvl3-lvl31-1]: Décision d’exécution 2012/535/UE du 26 septembre 2012 relative aux mesures d’urgence destinées à prévenir la propagation, dans l’Union, de *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al. (nématode du pin), JO L 266 du 2.10.2012, p. 42; modifiée en dernier lieu par la décision d’exécution (UE) 2018/618, JO L 102 du 23.4.2018, p. 17.
+[^annex4-lvlu1-lvl3-lvl31-1]: Décision d’exécution 2012/535/UE de la Commission du 26 septembre 2012 relative aux mesures d’urgence destinées à prévenir la propagation, dans l’Union, de *Bursaphelenchus xylophilus* (Steiner et Buhrer) Nickle et al. (nématode du pin), JO L 266 du 2.10.2012, p. 42; modifiée en dernier lieu par la décision d’exécution (UE) 2018/618, JO L 102 du 23.4.2018, p. 17.
 
 ### 3.2 Dispositions particulières
 
-- 3\.2.1 Les végétaux, les bois et les écorces sensibles conformes dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par la décision 2012/535/UE peuvent également être importés en Suisse.
+- 3\.2.1 Les végétaux, les bois et les écorces sensibles conformes dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par la décision d’exécution 2012/535/UE peuvent également être importés en Suisse.
 - 3\.2.2 Les délais fixés par les art. 5, 9 et 11, al. 3, de la décision d’exécution 2012/535/UE sont remplacés par ceux fixés par le SPF. Ce dernier communique les délais aux cantons de manière appropriée.
-- 3\.2.3 Lorsque les états membres sont compétents en vertu des art. 2, al. 2 et 3, et 4, 5, al. 2, 9, al. 1, 2, 4 et 5, et 13 à 17 de la décision d’exécution 2012/535/UE, c’est le SPF qui exerce cette fonction en Suisse.
+- 3\.2.3 Lorsque les États membres sont compétents en vertu des art. 2, al. 2 et 3, art. 4, 5, al. 2, art. 9, al. 1, 2, 4 et 5, et des art. 13 à 17 de la décision d’exécution 2012/535/UE, c’est le SPF qui est compétent en Suisse.
 
 ### 4 *Anoplophora glabripennis* (Motschulsky)
 
 ### 4.1 Mesures contre l’introduction et la propagation
 
-Afin de prévenir l’introduction et la propagation d’*Anoplophora glabripennis* (Motschulsky), les art. 1 à 9 de la décision d’exécution (UE) 2015/893[^annex4-lvlu1-lvl4-lvl41-1] et les annexes I à III qui y sont mentionnées s’appliquent en cas de risque phytosanitaire accru.
+Afin de prévenir l’introduction et la propagation d’*Anoplophora glabripennis* (Motschulsky), les art. 1 à 11 de la décision d’exécution (UE) 2025/1952[^annex4-lvlu1-lvl4-lvl41-1] et les annexes I à II qui y sont mentionnées s’appliquent en cas de risque sanitaire accru.
 
-[^annex4-lvlu1-lvl4-lvl41-1]: Décision d’exécution (UE) 2015/893 de la Commission du 9 juin 2015 relative à des mesures destinées à éviter l’introduction et la propagation d’*Anoplophora glabripennis* (Motschulsky) dans l’Union, version du JO L 146 du 11.6.2015, p. 16.
+[^annex4-lvlu1-lvl4-lvl41-1]: Décision d’exécution (UE) 2025/1952 de la Commission du 29 septembre 2025 visant à prévenir l’établissement et la propagation d’*Anoplophora glabripennis* (Motschulsky) sur le territoire de l’Union et à des mesures d’éradication et d’enrayement de cet organisme nuisible dans certaines zones délimitées, et abrogeant la décision d’exécution (UE) 2015/893, version du JO L, 2025/1952, 3.12.2025.
 
 ### 4.2 Dispositions particulières
 
-- 4\.2.1 Les végétaux, le bois et le matériel d’emballage en bois spécifiés qui répondent dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par la décision d’exécution (UE) 2015/893 peuvent également être importés en Suisse.
-- 4\.2.2 Les délais fixés par les art. 6 à 8 de la décision d’exécution (UE) 2015/893 sont remplacés par ceux fixés par le Service phytosanitaire fédéral (SPF). Ce dernier communique les délais aux cantons de manière appropriée.
-- 4\.2.3 Lorsque les états membres sont compétents en vertu des art. 7, al. 2, 8 et 9 de la décision d’exécution (UE) 2015/893, c’est le SPF qui exerce cette fonction en Suisse.
+- 4\.2.1 Les végétaux, le bois et le matériel d’emballage en bois spécifiés qui répondent dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par la décision d’exécution (UE) 2025/1952 peuvent également être importés en Suisse.
+- 4\.2.2 Les délais fixés par l’art. 11 de la décision d’exécution (UE) 2025/1952 sont remplacés par ceux fixés par le SPF. Ce dernier communique les délais aux cantons de manière appropriée.
+- 4\.2.3 Lorsque les États membres sont compétents en vertu de l’art. 4 de la décision d’exécution (UE) 2025/1952, c’est le SPF qui exerce cette fonction en Suisse.
 - 4\.2.4
 
-  Le bois spécifié à l’art. 1, let. b, de la décision d’exécution (UE) 2015/893 est défini en Suisse comme du bois obtenu, en totalité ou en partie, des végétaux spécifiés et qui satisfait à l’ensemble des points suivants:
+  Le bois spécifié à l’art. 2, al. 4, de la décision d’exécution (UE) 2025/1952 est défini en Suisse comme du bois obtenu, en totalité ou en partie, des végétaux spécifiés et qui satisfait à l’ensemble des points suivants:
 
   - a. il s’agit de bois, y compris le bois qui n’a pas conservé sa surface ronde naturelle, à l’exclusion du matériel d’emballage en bois, et
   - b. ce bois figure dans les désignations des marchandises suivantes:
 
 <table>
-<tr><th>Code SH/numéro de tarif douanier</th><th>Désignation des marchandises</th></tr>
+<tr><th>Code SH/ numéro de tarif douanier</th><th>Désignation des marchandises</th></tr>
 <tr><td>4401.1200</td><td>Bois de chauffage, autres que de conifères, en rondins, bûches, ramilles, fagots ou sous formes similaires</td></tr>
 <tr><td>4401.2200</td><td>Bois, autres que de conifères, en plaquettes ou en particules</td></tr>
 <tr><td>ex 4401.4900</td><td>Déchets et débris de bois, non agglomérés</td></tr>
-<tr><td>ex 4403.12</td><td>Bois bruts, autres que de conifères ou bois tropicaux, traités avec une peinture, de la créosote ou d’autres agents de conservation, même écorcés, désaubiérés ou équarris,</td></tr>
-<tr><td>4403.9300</td><td>Bois de hêtre (*Fagus* spp.) bruts, dont la plus petite dimension de la coupe transversale est égale ou supérieure à 15 cm, même écorcés, désaubiérés ou équarris</td></tr>
-<tr><td>4403.9400</td><td>Autres bois de hêtre (*Fagus* spp.) bruts, même écorcés, désaubiérés ou équarris</td></tr>
+<tr><td>ex 4403.12</td><td>Bois bruts, autres que de conifères ou bois tropicaux, traités avec une peinture, de la créosote ou d’autres agents de conservation, même écorcés, désaubiérés ou équarris</td></tr>
 <tr><td>4403.9500</td><td>Bois de bouleau (*Betula* spp.) bruts, dont la plus petite dimension de la coupe transversale est égale ou supérieure à 15 cm, même écorcés, désaubiérés ou équarris</td></tr>
 <tr><td>4403.9600</td><td>Autres bois de bouleau (*Betula* spp.) bruts, même écorcés, désaubiérés ou équarris</td></tr>
 <tr><td>4403.9700</td><td>Bois de peuplier (*Populus* spp.) bruts, même écorcés, désaubiérés ou équarris</td></tr>
@@ -421,9 +417,9 @@ Afin de prévenir l’introduction et la propagation d’*Anoplophora glabripenn
 <tr><td>4407.92</td><td>Bois de hêtre (*Fagus* spp.) scié ou désossé longitudinalement, tranché ou déroulé, même raboté, poncé ou collé par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
 <tr><td>4407.93</td><td>Bois d’érable (*Acer* spp.) scié ou désossé longitudinalement, tranché ou déroulé, même raboté, poncé ou collé par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
 <tr><td>4407.95</td><td>Bois de frêne (*Fraxinus* spp.) scié ou désossé longitudinalement, tranché ou déroulé, même raboté, poncé ou collé par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
-<tr><td>4407.96</td><td>Bois de bouleau (*Betula spp.*) scié ou désossé longitudinalement, tranché ou déroulé, même raboté, poncé ou collé par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
-<tr><td>4407.97</td><td>Bois de peuplier (*Populus spp.*) scié ou désossé longitudinalement, tranché ou déroulé, même raboté, poncé ou collé par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
-<tr><td>ex 4407.99</td><td>Bois, autres que de conifères (à l’exception des bois de hêtre [*Fagus* spp.], d’érable [*Acer* spp*.*], de frêne [*Fraxinus* spp*.*], de bouleau [*Betula* spp.] ou de peuplier [*Populus* spp.]), sciés ou désossés longitudinalement, tranchés ou déroulés, même rabotés, poncés ou collés par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
+<tr><td>4407.96</td><td>Bois de bouleau (*Betula* spp.) scié ou désossé longitudinalement, tranché ou déroulé, même raboté, poncé ou collé par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
+<tr><td>4407.97</td><td>Bois de peuplier (*Populus* spp.) scié ou désossé longitudinalement, tranché ou déroulé, même raboté, poncé ou collé par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
+<tr><td>ex 4407.99</td><td>Bois, autres que de conifères (à l’exception des bois de hêtre [*Fagus* spp.], d’érable [*Acer* spp.], de frêne [*Fraxinus* spp.], de bouleau [*Betula* spp.] ou de peuplier [*Populus* spp.]), sciés ou désossés longitudinalement, tranchés ou déroulés, même rabotés, poncés ou collés par assemblage en bout, d’une épaisseur excédant 6 mm</td></tr>
 <tr><td>9406.1000</td><td>Constructions préfabriquées en bois</td></tr>
 </table>
 
@@ -433,21 +429,23 @@ Afin de prévenir l’introduction et la propagation d’*Anoplophora glabripenn
 
 Afin de prévenir l’introduction et la propagation de *Fusarium circinatum* Nirenberg & O’Donnell (anciennement *Gibberella circinata*), les art. 1 à 12 de la décision d’exécution (UE) 2019/2032[^annex4-lvlu1-lvl5-lvl51-1] s’appliquent en cas de risque phytosanitaire accru.
 
-[^annex4-lvlu1-lvl5-lvl51-1]: Décision d’exécution (UE) 2019/2032 de la Commission du 26 novembre 2019 établissant des mesures destinées à prévenir l’introduction et la propagation dans l’Union de *Fusarium circinatum* Nirenberg & O’Donnell (anciennement *Gibberella circinata*) et abrogeant la décision 2007/433/CE, version du JO L 313 du 4.12.2019, p. 94.
+[^annex4-lvlu1-lvl5-lvl51-1]: Décision d’exécution (UE) 2019/2032 de la Commission du 26 novembre 2019 établissant des mesures destinées à prévenir l’introduction et la propagation dans l’Union de *Fusarium* *circinatum* Nirenberg & O’Donnell (anciennement *Gibberella circinata*) et abrogeant la décision 2007/433/CE, version du JO L 313 du 4.12.2019, p. 94.
 
 ### 5.2 Dispositions particulières
 
 - 5\.2.1 Les végétaux qui répondent dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par la décision d’exécution (UE) 2019/2032 peuvent également être importés et mis en circulation en Suisse.
 - 5\.2.2 Lorsque les États membres sont compétents en vertu de l’art. 12 de la décision d’exécution (UE) 2019/2032, c’est le SPF qui exerce cette fonction en Suisse.
 
-### 6 Bois de *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. et Pterocarya rhoifolia Siebold & Zucc. originaire du Canada ou des États-Unis d’Amérique
+### 6 Agrilus planipennis Fairmaire
 
-### 6.1 Dérogation temporaire aux conditions spécifiques d’importation
+### 6.1 Mesures contre l’introduction et la propagation
 
-En dérogation aux conditions spécifiques d’importation fixées à l’annexe 7, ch. 87, OSaVé-DEFR-DETEC, le bois de *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. et *Pterocarya rhoifolia* Siebold & Zucc. originaire du Canada ou des États-Unis d’Amérique ne peut être importé qu’avec une constatation officielle au sens de l’annexe 7, ch. 87, let. a ou c, OSaVé-DEFR-DETEC.
+Afin de prévenir l’introduction et la propagation d’*Agrilus planipennis* Fairmaire, les art. 1 à 9 du règlement d’exécution (UE) 2024/434[^annex4-lvlu1-lvl6-lvl61-1] s’appliquent en cas de risque phytosanitaire accru.
 
-### 6.2 Durée de la dérogation aux conditions spécifiques d’importation
+[^annex4-lvlu1-lvl6-lvl61-1]: Règlement d’exécution (UE) 2024/434 de la Commission du 5 février 2024 relatif à des mesures visant à prévenir l’établissement et la dissémination d’*Agrilus planipennis* Fairmaire sur le territoire de l’Union, version du JO L, 2024/434, 6.2.2024.
 
-La dérogation aux conditions spécifiques d’importation est valable pendant la durée fixée à l’art. 2 du règlement d’exécution (UE) 2020/1164[^annex4-lvlu1-lvl6-lvl62-1].
+### 6.2 Dispositions particulières
 
-[^annex4-lvlu1-lvl6-lvl62-1]: Règlement d’exécution (UE) 2020/1164 de la Commission du 6 août 2020 prévoyant une dérogation temporaire à certaines dispositions du règlement d’exécution (UE) 2019/2072 en ce qui concerne les mesures destinées à prévenir l’introduction et la propagation dans l’Union de l’organisme nuisible *Agrilus planipennis* Fairmaire à partir du Canada et des États-Unis, version du JO L 258 du 7.8.2020, p. 6.
+- 6\.2.1 Les végétaux qui répondent dans l’UE aux exigences en matière d’importation au sein de l’UE fixées par le règlement d’exécution (UE) 2024/434 peuvent également être importés et mis en circulation en Suisse.
+- 6\.2.2 Le délai fixé à l’art. 9 du règlement d’exécution (UE) 2024/434 est remplacé par celui fixé par le SPF. Ce dernier communique le délai aux cantons de manière appropriée.
+- 6\.2.3 Lorsque les États membres sont compétents en vertu des art. 8 et 9 du règlement d’exécution (UE) 2024/434, c’est le SPF qui exerce cette fonction en Suisse.
