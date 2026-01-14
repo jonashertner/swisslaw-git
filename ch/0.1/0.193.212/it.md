@@ -3,11 +3,11 @@ sr: "0.193.212"
 title: Convenzione del 18 ottobre 1907 per la risoluzione pacifica dei conflitti internazionali (con Atto finale)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/305_271_293"
 language: it
-version: 2022-05-18
+version: 2026-01-15
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20220518/it/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20220518-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20220518/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20260115/it/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20260115-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20260115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa all’Aja il 18 ottobre 1907 Approvata dall’Assemblea federale il 4 aprile 1910[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 12 maggio 1910 Entrata in vigore per la Svizzera l’11 luglio 1910
 
-(Stato 18 maggio 2022)
+(Stato 15 gennaio 2026)
 
 [^t-1]: CS **11** 217
 
@@ -256,7 +256,7 @@ Ciascuna Parte sostiene le proprie spese ed una parte uguale delle spese della C
 
 ## Titolo IV Dell’arbitrato internazionale
 
-### Capitolo 1 Della giustizia arbitrale
+### Capitolo I Della giustizia arbitrale
 
 #### Art. 37
 
@@ -603,7 +603,7 @@ La procedura ha luogo esclusivamente per iscritto. Ciascuna Parte ha però il di
 
 La presente Convenzione debitamente ratificata sostituirà, nei rapporti fra le Potenze contraenti, la Convenzione per il regolamento pacifico dei conflitti internazionali del 29 luglio 1899[^91-1].
 
-[^91-1]: [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)
+[^91-1]: [RS 0.193.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/755)
 
 #### Art. 92
 
@@ -649,10 +649,12 @@ Ciascuna Potenza contraente è ammessa ad esaminare tale registro e a domandarne
 
 *In fede di che,* i Plenipotenziari hanno munito la presente Convenzione delle loro firme. Fatto all’Aja, il diciotto ottobre millenovecentosette, in un solo esemplare che resterà depositato nell’archivio del Governo dei Paesi Bassi e di cui copie certificate conformi saranno rimesse nelle vie diplomatiche alle Potenze contraenti. (Seguono le firme)
 
-Campo d’applicazione il 18 maggio 2022[^t-2]
+Campo d’applicazione il 15 gennaio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Argentina<sup>\*</sup></td><td>11 dicembre</td><td>2024</td><td>9 febbraio</td><td>2025</td></tr>
+<tr><td>Armenia</td><td>23 aprile</td><td>2025 A</td><td>22 giugno</td><td>2025</td></tr>
 <tr><td>Albania</td><td>28 ottobre</td><td>2011 A</td><td>27 dicembre</td><td>2011</td></tr>
 <tr><td>Arabia Saudita</td><td>21 novembre</td><td>2001 A</td><td>20 gennaio</td><td>2002</td></tr>
 <tr><td>Australia</td><td>23 dicembre</td><td>1996 A</td><td>21 febbraio</td><td>1997</td></tr>
@@ -703,6 +705,7 @@ Campo d’applicazione il 18 maggio 2022[^t-2]
 <tr><td>Guyana</td><td>26 novembre</td><td>1997 A</td><td>25 gennaio</td><td>1998</td></tr>
 <tr><td>Haiti</td><td>2 febbraio</td><td>1910</td><td>3 aprile</td><td>1910</td></tr>
 <tr><td>Honduras</td><td>1° dicembre</td><td>1961 A</td><td>30 gennaio</td><td>1962</td></tr>
+<tr><td>Indonesia</td><td>4 dicembre</td><td>2025 A</td><td>2 febbraio</td><td>2026</td></tr>
 <tr><td>Iraq</td><td>31 agosto</td><td>1970 A</td><td>30 ottobre</td><td>1970</td></tr>
 <tr><td>Irlanda<sup>\*</sup></td><td>7 maggio</td><td>2002 A</td><td>6 luglio</td><td>2002</td></tr>
 <tr><td>Islanda</td><td>8 dicembre</td><td>1955</td><td>8 dicembre</td><td>1955</td></tr>
@@ -724,6 +727,8 @@ Campo d’applicazione il 18 maggio 2022[^t-2]
 <tr><td>Malta</td><td>9 luglio</td><td>1968 A</td><td>7 settembre</td><td>1968</td></tr>
 <tr><td>Marocco</td><td>5 aprile</td><td>2001 A</td><td>4 giugno</td><td>2001</td></tr>
 <tr><td>Messico<sup>\*</sup></td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
+<tr><td>Moldova<sup>\*</sup></td><td>31 luglio</td><td>2025 A</td><td>29 settembre</td><td>2025</td></tr>
+<tr><td>Mongolia</td><td>15 marzo</td><td>2019 A</td><td>14 maggio</td><td>2019</td></tr>
 <tr><td>Nicaragua</td><td>16 dicembre</td><td>1909 A</td><td>14 febbraio</td><td>1910</td></tr>
 <tr><td>Nigeria</td><td>18 dicembre</td><td>1986 A</td><td>16 febbraio</td><td>1987</td></tr>
 <tr><td>Norvegia</td><td>19 settembre</td><td>1910</td><td>18 novembre</td><td>1910</td></tr>
@@ -767,15 +772,18 @@ Campo d’applicazione il 18 maggio 2022[^t-2]
 <tr><td>Svezia</td><td>27 novembre</td><td>1909</td><td>26 gennaio</td><td>1910</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>12 maggio</td><td>1910</td><td>11 luglio</td><td>1910</td></tr>
 <tr><td>Thailandia</td><td>12 marzo</td><td>1910</td><td>11 maggio</td><td>1910</td></tr>
+<tr><td>Timor-Est</td><td>22 luglio</td><td>2024 A</td><td>20 settembre</td><td>2024</td></tr>
 <tr><td>Togo</td><td>18 ottobre</td><td>2004 A</td><td>17 dicembre</td><td>2004</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>4 aprile</td><td>1962 A</td><td>4 aprile</td><td>1962</td></tr>
 <tr><td>Uganda</td><td>1° marzo</td><td>1966 A</td><td>30 aprile</td><td>1966</td></tr>
+<tr><td>Ungheria</td><td>16 novembre</td><td>1918</td><td>16 novembre</td><td>1918</td></tr>
+<tr><td>Vanuatu</td><td>12 giugno</td><td>2024 A</td><td>11 agosto</td><td>2024</td></tr>
 <tr><td>Vietnam</td><td>29 dicembre</td><td>2011 A</td><td>27 febbraio</td><td>2012</td></tr>
 <tr><td>Zambia</td><td>1° novembre</td><td>1999 A</td><td>31 dicembre</td><td>1999</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Governo Paesi Bassi: https://treatydatabase.overheid.nl/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, in inglese, possono essere consultati sul sito Internet del Depositario, Ministero degli Affari Esteri del Regno dei Paesi Bassi: [https://treatydatabase.overheid.nl/en/Treaty/Details/003316.html](https://treatydatabase.overheid.nl/en/Treaty/Details/003316.html) oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 1971 1813](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813); [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466); [1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260); [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796); [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118); [2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223); [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102); [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389); [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434); [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224); [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411); [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
+[^t-2]: [RU 1971 1813](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813); [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466); [1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260); [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796); [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118); [2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223); [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102); [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389); [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434); [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224); [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411); [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448)e [2026 21](https://fedlex.data.admin.ch/eli/oc/2026/21). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserva
 
@@ -783,7 +791,7 @@ Riserva
 
 Con riserva dell’articolo 53 numero 2.
 
-[^t-3]: No I del DF del 4 apr. 1910 (CS **11** 217).
+[^t-3]: Cifra I del DF del 4 apr. 1910 (CS **11** 217).
 
 Atto finale della Seconda Conferenza internazionale per la Pace
 
@@ -827,18 +835,36 @@ Inoltre, la Conferenza ha accettato all’unanimità la seguente Risoluzione:
 
 La Seconda Conferenza per la Pace conferma la Risoluzione accettata dalla Conferenza del 1899 circa la limitazione delle spese militari[^t-18]; e considerando che le spese militari si sono considerevolmente accresciute dopo il detto anno in quasi tutti i paesi, la Conferenza dichiara che è grandemente desiderabile che i Governi riprendano lo studio serio di tale questione. Essa ha inoltre espresso i seguenti Voti:
 
+- 1\. La Conferenza raccomanda alle Potenze firmatarie di accettare l’allegato progetto di Convenzione per l’istituzione di una Corte di Giustizia arbitrale, e di attuarlo, dopo che sarà intervenuto un accordo su la scelta dei giudici e la costituzione della Corte[^t-19].
+- 2\. La Conferenza esprime il voto che in caso di guerra, le autorità competenti,
+- civili e militari, si facciano uno speciale dovere di assicurare e di proteggere il mantenimento dei rapporti pacifici e specialmente delle relazioni commerciali e industriali tra le popolazioni degli Stati belligeranti e i paesi neutrali.
+- 3\. La Conferenza esprime il voto che le Potenze regolino, mediante Convenzioni particolari, la condizione degli stranieri stabiliti nel loro territorio, per quanto riguarda gli obblighi militari.
+- 4\. La Conferenza esprime il voto che nel programma della prossima Conferenza sia compresa la compilazione di un regolamento sulle leggi e sui costumi della guerra marittima, e che in ogni caso le Potenze applichino, per quanto è possibile, alla guerra per mare, i principi della Convenzione concernente le leggi e i costumi della guerra per terra[^t-20].
+
+La Conferenza raccomanda, infine, alle Potenze che sia convocata una terza Conferenza per la Pace, che potrebbe aver luogo, entro un periodo analogo a quello decorso dopo la precedente Conferenza, a una data da fissarsi di comune accordo fra le Potenze, e richiama la loro attenzione sulla necessità di preparare i lavori di questa terza Conferenza molto tempo innanzi, affinché le sue deliberazioni proseguano con l’autorità e la rapidità necessarie.
+
+Per conseguire tale scopo, la Conferenza stima che sarebbe molto desiderabile che, circa due anni avanti il tempo probabile della riunione, un Comitato preparatorio fosse incaricato dai Governi di raccogliere le varie proposte da sottoporsi alla Conferenza, di ricercare le materie che possono formare l’oggetto d’un prossimo regolamento internazionale e di preparare un programma che i Governi stabilirebbero abbastanza in tempo per poter essere seriamente studiato in ogni paese. Questo Comitato sarebbe, inoltre, incaricato di proporre un modo d’organizzazione e di procedura per la Conferenza stessa.
+
+*In fede di che,* i Plenipotenziari hanno sottoscritto il presente atto e vi hanno apposto i loro sigilli.
+
+Fatto all’Aja, il diciotto ottobre millenovecentosette, in un solo esemplare che sarà depositato nell’archivio del Governo dei Paesi Bassi e di cui copie, certificate conformi, saranno rilasciate a tutte le Potenze rappresentate alla Conferenza.
+
+(Seguono le firme)
+
 [^t-4]: Vedi qui avanti.
 [^t-5]: Questa Conv. non è stata firmata dalla Svizzera.
-[^t-6]: [RS 0.515.10](https://fedlex.data.admin.ch/eli/cc/26/391_318_373)
-[^t-7]: [RS 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
-[^t-8]: [RS 0.515.21](https://fedlex.data.admin.ch/eli/cc/26/499_376_481)
-[^t-9]: [RS 0.515.122](https://fedlex.data.admin.ch/eli/cc/26/545_401_527)
-[^t-10]: [RS 0.515.123](https://fedlex.data.admin.ch/eli/cc/26/583_421_565)
-[^t-11]: [RS 0.515.124](https://fedlex.data.admin.ch/eli/cc/26/619_440_601)
-[^t-12]: [RS 0.515.125](https://fedlex.data.admin.ch/eli/cc/26/657_460_639)
+[^t-6]: [RS 0.515.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1938)
+[^t-7]: [RS 0.515.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1945)
+[^t-8]: [RS 0.515.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1953)
+[^t-9]: [RS 0.515.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1947)
+[^t-10]: [RS 0.515.123](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1948)
+[^t-11]: [RS 0.515.124](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1949)
+[^t-12]: [RS 0.515.125](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1950)
 [^t-13]: [CS **11** 495. RU **1951** 215 art. 58]
-[^t-14]: [RS 0.515.126](https://fedlex.data.admin.ch/eli/cc/26/751_509_733)
+[^t-14]: [RS 0.515.126](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1951)
 [^t-15]: Questa Conv. è stata ratificata solamente dal Nicaragua e non è mai entrata in vigore.
-[^t-16]: [RS 0.515.22](https://fedlex.data.admin.ch/eli/cc/26/793_530_775)
-[^t-17]: [RS 0.515.104](https://fedlex.data.admin.ch/eli/cc/26/843_556_825)
-[^t-18]: [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)(Atto finale).
+[^t-16]: [RS 0.515.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1954)
+[^t-17]: [RS 0.515.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1942)
+[^t-18]: [RS 0.193.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/755)(Atto finale).
+[^t-19]: Il Consiglio federale svizzero non ha accettato questa raccomandazione.
+[^t-20]: [RS 0.515.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1945)

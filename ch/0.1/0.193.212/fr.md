@@ -3,11 +3,11 @@ sr: "0.193.212"
 title: Convention du 18 octobre 1907 pour le règlement pacifique des conflits internationaux (avec acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/305_271_293"
 language: fr
-version: 2022-05-18
+version: 2026-01-15
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20220518/fr/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20220518-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20220518/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20260115/fr/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20260115-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20260115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,9 +26,9 @@ Instrument de ratification déposé par la Suisse le 12 mai 1910
 
 Entrée en vigueur pour la Suisse le 11 juillet 1910
 
-(État le 18 mai 2022)
+(État le 15 janvier 2026)
 
-[^t-1]: RS **11** 215
+[^t-1]: [RS 11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4723)215
 
 Sa Majesté l’Empereur d’Allemagne, Roi de Prusse; le Président des États-Unis d’Amérique; le Président de la République Argentine; Sa Majesté l’Empereur d’Autriche, Roi de Bohême, etc., et Roi Apostolique de Hongrie; Sa Majesté le Roi des Belges; le Président de la République de Bolivie; le Président de la République des États-Unis du Brésil; Son Altesse Royale le Prince de Bulgarie; le Président de la République de Chili; Sa Majesté l’Empereur de Chine; le Président de la République de Colombie; le Gouverneur Provisoire de la République de Cuba; Sa Majesté Je Roi de Danemark; le Président de la République Dominicaine; le Président de la République de l’Équateur; Sa Majesté le Roi d’Espagne; le Président de la République Française; Sa Majesté le Roi du Royaume-Uni de Grande-Bretagne et d’Irlande et des Territoires Britanniques au delà des Mers, Empereur des Indes; Sa Majesté le Roi des Hellènes; le Président de la République de Guatemala; le Président de la République d’Haïti; Sa Majesté le Roi d’Italie; Sa Majesté l’Empereur du Japon; Son Altesse Royale le Grand-Duc de Luxembourg, Duc de Nassau; le Président des États-Unis Mexicains; Son Altesse Royale le Prince de Monténégro; Sa Majesté le Roi de Norvège; le Président de la République de Panama; le Président de la République du Paraguay: Sa Majesté la Reine des Pays-Bas; le Président de la République du Pérou; Sa Majesté Impériale le Schah de Perse; Sa Majesté le Roi de Portugal et des Algarves, etc.; Sa Majesté le Roi de Roumanie; Sa Majesté l’Empereur de Toutes les Russies; le Président de la République du Salvador, Sa Majesté le Roi de Serbie; Sa Majesté le Roi de Siam; Sa Majesté le Roi de Suède; le Conseil Fédéral Suisse; Sa Majesté l’Empereur des Ottomans; le Président de la République Orientale de l’Uruguay; le Président des États-Unis de Venezuela,
 
@@ -609,7 +609,7 @@ La procédure a lieu exclusivement par écrit. Toutefois, chaque Partie a le dro
 
 La présente Convention dûment ratifiée remplacera, dans les rapports entre les Puissances contractantes, la Convention pour le règlement pacifique des conflits internationaux du 29 juillet 1899.[^91-1]
 
-[^91-1]: [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)
+[^91-1]: [RS 0.193.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/755)
 
 #### Art.92
 
@@ -653,7 +653,7 @@ Chaque Puissance contractante est admise à prendre connaissance de ce registre 
 
 *En foi de quoi,* les Plénipotentiaires ont revêtu la présente Convention de leurs signatures. Fait à La Haye, le dix-huit octobre mil neuf cent sept, en un seul exemplaire qui restera déposé, dans les archives du Gouvernement des Pays-Bas et dont des copies certifiées conformes, seront remises par la voie diplomatique aux Puissances contractantes. (Suivent les signatures)
 
-Champ d’application le 18 mai 2022[^t-2]
+Champ d’application le 15 janvier 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -661,6 +661,8 @@ Champ d’application le 18 mai 2022[^t-2]
 <tr><td>Albanie</td><td>28 octobre</td><td>2011 A</td><td>27 décembre</td><td>2011</td></tr>
 <tr><td>Allemagne</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
 <tr><td>Arabie Saoudite</td><td>21 novembre</td><td>2001 A</td><td>20 janvier</td><td>2002</td></tr>
+<tr><td>Argentine\*</td><td>11 décembre</td><td>2024</td><td>9 février</td><td>2025</td></tr>
+<tr><td>Arménie</td><td>23 avril</td><td>2025 A</td><td>22 juin</td><td>2025</td></tr>
 <tr><td>Australie</td><td>23 décembre</td><td>1996 A</td><td>21 février</td><td>1997</td></tr>
 <tr><td>Autriche</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
 <tr><td>Bahamas</td><td>14 avril</td><td>2016 A</td><td>13 juin</td><td>2016</td></tr>
@@ -705,6 +707,8 @@ Champ d’application le 18 mai 2022[^t-2]
 <tr><td>Guyana</td><td>26 novembre</td><td>1997 A</td><td>25 janvier</td><td>1998</td></tr>
 <tr><td>Haïti</td><td>2 février</td><td>1910</td><td>3 avril</td><td>1910</td></tr>
 <tr><td>Honduras</td><td>1<sup>er</sup> décembre</td><td>1961 A</td><td>30 janvier</td><td>1962</td></tr>
+<tr><td>Hongrie</td><td>16 novembre</td><td>1918</td><td>16 novembre</td><td>1918</td></tr>
+<tr><td>Indonésie</td><td>4 décembre</td><td>2025 A</td><td>2 février</td><td>2026</td></tr>
 <tr><td>Iraq</td><td>31 août</td><td>1970 A</td><td>30 octobre</td><td>1970</td></tr>
 <tr><td>Irlande\*</td><td>7 mai</td><td>2002 A</td><td>6 juillet</td><td>2002</td></tr>
 <tr><td>Islande</td><td>8 décembre</td><td>1955</td><td>8 décembre</td><td>1955</td></tr>
@@ -728,6 +732,7 @@ Champ d’application le 18 mai 2022[^t-2]
 <tr><td>Malte</td><td>9 juillet</td><td>1968 A</td><td>7 septembre</td><td>1968</td></tr>
 <tr><td>Maroc</td><td>5 avril</td><td>2001 A</td><td>4 juin</td><td>2001</td></tr>
 <tr><td>Mexique\*</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td>Moldova\*</td><td>31 juillet</td><td>2025 A</td><td>29 septembre</td><td>2025</td></tr>
 <tr><td>Mongolie</td><td>15 mars</td><td>2019 A</td><td>14 mai</td><td>2019</td></tr>
 <tr><td>Nicaragua</td><td>16 décembre</td><td>1909 A</td><td>14 février</td><td>1910</td></tr>
 <tr><td>Nigéria</td><td>18 décembre</td><td>1986 A</td><td>16 février</td><td>1987</td></tr>
@@ -738,8 +743,8 @@ Champ d’application le 18 mai 2022[^t-2]
 <tr><td>Panama</td><td>11 septembre</td><td>1911</td><td>10 novembre</td><td>1911</td></tr>
 <tr><td>Paraguay</td><td>25 avril</td><td>1933</td><td>24 juin</td><td>1933</td></tr>
 <tr><td>Pays-Bas</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>[tab] Aruba</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
-<tr><td>[tab] Curaçao</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td>Aruba</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
+<tr><td>Curaçao</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
 <tr><td>[tab] Sint Maarten</td><td>27 novembre</td><td>1909</td><td>26 janvier</td><td>1910</td></tr>
 <tr><td>Philippines</td><td>14 juillet</td><td>2010 A</td><td>12 septembre</td><td>2010</td></tr>
@@ -773,15 +778,16 @@ Champ d’application le 18 mai 2022[^t-2]
 <tr><td>Suisse\*</td><td>12 mai</td><td>1910</td><td>11 juillet</td><td>1910</td></tr>
 <tr><td>Suriname</td><td>28 octobre</td><td>1992 A</td><td>27 décembre</td><td>1992</td></tr>
 <tr><td>Thaïlande</td><td>12 mars</td><td>1910</td><td>11 mai</td><td>1910</td></tr>
+<tr><td>Timor-Leste</td><td>22 juillet</td><td>2024 A</td><td>20 septembre</td><td>2024</td></tr>
 <tr><td>Togo</td><td>18 octobre</td><td>2004 A</td><td>17 décembre</td><td>2004</td></tr>
 <tr><td>Ukraine\*</td><td>4 avril</td><td>1962 A</td><td>4 avril</td><td>1962</td></tr>
+<tr><td>Vanuatu</td><td>12 juin</td><td>2024 A</td><td>11 août</td><td>2024</td></tr>
 <tr><td>Vietnam</td><td>29 décembre</td><td>2011 A</td><td>27 février</td><td>2012</td></tr>
 <tr><td>Zambie</td><td>1<sup>er</sup> novembre</td><td>1999 A</td><td>31 décembre</td><td>1999</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: https://treatydatabase.overheid.nl/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas à Tokelau.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais peuvent être consultés à l’adresse du site internet du dépositaire, du Ministère des Affaires Étrangères du Royaume des Pays‑Bas: [https://treatydatabase.overheid.nl/en/Treaty/Details/003316.html](https://treatydatabase.overheid.nl/en/Treaty/Details/003316.html) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas à Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RO 1971 1813](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813), [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466),[1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260), [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796), [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118),[2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223), [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102), [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389), [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434), [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224), [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411), [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-2]: [RO 1971 1813](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813); [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466);[1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260); [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796); [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118);[2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223); [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102); [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389); [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434); [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224); [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411); [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448); [2026 21](https://fedlex.data.admin.ch/eli/oc/2026/21). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserve
 
@@ -789,7 +795,7 @@ Réserve
 
 Sous réserve de l’art. 53, ch. 2.
 
-[^t-3]: Ch. I de l’AF du 4 avr. 1910 (RS **11** 215)
+[^t-3]: Ch. I de l’AF du 4 avr. 1910 ([RS 11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4723)215)
 
 Acte final de la Deuxième Conférence internationale de la Paix
 
@@ -822,7 +828,7 @@ Ces Conventions et cette Déclaration formeront autant d’actes séparés. Ces 
 
 La Conférence, se conformant à l’esprit d’entente et de concessions réciproques qui est l’esprit même de ses délibérations, a arrêté la déclaration suivante qui, tout en réservant à chacune des Puissances représentées le bénéfice de ses votes, leur permet à toutes d’affirmer les principes qu’Elles considèrent comme unanimement reconnus:
 
-Elle est unanime,
+Elle est unanime:
 
 - 1\. À reconnaître le principe de l’arbitrage obligatoire;
 - 2\. À déclarer que certains différends, et notamment ceux relatifs à l’interprétation et à l’application des stipulations conventionnelles internationales, sont susceptibles d’être soumis à l’arbitrage obligatoire sans aucune restriction.
@@ -852,8 +858,8 @@ Fait à La Haye, le dix-huit octobre mil neuf cent sept, en un seul exemplaire q
 
 [^t-4]: Voir ci-devant.
 [^t-5]: La Suisse n’a pas signé cette convention.
-[^t-6]: [RS **11** 491. [RO 1951 209](https://fedlex.data.admin.ch/eli/oc/1951/207_209_205)art. 58]
+[^t-6]: [[RS 11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4723)491. [RO 1951 209](https://fedlex.data.admin.ch/eli/oc/1951/207_209_205)art. 58]
 [^t-7]: Seul le Nicaragua a ratifié cette convention qui n’est jamais entrée en vigueur.
-[^t-8]: [RS 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)acte final
+[^t-8]: [RS 0.193.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/755)acte final
 [^t-9]: Le Conseil fédéral n’a pas accepté ce vœu.
-[^t-10]: [RS 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
+[^t-10]: [RS 0.515.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1945)

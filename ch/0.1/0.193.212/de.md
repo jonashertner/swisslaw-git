@@ -3,11 +3,11 @@ sr: "0.193.212"
 title: Abkommen vom 18. Oktober 1907 zur friedlichen Erledigung internationaler Streitfälle (mit Schlussakte)
 eli: "https://fedlex.data.admin.ch/eli/cc/26/305_271_293"
 language: de
-version: 2022-05-18
+version: 2026-01-15
 adopted: 1907-10-18
 in_force: 1910-07-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20220518/de/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20220518-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20220518/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/26/305_271_293/20260115/de/xml/fedlex-data-admin-ch-eli-cc-26-305_271_293-20260115-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/26/305_271_293/20260115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ BS **11** 207; BBl **1909** I 1
 
 Abgeschlossen im Haag am 18. Oktober 1907 Von der Bundesversammlung genehmigt am 4. April 1910[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 12. Mai 1910 In Kraft getreten für die Schweiz am 11. Juli 1910
 
-(Stand am 18. Mai 2022)
+(Stand am 15. Januar 2026)
 
 [^t-1]: BS **11** 229
 
@@ -252,7 +252,7 @@ Der Bericht der Kommission, der sich auf die Feststellung der Tatsachen
 
 beschränkt, hat in keiner Weise die Bedeutung eines Schiedsspruches. Er lässt den Parteien volle Freiheit in Ansehung der Folge, die dieser Feststellung zu geben ist.
 
-### **Artikel 36**
+#### Art. 36
 
 Jede Partei trägt ihre eigenen Kosten selbst und die Kosten der Kommission zu gleichem Anteile.
 
@@ -260,7 +260,7 @@ Jede Partei trägt ihre eigenen Kosten selbst und die Kosten der Kommission zu g
 
 ### I. Kapitel Schiedswesen
 
-### **Artikel 37**
+#### Art. 37
 
 Die internationale Schiedssprechung hat zum Gegenstande die Erledigung von Streitigkeiten zwischen den Staaten durch Richter ihrer Wahl auf Grund der Achtung vor dem Rechte.
 
@@ -603,7 +603,7 @@ Das Verfahren ist ausschliesslich schriftlich. Doch hat jede Partei das Recht, d
 
 Dieses Abkommen tritt nach seiner Ratifikation für die Beziehungen zwischen den Vertragsmächten an die Stelle des Abkommens vom 29. Juli 1899[^91-1] zur friedlichen Erledigung internationaler Streitfälle.
 
-[^91-1]: [SR 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)
+[^91-1]: [SR 0.193.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/755)
 
 #### Art. 92
 
@@ -647,12 +647,14 @@ Jede Vertragsmacht hat das Recht, von diesem Register Kenntnis zu nehmen und beg
 
 *Zu Urkund dessen* haben die Bevollmächtigten dieses Abkommen mit ihren Unterschriften versehen. Geschehen Im Haag, am achtzehnten Oktober neunzehnhundertsieben in einer einzigen Ausfertigung, die im Archiv der Regierung der Niederlande hinterlegt bleiben soll und wovon beglaubigte Abschriften den Vertragsmächten auf diplomatischem Wege übergeben werden sollen. (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. Mai 2022[^t-2]
+Geltungsbereich am 15. Januar 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten</td><td>5. September</td><td>1968 B</td><td>4. November</td><td>1968</td></tr>
 <tr><td>Albanien</td><td>28. Oktober</td><td>2011 B</td><td>27. Dezember</td><td>2011</td></tr>
+<tr><td>Argentinien\*</td><td>11. Dezember</td><td>2024</td><td>9. Februar</td><td>2025</td></tr>
+<tr><td>Armenien</td><td>23. April</td><td>2025 B</td><td>22. Juni</td><td>2025</td></tr>
 <tr><td>Äthiopien</td><td>30. Juli</td><td>2003 B</td><td>28. September</td><td>2003</td></tr>
 <tr><td>Australien</td><td>23. Dezember</td><td>1996 B</td><td>21. Februar</td><td>1997</td></tr>
 <tr><td>Bahamas</td><td>14. April</td><td>2016 B</td><td>13. Juni</td><td>2016</td></tr>
@@ -686,6 +688,7 @@ Geltungsbereich am 18. Mai 2022[^t-2]
 <tr><td>Guyana</td><td>26. November</td><td>1997 B</td><td>25. Januar</td><td>1998</td></tr>
 <tr><td>Haiti</td><td>2. Februar</td><td>1910</td><td>3. April</td><td>1910</td></tr>
 <tr><td>Honduras</td><td>1. Dezember</td><td>1961 B</td><td>30. Januar</td><td>1962</td></tr>
+<tr><td>Indonesien</td><td>4. Dezember</td><td>2025 B</td><td>2. Februar</td><td>2026</td></tr>
 <tr><td>Irak</td><td>31. August</td><td>1970 B</td><td>30. Oktober</td><td>1970</td></tr>
 <tr><td>Irland\*</td><td>7. Mai</td><td>2002 B</td><td>6. Juli</td><td>2002</td></tr>
 <tr><td>Island</td><td>8. Dezember</td><td>1955</td><td>8. Dezember</td><td>1955</td></tr>
@@ -716,6 +719,7 @@ Geltungsbereich am 18. Mai 2022[^t-2]
 <tr><td>Malta</td><td>9. Juli</td><td>1968 B</td><td>7. September</td><td>1968</td></tr>
 <tr><td>Marokko</td><td>5. April</td><td>2001 B</td><td>4. Juni</td><td>2001</td></tr>
 <tr><td>Mexiko\*</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
+<tr><td>Moldau\*</td><td>31. Juli</td><td>2025 B</td><td>29. September</td><td></td></tr>
 <tr><td>Mongolei</td><td>15. März</td><td>2019 B</td><td>14. Mai</td><td>2019</td></tr>
 <tr><td>Neuseeland <sup>a</sup></td><td>13. April</td><td>2010</td><td>12. Juni</td><td>2010</td></tr>
 <tr><td>Nicaragua</td><td>16. Dezember</td><td>1909 B</td><td>14. Februar</td><td>1910</td></tr>
@@ -751,10 +755,13 @@ Geltungsbereich am 18. Mai 2022[^t-2]
 <tr><td>Sudan</td><td>3. Oktober</td><td>1966 B</td><td>2. Dezember</td><td>1966</td></tr>
 <tr><td>Suriname</td><td>28. Oktober</td><td>1992 B</td><td>27. Dezember</td><td>1992</td></tr>
 <tr><td>Thailand</td><td>12. März</td><td>1910</td><td>11. Mai</td><td>1910</td></tr>
+<tr><td>Timor-Leste</td><td>22. Juli</td><td>2024 B</td><td>20. September</td><td>2024</td></tr>
 <tr><td>Togo</td><td>18. Oktober</td><td>2004 B</td><td>17. Dezember</td><td>2004</td></tr>
 <tr><td>Tschechische Republik</td><td>11. Oktober</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Uganda</td><td>1. März</td><td>1966 B</td><td>30. April</td><td>1966</td></tr>
 <tr><td>Ukraine\*</td><td>4. April</td><td>1962 B</td><td>4. April</td><td>1962</td></tr>
+<tr><td>Ungarn</td><td>16. November</td><td>1918</td><td>16. November</td><td>1918</td></tr>
+<tr><td>Vanuatu</td><td>12. Juni</td><td>2024 B</td><td>11. August</td><td>2024</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>6. November</td><td>2008 B</td><td>5. Januar</td><td>2009</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>27. November</td><td>1909</td><td>26. Januar</td><td>1910</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>13. August</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
@@ -771,10 +778,10 @@ Geltungsbereich am 18. Mai 2022[^t-2]
 <tr><td>Turks- und Caicosinseln</td><td>12. Oktober</td><td>1970</td><td>12. Oktober</td><td>1970</td></tr>
 <tr><td>Vietnam</td><td>29. Dezember</td><td>2011 B</td><td>27. Februar</td><td>2012</td></tr>
 <tr><td>Zypern</td><td>13. September</td><td>1993 B</td><td>12. November</td><td>1993</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Niederländischen Regierung: https://treatydatabase.overheid.nl/eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite des Depositars, des Ministeriums für Auswärtige Angelegenheiten des Königreichs der Niederlande: [https://treatydatabase.overheid.nl/en/](https://treatydatabase.overheid.nl/en/Treaty/Details/003316.html) [Treaty/Details/003316.html](https://treatydatabase.overheid.nl/en/Treaty/Details/003316.html) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1971 1808](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813); [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466); [1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260); [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796); [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118); [2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223); [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102); [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389); [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434); [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224); [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411); [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 1971 1808](https://fedlex.data.admin.ch/eli/oc/1971/1808_1813_1813); [1977 1466](https://fedlex.data.admin.ch/eli/oc/1977/1466_1466_1466); [1982 2260](https://fedlex.data.admin.ch/eli/oc/1982/2260_2260_2260); [1987 796](https://fedlex.data.admin.ch/eli/oc/1987/796_796_796); [1994 1118](https://fedlex.data.admin.ch/eli/oc/1994/1118_1118_1118); [2004 2009](https://fedlex.data.admin.ch/eli/oc/2004/223); [2006 749](https://fedlex.data.admin.ch/eli/oc/2006/102); [2009 3145](https://fedlex.data.admin.ch/eli/oc/2009/389); [2011 3291](https://fedlex.data.admin.ch/eli/oc/2011/434); [2015 1121](https://fedlex.data.admin.ch/eli/oc/2015/224); [2016 2617](https://fedlex.data.admin.ch/eli/oc/2016/411); [2022 448](https://fedlex.data.admin.ch/eli/oc/2022/448); [2026 21](https://fedlex.data.admin.ch/eli/oc/2026/21). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalt
 
@@ -845,18 +852,18 @@ Geschehen Im Haag, am achtzehnten Oktober neunzehnhundertsieben in einer einzige
 
 [^t-4]: Siehe hiervor.
 [^t-5]: Dieses Abkommen wurde von der Schweiz nicht unterzeichnet.
-[^t-6]: [SR 0.515.10](https://fedlex.data.admin.ch/eli/cc/26/391_318_373)
-[^t-7]: [SR 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
-[^t-8]: [SR 0.515.21](https://fedlex.data.admin.ch/eli/cc/26/499_376_481)
-[^t-9]: [SR 0.515.122](https://fedlex.data.admin.ch/eli/cc/26/545_401_527)
-[^t-10]: [SR 0.515.123](https://fedlex.data.admin.ch/eli/cc/26/583_421_565)
-[^t-11]: [SR 0.515.124](https://fedlex.data.admin.ch/eli/cc/26/619_440_601)
-[^t-12]: [SR 0.515.125](https://fedlex.data.admin.ch/eli/cc/26/657_460_639)
+[^t-6]: [SR 0.515.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1938)
+[^t-7]: [SR 0.515.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1945)
+[^t-8]: [SR 0.515.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1953)
+[^t-9]: [SR 0.515.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1947)
+[^t-10]: [SR 0.515.123](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1948)
+[^t-11]: [SR 0.515.124](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1949)
+[^t-12]: [SR 0.515.125](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1950)
 [^t-13]: [BS **11** 522. [AS 1951 207](https://fedlex.data.admin.ch/eli/oc/1951/207_209_205)Art. 58]
-[^t-14]: [SR 0.515.126](https://fedlex.data.admin.ch/eli/cc/26/751_509_733)
+[^t-14]: [SR 0.515.126](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1951)
 [^t-15]: Dieses Abkommen ist nur von Nicaragua ratifiziert worden und nie in Kraft getreten.
-[^t-16]: [SR 0.515.22](https://fedlex.data.admin.ch/eli/cc/26/793_530_775)
-[^t-17]: [SR 0.515.104](https://fedlex.data.admin.ch/eli/cc/26/843_556_825)
-[^t-18]: [SR 0.193.211](https://fedlex.data.admin.ch/eli/cc/18/517_433_502)Schlussprot.
+[^t-16]: [SR 0.515.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1954)
+[^t-17]: [SR 0.515.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1942)
+[^t-18]: [SR 0.193.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/755)Schlussprot.
 [^t-19]: Diesem Wunsch hat der Schweizerische Bundesrat nicht beigepflichtet.
-[^t-20]: [SR 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
+[^t-20]: [SR 0.515.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1945)
