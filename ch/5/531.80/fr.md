@@ -3,18 +3,18 @@ sr: "531.80"
 title: Ordonnance du 28 mai 2025 sur le bureau de notification pour les médicaments vitaux à usage humain
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/402"
 language: fr
-version: 2025-07-01
+version: 2026-01-15
 adopted: 2025-05-28
 in_force: 2025-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/402/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2025-402-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/402/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/402/20260115/fr/xml/fedlex-data-admin-ch-eli-cc-2025-402-20260115-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/402/20260115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le bureau de notification pour les médicaments vitaux à usage humain
 
-du 28 mai 2025 (État le 1<sup>er</sup> juillet 2025)
+du 28 mai 2025 (État le 15 janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -34,7 +34,7 @@ arrête:
 
 Sont réputés vitaux les médicaments à usage humain autorisés par l’Institut suisse des produits thérapeutiques:
 
-- a. qui ne sont pas ou guère substituables; et
+- a. qui ne sont pas ou guère substituables, et
 - b. dont l’absence prolongée aurait de graves conséquences sanitaires.
 
 ## Section 2 Notification
@@ -218,11 +218,13 @@ L’ordonnance du 12 août 2015 sur le bureau de notification pour les médicame
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2025.
 
-Annexe
+Annexe[^t-1]
 
 (art. 2, al. 1)
 
 ## Liste des principes actifs
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 13 nov. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 728](https://fedlex.data.admin.ch/eli/oc/2025/728)).
 
 <table>
 <tr><th>Code ATC\*</th><th>Principe actif</th><th>Remarque</th></tr>
@@ -249,22 +251,22 @@ Annexe
 <tr><td>B01AD04</td><td>urokinase</td><td></td></tr>
 <tr><td>B01AD11</td><td>ténectéplase</td><td></td></tr>
 <tr><td>B01AE03</td><td>argatroban</td><td></td></tr>
-<tr><td>B01AE07</td><td>dabigatran</td><td></td></tr>
+<tr><td>B01AE07</td><td>dabigatran étexilate</td><td></td></tr>
 <tr><td>B01AF01</td><td>rivaroxaban</td><td></td></tr>
 <tr><td>B01AF02</td><td>apixaban</td><td></td></tr>
 <tr><td>B01AF03</td><td>édoxaban</td><td></td></tr>
 <tr><td>B01AX05</td><td>fondaparinux</td><td></td></tr>
 <tr><td>B02AA02</td><td>acide tranexamique</td><td>formes parentérales</td></tr>
-<tr><td>B02BD</td><td>facteurs de coagulation</td><td></td></tr>
+<tr><td>B02BD</td><td>facteurs de la coagulation</td><td></td></tr>
 <tr><td>B05AA01</td><td>albumine</td><td></td></tr>
 <tr><td>B05BA01</td><td>acides aminés</td><td>formes parentérales</td></tr>
 <tr><td>B05BA02</td><td>émulsions lipidiques</td><td>formes parentérales</td></tr>
-<tr><td>B05BA03</td><td>hydrates de carbone</td><td>formes parentérales avec concentration de glucose ≥ 20 % w/v, volume &gt; 50 ml</td></tr>
+<tr><td>B05BA03</td><td>hydrates de carbone</td><td>formes parentérales avec concentration de glucose ≥ 20 % w/v, volumes &gt; 50 ml</td></tr>
 <tr><td>B05BA10</td><td>solutions pour l’alimentation parentérale, associations</td><td>poches tricompartimentées pour la voie veineuse centrale</td></tr>
 <tr><td>B05BB01</td><td>électrolytes</td><td></td></tr>
 <tr><td>B05DB</td><td>solutions hypertoniques pour la dialyse péritonéale</td><td></td></tr>
 <tr><td>B05XA14</td><td>glycérophosphate de sodium</td><td>formes parentérales</td></tr>
-<tr><td>B05XA31</td><td>électrolytes, associations, y c. oligo-éléments purs</td><td>formes parentérales</td></tr>
+<tr><td>B05XA31</td><td>électrolytes en association avec d’autres substances, y c. oligo-éléments purs</td><td>formes parentérales</td></tr>
 <tr><td>B05XB02</td><td>alanyl-glutamine</td><td>formes parentérales</td></tr>
 <tr><td>B05XC</td><td>vitamines</td><td>formes parentérales</td></tr>
 <tr><td>B05ZB</td><td>solutions pour hémofiltration</td><td></td></tr>
@@ -274,6 +276,7 @@ Annexe
 <tr><td>C01CA24</td><td>adrénaline</td><td></td></tr>
 <tr><td>C03CA01</td><td>furosémide</td><td>formes parentérales</td></tr>
 <tr><td>C07AB02</td><td>métoprolol</td><td>formes parentérales</td></tr>
+<tr><td>C07AB09</td><td>esmolol</td><td>formes parentérales</td></tr>
 <tr><td>C07AG01</td><td>labétalol</td><td></td></tr>
 <tr><td>D08AC52</td><td>chlorhexidine, associations</td><td>volume &gt; 100 ml</td></tr>
 <tr><td>D08AG02</td><td>povidone iodée</td><td>volume &gt; 100 ml</td></tr>
@@ -285,8 +288,14 @@ Annexe
 <tr><td>H01BA02</td><td>desmopressine</td><td>formes parentérales</td></tr>
 <tr><td>H01BB02</td><td>ocytocine</td><td>formes parentérales</td></tr>
 <tr><td>H01BB03</td><td>carbétocine</td><td></td></tr>
+<tr><td>H02AB01</td><td>bétaméthasone</td><td>formes perorales</td></tr>
+<tr><td>H02AB02</td><td>dexaméthasone</td><td></td></tr>
+<tr><td>H02AB04</td><td>méthylprednisolone</td><td></td></tr>
+<tr><td>H02AB06</td><td>prednisolone</td><td>formes perorales</td></tr>
+<tr><td>H02AB07</td><td>prednisone</td><td>formes perorales</td></tr>
+<tr><td>H02AB09</td><td>hydrocortisone</td><td></td></tr>
 <tr><td>J01</td><td>antibiotiques à usage systémique</td><td>sauf J01Z</td></tr>
-<tr><td>J02</td><td>antifongiques à usage systémique</td><td></td></tr>
+<tr><td>J02</td><td>antimycosiques à usage systémique</td><td></td></tr>
 <tr><td>J04A</td><td>antituberculeux</td><td></td></tr>
 <tr><td>J05AB06</td><td>ganciclovir</td><td></td></tr>
 <tr><td>J05AB14</td><td>valganciclovir</td><td></td></tr>
@@ -296,8 +305,8 @@ Annexe
 <tr><td>J06BA02</td><td>immunoglobulines humaines</td><td>non spécifiques, application intravasculaire</td></tr>
 <tr><td>J06BB01</td><td>immunoglobuline anti-D</td><td></td></tr>
 <tr><td>J06BB02</td><td>immunoglobuline antitétanique</td><td></td></tr>
-<tr><td>J06BB03</td><td>immunoglobuline anti-varicelle/zona</td><td></td></tr>
-<tr><td>J06BB04</td><td>immunoglobuline anti-hépatite B</td><td></td></tr>
+<tr><td>J06BB03</td><td>immunoglobuline contre la varicelle/zona</td><td></td></tr>
+<tr><td>J06BB04</td><td>immunoglobuline humaine de l’hépatite B</td><td></td></tr>
 <tr><td>J06BB05</td><td>immunoglobuline antirabique</td><td></td></tr>
 <tr><td>J07</td><td>vaccins</td><td></td></tr>
 <tr><td>L01AA01</td><td>cyclophosphamide</td><td></td></tr>
@@ -326,7 +335,7 @@ Annexe
 <tr><td>L01CD01</td><td>paclitaxel</td><td></td></tr>
 <tr><td>L01CD02</td><td>docétaxel</td><td></td></tr>
 <tr><td>L01CD04</td><td>cabazitaxel</td><td></td></tr>
-<tr><td>L01CE02</td><td>irinotécan</td><td>ancien code ATC L01XX19</td></tr>
+<tr><td>L01CE02</td><td>irinotécan</td><td></td></tr>
 <tr><td>L01CX01</td><td>trabectédine</td><td></td></tr>
 <tr><td>L01DB01</td><td>doxorubicine</td><td></td></tr>
 <tr><td>L01DB03</td><td>épirubicine</td><td></td></tr>
@@ -384,7 +393,7 @@ Annexe
 <tr><td>M01AE17</td><td>dexkétoprofène</td><td>formes parentérales</td></tr>
 <tr><td>M03AB01</td><td>suxaméthonium</td><td></td></tr>
 <tr><td>M03AC04</td><td>atracurium</td><td></td></tr>
-<tr><td>M03AC09</td><td>rocuronium</td><td></td></tr>
+<tr><td>M03AC09</td><td>bromure de rocuronium</td><td></td></tr>
 <tr><td>M03AC11</td><td>cisatracurium</td><td></td></tr>
 <tr><td>M03CA01</td><td>dantrolène</td><td></td></tr>
 <tr><td>N01AB07</td><td>desflurane</td><td></td></tr>
@@ -400,13 +409,13 @@ Annexe
 <tr><td>N02AA03</td><td>hydromorphone</td><td></td></tr>
 <tr><td>N02AA05</td><td>oxycodone</td><td></td></tr>
 <tr><td>N02AA08</td><td>dihydrocodéine</td><td>sauf antitussifs</td></tr>
-<tr><td>N02AA55</td><td>oxycodone avec naloxone</td><td></td></tr>
+<tr><td>N02AA55</td><td>association oxycodone-naloxone</td><td></td></tr>
 <tr><td>N02AB02</td><td>péthidine</td><td></td></tr>
 <tr><td>N02AB03</td><td>fentanyl</td><td></td></tr>
 <tr><td>N02AE01</td><td>buprénorphine</td><td></td></tr>
 <tr><td>N02AF02</td><td>nalbuphine</td><td></td></tr>
-<tr><td>N02AJ06</td><td>codéine avec paracétamol</td><td></td></tr>
-<tr><td>N02AJ13</td><td>tramadol avec paracétamol</td><td></td></tr>
+<tr><td>N02AJ06</td><td>association codéine-paracétamol</td><td></td></tr>
+<tr><td>N02AJ13</td><td>association tramadol-paracétamol</td><td></td></tr>
 <tr><td>N02AX01</td><td>tilidine</td><td></td></tr>
 <tr><td>N02AX02</td><td>tramadol</td><td></td></tr>
 <tr><td>N02AX06</td><td>tapentadol</td><td></td></tr>
@@ -416,6 +425,7 @@ Annexe
 <tr><td>N03AX18</td><td>lacosamide</td><td></td></tr>
 <tr><td>N05BA01</td><td>diazépam</td><td>formes parentérales et gouttes</td></tr>
 <tr><td>N05BA06</td><td>lorazépam</td><td>formes parentérales</td></tr>
+<tr><td>N05CD08</td><td>midazolam</td><td>formes parentérales</td></tr>
 <tr><td>N07BC02</td><td>méthadone</td><td></td></tr>
 <tr><td>N07BC05</td><td>lévométhadone</td><td></td></tr>
 <tr><td>R03CC02</td><td>salbutamol</td><td>formes parentérales</td></tr>
@@ -426,7 +436,7 @@ Annexe
 <tr><td>V03AB35</td><td>sugammadex</td><td></td></tr>
 <tr><td>V03AE02</td><td>sévélamer</td><td></td></tr>
 <tr><td>V03AE03</td><td>carbonate de lanthane III</td><td></td></tr>
-<tr><td>V03AE05</td><td>complexe d’oxyhydroxyde de fer III, de saccharose et d’amidon</td><td></td></tr>
+<tr><td>V03AE05</td><td>complexe d’oxyhydroxyde de fer (III), de saccharose et d’amidon</td><td></td></tr>
 <tr><td>V03AE07</td><td>acétate de calcium</td><td></td></tr>
 <tr><td>V03AF03</td><td>folinate de calcium (acide folinique)</td><td></td></tr>
 <tr><td>V08AA</td><td>produits de contraste hydrosolubles, à élimination rénale, de haute osmolarité</td><td></td></tr>
@@ -434,5 +444,5 @@ Annexe
 <tr><td>V08BA</td><td>produits de contraste barytés</td><td></td></tr>
 <tr><td>V08CA</td><td>produits de contraste paramagnétiques</td><td></td></tr>
 <tr><td>V08DA</td><td>produits de contraste pour échographie</td><td></td></tr>
-<tr><td colspan="3">\* Les codes ATC (codes des principes actifs figurant dans le Anatomical Therapeutic Chemical Classification System) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no](https://www.whocc.no/atc_ddd_index/)&gt; ATC/DDD Index. La répartition des produits reflète les codes ATC attribués par l’Institut suisse des produits thérapeutiques.</td></tr>
+<tr><td colspan="3">\* Les codes ATC (codes des principes actifs figurant dans le *Anatomical Therapeutic* *Chemical* *Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.whocc.no.mcas.ms%2Fatc_ddd_index%2F%3FMcasTsid%3D15600&McasCSRF=2649d341548e44b651084cca5109aa9b45b003edf209258a1368c138aa0d82e6) &gt; ATC/DDD Index. La répartition des produits reflète les codes ATC attribués par l’Institut suisse des produits thérapeutiques.</td></tr>
 </table>
