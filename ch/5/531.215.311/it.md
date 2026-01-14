@@ -3,18 +3,18 @@ sr: "531.215.311"
 title: Ordinanza del DEFR del 20 maggio 2019 concernente la costituzione di scorte obbligatorie di medicamenti
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/351"
 language: it
-version: 2024-01-15
+version: 2026-01-15
 adopted: 2019-05-20
 in_force: 2019-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20240115/it/xml/fedlex-data-admin-ch-eli-cc-2019-351-20240115-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20240115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20260115/it/xml/fedlex-data-admin-ch-eli-cc-2019-351-20260115-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20260115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR concernente la costituzione di scorte obbligatorie di medicamenti
 
-del 20 maggio 2019 (Stato 15 gennaio 2024)
+del 20 maggio 2019 (Stato 15 gennaio 2026)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -22,7 +22,7 @@ visto l’articolo 4 capoverso 1 dell’ordinanza del 10 maggio 2017[^ingress-1]
 
 ordina:
 
-[^ingress-1]: [RS 531.215.31](https://fedlex.data.admin.ch/eli/cc/2017/312)
+[^ingress-1]: [RS 531.215.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7698)
 
 #### Art. 1
 
@@ -60,7 +60,7 @@ Il quantitativo totale dei principi attivi antinfettivi da depositare di cui all
 - b. ceftriaxone: 2650 kg;
 - c. gentamicina: 1300 kg.
 
-[^4-1]: Introdotto dal n. I dell’O del DEFR del 4 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)).
+[^4-1]: Introdotto dalla cifra I dell’O del DEFR del 4 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)).
 
 #### Art. 5
 
@@ -87,8 +87,8 @@ Il quantitativo totale dei seguenti prodotti di cui all’allegato 1 numeri 4–
 
 <sup>2</sup> Le merci sono depositate pronte all’uso. La quota delle forme galeniche e dei dosaggi corrisponde a quella dei quantitativi immessi in commercio.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 #### Art. 6a
 
@@ -98,8 +98,8 @@ Il quantitativo totale dei seguenti prodotti di cui all’allegato 1 numeri 4–
 
 <sup>2</sup> Le merci sono depositate pronte all’uso. La quota delle forme galeniche e dei dosaggi corrisponde a quella dei quantitativi immessi in commercio.
 
-[^6a-1]: Introdotto dal n. I dell’O del DEFR del 4 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)).
-[^6a-2]: Nuovo testo giusta il n. I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^6a-1]: Introdotto dalla cifra I dell’O del DEFR del 4 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)).
+[^6a-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 #### Art. 7
 
@@ -113,9 +113,11 @@ Il quantitativo totale dei seguenti prodotti di cui all’allegato 1 numeri 4–
 
 **Deposito delle merci sotto forma di principi attivi**
 
-<sup>1</sup> D’intesa con la cooperativa Helvecura (Helvecura) l’UFAE può concordare con gli assoggettati all’obbligo di costituire scorte che fabbricano interamente i loro prodotti in Svizzera la possibilità di depositare le merci sotto forma di principi attivi.
+<sup>1</sup> Previa consultazione della cooperativa Helvecura (Helvecura) l’UFAE può concordare con gli assoggettati all’obbligo di costituire scorte che fabbricano interamente i loro prodotti in Svizzera la possibilità di depositare le merci sotto forma di principi attivi.[^8-1]
 
 <sup>2</sup> Gli assoggettati all’obbligo di costituire scorte devono dimostrare che i principi attivi possono essere direttamente trasformati sul territorio svizzero.
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 13 nov. 2025, in vigore dal 15 gen. 2026 ([RU 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
 #### Art. 9
 
@@ -143,9 +145,11 @@ Il quantitativo totale dei seguenti prodotti di cui all’allegato 1 numeri 4–
 
 **Costituzione di scorte obbligatorie da parte di terzi e in comune**
 
-<sup>1</sup> Ad eccezione delle merci di cui all’allegato 1 numero 2, per ogni gruppo di merci possono essere costituite scorte obbligatorie da parte di terzi o in comune per al massimo due terzi del quantitativo totale.
+<sup>1</sup> I proprietari di scorte obbligatorie possono ricorrere alla costituzione di scorte obbligatorie da parte di terzi o in comune per una parte o per il totale dei propri quantitativi.[^11-1]
 
 <sup>2</sup> La fondazione e l’organizzazione di una società per la costituzione di scorte obbligatorie in comune richiedono l’approvazione dell’UFAE.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 13 nov. 2025, in vigore dal 15 gen. 2026 ([RU 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
 #### Art. 12
 
@@ -167,9 +171,9 @@ Allegato 1[^t-1]
 
 ## Merci secondo l’articolo 1
 
-[^t-1]: Aggiornato dal n. II delle O del DEFR del 4 dic. 2019 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)) e del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^t-1]: Aggiornato dalle cifre II delle O del DEFR del 4 dic. 2019 ([RU 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)), del 24 nov. 2023 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)) e del 13 nov. 2025, in vigore dal 15 gen. 2026 ([RU 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
-### 1 Antinfettivi della medicina umana pronti all’uso
+### 1. Antinfettivi della medicina umana pronti all’uso
 
 <table>
 <tr><th>Codice ATC[^annex1-lvlu1-lvl1-1]</th><th>Designazione della merce</th></tr>
@@ -209,27 +213,23 @@ Allegato 1[^t-1]
 <tr><td>J05AH02</td><td>oseltamivir (principio attivo)</td></tr>
 </table>
 
-### 4 Analgesici della medicina umana
+### 4. Analgesici della medicina umana
 
 <table>
 <tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
-<tr><th>N01AH06</th><th>remifentanil</th><th></th></tr>
+<tr><td>N01AH06</td><td>remifentanil</td><td></td></tr>
 <tr><td>N02AA01</td><td>morfina</td><td></td></tr>
 <tr><td>N02AA03</td><td>idromorfone</td><td></td></tr>
 <tr><td>N02AA05</td><td>ossicodone</td><td></td></tr>
-<tr><td>N02AA51</td><td>morfina, combinazioni</td><td></td></tr>
-<tr><td>N02AA55</td><td>ossicodone e naloxone</td><td></td></tr>
+<tr><td>N02AA55</td><td>combinazioni tra ossicodone e naloxone</td><td></td></tr>
 <tr><td>N02AB03</td><td>fentanile</td><td></td></tr>
-<tr><td>N02AC52</td><td>metadone, combinazioni</td><td>senza psicofarmaci</td></tr>
 <tr><td>N02AE01</td><td>buprenorfina</td><td></td></tr>
-<tr><td>N02AG01</td><td>morfina e spasmolitici</td><td></td></tr>
-<tr><td>N02AG04</td><td>idromorfone e spasmolitici</td><td></td></tr>
 <tr><td>N02BA01</td><td>acido acetilsalicilico, incl. acetilsalicilato di lisina</td><td>forme parenterali</td></tr>
 <tr><td>N07BC02</td><td>metadone</td><td></td></tr>
 <tr><td>N07BC05</td><td>levometadone</td><td></td></tr>
 </table>
 
-### 5 Vaccini della medicina umana
+### 5. Vaccini della medicina umana
 
 <table>
 <tr><th>Codice ATC</th><th>Designazione della merce</th></tr>
@@ -249,7 +249,7 @@ Allegato 1[^t-1]
 <tr><td>J07CA</td><td>vaccini virali e batterici combinati</td></tr>
 </table>
 
-### 5*a* Medicamenti oncologici della medicina umana
+### 5*a* *.*Medicamenti oncologici della medicina umana
 
 <table>
 <tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
@@ -268,7 +268,7 @@ Allegato 1[^t-1]
 <tr><td>L03AX03</td><td>vaccino BCG</td><td></td></tr>
 </table>
 
-### 5*b* Altri medicamenti della medicina umana
+### 5*b* *.*Altri medicamenti della medicina umana
 
 <table>
 <tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
@@ -277,14 +277,19 @@ Allegato 1[^t-1]
 <tr><td>C01CA07</td><td>dobutamina</td><td></td></tr>
 <tr><td>C01CA24</td><td>adrenalina</td><td>autoiniettori</td></tr>
 <tr><td>C03CA01</td><td>furosemide</td><td>forme parenterali</td></tr>
+<tr><td>C07AB02</td><td>metoprololo</td><td>forme parenterali</td></tr>
+<tr><td>C07AG01</td><td>labetalolo</td><td>forme parenterali</td></tr>
 <tr><td>H01BB02</td><td>ossitocina</td><td>forme parenterali</td></tr>
-<tr><td>M03AC09</td><td>rocuronio</td><td></td></tr>
+<tr><td>H02AB01</td><td>betametasone</td><td>forme perorali</td></tr>
+<tr><td>H02AB09</td><td>idrocortisone</td><td>forme perorali</td></tr>
+<tr><td>M03AC09</td><td>rocuronio bromuro</td><td></td></tr>
 <tr><td>N01AX10</td><td>propofol</td><td></td></tr>
-<tr><td>V08BA</td><td>mezzi di contrasto radiologici contenenti solfato di bario</td><td></td></tr>
+<tr><td>N05BA06</td><td>lorazepam</td><td>forme parenterali</td></tr>
+<tr><td>V08BA</td><td>mezzi di contrasto radiografici contenenti solfato di bario</td><td></td></tr>
 <tr><td>V08DA</td><td>mezzi di contrasto per ultrasonologia</td><td></td></tr>
 </table>
 
-### 6 Antinfettivi della medicina veterinaria
+### 6. Antinfettivi della medicina veterinaria
 
 <table>
 <tr><th>Codice ATCve\*t</th><th></th><th>Designazione della merce</th></tr>
@@ -320,7 +325,7 @@ Allegato 2[^t-2]
 
 ## Esonero dall’obbligo di concludere un contratto per la costituzione di scorte obbligatorie
 
-[^t-2]: Aggiornato dal n. II dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^t-2]: Aggiornato dalla cifra II dell’O del DEFR del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
 
 ### 1. Medicamenti per la medicina umana pronti all’uso
 
@@ -328,7 +333,7 @@ Può essere esonerato dall’obbligo di concludere un contratto per la costituzi
 
 [^annex2-lvlu1-lvl1-1]: La dose definita giornaliera è la *defined daily dose (DDD)* pubblicata dall’OMS. Può essere consultata sul sito dell’OMS (WHO Collaborating Centre for Drug Statistics Methodology) all’indirizzo [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
 
-### 2 Antinfettivi della medicina veterinaria
+### 2. Antinfettivi della medicina veterinaria
 
 Può essere esonerato dall’obbligo di concludere un contratto per la costituzione di scorte obbligatorie chi, per anno civile, immette in commercio quantitativi di principi attivi inferiori ai limiti sotto indicati:
 

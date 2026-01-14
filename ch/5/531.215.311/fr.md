@@ -3,18 +3,18 @@ sr: "531.215.311"
 title: Ordonnance du DEFR du 20 mai 2019 sur le stockage obligatoire de médicaments
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/351"
 language: fr
-version: 2024-01-15
+version: 2026-01-15
 adopted: 2019-05-20
 in_force: 2019-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20240115/fr/xml/fedlex-data-admin-ch-eli-cc-2019-351-20240115-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20240115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20260115/fr/xml/fedlex-data-admin-ch-eli-cc-2019-351-20260115-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20260115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR sur le stockage obligatoire de médicaments
 
-du 20 mai 2019 (État le 15 janvier 2024)
+du 20 mai 2019 (État le 15 janvier 2026)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR),
 
@@ -22,7 +22,7 @@ vu l’art. 4, al. 1, de l’ordonnance du 10 mai 2017 sur le stockage obligatoi
 
 arrête:
 
-[^ingress-1]: [RS 531.215.31](https://fedlex.data.admin.ch/eli/cc/2017/312)
+[^ingress-1]: [RS 531.215.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7698)
 
 #### Art. 1
 
@@ -113,9 +113,11 @@ La quantité totale de marchandises stockées listées dans l’annexe 1, ch. 4 
 
 **Stockage de produits sous la forme de principes actifs**
 
-<sup>1</sup> En accord avec la coopérative Helvecura (Helvecura), l’OFAE peut convenir avec les personnes astreintes au stockage et produisant leurs médicaments entièrement en Suisse qu’elles stockent des principes actifs.
+<sup>1</sup> L’OFAE peut, après avoir consulté la société coopérative Helvecura (Helvecura), convenir avec les personnes astreintes au stockage et produisant leurs médicaments entièrement en Suisse qu’elles peuvent stocker ceux-ci sous la forme de principes actifs.[^8-1]
 
 <sup>2</sup> Les personnes astreintes au stockage doivent prouver que leurs principes actifs peuvent être directement transformés en Suisse.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 13 nov. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
 #### Art. 9
 
@@ -143,9 +145,11 @@ La quantité totale de marchandises stockées listées dans l’annexe 1, ch. 4 
 
 **Stockage obligatoire par délégation ou en commun**
 
-<sup>1</sup> Excepté pour les réserves de médicaments listés dans l’annexe 1, ch. 2, un propriétaire peut procéder au transfert, par catégorie de produits, des deux tiers au maximum des quantités totales fixées pour ses réserves, au titre du stockage obligatoire par délégation ou en commun.
+<sup>1</sup> Les propriétaires peuvent procéder au transfert de tout ou partie de leurs réserves au titre du stockage obligatoire par délégation ou en commun.[^11-1]
 
 <sup>2</sup> La création et l’organisation d’une société de stockage obligatoire en commun requièrent l’accord préalable de l’OFAE.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 13 nov. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
 #### Art. 12
 
@@ -167,7 +171,7 @@ Annexe 1[^t-1]
 
 ## Marchandises visées à l’art. 1
 
-[^t-1]: Mise à jour par le ch. II des O du DEFR du 4 déc. 2019 ([RO 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)) et du 24 nov. 2023, en vigueur depuis le 15 janv. 2024 ([RO 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^t-1]: Mise à jour par le ch. II des O du DEFR du 4 déc. 2019 ([RO 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)), du 24 nov. 2023 ([RO 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)) et du 13 nov. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
 ### 1 Anti-infectieux à usage humain en formule dosée, prête à l’emploi
 
@@ -213,17 +217,13 @@ Annexe 1[^t-1]
 
 <table>
 <tr><th>Code ATC</th><th>Désignation de la marchandise</th><th>Remarque</th></tr>
-<tr><th>N01AH06</th><th>rémifentanil</th><th></th></tr>
+<tr><td>N01AH06</td><td>rémifentanil</td><td></td></tr>
 <tr><td>N02AA01</td><td>morphine</td><td></td></tr>
 <tr><td>N02AA03</td><td>hydromorphone</td><td></td></tr>
 <tr><td>N02AA05</td><td>oxycodone</td><td></td></tr>
-<tr><td>N02AA51</td><td>morphine, associations</td><td></td></tr>
-<tr><td>N02AA55</td><td>oxycodone avec naloxone</td><td></td></tr>
+<tr><td>N02AA55</td><td>association oxycodone-naloxone</td><td></td></tr>
 <tr><td>N02AB03</td><td>fentanyl</td><td></td></tr>
-<tr><td>N02AC52</td><td>méthadone, associations</td><td>sauf psycholeptiques</td></tr>
 <tr><td>N02AE01</td><td>buprénorphine</td><td></td></tr>
-<tr><td>N02AG01</td><td>morphine et antispasmodiques</td><td></td></tr>
-<tr><td>N02AG04</td><td>hydromorphone et antispasmodiques</td><td></td></tr>
 <tr><td>N02BA01</td><td>acide acétylsalicylique y c. acétylsalicylate de lysine</td><td>formes parentérales</td></tr>
 <tr><td>N07BC02</td><td>méthadone</td><td></td></tr>
 <tr><td>N07BC05</td><td>lévométhadone</td><td></td></tr>
@@ -277,9 +277,14 @@ Annexe 1[^t-1]
 <tr><td>C01CA07</td><td>dobutamine</td><td></td></tr>
 <tr><td>C01CA24</td><td>adrénaline</td><td>auto-injecteurs</td></tr>
 <tr><td>C03CA01</td><td>furosémide</td><td>formes parentérales</td></tr>
+<tr><td>C07AB02</td><td>métoprolol</td><td>formes parentérales</td></tr>
+<tr><td>C07AG01</td><td>labétalol</td><td>formes parentérales</td></tr>
 <tr><td>H01BB02</td><td>ocytocine</td><td>formes parentérales</td></tr>
-<tr><td>M03AC09</td><td>rocuronium</td><td></td></tr>
+<tr><td>H02AB01</td><td>bétaméthasone</td><td>formes perorales</td></tr>
+<tr><td>H02AB09</td><td>hydrocortisone</td><td>formes perorales</td></tr>
+<tr><td>M03AC09</td><td>bromure de rocuronium</td><td></td></tr>
 <tr><td>N01AX10</td><td>propofol</td><td></td></tr>
+<tr><td>N05BA06</td><td>lorazépam</td><td>formes parentérales</td></tr>
 <tr><td>V08BA</td><td>produits de contraste barytés</td><td></td></tr>
 <tr><td>V08DA</td><td>produits de contraste pour échographie</td><td></td></tr>
 </table>

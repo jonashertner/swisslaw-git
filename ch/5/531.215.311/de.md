@@ -3,18 +3,18 @@ sr: "531.215.311"
 title: Verordnung des WBF vom 20. Mai 2019 über die Pflichtlagerhaltung von Arzneimitteln
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/351"
 language: de
-version: 2024-01-15
+version: 2026-01-15
 adopted: 2019-05-20
 in_force: 2019-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20240115/de/xml/fedlex-data-admin-ch-eli-cc-2019-351-20240115-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20240115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/351/20260115/de/xml/fedlex-data-admin-ch-eli-cc-2019-351-20260115-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/351/20260115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die Pflichtlagerhaltung von Arzneimitteln
 
-vom 20. Mai 2019 (Stand am 15. Januar 2024)
+vom 20. Mai 2019 (Stand am 15. Januar 2026)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 4 Absatz 1 der Verordnung vom 10. Mai 2017[^ingress-1] üb
 
 verordnet:
 
-[^ingress-1]: [SR 531.215.31](https://fedlex.data.admin.ch/eli/cc/2017/312)
+[^ingress-1]: [SR 531.215.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7698)
 
 #### Art. 1
 
@@ -113,9 +113,11 @@ Die Gesamtmenge der folgenden eingelagerten Waren nach Anhang 1 Ziffern 4–5*a*
 
 **Lagerung von Waren in Form von Wirkstoffen**
 
-<sup>1</sup> Das BWL kann mit Lagerpflichtigen, die ihre Produkte vollständig in der Schweiz herstellen, im Einvernehmen mit der Genossenschaft Helvecura (Helvecura) vereinbaren, dass sie die Waren in Form von Wirkstoffen lagern können.
+<sup>1</sup> Das BWL kann mit Lagerpflichtigen, die ihre Produkte vollständig in der Schweiz herstellen, nach Rücksprache mit der Genossenschaft Helvecura (Helvecura) vereinbaren, dass sie die Waren in Form von Wirkstoffen lagern können.[^8-1]
 
 <sup>2</sup> Die Lagerpflichtigen müssen den Nachweis erbringen, dass die Wirkstoffe im Inland unmittelbar verarbeitet werden können.
+
+[^8-1]: Fassung gemäss Ziff. I der V des WBF vom 13. Nov. 2025, in Kraft seit 15. Jan. 2026 ([AS 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
 #### Art. 9
 
@@ -143,9 +145,11 @@ Die Gesamtmenge der folgenden eingelagerten Waren nach Anhang 1 Ziffern 4–5*a*
 
 **Stellvertretende und gemeinsame Pflichtlagerhaltung**
 
-<sup>1</sup> Mit Ausnahme der Waren nach Anhang 1 Ziffer 2 dürfen pro Warengruppe höchstens zwei Drittel der Gesamtmenge in stellvertretender oder gemeinsamer Pflichtlagerhaltung gehalten werden.
+<sup>1</sup> Die Pflichtlagerhalter können ihre Warenmengen teilweise oder vollständig in stellvertretender oder in gemeinsamer Pflichtlagerhaltung halten.[^11-1]
 
 <sup>2</sup> Die Gründung und Ausgestaltung einer Lagergesellschaft zur gemeinsamen Pflichtlagerhaltung bedürfen der Genehmigung des BWL.
+
+[^11-1]: Fassung gemäss Ziff. I der V des WBF vom 13. Nov. 2025, in Kraft seit 15. Jan. 2026 ([AS 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
 #### Art. 12
 
@@ -167,7 +171,7 @@ Anhang 1[^t-1]
 
 ## Waren nach Artikel 1
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des WBF vom 4. Dez. 2019 ([AS 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)) und vom 24. Nov. 2023, in Kraft seit 15. Jan. 2024 ([AS 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des WBF vom 4. Dez. 2019 ([AS 2019 4759](https://fedlex.data.admin.ch/eli/oc/2019/782)), vom 24. Nov. 2023 ([AS 2023 801](https://fedlex.data.admin.ch/eli/oc/2023/801)) und vom 13. Nov. 2025, in Kraft seit 15. Jan. 2026 ([AS 2025 727](https://fedlex.data.admin.ch/eli/oc/2025/727)).
 
 ### 1 Antiinfektiva der Humanmedizin in dosierten Handelsformen
 
@@ -213,17 +217,13 @@ Anhang 1[^t-1]
 
 <table>
 <tr><th>ATC-Code</th><th>Warenbezeichnung</th><th>Bemerkung</th></tr>
-<tr><th>N01AH06</th><th>Remifentanil</th><th></th></tr>
+<tr><td>N01AH06</td><td>Remifentanil</td><td></td></tr>
 <tr><td>N02AA01</td><td>Morphin</td><td></td></tr>
 <tr><td>N02AA03</td><td>Hydromorphon</td><td></td></tr>
 <tr><td>N02AA05</td><td>Oxycodon</td><td></td></tr>
-<tr><td>N02AA51</td><td>Morphin, Kombinationen</td><td></td></tr>
-<tr><td>N02AA55</td><td>Oxycodon und Naloxon</td><td></td></tr>
+<tr><td>N02AA55</td><td>Oxycodon-Naloxon-Kombination</td><td></td></tr>
 <tr><td>N02AB03</td><td>Fentanyl</td><td></td></tr>
-<tr><td>N02AC52</td><td>Methadon, Kombinationen</td><td>exkl. Psycholeptika</td></tr>
 <tr><td>N02AE01</td><td>Buprenorphin</td><td></td></tr>
-<tr><td>N02AG01</td><td>Morphin und Spasmolytika</td><td></td></tr>
-<tr><td>N02AG04</td><td>Hydromorphon und Spasmolytika</td><td></td></tr>
 <tr><td>N02BA01</td><td>Acetylsalicylsäure, inkl. Lysinacetylsalicylat</td><td>parenterale Formen</td></tr>
 <tr><td>N07BC02</td><td>Methadon</td><td></td></tr>
 <tr><td>N07BC05</td><td>Levomethadon</td><td></td></tr>
@@ -277,9 +277,14 @@ Anhang 1[^t-1]
 <tr><td>C01CA07</td><td>Dobutamin</td><td></td></tr>
 <tr><td>C01CA24</td><td>Adrenalin</td><td>Autoinjektoren</td></tr>
 <tr><td>C03CA01</td><td>Furosemid</td><td>parenterale Formen</td></tr>
+<tr><td>C07AB02</td><td>Metoprolol</td><td>parenterale Formen</td></tr>
+<tr><td>C07AG01</td><td>Labetalol</td><td>parenterale Formen</td></tr>
 <tr><td>H01BB02</td><td>Oxytocin</td><td>parenterale Formen</td></tr>
-<tr><td>M03AC09</td><td>Rocuronium</td><td></td></tr>
+<tr><td>H02AB01</td><td>Betamethason</td><td>perorale Formen</td></tr>
+<tr><td>H02AB09</td><td>Hydrocortison</td><td>perorale Formen</td></tr>
+<tr><td>M03AC09</td><td>Rocuroniumbromid</td><td></td></tr>
 <tr><td>N01AX10</td><td>Propofol</td><td></td></tr>
+<tr><td>N05BA06</td><td>Lorazepam</td><td>parenterale Formen</td></tr>
 <tr><td>V08BA</td><td>Bariumhaltige Röntgenkontrastmittel</td><td></td></tr>
 <tr><td>V08DA</td><td>Ultraschallkontrastmittel</td><td></td></tr>
 </table>
@@ -326,7 +331,7 @@ Anhang 2[^t-2]
 
 Von der Pflicht zum Abschluss eines Pflichtlagervertrags kann befreit werden, wer pro Kalenderjahr weniger als 5000 definierte Tagesdosen[^annex2-lvlu1-lvl1-1] eines Produkts (Total aller Dosierungen und galenischen Handelsformen) in Verkehr bringt.
 
-[^annex2-lvlu1-lvl1-1]: Als definierte Tagesdosis gilt die von der WHO publizierte *Defined Daily Dose*. Sie kann auf der Website des WHO Collaborating Centre for Drug Statistics Methodology unter folgender Adresse abgerufen werden: www.whocc.no/atc\_ddd\_index/.
+[^annex2-lvlu1-lvl1-1]: Als definierte Tagesdosis gilt die von der WHO publizierte *Defined Daily Dose*. Sie kann auf der Website des WHO Collaborating Centre for Drug Statistics Methodology unter folgender Adresse abgerufen werden: www.whocc.no/atc\_ddd\_index/ .
 
 ### 2 Antiinfektiva der Veterinärmedizin
 
