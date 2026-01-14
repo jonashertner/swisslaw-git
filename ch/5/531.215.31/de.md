@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Verordnung vom 10. Mai 2017 über die Pflichtlagerhaltung von Arzneimitteln
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: de
-version: 2024-01-15
+version: 2026-01-15
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20240115/de/xml/fedlex-data-admin-ch-eli-cc-2017-312-20240115-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20240115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20260115/de/xml/fedlex-data-admin-ch-eli-cc-2017-312-20260115-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20260115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Pflichtlagerhaltung von Arzneimitteln
 
-vom 10. Mai 2017 (Stand am 15. Januar 2024)
+vom 10. Mai 2017 (Stand am 15. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 7 Absatz 1, 8 Absatz 2, 57 Absatz 1 und 60 Absatz 2 de
 
 verordnet:
 
-[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -73,7 +73,7 @@ Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) bes
 
 Das Bundesamt für Zoll und Grenzsicherheit[^5-1] und das Schweizerische Heilmittelinstitut übermitteln dem BWL auf Anfrage hin die ihnen vorliegenden Informationen über Einfuhren von Waren nach Artikel 1.
 
-[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -121,9 +121,9 @@ Anhang[^t-1]
 
 ## Arzneimittel, die der Pflichtlagerhaltung unterstellt sind
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. Dez. 2019 ([AS 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)) und vom 24. Nov. 2023, in Kraft seit 15. Jan. 2024 ([AS 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. Dez. 2019 ([AS 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)), vom 24. Nov. 2023 ([AS 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)) und vom 13. Nov. 2025, in Kraft seit 15. Jan. 2026 (AS **202****5** 726).
 
-### 1 Antiinfektiva
+### 1. Antiinfektiva
 
 <table>
 <tr><th>ATC-Code[^annexu1-lvlu1-lvl1-1]</th><th>Warenbezeichnung</th></tr>
@@ -134,7 +134,7 @@ Anhang[^t-1]
 <tr><td>J06BA02</td><td>Humane Immunglobuline, unspezifisch, intravaskulär</td></tr>
 <tr><td>J06BB01</td><td>Anti-D-Immunglobulin</td></tr>
 <tr><td>J06BB02</td><td>Tetanus-Immunglobulin</td></tr>
-<tr><td>J06BB04</td><td>Hepatitis-Immunglobulin</td></tr>
+<tr><td>J06BB04</td><td>Hepatitis B-Immunglobulin</td></tr>
 <tr><td>J06BB05</td><td>Tollwut-Immunglobulin</td></tr>
 </table>
 
@@ -144,11 +144,10 @@ Anhang[^t-1]
 <tr><td>QG51</td><td>Antiinfektiva und Antiseptika zum intrauterinen Gebrauch</td></tr>
 <tr><td>QJ01</td><td>Antibakterielle Mittel zum systemischen Gebrauch</td></tr>
 <tr><td>QJ51</td><td>Antibakterielle Mittel zur intramammären Anwendung</td></tr>
-<tr><td>QP51</td><td>Antiprotozoika</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: Der ATC-Code (*Anatomical Therapeutic Chemical Classification System*) kann auf Englisch (offizielle Fassung) auf der Webseite des *WHO Collaborating Centre for Drug Statistics Methodology* unter folgender Adresse abgerufen werden: www.whocc.no &gt; ATC/DDD Index.
-[^annexu1-lvlu1-lvl1-2]: Der ATCvet-Code (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) kann auf Englisch (offizielle Fassung) auf der Webseite des *WHO Collaborating Centre for Drug Statistics Methodology* unter folgender Adresse abgerufen werden: www.whocc.no/ATCvet &gt; ATCvet Index.
+[^annexu1-lvlu1-lvl1-1]: Der ATC-Code (*Anatomical Therapeutic Chemical Classification System*) kann auf Englisch (offizielle Fassung) auf der Webseite des *WHO Collaborating Centre for Drug Statistics Methodology* unter folgender Adresse abgerufen werden: [www.whocc.no](https://atcddd.fhi.no/atcvet/) &gt; ATC/DDD Index. Die Zuteilung der Produkte folgt der ATC-Einteilung des Schweizerischen Heilmittelinstituts.
+[^annexu1-lvlu1-lvl1-2]: Der ATCvet-Code (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) kann auf Englisch (offizielle Fassung) auf der Webseite des *WHO Collaborating Centre for Drug Statistics Methodology* unter folgender Adresse abgerufen werden: [www.whocc.no/ATCvet](https://atcddd.fhi.no/atcvet/) &gt; ATCvet Index.
 
 ### 2 Virostatika
 
@@ -165,13 +164,9 @@ Anhang[^t-1]
 <tr><td>N02AA01</td><td>Morphin</td><td></td></tr>
 <tr><td>N02AA03</td><td>Hydromorphon</td><td></td></tr>
 <tr><td>N02AA05</td><td>Oxycodon</td><td></td></tr>
-<tr><td>N02AA51</td><td>Morphin, Kombinationen</td><td></td></tr>
-<tr><td>N02AA55</td><td>Oxycodon und Naloxon</td><td></td></tr>
+<tr><td>N02AA55</td><td>Oxycodon-Naloxon-Kombination</td><td></td></tr>
 <tr><td>N02AB03</td><td>Fentanyl</td><td></td></tr>
-<tr><td>N02AC52</td><td>Methadon, Kombinationen</td><td>exkl. Psycholeptika</td></tr>
 <tr><td>N02AE01</td><td>Buprenorphin</td><td></td></tr>
-<tr><td>N02AG01</td><td>Morphin und Spasmolytika</td><td></td></tr>
-<tr><td>N02AG04</td><td>Hydromorphon und Spasmolytika</td><td></td></tr>
 <tr><td>N02BA01</td><td>Acetylsalicylsäure, inkl. Lysinacetylsalicylat</td><td>parenterale Formen</td></tr>
 <tr><td>N07BC02</td><td>Methadon</td><td></td></tr>
 <tr><td>N07BC05</td><td>Levomethadon</td><td></td></tr>
@@ -225,9 +220,14 @@ Anhang[^t-1]
 <tr><td>C01CA07</td><td>Dobutamin</td><td></td></tr>
 <tr><td>C01CA24</td><td>Adrenalin</td><td>Autoinjektoren</td></tr>
 <tr><td>C03CA01</td><td>Furosemid</td><td>parenterale Formen</td></tr>
+<tr><td>C07AB02</td><td>Metoprolol</td><td>parenterale Formen</td></tr>
+<tr><td>C07AG01</td><td>Labetalol</td><td>parenterale Formen</td></tr>
 <tr><td>H01BB02</td><td>Oxytocin</td><td>parenterale Formen</td></tr>
-<tr><td>M03AC09</td><td>Rocuronium</td><td></td></tr>
+<tr><td>H02AB01</td><td>Betamethason</td><td>perorale Formen</td></tr>
+<tr><td>H02AB09</td><td>Hydrocortison</td><td>perorale Formen</td></tr>
+<tr><td>M03AC09</td><td>Rocuroniumbromid</td><td></td></tr>
 <tr><td>N01AX10</td><td>Propofol</td><td></td></tr>
+<tr><td>N05BA06</td><td>Lorazepam</td><td>parenterale Formen</td></tr>
 <tr><td>V08BA</td><td>Bariumhaltige Röntgenkontrastmittel</td><td></td></tr>
 <tr><td>V08DA</td><td>Ultraschallkontrastmittel</td><td></td></tr>
 </table>

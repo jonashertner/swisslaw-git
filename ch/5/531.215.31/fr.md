@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Ordonnance du 10 mai 2017 sur le stockage obligatoire de médicaments
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: fr
-version: 2024-01-15
+version: 2026-01-15
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20240115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-312-20240115-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20240115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20260115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-312-20260115-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20260115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le stockage obligatoire de médicaments
 
-du 10 mai 2017 (État le 15 janvier 2024)
+du 10 mai 2017 (État le 15 janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu les art. 7, al. 1, 8, al. 2, 57, al. 1, et 60, al. 2, de la loi du 17 juin 20
 
 arrête:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -73,7 +73,7 @@ Après avoir consulté les milieux économiques concernés, le Département féd
 
 L’Office fédéral de la douane et de la sécurité des frontières[^5-1] et l’Institut suisse des produits thérapeutiques transmettent à l'OFAE, sur demande, les informations dont ils disposent sur l’importation de médicaments visés à l’art. 1.
 
-[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -121,7 +121,7 @@ Annexe[^t-1]
 
 ## Médicaments soumis au stockage obligatoire
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 4 déc. 2019 ([RO 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)) et du 24 nov. 2023, en vigueur depuis le 15 janv. 2024 ([RO 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)).
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 4 déc. 2019 ([RO 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)), du 24 nov. 2023 ([RO 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)) et du 13 nov. 2025, en vigueur depuis le 15 janv. 2026 ([RO 2025 726](https://fedlex.data.admin.ch/eli/oc/2025/726)).
 
 ### 1 Anti-infectieux
 
@@ -129,26 +129,25 @@ Annexe[^t-1]
 <tr><th>Code ATC[^annexu1-lvlu1-lvl1-1]</th><th>Désignation de la marchandise</th></tr>
 <tr><td>A07A</td><td>anti-infectieux intestinaux</td></tr>
 <tr><td>J01</td><td>antibiotiques à usage systémique</td></tr>
-<tr><td>J02</td><td>antifongiques à usage systémique</td></tr>
+<tr><td>J02</td><td>antimycosiques à usage systémique</td></tr>
 <tr><td>J04A</td><td>antituberculeux</td></tr>
-<tr><td>J06BA02</td><td>immunoglobulines humaines, aspécifiques, intravasculaires</td></tr>
+<tr><td>J06BA02</td><td>immunoglobulines humaines non spécifiques, application intravasculaire</td></tr>
 <tr><td>J06BB01</td><td>immunoglobuline anti-D</td></tr>
 <tr><td>J06BB02</td><td>immunoglobuline antitétanique</td></tr>
-<tr><td>J06BB04</td><td>immunoglobuline anti-hépatique</td></tr>
+<tr><td>J06BB04</td><td>immunoglobuline humaine de l’hépatite B</td></tr>
 <tr><td>J06BB05</td><td>immunoglobuline antirabique</td></tr>
 </table>
 
 <table>
-<tr><th>Code ATCvet[^annexu1-lvlu1-lvl1-2]</th><th>Désignation de la marchandise</th></tr>
+<tr><td>Code ATCvet[^annexu1-lvlu1-lvl1-2]</td><td>Désignation de la marchandise</td></tr>
 <tr><td>QA07A</td><td>anti-infectieux intestinaux</td></tr>
 <tr><td>QG51</td><td>anti-infectieux et antiseptiques à usage intra-utérin</td></tr>
 <tr><td>QJ01</td><td>antibactériens à usage systémique</td></tr>
 <tr><td>QJ51</td><td>antibactériens à usage intramammaire</td></tr>
-<tr><td>QP51</td><td>antiprotozoaires</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: Les codes ATC (*Anatomical Therapeutic Chemical Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
-[^annexu1-lvlu1-lvl1-2]: Les codes ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no/ATCvet](http://www.whocc.no/ATCvet) &gt; ATCvet Index.
+[^annexu1-lvlu1-lvl1-1]: Les codes ATC (*Anatomical Therapeutic Chemical Classification System*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no](https://atcddd.fhi.no/) &gt; ATC/DDD Index. La répartition des produits reflète les codes ATC attribués par l’Institut suisse des produits thérapeutiques.
+[^annexu1-lvlu1-lvl1-2]: Les codes ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) peuvent être consultés en anglais (version officielle) sur le site du Centre collaborateur de l’OMS pour la méthodologie sur les statistiques pharmaceutiques à l’adresse suivante: [www.whocc.no/ATCvet](https://atcddd.fhi.no/atcvet/) &gt; ATCvet Index.
 
 ### 2 Virostatiques
 
@@ -165,13 +164,9 @@ Annexe[^t-1]
 <tr><td>N02AA01</td><td>morphine</td><td></td></tr>
 <tr><td>N02AA03</td><td>hydromorphone</td><td></td></tr>
 <tr><td>N02AA05</td><td>oxycodone</td><td></td></tr>
-<tr><td>N02AA51</td><td>morphine, associations</td><td></td></tr>
-<tr><td>N02AA55</td><td>oxycodone avec naloxone</td><td></td></tr>
+<tr><td>N02AA55</td><td>association oxycodone-naloxone</td><td></td></tr>
 <tr><td>N02AB03</td><td>fentanyl</td><td></td></tr>
-<tr><td>N02AC52</td><td>méthadone, associations</td><td>sauf psycholeptiques</td></tr>
 <tr><td>N02AE01</td><td>buprénorphine</td><td></td></tr>
-<tr><td>N02AG01</td><td>morphine et antispasmodiques</td><td></td></tr>
-<tr><td>N02AG04</td><td>hydromorphone et antispasmodiques</td><td></td></tr>
 <tr><td>N02BA01</td><td>acide acétylsalicylique, y c. acétylsalicylate de lysine</td><td>formes parentérales</td></tr>
 <tr><td>N07BC02</td><td>méthadone</td><td></td></tr>
 <tr><td>N07BC05</td><td>lévométhadone</td><td></td></tr>
@@ -225,9 +220,14 @@ Annexe[^t-1]
 <tr><td>C01CA07</td><td>dobutamine</td><td></td></tr>
 <tr><td>C01CA24</td><td>adrénaline</td><td>auto-injecteurs</td></tr>
 <tr><td>C03CA01</td><td>furosémide</td><td>formes parentérales</td></tr>
+<tr><td>C07AB02</td><td>métoprolol</td><td>formes parentérales</td></tr>
+<tr><td>C07AG01</td><td>labétalol</td><td>formes parentérales</td></tr>
 <tr><td>H01BB02</td><td>ocytocine</td><td>formes parentérales</td></tr>
-<tr><td>M03AC09</td><td>rocuronium</td><td></td></tr>
+<tr><td>H02AB01</td><td>bétaméthasone</td><td>formes perorales</td></tr>
+<tr><td>H02AB09</td><td>hydrocortisone</td><td>formes perorales</td></tr>
+<tr><td>M03AC09</td><td>bromure de rocuronium</td><td></td></tr>
 <tr><td>N01AX10</td><td>propofol</td><td></td></tr>
+<tr><td>N05BA06</td><td>lorazépam</td><td>formes parentérales</td></tr>
 <tr><td>V08BA</td><td>produits de contraste barytés</td><td></td></tr>
 <tr><td>V08DA</td><td>produits de contraste pour échographie</td><td></td></tr>
 </table>

@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Ordinanza del 10 maggio 2017 concernente la costituzione di scorte obbligatorie di medicamenti
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: it
-version: 2024-01-15
+version: 2026-01-15
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20240115/it/xml/fedlex-data-admin-ch-eli-cc-2017-312-20240115-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20240115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20260115/it/xml/fedlex-data-admin-ch-eli-cc-2017-312-20260115-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20260115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la costituzione di scorte obbligatorie di medicamenti
 
-del 10 maggio 2017 (Stato 15 gennaio 2024)
+del 10 maggio 2017 (Stato 15 gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visti gli articoli 7 capoverso 1, 8 capoverso 2, 57 capoverso 1 e 60 capoverso 2
 
 ordina:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -73,7 +73,7 @@ Dopo aver consultato le cerchie economiche interessate, il Dipartimento federale
 
 L’Ufficio federale della dogana e della sicurezza dei confini[^5-1] e l’Istituto svizzero per gli agenti terapeutici trasmettono all’UFAE, su richiesta, le informazioni di cui dispongono sull’importazione di merci di cui all’articolo 1.
 
-[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -121,34 +121,33 @@ Allegato[^t-1]
 
 ## Medicamenti che sottostanno all’obbligo di costituire scorte:
 
-[^t-1]: Aggiornato dal n. I delle O del DEFR del 4 dic. 2019 ([RU 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)) e del 24 nov. 2023, in vigore dal 15 gen. 2024 ([RU 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)).
+[^t-1]: Aggiornato dalle cifre I delle O del DEFR del 4 dic. 2019 ([RU 2019 4755](https://fedlex.data.admin.ch/eli/oc/2019/781)), del 24 nov. 2023 ([RU 2023 800](https://fedlex.data.admin.ch/eli/oc/2023/800)) e del 13 nov. 2025, in vigore dal 15 gen. 2026 ([RU 2025 726](https://fedlex.data.admin.ch/eli/oc/2025/726)).
 
 ### 1 Antinfettivi
 
 <table>
-<tr><th>Codice ATC<sup>[^annexu1-lvlu1-lvl1-1]2</sup></th><th>Designazione della merce</th></tr>
+<tr><th>Codice ATC[^annexu1-lvlu1-lvl1-1]2</th><th>Designazione della merce</th></tr>
 <tr><td>A07A</td><td>antinfettivi intestinali</td></tr>
 <tr><td>J01</td><td>antibiotici per uso sistemico</td></tr>
 <tr><td>J02</td><td>antimicotici per uso sistemico</td></tr>
 <tr><td>J04A</td><td>medicamenti per il trattamento della tubercolosi</td></tr>
-<tr><td>J06BA02</td><td>immunoglobuline umane normali, per somministrazione intravascolare</td></tr>
+<tr><td>J06BA02</td><td>immunoglobuline umane, non specifiche, per somministrazione intravascolare</td></tr>
 <tr><td>J06BB01</td><td>immunoglobulina anti-D</td></tr>
 <tr><td>J06BB02</td><td>immunoglobulina antitetanica</td></tr>
 <tr><td>J06BB04</td><td>immunoglobulina antiepatite B</td></tr>
-<tr><td>J06BB05</td><td>immunoglobulina antirabica</td></tr>
+<tr><td>J06BB05</td><td>immunoglobulina antirabbica</td></tr>
 </table>
 
 <table>
-<tr><th>Codice ATCvet<sup>[^annexu1-lvlu1-lvl1-2]3</sup></th><th>Designazione della merce</th></tr>
+<tr><th>Codice ATCvet[^annexu1-lvlu1-lvl1-2]3</th><th>Designazione della merce</th></tr>
 <tr><td>QA07A</td><td>antinfettivi intestinali</td></tr>
 <tr><td>QG51</td><td>antinfettivi e antisettici per uso intrauterino</td></tr>
 <tr><td>QJ01</td><td>antibatterici per uso sistemico</td></tr>
 <tr><td>QJ51</td><td>antibatterici per uso intramammario</td></tr>
-<tr><td>QP51</td><td>antiprotozoari</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-1]: <sup>2</sup> Il codice ATC (*Anatomical Therapeutic Chemical Classification System*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*), all’indirizzo: [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index.
-[^annexu1-lvlu1-lvl1-2]: <sup>3</sup> Il codice ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*), all’indirizzo: [www.whocc.no/ATCvet](http://www.whocc.no/ATCvet) &gt; ATCvet Index.
+[^annexu1-lvlu1-lvl1-1]: <sup>2</sup> Il codice ATC (*Anatomical Therapeutic Chemical Classification System*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*); [www.whocc.no](http://www.whocc.no) &gt; ATC/DDD Index. I prodotti sono catalogati secondo la classificazione ATC dell’Istituto svizzero per gli agenti terapeutici.
+[^annexu1-lvlu1-lvl1-2]: <sup>3</sup> Il codice ATCvet (*Anatomical Therapeutic Chemical Classification system for veterinary medicinal products*) può essere consultato in inglese (versione ufficiale) sul sito dell’OMS (*WHO Collaborating Centre for Drug Statistics Methodology*); [www.whocc.no/ATCvet](https://atcddd.fhi.no/atcvet/) &gt; ATCvet Index.
 
 ### 2 Virostatici
 
@@ -165,13 +164,9 @@ Allegato[^t-1]
 <tr><td>N02AA01</td><td>morfina</td><td></td></tr>
 <tr><td>N02AA03</td><td>idromorfone</td><td></td></tr>
 <tr><td>N02AA05</td><td>ossicodone</td><td></td></tr>
-<tr><td>N02AA51</td><td>morfina, combinazioni</td><td></td></tr>
-<tr><td>N02AA55</td><td>ossicodone e naloxone</td><td></td></tr>
+<tr><td>N02AA55</td><td>combinazioni tra ossicodone e naloxone</td><td></td></tr>
 <tr><td>N02AB03</td><td>fentanile</td><td></td></tr>
-<tr><td>N02AC52</td><td>metadone, combinazioni</td><td>senza psicofarmaci</td></tr>
 <tr><td>N02AE01</td><td>buprenorfina</td><td></td></tr>
-<tr><td>N02AG01</td><td>morfina e spasmolitici</td><td></td></tr>
-<tr><td>N02AG04</td><td>idromorfone e spasmolitici</td><td></td></tr>
 <tr><td>N02BA01</td><td>acido acetilsalicilico, incl. acetilsalicilato di lisina</td><td>forme parenterali</td></tr>
 <tr><td>N07BC02</td><td>metadone</td><td></td></tr>
 <tr><td>N07BC05</td><td>levometadone</td><td></td></tr>
@@ -220,14 +215,19 @@ Allegato[^t-1]
 
 <table>
 <tr><th>Codice ATC</th><th>Designazione della merce</th><th>Osservazioni</th></tr>
-<tr><td>B01AD02</td><td>alteplasi</td><td>dosaggio &gt; 2 mg</td></tr>
+<tr><td>B01AD02</td><td>alteplasi</td><td>Dosaggio &gt; 2 mg</td></tr>
 <tr><td>C01CA03</td><td>noradrenalina</td><td></td></tr>
 <tr><td>C01CA07</td><td>dobutamina</td><td></td></tr>
-<tr><td>C01CA24</td><td>adrenalina</td><td>siringhe pronte all’uso</td></tr>
+<tr><td>C01CA24</td><td>adrenalina</td><td>autoiniettori</td></tr>
 <tr><td>C03CA01</td><td>furosemide</td><td>forme parenterali</td></tr>
+<tr><td>C07AB02</td><td>metoprololo</td><td>forme parenterali</td></tr>
+<tr><td>C07AG01</td><td>labetalolo</td><td>forme parenterali</td></tr>
 <tr><td>H01BB02</td><td>ossitocina</td><td>forme parenterali</td></tr>
-<tr><td>M03AC09</td><td>rocuronio</td><td></td></tr>
+<tr><td>H02AB01</td><td>betametasone</td><td>forme perorali</td></tr>
+<tr><td>H02AB09</td><td>idrocortisone</td><td>forme perorali</td></tr>
+<tr><td>M03AC09</td><td>rocuronio bromuro</td><td></td></tr>
 <tr><td>N01AX10</td><td>propofol</td><td></td></tr>
-<tr><td>V08BA</td><td>mezzi di contrasto radiologici contenenti solfato di bario</td><td></td></tr>
+<tr><td>N05BA06</td><td>lorazepam</td><td>forme parenterali</td></tr>
+<tr><td>V08BA</td><td>mezzi di contrasto radiografici contenenti solfato di bario</td><td></td></tr>
 <tr><td>V08DA</td><td>mezzi di contrasto per ultrasonologia</td><td></td></tr>
 </table>
