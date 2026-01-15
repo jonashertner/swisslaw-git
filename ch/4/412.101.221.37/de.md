@@ -3,18 +3,18 @@ sr: "412.101.221.37"
 title: Verordnung des SBFI vom 5. Juni 2024 über die berufliche Grundbildung Maurerin EBA / Maurer EBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/337"
 language: de
-version: 2026-01-01
+version: 2026-01-16
 adopted: 2024-06-05
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/337/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2024-337-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/337/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/337/20260116/de/xml/fedlex-data-admin-ch-eli-cc-2024-337-20260116-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/337/20260116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Maurerin EBA / Maurer EBA
 
-vom 5. Juni 2024 (Stand am 1. Januar 2026)
+vom 5. Juni 2024 (Stand am 16. Januar 2026)
 
 <table>
 <tr><td>51009</td><td>Maurerin EBA / Maurer EBA Maçonne AFP / Maçon AFP Muratrice CFP / Muratore CFP</td></tr>
@@ -175,12 +175,14 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <tr><td>1</td><td>1</td><td>Vorbereiten der zugeteilten Bauarbeiten Unterstützen bei Bauarbeiten Ausführen von übertragenen Bauarbeiten</td><td>12</td></tr>
 <tr><td>1</td><td>2</td><td>Vorbereiten der zugeteilten Bauarbeiten Unterstützen bei Bauarbeiten Ausführen von übertragenen Bauarbeiten</td><td>12</td></tr>
 <tr><td>1</td><td>3</td><td>Vorbereiten der zugeteilten Bauarbeiten Unterstützen bei Bauarbeiten Ausführen von übertragenen Bauarbeiten</td><td>12</td></tr>
-<tr><td>1</td><td>4</td><td>Vorbereiten der zugeteilten Bauarbeiten Unterstützen bei Bauarbeiten Ausführen von übertragenen Bauarbeiten</td><td>9</td></tr>
+<tr><td>2</td><td>4</td><td>Vorbereiten der zugeteilten Bauarbeiten Unterstützen bei Bauarbeiten Ausführen von übertragenen Bauarbeiten</td><td>9</td></tr>
 <tr><td>2</td><td>5</td><td>Vorbereiten der zugeteilten Bauarbeiten Unterstützen bei Bauarbeiten Ausführen von übertragenen Bauarbeiten Kommunizieren und Zusammenarbeiten im Team auf der Baustelle</td><td>12</td></tr>
-<tr><td colspan="3">Total</td><td>**57**</td></tr>
+<tr><td colspan="3">Total</td><td>**57**.[^8-1]</td></tr>
 </table>
 
 <sup>3</sup> Im letzten Semester der beruflichen Grundbildung dürfen keine überbetrieblichen Kurse stattfinden.
+
+[^8-1]: Berichtigung vom 16. Jan. 2026 ([AS 2026 17](https://fedlex.data.admin.ch/eli/oc/2026/17)).
 
 ## 5. Abschnitt: Bildungsplan
 

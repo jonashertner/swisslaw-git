@@ -3,18 +3,18 @@ sr: "412.101.221.37"
 title: Ordinanza della SEFRI del 5 giugno 2024 sulla formazione professionale di base Muratrice CFP / Muratore CFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/337"
 language: it
-version: 2026-01-01
+version: 2026-01-16
 adopted: 2024-06-05
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/337/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2024-337-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/337/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/337/20260116/it/xml/fedlex-data-admin-ch-eli-cc-2024-337-20260116-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/337/20260116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Muratrice CFP / Muratore CFP
 
-del 5 giugno 2024 (Stato 1° gennaio 2026)
+del 5 giugno 2024 (Stato 16 gennaio 2026)
 
 <table>
 <tr><td>51009</td><td>Muratrice CFP / Muratore CFP</td></tr>
@@ -179,10 +179,12 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 <tr><td>1</td><td>3</td><td>Preparazione dei lavori assegnati Supporto ai lavori di costruzione Esecuzione dei lavori di costruzione assegnati</td><td>12</td></tr>
 <tr><td>2</td><td>4</td><td>Preparazione dei lavori assegnati Supporto ai lavori di costruzione Esecuzione dei lavori di costruzione assegnati</td><td>9</td></tr>
 <tr><td>2</td><td>5</td><td>Preparazione dei lavori assegnati Supporto ai lavori di costruzione Esecuzione dei lavori di costruzione assegnati Comunicazione e collaborazione con il gruppo sul cantiere</td><td>12</td></tr>
-<tr><td colspan="3">Totale</td><td>**57**</td></tr>
+<tr><td colspan="3">Totale</td><td>**57**. [^8-1]</td></tr>
 </table>
 
 <sup>3</sup> Nell’ultimo semestre della formazione professionale di base non si possono svolgere corsi interaziendali.
+
+[^8-1]: La correzione del 16 gen. 2026 concerne soltanto il testo tedesco ([RU 2026 17](https://fedlex.data.admin.ch/eli/oc/2026/17)).
 
 ## Sezione 5: Piano di formazione
 
@@ -207,7 +209,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^9-1]: Il piano del 5 giugno 2024 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/) &gt; Professioni A–Z.
+[^9-1]: Il piano del 5 giu. 2024 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/) &gt; Professioni A–Z.
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 

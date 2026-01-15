@@ -3,18 +3,18 @@ sr: "412.101.221.37"
 title: Ordonnance du SEFRI du 5 juin 2024 sur la formation professionnelle initiale de maçonne AFP / maçon AFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/337"
 language: fr
-version: 2026-01-01
+version: 2026-01-16
 adopted: 2024-06-05
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/337/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-337-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/337/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/337/20260116/fr/xml/fedlex-data-admin-ch-eli-cc-2024-337-20260116-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/337/20260116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de maçonne AFP / maçon AFP
 
-du 5 juin 2024 (État le 1<sup>er</sup> janvier 2026)
+du 5 juin 2024 (État le 16 janvier 2026)
 
 <table>
 <tr><td>51009</td><td>Maçonne AFP / Maçon AFP Maurerin EBA / Maurer EBA Muratrice CFP / Muratore CFP</td></tr>
@@ -177,10 +177,12 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td>1</td><td>3</td><td>Préparation des travaux de construction confiés Aide aux travaux de construction Exécution des travaux de construction confiés</td><td>12</td></tr>
 <tr><td>2</td><td>4</td><td>Préparation des travaux de construction confiés Aide aux travaux de construction Exécution des travaux de construction confiés</td><td>9</td></tr>
 <tr><td>2</td><td>5</td><td>Préparation des travaux de construction confiés Aide aux travaux de construction Exécution des travaux de construction confiés Communication et collaboration avec différentes équipes sur le chantier</td><td>12</td></tr>
-<tr><td colspan="3">Total</td><td>**57**</td></tr>
+<tr><td colspan="3">Total</td><td>**57**.[^8-1]</td></tr>
 </table>
 
 <sup>3</sup> Aucun cours interentreprises ne doit avoir lieu durant le dernier semestre de la formation professionnelle initiale.
+
+[^8-1]: Erratum du 16 janv. 2026, ne concerne que le texte allemand ([RO 2026 17](https://fedlex.data.admin.ch/eli/oc/2026/17)).
 
 ## Section 5 Plan de formation
 
