@@ -4,11 +4,11 @@ title: "Übereinkommen vom 19. Oktober 1996 über die Zuständigkeit, das anzuwe
 short: HKsÜ
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/380"
 language: de
-version: 2023-05-30
+version: 2026-01-19
 adopted: 1996-10-19
 in_force: 2009-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/380/20230530/de/xml/fedlex-data-admin-ch-eli-cc-2009-380-20230530-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20230530/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/380/20260119/de/xml/fedlex-data-admin-ch-eli-cc-2009-380-20260119-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20260119/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -23,7 +23,7 @@ AS **2009** 3085; BBl **2007** 2595
 
 Abgeschlossen in Den Haag am 19. Oktober 1996 Von der Bundesversammlung genehmigt am 21. Dezember 2007[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 27. März 2009 In Kraft getreten für die Schweiz am 1. Juli 2009
 
-(Stand am 30. Mai 2023)
+(Stand am 19. Januar 2026)
 
 [^t-1]: Gemeinsame deutsche Übersetzung nach dem Ergebnis der Übersetzungskonferenz in Bern vom 10. bis 14. Februar 1997.
 [^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 21. Dez. 2007 ([AS 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379)).
@@ -44,8 +44,8 @@ in dem Wunsch, zu diesem Zweck unter Berücksichtigung des Übereinkommens der V
 
 haben die folgenden Bestimmungen vereinbart:
 
-[^ingress-1]: [SR 0.211.231.01](https://fedlex.data.admin.ch/eli/cc/1969/181_191_191)
-[^ingress-2]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^ingress-1]: [SR 0.211.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/859)
+[^ingress-2]: [SR 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 
 ## Kapitel I Anwendungsbereich des Übereinkommens
 
@@ -441,7 +441,7 @@ Hat ein Staat zwei oder mehr Rechtssysteme oder Gesamtheiten von Regeln, die auf
 
 Dieses Übereinkommen lässt das Übereinkommen vom 25. Oktober 1980[^50-1] über die zivilrechtlichen Aspekte internationaler Kindesentführung im Verhältnis zwischen den Vertragsparteien beider Übereinkommen unberührt. Einer Berufung auf Bestimmungen dieses Übereinkommens zu dem Zweck, die Rückkehr eines widerrechtlich verbrachten oder zurückgehaltenen Kindes zu erwirken oder das Recht auf persönlichen Verkehr[^50-2] durchzuführen, steht jedoch nichts entgegen.
 
-[^50-1]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^50-1]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
 [^50-2]: DE: das Recht zum persönlichen Umgang
 
 #### Art. 51
@@ -573,17 +573,19 @@ Email: kindesschutz@bj.admin.ch
 
 ## Zentrale Behörden der Kantone
 
-www.bj.admin.ch/ &gt; Gesellschaft &gt; Internationaler Kindesschutz &gt; Weitere Infos &gt; Dokumente &gt; Adressliste der Zentralen Behörden in der Schweiz
+[www.bj.admin.ch/](https://www.bj.admin.ch/bj/de/home/gesellschaft/kinderschutz.html) &gt; Gesellschaft &gt; Internationaler Kindesschutz &gt; Weitere Infos &gt; Dokumente &gt; Adressliste der Zentralen Behörden in der Schweiz
 
-Geltungsbereich am 30. Mai 2023[^t-4]
+Geltungsbereich am 19. Januar 2026[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien\*</td><td>18. Mai</td><td>2006 B</td><td>1. April</td><td>2007</td></tr>
+<tr><td>Argentinien\*</td><td>18. September</td><td>2025</td><td>1. Januar</td><td>2026</td></tr>
 <tr><td>Armenien\*</td><td>1. März</td><td>2007 B</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Australien</td><td>29. April</td><td>2003</td><td>1. August</td><td>2003</td></tr>
 <tr><td>Barbados</td><td>11. Juli</td><td>2019 B</td><td>1. Mai</td><td>2020</td></tr>
 <tr><td>Belgien<sup>\*</sup></td><td>28. Mai</td><td>2014</td><td>1. September</td><td>2014</td></tr>
+<tr><td>Belize\*</td><td>12. Dezember</td><td>2024 B</td><td>1. Oktober</td><td>2025</td></tr>
 <tr><td>Bulgarien\*</td><td>8. März</td><td>2006 B</td><td>1. Februar</td><td>2007</td></tr>
 <tr><td>Costa Rica</td><td>29. Oktober</td><td>2020 B</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Dänemark<sup>\*</sup></td><td>30. Juni</td><td>2011</td><td>1. Oktober</td><td>2011</td></tr>
@@ -591,6 +593,7 @@ Geltungsbereich am 30. Mai 2023[^t-4]
 <tr><td>Deutschland\*</td><td>17. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td>Dominikanische Republik</td><td>14. Dezember</td><td>2009 B</td><td>1. Oktober</td><td>2010</td></tr>
 <tr><td>Ecuador</td><td>5. November</td><td>2002 B</td><td>1. September</td><td>2003</td></tr>
+<tr><td>El Salvador\*</td><td>10. September</td><td>2024 B</td><td>1. Juli</td><td>2025</td></tr>
 <tr><td>Estland\*</td><td>6. August</td><td>2002 B</td><td>1. Juni</td><td>2003</td></tr>
 <tr><td>Fidschi\*</td><td>5. Juni</td><td>2018 B</td><td>1. April</td><td>2019</td></tr>
 <tr><td>Finnland\*</td><td>19. November</td><td>2010</td><td>1. März</td><td>2011</td></tr>
@@ -610,8 +613,9 @@ Geltungsbereich am 30. Mai 2023[^t-4]
 <tr><td>Luxemburg\*</td><td>5. August</td><td>2010</td><td>1. Dezember</td><td>2010</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>24. Februar</td><td>2011 B</td><td>1. Januar</td><td>2012</td></tr>
 <tr><td>Marokko</td><td>22. August</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
+<tr><td>Moldau\*</td><td>11. März</td><td>2025 B</td><td>1. Januar</td><td>2026</td></tr>
 <tr><td>Monaco</td><td>14. Mai</td><td>1997</td><td>1. Januar</td><td>2002</td></tr>
-<tr><td>Montenegro</td><td>14. Februar</td><td>2012 B</td><td>1. Januar</td><td>2013</td></tr>
+<tr><td>Moldau\*</td><td>11. März</td><td>2025 B</td><td>1. Januar</td><td>2026</td></tr>
 <tr><td>Nicaragua\*</td><td>27. Februar</td><td>2019 B</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Niederlande\*</td><td>31. Januar</td><td>2011</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Curaçao</td><td>31. Januar</td><td>2011</td><td>1. Mai</td><td>2011</td></tr>
@@ -637,10 +641,10 @@ Geltungsbereich am 30. Mai 2023[^t-4]
 <tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>27. Juli</td><td>2012</td><td>1. November</td><td>2012</td></tr>
 <tr><td>Gibraltar</td><td>27. Juli</td><td>2012</td><td>1. November</td><td>2012</td></tr>
 <tr><td>Zypern\*</td><td>21. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Niederländischen Regierung: www.overheid.nl &gt; English &gt; Treaty Database &gt; 007396 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite des Aussenministeriums des Königreichs der Niederlande: [https://treatydatabase.overheid.nl/en/Treaty/Details/007396.html](https://treatydatabase.overheid.nl/en/Treaty/Details/007396.html) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-4]: [AS 2009 3085](https://fedlex.data.admin.ch/eli/oc/2009/380); [2011 2965](https://fedlex.data.admin.ch/eli/oc/2011/384); [2014 543](https://fedlex.data.admin.ch/eli/oc/2014/108); [2015 4285](https://fedlex.data.admin.ch/eli/oc/2015/722); [2017 5235](https://fedlex.data.admin.ch/eli/oc/2017/578); [2020 3775](https://fedlex.data.admin.ch/eli/oc/2020/686); [2023 265](https://fedlex.data.admin.ch/eli/oc/2023/265). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2009 3085](https://fedlex.data.admin.ch/eli/oc/2009/380); [2011 2965](https://fedlex.data.admin.ch/eli/oc/2011/384); [2014 543](https://fedlex.data.admin.ch/eli/oc/2014/108); [2015 4285](https://fedlex.data.admin.ch/eli/oc/2015/722); [2017 5235](https://fedlex.data.admin.ch/eli/oc/2017/578); [2020 3775](https://fedlex.data.admin.ch/eli/oc/2020/686); [2023 265](https://fedlex.data.admin.ch/eli/oc/2023/265); [2026 35](https://fedlex.data.admin.ch/eli/oc/2026/35). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

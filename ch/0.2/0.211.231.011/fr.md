@@ -4,11 +4,11 @@ title: "Convention du 19 octobre 1996 concernant la compétence, la loi applicab
 short: CLaH 96
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/380"
 language: fr
-version: 2023-05-30
+version: 2026-01-19
 adopted: 1996-10-19
 in_force: 2009-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/380/20230530/fr/xml/fedlex-data-admin-ch-eli-cc-2009-380-20230530-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20230530/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/380/20260119/fr/xml/fedlex-data-admin-ch-eli-cc-2009-380-20260119-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/380/20260119/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument de ratification déposé par la Suisse le 27 mars 2009
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 2009
 
-(État le 30 mai 2023)
+(État le 19 janvier 2026)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 21 déc. 2007 ([RO 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379)).
 
@@ -49,8 +49,8 @@ désirant établir des dispositions communes à cet effet, en tenant compte de l
 
 sont convenus des dispositions suivantes:
 
-[^ingress-1]: [RS 0.211.231.01](https://fedlex.data.admin.ch/eli/cc/1969/181_191_191)
-[^ingress-2]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^ingress-1]: [RS 0.211.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/859)
+[^ingress-2]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 
 ## Chapitre I Champ d’application de la convention
 
@@ -430,13 +430,13 @@ Pour identifier la loi applicable en vertu du chap. III, lorsqu’un État compr
 
 La présente Convention n’affecte pas la Convention du 25 octobre 1980 sur les aspects civils de l’enlèvement international d’enfants[^50-1], dans les relations entre les Parties aux deux Conventions. Rien n’empêche cependant que des dispositions de la présente Convention soient invoquées pour obtenir le retour d’un enfant qui a été déplacé ou retenu illicitement, ou pour organiser le droit de visite.
 
-[^50-1]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^50-1]: [RS 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
 
 #### Art. 51
 
 Dans les rapports entre les États contractants, la présente Convention remplace la Convention du 5 octobre 1961 concernant la compétence des autorités et la loi applicable en matière de protection des mineurs et la Convention pour régler la tutelle des mineurs, signée à La Haye le 12 juin 1902[^51-1], sans préjudice de la reconnaissance des mesures prises selon la Convention du 5 octobre 1961 précitée.
 
-[^51-1]: [RS **11** 748; [RO 1977 766](https://fedlex.data.admin.ch/eli/oc/1977/766_766_766)]
+[^51-1]: [[RS 11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4723)748; [RO 1977 766](https://fedlex.data.admin.ch/eli/oc/1977/766_766_766)]
 
 #### Art. 52
 
@@ -565,17 +565,19 @@ Courriel: kindesschutz@bj.admin.ch
 
 [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Société &gt; Protection internationale des enfants &gt; Infos complémentaires &gt; Documents &gt; Liste d’adresses des Autorités centrales en Suisse
 
-Champ d’application le 30 mai 2023[^t-2]
+Champ d’application le 19 janvier 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie\*</td><td>18 mai</td><td>2006 A</td><td>1<sup>er</sup> avril</td><td>2007</td></tr>
 <tr><td>Allemagne\*</td><td>17 septembre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
+<tr><td>Argentine\*</td><td>18 septembre</td><td>2025</td><td>1<sup>er</sup> janvier</td><td>2026</td></tr>
 <tr><td>Arménie\*</td><td>1<sup>er</sup> mars</td><td>2007 A</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Australie</td><td>29 avril</td><td>2003</td><td>1<sup>er</sup> août</td><td>2003</td></tr>
 <tr><td>Autriche\*</td><td>22 décembre</td><td>2010</td><td>1<sup>er</sup> avril</td><td>2011</td></tr>
 <tr><td>Barbade</td><td>11 juillet</td><td>2019 A</td><td>1<sup>er</sup> mai</td><td>2020</td></tr>
 <tr><td>Belgique<sup>\*</sup></td><td>28 mai</td><td>2014</td><td>1<sup>er</sup> septembre</td><td>2014</td></tr>
+<tr><td>Belize\*</td><td>12 décembre</td><td>2024 A</td><td>1<sup>er</sup> octobre</td><td>2025</td></tr>
 <tr><td>Bulgarie\*</td><td>8 mars</td><td>2006 A</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
 <tr><td>Cap-Vert</td><td>4 octobre</td><td>2022 A</td><td>1<sup>er</sup> août</td><td>2023</td></tr>
 <tr><td>Chypre\*</td><td>21 juillet</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
@@ -584,6 +586,7 @@ Champ d’application le 30 mai 2023[^t-2]
 <tr><td>Cuba\*</td><td>20 février</td><td>2017 A</td><td>1<sup>er</sup> décembre</td><td>2017</td></tr>
 <tr><td>Danemark<sup>\*</sup></td><td>30 juin</td><td>2011</td><td>1<sup>er</sup> octobre</td><td>2011</td></tr>
 <tr><td>Groenland</td><td>22 avril</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2016</td></tr>
+<tr><td>El Salvador\*</td><td>10 septembre</td><td>2024 A</td><td>1<sup>er</sup> juillet</td><td>2025</td></tr>
 <tr><td>Équateur</td><td>5 novembre</td><td>2002 A</td><td>1<sup>er</sup> septembre</td><td>2003</td></tr>
 <tr><td>Espagne\*</td><td>6 septembre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
 <tr><td>Estonie\*</td><td>6 août</td><td>2002 A</td><td>1<sup>er</sup> juin</td><td>2003</td></tr>
@@ -603,8 +606,9 @@ Champ d’application le 30 mai 2023[^t-2]
 <tr><td>Luxembourg\*</td><td>5 août</td><td>2010</td><td>1<sup>er</sup> décembre</td><td>2010</td></tr>
 <tr><td>Malte<sup>\*</sup></td><td>24 février</td><td>2011 A</td><td>1<sup>er</sup> janvier</td><td>2012</td></tr>
 <tr><td>Maroc</td><td>22 août</td><td>2002</td><td>1<sup>er</sup> décembre</td><td>2002</td></tr>
+<tr><td>Moldova\*</td><td>11 mars</td><td>2025 A</td><td>1<sup>er</sup> janvier</td><td>2026</td></tr>
 <tr><td>Monaco</td><td>14 mai</td><td>1997</td><td>1<sup>er</sup> janvier</td><td>2002</td></tr>
-<tr><td>Monténégro</td><td>14 février</td><td>2012 A</td><td>1<sup>er</sup> janvier</td><td>2013</td></tr>
+<tr><td>Monténégro\*</td><td>14 février</td><td>2012</td><td>1<sup>er</sup> janvier</td><td>2013</td></tr>
 <tr><td>Nicaragua\*</td><td>27 février</td><td>2019 A</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
 <tr><td>Norvège<sup>\*</sup></td><td>30 mars</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2016</td></tr>
 <tr><td>Paraguay</td><td>12 septembre</td><td>2018 A</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
@@ -627,10 +631,10 @@ Champ d’application le 30 mai 2023[^t-2]
 <tr><td>Turquie<sup>\*</sup></td><td>7 octobre</td><td>2016</td><td>1<sup>er</sup> février</td><td>2017</td></tr>
 <tr><td>Ukraine\*</td><td>3 avril</td><td>2007 A</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
 <tr><td>Uruguay</td><td>17 novembre</td><td>2009</td><td>1<sup>er</sup> mars</td><td>2010</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement des Pays-Bas: [www.overheid.nl](https://www.overheid.nl/) &gt; English &gt; Treaty Database, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais pourront être consultés à l’adresse du site Internet du Ministère des Affaires Etrangères du Royaume des Pays‑Bas: [https://treatydatabase.overheid.nl/en/](https://treatydatabase.overheid.nl/en/Treaty/Details/007396.html) [Treaty/Details/007396.html](https://treatydatabase.overheid.nl/en/Treaty/Details/007396.html) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2009 3085](https://fedlex.data.admin.ch/eli/oc/2009/380); [2011 2965](https://fedlex.data.admin.ch/eli/oc/2011/384); [2014 543](https://fedlex.data.admin.ch/eli/oc/2014/108); [2015 4285](https://fedlex.data.admin.ch/eli/oc/2015/722); [2017 5235](https://fedlex.data.admin.ch/eli/oc/2017/578); [2020 3775](https://fedlex.data.admin.ch/eli/oc/2020/686); [2023 265](https://fedlex.data.admin.ch/eli/oc/2023/265). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2009 3085](https://fedlex.data.admin.ch/eli/oc/2009/380); [2011 2965](https://fedlex.data.admin.ch/eli/oc/2011/384); [2014 543](https://fedlex.data.admin.ch/eli/oc/2014/108); [2015 4285](https://fedlex.data.admin.ch/eli/oc/2015/722); [2017 5235](https://fedlex.data.admin.ch/eli/oc/2017/578); [2020 3775](https://fedlex.data.admin.ch/eli/oc/2020/686); [2023 265](https://fedlex.data.admin.ch/eli/oc/2023/265); [2026 35](https://fedlex.data.admin.ch/eli/oc/2026/35). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 
