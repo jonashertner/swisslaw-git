@@ -4,11 +4,11 @@ title: Verordnung der FINMA vom 6. März 2024 über die Offenlegungspflichten de
 short: OffV-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: de
-version: 2025-10-14
+version: 2026-01-19
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20251014/de/xml/fedlex-data-admin-ch-eli-cc-2024-138-20251014-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260119/de/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260119-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/de"
 
 (OffV-FINMA)
 
-vom 6. März 2024 (Stand am 14. Oktober 2025)
+vom 6. März 2024 (Stand am 19. Januar 2026)
 
 Die Eidgenössische Finanzmarktaufsicht (FINMA),
 
@@ -424,7 +424,7 @@ Anhang 2[^t-1]
 
 ## Offenlegung zu Eigenmitteln, Liquidität, Vergütungen und Risiken
 
-[^t-1]: Bereinigt durch Berichtigung vom 14. Okt. 2025 ([AS 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)).
+[^t-1]: Bereinigt durch Berichtigungen vom 14. Okt. 2025 ([AS 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)) und vom 19. Jan. 2026 ([AS 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
 
 ### 1 Tabelle KM1: Grundlegende aufsichtsrechtliche Kennzahlen
 
@@ -3152,7 +3152,7 @@ Die Daten müssen sich auf das letzte und vorletzte Quartalsende beziehen und in
 <tr><td>27</td><td>– Physisch gehandelte Rohstoffe, einschliesslich Edelmetalle</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>28</td><td>– Zur Deckung von Ersteinschusszahlungen bei Derivatgeschäften und Ausfallfonds von zentralen Gegenparteien hinterlegte Aktiven</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
 <tr><td>29</td><td>– Forderungen aus Derivatgeschäften</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
-<tr><td>30</td><td>– Verbindlichkeiten aus Derivatgeschäften, abzüglich der in Form von Nachschusszahlungen hinterlegten Sicherheiten</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
+<tr><td>30</td><td>– Verbindlichkeiten aus Derivatgeschäften, vor Abzug der in Form von Nachschusszahlungen hinterlegten Sicherheiten</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
 <tr><td>31</td><td>– Alle verbleibenden Aktiven</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>32</td><td>Ausserbilanzpositionen</td><td>n.a.</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>33</td><td>Total der RSF</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
@@ -3257,11 +3257,13 @@ Anhang 3
 <tr><td>27</td><td>– Davon Staatsgarantie oder ähnlicher Mechanismus nach Artikel 132*b* ERV</td><td></td><td></td></tr>
 </table>
 
-Anhang 4
+Anhang 4[^t-2]
 
 (Art. 4 Abs. 2, 4 Bst. a, 5 und 6, 11 Abs. 2 Bst. b, 13 Abs. 6 sowie Anhang 1 Ziff. 3.2)
 
 ## Offenlegung zur Unternehmensführung
+
+[^t-2]: Bereinigt durch Berichtigung vom 19. Jan. 2026 ([AS 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
 
 - 1 Die Steuerung, die Kontrollen und das Risikomanagement der Bank sind offenzulegen und zu erläutern.
 - 2
@@ -3271,7 +3273,7 @@ Anhang 4
   - 2\.1 die Zusammensetzung sowie der berufliche Hintergrund und die Ausbildung der einzelnen Mitglieder des Oberleitungsorgans; die unabhängigen Mitglieder sind auszuweisen;
   - 2\.2 die Organisation des Oberleitungsorgans, insbesondere die Besetzung des Präsidiums sowie die allfällige Konstituierung und Zusammensetzung von Ausschüssen;
   - 2\.3 die Zusammensetzung sowie der berufliche Hintergrund und die Ausbildung der einzelnen Mitglieder der Geschäftsleitung;
-  - 2\.4 die risikostrategische Ausrichtung und das Risikoprofil der Bank sowie, bei systemrelevanten Banken, die Einschätzung der Risikolage durch die Geschäftsleitung.
+  - 2\.4 von systemrelevanten Banken: die risikostrategische Ausrichtung, das Risikoprofil der Bank und die Einschätzung der Risikolage durch die Geschäftsleitung.
 
 - 3
 

@@ -4,11 +4,11 @@ title: Ordinanza della FINMA del 6 marzo 2024 sugli obblighi di pubblicazione de
 short: OPub-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: it
-version: 2025-10-14
+version: 2026-01-19
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20251014/it/xml/fedlex-data-admin-ch-eli-cc-2024-138-20251014-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260119/it/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260119-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/it"
 
 (OPub-FINMA)
 
-del 6 marzo 2024 (Stato 14 ottobre 2025)
+del 6 marzo 2024 (Stato 19 gennaio 2026)
 
 L’Autorità federale di vigilanza sui mercati finanziari (FINMA),
 
@@ -424,7 +424,7 @@ Allegato 2[^t-1]
 
 ## Pubblicazione concernente i fondi propri, la liquidità, le remunerazioni e i rischi
 
-[^t-1]: Aggiornato dalla correzione del 14 ott. 2025 ([RU 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)).
+[^t-1]: Aggiornato dalle correzioni del 14 ott. 2025 ([RU 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)) e del 19 gen. 2026 ([RU 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
 
 ### 1 Tabella KM1: Indicatori prudenziali fondamentali
 
@@ -3151,7 +3151,7 @@ Le informazioni devono riferirsi alla fine dell’ultimo e del penultimo trimest
 <tr><td>27</td><td>– Materie prime fisiche negoziate, compresi i metalli preziosi</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>28</td><td>– Attivi costituiti a titolo di copertura del margine iniziale per operazioni in derivati e di contributi ai fondi di garanzia di controparti centrali</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
 <tr><td>29</td><td>– Crediti da operazioni in derivati</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
-<tr><td>30</td><td>– Impegni da operazioni in derivati al netto delle garanzie depositate sotto forma di margini di variazione</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
+<tr><td>30</td><td>– Impegni da operazioni in derivati prima della deduzione delle garanzie depositate sotto forma di margini di variazione</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
 <tr><td>31</td><td>– Tutti gli attivi rimanenti</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>32</td><td>Posizioni fuori bilancio</td><td>n.a.</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>33</td><td>Totale dell’ammontare della RSF</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
@@ -3256,11 +3256,13 @@ Allegato 3
 <tr><td>27</td><td>– Di cui garanzia statale o altro meccanismo analogo secondo l’articolo 132*b* OFoP</td><td></td><td></td></tr>
 </table>
 
-Allegato 4
+Allegato 4[^t-2]
 
 (art. 4 cpv. 2, 4 lett. a e 6, 11 cpv. 2 lett. b, 13 cpv. 6 nonché all. 1 n. 3.2)
 
 ## Pubblicazione concernente il governo d’impresa
+
+[^t-2]: Aggiornato dalla correzione del 19 gen. 2026 ([RU 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
 
 - 1 La gestione, i controlli e la gestione del rischio operati dalla banca devono essere pubblicati e spiegati.
 - 2
@@ -3270,7 +3272,7 @@ Allegato 4
   - 2\.1 la composizione nonché la carriera pregressa e la formazione dei singoli membri dell’organo preposto all’alta direzione. I membri indipendenti devono essere indicati;
   - 2\.2 l’organizzazione dell’organo preposto all’alta direzione, in particolare la composizione della presidenza e l’eventuale costituzione e composizione dei comitati;
   - 2\.3 la composizione nonché la carriera pregressa e la formazione dei singoli membri della direzione;
-  - 2\.4 l’orientamento strategico al rischio e il profilo di rischio dell’istituto come pure la valutazione della situazione di rischio da parte della direzione delle banche di rilevanza sistemica.
+  - 2\.4 da parte delle banche di rilevanza sistemica: l’orientamento strategico al rischio, il profilo di rischio dell’istituto e la valutazione della situazione di rischio da parte della loro direzione.
 
 - 3
 

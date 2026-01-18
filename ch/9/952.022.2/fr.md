@@ -4,11 +4,11 @@ title: Ordonnance de la FINMA du 6 mars 2024 sur les obligations des banques et 
 short: OPub-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: fr
-version: 2025-10-14
+version: 2026-01-19
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20251014/fr/xml/fedlex-data-admin-ch-eli-cc-2024-138-20251014-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260119/fr/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260119-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/fr"
 
 (OPub-FINMA)
 
-du 6 mars 2024 (État le 14 octobre 2025)
+du 6 mars 2024 (État le 19 janvier 2026)
 
 L’Autorité fédérale de surveillance des marchés financiers (FINMA),
 
@@ -424,7 +424,7 @@ Annexe 2[^t-1]
 
 ## Publication concernant les fonds propres, les liquidités, les rémunérations et les risques
 
-[^t-1]: Mise à jour par l’erratum du 14 oct. 2025 ([RO 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)).
+[^t-1]: Mise à jour par les errata du 14 oct. 2025 ([RO 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)) et du 19 janv. 2026 ([RO 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
 
 ### 1 Tableau KM1: chiffres-clés essentiels prudentiels
 
@@ -2645,7 +2645,7 @@ L’art. 17 n’est pas applicable.
 <tr><td>[tab] 1c</td><td>– Actifs portant intérêt</td><td></td><td></td><td></td></tr>
 <tr><td>[tab] 1d</td><td>– Produit des dividendes</td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td>Composante services (*services component*, SC)</td><td></td><td>n.a.</td><td>n.a.</td></tr>
-<tr><td>2a</td><td>– Produit des opérations de commissions et des prestations de services</td><td></td><td></td><td></td></tr>
+<tr><td>[tab] 2a</td><td>– Produit des opérations de commissions et des prestations de services</td><td></td><td></td><td></td></tr>
 <tr><td>[tab] 2b</td><td>– Charge des opérations de commissions et des prestations de services</td><td></td><td></td><td></td></tr>
 <tr><td>[tab] 2c</td><td>– Autres produits d’exploitation</td><td></td><td></td><td></td></tr>
 <tr><td>[tab] 2d</td><td>– Autres charges d’exploitation</td><td></td><td></td><td></td></tr>
@@ -3151,7 +3151,7 @@ Les données doivent se rapporter à la fin des dernier et avant-dernier trimest
 <tr><td>27</td><td>– Matière premières physiques, y c. métaux précieux</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>28</td><td>– Actifs remis en qualité de marge initiale pour des opérations sur dérivés et à titre de contribution pour des fonds de défaillance de contreparties centrales</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
 <tr><td>29</td><td>– Créances résultant d’opérations sur dérivés</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
-<tr><td>30</td><td>– Engagements résultant d’opérations sur dérivés, après déduction des sûretés déposées sous forme de marges variables</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
+<tr><td>30</td><td>– Engagements résultant d’opérations sur dérivés, avant déduction des sûretés déposées sous forme de marges variables</td><td>n.a.</td><td colspan="3"></td><td></td></tr>
 <tr><td>31</td><td>– Tous les actifs résiduels</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>32</td><td>Positions hors bilan</td><td>n.a.</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>33</td><td>Total du RSF</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
@@ -3256,11 +3256,13 @@ Annexe 3
 <tr><td>27</td><td>– dont garantie d’État ou autre mécanisme analogue selon l’art. 132*b* OFR</td><td></td><td></td></tr>
 </table>
 
-Annexe 4
+Annexe 4[^t-2]
 
 (art. 4, al. 2, 4, let. a, 5 et 6, 11, al. 2, let b, 13, al. 6 ainsi qu’annexe 1 ch. 3.2)
 
 ## Publication sur la gouvernance d’entreprise
+
+[^t-2]: Mise à jour par l’erratum du 19 janv. 2026 ([RO 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
 
 - 1 La conduite, les contrôles et la gestion des risques de la banque doivent être publiés et expliqués.
 - 2
@@ -3270,7 +3272,7 @@ Annexe 4
   - 2\.1 la composition de l’organe responsable de la haute direction ainsi que le parcours professionnel et la formation de ses différents membres; les membres indépendants doivent être indiqués;
   - 2\.2 l’organisation de l’organe responsable de la haute direction, notamment la présidence ainsi que la constitution éventuelle de comités et leur composition;
   - 2\.3 la composition de la direction ainsi que le parcours professionnel et la formation de ses différents membres;
-  - 2\.4 l’orientation stratégique en matière de risques et le profil de risque de la banque ainsi que l’évaluation de la situation en termes de risques par la direction des banques d’importance systémique.
+  - 2\.4 par les banques d’importance systémique: l’orientation stratégique en matière de risques, le profil de risque de la banque et l’évaluation de la situation en termes de risques par leur direction.
 
 - 3
 
