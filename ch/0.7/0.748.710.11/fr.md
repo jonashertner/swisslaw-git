@@ -3,11 +3,11 @@ sr: "0.748.710.11"
 title: Protocole du 4 avril 2014 portant amendement de la Convention relative aux infractions et à certains autres actes survenant à bord des aéronefs
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/469"
 language: fr
-version: 2024-07-30
+version: 2026-01-20
 adopted: 2014-04-04
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/469/20240730/fr/xml/fedlex-data-admin-ch-eli-cc-2021-469-20240730-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/469/20240730/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/469/20260120/fr/xml/fedlex-data-admin-ch-eli-cc-2021-469-20260120-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/469/20260120/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Montréal le 4 avril 2014 Approuvé par l’Assemblée fédérale le 18 décembre 2020[^t-1] Instrument d’adhésion déposé par la Suisse le 10 juin 2021 Entré en vigueur pour la Suisse le 1<sup>er</sup> août 2021
 
-(État le 30 juillet 2024)
+(État le 20 janvier 2026)
 
 [^t-1]: [RO 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468)
 
@@ -224,10 +224,11 @@ Le dépositaire notifiera rapidement à tous les États signataires et à tous l
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés, ont signé le présent Protocole. Fait à Montréal le quatrième jour du mois d’avril de l’an deux mille quatorze dans les langues française, anglaise, arabe, chinoise, espagnole et russe, tous les textes faisant également foi après la vérification effectuée par le Secrétariat de la Conférence, sous l’autorité du Président de la Conférence, dans les quatre-vingt-dix jours suivant cette date, pour ce qui est de la concordance des textes entre eux. Le présent Protocole sera déposé auprès de l’Organisation de l’aviation civile internationale, et le dépositaire en transmettra des copies certifiées conformes à tous les États contractants du présent Protocole. (Suivent les signatures)
 
-Champ d’application le 30 juillet 2024[^t-2]
+Champ d’application le 20 janvier 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afrique du Sud</td><td>25 septembre</td><td>2025</td><td>1<sup>er</sup> novembre</td><td>2025</td></tr>
 <tr><td>Angola</td><td>4 octobre</td><td>2022</td><td>1<sup>er</sup> décembre</td><td>2022</td></tr>
 <tr><td>Arménie</td><td>17 février</td><td>2022 A</td><td>1<sup>er</sup> avril</td><td>2022</td></tr>
 <tr><td>Azerbaïdjan</td><td>26 avril</td><td>2024 A</td><td>1<sup>er</sup> juin</td><td>2024</td></tr>
@@ -239,11 +240,13 @@ Champ d’application le 30 juillet 2024[^t-2]
 <tr><td>Cuba</td><td>21 octobre</td><td>2020 A</td><td>1<sup>er</sup> décembre</td><td>2020</td></tr>
 <tr><td>Égypte</td><td>19 juin</td><td>2017 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Émirats arabes unis</td><td>7 mars</td><td>2023</td><td>1<sup>er</sup> mai</td><td>2023</td></tr>
+<tr><td>Estonie</td><td>28 octobre</td><td>2025 A</td><td>1<sup>er</sup> décembre</td><td>2025</td></tr>
 <tr><td>Finlande</td><td>28 juin</td><td>2021</td><td>1<sup>er</sup> août</td><td>2021</td></tr>
 <tr><td>France\*</td><td>25 mars</td><td>2021</td><td>1<sup>er</sup> mai</td><td>2021</td></tr>
 <tr><td>Gabon</td><td>1<sup>er</sup> décembre</td><td>2015 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Gambie</td><td>15 février</td><td>2021 A</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>4 juin</td><td>2018 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Guinée équatoriale</td><td>13 novembre</td><td>2024 A</td><td>1<sup>er</sup> janvier</td><td>2025</td></tr>
 <tr><td>Guyana</td><td>10 juin</td><td>2016 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Honduras</td><td>23 août</td><td>2021 A</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Hongrie</td><td>14 novembre</td><td>2023 A</td><td>1<sup>er</sup> janvier</td><td>2024</td></tr>
@@ -252,6 +255,7 @@ Champ d’application le 30 juillet 2024[^t-2]
 <tr><td>Kazakhstan</td><td>14 février</td><td>2019 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Kenya</td><td>7 octobre</td><td>2022 A</td><td>1<sup>er</sup> décembre</td><td>2022</td></tr>
 <tr><td>Koweït</td><td>11 décembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Lettonie</td><td>19 août</td><td>2025 A</td><td>1<sup>er</sup> octobre</td><td>2025</td></tr>
 <tr><td>Luxembourg</td><td>19 novembre</td><td>2021 A</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Malaisie</td><td>7 mars</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Malte</td><td>29 juin</td><td>2016 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
@@ -273,9 +277,11 @@ Champ d’application le 30 juillet 2024[^t-2]
 <tr><td>Russie</td><td>17 août</td><td>2021 A</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Rwanda</td><td>9 décembre</td><td>2021 A</td><td>1<sup>er</sup> février</td><td>2022</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>5 octobre</td><td>2020 A</td><td>1<sup>er</sup> décembre</td><td>2020</td></tr>
+<tr><td>Sainte-Lucie</td><td>24 septembre</td><td>2025 A</td><td>1<sup>er</sup> novembre</td><td>2025</td></tr>
 <tr><td>Sénégal</td><td>4 juillet</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Sierra Leone</td><td>7 octobre</td><td>2022</td><td>1<sup>er</sup> décembre</td><td>2022</td></tr>
 <tr><td>Singapour</td><td>25 septembre</td><td>2018 A</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Somalie</td><td>1<sup>er</sup> avril</td><td>2025 A</td><td>1<sup>er</sup> juin</td><td>2025</td></tr>
 <tr><td>Suisse</td><td>10 juin</td><td>2021 A</td><td>1<sup>er</sup> août</td><td>2021</td></tr>
 <tr><td>Tunisie</td><td>24 novembre</td><td>2023 A</td><td>1<sup>er</sup> janvier</td><td>2024</td></tr>
 <tr><td>Turquie</td><td>14 mars</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
@@ -283,4 +289,4 @@ Champ d’application le 30 juillet 2024[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](http://www.icao.int) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Listes actualisées des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [2023 443](https://fedlex.data.admin.ch/eli/oc/2023/443); [2024 401](https://fedlex.data.admin.ch/eli/oc/2024/401). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [2023 443](https://fedlex.data.admin.ch/eli/oc/2023/443); [2024 401](https://fedlex.data.admin.ch/eli/oc/2024/401); [2026 36](https://fedlex.data.admin.ch/eli/oc/2026/36). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
