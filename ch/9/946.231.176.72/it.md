@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-01-13
+version: 2026-01-21
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260113/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260113-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260113/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260121/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260121-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260121/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 13 gennaio 2026)
+del 4 marzo 2022 (Stato 21 gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -647,6 +647,21 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 [^12a-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^12a-2]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 [^12a-3]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+
+#### Art. 12a<sup>bis</sup>
+
+**Acquisto e importazione di prodotti petroliferi da Paesi terzi**[^12abis-1]
+
+<sup>1</sup> Sono vietati l’acquisto, l’importazione, il transito e il trasporto in Svizzera e attraverso il suo territorio di prodotti petroliferi della voce di tariffa doganale 2710, se sono stati ottenuti in un Paese terzo da petrolio greggio della voce di tariffa doganale 2709 00 originario della Federazione Russa.
+
+<sup>2</sup> È vietata la fornitura di servizi di ogni genere, compresi i servizi finanziari, l’intermediazione e l’assistenza tecnica nonché la concessione di mezzi finanziari in relazione con i beni per cui sussiste il divieto di cui al capoverso 1.
+
+<sup>3</sup> All’atto dell’importazione di prodotti petroliferi della voce di tariffa doganale 2710 da Paesi terzi al di fuori dello SEE, del Canada, del Regno Unito, degli Stati Uniti, dell’Australia, della Nuova Zelanda o del Giappone, è necessario apportare la prova attestante l’origine del petrolio greggio impiegato per la raffinazione del prodotto petrolifero in un Paese terzo. La prova deve essere indicata sulla dichiarazione doganale.[^12abis-2]
+
+<sup>4</sup> I capoversi 1–3 non si applicano ai prodotti petroliferi importati da Paesi terzi che erano esportatori netti di petrolio greggio nell’anno civile precedente, a meno che la SECO non abbia fondati motivi per ritenere che i prodotti in questione siano stati ottenuti da petrolio greggio russo.
+
+[^12abis-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 21 gen. 2026 ([RU 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
+[^12abis-2]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 21 gen. 2026 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 12b
 

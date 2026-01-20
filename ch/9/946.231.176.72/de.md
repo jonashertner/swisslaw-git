@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-01-13
+version: 2026-01-21
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260113/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260113-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260113/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260121/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260121-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260121/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 13. Januar 2026)
+vom 4. März 2022 (Stand am 21. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -649,6 +649,21 @@ Die Verbote nach den Absätzen 1 und 2 gelten nicht:
 
 [^12a-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^12a-2]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+
+#### Art. 12a<sup>bis</sup>
+
+**Kauf und Einfuhr von Erdölerzeugnissen aus Drittstaaten**[^12abis-1]
+
+<sup>1</sup> Der Kauf, die Einfuhr, die Durchfuhr und der Transport in und durch die Schweiz von Erdölerzeugnissen der Zolltarifnummer 2710 sind verboten, wenn diese in einem Drittstaat aus Rohöl der Zolltarifnummer 2709 00 mit Ursprung in der Russischen Föderation gewonnen wurden.
+
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern, für die das Verbot nach Absatz 1 gilt, sind verboten.
+
+<sup>3</sup> Bei der Einfuhr von Erdölerzeugnissen der Zolltarifnummer 2710 aus Drittstaaten ausserhalb des EWR, Kanadas, des Vereinigten Königreichs, der Vereinigten Staaten, Australiens, Neuseelands oder Japans muss ein Nachweis vorliegen, der Auskunft über den Ursprung des Rohöls gibt, das für die Raffination des Erdölerzeugnisses in einem Drittstaat verwendet wurde. Dieser Nachweis muss bei der Zollanmeldung angegeben werden.[^12abis-2]
+
+<sup>4</sup> Die Absätze 1–3 gelten nicht für Erdölerzeugnisse, die aus Drittstaaten eingeführt wurden, die im vorangegangenen Kalenderjahr Nettoausführer von Rohöl waren, es sei denn, das SECO hat hinreichende Gründe zur Annahme, dass die Erdölerzeugnisse aus russischem Rohöl gewonnen wurden.
+
+[^12abis-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 21. Jan. 2026 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
+[^12abis-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 21. Jan. 2026 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 12b
 

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2026-01-13
+version: 2026-01-21
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260113/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260113-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260113/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260121/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260121-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260121/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 13 janvier 2026)
+du 4 mars 2022 (État le 21 janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -644,6 +644,21 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
 [^12a-1]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^12a-2]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+
+#### Art. 12a<sup>bis</sup>
+
+**Achat et importation de produits pétroliers depuis des États tiers**[^12abis-1]
+
+<sup>1</sup> L’achat, l’importation, le transit et le transport en Suisse et par la Suisse de produits pétroliers de la position tarifaire 2710 sont interdits lorsque ces produits ont été obtenus dans un État tiers à partir de pétrole brut de la position tarifaire 2709 00 originaire de la Fédération de Russie.
+
+<sup>2</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage et l’assistance technique, ainsi que l’octroi de moyens financiers en lien avec des biens soumis aux interdictions visées à l’al. 1, sont interdits.
+
+<sup>3</sup> Au moment de l’importation de produits pétroliers de la position tarifaire 2710 depuis un État tiers en dehors de l’EEE, de l’Australie, du Canada, des États-Unis, du Japon, de la Nouvelle-Zélande ou du Royaume-Uni, une preuve doit être fournie informant de l’origine du pétrole brut utilisé pour le raffinage du produit pétrolier dans un État tiers. Cette preuve doit être mentionnée dans la déclaration en douane.[^12abis-2]
+
+<sup>4</sup> Les al. 1 à 3 ne s’appliquent pas aux produits pétroliers importés d’États tiers qui étaient exportateurs nets de pétrole brut au cours de l’année civile précédente, à moins que le SECO ait des motifs suffisants de penser qu’ils ont été obtenus à partir de pétrole brut russe.
+
+[^12abis-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 21 janv. 2026 ([RO 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
+[^12abis-2]: Nouvelle teneur selon l’O du 12 déc. 2025, en vigueur depuis le 21 janv. 2026 ([RO 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 12b
 
