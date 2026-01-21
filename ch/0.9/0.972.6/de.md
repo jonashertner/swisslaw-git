@@ -3,11 +3,11 @@ sr: "0.972.6"
 title: Übereinkommen vom 29. Juni 2015 Asiatische Infrastruktur-Investitionsbank (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/389"
 language: de
-version: 2023-10-24
+version: 2026-01-22
 adopted: 2015-06-29
 in_force: 2016-04-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20231024/de/xml/fedlex-data-admin-ch-eli-cc-2016-389-20231024-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20231024/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20260122/de/xml/fedlex-data-admin-ch-eli-cc-2016-389-20260122-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20260122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 25. April 2016
 
 In Kraft getreten für die Schweiz am 25. April 2016
 
-(Stand am 24. Oktober 2023)
+(Stand am 22. Januar 2026)
 
 [^t-1]: [AS 2016 2389](https://fedlex.data.admin.ch/eli/oc/2016/388)
 
@@ -895,7 +895,7 @@ Der Gouverneursrat legt nach Massgabe der folgenden Bestimmungen Vorschriften f�
 
 \10. *Vorrecht der Gründungsmitglieder.* Die Verfahren zur Kandidatenaufstellung und Abstimmung durch die Gouverneure bei der Direktorenwahl und zur Ernennung Stellvertretender Direktoren durch die Direktoren gelten vorbehaltlich des Grundsatzes, dass jedes Gründungsmitglied das Vorrecht besitzt, den Direktor beziehungsweise Stellvertretenden Direktor in seiner Stimmrechtsgruppe dauerhaft oder rotierend zu bestimmen.
 
-Geltungsbereich am 24. Oktober 2023[^t-2]
+Geltungsbereich am 22. Januar 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -903,6 +903,7 @@ Geltungsbereich am 24. Oktober 2023[^t-2]
 <tr><td>Ägypten</td><td>4. August</td><td>2016</td><td>4. August</td><td>2016</td></tr>
 <tr><td>Algerien</td><td>27. Dezember</td><td>2019 B</td><td>27. Dezember</td><td>2019</td></tr>
 <tr><td>Argentinien</td><td>30. März</td><td>2021 B</td><td>30. März</td><td>2021</td></tr>
+<tr><td>Armenien</td><td>4. September</td><td>2025 B</td><td>4. September</td><td>2025</td></tr>
 <tr><td>Aserbaidschan</td><td>24. Juni</td><td>2016</td><td>24. Juni</td><td>2016</td></tr>
 <tr><td>Äthiopien</td><td>13. Mai</td><td>2017 B</td><td>13. Mai</td><td>2017</td></tr>
 <tr><td>Australien</td><td>10. November</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
@@ -920,7 +921,9 @@ Geltungsbereich am 24. Oktober 2023[^t-2]
 <tr><td>Côte d’Ivoire</td><td>26. Februar</td><td>2020 B</td><td>26. Februar</td><td>2020</td></tr>
 <tr><td>Deutschland\*</td><td>21. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Dänemark</td><td>15. Januar</td><td>2016</td><td>15. Januar</td><td>2016</td></tr>
+<tr><td>Dschibuti</td><td>5. September</td><td>2024 B</td><td>5. September</td><td>2024</td></tr>
 <tr><td>Ecuador</td><td>1. November</td><td>2019 B</td><td>1. November</td><td>2019</td></tr>
+<tr><td>El Salvador</td><td>10. Februar</td><td>2025 B</td><td>10. Februar</td><td>2025</td></tr>
 <tr><td>Fidschi</td><td>11. Dezember</td><td>2017 B</td><td>11. Dezember</td><td>2017</td></tr>
 <tr><td>Finnland</td><td>7. Januar</td><td>2016</td><td>7. Januar</td><td>2016</td></tr>
 <tr><td>Frankreich</td><td>16. Juni</td><td>2016</td><td>16. Juni</td><td>2016</td></tr>
@@ -941,9 +944,11 @@ Geltungsbereich am 24. Oktober 2023[^t-2]
 <tr><td>Kanada</td><td>19. März</td><td>2018 B</td><td>19. März</td><td>2018</td></tr>
 <tr><td>Kasachstan</td><td>18. April</td><td>2016</td><td>18. April</td><td>2016</td></tr>
 <tr><td>Katar</td><td>24. Juni</td><td>2016</td><td>24. Juni</td><td>2016</td></tr>
+<tr><td>Kenia</td><td>4. September</td><td>2024 B</td><td>4. September</td><td>2024</td></tr>
 <tr><td>Kirgisistan</td><td>11. April</td><td>2016</td><td>11. April</td><td>2016</td></tr>
 <tr><td>Korea (Süd-)</td><td>11. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Kroatien</td><td>17. Dezember</td><td>2021 B</td><td>17. Dezember</td><td>2021</td></tr>
+<tr><td>Kuwait</td><td>26. Mai</td><td>2025</td><td>26. Mai</td><td>2025</td></tr>
 <tr><td>Laos</td><td>15. Januar</td><td>2016</td><td>15. Januar</td><td>2016</td></tr>
 <tr><td>Liberia</td><td>4. Januar</td><td>2021 B</td><td>4. Januar</td><td>2021</td></tr>
 <tr><td>Libyen</td><td>12. September</td><td>2023 B</td><td>12. September</td><td>2023</td></tr>
@@ -953,8 +958,10 @@ Geltungsbereich am 24. Oktober 2023[^t-2]
 <tr><td>Malediven</td><td>4. Januar</td><td>2016</td><td>4. Januar</td><td>2016</td></tr>
 <tr><td>Malta</td><td>7. Januar</td><td>2016</td><td>7. Januar</td><td>2016</td></tr>
 <tr><td>Marokko</td><td>4. Mai</td><td>2022 B</td><td>4. Mai</td><td>2022</td></tr>
+<tr><td>Mauretanien</td><td>24. Juni</td><td>2025 B</td><td>24. Juni</td><td>2025</td></tr>
 <tr><td>Mongolei</td><td>27. November</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Myanmar</td><td>1. Juli</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
+<tr><td>Nauru</td><td>28. Februar</td><td>2025 B</td><td>28. Februar</td><td>2025</td></tr>
 <tr><td>Nepal</td><td>13. Januar</td><td>2016</td><td>13. Januar</td><td>2016</td></tr>
 <tr><td>Neuseeland</td><td>7. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Niederlande<sup>\*</sup></td><td>16. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
@@ -962,6 +969,7 @@ Geltungsbereich am 24. Oktober 2023[^t-2]
 <tr><td>Oman</td><td>21. Juni</td><td>2016</td><td>21. Juni</td><td>2016</td></tr>
 <tr><td>Österreich</td><td>3. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Pakistan</td><td>22. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
+<tr><td>Papua-Neuguinea</td><td>13. Mai</td><td>2024 B</td><td>13. Mai</td><td>2024</td></tr>
 <tr><td>Peru</td><td>14. Januar</td><td>2022 B</td><td>14. Januar</td><td>2022</td></tr>
 <tr><td>Philippinen</td><td>28. Dezember</td><td>2016</td><td>28. Dezember</td><td>2016</td></tr>
 <tr><td>Polen</td><td>15. Juni</td><td>2016</td><td>15. Juni</td><td>2016</td></tr>
@@ -969,18 +977,23 @@ Geltungsbereich am 24. Oktober 2023[^t-2]
 <tr><td>Ruanda</td><td>16. April</td><td>2020 B</td><td>16. April</td><td>2020</td></tr>
 <tr><td>Rumänien</td><td>28. Dezember</td><td>2018 B</td><td>28. Dezember</td><td>2018</td></tr>
 <tr><td>Russland</td><td>28. Dezember</td><td>2015</td><td>28. Dezember</td><td>2015</td></tr>
+<tr><td>Salomoninseln</td><td>9. Juni</td><td>2025 B</td><td>9. Juni</td><td>2025</td></tr>
 <tr><td>Samoa</td><td>3. April</td><td>2018 B</td><td>3. April</td><td>2018</td></tr>
 <tr><td>Saudi-Arabien</td><td>19. Februar</td><td>2016</td><td>19. Februar</td><td>2016</td></tr>
 <tr><td>Schweden\*</td><td>23. Juni</td><td>2016</td><td>23. Juni</td><td>2016</td></tr>
 <tr><td>Schweiz\*</td><td>25. April</td><td>2016</td><td>25. April</td><td>2016</td></tr>
+<tr><td>Senegal</td><td>22. Dezember</td><td>2025 B</td><td>22. Dezember</td><td>2025</td></tr>
 <tr><td>Serbien</td><td>15. August</td><td>2019 B</td><td>15. August</td><td>2019</td></tr>
 <tr><td>Singapur</td><td>10. September</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Spanien</td><td>19. Dezember</td><td>2017</td><td>19. Dezember</td><td>2017</td></tr>
 <tr><td>Sri Lanka</td><td>22. Juni</td><td>2016</td><td>22. Juni</td><td>2016</td></tr>
+<tr><td>Südafrika</td><td>24. November</td><td>2023</td><td>24. November</td><td>2023</td></tr>
 <tr><td>Sudan</td><td>13. September</td><td>2018 B</td><td>13. September</td><td>2018</td></tr>
 <tr><td>Tadschikistan</td><td>16. Januar</td><td>2016</td><td>16. Januar</td><td>2016</td></tr>
+<tr><td>Tansania</td><td>14. Oktober</td><td>2025 B</td><td>14. Oktober</td><td>2025</td></tr>
 <tr><td>Thailand\*</td><td>20. Juni</td><td>2016</td><td>20. Juni</td><td>2016</td></tr>
 <tr><td>Timor-Leste</td><td>22. November</td><td>2017 B</td><td>22. November</td><td>2017</td></tr>
+<tr><td>Togo</td><td>19. Dezember</td><td>2023 B</td><td>19. Dezember</td><td>2023</td></tr>
 <tr><td>Tonga</td><td>5. Januar</td><td>2021 B</td><td>5. Januar</td><td>2021</td></tr>
 <tr><td>Tunesien</td><td>29. April</td><td>2022 B</td><td>29. April</td><td>2022</td></tr>
 <tr><td>Türkei</td><td>15. Januar</td><td>2016</td><td>15. Januar</td><td>2016</td></tr>
@@ -995,7 +1008,7 @@ Geltungsbereich am 24. Oktober 2023[^t-2]
 <tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Asiatischen Infrastruktur-Investitionsbank: [https://www.aiib.org/](https://www.aiib.org/en/about-aiib/basic-documents/articles-of-agreement/index.html) &gt; WHO WE ARE / GOVERNANCE / Members and Prospective Members of the Bank eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389); [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16), [2789](https://fedlex.data.admin.ch/eli/oc/2018/418); [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389); [2021 444](https://fedlex.data.admin.ch/eli/oc/2021/444); [2023 609](https://fedlex.data.admin.ch/eli/oc/2023/609). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389); [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16), [2789](https://fedlex.data.admin.ch/eli/oc/2018/418); [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389); [2021 444](https://fedlex.data.admin.ch/eli/oc/2021/444); [2023 609](https://fedlex.data.admin.ch/eli/oc/2023/609); [2026 37](https://fedlex.data.admin.ch/eli/oc/2026/37). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalt
 

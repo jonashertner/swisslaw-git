@@ -3,11 +3,11 @@ sr: "0.972.6"
 title: "Statuts du 29 juin 2015 de la Banque asiatique d'investissement dans les infrastructures (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/389"
 language: fr
-version: 2023-10-24
+version: 2026-01-22
 adopted: 2015-06-29
 in_force: 2016-04-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20231024/fr/xml/fedlex-data-admin-ch-eli-cc-2016-389-20231024-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20231024/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20260122/fr/xml/fedlex-data-admin-ch-eli-cc-2016-389-20260122-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20260122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 25 avril 2016
 
 Entrés en vigueur pour la Suisse le 25 avril 2016
 
-(État le 24 octobre 2023)
+(État le 22 janvier 2026)
 
 [^t-1]: [RO 2016 2389](https://fedlex.data.admin.ch/eli/oc/2016/388)
 
@@ -250,7 +250,7 @@ Les opérations de la Banque sont réalisées conformément aux principes énonc
 
 **Pouvoirs généraux**
 
-Outre les pouvoirs spécifiés par ailleurs dans le présent Accord, la Banque dispose des pouvoirs énoncés ci-après.
+Outre les pouvoirs spécifiés par ailleurs dans le présent Accord, la Banque dispose des pouvoirs énoncés ci-après:
 
 - 1\. La Banque peut, par emprunt ou par d’autres moyens, lever des fonds dans les pays membres ou ailleurs conformément aux dispositions légales pertinentes.
 - 2\. La Banque peut acquérir et vendre les titres qu’elle a émis ou garantis ou dans lesquels elle a investi.
@@ -348,7 +348,7 @@ Le Conseil des gouverneurs peut déléguer au Conseil d’administration tout ou
 - (v) d’élire les administrateurs de la Banque et de déterminer les frais à rembourser aux administrateurs et administrateurs suppléants et leur rémunération éventuelle conformément à l’art. 25, par. 6;
 - (vi) d’élire le président, de le suspendre ou de le relever de ses fonctions et de déterminer sa rémunération et les autres conditions d’exercice de ses fonctions;
 - (vii) d’approuver, après examen du rapport des commissaires aux comptes, le bilan général et le compte de profits et pertes de la Banque;
-- [tab] (viii) de déterminer le montant des réserves ainsi que l’affectation et la répartition des bénéfices nets de la Banque;
+- (viii) de déterminer le montant des réserves ainsi que l’affectation et la répartition des bénéfices nets de la Banque;
 - (ix) de modifier le présent Accord;
 - (x) de décider de mettre fin aux opérations de la Banque et d’en répartir les actifs; et
 - (xi) d’exercer les autres pouvoirs expressément conférés par le présent Accord au Conseil des gouverneurs.
@@ -895,15 +895,17 @@ Le Conseil des gouverneurs définit les règles d’organisation de chaque élec
 
 \10. *Privilèges de membre fondateur.* La désignation et le vote des gouverneurs au profit des administrateurs, ainsi que la désignation des administrateurs suppléants par les administrateurs, respectent le principe selon lequel chaque membre fondateur a le privilège de désigner l’administrateur ou un administrateur suppléant de sa circonscription à titre permanent ou sur une base tournante.
 
-Champ d’application le 24 octobre 2023[^t-2]
+Champ d’application le 22 janvier 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>13 octobre</td><td>2017 A</td><td>13 octobre</td><td>2017</td></tr>
+<tr><td>Afrique du Sud</td><td>24 novembre</td><td>2023</td><td>24 novembre</td><td>2023</td></tr>
 <tr><td>Algérie</td><td>27 décembre</td><td>2019 A</td><td>27 décembre</td><td>2019</td></tr>
 <tr><td>Allemagne\*</td><td>21 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Arabie Saoudite</td><td>19 février</td><td>2016</td><td>19 février</td><td>2016</td></tr>
 <tr><td>Argentine</td><td>30 mars</td><td>2021 A</td><td>30 mars</td><td>2021</td></tr>
+<tr><td>Arménie</td><td>4 septembre</td><td>2025 A</td><td>4 septembre</td><td>2025</td></tr>
 <tr><td>Australie</td><td>10 novembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Autriche</td><td>3 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Azerbaïdjan</td><td>24 juin</td><td>2016</td><td>24 juin</td><td>2016</td></tr>
@@ -924,7 +926,9 @@ Champ d’application le 24 octobre 2023[^t-2]
 <tr><td>Côte d’Ivoire</td><td>26 février</td><td>2020 A</td><td>26 février</td><td>2020</td></tr>
 <tr><td>Croatie</td><td>17 décembre</td><td>2021 A</td><td>17 décembre</td><td>2021</td></tr>
 <tr><td>Danemark</td><td>15 janvier</td><td>2016</td><td>15 janvier</td><td>2016</td></tr>
+<tr><td>Djibouti</td><td>5 septembre</td><td>2024 A</td><td>5 septembre</td><td>2024</td></tr>
 <tr><td>Égypte</td><td>4 août</td><td>2016</td><td>4 août</td><td>2016</td></tr>
+<tr><td>El Salvador</td><td>10 février</td><td>2025 A</td><td>10 février</td><td>2025</td></tr>
 <tr><td>Émirats arabes unis</td><td>15 janvier</td><td>2016</td><td>15 janvier</td><td>2016</td></tr>
 <tr><td>Équateur</td><td>1<sup>er</sup> novembre</td><td>2019 A</td><td>1<sup>er</sup> novembre</td><td>2019</td></tr>
 <tr><td>Espagne</td><td>19 décembre</td><td>2017</td><td>19 décembre</td><td>2017</td></tr>
@@ -938,6 +942,7 @@ Champ d’application le 24 octobre 2023[^t-2]
 <tr><td>Guinée</td><td>12 juillet</td><td>2019 A</td><td>12 juillet</td><td>2019</td></tr>
 <tr><td>Hongrie</td><td>16 juin</td><td>2017 A</td><td>16 juin</td><td>2017</td></tr>
 <tr><td>Îles Cook</td><td>1<sup>er</sup> juin</td><td>2020 A</td><td>1<sup>er</sup> juin</td><td>2020</td></tr>
+<tr><td>Îles Salomon</td><td>9 juin</td><td>2025 A</td><td>9 juin</td><td>2025</td></tr>
 <tr><td>Inde</td><td>11 janvier</td><td>2016</td><td>11 janvier</td><td>2016</td></tr>
 <tr><td>Indonésie</td><td>14 janvier</td><td>2016</td><td>14 janvier</td><td>2016</td></tr>
 <tr><td>Iran</td><td>16 janvier</td><td>2017</td><td>16 janvier</td><td>2017</td></tr>
@@ -948,7 +953,9 @@ Champ d’application le 24 octobre 2023[^t-2]
 <tr><td>Italie</td><td>13 juillet</td><td>2016</td><td>13 juillet</td><td>2016</td></tr>
 <tr><td>Jordanie</td><td>25 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Kazakhstan</td><td>18 avril</td><td>2016</td><td>18 avril</td><td>2016</td></tr>
+<tr><td>Kenya</td><td>4 septembre</td><td>2024 A</td><td>4 septembre</td><td>2024</td></tr>
 <tr><td>Kirghizistan</td><td>11 avril</td><td>2016</td><td>11 avril</td><td>2016</td></tr>
+<tr><td>Koweït</td><td>26 mai</td><td>2025</td><td>26 mai</td><td>2025</td></tr>
 <tr><td>Laos</td><td>15 janvier</td><td>2016</td><td>15 janvier</td><td>2016</td></tr>
 <tr><td>Libéria</td><td>4 janvier</td><td>2021 A</td><td>4 janvier</td><td>2021</td></tr>
 <tr><td>Libye</td><td>12 septembre</td><td>2023 A</td><td>12 septembre</td><td>2023</td></tr>
@@ -958,14 +965,17 @@ Champ d’application le 24 octobre 2023[^t-2]
 <tr><td>Maldives</td><td>4 janvier</td><td>2016</td><td>4 janvier</td><td>2016</td></tr>
 <tr><td>Malte</td><td>7 janvier</td><td>2016</td><td>7 janvier</td><td>2016</td></tr>
 <tr><td>Maroc</td><td>4 mai</td><td>2022 A</td><td>4 mai</td><td>2022</td></tr>
+<tr><td>Mauritanie</td><td>24 juin</td><td>2025 A</td><td>24 juin</td><td>2025</td></tr>
 <tr><td>Mongolie</td><td>27 novembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Myanmar</td><td>1<sup>er</sup> juillet</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
+<tr><td>Nauru</td><td>28 février</td><td>2025 A</td><td>28 février</td><td>2025</td></tr>
 <tr><td>Népal</td><td>13 janvier</td><td>2016</td><td>13 janvier</td><td>2016</td></tr>
 <tr><td>Norvège</td><td>22 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>7 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Oman</td><td>21 juin</td><td>2016</td><td>21 juin</td><td>2016</td></tr>
 <tr><td>Ouzbékistan</td><td>30 novembre</td><td>2016</td><td>30 novembre</td><td>2016</td></tr>
 <tr><td>Pakistan</td><td>22 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée</td><td>13 mai</td><td>2024 A</td><td>13 mai</td><td>2024</td></tr>
 <tr><td>Pays-Bas\*</td><td>16 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Pérou</td><td>14 janvier</td><td>2022 A</td><td>14 janvier</td><td>2022</td></tr>
 <tr><td>Philippines</td><td>28 décembre</td><td>2016</td><td>28 décembre</td><td>2016</td></tr>
@@ -977,6 +987,7 @@ Champ d’application le 24 octobre 2023[^t-2]
 <tr><td>Russie</td><td>28 décembre</td><td>2015</td><td>28 décembre</td><td>2015</td></tr>
 <tr><td>Rwanda</td><td>16 avril</td><td>2020 A</td><td>16 avril</td><td>2020</td></tr>
 <tr><td>Samoa</td><td>3 avril</td><td>2018 A</td><td>3 avril</td><td>2018</td></tr>
+<tr><td>Sénégal</td><td>22 décembre</td><td>2025 A</td><td>22 décembre</td><td>2025</td></tr>
 <tr><td>Serbie</td><td>15 août</td><td>2019 A</td><td>15 août</td><td>2019</td></tr>
 <tr><td>Singapour</td><td>10 septembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Soudan</td><td>13 septembre</td><td>2018 A</td><td>13 septembre</td><td>2018</td></tr>
@@ -984,8 +995,10 @@ Champ d’application le 24 octobre 2023[^t-2]
 <tr><td>Suède\*</td><td>23 juin</td><td>2016</td><td>23 juin</td><td>2016</td></tr>
 <tr><td>Suisse\*</td><td>25 avril</td><td>2016</td><td>25 avril</td><td>2016</td></tr>
 <tr><td>Tadjikistan</td><td>16 janvier</td><td>2016</td><td>16 janvier</td><td>2016</td></tr>
+<tr><td>Tanzanie</td><td>14 octobre</td><td>2025 A</td><td>14 octobre</td><td>2025</td></tr>
 <tr><td>Thaïlande\*</td><td>20 juin</td><td>2016</td><td>20 juin</td><td>2016</td></tr>
 <tr><td>Timor-Leste</td><td>22 novembre</td><td>2017 A</td><td>22 novembre</td><td>2017</td></tr>
+<tr><td>Togo</td><td>19 décembre</td><td>2023 A</td><td>19 décembre</td><td>2023</td></tr>
 <tr><td>Tonga</td><td>5 janveir</td><td>2021 A</td><td>5 janvier</td><td>2021</td></tr>
 <tr><td>Tunisie</td><td>29 avril</td><td>2022 A</td><td>29 avril</td><td>2022</td></tr>
 <tr><td>Turquie</td><td>15 janvier</td><td>2016</td><td>15 janvier</td><td>2016</td></tr>
@@ -995,7 +1008,7 @@ Champ d’application le 24 octobre 2023[^t-2]
 <tr><td colspan="5"><sup>\*</sup> Réserves et déclarations Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés sur le site internet de la Banque asiatique d’investissement dans les infrastructures: [www.aiib.org](https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html) &gt; Who we are &gt; Governance &gt; Members and prospective members of the bank ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389); [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16), [2789](https://fedlex.data.admin.ch/eli/oc/2018/418); [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389); [2021 444](https://fedlex.data.admin.ch/eli/oc/2021/444); [2023 609](https://fedlex.data.admin.ch/eli/oc/2023/609). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
+[^t-2]: [RO 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389); [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16), [2789](https://fedlex.data.admin.ch/eli/oc/2018/418); [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389); [2021 444](https://fedlex.data.admin.ch/eli/oc/2021/444); [2023 609](https://fedlex.data.admin.ch/eli/oc/2023/609); [2026 37](https://fedlex.data.admin.ch/eli/oc/2026/37). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
 
 Réserve
 
