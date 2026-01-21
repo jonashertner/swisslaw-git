@@ -5,12 +5,12 @@ title: Gesetz über die Förderung von Hochschulen und Forschung (FHFG)
 short: FHFG
 language: de
 version: 2026-01-01
-corrected: 2025-04-03
+corrected: 2026-01-22
 version_adopted: 2024-05-15
 adopted: 2024-05-15
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/420.1"
-pdf: "https://lex.vs.ch/api/de/versions/3373/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3472/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -150,7 +150,7 @@ verordnet[^ingress-1]:
 - a) gewährleistet die Aufsicht über die tertiären Institutionen durch das für die tertiäre Bildung zuständige Departement (nachfolgend: Departement);
 - b) gewährt den im Sinne von Artikel 2 Absatz 2 Buchstabe c des vorliegenden Gesetzes definierten Institutionen eine Anerkennung gemäss den in einem von ihm erlassenen Reglement festgelegten Modalitäten;
 - c) gewährt, unter Einhaltung der zur Verfügung stehenden Budgetmittel des Staates, das jährliche Globalbudget für die kantonalen Beiträge an die tertiären Institutionen gemäss Artikel 12 Absatz 1 des vorliegenden Gesetzes;
-- d) beschliesst den Standort der tertiären Institutionen auf dem Kantonsgebiet gemäss Artikel 3 Absatz 2.
+- d) beschliesst den Standort der tertiären Institutionen auf dem Kantonsgebiet gemäss Artikel 3 Absatz 3.
 
 #### Art. 9
 

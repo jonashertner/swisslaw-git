@@ -5,12 +5,12 @@ title: Loi sur l’encouragement des hautes écoles et de la recherche
 short: LEHER
 language: fr
 version: 2026-01-01
-corrected: 2025-04-03
+corrected: 2026-01-22
 version_adopted: 2024-05-15
 adopted: 2024-05-15
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/420.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3373/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3472/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -152,7 +152,7 @@ ordonne[^ingress-1]:
 - a) assure la surveillance des institutions tertiaires par le département en charge de la formation tertiaire (ci-après: le département);
 - b) accorde une reconnaissance aux institutions définies au sens de l’article 2 alinéa 2 lettre c de la présente loi selon les modalités prévues dans un règlement qu'il édicte;
 - c) octroie, dans la limite des disponibilités budgétaires de l’Etat, le budget global annuel des contributions cantonales aux institutions tertiaires selon l’article 12 alinéa 1 de la présente loi;
-- d) décide de la localisation des institutions tertiaires sur le territoire cantonal selon l'article 3 alinéa 2.
+- d) décide de la localisation des institutions tertiaires sur le territoire cantonal selon l'article 3 alinéa 3.
 
 #### Art. 9
 
