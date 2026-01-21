@@ -4,24 +4,23 @@ number: "561.120"
 title: Verordnung über die Verwendung von Geldern aus dem Swisslos-Fonds
 short: Swisslos-Fonds-Verordnung
 language: de
-version: 2021-01-01
-valid_until: 2026-01-21
-version_adopted: 2020-12-08
+version: 2026-01-22
+version_adopted: 2026-01-13
 adopted: 2014-08-19
 in_force: 2014-08-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/561.120"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5132/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6752/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Verwendung von Geldern aus dem Swisslos-Fonds
 
-Swisslos-Fonds: Verordnung | Lotterien / Kollekten
+Lotterien / Kollekten
 
 (Swisslos-Fonds-Verordnung)
 
-Vom 19. August 2014 (Stand 1. Januar 2021)
+Vom 19. August 2014 (Stand 22. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -44,7 +43,7 @@ beschliesst:
 
 #### § 2
 
-<sup>1</sup> Aus dem Swisslos-Fonds werden Beiträge ausschliesslich für gemeinnützige oder wohltätige Zwecke im sozialen, kulturellen oder sportlichen Bereich ausgerichtet. Dabei wird die Jugendkultur angemessen berücksichtigt. Es werden keine Beiträge zur Erfüllung einer zwingenden öffentlich-rechtlichen Verpflichtung gewährt.
+<sup>1</sup> Aus dem Swisslos-Fonds werden Beiträge ausschliesslich für gemeinnützige oder wohltätige Zwecke, namentlich im sozialen, kulturellen oder sportlichen Bereich, ausgerichtet. Dabei wird die Jugendkultur angemessen berücksichtigt. Es werden keine Beiträge zur Erfüllung einer zwingenden öffentlich-rechtlichen Verpflichtung gewährt.
 
 <sup>2</sup> Auf Beiträge aus dem Swisslos-Fonds besteht kein Rechtsanspruch. Dies gilt auch bezüglich einer früheren Beitragsgewährung oder bei Kürzung anderer, namentlich staatlicher Mittel.
 
@@ -70,7 +69,7 @@ beschliesst:
 
 - a) Politische Parteien, Wahl- und Abstimmungskomitees sowie jegliche sonstigen politischen Aktivitäten;
 - b) Institutionen, die vom Kanton bereits mitfinanziert werden, wenn das zu unterstützende Projekt Bestandteil einer gemäss Leistungsvereinbarung zu erbringenden Leistung ist;
-- c) Tagungen, Kongresse, Konferenzen, Seminare, Workshops und ähnliche Anlässe;
+- c) Tagungen, Kongresse, Konferenzen, Seminare, Workshops und ähnliche Anlässe, sofern sich diese an einen geschlossenen Teilnehmendenkreis richten;
 - d) Interne, nicht öffentliche Anlässe;
 - e) Dissertationen, Diplomarbeiten und ähnliche Schriften;
 - f) Ausbildungsprojekte;
@@ -129,6 +128,8 @@ beschliesst:
 <sup>1</sup> Die Rechnung des Swisslos-Fonds wird von der kantonalen Finanzkontrolle überprüft.
 
 <sup>2</sup> Die Fondsäufnung wird in der Bilanz mittels Kontokorrentbuchungen abgebildet. Die Mittelverwendung des Swisslos-Fonds wird über ein Aufwandkonto gebucht. Der Saldo des Aufwandkontos wird Ende Jahr über ein Kontokorrent und ein Ertragskonto ausgeglichen. Die Verwaltungsentschädigung sowie die restlichen Aufwendungen werden über die Erfolgsrechnung des Fonds unter den entsprechenden Konti abgebildet.
+
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird sofort wirksam.[^footer-1] Auf den gleichen Zeitpunkt wird die Verordnung über die Verwendung von Geldern aus dem Swisslos-Fonds vom 21. April 2009 aufgehoben.
 
