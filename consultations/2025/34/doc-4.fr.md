@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Projet d’ordonnance sur les données relatives aux passagers aériens et modification d’autres ordonnances
 document: Ordonnance SNE
 language: fr

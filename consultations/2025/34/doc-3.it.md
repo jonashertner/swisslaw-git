@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Avamprogetto di ordinanza sui dati dei passeggeri aerei e modifica di altre ordinanze
 document: Ordinanza SIMIC
 language: it

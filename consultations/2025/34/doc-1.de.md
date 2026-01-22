@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Entwurf zur Flugpassagierdatenverordnung und Änderung weitere Verordnungen
 document: Flugpassagierdatenverordnung
 language: de

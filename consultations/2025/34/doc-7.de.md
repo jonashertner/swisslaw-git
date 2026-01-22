@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Entwurf zur Flugpassagierdatenverordnung und Änderung weitere Verordnungen
 document: Verordnung über den Nationalen Polizeiindex
 language: de

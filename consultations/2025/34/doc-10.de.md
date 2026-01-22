@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Entwurf zur Flugpassagierdatenverordnung und Änderung weitere Verordnungen
 document: N-SIS-Verordnung
 language: de
