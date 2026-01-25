@@ -3,11 +3,11 @@ sr: "0.362.381.025"
 title: "Notenaustausch vom 13. Dezember 2023 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme und Umsetzung der Verordnung (EU) 2023/2667 zur Änderung der Verordnungen (EG) Nr. 767/2008, (EG) Nr. 810/2009, (EU) 2017/2226, (EG) Nr. 693/2003 und (EG) Nr. 694/2003 und des Übereinkommens zur Durchführung des Übereinkommens von Schengen in Hinblick auf die Digitalisierung des Visumverfahrens (Weiterentwicklung des Schengen-Besitzstands)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/341"
 language: de
-version: 2024-06-28
+version: 2026-01-26
 adopted: 2023-12-13
 in_force: 2024-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/341/20240628/de/xml/fedlex-data-admin-ch-eli-cc-2024-341-20240628-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/341/20240628/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/341/20260126/de/xml/fedlex-data-admin-ch-eli-cc-2024-341-20260126-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/341/20260126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,11 +18,15 @@ AS **2024** 341
 
 (Weiterentwicklung des Schengen-Besitzstands)
 
-Provisorisch anwendbar ab dem 28. Juni 2024[^t-1]
+Provisorisch anwendbar ab dem 28. Juni 2024[^t-1] Von der Bundesversammlung genehmigt am 26. September 2025[^t-2]
 
-(Stand am 28. Juni 2024)
+In Kraft getreten am 26. Januar 2026[^t-3]
+
+(Stand am 26. Januar 2026)
 
 [^t-1]: Art. 1 Abs. 1, 3, 34 und 36 der Verordnung (EU) 2023/2667 werden von der Schweiz ab dem 28. Juni 2024 vorläufig angewendet.
+[^t-2]: Art. 1 Abs. 1 des BB vom 26. Sept. 2025 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15))
+[^t-3]: [AS 2026 45](https://fedlex.data.admin.ch/eli/oc/2026/45)
 
 Übersetzung
 
@@ -50,5 +54,5 @@ Eine Kopie dieser Note wird der Europäischen Kommission, Generalsekretariat, SG
 
 Die Mission der Schweiz bei der Europäischen Union benützt die Gelegenheit, um das Generalsekretariat des Rates der Europäischen Union ihrer ausgezeichneten Hochachtung zu versichern.
 
-[^ingress-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
 [^ingress-2]: Verordnung (EU) 2023/2667 des Europäischen Parlaments und des Rates zur Änderung der Verordnungen (EG) Nr. 767/2008, (EG) Nr. 810/2009 und (EU) 2017/2226 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 693/2003 und (EG) Nr. 694/2003 des Rates und des Übereinkommens zur Durchführung des Übereinkommens von Schengen in Hinblick auf die Digitalisierung des Visumverfahrens, Fassung gemäss ABl. L, 2023/2667, 7.12.2023.

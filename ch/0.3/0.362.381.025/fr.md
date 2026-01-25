@@ -3,11 +3,11 @@ sr: "0.362.381.025"
 title: "Échange de notes du 13 décembre 2023 entre la Suisse et l’Union européenne concernant la reprise et la mise en œuvre du règlement (UE) 2023/2667 modifiant les règlements (CE) n° 767/2008, (CE) n° 810/2009, (UE) 2017/2226, (CE) n° 693/2003 et (CE) n° 694/2003 ainsi que la convention d’application de l’accord de Schengen, en ce qui concerne la numérisation de la procédure de visa (Développement de l’acquis de Schengen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/341"
 language: fr
-version: 2024-06-28
+version: 2026-01-26
 adopted: 2023-12-13
 in_force: 2024-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/341/20240628/fr/xml/fedlex-data-admin-ch-eli-cc-2024-341-20240628-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/341/20240628/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/341/20260126/fr/xml/fedlex-data-admin-ch-eli-cc-2024-341-20260126-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/341/20260126/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,9 +20,15 @@ RO **2024** 341
 
 Appliqué provisoirement dès le 28 juin 2024[^t-1]
 
-(État le 28 juin 2024)
+Approuvé par l’Assemblée fédérale le 26 septembre 2025[^t-2]
+
+Entré en vigueur le 26 janvier 2026[^t-3]
+
+(État le 26 janvier 2026)
 
 [^t-1]: L’art. 1, par. 1, 3, 34 et 36 du règlement (UE) 2023/2667 sont appliqués provisoirement par la Suisse dès le 28 juin 2024.
+[^t-2]: Art. 1, al. 1, de l’AF du 26 sept. 2025 ([RO 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15))
+[^t-3]: [RO 2026 45](https://fedlex.data.admin.ch/eli/oc/2026/45)
 
 Traduction
 
@@ -50,5 +56,5 @@ Une copie de la présente note est adressée à la Commission européenne, Secr�
 
 La Mission de la Suisse auprès de l’Union européenne saisit cette occasion pour renouveler au Secrétariat général du Conseil de l’Union européenne l’assurance de sa haute considération.
 
-[^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
 [^ingress-2]: Règlement du Parlement européen et du Conseil (UE) 2023/2667 modifiant les règlements (CE) n<sup>o</sup> 767/2008, (CE) n<sup>o</sup> 810/2009 et (UE) 2017/2226 du Parlement européen et du Conseil, les règlements (CE) n<sup>o</sup> 693/2003 et (CE) n<sup>o</sup> 694/2003 du Conseil ainsi que la convention d’application de l’accord de Schengen, en ce qui concerne la numérisation de la procédure de demande de visa, version du JO L, 2023/2667, 7.12.2023.
