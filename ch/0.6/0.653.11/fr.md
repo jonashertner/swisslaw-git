@@ -3,11 +3,11 @@ sr: "0.653.11"
 title: Addendum du 8 juin 2023 à l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/863"
 language: fr
-version: 2026-01-01
+version: 2026-01-26
 adopted: 2023-06-08
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260126/fr/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260126-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260126/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,9 +20,12 @@ Texte original
 
 Conclu le 8 juin 2023 Approuvé par l’Assemblée fédérale le 26 septembre 2025[^t-1] Appliqué provisoirement dès le 1<sup>er</sup> janvier 2026
 
-(État le 1<sup>er</sup> janvier 2026)
+Entré en vigueur le 26 janvier 2026[^t-2]
+
+(État le 26 janvier 2026)
 
 [^t-1]: [FF 2025 2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)
+[^t-2]: [RO 2026 57](https://fedlex.data.admin.ch/eli/oc/2026/57)
 
 Considérant que les Autorités compétentes sont signataires de l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers («Accord»)[^ingress-1],
 

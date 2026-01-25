@@ -3,11 +3,11 @@ sr: "0.653.11"
 title: Addendum vom 8. Juni 2023 zur multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/863"
 language: de
-version: 2026-01-01
+version: 2026-01-26
 adopted: 2023-06-08
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260126/de/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260126-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,11 +18,12 @@ AS **2025** 863; BBl **2025** 883
 
 Übersetzung
 
-Abgeschlossen am 8. Juni 2023 Von der Bundesversammlung genehmigt am 26. September 2025[^t-1] Vorläufig angewendet ab 1. Januar 2026
+Abgeschlossen am 8. Juni 2023 Von der Bundesversammlung genehmigt am 26. September 2025[^t-1] Vorläufig angewendet ab 1. Januar 2026 In Kraft getreten am 26. Januar 2026[^t-2]
 
-(Stand am 1. Januar 2026)
+(Stand am 26. Januar 2026)
 
 [^t-1]: [BBl 2025 2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)
+[^t-2]: [AS 2026 57](https://fedlex.data.admin.ch/eli/oc/2026/57)
 
 In der Erwägung, dass die zuständigen Behörden Unterzeichnerinnen der multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten (das «Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information» oder «Vereinbarung»)[^ingress-1] sind;
 

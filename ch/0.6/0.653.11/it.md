@@ -3,11 +3,11 @@ sr: "0.653.11"
 title: "Addendum dell'8 giugno 2023 all’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari"
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/863"
 language: it
-version: 2026-01-01
+version: 2026-01-26
 adopted: 2023-06-08
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260126/it/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260126-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260126/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,9 +20,12 @@ Traduzione
 
 Concluso l’8 giugno 2023 Approvato dall’Assemblea federale il 26 settembre 2025[^t-1] Applicato provvisoriamente dal 1° gennaio 2026
 
-(Stato 1° gennaio 2026)
+Entrato in vigore il 26 gennaio 2026[^t-2]
+
+(Stato 26 gennaio 2026)
 
 [^t-1]: [FF 2025 2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)
+[^t-2]: [RU 2026 57](https://fedlex.data.admin.ch/eli/oc/2026/57)
 
 Considerato che le Autorità competenti sono firmatarie dell’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari («Accordo»)[^ingress-1];
 
