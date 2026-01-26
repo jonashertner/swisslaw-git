@@ -4,11 +4,10 @@ number: "412.311"
 title: Lehrpersonalverordnung (LPVO)
 short: LPVO
 language: de
-version: "2025-01-01"
-nachtrag: "128"
-valid_until: 2026-01-26
+version: "2026-01-01"
+nachtrag: "132"
 adopted: 2000-07-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-128.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-132.html"
 text: pdf
 ---
 
@@ -50,7 +49,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **1**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Er wird für jede Gemeinde auf der Grundlage der folgenden Merkmale festgelegt:
 
@@ -126,7 +125,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **3**
 
-- 1\. 4. 25 - 128 § 2 f.<sup>42</sup> <sup>1</sup> Die Gemeinden können die Lehrpersonen auf eigene Kosten für die Erfüllung einzelner Aufgaben im Schulwesen gemäss § 10 a zusätzlich entschädigen, wenn
+- 1\. 4. 26 - 132 § 2 f.<sup>42</sup> <sup>1</sup> Die Gemeinden können die Lehrpersonen auf eigene Kosten für die Erfüllung einzelner Aufgaben im Schulwesen gemäss § 10 a zusätzlich entschädigen, wenn
 
 **Zusätzliche Entschädigungen**
 
@@ -210,7 +209,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **5**
 
-- 1\. 4. 25 - 128 § 10.<sup>43</sup> <sup>1</sup> Die Schulleitungen teilen den Lehrpersonen das Unterrichtspensum zu, legen bei Bedarf eine abweichende Arbeitszeit pro Wochenlektion fest und bestimmen den zeitlichen Aufwand für die Tätigkeitsbereiche gemäss §§ 10 a–10 c.
+- 1\. 4. 26 - 132 § 10.<sup>43</sup> <sup>1</sup> Die Schulleitungen teilen den Lehrpersonen das Unterrichtspensum zu, legen bei Bedarf eine abweichende Arbeitszeit pro Wochenlektion fest und bestimmen den zeitlichen Aufwand für die Tätigkeitsbereiche gemäss §§ 10 a–10 c.
 
 **Arbeitszeit der Lehrpersonen**
 
@@ -298,7 +297,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **7**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Übertragen werden:
 
@@ -372,7 +371,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekund
 
 **9**
 
-- 1\. 4. 25 - 128 b.<sup>50</sup> zu 75%: anderweitige Unterrichtstätigkeit, einschliesslich des auf der Volksschulstufe erteilten Unterrichts an einer Mittelschule (Langgymnasium), oder schulische Therapietätigkeiten mit Schülerinnen und Schülern der Volksschulstufe oder der Sekundarstufe II sowie Unterrichtstätigkeit in der Lehrerbildung, sofern dieselbe Zeitspanne nicht bereits unter lit. a angerechnet wurde,
+- 1\. 4. 26 - 132 b.<sup>50</sup> zu 75%: anderweitige Unterrichtstätigkeit, einschliesslich des auf der Volksschulstufe erteilten Unterrichts an einer Mittelschule (Langgymnasium), oder schulische Therapietätigkeiten mit Schülerinnen und Schülern der Volksschulstufe oder der Sekundarstufe II sowie Unterrichtstätigkeit in der Lehrerbildung, sofern dieselbe Zeitspanne nicht bereits unter lit. a angerechnet wurde,
 
 - c. zu 50%: anderweitige Berufstätigkeit, Aus- und Weiterbildung sowie Haus-, Erziehungs- und Betreuungsarbeit, sofern dieselbe Zeitspanne nicht bereits unter lit. a oder b angerechnet wurde.
 
@@ -426,7 +425,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekund
 
 **11**
 
-- 1\. 4. 25 - 128 § 21. <sup>1</sup> Die Grundlage für die Berechnung des Dienstaltersgeschenks in Form von Urlaub bilden 39 Schulwochen pro Jahr.
+- 1\. 4. 26 - 132 § 21. <sup>1</sup> Die Grundlage für die Berechnung des Dienstaltersgeschenks in Form von Urlaub bilden 39 Schulwochen pro Jahr.
 
 **Dienstaltersgeschenk**
 
@@ -484,7 +483,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekund
 
 **13**
 
-- 1\. 4. 25 - 128 § 27.<sup>14</sup> <sup>1</sup> Zusätzlich zu den im allgemeinen Personalrecht in den §§ 84–115 VVO<sup>24</sup> genannten Gründen kann auch zur beruflichen Weiterbildung, für Aufgaben im Schulwesen oder aus anderen wichtigen Gründen bezahlter Urlaub gewährt werden.
+- 1\. 4. 26 - 132 § 27.<sup>14</sup> <sup>1</sup> Zusätzlich zu den im allgemeinen Personalrecht in den §§ 84–115 VVO<sup>24</sup> genannten Gründen kann auch zur beruflichen Weiterbildung, für Aufgaben im Schulwesen oder aus anderen wichtigen Gründen bezahlter Urlaub gewährt werden.
 
 **Bezahlte Abwesenheiten**
 
@@ -552,7 +551,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekund
 
 **15**
 
-- 1\. 4. 25 - 128 § 29 f.<sup>43</sup> <sup>1</sup> Bei längeren Abwesenheiten kann die Schulpflege die Stellvertretung der Schulleiterin oder des Schulleiters einer Lehrperson oder einer anderen Schulleiterin oder einem anderen Schulleiter wie folgt übertragen:
+- 1\. 4. 26 - 132 § 29 f.<sup>43</sup> <sup>1</sup> Bei längeren Abwesenheiten kann die Schulpflege die Stellvertretung der Schulleiterin oder des Schulleiters einer Lehrperson oder einer anderen Schulleiterin oder einem anderen Schulleiter wie folgt übertragen:
 
 **Stellvertretung**
 
@@ -618,7 +617,7 @@ Die Schulpflegen<sup>14</sup> erlassen bis spätestens Ende 2000 Anstellungsverf
 
 **17**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 ### Übergangsbestimmung zur Änderung vom 15. Dezember 2004
 
@@ -666,7 +665,7 @@ Die bisherigen Stufen 1–3 werden wie folgt aufgehoben:
 
 **19**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 <sup>4</sup> Lehrpersonen, die aufgrund einer Pensenerhöhung bereits zu einem früheren Zeitpunkt in ein kantonales Anstellungsverhältnis hätten übergeführt werden müssen, werden rückwirkend auf jenen Zeitpunkt nach den damals geltenden Grundlagen eingestuft und die weitere Lohnentwicklung gemäss §§ 24 und 25 vollzogen. Kommunale Dienstjahre werden bei der kantonalen Anstellung nicht berücksichtigt.
 
@@ -790,9 +789,9 @@ Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, blei
 
 **23**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
-[^hÜbergangsbestimmung_8-1]: Fassung gemäss RRB vom 25. September 2024 (OS 80, 6; ABl 2024-10-04). In Kraft seit 1. Januar 2025.
+[^hÜbergangsbestimmung_8-1]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 6; ABl 2025-10-03). In Kraft seit 1. Januar 2026.
 
 ### Anhang zur Lehrpersonalverordnung
 
@@ -806,11 +805,11 @@ A. Lohnskala (§§ 14–29 d)<sup>43</sup>
 
 Stufe in Franken 2. Lohnmaximum 27 26 25 24 1. Lohnmaximum 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 Anlaufstufen 2 1
 
-**158 841 169 898 181 898 157 272 168 222 180 104 155 704 166 547 178 307 154 137 164 871 176 513 152 569 163 196 174 719 151 001 161 515 172 925 149 437 159 840 171 130 147 867 158 164 169 334 146 298 156 486 167 539 144 733 154 808 165 743 143 163 153 132 163 949 141 598 151 457 162 152 140 027 149 780 160 358 138 464 148 103 158 564 136 894 146 428 156 769 135 327 144 751 154 972 133 760 143 074 153 177 130 102 139 162 148 990 126 444 135 249 144 798 122 785 131 336 140 613 119 995 127 425 136 425 116 338 123 513 132 235 112 679 120 467 128 047 109 023 116 554 123 860 105 365 112 645 120 534 102 574 108 730 116 348 98 915 104 816 112 158**
+**159 159 170 238 182 262 157 587 168 558 180 464 156 015 166 880 178 664 154 445 165 201 176 866 152 874 163 522 175 068 151 303 161 838 173 271 149 736 160 160 171 472 148 163 158 480 169 673 146 591 156 799 167 874 145 022 155 118 166 074 143 449 153 438 164 277 141 881 151 760 162 476 140 307 150 080 160 679 138 741 148 399 158 881 137 168 146 721 157 083 135 598 145 041 155 282 134 028 143 360 153 483 130 362 139 440 149 288 126 697 135 520 145 088 123 031 131 599 140 894 120 235 127 680 136 698 116 571 123 760 132 499 112 904 120 708 128 303 109 241 116 787 124 108 105 576 112 870 120 775 102 779 108 947 116 581 99 113 105 026 112 382**
 
 **25**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 ### B.<sup>36</sup>
 
@@ -822,19 +821,19 @@ Stufe in Franken 2. Lohnmaximum 27 26 25 24 1. Lohnmaximum 23 22 21 20 19 18 17 
 
 Anstellung in Franken a. Lehrperson an Regelklassen auf der Kindergartenstufe b. Förderlehrperson auf der Kindergartenstufe ohne Lehrdiplom in Schulischer Heilpädagogik c. Förderlehrperson auf der Kindergartenstufe mit Lehrdiplom in Schulischer Heilpädagogik d. . . .<sup>44</sup> e. Lehrperson und Fachlehrperson an Regelklassen der Primarstufe f. Lehrperson und Fachlehrperson an Aufnahmeklassen der Primarstufe g. Förderlehrperson und Lehrperson ohne Lehrdiplom in Schulischer Heilpädagogik sowie
 
-**99.88**
+**100.08**
 
-**97.58**
+**97.78**
 
-**103.40**
+**103.61**
 
-**97.58**
+**97.78**
 
-**97.58**
+**97.78**
 
 ### Fachlehrperson an Einschulungs- und Klein-
 
-**97.58**
+**97.78**
 
 klassen der Primarstufe h. Förderlehrperson und Lehrperson an Einschulungs- und Kleinklassen der Primarstufe mit Lehrdiplom in Schulischer Heilpädagogik i. Lehrperson und Fachlehrperson an Regelklassen der Sekundarstufe j. Lehrperson und Fachlehrperson an Aufnahmeklassen der Sekundarstufe k. Förderlehrperson und Lehrperson ohne Lehrdiplom in Schulischer Heilpädagogik sowie Fachlehrperson an Kleinklassen der Sekundarstufe l. Förderlehrperson und Lehrperson an Kleinklassen der Sekundarstufe mit Lehrdiplom in Schulischer Heilpädagogik
 
@@ -846,19 +845,19 @@ klassen der Primarstufe h. Förderlehrperson und Lehrperson an Einschulungs- und
 
 ### D.<sup>27</sup>
 
-**103.40**
+**103.61**
 
-**103.40**
+**103.61**
 
-**103.40**
+**103.61**
 
-**103.40**
+**103.61**
 
-**110.64**
+**110.87**
 
 **27**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 ## Weitere Fussnoten
 
@@ -878,6 +877,6 @@ klassen der Primarstufe h. Förderlehrperson und Lehrperson an Einschulungs- und
 - [14] Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 16. August 2007.
 - [15] Aufgehoben durch RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 31. Dezember 2007.
 - [16] Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 1. Januar 2008.
-- [17] Fassung gemäss RRB vom 23. April 2008 (OS 63, 191; ABl 2008, 652). In Kraft seit 1. Mai 2008. 1. 4. 25 - 128 21
+- [17] Fassung gemäss RRB vom 23. April 2008 (OS 63, 191; ABl 2008, 652). In Kraft seit 1. Mai 2008. 1. 4. 26 - 132 21
 - [62] Fassung gemäss RRB vom 27. September 2023 (OS 79, 6; ABl 2023-10-02). In Kraft seit 1. Januar 2024.
 - [63] Fassung gemäss RRB vom 10. Januar 2024 (OS 79, 13; ABl 2024-01-19). In Kraft seit 1. Januar 2024.
