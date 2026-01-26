@@ -4,11 +4,10 @@ number: "177.11"
 title: Personalverordnung (PVO)
 short: PVO
 language: de
-version: "2025-01-01"
-nachtrag: "128"
-valid_until: 2026-01-26
+version: "2026-01-01"
+nachtrag: "132"
 adopted: 1998-12-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_11-1998_12_16-1999_01_01-128.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_11-1998_12_16-1999_01_01-132.html"
 text: pdf
 ---
 
@@ -46,7 +45,7 @@ I. Allgemeine Bestimmungen
 
 **1**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 ### II. Arbeitsverhältnis
 
@@ -126,7 +125,7 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 **3**
 
-- 1\. 4. 25 - 128 § 11. <sup>1</sup> Der Lohn bildet das Entgelt für die gesamte amtliche Tätigkeit. Für Protokollführung, Augenscheine, Inspektionen und ähnliche dienstliche Verrichtungen werden keine besondern Vergütungen geleistet.
+- 1\. 4. 26 - 132 § 11. <sup>1</sup> Der Lohn bildet das Entgelt für die gesamte amtliche Tätigkeit. Für Protokollführung, Augenscheine, Inspektionen und ähnliche dienstliche Verrichtungen werden keine besondern Vergütungen geleistet.
 
 **Lohn als Vergütung für die gesamte Tätigkeit**
 
@@ -198,7 +197,7 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 **5**
 
-- 1\. 4. 25 - 128 § 19.<sup>27</sup> <sup>1</sup> Die Anstellungsbehörde kann Angestellte aufgrund mangelnder Leistung oder unbefriedigenden Verhaltens zurückversetzen:
+- 1\. 4. 26 - 132 § 19.<sup>27</sup> <sup>1</sup> Die Anstellungsbehörde kann Angestellte aufgrund mangelnder Leistung oder unbefriedigenden Verhaltens zurückversetzen:
 
 **Rückstufung**
 
@@ -282,7 +281,7 @@ geschenk
 
 **7**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 <sup>4</sup> Der Anteil wird nicht ausgerichtet:
 
@@ -354,7 +353,7 @@ geschenk
 
 **9**
 
-- 1\. 4. 25 - 128 § 39.<sup>22</sup> <sup>1</sup> Beisitzende der Arbeits- und Mietgerichte sowie die Mitglieder der Paritätischen Schlichtungsbehörden in Miet- und Pachtsachen erhalten ein Taggeld gemäss Lohnklasse 23.<sup>17</sup>
+- 1\. 4. 26 - 132 § 39.<sup>22</sup> <sup>1</sup> Beisitzende der Arbeits- und Mietgerichte sowie die Mitglieder der Paritätischen Schlichtungsbehörden in Miet- und Pachtsachen erhalten ein Taggeld gemäss Lohnklasse 23.<sup>17</sup>
 
 **Arbeits- und Mietgerichte, Schlichtungsbehörden22**
 
@@ -412,7 +411,7 @@ geschenk
 
 **11**
 
-- 1\. 4. 25 - 128 § 46. <sup>1</sup> In Ämtern mit wenigstens 30 Angestellten wird ein Personalausschuss eingesetzt, sofern dies von mindestens einem Drittel des Personals schriftlich verlangt wird. In Ämtern mit 200 oder mehr Mitarbeitenden können mehrere Personalausschüsse zur Behandlung von Fragen gebildet werden, die lediglich die einzelnen Unterabteilungen betreffen.
+- 1\. 4. 26 - 132 § 46. <sup>1</sup> In Ämtern mit wenigstens 30 Angestellten wird ein Personalausschuss eingesetzt, sofern dies von mindestens einem Drittel des Personals schriftlich verlangt wird. In Ämtern mit 200 oder mehr Mitarbeitenden können mehrere Personalausschüsse zur Behandlung von Fragen gebildet werden, die lediglich die einzelnen Unterabteilungen betreffen.
 
 **Personalausschüsse a. Einsetzung, Allgemeines**
 
@@ -484,7 +483,7 @@ Die Direktionen erlassen für die Personalausschüsse in ihrem Bereich soweit er
 
 **13**
 
-- 1\. 4. 25 - 128 § 51 a.<sup>24</sup> <sup>1</sup> Die ständigen Verhandlungspartner erhalten für den Austausch mit dem Personal Zutritt zu kantonalen Verwaltungs- und Betriebsgebäuden sowie zu kantonalen Mittel- und Berufsfachschulen. Der Regierungsrat regelt die Einzelheiten.
+- 1\. 4. 26 - 132 § 51 a.<sup>24</sup> <sup>1</sup> Die ständigen Verhandlungspartner erhalten für den Austausch mit dem Personal Zutritt zu kantonalen Verwaltungs- und Betriebsgebäuden sowie zu kantonalen Mittel- und Berufsfachschulen. Der Regierungsrat regelt die Einzelheiten.
 
 **Austausch mit dem Personal**
 
@@ -526,7 +525,7 @@ II. Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, 
 
 III. Im Jahr des Inkrafttretens der Änderung wird für die Bemessung der Teuerungszulage auf die Veränderung des Stands des Landesindexes der Konsumentenpreise zwischen September des Vorjahres und August des aktuellen Jahres abgestellt.
 
-[^hÜbergangsbestimmunge-1]: Fassung gemäss RRB vom 25. September 2024 (OS 80, 2; ABl 2024-10-04). In Kraft seit 1. Januar 2025.
+[^hÜbergangsbestimmunge-1]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 2; ABl 2025-10-03). In Kraft seit 1. Januar 2026.
 
 ## Anhang
 
@@ -534,9 +533,9 @@ III. Im Jahr des Inkrafttretens der Änderung wird für die Bemessung der Teueru
 
 ### Mindest- und Höchstbeträge der Lohnklassen
 
-**Maximum (LS 29) 72 119 73 077 74 288 75 781 77 587 79 740 82 266 85 196 88 569 92 408 96 761 101 659 106 264 112 356 119 102 125 680 133 853 142 804 152 569 163 196 174 719 187 189 200 648 215 141 230 715 247 414 265 290 278 546\* 292 235\*\***
+**Maximum (LS 29) 72 263 73 223 74 437 75 933 77 742 79 899 82 431 85 366 88 746 92 593 96 955 101 862 106 477 112 581 119 340 125 931 134 121 143 090 152 874 163 522 175 068 187 563 201 049 215 571 231 176 247 909 265 821 279 103\* 292 819\*\***
 
-Lohnklasse Minimum (LS 1) 1 49 947 2 50 601 3 51 427 4 52 452 5 53 688 6 55 162 7 56 890 8 58 903 9 61 210 10 63 839 11 66 821 12 70 173 13 73 922 14 78 094 15 82 717 16 87 814 17 93 412 18 99 541 19 105 365 20 112 645 21 120 534 22 128 211 23 137 429 24 147 358 25 158 025 26 169 466 27 181 705 28 194 789 29 208 738
+Lohnklasse Minimum (LS 1) 1 50 047 2 50 702 3 51 530 4 52 557 5 53 795 6 55 272 7 57 004 8 59 021 9 61 332 10 63 967 11 66 955 12 70 313 13 74 070 14 78 250 15 82 882 16 87 990 17 93 599 18 99 740 19 105 576 20 112 870 21 120 775 22 128 467 23 137 704 24 147 653 25 158 341 26 169 805 27 182 068 28 195 179 29 209 155
 
 ## Weitere Fussnoten
 
@@ -554,7 +553,7 @@ Lohnklasse Minimum (LS 1) 1 49 947 2 50 601 3 51 427 4 52 452 5 53 688 6 55 162 
 - [13] Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 270; ABl 2009, 339). In Kraft seit 1. Januar 2009.
 - [14] Aufgehoben durch RRB vom 11. Februar 2009 (OS 64, 270; ABl 2009, 339). In Kraft seit 1. Januar 2009.
 - [15] Eingefügt durch RRB vom 17. Juni 2009 (OS 65, 98; ABl 2009, 1076). In Kraft seit 1. Januar 2010.
-- [16] Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 98; ABl 2009, 1076). In Kraft seit 1. Januar 2010. 1. 4. 25 - 128 15
+- [16] Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 98; ABl 2009, 1076). In Kraft seit 1. Januar 2010. 1. 4. 26 - 132 15
 - [17] Fassung gemäss RRB vom 3. November 2010 (OS 66, 322; ABl 2010, 2407). In Kraft seit 1. Januar 2011.
 - [18] Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 270; ABl 2009, 339). In Kraft seit 1. Juli 2011.
 - [19] Fassung gemäss RRB vom 2. November 2011 (OS 66, 978; ABl 2011, 3236). In Kraft seit 1. Januar 2012.
@@ -567,4 +566,4 @@ Lohnklasse Minimum (LS 1) 1 49 947 2 50 601 3 51 427 4 52 452 5 53 688 6 55 162 
 - [26] Fassung gemäss RRB vom 16. März 2022 (OS 77, 395; ABl 2022-03-25). In Kraft seit 1. September 2022.
 - [27] Fassung gemäss RRB vom 16. März 2022 (OS 77, 395; ABl 2022-03-25). In Kraft seit 1. Oktober 2022.
 - [*] In Lohnklasse 28 entspricht das Maximum der LS 27.
-- [**] In Lohnklasse 29 entspricht das Maximum der LS 25. 1. 4. 25 - 128 17
+- [**] In Lohnklasse 29 entspricht das Maximum der LS 25. 1. 4. 26 - 132 17
