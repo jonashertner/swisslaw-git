@@ -3,11 +3,10 @@ canton: ZH
 number: "631.421"
 title: Verordnung der Finanzdirektion über die Tarife für quellensteuerpflichtige Arbeitnehmerinnen und Arbeitnehmer
 language: de
-version: "2023-01-01"
-nachtrag: "120"
-valid_until: 2026-01-26
+version: "2026-01-01"
+nachtrag: "132"
 adopted: 2020-09-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_421-2020_09_10-2021_01_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_421-2020_09_10-2021_01_01-132.html"
 text: pdf
 ---
 
@@ -54,7 +53,7 @@ verfügt:
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 4. 26 - 132
 
 - j. Tarif P für Grenzgängerinnen und Grenzgänger nach dem DBA-D, welche die Voraussetzungen für eine Einstufung zum Tarif H erfüllen würden,
 
@@ -101,10 +100,9 @@ Die Quellensteuertarife A, B, C, G und H werden im Anhang dieser Verordnung durc
 
 **Spezialtarife a. Tarif G**
 
-§ 5.[^4-1] Der Tarif G wird auf der Basis des Grundtarifs nach § 35 Abs. 1 StG[^4-2] berechnet. Er ist ein Pauschaltarif, bei dem pauschalisierte Abzüge in der Höhe von Fr. 6000 einberechnet werden, aber keine Kirchensteuern enthalten sind. Für die Staatssteuern wird der massgebende Steuerfuss und für die Gemeindesteuern das gewogene Mittel der Gemeindesteuerfüsse im Kanton eingerechnet.
+§ 5.[^4-1] Der Tarif G wird auf der Basis des Grundtarifs nach § 35 Abs. 1 StG berechnet. Er ist ein Pauschaltarif, bei dem pauschalisierte Abzüge in der Höhe von Fr. 6300 einberechnet werden, aber keine Kirchensteuern enthalten sind. Für die Staatssteuern wird der massgebende Steuerfuss und für die Gemeindesteuern das gewogene Mittel der Gemeindesteuerfüsse im Kanton eingerechnet.
 
-[^4-1]: Fassung gemäss Vfg. vom 14. Dezember 2022 (OS 78, 79; ABl 2023-01-27). In Kraft seit 1. Januar 2023. 1. 4. 23 - 120 3
-[^4-2]: LS 631.1.
+[^4-1]: Fassung gemäss Vfg. vom 17. Dezember 2025 (OS 81, 34; ABl 2026-01-09). In Kraft seit 1. Januar 2026. 1. 4. 26 - 132 3
 
 #### § 6
 
@@ -127,3 +125,7 @@ Der Anhang zur Verordnung über die Tarife für quellensteuerpflichtige Arbeitne
 Kantonales Steueramt Zürich Division Quellensteuer Bändliweg 21 Postfach 8090 Zürich
 
 bezogen oder unter www.steueramt.zh.ch eingesehen werden.
+
+## Weitere Fussnoten
+
+- [7] Fassung gemäss Vfg. vom 14. Dezember 2022 (OS 78, 79; ABl 2023-01-27). In Kraft seit 1. Januar 2023.
