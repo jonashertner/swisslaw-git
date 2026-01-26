@@ -3,10 +3,9 @@ canton: ZH
 number: "414.254"
 title: Professurenreglement der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "127"
-valid_until: 2026-01-26
+nachtrag: "132"
 adopted: 2024-07-09
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_254-2024_07_09-2024_08_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_254-2024_07_09-2024_08_01-132.html"
 text: pdf
 ---
 
@@ -25,7 +24,7 @@ beschliesst:
 [^t-1]: OS 79, 449; Begründung siehe ABl 2024-08-09.
 [^t-2]: Inkrafttreten: 1. August 2024 (ABl 2024-11-08).
 [^t-3]: LS 414.10.
-[^t-4]: LS 414.112. 1. 1. 25 - 127 7
+[^t-4]: LS 414.112. 1. 4. 26 - 132 7
 
 ### A. Allgemeines
 
@@ -63,7 +62,7 @@ Dieses Reglement regelt:
 
 **1**
 
-- 1\. 1. 25 - 127
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Die Hochschulleitung regelt für die Assistenzprofessorinnen und -professoren mit und ohne Tenure Track:
 
@@ -171,7 +170,7 @@ Der Professurenplan umfasst die Professurenplanung und die Professurenliste.
 
 **3**
 
-- 1\. 1. 25 - 127
+- 1\. 4. 26 - 132
 
 - d. kann im Rahmen ihres oder seines Tätigkeitsfelds Leitungsaufgaben übernehmen,
 
@@ -235,7 +234,7 @@ Der Professurenplan umfasst die Professurenplanung und die Professurenliste.
 
 ### E. Titel
 
-[^hETitel-1]: Noch nicht in Kraft.
+[^hETitel-1]: Inkrafttreten: 1. Januar 2026 (OS 81, 14).
 
 #### § 15
 
@@ -245,7 +244,7 @@ Der Professurenplan umfasst die Professurenplanung und die Professurenliste.
 
 <sup>2</sup> Über einen Zusatz der Fachrichtung und die Ausstellung einer Urkunde entscheidet die Hochschulleitung.
 
-[^15-1]: Noch nicht in Kraft.
+[^15-1]: Inkrafttreten: 1. Januar 2026 (OS 81, 14).
 
 #### § 16
 
@@ -261,9 +260,9 @@ Der Professurenplan umfasst die Professurenplanung und die Professurenliste.
 
 **5**
 
-- 1\. 1. 25 - 127
+- 1\. 4. 26 - 132
 
-[^16-1]: Noch nicht in Kraft.
+[^16-1]: Inkrafttreten: 1. Januar 2026 (OS 81, 14).
 
 ### F. Entlassung von Professorinnen und Professoren
 
@@ -285,7 +284,7 @@ Der Professurenplan umfasst die Professurenplanung und die Professurenliste.
 
 ### H. Übergangsbestimmungen
 
-[^hHÜbergangsbestimmu-1]: Noch nicht in Kraft.
+[^hHÜbergangsbestimmu-1]: Inkrafttreten: 1. Januar 2026 (OS 81, 14).
 
 #### § 20
 
@@ -307,4 +306,4 @@ Der Professurenplan umfasst die Professurenplanung und die Professurenliste.
 
 <sup>2</sup> Der Antrag auf Ernennung als Professorin oder Professor muss bis Ende 2027 dem Fachhochschulrat eingereicht werden.
 
-[^20-1]: Noch nicht in Kraft.
+[^20-1]: Inkrafttreten: 1. Januar 2026 (OS 81, 14).
