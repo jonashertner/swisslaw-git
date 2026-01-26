@@ -4,11 +4,11 @@ number: "413.111"
 title: Mittel- und Berufsschullehrpersonenverordnung (MBVO)
 short: MBVO
 language: de
-version: "2025-01-01"
-nachtrag: "128"
-valid_until: 2026-01-26
+version: "2026-01-01"
+nachtrag: "132"
+valid_until: 2026-08-01
 adopted: 1999-04-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_111-1999_04_07-1999_08_23-128.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_111-1999_04_07-1999_08_23-132.html"
 text: pdf
 ---
 
@@ -58,7 +58,7 @@ Soweit diese Verordnung nichts anderes bestimmt, gelten die Personalverordnung<s
 
 **1**
 
-- 1\. 4. 25 - 128 § 4. <sup>1</sup> Mittel- und Berufsschullehrpersonen mbA übernehmen im Rahmen der Klassen- und Schulführung sowie der Schulverwaltung zusätzliche Aufgaben, wobei in der Regel ein Beschäftigungsgrad von mindestens 50% vorausgesetzt wird.
+- 1\. 4. 26 - 132 § 4. <sup>1</sup> Mittel- und Berufsschullehrpersonen mbA übernehmen im Rahmen der Klassen- und Schulführung sowie der Schulverwaltung zusätzliche Aufgaben, wobei in der Regel ein Beschäftigungsgrad von mindestens 50% vorausgesetzt wird.
 
 **Besondere Aufgaben**
 
@@ -140,7 +140,7 @@ Die Vergütung für Kurzlektionen wird mit dem Faktor 0.91 umgerechnet.
 
 **3**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 - b. an Berufsschulen <sup>1</sup>/1020 des Jahresgrundlohns:
 
@@ -212,7 +212,7 @@ Die Vollendung der für die Dienstaltersgeschenke der semesterweise ernannten Le
 
 **5**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 <sup>4</sup> Der Regierungsrat bestimmt den Zeitpunkt der Aufhebung der folgenden Erlasse:
 
@@ -262,7 +262,7 @@ Die Vollendung der für die Dienstaltersgeschenke der semesterweise ernannten Le
 
 <sup>18</sup> Fassung gemäss RRB vom 17. Februar 2016 (OS 71, 371; ABl 2016-02-26). In Kraft seit 1. August 2018.
 
-<sup>19</sup> Fassung gemäss RRB vom 25. September 2024 (OS 80, 9; ABl 2024-10-04). In Kraft seit 1. Januar 2025.
+<sup>19</sup> Fassung gemäss RRB vom 24. September 2025 (OS 81, 9; ABl 2025-10-03). In Kraft seit 1. Januar 2026.
 
 ### Anhang zur Mittelschul- und Berufsschullehrerverordnung<sup>14</sup>
 
@@ -292,7 +292,7 @@ Schulmusik I und Zeichnen I
 
 **Klasse 19 b.**
 
-- 1\. 4. 25 - 128 an Berufsschulen
+- 1\. 4. 26 - 132 an Berufsschulen
 
 **b.**
 
@@ -336,7 +336,7 @@ an Berufsschulen für Lehrpersonen mit Fachabschluss 1. für die Fächer Textver
 
 **III.11**
 
-**1. 4. 25 - 128**
+**1. 4. 26 - 132**
 
 **2. Maximum**
 
@@ -348,4 +348,4 @@ an Berufsschulen für Lehrpersonen mit Fachabschluss 1. für die Fächer Textver
 
 **20 21 22**
 
-Lohn- Klasse Klasse Klasse Klasse Klasse Klasse stufen 17 18 19 27 139 354 148 670 158 841 169 898 181 898 194 880 26 137 979 147 203 157 272 168 222 180 104 192 959 25 136 602 145 737 155 704 166 547 178 307 191 038 24 135 227 144 270 154 137 164 871 176 513 189 114 23 133 853 142 804 152 569 163 196 174 719 187 189 22 132 479 141 338 151 002 161 516 172 923 185 266 21 131 101 139 871 149 437 159 840 171 130 183 343 20 129 727 138 402 147 868 158 163 169 334 181 418 19 128 355 136 934 146 298 156 486 167 539 179 493 18 126 979 135 467 144 732 154 809 165 744 177 573 17 125 602 134 003 143 163 153 132 163 949 175 652 16 124 227 132 533 141 598 151 457 162 152 173 727 15 122 853 131 067 140 027 149 780 160 358 171 802 14 121 908 129 600 138 462 148 104 158 563 169 879 13 120 964 128 130 136 894 146 428 156 769 167 959 12 119 592 126 665 135 327 144 751 154 972 166 035 11 118 217 125 197 133 760 143 074 153 177 164 111 10 115 007 122 641 130 102 139 162 148 990 159 623 9 111 798 119 216 126 444 135 249 144 798 155 133 8 108 587 115 795 122 785 131 336 140 613 150 648 7 105 381 112 368 119 995 127 425 136 425 146 163 6 103 038 108 945 116 338 123 513 132 235 141 675 5 99 833 105 524 112 679 120 467 128 047 137 185 4 96 620 102 964 109 023 116 554 123 860 132 699 3 93 412 99 541 105 365 112 645 120 534 128 211 2 90 203 96 115 102 574 108 730 116 348 123 725 1 86 993 92 696 98 915 104 816 112 158 120 103
+Lohn- Klasse Klasse Klasse Klasse Klasse Klasse stufen 17 18 19 27 139 633 148 967 159 159 170 238 182 262 195 270 26 138 255 147 497 157 587 168 558 180 464 193 345 25 136 875 146 028 156 015 166 880 178 664 191 420 24 135 497 144 559 154 445 165 201 176 866 189 492 23 134 121 143 090 152 874 163 522 175 068 187 563 22 132 744 141 621 151 304 161 839 173 269 185 637 21 131 363 140 151 149 736 160 160 171 472 183 710 20 129 986 138 679 148 164 158 479 169 673 181 781 19 128 612 137 208 146 591 156 799 167 874 179 852 18 127 233 135 738 145 021 155 119 166 075 177 928 17 125 853 134 271 143 449 153 438 164 277 176 003 16 124 475 132 798 141 881 151 760 162 476 174 074 15 123 099 131 329 140 307 150 080 160 679 172 146 14 122 152 129 859 138 739 148 400 158 880 170 219 13 121 206 128 386 137 168 146 721 157 083 168 295 12 119 831 126 918 135 598 145 041 155 282 166 367 11 118 453 125 447 134 028 143 360 153 483 164 439 10 115 237 122 886 130 362 139 440 149 288 159 942 9 112 022 119 454 126 697 135 520 145 088 155 443 8 108 804 116 027 123 031 131 599 140 894 150 949 7 105 592 112 593 120 235 127 680 136 698 146 455 6 103 244 109 163 116 571 123 760 132 499 141 958 5 100 033 105 735 112 904 120 708 128 303 137 459 4 96 813 103 170 109 241 116 787 124 108 132 964 3 93 599 99 740 105 576 112 870 120 775 128 467 2 90 383 96 307 102 779 108 947 116 581 123 972 1 87 167 92 881 99 113 105 026 112 382 120 343
