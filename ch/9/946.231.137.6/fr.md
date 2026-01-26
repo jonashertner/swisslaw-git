@@ -3,18 +3,18 @@ sr: "946.231.137.6"
 title: Ordonnance du 10 avril 2024 instituant des mesures concernant le Guatemala
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/148"
 language: fr
-version: 2025-09-15
+version: 2026-01-27
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250915-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20260127/fr/xml/fedlex-data-admin-ch-eli-cc-2024-148-20260127-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20260127/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures concernant le Guatemala
 
-du 10 avril 2024 (État le 15 septembre 2025)
+du 10 avril 2024 (État le 27 janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -190,5 +190,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I de l’O du DEFR du 24 juin 2025, en vigueur depuis le 26 juin 2025 ([RO 2025 420](https://fedlex.data.admin.ch/eli/oc/2025/420)).
-[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/420](https://fedlex.data.admin.ch/eli/oc/2025/420) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 24 juin 2025 ([RO 2025 420](https://fedlex.data.admin.ch/eli/oc/2025/420)) et du 26 janv. 2026, en vigueur depuis le 27 janv. 2026 à 23 heures ([RO 2026 38](https://fedlex.data.admin.ch/eli/oc/2026/38)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/38](https://fedlex.data.admin.ch/eli/oc/2026/38) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

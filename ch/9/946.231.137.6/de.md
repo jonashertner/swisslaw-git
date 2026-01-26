@@ -3,18 +3,18 @@ sr: "946.231.137.6"
 title: Verordnung vom 10. April 2024 über Massnahmen betreffend Guatemala
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/148"
 language: de
-version: 2025-09-15
+version: 2026-01-27
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250915-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20260127/de/xml/fedlex-data-admin-ch-eli-cc-2024-148-20260127-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20260127/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen betreffend Guatemala
 
-vom 10. April 2024 (Stand am 15. September 2025)
+vom 10. April 2024 (Stand am 27. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -189,5 +189,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 24. Juni 2025, in Kraft seit 26. Juni 2025 ([AS 2025 420](https://fedlex.data.admin.ch/eli/oc/2025/420)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/420](https://fedlex.data.admin.ch/eli/oc/2025/420) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 24. Juni 2025 ([AS 2025 420](https://fedlex.data.admin.ch/eli/oc/2025/420)) und vom 26. Jan. 2026, in Kraft seit 27. Jan. 2026 um 23 Uhr ([AS 2026 38](https://fedlex.data.admin.ch/eli/oc/2026/38)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/38](https://fedlex.data.admin.ch/eli/oc/2026/38) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

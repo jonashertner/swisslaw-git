@@ -3,18 +3,18 @@ sr: "946.231.137.6"
 title: Ordinanza del 10 aprile 2024 che istituisce provvedimenti concernenti il Guatemala
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/148"
 language: it
-version: 2025-09-15
+version: 2026-01-27
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250915-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20260127/it/xml/fedlex-data-admin-ch-eli-cc-2024-148-20260127-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20260127/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti concernenti il Guatemala
 
-del 10 aprile 2024 (Stato 15 settembre 2025)
+del 10 aprile 2024 (Stato 27 gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -189,5 +189,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dalla cifra I dell’O del DEFR del 24 giu. 2025, in vigore dal 26 giu. 2025 ([RU 2025 420](https://fedlex.data.admin.ch/eli/oc/2025/420)).
-[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/420](https://fedlex.data.admin.ch/eli/oc/2025/420) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dalle cifre I delle O del DEFR del 24 giu. 2025 ([RU 2025 420](https://fedlex.data.admin.ch/eli/oc/2025/420)) e del 26 gen. 2026, in vigore dal 27 gen. 2026 alle ore 23.00 ([RU 2026 38](https://fedlex.data.admin.ch/eli/oc/2026/38)).
+[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/38](https://fedlex.data.admin.ch/eli/oc/2026/38) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
