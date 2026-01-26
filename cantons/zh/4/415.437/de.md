@@ -4,10 +4,10 @@ number: "415.437"
 title: Verordnung über das Zentrum für Zahnmedizin der Universität Zürich (V-ZZM)
 short: V-ZZM
 language: de
-nachtrag: "122"
-valid_until: 2026-01-26
+version: "2026-01-01"
+nachtrag: "132"
 adopted: 2023-05-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_437-2023_05_08-2023_08_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_437-2023_05_08-2023_08_01-132.html"
 text: pdf
 ---
 
@@ -45,13 +45,11 @@ beschliesst:
 
 <sup>1</sup> Das ZZM gliedert sich in klinische und nicht klinische wissenschaftliche Organisationseinheiten.
 
-<sup>2</sup> Es verfügt über einen zentralen Bereich Finanzen und Administration.
-
-#### § 3
+<sup>2</sup> Die Zentralen Dienste umfassen den Bereich Finanzen und Administration und erfüllen weitere zentrale Aufgaben.[^2-1]
 
 **Aufgaben**
 
-<sup>1</sup> Das ZZM hat die folgenden Aufgaben auf den Gebieten der Zahnmedizin und der enoralen Medizin:
+§ 3. <sup>1</sup> Das ZZM hat die folgenden Aufgaben auf den Gebieten der Zahnmedizin und der enoralen Medizin:
 
 - a. klinische und nicht klinische Forschung, Lehre und Nachwuchsförderung,
 
@@ -67,7 +65,9 @@ beschliesst:
 
 **1**
 
-1.10. 23 - 122
+- 1\. 4. 26 - 132
+
+[^2-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 29; ABl 2025-12-19). In Kraft seit 1. Januar 2026.
 
 ### 2. Abschnitt: Organisation
 
@@ -95,15 +95,13 @@ Der Zentrumsrat ist das unmittelbare Aufsichtsorgan des ZZM. Er ist ein Organ de
 
 ### B. Zentrumsrat
 
-#### § 6
-
 **Zusammensetzung und Stellvertretung**
 
-<sup>1</sup> Der Zentrumsrat setzt sich zusammen aus der Direktorin oder dem Direktor Universitäre Medizin, der Dekanin oder dem Dekan der MeF, der Direktorin oder dem Direktor Finanzen und zwei weiteren, von der Universitätsleitung eingesetzten Expertinnen und Experten im Bereich Klinikbetrieb und Zahnmedizin.
+§ 6.[^hBZentrumsrat-1] <sup>1</sup> Der Zentrumsrat setzt sich zusammen aus der Dekanin oder dem Dekan der MeF, einer weiteren Vertretung aus dem Fakultätsvorstand der MeF, einer Vertretung der Direktion Finanzen der UZH sowie mindestens einer oder einem, von der Universitätsleitung eingesetzten Expertin oder Experten aus dem Bereich Klinikbetrieb oder Zahnmedizin.
 
 <sup>2</sup> Ist die Dekanin oder der Dekan der MeF Professorin oder Professor am ZZM, nimmt die stellvertretende Dekanin oder der stellvertretende Dekan an ihrer oder seiner Stelle Einsitz im Zentrumsrat.
 
-<sup>3</sup> Der Zentrumsrat bestimmt für jedes seiner Mitglieder eine Stellvertretung im Rahmen der geltenden organisationsrechtlichen Vorgaben.
+<sup>3</sup> Die Stellvertretungen der Mitglieder werden im Rahmen der geltenden organisationsrechtlichen Vorgaben gewährleistet.
 
 <sup>4</sup> Die Dekanin oder der Dekan der MeF führt den Vorsitz im Zentrumsrat.
 
@@ -111,19 +109,23 @@ Der Zentrumsrat ist das unmittelbare Aufsichtsorgan des ZZM. Er ist ein Organ de
 
 <sup>6</sup> Der Zentrumsrat kann sachverständige Personen als ständige Gäste oder für einzelne Geschäfte mit beratender Stimme beiziehen.
 
+[^hBZentrumsrat-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 29; ABl 2025-12-19). In Kraft seit 1. Januar 2026.
+
 #### § 7
 
 **Aufgaben**
 
-Der Zentrumsrat hat als strategisches Führungsorgan insbesondere folgende Aufgaben:
+Der Zentrumsrat hat als strategisches Aufsichtsorgan der MeF insbesondere folgende Aufgaben[^hBZentrumsrat-1]:
 
-- a. Aufsicht über die strategische und finanzielle Führung des ZZM,
+a.[^7-1] die Aufsicht über die strategische und finanzielle Führung des ZZM, namentlich die Einhaltung der geltenden Finanz-, Governance- und Kontrollvorgaben,
 
 - b. Aufsicht über die Ausübung der privatzahnärztlichen Tätigkeiten am ZZM,
 
 - c. Genehmigung der Geschäftsordnung ZZM,
 
 - d. Rekrutierung und Anstellung der Finanzdirektorin oder des Finanzdirektors ZZM.
+
+[^7-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 29; ABl 2025-12-19). In Kraft seit 1. Januar 2026.
 
 ### C. Zentrumsversammlung
 
@@ -159,13 +161,13 @@ Der Zentrumsrat hat als strategisches Führungsorgan insbesondere folgende Aufga
 
 - 2\. die Schaffung, Umwandlung und Aufhebung von Kliniken und ihnen gleichgestellten Instituten sowie weiteren Organisationseinheiten des ZZM.
 
+**3**
+
+- 1\. 4. 26 - 132
+
 <sup>2</sup> Sie kann auf dem Dienstweg a. Vorschläge für die Ernennung der Zahnärztlichen Direktorin oder des Zahnärztlichen Direktors zuhanden der Universitätsleitung einreichen,
 
 - b. zum Erlass, zur Änderung oder zur Aufhebung dieser Verordnung zuhanden der Universitätsleitung Stellung nehmen.
-
-**3**
-
-1.10. 23 - 122
 
 <sup>3</sup> Sie ist abschliessend zuständig für:
 
@@ -254,6 +256,10 @@ Der Zentrumsrat hat als strategisches Führungsorgan insbesondere folgende Aufga
 
 <sup>3</sup> Sie oder er hat umfassende Einsicht in die finanziellen Unterlagen aller Kliniken, Bereiche und Privatpraxen am ZZM. Sie oder er entscheidet über die Ausgestaltung des Controllings.
 
+**5**
+
+- 1\. 4. 26 - 132
+
 ### E. Zentrumsleitung
 
 #### § 15
@@ -261,10 +267,6 @@ Der Zentrumsrat hat als strategisches Führungsorgan insbesondere folgende Aufga
 **Zusammensetzung**
 
 <sup>1</sup> Die Zentrumsleitung besteht aus den Mitgliedern der Direktion ZZM als Vorsitzende sowie von Amtes wegen aus den Direktorinnen und Direktoren der Kliniken und Institute am ZZM.
-
-**5**
-
-1.10. 23 - 122
 
 <sup>2</sup> Sie kann weitere sachverständige Personen als Gäste mit beratender Stimme zu ihren Sitzungen einladen.
 
@@ -360,15 +362,11 @@ Die Teilnahme an den Sitzungen des Zentrumsrates, der Zentrumsversammlung und de
 
 <sup>3</sup> Die Zentrumsleitung ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Sie beschliesst mit einfacher Mehrheit.
 
-#### § 24
-
-**Abstimmungen**
-
-<sup>1</sup> Der Zentrumsrat, die Zentrumsversammlung, die Zentrumsleitung und die Kommissionen beschliessen mit einfacher Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit in der Zentrumsversammlung und der Zentrumsleitung hat die Zahnärztliche Direktorin oder der Zahnärztliche Direktor den Stichentscheid.
-
 **7**
 
-1.10. 23 - 122
+- 1\. 4. 26 - 132 § 24. <sup>1</sup> Der Zentrumsrat, die Zentrumsversammlung, die Zentrumsleitung und die Kommissionen beschliessen mit einfacher Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit in der Zentrumsversammlung und der Zentrumsleitung hat die Zahnärztliche Direktorin oder der Zahnärztliche Direktor den Stichentscheid.
+
+**Abstimmungen**
 
 <sup>2</sup> Ist in der Zentrumsversammlung die Anzahl der Professorinnen und Professoren im Sinne von § 8 Abs. 1 kleiner oder gleich der Anzahl der Delegierten im Sinne von § 8 Abs. 2, wird bei einer Abstimmung zusätzlich die einfache Mehrheit der abgegebenen gültigen Stimmen der Professorinnen und Professoren benötigt.
 
@@ -430,7 +428,7 @@ Die Teilnahme an den Sitzungen des Zentrumsrates, der Zentrumsversammlung und de
 
 <sup>5</sup> Die Bewilligung wird in der Regel für die Dauer der Anstellung erteilt und kann aus besonderen Gründen widerrufen werden. Abs. 3 und 4 gelten sinngemäss.
 
-[^28-1]: SR 811.11. 1.10. 23 - 122 13
+[^28-1]: SR 811.11.
 
 #### § 29
 
@@ -440,45 +438,11 @@ Die Teilnahme an den Sitzungen des Zentrumsrates, der Zentrumsversammlung und de
 
 <sup>2</sup> Entschädigungen für honorarberechtigte Konsilien sowie Berichte, Zeugnisse und Gutachten über Privatpatientinnen und Privatpatienten werden zu den Gesamteinnahmen aus der privatärztlichen Tätigkeit hinzugezählt.
 
-#### § 30
-
-**b. Abgabesatz und Nettoeinnahmen**
-
-<sup>1</sup> Der Abgabesatz beträgt 30% der Nettoeinnahmen pro Kalenderjahr.
-
 **9**
 
-1.10. 23 - 122
+- 1\. 4. 26 - 132 §§ 30 und 31.[^29-1]
 
-<sup>2</sup> Zur Ermittlung der Nettoeinnahmen sind die folgenden Kosten von den Gesamteinnahmen in Abzug zu bringen:
-
-- a. die externen Kosten für die Leistungserbringung wie zahntechnische Anfertigungen und Apparaturen,
-
-- b. die für den Betrieb der Privatpraxis anfallenden direkten Kosten wie für Versicherungen, Mitgliedschaften, Bewilligungen und weitere mit der privatärztlichen Tätigkeit verbundene Gebühren.
-
-#### § 31
-
-**c. Obergrenze der privatärztlichen Nettoeinnahmen nach Abzug gemäss**
-
-<sup>1</sup> Die im Kalenderjahr erzielten privatärztlichen Nettoeinnahmen nach Abzug gemäss § 30 Abs. 1 unterliegen den folgenden finanziellen Obergrenzen:
-
-**Fr. 140 000,**
-
-- a. für Professorinnen und Professoren:
-
-**§ 30 Abs. 1**
-
-- b. für leitende Ärztinnen und leitende Ärzte sowie wissenschaftliche Abteilungsleiterinnen und wissenschaftliche Abteilungsleiter:
-
-**Fr. 120 000,**
-
-**Fr. 95 000.**
-
-- c. für Oberärztinnen und Oberärzte sowie Oberassistentinnen und Oberassistenten:
-
-<sup>2</sup> Der Betrag der Nettoeinnahmen nach Abzug gemäss § 30 Abs. 1, der die jeweilige Obergrenze übersteigt, fliesst in die Betriebsrechnung des ZZM und ist abzugeben.
-
-<sup>3</sup> Es besteht kein Anspruch auf Erzielung der finanziellen Obergrenze gemäss Abs. 1.
+[^29-1]: Aufgehoben durch URB vom 11. Dezember 2025 (OS 81, 29; ABl 2025-12-19). In Kraft seit 1. Januar 2026. 1. 4. 26 - 132 13
 
 ### 5. Abschnitt: Aufklärung und Information
 
@@ -534,10 +498,6 @@ Vor- und nachbehandelnde Zahnärztinnen und Zahnärzte sowie andere weiterbehand
 
 <sup>4</sup> Die Urheberschaft der Daten muss unmittelbar ersichtlich sein. Die Berichtigung einer Eintragung erfolgt durch entsprechende Ergänzung.
 
-**11**
-
-1.10. 23 - 122
-
 <sup>5</sup> Eintragungen müssen datiert, unabänderbar gespeichert und jederzeit abrufbar sein.
 
 <sup>6</sup> Patientinnen und Patienten können eine Ergänzung verlangen, wenn sie ein schützenswertes Interesse haben.
@@ -562,13 +522,13 @@ Vor- und nachbehandelnde Zahnärztinnen und Zahnärzte sowie andere weiterbehand
 
 <sup>3</sup> Die Herausgabe gemäss Abs. 2 kann mit Rücksicht auf schutzwürdige Interessen Dritter eingeschränkt werden.
 
-#### § 39
+**11**
 
-**Vernichtung oder Anonymisierung**
-
-Das ZZM vernichtet oder anonymisiert Patientendokumentationen, die weder archiviert noch herausgegeben werden.
+- 1\. 4. 26 - 132 § 39. Das ZZM vernichtet oder anonymisiert Patientendokumentationen, die weder archiviert noch herausgegeben werden.
 
 #### § 40
+
+**Vernichtung oder Anonymisierung**
 
 **Einsichtsrecht**
 
@@ -581,3 +541,27 @@ Das ZZM vernichtet oder anonymisiert Patientendokumentationen, die weder archivi
 <sup>4</sup> Für die Abgabe von Kopien aus Patientendokumentationen wird eine kostendeckende Gebühr erhoben.
 
 [^40-1]: SR 311.0.
+
+### 7. Abschnitt: Übergangsbestimmungen zur Änderung
+
+vom 11. Dezember 2025[^h7AbschnittÜberga-1]
+
+**Abgabesatz und Nettoeinnahmen im Jahr 2026**
+
+§ 41.[^h7AbschnittÜberga-1] <sup>1</sup> Der Abgabesatz aus der privatärztlichen Tätigkeit für das Jahr 2026 bis zu deren Aufhebung per 1. Januar 2027 beträgt 55% der Nettoeinnahmen. Bei erheblichen Einkommenseinbussen kann die Finanzdirektorin oder der Finanzdirektor den Abgabesatz reduzieren.
+
+<sup>2</sup> Zur Ermittlung der Nettoinnahmen sind die folgenden Kosten von den Gesamteinnahmen in Abzug zu bringen:
+
+- a. die externen Kosten für die Leistungserbringung, wie zahntechnische Anfertigungen und Apparaturen,
+
+- b. die für den Betrieb der Privatpraxis anfallenden direkten Kosten wie für Versicherungen, Mitgliedschaften, Bewilligungen und weitere mit der privatärztlichen Tätigkeit verbundene Gebühren.
+
+**Bewilligungen für die privatärztliche Tätigkeit**
+
+§ 42.[^h7AbschnittÜberga-1] <sup>1</sup> Es werden nur Gesuche um Bewilligung zur Ausübung der privatärztlichen Tätigkeit am ZZM bearbeitet, die bis und mit 31. Dezember 2025 bei der Direktion ZZM eingereicht wurden.
+
+<sup>2</sup> Die privatärztliche Tätigkeit im eigenen Namen und auf eigene Rechnung kann nur noch bis 31. Dezember 2026 ausgeübt werden.
+
+<sup>3</sup> Bewilligungen, die vor dem 1. Januar 2026 erteilt wurden, gelten noch bis zum 31. Dezember 2026.
+
+[^h7AbschnittÜberga-1]: Eingefügt durch URB vom 11. Dezember 2025 (OS 81, 29; ABl 2025-12-19). In Kraft seit 1. Januar 2026.
