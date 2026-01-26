@@ -5,10 +5,9 @@ title: Vollzugsverordnung zum Personalgesetz (VVO)
 short: VVO
 language: de
 version: "2026-01-01"
-nachtrag: "131"
-valid_until: 2026-01-26
+nachtrag: "132"
 adopted: 1999-05-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_111-1999_05_19-1999_07_01-131.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_111-1999_05_19-1999_07_01-132.html"
 text: pdf
 ---
 
@@ -24,7 +23,7 @@ Der Regierungsrat beschliesst:
 
 ### I. Allgemeine Bestimmungen
 
-[^hIAllgemeineBestim-1]: SR 412.10. 1. 1. 26 - 131 55
+[^hIAllgemeineBestim-1]: SR 412.10. 1. 4. 26 - 132 55
 
 #### § 1
 
@@ -54,7 +53,7 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Das Obergericht und das Verwaltungsgericht erlassen für ihre Bereiche entsprechende Richtlinien.<sup>36</sup>
 
@@ -142,7 +141,7 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **3**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 ### B. Begründung und Dauer
 
@@ -222,7 +221,7 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **5**
 
-- 1\. 1. 26 - 131 § 16.<sup>42</sup> <sup>1</sup> Ein sachlich zureichender Grund besteht namentlich, wenn
+- 1\. 4. 26 - 132 § 16.<sup>42</sup> <sup>1</sup> Ein sachlich zureichender Grund besteht namentlich, wenn
 
 **Sachlich zureichender Grund bei Kündigung durch den Kanton42**
 
@@ -284,7 +283,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **7**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Innerhalb des Rahmens werden die persönlichen Verhältnisse, die Arbeitsmarktchancen und die Umstände des Stellenverlusts berücksichtigt.
 
@@ -354,7 +353,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **9**
 
-- 1\. 1. 26 - 131 § 22.<sup>42</sup> <sup>1</sup> Das Personaldossier kann in ein Haupt- und in Nebendossiers unterteilt werden. Nebendossiers können insbesondere angelegt werden für den Lohn, Versicherungen, ärztliche Zeugnisse und Gutachten sowie für bestimmte Ereignisse. Nebendossiers können auch für Daten mehrerer Personen angelegt werden.
+- 1\. 4. 26 - 132 § 22.<sup>42</sup> <sup>1</sup> Das Personaldossier kann in ein Haupt- und in Nebendossiers unterteilt werden. Nebendossiers können insbesondere angelegt werden für den Lohn, Versicherungen, ärztliche Zeugnisse und Gutachten sowie für bestimmte Ereignisse. Nebendossiers können auch für Daten mehrerer Personen angelegt werden.
 
 **b. Gliederung und Inhalt**
 
@@ -434,7 +433,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **11**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 - f. für den Bezug von Familienzulagen: Name, Geburtsdatum und gesetzliche Vertreterin oder gesetzlicher Vertreter des Kindes, der oder dem die Familienzulage ausgerichtet wird,
 
@@ -510,7 +509,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **13**
 
-- 1\. 1. 26 - 131 § 33. <sup>1</sup> Die zur Festsetzung des Stellenplans zuständige Instanz kann ausnahmsweise im Stellenplan für eine Stelle einen Rahmen von höchstens drei Einreihungsklassen in höchstens zwei verschiedenen Richtpositionen festlegen. Dies gilt namentlich
+- 1\. 4. 26 - 132 § 33. <sup>1</sup> Die zur Festsetzung des Stellenplans zuständige Instanz kann ausnahmsweise im Stellenplan für eine Stelle einen Rahmen von höchstens drei Einreihungsklassen in höchstens zwei verschiedenen Richtpositionen festlegen. Dies gilt namentlich
 
 **Klassenrahmen**
 
@@ -600,7 +599,7 @@ Wo diese Verordnung auf Lohnklassen abstellt, ist die persönliche Lohnklasse de
 
 **15**
 
-- 1\. 1. 26 - 131 § 43. Die Finanzdirektion setzt im Rahmen ortsüblicher Mietzinse die Entschädigung für Räume fest, die Angestellte zur dienstlichen Verwendung zur Verfügung stellen.
+- 1\. 4. 26 - 132 § 43. Die Finanzdirektion setzt im Rahmen ortsüblicher Mietzinse die Entschädigung für Räume fest, die Angestellte zur dienstlichen Verwendung zur Verfügung stellen.
 
 **Von Angestellten gestellte Diensträume**
 
@@ -692,7 +691,7 @@ Der 13. Monatslohn wird jeweils im Dezember ausgerichtet.
 
 **17**
 
-- 1\. 1. 26 - 131 § 52. Kein Anspruch auf den 13. Monatslohn besteht auf:
+- 1\. 4. 26 - 132 § 52. Kein Anspruch auf den 13. Monatslohn besteht auf:
 
 **Ausnahmen vom Anspruch**
 
@@ -797,7 +796,7 @@ Die Teuerungszulage wird ausgerichtet auf a. Jahreslöhnen oder Teilen davon gem
 
 **19**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 [^hBFamilienzulagen-1]: Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 109; ABl 2009, 347). In Kraft seit 1. Januar 2009.
 [^hBFamilienzulagen-2]: Aufgehoben durch RRB vom 11. Februar 2009 (OS 64, 109; ABl 2009, 347). In Kraft seit 1. Januar 2009.
@@ -890,7 +889,7 @@ Bei Dienstreisen werden pro Tag Nebenauslagen pauschal gemäss folgenden Ansätz
 
 **21**
 
-- 1\. 1. 26 - 131 § 72. <sup>1</sup> Dienstreisen ins Ausland bedürfen der Bewilligung durch die Direktion, das zuständige oberste kantonale Gericht oder durch die dazu ermächtigten Ämter, Gerichte und Notariate. Den Anträgen sind ein detailliertes Programm und eine Kostenberechnung beizulegen.
+- 1\. 4. 26 - 132 § 72. <sup>1</sup> Dienstreisen ins Ausland bedürfen der Bewilligung durch die Direktion, das zuständige oberste kantonale Gericht oder durch die dazu ermächtigten Ämter, Gerichte und Notariate. Den Anträgen sind ein detailliertes Programm und eine Kostenberechnung beizulegen.
 
 **Auslandreisen**
 
@@ -996,7 +995,7 @@ Als Lohn im Sinne der Bestimmungen des VI. Abschnitts gelten der Grundlohn zuzü
 
 **23**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Sofern Angestellte während sechs zusammenhängender Monate wieder ihr volles Pensum geleistet haben, werden frühere Dienstaussetzungen wegen Krankheit und Unfall bei einer erneuten Dienstaussetzung für die Ferienkürzung nicht berücksichtigt.
 
@@ -1056,7 +1055,7 @@ Ereignis Urlaub a. Eigene Hochzeit 3 Arbeitstage b. Hochzeit eines eigenen Kinde
 
 **25**
 
-- 1\. 1. 26 - 131 Ereignis Urlaub
+- 1\. 4. 26 - 132 Ereignis Urlaub
 
 - f. Tod von Grosseltern, Ehegatten 1 Arbeitstag, im Falle der oder eingetragenen Partnerinnen Erledigung von Formali- und Partnern von Geschwistern, täten im Zusammenhang Geschwistern der Ehegattin, des mit dem Todesfall Ehegatten, der eingetragenen 2 Arbeitstage Partnerin oder des eingetragenen Partners, Enkeln, Tanten oder Onkeln
 
@@ -1122,7 +1121,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **27**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Die Direktionen, das zuständige oberste kantonale Gericht und das Notariatsinspektorat können im Einzelfall für weitere Ereignisse, wie zur Erholung im Anschluss an eine schwere Krankheit oder einen Unfall, sowie in Zweifelsfällen bezahlten Urlaub gewähren.[^91-1]
 
@@ -1195,7 +1194,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **29**
 
-- 1\. 1. 26 - 131 § 96 b.<sup>61</sup> <sup>1</sup> Stirbt die Mutter am Tag der Niederkunft oder während ihres Mutterschaftsurlaubs, hat der rechtliche Vater oder der rechtliche andere Elternteil Anspruch auf einen zusätzlichen Urlaub von 16 Wochen. Dieser Urlaub muss ab dem Tag nach dem Tod an aufeinanderfolgenden Tagen bezogen werden.
+- 1\. 4. 26 - 132 § 96 b.<sup>61</sup> <sup>1</sup> Stirbt die Mutter am Tag der Niederkunft oder während ihres Mutterschaftsurlaubs, hat der rechtliche Vater oder der rechtliche andere Elternteil Anspruch auf einen zusätzlichen Urlaub von 16 Wochen. Dieser Urlaub muss ab dem Tag nach dem Tod an aufeinanderfolgenden Tagen bezogen werden.
 
 **b. im Falle des Todes der Mutter**
 
@@ -1261,7 +1260,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **31**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>4</sup> Lediglich in begründeten Ausnahmefällen wird ein Case Management durchgeführt, wenn a. Mitarbeitende kurz vor dem Erreichen der Altersgrenze stehen,
 
@@ -1330,7 +1329,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **33**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Bei Nichtberufsunfällen, die wegen groben Selbstverschuldens oder durch Eingehen einer besonderen Gefährdung eingetreten sind, wird die Höhe der Lohnfortzahlung in der Regel im gleichen Verhältnis wie das Taggeld der obligatorischen Unfallversicherung gekürzt.
 
@@ -1410,7 +1409,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **35**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 ### F. Militär-, Schutz- und Zivildienst
 
@@ -1480,7 +1479,7 @@ Die Angestellten müssen bevorstehende Militär- und Schutz- und Zivildienstleis
 
 **37**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Teilzeitbeschäftigten wird unabhängig von der gewählten Regelarbeitszeit ein ihrem Beschäftigungsgrad entsprechender Anteil an Ruhetagen und Arbeitstagen mit reduzierter Sollzeit gewährt. Das Personalamt berechnet jeweils zu Jahresbeginn die auf solche Tage entfallenden Stunden.
 
@@ -1560,7 +1559,7 @@ Die Angestellten müssen bevorstehende Militär- und Schutz- und Zivildienstleis
 
 **39**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>4</sup> Als Überzeit gilt in jedem Fall die durch die Vorgesetzten angeordnete Beanspruchung an dienstfreien Tagen.
 
@@ -1640,7 +1639,7 @@ Die Direktionen oder die von ihnen hiezu ermächtigten Ämter können, soweit be
 
 **41**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Pikettdienst ist entweder Präsenzzeit am Arbeitsort oder Bereitschaft ausserhalb desselben.
 
@@ -1718,7 +1717,7 @@ Die Direktionen oder die von ihnen hiezu ermächtigten Ämter können, soweit be
 
 **43**
 
-- 1\. 1. 26 - 131 § 140. Angestellten können für Vorschläge administrativer oder technischer Verbesserungen Prämien ausgerichtet werden. Der Regierungsrat und die obersten kantonalen Gerichte regeln das Verfahren für die Einreichung, Prüfung und Prämierung solcher Vorschläge nach übereinstimmenden Grundsätzen.
+- 1\. 4. 26 - 132 § 140. Angestellten können für Vorschläge administrativer oder technischer Verbesserungen Prämien ausgerichtet werden. Der Regierungsrat und die obersten kantonalen Gerichte regeln das Verfahren für die Einreichung, Prüfung und Prämierung solcher Vorschläge nach übereinstimmenden Grundsätzen.
 
 **Betriebliches Vorschlagswesen**
 
@@ -1792,7 +1791,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **45**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>4</sup> Die Finanzdirektion schliesst mit der Vorsorgeeinrichtung oder einer anderen geeigneten Einrichtung eine Leistungsvereinbarung über die Durchführung der vertrauensärztlichen Untersuchungen aus dienstrechtlichen Gründen ab. Darin werden insbesondere die Kosten, der Datenschutz, der Umgang mit sowie die Fristen für vertrauensärztliche Gutachten geregelt.
 
@@ -1866,7 +1865,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **47**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 ### IX. Vollzug des Personalrechts
 
@@ -1926,7 +1925,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **49**
 
-- 1\. 1. 26 - 131 § 152. <sup>1</sup> Die Direktionen ordnen die Organisation und Betreuung des Personalwesens in ihrem Bereich. Sie bezeichnen eine Leiterin oder einen Leiter HR und regeln deren bzw. dessen Aufgaben bei der Zusammenarbeit mit den Organen der Revision sowie des Personalcontrollings.<sup>54</sup>
+- 1\. 4. 26 - 132 § 152. <sup>1</sup> Die Direktionen ordnen die Organisation und Betreuung des Personalwesens in ihrem Bereich. Sie bezeichnen eine Leiterin oder einen Leiter HR und regeln deren bzw. dessen Aufgaben bei der Zusammenarbeit mit den Organen der Revision sowie des Personalcontrollings.<sup>54</sup>
 
 **Leiterinnen und Leiter HR der Direktionen, Personaldienste**
 
@@ -2010,7 +2009,7 @@ Die zuständigen Direktionen legen mit Zustimmung der Finanzdirektion zusätzlic
 
 **51**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 ### C. Besondere Arbeitsverhältnisse
 
@@ -2057,7 +2056,7 @@ Die zuständigen Direktionen legen mit Zustimmung der Finanzdirektion zusätzlic
 
 <sup>4</sup> Der Lehrvertrag untersteht dem öffentlichen Recht, vorbehältlich der zwingenden Bestimmungen des Schweizerischen Obligationenrechts[^162-2].
 
-[^162-1]: SR 412.10. 1. 1. 26 - 131 55
+[^162-1]: SR 412.10. 1. 4. 26 - 132 55
 [^162-2]: SR 220.
 
 ### XI. Übergangs- und Schlussbestimmungen
@@ -2104,7 +2103,7 @@ Arbeitsverhältnisse, die bei der kantonalen<sup>42</sup> Zentral- und Bezirksve
 
 **53**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Frühere Weisungen und Richtlinien der Personalkommission gelten bis zum Erlass sie ersetzender Bestimmungen weiter, sofern sie dem Personalgesetz[^167-2], der Personalverordnung[^167-3] und dieser Verordnung nicht widersprechen.
 
@@ -2220,7 +2219,7 @@ Die Änderung vom 10. Januar 2024 ist anwendbar auf Todesfälle, die sich ab dem
 
 **57**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 <sup>56</sup> Eingefügt durch RRB vom 25. November 2020 (OS 77, 141; ABl 2021-12-04). In Kraft seit 1. Juli 2022.
 
@@ -2243,6 +2242,8 @@ Die Änderung vom 10. Januar 2024 ist anwendbar auf Todesfälle, die sich ab dem
 <sup>65</sup> Fassung gemäss RRB vom 1. Oktober 2025 (OS 80, 294; ABl 2025-10-17). In Kraft seit 1. Januar 2026.
 
 <sup>66</sup> Aufgehoben durch RRB vom 1. Oktober 2025 (OS 80, 294; ABl 2025-10-17). In Kraft seit 1. Januar 2026.
+
+<sup>67</sup> Fassung gemäss RRB vom 24. September 2025 (OS 81, 2; ABl 2025-10-03). In Kraft seit 1. Januar 2026.
 
 ### Anhang 1: Einreihungsplan
 
@@ -2280,7 +2281,7 @@ Betriebsangestellte/r Büroangestellte/r Facharbeiter/in Hauswirtschaftliche/r A
 
 **59**
 
-- 1\. 1. 26 - 131
+- 1\. 4. 26 - 132
 
 [^hKlasse6hKlasse5hK-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2316,7 +2317,7 @@ Bibliothekar/in Chauffeur/Chauffeuse Dokumentalist/in Equipenchef/in Fachfrau/Fa
 
 **61**
 
-- 1\. 1. 26 - 131 Koch/Köchin Laborant/in Landwirtschaftliche/r Angestellte/r Magazinchef/in Medizinische/r Praxisassistent/in Medizinisch-Technische/r Assistent/in Notariatssekretär/in Pflegeassistent/in Portier mbA Sicherheitsangestellte/r Strassenwärter/in Technische/r Assistent/in Therapieassistent/in Tierpfleger/in Verwaltungssekretär/in Wasserbauarbeiter/in Weibel/in
+- 1\. 4. 26 - 132 Koch/Köchin Laborant/in Landwirtschaftliche/r Angestellte/r Magazinchef/in Medizinische/r Praxisassistent/in Medizinisch-Technische/r Assistent/in Notariatssekretär/in Pflegeassistent/in Portier mbA Sicherheitsangestellte/r Strassenwärter/in Technische/r Assistent/in Therapieassistent/in Tierpfleger/in Verwaltungssekretär/in Wasserbauarbeiter/in Weibel/in
 
 [^hKlasse10hKlasse9h-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2344,7 +2345,7 @@ Abteilungstierpfleger/in Aspirant des Polizeikorps Aufseher/in Bibliothekar/in m
 
 **63**
 
-- 1\. 1. 26 - 131 Chauffeur/Chauffeuse mbA Diplomierte/r Pflegefachfrau/-mann Diplomniveau I Dokumentalist/in mbA Fachfrau/Fachmann Betreuung mbA Fachfrau/-mann Gesundheit mbA Forstwart/in mbA Gruppenchef/in Handwerkermeister/in Hausmeister/in Hauswirtschaftliche/r Betriebsleiter/in Informatiker/in mbA Koch/Köchin mbA Krankenpfleger/in FA SRK mbA Laborant/in Laborant/in mbA Landwirtschaftliche/r Angestellte/r mbA Magazinchef/in Medizinisch-Technische/r Assistent/in Medizinisch-Technische/r Assistent/in mbA Notariatssekretär/in mbA Obergärtner/in Personalassistent/in Personalfachverantwortliche/r Rechnungsführer/in Rettungssanitäter/in Spezialhandwerker/in Techniker/in Therapeut/in Verwaltungsassistent/in Verwaltungssekretär/in mbA Vorarbeiter/in
+- 1\. 4. 26 - 132 Chauffeur/Chauffeuse mbA Diplomierte/r Pflegefachfrau/-mann Diplomniveau I Dokumentalist/in mbA Fachfrau/Fachmann Betreuung mbA Fachfrau/-mann Gesundheit mbA Forstwart/in mbA Gruppenchef/in Handwerkermeister/in Hausmeister/in Hauswirtschaftliche/r Betriebsleiter/in Informatiker/in mbA Koch/Köchin mbA Krankenpfleger/in FA SRK mbA Laborant/in Laborant/in mbA Landwirtschaftliche/r Angestellte/r mbA Magazinchef/in Medizinisch-Technische/r Assistent/in Medizinisch-Technische/r Assistent/in mbA Notariatssekretär/in mbA Obergärtner/in Personalassistent/in Personalfachverantwortliche/r Rechnungsführer/in Rettungssanitäter/in Spezialhandwerker/in Techniker/in Therapeut/in Verwaltungsassistent/in Verwaltungssekretär/in mbA Vorarbeiter/in
 
 [^hKlasse13hKlasse12-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2364,7 +2365,7 @@ Aktivierungsfachfrau/-mann HF Arbeitsagoge/-agogin Aufseher/in mbA Ausbildner/in
 
 **65**
 
-- 1\. 1. 26 - 131 Fachfrau/-mann Operationstechnik HF Fischereiaufseher/in Förster/in HF Gruppenchef/in Handwerkermeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Hebamme mbA Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Korporal des Polizeikorps Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obergärtner/in Obertierpfleger/in Orthoptist/in HF Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF Rechnungssekretär/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA
+- 1\. 4. 26 - 132 Fachfrau/-mann Operationstechnik HF Fischereiaufseher/in Förster/in HF Gruppenchef/in Handwerkermeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Hebamme mbA Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Korporal des Polizeikorps Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obergärtner/in Obertierpfleger/in Orthoptist/in HF Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF Rechnungssekretär/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA
 
 [^hKlasse15hKlasse14-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2376,7 +2377,7 @@ Adjunkt/in Aktivierungsfachfrau/-mann HF mbA Architekt/in Assistenzstaatsanwalt/
 
 **67**
 
-- 1\. 1. 26 - 131 Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Wachtmeister des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+- 1\. 4. 26 - 132 Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Wachtmeister des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
 
 [^hKlasse16hKlasse15-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2396,7 +2397,7 @@ Abteilungschef/in Adjunkt/in Architekt/in Assistent/in Assistenzstaatsanwalt/-an
 
 **69**
 
-- 1\. 1. 26 - 131 Küchenchef/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notariatsassistent/in Notar/-Stellvertreter/in Organisator/in Personalbereichsleiter/in Pflegeexperte/-in Physiotherapeut/in FH mbA Psychologe/-login Rechnungssekretär/in Revisor/in Sanitätschef/in Sektorleiter/in Sozialarbeiter/in mbA Sozialpädagoge/-pädagogin FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+- 1\. 4. 26 - 132 Küchenchef/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notariatsassistent/in Notar/-Stellvertreter/in Organisator/in Personalbereichsleiter/in Pflegeexperte/-in Physiotherapeut/in FH mbA Psychologe/-login Rechnungssekretär/in Revisor/in Sanitätschef/in Sektorleiter/in Sozialarbeiter/in mbA Sozialpädagoge/-pädagogin FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
 
 [^hKlasse18hKlasse17-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2416,7 +2417,7 @@ Abteilungschef/in Adjutant des Polizeikorps Adjunkt/in Architekt/in Assistenzarz
 
 **71**
 
-- 1\. 1. 26 - 131 Gerichtsschreiber/in an einem obersten kantonalen Gericht Gerichtsschreiber/in an einem Rekursgericht Habilitierte/r Oberassistent/in Informatik-Controller/in Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Juristische/r Sekretär/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in biomedizinische Analytik Leiter/in des Pflegedienstes Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Therapie Notar/-Stellvertreter/in Oberassistent/in Organisator/in Personalbereichsleiter/in Pflegewissenschafter/in Physiowissenschafter/in Psychologe/-login Revisor/in Schulleiter/in Spitalarzt/-ärztin Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+- 1\. 4. 26 - 132 Gerichtsschreiber/in an einem obersten kantonalen Gericht Gerichtsschreiber/in an einem Rekursgericht Habilitierte/r Oberassistent/in Informatik-Controller/in Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Juristische/r Sekretär/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in biomedizinische Analytik Leiter/in des Pflegedienstes Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Therapie Notar/-Stellvertreter/in Oberassistent/in Organisator/in Personalbereichsleiter/in Pflegewissenschafter/in Physiowissenschafter/in Psychologe/-login Revisor/in Schulleiter/in Spitalarzt/-ärztin Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
 
 [^hKlasse20hKlasse19-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2436,7 +2437,7 @@ Abteilungschef/in Adjunkt/in mbA Architekt/in mbA Chef/in des Rechnungswesens Ch
 
 **73**
 
-- 1\. 1. 26 - 131 Leitende/r Psychologe/-login Leiter/in des Pflegedienstes Notar/in Notar/in-Stellvertreter/in Oberarzt/-ärztin Oberleutnant des Polizeikorps Revisor/in mbA Spitalarzt/-ärztin Stellvertreter/in des/der Betreibungsinspektors/-inspektorin Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
+- 1\. 4. 26 - 132 Leitende/r Psychologe/-login Leiter/in des Pflegedienstes Notar/in Notar/in-Stellvertreter/in Oberarzt/-ärztin Oberleutnant des Polizeikorps Revisor/in mbA Spitalarzt/-ärztin Stellvertreter/in des/der Betreibungsinspektors/-inspektorin Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
 
 [^hKlasse22hKlasse21-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2472,7 +2473,7 @@ Abteilungspräsident/in des Steuerrekursgerichts Amtschef/in Bezirksrichter/in G
 
 **75**
 
-- 1\. 1. 26 - 131 Oberjugendanwalt/-anwältin Sonderstaatsanwalt/-anwältin Stellvertreter/in des/der Generalsekretärs/-sekretärin Verwaltungsdirektor/in
+- 1\. 4. 26 - 132 Oberjugendanwalt/-anwältin Sonderstaatsanwalt/-anwältin Stellvertreter/in des/der Generalsekretärs/-sekretärin Verwaltungsdirektor/in
 
 [^hKlasse26hKlasse25-1]: Fassung gemäss RRB vom 8. Dezember 2004 (OS 59, 451). In Kraft seit 1. Januar 2005.
 
@@ -2494,7 +2495,7 @@ Amtschef/in Chefarzt/-ärztin Generalsekretär/in Oberstleutnant des Polizeikorp
 
 **77**
 
-Chef/in des Steueramtes Kommandant/in (Oberst) des Polizeikorps Leitende/r Oberstaatsanwalt/-anwältin Staatsschreiber/in 1. 1. 26 - 131
+Chef/in des Steueramtes Kommandant/in (Oberst) des Polizeikorps Leitende/r Oberstaatsanwalt/-anwältin Staatsschreiber/in 1. 4. 26 - 132
 
 ## Weitere Fussnoten
 
