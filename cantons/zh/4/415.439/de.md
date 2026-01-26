@@ -4,10 +4,10 @@ number: "415.439"
 title: Verordnung über das Institut für Rechtsmedizin der Universität Zürich (V-IRM)
 short: V-IRM
 language: de
-nachtrag: "129"
-valid_until: 2026-01-26
+version: "2026-01-01"
+nachtrag: "132"
 adopted: 2024-12-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_439-2024_12_12-2025_08_01-129.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_439-2024_12_12-2025_08_01-132.html"
 text: pdf
 ---
 
@@ -71,7 +71,7 @@ Das IRM gliedert sich in rechtsmedizinische Einheiten und verfügt über einen z
 
 **1**
 
-- 1\. 7. 25 - 129
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Dienstleistungen sind in der Regel mindestens kostendeckend in Rechnung zu stellen (§ 15 Finanzreglement der Universität Zürich[^3-1].
 
@@ -87,15 +87,17 @@ Das IRM gliedert sich in rechtsmedizinische Einheiten und verfügt über einen z
 
 <sup>1</sup> Das IRM verfügt über ein Aufsichtsgremium. Dieses beaufsichtigt die strategische und finanzielle Führung des IRM.
 
-<sup>2</sup> Es setzt sich zusammen aus der Direktorin oder dem Direktor Universitäre Medizin Zürich (UMZH), der Dekanin oder dem Dekan der MeF, der Leitung Finanzen und Controlling der MeF und der UMZH sowie der Direktorin oder dem Direktor Finanzen der Universität.
+<sup>2</sup> Das Aufsichtsgremium setzt sich zusammen aus der Dekanin oder dem Dekan der MeF, einer weiteren Vertretung aus dem Fakultätsvorstand der MeF, einer Vertretung der Direktion Finanzen der UZH sowie mindestens einer oder einem von der Universitätsleitung eingesetzten Expertin oder Experten aus dem rechtsmedizinischen oder betriebswirtschaftlichen Bereich.[^4-1]
 
 <sup>3</sup> Die Dekanin oder der Dekan führt den Vorsitz im Aufsichtsgremium.
 
-<sup>4</sup> Das Aufsichtsgremium bestimmt für jedes seiner Mitglieder eine Stellvertretung im Rahmen der geltenden organisationsrechtlichen Vorgaben.
+<sup>4</sup> Die Stellvertretungen der Mitglieder werden im Rahmen der geltenden organisationsrechtlichen Vorgaben gewährleistet.[^4-1]
 
 <sup>5</sup> Die Mitglieder der Direktion IRM nehmen mit beratender Stimme an den Sitzungen des Aufsichtsgremiums teil.
 
 <sup>6</sup> Das Aufsichtsgremium kann sachverständige Personen als ständige Gäste oder für einzelne Geschäfte mit beratender Stimme beiziehen.
+
+[^4-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 32; ABl 2025-12-19). In Kraft seit 1. Januar 2026. 1. 4. 26 - 132 9
 
 #### § 5
 
@@ -169,7 +171,7 @@ Das IRM gliedert sich in rechtsmedizinische Einheiten und verfügt über einen z
 
 **3**
 
-- 1\. 7. 25 - 129
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Sie oder er ist insbesondere zuständig für folgende Aufgaben:
 
@@ -273,7 +275,7 @@ Während der Ausübung ihrer oder seiner Funktion als Direktorin oder Direktor I
 
 **5**
 
-- 1\. 7. 25 - 129
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Sie ist abschliessend zuständig für:
 
@@ -379,7 +381,7 @@ Die Institutsleitung, die Institutsversammlung und die Kommissionen beschliessen
 
 **7**
 
-- 1\. 7. 25 - 129 § 26. <sup>1</sup> Die Erteilung von Informationen an Auftraggebende erfolgt gemäss den massgeblichen Rechtsgrundlagen bzw. im Rahmen eines Auftrags.
+- 1\. 4. 26 - 132 § 26. <sup>1</sup> Die Erteilung von Informationen an Auftraggebende erfolgt gemäss den massgeblichen Rechtsgrundlagen bzw. im Rahmen eines Auftrags.
 
 **b. gegenüber den Auftraggebenden und Dritten**
 
@@ -388,7 +390,7 @@ Die Institutsleitung, die Institutsversammlung und die Kommissionen beschliessen
 <sup>3</sup> Informationen aufgrund gesetzlicher Meldepflichten und -rechte oder einer Entbindung vom Amts- und Berufsgeheimnis gemäss Art. 320 und 321 des Schweizerischen Strafgesetzbuches (StGB)[^25-1] bleiben vorbehalten.
 
 [^25-1]: SR 311.0.
-[^25-2]: SR 810.30. 1. 7. 25 - 129 9
+[^25-2]: SR 810.30.
 
 #### § 27
 
