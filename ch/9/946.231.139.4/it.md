@@ -3,28 +3,28 @@ sr: "946.231.139.4"
 title: Ordinanza del 16 dicembre 2022 che istituisce provvedimenti concernenti Haiti
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/823"
 language: it
-version: 2023-06-01
+version: 2026-01-28
 adopted: 2022-12-16
 in_force: 2022-12-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/823/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2022-823-20230601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/823/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/823/20260128/it/xml/fedlex-data-admin-ch-eli-cc-2022-823-20260128-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/823/20260128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti concernenti Haiti
 
-del 16 dicembre 2022 (Stato 1° giugno 2023)
+del 16 dicembre 2022 (Stato 28 gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 2653 (2022) e 2664 (2022)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
+visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (LEmb); in esecuzione delle risoluzioni 2653 (2022), 2664 (2022), 2699 (2023) e 2752 (2024)[^ingress-2] del Consiglio di sicurezza delle Nazioni Unite,[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^ingress-3]: Nuovo testo giusta il n. I 1 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](https://main.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 ## Sezione 1: Definizioni
 
@@ -41,11 +41,22 @@ Ai sensi della presente ordinanza si intende per:
 
 #### Art. 2
 
-**Divieto di fornire materiale d’armamento e materiale affine**
+**Divieto di fornire materiale d’armamento e materiale affine**[^2-1]
 
-<sup>1</sup> Sono vietati la vendita, la fornitura, l’esportazione e il transito di materiale d’armamento di ogni genere, comprese armi e munizioni, veicoli ed equipaggiamento militari, attrezzature paramilitari nonché relativi accessori e pezzi di ricambio alle persone fisiche e giuridiche, ai gruppi e alle organizzazioni menzionate nell’allegato o a loro beneficio.
+<sup>1</sup> Sono vietati la vendita, la fornitura, l’esportazione e il transito a destinazione di Haiti di materiale d’armamento di ogni genere, compresi armi e munizioni, veicoli ed equipaggiamento militari, attrezzature paramilitari nonché relativi accessori e pezzi di ricambio.
 
-<sup>2</sup> Sono vietati la fornitura di servizi di ogni genere, compresi i servizi finanziari, i servizi di mediazione, la consulenza tecnica e la concessione di mezzi finanziari in relazione con la vendita, la fornitura, l’esportazione, il transito, la fabbricazione, la manutenzione o l’impiego di materiale d’armamento di ogni genere, o in relazione ad attività militari, compresa la messa a disposizione di mercenari armati alle persone fisiche e giuridiche, ai gruppi e alle organizzazioni menzionate nell’allegato.
+<sup>2</sup> È vietata la fornitura a destinazione di Haiti di servizi di ogni genere, compresi i servizi finanziari, i servizi di mediazione, l’assistenza tecnica e la concessione di mezzi finanziari, in relazione con la vendita, la fornitura, l’esportazione, il transito, la fabbricazione, la manutenzione o l’impiego di materiale d’armamento di ogni genere, o in relazione ad attività militari.
+
+<sup>3</sup>
+
+I divieti di cui ai capoversi 1 e 2 non si applicano:
+
+- a. alla vendita, alla fornitura, all’esportazione o al transito di beni a destinazione delle Nazioni Unite o delle missioni o dei servizi di sicurezza autorizzati dalle Nazioni Unite che sottostanno al comando del Governo haitiano, nonché alla relativa assistenza tecnica o formazione, a condizione che servano esclusivamente alla promozione della pace e della stabilità ad Haiti;
+- b. alla fornitura di equipaggiamento militare non letale destinato esclusivamente a scopi umanitari o di protezione, nonché alla relativa assistenza tecnica o formazione, a condizione che servano esclusivamente a promuovere la pace e la stabilità ad Haiti.
+
+<sup>4</sup> D’intesa con i servizi competenti del Dipartimento federale degli affari esteri (DFAE), e previa approvazione da parte del comitato competente del Consiglio di sicurezza delle Nazioni Unite, la Segreteria di Stato dell’economia (SECO) può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 #### Art. 3
 
@@ -55,9 +66,9 @@ Ai sensi della presente ordinanza si intende per:
 
 Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo diretto o indiretto:
 
-- a. delle persone fisiche, imprese e organizzazioni menzionate nell’allegato;
-- b. delle persone fisiche, imprese e organizzazioni che agiscono in nome o per conto delle persone fisiche, imprese e organizzazioni di cui alla lettera a;
-- c. delle imprese e organizzazioni di proprietà o sotto il controllo delle persone fisiche, imprese e organizzazioni di cui alle lettere a o b.
+- a. delle persone fisiche, imprese e organizzazioni menzionate negli allegati 1 e 2;
+- b. delle persone fisiche, imprese e organizzazioni che agiscono in nome o per conto delle persone fisiche, imprese o organizzazioni di cui agli allegati 1 e 2;
+- c. delle imprese e organizzazioni di proprietà o sotto il controllo delle persone fisiche, imprese o organizzazioni di cui alle lettere a o b.[^3-1]
 
 <sup>2</sup> È vietato trasferire averi alle persone fisiche, imprese o organizzazioni che sottostanno al blocco degli averi, oppure mettere a loro disposizione, direttamente o indirettamente, averi o risorse economiche.
 
@@ -70,36 +81,91 @@ Il divieto di cui al capoverso 2 non si applica alla fornitura di aiuti umanitar
 - c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
 - d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
 - e. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a−d nella misura in cui agiscono in tale veste;
-- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^3-1]
+- f. ogni altro soggetto designato dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^3-2]
 
-<sup>4</sup>
+<sup>4</sup> Il divieto di cui al capoverso 2 non si applica al trasferimento di averi e alla messa a disposizione di averi o risorse economiche a favore di persone fisiche, imprese o organizzazioni di cui all’allegato 2 se ciò è necessario per lo svolgimento di attività umanitarie da parte di organismi pubblici o di imprese e organizzazioni che ricevono a tal fine un finanziamento dalla Confederazione.[^3-3]
 
-La Segreteria di Stato dell’economia (SECO) può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
+<sup>5</sup>
 
-- a. prevenire casi di rigore;
-- b. rispettare contratti esistenti; o
-- c. onorare crediti oggetto di una misura o di una sentenza giudiziaria, amministrativa o arbitrale.[^3-2]
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
 
-<sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze nonché, se del caso, previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità alle decisioni di tale comitato.[^3-3]
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti a persone fisiche, imprese e organizzazioni di cui all’allegato 2, effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo (SEE) o nel Regno Unito.[^3-4]
 
-[^3-1]: Nuovo testo giusta il n. I 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^3-2]: Nuovo testo giusta il n. I 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^3-3]: Nuovo testo giusta il n. I 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+<sup>6</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^3-5]
 
-#### Art. 4
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+[^3-2]: Nuovo testo giusta la cifra I n. 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+[^3-5]: Introdotto dalla cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
-**Divieto di entrata e di transito**
+#### Art. 3a
 
-<sup>1</sup> L’entrata o il transito in Svizzera sono vietati alle persone fisiche elencate nell’allegato.
+**Disposizioni derogatorie concernenti averi o risorse economiche bloccati**[^3a-1]
+
+<sup>1</sup> La SECO può eccezionalmente autorizzare la liberazione di determinati averi o risorse economiche bloccati o la messa a disposizione di determinati averi o risorse economiche per prevenire casi di rigore.
 
 <sup>2</sup>
 
-La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
+La SECO può eccezionalmente autorizzare la liberazione di determinati averi o risorse economiche bloccati di una persona fisica, un’impresa o un’organizzazione di cui all’allegato 1 per:
 
-- a. se l’entrata o il transito sono necessari ai fini di una procedura giudiziaria;
-- b. in conformità con il paragrafo 5 della risoluzione 2653 (2022) e con le decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite[^4-1].
+- a. rispettare contratti esistenti;
+- b.
 
-[^4-1]: Nuova espressione giusta il n. I 8 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
+  onorare crediti oggetto di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, o
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria.
+
+<sup>3</sup>
+
+La SECO può eccezionalmente autorizzare la liberazione di determinati averi o risorse economiche bloccati di una persona fisica, un’impresa o un’organizzazione di cui all’allegato 2 per:
+
+- a. rispettare contratti esistenti;
+- b.
+
+  onorare crediti oggetto di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, o
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello SEE o nel Regno Unito.
+
+<sup>4</sup>
+
+La SECO può eccezionalmente autorizzare la liberazione di determinati averi o risorse economiche bloccati o la messa a disposizione di determinati averi o risorse economiche a favore di una persona fisica, un’impresa o un’organizzazione di cui all’allegato 2 per:
+
+- a. svolgere attività umanitarie o altre attività volte a soddisfare bisogni umani fondamentali;
+- b. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari o di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
+- c. tutelare interessi svizzeri.
+
+<sup>5</sup> La SECO autorizza le deroghe di cui ai capoversi 1–4 d’intesa con i servizi competenti del DFAE e del Dipartimento federale delle finanze nonché, se del caso, previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità alle decisioni di tale comitato.
+
+[^3a-1]: Introdotto dalla cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+
+#### Art. 4
+
+**Divieto di entrata e di transito**[^4-1]
+
+<sup>1</sup> L’entrata e il transito in Svizzera sono vietati alle persone fisiche di cui agli allegati 1 e 2.
+
+<sup>2</sup>
+
+La Segreteria di Stato della migrazione (SEM) può concedere deroghe per le persone fisiche di cui all’allegato 1:
+
+- a. se l’entrata o il transito sono necessari per partecipare a un procedimento giudiziario; o
+- b. in conformità con il paragrafo 5 della risoluzione 2653 (2022) del Consiglio di sicurezza delle Nazioni Unite e con le decisioni del comitato competente del Consiglio di sicurezza delle Nazioni Unite.
+
+<sup>3</sup>
+
+La SEM può autorizzare deroghe per le persone fisiche di cui all’allegato 2:
+
+- a. per motivi umanitari comprovati;
+- b. per la partecipazione a conferenze internazionali o a un dialogo politico riguardanti Haiti;
+- c. per la partecipazione a procedimenti giudiziari; o
+- d. per tutelare interessi svizzeri.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 ## Sezione 3: Esecuzione e disposizioni penali
 
@@ -117,11 +183,17 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 #### Art. 6
 
-**Dichiarazioni obbligatorie**
+**Dichiarazioni obbligatorie**[^6-1]
 
-<sup>1</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 3 capoverso 1 sono tenute a dichiararlo senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 3 capoverso 1 sono tenute a dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
+
+<sup>3</sup> Gli accrediti secondo l’articolo 3 capoverso 6 devono essere dichiarati senza indugio alla SECO.
+
+<sup>4</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 #### Art. 7
 
@@ -133,13 +205,17 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 <sup>3</sup> Le infrazioni di cui agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; quest’ultima può ordinare sequestri e confische.
 
-## Sezione 4: Recepimento automatico
+## Sezione 4: Recepimento automatico e pubblicazione
+
+[^sec4-1]
+
+[^sec4-1]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 #### Art. 8
 
-<sup>1</sup> Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite (allegato), sono recepite automaticamente.
+<sup>1</sup> Le liste delle persone fisiche, imprese e organizzazioni emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite sono recepite automaticamente nell’allegato 1.
 
-<sup>2</sup> La pubblicazione delle voci di cui all’allegato non è prevista né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
+<sup>2</sup> Il contenuto dell’allegato 2 è pubblicato nella Raccolta ufficiale delle leggi federali (RU) e nella Raccolta sistematica del diritto federale (RS) soltanto mediante rimando.
 
 ## Sezione 5: Entrata in vigore
 
@@ -147,16 +223,26 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 La presente ordinanza entra in vigore il 16 dicembre 2022 alle ore 18.00.
 
-Allegato
+Allegato 1[^t-1]
 
-(art. 2, 3 cpv. 1 e 4)
+(art. 3 cpv. 1 lett. a, 3*a* cpv. 2, 5 cpv. 1 e 2, nonché 8 cpv. 1)
 
-## Persone fisiche soggette alle sanzioni finanziarie, al divieto di entrata e di transito e al divieto di fornire armamenti; imprese e organizzazioni soggette alle sanzioni finanziarie e al divieto di fornire armamenti
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito, nonché imprese e organizzazioni soggette alle sanzioni finanziarie
+
+[^t-1]: Originario allegato. Nuovo testo giusta la cifra II cpv. 1 dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 Nota bene
 
-- 1\. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.[^annexu1-lvlu1-1]
-- 2\. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite.[^annexu1-lvlu1-2]
+- 1\. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite.
+- 2\. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite.
 
-[^annexu1-lvlu1-1]: La lista può essere consultata al seguente indirizzo Internet: [www.un.org/fr/sc](http://www.un.org/fr/sc) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 2653 (Haïti) &gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Economia esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+Allegato 2[^t-2]
+
+(art. 3 cpv. 1 lett. a, 4 e 5 lett. c, 3*a* cpv. 3 e 4, 5 cpv. 1 e 3, nonché 8 cpv. 2)
+
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito, nonché imprese e organizzazioni soggette alle sanzioni finanziarie
+
+[^annex2-lvlu1-1]
+
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 28 gen. 2026, in vigore dal 28 gen. 2026 alle ore 23.00 ([RU 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/44](https://fedlex.data.admin.ch/eli/oc/2026/44) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

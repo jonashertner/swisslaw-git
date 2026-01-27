@@ -3,28 +3,28 @@ sr: "946.231.139.4"
 title: Verordnung vom 16. Dezember 2022 über Massnahmen betreffend Haiti
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/823"
 language: de
-version: 2023-06-01
+version: 2026-01-28
 adopted: 2022-12-16
 in_force: 2022-12-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/823/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2022-823-20230601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/823/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/823/20260128/de/xml/fedlex-data-admin-ch-eli-cc-2022-823-20260128-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/823/20260128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen betreffend Haiti
 
-vom 16. Dezember 2022 (Stand am 1. Juni 2023)
+vom 16. Dezember 2022 (Stand am 28. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 2653 (2022) und 2664 (2022)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
+gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG), in Ausführung der Resolutionen 2653 (2022), 2664 (2022), 2699 (2023) und 2752 (2024)[^ingress-2] des Sicherheitsrats der Vereinten Nationen,[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^ingress-3]: Fassung gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter [www.un.org/securitycouncil/fr](https://main.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 ## 1. Abschnitt: Begriffe
 
@@ -41,11 +41,22 @@ In dieser Verordnung bedeuten:
 
 #### Art. 2
 
-**Verbot der Lieferung von Rüstungsgütern und verwandtem Material**
+**Verbot der Lieferung von Rüstungsgütern und verwandtem Material**[^2-1]
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Zubehör und Ersatzteilen dafür an oder zugunsten im Anhang aufgeführte natürliche und juristische Personen, Gruppen und Organisationen sind verboten.
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie von Zubehör und Ersatzteilen dafür nach Haiti sind verboten.
 
-<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten, technischer Beratung und die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Herstellung, der Wartung oder der Verwendung von Rüstungsgütern aller Art sowie im Zusammenhang mit militärischen Aktivitäten, einschliesslich der Bereitstellung bewaffneter Söldner, zugunsten von im Anhang aufgeführten natürlichen und juristischen Personen, Gruppen und Organisationen sind verboten.
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten, technischer Unterstützung und der Gewährung von Finanzmitteln, im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Herstellung, der Wartung oder der Verwendung von Rüstungsgütern aller Art sowie im Zusammenhang mit militärischen Aktivitäten in Haiti ist verboten.
+
+<sup>3</sup>
+
+Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
+
+- a. den Verkauf, die Lieferung, die Ausfuhr oder die Durchfuhr von Gütern an die Vereinten Nationen oder an von den Vereinten Nationen autorisierte Missionen oder Sicherheitsdienste, die dem Kommando der haitischen Regierung unterstehen, sowie die damit zusammenhängende technische Unterstützung oder Ausbildung, sofern dies ausschliesslich der Förderung des Friedens und der Stabilität in Haiti dient;
+- b. die Lieferung nichtletaler militärischer Ausrüstung, die ausschliesslich für humanitäre oder Schutzzwecke bestimmt ist, sowie die damit zusammenhängende technische Unterstützung oder Ausbildung, sofern dies ausschliesslich der Förderung des Friedens und der Stabilität in Haiti dient.
+
+<sup>4</sup> Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und nach Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 #### Art. 3
 
@@ -55,9 +66,9 @@ In dieser Verordnung bedeuten:
 
 Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter direkter oder indirekter Kontrolle befinden von:
 
-- a. im Anhang aufgeführten natürlichen Personen, Unternehmen und Organisationen;
-- b. natürlichen Personen, Unternehmen und Organisationen, die im Namen oder auf Anweisung der natürlichen Personen, Unternehmen und Organisationen nach Buchstabe a handeln;
-- c. Unternehmen und Organisationen, die sich im Eigentum oder unter Kontrolle der natürlichen Personen, Unternehmen und Organisationen nach Buchstabe a oder b befinden.
+- a. natürlichen Personen, Unternehmen und Organisationen nach den Anhängen 1 und 2;
+- b. natürlichen Personen, Unternehmen und Organisationen, die im Namen oder auf Anweisung der natürlichen Personen, Unternehmen und Organisationen nach den Anhängen 1 und 2 handeln;
+- c. Unternehmen und Organisationen, die sich im Eigentum oder unter Kontrolle der natürlichen Personen, Unternehmen und Organisationen nach Buchstabe a oder b befinden.[^3-1]
 
 <sup>2</sup> Es ist verboten, den von der Sperrung betroffenen natürlichen Personen, Unternehmen und Organisationen Gelder zu überweisen oder ihnen Gelder und wirtschaftliche Ressourcen direkt oder indirekt zur Verfügung zu stellen.
 
@@ -70,36 +81,91 @@ Das Verbot nach Absatz 2 gilt nicht für die Erbringung humanitärer Hilfe und f
 - c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
 - d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
 - e. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−d genannten Organisationen, soweit sie in dieser Eigenschaft handeln;
-- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^3-1]
+- f. alle weiteren vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bestimmten Akteure.[^3-2]
 
-<sup>4</sup>
+<sup>4</sup> Das Verbot nach Absatz 2 gilt nicht für die Überweisung von Geldern und das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen an natürliche Personen, Unternehmen oder Organisationen nach Anhang 2, wenn dies erforderlich ist für die Durchführung humanitärer Aktivitäten durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung solcher Aktivitäten Beiträge des Bundes erhalten.[^3-3]
 
-Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+<sup>5</sup>
 
-- a. Vermeidung von Härtefällen;
-- b. Erfüllung bestehender Verträge; oder
-- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden gerichtlichen, administrativen oder schiedsgerichtlichen Massnahme oder Entscheidung sind.[^3-2]
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
 
-<sup>5</sup> Es bewilligt Ausnahmen nach Absatz 4 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees.[^3-3]
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen an natürliche Personen, Unternehmen und Organisationen nach Anhang 2 aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem Europäischen Wirtschaftsraum (EWR) oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^3-4]
 
-[^3-1]: Fassung gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+<sup>6</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfengesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^3-5]
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 [^3-2]: Fassung gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^3-3]: Fassung gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+[^3-5]: Eingefügt durch Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
-#### Art. 4
+#### Art. 3a
 
-**Ein- und Durchreiseverbot**
+**Ausnahmebestimmungen betreffend gesperrte Gelder oder wirtschaftliche Ressourcen**[^3a-1]
 
-<sup>1</sup> Die Einreise in die Schweiz oder die Durchreise durch die Schweiz ist den im Anhang aufgeführten natürlichen Personen verboten.
+<sup>1</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder das Zurverfügungstellen bestimmter Gelder oder wirtschaftlicher Ressourcen zur Vermeidung von Härtefällen ausnahmsweise bewilligen.
 
 <sup>2</sup>
 
-Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen einer natürlichen Person, eines Unternehmens oder einer Organisation nach Anhang 1 ausnahmsweise bewilligen zur:
 
-- a. wenn die Ein- oder Durchreise zur Durchführung eines Gerichtsverfahrens erforderlich ist;
-- b. in Übereinstimmung mit Paragraph 5 der Resolution 2653 (2022) und den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen[^4-1].
+- a. Erfüllung bestehender Verträge;
+- b.
 
-[^4-1]: Ausdruck gemäss Ziff. I 8 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änd. wurde im ganzen Text vorgenommen.
+  Erfüllung von Forderungen, die Gegenstand sind:
+
+  - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
+  - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts.
+
+<sup>3</sup>
+
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen einer natürlichen Person, eines Unternehmens oder einer Organisation nach Anhang 2 ausnahmsweise bewilligen zur:
+
+- a. Erfüllung bestehender Verträge;
+- b.
+
+  Erfüllung von Forderungen, die Gegenstand sind:
+
+  - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
+  - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts, die in der Schweiz, in einem Mitgliedstaat des EWR oder im Vereinigten Königreich ergangen oder vollstreckbar ist.
+
+<sup>4</sup>
+
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder das Zurverfügungstellen bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche Person, ein Unternehmen oder eine Organisation nach Anhang 2 ausnahmsweise bewilligen zur:
+
+- a. Durchführung humanitärer Aktivitäten oder anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse;
+- b. Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen;
+- c. Wahrung schweizerischer Interessen.
+
+<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 1–4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+
+#### Art. 4
+
+**Ein- und Durchreiseverbot**[^4-1]
+
+<sup>1</sup> Die Einreise in die Schweiz und die Durchreise durch die Schweiz sind natürlichen Personen nach den Anhängen 1 und 2 verboten.
+
+<sup>2</sup>
+
+Das Staatssekretariat für Migration (SEM) kann für natürliche Personen nach Anhang 1 Ausnahmen bewilligen:
+
+- a. wenn die Ein- oder Durchreise zur Teilnahme an einem Gerichtsverfahren erforderlich ist; oder
+- b. in Übereinstimmung mit Paragraph 5 der Resolution 2653 (2022) des Sicherheitsrats der Vereinten Nationen und den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen.
+
+<sup>3</sup>
+
+Es kann für natürliche Personen nach Anhang 2 Ausnahmen bewilligen:
+
+- a. aus erwiesenen humanitären Gründen;
+- b. für die Teilnahme an internationalen Konferenzen oder an einem politischen Dialog betreffend Haiti;
+- c. für die Teilnahme an Gerichtsverfahren; oder
+- d. zur Wahrung schweizerischer Interessen.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 ## 3. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -117,11 +183,17 @@ Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 #### Art. 6
 
-**Meldepflichten**
+**Meldepflichten**[^6-1]
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung von Geldern und wirtschaftlichen Ressourcen nach Artikel 3 Absatz 1 fallen, müssen diese dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 3 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
+
+<sup>3</sup> Gutschriften nach Artikel 3 Absatz 6 müssen dem SECO unverzüglich gemeldet werden.
+
+<sup>4</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 #### Art. 7
 
@@ -133,13 +205,17 @@ Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 <sup>3</sup> Verstösse nach den Artikeln 9 und 10 EmbG werden vom SECO verfolgt und beurteilt; dieses kann Beschlagnahmungen oder Einziehungen anordnen.
 
-## 4. Abschnitt: Automatische Übernahme
+## 4. Abschnitt: Automatische Übernahme und Veröffentlichung
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 #### Art. 8
 
-<sup>1</sup> Die Listen, die der Sicherheitsrat der Vereinten Nationen oder das zuständige Komitee des Sicherheitsrats der Vereinten Nationen betreffend natürliche Personen, Unternehmen und Organisationen erlassen oder aktualisiert hat, werden automatisch übernommen.
+<sup>1</sup> Die Listen, die der Sicherheitsrat der Vereinten Nationen oder das zuständige Komitee des Sicherheitsrats der Vereinten Nationen betreffend natürliche Personen, Unternehmen und Organisationen erlassen oder aktualisiert hat, werden automatisch in Anhang 1 übernommen.
 
-<sup>2</sup> Die Einträge nach dem Anhang werden weder in der Amtlichen Sammlung des Bundesrechts (AS) noch in der Systematischen Sammlung des Bundesrechts (SR) veröffentlicht.
+<sup>2</sup> Der Inhalt von Anhang 2 wird in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nur durch Verweis veröffentlicht.
 
 ## 5. Abschnitt: Inkrafttreten
 
@@ -147,16 +223,26 @@ Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 Diese Verordnung tritt am 16. Dezember 2022 um 18.00 Uhr in Kraft.
 
-Anhang
+Anhang 1[^t-1]
 
-(Art. 2, 3 Abs. 1 und 4)
+(Art. 3 Abs. 1 Bst. a, 3*a* Abs. 2, 5 Abs. 1 und 2 sowie 8 Abs. 1)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen, das Ein- und Durchreiseverbot und das Verbot der Lieferung von Rüstungsgütern richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen und das Verbot der Lieferung von Rüstungsgütern richten
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+
+[^t-1]: Ursprünglich: Anhang. Fassung gemäss Ziff. II Abs. 1 der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
 
 Anmerkung
 
-- 1\. Dieser Anhang entspricht den Listen der natürlichen Personen, Unternehmen und Organisationen, die vom Sicherheitsrat der Vereinten Nationen oder vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichnet worden sind.[^annexu1-lvlu1-1]
-- 2\. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die UNO in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annexu1-lvlu1-2]
+- 1\. Dieser Anhang entspricht den Listen der natürlichen Personen, Unternehmen und Organisationen, die vom Sicherheitsrat der Vereinten Nationen oder vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichnet worden sind.
+- 2\. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.
 
-[^annexu1-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/fr](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité de sanctions 2653 (Haïti)&gt; Matériaux relatifs à la liste de sanctions.
-[^annexu1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [https://www.seco.admin.ch/seco/de/home.html](https://www.seco.admin.ch/seco/de/home.html) &gt; Themen &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+Anhang 2[^t-2]
+
+(Art. 3 Abs. 1 Bst. a, 4 und 5 Bst. c, 3*a* Abs. 3 und 4, 5 Abs. 1 und 3 sowie 8 Abs. 2)
+
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+
+[^annex2-lvlu1-1]
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 28. Jan. 2026, in Kraft seit 28. Jan. 2026 um 23 Uhr ([AS 2026 44](https://fedlex.data.admin.ch/eli/oc/2026/44)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/44](https://fedlex.data.admin.ch/eli/oc/2026/44) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
