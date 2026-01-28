@@ -4,11 +4,11 @@ title: "Traité de l'OMPI du 20 décembre 1996 sur les interprétations et exéc
 short: WPPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/359"
 language: fr
-version: 2022-07-07
+version: 2026-01-29
 adopted: 1996-12-20
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/359/20220707/fr/xml/fedlex-data-admin-ch-eli-cc-2008-359-20220707-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/359/20220707/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/359/20260129/fr/xml/fedlex-data-admin-ch-eli-cc-2008-359-20260129-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/359/20260129/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument de ratification déposé par la Suisse le 31 mars 2008
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2008
 
-(Etat le 7 juillet 2022)
+(État le 29 janvier 2026)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 5 oct. 2007 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357)).
 
@@ -57,7 +57,7 @@ sont convenues de ce qui suit:
 
 <sup>3.</sup> Le présent traité n’a aucun lien avec d’autres traités et s’applique sans préjudice des droits et obligations découlant de tout autre traité.
 
-[^1-1]: [RS 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)
+[^1-1]: [RS 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)
 
 #### Art. 2
 
@@ -239,7 +239,7 @@ Sauf dans le cas prévu à l’art. 15, al. 3, aucune réserve au présent trait
 
 <sup>2.</sup> Nonobstant les dispositions de l’al. 1, une Partie contractante peut limiter l’application de l’art. 5 du présent traité aux interprétations ou exécutions qui ont eu lieu après l’entrée en vigueur du traité à son égard.
 
-[^22-1]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^22-1]: [RS 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 23
 
@@ -377,7 +377,7 @@ Concernant l’art. 19
 
 La déclaration commune concernant l’art. 12 (sur les obligations relatives à l’information sur le régime des droits) du Traité de l’OMPI sur le droit d’auteur est applicable *mutatis mutandis* à l’art. 19 (sur les obligations relatives à l’information sur le régime des droits) du Traité de l’OMPI sur les interprétations et exécutions et les phonogrammes.
 
-Champ d’application le 7 juillet 2022**[^t-2]**
+Champ d’application le 29 janvier 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -402,6 +402,7 @@ Champ d’application le 7 juillet 2022**[^t-2]**
 <tr><td>Bulgarie</td><td>29 mars</td><td>2001 A</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Burkina Faso</td><td>19 juillet</td><td>1999</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Cabo Verde</td><td>22 février</td><td>2019 A</td><td>22 mai</td><td>2019</td></tr>
+<tr><td>Cameroun</td><td>9 janvier</td><td>2025 A</td><td>9 avril</td><td>2025</td></tr>
 <tr><td>Canada</td><td>13 mai</td><td>2014</td><td>13 août</td><td>2014</td></tr>
 <tr><td>Chili\*</td><td>11 avril</td><td>2001</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Chine\*</td><td>9 mars</td><td>2007 A</td><td>9 juin</td><td>2007</td></tr>
@@ -474,11 +475,12 @@ Champ d’application le 7 juillet 2022**[^t-2]**
 <tr><td>République dominicaine</td><td>10 octobre</td><td>2005 A</td><td>10 janvier</td><td>2006</td></tr>
 <tr><td>République tchèque</td><td>10 octobre</td><td>2001 A</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Roumanie</td><td>1<sup>er</sup> février</td><td>2001</td><td>20 mai</td><td>2002</td></tr>
-<tr><td>Royaume-Uni</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
-<tr><td>Gibraltar</td><td>2 mars</td><td>2022 A</td><td>17 mai</td><td>2022</td></tr>
+<tr><td>Royaume-Uni\*</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
+<tr><td>Gibraltar\*</td><td>2 mars</td><td>2022</td><td>17 mai</td><td>2022</td></tr>
 <tr><td>Guernesey</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
-<tr><td>Île de Man</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Île de Man\*</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Russie\*</td><td>5 novembre</td><td>2008 A</td><td>5 février</td><td>2009</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>8 juillet</td><td>2024 A</td><td>8 octobre</td><td>2024</td></tr>
 <tr><td>Saint-Marin</td><td>2 juin</td><td>2020 A</td><td>2 septembre</td><td>2020</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>12 novembre</td><td>2010 A</td><td>12 février</td><td>2011</td></tr>
 <tr><td>Sainte-Lucie</td><td>24 novembre</td><td>1999 A</td><td>20 mai</td><td>2002</td></tr>
@@ -493,16 +495,17 @@ Champ d’application le 7 juillet 2022**[^t-2]**
 <tr><td>Tadjikistan</td><td>24 mai</td><td>2011 A</td><td>24 août</td><td>2011</td></tr>
 <tr><td>Togo</td><td>21 février</td><td>2003</td><td>21 mai</td><td>2003</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>28 août</td><td>2008 A</td><td>28 novembre</td><td>2008</td></tr>
+<tr><td>Tunisie</td><td>16 mars</td><td>2023 A</td><td>16 juin</td><td>2023</td></tr>
 <tr><td>Turquie</td><td>28 août</td><td>2008 A</td><td>28 novembre</td><td>2008</td></tr>
 <tr><td>Ukraine</td><td>29 novembre</td><td>2001 A</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Union européenne</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
 <tr><td>Uruguay</td><td>28 mai</td><td>2008</td><td>28 août</td><td>2008</td></tr>
 <tr><td>Vanuatu</td><td>6 mai</td><td>2020 A</td><td>6 août</td><td>2020</td></tr>
 <tr><td>Vietnam\*</td><td>1<sup>er</sup> avril</td><td>2022 A</td><td>1<sup>er</sup> juillet</td><td>2022</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celle de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int/](https://www.wipo.int/treaties/fr/ip/wppt/) [treaties/fr/ip/wppt](https://www.wipo.int/treaties/fr/ip/wppt/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2008 2515](https://fedlex.data.admin.ch/eli/oc/2008/359); [2009 2503](https://fedlex.data.admin.ch/eli/oc/2009/313); [2010 1457](https://fedlex.data.admin.ch/eli/oc/2010/198); [2013 1373](https://fedlex.data.admin.ch/eli/oc/2013/326); [2017 3725](https://fedlex.data.admin.ch/eli/oc/2017/431); [2019 2185](https://fedlex.data.admin.ch/eli/oc/2019/404); [2021 607](https://fedlex.data.admin.ch/eli/oc/2021/607); [2022 403](https://fedlex.data.admin.ch/eli/oc/2022/403). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-2]: [RO 2008 2515](https://fedlex.data.admin.ch/eli/oc/2008/359); [2009 2503](https://fedlex.data.admin.ch/eli/oc/2009/313); [2010 1457](https://fedlex.data.admin.ch/eli/oc/2010/198); [2013 1373](https://fedlex.data.admin.ch/eli/oc/2013/326); [2017 3725](https://fedlex.data.admin.ch/eli/oc/2017/431); [2019 2185](https://fedlex.data.admin.ch/eli/oc/2019/404); [2021 607](https://fedlex.data.admin.ch/eli/oc/2021/607); [2022 403](https://fedlex.data.admin.ch/eli/oc/2022/403); [2026 53](https://fedlex.data.admin.ch/eli/oc/2026/53). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

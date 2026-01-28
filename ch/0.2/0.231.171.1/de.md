@@ -4,11 +4,11 @@ title: WIPO-Vertrag vom 20. Dezember 1996 über Darbietungen und Tonträger (WPP
 short: WPPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/359"
 language: de
-version: 2022-07-07
+version: 2026-01-29
 adopted: 1996-12-20
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/359/20220707/de/xml/fedlex-data-admin-ch-eli-cc-2008-359-20220707-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/359/20220707/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/359/20260129/de/xml/fedlex-data-admin-ch-eli-cc-2008-359-20260129-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/359/20260129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -29,7 +29,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 31. März 2008
 
 In Kraft getreten für die Schweiz am 1. Juli 2008
 
-(Stand am 7. Juli 2022)
+(Stand am 29. Januar 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 5. Okt. 2007 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357)).
 
@@ -57,7 +57,7 @@ sind wie folgt übereingekommen:
 
 <sup>3.</sup> Dieser Vertrag steht weder in Verbindung mit anderen Verträgen, noch berührt er Rechte oder Pflichten aus anderen Verträgen.
 
-[^1-1]: [SR 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)
+[^1-1]: [SR 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)
 
 #### Art. 2
 
@@ -239,7 +239,7 @@ Mit Ausnahme des Artikels 15 Absatz 3 sind Vorbehalte zu diesem Vertrag nicht zu
 
 <sup>2.</sup> Unbeschadet des Absatzes 1 kann eine Vertragspartei die Anwendung des Artikels 5 dieses Vertrags auf Darbietungen beschränken, die nach Inkrafttreten dieses Vertrags für die betreffende Vertragspartei stattgefunden haben.
 
-[^22-1]: [SR 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^22-1]: [SR 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 23
 
@@ -375,9 +375,9 @@ Die vereinbarte Erklärung zu Artikel 10 (Beschränkungen und Ausnahmen) des WIP
 
 Zu Art. 19
 
-Die vereinbarte Erklärung zu Artikel 12 (Pflichten in Bezug auf Informationen für die Wahrnehmung der Rechte) des WIPO-Urheberrechtsvertrags gilt *mutatis muta**n**dis* ebenfalls für Artikel 19 (Pflichten in Bezug auf Informationen für die Wahrnehmung der Rechte) des WIPO-Vertrags über Darbietungen und Tonträger.
+Die vereinbarte Erklärung zu Artikel 12 (Pflichten in Bezug auf Informationen für die Wahrnehmung der Rechte) des WIPO-Urheberrechtsvertrags gilt *mutatis mutan**dis* ebenfalls für Artikel 19 (Pflichten in Bezug auf Informationen für die Wahrnehmung der Rechte) des WIPO-Vertrags über Darbietungen und Tonträger.
 
-Geltungsbereich am 7. Juli 2022**[^t-2]**
+Geltungsbereich am 29. Januar 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -399,7 +399,6 @@ Geltungsbereich am 7. Juli 2022**[^t-2]**
 <tr><td>Brunei</td><td>2. Februar</td><td>2017 B</td><td>2. Mai</td><td>2017</td></tr>
 <tr><td>Bulgarien</td><td>29. März</td><td>2001 B</td><td>20. Mai</td><td>2002</td></tr>
 <tr><td>Burkina Faso</td><td>19. Juli</td><td>1999</td><td>20. Mai</td><td>2002</td></tr>
-<tr><td>Cabo Verde</td><td>22. Februar</td><td>2019 B</td><td>22. Mai</td><td>2019</td></tr>
 <tr><td>Chile\*</td><td>11. April</td><td>2001</td><td>20. Mai</td><td>2002</td></tr>
 <tr><td>China\*</td><td>9. März</td><td>2007 B</td><td>9. Juni</td><td>2007</td></tr>
 <tr><td>Hongkong</td><td>23. September</td><td>2008</td><td>1. Oktober</td><td>2008</td></tr>
@@ -430,7 +429,9 @@ Geltungsbereich am 7. Juli 2022**[^t-2]**
 <tr><td>Jamaika</td><td>12. März</td><td>2002 B</td><td>12. Juni</td><td>2002</td></tr>
 <tr><td>Japan\*</td><td>9. Juli</td><td>2002 B</td><td>9. Oktober</td><td>2002</td></tr>
 <tr><td>Jordanien</td><td>24. Februar</td><td>2004 B</td><td>24. Mai</td><td>2004</td></tr>
+<tr><td>Kamerun</td><td>9. Januar</td><td>2025 B</td><td>9. April</td><td>2025</td></tr>
 <tr><td>Kanada</td><td>13. Mai</td><td>2014</td><td>13. August</td><td>2014</td></tr>
+<tr><td>Kap Verde</td><td>22. Februar</td><td>2019 B</td><td>22. Mai</td><td>2019</td></tr>
 <tr><td>Kasachstan</td><td>12. August</td><td>2004</td><td>12. November</td><td>2004</td></tr>
 <tr><td>Katar</td><td>28. Juli</td><td>2005 B</td><td>28. Oktober</td><td>2005</td></tr>
 <tr><td>Kirgisistan</td><td>15. Mai</td><td>2002 B</td><td>15. August</td><td>2002</td></tr>
@@ -478,12 +479,14 @@ Geltungsbereich am 7. Juli 2022**[^t-2]**
 <tr><td>Slowakei</td><td>14. Januar</td><td>2000</td><td>20. Mai</td><td>2002</td></tr>
 <tr><td>Slowenien</td><td>19. November</td><td>1999</td><td>20. Mai</td><td>2002</td></tr>
 <tr><td>Spanien</td><td>14. Dezember</td><td>2009</td><td>14. März</td><td>2010</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>8. Juli</td><td>2024 B</td><td>8. Oktober</td><td>2024</td></tr>
 <tr><td>St. Lucia</td><td>24. November</td><td>1999 B</td><td>20. Mai</td><td>2002</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>12. November</td><td>2010 B</td><td>12. Februar</td><td>2011</td></tr>
 <tr><td>Tadschikistan</td><td>24. Mai</td><td>2011 B</td><td>24. August</td><td>2011</td></tr>
 <tr><td>Togo</td><td>21. Februar</td><td>2003</td><td>21. Mai</td><td>2003</td></tr>
 <tr><td>Trinidad und Tobago</td><td>28. August</td><td>2008 B</td><td>28. November</td><td>2008</td></tr>
 <tr><td>Tschechische Republik</td><td>10. Oktober</td><td>2001 B</td><td>20. Mai</td><td>2002</td></tr>
+<tr><td>Tunesien</td><td>16. März</td><td>2023 B</td><td>16. Juni</td><td>2023</td></tr>
 <tr><td>Türkei</td><td>28. August</td><td>2008 B</td><td>28. November</td><td>2008</td></tr>
 <tr><td>Uganda</td><td>28. Januar</td><td>2022 B</td><td>28. April</td><td>2022</td></tr>
 <tr><td>Ukraine</td><td>29. November</td><td>2001 B</td><td>20. Mai</td><td>2002</td></tr>
@@ -493,18 +496,18 @@ Geltungsbereich am 7. Juli 2022**[^t-2]**
 <tr><td>Vanuatu</td><td>6. Mai</td><td>2020 B</td><td>6. August</td><td>2020</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>9. März</td><td>2005 B</td><td>9. Juni</td><td>2005</td></tr>
 <tr><td>Vereinigte Staaten</td><td>14. September</td><td>1999</td><td>20. Mai</td><td>2002</td></tr>
-<tr><td>Vereinigtes Königreich</td><td>14. Dezember</td><td>2009</td><td>14. März</td><td>2010</td></tr>
-<tr><td>Gibraltar</td><td>2. März</td><td>2022 B</td><td>17. Mai</td><td>2022</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>14. Dezember</td><td>2009</td><td>14. März</td><td>2010</td></tr>
+<tr><td>Gibraltar\*</td><td>2. März</td><td>2022 B</td><td>17. Mai</td><td>2022</td></tr>
 <tr><td>Guernsey</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
-<tr><td>Insel Man</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Insel Man\*</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Vietnam\*</td><td>1. April</td><td>2022 B</td><td>1. Juli</td><td>2022</td></tr>
 <tr><td>Zypern</td><td>2. September</td><td>2005 B</td><td>2. Dezember</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/treaties/fr/ip/wppt](https://www.wipo.int/treaties/fr/ip/wppt/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
 ## Erklärung
 
-[^t-2]: [AS 2009 2503](https://fedlex.data.admin.ch/eli/oc/2009/313); [2010 1457](https://fedlex.data.admin.ch/eli/oc/2010/198); [2013 1373](https://fedlex.data.admin.ch/eli/oc/2013/326); [2017 3725](https://fedlex.data.admin.ch/eli/oc/2017/431); [2019 2185](https://fedlex.data.admin.ch/eli/oc/2019/404); [2021 607](https://fedlex.data.admin.ch/eli/oc/2021/607), [2022 403](https://fedlex.data.admin.ch/eli/oc/2022/403). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2008 2515](https://fedlex.data.admin.ch/eli/oc/2008/359); [2009 2503](https://fedlex.data.admin.ch/eli/oc/2009/313); [2010 1457](https://fedlex.data.admin.ch/eli/oc/2010/198); [2013 1373](https://fedlex.data.admin.ch/eli/oc/2013/326); [2017 3725](https://fedlex.data.admin.ch/eli/oc/2017/431); [2019 2185](https://fedlex.data.admin.ch/eli/oc/2019/404); [2021 607](https://fedlex.data.admin.ch/eli/oc/2021/607); [2022 403](https://fedlex.data.admin.ch/eli/oc/2022/403); [2026 53](https://fedlex.data.admin.ch/eli/oc/2026/53). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Schweiz
 
