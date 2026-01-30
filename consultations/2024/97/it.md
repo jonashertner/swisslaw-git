@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla trasparenza delle persone giuridiche e sull’identificazione degli aventi economicamente diritto
 document: Progetto posto in consultazione
 language: it

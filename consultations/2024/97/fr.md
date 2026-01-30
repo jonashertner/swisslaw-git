@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la transparence des personnes morales
 document: Projet mis en consultation
 language: fr

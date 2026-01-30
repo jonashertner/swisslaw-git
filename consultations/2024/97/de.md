@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen
 document: Vernehmlassungsvorlage
 language: de
