@@ -4,13 +4,12 @@ number: 539p
 title: Reglement zur Gewährleistung der Integrität von Studienteilnehmenden
 short: Ethik-Board-Reglement
 language: de
-version: 2023-08-01
-valid_until: 2026-01-31
-version_adopted: 2023-06-23
+version: 2026-02-01
+version_adopted: 2025-12-10
 adopted: 2023-06-23
 in_force: 2023-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539p"
-pdf: "https://srl.lu.ch/api/de/versions/4121/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4655/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,15 +20,16 @@ Nr. 539p
 
 (Ethik-Board-Reglement)
 
-vom 23.06.2023 (Stand 01.08.2023)
+vom 23.06.2023 (Stand 01.02.2026)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 5 Absatz 2 und § 16 Absatz 1n des Universitätsgesetzes vom 17. Januar 2000[^ingress-1],
+gestützt auf § 5 Absatz 2 und § 16 Absatz 1n des Universitätsgesetzes vom 17. Januar 2000[^ingress-1] und § 18 Absatz 2f des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-2]),
 
 beschliesst:
 
 [^ingress-1]: SRL Nr. [539](https://srl.lu.ch/data/539/de)
+[^ingress-2]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -51,8 +51,11 @@ beschliesst:
 
 <sup>2</sup> Das Reglement ist nicht anwendbar auf Forschungsprojekte, die dem Geltungsbereich des Bundesgesetzes vom 30. September 2011 über die Forschung am Menschen (Humanforschungsgesetz, HFG)[^2-1] oder dem Geltungsbereich der Tierschutzverordnung vom 23. April 2008 (TSchV)[^2-2] unterstehen.
 
+<sup>3</sup> Auf die Stellungnahmen des Ethik-Boards (§ 3) findet das Reglement betreffend Ausstand in Berufungs- und Beförderungsverfahren sowie in Verfahren auf Verleihung von Titeln (Reglement Ausstand UniLU[^2-3]) sinngemäss Anwendung.
+
 [^2-1]: SR [810.30](https://db.clex.ch/link/Bund/810.30/de)
 [^2-2]: SR [455.1](https://db.clex.ch/link/Bund/455.1/de)
+[^2-3]: SRL Nr. [539u](https://srl.lu.ch/data/539u/de)
 
 ## 2 Überprüfung und Stellungnahme
 
@@ -108,9 +111,11 @@ beschliesst:
 
 <sup>1</sup> Das Ethik-Board ist eine ständige Kommission der Universität Luzern.
 
-<sup>2</sup> Es besteht aus drei bis sechs Professorinnen und Professoren oder habilitierten Mitgliedern aus verschiedenen Fakultäten, einer Vertreterin oder einem Vertreter des Mittelbaus sowie einer Vertreterin oder einem Vertreter der Studierenden.
+<sup>2</sup> Es besteht aus mindestens drei Professorinnen und Professoren oder habilitierten Mitgliedern aus verschiedenen Fakultäten, einer Vertreterin oder einem Vertreter des Mittelbaus sowie einer Vertreterin oder einem Vertreter der Studierenden.
 
-<sup>3</sup> Der Senat wählt die Mitglieder des Ethik-Boards auf Vorschlag der Fakultäten sowie der Mittelbauorganisation (MOL) und der Studierendenorganisation (SOL) für eine Amtsdauer von vier Jahren. Wiederwahl ist möglich.
+<sup>2<sup>bis</sup></sup> Dem Ethik-Board können zudem bis zu zwei externe fachkundige Personen angehören, die auf Vorschlag der Rektorin oder des Rektors vom Senat gewählt werden.
+
+<sup>3</sup> Der Senat wählt die Mitglieder des Ethik-Boards auf Vorschlag der Fakultäten sowie der Mittelbauorganisation (MOL) und der Studierendenorganisation (SOL) sowie gegebenenfalls auf Vorschlag der Rektorin oder des Rektors (Abs. 2<sup>bis</sup>) für eine Amtsdauer von vier Jahren. Wiederwahl ist möglich.
 
 <sup>4</sup> Das Ethik-Board konstituiert sich selbst. Es wählt eine Präsidentin oder einen Präsidenten für eine Amtszeit von zwei Jahren. Einmalige Wiederwahl ist möglich.
 
