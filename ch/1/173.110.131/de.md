@@ -4,11 +4,11 @@ title: Reglement vom 20. November 2006 für das Bundesgericht (BGerR)
 short: BGerR
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: de
-version: 2024-02-13
+version: 2026-02-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240213/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240213-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20260201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/de"
 
 (BGerR)
 
-vom 20. November 2006 (Stand am 13. Februar 2024)
+vom 20. November 2006 (Stand am 1. Februar 2026)
 
 Das Bundesgericht,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 13 und 15 Absatz 1 Buchstabe a des Bundesgerichtsgeset
 
 erlässt folgendes Reglement:
 
-[^ingress-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^ingress-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## 1. Titel: Allgemeine organisatorische Bestimmungen
 
@@ -79,11 +79,13 @@ Der Vizepräsident oder die Vizepräsidentin vertritt und unterstützt den Präs
 
 ### (Art. 14 Abs. 2, 15 Abs. 1 Bst. e und 17 Abs. 3 BGG)
 
-<sup>1</sup> Über die Vorschläge nach Artikel 3 Absatz 2 und die Wahlen nach Artikel 3 Absatz 3–5 dieses Reglements fasst das Gesamtgericht bis am 15. Oktober des Wahljahres Beschluss.
+<sup>1</sup> Über die Wahlen nach Artikel 3 Absätze 3–5 fasst das Gesamtgericht bis am 15. Oktober des Wahljahres Beschluss.[^4-1]
 
 <sup>2</sup> Die Mitglieder der Leitungsorgane und der Rekurskommission teilen der Verwaltungskommission bis zum 31. August des Wahljahres mit, ob sie sich für eine Wiederwahl zur Verfügung stellen. Die Verwaltungskommission teilt das Ergebnis unverzüglich allen Richtern und Richterinnen mit.
 
 <sup>3</sup> Sie fordert die ordentlichen Richter und Richterinnen gleichzeitig auf, ihr bis zum 20. September weitere Bewerbungen und Wahlvorschläge schriftlich einzureichen.
+
+[^4-1]: Fassung gemäss Ziff. I der V des BGer vom 18. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 5
 
@@ -99,7 +101,7 @@ Der Vizepräsident oder die Vizepräsidentin vertritt und unterstützt den Präs
 
 <sup>4</sup> Bei mehr als zwei Kandidaten scheidet nach jedem Wahlgang der Kandidat oder die Kandidatin mit der geringsten Stimmenzahl aus.
 
-[^5-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 6
 
@@ -391,6 +393,8 @@ Das Bundesgericht besteht aus folgenden acht Abteilungen:[^26-1]
 
 <sup>5</sup> Einer Abteilung wird nicht mehr als ein italienischsprachiger Richter oder eine italienischsprachige Richterin zugeteilt.[^26-8]
 
+<sup>6</sup> Die Zusammensetzung der Abteilungen, einschliesslich der Namen der ordentlichen und der nebenamtlichen Richter und Richterinnen, ist auf der Website des Bundesgerichts aufgeführt.[^26-9]
+
 [^26-1]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 [^26-2]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^26-3]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
@@ -399,6 +403,7 @@ Das Bundesgericht besteht aus folgenden acht Abteilungen:[^26-1]
 [^26-6]: Fassung gemäss Ziff. I der V des BGer vom 12. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
 [^26-7]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 [^26-8]: Eingefügt durch Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-9]: Eingefügt durch Ziff. I der V des BGer vom 18. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 27
 
@@ -456,7 +461,7 @@ Die Erste öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentl
 - d. internationale Rechtshilfe in Strafsachen;
 - e. Strassenverkehr;
 - f. Bürgerrecht;
-- g.[^29-1] …;
+- g.[^29-1] …
 - h.[^29-2] Personal im öffentlichen Dienst.
 
 <sup>2</sup>
@@ -477,7 +482,7 @@ Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behan
 
 [^29-1]: Aufgehoben durch Ziff. I der V des BGer vom 24. Nov. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 [^29-2]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^29-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^29-3]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^29-4]: Aufgehoben durch Ziff. I der V des BGer vom 27. April 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 30
@@ -534,8 +539,8 @@ Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behan
 <sup>3</sup> Die Zweite öffentlich-rechtliche Abteilung behandelt auf Klage Ansprüche auf Schadenersatz und Genugtuung aus der Amtstätigkeit von Personen im Sinne von Artikel 1 Absatz 1 Buchstaben a–c des Verantwortlichkeitsgesetzes vom 14. März 1958[^30-3] (Art. 120 Abs. 1 Bst. c BGG).
 
 [^30-1]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^30-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^30-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^30-2]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^30-3]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 31
 
@@ -555,7 +560,7 @@ Die Dritte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffent
 
 [^31-1]: Eingefügt durch Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^31-2]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^31-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^31-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^31-4]: Aufgehoben durch Ziff. I der V des BGer vom 27. April 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 32
@@ -579,7 +584,7 @@ Die Vierte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffent
 
 [^32-1]: Eingefügt durch Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^32-2]: Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^32-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-3]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^32-4]: Aufgehoben durch Ziff. I der V des BGer vom 27. April 2023, mit Wirkung seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 [^32-5]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 [^32-6]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
@@ -646,13 +651,9 @@ Die Zweite zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen un
 
 ### (Art. 22 BGG)
 
-Die Erste strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sowie Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiäre Verfassungsbeschwerden in Strafsachen betreffend:
+Die Erste strafrechtliche Abteilung behandelt die Beschwerden gegen die Entscheide in Strafsachen, in denen über Straf- und Zivilfragen materiell oder über ein betreffendes Revisionsgesuch befunden wird, sowie, im Bereich des Strafrechts, gegen kantonale Erlasse (Art. 82 Bst. b BGG).
 
-- a. materielles Strafrecht (ohne Entscheide des Straf- und Massnahmenvollzuges);
-- b. Strafprozessrecht (ohne strafprozessuale Zwischenentscheide);
-- c. strafprozessuale Endentscheide (ohne Nichtanhandnahmeverfügungen und Verfahrenseinstellungen).
-
-[^35-1]: Ursprünglich: Art. 33. Fassung gemäss Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^35-1]: Ursprünglich: Art. 33. Fassung gemäss Ziff. I der V des BGer vom 18. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 35a
 
@@ -660,13 +661,14 @@ Die Erste strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sow
 
 ### (Art. 22 BGG)
 
-Die Zweite strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sowie Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiäre Verfassungsbeschwerden in Strafsachen betreffend:
+Die Zweite strafrechtliche Abteilung behandelt die Beschwerden betreffend:
 
-- a. Entscheide des Straf- und Massnahmenvollzuges;
-- b. strafprozessuale Zwischenentscheide;
-- c. Nichtanhandnahmeverfügungen und Verfahrenseinstellungen.
+- a. strafprozessuale Zwischenentscheide;
+- b. strafprozessuale Endentscheide (einschliesslich Nichtanhandnahme-verfügungen und Verfahrenseinstellungen);
+- c. Entscheide über den Vollzug von Strafen und Massnahmen;
+- d. selbstständige nachträgliche Entscheide des Gerichts, Entscheide über eine Friedensbürgschaft in einem selbstständigen Verfahren und Entscheide im selbstständigen Einziehungsverfahren, sowie betreffende Revisionsgesuche.
 
-[^35a-1]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^35a-1]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)). Fassung gemäss Ziff. I der V des BGer vom 18. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 ### 3. Abschnitt: Abgrenzung und Zusammenarbeit
 
@@ -912,7 +914,7 @@ Er oder sie ist namentlich zuständig für:
 
 <sup>3</sup> Er oder sie kann einzelne Befugnisse oder Bereiche an leitende Angestellte delegieren.
 
-[^49-1]: [SR 172.220.114](https://fedlex.data.admin.ch/eli/cc/2001/487)
+[^49-1]: [SR 172.220.114](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5385)
 
 #### Art. 50
 
@@ -987,12 +989,12 @@ Die Rekurskommission beurteilt Streitigkeiten nach folgenden Bestimmungen:
 
 [^55-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
-[^55-3]: [SR 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
-[^55-4]: [SR 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
+[^55-3]: [SR 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
+[^55-4]: [SR 152.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4935)
 [^55-5]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-[^55-6]: [SR 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
+[^55-6]: [SR 173.110.133](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5582)
 [^55-7]: Eingefügt durch Ziff. I der V des BGer vom 26. Aug. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
-[^55-8]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^55-8]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 56
 
@@ -1002,7 +1004,7 @@ Die Rekurskommission beurteilt Streitigkeiten nach folgenden Bestimmungen:
 
 Das Beschwerdeverfahren richtet sich nach den Vorschriften des Bundesgesetzes vom 20. Dezember 1968[^56-1] über das Verwaltungsverfahren (Art. 1 Abs. 2 Bst. b und Art. 44 ff.).
 
-[^56-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^56-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## 4. Titel: Information und Datenschutz
 
@@ -1117,9 +1119,9 @@ Der oder die Kommunikations- und Medienbeauftragte berät und unterstützt das P
 <sup>9</sup> Im Übrigen ist die Öffentlichkeitsverordnung vom 24. Mai 2006 sinngemäss anwendbar.
 
 [^64-1]: SR**152.3**
-[^64-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^64-3]: [SR 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^64-4]: [SR 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^64-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^64-3]: [SR 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
+[^64-4]: [SR 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
 
 #### Art. 64a
 
@@ -1138,8 +1140,8 @@ Der oder die Kommunikations- und Medienbeauftragte berät und unterstützt das P
 <sup>5</sup> Im Übrigen ist die Datenschutzverordnung vom 31. August 2022 sinngemäss anwendbar.
 
 [^64a-1]: Eingefügt durch Ziff. I der V des BGer vom 9. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^64a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^64a-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^64a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^64a-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 ## 5. Titel: Schlussbestimmungen
 
@@ -1167,9 +1169,9 @@ Folgende Reglemente werden aufgehoben:
 
 <sup>2</sup> Bewilligte Nebenbeschäftigungen, die dem neuen Recht nicht mehr entsprechen, sind bis spätestens ein Jahr nach Inkrafttreten dieses Reglements zu beenden.
 
-<sup>3</sup> Bis zum 30. Juni 2025 kann die Zweite strafrechtliche Abteilung auch Beschwerden aus dem Zuständigkeitsbereich der Ersten strafrechtlichen Abteilung beurteilen.[^66-1]
+<sup>3</sup> …[^66-1]
 
-[^66-1]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023, in Kraft seit 1. Juli 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^66-1]: Eingefügt durch Ziff. I der V des BGer vom 27. April 2023 ([AS 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)). Aufgehoben durch Ziff. I der V des BGer vom 18. Nov. 2025, mit Wirkung seit 1. Febr. 2026 ([AS 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 67
 

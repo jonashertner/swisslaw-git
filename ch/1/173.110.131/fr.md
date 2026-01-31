@@ -4,11 +4,11 @@ title: Règlement du 20 novembre 2006 du Tribunal fédéral (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: fr
-version: 2024-02-13
+version: 2026-02-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240213/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240213-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20260201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/fr"
 
 (RTF)
 
-du 20 novembre 2006 (État le 13 février 2024)
+du 20 novembre 2006 (État le 1<sup>er</sup> février 2026)
 
 Le Tribunal fédéral,
 
@@ -25,7 +25,7 @@ vu les art. 13 et 15, al. 1, let. a de la loi du 17 juin 2005 sur le Tribunal f�
 
 arrête le règlement suivant:
 
-[^ingress-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^ingress-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## Titre 1 Dispositions générales d’organisation
 
@@ -81,11 +81,13 @@ Le vice-président représente et assiste le président.
 
 ### (art. 14, al. 2, 15, al. 1, let. e, et 17, al. 3, LTF)
 
-<sup>1</sup> La Cour plénière décide, jusqu’au 15 octobre de l’année des élections, des propositions à faire selon l’art. 3, al. 2 et procède, dans le même délai, aux nominations prévues à l’art. 3, al. 3 à 5, du présent règlement.
+<sup>1</sup> La Cour plénière procède jusqu’au 15 octobre de l’année des élections aux nominations prévues à l’art. 3, al. 3 à 5.[^4-1]
 
 <sup>2</sup> Les membres des organes de direction et ceux de la Commission de recours sont tenus d’indiquer à la Commission administrative jusqu’au 31 août de l’année des élections s’ils se représentent. La Commission administrative en communique sans délai l’information à tous les juges.
 
 <sup>3</sup> Elle invite simultanément les juges ordinaires à présenter par écrit jusqu’au 20 septembre d’autres candidatures et propositions.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du TF du 18 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 5
 
@@ -101,7 +103,7 @@ Le vice-président représente et assiste le président.
 
 <sup>4</sup> S’il y a plus de deux candidats, celui qui obtient le moins de voix est éliminé à chaque tour de scrutin.
 
-[^5-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5-1]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 6
 
@@ -395,6 +397,8 @@ Le Tribunal fédéral se compose des huit cours suivantes:[^26-1]
 
 <sup>5</sup> Aucune cour ne peut compter plus d’un juge de langue italienne.[^26-8]
 
+<sup>6</sup> La composition des cours, en particulier le nom des juges ordinaires et des juges suppléants, est publiée sur le site Internet du Tribunal fédéral.[^26-9]
+
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 [^26-2]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^26-3]: Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
@@ -403,6 +407,7 @@ Le Tribunal fédéral se compose des huit cours suivantes:[^26-1]
 [^26-6]: Nouvelle teneur selon le ch. I de l’O du TF du 12 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
 [^26-7]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 [^26-8]: Introduit par le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-9]: Introduit par le ch. I de l’O du TF du 18 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 27
 
@@ -481,7 +486,7 @@ Pour autant que le litige ne puisse pas être rattaché à un autre domaine du d
 
 [^29-1]: Abrogée par le ch. I de l’O du TF du 24 nov. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 [^29-2]: Introduite par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^29-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^29-3]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^29-4]: Abrogé par le ch. I de l’O du TF du 27 avr. 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 30
@@ -539,7 +544,7 @@ Pour autant que le litige ne puisse pas être attribué à un autre domaine du d
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 [^30-2]: RS**101**
-[^30-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^30-3]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 31
 
@@ -558,7 +563,7 @@ La troisième Cour de droit public traite les recours en matière de droit publi
 - g.[^31-3] …
 
 [^31-1]: Introduit par le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^31-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^31-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^31-3]: Abrogée par le ch. I de l’O du TF du 27 avr. 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 32
@@ -581,7 +586,7 @@ La quatrième Cour de droit public traite les recours en matière de droit publi
 - j.[^32-5] prestations transitoires pour chômeurs âgés.
 
 [^32-1]: Introduit par le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^32-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-2]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^32-3]: Abrogée par le ch. I de l’O du TF du 27 avr. 2023, avec effet au 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 [^32-4]: Introduite par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 [^32-5]: Introduite par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
@@ -648,13 +653,9 @@ La deuxième Cour de droit civil traite les recours en matière civile et les re
 
 ### (art. 22 LTF)
 
-La première Cour de droit pénal traite les recours en matière pénale ainsi que les recours en matière de droit public et les recours constitutionnels subsidiaires en matière pénale dans les domaines suivants:
+La première Cour de droit pénal traite les recours contre les décisions rendues en matière pénale qui tranchent des questions pénales ou civiles sur le fond ou une demande de révision y relative, ainsi que, dans le domaine du droit pénal, contre des actes normatifs cantonaux (art. 82, let. b, LTF).
 
-- a. droit pénal matériel (sauf les décisions d’exécution des peines et des mesures);
-- b. procédure pénale (sauf les décisions incidentes relevant de la procédure pénale);
-- c. les décisions finales en matière pénale (sauf les ordonnances de non-entrée en matière ou de classement de la procédure).
-
-[^35-1]: Anciennement art. 33. Nouvelle teneur selon le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^35-1]: Anciennement art. 33. Nouvelle teneur selon le ch. I de l’O du TF du 18 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 35a
 
@@ -662,13 +663,14 @@ La première Cour de droit pénal traite les recours en matière pénale ainsi q
 
 ### (art. 22 LTF)
 
-La deuxième Cour de droit pénal traite les recours en matière pénale ainsi que les recours en matière de droit public et les recours constitutionnels subsidiaires en matière pénale dans les domaines suivants:
+La deuxième Cour de droit pénal traite les recours concernant:
 
-- a. les décisions d’exécution des peines et des mesures;
-- b. les décisions incidentes relevant de la procédure pénale;
-- c. les ordonnances de non-entrée en matière ou de classement de la procédure.
+- a. les décisions incidentes relevant de la procédure pénale;
+- b. les décisions finales relevant de la procédure pénale (y compris les ordonnances de non-entrée en matière et de classement de la procédure);
+- c. les décisions d’exécution de peines et de mesures;
+- d. les décisions judiciaires ultérieures indépendantes, les décisions relatives au cautionnement préventif rendues dans une procédure indépendante et les décisions de confiscation indépendantes, ainsi que les demandes de révision y relatives.
 
-[^35a-1]: Introduit par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^35a-1]: Introduit par le ch. I de l’O du TF du 27 avr. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)). Nouvelle teneur selon le ch. I de l’O du TF du 18 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 ### Section 3 Délimitation des compétences et collaboration
 
@@ -910,7 +912,7 @@ Relèvent notamment de sa compétence:
 
 <sup>3</sup> Il peut déléguer certaines compétences ou domaines d’activité à des cadres.
 
-[^49-1]: [RS 172.220.114](https://fedlex.data.admin.ch/eli/cc/2001/487)
+[^49-1]: [RS 172.220.114](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5385)
 
 #### Art. 50
 
@@ -985,12 +987,12 @@ La Commission de recours statue sur les litiges prévus aux dispositions suivant
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
-[^55-3]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
-[^55-4]: [RS 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
+[^55-3]: [RS 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
+[^55-4]: [RS 152.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4935)
 [^55-5]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la loi du 18 juin 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
+[^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5582)
 [^55-7]: Introduite par le ch. I de l’O du TF du 26 août 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
-[^55-8]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^55-8]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 56
 
@@ -1000,7 +1002,7 @@ La Commission de recours statue sur les litiges prévus aux dispositions suivant
 
 La procédure de recours est régie par les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^56-1] (art. 1, al. 2, let. b, et 44 ss).
 
-[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Titre 4 Information et protection des données
 
@@ -1114,11 +1116,11 @@ La personne chargée de la communication et des relations avec les médias conse
 
 <sup>9</sup> Pour le surplus, l’ordonnance du 24 mai 2006 sur la transparence est applicable par analogie.
 
-[^64-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^64-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^64-3]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
+[^64-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^64-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^64-3]: [RS 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
 [^64-4]: Nouvelle teneur selon le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^64-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^64-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
 
 #### Art. 64a
 
@@ -1137,8 +1139,8 @@ La personne chargée de la communication et des relations avec les médias conse
 <sup>5</sup> Pour le surplus, l’ordonnance du 31 août 2022 sur la protection des données est applicable par analogie.
 
 [^64a-1]: Introduit par le ch. I de l’O du TF du 9 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^64a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^64a-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^64a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^64a-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 ## Titre 5 Dispositions finales
 
@@ -1166,9 +1168,9 @@ Les règlements suivants sont abrogés:
 
 <sup>2</sup> Les activités accessoires qui ne sont plus compatibles avec le nouveau droit doivent prendre fin au plus tard une année après l’entrée en vigueur du présent règlement.
 
-<sup>3</sup> Jusqu’au 30 juin 2025, la deuxième Cour de droit pénal est également compétente pour traiter les recours relevant du domaine de compétence de la première Cour de droit pénal.[^66-1]
+<sup>3</sup> …[^66-1]
 
-[^66-1]: Introduit par le ch. I de l’O du TF du 27 avr. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^66-1]: Introduit par le ch. I de l’O du TF du 27 avr. 2023 ([RO 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)). Abrogé par le ch. I de l’O du TF du 18 nov. 2025, avec effet au 1<sup>er</sup> fév. 2026 ([RO 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 67
 

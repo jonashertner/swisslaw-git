@@ -4,11 +4,11 @@ title: Regolamento del 20 novembre 2006 del Tribunale federale (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: it
-version: 2024-02-13
+version: 2026-02-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20240213/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20240213-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20260201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20240213/it"
 
 (RTF)
 
-del 20 novembre 2006 (Stato 13 febbraio 2024)
+del 20 novembre 2006 (Stato 1° febbraio 2026)
 
 Il Tribunale federale,
 
@@ -25,7 +25,7 @@ fondandosi sull’articolo 13 e sull’articolo 15 capoverso 1 lettera a della l
 
 adotta il regolamento seguente:
 
-[^ingress-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^ingress-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## Titolo 1: Disposizioni generali di organizzazione
 
@@ -73,7 +73,7 @@ Il vicepresidente rappresenta e aiuta il presidente.
 
 <sup>5</sup> Essa nomina su proposta della Commissione amministrativa i membri della Commissione di ricorso. Questi non possono essere contemporaneamente membri della Commissione amministrativa o della Conferenza dei presidenti.
 
-[^3-1]: Abrogato dal n. I del R del TF del 17 mar. 2014, con effetto dal 17 mar. 2014 ([RU 2014 955](https://fedlex.data.admin.ch/eli/oc/2014/211)).
+[^3-1]: Abrogato dalla cifra I del R del TF del 17 mar. 2014, con effetto dal 17 mar. 2014 ([RU 2014 955](https://fedlex.data.admin.ch/eli/oc/2014/211)).
 
 #### Art. 4
 
@@ -81,11 +81,13 @@ Il vicepresidente rappresenta e aiuta il presidente.
 
 ### (art. 14 cpv. 2, 15 cpv. 1 lett. e, 17 cpv. 3 LTF)
 
-<sup>1</sup> La Corte plenaria decide le proposte secondo l’articolo 3 capoverso 2 e le nomine secondo l’articolo 3 capoversi 3–5 del presente regolamento entro il 15 ottobre dell’anno in cui si svolge l’elezione.
+<sup>1</sup> La Corte plenaria decide le nomine secondo l’articolo 3 capoversi 3–5 entro il 15 ottobre dell’anno in cui si svolge l’elezione.[^4-1]
 
 <sup>2</sup> I membri degli organi di direzione e quelli della commissione di ricorso comunicano alla Commissione amministrativa entro il 31 agosto dell’anno in cui si svolge l’elezione se si ripresentano. La Commissione amministrativa ne informa senza indugio tutti i giudici.
 
 <sup>3</sup> Essa invita contemporaneamente i giudici ordinari ad inoltrare per iscritto entro il 20 settembre ulteriori candidature.
+
+[^4-1]: Nuovo testo giusta la cifra I del R del TF del 18 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 5
 
@@ -101,7 +103,7 @@ Il vicepresidente rappresenta e aiuta il presidente.
 
 <sup>4</sup> Se vi sono più di due candidati, colui che ha ottenuto il minor numero di voti viene eliminato dopo ogni turno di scrutinio.
 
-[^5-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^5-1]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 6
 
@@ -165,7 +167,7 @@ Le nomine e votazioni effettuate alle sedute della Corte plenaria avvengono a sc
 
 <sup>2</sup> Il presidente del Tribunale federale partecipa alle sedute e alle decisioni della Conferenza dei presidenti con voto consultivo[^10-1]
 
-[^10-1]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^10-1]: Nuovo testo giusta la cifra I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 ### Capo 4: Commissione amministrativa
 
@@ -203,8 +205,8 @@ La Commissione amministrativa svolge i compiti previsti dagli articoli 15 capove
 
 <sup>3</sup> La Commissione amministrativa prepara il rapporto di gestione destinato alla Corte plenaria.
 
-[^12-1]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^12-2]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^12-1]: Nuovo testo giusta la cifra I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^12-2]: Nuovo testo giusta la cifra I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 ### Capo 5: Assistenza agli organi direttivi
 
@@ -391,14 +393,17 @@ Il Tribunale federale è composto delle seguenti otto corti:[^26-1]
 
 <sup>5</sup> Ad una corte è assegnato al massimo un giudice di lingua italiana.[^26-8]
 
-[^26-1]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^26-2]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-3]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^26-4]: Abrogata dal n. I del R del TF del 13 giu. 2022, con effetto dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^26-5]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^26-6]: Nuovo testo giusta il n. I del R del TF del 12 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
-[^26-7]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^26-8]: Introdotto dal n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+<sup>6</sup> La composizione delle corti, inclusi i nomi dei giudici ordinari e dei giudici non di carriera, è pubblicata sul sito internet del Tribunale federale.[^26-9]
+
+[^26-1]: Nuovo testo giusta la cifra I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-2]: Nuovo testo giusta la cifra I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-3]: Nuovo testo giusta la cifra I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-4]: Abrogata dalla cifra I del R del TF del 13 giu. 2022, con effetto dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-5]: Nuovo testo giusta la cifra I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^26-6]: Nuovo testo giusta la cifra I del R del TF del 12 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-7]: Nuovo testo giusta la cifra I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-8]: Introdotto dalla cifra I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-9]: Introdotto dalla cifra I del R del TF del 18 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 27
 
@@ -410,7 +415,7 @@ Il Tribunale federale è composto delle seguenti otto corti:[^26-1]
 
 <sup>2</sup> Con l’accordo della corte e del giudice interessato, il presidente della corte può assegnare a quest’ultimo la trattazione di determinate materie in qualità di presidente del collegio giudicante (giudice presidente).
 
-[^27-1]: Nuovo testo giusta il n. I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+[^27-1]: Nuovo testo giusta la cifra I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
 
 #### Art. 28
 
@@ -428,7 +433,7 @@ Il Tribunale federale è composto delle seguenti otto corti:[^26-1]
 
 [^tit2-chap1-sec2-1]
 
-[^tit2-chap1-sec2-1]: Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^tit2-chap1-sec2-1]: Nuovo testo giusta la cifra I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 29
 
@@ -475,10 +480,10 @@ Nella misura in cui non è possibile collegare la vertenza ad un altro campo del
 
 <sup>4</sup> Essa tratta su azione conflitti di competenza tra autorità federali e cantonali (art. 120 cpv. 1 lett. a LTF) e le controversie di diritto pubblico tra la Confederazione e i Cantoni o tra i Cantoni (art. 120 cpv. 1 lett. b LTF).
 
-[^29-1]: Abrogata dal n. I del R del TF del 24 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^29-2]: Introdotta dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^29-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^29-4]: Abrogato dal n. I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^29-1]: Abrogata dalla cifra I del R del TF del 24 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^29-2]: Introdotta dalla cifra I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^29-3]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^29-4]: Abrogato dalla cifra I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 30
 
@@ -533,9 +538,9 @@ Nella misura in cui non è possibile collegare la vertenza ad un altro campo del
 
 <sup>3</sup> La seconda Corte di diritto pubblico tratta su azione le pretese di risarcimento del danno o di indennità di riparazione morale risultanti dall’attività ufficiale delle persone di cui all’articolo 1 capoverso 1 lettere a-c della legge del 14 marzo 1958[^30-3] sulla responsabilità (art. 120 cpv. 1 lett. c LTF).
 
-[^30-1]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 13 giu. 2022 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^30-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^30-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^30-1]: Nuovo testo giusta la cifra I del R del TF del 13 giu. 2022, in vigore dal 13 giu. 2022 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^30-2]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^30-3]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 31
 
@@ -553,9 +558,9 @@ La terza Corte di diritto pubblico tratta i ricorsi in materia di diritto pubbli
 - f. previdenza professionale (art. 73 e 74 della legge federale del 25 giugno 1982[^31-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità);
 - g.[^31-3] ...
 
-[^31-1]: Introdotto dal n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^31-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^31-3]: Abrogata dal n. I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^31-1]: Introdotto dalla cifra I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^31-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^31-3]: Abrogata dalla cifra I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 32
 
@@ -576,11 +581,11 @@ La quarta Corte di diritto pubblico tratta i ricorsi in materia di diritto pubbl
 - i.[^32-4] prestazioni complementari;
 - j.[^32-5] prestazioni transitorie per i disoccupati anziani.
 
-[^32-1]: Introdotto dal n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
-[^32-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^32-3]: Abrogata dal n. I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^32-4]: Introdotta dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
-[^32-5]: Introdotta dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-1]: Introdotto dalla cifra I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^32-2]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^32-3]: Abrogata dalla cifra I del R del TF del 27 apr. 2023, con effetto dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-4]: Introdotta dalla cifra I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^32-5]: Introdotta dalla cifra I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
 
 #### Art. 33
 
@@ -605,9 +610,9 @@ La prima Corte di diritto civile tratta i ricorsi in materia civile e i ricorsi 
 <sup>2</sup> La prima Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF).[^33-4]
 
 [^33-1]: Originario art. 31.
-[^33-2]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^33-3]: Introdotta dal n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^33-4]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-2]: Nuovo testo giusta la cifra I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-3]: Introdotta dalla cifra I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^33-4]: Nuovo testo giusta la cifra I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 34
 
@@ -635,8 +640,8 @@ La seconda Corte di diritto civile tratta i ricorsi in materia civile e i ricors
 <sup>2</sup> La seconda Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF).[^34-3]
 
 [^34-1]: Originario art. 32.
-[^34-2]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^34-3]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)). Correzione del 13 feb. 2024 ([RU 2024 66](https://fedlex.data.admin.ch/eli/oc/2024/66)).
+[^34-2]: Nuovo testo giusta la cifra I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^34-3]: Nuovo testo giusta la cifra I del R del TF del 9 ott. 2023 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)). Correzione del 13 feb. 2024 ([RU 2024 66](https://fedlex.data.admin.ch/eli/oc/2024/66)).
 
 #### Art. 35
 
@@ -644,13 +649,9 @@ La seconda Corte di diritto civile tratta i ricorsi in materia civile e i ricors
 
 ### (art. 22 LTF)
 
-La prima Corte di diritto penale tratta i ricorsi in materia penale nonché i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale inerenti al diritto penale che concernono i seguenti campi:
+La prima Corte di diritto penale tratta i ricorsi contro le decisioni di merito su questioni penali e civili pronunciate in materia penale o una relativa domanda di revisione, nonché, nel campo del diritto penale, contro atti normativi cantonali (art. 82 lett. b LTF).
 
-- a. diritto penale materiale (senza le decisioni di esecuzione delle pene e delle misure);
-- b. procedura penale (senza le decisioni incidentali della procedura penale);
-- c. decisioni finali di procedura penale (senza i decreti di non luogo a procedere e di abbandono del procedimento).
-
-[^35-1]: Originario art. 33. Nuovo testo giusta il n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^35-1]: Originario art. 33. Nuovo testo giusta la cifra I del R del TF del 18 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 35a
 
@@ -658,13 +659,14 @@ La prima Corte di diritto penale tratta i ricorsi in materia penale nonché i ri
 
 ### (art. 22 LTF)
 
-La seconda Corte di diritto penale tratta i ricorsi in materia penale nonché i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale inerenti al diritto penale che concernono i seguenti campi:
+La seconda Corte di diritto penale tratta i ricorsi che concernono:
 
-- a. decisioni di esecuzione delle pene e delle misure;
-- b. decisioni incidentali di procedura penale;
-- c. decreti di non luogo a procedere e di abbandono del procedimento.
+- a. decisioni incidentali di procedura penale;
+- b. decisioni finali di procedura penale (inclusi i decreti di non luogo a procedere e di abbandono del procedimento);
+- c. decisioni di esecuzione delle pene e delle misure;
+- d. decisioni giudiziarie indipendenti successive, decisioni in materia di cauzione preventiva pronunciate in una procedura indipendente e decisioni indipendenti di confisca, nonché le relative domande di revisione.
 
-[^35a-1]: Introdotto dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^35a-1]: Introdotto dalla cifra I del R del TF del 27 apr. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)). Nuovo testo giusta la cifra I del R del TF del 18 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 ### Capo 3: Delimitazioni e collaborazione
 
@@ -682,7 +684,7 @@ La seconda Corte di diritto penale tratta i ricorsi in materia penale nonché i 
 
 <sup>4</sup> ...[^36-1]
 
-[^36-1]: Abrogato dal n. I del R del TF del 24 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^36-1]: Abrogato dalla cifra I del R del TF del 24 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 #### Art. 37
 
@@ -774,13 +776,13 @@ Per la designazione dei membri del collegio giudicante, il presidente della cort
 
 <sup>8</sup> Cause connesse vengono di regola decise dal medesimo collegio giudicante.
 
-[^40-1]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^40-1]: Nuovo testo giusta la cifra I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 
 #### Art. 41
 
 [^41-1]
 
-[^41-1]: Abrogato dal n. I del R del TF del 9 ott. 2023, con effetto dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^41-1]: Abrogato dalla cifra I del R del TF del 9 ott. 2023, con effetto dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 42
 
@@ -794,7 +796,7 @@ Per la designazione dei membri del collegio giudicante, il presidente della cort
 
 <sup>3</sup> I dati statistici possono essere consultati da tutti i giudici ordinari. Tali dati sono loro comunicati, per quanto attiene alla loro corte, ogni tre mesi.
 
-[^42-1]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^42-1]: Nuovo testo giusta la cifra I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 ### Capo 2: Procedura e funzionamento del Tribunale
 
@@ -867,10 +869,10 @@ Le sentenze vengono firmate:
 
 <sup>7</sup> In presenza di venti o più partecipanti alla procedura, le sentenze, i dispositivi e i decreti che devono essere firmati anche dal cancelliere possono essere notificati tramite invio di una copia da questi legalizzata. L’originale è firmato conformemente ai capoversi 2, 3 e 6 e archiviato presso il Tribunale federale.[^47-4]
 
-[^47-1]: Introdotto dal n. I del R del TF del 9 dic. 2010 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)). Nuovo testo giusta il n. I del R del TF del 3 lug. 2012, in vigore dal 3 lug. 2012 ([RU 2012 3945](https://fedlex.data.admin.ch/eli/oc/2012/458)).
-[^47-2]: Introdotto dal n. I del R del TF del 3 lug. 2012, in vigore dal 3 lug. 2012 ([RU 2012 3945](https://fedlex.data.admin.ch/eli/oc/2012/458)).
+[^47-1]: Introdotto dalla cifra I del R del TF del 9 dic. 2010 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)). Nuovo testo giusta la cifra I del R del TF del 3 lug. 2012, in vigore dal 3 lug. 2012 ([RU 2012 3945](https://fedlex.data.admin.ch/eli/oc/2012/458)).
+[^47-2]: Introdotto dalla cifra I del R del TF del 3 lug. 2012, in vigore dal 3 lug. 2012 ([RU 2012 3945](https://fedlex.data.admin.ch/eli/oc/2012/458)).
 [^47-3]: Originario cpv. 4.
-[^47-4]: Introdotto dal n. I del R del TF del 27 nov. 2017, in vigore dal 1° feb. 2018 ([RU 2018 47](https://fedlex.data.admin.ch/eli/oc/2018/19)).
+[^47-4]: Introdotto dalla cifra I del R del TF del 27 nov. 2017, in vigore dal 1° feb. 2018 ([RU 2018 47](https://fedlex.data.admin.ch/eli/oc/2018/19)).
 
 #### Art. 48
 
@@ -908,7 +910,7 @@ Rientrano segnatamente nella sua competenza:
 
 <sup>3</sup> Può delegare singole incombenze o settori ai quadri.
 
-[^49-1]: [RS 172.220.114](https://fedlex.data.admin.ch/eli/cc/2001/487)
+[^49-1]: [RS 172.220.114](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5385)
 
 #### Art. 50
 
@@ -962,8 +964,8 @@ Il segretario generale e i quadri sono responsabili per la vigilanza sul persona
 
 <sup>3</sup> È presieduta dal giudice con la maggiore anzianità di servizio.
 
-[^54-1]: Nuovo testo giusta il n. I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
-[^54-2]: Abrogato dal n. I del R del TF del 24 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^54-1]: Nuovo testo giusta la cifra I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^54-2]: Abrogato dalla cifra I del R del TF del 24 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
 
 #### Art. 55
 
@@ -981,14 +983,14 @@ La Commissione di ricorso decide sulle controversie previste dalle seguenti norm
 - d. articolo 15[^55-5] delle direttive del 6 novembre 2006[^55-6] concernenti la cronaca giudiziaria presso il Tribunale federale;
 - e.[^55-7] articolo 52 capoverso 4 della legge federale del 21 giugno 2019[^55-8] sugli appalti pubblici.
 
-[^55-1]: Nuovo testo giusta il n. I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
-[^55-2]: Nuovo testo giusta il n. I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
-[^55-3]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
-[^55-4]: [RS 152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
+[^55-1]: Nuovo testo giusta la cifra I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^55-2]: Nuovo testo giusta la cifra I del R del TF del 24 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 2461](https://fedlex.data.admin.ch/eli/oc/2013/516)).
+[^55-3]: [RS 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
+[^55-4]: [RS 152.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4935)
 [^55-5]: Il rimando è stata adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/eli/cc/2006/836)
-[^55-7]: Introdotta dal n. I del R del TF del 26 ago. 2021, in vigore dal 1° gen. 2022 ([RU 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
-[^55-8]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^55-6]: [RS 173.110.133](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5582)
+[^55-7]: Introdotta dalla cifra I del R del TF del 26 ago. 2021, in vigore dal 1° gen. 2022 ([RU 2021 799](https://fedlex.data.admin.ch/eli/oc/2021/799)).
+[^55-8]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 56
 
@@ -998,13 +1000,13 @@ La Commissione di ricorso decide sulle controversie previste dalle seguenti norm
 
 La procedura di ricorso è retta dalla disposizioni della legge federale del 20 dicembre 1968[^56-1] sulla procedura amministrativa (art. 1 cpv. 2 lett. b e 44 segg.).
 
-[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Titolo 4: Informazione e protezione dei dati
 
 [^tit4-1]
 
-[^tit4-1]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^tit4-1]: Nuovo testo giusta la cifra I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
 
 #### Art. 57
 
@@ -1112,11 +1114,11 @@ L’incaricato della comunicazione e dei contatti con i media consiglia e coadiu
 
 <sup>9</sup> Per il resto si applica per analogia l’ordinanza 24 maggio 2006 sulla trasparenza.
 
-[^64-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^64-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^64-3]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^64-4]: Nuovo testo giusta il n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^64-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^64-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^64-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^64-3]: [RS 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
+[^64-4]: Nuovo testo giusta la cifra I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^64-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
 
 #### Art. 64a
 
@@ -1134,9 +1136,9 @@ L’incaricato della comunicazione e dei contatti con i media consiglia e coadiu
 
 <sup>5</sup> Per il resto si applica per analogia l*’*ordinanza del 31 agosto 2022 sulla protezione dei dati.
 
-[^64a-1]: Introdotto dal n. I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
-[^64a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^64a-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^64a-1]: Introdotto dalla cifra I del R del TF del 9 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 770](https://fedlex.data.admin.ch/eli/oc/2023/770)).
+[^64a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^64a-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 ## Titolo 5: Disposizioni finali
 
@@ -1164,9 +1166,9 @@ I seguenti regolamenti sono abrogati:
 
 <sup>2</sup> Le attività accessorie incompatibili con il nuovo diritto devono essere terminate al più tardi un anno dopo l’entrata in vigore di questo regolamento.
 
-<sup>3</sup> Fino al 30 giugno 2025 la seconda Corte di diritto penale può giudicare anche ricorsi che concernono i campi di competenza della prima Corte di diritto penale.[^66-1]
+<sup>3</sup> ...[^66-1]
 
-[^66-1]: Introdotto dal n. I del R del TF del 27 apr. 2023, in vigore dal 1° lug. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)).
+[^66-1]: Introdotto dalla cifra I del R del TF del 27 apr. 2023 ([RU 2023 268](https://fedlex.data.admin.ch/eli/oc/2023/268)). Abrogato dalla cifra I del R del TF del 18 nov. 2025, con effetto dal 1° feb. 2026 ([RU 2025 856](https://fedlex.data.admin.ch/eli/oc/2025/856)).
 
 #### Art. 67
 
