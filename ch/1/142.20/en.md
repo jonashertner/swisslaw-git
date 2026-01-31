@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2025-08-01
+version: 2026-02-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-en-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20260201/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20260201-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,9 +19,9 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 August 2025)
+of 16 December 2005 (Last amended on 1 February 2026)
 
-[^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^t-1]: AS **2007** 5437 Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 (AS **2017** 6521, **2018** 3171; BBl **2013** 2397, **2016** 2821).
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1229,7 +1229,7 @@ A settlement permit may be revoked only if:
 - a.[^63-1] the requirements of Article 62 paragraph 1 letter a or b are fulfilled;
 - b. the foreign national has seriously violated or represents a threat to public security and order in Switzerland or abroad or represents a threat to internal or external security;
 - c. the foreign national or a person they must care for is dependent permanently and to a large extent on social assistance;
-- d.[^63-2] If unemployment benefit continues to be paid on expiry of this six-month period, the right of residence expires six months after the benefit is no longer paid [^63-3];
+- d.[^63-2] the foreign national has attempted to obtain Swiss citizenship unlawfully or his or her Swiss citizenship has been revoked based on a legally binding ruling issued in connection with a declaration of nullity under Article 36 of the Swiss Citizenship Act of 20 June 2014 [^63-3];
 - e.[^63-4] ...
 
 <sup>2</sup> A settlement permit may be revoked and replaced by a residence permit if the residence criteria referred to in Article 58*a* have not been met.[^63-5]
@@ -2493,16 +2493,21 @@ The persons entrusted with the enforcement of this Act may use police control an
 The FDFA in consultation with SEM may authorise third parties to carry out the following tasks in relation to the visa procedure:
 
 - a. arrangement of appointments with a view to granting a visa;
-- b. receiving documents (visa application form, passport, supporting documents);
-- c. charging of fees;
-- d. recording of biometrical data for the central visa information system;
-- e. returning passports to their holders at the end of the procedure.
+- b.[^98b-2] receiving documents (visa application form, travel document, supporting documents);
+- b<sup>bis</sup>.[^98b-3] verifying the authenticity, integrity and validity of the travel document and checking the quality and accuracy of the documents presented;
+- c. charging fees;
+- d.[^98b-4] recording biometric data;
+- e.[^98b-5] returning the travel document to the holder at the end of the procedure.
 
 <sup>2</sup> The FDFA and SEM shall ensure that the third parties to whom duties are delegated comply with the regulations on data protection and security.
 
 <sup>3</sup> The Federal Council shall determine the conditions under which third parties may be delegated duties in accordance with paragraph 1.
 
 [^98b-1]: Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 (Approval and Implementation of the Exchanges of Notes relating to the Visa Information System), in force since 1 Jan. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272)[5761](https://fedlex.data.admin.ch/eli/oc/2010/814); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^98b-2]: Amended by Annex 1 to the FD of 26 Sep. 2025 on the approval and implementation of the exchange of notes between Switzerland and the EU concerning the adoption of Regulation (EU) 2023/2667 amending several legal acts as regards the digitalisation of the visa procedure, in force since 1 Feb. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-3]: Inserted by Annex 1 to the FD of 26 Sept. 2025 on the approval and implementation of the exchange of notes between Switzerland and the EU concerning the adoption of Regulation (EU) 2023/2667 amending several legal acts as regards the digitalisation of the visa procedure, in force since 1 Feb. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-4]: Amended by Annex 1 to the FD of 26 Sep. 2025 on the approval and implementation of the exchange of notes between Switzerland and the EU concerning the adoption of Regulation (EU) 2023/2667 amending several legal acts as regards the digitalisation of the visa procedure, in force since 1 Feb. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-5]: Amended by Annex 1 to the FD of 26 Sep. 2025 on the approval and implementation of the exchange of notes between Switzerland and the EU concerning the adoption of Regulation (EU) 2023/2667 amending several legal acts as regards the digitalisation of the visa procedure, in force since 1 Feb. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
 
 #### Art. 98c
 
@@ -2647,7 +2652,7 @@ The Federal Council may conclude agreements with foreign states or international
 
 <sup>1</sup>
 
-The following authorities are authorised to read the data stored on the chip in order to verify the identity of the holder or verify that the document is genuine:
+The following authorities are authorised to read the data stored on the chip in order to verify the identity of the holder or the authenticity of the document:
 
 - a. the Border Guard;
 - b. the cantonal and communal police;
@@ -4258,9 +4263,9 @@ The penalty shall be a fine for any person who:
 
 **Seizure and confiscation of documents**[^121-1]
 
-<sup>1</sup> Forged and falsified travel documents and identity papers, and genuine travel documents and identity papers where there is specific evidence that they are being used unlawfully may, as directed by of SEM, be forfeited to authorities or offices or seized for return to their rightful owners.
+<sup>1</sup> Forged and falsified travel documents and identity papers, and authentic travel documents and identity papers where there is specific evidence that they are being used unlawfully may, as directed by of SEM, be forfeited to authorities or offices or seized for return to their rightful owners.
 
-<sup>2</sup> The forfeiture or return under paragraph 1 is also possible if there is specific evidence that genuine travel documents and identity papers are intended for persons who are staying unlawfully in Switzerland.
+<sup>2</sup> The forfeiture or return under paragraph 1 is also possible if there is specific evidence that authentic travel documents and identity papers are intended for persons who are staying unlawfully in Switzerland.
 
 <sup>3</sup> Identity papers under paragraph 1 include identity cards and other documents that indicate the identity of a foreign national.
 

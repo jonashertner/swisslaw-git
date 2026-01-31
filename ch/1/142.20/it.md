@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2025-08-01
+version: 2026-02-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-it-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20260201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 1° agosto 2025)
+del 16 dicembre 2005 (Stato 1° febbraio 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2492,16 +2492,21 @@ Le persone incaricate dell’esecuzione della presente legge possono applicare l
 D’intesa con la SEM, il DFAE può abilitare terzi a svolgere i seguenti compiti inerenti alla procedura di rilascio dei visti:
 
 - a. fissare gli appuntamenti in vista del rilascio dei visti;
-- b. ricevere i documenti (modulo di domanda del visto, passaporto, giustificativi);
+- b.[^98b-2] ricevere i documenti (modulo di domanda del visto, documento di viaggio, giustificativi);
+- b<sup>bis</sup>.[^98b-3] esaminare l’autenticità, l’integrità e la validità del documento di viaggio e verificare la qualità e l’esattezza dei documenti presentati;
 - c. riscuotere gli emolumenti;
-- d. rilevare i dati biometrici nell’ambito del sistema centrale d’informazione visti;
-- e. restituire il passaporto al titolare una volta conclusa la procedura.
+- d.[^98b-4] rilevare i dati biometrici;
+- e.[^98b-5] restituire il documento di viaggio al titolare una volta conclusa la procedura.
 
 <sup>2</sup> Il DFAE e la SEM provvedono affinché i terzi incaricati rispettino le disposizioni in materia di protezione e sicurezza dei dati.
 
 <sup>3</sup> Il Consiglio federale stabilisce a quali condizioni i terzi possono essere incaricati di svolgere i compiti di cui al capoverso 1.
 
 [^98b-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dal 1° gen. 2010 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272)[5761](https://fedlex.data.admin.ch/eli/oc/2010/814); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^98b-2]: Nuovo testo giusta l’all. 1 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2023/2667 che modifica diversi atti normativi per quanto riguarda la digitalizzazione della procedura di visto, in vigore dal 1° feb. 2026 ([RU 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [FF 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-3]: Introdotta dall’all. 1 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2023/2667 che modifica diversi atti normativi per quanto riguarda la digitalizzazione della procedura di visto, in vigore dal 1° feb. 2026 ([RU 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [FF 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-4]: Nuovo testo giusta l’all. 1 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2023/2667 che modifica diversi atti normativi per quanto riguarda la digitalizzazione della procedura di visto, in vigore dal 1° feb. 2026 ([RU 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [FF 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-5]: Nuovo testo giusta l’all. 1 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2023/2667 che modifica diversi atti normativi per quanto riguarda la digitalizzazione della procedura di visto, in vigore dal 1° feb. 2026 ([RU 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [FF 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
 
 #### Art. 98c
 

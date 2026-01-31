@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2025-08-01
+version: 2026-02-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-de-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20260201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. August 2025)
+vom 16. Dezember 2005 (Stand am 1. Februar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -2491,16 +2491,21 @@ Das mit dem Vollzug dieses Gesetzes beauftragte Personal darf zur Erfüllung sei
 Das EDA kann im Einvernehmen mit dem SEM Dritte ermächtigen, folgende Aufgaben im Rahmen des Visumverfahrens zu erfüllen:
 
 - a. die Vereinbarung von Terminen im Hinblick auf die Visumerteilung;
-- b. den Empfang von Dokumenten (Visumgesuchsformular, Pass, Belege);
+- b.[^98b-2] den Empfang von Dokumenten (Visumgesuchsformular, Reisedokument, Belege);
+- b<sup>bis</sup>.[^98b-3] die Prüfung der Echtheit, Integrität und Gültigkeit des Reisedokuments und die Überprüfung der Qualität und Richtigkeit der vorgelegten Dokumente;
 - c. die Erhebung von Gebühren;
-- d. das Erfassen biometrischer Daten im Rahmen des zentralen Visa-Informationssystems;
-- e. die Rücksendung des Passes an die Inhaberin oder den Inhaber am Ende des Verfahrens.
+- d.[^98b-4] das Erfassen biometrischer Daten;
+- e.[^98b-5] die Rücksendung des Reisedokuments an die Inhaberin oder den Inhaber am Ende des Verfahrens.
 
 <sup>2</sup> Das EDA und das SEM sorgen dafür, dass die Vorschriften über Datenschutz und ‑sicherheit von den beauftragten Dritten eingehalten werden.
 
 <sup>3</sup> Der Bundesrat bestimmt, unter welchen Bedingungen Dritte mit den Aufgaben nach Absatz 1 beauftragt werden können.
 
 [^98b-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung der Notenaustausche betreffend das Visa-Informationssystem), in Kraft seit 1. Jan. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272)[5761](https://fedlex.data.admin.ch/eli/oc/2010/814); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^98b-2]: Fassung gemäss Anhang 1 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2023/2667 zur Änderung mehrerer Rechtsakte im Hinblick auf die Digitalisierung des Visumverfahrens, in Kraft seit 1. Febr. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-3]: Eingefügt durch Anhang 1 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2023/2667 zur Änderung mehrerer Rechtsakte im Hinblick auf die Digitalisierung des Visumverfahrens, in Kraft seit 1. Febr. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-4]: Fassung gemäss Anhang 1 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2023/2667 zur Änderung mehrerer Rechtsakte im Hinblick auf die Digitalisierung des Visumverfahrens, in Kraft seit 1. Febr. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-5]: Fassung gemäss Anhang 1 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2023/2667 zur Änderung mehrerer Rechtsakte im Hinblick auf die Digitalisierung des Visumverfahrens, in Kraft seit 1. Febr. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
 
 #### Art. 98c
 
@@ -4026,7 +4031,7 @@ Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ih
 
 [^111j-1]
 
-<sup>1–5</sup> ...[^111j-2]
+<sup>1–5</sup> …[^111j-2]
 
 <sup>6</sup>
 

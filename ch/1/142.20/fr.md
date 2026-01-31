@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2025-08-01
+version: 2026-02-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-fr-xml-20.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20260201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> août 2025)
+du 16 décembre 2005 (État le 1<sup>er</sup> février 2026)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -2432,7 +2432,7 @@ Le gestionnaire de l’aéroport est tenu de mettre à disposition, dans le pér
 
 **Assistance administrative et communication de données[^97-1]**
 
-<sup>1</sup> Les autorités chargées de l’exécution de la présente loi s’assistent mutuellement dans l’accomplissement de leurs tâches. Elles se communiquent les renseignements dont elles ont besoins et s’accordent, sur demande, le droit de consulter les dossiers.
+<sup>1</sup> Les autorités chargées de l’exécution de la présente loi s’assistent mutuellement dans l’accomplissement de leurs tâches. Elles se communiquent les renseignements dont elles ont besoin et s’accordent, sur demande, le droit de consulter les dossiers.
 
 <sup>2</sup> Les autres autorités fédérales, cantonales et communales sont tenues de communiquer aux autorités visées à l’al. 1, sur demande, les données et les informations nécessaires à l’application de la présente loi.
 
@@ -2495,16 +2495,21 @@ Les personnes chargées de l’exécution de la présente loi peuvent, si leur m
 D’entente avec le SEM, le DFAE peut habiliter des tiers à accomplir les tâches suivantes dans le cadre de la procédure en matière de visas:
 
 - a. prise de rendez-vous en vue de l’octroi d’un visa;
-- b. réception de documents (formulaire de demande de visa, passeport, documents justificatifs);
+- b.[^98b-2] réception de documents (formulaire de demande de visa, document de voyage, documents justificatifs);
+- b<sup>bis</sup>.[^98b-3] examen de l’authenticité, de l’intégrité et de la validité du document de voyage et vérification de la qualité et de l’exactitude de l’ensemble des documents fournis;
 - c. perception d’émoluments;
-- d. saisie de données biométriques dans le cadre du système central d’information sur les visas;
-- e. renvoi du passeport à son titulaire à la fin de la procédure.
+- d.[^98b-4] saisie de données biométriques;
+- e.[^98b-5] renvoi du document de voyage à son titulaire à la fin de la procédure.
 
 <sup>2</sup> Le DFAE et le SEM veillent à ce que les dispositions sur la protection et la sécurité des données soient respectées par les tiers mandatés.
 
 <sup>3</sup> Le Conseil fédéral définit à quelles conditions des tiers peuvent être chargés des tâches mentionnées à l’al. 1.
 
 [^98b-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272)[5761](https://fedlex.data.admin.ch/eli/oc/2010/814); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^98b-2]: Nouvelle teneur selon l’annexe 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2023/2667 modifiant plusieurs actes juridiques en ce qui concerne la numérisation de la procédure de demande de visa, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [FF 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-3]: Introduite par l’annexe 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2023/2667 modifiant plusieurs actes juridiques en ce qui concerne la numérisation de la procédure de demande de visa, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [FF 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-4]: Nouvelle teneur selon l’annexe 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2023/2667 modifiant plusieurs actes juridiques en ce qui concerne la numérisation de la procédure de demande de visa, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [FF 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-5]: Nouvelle teneur selon l’annexe 1 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2023/2667 modifiant plusieurs actes juridiques en ce qui concerne la numérisation de la procédure de demande de visa, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [FF 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
 
 #### Art. 98c
 
@@ -4252,7 +4257,7 @@ Est puni d’une amende quiconque, en qualité de collaborateur d’une autorit�
 <sup>2</sup> …[^120e-2]
 
 [^120e-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 11 oct. 2011 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
-[^120e-2]: Abrogé par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), avec effet au 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451))
+[^120e-2]: Abrogé par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), avec effet au 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
 ### Section 2 Sanctions administratives
 
@@ -4575,5 +4580,5 @@ Les lois mentionnées ci-après sont modifiées comme suit:
 
 …[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1]
+[^annex2-lvlu1-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1]
 [^annex2-lvlu1-2]: Les mod. peuvent être consultées au [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758).

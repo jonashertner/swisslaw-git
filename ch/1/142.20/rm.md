@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2025-08-01
+version: 2026-02-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250801/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250801-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250801/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20260201/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20260201-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20260201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dal 1. d’avust 2025)
+dals 16 da december 2005 (versiun dal 1. da favrer 2026)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1638,15 +1638,13 @@ La persuna medicinala spezialisada che fa il tractament transmetta sin dumonda l
 
 **Fermanza curta**
 
-<sup>1</sup>
+<sup>1</sup> tga vegnir tegnida en fermanza mo per la durada da la cooperaziun u da l’interrogaziun necessaria sco er per il transport ch’è eventualmain necessari, u fin ch’ella vegn surdada a las autoritads cumpetentas d’in stadi vischin, maximalmain dentant 3 dis.[^73-1]
 
 L’autoritad federala u chantunala cumpetenta po tegnair en fermanza persunas che n’han nagina permissiun da dimora curta, nagina permissiun da dimora u nagina permissiun da domicil:
 
 - a. per avrir ina disposiziun en connex cun lur status da dimora;
 - b. per constatar lur identitad u lur naziunalitad, uschenavant che lur cooperaziun persunala è necessaria per far quai;
-- c.[^73-1] per garantir ch’ellas vegnian surdadas a las autoritads cumpetentas d’in stadi vischin sin basa d’ina cunvegna da readmissiun.
-
-<sup>2</sup> La persuna dastga vegnir tegnida en fermanza mo per la durada da la cooperaziun u da l’interrogaziun necessaria sco er per il transport ch’è eventualmain necessari, u fin ch’ella vegn surdada a las autoritads cumpetentas d’in stadi vischin, maximalmain dentant 3 dis.[^73-2]
+- c.[^73-2] per garantir ch’ellas vegnian surdadas a las autoritads cumpetentas d’in stadi vischin sin basa d’ina cunvegna da readmissiun.
 
 <sup>3</sup>
 
@@ -1661,8 +1659,8 @@ Sch’ina persuna vegn tegnida en fermanza, sto ella:
 
 <sup>6</sup> La durada da la fermanza na vegn betg messa a quint a la durada d’in eventual arrest d’expulsiun, d’in eventual arrest preparatoric u d’in eventual arrest pervia d’insubordinaziun.
 
-[^73-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (sustegn finanzial per chantuns che mainan centers da partenza al cunfin), en vigur dapi il 1. da zer. 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
-[^73-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 2022 (sustegn finanzial per chantuns che mainan centers da partenza al cunfin), en vigur dapi il 1. da zer. 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
+[^73-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2022 (sustegn finanzial per chantuns che mainan centers da partenza al cunfin), en vigur dapi il 1. da zer. 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
+[^73-2]: Integrà tras la cifra I da la LF dals 16 da dec. 2022 (sustegn finanzial per chantuns che mainan centers da partenza al cunfin), en vigur dapi il 1. da zer. 2024 ([AS 2024 186](https://fedlex.data.admin.ch/eli/oc/2024/186); [BBl 2022 1312](https://fedlex.data.admin.ch/eli/fga/2022/1312)).
 
 #### Art. 74
 
@@ -2493,16 +2491,21 @@ Il persunal ch’è incumbensà d’exequir questa lescha dastga applitgar sforz
 En enclegientscha cun il SEM po il DFAE autorisar terzas persunas d’ademplir las suandantas incumbensas en il rom da la procedura da visums:
 
 - a. fixar termins en vista a la concessiun d’in visum;
-- b. prender en consegna documents (formular per dumandar in visum, passaport, mussaments);
+- b.[^98b-2] prender en consegna documents (formular per dumandar in visum, document da viadi, mussaments);
+- b<sup>bis</sup>.[^98b-3] verifitgar l’autenticitad, l’integritad e la valaivladad dal document da viadi e controllar la qualitad e la correctadad dals documents preschentads;
 - c. incassar taxas;
-- d. registrar las datas biometricas en il rom dal sistem d’infurmaziun central per ils visums;
-- e. respedir il passaport al possessur a la fin da la procedura.
+- d.[^98b-4] registrar datas biometricas;
+- e.[^98b-5] respedir il document da viadi al possessur a la fin da la procedura.
 
 <sup>2</sup> Il DFAE ed il SEM procuran che las prescripziuns davart la protecziun e la segirezza da las datas vegnian observadas da las terzas persunas incumbensadas.
 
 <sup>3</sup> Il Cussegl federal determinescha sut tge cundiziuns che terzas persunas pon vegnir incaricadas cun las incumbensas tenor l’alinea 1.
 
 [^98b-1]: Integrà tras l’art. 2 cifra 1 dal COF dals 11 da dec. 2009 (approvaziun e realisaziun dals barats da notas concernent il sistem d’infurmaziun per ils visums), en vigur dapi il 1. da schan. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272)[5761](https://fedlex.data.admin.ch/eli/oc/2010/814); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
+[^98b-2]: Versiun tenor l’agiunta 1 dal COF dals 26 da sett. 2025 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2023/2667 davart la midada da plirs acts giuridics en vista a la digitalisaziun da la procedura da visums, en vigur dapi il 1. da favr. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-3]: Integrà tras l’agiunta 1 dal COF dals 26 da sett. 2025 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2023/2667 davart la midada da plirs acts giuridics en vista a la digitalisaziun da la procedura da visums, en vigur dapi il 1. da favr. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-4]: Versiun tenor l’agiunta 1 dal COF dals 26 da sett. 2025 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2023/2667 davart la midada da plirs acts giuridics en vista a la digitalisaziun da la procedura da visums, en vigur dapi il 1. da favr. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
+[^98b-5]: Versiun tenor l’agiunta 1 dal COF dals 26 da sett. 2025 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da l’Ordinaziun (UE) 2023/2667 davart la midada da plirs acts giuridics en vista a la digitalisaziun da la procedura da visums, en vigur dapi il 1. da favr. 2026 ([AS 2026 15](https://fedlex.data.admin.ch/eli/oc/2026/15); [BBl 2024 3274](https://fedlex.data.admin.ch/eli/fga/2024/3274)).
 
 #### Art. 98c
 
