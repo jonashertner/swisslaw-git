@@ -1,32 +1,31 @@
 ---
 canton: LU
 number: 546a
-title: Reglement über das Weiterbildungsangebot CAS «Palliative Care» der Universität Luzern und des Luzerner Kantonsspitals
+title: Reglement über das Weiterbildungsangebot CAS in «Spezialisierter Palliative Care» der Universität Luzern und des Luzerner Kantonsspitals
 language: de
-version: 2023-05-01
-valid_until: 2026-01-31
-version_adopted: 2023-04-05
+version: 2026-02-01
+version_adopted: 2025-12-10
 adopted: 2018-12-19
 in_force: 2019-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546a"
-pdf: "https://srl.lu.ch/api/de/versions/4067/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4656/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über das Weiterbildungsangebot CAS «Palliative Care» der Universität Luzern und des Luzerner Kantonsspitals
+# Reglement über das Weiterbildungsangebot CAS in «Spezialisierter Palliative Care» der Universität Luzern und des Luzerner Kantonsspitals
 
-vom 19.12.2018 (Stand 01.05.2023)
+vom 19.12.2018 (Stand 01.02.2026)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000[^ingress-1],
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
 
 auf Antrag des Senats,
 
 beschliesst:
 
-[^ingress-1]: SRL Nr. [539](https://srl.lu.ch/data/539/de)
+[^ingress-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -34,7 +33,7 @@ beschliesst:
 
 **Zweck und Lernziele**
 
-<sup>1</sup> Das universitäre Weiterbildungsangebot CAS «Palliative Care» ist ein Zertifikatslehrgang der Universität Luzern und des Luzerner Kantonsspitals (LUKS).
+<sup>1</sup> Das universitäre Weiterbildungsangebot CAS in «Spezialisierter Palliative Care» ist ein Zertifikatslehrgang der Universität Luzern und des Luzerner Kantonsspitals (LUKS).
 
 <sup>2</sup> Ziel dieses Zertifikatslehrgangs ist es, qualifizierte Personen auf wissenschaftlich hohem Niveau und praxisorientiert im Bereich Palliative Care weiterzubilden.
 
@@ -66,7 +65,7 @@ beschliesst:
 
 **Studienleitung**
 
-<sup>1</sup> Die Studienleitung des Weiterbildungsangebots setzt sich paritätisch aus zwei bis vier Personen der Universität Luzern und des LUKS zusammen. Die Studienleitungsmitglieder werden für vier Jahre gewählt. Wiederwahl ist zulässig. Die Studienleitung kann weitere Mitglieder als Beisitzer ernennen.
+<sup>1</sup> Die Studienleitung des Weiterbildungsangebots setzt sich aus zwei bis vier Personen der Universität Luzern und des LUKS zusammen. Die Studienleitungsmitglieder werden für vier Jahre gewählt. Wiederwahl ist zulässig. Die Studienleitung kann weitere Mitglieder als Beisitzende ernennen.
 
 <sup>2</sup> Die Studienleitung konstituiert sich selbst. Das Präsidium der Studienleitung wird durch die Universität Luzern gestellt, das Vizepräsidium durch das LUKS.
 
@@ -193,7 +192,7 @@ beschliesst:
 
 **Abschlüsse**
 
-<sup>1</sup> Die Abschlüsse werden im Namen der Fakultät ausgestellt und von der Präsidentin oder dem Präsidenten der Studienleitung im Namen der Universität Luzern sowie von der Vizepräsidentin oder vom Vizepräsidenten der Studienleitung, welche das LUKS vertritt, unterzeichnet.
+<sup>1</sup> Die Abschlüsse werden im Namen der Fakultät ausgestellt und von der Dekanin oder vom Dekan der Fakultät, von der Präsidentin oder vom Präsidenten der Studienleitung im Namen der Universität Luzern sowie von der Vizepräsidentin oder vom Vizepräsidenten der Studienleitung, welche das LUKS vertritt, unterzeichnet.
 
 <sup>2</sup> Wer den Weiterbildungslehrgang oder das Weiterbildungsprogramm endgültig nicht besteht, erhält auf Wunsch einen Ausweis über allfällig bestandene Leistungen (Academic Record).
 
@@ -201,9 +200,9 @@ beschliesst:
 
 **Certificate of Advanced Studies (CAS)**
 
-<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Palliative Care der Universität Luzern» muss der erfolgreiche Abschluss des entsprechenden Zertifikatlehrgangs im Umfang von 15 ECTS-Punkten nachgewiesen werden.
+<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in spezialisierter Palliative Care der Universität Luzern» muss der erfolgreiche Abschluss des entsprechenden Zertifikatlehrgangs im Umfang von 15 ECTS-Punkten nachgewiesen werden.
 
-<sup>2</sup> Ein Diploma Supplement wird mit dem Abschluss ausgestellt; es gibt Aufschluss über Inhalt und Umfang des Studiengangs sowie über die Thematik der schriftlichen Arbeit.
+<sup>2</sup> Ein Diploma Supplement wird mit dem Abschluss ausgestellt; es gibt Aufschluss über Inhalt und Umfang des Studiengangs sowie über die Thematik und die Note der Zertifikatsarbeit.
 
 #### § 13
 
