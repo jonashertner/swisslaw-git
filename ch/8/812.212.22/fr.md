@@ -4,11 +4,11 @@ title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 9 novemb
 short: OEMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: fr
-version: 2024-07-01
+version: 2026-02-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20260201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20240701/fr"
 
 (Ordonnance sur les exigences relatives aux médicaments, OEMéd)
 
-du 9 novembre 2001 (État le 1<sup>er</sup> juillet 2024)
+du 9 novembre 2001 (État le 1<sup>er</sup> février 2026)
 
 Le Conseil de l’Institut suisse des produits thérapeutiques (Conseil de l’institut),
 
@@ -25,8 +25,8 @@ vu les art. 11, al. 4, 17, al. 2, 60 et 72*a*, al. 1, let. k, de la loi du 15 d�
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ## Section 1 Dispositions générales
@@ -39,7 +39,7 @@ arrête:
 
 <sup>2</sup> Sont réservées les dispositions particulières s’appliquant aux médicaments complémentaires et phytothérapeutiques en vertu de l’ordonnance de l’Institut suisse des produits thérapeutiques du 7 septembre 2018 sur l’autorisation simplifiée et la procédure de déclaration des médicaments complémentaires et des phytomédicaments (OAMédcophy)[^1-1].[^1-2]
 
-[^1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 2
@@ -53,7 +53,7 @@ La demande d’autorisation de mise sur le marché doit comprendre une documenta
 - c.[^2-1] le cas échéant, un plan d’investigation pédiatrique selon l’art. 5 de l’ordonnance du 21 septembre 2018 sur les médicaments (OMéd)[^2-2].
 
 [^2-1]: Introduite par le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^2-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588).Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^2-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362).Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ## Section 2 Exigences concernant la documentation requise pour l’autorisation de mise sur le marché des médicaments à usage humain
 
@@ -145,7 +145,7 @@ Le plan de gestion des risques doit répondre aux exigences des bonnes pratiques
 <sup>3</sup> Swissmedic peut exiger des documents et des renseignements complémentaires.
 
 [^5a-1]: Introduit par le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^5a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^5a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 #### Art. 6
 
@@ -284,7 +284,7 @@ La documentation sur les essais cliniques doit permettre de démontrer:
 <sup>2</sup> Pour les médicaments de la médecine complémentaire sans indication qui sont autorisés selon l’OAMédcophy[^12-2], les dispositions d’étiquetage spéciales mentionnées aux annexes 1*a* et 1*b* doivent être respectées.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^12-2]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^12-2]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 #### Art. 12a
 
@@ -433,7 +433,7 @@ Swissmedic libère les lots dans la mesure où ils satisfont aux spécifications
 Les modifications entrant dans les différentes catégories au sens des art. 21 à 24, 25*a* et 25*b* OMéd[^22a-2], les conditions devant le cas échéant être remplies et les documents devant à chaque fois être soumis sont régis par les annexes 7 et 7*a*.
 
 [^22a-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
-[^22a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^22a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 #### Art. 22b
 
@@ -447,7 +447,7 @@ Les modifications entrant dans les différentes catégories au sens des art. 21 
 
 <sup>4</sup> Par textes communs, on entend les textes d’information professionnelle ou, à défaut, de notice d’emballage, qui sont communs à plusieurs formes pharmaceutiques du même principe actif.
 
-[^22b-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^22b-1]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 [^22b-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
 #### Art. 22c
@@ -474,7 +474,7 @@ Les modifications entrant dans les différentes catégories au sens des art. 21 
 
 <sup>2</sup> Les inspections à l’étranger et les attributions des inspecteurs sont définies aux art. 60, al. 2 et 3, et 62 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^23-1].
 
-[^23-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^23-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 23a
 
@@ -637,7 +637,7 @@ Annexe 1a[^t-2]
 
 <sup>4</sup> Si, pour les unitaires, les données au sens de l’al. 3 sont déjà contenues dans le nom de la préparation, il n’est pas nécessaire de les rappeler dans la rubrique «Composition».
 
-[^annex1a-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex1a-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### 2 Exigences particulières
 
@@ -700,7 +700,7 @@ Annexe 1b[^t-3]
   - b. les excipients sont déclarés conformément à l’annexe 3 ou 6;
   - c. l’indication du rapport drogue-extrait natif (DER) est également recommandée.
 
-[^annex1b-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex1b-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### 2 Exigences particulières
 
@@ -798,7 +798,7 @@ Annexe 4[^t-7]
 
 <sup>8</sup> L’avertissement obligatoire prévu par Swissmedic en vertu de l’art. 17*b*, al. 5, de l’ordonnance de l’Institut suisse des produits thérapeutiques du 22 juin 2006 sur l’autorisation simplifiée de médicaments et l’autorisation de médicaments fondée sur une déclaration (OASMéd<sup>)</sup>[^annex4-lvlu1-lvl1-1] doit être inséré avant la rubrique 1 mentionnée au ch. 3.
 
-[^annex4-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex4-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Publication
 
@@ -818,7 +818,7 @@ Les textes doivent être publiés sous la forme prévue par Swissmedic.
 <tr><td>8.</td><td>Interactions</td></tr>
 <tr><td>9.</td><td>Grossesse, allaitement</td></tr>
 <tr><td>10.</td><td>Effet sur l’aptitude à la conduite et l’utilisation de machines</td></tr>
-<tr><td>11.</td><td>Effets indésirables «L’annonce d’effets secondaires présumés après l’autorisation est d’une grande importance. Elle permet un suivi continu du rapport bénéfice-risque du médicament. Les professionnels de santé sont tenus de déclarer toute suspicion d’effet secondaire nouveau ou grave via le portail d’annonce en ligne ElViS (*Electronic Vigilance System*). Vous trouverez des informations à ce sujet sur www.swissmedic.ch.»</td></tr>
+<tr><td>11.</td><td>Effets indésirables «L’annonce d’effets secondaires présumés après l’autorisation est d’une grande importance. Elle permet un suivi continu du rapport bénéfice-risque du médicament. Les professionnels de santé sont tenus de déclarer toute suspicion d’effet secondaire nouveau ou grave via le portail d’annonce en ligne ElViS (*Electronic Vigilance System*). Vous trouverez des informations à ce sujet sur [www.swissmedic.ch](https://www.swissmedic.ch/swissmedic/fr/home.html).»</td></tr>
 <tr><td>12.</td><td>Surdosage</td></tr>
 <tr><td>13.</td><td>Propriétés/Effets – code ATC – mécanisme d’action – pharmacodynamique – efficacité clinique – le cas échéant, approbation de Swissmedic en vertu de laquelle le requérant est libéré de l’obligation de soumettre les résultats d’études réalisées dans une ou plusieurs classes d’âge de la population pédiatrique ou pour une ou plusieurs indications, ou l’autorisant à introduire ou à achever la mise en place de certaines ou toutes les mesures du plan d’investigation pédiatrique à une date ultérieure – le cas échéant, remarque indiquant que le médicament a été autorisé pour une durée limitée et avec des charges particulières</td></tr>
 <tr><td>14.</td><td>Pharmacocinétique *–* *absorption, distribution, métabolisme, élimination* *–* *cinétique pour certains groupes de patients*</td></tr>
@@ -860,7 +860,7 @@ Annexe 5.1[^t-8]
 
 <sup>10</sup> Pour les médicaments au sens de l’art. 14, al. 1, let. a<sup>ter</sup> et a<sup>quater</sup>, LPTh, on renonce à la mention selon le ch. 3 rubrique 16.
 
-[^annex51-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex51-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Publication
 
@@ -915,7 +915,7 @@ Annexe 5.2[^t-9]
 
 <sup>7</sup> L’avertissement obligatoire prévu par Swissmedic en vertu des art. 17*b*, al. 5, 17*c*, al. 3, et 17*d*, al. 3, OASMéd[^annex52-lvlu1-lvl1-1] doit être inséré avant ch. 3, rubrique 1.
 
-[^annex52-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex52-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Publication
 
@@ -973,7 +973,7 @@ Annexe 5.3[^t-10]
 
 <sup>7</sup> L’avertissement obligatoire prévu par Swissmedic en vertu des art. 17*b*, al. 5, 17*c*, al. 3 et 17*d*, al. 3, OASMéd[^annex53-lvlu1-lvl1-1] doit être inséré avant le ch. 3, rubrique 1.
 
-[^annex53-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex53-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Dérogations
 
@@ -1005,7 +1005,7 @@ Les textes doivent être publiés sous la forme prévue par Swissmedic.
 <tr><td>8.</td><td>«Comment utiliser …?»</td></tr>
 <tr><td></td><td>Médicaments soumis à ordonnance: «Ne changez pas de votre propre chef le dosage prescrit. Adressez-vous à votre médecin ou à votre pharmacien si vous estimez que l’efficacité du médicament est trop faible ou au contraire trop forte.»</td></tr>
 <tr><td></td><td>Médicaments non soumis à ordonnance: «Veuillez vous conformer au dosage figurant sur la notice d’emballage ou prescrit par votre médecin. Si vous estimez que l’efficacité du médicament est trop faible ou au contraire trop forte, veuillez vous adresser à votre médecin ou à votre pharmacien (ou à votre droguiste\*).» \* seulement pour les préparations de la catégorie de remise D</td></tr>
-<tr><td>9.</td><td>«Quels effets secondaires … peut-il provoquer?» «Si vous remarquez des effets secondaires, veuillez en informer votre médecin, votre pharmacien (ou votre droguiste\*). Ceci vaut en particulier pour les effets secondaires non mentionnés dans cette notice d’emballage.» Si aucun effet secondaire n’est connu, introduire la formule suivante: «Aucun effet secondaire de … n’a été constaté à ce jour en cas d’usage conforme à celui auquel le médicament est destiné.» «Si vous remarquez toutefois des effets secondaires, veuillez en informer votre médecin ou votre pharmacien (ou votre droguiste\*).» \* seulement pour les préparations de la catégorie de remise D [tab]</td></tr>
+<tr><td>9.</td><td>«Quels effets secondaires … peut-il provoquer?» «Si vous remarquez des effets secondaires, veuillez en informer votre médecin, votre pharmacien (ou votre droguiste\*). Ceci vaut en particulier pour les effets secondaires non mentionnés dans cette notice d’emballage.» Si aucun effet secondaire n’est connu, introduire la formule suivante: «Aucun effet secondaire de … n’a été constaté à ce jour en cas d’usage conforme à celui auquel le médicament est destiné.» «Si vous remarquez toutefois des effets secondaires, veuillez en informer votre médecin ou votre pharmacien (ou votre droguiste\*).» \* seulement pour les préparations de la catégorie de remise D</td></tr>
 <tr><td>10.</td><td>«À quoi faut-il encore faire attention?» «Ce médicament ne doit pas être utilisé au-delà de la date figurant après la mention ‹EXP› sur le récipient.»<sup>1</sup> Instructions de stockage. Mise en garde à propos des enfants. «Pour de plus amples renseignements, consultez votre médecin ou votre pharmacien (ou votre droguiste\*), qui disposent d’une information détaillée destinée aux professionnels<sup>2</sup>.» \* seulement pour les préparations de la catégorie de remise D <sup>1</sup> *Cette mention est supprimée lorsque l’indication «à utiliser jusqu’à …» figure sur le récipient.* <sup>2</sup> *sauf pour les préparations n’ayant que l’information destinée aux patients*</td></tr>
 <tr><td>11.</td><td>«Que contient …?» Désignation des composants phytothérapeutiques actifs dans les trois langues officielles. Forme pharmaceutique et quantité de principe actif par unité. Déclaration en latin moderne possible sur demande et dans les cas dûment justifiés. Le cas échéant: Excipients (désignation abrégée dans les trois langues officielles avec mention des numéros E)</td></tr>
 <tr><td>12.</td><td>«Numéro d’autorisation» Numéro d’autorisation (délivré par Swissmedic)</td></tr>
@@ -1032,7 +1032,7 @@ Annexe 5.4[^t-11]
 - 1\.3 Dans les autres cas, le texte obligatoire doit être soit joint à l’emballage dans les trois langues, soit remis au patient dans la langue requise par la personne habilitée à le faire.
 - 1\.4 La police de caractères de l’information destinée aux patients ne doit pas être inférieure à 8 points.
 
-[^annex54-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex54-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### 2 Exigences
 
@@ -1101,7 +1101,7 @@ Annexe 6[^t-12]
 - 1\.3 Sur autorisation de Swissmedic, on peut renoncer à certaines rubriques lorsque celles-ci s’avèrent superflues.
 - 1\.4 L’avertissement obligatoire prévu par Swissmedic en vertu des art. 17*b*, al. 5, 17*c*, al. 3, et 17*d*, al. 3, OASMéd[^annex6-lvlu1-lvl1-1] doit être inséré avant la rubrique 1 de l’information destinée aux professionnels et de la notice d’emballage.
 
-[^annex6-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex6-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Déclaration des principes actifs et des excipients pharmaceutiques
 
@@ -1203,8 +1203,8 @@ Annexe 7[^t-13]
 
 [^annex7-lvlu1-1]
 
-[^t-13]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nouvelle teneur selon le ch. II de l’O du Conseil de l’Institut du 12 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 22 avr. 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)).
-[^annex7-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-13]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nouvelle teneur selon le ch. II de l’O du Conseil de l’Institut du 12 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Mise à jour par le ch. I des O du Conseil de l’Institut du 22 avr. 2022 ([RO 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)) et du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 820](https://fedlex.data.admin.ch/eli/oc/2025/820)).
+[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/820](https://fedlex.data.admin.ch/eli/oc/2025/820) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7a[^t-14]
 

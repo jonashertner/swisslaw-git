@@ -4,11 +4,11 @@ title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 9 novemb
 short: OOMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: it
-version: 2024-07-01
+version: 2026-02-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20260201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20240701/it"
 
 (Ordinanza per l’omologazione di medicamenti, OOMed)
 
-del 9 novembre 2001 (Stato 1° luglio 2024)
+del 9 novembre 2001 (Stato 1° febbraio 2026)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -25,9 +25,9 @@ visti gli articoli 11 capoverso 4, 17 capoverso 2, 60 e 72*a* capoverso 1 letter
 
 ordina:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -39,8 +39,8 @@ ordina:
 
 <sup>2</sup> Sono fatte salve le disposizioni speciali per i medicamenti complementari e fitoterapeutici secondo l’ordinanza dell’Istituto svizzero per gli agenti terapeutici del 7 settembre 2018[^1-1] concernente l’omologazione semplificata e la procedura di notifica dei medicamenti complementari e fitoterapeutici (OMCF).[^1-2]
 
-[^1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
-[^1-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
+[^1-2]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 2
 
@@ -52,9 +52,9 @@ La domanda d’omologazione deve contenere una documentazione completa, secondo 
 - b. i riassunti delle documentazioni di cui agli articoli 3–6 o di cui agli articoli 7–11 per medicamenti per uso veterinario;
 - c.[^2-2] qualora fosse prescritto, un piano d’indagine pediatrica ai sensi dell’articolo 5 dell’ordinanza del 21 settembre 2018[^2-3] sui medicamenti (OM).
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^2-2]: Introdotta fdal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^2-3]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1°gen. 2019.
+[^2-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^2-2]: Introdotta dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^2-3]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1°gen. 2019.
 
 ## Sezione 2: Requisiti concernenti la documentazione per l’omologazione di un medicamento della medicina umana (medicamento per uso umano)
 
@@ -77,7 +77,7 @@ La documentazione concernente gli esami analitici, chimici e farmaceutici deve p
 
 <sup>3</sup> Swissmedic[^3-1] può richiedere ulteriori documenti e informazioni. In particolare può esigere campioni del medicamento e, se necessario, dei prodotti intermedi, dei principi attivi e delle sostanze ausiliarie nonché, all’occorrenza, dei sottoprodotti o dei prodotti di degradazione.
 
-[^3-1]: Nuovo termine giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-1]: Nuovo termine giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -101,7 +101,7 @@ Essa deve contenere in particolare dati e documenti sulla:
 
 <sup>3</sup> Swissmedic può esigere ulteriori documenti e informazioni.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 5
 
@@ -127,8 +127,8 @@ Deve contenere dati e documenti su:
 
 <sup>4</sup> Può sospendere o revocare l’omologazione se in un secondo momento risulta che le condizioni di cui al capoverso 1 lettera a non sono soddisfatte o che il richiedente non ha eseguito la verifica di cui al capoverso 2<sup>bis</sup>.[^5-2]
 
-[^5-1]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^5-2]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^5-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^5-2]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 5a
 
@@ -145,8 +145,8 @@ Il piano di gestione dei rischi deve soddisfare i requisiti della buona prassi d
 
 <sup>3</sup> Swissmedic può esigere ulteriori documenti e informazioni.
 
-[^5a-1]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^5a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^5a-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^5a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 #### Art. 6
 
@@ -240,7 +240,7 @@ Deve essere inoltre presentata una documentazione sui residui che contenga in pa
 
 <sup>5</sup> Per quanto concerne i vaccini deve essere presentata a titolo supplementare una documentazione relativa alle analisi sulla non nocività, l’efficacia e la durata dell’immunità del vaccino nell’animale a cui è destinato.[^9-1]
 
-[^9-1]: Nuovo testo giusta il n. I 1 dell’O del Consiglio dell’Istituto del 7 nov. 2018 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 5071](https://fedlex.data.admin.ch/eli/oc/2018/787)).
+[^9-1]: Nuovo testo giusta la cifra I n. 1 dell’O del Consiglio dell’Istituto del 7 nov. 2018 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 5071](https://fedlex.data.admin.ch/eli/oc/2018/787)).
 
 #### Art. 10
 
@@ -248,7 +248,7 @@ Deve essere inoltre presentata una documentazione sui residui che contenga in pa
 
 Per i medicamenti per gli animali da reddito deve essere provato che contengono esclusivamente principi attivi elencati come sostanze farmacologicamente attive autorizzate nella legislazione sulle derrate alimentari. Si devono proporre termini d’attesa sulla base dei requisiti stabiliti da tale legislazione e dei documenti elencati negli articoli 8 e 9.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 11
 
@@ -284,8 +284,8 @@ La documentazione sugli esami clinici deve provare:
 
 <sup>2</sup> Per i medicamenti della medicina complementare senza indicazione omologati conformemente all’OMCF[^12-2], vanno osservate le disposizioni speciali sulla caratterizzazione di cui agli allegati 1*a* e 1*b*.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^12-2]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^12-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^12-2]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 #### Art. 12a
 
@@ -293,7 +293,7 @@ La documentazione sugli esami clinici deve provare:
 
 Se sussiste il rischio che medicamenti con designazione o aspetto simili vengano confusi e che questa confusione possa avere gravi conseguenze, Swissmedic ordina provvedimenti adeguati, segnatamente l’impiego di lettere maiuscole in una parte della designazione («Tall Man Letter») oppure la modifica della designazione o dell’aspetto grafico.
 
-[^12a-1]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)).
+[^12a-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)).
 
 #### Art. 13
 
@@ -305,7 +305,7 @@ Se sussiste il rischio che medicamenti con designazione o aspetto simili vengano
 
 <sup>3</sup> Swissmedic può determinare per quali medicamenti o gruppi di medicamenti non è richiesta un’informazione professionale.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 14
 
@@ -317,7 +317,7 @@ Se sussiste il rischio che medicamenti con designazione o aspetto simili vengano
 
 <sup>3</sup> Swissmedic può rinunciare a esigere un foglietto illustrativo se tutti i dati conformemente alla presente ordinanza figurano sul contenitore destinato alla dispensazione ai pazienti o su quello destinato ai detentori di animali.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 14a
 
@@ -338,7 +338,7 @@ Per i seguenti medicamenti della medicina umana l’informazione professionale e
 
 <sup>4</sup> Swissmedic può prescrivere che nell’informazione sul medicamento siano incluse avvertenze particolarmente evidenziate, qualora siano richieste per l’uso sicuro del medicamento.
 
-[^14a-1]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^14a-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 14b
 
@@ -348,13 +348,13 @@ Per i seguenti medicamenti della medicina umana l’informazione professionale e
 
 <sup>2</sup> In caso di medicamenti per uso umano contenenti sostanze ausiliarie farmaceutiche di particolare interesse elencati nell’allegato 3*a*, vanno applicate le avvertenze ivi elencate.
 
-[^14b-1]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^14b-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^15-1]: Abrogato dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 16
 
@@ -362,7 +362,7 @@ Per i seguenti medicamenti della medicina umana l’informazione professionale e
 
 In casi eccezionali giustificati Swissmedic può stabilire requisiti speciali concernenti l’informazione professionale e foglietto illustrativo.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 17
 
@@ -418,14 +418,14 @@ Swissmedic libera una partita se essa soddisfa le specifiche di qualità omologa
 
 <sup>3</sup> ...[^22-1]
 
-[^22-1]: Abrogato dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^22-1]: Abrogato dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ## Sezione 5*a*: Modifiche dell’omologazione di medicamenti secondo gli articoli 21–24, 25*a* e 25*b* OM
 
 [^sec5a-1][^sec5a-2]
 
-[^sec5a-1]: Introdotta dal n. I dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
-[^sec5a-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^sec5a-1]: Introdotta dalla cifra I dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^sec5a-2]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
 #### Art. 22a
 
@@ -433,8 +433,8 @@ Swissmedic libera una partita se essa soddisfa le specifiche di qualità omologa
 
 Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a* e 25*b* OM[^22a-2], le condizioni da soddisfare all’occorrenza e i documenti da presentare in ciascun caso sono riportati agli allegati 7 e 7*a*.
 
-[^22a-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
-[^22a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^22a-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^22a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 #### Art. 22b
 
@@ -448,8 +448,8 @@ Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a*
 
 <sup>4</sup> È considerato testo collettivo il testo di un’informazione professionale o, se questa non è disponibile, di un foglietto illustrativo comune per diverse forme farmaceutiche dello stesso principio attivo.
 
-[^22b-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^22b-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^22b-1]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
+[^22b-2]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
 #### Art. 22c
 
@@ -465,7 +465,7 @@ Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a*
 
 [^sec6-1]
 
-[^sec6-1]: Nuovo testo giusta il n. I dell’O dell’Istituto del 3 giu. 2002, in vigore il 1° lug. 2002 ([RU 2002 2502](https://fedlex.data.admin.ch/eli/oc/2002/332)).
+[^sec6-1]: Nuovo testo giusta la cifra I dell’O dell’Istituto del 3 giu. 2002, in vigore il 1° lug. 2002 ([RU 2002 2502](https://fedlex.data.admin.ch/eli/oc/2002/332)).
 
 #### Art. 23
 
@@ -475,19 +475,19 @@ Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a*
 
 <sup>2</sup> L’esecuzione di ispezioni all’estero e le competenze degli ispettori sono rette dagli articoli 60 capoversi 2 e 3 e 62 dell’ordinanza del 14 novembre 2018[^23-1] sull’autorizzazione dei medicamenti.
 
-[^23-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1°gen. 2019.
+[^23-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1°gen. 2019.
 
 #### Art. 23a
 
 [^23a-1]
 
-[^23a-1]: Introdotto dal n. I dell’O dell’Istituto del 3 giu. 2002 ([RU 2002 2502](https://fedlex.data.admin.ch/eli/oc/2002/332)). Abrogato dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2012, con effetto dal 1° gen. 2013 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)).
+[^23a-1]: Introdotto dalla cifra I dell’O dell’Istituto del 3 giu. 2002 ([RU 2002 2502](https://fedlex.data.admin.ch/eli/oc/2002/332)). Abrogato dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2012, con effetto dal 1° gen. 2013 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)).
 
 #### Art. 23b
 
 [^23b-1]
 
-[^23b-1]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)). Abrogato dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^23b-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)). Abrogato dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 23c
 
@@ -499,7 +499,7 @@ Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a*
 
 <sup>3</sup> Per i medicamenti essenzialmente analoghi secondo l’articolo 12 LATer è possibile effettuare gli adeguamenti di testo, anche se i relativi testi sul medicamento di riferimento non sono stati ancora adeguati.
 
-[^23c-1]: Introdotto dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^23c-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 #### Art. 24
 
@@ -513,7 +513,7 @@ Allegato 1[^t-1]
 
 ## Dati e testi apposti su contenitori e confezioni dei medicamenti per uso umano
 
-[^t-1]: Aggiornato dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-1]: Aggiornato dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dalla cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Requisiti generali
 
@@ -595,7 +595,7 @@ Allegato 1a[^t-2]
 
 ## Dati e testi apposti su contenitori e confezioni di medicamenti omeopatici e antroposofici senza indicazione e su medicamenti della gemmoterapia senza indicazione
 
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)). Aggiornato dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-2]: Introdotto dalla cifra II cpv. 1 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Nuovo testo giusta la cifra II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)). Aggiornato dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Requisiti generali
 
@@ -638,7 +638,7 @@ Allegato 1a[^t-2]
 
 <sup>4</sup> Se nel caso di un rimedio unitario secondo il capoverso 3 questi dati sono già contenuti nella designazione del medicamento, non occorre ripeterli nella rubrica «Composizione».
 
-[^annex1a-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex1a-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### 2 Requisiti speciali
 
@@ -670,7 +670,7 @@ Allegato 1b[^t-3]
 
 ## Dati e testi apposti su contenitori e confezioni di medicamenti asiatici senza indicazione
 
-[^t-3]: Introdotto dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Nuovo testo giusta il n. II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-3]: Introdotto dalla cifra II cpv. 1 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Nuovo testo giusta la cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Requisiti generali
 
@@ -701,7 +701,7 @@ Allegato 1b[^t-3]
   - b. dichiarare le sostanze ausiliarie ai sensi dell’allegato 3 o 6;
   - c. si raccomanda inoltre anche di dichiarare il rapporto medicinale/estratto (DER).
 
-[^annex1b-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex1b-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### 2 Requisiti speciali
 
@@ -722,7 +722,7 @@ Allegato 1b[^t-3]
 
 Allegato 2[^t-4]
 
-[^t-4]: Abrogato dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-4]: Abrogato dalla cifra II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 Allegato 3[^t-5]
 
@@ -730,7 +730,7 @@ Allegato 3[^t-5]
 
 ## Requisiti per la dichiarazione dei principi attivi e delle sostanze ausiliarie farmaceutiche nei medicamenti per uso umano
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Obbligo di dichiarazione
 
@@ -770,7 +770,7 @@ Allegato 3a[^t-6]
 
 [^annex3a-lvlu1-1]
 
-[^t-6]: Introdotto dal n. II cpv. 4 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020 ([RU 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
+[^t-6]: Introdotto dalla cifra II cpv. 4 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto dell’8 mag. 2020 ([RU 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
 [^annex3a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-7]
@@ -779,7 +779,7 @@ Allegato 4[^t-7]
 
 ## Requisiti per l’informazione professionale dei medicamenti per uso umano
 
-[^t-7]: Aggiornato dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-7]: Aggiornato dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dalla cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Raccomandazioni generali
 
@@ -799,7 +799,7 @@ Allegato 4[^t-7]
 
 <sup>8</sup> L’avvertenza obbligatoria prescritta da Swissmedic in virtù dell’articolo 17*b* capoverso 5 dell’ordinanza dell’Istituto svizzero per gli agenti terapeutici del 22 giugno 2006[^annex4-lvlu1-lvl1-1] concernente l’omologazione semplificata di medicamenti e l’omologazione di medicamenti con procedura di notifica (OOSM) deve essere inserita prima del numero 3 rubrica 1.
 
-[^annex4-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex4-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Pubblicazione
 
@@ -837,7 +837,7 @@ Allegato 5.1[^t-8]
 
 ## Requisiti per il foglietto illustrativo dei medicamenti per uso umano («Informazione destinata ai pazienti»)
 
-[^t-8]: Aggiornato dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-8]: Aggiornato dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dalla cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Raccomandazioni generali
 
@@ -861,7 +861,7 @@ Allegato 5.1[^t-8]
 
 <sup>10</sup> Per i medicamenti ai sensi dell’articolo 14 capoverso 1 lettere a<sup>ter</sup> e a<sup>quater</sup> LATer non è richiesta l’indicazione di cui al numero 3 rubrica 16.
 
-[^annex51-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex51-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Pubblicazione
 
@@ -895,7 +895,7 @@ Allegato 5.2[^t-9]
 
 ## Requisiti per l’informazione destinata ai pazienti dei medicamenti omeopatici e antroposofici
 
-[^t-9]: Aggiornato dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-9]: Aggiornato dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dalla cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Raccomandazioni generali
 
@@ -913,7 +913,7 @@ Allegato 5.2[^t-9]
 
 <sup>7</sup> L’avvertenza obbligatoria prescritta da Swissmedic secondo l’articolo 17*b* capoverso 5, 17*c* capoverso 3 e 17d capoverso 3 OOSM[^annex52-lvlu1-lvl1-1] deve essere inserita prima del numero 3 rubrica 1.
 
-[^annex52-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex52-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Pubblicazione
 
@@ -947,7 +947,7 @@ Allegato 5.3[^t-10]
 
 ## Requisiti per l’informazione destinata ai pazienti dei medicamenti fitoterapeutici
 
-[^t-10]: Aggiornato dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-10]: Aggiornato dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), dalla cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2012 ([RU 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) e dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Raccomandazioni generali
 
@@ -965,7 +965,7 @@ Allegato 5.3[^t-10]
 
 <sup>7</sup> L’avvertenza obbligatoria prescritta da Swissmedic secondo l’articolo 17*b* capoverso 5, 17*c* capoverso 3 e 17d capoverso 3 OOSM[^annex53-lvlu1-lvl1-1] deve essere inserita prima del numero 4 rubrica 1.
 
-[^annex53-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex53-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Eccezioni
 
@@ -1003,7 +1003,7 @@ Allegato 5.4[^t-11]
 
 ## Requisiti per l’informazione destinata ai pazienti dei medicamenti asiatici senza indicazione
 
-[^t-11]: Introdotto dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Aggiornato dal n. II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-11]: Introdotto dalla cifra II cpv. 1 dell’O del Consiglio dell’Istituto del 22 giu. 2006 ([RU 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Aggiornato dalla cifra II cpv. 3 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Raccomandazioni generali
 
@@ -1012,7 +1012,7 @@ Allegato 5.4[^t-11]
 - 1\.3 Negli altri casi, il testo fisso può essere allegato alla confezione in tre lingue o consegnato al paziente nella lingua corrispondente dalla persona autorizzata alla dispensazione.
 - 1\.4 La grandezza dei caratteri dell’informazione destinata ai pazienti non deve essere inferiore a 8 punti.
 
-[^annex54-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex54-lvlu1-lvl1-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### 2 Requisiti
 
@@ -1072,7 +1072,7 @@ Allegato 6[^t-12]
 
 ## Requisiti per la caratterizzazione e l’informazione dei medicamenti veterinari
 
-[^t-12]: Nuovo testo giusta il n. II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-12]: Nuovo testo giusta la cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Raccomandazioni generali
 
@@ -1081,7 +1081,7 @@ Allegato 6[^t-12]
 - 1\.3 Swissmedic può consentire che singole rubriche siano omesse se non è necessario fornire dati in merito.
 - 1\.4 L’avvertenza obbligatoria prescritta da Swissmedic secondo gli articoli 17*b* capoverso 5, 17*c* capoverso 3 e 17d capoverso 3 OOSM[^annex6-lvlu1-lvl1-1] deve essere inserita sempre prima della rubrica 1 dell’informazione professionale e del foglietto illustrativo.
 
-[^annex6-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^annex6-lvlu1-lvl1-1]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 ### 2 Dichiarazione dei principi attivi e delle sostanze ausiliarie farmaceutiche
 
@@ -1183,8 +1183,8 @@ Allegato 7[^t-13]
 
 [^annex7-lvlu1-1]
 
-[^t-13]: Introdotto dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 22 apr. 2022, in vigore dal 1° lug. 2022 ([RU 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)).
-[^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch
+[^t-13]: Introdotto dalla cifra II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta la cifra II cpv. 1 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dalle cifre I delle O del Consiglio dell’Istituto del 22 apr. 2022 ([RU 2022 261](https://fedlex.data.admin.ch/eli/oc/2022/261)) e del 21 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 820](https://fedlex.data.admin.ch/eli/oc/2025/820)).
+[^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/820](https://fedlex.data.admin.ch/eli/oc/2025/820) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 7a[^t-14]
 
@@ -1194,9 +1194,9 @@ Allegato 7a[^t-14]
 
 [^annex7a-lvlu1-1]
 
-[^t-14]: Introdotto dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
+[^t-14]: Introdotto dalla cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
 [^annex7a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegati 8 e 9[^t-15]
 
-[^t-15]: Introdotti dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Abrogati dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-15]: Introdotti dalla cifra II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Abrogati dalla cifra II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
