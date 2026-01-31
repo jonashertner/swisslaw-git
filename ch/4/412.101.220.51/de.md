@@ -3,18 +3,18 @@ sr: "412.101.220.51"
 title: Verordnung des SBFI vom 12. Oktober 2017 über die berufliche Grundbildung. Automobil-Mechatronikerin/Automobil-Mechatroniker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/627"
 language: de
-version: 2024-04-01
+version: 2026-02-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/627/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2017-627-20240401-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/627/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/627/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2017-627-20260201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/627/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Automobil-Mechatronikerin/Automobil-Mechatroniker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 12. Oktober 2017 (Stand am 1. April 2024)
+vom 12. Oktober 2017 (Stand am 1. Februar 2026)
 
 <table>
 <tr><td>46321</td><td>Automobil-Mechatronikerin EFZ/Automobil-Mechatroniker EFZ Mécatronicienne d’automobiles CFC/Mécatronicien d’automobiles CFC Meccatronica d’automobili AFC/Meccatronico d’automobili AFC</td></tr>
@@ -28,10 +28,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## 1. Abschnitt: Gegenstand, Fachrichtungen und Dauer
 
@@ -127,7 +127,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   - 6\. Komponenten des Antriebsstranges reparieren,
   - 7\. Komfort- und Sicherheitssysteme sowie Zusatzgeräte reparieren,
   - 8\. Fahrerassistenz- und Infotainmentsysteme reparieren,
-  - 9\. Elektro-, Hybrid- und alternative Antriebskonzepte reparieren;
+  - 9\.[^4-1] Elektro- und Hybridantriebe reparieren;
 
 - e.
 
@@ -142,6 +142,8 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   - 7\. Komfort- und Sicherheitssysteme diagnostizieren,
   - 8\. Fahrerassistenz- und Infotainmentsysteme diagnostizieren,
   - 9\. Hybridsysteme und elektrische Antriebssysteme diagnostizieren.
+
+[^4-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
 
 ## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
 
@@ -159,8 +161,8 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>6</sup> Für die Verwendung von Stoffen und Zubereitungen nach der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^5-2] sind besondere Massnahmen zu treffen.
 
-[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^5-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -191,13 +193,14 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.[^7-2]
 
 <sup>4</sup> Unterrichtssprache ist die Landessprache des Schulortes. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
 
 #### Art. 8
 
@@ -254,32 +257,49 @@ Der Bildungsplan hat folgenden Inhalt:
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
 [^9-1]: Bildungsplan vom 12. Oktober 2017 zur Verordnung des SBFI über die berufliche Grundbildung für Automobil-Mechatronikerin/Automobil-Mechatroniker mit eidgenössischem Fähigkeitszeugnis (EFZ), zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe von A–Z.
-[^9-2]: [SR 814.812.38](https://fedlex.data.admin.ch/eli/cc/2005/505)
+[^9-2]: [SR 814.812.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9600)
 
-## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
 
 #### Art. 10
 
-**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**[^10-1]
+
+<sup>1</sup>
 
 Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
 
-- a. Automobil-Mechatronikerin EFZ oder Automobil-Mechatroniker EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet, einer vom AGVS anerkannten zusätzlichen fachtechnischen Ausbildung mit Abschluss und dem Didaktik-Modul AGVS mit Abschluss;
-- b. einschlägiger Abschluss der höheren Berufsbildung.
+- a. Automobil-Mechatronikerin oder -Mechatroniker EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- b. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Automobil-Mechatronikerin und des Automobil-Mechatronikers EFZ und mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- c. einschlägiger Abschluss der höheren Berufsbildung mit mindestens zwei Jahren beruflicher Praxis im Lehrgebiet.
+
+<sup>2</sup> Berufsbildnerinnen und Berufsbildner müssen zusätzlich zu den Qualifikationen nach Absatz 1 über ein Didaktikmodul des Auto Gewerbe Verbandes Schweiz (AGVS) mit Abschluss verfügen.
+
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
 
 #### Art. 11
 
 **Höchstzahl der Lernenden**
 
-<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 100 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
+<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 80 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 50 Prozent beschäftigen, dürfen eine lernende Person ausbilden.[^11-1]
 
-<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
+<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 80 Prozent oder von zwei Fachkräften zu je mindestens 50 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.[^11-2]
 
 <sup>3</sup> Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis oder über eine gleichwertige Qualifikation verfügt.
 
 <sup>4</sup> In Betrieben, die nur eine lernende Person ausbilden dürfen, kann eine zweite lernende Person ihre Bildung beginnen, wenn die erste in das letzte Jahr der beruflichen Grundbildung eintritt.
 
 <sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
+
+<sup>6</sup> Der Betrieb organisiert die Arbeitszeit der Berufsbildnerinnen oder Berufsbildner und der Fachkräfte so, dass die Lernenden während der beruflichen Praxis von einer Berufsbildnerin oder einem Berufsbildner oder von einer Fachkraft beaufsichtigt sind.[^11-3]
+
+[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
+[^11-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
+[^11-3]: Eingefügt durch Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
 
 ## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen
 
@@ -385,11 +405,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>6</td><td>Handlungskompetenzbereiche 1–5 vernetzen (Fachgespräch)</td><td></td><td colspan="2">45 Min.</td><td>16⅔ %</td></tr>
 </table>
 
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.[^18-2]
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
 
 #### Art. 19
 
@@ -433,11 +454,13 @@ Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichte
 
 <sup>2</sup> Muss ein Qualifikationsbereich wiederholt werden, so ist er in seiner Gesamtheit zu wiederholen.
 
-<sup>3</sup> Liegt das auf eine Dezimalstelle gerundete Mittel aus der Summe der Note des Qualifikationsbereichs «Berufskenntnisse» und der Note für den Unterricht in den Berufskenntnissen unter der Note 4, müssen die ungenügenden Bewertungsteile dieser Note wiederholt werden. Der Bewertungsteil «Note für den Unterricht in den Berufskenntnissen» kann auch wiederholt werden, wenn er mit einer genügenden Note bewertet wurde.
+<sup>3</sup> …[^20-1]
 
 <sup>4</sup> Wird die Abschlussprüfung ohne erneuten Besuch des Unterrichts in den Berufskenntnissen wiederholt, so wird die bisherige Note beibehalten. Wird der Unterricht in den Berufskenntnissen während mindestens zwei Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
 
 <sup>5</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so wird die bisherige Note beibehalten. Werden die letzten zwei bewerteten überbetrieblichen Kurse wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+
+[^20-1]: Aufgehoben durch Ziff. I der V des SBFI vom 7. Nov. 2025, mit Wirkung seit 1. Febr. 2026 ([AS 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 #### Art. 21
 
@@ -461,6 +484,8 @@ Für die Berechnung der Gesamtnote werden in diesem Fall die einzelnen Noten wie
 
 <sup>2</sup> Das Fähigkeitszeugnis berechtigt, den gesetzlich geschützten Titel «Automobil-Mechatronikerin EFZ» oder «Automobil-Mechatroniker EFZ» zu führen.
 
+<sup>2bis</sup> Es führt die Fachrichtung auf.[^22-1]
+
 <sup>3</sup>
 
 Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung erworben worden, so werden im Notenausweis aufgeführt:
@@ -468,6 +493,8 @@ Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung
 - a. die Gesamtnote;
 - b. die Noten jedes Qualifikationsbereichs der Abschlussprüfung sowie, unter dem Vorbehalt von Artikel 21 Absatz 1, die Erfahrungsnote;
 - c. die Fachrichtung.
+
+[^22-1]: Eingefügt durch Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 ## 10. Abschnitt: Qualitätsentwicklung und Organisation
 
@@ -479,7 +506,7 @@ Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung
 
 Die Schweizerische Kommission für Berufsentwicklung und Qualität der technischen Automobilberufe setzt sich zusammen aus:
 
-- a. sieben bis neun Vertreterinnen oder Vertretern des «Auto Gewerbe Verbandes Schweiz» (AGVS);
+- a.[^23-1] sieben bis neun Vertreterinnen oder Vertretern des AGVS;
 - b. mindestens einer Vertreterin oder einem Vertreter des «Verbands Schweizerischer Werkstattlehrer» (VSW);
 - c. mindestens einer Vertreterin oder einem Vertreter der «Schweizerischen Vereinigung der Berufsschullehrer für Automobiltechnik» (SVBA – ASETA – ASITA);
 - d. je einer Vertreterin oder einem Vertreter der Sozialpartner;
@@ -509,6 +536,8 @@ Sie hat insbesondere folgende Aufgaben:
   - 1\. den Instrumenten für die Validierung von Bildungsleistungen;
   - 2\. den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung.
 
+[^23-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
+
 #### Art. 24
 
 **Trägerschaft und Organisation der überbetrieblichen Kurse**
@@ -533,13 +562,17 @@ Die Verordnung des SBFI vom 20. Dezember 2006[^25-1] über die berufliche Grundb
 
 #### Art. 26
 
-**Übergangsbestimmungen und erstmalige Anwendung einzelner Bestimmungen**
+**Übergangsbestimmungen zur Änderung vom 7. November 2025 und erstmalige Anwendung einzelner Bestimmungen**[^26-1]
 
-<sup>1</sup> Lernende, die ihre Bildung als Automobil-Mechatronikerin oder Automobil-Mechatroniker vor dem 1. Januar 2018 begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2023.
+<sup>1</sup> Die Handlungskompetenz nach Artikel 4 Buchstabe d Ziffer 9 der Änderung vom 7. November 2025 wird im Qualifikationsverfahren mit Abschlussprüfung für Automobil-Mechatronikerin oder -Mechatroniker EFZ erstmals ab dem 1. Januar 2030 geprüft.
 
-<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Automobil-Mechatronikerin oder Automobil-Mechatroniker bis zum 31. Dezember 2023 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+<sup>2</sup> Lernende, die ihre Ausbildung als Automobil-Mechatronikerin oder -Mechatroniker EFZ vor dem Inkrafttreten der Änderung vom 7. November 2025 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2031 erfolgt.
 
-<sup>3</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 16–22) kommen ab dem 1. Januar 2022 zur Anwendung.
+<sup>3</sup> Lernende, die nach dem Inkrafttreten der Änderung vom 7. November 2025 eine verkürzte Ausbildung beginnen, absolvieren sie nach bisherigem Recht und schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2031 erfolgt.
+
+<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Automobil-Mechatronikerin oder -Mechatroniker EFZ gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2031 wiederholen, werden nach bisherigem Recht beurteilt.
+
+[^26-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 743](https://fedlex.data.admin.ch/eli/oc/2025/743)).
 
 #### Art. 27
 
