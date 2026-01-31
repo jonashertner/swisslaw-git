@@ -4,13 +4,12 @@ number: "312.0"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EGStPO
 language: de
-version: 2024-01-01
-valid_until: 2026-01-31
-version_adopted: 2023-09-07
+version: 2026-02-01
+version_adopted: 2025-09-11
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/312.0"
-pdf: "https://lex.vs.ch/api/de/versions/3263/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3566/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3263/pdf_file"
 
 (EGStPO)
 
-vom 11.02.2009 (Stand 01.01.2024)
+vom 11.02.2009 (Stand 01.02.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -282,6 +281,8 @@ verordnet:
 - a) eine Behörde oder eine Dienststelle, sofern ein Spezialgesetz ihr diese Fähigkeit zuerkennt;
 - b) die öffentlichen Institutionen und Versicherer, die das Opfer entschädigt haben und im Besitze einer gesetzlichen oder vertraglichen Forderungsabtretung sind, sofern diese von der Straftat abgeleitete zivilrechtliche Ansprüche geltend machen.
 
+<sup>3</sup> Die Vollstreckungsbehörde hat Parteistellung in Verfahren betreffend die Feststellung der Verletzung der Artikel 3 oder 5 der Europäischen Menschenrechtskonvention (EMRK).
+
 #### Art. 21
 
 **Strafrechtliche Immunität**
@@ -373,9 +374,11 @@ verordnet:
 
 #### Art. 30
 
-**b) Vorzeitiger Straf- und Massnahmenvollzug**
+**b) Vorzeitiger Massnahmenvollzug**
 
-<sup>1</sup> Wenn die Verfahrensleitung dem Beschuldigten den vorzeitigen Straf- oder Massnahmenvollzug bewilligt, lässt die Dienststelle den Vollzugsplan innert einer Frist von 60 Tagen seit Bewilligungsentscheid erstellen.
+<sup>1</sup> …
+
+<sup>2</sup> Für den vorzeitigen Massnahmenvollzug ist die Zustimmung der Vollstreckungsbehörde erforderlich.
 
 #### Art. 31
 
@@ -477,8 +480,8 @@ verordnet:
 <sup>2</sup> Die Rechtsmittelverfahren gegen diese Entscheide sind:
 
 - a) das Einspracheverfahren gegen den Strafbefehl, wenn der Staatsanwalt nach dem Bundesrecht zuständig ist;
-- b) das Beschwerdeverfahren gegen Entscheide des Straf- und Massnahmenvollzugsrichters;
-- c) das Berufungsverfahren, wenn der nachträgliche Entscheid anlässlich eines berufungsfähigen erstinstanzlichen Urteils ergeht.
+- b) das Beschwerdeverfahren gegen Entscheide des Straf- und Massnahmenvollzugsrichters.
+- c) …
 
 ## 8 Rechtsmittel
 

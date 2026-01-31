@@ -4,13 +4,12 @@ number: "312.0"
 title: "Loi d'application du code de procédure pénale suisse"
 short: LACPP
 language: fr
-version: 2024-01-01
-valid_until: 2026-01-31
-version_adopted: 2023-09-07
+version: 2026-02-01
+version_adopted: 2025-09-11
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/312.0"
-pdf: "https://lex.vs.ch/api/fr/versions/3263/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3566/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3263/pdf_file"
 
 (LACPP)
 
-du 11.02.2009 (état 01.01.2024)
+du 11.02.2009 (état 01.02.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -282,6 +281,8 @@ ordonne:
 - a) une autorité ou un service, dans la mesure où une loi spéciale lui attribue cette qualité;
 - b) en tant qu'elles font valoir des conclusions civiles déduites de l'infraction, les institutions de droit public ainsi que l'assureur ayant dédommagé la victime et au bénéfice d'une subrogation légale ou conventionnelle.
 
+<sup>3</sup> L'autorité d'exécution a qualité de partie dans la procédure dont l'objet est la constatation de la violation des articles 3 ou 5 de la Convention européenne des droits de l'homme (CEDH).
+
 #### Art. 21
 
 **Immunité pénale**
@@ -373,9 +374,11 @@ ordonne:
 
 #### Art. 30
 
-**b) Exécution anticipée des peines et mesures**
+**b) Exécution anticipée des mesures**
 
-<sup>1</sup> Lorsque la direction de la procédure autorise le prévenu à commencer de manière anticipée l'exécution d'une peine privative de liberté ou d'une mesure, le service fait établir le plan d'exécution dans un délai de 60 jours dès la décision.
+<sup>1</sup> …
+
+<sup>2</sup> L'exécution anticipée des mesures est subordonnée à l'assentiment de l'autorité d'exécution.
 
 #### Art. 31
 
@@ -477,8 +480,8 @@ ordonne:
 <sup>2</sup> Les voies de recours contre ces décisions sont:
 
 - a) la procédure de l'opposition à l'ordonnance pénale lorsque le ministère public est compétent de par le droit fédéral;
-- b) la procédure de recours contre les décisions du juge et application des peines et mesures;
-- c) le procédure de l'appel lorsque la décision ultérieure a été rendue à l'occasion d'un jugement de première instance susceptible d'appel.
+- b) la procédure de recours contre les décisions du juge de l'application des peines et mesures.
+- c) …
 
 ## 8 Voies de recours
 
