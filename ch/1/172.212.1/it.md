@@ -4,11 +4,11 @@ title: "Ordinanza del 28 giugno 2000 sull'organizzazione del Dipartimento federa
 short: OOrg-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: it
-version: 2024-10-01
+version: 2026-02-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2000-282-20241001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2000-282-20260201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/it"
 
 (OOrg-DFI)
 
-del 28 giugno 2000 (Stato 1° ottobre 2024)
+del 28 giugno 2000 (Stato 1° febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 43 capoverso 2 e 47 capoverso 2 della legge federale del 21 m
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Capitolo 1: Il Dipartimento
 
@@ -51,11 +51,11 @@ Il Dipartimento persegue gli obiettivi seguenti:
 - g. promuovere il benessere di bambini, giovani e famiglie;
 - h.[^1-5] garantire la salute e il benessere degli animali.
 
-[^1-1]: Abrogata dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^1-3]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^1-4]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^1-5]: Introdotta dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-1]: Abrogata dalla cifra I n. 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-3]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-4]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-5]: Introdotta dalla cifra I n. 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 2
 
@@ -69,7 +69,7 @@ Il Dipartimento persegue i propri obiettivi ed espleta i propri compiti non solo
 - d. cerca la collaborazione internazionale, in particolare a livello europeo;
 - e. accompagna la propria attività ad una politica informativa chiara ed aperta.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 ## Capitolo 2: Uffici ed altre unità amministrative dell’Amministrazione federale centrale
 
@@ -100,8 +100,8 @@ Altri compiti particolari assunti dalla Segreteria generale sono:
 
 [^3-1]: Introdotto dall’all. 2 n. 2 dell’O del 19 nov. 2003 sui disabili, in vigore dal 1° gen. 2004 ([RU 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
 [^3-2]: Nuovo testo giusta l’art. 13 cpv. 2 dell’O del 14 ott. 2009 sui progetti in favore dei diritti umani e contro il razzismo, in vigore dal 1° gen. 2010 ([RU 2009 5327](https://fedlex.data.admin.ch/eli/oc/2009/634)).
-[^3-3]: Introdotta dall’all. 3 n. II 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^3-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^3-3]: Introdotta dall’all. 3 cifra II n. 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 3a
 
@@ -111,8 +111,8 @@ L’Ufficio federale per le pari opportunità delle persone con disabilità adem
 
 [^3a-1]: Introdotto dall’all. 2 n. 2 dell’O del 19 nov. 2003 sui disabili, in vigore dal 1° gen. 2004 ([RU 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
 [^3a-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^3a-3]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^3a-4]: [RS 151.31](https://fedlex.data.admin.ch/eli/cc/2003/668)
+[^3a-3]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^3a-4]: [RS 151.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4927)
 
 ### Sezione 2: Disposizioni comuni per gli uffici
 
@@ -126,8 +126,8 @@ L’Ufficio federale per le pari opportunità delle persone con disabilità adem
 
 <sup>4</sup> Nell’ambito dei propri compiti e nel quadro degli obiettivi di politica estera della Svizzera nonché in accordo con il DFAE e con il DEFR[^4-2] (economia esterna) ed eventualmente con altri Dipartimenti ed Uffici federali, gli Uffici rappresentano la Svizzera in organizzazioni internazionali e partecipano a comitati specifici nazionali ed internazionali e all’elaborazione ed esecuzione di accordi internazionali.
 
-[^4-1]: Nuovo testo giusta l’all. 3 n. II 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^4-2]: Nuova espr. giusta l’all. 3 n. II 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-1]: Nuovo testo giusta l’all. 3 cifra II n. 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-2]: Nuova espr. giusta l’all. 3 cifra II n. 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### Sezione 3: I singoli uffici
 
@@ -163,11 +163,11 @@ Inoltre l’UFU adempie i seguenti compiti particolari:
 - a. mette a disposizione dei datori di lavoro uno strumento di analisi standardizzato gratuito ai sensi dell’articolo 13*c* capoverso 2 LPar;
 - b. esegue controlli della parità salariale ai sensi dell’articolo 4 dell’ordinanza del 12 febbraio 2020[^5-5] sugli appalti pubblici.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^5-2]: [RS 0.311.35](https://fedlex.data.admin.ch/eli/cc/2018/168)
-[^5-3]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^5-4]: [RS 311.039.7](https://fedlex.data.admin.ch/eli/cc/2019/672)
-[^5-5]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^5-2]: [RS 0.311.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1299)
+[^5-3]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^5-4]: [RS 311.039.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6206)
+[^5-5]: [RS 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)
 
 #### Art. 6
 
@@ -201,7 +201,7 @@ Inoltre l’UFC adempie i seguenti compiti particolari:
 - c. sostiene la minoranza culturale Jenisch.
 
 [^6-1]: Nuovo testo giusta l’art. 28 dell’O del 13 apr. 2005 sul trasferimento dei beni culturali, in vigore dal 1° giu. 2005 ([RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)).
-[^6-2]: Abrogata dal n. I dell’O del 10 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5255](https://fedlex.data.admin.ch/eli/oc/2004/806)).
+[^6-2]: Abrogata dalla cifra I dell’O del 10 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5255](https://fedlex.data.admin.ch/eli/oc/2004/806)).
 
 #### Art. 7
 
@@ -293,19 +293,19 @@ Al fine di raggiungere questi obiettivi, l’UFSP assume le funzioni seguenti:
 - e. controlla le ripercussioni di misure legislative o di altro genere sulla salute;
 - f. assicura una collaborazione internazionale attiva.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
-[^9-2]: Introdotta dal n. I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
-[^9-3]: Introdotta dal n. I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
-[^9-4]: Nuovo testo giusta il n. I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
-[^9-5]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^9-6]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^9-7]: Introdotta dal n. I dell’O del 15 dic. 2003 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)). Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^9-8]: Introdotto dal n. I dell’O dell’8 mag. 2013 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)). Nuovo testo giusta l’all. 4 n. II 1 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 (RU **20****24** 491).
-[^9-9]: Introdotto dal n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^9-10]: Introdotto dal n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-2]: Introdotta dalla cifra I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-3]: Introdotta dalla cifra I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-4]: Nuovo testo giusta la cifra I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-6]: Nuovo testo giusta la cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-7]: Introdotta dalla cifra I dell’O del 15 dic. 2003 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)). Nuovo testo giusta la cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-8]: Introdotto dalla cifra I dell’O dell’8 mag. 2013 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)). Nuovo testo giusta l’all. 4 cifra II n. 1 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^9-9]: Introdotto dalla cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-10]: Introdotto dalla cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-11]: Nuovo testo giusta l’all. n. 3 dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
-[^9-12]: Nuovo testo giusta il n. I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
-[^9-13]: Nuovo testo giusta il n. I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-12]: Nuovo testo giusta la cifra I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^9-13]: Nuovo testo giusta la cifra I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
 
 #### Art. 10
 
@@ -339,11 +339,12 @@ Assume inoltre, in stretta collaborazione in particolare con gli altri uffici fe
 
 - a. amministratore svizzero dei dati (*Swiss Data Steward*) e amministratore dei dati statistici (*Statistics Data Steward*);
 - b. Centro di competenza per la scienza dei dati (DSCC) della Confederazione;
-- c. segreteria della Rete di competenze per l’intelligenza artificiale (CNAI) della Confederazione;
+- c.[^10-3] ...
 - d. segreteria per l’Open Government Data dell’Amministrazione federale centrale.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^10-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^10-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^10-3]: Abrogata dalla cifra II dell’O del 12 dic. 2025, con effetto dal 1° feb. 2026 ([RU 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 #### Art. 11
 
@@ -370,8 +371,8 @@ Al fine di raggiungere questi obiettivi, l’UFAS assume le funzioni seguenti:
 - c. informa e consiglia nel settore delle assicurazioni sociali;
 - d. promuove, nel settore delle assicurazioni sociali, la collaborazione tra le cerchie interessate. Coordina ed adegua tra loro le varie misure tanto all’interno del proprio settore di competenze quanto con le ulteriori misure sociopolitiche della Confederazione, dei Cantoni, dei Comuni.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
-[^11-2]: Abrogata dal n. I dell’O del 15 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 15 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
+[^11-2]: Abrogata dalla cifra I dell’O del 15 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)).
 
 #### Art. 12
 
@@ -400,12 +401,12 @@ Sulla base dei risultati della ricerca scientifica, l’USAV persegue soprattutt
 
 <sup>6</sup> AllʼUSAV è aggregato amministrativamente e tecnicamente il servizio d’omologazione dei prodotti fitosanitari.[^12-8]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^12-2]: Nuovo testo giusta l’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-3]: Introdotta dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-4]: Introdotta dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-5]: Nuovo testo giusta l’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^12-6]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^12-6]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 [^12-7]: Nuovo testo giusta l’all. 4 n. 1 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^12-8]: Introdotto dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
@@ -413,13 +414,13 @@ Sulla base dei risultati della ricerca scientifica, l’USAV persegue soprattutt
 
 [^13-1]
 
-[^13-1]: Abrogato dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^13-1]: Abrogato dalla cifra I n. 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 14 e 15
 
 [^1415-1]
 
-[^1415-1]: Abrogati dal n. I dell’O del 18 ago. 2004, con effetto dal 1<sup>°</sup> gen. 2005 ([RU 2004 4123](https://fedlex.data.admin.ch/eli/oc/2004/606)).
+[^1415-1]: Abrogati dalla cifra I dell’O del 18 ago. 2004, con effetto dal 1<sup>°</sup> gen. 2005 ([RU 2004 4123](https://fedlex.data.admin.ch/eli/oc/2004/606)).
 
 ## Capitolo 3: Unità amministrative dell’amministrazione federale decentrata
 
@@ -427,19 +428,19 @@ Sulla base dei risultati della ricerca scientifica, l’USAV persegue soprattutt
 
 [^16-1]
 
-[^16-1]: Abrogato dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 15 gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+[^16-1]: Abrogato dalla cifra I n. 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 15 gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
 
 #### Art. 16a
 
 [^16a-1]
 
-[^16a-1]: Introdotto dall’art. 13 n. 2 dell’O del 28 set. 2001 concernente l’organizzazione dell’Istituto svizzero per gli agenti terapeutici ([RU 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)). Abrogato dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 15 gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+[^16a-1]: Introdotto dall’art. 13 n. 2 dell’O del 28 set. 2001 concernente l’organizzazione dell’Istituto svizzero per gli agenti terapeutici ([RU 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)). Abrogato dalla cifra I n. 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 15 gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
 
 #### Art. 16b e 16c
 
 [^16b16c-1]
 
-[^16b16c-1]: Introdotti dall’all. 3 n. 4 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Abrogati dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 15 gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+[^16b16c-1]: Introdotti dall’all. 3 n. 4 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Abrogati dalla cifra I n. 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 15 gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
 
 #### Art. 16d
 
@@ -448,7 +449,7 @@ Sulla base dei risultati della ricerca scientifica, l’USAV persegue soprattutt
 I compiti e l’organizzazione del Museo nazionale svizzero (MNS) sono disciplinati nella legge del 12 giugno 2009[^16d-2] sui musei e le collezioni.
 
 [^16d-1]: Introdotto dall’all. 3 n. 4 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^16d-2]: [RS 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
+[^16d-2]: [RS 432.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7081)
 
 #### Art. 16e
 
@@ -459,8 +460,8 @@ I compiti e l’organizzazione del Museo nazionale svizzero (MNS) sono disciplin
 <sup>2</sup> Il personale della Fondazione «Pro Helvetia» è assunto secondo le disposizioni del Codice delle obbligazioni[^16e-3].
 
 [^16e-1]: Introdotto dall’all. 3 n. 4 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^16e-2]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1°gen. 2012.
-[^16e-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16e-2]: [RS 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1°gen. 2012.
+[^16e-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16f
 
@@ -470,14 +471,14 @@ I compiti e l’organizzazione del Museo nazionale svizzero (MNS) sono disciplin
 
 <sup>2</sup> Il suo statuto, i suoi compiti, le sue competenze e la sua organizzazione sono disciplinati dalla legge del 15 dicembre 2000[^16f-2] sugli agenti terapeutici.
 
-[^16f-1]: Introdotto dall’all. 3 n. 4 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Nuovo testo giusta l’all. 6 n. II 12 dell’O del 21 set. 2018 sui medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
-[^16f-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^16f-1]: Introdotto dall’all. 3 n. 4 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Nuovo testo giusta l’all. 6 cifra II n. 12 dell’O del 21 set. 2018 sui medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
+[^16f-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 16g
 
 [^16g-1]
 
-[^16g-1]: Introdotto dal n. I dell’O del 10 giu. 2011 ([RU 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^16g-1]: Introdotto dalla cifra I dell’O del 10 giu. 2011 ([RU 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)). Abrogato dalla cifra I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 16h
 
@@ -485,8 +486,8 @@ I compiti e l’organizzazione del Museo nazionale svizzero (MNS) sono disciplin
 
 I compiti e l’organizzazione di Compenswiss (Fondi di compensazione AVS/AI/IPG) sono disciplinati nella legge del 16 giugno 2017[^16h-2] sui fondi di compensazione.
 
-[^16h-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^16h-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^16h-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^16h-2]: [RS 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 
 ## Capitolo 4: Disposizioni finali
 

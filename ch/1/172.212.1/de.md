@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 28. Juni 2000 für das Eidgenössische Depart
 short: OV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: de
-version: 2024-10-01
+version: 2026-02-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20241001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20260201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/de"
 
 (OV-EDI)
 
-vom 28. Juni 2000 (Stand am 1. Oktober 2024)
+vom 28. Juni 2000 (Stand am 1. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 43 Absatz 2 und 47 Absatz 2 des Regierungs- und Verwal
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## 1. Kapitel: Das Departement
 
@@ -101,7 +101,7 @@ Darüber hinaus erfüllt das Generalsekretariat folgende besonderen Aufgaben:
 [^3-1]: Eingefügt durch Anhang 2 Ziff. 2 der Behindertengleichstellungsverordnung vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
 [^3-2]: Fassung gemäss Art. 13 Abs. 2 der V vom 14. Okt. 2009 über Menschenrechts- und Antirassismusprojekte, in Kraft seit 1. Jan. 2010 ([AS 2009 5327](https://fedlex.data.admin.ch/eli/oc/2009/634)).
 [^3-3]: Eingefügt durch Anhang 3 Ziff. II 1 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^3-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^3-4]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 3a
 
@@ -110,8 +110,8 @@ Darüber hinaus erfüllt das Generalsekretariat folgende besonderen Aufgaben:
 Das Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen erfüllt die Aufgaben nach dem Behindertengleichstellungsgesetz vom 13. Dezember 2002[^3a-2] und der Behindertengleichstellungsverordnung vom 19. November 2003[^3a-3].
 
 [^3a-1]: Eingefügt durch Anhang 2 Ziff. 2 der Behindertengleichstellungsverordnung vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
-[^3a-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^3a-3]: [SR 151.31](https://fedlex.data.admin.ch/eli/cc/2003/668)
+[^3a-2]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^3a-3]: [SR 151.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4927)
 
 ### 2. Abschnitt: Gemeinsame Bestimmungen für die Ämter
 
@@ -163,10 +163,10 @@ Darüber hinaus erfüllt das EBG folgende besonderen Aufgaben:
 - b. Es führt Kontrollen in Bezug auf die Lohngleichheit gemäss Artikel 4 der Verordnung vom 12. Februar 2020[^5-5] über das öffentliche Beschaffungswesen durch.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^5-2]: [SR 0.311.35](https://fedlex.data.admin.ch/eli/cc/2018/168)
-[^5-3]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^5-4]: [SR 311.039.7](https://fedlex.data.admin.ch/eli/cc/2019/672)
-[^5-5]: [SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^5-2]: [SR 0.311.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1299)
+[^5-3]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^5-4]: [SR 311.039.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6206)
+[^5-5]: [SR 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)
 
 #### Art. 6
 
@@ -336,11 +336,12 @@ Es übernimmt darüber hinaus in enger Zusammenarbeit insbesondere mit den ander
 
 - a. Schweizerische Datenverwalterin oder schweizerischer Datenverwalter (*Swiss Data Steward*) und Statistikdatenverwalterin oder Statistikdatenverwalter (*Statistics Data Steward*);
 - b. Kompetenzzentrum für Datenwissenschaft (DSCC) des Bundes;
-- c. Geschäftsstelle des Kompetenznetzwerks für künstliche Intelligenz (CNAI) des Bundes;
+- c.[^10-3] …
 - d. Geschäftsstelle für Open Government Data der zentralen Bundesverwaltung.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^10-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^10-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^10-3]: Aufgehoben durch Ziff. II der V vom 12. Dez. 2025, mit Wirkung seit 1. Febr. 2026 ([AS 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 #### Art. 11
 
@@ -447,7 +448,7 @@ Das BLV verfolgt, gestützt auf wissenschaftliche Grundlagen, insbesondere folge
 Aufgaben und Organisation des Schweizerischen Nationalmuseums (SNM) sind im Museums- und Sammlungsgesetz vom 12. Juni 2009[^16d-2] geregelt.
 
 [^16d-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^16d-2]: [SR 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
+[^16d-2]: [SR 432.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7081)
 
 #### Art. 16e
 
@@ -458,8 +459,8 @@ Aufgaben und Organisation des Schweizerischen Nationalmuseums (SNM) sind im Muse
 <sup>2</sup> Das Personal der Pro Helvetia wird nach Obligationenrecht[^16e-3] angestellt.
 
 [^16e-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^16e-2]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2012 angepasst.
-[^16e-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16e-2]: [SR 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2012 angepasst.
+[^16e-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16f
 
@@ -470,7 +471,7 @@ Aufgaben und Organisation des Schweizerischen Nationalmuseums (SNM) sind im Muse
 <sup>2</sup> Ihre Stellung, ihre Aufgaben, ihre Zuständigkeiten sowie ihre Organisation richten sich nach dem Heilmittelgesetz vom 15. Dezember 2000[^16f-2].
 
 [^16f-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Fassung gemäss Anhang 6 Ziff. II 2 der Arzneimittelverordnung vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
-[^16f-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^16f-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 16g
 
@@ -485,7 +486,7 @@ Aufgaben und Organisation des Schweizerischen Nationalmuseums (SNM) sind im Muse
 Die Aufgaben und die Organisation von Compenswiss (Ausgleichsfonds AHV/IV/EO) sind im Ausgleichsfondsgesetz vom 16. Juni 2017[^16h-2] geregelt.
 
 [^16h-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^16h-2]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^16h-2]: [SR 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 
 ## 4. Kapitel: Schlussbestimmungen
 

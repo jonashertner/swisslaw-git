@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'organisation du Département fédéral 
 short: Org DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: fr
-version: 2024-10-01
+version: 2026-02-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2000-282-20241001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-282-20260201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/fr"
 
 (Org DFI)
 
-du 28 juin 2000 (État le 1<sup>er</sup> octobre 2024)
+du 28 juin 2000 (État le 1<sup>er</sup> février 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 43, al. 2, et 47, al. 2, de la loi fédérale du 21 mars 1997 sur l�
 
 arrête:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Chapitre 1 Département
 
@@ -101,7 +101,7 @@ Il accomplit en outre les tâches particulières suivantes:
 [^3-1]: Introduit par l’annexe 2 ch. 2 de l’O du 19 nov. 2003 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
 [^3-2]: Nouvelle teneur selon l’art. 13 al. 2 de l’O du 14 oct. 2009 sur les projets en faveur des droits de l’homme et de la lutte contre le racisme, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5327](https://fedlex.data.admin.ch/eli/oc/2009/634)).
 [^3-3]: Introduite par l’annexe 3 ch. II 1 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^3-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^3-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 3a
 
@@ -110,8 +110,8 @@ Il accomplit en outre les tâches particulières suivantes:
 Le Bureau fédéral de l’égalité pour les personnes handicapées accomplit les tâches qui lui incombent en vertu de la loi du 13 décembre 2002 sur l’égalité pour les handicapés[^3a-2] et de l’ordonnance du 19 novembre 2003 sur l’égalité pour les handicapés[^3a-3].
 
 [^3a-1]: Introduit par l’annexe 2 ch. 2 de l’O du 19 nov. 2003 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
-[^3a-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^3a-3]: [RS 151.31](https://fedlex.data.admin.ch/eli/cc/2003/668)
+[^3a-2]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^3a-3]: [RS 151.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4927)
 
 ### Section 2 Dispositions communes aux offices
 
@@ -163,10 +163,10 @@ Il accomplit en outre les tâches particulières suivantes:
 - b. effectuer des contrôles en matière d’égalité salariale conformément à l’art. 4 de l’ordonnance du 12 février 2020 sur les marchés publics[^5-5].
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^5-2]: [RS 0.311.35](https://fedlex.data.admin.ch/eli/cc/2018/168)
-[^5-3]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^5-4]: [RS 311.039.7](https://fedlex.data.admin.ch/eli/cc/2019/672)
-[^5-5]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^5-2]: [RS 0.311.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1299)
+[^5-3]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^5-4]: [RS 311.039.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6206)
+[^5-5]: [RS 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)
 
 #### Art. 6
 
@@ -338,11 +338,12 @@ Il assure au surplus, en étroite collaboration notamment avec les autres office
 
 - a. administrateur suisse des données (*swiss data steward*) et administrateur des données de la statistique (*statistics data steward*);
 - b. centre de compétences en science des données (DSCC) de la Confédération;
-- c. secrétariat du réseau de compétences en intelligence artificielle (CNAI) de la Confédération;
+- c.[^10-3] …
 - d. secrétariat pour l’Open Government Data de l’administration fédérale centrale.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^10-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^10-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^10-3]: Abrogée par le ch. II de l’O du 12 déc. 2025, avec effet au 1<sup>er</sup> fév. 2026 ([RO 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 #### Art. 11
 
@@ -447,7 +448,7 @@ Se fondant sur les résultats de la recherche scientifique, l’OSAV poursuit no
 Les tâches et l’organisation du Musée national suisse (MNS) sont régies par la loi du 12 juin 2009 sur les musées et les collections[^16d-2].
 
 [^16d-1]: Introduit par l’annexe 3 ch. 4 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^16d-2]: [RS 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
+[^16d-2]: [RS 432.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7081)
 
 #### Art. 16e
 
@@ -458,8 +459,8 @@ Les tâches et l’organisation du Musée national suisse (MNS) sont régies par
 <sup>2</sup> Le personnel de la fondation Pro Helvetia est engagé sur la base d’un contrat soumis au code des obligations[^16e-3].
 
 [^16e-1]: Introduit par l’annexe 3 ch. 4 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^16e-2]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854). Le renvoi a été adapté au 1<sup>er</sup> janvier 2012 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^16e-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16e-2]: [RS 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110). Le renvoi a été adapté au 1<sup>er</sup> janvier 2012 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^16e-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 16f
 
@@ -470,7 +471,7 @@ Les tâches et l’organisation du Musée national suisse (MNS) sont régies par
 <sup>2</sup> Son statut, ses tâches, ses attributions et son organisation sont régis par la loi du 15 décembre 2000 sur les produits thérapeutiques[^16f-2].
 
 [^16f-1]: Introduit par l’annexe 3 ch. 4 de l’O du 30 juin 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Nouvelle teneur selon l’annexe 6 ch. II 2 de l’O du 21 sept. 2018 sur les médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
-[^16f-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^16f-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 16g
 
@@ -485,7 +486,7 @@ Les tâches et l’organisation du Musée national suisse (MNS) sont régies par
 Les tâches et l’organisation de compenswiss (Fonds de compensation AVS/AI/APG) sont régies par la loi du 16 juin 2017 sur les fonds de compensation[^16h-2].
 
 [^16h-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^16h-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^16h-2]: [RS 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 
 ## Chapitre 4 Dispositions finales
 
