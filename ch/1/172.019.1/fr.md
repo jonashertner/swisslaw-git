@@ -4,11 +4,11 @@ title: "Ordonnance du 2 avril 2025 sur les services numériques et la transforma
 short: ONum
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/235"
 language: fr
-version: 2025-05-01
+version: 2026-02-01
 adopted: 2025-04-02
 in_force: 2025-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/235/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2025-235-20250501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/235/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2025-235-20260201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20250501/fr"
 
 (Ordonnance sur la numérisation, ONum)
 
-du 2 avril 2025 (État le 1<sup>er</sup> mai 2025)
+du 2 avril 2025 (État le 1<sup>er</sup> février 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi fédérale du 17 mars 2023 sur l’utilisation de moyens électronique
 
 arrête:
 
-[^ingress-1]: [RS 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 172.019](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40159)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Chapitre 1 Dispositions générales
 
@@ -189,7 +189,7 @@ Les départements et la Chancellerie fédérale peuvent faire appel à eOperatio
 
 <sup>4</sup> La délégation de la compétence d’exécuter les procédures d’appel d’offres à l’entreprise eOperations Suisse SA se fonde sur l’ordonnance du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale (Org‑OMP)[^13-1].
 
-[^13-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^13-1]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
 
 ## Chapitre 4 Données des autorités fédérales
 
@@ -349,7 +349,7 @@ Sont responsables du traitement au sens de l’art. 5, let. j, de la loi fédér
 - a. l’AFF, pour les données visées à l’art. 21, al. 1, let. a à i;
 - b. les utilisateurs, pour les données visées à l’art. 21, al. 1, let. j, et 2, qu’ils ont enregistrées.
 
-[^23-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 24
 
@@ -408,7 +408,7 @@ Le secteur TNI est dirigé par le délégué à la transformation numérique et 
 
 <sup>5</sup> Il encourage le regroupement des acquisitions des moyens informatiques et des services associés conformément à l’art. 7, al. 3, Org‑OMP[^28-1].
 
-[^28-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^28-1]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
 
 ## Chapitre 6 Organes dans le domaine de la transformation numérique et de la gouvernance de l’informatique
 
@@ -432,11 +432,13 @@ Le Conseil TNI se compose des personnes suivantes:
 - b. un représentant de chaque département;
 - c. le chargé de mission de la Confédération et des cantons auprès de l’Administration numérique suisse;
 - d. un représentant de l’organe de coordination des fournisseurs internes de prestations informatiques;
-- e. un représentant du Secrétariat d’État à la politique de sécurité;
+- e.[^30-1] un représentant du Secrétariat d’État à la politique de sécurité (SEPOS);
 - f. un représentant de l’OFS;
 - g. un représentant du commandement Cyber, pour autant que la discussion porte sur une décision qui oblige ce dernier.
 
 <sup>2</sup> Il est présidé par le délégué TNI.
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 #### Art. 31
 
@@ -462,6 +464,35 @@ Elle a notamment les tâches suivantes:
 - b. coordonner la fourniture des prestations informatiques, notamment en assurant l’harmonisation des interfaces et la gestion des configurations et des versions;
 - c. consolider les positions des fournisseurs internes de prestations informatiques lorsqu’elle est consultée et en vue des délibérations du Conseil TNI.
 
+### Section 2*a* Réseau de compétences en intelligence artificielle
+
+[^chap6-sec2a-1]
+
+[^chap6-sec2a-1]: Introduite par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
+
+#### Art. 32a
+
+<sup>1</sup> Le réseau de compétences en intelligence artificielle met en relation les services administratifs qui traitent de questions liées à l’utilisation de l’intelligence artificielle dans l’administration fédérale.
+
+<sup>2</sup>
+
+Il se compose des services suivants:
+
+- a. les fournisseurs internes de prestations informatiques;
+- b. le secteur TNI;
+- c. l’OFS;
+- d. l’Office fédéral du personnel (OFPER);
+- e. l’Office fédéral des constructions et de la logistique (OFCL);
+- f. le SEPOS;
+- g. l’Office fédéral de la cybersécurité;
+- h. l’Office fédéral de la justice;
+- i. l’Office fédéral de la communication;
+- j. la Direction du droit international public.
+
+<sup>3</sup> Les services administratifs qui appartiennent au réseau s’y investissent en fonction de leurs compétences spécialisées et participent à la mise en œuvre des stratégies liées à l’utilisation de l’intelligence artificielle. D’autres services administratifs peuvent être associés au réseau selon les questions traitées.
+
+<sup>4</sup> Le secteur TNI coordonne le réseau et veille à ce que les services administratifs compétents soient associés aux travaux. Il gère un point de contact.
+
 ### Section 3 Comité de pilotage des processus de soutien
 
 #### Art. 33
@@ -473,14 +504,17 @@ Elle a notamment les tâches suivantes:
 Il se compose d’un représentant de chacune des unités administratives suivantes:
 
 - a. AFF;
-- b. Office fédéral des constructions et de la logistique;
-- c. Office fédéral du personnel;
+- b.[^33-1] OFCL;
+- c.[^33-2] OFPER;
 - d. Office fédéral de l’armement;
 - e. secteur TNI.
 
 <sup>3</sup> Il est présidé par le représentant du secteur TNI.
 
 <sup>4</sup> Un représentant de l’Office fédéral de l’informatique et de la télécommunication participe aux séances, avec voix consultative.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
+[^33-2]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 ### Section 4 Collaboration entre les unités administratives qui gèrent des systèmes d’information dans les domaines de la justice ou de la police
 

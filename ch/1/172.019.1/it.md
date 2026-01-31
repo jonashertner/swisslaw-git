@@ -4,11 +4,11 @@ title: "Ordinanza del 2 aprile 2025 sui servizi digitali e la trasformazione dig
 short: ODigi
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/235"
 language: it
-version: 2025-05-01
+version: 2026-02-01
 adopted: 2025-04-02
 in_force: 2025-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/235/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2025-235-20250501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/235/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2025-235-20260201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20250501/it"
 
 (Ordinanza sulla digitalizzazione, ODigi)
 
-del 2 aprile 2025 (Stato 1° maggio 2025)
+del 2 aprile 2025 (Stato 1° febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge federale del 17 marzo 2023[^ingress-1] concernente l’impiego di
 
 ordina:
 
-[^ingress-1]: [RS 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 172.019](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40159)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -189,7 +189,7 @@ I dipartimenti e la Cancelleria federale possono avvalersi di eOperations Svizze
 
 <sup>4</sup> La delega della competenza per l’esecuzione di procedure di appalto a eOperations Svizzera SA è retta dall’ordinanza del 1° maggio 2024[^13-1] concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale (OOAPub).
 
-[^13-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^13-1]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
 
 ## Capitolo 4: Dati delle autorità federali
 
@@ -349,7 +349,7 @@ I compiti del titolare del trattamento ai sensi della legge federale del 25 sett
 - a. dall’AFF, per i dati di cui all’articolo 21 capoverso 1 lettere a–i;
 - b. dagli utenti, per i dati di cui all’articolo 21 capoversi 1 lettera j e 2 che hanno registrato.
 
-[^23-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 24
 
@@ -408,7 +408,7 @@ Il settore TDT è diretto dal delegato alla trasformazione digitale e alla gover
 
 <sup>5</sup> Promuove il raggruppamento degli acquisti di prestazioni di servizi e di mezzi TIC secondo l’articolo 7 capoverso 3 OOAPub[^28-1].
 
-[^28-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^28-1]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
 
 ## Capitolo 6: Organi nel settore della trasformazione digitale e della governance delle TIC
 
@@ -432,11 +432,13 @@ Il Consiglio TDT si compone delle persone seguenti:
 - b. un rappresentante di ogni dipartimento;
 - c. l’incaricato della Confederazione e dei Cantoni presso l’organizzazione «Amministrazione digitale Svizzera»;
 - d. un rappresentante dell’organo di coordinamento dei fornitori interni di prestazioni TIC;
-- e. un rappresentante della Segreteria di Stato della politica di sicurezza;
+- e.[^30-1] un rappresentante della Segreteria di Stato della politica di sicurezza (SEPOS);
 - f. un rappresentante dell’UST;
 - g. un rappresentante del Comando Ciber, nella misura in cui vengono discusse decisioni vincolanti per il Comando Ciber.
 
 <sup>2</sup> È presieduto dal delegato TDT.
+
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 #### Art. 31
 
@@ -462,6 +464,35 @@ Essa ha segnatamente i compiti seguenti:
 - b. coordinare la fornitura di prestazioni TIC, in particolare garantendo l’armonizzazione delle interfacce e la gestione delle configurazioni e delle versioni;
 - c. consolidare le posizioni dei fornitori interni di prestazioni TIC quando viene consultata e in vista delle deliberazioni del Consiglio TDT.
 
+### Sezione 2*a*: Rete di competenze per l’intelligenza artificiale
+
+[^chap6-sec2a-1]
+
+[^chap6-sec2a-1]: Introdotta dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
+
+#### Art. 32a
+
+<sup>1</sup> La Rete di competenze per l’intelligenza artificiale mette in contatto organi amministrativi che si occupano di questioni relative all’impiego dell’intelligenza artificiale nell’Amministrazione federale.
+
+<sup>2</sup>
+
+Essa include:
+
+- a. i fornitori interni di prestazioni TIC;
+- b. il settore TDT;
+- c. l’UST;
+- d. l’Ufficio federale del personale (UFPER);
+- e. l’Ufficio federale delle costruzioni e della logistica (UFCL);
+- f. la SEPOS;
+- g. l’Ufficio federale della cibersicurezza;
+- h. l’Ufficio federale di giustizia;
+- i. l’Ufficio federale delle comunicazioni; e
+- j. la Direzione del diritto internazionale pubblico.
+
+<sup>3</sup> Gli organi amministrativi coinvolti partecipano alla rete nell’ambito delle loro rispettive competenze e contribuiscono all’attuazione delle relative strategie. Altri organi amministrativi possono essere coinvolti a seconda delle questioni trattate.
+
+<sup>4</sup> Il settore TDT coordina la rete e si occupa di coinvolgere gli organi amministrativi. Gestisce un centro di contatto.
+
 ### Sezione 3: Comitato di gestione dei processi di supporto
 
 #### Art. 33
@@ -473,14 +504,17 @@ Essa ha segnatamente i compiti seguenti:
 Esso si compone di un rappresentante di ciascuna delle seguenti unità amministra-tive:
 
 - a. AFF;
-- b. Ufficio federale delle costruzioni e della logistica;
-- c. Ufficio federale del personale;
+- b.[^33-1] UFCL;
+- c.[^33-2] UFPER;
 - d. Ufficio federale dell’armamento;
 - e. settore TDT.
 
 <sup>3</sup> Il rappresentante del settore TDT ne è il presidente.
 
 <sup>4</sup> Un rappresentante dell’Ufficio federale dell’informatica e della telecomunicazione partecipa alle sedute con voto consultivo.
+
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
+[^33-2]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 ### Sezione 4: Collaborazione delle unità amministrative che gestiscono sistemi d’informazione per la giustizia e la polizia
 

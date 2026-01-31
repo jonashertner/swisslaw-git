@@ -4,11 +4,11 @@ title: "Verordnung vom 2. April 2025 über die digitalen Dienste und die digital
 short: DigiV
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/235"
 language: de
-version: 2025-05-01
+version: 2026-02-01
 adopted: 2025-04-02
 in_force: 2025-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/235/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2025-235-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/235/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2025-235-20260201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/235/20250501/de"
 
 (Digitalisierungsverordnung, DigiV)
 
-vom 2. April 2025 (Stand am 1. Mai 2025)
+vom 2. April 2025 (Stand am 1. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Bundesgesetz vom 17. März 2023[^ingress-1] über den Einsatz 
 
 verordnet:
 
-[^ingress-1]: [SR 172.019](https://fedlex.data.admin.ch/eli/cc/2023/682)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 172.019](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40159)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -151,7 +151,7 @@ Er hört dabei folgende Stellen an:
 
 Verwaltungseinheiten der dezentralen Bundesverwaltung können nicht verpflichtet werden:
 
-- a. ein IKT Mittel nach Artikel 11 Absatz 1 EMBAG zentral bereitzustellen;
+- a. ein IKT-Mittel nach Artikel 11 Absatz 1 EMBAG zentral bereitzustellen;
 - b. ein zentral bereitgestelltes IKT-Mittel nach Artikel 11 Absatz 2 EMBAG zu nutzen.
 
 <sup>4</sup>
@@ -189,7 +189,7 @@ Die Departemente und die Bundeskanzlei können die eOperations Schweiz AG als ex
 
 <sup>4</sup> Die Übertragung der Zuständigkeit zur Durchführung von Beschaffungsverfahren an die eOperations Schweiz AG richtet sich nach der Verordnung vom 1. Mai 2024[^13-1] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung (Org‑VöB).
 
-[^13-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^13-1]: [SR 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
 
 ## 4. Kapitel: Daten von Bundesbehörden
 
@@ -351,7 +351,7 @@ Die Aufgaben des Verantwortlichen nach dem Datenschutzgesetz vom 25. September 2
 - a. die EFV: für die Daten nach Artikel 21 Absatz 1 Buchstaben a–i;
 - b. die Nutzerinnen: für die von ihnen erfassten Daten nach Artikel 21 Absätze 1 Buchstabe j und 2.
 
-[^23-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^23-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 24
 
@@ -410,7 +410,7 @@ Der Bereich DTI wird von der oder dem Delegierten für digitale Transformation u
 
 <sup>5</sup> Er fördert die Bündelung der Beschaffung von Dienstleistungen und IKT-Mitteln nach Artikel 7 Absatz 3 Org‑VöB[^28-1].
 
-[^28-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^28-1]: [SR 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
 
 ## 6. Kapitel: Organe im Bereich digitale Transformation und IKT-Lenkung
 
@@ -434,11 +434,13 @@ Der Digitalisierungsrat setzt sich zusammen aus:
 - b. je einer Departementsvertreterin oder einem Departementsvertreter;
 - c. der oder dem Beauftragten des Bundes und der Kantone der Organisation «Digitale Verwaltung Schweiz»;
 - d. einer Vertreterin oder einem Vertreter des Koordinationsorgans der internen IKT-Leistungserbringer;
-- e. einer Vertreterin oder einem Vertreter des Staatssekretariats für Sicherheitspolitik;
+- e.[^30-1] einer Vertreterin oder einem Vertreter des Staatssekretariats für Sicherheitspolitik (SEPOS);
 - f. einer Vertreterin oder einem Vertreter des BFS;
 - g. einer Vertreterin oder einem Vertreter des Kommandos Cyber, sofern für das Kommando Cyber verbindliche Beschlüsse diskutiert werden.
 
 <sup>2</sup> Die oder der DTI-Delegierte hat den Vorsitz.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 #### Art. 31
 
@@ -464,6 +466,35 @@ Sie hat insbesondere folgende Aufgaben:
 - b. Sie koordiniert die Erbringung von IKT-Leistungen, namentlich indem sie die Harmonisierung der Schnittstellen und die Verwaltung der Konfigurationen und Versionen sicherstellt.
 - c. Sie konsolidiert die Haltungen der internen IKT-Leistungserbringer, wenn sie konsultiert wird sowie im Hinblick auf die Beratungen des Digitalisierungsrats.
 
+### 2*a*. Abschnitt: Kompetenznetzwerk für künstliche Intelligenz
+
+[^chap6-sec2a-1]
+
+[^chap6-sec2a-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
+
+#### Art. 32a
+
+<sup>1</sup> Das Kompetenznetzwerk für künstliche Intelligenz vernetzt Verwaltungsstellen, die mit Fragen im Zusammenhang mit dem Einsatz von künstlicher Intelligenz in der Bundesverwaltung befasst sind.
+
+<sup>2</sup>
+
+Es setzt sich zusammen aus:
+
+- a. den internen IKT-Leistungserbringern;
+- b. dem Bereich DTI;
+- c. dem BFS;
+- d. dem Eidgenössischen Personalamt (EPA);
+- e. dem Bundesamt für Bauten und Logistik (BBL);
+- f. dem SEPOS;
+- g. dem Bundesamt für Cybersicherheit;
+- h. dem Bundesamt für Justiz;
+- i. dem Bundesamt für Kommunikation; und
+- j. der Direktion für Völkerrecht.
+
+<sup>3</sup> Die beteiligten Verwaltungsstellen bringen sich im Rahmen ihrer Fachkompetenzen in das Netzwerk ein und wirken an der Umsetzung der entsprechenden Strategien mit. Je nach Fragestellung können weitere Verwaltungsstellen einbezogen werden.
+
+<sup>4</sup> Der Bereich DTI koordiniert das Netzwerk und sorgt für den Einbezug der Verwaltungsstellen. Er führt eine Anlaufstelle.
+
 ### 3. Abschnitt: Steuerungsausschuss Supportprozesse
 
 #### Art. 33
@@ -475,14 +506,17 @@ Sie hat insbesondere folgende Aufgaben:
 Er setzt sich zusammen aus je einer Vertreterin oder einem Vertreter der folgenden Verwaltungseinheiten:
 
 - a. EFV;
-- b. Bundesamt für Bauten und Logistik;
-- c. Eidgenössisches Personalamt;
+- b.[^33-1] BBL;
+- c.[^33-2] EPA;
 - d. Bundesamt für Rüstung;
 - e. Bereich DTI.
 
 <sup>3</sup> Die Vertreterin oder der Vertreter des Bereichs DTI führt den Vorsitz.
 
 <sup>4</sup> Mit beratender Stimme nimmt eine Vertreterin oder ein Vertreter des Bundesamts für Informatik und Telekommunikation an den Sitzungen teil.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
+[^33-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 869](https://fedlex.data.admin.ch/eli/oc/2025/869)).
 
 ### 4. Abschnitt Zusammenarbeit von Verwaltungseinheiten, die Informationssysteme für Justiz und Polizei betreiben
 
