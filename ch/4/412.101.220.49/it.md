@@ -3,18 +3,18 @@ sr: "412.101.220.49"
 title: Ordinanza della SEFRI del 12 ottobre 2017 sulla formazione professionale di base Assistente di manutenzione per automobili con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/625"
 language: it
-version: 2024-04-01
+version: 2026-02-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2017-625-20240401-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2017-625-20260201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Assistente di manutenzione per automobili con certificato federale di formazione pratica (CFP)
 
-del 12 ottobre 2017 (Stato 1° aprile 2024)
+del 12 ottobre 2017 (Stato 1° febbraio 2026)
 
 <table>
 <tr><td>46318</td><td>Assistente di manutenzione per automobili CFP Automobil-Assistentin EBA/Automobil-Assistent EBA Assistante en maintenance d’automobiles AFP/ Assistant en maintenance d’automobiles AFP</td></tr>
@@ -26,10 +26,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto e durata
 
@@ -112,7 +112,7 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -141,13 +141,14 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.[^7-2]
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 8
 
@@ -194,36 +195,46 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione delle fonti.
 
-[^9-1]: Il piano di formazione del 12 ottobre 2017 relativo all’O della SEFRI sulla formazione professionale di base Assistente di manutenzione per automobili con certificato federale di formazione pratica (CFP) è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z.
+[^9-1]: Il piano di formazione del 12 ott. 2017 relativo all’O della SEFRI sulla formazione professionale di base Assistente di manutenzione per automobili con certificato federale di formazione pratica (CFP) è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z.
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
 #### Art. 10
 
-**Requisiti professionali richiesti ai formatori**
+**Requisiti professionali richiesti ai formatori**[^10-1]
+
+<sup>1</sup>
 
 Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:
 
-- a. attestato federale di capacità meccanico di manutenzione per automobili AFC con almeno tre anni di esperienza nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- b. attestato federale di capacità di meccatronico d’automobili AFC con almeno tre anni di esperienza professionale nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- c. riparatore di autoveicoli qualificato con almeno cinque anni di esperienza professionale nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- d. meccanico d’automobili qualificato con almeno tre anni di esperienza professionale nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- e. elettricista-elettronico per autoveicoli qualificato con almeno tre anni di esperienza professionale nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- f. titolo della formazione professionale superiore in ambito pertinente.
+- a. attestato federale di capacità di meccanico di manutenzione per automobili AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- b. attestato federale di capacità di meccatronico d’automobili AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività del meccanico di manutenzione per automobili AFC o del meccatronico d’automobili AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- d. titolo della formazione professionale superiore in ambito pertinente e almeno due anni di esperienza professionale nel campo d’insegnamento.
+
+<sup>2</sup> Oltre alle qualifiche di cui al capoverso 1, i formatori hanno conseguito l’attestato di un modulo didattico dell’Unione professionale svizzera dell’automobile (UPSA).
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 11
 
 **Numero massimo di persone in formazione in azienda**
 
-<sup>1</sup> Nelle aziende che impiegano un formatore al 100 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.
+<sup>1</sup> Nelle aziende che impiegano un formatore all’80 per cento o due formatori ciascuno almeno al 50 per cento può svolgere il tirocinio una persona in formazione.[^11-1]
 
-<sup>2</sup> Per ogni altro specialista impiegato al 100 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
+<sup>2</sup> Per ogni altro specialista impiegato all’80 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 50 per cento può svolgere il tirocinio una persona in formazione in più.[^11-2]
 
 <sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità, di un certificato federale di formazione pratica o di una qualifica equivalente nel campo della persona in formazione.
 
 <sup>4</sup> Nelle aziende che possono impiegare soltanto una persona in formazione una seconda persona può iniziare il tirocinio quando la prima inizia l’ultimo anno della formazione professionale di base.
 
 <sup>5</sup> In casi particolari l’autorità cantonale può autorizzare un numero maggiore di persone in formazione nelle aziende che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
+
+<sup>6</sup> L’azienda pianifica gli orari lavorativi dei formatori e degli specialisti affinché, durante la pratica professionale, la persona in formazione possa essere seguita da un formatore o da uno specialista.[^11-3]
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^11-3]: Introdotto dalla cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 ## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
@@ -293,43 +304,32 @@ Nelle procedure di qualificazione occorre dimostrare di aver acquisito le compet
 
 Nella procedura di qualificazione con esame finale sono esaminate, nel modo sotto indicato, le competenze operative nei campi di qualificazione seguenti:
 
-- a.
+- a.[^18-1]
 
-  «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di cinque ore e 50 minuti. Vale quanto segue:
+  «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di 6 ore e 20 minuti; vale quanto segue:
 
   - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
   - 2\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione,
   - 3\. è ammessa la consultazione della documentazione dell’apprendimento e dei corsi interaziendali,
-  - 4\. il campo di qualificazione comprende i campi di competenze operative sottoelencati con le ponderazioni seguenti:
+  - 4\. il campo di qualificazione comprende i campi di competenze operative sottoelencati e il colloquio professionale della durata di 30 minuti con le ponderazioni seguenti:
 
 <table>
-<tr><td>Voce</td><td>Campi di competenze operative</td><td>Ponderazione</td></tr>
-<tr><td>1</td><td>Controllo e manutenzione dei veicoli</td><td>33⅓</td></tr>
-<tr><td>2</td><td>Sostituzione di parti usurate</td><td>33⅓</td></tr>
-<tr><td>3</td><td>Collaborazione ai processi aziendali</td><td>33⅓</td></tr>
+<tr><th>Voce</th><th>Campi di competenze operative</th><th>Ponderazione</th></tr>
+<tr><td>1</td><td>Controllo e manutenzione dei veicoli</td><td>25 %</td></tr>
+<tr><td>2</td><td>Sostituzione di parti usurate</td><td>25 %</td></tr>
+<tr><td>3</td><td>Collaborazione ai processi aziendali</td><td>25 %</td></tr>
+<tr><td>4</td><td>Colloquio professionale</td><td>25 %</td></tr>
 </table>
 
-- b.
-
-  «conoscenze professionali», della durata di due ore. Vale quanto segue:
-
-  - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
-  - 2\. il campo di qualificazione comprende i campi di competenze operative e i tipi di esame sottoelencati con la durata e le ponderazioni seguenti:
-
-<table>
-<tr><td>Voce</td><td>Campi di competenze operative</td><td colspan="2">Tipo di esame/Durata</td><td>Ponderazione</td></tr>
-<tr><td></td><td></td><td>scritto</td><td>orale</td><td></td></tr>
-<tr><td>1</td><td>Controllo e manutenzione dei veicoli</td><td>35 min.</td><td></td><td>25 %</td></tr>
-<tr><td>2</td><td>Sostituzione di parti usurate</td><td>35 min.</td><td></td><td>25 %</td></tr>
-<tr><td>3</td><td>Collaborazione ai processi aziendali</td><td>20 min.</td><td></td><td>25 %</td></tr>
-<tr><td>4</td><td>Campi di competenze operative 1-3 combinati (colloquio professionale)</td><td></td><td>30 min.</td><td>25 %</td></tr>
-</table>
-
-- c. «cultura generale». A questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- b.[^18-2] *...*
+- c.[^18-3] «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^18-4] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-2]: Abrogata dalla cifra I dell’O della SEFRI del 7 nov. 2025, con effetto dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-4]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -342,27 +342,30 @@ La procedura di qualificazione con esame finale è superata se:
 - a. per il campo di qualificazione «lavoro pratico» è attribuito almeno il 4;
 - b. la nota complessiva raggiunge almeno il 4.
 
-<sup>2</sup> La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata dei luoghi di formazione.
+<sup>2</sup>
+
+La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata dei luoghi di formazione; vale la seguente ponderazione:
+
+- a. lavoro pratico: 50 per cento;
+- b. cultura generale: 20 per cento;
+- c. nota dei luoghi di formazione: 30 per cento.[^19-1]
 
 <sup>3</sup>
 
-Per nota dei luoghi di formazione si intende la media arrotondata a un decimale delle note relative a:
+Per nota dei luoghi di formazione si intende la media arrotondata a un decimale della somma delle note sottoelencate con la ponderazione seguente:
 
-- a. insegnamento delle conoscenze professionali;
-- b. corsi interaziendali.
+- a. nota relativa all’insegnamento delle conoscenze professionali: 60 per cento;
+- b. nota relativa ai corsi interaziendali: 40 per cento.[^19-2]
 
 <sup>4</sup> Per nota relativa all’insegnamento delle conoscenze professionali si intende la media arrotondata al punto o al mezzo punto della somma delle quattro note delle pagelle semestrali.
 
 <sup>5</sup> Per nota relativa ai corsi interaziendali si intende la media arrotondata al punto o al mezzo punto delle note conseguite nei due controlli delle competenze.
 
-<sup>6</sup>
+<sup>6</sup> ...[^19-3]
 
-Per il calcolo della nota complessiva valgono le note sottoelencate con la ponderazione seguente:
-
-- a. lavoro pratico: 40 per cento;
-- b. conoscenze professionali: 20 per cento;
-- c. cultura generale: 20 per cento;
-- d. nota dei luoghi di formazione: 20 per cento.
+[^19-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^19-3]: Abrogato dalla cifra I dell’O della SEFRI del 7 nov. 2025, con effetto dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 20
 
@@ -386,9 +389,10 @@ Per il calcolo della nota complessiva valgono le note sottoelencate con la ponde
 
 In questo caso, per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
 
-- a. lavoro pratico: 50 per cento;
-- b. conoscenze professionali: 30 per cento;
-- c. cultura generale: 20 per cento.
+- a. lavoro pratico: 80 per cento;
+- b. cultura generale: 20 per cento.[^21-1]
+
+[^21-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 ## Sezione 9: Attestazioni e titolo
 
@@ -415,7 +419,7 @@ Se il certificato federale di formazione pratica è stato conseguito mediante pr
 
 La Commissione svizzera per lo sviluppo professionale e la qualità della formazione delle professioni tecniche dell’automobile è composta da:
 
-- a. 7-9 rappresentanti dell’Unione professionale svizzera dell’automobile (UPSA);
+- a.[^23-1] da 7 a 9 rappresentanti dell’UPSA;
 - b. almeno un rappresentante dell’Associazione svizzera maestri d’officina (*Verband Schweizerischer Werkstattlehrer - VSW*);
 - c. almeno un rappresentante dell’Associazione svizzera degli insegnanti professionali di tecnica automobilistica (ASITA – SVBA – ASETA);
 - d. un rappresentante di ciascuna delle parti sociali;
@@ -444,6 +448,8 @@ Essa svolge in particolare i seguenti compiti:
   - 1\. riguardo agli strumenti per la validazione degli apprendimenti acquisiti,
   - 2\. riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
 
+[^23-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+
 #### Art. 24
 
 **Organizzazione e responsabili dei corsi interaziendali**
@@ -468,15 +474,17 @@ L’ordinanza della SEFRI del 20 dicembre 2006[^25-1] sulla formazione professio
 
 #### Art. 26
 
-**Disposizioni transitorie e prima applicazione di singole disposizioni**
+**Disposizioni transitorie della modifica del 7 novembre 2025 e prima applicazione di singole disposizioni**[^26-1]
 
-<sup>1</sup> Le persone che hanno iniziato la formazione di assistente di manutenzione per automobili prima del 1° gennaio 2018 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2021.
+<sup>1</sup> Gli articoli 18 capoverso 1 lettere a e b, 19 capoversi 2, 3 e 6 e 21 capoverso 2 della modifica del 7 novembre 2025 si applicano dal 1° gennaio 2028.
 
-<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per assistente di manutenzione per automobili entro il 31 dicembre 2021 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+<sup>2</sup> Le persone che hanno iniziato la formazione di assistente di manutenzione per automobili CFP prima dell’entrata in vigore della modifica del 7 novembre 2025 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2029.
 
-<sup>3</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 16–22) si applicano dal 1° gennaio 2020.
+<sup>3</sup> Le persone che, dopo l’entrata in vigore della modifica del 7 novembre 2025, iniziano una formazione abbreviata che si conclude anteriormente alla prima applicazione degli articoli 18 capoverso 1 lettere a e b, 19 capoversi 2, 3 e 6 e 21 capoverso 2 della modifica del 7 novembre 2025, la svolgono e la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2029.
 
-<sup>4</sup> I formatori di cui all’articolo 10 lettere a–e devono aver conseguito il diploma del modulo didattico UPSA entro il 31 dicembre 2020.
+<sup>4</sup> I candidati che hanno portato a termine la procedura di qualificazione con esame finale per assistente di manutenzione per automobili CFP in base al diritto anteriore e che la ripetono entro il 31 dicembre 2029 sono valutati in base al diritto anteriore.
+
+[^26-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 27
 

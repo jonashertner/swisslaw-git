@@ -3,18 +3,18 @@ sr: "412.101.220.49"
 title: "Ordonnance du SEFRI du 12 octobre 2017 sur la formation professionnelle initiale d'assistante en maintenance d'automobiles/assistant en maintenance d'automobiles avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/625"
 language: fr
-version: 2024-04-01
+version: 2026-02-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-625-20240401-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-625-20260201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’assistante en maintenance d’automobiles/ assistant en maintenance d’automobiles avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 12 octobre 2017 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 12 octobre 2017 (État le 1<sup>er</sup> février 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -28,10 +28,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet et durée
 
@@ -114,7 +114,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies à l’annexe 2 du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -143,13 +143,14 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].[^7-2]
 
 <sup>4</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent admettre des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 8
 
@@ -202,30 +203,40 @@ Le plan de formation:
 
 #### Art. 10
 
-**Exigences posées aux formateurs**
+**Exigences posées aux formateurs**[^10-1]
+
+<sup>1</sup>
 
 Les personnes ci-après remplissent les exigences posées aux formateurs:
 
-- a. les mécaniciens en maintenance d’automobiles CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent et ayant achevé avec succès le module didactique de l’Union professionnelle suisse de l’automobile (UPSA);
-- b. les mécatroniciens d’automobiles CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent et ayant achevé avec succès le module didactique de l’UPSA;
-- c. les réparateurs d’automobiles qualifiés justifiant d’au moins 5 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent et ayant achevé avec succès le module didactique de l’UPSA;
-- d. les mécaniciens d’automobiles qualifiés justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent et ayant achevé avec succès le module didactique de l’UPSA;
-- e. les électriciens-électroniciens en véhicules qualifiés justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent et ayant achevé avec succès le module didactique de l’UPSA;
-- f. les personnes titulaires d’un titre correspondant de la formation professionnelle supérieure.
+- a. les mécaniciens en maintenance d’automobiles CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- b. les mécatroniciens d’automobiles CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- c. les titulaires d’un certificat fédéral de capacité dans une profession apparentée justifiant des connaissances professionnelles requises propres aux mécaniciens en maintenance d’automobiles CFC ou aux mécatroniciens d’automobiles CFC et d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- d. les titulaires d’un titre correspondant de la formation professionnelle supérieure justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
+
+<sup>2</sup> En plus des qualifications visées à l’al. 1, les formateurs doivent être titulaires d’un certificat de module didactique de l’Union professionnelle suisse de l’automobile (UPSA).
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 11
 
 **Nombre maximal de personnes en formation**
 
-<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 100 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
+<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 80 % ou de deux formateurs occupés chacun au moins à 50 % peuvent former une personne.[^11-1]
 
-<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 100 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
+<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 80 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 50 %.[^11-2]
 
 <sup>3</sup> Sont réputés professionnels les titulaires d’un certificat fédéral de capacité, d’une attestation fédérale de formation professionnelle ou d’une qualification équivalente dans le domaine de la personne en formation.
 
 <sup>4</sup> Dans les entreprises qui ne sont autorisées à former qu’une seule personne, une seconde personne peut commencer sa formation si la première entame sa dernière année de formation professionnelle initiale.
 
 <sup>5</sup> Dans des cas particuliers, l’autorité cantonale peut autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
+
+<sup>6</sup> Les entreprises organisent le temps de travail des formateurs ou des professionnels de telle manière que les personnes en formation puissent être encadrées par un formateur ou un professionnel à tout moment de leur formation en entreprise.[^11-3]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^11-3]: Introduit par le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 ## Section 7 Dossier de formation, rapport de formation et dossiers des prestations
 
@@ -295,43 +306,32 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 La procédure de qualification avec examen final porte sur les compétences opérationnelles dans les domaines de qualification ci-après selon les modalités suivantes:
 
-- a.
+- a.[^18-1]
 
-  travail pratique sous la forme d’un travail pratique prescrit (TPP) d’une durée de 5 heures et 50 minutes; les règles suivantes s’appliquent:
+  travail pratique sous la forme d’un travail pratique prescrit (TPP) d’une durée de 6 heures et 20 minutes; les règles suivantes s’appliquent:
 
   - 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
   - 2\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation,
   - 3\. le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aide,
-  - 4\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
+  - 4\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après ainsi que sur l’entretien professionnel d’une durée de 30 minutes, pondérés de la manière suivante:
 
 <table>
-<tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td>Pondération</td></tr>
-<tr><td>1</td><td>Contrôle et entretien des véhicules</td><td>33⅓ %</td></tr>
-<tr><td>2</td><td>Remplacement des pièces d’usure</td><td>33⅓ %</td></tr>
-<tr><td>3</td><td>Soutien des procédures de l’entreprise</td><td>33⅓ %</td></tr>
+<tr><th>Point d’appréciation</th><th>Domaines de compétences opérationnelles</th><th>Pondération</th></tr>
+<tr><td>1</td><td>Contrôle et entretien des véhicules</td><td>25 %</td></tr>
+<tr><td>2</td><td>Remplacement des pièces d’usure</td><td>25 %</td></tr>
+<tr><td>3</td><td>Soutien des procédures de l’entreprise</td><td>25 %</td></tr>
+<tr><td>4</td><td>Entretien professionnel</td><td>25 %</td></tr>
 </table>
 
-- b.
-
-  connaissances professionnelles d’une durée de 2 heures; les règles suivantes s’appliquent:
-
-  - 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
-  - 2\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations et des durées suivantes:
-
-<table>
-<tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td colspan="2">Forme et durée d’examen</td><td>Pondération</td></tr>
-<tr><td></td><td></td><td>écrit</td><td>oral</td><td></td></tr>
-<tr><td>1</td><td>Contrôle et entretien des véhicules</td><td>35 min</td><td></td><td>25 %</td></tr>
-<tr><td>2</td><td>Remplacement des pièces d’usure</td><td>35 min</td><td></td><td>25 %</td></tr>
-<tr><td>3</td><td>Soutien des procédures de l’entreprise</td><td>20 min</td><td></td><td>25 %</td></tr>
-<tr><td>4</td><td>Synthèse des domaines de compétences opérationnelles 1 à 3 (entretien professionnel)</td><td></td><td>30 min</td><td>25 %</td></tr>
-</table>
-
-- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- b.[^18-2] *…*
+- c.[^18-3] culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-4].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-2]: Abrogée par le ch. I de l’O du SEFRI du 7 nov. 2025, avec effet au 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-4]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -344,27 +344,30 @@ La procédure de qualification avec examen final est réussie si:
 - a. la note du domaine de qualification «travail pratique» est supérieure ou égale à 4, et
 - b. la note globale est supérieure ou égale à 4.
 
-<sup>2</sup> La note globale correspond à la moyenne, arrondie à la première décimale, des notes pondérées des domaines de qualification de l’examen final et de la note d’expérience pondérée.
+<sup>2</sup>
+
+La note globale correspond à la moyenne, arrondie à la première décimale, des notes pondérées des domaines de qualification de l’examen final et de la note d’expérience pondérée; la pondération suivante s’applique:
+
+- a. travail pratique: 50 %;
+- b. culture générale: 20 %;
+- c. note d’expérience: 30 %.[^19-1]
 
 <sup>3</sup>
 
-La note d’expérience correspond à la moyenne, arrondie à la première décimale, des notes concernant:
+La note d’expérience correspond à la moyenne, arrondie à la première décimale, des notes ci-après pondérées de la manière suivante:
 
-- a. l’enseignement des connaissances professionnelles;
-- b. les cours interentreprises.
+- a. note de l’enseignement des connaissances professionnelles: 60 %;
+- b. note des cours interentreprises: 40 %.[^19-2]
 
 <sup>4</sup> La note de l’enseignement des connaissances professionnelles correspond à la moyenne, arrondie à une note entière ou à une demi-note, des 4 notes semestrielles de l’enseignement des connaissances professionnelles.
 
 <sup>5</sup> La note des cours interentreprises correspond à la moyenne, arrondie à une note entière ou à une demi-note, des 2 notes des contrôles de compétence.
 
-<sup>6</sup>
+<sup>6</sup> …[^19-3]
 
-Pour le calcul de la note globale, les notes sont pondérées de la manière suivante:
-
-- a. travail pratique: 40 %;
-- b. connaissances professionnelles: 20 %;
-- c. culture générale: 20 %;
-- d. note d’expérience: 20 %.
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^19-3]: Abrogé par le ch. I de l’O du SEFRI du 7 nov. 2025, avec effet au 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 20
 
@@ -376,7 +379,9 @@ Pour le calcul de la note globale, les notes sont pondérées de la manière sui
 
 <sup>3</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus l’enseignement des connaissances professionnelles, l’ancienne note d’expérience est prise en compte. Pour les personnes qui suivent à nouveau l’enseignement des connaissances professionnelles pendant 2 semestres au minimum, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
 
-<sup>4</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus les cours interentreprises, l’ancienne note d’expérience est prise en compte. Pour les personnes qui suivent à nouveau l’enseignement des connaissances professionnelles pendant 2 semestres au minimum, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
+<sup>4</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus les cours interentreprises, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau les deux derniers cours interentreprises évalués, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.[^20-1]
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 21
 
@@ -388,9 +393,10 @@ Pour le calcul de la note globale, les notes sont pondérées de la manière sui
 
 Pour le calcul de la note globale, les notes sont pondérées de la manière suivante:
 
-- a. travail pratique: 50 %;
-- b. connaissances professionnelles: 30 %;
-- c. culture générale: 20 %.
+- a. travail pratique: 80 %;
+- b. culture générale: 20 %.[^21-1]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 ## Section 9 Certificat et titre
 
@@ -411,11 +417,11 @@ Si l’AFP a été obtenue par le biais de la procédure de qualification avec e
 
 #### Art. 23
 
-**Commission suisse pour le développement professionnel et la qualité de la formation dans les professions techniques de l’automobile**
+**Commission suisse pour le développement des professions et la qualité de la formation dans les professions techniques de l’automobile[^23-1]**
 
 <sup>1</sup>
 
-La Commission suisse pour le développement professionnel et la qualité de la formation dans les professions techniques de l’automobile comprend:
+La Commission suisse pour le développement des professions et la qualité de la formation dans les professions techniques de l’automobile comprend:[^23-2]
 
 - a. 7 à 9 représentants de l’UPSA;
 - b. au moins 1 représentant du «Verband Schweizerischer Werkstattlehrer» (VSW);
@@ -446,6 +452,9 @@ Elle est notamment chargée des tâches suivantes:
   - 1\. les instruments de validation des acquis de l’expérience,
   - 2\. les instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, en particulier les dispositions d’exécution relatives aux procédures de qualification avec examen final.
 
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+
 #### Art. 24
 
 **Organe responsable et organisation des cours interentreprises**
@@ -470,15 +479,17 @@ L’ordonnance du 20 décembre 2006 sur la formation professionnelle initiale co
 
 #### Art. 26
 
-**Dispositions transitoires et première application de dispositions particulières**
+**Dispositions transitoires de la modification du 7 novembre 2025 et première application de dispositions particulières**[^26-1]
 
-<sup>1</sup> Les personnes qui ont commencé leur formation d’assistant en maintenance d’automobiles avant le 1er janvier 2018 l’achèvent selon l’ancien droit, mais au plus tard le 31 décembre 2021.
+<sup>1</sup> Les art. 18, al. 1, let. a et b, 19, al. 2, 3 et 6, et 21, al. 2, de la modification du 7 novembre 2025 sont applicables au 1<sup>er</sup> janvier 2028.
 
-<sup>2</sup> Les candidats qui répètent la procédure de qualification avec examen final d’assistant en maintenance d’automobiles jusqu’au 31 décembre 2021 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont examinés selon le nouveau droit.
+<sup>2</sup> Les personnes qui ont commencé leur formation d’assistant en maintenance d’automobiles AFP avant l’entrée en vigueur de la modification du 7 novembre 2025 l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2029.
 
-<sup>3</sup> Les dispositions relatives aux procédures de qualification, au certificat et au titre (art. 16 à 22) sont applicables au 1<sup>er</sup> janvier 2020.
+<sup>3</sup> Les personnes qui, après l’entrée en vigueur de la modification du 7 novembre 2025, commencent une formation raccourcie se terminant avant la première application des art. 18, al. 1, let. a et b, 19, al. 2, 3 et 6, et 21, al. 2, de la modification du 7 novembre 2025 la suivent et l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2029.
 
-<sup>4</sup> Les formateurs au sens de l’art. 10, let. a à e doivent avoir achevé avec succès le module didactique de l’UPSA au plus tard le 31 décembre 2020.
+<sup>4</sup> Les candidats qui se sont présentés à la procédure de qualification avec examen final d’assistant en maintenance d’automobiles AFP selon l’ancien droit et qui la répètent jusqu’au 31 décembre 2029 voient leurs prestations appréciées selon l’ancien droit.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 27
 

@@ -3,18 +3,18 @@ sr: "412.101.220.49"
 title: Verordnung des SBFI vom 12. Oktober 2017 über die berufliche Grundbildung Automobil-Assistentin/Automobil-Assistent mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/625"
 language: de
-version: 2024-04-01
+version: 2026-02-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2017-625-20240401-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/625/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2017-625-20260201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/625/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Automobil-Assistentin/Automobil-Assistent mit eidgenössischem Berufsattest (EBA)
 
-vom 12. Oktober 2017 (Stand am 1. April 2024)
+vom 12. Oktober 2017 (Stand am 1. Februar 2026)
 
 <table>
 <tr><td>46318</td><td>Automobil-Assistentin EBA/Automobil-Assistent EBA Assistante en maintenance d’automobiles AFP / Assistant en maintenance d’automobiles AFP Assistente di manutenzione per automobili CFP</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -112,7 +112,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
-[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -141,13 +141,14 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.[^7-2]
 
 <sup>4</sup> Unterrichtssprache ist die Landessprache des Schulortes. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 8
 
@@ -196,34 +197,48 @@ Der Bildungsplan hat folgenden Inhalt:
 
 [^9-1]: Bildungsplan vom 12. Okt. 2017 zur V des SBFI über die berufliche Grundbildung für Automobil-Assistentin/Automobil-Assistent mit eidgenössischem Berufsattest EBA, zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe von A–Z.
 
-## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 10
 
-**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**[^10-1]
+
+<sup>1</sup>
 
 Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
 
-- a. Automobil-Fachfrau EFZ oder Automobil-Fachmann EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet und dem Didaktik-Modul AGVS mit Abschluss;
-- b. Automobil-Mechatronikerin EFZ oder Automobil-Mechatroniker EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet und dem Didaktik-Modul AGVS mit Abschluss;
-- c. gelernte Automonteurin oder gelernter Automonteur mit mindestens fünf Jahren beruflicher Praxis im Lehrgebiet und dem Didaktik-Modul AGVS mit Abschluss;
-- d. gelernte Automechanikerin oder gelernter Automechaniker mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet und dem Didaktik-Modul AGVS mit Abschluss;
-- e. gelernte Fahrzeug-Elektriker-Elektronikerin oder gelernter Fahrzeug-Elektriker-Elektroniker mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet und dem Didaktik-Modul AGVS mit Abschluss;
-- f. einschlägiger Abschluss der höheren Berufsbildung.
+- a. Automobil-Fachfrau oder -Fachmann EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- b. Automobil-Mechatronikerin oder -Mechatroniker EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Automobil-Fachfrau und des Automobil-Fachmannes EFZ oder der Automobil-Mechatronikerin und des Automobil-Mechatronikers EFZ und mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- d. einschlägiger Abschluss der höheren Berufsbildung mit mindestens zwei Jahren beruflicher Praxis im Lehrgebiet.
+
+<sup>2</sup> Berufsbildnerinnen und Berufsbildner müssen zusätzlich zu den Qualifikationen nach Absatz 1 über ein Didaktikmodul des Auto Gewerbe Verbandes Schweiz (AGVS) mit Abschluss verfügen.
+
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 11
 
 **Höchstzahl der Lernenden**
 
-<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 100 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.
+<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 80 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 50 Prozent beschäftigen, dürfen eine lernende Person ausbilden.[^11-1]
 
-<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.
+<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 80 Prozent oder von zwei Fachkräften zu je mindestens 50 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.[^11-2]
 
 <sup>3</sup> Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis, ein eidgenössisches Berufsattest oder über eine gleichwertige Qualifikation verfügt.
 
 <sup>4</sup> In Betrieben, die nur eine lernende Person ausbilden dürfen, kann eine zweite lernende Person ihre Bildung beginnen, wenn die erste in das letzte Jahr der beruflichen Grundbildung eintritt.
 
 <sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
+
+<sup>6</sup> Der Betrieb organisiert die Arbeitszeit der Berufsbildnerinnen oder Berufsbildner und der Fachkräfte so, dass die Lernenden während der beruflichen Praxis von einer Berufsbildnerin oder einem Berufsbildner oder von einer Fachkraft beaufsichtigt sind.[^11-3]
+
+[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^11-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^11-3]: Eingefügt durch Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 ## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen
 
@@ -293,44 +308,32 @@ In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen n
 
 Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen in den nachstehenden Qualifikationsbereichen wie folgt geprüft:
 
-- a.
+- a.[^18-1]
 
-  Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 5 Stunden 50 Minuten. Dafür gilt Folgendes:
+  praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 6 Stunden 20 Minuten; dafür gilt Folgendes:
 
-  - 1\. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft.
-  - 2\. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen.
-  - 3\. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
-  - 4\. Der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche mit den nachstehenden Gewichtungen:
-
-<table>
-<tr><td>Position</td><td>Handlungskompetenzbereiche</td><td>Gewichtung</td></tr>
-<tr><td>1</td><td>Prüfen und Warten von Fahrzeugen</td><td>33⅓</td></tr>
-<tr><td>2</td><td>Austauschen von Verschleissteilen</td><td>33⅓</td></tr>
-<tr><td>3</td><td>Unterstützen von betrieblichen Abläufen</td><td>33⅓</td></tr>
-</table>
-
-- [tab]
-- b.
-
-  Berufskenntnisse, im Umfang von 2 Stunden. Dafür gilt Folgendes:
-
-  - 1\. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft.
-  - 2\. Der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche und Prüfungsformen in nachstehender Dauer und mit den nachstehenden Gewichtungen:
+  - 1\. dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft,
+  - 2\. die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen,
+  - 3\. die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden,
+  - 4\. der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche sowie das Fachgespräch im Umfang von 30 Minuten mit den nachstehenden Gewichtungen:
 
 <table>
-<tr><td>Position</td><td>Handlungskompetenzbereiche</td><td colspan="2">Prüfungsform und Dauer</td><td>Gewichtung</td></tr>
-<tr><td></td><td></td><td>schriftlich</td><td>mündlich</td><td></td></tr>
-<tr><td>1</td><td>Prüfen und Warten von Fahrzeugen</td><td>35 Min.</td><td></td><td>25 %</td></tr>
-<tr><td>2</td><td>Austauschen von Verschleissteilen</td><td>35 Min.</td><td></td><td>25 %</td></tr>
-<tr><td>3</td><td>Unterstützen von betrieblichen Abläufen</td><td>20 Min.</td><td></td><td>25 %</td></tr>
-<tr><td>4</td><td>Handlungskompetenzbereiche 1–3 vernetzen (Fachgespräch)</td><td></td><td>30 Min.</td><td>25 %</td></tr>
+<tr><th>Position</th><th>Handlungskompetenzbereiche</th><th>Gewichtung</th></tr>
+<tr><td>1</td><td>Prüfen und Warten von Fahrzeugen</td><td>25 %</td></tr>
+<tr><td>2</td><td>Austauschen von Verschleissteilen</td><td>25 %</td></tr>
+<tr><td>3</td><td>Unterstützen von betrieblichen Abläufen</td><td>25 %</td></tr>
+<tr><td>4</td><td>Fachgespräch</td><td>25 %</td></tr>
 </table>
 
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- b.[^18-2] …
+- c.[^18-3] Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^18-4] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-2]: Aufgehoben durch Ziff. I der V des SBFI vom 7. Nov. 2025, mit Wirkung seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-3]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^18-4]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -343,27 +346,30 @@ Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
 - a. der Qualifikationsbereich «praktische Arbeit» mindestens mit der Note 4 bewertet wird; und
 - b. die Gesamtnote mindestens 4 beträgt.
 
-<sup>2</sup> Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der gewichteten Noten der einzelnen Qualifikationsbereiche der Abschlussprüfung und der gewichteten Erfahrungsnote.
+<sup>2</sup>
+
+Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der gewichteten Noten der einzelnen Qualifikationsbereiche der Abschlussprüfung und der gewichteten Erfahrungsnote; dabei gilt folgende Gewichtung:
+
+- a. praktische Arbeit: 50 %;
+- b. Allgemeinbildung: 20 %;
+- c. Erfahrungsnote: 30 %.[^19-1]
 
 <sup>3</sup>
 
-Die Erfahrungsnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der Noten für:
+Die Erfahrungsnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der folgenden Noten mit nachstehender Gewichtung:
 
-- a. den Unterricht in den Berufskenntnissen;
-- b. die überbetrieblichen Kurse.
+- a. Note für den Unterricht in den Berufskenntnissen: 60 %;
+- b. Note für die überbetrieblichen Kurse: 40 %.[^19-2]
 
 <sup>4</sup> Die Note für den Unterricht in den Berufskenntnissen ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der vier Semesterzeugnisnoten.
 
 <sup>5</sup> Die Note für die überbetrieblichen Kurse ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der zwei benoteten Kompetenznachweise.
 
-<sup>6</sup>
+<sup>6</sup> …[^19-3]
 
-Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichtet:
-
-- a. praktische Arbeit: 40 %;
-- b. Berufskenntnisse: 20 %;
-- c. Allgemeinbildung: 20 %;
-- d. Erfahrungsnote: 20 %.
+[^19-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^19-2]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+[^19-3]: Aufgehoben durch Ziff. I der V des SBFI vom 7. Nov. 2025, mit Wirkung seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 20
 
@@ -387,9 +393,10 @@ Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichte
 
 Für die Berechnung der Gesamtnote werden in diesem Fall die einzelnen Noten wie folgt gewichtet:
 
-- a. praktische Arbeit: 50 %;
-- b. Berufskenntnisse: 30 %;
-- c. Allgemeinbildung: 20 %.
+- a. praktische Arbeit: 80 %;
+- b. Allgemeinbildung: 20 %.[^21-1]
+
+[^21-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 ## 9. Abschnitt: Ausweise und Titel
 
@@ -416,7 +423,7 @@ Ist das Berufsattest mittels Qualifikationsverfahren mit Abschlussprüfung erwor
 
 Die Schweizerische Kommission für Berufsentwicklung und Qualität dertechnischen Automobilberufe setzt sich zusammen aus:
 
-- a. sieben bis neun Vertreterinnen oder Vertretern des «Auto Gewerbe Verbandes Schweiz» (AGVS);
+- a.[^23-1] sieben bis neun Vertreterinnen oder Vertretern des AGVS;
 - b. mindestens einer Vertreterin oder einem Vertreter des «Verbands Schweizerischer Werkstattlehrer» (VSW);
 - c. mindestens einer Vertreterin oder einem Vertreter der «Schweizerischen Vereinigung der Berufsschullehrer für Automobiltechnik» (SVBA – ASETA – ASITA);
 - d. jeder einer Vertreterin oder einem Vertreter der Sozialpartner;
@@ -445,6 +452,8 @@ Sie hat insbesondere folgende Aufgaben:
   - 1\. den Instrumenten für die Validierung von Bildungsleistungen,
   - 2\. den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung.
 
+[^23-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
+
 #### Art. 24
 
 **Trägerschaft und Organisation der überbetrieblichen Kurse**
@@ -469,15 +478,17 @@ Die Verordnung des SBFI vom 20. Dezember 2006[^25-1] über die berufliche Grundb
 
 #### Art. 26
 
-**Übergangsbestimmungen und erstmalige Anwendung einzelner Bestimmungen**
+**Übergangsbestimmungen zur Änderung vom 7. November 2025 und erstmalige Anwendung einzelner geänderter Bestimmungen**[^26-1]
 
-<sup>1</sup> Lernende, die ihre Bildung als Automobil-Assistentin oder Automobil-Assistent vor dem 1. Januar 2018 begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2021.
+<sup>1</sup> Die Artikel 18 Absatz 1 Buchstaben a und b, 19 Absätze 2, 3 und 6 und 21 Absatz 2 der Änderung vom 7. November 2025 kommen ab dem 1. Januar 2028 zur Anwendung.
 
-<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Automobil-Assistentin oder Automobil-Assistent bis zum 31. Dezember 2021 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+<sup>2</sup> Lernende, die ihre Ausbildung als Automobil-Assistentin oder Automobil-Assistent EBA vor dem Inkrafttreten der Änderung vom 7. November 2025 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2029 erfolgt.
 
-<sup>3</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 16–22) kommen ab dem 1. Januar 2020 zur Anwendung.
+<sup>3</sup> Lernende, die nach dem Inkrafttreten der Änderung vom 7. November 2025 eine verkürzte Ausbildung beginnen, die vor der erstmaligen Anwendung der Artikel 18 Absatz 1 Buchstaben a und b, 19 Absätze 2, 3 und 6 und 21 Absatz 2 der Änderung vom 7. November 2025 endet, absolvieren sie nach bisherigem Recht und schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2029 erfolgt.
 
-<sup>4</sup> Berufsbildnerinnen und Berufsbildner gemäss Artikel 10 Buchstaben a–e müssen den Abschluss des Didaktik-Moduls AGVS bis spätestens am 31. Dezember 2020 erworben haben.
+<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Automobil-Assistentin oder Automobil-Assistent EBA gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2029 wiederholen, werden nach bisherigem Recht beurteilt.
+
+[^26-1]: Fassung gemäss Ziff. I der V des SBFI vom 7. Nov. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 741](https://fedlex.data.admin.ch/eli/oc/2025/741)).
 
 #### Art. 27
 
