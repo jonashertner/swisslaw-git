@@ -4,11 +4,11 @@ title: Ordinanza del 23 aprile 2008 sulla protezione degli animali (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: it
-version: 2025-11-27
+version: 2026-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20251127/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20251127-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20260201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/it"
 
 (OPAn)
 
-del 23 aprile 2008 (Stato 27 novembre 2025)
+del 23 aprile 2008 (Stato 1° febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2018,6 +2018,18 @@ Il direttore del centro di detenzione di animali da laboratorio deve aver conseg
 [^115-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^115-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
+#### Art. 115a
+
+**Accudimento da parte di un veterinario nei centri di detenzione di animali da laboratorio**[^115a-1]
+
+<sup>1</sup> In ogni centro di detenzione di animali da laboratorio deve essere designato un veterinario. Deve essere garantita la sua supplenza.
+
+<sup>2</sup> Il veterinario è responsabile della sorveglianza veterinaria e dell’accudimento degli animali da laboratorio.
+
+<sup>3</sup> Il veterinario deve dimostrare di disporre delle conoscenze specialistiche necessarie delle specie animali detenute.
+
+[^115a-1]: Introdotto dalla cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb 2026 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 #### Art. 116
 
 **Requisiti per il personale che accudisce gli animali da laboratorio**
@@ -2276,7 +2288,7 @@ Il responsabile d’esperimento:
 
 - a. si assume la responsabilità, dal punto di vista scientifico e della protezione degli animali, per la pianificazione e una corretta esecuzione dell’esperimento;
 - b. è responsabile dell’assegnazione del lavoro, dell’istruzione delle persone che eseguono esperimenti, del controllo dei lavori, dell’organizzazione dell’assistenza adeguata agli animali da laboratorio, della loro sorveglianza e dello svolgimento dei necessari lavori di documentazione;
-- c. stabilisce chi si assume la responsabilità del centro di detenzione per tutta la durata dell’esperimento e ne disciplina i particolari in una convenzione stipulata con il direttore del centro di detenzione;
+- c. stabilisce chi si assume la responsabilità del centro di detenzione per tutta la durata dell’esperimento e ne disciplina i particolari in una convenzione stipulata con il direttore del centro di detenzione.
 
 #### Art. 132
 
@@ -4010,7 +4022,7 @@ Allegato 1[^t-1]
 
 ## Requisiti minimi per la detenzione di animali domestici
 
-[^t-1]: Aggiornato dalla cifra II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), dalla cifra II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), dalle cifre II dell’O del 10 gen. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) e del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)). La correzione del 27 nov. 2025 concerne soltanto il testo francese ([RU 2025 761](https://fedlex.data.admin.ch/eli/oc/2025/761)).
+[^t-1]: Aggiornato dalla cifra II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), dalla cifra II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), dalle cifre II dell’O del 10 gen. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) e del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Osservazioni preliminari
 
@@ -5433,7 +5445,7 @@ L’ordinanza del 27 maggio 1981[^annex6-lvlu1-1] sulla protezione degli animali
 
 II
 
-Le seguenti ordinanze sono modificate come segue:
+Le seguenti ordinanze sono modificate come segue::
 
 …[^annex6-lvlu1-2]
 

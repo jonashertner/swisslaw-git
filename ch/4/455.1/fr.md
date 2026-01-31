@@ -4,11 +4,11 @@ title: Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: fr
-version: 2025-11-27
+version: 2026-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20251127/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20251127-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20260201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/fr"
 
 (OPAn)
 
-du 23 avril 2008 (État le 27 novembre 2025)
+du 23 avril 2008 (État le 1<sup>er</sup> février 2026)
 
 Le Conseil fédéral suisse,
 
@@ -2039,6 +2039,18 @@ Le responsable de l’animalerie doit avoir suivi la formation visée à l’art
 [^115-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^115-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
+#### Art. 115a
+
+**Suivi vétérinaire dans les animaleries**[^115a-1]
+
+<sup>1</sup> Un vétérinaire doit être désigné pour toute animalerie. Sa suppléance doit être garantie.
+
+<sup>2</sup> Le vétérinaire est responsable de la surveillance et du suivi vétérinaire des animaux d’expérience.
+
+<sup>3</sup> Il doit justifier des connaissances spécifiques requises pour les espèces animales détenues.
+
+[^115a-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 #### Art. 116
 
 **Conditions de formation posées aux personnes qui assument la garde d’animaux d’expérience**
@@ -4044,7 +4056,7 @@ Annexe 1[^t-1]
 
 ## Exigences minimales pour la détention d’animaux domestiques
 
-[^t-1]: Mise à jour par le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), le ch. II de l’O du 10 janv. 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)), les ch. I al. 6 à 8 et II de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)) et l’erratum du 27 nov. 2025 ([RO 2025 761](https://fedlex.data.admin.ch/eli/oc/2025/761)).
+[^t-1]: Mise à jour par le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), le ch. II de l’O du 10 janv. 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)), l’erratum du 27 nov. 2025 ([RO 2025 761](https://fedlex.data.admin.ch/eli/oc/2025/761)) et les ch. I al. 6 à 8 et II de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Remarque préliminaire
 

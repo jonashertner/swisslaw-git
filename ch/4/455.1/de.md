@@ -4,11 +4,11 @@ title: Tierschutzverordnung vom 23. April 2008 (TSchV)
 short: TSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: de
-version: 2025-11-27
+version: 2026-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20251127/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20251127-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20260201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/de"
 
 (TSchV)
 
-vom 23. April 2008 (Stand am 27. November 2025)
+vom 23. April 2008 (Stand am 1. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2012,6 +2012,18 @@ Die Leiterin oder der Leiter der Versuchstierhaltung muss über eine Ausbildung 
 [^115-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^115-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
+#### Art. 115a
+
+**Tierärztliche Betreuung in Versuchstierhaltungen**[^115a-1]
+
+<sup>1</sup> Für jede Versuchstierhaltung muss eine Tierärztin oder ein Tierarzt bezeichnet sein. Die Stellvertretung ist zu gewährleisten.
+
+<sup>2</sup> Die Tierärztin oder der Tierarzt ist zuständig für die tiermedizinische Überwachung und Betreuung der Versuchstiere.
+
+<sup>3</sup> Sie oder er muss die für die gehaltenen Tierarten notwendigen Fachkenntnisse nachweisen.
+
+[^115a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2026 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+
 #### Art. 116
 
 **Anforderungen an Personen, die Versuchstiere betreuen**
@@ -3994,7 +4006,7 @@ Anhang 1[^t-1]
 
 ## Mindestanforderungen für das Halten von Haustieren
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Jan. 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), der Berichtigung vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), Ziff. II der V vom 10. Jan. 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) und vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)). Die Berichtigung vom 27. Nov. 2025 betrifft nur den französischen Text ([AS 2025 761](https://fedlex.data.admin.ch/eli/oc/2025/761)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Jan. 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), der Berichtigung vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), Ziff. II der V vom 10. Jan. 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) und vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 Vorbemerkungen
 
