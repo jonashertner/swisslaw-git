@@ -4,11 +4,11 @@ title: "Ordinaziun dals 29 da november 2013 tar la Lescha federala davart la pro
 short: O-LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: rm
-version: 2025-11-01
+version: 2026-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20260201/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20260201-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20260201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,17 +19,17 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da perscrutaziun e d’innovaziun, O-LPPI)
 
-dals 29 da november 2013 (versiun dal 1. da november 2025)
+dals 29 da november 2013 (versiun dal 1. da favrer 2026)
 
 Il Cussegl federal svizzer,
 
-sa basond sin ils artitgels 10 alinea 4 segunda frasa ed alinea 6 terza frasa, 15 alinea 6, 16 alinea 6 segunda frasa, 23 alinea 2, 29 alinea 2, 47 alinea 1 e 56 da la Lescha federala dals 14 da december 2012[^ingress-1] davart la promoziun da la perscrutaziun e da l’innovaziun (LPPI) sco er sin l’artitgel 1 alinea 5 da la Lescha Innosuisse dals 17 da zercladur 2016[^ingress-2] (LASPI),[^ingress-3]
+sa basond sin ils artitgels 10 alinea 4 segunda frasa ed alinea 6 terza frasa, 15 alinea 6, 16 alinea 6 segunda frasa, 23 alinea 2, 29 alinea 2, 42 alinea 2 e 4, 47 alinea 1 e 56 da la Lescha federala dals 14 da december 2012[^ingress-1] davart la promoziun da la perscrutaziun e da l’innovaziun (LPPI) sco er sin l’artitgel 1 alinea 5 da la Lescha Innosuisse dals 17 da zercladur 2016[^ingress-2] (LASPI),[^ingress-3]
 
 decretescha:
 
 [^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 [^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
-[^ingress-3]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2022, en vigur dapi il 1. da schan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^ingress-3]: Versiun tenor la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## 1. chapitel Programs spezials e programs da promoziun tematics da las instituziuns da promoziun da la perscrutaziun e da l’Agentura svizra per la promoziun da l’innovaziun
 
@@ -319,17 +319,18 @@ Il SEFRI è cumpetent per valitar las dumondas sut il punct da vista da la polit
 
 Il DEFR regla en in’ordinaziun ils detagls da la procedura per publitgar, selecziunar ed evaluar in accent da perscrutaziun.
 
-### 4. secziun Reservas dal FNS
+### 4. secziun Reservas da las instituziuns da promoziun da la perscrutaziun
 
-[^chap1-sec4-1]
+[^chap1-sec4-1][^chap1-sec4-2]
 
 [^chap1-sec4-1]: Integrà tras la cifra I da l’O dals 26 d’oct. 2022, en vigur dapi il 1. da schan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^chap1-sec4-2]: Versiun tenor la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### (art. 10 al. 6 LPPI)
 
 #### Art. 19a
 
-**Surpassament da la tariffa maximala da las reservas**
+**Reservas dal FNS[^19a-1]**
 
 <sup>1</sup>
 
@@ -341,6 +342,16 @@ Entaifer in onn chalendar (onn da gestiun n) dastga il FNS excepziunalmain surpa
 <sup>2</sup> Il FNS suttametta al SEFRI ina planisaziun correspundenta da las reservas che vegn actualisada mintga onn.
 
 <sup>3</sup> Il SEFRI prenda enconuschientscha da tala ed approvescha in’eventuala excepziun tenor l’alinea 1 suenter avair consultà l’Administraziun federala da finanzas.
+
+[^19a-1]: Versiun tenor la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 19b
+
+**Reservas da las Academias svizras da las scienzas**[^19b-1]
+
+L’onn da gestiun respectiv na dastgan las reservas da mintga singula instituziun tenor l’artitgel 4 litera a cifra 2 LPPI betg surpassar 10 pertschient da la contribuziun federala annuala.
+
+[^19b-1]: Integrà tras la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## 2. chapitel Promoziun da la perscrutaziun tras l’administraziun federala
 
@@ -534,11 +545,13 @@ Las contribuziuns a favur dals custs da perscrutaziun indirects (overhead) repre
 
 **Rapport e controlla**
 
-<sup>1</sup> Per mintga perioda da contribuziun fan il FNS e la Innosuisse in rapport per mauns dal SEFRI davart lur contribuziuns pajadas a favur dals custs da perscrutaziun indirects. En quest connex explitgeschan els particularmain la repartiziun da las contribuziuns tenor instituziuns, tenor instruments da promoziun e tenor secturs spezials da perscrutaziun.
+<sup>1</sup> Per mintga perioda da contribuziun fan il FNS e la Innosuisse in rapport per mauns dal SEFRI davart lur contribuziuns pajadas a favur dals custs da perscrutaziun indirects. En quest connex explitgeschan els particularmain la repartiziun da las contribuziuns tenor instituziuns e tenor instruments da promoziun.[^34-1]
 
 <sup>2</sup> En il rom da sias incumbensas da controlla examinescha il SEFRI, sche la tariffa maximala da contribuziun che vegn fixada en il conclus da finanziaziun decisiv vegn observada ed approvescha eventualmain il rapport.
 
 <sup>3</sup> Las unitads da l’administraziun federala fan in rapport tenor l’artitgel 52 LPPI.
+
+[^34-1]: Versiun tenor la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### 2. secziun Contribuziuns dal FNS a favur dals custs da perscrutaziun indirects
 
@@ -667,15 +680,16 @@ Cun fixar ina indemnisaziun per in’utilisaziun exclusiva dals resultats dal pr
 - a. la part finanziala dals partenaris da realisaziun vi da la finanziaziun dal project d’innovaziun sustegnì vegnia resguardada; e
 - b. l’obligaziun d’indemnisar na pregiuditgescha betg l’utilisaziun cun success dals resultats dal project; in’eventuala periclitaziun sto vegnir explitgada dals partenaris da realisaziun.
 
-## 5*a**.* chapitel Communicaziun da datas tras instituziuns da promoziun da la perscrutaziun
+## 5*a**.* chapitel Communicaziun da datas tras las instituziuns da promoziun da la perscrutaziun e tras la Innosuisse
 
-[^chap5a-1]
+[^chap5a-1][^chap5a-2]
 
 [^chap5a-1]: Integrà tras la cifra I da l’O dals 3 da zer. 2016, en vigur dapi il 1. da fan. 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)).
-
-(art. 9 LPPI)
+[^chap5a-2]: Versiun tenor la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 41a
+
+**Communicaziun da datas tras las instituziuns da promoziun da la perscrutaziun[^41a-1]**
 
 <sup>1</sup> Per intents da controlla e d’execuziun pon las instituziuns da promoziun da la perscrutaziun render accessiblas a las instituziuns emploiantas tras ina procedura d’invista datas davart las dumondas da contribuziun entradas e davart las decisiuns da promoziun.
 
@@ -687,10 +701,46 @@ L’instituziun emploianta ha unicamain access a datas davart projects da perscr
 - b. administrar las contribuziuns;
 - c. evaluar l’utilisaziun da meds da terzs.
 
-<sup>3</sup> Sur la procedura d’invista n’èn accessiblas naginas datas persunalas spezialmain sensiblas en il senn da l’artitgel 5 litera c da la Lescha federala dals 25 da settember 2020[^41a-1] davart la protecziun da datas.[^41a-2]
+<sup>3</sup> Sur la procedura d’invista n’èn accessiblas naginas datas persunalas spezialmain sensiblas en il senn da l’artitgel 5 litera c da la Lescha federala dals 25 da settember 2020[^41a-2] davart la protecziun da datas.[^41a-3]
 
-[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^41a-2]: Versiun tenor la cifra II 50 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^41a-1]: Integrà tras la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+[^41a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^41a-3]: Versiun tenor la cifra II 50 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 41b
+
+**Communicaziun da datas tras la Innosuisse**[^41b-1]
+
+<sup>1</sup>
+
+Per intents d’infurmaziun po la Innosuisse publitgar sin tut ils mediums da support datas davart las mesiras e davart ils projects ch’èn vegnids permess dapi il 1. da schaner 2018 tenor ils artitgels 19–22*a* LPPI, sco er communitgar questas datas a circuls interessads, sch’ellas pertutgan las suandantas categorias:
+
+- a. datas davart la mesira u davart il project, en spezial davart: il gener da l’instrument da promoziun, il titel ed il numer da referenza, il status, la data dal cumenzament e da la finiziun, l’emissiun da confermas, ils custs totals, il champ tematic, la branscha ed ina curta descripziun;
+- b. datas davart las persunas participadas, en spezial davart: ils participants, la persuna da contact, ina curta descripziun, la grondezza da l’interpresa, il stadi da svilup, il plan da finanziaziun ed il chantun u pajais, nua ch’ils partenaris participads èn domiciliads.
+
+<sup>2</sup>
+
+Per motivs da coordinaziun u da prevenziun d’abus po la Innosuisse communitgar – sin basa d’ina dumonda motivada en scrit – las datas tenor l’alinea 1 davart mesiras e davart projects ch’èn vegnids inoltrads, permess u refusads dapi il 1. da schaner 2018 tenor ils artitgels 19–22*a* LPPI, a las suandantas autoritads:
+
+- a. als uffizis federals ch’èn represchentads en il Comité da coordinaziun interdepartamental tenor l’artitgel 42 LPPI;
+- b. a las autoritads chantunalas u a las instituziuns publicas che han l’incumbensa da promover la perscrutaziun e l’innovaziun.
+
+[^41b-1]: Integrà tras la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+## 5*b*. chapitel Integritad scientifica e buna pratica scientifica
+
+[^chap5b-1]
+
+[^chap5b-1]: Integrà tras la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 41c
+
+<sup>1</sup> Per garantir che las reglas da l’integritad scientifica e da la buna pratica scientifica vegnian observadas, pon il FNS, la Innosuisse ed ils instituts da perscrutaziun dal sectur da las SPF recurrer als servetschs dal Center svizzer da cumpetenza per l’integritad scientifica en lur proceduras concernent cuntravenziuns cunter questas reglas, quai tenor l’artitgel 5 alineas 2–5 da l’Ordinaziun dal Cussegl da scola auta dals 20 da november 2024[^41c-1] davart la garanzia da la qualitad en il sectur da l’integritad scientifica (O-GQIS), en la versiun dals 20 da november 2024[^41c-2].
+
+<sup>2</sup> Lur proceduras concernent cuntravenziuns cunter l’integritad scientifica e concernent fauss cumportaments scientifics pon els annunziar tenor l’artitgel 3 O-GQIS.
+
+[^41c-1]: [SR 414.205.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40261)
+[^41c-2]: [AS 2024 740](https://fedlex.data.admin.ch/eli/oc/2024/740)
 
 ## 6. chapitel Collavuraziun internaziunala
 
@@ -911,22 +961,66 @@ Il SEFRI elavura periodicamain u tenor basegn in rapport per mauns dal DEFR dava
 
 <sup>2</sup> El coordinescha quests projects cun la procedura da planisaziun ordinaria (art. 58 e 59) e garantescha che eventualas propostas da mesiras da promoziun vegnian fatgas en il rom da las missivas FPI periodicas.
 
+### 1*a*. secziun Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun federala
+
+[^chap7-sec1a-1]
+
+[^chap7-sec1a-1]: Integrà tras la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
 #### Art. 57
 
-**Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun federala**
+**Cumposiziun dal Comité da coordinaziun interdepartamental**[^57-1]
+
+<sup>1</sup> Il Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun federala (Comité da coordinaziun PAF) sa cumpona d’in comité strategic e d’ina cumissiun spezialisada.
+
+<sup>2</sup> Il secretariat dal Comité da coordinaziun PAF è domicilià tar il SEFRI.
+
+[^57-1]: Versiun tenor la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57a
+
+**Comité strategic**[^57a-1]
 
 <sup>1</sup>
 
-Il Comité da coordinaziun interdepartamental per la perscrutaziun da l’administraziun consista da represchentants:
+Il comité strategic sa cumpona da represchentants:
 
-- a. dals servetschs federals che adempleschan incumbensas en il sectur da la perscrutaziun da l’administraziun;
-- b. da l’Administraziun federala da finanzas.
+- a. dals singuls servetschs federals che adempleschan incumbensas en il sectur da la perscrutaziun da l’administraziun;
+- b. da l’Administraziun federala da finanzas (AFF) e da la Chanzlia federala (ChF).
 
-<sup>2</sup> Ils commembers tenor l’alinea 1 represchentan las direcziuns dals servetschs federals respectivs. La nominaziun vegn fatga tras ils servetschs federals cumpetents.
+<sup>2</sup> Ils commembers tenor l’alinea 1 represchentan las direcziuns dals servetschs federals respectivs. Els vegnan nominads dals servetschs federals cumpetents.
 
-<sup>3</sup> A las sesidas dal Comité prendan part represchentants dal FNS, da la Innosuisse e dal Cussegl da las SPF cun vusch consultativa.
+<sup>3</sup> A las sesidas dal comité strategic sa participeschan mintgamai in represchentant da la direcziun dal FNS, da la Innosuisse e dal Cussegl da las SPF cun vusch consultativa.
 
-<sup>4</sup> Il secretari da stadi dal SEFRI maina il Comité. El po designar in substitut.
+<sup>4</sup> Il secretari da stadi dal SEFRI maina il comité strategic. El po designar in substitut.
+
+[^57a-1]: Integrà tras la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57b
+
+**Cumissiun spezialisada**[^57b-1]
+
+<sup>1</sup> La cumissiun spezialisada sa cumpona da las persunas responsablas per la perscrutaziun dals servetschs federals represchentads en il Comité da coordinaziun PAF, da la AFF e da la ChF. La cumissiun spezialisada vegn manada dal SEFRI.
+
+<sup>2</sup> A las sesidas da la cumissiun spezialisada sa participeschan mintgamai in represchentant dal FNS, da la Innosuisse e dal Cussegl da las SPF cun vusch consultativa.
+
+<sup>3</sup> La cumissiun spezialisada ademplescha las incumbensas operativas dal Comité da coordinaziun PAF e prepara las basas da decisiun dal comité strategic. Las ulteriuras incumbensas vegnan fixadas dal Comité da coordinaziun PAF en las directivas davart la garanzia da qualitad en il sectur da la perscrutaziun da l’administraziun.
+
+[^57b-1]: Integrà tras la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57c
+
+**Coordinaziun da gronds programs da perscrutaziun da l’administraziun**[^57c-1]
+
+<sup>1</sup> Ils servetschs federals ch’èn cumpetents per la perscrutaziun da l’administraziun communitgeschan al Comité da coordinaziun PAF al cumenzament da la fasa da planisaziun gronds programs da perscrutaziun da l’administraziun, che han expensas d’almain 2,5 milliuns francs per onn u da passa 10 milliuns francs sur 4 onns. Programs da perscrutaziun da l’administraziun, che han in stretg connex tematic in cun l’auter, vegnan considerads sco in unic grond program da perscrutaziun da l’administraziun.
+
+<sup>2</sup> La cumissiun spezialisada examinescha quests programs da perscrutaziun da l’administraziun areguard lur coerenza cun ils programs da perscrutaziun currents e planisads da l’administraziun federala, dal FNS, da la Innosuisse e dal Cussegl da las SPF. La cumissiun spezialisada fixescha la procedura d’examinaziun adattada.
+
+<sup>3</sup> Per l’examinaziun po la cumissiun spezialisada consultar gremis existents da la Confederaziun ed engaschar experts externs.
+
+<sup>4</sup> La cumissiun spezialisada infurmescha il comité strategic davart ils resultats da l’examinaziun. Il comité strategic decida davart l’ulteriur proceder. El po dar recumandaziuns als servetschs federals ch’èn cumpetents per la perscrutaziun da l’administraziun.
+
+[^57c-1]: Integrà tras la cifra I da l’O dals 12 da dec. 2025, en vigur dapi il 1. da favr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### 2. secziun Planisaziun
 

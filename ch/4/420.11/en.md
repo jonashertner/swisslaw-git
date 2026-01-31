@@ -4,11 +4,11 @@ title: "Ordinance of 29 November 2013 the Federal Act on the Promotion of Resear
 short: RIPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: en
-version: 2025-11-01
+version: 2026-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/en/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20260201/en/xml/fedlex-data-admin-ch-eli-cc-2013-814-20260201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20260201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,17 +19,17 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Research and Innovation Promotion Ordinance, RIPO)
 
-of 29 November 2013 (Status as of 1 November 2025)
+of 29 November 2013 (Last amended on 1 February 2026)
 
 The Swiss Federal Council,
 
-based on Articles 10 paragraph 4 second sentence and paragraph 6 third sentence, 15 paragraph 6, 16 paragraph 6 second sentence, 23 paragraph 2, 29 paragraph 2, 47 paragraph 1 and 56 of the Federal Act of 14 December 2012[^ingress-1] on the Promotion of Research and Innovation (RIPA), as well as on Article 1 paragraph 5 of the Federal Act of 17 June 2016[^ingress-2] on the Swiss Innovation Agency (SIAA),[^ingress-3]
+based on Articles 10 paragraph 4 second sentence and paragraph 6 third sentence, 15 paragraph 6, 16 paragraph 6 second sentence, 23 paragraph 2, 29 paragraph 2, 42 paragraphs 2 and 4, 47 paragraph 1 and 56 of the Federal Act of 14 December 2012[^ingress-1] on the Promotion of Research and Innovation (RIPA), as well as on Article 1 paragraph 5 of the Federal Act of 17 June 2016[^ingress-2] on the Swiss Innovation Agency (SIAA),[^ingress-3]
 
 ordains:
 
 [^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 [^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
-[^ingress-3]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^ingress-3]: Amended by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## Chapter 1 Special Programmes and Topic-Specific Funding Programmes of the Research Funding Institutions and the Swiss Innovation Agency
 
@@ -319,17 +319,16 @@ SERI is responsible for the assessment of research and higher education policy. 
 
 The EAER shall regulate the details in an ordinance on tender, selection and evaluation of NCCRs.
 
-### Section 4 SNSF Reserves
+### Section 4 Reserves held by Research Funding Institutions
 
-[^chap1-sec4-1]
+[^chap1-sec4-1][^chap1-sec4-2]
 
 [^chap1-sec4-1]: Inserted by No. I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-
-### (Art. 10 para. 6 RIPA)
+[^chap1-sec4-2]: Amended by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 19a
 
-**Exceeding the maximum reserve threshold**
+**SNSF reserves[^19a-1]**
 
 <sup>1</sup>
 
@@ -341,6 +340,16 @@ In a calendar year (accounting year n), the SNSF may exceptionally exceed the ma
 <sup>2</sup> Each year, the SNSF shall submit an updated allocation to reserves projection to SERI.
 
 <sup>3</sup> SERI shall take note of this and, after prior consultation with the Federal Finance Administration, shall authorise any exemptions under paragraph 1.
+
+[^19a-1]: Amended by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 19b
+
+**Reserves held by the Swiss Academies of Arts and Sciences**[^19b-1]
+
+For each individual institution referred to in Article 4 paragraph a number 2 RIPA, the level of reserves in the relevant financial year must not exceed 10 per cent of the annual federal funding.
+
+[^19b-1]: Inserted by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## Chapter 2 Research Promotion by the Federal Administration
 
@@ -534,11 +543,13 @@ Funding for indirect research costs (overheads) helps compensate institutions fo
 
 **Reporting and controls**
 
-<sup>1</sup> The SNSF and Innosuisse shall present SERI with a report on their awarding of funding for overheads for each funding period. In this report they shall explain the division of funding by institution, funding scheme and subject area.
+<sup>1</sup> The SNSF and Innosuisse shall present SERI with a report on their awarding of funding for overheads for each funding period. In this report, they shall explain the division of funding by institution and funding scheme.[^34-1]
 
 <sup>2</sup> As part of its supervisory function, SERI shall check whether the maximum contribution defined in the relevant funding decision is respected, and accordingly approve the report.
 
 <sup>3</sup> The units of the Federal Administration shall report in accordance with Article 52 RIPA.
+
+[^34-1]: Amended by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### Section 2 SNSF Funding for Overheads
 
@@ -667,15 +678,16 @@ In fixing remuneration for the exclusive use and exploitation by an implementati
 - a. the implementation partners' share of the funding given to the innovation project supported; and
 - b. that the obligation to remunerate does not jeopardise the successful exploitation of the project results; the implementation partners must disclose any risk.
 
-## 5*a**.* Chapter Disclosure of Data by Research Funding Institutions
+## 5*a**.* Chapter Disclosure of Data by Research Funding Institutions and Innosuisse
 
-[^chap5a-1]
+[^chap5a-1][^chap5a-2]
 
 [^chap5a-1]: Inserted by No I of the O of 3 June 2016, in force since 1 July 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)).
-
-(Art. 9 RIPA)
+[^chap5a-2]: Amended by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 41a
+
+**Disclosure of data by research funding institutions[^41a-1]**
 
 <sup>1</sup> To facilitate verification and implementation, research funding institutions may provide employer institutions with data concerning research proposals and funding decisions from a call procedure.
 
@@ -687,10 +699,46 @@ Employer institutions shall only have access to data concerning research project
 - b. managing funding contributions;
 - c. evaluating the use of third-party funds.
 
-<sup>3</sup> No sensitive personal data within the meaning of Article 5 letter c of the Data Protection Act of 25 September 2020[^41a-1] shall be accessible through the call procedure.[^41a-2]
+<sup>3</sup> No sensitive personal data within the meaning of Article 5 letter c of the Data Protection Act of 25 September 2020[^41a-2] shall be accessible through the call procedure.[^41a-3]
 
-[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^41a-2]: Amended by Annex 2 No II 50 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^41a-1]: Inserted by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+[^41a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^41a-3]: Amended by Annex 2 No II 50 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 41b
+
+**Disclosure of data by Innosuisse**[^41b-1]
+
+<sup>1</sup>
+
+Innosuisse may, for information purposes, publish data on measures and projects approved since 1 January 2018 in accordance with Articles 19–22*a* RIPA on any medium and communicate such data to interested parties, provided that the data relate to the following categories:
+
+- a. information about the measure or project, in particular regarding: type of funding scheme, title and reference number, status, start and end dates, issue of conformation, total costs, subject area, sector and brief description;
+- b. information about the persons involved, in particular regarding: participants, contact person, brief description, company size, stage of development, funding plan, and the canton or country in which the partners involved are based.
+
+<sup>2</sup>
+
+In response to a substantiated written request, Innosuisse may for the purpose of coordination or to prevent misuse, transmit the data specified in paragraph 1 concerning applications for measures and projects that have been submitted, approved or rejected since 1 January 2018 in accordance with Articles 19–22*a* RIPA to the following authorities:
+
+- a. the federal offices represented on the Interdepartmental Coordination Committee referred to in Article 42 of the RIPA;
+- b. cantonal authorities or public institutions responsible for promoting research and innovation.
+
+[^41b-1]: Inserted by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+## Chapter 5*b* Scientific Integrity and Good Scientific Practice
+
+[^chap5b-1]
+
+[^chap5b-1]: Inserted by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 41c
+
+<sup>1</sup> To ensure compliance with the rules of scientific integrity and good scientific practice, the SNSF, Innosuisse and the research institutes of the ETH Domain may, in their proceedings concerning breaches of these rules, make use of the services of the Swiss Competence Centre for Scientific Integrity in accordance with Article 5 paragraphs 2–5 of the Higher Education Council Ordinance of 20 November 2024[^41c-1] on Quality Assurance in relation to Scientific Integrity (O-QASI), in its version of 20 November 2024[^41c-2].
+
+<sup>2</sup> They may report breaches of scientific integrity and cases of scientific misconduct in accordance with Article 3 of the O-QASI.
+
+[^41c-1]: [SR 414.205.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40261)
+[^41c-2]: [AS 2024 740](https://fedlex.data.admin.ch/eli/oc/2024/740)
 
 ## Chapter 6 International Cooperation
 
@@ -911,22 +959,66 @@ SERI shall produce, periodically or as necessary, a report for the EAER on the s
 
 <sup>2</sup> It shall coordinate these initiatives with the proper planning procedures (Art. 58 and 59) and shall ensure that any proposals for promotion initiatives feature in the periodic ERI Dispatch.
 
+### Section 1*a* Interdepartmental Coordination Committee for the Federal Policy Research
+
+[^chap7-sec1a-1]
+
+[^chap7-sec1a-1]: Inserted by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
 #### Art. 57
 
-**Interdepartmental coordination committee for the Confederation’s government research**
+**Composition of the Interdepartmental Coordination Committee**[^57-1]
+
+<sup>1</sup> The Interdepartmental Coordination Committee for Federal Policy Research (Coordination Committee-FPR) consists of a strategy committee and an expert commission.
+
+<sup>2</sup> The secretariat of the Coordination Committee-FPR is based at SERI.
+
+[^57-1]: Amended by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57a
+
+**Strategy committee**[^57a-1]
 
 <sup>1</sup>
 
-The interdepartmental coordination committee for the Confederation’s government research consists of representatives of:
+The strategy committee comprises representatives from:
 
 - a. the individual federal offices that perform tasks in government research;
-- b. the Federal Finance Administration.
+- b. the Federal Finance Administration (FFA) and the Federal Chancellery (FCh).
 
 <sup>2</sup> The members under paragraph 1 represent the directorate or management of the respective federal offices. Appointment is carried out by the competent federal offices.
 
-<sup>3</sup> Representatives of the SNSF, Innosuisse and the ETH Board shall take part in committee meetings in an advisory role.
+<sup>3</sup> One representative each from the board or executive management of the SNSF, Innosuisse and the ETH Board shall attend the meetings of the strategy committee in an advisory capacity.
 
-<sup>4</sup> The SERI State Secretary shall head the committee. He/she can choose a representative.
+<sup>4</sup> The State Secretary of SERI shall chair the strategy committee. He or she may appoint a representative.
+
+[^57a-1]: Inserted by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57b
+
+**Expert commission**[^57b-1]
+
+<sup>1</sup> The expert commission comprises the heads of research from the federal agencies represented on the Coordination Committee-FPR, the FFA and the Federal Chancellery. SERI heads the expert commission.
+
+<sup>2</sup> One representative each from the SNSF, Innosuisse and the ETH Board shall attend the meetings of the expert commission in an advisory capacity.
+
+<sup>3</sup> The expert commission shall carry out the operational tasks of the Coordination Committee-FPR and prepare the documentation forming the basis for the decisions made by the strategy committee. The Coordination Committee-FPR shall specify the expert commission’s remaining tasks in the guidelines on quality assurance in federal policy research.
+
+[^57b-1]: Inserted by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57c
+
+**Coordination of major policy research programmes**[^57c-1]
+
+<sup>1</sup> The federal agencies responsible for policy research shall notify the Coordination Committee-FPR at an early stage in the planning process of major policy research programmes with an annual budget of at least CHF 2.5 million or a total budget of over CHF 10 million over four years. Policy research programmes that are closely related in terms of subject matter are regarded as a single major policy research programme.
+
+<sup>2</sup> The expert commission shall review these policy research programmes to ensure they are aligned with the current and planned research programmes of the Federal Administration, the SNSF, Innosuisse and the ETH Board. The expert committee shall determine the appropriate evaluation procedure.
+
+<sup>3</sup> The expert commission may involve existing federal bodies in the evaluation and consult external experts.
+
+<sup>4</sup> The expert commission shall inform the strategy committee of the results of the evaluation. The strategy committee shall decide on the next steps. It may make recommendations to the federal agencies responsible for policy research.
+
+[^57c-1]: Inserted by No I of the O of 12 Dec. 2025, in force since 1 Feb. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### Section 2 Planning
 
@@ -1009,9 +1101,9 @@ In their multi-year programmes, the research bodies provide information on their
 
 **Transitional provisions**
 
-<sup>1</sup> For the granting of funding for overheads by Innosuisse and for the details of the calculation of funding contributions, the Ordinance of 10 June 1985 on the Promotion of Research and Innovation, and Article 10*s* paragraphs 6 and 7 with annex and the corresponding transitional provisions of 24 November 2010[^63-1], <sup>shall apply until the entry into force of the</sup> provisions on funding and federal funding contributions under Chapters 7 and 8 HEdA[^63-2], but no later than 31 December 2016.
+<sup>1</sup> For the granting of funding for overheads by Innosuisse and for the details of the calculation of funding contributions, the Ordinance of 10 June 1985 on the Promotion of Research and Innovation, and Article 10*s* paragraphs 6 and 7 with annex and the corresponding transitional provisions of 24 November 2010[^63-1], <sup>shall apply until the</sup> provisions on funding and federal funding contributions under Chapters 7 and 8 HEdA[^63-2] <sup>c</sup>ome <sup>into force</sup>, but no later than 31 December 2016.
 
-<sup>2</sup> Until the entry into force of Chapters 1–5 HEdA, Article 52 paragraph 2, second sentence has the following wording:
+<sup>2</sup> Until Chapters 1–5 HEdA <sup>c</sup>ome <sup>into force</sup>, Article 52 paragraph 2 second sentence has the following wording:
 
 ...[^63-3]
 
@@ -1023,10 +1115,10 @@ In their multi-year programmes, the research bodies provide information on their
 
 **Commencement**
 
-<sup>1</sup> This Ordinance enters into force, subject to paragraphs 2 and 3, on 1 January 2014.
+<sup>1</sup> This Ordinance comes into force, subject to paragraphs 2 and 3, on 1 January 2014.
 
-<sup>2</sup> Article 55 paragraph 3 shall enter into force at the same time as Chapters 1–5 HEdA[^64-1].
+<sup>2</sup> Article 55 paragraph 3 shall come into force at the same time as Chapters 1–5 HEdA[^64-1].
 
-<sup>3</sup> Articles 37 and 38 shall enter into force at the same time as the provisions on funding and federal funding contributions under Chapters 7 and 8 HEdA, but not later than 1 January 2017.
+<sup>3</sup> Articles 37 and 38 shall come into force at the same time as the provisions on funding and federal funding contributions under Chapters 7 and 8 HEdA, but not later than 1 January 2017.
 
 [^64-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)

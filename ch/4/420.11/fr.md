@@ -4,11 +4,11 @@ title: "Ordonnance du 29 novembre 2013 relative à la loi fédérale sur l'encou
 short: O-LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: fr
-version: 2025-11-01
+version: 2026-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20260201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/fr"
 
 (Ordonnance sur l’encouragement de la recherche et de l’innovation, O-LERI)
 
-du 29 novembre 2013 (État le 1<sup>er</sup> novembre 2025)
+du 29 novembre 2013 (État le 1<sup>er</sup> février 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 10, al. 4, 2<sup>e</sup> phrase et al. 6, 3<sup>e</sup> phrase, 15, al. 6, 16, al. 6, 2<sup>e</sup> phrase, 23, al. 2, 29, al. 2, 47, al. 1, et 56 de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation (LERI)[^ingress-1], vu l’art. 1, al. 5, de la loi du 17 juin 2016 sur Innosuisse (LASEI)[^ingress-2],[^ingress-3]
+vu les art. 10, al. 4, 2<sup>e</sup> phrase, et 6, 3<sup>e</sup> phrase, 15, al. 6, 16, al. 6, 2<sup>e</sup> phrase, 23, al. 2, 29, al. 2, 42, al. 2 et 4, 47, al. 1, et 56 de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation (LERI)[^ingress-1], vu l’art. 1, al. 5, de la loi du 17 juin 2016 sur Innosuisse (LASEI)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 [^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## Chapitre 1 Programmes spéciaux et programmes d’encouragement thématiques des institutions chargées d’encourager la recherche et de l’Agence suisse pour l’encouragement de l’innovation
 
@@ -316,17 +316,16 @@ Le SEFRI opère l’évaluation des requêtes sous l’angle de la politique de 
 
 Le DEFR règle dans une ordonnance les détails de la procédure de mise au concours, de sélection et d’évaluation d’un PRN.
 
-### Section 4 Réserves du FNS
+### Section 4 Réserves des institutions chargées d’encourager la recherche
 
-[^chap1-sec4-1]
+[^chap1-sec4-1][^chap1-sec4-2]
 
 [^chap1-sec4-1]: Introduite par le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-
-### (art. 10, al. 6, LERI)
+[^chap1-sec4-2]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 19a
 
-**Dépassement du taux maximal des réserves**
+**Réserves du FNS[^19a-1]**
 
 <sup>1</sup>
 
@@ -338,6 +337,16 @@ Au cours d’une année civile (année comptable n), le FNS peut exceptionnellem
 <sup>2</sup> Le FNS soumet au SEFRI une planification des réserves actualisée chaque année.
 
 <sup>3</sup> Le SEFRI prend connaissance de la planification des réserves et autorise une éventuelle exception au sens de l’al. 1, après consultation de l’Administration fédérale des finances.
+
+[^19a-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 19b
+
+**Réserves des Académies suisses des sciences**[^19b-1]
+
+Pour chacune des institutions visées à l’art. 4, let. a, ch. 2, LERI, le total des réserves ne doit pas dépasser 10 % de la contribution fédérale versée pour l’année concernée.
+
+[^19b-1]: Introduit par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## Chapitre 2 Encouragement de la recherche de l’administration
 
@@ -533,11 +542,13 @@ Les contributions aux coûts de recherche indirects représentent une contributi
 
 **Rapport et contrôle**
 
-<sup>1</sup> Pour chaque période de subventionnement, le FNS et Innosuisse remettent au SEFRI un rapport sur les contributions versées au titre de coûts de recherche indirects. Ils rendent notamment compte de la répartition des contributions par institutions bénéficiaires, par instruments d’encouragement et par domaines de recherche.
+<sup>1</sup> Pour chaque période de subventionnement, le FNS et Innosuisse remettent au SEFRI un rapport sur les contributions versées au titre de coûts de recherche indirects. Ils rendent notamment compte de la répartition des contributions par institutions bénéficiaires et par instruments d’encouragement.[^34-1]
 
 <sup>2</sup> Dans le cadre de sa fonction de contrôle, le SEFRI approuve le rapport après avoir vérifié le respect du taux maximum de contribution fixé dans l’arrêté financier.
 
 <sup>3</sup> Les unités de l’administration fédérale présentent un rapport selon l’art. 52, LERI.
+
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### Section 2 Contributions aux coûts de recherche indirects du FNS
 
@@ -668,15 +679,16 @@ Lors de la fixation d’une indemnisation pour l’utilisation et la mise en val
 - a. la quote-part financière du partenaire chargé de la mise en valeur du projet d’innovation subventionné soit prise en compte;
 - b. l’indemnisation due ne compromette pas la réussite de la mise en valeur des résultats du projet; dans le cas contraire, le partenaire chargé de la mise en valeur est tenu de fournir des explications.
 
-## Chapitre 5*a* Communication des données par les institutions chargées d’encourager la recherche
+## Chapitre 5*a* Communication des données par les institutions chargées d’encourager la recherche et Innosuisse
 
-[^chap5a-1]
+[^chap5a-1][^chap5a-2]
 
 [^chap5a-1]: Introduit par le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)).
-
-### (art. 9 LERI)
+[^chap5a-2]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 41a
+
+**Communication des données par les institutions chargées d’encourager la recherche[^41a-1]**
 
 <sup>1</sup> Les institutions chargées d’encourager la recherche peuvent rendre des données issues de demandes de subsides ou de décisions de financement accessibles en ligne aux institutions qui emploient des chercheurs à des fins de contrôle et d’exécution.
 
@@ -688,10 +700,46 @@ Les institutions qui emploient des chercheurs ont uniquement accès aux données
 - b. la gestion des subsides;
 - c. l’évaluation de l’utilisation des fonds de tiers.
 
-<sup>3</sup> Les données sensibles au sens de l’art. 5, let. c de la loi fédérale du 25 septembre 2020 la protection des données[^41a-1] ne sont pas rendues accessibles en ligne.[^41a-2]
+<sup>3</sup> Les données sensibles au sens de l’art. 5, let. c de la loi fédérale du 25 septembre 2020 la protection des données[^41a-2] ne sont pas rendues accessibles en ligne.[^41a-3]
 
-[^41a-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^41a-2]: Nouvelle teneur selon l’annexe 2 ch. II 50 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^41a-1]: Introduit par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+[^41a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^41a-3]: Nouvelle teneur selon l’annexe 2 ch. II 50 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 41b
+
+**Communication des données par Innosuisse**[^41b-1]
+
+<sup>1</sup>
+
+Innosuisse peut publier sur tout support à des fins d’information du public, et communiquer à des cercles intéressés, les données relatives aux mesures et aux projets approuvés depuis le 1<sup>er</sup> janvier 2018 sur la base des art. 19 à 22*a* LERI, pour autant que ces données concernent les catégories suivantes:
+
+- a. données relatives à la mesure ou au projet, en particulier: le type d’instrument d’encouragement, le titre et le numéro de référence, le statut, les dates de début et de fin, la délivrance d’attestations, les coûts totaux, la thématique, le secteur d’activité, une description succincte;
+- b. données relatives aux personnes concernées, en particulier: les participants, la personne de contact, une description succincte, la taille de l’entreprise, le stade de développement, le plan de financement, le canton ou pays d’implantation du ou des partenaires concernés.
+
+<sup>2</sup>
+
+Innosuisse peut communiquer, sur demande écrite et motivée, à des fins de coordination ou de prévention des abus, les données définies à l’al. 1, concernant les mesures et les projets déposés, approuvés ou refusés depuis le 1<sup>er</sup> janvier 2018 sur la base des art. 19 à 22*a* LERI, aux autorités suivantes:
+
+- a. services fédéraux représentés dans le comité interdépartemental de coordination de la recherche de l’administration visé à l’art. 42 LERI;
+- b. autorités cantonales et institutions publiques chargées d’encourager la recherche et l’innovation.
+
+[^41b-1]: Introduit par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+## Chapitre 5*b* Intégrité scientifique et bonnes pratiques scientifiques
+
+[^chap5b-1]
+
+[^chap5b-1]: Introduit par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 41c
+
+<sup>1</sup> Afin de garantir le respect des règles en matière d’intégrité scientifique et de bonnes pratiques scientifiques, le FNS, Innosuisse et les établissements de recherche du domaine des EPF peuvent recourir aux services du Centre suisse de compétence en matière d’intégrité scientifique (CSCIS) dans le cadre de leurs procédures concernant des infractions à ces règles, conformément à l’art. 5, al. 2 à 5, de l’ordonnance du 20 novembre 2024 du Conseil des hautes écoles sur l’assurance de la qualité en matière d’intégrité scientifique (O-AQIS)[^41c-1] dans sa version du 20 novembre 2024[^41c-2].
+
+<sup>2</sup> Ils peuvent déclarer au CSCIS les procédures qu’ils ont ouvertes concernant des infractions contre l’intégrité scientifique et des manquements à la probité scientifique, conformément à l’art. 3 O-AQIS.
+
+[^41c-1]: [RS 414.205.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40261)
+[^41c-2]: [RO 2024 740](https://fedlex.data.admin.ch/eli/oc/2024/740)
 
 ## Chapitre 6 Coopération internationale
 
@@ -912,22 +960,66 @@ Le SEFRI rédige périodiquement ou au besoin un rapport à l’intention du DEF
 
 <sup>2</sup> Il coordonne ces projets et la procédure de planification ordinaire (art. 58 et 59) et veille à ce que les propositions de mesures d’encouragement soient faites dans les messages FRI périodiques.
 
+### Section 1*a* Comité interdépartemental de coordination de la recherche de l’administration
+
+[^chap7-sec1a-1]
+
+[^chap7-sec1a-1]: Introduite par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
 #### Art. 57
 
-**Comité interdépartemental de coordination de la recherche de l’administration**
+**Composition du comité interdépartemental de coordination de la recherche de l’administration**[^57-1]
+
+<sup>1</sup> Le comité interdépartemental de coordination de la recherche de l’administration (comité de coordination de la recherche) est composé d’un comité stratégique et d’une commission spécialisée.
+
+<sup>2</sup> Le secrétariat du comité de coordination de la recherche est rattaché au SEFRI.
+
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57a
+
+**Comité stratégique**[^57a-1]
 
 <sup>1</sup>
 
-Le comité interdépartemental de la recherche de l’administration est composé des représentants:
+Le comité stratégique est composé de représentants:
 
-- a. des services de la Confédération qui assument des tâches dans le domaine de la recherche de l’administration;
-- b. de l’Administration fédérale des finances.
+- a. des services fédéraux qui assument des tâches dans le domaine de la recherche de l’administration;
+- b. de l’Administration fédérale des finances (AFF) et de la Chancellerie fédérale (ChF).
 
-<sup>2</sup> Les membres du comité représentent les directions des offices fédéraux respectifs. Leur nomination relève de ces derniers.
+<sup>2</sup> Les membres du comité stratégique visés à l’al. 1 représentent les directions des services fédéraux respectifs. Leur nomination relève de ces derniers.
 
-<sup>3</sup> Des représentants du FNS, d’Innosuisse et du Conseil des EPF prennent part aux séances du comité avec voix consultative.
+<sup>3</sup> Un représentant de la direction ou du comité de direction du FNS, un représentant d’Innosuisse et un représentant du Conseil des EPF prennent part aux séances du comité stratégique avec voix consultative.
 
-<sup>4</sup> Le comité est dirigé par le Secrétaire d’État à la formation, à la recherche et à l’innovation. Celui-ci peut désigner un représentant.
+<sup>4</sup> Le comité stratégique est dirigé par le Secrétaire d’État à la formation, à la recherche et à l’innovation. Celui-ci peut désigner un représentant.
+
+[^57a-1]: Introduit par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57b
+
+**Commission spécialisée**[^57b-1]
+
+<sup>1</sup> La commission spécialisée est composée des responsables de la recherche des services fédéraux représentés au sein du comité de coordination de la recherche, de l’AFF et de la ChF. Elle est dirigée par le SEFRI.
+
+<sup>2</sup> Un représentant du FNS, un représentant d’Innosuisse et un représentant du Conseil des EPF prennent part aux séances de la commission spécialisée avec voix consultative.
+
+<sup>3</sup> La commission spécialisée assume les tâches opérationnelles du comité de coordination de la recherche et prépare les bases de décision du comité stratégique. Le comité de coordination de la recherche définit les autres tâches dans les directives sur l’assurance de la qualité en matière de recherche de l’administration.
+
+[^57b-1]: Introduit par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57c
+
+**Coordination des programmes de recherche de l’administration fédérale de grande envergure**[^57c-1]
+
+<sup>1</sup> Les services fédéraux compétents en matière de recherche de l’administration fédérale annoncent au comité de coordination de la recherche suffisamment tôt dans la phase de planification les programmes de recherche de l’administration fédérale qui se montent à au moins 2,5 millions de francs par an ou à plus de 10 millions de francs sur quatre ans. Les programmes de recherche de l’administration fédérale de petite envergure liés à des thèmes connexes sont considérés comme un seul programme.
+
+<sup>2</sup> La commission spécialisée examine la cohérence de ces programmes de recherche de l’administration fédérale avec les programmes de recherche en cours et prévus de l’administration fédérale, du FNS, d’Innosuisse et du Conseil des EPF. Elle définit la procédure d’examen appropriée.
+
+<sup>3</sup> Elle peut associer des organes fédéraux à l’examen et consulter des experts externes.
+
+<sup>4</sup> Elle informe le comité stratégique des résultats de l’examen. Le comité stratégique statue sur la suite de la procédure. Il peut émettre des recommandations à l’attention des services fédéraux compétents en matière de recherche de l’administration fédérale.
+
+[^57c-1]: Introduit par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### Section 2 Planification
 

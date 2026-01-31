@@ -4,11 +4,11 @@ title: "Verordnung vom 29. November 2013 zum Bundesgesetz über die Förderung d
 short: V-FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: de
-version: 2025-11-01
+version: 2026-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20260201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/de"
 
 (Forschungs- und Innovationsförderungsverordnung, V-FIFG)
 
-vom 29. November 2013 (Stand am 1. November 2025)
+vom 29. November 2013 (Stand am 1. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 10 Absatz 4 zweiter Satz und 6 dritter Satz, 15 Absatz 6, 16 Absatz 6 zweiter Satz, 23 Absatz 2, 29 Absatz 2, 47 Absatz 1 und 56 des Bundesgesetzes vom 14. Dezember 2012[^ingress-1] über die Förderung der Forschung und der Innovation (FIFG) sowie auf Artikel 1 Absatz 5 des Innosuisse-Gesetzes vom 17. Juni 2016[^ingress-2] (SAFIG),[^ingress-3]
+gestützt auf die Artikel 10 Absatz 4 zweiter Satz und 6 dritter Satz, 15 Absatz 6, 16 Absatz 6 zweiter Satz, 23 Absatz 2, 29 Absatz 2, 42 Absatz 2 und 4, 47 Absatz 1 und 56 des Bundesgesetzes vom 14. Dezember 2012[^ingress-1] über die Förderung der Forschung und der Innovation (FIFG) sowie auf Artikel 1 Absatz 5 des Innosuisse-Gesetzes vom 17. Juni 2016[^ingress-2] (SAFIG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 [^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## 1. Kapitel: Sonderprogramme und themenorientierte Förderprogramme der Forschungsförderungsinstitutionen und der Schweizerischen Agentur für Innovationsförderung
 
@@ -317,17 +317,16 @@ Das SBFI ist für die forschungs- und hochschulpolitische Beurteilung zuständig
 
 Das WBF regelt in einer Verordnung die Einzelheiten des Verfahrens zur Ausschreibung, Auswahl und Evaluation der NFS.
 
-### 4. Abschnitt: Reserven des SNF
+### 4. Abschnitt: Reserven der Forschungsförderungsinstitutionen
 
-[^chap1-sec4-1]
+[^chap1-sec4-1][^chap1-sec4-2]
 
 [^chap1-sec4-1]: Eingefügt durch Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-
-### (Art. 10 Abs. 6 FIFG)
+[^chap1-sec4-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 19a
 
-**Überschreiten des Höchstsatzes der Reserven**
+**Reserven des SNF[^19a-1]**
 
 <sup>1</sup>
 
@@ -339,6 +338,16 @@ Der SNF darf in einem Kalenderjahr (Rechnungsjahr n) den Höchstsatz von 15 Proz
 <sup>2</sup> Der SNF legt dem SBFI eine entsprechende, jährlich aktualisierte Reserveplanung vor.
 
 <sup>3</sup> Das SBFI nimmt davon Kenntnis und bewilligt nach vorgängiger Konsultation der Eidgenössischen Finanzverwaltung eine allfällige Ausnahme nach Absatz 1.
+
+[^19a-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 19b
+
+**Reserven der Akademien der Wissenschaften Schweiz**[^19b-1]
+
+Für jede einzelne Institution gemäss Artikel 4 Buchstabe a Ziffer 2 FIFG darf der Bestand der Reserven im jeweiligen Rechnungsjahr 10 Prozent des jährlichen Bundesbeitrags nicht überschreiten.
+
+[^19b-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## 2. Kapitel: Forschungsförderung durch die Bundesverwaltung
 
@@ -532,11 +541,13 @@ Beiträge für indirekte Forschungskosten (Overhead) stellen einen Beitrag an di
 
 **Berichterstattung und Kontrolle**
 
-<sup>1</sup> Der SNF und die Innosuisse erstatten dem SBFI pro Beitragsperiode Bericht über ihre Overheadbeitragszusprachen. Sie legen dabei namentlich die Beitragsverteilung nach Institutionen, nach Förderinstrumenten und nach Fachbereichen dar.
+<sup>1</sup> Der SNF und die Innosuisse erstatten dem SBFI pro Beitragsperiode Bericht über ihre Overheadbeitragszusprachen. Sie legen dabei namentlich die Beitragsverteilung nach Institutionen und nach Förderinstrumenten dar.[^34-1]
 
 <sup>2</sup> Das SBFI prüft im Rahmen seiner Kontrollaufgaben, ob der im massgeblichen Finanzierungsbeschluss festgelegte Beitragshöchstsatz eingehalten ist, und genehmigt gegebenenfalls den Bericht.
 
 <sup>3</sup> Die Einheiten der Bundesverwaltung erstatten gemäss Artikel 52 FIFG Bericht.
+
+[^34-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### 2. Abschnitt: Overheadbeiträge des SNF
 
@@ -665,15 +676,16 @@ Bei der Festlegung einer Entschädigung für eine exklusive Nutzung und Verwertu
 - a. der Anteil der Umsetzungspartner an der Finanzierung des unterstützten Innovationsprojekts; und
 - b. dass die Entschädigungspflicht die erfolgreiche Verwertung der Projektergebnisse nicht gefährden darf; eine allfällige Gefährdung ist von den Umsetzungspartnern darzulegen.
 
-## *5**a**.* Kapitel: Datenbekanntgabe durch Forschungsförderungsinstitutionen
+## 5*a**.* Kapitel: Datenbekanntgabe durch Forschungsförderungsinstitutionen und Innosuisse
 
-[^chap5a-1]
+[^chap5a-1][^chap5a-2]
 
 [^chap5a-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)).
-
-### (Art. 9 FIFG)
+[^chap5a-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 41a
+
+**Datenbekanntgabe durch Forschungsförderungsinstitutionen[^41a-1]**
 
 <sup>1</sup> Die Forschungsförderungsinstitutionen können den arbeitgebenden Institutionen für Kontroll- und Vollzugszwecke Daten aus den eingegangenen Beitragsgesuchen und den Förderentscheiden durch ein Abrufverfahren zugänglich machen.
 
@@ -685,10 +697,46 @@ Die arbeitgebende Institution hat Zugriff ausschliesslich auf Daten über Forsch
 - b. die Beitragsverwaltung;
 - c. die Evaluation der Verwendung von Drittmitteln.
 
-<sup>3</sup> Über das Abrufverfahren sind keine besonders schützenswerten Personendaten im Sinne von Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^41a-1] zugänglich.[^41a-2]
+<sup>3</sup> Über das Abrufverfahren sind keine besonders schützenswerten Personendaten im Sinne von Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^41a-2] zugänglich.[^41a-3]
 
-[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^41a-2]: Fassung gemäss Anhang 2 Ziff. II 50 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^41a-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+[^41a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^41a-3]: Fassung gemäss Anhang 2 Ziff. II 50 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 41b
+
+**Datenbekanntgabe durch Innosuisse**[^41b-1]
+
+<sup>1</sup>
+
+Innosuisse kann zu Informationszwecken Daten über die seit dem 1. Januar 2018 nach den Artikeln 19–22*a* FIFG bewilligten Massnahmen und Projekten auf jeglichen Trägermedien veröffentlichen sowie an interessierte Kreise kommunizieren, sofern die Daten die folgenden Kategorien betreffen:
+
+- a. Daten über die Massnahme oder das Projekt, insbesondere über: Art des Förderinstruments, Titel und Referenznummer, Status, Anfangs- und Enddatum, Ausstellung von Bestätigungen, Gesamtkosten, Themengebiet, Branche und kurze Beschreibung;
+- b. Daten über die beteiligten Personen, insbesondere über: Teilnehmende, Kontaktperson, kurze Beschreibung, Unternehmensgrösse, Entwicklungsstadium, Finanzierungsplan und Kanton oder Land, in dem die beteiligten Partner niedergelassen sind.
+
+<sup>2</sup>
+
+Die Innosuisse kann auf begründetes schriftliches Gesuch hin zur Koordination oder zur Missbrauchsprävention die in Absatz 1 definierten Daten über Massnahmen und Projekte, die seit dem 1. Januar 2018 nach den Artikeln 19–22*a* FIFG eingereicht, bewilligt oder abgelehnt wurden, folgenden Behörden übermitteln:
+
+- a. den Bundesämtern, die im interdepartementalen Koordinationsausschuss nach Artikel 42 FIFG vertreten sind;
+- b. den kantonalen Behörden oder öffentlichen Institutionen zur Förderung von Forschung und Innovation.
+
+[^41b-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+## 5*b*. Kapitel: Wissenschaftliche Integrität und gute wissenschaftliche Praxis
+
+[^chap5b-1]
+
+[^chap5b-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 41c
+
+<sup>1</sup> Um sicherzustellen, dass die Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis eingehalten werden, können der SNF, die Innosuisse und die Forschungsanstalten des ETH-Bereichs bei ihren Verfahren zu Verstössen gegen diese Regeln die Dienstleistungen des Kompetenzzentrums für wissenschaftliche Integrität Schweiz gemäss Artikel 5 Absätze 2–5 der Verordnung des Hochschulrats vom 20. November 2024[^41c-1] über die Sicherung der Qualität im Bereich der wissenschaftlichen Integrität (V-SQWI), in der Fassung vom 20. November 2024[^41c-2] in Anspruch nehmen.
+
+<sup>2</sup> Sie können ihre Verfahren zu Verstössen gegen die wissenschaftliche Integrität und zu wissenschaftlichem Fehlverhalten gemäss Artikel 3 der V-SQWI melden.
+
+[^41c-1]: [SR 414.205.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40261)
+[^41c-2]: [AS 2024 740](https://fedlex.data.admin.ch/eli/oc/2024/740)
 
 ## 6. Kapitel: Internationale Zusammenarbeit
 
@@ -909,22 +957,66 @@ Das SBFI erarbeitet zuhanden des WBF periodisch oder nach Bedarf einen Bericht z
 
 <sup>2</sup> Es koordiniert diese Initiativen mit dem ordentlichen Planungsverfahren (Art. 58 und 59) und stellt sicher, dass allfällige Anträge auf Fördermassnahmen im Rahmen der periodischen BFI-Botschaften erfolgen.
 
+### 1*a*. Abschnitt: Interdepartementaler Koordinationsausschuss für die Ressortforschung des Bundes
+
+[^chap7-sec1a-1]
+
+[^chap7-sec1a-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
 #### Art. 57
 
-**Interdepartementaler Koordinationsausschuss für die Ressortforschung des Bundes**
+**Zusammensetzung des interdepartementalen Koordinationsausschusses**[^57-1]
+
+<sup>1</sup> Der interdepartementale Koordinationsausschuss für die Ressortforschung des Bundes (Koordinationsausschuss-RF) besteht aus einem strategischen Ausschuss und einer Fachkommission.
+
+<sup>2</sup> Das Sekretariat des Koordinationsausschusses-RF ist beim SBFI angesiedelt.
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57a
+
+**Strategischer Ausschuss**[^57a-1]
 
 <sup>1</sup>
 
-Der interdepartementale Koordinationsausschuss für die Ressortforschung besteht aus Vertreterinnen und Vertretern:
+Der strategische Ausschuss besteht aus Vertreterinnen und Vertretern:
 
 - a. der einzelnen Bundesstellen, die Aufgaben im Bereich der Ressortforschung wahrnehmen;
-- b. der Eidgenössischen Finanzverwaltung.
+- b. der Eidgenössischen Finanzverwaltung (EFV) und der Bundeskanzlei (BK).
 
 <sup>2</sup> Die Mitglieder nach Absatz 1 vertreten die Direktionen oder Geschäftsleitungen der jeweiligen Bundesstellen. Die Ernennung erfolgt durch die zuständigen Bundesstellen.
 
-<sup>3</sup> An den Sitzungen des Ausschusses nehmen Vertreterinnen und Vertreter des SNF, der Innosuisse und des ETH-Rats mit beratender Stimme teil.
+<sup>3</sup> An den Sitzungen des strategischen Ausschusses nimmt je eine Vertreterin oder ein Vertreter der Direktion oder der Geschäftsleitung des SNF, der Innosuisse und des ETH-Rats mit beratender Stimme teil.
 
-<sup>4</sup> Die Staatssekretärin oder der Staatssekretär des SBFI leitet den Ausschuss. Sie oder er kann eine Vertreterin oder einen Vertreter bestimmen.
+<sup>4</sup> Die Staatssekretärin oder der Staatssekretär des SBFI leitet den strategischen Ausschuss. Sie oder er kann eine Vertreterin oder einen Vertreter bestimmen.
+
+[^57a-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57b
+
+**Fachkommission**[^57b-1]
+
+<sup>1</sup> Die Fachkommission setzt sich aus den Forschungsverantwortlichen der im Koordinationsausschuss-RF vertretenen Bundesstellen, der EFV und der BK zusammen. Das SBFI leitet die Fachkommission.
+
+<sup>2</sup> An den Sitzungen der Fachkommission nimmt je eine Vertreterin oder ein Vertreter des SNF, der Innosuisse und des ETH-Rats mit beratender Stimme teil.
+
+<sup>3</sup> Die Fachkommission nimmt die operativen Aufgaben des Koordinationsausschuss-RF wahr und bereitet die Entscheidungsgrundlagen des strategischen Ausschusses vor. Die weiteren Aufgaben legt der Koordinationsausschuss-RF in den Richtlinien über die Qualitätssicherung im Bereich der Ressortforschung fest.
+
+[^57b-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57c
+
+**Koordination grosser Ressortforschungsprogramme**[^57c-1]
+
+<sup>1</sup> Die für die Ressortforschung zuständigen Bundesstellen melden dem Koordinationsausschuss-RF früh in der Planungsphase grosse Ressortforschungsprogramme, welche Ausgaben von mindestens 2,5 Millionen Franken pro Jahr oder über 10 Millionen Franken über vier Jahre aufweisen. Ressortforschungsprogramme, bei denen ein enger thematischer Zusammenhang besteht, werden als ein grosses Ressortforschungsprogramm betrachtet.
+
+<sup>2</sup> Die Fachkommission überprüft diese Ressortforschungsprogramme auf ihre Abstimmung mit den laufenden und geplanten Forschungsprogrammen der Bundesverwaltung, des SNF, der Innosuisse und des ETH-Rats. Die Fachkommission legt das geeignete Prüfungsverfahren fest.
+
+<sup>3</sup> Die Fachkommission kann bestehende Gremien des Bundes in die Prüfung mit einbeziehen und externe Expertinnen oder Experten konsultieren.
+
+<sup>4</sup> Die Fachkommission informiert den strategischen Ausschuss über die Resultate der Prüfung. Dieser entscheidet über das weitere Vorgehen. Er kann den für die Ressortforschung zuständigen Bundesstellen Empfehlungen abgeben.
+
+[^57c-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### 2. Abschnitt: Planung
 

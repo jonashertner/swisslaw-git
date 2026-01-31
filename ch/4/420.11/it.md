@@ -4,11 +4,11 @@ title: "Ordinanza del 29 novembre 2013 relativa alla legge federale sulla promoz
 short: O-LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: it
-version: 2025-11-01
+version: 2026-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20260201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/it"
 
 (Ordinanza sulla promozione della ricerca e dell’innovazione, O-LPRI)
 
-del 29 novembre 2013 (Stato 1° novembre 2025)
+del 29 novembre 2013 (Stato 1° febbraio 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 10 capoverso 4 secondo periodo e capoverso 6 terzo periodo, 15 capoverso 6, 16 capoverso 6 secondo periodo, 23 capoverso 2, 29 capoverso 2, 47 capoverso 1 e 56 della legge federale del 14 dicembre 2012[^ingress-1] sulla promozione della ricerca e dell’innovazione (LPRI); visto l’articolo 1 capoverso 5 della legge del 17 giugno 2016[^ingress-2] su Innosuisse (LASPI),[^ingress-3]
+visti gli articoli 10 capoverso 4 secondo periodo e capoverso 6 terzo periodo, 15 capoverso 6, 16 capoverso 6 secondo periodo, 23 capoverso 2, 29 capoverso 2, 42 capoversi 2 e 4, 47 capoverso 1 e 56 della legge federale del 14 dicembre 2012[^ingress-1] sulla promozione della ricerca e dell’innovazione (LPRI); visto l’articolo 1 capoverso 5 della legge del 17 giugno 2016[^ingress-2] su Innosuisse (LASPI),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 [^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
-[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## Capitolo 1: Programmi speciali e programmi di promozione tematici delle istituzioni di promozione della ricerca e dell’Agenzia svizzera per la promozione dell’innovazione
 
@@ -269,7 +269,7 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 
 <sup>1</sup> Il FNS, le istituzioni ospitanti e la direzione del PRN concludono un contratto per ciascun periodo di finanziamento.[^15-1]
 
-<sup>2</sup> Prima di sottoscrivere il contratto PRN, il FNS lo sottopone per approvazione alla SEFRI. Quest'ultima verifica le disposizioni previste concernenti il rispetto del quadro finanziario stabilito, gli oneri e i relativi diritti e doveri dei partecipanti.
+<sup>2</sup> Prima di sottoscrivere il contratto PRN, il FNS lo sottopone per approvazione alla SEFRI. Quest’ultima verifica le disposizioni previste concernenti il rispetto del quadro finanziario stabilito, gli oneri e i relativi diritti e doveri dei partecipanti.
 
 [^15-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
@@ -316,17 +316,16 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 
 Il DEFR disciplina in un’ordinanza i dettagli della procedura per il bando di concorso, la selezione e la valutazione dei PRN.
 
-### Sezione 4: Riserve del FNS
+### Sezione 4: Riserve delle istituzioni di promozione della ricerca
 
-[^chap1-sec4-1]
+[^chap1-sec4-1][^chap1-sec4-2]
 
 [^chap1-sec4-1]: Introdotta dalla cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-
-### (art. 10 cpv. 6 LPRI)
+[^chap1-sec4-2]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 19a
 
-**Superamento dell’aliquota massima delle riserve**
+**Riserve del FNS[^19a-1]**
 
 <sup>1</sup>
 
@@ -338,6 +337,16 @@ In un determinato anno civile (anno contabile n) il FNS può superare eccezional
 <sup>2</sup> Il FNS sottopone alla SEFRI un’apposita pianificazione delle riserve aggiornata con cadenza annuale.
 
 <sup>3</sup> La SEFRI ne prende visione e approva un’eventuale deroga ai sensi del capoverso 1 previa consultazione dell’Amministrazione federale delle finanze.
+
+[^19a-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 19b
+
+**Riserve delle Accademie svizzere delle scienze**[^19b-1]
+
+Nel rispettivo anno contabile il totale delle riserve di ogni singola istituzione di cui all’articolo 4 lettera a numero 2 LPRI non può superare il 10 per cento del sussidio federale annuo.
+
+[^19b-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ## Capitolo 2: Promozione della ricerca da parte dell’Amministrazione federale
 
@@ -531,11 +540,13 @@ I sussidi per i costi indiretti di ricerca (overhead) rappresentano un contribut
 
 **Rapporto e controllo**
 
-<sup>1</sup> Il FNS ed Innosuisse presentano alla SEFRI per ogni periodo di sussidio un rapporto sull’assegnazione dei loro sussidi overhead. In particolare, esplicitano la ripartizione di tali sussidi in base a istituzioni, strumenti di promozione e settori di ricerca.
+<sup>1</sup> Il FNS e Innosuisse presentano alla SEFRI per ogni periodo di sussidio un rapporto sull’assegnazione dei loro sussidi overhead. In particolare, esplicitano la ripartizione di tali sussidi in base a istituzioni e strumenti di promozione.[^34-1]
 
 <sup>2</sup> La SEFRI verifica nell’ambito dei suoi compiti di controllo se l’aliquota massima di sussidio stabilita nel decreto di finanziamento è rispettata e, se del caso, approva il rapporto.
 
 <sup>3</sup> Le unità dell’Amministrazione federale presentano un rapporto conformemente all’articolo 52 LPRI.
+
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### Sezione 2: Sussidi overhead del FNS
 
@@ -631,7 +642,7 @@ In caso di decisione conforme al capoverso 1, valgono le seguenti condizioni:
 - b. i ricercatori e i centri di ricerca universitari per i quali lavorano si impegnano a non compromettere la tutela della proprietà intellettuale sui risultati della ricerca attraverso pubblicazioni anticipate o in altro modo;
 - c. se il centro di ricerca universitario sfrutta i diritti di proprietà intellettuale sui risultati della ricerca, versa ai ricercatori un’equa indennità secondo i principi dell’articolo 332 capoverso 4 del Codice delle obbligazioni[^40-1]. Sono fatte salve le disposizioni speciali;
 - d. se il centro di ricerca universitario non adotta misure per promuovere la valorizzazione dei diritti di proprietà intellettuale sui risultati della ricerca entro un periodo di tempo da concordare dopo l’annuncio da parte dei ricercatori, questi ultimi possono chiedere il ritrasferimento di tali diritti;
-- e. se nell'esercizio di un’attività finanziata dalla Confederazione e da terzi presso un centro di ricerca universitario si ottengono risultati rilevanti in materia di diritti di proprietà intellettuale, il centro di ricerca universitario partecipa alle entrate derivanti dalla valorizzazione dei diritti di proprietà intellettuale almeno in misura proporzionale alla partecipazione della Confederazione ai costi complessivi del progetto di ricerca in questione. È fatto salvo l’articolo 41.
+- e. se nell’esercizio di un’attività finanziata dalla Confederazione e da terzi presso un centro di ricerca universitario si ottengono risultati rilevanti in materia di diritti di proprietà intellettuale, il centro di ricerca universitario partecipa alle entrate derivanti dalla valorizzazione dei diritti di proprietà intellettuale almeno in misura proporzionale alla partecipazione della Confederazione ai costi complessivi del progetto di ricerca in questione. È fatto salvo l’articolo 41.
 
 <sup>3</sup> Se il centro di ricerca universitario o il centro di ricerca extrauniversitario a scopo non lucrativo per il quale i ricercatori lavorano non adempie agli obblighi di valorizzazione dei risultati della ricerca cui è subordinata la concessione di aiuti federali, gli organi di promozione possono ridurre i sussidi approvati o chiedere la restituzione di quelli già versati.
 
@@ -664,15 +675,16 @@ Per stabilire un’indennità per l’esclusiva utilizzazione e valorizzazione d
 - a. la quota di partecipazione del partner attuatore al finanziamento del progetto d’innovazione sostenuto; e
 - b. che l’obbligo d’indennità non deve compromettere la corretta valorizzazione dei risultati del progetto. I partner attuatori devono segnalare un eventuale rischio in tal senso.
 
-## Capitolo 5*a*: Comunicazione dei dati da parte delle istituzioni di promozione della ricerca
+## Capitolo 5*a*: Comunicazione dei dati da parte delle istituzioni di promozione della ricerca e di Innosuisse
 
-[^chap5a-1]
+[^chap5a-1][^chap5a-2]
 
 [^chap5a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)).
-
-(art. 9 LPRI)
+[^chap5a-2]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 #### Art. 41a
+
+**Comunicazione dei dati da parte delle istituzioni di promozione della ricerca[^41a-1]**
 
 <sup>1</sup> A scopo di controllo ed esecuzione, le istituzioni di promozione della ricerca possono, mediante procedura di richiamo, rendere accessibili alle istituzioni che impiegano ricercatori dati provenienti dalle domande di sussidio e dalle decisioni di promozione.
 
@@ -684,10 +696,46 @@ L’istituzione che impiega i ricercatori ha accesso esclusivamente ai dati rigu
 - b. la gestione dei sussidi;
 - c. la valutazione dell’impiego di mezzi terzi.
 
-<sup>3</sup> La procedura di richiamo non rende accessibili dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^41a-1] sulla protezione dei dati.[^41a-2]
+<sup>3</sup> La procedura di richiamo non rende accessibili dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^41a-2] sulla protezione dei dati.[^41a-3]
 
-[^41a-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^41a-2]: Nuovo testo giusta l’all. 2 cifra II n. 50 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^41a-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+[^41a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^41a-3]: Nuovo testo giusta l’all. 2 cifra II n. 50 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 41b
+
+**Comunicazione dei dati da parte di Innosuisse**[^41b-1]
+
+<sup>1</sup>
+
+A scopo informativo, Innosuisse può pubblicare su qualsiasi supporto dati relativi ai provvedimenti e ai progetti approvati dal 1° gennaio 2018 in virtù degli articoli 19–22*a* LPRI e comunicarli alle cerchie interessate, purché tali dati riguardino le seguenti categorie:
+
+- a. dati relativi al provvedimento o al progetto, in particolare: tipo di strumento di promozione, titolo e numero di riferimento, stato, data di inizio e di fine, rilascio di conferme, costi complessivi, ambito tematico, settore e breve descrizione;
+- b. dati sulle persone coinvolte, in particolare: partecipanti, persona di contatto, breve descrizione, dimensioni dell’impresa, fase di sviluppo, piano di finanziamento e Cantone o Paese in cui risiedono i partner coinvolti.
+
+<sup>2</sup>
+
+A scopo di coordinamento e di prevenzione degli abusi, su richiesta scritta e motivata Innosuisse può trasmettere i dati di cui al capoverso 1 relativi ai provvedimenti e ai progetti presentati, approvati o respinti dal 1° gennaio 2018 in virtù degli articoli 19–22*a* LPRI alle seguenti autorità:
+
+- a. servizi federali rappresentati nel Comitato interdipartimentale di coordinamento di cui all’articolo 42 LPRI;
+- b. autorità cantonali o istituzioni pubbliche incaricate di promuovere la ricerca e l’innovazione.
+
+[^41b-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+## Capitolo 5*b*: Integrità scientifica e buona prassi scientifica
+
+[^chap5b-1]
+
+[^chap5b-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 41c
+
+<sup>1</sup> Per garantire il rispetto delle regole dell’integrità scientifica e della buona prassi scientifica, il FNS, Innosuisse e gli istituti di ricerca del settore dei PF possono avvalersi dei servizi del Centro svizzero di competenza per l’integrità scientifica nelle loro procedure relative alle violazioni di tali regole, conformemente all’articolo 5 capoversi 2–5 dell’ordinanza del Consiglio delle scuole universitarie del 20 novembre 2024[^41c-1] sulla garanzia della qualità in materia di integrità scientifica (O-GQIS), nella sua versione del 20 novembre 2024[^41c-2].
+
+<sup>2</sup> Possono notificare le procedure relative alle violazioni dell’integrità scientifica e ai comportamenti scorretti in ambito scientifico conformemente all’articolo 3 O-GQIS.
+
+[^41c-1]: [RS 414.205.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40261)
+[^41c-2]: [RU 2024 740](https://fedlex.data.admin.ch/eli/oc/2024/740)
 
 ## Capitolo 6: Cooperazione internazionale
 
@@ -908,22 +956,66 @@ La SEFRI elabora per il DEFR, periodicamente o all’occorrenza, un rapporto sul
 
 <sup>2</sup> Coordina tali iniziative con la procedura di pianificazione ordinaria (art. 58 e 59) e garantisce che eventuali proposte concernenti i provvedimenti di promozione siano presentate nell’ambito dei periodici messaggi ERI.
 
+### Sezione 1*a*: Comitato interdipartimentale di coordinamento della ricerca del settore pubblico
+
+[^chap7-sec1a-1]
+
+[^chap7-sec1a-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
 #### Art. 57
 
-**Comitato interdipartimentale di coordinamento della ricerca del settore pubblico**
+**Composizione del Comitato interdipartimentale**[^57-1]
+
+<sup>1</sup> Il Comitato interdipartimentale di coordinamento della ricerca del settore pubblico (comitato di coordinamento RSP) è composto da un comitato strategico e da una commissione specializzata.
+
+<sup>2</sup> La segreteria del Comitato di coordinamento RSP si trova presso la SEFRI.
+
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57a
+
+**Comitato strategico**[^57a-1]
 
 <sup>1</sup>
 
-Il Comitato interdipartimentale di coordinamento della ricerca del settore pubblico è composto da rappresentanti:
+Il Comitato strategico è composto da rappresentanti:
 
 - a. dei singoli servizi federali che svolgono compiti nell’ambito della ricerca del settore pubblico;
-- b. dell’Amministrazione federale delle finanze.
+- b. dell’Amministrazione federale delle finanze (AFF) e della Cancelleria federale (CaF).
 
 <sup>2</sup> I membri di cui al capoverso 1 rappresentano le direzioni o le unità amministrative dei singoli servizi federali. La nomina avviene da parte dei servizi federali competenti.
 
-<sup>3</sup> Partecipano con voto consultivo alle sedute del Comitato rappresentanti del FNS, d’Innosuisse e del Consiglio dei PF.
+<sup>3</sup> Partecipano con voto consultivo alle sedute del Comitato strategico rappresentanti della direzione del FNS, di Innosuisse e del Consiglio dei PF.
 
-<sup>4</sup> Il segretario di Stato della SEFRI dirige il Comitato. Può designare un rappresentante.
+<sup>4</sup> Il segretario di Stato della SEFRI dirige il Comitato strategico. Può designare un rappresentante.
+
+[^57a-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57b
+
+**Commissione specializzata**[^57b-1]
+
+<sup>1</sup> La Commissione specializzata è composta dai responsabili della ricerca dei servizi federali rappresentati nel Comitato di coordinamento RSP, dell’AFF e della CaF. È diretta dalla SEFRI.
+
+<sup>2</sup> Partecipano con voto consultivo alle sedute della Commissione specializzata un rappresentante del FNS, un rappresentante di Innosuisse e un rappresentante del Consiglio dei PF.
+
+<sup>3</sup> La Commissione specializzata svolge i compiti operativi del Comitato di coordinamento RSP e prepara le basi decisionali del Comitato strategico. Gli ulteriori compiti sono stabiliti dal Comitato di coordinamento RSP nelle direttive sulla garanzia della qualità nel campo della ricerca del settore pubblico.
+
+[^57b-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
+
+#### Art. 57c
+
+**Coordinamento dei programmi di ricerca del settore pubblico di grande portata**[^57c-1]
+
+<sup>1</sup> Nella fase iniziale della pianificazione i servizi federali competenti per la ricerca del settore pubblico notificano con sufficiente anticipo al Comitato di coordinamento RSP i programmi di ricerca del settore pubblico che comportano spese minime di 2,5 milioni di franchi all’anno o superiori a 10 milioni di franchi su quattro anni. I programmi di ricerca del settore pubblico che presentano una stretta correlazione tematica sono considerati un unico programma di ricerca di grande portata.
+
+<sup>2</sup> La Commissione specializzata verifica la compatibilità di questi programmi di ricerca del settore pubblico con i programmi di ricerca in corso e previsti dell’Amministrazione federale, del FNS, di Innosuisse e del Consiglio dei PF. Stabilisce la procedura di verifica adeguata.
+
+<sup>3</sup> Può coinvolgere nella verifica organi esistenti della Confederazione e consultare esperti esterni.
+
+<sup>4</sup> Informa il Comitato strategico sui risultati della verifica. Quest’ultimo decide in merito al seguito della procedura. Può emanare delle raccomandazioni per i servizi federali competenti per la ricerca del settore pubblico.
+
+[^57c-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 861](https://fedlex.data.admin.ch/eli/oc/2025/861)).
 
 ### Sezione 2: Pianificazione
 
