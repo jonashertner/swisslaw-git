@@ -4,13 +4,12 @@ number: "546.270"
 title: "Disposizioni esecutive della legge cantonale sull'assistenza *"
 short: DELCAss
 language: it
-version: 2025-01-01
-corrected: 2026-01-12
-version_adopted: 2025-02-04
+version: 2026-02-01
+version_adopted: 2026-01-19
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3531/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3844/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3531/pdf_file"
 
 (DELCAss)
 
-del 08.11.2005 (stato 01.01.2025)
+del 08.11.2005 (stato 01.02.2026)
 
 emanate dal Governo l'8 novembre 2005
 
@@ -91,10 +90,10 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 <sup>1</sup> Le seguenti quote di sostanza non devono essere computate nel calcolo del bisogno di assistenza e della valutazione dell'assistenza:
 
-- a) persone sole — fr. 4000.–
-- b) coppie — fr. 8000.–
-- c) minori — fr. 2000.–
-- d) massimo per famiglia — fr. 10 000.–
+- a) persone sole — fr. 6000.–
+- b) coppie — fr. 12 000.–
+- c) minori — fr. 3000.–
+- d) massimo per famiglia — fr. 15 000.–
 
 <sup>2</sup> Il mobilio e gli effetti personali non devono essere considerati nel calcolo della sostanza.
 
@@ -245,7 +244,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 **Verifica periodica**
 
-<sup>1</sup> L'Ufficio cantonale del servizio sociale verifica periodicamente il grado di copertura dei costi garantito dai contributi versati ai comuni nonché i compiti sovraordinati e i relativi costi.
+<sup>1</sup> L'Ufficio degli affari sociali verifica periodicamente il grado di copertura dei costi garantito dai contributi versati ai comuni nonché i compiti sovraordinati e i relativi costi.
 
 ## 3. Obbligo di restituzione
 

@@ -4,13 +4,12 @@ number: "546.270"
 title: Ausführungsbestimmungen zum kantonalen Unterstützungsgesetz
 short: ABzUG
 language: de
-version: 2025-01-01
-corrected: 2026-01-12
-version_adopted: 2025-02-04
+version: 2026-02-01
+version_adopted: 2026-01-19
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3531/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3844/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3531/pdf_file"
 
 (ABzUG)
 
-Vom 08.11.2005 (Stand 01.01.2025)
+Vom 08.11.2005 (Stand 01.02.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 18 des kantonalen Unterstützungsgesetzes[^ingress-2]
 
@@ -91,10 +90,10 @@ von der Regierung erlassen am 8. November 2005
 
 <sup>1</sup> Folgende Vermögensbeträge sind bei der Berechnung der Unterstützungsbedürftigkeit und der Bemessung der Unterstützung nicht anzurechnen:
 
-- a) Einzelpersonen: — Fr. 4000.–
-- b) Ehepaare: — Fr. 8000.–
-- c) Minderjährige Kinder: — Fr. 2000.–
-- d) Maximal pro Familie: — Fr. 10 000.–
+- a) Einzelpersonen: — Fr. 6000.–
+- b) Ehepaare: — Fr. 12 000.–
+- c) Minderjährige Kinder: — Fr. 3000.–
+- d) Maximal pro Familie: — Fr. 15 000.–
 
 <sup>2</sup> Hausrat und persönliche Effekten sind nicht in die Berechnung des Vermögens einzubeziehen.
 
@@ -245,7 +244,7 @@ von der Regierung erlassen am 8. November 2005
 
 **Periodische Prüfung**
 
-<sup>1</sup> Das kantonale Sozialamt prüft periodisch den Kostendeckungsgrad der den Gemeinden ausgerichteten Beiträge sowie die übergeordneten Aufgaben und deren Kosten.
+<sup>1</sup> Das Amt für Soziales prüft periodisch den Kostendeckungsgrad der den Gemeinden ausgerichteten Beiträge sowie die übergeordneten Aufgaben und deren Kosten.
 
 ## 3. Rückerstattungspflicht
 

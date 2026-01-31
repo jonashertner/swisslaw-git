@@ -4,13 +4,12 @@ number: "546.270"
 title: "Disposiziuns executivas tar la lescha chantunala da sustegn *"
 short: DEtLS
 language: rm
-version: 2025-01-01
-corrected: 2026-01-12
-version_adopted: 2025-02-04
+version: 2026-02-01
+version_adopted: 2026-01-19
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3531/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3844/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3531/pdf_file"
 
 (DEtLS)
 
-dals 08-11-2005 (versiun dals 01-01-2025)
+dals 08-11-2005 (versiun dals 01-02-2026)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 18 da la lescha chantunala da sustegn[^ingress-2]
 
@@ -70,7 +69,7 @@ relaschadas da la regenza ils 8 da november 2005
 
 #### Art. 4
 
-**Import d'entrada liber da taglia**
+**Import d'entrada liber**
 
 <sup>1</sup> Sch'i vegn cumenzada u pratitgada in'activitad da gudogn u sche la dimensiun da l'activitad da gudogn vegn engrondida durant il sustegn, na sto l'entrada obtegnida or da l'activitad da gudogn betg vegnir quintada, e quai sco suonda:
 
@@ -83,18 +82,18 @@ relaschadas da la regenza ils 8 da november 2005
 <tr><td>80% e dapli</td><td>fr. 500.–</td></tr>
 </table>
 
-<sup>2</sup> Per calcular il basegn da sustegn da las entradas da gudogn sto l'import d'entrada liber da taglia vegnir deducì vinavant anc sis mais suenter che la persuna sustegnida po atgnamain procurar suffizientamain ord agens meds per sia existenza e per quella da ses confamigliars.
+<sup>2</sup> Per calcular il basegn da sustegn da las entradas da gudogn sto l'import d'entrada liber vegnir deducì vinavant anc sis mais suenter che la persuna sustegnida po atgnamain procurar suffizientamain ord agens meds per sia existenza e per quella da ses confamigliars.
 
 #### Art. 5
 
-**Import da facultad liber da taglia**
+**Import da facultad liber**
 
-<sup>1</sup> Ils suandants imports da facultad libers da taglia na ston betg vegnir imputads per determinar il basegn da sustegn ed il sustegn sco tal:
+<sup>1</sup> Ils suandants imports da facultad libers na ston betg vegnir imputads per determinar il basegn da sustegn ed il sustegn sco tal:
 
-- a) persunas singulas — fr. 4000.–
-- b) conjugals — fr. 8000.–
-- c) uffants minorens — fr. 2000.–
-- d) maximalmain per famiglia — fr. 10 000.–
+- a) persunas singulas — fr. 6000.–
+- b) conjugals — fr. 12 000.–
+- c) uffants minorens — fr. 3000.–
+- d) maximalmain per famiglia — fr. 15 000.–
 
 <sup>2</sup> Il mobigliar ed ils effects persunals na ston betg vegnir integrads en la calculaziun da la facultad.
 
@@ -113,9 +112,9 @@ relaschadas da la regenza ils 8 da november 2005
 
 #### Art. 7
 
-**Limita superiura per ils imports d'entrada libers da taglia e per ils supplements d'integraziun**
+**Limita superiura per ils imports d'entrada libers e per ils supplements d'integraziun**
 
-<sup>1</sup> La limita superiura per ils imports d'entrada libers da taglia e per ils supplements d'integraziun importa totalmain 650 francs per chasada e per mais.
+<sup>1</sup> La limita superiura per ils imports d'entrada libers e per ils supplements d'integraziun importa totalmain 650 francs per chasada e per mais.
 
 #### Art. 8
 
@@ -133,7 +132,7 @@ relaschadas da la regenza ils 8 da november 2005
 
 **Vehichel a motor**
 
-<sup>1</sup> A tgi ch'è proprietari d'in vehichel a motor, senza esser dependent da quel per motivs professiunals u da sanadad, vegn mess a quint la valur da facultad che surpassa l'import da facultad liber da taglia.
+<sup>1</sup> A tgi ch'è proprietari d'in vehichel a motor, senza esser dependent da quel per motivs professiunals u da sanadad, vegn mess a quint la valur da facultad che surpassa l'import da facultad liber.
 
 <sup>2</sup> Tgi che fa regularmain diever d'in vehichel a motor, senza esser dependent da quel per motivs professiunals u da sanadad, sto cumprovar ch'el na dispona betg d'ina entrada u da facultad supplementara e ch'il sustegn na vegn betg utilisà per in auter intent che quel previs. Sche quai na po betg vegnir cumprovà, vegn il budget calculà da nov u vegnan relaschadas cundiziuns per l'utilisaziun dal vehichel a motor.
 
@@ -245,7 +244,7 @@ relaschadas da la regenza ils 8 da november 2005
 
 **Controlla periodica**
 
-<sup>1</sup> L'uffizi chantunal dal servetsch social controlla periodicamain il grad da la cuvrida dals custs da las contribuziuns pajadas a las vischnancas sco er las incumbensas surordinadas ed ils custs da talas.
+<sup>1</sup> L'Uffizi da fatgs socials controlla periodicamain il grad da la cuvrida dals custs da las contribuziuns pajadas a las vischnancas sco er las incumbensas surordinadas ed ils custs da talas.
 
 ## 3. Obligaziun da restituziun
 
