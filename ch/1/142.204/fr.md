@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2025-12-17
+version: 2026-02-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20251217/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20251217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 17 décembre 2025)
+du 15 août 2018 (État le 1<sup>er</sup> février 2026)
 
 Le Conseil fédéral suisse,
 
@@ -505,9 +505,11 @@ Un visa de retour est octroyé:
 
 <sup>1</sup> L’étranger n’est en principe pas tenu de se présenter personnellement à la représentation pour soumettre sa demande.
 
-<sup>2</sup> Le SEM peut exiger la présence du demandeur à des fins d’identification ou d’autres vérifications.
+<sup>2</sup> L’autorité compétente peut exiger la présence du demandeur à des fins d’identification ou d’autres vérifications.[^23-1]
 
 <sup>3</sup> La présence du demandeur est en principe obligatoire dans les cas de l’art. 4, al. 2. Le SEM peut cependant dans des circonstances exceptionnelles renoncer à cette obligation.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 860](https://fedlex.data.admin.ch/eli/oc/2025/860)).
 
 #### Art. 24
 

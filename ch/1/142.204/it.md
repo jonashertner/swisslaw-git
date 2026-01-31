@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2025-12-17
+version: 2026-02-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20251217/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20251217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 17 dicembre 2025)
+del 15 agosto 2018 (Stato 1° febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -506,9 +506,11 @@ Un visto per soggiorni di lunga durata è rilasciato nei casi seguenti:
 
 <sup>1</sup> Gli stranieri non sono in linea di principio tenuti a presentarsi di persona alla rappresentanza per presentare le proprie domande.
 
-<sup>2</sup> La SEM può esigere la comparizione personale dei richiedenti a scopo di identificazione o per altre verifiche.
+<sup>2</sup> L’autorità competente può esigere la comparizione personale dei richiedenti a scopo di identificazione o per altre verifiche.[^23-1]
 
 <sup>3</sup> Nei casi di cui all’articolo 4 capoverso 2, la comparizione personale è in linea di principio obbligatoria. In circostanze eccezionali la SEM può tuttavia derogare a tale obbligo.
+
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 860](https://fedlex.data.admin.ch/eli/oc/2025/860)).
 
 #### Art. 24
 

@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2025-12-17
+version: 2026-02-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20251217/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20251217-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 17. Dezember 2025)
+vom 15. August 2018 (Stand am 1. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -507,9 +507,11 @@ Ein Rückreisevisum wird erteilt, wenn:
 
 <sup>1</sup> Die Ausländerin oder der Ausländer muss grundsätzlich nicht persönlich bei der Vertretung erscheinen, um das Visumgesuch einzureichen.
 
-<sup>2</sup> Das SEM kann das persönliche Erscheinen der Gesuchstellerin oder es Gesuchstellers zur Identifikation oder für weitere Abklärungen verlangen.
+<sup>2</sup> Die zuständige Behörde kann das persönliche Erscheinen der Gesuchstellerin oder des Gesuchstellers zur Identifikation oder für weitere Abklärungen verlangen.[^23-1]
 
 <sup>3</sup> In den Fällen nach Artikel 4 Absatz 2 ist das persönliche Erscheinen grundsätzlich zwingend. Das SEM kann bei Vorliegen ausserordentlicher Umstände von dieser Pflicht absehen.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 860](https://fedlex.data.admin.ch/eli/oc/2025/860)).
 
 #### Art. 24
 
