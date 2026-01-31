@@ -3,20 +3,19 @@ canton: GL
 number: IV B/51/8
 title: Reglement über die Berufsmaturität
 language: de
-version: 2025-01-01
-valid_until: 2026-01-31
-version_adopted: 2024-10-29
+version: 2026-02-01
+version_adopted: 2025-11-04
 adopted: 2015-03-09
 in_force: 2015-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.51.8"
-pdf: "https://gesetze.gl.ch/api/de/versions/2521/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2622/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berufsmaturität
 
-Vom 09.03.2015 (Stand 01.01.2025)
+Vom 09.03.2015 (Stand 01.02.2026)
 
 Die Berufsbildungskommission,
 
@@ -71,12 +70,12 @@ verordnet:
 <sup>1</sup> Die Prüfungsfächer werden je nach Ausrichtung der Berufsmaturität wie folgt gewichtet:
 
 <table>
-<tr><th>Fächer</th><th>Technik, Architektur und Life Sciences</th><th>Natur, Landschaft und Lebensmittel</th><th>Gesundheit und Soziales</th><th>Wirtschaft und Dienstleistungen (nur BM1)</th><th>Wirtschaft und Dienstleistungen (nur BM2)</th></tr>
-<tr><td>Mathematik</td><td>2</td><td>2</td><td>2</td><td>2</td><td></td></tr>
+<tr><th>Fächer</th><th>Technik, Architektur und Life Sciences</th><th>Natur, Landschaft und Lebensmittel</th><th>Gesundheit und Soziales</th><th>Wirtschaft und Dienstleistungen</th><th>Gestaltung und Kunst</th></tr>
+<tr><td>Mathematik</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
 <tr><td>Deutsch</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
 <tr><td>Französisch</td><td></td><td></td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Englisch</td><td></td><td></td><td></td><td></td><td>1</td></tr>
-<tr><td>Wirtschaft</td><td></td><td></td><td></td><td></td><td>1</td></tr>
+<tr><td>Englisch</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Wirtschaft</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 #### Art. 5
@@ -88,6 +87,16 @@ verordnet:
 <sup>2</sup> …
 
 <sup>3</sup> Die bestandene Aufnahmeprüfung berechtigt zum Eintritt in den Berufsmaturitätsunterricht des kommenden oder des darauf folgenden Schuljahres.
+
+#### Art. 5a
+
+**Semesterzeugnisse**
+
+<sup>1</sup> Grober Betrug, Betrugsversuch oder andere grobe Verstösse in Prüfungen während des Semesters werden als «schlechte Leistung» mit der Note 1,0 bewertet.
+
+<sup>2</sup> Die Schulen erstellen nur dann eine Semesternote, wenn der Unterricht regelmässig besucht wurde sowie eine ausreichende Anzahl Prüfungen abgelegt wurde.
+
+<sup>3</sup> Die Berufsbildungskommission erlässt dazu in Rücksprache mit den Schulleitungen eine Weisung.
 
 #### Art. 6
 
