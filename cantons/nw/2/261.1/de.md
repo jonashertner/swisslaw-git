@@ -4,13 +4,13 @@ number: "261.1"
 title: Gesetz über die Gerichte und die Justizbehörden
 short: "Gerichtsgesetz, GerG"
 language: de
-version: 2025-12-02
-corrected: 2026-01-06
-version_adopted: 2025-09-24
+version: 2026-02-01
+valid_until: 2026-06-30
+version_adopted: 2025-10-22
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1461/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1461/pdf_file"
 
 (Gerichtsgesetz, GerG)
 
-vom 09.06.2010 (Stand 02.12.2025)
+vom 09.06.2010 (Stand 01.02.2026)
 
 Der Landrat von Nidwalden,
 
@@ -87,6 +87,24 @@ beschliesst:
 
 <sup>3</sup> Die Richterinnen und Richter sind Ersatzrichterinnen und Ersatzrichter in den anderen Abteilungen des gleichen Gerichts.
 
+#### Art. 4a
+
+**Offenlegung von Interessenbindungen**
+
+<sup>1</sup> Die Mitglieder des Kantons-, Ober- und Verwaltungsgerichts melden bei Amtsantritt dem Gericht, dem sie angehören, schriftlich:
+
+- 1\. die berufliche Haupttätigkeit und beruflichen Nebenbeschäftigungen;
+- 2\. die Tätigkeit in Führungs- und Aufsichtsgremien kantonaler, schweizerischer und ausländischer Körperschaften, Anstalten und Stiftungen des privaten und öffentlichen Rechts, davon ausgenommen sind ehrenamtliche Tätigkeiten für Vereine;
+- 3\. dauernde Leitungs- und Beratungsfunktionen für Interessengruppen;
+- 4\. die Mitwirkung in Kommissionen und anderen Organen des Bundes, des Kantons und der Gemeinden;
+- 5\. die Mitgliedschaft in einer politischen Partei.
+
+<sup>2</sup> Das Berufsgeheimnis bleibt vorbehalten.
+
+<sup>3</sup> Änderungen sind zu Beginn jedes Kalenderjahres anzugeben.
+
+<sup>4</sup> Jedes Gericht erstellt und führt ein Register über die Angaben gemäss Abs. 1 und macht es in elektronischer Form öffentlich zugänglich. Es überwacht die Einhaltung der Offenlegungspflichten.
+
 #### Art. 5
 
 **Gerichtsschreiberinnen und Gerichtsschreiber**
@@ -135,6 +153,8 @@ beschliesst:
 - 2\. führt den Vorsitz im Gesamtgericht und in der Präsidentenkonferenz;
 - 3\. vertritt das Kantonsgericht nach aussen;
 - 4\. …
+
+<sup>3</sup> Das Kantonsgericht kann im Reglement über Organisation und Verwaltung einzelne Aufgaben der allgemeinen Geschäftsleitung der Stellvertretung des geschäftsleitenden Präsidiums übertragen. Dies ist bei der Geschäftsverteilung zu berücksichtigen.
 
 #### Art. 10
 
@@ -485,6 +505,14 @@ beschliesst:
 - 2\. je zwei Vertreterinnen oder Vertretern der Vermieter- und Mieterseite;
 - 3\. je einer Vertreterin und einem Vertreter der Arbeitgeber- und Arbeitnehmerseite. Davon müssen gleich viele Mitglieder dem privaten und öffentlichen Bereich angehören.
 
+#### Art. 40a
+
+**Offenlegung von Interessenbindungen**
+
+<sup>1</sup> Für die Offenlegung von Interessenbindungen der Präsidentin oder des Präsidenten der Schlichtungsbehörde, der Vizepräsidentin oder des Vizepräsidenten, der Vertreterinnen oder Vertreter der Vermieter- und Mieterseite sowie der Arbeitgeber- und Arbeitnehmerseite gilt Art. 4a sinngemäss.
+
+<sup>2</sup> Die Schlichtungsbehörde erstellt und führt ein Register über die Angaben gemäss Art. 4a Abs. 1 und macht es in elektronischer Form öffentlich zugänglich. Sie überwacht die Einhaltung der Offenlegungspflichten.
+
 #### Art. 41
 
 **Zuständigkeit**
@@ -584,6 +612,14 @@ beschliesst:
 <sup>2</sup> Den ordentlichen Mitgliedern der Staatsanwaltschaft gemäss Art. 44 Abs. 2 ist die berufsmässige Vertretung von Parteien vor den kantonalen Strafverfolgungsbehörden und Gerichten für Strafsachen untersagt.
 
 [^47-1]: NG 165.1
+
+#### Art. 47a
+
+**Offenlegung von Interessenbindungen**
+
+<sup>1</sup> Für die Offenlegung von Interessenbindungen der Oberstaatsanwältin oder des Oberstaatsanwalts und der Staatsanwältinnen und Staatsanwälte sowie der Jugendanwältinnen und Jugendanwälte gilt Art. 4a sinngemäss.
+
+<sup>2</sup> Die Oberstaatsanwaltschaft erstellt und führt ein Register über die Angaben gemäss Art. 4a Abs. 1 und macht es in elektronischer Form öffentlich zugänglich. Sie überwacht die Einhaltung der Offenlegungspflichten.
 
 ### 4.3 Zuständigkeit
 
