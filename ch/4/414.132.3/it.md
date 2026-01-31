@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: Ordinanza del 14 giugno 2004 sulla formazione che porta al bachelor e al master presso il Politecnico federale di Losanna (Ordinanza sulla formazione al PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: it
-version: 2025-12-15
+version: 2026-02-01
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20251215/it/xml/fedlex-data-admin-ch-eli-cc-2004-653-20251215-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20251215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2004-653-20260201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20251215/it"
 
 (Ordinanza sulla formazione al PFL)
 
-del 14 giugno 2004 (Stato 15 dicembre 2025)
+del 14 giugno 2004 (Stato 1° febbraio 2026)
 
 La Direzione del Politecnico federale di Losanna (PFL),
 
@@ -239,7 +239,7 @@ Allegato I[^t-1]
 
 ## Titoli e designazioni professionali
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O della Direzione del PFL del 28 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 16 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 857](https://fedlex.data.admin.ch/eli/oc/2025/857)).
 
 <table>
 <tr><th>Bachelor e master</th><th>Sezione/Campo</th><th>Designazione professionale del titolare del master</th></tr>
@@ -253,7 +253,7 @@ Allegato I[^t-1]
 <tr><td>Master of Science MSc</td><td>Chimica molecolare e biologica Molecular and Biological Chemistry</td><td>Chimico (chim. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria chimica e biotecnologie Chemical Engineering and Biotechnology</td><td>Ingegnere chimico (ing. chim. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Matematica Mathematics</td><td></td></tr>
-<tr><td>Master of Science MSc<sup>a</sup></td><td>Matematica Mathematics</td><td>Matematico (mat. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc <sup>a</sup></td><td>Matematica Mathematics</td><td>Matematico (mat. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria matematica Applied Mathematics</td><td>Ingegnere matematico (ing. mat. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Statistica Statistics</td><td>Statistico (stat. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Scienza e ingegneria computazionali Computational Science and Engineering</td><td>Ingegnere in scienza computazionale (ing. sc. comput. dipl. PF)</td></tr>
@@ -263,7 +263,7 @@ Allegato I[^t-1]
 <tr><td>Master of Science MSc PF Losanna – PF Zurigo</td><td>Ingegneria nucleare Nuclear Engineering</td><td>Ingegnere nucleare (ing. nucl. dipl. PFL-PFZ)</td></tr>
 <tr><td>Master of Science MSc</td><td>Scienza e ingegneria quantistiche Quantum Science and Engineering</td><td>Ingegnere in scienza quantistica (ing. quant. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Ingegneria elettrica e elettronica Electrical and Electronic Engineering</td><td></td></tr>
-<tr><td>Master of Science MSc<sup>b</sup></td><td>Ingegneria elettrica e elettronica Electrical and Electronic Engineering</td><td>Ingegnere elettronico (ing. el. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc <sup>b</sup></td><td>Ingegneria elettrica e elettronica Electrical and Electronic Engineering</td><td>Ingegnere elettronico (ing. el. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Scienza e tecnologie dell’energia Energy Science and Technology</td><td>Ingegnere in energia (ing. ener. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Ingegneria meccanica Mechanical Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria meccanica Mechanical Engineering</td><td>Ingegnere meccanico (ing. mecc. dipl. PF)</td></tr>
@@ -274,7 +274,7 @@ Allegato I[^t-1]
 <tr><td>Master of Science MSc</td><td>Scienza e ingegneria dei materiali Materials Science and Engineering</td><td>Ingegnere in scienza dei materiali (ing. sc. mat. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Informatica Computer Science</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Informatica Computer Science</td><td>Ingegnere informatico (ing. inf. dipl. PF)</td></tr>
-<tr><td>Master of Science MSc PF Losanna – PF Zurigo</td><td>Informatica – Cibersicurezza Computer Science –Cyber Security</td><td>Ingegnere in cibersicurezza (ing. cibersic. dipl. PFL‑PFZ)</td></tr>
+<tr><td>Master of Science MSc PF Losanna – PF Zurigo</td><td>Informatica – Cibersicurezza Computer Science – Cyber Security</td><td>Ingegnere in cibersicurezza (ing. cibersic. dipl. PFL‑PFZ)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Sistemi di comunicazione Communication Systems</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Sistemi di comunicazione Communication Systems</td><td>Ingegnere in sistemi di comunicazione (ing. sist. com. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Data Science</td><td>Ingegnere in data science (ing. data sc. dipl. PF)</td></tr>
@@ -283,9 +283,10 @@ Allegato I[^t-1]
 <tr><td>Master of Science MSc</td><td>Neuro-X</td><td>Ingegnere in neuro-X (neuro-X-ing. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria finanziaria Financial Engineering</td><td>Ingegnere finanziario (ing. fin. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Gestione, tecnologia e imprenditoria Management, Technology and Entrepreneurship</td><td>Ingegnere in gestione, tecnologia e imprenditoria (ing. gest. tecn. imp. dipl. PF)</td></tr>
-<tr><td>Master of Science MSc<sup>c</sup> PF Losanna – Università di Losanna – IMD</td><td>Gestione sostenibile e tecnologia Sustainable Management and Technology</td><td>Ingegnere in gestione sostenibile e tecnologia (ing. manag. sust. dipl. PFL-UNIL-IMD)</td></tr>
+<tr><td>Master of Science MSc <sup>c</sup> PF Losanna – Università di Losanna – IMD</td><td>Gestione sostenibile e tecnologia Sustainable Management and Technology</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Informatica umanistica Digital Humanities</td><td>Ingegnere in informatica umanistica (ing. inf. uman. dipl. PF)</td></tr>
-<tr><td colspan="3">a Per il master sono richiesti 90 crediti ECTS (per il ciclo master 60 crediti), per gli altri 120 crediti (per il ciclo master 90 crediti) b Master che offre anche un percorso di formazione specialistica in micro e nanotecnologie per sistemi integrati che si conclude con un Master of Science in ingegneria elettrica e elettronica conferito in comune con il Politecnico di Torino e l’Institut polytechnique de Grenoble c Master conferito in comune con l’Università di Losanna e l’International Institute for Management Development, a partire dal 1° settembre 2021</td></tr>
+<tr><td>Master of Science MSc</td><td>Sistemi urbani e ingegneria Urban Systems Science and Engineering</td><td>Ingegnere in sistemi urbani (ing. sist. urb. dipl. PF)</td></tr>
+<tr><td colspan="3"><sup>a</sup> Per il master sono richiesti 90 crediti ECTS (per il ciclo master 60 crediti), per gli altri 120 crediti (per il ciclo master 90 crediti) <sup>b</sup> Master che offre anche un percorso di formazione specialistica in micro e nanotecnologie per sistemi integrati che si conclude con un Master of Science in ingegneria elettrica e elettronica conferito in comune con il Politecnico di Torino e l’Institut polytechnique de Grenoble <sup>c</sup> Master conferito in comune con l’Università di Losanna e l’International Institute for Management Development, a partire dal 1° settembre 2021</td></tr>
 </table>
 
 Allegato II

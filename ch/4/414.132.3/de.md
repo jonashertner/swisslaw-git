@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: Verordnung der ETH Lausanne vom 14. Juni 2004 über das Bachelor- und das Masterstudium (Ausbildungsverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: de
-version: 2025-12-15
+version: 2026-02-01
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20251215/de/xml/fedlex-data-admin-ch-eli-cc-2004-653-20251215-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20251215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2004-653-20260201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20251215/de"
 
 (Ausbildungsverordnung ETHL)
 
-vom 14. Juni 2004 (Stand am 15. Dezember 2025)
+vom 14. Juni 2004 (Stand am 1. Februar 2026)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (ETHL),
 
@@ -239,7 +239,7 @@ Anhang I[^t-1]
 
 ## Titel und Berufsbezeichnungen
 
-[^t-1]: Fassung gemäss Ziff. II der V der ETHL-Schulleitung vom 28. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
+[^t-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 16. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 857](https://fedlex.data.admin.ch/eli/oc/2025/857)).
 
 <table>
 <tr><th>Bachelor und Master</th><th>Sektionen/Lehrgebiete</th><th>Den Master begleitende Berufsbezeichnung</th></tr>
@@ -260,7 +260,7 @@ Anhang I[^t-1]
 <tr><td>Bachelor of Science BSc</td><td>Physik Physics</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Physik Physics</td><td>Physiker/in (Dipl. Phys. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Physik-Wissenschaften Applied Physics</td><td>Physikingenieur/in (Dipl. Phys.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Kerntechnik Nuclear Engineering</td><td>Kerntechnikingenieur/in (Dipl. Kerntech.-Ing. EPF-ETH)</td></tr>
+<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Kerntechnik Nuclear Engineering</td><td>Kerntechnikingenieur/in (Dipl. Kerntech.-Ing. EPF‑ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Quantum-Wissenschaften und Ingenieurwesen Quantum Science and Engineering</td><td>Ingenieur/in im Bereich Quantum-Wissenschaften (Dipl. Quant.-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Elektrotechnik Electrical and Electronic Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc <sup>b</sup></td><td>Elektrotechnik Electrical and Electronic Engineering</td><td>Elektroingenieur/in (Dipl. El.-Ing. ETH)</td></tr>
@@ -274,7 +274,7 @@ Anhang I[^t-1]
 <tr><td>Master of Science MSc</td><td>Werkstoffe Materials Science and Engineering</td><td>Werkstoffingenieur/in (Dipl. Werkstoff-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Informatik Computer Science</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Informatik Computer Science</td><td>Informatikingenieur/in (Dipl. Informatik-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Informatik – Cybersicherheit Computer Science – Cyber Security</td><td>Ingenieur/in im Bereich Cybersicherheit (Dipl. Cybersich.-Ing. EPF-ETH)</td></tr>
+<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Informatik – Cybersicherheit Computer Science – Cyber Security</td><td>Ingenieur/in im Bereich Cybersicherheit (Dipl. Cybersich.-Ing. EPF‑ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Kommunikationssysteme Communication Systems</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Kommunikationssysteme Communication Systems</td><td>Kommunikationssystemingenieur/in (Dipl. Kom.-Syst.-Ing. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Data Science</td><td>Datascience-Ingenieur/in (Dipl. Datasc.-Ing. ETH)</td></tr>
@@ -283,9 +283,10 @@ Anhang I[^t-1]
 <tr><td>Master of Science MSc</td><td>Neuro-X</td><td>Ingenieur/in im Bereich Neuro-X (Dipl. Neuro-X.-Ing. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Finanzingenieurwesen Financial Engineering</td><td>Ingenieur/in im Bereich Finanzen (Dipl. Finanz-Ing. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Management, Technologie und Unternehmensführung Management, Technology and Entrepreneurship</td><td>Ingenieur/in im Bereich Management, Technologie und Unternehmensführung (Dipl. Manag.-Techn.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc <sup>c</sup> ETH Lausanne – Universität Lausanne - IMD</td><td>Nachhaltiges Management und Technologie Sustainable Management and Technology</td><td>Ingenieur/in im Bereich Nachhaltiges Management und Technologie (Dipl. Nachhalt.-Manag.-Tech.-Ing. ETH-UNIL-IMD)</td></tr>
+<tr><td>Master of Science MSc <sup>c</sup> ETH Lausanne – Universität Lausanne – IMD</td><td>Nachhaltiges Management und Technologie Sustainable Management and Technology</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Digitale Geisteswissenschaften Digital Humanities</td><td>Ingenieur/in in digitalen Geisteswissenschaften (Dipl. Digit.-Hum.-Ing. ETH)</td></tr>
-<tr><td colspan="3">a Master zu 90 ECTS-Kreditpunkten (Masterstufe im Umfang von 60 Kreditpunkten); die anderen Master umfassen 120 Kreditpunkte (Masterstufe im Umfang von 90 Kreditpunkten). b Masterstudiengang, der auch eine Fachausbildung «Mikro- und Nanotechnologie in integrierten Systemen» bietet; der Studiengang führt zum Master of Science in Elektrotechnik und wird gemeinsam mit dem Politecnico di Torino und dem Institut polytechnique de Grenoble vergeben. c Master-Abschluss der gemeinsam mit der Universität Lausanne und dem International Institute for Management Development ab dem 1. September 2021 vergeben wird.</td></tr>
+<tr><td>Master of Science MSc</td><td>Urbane Systeme und Ingenieurwesen Urban Systems Science and Engineering</td><td>Ingenieur/in im Bereich urbane Systeme (Dipl. Urb.-Syst.-Ing. ETH)</td></tr>
+<tr><td colspan="3"><sup>a</sup> Master zu 90 ECTS-Kreditpunkten (Masterstufe im Umfang von 60 Kreditpunkten); die anderen Master umfassen 120 Kreditpunkte (Masterstufe im Umfang von 90 Kreditpunkten). <sup>b</sup> Masterstudiengang, der auch eine Fachausbildung «Mikro- und Nanotechnologie in integrierten Systemen» bietet; der Studiengang führt zum Master of Science in Elektrotechnik und wird gemeinsam mit dem Politecnico di Torino und dem Institut polytechnique de Grenoble vergeben. <sup>c</sup> Master-Abschluss der gemeinsam mit der Universität Lausanne und dem International Institute for Management Development ab dem 1. September 2021 vergeben wird.</td></tr>
 </table>
 
 Anhang II
