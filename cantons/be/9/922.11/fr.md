@@ -4,13 +4,12 @@ number: "922.11"
 title: Loi sur la chasse et la protection de la faune sauvage
 short: LCh
 language: fr
-version: 2021-04-01
-valid_until: 2026-01-31
-version_adopted: 2021-02-17
+version: 2026-02-01
+version_adopted: 2025-09-11
 adopted: 2002-03-25
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2205/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3346/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2205/pdf_file"
 
 (LCh)
 
-du 25.03.2002 (état au 01.04.2021)
+du 25.03.2002 (état au 01.02.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -263,6 +262,18 @@ arrête:
 <sup>2</sup> Le Conseil-exécutif fixe les mesures de protection, différenciées au besoin en fonction du territoire, par voie d'ordonnance, en particulier en accord avec la planification forestière régionale et après avoir entendu les organisations et autorités intéressées.
 
 <sup>3</sup> Les autorités informent la population sur les effets des dérangements sur la faune sauvage.
+
+#### Art. 21a
+
+**Protection contre les ours et les loups**
+
+<sup>1</sup> La promotion de la population des ours et des loups est interdite.
+
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement utilise toute sa marge de manœuvre en ce qui concerne les mesures contre des ours et des loups isolés et en ce qui concerne la limitation et la régulation de leur effectif.
+
+<sup>3</sup> D’autres mesures de protection au sens de l’article 10b, alinéa 2, lettre d de l’ordonnance fédérale du 29 février 1988 sur la chasse et la protection des mammifères et oiseaux sauvages (ordonnance sur la chasse, OChP)[^21a-1] ne peuvent être déclarées raisonnables que si elles présentent un rapport coût-efficacité positif.
+
+[^21a-1]: RS [922.01](https://db.clex.ch/link/Bund/922.01/fr)
 
 ## 4 Subventions cantonales et financements spéciaux
 

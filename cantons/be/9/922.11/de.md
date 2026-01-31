@@ -4,13 +4,12 @@ number: "922.11"
 title: Gesetz über Jagd und Wildtierschutz
 short: JWG
 language: de
-version: 2021-04-01
-valid_until: 2026-01-31
-version_adopted: 2021-02-17
+version: 2026-02-01
+version_adopted: 2025-09-11
 adopted: 2002-03-25
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2205/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2205/pdf_file"
 
 (JWG)
 
-vom 25.03.2002 (Stand 01.04.2021)
+vom 25.03.2002 (Stand 01.02.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -263,6 +262,18 @@ beschliesst:
 <sup>2</sup> Der Regierungsrat legt die Schutzmassnahmen in Abstimmung insbesondere mit der regionalen Waldplanung und nach Anhörung der interessierten Organisationen und Behörden wo nötig gebietsbezogen durch Verordnung fest.
 
 <sup>3</sup> Die Behörden informieren die Bevölkerung über die Auswirkungen von störenden Einflüssen auf Wildtiere.
+
+#### Art. 21a
+
+**Schutz vor Bären und Wölfen**
+
+<sup>1</sup> Die Förderung des Bestands von Bären und Wölfen ist verboten.
+
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion schöpft ihren Handlungsspielraum bei den Massnahmen gegen einzelne Bären und Wölfe sowie zur Beschränkung und Regulierung des Bestands von Bären und Wölfen aus.
+
+<sup>3</sup> Weitere Schutzmassnahmen im Sinne von Artikel 10b Absatz 2 Buchstabe d der eidgenössischen Verordnung vom 29. Februar 1988 über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdverordnung, JSV)[^21a-1] dürfen nur als zumutbar erklärt werden, wenn sie ein positives Kosten-Nutzen-Verhältnis aufweisen.
+
+[^21a-1]: SR [922.01](https://db.clex.ch/link/Bund/922.01/de)
 
 ## 4 Staatsbeiträge und Spezialfinanzierung
 
