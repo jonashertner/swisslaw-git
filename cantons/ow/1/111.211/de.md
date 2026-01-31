@@ -4,13 +4,12 @@ number: "111.211"
 title: Ausführungsbestimmungen zur Bürgerrechtsverordnung
 short: AB BRV
 language: de
-version: 2021-01-01
-valid_until: 2026-01-31
-version_adopted: 2020-12-07
+version: 2026-02-01
+version_adopted: 2026-01-13
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/111.211"
-pdf: "http://gdb.ow.ch/api/de/versions/1645/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1991/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1645/pdf_file"
 
 (AB BRV)
 
-vom 19.12.2017 (Stand 01.01.2021)
+vom 19.12.2017 (Stand 01.02.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -43,25 +42,25 @@ beschliesst:
 
 ## 2. Sprachstandsanalyse
 
+#### Art. 1a
+
+**Vorbereitung**
+
+<sup>1</sup> Das Berufs- und Weiterbildungszentrum Obwalden (BWZ) kann einen Vorbereitungskurs zur Erlangung der notwendigen Sprachkompetenzen durchführen.
+
+<sup>2</sup> Der Vorbereitungskurs ist für die gesuchstellenden Personen freiwillig.
+
 #### Art. 2
 
 **Durchführung**
 
-<sup>1</sup> Die Sprachstandsanalysen werden durch das Berufs- und Weiterbildungszentrum Obwalden (BWZ) durchgeführt und mit einem Ausweis über das Ergebnis der Analyse abgeschlossen.
+<sup>1</sup> Die Sprachstandsanalysen werden von Trägerschaften durchgeführt, die ein vom Staatssekretariat für Migration anerkanntes Sprachzertifikat anbieten.
 
-<sup>2</sup> Die Sprachstandsanalysen bestehen aus einem mündlichen und einem schriftlichen Teil. Bei einem Nichtbestehen kann jeder Teil einzeln wiederholt werden. Die Wartedauer bis zum nächsten Prüfungsversuch beträgt mindestens drei Monate.
+<sup>2</sup> …
 
-#### Art. 3
+#### Art. 3–4
 
-**Ausweis über das Analyseergebnis**
-
-<sup>1</sup> Der Ausweis über eine bestandene Teilprüfung wird mit einer unbeschränkten Gültigkeitsdauer ausgestellt.
-
-#### Art. 4
-
-**Andere Sprachnachweise**
-
-<sup>1</sup> Andere Sprachnachweise werden akzeptiert, wenn diese nicht aus Anlass des Einbürgerungsverfahrens erstellt wurden und die gleiche Qualität aufweisen.
+**…**
 
 ## 3. Prüfung der staatsbürgerlichen Grundkenntnisse
 
@@ -154,12 +153,11 @@ beschliesst:
 
 **Sprachstandsanalyse und Prüfung der staatsbürgerlichen Grundkenntnisse**
 
-<sup>1</sup> Die Kosten der Sprachstandsanalyse und der Prüfung der staatsbürgerlichen Grundkenntnisse sind von der gesuchstellenden Person zu tragen (Kostendeckungsprinzip). Sie werden vom BWZ direkt in Rechnung gestellt.
+<sup>1</sup> Die Kosten der Sprachstandsanalyse und der Prüfung der staatsbürgerlichen Grundkenntnisse sind von der gesuchstellenden Person zu tragen (Kostendeckungsprinzip). Sie werden von der Trägerschaft des Angebots des anerkannten Sprachzertifikats bzw. vom BWZ direkt in Rechnung gestellt.
 
-<sup>2</sup> Die Kosten betragen (Beiträge in Fr.):
+<sup>2</sup> Die Kosten für die Sprachstandsanalyse (schriftlich und mündlich) richten sich nach den Bestimmungen der jeweiligen Trägerschaft.
 
-- a. Sprachstandsanalyse (schriftlich und mündlich) — 250.– bis 350.–
-- b. Prüfung der staatsbürgerlichen Grundkenntnisse — 50.– bis 80.–
+<sup>3</sup> Die Kosten für die Prüfung der staatsbürgerlichen Grundkenntnisse betragen zwischen Fr. 50.- und Fr. 80.-.
 
 #### Art. 13
 
@@ -193,6 +191,8 @@ AB zur Bürgerrechtsverordnung vom 8. November 2011 (OGS 2011, 63, OGS 2012, 79)
 
 Geändert durch:
 
-\- Nachtrag zu den Ausführugsbestimmungen zur Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts vom 7. Dezember 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 58)
+\- Nachtrag zu den Ausführugsbestimmungen zur Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts vom 7. Dezember 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 58),
+
+\- Nachtrag vom 13. Januar 2026, in Kraft seit 1. Februar 2026 (OGS 2026, 003)
 
 OGS 2017, 69
