@@ -3,11 +3,11 @@ sr: "0.632.314.671.1"
 title: Vereinbarung vom 21. Juni 2001 in Form eines Briefwechsels zwischen der Schweizerischen Eidgenossenschaft und dem Haschemitischen Königreich Jordanien über den Handel mit Agrarprodukten (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/569-2"
 language: de
-version: 2002-09-01
+version: 2026-02-01
 adopted: 2001-06-21
 in_force: 2002-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/569-2/20020901/de/xml/fedlex-data-admin-ch-eli-cc-2003-569-2-20020901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/569-2/20020901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/569-2/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2003-569-2-20260201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/569-2/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/569-2/20020901/de"
 
 AS **2003** 3932; BBl **2002** 1298
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Vaduz am 21. Juni 2001 Von der Bundesversammlung genehmigt am 14. März 2002[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 6. Juni 2002 In Kraft getreten am 1. September 2002
+Abgeschlossen in Vaduz am 21. Juni 2001 Von der Bundesversammlung genehmigt am 14. März 2002[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 6. Juni 2002 In Kraft getreten am 1. September 2002
 
-(Stand am 1. September 2002)
+(Stand am 1. Februar 2026)
 
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 14. März 2002 ([AS 2003 3891](https://fedlex.data.admin.ch/eli/oc/2003/568))
+[^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 14. März 2002 ([AS 2003 3891](https://fedlex.data.admin.ch/eli/oc/2003/568))
 
 Jawad Hadid
 
@@ -65,9 +64,575 @@ Ich beehre mich zu bestätigen, dass meine Regierung dem Inhalt dieses Briefes z
 Genehmigen Sie, Herr Couchepin, die Versicherung meiner ausgezeichneten Hochachtung.
 
 <table>
-<tr><td></td><td>Für das Haschemitische Königreich Jordanien:</td></tr>
-<tr><td></td><td>Jawad Hadid</td></tr>
+<tr><td></td><td>Für das Haschemitische Königreich Jordanien: Jawad Hadid</td></tr>
 </table>
 
-[^ingress-1]: [SR 0.632.314.671](https://fedlex.data.admin.ch/eli/cc/2003/569)
-[^ingress-2]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^ingress-1]: [SR 0.632.314.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2359)
+[^ingress-2]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
+
+Anhang I
+
+## Zollkonzessionen, welche die Schweizerische Eidgenossenschaft dem Haschemitischen Königreich Jordanien gewährt
+
+Mit dem Inkrafttreten des Freihandelsabkommens zwischen den EFTA-Staaten und Jordanien wird die Schweiz[^annexI-lvlu1-1] Jordanien folgende Zollkonzessionen auf Ursprungserzeugnissen Jordaniens gewähren.
+
+<table>
+<tr><th colspan="2"></th><th></th><th></th><th colspan="2">Präferenz-Zollansatz</th></tr>
+<tr><th colspan="2">Tarif-Nr.</th><th>Bezeichnung der Ware</th><th></th><th>anwendbarer</th><th>Normaltarif minus</th></tr>
+<tr><th colspan="2"></th><th></th><th></th><th colspan="2">Fr./100 kg brutto</th></tr>
+<tr><th colspan="2">1</th><th>2</th><th></th><th>3</th><th>4</th></tr>
+<tr><td>0207.</td><td></td><td>Fleisch und geniessbare Schlachtnebenprodukte von Geflügel der Nr. 0105, frisch, gekühlt oder gefroren:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– von Hühnern:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – nicht in Stücke zerteilt, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 10</td><td>– – – innerhalb des Zollkontingents (K - Nr. 6)\* eingeführt</td><td></td><td></td><td>6.–</td></tr>
+<tr><td></td><td></td><td>– – nicht in Stücke zerteilt, gefroren:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>12 10</td><td>– – – innerhalb des Zollkontingents (K - Nr. 6)\* eingeführt</td><td></td><td></td><td>15.–</td></tr>
+<tr><td></td><td></td><td>– – Stücke und Schlachtnebenprodukte, gefroren:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – Brüste:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>14 81</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 6)\* eingeführt</td><td></td><td></td><td>15.–</td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>14 91</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 6)\* eingeführt</td><td></td><td></td><td>15.–</td></tr>
+<tr><td>0407.</td><td></td><td>Vogeleier in der Schale, frisch, haltbar gemacht oder gekocht:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 10</td><td>– innerhalb des Zollkontingents (K ‑ Nr. 9)\* eingeführt</td><td></td><td>47.–</td><td></td></tr>
+<tr><td>0601.</td><td></td><td>Bulben, Zwiebeln, Knollen, Wurzelknollen, Luft- wurzeln und Wurzelstöcke, ruhend, im Wachstum oder in Blüte; Zichoriensetzlinge, ‑pflanzen und ‑wurzeln, andere als Wurzeln der Nr. 1212:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Bulben, Zwiebeln, Knollen, Wurzelknollen, Luftwurzeln und Wurzelstöcke, ruhend:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 10</td><td>– – Tulpen</td><td></td><td></td><td>17.–</td></tr>
+<tr><td></td><td>10 90</td><td>– – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0602.</td><td></td><td>Andere lebende Pflanzen (einschliesslich ihrer Wurzeln), Stecklinge und Pfropfreiser; Pilzmyzel:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Rosen, auch veredelt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 91</td><td>– – – mit nackten Wurzeln</td><td></td><td></td><td>20.–</td></tr>
+<tr><td></td><td>40 99</td><td>– – – andere</td><td></td><td></td><td>20.–</td></tr>
+<tr><td>0603.</td><td></td><td>Blüten (Blumen) und Blütenknospen, geschnitten, zu Binde- oder Zierzwecken, frisch, getrocknet, gebleicht, gefärbt, imprägniert oder anders behandelt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– frisch:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – vom 1. Mai bis 25. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – Nelken:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 31</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 13)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – Rosen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 41</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 13)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – – innerhalb des Zollkontingents (K - Nr. 13)\*:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 51</td><td>– – – – – verholzend</td><td></td><td>20.–</td><td></td></tr>
+<tr><td></td><td>10 59</td><td>– – – – – andere</td><td></td><td>20.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – vom 26. Oktober bis 30. April:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>10 99</td><td>– – – – andere, Nelken</td><td></td><td>frei[^annexI-lvlu1-2]</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 10</td><td>– – getrocknet, im Naturzustand</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>90 90</td><td>– – andere (gebleicht, gefärbt, imprägniert, usw.)</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0701.</td><td></td><td>Kartoffeln, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Saatkartoffeln:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 10</td><td>– – innerhalb des Zollkontingents (K - Nr. 14)\* eingeführt</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 10</td><td>– – innerhalb des Zollkontingents (K - Nr. 14)\* eingeführt</td><td></td><td></td><td>3.–</td></tr>
+<tr><td>0702.</td><td></td><td>Tomaten, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Cherry-Tomaten (Kirschentomaten):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 10</td><td>– – vom 21. Oktober bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Peretti-Tomaten (längliche Form):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 20</td><td>– – vom 21. Oktober bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– andere Tomaten mit einem Durchmesser von 80 mm und mehr (sog. Fleischtomaten):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 30</td><td>– – vom 21. Oktober bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 90</td><td>– – vom 21. Oktober bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0703.</td><td></td><td>Speisezwiebeln, Schalotten, Knoblauch, Lauch und andere Gemüse der Allium-Arten, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Speisezwiebeln und Schalotten:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Setzzwiebeln:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 11</td><td>– – – vom 1. Mai bis 30. Juni</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. Juli bis 30. April:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 13</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere Speisezwiebeln und Schalotten:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – weisse Speisezwiebeln mit grünem Rohr (Cipollotte):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 20</td><td>– – – – vom 31. Oktober bis 31. März</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 1. April bis 30. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 21</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – weisse, flache Speisezwiebeln mit einem Durchmesser von 35 mm oder weniger:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 30</td><td>– – – – vom 31. Oktober bis 31. März</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 1. April bis 30. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 31</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – Wildzwiebeln (Lampagioni):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 40</td><td>– – – – vom 16. Mai bis 29. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 30. Mai bis 15. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 41</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – Speisezwiebeln mit einem Durchmesser von 70 mm oder mehr:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 50</td><td>– – – – vom 16. Mai bis 29. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 30. Mai bis 15. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 51</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – Speisezwiebeln mit einem Durchmesser von weniger als 70 mm, rote und weisse Sorten, andere als solche der Nrn. 0703.1030/1039:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 60</td><td>– – – – vom 16. Mai bis 29. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 30. Mai bis 15. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 61</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere Speisezwiebeln:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 70</td><td>– – – – vom 16. Mai bis 29. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 30. Mai bis 15. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 71</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>10 80</td><td>– – – Schalotten</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>20 00</td><td>– Knoblauch</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Lauch und andere Gemüse der Allium-Arten:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – langschaftiger Lauch (höchstens 1/6 der Schaftlänge grün, wenn geschnitten nur weiss), zum Abpacken in Verkaufsschalen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 10</td><td>– – – vom 16. Februar bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. März bis 15. Februar:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 11</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – anderer Lauch:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 20</td><td>– – – vom 16. Februar bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. März bis 15. Februar:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 21</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td>90 90</td><td>– – andere</td><td></td><td>3.50</td><td></td></tr>
+<tr><td>0704.</td><td></td><td>Kohl, Blumenkohl, Wirsingkohl, Kohlrabi und ähnliche essbare Kohlarten der Gattung Brassica, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Blumenkohl, einschliesslich Winterblumenkohl:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Cimone:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 10</td><td>– – – vom 1. Dezember bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. Mai bis 30. November:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 11</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Romanesco:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 20</td><td>– – – vom 1. Dezember bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. Mai bis 30. November:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 21</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 90</td><td>– – – vom 1. Dezember bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. Mai bis 30. November:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 91</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Rosenkohl:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 10</td><td>– – vom 1. Februar bis 31. August</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – vom 1. September bis 31. Januar:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 11</td><td>– – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Rotkohl:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 11</td><td>– – – vom 16. Mai bis 29. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 30. Mai bis 15. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 18</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Weisskohl:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 20</td><td>– – – vom 2. Mai bis 14. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. Mai bis 1. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 21</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Spitzkabis:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 30</td><td>– – – vom 16. März bis 31. März</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. April bis 15. März:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 31</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Wirsing:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 40</td><td>– – – vom 11. Mai bis 24. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 25. Mai bis 10. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 41</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Broccoli:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 50</td><td>– – – vom 1. Dezember bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. Mai bis 30. November:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 51</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Chinakohl:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 60</td><td>– – – vom 2. März bis 9. April</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 10. April bis 1. März:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 61</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Pak-Choi:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 63</td><td>– – – vom 2. März bis 9. April</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 10. April bis 1. März:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 64</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Kohlrabi:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 70</td><td>– – – vom 16. Dezember bis 14. März</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. März bis 15. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 71</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Federkohl:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 80</td><td>– – – vom 11. Mai bis 24. Mai</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 25. Mai bis 10. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 81</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td>90 90</td><td>– – andere</td><td></td><td>5.–</td><td></td></tr>
+<tr><td>0705.</td><td></td><td>Salate (Lactuca sativa) und Zichorien (Cichorium spp.), frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Salate:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Kopfsalat:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – Eisbergsalat ohne Umblatt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 11</td><td>– – – – vom 1. Januar bis Ende Februar</td><td></td><td>3.50</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 1. März bis 31. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 18</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>3.50</td><td></td></tr>
+<tr><td></td><td></td><td>– – – Batavia und andere Eisbergsalate:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 20</td><td>– – – – vom 1. Januar bis Ende Februar</td><td></td><td>3.50</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 1. März bis 31. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 21</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>3.50</td><td></td></tr>
+<tr><td></td><td></td><td>– – – anderer:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 91</td><td>– – – – vom 11. Dezember bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 1. März bis 10. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 98</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – Lattich:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 10</td><td>– – – – vom 21. Dezember bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 1. März bis 20. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 11</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – Lattughino:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – – Eichenlaubsalat:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 20</td><td>– – – – – vom 21. Dezember bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – – vom 1. März bis 20. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 21</td><td>– – – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – Lollo, rot:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 30</td><td>– – – – – vom 21. Dezember bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – – vom 1. März bis 20. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 31</td><td>– – – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – anderer Lollo:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 40</td><td>– – – – – vom 21. Dezember bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – – vom 1. März bis 20. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 41</td><td>– – – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – anderer:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 50</td><td>– – – – – vom 21. Dezember bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – – vom 1. März bis 20. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 51</td><td>– – – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 90</td><td>– – – – vom 21. Dezember bis 14. Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 15. Februar bis 20. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 91</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td>0706.</td><td></td><td>Karotten (Möhren), Weissrüben, Rotrüben (Randen), Schwarzwurzeln, Knollensellerie, Rettiche und ähnliche geniessbare Wurzeln, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Karotten (Möhren) und Weissrüben:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Karotten (Möhren):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – mit Laub, in Bündeln:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 10</td><td>– – – – vom 11. Mai bis 24. Mai</td><td></td><td>1.90</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 25. Mai bis 10 Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 11</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>1.90</td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 20</td><td>– – – – vom 11. Mai bis 24. Mai</td><td></td><td>1.90</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 25. Mai bis 10 Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 21</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>1.90</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Salatrüben (Rotrüben, Randen):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 11</td><td>– – – vom 16. Juni bis 29. Juni</td><td></td><td>2.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 30. Juni bis 15. Juni:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 18</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>2.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Schwarzwurzeln:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 21</td><td>– – – vom 16. Mai bis 14. September</td><td></td><td>3.50</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. September bis 15. Mai:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 28</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>3.50</td><td></td></tr>
+<tr><td></td><td></td><td>– – Knollensellerie:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – Suppensellerie (mit Laub, Knollendurchmesser weniger als 7 cm):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 30</td><td>– – – – vom 1. Januar bis 14. Januar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 15. Januar bis 31. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 31</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – anderer:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 40</td><td>– – – – vom 16. Juni bis 29. Juni</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 30. Juni bis 15. Juni:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 41</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Rettiche (ausgenommen Meerrettich):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 50</td><td>– – – vom 16. Januar bis Ende Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. März bis 15. Januar:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 51</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Radieschen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 60</td><td>– – – vom 11. Januar bis 9. Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 10. Februar bis 10. Januar:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 61</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td>90 90</td><td>– – andere</td><td></td><td>5.–</td><td></td></tr>
+<tr><td>0707.</td><td></td><td>Gurken und Cornichons, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Gurken:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Salatgurken:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 10</td><td>– – – vom 21. Oktober bis 14. April</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. April bis 20. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 11</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Nostrano- oder Slicer-Gurken:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 20</td><td>– – – vom 21. Oktober bis 14. April</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. April bis 20. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 21</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 30</td><td>– – – vom 21. Oktober bis 14. April</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. April bis 20. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 31</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere Gurken:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 40</td><td>– – – vom 21. Oktober bis 14. April</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. April bis 20. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>00 41</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td>00 50</td><td>– Cornichons</td><td></td><td>3.50</td><td></td></tr>
+<tr><td>0708.</td><td></td><td>Hülsenfrüchte, auch ausgelöst, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Bohnen (Vigna spp., Phaseolus spp.):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 10</td><td>– – Auskernbohnen</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Schwertbohnen (sog. Piattoni- oder Cocobohnen):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 21</td><td>– – – vom 16. November bis 14. Juni</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. Juni bis 15. November:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 28</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Spargel- oder Schnurbohnen (long beans):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 31</td><td>– – – vom 16. November bis 14. Juni</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. Juni bis 15. November:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 38</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – extrafeine Bohnen (mind. 500 Stück je kg):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 41</td><td>– – – vom 16. November bis 14. Juni</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. Juni bis 15. November:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 48</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 91</td><td>– – – vom 16. November bis 14. Juni</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. Juni bis 15. November:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 98</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0709.</td><td></td><td>Andere Gemüse, frisch oder gekühlt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Artischocken:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 10</td><td>– – vom 1. November bis 31. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – vom 1. Juni bis 31. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 11</td><td>– – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– Spargeln:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Grünspargeln:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 10</td><td>– – – vom 16. Juni bis 30. April</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. Mai bis 15. Juni:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 11</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>20 90</td><td>– – andere</td><td></td><td>2.50</td><td></td></tr>
+<tr><td></td><td></td><td>– Auberginen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>30 10</td><td>– – vom 16. Oktober bis 31. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – vom 1. Juni bis 15. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>30 11</td><td>– – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– Sellerie, ausgenommen Knollensellerie:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – grüner Stangensellerie:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 10</td><td>– – – vom 1. Januar bis 30. April</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. Mai bis 31. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 11</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – gebleichter Stangensellerie:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 20</td><td>– – – vom 1. Januar bis 30. April</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 1. Mai bis 31. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 21</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – anderer:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 90</td><td>– – – vom 1. Januar bis 14. Januar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. Januar bis 31. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 91</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– essbare Pilze und Trüffeln:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>51 00</td><td>– – essbare Pilze</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>52 00</td><td>– – Trüffeln</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Früchte der Gattungen Capsicum oder Pimenta:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Peperoni:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>60 11</td><td>– – – vom 1. November bis 31. März</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>60 12</td><td>– – – vom 1. April bis 31. Oktober</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td>60 90</td><td>– – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Spinat, Neuseelandspinat (Tetragonia) und Gartenmelde:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Spinat, Neuseelandspinat (Tetragonia):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>70 10</td><td>– – – vom 16. Dezember bis 14. Februar</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. Februar bis 15. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>70 11</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td>70 90</td><td>– – andere</td><td></td><td>3.50</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Petersilie:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 40</td><td>– – – vom 1. Januar bis 14. März</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 15. März bis 31. Dezember:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 41</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*</td><td></td><td>5.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – Zucchetti (einschliesslich Zucchettiblüten):</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>90 50</td><td>– – – vom 31. Oktober bis 19. April, vom Typ Baladi</td><td></td><td>frei[^annexI-lvlu1-3]</td><td></td></tr>
+<tr><td></td><td></td><td>– – – vom 20. April bis 30. Oktober:</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>90 51</td><td>– – – – innerhalb des Zollkontingents (K - Nr. 15)\*, vom Typ Baladi</td><td></td><td>frei4</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>90 99</td><td>– – – andere (Oliven, frischer Koriander)</td><td></td><td>3.50</td><td></td></tr>
+<tr><td>ex</td><td>90 99</td><td>– – – andere (Okra und Molochia)</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0711.</td><td></td><td>Gemüse, vorläufig haltbar gemacht (z. B. durch Schwefeldioxid oder in Wasser mit Zusatz von Salz, Schwefeldioxid oder anderen vorläufig konservierenden Stoffen), jedoch in diesem Zustand zum unmittelbaren Genuss nicht geeignet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 00</td><td>– Oliven</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>30 00</td><td>– Kapern</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>40 00</td><td>– Gurken und Cornichons</td><td></td><td>frei</td><td></td></tr>
+<tr><td>ex</td><td>90 00</td><td>– andere Gemüse; Gemüsemischungen: Früchte der Gattung Capsicum oder Pimenta</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0713.</td><td></td><td>Trockene Hülsenfrüchte, ausgelöste, auch geschält oder zerkleinert:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Kichererbsen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – ganz, unbearbeitet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 19</td><td>– – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 99</td><td>– – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Bohnen (Vigna spp., Phaseolus spp.):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Bohnen der Arten Vigna mungo (L.) Hepper oder Vigna radiata (L.) Wilczek:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – ganz, unbearbeitet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>31 19</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>31 99</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Adzukibohnen (Phaseolus oder Vigna angularis):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – ganz, unbearbeitet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>32 19</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>32 99</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Gartenbohnen (Phaseolus vulgaris):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – ganz, unbearbeitet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>33 19</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>33 99</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – ganz, unbearbeitet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>39 19</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>39 99</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Linsen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – ganz, unbearbeitet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 19</td><td>– – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 99</td><td>– – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Puffbohnen, Saubohnen oder Dicke Bohnen (Vicia faba var. major) und Pferdebohnen oder Acker- bohnen (Vicia faba var. equina, Vicia faba var. minor):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – ganz, unbearbeitet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>50 19</td><td>– – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>50 99</td><td>– – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – ganz, unbearbeitet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 19</td><td>– – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 99</td><td>– – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0804.</td><td></td><td>Datteln, Feigen, Ananas, Avocadobirnen, Guaven, Mangofrüchte und Mangostanen, frisch oder getrocknet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 00</td><td>– Datteln</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Feigen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 10</td><td>– – frisch</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>20 20</td><td>– – getrocknet</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>50 00</td><td>– Guaven, Mangofrüchte und Mangostanen</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0805.</td><td></td><td>Zitrusfrüchte, frisch oder getrocknet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 00</td><td>– Orangen</td><td></td><td>2.–</td><td></td></tr>
+<tr><td></td><td>20 00</td><td>– Mandarinen (einschliesslich Tangerinen und Satsumas); Clementinen, Wilkings und ähnliche Kreuzungen von Zitrusfrüchten</td><td></td><td>2.–</td><td></td></tr>
+<tr><td></td><td>30 00</td><td>– Zitronen (Citrus limon, Citrus limonum) und Limetten (Citrus aurantifolia)</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>40 00</td><td>– Pampelmusen und Grapefruits</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>90 00</td><td>– andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0806.</td><td></td><td>Weintrauben, frisch oder getrocknet:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– frisch:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – zum Tafelgenuss:</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>10 12</td><td>– – – vom 1. März bis 31. Mai</td><td></td><td>frei[^annexI-lvlu1-4]</td><td></td></tr>
+<tr><td></td><td>20 00</td><td>– getrocknet</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0807.</td><td></td><td>Melonen (einschliesslich Wassermelonen) und Papayafrüchte, frisch:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Melonen (einschliesslich Wassermelonen):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 00</td><td>– – Wassermelonen</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>19 00</td><td>– – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0809.</td><td></td><td>Aprikosen, Kirschen, Pfirsiche (einschliesslich Brugnolen und Nektarinen), Pflaumen (einschliesslich Zwetschgen) und Schlehen, frisch:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Pflaumen (einschliesslich Zwetschgen) und Schlehen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – in offener Packung:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – Pflaumen (einschliesslich Zwetschgen):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 12</td><td>– – – – vom 1. Oktober bis 30. Juni</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 1. Juli bis 30. September:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 13</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 18)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>40 15</td><td>– – – Schlehen</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – in anderer Packung:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – Pflaumen (einschliesslich Zwetschgen):</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 92</td><td>– – – – vom 1. Oktober bis 30. Juni</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – – vom 1. Juli bis 30. September:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 93</td><td>– – – – – innerhalb des Zollkontingents (K - Nr. 18)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>40 95</td><td>– – – Schlehen</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0810.</td><td></td><td>Andere Früchte, frisch:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Erdbeeren:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 10</td><td>– – vom 1. September bis 14. Mai</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – vom 15. Mai bis 31. August:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 11</td><td>– – – innerhalb des Zollkontingents (K - Nr. 19)\*</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 99</td><td>– – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0814.</td><td>0000</td><td>Schalen von Zitrusfrüchten oder von Melonen (einschliesslich Wassermelonen), frisch, gefroren, in Wasser mit Zusatz von Salz, Schwefeldioxid oder anderen vorläufig konservierenden Stoffen oder getrocknet</td><td></td><td>frei</td><td></td></tr>
+<tr><td>0904.</td><td></td><td>Pfeffer der Gattung Piper; Früchte der Gattungen Capsicum oder Pimenta, getrocknet oder zerrieben oder in Pulverform:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Pfeffer:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>11 00</td><td>– – weder zerrieben noch in Pulverform</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>12 00</td><td>– – zerrieben oder in Pulverform</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– Früchte der Gattungen Capsicum oder Pimenta, getrocknet oder zerrieben oder in Pulverform:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 10</td><td>– – nicht verarbeitet</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>20 90</td><td>– – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>0910.</td><td>Ingwer, Safran, Kurkuma, Thymian, Lorbeerblätter, Curry und andere Gewürze:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>40 00</td><td>– Thymian; Lorbeerblätter</td><td></td><td>frei</td><td></td></tr>
+<tr><td>1212.</td><td></td><td>Johannisbrot, Algen, Zuckerrüben und Zuckerrohr, frisch, gekühlt, gefroren oder getrocknet, auch in Pulverform; Fruchtkerne und Fruchtsteine und andere pflanzliche Waren (einschliesslich Zichorienwurzeln der Varietät Cichorium intybus sativum, nicht geröstet), der hauptsächlich zur menschlichen Ernährung dienenden Art, anderweit weder genannt noch inbegriffen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – andere:</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>99 99</td><td>– – – – andere, frische Weinblätter zur menschlichen Ernährung</td><td></td><td>frei</td><td></td></tr>
+<tr><td>1509.</td><td></td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– nicht behandelt:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 10</td><td>– – zu Futterzwecken</td><td></td><td></td><td>5.50</td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 91</td><td>– – – in Behältnissen aus Glas mit einem Fassungsvermögen von nicht mehr als 2 l</td><td></td><td>frei[^annexI-lvlu1-5]/frei[^annexI-lvlu1-6]</td><td>5.50[^annexI-lvlu1-7]</td></tr>
+<tr><td></td><td>10 99</td><td>– – – andere</td><td></td><td>frei[^annexI-lvlu1-8]</td><td>5.50[^annexI-lvlu1-9]</td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 10</td><td>– – zu Futterzwecken</td><td></td><td></td><td>5.50</td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 91</td><td>– – – in Behältnissen aus Glas mit einem Fassungsvermögen von nicht mehr als 2 l</td><td></td><td>frei[^annexI-lvlu1-10]</td><td>5.50[^annexI-lvlu1-11]</td></tr>
+<tr><td></td><td>90 99</td><td>– – – – andere</td><td></td><td>frei[^annexI-lvlu1-12]</td><td>5.50[^annexI-lvlu1-13]</td></tr>
+<tr><td>2001.</td><td></td><td>Gemüse, Früchte und andere geniessbare Pflanzenteile, mit Essig oder Essigsäure zubereitet oder haltbar gemacht:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – Früchte:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 11</td><td>– – – tropische</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – Gemüse und andere geniessbare Pflanzenteile:</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>90 90</td><td>– – – andere (Oliven)</td><td></td><td>frei</td><td></td></tr>
+<tr><td>2002.</td><td></td><td>Tomaten, in anderer Weise als mit Essig oder Essig- säure zubereitet oder haltbar gemacht:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Tomaten, ganz oder in Stücken:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 10</td><td>– – in Behältnissen von mehr als 5 kg</td><td></td><td>2.50</td><td></td></tr>
+<tr><td></td><td>10 20</td><td>– – in Behältnissen von nicht mehr als 5 kg</td><td></td><td>4.50</td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 10</td><td>– – in Behältnissen von mehr als 5 kg</td><td></td><td>2.50</td><td></td></tr>
+<tr><td></td><td></td><td>– – in Behältnissen von nicht mehr als 5 kg:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 21</td><td>– – – Tomatenpulpe, Tomatenpüree und Tomatenkonzentrat, in luftdicht verschlossenen Behältnissen mit einem Gehalt an Trockensubstanz von 25 Gewichtsprozent oder mehr, aus Tomaten und Wasser bestehend, auch mit Salz oder anderen Würzzusätzen</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>90 29</td><td>– – – andere</td><td></td><td>4.50</td><td></td></tr>
+<tr><td>2004.</td><td></td><td>Andere Gemüse, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– andere Gemüse und Gemüsemischungen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – in Behältnissen von mehr als 5 kg:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 12</td><td>– – – Oliven</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – in Behältnissen von nicht mehr als 5 kg:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>90 42</td><td>– – – Oliven</td><td></td><td>frei</td><td></td></tr>
+<tr><td>2005.</td><td></td><td>Andere Gemüse, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Oliven:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>70 10</td><td>– – in Behältnissen von mehr als 5 kg</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>70 90</td><td>– – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td>2006.</td><td></td><td>Gemüse, Früchte, Fruchtschalen und andere Pflanzenteile, mit Zucker haltbar gemacht (durchtränkt und abgetropft, glasiert oder kandiert):</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>00 90</td><td>– andere (Zitrusfrüchte)</td><td></td><td>9.50</td><td></td></tr>
+<tr><td>2007.</td><td></td><td>Konfitüren, Fruchtgelees, Marmeladen, Fruchtmus und Fruchtpasten, durch Kochen hergestellt, auch mit Zusatz von Zucker oder anderen Süssstoffen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – andere:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – – ohne Zusatz von Zucker oder anderen Süssstoffen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>99 11</td><td>– – – – tropische Früchte</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>99 19</td><td>– – – – andere</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td></td><td>– – – mit Zusatz von Zucker oder anderen Süss- stoffen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>99 21</td><td>– – – – tropische Früchte</td><td></td><td>frei</td><td></td></tr>
+<tr><td>2009.</td><td></td><td>Fruchtsäfte (einschliesslich Traubenmost) oder Gemüsesäfte, nicht gegoren, ohne Zusatz von Alkohol, auch mit Zusatz von Zucker oder anderen Süssstoffen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– Orangensaft:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – gefroren:</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>11 10</td><td>– – – ohne Zusatz von Zucker oder anderen Süss- stoffen (eingedickt)</td><td></td><td>frei</td><td></td></tr>
+<tr><td>ex</td><td>11 20</td><td>– – – mit Zusatz von Zucker oder anderen Süssstoffen eingedickt)</td><td></td><td>35.–</td><td></td></tr>
+<tr><td></td><td></td><td>– – anderer:</td><td></td><td></td><td></td></tr>
+<tr><td>ex</td><td>19 10</td><td>– – – ohne Zusatz von Zucker oder anderen Süss- stoffen (eingedickt)</td><td></td><td>frei</td><td></td></tr>
+<tr><td>ex</td><td>19 20</td><td>– – – mit Zusatz von Zucker oder anderen Süssstoffen eingedickt)</td><td></td><td>35.–</td><td></td></tr>
+<tr><td></td><td></td><td>– Pampelmusen- oder Grapefruitsaft:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – ohne Zusatz von Zucker oder anderen Süssstoffen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>20 11</td><td>– – – eingedickt</td><td></td><td>frei</td><td></td></tr>
+<tr><td></td><td>20 20</td><td>– – mit Zusatz von Zucker oder anderen Süssstoffen</td><td></td><td>35.–</td><td></td></tr>
+<tr><td></td><td></td><td>– Saft anderer Zitrusfrüchte:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>– – ohne Zusatz von Zucker oder anderen Süssstoffen:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>30 11</td><td>– – – Zitronensaft, roh (auch stabilisiert)</td><td></td><td>frei</td><td></td></tr>
+<tr><td>ex</td><td>30 19</td><td>– – – anderer (eingedickt)</td><td></td><td>6.–</td><td></td></tr>
+<tr><td></td><td>50 00</td><td>– Tomatensaft</td><td></td><td>4.–</td><td></td></tr>
+</table>
+
+### Erläuterung zum Anhang I
+
+[^annexI-lvlu1-1]: Die Zollkonzessionen werden auch auf Einfuhren aus Jordanien nach Liechtenstein gewährt, solange der Zollunionsvertrag vom 29. März 1923 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein in Kraft bleibt ([SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)).
+[^annexI-lvlu1-2]: <sup>Für diese Waren kann die Schweiz Referenzmengen festsetzen, wenn sie auf</sup> G<sup>rund</sup> <sup>einer von ihr erstellten jährlichen Handelsbilanz feststellt, dass die Einfuhrmengen Schwierigkeiten auf dem Schweizer Markt hervorrufen oder hervorrufen könnten. Über</sup><sup>steigen die Einfuhren die Referenzmengen, so kann die Schweiz für die betreffende Ware ein Zollkontingent in der Höhe der Referenzmenge einführen. Auf die das Kontingent über</sup><sup>steigende Menge wird der Normalzoll erhoben.</sup>
+[^annexI-lvlu1-3]: Für diese Waren kann die Schweiz Referenzmengen festsetzen, wenn sie auf Grund einer von ihr erstellten jährlichen Handelsbilanz feststellt, dass die Einfuhrmengen Schwierigkeiten auf dem Schweizer Markt hervorrufen oder hervorrufen könnten. Übersteigen die Einfuhren die Referenzmengen, so kann die Schweiz für die betreffende Ware ein Zollkontingent in der Höhe der Referenzmenge einführen. Auf die das Kontingent übersteigende Menge wird der Normalzoll erhoben.
+[^annexI-lvlu1-4]: Für diese Waren kann die Schweiz Referenzmengen festsetzen, wenn sie auf Grund einer von ihr erstellten jährlichen Handelsbilanz feststellt, dass die Einfuhrmengen Schwierigkeiten auf dem Schweizer Markt hervorrufen oder hervorrufen könnten. Übersteigen die Einfuhren die Referenzmengen, so kann die Schweiz für die betreffende Ware ein Zollkontingent in der Höhe der Referenzmenge einführen. Auf die das Kontingent übersteigende Menge wird der Normalzoll erhoben.
+[^annexI-lvlu1-5]: Für die menschliche Ernährung: 200 t jährlich
+[^annexI-lvlu1-6]: zu technischen Zwecken
+[^annexI-lvlu1-7]: nicht zu technischen Zwecken, ausserhalb des Kontingents von 200 t jährlich
+[^annexI-lvlu1-8]: zu technischen Zwecken
+[^annexI-lvlu1-9]: nicht zu technischen Zwecken
+[^annexI-lvlu1-10]: zu technischen Zwecken
+[^annexI-lvlu1-11]: nicht technischen Zwecken
+[^annexI-lvlu1-12]: zu technischen Zwecken
+[^annexI-lvlu1-13]: nicht technischen Zwecken
+
+Im Falle von Meinungsverschiedenheiten über die Warenbezeichnung in Kolonne 2 geht das Schweizerische Zolltarifgesetz vor.
+
+Ist die Zollreduktion gleich oder grösser als der angewandte MFN-Zollansatz, wird kein Zoll erhoben.
+
+Der Hinweis (\*) in Kolonne 2 bedeutet, dass die Präferenz-Zollansätze in Kolonne 3 und 4 für Einfuhren im Rahmen der in der WTO vereinbarten Zollkontingente zur Anwendung kommen.
+
+Anhang II
+
+## Concessions granted by the Hachemite Kingdom of Jordan to the Swiss Confederation
+
+[^annexII-lvlu1-1]
+
+[^annexII-lvlu1-1]: Anhang II ist nur in der englischen Version verfügbar.
+
+<table>
+<tr><td>H.S.</td><td>Description of of Goods</td><td></td><td>Duty</td></tr>
+<tr><td>0102.10000</td><td>Pure-bred breeding animals</td><td></td><td>Free</td></tr>
+<tr><td>0402</td><td>Milk and cream, concentrated or containing added sugar or other sweetening matter:</td><td></td><td></td></tr>
+<tr><td>0402.21200</td><td>Powder milk packed in firmly closed containers, the content of each not exceeding 3 kg</td><td></td><td>Free</td></tr>
+<tr><td>0406</td><td>Cheese and curd:</td><td></td><td></td></tr>
+<tr><td>ex 0406.90100</td><td>Hard cheese not put in packing for retail sale, imported by cheese factories</td><td></td><td>Free</td></tr>
+<tr><td>0901</td><td>Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion</td><td></td><td></td></tr>
+<tr><td>ex 0901.21100</td><td>not decaffeinated, put in single vacuum packed portions, for the use in coffee machines</td><td></td><td>Free</td></tr>
+<tr><td>ex 0901.22100</td><td>decaffeinated, put in single vacuum packed portions, for the use in coffee machines</td><td></td><td>Free</td></tr>
+<tr><td>1209</td><td>Seeds, fruit and spores, of a kind for sowing</td><td></td><td></td></tr>
+<tr><td>1209.30000</td><td>Seeds of herbaceous plants cultivated principally for their flowers</td><td></td><td>Free</td></tr>
+<tr><td>1209.91000</td><td>Vegetable seeds</td><td></td><td>Free</td></tr>
+<tr><td>1302.20000</td><td>Pectic substances, pectinates and pectate</td><td></td><td>Free</td></tr>
+<tr><td></td><td>Preparation with basis extracts essences or concentrates or with a basis of coffee:</td><td></td><td></td></tr>
+<tr><td>ex 2101.11000</td><td>Extracts, essences and concentrates</td><td></td><td>Free[^annexII-lvlu1-2]</td></tr>
+<tr><td></td><td>Preparation of a kind used in animal feedings:</td><td></td><td></td></tr>
+<tr><td>ex 2309.90900</td><td>Preparations containing vitamins and/or minerals, used as an addition in animal feeding, for the purpose of health (usually mixed with other feeding stuffs)</td><td></td><td>Free</td></tr>
+</table>
+
+[^annexII-lvlu1-2]: Free seven years after entry into force of the Agreement. During the transitional period, the duty will be reduced annually by 3%, the first reduction will be applied as from the entry into force of the Agreement.
+
+Anhang III[^t-2]
+
+## Ursprungsregeln und administrative Zusammenarbeit
+
+[^t-2]: Fassung gemäss Vereinb. vom 10. Juni 2025, in Kraft für die Schweiz seit 1. Febr. 2026 ([AS 2026 2](https://fedlex.data.admin.ch/eli/oc/2026/2)).
+
+\1. Die Rechte und Pflichten der Vertragsparteien in Bezug auf die Ursprungsregeln und die administrative Zusammenarbeit richten sich nach Protokoll B des Freihandelsabkommens[^annexIII-lvlu1-1].
+
+\2. Jeder Verweis auf «EFTA-Staaten» im Protokoll B ist als Verweis auf die Schweiz zu verstehen.
+
+[^annexIII-lvlu1-1]: [SR 0.632.314.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2359)
