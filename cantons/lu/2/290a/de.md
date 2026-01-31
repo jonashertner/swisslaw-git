@@ -3,20 +3,19 @@ canton: LU
 number: 290a
 title: Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 language: de
-version: 2025-07-01
-valid_until: 2026-01-31
-version_adopted: 2025-02-04
+version: 2026-02-01
+version_adopted: 2025-05-14
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/290a"
-pdf: "https://srl.lu.ch/api/de/versions/4492/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4708/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 
-vom 17.12.2010 (Stand 01.07.2025)
+vom 17.12.2010 (Stand 01.02.2026)
 
 Das Obergericht des Kantons Luzern,
 
@@ -34,21 +33,21 @@ beschliesst:
 
 **Organisationsform der Konkursämter**
 
-<sup>1</sup> Auf Rechnung des Staates werden geführt:
+<sup>1</sup> Die Konkursämter des Kantons Luzern werden auf Rechnung des Staates geführt.
 
-- a. das Konkursamt Luzern,
-- b. das Konkursamt Hochdorf,
-- c. das Konkursamt Kriens.
+- a. …
+- b. …
+- c. …
 
-<sup>2</sup> Das Konkursamt Luzern West wird im Sportelsystem geführt.
+<sup>2</sup> …
 
-### 1.2 Konkursämter im Sportelsystem
+### 1.2 Konkursverfahren im Sportelsystem
 
 #### § 2
 
 **Gebührenbezug**
 
-<sup>1</sup> Die Konkursbeamtinnen und -beamten führen das Konkursamt auf eigene Rechnung. Sie beziehen die Gebühren gemäss Gebührenverordnung zum Bundesgesetz über Schuldbetreibung und Konkurs (GebV SchKG) vom 23. September 1996[^2-1].
+<sup>1</sup> Die ausserordentlichen Konkursbeamtinnen und -beamten können im Sportelsystem eingesetzt werden. Sie beziehen die Gebühren gemäss Gebührenverordnung zum Bundesgesetz über Schuldbetreibung und Konkurs (GebV SchKG) vom 23. September 1996[^2-1].
 
 [^2-1]: SR [281.35](https://db.clex.ch/link/Bund/281.35/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
 
@@ -56,7 +55,7 @@ beschliesst:
 
 **Zulagen**
 
-<sup>1</sup> Die Konkursbeamtinnen und -beamten erhalten vom Kanton für jeden Konkurs und für jede Grundpfandverwertung eine Zulage von 65 Prozent zu den ordentlichen Gebühren.
+<sup>1</sup> Werden die Konkursverfahren auf eigene Rechnung geführt, erhalten die ausserordentlichen Konkursbeamtinnen und -beamten vom Kanton für jeden Konkurs und für jede Grundpfandverwertung eine Zulage von 65 Prozent zu den ordentlichen Gebühren.
 
 <sup>2</sup> Die ausserordentlichen Gebühren nach Artikel 1 Absatz 2 GebV SchKG sowie die Gebühren für anspruchsvolle Verfahren nach Artikel 47 GebV SchKG sowie die Auslagen sind nicht zulagenberechtigt.
 
@@ -111,6 +110,12 @@ beschliesst:
 <sup>1</sup> Die Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs vom 11. November 1996[^7-1] wird aufgehoben.
 
 [^7-1]: G 1996 343 (SRL Nr. 290a)
+
+#### § 7a
+
+**Übergangsbestimmung zur Änderung vom 14. Mai 2025**
+
+<sup>1</sup> Das Konkursamt Luzern West, Amtsstelle Sursee, wird längstens bis zum 29. Februar 2028 im Sportelsystem geführt.
 
 #### § 8
 
