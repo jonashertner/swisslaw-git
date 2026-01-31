@@ -4,7 +4,7 @@ number: "850.053"
 title: LOI du 23.11.2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (LPCFam)
 short: LPCFam
 language: fr
-version: 2026-01-01
+version: 2026-02-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053?id=fc2c787d-e508-430e-9fa6-60f0a24f06ed"
 ---
 
@@ -268,6 +268,44 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 [^14-2]: Modif. 1 du 11.12.2012: Modification Al. 1; entrée en vigueur au 01.01.2013
 [^15-1]: Loi fédérale du 06.10.2006 sur les prestations complémentaires à l'AVS et à l'AI (RS 831.30)
+
+### Sous-section IV
+
+#### Art. 15a
+
+**Création de fonds de soutien [^subsectionSoussectionIV-1]**
+
+<sup>1</sup> Un fonds de soutien (ci-après : le fonds) est créé pour contribuer au financement de structures vaudoises sans but lucratif ou d'organismes privés d'aides, dotés d'un service social, afin de permettre aux familles monoparentales en situation de précarité d'accéder à des activités de loisirs.
+
+[^subsectionSoussectionIV-1]: Modif. 12 du 04.11.2025: Introduction Art. 15a; entrée en vigueur au 01.02.2026
+
+#### Art. 15b
+
+**Dispositions d'exécutions [^15a-1]**
+
+<sup>1</sup> Le Conseil d'Etat édicte les dispositions d'exécution.
+
+<sup>2</sup> Le fonds est géré par la direction en charge de la cohésion sociale.
+
+[^15a-1]: Modif. 12 du 04.11.2025: Introduction Art. 15b; entrée en vigueur au 01.02.2026
+
+#### Art. 15c
+
+**Financement [^15b-1]**
+
+<sup>1</sup> Le fonds provient d'un legs privé anciennement « Fondation Cossy » prévu dans un arrêté du même nom abrogé le 13 novembre 2024.
+
+<sup>2</sup> Le soutien prévu à l'article 15a s'éteint à l'épuisement du fonds.
+
+[^15b-1]: Modif. 12 du 04.11.2025: Introduction tArt; entrée en vigueur au 01.02.2026; Introduction Al. 1-2; entrée en vigueur au 01.02.2026; Introduction Art. 15c; entrée en vigueur au 01.02.2026
+
+#### Art. 15d
+
+**Exclusion [^15c-1]**
+
+<sup>1</sup> Le fonds est exclu du champ d'application de la commission d'évaluation au sens de l'article 27 de la présente loi.
+
+[^15c-1]: Modif. 12 du 04.11.2025: Introduction Art. 15d; entrée en vigueur au 01.02.2026
 
 ## Section III PRESTATIONS CANTONALES DE LA RENTE-PONT
 
@@ -694,6 +732,16 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 <sup>1</sup> L'ancien droit reste applicable pendant trois ans à compter de l'entrée en vigueur de la présente modification aux ayants-droits au 31 décembre 2020 pour lesquels, du fait de la modification légale, le droit aux prestations serait diminué ou perdu.
 
 [^30b-1]: Modif. 8 du 08.12.2020: Introduction tArt; entrée en vigueur au 01.03.2021; Introduction Al. 1; entrée en vigueur au 01.03.2021; Introduction Art. 30c; entrée en vigueur au 01.03.2021
+
+#### Art. 30d
+
+**Dispositions transitoires de la loi du 4 novembre 2025 [^30c-1]**
+
+<sup>1</sup> Dès la constitution du fonds créé aux articles 15a et suivants, il est prélevé une somme unique de Fr. 10'000.- attribuée à la Commune d'Ollon. Celle-ci se chargera d'utiliser cette somme en attribuant, durant 20 ans à compter de la date d'entrée en vigueur de la présente modification, un prix d'un montant de Fr. 500.- à l'un de ses habitants.
+
+<sup>2</sup> Les associations en lien avec l'accueil de la petite enfance de la région du District d'Aigle, précédemment subventionnées par la Fondation Cossy, se verront allouer en 2024 et 2025 le montant maximal annuel de Fr. 25'000.-. Il ne sera pas procédé au versement d'une subvention au-delà de l'année 2025. Les montants précités sont prélevés sur le fonds constitué aux articles 15a et suivants.
+
+[^30c-1]: Modif. 12 du 04.11.2025: Introduction Art. 30d; entrée en vigueur au 01.02.2026
 
 #### Art. 31
 
