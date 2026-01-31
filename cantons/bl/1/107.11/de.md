@@ -3,20 +3,19 @@ canton: BL
 number: "107.11"
 title: Kantonale Statistikverordnung
 language: de
-version: 2025-05-01
-valid_until: 2026-01-31
-version_adopted: 2025-03-25
+version: 2026-02-01
+version_adopted: 2025-11-25
 adopted: 2008-06-17
 in_force: 2008-09-01
 url: "https://bl.clex.ch/app/de/texts_of_law/107.11"
-pdf: "https://bl.clex.ch/api/de/versions/4249/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Statistikverordnung
 
-Vom 17.06.2008 (Stand 01.05.2025)
+Vom 17.06.2008 (Stand 01.02.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -60,7 +59,10 @@ beschliesst:
 <sup>1</sup> Das Amt führt als Statistikregister gemäss § 6 des Gesetzes die folgenden Statistikregister:
 
 - a. Statistikregister der Bodenpreise;
-- b. Statistikregister der Bildungsinstitutionen.
+- b. Statistikregister der Bildungsinstitutionen;
+- c. Statistikregister der Lernenden;
+- d. Statistikregister des Schulpersonals;
+- e. Statistikregister der Bildungsabschlüsse.
 
 <sup>2</sup> Die Einzelheiten der Statistikregister sind im Anhang 1 aufgeführt.
 
