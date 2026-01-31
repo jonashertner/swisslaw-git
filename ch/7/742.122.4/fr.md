@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFT du 14 mai 2012 sur l'accès au réseau ferroviaire (
 short: OARF-OFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: fr
-version: 2025-02-01
+version: 2026-02-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-371-20250201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-371-20260201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250201/fr"
 
 (OARF-OFT)[^t-1]
 
-du 14 mai 2012 (État le 1<sup>er</sup> février 2025)
+du 14 mai 2012 (État le 1<sup>er</sup> février 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
 L’Office fédéral des transports (OFT),
 
-vu l’ordonnance du 25 novembre 1998 sur l’accès au réseau ferroviaire (OARF)[^ingress-1],[^ingress-2]
+vu l’art. 9*c*, al 3<sup>bis</sup>, de la loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)[^ingress-1], vu l’ordonnance du 25 novembre 1998 sur l’accès au réseau ferroviaire (OARF)[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 742.122](https://fedlex.data.admin.ch/eli/cc/1999/142)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 7 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 742.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8735)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 18 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 
 ## Section 1 Prix du sillon
 
@@ -46,7 +47,7 @@ arrête:
 
 Le prix de base lié au sillon s’élève à:
 
-- a. 2 francs 50/trains-kilomètre (T-km) pour les courses sur les tronçons de la catégorie A;[^1-2]
+- a.[^1-2] 2 fr. 50/trains-kilomètre (T-km) pour les courses sur les tronçons de la catégorie A;
 - b. 1 fr. 15/T-km pour les courses sur les tronçons de la catégorie B;[^1-3]
 - c. 1 fr. 15/T-km pour les courses sur les tronçons de la catégorie C;
 - d. 0 fr. 70/T-km pour les courses sur les tronçons de la catégorie D.
@@ -75,7 +76,7 @@ Pour les courses sur les tronçons à voie normale, le prix de base lié à l’
 <sup>5</sup> Les prix visés à l’al. 3 sont applicables directement aux courses sur les tronçons à crémaillère et sur les tronçons à voie étroite, y compris les voies à écartement multiple, ainsi qu’aux tronçons énumérés à l’annexe 3.[^1-7]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
-[^1-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 18 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 [^1-3]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 [^1-4]: Introduit par le ch. I de l’O de l’OFT du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 [^1-5]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
@@ -114,9 +115,30 @@ Pour les courses sur les tronçons à voie normale, le prix de base lié à l’
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 15 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
-[^3-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^3-3]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 [^3-4]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 [^3-5]: Abrogé par le ch. I de l’O de l’OFT du 20 déc. 2024, avec effet au 1<sup>er</sup> fév. 2025 ([RO 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+
+#### Art. 3a
+
+**Prix des prestations de manœuvre en transport marchandises**[^3a-1]
+
+### (art. 9*c*, al. 3<sup>bis</sup>, LCdF)
+
+Les prix pour les prestations complémentaires de manœuvre en transport marchandises ci-après s’élèvent à:
+
+- a. mise à disposition de voies de circulation destinées au triage: 4 fr. 85;
+- b.
+
+  triage dans les gares de triage:
+
+  - 1\. 5 francs par entrée de wagon,
+  - 2\. 5 francs par sortie de wagon,
+  - 3\. 100 francs par groupe de formation à partir du 2<sup>e</sup> groupe,
+  - 4\. 9 fr. 50 à titre de supplément par wagon pour restrictions de transport,
+  - 5\. 70 francs à titre de supplément par manœuvre particulière.
+
+[^3a-1]: Introduit par le ch. I de l’O de l’OFT du 18 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 
 #### Art. 4
 
@@ -134,7 +156,9 @@ Pour les courses sur les tronçons à voie normale, le prix de base lié à l’
 
 **Triage dans les gares de triage**[^5-1]
 
-### (art. 22, al. 1, let. g, OARF)
+### (art. 9*c*, al. 3<sup>bis</sup>, LCdF)
+
+[^5-2]
 
 La prestation complémentaire de triage est offerte 24 heures sur 24 dans les gares de triage suivantes:
 
@@ -145,18 +169,23 @@ La prestation complémentaire de triage est offerte 24 heures sur 24 dans les ga
 - e. gare de triage RB Limmattal.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 7 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 18 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 
 #### Art. 6
 
 **Mise à disposition d’un tronçon en dehors des heures d’exploitation habituelles**
 
-### (art. 22, al. 1, let. h, OARF)
+### (art. 22, al. 2, let. d, OARF)
+
+[^6-1]
 
 <sup>1</sup> Les heures d’exploitation habituelles d’un tronçon sont comprises entre le premier et le dernier train voyageurs enregistré dans l’horaire officiel.
 
 <sup>2</sup> Du lundi au vendredi, les tronçons convenant au trafic marchandises doivent être mis à disposition dès 4 h.
 
 <sup>3</sup> Le service est assuré 24 heures sur 24 sur les tronçons figurant à l’annexe 4.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 18 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 
 #### Art. 7
 
@@ -300,7 +329,7 @@ En cas de limitation de capacité, les entreprises de transport ferroviaire assu
 <sup>2</sup> La durée de validité visée à l’al. 1 est prolongée jusqu’au 31 décembre 2024.[^12b-3]
 
 [^12b-1]: Introduit par le ch. I de l’O de l’OFT du 15 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
-[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^12b-3]: Introduit par le ch. I de l’O de l’OFT du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 718](https://fedlex.data.admin.ch/eli/oc/2023/718)).
 
 #### Art. 12c
@@ -331,158 +360,158 @@ Annexe 1[^t-2]
 <tr><th>a. voie normale:</th><th>b. voie étroite:</th></tr>
 <tr><td>1. Catégorie de tronçon A</td><td>1. Catégorie de tronçon A</td></tr>
 <tr><td>300 Wengi-Ey – LBT – St. German</td><td>[tab] aucune</td></tr>
-<tr><td>302 Frutigen – Frutigen Nordportal</td><td>[tab]</td></tr>
-<tr><td>600.2 (Altdorf –) Rynächt – GBT – Giustizia (– Bellinzona)</td><td>[tab]</td></tr>
-<tr><td>601 (Giubiasco –) CBT (– Lugano)</td><td>[tab]</td></tr>
-<tr><td>634 Sant’Antonino – Vigana (Bretella)</td><td>[tab]</td></tr>
+<tr><td>302 Frutigen – Frutigen Nordportal</td><td></td></tr>
+<tr><td>600.2 (Altdorf –) Rynächt – GBT – Giustizia (– Bellinzona)</td><td></td></tr>
+<tr><td>601 (Giubiasco –) CBT (– Lugano)</td><td></td></tr>
+<tr><td>634 Sant’Antonino – Vigana (Bretella)</td><td></td></tr>
 <tr><td>2. Catégorie de tronçon B; coefficient lié à la demande: 2</td><td>2. Catégorie de tronçon B; coefficient lié à la demande: 2</td></tr>
 <tr><td>100.1 Lausanne – Montreux</td><td>[tab] aucune</td></tr>
-<tr><td>100.3 Sion – Brig</td><td>[tab]</td></tr>
-<tr><td>150 Genève Aéroport – Lausanne</td><td>[tab]</td></tr>
-<tr><td>205 (Lausanne –) L.-Sébeillon (– Renens VD)</td><td>[tab]</td></tr>
-<tr><td>210.1 Renens VD – Yverdon-les-Bains</td><td>[tab]</td></tr>
-<tr><td>210.2 Yverdon-les-Bains – Neuchâtel</td><td>[tab]</td></tr>
-<tr><td>210.3 Neuchâtel – Biel/Bienne</td><td>[tab]</td></tr>
-<tr><td>250.1 Lausanne – Palézieux</td><td>[tab]</td></tr>
-<tr><td>250.2 Palézieux – Fribourg/Freiburg – Flamatt</td><td>[tab]</td></tr>
-<tr><td>250.3 Flamatt – Bern</td><td>[tab]</td></tr>
-<tr><td>260 Biel/Bienne – Zollikofen</td><td>[tab]</td></tr>
-<tr><td>290 (Bern –) Bern Wyler – Thun</td><td>[tab]</td></tr>
-<tr><td>298 (Bern –) Holligen – Belp</td><td>[tab]</td></tr>
-<tr><td>310 Thun – Spiez</td><td>[tab]</td></tr>
-<tr><td>410.1 Biel/Bienne – Solothurn</td><td>[tab]</td></tr>
-<tr><td>450.1 Bern – Löchligut bif. – NBS (– Olten)</td><td>[tab]</td></tr>
-<tr><td>450.2 Rothrist – Olten</td><td>[tab]</td></tr>
-<tr><td>460.1 Gümligen Süd – Konolfingen</td><td>[tab]</td></tr>
-<tr><td>460.2 Konolfingen – Langnau i. E.</td><td>[tab]</td></tr>
-<tr><td>500.1 Basel SBB – Liestal – Olten</td><td>[tab]</td></tr>
-<tr><td>500.2 Olten Nord – Olten RB – Olten</td><td>[tab]</td></tr>
-<tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td>[tab]</td></tr>
-<tr><td>504 (Basel SBB –) Basel SBB RB Nordkopf – Muttenz</td><td>[tab]</td></tr>
-<tr><td>508.1 Gellert Nord – Basel SBB RB Nordkopf</td><td>[tab]</td></tr>
-<tr><td>510 Olten – Sursee – Luzern</td><td>[tab]</td></tr>
-<tr><td>520 (Basel SBB –) Basel Bad. Bf.</td><td>[tab]</td></tr>
-<tr><td>601.3 Biasca – Bellinzona – Giubiasco</td><td>[tab]</td></tr>
-<tr><td>601.5 Lugano – Chiasso</td><td>[tab]</td></tr>
-<tr><td>650 Olten – Aarau – Lenzburg – Killwangen-Spreitenbach</td><td>[tab]</td></tr>
-<tr><td>660 (Luzern–) Fluhmühle – Zug – Thalwil</td><td>[tab]</td></tr>
-<tr><td>670.2 Samstagern – Pfäffikon SZ</td><td>[tab]</td></tr>
-<tr><td>670.3 Pfäffikon SZ – Rapperswil</td><td>[tab]</td></tr>
-<tr><td>672 Wädenswil – Samstagern – Biberbrugg – Einsiedeln</td><td>[tab]</td></tr>
-<tr><td>703 Zürich Altstetten – Herdern – Zürich HB</td><td>[tab]</td></tr>
-<tr><td>704.2 Zürich Altstetten – Hard (– Zürich Oerlikon)</td><td>[tab]</td></tr>
-<tr><td>710 Brugg AG – Zürich HB</td><td>[tab]</td></tr>
-<tr><td>711.2 Zürich Altstetten – Zürich Hardbrücke – Zürich HB (Museumstrasse)</td><td>[tab]</td></tr>
-<tr><td>715 Zürich Altstetten – Vorbhf. – Zürich HB</td><td>[tab]</td></tr>
-<tr><td>719 Zürich Altstetten (– Zürich Wiedikon)</td><td>[tab]</td></tr>
-<tr><td>720 (Zürich HB –) ZBT (– Thalwil)</td><td>[tab]</td></tr>
-<tr><td>721.1 Zürich HB – Kilchberg – Thalwil</td><td>[tab]</td></tr>
-<tr><td>721.2 Thalwil – Pfäffikon SZ</td><td>[tab]</td></tr>
-<tr><td>721.3 Pfäffikon SZ – Ziegelbrücke</td><td>[tab]</td></tr>
-<tr><td>733 Zürich Stadelhofen – Stettbach – Chriesbach (– Dübendorf)</td><td>[tab]</td></tr>
-<tr><td>734 (Stettbach –) Neugut – Dietlikon</td><td>[tab]</td></tr>
-<tr><td>735.1 Zürich HB (Museumstrasse) – Meilen</td><td>[tab]</td></tr>
-<tr><td>740 Wallisellen – Uster – Rapperswil</td><td>[tab]</td></tr>
-<tr><td>750 Zürich Hardbrücke – Zürich Flughafen – Hürlistein</td><td>[tab]</td></tr>
-<tr><td>751 Zürich HB – Zürich Wipkingen – Dietlikon – Winterthur</td><td>[tab]</td></tr>
-<tr><td>752 Zürich Altstetten – Zürich HB – Zürich Oerlikon (DML)</td><td>[tab]</td></tr>
-<tr><td>755.2 Würenlos – Zürich Oerlikon</td><td>[tab]</td></tr>
-<tr><td>755.3 Zürich Oerlikon – Opfikon Süd – Kloten – Dorfnest</td><td>[tab]</td></tr>
-<tr><td>755.4 Zürich Seebach – Opfikon Süd</td><td>[tab]</td></tr>
-<tr><td>757.1 Effretikon – Wetzikon</td><td>[tab]</td></tr>
-<tr><td>760.1 Zürich Oerlikon – Oberglatt</td><td>[tab]</td></tr>
-<tr><td>760.3 Bülach – Eglisau – Schaffhausen</td><td>[tab]</td></tr>
-<tr><td>762 Winterthur – Neuhausen</td><td>[tab]</td></tr>
-<tr><td>850.1 Winterthur – Wil – Gossau SG</td><td>[tab]</td></tr>
-<tr><td>850.2 Gossau SG – St. Gallen St. Fiden</td><td>[tab]</td></tr>
-<tr><td>870.2 Herisau – Lichtensteig</td><td>[tab]</td></tr>
-<tr><td>870.3 Herisau – St. Gallen</td><td>[tab]</td></tr>
-<tr><td>870.4 Romanshorn – St. Gallen St. Fiden</td><td>[tab]</td></tr>
+<tr><td>100.3 Sion – Brig</td><td></td></tr>
+<tr><td>150 Genève Aéroport – Lausanne</td><td></td></tr>
+<tr><td>205 (Lausanne –) L.-Sébeillon (– Renens VD)</td><td></td></tr>
+<tr><td>210.1 Renens VD – Yverdon-les-Bains</td><td></td></tr>
+<tr><td>210.2 Yverdon-les-Bains – Neuchâtel</td><td></td></tr>
+<tr><td>210.3 Neuchâtel – Biel/Bienne</td><td></td></tr>
+<tr><td>250.1 Lausanne – Palézieux</td><td></td></tr>
+<tr><td>250.2 Palézieux – Fribourg/Freiburg – Flamatt</td><td></td></tr>
+<tr><td>250.3 Flamatt – Bern</td><td></td></tr>
+<tr><td>260 Biel/Bienne – Zollikofen</td><td></td></tr>
+<tr><td>290 (Bern –) Bern Wyler – Thun</td><td></td></tr>
+<tr><td>298 (Bern –) Holligen – Belp</td><td></td></tr>
+<tr><td>310 Thun – Spiez</td><td></td></tr>
+<tr><td>410.1 Biel/Bienne – Solothurn</td><td></td></tr>
+<tr><td>450.1 Bern – Löchligut bif. – NBS (– Olten)</td><td></td></tr>
+<tr><td>450.2 Rothrist – Olten</td><td></td></tr>
+<tr><td>460.1 Gümligen Süd – Konolfingen</td><td></td></tr>
+<tr><td>460.2 Konolfingen – Langnau i. E.</td><td></td></tr>
+<tr><td>500.1 Basel SBB – Liestal – Olten</td><td></td></tr>
+<tr><td>500.2 Olten Nord – Olten RB – Olten</td><td></td></tr>
+<tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td></td></tr>
+<tr><td>504 (Basel SBB –) Basel SBB RB Nordkopf – Muttenz</td><td></td></tr>
+<tr><td>508.1 Gellert Nord – Basel SBB RB Nordkopf</td><td></td></tr>
+<tr><td>510 Olten – Sursee – Luzern</td><td></td></tr>
+<tr><td>520 (Basel SBB –) Basel Bad. Bf.</td><td></td></tr>
+<tr><td>601.3 Biasca – Bellinzona – Giubiasco</td><td></td></tr>
+<tr><td>601.5 Lugano – Chiasso</td><td></td></tr>
+<tr><td>650 Olten – Aarau – Lenzburg – Killwangen-Spreitenbach</td><td></td></tr>
+<tr><td>660 (Luzern–) Fluhmühle – Zug – Thalwil</td><td></td></tr>
+<tr><td>670.2 Samstagern – Pfäffikon SZ</td><td></td></tr>
+<tr><td>670.3 Pfäffikon SZ – Rapperswil</td><td></td></tr>
+<tr><td>672 Wädenswil – Samstagern – Biberbrugg – Einsiedeln</td><td></td></tr>
+<tr><td>703 Zürich Altstetten – Herdern – Zürich HB</td><td></td></tr>
+<tr><td>704.2 Zürich Altstetten – Hard (– Zürich Oerlikon)</td><td></td></tr>
+<tr><td>710 Brugg AG – Zürich HB</td><td></td></tr>
+<tr><td>711.2 Zürich Altstetten – Zürich Hardbrücke – Zürich HB (Museumstrasse)</td><td></td></tr>
+<tr><td>715 Zürich Altstetten – Vorbhf. – Zürich HB</td><td></td></tr>
+<tr><td>719 Zürich Altstetten (– Zürich Wiedikon)</td><td></td></tr>
+<tr><td>720 (Zürich HB –) ZBT (– Thalwil)</td><td></td></tr>
+<tr><td>721.1 Zürich HB – Kilchberg – Thalwil</td><td></td></tr>
+<tr><td>721.2 Thalwil – Pfäffikon SZ</td><td></td></tr>
+<tr><td>721.3 Pfäffikon SZ – Ziegelbrücke</td><td></td></tr>
+<tr><td>733 Zürich Stadelhofen – Stettbach – Chriesbach (– Dübendorf)</td><td></td></tr>
+<tr><td>734 (Stettbach –) Neugut – Dietlikon</td><td></td></tr>
+<tr><td>735.1 Zürich HB (Museumstrasse) – Meilen</td><td></td></tr>
+<tr><td>740 Wallisellen – Uster – Rapperswil</td><td></td></tr>
+<tr><td>750 Zürich Hardbrücke – Zürich Flughafen – Hürlistein</td><td></td></tr>
+<tr><td>751 Zürich HB – Zürich Wipkingen – Dietlikon – Winterthur</td><td></td></tr>
+<tr><td>752 Zürich Altstetten – Zürich HB – Zürich Oerlikon (DML)</td><td></td></tr>
+<tr><td>755.2 Würenlos – Zürich Oerlikon</td><td></td></tr>
+<tr><td>755.3 Zürich Oerlikon – Opfikon Süd – Kloten – Dorfnest</td><td></td></tr>
+<tr><td>755.4 Zürich Seebach – Opfikon Süd</td><td></td></tr>
+<tr><td>757.1 Effretikon – Wetzikon</td><td></td></tr>
+<tr><td>760.1 Zürich Oerlikon – Oberglatt</td><td></td></tr>
+<tr><td>760.3 Bülach – Eglisau – Schaffhausen</td><td></td></tr>
+<tr><td>762 Winterthur – Neuhausen</td><td></td></tr>
+<tr><td>850.1 Winterthur – Wil – Gossau SG</td><td></td></tr>
+<tr><td>850.2 Gossau SG – St. Gallen St. Fiden</td><td></td></tr>
+<tr><td>870.2 Herisau – Lichtensteig</td><td></td></tr>
+<tr><td>870.3 Herisau – St. Gallen</td><td></td></tr>
+<tr><td>870.4 Romanshorn – St. Gallen St. Fiden</td><td></td></tr>
 <tr><td>3. Catégorie de tronçon B; coefficient lié à la demande: 1</td><td>3. Catégorie de tronçon B; coefficient lié à la demande: 1</td></tr>
 <tr><td>026 (St-Louis –) frontière – Basel St. Johann – Basel SBB</td><td>[tab] aucune</td></tr>
-<tr><td>070 Basel Bad. Bf. – frontière (– Weil [Rhein])</td><td>[tab]</td></tr>
-<tr><td>072 Basel Bad. Bf. – frontière (– Lörrach)</td><td>[tab]</td></tr>
-<tr><td>075 Basel Bad. Bf. – frontière (– Waldshut)</td><td>[tab]</td></tr>
-<tr><td>081 Buchs SG – frontière (– Schaan)</td><td>[tab]</td></tr>
-<tr><td>083 St. Margrethen – frontière (– Lustenau)</td><td>[tab]</td></tr>
-<tr><td>100.2 Montreux – Martigny – Sion</td><td>[tab]</td></tr>
-<tr><td>100.3 Sion – Brig</td><td>[tab]</td></tr>
-<tr><td>131 Monthey – Les Paluds (– St-Maurice)</td><td>[tab]</td></tr>
-<tr><td>145 Brig – frontière (– Iselle di Trasquera)</td><td>[tab]</td></tr>
-<tr><td>151 (Bellegarde –) frontière – La Plaine – Châtelaine (– Genève)</td><td>[tab]</td></tr>
-<tr><td>152 La Praille – Furet (– Châtelaine)</td><td>[tab]</td></tr>
-<tr><td>153 (Genève –) Genève-Stade – Eaux-Vives – frontière (– Annemasse)</td><td>[tab]</td></tr>
-<tr><td>190 Denges/Lonay – Lausanne-Triage – Bussigny/Renens VD</td><td>[tab]</td></tr>
-<tr><td>200 Frontière – Vallorbe – Daillens</td><td>[tab]</td></tr>
-<tr><td>211 Orbe – Chavornay</td><td>[tab]</td></tr>
-<tr><td>220 (Neuchâtel –) Kerzers – Bern</td><td>[tab]</td></tr>
-<tr><td>226.2 Moutier – Delémont</td><td>[tab]</td></tr>
-<tr><td>229 Basel SBB GB St. Jakob – Ruchfeld</td><td>[tab]</td></tr>
-<tr><td>230 Delémont – Basel SBB</td><td>[tab]</td></tr>
-<tr><td>232 Lengnau – Grenchenberg – Moutier</td><td>[tab]</td></tr>
-<tr><td>280 (Gümmenen) – Laupen – Flamatt</td><td>[tab]</td></tr>
-<tr><td>297 Schwarzenburg – Bern Fischermätteli</td><td>[tab]</td></tr>
-<tr><td>299 (Löchligut bif. –) Löchligut Süd bif. – Wankdorf bif. (– Ostermundigen)</td><td>[tab]</td></tr>
-<tr><td>301 Spiez – Kandersteg – Brig</td><td>[tab]</td></tr>
-<tr><td>310 Spiez – Interlaken Ost</td><td>[tab]</td></tr>
-<tr><td>320 Zweisimmen – Spiez</td><td>[tab]</td></tr>
-<tr><td>409 Biel Mett bif. – Madretsch</td><td>[tab]</td></tr>
-<tr><td>410.2 Solothurn – Oensingen – Olten</td><td>[tab]</td></tr>
-<tr><td>412 Oensingen – Balsthal</td><td>[tab]</td></tr>
-<tr><td>430 Solothurn – Wanzwil (– NBS – Olten)</td><td>[tab]</td></tr>
-<tr><td>440 Solothurn – Burgdorf</td><td>[tab]</td></tr>
-<tr><td>441 Burgdorf – Obermatt (– Langnau i. E.)</td><td>[tab]</td></tr>
-<tr><td>442 Hasle-Rüegsau – Konolfingen – Thun bif.</td><td>[tab]</td></tr>
-<tr><td>444.1 Ramsei – Sumiswald-Grünen</td><td>[tab]</td></tr>
-<tr><td>451.1 (Bern –) Löchligut bif. – Burgdorf</td><td>[tab]</td></tr>
-<tr><td>451.2 Burgdorf – Langenthal</td><td>[tab]</td></tr>
-<tr><td>451.3 Langenthal – Aarburg-Oftringen</td><td>[tab]</td></tr>
-<tr><td>459 Äspli – Mattstetten bif. (– Hindelbank)</td><td>[tab]</td></tr>
-<tr><td>490 (Rothrist –) Aarburg West – Aarburg Süd (– Zofingen)</td><td>[tab]</td></tr>
-<tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td>[tab]</td></tr>
-<tr><td>508.3 Basel Kleinhüningen Hafen – Basel Bad. Bf.</td><td>[tab]</td></tr>
-<tr><td>509 (Basel SBB RB) – Birsfelden Hafen – Basel Auhafen</td><td>[tab]</td></tr>
-<tr><td>512 (Olten Tunnel –) Olten Nord – Olten Ost (– Dulliken)</td><td>[tab]</td></tr>
-<tr><td>550 Rupperswil – Brugg AG</td><td>[tab]</td></tr>
-<tr><td>601.1 Immensee – Arth-Goldau – Erstfeld</td><td>[tab]</td></tr>
-<tr><td>601.2 Erstfeld – Göschenen – Biasca</td><td>[tab]</td></tr>
-<tr><td>601.4 Giubiasco – Lugano</td><td>[tab]</td></tr>
-<tr><td>630.1 Giubiasco – Cadenazzo Ovest</td><td>[tab]</td></tr>
-<tr><td>630.2 Cadenazzo Ovest – Locarno</td><td>[tab]</td></tr>
-<tr><td>633 Lugano-Vedeggio – Taverne-Torricella</td><td>[tab]</td></tr>
-<tr><td>637 Mendrisio – Stabio – frontière (– Varese)</td><td>[tab]</td></tr>
-<tr><td>638 Balerna bif. – Chiasso SM</td><td>[tab]</td></tr>
-<tr><td>653 (Lenzburg –) Hendschiken – Rotkreuz – Immensee</td><td>[tab]</td></tr>
-<tr><td>654 Brugg AG – Hendschiken (– Wohlen)</td><td>[tab]</td></tr>
-<tr><td>665 Zug – Arth-Goldau</td><td>[tab]</td></tr>
-<tr><td>670.1 Arth-Goldau – Biberbrugg</td><td>[tab]</td></tr>
-<tr><td>699 (Schinznach Dorf –) Brugg Nord – Brugg Süd (– Lupfig)</td><td>[tab]</td></tr>
-<tr><td>704.1 Würenlos – Killwangen-Spreitenbach</td><td>[tab]</td></tr>
-<tr><td>705 Bülach – Winterthur</td><td>[tab]</td></tr>
-<tr><td>700 Pratteln – Stein-Säckingen – Brugg AG</td><td>[tab]</td></tr>
-<tr><td>711.1 (Zug Chollermüli –) Zürich Altstetten</td><td>[tab]</td></tr>
-<tr><td>712 Zürich HB – Sihlbrugg</td><td>[tab]</td></tr>
-<tr><td>713 (Uetliberg –) Ringlikon – Zürich Giesshübel</td><td>[tab]</td></tr>
-<tr><td>717 Zürich Giesshübel – Zürich Wiedikon</td><td>[tab]</td></tr>
-<tr><td>735.2 Meilen – Rapperswil</td><td>[tab]</td></tr>
-<tr><td>736.1 Rapperswil – Uznach</td><td>[tab]</td></tr>
-<tr><td>755.1 Wettingen – Würenlos</td><td>[tab]</td></tr>
-<tr><td>757.2 Wetzikon – Hinwil – Bäretswil</td><td>[tab]</td></tr>
-<tr><td>760.2 Oberglatt – Bülach</td><td>[tab]</td></tr>
-<tr><td>770 (Waldshut –) frontière – Trasadingen – Schaffhausen – Thayngen – frontière (– Singen)</td><td>[tab]</td></tr>
-<tr><td>820.2 Kreuzlingen – Romanshorn</td><td>[tab]</td></tr>
-<tr><td>820.3 Romanshorn – Rorschach</td><td>[tab]</td></tr>
-<tr><td>830.2 Kreuzlingen – frontière (– Konstanz)</td><td>[tab]</td></tr>
-<tr><td>831 (Konstanz –) frontière – Kreuzlingen Hafen</td><td>[tab]</td></tr>
-<tr><td>840 Winterthur – Weinfelden – Romanshorn</td><td>[tab]</td></tr>
-<tr><td>849 (Weinfelden –) Romanshorn Süd – Romanshorn West (– Rorschach)</td><td>[tab]</td></tr>
-<tr><td>850.3 St. Gallen St. Fiden – Rorschach</td><td>[tab]</td></tr>
-<tr><td>852 Gossau SG – Sulgen</td><td>[tab]</td></tr>
-<tr><td>870.1 Lichtensteig – Wattwil – Nesslau – Neu St. Johann</td><td>[tab]</td></tr>
-<tr><td>871 Uznach – Wattwil</td><td>[tab]</td></tr>
-<tr><td>880 Rorschach – St. Margrethen – Sargans</td><td>[tab]</td></tr>
-<tr><td>900 Ziegelbrücke – Sargans</td><td>[tab]</td></tr>
-<tr><td>905 Sargans – Chur</td><td>[tab]</td></tr>
+<tr><td>070 Basel Bad. Bf. – frontière (– Weil [Rhein])</td><td></td></tr>
+<tr><td>072 Basel Bad. Bf. – frontière (– Lörrach)</td><td></td></tr>
+<tr><td>075 Basel Bad. Bf. – frontière (– Waldshut)</td><td></td></tr>
+<tr><td>081 Buchs SG – frontière (– Schaan)</td><td></td></tr>
+<tr><td>083 St. Margrethen – frontière (– Lustenau)</td><td></td></tr>
+<tr><td>100.2 Montreux – Martigny – Sion</td><td></td></tr>
+<tr><td>100.3 Sion – Brig</td><td></td></tr>
+<tr><td>131 Monthey – Les Paluds (– St-Maurice)</td><td></td></tr>
+<tr><td>145 Brig – frontière (– Iselle di Trasquera)</td><td></td></tr>
+<tr><td>151 (Bellegarde –) frontière – La Plaine – Châtelaine (– Genève)</td><td></td></tr>
+<tr><td>152 La Praille – Furet (– Châtelaine)</td><td></td></tr>
+<tr><td>153 (Genève –) Genève-Stade – Eaux-Vives – frontière (– Annemasse)</td><td></td></tr>
+<tr><td>190 Denges/Lonay – Lausanne-Triage – Bussigny/Renens VD</td><td></td></tr>
+<tr><td>200 Frontière – Vallorbe – Daillens</td><td></td></tr>
+<tr><td>211 Orbe – Chavornay</td><td></td></tr>
+<tr><td>220 (Neuchâtel –) Kerzers – Bern</td><td></td></tr>
+<tr><td>226.2 Moutier – Delémont</td><td></td></tr>
+<tr><td>229 Basel SBB GB St. Jakob – Ruchfeld</td><td></td></tr>
+<tr><td>230 Delémont – Basel SBB</td><td></td></tr>
+<tr><td>232 Lengnau – Grenchenberg – Moutier</td><td></td></tr>
+<tr><td>280 (Gümmenen) – Laupen – Flamatt</td><td></td></tr>
+<tr><td>297 Schwarzenburg – Bern Fischermätteli</td><td></td></tr>
+<tr><td>299 (Löchligut bif. –) Löchligut Süd bif. – Wankdorf bif. (– Ostermundigen)</td><td></td></tr>
+<tr><td>301 Spiez – Kandersteg – Brig</td><td></td></tr>
+<tr><td>310 Spiez – Interlaken Ost</td><td></td></tr>
+<tr><td>320 Zweisimmen – Spiez</td><td></td></tr>
+<tr><td>409 Biel Mett bif. – Madretsch</td><td></td></tr>
+<tr><td>410.2 Solothurn – Oensingen – Olten</td><td></td></tr>
+<tr><td>412 Oensingen – Balsthal</td><td></td></tr>
+<tr><td>430 Solothurn – Wanzwil (– NBS – Olten)</td><td></td></tr>
+<tr><td>440 Solothurn – Burgdorf</td><td></td></tr>
+<tr><td>441 Burgdorf – Obermatt (– Langnau i. E.)</td><td></td></tr>
+<tr><td>442 Hasle-Rüegsau – Konolfingen – Thun bif.</td><td></td></tr>
+<tr><td>444.1 Ramsei – Sumiswald-Grünen</td><td></td></tr>
+<tr><td>451.1 (Bern –) Löchligut bif. – Burgdorf</td><td></td></tr>
+<tr><td>451.2 Burgdorf – Langenthal</td><td></td></tr>
+<tr><td>451.3 Langenthal – Aarburg-Oftringen</td><td></td></tr>
+<tr><td>459 Äspli – Mattstetten bif. (– Hindelbank)</td><td></td></tr>
+<tr><td>490 (Rothrist –) Aarburg West – Aarburg Süd (– Zofingen)</td><td></td></tr>
+<tr><td>501 (Muttenz –) Pratteln (– Liestal)</td><td></td></tr>
+<tr><td>508.3 Basel Kleinhüningen Hafen – Basel Bad. Bf.</td><td></td></tr>
+<tr><td>509 (Basel SBB RB) – Birsfelden Hafen – Basel Auhafen</td><td></td></tr>
+<tr><td>512 (Olten Tunnel –) Olten Nord – Olten Ost (– Dulliken)</td><td></td></tr>
+<tr><td>550 Rupperswil – Brugg AG</td><td></td></tr>
+<tr><td>601.1 Immensee – Arth-Goldau – Erstfeld</td><td></td></tr>
+<tr><td>601.2 Erstfeld – Göschenen – Biasca</td><td></td></tr>
+<tr><td>601.4 Giubiasco – Lugano</td><td></td></tr>
+<tr><td>630.1 Giubiasco – Cadenazzo Ovest</td><td></td></tr>
+<tr><td>630.2 Cadenazzo Ovest – Locarno</td><td></td></tr>
+<tr><td>633 Lugano-Vedeggio – Taverne-Torricella</td><td></td></tr>
+<tr><td>637 Mendrisio – Stabio – frontière (– Varese)</td><td></td></tr>
+<tr><td>638 Balerna bif. – Chiasso SM</td><td></td></tr>
+<tr><td>653 (Lenzburg –) Hendschiken – Rotkreuz – Immensee</td><td></td></tr>
+<tr><td>654 Brugg AG – Hendschiken (– Wohlen)</td><td></td></tr>
+<tr><td>665 Zug – Arth-Goldau</td><td></td></tr>
+<tr><td>670.1 Arth-Goldau – Biberbrugg</td><td></td></tr>
+<tr><td>699 (Schinznach Dorf –) Brugg Nord – Brugg Süd (– Lupfig)</td><td></td></tr>
+<tr><td>704.1 Würenlos – Killwangen-Spreitenbach</td><td></td></tr>
+<tr><td>705 Bülach – Winterthur</td><td></td></tr>
+<tr><td>700 Pratteln – Stein-Säckingen – Brugg AG</td><td></td></tr>
+<tr><td>711.1 (Zug Chollermüli –) Zürich Altstetten</td><td></td></tr>
+<tr><td>712 Zürich HB – Sihlbrugg</td><td></td></tr>
+<tr><td>713 (Uetliberg –) Ringlikon – Zürich Giesshübel</td><td></td></tr>
+<tr><td>717 Zürich Giesshübel – Zürich Wiedikon</td><td></td></tr>
+<tr><td>735.2 Meilen – Rapperswil</td><td></td></tr>
+<tr><td>736.1 Rapperswil – Uznach</td><td></td></tr>
+<tr><td>755.1 Wettingen – Würenlos</td><td></td></tr>
+<tr><td>757.2 Wetzikon – Hinwil – Bäretswil</td><td></td></tr>
+<tr><td>760.2 Oberglatt – Bülach</td><td></td></tr>
+<tr><td>770 (Waldshut –) frontière – Trasadingen – Schaffhausen – Thayngen – frontière (– Singen)</td><td></td></tr>
+<tr><td>820.2 Kreuzlingen – Romanshorn</td><td></td></tr>
+<tr><td>820.3 Romanshorn – Rorschach</td><td></td></tr>
+<tr><td>830.2 Kreuzlingen – frontière (– Konstanz)</td><td></td></tr>
+<tr><td>831 (Konstanz –) frontière – Kreuzlingen Hafen</td><td></td></tr>
+<tr><td>840 Winterthur – Weinfelden – Romanshorn</td><td></td></tr>
+<tr><td>849 (Weinfelden –) Romanshorn Süd – Romanshorn West (– Rorschach)</td><td></td></tr>
+<tr><td>850.3 St. Gallen St. Fiden – Rorschach</td><td></td></tr>
+<tr><td>852 Gossau SG – Sulgen</td><td></td></tr>
+<tr><td>870.1 Lichtensteig – Wattwil – Nesslau – Neu St. Johann</td><td></td></tr>
+<tr><td>871 Uznach – Wattwil</td><td></td></tr>
+<tr><td>880 Rorschach – St. Margrethen – Sargans</td><td></td></tr>
+<tr><td>900 Ziegelbrücke – Sargans</td><td></td></tr>
+<tr><td>905 Sargans – Chur</td><td></td></tr>
 <tr><td>4. Catégorie de tronçon C</td><td>4. Catégorie de tronçon C</td></tr>
 <tr><td>102 Renens VD TL – Lausanne-Flon</td><td>101 Lausanne-Flon – Echallens – Bercher</td></tr>
 <tr><td>111 Puidoux-Chexbres – Vevey</td><td>112.1 Vevey – Blonay</td></tr>
@@ -514,7 +543,7 @@ Annexe 1[^t-2]
 <tr><td>511 Triengen-Winikon – Sursee</td><td>311 Interlaken Ost – Lauterbrunnen</td></tr>
 <tr><td>514 Zofingen – Suhr – Lenzburg</td><td>312 Zweilütschinen – Grindelwald</td></tr>
 <tr><td>602 Arth-Goldau – Rigi Kulm</td><td>313 Grütschalp – Mürren</td></tr>
-<tr><td>[tab] 603</td><td>[tab]</td></tr>
+<tr><td>[tab] 603</td><td></td></tr>
 <tr><td>604 Rigi Staffel – Arth-Goldau</td><td>315 Lauterbrunnen – Wengen</td></tr>
 <tr><td>631 Cadenazzo Ovest – frontière (– Luino)</td><td>413 Solothurn – Niederbipp – Oensingen</td></tr>
 <tr><td>645 (Lenzburg –) Gruemet – Wettingen</td><td>414 Niederbipp – Langenthal – St. Urban Ziegelei</td></tr>
@@ -534,36 +563,36 @@ Annexe 1[^t-2]
 <tr><td>857 Rorschach – Heiden</td><td>632 Grono – Cama</td></tr>
 <tr><td>872 Wil – Lichtensteig (– Wattwil)</td><td>635 Lugano – Ponte Tresa</td></tr>
 <tr><td>940 Ems Werk – Chur</td><td>643 Aarau – Schöftland</td></tr>
-<tr><td>[tab]</td><td>644 Aarau – Menziken</td></tr>
-<tr><td>[tab]</td><td>655 Wohlen – Bremgarten – Dietikon</td></tr>
-<tr><td>[tab]</td><td>731 Zürich Rehalp – Esslingen</td></tr>
-<tr><td>[tab]</td><td>835 Frauenfeld – Wil</td></tr>
-<tr><td>[tab]</td><td>854 Gossau SG – Appenzell – Wasserauen</td></tr>
-<tr><td>[tab]</td><td>855 St. Gallen – Gais – Appenzell</td></tr>
-<tr><td>[tab]</td><td>856 Gais – Altstätten</td></tr>
-<tr><td>[tab]</td><td>858 Rheineck – Walzenhausen</td></tr>
-<tr><td>[tab]</td><td>859 St. Gallen – Trogen</td></tr>
-<tr><td>[tab]</td><td>908 Chur – Landquart</td></tr>
-<tr><td>[tab]</td><td>910 Landquart – Davos Platz</td></tr>
-<tr><td>[tab]</td><td>915 Filisur – Davos Platz</td></tr>
-<tr><td>[tab]</td><td>920 Disentis/Mustér (– Reichenau-Tamins)</td></tr>
-<tr><td>[tab]</td><td>930 Chur – Arosa</td></tr>
-<tr><td>[tab]</td><td>940 Chur – Reichenau-Tamins – St. Moritz</td></tr>
-<tr><td>[tab]</td><td>950 St. Moritz – Campocologno – Tirano</td></tr>
-<tr><td>[tab]</td><td>955 Klosters – Sagliains</td></tr>
-<tr><td>[tab]</td><td>959 Sagliains bif. Sasslatschtunnel – Sasslatsch bif.</td></tr>
-<tr><td>[tab]</td><td>960.1 Samedan – Pontresina</td></tr>
-<tr><td>[tab]</td><td>960.2 Bever – Scuol-Tarasp</td></tr>
+<tr><td></td><td>644 Aarau – Menziken</td></tr>
+<tr><td></td><td>655 Wohlen – Bremgarten – Dietikon</td></tr>
+<tr><td></td><td>731 Zürich Rehalp – Esslingen</td></tr>
+<tr><td></td><td>835 Frauenfeld – Wil</td></tr>
+<tr><td></td><td>854 Gossau SG – Appenzell – Wasserauen</td></tr>
+<tr><td></td><td>855 St. Gallen – Gais – Appenzell</td></tr>
+<tr><td></td><td>856 Gais – Altstätten</td></tr>
+<tr><td></td><td>858 Rheineck – Walzenhausen</td></tr>
+<tr><td></td><td>859 St. Gallen – Trogen</td></tr>
+<tr><td></td><td>908 Chur – Landquart</td></tr>
+<tr><td></td><td>910 Landquart – Davos Platz</td></tr>
+<tr><td></td><td>915 Filisur – Davos Platz</td></tr>
+<tr><td></td><td>920 Disentis/Mustér (– Reichenau-Tamins)</td></tr>
+<tr><td></td><td>930 Chur – Arosa</td></tr>
+<tr><td></td><td>940 Chur – Reichenau-Tamins – St. Moritz</td></tr>
+<tr><td></td><td>950 St. Moritz – Campocologno – Tirano</td></tr>
+<tr><td></td><td>955 Klosters – Sagliains</td></tr>
+<tr><td></td><td>959 Sagliains bif. Sasslatschtunnel – Sasslatsch bif.</td></tr>
+<tr><td></td><td>960.1 Samedan – Pontresina</td></tr>
+<tr><td></td><td>960.2 Bever – Scuol-Tarasp</td></tr>
 <tr><td>5. Catégorie de tronçon D</td><td>5. Catégorie de tronçon D</td></tr>
 <tr><td>[tab] aucune</td><td>143 Riffelalp – Hotel Riffelalp</td></tr>
-<tr><td>[tab]</td><td>159.1 Réseau de tramways Genève (TPG)</td></tr>
-<tr><td>[tab]</td><td>294.1 Réseau de tramways Bern (SVB)</td></tr>
-<tr><td>[tab]</td><td>505.1 Basel Bhf. SBB – Münchensteinerstr.</td></tr>
-<tr><td>[tab]</td><td>507.1 Réseau de tramways Basel (BVB)</td></tr>
-<tr><td>[tab]</td><td>507.2 Basel Schänzli – Pratteln (BLT)</td></tr>
-<tr><td>[tab]</td><td>759.1 Réseau de tramways Zürich (VBZ)</td></tr>
-<tr><td>[tab]</td><td>759.2 Verkehrsbetriebe Glattal</td></tr>
-<tr><td>[tab]</td><td>759.2 Limmattalbahn</td></tr>
+<tr><td></td><td>159.1 Réseau de tramways Genève (TPG)</td></tr>
+<tr><td></td><td>294.1 Réseau de tramways Bern (SVB)</td></tr>
+<tr><td></td><td>505.1 Basel Bhf. SBB – Münchensteinerstr.</td></tr>
+<tr><td></td><td>507.1 Réseau de tramways Basel (BVB)</td></tr>
+<tr><td></td><td>507.2 Basel Schänzli – Pratteln (BLT)</td></tr>
+<tr><td></td><td>759.1 Réseau de tramways Zürich (VBZ)</td></tr>
+<tr><td></td><td>759.2 Verkehrsbetriebe Glattal</td></tr>
+<tr><td></td><td>759.2 Limmattalbahn</td></tr>
 </table>
 
 Annexe 1a[^t-3]

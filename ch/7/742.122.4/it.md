@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFT del 14 maggio 2012 concernente l'accesso alla rete fe
 short: OARF-UFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: it
-version: 2025-02-01
+version: 2026-02-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2012-371-20250201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2012-371-20260201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20250201/it"
 
 (OARF-UFT)[^t-1]
 
-del 14 maggio 2012 (Stato 1° febbraio 2025)
+del 14 maggio 2012 (Stato 1° febbraio 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O dell’UFT 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
 L’Ufficio federale dei trasporti (UFT),
 
-vista l’ordinanza del 25 novembre 1998[^ingress-1] concernente l’accesso alla rete ferroviaria (OARF),[^ingress-2]
+visto l’articolo 9*c* capoverso 3<sup>bis</sup> della legge federale del 20 dicembre 1957[^ingress-1] sulle ferrovie (Lferr); vista l’ordinanza del 25 novembre 1998[^ingress-2] concernente l’accesso alla rete ferroviaria (OARF),[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 742.122](https://fedlex.data.admin.ch/eli/cc/1999/142)
-[^ingress-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 7 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 742.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8735)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O dell’UFT del 18 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 
 ## Sezione 1: Prezzo delle tracce
 
@@ -46,21 +47,21 @@ ordina:
 
 Il prezzo di base per traccia è di:
 
-- a.[^1-2] fr. 2.50/treno-chilometro (tkm) per corse effettuate su tratte della categoria A;
-- b.[^1-3] fr. 1.15/tkm per corse effettuate su tratte della categoria B;
-- c. fr. 1.15/tkm per corse effettuate su tratte della categoria C;
-- d. fr. 0.70/tkm per corse effettuate su tratte della categoria D.
+- a. 2.50 fr. per treno-chilometro (tkm) per corse effettuate su tratte della categoria A;
+- b. 1.15 fr. per tkm per corse effettuate su tratte della categoria B;
+- c. 1.15 fr. per tkm per corse effettuate su tratte della categoria C;
+- d. 0.70 fr. per tkm per corse effettuate su tratte della categoria D.[^1-2]
 
-<sup>1bis</sup> Sul prezzo di base per traccia viene concesso per treno uno sconto di 1 centesimo per tkm per ogni metro di carico rimorchiato oltre i 500 metri.[^1-4]
+<sup>1bis</sup> Sul prezzo di base per traccia viene concesso per treno uno sconto di 1 centesimo per tkm per ogni metro di carico rimorchiato oltre i 500 metri.[^1-3]
 
 <sup>2</sup> La ripartizione delle tratte nelle categorie A–D è riportata nell’allegato 1.
 
 <sup>3</sup>
 
-Il prezzo di base in funzione dell’usura, applicabile sulle tratte di cui all’allegato 1, è di:[^1-5]
+Il prezzo di base in funzione dell’usura, applicabile sulle tratte di cui all’allegato 1, è di:
 
-- a. 0,29 ct./tonnellata-chilometro lorda (tkmL) per corse effettuate su tratte la cui sovrastruttura è concepita per un carico per asse di 13 tonnellate al massimo;
-- b. 0,36 ct./tkmL per corse effettuate sulle altre tratte.[^1-6]
+- a. 0.29 ct. per tonnellata-chilometro lorda (tkmL) per corse effettuate su tratte la cui sovrastruttura è concepita per un carico per asse di 13 tonnellate al massimo;
+- b. 0.36 ct. per tkmL per corse effettuate sulle altre tratte.[^1-4]
 
 <sup>4</sup>
 
@@ -72,15 +73,13 @@ Per corse effettuate su tratte a scartamento normale il prezzo di base in funzio
 - d. gli altri veicoli vengono assegnati ad un gruppo di tipi di veicoli affini e gravati di un supplemento del 25 per cento rispetto al prezzo massimo del gruppo per i singoli intervalli di velocità e intervalli di raggi;
 - e. per i veicoli motore rimorchiati viene detratto l’indice della forza di trazione secondo la formula riportata all’allegato 1*a*.
 
-<sup>5</sup> Per le corse su tratte a cremagliera, su tratte a scartamento ridotto, compresi i binari a rotaie multiple, nonché sulle tratte di cui all’allegato 3 si applicano direttamente i prezzi di cui al capoverso 3.[^1-7]
+<sup>5</sup> Per le corse su tratte a cremagliera, su tratte a scartamento ridotto, compresi i binari a rotaie multiple, nonché sulle tratte di cui all’allegato 3 si applicano direttamente i prezzi di cui al capoverso 3.[^1-5]
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
-[^1-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2021 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
-[^1-3]: Nuovo testo giusta la cifra I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2021 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
-[^1-4]: Introdotto dalla cifra I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2021 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 18 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
+[^1-3]: Introdotto dalla cifra I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2021 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O dell’UFT del 18 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 [^1-5]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
-[^1-6]: Nuovo testo giusta la cifra I dell’O dell’UFT del 10 giu. 2024, in vigore dal 1° gen. 2025 ([RU 2024 317](https://fedlex.data.admin.ch/eli/oc/2024/317)).
-[^1-7]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 
 #### Art. 2
 
@@ -114,9 +113,30 @@ Per corse effettuate su tratte a scartamento normale il prezzo di base in funzio
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^3-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 15 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
-[^3-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^3-3]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 [^3-4]: Nuovo testo giusta la cifra I dell’O dell’UFT del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
 [^3-5]: Abrogato dalla cifra I dell’O dell’UFT del 20 dic. 2024, con effetto dal 1° feb. 2025 ([RU 2025 47](https://fedlex.data.admin.ch/eli/oc/2025/47)).
+
+#### Art. 3a
+
+**Prezzi per prestazioni di manovra nel traffico merci**[^3a-1]
+
+### (art. 9*c* cpv. 3<sup>bis</sup> Lferr)
+
+I prezzi per le seguenti prestazioni supplementari di manovra nel traffico merci sono i seguenti:
+
+- a. disposizione di percorsi di manovra, 4.85 fr.;
+- b.
+
+  manovre in stazioni di smistamento:
+
+  - 1\. 5 fr. per vagone in entrata,
+  - 2\. 5 fr. per vagone in uscita,
+  - 3\. 100 fr. per gruppo di formazione a partire dal secondo gruppo,
+  - 4\. 9.50 fr. a titolo di supplemento per vagone con limitazione di trasporto,
+  - 5\. 70 fr. a titolo di supplemento per manovre speciali.
+
+[^3a-1]: Introdotto dalla cifra I dell’O dell’UFT del 18 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 
 #### Art. 4
 
@@ -134,7 +154,9 @@ Per corse effettuate su tratte a scartamento normale il prezzo di base in funzio
 
 **Manovre in stazioni di smistamento**[^5-1]
 
-### (art. 22 cpv. 1 lett. g OARF)
+### (art. 9*c* cpv. 3<sup>bis</sup> Lferr)
+
+[^5-2]
 
 Nelle seguenti stazioni di smistamento le prestazioni supplementari di smistamento si effettuano 24 ore su 24:
 
@@ -145,18 +167,23 @@ Nelle seguenti stazioni di smistamento le prestazioni supplementari di smistamen
 - e. stazione di smistamento RB Limmattal.
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 7 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O dell’UFT del 18 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 
 #### Art. 6
 
-**Accessibilità di una tratta al di fuori dell’orario di servizio abituale**
+**Liberazione di una tratta al di fuori delle ore di esercizio abituali**
 
-### (art. 22 cpv. 1 lett. h OARF)
+### (art. 22 cpv. 2 lett. d OARF)
+
+[^6-1]
 
 <sup>1</sup> Per orario di servizio abituale su una data tratta si intende il periodo compreso tra il primo e l’ultimo treno passeggeri riportato nell’orario ufficiale.
 
 <sup>2</sup> Da lunedì a venerdì le tratte adatte al traffico merci devono essere accessibili dalle 4.00.
 
 <sup>3</sup> In linea di principio, sulle tratte di cui all’allegato 4 il servizio viene effettuato 24 ore su 24.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O dell’UFT del 18 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 870](https://fedlex.data.admin.ch/eli/oc/2025/870)).
 
 #### Art. 7
 
@@ -300,7 +327,7 @@ In caso di limitazioni della capacità le imprese di trasporto ferroviario si as
 <sup>2</sup> Il termine di cui al capoverso 1 è prorogato fino al 31 dicembre 2024.[^12b-3]
 
 [^12b-1]: Introdotto dalla cifra I dell’O dell’UFT del 15 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
-[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^12b-3]: Introdotto dalla cifra I dell’O dell’UFT del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 718](https://fedlex.data.admin.ch/eli/oc/2023/718)).
 
 #### Art. 12c
@@ -514,7 +541,7 @@ Allegato 1[^t-2]
 <tr><td>511 Triengen-Winikon – Sursee</td><td>311 Interlaken Ost – Lauterbrunnen</td></tr>
 <tr><td>514 Zofingen – Suhr – Lenzburg</td><td>312 Zweilütschinen – Grindelwald</td></tr>
 <tr><td>602 Vitznau – Rigi Kulm</td><td>313 Grütschalp – Mürren</td></tr>
-<tr><td>[tab] 603</td><td>[tab]</td></tr>
+<tr><td>[tab] 603</td><td></td></tr>
 <tr><td>604 Rigi Staffel – Arth-Goldau</td><td>315 Lauterbrunnen – Wengen</td></tr>
 <tr><td>631 Cadenazzo Ovest – frontiera (– Luino)</td><td>413 Solothurn – Niederbipp – Oensingen</td></tr>
 <tr><td>645 (Lenzburg –) Gruemet – Wettingen</td><td>414 Niederbipp – Langenthal – St. Urban Ziegelei</td></tr>
