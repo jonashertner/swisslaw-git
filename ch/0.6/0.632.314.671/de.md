@@ -3,11 +3,11 @@ sr: "0.632.314.671"
 title: "Freihandelsabkommen vom 21. Juni 2001 zwischen den EFTA-Staaten und dem Haschemitischen Königreich Jordanien (mit Verständigungsprotokoll, Prot. und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/569"
 language: de
-version: 2013-10-01
+version: 2026-02-01
 adopted: 2001-06-21
 in_force: 2002-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/569/20131001/de/xml/fedlex-data-admin-ch-eli-cc-2003-569-20131001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/569/20131001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/569/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2003-569-20260201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/569/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,16 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/569/20131001/de"
 
 AS **2003** 3893; BBl **2002** 1298
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Vaduz am 21. Juni 2001 Von der Bundesversammlung genehmigt am 14. März 2002[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 6. Juni 2002 In Kraft getreten für die Schweiz am 1. September 2002
+Abgeschlossen in Vaduz am 21. Juni 2001 Von der Bundesversammlung genehmigt am 14. März 2002[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 6. Juni 2002 In Kraft getreten für die Schweiz am 1. September 2002
 
-(Stand am 1. Oktober 2013)
+(Stand am 1. Februar 2026)
 
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 14. März 2002 ([AS 2003 3891](https://fedlex.data.admin.ch/eli/oc/2003/568))
+[^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 14. März 2002 ([AS 2003 3891](https://fedlex.data.admin.ch/eli/oc/2003/568))
 
-Präambel
+*Präambel*
 
 Die Republik Island, das Fürstentum Liechtenstein, das Königreich Norwegen und die Schweizerische Eidgenossenschaft (im Folgenden EFTA-Staaten genannt)
 
@@ -59,7 +58,7 @@ und in der Überzeugung, dass dieses Abkommen durch die Schaffung der Voraussetz
 
 haben zur Erreichung dieser Ziele folgendes Abkommen (im Folgenden Abkommen genannt) abgeschlossen:
 
-[^ingress-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1
 
@@ -67,7 +66,9 @@ haben zur Erreichung dieser Ziele folgendes Abkommen (im Folgenden Abkommen gena
 
 <sup>1.</sup> Die EFTA-Staaten und Jordanien errichten eine Freihandelszone im Einklang mit den Bestimmungen dieses Abkommens.
 
-<sup>2.</sup> Die Ziele dieses Abkommens, das auf den Handelsbeziehungen zwischen marktwirtschaftlich orientierten Ländern sowie auf der Achtung der demokratischen Grundsätze und der Menschenrechte fusst, liegen
+<sup>2.</sup>
+
+Die Ziele dieses Abkommens, das auf den Handelsbeziehungen zwischen marktwirtschaftlich orientierten Ländern sowie auf der Achtung der demokratischen Grundsätze und der Menschenrechte fusst, liegen:
 
 - (a) in der Förderung harmonischer Wirtschaftsbeziehungen zwischen den EFTA-Staaten und Jordanien durch die Ausweitung des gegenseitigen Handels, um dadurch in den EFTA-Staaten und Jordanien den wirtschaftlichen Aufschwung, die Verbesserung der Lebens- und Arbeitsbedingungen, die Produktivitätssteigerung sowie die finanzielle Stabilität zu begünstigen;
 - (b) in der Sicherstellung gerechter Wettbewerbsbedingungen im Handel zwischen den Parteien;
@@ -86,7 +87,7 @@ Dieses Abkommen gilt:
 - (b) für die in Protokoll A angegebenen Produkte, unter Berücksichtigung der darin geltenden Vereinbarungen;
 - (c) für Fische und andere Meeresprodukte, wie im Anhang II bestimmt;
 
-[^2-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^2-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 3
 
@@ -206,7 +207,7 @@ Vorbehaltlich der im Protokoll C vorgesehenen Ausnahmen und unter Berücksichtig
 
 <sup>3.</sup> Die betroffenen Parteien bemühen sich um einen Beitritt zum WTO-Übereinkommen über das öffentliche Beschaffungswesen[^16-1].
 
-[^16-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^16-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 #### Art. 17
 
@@ -220,7 +221,7 @@ Vorbehaltlich der im Protokoll C vorgesehenen Ausnahmen und unter Berücksichtig
 
 <sup>4.</sup> Die Parteien vereinbaren, auf Antrag einer jeden Partei, die in diesem Artikel und im Anhang VI enthaltenen Bestimmungen über den Schutz des geistigen Eigentums zu überprüfen mit dem Ziel, das Schutzniveau zu verbessern und Handelsverzerrungen, die sich aus dem gegenwärtigen Umfang des Schutzes des geistigen Eigentums ergeben, zu vermeiden oder zu beseitigen.
 
-[^17-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1.C
+[^17-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1C
 
 #### Art. 18
 
@@ -251,7 +252,7 @@ Mit dem guten Funktionieren dieses Abkommens sind unvereinbar, soweit sie geeign
 
 <sup>3.</sup> Bevor ein EFTA-Staat oder Jordanien, je nach Fall, eine Untersuchung einleitet mit dem Ziel, das Vorliegen, die Höhe und die Auswirkungen einer angeblichen Subvention in Jordanien oder in einem EFTA-Staat entsprechend den Bestimmungen in Artikel 11 des Übereinkommens über Subventionen und Ausgleichsmassnahmen zu ermitteln, muss die Partei, welche eine Untersuchung einleiten will, diejenige Partei, deren Waren untersucht werden sollen, schriftlich benachrichtigen und ihr eine Frist von 45 Tagen gewähren, um eine beiderseits annehmbare Lösung zu finden. Die Konsultationen finden im Gemischten Ausschuss statt, falls eine der Parteien dies innerhalb von zwanzig Tagen nach Empfang der Notifikation verlangt.
 
-[^19-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.13
+[^19-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.13
 
 #### Art. 20
 
@@ -259,15 +260,15 @@ Mit dem guten Funktionieren dieses Abkommens sind unvereinbar, soweit sie geeign
 
 Stellt ein EFTA-Staat im Handel mit Jordanien Dumping-Praktiken im Sinne von Artikel VI des GATT 1994 fest oder stellt Jordanien entsprechende Dumping-Praktiken im Handel mit einem EFTA-Staat fest, kann die betroffene Partei im Einklang mit dem WTO-Übereinkommen zur Durchführung des Artikels VI des GATT 1994[^20-1] und dem Verfahren nach Artikel 25 geeignete Massnahmen gegen diese Praktiken treffen.
 
-[^20-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.8
+[^20-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.8
 
 #### Art. 21
 
 **Dringlichkeitsmassnahmen für Einfuhren bestimmter Erzeugnisse**
 
-Nimmt die Erhöhung der Einfuhren eines Erzeugnisses ein derartiges Ausmass an und erfolgen diese erhöhten Einfuhren zu Bedingungen, welche
-
 kann die betroffene Partei gemäss den in Artikel 25 festgelegten Bedingungen und Verfahrensvorschriften geeignete Massnahmen treffen.
+
+Nimmt die Erhöhung der Einfuhren eines Erzeugnisses ein derartiges Ausmass an und erfolgen diese erhöhten Einfuhren zu Bedingungen, welche:
 
 - (a) die einheimischen Produzenten gleichartiger oder mit diesen in direktem Wettbewerb stehender Erzeugnisse im gesamten oder in einem Teil des Gebiets einer Partei schwer wiegend schädigen oder zu schädigen drohen oder
 - (b) ernste Störungen in einem Wirtschaftszweig bewirken oder zu bewirken drohen,
@@ -309,7 +310,7 @@ Wenn auf Grund der Artikel 8 und 9:
 
 <sup>2.</sup> Befindet sich eine Partei in ernsthaften Zahlungsbilanzschwierigkeiten oder ist sie unmittelbar davon bedroht, so kann sie im Einklang mit den im GATT 1994 und in der Vereinbarung über Zahlungsbilanzbestimmungen des GATT 1994[^24-1] festgelegten Bedingungen zeitlich begrenzte und nicht diskriminierende Handelsbeschränkungen einführen, die nicht über das für die Sanierung der Zahlungsbilanzsituation erforderliche Mass hinausgehen. Preisbezogene Massnahmen sind dabei vorzuziehen; diese sind bei Verbesserung der Zahlungsbilanz schrittweise zu lockern und aufzuheben, wenn die Umstände ihre Aufrechterhaltung nicht mehr rechtfertigen. Der EFTA-Staat oder Jordanien, je nach Fall, unterrichtet die anderen Parteien und den Gemischten Ausschuss unverzüglich über solche Massnahmen, wenn möglich vor deren Einführung, und legt einen Zeitplan für deren Aufhebung vor. Auf Gesuch einer Partei prüft der Gemischte Ausschuss die Notwendigkeit der Beibehaltung der getroffenen Massnahmen.
 
-[^24-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.1c
+[^24-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.1c
 
 #### Art. 25
 
@@ -490,7 +491,7 @@ Verständigungsprotokoll
 
 \2. Gemäss EWR-Abkommen erfüllen die EFTA-Staaten in ihrer Gesetzgebung die materiellen Bestimmungen des Europäischen Patentübereinkommens vom 5. Oktober 1973[^annexu1-lvlu2-1]. Island und Norwegen gehen davon aus, dass die Pflichten gemäss Artikel 17 (Schutz des geistigen Eigentums) sich in der Substanz nicht von den Pflichten gemäss EWR-Vertrag unterscheiden.
 
-[^annexu1-lvlu2-1]: [SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
+[^annexu1-lvlu2-1]: [SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 
 ## **Zu Protokoll B**
 
@@ -502,11 +503,11 @@ Verständigungsprotokoll
 
 (Es folgen die Unterschriften)
 
-## Liste der Anhänge****
+## Liste der Anhänge
 
 [^annexu1-lvlu2-2]
 
-[^annexu1-lvlu2-2]: Diese Dokumente (teilweise publiziert in [AS 2003 3893](https://fedlex.data.admin.ch/eli/oc/2003/569)) werden (mit Ausnahme des Verständigungsprotokolls) weder in der AS noch der SR veröffentlicht (siehe [AS 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2013 2715](https://fedlex.data.admin.ch/eli/oc/2013/556)[2717](https://fedlex.data.admin.ch/eli/oc/2013/557)[2829](https://fedlex.data.admin.ch/eli/oc/2013/583)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int/free-trade/free-trade-agreements/jordan/jcds.aspx
+[^annexu1-lvlu2-2]: Diese Dokumente (teilweise publiziert in [AS 2003 3893](https://fedlex.data.admin.ch/eli/oc/2003/569)) werden (mit Ausnahme des Verständigungsprotokolls) weder in der AS noch der SR veröffentlicht (siehe [AS 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771); [2013 2715](https://fedlex.data.admin.ch/eli/oc/2013/556), [2717](https://fedlex.data.admin.ch/eli/oc/2013/557), [2829](https://fedlex.data.admin.ch/eli/oc/2013/583); [2025 849](https://fedlex.data.admin.ch/eli/oc/2025/849)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: [www.efta.int/free-trade/free-trade-agreements/jordan/](http://www.efta.int/free-trade/free-trade-agreements/jordan/).
 
 <table>
 <tr><td></td><td>**Record of understanding – Verständigungsprotokoll**</td></tr>
@@ -536,8 +537,9 @@ Verständigungsprotokoll
 <tr><td></td><td>Annex V to Protocol B – Participating countries or territories</td></tr>
 <tr><td>**Protocol C**</td><td>Monopolies not adjusted in accordance with article 11</td></tr>
 <tr><td>**Protocol D**</td><td>Referred to in Article 35 – Territorial application</td></tr>
-<tr><td>***Joint Commi******t******tee Decisions***</td><td></td></tr>
-<tr><td>No 3-12</td><td>Amendements to Protocol B</td></tr>
+<tr><td>***Joint Committee Decisions***</td><td></td></tr>
+<tr><td>No 1-25</td><td>Amendment to Protocol B</td></tr>
+<tr><td>No 3-12</td><td>Amendment to Protocol B</td></tr>
 <tr><td>No 2-12</td><td>Amending Annex III</td></tr>
 <tr><td>No 1-12</td><td>Amending Annex II</td></tr>
 <tr><td>No 1-06</td><td>Amendments to Protocol B</td></tr>
@@ -547,7 +549,7 @@ Verständigungsprotokoll
 <tr><td>No 1-04</td><td>Rules of procedure Joint Committee</td></tr>
 </table>
 
-### Geltungsbereich am 26. August 2003
+Geltungsbereich am 26. August 2003
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>

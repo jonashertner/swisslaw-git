@@ -3,25 +3,26 @@ sr: "0.632.314.671"
 title: "Accordo di libero scambio del 21 giugno 2001 tra gli Stati dell'AELS e il Regno ascemita di Giordania (con prot., prot. d'intesa e all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/569"
 language: it
-version: 2013-10-01
+version: 2026-02-01
 adopted: 2001-06-21
 in_force: 2002-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/569/20131001/it/xml/fedlex-data-admin-ch-eli-cc-2003-569-20131001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/569/20131001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/569/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2003-569-20260201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/569/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo di libero scambio tra gli Stati dell’AELS e il Regno ascemita di Giordania
 
-Traduzione*[^t-1]*
+RU **2003** 3893; FF **2002** 1173
 
-Concluso a Vaduz il 21 giugno 2001 Approvato dall’Assemblea federale il 14 marzo 2002[^t-2] Ratificato con strumenti depositati dalla Svizzera il 6 giugno 2002 Entrato in vigore per la Svizzera il 1° settembre 2002
+Traduzione
 
-(Stato 1° ottobre 2013)
+Concluso a Vaduz il 21 giugno 2001 Approvato dall’Assemblea federale il 14 marzo 2002[^t-1] Ratificato con strumenti depositati dalla Svizzera il 6 giugno 2002 Entrato in vigore per la Svizzera il 1° settembre 2002
 
-[^t-1]: RU **2003** 3893; FF **2002** 1173 Traduzione dal testo originale inglese.
-[^t-2]: Art 1. cpv. 1 lett. a del DF 14 mar. 2002 ([RU 2003 3891](https://fedlex.data.admin.ch/eli/oc/2003/568)).
+(Stato 1° febbraio 2026)
+
+[^t-1]: Art. 1 cpv. 1 lett. a del DF 14 mar. 2002 ([RU 2003 3891](https://fedlex.data.admin.ch/eli/oc/2003/568)).
 
 Preambolo
 
@@ -57,7 +58,7 @@ e nella convinzione che il presente Accordo promuoverà le relazioni bilaterali 
 
 hanno deciso, per raggiungere tali obiettivi, di stipulare il seguente Accordo (qui di seguito designato Accordo):
 
-[^ingress-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1
 
@@ -86,7 +87,7 @@ Il presente Accordo si applica:
 - (b) ai prodotti che figurano nel Protocollo A, considerati gli accordi previsti in tale Protocollo;
 - (c) al pesce e agli altri prodotti del mare, come è disciplinato nell’Allegato II,
 
-[^2-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^2-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 3
 
@@ -102,17 +103,17 @@ Il presente Accordo si applica:
 
 <sup>1.</sup> Il Protocollo B stabilisce le regole d’origine e i metodi di cooperazione amministrativa.
 
-\2. Le Parti adottano i provvedimenti adeguati, fra cui controlli periodici da parte del Comitato misto nonché misure in materia di cooperazione amministrativa, atti a garantire l’applicazione effettiva e coordinata degli articoli 5, 7, 8, 9, 14 e 23 del presente Accordo nonché del Protocollo B, a ridurre per quanto possibile le formalità che ostacolano gli scambi e al fine di trovare soluzioni mutuamente soddisfacenti a tutte le difficoltà insite nell’applicazione di questi disposti.
+<sup>2.</sup> Le Parti adottano i provvedimenti adeguati, fra cui controlli periodici da parte del Comitato misto nonché misure in materia di cooperazione amministrativa, atti a garantire l’applicazione effettiva e coordinata degli articoli 5, 7, 8, 9, 14 e 23 del presente Accordo nonché del Protocollo B, a ridurre per quanto possibile le formalità che ostacolano gli scambi e al fine di trovare soluzioni mutuamente soddisfacenti a tutte le difficoltà insite nell’applicazione di questi disposti.
 
-\3. Sulla base dei controlli menzionati nel paragrafo 2, le Parti decidono riguardo alle misure opportune da adottare.
+<sup>3.</sup> Sulla base dei controlli menzionati nel paragrafo 2, le Parti decidono riguardo alle misure opportune da adottare.
 
 #### Art. 5
 
 **Dazi d’importazione e gravami con effetto equivalente**
 
-\1. Negli scambi commerciali tra gli Stati dell’AELS e la Giordania non sarà introdotto alcun nuovo dazio di importazione né alcun gravame con effetto equivalente.
+<sup>1.</sup> Negli scambi commerciali tra gli Stati dell’AELS e la Giordania non sarà introdotto alcun nuovo dazio di importazione né alcun gravame con effetto equivalente.
 
-\2. Al momento dell’entrata in vigore del presente Accordo le Parti aboliscono, per i prodotti in provenienza da uno Stato dell’AELS o dalla Giordania, tutti i dazi di importazione e tutti i gravami con effetto equivalente, fatte salve le disposizioni contenute nell’Allegato III.
+<sup>2.</sup> Al momento dell’entrata in vigore del presente Accordo le Parti aboliscono, per i prodotti in provenienza da uno Stato dell’AELS o dalla Giordania, tutti i dazi di importazione e tutti i gravami con effetto equivalente, fatte salve le disposizioni contenute nell’Allegato III.
 
 #### Art. 6
 
@@ -156,108 +157,116 @@ Il presente Accordo non si oppone a divieti o restrizioni d’importazione, d’
 
 **Monopoli di Stato**
 
-Fatte salve le eccezioni enunciate nel Protocollo C e tenendo conto degli obblighi attuali e futuri nel quadro dell’Accordo generale sulle tariffe doganali e il commercio del 1994 (qui di seguito: GATT 1994), gli Stati dell’AELS e la Giordania operano affinché i monopoli di Stato a carattere commerciale siano gradualmente adeguati, in modo da assicurare, entro cinque anni dall’entrata in vigore del presente Accordo, ogni forma di discriminazione tra i cittadini degli Stati dell’AELS e della Giordania per quanto riguarda le condizioni d’approvvigionamento e di commercializzazione dei prodotti. Il Comitato misto è informato sui provvedimenti adottati per realizzare questo obiettivo.
+Fatte salve le eccezioni enunciate nel Protocollo C e tenendo conto degli obblighi attuali e futuri nel quadro dell’Accordo generale sulle tariffe doganali e il commercio del 1994[^11-1] (qui di seguito: GATT 1994), gli Stati dell’AELS e la Giordania operano affinché i monopoli di Stato a carattere commerciale siano gradualmente adeguati, in modo da assicurare, entro cinque anni dall’entrata in vigore del presente Accordo, ogni forma di discriminazione tra i cittadini degli Stati dell’AELS e della Giordania per quanto riguarda le condizioni d’approvvigionamento e di commercializzazione dei prodotti. Il Comitato misto è informato sui provvedimenti adottati per realizzare questo obiettivo.
+
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allagato 1A.1
 
 #### Art. 12
 
 **Regolamenti tecnici**
 
-\1. Le Parti cooperano in materia di regolamenti tecnici, norme e valutazione di conformità; essi favoriscono in particolare, mediante provvedimenti adeguati, l’impiego di soluzioni adottate su scala internazionale. Il Comitato misto stabilisce le linee di condotta per l’applicazione del presente paragrafo.
+<sup>1.</sup> Le Parti cooperano in materia di regolamenti tecnici, norme e valutazione di conformità; essi favoriscono in particolare, mediante provvedimenti adeguati, l’impiego di soluzioni adottate su scala internazionale. Il Comitato misto stabilisce le linee di condotta per l’applicazione del presente paragrafo.
 
-\2. Le Parti convengono di organizzare consultazioni immediate in seno al Comitato misto se una delle Parti ritiene che l’altra abbia adottato provvedimenti che potrebbero creare, o che hanno già creato, ostacoli tecnici al commercio ai sensi dell’Accordo OMC sugli ostacoli tecnici agli scambi, al fine di trovare una soluzione appropriata.
+<sup>2.</sup> Le Parti convengono di organizzare consultazioni immediate in seno al Comitato misto se una delle Parti ritiene che l’altra abbia adottato provvedimenti che potrebbero creare, o che hanno già creato, ostacoli tecnici al commercio ai sensi dell’Accordo OMC sugli ostacoli tecnici agli scambi, al fine di trovare una soluzione appropriata.
 
-\3. L’obbligo delle Parti di notificare i propri regolamenti tecnici è disciplinato dall’Accordo dell’OMC sugli ostacoli tecnici agli scambi.
+<sup>3.</sup> L’obbligo delle Parti di notificare i propri regolamenti tecnici è disciplinato dall’Accordo dell’OMC sugli ostacoli tecnici agli scambi.
 
 #### Art. 13
 
 **Scambio di prodotti agricoli**
 
-\1. Le Parti si dichiarano pronte a favorire, nel rispetto delle proprie politiche agricole, lo sviluppo armonico degli scambi di prodotti agricoli.
+<sup>1.</sup> Le Parti si dichiarano pronte a favorire, nel rispetto delle proprie politiche agricole, lo sviluppo armonico degli scambi di prodotti agricoli.
 
-\2. A tale scopo, ciascuno Stato dell’AELS e la Giordania hanno stipulato un accordo bilaterale che prevede adeguati provvedimenti atti a facilitare gli scambi di prodotti agricoli.
+<sup>2.</sup> A tale scopo, ciascuno Stato dell’AELS e la Giordania hanno stipulato un accordo bilaterale che prevede adeguati provvedimenti atti a facilitare gli scambi di prodotti agricoli.
 
-\3. Nei settori sanitario e fitosanitario, le Parti applicano la propria normativa in modo non discriminatorio e si astengono dall’introdurre nuovi provvedimenti che possano ostacolare inopportunamente gli scambi.
+<sup>3.</sup> Nei settori sanitario e fitosanitario, le Parti applicano la propria normativa in modo non discriminatorio e si astengono dall’introdurre nuovi provvedimenti che possano ostacolare inopportunamente gli scambi.
 
 #### Art. 14
 
 **Dazi e regolamenti interni**
 
-\1. Le Parti si impegnano ad applicare qualsiasi dazio interno, provvedimento o pratica fiscale conformemente all’articolo III del GATT 1994 e agli altri accordi pertinenti dell’OMC.
+<sup>1.</sup> Le Parti si impegnano ad applicare qualsiasi dazio interno, provvedimento o pratica fiscale conformemente all’articolo III del GATT 1994[^14-1] e agli altri accordi pertinenti dell’OMC.
 
-\2. Per i prodotti esportati nel territorio di una Parte, gli esportatori non possono beneficiare di alcun rimborso dei dazi interni superiore all’importo del dazio diretto o indiretto che ha gravato tali prodotti.
+<sup>2.</sup> Per i prodotti esportati nel territorio di una Parte, gli esportatori non possono beneficiare di alcun rimborso dei dazi interni superiore all’importo del dazio diretto o indiretto che ha gravato tali prodotti.
+
+[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
 
 #### Art. 15
 
 **Pagamenti e trasferimenti**
 
-\1. I pagamenti relativi agli scambi di merci tra uno Stato dell’AELS e la Giordania, nonché il trasferimento di tali importi verso il territorio della Parte nel quale risiede il creditore non sono soggetti a restrizione alcuna.
+<sup>1.</sup> I pagamenti relativi agli scambi di merci tra uno Stato dell’AELS e la Giordania, nonché il trasferimento di tali importi verso il territorio della Parte nel quale risiede il creditore non sono soggetti a restrizione alcuna.
 
-\2. Le Parti evitano di introdurre qualsiasi restrizione cambiaria o amministrativa concernente la concessione, il rimborso o l’accettazione di crediti a corto o medio termine relativi a transazioni commerciali cui partecipa un residente.
+<sup>2.</sup> Le Parti evitano di introdurre qualsiasi restrizione cambiaria o amministrativa concernente la concessione, il rimborso o l’accettazione di crediti a corto o medio termine relativi a transazioni commerciali cui partecipa un residente.
 
-\3. Non è applicato alcun provvedimento restrittivo ai trasferimenti relativi agli investimenti e in particolare al rimpatrio di somme investite o reinvestite e ai redditi da queste derivanti.
+<sup>3.</sup> Non è applicato alcun provvedimento restrittivo ai trasferimenti relativi agli investimenti e in particolare al rimpatrio di somme investite o reinvestite e ai redditi da queste derivanti.
 
 #### Art. 16
 
 **Appalti pubblici**
 
-\1. Le Parti considerano l’obiettivo di una liberalizzazione effettiva dei loro appalti pubblici secondo i principi della non discriminazione e della reciprocità come parte integrante del presente Accordo.
+<sup>1.</sup> Le Parti considerano l’obiettivo di una liberalizzazione effettiva dei loro appalti pubblici secondo i principi della non discriminazione e della reciprocità come parte integrante del presente Accordo.
 
-\2. A tale scopo, le Parti elaborano regole in seno al Comitato misto in vista di realizzare tale liberalizzazione. Si tiene adeguatamente conto degli sviluppi nel quadro dell’OMC.
+<sup>2.</sup> A tale scopo, le Parti elaborano regole in seno al Comitato misto in vista di realizzare tale liberalizzazione. Si tiene adeguatamente conto degli sviluppi nel quadro dell’OMC.
 
-\3. Le Parti interessate si adoperano per aderire all’Accordo dell’OMC sugli appalti pubblici[^16-1].
+<sup>3.</sup> Le Parti interessate si adoperano per aderire all’Accordo dell’OMC sugli appalti pubblici[^16-1].
 
-[^16-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^16-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 #### Art. 17
 
 **Protezione della proprietà intellettuale**
 
-\1. Le Parti accordano e assicurano una protezione adeguata, effettiva e non discriminatoria dei diritti relativi alla proprietà intellettuale e adottano provvedimenti atti a tutelare tali diritti da infrazioni, contraffazione e pirateria, conformemente alle disposizioni del presente articolo, dell’Allegato VI del presente Accordo e degli accordi internazionali da questi menzionati.
+<sup>1.</sup> Le Parti accordano e assicurano una protezione adeguata, effettiva e non discriminatoria dei diritti relativi alla proprietà intellettuale e adottano provvedimenti atti a tutelare tali diritti da infrazioni, contraffazione e pirateria, conformemente alle disposizioni del presente articolo, dell’Allegato VI del presente Accordo e degli accordi internazionali da questi menzionati.
 
-\2. Le Parti accordano ai cittadini delle altre Parti un trattamento non meno favorevole di quello riservato ai propri cittadini. Le deroghe a tale obbligo devono essere conformi alle disposizioni materiali dell’articolo 3 dell’Accordo dell’OMC sugli aspetti dei diritti di proprietà intellettuale attinenti al commercio[^17-1] (qui di seguito: ADPIC).
+<sup>2.</sup> Le Parti accordano ai cittadini delle altre Parti un trattamento non meno favorevole di quello riservato ai propri cittadini. Le deroghe a tale obbligo devono essere conformi alle disposizioni materiali dell’articolo 3 dell’Accordo dell’OMC sugli aspetti dei diritti di proprietà intellettuale attinenti al commercio[^17-1] (qui di seguito: ADPIC).
 
-\3. Le Parti accordano ai cittadini delle altre Parti un trattamento non meno favorevole di quello riservato ai cittadini di qualsiasi altro Stato. Conformemente all’articolo 4 lettera d dell’Accordo sugli ADPIC, tutti i vantaggi, benefici, privilegi o immunità derivanti da accordi internazionali entrati in vigore prima del presente Accordo e notificati alle altre Parti al più tardi sei mesi prima dell’entrata in vigore del presente Accordo sono esenti da tale obbligo, purché non ne risulti una discriminazione arbitraria o ingiustificata contro i cittadini delle altre Parti. Le Parti sono esonerate dall’obbligo di notifica alle altre Parti se hanno già provveduto alla notifica al Consiglio degli ADPIC. Le esenzioni da tale obbligo devono essere conformi alle disposizioni materiali dell’Accordo sugli ADPIC, in particolare agli articoli 4 e 5.
+<sup>3.</sup> Le Parti accordano ai cittadini delle altre Parti un trattamento non meno favorevole di quello riservato ai cittadini di qualsiasi altro Stato. Conformemente all’articolo 4 lettera d dell’Accordo sugli ADPIC, tutti i vantaggi, benefici, privilegi o immunità derivanti da accordi internazionali entrati in vigore prima del presente Accordo e notificati alle altre Parti al più tardi sei mesi prima dell’entrata in vigore del presente Accordo sono esenti da tale obbligo, purché non ne risulti una discriminazione arbitraria o ingiustificata contro i cittadini delle altre Parti. Le Parti sono esonerate dall’obbligo di notifica alle altre Parti se hanno già provveduto alla notifica al Consiglio degli ADPIC. Le esenzioni da tale obbligo devono essere conformi alle disposizioni materiali dell’Accordo sugli ADPIC, in particolare agli articoli 4 e 5.
 
-\4. Le Parti, su domanda di una di esse, convengono di modificare le disposizioni relative alla protezione dei diritti della proprietà intellettuale contenuti nel presente articolo e nell’Allegato VI, al fine di migliorare il livello di protezione e di evitare o correggere distorsioni commerciali, se queste dovessero risultare dal livello attuale di protezione dei diritti della proprietà intellettuale.
+<sup>4.</sup> Le Parti, su domanda di una di esse, convengono di modificare le disposizioni relative alla protezione dei diritti della proprietà intellettuale contenuti nel presente articolo e nell’Allegato VI, al fine di migliorare il livello di protezione e di evitare o correggere distorsioni commerciali, se queste dovessero risultare dal livello attuale di protezione dei diritti della proprietà intellettuale.
 
-[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117),Allegato 1.C
+[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235),Allegato 1C
 
 #### Art. 18
 
 **Regole di concorrenza tra aziende**
 
-\2. Le disposizioni del paragrafo 1 si applicano pure alle attività delle aziende pubbliche e delle aziende alle quali le Parti hanno concesso privilegi esclusivi o speciali, per quanto l’applicazione di tali disposizioni non ostacoli, *de iure* o *de facto* l’adempimento particolare di compiti ad esse impartiti.
+<sup>1.</sup>
 
-\3. Qualora una Parte ritenga, entro cinque anni dall’entrata in vigore del presente Accordo, che ai sensi dei paragrafi 1 e 2 del presente articolo una determinata pratica pregiudichi o minacci di pregiudicare i propri interessi o danneggi o minacci di danneggiare l’industria indigena, essa può adottare provvedimenti adeguati, secondo le condizioni e le procedure previste nell’articolo 25.
-
-\4. Tenuto conto della situazione economica della Giordania, il Comitato misto decide in merito a eventuali proroghe, ciascuna del periodo di cinque anni, del termine previsto nel paragrafo 3.
-
-\5. Qualora, nonostante il paragrafo 4, ritenga che una determinata pratica sia incompatibile con le disposizioni dei paragrafi 1 e 2 del presente articolo, allo scadere del termine stabilito nel paragrafo 3, una Parte può adottare provvedimenti adeguati, secondo le condizioni e le procedure previste nell’articolo 25.
-
-\1. Sono incompatibili con il buon funzionamento del presente Accordo in quanto suscettibili di ostacolare gli scambi tra uno Stato dell’AELS e la Giordania:
+Sono incompatibili con il buon funzionamento del presente Accordo in quanto suscettibili di ostacolare gli scambi tra uno Stato dell’AELS e la Giordania:
 
 - (a) gli accordi tra aziende, le decisioni d’associazione di aziende e le pratiche concertate tra aziende che mirano o riescono ad ostacolare, ridurre o falsare la libera concorrenza;
 - (b) lo sfruttamento abusivo, da parte di una o più aziende, di una posizione dominante sulla totalità o su una parte essenziale del territorio delle Parti.
+
+<sup>2.</sup> Le disposizioni del paragrafo 1 si applicano pure alle attività delle aziende pubbliche e delle aziende alle quali le Parti hanno concesso privilegi esclusivi o speciali, per quanto l’applicazione di tali disposizioni non ostacoli, *de iure* o *de facto* l’adempimento particolare di compiti ad esse impartiti.
+
+<sup>3.</sup> Qualora una Parte ritenga, entro cinque anni dall’entrata in vigore del presente Accordo, che ai sensi dei paragrafi 1 e 2 del presente articolo una determinata pratica pregiudichi o minacci di pregiudicare i propri interessi o danneggi o minacci di danneggiare l’industria indigena, essa può adottare provvedimenti adeguati, secondo le condizioni e le procedure previste nell’articolo 25.
+
+<sup>4.</sup> Tenuto conto della situazione economica della Giordania, il Comitato misto decide in merito a eventuali proroghe, ciascuna del periodo di cinque anni, del termine previsto nel paragrafo 3.
+
+<sup>5.</sup> Qualora, nonostante il paragrafo 4, ritenga che una determinata pratica sia incompatibile con le disposizioni dei paragrafi 1 e 2 del presente articolo, allo scadere del termine stabilito nel paragrafo 3, una Parte può adottare provvedimenti adeguati, secondo le condizioni e le procedure previste nell’articolo 25.
 
 #### Art. 19
 
 **Sovvenzioni**
 
-\1. I diritti e gli obblighi delle Parti relativi alle sovvenzioni e alle misure compensative sono retti dalle disposizioni dell’articolo XVI del GATT 1994 e dall’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative[^19-1], fatte salve le disposizioni specifiche del presente articolo.
+<sup>1.</sup> I diritti e gli obblighi delle Parti relativi alle sovvenzioni e alle misure compensative sono retti dalle disposizioni dell’articolo XVI del GATT 1994[^19-1] e dall’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative[^19-2], fatte salve le disposizioni specifiche del presente articolo.
 
-\2. Le Parti assicurano la trasparenza per quanto concerne i provvedimenti di sovvenzionamento mediante lo scambio delle loro notifiche annuali conformemente all’articolo XVI: 1 del GATT 1994 e dell’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative.
+<sup>2.</sup> Le Parti assicurano la trasparenza per quanto concerne i provvedimenti di sovvenzionamento mediante lo scambio delle loro notifiche annuali conformemente all’articolo XVI: 1 del GATT 1994 e dell’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative.
 
-\3. Prima di iniziare una procedura d’inchiesta per determinare l’esistenza, il grado e l’effetto di una presunta sovvenzione in Giordania o in uno Stato dell’AELS conformemente alle disposizioni dell’articolo 11 dell’Accordo sulle sovvenzioni e sulle misure compensative, la Parte che intende iniziare tale procedura lo notifica per scritto alla Parte dei prodotti in questione e attende sino alla scadenza di quarantacinque giorni, al fine di trovare una soluzione mutuamente accettabile. Le consultazioni si svolgono in seno al Comitato misto se una delle Parti ne fa domanda entro venti giorni dalla data di ricevimento della notifica.
+<sup>3.</sup> Prima di iniziare una procedura d’inchiesta per determinare l’esistenza, il grado e l’effetto di una presunta sovvenzione in Giordania o in uno Stato dell’AELS conformemente alle disposizioni dell’articolo 11 dell’Accordo sulle sovvenzioni e sulle misure compensative, la Parte che intende iniziare tale procedura lo notifica per scritto alla Parte dei prodotti in questione e attende sino alla scadenza di quarantacinque giorni, al fine di trovare una soluzione mutuamente accettabile. Le consultazioni si svolgono in seno al Comitato misto se una delle Parti ne fa domanda entro venti giorni dalla data di ricevimento della notifica.
 
-[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.13
+[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.13
 
 #### Art. 20
 
 **Dumping**
 
-Qualora uno Stato dell’AELS constati nelle sue relazioni commerciali con la Giordania pratiche di dumping ai sensi dell’articolo VI del GATT 1994, o qualora la Giordania constati tali pratiche nelle sue relazioni commerciali con uno Stato dell’AELS, la Parte in questione può adottare nei confronti di tali pratiche provvedimenti adeguati, conformemente all’Accordo dell’OMC relativo all’applicazione dell’articolo VI del GATT 1994[^20-1] e secondo le procedure previste nell’articolo 25.
+Qualora uno Stato dell’AELS constati nelle sue relazioni commerciali con la Giordania pratiche di dumping ai sensi dell’articolo VI del GATT 1994[^20-1], o qualora la Giordania constati tali pratiche nelle sue relazioni commerciali con uno Stato dell’AELS, la Parte in questione può adottare nei confronti di tali pratiche provvedimenti adeguati, conformemente all’Accordo dell’OMC relativo all’applicazione dell’articolo VI del GATT 1994[^20-2] e secondo le procedure previste nell’articolo 25.
 
-[^20-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.8
+[^20-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^20-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.8
 
 #### Art. 21
 
@@ -303,11 +312,12 @@ Qualora l’applicazione degli articoli 8 e 9 comporti:
 
 **Difficoltà nella bilancia dei pagamenti**
 
-\1. Le Parti si astengono dall’adottare provvedimenti restrittivi atti a far fronte alle proprie difficoltà in materia di bilancia dei pagamenti.
+<sup>1.</sup> Le Parti si astengono dall’adottare provvedimenti restrittivi atti a far fronte alle proprie difficoltà in materia di bilancia dei pagamenti.
 
-\2. La Parte che incontra o rischia di incontrare entro breve termine gravi difficoltà nella bilancia dei pagamenti può adottare, conformemente alle disposizioni previste dal GATT 1994 e dalla relativa Intesa sulle disposizioni relative alla bilancia dei pagamenti[^24-1], provvedimenti restrittivi per gli scambi, che abbiano una durata limitata, che non siano discriminatori e che non oltrepassino lo stretto necessario per far fronte ai problemi della bilancia dei pagamenti. Si darà la preferenza ai provvedimenti basati sui prezzi, che saranno resi progressivamente meno gravosi tenendo conto del miglioramento della bilancia dei pagamenti e saranno revocati non appena la situazione non ne giustifichi più il mantenimento. Lo Stato dell’AELS o la Giordania, a dipendenza del caso, informa senza indugio le altre Parti e il Comitato misto dei provvedimenti adottati – se possibile prima della loro introduzione – e comunica loro il più presto possibile il calendario della loro soppressione. Su domanda di una Parte, il Comitato misto esamina la necessità di mantenere i provvedimenti adottati.
+<sup>2.</sup> La Parte che incontra o rischia di incontrare entro breve termine gravi difficoltà nella bilancia dei pagamenti può adottare, conformemente alle disposizioni previste dal GATT 1994[^24-1] e dalla relativa Intesa sulle disposizioni relative alla bilancia dei pagamenti[^24-2], provvedimenti restrittivi per gli scambi, che abbiano una durata limitata, che non siano discriminatori e che non oltrepassino lo stretto necessario per far fronte ai problemi della bilancia dei pagamenti. Si darà la preferenza ai provvedimenti basati sui prezzi, che saranno resi progressivamente meno gravosi tenendo conto del miglioramento della bilancia dei pagamenti e saranno revocati non appena la situazione non ne giustifichi più il mantenimento. Lo Stato dell’AELS o la Giordania, a dipendenza del caso, informa senza indugio le altre Parti e il Comitato misto dei provvedimenti adottati – se possibile prima della loro introduzione – e comunica loro il più presto possibile il calendario della loro soppressione. Su domanda di una Parte, il Comitato misto esamina la necessità di mantenere i provvedimenti adottati.
 
-[^24-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.1c
+[^24-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^24-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1c
 
 #### Art. 25
 
@@ -318,7 +328,7 @@ Qualora l’applicazione degli articoli 8 e 9 comporti:
 <sup>2.</sup> Fatto salvo il paragrafo 6, una Parte che intenda adottare provvedimenti di salvaguardia lo comunica senza indugio alle altre Parti e al Comitato misto, unitamente a ogni informazione utile. Le consultazioni tra le Parti hanno luogo senza indugio in seno al Comitato misto, al fine di trovare una soluzione mutuamente accettabile.
 
 - 3\. (a) In riferimento all’articolo 18, le Parti implicate offrono al Comitato misto l’assistenza necessaria per esaminare la pratica e, eventualmente, per abolirla. Qualora la Parte interessata non ponga fine alla pratica contestata entro il termine fissato dal Comitato misto o qualora quest’ultimo non raggiunga un accordo al termine delle consultazioni o entro trenta giorni dal deposito della domanda delle consultazioni, la Parte implicata può adottare provvedimenti adeguati al fine di eliminare le difficoltà in questione.
-- (b) In riferimento all’articolo 20, la Parte esportatrice è informata sulla pratica di dumping non appena le autorità della Parte importatrice hanno avviato un’inchiesta. Qualora non si metta fine a detta pratica ai sensi dell’articolo VI del GATT 1994 o non si trovi una soluzione soddisfacente entro trenta giorni dalla notifica, la Parte importatrice può adottare provvedimenti adeguati.
+- (b) In riferimento all’articolo 20, la Parte esportatrice è informata sulla pratica di dumping non appena le autorità della Parte importatrice hanno avviato un’inchiesta. Qualora non si metta fine a detta pratica ai sensi dell’articolo VI del GATT 1994[^25-1] o non si trovi una soluzione soddisfacente entro trenta giorni dalla notifica, la Parte importatrice può adottare provvedimenti adeguati.
 - (c) In riferimento agli articoli 21 e 23, il Comitato misto esamina la pratica o la situazione e può prendere le decisioni necessarie per porre fine alle difficoltà notificategli dalla Parte implicata. In mancanza di tale decisione nei trenta giorni che seguono la notificazione del caso al Comitato misto, la Parte implicata può adottare i provvedimenti necessari per far fronte alla situazione.
 - (d) In riferimento all’articolo 32, la Parte in questione fornisce al Comitato misto tutte le informazioni pertinenti in vista di un esame approfondito della situazione, al fine di pervenire ad una soluzione mutuamente accettabile. Se il Comitato misto non perviene a detta soluzione e se sono trascorsi più di novanta giorni dalla data di notificazione del caso, la Parte in questione può adottare provvedimenti appropriati.
 
@@ -327,6 +337,8 @@ Qualora l’applicazione degli articoli 8 e 9 comporti:
 <sup>5.</sup> I provvedimenti di salvaguardia sono discussi periodicamente in seno al Comitato misto al fine di valutarne le possibilità d’alleviamento, di sostituzione o di soppressione non appena la situazione non ne giustifichi più il mantenimento.
 
 <sup>6.</sup> Qualora circostanze eccezionali per le quali si impone un intervento immediato escludano la possibilità di un esame preventivo, la Parte implicata può, nelle situazioni considerate negli articoli 20, 21 e 23, applicare immediatamente i provvedimenti conservativi e provvisori strettamente indispensabili per far fronte alla situazione. Tali provvedimenti sono notificati senza indugio e, non appena possibile, in seno al Comitato misto si svolgono consultazioni tra le Parti.
+
+[^25-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
 
 #### Art. 26
 
@@ -339,8 +351,8 @@ Nessuna disposizione del presente Accordo impedisce a una Parte di adottare i pr
 
   proteggere gli interessi essenziali della sua sicurezza, adempiere obblighi a livello internazionale o attuare politiche nazionali:
 
-  - (i) relativi al commercio d’armi, munizioni o materiale bellico, sempre che tali provvedimenti non arrechino pregiudizio alle condizioni di concorrenza fra prodotti non destinati ad usi specificamente militari, nonché al commercio di altre merci, materiali o servizi praticato direttamente o indirettamente per garantire l’approvvigionamento di uno stabilimento militare; o
-  - (ii) relativi alla non proliferazione di armi biologiche e chimiche, armamento nucleare o altri ordigni esplosivi atomici; o
+  - (i) relativi al commercio d’armi, munizioni o materiale bellico, sempre che tali provvedimenti non arrechino pregiudizio alle condizioni di concorrenza fra prodotti non destinati ad usi specificamente militari, nonché al commercio di altre merci, materiali o servizi praticato direttamente o indirettamente per garantire l’approvvigionamento di uno stabilimento militare, o
+  - (ii) relativi alla non proliferazione di armi biologiche e chimiche, armamento nucleare o altri ordigni esplosivi atomici, o
   - (iii) adottati in tempo di guerra o in caso di gravi tensioni internazionali.
 
 #### Art. 27
@@ -395,13 +407,13 @@ Nessuna disposizione del presente Accordo impedisce a una Parte di adottare i pr
 
 <sup>3.</sup> Le consultazioni si svolgono in seno al Comitato misto se una delle Parti ne fa domanda entro venti giorni dalla data di ricevimento della notificazione di cui al paragrafo 2 al fine di trovare una soluzione accettabile per tutti.
 
-\4. Qualora una controversia fra le Parti riguardo all’interpretazione dei propri diritti e obblighi non sia composta mediante consultazioni dirette o nel quadro del Comitato misto entro un termine di novanta giorni dal ricevimento della domanda di consultazioni, una o più Parti alla controversia possono ricorrere all’arbitrato indirizzando una notificazione scritta all’altra Parte. Una copia di tale notifica è fatta pervenire a tutte le Parti al presente Accordo.
+<sup>4.</sup> Qualora una controversia fra le Parti riguardo all’interpretazione dei propri diritti e obblighi non sia composta mediante consultazioni dirette o nel quadro del Comitato misto entro un termine di novanta giorni dal ricevimento della domanda di consultazioni, una o più Parti alla controversia possono ricorrere all’arbitrato indirizzando una notificazione scritta all’altra Parte. Una copia di tale notifica è fatta pervenire a tutte le Parti al presente Accordo.
 
-\5. La costituzione e il funzionamento del tribunale arbitrale sono disciplinati nell’Allegato VII.
+<sup>5.</sup> La costituzione e il funzionamento del tribunale arbitrale sono disciplinati nell’Allegato VII.
 
-\6. Il tribunale arbitrale compone la controversia secondo le disposizioni del presente Accordo e conformemente alle regole consuetudinarie d’interpretazione e di applicazione del diritto internazionale pubblico.
+<sup>6.</sup> Il tribunale arbitrale compone la controversia secondo le disposizioni del presente Accordo e conformemente alle regole consuetudinarie d’interpretazione e di applicazione del diritto internazionale pubblico.
 
-\7. La sentenza del tribunale arbitrale è definitiva e obbligatoria per le Parti alla controversia.
+<sup>7.</sup> La sentenza del tribunale arbitrale è definitiva e obbligatoria per le Parti alla controversia.
 
 #### Art. 32
 
@@ -457,7 +469,7 @@ Il presente Accordo non ostacola il mantenimento o l’istituzione di unioni dog
 
 **Ritiro e scadenza**
 
-\1. Qualsiasi Parte può ritirarsi dal presente Accordo mediante notificazione scritta al Governo depositario. Il ritiro ha effetto sei mesi dopo il ricevimento della notificazione da parte del Governo depositario.
+<sup>1.</sup> Qualsiasi Parte può ritirarsi dal presente Accordo mediante notificazione scritta al Governo depositario. Il ritiro ha effetto sei mesi dopo il ricevimento della notificazione da parte del Governo depositario.
 
 <sup>2.</sup> Se la Giordania si ritira, l’Accordo scade al termine del periodo di preavviso; se tutti gli Stati dell’AELS si ritirano, esso scade al termine dell’ultimo periodo di preavviso.
 
@@ -489,9 +501,10 @@ Protocollo d’intesa
 
 ## **Ad art. 17**Protezione della proprietà intellettuale
 
-\2. In virtù dell’Accordo sullo SEE, gli Stati dell’AELS applicano nella loro legislazione le disposizioni materiali della Convenzione europea del 5 ottobre 1973[^annexu1-lvlu2-1] sui brevetti. L’Islanda e la Norvegia ritengono che gli obblighi derivanti dall’articolo 17 (Protezione della proprietà intellettuale) non differiscono materialmente dagli obblighi derivanti dall’Accordo SEE.
+\2. In virtù dell’Accordo sullo SEE[^annexu1-lvlu2-1], gli Stati dell’AELS applicano nella loro legislazione le disposizioni materiali della Convenzione europea del 5 ottobre 1973[^annexu1-lvlu2-2] sui brevetti. L’Islanda e la Norvegia ritengono che gli obblighi derivanti dall’articolo 17 (Protezione della proprietà intellettuale) non differiscono materialmente dagli obblighi derivanti dall’Accordo SEE.
 
-[^annexu1-lvlu2-1]: [RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
+[^annexu1-lvlu2-1]: [FF 1992 VI 54](https://fedlex.data.admin.ch/eli/fga/1992/6_56_53_54)
+[^annexu1-lvlu2-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 
 ## **Ad Protocollo B**
 
@@ -503,11 +516,11 @@ Protocollo d’intesa
 
 (Seguono le firme)
 
-## Lista degli allegati****
+## Lista degli allegati
 
-[^annexu1-lvlu2-2]
+[^annexu1-lvlu2-3]
 
-[^annexu1-lvlu2-2]: Questi doc. (in parte pubblicati nella [RU 2003 3893](https://fedlex.data.admin.ch/eli/oc/2003/569)) (con l’eccezione del Prot. d’intesa) non sono pubblicati né nella RU né nella RS (vedi [RU 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2013 2715](https://fedlex.data.admin.ch/eli/oc/2013/556)[2717](https://fedlex.data.admin.ch/eli/oc/2013/557)[2829](https://fedlex.data.admin.ch/eli/oc/2013/583)). Sono disponibili in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: www.efta.int/free-trade/free-trade-agreements/jordan/jcds.aspx
+[^annexu1-lvlu2-3]: Questi doc. (in parte pubblicati nella [RU 2003 3893](https://fedlex.data.admin.ch/eli/oc/2003/569)) (con l’eccezione del Prot. d’intesa) non sono pubblicati né nella RU né nella RS ([RU 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771); [2013 2715](https://fedlex.data.admin.ch/eli/oc/2013/556), [2717](https://fedlex.data.admin.ch/eli/oc/2013/557), [2829](https://fedlex.data.admin.ch/eli/oc/2013/583); [2025 849](https://fedlex.data.admin.ch/eli/oc/2025/849)). Sono disponibili in versione originale inglese presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna ed è disponibile sul sito Internet del Segretariato dell’AELS: [www.efta.int/trade-relations/free-trade-network/jordan](https://www.efta.int/trade-relations/free-trade-network/jordan).
 
 <table>
 <tr><td></td><td>**Record of understanding – Protocollo d’intesa**</td></tr>
@@ -527,19 +540,19 @@ Protocollo d’intesa
 <tr><td></td><td>Table III to Protocol A – Liechtenstein, Switzerland</td></tr>
 <tr><td></td><td>Table IV to Protocol A – Norway</td></tr>
 <tr><td></td><td>Table V to Protocol A – Jordan</td></tr>
-<tr><td>**Protocol B**</td><td></td></tr>
-<tr><td></td><td>Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
-<tr><td></td><td>Annex I to Protocol B – Introductory notes to the list in Annex 2</td></tr>
-<tr><td></td><td>Annex II to Protocol B – List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>
-<tr><td></td><td>Annex III A to Protocol B – Specimens of movement certificate EUR 1 and application for a movement certificate EUR 1</td></tr>
-<tr><td></td><td>Annex III B to Protocol B – Specimens of movement certificate EUR-MED and application for a movement certificate EUR-MED</td></tr>
-<tr><td></td><td>Annex IV A to Protocol B – Text of the invoice declaration</td></tr>
-<tr><td></td><td>Annex IV B to Protocol B – Text of the invoice declaration EUR-MED</td></tr>
-<tr><td></td><td>Annex V to Protocol B – Participating countries or territories</td></tr>
+<tr><td>**Protocol B**</td><td>Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
+<tr><td></td><td>Annex I to Protocol B – Introductory notes</td></tr>
+<tr><td></td><td>Annex II to Protocol B – List rules</td></tr>
+<tr><td></td><td>Annex III A to Protocol B – Movement certificate EUR 1</td></tr>
+<tr><td></td><td>Annex III B to Protocol B – Movement certificate EUR-MED</td></tr>
+<tr><td></td><td>Annex IV A to Protocol B –Invoice declaration</td></tr>
+<tr><td></td><td>Annex IV B to Protocol B – Invoice declaration EUR-MED</td></tr>
+<tr><td></td><td>Annex V to Protocol B – List of countries</td></tr>
 <tr><td>**Protocol C**</td><td>Monopolies not adjusted in accordance with article 11</td></tr>
 <tr><td>**Protocol D**</td><td>Referred to in Article 35 – Territorial application</td></tr>
-<tr><td>***Joint Commi******t******tee Decisions***</td><td></td></tr>
-<tr><td>No 3-12</td><td>Amendements to Protocol B</td></tr>
+<tr><td>***Joint Committee Decisions***</td><td></td></tr>
+<tr><td>No 1-25</td><td>Amendments to Protocol B</td></tr>
+<tr><td>No 3-12</td><td>Amendments to Protocol B</td></tr>
 <tr><td>No 2-12</td><td>Amending Annex III</td></tr>
 <tr><td>No 1-12</td><td>Amending Annex II</td></tr>
 <tr><td>No 1-06</td><td>Amendments to Protocol B</td></tr>
@@ -549,7 +562,7 @@ Protocollo d’intesa
 <tr><td>No 1-04</td><td>Rules of procedure Joint Committee</td></tr>
 </table>
 
-### Campo d’applicazione il 26 agosto 2003
+Campo d’applicazione il 26 agosto 2003
 
 <table>
 <tr><th>Stato contraente</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>

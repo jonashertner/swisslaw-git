@@ -3,31 +3,30 @@ sr: "0.632.314.671"
 title: "Accord de libre-échange du 21 juin 2001 entre les États de l'AELE et le Royaume hachémite de Jordanie (avec prot. d'entente, prot. et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/569"
 language: fr
-version: 2013-10-01
+version: 2026-02-01
 adopted: 2001-06-21
 in_force: 2002-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/569/20131001/fr/xml/fedlex-data-admin-ch-eli-cc-2003-569-20131001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/569/20131001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/569/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2003-569-20260201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/569/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord de libre-échange entre les Etats de l’AELE et le Royaume hachémite de Jordanie
+# Accord de libre-échange entre les États de l’AELE et le Royaume hachémite de Jordanie
 
 RO **2003** 3893; FF **2002** 1232
 
-Traduction*[^t-1]*
+Traduction
 
-Conclu à Vaduz le 21 juin 2001 Approuvé par l’Assemblée fédérale le 14 mars 2002[^t-2] Instrument de ratification déposé par la Suisse le 6 juin 2002 Entré en vigueur pour la Suisse le 1<sup>er</sup> septembre 2002
+Conclu à Vaduz le 21 juin 2001 Approuvé par l’Assemblée fédérale le 14 mars 2002[^t-1] Instrument de ratification déposé par la Suisse le 6 juin 2002 Entré en vigueur pour la Suisse le 1<sup>er</sup> septembre 2002
 
-(Etat le 1<sup>er</sup> octobre 2013)
+(État le 1<sup>er</sup> février 2026)
 
-[^t-1]: Traduction du texte original anglais.
-[^t-2]: Art. 1 al. 1 let. a de l’AF du 14 mars 2002 ([RO 2003 3891](https://fedlex.data.admin.ch/eli/oc/2003/568))
+[^t-1]: Art. 1 al. 1 let. a de l’AF du 14 mars 2002 ([RO 2003 3891](https://fedlex.data.admin.ch/eli/oc/2003/568))
 
-Préambule
+*Préambule*
 
-La République d’Islande, la Principauté de Liechtenstein, le Royaume de Norvège, la Confédération suisse (ci-après dénommés les Etats de l’AELE), d’une part,
+La République d’Islande, la Principauté de Liechtenstein, le Royaume de Norvège, la Confédération suisse (ci-après dénommés les États de l’AELE), d’une part,
 
 et
 
@@ -35,7 +34,7 @@ le Royaume hachémite de Jordanie (ci-après dénommé la Jordanie), d’autre p
 
 ci-après dénommés collectivement les Parties,
 
-considérant l’importance des liens qui unissent les Etats de l’AELE et la Jordanie, en particulier la Déclaration de coopération signée à Genève en juin 1997, et reconnaissant la volonté commune des Parties de renforcer ces liens afin d’établir entre elles des relations étroites et durables,
+considérant l’importance des liens qui unissent les États de l’AELE et la Jordanie, en particulier la Déclaration de coopération signée à Genève en juin 1997, et reconnaissant la volonté commune des Parties de renforcer ces liens afin d’établir entre elles des relations étroites et durables,
 
 réaffirmant leur engagement aux principes de la Charte des Nations Unies, en particulier à la démocratie pluraliste fondée sur la primauté du droit et la liberté politique et économique ainsi qu’au respect des droits de l’homme, y compris des droits des personnes appartenant à des minorités,
 
@@ -47,11 +46,11 @@ ayant conscience du besoin d’associer leurs efforts pour renforcer la stabilit
 
 considérant les développements sur le plan politique et économique qui ont eu lieu en Europe et au Proche-Orient au cours de ces dernières années, en particulier le processus de paix au Proche-Orient,
 
-considérant les disparités en matière de niveau de développement économique entre la Jordanie et les Etats de l’AELE,
+considérant les disparités en matière de niveau de développement économique entre la Jordanie et les États de l’AELE,
 
 souhaitant créer des conditions favorables au développement et à la diversification des échanges commerciaux entre eux ainsi qu’à la promotion de la coopération commerciale et économique dans des domaines d’intérêt commun, coopération reposant sur les principes de l’égalité, du bénéfice mutuel, de la non-discrimination ainsi que sur le droit international,
 
-considérant l’attachement des Etats de l’AELE et de la Jordanie aux principes du libre-échange, se fondant sur leurs droits et leurs obligations respectifs résultant de l’Accord de Marrakech instituant l’Organisation mondiale du commerce[^ingress-1] (ci-après dénommée l’OMC), et d’autres instruments multilatéraux, régionaux et bilatéraux de coopération,
+considérant l’attachement des États de l’AELE et de la Jordanie aux principes du libre-échange, se fondant sur leurs droits et leurs obligations respectifs résultant de l’Accord de Marrakech instituant l’Organisation mondiale du commerce[^ingress-1] (ci-après dénommée l’OMC), et d’autres instruments multilatéraux, régionaux et bilatéraux de coopération,
 
 étant déterminés à appliquer l’Accord avec pour objectif de préserver et de protéger l’environnement et d’assurer une utilisation optimale des ressources naturelles en vertu des principes du développement durable,
 
@@ -59,19 +58,19 @@ considérant l’attachement des Etats de l’AELE et de la Jordanie aux princip
 
 ont décidé, dans l’intention de poursuivre les objectifs mentionnés ci-dessus, de conclure l’Accord suivant (ci-après dénommé l’Accord):
 
-[^ingress-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1
 
 **Objectifs**
 
-<sup>1.</sup> Les Etats de l’AELE et la Jordanie s’engagent à instaurer une zone de libre-échange, conformément aux dispositions de l’Accord.
+<sup>1.</sup> Les États de l’AELE et la Jordanie s’engagent à instaurer une zone de libre-échange, conformément aux dispositions de l’Accord.
 
 <sup>2.</sup>
 
 Les objectifs de l’Accord, qui se fonde sur des relations commerciales entre économies de marché et sur le respect des principes démocratiques et des droits de l’homme, sont les suivants:
 
-- (a) promouvoir, par l’extension des échanges commerciaux, le développement harmonieux des relations économiques entre les Etats de l’AELE et la Jordanie et ainsi favoriser dans ces pays l’essor de l’activité économique, l’amélioration des conditions de vie et d’emploi, l’accroissement de la productivité et la stabilité financière;
+- (a) promouvoir, par l’extension des échanges commerciaux, le développement harmonieux des relations économiques entre les États de l’AELE et la Jordanie et ainsi favoriser dans ces pays l’essor de l’activité économique, l’amélioration des conditions de vie et d’emploi, l’accroissement de la productivité et la stabilité financière;
 - (b) assurer que le commerce entre les Parties se fasse à des conditions de concurrence équitables;
 - (c) contribuer ainsi, grâce à l’élimination des obstacles aux échanges commerciaux, à l’intégration économique euro-méditerranéenne ainsi qu’au développement harmonieux et à l’extension du commerce mondial;
 - (d) promouvoir par la coopération le développement de relations économiques équilibrées entre les Parties.
@@ -80,7 +79,7 @@ Les objectifs de l’Accord, qui se fonde sur des relations commerciales entre �
 
 **Champ d’application**
 
-originaires de l’un des Etats de l’AELE ou de la Jordanie.
+originaires de l’un des États de l’AELE ou de la Jordanie.
 
 L’Accord s’applique:
 
@@ -88,7 +87,7 @@ L’Accord s’applique:
 - (b) aux produits figurant dans le Protocole A, sous réserve des dispositions particulières prévues dans ce dernier;
 - (c) au poisson et aux autres produits de la mer conformément aux dispositions de l’Annexe II;
 
-[^2-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^2-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 3
 
@@ -96,7 +95,7 @@ L’Accord s’applique:
 
 <sup>1.</sup> Les Parties se déclarent prêtes à encourager la coopération économique, conformément aux objectifs de leurs politiques nationales, tout en admettant qu’une attention particulière devrait être portée aux secteurs qui connaissent des difficultés dans le processus d’ajustement structurel en Jordanie en vue de la libéralisation de son économie.
 
-<sup>2.</sup> En vue de faciliter la mise en oeuvre de l’Accord, les Parties conviennent des modalités appropriées d’une assistance technique et financière et d’une coopération de la part de leurs autorités respectives, particulièrement dans les domaines de la propriété intellectuelle, des questions douanières, des réglementations techniques et dans d’autres domaines où la nécessité se présente. A cet effet, ils coordonneront leurs efforts avec les organisations internationales compétentes.
+<sup>2.</sup> En vue de faciliter la mise en oeuvre de l’Accord, les Parties conviennent des modalités appropriées d’une assistance technique et financière et d’une coopération de la part de leurs autorités respectives, particulièrement dans les domaines de la propriété intellectuelle, des questions douanières, des réglementations techniques et dans d’autres domaines où la nécessité se présente. À cet effet, ils coordonneront leurs efforts avec les organisations internationales compétentes.
 
 #### Art. 4
 
@@ -112,9 +111,9 @@ L’Accord s’applique:
 
 **Droits de douane à l’importation et taxes d’effet équivalent**
 
-<sup>1.</sup> Aucun nouveau droit de douane à l’importation et aucune nouvelle taxe d’effet équivalent ne seront introduits dans les échanges commerciaux entre les Etats de l’AELE et la Jordanie.
+<sup>1.</sup> Aucun nouveau droit de douane à l’importation et aucune nouvelle taxe d’effet équivalent ne seront introduits dans les échanges commerciaux entre les États de l’AELE et la Jordanie.
 
-<sup>2.</sup> Les Parties élimineront, dès l’entrée en vigueur de l’Accord, tous les droits de douane à l’importation et toutes les taxes d’effet équivalent frappant les produits originaires d’un Etat de l’AELE ou de la Jordanie, sous réserve des dispositions de l’Annexe III.
+<sup>2.</sup> Les Parties élimineront, dès l’entrée en vigueur de l’Accord, tous les droits de douane à l’importation et toutes les taxes d’effet équivalent frappant les produits originaires d’un État de l’AELE ou de la Jordanie, sous réserve des dispositions de l’Annexe III.
 
 #### Art. 6
 
@@ -136,17 +135,17 @@ Les dispositions de l’art. 5 sont également applicables aux droits de douane 
 
 **Droits de douane à l’exportation et taxes d’effet équivalent**
 
-<sup>1.</sup> Aucun nouveau droit de douane à l’exportation et aucune nouvelle taxe d’effet équivalent ne seront introduits dans les échanges commerciaux entre les Etats de l’AELE et la Jordanie.
+<sup>1.</sup> Aucun nouveau droit de douane à l’exportation et aucune nouvelle taxe d’effet équivalent ne seront introduits dans les échanges commerciaux entre les États de l’AELE et la Jordanie.
 
-<sup>2.</sup> Les Etats de l’AELE et la Jordanie élimineront, dès l’entrée en vigueur de l’Accord, tous les droits de douane à l’exportation et toutes les taxes d’effet équivalent, sous réserve des dispositions de l’Annexe IV.
+<sup>2.</sup> Les États de l’AELE et la Jordanie élimineront, dès l’entrée en vigueur de l’Accord, tous les droits de douane à l’exportation et toutes les taxes d’effet équivalent, sous réserve des dispositions de l’Annexe IV.
 
 #### Art. 9
 
 **Restrictions quantitatives à l’importation ou à l’exportation et mesures d’effet équivalent**
 
-<sup>1.</sup> Aucune nouvelle restriction quantitative à l’importation ou à l’exportation et aucune mesure d’effet équivalent ne seront introduites dans les échanges commerciaux entre les Etats de l’AELE et la Jordanie.
+<sup>1.</sup> Aucune nouvelle restriction quantitative à l’importation ou à l’exportation et aucune mesure d’effet équivalent ne seront introduites dans les échanges commerciaux entre les États de l’AELE et la Jordanie.
 
-<sup>2.</sup> Les Etats de l’AELE et la Jordanie élimineront, dès l’entrée en vigueur de l’Accord, les restrictions quantitatives à l’importation ou à l’exportation et les mesures d’effet équivalent, sous réserve des dispositions de l’Annexe V.
+<sup>2.</sup> Les États de l’AELE et la Jordanie élimineront, dès l’entrée en vigueur de l’Accord, les restrictions quantitatives à l’importation ou à l’exportation et les mesures d’effet équivalent, sous réserve des dispositions de l’Annexe V.
 
 #### Art. 10
 
@@ -156,11 +155,11 @@ L’Accord ne fait pas obstacle aux interdictions ou restrictions d’importatio
 
 #### Art. 11
 
-**Monopoles d’Etat**
+**Monopoles d’État**
 
-Les Etats de l’AELE et la Jordanie aménageront progressivement tous les monopoles d’Etat présentant un caractère commercial sous réserve des exceptions prévues dans le Protocole C, et ce sans porter atteinte aux engagements pris ou susceptibles de l’être en vertu de l’Accord général sur les tarifs douaniers et le commerce de 1994[^11-1] (ci-après dénommé GATT 1994), afin d’assurer que, d’ici à la fin de la cinquième année qui suit l’entrée en vigueur de l’Accord, aucune discrimination dans les conditions d’approvisionnement et de commercialisation des marchandises n’existe entre les ressortissants des Etats de l’AELE et de la Jordanie. Le Comité mixte sera informé des mesures adoptées en vue de la réalisation de cet objectif.
+Les États de l’AELE et la Jordanie aménageront progressivement tous les monopoles d’État présentant un caractère commercial sous réserve des exceptions prévues dans le Protocole C, et ce sans porter atteinte aux engagements pris ou susceptibles de l’être en vertu de l’Accord général sur les tarifs douaniers et le commerce de 1994[^11-1] (ci-après dénommé GATT 1994), afin d’assurer que, d’ici à la fin de la cinquième année qui suit l’entrée en vigueur de l’Accord, aucune discrimination dans les conditions d’approvisionnement et de commercialisation des marchandises n’existe entre les ressortissants des États de l’AELE et de la Jordanie. Le Comité mixte sera informé des mesures adoptées en vue de la réalisation de cet objectif.
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1
 
 #### Art. 12
 
@@ -174,11 +173,11 @@ Les Etats de l’AELE et la Jordanie aménageront progressivement tous les monop
 
 #### Art. 13
 
-**Echanges de produits agricoles**
+**Échanges de produits agricoles**
 
 <sup>1.</sup> Les Parties se déclarent prêtes à favoriser, dans le respect de leurs politiques agricoles, le développement harmonieux des échanges de produits agricoles.
 
-<sup>2.</sup> A cette fin, chacun des Etats de l’AELE a conclu avec la Jordanie un arrangement bilatéral prévoyant des mesures propres à faciliter les échanges de produits agricoles.
+<sup>2.</sup> À cette fin, chacun des États de l’AELE a conclu avec la Jordanie un arrangement bilatéral prévoyant des mesures propres à faciliter les échanges de produits agricoles.
 
 <sup>3.</sup> Les Parties appliqueront leurs réglementations en matière sanitaire et phytosanitaire de manière non discriminatoire et s’abstiendront d’introduire de nouvelles mesures ayant pour effet d’entraver indûment les échanges.
 
@@ -190,13 +189,13 @@ Les Etats de l’AELE et la Jordanie aménageront progressivement tous les monop
 
 <sup>2.</sup> Les exportateurs ne peuvent, pour les produits exportés vers le territoire de l’une des Parties, bénéficier d’une remise d’impositions intérieures dépassant le montant des impositions qui ont frappé directement ou indirectement ces produits.
 
-[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1
+[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1
 
 #### Art. 15
 
 **Paiements et transferts**
 
-<sup>1.</sup> Les paiements afférents aux échanges entre un Etat de l’AELE et la Jordanie ainsi que le transfert de ces paiements vers le territoire de la Partie dans lequel réside le créancier ne seront soumis à aucune restriction.
+<sup>1.</sup> Les paiements afférents aux échanges entre un État de l’AELE et la Jordanie ainsi que le transfert de ces paiements vers le territoire de la Partie dans lequel réside le créancier ne seront soumis à aucune restriction.
 
 <sup>2.</sup> Les Parties s’abstiendront de toute restriction de change ou restriction administrative concernant l’octroi, le remboursement ou l’acceptation des crédits à court ou à moyen terme couvrant les transactions commerciales auxquelles participe un résident.
 
@@ -208,11 +207,11 @@ Les Etats de l’AELE et la Jordanie aménageront progressivement tous les monop
 
 \1. Les Parties considèrent la libéralisation effective de leurs marchés publics respectifs selon les principes de la non-discrimination et de la réciprocité comme un objectif faisant partie intégrante de l’Accord.
 
-<sup>2.</sup> A cet effet, les Parties élaboreront des règles au sein du Comité mixte en vue d’assurer une telle libéralisation. Ce faisant, elles tiendront compte des développements opérés sous les auspices de l’OMC.
+<sup>2.</sup> À cet effet, les Parties élaboreront des règles au sein du Comité mixte en vue d’assurer une telle libéralisation. Ce faisant, elles tiendront compte des développements opérés sous les auspices de l’OMC.
 
 <sup>3.</sup> Les Parties concernées s’efforceront d’adhérer à l’Accord de l’OMC sur les marchés publics[^16-1].
 
-[^16-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^16-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 #### Art. 17
 
@@ -222,11 +221,11 @@ Les Etats de l’AELE et la Jordanie aménageront progressivement tous les monop
 
 <sup>2.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles réservent à leurs propres ressortissants. Les exceptions à cette obligation doivent être conformes aux dispositions matérielles de l’art. 3 de l’Accord de l’OMC sur les aspects des droits de propriété intellectuelle qui touchent au commerce[^17-1] (ci-après dénommé l’Accord sur les ADPIC).
 
-<sup>3.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles réservent aux ressortissants de tout autre Etat. Conformément à l’art. 4, par. (d) de l’Accord sur les ADPIC, tout avantage, faveur, privilège ou immunité découlant d’accords internationaux entrés en vigueur avant l’Accord et notifié aux autres Parties au plus tard six mois après l’entrée en vigueur de l’Accord est exempté de cette obligation, pour autant que cette exemption ne constitue pas une discrimination arbitraire ou injustifiable à l’égard des ressortissants des autres Parties. Les Parties sont exemptées du devoir de notification si elles ont déjà fait une telle notification au Conseil des ADPIC. Les exemptions à cette obligation doivent être conformes aux dispositions matérielles de l’Accord sur les ADPIC, en particulier à ses art. 4 et 5.
+<sup>3.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles réservent aux ressortissants de tout autre État. Conformément à l’art. 4, par. (d) de l’Accord sur les ADPIC, tout avantage, faveur, privilège ou immunité découlant d’accords internationaux entrés en vigueur avant l’Accord et notifié aux autres Parties au plus tard six mois après l’entrée en vigueur de l’Accord est exempté de cette obligation, pour autant que cette exemption ne constitue pas une discrimination arbitraire ou injustifiable à l’égard des ressortissants des autres Parties. Les Parties sont exemptées du devoir de notification si elles ont déjà fait une telle notification au Conseil des ADPIC. Les exemptions à cette obligation doivent être conformes aux dispositions matérielles de l’Accord sur les ADPIC, en particulier à ses art. 4 et 5.
 
 <sup>4.</sup> Les Parties conviennent de réexaminer, à la demande de l’une d’elles, les dispositions relatives à la protection des droits de la propriété intellectuelle contenues dans le présent article et dans l’Annexe VI, en vue d’améliorer les niveaux de protection et d’éviter ou de corriger des distorsions commerciales lorsqu’elles résultent du niveau actuel de protection des droits de la propriété intellectuelle.
 
-[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1.C
+[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1C
 
 #### Art. 18
 
@@ -234,7 +233,7 @@ Les Etats de l’AELE et la Jordanie aménageront progressivement tous les monop
 
 <sup>1.</sup>
 
-Sont incompatibles avec le bon fonctionnement de l’Accord dans la mesure où ils sont susceptibles d’affecter les échanges commerciaux entre un Etat de l’AELE et la Jordanie:
+Sont incompatibles avec le bon fonctionnement de l’Accord dans la mesure où ils sont susceptibles d’affecter les échanges commerciaux entre un État de l’AELE et la Jordanie:
 
 - (a) tous les accords entre entreprises, toutes les décisions d’associations d’entreprises et toutes les pratiques concertées entre entreprises qui ont pour objet ou pour effet d’empêcher, de restreindre ou de fausser le jeu de la concurrence;
 - (b) l’exploitation abusive, par une ou plusieurs entreprises, d’une position dominante sur l’ensemble du territoire des Parties ou dans une partie substantielle de celui-ci.
@@ -249,25 +248,25 @@ Sont incompatibles avec le bon fonctionnement de l’Accord dans la mesure où i
 
 #### Art. 19
 
-**Aides d’Etat**
+**Aides d’État**
 
 <sup>1.</sup> Les droits et obligations des Parties relatifs aux subventions et aux mesures de compensation sont régis par les dispositions de l’art. XVI du GATT 1994[^19-1] et de l’Accord de l’OMC sur les subventions et les mesures compensatoires[^19-2], sous réserve de dispositions différentes énoncées au présent article.
 
 <sup>2.</sup> Les Parties assureront la transparence quant aux subventions et aux mesures compensatoires en échangeant leurs notifications de subventions ou de mesures compensatoires annuelles adressées à l’OMC conformément aux dispositions de l’art. XVI:1 du GATT 1994 et de l’art. 25 de l’Accord de l’OMC sur les subventions et les mesures compensatoires.
 
-<sup>3.</sup> Avant qu’un Etat de l’AELE ou la Jordanie, selon le cas, n’engage une procédure d’investigation afin de déterminer l’existence, l’ampleur et l’effet d’une prétendue subvention en Jordanie ou au sein d’un Etat de l’AELE, conformément à l’art. 11 de l’Accord sur les subventions et les mesures compensatoires, la Partie ayant l’intention d’engager cette procédure d’investigation le notifie par écrit à la Partie dont les produits font l’objet d’une procédure d’investigation et accorde un délai de quarante-cinq jours de consultation, après réception de la notification, en vue de trouver une solution mutuellement acceptable. Les consultations auront lieu au sein du Comité mixte si l’une des Partie en fait la demande dans les vingt jours qui suivent la date de réception de la notification.
+<sup>3.</sup> Avant qu’un État de l’AELE ou la Jordanie, selon le cas, n’engage une procédure d’investigation afin de déterminer l’existence, l’ampleur et l’effet d’une prétendue subvention en Jordanie ou au sein d’un État de l’AELE, conformément à l’art. 11 de l’Accord sur les subventions et les mesures compensatoires, la Partie ayant l’intention d’engager cette procédure d’investigation le notifie par écrit à la Partie dont les produits font l’objet d’une procédure d’investigation et accorde un délai de quarante-cinq jours de consultation, après réception de la notification, en vue de trouver une solution mutuellement acceptable. Les consultations auront lieu au sein du Comité mixte si l’une des Partie en fait la demande dans les vingt jours qui suivent la date de réception de la notification.
 
-[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1
-[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.13
+[^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1
+[^19-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.13
 
 #### Art. 20
 
 **Dumping**
 
-Si un Etat de l’AELE constate des pratiques de dumping, au sens de l’art. VI du GATT 1994[^20-1], dans ses relations avec la Jordanie ou lorsque la Jordanie constate de telles pratiques dans ses relations avec un Etat de l’AELE, la Partie concernée peut prendre des mesures appropriées contre ces pratiques, conformément à l’Accord de l’OMC sur la mise en œuvre de l’art. VI du GATT 1994[^20-2] et selon la procédure prévue à l’art. 25.
+Si un État de l’AELE constate des pratiques de dumping, au sens de l’art. VI du GATT 1994[^20-1], dans ses relations avec la Jordanie ou lorsque la Jordanie constate de telles pratiques dans ses relations avec un État de l’AELE, la Partie concernée peut prendre des mesures appropriées contre ces pratiques, conformément à l’Accord de l’OMC sur la mise en œuvre de l’art. VI du GATT 1994[^20-2] et selon la procédure prévue à l’art. 25.
 
-[^20-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1
-[^20-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.8
+[^20-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1
+[^20-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.8
 
 #### Art. 21
 
@@ -288,13 +287,13 @@ Si les importations d’un produit augmentent dans des proportions et dans des c
 
 <sup>2.</sup> Ces mesures ne peuvent s’appliquer qu’en faveur d’industries naissantes ou de certains secteurs en cours de restructuration ou confrontés à de sérieuses difficultés, en particulier lorsque ces difficultés provoquent de graves problèmes sociaux.
 
-<sup>3.</sup> Après l’introduction de telles mesures, le montant total ad valorem des droits de douane applicables en Jordanie aux produits originaires des Etats de l’AELE ne peut dépasser vingt-cinq pour cent et doit maintenir un élément préférentiel pour les marchandises originaires des Etats de l’AELE. La valeur totale moyenne des importations annuelles de produits qui font l’objet de ces mesures ne peut dépasser vingt pour cent de la valeur totale moyenne des importations annuelles de produits industriels originaires des Etats de l’AELE réalisées pendant les trois dernières années pour lesquelles des données statistiques sont disponibles.
+<sup>3.</sup> Après l’introduction de telles mesures, le montant total ad valorem des droits de douane applicables en Jordanie aux produits originaires des États de l’AELE ne peut dépasser vingt-cinq pour cent et doit maintenir un élément préférentiel pour les marchandises originaires des États de l’AELE. La valeur totale moyenne des importations annuelles de produits qui font l’objet de ces mesures ne peut dépasser vingt pour cent de la valeur totale moyenne des importations annuelles de produits industriels originaires des États de l’AELE réalisées pendant les trois dernières années pour lesquelles des données statistiques sont disponibles.
 
 <sup>4.</sup> Ces mesures peuvent être appliquées pendant une période qui ne dépasse pas cinq ans à moins que le Comité mixte n’autorise une durée d’application plus longue. Leur application doit néanmoins prendre fin au plus tard à l’expiration de la période transitoire maximale de douze ans.
 
 <sup>5.</sup> Aucune de ces mesures ne peut être introduite pour un produit si plus de quatre ans se sont écoulés depuis l’élimination de l’ensemble des droits de douane, restrictions quantitatives ou taxes ou mesures ayant un effet équivalent concernant ce produit.
 
-<sup>6.</sup> La Jordanie informe le Comité mixte de toute mesure exceptionnelle qu’elle envisage de prendre et, à la demande des Etats de l’AELE, des consultations auront lieu au sein du Comité mixte sur de telles mesures et au sujet des secteurs auxquels elles doivent s’appliquer, et ce avant que ces mesures ne prennent effet. Au moment de prendre de telles mesures, la Jordanie communiquera au Comité mixte un calendrier pour l’élimination des droits de douane introduits au titre du présent article. Ce calendrier devra fixer une élimination progressive des droits en tranches annuelles égales débutant au plus tard deux ans après leur introduction.. Le Comité mixte peut fixer un calendrier différent.
+<sup>6.</sup> La Jordanie informe le Comité mixte de toute mesure exceptionnelle qu’elle envisage de prendre et, à la demande des États de l’AELE, des consultations auront lieu au sein du Comité mixte sur de telles mesures et au sujet des secteurs auxquels elles doivent s’appliquer, et ce avant que ces mesures ne prennent effet. Au moment de prendre de telles mesures, la Jordanie communiquera au Comité mixte un calendrier pour l’élimination des droits de douane introduits au titre du présent article. Ce calendrier devra fixer une élimination progressive des droits en tranches annuelles égales débutant au plus tard deux ans après leur introduction.. Le Comité mixte peut fixer un calendrier différent.
 
 <sup>7.</sup> Par voie de dérogation au par. 5 du présent article, le Comité mixte peut exceptionnellement, dans le but de prendre en compte les difficultés rencontrées lors de l’établissement d’une nouvelle industrie et lorsque certains secteurs subissent des restructurations ou connaissent de graves difficultés, autoriser la Jordanie à maintenir les mesures déjà prises conformément au par. 1 pour une période maximale de trois années au-delà de la période transitoire de douze ans.
 
@@ -315,10 +314,10 @@ Si l’application des dispositions des art. 8 et 9 entraîne:
 
 <sup>1.</sup> Les Parties s’efforceront de s’abstenir de prendre des mesures restrictives pour remédier à leurs difficultés en matière de balance des paiements.
 
-<sup>2.</sup> Si l’une des Parties rencontre ou risque de rencontrer dans un très bref délai de graves difficultés en matière de balance des paiements, elle peut, conformément aux dispositions prévues par le GATT 1994[^24-1] et le Mémorandum d’accord sur les dispositions relatives à la balance des paiements[^24-2] du GATT 1994, adopter des mesures commerciales restrictives, à condition qu’elles ne portent que sur une durée limitée, qu’elles ne soient pas discriminatoires et qu’elles n’outrepassent pas ce qui est nécessaire pour remédier aux problèmes de la balance des paiements. La préférence sera donnée aux mesures fondées sur les prix, qui seront progressivement allégées en fonction de l’amélioration de la balance des paiements et supprimées dès que la situation n’en justifie plus le maintien. L’Etat de l’AELE ou la Jordanie, selon le cas, introduisant ces mesures en informe les autres Parties et le Comité mixte sans délai et si possible avant leur introduction, et leur communique le calendrier arrêté pour leur suppression. A la demande de tout autre Partie, le Comité mixte examinera la nécessité de maintenir les mesures prises.
+<sup>2.</sup> Si l’une des Parties rencontre ou risque de rencontrer dans un très bref délai de graves difficultés en matière de balance des paiements, elle peut, conformément aux dispositions prévues par le GATT 1994[^24-1] et le Mémorandum d’accord sur les dispositions relatives à la balance des paiements[^24-2] du GATT 1994, adopter des mesures commerciales restrictives, à condition qu’elles ne portent que sur une durée limitée, qu’elles ne soient pas discriminatoires et qu’elles n’outrepassent pas ce qui est nécessaire pour remédier aux problèmes de la balance des paiements. La préférence sera donnée aux mesures fondées sur les prix, qui seront progressivement allégées en fonction de l’amélioration de la balance des paiements et supprimées dès que la situation n’en justifie plus le maintien. L’État de l’AELE ou la Jordanie, selon le cas, introduisant ces mesures en informe les autres Parties et le Comité mixte sans délai et si possible avant leur introduction, et leur communique le calendrier arrêté pour leur suppression. À la demande de tout autre Partie, le Comité mixte examinera la nécessité de maintenir les mesures prises.
 
-[^24-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1
-[^24-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1c
+[^24-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1
+[^24-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1c
 
 #### Art. 25
 
@@ -333,13 +332,13 @@ Si l’application des dispositions des art. 8 et 9 entraîne:
 - (c) En ce qui concerne les art. 21 et 23, le Comité mixte étudie le dossier ou la situation et peut prendre toute décision propre à mettre fin aux difficultés notifiées par la Partie concernée. Faute d’une telle décision dans les trente jours qui suivent la notification du cas au Comité mixte, la Partie en question peut prendre les mesures nécessaires pour remédier à la situation.
 - (d) En ce qui concerne l’art. 32, la Partie concernée fournit au Comité mixte toutes les informations pertinentes demandées en vue d’un examen approfondi de la situation et de la recherche d’une solution mutuellement acceptable. Si le Comité mixte ne parvient pas à une telle solution ou si une période de quatre-vingt-dix jours s’est écoulée depuis la date de la notification du cas, la Partie concernée peut prendre les mesures appropriées.
 
-<sup>4.</sup> Les mesures de sauvegarde qui ont été prises sont immédiatement notifiées aux autres Parties et au Comité mixte. La portée et la durée de ces mesures se limitent à ce qui est strictement nécessaire pour remédier à la situation qui a nécessité l’application de ces mesures. Celles-ci ne doivent pas outrepasser le préjudice causé par la pratique ou les difficultés en question. La priorité est donnée aux mesures qui perturbent le moins possible le fonctionnement de l’Accord. Les mesures prises par la Jordanie à l’encontre d’un acte ou d’une omission d’un Etat de l’AELE ne peuvent affecter que les échanges avec l’Etat de l’AELE en question. Les mesures à l’encontre d’un acte ou d’une omission de la Jordanie ne peuvent être prises que par l’Etat ou les Etats de l’AELE dont les échanges ont été affectés par ledit acte ou ladite omission.
+<sup>4.</sup> Les mesures de sauvegarde qui ont été prises sont immédiatement notifiées aux autres Parties et au Comité mixte. La portée et la durée de ces mesures se limitent à ce qui est strictement nécessaire pour remédier à la situation qui a nécessité l’application de ces mesures. Celles-ci ne doivent pas outrepasser le préjudice causé par la pratique ou les difficultés en question. La priorité est donnée aux mesures qui perturbent le moins possible le fonctionnement de l’Accord. Les mesures prises par la Jordanie à l’encontre d’un acte ou d’une omission d’un État de l’AELE ne peuvent affecter que les échanges avec l’État de l’AELE en question. Les mesures à l’encontre d’un acte ou d’une omission de la Jordanie ne peuvent être prises que par l’État ou les États de l’AELE dont les échanges ont été affectés par ledit acte ou ladite omission.
 
 <sup>5.</sup> Les mesures de sauvegarde font l’objet de consultations périodiques au sein du Comité mixte en vue de leur allégement, de leur remplacement ou de leur suppression dès que la situation n’en justifie plus le maintien.
 
 <sup>6.</sup> Lorsque des circonstances exceptionnelles imposent une intervention immédiate et excluent par conséquent un examen préalable, la Partie concernée peut, dans les situations visées aux art. 20, 21 et 23, appliquer sans attendre les mesures conservatoires et provisoires strictement nécessaires pour remédier à la situation. Ces mesures sont notifiées sans délai et des consultations entre les Parties ont lieu dès que possible au sein du Comité mixte.
 
-[^25-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1
+[^25-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1
 
 #### Art. 26
 
@@ -367,9 +366,9 @@ Aucune disposition de l’Accord n’empêche l’une des Parties de prendre les
 
 <sup>1.</sup> Les Parties reconnaissent l’importance croissante de certains secteurs comme ceux des services et des investissements. Dans leurs efforts visant à développer et à élargir progressivement leur coopération, notamment dans le contexte de l’intégration euro-méditerranéenne, elles entendent coopérer en vue de promouvoir davantage les investissements et de réaliser une libéralisation graduelle et une ouverture réciproque des marchés dans le domaine du commerce des services. Ce faisant, elles tiennent compte des travaux pertinents accomplis sous les auspices de l’OMC.
 
-<sup>2.</sup> Les Etats de l’AELE et la Jordanie examinent les développements dans le secteur des services en vue d’envisager l’adoption de mesures de libéralisation entre eux.
+<sup>2.</sup> Les États de l’AELE et la Jordanie examinent les développements dans le secteur des services en vue d’envisager l’adoption de mesures de libéralisation entre eux.
 
-<sup>3.</sup> Les Etats de l’AELE et la Jordanie débattent de cette coopération au sein du Comité mixte, aux fins de développer et d’approfondir leurs relations au sens de l’Accord.
+<sup>3.</sup> Les États de l’AELE et la Jordanie débattent de cette coopération au sein du Comité mixte, aux fins de développer et d’approfondir leurs relations au sens de l’Accord.
 
 #### Art. 29
 
@@ -377,7 +376,7 @@ Aucune disposition de l’Accord n’empêche l’une des Parties de prendre les
 
 <sup>1.</sup> L’exécution de l’Accord est placée sous la surveillance et l’administration d’un Comité mixte composé des représentants de toutes les Parties et agissant simultanément en vertu de la Déclaration signée à Genève en juin 1997.
 
-<sup>2.</sup> Pour assurer la bonne exécution de l’Accord, les Parties se tiennent mutuellement informées et, à la demande de l’une d’entre elles, procèdent à des consultations au sein du Comité mixte. Celui-ci reste attentif à toute possibilité de lever d’autres obstacles au commerce et à la coopération entre les Etats de l’AELE et la Jordanie, conformément à l’Accord.
+<sup>2.</sup> Pour assurer la bonne exécution de l’Accord, les Parties se tiennent mutuellement informées et, à la demande de l’une d’entre elles, procèdent à des consultations au sein du Comité mixte. Celui-ci reste attentif à toute possibilité de lever d’autres obstacles au commerce et à la coopération entre les États de l’AELE et la Jordanie, conformément à l’Accord.
 
 <sup>3.</sup> Le Comité mixte est habilité à prendre des décisions dans les cas prévus par l’Accord. Sur les autres sujets, le Comité mixte peut formuler des recommandations.
 
@@ -419,7 +418,7 @@ Aucune disposition de l’Accord n’empêche l’une des Parties de prendre les
 
 <sup>1.</sup> Les Parties prennent toutes les mesures nécessaires à la réalisation des objectifs de l’Accord et à l’exécution des obligations qui leur incombent en vertu de celui-ci.
 
-<sup>2.</sup> Si un Etat de l’AELE estime que la Jordanie, ou si la Jordanie estime qu’un Etat de l’AELE a manqué à une obligation lui incombant en vertu de l’Accord, la Partie en question peut prendre les mesures appropriées dans les conditions et selon la procédure prévues à l’art. 25.
+<sup>2.</sup> Si un État de l’AELE estime que la Jordanie, ou si la Jordanie estime qu’un État de l’AELE a manqué à une obligation lui incombant en vertu de l’Accord, la Partie en question peut prendre les mesures appropriées dans les conditions et selon la procédure prévues à l’art. 25.
 
 #### Art. 33
 
@@ -431,13 +430,13 @@ Les annexes et les protocoles de l’Accord en sont des parties intégrantes. Le
 
 **Application territoriale**
 
-L’Accord s’applique aux relations économiques et commerciales entre, d’une part, chacun des Etats de l’AELE et, d’autre part, la Jordanie, mais non pas aux relations commerciales entre les différents Etats de l’AELE, sauf dispositions contraires de l’Accord.
+L’Accord s’applique aux relations économiques et commerciales entre, d’une part, chacun des États de l’AELE et, d’autre part, la Jordanie, mais non pas aux relations commerciales entre les différents États de l’AELE, sauf dispositions contraires de l’Accord.
 
 #### Art. 35
 
 **Application territoriale**
 
-L’Accord est applicable sur le territoire des Etats Parties, sous réserve des dispositions du Protocole D.
+L’Accord est applicable sur le territoire des États Parties, sous réserve des dispositions du Protocole D.
 
 #### Art. 36
 
@@ -451,7 +450,7 @@ L’Accord ne fait pas obstacle au maintien ou à la constitution d’unions dou
 
 <sup>1.</sup> Les amendements à l’Accord qui ont été approuvés par le Comité mixte, à l’exception de ceux qui sont mentionnés à l’art. 33, sont soumis, après approbation par le Comité mixte, à la ratification, à l’acceptation ou à l’approbation des Parties.
 
-<sup>2.</sup> A moins que les Parties en aient convenu différemment par un accord entre elles, les amendements entrent en vigueur le premier jour du troisième mois qui suit le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation.
+<sup>2.</sup> À moins que les Parties en aient convenu différemment par un accord entre elles, les amendements entrent en vigueur le premier jour du troisième mois qui suit le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation.
 
 <sup>3.</sup> Le texte des amendements ainsi que les instruments d’acceptation sont déposés auprès du dépositaire.
 
@@ -459,9 +458,9 @@ L’Accord ne fait pas obstacle au maintien ou à la constitution d’unions dou
 
 **Adhésion**
 
-<sup>1.</sup> Tout Etat membre de l’Association européenne de libre-échange peut adhérer à l’Accord, à condition que le Comité mixte, après négociation entre l’Etat candidat et les Parties intéressées, accepte cette adhésion, dont il fixe en même temps les modalités. L’instrument d’adhésion est déposé auprès du dépositaire.
+<sup>1.</sup> Tout État membre de l’Association européenne de libre-échange peut adhérer à l’Accord, à condition que le Comité mixte, après négociation entre l’État candidat et les Parties intéressées, accepte cette adhésion, dont il fixe en même temps les modalités. L’instrument d’adhésion est déposé auprès du dépositaire.
 
-<sup>2.</sup> A l’égard de l’Etat qui décide d’y adhérer, l’Accord entre en vigueur le premier jour du troisième mois qui suit le dépôt de l’instrument d’adhésion.
+<sup>2.</sup> À l’égard de l’État qui décide d’y adhérer, l’Accord entre en vigueur le premier jour du troisième mois qui suit le dépôt de l’instrument d’adhésion.
 
 #### Art. 39
 
@@ -469,9 +468,9 @@ L’Accord ne fait pas obstacle au maintien ou à la constitution d’unions dou
 
 <sup>1.</sup> Chacune des Parties peut se retirer de l’Accord moyennant une notification écrite adressée au gouvernement dépositaire. Le retrait prend effet six mois après la date de réception de la notification par le dépositaire.
 
-<sup>2.</sup> En cas de retrait de la Jordanie, l’Accord expire à la fin du délai de préavis et, en cas de retrait de tous les Etats de l’AELE, l’Accord expire à la fin du dernier délai de préavis.
+<sup>2.</sup> En cas de retrait de la Jordanie, l’Accord expire à la fin du délai de préavis et, en cas de retrait de tous les États de l’AELE, l’Accord expire à la fin du dernier délai de préavis.
 
-<sup>3.</sup> Tout Etat membre de l’AELE qui se retire de la Convention instituant l’Association européenne de libre-échange cesse ipso facto d’être Partie à l’Accord le jour même où son retrait prend effet.
+<sup>3.</sup> Tout État membre de l’AELE qui se retire de la Convention instituant l’Association européenne de libre-échange cesse ipso facto d’être Partie à l’Accord le jour même où son retrait prend effet.
 
 #### Art. 40
 
@@ -479,9 +478,9 @@ L’Accord ne fait pas obstacle au maintien ou à la constitution d’unions dou
 
 <sup>1.</sup> L’Accord entrera en vigueur le 1<sup>er</sup> janvier 2002 à l’égard des signataires qui ont déposé à cette date leurs instruments de ratification ou d’acceptation auprès du dépositaire, à condition que la Jordanie ait elle-même déposé son instrument de ratification ou d’acceptation.
 
-<sup>2.</sup> A l’égard d’un signataire qui dépose son instrument de ratification ou d’acceptation après le 1<sup>er</sup> janvier 2002, l’Accord entrera en vigueur le premier jour du troisième mois qui suit le dépôt dudit instrument, à condition que l’Accord entre en vigueur à l’égard de la Jordanie au plus tard à cette même date.
+<sup>2.</sup> À l’égard d’un signataire qui dépose son instrument de ratification ou d’acceptation après le 1<sup>er</sup> janvier 2002, l’Accord entrera en vigueur le premier jour du troisième mois qui suit le dépôt dudit instrument, à condition que l’Accord entre en vigueur à l’égard de la Jordanie au plus tard à cette même date.
 
-<sup>3.</sup> Tout signataire peut déjà au moment de la signature déclarer qu’il appliquera dans une phase initiale l’Accord provisoirement si cet Accord ne peut pas entrer en vigueur au 1<sup>er</sup> janvier 2002 à l’égard de ce signataire. L’application provisoire de l’Accord par l’un des Etats de l’AELE n’est alors possible que si l’Accord est entré en vigueur à l’égard de la Jordanie ou si la Jordanie applique elle-même provisoirement l’Accord.
+<sup>3.</sup> Tout signataire peut déjà au moment de la signature déclarer qu’il appliquera dans une phase initiale l’Accord provisoirement si cet Accord ne peut pas entrer en vigueur au 1<sup>er</sup> janvier 2002 à l’égard de ce signataire. L’application provisoire de l’Accord par l’un des États de l’AELE n’est alors possible que si l’Accord est entré en vigueur à l’égard de la Jordanie ou si la Jordanie applique elle-même provisoirement l’Accord.
 
 #### Art. 41
 
@@ -489,7 +488,7 @@ L’Accord ne fait pas obstacle au maintien ou à la constitution d’unions dou
 
 Le Gouvernement de la Norvège agit en qualité de dépositaire.
 
-*En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Vaduz, le 21 juin 2001, en un exemplaire unique et authentique rédigé en anglais, qui sera déposé auprès du gouvernement de la Norvège. Le dépositaire transmettra des copies certifiées conformes à tous les Etats signataires et à ceux qui adhéreront au présent Accord. (Suivent les signatures)
+*En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Vaduz, le 21 juin 2001, en un exemplaire unique et authentique rédigé en anglais, qui sera déposé auprès du gouvernement de la Norvège. Le dépositaire transmettra des copies certifiées conformes à tous les États signataires et à ceux qui adhéreront au présent Accord. (Suivent les signatures)
 
 Protocole d’entente
 
@@ -499,26 +498,24 @@ Protocole d’entente
 
 ## **Ad art. 17**Protection de la propriété intellectuelle
 
-\2. Conformément à l’Accord EEE[^annexu1-lvlu2-1], les Etats de l’AELE doivent mettre leur législation en conformité avec les dispositions matérielles de la Convention sur le brevet européen[^annexu1-lvlu2-2] du 5 octobre 1973. L’Islande et la Norvège estiment que les obligations de l’art. 17 (Protection de la propriété intellectuelle) ne diffèrent pas en substance des obligations découlant de l’Accord EEE.
+\2. Conformément à l’Accord EEE[^annexu1-lvlu2-1], les États de l’AELE doivent mettre leur législation en conformité avec les dispositions matérielles de la Convention sur le brevet européen[^annexu1-lvlu2-2] du 5 octobre 1973. L’Islande et la Norvège estiment que les obligations de l’art. 17 (Protection de la propriété intellectuelle) ne diffèrent pas en substance des obligations découlant de l’Accord EEE.
 
 [^annexu1-lvlu2-1]: [FF 1992 VI 53](https://fedlex.data.admin.ch/eli/fga/1992/6_56_53_54)
-[^annexu1-lvlu2-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
+[^annexu1-lvlu2-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
 
 ## **Ad Protocole B**
 
-\3. Les Etats de l’AELE et le Royaume hachémite de Jordanie reconnaissent l’importance d’une coopération régionale dans la région méditerranéenne. L’objectif d’une telle coopération est de permettre un développement supplémentaire de relations de libre-échange aussi bien entre les Parties qu’au sein de la région, et de contribuer ainsi à l’instauration d’une zone de libre-échange euro-méditéranéenne.
+\3. Les États de l’AELE et le Royaume hachémite de Jordanie reconnaissent l’importance d’une coopération régionale dans la région méditerranéenne. L’objectif d’une telle coopération est de permettre un développement supplémentaire de relations de libre-échange aussi bien entre les Parties qu’au sein de la région, et de contribuer ainsi à l’instauration d’une zone de libre-échange euro-méditéranéenne.
 
-\4. En outre, les Etats de l’AELE et le Royaume hachémite de Jordanie conviennent d’examiner les possibilités d’inclure la Communauté européenne sur une base de réciprocité dans les dispositions de l’Accord qui régissent le cumul des origines.
+\4. En outre, les États de l’AELE et le Royaume hachémite de Jordanie conviennent d’examiner les possibilités d’inclure la Communauté européenne sur une base de réciprocité dans les dispositions de l’Accord qui régissent le cumul des origines.
 
-\5. Les Etats de l’AELE et le Royaume hachémite de Jordanie conviennent d’exa-miner la question d’une extension et d’une amélioration des possibilités de cumul, en particulier avec les pays de la Ligue arabe.
+\5. Les États de l’AELE et le Royaume hachémite de Jordanie conviennent d’exa-miner la question d’une extension et d’une amélioration des possibilités de cumul, en particulier avec les pays de la Ligue arabe.
 
-(Suivent les signatures)
-
-## Liste des annexes****
+## Liste des annexes
 
 [^annexu1-lvlu2-3]
 
-[^annexu1-lvlu2-3]: Ces documents (publiés en partie au [RO 2003 3893](https://fedlex.data.admin.ch/eli/oc/2003/569), à l’exception du Prot. d’entente) ne sont publiés ni au RO ni au RS (voir [RO 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2013 2715](https://fedlex.data.admin.ch/eli/oc/2013/556)[2717](https://fedlex.data.admin.ch/eli/oc/2013/557)[2829](https://fedlex.data.admin.ch/eli/oc/2013/583)). Ils sont disponibles en anglais et peuvent être consultés sur le site Internet du Secrétariat de l’AELE: www.efta.int/free-trade/free-trade-agreements/jordan/jcds.aspx
+[^annexu1-lvlu2-3]: Ces documents (publiés en partie au [RO 2003 3893](https://fedlex.data.admin.ch/eli/oc/2003/569), à l’exception du Prot. d’entente) ne sont publiés ni au RO ni au RS ([RO 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771); [2013 2715](https://fedlex.data.admin.ch/eli/oc/2013/556), [2717](https://fedlex.data.admin.ch/eli/oc/2013/557), [2829](https://fedlex.data.admin.ch/eli/oc/2013/583); [2025 849](https://fedlex.data.admin.ch/eli/oc/2025/849)). Ils sont disponibles en anglais et peuvent être consultés sur le site Internet du Secrétariat de l’AELE: [www.efta.int/trade-relations/free-trade-network/jordan](https://www.efta.int/trade-relations/free-trade-network/jordan).
 
 <table>
 <tr><td></td><td>**Record of understanding – Protocole d’entente**</td></tr>
@@ -538,32 +535,32 @@ Protocole d’entente
 <tr><td></td><td>Table III to Protocol A – Liechtenstein, Switzerland</td></tr>
 <tr><td></td><td>Table IV to Protocol A – Norway</td></tr>
 <tr><td></td><td>Table V to Protocol A – Jordan</td></tr>
-<tr><td>**Protocol B**</td><td></td></tr>
-<tr><td></td><td>Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
-<tr><td></td><td>Annex I to Protocol B – Introductory notes to the list in Annex 2</td></tr>
-<tr><td></td><td>Annex II to Protocol B – List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>
-<tr><td></td><td>Annex III A to Protocol B – Specimens of movement certificate EUR 1 and application for a movement certificate EUR 1</td></tr>
-<tr><td></td><td>Annex III B to Protocol B – Specimens of movement certificate EUR-MED and application for a movement certificate EUR-MED</td></tr>
-<tr><td></td><td>Annex IV A to Protocol B – Text of the invoice declaration</td></tr>
-<tr><td></td><td>Annex IV B to Protocol B – Text of the invoice declaration EUR-MED</td></tr>
-<tr><td></td><td>Annex V to Protocol B – Participating countries or territories</td></tr>
+<tr><td>**Protocol B**</td><td>Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
+<tr><td></td><td>Annex I to Protocol B – Introductory notes</td></tr>
+<tr><td></td><td>Annex II to Protocol B – List rules</td></tr>
+<tr><td></td><td>Annex III A to Protocol B – Movement certificate EUR 1</td></tr>
+<tr><td></td><td>Annex III B to Protocol B – Movement certificate EUR-MED</td></tr>
+<tr><td></td><td>Annex IV A to Protocol B – Invoice declaration</td></tr>
+<tr><td></td><td>Annex IV B to Protocol B – Invoice declaration EUR-MED</td></tr>
+<tr><td></td><td>Annex V to Protocol B – List of countries</td></tr>
 <tr><td>**Protocol C**</td><td>Monopolies not adjusted in accordance with article 11</td></tr>
 <tr><td>**Protocol D**</td><td>Referred to in Article 35 – Territorial application</td></tr>
-<tr><td>***Joint Commi******t******tee Decisions***</td><td></td></tr>
-<tr><td>*No 3-12*</td><td>Amendments to Protocol B</td></tr>
-<tr><td>No 2-12</td><td>Amending Annex III</td></tr>
-<tr><td>No 1-12</td><td>Amending Annex II</td></tr>
-<tr><td>No 1-06</td><td>Amendments to Protocol B</td></tr>
-<tr><td>No 4-04</td><td>Amendment to Protocol A</td></tr>
-<tr><td>No 3-04</td><td>Annex II</td></tr>
-<tr><td>No 2-04</td><td>Establishment of a Sub-Committee on customs and origin matters</td></tr>
-<tr><td>No 1-04</td><td>Rules of procedure Joint Committee</td></tr>
+<tr><td>***Joint Committee Decisions***</td><td></td></tr>
+<tr><td>*No 1/2025*</td><td>Amendments to Protocol B</td></tr>
+<tr><td>*No 3/2012*</td><td>Amendments to Protocol B</td></tr>
+<tr><td>No 2/2012</td><td>Amending Annex III</td></tr>
+<tr><td>No 1/2012</td><td>Amending Annex II</td></tr>
+<tr><td>No 1/2006</td><td>Amendments to Protocol B</td></tr>
+<tr><td>No 4/2004</td><td>Amendment to Protocol A</td></tr>
+<tr><td>No 3/2004</td><td>Annex II</td></tr>
+<tr><td>No 2/2004</td><td>Establishment of a Sub-Committee on customs and origin matters</td></tr>
+<tr><td>No 1/2004</td><td>Rules of procedure Joint Committee</td></tr>
 </table>
 
-### Champ d’application le 26 août 2003
+Champ d’application le 26 août 2003
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Islande</td><td>30 avril</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
 <tr><td>Jordanie</td><td>2 juin</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
 <tr><td>Liechtenstein</td><td>28 juin</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
