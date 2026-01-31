@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-01-21
+version: 2026-02-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260121/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260121-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260121/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 21 gennaio 2026)
+del 4 marzo 2022 (Stato 1° febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -4140,11 +4140,11 @@ Allegato 28[^t-33]
 
 ## Limiti massimi di prezzo per petrolio e prodotti petroliferi
 
-[^t-33]: Introdotto dalla cifra II cpv. 4 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I cpv. 2 dell’O dell’11 ago. 2025, in vigore dal 3 set. 2025 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)).
+[^t-33]: Introdotto dalla cifra II cpv. 4 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I dell’O del DEFR del 29 gen. 2026, in vigore dal 1° feb. 2026 ([RU 2026 46](https://fedlex.data.admin.ch/eli/oc/2026/46)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione</th><th>Prezzo al barile (USD)</th></tr>
-<tr><td>2709 00</td><td>Oli greggi di petrolio o di minerali bituminosi</td><td>47.60</td></tr>
+<tr><td>2709 00</td><td>Oli greggi di petrolio o di minerali bituminosi</td><td>44.10</td></tr>
 <tr><td></td><td>Oli di petrolio o di minerali bituminosi (diversi dagli oli greggi) e preparazioni non nominate né comprese altrove, contenenti in peso 70 % o più di oli di petrolio o di minerali bituminosi e delle quali questi oli costituiscono l’elemento base, contenenti biodiesel, diversi dai residui di oli</td><td></td></tr>
 <tr><td>2710 12</td><td>Oli leggeri e preparazioni</td><td></td></tr>
 <tr><td></td><td>destinati a essere utilizzati come carburante</td><td></td></tr>

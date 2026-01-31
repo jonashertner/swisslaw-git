@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-01-21
+version: 2026-02-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260121/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260121-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 21. Januar 2026)
+vom 4. März 2022 (Stand am 1. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -4145,11 +4145,11 @@ Anhang 28[^t-33]
 
 ## Preise für Erdöl und Erdölerzeugnisse
 
-[^t-33]: Eingefügt durch Ziff. II Abs. 4 der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 11. Aug. 2025, in Kraft seit 3. Sept. 2025 ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)).
+[^t-33]: Eingefügt durch Ziff. II Abs. 4 der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I der V des WBF vom 29. Jan. 2026, in Kraft seit 1. Febr. 2026 ([AS 2026 46](https://fedlex.data.admin.ch/eli/oc/2026/46)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Bezeichnung</th><th>Preis je Barrel (USD)</th></tr>
-<tr><td>2709 00</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh</td><td>47.60</td></tr>
+<tr><td>2709 00</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh</td><td>44.10</td></tr>
 <tr><td></td><td>Erdöl und Öl aus bituminösen Mineralien (ausg. rohe Öle) und Zubereitungen mit einem Gehalt an Erdöl oder Öl aus bituminösen Mineralien von 70 GHT oder mehr, in denen diese Öle der Grundbestandteil sind, anderweit weder genannt noch inbegriffen, ausgenommen solche, die Biodiesel enthalten, und ausgenommen Ölabfälle</td><td></td></tr>
 <tr><td>2710 12</td><td>Leichtöle und Zubereitungen</td><td></td></tr>
 <tr><td></td><td>zur Verwendung als Treibstoff</td><td></td></tr>
