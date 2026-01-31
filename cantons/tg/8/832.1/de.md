@@ -4,13 +4,12 @@ number: "832.1"
 title: Krankenversicherungsgesetz
 short: TG KVG
 language: de
-version: 2026-01-01
-valid_until: 2026-01-31
-version_adopted: 2025-05-07
+version: 2026-02-01
+version_adopted: 2025-09-10
 adopted: 1995-10-25
 in_force: 1996-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3013/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3016/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ TG KVG
 
 (TG KVG)
 
-vom 25.10.1995 (Stand 01.01.2026)
+vom 25.10.1995 (Stand 01.02.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -564,6 +563,30 @@ vom 25.10.1995 (Stand 01.01.2026)
 **Aufsicht**
 
 <sup>1</sup> Die Listenspitäler gewähren den zuständigen kantonalen Stellen zur Überprüfung der finanziellen Abgeltungen des Kantons Einsicht in ihre Bücher nach Massgabe des KVG.
+
+## 4a. Zulassung und Zulassungssteuerung
+
+#### § 40a
+
+**Zulassung**
+
+<sup>1</sup> Leistungserbringer nach Art. 35 Abs. 2 lit. a bis lit. g, lit. m und lit. n KVG bedürfen zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung einer Zulassung des Departements.
+
+<sup>2</sup> Die Zulassungsvoraussetzungen richten sich nach Bundesrecht.
+
+<sup>3</sup> Das Departement beaufsichtigt die Leistungserbringer. Es kann die Aufsicht ganz oder teilweise dem Amt für Gesundheit übertragen.
+
+<sup>4</sup> Die Zulassung verfällt, wenn die Tätigkeit nicht innerhalb von sechs Monaten ab Zulassungserteilung aufgenommen wird. Das Departement kann die Frist in begründeten Ausnahmefällen um maximal sechs Monate verlängern.
+
+<sup>5</sup> Der Regierungsrat regelt die Einzelheiten, insbesondere das Führen einer Warteliste und die Übertragung von Zulassungen bei Stellenwechsel oder Praxisübergabe.
+
+#### § 40b
+
+**Beschränkung der Anzahl Ärztinnen und Ärzte im ambulanten Bereich**
+
+<sup>1</sup> Der Regierungsrat legt die Höchstzahlen gemäss Art. 55a KVG fest.
+
+<sup>2</sup> Er kann einen sofortigen Zulassungsstopp in einem bestimmten Fachgebiet anordnen, sofern die Voraussetzungen gemäss Art. 55a Abs. 6 KVG erfüllt sind.
 
 ## 5.
 
