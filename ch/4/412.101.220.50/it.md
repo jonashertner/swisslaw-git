@@ -3,35 +3,36 @@ sr: "412.101.220.50"
 title: Ordinanza della SEFRI sulla formazione del 12 ottobre 2017 professionale di base. Meccanica di manutenzione per automobili/Meccanico di manutenzione per automobili con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/626"
 language: it
-version: 2024-04-01
+version: 2026-02-01
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/626/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2017-626-20240401-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/626/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/626/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2017-626-20260201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/626/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Meccanica di manutenzione per automobili/ Meccanico di manutenzione per automobili con attestato federale di capacità (AFC)
 
-del 12 ottobre 2017 (Stato 1° aprile 2024)
+del 12 ottobre 2017 (Stato 1° febbraio 2026)
 
 <table>
 <tr><td>46324</td><td>Meccanica/Meccanico di manutenzione per automobili AFC Automobil-Fachfrau EFZ/Automobil-Fachmann EFZ Mécanicienne en maintenance d’automobiles CFC/ Mécanicien en maintenance d’automobiles CFC</td></tr>
 <tr><td>46325</td><td colspan="2">Veicoli leggeri</td></tr>
-<tr><td>46326</td><td colspan="2">Veicoli utilitari</td></tr>
+<tr><td>46326[^ingress-1]</td><td colspan="2">Veicoli commerciali</td></tr>
 </table>
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-3] dell’ordinanza del 28 settembre 2007[^ingress-4] sulla protezione die giovani lavoratori (OLL 5),
+visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-2] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-3] sulla formazione professionale (OFPr); visto l’articolo 4*a* capoverso 1[^ingress-4] dell’ordinanza del 28 settembre 2007[^ingress-5] sulla protezione die giovani lavoratori (OLL 5),
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
+[^ingress-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-3]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-5]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto, indirizzi professionali e durata
 
@@ -54,9 +55,11 @@ I meccanici di manutenzione per automobili di livello AFC svolgono in particolar
 La formazione di meccanico di manutenzione per automobili di livello AFC prevede i seguenti indirizzi professionali:
 
 - a. veicoli leggeri;
-- b. veicoli utilitari.
+- b.[^1-1] veicoli commerciali.
 
 <sup>3</sup> L’indirizzo professionale è riportato nel contratto di tirocinio prima dell’inizio della formazione professionale di base.
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 #### Art. 2
 
@@ -126,7 +129,12 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
   - 4\. riparare la rete elettrica e l’impianto di illuminazione,
   - 5\. riparare i sottosistemi del motore,
   - 6\. riparare i componenti del gruppo propulsore,
-  - 7\. riparare i sistemi di comfort e di sicurezza.
+  - 7\. riparare i sistemi di comfort e di sicurezza,
+  - 8\.[^4-1] riparare i sistemi di assistenza alla guida e di infotainment,
+  - 9\.[^4-2] riparare i sistemi di propulsione elettrici e ibridi.
+
+[^4-1]: Introdotto dalla cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
+[^4-2]: Introdotto dalla cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
 
@@ -144,8 +152,8 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>6</sup> Per l’impiego di sostanze e preparati ai sensi dell’ordinanza del 18 maggio 2005[^5-2] sulla riduzione dei rischi inerenti ai prodotti chimici sono adottate misure particolari.
 
-[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^5-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -176,13 +184,14 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l*’*ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.[^7-2]
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 #### Art. 8
 
@@ -237,36 +246,46 @@ Il piano di formazione:
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione delle fonti.
 
 [^9-1]: Il piano di formazione del 12 ott. 2017 relativo all’O della SEFRI sulla formazione professionale di base Meccanica di manutenzione per automobili/Meccanico di manutenzione per automobili con attestato federale di capacità (AFC) è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z
-[^9-2]: [RS 814.812.38](https://fedlex.data.admin.ch/eli/cc/2005/505)
+[^9-2]: [RS 814.812.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9600)
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
 #### Art. 10
 
-**Requisiti professionali richiesti ai formatori**
+**Requisiti professionali richiesti ai formatori**[^10-1]
+
+<sup>1</sup>
 
 Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:
 
-- a. attestato federale di capacità meccanico di manutenzione per automobili AFC con almeno tre anni di esperienza nel campo d’insegnamento e modulo didattico dell’Unione professionale svizzera dell’automobile (UPSA) con diploma;
-- b. attestato federale di capacità di meccatronico d’automobili AFC con almeno tre anni di esperienza professionale nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- c. riparatore di autoveicoli qualificato con almeno cinque anni di esperienza professionale nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- d. meccanico d’automobili qualificato con almeno tre anni di esperienza professionale nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- e. elettricista-elettronico per autoveicoli qualificato con almeno tre anni di esperienza professionale nel campo d’insegnamento e modulo didattico UPSA con diploma;
-- f. titolo della formazione professionale superiore in ambito pertinente.
+- a. attestato federale di capacità di meccanico di manutenzione per automobili AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- b. attestato federale di capacità di meccatronico d’automobili AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività del meccanico di manutenzione per automobili AFC o del meccatronico d’automobili AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- d. titolo della formazione professionale superiore in ambito pertinente e almeno due anni di esperienza professionale nel campo d’insegnamento;
+
+<sup>2</sup> Oltre alle qualifiche di cui al capoverso 1, i formatori hanno conseguito l’attestato di un modulo didattico dell’Unione professionale svizzera dell’automobile (UPSA).
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 #### Art. 11
 
 **Numero massimo di persone in formazione in azienda**
 
-<sup>1</sup> Nelle aziende che impiegano un formatore al 100 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.
+<sup>1</sup> Nelle aziende che impiegano un formatore all’80 per cento o due formatori ciascuno almeno al 50 per cento può svolgere il tirocinio una persona in formazione.[^11-1]
 
-<sup>2</sup> Per ogni altro specialista impiegato al 100 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
+<sup>2</sup> Per ogni altro specialista impiegato all’80 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 50 per cento può svolgere il tirocinio una persona in formazione in più.[^11-2]
 
 <sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità, di un certificato federale di formazione pratica o di una qualifica equivalente nel campo della persona in formazione.
 
 <sup>4</sup> Nelle aziende che possono impiegare soltanto una persona in formazione una seconda persona può iniziare il tirocinio quando la prima inizia l’ultimo anno della formazione professionale di base.
 
 <sup>5</sup> In casi particolari l’autorità cantonale può autorizzare un numero maggiore di persone in formazione nelle aziende che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
+
+<sup>6</sup> L’azienda pianifica gli orari lavorativi dei formatori e degli specialisti affinché, durante la pratica professionale, la persona in formazione possa essere seguita da un formatore o da uno specialista.[^11-3]
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
+[^11-3]: Introdotto dalla cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 ## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
@@ -370,11 +389,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>5</td><td>Campi di competenze operative 1-4 combinati (colloquio professionale)</td><td></td><td colspan="2">45 min.</td><td>20 %</td></tr>
 </table>
 
-- c. «cultura generale». A questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c.[^18-1] «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^18-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -443,6 +463,8 @@ In questo caso, per il calcolo della nota complessiva valgono le note sottoelenc
 
 <sup>1</sup> Chi ha superato la procedura di qualificazione consegue l’attestato federale di capacità (AFC).
 
+<sup>2bis</sup> L’attestato federale di capacità riporta l’indirizzo professionale.[^22-1]
+
 <sup>2</sup> L’attestato federale di capacità conferisce il diritto di avvalersi del titolo legalmente protetto di «meccanica di manutenzione per automobili AFC»/«meccanico di manutenzione per automobili AFC».
 
 <sup>3</sup>
@@ -452,6 +474,8 @@ Se l’attestato federale di capacità è stato conseguito mediante procedura di
 - a. la nota complessiva;
 - b. le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 21 capoverso 1, la nota dei luoghi di formazione;
 - c. l’indirizzo professionale.
+
+[^22-1]: Introdotto dalla cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 ## Sezione 10: Sviluppo della qualità e organizzazione
 
@@ -517,15 +541,17 @@ L’ordinanza della SEFRI del 20 dicembre 2006[^25-1] sulla formazione professio
 
 #### Art. 26
 
-**Disposizioni transitorie e prima applicazione di singole disposizioni**
+**Disposizioni transitorie della modifica del 7 novembre 2025 e prima applicazione di singole disposizioni**[^26-1]
 
-<sup>1</sup> Le persone che hanno iniziato la formazione di meccanico di manutenzione per automobili prima del 1° gennaio 2018 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2022.
+<sup>1</sup> Le competenze operative di cui all’articolo 4 lettera d numeri 8 e 9 della modifica del 7 novembre 2025 sono valutate nella procedura di qualificazione con esame finale per meccanico di manutenzione per automobili AFC a partire dal 1° gennaio 2029.
 
-<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per meccanico di manutenzione per automobili entro il 31 dicembre 2022 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+<sup>2</sup> Le persone che hanno iniziato la formazione di meccanico di manutenzione per automobili AFC prima dell’entrata in vigore della modifica del 7 novembre 2025 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2030.
 
-<sup>3</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 16–22) si applicano dal 1° gennaio 2021.
+<sup>3</sup> Le persone che, dopo l’entrata in vigore della modifica del 7 novembre 2025, iniziano una formazione abbreviata la svolgono e la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2030.
 
-<sup>4</sup> I formatori di cui all’articolo 10 lettere a–e devono aver conseguito il diploma del modulo didattico UPSA entro il 31 dicembre 2020.
+<sup>4</sup> I candidati che hanno portato a termine la procedura di qualificazione con esame finale per meccanico di manutenzione per automobili AFC in base al diritto anteriore e che la ripetono entro il 31 dicembre 2030 sono valutati in base al diritto anteriore.
+
+[^26-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° feb. 2026 ([RU 2025 742](https://fedlex.data.admin.ch/eli/oc/2025/742)).
 
 #### Art. 27
 
