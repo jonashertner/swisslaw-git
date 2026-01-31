@@ -4,13 +4,13 @@ number: "311.1"
 title: Einführungsgesetz zum Strafgesetzbuch
 short: EGStGB
 language: de
-version: 2025-01-01
-valid_until: 2026-01-31
-version_adopted: 2024-09-12
+version: 2026-02-01
+valid_until: 2026-09-30
+version_adopted: 2025-09-11
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/de/versions/3544/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3565/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3544/pdf_file"
 
 (EGStGB)
 
-vom 12.05.2016 (Stand 01.01.2025)
+vom 12.05.2016 (Stand 01.02.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -308,6 +308,8 @@ verordnet:[^ingress-1]
 - a) die Normen der StPO zu den selbstständigen nachträglichen Entscheiden des Gerichts und den Zwangsmassnahmen;
 - b) das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) darüber hinaus.
 
+<sup>2<sup>bis</sup></sup> Die Vollzugsbehörde hat Parteistellung in den Verfahren betreffend selbstständige nachträgliche richterliche Entscheide, die in die Zuständigkeit der Gerichtsbehörde fallen.
+
 <sup>3</sup> Die Rechtsmittel sind in der EGStPO geregelt.
 
 #### Art. 26
@@ -322,6 +324,8 @@ verordnet:[^ingress-1]
 
 - a) die Weigerung, das angeordnete Vollzugsdatum einer Strafe oder Massnahme aufzuschieben;
 - b) eine Disziplinarsanktion.
+
+<sup>2<sup>bis</sup></sup> Die Vollzugsbehörde ist beschwerdeberechtigt gegen selbstständige nachträgliche administrative Entscheide, die in die Zuständigkeit der Gerichtsbehörde fallen.
 
 <sup>3</sup> Ohne gegenteilige Bestimmungen unterliegen die erstinstanzlichen Entscheide der Verwaltungsbehörden der Verwaltungsgerichtsbeschwerde an einen Einzelrichter des Kantonsgerichts.
 

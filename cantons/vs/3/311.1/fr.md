@@ -4,13 +4,13 @@ number: "311.1"
 title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2025-01-01
-valid_until: 2026-01-31
-version_adopted: 2024-09-12
+version: 2026-02-01
+valid_until: 2026-09-30
+version_adopted: 2025-09-11
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3544/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3565/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3544/pdf_file"
 
 (LACP)
 
-du 12.05.2016 (état 01.01.2025)
+du 12.05.2016 (état 01.02.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -308,6 +308,8 @@ ordonne:[^ingress-1]
 - a) les règles du CPP traitant des décisions judiciaires ultérieures indépendantes et des mesures de contrainte;
 - b) la loi sur la procédure et la juridiction administratives (LPJA) pour le surplus.
 
+<sup>2<sup>bis</sup></sup> L'autorité d'exécution a qualité de partie dans la procédure dont l'objet est une décision judiciaire ultérieure indépendante de la compétence de l'autorité judiciaire.
+
 <sup>3</sup> La LACPP traite de la voie de recours.
 
 #### Art. 26
@@ -322,6 +324,8 @@ ordonne:[^ingress-1]
 
 - a) le refus de différer la date d'exécution de la peine ou de la mesure;
 - b) une sanction disciplinaire.
+
+<sup>2<sup>bis</sup></sup> L'autorité d'exécution a qualité pour agir contre les décisions ultérieures indépendantes administratives de la compétence de l'autorité judiciaire.
 
 <sup>3</sup> Sauf dispositions contraires, les décisions de première instance des autorités administratives sont susceptibles d'un recours de droit administratif auprès d'un juge du Tribunal cantonal.
 
