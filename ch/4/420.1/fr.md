@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 2012 sur l'encouragement de la recherche 
 short: LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: fr
-version: 2023-07-01
+version: 2026-02-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20260201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/fr"
 
 (LERI)
 
-du 14 décembre 2012 (État le 1<sup>er</sup> juillet 2023)
+du 14 décembre 2012 (État le 1<sup>er</sup> février 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -102,7 +102,7 @@ Les organes de recherche au sens de la présente loi sont:
   - 2\. elle assume des tâches en matière d’encouragement de la recherche et de l’innovation.
 
 [^4-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^4-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1er janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^4-3]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^4-4]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
@@ -265,12 +265,15 @@ Elles utilisent notamment aux fins suivantes les contributions fédérales qui l
 
 <sup>6</sup> Elles peuvent soutenir des bases de données, des systèmes de documentation, des revues scientifiques, des éditions ou des structures analogues qui constituent des infrastructures de recherche utiles au développement de domaines scientifiques en Suisse et qui ne relèvent pas de la compétence du FNS ou des établissements de recherche du domaine des hautes écoles en matière d’encouragement ni ne sont soutenus directement par la Confédération.
 
-<sup>7</sup> Le SEFRI conclut périodiquement une convention de prestations avec les Académies suisses des sciences sur la base des arrêtés financiers votés par l’Assemblée fédérale. Il peut y charger les Académies et les différentes institutions visées à l’art. 4, let. a, ch. 2, de la réalisation d’évaluations, de la conduite de projets scientifiques, de l’exploitation de structures au sens de l’al. 6 et d’autres tâches spéciales dans le cadre des tâches et des compétences qui leur sont dévolues en vertu des al. 2 à 6.[^11-4]
+<sup>6bis</sup> Afin d’assurer la continuité de leur encouragement de la recherche, elles peuvent utiliser une partie des contributions de la Confédération pour constituer des capitaux propres sous la forme de réserves. Le niveau de ces réserves ne doit pas dépasser 10 % de la contribution fédérale versée aux Académies suisses des sciences pour l’année concernée.[^11-4]
+
+<sup>7</sup> Le SEFRI conclut périodiquement une convention de prestations avec les Académies suisses des sciences sur la base des arrêtés financiers votés par l’Assemblée fédérale. Il peut y charger les Académies et les différentes institutions visées à l’art. 4, let. a, ch. 2, de la réalisation d’évaluations, de la conduite de projets scientifiques, de l’exploitation de structures au sens de l’al. 6 et d’autres tâches spéciales dans le cadre des tâches et des compétences qui leur sont dévolues en vertu des al. 2 à 6.[^11-5]
 
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-4]: Introduit par le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 844](https://fedlex.data.admin.ch/eli/oc/2025/844); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^11-5]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 
@@ -692,8 +695,8 @@ Dans la limite des crédits ouverts, le Conseil fédéral peut allouer les contr
 
 [^29-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^29-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^29-3]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1<sup><sup>er</sup></sup> mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-4]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1<sup><sup>er</sup></sup> mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-3]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1er mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-4]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1er mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
 [^29-5]: Anciennement let. d. Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^29-6]: Anciennement let. e. Abrogée par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> mars 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
@@ -824,7 +827,7 @@ L’Assemblée fédérale adopte les arrêtés fédéraux simples ouvrant les pl
 - d. les crédits d’engagements des contributions destinées à la coopération internationale en matière de recherche et d’innovation;
 - e[^36-2]. le plafond de dépenses pour les contributions aux charges de fonctionnement de l’institution responsable du parc suisse d’innovation visée à l’art. 33, al. 2, let. b.
 
-[^36-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^36-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1er janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^36-2]: Introduite par le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 15 avr. 2021 ([RO 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3577](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 37
@@ -964,7 +967,7 @@ Les éléments de la planification de la politique de la recherche et de l’inn
 
 <sup>6</sup> Il soumet périodiquement à l’Assemblée fédérale, avec le message FRI, un rapport sur les résultats des expertises au sens de l’al. 1 et sur sa stratégie en matière de politique d’encouragement de la recherche et de l’innovation.
 
-[^44-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
+[^44-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1er janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 45
 
@@ -1100,7 +1103,7 @@ Sur mandat du gouvernement ou du DEFR, le CSS exerce les tâches suivantes:
 - c. assister le DEFR dans son examen périodique de la politique suisse de la recherche et de l’innovation;
 - d. conseiller le Conseil fédéral dans la mise en œuvre de la présente loi.
 
-[^54-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
+[^54-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1er janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
 [^54-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 55
@@ -1145,7 +1148,7 @@ Le Conseil fédéral édicte les dispositions d’exécution.
 
 Les conseillers qui exercent l’une des activités visées à l’art. 20, al. 2, let. a, et 3, au moment de l’entrée en vigueur de la modification du 17 juin 2016, sont réputés qualifiés au sens de l’art. 21 dans le cadre du contrat en cours.
 
-[^57a-1]: Introduit par l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^57a-1]: Introduit par l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1er janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 58
 

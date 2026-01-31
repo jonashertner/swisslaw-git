@@ -4,11 +4,11 @@ title: "Lescha federala dals 14 da december 2012 davart la promoziun da la persc
 short: LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: rm
-version: 2023-07-01
+version: 2026-02-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-rm-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20260201/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20260201-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20260201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPI)
 
-dals 14 da december 2012 (versiun dal 1. da fanadur 2023)
+dals 14 da december 2012 (versiun dal 1. da favrer 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -267,13 +267,16 @@ Ellas utiliseschan las contribuziuns federalas en spezial per ils suandants inte
 
 <sup>6</sup> Ellas pon sustegnair collecziuns da datas, sistems da documentaziun, revistas scientificas, ediziuns u chaussas sumegliantas che servan sco infrastructuras da perscrutaziun a sviluppar champs spezialisads en Svizra e che na pertutgan betg la cumpetenza da promoziun dal FNS u dals instituts da la perscrutaziun en scolas autas u che na vegnan betg sustegnidas directamain da la Confederaziun.
 
-<sup>7</sup> Il SEFRI fa periodicamain ina cunvegna da prestaziun cun las Academias svizras da las scienzas, e quai sin basa dals conclus finanzials da l’Assamblea federala. En questa cunvegna po il SEFRI incaricar ellas e las singulas instituziuns tenor l’alinea 4 litera a cifra 2 da far evaluaziuns, da realisar projects scientifics, da manar instituziuns tenor l’alinea 6 e da liquidar ulteriuras incumbensas spezialas en il rom da lur incumbensas e cumpetenzas tenor ils alineas 2–6.[^11-5]
+<sup>6bis</sup> Per garantir la cuntinuitad da lur promoziun da la perscrutaziun pon las Academias svizras da las scienzas duvrar ina part da las contribuziuns da la Confederaziun per furmar agen chapital en furma da reservas. L’onn da gestiun respectiv na dastgan las reservas betg surpassar 10 pertschient da la contribuziun federala annuala respectiva a las Academias svizras da las scienzas.[^11-5]
+
+<sup>7</sup> Il SEFRI fa periodicamain ina cunvegna da prestaziun cun las Academias svizras da las scienzas, e quai sin basa dals conclus finanzials da l’Assamblea federala. En questa cunvegna po il SEFRI incaricar ellas e las singulas instituziuns tenor l’alinea 4 litera a cifra 2 da far evaluaziuns, da realisar projects scientifics, da manar instituziuns tenor l’alinea 6 e da liquidar ulteriuras incumbensas spezialas en il rom da lur incumbensas e cumpetenzas tenor ils alineas 2–6.[^11-6]
 
 [^11-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-3]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-4]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-5]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-5]: Integrà tras la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. da favr. 2026 ([AS 2025 844](https://fedlex.data.admin.ch/eli/oc/2025/844); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^11-6]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 

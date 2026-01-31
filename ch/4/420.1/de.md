@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 2012 über die Förderung der Forschung und
 short: FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: de
-version: 2023-07-01
+version: 2026-02-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20260201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/de"
 
 (FIFG)
 
-vom 14. Dezember 2012 (Stand am 1. Juli 2023)
+vom 14. Dezember 2012 (Stand am 1. Februar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -265,13 +265,16 @@ Sie verwenden die ihnen vom Bund gewährten Beiträge namentlich für folgende Z
 
 <sup>6</sup> Sie können Datensammlungen, Dokumentationssysteme, wissenschaftliche Zeitschriften, Editionen oder ähnliche Einrichtungen unterstützen, die als Forschungsinfrastrukturen der Entwicklung von Fachgebieten in der Schweiz dienen und die nicht in die Förderzuständigkeit des SNF oder der Hochschulforschungsstätten fallen oder direkt vom Bund unterstützt werden.
 
-<sup>7</sup> Das SBFI schliesst mit den Akademien der Wissenschaften Schweiz, gestützt auf die Finanzbeschlüsse der Bundesversammlung, periodisch eine Leistungsvereinbarung ab. Darin kann das SBFI sie und die einzelnen Institutionen gemäss Artikel 4 Buchstabe a Ziffer 2 im Rahmen ihrer Aufgaben und Befugnisse nach den Absätzen 2–6 mit Evaluationen, mit der Durchführung wissenschaftlicher Projekte, dem Betreiben von Einrichtungen nach Absatz 6 und mit weiteren Spezialaufgaben beauftragen.[^11-5]
+<sup>6bis</sup> Die Akademien der Wissenschaften Schweiz können zur Sicherung der Kontinuität ihrer Forschungsförderung einen Teil der Beiträge des Bundes zur Bildung von Eigenkapital in Form von Reserven verwenden. Der Bestand der Reserven darf im jeweiligen Rechnungsjahr 10 Prozent des jeweiligen jährlichen Bundesbeitrags an die Akademien der Wissenschaften Schweiz nicht überschreiten.[^11-5]
+
+<sup>7</sup> Das SBFI schliesst mit den Akademien der Wissenschaften Schweiz, gestützt auf die Finanzbeschlüsse der Bundesversammlung, periodisch eine Leistungsvereinbarung ab. Darin kann das SBFI sie und die einzelnen Institutionen gemäss Artikel 4 Buchstabe a Ziffer 2 im Rahmen ihrer Aufgaben und Befugnisse nach den Absätzen 2–6 mit Evaluationen, mit der Durchführung wissenschaftlicher Projekte, dem Betreiben von Einrichtungen nach Absatz 6 und mit weiteren Spezialaufgaben beauftragen.[^11-6]
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-5]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-5]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. Febr. 2026 ([AS 2025 844](https://fedlex.data.admin.ch/eli/oc/2025/844); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^11-6]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 

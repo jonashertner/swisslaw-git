@@ -4,11 +4,11 @@ title: Federal Act of 14 December 2012 on the Promotion of Research and Innovati
 short: RIPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: en
-version: 2023-07-01
+version: 2026-02-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-en-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20260201/en/xml/fedlex-data-admin-ch-eli-cc-2013-786-20260201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20260201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RIPA)
 
-of 14 December 2012 (Status as of 1 July 2023)
+of 14 December 2012 (Last amended on 1 February 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -267,13 +267,16 @@ They shall use the contributions granted by the Confederation for the following 
 
 <sup>6</sup> They may support data collections, documentation systems, scientific journals, publications, or similar institutions, which serve as useful infrastructures for the development of fields of expertise in Switzerland and which do not come under the remit of the SNSF or the higher education research centres or do not receive direct support from the Confederation.
 
-<sup>7</sup> Based on the financing decisions of the Federal Assembly, SERI shall periodically enter into a service level agreement with the Swiss Academies of Arts and Sciences. In this document, SERI may assign them and the individual institutions mentioned in Article 4 letter a number 2, within the scope of their tasks and powers, the task of conducting evaluations under paragraphs 2–6, implementing scientific projects, running institutions under paragraph 6 and other special tasks.[^11-5]
+<sup>6bis</sup> In order to ensure the continuity of its research funding, the Swiss Academies of Arts and Sciences may use part of the funding provided by the Confederation to build up equity in the form of reserves. The amount of the reserves in any financial year may not exceed 10 per cent of the annual funding provided by the Confederation in that year to the Swiss Academies of Arts and Sciences.[^11-5]
+
+<sup>7</sup> Based on the financing decisions of the Federal Assembly, SERI shall periodically enter into a service level agreement with the Swiss Academies of Arts and Sciences. In this document, SERI may assign them and the individual institutions mentioned in Article 4 letter a number 2, within the scope of their tasks and powers, the task of conducting evaluations under paragraphs 2–6, implementing scientific projects, running institutions under paragraph 6 and other special tasks.[^11-6]
 
 [^11-1]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-2]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-3]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-4]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-5]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-5]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 Feb. 2026 ([AS 2025 844](https://fedlex.data.admin.ch/eli/oc/2025/844); [BBl 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^11-6]: Amended by No I of the FA of 17 Dec. 2021 (Changes in the Promotion of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 

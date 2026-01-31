@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 2012 sulla promozione della ricerca e del
 short: LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: it
-version: 2023-07-01
+version: 2026-02-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230701-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20260201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230701/it"
 
 (LPRI)
 
-del 14 dicembre 2012 (Stato 1° luglio 2023)
+del 14 dicembre 2012 (Stato 1° febbraio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -265,13 +265,16 @@ Impiegano i sussidi accordati loro dalla Confederazione segnatamente per i segue
 
 <sup>6</sup> Possono sostenere collezioni di dati, sistemi di documentazione, riviste scientifiche, pubblicazioni o strutture analoghe che costituiscono infrastrutture di ricerca utili allo sviluppo di settori scientifici in Svizzera e non rientrano nell’ambito di competenza del FNS o dei centri di ricerca universitari o non sono sostenuti direttamente dalla Confederazione.
 
-<sup>7</sup> La SEFRI conclude periodicamente con le Accademie svizzere delle scienze una convenzione sulle prestazioni fondata sui decreti di finanziamento dell’Assemblea federale. In tale convenzione può incaricare le stesse Accademie e le singole istituzioni di cui all’articolo 4 lettera a numero 2 di effettuare valutazioni, svolgere progetti scientifici, gestire strutture di cui al capoverso 6 e svolgere altri compiti speciali nell’ambito dei compiti e delle competenze di cui ai capoversi 2–6.[^11-5]
+<sup>6bis</sup> Per garantire la continuità delle loro attività di promozione della ricerca, le Accademie svizzere delle scienze possono impiegare una parte dei sussidi della Confederazione per costituire un capitale proprio sotto forma di riserve. Nel rispettivo anno contabile l’ammontare delle riserve non può eccedere il 10 per cento del sussidio federale annuo.[^11-5]
+
+<sup>7</sup> La SEFRI conclude periodicamente con le Accademie svizzere delle scienze una convenzione sulle prestazioni fondata sui decreti di finanziamento dell’Assemblea federale. In tale convenzione può incaricare le stesse Accademie e le singole istituzioni di cui all’articolo 4 lettera a numero 2 di effettuare valutazioni, svolgere progetti scientifici, gestire strutture di cui al capoverso 6 e svolgere altri compiti speciali nell’ambito dei compiti e delle competenze di cui ai capoversi 2–6.[^11-6]
 
 [^11-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^11-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^11-5]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-5]: Introdotto dalla cifra I della LF del 27 set. 2024, in vigore dal 1° feb. 2026 ([RU 2025 844](https://fedlex.data.admin.ch/eli/oc/2025/844); [FF 2024 900](https://fedlex.data.admin.ch/eli/fga/2024/900)).
+[^11-6]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 
@@ -685,9 +688,9 @@ Nei limiti dei crediti stanziati, il Consiglio federale può accordare i sussidi
   sussidi a istituzioni e organizzazioni a scopo non lucrativo per le seguenti attività, nella misura in cui non vengono svolte direttamente dalla Confederazione:
 
   - 1\. informazione delle cerchie interessate in Svizzera su attività e programmi di cooperazione scientifica internazionale nel settore della ricerca e dell’innovazione,
-  - 2\. consulenza e supporto alle cerchie interessate in Svizzera nell’elaborazione e nella presentazione di domande concernenti programmi e progetti internazionali nel settore della ricerca e dell’innovazione.
+  - 2\. consulenza e supporto alle cerchie interessate in Svizzera nell’elaborazione e nella presentazione di domande concernenti programmi e progetti internazionali nel settore della ricerca e dell’innovazione;
 
-- g.[^29-6] …
+- g.[^29-6] ...
 
 <sup>2</sup> Il Consiglio federale disciplina il calcolo dei sussidi e la procedura.
 
@@ -1170,5 +1173,5 @@ Data dell’entrata in vigore: 1° gennaio 2014[^58-3] Art. 4 lett. c n. 2, 7 cp
 
 [^58-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^58-2]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109)]
-[^58-3]: DCF del 29 nov. 2013.
+[^58-3]: DCF del 29 nov. 2013
 [^58-4]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771); in vigore dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)).
