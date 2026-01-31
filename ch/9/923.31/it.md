@@ -3,20 +3,20 @@ sr: "923.31"
 title: Ordinanza del DATEC del 9 ottobre 1997 concernente la pesca nel Lago Superiore di Costanza
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: it
-version: 2024-01-01
+version: 2026-02-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20260201/it/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20260201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC concernente la pesca nel Lago Superiore di Costanza
 
-del 9 ottobre 1997 (Stato 1° gennaio 2024)[^t-1]
+del 9 ottobre 1997 (Stato 1° febbraio 2026)[^t-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 ott. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 24 ott. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC)[^ingress-1],
 
@@ -24,8 +24,8 @@ visto l’articolo 14 capoverso 3 dell’ordinanza del 24 novembre 1993[^ingress
 
 ordina:
 
-[^ingress-1]: Nuovo termine giusta il n. I dell’O del DATEC del 30 ago. 1999, in vigore dal 15 set. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^ingress-2]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^ingress-1]: Nuovo termine giusta la cifra I dell’O del DATEC del 30 ago. 1999, in vigore dal 15 set. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^ingress-2]: [RS 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 
 ## Capitolo 1: Diritto di esercitare la pesca
 
@@ -49,7 +49,7 @@ Ai sensi della presente ordinanza:
 
 <sup>3</sup> La patente di pesca d’alto lago dà diritto a esercitare la pesca professionale in alto lago e nella zona del declivio svizzero.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 
 #### Art. 2a
 
@@ -59,7 +59,7 @@ Ai sensi della presente ordinanza:
 
 <sup>2</sup> Può essere sostituto soltanto chi è o è stato a sua volta titolare di una patente di pesca sul declivio o di una patente di pesca d’alto lago, oppure chi ha un’esperienza professionale di almeno due anni nella pesca fluviale e lacustre come itticoltore, operaio specializzato della pesca professionale o esperto dell’industria peschereccia.
 
-[^2a-1]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^2a-1]: Introdotto dalla cifra I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 
 #### Art. 2b
 
@@ -69,8 +69,8 @@ Ai sensi della presente ordinanza:
 
 <sup>2</sup> La patente con limite di età autorizza sia alla pesca in alto lago con rete flottante ancorata, con la rispettiva magliatura minima ammessa, sia alla pesca nella zona del declivio svizzero.[^2b-2]
 
-[^2b-1]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^2b-2]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^2b-1]: Introdotto dalla cifra I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^2b-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 2c
 
@@ -91,12 +91,12 @@ La patente di aggiornamento può essere concessa:
 - a. agli itticoltori che devono acquisire i due anni di esperienza professionale in vista del corso di aggiornamento per diventare esperti dell’industria peschereccia, al massimo per due anni;
 - b. a coloro che soddisfano i requisiti di ammissione all’esame di esperto dell’industria peschereccia e che sono iscritti al relativo corso di aggiornamento, per il periodo fino al completamento di detta formazione ma al massimo per quattro anni.[^2c-6]
 
-[^2c-1]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^2c-2]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-3]: Nuovo testo giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
-[^2c-4]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-5]: Introdotto dal n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-6]: Introdotto dal n. I dell’O del DATEC del 30 nov. 2020 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)). Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^2c-1]: Introdotto dalla cifra I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^2c-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-3]: Nuovo testo giusta la cifra I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^2c-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-5]: Introdotto dalla cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-6]: Introdotto dalla cifra I dell’O del DATEC del 30 nov. 2020 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)). Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 2d
 
@@ -114,7 +114,7 @@ Per le patenti da essi rilasciate, i Cantoni di San Gallo e Turgovia definiscono
 - d. le tariffe e gli emolumenti per il rilascio delle patenti;
 - e. le domeniche e i giorni festivi legali in cui la presente ordinanza limita l’esercizio della pesca professionale.
 
-[^2d-1]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^2d-1]: Introdotto dalla cifra I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 
 #### Art. 3
 
@@ -156,9 +156,9 @@ L’autorizzazione speciale ai sensi del capoverso l lettera d è accordata unic
 
 <sup>4</sup> I competenti organi di vigilanza sulla pesca comunicano agli autorizzati alla pesca l’inizio e la fine della stessa, il genere e la quantità delle catture di riproduttori.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DATEC del 15 ott. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3581](https://fedlex.data.admin.ch/eli/oc/2001/533)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del DATEC del 15 ott. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3581](https://fedlex.data.admin.ch/eli/oc/2001/533)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del DATEC del 15 ott. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3581](https://fedlex.data.admin.ch/eli/oc/2001/533)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 15 ott. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3581](https://fedlex.data.admin.ch/eli/oc/2001/533)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 15 ott. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3581](https://fedlex.data.admin.ch/eli/oc/2001/533)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 15 ott. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3581](https://fedlex.data.admin.ch/eli/oc/2001/533)).
 
 ## Capitolo 2: Attrezzi, generi e periodi di pesca
 
@@ -201,9 +201,9 @@ L’esercizio della pesca professionale è permesso soltanto con gli attrezzi se
 
 <sup>3</sup> I Cantoni di San Gallo e di Turgovia sono autorizzati a imporre ai titolari delle patenti da loro rilasciate ulteriori limitazioni relative agli attrezzi, ai generi e ai periodi di pesca, qualora serva alla conservazione di un patrimonio ittico pregiato e ricco di specie.
 
-[^5-1]: Abrogato dal n. I dell’O del DATEC del 28 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
-[^5-2]: Nuova espr. giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^5-3]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^5-1]: Abrogato dalla cifra I dell’O del DATEC del 28 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
+[^5-2]: Nuova espr. giusta la cifra I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-3]: Introdotto dalla cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 6
 
@@ -228,7 +228,7 @@ L’esercizio della pesca sportiva è permesso soltanto con gli attrezzi seguent
 
 <sup>4</sup> Le reti e i complessi di reti così come i palamiti devono essere segnalati ad entrambe le estremità con boe o altri galleggianti. Sulle boe sono iscritti nome e cognome del titolare della patente e sui galleggianti le sole iniziali. In caso di possibili confusioni, occorre un contrassegno complementare. Sono salve le disposizioni del diritto della navigazione.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
 
 #### Art. 8
 
@@ -242,9 +242,9 @@ L’esercizio della pesca sportiva è permesso soltanto con gli attrezzi seguent
 
 <sup>4</sup> Tutti gli attrezzi di cattura impiegati devono essere controllati e se del caso vuotati almeno ogni due giorni; sono fatti salvi gli articoli 16 capoverso 2 e 17 capoverso 2, nonché le disposizioni più severe emanate dai Cantoni competenti.[^8-3]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
-[^8-3]: Introdotto dal n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^8-3]: Introdotto dalla cifra I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 
 #### Art. 9
 
@@ -254,7 +254,7 @@ L’esercizio della pesca sportiva è permesso soltanto con gli attrezzi seguent
 
 <sup>2</sup> I radiogoniometri e gli altri apparecchi elettronici sono autorizzati soltanto per rilevare i complessi di reti flottanti libere. Chi intende utilizzare i radiogoniometri deve fornire agli organi di vigilanza sulla pesca i dati sugli apparecchi impiegati e sulle loro frequenze di trasmissione. Restano salve le disposizioni relative al diritto sulle telecomunicazioni.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
 
 ### Sezione 2: Disposizioni speciali per i singoli attrezzi di cattura
 
@@ -273,15 +273,15 @@ Le reti flottanti libere possono essere impiegate soltanto per la cattura di rip
 
 <sup>2</sup> Non sono ammesse le ralinghe superiori natanti. Le estremità delle reti del complesso di reti flottanti libere sono da contrassegnare in quanto tali.[^10-3]
 
-<sup>3</sup> a <sup>8</sup> ... [^10-4]
+<sup>3 a <sup>8</sup></sup> ... [^10-4]
 
 <sup>9</sup> ...[^10-5]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del DATEC del 16 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2675](https://fedlex.data.admin.ch/eli/oc/2000/438)).
-[^10-4]: Abrogati dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^10-5]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dal n. I dell’O del 30 ago. 2002, con effetto dal 1° set. 2002 ([RU 2002 3952](https://fedlex.data.admin.ch/eli/oc/2002/624)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 16 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2675](https://fedlex.data.admin.ch/eli/oc/2000/438)).
+[^10-4]: Abrogati dalla cifra I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^10-5]: Introdotto dalla cifra I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dalla cifra I dell’O del 30 ago. 2002, con effetto dal 1° set. 2002 ([RU 2002 3952](https://fedlex.data.admin.ch/eli/oc/2002/624)).
 
 #### Art. 11
 
@@ -308,12 +308,12 @@ Per la rete flottante ancorata valgono le seguenti misure massime e minime:
 
 <sup>7</sup> ...[^11-6]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^11-4]: Nuovo testo giusta il n. I dell’O del DATEC del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 741](https://fedlex.data.admin.ch/eli/oc/2021/741)).
-[^11-5]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^11-6]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^11-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 741](https://fedlex.data.admin.ch/eli/oc/2021/741)).
+[^11-5]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^11-6]: Introdotto dalla cifra I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dalla cifra I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 12
 
@@ -341,23 +341,16 @@ All’impiego di complessi di reti tese di cui ai capoversi 1 e 3 si applicano l
 - c. dall’11 maggio al 15 ottobre devono essere levati di sabato entro le ore 12.00 e nei giorni feriali precedenti i giorni festivi entro le ore 18.00;
 - d. dall’11 maggio al 15 ottobre possono essere posati di domenica e nei giorni festivi soltanto a partire dalle ore 17.00.[^12-4]
 
-<sup>4</sup>
-
-I complessi di reti tese:
-
-- a. non possono essere levati di domenica e nei giorni festivi dalle ore 12.00 del 10 gennaio alle ore 12.00 del 31 marzo;
-- b. possono essere posati dalle ore 12.00 del 31 marzo alle ore 12.00 del 15 ottobre soltanto dal lunedì al giovedì; devono essere levati al più tardi alle ore 12.00 del venerdì.
-
 <sup>5</sup> Il complesso di reti tese deve essere ancorato ad ambo le estremità. Deve essere posato in modo che almeno una si trovi sul declivio. Nel caso della patente di pesca sul declivio e della patente con limite di età, entrambe le estremità devono trovarsi sul declivio. La distanza da altri complessi di reti tese come pure da reti da posta a maglia grande e da complessi di reti flottanti ancorate deve essere di almeno 200 m.[^12-5]
 
 <sup>6</sup> Per ogni patente si possono impiegare simultaneamente tre reti al massimo, che devono essere riunite in un complesso.[^12-6]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^12-2]: Abrogato dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^12-4]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^12-5]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^12-6]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-2]: Abrogato dalla cifra I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-5]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^12-6]: Nuovo testo giusta la cifra I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 
 #### Art. 13
 
@@ -380,8 +373,8 @@ Per le reti utilizzate valgono le seguenti misure massime e minime:
 
 <sup>5</sup> Per ogni patente possono essere impiegate simultaneamente al massimo tre reti nel periodo dal 10 gennaio al 31 marzo e quattro reti nel periodo dal 1° aprile al 15 luglio; le reti devono essere riunite in un complesso.[^13-2]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 
 #### Art. 14
 
@@ -417,19 +410,19 @@ Nell’impiego delle reti di fondo conformemente ai capoversi 1 e 2 valgono le s
 
 - a. dall’11 maggio al 30 settembre devono essere levate ogni giorno;
 - b. dall’11 maggio al 30 settembre devono essere levate di sabato non più tardi delle ore 12.00 e nei giorni feriali precedenti i giorni festivi non più tardi delle ore 18.00;
-- c. dal 1° ottobre al 20 aprile non possono essere levate di domenica e nei giorni festivi; è esclusa la cattura di riproduttori dei coregoni;
-- d. dall’11 maggio al 30 settembre possono essere posate di domenica e nei giorni festivi soltanto a partire dalle ore 17.00. [^14-8]
+- c.[^14-8] dal 1° ottobre al 30 aprile non possono essere levate di domenica e nei giorni festivi; è esclusa la cattura di riproduttori dei coregoni (Gangfisch);
+- d. dall’11 maggio al 30 settembre possono essere posate di domenica e nei giorni festivi soltanto a partire dalle ore 17.00. [^14-9]
 
 <sup>4</sup>
 
 Per ogni patente possono essere impiegate simultaneamente al massimo:
 
-- a.[^14-9] sei reti per il pesce persico e sei reti per i gardon;
-- b. otto reti per pesci grandi.[^14-10]
+- a.[^14-10] sei reti per il pesce persico e sei reti per i gardon;
+- b. otto reti per pesci grandi.[^14-11]
 
-<sup>4bis</sup> In deroga al capoverso 2 lettera c, dal 1° aprile alle ore 12.00 al 31 maggio alle ore 12.00 le otto reti per pesci grandi possono essere posate solo senza mettere in pericolo i luoghi di riproduzione dei luccioperca noti e dal 15 novembre alle ore 12.00 al 10 gennaio alle ore 12.00 solo in alto lago.[^14-11]
+<sup>4bis</sup> In deroga al capoverso 2 lettera c, dal 1° aprile alle ore 12.00 al 31 maggio alle ore 12.00 le otto reti per pesci grandi possono essere posate solo senza mettere in pericolo i luoghi di riproduzione dei luccioperca noti e dal 15 novembre alle ore 12.00 al 10 gennaio alle ore 12.00 solo in alto lago.[^14-12]
 
-<sup>5</sup> ...[^14-12]
+<sup>5</sup> In deroga al capoverso 2, i pescatori di professione che hanno partecipato alla cattura di riproduttori del coregone possono posare sei reti multimonofilo per i gardon con magliatura di 38–44 mm durante le ultime quattro notti di cattura precedenti Natale (ultimo giorno di levata delle reti: al più tardi il 23 dicembre) nell’alto lago e sul declivio (pesca natalizia). Si applicano le disposizioni del capoverso 3 lettera c. I riproduttori della trota di lago catturati durante la pesca natalizia devono essere consegnati ai rispettivi stabilimenti d’incubazione.[^14-13]
 
 <sup>6</sup>
 
@@ -440,24 +433,25 @@ In deroga ai capoversi 1, 2 e 4, dal 10 gennaio al 31 marzo per la cattura mirat
 - c. lunghezza dei tre elementi di 50 m al massimo;
 - d. altezza dei tre elementi di 2 m al massimo (stato di tensione).
 
-<sup>7</sup> ...[^14-13]
+<sup>7</sup> ...[^14-14]
 
-<sup>7bis</sup> ...[^14-14]
+<sup>7bis</sup> ...[^14-15]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-3]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-4]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-5]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^14-6]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-7]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^14-8]: Nuovo testo giusta il n. I dell’O del DATEC del 17 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^14-9]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^14-10]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-11]: Introdotto dal n. I dell’O del DATEC del 1° dic. 2009 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-12]: Abrogato dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^14-13]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-14]: Introdotto dal n. I dell’O del DATEC del 1° dic. 2009 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Abrogato dal n. I dell’O del DATEC del 30 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-5]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-6]: Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-7]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^14-8]: Nuovo testo giusta la cifra I dell’O del DATEC del 9 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 858](https://fedlex.data.admin.ch/eli/oc/2025/858)).
+[^14-9]: Nuovo testo giusta la cifra I dell’O del DATEC del 17 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
+[^14-10]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-11]: Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-12]: Introdotto dalla cifra I dell’O del DATEC del 1° dic. 2009 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Nuovo testo giusta la cifra I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-13]: Nuovo testo giusta la cifra I dell’O del DATEC del 9 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 858](https://fedlex.data.admin.ch/eli/oc/2025/858)).
+[^14-14]: Abrogato dalla cifra I dell’O del DATEC del 30 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-15]: Introdotto dalla cifra I dell’O del DATEC del 1° dic. 2009 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Abrogato dalla cifra I dell’O del DATEC del 30 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 15
 
@@ -467,11 +461,12 @@ In deroga ai capoversi 1, 2 e 4, dal 10 gennaio al 31 marzo per la cattura mirat
 
 <sup>2</sup> L’impiego di grandi bertovelli con ali è autorizzato tutto l’anno; bisogna vuotarli almeno ogni due giorni.
 
-<sup>3</sup> I grandi bertovelli con ali possono essere impiegati soltanto dove la profondità non è superiore all’altezza della rete.
+<sup>3</sup> I grandi bertovelli con ali possono essere impiegati soltanto dove la profondità non è superiore a tre metri.[^15-1]
 
-<sup>4</sup> Per ogni patente si possono impiegare solo due grandi bertovelli con ali.[^15-1]
+<sup>4</sup> Per ogni patente si possono impiegare solo due grandi bertovelli con ali.[^15-2]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 9 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 858](https://fedlex.data.admin.ch/eli/oc/2025/858)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
 
 #### Art. 16
 
@@ -505,9 +500,9 @@ In deroga ai capoversi 1, 2 e 4, dal 10 gennaio al 31 marzo per la cattura mirat
 
 <sup>6</sup> Nell’esercizio della pesca con lenze, deve essere rispettata una distanza minima di 25 metri dalle reti, dai bertovelli e dai palamiti.[^18-3]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^18-2]: Nuovo testo del per. giusta il n. I dell’O del DATEC del 30 ago. 1999, in vigore dal 15 set. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^18-2]: Nuovo testo del per. giusta la cifra I dell’O del DATEC del 30 ago. 1999, in vigore dal 15 set. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 19
 
@@ -541,7 +536,7 @@ I guadini (guadino a mano, guadino circolare o semicircolare, con manico) posson
 
 <sup>2</sup> ...[^22-1]
 
-[^22-1]: Abrogato dal n. I dell’O del DATEC del 14 dic. 2012, con effetto dal 1° feb. 2013 ([RU 2013 53](https://fedlex.data.admin.ch/eli/oc/2013/10)).
+[^22-1]: Abrogato dalla cifra I dell’O del DATEC del 14 dic. 2012, con effetto dal 1° feb. 2013 ([RU 2013 53](https://fedlex.data.admin.ch/eli/oc/2013/10)).
 
 #### Art. 23
 
@@ -549,10 +544,10 @@ I guadini (guadino a mano, guadino circolare o semicircolare, con manico) posson
 
 <sup>1</sup> Per la cattura di riproduttori del *Coregonus oxyrhynchus* (Gangfisch) possono essere impiegate reti per i gardon (art. 14 cpv. 1 lett. a). I Cantoni di San Gallo e di Turgovia possono ordinare deroghe relative alla magliatura e al numero delle reti, qualora la cattura regolamentare dei riproduttori lo esiga.[^23-1]
 
-<sup>2</sup> e <sup>3</sup> ...[^23-2]
+<sup>2 e <sup>3</sup></sup> ...[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^23-2]: Abrogati dal n. I dell’O del DATEC del 28 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^23-2]: Abrogati dalla cifra I dell’O del DATEC del 28 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
 
 #### Art. 24
 
@@ -585,9 +580,9 @@ Le misure ordinate dal comitato speciale singolarmente o in combinazione tra lor
 
 <sup>6</sup> I Cantoni di San Gallo e di Turgovia informano immediatamente sulle misure ordinate il plenipotenziario della Confederazione per la pesca nel Lago di Costanza.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^25-3]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^25-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 
 #### Art. 26
 
@@ -605,8 +600,8 @@ Per evitare catture accessorie rilevanti, i Cantoni di San Gallo e di Turgovia p
 
 <sup>3</sup> Nel caso di siti di riproduzione la cui area è definita in modo chiaro, la misura di cui al capoverso 2 lettera a si applica anche a fini preventivi (bandita).[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^26-2]: Nuovo testo giusta il n. I dell’O del DATEC del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 53](https://fedlex.data.admin.ch/eli/oc/2013/10)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 dic. 2012, in vigore dal 1° feb. 2013 ([RU 2013 53](https://fedlex.data.admin.ch/eli/oc/2013/10)).
 
 ## Capitolo 3: Disposizioni di protezione
 
@@ -620,45 +615,46 @@ Per evitare catture accessorie rilevanti, i Cantoni di San Gallo e di Turgovia p
 <tr><th>Specie</th><th>Periodo di divieto</th><th>Lunghezza minima</th></tr>
 <tr><td>a.[^27-1] coregoni</td><td>1° gennaio–31 dicembre</td><td>–</td></tr>
 <tr><td>b.[^27-2] temolo</td><td>1° febbraio–30 aprile</td><td>35 cm</td></tr>
-<tr><td>c. trota</td><td>1° novembre–10 gennaio</td><td>50 cm</td></tr>
+<tr><td>c.[^27-3] trota</td><td>1° novembre–10 gennaio</td><td>60 cm</td></tr>
 <tr><td>d. trota iridea</td><td>–</td><td>–</td></tr>
-<tr><td>e.[^27-3] salmerino alpino (Rötel)</td><td>1° novembre–31 dicembre</td><td>–</td></tr>
+<tr><td>e.[^27-4] salmerino alpino (Rötel)</td><td>1° novembre–31 dicembre</td><td>–</td></tr>
 <tr><td>f. luccioperca</td><td>1° aprile–31 maggio</td><td>40 cm</td></tr>
-<tr><td>g.[^27-4] pesce persico</td><td>20 aprile–10 maggio</td><td>–</td></tr>
+<tr><td>g.[^27-5] pesce persico</td><td>20 aprile–10 maggio</td><td>–</td></tr>
 <tr><td>h. carpa</td><td>–</td><td>25 cm</td></tr>
 <tr><td>i. tinca</td><td>–</td><td>20 cm</td></tr>
-<tr><td>j. anguilla</td><td>–</td><td>50 cm.[^27-5]</td></tr>
+<tr><td>j. anguilla</td><td>–</td><td>50 cm.[^27-6]</td></tr>
 </table>
 
 <sup>2</sup> I periodi di divieto iniziano e finiscono sempre alle ore 12.00 dei giorni indicati.
 
 <sup>3</sup> Per lunghezza minima si intende la distanza tra l’estremità anteriore della testa e l’estremità posteriore della pinna caudale raccolta a fascio.
 
-<sup>4</sup> I pesci sottomisura catturati con lenze, bertovelli e grandi bertovelli con ali o quelli catturati durante il periodo di divieto devono essere rimessi immediatamente in acqua con la dovuta cura.[^27-6]
+<sup>4</sup> I pesci sottomisura catturati con lenze, bertovelli e grandi bertovelli con ali o quelli catturati durante il periodo di divieto devono essere rimessi immediatamente in acqua con la dovuta cura.[^27-7]
 
-<sup>5</sup> Le acerine *(Gymnocephali cernui)* catturate devono essere tirate fuori dall’acqua.[^27-7]
+<sup>5</sup> Le acerine *(Gymnocephali cernui)* catturate devono essere tirate fuori dall’acqua.[^27-8]
 
-<sup>6</sup> Le trote pronte a deporre le uova catturate nonché il materiale riproduttivo del *Coregonus lavaretus* (Blaufelchen) e del *Coregonus oxyrhynchus* (Gangfisch) catturati nel periodo di divieto devono essere messi a disposizione dei servizi competenti. Detti pesci vengono restituiti dopo averne prelevato il materiale riproduttivo.[^27-8]
+<sup>6</sup> Le trote pronte a deporre le uova catturate nonché il materiale riproduttivo del *Coregonus lavaretus* (Blaufelchen) e del *Coregonus oxyrhynchus* (Gangfisch) catturati nel periodo di divieto devono essere messi a disposizione dei servizi competenti. Detti pesci vengono restituiti dopo averne prelevato il materiale riproduttivo.[^27-9]
 
 <sup>7</sup> Durante la pesca, il pescatore deve portare seco i mezzi ausiliari appropriati per determinare la lunghezza minima.
 
-<sup>8</sup> Dal 10 maggio alle ore 12.00 al 20 aprile alle ore 12.00, un pescatore che si serve di lenze può catturare al massimo 30 pesci persici al giorno. Dal 10 maggio al 15 settembre tutti i pesci persici catturati di lunghezza superiore a 13 cm, e negli altri periodi tutti i pesci persici catturati, devono essere tirati fuori dall’acqua.[^27-9]
+<sup>8</sup> Dal 10 maggio alle ore 12.00 al 20 aprile alle ore 12.00, un pescatore che si serve di lenze può catturare al massimo 30 pesci persici al giorno. Dal 10 maggio al 15 settembre tutti i pesci persici catturati di lunghezza superiore a 13 cm, e negli altri periodi tutti i pesci persici catturati, devono essere tirati fuori dall’acqua.[^27-10]
 
-<sup>9</sup> ...[^27-10]
+<sup>9</sup> ...[^27-11]
 
-<sup>10</sup> Dal 31 dicembre alle ore 12.00 al 1° novembre alle ore 12.00, un pescatore che si serve di lenze può catturare al massimo cinque salmerini alpini al giorno. Tutti i salmerini alpini catturati devono essere tirati fuori dall’acqua.[^27-11]
+<sup>10</sup> Dal 31 dicembre alle ore 12.00 al 1° novembre alle ore 12.00, un pescatore che si serve di lenze può catturare al massimo cinque salmerini alpini al giorno. Tutti i salmerini alpini catturati devono essere tirati fuori dall’acqua.[^27-12]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^27-3]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
-[^27-4]: Nuovo testo giusta il n. I dell’O del DATEC del 17 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^27-5]: Nuovo testo giusta il n. I dell’O del DATEC del 1° dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
-[^27-6]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^27-7]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^27-8]: Nuovo testo giusta il n. I dell’O del DATEC del 14 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
-[^27-9]: Nuovo testo giusta il n. I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^27-10]: Abrogato dal n. I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^27-11]: Introdotto dal n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-3]: Nuovo testo giusta la cifra I dell’O del DATEC del 9 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 858](https://fedlex.data.admin.ch/eli/oc/2025/858)).
+[^27-4]: Nuovo testo giusta la cifra I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^27-5]: Nuovo testo giusta la cifra I dell’O del DATEC del 17 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
+[^27-6]: Nuovo testo giusta la cifra I dell’O del DATEC del 1° dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
+[^27-7]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-8]: Nuovo testo giusta la cifra I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-9]: Nuovo testo giusta la cifra I dell’O del DATEC del 14 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
+[^27-10]: Nuovo testo giusta la cifra I dell’O del DATEC del 26 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
+[^27-11]: Abrogato dalla cifra I dell’O del DATEC del 27 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^27-12]: Introdotto dalla cifra I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 28
 
@@ -668,7 +664,7 @@ Per evitare catture accessorie rilevanti, i Cantoni di San Gallo e di Turgovia p
 
 <sup>2</sup> I Cantoni di San Gallo e di Turgovia, con il consenso della conferenza internazionale dei plenipotenziari, possono delimitare zone di protezione anche in alto lago.[^28-1]
 
-[^28-1]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999, in vigore dal 15 set. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
+[^28-1]: Introdotto dalla cifra I dell’O del DATEC del 30 ago. 1999, in vigore dal 15 set. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)).
 
 #### Art. 29
 
@@ -678,7 +674,7 @@ Per evitare catture accessorie rilevanti, i Cantoni di San Gallo e di Turgovia p
 
 <sup>2</sup> È vietato utilizzare pesci da esca vivi.[^29-1]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del DATEC del 15 ott. 2001, in vigore dal 1° gen. 2003 ([RU 2001 3581](https://fedlex.data.admin.ch/eli/oc/2001/533)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 15 ott. 2001, in vigore dal 1° gen. 2003 ([RU 2001 3581](https://fedlex.data.admin.ch/eli/oc/2001/533)).
 
 ## Capitolo 4: Esecuzione
 
@@ -713,7 +709,7 @@ Su richiesta dei competenti organi di vigilanza sulla pesca, le persone intente 
 <sup>4</sup> Ogni anno, l’UFAM redige un rapporto sulla statistica delle catture globali effettuate dai pescatori di professione e sportivi e lo mette a disposizione dei Cantoni di San Gallo e di Turgovia nonché di tutti i plenipotenziari per la pesca nel Lago di Costanza.
 
 [^31-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^31-2]: Nuovo testo giusta il n. I dell’O del DATEC del 1° dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 1° dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
 
 #### Art. 32
 
@@ -735,7 +731,7 @@ Le reti di fondo con un’altezza massima della rete di 2 m, una magliatura di 4
 
 [^33a-1]
 
-[^33a-1]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dal n. I dell’O del DATEC del 21 feb. 2017, con effetto dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^33a-1]: Introdotto dalla cifra I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Abrogato dalla cifra I dell’O del DATEC del 21 feb. 2017, con effetto dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 
 #### Art. 34
 
@@ -747,7 +743,7 @@ Allegato[^t-2]
 
 ## Tavola per il calcolo dell’altezza delle reti in base al numero delle maglie
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del DATEC del 21 dic. 2007, in vigore dal 10 gen. 2008 ([RU 2008 11](https://fedlex.data.admin.ch/eli/oc/2008/6)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del DATEC del 21 dic. 2007, in vigore dal 10 gen. 2008 ([RU 2008 11](https://fedlex.data.admin.ch/eli/oc/2008/6)).
 
 <table>
 <tr><td>Altezza massima delle reti</td><td>Magliatura in mm</td><td>Numero delle maglie</td></tr>

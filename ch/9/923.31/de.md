@@ -3,18 +3,18 @@ sr: "923.31"
 title: Verordnung des UVEK vom 9. Oktober 1997 über die Fischerei im Bodensee-Obersee
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: de
-version: 2024-01-01
+version: 2026-02-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20260201/de/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20260201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Fischerei im Bodensee-Obersee
 
-vom 9. Oktober 1997 (Stand am 1. Januar 2024)[^t-1]
+vom 9. Oktober 1997 (Stand am 1. Februar 2026)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Okt. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 14 Absatz 3 der Verordnung vom 24. November 1993[^ingress-
 verordnet:
 
 [^ingress-1]: Ausdruck gemäss Ziff. I der V des UVEK vom 30. Aug. 1999, in Kraft seit 15. Sept. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^ingress-2]: [SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^ingress-2]: [SR 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 
 ## 1. Kapitel: Berechtigung zur Ausübung der Fischerei
 
@@ -273,7 +273,7 @@ Freitreibende Schwebnetze dürfen nur für den Laichfischfang auf Blaufelchen ei
 
 <sup>2</sup> Schwimmfähige Oberähren sind nicht zugelassen. Die Anfänge der Netze im Schwebsatz sind als solche zu kennzeichnen.[^10-3]
 
-<sup>3</sup> <sup>–</sup><sup>8</sup> …[^10-4]
+<sup>3<sup>–</sup><sup>8</sup></sup> …[^10-4]
 
 <sup>9</sup> …[^10-5]
 
@@ -410,19 +410,19 @@ Bei der Verwendung der Bodennetze nach den Absätzen 1 und 2 gelten folgende Ein
 
 - a. vom 11. Mai bis 30. September müssen sie täglich gehoben werden;
 - b. vom 11. Mai bis 30. September müssen sie an Samstagen bis spätestens 12.00 Uhr, an Werktagen vor Feiertagen bis spätestens 18.00 Uhr gehoben sein;
-- c. vom 1. Oktober bis 20. April dürfen sie an Sonn- und Feiertagen nicht gehoben werden, ausgenommen ist der Laichfischfang auf Gangfische;
-- d. vom 11. Mai bis 30. September dürfen sie an Sonn- und Feiertagen erst ab 17.00 Uhr gesetzt werden.[^14-8]
+- c.[^14-8] vom 1. Oktober bis 30. April dürfen sie an Sonn- und Feiertagen nicht gehoben werden, ausgenommen ist der Laichfischfang auf Gangfische;
+- d. vom 11. Mai bis 30. September dürfen sie an Sonn- und Feiertagen erst ab 17.00 Uhr gesetzt werden.[^14-9]
 
 <sup>4</sup>
 
 Pro Patent dürfen gleichzeitig höchstens verwendet werden:
 
-- a.[^14-9] sechs Barsch- und sechs Rotaugennetze;
-- b. acht Grossfischnetze.[^14-10]
+- a.[^14-10] sechs Barsch- und sechs Rotaugennetze;
+- b. acht Grossfischnetze.[^14-11]
 
-<sup>4bis</sup> Abweichend von Absatz 2 Buchstabe c dürfen vom 1. April, 12.00 Uhr, bis 31. Mai, 12.00 Uhr, die acht Grossfischnetze nur ohne Gefährdung ausgewiesener Zanderlaichplätze und vom 15. November, 12.00 Uhr, bis 10. Januar, 12.00 Uhr, nur im Hohen See gesetzt werden.[^14-11]
+<sup>4bis</sup> Abweichend von Absatz 2 Buchstabe c dürfen vom 1. April, 12.00 Uhr, bis 31. Mai, 12.00 Uhr, die acht Grossfischnetze nur ohne Gefährdung ausgewiesener Zanderlaichplätze und vom 15. November, 12.00 Uhr, bis 10. Januar, 12.00 Uhr, nur im Hohen See gesetzt werden.[^14-12]
 
-<sup>5</sup> …[^14-12]
+<sup>5</sup> Abweichend von Absatz 2 dürfen Berufsfischerinnen und Berufsfischer, die sich am Felchenlaichfischfang beteiligt haben, sechs Rotaugennetze mit 38–44 mm Maschenweite multimonofil während der letzten vier Fangnächte vor Weihnachten (letzter Hebetag spätestens 23. Dezember) im Hohen See und auf der Halde setzen (Weihnachtsfischerei). Es gelten die Vorgaben nach Absatz 3 Buchstabe c. Die während der Weihnachtsfischerei gefangenen laichbereiten Seeforellen sind an die jeweiligen Brutanstalten abzuliefern.[^14-13]
 
 <sup>6</sup>
 
@@ -433,9 +433,9 @@ Abweichend von den Absätzen 1, 2 und 4 können vom 10. Januar bis 31. März zum
 - c. Netzlänge höchstens 50 m;
 - d. Netzhöhe höchstens 2 m (im eingestellten Zustand).
 
-<sup>7</sup> …[^14-13]
+<sup>7</sup> …[^14-14]
 
-<sup>7bis</sup> …[^14-14]
+<sup>7bis</sup> …[^14-15]
 
 [^14-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^14-2]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
@@ -444,13 +444,14 @@ Abweichend von den Absätzen 1, 2 und 4 können vom 10. Januar bis 31. März zum
 [^14-5]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^14-6]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^14-7]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^14-8]: Fassung gemäss Ziff. I der V des UVEK vom 17. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^14-9]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^14-10]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-11]: Eingefügt durch Ziff. I der V des UVEK vom 1. Dez. 2009 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-12]: Aufgehoben durch Ziff. I der V des UVEK vom 27. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^14-13]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^14-14]: Eingefügt durch Ziff. I der V des UVEK vom 1. Dez. 2009 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-8]: Fassung gemäss Ziff. I der V des UVEK vom 9. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 858](https://fedlex.data.admin.ch/eli/oc/2025/858)).
+[^14-9]: Fassung gemäss Ziff. I der V des UVEK vom 17. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
+[^14-10]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^14-11]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-12]: Eingefügt durch Ziff. I der V des UVEK vom 1. Dez. 2009 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-13]: Fassung gemäss Ziff. I der V des UVEK vom 9. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 858](https://fedlex.data.admin.ch/eli/oc/2025/858)).
+[^14-14]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^14-15]: Eingefügt durch Ziff. I der V des UVEK vom 1. Dez. 2009 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)). Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 15
 
@@ -460,11 +461,12 @@ Abweichend von den Absätzen 1, 2 und 4 können vom 10. Januar bis 31. März zum
 
 <sup>2</sup> Trappnetze dürfen während des ganzen Jahres verwendet werden; sie sind mindestens jeden zweiten Tag zu leeren.
 
-<sup>3</sup> Sie dürfen nur dort verwendet werden, wo die Wassertiefe nicht grösser ist als die Höhe des Netzes.
+<sup>3</sup> Sie dürfen nur dort verwendet werden, wo die Wassertiefe nicht grösser ist als 3 m.[^15-1]
 
-<sup>4</sup> Pro Patent dürfen jeweils nur zwei Trappnetze verwendet werden.[^15-1]
+<sup>4</sup> Pro Patent dürfen jeweils nur zwei Trappnetze verwendet werden.[^15-2]
 
-[^15-1]: Fassung gemäss Ziff. I der V des UVEK vom 26. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
+[^15-1]: Fassung gemäss Ziff. I der V des UVEK vom 9. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 858](https://fedlex.data.admin.ch/eli/oc/2025/858)).
+[^15-2]: Fassung gemäss Ziff. I der V des UVEK vom 26. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
 
 #### Art. 16
 
@@ -613,46 +615,47 @@ Zur Vermeidung erheblicher Beifänge können die Kantone St. Gallen und Thurgau 
 <tr><th>Fischart</th><th>Schonzeit</th><th>Fangmindestmass</th></tr>
 <tr><td>a.[^27-2] Felchen</td><td>1. Januar – 31. Dezember</td><td>–</td></tr>
 <tr><td>b.[^27-3] Aesche</td><td>1. Februar–30. April</td><td>35 cm</td></tr>
-<tr><td>c. Forellen</td><td>1. November–10. Januar</td><td>50 cm</td></tr>
+<tr><td>c.[^27-4] Forellen</td><td>1. November–10. Januar</td><td>60 cm</td></tr>
 <tr><td>d. Regenbogenforellen</td><td>–</td><td>–</td></tr>
-<tr><td>e.[^27-4] Seesaibling (Rötel)</td><td>1. November–31. Dezember</td><td>–</td></tr>
+<tr><td>e.[^27-5] Seesaibling (Rötel)</td><td>1. November–31. Dezember</td><td>–</td></tr>
 <tr><td>f. Zander</td><td>1. April–31. Mai</td><td>40 cm</td></tr>
-<tr><td>g.[^27-5] Barsch</td><td>20. April–10. Mai</td><td>–</td></tr>
+<tr><td>g.[^27-6] Barsch</td><td>20. April–10. Mai</td><td>–</td></tr>
 <tr><td>h. Karpfen</td><td>–</td><td>25 cm</td></tr>
 <tr><td>i. Schleie</td><td>–</td><td>20 cm</td></tr>
-<tr><td>j. Aal</td><td>–</td><td>50 cm.[^27-6]</td></tr>
+<tr><td>j. Aal</td><td>–</td><td>50 cm.[^27-7]</td></tr>
 </table>
 
 <sup>2</sup> Die Schonzeiten beginnen und enden an den angegebenen Tagen jeweils um 12.00 Uhr.
 
 <sup>3</sup> Als Fangmindestmass gilt der Abstand von der Kopfspitze bis zum Ende der zusammengelegten Schwanzflosse.
 
-<sup>4</sup> Mit Angelgeräten, Reusen und Trappnetzen gefangene untermassige oder während der Schonzeit gefangene Fische sind sofort mit aller Sorgfalt in das Wasser zurückzuversetzen.[^27-7]
+<sup>4</sup> Mit Angelgeräten, Reusen und Trappnetzen gefangene untermassige oder während der Schonzeit gefangene Fische sind sofort mit aller Sorgfalt in das Wasser zurückzuversetzen.[^27-8]
 
-<sup>5</sup> Gefangene Kaulbarsche sind anzulanden.[^27-8]
+<sup>5</sup> Gefangene Kaulbarsche sind anzulanden.[^27-9]
 
-<sup>6</sup> Gefangene laichreife Forellen sowie die Laichprodukte der während der Schonzeit gefangenen Blaufelchen und Gangfische sind der zuständigen Stelle zur Verfügung zu stellen. Diese Fische werden nach der Gewinnung der Laichprodukte zurückgegeben.[^27-9]
+<sup>6</sup> Gefangene laichreife Forellen sowie die Laichprodukte der während der Schonzeit gefangenen Blaufelchen und Gangfische sind der zuständigen Stelle zur Verfügung zu stellen. Diese Fische werden nach der Gewinnung der Laichprodukte zurückgegeben.[^27-10]
 
 <sup>7</sup> Beim Fischfang müssen geeignete Hilfsmittel zur genauen Feststellung der Fangmindestmasse mitgeführt werden.
 
-<sup>8</sup> Vom 10. Mai, 12.00 Uhr, bis 20. April, 12.00 Uhr, dürfen Personen, die mit Angelgeräten fischen, pro Tag höchstens 30 Barsche fangen. Vom 10. Mai bis zum 15. September sind gefangene Barsche mit einer Länge von mehr als 13 cm, in der übrigen Zeit alle gefangenen Barsche, anzulanden.[^27-10]
+<sup>8</sup> Vom 10. Mai, 12.00 Uhr, bis 20. April, 12.00 Uhr, dürfen Personen, die mit Angelgeräten fischen, pro Tag höchstens 30 Barsche fangen. Vom 10. Mai bis zum 15. September sind gefangene Barsche mit einer Länge von mehr als 13 cm, in der übrigen Zeit alle gefangenen Barsche, anzulanden.[^27-11]
 
-<sup>9</sup> …[^27-11]
+<sup>9</sup> …[^27-12]
 
-<sup>10</sup> Vom 31. Dezember, 12.00 Uhr, bis 1. November, 12.00 Uhr, dürfen Personen, die mit Angelgeräten fischen, pro Tag höchstens 5 Seesaiblinge fangen. Alle gefangenen Seesaiblinge sind anzulanden.[^27-12]
+<sup>10</sup> Vom 31. Dezember, 12.00 Uhr, bis 1. November, 12.00 Uhr, dürfen Personen, die mit Angelgeräten fischen, pro Tag höchstens 5 Seesaiblinge fangen. Alle gefangenen Seesaiblinge sind anzulanden.[^27-13]
 
 [^27-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Dez. 2007, in Kraft seit 10. Jan. 2008 ([AS 2008 11](https://fedlex.data.admin.ch/eli/oc/2008/6)).
 [^27-2]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
 [^27-3]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^27-4]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
-[^27-5]: Fassung gemäss Ziff. I der V des UVEK vom 17. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
-[^27-6]: Fassung gemäss Ziff. I der V des UVEK vom 1. Dez. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
-[^27-7]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-4]: Fassung gemäss Ziff. I der V des UVEK vom 9. Dez. 2025, in Kraft seit 1. Febr. 2026 ([AS 2025 858](https://fedlex.data.admin.ch/eli/oc/2025/858)).
+[^27-5]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^27-6]: Fassung gemäss Ziff. I der V des UVEK vom 17. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)).
+[^27-7]: Fassung gemäss Ziff. I der V des UVEK vom 1. Dez. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
 [^27-8]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
-[^27-9]: Fassung gemäss Ziff. I der V des UVEK vom 14. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
-[^27-10]: Fassung gemäss Ziff. I der V des UVEK vom 26. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
-[^27-11]: Eingefügt durch Ziff. I der V des UVEK vom 17. April 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)). Aufgehoben durch Ziff. I der V des UVEK vom 27. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
-[^27-12]: Eingefügt durch Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^27-9]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^27-10]: Fassung gemäss Ziff. I der V des UVEK vom 14. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6403](https://fedlex.data.admin.ch/eli/oc/2010/900)).
+[^27-11]: Fassung gemäss Ziff. I der V des UVEK vom 26. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4707](https://fedlex.data.admin.ch/eli/oc/2018/747)).
+[^27-12]: Eingefügt durch Ziff. I der V des UVEK vom 17. April 2015 ([AS 2015 1217](https://fedlex.data.admin.ch/eli/oc/2015/243)). Aufgehoben durch Ziff. I der V des UVEK vom 27. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 757](https://fedlex.data.admin.ch/eli/oc/2023/757)).
+[^27-13]: Eingefügt durch Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
 
 #### Art. 28
 
