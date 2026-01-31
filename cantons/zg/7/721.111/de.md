@@ -4,13 +4,12 @@ number: "721.111"
 title: Verordnung zum Planungs- und Baugesetz
 short: V PBG
 language: de
-version: 2024-01-01
-valid_until: 2026-01-31
-version_adopted: 2023-11-14
+version: 2026-02-01
+version_adopted: 2026-01-20
 adopted: 2018-11-20
 in_force: 2019-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/721.111"
-pdf: "https://bgs.zg.ch/api/de/versions/2495/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2975/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2495/pdf_file"
 
 (V PBG)
 
-Vom 20. November 2018 (Stand 1. Januar 2024)
+Vom 20. November 2018 (Stand 1. Februar 2026)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug vom 31. Januar 1894[^ingress-1] sowie auf § 3 Abs. 2 und § 62 des Planungs- und Baugesetzes vom 26. November 1998[^ingress-2],
+gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1] sowie auf § 3 Abs. 2 und § 62 des Planungs- und Baugesetzes (PBG) vom 26. November 1998[^ingress-2],
 
 beschliesst:
 
@@ -138,7 +137,9 @@ beschliesst:
 
 <sup>2</sup> Kann dieser infolge früherer Abgrabungen und Aufschüttungen nicht mehr festgestellt werden, ist vom natürlichen Geländeverlauf der Umgebung auszugehen[^11-2].
 
-<sup>3</sup> Lässt sich auch der natürliche Geländeverlauf in der Umgebung nicht mehr ermitteln, so ist das Terrain, wie es seit mehr als 15 Jahren besteht, massgebend.
+<sup>2a</sup> Veränderungen des natürlich gewachsenen Geländeverlaufs – sowohl auf dem Baugrundstück (Abs. 1) als auch in der Umgebung (Abs. 2) – sind unbeachtlich, wenn sie über 15 Jahre zurückliegen oder geringfügig sind.
+
+<sup>3</sup> Lässt sich auch der natürliche Geländeverlauf in der Umgebung nicht mehr ermitteln, so ist das Terrain massgebend, wie es heute auf dem Baugrundstück besteht.
 
 <sup>4</sup> Aus planerischen oder erschliessungstechnischen Gründen kann das massgebende Terrain in einem Planungs- oder im Baubewilligungsverfahren abweichend festgelegt werden[^11-3], namentlich aus Gründen des Hochwasserschutzes, zur Gewährleistung einer Erschliessung mit angemessenen Steigungen, zur Minderung von Immissionen oder zur besseren Einordnung in das Ortsbild.
 
@@ -294,7 +295,7 @@ beschliesst:
 
 **Attikageschosse**
 
-<sup>1</sup> Attikageschosse sind auf Flachdächern aufgesetzte, zusätzliche Geschosse. Das Attikageschoss muss in Bezug auf seine Grundfläche auf mindestens einer Gebäudelängs- oder Gebäudebreitseite um mindestens 1 m gegenüber dem darunter liegenden Geschoss zurückversetzt sein[^25-1].
+<sup>1</sup> Attikageschosse sind auf Flachdächern aufgesetzte, zusätzliche Geschosse. Das Attikageschoss muss in Bezug auf seine Grundfläche auf mindestens einer Gebäudelängs- oder Gebäudebreitseite um mindestens 1 m gegenüber dem darunter liegenden Geschoss zurückversetzt sein[^25-1]. In begründeten Einzelfällen kann die Baubewilligungsbehörde den erforderlichen Rückversatz auf einen Fassadenabschnitt begrenzen.
 
 <sup>2</sup> Die Grundfläche eines Attikageschosses darf samt verglasten Terrassen höchstens 60 % der Fläche des darunter liegenden Vollgeschosses einschliesslich allfälliger verglaster Balkone oder Loggien betragen.
 
@@ -471,7 +472,7 @@ beschliesst:
 
 **Baumassenziffer**
 
-<sup>1</sup> Die Baumassenziffer (BMZ) ist das Verhältnis des Bauvolumens über dem massgebenden Terrain (BVm) zur anrechenbaren Grundstücksfläche. Als Bauvolumen über dem massgebenden Terrain gilt das Volumen des Baukörpers in seinen Aussenmassen. Die Volumen offener Gebäudeteile, die weniger als zur Hälfte durch Abschlüsse (beispielsweise Wände) umgrenzt sind, werden nicht angerechnet[^37-1].
+<sup>1</sup> Die Baumassenziffer (BMZ) ist das Verhältnis des Bauvolumens über dem massgebenden Terrain (BVm) zur anrechenbaren Grundstücksfläche. Als Bauvolumen über dem massgebenden Terrain gilt das Volumen des Baukörpers in seinen Aussenmassen. Nicht angerechnet werden die Volumen offener Gebäudeteile, die entweder weniger als zur Hälfte durch Abschlüsse (Wände und Dach ohne Boden) umgrenzt sind oder kein Dach aufweisen[^37-1].
 
 <sup>2</sup> Vor- und Rücksprünge wie übliche Vordächer, Kamine, Brüstungen und dergleichen (zusätzlich zu IVHB 3.3) werden nicht angerechnet.
 
@@ -876,7 +877,7 @@ beschliesst:
 
 <sup>1</sup> Baugesuche und bisherige Sondernutzungspläne jener Gemeinden, welche ihre Nutzungspläne und Bauordnung noch nicht an diese Verordnung angepasst haben, werden nach bisherigem Recht[^74-1] beurteilt.
 
-<sup>2</sup> Im Gegensatz zu bisherigen Sondernutzungsplänen (§ 71a Abs. 1 Bst. b PBG[^74-2]) sind neue Sondernutzungspläne spätestens bis zur Anpassung der Nutzungspläne und der Bauordnung an diese Verordnung, längstens jedoch bis 2025 mit Ausnahme der Berechnung der Ausnützungs- sowie der Baumassen- und Grünflächenziffer nach neuem Recht zu beurteilen.
+<sup>2</sup> Im Gegensatz zu bisherigen Sondernutzungsplänen (§ 71a Abs. 1 Bst. b PBG[^74-2]) sind neue Sondernutzungspläne spätestens bis zur Anpassung der Nutzungspläne und der Bauordnung an diese Verordnung, mit Ausnahme der Berechnung der Ausnützungs- sowie der Baumassen- und Grünflächenziffer, nach neuem Recht zu beurteilen.
 
 <sup>3</sup> Das bisherige Recht findet Anwendung auf Baugesuche, die im Zeitpunkt des Inkrafttretens der an diese Verordnung angepassten Nutzungspläne und Bauvorschriften vollständig eingereicht und hängig sind, es sei denn, für die Bauherrschaft ist eine Beurteilung nach neuem Recht günstiger.
 
