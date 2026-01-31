@@ -4,13 +4,12 @@ number: "175.11"
 title: Verordnung zum Verwaltungsverfahrensgesetz Basel-Landschaft
 short: Vo VwVG BL
 language: de
-version: 2025-07-01
-valid_until: 2026-01-31
-version_adopted: 2025-03-25
+version: 2026-02-01
+version_adopted: 2025-12-16
 adopted: 2004-11-30
 in_force: 2005-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/175.11"
-pdf: "https://bl.clex.ch/api/de/versions/4333/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4441/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4333/pdf_file"
 
 (Vo VwVG BL)
 
-Vom 30.11.2004 (Stand 01.07.2025)
+Vom 30.11.2004 (Stand 01.02.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -158,35 +157,19 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben abweichende Vorschriften in anderen Erlassen.
 
-## 3 Delegation von Entscheidungskompetenzen im Beschwerdeverfahren
+## 3
 
 #### § 13
 
-**Finanz- und Kirchendirektion**
-
-<sup>1</sup> Die Finanz- und Kirchendirektion beurteilt Beschwerden gegen Sozialzulagenverfügungen:
-
-- a. des Personalamts;
-- b. der für Personalfragen zuständigen Amtsstellen der Direktionen.
+**…**
 
 #### § 14
 
-**Volkswirtschafts- und Gesundheitsdirektion**
-
-<sup>1</sup> Die Volkswirtschafts- und Gesundheitsdirektion beurteilt Beschwerden gegen:
-
-- a. Verfügungen des Kantonalen Amts für Industrie, Gewerbe und Arbeit über Wohnbaubeiträge;
-- b. Rechnungen der kantonalen Krankenhäuser.
+**…**
 
 #### § 15
 
-**Sicherheitsdirektion**
-
-<sup>1</sup> Die Sicherheitsdirektion beurteilt Beschwerden gegen:
-
-- a. …
-- b. Verfügungen des Pass- und Patentbüros über Tombolas sowie Glücks- und Unterhaltungsspiele;
-- c. …
+**…**
 
 ## 4 Verfahrensleitende Instanzen im Beschwerdeverfahren
 
