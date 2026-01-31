@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2025-08-01
-valid_until: 2026-01-31
-version_adopted: 2025-06-12
+version: 2026-02-01
+valid_until: 2026-07-31
+version_adopted: 2026-02-12
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3202/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3202/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.08.2025)
+vom 06.04.2006 (Stand 01.02.2026)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -456,7 +456,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitung kann Lernende vom Unterricht in den Fächern zweite Landessprache oder Englisch dispensieren, wenn sie im Besitze eines internationalen Sprachdiploms sind.
 
-<sup>2</sup> Für die Zeugnisnote wird die Bewertung des Sprachdiploms gemäss der Tabelle in Anhang 2 in Noten umgerechnet.
+<sup>2</sup> Für die Semesterzeugnisnote wird die Bewertung des Sprachdiploms gemäss der Tabelle in Anhang 2 in Noten umgerechnet.
 
 #### Art. 21d
 
@@ -1027,15 +1027,14 @@ beschliesst:
 <sup>1</sup> Für die schriftliche Aufnahmeprüfung wird die Prüfungsdauer wie folgt festgelegt:
 
 <table>
-<tr><th>Fach</th><th>Prüfungsdauer Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft</th><th>übrige Ausrichtungen</th></tr>
-<tr><td>erste Landessprache</td><td>90 Minuten</td><td>75 Minuten</td></tr>
-<tr><td>zweite Landessprache</td><td>60 Minuten</td><td>45 Minuten</td></tr>
-<tr><td>Englisch</td><td>60 Minuten</td><td>45 Minuten</td></tr>
-<tr><td>Mathematik</td><td>–</td><td>75 Minuten</td></tr>
-<tr><td>Wirtschaft und Gesellschaft</td><td>90 Minuten</td><td>–</td></tr>
+<tr><th>Fach</th><th>Prüfungsdauer</th></tr>
+<tr><td>erste Landessprache</td><td>75 Minuten</td></tr>
+<tr><td>zweite Landessprache</td><td>45 Minuten</td></tr>
+<tr><td>Englisch</td><td>45 Minuten</td></tr>
+<tr><td>Mathematik</td><td>75 Minuten</td></tr>
 </table>
 
-<sup>2</sup> Die Eignungsprüfung im Fach Zeichnen/Gestalten für die BM-Ausrichtung Gestaltung und Kunst dauert 360 Minuten.
+<sup>2</sup> Die Eignungsprüfung im Fach Zeichnen/Gestalten für die BM 2-Ausrichtung Gestaltung und Kunst dauert 360 Minuten.
 
 #### Art. 48
 
@@ -1185,9 +1184,7 @@ beschliesst:
 
 #### Art. 62
 
-**Nichtbestehen der Prüfung BM-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft**
-
-<sup>1</sup> Wird die Prüfung BM-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, nicht bestanden, können die BM-Fachnoten als Fachnoten für das Qualifikationsverfahren übernommen werden.
+**…**
 
 #### Art. 63
 
@@ -1470,10 +1467,11 @@ beschliesst:
 <sup>1</sup> Zum erweiterten Angebot der Berufs-, Studien-, und Laufbahnberatung gemäss Artikel 112 BerV gehören insbesondere
 
 - a die persönliche Beratung von Erwachsenen mit folgenden Ausnahmen:
-  - 1\. Kurzgespräche in den Infotheken,
+  - 1\. Kurzgespräche,
   - 2\. die Beratung vor und während einer Erstausbildung auf Sekundarstufe II,
   - 3\. die Beratung während einer tertiären Vollzeiterstausbildung bis zum vollendeten 26. Altersjahr,
   - 4\. die Beratung von Personen in wirtschaftlich schwierigen Verhältnissen,
+  - 5\. eine arbeitsmarktbezogene berufliche Standortbestimmung für Personen ab 40 Jahren im Umfang von höchstens zwei Gesprächen,
 - b erweiterte Leistungen für Jugendliche und Erwachsene wie Lernberatung, Coaching, Potenzialanalysen, Assessments, wobei die Leistungen des Case Management Berufsbildung ausgenommen sind,
 - c die Beratung von Kundengruppen, die durch die regionalen Arbeitsvermittlungen (RAV) oder durch andere Institutionen zugewiesen werden, mit denen entsprechende vertragliche Abmachungen vorliegen,
 - d weitere Dienstleistungen im Auftrag Dritter.
@@ -1807,6 +1805,17 @@ beschliesst:
 <sup>3</sup> Für Lernende, die ihre Ausbildung vor dem 1. August 2023 an einer HMS aufgenommen haben, gilt das bisherige Recht.
 
 <sup>4</sup> Die Wiederholung des Qualifikationsverfahrens mit Abschlussprüfung für Kauffrau oder Kaufmann EFZ findet für Lernende an einer HMS ohne BM letztmals 2027 bzw. für Lernende an einer HMS mit BM letztmals 2028 nach bisherigem Recht statt.
+
+## T9 Übergangsbestimmung der Änderung vom 12. Februar 2026
+
+#### Art. T9-1
+
+<sup>1</sup> Für Lernende, welche die Grundbildung zum EFZ Kauffrau/Kaufmann (E-Profil) nach der eidgenössischen Verordnung des SBFI vom 26. September 2011 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ) in der bis am 31. Dezember 2022 geltenden Fassung[^T91-1] abschliessen, gilt für die prüfungsfreie Aufnahme in eine BM 2 Artikel 46 in der bis am 31. Juli 2025 geltenden Fassung.
+
+<sup>2</sup> Für Lernende, welche die Grundbildung zum EFZ Kauffrau/Kaufmann (E-Profil) nach der eidgenössischen Verordnung des SBFI vom 26. September 2011 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ) abschliessen und gleichzeitig die Berufsmaturitätsprüfungen Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, nach der eidgenössischen Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^T91-2] ablegen, gilt Artikel 62 in der bisherigen Fassung bis längstens 31. Dezember 2028.
+
+[^T91-1]: https://www.fedlex.admin.ch/eli/cc/2011/811/de
+[^T91-2]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
 
 Bern, 6. April 2006
 

@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2025-08-01
-valid_until: 2026-01-31
-version_adopted: 2025-06-12
+version: 2026-02-01
+valid_until: 2026-07-31
+version_adopted: 2026-02-12
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3202/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3348/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3202/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.08.2025)
+du 06.04.2006 (état au 01.02.2026)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -456,7 +456,7 @@ arrête:
 
 <sup>1</sup> La direction d'école peut dispenser des élèves de suivre l'enseignement de deuxième langue nationale ou d'anglais lorsqu'ils possèdent un diplôme de langue international correspondant.
 
-<sup>2</sup> La note de bulletin est déterminée sur la base du résultat figurant sur le diplôme de langue conformément au tableau en annexe 2.
+<sup>2</sup> La note de bulletin semestriel est déterminée sur la base du résultat figurant sur le diplôme de langue conformément au tableau dans l'annexe 2.
 
 #### Art. 21d
 
@@ -1027,15 +1027,14 @@ arrête:
 <sup>1</sup> La durée des examens écrits est fixée comme suit:
 
 <table>
-<tr><th>Branche</th><th>MP 2 orientation Economie et services, type «économie»</th><th>Autres orientations de MP 2</th></tr>
-<tr><td>Première langue nationale</td><td>90 minutes</td><td>75 minutes</td></tr>
-<tr><td>Deuxième langue nationale</td><td>60 minutes</td><td>45 minutes</td></tr>
-<tr><td>Anglais</td><td>60 minutes</td><td>45 minutes</td></tr>
-<tr><td>Mathématiques</td><td>–</td><td>75 minutes</td></tr>
-<tr><td>Economie et société</td><td>90 minutes</td><td>–</td></tr>
+<tr><th>Branche</th><th>Durée de l'examen</th></tr>
+<tr><td>Première langue nationale</td><td>75 minutes</td></tr>
+<tr><td>Deuxième langue nationale</td><td>45 minutes</td></tr>
+<tr><td>Anglais</td><td>45 minutes</td></tr>
+<tr><td>Mathématiques</td><td>75 minutes</td></tr>
 </table>
 
-<sup>2</sup> L'examen d'aptitude en éducation visuelle et manuelle pour la MP orientation Arts visuels et arts appliqués dure 360 minutes.
+<sup>2</sup> L'examen d'aptitude en éducation visuelle et manuelle pour la MP 2 orientation Arts visuels et arts appliqués dure 360 minutes.
 
 #### Art. 48
 
@@ -1185,9 +1184,7 @@ arrête:
 
 #### Art. 62
 
-**Echec à l’examen de MP orientation Economie et services, type «économie»**
-
-<sup>1</sup> En cas d'échec à l'examen de MP orientation Economie et services, type «économie», il est possible de prendre les notes de branche de MP comme notes de branche pour la procédure de qualification.
+**…**
 
 #### Art. 63
 
@@ -1470,10 +1467,11 @@ arrête:
 <sup>1</sup> L’offre élargie de l’orientation professionnelle et personnelle au sens de l’article 112 OFOP comprend en particulier
 
 - a les conseils personnalisés destinés aux adultes, excepté:
-  - 1\. les entretiens brefs dans les infothèques,
+  - 1\. les entretiens brefs,
   - 2\. les prestations de conseil avant et pendant une première formation au degré secondaire II,
   - 3\. les prestations de conseil pendant une première formation tertiaire à plein temps jusqu'à l'âge de 26 ans révolus,
   - 4\. les prestations de conseil destinées à des personnes se trouvant dans des conditions économiques difficiles;
+  - 5\. un bilan de la situation professionnelle tenant compte du marché du travail pour les personnes âgées de 40 ans et plus, à hauteur de deux consultations au maximum;
 - b les prestations de conseil élargies destinées aux adolescents et adolescentes et aux adultes, comme les conseils méthodologiques, le coaching, les analyses de potentiels, les évaluations, à l’exclusion des prestations du Case management Formation professionnelle;
 - c les conseils à des groupes de personnes adressées par les offices régionaux de placement (ORP) ou par d’autres institutions avec lesquelles des accords contractuels ont été passés;
 - d d’autres prestations pour le compte de tiers.
@@ -1807,6 +1805,17 @@ arrête:
 <sup>3</sup> L'ancien droit s'applique aux personnes qui ont commencé leur formation dans une EC avant le 1<sup>er</sup> août 2023.
 
 <sup>4</sup> La procédure de qualification avec examen final pour la formation d'employée ou d'employé de commerce CFC est répétée selon l'ancien droit pour la dernière fois en 2027 s'agissant des personnes qui suivent une formation dans une EC sans MP et en 2028 s'agissant des personnes qui suivent une formation dans une EC avec MP.
+
+## T9 Dispositions transitoires de la modification du 12 février 2026
+
+#### Art. T9-1
+
+<sup>1</sup> Pour les personnes en formation qui suivent la formation initiale menant au CFC d'employée de commerce/employé de commerce (profil E) conformément à l'ordonnance du 26 septembre 2011 du SEFRI sur la formation professionnelle initiale d'employée de commerce/employé de commerce avec certificat fédéral de capacité (CFC) dans sa teneur en vigueur jusqu'au 31 décembre 2022[^T91-1], l'admission sans examen en MP 2 est régie par l'article 46 dans sa teneur en vigueur jusqu'au 31 juillet 2025.
+
+<sup>2</sup> Pour les personnes en formation qui suivent la formation initiale menant au CFC d'employée de commerce/employé de commerce (profil E) conformément à l'ordonnance du 26 septembre 2011 du SEFRI sur la formation professionnelle initiale d'employée de commerce/employé de commerce avec certificat fédéral de capacité (CFC) et passent en parallèle les examens de maturité professionnelle orientation Economie et services, type «économie», conformément à l'ordonnance fédérale du 24 juin 2009 sur la maturité professionnelle fédérale (OMPr)[^T91-2], l'article 62 dans son ancienne teneur s'applique au plus tard jusqu'au 31 décembre 2028.
+
+[^T91-1]: https://www.fedlex.admin.ch/eli/cc/2011/811/fr
+[^T91-2]: RS [412.103.1](https://db.clex.ch/link/Bund/412.103.1/fr)
 
 Berne, le 20 octobre 2016
 
