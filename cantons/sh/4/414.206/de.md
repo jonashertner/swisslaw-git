@@ -4,13 +4,12 @@ number: "414.206"
 title: Verordnung des Hochschulrates betreffend Eignungsabklärung und Leistungsbeurteilung im Leistungsbereich Ausbildung an der Pädagogischen Hochschule Schaffhausen
 short: Prüfungsverordnung
 language: de
-version: 2025-09-01
-valid_until: 2026-01-31
-version_adopted: 2025-09-01
+version: 2026-02-01
+version_adopted: 2026-01-15
 adopted: 2025-09-01
 in_force: 2025-09-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.206"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2005/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2071/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/2005/pdf_file"
 
 (Prüfungsverordnung)
 
-Vom 01.09.2025 (Stand 01.09.2025)
+Vom 01.09.2025 (Stand 01.02.2026)
 
 Der Hochschulrat der Pädagogischen Hochschule Schaffhausen,
 
@@ -51,7 +50,9 @@ beschliesst:
 
 <sup>2</sup> Die berufsrelevanten überfachlichen Kompetenzen werden durch eine Eignungsabklärung insbesondere im Rahmen der berufspraktischen Ausbildung überprüft.
 
-<sup>3</sup> Die Einzelheiten der Eignungsabklärung sowie der erweiterten Eignungsabklärung werden durch die Prorektorin bzw. den Prorektor Ausbildung geregelt.
+<sup>3</sup> Auf Verlangen haben die Studierenden eine ärztliche Bescheinigung betreffend die Berufseignung und/oder einen aktuellen Strafregisterauszug beizubringen.
+
+<sup>4</sup> Die Einzelheiten der Eignungsabklärung sowie der erweiterten Eignungsabklärung werden durch die Prorektorin bzw. den Prorektor Ausbildung geregelt.
 
 #### § 3
 
@@ -79,7 +80,7 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Kann die Berufseignung durch die Mentorin bzw. den Mentor gemäss § 3 Abs. 3 dieser Verordnung oder durch das Verfahren der erweiterten Eignungsabklärung gemäss § 4 dieser Verordnung festgestellt werden, so teilt dies die Mentorin bzw. der Mentor der bzw. dem Studierenden schriftlich mit. Der Entscheid wird mit den Unterlagen und Befunden, die während der Eignungsabklärung und allenfalls der erweiterten Eignungsabklärung erhoben worden sind, dokumentiert und begründet. Er wird der Prorektorin bzw. dem Prorektorin Ausbildung mitgeteilt.
+<sup>1</sup> Kann die Berufseignung durch die Mentorin bzw. den Mentor gemäss § 3 Abs. 3 dieser Verordnung oder durch das Verfahren der erweiterten Eignungsabklärung gemäss § 4 dieser Verordnung festgestellt werden, so teilt dies die Mentorin bzw. der Mentor der bzw. dem Studierenden schriftlich mit. Der Entscheid wird mit den Unterlagen und Befunden, die während der Eignungsabklärung und allenfalls der erweiterten Eignungsabklärung erhoben worden sind, dokumentiert und begründet. Er wird der Prorektorin bzw. dem Prorektor Ausbildung mitgeteilt.
 
 <sup>2</sup> Bei eindeutigem Fehlen der Berufseignung wird die bzw. der Studierende vom Studium ausgeschlossen und während einer Karenzfrist von zwei Jahren nicht zum Studium zugelassen. Der Ausschluss wird durch die Hochschulleitung verfügt.
 
