@@ -4,11 +4,11 @@ title: Ordinanza 2 del 10 maggio 2000 concernente la legge sul lavoro (OLL 2) (D
 short: OLL 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: it
-version: 2025-12-01
+version: 2026-02-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20251201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20260201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20260201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/it"
 
 (Disposizioni speciali per determinate categorie di aziende e di lavoratori)
 
-del 10 maggio 2000 (Stato 1° dicembre 2025)
+del 10 maggio 2000 (Stato 1° febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -804,6 +804,14 @@ Alle aziende del settore automobilistico e ai lavoratori in esse occupati si app
 
 [^48a-1]: Introdotto dalla cifra I dell’O del 1° set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
 [^48a-2]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+
+#### Art. 48b
+
+**Aziende che effettuano lavori riguardanti la segnaletica stradale, le demarcazioni stradali e i sistemi di sicurezza passivi**[^48b-1]
+
+Alle aziende che effettuano lavori riguardanti la segnaletica stradale, le demarcazioni stradali e i sistemi di sicurezza passivi e ai lavoratori occupati da tali aziende si applica l’articolo 4 capoversi 1 e 2 per tutta la notte e l’intera domenica, sempreché si tratti di lavori eseguiti su strade pubbliche per conto della Confederazione, dei Cantoni o dei Comuni e il lavoro notturno e domenicale sia necessario per motivi di sicurezza o inerenti alla tecnica della circolazione.
+
+[^48b-1]: Introdotto dalla cifra I dell’O del 12 dic. 2025, in vigore dal 1° feb. 2026 ([RU 2025 848](https://fedlex.data.admin.ch/eli/oc/2025/848)).
 
 #### Art. 49
 

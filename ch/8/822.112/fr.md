@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 10 mai 2000 relative à la loi sur le travail (OLT 2) (D
 short: OLT 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: fr
-version: 2025-12-01
+version: 2026-02-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20251201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20260201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20260201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/fr"
 
 (Dispositions spéciales pour certaines catégories d’entreprises ou de travailleurs)
 
-du 10 mai 2000 (État le 1<sup>er</sup> décembre 2025)
+du 10 mai 2000 (État le 1<sup>er</sup> février 2026)
 
 Le Conseil fédéral suisse,
 
@@ -803,8 +803,16 @@ Est applicable aux entreprises de la branche automobile et aux travailleurs qu�
 
 <sup>2</sup> L’entreprise doit publier les chantiers occupant des travailleurs la nuit en application de l’al. 1 dans la Feuille officielle suisse du commerce au moins 14 jours avant le début des travaux. La publication doit indiquer le nom de l’entreprise, le lieu d’intervention, le nombre de travailleurs concernés et la durée du travail de nuit prévu.
 
-[^48a-1]: Introduit par le ch.I de l’O du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543))
+[^48a-1]: Introduit par le ch.I de l’O du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
 [^48a-2]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+
+#### Art. 48b
+
+**Entreprises de marquage de routes, de mise en place de la signalisation et d’installation de systèmes de protection passive**[^48b-1]
+
+Est applicable aux entreprises de marquage de routes, de mise en place de la signalisation et d’installation de systèmes de protection passive et aux travailleurs qu’elles occupent l’art. 4, al. 1 et 2, pour toute la nuit et tout le dimanche, pour autant qu’il s’agisse de travaux sur des routes publiques sur mandat de la Confédération, des cantons ou des communes et que le travail de nuit ou du dimanche soit nécessaire pour des raisons de sécurité ou liées aux exigences du trafic.
+
+[^48b-1]: Introduit par le ch. I de l’O du 12 déc. 2025, en vigueur depuis le 1<sup>er</sup> fév. 2026 ([RO 2025 848](https://fedlex.data.admin.ch/eli/oc/2025/848)).
 
 #### Art. 49
 

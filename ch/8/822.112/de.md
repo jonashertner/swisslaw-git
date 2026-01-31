@@ -4,11 +4,11 @@ title: Verordnung 2 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 2) (Sonderbestimmun
 short: ArGV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: de
-version: 2025-12-01
+version: 2026-02-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20251201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20260201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20260201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/de"
 
 (Sonderbestimmungen für bestimmte Gruppen von Betrieben oder Arbeitnehmern und Arbeitnehmerinnen)
 
-vom 10. Mai 2000 (Stand am 1. Dezember 2025)
+vom 10. Mai 2000 (Stand am 1. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -803,6 +803,14 @@ Auf Betriebe des Autogewerbes und die in ihnen beschäftigten Arbeitnehmer und A
 
 [^48a-1]: Eingefügt durch Ziff. I der V vom 1. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
 [^48a-2]: [SR 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+
+#### Art. 48b
+
+**Betriebe für Strassenmarkierungen, Signalisationen und passive Schutzeinrichtungen**[^48b-1]
+
+Auf Betriebe, die für Strassenmarkierungen, Signalisationen und passive Schutzeinrichtungen zuständig sind, und die von ihnen beschäftigten Arbeitnehmerinnen und Arbeitnehmer ist Artikel 4 Absätze 1 und 2 für die ganze Nacht und den ganzen Sonntag anwendbar, soweit es sich um Arbeiten auf öffentlichen Strassen im Auftrag von Bund, Kantonen oder Gemeinden handelt und die Nacht- und Sonntagsarbeit aus sicherheits- oder verkehrstechnischen Gründen notwendig ist.
+
+[^48b-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2025, in Kraft seit 1. Febr. 2026 (AS **202****5** 848).
 
 #### Art. 49
 
