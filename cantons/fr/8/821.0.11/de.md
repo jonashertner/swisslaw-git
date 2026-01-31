@@ -2,15 +2,14 @@
 canton: FR
 number: "821.0.11"
 title: Reglement über Gesundheitsförderung und Prävention
-short: GPV
+short: GPR
 language: de
-version: 2022-01-01
-valid_until: 2026-01-31
-version_adopted: 2022-05-03
+version: 2026-02-01
+version_adopted: 2026-01-06
 adopted: 2004-06-14
 in_force: 2004-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7476/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +18,9 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7476/pdf_file"
 
 Gesundheitsförderung und Prävention – R
 
-(GPV)
+(GPR)
 
-vom 14.06.2004 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.06.2004 (Fassung in Kraft getreten am 01.02.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -113,12 +112,16 @@ beschliesst:
 
 **Genehmigungsverfahren**
 
-<sup>1</sup> Projekte, die sich an Kinder und Jugendliche richten und an deren Ausbildungsstätten durchgeführt werden, bedürfen der Genehmigung durch alle betroffenen Direktionen, wenn sie die folgenden Bereiche betreffen:
+<sup>1</sup> Projekte, die sich an Kinder und Jugendliche richten und an deren Ausbildungsstätten durchgeführt werden, bedürfen der Genehmigung durch alle betroffenen Direktionen, wenn sie die Prävention von Risikoverhalten und die Gesundheitsförderung betreffen, insbesondere die Bereiche:
 
-- a) Sexualerziehung, Verhütung von sexueller Ausbeutung, Aidsprävention oder
-- b) Prävention von Suchtverhalten.
+- a) Sexualerziehung, Verhütung von sexuellem Missbrauch und Prävention sexuell übertragbarer Krankheiten;
+- b) Prävention von Suchtverhalten;
+- c) Physische Gesundheit, Ernährung und Bewegung;
+- d) Psychische Gesundheit.
 
 <sup>2</sup> Das Genehmigungsgesuch präzisiert für jedes der Projekte die Ziele, den Inhalt, die pädagogischen Mittel und die Kompetenzen der eingesetzten Personen.
+
+<sup>3</sup> Jede nicht genehmigte Intervention eines Dritten in diesen Bereichen wird dem zuständigen Amt für Unterricht gemeldet.
 
 #### Art. 9
 
@@ -160,10 +163,10 @@ beschliesst:
 - d) die Zusammenarbeit mit weiteren Partnern für die Konzipierung, Durchführung und Evaluation spezifischer Projekte;
 - e) die Informationsverbreitung.
 
-<sup>3</sup> Die im Auftrag festgesetzten Leistungen, die für Kinder und Jugendliche bestimmt sind und an deren Ausbildungsstätten umgesetzt werden, bedürfen der Genehmigung durch alle betroffenen Direktionen, wenn sie die folgenden Bereiche betreffen:
+<sup>3</sup> Die im Auftrag festgesetzten Leistungen, die für Kinder und Jugendliche bestimmt sind und an deren Ausbildungsstätten umgesetzt werden, unterliegen dem Genehmigungsverfahren gemäss Art. 8 dieses Reglements.
 
-- a) Sexualerziehung, Verhütung sexueller Ausbeutung, Aidsprävention oder
-- b) Prävention von Suchtverhalten.
+- a) …
+- b) …
 
 #### Art. 11
 
@@ -195,7 +198,7 @@ beschliesst:
 
 <sup>1</sup> Nach Befragung der Kommission setzen die betroffenen Direktionen das Programm der Gesundheitsförderung und Prävention bei Kindern und Jugendlichen in Berücksichtigung der verschiedenen Schultypen fest.
 
-<sup>2</sup> Die Sexualerziehung, die Prävention von sexueller Ausbeutung und von Aids sowie die Suchtprävention müssen obligatorisch nach den Programmen der betreffenden Direktionen behandelt werden. Die Schulbehörden können für diese Gebiete externe Akteurinnen und Akteure zuziehen; deren Projekte bedürfen der Genehmigung durch die betreffenden Direktionen. Weitere Präventionsmassnahmen können obligatorisch erklärt werden.
+<sup>2</sup> Sexualerziehung, Verhütung von sexuellem Missbrauch und Prävention sexuell übertragbarer Krankheiten sowie die Prävention von Suchtverhalten müssen obligatorisch nach den Programmen der betreffenden Direktionen behandelt werden. Die Schulbehörden können für diese Gebiete externe Akteurinnen und Akteure zuziehen; deren Projekte bedürfen der Genehmigung durch die betreffenden Direktionen. Weitere Präventionsmassnahmen können für obligatorisch erklärt werden.
 
 <sup>3</sup> Die im Rahmen eines Programms organisierten Aktionen müssen dem Gesundheitsförderungsplan entsprechen und können nach den Artikeln 9 und 10 dieses Reglements subventioniert werden. Eine Subventionierung durch die Gemeinden bleibt vorbehalten.
 

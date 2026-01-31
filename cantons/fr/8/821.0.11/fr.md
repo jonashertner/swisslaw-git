@@ -4,13 +4,12 @@ number: "821.0.11"
 title: Règlement concernant la promotion de la santé et la prévention
 short: RPSP
 language: fr
-version: 2022-01-01
-valid_until: 2026-01-31
-version_adopted: 2022-05-03
+version: 2026-02-01
+version_adopted: 2026-01-06
 adopted: 2004-06-14
 in_force: 2004-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7476/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8364/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Santé, promotion et prévention – R
 
 (RPSP)
 
-du 14.06.2004 (version entrée en vigueur le 01.01.2022)
+du 14.06.2004 (version entrée en vigueur le 01.02.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -113,12 +112,16 @@ Arrête:
 
 **Procédure d'agrément**
 
-<sup>1</sup> Les projets destinés aux enfants et aux jeunes et mis en œuvre sur les lieux de formation de ceux-ci doivent être agréés par toutes les Directions concernées lorsqu'ils relèvent:
+<sup>1</sup> Les projets destinés aux enfants et aux jeunes et mis en œuvre sur les lieux de formation de ceux-ci doivent être agréés par toutes les Directions concernées lorsqu'ils relèvent de la prévention des comportements à risque et de la promotion de la santé, soit notamment:
 
-- a) de l'éducation sexuelle et de la prévention des abus sexuels et du SIDA ou
-- b) de la prévention des comportements de dépendance.
+- a) de l'éducation sexuelle et de la prévention des abus sexuels et des maladies sexuellement transmissibles;
+- b) de la prévention des comportements de dépendance;
+- c) de la santé physique, de l'alimentation et de l'activité physique;
+- d) de la santé mentale.
 
 <sup>2</sup> La demande d'agrément précise pour chacun des projets les objectifs, le contenu, les moyens pédagogiques et les compétences des intervenants et intervenantes.
+
+<sup>3</sup> Toute intervention de tiers non agréé dans ces domaines est signalée au Service de l'enseignement concerné.
 
 #### Art. 9
 
@@ -160,10 +163,10 @@ Arrête:
 - d) la collaboration avec d'autres partenaires pour la conception, la réalisation et/ou l'évaluation de projets spécifiques;
 - e) la diffusion de l'information.
 
-<sup>3</sup> Les prestations fixées dans le mandat qui sont destinées aux enfants et aux jeunes et mises en œuvre sur leurs lieux de formation doivent être agréées par toutes les Directions concernées lorsqu'ils relèvent:
+<sup>3</sup> Les prestations fixées dans le mandat qui sont destinées aux enfants et aux jeunes et mises en œuvre sur leurs lieux de formation sont soumises à la procédure d'agrément selon l'article 8 du présent règlement.
 
-- a) de l'éducation sexuelle et de la prévention des abus sexuels et du SIDA ou
-- b) de la prévention des comportements de dépendance.
+- a) …
+- b) …
 
 #### Art. 11
 
@@ -195,7 +198,7 @@ Arrête:
 
 <sup>1</sup> Après consultation de la Commission, les Directions concernées fixent le programme de la promotion de la santé et de la prévention auprès des enfants et des jeunes, compte tenu des différents types d'écoles.
 
-<sup>2</sup> L'éducation sexuelle et la prévention des abus sexuels et du SIDA ainsi que la prévention des comportements de dépendance doivent obligatoirement être traitées selon les programmes établis par les Directions concernées. Les autorités scolaires peuvent, pour ces domaines, faire appel à des intervenants et intervenantes extérieurs, dont les projets doivent avoir été agréés par les Directions concernées. D'autres mesures préventives peuvent être rendues obligatoires.
+<sup>2</sup> L'éducation sexuelle et la prévention des abus sexuels et des maladies sexuellement transmissibles ainsi que la prévention des comportements de dépendance doivent obligatoirement être traitées selon les programmes établis par les Directions concernées. Les autorités scolaires peuvent, pour ces domaines, faire appel à des intervenants et intervenantes extérieurs, dont les projets doivent avoir été agréés par les Directions concernées. D'autres mesures préventives peuvent être rendues obligatoires.
 
 <sup>3</sup> Les actions organisées dans le cadre d'un programme doivent être conformes au plan de promotion de la santé et peuvent être subventionnées conformément aux articles 9 et 10 du présent règlement, un subventionnement par les communes restant réservé.
 
