@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Accordo internazionale del 2007 sul caffè del 28 settembre 2007 (con all. e Risoluzione)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: it
-version: 2024-02-02
+version: 2026-02-02
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20240202/it/xml/fedlex-data-admin-ch-eli-cc-2011-608-20240202-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20240202/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20260202/it/xml/fedlex-data-admin-ch-eli-cc-2011-608-20260202-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20260202/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Londra il 28 settembre 2007 Approvato dall’Assemblea federale il 10 marzo 2009[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 settembre 2009 Entrato in vigore per la Svizzera il 2 febbraio 2011
 
-(Stato 2 febbraio 2024)
+(Stato 2 febbraio 2026)
 
 [^t-1]: [RU 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -621,7 +621,7 @@ Se considera che un Membro abbia commesso un’infrazione agli obblighi che gli 
 
 \6) Qualsiasi decisione adottata riguardo alla durata e/o alla rescissione del presente Accordo e qualsiasi notifica ricevuta dal Consiglio, in conformità al presente articolo, è debitamente trasmessa dal Consiglio al depositario.
 
-[^48-1]: Validità prorogata nuovamente fino al 1° feb. 2026 dalla risoluzione n. 480 del 28 set. 2023 ([RU 2024 21](https://fedlex.data.admin.ch/eli/oc/2024/21); [2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
+[^48-1]: Validità prorogata nuovamente fino al 1° feb. 2028 dalla risoluzione n. 486 del 27 mar. 2025 ([RU 2026 32](https://fedlex.data.admin.ch/eli/oc/2026/32); [2024 21](https://fedlex.data.admin.ch/eli/oc/2024/21); [2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
 
 #### Art. 49
 
