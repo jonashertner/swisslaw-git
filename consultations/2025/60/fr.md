@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Stratégie multicanaux pour la transmission d’informations, d’alertes et d’alarmes à la population"
 document: Projet mis en consultation
 language: fr

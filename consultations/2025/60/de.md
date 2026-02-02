@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Multikanalstrategie zur Information, Warnung und Alarmierung der Bevölkerung"
 document: Vernehmlassungsvorlage
 language: de
