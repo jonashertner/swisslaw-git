@@ -5,12 +5,12 @@ title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 short: "Einführungsgesetz zum Zivilgesetzbuch, EG ZGB"
 language: de
 version: 2026-01-01
-valid_until: 2026-06-30
+corrected: 2026-02-03
 version_adopted: 2024-10-23
 adopted: 1988-04-24
 in_force: 1988-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/211.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1472/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1333,7 +1333,7 @@ beschliesst:
 
 #### Art. 128c
 
-**Übergangsbestimmung zur Änderung vom 23. Oktober 2024**
+**Übergangsbestimmung zur Änderung vom...**
 
 <sup>1</sup> Der Gemeinderat hat binnen eines Jahres seit Inkrafttreten dieser Änderung die Teilungsbehörde zu wählen. Bis zu diesem Zeitpunkt besteht die Teilungsbehörde aus den bisherigen Mitgliedern.
 
