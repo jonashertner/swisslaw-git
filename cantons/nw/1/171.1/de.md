@@ -5,12 +5,12 @@ title: Gesetz über Organisation und Verwaltung der Gemeinden
 short: "Gemeindegesetz, GemG"
 language: de
 version: 2026-01-01
-corrected: 2025-12-16
+corrected: 2026-02-03
 version_adopted: 2024-10-23
 adopted: 1974-04-28
 in_force: 1974-04-28
 url: "https://gesetze.nw.ch/app/de/texts_of_law/171.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1427/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -83,7 +83,7 @@ beschliesst:
 
 **3. Kirch- und Kapellgemeinden**
 
-<sup>1</sup> Die römisch-katholische Kirche gliedert sich in folgende Kirch- und Kapellgemeinden:
+<sup>1</sup> Der Landrat legt die Gliederung der römisch-katholischen und der evangelisch-reformierten Kirche nach Massgabe von Art. 88 der Kantonsverfassung[^6-1] in einem Beschluss fest.
 
 - 1\. Stans
 - 2\.. Ennetmoos
@@ -100,9 +100,11 @@ beschliesst:
 - 13\. Hergiswil
 - 14\. Emmetten
 
-<sup>2</sup> Die evangelisch-reformierte Kirche fasst das ganze Kantonsgebiet in einer einzigen Kirchgemeinde zusammen.
+<sup>2</sup> Dieser Beschluss untersteht nicht dem fakultativen Referendum.
 
-<sup>3</sup> Der Landrat hat bei einer Änderung im Bestand der Kirch- und Kapellgemeinden gemäss Art. 88 Abs. 2 der Kantonsverfassung die vorstehende Einteilung entsprechend anzupassen.
+<sup>3</sup> …
+
+[^6-1]: NG 111
 
 #### Art. 7
 
@@ -116,9 +118,12 @@ beschliesst:
 
 <sup>1</sup> Eine politische Gemeinde darf nicht ohne Zustimmung der Stimmberechtigten der Gemeinde und des Kantons aufgeteilt oder mit einer andern Gemeinde vereinigt werden.
 
-<sup>2</sup> Die Schulgemeinde kann aufgehoben und deren Aufgaben und Befugnisse durch die politische Gemeinde übernommen werden, sofern die Stimmberechtigten dieser Zusammenlegung zustimmen; die Zusammenlegung kann durch Beschluss der Stimmberechtigten rückgängig gemacht werden.
+<sup>2</sup> Die Aufhebung von Schulgemeinden richtet sich nach Art. 86 Abs. 2 der Kantonsverfassung[^8-1].
 
-<sup>3</sup> Die Neubildung, Zusammenlegung oder Teilung von Kirchgemeinden oder Kapellgemeinden bedarf der Zustimmung der Stimmberechtigten der Gemeinde sowie des Landrates.
+<sup>3</sup> Die Neubildung, Zusammenlegung oder Teilung von Kirch- und Kapellgemeinden richtet sich nach Art. 88 Abs. 2 der Kantonsverfassung[^8-2].
+
+[^8-1]: NG 111
+[^8-2]: NG 111
 
 #### Art. 9
 
@@ -126,7 +131,7 @@ beschliesst:
 
 <sup>1</sup> Die durch Vereinigung entstehende Gemeinde tritt in die Rechtsverhältnisse der bisherigen Gemeinden ein; sie erwirbt insbesondere deren Vermögen und Verbindlichkeiten.
 
-<sup>2</sup> Bei der Vereinigung von zwei politischen Gemeinden werden die bisherigen Gemeindebürgerrechte durch jenes der aus der Vereinigung hervorgehenden Gemeinde ersetzt.
+<sup>2</sup> Bei der Vereinigung von politischen Gemeinden werden die bisherigen Gemeindebürgerrechte durch jenes der aus der Vereinigung hervorgehenden Gemeinde ersetzt.
 
 <sup>3</sup> Lässt sich über das bei der Vereinigung von Gemeinden zu beobachtende Verfahren keine Einigung erzielen, entscheidet auf Anrufung durch einen administrativen Rat der Landrat endgültig.
 
@@ -156,35 +161,31 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden führen ihre bisherigen Namen.
 
-<sup>2</sup> Die politischen Gemeinden führen ihre bisherigen Wappen, die im Anhang festgehalten sind.
+<sup>2</sup> Alle politischen Gemeinden führen ein Wappen. Sie legen ihr Wappen eigenständig in einem Beschluss der Gemeindeversammlung fest.
 
-<sup>3</sup> Der Schutz der Namen und Wappen der Gemeinden richtet sich nach der Gesetzgebung des Bundes.
-
-<sup>4</sup> Namen und Wappen der Gemeinden können durch die politischen Gemeinden unter Vorbehalt der Genehmigung durch den Landrat geändert werden.
+<sup>3–4</sup> …
 
 #### Art. 13
 
-**Gemeindeerlasse 1. allgemein**
+**Gemeindeerlasse 1. der Stimmberechtigten**
 
 <sup>1</sup> Die Stimmberechtigten geben sich eine Gemeindeordnung; diese umschreibt im Rahmen der Gesetzgebung die Gemeindeorganisation.
 
-<sup>2</sup> Die Stimmberechtigten erlassen die zur Erfüllung der Gemeindeaufgaben nötigen Verordnungen und Reglemente; Art. 87 und 133 bleiben vorbehalten.
+<sup>2</sup> Die Stimmberechtigten erlassen die zur Erfüllung der Gemeindeaufgaben erforderlichen Reglemente.
 
 #### Art. 14
 
-**2. ergänzende Vorschriften**
+**2. des administrativen Rates**
 
-<sup>1</sup> Die Stimmberechtigten können durch Verordnungen und Reglemente den administrativen Rat beziehungsweise den Einwohnerrat zum Erlass ergänzender Vorschriften zuständig erklären.
+<sup>1</sup> Der administrative Rat erlässt Verordnungen, soweit er durch die Gesetzgebung ermächtigt wird.
 
-<sup>2</sup> Verordnungen und Reglemente des Einwohnerrates können dem administrativen Rat diese Befugnis ebenfalls erteilen.
-
-<sup>3</sup> Die ergänzenden Vorschriften unterliegen dem fakultativen Referendum.
+<sup>2–3</sup> …
 
 #### Art. 15
 
-**3. Strafbestimmungen**
+**Strafbestimmungen**
 
-<sup>1</sup> Die Gemeinden können in ihren Verordnungen und Reglementen sowie in den sich darauf stützenden ergänzenden Vorschriften Busse androhen, soweit nicht eidgenössische oder kantonale Strafvorschriften anzuwenden sind.
+<sup>1</sup> Die Gemeinden können in ihren Reglementen Busse androhen, soweit nicht eidgenössische oder kantonale Strafvorschriften anzuwenden sind.
 
 #### Art. 16
 
@@ -198,11 +199,19 @@ beschliesst:
 
 #### Art. 17
 
-**2. Übertragung an Dritte**
+**2. Gründung öffentlich-rechtlicher Anstalten**
 
-<sup>1</sup> Die Gemeinden können zur Erfüllung ihrer Aufgaben öffentliche Anstalten errichten oder die Aufgaben einer Anstalt des Kantons, einer andern Gemeinde oder einer andern öffentlichen oder privaten Unternehmung übertragen.
+<sup>1</sup> Die Gemeinden können zur Erfüllung ihrer Aufgaben öffentlich-rechtliche Anstalten errichten.
 
-<sup>2</sup> Die Übertragung bedarf der Genehmigung durch den Regierungsrat.
+<sup>2</sup> Die Aufgaben und die Grundzüge der öffentlich-rechtlichen Anstalt, wie Organisation und Finanzierung, sind in einem Reglement zu regeln.
+
+#### Art. 17a
+
+**3. Übertragung an Dritte**
+
+<sup>1</sup> Die Gemeinden können ihre Aufgaben einer öffentlich-rechtlichen Anstalt des Kantons, einer anderen Gemeinde oder einer anderen öffentlichen oder privaten Organisation übertragen.
+
+<sup>2</sup> Die Übertragung bedarf der Genehmigung durch den Regierungsrat, wenn Gesetzgebungs- oder Verfügungskompetenzen übertragen werden.
 
 ## 2 Organisation der Gemeinde
 
@@ -224,9 +233,9 @@ beschliesst:
 
 - 1\. die Stimmberechtigten;
 - 2\. den administrativen Rat (Gemeinderat, Schulrat, Kirchenrat oder Kapellrat);
-- 3\. den Präsidenten des administrativen Rates;
-- 4\. die Kommissionen;
-- 5\. die Beamten und Angestellten.
+- 3\. das Präsidium des administrativen Rates;
+- 4\. die Kommissionen.
+- 5\. …
 
 #### Art. 20
 
@@ -237,9 +246,9 @@ beschliesst:
 - 1\. die Stimmberechtigten;
 - 2\. den Einwohnerrat;
 - 3\. den Gemeinderat;
-- 4\. den Gemeindepräsidenten;
-- 5\. die Kommissionen;
-- 6\. die Beamten und Angestellten.
+- 4\. das Gemeindepräsidium;
+- 5\. die Kommissionen.
+- 6\. …
 
 #### Art. 21
 
@@ -253,7 +262,7 @@ beschliesst:
 
 **2. Unterschriftenbogen**
 
-<sup>1</sup> Die Begehren sind auf Bogen einzureichen, die folgende Angaben enthalten müssen:
+<sup>1</sup> Die Begehren sind auf Unterschriftenbogen einzureichen, die folgende Angaben enthalten müssen:
 
 - 1\. den Namen der Gemeinde;
 - 2\. den Wortlaut des Begehrens;
@@ -269,7 +278,7 @@ beschliesst:
 
 <sup>2</sup> Die stimmberechtigte Person muss alle weiteren Angaben machen, die zur Feststellung ihrer Identität nötig sind, wie Geburtsdatum und Adresse.
 
-<sup>3</sup> Schreibunfähige Stimmberechtigte können die Eintragung ihres Namenszuges und alle weiteren Angaben durch eine stimmberechtigte Person ihrer Wahl vornehmen lassen. Diese setzt ihre eigene Unterschrift zum Namenszug der schreibunfähigen Person und bewahrt über den Inhalt der empfangenen Anweisungen Stillschweigen.
+<sup>3</sup> Schreibunfähige stimmberechtigte Personen können die Eintragung ihres Namens und alle weiteren Angaben durch eine stimmberechtigte Person ihrer Wahl vornehmen lassen. Diese setzt ihre eigene Unterschrift zum Namen der schreibunfähigen stimmberechtigten Person und bewahrt über den Inhalt der empfangenen Anweisungen Stillschweigen.
 
 #### Art. 24
 
@@ -277,25 +286,27 @@ beschliesst:
 
 <sup>1</sup> Die stimmberechtigte Person darf das gleiche Begehren nur einmal unterschreiben.
 
-<sup>2</sup> Vor Beginn der Referendumsfrist dürfen keine Bogen unterschrieben werden.
+<sup>2</sup> Vor Beginn der Referendumsfrist dürfen keine Unterschriftenbogen unterschrieben werden.
 
 #### Art. 25
 
 **4. Einreichung**
 
-<sup>1</sup> Die Bogen sind bei der Kanzlei der politischen Gemeinde einzureichen.
+<sup>1</sup> Die Unterschriftenbogen sind bei der Kanzlei der zuständigen Gemeinde einzureichen.
 
-<sup>2</sup> Diese vermerkt den Zeitpunkt der Einreichung sowie die Namen der Personen, welche die Bogen übergeben.
+<sup>2</sup> Diese vermerkt den Zeitpunkt der Einreichung sowie die Namen der Personen, welche die Unterschriftenbogen übergeben.
 
 #### Art. 26
 
 **5. Stimmrechtsbescheinigung**
 
-<sup>1</sup> Die Einwohnerkontrolle bescheinigt auf den Bogen das Stimmrecht der unterzeichnenden Personen, die im Zeitpunkt der Bescheinigung in der Gemeinde stimmberechtigt sind; die Bescheinigung darf nur dann erfolgen, wenn die Bogen und die Unterschriften die Voraussetzungen der Art. 22–24 erfüllen.
+<sup>1</sup> Die Kanzlei bescheinigt auf den Unterschriftenbogen das Stimmrecht der unterzeichnenden Personen, die im Zeitpunkt der Bescheinigung in der Gemeinde stimmberechtigt sind; die Bescheinigung darf nur dann erfolgen, wenn die Unterschriftenbogen und die Unterschriften die Voraussetzungen gemäss Art. 22 - 24 erfüllen.
 
 <sup>2</sup> Die Bescheinigung muss die Zahl der unterzeichnenden Personen, deren Stimmrecht bescheinigt wird, angeben sowie das Datum und die eigenhändige Unterschrift der bescheinigenden Person aufweisen und dessen amtliche Eigenschaft durch Stempel oder Zusatz kennzeichnen.
 
-<sup>3</sup> Die Einwohnerkontrolle leitet die Bogen an das Präsidium des zuständigen administrativen Rates weiter.
+<sup>2a</sup> Die politische Gemeinde händigt der zuständigen Gemeinde das Stimmrechtsregister auf Anfrage aus.
+
+<sup>3</sup> Die Kanzlei leitet die Unterschriftenbogen an das Präsidium des zuständigen administrativen Rates weiter.
 
 #### Art. 27
 
@@ -303,16 +314,16 @@ beschliesst:
 
 <sup>1</sup> Der administrative Rat beziehungsweise der Einwohnerrat hat als ungültig auszuscheiden:
 
-- 1\. die Unterschriften von Unterzeichneten, welche die Voraussetzung gemäss Art. 22 bis 24 nicht erfüllen;
-- 2\. die Unterschriften auf Bogen, die verspätet eingereicht worden sind.
+- 1\. die Unterschriftenbogen, welche die Voraussetzungen gemäss Art. 22 nicht erfüllen oder verspätet eingereicht worden sind;
+- 2\. die Unterschriften von unterzeichnenden Personen, welche die Voraussetzungen gemäss Art. 23 - 24 nicht erfüllen.
 
-<sup>2</sup> Nach Ausscheidung der ungültigen Unterschriften entscheidet der administrative Rat beziehungsweise der Einwohnerrat gemäss Art. 67 und 124, ob das Begehren zustandegekommen ist.
+<sup>2</sup> Nach Ausscheidung der ungültigen Unterschriftenbogen und Unterschriften entscheidet der administrative Rat, ob das Begehren zustande gekommen ist.
 
 #### Art. 28
 
 **Fristenberechnung**
 
-<sup>1</sup> Die Frist ist eingehalten, wenn die Eingabe am letzten Tag der Frist während der Bürozeit der zuständigen Amtsstelle übergeben wird, oder wenn sie den Poststempel des letzten Tages trägt.
+<sup>1</sup> Die Frist ist eingehalten, wenn die Eingabe am letzten Tag der Frist bis 12.00 Uhr bei der Kanzlei eingetroffen ist.
 
 <sup>2</sup> Für die Berechnung der Fristen wird der Tag der Veröffentlichung beziehungsweise Zustellung nicht mitgezählt.
 
@@ -328,13 +339,15 @@ beschliesst:
 
 **Unentgeltlichkeit**
 
-<sup>1</sup> Für Amtshandlungen im Zusammenhang mit Anträgen zuhanden der Stimmberechtigten dürfen keine Gebühren erhoben werden; das Verfassungsgericht kann jedoch bei mutwilliger oder offensichtlich aussichtsloser Beschwerdeführung Gebühren und Kosten erheben.
+<sup>1</sup> Für Amtshandlungen im Zusammenhang mit Anträgen zuhanden der Stimmberechtigten dürfen keine Gebühren erhoben werden.
 
 #### Art. 30
 
 **Stimmregister und Stimmrechtsausweise**
 
-<sup>1</sup> Der Regierungsrat hat die nötigen Weisungen über die Bereinigung der Stimmregister und die Ausstellung der Stimmrechtsausweise zu erlassen.
+<sup>1</sup> Für das Stimmregister und die Stimmrechtsausweise ist das Wahl- und Abstimmungsgesetz[^30-1] massgebend.
+
+[^30-1]: NG132.2
 
 #### Art. 31
 
@@ -348,7 +361,7 @@ beschliesst:
 
 ### 2.2 Die ordentliche Organisation
 
-### 2.2.1 Die Stimmberechtigten
+### 2.2.1 Stimmberechtigte
 
 ### 2.2.1.1 Gemeindeversammlung
 
@@ -356,7 +369,7 @@ beschliesst:
 
 **Allgemeines 1. Grundsätze**
 
-<sup>1</sup> Die Gemeindeversammlung wird gebildet durch alle zur Versammlung sich einfindenden Aktivbürger.
+<sup>1</sup> Die Gemeindeversammlung wird gebildet durch alle zur Versammlung sich einfindenden Aktivbürgerinnen und Aktivbürger.
 
 <sup>2</sup> Die Teilnahme an der Gemeindeversammlung ist Bürgerpflicht.
 
@@ -364,17 +377,17 @@ beschliesst:
 
 **2. Aufgaben und Befugnisse a) Aufsicht**
 
-<sup>1</sup> Die Gemeindeversammlung übt die Aufsicht über sämtliche Zweige der Gemeindeverwaltung sowie über die öffentlichen Anstalten aus.
+<sup>1</sup> Die Gemeindeversammlung übt die Aufsicht über den administrativen Rat, die Gemeindeverwaltung sowie über die öffentlich-rechtlichen Anstalten aus. Vorbehalten bleiben besondere Bestimmungen über die Aufsicht.
 
 #### Art. 34
 
 **b) Gesetzgebung**
 
-<sup>1</sup> Der Gemeindeversammlung obliegt der Erlass oder die Änderung der Gemeindeordnung.
+<sup>1</sup> Die Gemeindeversammlung bereinigt und verabschiedet die Gemeindeordnung und die Reglemente.
 
-<sup>2</sup> Die Gemeindeversammlung erlässt Verordnungen und Reglemente, soweit hierzu nicht durch die Gesetzgebung oder durch Beschluss der Gemeindeversammlung der administrative Rat zuständig erklärt wird.
+<sup>2</sup> …
 
-<sup>3</sup> Sie bereinigt die Entwürfe der Gemeindeordnung, der Verordnungen und der Reglemente sowie des Voranschlages, sofern sie der Urnenabstimmung gemäss Art. 74 unterbreitet werden sollen.
+<sup>3</sup> Sie bereinigt die Entwürfe der Gemeindeordnung, der Reglemente sowie des Budgets, sofern sie der Urnenabstimmung gemäss Art. 74 unterbreitet werden sollen. Die Verabschiedung erfolgt im Rahmen der Urnenabstimmung.
 
 #### Art. 35
 
@@ -382,18 +395,18 @@ beschliesst:
 
 <sup>1</sup> Der Gemeindeversammlung obliegen unter Vorbehalt von Art. 74 und folgende ferner:
 
-- 1\. die Wahl der Behörden, der Finanzkommission sowie der nach Massgabe der Gesetzgebung von der Gemeindeversammlung zu wählenden weiteren Kommissionen und Beamten;
+- 1\. die Wahl der Behörden, der Finanzkommission sowie der nach Massgabe der Gesetzgebung von der Gemeindeversammlung zu wählenden weiteren Kommissionen;
 - 2\. die Festsetzung des Gemeindesteuerfusses;
 - 3\. die Beschlüsse über Ausgaben und finanzielle Verfügungen, welche die Finanzkompetenzen des administrativen Rates übersteigen;
 - 4\. die Ermächtigung zur Aufnahme öffentlicher Anleihen;
-- 5\. die Festsetzung des jährlichen Voranschlages;
+- 5\. die Festsetzung des jährlichen Budgets;
 - 6\. die Genehmigung der Gemeinderechnungen und die Entgegennahme der Rechenschaftsberichte;
-- 7\. die Festlegung der Entschädigungen an die Mitglieder der Gemeindebehörden und Kommissionen;
-- 8\. die Beschlussfassung über das Dienstverhältnis und die Besoldung der Beamten und Angestellten und über die Schaffung neuer Stellen, soweit die Gemeindeversammlung diese Kompetenz nicht dem administrativen Rat überträgt;
+- 7\. die Festlegung der Entschädigungen an die Mitglieder der Gemeindebehörden und Kommissionen in einem Reglement;
+- 8\. …
 - 9\. die Beschlussfassung über den Beitritt zu Gemeindeverbänden und über einen allfälligen Austritt;
-- 10\. die Beschlussfassung über die Errichtung oder Erweiterung von öffentlichen Anstalten sowie über die Übertragung bestimmter Aufgaben an eine Anstalt des Kantons, an eine andere Gemeinde oder an andere öffentliche oder private Unternehmungen;
-- 11\. die Genehmigung von Vereinbarungen, die für die Gemeinde die Finanzkompetenzen des administrativen Rates überschreitende Verpflichtungen zur Folge haben, oder die eine Änderung der Gesetzgebung der Gemeinde bedingen;
-- 12\. alle weitern Geschäfte, die durch die Gesetzgebung oder durch Beschluss des administrativen Rates der Gemeindeversammlung zugewiesen werden.
+- 10\. die Beschlussfassung über die Errichtung oder Erweiterung öffentlich-rechtlicher Anstalten gemäss Art. 17 und die Übertragung von Aufgaben an Dritte gemäss Art. 17a Abs. 2;
+- 11\. die Genehmigung von Vereinbarungen, die für die Gemeinde die Finanzkompetenzen des administrativen Rates überschreitende Verpflichtungen zur Folge haben, von interkommunalen Vereinbarungen mit rechtsetzendem Inhalt oder die eine Änderung der Gesetzgebung der Gemeinde bedingen;
+- 12\. alle weiteren Geschäfte, die durch die Gesetzgebung oder durch Beschluss des administrativen Rates der Gemeindeversammlung zugewiesen werden.
 
 <sup>2</sup> Der Versammlung der politischen Gemeinde obliegen unter Vorbehalt von Art. 74 ferner:
 
@@ -407,7 +420,7 @@ beschliesst:
 
 <sup>1</sup> Ordentliche Gemeindeversammlungen sind durch den administrativen Rat im Frühjahr bis Ende Juni und im Herbst bis Mitte Dezember einzuberufen.
 
-<sup>2</sup> Ausserordentliche Gemeindeversammlungen sind einzuberufen, wenn es der administrative Rat beschliesst oder wenn es ein Zwanzigstel der Aktivbürgerinnen und Aktivbürger unter Nennung der zu behandelnden Gegenstände schriftlich verlangt; im letzten Falle hat die Gemeindeversammlung binnen dreier Monate seit der Einreichung des Begehrens stattzufinden.
+<sup>2</sup> Ausserordentliche Gemeindeversammlungen sind einzuberufen, wenn es der administrative Rat beschliesst oder wenn es ein Zwanzigstel der Aktivbürgerinnen und Aktivbürger unter Nennung der zu behandelnden Gegenstände schriftlich verlangt; im letzten Falle hat die Gemeindeversammlung binnen vier Monate seit der Einreichung des Begehrens stattzufinden.
 
 <sup>3</sup> Die Gemeindeversammlung ist ferner auf Anordnung der kantonalen Aufsichtsbehörde einzuberufen.
 
@@ -425,13 +438,15 @@ beschliesst:
 
 **5. Aktenauflage**
 
-<sup>1</sup> Die Unterlagen zu den Geschäften sind während 20 Tagen vor der Gemeindeversammlung öffentlich aufzulegen.
+<sup>1</sup> Die Unterlagen zu den Geschäften sind während 20 Tagen vor der Gemeindeversammlung öffentlich aufzulegen und können auf einer Online-Plattform zugänglich gemacht werden.
 
 #### Art. 39
 
 **6. Zustellung der Unterlagen**
 
-<sup>1</sup> Den Aktivbürgern sind, sofern die Gemeindeordnung keine abweichenden Vorschriften aufstellt, der Stimmrechtsausweis, die Geschäftsordnung, der Voranschlag, die Rechnung sowie die zu behandelnden Erlasse zuzustellen.
+<sup>1</sup> Den Aktivbürgerinnen und Aktivbürgern sind der Stimmrechtsausweis, die Geschäftsordnung, das Budget, die Rechnung sowie die zu behandelnden Erlasse zuzustellen, sofern die Gemeindeordnung keine abweichenden Vorschriften aufstellt.
+
+<sup>1a</sup> Auf die Zustellung der Stimmrechtsausweise kann verzichtet werden, wenn die Stimmberechtigung an der Gemeindeversammlung auf andere Weise festgestellt wird.
 
 <sup>2</sup> Die Zustellung hat mindestens 10 Tage vor der Gemeindeversammlung zu erfolgen.
 
@@ -441,9 +456,9 @@ beschliesst:
 
 <sup>1</sup> Die Gemeindeordnung kann die Gemeindeversammlung öffentlich erklären.
 
-<sup>2</sup> In diesem Falle sind die nicht stimmberechtigten Zuhörer von den Aktivbürgern zu trennen und dürfen sich unter Vorbehalt von Art. 46 Abs. 2 weder an den Beratungen noch an den Abstimmungen beteiligen.
+<sup>2</sup> Die nicht stimmberechtigten Gäste sind von den Aktivbürgerinnen und Aktivbürgern zu trennen. Sie dürfen sich unter Vorbehalt von Art. 46 Abs. 2 weder an den Beratungen noch an den Abstimmungen beteiligen.
 
-<sup>3</sup> Der administrative Rat kann in jedem Fall Pressevertretern sowie Personen mit besonderen Interessen den Zutritt gestatten.
+<sup>3</sup> Der administrative Rat kann Medienschaffenden sowie Personen mit besonderen Interessen den Zutritt gestatten.
 
 #### Art. 41
 
@@ -453,33 +468,33 @@ beschliesst:
 
 #### Art. 42
 
-**Führung der Gemeindeversammlung 1. Verhandlungsleiter**
+**Führung der Gemeindeversammlung 1. Verhandlungsleitung**
 
-<sup>1</sup> Die Gemeindeversammlung wird vom Präsidenten des administrativen Rates geleitet; ist der Präsident verhindert, wird er durch den Vizepräsidenten, bei dessen Verhinderung durch das vom administrativen Rat bestimmte Mitglied ersetzt.
+<sup>1</sup> Die Gemeindeversammlung wird vom Präsidium des administrativen Rates geleitet; ist das Präsidium verhindert, wird es durch das Vizepräsidium, bei deren Verhinderung durch das vom administrativen Rat bestimmte Mitglied ersetzt.
 
-<sup>2</sup> Der Verhandlungsleiter wacht über die Rechte der Gemeindeversammlung sowie über die Befolgung der bestehenden Vorschriften und sorgt für Ruhe und Ordnung; er kann zu diesem Zweck Personen, welche die Verhandlungen stören, wegweisen und eine Gemeindeversammlung, in welcher die Ordnung nicht wieder hergestellt werden kann, als aufgelöst erklären.
+<sup>2</sup> Die Verhandlungsleitung wacht über die Rechte der Gemeindeversammlung sowie über die Befolgung der bestehenden Vorschriften und sorgt für Ruhe und Ordnung; sie kann zu diesem Zweck Personen, welche die Verhandlungen stören, wegweisen und eine Gemeindeversammlung, in welcher die Ordnung nicht wieder hergestellt werden kann, als aufgelöst erklären.
 
 #### Art. 43
 
-**2. Stimmenzähler**
+**2. Stimmenzählung**
 
-<sup>1</sup> Die Gemeindeversammlung wählt zwei bis sieben Stimmenzähler.
+<sup>1</sup> Die Gemeindeversammlung wählt mindestens zwei Stimmenzählende.
 
 #### Art. 44
 
-**3. Protokoll**
+**3. Protokollierung**
 
-<sup>1</sup> Das Protokoll der Gemeindeversammlung wird vom Schreiber des administrativen Rates oder dessen Stellvertreter geführt und ist öffentlich.
+<sup>1</sup> Das Protokoll der Gemeindeversammlung wird von der Gemeindeschreiberin oder vom Gemeindeschreiber des administrativen Rates oder deren Stellvertretung geführt und ist öffentlich.
 
 <sup>2</sup> Die Genehmigung des Protokolls ist Sache des administrativen Rates.
 
-<sup>3</sup> Der Verhandlungsleiter und der Protokollführer unterzeichnen das Protokoll und die von der Gemeindeversammlung ausgehenden Akten.
+<sup>3</sup> Die Verhandlungsleitung und die protokollführende Person unterzeichnen das Protokoll und die von der Gemeindeversammlung ausgehenden Akten.
 
 #### Art. 45
 
 **Verhandlungen 1. Bereinigung der Geschäftsordnung**
 
-<sup>1</sup> Nach der Eröffnung der Gemeindeversammlung stellt der Verhandlungsleiter die Geschäftsordnung zur Diskussion.
+<sup>1</sup> Nach der Eröffnung der Gemeindeversammlung stellt die Verhandlungsleitung die Geschäftsordnung zur Diskussion.
 
 <sup>2</sup> Wird ein Antrag auf Änderung der Reihenfolge gestellt, entscheidet die Gemeindeversammlung.
 
@@ -489,9 +504,9 @@ beschliesst:
 
 **2. Erläuterung der zu behandelnden Geschäfte**
 
-<sup>1</sup> Jedes zur Beratung gelangende Geschäft wird zunächst vom Antragsteller erläutert.
+<sup>1</sup> Jedes zur Beratung gelangende Geschäft wird zunächst von der Antragstellerin oder dem Antragsteller erläutert.
 
-<sup>2</sup> Mit Zustimmung der Gemeindeversammlung können zur Erläuterung einzelner Geschäfte Sachverständige ohne Stimmrecht beigezogen werden.
+<sup>2</sup> Der administrative Rat kann bei Bedarf zur Erläuterung einzelner Geschäfte Sachverständige ohne Stimmrecht beiziehen.
 
 <sup>3</sup> Die Mitwirkung von nicht stimmberechtigten, einwendenden Personen sowie der Grundeigentümerinnen und Grundeigentümer bei der Beratung des Zonenplans und des Bau- und Zonenreglements richtet sich nach der Planungs- und Baugesetzgebung[^46-1].
 
@@ -501,31 +516,48 @@ beschliesst:
 
 **3. Eintretensfrage**
 
-<sup>1</sup> Es steht jedem Aktivbürger zu, einen Antrag auf Nichteintreten zu stellen.
+<sup>1</sup> Nach der Erläuterung des Geschäfts beschliesst die Gemeindeversammlung, ob sie auf dieses eintreten oder nicht eintreten will.
 
-<sup>2</sup> Wird von dieser Möglichkeit Gebrauch gemacht, wird zunächst über die Eintretensfrage beraten und abgestimmt.
+<sup>2</sup> Wird kein Antrag auf Nichteintreten gestellt, ist Eintreten stillschweigend beschlossen.
+
+<sup>3</sup> Eintreten auf folgende Geschäfte ist obligatorisch:
+
+- 1\. Budget;
+- 2\. Festlegung des Steuerfusses;
+- 3\. Rechnung;
+- 4\. Rechenschaftsbericht;
+- 5\. Wahlen;
+- 6\. Einbürgerung;
+- 7\. Bereinigung gemäss Art. 34 Abs. 3.
 
 #### Art. 48
 
 **4. Beratung**
 
-<sup>1</sup> Bleibt Eintreten unbestritten oder beschliesst die Gemeindeversammlung Eintreten auf die Vorlage, eröffnet der Verhandlungsleiter die Beratung, bei welcher das freie Wort waltet.
+<sup>1</sup> Nach dem Eintreten eröffnet die Verhandlungsleitung die Beratung.
 
-<sup>2</sup> Der Verhandlungsleiter erteilt den Aktivbürgern, die an der Beratung teilnehmen wollen, das Wort.
+<sup>2</sup> Sie erteilt den Aktivbürgerinnen und Aktivbürgern auf Verlangen das Wort.
 
 #### Art. 49
 
 **5. Mündliche Anträge a) Ordnungsanträge**
 
-<sup>1</sup> Anträge, die sich auf die Form der Verhandlung, die Vornahme der Abstimmung oder die Handhabung der Vorschriften beziehen, sowie Anträge, welche die Verschiebung der Beratung oder Abstimmung, die Überweisung an den administrativen Rat beziehungsweise an die vorberatende Kommission oder an eine neue Kommission verlangen, sind Ordnungsanträge.
+<sup>1</sup> Als Ordnungsanträge gelten:
+
+- 1\. Anträge, die sich auf die Form der Verhandlung, die Vornahme der Abstimmung oder die Handhabung der Vorschriften beziehen;
+- 2\. Anträge, welche die Verschiebung der Beratung oder Abstimmung, die Überweisung an den administrativen Rat beziehungsweise an die vorberatende Kommission oder an eine neue Kommission verlangen;
 
 <sup>2</sup> Ist ein Ordnungsantrag gestellt, wird die Beratung über den Hauptgegenstand unterbrochen und sofort der Ordnungsantrag behandelt.
 
+<sup>3</sup> Ordnungsanträge gemäss Abs. 1 Ziff. 2 sind im Rahmen der Bereinigung gemäss Art. 34 Abs. 3 unzulässig.
+
 #### Art. 50
 
-**b) Gegen-, Abänderungs- und Verwerfungsanträge**
+**b) Änderungs- und Verwerfungsanträge**
 
-<sup>1</sup> Gegen-, Abänderungs- und Verwerfungsanträge können von jedem Aktivbürger gestellt werden.
+<sup>1</sup> Änderungs- und Verwerfungsanträge können von jeder Aktivbürgerin und jedem Aktivbürger gestellt werden.
+
+<sup>1a</sup> Verwerfungsanträge im Rahmen der Bereinigung gemäss Art. 34 Abs. 3 sind unzulässig.
 
 <sup>2</sup> Beim Erlass oder bei der Änderung des Zonenplans oder eines Bebauungsplans sowie der zugehörigen Bestimmungen richtet sich das Verfahren nach der Planungs- und Baugesetzgebung[^50-1].
 
@@ -533,13 +565,15 @@ beschliesst:
 
 #### Art. 51
 
-**6. Ordnungsruf, Wortentzug**
+**6. Wortentzug, Ordnungsruf, Ausschluss**
 
-<sup>1</sup> Weicht ein Redner von dem in Beratung stehenden Gegenstand ab oder wird er weitschweifig, ist er durch den Verhandlungsleiter zu ermahnen; befolgt er die Ermahnung nicht, ist ihm der Wortentzug anzudrohen.
+<sup>1</sup> Weichen Rednerinnen oder Redner von dem in Beratung stehenden Gegenstand ab oder werden sie weitschweifig, sind sie durch die Verhandlungsleitung unter gleichzeitiger Androhung des Wortentzugs zu ermahnen.
 
-<sup>2</sup> Redner, die durch ihre Äusserungen oder ihr sonstiges Verhalten die Achtung vor der Gemeindeversammlung oder einzelnen Bürgern verletzen, sind vom Verhandlungsleiter unter gleichzeitiger Androhung des Wortentzuges zur Ordnung zu rufen.
+<sup>2</sup> Nach erfolgter Androhung kann die Verhandlungsleitung der fehlbaren Rednerin oder dem fehlbaren Redner das Wort entziehen und den Ausschluss aus der Gemeindeversammlung androhen.
 
-<sup>3</sup> Nach erfolgter Androhung kann der Verhandlungsleiter dem fehlbaren Redner das Wort entziehen.
+<sup>3</sup> Rednerinnen oder Redner, die durch ihre Äusserungen oder ungebührliches Verhalten die Achtung vor der Gemeindeversammlung oder einzelnen Bürgerinnen oder Bürgern verletzen, sind durch die Verhandlungsleitung unter gleichzeitiger Androhung des Ausschlusses aus der Gemeindeversammlung zur Ordnung zu rufen.
+
+<sup>4</sup> Hält sich eine Person nicht an den Wortentzug oder an den Ordnungsruf, kann die Gemeindeversammlung den Ausschluss dieser Person beschliessen.
 
 #### Art. 52
 
@@ -549,21 +583,27 @@ beschliesst:
 
 <sup>2</sup> Nach Abbruch der Diskussion dürfen Anträge noch gestellt, jedoch nicht mehr erläutert werden.
 
+#### Art. 52a
+
+**8. Schlussabstimmung**
+
+<sup>1</sup> Nach Bereinigung und Abschluss der Beratung des Geschäfts wird in einer Schlussabstimmung über Annahme oder Ablehnung abgestimmt. Vorbehalten bleibt Art. 34 Abs. 3.
+
 #### Art. 53
 
 **Abstimmungen 1. Bekanntgabe der Anträge**
 
-<sup>1</sup> Der Verhandlungsleiter nennt vor jeder Abstimmung die gestellten Anträge und bezeichnet die Reihenfolge der vorzunehmenden Abstimmungen.
+<sup>1</sup> Die Verhandlungsleitung nennt vor jeder Abstimmung die gestellten Anträge und legt das Abstimmungsverfahren fest.
 
-<sup>2</sup> Einwände gegen die Abstimmungsart sind vor dem Beginn der Abstimmung anzumelden; darüber entscheidet die Gemeindeversammlung.
+<sup>2</sup> Einwände gegen das Abstimmungsverfahren sind vor dem Beginn der Abstimmung anzumelden. Die Gemeindeversammlung entscheidet über die Einwände.
 
 #### Art. 54
 
-**2. Verfahren**
+**2. Verfahren bei mehreren Änderungsanträgen**
 
-<sup>1</sup> Liegt kein Antrag auf Verwerfung vor, wird nur über Annahme abgestimmt.
+<sup>1</sup> Sind mehrere sich ausschliessende Änderungsanträge gestellt worden, werden jeweils die beiden Anträge mit der kleinsten inhaltlichen Differenz einander gegenübergestellt. Es fällt jeweils jener Antrag weg, der weniger Stimmen auf sich vereinigt. Das Verfahren wird fortgesetzt, bis ein einziger Änderungsantrag übrig bleibt. Dieser ist gegen den Hauptantrag zur Abstimmung zu bringen.
 
-<sup>2</sup> Sind mehrere sich ausschliessende Gegen- oder Abänderungsanträge gestellt worden, werden sie einander gegenübergestellt, wobei jeweils jener Antrag wegfällt, der weniger Stimmen auf sich vereinigt; der obsiegende Gegen- oder Abänderungsantrag ist gegen den Hauptantrag in die Abstimmung zu bringen.
+<sup>2</sup> …
 
 #### Art. 55
 
@@ -573,7 +613,7 @@ beschliesst:
 
 <sup>2</sup> Kann das Mehr nicht offensichtlich festgestellt werden, ist die Abstimmung zu wiederholen, wobei die Stimmen abzuzählen sind.
 
-<sup>3</sup> Die Abzählung ist durch die Stimmenzähler vorzunehmen.
+<sup>3</sup> …
 
 #### Art. 56
 
@@ -589,7 +629,7 @@ beschliesst:
 
 <sup>1</sup> Bei Stimmengleichheit ist die Abstimmung zu wiederholen ohne dass nochmals eine Beratung durchgeführt werden darf.
 
-<sup>2</sup> Wenn die dreimalige Abstimmung kein Mehr ergibt, entscheidet bei Wahlen das Los; bei Gesetzesvorlagen und Sachgeschäften gilt der Antrag als abgelehnt.
+<sup>2</sup> Wenn die dreimalige Abstimmung kein Mehr ergibt, gilt der Antrag als abgelehnt.
 
 #### Art. 58
 
@@ -597,16 +637,15 @@ beschliesst:
 
 <sup>1</sup> Bei Wahlen von Behörden finden die Bestimmungen des Behördengesetzes über die Wahlvoraussetzungen Anwendung[^58-1].
 
-<sup>2</sup> Bei Wahlen von Beamten finden die Bestimmungen des Beamtengesetzes[^58-2] über die Wahlfähigkeit, die Wahlerfordernisse und die öffentliche Ausschreibung sinngemäss Anwendung.
+<sup>2</sup> …
 
 [^58-1]: NG 161.1
-[^58-2]: NG 165.1 (heute Personalgesetz)
 
 #### Art. 59
 
 **2. Wahlvorschläge**
 
-<sup>1</sup> Jedem Aktivbürger steht für die Wahlen im Rahmen der Gesetzgebung das freie Vorschlagsrecht zu.
+<sup>1</sup> Jeder Aktivbürgerin und jedem Aktivbürger steht für die Wahlen im Rahmen der Gesetzgebung das freie Vorschlagsrecht zu.
 
 <sup>2</sup> Wahlvorschläge können bis zum Beginn der Abstimmung gemacht werden.
 
@@ -614,12 +653,11 @@ beschliesst:
 
 **3. Verfahren**
 
-<sup>1</sup> Bei Erneuerungswahlen von Behörden sind die verbleibenden Mitglieder in der Reihenfolge ihres Wahlalters zur Wahl zu bringen; die Ersatzwahl für zurückgetretene Mitglieder wird anschliessend vorgenommen.
+<sup>1</sup> Bei Erneuerungswahlen von Behörden sind die verbleibenden Mitglieder in der absteigenden Reihenfolge ihrer bisherigen Amtsdauer zur Wahl zu bringen. Die Wahl für zurückgetretene Mitglieder wird anschliessend vorgenommen.
 
-<sup>2</sup> Werden für eine Wahl drei oder mehr Vorschläge gemacht, fällt bei jedem Wahlgang jener Kandidat aus der Wahl, der am wenigsten Stimmen auf sich vereinigt; diese Regelung gilt nicht:
+<sup>2</sup> Werden für eine Wahl drei oder mehr Vorschläge gemacht, fällt bei jedem Wahlgang jene Kandidatin oder jener Kandidat mit den wenigsten Stimmen aus der Wahl. Erreicht die Kandidatin oder der Kandidat in einem Wahlgang die Mehrheit sämtlicher Stimmen, ist die Wahl zustande gekommen.
 
-- 1\. wenn auf einen der Vorgeschlagenen die Mehrheit sämtlicher Stimmen entfällt und damit die Wahl zustandegekommen ist;
-- 2\. wenn ausgesprochen geringe Stimmenzahlen es ermöglichen, gleichzeitig mehr als einen der Vorgeschlagenen aus der Wahl zu nehmen.
+<sup>3</sup> Bei Stimmengleichheit wird die Wahl höchstens dreimal durchgeführt. Danach entscheidet das Los.
 
 #### Art. 61
 
@@ -633,7 +671,9 @@ beschliesst:
 
 **Schriftliche Anträge 1. Gesetzmässigkeit**
 
-<sup>1</sup> Die Anträge zuhanden der Gemeindeversammlung dürfen nichts enthalten, was dem Bundesrecht oder dem kantonalen Recht widerspricht.
+<sup>1</sup> Zulässig sind nur Anträge zu Geschäften, die in der Zuständigkeit der Gemeindeversammlung liegen.
+
+<sup>2</sup> Die Anträge zuhanden der Gemeindeversammlung dürfen nichts enthalten, was dem Bundesrecht oder dem kantonalen Recht widerspricht.
 
 #### Art. 63
 
@@ -643,30 +683,32 @@ beschliesst:
 
 <sup>2</sup> Wird eine allgemeine Anregung zum Beschluss erhoben, ist der Gemeindeversammlung binnen Jahresfrist die ausgearbeitete Vorlage zu unterbreiten.
 
+<sup>3</sup> Ist es dem administrativen Rat in begründeten Fällen nicht möglich, die Vorlage innert Frist auszuarbeiten, kann der Regierungsrat auf Gesuch hin diese Frist einmalig um höchstens zwei Jahre verlängern.
+
 #### Art. 64
 
 **3. Antragsberechtigung**
 
 <sup>1</sup> Anträge können stellen:
 
-- 1\. jeder Aktivbürger, jede Kommission und der administrative Rat der zuständigen Gemeinde;
+- 1\. jede Aktivbürgerin und jeder Aktivbürger, jede Kommission und der administrative Rat der zuständigen Gemeinde;
 - 2\. juristische Personen des privaten und öffentlichen Rechts, die in der Gemeinde ihren Sitz haben, sofern es sich um einen Finanzbeschluss zugunsten eines gemeinnützigen oder genossenschaftlichen Zwecks handelt.
 
 #### Art. 65
 
-**4. Antragsform**
+**4. Erfordernisse**
 
 <sup>1</sup> Die Anträge müssen, um gültig zu sein, folgende Erfordernisse erfüllen:
 
 - 1\. sie dürfen sich nur auf einen einzigen Gegenstand beziehen; die Verbindung eines Initiativbegehrens mit einem Referendumsbegehren ist nicht zulässig;
 - 2\. sie müssen eindeutig abgefasst sein;
-- 3\. sie müssen eine Begründung, den Titel und den Text des Erlasses oder Beschlusses enthalten sowie mit dem Datum und der Unterschrift des Antragstellers versehen sein.
+- 3\. sie müssen eine Begründung, den Titel und den Text des Erlasses oder Beschlusses enthalten sowie mit dem Datum und der Unterschrift der antragstellenden Person versehen sein.
 
 #### Art. 66
 
 **5. Einreichung**
 
-<sup>1</sup> Anträge an die Gemeindeversammlung sind beim Präsidenten des administrativen Rates einzureichen.
+<sup>1</sup> Anträge an die Gemeindeversammlung sind bei der Kanzlei zuhanden des administrativen Rates einzureichen.
 
 <sup>2</sup> Sie müssen an der ordentlichen Frühjahrs- beziehungsweise Herbst-Gemeindeversammlung behandelt werden, wenn sie bis zum 1. März beziehungsweise 1. September eingereicht werden; findet die Frühjahrs-Gemeindeversammlung vor dem 1. April beziehungsweise die Herbst-Gemeindeversammlung vor dem 1. Oktober statt, hat der administrative Rat für die Einreichung von Anträgen eine Frist von 30 Tagen anzusetzen.
 
@@ -688,21 +730,25 @@ beschliesst:
 
 #### Art. 69
 
-**8. Gegen-, Abänderungs- und Verwerfungsanträge**
+**8. Änderungs- und Verwerfungsanträge**
 
-<sup>1</sup> Gegen-, Abänderungs- und Verwerfungsanträge können gemäss Art. 50 nur an der Gemeindeversammlung gestellt werden.
+<sup>1</sup> Änderungs- und Verwerfungsanträge in Form von schriftlichen Anträgen gemäss Art. 62 sind unzulässig.
 
 #### Art. 70
 
 **9. Aufrechterhaltung der Anträge**
 
-<sup>1</sup> Anträge, die vom Antragsteller nach erfolgter Veröffentlichung zurückgezogen werden, können von jedem Antragsberechtigten aufrechterhalten werden.
+<sup>1</sup> Schriftliche Anträge können nach ihrer Veröffentlichung gemäss Art. 37 nur an der Gemeindeversammlung zurückgezogen werden. Jede antragsberechtigte Person kann einen zurückgezogenen Antrag aufrechterhalten. Vorbehalten bleibt Art. 80.
 
 #### Art. 71
 
 **Konsultative Abstimmung 1. Grundsatz**
 
 <sup>1</sup> Der administrative Rat ist befugt, die Gemeindeversammlung über die Aufnahme einzelner Grundsätze in die Gesetzgebung der Gemeinde oder das Vorgehen bei der Vorbereitung eines der Gemeindeversammlung zustehenden Sachgeschäftes abstimmen zu lassen.
+
+<sup>2</sup> Bei konsultativen Abstimmungen mit zwei Varianten gilt sinngemäss Art. 46 Wahl- und Abstimmungsgesetz [^71-1].
+
+[^71-1]: NG132.2
 
 #### Art. 72
 
@@ -726,20 +772,21 @@ beschliesst:
 
 <sup>2</sup> Erlasse und Sachgeschäfte sind der Urnenabstimmung zu unterbreiten, wenn dies durch die kantonale oder kommunale Gesetzgebung vorgesehen, vom administrativen Rat angeordnet oder von einem Zwanzigstel der Aktivbürgerinnen und Aktivbürger unter Nennung der zu behandelnden Gegenstände schriftlich verlangt wird.
 
+<sup>2a</sup> Konsultative Abstimmungen können nicht der Urnenabstimmung unterbreitet werden.
+
 <sup>3</sup> Begehren der Aktivbürgerinnen und Aktivbürger müssen spätestens acht Tage vor der Gemeindeversammlung, auf deren Geschäftsordnung der zu behandelnde Gegenstand steht, eingereicht werden.
 
 #### Art. 75
 
 **2. Wahlen a) allgemein**
 
-<sup>1</sup> Durch die Urne sind zu wählen:
+<sup>1</sup> Die Mitglieder des administrativen Rates der Gemeinde und aus dessen Mitte das Präsidium und das Vizepräsidium sind an der Urne zu wählen, soweit die Gemeindeordnung nicht etwas anderes bestimmt.
 
-- 1\. die Abordnung in den Landrat;
-- 2\. soweit die Gemeindeordnung nicht etwas anderes bestimmt, die Mitglieder des administrativen Rates der politischen Gemeinde und aus dessen Mitte auf eine Amtsdauer von zwei Jahren der Präsident und der Vizepräsident.
+<sup>1a</sup> Das Präsidium und das Vizepräsidium sind auf eine Amtsdauer von zwei Jahren zu wählen, soweit die Gemeindeordnung nicht eine Amtsdauer von vier Jahren vorsieht.
 
 <sup>2</sup> Die Wahlen in den Landrat sind nach den Bestimmungen des Gesetzes über die Verhältniswahl des Landrates[^75-1] vorzunehmen.
 
-<sup>3</sup> Im übrigen können Ergänzungswahlen jederzeit vorgenommen werden.
+<sup>3</sup> Im Übrigen können Ersatzwahlen jederzeit vorgenommen werden.
 
 [^75-1]: NG 132.1
 
@@ -755,35 +802,33 @@ beschliesst:
 
 **c) Verfahren**
 
-<sup>1</sup> Sämtliche Mitglieder der Behörde, die gewählt werden müssen, sind im gleichen Wahlgang zur Wahl zu bringen.
+<sup>1</sup> Sämtliche Mitglieder der Behörde, die gewählt werden müssen, sind im gleichen Wahlgeschäft zur Wahl zu bringen. Erneuerungs- und Ersatzwahlen sind als eigenständige Wahlgeschäfte durchzuführen.
 
-<sup>2</sup> Für das Zustandekommen einer Wahl ist im ersten Wahlgang das absolute Mehr, im zweiten Wahlgang das relative Mehr der gültigen Stimmen erforderlich; erreichen zwei oder mehr Kandidatinnen oder Kandidaten die gleiche Stimmenzahl, entscheidet nötigenfalls das Los.
+<sup>2</sup> Die Ermittlung des Wahlergebnisses richtet sich nach Art. 71 – 73 WAG[^77-1].
 
-<sup>3</sup> Das Vorschlagsrecht bei Wahlen wird durch den Regierungsrat in einer Vollzugsverordnung umschrieben.
+<sup>3</sup> Das Vorschlagsrecht bei Wahlen wird durch den Regierungsrat in einer Verordnung geregelt.
 
-<sup>4</sup> Das Gesetz über die Verhältniswahl des Landrates[^77-1] sowie Art. 85 bleiben vorbehalten.
+<sup>4</sup> …
 
-[^77-1]: NG 132.1
+[^77-1]: NG132.2
 
 #### Art. 78
 
-**Antragsrecht 1. allgemein**
-
-<sup>1</sup> Das Antragsrecht richtet sich nach Art. 62 und folgende, sofern nachstehend nichts anderes bestimmt wird.
+**…**
 
 #### Art. 79
 
-**2. Gegen- und Abänderungsanträge**
+**2. Änderungsanträge**
 
-<sup>1</sup> Es können nur Anträge auf Annahme oder Verwerfung gestellt werden; Gegen- und Abänderungsanträge sind unzulässig.
+<sup>1</sup> Änderungsanträge sind unter Vorbehalt von Art. 34 Abs. 3 unzulässig.
 
 #### Art. 80
 
-**3. Unabänderlichkeit und Aufrechterhaltung der Anträge**
+**Unabänderlichkeit der Anträge**
 
-<sup>1</sup> Anträge dürfen nach ihrer Veröffentlichung weder durch Zusatz noch Weglassung geändert werden.
+<sup>1</sup> Anträge, welche der Urnenabstimmung unterbreitet werden, können nach Anordnung der Urnenabstimmung weder geändert noch zurückgezogen werden. Vorbehalten bleibt die Bereinigung gemäss Art. 34 Abs. 3.
 
-<sup>2</sup> Anträge, die vom Antragsteller nach ihrer Veröffentlichung zurückgezogen werden, können von jedem Aktivbürger binnen zehn Tagen nach erfolgter Bekanntgabe des Rückzuges aufrechterhalten werden.
+<sup>2</sup> …
 
 #### Art. 81
 
@@ -791,15 +836,15 @@ beschliesst:
 
 <sup>1</sup> Die Gemeindeordnung hat festzulegen, ob die Urnenabstimmungen im Rahmen der Gemeindeversammlung oder getrennt davon durchzuführen sind.
 
-<sup>2</sup> Wenn Geschäfte auf Begehren von einem Zwanzigstel der Aktivbürgerinnen und Aktivbürger der Urnenabstimmung zu unterstellen sind, ist diese binnen dreier Monate seit der Einreichung des Begehrens anzuordnen; das allfällige Verfahren gemäss Art. 34 Abs. 3 ist in dieser Frist eingeschlossen.
+<sup>2</sup> Wenn Geschäfte auf Begehren von einem Zwanzigstel der Aktivbürgerinnen und Aktivbürger der Urnenabstimmung zu unterstellen sind, ist diese binnen sechs Monaten seit der Einreichung des Begehrens durchzuführen; das allfällige Verfahren gemäss Art. 34 Abs. 3 ist in dieser Frist eingeschlossen.
 
 #### Art. 82
 
 **Weitere Vorschriften**
 
-<sup>1</sup> Der Regierungsrat ordnet das Urnenabstimmungsverfahren in einer Vollzugsverordnung.
+<sup>1</sup> Der Regierungsrat ordnet das Urnenabstimmungsverfahren in einer Verordnung.
 
-### 2.2.2 Der administrative Rat
+### 2.2.2 Administrativer Rat
 
 #### Art. 83
 
@@ -811,11 +856,11 @@ beschliesst:
 
 #### Art. 84
 
-**Wahl 1. allgemein**
+**Wahl**
 
 <sup>1</sup> Die Wahl der Mitglieder des administrativen Rates erfolgt im Rahmen der Gesetzgebung durch die Gemeindeversammlung oder durch Urnenabstimmung.
 
-<sup>2</sup> Der Amtsantritt der Mitglieder des administrativen Rates erfolgt jeweils am 1. Juli. Bei Ersatzwahlen während der Amtsdauer legt der Gemeinderat den Amtsantritt fest.
+<sup>2</sup> Der Amtsantritt der Mitglieder des administrativen Rates erfolgt jeweils am 1. Juli. Bei Ersatzwahlen während der Amtsdauer legt der administrative Rat den Amtsantritt in Absprache mit dem neu gewählten Mitglied fest.
 
 #### Art. 85
 
@@ -829,9 +874,14 @@ beschliesst:
 
 **Aufgaben und Befugnisse 1. allgemein**
 
-<sup>1</sup> Der administrative Rat ist die vollziehende und verwaltende Behörde der Gemeinde; er sorgt für eine leistungsfähige, zweckmässige und sparsame Organisation und Führung der Verwaltung.
+<sup>1</sup> Der administrative Rat ist die vollziehende und verwaltende Behörde der Gemeinde; er sorgt für eine leistungsfähige, zweckmässige und wirtschaftliche Organisation und Führung der Verwaltung.
 
-<sup>2</sup> Der administrative Rat ist befugt, Mitglieder der Verwaltungsbehörden, Beamte und Angestellte der Gemeinde sowie der Verwaltung nicht angehörende Sachverständige zur Auskunftserteilung beizuziehen.
+<sup>2</sup> Er kann Kommissionen oder Organisationseinheiten der Verwaltung für einzelne Verwaltungszweige oder Geschäfte mit dem Vollzug beauftragen.
+
+<sup>2a</sup> Diese Kommissionen oder Organisationseinheiten können eigene Entscheidbefugnisse ausüben, wenn:
+
+- 1\. die entsprechenden Befugnisse in der übergeordneten Gesetzgebung nicht einer anderen Instanz zugewiesen sind; und
+- 2\. ein Erlass der Stimmberechtigten oder des administrativen Rates dies vorsieht.
 
 <sup>3</sup> Der administrative Rat vertritt die Gemeinde nach aussen.
 
@@ -839,11 +889,7 @@ beschliesst:
 
 **2. Verordnungsbefugnisse**
 
-<sup>1</sup> Der administrative Rat erlässt unter Vorbehalt des fakultativen Referendums:
-
-- 1\. Verordnungen und Reglemente, zu denen er durch die Gesetzgebung oder durch Beschluss der Stimmberechtigten zuständig erklärt wird;
-- 2\. Reglemente in nebengeordneten Fragen im Rahmen seiner Finanzkompetenzen;
-- 3\. ergänzende Vorschriften im Sinne von Art. 14.
+<sup>1</sup> Der administrative Rat erlässt Verordnungen, zu denen er durch die Gesetzgebung zuständig erklärt wird.
 
 #### Art. 88
 
@@ -855,7 +901,7 @@ beschliesst:
 
 - 1\. die Genehmigung des Protokolls der Gemeindeversammlung und die Erwahrung des Ergebnisses der Urnenabstimmungen;
 - 2\. der Vollzug der Gesetze, Verordnungen und Reglemente sowie der Beschlüsse und Entscheidungen der kantonalen Behörden sowie der Stimmberechtigten der Gemeinde, soweit diese Befugnis nicht besonderen Organen vorbehalten ist;
-- 3\. die Wahl der Beamten und Angestellten, soweit sie nicht durch die Gesetzgebung einer andern Instanz übertragen ist;
+- 3\. die Wahl der Mitarbeitenden, soweit sie nicht durch die Gesetzgebung einer anderen Instanz übertragen ist;
 - 4\. die Wahl von Kommissionen für bestimmte Verwaltungszweige sowie für einzelne Geschäfte, soweit sie nicht durch die Gesetzgebung einer andern Instanz übertragen ist;
 - 5\. der Entscheid über die verfassungsmässige Zulässigkeit der Anträge zuhanden der Stimmberechtigten;
 - 6\. die Vorbereitung aller Geschäfte, die von einem ihm übergeordneten Gemeindeorgan zu behandeln sind;
@@ -863,9 +909,9 @@ beschliesst:
 - 8\. die Beschlussfassung über frei bestimmbare einmalige Ausgaben und jährlich wiederkehrende Ausgaben im Rahmen der in der Gemeindeordnung umschriebenen Finanzkompetenzen;
 - 9\. die Beschlussfassung über Ausgaben, die der Gemeinde durch die Gesetzgebung verbindlich vorgeschrieben sind, ohne Rücksicht auf Ziffer 8, oder für welche durch die Gesetzgebung oder im Einzelfall durch Beschluss der Stimmberechtigten dem administrativen Rat weitergehende Vollmachten übertragen sind;
 - 10\. die Verwaltung des Gemeindevermögens sowie im Rahmen von Ziffer 8 die Verfügung darüber;
-- 11\. die Beschlussfassung über Ausgaben für den Unterhalt der im Besitz der Gemeinde stehenden Gebäude und Anlagen ohne Rücksicht auf Ziffer 8;
+- 11\. …
 - 12\. die Genehmigung von Vereinbarungen im Rahmen der Finanzkompetenzen, sofern dadurch keine Änderung der Gesetzgebung der Gemeinde notwendig wird;
-- 13\. der Erlass von Pflichtenheften für Beamte und Angestellte;
+- 13\. …
 - 14\. die Veranlassung von Eintragungen im Grundbuch in den gesetzlich vorgesehenen Fällen;
 - 15\. die Erstattung des Rechenschaftsberichtes über das abgelaufene Kalenderjahr;
 - 16\. die Planung der Aufgaben und der Tätigkeit der Gemeinde;
@@ -883,9 +929,7 @@ beschliesst:
 
 <sup>1</sup> Der administrative Rat vertritt die Gemeinde in Rechtsstreitigkeiten.
 
-<sup>2</sup> Wenn die ihm zustehenden Kompetenzen dadurch überschritten werden, hat er von den Stimmberechtigten die Prozessvollmacht einzuholen.
-
-<sup>3</sup> Wenn die Einholung der Prozessvollmacht vorgängig nicht möglich ist, hat sie bei nächster Gelegenheit nachgehend zu erfolgen; wird sie verweigert, hat die Gemeinde die bis zu diesem Zeitpunkt aufgelaufenen Kosten zu übernehmen.
+<sup>2–3</sup> …
 
 #### Art. 91
 
@@ -893,9 +937,9 @@ beschliesst:
 
 <sup>1</sup> Die Sitzungen des administrativen Rates sind nicht öffentlich.
 
-<sup>2</sup> Sie werden vom Präsidenten des administrativen Rates geleitet.
+<sup>2</sup> Sie werden vom Präsidium des administrativen Rates geleitet.
 
-<sup>3</sup> Die Mitglieder des administrativen Rates sind bei Beschlussfassungen und Wahlen zur Stimmabgabe verpflichtet; der Präsident stimmt nicht mit, gibt aber wenn nötig den Stichentscheid.
+<sup>3</sup> Die Mitglieder des administrativen Rates sind bei Beschlussfassungen und Wahlen zur Stimmabgabe verpflichtet; das Präsidium stimmt mit. Bei Stimmengleichheit gibt das Präsidium den Stichentscheid.
 
 #### Art. 92
 
@@ -909,93 +953,55 @@ beschliesst:
 
 <sup>1</sup> Über die Verhandlungen des administrativen Rates ist Protokoll zu führen, das nicht öffentlich ist.
 
-<sup>2</sup> Das Protokoll ist vom administrativen Rat zu genehmigen und vom Protokollführer zu unterzeichnen.
+<sup>2</sup> Das Protokoll ist vom administrativen Rat zu genehmigen und von der protokollführenden Person zu unterzeichnen.
 
-#### Art. 94
-
-**Fakultatives Referendum 1. Unterstellung**
-
-<sup>1</sup> Dem fakultativen Referendum unterstehen die vom administrativen Rat erlassenen Verordnungen, Reglemente und ergänzenden Vorschriften gemäss Art. 87.
-
-<sup>2</sup> Die Gemeindeordnung kann ferner Beschlüsse über Ausgaben und finanzielle Verfügungen, die den halben Betrag der in der Gemeindeordnung festgesetzten Finanzkompetenzen des administrativen Rates übersteigen, dem fakultativen Referendum unterstellen.
-
-#### Art. 95
-
-**2. Veröffentlichung**
-
-<sup>1</sup> Der administrative Rat hat die dem fakultativen Referendum unterstellten Erlasse und Beschlüsse zu veröffentlichen.
-
-<sup>2</sup> Der Tag, mit welchem die Referendumsfrist abläuft, ist in der Veröffentlichung zu nennen.
-
-#### Art. 96
-
-**3. Abstimmung**
-
-<sup>1</sup> Ein dem fakultativen Referendum unterstellter Erlass oder Beschluss ist der Gemeindeversammlung zu unterbreiten, wenn es binnen zweier Monate seit der Veröffentlichung von einem Zwanzigstel der Aktivbürgerinnen und Aktivbürger schriftlich verlangt wird; er ist der Urnenabstimmung zu unterbreiten, wenn dies im Begehren ausdrücklich verlangt wird.
-
-<sup>2</sup> Die Abstimmung ist, ohne Berücksichtigung von Art. 81 Abs. 2, bei nächster Gelegenheit durchzuführen.
-
-#### Art. 97
-
-**4. Rechtsgültigkeit**
-
-<sup>1</sup> Referendumserlasse oder ‑beschlüsse werden am Tage der Annahme durch die Stimmberechtigten oder am Tage nach dem unbenützten Ablauf der Referendumsfrist rechtsgültig.
-
-<sup>2</sup> Der administrative Rat stellt fest, ob ein Referendumserlass oder ‑beschluss rechtsgültig geworden ist; er veröffentlicht seine Feststellung.
-
-#### Art. 98
-
-**Behördengesetzgebung**
-
-<sup>1</sup> Im übrigen gelten die einschlägigen Bestimmungen der Behördengesetzgebung[^98-1].
-
-[^98-1]: NG 161.1
-
-#### Art. 99
+#### Art. 94–99
 
 **…**
 
-### 2.1.3 Der Präsident des administrativen Rates
+### 2.1.3 Präsidium des administrativen Rates
 
 #### Art. 100
 
-**Wahl**
+**Aufgaben und Befugnisse**
 
-<sup>1</sup> Der Präsident des administrativen Rates ist alle zwei Jahre durch die Stimmberechtigten zu wählen; er muss Mitglied des administrativen Rates sein.
+<sup>1</sup> Das Präsidium des administrativen Rates hat folgende Aufgaben und Befugnisse:
+
+- 1\. die Leitung der Gemeindeversammlung sowie der Sitzungen des administrativen Rates;
+- 2\. die Überwachung der Tätigkeit des administrativen Rates;
+- 3\. die Erfüllung aller weiteren Aufgaben, die ihm durch die Vorschriften des Bundes, des Kantons oder der Gemeinde, sowie durch Beschluss des administrativen Rates übertragen werden.
 
 #### Art. 101
 
 **Stellvertretung**
 
-<sup>1</sup> Der Vizepräsident des administrativen Rates wird auf die gleiche Weise gewählt wie der Präsident.
+<sup>1</sup> …
 
-<sup>2</sup> Der Vizepräsident vertritt den Präsidenten, wenn dieser verhindert ist; ist auch der Vizepräsident an der Amtsführung verhindert, vertritt das in der Wahl nächstfolgende Mitglied des administrativen Rates den Präsidenten.
+<sup>2</sup> Das Vizepräsidium vertritt das Präsidium, wenn dieses verhindert ist. Ist auch das Vizepräsidium an der Amtsführung verhindert, übernimmt das in der Rangfolge gemäss Art. 25 des Regierungsratsgesetzes[^101-1] nächstfolgende Mitglied die Leitung.
 
-<sup>3</sup> Dem Stellvertreter kommen für die Dauer der Stellvertretung die Befugnisse des Präsidenten zu.
+<sup>3</sup> Die Befugnisse des Präsidiums für diese Dauer stehen der Stellvertretung zu.
+
+[^101-1]: NG152.1
 
 #### Art. 102
 
-**Aufgaben und Befugnisse**
-
-<sup>1</sup> Der Präsident des administrativen Rates hat folgende Aufgaben und Befugnisse:
-
-- 1\. die Leitung der Gemeindeversammlung sowie der Sitzungen des administrativen Rates;
-- 2\. die Überwachung des Vollzuges der Gesetze, Verordnungen und Reglemente sowie der Beschlüsse und Entscheidungen der kantonalen Behörden und der Stimmberechtigten der Gemeinde;
-- 3\. die Überwachung der Tätigkeit des administrativen Rates und seiner Departemente;
-- 4\. die Überwachung der Tätigkeit der Beamten und Angestellten der Gemeinde, soweit diese nicht einem andern Mitglied des administrativen Rates oder einem andern Gemeindeorgan unterstellt sind;
-- 5\. die Erfüllung aller weitern Aufgaben, die ihm durch die Vorschriften des Bundes, des Kantons oder der Gemeinde, sowie durch Beschluss des administrativen Rates übertragen werden.
+**…**
 
 #### Art. 103
 
 **Präsidialverfügungen**
 
-<sup>1</sup> Der Präsident handelt für den administrativen Rat, wenn unverzüglich Massnahmen zu treffen sind; wird dadurch der Aufgabenbereich eines andern Mitglieds des administrativen Rates betroffen, hat er nach Möglichkeit die Massnahme mit diesem zu besprechen.
+<sup>1</sup> Das Präsidium handelt für den administrativen Rat, wenn unverzüglich Massnahmen zu treffen sind; wird dadurch der Aufgabenbereich eines andern Mitglieds des administrativen Rates betroffen, hat es nach Möglichkeit die Massnahme mit diesem zu besprechen.
 
-<sup>2</sup> Von den getroffenen Massnahmen ist der administrative Rat in der nächstfolgenden Sitzung in Kenntnis zu setzen; der administrative Rat kann Präsidialverfügungen aufheben.
+<sup>2</sup> Entscheidet das Präsidium durch Präsidialverfügung, ist diese dem administrativen Rat in der nächstfolgenden Sitzung zur Genehmigung zu unterbreiten. Wird die Verfügung nicht genehmigt, ist sie zu widerrufen.
 
-<sup>3</sup> Der administrative Rat kann ausserdem den Präsidenten ermächtigen, näher bezeichnete Geschäfte von geringer Bedeutung durch Präsidialverfügung zu erledigen.
+<sup>3</sup> Der administrative Rat kann ausserdem das Präsidium ermächtigen, näher bezeichnete Geschäfte von geringer Bedeutung durch Präsidialverfügung zu erledigen.
 
-### 2.1.4 Die Kommissionen
+<sup>4</sup> Entscheidbefugnisse des Präsidiums gemäss dem Verwaltungsrechtspflegegesetz[^103-1] bleiben vorbehalten.
+
+[^103-1]: NG265.1
+
+### 2.1.4 Kommissionen
 
 #### Art. 104
 
@@ -1005,7 +1011,7 @@ beschliesst:
 
 <sup>2</sup> Gemeinden, die das gleiche Gebiet umfassen, können eine gemeinsame Finanzkommission einsetzen; die Gemeindeordnungen der beteiligten Gemeinden haben festzulegen, wieviele Mitglieder jede Gemeinde in die Finanzkommission abordnet.
 
-<sup>3</sup> Der Finanzkommission dürfen weder Mitglieder des administrativen Rates noch Beamte oder Angestellte der Gemeinde oder einer Anstalt der Gemeinde angehören.
+<sup>3</sup> Der Finanzkommission dürfen weder Mitglieder des administrativen Rates noch Mitarbeitende der Gemeinde oder einer öffentlich-rechtlichen Anstalt der Gemeinde angehören.
 
 #### Art. 105
 
@@ -1022,7 +1028,7 @@ beschliesst:
 
 <sup>2</sup> Sie kann im Rahmen ihrer Aufgaben die Geschäftsführung des administrativen Rates sowie der übrigen Organe und Verwaltungsstellen der Gemeinde auf Rechtmässigkeit und Zweckmässigkeit der Organisation überprüfen.
 
-<sup>3</sup> Sie kann im Rahmen des beschlossenen Kredits für die fachliche Überprüfung der Rechnungen ganz oder teilweise aussenstehende Fachleute beiziehen.
+<sup>3</sup> Sie kann im Rahmen des bewilligten Kredits für die fachliche Überprüfung der Rechnungen Fachleute beiziehen.
 
 #### Art. 106
 
@@ -1036,27 +1042,23 @@ beschliesst:
 
 <sup>1</sup> Die Finanzkommission erstattet der Gemeindeversammlung Bericht.
 
-<sup>2</sup> Sie stellt der Gemeindeversammlung Antrag auf Genehmigung oder Rückweisung der Rechnungen und nimmt zum Voranschlag und den übrigen von ihr geprüften Geschäften Stellung.
+<sup>2</sup> Sie stellt der Gemeindeversammlung Antrag auf Genehmigung oder Rückweisung der Rechnungen und nimmt zum Budget und den übrigen von ihr geprüften Geschäften Stellung.
 
-<sup>3</sup> Stellt die Finanzkommission Fehler oder Ordnungswidrigkeiten fest, hat sie der betreffenden Behörde oder Verwaltungsstelle unter Kenntnisgabe an den administrativen Rat Gelegenheit zu geben, den Mangel zu beheben, bevor sie Bericht an die Gemeindeversammlung oder die Aufsichtsbehörde erstattet.
+<sup>3</sup> Stellt die Finanzkommission Fehler oder Ordnungswidrigkeiten fest, hat sie der betreffenden Behörde oder Verwaltungsstelle Gelegenheit zu geben, den Mangel zu beheben, bevor sie Bericht an die Gemeindeversammlung oder die Aufsichtsbehörde erstattet. Der administrative Rat ist in Kenntnis zu setzen.
 
 <sup>4</sup> Stellt die Finanzkommission erhebliche Pflichtverletzungen, Missstände oder strafbare Handlungen fest oder besteht ein entsprechender Verdacht, erstattet sie dem administrativen Rat unverzüglich Bericht unter Mitteilung an die kantonale Aufsichtsbehörde.
 
 #### Art. 108
 
-**Übrige Kommissionen**
-
-<sup>1</sup> Der administrative Rat kann für einzelne Verwaltungszweige oder für einzelne Geschäfte Kommissionen mit beratender Aufgabe bestellen.
-
-<sup>2</sup> Wenn solche Kommissionen eigene Befugnisse ausüben sollen, müssen diese in der Gesetzgebung umschrieben sein.
+**…**
 
 #### Art. 109
 
 **Beizug von Sachverständigen**
 
-<sup>1</sup> Die Kommissionen der Gemeinden sind befugt, Mitglieder der Verwaltungsbehörden, Beamte und Angestellte der Gemeinde sowie der Verwaltung nicht angehörende Personen zur Auskunftserteilung beizuziehen.
+<sup>1</sup> Die Kommissionen der Gemeinden sind befugt, Mitglieder der Verwaltungsbehörden, Mitarbeitende der Gemeinde sowie der Verwaltung nicht angehörende Personen zur Auskunftserteilung beizuziehen.
 
-### 2.1.5 Die Beamten und Angestellten
+### 2.1.5 Mitarbeiterinnen und Mitarbeiter
 
 #### Art. 110
 
@@ -1064,38 +1066,40 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden geben sich in der Gemeindeordnung eine Verwaltungsorganisation.
 
-<sup>2</sup> Jede Gemeinde wählt einen Schreiber.
+<sup>2</sup> …
 
-<sup>3</sup> Die Gemeinden können in ihrer Verwaltungsorganisation weitere Amtsstellen schaffen und diese unmittelbar dem administrativen Rat, einer andern Behörde der Gemeinde, einem Mitglied des administrativen Rates oder einer Kommission unterstellen.
+<sup>3</sup> Die Gemeinden können in ihrer Verwaltungsorganisation verschiedene Organisationseinheiten schaffen und diese unmittelbar dem administrativen Rat, einer anderen Behörde der Gemeinde, einem Mitglied des administrativen Rates oder einer Kommission unterstellen.
 
 #### Art. 111
 
-**Schreiberin oder Schreiber**
+**Gemeindeschreiberin oder Gemeindeschreiber**
 
-<sup>1</sup> Die Gemeinde ernennt eine Schreiberin oder einen Schreiber; der administrative Rat kann eine Stellvertreterin oder einen Stellvertreter bezeichnen.
+<sup>1</sup> Der administrative Rat ernennt eine Gemeindeschreiberin oder einen Gemeindeschreiber; der Rat kann eine Stellvertretung bezeichnen.
 
-<sup>2</sup> Die Schreiberin oder der Schreiber hat insbesondere die folgenden Aufgaben:
+<sup>1a</sup> Die Gemeindeschreiberinnen und die Gemeindeschreiber sorgen im Rahmen ihrer Befugnisse für rechtsstaatlich und verwaltungstechnisch korrekte Verwaltungsabläufe.
+
+<sup>2</sup> Sie haben insbesondere die folgenden Aufgaben:
 
 - 1\. Protokollführung der Gemeindeversammlung;
 - 2\. Protokollführung der Sitzungen des administrativen Rates;
-- 3\. Leitung der Kanzlei;
+- 3\. operative Leitung der Kanzlei;
 - 4\. Betreuung des Gemeindearchivs, wenn diese Aufgabe nicht vom administrativen Rat einer andern Mitarbeiterin oder einem andern Mitarbeiter übertragen wird.
 
 <sup>3</sup> …
 
 #### Art. 112
 
-**Arbeitsverhältnis 1. Grundsätze**
+**Arbeitsverhältnisse 1. Grundsätze**
 
-<sup>1</sup> Die Gemeinden können das Arbeitsverhältnis ihrer Mitarbeiterinnen und Mitarbeiter in einem Reglement ordnen, insbesondere die Begründung und Beendigung des Arbeitsverhältnisses, die Rechte und Pflichten der Mitarbeiterinnen und Mitarbeiter sowie deren strafrechtliche Verantwortlichkeit.
+<sup>1</sup> Das kantonale Personalgesetz regelt das für die Arbeitsverhältnisse zwischen der Gemeinde und ihren Mitarbeitenden anwendbare Recht.
 
-<sup>2</sup> Soweit Vorschriften fehlen, findet die kantonale Personalgesetzgebung sinngemäss Anwendung.
+<sup>2</sup> …
 
 #### Art. 112a
 
 **2. Berufliche Vorsorge**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Gemeinde sind bei einer registrierten Vorsorgeeinrichtung gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod zu versichern. Der Anschluss der Gemeinde als Arbeitgeberin erfolgt durch einen Anschlussvertrag.
+<sup>1</sup> Die Mitarbeitenden der Gemeinde sind bei einer registrierten Vorsorgeeinrichtung gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod zu versichern. Der Anschluss der Gemeinde als Arbeitgeberin erfolgt durch einen Anschlussvertrag.
 
 <sup>2</sup> Der Abschluss und die Änderung sowie die Kündigung eines Anschlussvertrages bedarf unter dem Vorbehalt der Genehmigung durch die Gemeindeversammlung der Mitwirkung der paritätischen Personalkommission.
 
@@ -1290,10 +1294,7 @@ beschliesst:
 
 **Aufgaben und Befugnisse 1. Gesetzgebung**
 
-<sup>1</sup> Der Einwohnerrat erlässt unter Vorbehalt des fakultativen Referendums:
-
-- 1\. Verordnungen und Reglemente, zu denen er durch die Gesetzgebung oder durch Beschluss der Stimmberechtigten zuständig erklärt wird;
-- 2\. ergänzende Vorschriften im Sinne von Art. 14.
+<sup>1</sup> Der Einwohnerrat erlässt unter Vorbehalt des fakultativen Referendums Reglemente, zu denen er durch die Gesetzgebung oder durch Beschluss der Stimmberechtigten zuständig erklärt wird.
 
 <sup>2</sup> Im übrigen hat er jene Erlasse auszuarbeiten, die er den Stimmberechtigten zur Beschlussfassung vorlegt.
 
@@ -1512,7 +1513,7 @@ beschliesst:
 
 #### Art. 155
 
-**Inhalt 1. obligatorisch**
+**Inhalt**
 
 <sup>1</sup> Die Statuten ordnen im Rahmen der Gesetzgebung die Organisation und das Verfahren des Gemeindeverbandes und haben Bestimmungen zu enthalten über:
 
@@ -1524,16 +1525,11 @@ beschliesst:
 - 6\. die Behandlung eines Vermögens- oder Schuldenüberschusses im Falle der Verbandsauflösung;
 - 7\. die Art der vorgeschriebenen Veröffentlichungen.
 
+<sup>2</sup> Die Statuten können weitere Bestimmungen enthalten, insbesondere über Zustimmungsquoren und den Erlass von Reglementen.
+
 #### Art. 156
 
-**2. fakultativ**
-
-<sup>1</sup> Die Statuten können ausserdem enthalten:
-
-- 1\. Vorschriften, wonach für die Verbindlichkeit bestimmter Beschlüsse der Delegiertenversammlung eine bestimmte Mehrheit der Stimmen oder die Zustimmung einer bestimmten Mehrheit der Verbandsgemeinden erforderlich ist;
-- 2\. Vorschriften über die Geschäftsführung der Delegiertenversammlung und des Vorstandes;
-- 3\. Vorschriften über den Erlass von Reglementen;
-- 4\. weitere der Erfüllung des Verbandszweckes dienende Vorschriften.
+**…**
 
 #### Art. 157
 
@@ -1568,11 +1564,13 @@ beschliesst:
 
 #### Art. 160
 
-**2. Wahl**
+**2. Wahl, Stimmrecht**
 
 <sup>1</sup> Die Mitglieder der Delegiertenversammlung werden von den einzelnen Gemeinden nach Massgabe der Statuten auf die Amtsdauer des Landrates gewählt.
 
-<sup>2</sup> Jede Gemeinde hat Anspruch auf mindestens zwei Sitze; in Gemeindeverbänden, denen mehr als zwei Gemeinden angehören, darf keine Gemeinde mehr als die Hälfte aller Sitze besetzen.
+<sup>2</sup> Jede Gemeinde hat mindestens Anspruch auf eine Stimme. In Gemeindeverbänden, denen mehr als zwei Gemeinden angehören, darf keine Gemeinde mehr als die Hälfte aller Stimmen besitzen.
+
+<sup>3</sup> Die Delegierten üben das Stimmrecht für ihre Gemeinde aus. Dieses kann durch eine delegierte Person allein wahrgenommen werden.
 
 #### Art. 161
 
@@ -1582,18 +1580,18 @@ beschliesst:
 
 <sup>2</sup> Der Delegiertenversammlung obliegen insbesondere:
 
-- 1\. die Wahl der Mitglieder des Vorstandes aus dem Kreis der Delegierten;
-- 2\. die Wahl des Präsidenten und des Vizepräsidenten, die in diesen Eigenschaften auch dem Vorstand angehören;
-- 3\. die Wahl ihres Sekretärs, der auch Sekretär des Vorstandes ist, der Delegiertenversammlung aber nicht angehören muss;
-- 4\. die Wahl des Kassiers sowie der Mitglieder der Kontrollstelle, welche der Delegiertenversammlung nicht angehören müssen;
+- 1\. die Wahl der Mitglieder des Vorstandes, welche nicht gleichzeitig der Delegiertenversammlung angehören dürfen;
+- 2\. die Wahl des Präsidiums und des Vizepräsidiums des Vorstandes;
+- 3\. …
+- 4\. die Wahl der Mitglieder der Kontrollstelle;
 - 5\. die Wahl der Angestellten des Verbandes, sofern nicht durch die Statuten oder Beschluss der Delegiertenversammlung der Vorstand dafür zuständig erklärt wird;
 - 6\. die Beschlussfassung über den nachträglichen Beitritt von Gemeinden gemäss Art. 143 und 144, über Änderungen der Statuten im Rahmen von Art. 157 sowie über die Auflösung des Gemeindeverbandes im Rahmen von Art. 149;
 - 7\. der Erlass von Reglementen innerhalb der Schranken der Statuten und der Gesetzgebung;
-- 8\. die jährliche Festsetzung des Voranschlages;
+- 8\. die jährliche Festsetzung des Budgets;
 - 9\. die Genehmigung der Jahresrechnung und die Entgegennahme des Rechenschaftsberichtes;
 - 10\. sofern der Verbandszweck in der Errichtung und im Betrieb einer öffentlichen Anstalt besteht, die Beschlussfassung über deren Gestaltung und Ausführung, unter Vorbehalt von Art. 165 Abs. 1 Ziff. 6;
-- 11\. die Festlegung der Besoldungen des Verbandspersonals und der Entschädigungen der Mitglieder der Verbandsorgane;
-- 12\. der Erlass von Dienstvorschriften für die Angestellten des Verbandes;
+- 11\. die Festlegung der Entschädigung der Mitglieder der Verbandsorgane in einem Reglement;
+- 12\. …
 - 13\. alle übrigen Geschäfte, die nicht ausdrücklich dem Vorstand zugewiesen sind.
 
 <sup>3</sup> Die Delegiertenversammlung trifft die ihr obliegenden Wahlen jeweils für die Amtsdauer des Landrates; die Mandatsinhaber sind wiederwählbar.
@@ -1602,25 +1600,27 @@ beschliesst:
 
 **4. Einberufung**
 
-<sup>1</sup> Die Delegiertenversammlung tritt ordentlicherweise einmal im Jahr zusammen.
+<sup>1</sup> Die Delegiertenversammlung tritt mindestens einmal im Jahr zusammen.
 
 <sup>2</sup> Sie tritt ausserdem zusammen:
 
-- 1\. wenn es der Präsident anordnet;
+- 1\. wenn es das Präsidium des Vorstandes anordnet;
 - 2\. wenn es vom Vorstand oder vom administrativen Rat einer Verbandsgemeinde verlangt wird;
 - 3\. wenn es ein Viertel der Mitglieder unter Nennung der zu behandelnden Gegenstände schriftlich verlangt.
 
-<sup>3</sup> Der Sitzungstag wird in allen Fällen durch den Präsidenten festgelegt.
+<sup>3</sup> Der Sitzungstag wird durch das Präsidium festgelegt.
 
 #### Art. 163
 
 **5. Geschäftsordnung**
 
-<sup>1</sup> Die Delegiertenversammlung wird vom Präsidenten geleitet; ist der Präsident verhindert, wird er durch den Vizepräsidenten, bei dessen Verhinderung durch das in der Wahl nächstfolgende Mitglied des Vorstandes ersetzt.
+<sup>1</sup> Die Delegiertenversammlung wird vom Präsidium des Vorstandes geleitet; ist das Präsidium verhindert, wird es durch das Vizepräsidium vertreten. Ist das Vizepräsidium verhindert übernimmt das in der Rangfolge gemäss Art. 25 des Regierungsratsgesetzes[^163-1] nächstfolgende Mitglied die Leitung.
 
-<sup>2</sup> Der Sekretär führt das Protokoll, welches der Delegiertenversammlung zur Genehmigung vorzulegen ist.
+<sup>2</sup> Das Sekretariat führt das Protokoll, welches der Delegiertenversammlung zur Genehmigung vorzulegen ist.
 
 <sup>3</sup> Die Beschlüsse sind zu veröffentlichen.
+
+[^163-1]: NG152.1
 
 #### Art. 164
 
@@ -1641,9 +1641,10 @@ beschliesst:
 - 3\. die Verwaltung des Verbandsvermögens, die Führung der Verbandsrechnungen und die jährliche Rechnungsablage;
 - 4\. die jährliche Erstattung eines Rechenschaftsberichtes über die Verbandstätigkeit;
 - 5\. das Einfordern der den angeschlossenen Gemeinden obliegenden Leistungen, die Erhebung von Gebühren und Beiträgen der Begünstigten sowie die Geltendmachung von Leistungen des Bundes, des Kantons und Dritter;
-- 6\. die Vergebung von Arbeiten, sofern hierfür nicht eine Kommission zuständig erklärt wird;
-- 7\. die Festlegung von Pflichtenheften für das Verbandspersonal;
-- 8\. die Vertretung des Gemeindeverbandes nach aussen; Prozessvollmachten sind im Sinne von Art. 90 von der Delegiertenversammlung einzuholen.
+- 6\. die Vergabe von Arbeiten, sofern hierfür nicht eine Kommission zuständig erklärt wird;
+- 7\. der Erlass von Dienstvorschriften und Pflichtenheften sowie die Festlegung des Lohns für die Mitarbeitenden des Verbands;
+- 8\. die Vertretung des Gemeindeverbandes nach aussen; Prozessvollmachten sind von der Delegiertenversammlung einzuholen;
+- 9\. die Wahl des Sekretariats des Vorstands und der Delegiertenversammlung.
 
 <sup>2</sup> Die Statuten oder die Delegiertenversammlung können dem Vorstand weitere Aufgaben übertragen.
 
@@ -1657,7 +1658,7 @@ beschliesst:
 
 **Kontrollstelle**
 
-<sup>1</sup> Die Kontrollstelle besteht aus drei bis sieben Personen, die dem Vorstand nicht angehören dürfen.
+<sup>1</sup> Die Kontrollstelle besteht aus mindestens zwei Personen, die nicht dem Vorstand angehören dürfen.
 
 <sup>2</sup> Die Kontrollstelle hat die Aufgabe, die Rechnungen des Gemeindeverbandes jährlich zu prüfen und über das Ergebnis schriftlich Bericht zu erstatten.
 
@@ -1698,7 +1699,7 @@ beschliesst:
 
 <sup>1</sup> Der Gemeindeverband kann für die beanspruchten Leistungen Gebühren erheben.
 
-<sup>2</sup> Weitere natürliche und juristische Personen, denen die vom Gemeindeverband ausgeübte Tätigkeit wirtschaftliche Vorteile bringt, können zu angemessenen Beitragsleistungen herangezogen werden.
+<sup>2</sup> Weitere natürliche und juristische Personen, denen die vom Gemeindeverband ausgeübte Tätigkeit wirtschaftliche Vorteile bringt, können zu angemessenen Beitragsleistungen verpflichtet werden.
 
 <sup>3</sup> Der Gemeindeverband kann im Rahmen der Statuten über die Gebühren und Beiträge der Begünstigten in einem Reglement nähere Bestimmungen erlassen.
 
@@ -1736,7 +1737,7 @@ beschliesst:
 
 **Allgemein**
 
-<sup>1</sup> Die Gemeinden und Gemeindeverbände stehen im Rahmen der Gesetzgebung unter der Aufsicht des Kantons; sie haben den Anordnungen der Aufsichtsbehörde Folge zu leisten.
+<sup>1</sup> Die Gemeinden, Gemeindeverbände und die öffentlich-rechtlichen Anstalten der Gemeinden stehen im Rahmen der Gesetzgebung unter der Aufsicht des Kantons; sie haben den Anordnungen der Aufsichtsbehörde Folge zu leisten.
 
 <sup>2</sup> Aufsichtsbehörde ist der Regierungsrat; dieser kann seine Aufsichtsbefugnisse, mit Ausnahme der Beschränkung oder Aufhebung der Selbstverwaltung, ganz oder teilweise einzelnen Direktionen übertragen.
 
@@ -1749,16 +1750,18 @@ beschliesst:
 - 1\. Erlass oder Änderung:
   - a) der Gemeindeordnung;
   - b) der Statuten und Reglemente der Gemeindeverbände;
-  - c) der Verordnungen und Reglemente der Gemeinden;
+  - c) der Reglemente und Verordnungen der Gemeinden;
 - 2\. Beschlüsse über die Änderung der Gemeindegrenzen gemäss Art. 11 Abs. 2;
-- 3\. Verträge und Vereinbarungen unter Gemeinden innerhalb und ausserhalb des Kantons betreffend die gemeinsame Aufgabenerfüllung und die gemeinsame Errichtung von Anstalten;
+- 3\. Vereinbarungen unter Gemeinden innerhalb und ausserhalb des Kantons betreffend die gemeinsame Aufgabenerfüllung und die gemeinsame Errichtung von Anstalten;
 - 4\. Beschluss über den Austritt aus einem Gemeindeverband;
 - 5\. Beschluss über die Auflösung eines Gemeindeverbandes;
 - 6\. Beschlüsse und Vereinbarungen gemäss Art. 153.
 
-<sup>2</sup> Die Genehmigung ist zu erteilen, wenn die Erlasse, Verträge, Vereinbarungen und Beschlüsse nichts enthalten, was dem Bundesrecht oder dem kantonalen Recht widerspricht, und wenn sie keine weiteren erheblichen Mängel sachlicher oder formeller Art aufweisen.
+<sup>2</sup> Die Genehmigung ist zu erteilen, wenn die Erlasse, Vereinbarungen und Beschlüsse nichts enthalten, was dem Bundesrecht oder dem kantonalen Recht widerspricht, und wenn sie keine weiteren erheblichen Mängel sachlicher oder formeller Art aufweisen.
 
 <sup>3</sup> Weisen sie erhebliche Mängel auf, sind sie durch den Regierungsrat zurückzuweisen; kleinere Mängel können im Genehmigungsbeschluss durch Änderungen behoben werden.
+
+<sup>4</sup> Die Erlasse, Vereinbarungen und Beschlüsse treten mit Rechtskraft der Genehmigung in Kraft, sofern das Inkrafttreten nicht abweichend festgelegt wurde.
 
 [^204-1]: Fassung gemäss Landsgemeindebeschluss vom 26. April 1992, A 1992, 683
 
@@ -1782,49 +1785,43 @@ beschliesst:
 
 **Massnahmen bei vorschriftswidrigen Zuständen 1. allgemein**
 
-<sup>1</sup> Werden in Gesetzgebung, Verwaltung oder Rechnungswesen einer Gemeinde oder eines Gemeindeverbandes vorschriftswidrige Zustände festgestellt, haben kantonale Amtsstellen und Direktionen dem Regierungsrat davon unverzüglich Kenntnis zu geben; das Recht der Anzeige steht auch jedem Aktivbürger der Gemeinde zu.
+<sup>1</sup> Werden in Gesetzgebung, Verwaltung oder Rechnungswesen einer Gemeinde, eines Gemeindeverbandes oder einer öffentlich-rechtlichen Anstalt einer Gemeinde vorschriftswidrige Zustände festgestellt, haben kantonale Amtsstellen und Direktionen den Regierungsrat unverzüglich in Kenntnis zu setzen; das Recht der Anzeige steht auch jeder Aktivbürgerin oder jedem Aktivbürger der Gemeinde zu.
 
 <sup>2</sup> Der Regierungsrat lässt den Sachverhalt nach Anhören der verantwortlichen Behörde untersuchen und fordert gegebenenfalls unter Ansetzung einer angemessenen Frist zur Behebung der festgestellten Mängel auf.
 
 <sup>3</sup> Wird der Aufforderung nicht fristgemäss entsprochen, trifft der Regierungsrat die zur Herbeiführung des vorschriftsgemässen Zustandes erforderlichen Massnahmen; in dringenden Fällen kann der Regierungsrat ohne vorgängige Untersuchung vorläufige Massnahmen anordnen.
 
-<sup>4</sup> Die Kosten der Untersuchung und der Massnahmen kann der Regierungsrat der Gemeinde beziehungsweise dem Gemeindeverband auferlegen; der Anzeiger haftet für die Kosten nur, wenn er wissentlich oder grobfahrlässig unrichtige Angaben gemacht hat.
+<sup>4</sup> Die Kosten der Untersuchung und der Massnahmen kann der Regierungsrat der Gemeinde beziehungsweise dem Gemeindeverband oder der öffentlich-rechtlichen Anstalt einer Gemeinde auferlegen; die anzeigende Person haftet für die Kosten nur, wenn sie wissentlich oder grobfahrlässig unrichtige Angaben gemacht hat.
 
 #### Art. 208
 
 **2. Disziplinarstrafe**
 
-<sup>1</sup> Der Regierungsrat kann Behördenmitglieder und Beamte, die Aufforderungen der Aufsichtsbehörde missachten, gemäss den Bestimmungen des Behördengesetzes[^208-1] beziehungsweise des Beamtengesetzes[^208-2] mit einer Disziplinarstrafe belegen.
+<sup>1</sup> Der Regierungsrat kann Behördenmitglieder, die Aufforderungen der Aufsichtsbehörde missachten, gemäss den Bestimmungen des Behördengesetzes[^208-1] mit einer Disziplinarstrafe belegen.
 
 [^208-1]: NG 161.1
-[^208-2]: NG 165.1 (heute Personalgesetz)
 
 #### Art. 209
 
 **3. Amtsenthebung**
 
-<sup>1</sup> Mitglieder von Behörden sowie Beamte können unabhängig von Art. 208 aus wichtigen Gründen, namentlich wegen Untauglichkeit zur Amtsausübung, durch den Regierungsrat ihres Amtes enthoben werden.
+<sup>1</sup> Mitglieder von Behörden können unabhängig von Art. 208 aus wichtigen Gründen, namentlich wegen Untauglichkeit zur Amtsausübung, durch den Regierungsrat ihres Amtes enthoben werden.
 
-<sup>2</sup> Die Bestimmungen des Behördengesetzes[^209-1] beziehungsweise des Beamtengesetzes[^209-2] sind sinngemäss anzuwenden.
+<sup>2</sup> Die Bestimmungen des Behördengesetzes[^209-1] sind sinngemäss anzuwenden.
 
 [^209-1]: NG 161.1
-[^209-2]: NG 165.1 (heute Personalgesetz)
 
 #### Art. 210
 
-**4. Strafverfahren**
-
-<sup>1</sup> Bestehen Anhaltspunkte für eine strafrechtliche Verfehlung, ist eine Strafuntersuchung einzuleiten.
-
-<sup>2</sup> Bei leichteren Straftatbeständen kann nach Einleitung eines Disziplinarverfahrens auf eine Strafanzeige verzichtet werden.
+**…**
 
 #### Art. 211
 
 **Entzug der Selbstverwaltung**
 
-<sup>1</sup> Gemeinden oder Gemeindeverbänden, die sich beharrlich weigern, den Anordnungen des Regierungsrates Folge zu leisten, oder bei denen aus andern Gründen, insbesondere wegen der Unmöglichkeit, die Behörden zu bestellen oder die finanziellen Verpflichtungen zu erfüllen, eine gesetzmässige und geordnete Verwaltung nicht mehr gewährleistet ist, entzieht der Regierungsrat die Selbstverwaltung ganz oder teilweise so lange, als es die Interessen des Kantons und der beaufsichtigten Gemeinde beziehungsweise des Gemeindeverbandes erfordern.
+<sup>1</sup> Gemeinden, Gemeindeverbänden oder öffentlich-rechtlichen Anstalten einer Gemeinde, die sich beharrlich weigern, den Anordnungen des Regierungsrates Folge zu leisten, oder bei denen aus andern Gründen, insbesondere wegen der Unmöglichkeit, die Behörden zu bestellen oder die finanziellen Verpflichtungen zu erfüllen, eine gesetzmässige und geordnete Verwaltung nicht mehr gewährleistet ist, entzieht der Regierungsrat die Selbstverwaltung ganz oder teilweise so lange, als es die Interessen des Kantons und der beaufsichtigten Gemeinde beziehungsweise des Gemeindeverbandes oder der öffentlich-rechtlichen Anstalt der Gemeinde erfordern.
 
-<sup>2</sup> Der Regierungsrat bestellt für eine solche Gemeinde oder einen solchen Gemeindeverband einen oder mehrere Sachverwalter, welche die Verwaltung anstelle der sonst zuständigen Organe auf Kosten der Gemeinde beziehungsweise des Gemeindeverbandes vorschriftsgemäss besorgen.
+<sup>2</sup> Der Regierungsrat bestellt einen oder mehrere Sachverwalter, welche die Verwaltung anstelle der sonst zuständigen Organe auf Kosten der Gemeinde beziehungsweise des Gemeindeverbandes oder der öffentlich-rechtlichen Anstalt der Gemeinde vorschriftsgemäss besorgen.
 
 ## 6 Rechtsmittel
 
@@ -1832,9 +1829,9 @@ beschliesst:
 
 **Einsprache**
 
-<sup>1</sup> Gegen Verfügungen von Kommissionen der Gemeinde, von einzelnen Mitgliedern des administrativen Rates, von Amtsstellen oder von Verwaltungsangestellten der Gemeinde kann binnen 20 Tagen nach erfolgter Zustellung bei der verfügenden Instanz Einsprache erhoben werden.
+<sup>1</sup> Gegen Verfügungen von Kommissionen und von Organisationseinheiten, die dem administrativen Rat oder einem anderen Gemeindeorgan unterstellt sind, kann binnen 20 Tagen nach erfolgter Zustellung bei der verfügenden Instanz Einsprache erhoben werden.
 
-<sup>2</sup> Die Gemeinden können in ihren Reglementen gegen Entscheide des administrativen Rates eine Einsprachemöglichkeit vorsehen, sofern nicht eine Koordination mit Verfahren anderer Instanzen erforderlich ist.
+<sup>2</sup> Die Gemeinden können in ihren Gemeindeordnungen oder in ihren Reglementen gegen Entscheide des administrativen Rates eine Einsprachemöglichkeit vorsehen, sofern nicht eine Koordination mit Verfahren anderer Instanzen erforderlich ist.
 
 #### Art. 213–218
 
@@ -1854,12 +1851,13 @@ beschliesst:
 
 #### Art. 220
 
-**2. Beschwerdegründe**
+**2. Zulässigkeit**
 
 <sup>1</sup> Das Verfassungsgericht beurteilt Beschwerden:
 
 - 1\. über die Ausübung der politischen Rechte und über die Gültigkeit von Wahlen und Abstimmungen in den Gemeinden nach erfolgter Beurteilung durch den Regierungsrat gemäss Art. 219 Abs. 1;
-- 2\. über die Rechtmässigkeit von Verordnungen und Reglementen der Gemeinden und Gemeindeverbände;
+- 2\. über die Rechtmässigkeit von Reglementen und Verordnungen der Gemeinden, Gemeindeverbände sowie der öffentlich-rechtlichen Anstalten der Gemeinde;
+- 2a. gegen Genehmigungsentscheide des Regierungsrates zu Erlassen gemäss Ziff. 2.
 - 3\. gegen Entscheide des Landrates gemäss Art. 219 Abs. 4;
 - 4\. gegen Entscheide des Regierungsrates gemäss Art. 144 Abs. 2, Art. 146 Abs. 3, Art. 148 Abs. 4 und Art. 149 Abs. 3;
 - 5\. gegen Entscheide des administrativen Rates beziehungsweise des Einwohnerrates über die verfassungsmässige Zulässigkeit der Anträge zuhanden der Stimmberechtigten.
@@ -1870,15 +1868,19 @@ beschliesst:
 
 <sup>1</sup> Zur Einreichung von Verfassungsgerichtsbeschwerden sind befugt:
 
-- 1\. im Falle von Art. 220 Ziff. 1 und 2 jeder Aktivbürger der Gemeinde beziehungsweise einer dem Gemeindeverband angeschlossenen Gemeinde;
+- 1\. im Falle von Art. 220 Ziff. 1 und 2 jede Aktivbürgerin oder jeder Aktivbürger der Gemeinde, einer dem Gemeindeverband angeschlossenen Gemeinde beziehungsweise einer der öffentlich-rechtlichen Anstalt zugehörigen Gemeinde;
+- 1a. im Falle von Art. 220 Ziff. 2a der administrative Rat;
 - 2\. im Falle von Art. 220 Ziff. 3 der administrative Rat sowie der Regierungsrat;
-- 3\. im Falle von Art. 220 Ziff. 4 jeder Antragsteller.
+- 2a. im Falle von Art. 220 Ziff. 4 der Vorstand und der administrative Rat;
+- 3\. im Falle von Art. 220 Ziff. 5 jede antragstellende Person.
 
 #### Art. 222
 
 **4. Beschwerdefrist**
 
 <sup>1</sup> Verfassungsgerichtsbeschwerden gemäss Art. 220 Ziff. 1 und 5 sind binnen 3 Tagen einzureichen.
+
+<sup>1a</sup> Verfassungsgerichtsbeschwerdeverfahren gemäss Art. 220 Ziff. 2 sind zu sistieren, bis der Regierungsrat über die Genehmigung entschieden hat.
 
 <sup>2</sup> Im Übrigen gelten die Beschwerdefristen der Verordnung über das Verfahren vor dem Verfassungsgericht[^222-1].
 
@@ -1895,6 +1897,12 @@ beschliesst:
 **Strafbestimmung**
 
 <sup>1</sup> Widerhandlungen gegen Bestimmungen dieses Gesetzes oder der sich darauf stützenden Erlasse und Verfügungen werden, wo nicht Strafnormen des Bundesrechtes zur Anwendung gelangen, mit Busse bestraft.
+
+#### Art. 225a
+
+**Anzeigepflicht**
+
+<sup>1</sup> Das vollziehende Organ der Gemeinde, des Gemeindeverbandes oder der öffentlich-rechtlichen Anstalt der Gemeinde sowie der Regierungsrat im Rahmen seiner Aufsicht sind zur Strafanzeige verpflichtet, wenn die Widerhandlung nicht geringfügig ist.
 
 #### Art. 226
 
@@ -1946,6 +1954,38 @@ beschliesst:
 
 [^232-1]: NG 151.11 (heute Landratsgesetz, NG 151.1, und Landratsreglement, NG 151.11)
 
+#### Art. 232a
+
+**Übergangsbestimmungen zur Änderung vom … 1. Allgemein**
+
+<sup>1</sup> Für Wahl- und Abstimmungsgeschäfte der Gemeindeversammlung, die im Zeitpunkt des Inkrafttretens dieser Änderung bereits gemäss Art. 37 veröffentlicht wurden, kommt das bisherige Recht zur Anwendung.
+
+#### Art. 232b
+
+**2. bestehende Reglemente und Verordnungen**
+
+<sup>1</sup> Reglemente und Verordnungen, die im Zeitpunkt des Inkrafttretens dieser Änderung rechtsgültig verabschiedet wurden, bleiben bestehen. Bestimmungen, die im Widerspruch zum neuen Recht stehen, sind nicht anwendbar.
+
+<sup>2</sup> Werden Reglemente und Verordnungen geändert, sind sie an das neue Recht anzupassen.
+
+#### Art. 232c
+
+**3. Amtsdauer des Präsidiums und des Vizepräsidiums**
+
+<sup>1</sup> Ändert eine Gemeinde die Amtsdauer des Präsidiums und des Vizepräsidiums von zwei auf vier Jahre, hat sie die erforderlichen Übergangsbestimmungen in der Gemeindeordnung zu erlassen.
+
+#### Art. 232d
+
+**4. Wappen**
+
+<sup>1</sup> Die bisherigen Wappen behalten bis zu einem abweichenden Beschluss der Gemeindeversammlung ihre Gültigkeit.
+
+#### Art. 232e
+
+**5. Gemeindeverbände**
+
+<sup>1</sup> Die Gemeindeverbände haben innert vier Jahren seit Inkrafttreten der Änderung vom ... ihre Statuten anzupassen und den Vorstand nach den neuen Vorschriften zu wählen. Bis zu dieser Umsetzung gelten die bisherigen Bestimmungen.
+
 #### Art. 233
 
 **Änderung bestehender Gesetze 1. Bürgerrechtsgesetz**
@@ -1996,34 +2036,10 @@ beschliesst:
 
 [^238-1]: Vom Bund genehmigt am 18. Dezember 1996
 
-## A1 Anhang 1: Wappen der Gemeinden
+## A1
 
 #### Art. A1-1
 
-<sup>1</sup> Die Wappen der politischen Gemeinden werden in bezug auf die Anordnung und die heraldischen Farben der Wappenbestandteile, nicht aber betreffend die graphische Gestaltung, wie folgt festgelegt:
-
-<sup>2</sup> Stans:
-
-<sup>3</sup> Ennetmoos:
-
-<sup>4</sup> Dallenwil:
-
-<sup>5</sup> Stansstad:
-
-<sup>6</sup> Oberdorf:
-
-<sup>7</sup> Buochs:
-
-<sup>8</sup> Ennetbürgen:
-
-<sup>9</sup> Wolfenschiessen:
-
-<sup>10</sup> Beckenried:
-
-<sup>11</sup> Hergiswil:
-
-<sup>12</sup> Emmetten:
-
-<sup>13</sup> Legende:
+**…**
 
 A 1974, 776
