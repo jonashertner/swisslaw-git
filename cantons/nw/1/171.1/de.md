@@ -10,7 +10,7 @@ version_adopted: 2024-10-23
 adopted: 1974-04-28
 in_force: 1974-04-28
 url: "https://gesetze.nw.ch/app/de/texts_of_law/171.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1435/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -83,28 +83,14 @@ beschliesst:
 
 **3. Kirch- und Kapellgemeinden**
 
-<sup>1</sup> Der Landrat legt die Gliederung der römisch-katholischen und der evangelisch-reformierten Kirche nach Massgabe von Art. 88 der Kantonsverfassung[^6-1] in einem Beschluss fest.
-
-- 1\. Stans
-- 2\.. Ennetmoos
-- 3\. Dallenwil
-- 4\. Stansstad
-- 5\. Obbürgen
-- 6\. Kehrsiten
-- 7\. Büren
-- 8\. Buochs
-- 9\. Ennetbürgen
-- 10\. Wolfenschiessen
-- 11\. Oberrickenbach
-- 12\. Beckenried
-- 13\. Hergiswil
-- 14\. Emmetten
+<sup>1</sup> Der Landrat legt die Gliederung der römisch-katholischen und der evangelisch-reformierten Kirche nach Massgabe von Art. 88 der Kantonsverfassung[^6-1] in einem Beschluss fest.[^6-2]
 
 <sup>2</sup> Dieser Beschluss untersteht nicht dem fakultativen Referendum.
 
 <sup>3</sup> …
 
 [^6-1]: NG 111
+[^6-2]: Formlose Aufhebung der Aufzählung gemäss Art. 21 Abs. 1 PuG
 
 #### Art. 7
 
