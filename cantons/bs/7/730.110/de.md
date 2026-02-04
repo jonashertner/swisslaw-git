@@ -4,24 +4,23 @@ number: "730.110"
 title: Bau- und Planungsverordnung
 short: BPV
 language: de
-version: 2025-11-01
-valid_until: 2026-02-04
-version_adopted: 2025-10-28
+version: 2026-02-05
+version_adopted: 2026-01-27
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6681/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6759/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bau- und Planungsverordnung
 
-Bau- und Planungsverordnung | Hochbauten
+Hochbauten
 
 (BPV)
 
-Vom 19. Dezember 2000 (Stand 1. November 2025)
+Vom 19. Dezember 2000 (Stand 5. Februar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -39,11 +38,9 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Für die Beurteilung der Baureife von Grundstücken ist das Hochbau- und Planungsamt[^1-1] zuständig.
+<sup>1</sup> Für die Beurteilung der Baureife von Grundstücken ist die Dienststelle Städtebau und Architektur zuständig.
 
 <sup>2</sup> Seine Entscheide im Baubewilligungsverfahren sind für die Bewilligungsbehörde verbindlich.
-
-[^1-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### 2. Bodenordnungskommission
 
@@ -51,41 +48,31 @@ beschliesst:
 
 #### § 2
 
-<sup>1</sup> Zur Prüfung der planungsrechtlichen Baureife wird dem Hochbau- und Planungsamt[^2-1] eine Bodenordnungskommission beigeordnet.
+<sup>1</sup> Zur Prüfung der planungsrechtlichen Baureife wird der Dienststelle Städtebau und Architektur eine Bodenordnungskommission beigeordnet.
 
 <sup>2</sup> Die Kommission bezeichnet die Grundstücke, deren Lage, Form oder Grösse für die zulässige bauliche Nutzung nicht zweckmässig ist, und Grundstücke, deren Grenzen für die zulässige Nutzung des umliegenden Gebietes allenfalls verändert werden müssen.
 
 <sup>3</sup> Sie unterrichtet und berät die Eigentümerinnen oder Eigentümer dieser Grundstücke.
 
-<sup>4</sup> Sie prüft Bauvorhaben auf diesen Grundstücken auf ihre Baureife. Das Hochbau- und Planungsamt[^2-2], das Bauinspektorat[^2-3], das Grundbuch- und Vermessungsamt und der zuständige Gemeinderat können ihr weitere Baubegehren zur Prüfung überweisen.
-
-[^2-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
-[^2-2]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
-[^2-3]: § 2 Abs. 4: Umbenennung in Bau- und Gastgewerbeinspektorat.
+<sup>4</sup> Sie prüft Bauvorhaben auf diesen Grundstücken auf ihre Baureife. Die Dienststelle Städtebau und Architektur, das Bau- und Gastgewerbeinspektorat, das Grundbuch- und Vermessungsamt und der zuständige Gemeinderat können ihr weitere Baubegehren zur Prüfung überweisen.
 
 ### b) Organisation
 
 #### § 3
 
-<sup>1</sup> Die Kommission besteht aus je einem Vertreter oder einer Vertreterin des Hochbau- und Planungsamtes[^3-1], des Bauinspektorates[^3-2], des Grundbuch- und Vermessungsamtes und einer nicht der Verwaltung angehörenden, vom Hochbau- und Planungsamt im Einvernehmen mit den beteiligten Ämtern zu bestimmenden Fachperson.
+<sup>1</sup> Die Kommission besteht aus je einer Vertreterin oder einem Vertreter der Dienststelle Städtebau und Architektur, des Bau- und Gastgewerbeinspektorats, des Grundbuch- und Vermessungsamtes und einer nicht der Verwaltung angehörenden, von der Dienststelle Städtebau und Architektur im Einvernehmen mit den beteiligten Ämtern zu bestimmenden Fachperson.
 
 <sup>2</sup> Wenn Grundstücke oder Bauvorhaben in Riehen und Bettingen zu beurteilen sind, wird sie durch eine Delegierte oder einen Delegierten dieser Gemeinden ergänzt.
 
-<sup>3</sup> Die Kommission wird vom Hochbau- und Planungsamt[^3-3] von Amts wegen oder auf Begehren eines beteiligten Amtes oder einer Gemeinde einberufen.
-
-[^3-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
-[^3-2]: § 3 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^3-3]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
+<sup>3</sup> Die Kommission wird von der Dienststelle Städtebau und Architektur von Amts wegen oder auf Begehren eines beteiligten Amtes oder einer Gemeinde einberufen.
 
 ### c) Wirkungen der Entscheide
 
 #### § 4
 
-<sup>1</sup> Entscheide der Kommission im Baubewilligungsverfahren sind für das Hochbau- und Planungsamt[^4-1] verbindlich.
+<sup>1</sup> Entscheide der Kommission im Baubewilligungsverfahren sind für die Dienststelle Städtebau und Architektur verbindlich.
 
 <sup>2</sup> Befunde, Bescheide und Auskünfte der Kommission ausserhalb des Baubewilligungsverfahrens begründen keine Rechte und Pflichten und können nicht angefochten werden.
-
-[^4-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### 2. Kapitel: Bebauung
 
@@ -95,9 +82,7 @@ beschliesst:
 
 <sup>1</sup> Gesuche um Bewilligung von Nutzungsverlagerungen sind im Baubegehren zu stellen und schriftlich zu begründen.
 
-<sup>2</sup> Für die Beurteilung ist das Hochbau- und Planungsamt[^5-1] zuständig. Seine Entscheide sind für die Bewilligungsbehörde verbindlich.
-
-[^5-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
+<sup>2</sup> Für die Beurteilung ist die Dienststelle Städtebau und Architektur zuständig. Ihre Entscheide sind für die Bewilligungsbehörde verbindlich.
 
 ### II. Vorragende Bauteile (§ 17 BPG)
 
@@ -308,9 +293,7 @@ beschliesst:
 
 <sup>1</sup> Wenn Gesetze und Verordnungen nichts anderes vorschreiben, müssen Bauten und Anlagen nach den anerkannten Regeln der Technik und der Baukunde erstellt, ausgestattet, betrieben und unterhalten werden.
 
-<sup>2</sup> Das Bauinspektorat[^19-1] führt eine Liste der Normen und Richtlinien, die es als dem Stand der Technik und der Baukunde entsprechend anerkennt. Es macht sie öffentlich zugänglich und gibt sie auf Verlangen ab.
-
-[^19-1]: § 19 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>2</sup> Das Bau- und Gastgewerbeinspektorat führt eine Liste der Normen und Richtlinien, die es als dem Stand der Technik und der Baukunde entsprechend anerkennt. Es macht sie öffentlich zugänglich und gibt sie auf Verlangen ab.
 
 ### (3.)II. Behindertengerechtes Bauen (§ 62 BPG)
 
@@ -346,6 +329,8 @@ beschliesst:
 
 <sup>4</sup> Von der Verwaltung veranlasste Änderungen der Hausnummerierung sind gebührenfrei.
 
+<sup>5</sup> Die Grundeigentümerinnen und Grundeigentümer tragen die Kosten für die von ihnen verursachten Änderungen der Hausnummerierung.
+
 ### 4. Kapitel: Abweichungen
 
 ### (4.)1. Befristete Bewilligungen (§§ 79 und 82 BPG)
@@ -378,7 +363,7 @@ beschliesst:
 
 <sup>2</sup> Unter die Bewilligungspflicht fallen ferner:
 
-- a) Zweckänderungen von Bauten und Anlagen, die nach den Vorschriften über die zulässigen Arten der baulichen Nutzung, nach der Gesetzgebung über den Umweltschutz und über die Energie oder für das Verkehrsaufkommen wesentlich sind.
+- a) Zweckänderungen von Bauten und Anlagen, die nach den Vorschriften über die zulässigen Arten der baulichen Nutzung, nach der Gesetzgebung über den Umwelt- und Gewässerschutz und über die Energie oder für das Verkehrsaufkommen wesentlich sind.
 - b) Arbeiten, die das Terrain verändern, wie Aushub, Aufschüttungen, Abgrabungen oder Bohrungen.
 - c) Zweckentfremdungen von Wohnraum.
 
@@ -388,14 +373,11 @@ beschliesst:
 
 #### § 27
 
-<sup>1</sup> Bei geringfügigen Bauvorhaben genügt eine Anzeige an das Bauinspektorat[^27-1]. Das Bauinspektorat führt eine Liste von Vorhaben, welche dieser Anforderung genügen.
+<sup>1</sup> Bei geringfügigen Bauvorhaben genügt eine Meldung an die Bewilligungsbehörde.
 
-<sup>2</sup> Die Meldung ist dem Bauinspektorat[^27-2] mindestens zwei Wochen vor Arbeitsbeginn auf dem amtlichen Formular zu erstatten. Vorhaben in der Stadt- und Dorfbild-Schutzzone und an eingetragenen Denkmälern sind zwei Monate vorher auch der Denkmalpflege zu melden.
+<sup>2</sup> Die Meldung ist der Bewilligungsbehörde mindestens zwei Wochen vor Arbeitsbeginn elektronisch zu erstatten. Vorhaben in der Stadt- und Dorfbild-Schutzzone und an eingetragenen Denkmälern sind zwei Monate vorher auch der Denkmalpflege zu melden.
 
 <sup>3</sup> …
-
-[^27-1]: § 27 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^27-2]: § 27 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (5.A.I.2.)b) Ohne Bewilligung und Meldung zulässige Vorhaben
 
@@ -425,17 +407,13 @@ beschliesst:
 
 #### § 30
 
-<sup>1</sup> Im ordentlichen Bewilligungsverfahren werden die Vorhaben öffentlich angezeigt. Das Bauinspektorat[^30-1] legt fest, welche Unterlagen einzureichen sind.
-
-[^30-1]: § 30: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Im ordentlichen Bewilligungsverfahren werden die Vorhaben publiziert.
 
 ### (5.A.II.)2. Vereinfachtes Bewilligungsverfahren
 
 #### § 31
 
-<sup>1</sup> Im vereinfachten Bewilligungsverfahren ohne Anzeige und mit beschränkter Abnahme werden Vorhaben von geringer Bedeutung geprüft. Das Bauinspektorat[^31-1] führt eine Liste der Vorhaben, die dieser Anforderung genügen. Es legt fest, welche Unterlagen einzureichen sind.
-
-[^31-1]: § 31: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Im vereinfachten Bewilligungsverfahren ohne Publikation und mit beschränkter Abnahme werden Vorhaben von geringer Bedeutung geprüft.
 
 ### (5.A.II.)3. Generelles Baubegehren
 
@@ -447,23 +425,17 @@ beschliesst:
 
 ### (5.A.)III. Zuständigkeit
 
-### (5.A.III.)1. Bauinspektorat
-
-[^32-1]
-
-[^32-1]: Titel: Jetzt: Bau- und Gastgewerbeinspektorat.
+### (5.A.III.)1. Bau- und Gastgewerbeinspektorat
 
 #### § 33
 
-<sup>1</sup> Wenn nichts anderes bestimmt ist, ist das Bauinspektorat[^33-1] für den Vollzug der Bauvorschriften zuständig.
+<sup>1</sup> Wenn nichts anderes bestimmt ist, ist das Bau- und Gastgewerbeinspektorat für den Vollzug der Bauvorschriften zuständig.
 
 <sup>2</sup> Es sorgt für eine ausreichende Koordination der Verfahren und der Beurteilungen, wenn ein Vorhaben von mehreren Stellen zu prüfen ist.
 
 <sup>3</sup> Es überwacht die Bauausführung und die bestehenden Bauten und Anlagen.
 
 <sup>4</sup> Es erlässt die zur Erfüllung seiner Aufgaben nötigen Verfügungen.
-
-[^33-1]: § 33: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (5.A.III.)2. Abweichungen
 
@@ -473,16 +445,13 @@ beschliesst:
 
 <sup>2</sup> Das Tiefbauamt oder die zuständige Gemeindeverwaltung leitet das Bewilligungsverfahren für Bauten und Anlagen auf der Allmend, die nicht bereits im Verfahren der Nutzungsplanung genehmigt worden sind. Die Zuständigkeit in den Fällen, in welchen durch die Baute oder Anlage sowohl die Allmend als auch Privatparzellen betroffen sind, wird in den Ausführungsbestimmungen gemäss § 67 geregelt. Der Regierungsrat kann dem Tiefbauamt überdies die Leitung für das Bewilligungsverfahren für Bauten und Anlagen auf Privatparzellen im Eigentum des Kantons oder der Einwohnergemeinde, welche wie Allmend genutzt werden, übertragen.
 
-<sup>3</sup> Das Bauinspektorat[^34-1] überweist Baubegehren für Vorhaben, die aufgrund der Energiegesetzgebung bewilligungspflichtig sind, an das Amt für Umwelt und Energie zur Behandlung und zum Entscheid, soweit über diese Vorhaben nicht im Baubewilligungsverfahren entschieden wird.
+<sup>3</sup> Das Bau- und Gastgewerbeinspektorat überweist Baubegehren für Vorhaben, die aufgrund der Energiegesetzgebung bewilligungspflichtig sind, an das Amt für Umwelt und Energie zur Behandlung und zum Entscheid, soweit über diese Vorhaben nicht im Baubewilligungsverfahren entschieden wird.
 
-<sup>4</sup> Baubegehren für Vorhaben, die aufgrund der Gewässerschutzgesetzgebung bewilligungspflichtig sind und über die nicht im Baubewilligungsverfahren entschieden wird, überweist es zur Behandlung und zum Entscheid an das Tiefbauamt.
+<sup>4</sup> Baubegehren für Vorhaben, die aufgrund der Gewässerschutzgesetzgebung bewilligungspflichtig sind und über die nicht im Baubewilligungsverfahren entschieden wird, überweist es zur Behandlung und zum Entscheid an die zuständige Behörde.
 
 <sup>5</sup> Es kann weitere Baubegehren, die es selbst nicht zu beurteilen hat und gegen die keine Einsprachen erhoben werden, an eine mitwirkende Behörde zur Behandlung und zum Entscheid überweisen.
 
-<sup>6</sup> Die anstelle des Bauinspektorates[^34-2] handelnden Behörden haben die gleichen Aufgaben und Befugnisse wie das Bauinspektorat.
-
-[^34-1]: § 34 Abs. 3: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^34-2]: § 34 Abs. 6: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>6</sup> Die anstelle des Bau- und Gastgewerbeinspektorats handelnden Behörden haben die gleichen Aufgaben und Befugnisse wie das Bau- und Gastgewerbeinspektorat.
 
 ### (A.)IV. Verfahrenskoordination
 
@@ -508,9 +477,7 @@ beschliesst:
 
 <sup>2</sup> Von der Koordinationspflicht ausgenommen sind auch Anlagen zur Heizung, Lüftung, Klimatisierung und Kühlung von Räumen, wenn die Gebäudehülle den Anforderungen der Energiegesetzgebung entspricht.
 
-<sup>3</sup> Das Bauinspektorat[^36-1] kann im Einzelfall weitere Ausnahmen von der Koordinationspflicht bezeichnen.
-
-[^36-1]: § 36 Abs. 3: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>3</sup> Die Bewilligungsbehörde kann im Einzelfall weitere Ausnahmen von der Koordinationspflicht bezeichnen.
 
 ### (A.)V. Baubegehren
 
@@ -518,31 +485,25 @@ beschliesst:
 
 #### § 37
 
-<sup>1</sup> Wer Bauprojekte und Baubegehren verfasst, muss über die nötigen Fachkenntnisse verfügen und sich auf Verlangen des Bauinspektorates[^37-1] darüber ausweisen.
+<sup>1</sup> Wer Bauprojekte und Baubegehren verfasst, muss über die nötigen Fachkenntnisse verfügen und sich auf Verlangen der Bewilligungsbehörde darüber ausweisen.
 
-<sup>2</sup> Auf Baubegehren, die ohne genügende Fachkenntnisse verfasst worden sind, tritt das Bauinspektorat[^37-2] nicht ein.
-
-[^37-1]: § 37 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^37-2]: § 37 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>2</sup> Auf Baubegehren, die ohne genügende Fachkenntnisse verfasst worden sind, tritt die Bewilligungsbehörde nicht ein.
 
 ### (A.V.)2. Form
 
 #### § 38
 
-<sup>1</sup> Baubegehren sind auf dem amtlichen Formular einzureichen. Die zur Prüfung des Vorhabens nötigen Pläne und Beschreibungen sowie Anträge auf Ausnahmebewilligungen sind beizulegen.
+<sup>1</sup> Baubegehren, für die das Bau- und Gastgewerbeinspektorat zuständig ist, sind elektronisch einzureichen. Die zur Prüfung des Vorhabens nötigen Pläne und Beschreibungen sowie Anträge auf Ausnahmebewilligungen sind beizufügen.
 
 <sup>2</sup> Jedes Baubegehren muss genaue Angaben über die Eigentumsverhältnisse, die Verwendung der geplanten Bauten oder Anlagen und über die vorgesehenen Konstruktionen enthalten.
 
-<sup>3</sup> Das Baubegehren ist von der Bauherrschaft und der von ihr bezeichneten Fachperson im Original zu unterzeichnen. Gehört das Grundstück nicht der Bauherrschaft, sind auch die Unterschriften der Grundeigentümerinnen und Grundeigentümer oder bei Baurechtsparzellen der Bauberechtigten erforderlich.
+<sup>3</sup> Das Unterschriftenblatt ist von der Bauherrschaft und der von ihr bezeichneten Fachperson zu unterzeichnen. Gehört das Grundstück nicht der Bauherrschaft, sind auch die Unterschriften der Grundeigentümerinnen und Grundeigentümer oder bei Baurechtsparzellen der Bauberechtigten erforderlich.
 
 <sup>4</sup> Dienstbarkeiten für Zufahrtsrechte (§ 3 Abs. 2 BPG), Nutzungsverlagerungen (§ 9 Abs. 3 BPG) und zur Sicherung des vorgeschriebenen Lichteinfalls (§ 64 Abs. 4 BPG) sind mit den Unterschriften der Grundpfandgläubiger einzureichen.
 
-<sup>5</sup> Die Anforderungen an Inhalt und Form des generellen Baubegehrens legt das Bauinspektorat[^38-1] nach Anhörung der interessierten Fachinstanzen im Einzelfall fest. Dieser Entscheid ist nicht anfechtbar.
+<sup>5</sup> Die Anforderungen an Inhalt und Unterlagen des generellen Baubegehrens legt die Bewilligungsbehörde im Einzelfall fest. Dieser Entscheid ist nicht anfechtbar.
 
-<sup>6</sup> Auf unvollständige Baubegehren tritt das Bauinspektorat[^38-2] nicht ein.
-
-[^38-1]: § 38 Abs. 5: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^38-2]: § 38 Abs. 6: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>6</sup> Auf unvollständige Baubegehren tritt die Bewilligungsbehörde nicht ein.
 
 #### § 38a
 
@@ -566,24 +527,19 @@ beschliesst:
 
 #### § 40
 
-<sup>1</sup> Das Bauinspektorat[^40-1] führt eine Vorprüfung durch. Sind die Gesuchsunterlagen vollständig, überweist es das Baubegehren an die zur Mitwirkung zuständigen Behörden.
+<sup>1</sup> Die Bewilligungsbehörde führt eine Vorprüfung durch. Sind die Gesuchsunterlagen vollständig, überweist es das Baubegehren an die zur Mitwirkung zuständigen Behörden.
 
-<sup>2</sup> Das Bauinspektorat[^40-2] kann zur Abklärung von Grundsatzfragen oder wesentlichen Teilfragen ein Zulassungsverfahren durchführen. Nach Abschluss des Zulassungsverfahrens wird das Prüfungsverfahren eingeleitet.
+<sup>2</sup> Die Bewilligungsbehörde kann zur Abklärung von Grundsatzfragen oder wesentlichen Teilfragen ein Zulassungsverfahren durchführen. Nach Abschluss des Zulassungsverfahrens wird das Prüfungsverfahren eingeleitet.
 
 <sup>3</sup> …
-
-[^40-1]: § 40 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^40-2]: § 40 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (A.V.4.)b) Stellungnahmen mitwirkender Behörden
 
 #### § 41
 
-<sup>1</sup> Das Bauinspektorat[^41-1] entscheidet aufgrund einer umfassenden Interessenabwägung über die Stellungnahmen mitwirkender Behörden. Ausgenommen sind Stellungnahmen, die eine Rechtsnorm als verbindlich bezeichnet.
+<sup>1</sup> Die Bewilligungsbehörde entscheidet aufgrund einer umfassenden Interessenabwägung über die Stellungnahmen mitwirkender Behörden. Ausgenommen sind Stellungnahmen, die eine Rechtsnorm als verbindlich bezeichnet.
 
 <sup>2</sup> Ablehnende Stellungnahmen sowie Anträge für Auflagen oder Bedingungen sind von den mitwirkenden Behörden zu begründen.
-
-[^41-1]: § 41 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (A.V.4.)c) Bearbeitungsfristen
 
@@ -593,7 +549,7 @@ beschliesst:
 
 <sup>2</sup> Im Prüfungsverfahren bearbeiten die mitwirkenden Behörden die Baubegehren je innerhalb von zwei Wochen.
 
-<sup>3</sup> Wird die Kanalisationsbewilligung im Rahmen der Baubewilligung erteilt, so beträgt die Bearbeitungsfrist dafür 8 Wochen.
+<sup>3</sup> …
 
 <sup>4</sup> Die Frist zur Stellungnahme zu Pflichtenheften für die Erstellung von Umweltverträglichkeitsberichten beträgt zwei Monate.
 
@@ -608,20 +564,16 @@ beschliesst:
 
 #### § 43
 
-<sup>1</sup> Werden Bearbeitungsfristen nicht eingehalten, kann das Bauinspektorat[^43-1]
+<sup>1</sup> Werden Bearbeitungsfristen nicht eingehalten, kann das Bau- und Gastgewerbeinspektorat:
 
 - a) die säumige Behörde nochmals zur Stellungnahme aufbieten,
 - b) andere Behörden oder Sachverständige mit den Beurteilungen beauftragen, die es für seinen Entscheid braucht.
-
-[^43-1]: § 43: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (A.V.4.)e) Sachverständige
 
 #### § 44
 
-<sup>1</sup> Bei Vorhaben, deren Prüfung Sachwissen erfordert, über das die mitwirkenden Behörden selbst nicht verfügen, kann das Bauinspektorat[^44-1] auf Kosten der Bauherrschaft externe Sachverständige beiziehen.
-
-[^44-1]: § 44: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Bei Vorhaben, deren Prüfung Sachwissen erfordert, über das die mitwirkenden Behörden selbst nicht verfügen, kann das Bau- und Gastgewerbeinspektorat auf Kosten der Bauherrschaft externe Sachverständige beiziehen.
 
 ### (A.V.)5. Auflage- und Einspracheverfahren
 
@@ -629,48 +581,42 @@ beschliesst:
 
 #### § 45
 
-<sup>1</sup> Das Bauinspektorat[^45-1] zeigt das ordentliche Baubegehren im Kantonsblatt und im Internet an.
+<sup>1</sup> Die Bewilligungsbehörde publiziert das ordentliche Baubegehren mit den notwendigen Gesuchsunterlagen sowie mit den Angaben zur Bauherrschaft und den Projektverfassenden während der Einsprachefrist im Kantonsblatt und im Internet.
 
-<sup>2</sup> Das vereinfachte Baubegehren wird nicht angezeigt.
+<sup>1<sup>bis</sup></sup> Die Bewilligungsbehörde kann ausnahmsweise auf die Publikation der Gesuchsunterlagen verzichten, wenn dies zum Schutz der öffentlichen Sicherheit notwendig ist.
 
-<sup>3</sup> Das generelle Baubegehren wird öffentlich angezeigt.
+<sup>2</sup> Das vereinfachte Baubegehren wird nicht publiziert.
 
-[^45-1]: § 45 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>3</sup> Das generelle Baubegehren wird publiziert.
 
 ### (A.V.5.)b) Hinweis im Gelände
 
 #### § 46
 
-<sup>1</sup> Das Bauinspektorat[^46-1] sorgt dafür, dass auf ordentliche Baubegehren während der Einsprachefrist mit einem oder mehreren Schildern im Gelände hingewiesen wird. Die Schilder müssen mindestens den Text der öffentlichen Anzeige enthalten.
+<sup>1</sup> Das Bau- und Gastgewerbeinspektorat sorgt dafür, dass auf ordentliche Baubegehren während der Einsprachefrist mit einem oder mehreren Schildern im Gelände hingewiesen wird. Die Schilder müssen mindestens den Text der Publikation enthalten.
 
-<sup>2</sup> Das Bauinspektorat[^46-2] kann eine andere Form des Hinweises im Gelände vorschreiben, wenn sich Schilder als unzweckmässig erweisen.
+<sup>2</sup> Das Bau- und Gastgewerbeinspektorat kann eine andere Form des Hinweises im Gelände vorschreiben, wenn sich Schilder als unzweckmässig erweisen.
 
 <sup>3</sup> Hinweise in Gelände können unterbleiben,
 
 - a) wenn die bewilligungspflichtigen Bauten, Anlagen oder Veränderungen auf den benachbarten Strassen, Wegen und Grundstücken nicht wahrgenommen werden können und unzulässige Immissionen auszuschliessen sind;
 - b) wenn auf andere Weise sichergestellt wird, dass die Einspracheberechtigten auf das Vorhaben aufmerksam werden.
 
-[^46-1]: § 46 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^46-2]: § 46 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
-
 ### (A.V.5.)c) Einsichtnahme
 
 #### § 47
 
-<sup>1</sup> Die Gesuchsunterlagen können während der Einsprachefrist beim Bau- und Verkehrsdepartement eingesehen werden.
+**…**
 
 ### (A.V.5.)d) Einsprachen
 
 #### § 48
 
-<sup>1</sup> Einsprachen sind innert 30 Tagen nach der Anzeige des Baubegehrens im Kantonsblatt im Doppel beim Bauinspektorat[^48-1] einzureichen. Sie müssen eine Begründung enthalten.
+<sup>1</sup> Einsprachen sind innert 30 Tagen nach der Publikation im Kantonsblatt bei der Bewilligungsbehörde einzureichen. Sie müssen eine Begründung enthalten.
 
 <sup>2</sup> Privatrechtliche Ansprüche können nicht geltend gemacht werden.
 
-<sup>3</sup> Das Bauinspektorat[^48-2] stellt die Einsprachen der Bauherrschaft zu. Es setzt ihr eine Frist zur Stellungnahme, wenn die Einwände nicht offensichtlich unzulässig oder unbegründet sind.
-
-[^48-1]: § 48 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^48-2]: § 48 Abs. 3: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>3</sup> Die Bewilligungsbehörde stellt die Einsprachen der Bauherrschaft zu. Sie setzt ihr eine Frist zur Stellungnahme, wenn die Einwände nicht offensichtlich unzulässig oder unbegründet sind.
 
 ### (A.V.5.)e) Beschränkung der Einsprachen
 
@@ -682,9 +628,7 @@ beschliesst:
 
 #### § 50
 
-<sup>1</sup> Das Bauinspektorat[^50-1] kann verspätete Einsprachen entgegennehmen, wenn die Verspätung auf ein unverschuldetes Hindernis zurückzuführen ist.
-
-[^50-1]: § 50: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Das Bau- und Gastgewerbeinspektorat kann verspätete Einsprachen entgegennehmen, wenn die Verspätung auf ein unverschuldetes Hindernis zurückzuführen ist.
 
 ### (A.)VI. Bauentscheid
 
@@ -692,11 +636,9 @@ beschliesst:
 
 #### § 51
 
-<sup>1</sup> Das Bauinspektorat[^51-1] entscheidet über das Baubegehren in Verfügungsform.
+<sup>1</sup> Das Bau- und Gastgewerbeinspektorat entscheidet über das Baubegehren in Verfügungsform.
 
 <sup>2</sup> Es eröffnet mit seinem Entscheid auch Entscheide, Bedingungen und Auflagen von übergeordneten und mitwirkenden eidgenössischen, kantonalen und kommunalen Behörden.
-
-[^51-1]: § 51 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (A.VI.)2. Einsprachebeantwortung
 
@@ -719,9 +661,7 @@ beschliesst:
 
 <sup>2</sup> Ein Vorentscheid über ein generelles Baubegehren bindet die Behörden nur, wenn innerhalb von drei Jahren nach seiner Erteilung ein Bewilligungsverfahren eingeleitet wird und wenn sich das anwendbare Recht nicht ändert.
 
-<sup>3</sup> Ein begonnenes Bauwerk muss innerhalb angemessener Frist beendet werden. Das Bauinspektorat[^53-1] kann Fristen setzen.
-
-[^53-1]: § 53 Abs. 3: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>3</sup> Ein begonnenes Bauwerk muss innerhalb angemessener Frist beendet werden. Die Bewilligungsbehörde kann Fristen setzen.
 
 ### (A.VI.)4. Erlöschen der Baubewilligung
 
@@ -749,9 +689,7 @@ beschliesst:
 
 <sup>1</sup> Mit der Ausführung bewilligungspflichtiger Bauvorhaben darf erst begonnen werden, wenn die Baubewilligung vollstreckbar geworden ist.
 
-<sup>2</sup> Soll während der Bauausführung wesentlich von den bewilligten Plänen abgewichen werden, ist vorher eine Bewilligung des Bauinspektorates[^56-1] einzuholen.
-
-[^56-1]: § 56 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>2</sup> Soll während der Bauausführung wesentlich von den bewilligten Plänen abgewichen werden, ist vorher eine Bewilligung der Bewilligungsbehörde einzuholen.
 
 ### (5.B.I.)2. Verantwortliche Fachperson
 
@@ -761,62 +699,45 @@ beschliesst:
 
 <sup>2</sup> Fehlt bei der Ausführung eine verantwortliche Fachperson, so wird das Bauvorhaben eingestellt.
 
-<sup>3</sup> Das Bauinspektorat[^57-1] kann verlangen, dass sich die Fachperson über die für die Bauausführung nötigen Kenntnisse ausweist.
-
-[^57-1]: § 57 Abs. 3: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>3</sup> Die Bewilligungsbehörde kann verlangen, dass sich die Fachperson über die für die Bauausführung nötigen Kenntnisse ausweist.
 
 ### (5.B.I.)3. Anzeigen
 
 #### § 58
 
-<sup>1</sup> Die verantwortliche Fachperson oder die Bauherrschaft hat den Beginn der Bauausführung, die Vollendung des Rohbaues und die Fertigstellung der Bauten und Anlagen dem Bauinspektorat[^58-1] mit dem amtlichen Formular anzuzeigen.
+<sup>1</sup> Die verantwortliche Fachperson oder die Bauherrschaft hat den Beginn der Bauausführung, die Vollendung des Rohbaus und die Fertigstellung der Bauten und Anlagen der Bewilligungsbehörde elektronisch zu melden.
 
-<sup>2</sup> Vor dem Beginn des Rohbaues sind die erforderlichen Absteckungen vom Grundbuch- und Vermessungsamt auszuführen oder kontrollieren zu lassen. Die erfolgte Kontrolle ist dem Bauinspektorat[^58-2] anzuzeigen.
+<sup>2</sup> Vor dem Beginn des Rohbaus sind die erforderlichen Absteckungen vom Grundbuch- und Vermessungsamt auszuführen oder kontrollieren zu lassen. Die erfolgte Kontrolle ist der Bewilligungsbehörde anzuzeigen.
 
-<sup>3</sup> Das Bauinspektorat[^58-3] legt im Bauentscheid fest, welche Anzeigen erforderlich sind.
+<sup>3</sup> Die Bewilligungsbehörde legt im Bauentscheid fest, welche Phasenmeldungen erforderlich sind.
 
-<sup>4</sup> Bei Vorhaben, die der Meldepflicht unterliegen, sind keine Anzeigen erforderlich.
-
-[^58-1]: § 58 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^58-2]: § 58 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^58-3]: § 58 Abs. 3: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>4</sup> Bei Vorhaben, die der Meldepflicht unterliegen, sind keine Phasenmeldungen erforderlich.
 
 ### (5.B.)II. Abnahme und Freigabe
 
 ### (5.B.II.)1. Abnahmen
 
-### (5.B.II.1.)a) Durch das Bauinspektorat
-
-[^58-4]
-
-[^58-4]: Titel: Jetzt: Bau- und Gastgewerbeinspektorat.
+### (5.B.II.1.)a) Durch das Bau- und Gastgewerbeinspektorat
 
 #### § 59
 
-<sup>1</sup> Nach Eingang der Fertigstellungsanzeigen ordnet das Bauinspektorat[^59-1] die erforderlichen Abnahmen an. Wenn nötig bietet es dazu die mitwirkenden Behörden auf.
+<sup>1</sup> Nach Eingang der Fertigstellungsanzeigen ordnet die Bewilligungsbehörde die erforderlichen Abnahmen an. Wenn nötig bietet es dazu die mitwirkenden Behörden auf.
 
-<sup>2</sup> Das Bauinspektorat[^59-2] und die mitwirkenden Behörden können die Bauherrschaft vor Abnahmen zu technischen Prüfungen verpflichten.
-
-[^59-1]: § 59 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^59-2]: § 59 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>2</sup> Die Bewilligungsbehörde und die mitwirkenden Behörden können die Bauherrschaft vor Abnahme zu technischen Prüfungen verpflichten.
 
 ### (5.B.II.1.)b) Durch mitwirkende Behörden
 
 #### § 60
 
-<sup>1</sup> Wenn bei der Abnahme durch das Bauinspektorat[^60-1] eine abschliessende Prüfung nicht möglich ist, können die mitwirkende Behörden weitere Abnahmen anordnen.
-
-[^60-1]: § 60: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Wenn bei der Abnahme durch die Bewilligungsbehörde eine abschliessende Prüfung nicht möglich ist, können die mitwirkende Behörden weitere Abnahmen anordnen.
 
 ### (5.B.II.1.)c) Ausnahmen
 
 #### § 61
 
-<sup>1</sup> Bei Vorhaben, die dem vereinfachten Bewilligungsverfahren unterliegen, unterbleibt die Abnahme, sofern das Bauinspektorat[^61-1] oder eine mitwirkende Behörde nichts anderes bestimmt.
+<sup>1</sup> Bei Vorhaben, die dem vereinfachten Bewilligungsverfahren unterliegen, unterbleibt die Abnahme, sofern die Bewilligungsbehörde oder eine mitwirkende Behörde nichts anderes bestimmt.
 
 <sup>2</sup> …
-
-[^61-1]: § 61: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (5.B.II.)2. Fristen und Mängelbehebung
 
@@ -824,24 +745,19 @@ beschliesst:
 
 <sup>1</sup> Abnahmen sind innerhalb von zwei Wochen nach den angezeigten Fertigstellungsterminen oder dem Eingang zusätzlich verlangter Prüfberichte vorzunehmen.
 
-<sup>2</sup> Das Bauinspektorat[^62-1] oder die mitwirkende Behörde, die eine weitere Abnahme angeordnet hat, verzeichnet festgestellte und gemeldete Mängel in einem Abnahmeprotokoll und setzt der Bauherrschaft Frist zu ihrer Behebung.
+<sup>2</sup> Die Bewilligungsbehörde oder die mitwirkende Behörde, die eine weitere Abnahme angeordnet hat, verzeichnet festgestellte und gemeldete Mängel in einem Abnahmeprotokoll und setzt der Bauherrschaft Frist zu ihrer Behebung.
 
 <sup>3</sup> Für die Behebung von Mängeln, die nach der Abnahme festgestellt oder gemeldet werden, hat die sachlich zuständige Behörde zu sorgen.
-
-[^62-1]: § 62: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (5.B.II.)3. Freigabe
 
 #### § 63
 
-<sup>1</sup> Das Bauinspektorat[^63-1] verfügt die Freigabe der Bauten und Anlagen, wenn sie bei der Abnahme keine wesentlichen Sicherheitsmängel aufweisen und den Anforderungen des Umwelt- und Gesundheitsschutzes entsprechen.
+<sup>1</sup> Die Bewilligungsbehörde verfügt die Freigabe der Bauten und Anlagen, wenn sie bei der Abnahme keine wesentlichen Sicherheitsmängel aufweisen und den Anforderungen des Umwelt-, Gewässer- und Gesundheitsschutzes entsprechen.
 
-<sup>2</sup> Bauten und Anlagen dürfen erst bezogen oder in Betrieb genommen werden, wenn sie vom Bauinspektorat[^63-2] freigegeben worden sind und wenn die nötigen Betriebsbewilligungen vorliegen.
+<sup>2</sup> Bauten und Anlagen dürfen erst bezogen oder in Betrieb genommen werden, wenn sie von der Bewilligungsbehörde freigegeben worden sind und wenn die nötigen Betriebsbewilligungen vorliegen.
 
-<sup>3</sup> Mit der Prüfung und Bewilligung einer Baute oder Anlage sowie mit der Abnahme und Freigabe der Bau- und Einrichtungsarbeiten übernimmt die Behörde keine Verantwortung für den durch die Benutzung der Baute oder Anlage oder deren Betrieb entstehenden Schaden.
-
-[^63-1]: § 63 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^63-2]: § 63 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>3</sup> Mit der Prüfung und Bewilligung einer Baute oder Anlage sowie mit der Abnahme und Freigabe der Bau- und Einrichtungsarbeiten übernimmt die Bewilligungsbehörde keine Verantwortung für den durch die Benutzung der Baute oder Anlage oder deren Betrieb entstehenden Schaden.
 
 ### (5.B.)III. Abwehrmassnahmen
 
@@ -849,9 +765,7 @@ beschliesst:
 
 #### § 64
 
-<sup>1</sup> Bei drohender Gefahr erlässt das Bauinspektorat[^64-1] sofort die nötigen mündlichen oder schriftlichen Verfügungen.
-
-[^64-1]: § 64: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Bei drohender Gefahr erlässt das Bau- und Gastgewerbeinspektorat sofort die nötigen mündlichen oder schriftlichen Verfügungen.
 
 ### (5.B.III.)2. Ausführung bewilligungspflichtiger Vorhaben ohne Bewilligung oder in Abweichung der Bewilligung
 
@@ -871,20 +785,15 @@ beschliesst:
 - b) Einleitung eines Strafverfahrens wegen Widerhandlung gegen baupolizeiliche Bestimmungen sowie gegen Vorschriften über die Zweckentfremdung von Wohnraum.
 - c) Einleitung eines Strafverfahrens wegen Ungehorsams nach Art. 292 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, soweit keine andere Strafbestimmung anwendbar ist.
 
-<sup>2</sup> Bevor das Bauinspektorat[^66-1] zu Zwangsmitteln greift, droht es sie den Pflichtigen an und räumt ihnen eine angemessene Erfüllungsfrist ein.
+<sup>2</sup> Bevor die Bewilligungsbehörde zu Zwangsmitteln greift, droht sie dies den Pflichtigen an und räumt ihnen eine angemessene Erfüllungsfrist ein.
 
-<sup>3</sup> Bei der Ersatzvornahme kann das Bauinspektorat[^66-2] auf die Androhung und die Einräumung einer Erfüllungsfrist verzichten, wenn Gefahr im Verzuge ist.
-
-[^66-1]: § 66 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^66-2]: § 66 Abs. 3: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>3</sup> Bei der Ersatzvornahme kann die Bewilligungsbehörde auf die Androhung und die Einräumung einer Erfüllungsfrist verzichten, wenn Gefahr im Verzuge ist.
 
 ### (5.)C. Ausführungsbestimmungen
 
 #### § 67
 
-<sup>1</sup> Das Bauinspektorat[^67-1] kann Ausführungsbestimmungen zu den Vorschriften über das Baubewilligungsverfahren und die Bauaufsicht erlassen. Sie bedürfen der Genehmigung des Bau- und Verkehrsdepartements.
-
-[^67-1]: § 67: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Das Bau- und Gastgewerbeinspektorat kann Ausführungsbestimmungen zu den Vorschriften über das Baubewilligungsverfahren und die Bauaufsicht erlassen. Sie bedürfen der Genehmigung durch das Bau- und Verkehrsdepartement.
 
 ### (5.)D. Anmerkungen im Grundbuch und Führung im ÖREB-Kataster
 
@@ -894,7 +803,7 @@ beschliesst:
 
 <sup>1</sup> Die Anmerkung öffentlich-rechtlicher Eigentumsbeschränkungen im Grundbuch wird angeordnet:
 
-- a) Beschränkungen bei der Bewilligung von Bauten und Anlagen (§ 3 Abs. 2, § 9 Abs. 3, § 64 Abs. 4, § 75 Abs. 1, § 79 Abs. 1 und § 82 Abs. 3 BPG, Art. 44 RPV): vom Bauinspektorat[^68-1];
+- a) Beschränkungen bei der Bewilligung von Bauten und Anlagen (§ 3 Abs. 2, § 9 Abs. 3, § 64 Abs. 4, § 75 Abs. 1, § 79 Abs. 1 und § 82 Abs. 3 BPG[^68-1], Art. 44 RPV[^68-2]): vom Bau- und Gastgewerbeinspektorat;
 - b) die Haftung des Grundstücks für die Kosten der Ersatzvornahme (§ 90 Abs. 3 BPG): von der für die Ersatzvornahme zuständigen Behörde;
 - c) …
 - d) die Grundstückshaftung für Abgaben (§ 123 Abs. 1, § 156 Abs. 2, § 173 Abs. 3 BPG): von der für die Festsetzung der Abgabe zuständigen Behörde;
@@ -909,7 +818,8 @@ beschliesst:
 
 <sup>5</sup> Das Bau- und Verkehrsdepartement kann die Zuständigkeit allgemein oder im Einzelfall anders ordnen. Die gleiche Befugnis steht den Gemeinderäten zu, soweit das Gemeindegesetz dafür Raum lässt.
 
-[^68-1]: § 68 Abs. 1 lit. a: Jetzt: Bau- und Gastgewerbeinspektorat.
+[^68-1]: SG [730.100](https://www.gesetzessammlung.bs.ch/data/730.100/de)
+[^68-2]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de) (Raumplanungsverordnung, RPV, vom 28. Juni 2000)
 
 ### (5.D.)2. Führung im ÖREB-Kataster (§ 119 BPG)
 
@@ -1038,24 +948,21 @@ beschliesst:
 
 #### § 80
 
-<sup>1</sup> Vor der Planauflage unterbreiten die Gemeinden Bettingen und Riehen ihre Entwürfe von Zonen-, Linien- und Bebauungsplänen und der nach Art. 47 der Raumplanungsverordnung zu erstattenden Berichte dem Hochbau- und Planungsamt[^80-1] zur Vorprüfung.
+<sup>1</sup> Vor der Planauflage unterbreiten die Gemeinden Bettingen und Riehen ihre Entwürfe von Zonen-, Linien- und Bebauungsplänen und der nach Art. 47 RPV[^80-1] zu erstattenden Berichte der Dienststelle Städtebau und Architektur zur Vorprüfung.
 
 <sup>2</sup> Die Vorprüfung von Planänderungen kann unterbleiben, wenn keine Interessen der Allgemeinheit oder schutzwürdige Interessen Privater, die der Änderung nicht zugestimmt haben, berührt werden.
 
-[^80-1]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
+[^80-1]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de)
 
 ### (2.B.)3. Planungszonen
 
 #### § 80 a
 
-<sup>1</sup> Über die Vereinbarkeit von Bauvorhaben mit den Vorschriften über Planungszonen entscheidet das Bauinspektorat[^80a-1] auf Antrag der planenden Behörden.
+<sup>1</sup> Über die Vereinbarkeit von Bauvorhaben mit den Vorschriften über Planungszonen entscheidet die Bewilligungsbehörde auf Antrag der planenden Behörden.
 
-<sup>2</sup> Bei Verfügungen über Grundstücke ausserhalb des Baubewilligungsverfahrens entscheidet das Hochbau- und Planungsamt[^80a-2] und bei Planungen der Gemeinden der Gemeinderat.
+<sup>2</sup> Bei Verfügungen über Grundstücke ausserhalb des Baubewilligungsverfahrens entscheidet die Dienststelle Städtebau und Architektur und bei Planungen der Gemeinden der Gemeinderat.
 
 <sup>3</sup> Ohne Zustimmung zulässig ist die Veräusserung oder Verpfändung von Grundstücken.
-
-[^80a-1]: § 80a Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^80a-2]: umbenannt von Hochbau- und Planungsamt in Abteilung Städtebau und Architektur
 
 ### (2.B.)4. Öffentlichkeit der Pläne
 
@@ -1112,13 +1019,11 @@ beschliesst:
 
 #### § 85
 
-<sup>1</sup> Das Bauinspektorat[^85-1] orientiert die für den Bezug der Abgabe zuständigen Stelle des Bau- und Verkehrsdepartements oder der Gemeinde über den Baubeginn.
+<sup>1</sup> Das Bau- und Gastgewerbeinspektorat orientiert die für den Bezug der Abgabe zuständigen Stelle des Bau- und Verkehrsdepartements oder der Gemeinde über den Baubeginn.
 
 <sup>2</sup> Ist die Zahlung bei Baubeginn nicht nachgewiesen, wird den Pflichtigen eine Nachfrist gesetzt und der Verzugszinssatz bekannt gegeben. Ist die grössere Geschossfläche durch eine Ausnahmebewilligung zugestanden worden, wird die Abgabepflicht im Grundbuch angemerkt.
 
 <sup>3</sup> Die Erhebung von Verzugszinsen kann unterbleiben, wenn die Verspätung geringfügig und entschuldbar ist.
-
-[^85-1]: § 85 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (2.C.I.)6. Verwendung des Ertrags
 
@@ -1295,7 +1200,7 @@ beschliesst:
 
 #### § 102
 
-<sup>1</sup> Vereinreinigungen auf Strassen und Wegen hat zu beseitigen, wer sie verursacht hat.
+<sup>1</sup> Verunreinigungen auf Strassen und Wegen hat zu beseitigen, wer sie verursacht hat.
 
 <sup>2</sup> Als Verunreinigungen gelten auch Bemalungen, liegen gelassene oder weggeworfene Gegenstände, Scherben, Streumittelresten und dergleichen.
 
@@ -1335,9 +1240,9 @@ beschliesst:
 
 #### § 106
 
-<sup>1</sup> Das Bauinspektorat ist[^106-1] für Verfügungen über Bauverbote und andere Dienstbarkeiten zuständig, deren Änderung oder Löschung der Zustimmung des Bau- und Verkehrsdepartements bedarf.
+<sup>1</sup> Das Bau- und Gastgewerbeinspektorat ist für Verfügungen über Bauverbote und andere Dienstbarkeiten zuständig, deren Änderung oder Löschung der Zustimmung des Bau- und Verkehrsdepartements bedarf.
 
-<sup>2</sup> Das Bauinspektorat[^106-2] lässt nach altem Recht verfügte Anmerkungen von Beseitigungs- und Mehrwertreversen im Grundbuch löschen:
+<sup>2</sup> Das Bau- und Gastgewerbeinspektorat lässt nach altem Recht verfügte Anmerkungen von Beseitigungs- und Mehrwertreversen im Grundbuch löschen:
 
 - a) wenn sie wegen Beseitigung des gegen Revers bewilligten Gebäudes gegenstandslos werden;
 - b) wenn seit Beginn eines gegen Revers bewilligten Umbaus 25 Jahre verstrichen sind;
@@ -1345,15 +1250,11 @@ beschliesst:
 
 <sup>3</sup> Befristete Reverse können nach Ablauf der Frist auch von Amtes wegen im Grundbuch gelöscht werden.
 
-<sup>4</sup> Anmerkungen von Beschlüssen, mit denen Strassen als korrektionsbedürftig bezeichnet wurden, und der gestützt darauf ausgestellten Reverse werden auf Antrag des Tiefbauamtes, des Bauinspektorates[^106-3] oder des zuständigen Gemeinderates im Grundbuch gelöscht.
+<sup>4</sup> Anmerkungen von Beschlüssen, mit denen Strassen als korrektionsbedürftig bezeichnet wurden, und der gestützt darauf ausgestellten Reverse werden auf Antrag des Tiefbauamtes, des Bau- und Gastgewerbeinspektorats oder des zuständigen Gemeinderates im Grundbuch gelöscht.
 
 <sup>5</sup> Das Bau- und Verkehrsdepartement veranlasst die Löschung von Dienstbarkeiten, die die Zahlung von Minderwertsentschädigungen an Eigentümerinnen und Eigentümer von Liegenschaften in der Grünzone zum Gegenstand haben.
 
 <sup>6</sup> Das Tiefbauamt oder der zuständige Gemeinderat veranlasst die Löschung von Haftungsanmerkungen und Grundlasten für Beiträge, die nicht mehr erhoben werden können.
-
-[^106-1]: § 106 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^106-2]: § 106 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^106-3]: § 106 Abs. 4: Jetzt: Bau- und Gastgewerbeinspektorat.
 
 ### (3.Teil)II. Aufgehobene Erlasse
 
