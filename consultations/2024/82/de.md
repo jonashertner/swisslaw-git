@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Ausländer- und Integrationsgesetzes (Sonderregelung für Reisen ins Ausland für Personen aus der Ukraine mit Schutzstatus S)
 document: Vernehmlassungsvorlage
 language: de

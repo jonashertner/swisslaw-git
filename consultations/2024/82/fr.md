@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur les étrangers et l’intégration (réglementation spéciale pour les voyages à l’étranger effectués par des personnes en provenance d’Ukraine titulaires du statut de protection S)
 document: Projet mis en consultation
 language: fr
