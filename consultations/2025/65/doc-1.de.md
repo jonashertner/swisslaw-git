@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Ausführungsverordnungen zu den Einschränkungen für Reisen ins Ausland (RDV, VZAE, VEV, VVWAL und AsylV 1)"
 document: Vernehmlassungsvorlage-5
 language: de

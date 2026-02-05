@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica delle ordinanze esecutive relativi alle limitazioni per i viaggi all’estero (ODV, OASA, , OEV, OEAE e OAsi 1)"
 document: Progetto posto in consultazione-2
 language: it

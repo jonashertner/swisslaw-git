@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification des ordonnances d’exécution relatifs aux restrictions de voyage à l'étranger (ODV, OASA, OEV, OERE et OA 1)"
 document: Projet mis en consultation-2
 language: fr
