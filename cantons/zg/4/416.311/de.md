@@ -4,13 +4,12 @@ number: "416.311"
 title: Reglement über die Beiträge für den obligatorischen Fremdsprachenaufenthalt der kantonalen Mittelschulen
 short: Beiträge Fremdsprachenaufenthalt
 language: de
-version: 2018-01-01
-valid_until: 2026-02-05
-version_adopted: 2017-11-08
+version: 2026-02-06
+version_adopted: 2026-02-02
 adopted: 2017-11-08
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/416.311"
-pdf: "https://bgs.zg.ch/api/de/versions/1666/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2981/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1666/pdf_file"
 
 (Beiträge Fremdsprachenaufenthalt)
 
-Vom 8. November 2017 (Stand 1. Januar 2018)
+Vom 8. November 2017 (Stand 6. Februar 2026)
 
 Die Direktion für Bildung und Kultur,
 
@@ -34,9 +33,9 @@ verfügt:
 
 **Gegenstand und Grundsätze**
 
-<sup>1</sup> Der Kanton Zug gewährt Beiträge an die Kosten der Fremdsprachenaufenthalte[^1-1] von Schülerinnen und Schülern an den kantonalen Gymnasien, der Fachmittelschule Zug und der Wirtschaftsmittelschule Zug.
+<sup>1</sup> Der Kanton Zug gewährt Beiträge an die Kosten der obligatorischen Fremdsprachenaufenthalte[^1-1] von Schülerinnen und Schülern an den kantonalen Gymnasien, der Fachmittelschule Zug und der Wirtschaftsmittelschule Zug.
 
-<sup>2</sup> Als Fremdsprachenaufenthalte gelten die von den Schulen vorgesehenen freiwilligen oder obligatorischen, eine bis vier Wochen dauernden Aufenthalte im fremdsprachigen In- oder Ausland.
+<sup>2</sup> Als Fremdsprachenaufenthalte gelten die von den Schulen vorgesehenen obligatorischen, eine bis vier Wochen dauernden Aufenthalte im fremdsprachigen In- oder Ausland.
 
 <sup>3</sup> Schülerinnen und Schüler, die aufgrund einer Wiederholung des Schuljahres den Fremdsprachenaufenthalt gemäss Abs. 1 zum zweiten Mal absolvieren, können erneut Beiträge beantragen, wenn eine wiederholte Absolvierung des Fremdsprachenaufenthalts dem Abschluss dient. Die Schulleitung entscheidet über die Dienlichkeit.
 
@@ -50,7 +49,7 @@ verfügt:
 
 **Beiträge und Maximalbeiträge**
 
-<sup>1</sup> Die maximalen Kosten für den Fremdsprachenaufenthalt, welche von den Schülerinnen und Schülern bzw. von den Erziehungsberechtigten erhoben werden können, legt die Schulkommission fest.[^2-1][^2-2][^2-3] Sie betragen beim ein- bis dreiwöchigen Fremdsprachenaufenthalt pro sieben Tage maximal 800 Franken und beim vierwöchigen Fremdsprachenaufenthalt insgesamt maximal 2500 Franken.[^2-4]
+<sup>1</sup> Die maximalen Kosten für den Fremdsprachenaufenthalt, welche von den Schülerinnen und Schülern bzw. von den Erziehungsberechtigten erhoben werden können, legt die Schulkommission fest.[^2-1][^2-2][^2-3] Sie betragen beim ein- bis dreiwöchigen Fremdsprachenaufenthalt pro sieben Tage maximal 900 Franken und beim vierwöchigen Fremdsprachenaufenthalt insgesamt maximal 3000 Franken.[^2-4]
 
 <sup>2</sup> Die Schulleitung kann innerhalb der von der Schulkommission festgelegten maximalen Kosten diejenigen für den Fremdsprachenaufenthalt festlegen.
 
@@ -86,26 +85,27 @@ verfügt:
 
 **Ermittlung der Anspruchsgrundlage**
 
-<sup>1</sup> Die Ermittlung der Anspruchsgrundlage erfolgt analog zu § 13 Abs. 1 Ziff. 1–3 der Verordnung zum Gesetz über Ausbildungsbeiträge.[^4-1]
+<sup>1</sup> Die Ermittlung der Anspruchsgrundlage erfolgt analog zu § 10 des Gesetzes über Ausbildungsbeiträge [^4-1] bzw. gemäss §§ 21–31 der Verordnung zum Gesetz über Ausbildungsbeiträge.[^4-2]
 
-<sup>2</sup> Beiträge werden aufgrund der ermittelten Punkte und bis zum Wert von –100 Punkten gewährt. Es werden keine Beträge unter 200 Franken ausbezahlt.
+<sup>2</sup> Beiträge werden gestützt auf das ermittelte Budget festgesetzt und entrichtet. Dabei werden Fehlbeträge oder Überschüsse bis zu einem Betrag von höchstens 25 000 Franken berücksichtigt.
 
-<sup>3</sup> Die Punkte sind wie folgt bewertet:
+<sup>3</sup> Das Budget wird wie folgt bewertet:
 
-- a) –100 bis –81 Punkte — 10% der Kosten gemäss § 2 Abs. 2
-- b) –80 bis –61 Punkte — 20% der Kosten gemäss § 2 Abs. 2
-- c) –60 bis –41 Punkte — 30% der Kosten gemäss § 2 Abs. 2
-- d) –40 bis –21 Punkte — 40% der Kosten gemäss § 2 Abs. 2
-- e) –20 bis 0 Punkte — 50% der Kosten gemäss § 2 Abs. 2
-- f) 1 bis 20 Punkte — 60% der Kosten gemäss § 2 Abs. 2
-- g) 21 bis 40 Punkte — 70% der Kosten gemäss § 2 Abs. 2
-- h) 41 bis 60 Punkte — 80% der Kosten gemäss § 2 Abs. 2
-- i) 61 bis 80 Punkte — 90% der Kosten gemäss § 2 Abs. 2
-- j) 81 bis 100 Punkte — 100% der Kosten gemäss § 2 Abs. 2
+- a) Überschüsse von 20 001-25 000 Franken — 10% der Kosten gemäss § 2 Abs. 2
+- b) Überschüsse von 15 001-20 000 Franken — 20% der Kosten gemäss § 2 Abs. 2
+- c) Überschüsse von 10 001-15 000 Franken — 30% der Kosten gemäss § 2 Abs. 2
+- d) Überschüsse von 5001-10 000 Franken — 40% der Kosten gemäss § 2 Abs. 2
+- e) Überschüsse von 1-5000 Franken — 50% der Kosten gemäss § 2 Abs. 2
+- f) Fehlbeträge von 0-4999 Franken — 60% der Kosten gemäss § 2 Abs. 2
+- g) Fehlbeträge von 5000-9999 Franken — 70% der Kosten gemäss § 2 Abs. 2
+- h) Fehlbeträge von 10 000-14 999 Franken — 80% der Kosten gemäss § 2 Abs. 2
+- i) Fehlbeträge von 15 000-19 999 Franken — 90% der Kosten gemäss § 2 Abs. 2
+- j) Fehlbeträge ab 20 000 Franken — 100% der Kosten gemäss § 2 Abs. 2
 
 <sup>4</sup> In Härtefällen kann das Amt für Mittelschulen und Pädagogische Hochschule auf Antrag der Schulleitung den Beitrag um bis zu 20% des gemäss Abs. 3 errechneten Beitrags erhöhen.
 
-[^4-1]: BGS [416.211](https://bgs.zg.ch/data/416.211/de)
+[^4-1]: BGS [416.21](https://bgs.zg.ch/data/416.21/de)
+[^4-2]: BGS [416.213](https://bgs.zg.ch/data/416.213/de)
 
 #### § 5
 
