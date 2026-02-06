@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderungsprotokoll zum Abkommen zwischen der Schweiz und der Europäischen Union über den automatischen Informationsaustausch über Finanzkonten zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten
 document: Vernehmlassungsvorlage
 language: de

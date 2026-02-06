@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Protocole d’amendement à l’accord entre la Suisse et l’Union européenne sur l’échange automatique d’informations relatives aux comptes financiers en vue d’améliorer le respect des obligations fiscales au niveau international
 document: Projet mis en consultation
 language: fr

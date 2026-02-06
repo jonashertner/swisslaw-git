@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Protocollo che modifica l’accordo tra la Svizzera e l’Unione europea sullo scambio automatico di informazioni finanziarie per migliorare l’adempimento fiscale internazionale
 document: Progetto posto in consultazione
 language: it
