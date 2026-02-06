@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Energieförderungsverordnung (Bewirtschaftungsentgelt für KEV-Anlagen in der Direktvermarktung)
 document: Vernehmlassungsvorlage
 language: de

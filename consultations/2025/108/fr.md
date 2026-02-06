@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur l’encouragement de la production d’électricité issue d’énergies renouvelables (indemnité de gestion versée aux installations RPC participant à la commercialisation directe)
 document: Projet mis en consultation
 language: fr

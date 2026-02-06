@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’ordinanza sulla promozione dell’energia (indennità di gestione per gli impianti RIC nella commercializzazione diretta)
 document: Progetto posto in consultazione
 language: it
