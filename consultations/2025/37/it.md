@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sugli istituti finanziari
 document: Progetto posto in consultazione
 language: it
