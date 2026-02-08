@@ -3,11 +3,11 @@ sr: "0.642.045.43"
 title: Abkommen vom 23. Dezember 2020 zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Besteuerung der Grenzgängerinnen und Grenzgänger (mit Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/410"
 language: de
-version: 2024-02-21
+version: 2026-02-09
 adopted: 2020-12-23
 in_force: 2023-07-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20240221/de/xml/fedlex-data-admin-ch-eli-cc-2023-410-20240221-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20240221/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20260209/de/xml/fedlex-data-admin-ch-eli-cc-2023-410-20260209-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20260209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2023** 410; BBl **2021** 1917
 
 Abgeschlossen am 23. Dezember 2020 Von der Bundesversammlung genehmigt am 18. März 2022[^t-1] In Kraft getreten durch Notenaustausch am 17. Juli 2023
 
-(Stand am 21. Februar 2024)
+(Stand am 9. Februar 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 18. März 2022 ([AS 2023 409](https://fedlex.data.admin.ch/eli/oc/2023/409))
 
@@ -75,9 +75,9 @@ Im Sinne dieses Abkommens bedeutet:
 - e) der Ausdruck «Grenzgängervereinbarung von 1974» die Vereinbarung vom 3. Oktober 1974[^2-2] zwischen der Schweiz und Italien über die Besteuerung der Grenzgänger und den finanziellen Ausgleich zugunsten der italienischen Grenzgemeinden;
 - f) der Ausdruck «Freizügigkeitsabkommen» das Abkommen vom 21. Juni 1999[^2-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit.
 
-[^2-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^2-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 [^2-2]: [AS 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)
-[^2-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^2-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 3
 
@@ -89,7 +89,7 @@ Im Sinne dieses Abkommens bedeutet:
 
 <sup>3.</sup> Die Besteuerung der Grenzgängerinnen und Grenzgänger im Vertragsstaat, in dem die unselbstständige Erwerbstätigkeit ausgeübt wird, erfolgt über die Quellenbesteuerung. Jegliche andere Besteuerungsart wird für die Zwecke dieses Abkommens ausgeschlossen.
 
-[^3-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^3-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 [^3-2]: [AS 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)
 
 #### Art. 4
@@ -98,8 +98,8 @@ Im Sinne dieses Abkommens bedeutet:
 
 Unter Vorbehalt von Artikel 25 des Doppelbesteuerungsabkommens von 1976[^4-1] dürfen die unter den Geltungsbereich des vorliegenden Abkommens fallenden, in einem Vertragsstaat ansässigen Grenzgängerinnen und Grenzgänger im Vertragsstaat, in dem die unselbstständige Erwerbstätigkeit ausgeübt wird, keiner Besteuerung unterworfen werden, die anders oder belastender ist als die Besteuerung, der andere Grenzgängerinnen und Grenzgänger unterliegen, die unter die Definition des Freizügigkeitsabkommens[^4-2] fallen; sie dürfen auch nicht aufgrund der Definition der Grenzgängerin beziehungsweise des Grenzgängers einer diskriminierenden steuerlichen Behandlung unterworfen werden, einschliesslich jeglicher diskriminierender steuerlicher Behandlung, die auf der Aufenthaltsdauer oder der Häufigkeit der Rückkehr an den eigenen Wohnsitz beruht.
 
-[^4-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
-[^4-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^4-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
+[^4-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 5
 
@@ -109,7 +109,7 @@ Unter Vorbehalt von Artikel 25 des Doppelbesteuerungsabkommens von 1976[^4-1] d�
 
 <sup>2.</sup> Ungeachtet des Artikels 24 des Doppelbesteuerungsabkommens von 1976 berücksichtigt die Schweiz zwecks Vermeidung der Doppelbesteuerung bei der Festlegung der Steuerbemessungsgrundlage die gemäss Artikel 3 Absatz 1 erhobenen Steuern, indem der Bruttobetrag des Gehalts, des Lohns und der ähnlichen Vergütungen, die eine Grenzgängerin oder ein Grenzgänger mit steuerlicher Ansässigkeit in der Schweiz bezieht, um vier Fünftel herabgesetzt wird.
 
-[^5-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^5-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 
 #### Art. 6
 
@@ -121,7 +121,7 @@ Unter Vorbehalt von Artikel 25 des Doppelbesteuerungsabkommens von 1976[^4-1] d�
 
 <sup>3.</sup> Ist eine Person der Auffassung, dass Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie, ungeachtet der Absätze 1 und 2 dieses Artikels, gestützt auf Artikel 26 des Doppelbesteuerungsabkommens von 1976[^6-1] und dessen künftige Änderungen ihren Fall den zuständigen Behörden unterbreiten.
 
-[^6-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^6-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 
 #### Art. 7
 
@@ -164,7 +164,7 @@ Das vorliegende Abkommen tritt am Tag des Eingangs der letzten der Notifikatione
 
 <sup>3.</sup> Dieses Abkommen ersetzt ab seinem Inkrafttreten die Grenzgängervereinbarung von 1974[^8-2]. Die Bestimmungen der Grenzgängervereinbarung von 1974 werden jedoch weiter angewandt, bis die Bestimmungen dieses Abkommens anwendbar werden.
 
-[^8-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^8-1]: [SR 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 [^8-2]: [[AS 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)]
 
 #### Art. 9
@@ -188,7 +188,7 @@ Das vorliegende Abkommen tritt am Tag des Eingangs der letzten der Notifikatione
 <sup>8.</sup> Erhält die zuständige Behörde eines Vertragsstaats Kenntnis von einem oder mehreren Fällen eines offensichtlichen und offenkundigen Missbrauchs der Bestimmungen des Absatzes 1 dieses Artikels, so kann diese Behörde den Fall oder die Fälle gemäss Artikel 6 Absatz 1 des Abkommens und Artikel 26 des Doppelbesteuerungsabkommens von 1976[^9-2] in seiner geänderten Fassung der zuständigen Behörde des anderen Vertragsstaats unterbreiten, um die angemessene steuerliche Behandlung für die Zwecke des Abkommens zu bestimmen.
 
 [^9-1]: Berichtigung vom 21. Febr. 2024 ([AS 2024 78](https://fedlex.data.admin.ch/eli/oc/2024/78)).
-[^9-2]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^9-2]: [SR 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 
 #### Art. 10
 
@@ -198,15 +198,17 @@ Die Vertragsstaaten überprüfen das Abkommen alle fünf Jahre, um zu entscheide
 
 *Zu Urkund dessen* haben die hierzu von ihrer Regierung gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Rom am 23. Dezember 2020, im Doppel in italienischer Sprache. Für den Schweizerischen Bundesrat: Daniela Stoffel Delprete Für die Regierung der Italienischen Republik: Antonio Misiani
 
-Zusatzprotokoll
+Zusatzprotokoll[^t-2]
 
 Bei der Unterzeichnung des heute zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik abgeschlossenen Abkommens über die Besteuerung der Grenzgängerinnen und Grenzgänger haben sich die bevollmächtigten Unterzeichneten auf die folgenden zusätzlichen Bestimmungen geeinigt, die einen integralen Bestandteil des Abkommens bilden.
 
 \1. Falls ein Vertragsstaat das eigene Besteuerungssystem wesentlich ändert, konsultieren die beiden Vertragsstaaten einander umgehend, um mögliche notwendige Änderungen des Abkommens zu beurteilen. Als wesentliche Änderung gilt beispielsweise insbesondere der Wechsel von der Besteuerung nach dem Welteinkommensprinzip zur Besteuerung nach dem Territorialitätsprinzip.
 
-\2. Hinsichtlich Artikel 2 Buchstabe b Ziffer iii besteht Einvernehmen darüber, dass es einer Grenzgängerin oder einem Grenzgänger, die oder der die Voraussetzungen nach Artikel 2 Buchstabe b Ziffern i und ii erfüllt, grundsätzlich gestattet ist, an höchstens 45 Tagen pro Kalenderjahr aus beruflichen Gründen nicht an ihr oder sein Hauptsteuerdomizil im Ansässigkeitsstaat zurückzukehren, sofern die zuständigen Behörden nichts anderes beschliessen. Ferien- und Krankheitstage fallen nicht unter diese Begrenzung.
+2.1 Hinsichtlich Artikel 2 Buchstabe b Ziffer iii besteht Einvernehmen darüber, dass es einer Grenzgängerin oder einem Grenzgänger, die oder der die Voraussetzungen nach Artikel 2 Buchstabe b Ziffern i und ii erfüllt, grundsätzlich gestattet ist, an höchstens 45 Tagen pro Kalenderjahr aus beruflichen Gründen nicht an ihr oder sein Hauptsteuerdomizil im Ansässigkeitsstaat zurückzukehren, sofern die zuständigen Behörden nichts anderes beschliessen. Ferien- und Krankheitstage fallen nicht unter diese Begrenzung.
 
-\3. Im Zusammenhang mit der möglichen Weiterentwicklung der Telearbeit konsultieren die Vertragsstaaten einander regelmässig, um festzustellen, ob Änderungen oder Ergänzungen des Absatzes 2 dieses Zusatzprotokolls erforderlich sind. Dies berührt nicht das Recht der Vertragsstaaten, im Rahmen des Verständigungsverfahrens nach Artikel 26 Absatz 3 des Doppelbesteuerungsabkommens von 1976[^t-2] eine Vereinbarung über die Auslegung oder Anwendung dieses Abkommens in Bezug auf die Telearbeit zu treffen, auch in Ausnahmesituationen.
+2.2. Hinsichtlich Artikel 2 Buchstabe b des Abkommens besteht Einvernehmen darüber, dass die Grenzgängerin oder der Grenzgänger während eines Kalenderjahres höchstens 25 Prozent ihrer bzw. seiner unselbstständigen Erwerbstätigkeit in Form von Telearbeit zu Hause im Ansässigkeitsstaat ausüben kann, ohne dass es zu einer Änderung des Status als Grenzgängerin oder Grenzgänger im Sinne des Abkommens kommt. Diese Möglichkeit gilt für alle Grenzgängerinnen und Grenzgänger gemäss der Definition in Artikel 2 Buchstabe b des Abkommens einschliesslich derjenigen, die unter die in Artikel 9 des Abkommens vorgesehene Übergangsregelung fallen. Da es nicht zu einer Änderung des Status als Grenzgängerin oder Grenzgänger kommt, werden, ungeachtet von Artikel 3 des Abkommens, die Gehälter, Löhne und ähnlichen Vergütungen, die von den Grenzgängerinnen und Grenzgängern bezogen und von einem Arbeitgeber für eine unselbstständige Erwerbstätigkeit gezahlt werden, die bis maximal 25 Prozent der Arbeitszeit in Form von Telearbeit zu Hause im Ansässigkeitsstaat ausgeübt wird, für die Besteuerung den im anderen Vertragsstaat beim Arbeitgeber geleisteten Arbeitstagen zugeordnet.
+
+\3. Im Zusammenhang mit der möglichen Weiterentwicklung der Telearbeit konsultieren die Vertragsstaaten einander regelmässig, um festzustellen, ob Änderungen oder Ergänzungen des Absatzes 2 dieses Zusatzprotokolls erforderlich sind. Dies berührt nicht das Recht der Vertragsstaaten, im Rahmen des Verständigungsverfahrens nach Artikel 26 Absatz 3 des Doppelbesteuerungsabkommens von 1976[^t-3] eine Vereinbarung über die Auslegung oder Anwendung dieses Abkommens in Bezug auf die Telearbeit zu treffen, auch in Ausnahmesituationen.
 
 \4. Hinsichtlich Artikel 3 Absatz 1 besteht Einvernehmen darüber, dass der Ausdruck «Steuern auf dem Einkommen der natürlichen Personen» die ordentlichen nationalen und lokalen Steuern bezeichnet, denen die Grenzgängerinnen und Grenzgänger unterworfen sind: in Italien die Steuer auf dem Einkommen der natürlichen Personen sowie zusätzliche regionale und kommunale Steuern; in der Schweiz die Bundes-, Kantons- und Gemeindesteuern (nach dem durchschnittlichen Gemeindesteuerfuss eines bestimmten Kantons errechnet) für natürliche Personen.
 
@@ -220,9 +222,9 @@ Je nach den Traktanden für die Zusammenkunft der gemischten Kommission können 
 
 \8. Im Streitfall darüber, ob die Voraussetzungen für die Anwendung der Übergangsregelung für die Besteuerung nach Artikel 9 erfüllt sind, kann die Angelegenheit auf Antrag der steuerpflichtigen Person im Rahmen des Verständigungsverfahrens nach Artikel 6 Absatz 3 geklärt werden.
 
-\9. Hinsichtlich Artikel 7 Absatz 2 besteht Einvernehmen darüber, dass der Ausdruck «Grenzgängerinnen und Grenzgänger, die eine unselbstständige Erwerbstätigkeit ausüben» in Bezug auf die Begriffsbestimmung in Anhang I Artikel 7 des Freizügigkeitsabkommens[^t-3] auszulegen ist. Hinsichtlich Anhang I Artikel 7 Absatz 2 des Freizügigkeitsabkommens besteht insbesondere Einvernehmen darüber, dass diese Bestimmungen für die Schweiz auf unselbstständig erwerbstätige Personen mit einer Grenzgängerbewilligung (gegenwärtig als Bewilligung «G» für Personen aus EU/EFTA-Staaten definiert) anwendbar sind, welche die Voraussetzungen nach Artikel 7 Absatz 2 des vorliegenden Abkommens erfüllen.
+\9. Hinsichtlich Artikel 7 Absatz 2 besteht Einvernehmen darüber, dass der Ausdruck «Grenzgängerinnen und Grenzgänger, die eine unselbstständige Erwerbstätigkeit ausüben» in Bezug auf die Begriffsbestimmung in Anhang I Artikel 7 des Freizügigkeitsabkommens[^t-4] auszulegen ist. Hinsichtlich Anhang I Artikel 7 Absatz 2 des Freizügigkeitsabkommens besteht insbesondere Einvernehmen darüber, dass diese Bestimmungen für die Schweiz auf unselbstständig erwerbstätige Personen mit einer Grenzgängerbewilligung (gegenwärtig als Bewilligung «G» für Personen aus EU/EFTA-Staaten definiert) anwendbar sind, welche die Voraussetzungen nach Artikel 7 Absatz 2 des vorliegenden Abkommens erfüllen.
 
-\10. Hinsichtlich Artikel 8 Absatz 3 besteht Einvernehmen darüber, dass die Schweiz Italien den finanziellen Ausgleich für das letzte Jahr zahlen wird, in welchem die Bestimmungen der Grenzgängervereinbarung von 1974[^t-4] in Kraft waren.
+\10. Hinsichtlich Artikel 8 Absatz 3 besteht Einvernehmen darüber, dass die Schweiz Italien den finanziellen Ausgleich für das letzte Jahr zahlen wird, in welchem die Bestimmungen der Grenzgängervereinbarung von 1974[^t-5] in Kraft waren.
 
 \11. Hinsichtlich Artikel 9 Absatz 1 besteht Einvernehmen darüber, dass:
 
@@ -241,9 +243,10 @@ Geschehen zu Rom am 23. Dezember 2020, im Doppel in italienischer Sprache.
 
 ## Briefwechsel vom 23. Dezember 2020 zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Besteuerung der Grenzgängerinnen und Grenzgänger
 
-[^t-2]: [SR 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
-[^t-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^t-4]: [AS 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)
+[^t-2]: Bereinigt gemäss Art. I des Prot. vom 6. Juni 2024, angewendet seit dem 1. Jan. 2024 und in Kraft seit 9. Febr. 2026 ([AS 2026 104](https://fedlex.data.admin.ch/eli/oc/2026/104)).
+[^t-3]: [SR 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
+[^t-4]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^t-5]: [AS 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)
 
 In Kraft getreten am 17. Juli 2023
 
@@ -273,5 +276,5 @@ Genehmigen Sie, Frau Staatssekretärin, die Versicherung meiner ausgezeichneten 
 </table>
 
 [^annexu1-lvlu2-1]: [AS 2023 411](https://fedlex.data.admin.ch/eli/oc/2023/411)
-[^annexu1-lvlu2-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^annexu1-lvlu2-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^annexu1-lvlu2-3]: [AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272)

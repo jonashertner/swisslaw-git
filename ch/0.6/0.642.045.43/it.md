@@ -3,11 +3,11 @@ sr: "0.642.045.43"
 title: Accordo del 23 dicembre 2020 tra la Confederazione Svizzera e la Repubblica Italiana relativo all’imposizione dei lavoratori frontalieri (con prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/410"
 language: it
-version: 2024-02-21
+version: 2026-02-09
 adopted: 2020-12-23
 in_force: 2023-07-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20240221/it/xml/fedlex-data-admin-ch-eli-cc-2023-410-20240221-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20240221/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/410/20260209/it/xml/fedlex-data-admin-ch-eli-cc-2023-410-20260209-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/410/20260209/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Concluso il 23 dicembre 2020 Approvato dall’Assemblea federale il 18 marzo 2022[^t-1] Entrato in vigore mediante scambio di note il 17 luglio 2023
 
-(Stato 21 febbraio 2024)
+(Stato 9 febbraio 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 18 mar. 2022 ([RU 2023 409](https://fedlex.data.admin.ch/eli/oc/2023/409)).
 
@@ -75,9 +75,9 @@ Ai fini del presente Accordo:
 - e) l’espressione «Accordo sui lavoratori frontalieri del 1974» designa l’Accordo del 3 ottobre 1974[^2-2] tra la Svizzera e l’Italia relativo all’imposizione dei lavoratori frontalieri ed alla compensazione finanziaria a favore dei Comuni italiani di confine;
 - f) l’espressione «Accordo sulla libera circolazione delle persone» designa l’Accordo del 21 giugno 1999[^2-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone.
 
-[^2-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^2-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 [^2-2]: [RU 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)
-[^2-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^2-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 3
 
@@ -89,7 +89,7 @@ Ai fini del presente Accordo:
 
 <sup>3.</sup> L’imposizione dei lavoratori frontalieri nello Stato contraente in cui l’attività di lavoro dipendente viene svolta è effettuata tramite imposizione alla fonte. Qualsiasi altro metodo d’imposizione è escluso ai fini del presente Accordo.
 
-[^3-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^3-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 [^3-2]: [RU 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)
 
 #### Art. 4
@@ -98,8 +98,8 @@ Ai fini del presente Accordo:
 
 Ferme restando le disposizioni dell’articolo 25 della Convenzione contro le doppie imposizioni del 1976[^4-1], i lavoratori frontalieri rientranti nel campo di applicazione del presente Accordo, con residenza in uno Stato contraente, non devono essere soggetti ad alcuna imposizione nello Stato contraente in cui viene svolta l’attività di lavoro dipendente diversa o più onerosa dell’imposizione di altri lavoratori frontalieri che rientrano nella definizione dell’Accordo sulla libera circolazione delle persone[^4-2], né essere soggetti ad alcun trattamento fiscale discriminatorio sulla base della definizione di lavoratore frontaliere, incluso qualsiasi trattamento fiscale discriminatorio fondato sulla durata del soggiorno o la frequenza del ritorno al proprio domicilio.
 
-[^4-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
-[^4-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^4-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
+[^4-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 5
 
@@ -109,7 +109,7 @@ Ferme restando le disposizioni dell’articolo 25 della Convenzione contro le do
 
 <sup>2.</sup> Nonostante le disposizioni dell’articolo 24 della Convenzione contro le doppie imposizioni del 1976, la Svizzera, al fine di eliminare la doppia imposizione, prenderà in conto, nella determinazione della base imponibile, le imposte prelevate ai sensi del paragrafo 1 dell’articolo 3, riducendo di quattro quinti l’importo lordo del salario, dello stipendio e delle altre remunerazioni analoghe ricevute dal lavoratore frontaliere fiscalmente residente in Svizzera.
 
-[^5-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^5-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 
 #### Art. 6
 
@@ -121,7 +121,7 @@ Ferme restando le disposizioni dell’articolo 25 della Convenzione contro le do
 
 <sup>3.</sup> Nonostante le disposizioni dei paragrafi 1 e 2 del presente articolo, quando un residente di uno Stato contraente ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lui una imposizione non conforme alle disposizioni del presente Accordo, egli può sottoporre il suo caso alle autorità competenti in base alle disposizioni previste all’articolo 26 della Convenzione contro le doppie imposizioni del 1976[^6-1] e successive modifiche.
 
-[^6-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^6-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 
 #### Art. 7
 
@@ -164,7 +164,7 @@ Il presente Accordo entra in vigore alla data di ricezione dell’ultima delle n
 
 <sup>3.</sup> L’Accordo sui lavoratori frontalieri del 1974[^8-2] è sostituito dal presente Accordo a partire dalla sua entrata in vigore. Tuttavia, le disposizioni dell’Accordo sui lavoratori frontalieri del 1974 continueranno ad applicarsi fintanto che le disposizioni del presente Accordo non saranno applicabili.
 
-[^8-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^8-1]: [RS 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 [^8-2]: [[RU 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)]
 
 #### Art. 9
@@ -188,7 +188,7 @@ Il presente Accordo entra in vigore alla data di ricezione dell’ultima delle n
 <sup>8.</sup> Qualora l’autorità competente di uno degli Stati contraenti venga a conoscenza di uno o più casi di abuso evidente e manifesto delle disposizioni del paragrafo 1 del presente articolo, tale autorità può sottoporre il caso o i casi all’autorità competente dell’altro Stato contraente, in base alle disposizioni previste all’articolo 6 paragrafo 1 dell’Accordo e all’articolo 26 della Convenzione contro le doppie imposizioni del 1976[^9-2] e successive modifiche, al fine di definire il corretto trattamento fiscale ai fini dell’Accordo.
 
 [^9-1]: La correzione del 21 feb. 2024 concerne soltanto i testi tedesco e francese ([RU 2024 78](https://fedlex.data.admin.ch/eli/oc/2024/78)).
-[^9-2]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
+[^9-2]: [RS 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
 
 #### Art. 10
 
@@ -198,15 +198,17 @@ Gli Stati contraenti procederanno a un riesame dell’Accordo ogni cinque anni a
 
 *In fede di che,* i sottoscritti, debitamente autorizzati dai propri rispettivi Governi, hanno firmato il presente Accordo. Fatto a Roma, il 23 dicembre 2020, in due esemplari in lingua italiana. Per il Consiglio federale svizzero: Daniela Stoffel Delprete Per il Governo della Repubblica Italiana: Antonio Misiani
 
-Protocollo aggiuntivo
+Protocollo aggiuntivo[^t-2]
 
 All’atto della firma dell’Accordo concluso in data odierna tra la Confederazione Svizzera e la Repubblica italiana relativo all’imposizione dei lavoratori frontalieri, i sottoscritti plenipotenziari hanno concordato le seguenti disposizioni supplementari che formano parte integrante dell’Accordo.
 
 \1. Qualora uno degli Stati contraenti dovesse modificare sostanzialmente il proprio sistema d’imposizione, i due Stati contraenti si consulteranno immediatamente vicendevolmente al fine di valutare possibili modifiche necessarie dell’Accordo. In particolare, viene ad esempio considerato un cambiamento sostanziale il passaggio da un sistema d’imposizione mondiale dei residenti ad un sistema d’imposizione territoriale.
 
-\2. Con riferimento al punto iii. della lettera b) dell’articolo 2, resta inteso che, a meno che le autorità competenti decidano diversamente, ad un lavoratore frontaliere che soddisfa le condizioni dei punti i. e ii. della lettera b) dell’articolo 2, è consentito, in linea di principio, di non rientrare quotidianamente al proprio domicilio nello Stato di residenza, per motivi professionali, per un massimo di 45 giorni in un anno civile. I giorni di ferie e di malattia non sono conteggiati in questo limite.
+2.1. Con riferimento al punto iii. della lettera b) dell’articolo 2, resta inteso che, a meno che le autorità competenti decidano diversamente, ad un lavoratore frontaliere che soddisfa le condizioni dei punti i. e ii. della lettera b) dell’articolo 2, è consentito, in linea di principio, di non rientrare quotidianamente al proprio domicilio nello Stato di residenza, per motivi professionali, per un massimo di 45 giorni in un anno civile. I giorni di ferie e di malattia non sono conteggiati in questo limite.
 
-\3. In relazione ad un potenziale ulteriore sviluppo del telelavoro, gli Stati contraenti si consulteranno periodicamente per verificare se si rendono necessarie modifiche o integrazioni al precedente punto 2 del presente Protocollo aggiuntivo. Resta salva la facoltà degli Stati contraenti di concordare, con procedura di amichevole composizione di cui all’articolo 26, paragrafo 3, della Convenzione contro le doppie imposizioni del 1976[^t-2], dell’interpretazione o dell’applicazione del presente Accordo in relazione al telelavoro, ivi incluso in situazioni eccezionali.
+2.2. Con riferimento all’articolo 2, lettera b) dell’Accordo, resta inteso che il lavoratore frontaliere può svolgere al massimo il 25 per cento della sua attività di lavoro dipendente in modalità di telelavoro presso il proprio domicilio nello Stato di residenza nel corso di un anno civile, senza che ciò comporti alcuna modifica dello *status* di lavoratore frontaliere ai sensi dell’Accordo. Tale facoltà vale per tutti i lavoratori frontalieri, così come definiti all’articolo 2, lettera b) dell’Accordo, ivi inclusi coloro che beneficiano del regime transitorio previsto all’articolo 9 dell’Accordo. Non intervenendo alcuna modifica dello *status* di lavoratore frontaliere, nonostante l’articolo 3 dell’Accordo, i salari, gli stipendi e le altre remunerazioni analoghe ricevute dai lavoratori frontalieri e pagate da un datore di lavoro quale corrispettivo di un’attività di lavoro dipendente, svolta in modalità di telelavoro presso il proprio domicilio nello Stato di residenza, fino a un massimo del 25 per cento del tempo di lavoro, sono considerati, ai fini dell’imposizione, quali giorni di lavoro svolti nell’altro Stato contraente presso il datore di lavoro.
+
+\3. In relazione ad un potenziale ulteriore sviluppo del telelavoro, gli Stati contraenti si consulteranno periodicamente per verificare se si rendono necessarie modifiche o integrazioni al precedente punto 2 del presente Protocollo aggiuntivo. Resta salva la facoltà degli Stati contraenti di concordare, con procedura di amichevole composizione di cui all’articolo 26, paragrafo 3, della Convenzione contro le doppie imposizioni del 1976[^t-3], dell’interpretazione o dell’applicazione del presente Accordo in relazione al telelavoro, ivi incluso in situazioni eccezionali.
 
 \4. Con riferimento al paragrafo 1 dell’articolo 3, resta inteso che l’espressione «imposta sui redditi delle persone fisiche» designa le imposte ordinarie nazionali e locali alle quali sono assoggettati i lavoratori non residenti: in Svizzera, le imposte federali, cantonali e comunali (con moltiplicatore medio di un determinato Cantone) sulle persone fisiche; in Italia, l’imposta sul reddito delle persone fisiche, così come le addizionali regionali e comunali.
 
@@ -220,9 +222,9 @@ A seconda dei punti all’agenda dell’incontro della commissione mista, le due
 
 \8. In caso di controversia sulla sussistenza delle condizioni per l’applicazione del regime transitorio d’imposizione di cui all’articolo 9, la questione potrà essere risolta, su richiesta del contribuente, nel contesto della procedura di amichevole composizione di cui all’articolo 6 paragrafo 3.
 
-\9. Con riferimento al paragrafo 2 dell’articolo 7, resta inteso che l’espressione «lavoratori frontalieri che svolgono un’attività di lavoro dipendente» deve essere interpretata con riferimento alla definizione di cui all’articolo 7 dell’Allegato I dell’Accordo sulla libera circolazione delle persone[^t-3]. In particolare, con riferimento al paragrafo 2 dell’articolo 7 dell’Allegato I dell’Accordo sulla libera circolazione delle persone, resta inteso che, per quanto concerne la Svizzera, tali disposizioni si applicano a lavoratori dipendenti che detengono un permesso per frontalieri (attualmente definito permesso «G» per persone provenienti da Paesi UE/AELS) che soddisfano le condizioni previste nel paragrafo 2 dell’articolo 7 del presente Accordo.
+\9. Con riferimento al paragrafo 2 dell’articolo 7, resta inteso che l’espressione «lavoratori frontalieri che svolgono un’attività di lavoro dipendente» deve essere interpretata con riferimento alla definizione di cui all’articolo 7 dell’Allegato I dell’Accordo sulla libera circolazione delle persone[^t-4]. In particolare, con riferimento al paragrafo 2 dell’articolo 7 dell’Allegato I dell’Accordo sulla libera circolazione delle persone, resta inteso che, per quanto concerne la Svizzera, tali disposizioni si applicano a lavoratori dipendenti che detengono un permesso per frontalieri (attualmente definito permesso «G» per persone provenienti da Paesi UE/AELS) che soddisfano le condizioni previste nel paragrafo 2 dell’articolo 7 del presente Accordo.
 
-\10. Con riferimento al paragrafo 3 dell’articolo 8, resta inteso che la Svizzera verserà all’Italia la compensazione finanziaria relativa all’ultimo anno nel quale le disposizioni dell’Accordo sui lavoratori frontalieri del 1974[^t-4] erano in vigore.
+\10. Con riferimento al paragrafo 3 dell’articolo 8, resta inteso che la Svizzera verserà all’Italia la compensazione finanziaria relativa all’ultimo anno nel quale le disposizioni dell’Accordo sui lavoratori frontalieri del 1974[^t-5] erano in vigore.
 
 \11. Con riferimento all’articolo 9, paragrafo 1, resta inteso che:
 
@@ -241,9 +243,10 @@ Fatto a Roma, il 23 dicembre 2020, in due esemplari in lingua italiana.
 
 ## Scambio di lettere del 23 dicembre 2020 tra la Confederazione Svizzera e la Repubblica Italiana relativo all’imposizione dei lavoratori frontalieri
 
-[^t-2]: [RS 0.672.945.41](https://fedlex.data.admin.ch/eli/cc/1979/461_461_461)
-[^t-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^t-4]: [RU 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)
+[^t-2]: Aggiornato dall’art. I del Prot. del 6 giu. 2024, applicato dal 1° gen. 2024 ed in vigore dal 9 feb. 2026 ([RU 2026 104](https://fedlex.data.admin.ch/eli/oc/2026/104)).
+[^t-3]: [RS 0.672.945.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2617)
+[^t-4]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^t-5]: [RU 1979 457](https://fedlex.data.admin.ch/eli/oc/1979/457_457_457)
 
 Entrato in vigore il 17 luglio 2023
 
@@ -276,5 +279,5 @@ Voglia gradire, Onorevole Segretaria di Stato, l’espressione della mia più al
 </table>
 
 [^annexu1-lvlu2-1]: [RU 2023 411](https://fedlex.data.admin.ch/eli/oc/2023/411)
-[^annexu1-lvlu2-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^annexu1-lvlu2-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^annexu1-lvlu2-3]: [RU 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272)
