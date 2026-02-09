@@ -4,11 +4,11 @@ title: Mineralölsteuerverordnung vom 20. November 1996 (MinöStV)
 short: MinöStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: de
-version: 2026-01-01
+version: 2026-02-10
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260210/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260210-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260210/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/de"
 
 (MinöStV)
 
-vom 20. November 1996 (Stand am 1. Januar 2026)
+vom 20. November 1996 (Stand am 10. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Mineralölsteuergesetz vom 21. Juni 1996[^ingress-1] (MinöStG
 
 verordnet:
 
-[^ingress-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^ingress-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 [^ingress-2]: Ausdruck gemäss Ziff. I der V vom 4. Mai 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Die Änderung wurde im ganzen Text berücksichtigt.
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -46,10 +46,10 @@ Im Sinne der Mineralölsteuergesetzgebung gelten als:
 
 <sup>2</sup> Das Eidgenössische Finanzdepartement (EFD) entscheidet, ob spätere Änderungen der Schweizer Norm übernommen werden.[^1-5]
 
-[^1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 [^1-2]: Fassung der Nummer gemäss Anhang Ziff. 13 der V vom 3. Juli 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
 [^1-3]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch)
-[^1-4]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^1-4]: [SR 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
 [^1-5]: Fassung gemäss Ziff. I der V vom 30. Jan. 2008, in Kraft seit 1. Juli 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
 
 #### Art. 2
@@ -68,7 +68,7 @@ Die Steuerbehörde[^2-2] und die Schweizerische Pflichtlagerorganisation für fl
 Die Steuerbehörde und die Vollzugsstelle nach Artikel 64 des Energiegesetztes vom 30. September 2016[^2a-2] (EnG) können Daten zu Bewilligungsinhabern nach dem MinöStG und Daten aus Meldungen, welche die Steuerpflichtigen, die Exporteure und die Rückerstattungsberechtigen erstatten müssen, austauschen.
 
 [^2a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^2a-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^2a-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 3
 
@@ -112,7 +112,7 @@ Die Steuerbehörde verbucht 1,5 Prozent der Einnahmen aus der Steuer auf Treibst
 
 <sup>2</sup> Vorbehalten bleibt eine allfällige Haftung nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^7-1].
 
-[^7-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^7-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### 3. Abschnitt: Sicherheitsleistung
 
@@ -174,7 +174,7 @@ Die Sicherheitsleistung dient zur Sicherung der Steuer und der anderen Abgaben, 
 
 Im Übrigen gelten die Bestimmungen des Obligationenrechts[^13-1].
 
-[^13-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^13-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 4. Abschnitt: Statistik
 
@@ -221,8 +221,8 @@ In den Steueranmeldungen und den periodischen Meldungen müssen:
 
 <sup>4</sup> Für Spezialstatistiken und Sondererhebungen werden Gebühren nach dem Anhang der Verordnung vom 4. April 2007[^17-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit[^17-2] erhoben.[^17-3]
 
-[^17-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
-[^17-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^17-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^17-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^17-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ## 2. Kapitel: Tarife
@@ -335,16 +335,16 @@ Die Kernübereinkommen der ILO sind:[^19d-2]
 
 [^19d-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
 [^19d-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^19d-3]: [SR 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^19d-4]: [SR 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^19d-5]: [SR 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^19d-6]: [SR 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^19d-7]: [SR 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^19d-8]: [SR 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^19d-9]: [SR 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
+[^19d-3]: [SR 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
+[^19d-4]: [SR 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
+[^19d-5]: [SR 0.822.719.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3624)
+[^19d-6]: [SR 0.822.720.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3625)
+[^19d-7]: [SR 0.822.720.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3627)
+[^19d-8]: [SR 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
+[^19d-9]: [SR 0.822.723.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3638)
 [^19d-10]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-11]: [www.ilo.org/normlex](http://www.ilo.org/normlex) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
-[^19d-12]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-12]: [SR 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 [^19d-13]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-14]: [www.ilo.org/normlex](http://www.ilo.org/normlex) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
 
@@ -457,11 +457,12 @@ Importeure und Herstellungsbetriebe müssen der Steuerbehörde folgende Änderun
 Der Verwendungsvorbehalt lautet:
 
 - a. für Heizöl: «Dieses Heizöl wurde zu einem begünstigten Satz versteuert; es darf daher nur zu Feuerungszwecken verwendet werden. Eine andere Verwendung (z. B. als Treibstoff oder zu Reinigungszwecken) ist verboten. Widerhandlungen werden nach dem Mineralölsteuergesetz geahndet.»;
-- b. für andere Waren: «Diese Ware wurde zu einem begünstigten Satz versteuert; sie darf daher nur zu dem in Ihrer Verwendungsverpflichtung aufgeführten Zweck bzw. gemäss Verwendungsbezeichnung in der Rechnung verwendet werden.»
+- b.[^24-1] für andere Waren: «Diese Ware wurde zu einem begünstigten Satz versteuert; sie darf daher nur zu dem in Ihrer Verwendungsverpflichtung aufgeführten Zweck bzw. gemäss Verwendungsbezeichnung in der Rechnung verwendet werden.»
 
-<sup>3</sup> Die Steuerbehörde kann für andere Waren nach Absatz 2 Buchstabe b andere Formulierungen des Verwendungsvorbehalts akzeptieren, sofern diese der Formulierung nach Absatz 2 Buchstabe b inhaltlich entsprechen.[^24-1]
+<sup>3</sup> Die Steuerbehörde kann für andere Waren nach Absatz 2 Buchstabe b andere Formulierungen des Verwendungsvorbehalts akzeptieren, sofern diese der Formulierung nach Absatz 2 Buchstabe b inhaltlich entsprechen.[^24-2]
 
-[^24-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^24-1]: Die Berichtigung vom 10. Febr. 2026 betrifft nur den italienischen Text ([AS 2026 65](https://fedlex.data.admin.ch/eli/oc/2026/65)).
+[^24-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 25
 
@@ -495,9 +496,9 @@ Keinen Anspruch auf steuerfreien Treibstoff haben:
 - b. begünstigte Personen ausländischer Nationalität mit einer Aufenthaltsbewilligung nach dem Ausländer- und Integrationsgesetz[^26-3] vom 16. Dezember 2005[^26-4], die bei einer diplomatischen Mission, bei einer ständigen Mission oder einer anderen Vertretung bei zwischenstaatlichen Organisationen oder bei einem konsularischen Posten arbeiten.
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^26-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^26-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
-[^26-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^26-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^26-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
+[^26-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 27
 
@@ -551,7 +552,7 @@ Steuerfreier Treibstoff darf in anderen als die in Artikel 27 genannten Fahrzeug
 <sup>3</sup> Die Steuerbehörde bestimmt das Verfahren für die Abgabe des steuerfreien Treibstoffs.
 
 [^28a-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^28a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^28a-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 28b
 
@@ -628,7 +629,7 @@ Treibstoffe, die auf Zollflugplätzen zur Versorgung anderer Luftfahrzeuge getan
 
 <sup>5</sup> Die Steuerbefreiung wird über eine Steueranmeldung im Sinne von Artikel 42 Absatz 2 oder im Verfahren der Rückerstattung gewährt.[^33-6]
 
-[^33-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^33-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^33-2]: Fassung gemäss Anhang 4 Ziff. 29 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^33-3]: Fassung gemäss Ziff. I der V vom 27. Aug. 2003, in Kraft seit 1. Juli 2003 ([AS 2003 3521](https://fedlex.data.admin.ch/eli/oc/2003/500)).
 [^33-4]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
@@ -900,7 +901,7 @@ Herstellungsbetriebe, die Biogas, erneuerbarer Wasserstoff oder synthetisches Ga
 
 <sup>6</sup> Die Vollzugsstelle leitet die Daten umgehend an die Steuerbehörde weiter. Sie überprüft insbesondere, ob die gemeldeten Mengen vollständig abgerechnet sind und nicht mehrfach verwendet oder verrechnet wurden.
 
-[^45e-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^45e-1]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ## 5. Kapitel: Steuerrückerstattungen
 
@@ -975,8 +976,8 @@ Die Steuer wird folgenden Unternehmen rückerstattet:
 <sup>6</sup> Das EFD legt die ermässigten Steuersätze fest.
 
 [^49-1]: Fassung gemäss Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^49-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^49-3]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^49-2]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^49-3]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 50
 
@@ -1017,7 +1018,7 @@ Die Verbrauchskontrollen müssen die pro Fahrzeug verbrauchte Treibstoffart und 
 
 Die Bestimmungen dieses Abschnitts sind nur anwendbar, wenn die Anlagen für den Treibstoffumschlag und für die Wiedergewinnung von flüssigen Treibstoffen aus gasförmigen Kohlenwasserstoffen aus dem Treibstoffumschlag der Luftreinhalte-Verordnung vom 16. Dezember 1985[^52-1] entsprechen.
 
-[^52-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^52-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 53
 
@@ -1068,7 +1069,9 @@ Der zugelassene Lagerinhaber muss die Rückerstattung nach Artikel 18 Absatz 1 B
 
 **Art und Umfang**
 
-Der Steueranteil nach Artikel 18 Absatz 1<sup>ter</sup> MinöStG wird den Betreibern von Pistenfahrzeugen rückerstattet; der Rückerstattungsbetrag wird aufgrund der verbrauchten Menge berechnet.
+Der Steueranteil nach Artikel 18 Absatz 1<sup>quater</sup> [^57a-1] MinöStG wird den Betreibern von Pistenfahrzeugen rückerstattet; der Rückerstattungsbetrag wird aufgrund der verbrauchten Menge berechnet.
+
+[^57a-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst.
 
 #### Art. 57b
 
@@ -1550,7 +1553,7 @@ Die Meldungen müssen:
 <sup>3</sup> Die Steuerbehörde kann in begründeten Fällen gestatten, dass die Meldungen ohne EDV erstellt und übermittelt werden.
 
 [^82-1]: Fassung gemäss Ziff. I der V vom 12. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
-[^82-2]: [[AS 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007), [1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180); [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321); [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 3 Ziff. 5; [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 3; [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 6; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 4; [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)Anhang 3 Ziff. 5; [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)Anhang 3 Ziff. 3. [AS 2017 3183](https://fedlex.data.admin.ch/eli/oc/2017/314)Art. 12]. Siehe heute: die Mineralölpflichtlagerverordnung vom 10. Mai 2017 ([SR 531.215.41](https://fedlex.data.admin.ch/eli/cc/2017/314)).
+[^82-2]: [[AS 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007), [1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180); [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321); [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 3 Ziff. 5; [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 3; [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 6; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 4; [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)Anhang 3 Ziff. 5; [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)Anhang 3 Ziff. 3. [AS 2017 3183](https://fedlex.data.admin.ch/eli/oc/2017/314)Art. 12]. Siehe heute: die Mineralölpflichtlagerverordnung vom 10. Mai 2017 ([SR 531.215.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7704)).
 
 #### Art. 83
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 20 novembre 1996 sur l'imposition des huiles minérales (O
 short: Oimpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: fr
-version: 2026-01-01
+version: 2026-02-10
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260210/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260210-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260210/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/fr"
 
 (Oimpmin)
 
-du 20 novembre 1996 (État le 1<sup>er</sup> janvier 2026)
+du 20 novembre 1996 (État le 10 février 2026)
 
 Le Conseil fédéral suisse,
 
@@ -26,7 +26,7 @@ vu la loi du 21 juin 1996 sur l’imposition des huiles minérales (Limpmin[^ing
 arrête:
 
 [^ingress-1]: Nouvelle expression selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^ingress-2]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 ## Chapitre 1 Dispositions générales
 
@@ -47,9 +47,9 @@ Au sens de la législation sur l’imposition des huiles minérales, on entend p
 <sup>2</sup> Le Département fédéral des finances (DFF) statue sur la reprise de modifications ultérieures de la norme suisse.[^1-5]
 
 [^1-1]: Nouveau numéro selon l’annexe ch. 13 de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
-[^1-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
+[^1-2]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)annexe
 [^1-3]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
-[^1-4]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^1-4]: [RS 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
 [^1-5]: Nouvelle teneur selon le ch. I de l’O du 30 janv. 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
 
 #### Art. 2
@@ -68,7 +68,7 @@ L’autorité fiscale[^2-2] et l’Organisation suisse de stockage obligatoire p
 L’autorité fiscale et l’organe d’exécution visé à l’art. 64 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^2a-2] peuvent échanger des données concernant les titulaires des autorisations en vertu de la Limpmin et des données émanant des rapports que doivent fournir les assujettis à l’impôt, les exportateurs et les bénéficiaires de remboursements.
 
 [^2a-1]: Introduit par l’annexe ch. 3 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^2a-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^2a-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 3
 
@@ -112,7 +112,7 @@ L’autorité fiscale impute 1,5 % des recettes provenant de l’impôt sur les 
 
 <sup>2</sup> Est réservée une éventuelle responsabilité au sens de la loi du 14 mars 1958 sur la responsabilité[^7-1].
 
-[^7-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^7-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### Section 3 Sûretés
 
@@ -174,7 +174,7 @@ Les sûretés servent en particulier à garantir l’impôt et les autres redeva
 
 Sont applicables au surplus les dispositions du code des obligations[^13-1].
 
-[^13-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^13-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 4 Statistique
 
@@ -221,8 +221,8 @@ Dans les déclarations fiscales et les rapports périodiques:
 
 <sup>4</sup> Les statistiques particulières et les relevés spéciaux donnent lieu à la perception d’émoluments conformément à l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^17-1] [^17-2].[^17-3]
 
-[^17-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^17-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^17-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^17-2]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 [^17-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ## Chapitre 2 Tarifs
@@ -333,16 +333,16 @@ Les conventions fondamentales de l’OIT sont les suivantes:[^19d-2]
 
 [^19d-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)). Voir aussi les disp. trans de cette mod. à la fin du texte.
 [^19d-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^19d-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^19d-4]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^19d-5]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^19d-6]: [RS 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^19d-7]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^19d-8]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^19d-9]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
+[^19d-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
+[^19d-4]: [RS 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
+[^19d-5]: [RS 0.822.719.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3624)
+[^19d-6]: [RS 0.822.720.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3625)
+[^19d-7]: [RS 0.822.720.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3627)
+[^19d-8]: [RS 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
+[^19d-9]: [RS 0.822.723.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3638)
 [^19d-10]: Introduite par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-11]: [www.ilo.org/normlex](http://www.ilo.org/normlex) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
-[^19d-12]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-12]: [RS 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 [^19d-13]: Introduite par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-14]: [www.ilo.org/normlex](http://www.ilo.org/normlex) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
 
@@ -455,11 +455,12 @@ L’importateur ou l’établissement de fabrication doit annoncer immédiatemen
 La réserve d’emploi a la teneur suivante:
 
 - a. pour l’huile de chauffage: «Cette huile de chauffage a été imposée à un taux de faveur; elle ne peut dès lors être utilisée que pour le chauffage. Toute autre utilisation (p. ex. comme carburant ou pour le nettoyage) est interdite. Les infractions seront réprimées conformément à la loi sur l’imposition des huiles minérales.»
-- b. pour les autres marchandises: «Cette marchandise a été imposée à un taux de faveur; elle ne peut dès lors être utilisée qu’aux fins indiquées dans la déclaration de garantie ou dans la désignation de l’emploi figurant dans la facture.»
+- b.[^24-1] pour les autres marchandises: «Cette marchandise a été imposée à un taux de faveur; elle ne peut dès lors être utilisée qu’aux fins indiquées dans la déclaration de garantie ou dans la désignation de l’emploi figurant dans la facture.»
 
-<sup>3</sup> Pour les autres marchandises au sens de l’al. 2, let. b, l’autorité fiscale peut accepter d’autres formulations de la réserve d’emploi pour autant qu’elles correspondent, du point de vue du contenu, à la formulation de l’al. 2, let. b.[^24-1]
+<sup>3</sup> Pour les autres marchandises au sens de l’al. 2, let. b, l’autorité fiscale peut accepter d’autres formulations de la réserve d’emploi pour autant qu’elles correspondent, du point de vue du contenu, à la formulation de l’al. 2, let. b.[^24-2]
 
-[^24-1]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^24-1]: Erratum du 10 fév. 2026, ne concerne que le texte italien ([RO 2026 65](https://fedlex.data.admin.ch/eli/oc/2026/65)).
+[^24-2]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 25
 
@@ -493,8 +494,8 @@ N’ont pas droit à du carburant exonéré de l’impôt:
 - b. les personnes bénéficiaires de nationalité étrangère qui sont titulaires d’une autorisation de séjour au sens de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^26-3] et qui travaillent dans une mission diplomatique, dans une mission permanente ou une autre représentation auprès d’organisations intergouvernementales, ou dans un poste consulaire.
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^26-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^26-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^26-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^26-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 27
 
@@ -548,7 +549,7 @@ Le carburant exonéré de l’impôt ne peut être utilisé que de la manière s
 <sup>3</sup> L’autorité fiscale détermine la procédure de remise de carburant exonéré de l’impôt.
 
 [^28a-1]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^28a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^28a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 28b
 
@@ -601,7 +602,7 @@ Est exonéré au titre des pertes de fabrication au maximum 1 % de la quantité 
 
 <sup>1</sup>
 
-Les carburants qui, sur des aérodromes douaniers au sens de l’art. 22 Limpmin du 18 mars 2005 sur les douanes[^33-1], servent à ravitailler des aéronefs engagés dans le trafic de lignes, sont exonérés de l’impôt à condition qu’ils soient utilisés:[^33-2]
+Les carburants qui, sur des aérodromes douaniers au sens de l’art. 22 de la loi du 18 mars 2005 sur les douanes[^33-1], servent à ravitailler des aéronefs engagés dans le trafic de lignes, sont exonérés de l’impôt à condition qu’ils soient utilisés:[^33-2]
 
 - a. pour des vols réguliers à destination de l’étranger;
 - b.[^33-3] pour des vols qui sont effectués entre des aéroports suisses et qui permettent la correspondance avec un vol régulier en provenance ou à destination de l’étranger;
@@ -625,7 +626,7 @@ Les carburants qui, sur des aérodromes douaniers, servent à ravitailler d’au
 
 <sup>5</sup> L’exonération de l’impôt est accordée sur la base d’une déclaration fiscale au sens de l’art. 42, al. 2, ou en procédure de remboursement.[^33-7]
 
-[^33-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^33-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^33-2]: Nouvelle teneur selon l’annexe 4 ch. 29 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^33-3]: Nouvelle teneur selon le ch. I de l’O du 27 août 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 3521](https://fedlex.data.admin.ch/eli/oc/2003/500)).
 [^33-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
@@ -895,7 +896,7 @@ Les établissements de fabrication de biogaz, d’hydrogène renouvelable ou de 
 
 <sup>6</sup> L’organe d’exécution transmet immédiatement les données à l’autorité fiscale. Il contrôle en particulier si les quantités annoncées ont été entièrement comptabilisées et n’ont pas été utilisées ou imputées plusieurs fois.
 
-[^45e-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^45e-1]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ## Chapitre 5 Remboursements de l’impôt
 
@@ -970,8 +971,8 @@ L’impôt est remboursé aux entreprises suivantes:
 <sup>6</sup> Le DFF fixe les taux de l’impôt réduit.
 
 [^49-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^49-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^49-3]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^49-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^49-3]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 50
 
@@ -1012,7 +1013,7 @@ Les contrôles de la consommation doivent mentionner le genre et la quantité de
 
 Les dispositions de cette section ne sont applicables que si les installations de transbordement de carburants et de récupération de carburants liquides à partir des vapeurs d’hydrocarbures provenant dudit transbordement sont conformes aux dispositions de l’ordonnance du 16 décembre 1985 sur la protection de l’air[^52-1].
 
-[^52-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^52-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 53
 
@@ -1063,7 +1064,9 @@ L’entrepositaire agréé doit demander par écrit à l’autorité fiscale le 
 
 **Nature et montant**
 
-La part d’impôt visée à l’art. 18, al. 1<sup>ter</sup>, Limpmin est remboursée aux exploitants de dameuses de pistes; le montant du remboursement est calculé sur la base de la quantité consommée.
+La part d’impôt visée à l’art. 18, al. 1<sup>quater</sup> [^57a-1], Limpmin est remboursée aux exploitants de dameuses de pistes; le montant du remboursement est calculé sur la base de la quantité consommée.
+
+[^57a-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2026 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 57b
 
@@ -1543,7 +1546,7 @@ Les rapports doivent:
 <sup>3</sup> L’autorité fiscale peut autoriser, dans des cas dûment motivés, que les rapports ne soient ni établis ni transmis par voie informatique.
 
 [^82-1]: Nouvelle teneur selon le ch. I de l’O du 12 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
-[^82-2]: [[RO 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007), [1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180); [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321); [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 3 ch. 5; [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)annexe ch. 3; [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)annexe ch. 6; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)annexe 4 ch. II 4; [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)annexe 3 ch. 5; [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)annexe 3 ch. 3. [RO 2017 3183](https://fedlex.data.admin.ch/eli/oc/2017/314)art. 12]. Voir actuellement l’O du 10 mai 2017 sur le stockage obligatoire de carburants et combustibles liquides ([RS 531.215.41](https://fedlex.data.admin.ch/eli/cc/2017/314)).
+[^82-2]: [[RO 1983 1007](https://fedlex.data.admin.ch/eli/oc/1983/1007_1007_1007), [1180](https://fedlex.data.admin.ch/eli/oc/1983/1180_1180_1180); [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321); [1995 4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 3 ch. 5; [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)annexe ch. 3; [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)annexe ch. 6; [2006 2995](https://fedlex.data.admin.ch/eli/oc/2006/464)annexe 4 ch. II 4; [2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)annexe 3 ch. 5; [2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)annexe 3 ch. 3. [RO 2017 3183](https://fedlex.data.admin.ch/eli/oc/2017/314)art. 12]. Voir actuellement l’O du 10 mai 2017 sur le stockage obligatoire de carburants et combustibles liquides ([RS 531.215.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7704)).
 
 #### Art. 83
 

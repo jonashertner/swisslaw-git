@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1996 sull'imposizione degli oli minerali (OIOm
 short: OIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: it
-version: 2026-01-01
+version: 2026-02-10
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20260210/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20260210-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260210/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20260101/it"
 
 (OIOm)
 
-del 20 novembre 1996 (Stato 1° gennaio 2026)
+del 20 novembre 1996 (Stato 10 febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 21 giugno 1996[^ingress-1] sull’imposizione degli 
 
 ordina:
 
-[^ingress-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^ingress-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 [^ingress-2]: Nuova espr. giusta la cifra I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Di detta mod. è tenuto conto in tutto il testo.
 
 ## Capitolo 1: Disposizioni generali
@@ -47,9 +47,9 @@ A tenore della legislazione sull’imposizione degli oli minerali s’intende pe
 <sup>2</sup> Il Dipartimento federale delle finanze (DFF) statuisce in merito all’adozione di ulteriori modifiche della norma svizzera.[^1-5]
 
 [^1-1]: Nuova voce giusta l’all. n. 13 dell’O del 3 lug. 2001, in vigore dal 1° gen. 2002 ([RU 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
-[^1-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), All.
+[^1-2]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), All.
 [^1-3]: Il testo di tale norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
-[^1-4]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^1-4]: [RS 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
 [^1-5]: Nuovo testo giusta la cifra I dell’O del 30 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
 
 #### Art. 2
@@ -68,7 +68,7 @@ L’autorità fiscale[^2-2] e l’Organizzazione svizzera di scorte obbligatorie
 L’autorità fiscale e l’organo d’esecuzione di cui all’articolo 64 della legge del 30 settembre 2016[^2a-2] sull’energia (LEne) possono scambiarsi dati relativi ai titolari di autorizzazioni ai sensi della LIOm e dati provenienti da notifiche che i contribuenti, gli esportatori e gli aventi diritto al rimborso devono effettuare.
 
 [^2a-1]: Introdotto dall’all. n. 3 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^2a-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^2a-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 3
 
@@ -112,7 +112,7 @@ L’autorità fiscale computa come spese di riscossione l’1,5 per cento degli 
 
 <sup>2</sup> È fatta salva un’eventuale responsabilità secondo la legge del 14 marzo 1958[^7-1] sulla responsabilità.
 
-[^7-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^7-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### Sezione 3: Prestazione di garanzie
 
@@ -174,7 +174,7 @@ La prestazione di garanzia serve a garantire l’imposta e gli altri tributi, in
 
 Per il resto fanno stato le disposizioni del Codice delle obbligazioni[^13-1].
 
-[^13-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^13-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Sezione 4: Statistica
 
@@ -221,8 +221,8 @@ Nelle dichiarazioni fiscali e nei rapporti periodici:
 
 <sup>4</sup> Per le statistiche speciali e i rilevamenti speciali sono riscossi emolumenti secondo l’appendice all’ordinanza del 4 aprile 2007[^17-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini[^17-2].[^17-3]
 
-[^17-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
-[^17-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^17-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
+[^17-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^17-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ## Capitolo 2: Tariffe
@@ -332,16 +332,16 @@ Le convenzioni principali dell’OIL:[^19d-2]
 
 [^19d-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)). Vedi anche le disp. trans. alla fine di questo testo.
 [^19d-2]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^19d-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^19d-4]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^19d-5]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^19d-6]: [RS 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^19d-7]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^19d-8]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^19d-9]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
+[^19d-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
+[^19d-4]: [RS 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
+[^19d-5]: [RS 0.822.719.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3624)
+[^19d-6]: [RS 0.822.720.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3625)
+[^19d-7]: [RS 0.822.720.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3627)
+[^19d-8]: [RS 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
+[^19d-9]: [RS 0.822.723.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3638)
 [^19d-10]: Introdotta dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-11]: [www.ilo.org/normlex](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312300:NO) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
-[^19d-12]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^19d-12]: [RS 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 [^19d-13]: Introdotta dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-14]: [www.ilo.org/normlex](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312332:NO) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
 
@@ -454,11 +454,12 @@ L’importatore o lo stabilimento di fabbricazione deve comunicare immediatament
 La riserva d’uso ha il seguente tenore:
 
 - a. per l’olio da riscaldamento: «Questo olio è stato tassato ad un’aliquota di favore e può pertanto essere destinato solo al riscaldamento. Qualsiasi altro uso (ad es. come carburante o per la pulizia) è vietato. Le infrazioni sono punite conformemente alla legge sull’imposizione degli oli minerali»;
-- b. per le altre merci: «Questa merce è stata tassata ad un’aliquota di favore e può pertanto essere impiegata solo per gli scopi menzionati nella riserva d’uso notificata sulla fattura».
+- b.[^24-1] per le altre merci: «Questa merce è stata tassata ad un’aliquota di favore e può pertanto essere impiegata solo per gli scopi menzionati nell’impegno d’impiego o nella riserva d’uso notificata sulla fattura».
 
-<sup>3</sup> Per le altre merci di cui al capoverso 2 lettera b l’autorità fiscale può accettare una formulazione diversa della riserva d’uso, a condizione che il contenuto corrisponda a quello del capoverso 2 lettera b.[^24-1]
+<sup>3</sup> Per le altre merci di cui al capoverso 2 lettera b l’autorità fiscale può accettare una formulazione diversa della riserva d’uso, a condizione che il contenuto corrisponda a quello del capoverso 2 lettera b.[^24-2]
 
-[^24-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^24-1]: Correzione del 10 feb. 2026 ([RU 2026 65](https://fedlex.data.admin.ch/eli/oc/2026/65)).
+[^24-2]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 25
 
@@ -492,9 +493,9 @@ Non hanno diritto al carburante esente da imposta:
 - b. le persone di nazionalità estera con un permesso di dimora secondo la legge federale del 16 dicembre 2005[^26-3] sugli stranieri e la loro integrazione[^26-4] che lavorano presso una missione diplomatica, una missione permanente o un’altra rappresentanza presso organizzazioni intergovernative oppure un posto consolare.
 
 [^26-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^26-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^26-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^26-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019.
+[^26-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^26-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^26-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019.
 
 #### Art. 27
 
@@ -548,7 +549,7 @@ Il carburante esente da imposta può essere utilizzato in veicoli e macchine div
 <sup>3</sup> L’autorità fiscale definisce la procedura per la consegna di carburante esente da imposta.
 
 [^28a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^28a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^28a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 28b
 
@@ -625,7 +626,7 @@ I carburanti acquistati negli aerodromi doganali per rifornire altri aeromobili 
 
 <sup>5</sup> L’esenzione dall’imposta è concessa sulla base di una dichiarazione fiscale ai sensi dell’articolo 42 capoverso 2 o nella procedura di restituzione.[^33-7]
 
-[^33-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^33-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^33-2]: Nuovo testo giusta l’all. 4 n. 29 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^33-3]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2003, in vigore dal 1° lug. 2003 ([RU 2003 3521](https://fedlex.data.admin.ch/eli/oc/2003/500)).
 [^33-4]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
@@ -894,7 +895,7 @@ Gli stabilimenti di fabbricazione che producono biogas, idrogeno rinnovabile o g
 
 <sup>6</sup> L’organo d’esecuzione trasmette senza indugio i dati all’autorità fiscale. Verifica in particolare che le quantità dichiarate siano state conteggiate integralmente e che non siano state utilizzate o computate più volte.
 
-[^45e-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^45e-1]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ## Capitolo 5: Restituzione dell’imposta
 
@@ -969,8 +970,8 @@ L’imposta è restituita alle seguenti imprese:
 <sup>6</sup> Il DFF fissa le aliquote ridotte.
 
 [^49-1]: Nuovo testo giusta l’all. n. 2 dell’O del 2 apr. 2025, in vigore dal 1° gen. 2026 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^49-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^49-3]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^49-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^49-3]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 50
 
@@ -1011,7 +1012,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 Le disposizioni della presente sezione sono applicabili unicamente se gli impianti di travaso del carburante e quelli per il recupero di idrocarburi liquidi gassosi provenienti dal travaso di carburante sono conformi alle disposizioni dell’ordinanza del 16 dicembre 1985[^52-1] contro l’inquinamento atmosferico.
 
-[^52-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^52-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 53
 
@@ -1062,7 +1063,9 @@ Il depositario autorizzato chiede per scritto all’autorità fiscale la restitu
 
 **Genere e portata**
 
-La parte d’imposta di cui all’articolo 18 capoverso 1<sup>ter</sup> della legge è restituita ai gestori di veicoli adibiti alla preparazione di piste; l’importo della restituzione è calcolato in base alla quantità consumata.
+La parte d’imposta di cui all’articolo 18 capoverso 1<sup>qua</sup><sup>ter</sup> [^57a-1] della legge è restituita ai gestori di veicoli adibiti alla preparazione di piste; l’importo della restituzione è calcolato in base alla quantità consumata.
+
+[^57a-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 20.
 
 #### Art. 57b
 
@@ -1542,7 +1545,7 @@ I rapporti devono:
 <sup>3</sup> In casi debitamente motivati, l’autorità fiscale può autorizzare la stesura e la trasmissione non informatizzata del rapporto.
 
 [^82-1]: Nuovo testo giusta la cifra I dell’O del 12 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
-[^82-2]: [RS 531.215.41](https://fedlex.data.admin.ch/eli/cc/2017/314)
+[^82-2]: [RS 531.215.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7704)
 
 #### Art. 83
 
