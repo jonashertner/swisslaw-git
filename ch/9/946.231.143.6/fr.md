@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Ordonnance du 12 décembre 2025 instituant des mesures à l’encontre de la République islamique d’Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: fr
-version: 2025-12-12
+version: 2026-02-10
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20251212/fr/xml/fedlex-data-admin-ch-eli-cc-2025-838-20251212-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20251212/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260210/fr/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260210-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260210/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 12 décembre 2025 (État le 12 décembre 2025)
+du 12 décembre 2025 (État le 10 février 2026)
 
 Le Conseil fédéral suisse,
 
@@ -460,7 +460,7 @@ L’interdiction prévue à l’al. 1 ne s’applique pas aux navires qui ont be
 
 <sup>2</sup> Les transferts d’avoirs supérieurs à 50 000 francs dont une personne ou une entité iranienne est le bénéficiaire ou le donneur d’ordre doivent être autorisés par le SECO. Le SECO octroie l’autorisation si le transfert d’avoirs n’enfreint pas la présente ordonnance, la loi du 13 décembre 1996 sur le contrôle des biens[^21-1] ou la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^21-2].
 
-<sup>3</sup> L’annonce ou la demande d’autorisation doit être effectuée par l’intermédiaire financier du donneur d’ordre ou du bénéficiaire ou, si l’intermédiaire n’est pas établi en Suisse, par le bénéficiaire ou le donneur d’ordre.
+<sup>3</sup> L’annonce ou la demande d’autorisation doit être effectuée par l’intermédiaire financier du donneur d’ordre ou du bénéficiaire ou, si l’intermédiaire n’est pas établi en Suisse, par le bénéficiaire ou le donneur d’ordre.[^21-3]
 
 <sup>4</sup> Les al. 1 et 2 sont applicables même si le transfert d’avoirs est exécuté en plusieurs opérations connexes.
 
@@ -475,6 +475,7 @@ Les al. 1 et 2 ne s’appliquent pas dans les cas suivants:
 
 [^21-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 [^21-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^21-3]: Erratum du 10 fév. 2026, ne concerne que le texte italien ([RO 2026 64](https://fedlex.data.admin.ch/eli/oc/2026/64)).
 
 #### Art. 22
 

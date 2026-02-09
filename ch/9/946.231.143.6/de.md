@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 12. Dezember 2025 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: de
-version: 2025-12-12
+version: 2026-02-10
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20251212/de/xml/fedlex-data-admin-ch-eli-cc-2025-838-20251212-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20251212/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260210/de/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260210-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260210/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 12. Dezember 2025 (Stand am 12. Dezember 2025)
+vom 12. Dezember 2025 (Stand am 10. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -460,7 +460,7 @@ Das Verbot nach Absatz 1 gilt nicht für Schiffe, die Hilfe benötigen und aus f
 
 <sup>2</sup> Geldtransfers über 50 000 Franken an eine iranische Person oder Organisation oder von einer iranischen Person oder Organisation bedürfen einer Bewilligung des SECO. Das SECO erteilt die Bewilligung, sofern der Geldtransfer nicht gegen diese Verordnung, das Güterkontrollgesetz vom 13. Dezember 1996[^21-1] oder das Kriegsmaterialgesetz vom 13. Dezember 1996[^21-2] verstösst.
 
-<sup>3</sup> Die Meldung muss erfolgen oder das Bewilligungsgesuch gestellt werden durch den Finanzintermediär des Auftraggebers oder des Begünstigten oder, falls der Finanzintermediär nicht in der Schweiz ansässig ist, durch den Zahlungsempfänger oder den Auftraggeber.
+<sup>3</sup> Die Meldung muss erfolgen oder das Bewilligungsgesuch gestellt werden durch den Finanzintermediär des Auftraggebers oder des Begünstigten oder, falls der Finanzintermediär nicht in der Schweiz ansässig ist, durch den Zahlungsempfänger oder den Auftraggeber.[^21-3]
 
 <sup>4</sup> Die Absätze 1 und 2 gelten auch, wenn der Geldtransfer in mehreren zusammenhängenden Vorgängen durchgeführt wird.
 
@@ -475,6 +475,7 @@ Die Absätze 1 und 2 gelten nicht, wenn:
 
 [^21-1]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 [^21-2]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^21-3]: Die Berichtigung vom 10. Febr. 2026 betrifft nur den italienischen Text ([AS 2026 64](https://fedlex.data.admin.ch/eli/oc/2026/64)).
 
 #### Art. 22
 

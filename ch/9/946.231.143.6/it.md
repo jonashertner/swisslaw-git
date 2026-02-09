@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Ordinanza del 12 dicembre 2025 che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: it
-version: 2025-12-12
+version: 2026-02-10
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20251212/it/xml/fedlex-data-admin-ch-eli-cc-2025-838-20251212-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20251212/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260210/it/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260210-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260210/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-del 12 dicembre 2025 (Stato 12 dicembre 2025)
+del 12 dicembre 2025 (Stato 10 febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -156,7 +156,7 @@ La SECO può autorizzare deroghe al divieto di cui al capoverso 2, purché:
 
 <sup>3</sup> È vietato fornire qualsiasi tipo di servizio di controllo o intercettazione di comunicazioni telefoniche o via Internet al governo dell’Iran, ai suoi enti, imprese e agenzie pubblici e a qualsiasi persona od organizzazione che agisca in nome o per conto del governo iraniano.
 
-<sup>4</sup> D’intesa con i servizi competenti del DFAE, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2, purché i beni e i servizi interessati non siano utilizzati per il controllo e l’intercettazione del traffico telefonico e di Internet .
+<sup>4</sup> D’intesa con i servizi competenti del DFAE, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2, purché i beni e i servizi interessati non siano utilizzati per il controllo e l’intercettazione del traffico telefonico e di Internet.
 
 #### Art. 7
 
@@ -215,7 +215,7 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 <sup>3</sup> È vietato mettere a disposizione servizi di intermediazione o mezzi finanziari per gli affari di cui ai capoversi 1 e 2.
 
-#### Art.11
+#### Art. 11
 
 **Obbligo di notifica relativo alle banconote e le monete**
 
@@ -460,7 +460,7 @@ Il divieto di cui al capoverso 1 non si applica alle navi che necessitano di ass
 
 <sup>2</sup> I trasferimenti di averi superiori a 50 000 franchi da parte o a beneficio di una persona o un’organizzazione iraniana necessitano di un’autorizzazione della SECO. La SECO rilascia l’autorizzazione se il trasferimento di averi non viola la presente ordinanza, la legge del 13 dicembre 1996[^21-1] sul controllo dei beni a duplice impiego né la legge del 13 dicembre 1996[^21-2] sul materiale bellico.
 
-<sup>3</sup> La dichiarazione deve effettuata o la domanda di autorizzazione deve essere presentata dall’intermediario finanziario del committente o del beneficiario, se uno di essi è residente in Svizzera oppure, se l’intermediario finanziario non è residente in Svizzera, dal destinatario del pagamento o dal committente stesso.
+<sup>3</sup> La dichiarazione deve essere effettuata o la domanda di autorizzazione deve essere presentata dall’intermediario finanziario dell’ordinante o del beneficiario oppure, se l’intermediario finanziario non è residente in Svizzera, dal destinatario del pagamento o dall’ordinante stesso.[^21-3]
 
 <sup>4</sup> I capoversi 1 e 2 si applicano anche se il trasferimento di averi è effettuato in più operazioni collegate.
 
@@ -469,12 +469,15 @@ Il divieto di cui al capoverso 1 non si applica alle navi che necessitano di ass
 I capoversi 1 e 2 non si applicano se:
 
 - a. il trasferimento di averi è necessario per lo svolgimento di attività umanitarie o per altre attività volte a soddisfare bisogni umani fondamentali da parte di organizzazioni secondo l’articolo 16 capoversi 3 e 4;
-- b. l’autorizzazione per un trasferimento di averi è stata concessa secondo l’articolo 2 capoversi 5 e 6, 3 capoverso 1, 4 capoverso 4, 5 capoversi 8 e 9, 14 capoverso 4, 17 capoversi 1–4 e 18 capoversi 2–4;
+- b.[^21-4] l’autorizzazione per un trasferimento di averi è stata concessa secondo gli articoli 2 capoversi 5 e 6, 3 capoverso 1, 4 capoverso 4, 5 capoversi 8 e 9, 14 capoverso 4, 17 capoversi 1–4 e 18 capoversi 2–4;
 
-<sup>6</sup> Il capoverso 2 non si applica ai trasferimenti di averi relativi a transazioni che concernono prodotti alimentari, prestazioni sanitarie e attrezzature mediche nonché scopi umanitari autorizzazione se.
+<sup>6</sup> Il capoverso 2 non si applica ai trasferimenti di averi relativi a transazioni che concernono prodotti alimentari, prestazioni sanitarie e attrezzature mediche nonché scopi umanitari.[^21-5]
 
 [^21-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 [^21-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^21-3]: Correzione del 10 feb. 2026 ([RU 2026 64](https://fedlex.data.admin.ch/eli/oc/2026/64)).
+[^21-4]: Correzione del 10 feb. 2026 ([RU 2026 64](https://fedlex.data.admin.ch/eli/oc/2026/64)).
+[^21-5]: Correzione del 10 feb. 2026 ([RU 2026 64](https://fedlex.data.admin.ch/eli/oc/2026/64)).
 
 #### Art. 22
 
