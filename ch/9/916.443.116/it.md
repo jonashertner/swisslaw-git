@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 6 novembre 2025 che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: it
-version: 2026-01-13
+version: 2026-02-11
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260113/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260113-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260113/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260211/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260211-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260211/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 
-del 6 novembre 2025 (Stato 13 gennaio 2026)
+del 6 novembre 2025 (Stato 11 febbraio 2026)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -118,7 +118,15 @@ Devono:
 
 <sup>1</sup> Nelle zone di controllo, le aziende detentrici di animali che detengono almeno un esemplare dell’ordine dei galliformi (*Galliformes*), degli anseriformi (*Anseriformes*) o dei ratiti (*Struthioniformes*) sono soggette a un divieto di trasferimento. La consegna diretta per la macellazione è autorizzata.
 
-<sup>2</sup> Il veterinario cantonale può autorizzare deroghe.
+<sup>2</sup> Il pollame da cortile proveniente da aziende detentrici di animali che applicano le misure di cui all’articolo 7 da almeno 21 giorni è esente dal divieto di trasferimento di cui al capoverso 1.[^8-1]
+
+<sup>3</sup> Il veterinario cantonale può autorizzare deroghe al divieto di trasferimento.[^8-2]
+
+<sup>4</sup> I detentori di animali sono responsabili dell’osservanza delle prescrizioni di cui ai capoversi 1 e 2.[^8-3]
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 9 feb. 2026, in vigore dall’11 feb 2026 ([RU 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
+[^8-2]: Introdotto dalla cifra la cifra I dell’O dell’USAV del 9 feb. 2026, in vigore dall’11 feb 2026 ([RU 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
+[^8-3]: Introdotto dalla cifra la cifra I dell’O dell’USAV del 9 feb. 2026, in vigore dall’11 feb 2026 ([RU 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
 
 #### Art. 9
 
@@ -128,11 +136,17 @@ Nelle zone di osservazione, i detentori di 50 o più esemplari di uccelli di cui
 
 #### Art. 10
 
-**Mercati ed esposizioni nelle zone di osservazione**
+**Mercati, esposizioni e manifestazioni analoghe**[^10-1]
 
-<sup>1</sup> Nelle zone di osservazione, ai mercati, alle esposizioni e alle manifestazioni analoghe il pollame da cortile può essere presentato soltanto dalle aziende che applicano le misure di cui all’articolo 7 da almeno 21 giorni.
+<sup>1</sup> Nelle zone di controllo è vietato organizzare mercati, esposizioni e manifestazioni analoghe per il pollame da cortile.
 
-<sup>2</sup> Gli organizzatori delle manifestazioni sono tenuti a garantire che siano presentati soltanto gli animali provenienti da tali aziende.
+<sup>2</sup> Il pollame da cortile proveniente da aziende detentrici di animali nelle zone di controllo non può essere presentato a mercati, esposizioni o manifestazioni analoghe.
+
+<sup>3</sup> Il pollame da cortile proveniente da aziende detentrici di animali nelle zone di osservazione può essere presentato a mercati, esposizioni o manifestazioni analoghe soltanto se le misure di cui all’articolo 7 sono applicate da almeno 21 giorni.
+
+<sup>4</sup> Gli organizzatori delle manifestazioni sono responsabili dell’osservanza delle prescrizioni di cui ai capoversi 1–3.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 9 feb. 2026, in vigore dall’11 feb 2026 ([RU 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
 
 #### Art. 11
 

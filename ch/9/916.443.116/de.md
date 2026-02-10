@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 6. November 2025 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: de
-version: 2026-01-13
+version: 2026-02-11
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260113/de/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260113-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260113/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260211/de/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260211-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260211/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 6. November 2025 (Stand am 13. Januar 2026)
+vom 6. November 2025 (Stand am 11. Februar 2026)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -118,7 +118,15 @@ Sie müssen:
 
 <sup>1</sup> In den Kontrollgebieten gilt für Tierhaltungen, in denen mindestens ein Tier der Ordnungen Hühnervögel (*Galliformes*), Gänsevögel (*Anseriformes*) oder Laufvögel (S*truthioniformes*) gehalten wird, eine Verbringungssperre. Die direkte Abgabe von Tieren zur Schlachtung ist erlaubt.
 
-<sup>2</sup> Der Kantonstierarzt oder die Kantonstierärztin kann Ausnahmen bewilligen.
+<sup>2</sup> Ausgenommen von der Verbringungssperre nach Absatz 1 ist Hausgeflügel aus Tierhaltungen, welche die Massnahmen nach Artikel 7 seit mindestens 21 Tagen einhalten.[^8-1]
+
+<sup>3</sup> Der Kantonstierarzt oder die Kantonstierärztin kann Ausnahmen von der Verbringungssperre bewilligen.[^8-2]
+
+<sup>4</sup> Die Tierhalterinnen und Tierhalter sind für die Einhaltung der Vorgaben nach den Absätzen 1 und 2 verantwortlich.[^8-3]
+
+[^8-1]: Fassung gemäss Ziff. I der V des BLV vom 9. Febr. 2026, in Kraft seit 11. Febr. 2026 ([AS 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
+[^8-2]: Eingefügt durch Ziff. I der V des BLV vom 9. Febr. 2026, in Kraft seit 11. Febr. 2026 ([AS 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
+[^8-3]: Eingefügt durch Ziff. I der V des BLV vom 9. Febr. 2026, in Kraft seit 11. Febr. 2026 ([AS 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
 
 #### Art. 9
 
@@ -128,11 +136,17 @@ In den Beobachtungsgebieten müssen die Tierhalterinnen und Tierhalter, die 50 o
 
 #### Art. 10
 
-**Märkte und Ausstellungen in den Beobachtungsgebieten**
+**Märkte, Ausstellungen und ähnliche Veranstaltungen**[^10-1]
 
-<sup>1</sup> In den Beobachtungsgebieten darf an Märkten, Ausstellungen und ähnlichen Veranstaltungen nur Hausgeflügel aus Tierhaltungen aufgeführt werden, welche die Massnahmen nach Artikel 7 seit mindestens 21 Tagen einhalten.
+<sup>1</sup> Die Durchführung von Märkten, Ausstellungen und ähnlichen Veranstaltungen für Hausgeflügel in Kontrollgebieten ist verboten.
 
-<sup>2</sup> Die Organisatorinnen und Organisatoren der Veranstaltungen sind dafür verantwortlich, dass nur Tiere aus solchen Tierhaltungen aufgeführt werden.
+<sup>2</sup> Hausgeflügel aus Tierhaltungen in Kontrollgebieten darf nicht an Märkten, Ausstellungen oder ähnlichen Veranstaltungen aufgeführt werden.
+
+<sup>3</sup> Hausgeflügel aus Tierhaltungen in Beobachtungsgebieten darf an Märkten, Ausstellungen und ähnlichen Veranstaltungen nur aufgeführt werden, wenn die Massnahmen nach Artikel 7 seit mindestens 21 Tagen eingehalten werden.
+
+<sup>4</sup> Die Organisatorinnen und Organisatoren der Veranstaltungen sind für die Einhaltung der Vorgaben nach den Absätzen 1–3 verantwortlich.
+
+[^10-1]: Fassung gemäss Ziff. I der V des BLV vom 9. Febr. 2026, in Kraft seit 11. Febr. 2026 ([AS 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
 
 #### Art. 11
 

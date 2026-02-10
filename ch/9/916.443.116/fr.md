@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 6 novembre 2025 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: fr
-version: 2026-01-13
+version: 2026-02-11
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260113/fr/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260113-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260113/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20260211/fr/xml/fedlex-data-admin-ch-eli-cc-2025-683-20260211-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20260211/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 6 novembre 2025 (État le 13 janvier 2026)
+du 6 novembre 2025 (État le 11 février 2026)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -118,7 +118,15 @@ Ils doivent:
 
 <sup>1</sup> Dans les régions de contrôle, une interdiction de déplacement s’applique aux animaux provenant d’unités d’élevage d’oiseaux qui comptent au moins un animal de l’ordre des galliformes (*Galliformes*), des ansériformes (*Anseriformes*) ou des struthioniformes (*Struthioniformes*). La cession directe d’animaux à des fins d’abattage est admise.
 
-<sup>2</sup> Le vétérinaire cantonal peut accorder des dérogations.
+<sup>2</sup> Les volailles domestiques provenant d’unités d’élevage qui appliquent les mesures prévues à l’art. 7 depuis au moins 21 jours ne sont pas soumises à l’interdiction de déplacement visée à l’al. 1.[^8-1]
+
+<sup>3</sup> Le vétérinaire cantonal peut accorder des dérogations à l’interdiction de déplacement.[^8-2]
+
+<sup>4</sup> Il est de la responsabilité des détenteurs d’animaux de veiller au respect des prescriptions prévues aux al. 1 et 2.[^8-3]
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 9 fév. 2026, en vigueur depuis le 11 fév. 2026 ([RO 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
+[^8-2]: Introduit par le ch. I de l’O de l’OSAV du 9 fév. 2026, en vigueur depuis le 11 fév. 2026 ([RO 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
+[^8-3]: Introduit par le ch. I de l’O de l’OSAV du 9 fév. 2026, en vigueur depuis le 11 fév. 2026 ([RO 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
 
 #### Art. 9
 
@@ -128,11 +136,17 @@ Dans les régions d’observation, les détenteurs de 50 oiseaux ou plus parmi l
 
 #### Art. 10
 
-**Marchés et expositions dans les régions d’observation**
+**Marchés, expositions et manifestations semblables**[^10-1]
 
-<sup>1</sup> Dans les régions d’observation, seules les volailles domestiques provenant d’unités d’élevage qui appliquent les mesures prévues à l’art. 7 depuis au moins 21 jours peuvent être présentées à des marchés, des expositions ou d’autres manifestations semblables.
+<sup>1</sup> Il est interdit d’organiser dans les régions de contrôle des marchés, des expositions ou des manifestations semblables regroupant des volailles domestiques.
 
-<sup>2</sup> Il est de la responsabilité des organisateurs des manifestations de veiller à ce que seuls des animaux provenant de telles unités d’élevage y soient présentés.
+<sup>2</sup> Les volailles domestiques provenant d’unités d’élevage situées dans les régions de contrôle ne peuvent pas être présentées à des marchés, des expositions ou des manifestations semblables.
+
+<sup>3</sup> Les volailles domestiques provenant d’unités d’élevage situées dans les régions d’observation peuvent être présentées à des marchés, des expositions ou des manifestations semblables uniquement si les mesures prévues à l’art. 7 sont appliquées depuis au moins 21 jours.
+
+<sup>4</sup> Il est de la responsabilité des organisateurs des manifestations de veiller au respect des prescriptions prévues aux al. 1 à 3.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 9 fév. 2026, en vigueur depuis le 11 fév. 2026 ([RO 2026 63](https://fedlex.data.admin.ch/eli/oc/2026/63)).
 
 #### Art. 11
 
