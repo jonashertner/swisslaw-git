@@ -4,13 +4,13 @@ number: "730.115"
 title: Ausführungsbestimmungen zur Bau- und Planungsverordnung
 short: ABPV
 language: de
-version: 2024-12-02
-valid_until: 2026-02-10
-version_adopted: 2024-11-22
+version: 2026-02-11
+valid_until: 2026-05-31
+version_adopted: 2026-02-05
 adopted: 2018-03-29
 in_force: 2018-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6451/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6785/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung: Ausführungsbestimmungen | Hochbauten[^t-1]
 
 (ABPV)
 
-Vom 29. März 2018 (Stand 2. Dezember 2024)
+Vom 29. März 2018 (Stand 11. Februar 2026)
 
 Das Bau- und Gastgewerbeinspektorat des Kantons Basel-Stadt,
 
@@ -121,7 +121,7 @@ beschliesst:
 <sup>1</sup> Für folgende Vorhaben genügt eine Meldung an das Bau- und Gastgewerbeinspektorat:
 
 - a) Beseitigung von Bauten und Anlagen, die nicht Gebäude oder Gebäudeteile sind;
-- b) bauliche Änderungen im Gebäudeinneren, welche nicht zu einer Veränderung der brandschutzrelevanten baulichen Massnahmen sowie bei Wohnbauten nicht zu einer Verschlechterung der Belichtung und Belüftung führen;
+- b) …
 - c) Unterhaltsarbeiten an Fassaden, Fenstern, Türen und Dächern sowie wärmetechnische Dachsanierungen in der Stadt- und Dorfbild-Schutz- und Schonzone sowie an im Denkmalverzeichnis eingetragenen Bauten;
 - d) Einfriedungen gemäss § 7 BPV bis 1,20 m Höhe, die innerhalb des Baugebiets, jedoch nicht an Allmend und nicht in Gebieten mit geschützten Bäumen liegen;
 - e) Gartenhäuser und Geräteschuppen bis zu einer Grundfläche von 10 m² innerhalb des Baugebiets oder innerhalb bewilligter Familiengartenareale;
@@ -186,7 +186,7 @@ beschliesst:
 
 **Verfahren (§ 31 BPV)**
 
-<sup>1</sup> Im vereinfachten Baubewilligungsverfahren wird ein Prüfverfahren ohne Anzeige bzw. Einspracheverfahren durchgeführt.
+<sup>1</sup> Im vereinfachten Baubewilligungsverfahren wird ein Prüfverfahren ohne Publikation durchgeführt.
 
 <sup>2</sup> Das Bau- und Gastgewerbeinspektorat entscheidet darüber, ob Einzel- oder koordinierte Abnahmen stattfinden müssen.
 
@@ -243,7 +243,8 @@ beschliesst:
 - q) Velounterstände mit einer maximalen Grundfläche von 10 m² und einer maximalen Höhe von 2 m innerhalb des Baugebiets oder innerhalb bewilligter Familiengartenareale, soweit die betroffene Liegenschaft sich weder in der Stadt- oder Dorfbild-Schutzzone befindet noch im Denkmalverzeichnis aufgeführt ist;
 - r) Bagatelländerungen und Lageänderungen von Sendeantennen innerhalb des Toleranzbereiches gemäss der Vollzugshilfe des Bau- und Gastgewerbeinspektorates;
 - s) innen aufgestellte Wärmepumpen;
-- t) innen an Schaufenstern angebrachte Reklamefolierungen.
+- t) innen an Schaufenstern angebrachte Reklamefolierungen;
+- u) Beseitigen von inneren Trennwänden oder Durchbrüche zwischen Wohnräumen.
 
 ### 3. Kapitel: Allgemeine Vorschriften
 
@@ -271,7 +272,7 @@ beschliesst:
 
 <sup>3</sup> Das Bau- und Gastgewerbeinspektorat führt eine Liste mit Berufen, welche es gemäss Abs. 2 hiervor anerkennt. Es macht sie öffentlich zugänglich und gibt sie auf Nachfrage ab.
 
-<sup>4</sup> Bei einem Wechsel während des Baubewilligungsverfahrens oder der Bauausführung hat die neue Projektverfasserin oder der neue Projektverfasser das Baubegehrensformular sowie die Eingabepläne zu unterzeichnen. Ab dem Zeitpunkt der Unterschrift mit Datumsangabe geht die damit verbundene Verantwortung auf die unterzeichnete Person über.
+<sup>4</sup> Bei einem Wechsel während des Baubewilligungsverfahrens oder der Bauausführung hat die neue projektverfassende Person dies schriftlich zu melden. Ab dem Meldedatum geht die Verantwortung auf die neue projektverfassende Person über.
 
 #### § 17
 
@@ -287,7 +288,7 @@ beschliesst:
 
 **Grundeigentümerschaft**
 
-<sup>1</sup> Die Grundeigentümerschaft, Baurechtsberechtigte und Stockwerkeigentümerschaft eingeschlossen, bestätigt mit ihrer Unterschrift im Baubegehrensformular, dass sie mit der Einreichung des Baubegehrens einverstanden ist und von dessen Inhalt Kenntnis genommen hat.
+<sup>1</sup> Die Grundeigentümerschaft, Baurechtsberechtigte und Stockwerkeigentümerschaft eingeschlossen, bestätigt mit Unterzeichnung des Unterschriftenblattes, dass sie mit der Einreichung des Baubegehrens einverstanden ist und von dessen Inhalt Kenntnis genommen hat.
 
 <sup>2</sup> Die Grundeigentümerschaft, Baurechtsberechtigte und Stockwerkeigentümerschaft eingeschlossen, bleibt immer für den Zustand ihrer Liegenschaft verantwortlich.
 
@@ -295,58 +296,46 @@ beschliesst:
 
 #### § 19
 
-**Arten der Formulare**
+**Elektronische Einreichung**
 
-<sup>1</sup> Für Baubegehren sowie die Meldeverfahren sind die nachfolgenden Formulare zu verwenden:
+<sup>1</sup> Für Baubegehren sowie die Meldeverfahren sind die elektronischen Formulare bzw. die kantonale Web-Plattform Online-Baubegehren (OBG) zu verwenden.
 
-- a) baubewilligungspflichtige Bauten und Anlagen sowie notwendige Anhänge;
-- b) meldepflichtige Bauten und Anlagen.
+- a) …
+- b) …
+
+<sup>2</sup> Die Pläne und Unterlagen sind ebenfalls elektronisch einzureichen.
 
 #### § 20
 
-**Anzahl Gesuchsunterlagen**
-
-<sup>1</sup> Mit jedem Baubegehren ist mindestens die in den Formularen angegebene Anzahl Gesuchsexemplare inklusive sämtlicher Unterlagen einzureichen.
-
-<sup>2</sup> Bei generellen Baubegehren sowie bei komplizierten Bauvorhaben, insbesondere solche mit Umweltverträglichkeitsprüfung, ist die Anzahl Gesuchsexemplare sowie der weiteren Unterlagen mit dem Bau- und Gastgewerbeinspektorat abzusprechen.
+**…**
 
 #### § 21
 
-**Originale und Kopien**
+**Verfahrensgegenstand**
 
-<sup>1</sup> Sämtliche Formulare sowie die Pläne und Beilagen in allen Baubegehrensdossiers müssen vollständig ausgefüllt und unterzeichnet sein.
+<sup>1</sup> Die Angaben und hochgeladenen Dateien zur Meldung, zum Baubegehren, generelle Baubegehren oder zur Phasenmeldung auf dem amtlichen elektronischen Formular bzw. in der kantonalen Web-Plattform OBG sind verfahrensverbindlich. Für die gültige Einreichung des Baubegehrens muss die kantonale Web-Plattform OBG vollständig ausgefüllt und eingereicht sein.
 
-<sup>2</sup> Ein Baubegehrensdossier muss das Originalformular, einen «ÖREB-Katasterauszug mit Anhang A: Zusatzinformationen für Baubegehren» sowie die Pläne und Beilagen mit Originalunterschriften enthalten. Für die weiteren Baubegehrensdossiers können Kopien verwendet werden.
+<sup>2</sup> …
 
 #### § 22
 
 **Notwendige Unterschriften**
 
-<sup>1</sup> Sämtliche Formulare müssen von der Grundeigentümerschaft, der Bauherrschaft und der Projektverfasserin oder dem Projektverfasser, sämtliche weiteren Unterlagen von der Projektverfasserin oder dem Projektverfasser unterzeichnet sein. Das Formular für meldepflichtige Bauten und Anlagen ist nur von der Bauherrschaft zu unterzeichnen.
+<sup>1</sup> Das Unterschriftenblatt muss von der Grundeigentümerschaft, der Bauherrschaft und der projektverfassenden Person unterzeichnet sein.
 
-<sup>2</sup> Besteht ein Baurecht an einem Grundstück, so ist die Unterschrift der Baurechtsnehmerin oder des Baurechtsnehmers erforderlich.
+<sup>2</sup> Mit der Unterschrift erklären die Verfahrensbeteiligten ihr Einverständnis zu sämtlichen über die kantonale Web-Plattform OBG eingereichten Unterlagen.
 
-<sup>3</sup> Besteht an einem Grundstück Stockwerkeigentum, verlangt das Bau- und Gastgewerbeinspektorat einen Nachweis der Verwaltung, ob es sich um gemeinschaftliche Bauteile oder Einrichtungen handelt. Betrifft ein Baubegehren gemeinschaftliche Bauteile oder Einrichtungen, so muss das Baubegehren von einer von der Versammlung der Gemeinschaft der Stockwerkeigentümer ernannten bevollmächtigten Person oder allen Stockwerkeigentümern unterzeichnet sein. Das Bau- und Gastgewerbeinspektorat verlangt von der bevollmächtigten Person einen Nachweis, dass die Berechtigung zur Eingabe besteht. Ein Baubegehren, das sich ausschliesslich auf das Sonderrecht bezieht, ist von der entsprechenden Stockwerkeigentümerschaft zu unterzeichnen.
+<sup>3</sup> Weiter zeichnen die Verfahrensbeteiligten mit derselben Unterschrift ihre Zustimmung zur Publikation der Unterlagen und Daten im Internet.
 
 #### § 23
 
-**Situationsgrundlagen**
-
-<sup>1</sup> Dem Baubegehren ist ein «ÖREB-Katasterauszug mit Anhang A: Zusatzinformationen für Baubegehren» als Ausdruck, maximal 3 Monate alt, beizulegen.
-
-<sup>2</sup> …
-
-<sup>3</sup> Hausnummern für Neubauten und Änderungen von Hausnummern sind vor der Eingabe des Baubegehrens beim Grundbuch- und Vermessungsamt zu beantragen.
-
-<sup>4</sup> Änderungen von Hausnummern aufgrund von Projektänderungen, Unterteilungen oder Zusammenlegungen von Bauten sowie aufgrund von Grenzmutationen und Strassenumbenennungen kann das Grundbuch- und Vermessungsamt anordnen.
-
-<sup>5</sup> Die Grundeigentümerinnen und Grundeigentümer tragen die Kosten für die von ihnen verursachten Änderungen der Hausnummerierung.
+**…**
 
 #### § 24
 
 **Einzeichnung projektiertes Bauvorhaben**
 
-<sup>1</sup> Jedes Baubegehrensdossier muss einen «ÖREB-Katasterauszug mit Anhang A: Zusatzinformationen für Baubegehren» enthalten. Auf dem Situationsplan ist das projektierte Bauvorhaben einzuzeichnen und zu vermassen. Dabei bedeutet:
+<sup>1</sup> Jedes Baubegehren muss einen Situationsplan aus dem «ÖREB-Katasterauszug mit Anhang A: Zusatzinformationen für Baubegehren», maximal drei Monate alt, enthalten, auf dem das projektierte Bauvorhaben einzuzeichnen und zu vermassen ist. Dabei bedeutet:
 
 - a) rot: zwei- und mehrgeschossige Bauten;
 - b) orange: erdgeschossige Bauten und Terrassen;
@@ -375,7 +364,7 @@ beschliesst:
 
 **Format und Beschriftungen der Pläne**
 
-<sup>1</sup> Sämtliche Pläne müssen auf dauerhaftem Papier angefertigt, im Aktenformat DIN A4 (21 cm auf 29,7 cm) gefaltet und aussen deutlich angeschrieben sein. Elektronisch eingereichte Pläne werden nicht akzeptiert.
+<sup>1</sup> …
 
 <sup>2</sup> Jeder Plan muss mit der Strasse und der Hausnummer, der Objektbezeichnung sowie der Planbezeichnung beschriftet werden, zudem den Massstab und das Plandatum nennen und den Nordpfeil aufweisen.
 
@@ -432,7 +421,7 @@ beschliesst:
 
 <sup>1</sup> Bei Bauvorhaben, welche BGF-relevant sind, ist eine leicht nachvollziehbare Berechnung der Bruttogeschossfläche beizulegen.
 
-<sup>2</sup> Diesbezüglich ist das Kapitel Bruttogeschossfläche im Anhang A zum Formular für baubewilligungspflichtige Bauten und Anlagen zu beachten.
+<sup>2</sup> …
 
 #### § 33
 
@@ -482,11 +471,9 @@ beschliesst:
 
 **Publikation**
 
-<sup>1</sup> Das Bau- und Gastgewerbeinspektorat publiziert die Baubegehren im Kantonsblatt und auf der Internetseite des Bau- und Gastgewerbeinspektorates[^38-1].
+<sup>1</sup> Das Bau- und Gastgewerbeinspektorat publiziert die Baubegehren im Kantonsblatt und im Internet.
 
 <sup>2</sup> Massgeblich für die Dauer der Einsprachefrist ist die Publikation im Kantonsblatt.
-
-[^38-1]: www.bgi.bs.ch
 
 #### § 39
 
@@ -530,21 +517,21 @@ beschliesst:
 
 #### § 43
 
-**Akteneinsicht während der Einsprachefrist**
+**Akteneinsicht während der Publikationsfrist**
 
-<sup>1</sup> Während der Einsprachefrist liegen die Akten beim Bau- und Verkehrsdepartement für Interessierte zur Einsichtnahme auf.
+<sup>1</sup> Während der Publikationsfrist sind die notwendigen Gesuchsunterlagen für Interessierte zur Einsichtnahme im Internet publiziert.
 
-<sup>2</sup> Während der Einsprachefrist können von allen aufliegenden Unterlagen und Plänen auf dem vom Bau- und Verkehrsdepartement bezeichneten Gerät in Selbstbedienung unentgeltlich Kopien in den Formaten A4 oder A3 erstellt werden. Kopien in grösseren Formaten sind nicht möglich.
+<sup>2</sup> Während der Publikationsfrist können von allen publizierten Unterlagen und Plänen auf dem vom Bau- und Verkehrsdepartement bezeichneten Gerät in Selbstbedienung unentgeltlich Ausdrucke in den Formaten A4 oder A3 erstellt werden. Ausdrucke in grösseren Formaten sind nicht möglich.
 
 #### § 44
 
-**Akteneinsicht nach Ablauf der Einsprachefrist**
+**Akteneinsicht nach Ablauf der Publikationsfrist**
 
-<sup>1</sup> Nach Ablauf der Auflage- resp. Einsprachefrist haben die Verfahrensbeteiligten sowie die Einsprecherinnen und Einsprecher Anspruch auf Akteneinsicht. In die Stellungnahmen der mitwirkenden Behörden ist vor dem Entscheid nur den Verfahrensbeteiligten Einsicht zu geben. Kopien sind wie während der Auflage- resp. Einsprachefrist möglich.
+<sup>1</sup> Nach Ablauf der Publikationsfrist haben die Verfahrensbeteiligten Anspruch auf Akteneinsicht in die elektronischen Gesuchsunterlagen. Ausdrucke sind wie während der Publikationsfrist möglich.
 
-<sup>2</sup> Bis zur Baufreigabe haben die Verfahrensbeteiligten sowie die Einsprecherinnen und Einsprecher Anspruch auf Akteneinsicht in das gesamte Dossier. Vorbehalten bleibt die Einschränkung durch besondere Geheimhaltungsinteressen der Bauherrin oder des Bauherrn. Kopien sind wie während der Auflage- resp. Einsprachefrist möglich.
+<sup>2</sup> Bis zur Baufreigabe haben die Verfahrensbeteiligten sowie die Einsprecherinnen und Einsprecher Anspruch auf Akteneinsicht in das elektronische Dossier. Vorbehalten bleibt die Einschränkung durch besondere Geheimhaltungsinteressen. Ausdrucke sind wie während der Publikationsfrist möglich.
 
-<sup>3</sup> Besondere Geheimhaltungsinteressen sind von den Verfahrensbeteiligten darzulegen. In solchen Fällen ist nach Möglichkeit eine Trennung der Unterlagen vorzunehmen.
+<sup>3</sup> Besondere Geheimhaltungsinteressen sind von den Verfahrensbeteiligten darzulegen. In solchen Fällen wird nur ein Teil des elektronischen Dossiers offengelegt.
 
 #### § 45
 
@@ -582,7 +569,7 @@ beschliesst:
 
 <sup>1</sup> Durch Bedingungen und Auflagen im Bauentscheid können Detailänderungen vorgeschrieben werden.
 
-<sup>2</sup> Das Bau- und Gastgewerbeinspektorat und die mitwirkenden Behörden können Beanstandungen und präzisierende Anforderungen mit grüner Farbe in den Plänen, Beilagen und Nachweisen des Baubegehrens bezeichnen. Solche Plankorrekturen sind Auflagen des Entscheides gleichgestellt, sie bilden Bestandteil des Bauentscheides. Massgebend sind jedoch die Auflagen im Bauentscheid und gehen den Plankorrekturen vor.
+<sup>2</sup> …
 
 <sup>3</sup> Soll die Festsetzung einer allfälligen Mehrwertabgabe erst nach Erteilung der Baubewilligung erfolgen, so wird ein diesbezüglicher Vorbehalt in den Bauentscheid aufgenommen. Die Zahlung der Mehrwertabgabe muss spätestens bis zur Bauvollendung resp. definitiven Nutzungsfreigabe erfolgt sein.
 
@@ -600,11 +587,11 @@ beschliesst:
 
 **Zustellung des Bauentscheids**
 
-<sup>1</sup> Der Bauentscheid wird der Projektverfasserin oder dem Projektverfasser mit einem vollständigen Baubegehrensdossier und den Anzeigeformularen zugestellt, wenn die Bauherrschaft im Baubegehren nicht ausdrücklich anderes bestimmt.
+<sup>1</sup> Der Bauentscheid wird der projektverfassenden Person mit den Plänen, Phasenmeldungsformularen sowie mit der Gebührenrechnung zugestellt.
 
-<sup>2</sup> Der Einzahlungsschein für die Gebührenrechnung wird der Bauherrschaft mit einer Kopie des Bauentscheides zugestellt, wenn die Bauherrschaft im Baubegehren nicht ausdrücklich anderes bestimmt.
+<sup>2</sup> …
 
-<sup>3</sup> Ein vollständiges Baubegehrensdossier mit Originalplänen- und unterlagen bleibt bei den Akten des Bau- und Gastgewerbeinspektorates.
+<sup>3</sup> …
 
 <sup>4</sup> Wird mit dem Bauentscheid auch ein Entscheid über die Mehrwertabgabe getroffen, so ist der Bauentscheid zusätzlich der Grundeigentümerschaft sowie allen Berechtigten von selbständigen und dauernden Baurechten am Grundstück zu eröffnen.
 
@@ -636,7 +623,7 @@ beschliesst:
 
 #### § 55
 
-**Verlängerung von Provisorien**
+**Provisorien**
 
 <sup>1</sup> Sollen Bauten und Anlagen, die nur als Provisorien bewilligt wurden, über die bewilligte Dauer hinaus bestehen bleiben, so muss die Bauherrschaft mindestens drei Monate vor Ablauf bzw. rechtzeitig beim Bau- und Gastgewerbeinspektorat ein neues Baubegehren einreichen.
 
@@ -664,7 +651,7 @@ beschliesst:
 
 <sup>1</sup> Als Baubeginn gilt der Beginn von Abbruch-, Aushub-, Umbau- oder Montagearbeiten auf der Baustelle.
 
-<sup>2</sup> Der Baubeginn ist dem Bau- und Gastgewerbeinspektorat schriftlich mit dem entsprechenden Baubeginnsanzeigeformular zu melden.
+<sup>2</sup> Der Baubeginn ist dem Bau- und Gastgewerbeinspektorat mit der entsprechenden Phasenmeldung schriftlich zu melden.
 
 <sup>3</sup> Die Bestätigung des Baubeginns setzt voraus, dass die Auflagen vor Baubeginn erfüllt sind.
 
@@ -712,7 +699,7 @@ beschliesst:
 
 **Vollendung des Rohbaues**
 
-<sup>1</sup> Die Vollendung des Rohbaues ist mit dem entsprechenden Formular dem Bau- und Gastgewerbeinspektorat zu melden, sobald das bewilligte Gebäudevolumen errichtet ist.
+<sup>1</sup> Die Vollendung des Rohbaues ist mit der entsprechenden Phasenmeldung dem Bau- und Gastgewerbeinspektorat schriftlich zu melden, sobald das bewilligte Gebäudevolumen errichtet ist.
 
 <sup>2</sup> Wird bereits vor Vollendung des Rohbaues mit dem Innenausbau begonnen und sind die entsprechenden Auflagen bereits erfüllt, ist die Meldung gemäss Abs. 1 hiervor zu diesem Zeitpunkt einzureichen.
 
@@ -720,7 +707,7 @@ beschliesst:
 
 **Vollendung der Baute oder Anlage**
 
-<sup>1</sup> Die Vollendung der Baute oder Anlage ist dem Bau- und Gastgewerbeinspektorat anzuzeigen, wenn die Auflagen erfüllt sind.
+<sup>1</sup> Die Vollendung der Baute oder Anlage ist dem Bau- und Gastgewerbeinspektorat mit der entsprechenden Phasenmeldung schriftlich zu melden, wenn die Auflagen erfüllt sind.
 
 #### § 66
 
