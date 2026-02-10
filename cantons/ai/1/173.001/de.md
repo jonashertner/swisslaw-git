@@ -3,20 +3,19 @@ canton: AI
 number: "173.001"
 title: Reglement über die Gerichtsberichterstattung
 language: de
-version: 2021-01-29
-valid_until: 2026-02-10
-version_adopted: 2021-01-29
+version: 2026-02-11
+version_adopted: 2026-02-11
 adopted: 2006-12-05
 in_force: 2006-12-05
 url: "https://ai.clex.ch/app/de/texts_of_law/173.001"
-pdf: "https://ai.clex.ch/api/de/versions/2131/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Gerichtsberichterstattung
 
-vom 05.12.2006 (Stand 29.01.2021)
+vom 05.12.2006 (Stand 11.02.2026)
 
 Der Kantonsgerichtspräsident,
 
@@ -44,7 +43,7 @@ beschliesst:
 
 **Rechte**
 
-<sup>1</sup> Der Gerichtsberichterstatter kann Entscheide einsehen sowie
+<sup>1</sup> Der Gerichtsberichterstatter kann Entscheide einsehen, soweit ein Informationsbedürfnis der Allgemeinheit besteht, das die Geheimhaltungsinteressen der Betroffenen überwiegt, sowie
 
 - a) in Strafsachen: Anklageschrift und Rechtsschriften;
 - b) in Zivilsachen: Rechtsschriften und Akten mit schriftlicher Zustimmung der Parteien, welche durch den Gerichtsberichterstatter einzuholen ist;
