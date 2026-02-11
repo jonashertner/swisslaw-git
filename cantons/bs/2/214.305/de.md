@@ -4,24 +4,23 @@ number: "214.305"
 title: Geoinformationsverordnung
 short: KGeoIV
 language: de
-version: 2024-04-01
-valid_until: 2026-02-11
-version_adopted: 2024-03-05
+version: 2026-02-12
+version_adopted: 2026-02-03
 adopted: 2012-08-07
 in_force: 2012-09-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/214.305"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6197/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6781/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geoinformationsverordnung
 
-Geoinformationsverordnung | Sachenrecht: Spezielle Erlasse
+Sachenrecht: Spezielle Erlasse
 
 (KGeoIV)
 
-Vom 7. August 2012 (Stand 1. April 2024)
+Vom 7. August 2012 (Stand 12. Februar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -43,23 +42,22 @@ beschliesst:
 
 **Geobasisdaten und andere Geodaten**
 
-<sup>1</sup> Die Geobasisdaten des Bundesrechts werden mit folgenden Informationen im Anhang 1 aufgeführt:
+<sup>1</sup> Die Geobasisdaten des Bundesrechts und Geobasisdaten des kantonalen Rechts werden nachfolgend als Geobasisdaten bezeichnet. Geobasisdaten werden in einem im Geoportal veröffentlichten Onlinekatalog (nachfolgend: Katalog)[^2-1], mit folgenden Informationen geführt:
 
-- a) Angaben zu den kantonalen Rechtsgrundlagen,
-- b) zuständige Stelle gemäss § 8 KGeoIG (nachfolgend: zuständige Fachstelle).
-
-<sup>2</sup> Die Geobasisdaten des kantonalen Rechts (nachfolgend: Geobasisdaten) werden mit den folgenden Informationen im Anhang 2 aufgeführt:
-
-- a) Angaben zu den Rechtsgrundlagen,
-- b) zuständige Fachstelle,
+- a) Angaben zu den Rechtsgrundlagen;
+- b) zuständige Stelle gemäss § 8 KGeoIG (nachfolgend: zuständige Fachstelle);
 - c) verbindliche Festlegungen gemäss dieser Verordnung.
 
-<sup>3</sup> Die anderen Geodaten des Kantons (nachfolgend: andere Geodaten) werden mit folgenden Informationen im Anhang 3 aufgeführt:
+<sup>2</sup> …
+
+<sup>3</sup> Die anderen Geodaten des Kantons (nachfolgend: andere Geodaten) werden im Katalog mit folgenden Informationen geführt:
 
 - a) zuständige Fachstelle,
 - b) verbindliche Festlegungen gemäss dieser Verordnung.
 
-<sup>4</sup> Für den Beschluss über Anpassungen der Anhänge 1-3 ist die Vorsteherin oder der Vorsteher des Bau- und Verkehrsdepartements zuständig. Die GIS-Koordination (§ 26) kann als Fachgremium zu den Anpassungen Stellung nehmen.
+<sup>4</sup> Für den Beschluss über Anpassungen von Geobasisdaten ist die Vorsteherin oder der Vorsteher des Bau- und Verkehrsdepartements zuständig. Die GIS-Koordination (§ 26) kann als Fachgremium zu den Anpassungen Stellung nehmen.
+
+[^2-1]: [Geobasisdaten.ch](https://geobasisdaten.ch/?lang=de)
 
 #### § 3
 
@@ -100,7 +98,7 @@ beschliesst:
 <sup>1</sup> Die Geobasisdaten und andere Geodaten werden durch folgende Geodienste zugänglich und nutzbar gemacht:
 
 - a) durch Darstellungsdienste: mindestens alle Geobasisdaten und andere Geodaten der Zugangsberechtigungsstufe A;
-- b) durch Downloaddienste: mindestens die im Anhang 2 resp. 3 entsprechend bezeichneten Geobasisdaten und andere Geodaten.
+- b) durch Downloaddienste: mindestens die im Katalog entsprechend bezeichneten Geobasisdaten und andere Geodaten.
 
 <sup>2</sup> Weitere Geodienste können bei Bedarf angeboten werden.
 
@@ -148,9 +146,9 @@ beschliesst:
 
 **Zugangsberechtigungsstufen**
 
-<sup>1</sup> Die Geobasisdaten und die anderen Geodaten werden in Anhang 2 respektive Anhang 3 folgenden Zugangsberechtigungsstufen zugewiesen:
+<sup>1</sup> Den Geobasisdaten und den anderen Geodaten werden im Katalog folgende Zugangsberechtigungsstufen zugewiesen:
 
-- a) öffentlich zugänglich: Zugangsberechtigungsstufe A,
+- a) öffentlich zugänglich: Zugangsberechtigungsstufe A;
 - b) beschränkt öffentlich zugänglich: Zugangsberechtigungsstufe B.
 
 #### § 14
@@ -204,9 +202,11 @@ beschliesst:
 
 **Quellenangabe**
 
-<sup>1</sup> Die Geobasisdaten und andere Geodaten dürfen nur mit Quellenangabe wiedergegeben werden.
+<sup>1</sup> Besitzen Geobasisdaten nach kantonalem Recht und andere Geodaten die Zugangsstufe A, dürfen diese ohne Quellenangabe wiedergegeben werden.
 
-<sup>2</sup> Die zuständige Fachstelle kann in begründeten Fällen auf die Pflicht zur Quellenangabe verzichten.
+<sup>2</sup> Die zuständige Fachstelle kann in begründeten Fällen eine Pflicht zur Quellenangabe in den Metadaten vorschreiben.
+
+<sup>3</sup> Weitere Details werden in den im Geoportal publizierten Nutzungsbedingungen geregelt.
 
 #### § 20
 
@@ -260,7 +260,7 @@ beschliesst:
 
 **Zuständige Fachstellen**
 
-<sup>1</sup> Die in den Anhängen 1 bis 3 aufgeführten Fachstellen sind zuständig für die ihnen zugeordneten Daten, die entsprechenden GIS-Applikationen und GIS-Projekte und stellen die Koordination mit der Fachstelle für Geoinformation sicher.
+<sup>1</sup> Die im Katalog aufgeführten Fachstellen sind zuständig für die ihnen zugeordneten Daten, die entsprechenden GIS-Applikationen und GIS-Projekte und stellen die Koordination mit der Fachstelle für Geoinformation sicher.
 
 #### § 25
 
@@ -316,15 +316,11 @@ beschliesst:
 
 <sup>2</sup> Ist eine Rückgabe nicht möglich, sind die Informationsbestände unter Berücksichtigung der Regelung von § 16 des Informations- und Datenschutzgesetzes zu vernichten.
 
-## F. Übergangsbestimmungen
+## F.
 
 #### § 28
 
-**Fristen**
-
-<sup>1</sup> Die Geobasisdaten des kantonalen Rechts haben bis zum 1. Januar 2021 den qualitativen und technischen Anforderungen des KGeoIG und dieser Verordnung zu entsprechen.
-
-<sup>2</sup> …
+**…**
 
 Schlussbestimmung
 
