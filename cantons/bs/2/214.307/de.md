@@ -4,24 +4,23 @@ number: "214.307"
 title: Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 short: KÖREBKV
 language: de
-version: 2019-01-01
-valid_until: 2026-02-11
-version_adopted: 2018-05-22
+version: 2026-02-12
+version_adopted: 2026-02-03
 adopted: 2018-05-22
 in_force: 2019-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/214.307"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4565/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6778/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 
-Öffentlich-rechtliche Eigentumsbeschränkungen: Verordnung | Sachenrecht: Spezielle Erlasse
+Sachenrecht: Spezielle Erlasse
 
 (KÖREBKV)
 
-Vom 22. Mai 2018 (Stand 1. Januar 2019)
+Vom 22. Mai 2018 (Stand 12. Februar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -44,7 +43,7 @@ beschliesst:
 
 **Inhalt des ÖREB-Katasters**
 
-<sup>1</sup> Der Inhalt und die Informationstiefe des ÖREB-Katasters richten sich nach Art. 3 und 4 ÖREBKV sowie nach den vom Kanton in Anhang I und II KGeolV als Gegenstand des Katasters bezeichneten Geobasisdaten.
+<sup>1</sup> Der Inhalt und die Informationstiefe des ÖREB-Katasters richten sich nach §§ 3 und 4 ÖREBKV sowie den im Geobasisdatenkatalog (§ 3 KGeoIV) als Gegenstand des Katasters bezeichneten Geobasisdaten.
 
 <sup>2</sup> Zudem werden laufende Änderungen in den ÖREB-Kataster aufgenommen.
 
@@ -70,17 +69,19 @@ beschliesst:
 
 **Zuständige Fachstelle und Katasterbearbeitung**
 
-<sup>1</sup> Die gemäss Anhang I und Anhang II KGeoIV bezeichnete Fachstelle ist die nach Art. 8 Abs. 1 des Bundesgesetzes über Geoinformation (Geoinformationsgesetz, GeoIG) vom 5. Oktober 2007 zuständige Stelle und sorgt für die Bereitstellung ihrer Daten gemäss Art. 5 ÖREBKV.
+<sup>1</sup> Die im Geobasisdatenkatalog (§ 3 KGeoIV) bezeichnete Fachstelle ist die nach Art. 8 Abs. 1 des Bundesgesetzes über Geoinformation (Geoinformationsgesetz, GeoIG) vom 5. Oktober 2007[^5-1] zuständige Stelle und sorgt für die Bereitstellung ihrer Daten gemäss § 5 ÖREBKV.
 
 <sup>2</sup> Die zuständige Fachstelle trägt die inhaltliche Verantwortung für die Katasterbearbeitung, welche insbesondere die Erfassung und Nachführung der Geobasisdaten, der Hinweise auf die gesetzlichen Grundlagen und der Rechtsvorschriften im ÖREB-Kataster beinhaltet.
 
 <sup>3</sup> Die zuständige Fachstelle kann eine Dienstleistungserbringerin oder einen Dienstleistungserbringer mit Aufgaben der Katasterbearbeitung beauftragen.
 
+[^5-1]: SR [510.62](https://db.clex.ch/link/Bund/510.62/de)
+
 #### § 6
 
 **Kantonales Fachamt**
 
-<sup>1</sup> Bei ÖREB-Katasterthemen in Zuständigkeit der Gemeinden gibt die in Anhang I und II KGeoIV bezeichnete Fachstelle des Kantons das Daten- und Darstellungsmodell sowie die Erfassungsrichtlinien vor.
+<sup>1</sup> Bei ÖREB-Katasterthemen in Zuständigkeit der Gemeinden gibt die im Geobasisdatenkatalog (§ 3 KGeoIV) bezeichnete Fachstelle des Kantons das Daten- und Darstellungsmodell sowie die Erfassungsrichtlinien vor.
 
 #### § 7
 
