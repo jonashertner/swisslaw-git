@@ -4,13 +4,12 @@ number: "766.1"
 title: Verordnung über Schiffsführerausweise
 short: Schiffsführerausweisverordnung; SFAV
 language: de
-version: 2025-04-01
-valid_until: 2026-02-12
-version_adopted: 2025-03-18
+version: 2026-02-13
+version_adopted: 2026-02-10
 adopted: 2025-03-18
 in_force: 2025-04-01
 url: "https://ar.clex.ch/app/de/texts_of_law/766.1"
-pdf: "https://ar.clex.ch/api/de/versions/1566/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1616/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1566/pdf_file"
 
 (Schiffsführerausweisverordnung; SFAV)
 
-vom 18.03.2025 (Stand 01.04.2025)
+vom 18.03.2025 (Stand 13.02.2026)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -58,6 +57,11 @@ verordnet:
 **Prüfungsgebühren**
 
 <sup>1</sup> Die Gebühren für theoretische und praktische Prüfungen richten sich nach dem anwendbaren Tarif der Durchführungsstelle.
+
+<sup>2</sup> Für die Abnahme von Prüfungen durch das Strassenverkehrsamt werden folgende Gebühren erhoben:
+
+- a) Theorieprüfung — Fr. 30.–
+- b) besondere Prüfungen, nach Aufwand — Fr. 120.– pro Stunde
 
 #### Art. 4
 
