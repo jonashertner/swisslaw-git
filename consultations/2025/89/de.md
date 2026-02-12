@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Anpassung der Klimaschutz-Verordnung
 document: Vernehmlassungsvorlage
 language: de
