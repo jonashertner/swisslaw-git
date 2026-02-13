@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung und Umsetzung des Haager Unterhaltsübereinkommens und -protokolls von 2007 und Bundesgesetz zur Verbesserung der nationalen Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen
 document: Vernehmlassungsvorlage
 language: de

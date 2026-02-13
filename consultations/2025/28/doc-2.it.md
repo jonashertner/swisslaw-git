@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione e trasposizione nel diritto svizzero della Convenzione e del Protocollo dell’Aia del 2007 sulle prestazioni alimentari nonché legge federale intesa a migliorare l’aiuto nazionale all’incasso di pretese di mantenimento fondate sul diritto di famiglia
 document: Progetto posto in consultazione-2
 language: it

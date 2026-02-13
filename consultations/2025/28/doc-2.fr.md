@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation et mise en œuvre de la Convention et du Protocole de La Haye de 2007 sur les aliments et loi fédérale sur l’amélioration de l’aide au recouvrement national des créances d’entretien en droit de la famille
 document: Projet mis en consultation-2
 language: fr
