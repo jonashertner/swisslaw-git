@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.453 n Iv. pa. Hurni. No a remunerazioni eccessive dei dirigenti delle casse malati sulle spalle degli assicurati
 document: Progetto posto in consultazione
 language: it

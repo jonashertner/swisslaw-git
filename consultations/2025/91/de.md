@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.453 n Pa. Iv. Hurni. Keine überhöhten Entschädigungen für die leitenden Organe von Krankenkassen zulasten der Versicherten
 document: Vernehmlassungsvorlage
 language: de

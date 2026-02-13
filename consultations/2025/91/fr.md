@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.453 n Iv. pa. Hurni. Pas de rémunération excessive des dirigeants et dirigeantes de caisses sur le dos des assurés et assurées
 document: Projet mis en consultation
 language: fr
