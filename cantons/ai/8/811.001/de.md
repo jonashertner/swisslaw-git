@@ -3,223 +3,183 @@ canton: AI
 number: "811.001"
 title: Standeskommissionsbeschluss über die medizinischen Berufe
 language: de
-version: 2016-05-24
-corrected: 2018-10-16
-version_adopted: 2016-05-24
+version: 2026-02-17
+version_adopted: 2026-02-17
 adopted: 2018-12-04
 in_force: 2019-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/811.001"
-pdf: "https://ai.clex.ch/api/de/versions/746/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2431/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die medizinischen Berufe
 
-vom 27. Juni 20001
+vom 04.12.2018 (Stand 17.02.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 1 Abs. 3 der Verordnung zum Gesundheitsgesetz vom 27. März 2000,2
+gestützt auf Art. 14 Abs. 1 und 2 sowie Art. 16a des Gesundheitsgesetzes vom 26. April 1998,
 
 beschliesst:
 
-### I. Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Geltungsbereich**
 
-Dieser Beschluss regelt:
+<sup>1</sup> Dieser Beschluss regelt:
 
-- a. die selbstständige Ausübung der medizinischen Berufe;
+- a) die Ausübung der medizinischen Berufe in eigener fachlicher Verantwortung;
+- b) die Ersatzabgabe bei einer Befreiung vom Notfalldienst;
+- c) die Übertragung von Befugnissen auf die Kantonsärztin oder den Kantonsarzt, die Kantonstierärztin oder den Kantonstierarzt und die Kantonsapothekerin oder den Kantonsapotheker.
 
-- b. Zulassung von Stellvertretern\* und Assistenten;
+#### Art. 2
 
-- c. die Führung einer Privatapotheke;
+**Berufsausübung in eigener fachlicher Verantwortung**
 
-- d. die Übertragung von Befugnissen auf den Kantonsarzt, den Kantonstierarzt und den Kantonsapotheker.
+<sup>1</sup> Als Medizinalperson in eigener fachlicher Verantwortung tätig sein darf, wer die Berufsausübungsbewilligung des Kantons besitzt.
 
-#### Art. 23
+#### Art. 3
 
-**Mitteilungspflicht**
+**Bewilligungsvoraussetzungen**
 
-Eröffnung, Verlegung und Aufgabe der Praxen und Apotheken sind dem Gesundheits- und Sozialdepartement (nachfolgend Departement genannt) mitzuteilen.
+<sup>1</sup> Für die Erteilung der Berufsausübungsbewilligung sind die Voraussetzungen der Bundesgesetzgebung über die universitären Medizinalberufe massgebend.
 
-#### Art. 31
+<sup>2</sup> Zusätzlich muss der Nachweis der für die Ausübung des Berufes notwendigen Infrastruktur, wie Räumlichkeiten, Einrichtungen und Apparate gemäss den Richtlinien der anerkannten Berufsverbände, erbracht werden.
 
-### II. Ärzte
+#### Art. 4
 
-#### Art. 42
+**Sprachkenntnisse**
 
-Praxisführung <sup>1</sup>Der Arzt darf in einer Einzel- oder Gemeinschaftspraxis selbstständig tätig sein, wenn er über die Bewilligung zur selbstständigen Berufsausübung verfügt und vorwiegend selber in der Praxis arbeitet. Ausgenommen sind Betriebe von Kranken- und Kuranstalten.
+<sup>1</sup> Die gesuchstellende Person hat, sofern die Aus- und Weiterbildung nicht mehrheitlich in der deutschen Sprache erfolgt sind, ein international anerkanntes Sprachdiplom in Deutsch der Niveaustufe B2 gemäss dem gemeinsamen europäischen Referenzrahmen für Sprachen nachzuweisen.
 
-<sup>2</sup> Die Auskündigung darf zu keinen Täuschungen Anlass geben.
+#### Art. 5
 
-#### Art. 53
+**Anstellung von Mitarbeitenden**
 
-Meldungen Der Arzt meldet dem Kantonsarzt unverzüglich übertragbare Krankheiten im Rahmen der Verordnung des EDI über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen vom 1. Dezember 2015 sowie weitere Feststellungen von besonderem gesundheitspolizeilichen Interesse.
+<sup>1</sup> Bewilligungsinhaberinnen und Bewilligungsinhaber dürfen keine Gesundheitsfachpersonen, die eine der Bewilligungspflicht unterstellte Tätigkeit ausüben, anstellen:
 
-#### Art. 64
+- a) welche die bundesrechtlichen und kantonalen Bewilligungsvoraussetzungen zur Berufsausübung in eigener fachlicher Verantwortung nicht erfüllen;
+- b) denen die Berufsausübungsbewilligung in einem Kanton oder in einem anderen Land entzogen wurde;
+- c) denen gegenüber ein Berufsausübungsverbot ausgesprochen wurde.
 
-Kranken- <sup>1</sup>Der Arzt führt über die Patienten eine Krankengeschichte, welche Auskunft über geschichte die Diagnose, die Behandlung und die verordneten Heilmittel gibt.
+<sup>2</sup> Ausgenommen sind Anstellungen für die Dauer der Erlangung eines eidgenössischen oder gesamtschweizerisch anerkannten Diploms, eines eidgenössischen Weiterbildungstitels oder der eidgenössischen Anerkennung des ausländischen Diploms oder Weiterbildungstitels.
 
-<sup>2</sup> Sie muss während mindestens zehn Jahren aufbewahrt werden. In begründeten Fällen kann der Kantonsarzt im Einvernehmen mit dem Departement und gegen
+#### Art. 6
 
-Übernahme der Kosten die amtliche Aufbewahrung verfügen.
+**Berufsausübung unter fachlicher Verantwortung**
 
-<sup>3</sup> Vorbehalten bleiben bundesrechtliche Bestimmungen betreffend die Aufbewahrung von medizinischen Daten.
+<sup>1</sup> Medizinalpersonen ohne Berufsausübungsbewilligung dürfen bewilligungspflichtige Tätigkeiten ausüben, wenn die Verantwortung für ihre Tätigkeit wahrgenommen wird:
 
-#### Art. 75
+- a) bei Human-Ärztinnen und Human-Ärzten von einer Person, die über einen Facharzttitel in dem Fachgebiet verfügt, in dem sie die Verantwortung für die Tätigkeit für eine Ärztin oder einen Arzt übernimmt.
+- b) bei den übrigen Medizinalpersonen von einer Person des gleichen Berufs.
 
-Stellvertreter <sup>1</sup>Ist ein praktizierender Arzt wegen Krankheit, Militär-, Zivil- und Zivilschutzdienst, Ferien oder aus einem anderen wichtigen Grunde vorübergehend verhindert, seinen Beruf auszuüben, so ist er befugt, sich unter Meldung an das Departement auf seine Verantwortung vertreten zu lassen.
+<sup>2</sup> Die die Verantwortung wahrnehmende Person muss über die Berufsausübungsbewilligung des Kantons verfügen. Die Verantwortungsübernahme muss vor Tätigkeitsbeginn schriftlich festgehalten werden.
 
-<sup>2</sup> Der Stellvertreter wird zugelassen, wenn er:
+<sup>3</sup> Art. 5 dieses Erlasses ist sinngemäss anwendbar, auch wenn kein Arbeitsverhältnis zwischen der unterstellten Person und der die Verantwortung wahrnehmenden Person besteht. Die Verantwortung wahrnehmende Person ist für die Einhaltung dieser Voraussetzungen verantwortlich.
 
-- a. die Voraussetzungen für die selbstständige Berufsausübung erfüllt, oder
+#### Art. 7
 
-- b. an einer schweizerischen medizinischen Fakultät immatrikuliert ist und wenigstens die Hälfte des Wahlstudienjahres abgeschlossen hat. In diesem Fall wird die Zulassung für längstens drei Monate erteilt.
+**Besondere Berufspflicht fachverantwortlicher Personen**
 
-<sup>3</sup> Dauert die Vertretung länger als sechs Monate, so ist die Bewilligung des Departementes einzuholen.
+<sup>1</sup> Wer die Verantwortung für die Tätigkeit von anderen Personen übernimmt, hat dafür zu sorgen, dass die unterstellten Personen ihren Beruf sorgfältig und gewissenhaft ausüben, sich an die Grenzen ihrer Kompetenzen halten, die ihnen übertragenen Tätigkeiten beherrschen und die beruflichen Kenntnisse, Fähigkeiten und Fertigkeiten durch ihrem Tätigkeitsgebiet entsprechende Fortbildung vertiefen, erweitern und verbessern.
 
-#### Art. 81
+<sup>2</sup> Es dürfen nur Verrichtungen übertragen werden, zu deren Beaufsichtigung die übertragende Person befähigt ist und die nicht durch sie persönlich verrichtet werden müssen.
 
-**Assistenten**
+<sup>3</sup> Die verantwortliche Medizinalperson oder ihre Stellvertretung hat in der Regel während der Öffnungszeiten des Betriebes oder der Praxis anwesend zu sein und muss auch bei ihrer Abwesenheit eine genügende Aufsicht sicherstellen.
 
-Praxisberechtigte Ärzte sind befugt, unter Meldung an das Departement auf ihre Verantwortung Assistenten anzustellen, sofern diese die an einen Vertreter gestellten Anforderungen gemäss Art. 10 und 11 des Gesundheitsgesetzes vom 26. April 1998 (nachfolgend Gesetz genannt) erfüllen.
+#### Art. 8
+
+**Ankündigung**
+
+<sup>1</sup> Bei der Ankündigung der Leistungserbringung durch Medizinalpersonen dürfen keine Heilversprechen abgegeben werden.
+
+<sup>2</sup> Es dürfen nur die vom Bundesrecht anerkannten Berufsbezeichnungen und Titel verwendet werden.
 
 #### Art. 9
 
-**Verweigerung**
+**Patientendokumentation**
 
-Die Zulassung oder Bewilligung kann verweigert werden, wenn der Arzt wiederholt oder in schwerer Weise seine Aufsichtspflichten gegenüber Stellvertretern im Sinne von Art. 7 Abs. 2 lit. b dieses Beschlusses oder Assistenten verletzt hat.
+<sup>1</sup> Von jeder Patientin und jedem Patienten ist eine laufend nachzuführende Dokumentation anzulegen. Daraus muss unmittelbar ersichtlich sein, welche Person einen Eintrag vorgenommen oder veranlasst hat.
+
+<sup>2</sup> Die Patientendokumentation kann schriftlich oder elektronisch geführt werden. Sie gibt insbesondere Auskunft über Untersuchungen, Diagnose, Therapie, Pflege und Behandlungsmassnahmen.
+
+<sup>3</sup> Die Dokumentation ist während mindestens 10 Jahren nach Abschluss der letzten Behandlung aufzubewahren.
+
+<sup>4</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass die Dokumentation auch nach ihrem oder seinem Tod oder nach der Aufgabe des Berufs oder Betriebs für die Patientinnen und Patienten unter Wahrung des Berufsgeheimnisses zugänglich bleibt.
+
+<sup>5</sup> Stirbt eine Bewilligungsinhaberin oder ein Bewilligungsinhaber oder wird ein Betrieb geschlossen, kann die Dokumentation dem Gesundheits- und Sozialdepartment gegen eine Gebühr zur Aufbewahrung übergeben werden. Die Gebühr ist vom Nachlass der verstorbenen Person oder vom Betrieb zu tragen.
 
 #### Art. 10
 
-**Fortführung der Praxis im Todesfall**
+**Pflichten gegenüber der Aufsichtsbehörde**
 
-Die Erben eines verstorbenen Arztes sind berechtigt, dessen Praxis mit Bewilligung des Departementes durch einen gemäss Art. 10 und 11 des Gesetzes zur Vertretung berechtigten Arztes während sechs Monaten weiterführen zu lassen. Diese Frist kann aus wichtigen Gründen verlängert werden.
+<sup>1</sup> Bewilligungsinhaberinnen und Bewilligungsinhaber sowie ihre Hilfspersonen haben dem Departement und den von ihm beauftragten Dritten jederzeit zwecks Durchführung von Kontrollen den Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren sowie die notwendigen Auskünfte zu erteilen.
 
-### III. Tierärzte
+#### Art. 11
 
-#### Art. 112
+**Amtliche Verrichtungen**
 
-**Praxisführung**
+<sup>1</sup> Medizinalpersonen, die über eine Berufsausübungsbewilligung des Kantons verfügen, können verpflichtet werden, amtsärztliche und andere amtlich angeordnete gesundheitspolizeiliche Verrichtungen vorzunehmen.
 
-<sup>1</sup> Der Tierarzt darf in einer Einzel- oder Gemeinschaftspraxis selbstständig tätig sein, wenn er über die Bewilligung zur selbstständigen Berufsausübung verfügt und vorwiegend selber in der Praxis arbeitet.
+#### Art. 12
 
-<sup>2</sup> Die Auskündigung darf zu keinen Täuschungen Anlass geben.
+**Mitteilungspflicht**
 
-#### Art. 123
+<sup>1</sup> Die Inhaberin oder der Inhaber einer Berufsausübungsbewilligung meldet dem Departement:
 
-**Stellvertreter**
-
-<sup>1</sup> Ist ein praktizierender Tierarzt wegen Krankheit, Militär-, Zivil- und Zivilschutzdienst, Ferien oder aus einem anderen wichtigen Grunde vorübergehend verhindert, seinen Beruf auszuüben, so ist er befugt, sich unter Meldung an das Departement auf seine Verantwortung vertreten zu lassen.
-
-<sup>2</sup> Als Stellvertreter wird zugelassen, wer die Voraussetzungen für die selbstständige Berufsausübung erfüllt.
-
-<sup>3</sup> Dauert die Vertretung länger als sechs Monate, so ist die Bewilligung des Departementes einzuholen.
+- a) jede Änderung einer für die Erteilung der Bewilligung massgebenden Tatsache;
+- b) wesentliche Änderungen der betrieblichen Einrichtungen;
+- c) die Eröffnung, Verlegung und Aufgabe der Praxis oder der Apotheke.
 
 #### Art. 13
 
-Assistenten <sup>1</sup>Praxisberechtigte Tierärzte sind befugt, unter Meldung an das Departement auf ihre Verantwortung Assistenten anzustellen, sofern diese die an einen Vertreter gestellten Anforderungen gemäss Art. 10 und 11 des Gesetzes erfüllen.
+**Ersatzabgabe**
 
-<sup>2</sup> Assistenten und Praxisvertreter dürfen nur mit Bewilligung des Kantonstierarztes amtliche Tätigkeiten ausüben.
+<sup>1</sup> Die volle Grundersatzabgabe bei einer Befreiung von der Mitwirkung am Notfalldienst gemäss Art. 16ff. Gesundheitsgesetz darf durch die zuständige Standesorganisation auf einen Betrag von Fr. 4'000.-- bis Fr. 6'000.-- pro Jahr festgesetzt werden.
+
+## II. Besondere Bestimmungen für Ärztinnen und Ärzte
 
 #### Art. 14
 
-Verweigerung Die Zulassung oder Bewilligung kann verweigert werden, wenn der Tierarzt wiederholt oder in schwerer Weise seine Aufsichtspflichten gegenüber Stellvertretern oder Assistenten verletzt hat.
+**Meldungen**
+
+<sup>1</sup> Die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen gemäss Bundesgesetzgebung sowie weitere Feststellungen von besonderem gesundheitspolizeilichen Interesse müssen unverzüglich der Kantonsärztin oder dem Kantonsarzt gemeldet werden.
+
+## III. Besondere Bestimmungen für Apothekerinnen und Apotheker
 
 #### Art. 15
 
-Fortführung der Die Erben eines verstorbenen Tierarztes sind berechtigt, dessen Praxis mit Bewilli-Praxis im Todes- gung des Departementes durch einen gemäss Art. 10 und 11 des Gesetzes berechfall tigten Tierarzt während sechs Monaten weiterführen zu lassen. Diese Frist kann aus wichtigen Gründen verlängert werden.
+**Einbezug einer Drogerie**
 
-### IV. Zahnärzte
+<sup>1</sup> Eine Apotheke kann ohne zusätzliche Bewilligung als Apotheke und Drogerie geführt werden.
 
-#### Art. 161
+#### Art. 16
 
-Praxisführung <sup>1</sup>Der Zahnarzt darf in einer Einzel- oder Gemeinschaftspraxis selbstständig tätig sein, wenn er über die Bewilligung zur selbstständigen Berufsausübung verfügt und vorwiegend selber in der Praxis arbeitet.
+**Impfungen**
 
-<sup>2</sup> Die Auskündigung darf zu keinen Täuschungen Anlass geben.
+<sup>1</sup> Apothekerinnen und Apotheker dürfen ohne ärztliche Verschreibung impfen, wenn:
+
+- a) sie über eine Bewilligung zur Berufsausübung verfügen;
+- b) sie eine schweizerisch anerkannte spezifische Impfausbildung absolviert haben;
+- c) die zu impfende Personen mindestens 16 Jahre alt sind;
+- d) die zu impfenden Personen kein besonderes Impfrisiko aufweisen; und
+- e) sie über eine Haftpflichtversicherung verfügen, die das spezifische Risiko der Impfungen abdeckt.
+
+<sup>2</sup> Sie dürfen Impfungen gemäss nationalem Impfplan vornehmen. Sie sind nicht befugt, Impfungen mit Lebendimpfstoffen und, unter Vorbehalt anderslautender Weisungen des Gesundheits- und Sozialdepartementes, Off-Label-Use-Impfungen vorzunehmen.
+
+- a) …
+- b) …
+
+<sup>3</sup> Apothekerinnen und Apotheker, die impfen möchten, müssen sich vor Aufnahme der Impftätigkeit beim Departement melden und belegen, dass sie alle Voraussetzungen hierfür erfüllen.
+
+<sup>3a</sup> Apothekerinnen und Apotheker können für das Aufziehen und die Injektion des Impfstoffs Personen mit einer Berufsausbildung im Gesundheitswesen und einer impfspezifischen Aus- oder Weiterbildung beiziehen. Die beigezogenen Personen handeln unter Aufsicht und in Verantwortung der Apothekerin oder des Apothekers.
+
+<sup>4</sup> Das Departement kann ergänzende Weisungen, insbesondere zu Dokumentation, Hygiene und Infrastruktur erlassen.
 
 #### Art. 17
-
-Kranken- Der Zahnarzt führt über die Patienten eine Krankengeschichte. Sie gibt Auskunft geschichte über die Diagnose, Behandlung und verordnete Heilmittel. Sie muss während mindestens zehn Jahren aufbewahrt werden. In begründeten Fällen kann der Kantonsarzt im Einvernehmen mit dem Departement und gegen Übernahme der Kosten die amtliche Aufbewahrung verfügen.
-
-#### Art. 181
-
-**Stellvertreter**
-
-<sup>1</sup> Ist ein praktizierender Zahnarzt wegen Krankheit, Militär-, Zivil- und Zivilschutzdienst, Ferien oder aus einem anderen wichtigen Grunde vorübergehend verhindert, seinen Beruf auszuüben, so ist er befugt, sich unter Meldung an das Departement auf seine Verantwortung vertreten zu lassen.
-
-<sup>2</sup> Als Stellvertreter wird zugelassen, wer die Voraussetzungen für die selbstständige Berufsausübung erfüllt.
-
-<sup>3</sup> Dauert die Vertretung länger als sechs Monate, so ist die Bewilligung des Departementes einzuholen.
-
-#### Art. 19
-
-**Assistenten**
-
-<sup>1</sup> Praxisberechtigte Zahnärzte können unter Meldung an das Departement auf ihre Verantwortung Assistenten anstellen, sofern diese die an einen Vertreter gestellten Anforderungen gemäss Art. 10 und 11 des Gesetzes erfüllen.
-
-<sup>2</sup> Studierende der Zahnheilkunde dürfen höchstens auf die Dauer von sechs Monaten angestellt werden.
-
-#### Art. 20
-
-**Verweigerung**
-
-Die Zulassung oder Bewilligung kann verweigert werden, wenn der Zahnarzt wiederholt oder in schwerer Weise seine Aufsichtspflichten gegenüber Stellvertretern oder Assistenten verletzt hat.
-
-#### Art. 212
-
-#### Art. 22
-
-**Fortführung der Praxis im Todesfall**
-
-Die Erben eines verstorbenen Zahnarztes sind berechtigt, dessen Praxis mit Bewilligung des Departementes durch eine gemäss Art. 10 und 11 des Gesetzes zur Vertretung befugte Person während sechs Monaten weiterführen zu lassen. Diese Frist kann aus wichtigen Gründen verlängert werden, sofern der Vertreter ein eidgenössisch diplomierter oder gleichgestellter Zahnarzt ist.
-
-### V. Apotheker
-
-#### Art. 231
-
-#### Art. 242
-
-#### Art. 253
-
-Stellvertreter <sup>1</sup>Als Stellvertreter wird zugelassen, wer:
-
-- a. die Voraussetzungen für die selbstständige Berufsausübung erfüllt;
-
-<sup>2</sup> Der Stellvertreter nimmt die gleiche fachliche Verantwortung wie der Apotheker wahr.
-
-#### Art. 26
-
-Verweigerung Die Zulassung kann verweigert werden, wenn der Apotheker wiederholt oder in schwerer Weise seine Aufsichtspflichten gegenüber Stellvertretern verletzt hat.
-
-#### Art. 274
-
-#### Art. 28
-
-Einbezug einer Die Apotheke kann ohne zusätzliche Bewilligung als Apotheke und Drogerie geführt Drogerie werden.
-
-#### Art. 29
-
-Anwesenheit Der verantwortliche Apotheker oder sein Stellvertreter hat in der Regel während der
-
-Öffnungszeiten des Betriebes oder der Praxis anwesend zu sein.
-
-#### Art. 30
-
-Überwachung Der Apotheker überwacht:
-
-- a. Herstellung und Abgabe von Arzneimitteln im Bereich der Rezeptur;
-
-- b. Abgabe apothekenpflichtiger Arzneimittel;
-
-- c. Beratung über Arzneimittel.
-
-#### Art. 311
 
 **Rezept Ausführung**
 
@@ -227,98 +187,104 @@ Anwesenheit Der verantwortliche Apotheker oder sein Stellvertreter hat in der Re
 
 <sup>2</sup> Das Rezept bedarf folgender Angaben:
 
-- a. Name, Praxisadresse und eigenhändige Unterschrift des Arztes oder Zahnarztes;
+- a) Name, Praxisadresse und eigenhändige Unterschrift der Ärztin oder des Arztes oder der Zahnärztin oder des Zahnarztes;
+- b) Name und Jahrgang der Patientin oder des Patienten;
+- c) Art und Menge sowie Dosierungsvorschriften des verordneten Arzneimittels;
+- d) Datum.
 
-- b. Name und Jahrgang des Patienten;
-
-- c. Art und Menge sowie Dosierungsvorschriften des verordneten Arzneimittels;
-
-- d. Datum.
-
-#### Art. 32
+#### Art. 18
 
 **Etikettierung**
 
-Werden Arzneimittel auf Rezept hergestellt oder auf Verlangen des Arztes nicht in der Originalpackung abgegeben, so ist die Verpackung mit folgenden Angaben zu versehen:
+<sup>1</sup> Werden Arzneimittel auf Rezept hergestellt oder auf Verlangen der Ärztin oder des Arztes nicht in der Originalpackung abgegeben, so ist die Verpackung mit folgenden Angaben zu versehen:
 
-- a. Name und Adresse der Apotheke;
+- a) Name und Adresse der Apotheke;
+- b) Name des Patienten oder der Patientin;
+- c) ärztliche Gebrauchsanweisung;
+- d) Rezeptnummer oder Chargennummer;
+- e) soweit notwendig Verfalldatum und Aufbewahrungshinweise;
+- f) Abgabedatum.
 
-- b. Name des Patienten;
-
-- c. ärztliche Gebrauchsanweisung;
-
-- d. Rezeptnummer oder Chargennummer;
-
-- e. soweit notwendig Verfalldatum und Aufbewahrungshinweise;
-
-- f. Abgabedatum.
-
-#### Art. 33
+#### Art. 19
 
 **Wiederholung**
 
-<sup>1</sup> Das Rezept kann wiederholt ausgeführt werden. Der Apotheker gibt bei jeder Ausführung an:
+<sup>1</sup> Das Rezept kann wiederholt ausgeführt werden. Die Apothekerin oder der Apotheker gibt bei jeder Ausführung an:
 
-- a. Name und Adresse der Apotheke;
-
-- b. Menge des Arzneimittels;
-
-- c. Datum.
+- a) Name und Adresse der Apotheke;
+- b) Menge des Arzneimittels;
+- c) Datum.
 
 <sup>2</sup> Die Wiederholung ist unzulässig, wenn:
 
-- a. der Arzt die Wiederholung durch schriftlichen Vermerk ausschliesst;
+- a) die Ärztin oder der Arzt die Wiederholung durch schriftlichen Vermerk ausschliesst;
+- b) Betäubungsmittel oder verschärft rezeptpflichtige Arzneimittel abgegeben werden.
 
-- b. Betäubungsmittel oder verschärft rezeptpflichtige Arzneimittel abgegeben werden.
+<sup>3</sup> Lassen Wiederholungen auf Missbrauch schliessen, so setzt die Apothekerin oder der Apotheker den Arzt oder die Ärztin in Kenntnis.
 
-<sup>3</sup> Lassen Wiederholungen auf Missbrauch schliessen, so setzt der Apotheker den Arzt in Kenntnis.
-
-#### Art. 34
+#### Art. 20
 
 **Sicherheitsmassnahme**
 
-<sup>1</sup> Rezepte für Mittel, die der verschärften Rezeptpflicht unterstehen oder nach Anordnung des Arztes nicht wiederholt abgegeben werden dürfen, sind zurückzubehalten oder zu entwerten.
+<sup>1</sup> Rezepte für Mittel, die der verschärften Rezeptpflicht unterstehen oder nach Anordnung der Ärztin oder des Arztes nicht wiederholt abgegeben werden dürfen, sind zurückzubehalten oder zu entwerten.
 
 <sup>2</sup> Andere Rezepte dürfen zum wiederholten Gebrauch zurückgegeben werden.
 
-### VI. Gesundheitspolizeiliche Organe
+## IV. Gesundheitspolizeiliche Organe
 
-#### Art. 35
+#### Art. 21
 
-Kantons- <sup>1</sup>Die Aufgaben und Kompetenzen des Kantonsarztes, Kantonsapothekers, Kantonarzt/Kantonsapot stierarztes und des Kantonschemikers werden in einem separaten Beschluss gereheker/ gelt.
+**Kantonsärztin oder Kantonsarzt**
 
-Kantostierarzt/ <sup>2</sup>Das Departement kann im Rahmen seiner Zuständigkeit den Organen der Ge-Kantons- sundheitspolizei selbstständige Befugnisse übertragen.
+<sup>1</sup> Der Kantonsärztin oder dem Kantonsarzt obliegen insbesondere:
 
-chemiker
+- a) die Beratung der Behörden in allen humanmedizinischen Fragen;
+- b) der Vollzug der durch die eidgenössische und die kantonale Gesetzgebung erforderlichen Massnahmen;
+- c) die Ergreifung und Anordnung von Massnahmen gegen übertragbare Krankheiten.
 
-### VII. Schlussbestimmung
+<sup>2</sup> Das Departement kann im Rahmen seiner Zuständigkeit der Kantonsärztin oder dem Kantonsarzt selbstständige Befugnisse übertragen.
 
-#### Art. 361
+#### Art. 22
 
-#### Art. 37
+**Kantonstierärztin oder Kantonstierarzt**
 
-Inkrafttreten Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
+<sup>1</sup> Der Kantonstierärztin oder dem Kantonstierarzt obliegen insbesondere:
 
-## Weitere Fussnoten
+- a) die Beratung der Behörden in veterinärmedizinischen Fragen;
+- b) der Vollzug der durch die eidgenössische und die kantonale Gesetzgebung erforderlichen Massnahmen.
 
-- [1] Mit Revisionen vom 16. August 2004, 16. Dezember 2008 und 24. Mai 2016.
-- [2] Ingress abgeändert durch StKB vom 16. August 2004.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [3] Abgeändert durch StKB vom 16. August 2004.
-- [1] Abgeändert (Abs. 1 und Marginalie) durch StKB vom 16. August 2004. aufgehoben durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009)
-- [2] Abgeändert (Abs. 1) durch StKB vom 16. August 2004.
-- [3] Abgeändert durch StKB vom 16. August 2004 und 24. Mai 2016.
-- [4] Abgeändert (Abs. 3) durch StKB vom 16. August 2004.
-- [5] Abgeändert (Marginalie) durch StKB vom 16. August 2004.
-- [1] Abgeändert durch StKB vom 16. August 2004.
-- [2] Abgeändert (Abs. 1) durch StKB vom 16. August 2004.
-- [3] Abgeändert (Marginalie) durch StKB vom 16. August 2004.
-- [1] Abgeändert (Abs. 1) durch StKB vom 16. August 2004.
-- [1] Abgeändert (Marginalie) durch StKB vom 16. August 2004.
-- [2] Aufgehoben durch StKB vom 16. August 2004.
-- [1] Aufgehoben durch StKB vom 16. August 2004.
-- [2] Aufgehoben durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009)
-- [3] Abgeändert (Abs. 1 lit. c und Marginalie) durch StKB vom 16. August 2004. Abs. 1 lit. b und c aufgehoben durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009).
-- [4] Aufgehoben durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009).
-- [1] Ergänzt Abs. 1 durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009).
-- [1] Aufgehoben durch StKB vom 16. August 2004.
+<sup>2</sup> Das Departement kann im Rahmen seiner Zuständigkeit der Kantonstierärztin oder dem Kantonstierarzt selbstständige Befugnisse übertragen.
+
+#### Art. 23
+
+**Kantonsapothekerin oder Kantonsapotheker**
+
+<sup>1</sup> Der Kantonsapothekerin oder dem Kantonsapotheker obliegen insbesondere:
+
+- a) die Beratung der Behörden in Heilmittelfragen;
+- b) die Kontrolle von Betrieben für die Herstellung, den Verkehr und die Abgabe von Heilmitteln;
+- c) weitere, ihr oder ihm aufgrund der eidgenössischen und der kantonalen Gesetzgebung übertragene, unmittelbar mit dem Vollzug des Heilmittelrechts in Zusammenhang stehende Aufgaben.
+
+<sup>2</sup> Das Departement kann im Rahmen seiner Zuständigkeit der Kantonsapothekerin oder dem Kantonsapotheker selbstständige Befugnisse übertragen.
+
+## V. Übergangs- und Schlussbestimmungen
+
+#### Art. 24
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Für neu der Bewilligungspflicht unterstellte Tätigkeiten ist innerhalb von einem Jahr seit Inkrafttreten dieses Standeskommissionsbeschlusses ein Bewilligungsgesuch einzureichen. Wird kein Bewilligungsgesuch eingereicht oder wird ihm nicht entsprochen, ist die weitere Ausübung der Tätigkeit untersagt.
+
+#### Art. 25
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Der Standeskommissionsbeschluss über die medizinischen Berufe vom 27. Juni 2000 wird aufgehoben.
+
+#### Art. 26
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieser Beschluss tritt am 1. Januar 2019 in Kraft.
+
+cGS --
