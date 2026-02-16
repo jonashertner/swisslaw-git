@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neues Bundesgesetz über Kommunikationsplattformen und Suchmaschinen (KomPG)
 document: Vernehmlassungsvorlage
 language: de

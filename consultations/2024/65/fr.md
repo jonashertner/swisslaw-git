@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nouvelle loi sur les plateformes de communication et les moteurs de recherche (LPCom)
 document: Projet mis en consultation
 language: fr

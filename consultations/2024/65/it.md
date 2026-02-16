@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nuova Legge federale sulle piattaforme di comunicazione e i motori di ricerca (LPCom)
 document: Progetto posto in consultazione
 language: it
