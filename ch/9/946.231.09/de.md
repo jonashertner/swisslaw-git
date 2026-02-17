@@ -3,18 +3,18 @@ sr: "946.231.09"
 title: "Verordnung vom 10. April 2024 über Massnahmen gegenüber Personen und Organisationen, welche die Hamas oder den Palästinensischen Islamischen Dschihad unterstützen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/147"
 language: de
-version: 2025-09-15
+version: 2026-02-18
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/147/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2024-147-20250915-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/147/20250915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/147/20260218/de/xml/fedlex-data-admin-ch-eli-cc-2024-147-20260218-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/147/20260218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Personen und Organisationen, welche die Hamas oder den Palästinensischen Islamischen Dschihad unterstützen
 
-vom 10. April 2024 (Stand am 15. September 2025)
+vom 10. April 2024 (Stand am 18. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -189,5 +189,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024, in Kraft seit 9. Juli 2024 um 18.00 Uhr ([AS 2024 346](https://fedlex.data.admin.ch/eli/oc/2024/346)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/346](https://fedlex.data.admin.ch/eli/oc/2024/346) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024 ([AS 2024 346](https://fedlex.data.admin.ch/eli/oc/2024/346)) und vom 18. Febr. 2026, in Kraft seit 18. Febr. 2026 um 23.00 Uhr (AS **202****6** 81).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/81](https://fedlex.data.admin.ch/eli/oc/2026/81) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
