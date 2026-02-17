@@ -3,18 +3,18 @@ sr: "412.101.220.89"
 title: Verordnung des SBFI vom 29. August 2025 über die berufliche Grundbildung Produktionsmechanikerin EFZ / Produktionsmechaniker EFZ
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/573"
 language: de
-version: 2026-01-01
+version: 2026-02-18
 adopted: 2025-08-29
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/573/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2025-573-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/573/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/573/20260218/de/xml/fedlex-data-admin-ch-eli-cc-2025-573-20260218-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/573/20260218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Produktionsmechanikerin EFZ / Produktionsmechaniker EFZ
 
-vom 29. August 2025 (Stand am 1. Januar 2026)
+vom 29. August 2025 (Stand am 18. Februar 2026)
 
 <table>
 <tr><td>45717</td><td>Produktionsmechanikerin EFZ / Produktionsmechaniker EFZ Mécanicienne de production CFC / Mécanicien de production CFC Meccanica di produzione AFC / Meccanico di produzione AFC</td></tr>
@@ -119,10 +119,11 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>3</sup> In den Handlungskompetenzen nach Absatz 1 Buchstabe a Ziffer 3, b Ziffern 5–8, Buchstabe c Ziffern 3–5 sowie Buchstabe d Ziffern 4–6 ist der Aufbau von zwei Handlungskompetenzen verbindlich.[^4-2]
 
-<sup>4</sup> Die gemäss Absatz 3 verbindliche Handlungskompetenz wird durch den Lehrbetrieb und die lernende Person Ende des zweiten Lehrjahres gemeinsam definiert und der Berufsfachschule mitgeteilt. Zusätzlich ist sie bei der Anmeldung zum Qualifikationsverfahren mit Abschlussprüfung anzugeben.
+<sup>4</sup> Die gemäss Absatz 3 verbindlichen Handlungskompetenzen werden durch den Lehrbetrieb und die lernende Person Ende des zweiten Lehrjahres gemeinsam definiert und der Berufsfachschule mitgeteilt. Zusätzlich sind sie bei der Anmeldung zum Qualifikationsverfahren mit Abschlussprüfung anzugeben.[^4-3]
 
 [^4-1]: Berichtigung vom 6. Nov. 2025 ([AS 2025 679](https://fedlex.data.admin.ch/eli/oc/2025/679)).
 [^4-2]: Berichtigung vom 6. Nov. 2025 ([AS 2025 679](https://fedlex.data.admin.ch/eli/oc/2025/679)).
+[^4-3]: Berichtigung vom 18. Febr. 2026 ([AS 2026 83](https://fedlex.data.admin.ch/eli/oc/2026/83)).
 
 ## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz, Umweltschutz und nachhaltige Entwicklung
 

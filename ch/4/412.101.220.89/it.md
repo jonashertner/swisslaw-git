@@ -3,18 +3,18 @@ sr: "412.101.220.89"
 title: Ordinanza della SEFRI del 29 agosto 2025 sulla formazione professionale di base Meccanica di produzione AFC / Meccanico di produzione AFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/573"
 language: it
-version: 2026-01-01
+version: 2026-02-18
 adopted: 2025-08-29
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/573/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2025-573-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/573/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/573/20260218/it/xml/fedlex-data-admin-ch-eli-cc-2025-573-20260218-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/573/20260218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Meccanica di produzione AFC / Meccanico di produzione AFC
 
-del 29 agosto 2025 (Stato 1° gennaio 2026)
+del 29 agosto 2025 (Stato 18 febbraio 2026)
 
 <table>
 <tr><td>45717</td><td>Meccanica di produzione AFC / Meccanico di produzione AFC Produktionsmechanikerin EFZ / Produktionsmechaniker EFZ Mécanicienne de production CFC / Mécanicien de production CFC</td></tr>
@@ -119,10 +119,11 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> È obbligatorio lo sviluppo di due competenze operative a scelta tra quelle di cui al capoverso 1 lettera a numero 3, b numeri 5−8, lettera c numeri 3−5 nonché lettera d numeri 4−6.[^4-2]
 
-<sup>4</sup> Le competenze operative obbligatorie di cui al capoverso 3 sono definite congiuntamente dall’azienda di tirocinio e dalla persona in formazione e sono comunicate alla scuola professionale alla fine del secondo anno di formazione. Inoltre, devono essere indicate al momento dell’iscrizione alla procedura di qualificazione con esame finale.
+<sup>4</sup> Le competenze operative obbligatorie di cui al capoverso 3 sono definite congiuntamente dall’azienda di tirocinio e dalla persona in formazione e sono comunicate alla scuola professionale alla fine del secondo anno di formazione. Inoltre, devono essere indicate al momento dell’iscrizione alla procedura di qualificazione con esame finale.[^4-3]
 
 [^4-1]: Correzione del 6 nov. 2025 ([RU 2025 679](https://fedlex.data.admin.ch/eli/oc/2025/679)).
 [^4-2]: Correzione del 6 nov. 2025 ([RU 2025 679](https://fedlex.data.admin.ch/eli/oc/2025/679)).
+[^4-3]: La correzione del 18 feb. 2026, concerne soltanto i testi tedesco e francese ([RU 2026 83](https://fedlex.data.admin.ch/eli/oc/2026/83)).
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute, protezione dell’ambiente e sviluppo sostenibile
 

@@ -3,18 +3,18 @@ sr: "412.101.220.89"
 title: Ordonnance du SEFRI du 29 août 2025 sur la formation professionnelle initiale de mécanicienne de production CFC / mécanicien de production CFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/573"
 language: fr
-version: 2026-01-01
+version: 2026-02-18
 adopted: 2025-08-29
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/573/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-573-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/573/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/573/20260218/fr/xml/fedlex-data-admin-ch-eli-cc-2025-573-20260218-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/573/20260218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de mécanicienne de production CFC / mécanicien de production CFC
 
-du 29 août 2025 (État le 1<sup>er</sup> janvier 2026)
+du 29 août 2025 (État le 18 février 2026)
 
 <table>
 <tr><td>45717</td><td>Mécanicienne de production CFC / Mécanicien de production CFC Produktionsmechanikerin EFZ / Produktionsmechaniker EFZ Meccanica di produzione AFC / Meccanico di produzione AFC</td></tr>
@@ -119,10 +119,11 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>3</sup> L’acquisition de deux compétences opérationnelles parmi celles qui sont visées à l’al. 1, let. a, ch. 3, b, ch. 5 à 8, c, ch. 3 à 5, et d, ch. 4 à 6, est obligatoire.[^4-2]
 
-<sup>4</sup> La compétence opérationnelle à acquérir obligatoirement selon l’al. 3 est définie conjointement par l’entreprise formatrice et la personne en formation à la fin de la deuxième année de formation et communiquée à l’école professionnelle. Elle doit être indiquée lors de l’inscription à la procédure de qualification avec examen final.
+<sup>4</sup> Les compétences opérationnelles à acquérir obligatoirement selon l’al. 3 sont définies conjointement par l’entreprise formatrice et la personne en formation à la fin de la deuxième année de formation et communiquées à l’école professionnelle. Elles doivent être indiquées lors de l’inscription à la procédure de qualification avec examen final.[^4-3]
 
-[^4-1]: Erratum du 6 nov. 2025 ([RO 2025 679](https://fedlex.data.admin.ch/eli/oc/2025/679))
-[^4-2]: Erratum du 6 nov. 2025 ([RO 2025 679](https://fedlex.data.admin.ch/eli/oc/2025/679))
+[^4-1]: Erratum du 6 nov. 2025 ([RO 2025 679](https://fedlex.data.admin.ch/eli/oc/2025/679)).
+[^4-2]: Erratum du 6 nov. 2025 ([RO 2025 679](https://fedlex.data.admin.ch/eli/oc/2025/679)).
+[^4-3]: Erratum du 18 fév. 2026 ([RO 2026 83](https://fedlex.data.admin.ch/eli/oc/2026/83)).
 
 ## Section 3 Sécurité au travail, protection de la santé, protection de l’environnement et développement durable
 
