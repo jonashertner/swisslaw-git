@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Ordinanza del 25 maggio 2005 che istituisce provvedimenti nei confronti del Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: it
-version: 2025-12-09
+version: 2026-02-18
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20251209/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20251209-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20251209/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260218/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Sudan
 
-del 25 maggio 2005 (Stato 9 dicembre 2025)
+del 25 maggio 2005 (Stato 18 febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -102,14 +102,14 @@ In via eccezionale può autorizzare la liberazione di determinati averi o risors
 
 <sup>5</sup> Autorizza le deroghe di cui ai capoversi 4 e 4<sup>bis</sup> d’intesa con i servizi competenti del DFAE e del Dipartimento federale delle finanze e, se del caso, in conformità alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite[^2-7].[^2-8]
 
-[^2-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^2-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 [^2-3]: Nuovo testo giusta la cifra I n. 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^2-4]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^2-5]: Introdotto dalla cifra I n. 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^2-6]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-4]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-5]: Introdotto dalla cifra I n. 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-6]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 [^2-7]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^2-8]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-8]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 3
 
@@ -140,7 +140,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 - b. per la partecipazione a conferenze internazionali o a dialoghi politici concernenti il Sudan; oppure
 - c. per tutelare interessi svizzeri.
 
-[^4-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 ## Sezione 2: Esecuzione e disposizioni penali
 
@@ -156,8 +156,8 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>4</sup> Su ordine della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^5-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^5-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 6
 
@@ -189,7 +189,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 Le liste delle persone fisiche, imprese e organizzazioni emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato del Consiglio di sicurezza delle Nazioni Unite (allegato 1) sono recepite automaticamente.
 
-[^7a-1]: Introdotto dalla cifra I n. 9 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^7a-1]: Introdotto dalla cifra I n. 9 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 7b
 
@@ -197,7 +197,7 @@ Le liste delle persone fisiche, imprese e organizzazioni emanate o aggiornate da
 
 Il contenuto degli allegati 1 e 2 è pubblicato nella Raccolta ufficiale delle leggi federali (RU) e nella Raccolta sistematica del diritto federale (RS) soltanto mediante rimando.
 
-[^7b-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^7b-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 8
 
@@ -213,7 +213,7 @@ Allegato 1[^t-1]
 
 ## Persone fisiche soggette alle misure finanziarie e al divieto di entrata e di transito, nonché imprese e organizzazioni soggette alle misure finanziarie
 
-[^t-1]: Originario allegato. Nuovo testo giusta la cifra II cpv. 1 dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^t-1]: Originario allegato. Nuovo testo giusta la cifra II cpv. 1 dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 **Osservazioni**
 
@@ -232,5 +232,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 10 apr. 2024 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Aggiornato dalle cifre I dell’O del DEFR dell’8 lug. 2024 ([RU 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), del 14 gen. 2025 ([RU 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), del 18 ago. 2025 ([RU 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)) e dell’8 dic. 2025, in vigore dal 9 dic. 2025 alle ore 23.00 ([RU 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/818](https://fedlex.data.admin.ch/eli/oc/2025/818) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 10 apr. 2024 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Aggiornato dalle cifre I delle O del DEFR dell’8 lug. 2024 ([RU 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), del 14 gen. 2025 ([RU 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), del 18 ago. 2025 ([RU 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)), dell’8 dic. 2025 ([RU 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)) e del 18 feb. 2026, in vigore dal 18 feb. 2026 alle ore 23.00 ([RU 2026 82](https://fedlex.data.admin.ch/eli/oc/2026/82)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/82](https://fedlex.data.admin.ch/eli/oc/2026/82) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
