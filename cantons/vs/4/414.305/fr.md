@@ -4,11 +4,12 @@ number: "414.305"
 title: Règlement d’études concernant la filière ES (école supérieure) en soins infirmiers
 language: fr
 version: 2022-09-01
+corrected: 2026-02-19
 version_adopted: 2023-05-17
 adopted: 2021-05-12
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/414.305"
-pdf: "https://lex.vs.ch/api/fr/versions/3575/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3574/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.

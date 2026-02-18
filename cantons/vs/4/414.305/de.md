@@ -4,11 +4,12 @@ number: "414.305"
 title: Studienreglement betreffend den Bildungsgang Pflege HF (höhere Fachschule)
 language: de
 version: 2022-09-01
+corrected: 2026-02-19
 version_adopted: 2023-05-17
 adopted: 2021-05-12
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.305"
-pdf: "https://lex.vs.ch/api/de/versions/3575/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3574/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
