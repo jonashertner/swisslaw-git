@@ -5,11 +5,12 @@ title: Anwaltsgesetz
 short: AnwG
 language: de
 version: 2011-01-01
+corrected: 2026-02-19
 version_adopted: 2010-06-15
 adopted: 1993-11-11
 in_force: 1994-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/963.70"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3881/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2068/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -159,7 +160,7 @@ als Gesetz:[^ingress-3]
 
 - a) im Zivilprozess vor dem Einzelrichter des Kreisgerichtes in vermögensrechtlichen Streitigkeiten des vereinfachten Verfahrens und im summarischen Verfahren, einschliesslich zugehörige Schlichtungs-und Rechtsmittelverfahren;
 - b) im Strafprozess:
-  - 1\. wenn ein Strafbefehl zulässig ist;
+  - 1\. wenn ein Strafbescheid zulässig ist;
   - 2\. für Zivilansprüche, für die er im Zivilprozess zugelassen ist;
 - c) vor Verwaltungsbehörden, Verwaltungsrekurskommission und in Rekursfällen vor Versicherungsgericht sowie in den zugehörigen Rechtsmittelverfahren.
 
