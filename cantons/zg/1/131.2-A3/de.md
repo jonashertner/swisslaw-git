@@ -4,19 +4,19 @@ number: 131.2-A3
 title: Verordnung zum Wahl- und Abstimmungsgesetz (Anhang 3)
 short: "Wahl- und Abstimmungsverordnung, WAV"
 language: de
-version: 2022-07-30
-valid_until: 2026-02-19
-version_adopted: 2022-07-05
+version: 2026-02-20
+valid_until: 2026-09-07
+version_adopted: 2025-12-16
 adopted: 2015-07-07
 in_force: 2015-07-11
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.2-A3"
-pdf: "https://bgs.zg.ch/api/de/versions/2365/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3023/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Beiblatt
+# Wahlanleitung Majorz Beiblatt
 
 **und falzen!**
 
@@ -24,47 +24,21 @@ text: pdf
 
 99 mm
 
-**Wahlzettel**
+**[Wahl bzw. Ergänzungswahl] für ein Mitglied des [Organ] [Datum] 1 Sitz**
 
-### W2.aOhkl tdoebseRr e2g0ie2r2ungsrats
+### [Wahl bzw. Ergänzungswahl] für ein Mit- [Wahl bzw. Ergänzungswahl] für ein Mitglied des [Organ] glied des [Organ] [Datum] [Datum] 1 Sitz 1 Sitz
 
-## Wahlanleitung Majorz 7 Sitze
+**Unbedingt beachten:**
 
-**Wahl des Regierungsrats 2. Oktober 2022 7 Sitze**
+Gültig wählen Nr. Kandidierende Personen – Ich trenne den Wahlzettel vom Wahlzettel- 01 [Nachame Vorname], [Jahrgang], [Berufsbebogen ab. zeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)] – Ich darf den Wahlzettel nur handschriftlich aus- 02 [Nachame Vorname], [Jahrgang], [Berufsbezeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)] füllen.
 
-### Wahl des Regierungsrats
+**– Wahlzettel abtrennen. – Wahlzettel handschriftlich ausfüllen. – Maximal 1 kandidierende Person vom Beiblatt übertragen.**
 
-Nr. Kandidierende Personen
+03 [Nachame Vorname], [Jahrgang], [Berufsbe- – Ich darf auf dem Wahlzettel maximal einen Namen zeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)] der kandidierenden Personen vom Beiblatt aufführen. 04 [Nachame Vorname], [Jahrgang], [Berufsbezeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)] Ich schreibe aus zähltechnischen Gründen zusätz- 05 [Nachame Vorname], [Jahrgang], [Berufsbelich zum Namen der kandidierenden Person auch zeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)] ihre jeweilige Nummer auf. 06 [Nachame Vorname], [Jahrgang], [Berufsbezeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)]
 
-### 2. Oktober 2022 <sup>01</sup> <sup>Nachname</sup> <sup>Vorname,</sup> <sup>Jahrgang,</sup> <sup>Berufsbezeichnung,</sup> 7 Sitze <sup>Wohnadresse,</sup> <sup>Parteibezeichnung,</sup>
-
-**Unbedingt beachten: – Wahlzettel abtrennen. – Wahlzettel handschriftlich ausfüllen. – Maximal 7 kandidierende Personen vom Beiblatt übertragen.**
-
-Ganzer Block maximum drei Zeilen, bisher oder leer 02 Nachname Vorname, Jahrgang, Berufsbezeichnung, Wohnadresse, Parteibezeichnung, Ganzer Block maximum drei Zeilen, bisher oder leer Gültig wählen 03 Nachname Vorname, Jahrgang, Berufsbezeichnung, Wohnadresse, Parteibezeichnung,
-
-- Ich trenne den Wahlzettel vom Wahlzettelbogen ab. Ganzer Block maximum drei Zeilen, bisher oder leer
-
-**7 Mitglieder des Regierungsrats**
-
-- Ich darf den Wahlzettel nur handschriftlich ausfüllen.
-
-04 Nachname Vorname, Jahrgang, Berufsbezeichnung,
-
-**Hier falzen!**
-
-**Hier falzen!**
+**1 [Mitglied] des [Organ]**
 
 **Nr. Nachname, Vorname**
-
-- Ich darf auf dem Wahlzettel nur Namen der kandidie- Wohnadresse, Parteibezeichnung, renden Personen vom Beiblatt aufführen. Ganzer Block maximum drei Zeilen, bisher oder leer
-
-- Ich darf den ganz oder teilweise mit 05 Nachname Vorname, Jahrgang, Berufsbezeichnung,
-
-Wahlzettel Wohnadresse, Parteibezeichnung,
-
-Namen von kandidierenden Personen ausfüllen. Ganzer Block maximum drei Zeilen, bisher oder leer – Ich darf den Namen der gleichen kandidierenden Per- 06 Nachname Vorname, Jahrgang, Berufsbezeichnung, son nur einmal aufführen (kumulieren nicht erlaubt). Wohnadresse, Parteibezeichnung,
-
-- Ich darf auf dem Wahlzettel nur so viele Namen von Ganzer Block maximum drei Zeilen, bisher oder leer kandidierenden Personen aufführen, wie zu wählen 07 Nachname Vorname, Jahrgang, Berufsbezeichnung, sind. Wohnadresse, Parteibezeichnung, Ganzer Block maximum drei Zeilen, bisher oder leer Ich führe aus zähltechnischen Gründen zusätzlich zu den 08 Nachname Vorname, Jahrgang, Berufsbezeichnung, Namen der kandidierenden Personen auch ihre jeweilige Wohnadresse, Parteibezeichnung, Nummer auf. Ganzer Block maximum drei Zeilen, bisher oder leer 09 Nachname Vorname, Jahrgang, Berufsbezeichnung, Wohnadresse, Parteibezeichnung, Ganzer Block maximum drei Zeilen, bisher oder leer 10 Nachname Vorname, Jahrgang, Berufsbezeichnung, Wohnadresse, Parteibezeichnung, Ganzer Block maximum drei Zeilen, bisher oder leer
 
 **Nur Wahlzettel ins Stimmzettelkuvert oder in die Urne legen!**
 
