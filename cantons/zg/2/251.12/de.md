@@ -4,13 +4,12 @@ number: "251.12"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister
 short: Verordnung zum EG RHG
 language: de
-version: 2023-04-01
-valid_until: 2026-02-19
-version_adopted: 2023-03-14
+version: 2026-02-20
+version_adopted: 2025-12-16
 adopted: 2009-03-03
 in_force: 2009-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/251.12"
-pdf: "https://bgs.zg.ch/api/de/versions/2419/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2986/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2419/pdf_file"
 
 (Verordnung zum EG RHG)
 
-Vom 3. März 2009 (Stand 1. April 2023)
+Vom 3. März 2009 (Stand 20. Februar 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -156,7 +155,7 @@ beschliesst:
 
 **Unbekannter Aufenthalt**
 
-<sup>1</sup> Personen, deren Aufenthalt seit mehr als drei Monaten unbekannt ist, sind von Amtes wegen abzumelden. Ihr Heimatschein ist während mindestens einem Jahr nach der Abmeldung aufzubewahren.
+<sup>1</sup> Personen, deren Aufenthalt seit mehr als drei Monaten unbekannt ist, sind von Amtes wegen abzumelden.
 
 #### § 13
 
