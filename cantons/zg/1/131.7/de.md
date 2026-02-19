@@ -3,20 +3,19 @@ canton: ZG
 number: "131.7"
 title: Richtlinien für die Ausgestaltung der amtlichen Abstimmungserläuterungen
 language: de
-version: 2013-06-15
-valid_until: 2026-02-19
-version_adopted: 2013-06-11
+version: 2026-02-20
+version_adopted: 2025-12-16
 adopted: 2008-02-26
 in_force: 2008-03-08
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.7"
-pdf: "https://bgs.zg.ch/api/de/versions/1165/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Richtlinien für die Ausgestaltung der amtlichen Abstimmungserläuterungen
 
-Vom 26. Februar 2008 (Stand 15. Juni 2013)
+Vom 26. Februar 2008 (Stand 20. Februar 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -30,7 +29,7 @@ beschliesst:
 
 **Materielle Grundsätze**
 
-<sup>1</sup> Kantonsratsvorlagen, die der Volksabstimmung unterliegen, werden mit einer kurzen, sachlichen Abstimmungserläuterung des Regierungsrates versehen.
+<sup>1</sup> Kantonsratsvorlagen, die der Volksabstimmung unterliegen, werden mit einer kurzen, sachlichen Abstimmungserläuterung des Regierungsrats versehen.
 
 <sup>2</sup> Die fachlich zuständige Direktion entwirft den erläuternden Bericht und unterbreitet ihn dem Regierungsrat zur Beschlussfassung.
 
@@ -40,7 +39,7 @@ beschliesst:
 - b) die eigentliche Erläuterung der Abstimmungsvorlage;
 - c) das Ergebnis der Verhandlungen im Kantonsrat, darin eingeschlossen die Argumente wesentlicher Minderheiten;
 - d) das Ergebnis der Schlussabstimmung im Kantonsrat;
-- e) die Abstimmungsempfehlungen des Kantonsrates und des Regierungsrates;
+- e) die Abstimmungsempfehlungen des Kantonsrats und des Regierungsrats;
 - f) die Abstimmungsvorlage, so wie sie vom Kantonsrat verabschiedet worden ist;
 - g) bei Teilrevisionen von Rechtserlassen, eine synoptische Darstellung von geltendem und neuem Recht.
 
@@ -50,9 +49,9 @@ beschliesst:
 - b) Die fachlich zuständige Direktion lädt die Urheberkomitees rechtzeitig zur Stellungnahme ein.
 - c) Der Regierungsrat übernimmt die Argumente der Urheberkomitees in der Regel unverändert in seinen erläuternden Bericht. Er kann ehrverletzende, offensichtlich wahrheitswidrige oder bezüglich Umfang nicht den Vorgaben entsprechende Darstellungen ändern oder zurückweisen.
 
-<sup>5</sup> Betrifft der Abstimmungsgegenstand ein Rechtsgebiet, das in die fachliche Zuständigkeit der Gerichte fällt, können anstelle des Regierungsrates das Obergericht oder das Verwaltungsgericht die Abstimmungserläuterung verfassen.
+<sup>5</sup> Betrifft der Abstimmungsgegenstand ein Rechtsgebiet, das in die fachliche Zuständigkeit der Gerichte fällt, können anstelle des Regierungsrats das Obergericht oder das Verwaltungsgericht die Abstimmungserläuterung verfassen.
 
-<sup>6</sup> Betrifft der Abstimmungsgegenstand ein Gebiet, das in die ausschliessliche fachliche Zuständigkeit des Kantonsrates fällt, bleibt die Zuständigkeit kantonsrätlicher Kommissionen vorbehalten.
+<sup>6</sup> Betrifft der Abstimmungsgegenstand ein Gebiet, das in die ausschliessliche fachliche Zuständigkeit des Kantonsrats fällt, bleibt die Zuständigkeit kantonsrätlicher Kommissionen vorbehalten.
 
 #### § 2
 
@@ -68,7 +67,7 @@ beschliesst:
 
 <sup>5</sup> Die eigentliche Abstimmungserläuterung umfasst in der Regel – inklusive Umschlagseiten und Fotos – 12 bis 16 Seiten. Je nach Vorlage kommt der Gesetzes- oder Initiativtext hinzu. Die Druckvorlage des Gesetzestextes wird übernommen.
 
-<sup>6</sup> Auf der Frontseite wird visuell und textlich die Kernbotschaft vermittelt (Gegenstand und Haltung/Empfehlung des Kantonsrates und des Regierungsrates). S. 2 enthält das Inhaltsverzeichnis, S. 3 und eventuell S. 4 enthalten die wichtigsten Argumente, somit die wichtigsten Gründe für ein Ja oder für ein Nein des Kantonsrates und des Regierungsrates.
+<sup>6</sup> Auf der Frontseite wird visuell und textlich die Kernbotschaft vermittelt (Gegenstand und Haltung/Empfehlung des Kantonsrats und des Regierungsrats). S. 2 enthält das Inhaltsverzeichnis, S. 3 und eventuell S. 4 enthalten die wichtigsten Argumente, somit die wichtigsten Gründe für ein Ja oder für ein Nein des Kantonsrats und des Regierungsrats.
 
 <sup>7</sup> Das Corporate Design des Kantons wird bei der Gestaltung umgesetzt.
 
@@ -78,7 +77,19 @@ beschliesst:
 
 <sup>10</sup> Die zuständige Direktion ist verantwortlich für die Realisierung der Abstimmungserläuterung. Die bzw. der Kommunikationsbeauftragte wird von Anfang an einbezogen. Sie bzw. er berät bei Konzeption, Text, Gestaltung und Produktionsprozess.
 
-<sup>11</sup> Sofern der Regierungsrat aus verfassungsrechtlichen Überlegungen eine vom Kantonsrat abweichende Auffassung vertritt, kann seine Empfehlung nebst derjenigen des Kantonsrates heissen: «Der Regierungsrat empfiehlt …».
+<sup>11</sup> Sofern der Regierungsrat aus verfassungsrechtlichen Überlegungen eine vom Kantonsrat abweichende Auffassung vertritt, kann seine Empfehlung nebst derjenigen des Kantonsrats heissen: «Der Regierungsrat empfiehlt …».
+
+#### § 2a
+
+**Verweis auf ergänzende Unterlagen**
+
+<sup>1</sup> Bei umfangreichen oder komplizierten Vorlagen können die Stimmberechtigten in den Abstimmungserläuterungen auf ergänzende Unterlagen verwiesen werden, die auf der zuständigen Verwaltungsstelle oder im Internet eingesehen werden können.
+
+#### § 2b
+
+**Anwendbarkeit für die Gemeinden**
+
+<sup>1</sup> Diese Bestimmungen gelten sinngemäss auch für die Gemeinden.
 
 #### § 3
 
