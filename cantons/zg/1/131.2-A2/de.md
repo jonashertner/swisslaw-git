@@ -4,50 +4,107 @@ number: 131.2-A2
 title: Verordnung zum Wahl- und Abstimmungsgesetz (Anhang 2)
 short: "Wahl- und Abstimmungsverordnung, WAV"
 language: de
-version: 2022-07-30
-valid_until: 2026-02-19
-version_adopted: 2022-07-05
+version: 2026-02-20
+version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-02-20
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.2-A2"
-pdf: "https://bgs.zg.ch/api/de/versions/2364/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3022/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Beiblatt
+# Wahl des Nationalrats [Datum] 3 Sitze
 
-**und falzen!**
+115 mm
 
-**99 mm 99 mm**
+Wahlanleitung Proporz
 
-99 mm
+### Wahl des Nationalrats [Datum] 3 Sitze
 
-### Wahl des Regierungsrats
+### Gültig wählen
 
-**Wahlzettel**
+− Ich entscheide mich für einen Wahlzettel und trenne ihn ab.
 
-## Wahlanleitung Majorz 21.SOitkztober 2022
+− Ich darf den Wahlzettel unverändert lassen oder ihn ausschliesslich handschriftlich ändern.
 
-**Wahl des Regierungsrats 2. Oktober 2022 1 Sitz**
+### Vorgedruckter Wahlzettel (Liste)
 
-### Wahl des Regierungsrats 2. Oktober 2022 Nr. Kandidierende Personen 1 Sitz 01 Nachname Vorname, Jahrgang, Berufsbezeichnung,
+− Ich darf auf dem Wahlzettel Namen von kandidierenden Personen streichen.
 
-Wohnadresse, Parteibezeichnung, Ganzer Block maximum drei Zeilen, bisher oder leer 02 Nachname Vorname, Jahrgang, Berufsbezeichnung, Gültig wählen Wohnadresse, Parteibezeichnung, Ganzer Block maximum drei Zeilen, bisher oder leer – Ich trenne den Wahlzettel vom Wahlzettelbogen ab.
+− Ich darf den Namen der gleichen kandidierenden Person maximal zweimal aufführen (kumulieren).
 
-**Unbedingt beachten: – Wahlzettel abtrennen. – Wahlzettel handschriftlich ausfüllen. – Maximal 1 kandidierende Person vom Beiblatt übertragen.**
+− Ich darf den Namen von den kandidierenden Personen aus anderen vorgedruckten Wahlzetteln (Listen) eintragen (panaschieren). − Ich darf die Listenbezeichnung streichen oder durch eine andere ersetzen.
 
-03 Nachname Vorname, Jahrgang, Berufsbezeichnung,
+− Ich darf auf den Wahlzettel nur so viele Namen von kandidierenden Personen schreiben, wie zu wählen sind.
 
-- Ich darf den Wahlzettel nur handschriftlich ausfüllen. Wohnadresse, Parteibezeichnung,
+### Wahlzettel ohne Vordruck
 
-**1 Mitglied des Regierungsrats**
+− Ich darf auf den Wahlzettel ohne Vordruck eine Listenbezeichnung schreiben.
 
-- Ich darf maximal 1 kandidierende Person vom Beiblatt Ganzer Block maximum drei Zeilen, bisher oder leer auf den Wahlzettel übertragen. 04 Nachname Vorname, Jahrgang, Berufsbezeichnung, Wohnadresse, Parteibezeichnung, Ich führe aus zähltechnischen Gründen zusätzlich zum Ganzer Block maximum drei Zeilen, bisher oder leer Namen der kandidierenden Person auch ihre jeweilige Nummer auf.
+− Ich darf den Wahlzettel ohne Vordruck ganz oder teilweise mit Namen von kandidierenden Personen ausfüllen.
 
-**Nr. Nachname, Vorname**
+− Ich darf den Namen der gleichen kandidierenden Person maximal zweimal aufführen (kumulieren).
 
-**Nur Wahlzettel ins Stimmzettelkuvert oder in die Urne legen!**
+− Ich darf auf den Wahlzettel nur so viele Namen von kandidierenden Personen schreiben, wie zu wählen sind.
 
-Hier falzen!
+Ich schreibe aus zähltechnischen Gründen zusätzlich zu den Namen der kandidierenden Personen auch ihre jeweilige Nummer auf. Die Stimmberechtigten erhalten:
+
+### A. Wahlzettel mit Vordruck (Liste)
+
+Liste 01 [Partei oder Gruppierung] Liste 02 [Partei oder Gruppierung] Liste 03 [Partei oder Gruppierung] Liste 04 [Partei oder Gruppierung] Liste 05 [Partei oder Gruppierung] Liste 06 [Partei oder Gruppierung] Liste 07 [Partei oder Gruppierung] Liste 08 [Partei oder Gruppierung] Liste 09 [Partei oder Gruppierung] Liste 10 [Partei oder Gruppierung] Liste 11 [Partei oder Gruppierung] Liste 12 [Partei oder Gruppierung] Liste 13 [Partei oder Gruppierung] Liste 14 [Partei oder Gruppierung] Liste 15 [Partei oder Gruppierung] Liste 16 [Partei oder Gruppierung] Liste 17 [Partei oder Gruppierung] Liste 18 [Partei oder Gruppierung] Liste 19 [Partei oder Gruppierung] Liste 20 [Partei oder Gruppierung] Liste 21 [Partei oder Gruppierung] Liste 22 [Partei oder Gruppierung] Liste 23 [Partei oder Gruppierung] Liste 24 [Partei oder Gruppierung] Liste 25 [Partei oder Gruppierung] Liste 26 [Partei oder Gruppierung] Liste 27 [Partei oder Gruppierung]
+
+Auf der Folgeseite sind die Listen 28 bis 34 aufgeführt. Liste 28 [Partei oder Gruppierung] Liste 29 [Partei oder Gruppierung] Liste 30 [Partei oder Gruppierung] Liste 31 [Partei oder Gruppierung] Liste 32 [Partei oder Gruppierung] Liste 33 [Partei oder Gruppierung] Liste 34 [Partei oder Gruppierung]
+
+### B. Wahlzettel ohne Vordruck
+
+**Hier perforieren**
+
+### Wahlzettel
+
+Wahl des Nationalrats
+
+[Datum] 3 Sitze
+
+**Liste 01**
+
+Liste 01: [Partei oder Gruppierung]
+
+Listenverbindung 00, 00, 00, und 00 Unterlistenverbindung 00, 00 und 00
+
+01.01 [Name Vorname], [Jahrgang], [Beruf], von [Heimatort (Kantonskürzel)], [PLZ Ort]
+
+01.02 [Name Vorname], [Jahrgang], [Beruf], von [Heimatort (Kantonskürzel)], [PLZ Ort]
+
+01.03 [Name Vorname], [Jahrgang], [Beruf], von [Heimatort (Kantonskürzel)], [PLZ Ort]
+
+**Hier perforieren**
+
+### Wahlzettel
+
+Wahl des Nationalrats
+
+[Datum] 3 Sitze
+
+**Liste 02**
+
+Liste 02: [Partei oder Gruppierung]
+
+Listenverbindung 00, 00, 00, und 00 Unterlistenverbindung 00, 00 und 00
+
+02.01 [Name Vorname], [Jahrgang], [Beruf], von [Heimatort (Kantonskürzel)], [PLZ Ort]
+
+02.02 [Name Vorname], [Jahrgang], [Beruf], von [Heimatort (Kantonskürzel)], [PLZ Ort]
+
+02.03 [Name Vorname], [Jahrgang], [Beruf], von [Heimatort (Kantonskürzel)], [PLZ Ort]
+
+**Hier perforieren**
+
+### Wahlzettel
+
+Wahl des Nationalrats [Datum] 3 Sitze
+
+Listenbezeichnung:
+
+Kand.-Nr. Name, Vorname
