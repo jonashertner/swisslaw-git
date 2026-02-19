@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2007 concernente l'utilizzazione dell'imposta s
 short: OUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: it
-version: 2025-11-01
+version: 2026-02-20
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2007-797-20251101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20260220/it/xml/fedlex-data-admin-ch-eli-cc-2007-797-20260220-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20260220/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/it"
 
 (OUMin)[^t-1]
 
-del 7 novembre 2007 (Stato 1° novembre 2025)
+del 7 novembre 2007 (Stato 20 febbraio 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -326,7 +326,7 @@ Il DATEC stabilisce i requisiti dei programmi d’agglomerato e disciplina in pa
 
 Le richieste di contributi per infrastrutture di trasporto nelle città e negli agglomerati devono essere presentate all’Ufficio federale dello sviluppo territoriale (ARE) nel quadro del programma d’agglomerato.
 
-[^20-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)). La correzione del 20 feb. 2026, concerne soltanto il testo francese ([RU 2026 86](https://fedlex.data.admin.ch/eli/oc/2026/86)).
 
 #### Art. 21
 

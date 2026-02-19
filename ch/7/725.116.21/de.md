@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2007 über die Verwendung der zweckgebundenen 
 short: MinVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: de
-version: 2025-11-01
+version: 2026-02-20
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2007-797-20251101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20260220/de/xml/fedlex-data-admin-ch-eli-cc-2007-797-20260220-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20260220/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/de"
 
 (MinVV)[^t-1]
 
-vom 7. November 2007 (Stand am 1. November 2025)
+vom 7. November 2007 (Stand am 20. Februar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -326,7 +326,7 @@ Das UVEK legt die Anforderungen an die Agglomerationsprogramme fest und regelt i
 
 Die Gesuche um Beiträge an Verkehrsinfrastrukturen in Städten und Agglomerationen sind im Rahmen des Agglomerationsprogramms dem Bundesamt für Raumentwicklung (ARE) einzureichen.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)). Die Berichtigung vom 20. Febr. 2026 betrifft nur den französischen Text ([AS 2026 86](https://fedlex.data.admin.ch/eli/oc/2026/86)).
 
 #### Art. 21
 

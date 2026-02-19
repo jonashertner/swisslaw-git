@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2007 concernant l'utilisation de l'impôt sur l
 short: OUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: fr
-version: 2025-11-01
+version: 2026-02-20
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-797-20251101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20260220/fr/xml/fedlex-data-admin-ch-eli-cc-2007-797-20260220-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20260220/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/fr"
 
 (OUMin)[^t-1]
 
-du 7 novembre 2007 (État le 1<sup>er</sup> novembre 2025)
+du 7 novembre 2007 (État le 20 février 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -320,9 +320,9 @@ Le DETEC fixe les exigences requises pour les projets d’agglomération et règ
 
 **Demandes**[^20-1]
 
-Les demandes de contributions destinées aux infrastructures de transport dans les villes et les agglomérations doivent être déposées auprès de l’Office fédéral du développement territorial (ARE) dans le cadre du projet d’agglomération de la Confédération à un projet d’agglomération représente, en fonction de l’efficacité.
+Les demandes de contributions destinées aux infrastructures de transport dans les villes et les agglomérations doivent être déposées auprès de l’Office fédéral du développement territorial (ARE) dans le cadre du projet d’agglomération.
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)). Erratum du 20 fév. 2026 ([RO 2026 86](https://fedlex.data.admin.ch/eli/oc/2026/86)).
 
 #### Art. 21
 
