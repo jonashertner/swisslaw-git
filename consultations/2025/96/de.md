@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Krankenversicherungsaufsichtsverordnung (KVAV): Ausgleich zu hoher Prämieneinnahmen, gezielte Informationen der Versicherten"
 document: Vernehmlassungsvorlage
 language: de

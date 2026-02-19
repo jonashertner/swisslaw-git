@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur la surveillance de l’assurance-maladie (OSAMal): compensation des primes encaissées en trop, informations ciblées aux assurés"
 document: Projet mis en consultation
 language: fr

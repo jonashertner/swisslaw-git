@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sulla vigilanza sull’assicurazione malattie (OVAMal): Compensazione dei premi incassati in eccesso, informazione mirata degli assicurati"
 document: Progetto posto in consultazione
 language: it
