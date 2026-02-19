@@ -4,13 +4,12 @@ number: "131.2"
 title: Verordnung zum Wahl- und Abstimmungsgesetz
 short: "Wahl- und Abstimmungsverordnung, WAV"
 language: de
-version: 2023-01-27
-valid_until: 2026-02-19
-version_adopted: 2023-01-24
+version: 2026-02-20
+version_adopted: 2025-12-16
 adopted: 2008-04-29
 in_force: 2008-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.2"
-pdf: "https://bgs.zg.ch/api/de/versions/2409/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2984/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,13 @@ pdf: "https://bgs.zg.ch/api/de/versions/2409/pdf_file"
 
 (Wahl- und Abstimmungsverordnung, WAV)
 
-Vom 29. April 2008 (Stand 27. Januar 2023)
+Vom 29. April 2008 (Stand 20. Februar 2026)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf § 72 des Wahl- und Abstimmungsgesetzes (WAG) vom 28. September 2006[^ingress-1],
+gestützt auf § 47 Abs. 1 Bst. d der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar
+
+1894[^ingress-1],
 
 beschliesst:
 
@@ -39,8 +40,8 @@ beschliesst:
 
 <sup>1</sup> Einen politischen Wohnsitz, der nicht dem zivilrechtlichen entspricht, können insbesondere haben:
 
-- a) Unter umfassender Beistandschaft stehende Personen,
-- b) Wochenaufenthalterinnen und Wochenaufenthalter,
+- a) Unter umfassender Beistandschaft stehende Personen;
+- b) Wochenaufenthalterinnen und Wochenaufenthalter;
 - c) Verheiratete und in eingetragener Partnerschaft lebende Personen, die sich im Einverständnis der Partnerin oder des Partners, auf richterliche Anordnung oder aufgrund unmittelbarer gesetzlicher Befugnis mit der Absicht dauernden Verbleibens ausserhalb des gemeinsamen Haushalts aufhalten.
 
 <sup>2</sup> Die Vorschriften über die politischen Rechte der Auslandschweizerinnen und -schweizer[^1-1] bleiben vorbehalten.
@@ -53,9 +54,9 @@ beschliesst:
 
 **Grundlage und Form**
 
-<sup>1</sup> Das Stimmregister stützt sich auf das Einwohnerkontrollregister. Es ist mittels elektronischer Datenverarbeitung (EDV) zu führen.
+<sup>1</sup> Das Stimmregister stützt sich auf das Einwohnerkontrollregister. Es ist in elektronischer Form zu führen.
 
-<sup>2</sup> Die Registerführung mittels EDV ist so zu gestalten, dass die erhobenen Daten gesichert sind und jederzeit ausgedruckt werden können.
+<sup>2</sup> Die elektronische Registerführung ist so zu gestalten, dass die erhobenen Daten gesichert sind und jederzeit ausgedruckt werden können.
 
 #### § 3
 
@@ -77,11 +78,7 @@ beschliesst:
 
 #### § 5
 
-**Meldepflichten**
-
-<sup>1</sup> Die zuständige Behörde meldet die Errichtung einer umfassenden Beistandschaft (Art. 398 ZGB) oder deren Aufhebung nach Eintritt der Rechtskraft den Stimmregisterführerinnen und -führern der zuständigen Gemeinde.
-
-<sup>2</sup> Die Stimmregisterführerinnen und -führer melden Personen, die vom Stimmrecht ausgeschlossen sind und aus der Gemeinde ausziehen, der zuständigen Behörde.
+**…**
 
 #### § 6
 
@@ -89,9 +86,9 @@ beschliesst:
 
 #### § 7
 
-**Beschwerden**
+**Anordnungen**
 
-<sup>1</sup> Anordnungen betreffend Eintragungen, Streichungen und Einsichtnahme hat die Registerführerin oder der Registerführer den Betroffenen auf deren Verlangen schriftlich zu begründen und zu eröffnen. Sie können mit Stimmrechtsbeschwerde angefochten werden.
+<sup>1</sup> Anordnungen betreffend Eintragungen, Streichungen und Einsichtnahme hat die Registerführerin oder der Registerführer den Betroffenen auf deren Verlangen schriftlich zu begründen und zu eröffnen.
 
 #### § 8
 
@@ -101,7 +98,7 @@ beschliesst:
 
 <sup>2</sup> Die Einwohnerkontrollen überlassen den Stimmregisterführerinnen und -führern der Bürgergemeinden, der Kirchgemeinden und der Korporationsgemeinden Auszüge über deren Mitglieder.
 
-<sup>3</sup> Für die Mitbenützung des Stimmregisters kann von den anderen öffentlich-rechtlichen Körperschaften der Gemeinde eine kostendeckende Gebühr erhoben werden.
+<sup>3</sup> Für die Mitbenützung des Stimmregisters kann von den Bürger-, Kirch- und Korporationsgemeinden eine kostendeckende Gebühr erhoben werden.
 
 ## 2. Stimmbüro
 
@@ -123,25 +120,25 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Das Stimmbüro hat insbesondere
+<sup>1</sup> Das Stimmbüro ist für die ordnungsgemässe Durchführung der Wahl und Abstimmung verantwortlich. Es hat insbesondere die Stimmabgabe zu überwachen, die Stimm- und Wahlzettel entgegenzunehmen, zu kennzeichnen, zu zählen, über deren Gültigkeit zu entscheiden und ein Protokoll zu erstellen.
 
-- a) die Stimmrechtsausweise entgegenzunehmen, zu kontrollieren und zu zählen,
-- b) die Einlegung der Stimm- und Wahlzettel zu überwachen,
-- c) die Stimm- und Wahlzettel vor dem Einlegen mit dem amtlichen Stempel oder einer anderen amtlichen Kennzeichnung zu versehen,
-- d) die Stimm- und Wahlzettel zu zählen und über deren Gültigkeit zu entscheiden,
-- e) über die Wahl oder Abstimmung ein Protokoll zu erstellen.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>2</sup> Das mit der Abstempelung der Zettel betraute Mitglied des Stimmbüros hat darauf zu achten, dass die oder der Stimmberechtigte für jede Vorlage nur einen Zettel vorweist und diesen persönlich in die Urne legt.
+<sup>2</sup> Zur Erfüllung seiner Aufgaben kann das Stimmbüro Hilfskräfte beiziehen. Diese handeln unter der Verantwortung des Stimmbüros; die Protokollführung obliegt ausschliesslich dem Stimmbüro.
 
-<sup>3</sup> Im Zweifelsfall dürfen die Mitglieder des Stimmbüros die Stimmberechtigung bei Abgabe des Stimmrechtsausweises überprüfen.
+<sup>3</sup> Den Mitgliedern des Stimmbüros und den Hilfskräften ist jede Verletzung des Stimmgeheimnisses sowie jede vorzeitige Auskunft über den Stand der Auszählung untersagt.
 
-<sup>4</sup> Den Mitgliedern des Stimmbüros ist es untersagt, Einsicht in die abgegebenen Stimm- oder Wahlzettel zu nehmen, Stimmmaterial für andere Personen auszufüllen, gegenüber Dritten personenbezogene Angaben über die Stimmabgabe zu machen oder vor der Ermittlung der Resultate Auskünfte über den Stand der Auszählung zu erteilen.
+<sup>4</sup> …
 
 #### § 12
 
-**Instruktion vor Proporzwahlen**
+**Instruktion vor Gesamterneuerungswahlen**
 
-<sup>1</sup> Vor Proporzwahlen führt die Staatskanzlei nach Bedarf Instruktionen durch.
+<sup>1</sup> Vor Gesamterneuerungswahlen führt die Staatskanzlei bei Bedarf Instruktionen durch.
 
 ## 3. Wahl- und Abstimmungslokale; Urnen
 
@@ -159,13 +156,13 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden sorgen für geeignete Lokale und genügende Aufsicht für die vorzeitige und briefliche Stimmabgabe.
 
-<sup>2</sup> Vorzeitig und brieflich eingegangene Rücksendekuverts sind zu zählen und umgehend unter Wahrung des Stimmgeheimnisses in einem sicheren Behältnis (versiegelte Urne, Tresor usw.) zu verschliessen. Die Zahl der eingegangenen Rücksendekuverts ist täglich schriftlich festzuhalten.
+<sup>2</sup> Vorzeitig und brieflich eingegangene Rücksendekuverts sind zu zählen und umgehend unter Wahrung des Stimmgeheimnisses in einem sicheren Raum oder Behältnis (versiegelte Urne, Tresor und dergleichen) zu verschliessen. Die Zahl der eingegangenen Rücksendekuverts ist täglich schriftlich festzuhalten.
 
 #### § 15
 
 **Mitteilung, Veröffentlichung**
 
-<sup>1</sup> Bei eidgenössischen und kantonalen Wahlen und Abstimmungen teilt der Gemeinderat den Standort der Wahl- und Abstimmungslokale sowie die Urnenöffnungszeiten am Abstimmungssonntag und an den Vortagen spätestens bis am achtletzten Montag vor dem Wahl- oder Abstimmungssonntag der Staatskanzlei mit.
+<sup>1</sup> Bei eidgenössischen und kantonalen Wahlen und Abstimmungen teilt der Gemeinderat den Standort der Wahl- und Abstimmungslokale sowie die Urnenöffnungszeiten spätestens bis am achtletzten Montag vor dem Wahl- oder Abstimmungssonntag der Staatskanzlei mit.
 
 <sup>2</sup> Die Staatskanzlei veröffentlicht in den beiden letzten Amtsblättern vor dem Abstimmungssonntag eine Zusammenstellung der Wahl- und Abstimmungslokale und -zeiten in sämtlichen Gemeinden.
 
@@ -225,7 +222,7 @@ beschliesst:
 
 <sup>1</sup> Die Stimm- und Wahlzettel haben den Wahl- oder Abstimmungskreis, den Gegenstand der Wahl oder Abstimmung und das Datum des Hauptabstimmungstages zu bezeichnen.
 
-<sup>2</sup> Im übrigen sind sie so zu gestalten, dass die sachgerechte Willensäusserung gewährleistet ist.
+<sup>2</sup> Im Übrigen sind sie so zu gestalten, dass die freie Willensbildung und die unverfälschte Stimmabgabe gewährleistet sind.
 
 #### § 23
 
@@ -247,23 +244,17 @@ beschliesst:
 
 <sup>2</sup> In gleicher Weise kann das Stimmbüro der Haupturne einer stimmberechtigten Person ausnahmsweise das Stimmmaterial am Abstimmungssonntag abgeben.
 
-<sup>3</sup> Auf die Möglichkeiten gemäss Abs. 1 und 2 haben die Gemeinden die Bevölkerung regelmässig aufmerksam zu machen.
+<sup>3</sup> …
 
 #### § 26
 
-**Zustellung des Stimmmaterials**
+**Frühere Abgabe der Abstimmungsvorlage mit Erläuterung**
 
-<sup>1</sup> Das Stimmmaterial wird den Stimmberechtigten in einem Kuvert zugestellt, das als Rücksendekuvert für die briefliche Stimmabgabe verwendet werden kann. Die Abstimmungsvorlage mit Erläuterung darf auch früher abgegeben werden.
+<sup>1</sup> Die Abstimmungsvorlage mit Erläuterung darf auch früher abgegeben werden.
 
 #### § 27
 
-**Amtliche Abstimmungserläuterungen**
-
-<sup>1</sup> Die Richtlinien des Regierungsrates über die Ausgestaltung von amtlichen Abstimmungserläuterungen[^27-1] gelten sinngemäss auch für die Gemeinden.
-
-<sup>2</sup> Bei besonders umfangreichen oder komplizierten Vorlagen können die Stimmberechtigten in den Abstimmungserläuterungen auf ergänzende Unterlagen verwiesen werden, die auf der zuständigen Verwaltungsstelle oder im Internet eingesehen werden können.
-
-[^27-1]: BGS [131.7](https://bgs.zg.ch/data/131.7/de)
+**…**
 
 #### § 28
 
@@ -271,17 +262,27 @@ beschliesst:
 
 <sup>1</sup> Bei Gemeindewahlen und -abstimmungen ist die Herstellung des Wahl- und Stimmmaterials Sache der Gemeinden.
 
-## 5. Stimmabgabe behinderter Menschen
+## 5. Menschen mit Behinderung
 
 #### § 29
 
 **Stellvertretung**
 
-<sup>1</sup> Die Stellvertretung im Sinne von § 16 des Gesetzes kann jeder stimmberechtigten Person übertragen werden.
+<sup>1</sup> Die Stellvertretung im Sinne von § 16 WAG[^29-1] füllt die Wahl- oder Stimmzettel gemäss den Anweisungen der stimmberechtigten Person in deren Gegenwart aus.
 
 <sup>2</sup> Die Stellvertretung kann für eine einzelne Wahl oder Abstimmung, für eine bestimmte Zeit oder auf Widerruf übertragen werden.
 
 <sup>3</sup> Ist die behinderte Person nicht in der Lage, den Stimmrechtsausweis selber zu unterschreiben, unterzeichnet ihn die Stellvertreterin oder der Stellvertreter mit dem Vermerk «i.V.».
+
+[^29-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
+
+#### § 29a
+
+**Barrierefreie Wahl- und Abstimmungsunterlagen**
+
+<sup>1</sup> Zur Umsetzung von § 9a WAG[^29a-1] stellen der Kanton und die Einwohnergemeinden auf digitalen Kanälen zeitgleich mit den regulären Wahl- und Abstimmungsunterlagen eine barrierefreie Audiofassung oder ein barrierefreies digitales Format bereit.
+
+[^29a-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 ## 6. Auszählung; Mitteilung der Ergebnisse
 
@@ -317,7 +318,7 @@ beschliesst:
 
 **Nachzählung bei knappem Ausgang einer Abstimmung oder einer Majorzwahl**
 
-<sup>1</sup> Bei kantonalen und gemeindlichen Abstimmungen und Majorzwahlen ordnet die Staatskanzlei eine Nachzählung an.
+<sup>1</sup> …
 
 <sup>2</sup> Eine Nachzählung findet statt, sofern beim Gesamtergebnis
 
@@ -347,9 +348,7 @@ beschliesst:
 
 #### § 35
 
-**Leere Stimmen**
-
-<sup>1</sup> In Ergänzung zu § 19 Abs. 2 WAG ist bei Abstimmungen die Stimme leer, wenn die Abstimmungsfrage nicht beantwortet ist.
+**…**
 
 #### § 36
 
@@ -363,7 +362,9 @@ beschliesst:
 
 <sup>1</sup> Bei ungültig erklärten Stimm- und Wahlzetteln ist der Grund der Ungültigkeit auf dem Zettel anzugeben und mit dem Kürzel eines Mitglieds des Stimmbüros zu versehen.
 
-<sup>2</sup> Bei Rücksendekuverts ist der Grund, weshalb sie im Sinne von § 15 Abs. 2 des Gesetzes für den Urnengang ausser Betracht fallen, in gleicher Weise zu vermerken.
+<sup>2</sup> Bei Rücksendekuverts ist der Grund, weshalb sie im Sinne von § 15 Abs. 2 WAG[^37-1] für den Urnengang ausser Betracht fallen, in gleicher Weise zu vermerken.
+
+[^37-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 ## 8. Protokollierung; Sicherung des Stimmmaterials
 
@@ -371,26 +372,27 @@ beschliesst:
 
 **Protokoll**
 
-<sup>1</sup> Das Protokoll ist im Doppel nach den Vorgaben der Staatskanzlei zu erstellen.
+<sup>1</sup> Das Protokoll ist nach den Vorgaben der Staatskanzlei zu erstellen.
 
-<sup>2</sup> Es enthält den Ort sowie die Namen der Mitglieder des Stimmbüros, ferner, getrennt nach eidgenössischen, kantonalen und kommunalen Abstimmungen und Wahlen:
+<sup>2</sup> Es wird von der oder dem Vorsitzenden und der Protokollführerin oder dem Protokollführer des Stimmbüros unterzeichnet und enthält, getrennt nach eidgenössischen, kantonalen und kommunalen Abstimmungen und Wahlen:
 
-- a) die Zahl der Stimmberechtigten gemäss Stimmregister,
-- b) die Zahl der eingegangenen Stimmrechtsausweise,
-- c) die Gesamtzahl der eingelangten Stimmzettel,
-- d) die Zahl der leeren Zettel,
-- e) die Zahl der ungültigen Zettel,
-- f) die Zahl der gültigen Zettel,
-- g) bei Abstimmungen die Zahl der annehmenden und der verwerfenden Stimmen,
-- h) bei Wahlen die Angaben gemäss §§ 45 und 54 des Gesetzes,
-- i) die Zahl der ungültigen Rücksendungen bei der brieflichen Stimmabgabe (§ 14 des Gesetzes),
-- k) bei eidgenössischen Wahlen und Abstimmungen: die Zahl der stimmberechtigten Auslandschweizerinnen und Auslandschweizer (Art. 14 Abs. 1 BPR[^38-1]).
+- a) die Zahl der Stimmberechtigten gemäss Stimmregister;
+- b) die Zahl der eingegangenen Stimmrechtsausweise;
+- c) die Gesamtzahl der eingelangten Stimmzettel;
+- d) die Zahl der leeren Zettel;
+- e) die Zahl der ungültigen Zettel;
+- f) die Zahl der gültigen Zettel;
+- g) bei Abstimmungen die Zahl der annehmenden und der verwerfenden Stimmen;
+- h) bei Wahlen die Angaben gemäss § 45 und § 54 WAG[^38-1];
+- i) die Zahl der ungültigen Rücksendungen bei der brieflichen Stimmabgabe (§ 14 WAG);
+- k) bei eidgenössischen Wahlen und Abstimmungen: die Zahl der stimmberechtigten Auslandschweizerinnen und Auslandschweizer (Art. 14 Abs. 1 BPR[^38-2]).
 
-<sup>3</sup> Eine Ausfertigung des Protokolls bleibt auf der Gemeindekanzlei, die andere ist am Montag nach dem Urnengang der Direktion des Innern zuzustellen.
+<sup>3</sup> Bei eidgenössischen und kantonalen Abstimmungen und Wahlen ist das Original am Montag nach dem Urnengang der Direktion des Innern zuzustellen. Eine Kopie des Protokolls bleibt auf der Gemeindekanzlei.
 
 <sup>4</sup> Allfällige Einsprachen oder Bemerkungen von Mitgliedern des Stimmbüros sind vor Unterzeichnung des Protokolls anzubringen.
 
-[^38-1]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de)
+[^38-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
+[^38-2]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de)
 
 #### § 39
 
@@ -416,11 +418,13 @@ beschliesst:
 
 <sup>1</sup> Die Wahlvorschläge müssen mindestens enthalten: Name und Vornamen, Jahrgang und Wohnadresse sowohl der Unterzeichnenden als auch der Vorgeschlagenen sowie gegebenenfalls den Zusatz «bisher».
 
-<sup>2</sup> Die Unterzeichnenden der Wahlvorschläge müssen am Tag, an dem die Wahlvorschläge eingereicht werden, im Stimmregister eingetragen sein.
+<sup>2</sup> Bei der Publikation der bereinigten Listen (§ 37 WAG[^41-1]) und der bereinigten Wahlvorschläge (§ 37a WAG) wird anstelle der Wohnadresse lediglich der Wohnort angegeben.
+
+[^41-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 #### § 42
 
-**Unzulässige Bezeichnung des Wahlvorschlages**
+**Unzulässige Bezeichnung des Wahlvorschlags**
 
 <sup>1</sup> Weist ein Wahlvorschlag eine irreführende oder gegen die guten Sitten verstossende Bezeichnung auf, so setzt die Staatskanzlei bzw. die Gemeindeschreiberin oder der Gemeindeschreiber der Vertreterin oder dem Vertreter der Unterzeichnenden eine kurze Frist zur Behebung des Mangels.
 
@@ -428,15 +432,17 @@ beschliesst:
 
 #### § 43
 
-**Annahme des Wahlvorschlages**
+**Annahme des Wahlvorschlags**
 
-<sup>1</sup> Die Bestätigung, den Wahlvorschlag anzunehmen, ist zusammen mit dem Wahlvorschlag einzureichen; sie kann nicht widerrufen werden.
+<sup>1</sup> Die Bestätigung, den Wahlvorschlag anzunehmen, ist zusammen mit dem Wahlvorschlag einzureichen.
 
 #### § 44
 
 **Ungültiger Wahlvorschlag; Zuständigkeit**
 
-<sup>1</sup> Wird ein Mangel nicht im Sinne von § 35 Abs. 3 des Gesetzes behoben, erklärt die Staatskanzlei bzw. die Gemeindeschreiberin oder der Gemeindeschreiber den Wahlvorschlag als ungültig.
+<sup>1</sup> Wird ein Mangel nicht im Sinne von § 35 Abs. 3 WAG[^44-1] behoben, erklärt die Staatskanzlei bzw. die Gemeindeschreiberin oder der Gemeindeschreiber den Wahlvorschlag als ungültig.
+
+[^44-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 #### § 45
 
@@ -495,28 +501,29 @@ beschliesst:
 <sup>1</sup> Der Wahlzettelbogen enthält:
 
 - a) eine amtliche Wegleitung für die Stimmabgabe;
-- b) ein Beiblatt gemäss § 39 Abs. 1a des Wahl- und Abstimmungsgesetzes[^47b-1];
+- b) ein Beiblatt gemäss § 39 Abs. 1a WAG[^47b-1];
 - c) einen einzigen leeren Wahlzettel.
 
 <sup>2</sup> Durch Perforation voneinander getrennt sind nur das Beiblatt und der leere Wahlzettel.
 
 <sup>3</sup> Auf dem Beiblatt wird ausdrücklich erwähnt, dass dieses nicht als Wahlzettel verwendet werden darf.
 
-<sup>4</sup> Auf dem leeren Wahlzettel wird ausdrücklich erwähnt, dass nur dieser in das Wahlzettelkuvert oder in die Urne gelegt werden darf.
+<sup>4</sup> Auf dem leeren Wahlzettel wird ausdrücklich erwähnt, dass nur dieser in das Stimmzettelkuvert oder in die Urne gelegt werden darf.
 
-<sup>5</sup> Für die Wahlzettelbogengestaltung im Majorzverfahren sind im Weiteren die Muster in den Anhängen 2 bis 4[^47b-2] massgebend.
+<sup>5</sup> Für die Wahlzettelbogengestaltung im Majorzverfahren sind im Weiteren die Muster in den Anhängen 3 bis 5[^47b-2] massgebend.
 
 [^47b-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
-[^47b-2]: BGS [131.2-A2](https://bgs.zg.ch/data/131.2-A2/de), BGS [131.2-A3](https://bgs.zg.ch/data/131.2-A3/de), BGS [131.2-A4](https://bgs.zg.ch/data/131.2-A4/de)
+[^47b-2]: BGS [131.2-A3](https://bgs.zg.ch/data/131.2-A3/de), BGS [131.2-A4](https://bgs.zg.ch/data/131.2-A4/de), BGS [131.2-A5](https://bgs.zg.ch/data/131.2-A5/de)
 
 #### § 47c
 
 **Geringfügige Anpassungen**
 
-<sup>1</sup> Im Einvernehmen mit der Wahlaufsicht (§ 6 Abs. 1 Wahl- und Abstimmungsgesetz[^47c-1]) kann die Staatskanzlei geringfügige Anpassungen an den Mustern der Wahlzettelbogen gemäss den Anhängen 1 bis 4[^47c-2] vornehmen, so namentlich redaktionelle Bereinigungen, Anpassungen der Schriftgrössen oder Veränderungen der grafischen Elemente. Die Staatskanzlei orientiert die Einwohnergemeinden.
+<sup>1</sup> Im Einvernehmen mit der Wahlaufsicht (§ 6 Abs. 1 WAG[^47c-1]) kann die Staatskanzlei geringfügige Anpassungen an den Mustern der Wahlzettelbogen gemäss den Anhängen 1 bis 5[^47c-2] sowie an den Mustern der Stimmzettel gemäss den Anhängen 6 bis 8[^47c-3] vornehmen, so namentlich redaktionelle Bereinigungen, Anpassungen der Schriftgrössen oder Veränderungen der grafischen Elemente. Die Staatskanzlei orientiert die Einwohnergemeinden.
 
 [^47c-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
-[^47c-2]: BGS [131.2-A1](https://bgs.zg.ch/data/131.2-A1/de), BGS [131.2-A2](https://bgs.zg.ch/data/131.2-A2/de), BGS [131.2-A3](https://bgs.zg.ch/data/131.2-A3/de), BGS [131.2-A4](https://bgs.zg.ch/data/131.2-A4/de)
+[^47c-2]: BGS [131.2-A1](https://bgs.zg.ch/data/131.2-A1/de), BGS [131.2-A2](https://bgs.zg.ch/data/131.2-A2/de), BGS [131.2-A3](https://bgs.zg.ch/data/131.2-A3/de), BGS [131.2-A4](https://bgs.zg.ch/data/131.2-A4/de), BGS [131.2-A5](https://bgs.zg.ch/data/131.2-A5/de)
+[^47c-3]: BGS [131.2-A6](https://bgs.zg.ch/data/131.2-A6/de), BGS [131.2-A7](https://bgs.zg.ch/data/131.2-A7/de), BGS [131.2-A8](https://bgs.zg.ch/data/131.2-A8/de)
 
 ### 9.4. Weitere Bestimmungen
 
@@ -524,7 +531,7 @@ beschliesst:
 
 **Bereinigung veränderter Wahlzettel**
 
-<sup>1</sup> Streichungen sind vom Stimmbüro so vorzunehmen, dass sie als solche erkennbar sind.
+<sup>1</sup> Streichungen sowie die Ergänzung fehlender Kandidatennummern sind vom Stimmbüro oder dessen Hilfskräfte so vorzunehmen, dass sie als solche erkennbar sind.
 
 <sup>2</sup> Ergänzungen am Text der Zettel wie die Verbesserung von Namen sind nicht zulässig.
 
@@ -532,17 +539,11 @@ beschliesst:
 
 **Unzulässige Wiederholung von Kandidatennamen**
 
-<sup>1</sup> Wiederholungszeichen oder Ausdrücke, die eine Wiederholung andeuten (Gänsefüsschen, «dito» usw.) zum Zwecke der doppelten Eintragung eines Kandidatennamens sind ungültig. Die Linien, die solche Zeichen oder Ausdrücke enthalten, gelten als leere Linien.
+<sup>1</sup> Wiederholungszeichen oder Ausdrücke, die eine Wiederholung andeuten (Gänsefüsschen, «dito» und dergleichen) zum Zwecke der doppelten Eintragung eines Kandidatennamens sind ungültig. Die Linien, die solche Zeichen oder Ausdrücke enthalten, gelten als leere Linien.
 
 #### § 50
 
-**Nachrücken; Anfechtbarkeit**
-
-<sup>1</sup> …
-
-<sup>2</sup> Die Gewählterklärung beim Nachrücken ist mit Stimmrechtsbeschwerde anfechtbar.
-
-<sup>3</sup> Die Publikation des Beschlusses im Amtsblatt hat eine Rechtsmittelbelehrung zu enthalten.
+**…**
 
 #### § 51
 
@@ -550,9 +551,17 @@ beschliesst:
 
 <sup>1</sup> Die Standesweibelin oder der Standesweibel bzw. der Landschreiber oder deren Stellvertretung zieht das Los bei den Ständerats-, den Regierungsrats- und den Richterwahlen. Bei der Losziehung sind anwesend die Frau Landammann bzw. der Landammann und die Landschreiberin bzw. der Landschreiber.
 
-<sup>2</sup> In den übrigen Fällen zieht die Gemeindeweibelin oder der Gemeindeweibel das Los in Anwesenheit der Gemeindepräsidentin bzw. des Gemeindepräsidenten und der Gemeindeschreiberin bzw. des Gemeindeschreibers oder deren Stellvertretung.
+<sup>2</sup> In den übrigen Fällen zieht ein Mitglied des Stimmbüros das Los in Anwesenheit der Gemeindepräsidentin bzw. des Gemeindepräsidenten und der Gemeindeschreiberin bzw. des Gemeindeschreibers oder deren Stellvertretung.
 
 <sup>3</sup> Die betroffenen Kandidatinnen und Kandidaten sind zur Losziehung einzuladen.
+
+#### § 51a
+
+**Majorzbedingung**
+
+<sup>1</sup> Die stimmenstärkste Liste in einem Wahlkreis gemäss § 52e Abs. 1a WAG[^51a-1] ist die Liste, die an der Sitzverteilung teilnimmt und die meisten Parteistimmen innerhalb des Wahlkreises auf sich vereint. In einem Wahlkreis kann es maximal so viele stimmenstärkste Listen geben, wie Sitze zu verteilen sind. Verfügen noch mehr Listen über die gleiche Parteistimmenzahl, dann entscheidet das Los welche davon als stimmenstärkste gelten.
+
+[^51a-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 ## 10. Verschiedene Bestimmungen
 
@@ -564,9 +573,7 @@ beschliesst:
 
 #### § 53
 
-**Weiterführung der Amtsgeschäfte bei Beschwerden**
-
-<sup>1</sup> Wird eine Wahl kassiert, haben die bisherigen Mitglieder der Behörde die Amtsgeschäfte so lange weiterzuführen, bis eine gültige Neuwahl zustande gekommen ist.
+**…**
 
 #### § 54
 
@@ -588,8 +595,6 @@ beschliesst:
 
 #### § 56
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Juli 2008 in Kraft.
+**…**
 
 GS 29, 707
