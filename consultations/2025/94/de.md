@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über den CO2-Grenzausgleich bei der Einfuhr von Zementwaren (CO2-GAZG) – Umsetzung der parlamentarischen Initiative 21.432
 document: Vernehmlassungsvorlage
 language: de

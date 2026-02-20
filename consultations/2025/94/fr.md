@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale relative à l’ajustement carbone aux frontières lors de l’importation de marchandises à base de ciment (LACFC) – Mise en œuvre de l’initiative parlementaire 21.432
 document: Projet mis en consultation
 language: fr

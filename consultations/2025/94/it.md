@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale concernente l’adeguamento del carbonio alle frontiere nell’importazione di merci in cemento (LACFC) – Attuazione dell’iniziativa parlamentare 21.432
 document: Progetto posto in consultazione
 language: it
