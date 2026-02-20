@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione della modifica al trattato sulla Carta dell’energia
 document: Progetto posto in consultazione-2
 language: it

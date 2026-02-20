@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung der Änderung zum Vertrag über die Energiecharta
 document: Vernehmlassungsvorlage-2
 language: de

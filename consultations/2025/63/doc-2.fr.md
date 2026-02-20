@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation de la modification du Traité sur la Charte de l’énergie
 document: Projet mis en consultation-2
 language: fr
