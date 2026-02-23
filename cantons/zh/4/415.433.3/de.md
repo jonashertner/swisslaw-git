@@ -3,23 +3,24 @@ canton: ZH
 number: "415.433.3"
 title: Verordnung über die Promotion zum Doctor scientiarum medicarum oder zum Doctor scientiarum medicarum dentium an der Medizinischen Fakultät der Universität Zürich (PromVO Dr. sc. med. / Dr. sc. med. dent.)
 language: de
-nachtrag: "116"
-valid_until: 2026-02-23
+version: "2026-02-01"
+nachtrag: "132"
 adopted: 2021-09-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_433_3-2021_09_06-2022_02_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_433_3-2021_09_06-2022_02_01-132.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Promotion zum Doctor scientiarum medicarum (Dr. sc. med.) an der Medizinischen Fakultät der Universität Zürich (PromVO Dr. sc. med.)
+# Verordnung über die Promotion zum Doctor scientiarum medicarum oder zum Doctor scientiarum medicarum dentium an der Medizinischen Fakultät der Universität Zürich (PromVO Dr. sc. med. / Dr. sc. med. dent.)
 
-(vom 6. September 2021)[^t-1],[^t-2]
+(vom 6. September 2021)[^t-2],[^t-3][^t-1]
 
 Der Universitätsrat beschliesst:
 
-[^t-1]: OS 77, 41; Begründung siehe ABl 2021-10-01.
-[^t-2]: Inkrafttreten: 1. Februar 2022.
+[^t-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 47; ABl 2025-12-19). In Kraft seit 1. Februar 2026.
+[^t-2]: OS 77, 41; Begründung siehe ABl 2021-10-01.
+[^t-3]: Inkrafttreten: 1. Februar 2022.
 
 ### I. Allgemeine Bestimmungen
 
@@ -37,11 +38,11 @@ Diese Promotionsverordnung regelt die strukturierten Doktoratsprogramme in Mediz
 
 <sup>2</sup> Der Abschluss erfolgt in einem der in den Doktoratsordnungen geregelten Doktoratsprogramme.
 
-#### § 3
-
 **Grad**
 
-Die Fakultät verleiht den Grad einer Doktorin oder eines Doktors der Medizinischen Wissenschaften (Dr. sc. med.; Englisch: PhD).
+§ 3.[^2-1] Die Fakultät verleiht den Grad einer Doktorin oder eines Doktors der Medizinischen Wissenschaften (Dr. sc. med.; Englisch: PhD) oder einer Doktorin oder eines Doktors der Zahnmedizinischen Wissenschaften (Dr. sc. med. dent.; Englisch: PhD).
+
+[^2-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 47; ABl 2025-12-19). In Kraft seit 1. Februar 2026.
 
 #### § 4
 
@@ -57,11 +58,11 @@ Die Fakultät erlässt Doktoratsordnungen, in denen insbesondere die Anforderung
 
 <sup>2</sup> Die Doktoratsvereinbarung enthält Hinweise zu den geltenden Ethikrichtlinien sowie zur Verwendung und Herkunft von Daten.
 
-<sup>3</sup> Die Doktoratsvereinbarung kann an veränderte Umstände angepasst werden. Sie ist ein Hilfs- und Orientierungsinstrument zur optimalen Ausgestaltung der Doktoratsstufe.
-
 **1**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 26 - 132
+
+<sup>3</sup> Die Doktoratsvereinbarung kann an veränderte Umstände angepasst werden. Sie ist ein Hilfs- und Orientierungsinstrument zur optimalen Ausgestaltung der Doktoratsstufe.
 
 <sup>4</sup> Die Doktoratsvereinbarung kann beim Vorliegen wichtiger Gründe einseitig aufgelöst werden. Als wichtige Gründe gelten insbesondere:
 
@@ -117,17 +118,19 @@ Bei einer zusätzlichen Anstellung von Doktorierenden von mehr als 10% in Ergän
 
 <sup>5</sup> Bei gemeinsam angebotenen überfakultären Doktoratsprogrammen kann ein gemeinsames Leitungsgremium eingesetzt werden.
 
-#### § 9
-
 **Promotionskommission**
 
-<sup>1</sup> Die Leiterin oder der Leiter der Dissertation bestimmt innerhalb von sechs Monaten nach Beginn des Doktorats eine Promotionskommission. Sie bzw. er hält dazu Rücksprache mit der oder dem Doktorierenden.
+§ 9.[^8-1] <sup>1</sup> Die Leiterin oder der Leiter der Dissertation bestimmt innerhalb von sechs Monaten nach Beginn des Doktorats eine Promotionskommission. Sie bzw. er hält dazu Rücksprache mit der oder dem Doktorierenden.
 
-<sup>2</sup> Die Promotionskommission besteht aus mindestens drei Mitgliedern. Dies sind die Leiterin oder der Leiter der Dissertation, ein Mitglied mit Promotionsrecht sowie ein weiteres Mitglied, das mindestens promoviert sein muss und vorzugsweise nicht an der Universität Zürich oder ETH Zürich angestellt ist. Den Vorsitz führt ein Mitglied der Medizinischen Fakultät.
+<sup>2</sup> Die Promotionskommission besteht aus der Leiterin oder dem Leiter der Dissertation und mindestens zwei weiteren Mitgliedern.
 
-<sup>3</sup> Bei Dissertationen, die sich über mehrere Wissensgebiete bzw. fachliche Disziplinen erstrecken, nehmen externe Mitglieder aus anderen Fakultäten bzw. Universitäten in der Promotionskommission Einsitz. Die Mehrheit der Mitglieder gehört jedoch der Medizinischen Fakultät der Universität Zürich an.
+<sup>3</sup> Mindestens zwei Mitglieder müssen entweder Fakultätsmitglied oder Titularprofessorin oder Titularprofessor der Fakultät mit Promotionsrecht sein. Bei interdisziplinären Dissertationen kann eines dieser Mitglieder durch eine Angehörige oder einen Angehörigen mit Promotionsrecht einer anderen Fakultät der UZH substituiert werden.
 
-<sup>4</sup> Die Promotionskommission hat insbesondere folgende Aufgaben:
+<sup>4</sup> Ein Mitglied sollte mindestens promoviert und vorzugsweise nicht an der Universität Zürich oder ETH Zürich angestellt sein.
+
+<sup>5</sup> Den Vorsitz führt ein Fakultätsmitglied. Es kann sich dabei auch um die Leiterin oder den Leiter der Dissertation handeln.
+
+<sup>6</sup> Die Promotionskommission hat insbesondere folgende Aufgaben:
 
 - a. Erstellung der Doktoratsvereinbarung gemäss § 5 sowie deren mögliche Änderung, Ergänzung und Auflösung,
 
@@ -139,6 +142,8 @@ Bei einer zusätzlichen Anstellung von Doktorierenden von mehr als 10% in Ergän
 
 - e. Entscheid über die Verlängerung der Dauer des Doktorats.
 
+[^8-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 47; ABl 2025-12-19). In Kraft seit 1. Februar 2026.
+
 #### § 10
 
 **Leiterin oder Leiter der Dissertation**
@@ -149,7 +154,7 @@ Bei einer zusätzlichen Anstellung von Doktorierenden von mehr als 10% in Ergän
 
 **3**
 
-- 1\. 4. 22 - 116
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Ihre bzw. seine Aufgaben sind insbesondere:
 
@@ -159,13 +164,9 @@ Bei einer zusätzlichen Anstellung von Doktorierenden von mehr als 10% in Ergän
 
 - c. Erstellung eines Fachgutachtens.
 
-#### § 11
+§ 11.[^10-1]
 
-**Promotionsrecht**
-
-<sup>1</sup> Das Promotionsrecht Dr. sc. med. haben a. die Fakultätsmitglieder und b. die Inhaberinnen und Inhaber einer Titularprofessur der Medizinischen Fakultät, sofern die Voraussetzungen gemäss Abs. 2 erfüllt sind.
-
-<sup>2</sup> Titularprofessorinnen bzw. Titularprofessoren der Medizinischen Fakultät, die an den universitären Spitälern, den Partnerspitälern, den Lehrspitälern oder als im Vorlesungsverzeichnis der Universität Zürich genannte Lehrbeauftragte der Medizinischen Fakultät tätig sind, können das Promotionsrecht erhalten. Sie müssen dies bei der Dekanin bzw. dem Dekan beantragen. Sobald die Zustimmung des zuständigen Fachbereiches und nachfolgend der Fakultät vorliegen, sind sie berechtigt, die Dissertationsleitung alleinverantwortlich zu übernehmen.
+[^10-1]: Aufgehoben durch URB vom 11. Dezember 2025 (OS 81, 47; ABl 2025-12-19). In Kraft seit 1. Februar 2026. 1. 4. 26 - 132 11
 
 ### III. Zulassung
 
@@ -181,16 +182,11 @@ Bei einer zusätzlichen Anstellung von Doktorierenden von mehr als 10% in Ergän
 
 - b. Masterdiplom einer ausländischen Fachhochschule oder Pädagogischen Hochschule, die über eine Anerkennung eines Staates verfügt, der das Übereinkommen vom 11. April 1997 über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region (Lissabonner Konvention)[^12-2] ratifiziert hat.
 
-<sup>3</sup> Weitere Voraussetzung für die Zulassung ist der Aufnahmeentscheid in das jeweilige Doktoratsprogramm sowie die von der Leiterin oder dem Leiter der Dissertation bzw. einer Person mit Promotionsrecht gemäss § 11 unterzeichnete Betreuungsbestätigung.
+<sup>3</sup> Weitere Voraussetzung für die Zulassung ist der Aufnahmeentscheid in das jeweilige Doktoratsprogramm sowie die von der Leiterin oder dem Leiter der Dissertation bzw. einer Person mit Promotionsrecht unterzeichnete Betreuungsbestätigung.[^12-3]
 
-<sup>4</sup> Die Doktoratsprogrammkommission entscheidet über die Aufnahme in ein Doktoratsprogramm.
-
-<sup>5</sup> Die Zulassung kann mit Bedingungen und Auflagen erfolgen.
-
-<sup>6</sup> Es besteht kein Anspruch auf Zulassung.
-
-[^12-1]: SR 414.20. 1. 4. 22 - 116 11
+[^12-1]: SR 414.20.
 [^12-2]: SR 0.414.8.
+[^12-3]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 47; ABl 2025-12-19). In Kraft seit 1. Februar 2026.
 
 ### IV. Struktur und Dauer des Doktorats
 
@@ -236,10 +232,6 @@ Bei einer zusätzlichen Anstellung von Doktorierenden von mehr als 10% in Ergän
 
 <sup>2</sup> Jedem Modul wird eine Anzahl von ECTS Credits (in ganzen Zahlen) zugewiesen, die dem für das erfolgreiche Absolvieren des Moduls erwarteten mittleren Arbeitsaufwand entspricht.
 
-**5**
-
-- 1\. 4. 22 - 116
-
 <sup>3</sup> Für die Vergabe von ECTS Credits muss die oder der Doktorierende einen expliziten Leistungsnachweis bestehen. Die Vergabe von ECTS Credits auf Basis blosser Anwesenheit ist ausgeschlossen.
 
 <sup>4</sup> Die dem Modul zugewiesene Anzahl von ECTS Credits wird immer vollständig vergeben, eine anteilige Vergabe ist nicht zulässig.
@@ -254,13 +246,13 @@ Bei einer zusätzlichen Anstellung von Doktorierenden von mehr als 10% in Ergän
 
 <sup>3</sup> Der Leistungsnachweis gilt als bestanden, wenn mindestens die Note 4 erreicht wurde.
 
-#### § 18
+**5**
 
-**Modulangaben**
-
-Die Module und alle damit zusammenhängenden studienrelevanten Angaben werden in geeigneter Form bekannt gegeben.
+- 1\. 4. 26 - 132 § 18. Die Module und alle damit zusammenhängenden studienrelevanten Angaben werden in geeigneter Form bekannt gegeben.
 
 #### § 19
+
+**Modulangaben**
 
 **An- und Abmeldung von Modulen**
 
@@ -322,10 +314,6 @@ Die Module und alle damit zusammenhängenden studienrelevanten Angaben werden in
 
 <sup>3</sup> Es obliegt den Doktorierenden, die notwendigen Unterlagen beizubringen.
 
-**7**
-
-- 1\. 4. 22 - 116
-
 ### VI. Dissertation
 
 #### § 25
@@ -347,6 +335,10 @@ Die Dissertation ist in deutscher oder englischer Sprache abzufassen. Die Promot
 **Gutachten**
 
 <sup>1</sup> Die oder der Vorsitzende der Promotionskommission verfasst ein Fachgutachten über die Dissertation. Sofern es sich bei der oder dem Vorsitzenden der Promotionskommission und der Leiterin oder dem Leiter der Dissertation um verschiedene Personen handelt, ist das Gutachten gemeinsam zu verfassen.
+
+**7**
+
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Die oder der Vorsitzende der Promotionskommission veranlasst in jedem Fall die Einholung eines zusätzlichen externen Fachgutachtens:
 
@@ -393,11 +385,13 @@ Die Dissertation ist in deutscher oder englischer Sprache abzufassen. Die Promot
 
 <sup>2</sup> Die Promotionskommission setzt den Termin zur Promotionsprüfung mit den Doktorierenden fest.
 
+[^30-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 47; ABl 2025-12-19). In Kraft seit 1. Februar 2026.
+
 #### § 31
 
 **Promotionsprüfung**
 
-<sup>1</sup> Während der Promotionsprüfung muss die Promotionskommission anwesend sein. Es soll mindestens ein weiteres Fakultätsmitglied teilnehmen.
+<sup>1</sup> Während der Promotionsprüfung muss die Promotionskommission anwesend sein.[^30-1]
 
 <sup>2</sup> Die Promotionsprüfung besteht aus a. der Präsentation der Dissertation durch die oder den Doktorierenden und b. der Befragung durch die Promotionskommission.
 
@@ -411,25 +405,36 @@ Die Dissertation ist in deutscher oder englischer Sprache abzufassen. Die Promot
 
 <sup>7</sup> Wird die Promotionsprüfung nicht bestanden, kann sie einmal vollständig wiederholt werden.
 
-**9**
-
-- 1\. 4. 22 - 116 § 32. <sup>1</sup> Die Ernennung zur Doktorin oder zum Doktor der Medizinischen Wissenschaften (Dr. sc. med.; Englisch PhD) erfolgt durch die Aushändigung der unterzeichneten Doktoratsurkunde.
-
 **Ernennung**
 
-<sup>2</sup> Der Titel «Dr. sc. med.» bzw. «PhD» darf ab dem Ausstellungsdatum der Promotionsurkunde geführt werden.
+§ 32.[^31-1] <sup>1</sup> Die Ernennung zur Doktorin oder zum Doktor der Medizinischen Wissenschaften (Dr. sc. med.; Englisch: PhD) oder zur Doktorin oder zum Doktor der Zahnmedizinischen Wissenschaften (Dr. sc. med. dent.; Englisch PhD) erfolgt durch die Aushändigung der unterzeichneten Promotionsurkunde.
 
-#### § 33
+<sup>2</sup> Der Titel «Dr. sc. med.» oder «Dr. sc. med. dent.» bzw. «PhD» darf ab dem Ausstellungsdatum der Promotionsurkunde geführt werden.
 
-**Pflichtexemplare und nachträgliche Änderungen**
+<sup>3</sup> Die Promotionsurkunde wird erst nach erfolgter Publikation der Dissertation ausgehändigt.
 
-<sup>1</sup> Die Doktorierenden sind verpflichtet, die Dissertation zu publizieren.
+**Publikation und nachträgliche Änderungen**
 
-<sup>2</sup> Für die Publikation sind zwei gedruckte Pflichtexemplare sowie eine elektronische Version der Dissertation der Zentralbibliothek zuzustellen.
+§ 33.[^31-1] <sup>1</sup> Die Dissertation ist innerhalb von zwei Jahren nach erfolgreichem Abschluss des Promotionsverfahrens in elektronischer Form an die Zentralbibliothek abzugeben. Dateiformat und Datenträger richten sich nach den Vorgaben der Zentralbibliothek.
+
+<sup>2</sup> Dissertationen können zusätzlich in gedruckter Form publiziert werden.
 
 <sup>3</sup> Die Doktoratsordnungen regeln die Einzelheiten.
 
-<sup>4</sup> Für nachträgliche Änderungen, Ergänzungen oder Streichungen in der genehmigten Dissertation vor der Abgabe der Pflichtexemplare ist die Zustimmung der oder des Vorsitzenden der Promotionskommission und der zuständigen Vizedekanin oder des zuständigen Vizedekans einzuholen.
+**9**
+
+- 1\. 4. 26 - 132
+
+<sup>4</sup> Für nachträgliche Änderungen, Ergänzungen oder Streichungen in der genehmigten Dissertation ist die Zustimmung der oder des Vorsitzenden der Promotionskommission und der zuständigen Vizedekanin oder des zuständigen Vizedekans einzuholen.
+
+**Auszeichnung**
+
+§ 33 a.[^31-2] <sup>1</sup> Die Fakultät verleiht für eine hervorragende Dissertation eine Auszeichnung, falls mindestens zwei Gutachterinnen oder Gutachter und die Doktoratsprogrammkommission einen entsprechenden Antrag stellen. Über den Antrag entscheidet die Fakultätsversammlung in offener Abstimmung.
+
+<sup>2</sup> Die Fakultät regelt die Einzelheiten in einem Reglement.
+
+[^31-1]: Fassung gemäss URB vom 11. Dezember 2025 (OS 81, 47; ABl 2025-12-19). In Kraft seit 1. Februar 2026.
+[^31-2]: Eingefügt durch URB vom 11. Dezember 2025 (OS 81, 47; ABl 2025-12-19). In Kraft seit 1. Februar 2026.
 
 ### VIII. Abschlussdokumente
 
