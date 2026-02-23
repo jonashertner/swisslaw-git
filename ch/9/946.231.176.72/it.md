@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-02-01
+version: 2026-02-24
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260224/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260224-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260224/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 1° febbraio 2026)
+del 4 marzo 2022 (Stato 24 febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -3074,8 +3074,8 @@ Allegato 8[^t-10]
 
 [^annex8-lvlu1-1]
 
-[^t-10]: Aggiornato dalla cifra I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dalla cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dalla cifra I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dalla cifra I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dalla cifra I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dalla cifra I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dalla cifra II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dalla cifra I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dalla cifra II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dalla cifra I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dalla cifra II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), dalle cifre I delle O del DEFR del 3 giu. 2024 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), dell’8 lug. 2024 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), del 23 set. 2024 ([RU 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), del 12 dic. 2024 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), del 20 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), del 18 feb. 2025 ([RU 2025 112](https://fedlex.data.admin.ch/eli/oc/2025/112)), dalla cifra I cpv. 1 dell’O del DEFR del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalle cifre I delle O del DEFR del 18 mar. 2025 ([RU 2025 181](https://fedlex.data.admin.ch/eli/oc/2025/181)), del 17 apr. 2025 ([RU 2025 255](https://fedlex.data.admin.ch/eli/oc/2025/255)), dalla cifra I cpv. 2 dell’O del DEFR del 2 giu. 2025 ([RU 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ago. 2025 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)), dalla cifra I dell’O del DEFR del 29 set. 2025 ([RU 2025 597](https://fedlex.data.admin.ch/eli/oc/2025/597)), dalla cifra II cpv. 1 dell’O del 12 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)) e dalla cifra I dell’O del DEFR del 12 gen. 2026, in vigore dal 13 gen. 2026 alle ore 23.00 ([RU 2026 11](https://fedlex.data.admin.ch/eli/oc/2026/11)).
-[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/11](https://fedlex.data.admin.ch/eli/oc/2026/11) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-10]: Aggiornato dalla cifra I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dalla cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dalla cifra I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dalla cifra I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dalla cifra I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dalla cifra I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dalla cifra II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dalla cifra I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dalla cifra II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dalla cifra I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dalla cifra II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), dalle cifre I delle O del DEFR del 3 giu. 2024 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), dell’8 lug. 2024 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), del 23 set. 2024 ([RU 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), del 12 dic. 2024 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), del 20 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), del 18 feb. 2025 ([RU 2025 112](https://fedlex.data.admin.ch/eli/oc/2025/112)), dalla cifra I cpv. 1 dell’O del DEFR del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalle cifre I delle O del DEFR del 18 mar. 2025 ([RU 2025 181](https://fedlex.data.admin.ch/eli/oc/2025/181)), del 17 apr. 2025 ([RU 2025 255](https://fedlex.data.admin.ch/eli/oc/2025/255)), dalla cifra I cpv. 2 dell’O del DEFR del 2 giu. 2025 ([RU 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ago. 2025 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)), dalla cifra I dell’O del DEFR del 29 set. 2025 ([RU 2025 597](https://fedlex.data.admin.ch/eli/oc/2025/597)), dalla cifra II cpv. 1 dell’O del 12 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)), dalla cifra I dell’O del DEFR del 12 gen. 2026 ([RU 2026 11](https://fedlex.data.admin.ch/eli/oc/2026/11)) e del 23 feb. 2026, in vigore dal 24 feb. 2026 alle ore 23.00 ([RU 2026 87](https://fedlex.data.admin.ch/eli/oc/2026/87)).
+[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/87](https://fedlex.data.admin.ch/eli/oc/2026/87) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -4196,23 +4196,35 @@ Allegato 30[^t-35]
 
 [^t-35]: Introdotto dalla cifra II cpv. 3 dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
-<table>
-<tr><td>Alluminio, compresa la bauxite</td></tr>
-<tr><td>Cobalto</td></tr>
-<tr><td>Concimi minerali, compresi potassio e fosforite</td></tr>
-<tr><td>Cromo</td></tr>
-<tr><td>Minerale di ferro</td></tr>
-<tr><td>Molibdeno</td></tr>
-<tr><td>Nichel</td></tr>
-<tr><td>Palladio</td></tr>
-<tr><td>Rame</td></tr>
-<tr><td>Rodio</td></tr>
-<tr><td>Scandio</td></tr>
-<tr><td>Terre rare leggere (cerio, lantanio, neodimio, praseodimio, samario)</td></tr>
-<tr><td>Terre rare pesanti (disprosio, erbio, europio, gadolinio, olmio, lutezio, terbio, tulio, itterbio, ittrio)</td></tr>
-<tr><td>Titanio</td></tr>
-<tr><td>Vanadio</td></tr>
-</table>
+Alluminio, compresa la bauxite
+
+Cobalto
+
+Concimi minerali, compresi potassio e fosforite
+
+Cromo
+
+Minerale di ferro
+
+Molibdeno
+
+Nichel
+
+Palladio
+
+Rame
+
+Rodio
+
+Scandio
+
+Terre rare leggere (cerio, lantanio, neodimio, praseodimio, samario)
+
+Terre rare pesanti (disprosio, erbio, europio, gadolinio, olmio, lutezio, terbio, tulio, itterbio, ittrio)
+
+Titanio
+
+Vanadio
 
 Allegato 31[^t-36]
 
@@ -4223,7 +4235,7 @@ Allegato 31[^t-36]
 [^annex31-lvlu1-1]
 
 [^t-36]: Introdotto dalla cifra II cpv. 4 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta dalla cifra II cpv. 2 dell’O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^annex31-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex31-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 32[^t-37]
 
