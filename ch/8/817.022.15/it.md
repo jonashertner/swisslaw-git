@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sui tenori massimi di contaminant
 short: OCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: it
-version: 2026-01-01
+version: 2026-02-25
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-156-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20260225/it/xml/fedlex-data-admin-ch-eli-cc-2017-156-20260225-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260225/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260101/it"
 
 (Ordinanza sui contaminanti, OCont)
 
-del 16 dicembre 2016 (Stato 1° gennaio 2026)
+del 16 dicembre 2016 (Stato 25 febbraio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -278,7 +278,7 @@ Allegato 2[^t-2]
 
 ## Tenori massimi delle micotossine nelle derrate alimentari
 
-[^t-2]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), dalle cifre II delle O dell’USAV del 2 giu. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
+[^t-2]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), dalle cifre II delle O dell’USAV del 2 giu. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)), del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)) e dalla correzione del 25 feb. 2026 ([RU 2026 89](https://fedlex.data.admin.ch/eli/oc/2026/89)).
 
 ### *Parte A:* *spiegazioni*
 
@@ -402,8 +402,11 @@ Nella somma del limite inferiore il contributo di ciascun epimero non quantifica
 <tr><td>"</td><td>prodotti di macinazione di mais</td><td>750 µg/kg</td><td>destinati al consumo umano diretto</td></tr>
 <tr><td>"</td><td>prodotti di macinazione di mais</td><td>1000 µg/kg</td><td>non destinati al consumo umano diretto</td></tr>
 <tr><td>Fumonisine (somma di B<sub>1</sub> e B<sub>2</sub>)</td><td>cereali da colazione e merende a base di mais</td><td>800 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>prodotti della molitura del mais</td><td>1400 µg/kg</td><td>meno del 90 %, misurato in peso, delle particelle del prodotto della molitura presenta dimensioni ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
+<tr><td>"</td><td>cereali e altri alimenti a base di mais destinati ai lattanti e ai bambini piccoli</td><td>200 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>farina di mais e prodotti della molitura del mais</td><td>2000 µg/kg</td><td>almeno il 90 %, misurato in peso, delle particelle del prodotto della molitura presenta dimensioni ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
+<tr><td>"</td><td>mais destinato al consumo umano diretto</td><td>1000 µg/kg</td><td>eccetto cereali da colazione e merende a base di mais nonché alimenti a base di mais e altri alimenti destinati ai lattanti e ai bambini piccoli; prodotti a base di mais destinati al consumo umano diretto</td></tr>
+<tr><td>"</td><td>mais non trasformato</td><td>4000 µg/kg</td><td>eccetto mais non trasformato destinato alla molitura ad umido</td></tr>
+<tr><td>"</td><td>prodotti della molitura del mais</td><td>1400 µg/kg</td><td>meno del 90 %, misurato in peso, delle particelle del prodotto della molitura presenta dimensioni ≤ 500 micrometri, non destinati al consumo umano diretto</td></tr>
 <tr><td>Ocratossina A</td><td>alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini piccoli</td><td>0,5 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>alimenti a fini medici speciali destinati ai lattanti e ai bambini nella prima infanzia</td><td>0,5 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>bevande analcoliche a base di malto</td><td>3 µg/kg</td><td></td></tr>

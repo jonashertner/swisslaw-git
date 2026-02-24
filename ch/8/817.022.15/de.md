@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für K
 short: VHK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: de
-version: 2026-01-01
+version: 2026-02-25
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-156-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20260225/de/xml/fedlex-data-admin-ch-eli-cc-2017-156-20260225-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260225/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260101/de"
 
 (Kontaminantenverordnung, VHK)
 
-vom 16. Dezember 2016 (Stand am 1. Januar 2026)
+vom 16. Dezember 2016 (Stand am 25. Februar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -278,7 +278,7 @@ Anhang 2[^t-2]
 
 ## Höchstgehalte für Mykotoxine in Lebensmitteln
 
-[^t-2]: Bereinigt gemäss Ziff. II und III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), vom 8. Dez. 2023 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)), der Berichtigung vom 8. Sept. 2025 ([AS 2025 547](https://fedlex.data.admin.ch/eli/oc/2025/547)) und Ziff. II der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
+[^t-2]: Bereinigt gemäss Ziff. II und III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), vom 8. Dez. 2023 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)), der Berichtigung vom 8. Sept. 2025 ([AS 2025 547](https://fedlex.data.admin.ch/eli/oc/2025/547)), Ziff. II der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)) und der Berichtigung vom 25. Febr. 2026 ([AS 2026 89](https://fedlex.data.admin.ch/eli/oc/2026/89)).
 
 ### Teil A: Erläuterungen
 
@@ -402,6 +402,9 @@ Bei der Untergrenze der Summe wird der Beitrag jedes nicht quantifizierten Epime
 <tr><td>"</td><td>Getreidebeikost für Säuglinge und Kleinkinder</td><td>20 µg/kg</td><td colspan="2"></td></tr>
 <tr><td>"</td><td>Weizengluten</td><td>400 µg/kg</td><td colspan="2"></td></tr>
 <tr><td>Fumonisine (Summe von B<sub>1</sub> und B<sub>2</sub>)</td><td>Frühstückscerealien und Snacks auf Maisbasis</td><td>800 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Getreidebeikost und andere Beikost auf Maisbasis für Säuglinge und Kleinkinder</td><td>200 µg/kg</td><td></td></tr>
+<tr><td>"</td><td>Mais, unverarbeitet</td><td>4000 µg/kg</td><td>ausgenommen unverarbeiteter Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist</td></tr>
+<tr><td>"</td><td>Mais, zum unmittelbaren menschlichen Verzehr bestimmt</td><td>1000 µg/kg</td><td>ausgenommen Frühstückscerealien und Snacks auf Maisbasis und Getreidebeikost und andere Beikost auf Maisbasis für Säuglinge und Kleinkinder; zum unmittelbaren menschlichen Verzehr bestimmte Lebensmittel auf Maisbasis</td></tr>
 <tr><td>"</td><td>Maismahlerzeugnisse</td><td>1400 µg/kg</td><td>weniger als 90 % der Partikel im Mahlerzeugnis haben eine Grösse von ≤ 500 Mikrometer (nach dem Gewicht bestimmt); nicht zum unmittelbaren menschlichen Verzehr bestimmt</td></tr>
 <tr><td>"</td><td>Maismehl und Maismahlerzeugnisse</td><td>2000 µg/kg</td><td>mindestens 90 % der Partikel im Mahlerzeugnis haben eine Grösse von ≤ 500 Mikrometer (nach dem Gewicht bestimmt); nicht zum unmittelbaren menschlichen Verzehr bestimmt</td></tr>
 <tr><td>Mutterkorn-Sklerotien</td><td>Getreide</td><td>0,2 g/kg</td><td colspan="2">unverarbeitet; ausgenommen Mais, Reis und Roggen</td></tr>

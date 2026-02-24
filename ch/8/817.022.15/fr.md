@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les teneurs maximales en cont
 short: OCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: fr
-version: 2026-01-01
+version: 2026-02-25
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-156-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20260225/fr/xml/fedlex-data-admin-ch-eli-cc-2017-156-20260225-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260225/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20260101/fr"
 
 (Ordonnance sur les contaminants, OCont)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
+du 16 décembre 2016 (État le 25 février 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -278,7 +278,7 @@ Annexe 2[^t-2]
 
 ## Teneurs maximales en mycotoxines dans les denrées alimentaires
 
-[^t-2]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)).
+[^t-2]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 809](https://fedlex.data.admin.ch/eli/oc/2025/809)) et l’erratum du 25 fév. 2026 ([RO 2026 89](https://fedlex.data.admin.ch/eli/oc/2026/89)).
 
 ### Partie A: remarques
 
@@ -402,8 +402,11 @@ Dans la somme inférieure, la contribution de chaque épimère non quantifié es
 <tr><td>"</td><td>produits de la mouture de maïs</td><td>750 µg/kg</td><td>destinés à la consommation humaine directe</td></tr>
 <tr><td>"</td><td>produits de la mouture de maïs</td><td>1000 µg/kg</td><td>non destinés à la consommation humaine directe</td></tr>
 <tr><td>Fumonisines (somme de B<sub>1</sub> et B<sub>2</sub>)</td><td>céréales pour petit déjeuner et collations à base de maïs</td><td>800 µg/kg</td><td></td></tr>
-<tr><td>"</td><td>produits de mouture de maïs</td><td>1400 µg/kg</td><td>moins de 90 %, mesurés en poids, des particules du produit de mouture ont une taille ≤ 500 micromètres; non destinés à la consommation humaine directe</td></tr>
 <tr><td>"</td><td>farine de maïs et produits de mouture de maïs</td><td>2000 µg/kg</td><td>au moins 90 %, mesurés en poids, des particules du produit de mouture ont une taille ≤ 500 micromètres; non destinés à la consommation humaine directe</td></tr>
+<tr><td>"</td><td>maïs brut</td><td>4000 µg/kg</td><td>sauf maïs brut destiné à être transformé par mouture humide</td></tr>
+<tr><td></td><td>maïs destiné à la consommation humaine directe</td><td>1000 µg/kg</td><td>sauf céréales pour petit déjeuner et collations à base de maïs et préparations à base de céréales et autres aliments à base de maïs pour nourrissons et enfants en bas âge; denrées alimentaires à base de maïs destinées à la consommation humaine directe</td></tr>
+<tr><td></td><td>préparations à base de céréales et autres aliments à base de maïs pour nourrissons et enfants en bas âge</td><td>200 µg/kg</td><td></td></tr>
+<tr><td></td><td>produits de mouture de maïs</td><td>1400 µg/kg</td><td>moins de 90 %, mesurés en poids, des particules du produit de mouture ont une taille ≤ 500 micromètres; non destinés à la consommation humaine directe</td></tr>
 <tr><td>Ochratoxine A</td><td>boissons non alcooliques à base de malt</td><td>3 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>café soluble</td><td>5 µg/kg</td><td></td></tr>
 <tr><td>"</td><td>café torréfié</td><td>3 µg/kg</td><td>sauf café soluble; en grains ou moulu</td></tr>
