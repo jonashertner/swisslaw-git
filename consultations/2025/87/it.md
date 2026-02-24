@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifiche dell’ordinanza sulla protezione civile (comprese le modifiche dell’ordinanza sul servizio civile, dell’ordinanza sul trattamento dei dati nel sistema automatizzato d’informazione del servizio civile e dell’ordinanza sui sistemi d’informazione militari e su altri sistemi d’informazione nel DDPS)"
 document: Progetto posto in consultazione
 language: it

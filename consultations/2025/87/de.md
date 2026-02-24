@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Zivilschutzverordnung (inklusive der Änderung der Zivildienstverordnung, der Verordnung über die Datenbearbeitung im automatisierten Informationssystem des Zivildiensts und der Verordnung über militärische und andere Informationssysteme im VBS)"
 document: Vernehmlassungsvorlage
 language: de
