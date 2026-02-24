@@ -3,20 +3,19 @@ canton: VS
 number: "923.170"
 title: 5-Jahres-Beschluss über die Ausübung der Fischerei im Wallis für die Jahre 2024-2028
 language: de
-version: 2025-02-01
-valid_until: 2026-02-24
-version_adopted: 2025-01-15
+version: 2026-02-25
+version_adopted: 2026-02-25
 adopted: 2024-02-21
 in_force: 2024-02-21
 url: "https://lex.vs.ch/app/de/texts_of_law/923.170"
-pdf: "https://lex.vs.ch/api/de/versions/3453/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # 5-Jahres-Beschluss über die Ausübung der Fischerei im Wallis für die Jahre 2024-2028
 
-vom 21.02.2024 (Stand 01.02.2025)
+vom 21.02.2024 (Stand 25.02.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -111,29 +110,30 @@ beschliesst:
 - b) Geschinersee, mit Ausnahme des Östlichen Teils des Sees, gemäss Markierung. Im offenen Teil des Sees ist nur die Fliegenfischerei gestattet. Die Schließung der Fischerei erfolgt am letzten Sonntag im Oktober;
 - c) Rückhaltebecken ZenBinnen;
 - d) Hobschensee;
-- e) Mattmarksee;
-- f) Ginalsee (Grosssee);
-- g) Ferdensee bis zum Kastlersteg;
-- h) Meidsee;
-- i) Illsee;
-- j) Lämmernsee;
-- k) Bergsee von Moiry;
-- l) Bergsee von Zeuzier;
-- m) Bergsee von Moubra, mit Ausnahme des westlichen Teils, gemäss Markierung;
-- n) Bergsee Grand-Dixence;
-- o) Bergsee Grand Désert;
-- p) Bergsee Cleuson;
-- q) Bergsee Sanetsch;
-- r) Bergsee Godet (Derborence);
-- s) die drei Bergseen von Vaux;
-- t) Bergsee Louvie, die Fischerei ist nur vom Ufer aus gestattet;
-- u) Bergsee Toules;
-- v) Bergsee Mauvoisin;
-- w) der grosse obere See von Fully;
-- x) Bergsee Emosson;
-- y) Bergsee von Salanfe;
-- z) Bergsee von Antème;
-- aa) Bergsee von Tanay.
+- e) Bergsee von Sera;
+- f) Mattmarksee;
+- g) Ginalsee (Grosssee);
+- h) Ferdensee bis zum Kastlersteg;
+- i) Meidsee;
+- j) Illsee;
+- k) Lämmernsee;
+- l) Bergsee von Moiry;
+- m) Bergsee von Zeuzier;
+- n) Bergsee von Moubra, mit Ausnahme des westlichen Teils, gemäss Markierung;
+- o) Bergsee Grand-Dixence;
+- p) Bergsee Grand Désert;
+- q) Bergsee Cleuson;
+- r) Bergsee Sanetsch;
+- s) Bergsee Godet (Derborence);
+- t) die drei Bergseen von Vaux;
+- u) Bergsee Louvie, die Fischerei ist nur vom Ufer aus gestattet;
+- v) Bergsee Toules;
+- w) Bergsee Mauvoisin;
+- x) der grosse obere See von Fully;
+- y) Bergsee Emosson;
+- z) Bergsee von Salanfe;
+- aa) Bergsee von Antème;
+- ab) Bergsee von Tanay.
 
 #### Art. 5
 
@@ -313,7 +313,7 @@ beschliesst:
 
 **Kanal von Lavey**
 
-<sup>1</sup> Inhaberinnen und Inhabern des Walliser Fischereipatentes, die im Bezirk Saint-Maurice wohnsässig sind, ist das Fischen im Ausflusskanal des Laveywerkes ausschliesslich auf dem linken Ufer erlaubt. Dabei sind die Bestimmungen des Waadtänder Fischereigesetzes anwendbar. Die auf dieser Strecke gefangenen Fische müssen im walliserischen Kontrollbüchlein eingetragen werden.
+<sup>1</sup> Inhabern des Walliser Fischereipatentes, die im Bezirk Saint-Maurice wohnsässig sind, ist das Fischen im Ausflusskanal des Laveywerkes ausschliesslich auf dem linken Ufer erlaubt. Dabei sind die Bestimmungen des Waadtänder Fischereigesetzes anwendbar. Die auf dieser Strecke gefangenen Fische müssen im walliserischen Kontrollbüchlein eingetragen werden.
 
 ## 2 Patente
 
@@ -345,9 +345,9 @@ beschliesst:
 
 <sup>2</sup> Für die Tages- sowie Zweitagespatente wird eine Zusatzgebühr von maximal 5 Franken für die Ausstellungskosten verlangt.
 
-<sup>3</sup> Fischerinnen und Fischer die das 13. Altersjahr vollendet haben, wird auf die Grundtaxe eine Ermässigung von 50 Prozent gewährt. Der Erwachsenentarif ist vom erfüllten 16. Altersjahr an anwendbar.
+<sup>3</sup> Fischer die das 13. Altersjahr vollendet haben, wird auf die Grundtaxe eine Ermässigung von 50 Prozent gewährt. Der Erwachsenentarif ist vom erfüllten 16. Altersjahr an anwendbar.
 
-<sup>4</sup> Ausländerinnen und Ausländer, die im Besitze einer Aufenthaltsbewilligung sind, und deren Wohnort im Kanton Wallis ist, wird das Fischereipatent zum gleichen Preis wie für Einheimische abgegeben.
+<sup>4</sup> Ausländer, die im Besitze einer Aufenthaltsbewilligung sind, und deren Wohnort im Kanton Wallis ist, wird das Fischereipatent zum gleichen Preis wie für Einheimische abgegeben.
 
 #### Art. 16
 
@@ -365,9 +365,9 @@ beschliesst:
 
 <sup>2</sup> Für die Tages- sowie Zweitagespatente wird eine Zusatzgebühr von maximal 5 Franken für die Ausstellungskosten verlangt.
 
-<sup>3</sup> Fischerinnen und Fischer die das 13. Altersjahr vollendet haben, wird auf die Grundtaxe eine Ermässigung von 50 Prozent gewährt. Der Erwachsenentarif ist vom erfüllten 16. Altersjahr an anwendbar.
+<sup>3</sup> Fischer die das 13. Altersjahr vollendet haben, wird auf die Grundtaxe eine Ermässigung von 50 Prozent gewährt. Der Erwachsenentarif ist vom erfüllten 16. Altersjahr an anwendbar.
 
-<sup>4</sup> Ausländerinnen und Ausländer, die im Besitze einer Aufenthaltsbewilligung sind, und deren Wohnort im Kanton Wallis ist, wird das Fischereipatent zum gleichen Preis wie für Einheimische abgegeben.
+<sup>4</sup> Ausländer, die im Besitze einer Aufenthaltsbewilligung sind, und deren Wohnort im Kanton Wallis ist, wird das Fischereipatent zum gleichen Preis wie für Einheimische abgegeben.
 
 #### Art. 17
 
@@ -379,7 +379,7 @@ beschliesst:
 
 **d) Zusatzgebühr für Nichtmitglieder**
 
-<sup>1</sup> Für Fischerinnen und Fischer, unabhängig des Wohnsitzes, die nicht einer Fischersektion angehören welche dem WKSFV angeschlossenen ist, wird für das Jahrespatent eine zusätzliche Gebühr von 80 Franken und für die Halbmonatspatente eine solche von 40 Franken berechnet. Diese Gebühren dienen als Ausgleich für die von den Sektionen ausgeführten Wiederbevölkerungsarbeiten und ihrer Zusammenarbeit mit dem Kanton in Fischereibelangen. Diese Gebühren werden dem WKSFV überwiesen.
+<sup>1</sup> Für Fischer, unabhängig des Wohnsitzes, die nicht einer Fischersektion angehören welche dem WKSFV angeschlossenen ist, wird für das Jahrespatent eine zusätzliche Gebühr von 80 Franken und für die Halbmonatspatente eine solche von 40 Franken berechnet. Diese Gebühren dienen als Ausgleich für die von den Sektionen ausgeführten Wiederbevölkerungsarbeiten und ihrer Zusammenarbeit mit dem Kanton in Fischereibelangen. Diese Gebühren werden dem WKSFV überwiesen.
 
 #### Art. 19
 
@@ -403,9 +403,9 @@ beschliesst:
 
 **Zusätzliche Fischereigebühr**
 
-<sup>1</sup> Fischerinnen und Fischer, die nicht im Besitze des für das laufende Jahr gültigen kantonalen Fischerei- oder Kanalpatentes sind, haben eine zusätzliche Fischereigebühr von 2 Franken pro Tag oder 10 Franken pro Woche oder 50 Franken pro Jahr zu entrichten.
+<sup>1</sup> Fischer, die nicht im Besitze des für das laufende Jahr gültigen kantonalen Fischerei- oder Kanalpatentes sind, haben eine zusätzliche Fischereigebühr von 2 Franken pro Tag oder 10 Franken pro Woche oder 50 Franken pro Jahr zu entrichten.
 
-<sup>2</sup> Die Erhebung dieser Gebühr erfolgt mittels Marken, die jährlich durch die Dienststelle auf Gesuch hin abgegeben werden. Die Pächterinnen oder Pächter sind verantwortlich für jegliches Fischen in ihren Gewässern. Das Fischen ohne die erforderliche Marke auf dem als Patent geltenden Dokument zieht strafrechtliche und administrative Folgen nach sich; in schwerwiegenden Fällen oder im Wiederholungsfall kann es die Aufhebung des Pachtvertrages zur Folge haben.
+<sup>2</sup> Die Erhebung dieser Gebühr erfolgt mittels Marken, die jährlich durch die Dienststelle auf Gesuch hin abgegeben werden. Die Pächter sind verantwortlich für jegliches Fischen in ihren Gewässern. Das Fischen ohne die erforderliche Marke auf dem als Patent geltenden Dokument zieht strafrechtliche und administrative Folgen nach sich; in schwerwiegenden Fällen oder im Wiederholungsfall kann es die Aufhebung des Pachtvertrages zur Folge haben.
 
 ## 3 Schutzmassnahmen
 

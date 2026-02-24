@@ -3,20 +3,19 @@ canton: VS
 number: "923.170"
 title: "Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2024-2028"
 language: fr
-version: 2025-02-01
-valid_until: 2026-02-24
-version_adopted: 2025-01-15
+version: 2026-02-25
+version_adopted: 2026-02-25
 adopted: 2024-02-21
 in_force: 2024-02-21
 url: "https://lex.vs.ch/app/fr/texts_of_law/923.170"
-pdf: "https://lex.vs.ch/api/fr/versions/3453/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3581/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté quinquennal sur l'exercice de la pêche en Valais pour les années 2024-2028
 
-du 21.02.2024 (état 01.02.2025)
+du 21.02.2024 (état 25.02.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -111,29 +110,30 @@ arrête:
 - b) le Geschinersee, à l'exception de la partie est du lac, définie par balisage. Dans la partie ouverte du lac, seule la pêche à la mouche est autorisée. La fermeture de la pêche intervient le dernier dimanche d'octobre;
 - c) la retenue de Zen-Binnen;
 - d) l’Hobschensee;
-- e) le Mattmarksee;
-- f) le Ginalsee (Grosssee);
-- g) le lac Ferdensee jusqu’au pont du Kastlersteg;
-- h) le Meidsee;
-- i) l’Illsee;
-- j) le Lämmerensee;
-- k) le lac de Moiry;
-- l) le lac de Zeuzier;
-- m) le lac de la Moubra, à l’exception de la partie ouest du lac, définie par balisage;
-- n) le lac de la Grande-Dixence;
-- o) le lac du Grand Désert;
-- p) le lac de Cleuson;
-- q) le lac du Sanetsch;
-- r) le lac du Godet (Derborence);
-- s) les trois lacs des Vaux;
-- t) le lac de Louvie, la pêche est autorisée uniquement depuis la berge;
-- u) le lac des Toules;
-- v) le lac de Mauvoisin;
-- w) le grand lac supérieur de Fully;
-- x) le lac d’Emosson;
-- y) le lac de Salanfe;
-- z) le lac d'Anthème;
-- aa) le lac de Tanay.
+- e) le lac de Sera;
+- f) le Mattmarksee;
+- g) le Ginalsee (Grosssee);
+- h) le lac Ferdensee jusqu’au pont du Kastlersteg;
+- i) le Meidsee;
+- j) l’Illsee;
+- k) le Lämmerensee;
+- l) le lac de Moiry;
+- m) le lac de Zeuzier;
+- n) le lac de la Moubra, à l’exception de la partie ouest du lac, définie par balisage;
+- o) le lac de la Grande-Dixence;
+- p) le lac du Grand Désert;
+- q) le lac de Cleuson;
+- r) le lac du Sanetsch;
+- s) le lac du Godet (Derborence);
+- t) les trois lacs des Vaux;
+- u) le lac de Louvie, la pêche est autorisée uniquement depuis la berge;
+- v) le lac des Toules;
+- w) le lac de Mauvoisin;
+- x) le grand lac supérieur de Fully;
+- y) le lac d’Emosson;
+- z) le lac de Salanfe;
+- aa) le lac d'Anthème;
+- ab) le lac de Tanay.
 
 #### Art. 5
 
@@ -313,7 +313,7 @@ arrête:
 
 **Canal de Lavey**
 
-<sup>1</sup> Les titulaires d’un permis de pêche valaisan domiciliées ou domiciliés dans le district de Saint-Maurice ont l'autorisation de pêcher dans le canal de décharge de l’usine électrique de Lavey, sur la rive gauche uniquement, en conformité avec le règlement cantonal vaudois sur la pêche. Les poissons capturés sur ce parcours doivent être inscrits sur le carnet de prises valaisan.
+<sup>1</sup> Les titulaires d’un permis de pêche valaisan domiciliés dans le district de Saint-Maurice ont l'autorisation de pêcher dans le canal de décharge de l’usine électrique de Lavey, sur la rive gauche uniquement, en conformité avec le règlement cantonal vaudois sur la pêche. Les poissons capturés sur ce parcours doivent être inscrits sur le carnet de prises valaisan.
 
 ## 2 Permis
 
@@ -379,7 +379,7 @@ arrête:
 
 **d) Supplément pour les non-membres**
 
-<sup>1</sup> La pêcheuse ou le pêcheur, quel que soit son domicile, non membre d’une section de pêche affiliée à la FCVPA, est tenue ou tenu de verser un supplément de 80 francs par permis annuel et de 40 francs par permis mi-mensuel en compensation du travail de repeuplement effectué par les sections et de leur collaboration avec l’Etat pour la pratique de la pêche dans le canton. Ce supplément est ristourné à la FCVPA.
+<sup>1</sup> Le titulaire d'un permis de pêche, quel que soit son domicile, non membre d’une section de pêche affiliée à la FCVPA, est tenue ou tenu de verser un supplément de 80 francs par permis annuel et de 40 francs par permis mi-mensuel en compensation du travail de repeuplement effectué par les sections et de leur collaboration avec l’Etat pour la pratique de la pêche dans le canton. Ce supplément est ristourné à la FCVPA.
 
 #### Art. 19
 
@@ -403,9 +403,9 @@ arrête:
 
 **Surtaxe pour les plans d'eau affermés**
 
-<sup>1</sup> La pêcheuse ou le pêcheur qui n'est pas titulaire du permis cantonal ou du permis canaux pour l’année en cours, doit payer une surtaxe régalienne d’un montant maximal de 50 francs par an, le cas échéant d’un montant de 2 francs par jour ou de 10 francs pour une semaine.
+<sup>1</sup> Le pêcheur qui n'est pas titulaire du permis cantonal ou du permis canaux pour l’année en cours, doit payer une surtaxe régalienne d’un montant maximal de 50 francs par an, le cas échéant d’un montant de 2 francs par jour ou de 10 francs pour une semaine.
 
-<sup>2</sup> Cette perception se fait au moyen de timbres fournis annuellement par le service, sur demande de la fermière ou du fermier. La fermière ou le fermier est responsable de toute pêche pratiquée dans son plan d’eau. En cas de pêche sans timbres sur le document faisant office de permis, elle ou il encourt des sanctions pénales et administratives allant jusqu'à la révocation du contrat d’affermage en cas de faute grave ou répétée.
+<sup>2</sup> Cette perception se fait au moyen de timbres fournis annuellement par le service, sur demande du fermier. Le fermier est responsable de toute pêche pratiquée dans son plan d’eau. En cas de pêche sans timbres sur le document faisant office de permis, il encourt des sanctions pénales et administratives allant jusqu'à la révocation du contrat d’affermage en cas de faute grave ou répétée.
 
 ## 3 Mesures de protection
 
