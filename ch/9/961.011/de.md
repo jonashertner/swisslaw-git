@@ -4,11 +4,11 @@ title: "Verordnung vom 9. November 2005 über die Beaufsichtigung von privaten V
 short: AVO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: de
-version: 2026-01-01
+version: 2026-02-26
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/de/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260226-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/de"
 
 (Aufsichtsverordnung, AVO)
 
-vom 9. November 2005 (Stand am 1. Januar 2026)
+vom 9. November 2005 (Stand am 26. Februar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf das Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^ingress-1]
 
 verordnet:
 
-[^ingress-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: [SR 0.961.1](https://fedlex.data.admin.ch/eli/cc/1992/1894_1894_1894)
-[^ingress-4]: [SR 0.961.514](https://fedlex.data.admin.ch/eli/cc/2001/43)
+[^ingress-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-3]: [SR 0.961.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4349)
+[^ingress-4]: [SR 0.961.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4353)
 
 ## 1. Titel: Allgemeines
 
@@ -117,7 +117,7 @@ Die FINMA gewährt Erstversicherungsunternehmen der Kategorien 4 und 5 Erleichte
 - h. Gegen sie wurden von der FINMA weder aufsichtsrechtliche Massnahmen ergriffen, noch wurde ein Verfahren nach Artikel 30 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^1c-2] (FINMAG) eröffnet.
 
 [^1c-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1c-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1c-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 1d
 
@@ -132,7 +132,7 @@ Die FINMA gewährt Rückversicherungsunternehmen der Kategorien 4 und 5 die auf 
 - c. Sie verfügen, sofern sie kein Neugeschäft mehr schreiben, über einen von der FINMA genehmigten Abwicklungsplan.
 
 [^1d-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1d-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1d-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 1e
 
@@ -163,7 +163,7 @@ Versicherungsunternehmen, welche Versicherungsprodukte entwickeln und direkt ver
 - f. Sie verpflichten sich, die Versicherungsnehmerinnen und -nehmer darüber zu informieren, dass sie nicht der Aufsicht durch die FINMA unterstellt sind.
 
 [^1f-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1f-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1f-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1g
 
@@ -276,7 +276,7 @@ Das dem Versicherungszweig B17 zugerechnete Risiko darf unter den Bedingungen vo
 Krankenkassen nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^5a-2] (KVAG) dürfen Zusatzversicherungen nach Artikel 2 Absatz 2 KVAG betreiben, sobald ihnen die FINMA die Bewilligung nach Artikel 3 VAG dafür erteilt hat.
 
 [^5a-1]: Eingefügt durch Anhang Ziff. 6 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^5a-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^5a-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 5b
 
@@ -994,7 +994,7 @@ Wenn das verwendete Standardmodell die spezifische Risikosituation eines Versich
 
 <sup>5</sup> Die FINMA kann für die Anwendungen von Standardmodellen Open-Source-Software verwenden.
 
-[^45-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^45-1]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 46
 
@@ -1076,7 +1076,7 @@ Die FINMA genehmigt die Verwendung eines internen Modells oder einer von der FIN
 <sup>2</sup> Die Ergebnisses der Stresstests einzelner Versicherungsunternehmen und Versicherungsgruppen werden nicht veröffentlicht, ausser die FINMA ordnet dies aufgrund Artikel 22 FINMAG[^50a-2] an.
 
 [^50a-1]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^50a-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^50a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 50b–50f
 
@@ -1120,7 +1120,7 @@ Inhalt und Ausmass der Schutzmassnahmen richten sich nach den folgenden Bereiche
 
 <sup>5</sup> Die FINMA kann in begründeten Fällen Ausnahmen von den Regelungen nach Absatz 3 genehmigen. Massgebend dafür sind insbesondere das effektive Schutzniveau der Versicherten und die Verfügbarkeit und Effektivität von Massnahmen.
 
-[^52-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^52-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 53
 
@@ -1794,13 +1794,14 @@ Allfällige Verpflichtungen müssen abgezogen werden, soweit sie:
 - a. das Vermögen vermindern, welches der Bedeckung der versicherungstechnischen Verpflichtungen dient; und
 - b. mit dem betreffenden Vermögenswert in wirtschaftlichem Zusammenhang stehen.
 
-<sup>3</sup> Werden Anlagen nicht an einem geregelten Markt gehandelt, so muss die Methode der Ermittlung der Marktwerte dokumentiert und die resultierende Bewertungsunsicherheit berücksichtigt werden.
+<sup>3</sup> Werden Anlagen nicht an einem geregelten Markt gehandelt, so muss die Methode der Ermittlung der Marktwerte dokumentiert und die resultierende Bewertungsunsicherheit berücksichtigt werden.[^93-2]
 
 <sup>4</sup> Sofern eine nach Artikel 88 bewertete Anlage durch Derivate abgesichert ist, darf der kombinierte Anrechnungswert der zugehörigen Derivate und der abgesicherten Anlage den Wert gemäss Artikel 88 nicht überschreiten.
 
 <sup>5</sup> Als Obergrenze für die Bewertung eines gebundenen Vermögens insgesamt gilt in jedem Fall der zu erwartende Verwertungserlös auf Basis von Marktwerten.
 
 [^93-1]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^93-2]: Die Berichtigung vom 26. Febr. 2026 betrifft nur den italienischen Text ([AS 2026 95](https://fedlex.data.admin.ch/eli/oc/2026/95)).
 
 #### Art. 93a
 
@@ -2191,7 +2192,7 @@ Sie kann Abweichungen von den Artikeln 959*a* Absätze 1 und 2, 959*b* Absätze 
 - b. einen Vergleich der Kapitalanlagen mit den entsprechenden versicherungstechnischen Rückstellungen ermöglichen.
 
 [^111b-1]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^111b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 4*a*. Kapitel: Versicherungsunternehmen, die professionelle Versicherungsnehmer versichern
 
@@ -2209,7 +2210,7 @@ Sie kann Abweichungen von den Artikeln 959*a* Absätze 1 und 2, 959*b* Absätze 
 
 <sup>2</sup> Als Vertragsabschluss im Sinne von Artikel 30*b* VAG gilt auch jede Erneuerung oder wesentliche Anpassung des Vertrags.
 
-[^111c-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^111c-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### 4*b*. Kapitel: Versicherungszweckgesellschaften
 
@@ -2241,7 +2242,7 @@ Sie kann Abweichungen von den Artikeln 959*a* Absätze 1 und 2, 959*b* Absätze 
 
 <sup>3</sup> Als Anlegerinnen und Anleger im Sinne dieses Kapitels gelten die Inhaberinnen und Inhaber beziehungsweise Gläubigerinnen und Gläubiger von Finanzinstrumenten der Versicherungszweckgesellschaft.
 
-[^111e-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^111e-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 111f
 
@@ -2388,7 +2389,7 @@ Die Anlegerversammlung hat folgende Befugnisse:
 - b. die Beschlussfassung über die Vereinigung zweier Teilvermögen;
 - c. die Beschlussfassung über die Gegenstände, die der Anlegerversammlung durch das Gesetz, diese Verordnung, die Statuten der Versicherungszweckgesellschaft oder das Risikogruppenreglement vorbehalten sind.
 
-[^111p-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111p-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 111q
 
@@ -2636,7 +2637,7 @@ Betreibt ein Versicherungsunternehmen die Invaliditätsversicherung im Rahmen de
 Versicherungsverträge in den Versicherungszweigen A2.1, A2.2, A2.3 und A6.1 müssen an offene kollektive Kapitalanlagen gebunden sein, die unter das Kollektivanlagengesetz vom 23. Juni 2006[^125a-2] fallen.
 
 [^125a-1]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^125a-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^125a-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 126
 
@@ -3188,7 +3189,7 @@ Entsprechen die Sparkomponente 6 Prozent oder mehr des Deckungskapitals und der 
 <sup>4</sup> Die Ausschüttungsquote ist zusammen mit dem Nachweis der Verwendung zur Genehmigung zu unterbreiten.
 
 [^147-1]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^147-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^147-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^147-3]: Fassung gemäss Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 148
@@ -3266,7 +3267,7 @@ Bei negativem Gesamtsaldo sind nacheinander folgende Massnahmen zu treffen, bis 
 
 <sup>3</sup> Die FINMA kann aus besonderen Gründen Abweichungen von der Zwei-DrittelRegel in Absatz 1 verfügen.
 
-[^153-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^153-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 154
 
@@ -3376,7 +3377,7 @@ Die FINMA und die Aufsichtsbehörde im Sinne des KVAG[^160a-2] koordinieren ihre
 <sup>2</sup> Die FINMA und die Aufsichtsbehörde nach Absatz 1 können ihre Aufsichtstätigkeiten auch im Rahmen eines regelmässigen Informationsaustauschs über die ihrer Aufsicht unterstellten Rechtsträger koordinieren.
 
 [^160a-1]: Eingefügt durch Anhang Ziff. 6 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^160a-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^160a-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 ### 5. Kapitel: Rechtsschutzversicherung
 
@@ -3515,7 +3516,7 @@ Nicht Gegenstand der kombinierten Feuer- und Elementarschadenversicherung sind S
 
 <sup>2</sup> Als Baustelle gilt das ganze Areal, auf dem Sachwerte vorhanden sind, die sich dort im Zusammenhang mit einem Bauwerk befinden, selbst vor dessen Beginn und nach dessen Beendigung
 
-[^172-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^172-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 #### Art. 173
 
@@ -3964,7 +3965,7 @@ Wenn sich bei den Informationen nach Artikel 45 Absatz 1 VAG Änderungen ergeben
 
 Die in Anhang 7 aufgeführten Regelungen der Branchenvereinbarung zwischen Santésuisse und Curafutura vom 22. März 2024[^190e-1] betreffend die Qualität der Beratung und die Entschädigung an die Vermittler in der Kundenwerbung sind für sämtliche Versicherungsunternehmen, die im Bereich der Zusatzversicherung zur sozialen Krankenversicherung tätig sind, allgemeinverbindlich.
 
-[^190e-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/.
+[^190e-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/ .
 
 #### Art. 190f
 
@@ -4124,7 +4125,7 @@ Die Versicherungsgruppe muss über ein Informationssystem verfügen, das für di
 
 Die FINMA bezeichnet diejenigen Versicherungsgruppen, welche als international tätig gelten, und macht dies öffentlich. Sie stützt sich hierfür auf die Kriterien gemäss den *Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups* vom November 2019[^197e-1] der Internationalen Vereinigung der Versicherungsaufsichtsbehörden.
 
-[^197e-1]: Abrufbar unter: www.iaisweb.org.
+[^197e-1]: Abrufbar unter: www.iaisweb.org .
 
 ### 3. Abschnitt: Solvabilität
 
@@ -4349,7 +4350,7 @@ In Bezug auf das Zielkapital (Art. 41–46) und das risikotragende Kapital (Art.
 [^216-3]: Aufgehoben durch Anhang Ziff. 11 der Finanzmarktprüfverordnung vom 15. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-4]: Aufgehoben durch Anhang Ziff. 11 der Finanzmarktprüfverordnung vom 15. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-5]: Aufgehoben durch Anhang Ziff. 11 der Finanzmarktprüfverordnung vom 15. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^216-6]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^216-6]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^216-7]: Aufgehoben durch Anhang Ziff. 11 der Finanzmarktprüfverordnung vom 15. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-8]: Eingefügt durch Ziff. I der V vom 18. Okt. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
 
@@ -4406,7 +4407,7 @@ Versicherungsunternehmen können unter folgenden Voraussetzungen während drei J
 Für Anträge auf Abschluss einer Zusatzversicherung zur sozialen Krankenversicherung, die bis zum 31. Dezember 2024 beim Versicherungsunternehmen eintreffen, darf die Tätigkeit der Versicherungsvermittlerinnen und -vermittler, die über einen Einzelarbeitsvertrag nach Artikel 319 OR[^216d-2] an das Versicherungsunternehmen gebunden sind, bis zum 31. Januar 2025 nach bisherigem Recht entschädigt werden.
 
 [^216d-1]: Eingefügt durch Ziff. I 2 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^216d-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^216d-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 217
 
@@ -4598,15 +4599,15 @@ Anhang 3[^t-3]
 
 Für eine Eintrittswahrscheinlichkeit *u* ∈ (0,1) ist das *u*-Quantil *q**<sub>u</sub>* *(X)* einer Zufallsvariablen *X* (Verluste mit negativem Vorzeichen) unter dem Wahrscheinlichkeitsmass *P* definiert als
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/de/xml/image/image1.png)
 
 Der Expected Shortfall *ES**<sub>α</sub>* *[X]* einer Zufallsvariablen *X* bei einer Eintrittswahrscheinlichkeit *α* ∈ (0,1) (typischerweise klein) ist definiert als
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/de/xml/image/image2.png)
 
 Falls die Verteilung von *X* stetig ist, so ist der Expected Shortfall *ES**<sub>α</sub>* *[X]* gegeben durch den bedingten Erwartungswert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/de/xml/image/image3.png)
 
 Anhang 4[^t-4]
 
@@ -4686,7 +4687,7 @@ Anhang 4[^t-4]
 
 - 3\.3.2 Sofern für ein Finanzinstrument nach Artikel 3 Buchstabe a FIDLEG[^annex4-lvlu1-lvl3-lvl33-1] ein Basisinformationsblatt zur Verfügung steht, kann auf dieses verwiesen werden.
 
-[^annex4-lvlu1-lvl3-lvl33-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^annex4-lvlu1-lvl3-lvl33-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ### 3.4 Optional: Zielgruppe und Zielmarkt
 
@@ -4893,7 +4894,7 @@ Folgende Bestimmungen der Vereinbarung zwischen Santésuisse und Curafutura vom 
 
 ### 1. Verbot der Telefonwerbung bei Personen, die nie bei einem Versicherungsunternehmen versichert waren oder seit längerer Zeit nicht mehr versichert sind (Art. 31*a* Abs. 1 Bst. c VAG)
 
-[^annex7-lvlu1-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/.
+[^annex7-lvlu1-1]: Die Vereinbarung kann kostenlos eingesehen werden unter: [www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung](http://www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung) und [curafutura.ch/themen/krankenversicherung/vermittler/](https://curafutura.ch/themen/krankenversicherung/vermittler/).
 
 Ziff. 6 Punkt 4:
 

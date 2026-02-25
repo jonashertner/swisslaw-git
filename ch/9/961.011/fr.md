@@ -4,11 +4,11 @@ title: "Ordonnance du 9 novembre 2005 sur la surveillance des entreprises d'assu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: fr
-version: 2026-01-01
+version: 2026-02-26
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260226-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260226/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/fr"
 
 (Ordonnance sur la surveillance, OS)
 
-du 9 novembre 2005 (État le 1<sup>er</sup> janvier 2026)
+du 9 novembre 2005 (État le 26 février 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,10 +25,10 @@ vu la loi du 17 décembre 2004 sur la surveillance des assurances (LSA)[^ingress
 
 arrête:
 
-[^ingress-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: [RS 0.961.1](https://fedlex.data.admin.ch/eli/cc/1992/1894_1894_1894)
-[^ingress-4]: [RS 0.961.514](https://fedlex.data.admin.ch/eli/cc/2001/43)
+[^ingress-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-3]: [RS 0.961.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4349)
+[^ingress-4]: [RS 0.961.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4353)
 
 ## Titre 1 Généralités
 
@@ -117,7 +117,7 @@ La FINMA accorde des allégements aux entreprises d’assurance directe des cat�
 - h. la FINMA n’a pris à leur encontre aucune mesure en droit de la surveillance ni ouvert de procédure au sens de l’art. 30 de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^1c-2].
 
 [^1c-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1c-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1c-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 1d
 
@@ -132,7 +132,7 @@ La FINMA accorde aux entreprises de réassurance des catégories 4 et 5 les all�
 - c. elles disposent d’un plan de liquidation approuvé par la FINMA lorsqu’elles ne souscrivent plus de nouvelles affaires.
 
 [^1d-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1d-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1d-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 1e
 
@@ -163,7 +163,7 @@ Les entreprises d’assurances qui développent des produits d’assurance et le
 - f. elles s’engagent à informer les preneurs d’assurance sur le fait qu’elles ne sont pas soumises à la surveillance de la FINMA.
 
 [^1f-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1f-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1f-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1g
 
@@ -274,7 +274,7 @@ Les communications au sens de l’art. 5, al. 2 LSA sont faites par l’entrepri
 Les caisses-maladie au sens de l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie (LSAMal)[^5a-2] ont le droit de pratiquer les assurances complémentaires visées à l’art. 2, al. 2, LSAMal dès qu’elles disposent d’un agrément de la FINMA au sens de l’art. 3 LSA.
 
 [^5a-1]: Introduit par l’annexe ch. 6 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^5a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^5a-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 5b
 
@@ -992,7 +992,7 @@ Si le modèle standard appliqué ne reflète pas suffisamment les risques encour
 
 <sup>5</sup> La FINMA peut utiliser des logiciels *open source* pour les applications de modèles standard.
 
-[^45-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^45-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 46
 
@@ -1074,7 +1074,7 @@ La FINMA autorise une entreprise d’assurance à utiliser un modèle interne ou
 <sup>2</sup> Les résultats des tests de résistance ne sont pas publiés par entreprise d’assurance et groupe d’assurance, sauf si la FINMA l’ordonne sur la base de l’art. 22 LFINMA[^50a-2].
 
 [^50a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^50a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^50a-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 50b à 50f
 
@@ -1118,7 +1118,7 @@ Le contenu et l’étendue des mesures protectrices sont fonction des zones suiv
 
 <sup>5</sup> Si les circonstances le justifient, la FINMA peut autoriser des dérogations aux dispositions de l’al. 3. Sont en particulier déterminants à cet égard le niveau de protection effectif des assurés, ainsi que la disponibilité et l’efficacité des mesures.
 
-[^52-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^52-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 53
 
@@ -1791,13 +1791,14 @@ Les engagements éventuels doivent être déduits dans la mesure:
 - a. où ils réduisent la fortune qui sert à couvrir les engagements actuariels, et
 - b. où ils présentent un rapport économique avec le bien concerné.
 
-<sup>3</sup> Si des placements ne sont pas négociés sur un marché réglementé, la méthode de détermination des valeurs de marché doit être documentée, et l’incertitude grevant leur évaluation doit être prise en compte.
+<sup>3</sup> Si des placements ne sont pas négociés sur un marché réglementé, la méthode de détermination des valeurs de marché doit être documentée, et l’incertitude grevant leur évaluation doit être prise en compte.[^93-2]
 
 <sup>4</sup> Si un placement évalué conformément à l’art. 88 est couvert par des dérivés, la valeur d’affectation combinée des dérivés y afférents et du placement couvert ne doit pas dépasser la valeur indiquée à l’art. 88.
 
 <sup>5</sup> Dans tous les cas, le produit de la réalisation escompté sur la base des valeurs de marché constitue la limite supérieure pour l’évaluation de la fortune liée.
 
 [^93-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^93-2]: Erratum du 26 fév. 2026, ne concerne que le texte italien ([RO 2026 95](https://fedlex.data.admin.ch/eli/oc/2026/95)).
 
 #### Art. 93a
 
@@ -2188,7 +2189,7 @@ Elle peut prévoir des dérogations aux art. 959*a*, al. 1 et 2, 959*b*, al. 2 e
 - b. permettre une comparaison des placements avec les provisions techniques correspondantes.
 
 [^111b-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^111b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Chapitre 4*a* Entreprises d’assurance assurant des preneurs d’assurance professionnels
 
@@ -2206,7 +2207,7 @@ Elle peut prévoir des dérogations aux art. 959*a*, al. 1 et 2, 959*b*, al. 2 e
 
 <sup>2</sup> Est aussi considéré comme la conclusion d’un contrat au sens de l’art. 30*b* LSA tout renouvellement ou toute modification importante d’un contrat.
 
-[^111c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^111c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### Chapitre 4*b* Entités ad hoc d’assurance
 
@@ -2238,7 +2239,7 @@ Elle peut prévoir des dérogations aux art. 959*a*, al. 1 et 2, 959*b*, al. 2 e
 
 <sup>3</sup> Sont considérés comme des investisseurs au sens du présent chapitre les détenteurs ou les créanciers des instruments financiers de l’entité ad hoc d’assurance.
 
-[^111e-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^111e-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 111f
 
@@ -2385,7 +2386,7 @@ L’assemblée des investisseurs a les compétences suivantes:
 - b. se prononcer sur la réunion de deux compartiments;
 - c. se prononcer sur les objets qui sont réservés à l’assemblée des investisseurs par la loi, la présente ordonnance, les statuts de l’entité ad hoc d’assurance ou le règlement sur les groupes de risques.
 
-[^111p-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111p-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 111q
 
@@ -2635,7 +2636,7 @@ Lorsqu’une entreprise d’assurance exploite l’assurance-invalidité dans le
 Les contrats d’assurance dans les branches A2.1, A2.2, A2.3 et A6.1 doivent être liés à des placements collectifs ouverts régis par la loi du 23 juin 2006 sur les placements collectifs de capitaux[^125a-2].
 
 [^125a-1]: Introduit par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^125a-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^125a-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 126
 
@@ -3187,7 +3188,7 @@ Si la composante épargne atteint 6 % ou plus de la réserve mathématique et qu
 <sup>4</sup> La quote-part de distribution est soumise pour approbation, avec la preuve de l’utilisation.
 
 [^147-1]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^147-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^147-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^147-3]: Nouvelle teneur selon le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 148
@@ -3265,7 +3266,7 @@ Si le solde global est négatif, les mesures suivantes sont prises l’une aprè
 
 <sup>3</sup> Pour des motifs particuliers, la FINMA peut prononcer des dérogations à la règle des deux tiers selon l’al. 1.
 
-[^153-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^153-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 154
 
@@ -3375,7 +3376,7 @@ La FINMA et l’autorité de surveillance au sens de la LSAMal[^160a-2] coordonn
 <sup>2</sup> La FINMA et l’autorité de surveillance visée à l’al. 1 peuvent également coordonner leurs activités de surveillance en procédant à des échanges réguliers d’informations sur les entités soumises à leur surveillance.
 
 [^160a-1]: Introduit par l’annexe ch. 6 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^160a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^160a-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 ### Chapitre 5 Assurance de la protection juridique
 
@@ -3514,7 +3515,7 @@ Ne font pas l’objet de l’assurance combinée incendie et dommages dus à des
 
 <sup>2</sup> Est réputé chantier de construction l’ensemble du terrain sur lequel se trouvent des valeurs mobilières ayant un rapport avec un ouvrage, même si les travaux n’ont pas encore commencé ou sont déjà terminés.
 
-[^172-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^172-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 #### Art. 173
 
@@ -4121,7 +4122,7 @@ Le groupe d’assurance doit disposer d’un système d’information qui fourni
 
 ### (art. 67 LSA)
 
-La FINMA désigne les groupes d’assurance réputés exercer une activité internationale et publie leurs noms. Elle s’appuie pour cela sur les critères découlant des *Insurance Core Principles and Common Framework for the Supervision of Internationally* *Active Insurance Groups* de novembre 2019[^197e-1] élaborés par l’Association internationale des contrôleurs d’assurance.
+La FINMA désigne les groupes d’assurance réputés exercer une activité internationale et publie leurs noms. Elle s’appuie pour cela sur les critères découlant des *Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups* de novembre 2019[^197e-1] élaborés par l’Association internationale des contrôleurs d’assurance.
 
 [^197e-1]: Consultables à l’adresse [www.iaisweb.org](http://www.iaisweb.org)
 
@@ -4348,7 +4349,7 @@ Concernant le capital cible (art. 41 à 46) et le capital porteur de risques (ar
 [^216-3]: Abrogées par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-4]: Abrogé par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-5]: Abrogés par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^216-6]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^216-6]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^216-7]: Abrogés par l’annexe ch. 11 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-8]: Introduit par le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
 
@@ -4405,7 +4406,7 @@ Pendant trois ans à compter de l’entrée en vigueur de la présente modificat
 Pour les propositions relatives à la conclusion d’une assurance complémentaire à l’assurance-maladie sociale reçues par l’entreprise d’assurance jusqu’au 31 décembre 2024, l’activité des intermédiaires d’assurance liés à l’entreprise d’assurance par un contrat individuel de travail au sens de l’art. 319 CO[^216d-2] peut être rémunérée conformément à l’ancien droit jusqu’au 31 janvier 2025.
 
 [^216d-1]: Introduit par le ch. I 2 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^216d-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^216d-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 217
 
@@ -4427,7 +4428,7 @@ Les actes suivants sont abrogés:
 
 [^217-1]: [[RO 1978 1856](https://fedlex.data.admin.ch/eli/oc/1978/1856_1856_1856), [1985 885](https://fedlex.data.admin.ch/eli/oc/1985/885_885_885)art. 4, [1986 689](https://fedlex.data.admin.ch/eli/oc/1986/689_689_689)art. 6, [1988 116](https://fedlex.data.admin.ch/eli/oc/1988/116_116_116)ch. II al. 1 let. c]
 [^217-2]: [[RO 1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)]
-[^217-3]: [RS **10** 301; [RO 1979 1588](https://fedlex.data.admin.ch/eli/oc/1979/1588_1588_1588), [1986 2529](https://fedlex.data.admin.ch/eli/oc/1986/2529_2529_2529), [1988 116](https://fedlex.data.admin.ch/eli/oc/1988/116_116_116), [1990 787](https://fedlex.data.admin.ch/eli/oc/1990/787_787_787), [1992 2415](https://fedlex.data.admin.ch/eli/oc/1992/2415_2415_2415), [1993 2614](https://fedlex.data.admin.ch/eli/oc/1993/2614_2614_2614)[3219](https://fedlex.data.admin.ch/eli/oc/1993/3219_3219_3219), [1994 100](https://fedlex.data.admin.ch/eli/oc/1994/100_100_100)[1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)annexe ch. 7, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch. I 38, [1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)annexe ch. 1, [1999 3671](https://fedlex.data.admin.ch/eli/oc/1999/534)]
+[^217-3]: [[RS 10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4714)301; [RO 1979 1588](https://fedlex.data.admin.ch/eli/oc/1979/1588_1588_1588), [1986 2529](https://fedlex.data.admin.ch/eli/oc/1986/2529_2529_2529), [1988 116](https://fedlex.data.admin.ch/eli/oc/1988/116_116_116), [1990 787](https://fedlex.data.admin.ch/eli/oc/1990/787_787_787), [1992 2415](https://fedlex.data.admin.ch/eli/oc/1992/2415_2415_2415), [1993 2614](https://fedlex.data.admin.ch/eli/oc/1993/2614_2614_2614)[3219](https://fedlex.data.admin.ch/eli/oc/1993/3219_3219_3219), [1994 100](https://fedlex.data.admin.ch/eli/oc/1994/100_100_100)[1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)annexe ch. 7, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch. I 38, [1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)annexe ch. 1, [1999 3671](https://fedlex.data.admin.ch/eli/oc/1999/534)]
 [^217-4]: [[RO 1976 239](https://fedlex.data.admin.ch/eli/oc/1976/239_239_239)]
 [^217-5]: [[RO 1980 53](https://fedlex.data.admin.ch/eli/oc/1980/53_53_53)]
 [^217-6]: [[RO 1955 1040](https://fedlex.data.admin.ch/eli/oc/1955/1014_1040_1048)]
@@ -4597,15 +4598,15 @@ Annexe 3[^t-3]
 
 Pour une probabilité de survenance *u* ∈ (0,1), le *u* – quantile *q**<sub>u</sub>* *(X)* d’une variable aléatoire *X* (signe négatif pour les pertes) avec la mesure de probabilité *P* est défini comme
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/fr/xml/image/image1.png)
 
 L’expected shortfall *ES**<sub>α</sub>* *[X]* d’une variable aléatoire *X* pour une probabilité de survenance *α* ∈ (0,1) (typiquement faible) est défini comme
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/fr/xml/image/image2.png)
 
 Si la répartition de *X* est continue, l’expected shortfall *ES**<sub>α</sub>* *[X]* est donné par l’espérance mathématique conditionnelle
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/fr/xml/image/image3.png)
 
 Annexe 4[^t-4]
 
@@ -4685,7 +4686,7 @@ Annexe 4[^t-4]
 
 - 3\.3.2 Si une feuille d’information de base est disponible pour un instrument financier selon l’art. 3, let. a, LSFin[^annex4-lvlu1-lvl3-lvl33-1], il est possible d’y renvoyer.
 
-[^annex4-lvlu1-lvl3-lvl33-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^annex4-lvlu1-lvl3-lvl33-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ### 3.4 Facultatif: groupe cible et marché cible
 

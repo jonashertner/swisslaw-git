@@ -4,11 +4,11 @@ title: "Ordinanza del 9 novembre 2005 sulla sorveglianza delle imprese di assicu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: it
-version: 2026-01-01
+version: 2026-02-26
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/it/xml/fedlex-data-admin-ch-eli-cc-2005-735-20260226-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260226/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20260101/it"
 
 (Ordinanza sulla sorveglianza, OS)
 
-del 9 novembre 2005 (Stato 1° gennaio 2026)
+del 9 novembre 2005 (Stato 26 febbraio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,22 +25,22 @@ vista la legge del 17 dicembre 2004[^ingress-1] sulla sorveglianza degli assicur
 
 ordina:
 
-[^ingress-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: [RS 0.961.1](https://fedlex.data.admin.ch/eli/cc/1992/1894_1894_1894)
-[^ingress-4]: [RS 0.961.514](https://fedlex.data.admin.ch/eli/cc/2001/43)
+[^ingress-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-3]: [RS 0.961.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4349)
+[^ingress-4]: [RS 0.961.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4353)
 
 ## Titolo primo: In generale
 
 [^tit1-1]
 
-[^tit1-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit1-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 1: Campo di applicazione
 
 [^tit1-chap1-1]
 
-[^tit1-chap1-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit1-chap1-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 1
 
@@ -71,13 +71,13 @@ Le imprese di assicurazione con sede all’estero e senza filiale in Svizzera no
 
 Le funzioni di società del gruppo e del conglomerato sono importanti per le attività soggette ad autorizzazione se sono necessarie al mantenimento di processi operativi rilevanti, in particolare nell’ambito della sottoscrizione di rischi, della gestione dei rischi, della gestione del portafoglio, della liquidazione dei danni, della contabilità, del personale, delle tecnologie dell’informazione, del diritto, della compliance e degli investimenti patrimoniali.
 
-[^1a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 2: Principi
 
 [^tit1-chap2-1]
 
-[^tit1-chap2-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit1-chap2-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 1b
 
@@ -97,7 +97,7 @@ Per la sorveglianza secondo la presente ordinanza l’Autorità federale di vigi
 
 <sup>3</sup> La FINMA può assegnare a una categoria immediatamente superiore o immediatamente inferiore un’impresa di assicurazione con un totale di bilancio al limite di un’altra categoria, se ciò è giustificato dalla complessità e dal profilo di rischio dell’impresa di assicurazione.
 
-[^1b-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1b-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 1c
 
@@ -116,8 +116,8 @@ La FINMA accorda alle imprese di assicurazione diretta delle categorie 4 e 5 age
 - g. non beneficiano di agevolazioni di altro tipo, segnatamente in relazione con il SST o il patrimonio vincolato, né la normativa ne prevede;
 - h. nei loro confronti la FINMA non ha adottato misure fondate sul diritto in materia di sorveglianza né avviato un procedimento secondo l’articolo 30 della legge del 22 giugno 2007[^1c-2] sulla vigilanza dei mercati finanziari (LFINMA).
 
-[^1c-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1c-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1c-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1c-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 1d
 
@@ -131,8 +131,8 @@ La FINMA accorda alle imprese di riassicurazione delle categorie 4 e 5 le agevol
 - b. nei loro confronti la FINMA non ha adottato misure fondate sul diritto in materia di sorveglianza né avviato un procedimento secondo l’articolo 30 LFINMA[^1d-2];
 - c. se non stipulano più nuovi contratti, sono dotate di un piano di liquidazione approvato dalla FINMA.
 
-[^1d-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1d-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1d-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1d-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 1e
 
@@ -145,7 +145,7 @@ La FINMA può accordare ulteriori agevolazioni alle imprese di assicurazione del
 - a. il grado di adempimento dei requisiti in materia di solvibilità; al riguardo l’impresa di assicurazione deve sottoporre un piano che illustra come saranno adempiuti i requisiti SST entro tre anni;
 - b. i requisiti posti all’organizzazione.
 
-[^1e-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1e-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 1f
 
@@ -162,8 +162,8 @@ Le imprese di assicurazione che sviluppano e vendono direttamente prodotti assic
 - e. la loro distribuzione comprende al massimo 5000 polizze con un volume di premi complessivo di massimo 5 milioni di franchi;
 - f. si impegnano a informare gli stipulanti di non essere sottoposte alla sorveglianza della FINMA.
 
-[^1f-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1f-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1f-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1f-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1g
 
@@ -181,7 +181,7 @@ Le imprese di assicurazione che sviluppano e vendono direttamente prodotti assic
 
 <sup>5</sup> Se la domanda è respinta, i contratti di assicurazione in corso devono essere liquidati entro sei mesi o trasferiti a un’impresa di assicurazione autorizzata.
 
-[^1g-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1g-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 1h
 
@@ -199,14 +199,14 @@ Un’attività di intermediazione non sottostà a sorveglianza se:
 
 <sup>2</sup> Il capoverso 1 non è applicabile all’assicurazione complementare all’assicurazione sociale malattie.[^1h-2]
 
-[^1h-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^1h-2]: Introdotto dal n. I 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^1h-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1h-2]: Introdotto dalla cifra I n. 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^2-1]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ## Titolo secondo: Avvio dell’attività assicurativa
 
@@ -240,8 +240,8 @@ Il rischio compreso nel ramo assicurativo B17 può essere coperto, senza una par
 
 <sup>5</sup> L’autorizzazione a esercitare l’assicurazione diretta permette pure di esercitare la riassicurazione nei rami assicurativi per i quali è stata concessa l’autorizzazione.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 4
 
@@ -265,7 +265,7 @@ Il rischio compreso nel ramo assicurativo B17 può essere coperto, senza una par
 
 Modifiche del piano d’esercizio secondo l’articolo 5 capoverso 2 LSA devono essere comunicate alla FINMA entro quattordici giorni dal momento in cui interviene il relativo fatto.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 5a
 
@@ -274,7 +274,7 @@ Modifiche del piano d’esercizio secondo l’articolo 5 capoverso 2 LSA devono 
 Le casse malati di cui all’articolo 2 della legge del 26 settembre 2014[^5a-2] sulla vigilanza sull’assicurazione malattie (LVAMal) possono esercitare assicurazioni complementari di cui all’articolo 2 capoverso 2 LVAMal non appena la FINMA rilascia loro l’autorizzazione di cui all’articolo 3 LSA.
 
 [^5a-1]: Introdotto dall’all. n. 6 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^5a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^5a-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 #### Art. 5b
 
@@ -301,7 +301,7 @@ L’impresa di assicurazione che esercita attività connesse con l’attività a
 
 <sup>4</sup> Le attività che non adempiono più i requisiti di cui al capoverso 1 devono essere trasferite immediatamente in un’unità giuridica indipendente con comunicazione alla FINMA. È fatto salvo l’articolo 5*c*.
 
-[^5b-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^5b-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 5c
 
@@ -319,7 +319,7 @@ La FINMA può autorizzare l’esercizio di attività non connesse con l’attivi
 
 <sup>2</sup> Sono fatte salve le disposizioni derogatorie contenute nei trattati internazionali.
 
-[^5c-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^5c-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 2: Condizioni per l’autorizzazione
 
@@ -333,7 +333,7 @@ La FINMA può autorizzare l’esercizio di attività non connesse con l’attivi
 
 <sup>2</sup> …[^6-1]
 
-[^6-1]: Abrogato dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
+[^6-1]: Abrogato dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
 
 #### Art. 7
 
@@ -392,7 +392,7 @@ In circostanze particolari, segnatamente se l’esposizione dell’impresa di as
 
 <sup>3</sup> Il curriculum vitae di ogni nuovo membro va inviato alla FINMA entro quindici giorni dalla nomina.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 13
 
@@ -404,7 +404,7 @@ In circostanze particolari, segnatamente se l’esposizione dell’impresa di as
 
 <sup>3</sup> In singoli casi motivati, la FINMA può autorizzare eccezioni a favore dell’impresa di assicurazione, subordinandole a condizioni.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 14
 
@@ -414,7 +414,7 @@ In circostanze particolari, segnatamente se l’esposizione dell’impresa di as
 
 <sup>2</sup> Il *curriculum vitae* di ogni nuovo membro della direzione va inviato alla FINMA entro quindici giorni dalla nomina.[^14-1]
 
-[^14-1]: Nuovo testo giusta l’all. n. II 11 dell’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2007 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
+[^14-1]: Nuovo testo giusta l’all. cifra II n. 11 dell’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2007 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
 
 #### Art. 14a
 
@@ -428,13 +428,13 @@ In circostanze particolari, segnatamente se l’esposizione dell’impresa di as
 
 <sup>3</sup> Deve stabilire regole e processi adeguati per il governo e il controllo d’impresa.
 
-[^14a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 3*a*: Conflitti di interessi
 
 [^tit2-chap3a-1]
 
-[^tit2-chap3a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit2-chap3a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 14b
 
@@ -475,7 +475,7 @@ A tal fine deve descrivere i conflitti di interessi che risultano dalla fornitur
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^15-1]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Sezione 2: Mandatario generale
 
@@ -546,22 +546,22 @@ Nelle sue competenze non rientrano dichiarazioni concernenti:
 
 <sup>2</sup> Le disposizioni concernenti il mandatario generale si applicano per analogia.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 [^20-2]: Nuovo testo giusta l’all. n. 11 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^20-3]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^20-4]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^20-3]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^20-4]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Titolo terzo: Solvibilità
 
 [^tit3-1]
 
-[^tit3-1]: Aggiornato dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit3-1]: Aggiornato dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 1: Disposizioni generali
 
 [^tit3-chap1-1]
 
-[^tit3-chap1-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^tit3-chap1-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 21
 
@@ -587,7 +587,7 @@ Il SST determina la dotazione in capitale (solvibilità) di cui un’impresa di 
 
 *Abrogati*
 
-[^22a22c-1]: Introdotti dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2025 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^22a22c-1]: Introdotti dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2025 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 23
 
@@ -992,7 +992,7 @@ Se il modello standard utilizzato non rappresenta a sufficienza la specifica sit
 
 <sup>5</sup> La FINMA può utilizzare software open source per le applicazioni dei modelli standard.
 
-[^45-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^45-1]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
 
 #### Art. 46
 
@@ -1073,8 +1073,8 @@ La FINMA autorizza un’impresa di assicurazione a utilizzare un modello interno
 
 <sup>2</sup> I risultati degli stress test di singole imprese di assicurazione e singoli gruppi assicurativi non sono pubblicati, a meno che la FINMA non lo ordini in virtù dell’articolo 22 LFINMA[^50a-2].
 
-[^50a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^50a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^50a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^50a-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 50b–50f
 
@@ -1082,13 +1082,13 @@ La FINMA autorizza un’impresa di assicurazione a utilizzare un modello interno
 
 *Abrogati*
 
-[^50b50f-1]: Introdotti dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^50b50f-1]: Introdotti dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Capitolo 9: Misure e interventi
 
 [^tit3-chap9-1]
 
-[^tit3-chap9-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit3-chap9-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 51
 
@@ -1122,7 +1122,7 @@ Il contenuto e la portata delle misure di protezione sono articolati in funzione
 
 <sup>5</sup> In casi motivati, la FINMA può ammettere eccezioni alle disposizioni di cui al capoverso 3. Al riguardo sono determinanti in particolare l’effettivo livello di protezione degli assicurati e la disponibilità e l’efficacia delle misure.
 
-[^52-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^52-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 53
 
@@ -1159,7 +1159,7 @@ La FINMA può disporre semplificazioni per le imprese di assicurazione nell’es
 - a. lo giustificano circostanze particolari, segnatamente l’esiguo volume degli affari, la ridotta complessità o una situazione di rischio non critica; e
 - b. il rispetto del livello di protezione non è in tal modo compromesso.
 
-[^53a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^53a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 53b
 
@@ -1181,7 +1181,7 @@ In caso di modellizzazione insufficiente o per coprire ulteriori rischi non cons
 
 [^tit4-chap1-sec1-1]
 
-[^tit4-chap1-sec1-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^tit4-chap1-sec1-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 54
 
@@ -1207,7 +1207,7 @@ Sono generi di riserve tecniche:
 - b. le riserve necessarie alla costituzione di sufficienti riserve;
 - c. le riserve costituite secondo metodi attuariali e fissati nel piano d’esercizio per aumentare ulteriormente la possibilità di adempiere gli impegni derivanti dai contratti assicurativi.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 56
 
@@ -1229,7 +1229,7 @@ Dalle riserve tecniche di cui al capoverso 1 lettera a possono essere dedotti:
 - b. le prestazioni assicurative pagate in anticipo;
 - c. i premi dovuti, per quanto possano essere compensati con prestazioni assicurative.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 57
 
@@ -1239,7 +1239,7 @@ Dalle riserve tecniche di cui al capoverso 1 lettera a possono essere dedotti:
 
 <sup>2</sup> …[^57-1]
 
-[^57-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^57-1]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 58
 
@@ -1249,7 +1249,7 @@ Dalle riserve tecniche di cui al capoverso 1 lettera a possono essere dedotti:
 
 <sup>2</sup> Le riserve tecniche di cui all’articolo 55 lettere b e c devono essere calcolate non individualmente, bensì considerando tutti i contratti.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 59
 
@@ -1261,7 +1261,7 @@ L’impresa di assicurazione costituisce tutte le riserve tecniche senza tenere 
 
 [^6061-1]
 
-[^6061-1]: Abrogati dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^6061-1]: Abrogati dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 62
 
@@ -1277,9 +1277,9 @@ L’impresa di assicurazione costituisce tutte le riserve tecniche senza tenere 
 
 <sup>3</sup> In casi motivati, la FINMA può ordinare un potenziamento supplementare delle riserve tecniche.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^62-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^62-3]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^62-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^62-3]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 63
 
@@ -1287,13 +1287,13 @@ L’impresa di assicurazione costituisce tutte le riserve tecniche senza tenere 
 
 Le riserve tecniche devono coprire in ogni tempo, dopo deduzione di eventuali spese di acquisizione attivate, i valori di liquidazione.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 64
 
 [^64-1]
 
-[^64-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^64-1]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 65
 
@@ -1303,13 +1303,13 @@ Le riserve tecniche devono coprire in ogni tempo, dopo deduzione di eventuali sp
 
 <sup>2</sup> L’attivazione di valori di riscatto non ancora estinti è di regola ammessa. La FINMA emana direttive concernenti l’estensione e le modalità dell’attivazione. In casi motivati, essa può vietare l’attivazione.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 66 e 67
 
 [^6667-1]
 
-[^6667-1]: Abrogati dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^6667-1]: Abrogati dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Sezione 3: Assicurazione contro i danni
 
@@ -1329,7 +1329,7 @@ L’importo legale del patrimonio vincolato comprende:
 
 <sup>3</sup> I premi dovuti possono essere dedotti dalle riserve tecniche, sempre che non vi sia una copertura assicurativa o per quanto i premi dovuti possano essere compensati con prestazioni assicurative.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 69
 
@@ -1351,13 +1351,13 @@ Sono riserve tecniche:
 
 <sup>3</sup> Le imprese di assicurazione che esercitano l’assicurazione crediti sono esentate dalla costituzione di riserve di compensazione, sempre che l’incasso degli introiti dei premi in questo ramo assicurativo ammonti a meno del 4 per cento della somma complessiva e a meno di 4 milioni di franchi.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Capitolo 2: Principi degli investimenti patrimoniali
 
 [^tit4-chap2-1]
 
-[^tit4-chap2-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit4-chap2-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### (art. 16 LSA)
 
@@ -1396,7 +1396,7 @@ Gli investimenti per contratti di assicurazione sulla vita in cui il rischio d�
 
 [^tit4-chap2a-1]
 
-[^tit4-chap2a-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit4-chap2a-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Sezione 1: In generale
 
@@ -1417,7 +1417,7 @@ Al momento della sua costituzione il patrimonio vincolato ammonta almeno a:
 
 <sup>2</sup> In casi motivati, la FINMA può ammettere nel corso dell’anno stime fondate delle riserve tecniche attuali.
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 72
 
@@ -1427,7 +1427,7 @@ Al momento della sua costituzione il patrimonio vincolato ammonta almeno a:
 
 <sup>2</sup> Le imprese di assicurazione con sede in Svizzera devono inoltre fornire informazioni in merito a ogni portafoglio assicurativo straniero per il quale esse devono costituire garanzie all’estero.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 73
 
@@ -1453,7 +1453,7 @@ La FINMA emana disposizioni concernenti il prestito di valori mobiliari (securit
 - b. la struttura dei contratti;
 - c. la loro estensione.
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Sezione 2: Costituzione
 
@@ -1467,7 +1467,7 @@ La FINMA emana disposizioni concernenti il prestito di valori mobiliari (securit
 
 <sup>2</sup> Deve elaborare e definire tali elementi patrimoniali in modo tale da poter dimostrare in qualsiasi momento senza indugio quali valori appartengono al patrimonio vincolato e che l’importo legale del patrimonio vincolato è coperto. L’uso e la realizzabilità degli elementi del patrimonio vincolato a favore degli assicurati devono essere garantiti.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 76a
 
@@ -1481,7 +1481,7 @@ La FINMA emana disposizioni concernenti il prestito di valori mobiliari (securit
 
 <sup>3</sup> La FINMA può emanare disposizioni di esecuzione.
 
-[^76a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^76a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 77
 
@@ -1504,7 +1504,7 @@ L’impresa di assicurazione può costituire ulteriori patrimoni vincolati separ
 
 <sup>3</sup> La FINMA può ordinare la costituzione di patrimoni vincolati separati per altre comunità solidali speciali, se ciò è necessario alla garanzia delle pretese derivanti dai relativi contratti assicurativi.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 78
 
@@ -1550,13 +1550,13 @@ Se l’impresa di assicurazione non dispone di un elenco approvato dalla FINMA, 
 
 <sup>4</sup> La FINMA può emanare disposizioni di esecuzione in merito agli elementi ammessi.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 80
 
 [^80-1]
 
-[^80-1]: Abrogato dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
+[^80-1]: Abrogato dalla cifra I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
 
 #### Art. 81
 
@@ -1566,13 +1566,13 @@ Se l’impresa di assicurazione non dispone di un elenco approvato dalla FINMA, 
 
 Per i patrimoni vincolati separati nell’assicurazione sulla vita vincolata a partecipazioni nei rami assicurativi A2.1, A2.2, A2.3, A2.4, A2.5, A2.6, A6.1 e A6.2 gli elementi da porre a copertura nella misura necessaria sono considerati idonei, sempre che secondo l’articolo 69*a* capoverso 2 lettere a e b sia prevista una copertura congruente.
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 82
 
 [^82-1]
 
-[^82-1]: Abrogato dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^82-1]: Abrogato dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 83
 
@@ -1595,13 +1595,13 @@ I valori computabili degli elementi attribuiti sottostanno alle seguenti limitaz
 
 <sup>4</sup> I patrimoni vincolati separati nei rami assicurativi A2.1, A2.2, A2.3, A2.4, A2.5, A2.6, A6.1 e A6.2 sono esclusi dalle limitazioni di cui al capoverso 3, sempre che presentino una copertura congruente secondo l’articolo 69*a* capoverso 2.
 
-[^83-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^83-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Sezione 3: Attribuzione e controllo
 
 [^tit4-chap2a-sec3-1]
 
-[^tit4-chap2a-sec3-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit4-chap2a-sec3-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 84
 
@@ -1617,9 +1617,9 @@ I valori computabili degli elementi attribuiti sottostanno alle seguenti limitaz
 
 <sup>2bis</sup> La FINMA può autorizzare eccezioni, purché ciò non pregiudichi la sicurezza del patrimonio vincolato.[^84-3]
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^84-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^84-3]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^84-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^84-3]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 85
 
@@ -1678,10 +1678,10 @@ La custodia presso un ente di custodia idoneo è ammessa. Al riguardo occorre in
 
 <sup>4</sup> La FINMA può autorizzare altre eccezioni in presenza di garanzie idonee.[^87-4]
 
-[^87-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^87-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^87-3]: Introdotto dal n. I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Abrogato dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^87-4]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^87-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^87-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^87-3]: Introdotto dalla cifra I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Abrogato dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^87-4]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Sezione 4: Valutazione degli elementi
 
@@ -1695,7 +1695,7 @@ La custodia presso un ente di custodia idoneo è ammessa. Al riguardo occorre in
 
 <sup>3</sup> Prodotti strutturati o combinazioni di strumenti finanziari comparabili a titoli a interesse fisso possono essere computati al massimo al valore secondo il metodo scientifico o lineare dell’ammortamento dei costi. La FINMA disciplina i limiti e le condizioni quadro per il computo.[^88-1]
 
-[^88-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^88-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 88a
 
@@ -1703,7 +1703,7 @@ La custodia presso un ente di custodia idoneo è ammessa. Al riguardo occorre in
 
 Nella valutazione degli investimenti vengono considerati anche gli interessi maturati.
 
-[^88a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^88a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 89
 
@@ -1725,8 +1725,8 @@ Nella valutazione degli investimenti vengono considerati anche gli interessi mat
 
 <sup>2</sup> ...[^90-2]
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^90-2]: Abrogato dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^90-2]: Abrogato dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 91
 
@@ -1742,9 +1742,9 @@ Nella valutazione degli investimenti vengono considerati anche gli interessi mat
 
 <sup>3</sup> La compensazione (netting) di tutte le operazioni sui derivati stipulate in un contratto quadro è ammessa solo se tale contratto quadro è stipulato separatamente per ogni singolo patrimonio vincolato. Le voci negative che sorgono da tali contratti devono essere dedotte dal patrimonio vincolato. La FINMA può imporre regole per la strutturazione dei contratti quadro.
 
-[^91-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^91-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^91-3]: Abrogato dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^91-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^91-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^91-3]: Abrogato dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 91a
 
@@ -1754,7 +1754,7 @@ Nella valutazione degli investimenti vengono considerati anche gli interessi mat
 
 Per gli elementi patrimoniali solitamente garantiti, come valore computabile per l’unità costituita dall’elemento patrimoniale e dalla garanzia ricevuta non si tiene conto di un valore superiore al valore computabile della garanzia ricevuta, sempre che questa esista effettivamente nel corrispondente patrimonio vincolato e rimanga all’impresa di assicurazione in caso di close-out netting. Inoltre, devono essere osservate le consuete limitazioni della valutazione in particolare conformemente all’articolo 93.
 
-[^91a-1]: Introdotto dal n. I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^91a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 91b
 
@@ -1768,7 +1768,7 @@ Per gli elementi patrimoniali solitamente garantiti, come valore computabile per
 
 <sup>3</sup> L’impresa di assicurazione stabilisce, in particolare considerando il rischio che la garanzia sia escussa, il valore computabile di volta in volta adeguato nel senso del migliore valore di stima possibile dei crediti di cui al capoverso 2. Il valore computabile non può superare il 75 per cento dell’attuale valore di mercato della quota del versamento del margine iniziale dato in garanzia attribuibile ai derivati.
 
-[^91b-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^91b-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 92
 
@@ -1780,7 +1780,7 @@ Per gli elementi patrimoniali solitamente garantiti, come valore computabile per
 
 <sup>2</sup> Nel caso di fondo a investitore unico i singoli titoli del patrimonio del fondo devono figurare nel patrimonio vincolato ed essere valutati analogamente agli investimenti diretti secondo le disposizioni della presente sezione.
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 93
 
@@ -1797,13 +1797,14 @@ Devono essere dedotti eventuali impegni, sempre che:
 - a. riducano il patrimonio finalizzato alla copertura degli impegni assicurativi; e
 - b. abbiano un nesso economico con l’elemento patrimoniale corrispondente.
 
-<sup>3</sup> Se gli investimenti sono negoziati su un mercato regolamentato, il metodo utilizzato per determinare i valori di mercato deve essere documentato e dev’essere considerata l’incertezza di valutazione che ne risulta.
+<sup>3</sup> Se gli investimenti non sono negoziati su un mercato regolamentato, il metodo utilizzato per determinare i valori di mercato deve essere documentato e dev’essere considerata l’incertezza di valutazione che ne risulta.[^93-2]
 
 <sup>4</sup> Se un investimento valutato secondo l’articolo 88 è garantito da derivati, il valore computabile combinato dei corrispondenti derivati e dell’investimento garantito non può superare il valore determinato conformemente all’articolo 88.
 
 <sup>5</sup> Il limite massimo della valutazione di un patrimonio vincolato corrisponde in ogni caso complessivamente al ricavo della realizzazione previsto sulla base dei valori di mercato.
 
-[^93-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^93-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^93-2]: Correzione del 26 feb. 2026 ([RU 2026 95](https://fedlex.data.admin.ch/eli/oc/2026/95)).
 
 #### Art 93a
 
@@ -1811,7 +1812,7 @@ Devono essere dedotti eventuali impegni, sempre che:
 
 Gli investimenti che servono alla garanzia degli impegni derivanti da contratti assicurativi nei rami assicurativi A2, A6.1 o A6.2 possono essere computati al massimo al valore di mercato.
 
-[^93a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^93a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 94
 
@@ -1833,9 +1834,9 @@ Al momento della valutazione in franchi svizzeri, l’impresa di assicurazione p
 
 <sup>3</sup> Essa può ordinare in qualsiasi momento una valutazione degli elementi del patrimonio vincolato.
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^95-2]: Abrogato dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^95-3]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^95-2]: Abrogato dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^95-3]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Titolo quinto: Altre prescrizioni concernenti l’esercizio dell’attività assicurativa
 
@@ -1871,13 +1872,13 @@ La gestione dei rischi comprende in particolare:
 
 <sup>4</sup> La funzione di gestione dei rischi e la funzione di compliance devono essere indipendenti. Devono essere proporzionate alle dimensioni, alla complessità degli affari e alla complessità organizzativa nonché ai rischi dell’impresa di assicurazione. La funzione di gestione dei rischi deve sostenere l’impresa di assicurazione nella promozione di una cultura del rischio all’interno di tutta l’impresa.[^96-7]
 
-[^96-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^96-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^96-3]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^96-4]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^96-5]: Abrogata dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^96-6]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^96-7]: Introdotto dal n. I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-3]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-4]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-5]: Abrogata dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96-6]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^96-7]: Introdotto dalla cifra I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 96a
 
@@ -1904,7 +1905,7 @@ L’impresa di assicurazione deve effettuare almeno una volta all’anno un’au
 
 <sup>6</sup> La FINMA può ordinare che il rapporto sia presentato a intervalli più brevi, se la situazione di rischio lo esige. In casi motivati, può ammettere deroghe all’obbligo di presentare un rapporto.
 
-[^96a-1]: Introdotto dal n. I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^96a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 97
 
@@ -1927,10 +1928,10 @@ La documentazione deve comprendere innanzi tutto i seguenti punti:[^97-2]
 - e. l’illustrazione dei vigenti sistemi dei limiti per le esposizioni ai rischi come pure dei meccanismi di controllo;
 - f. direttive interne dell’impresa concernenti la gestione dei rischi e dei relativi processi.
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^97-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^97-3]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^97-4]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^97-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^97-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^97-3]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^97-4]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 98
 
@@ -1946,7 +1947,7 @@ La documentazione deve comprendere innanzi tutto i seguenti punti:[^97-2]
 
 <sup>4</sup> Deve adottare misure volte a tutelare le persone, i processi operativi e l’infrastruttura. Inoltre deve disporre di un piano per il mantenimento dell’attività operativa in una situazione di emergenza che includa strategie, misure, competenze e canali di comunicazione necessari a tal fine.
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^98-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 98a
 
@@ -1967,13 +1968,13 @@ Deve allestire una pianificazione della liquidità almeno nell’ambito della pi
 
 <sup>4</sup> Deve presentare annualmente alla FINMA un rapporto sulla pianificazione della liquidità. La FINMA disciplina i requisiti del rapporto in funzione delle dimensioni e della complessità dell’impresa di assicurazione. Nel singolo caso può esonerare un’impresa di assicurazione dall’obbligo di presentare un rapporto.
 
-[^98a-1]: Introdotto dal n. I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^98a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)). Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 1*a*: Piani di stabilizzazione
 
 [^tit5-chap1a-1]
 
-[^tit5-chap1a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit5-chap1a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 98b
 
@@ -2056,13 +2057,13 @@ Le imprese di assicurazione che impiegano derivati devono disporre di sufficient
 
 <sup>3</sup> La FINMA emana disposizioni di esecuzione in merito all’impiego di derivati.
 
-[^100-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^100-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 101 a108
 
 [^101108-1]
 
-[^101108-1]: Abrogati dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^101108-1]: Abrogati dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 109
 
@@ -2081,7 +2082,7 @@ L’impresa di assicurazione deve presentare almeno una volta all’anno alla FI
 
 <sup>2</sup> La FINMA emana disposizioni di esecuzione, in particolare in merito al rapporto.
 
-[^109-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^109-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 4: Rendiconto
 
@@ -2112,11 +2113,11 @@ Gli strumenti finanziari derivati non scaduti alla chiusura dei conti possono:
 - a. essere considerati in modo prudente ai fini della valutazione dei valori di base; o
 - b. essere inseriti nel bilancio separatamente. In questo caso, devono essere valutati in modo prudente, ma al massimo al valore di mercato. Per gli strumenti finanziari derivati che non hanno un valore di mercato, la valutazione non deve superare il valore calcolato sulla base di modelli di valutazione riconosciuti.
 
-[^110-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^110-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^110-3]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^110-4]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^110-5]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^110-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^110-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^110-3]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^110-4]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^110-5]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 111
 
@@ -2174,13 +2175,13 @@ La FINMA può esonerare dall’obbligo di pubblicazione:
 
 <sup>7</sup> Nel singolo caso la FINMA può accordare ulteriori deroghe.[^111a-7]
 
-[^111a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^111a-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^111a-3]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^111a-4]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^111a-5]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^111a-6]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^111a-7]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^111a-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-3]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-4]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-5]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-6]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^111a-7]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 111b
 
@@ -2195,14 +2196,14 @@ Può prevedere deroghe agli articoli 959*a* capoversi 1 e 2, 959*b* capoversi 2 
 - a. fornire una presentazione standardizzata del bilancio e del conto economico;
 - b. permettere un confronto degli investimenti di capitale con le relative riserve tecniche.
 
-[^111b-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^111b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111b-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^111b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Capitolo 4*a*: Imprese di assicurazione che assicurano stipulanti professionisti
 
 [^tit5-chap4a-1]
 
-[^tit5-chap4a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit5-chap4a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 111c
 
@@ -2214,13 +2215,13 @@ Può prevedere deroghe agli articoli 959*a* capoversi 1 e 2, 959*b* capoversi 2 
 
 <sup>2</sup> Sono considerati conclusione del contratto ai sensi dell’articolo 30*b* LSA anche ogni rinnovo o modifica essenziale del contratto.
 
-[^111c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^111c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 ### Capitolo 4*b*: Società veicolo di assicurazione
 
 [^tit5-chap4b-1]
 
-[^tit5-chap4b-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit5-chap4b-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Sezione 1: In generale
 
@@ -2246,7 +2247,7 @@ Può prevedere deroghe agli articoli 959*a* capoversi 1 e 2, 959*b* capoversi 2 
 
 <sup>3</sup> Sono considerati investitori ai sensi del presente capitolo i detentori o i creditori di strumenti finanziari della società veicolo di assicurazione.
 
-[^111e-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^111e-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 111f
 
@@ -2393,7 +2394,7 @@ L’assemblea degli investitori ha le seguenti competenze:
 - b. la deliberazione sull’incorporazione di due segmenti patrimoniali; e
 - c. la deliberazione sulle materie a essa riservate dalla legge, dalla presente ordinanza, dagli statuti della società veicolo di assicurazione o dal regolamento sui gruppi di rischio.
 
-[^111p-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^111p-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 111q
 
@@ -2499,7 +2500,7 @@ L’importo totale del deposito premi gestito dall’impresa di assicurazioni pe
 
 <sup>2</sup> Se è richiesta un’ulteriore copia senza una ragione sufficiente, l’impresa di assicurazione o l’intermediario assicurativo può esigere un indennizzo per la creazione e la consegna della nuova copia.
 
-[^119a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^119a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Titolo sesto: Disposizioni per singoli rami assicurativi
 
@@ -2519,8 +2520,8 @@ L’importo totale del deposito premi gestito dall’impresa di assicurazioni pe
 
 <sup>2</sup> In base a valutazioni statistiche essa esamina annualmente che le basi per la tariffazione siano ancora adeguate. Qualora risultassero insufficienti, le basi per la tariffazione non possono più essere utilizzate per i nuovi contratti.
 
-[^120-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^120-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^120-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^120-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 121
 
@@ -2550,7 +2551,7 @@ Le seguenti quote della media mobile quadriennale sono moltiplicate per i fattor
 
 <sup>7</sup> In condizioni essenzialmente diverse da quelle previste, segnatamente nell*’*ambito del mercato dei capitali, la FINMA può correggere adeguatamente il tasso d*’*interesse tecnico massimo calcolato secondo i capoversi 1–6.
 
-[^121-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^121-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 121a
 
@@ -2560,7 +2561,7 @@ Le seguenti quote della media mobile quadriennale sono moltiplicate per i fattor
 
 Per i contratti di assicurazione sulla vita non denominati in franchi svizzeri, la FINMA stabilisce il tasso d*’*interesse tecnico massimo analogamente alle disposizioni di cui all*’*articolo 121.
 
-[^121a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^121a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 121b
 
@@ -2572,7 +2573,7 @@ Per i contratti di assicurazione sulla vita non denominati in franchi svizzeri, 
 
 <sup>2</sup> La FINMA pubblica sul proprio sito Internet il tasso d*’*interesse tecnico massimo valido di volta in volta. In caso di una sua riduzione, il tasso d*’*interesse tecnico deve essere applicato al più tardi entro sei mesi dalla pubblicazione.
 
-[^121b-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^121b-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 121c
 
@@ -2582,7 +2583,7 @@ Per i contratti di assicurazione sulla vita non denominati in franchi svizzeri, 
 
 Se i contratti di assicurazione sulla vita contengono garanzie la cui tariffazione si fonda su basi determinate dal mercato dei capitali diverse dai tassi d*’*interesse tecnici, queste basi devono essere stabilite con prudenza in funzione delle garanzie.
 
-[^121c-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^121c-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 122
 
@@ -2596,8 +2597,8 @@ Se i contratti di assicurazione sulla vita contengono garanzie la cui tariffazio
 
 <sup>2</sup> L’impresa di assicurazione elabora regolarmente le proprie basi statistiche utilizzate per la tariffazione e le adegua almeno ogni dieci anni alle conoscenze più recenti.
 
-[^122-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^122-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^122-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^122-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 123
 
@@ -2615,8 +2616,8 @@ Se i contratti di assicurazione sulla vita contengono garanzie la cui tariffazio
 
 <sup>4</sup> La tariffazione deve avvenire in base a metodi attuariali riconosciuti.
 
-[^123-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^123-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^123-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^123-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 124
 
@@ -2640,8 +2641,8 @@ Se un’impresa di assicurazione esercita l’assicurazione invalidità nel quad
 
 I contratti assicurativi nei rami assicurativi A2.1, A2.2, A2.3 e A6.1 devono essere vincolati a investimenti collettivi di capitale aperti che rientrano nella legge del 23 giugno 2006[^125a-2] sugli investimenti collettivi.
 
-[^125a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^125a-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^125a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^125a-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 126
 
@@ -2686,11 +2687,11 @@ I valori di liquidazione sono approvati alle seguenti condizioni:[^127-2]
 
 <sup>3</sup> Per l’approvazione, la FINMA può basarsi sul rapporto dell’attuario responsabile.
 
-[^127-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^127-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^127-3]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^127-4]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^127-5]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^127-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^127-2]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^127-3]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^127-4]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^127-5]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 128
 
@@ -2728,7 +2729,7 @@ Se l’impresa di assicurazione concede un’opzione di capitale, la prestazione
 
 <sup>7</sup> La FINMA può emanare disposizioni di esecuzione concernenti i capoversi 2–6.
 
-[^129a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129b
 
@@ -2772,7 +2773,7 @@ Le indicazioni di cui al capoverso 2 devono essere determinate come segue:
 
 <sup>6</sup> La FINMA può emanare disposizioni di esecuzione concernenti i capoversi 2–5.
 
-[^129b-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129b-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129c
 
@@ -2784,7 +2785,7 @@ Le indicazioni di cui al capoverso 2 devono essere determinate come segue:
 
 <sup>2</sup> Le società del gruppo al quale appartiene l’impresa di assicurazione sono considerate terzi per l’impresa di assicurazione.
 
-[^129c-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129c-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129d
 
@@ -2803,7 +2804,7 @@ Se il foglio informativo di base è messo a disposizione su un sito Internet, l�
 
 <sup>3</sup> Il foglio informativo di base deve essere messo a disposizione degli stipulanti in modo da lasciare loro tempo a sufficienza per comprendere le informazioni ivi contenute in vista della conclusione del contratto o della fornitura della prestazione assicurativa.
 
-[^129d-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129d-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129e
 
@@ -2817,7 +2818,7 @@ Se il foglio informativo di base è messo a disposizione su un sito Internet, l�
 
 <sup>3</sup> La FINMA può emanare disposizioni di esecuzione, segnatamente per agevolare la comprensione del foglio informativo di base.
 
-[^129e-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129e-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129f
 
@@ -2835,7 +2836,7 @@ Il foglio informativo di base deve essere redatto in una delle seguenti lingue:
 
 <sup>2</sup> La presentazione grafica e le dimensioni del foglio informativo di base devono corrispondere al modello di cui all’allegato 4.
 
-[^129f-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129f-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129g
 
@@ -2847,7 +2848,7 @@ Il foglio informativo di base deve essere redatto in una delle seguenti lingue:
 
 <sup>2</sup> Spetta all’impresa di assicurazione verificare le qualifiche.
 
-[^129g-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129g-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129h
 
@@ -2857,7 +2858,7 @@ Il foglio informativo di base deve essere redatto in una delle seguenti lingue:
 
 Se il foglio informativo di base contiene indicazioni orientative, occorre segnalarlo agli stipulanti nel foglio informativo di base. Le indicazioni orientative devono essere riconoscibili come tali.
 
-[^129h-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129h-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129i
 
@@ -2871,7 +2872,7 @@ L’impresa di assicurazione deve descrivere allo stipulante in un linguaggio co
 - b. la copertura assicurativa;
 - c. la durata dell’assicurazione sulla vita qualificata.
 
-[^129i-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129i-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129j
 
@@ -2883,7 +2884,7 @@ L’impresa di assicurazione deve descrivere allo stipulante in un linguaggio co
 
 <sup>2</sup> I costi che non possono essere definiti esattamente in anticipo o che possono essere definiti esattamente soltanto con un dispendio sproporzionato devono essere indicati approssimativamente o come intervallo di valori. Se neppure questo è possibile o lo è soltanto con un dispendio sproporzionato, occorre comunicarlo segnalando il rischio che lo stipulante debba pagare emolumenti o tasse supplementari oppure sostenere ulteriori costi.
 
-[^129j-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129j-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129k
 
@@ -2893,7 +2894,7 @@ L’impresa di assicurazione deve descrivere allo stipulante in un linguaggio co
 
 Le indicazioni contenute nel foglio informativo di base devono essere verificate periodicamente, ma almeno una volta all’anno fintanto che è offerta l’assicurazione sulla vita qualificata.
 
-[^129k-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129k-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129l
 
@@ -2905,7 +2906,7 @@ Le indicazioni contenute nel foglio informativo di base devono essere verificate
 
 <sup>2</sup> La messa a disposizione dei documenti è retta dall’articolo 129*d*.
 
-[^129l-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129l-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129m
 
@@ -2923,7 +2924,7 @@ Nel verificare l’appropriatezza dell’assicurazione sulla vita per lo stipula
 
 <sup>2</sup> Nel caso di stipulanti che operano tramite un rappresentante autorizzato, per la verifica dell’appropriatezza l’impresa di assicurazione o l’intermediario assicurativo considera le conoscenze e l’esperienza del rappresentante.
 
-[^129m-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129m-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129n
 
@@ -2933,7 +2934,7 @@ Nel verificare l’appropriatezza dell’assicurazione sulla vita per lo stipula
 
 L’impresa di assicurazione e l’intermediario assicurativo devono approntare la documentazione in modo da poter rendere conto agli stipulanti entro dieci giorni lavorativi.
 
-[^129n-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129n-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129o
 
@@ -2943,7 +2944,7 @@ L’impresa di assicurazione e l’intermediario assicurativo devono approntare 
 
 Il rendiconto è fornito su un supporto durevole secondo l’articolo 14*c* capoverso 4. È fornito negli intervalli di tempo convenuti con gli stipulanti o su loro richiesta.
 
-[^129o-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129o-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 129p
 
@@ -2962,7 +2963,7 @@ Non sono considerati pubblicità:
 - c. la messa a disposizione o la trasmissione di comunicazioni agli stipulanti da parte di imprese di assicurazione;
 - d. gli articoli nella stampa specializzata.
 
-[^129p-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^129p-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 130
 
@@ -3129,8 +3130,8 @@ Il ricavo del processo di risparmio (componente di risparmio) corrisponde:
 
 <sup>3</sup> Le spese nel processo di risparmio corrispondono agli oneri per la rimunerazione tecnica al tasso d’interesse garantito e per la liquidazione delle rendite di vecchiaia in corso e le rendite di figli di pensionati come pure per la liquidazione di polizze di libero passaggio.
 
-[^143-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^143-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^143-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^143-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 144
 
@@ -3193,9 +3194,9 @@ Se le componenti di risparmio corrispondono al 6 per cento o più della riserva 
 
 <sup>4</sup> La quota di distribuzione e la prova dell’utilizzazione devono essere sottoposte per approvazione.
 
-[^147-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^147-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^147-3]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^147-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^147-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^147-3]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 148
 
@@ -3272,13 +3273,13 @@ In caso di saldo totale negativo bisogna adottare, nell’ordine, i seguenti pro
 
 <sup>3</sup> La FINMA può, per motivi particolari, ordinare deroghe alla regola dei due terzi di cui al capoverso 1.
 
-[^153-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^153-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 154
 
 [^154-1]
 
-[^154-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^154-1]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Capitolo 4: Assicurazione malattie e contro gli infortuni
 
@@ -3294,7 +3295,7 @@ In caso di saldo totale negativo bisogna adottare, nell’ordine, i seguenti pro
 
 <sup>3</sup> È fatto salvo l’articolo 155 capoverso 1.
 
-[^154a-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^154a-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 155
 
@@ -3324,7 +3325,7 @@ L’impresa di assicurazione deve informare lo stipulante in merito all’ammont
 - b. su richiesta dello stipulante; e
 - c. in caso di adeguamenti dei premi.
 
-[^155-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^155-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 156
 
@@ -3382,7 +3383,7 @@ La FINMA e l’autorità di sorveglianza ai sensi della LVAMal[^160a-2] coordina
 <sup>2</sup> La FINMA e l’autorità di sorveglianza di cui al capoverso 1 possono coordinare le loro attività di sorveglianza anche nel quadro di un regolare scambio di informazioni sui soggetti giuridici sottoposti alla loro sorveglianza.
 
 [^160a-1]: Introdotto dall’all. n. 6 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^160a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^160a-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 
 ### Capitolo 5: Assicurazione della protezione giuridica
 
@@ -3521,7 +3522,7 @@ Non rientrano nell’assicurazione combinata contro l’incendio e i danni causa
 
 <sup>2</sup> Per cantiere si intende l’intera area sulla quale si trovano beni mobili che sono in relazione con un’opera, anche prima dell’inizio e dopo la fine dei lavori.
 
-[^172-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^172-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 #### Art. 173
 
@@ -3570,7 +3571,7 @@ L’avente diritto assume la seguente franchigia:
 
 <sup>2</sup> Per i danni ai beni mobili e per quelli ai fabbricati si applica, per ogni sinistro, la rispettiva franchigia. Qualora un sinistro colpisca più fabbricati, appartenenti allo stesso stipulante, per i quali sono previste franchigie diverse, la franchigia è compresa tra un minimo di 2500 franchi ed un massimo di 50 000 franchi.
 
-[^175-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
+[^175-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
 
 #### Art. 176
 
@@ -3586,7 +3587,7 @@ L’avente diritto assume la seguente franchigia:
 
 <sup>5</sup> Premessa per la copertura di un evento è che il contratto assicurativo sia in vigore al momento del verificarsi dell’evento.
 
-[^176-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
+[^176-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
 
 ### Sezione 2: Premi e statistiche
 
@@ -3640,7 +3641,7 @@ L’avente diritto assume la seguente franchigia:
 
 [^tit6-chap7-1]
 
-[^tit6-chap7-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit6-chap7-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### (art. 35 cpv. 3 LSA)
 
@@ -3652,7 +3653,7 @@ Nell*’*ambito della vigilanza sulla riassicurazione, in materia di organizzazi
 
 [^tit7-1]
 
-[^tit7-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit7-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 1: Campo di applicazione e definizioni
 
@@ -3954,7 +3955,7 @@ Se nelle informazioni di cui all’articolo 45 capoverso 1 LSA sopravvengono mod
 
 [^chap6-1]
 
-[^chap6-1]: Introdotto dal n. I 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^chap6-1]: Introdotto dalla cifra I n. 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 #### Art. 190d
 
@@ -4006,7 +4007,7 @@ Le disposizioni dell’accordo settoriale del 22 marzo 2024[^190e-1] concluso tr
 
 <sup>3</sup> La FINMA stabilisce caso per caso, in funzione della grandezza e complessità del gruppo assicurativo, cosa bisogna intendere per partecipazione importante.
 
-[^192-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^192-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 193
 
@@ -4036,7 +4037,7 @@ I processi interni al gruppo sono attività e transazioni in cui, per l’adempi
 
 <sup>3</sup> La FINMA disciplina il modo e il contenuto dei rapporti e stabilisce i valori minimi tenendo conto della grandezza e della complessità del gruppo assicurativo.
 
-[^194-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^194-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Sezione 2: Gestione dei rischi
 
@@ -4054,9 +4055,9 @@ I processi interni al gruppo sono attività e transazioni in cui, per l’adempi
 
 <sup>3</sup> I gruppi assicurativi devono mantenere a livello di gruppo una funzione attuariale con responsabilità e compiti a livello di gruppo per analogia con l’articolo 24 LSA.[^195-3]
 
-[^195-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^195-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^195-3]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^195-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^195-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^195-3]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 196
 
@@ -4070,13 +4071,13 @@ I processi interni al gruppo sono attività e transazioni in cui, per l’adempi
 
 [^197-1]
 
-[^197-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^197-1]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Sezione 2*a*: Strumenti della sorveglianza dei gruppi
 
 [^tit8-chap1-sec2a-1]
 
-[^tit8-chap1-sec2a-1]: Introdotta dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^tit8-chap1-sec2a-1]: Introdotta dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 197a
 
@@ -4146,7 +4147,7 @@ La FINMA designa i gruppi assicurativi attivi a livello internazionale e lo rend
 
 <sup>3</sup> Le transazioni la cui conseguenza diretta è l’inadempimento dei requisiti in materia di solvibilità del gruppo devono essere notificate alla FINMA.
 
-[^198-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 198a
 
@@ -4167,10 +4168,10 @@ La FINMA può:
 - a. emanare disposizioni che tengono conto della disponibilità e della trasferibilità del capitale all’interno del gruppo assicurativo;
 - b. ordinare maggiorazioni del capitale previsto o riduzioni del capitale sopportante i rischi se la fungibilità è fortemente limitata e il modello non ne tiene sufficientemente conto.
 
-[^198a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^198a-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^198a-3]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^198a-4]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^198a-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198a-3]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198a-4]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 198b
 
@@ -4190,9 +4191,9 @@ La FINMA può:
 
 <sup>5</sup> Il gruppo assicurativo adempie i requisiti del SST di gruppo granulare se la solvibilità di cui all’articolo 9 capoverso 2 LSA è sufficiente per ogni unità giuridica che non fa parte di un cluster e per ogni cluster.[^198b-3]
 
-[^198b-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^198b-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^198b-3]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198b-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^198b-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198b-3]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 198c
 
@@ -4207,8 +4208,8 @@ Un gruppo assicurativo adempie i requisiti in materia di solvibilità se soddisf
 - a. del SST di gruppo consolidato; o
 - b. del SST di gruppo granulare autorizzato dalla FINMA.
 
-[^198c-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
-[^198c-2]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198c-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^198c-2]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 198d
 
@@ -4232,13 +4233,13 @@ Previa approvazione della FINMA, nel SST di gruppo consolidato gli strumenti di 
 
 <sup>4</sup> La FINMA può disciplinare i criteri per il computo o la considerazione di strumenti di capitale assorbenti il rischio, segnatamente per la valutazione della qualità degli strumenti, la loro applicabilità legale, la fungibilità del capitale e il rischio di perdita del fornitore delle prestazioni. Nel singolo caso può esigere requisiti supplementari.
 
-[^198d-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^198d-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 199 a 202
 
 [^199202-1]
 
-[^199202-1]: Abrogati dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^199202-1]: Abrogati dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 203
 
@@ -4248,7 +4249,7 @@ Previa approvazione della FINMA, nel SST di gruppo consolidato gli strumenti di 
 
 <sup>2</sup> La FINMA emana istruzioni per il controllo. Essa può autorizzare un’altra terza persona qualificata e indipendente a effettuare il controllo.
 
-[^203-1]: Nuovo testo giusta il n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^203-1]: Nuovo testo giusta la cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 203a
 
@@ -4256,7 +4257,7 @@ Previa approvazione della FINMA, nel SST di gruppo consolidato gli strumenti di 
 
 Per i gruppi assicurativi si applica per analogia l’articolo 111*a*. Per la descrizione della solvibilità si può impiegare il SST di gruppo consolidato.
 
-[^203a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^203a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Sezione 4: ...
 
@@ -4264,7 +4265,7 @@ Per i gruppi assicurativi si applica per analogia l’articolo 111*a*. Per la de
 
 [^203b-1]
 
-[^203b-1]: Introdotto dall’all. 1 n. 14 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Abrogato dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^203b-1]: Introdotto dall’all. 1 n. 14 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Abrogato dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### Capitolo 2: Conglomerati assicurativi
 
@@ -4274,7 +4275,7 @@ Per i gruppi assicurativi si applica per analogia l’articolo 111*a*. Per la de
 
 Gli articoli 191–203*a* relativi ai gruppi assicurativi sono applicabili per analogia ai conglomerati assicurativi.
 
-[^204-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^204-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 205
 
@@ -4284,19 +4285,19 @@ Gli articoli 191–203*a* relativi ai gruppi assicurativi sono applicabili per a
 
 <sup>2</sup> …[^205-1]
 
-[^205-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^205-1]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 206
 
 [^206-1]
 
-[^206-1]: Abrogato dal n. I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^206-1]: Abrogato dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 206a
 
 [^206a-1]
 
-[^206a-1]: Introdotto dall’all. 1 n. 14 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Abrogato dal n. I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^206a-1]: Introdotto dall’all. 1 n. 14 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Abrogato dalla cifra I dell’O del 2 giu. 2023, con effetto dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Titolo nono: …
 
@@ -4355,15 +4356,15 @@ Con riferimento al capitale previsto (art. 41–46) e al capitale sopportante i 
 [^216-3]: Abrogate dall’all. n. 11 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-4]: Abrogato dall’all. n. 11 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^216-5]: Abrogati dall’all. n. 11 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^216-6]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^216-6]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^216-7]: Abrogati dall’all. n. 11 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^216-8]: Introdotto dal n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
+[^216-8]: Introdotto dalla cifra I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4425](https://fedlex.data.admin.ch/eli/oc/2006/671)).
 
 #### Art. 216a
 
 [^216a-1]
 
-[^216a-1]: Introdotto dall’all. n. II 11 dell’O del 22 ago. 2007 sui revisori ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)). Abrogato dall’all. n. 11 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^216a-1]: Introdotto dall’all. cifra II n. 11 dell’O del 22 ago. 2007 sui revisori ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)). Abrogato dall’all. n. 11 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
 #### Art. 216b
 
@@ -4375,7 +4376,7 @@ Con riferimento al capitale previsto (art. 41–46) e al capitale sopportante i 
 
 <sup>3</sup> La FINMA stabilisce la data in cui il rapporto sulla situazione finanziaria di cui all’articolo 111*a* deve essere pubblicato per la prima volta e la data in cui l’articolazione minima di cui all’articolo 111*b* deve essere applicata per la prima volta.
 
-[^216b-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^216b-1]: Introdotto dalla cifra I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 216c
 
@@ -4403,7 +4404,7 @@ Per tre anni dall’entrata in vigore della presente modifica, le imprese di ass
 
 <sup>8</sup> Le imprese di assicurazione devono fornire le informazioni specifiche per i prodotti nell’assicurazione sulla vita non qualificata (art. 129*a*) e nell’assicurazione sulla vita qualificata (art. 129*b*) un anno dopo l’entrata in vigore della presente ordinanza.
 
-[^216c-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^216c-1]: Introdotto dalla cifra I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 216d
 
@@ -4411,8 +4412,8 @@ Per tre anni dall’entrata in vigore della presente modifica, le imprese di ass
 
 Per le proposte relative alla conclusione di un’assicurazione complementare all’assicurazione sociale malattie ricevute dall’impresa di assicurazione entro il 31 dicembre 2024, l’attività degli intermediari assicurativi legati all’impresa di assicurazione mediante un contratto individuale di lavoro ai sensi dell’articolo 319 CO[^216d-2] può essere rimunerata secondo il diritto anteriore sino al 31 gennaio 2025.
 
-[^216d-1]: Introdotto dal n. I 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^216d-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^216d-1]: Introdotto dalla cifra I n. 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^216d-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 217
 
@@ -4432,16 +4433,16 @@ I seguenti atti sono abrogati:
 - 10\. Ordinanza dell’8 settembre 1993[^217-10] sull’assicurazione diretta diversa dall’assicurazione sulla vita (Ordinanza sull’assicurazione contro i danni, OADa);
 - 11\. Ordinanza del 18 novembre 1992[^217-11] concernente la riserva di compensazione nell’assicurazione crediti.
 
-[^217-1]: [[RU 1978 1856](https://fedlex.data.admin.ch/eli/oc/1978/1856_1856_1856), [1985 885](https://fedlex.data.admin.ch/eli/oc/1985/885_885_885), [1986 689](https://fedlex.data.admin.ch/eli/oc/1986/689_689_689)art. 6, [1988 116](https://fedlex.data.admin.ch/eli/oc/1988/116_116_116)n. II cpv. 1 lett. c]
+[^217-1]: [[RU 1978 1856](https://fedlex.data.admin.ch/eli/oc/1978/1856_1856_1856); [1985 885](https://fedlex.data.admin.ch/eli/oc/1985/885_885_885); [1986 689](https://fedlex.data.admin.ch/eli/oc/1986/689_689_689)art. 6; [1988 116](https://fedlex.data.admin.ch/eli/oc/1988/116_116_116)cifra II cpv. 1 lett. c]
 [^217-2]: [[RU 1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)]
-[^217-3]: [CS **10** 305; [RU 1979 1588](https://fedlex.data.admin.ch/eli/oc/1979/1588_1588_1588), [1986 2529](https://fedlex.data.admin.ch/eli/oc/1986/2529_2529_2529), [1988 116](https://fedlex.data.admin.ch/eli/oc/1988/116_116_116), [1990 787](https://fedlex.data.admin.ch/eli/oc/1990/787_787_787), [1992 2415](https://fedlex.data.admin.ch/eli/oc/1992/2415_2415_2415), [1993 2614](https://fedlex.data.admin.ch/eli/oc/1993/2614_2614_2614)[3219](https://fedlex.data.admin.ch/eli/oc/1993/3219_3219_3219), [1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)all. n. 7, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 38, [1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)all. n. 1, [1999 3671](https://fedlex.data.admin.ch/eli/oc/1999/534)]
+[^217-3]: [CS **10** 305; [RU 1979 1588](https://fedlex.data.admin.ch/eli/oc/1979/1588_1588_1588); [1986 2529](https://fedlex.data.admin.ch/eli/oc/1986/2529_2529_2529); [1988 116](https://fedlex.data.admin.ch/eli/oc/1988/116_116_116); [1990 787](https://fedlex.data.admin.ch/eli/oc/1990/787_787_787); [1992 2415](https://fedlex.data.admin.ch/eli/oc/1992/2415_2415_2415); [1993 2614](https://fedlex.data.admin.ch/eli/oc/1993/2614_2614_2614), [3219](https://fedlex.data.admin.ch/eli/oc/1993/3219_3219_3219); [1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)all. n. 7; [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 38; [1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)all. n. 1; [1999 3671](https://fedlex.data.admin.ch/eli/oc/1999/534)]
 [^217-4]: [[RU 1976 239](https://fedlex.data.admin.ch/eli/oc/1976/239_239_239)]
 [^217-5]: [[RU 1980 53](https://fedlex.data.admin.ch/eli/oc/1980/53_53_53)]
 [^217-6]: [RU **1955** 1014]
 [^217-7]: [[RU 1992 2355](https://fedlex.data.admin.ch/eli/oc/1992/2355_2355_2355)]
-[^217-8]: [[RU 1992 2359](https://fedlex.data.admin.ch/eli/oc/1992/2359_2359_2359), [1995 1063](https://fedlex.data.admin.ch/eli/oc/1995/1063_1063_1063), [2000 24](https://fedlex.data.admin.ch/eli/oc/2000/9)]
-[^217-9]: [[RU 1993 3230](https://fedlex.data.admin.ch/eli/oc/1993/3230_3230_3230), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 39, [1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)all. n. 2, [2003 4991](https://fedlex.data.admin.ch/eli/oc/2003/741), [2004 1615](https://fedlex.data.admin.ch/eli/oc/2004/195), [2005 2387](https://fedlex.data.admin.ch/eli/oc/2005/409)]
-[^217-10]: [[RU 1993 2620](https://fedlex.data.admin.ch/eli/oc/1993/2620_2620_2620), [1995 5690](https://fedlex.data.admin.ch/eli/oc/1995/5690_5690_5690), [1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)all. n. 3, [2001 1286](https://fedlex.data.admin.ch/eli/oc/2001/175)n. II, [2003 4999](https://fedlex.data.admin.ch/eli/oc/2003/742), [2005 2389](https://fedlex.data.admin.ch/eli/oc/2005/410)]
+[^217-8]: [[RU 1992 2359](https://fedlex.data.admin.ch/eli/oc/1992/2359_2359_2359); [1995 1063](https://fedlex.data.admin.ch/eli/oc/1995/1063_1063_1063); [2000 24](https://fedlex.data.admin.ch/eli/oc/2000/9)]
+[^217-9]: [[RU 1993 3230](https://fedlex.data.admin.ch/eli/oc/1993/3230_3230_3230); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 39; [1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)all. n. 2; [2003 4991](https://fedlex.data.admin.ch/eli/oc/2003/741); [2004 1615](https://fedlex.data.admin.ch/eli/oc/2004/195); [2005 2387](https://fedlex.data.admin.ch/eli/oc/2005/409)]
+[^217-10]: [[RU 1993 2620](https://fedlex.data.admin.ch/eli/oc/1993/2620_2620_2620); [1995 5690](https://fedlex.data.admin.ch/eli/oc/1995/5690_5690_5690); [1998 84](https://fedlex.data.admin.ch/eli/oc/1998/84_84_84)all. n. 3; [2001 1286](https://fedlex.data.admin.ch/eli/oc/2001/175)cifra II; [2003 4999](https://fedlex.data.admin.ch/eli/oc/2003/742); [2005 2389](https://fedlex.data.admin.ch/eli/oc/2005/410)]
 [^217-11]: [[RU 1992 2380](https://fedlex.data.admin.ch/eli/oc/1992/2380_2380_2380)]
 
 #### Art. 218
@@ -4456,7 +4457,7 @@ Allegato 1[^t-1]
 
 ## Rami assicurativi
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^t-1]: Aggiornato dalla cifra II cpv. 1 dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### A. Assicurazione sulla vita
 
@@ -4583,7 +4584,7 @@ Allegato 2[^t-2]
 
 ## Categorizzazione delle imprese di assicurazione
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 <table>
 <tr><th>Categoria</th><th>Totale di bilancio in mia. di fr.</th></tr>
@@ -4600,19 +4601,19 @@ Allegato 3[^t-3]
 
 ## Expected shortfall
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 Per un livello di probabilità *u* ∈ (0,1) il quantile *u* *q**<sub>u</sub>* *(X)* di una variabile aleatoria *X* (perdite di segno negativo) inferiore al grado di probabilità *P* è definito come
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/it/xml/image/image1.png)
 
 L’expected shortfall *ES**<sub>α</sub>* *[X]* di una variabile aleatoria *X* con un livello di probabilità che si verifichi l’evento *α* ∈ (0,1) (generalmente esiguo) è definita come
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/it/xml/image/image2.png)
 
 Se la distribuzione di *X* è continua, l’expected shortfall *ES**<sub>α</sub>* *[X]* è data dal valore atteso condizionato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20260226/it/xml/image/image3.png)
 
 Allegato 4[^t-4]
 
@@ -4620,7 +4621,7 @@ Allegato 4[^t-4]
 
 ## Foglio informativo di base nell’assicurazione sulla vita qualificata: dimensioni, lingua e presentazione grafica
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### 1. Prescrizioni formali
 
@@ -4692,7 +4693,7 @@ Allegato 4[^t-4]
 
 - 3\.3.2 Se per uno strumento finanziario di cui all’articolo 3 lettera a LSerFi[^annex4-lvlu1-lvl3-lvl33-1] è disponibile un foglio informativo di base, è possibile farvi riferimento.
 
-[^annex4-lvlu1-lvl3-lvl33-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^annex4-lvlu1-lvl3-lvl33-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ### 3.4 Facoltativo: destinatari e mercato a cui il prodotto è destinato
 
@@ -4807,7 +4808,7 @@ Allegato 5[^t-5]
 
 ## Foglio informativo di base nell’assicurazione sulla vita qualificata: documenti esteri equivalenti
 
-[^t-5]: Introdotto dal n. II cpv. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^t-5]: Introdotto dalla cifra II cpv. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2026 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 L’allegato attualmente non contiene voci.
 
@@ -4817,7 +4818,7 @@ Allegato 6[^t-6]
 
 ## Indicazioni e documenti per la domanda di registrazione
 
-[^t-6]: Introdotto dal n. II cpv. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^t-6]: Introdotto dalla cifra II cpv. 2 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### 1. Imprese individuali e società di persone
 
@@ -4893,7 +4894,7 @@ Allegato 7[^t-7]
 
 ## Disposizioni aventi carattere obbligatorio generale dell’accordo settoriale
 
-[^t-7]: Introdotto dal n. I 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set, 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^t-7]: Introdotto dalla cifra I n. 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set, 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 Le disposizioni seguenti dell’accordo settoriale del 22 marzo 2024[^annex7-lvlu1-1] concluso tra santésuisse e curafutura concernente la qualità della consulenza e le indennità versate agli intermediari per l’acquisizione di clienti hanno carattere obbligatorio generale:
 
