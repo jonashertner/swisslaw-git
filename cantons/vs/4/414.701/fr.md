@@ -4,11 +4,12 @@ number: "414.701"
 title: Ordonnance concernant le statut du personnel de la Haute Ecole Spécialisée de Suisse occidentale Valais/Wallis
 language: fr
 version: 2022-04-01
+corrected: 2026-02-26
 version_adopted: 2022-03-30
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/414.701"
-pdf: "https://lex.vs.ch/api/fr/versions/3577/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3022/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -411,7 +412,7 @@ ordonne:
 
 <sup>2</sup> Leur engagement à ce titre peut être prolongé une fois, au maximum pour un an, pour autant que cette prolongation se justifie pour des raisons suffisantes.
 
-<sup>3</sup> Pendant la durée de l'engagement à l'essai du personnel cité à l'alinéa 1, la résiliation peut intervenir de part et d'autre pour la fin de l'année académique, moyennant un préavis de 3 mois.
+<sup>3</sup> Pendant la durée de l'engagement à l'essai du personnel cité à l'alinéa 1, la résiliation peut intervenir de part et d'autre pour la fin de l'année académique, moyennant un préavis de trois mois.
 
 #### Art. 37a
 
@@ -427,7 +428,7 @@ ordonne:
 
 **Engagement pour une durée indéterminée**
 
-<sup>1</sup> 3 mois au plus tard avant l'expiration de l'engagement à l'essai de la direction générale et du corps professoral, l'autorité compétente communique à l'intéressé, en se fondant notamment sur un rapport du supérieur concerné, soit:
+<sup>1</sup> Trois mois au plus tard avant l'expiration de l'engagement à l'essai de la direction générale et du corps professoral, l'autorité compétente communique à l'intéressé, en se fondant notamment sur un rapport du supérieur concerné, soit:
 
 - a) la décision d'engagement pour une durée indéterminée;
 - b) la prolongation de l'engagement à l'essai;
@@ -461,7 +462,7 @@ ordonne:
 
 - a) lorsque l'âge fixé à l’article 47 de la présente ordonnance est atteint;
 - b) au décès de l'employé;
-- c) 3 mois après la disparition de l'employé en danger de mort ou sans nouvelles de sa part;
+- c) trois mois après la disparition de l'employé en danger de mort ou sans nouvelles de sa part;
 - d) à l'expiration de la durée du contrat de durée déterminée, sous réserve d'une éventuelle prolongation.
 
 #### Art. 43
@@ -470,8 +471,8 @@ ordonne:
 
 <sup>1</sup> La résiliation d'un engagement pendant le temps d'essai ne peut intervenir, de part et d'autre, que:
 
-- a) pour la fin de l'année académique, moyennant un préavis de 3 mois, pour les membres de la direction générale et du corps professoral;
-- b) pour la fin d'un mois, moyennant un préavis de 2 semaines, pour les autres employés.
+- a) pour la fin de l'année académique, moyennant un préavis de trois mois, pour les membres de la direction générale et du corps professoral;
+- b) pour la fin d'un mois, moyennant un préavis de deux semaines, pour les autres employés.
 
 #### Art. 44
 
@@ -499,7 +500,7 @@ ordonne:
 - b) aptitudes ou capacités insuffisantes à accomplir les tâches liées à la fonction;
 - c) disparition de l'une des conditions d'engagement fixées dans l'ordonnance ou dans la décision d'engagement.
 
-<sup>3</sup> En cas d'incapacité de travail, par suite de maladie ou d'accident durant le délai de résiliation, le délai légal mentionné à l'article 44 alinéa 1 de la présente ordonnance est prolongé d'une durée égale au nombre de jours effectifs d'incapacité de travail, mais au maximum de 30 jours au cours de la 1<sup>e</sup> année de service, 90 jours de la 2<sup>e</sup> à la 3<sup>e</sup> année de service et de 180 jours à partir de la 4<sup>e</sup> année de service.
+<sup>3</sup> En cas d'incapacité de travail, par suite de maladie ou d'accident durant le délai de résiliation, le délai légal mentionné à l'article 44 alinéa 1 de la présente ordonnance est prolongé d'une durée égale au nombre de jours effectifs d'incapacité de travail, mais au maximum de 30 jours au cours de la première année de service, 90 jours de la deuxième à la troisième année de service et de 180 jours à partir de la quatrième année de service.
 
 <sup>4</sup> Demeure réservée l'application de l'article 46 lorsque l'incapacité de travail est durable et qu'elle est la cause de la résiliation.
 
@@ -548,7 +549,7 @@ ordonne:
 
 <sup>2</sup> Si aucun poste correspondant à la formation et aux aptitudes de l'employé n'est disponible, les rapports de service sont résiliés, sous réserve d'un transfert à une fonction inférieure, avec l'accord de l'employé.
 
-<sup>3</sup> Le délai de résiliation est de 6 mois pour la fin d'un mois.
+<sup>3</sup> Le délai de résiliation est de six mois pour la fin d'un mois.
 
 <sup>4</sup> Sous réserve de l'alinéa suivant, l'employé dont les rapports de service sont résiliés a droit à une indemnité calculée en fonction de l'âge et du nombre d'années de service et dont le montant maximal est égal à une année de traitement.
 
@@ -608,7 +609,7 @@ ordonne:
 
 <sup>1</sup> Lorsque la résiliation se révèle non fondée juridiquement, l'employé est réintégré dans sa fonction, si lui-même et l'autorité d'engagement acceptent cette réintégration.
 
-<sup>2</sup> Au cas où l'une des parties refuse la réintégration, l'employé a droit à une indemnité calculée en fonction de l'âge et du nombre d'années de service et dont le montant maximal est égal à une année de traitement si l'employeur refuse la réintégration et à 6 mois de traitement si l'employé refuse sa réintégration.
+<sup>2</sup> Au cas où l'une des parties refuse la réintégration, l'employé a droit à une indemnité calculée en fonction de l'âge et du nombre d'années de service et dont le montant maximal est égal à une année de traitement si l'employeur refuse la réintégration et à six mois de traitement si l'employé refuse sa réintégration.
 
 <sup>3</sup> Le montant de l'indemnité est fixé par l'autorité d'engagement dans le cadre posé par l'alinéa précédent du présent article et du barème y relatif annexé.
 
@@ -618,7 +619,7 @@ ordonne:
 
 <sup>1</sup> Un engagement par contrat revêt un caractère exceptionnel, réservé à des missions ou des situations particulières.
 
-<sup>2</sup> Les dispositions du présent chapitre s'appliquent par analogie aux rapports de service conclus par contrat écrit de droit public, étant précisé que les positions de l'autorité d'engagement ont, dans ce cadre, valeur de déclaration de volonté et non pas de décision au sens de la LPJA.
+<sup>2</sup> Les dispositions du présent chapitre s'appliquent par analogie aux rapports de service conclus par contrat écrit de droit public, étant précisé que les positions de l'autorité d'engagement ont, dans ce cadre, valeur de déclaration de volonté et non pas de décision au sens de la loi sur la procédure et la juridiction administratives du 6 octobre 1976.
 
 <sup>3</sup> En cas de litige, et si aucun accord n'a pu intervenir, l'autorité compétente prend une décision, laquelle est susceptible de recours conformément aux dispositions de la loi précitée.
 
@@ -1029,6 +1030,6 @@ ordonne:
 
 <sup>1</sup> Montant de l'indemnité en nombre de mois de traitement (cf. annexe).
 
-<sup>2</sup> Conditions et calculs: le paiement d'une indemnité versée en cas d'une résiliation non fondée juridiquement se fait uniquement à la suite d'une décision entrée en force d'une autorité administrative ou d'un tribunal. Le traitement mensuel brut est déterminé en tenant compte d'une éventuelle prime de performance ainsi que du degré d'occupation moyen pondéré des 5 années précédentes. Le 13<sup>e</sup> mois de traitement et les éventuelles allocations ou indemnités ne sont pas prises en compte dans le calcul de l'indemnité. Cette indemnité, versée en une fois, n'est pas soumise au prélèvement des cotisations en matière d'assurances sociales (y.c. la prévoyance professionnelle).
+<sup>2</sup> Conditions et calculs: le paiement d'une indemnité versée en cas d'une résiliation non fondée juridiquement se fait uniquement à la suite d'une décision entrée en force d'une autorité administrative ou d'un tribunal. Le traitement mensuel brut est déterminé en tenant compte d'une éventuelle prime de performance ainsi que du degré d'occupation moyen pondéré des cinq années précédentes. Le 13<sup>e</sup> mois de traitement et les éventuelles allocations ou indemnités ne sont pas prises en compte dans le calcul de l'indemnité. Cette indemnité, versée en une fois, n'est pas soumise au prélèvement des cotisations en matière d'assurances sociales (y.c. la prévoyance professionnelle).
 
 RCV BO/Abl. 52/2014

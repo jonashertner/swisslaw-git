@@ -4,11 +4,12 @@ number: "414.701"
 title: Verordnung betreffend das Statut des Personals der Fachhochschule Westschweiz Valais/Wallis
 language: de
 version: 2022-04-01
+corrected: 2026-02-26
 version_adopted: 2022-03-30
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.701"
-pdf: "https://lex.vs.ch/api/de/versions/3577/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3022/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -411,7 +412,7 @@ verordnet:
 
 <sup>2</sup> Ihre Anstellung auf Probe als solche kann, sofern hinreichende Gründe vorhanden sind, für maximal ein Jahr verlängert werden.
 
-<sup>3</sup> Während der Dauer der Probezeit des in Absatz 1 erwähnten Personals ist die Kündigung von beiden Seiten auf Ende des akademischen Jahrs unter Einhaltung einer Kündigungsfrist von 3 Monaten zulässig.
+<sup>3</sup> Während der Dauer der Probezeit des in Absatz 1 erwähnten Personals ist die Kündigung von beiden Seiten auf Ende des akademischen Jahrs unter Einhaltung einer Kündigungsfrist von drei Monaten zulässig.
 
 #### Art. 37a
 
@@ -427,7 +428,7 @@ verordnet:
 
 **Anstellung auf unbefristete Zeit**
 
-<sup>1</sup> Die zuständige Behörde teilt der betroffenen Person aus der Generaldirektion oder dem Lehrkörper gestützt auf den Bericht ihres Vorgesetzten bis spätestens 3 Monate vor Ablauf der Probezeit folgendes mit:
+<sup>1</sup> Die zuständige Behörde teilt der betroffenen Person aus der Generaldirektion oder dem Lehrkörper gestützt auf den Bericht ihres Vorgesetzten bis spätestens drei Monate vor Ablauf der Probezeit folgendes mit:
 
 - a) Entscheid über die Anstellung auf unbefristete Zeit, oder
 - b) Verlängerung der Anstellung auf Probe;
@@ -461,7 +462,7 @@ verordnet:
 
 - a) beim Erreichen des in Artikel 47 der vorliegenden Verordnung festgelegten Alters;
 - b) beim Tod des Angestellten;
-- c) 3 Monate nach dem Verschwinden des Angestellten in Todesgefahr oder bei Nachrichtenlosigkeit;
+- c) drei Monate nach dem Verschwinden des Angestellten in Todesgefahr oder bei Nachrichtenlosigkeit;
 - d) bei Ablauf eines zeitlich befristeten Vertrags unter Vorbehalt einer allfälligen Verlängerung.
 
 #### Art. 43
@@ -470,8 +471,8 @@ verordnet:
 
 <sup>1</sup> Während der Probezeit kann die Anstellung von beiden Seiten nur wie folgt gekündigt werden:
 
-- a) auf Ende des akademischen Jahrs unter Einhaltung einer Kündigungsfrist von 3 Monaten für die Mitglieder der Generaldirektion und des Lehrkörpers;
-- b) auf Ende eines Monats unter Einhaltung einer Kündigungsfrist von 2 Wochen für alle anderen Angestellten.
+- a) auf Ende des akademischen Jahrs unter Einhaltung einer Kündigungsfrist von drei Monaten für die Mitglieder der Generaldirektion und des Lehrkörpers;
+- b) auf Ende eines Monats unter Einhaltung einer Kündigungsfrist von zwei Wochen für alle anderen Angestellten.
 
 #### Art. 44
 
@@ -548,7 +549,7 @@ verordnet:
 
 <sup>2</sup> Wenn keine Stelle verfügbar ist, die der Ausbildung und Eignung des Angestellten entspricht, wird das Dienstverhältnis aufgehoben, unter Vorbehalt einer Versetzung in eine tieferrangige Funktion im Einverständnis mit dem Angestellten.
 
-<sup>3</sup> Die Kündigungsfrist beträgt 6 Monate auf Ende eines Monats.
+<sup>3</sup> Die Kündigungsfrist beträgt sechs Monate auf Ende eines Monats.
 
 <sup>4</sup> Unter Vorbehalt des nachfolgenden Absatzes hat der Angestellte, dessen Dienstverhältnis aufgehoben wird, Anspruch auf eine Entschädigung, die aufgrund des Alters und der Anzahl Dienstjahre berechnet wird und deren Betrag höchstens einem Jahresgehalt entspricht.
 
@@ -608,7 +609,7 @@ verordnet:
 
 <sup>1</sup> Erweist sich eine Kündigung als rechtlich unbegründet, wird der Angestellte wieder in die Funktion eingegliedert, falls er selbst und die Anstellungsbehörde dieser Wiedereingliederung zustimmen.
 
-<sup>2</sup> Verweigert eine der Parteien die Wiedereingliederung, hat der Angestellte Anspruch auf eine Entschädigung, die aufgrund des Alters und der Anzahl Dienstjahre berechnet wird, und deren Betrag höchstens einem Jahresgehalt entspricht, falls der Arbeitgeber die Wiedereingliederung ablehnt bzw. Anspruch auf höchstens 6 Monatsgehälter, falls der Angestellte seine Wiedereingliederung ablehnt.
+<sup>2</sup> Verweigert eine der Parteien die Wiedereingliederung, hat der Angestellte Anspruch auf eine Entschädigung, die aufgrund des Alters und der Anzahl Dienstjahre berechnet wird, und deren Betrag höchstens einem Jahresgehalt entspricht, falls der Arbeitgeber die Wiedereingliederung ablehnt bzw. Anspruch auf höchstens sechs Monatsgehälter, falls der Angestellte seine Wiedereingliederung ablehnt.
 
 <sup>3</sup> Die Höhe der Entschädigung legt die Anstellungsbehörde im Rahmen des vorangehenden Absatzes des vorliegenden Artikels und der betreffenden Rechentabelle (vgl. Beilage) fest.
 
@@ -618,7 +619,7 @@ verordnet:
 
 <sup>1</sup> Eine vertragliche Anstellung bleibt eine Ausnahme und ist bei besonderen Aufgaben oder Situationen vorbehalten.
 
-<sup>2</sup> Die Bestimmungen des vorliegenden Kapitels finden auf Dienstverhältnisse, die mittels schriftlichem öffentlich-rechtlichem Vertrag abgeschlossen wurden, analoge Anwendung, wobei präzisiert wird, dass die Haltung der Anstellungsbehörde in diesem Fall einer Willenserklärung und nicht einer Verfügung im Sinne des VVRG gleichkommt.
+<sup>2</sup> Die Bestimmungen des vorliegenden Kapitels finden auf Dienstverhältnisse, die mittels schriftlichem öffentlich-rechtlichem Vertrag abgeschlossen wurden, analoge Anwendung, wobei präzisiert wird, dass die Haltung der Anstellungsbehörde in diesem Fall einer Willenserklärung und nicht einer Verfügung im Sinne des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 gleichkommt.
 
 <sup>3</sup> Bei Streitigkeiten und wenn keine Einigung erfolgt, erlässt die zuständige Behörde eine Verfügung, die gemäss den Bestimmungen des vorerwähnten Gesetzes anfechtbar ist.
 
@@ -1027,6 +1028,6 @@ verordnet:
 
 <sup>1</sup> Betrag der Entschädigung in Lohnmonaten (vgl. Anhang).
 
-<sup>2</sup> Bedingungen und Berechnungsgrundlage: Die Bezahlung einer Entschädigung, welche bei einer rechtlich unbegründeten Kündigung entrichtet wird, erfolgt nur bei einer sich in Kraft befindenden Verfügung einer Verwaltungsbehörde oder eines Gerichtes. Der monatliche Bruttolohn wird unter Berücksichtigung einer allfälligen Leistungsprämie sowie des durchschnittlichen Anstellungsgrades während der 5 letzten Jahre festgelegt. Der 13. Monatslohn und die allfälligen Zulagen und Entschädigungen werden bei der Berechnung der Entschädigung nicht berücksichtigt. Diese Entschädigung, die in einer einzigen Summe ausbezahlt wird, unterliegt nicht den Abzügen durch die Sozialversicherungen einschliesslich der beruflichen Vorsorge).
+<sup>2</sup> Bedingungen und Berechnungsgrundlage: Die Bezahlung einer Entschädigung, welche bei einer rechtlich unbegründeten Kündigung entrichtet wird, erfolgt nur bei einer sich in Kraft befindenden Verfügung einer Verwaltungsbehörde oder eines Gerichtes. Der monatliche Bruttolohn wird unter Berücksichtigung einer allfälligen Leistungsprämie sowie des durchschnittlichen Anstellungsgrades während der fünf letzten Jahre festgelegt. Der 13. Monatslohn und die allfälligen Zulagen und Entschädigungen werden bei der Berechnung der Entschädigung nicht berücksichtigt. Diese Entschädigung, die in einer einzigen Summe ausbezahlt wird, unterliegt nicht den Abzügen durch die Sozialversicherungen einschliesslich der beruflichen Vorsorge).
 
 CSW BO/Abl. 52/2014
