@@ -3,18 +3,18 @@ sr: "531.211.39"
 title: Ordinanza del DEFR del 10 luglio 2023 concernente la liberazione di scorte obbligatorie di vaccini della medicina umana
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/379"
 language: it
-version: 2024-02-26
+version: 2026-02-27
 adopted: 2023-07-10
 in_force: 2023-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/379/20240226/it/xml/fedlex-data-admin-ch-eli-cc-2023-379-20240226-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/379/20240226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/379/20260227/it/xml/fedlex-data-admin-ch-eli-cc-2023-379-20260227-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/379/20260227/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR concernente la liberazione di scorte obbligatorie di vaccini della medicina umana
 
-del 10 luglio 2023 (Stato 26 febbraio 2024)
+del 10 luglio 2023 (Stato 27 febbraio 2026)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -22,7 +22,7 @@ visto l’articolo 21 dell’ordinanza del 10 maggio 2017[^ingress-1] sull’app
 
 ordina:
 
-[^ingress-1]: [RS 531.11](https://fedlex.data.admin.ch/eli/cc/2017/309)
+[^ingress-1]: [RS 531.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7650)
 
 #### Art. 1
 
@@ -59,22 +59,19 @@ La merce è prelevata dalla scorta obbligatoria previo adeguamento del contratto
 
 #### Art. 5
 
-**Fornitura e uso delle scorte obbligatorie[^5-1]**
+**Obbligo di fornitura**
 
 <sup>1</sup> Un proprietario autorizzato a liberare scorte obbligatorie è tenuto a fornire la merce ai clienti svizzeri.
 
 <sup>2</sup> Il proprietario di scorte obbligatorie può fornire ai clienti soltanto le quantità necessarie per coprire il loro fabbisogno effettivo.
 
-<sup>2bis</sup> Un vaccino antirabbico[^5-2] prelevato da una scorta obbligatoria può essere utilizzato esclusivamente a scopo di profilassi post-esposizione oppure, in ambito professionale, di profilassi pre-esposizione. Il proprietario di scorte obbligatorie è tenuto a informare i clienti di queste indicazioni d’uso.[^5-3]
+<sup>2bis</sup> ...[^5-1]
 
-<sup>3</sup> Il settore specializzato Agenti terapeutici può revocare una liberazione già autorizzata o respingerne una prevista se un proprietario di scorte obbligatorie non adempie ai suoi obblighi secondo i capoversi 1–2<sup>bis</sup>.[^5-4]
+<sup>3</sup> Il settore specializzato Agenti terapeutici può revocare una liberazione già autorizzata o respingerne una prevista se un proprietario di scorte obbligatorie non adempie ai suoi obblighi secondo i capoversi 1 e 2.
 
 <sup>4</sup> Il proprietario di scorte obbligatorie può rifiutarsi di fornire la merce a clienti insolvibili.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DEFR del 12 feb. 2024, in vigore dal 26 feb. 2024 al 26 feb. 2026 ([RU 2024 71](https://fedlex.data.admin.ch/eli/oc/2024/71)).
-[^5-2]: Codice ATC J07BG
-[^5-3]: Introdotto dal n. I dell’O del DEFR del 12 feb. 2024, in vigore dal 26 feb. 2024 al 26 feb. 2026 ([RU 2024 71](https://fedlex.data.admin.ch/eli/oc/2024/71)).
-[^5-4]: Nuovo testo giusta il n. I dell’O del DEFR del 12 feb. 2024, in vigore dal 26 feb. 2024 al 26 feb. 2026 ([RU 2024 71](https://fedlex.data.admin.ch/eli/oc/2024/71)).
+[^5-1]: Introdotto dalla cifra I dell’O del DEFR del 12 feb. 2024, in vigore dal 26 feb. 2024 al 26 feb. 2026 ([RU 2024 71](https://fedlex.data.admin.ch/eli/oc/2024/71)).
 
 #### Art. 6
 
@@ -94,7 +91,7 @@ I proprietari sono tenuti a contabilizzare tutte le loro scorte nonché le varia
 
 Fondandosi sull’articolo 45 della legge del 17 giugno 2016[^8-1] sull’approv-vigionamento del Paese (LAP), il proprietario di scorte obbligatorie può impugnare mediante opposizione le decisioni del settore specializzato Agenti terapeutici entro cinque giorni dalla notifica della decisione.
 
-[^8-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^8-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 9
 
@@ -102,7 +99,7 @@ Fondandosi sull’articolo 45 della legge del 17 giugno 2016[^8-1] sull’approv
 
 Le infrazioni alle prescrizioni della presente ordinanza sono punite conformemente all’articolo 49 LAP[^9-1].
 
-[^9-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^9-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 10
 

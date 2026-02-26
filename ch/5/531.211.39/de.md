@@ -3,18 +3,18 @@ sr: "531.211.39"
 title: Verordnung des WBF vom 10. Juli 2023 über die Pflichtlagerfreigabe von Impfstoffen der Humanmedizin
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/379"
 language: de
-version: 2024-02-26
+version: 2026-02-27
 adopted: 2023-07-10
 in_force: 2023-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/379/20240226/de/xml/fedlex-data-admin-ch-eli-cc-2023-379-20240226-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/379/20240226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/379/20260227/de/xml/fedlex-data-admin-ch-eli-cc-2023-379-20260227-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/379/20260227/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die Pflichtlagerfreigabe von Impfstoffen der Humanmedizin
 
-vom 10. Juli 2023 (Stand am 26. Februar 2024)
+vom 10. Juli 2023 (Stand am 27. Februar 2026)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 21 der Verordnung vom 10. Mai 2017[^ingress-1] über die w
 
 verordnet:
 
-[^ingress-1]: [SR 531.11](https://fedlex.data.admin.ch/eli/cc/2017/309)
+[^ingress-1]: [SR 531.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7650)
 
 #### Art. 1
 
@@ -59,22 +59,19 @@ Vor der Entnahme der Ware aus dem Pflichtlager ist der Pflichtlagervertrag mit d
 
 #### Art. 5
 
-**Lieferung und Verwendung von Pflichtlagerware[^5-1]**
+**Lieferpflicht**
 
 <sup>1</sup> Hat ein Pflichtlagerhalter die Freigabe erhalten, so ist er verpflichtet, die schweizerische Kundschaft mit der Ware zu beliefern.
 
 <sup>2</sup> Der Pflichtlagerhalter darf Kundinnen und Kunden nur die Mengen liefern, die diese benötigen, um ihren effektiven Bedarf zu decken.
 
-<sup>2bis</sup> Der Tollwut-Impfstoff[^5-2] aus dem Pflichtlager darf ausschliesslich zur postexpositionellen oder zur beruflich bedingten präexpositionellen Prophylaxe angewendet werden. Der Pflichtlagerhalter ist verpflichtet, seine Kundinnen und Kunden über den zulässigen Anwendungsbereich zu informieren.[^5-3]
+<sup>2bis</sup> ...[^5-1]
 
-<sup>3</sup> Der Fachbereich Heilmittel kann eine bewilligte Freigabe widerrufen oder eine geplante Freigabe verweigern, wenn ein Pflichtlagerhalter seinen Pflichten nach den Absätzen 1–2<sup>bis</sup> nicht nachkommt.[^5-4]
+<sup>3</sup> Der Fachbereich Heilmittel kann eine bewilligte Freigabe widerrufen oder eine geplante Freigabe verweigern, wenn ein Pflichtlagerhalter seinen Pflichten nach den Absätzen 1 und 2 nicht nachkommt.
 
 <sup>4</sup> Der Pflichtlagerhalter kann die Lieferung der Ware verweigern, wenn die Kundin oder der Kunde zahlungsunfähig ist.
 
-[^5-1]: Fassung gemäss Ziff. I der V des WBF vom 12. Febr. 2024, in Kraft vom 26. Febr. 2024 bis zum 26. Febr. 2026 ([AS 2024 71](https://fedlex.data.admin.ch/eli/oc/2024/71)).
-[^5-2]: ATC-Code J07BG
-[^5-3]: Eingefügt durch Ziff. I der V des WBF vom 12. Febr. 2024, in Kraft vom 26. Febr. 2024 bis zum 26. Febr. 2026 ([AS 2024 71](https://fedlex.data.admin.ch/eli/oc/2024/71)).
-[^5-4]: Fassung gemäss Ziff. I der V des WBF vom 12. Febr. 2024, in Kraft vom 26. Febr. 2024 bis zum 26. Febr. 2026 ([AS 2024 71](https://fedlex.data.admin.ch/eli/oc/2024/71)).
+[^5-1]: Eingefügt durch Ziff. I der V des WBF vom 12. Febr. 2024, in Kraft vom 26. Febr. 2024 bis zum 26. Febr. 2026 ([AS 2024 71](https://fedlex.data.admin.ch/eli/oc/2024/71)).
 
 #### Art. 6
 
@@ -94,7 +91,7 @@ Die Pflichtlagerhalter sind verpflichtet, über sämtliche Vorräte und Verände
 
 Gegen Verfügungen des Fachbereichs Heilmittel kann der Pflichtlagerhalter gestützt auf Artikel 45 des Landesversorgungsgesetzes vom 17. Juni 2016[^8-1] (LVG) innerhalb von fünf Tagen nach Eröffnung Einsprache erheben.
 
-[^8-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^8-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 9
 
@@ -102,7 +99,7 @@ Gegen Verfügungen des Fachbereichs Heilmittel kann der Pflichtlagerhalter gest�
 
 Widerhandlungen gegen die Vorschriften dieser Verordnung werden nach Artikel 49 LVG[^9-1] bestraft.
 
-[^9-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^9-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 10
 
