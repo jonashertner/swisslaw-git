@@ -4,13 +4,13 @@ number: "915.21"
 title: Vollziehungsverordnung zum Gesetz über Standortentwicklung
 short: Standortentwicklungsverordnung; SEVO
 language: de
-version: 2026-01-01
-valid_until: 2026-02-26
-version_adopted: 2025-12-09
+version: 2026-02-27
+valid_until: 2026-04-02
+version_adopted: 2026-02-24
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/915.21"
-pdf: "https://bgs.zg.ch/api/de/versions/2959/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2988/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2959/pdf_file"
 
 (Standortentwicklungsverordnung; SEVO)
 
-Vom 9. Dezember 2025 (Stand 1. Januar 2026)
+Vom 9. Dezember 2025 (Stand 27. Februar 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -47,6 +47,8 @@ beschliesst:
 
 <sup>1</sup> Förderberechtigt sind persönlich und wirtschaftlich zugehörige juristische Personen nach §§ 51 und 52 Steuergesetz[^2-1], sofern die Voraussetzungen der beantragten Förderinstrumente nach §§ 3 ff. erfüllt sind.
 
+<sup>2</sup> Gesuche von Unternehmen in Liquidation oder mit substanziellen Zahlungsausständen können abgelehnt werden.
+
 [^2-1]: BGS [632.1](https://bgs.zg.ch/data/632.1/de)
 
 ## 2. Wirkungsorientierte Förderung der Nachhaltigkeit
@@ -55,7 +57,7 @@ beschliesst:
 
 **Geförderte Tätigkeiten**
 
-<sup>1</sup> In den Jahren 2026 bis 2028 werden Unternehmen gefördert, welche die Intensität der vorgelagerten Treibhausgasemissionen (Scope 3 Kategorie 1 «Gekaufte Waren und Dienstleistungen» gemäss GHG-Protokoll)[^3-1] reduzieren.
+<sup>1</sup> In den Jahren 2026 bis 2028 werden Unternehmen gefördert, welche die Intensität der vorgelagerten Treibhausgasemissionen (Scope 3 Kategorie 1 «Gekaufte Waren und Dienstleistungen» gemäss GHG-Protokoll[^3-1] oder ISO 14064) reduzieren.
 
 <sup>2</sup> Die Förderung erfolgt durch wirkungsorientierte Beiträge, um überobligatorische Nachhaltigkeitsziele zu erreichen.
 
@@ -68,10 +70,11 @@ beschliesst:
 <sup>1</sup> Wirkungsorientierte Förderbeiträge werden gewährt, sofern das Unternehmen nachweist, dass:
 
 - a) die Emissionsintensität der eingekauften Waren und Dienstleistungen reduziert wurde;
-- b) aufgrund dieser Reduktion der Emissionsintensität mindestens 50 000 Tonnen CO₂-Äquivalente (CO₂eq) eingespart wurden; und
-- c) dafür keine Offsets oder ähnliche Instrumente eingesetzt worden sind.
+- b) aufgrund dieser Reduktion der Emissionsintensität weltweit mindestens 50 000 Tonnen CO₂-Äquivalente (CO₂eq) eingespart wurden;
+- c) dafür keine Offsets oder ähnliche Instrumente eingesetzt worden sind; und
+- d) das Unternehmen im Geschäftsjahr im Kanton Zug einen Personalaufwand von mindestens 1,5 Millionen Franken hatte.
 
-<sup>2</sup> Der Nachweis gemäss Abs. 1 erfolgt anhand von branchenüblichen Wirkungskennzahlen im Rahmen der nichtfinanziellen Berichterstattung, die von einem staatlich beaufsichtigten Revisionsunternehmen[^4-1] geprüft worden ist.
+<sup>2</sup> Der Nachweis gemäss Abs. 1 erfolgt anhand von branchenüblichen Wirkungskennzahlen auf der Basis der geprüften nichtfinanziellen Berichterstattung oder eines geprüften Treibhausgasinventars. Die branchenüblichen Wirkungskennzahlen müssen zudem von einem staatlich beaufsichtigten Revisionsunternehmen[^4-1] geprüft worden sein.
 
 [^4-1]: Eidgenössische Revisionsaufsichtsbehörde (RAB); [https://www.rab-asr.ch/#/publicregister/](https://www.rab-asr.ch/#/publicregister/)
 
@@ -79,7 +82,7 @@ beschliesst:
 
 **Berechnung des wirkungsorientierten Förderbeitrags**
 
-<sup>1</sup> Der maximale jährliche wirkungsorientierte Förderumfang berechnet sich wie folgt: Anzahl der im massgebenden Jahr eingesparten Tonnen CO₂eq gemäss § 4 Abs. 1 und 2 multipliziert mit 30 Franken.
+<sup>1</sup> Der maximale jährliche wirkungsorientierte Förderumfang berechnet sich wie folgt: Anzahl der im massgebenden Jahr im Vergleich zum Vorjahr eingesparten Tonnen CO₂eq gemäss § 4 Abs. 1 und 2 multipliziert mit 30 Franken.
 
 ## 3. Aufwandseitige Innovationsförderung
 
@@ -162,11 +165,11 @@ beschliesst:
 - f) Auszahlung oder Verrechnung von Beiträgen;
 - g) Berichterstattung.
 
-<sup>3</sup> Gesuche um Ausrichtung von Förderbeiträgen sind bis zum 31. Mai des zweiten auf den Geschäftsabschluss folgenden Kalenderjahres einzureichen. Auf verspätet eingereichte Gesuche wird nicht eingetreten.
+<sup>3</sup> Gesuche um Ausrichtung von Förderbeiträgen sind bis zum 31. Mai des zweiten auf den Jahresabschluss folgenden Kalenderjahrs (massgebendes Geschäftsjahr) einzureichen. Pro Förderjahr kann nur für ein Geschäftsjahr ein Fördergesuch gestellt werden. Auf verspätet eingereichte Gesuche wird nicht eingetreten.
 
 <sup>4</sup> Zum Zeitpunkt der Einreichung des Fördergesuchs muss das gesuchstellende Unternehmen die Voraussetzung der Zugehörigkeit gemäss § 2 Abs. 1 erfüllen.
 
-<sup>5</sup> Den Gesuchen ist eine Bestätigung der eingereichten Berechnungsgrundlagen durch die Revisionsstelle beizulegen.
+<sup>5</sup> Den Gesuchen ist die ordentlich geprüfte Jahresrechnung inklusive dazugehörigem Bericht der Revisionsstelle beizulegen.
 
 <sup>6</sup> Entscheide können elektronisch über die elektronische Plattform oder schriftlich per Post zugestellt werden.
 
