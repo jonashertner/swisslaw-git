@@ -4,11 +4,12 @@ number: "805.110"
 title: "Beschluss über die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Alters- und Pflegeheime, die Wartebetten in den Spitälern und die Hospize für Palliative Care"
 language: de
 version: 2026-01-01
+corrected: 2026-02-27
 version_adopted: 2026-02-25
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.110"
-pdf: "https://lex.vs.ch/api/de/versions/3582/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3563/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -53,17 +54,17 @@ beschliesst:
 <sup>1</sup> Für die Alters- und Pflegeheime und die Wartebetten der Spitäler betragen die fakturierbaren Kosten für die Pflegeleistungen pro Tag:
 
 - a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 10,30
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 29,95
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 49,60
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 69,25
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 90,70
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 110,35
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 130,00
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 149,60
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 169,25
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 188,90
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 208,50
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 239,95
+- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 29,90
+- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 49,55
+- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 69,15
+- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 90,60
+- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 110,25
+- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 129,85
+- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 149,45
+- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 169,10
+- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 188,70
+- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 208,30
+- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 239,70
 
 #### Art. 3
 
@@ -77,50 +78,50 @@ beschliesst:
 <tr><td>BESA 1</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>0,00</td><td>0,00</td></tr>
 <tr><td>BESA 1</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>0,00</td><td>0,00</td></tr>
 <tr><td>BESA 1</td><td>≥ Fr. 500'000</td><td>0,00</td><td>0,00</td></tr>
-<tr><td>BESA 2</td><td>&lt; Fr. 100'000</td><td>7,55</td><td>3,20</td></tr>
-<tr><td>BESA 2</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>3,50</td><td>1,50</td></tr>
+<tr><td>BESA 2</td><td>&lt; Fr. 100'000</td><td>7,50</td><td>3,20</td></tr>
+<tr><td>BESA 2</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>3,45</td><td>1,50</td></tr>
 <tr><td>BESA 2</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>0,00</td><td>0,00</td></tr>
 <tr><td>BESA 2</td><td>≥ Fr. 500'000</td><td>0,00</td><td>0,00</td></tr>
-<tr><td>BESA 3</td><td>&lt; Fr. 100'000</td><td>14,55</td><td>6,25</td></tr>
-<tr><td>BESA 3</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>10,55</td><td>4,50</td></tr>
-<tr><td>BESA 3</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>6,50</td><td>2,80</td></tr>
+<tr><td>BESA 3</td><td>&lt; Fr. 100'000</td><td>14,55</td><td>6,20</td></tr>
+<tr><td>BESA 3</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>10,50</td><td>4,50</td></tr>
+<tr><td>BESA 3</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>6,50</td><td>2,75</td></tr>
 <tr><td>BESA 3</td><td>≥ Fr. 500'000</td><td>0,00</td><td>0,00</td></tr>
-<tr><td>BESA 4</td><td>&lt; Fr. 100'000</td><td>21,60</td><td>9,25</td></tr>
-<tr><td>BESA 4</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>17,55</td><td>7,55</td></tr>
-<tr><td>BESA 4</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>13,55</td><td>5,80</td></tr>
-<tr><td>BESA 4</td><td>≥ Fr. 500'000</td><td>5,50</td><td>2,35</td></tr>
-<tr><td>BESA 5</td><td>&lt; Fr. 100'000</td><td>29,90</td><td>12,80</td></tr>
-<tr><td>BESA 5</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>25,85</td><td>11,10</td></tr>
-<tr><td>BESA 5</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>21,85</td><td>9,35</td></tr>
-<tr><td>BESA 5</td><td>≥ Fr. 500'000</td><td>13,80</td><td>5,90</td></tr>
-<tr><td>BESA 6</td><td>&lt; Fr. 100'000</td><td>36,95</td><td>15,80</td></tr>
-<tr><td>BESA 6</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>32,90</td><td>14,10</td></tr>
-<tr><td>BESA 6</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>28,90</td><td>12,35</td></tr>
-<tr><td>BESA 6</td><td>≥ Fr. 500'000</td><td>20,85</td><td>8,90</td></tr>
-<tr><td>BESA 7</td><td>&lt; Fr. 100'000</td><td>43,95</td><td>18,85</td></tr>
-<tr><td>BESA 7</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>39,95</td><td>17,10</td></tr>
-<tr><td>BESA 7</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>35,90</td><td>15,40</td></tr>
-<tr><td>BESA 7</td><td>≥ Fr. 500'000</td><td>27,85</td><td>11,95</td></tr>
-<tr><td>BESA 8</td><td>&lt; Fr. 100'000</td><td>50,95</td><td>21,85</td></tr>
-<tr><td>BESA 8</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>46,95</td><td>20,10</td></tr>
-<tr><td>BESA 8</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>42,90</td><td>18,40</td></tr>
-<tr><td>BESA 8</td><td>≥ Fr. 500'000</td><td>34,85</td><td>14,95</td></tr>
-<tr><td>BESA 9</td><td>&lt; Fr. 100'000</td><td>58,00</td><td>24,85</td></tr>
-<tr><td>BESA 9</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>53,95</td><td>23,15</td></tr>
-<tr><td>BESA 9</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>49,95</td><td>21,40</td></tr>
-<tr><td>BESA 9</td><td>≥ Fr. 500'000</td><td>41,90</td><td>17,95</td></tr>
-<tr><td>BESA 10</td><td>&lt; Fr. 100'000</td><td>65,05</td><td>27,85</td></tr>
-<tr><td>BESA 10</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>61,00</td><td>26,15</td></tr>
-<tr><td>BESA 10</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>57,00</td><td>24,40</td></tr>
-<tr><td>BESA 10</td><td>≥ Fr. 500'000</td><td>48,95</td><td>20,95</td></tr>
-<tr><td>BESA 11</td><td>&lt; Fr. 100'000</td><td>72,05</td><td>30,85</td></tr>
-<tr><td>BESA 11</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>68,00</td><td>29,15</td></tr>
-<tr><td>BESA 11</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>64,00</td><td>27,40</td></tr>
-<tr><td>BESA 11</td><td>≥ Fr. 500'000</td><td>55,95</td><td>23,95</td></tr>
-<tr><td>BESA 12</td><td>&lt; Fr. 100'000</td><td>87,35</td><td>37,40</td></tr>
-<tr><td>BESA 12</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>83,30</td><td>35,70</td></tr>
-<tr><td>BESA 12</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>79,30</td><td>33,95</td></tr>
-<tr><td>BESA 12</td><td>≥ Fr. 500'000</td><td>71,25</td><td>30,50</td></tr>
+<tr><td>BESA 4</td><td>&lt; Fr. 100'000</td><td>21,55</td><td>9,20</td></tr>
+<tr><td>BESA 4</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>17,50</td><td>7,50</td></tr>
+<tr><td>BESA 4</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>13,50</td><td>5,75</td></tr>
+<tr><td>BESA 4</td><td>≥ Fr. 500'000</td><td>5,45</td><td>2,30</td></tr>
+<tr><td>BESA 5</td><td>&lt; Fr. 100'000</td><td>29,80</td><td>12,80</td></tr>
+<tr><td>BESA 5</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>25,80</td><td>11,05</td></tr>
+<tr><td>BESA 5</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>21,75</td><td>9,35</td></tr>
+<tr><td>BESA 5</td><td>≥ Fr. 500'000</td><td>13,70</td><td>5,90</td></tr>
+<tr><td>BESA 6</td><td>&lt; Fr. 100'000</td><td>36,85</td><td>15,80</td></tr>
+<tr><td>BESA 6</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>32,85</td><td>14,05</td></tr>
+<tr><td>BESA 6</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>28,80</td><td>12,35</td></tr>
+<tr><td>BESA 6</td><td>≥ Fr. 500'000</td><td>20,75</td><td>8,90</td></tr>
+<tr><td>BESA 7</td><td>&lt; Fr. 100'000</td><td>43,85</td><td>18,80</td></tr>
+<tr><td>BESA 7</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>39,85</td><td>17,05</td></tr>
+<tr><td>BESA 7</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>35,80</td><td>15,35</td></tr>
+<tr><td>BESA 7</td><td>≥ Fr. 500'000</td><td>27,75</td><td>11,90</td></tr>
+<tr><td>BESA 8</td><td>&lt; Fr. 100'000</td><td>50,85</td><td>21,80</td></tr>
+<tr><td>BESA 8</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>46,85</td><td>20,05</td></tr>
+<tr><td>BESA 8</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>42,80</td><td>18,35</td></tr>
+<tr><td>BESA 8</td><td>≥ Fr. 500'000</td><td>34,75</td><td>14,90</td></tr>
+<tr><td>BESA 9</td><td>&lt; Fr. 100'000</td><td>57,90</td><td>24,80</td></tr>
+<tr><td>BESA 9</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>53,85</td><td>23,10</td></tr>
+<tr><td>BESA 9</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>49,85</td><td>21,35</td></tr>
+<tr><td>BESA 9</td><td>≥ Fr. 500'000</td><td>41,80</td><td>17,90</td></tr>
+<tr><td>BESA 10</td><td>&lt; Fr. 100'000</td><td>64,90</td><td>27,80</td></tr>
+<tr><td>BESA 10</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>60,85</td><td>26,10</td></tr>
+<tr><td>BESA 10</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>56,85</td><td>24,35</td></tr>
+<tr><td>BESA 10</td><td>≥ Fr. 500'000</td><td>48,80</td><td>20,90</td></tr>
+<tr><td>BESA 11</td><td>&lt; Fr. 100'000</td><td>71,90</td><td>30,80</td></tr>
+<tr><td>BESA 11</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>67,85</td><td>29,10</td></tr>
+<tr><td>BESA 11</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>63,85</td><td>27,35</td></tr>
+<tr><td>BESA 11</td><td>≥ Fr. 500'000</td><td>55,80</td><td>23,90</td></tr>
+<tr><td>BESA 12</td><td>&lt; Fr. 100'000</td><td>87,15</td><td>37,35</td></tr>
+<tr><td>BESA 12</td><td>von Fr. 100'000 bis Fr. 199'999</td><td>83,15</td><td>35,60</td></tr>
+<tr><td>BESA 12</td><td>von Fr. 200'000 bis Fr. 499'999</td><td>79,10</td><td>33,90</td></tr>
+<tr><td>BESA 12</td><td>≥ Fr. 500'000</td><td>71,05</td><td>30,45</td></tr>
 </table>
 
 <sup>2</sup> Diese Tarife werden nicht für Personen mit Behinderung in Alters- und Pflegeheimen angewendet.
