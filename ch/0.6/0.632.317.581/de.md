@@ -3,27 +3,26 @@ sr: "0.632.317.581"
 title: Freihandelsabkommen vom 17. Dezember 2004 zwischen den EFTA-Staaten und der Tunesischen Republik (mit Prot. und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/737"
 language: de
-version: 2005-06-01
+version: 2026-03-01
 adopted: 2004-12-17
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/737/20050601/de/xml/fedlex-data-admin-ch-eli-cc-2005-737-20050601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/737/20050601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/737/20260301/de/xml/fedlex-data-admin-ch-eli-cc-2005-737-20260301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/737/20260301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Freihandelsabkommen zwischen den EFTA-Staaten und der Tunesische Republik
+# Freihandelsabkommen zwischen den EFTA-Staaten und der Tunesischen Republik
 
 AS **2005** 5387; BBl **2006** 1783
 
-Übersetzung[^t-1]
+Übersetzung
 
-Abgeschlossen in Genf am 17. Dezember 2004 Schweizerische Erklärung über die provisorische Anwendung hinterlegt am 6. April 2005 Von der Schweiz provisorisch angewendet ab 1. Juni 2005[^t-2]
+Abgeschlossen in Genf am 17. Dezember 2004 Schweizerische Erklärung über die provisorische Anwendung hinterlegt am 6. April 2005 Von der Schweiz provisorisch angewendet ab 1. Juni 2005[^t-1]
 
-(Stand am 1. Juni 2005)
+(Stand am 1. März 2026)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Der Geltungsbereich für dieses Abk. wird anlässlich seines Inkrafttretens veröffentlicht.
+[^t-1]: Der Geltungsbereich für dieses Abk. wird anlässlich seines Inkrafttretens veröffentlicht.
 
 Die Republik Island, das Fürstentum Liechtenstein, das Königreich Norwegen und die Schweizerische Eidgenossenschaft als Mitglieder der Europäischen Freihandelsassoziation (im Folgenden die EFTA-Staaten genannt) einerseits, und die Tunesische Republik (im Folgenden Tunesien genannt) andererseits, im Folgenden gemeinsam Parteien genannt:
 
@@ -49,8 +48,8 @@ ihre Bereitschaft bekundend, die Möglichkeiten zur Entwicklung und Vertiefung d
 
 haben zur Erreichung dieser Ziele folgendes Abkommen (im Folgenden «dieses Abkommen» genannt) abgeschlossen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ## I Allgemeine Bestimmungen
 
@@ -69,7 +68,7 @@ Die Ziele dieses Abkommens, das auf den Handelsbeziehungen zwischen marktwirtsch
 - (c) für faire Wettbewerbsbedingungen im Handel unter den Parteien dieses Abkommens zu sorgen sowie einen angemessenen und wirksamen Schutz der Rechte an geistigem Eigentum sicherzustellen; und
 - (d) die harmonische Entwicklung der Wirtschaftsbeziehungen zwischen den Parteien durch die Ausweitung des Handels, durch die wirtschaftliche Zusammenarbeit und durch technische Unterstützung zu fördern.
 
-[^1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.1
+[^1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.1
 
 #### Art. 2
 
@@ -99,7 +98,7 @@ Dieses Kapitel gilt für die folgenden Erzeugnisse mit Ursprung in einem EFTA-St
 
 <sup>2.</sup> Die zwischen Tunesien und jedem einzelnen EFTA-Staat abgeschlossenen bilateralen Vereinbarungen über den Handel mit landwirtschaftlichen Erzeugnissen sind Bestandteil der Instrumente zur Errichtung einer Freihandelszone zwischen den EFTA-Staaten und Tunesien.
 
-[^4-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^4-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 5
 
@@ -168,7 +167,7 @@ Unbeschadet der Bestimmungen des GATT 1994 gilt Folgendes:
 
 <sup>3.</sup> Unbeschadet von Absatz 1 stimmen die Parteien überein, im Rahmen des Gemischten Ausschusses unverzüglich Konsultationen durchzuführen, wenn Tunesien oder eine EFTA-Partei der Meinung sind, eine oder mehrere EFTA-Parteien oder Tunesien hätten Massnahmen ergriffen, die ein Handelshemmnis bilden oder zu bilden drohen, um in Übereinstimmung mit dem WTO-Übereinkommen über technische Handelshemmnisse eine angemessene Lösung zu finden.
 
-[^12-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.6
+[^12-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.6
 
 #### Art. 13
 
@@ -176,7 +175,7 @@ Unbeschadet der Bestimmungen des GATT 1994 gilt Folgendes:
 
 Die Rechte und Pflichten der Parteien in gesundheitspolizeilichen und pflanzenschutzrechtlichen Belangen werden durch das WTO-Übereinkommen über die Anwendung gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen[^13-1] geregelt.
 
-[^13-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.4
+[^13-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.4
 
 #### Art. 14
 
@@ -196,8 +195,8 @@ Die Rechte und Pflichten der Parteien in gesundheitspolizeilichen und pflanzensc
 
 <sup>3.</sup> Bevor ein EFTA-Staat oder Tunesien, je nach Fall, entsprechend Artikel 11 des WTO-Übereinkommens über Subventionen und Ausgleichsmassnahmen eine Untersuchung mit dem Ziel einleitet, das Vorliegen, die Höhe und die Auswirkungen einer angeblichen Subvention in Tunesien oder in einem EFTA-Staat zu ermitteln, muss die Partei, die eine Untersuchung einleiten will, diejenige Partei, deren Waren untersucht werden sollen, schriftlich benachrichtigen und ihr eine Frist von dreissig Tagen gewähren, um eine beiderseits annehmbare Lösung zu finden. Die Konsultationen finden im Rahmen des Gemischten Ausschusses statt, falls eine der Parteien dies innerhalb von zehn Tagen nach Empfang der Notifikation verlangt.
 
-[^15-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.13
-[^15-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.3
+[^15-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.13
+[^15-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.3
 
 #### Art. 16
 
@@ -209,7 +208,7 @@ Die Rechte und Pflichten der Parteien in gesundheitspolizeilichen und pflanzensc
 
 <sup>3.</sup> Auf Antrag einer Partei überprüfen die Parteien den Inhalt dieses Artikels im Rahmen des Gemischten Ausschuss.
 
-[^16-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.8
+[^16-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.8
 
 #### Art. 17
 
@@ -246,7 +245,7 @@ Soweit sie geeignet sind, den Handel zwischen einem EFTA-Staat und Tunesien zu b
 
 <sup>7.</sup> Schutzmassnahmen sind unverzüglich dem Gemischten Ausschuss zu notifizieren und sind Gegenstand regelmässiger Konsultationen im Ausschuss, insbesondere im Hinblick auf die Festlegung eines Zeitplans für ihre Aufhebung, sobald es die Umstände zulassen.
 
-[^18-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.14
+[^18-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.14
 
 #### Art. 19
 
@@ -311,7 +310,7 @@ Dieses Abkommen hindert eine Partei nicht daran, Massnahmen zu ergreifen, die si
 
 <sup>4.</sup> Die Parteien vereinbaren, auf Antrag einer Partei und in Übereinstimmung mit allen Parteien, die in diesem Artikel und in Anhang V enthaltenen Bestimmungen über den Schutz des geistigen Eigentums mit dem Ziel zu überprüfen, das Schutzniveau zu verbessern und die Entwicklung des Handels zwischen den Parteien zu fördern.
 
-[^23-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1C
+[^23-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1C
 
 ## IV Investitionen
 
@@ -344,7 +343,7 @@ Die Parteien anerkennen die Wichtigkeit der Förderung von gegenseitigen Investi
 
 <sup>2.</sup> Gewährt eine Partei einer Nicht-Partei nach Inkrafttreten dieses Abkommens zusätzliche Vorteile für den Zugang zu ihren Dienstleistungsmärkten, so erklärt sie sich bereit, im Gemischten Ausschuss Konsultationen aufzunehmen, um die Angelegenheit im Lichte der in Absatz 1 aufgeführten Ziele zu behandeln.
 
-[^26-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1B
+[^26-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1B
 
 ## VI Laufende Zahlungen und Kapitalverkehr
 
@@ -366,7 +365,7 @@ Was die Transaktionen bezüglich des Kapitalverkehrs in der Zahlungsbilanz anbel
 
 Bei bereits eingetretenen oder bei unmittelbar drohenden Zahlungsbilanzschwierigkeiten eines EFTA-Staates oder Tunesiens können die EFTA-Staaten oder Tunesien, je nach Fall, in Übereinstimmung mit den Bestimmungen des GATT 1994 und mit den Artikeln VIII und XIV des Übereinkommens über den Internationalen Währungsfonds[^29-1] Beschränkungen für laufende Zahlungen erlassen, die zeitlich begrenzt sind und das zur Behebung der Zahlungsbilanzschwierigkeiten unbedingt notwendige Mass nicht überschreiten. Die EFTA-Staaten oder Tunesien unterrichten die anderen Parteien unverzüglich hiervon und unterbreiten ihnen so schnell wie möglich einen Zeitplan für die Beseitigung der entsprechenden Massnahmen.
 
-[^29-1]: [SR 0.979.1](https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571)
+[^29-1]: [SR 0.979.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4695)
 
 ## VII Öffentliches Beschaffungswesen
 
@@ -548,33 +547,36 @@ Die Regierung Norwegens handelt als Depositar.
 
 *Zu Urkund dessen*haben die hierzu gebührend befugten Unterzeichner dieses Abkommen unterschrieben. Geschehen zu Genf, am 17. Dezember 2004, in je zwei Urschriften in englischer und in französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Im Konfliktfall geht der englische Wortlaut vor. Eine Urschrift in jeder Sprache wird bei der Regierung Norwegens hinterlegt. (Es folgen die Unterschriften)
 
-Liste der Anhänge[^t-3]
+Liste der Anhänge[^t-2]
 
 <table>
-<tr><td></td><td>**Record of understanding**</td></tr>
-<tr><td>**Annex I**</td><td>Referred to in Article 3 – Territorial application</td></tr>
-<tr><td>**Annex II**</td><td>Referred to in paragraph 1(a) of Article 4 – Products not covered by the Agreement</td></tr>
-<tr><td>**Annex III**</td><td>Referred to in paragraph 1(c) of Article 4 – Fish and other marine products</td></tr>
-<tr><td>**Annex IV**</td><td>Referred to in paragraph 3 of Article 6 – Customs duties on imports and charges having equivalent effect</td></tr>
-<tr><td>**Annex V**</td><td>Referred to in Article 23 – Protection of intellectual property</td></tr>
-<tr><td>**Annex VI**</td><td>Referred to in Article 38 – Constitution and functioning of the arbitral tribunal</td></tr>
-<tr><td></td><td>Appendix to Annex IV</td></tr>
-<tr><td>**Protocol A**</td><td>Referred to in paragraph 1(b) of Article 4 – Processed agricultural products</td></tr>
-<tr><td></td><td>Table I to Protocol A</td></tr>
-<tr><td></td><td>Table II to Protocol A – Iceland</td></tr>
-<tr><td></td><td>Table III to Protocol A – Liechtenstein, Switzerland</td></tr>
-<tr><td></td><td>Table IV to Protocol A – Norway</td></tr>
-<tr><td></td><td>Table V to Protocol A – Tunisia</td></tr>
-<tr><td>**Protocol B**</td><td>Referred to in Article 5 – Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
-<tr><td></td><td>Annex I to Protocol B – Introductory notes to the list in Annex II</td></tr>
-<tr><td></td><td>Annex II to Protocol B – List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>
-<tr><td></td><td>Annex III A to Protocol B – Specimens of movement certificate EUR 1 and application for a movement certificate EUR 1</td></tr>
-<tr><td></td><td>Annex III B to Protocol B – Specimens of movement certificate EUR-MED and application for a movement certificate EUR-MED</td></tr>
-<tr><td></td><td>Annex IV A to Protocol B – Text of the invoice declaration</td></tr>
-<tr><td></td><td>Annex IV B to Protocol B – Text of the invoice declaration EUR-MED</td></tr>
-<tr><td></td><td>Annex V to Protocol B – List of countries or territories participating in the Euro-Mediterranean partnership</td></tr>
-<tr><td></td><td>Annex VI to Protocol B – Supplier’s declaration</td></tr>
-<tr><td></td><td>Annex VII to Protocol B – Long-term supplier’s declaration</td></tr>
+<tr><td></td><td colspan="2">**Record of understanding**</td></tr>
+<tr><td>**Annex I**</td><td colspan="2">Referred to in Article 3 – Territorial application</td></tr>
+<tr><td>**Annex II**</td><td colspan="2">Referred to in paragraph 1(a) of Article 4 – Products not covered by the Agreement</td></tr>
+<tr><td>**Annex III**</td><td colspan="2">Referred to in paragraph 1(c) of Article 4 – Fish and other marine products</td></tr>
+<tr><td>**Annex IV**</td><td colspan="2">Referred to in paragraph 3 of Article 6 – Customs duties on imports and charges having equivalent effect</td></tr>
+<tr><td>**Annex V**</td><td colspan="2">Referred to in Article 23 – Protection of intellectual property</td></tr>
+<tr><td>**Annex VI**</td><td colspan="2">Referred to in Article 38 – Constitution and functioning of the arbitral tribunal</td></tr>
+<tr><td></td><td colspan="2">Appendix to Annex IV</td></tr>
+<tr><td>**Protocol A**</td><td colspan="2">Referred to in paragraph 1(b) of Article 4 – Processed agricultural products</td></tr>
+<tr><td></td><td colspan="2">Table I to Protocol A</td></tr>
+<tr><td></td><td colspan="2">Table II to Protocol A – Iceland</td></tr>
+<tr><td></td><td colspan="2">Table III to Protocol A – Liechtenstein, Switzerland</td></tr>
+<tr><td></td><td colspan="2">Table IV to Protocol A – Norway</td></tr>
+<tr><td></td><td colspan="2">Table V to Protocol A – Tunisia</td></tr>
+<tr><td>**Protocol B**</td><td colspan="2">Referred to in Article 5 – Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
+<tr><td></td><td colspan="2">Annex I to Protocol B – Introductory notes to the list in Annex II</td></tr>
+<tr><td></td><td colspan="2">Annex II to Protocol B – List rules</td></tr>
+<tr><td></td><td colspan="2">Annex III A to Protocol B –Movement certificate EUR 1</td></tr>
+<tr><td></td><td colspan="2">Annex III B to Protocol B – Movement certificate EUR-MED</td></tr>
+<tr><td></td><td colspan="2">Annex IV A to Protocol B – Invoice declaration</td></tr>
+<tr><td></td><td colspan="2">Annex IV B to Protocol B – Invoice declaration EUR-MED</td></tr>
+<tr><td></td><td colspan="2">Annex V to Protocol B – List of countries</td></tr>
+<tr><td></td><td colspan="2">Annex VI to Protocol B – Supplier’s declaration</td></tr>
+<tr><td></td><td colspan="2">Annex VII to Protocol B – Long-term supplier’s declaration</td></tr>
+<tr><td colspan="2">***Joint Committee Decisions***</td><td></td></tr>
+<tr><td colspan="2">No 1/2007</td><td>Rules of procedure of the Joint Committee</td></tr>
+<tr><td colspan="2">No 1/2024</td><td>Amending Protocol B (Concept of «originating products» and methods of administrative cooperation)</td></tr>
 </table>
 
-[^t-3]: Diese Dokumente werden weder in der AS noch der SR veröffentlicht. Sie sind nur in englischer und französischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: http://www.efta.int/free-trade/free-trade-agreements/tunisia/
+[^t-2]: Diese Dokumente werden weder in der AS noch der SR veröffentlicht (siehe [AS 2026 85](https://fedlex.data.admin.ch/eli/oc/2026/85)). Sie können in englischer Originalsprache beim Bundesamt für Bauten und Logistik, Vertrieb Publikationen, 3003 Bern bezogen werden und sind auf der Internet-Seite des EFTA-Sekretariates verfügbar: [www.efta.int/trade-relations/free-trade-network/tunisia](https://www.efta.int/trade-relations/free-trade-network/tunisia).

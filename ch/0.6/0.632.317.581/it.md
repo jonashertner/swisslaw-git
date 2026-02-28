@@ -3,11 +3,11 @@ sr: "0.632.317.581"
 title: "Accordo di libero scambio del 17 dicembre 2004 tra gli Stati dell'AELS e la Repubblica Tunisina (con prot. e all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/737"
 language: it
-version: 2005-06-01
+version: 2026-03-01
 adopted: 2004-12-17
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/737/20050601/it/xml/fedlex-data-admin-ch-eli-cc-2005-737-20050601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/737/20050601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/737/20260301/it/xml/fedlex-data-admin-ch-eli-cc-2005-737-20260301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/737/20260301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/737/20050601/it"
 
 RU **2005** 5387; FF **2006** 1663
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Ginevra il 17 dicembre 2004 Dichiarazione di applicazione provvisoria depositata dalla Svizzera il 6 aprile 2005 Applicato provvisoriamente dalla Svizzera dal 1° giugno 2005[^t-2]
+Concluso a Ginevra il 17 dicembre 2004 Dichiarazione di applicazione provvisoria depositata dalla Svizzera il 6 aprile 2005 Applicato provvisoriamente dalla Svizzera dal 1° giugno 2005[^t-1]
 
-(Stato 1° giugno 2005)
+(Stato 1° marzo 2026)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: Il campo d’applicazione relativo al presente Accordo sarà pubblicato in occasione della sua entrata in vigore.
+[^t-1]: Il campo d’applicazione relativo al presente Acc. sarà pubblicato in occasione della sua entrata in vigore.
 
 La Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia, la Confederazione Svizzera in qualità di Membri dell’Associazione europea di libero scambio (qui di seguito: gli Stati dell’AELS) e la Repubblica Tunisina (qui di seguito: la Tunisia),
 
@@ -51,10 +50,10 @@ convinti che il presente Accordo realizzi condizioni favorevoli al consolidament
 
 hanno deciso, nell’intento di raggiungere tali obiettivi, di stipulare il seguente Accordo (qui di seguito: il presente Accordo):
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
-## I. Disposizioni generali
+## I Disposizioni generali
 
 #### Art. 1
 
@@ -101,7 +100,7 @@ Il presente capitolo si applica ai seguenti prodotti originari di uno Stato dell
 
 <sup>2.</sup> Gli accordi bilaterali sul commercio di prodotti agricoli conclusi fra la Tunisia ed ognuno degli Stati dell’AELS rappresentano una parte degli strumenti che istituiscono una zona di libero scambio tra gli Stati dell’AELS e la Tunisia.
 
-[^4-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^4-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 5
 
@@ -170,7 +169,7 @@ Fatte salve le disposizioni del GATT 1994:
 
 <sup>3.</sup> Fatto salvo il capoverso 1, le Parti convengono di organizzare consultazioni immediate in seno al Comitato misto se la Tunisia o uno Stato dell’AELS ritengono che uno o più Stati dell’AELS o la Tunisia abbiano adottato provvedimenti che potrebbero creare, o che hanno già creato, un ostacolo al commercio, al fine di trovare una soluzione appropriata conforme alle disposizioni dell’Accordo dell’OMC sugli ostacoli tecnici agli scambi.
 
-[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.6
+[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1A.6
 
 #### Art. 13
 
@@ -178,7 +177,7 @@ Fatte salve le disposizioni del GATT 1994:
 
 I diritti e gli obblighi delle Parti in materia sanitaria e fitosanitaria sono disciplinati dall’Accordo dell’OMC sull’applicazione delle misure sanitarie e fitosanitarie[^13-1].
 
-[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.4
+[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1A.4
 
 #### Art. 14
 
@@ -198,8 +197,8 @@ I diritti e gli obblighi delle Parti in materia sanitaria e fitosanitaria sono d
 
 <sup>3.</sup> Prima di iniziare una procedura d’inchiesta per determinare l’esistenza, il grado e l’effetto di una presunta sovvenzione in Tunisia o in uno Stato dell’AELS conformemente alle disposizioni dell’articolo 11 dell’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative, la Parte che intende iniziare tale procedura lo notifica per scritto alla Parte le cui merci sono sospettate di essere state oggetto di sovvenzioni e fissa un termine di trenta giorni per trovare una soluzione mutuamente accettabile. Le consultazioni si svolgono in seno al Comitato misto se una delle Parti ne fa domanda entro dieci giorni dalla data di ricevimento della notifica.
 
-[^15-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.13
-[^15-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.3
+[^15-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1A.13
+[^15-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1A.3
 
 #### Art. 16
 
@@ -211,7 +210,7 @@ I diritti e gli obblighi delle Parti in materia sanitaria e fitosanitaria sono d
 
 <sup>3.</sup> Le Parti si impegnano, su domanda di una delle Parti, a riunirsi in seno al Comitato misto per rivedere il contenuto del presente articolo.
 
-[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.8
+[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1A.8
 
 #### Art. 17
 
@@ -248,7 +247,7 @@ Sono incompatibili con il buon funzionamento del presente Accordo in quanto susc
 
 <sup>7.</sup> Le misure di salvaguardia sono notificate senza indugio al Comitato misto e sono oggetto di consultazioni periodiche in seno al Comitato, in particolare allo scopo di definire un calendario per la loro revoca non appena le circostanze lo consentono.
 
-[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.14
+[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1A.14
 
 #### Art. 19
 
@@ -316,7 +315,7 @@ Nessuna disposizione del presente Accordo impedisce a una Parte di adottare i pr
 
 <sup>4.</sup> Le Parti convengono di modificare le disposizioni relative alla protezione dei diritti della proprietà intellettuale contenuti nel presente articolo e nell’Allegato V, su domanda di una di esse e d’intesa con tutte le Parti, al fine di migliorare il livello di protezione e di promuovere lo sviluppo degli scambi fra le Parti.
 
-[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1C
+[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1C
 
 ## IV Investimenti
 
@@ -349,7 +348,7 @@ Le Parti riconoscono l’importanza della promozione reciproca dei flussi di inv
 
 <sup>2.</sup> Ove, dopo l’entrata in vigore del presente Accordo, una Parte conceda ad una Parte non contraente benefici supplementari in materia di accesso al proprio mercato dei servizi, essa si dichiara disposta a sottoporre la questione a consultazioni in seno al Comitato misto, alla luce degli obiettivi di cui al capoverso 1.
 
-[^26-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1B
+[^26-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1B
 
 ## VI Pagamenti correnti e movimento di capitali
 
@@ -371,7 +370,7 @@ Per quanto attiene alle transazioni riguardanti il conto capitale della bilancia
 
 La Tunisia o uno o più Stati dell’AELS che si trovano o rischiano di trovarsi in gravi difficoltà inerenti la bilancia dei pagamenti possono adottare, conformemente alle condizioni previste dal GATT 1994 e agli articoli VIII e XIV dell’Accordo sul Fondo monetario internazionale[^29-1], restrizioni sulle transazioni correnti che abbiano una durata limitata e che non superino la portata strettamente necessaria per rimediare alla situazione della bilancia dei pagamenti. Gli Stati dell’AELS o la Tunisia informano immediatamente le altre Parti e, appena possibile, comunicano il calendario per la revoca delle misure in questione.
 
-[^29-1]: [RS 0.979.1](https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571)
+[^29-1]: [RS 0.979.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4695)
 
 ## VII Appalti pubblici
 
@@ -553,7 +552,7 @@ Il Governo di Norvegia agisce in qualità di Governo depositario.
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo. Fatto a Ginevra, il 17 dicembre 2004, in due esemplari originali in inglese e in francese, ciascun testo facente parimente fede. In caso di conflitto, la versione inglese prevale. Un esemplare originale in ciascuna delle due lingue sarà depositata presso il Governo di Norvegia. (Seguono le firme)
 
-Lista degli allegati**[^t-3]**
+Lista degli allegati[^t-2]
 
 <table>
 <tr><td></td><td>**Record of understanding**</td></tr>
@@ -572,14 +571,19 @@ Lista degli allegati**[^t-3]**
 <tr><td></td><td>Table V to Protocol A – Tunisia</td></tr>
 <tr><td>**Protocol B**</td><td>Referred to in Article 5 – Concerning the definition of the concept of «originating products» and methods of administrative co-operation</td></tr>
 <tr><td></td><td>Annex I to Protocol B – Introductory notes to the list in Annex II</td></tr>
-<tr><td></td><td>Annex II to Protocol B – List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status</td></tr>
-<tr><td></td><td>Annex III A to Protocol B – Specimens of movement certificate EUR 1 and application for a movement certificate EUR 1</td></tr>
-<tr><td></td><td>Annex III B to Protocol B – Specimens of movement certificate EUR-MED and application for a movement certificate EUR-MED</td></tr>
-<tr><td></td><td>Annex IV A to Protocol B – Text of the invoice declaration</td></tr>
-<tr><td></td><td>Annex IV B to Protocol B – Text of the invoice declaration EUR-MED</td></tr>
-<tr><td></td><td>Annex V to Protocol B – List of countries or territories participating in the Euro-Mediterranean partnership</td></tr>
+<tr><td></td><td>Annex II to Protocol B – List rules</td></tr>
+<tr><td></td><td>Annex III A to Protocol B –Movement certificate EUR 1</td></tr>
+<tr><td></td><td>Annex III B to Protocol B – Movement certificate EUR-MED</td></tr>
+<tr><td></td><td>Annex IV A to Protocol B – Invoice declaration</td></tr>
+<tr><td></td><td>Annex IV B to Protocol B – Invoice declaration EUR-MED</td></tr>
+<tr><td></td><td>Annex V to Protocol B – List of countries</td></tr>
 <tr><td></td><td>Annex VI to Protocol B – Supplier’s declaration</td></tr>
 <tr><td></td><td>Annex VII to Protocol B – Long-term supplier’s declaration</td></tr>
 </table>
 
-[^t-3]: Questi doc. non sono pubblicati né nella RU né nella RS. Sono disponibili in inglese e francese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: http://www.efta.int/free-trade/free-trade-agreements/tunisia/
+<table>
+<tr><td>***Joint Committee Decisions***</td><td></td></tr>
+<tr><td>No 1-24</td><td>Amendments to Protocol B</td></tr>
+</table>
+
+[^t-2]: Questi doc. non sono pubblicati né nella RU né nella RS ([RU 2026 85](https://fedlex.data.admin.ch/eli/oc/2026/85)). Possono essere ottenuti nella versione originale inglese presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna ed è disponibile sul sito Internet del Segretariato dell’AELS: [www.efta.int/trade-relations/free-trade-network/tunisia](https://www.efta.int/trade-relations/free-trade-network/tunisia).

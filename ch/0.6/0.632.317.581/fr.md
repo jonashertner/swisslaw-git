@@ -3,16 +3,16 @@ sr: "0.632.317.581"
 title: "Accord de libre-échange du 17 décembre 2004 entre les États de l'AELE et la République Tunisienne (avec prot. et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/737"
 language: fr
-version: 2005-06-01
+version: 2026-03-01
 adopted: 2004-12-17
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/737/20050601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-737-20050601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/737/20050601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/737/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-2005-737-20260301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/737/20260301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord de libre-échange entre les Etats de l’AELE et la République Tunisienne
+# Accord de libre-échange entre les États de l’AELE et la République Tunisienne
 
 RO **2005** 5387; FF **2006** 1751
 
@@ -20,19 +20,19 @@ Texte original
 
 Conclu à Genève le 17 décembre 2004 Déclaration d’application provisoire de la Suisse déposé le 6 avril 2005 Appliqué provisoirement par la Suisse dès le 1<sup>er</sup> juin 2005[^t-1]
 
-(Etat le 1<sup>er</sup> juin 2005)
+(État le 1<sup>er</sup> mars 2026)
 
 [^t-1]: Le champ d’application relatif à cet accord sera publié lors de son entrée en vigueur.
 
-La République d’Islande, la Principauté du Liechtenstein, le Royaume de Norvège, la Confédération suisse en tant que Membres de l’Association Européenne de Libre-échange (ci-après dénommés «les Etats de l’AELE»), d’une part, et la République Tunisienne (ci-après dénommée «la Tunisie»), de l’autre:
+La République d’Islande, la Principauté du Liechtenstein, le Royaume de Norvège, la Confédération suisse en tant que Membres de l’Association Européenne de Libre-échange (ci-après dénommés «les États de l’AELE»), d’une part, et la République Tunisienne (ci-après dénommée «la Tunisie»), de l’autre:
 
 ci-après dénommés collectivement les Parties,
 
-considérant l’importance des liens existant entre les Etats de l’AELE et la Tunisie, en particulier la Déclaration de coopération signée en décembre 1995 à Zermatt, et reconnaissant le vœu commun des Parties de renforcer ces liens afin d’établir entre elles des relations étroites et durables,
+considérant l’importance des liens existant entre les États de l’AELE et la Tunisie, en particulier la Déclaration de coopération signée en décembre 1995 à Zermatt, et reconnaissant le vœu commun des Parties de renforcer ces liens afin d’établir entre elles des relations étroites et durables,
 
 rappelant leur intention de prendre une part active au processus d’intégration économique dans la région Euro-Méditerranéenne et à la création d’une zone de libre-échange élargie et harmonieuse entre les pays européens et ceux du bassin méditerranéen et conscients des objectifs d’intégration entre les pays du Maghreb,
 
-considérant l’importance que les Parties attachent au respect des principes de la Charte des Nations Unies[^ingress-1] et, en particulier, au respect des droits de l’Homme et des libertés politiques et économiques, qui constituent le fondement même d’une coopération entre les Etats de l’AELE et la Tunisie,
+considérant l’importance que les Parties attachent au respect des principes de la Charte des Nations Unies[^ingress-1] et, en particulier, au respect des droits de l’Homme et des libertés politiques et économiques, qui constituent le fondement même d’une coopération entre les États de l’AELE et la Tunisie,
 
 désireux de créer des conditions propices au développement et à la diversification des échanges commerciaux entre eux, ainsi qu’à la promotion de la coopération commerciale et économique dans des zones d’intérêt commun, coopération fondée sur les principes de l’égalité, du bénéfice mutuel, de la non-discrimination ainsi que sur le droit international,
 
@@ -40,7 +40,7 @@ se fondant sur leurs droits et obligations respectifs aux termes de l’Accord d
 
 déterminés à appliquer le présent Accord en se fixant pour objectif de préserver et de protéger l’environnement et d’assurer une utilisation optimale des ressources naturelles, en vertu du principe du développement durable,
 
-notant l’intention des Etats de l’AELE d’appuyer les efforts tendant à libéraliser l’économie tunisienne et de contribuer par ce biais à l’amélioration des conditions économiques et sociales en Tunisie,
+notant l’intention des États de l’AELE d’appuyer les efforts tendant à libéraliser l’économie tunisienne et de contribuer par ce biais à l’amélioration des conditions économiques et sociales en Tunisie,
 
 se déclarant prêts à examiner la possibilité de développer et d’approfondir leurs relations économiques en vue de les étendre à des domaines non couverts par le présent Accord,
 
@@ -50,8 +50,8 @@ convaincus que le présent Accord créera des conditions favorables renforçant 
 
 ont décidé, dans l’intention de poursuivre les objectifs mentionnés ci-dessus, de conclure l’Accord suivant (ci-après dénommé «le présent Accord»):
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ## I Dispositions générales
 
@@ -59,7 +59,7 @@ ont décidé, dans l’intention de poursuivre les objectifs mentionnés ci-dess
 
 **Objectifs**
 
-<sup>1.</sup> Les Etats de l’AELE et la Tunisie, conformément aux dispositions du présent Accord, s’engagent à instaurer une zone de libre-échange en vue de stimuler les activités économiques dans leurs territoires, et ainsi d’augmenter le niveau de vie, d’améliorer les conditions de l’emploi et de contribuer à l’intégration économique euro-méditerranéenne.
+<sup>1.</sup> Les États de l’AELE et la Tunisie, conformément aux dispositions du présent Accord, s’engagent à instaurer une zone de libre-échange en vue de stimuler les activités économiques dans leurs territoires, et ainsi d’augmenter le niveau de vie, d’améliorer les conditions de l’emploi et de contribuer à l’intégration économique euro-méditerranéenne.
 
 <sup>2.</sup>
 
@@ -70,13 +70,13 @@ Les objectifs du présent Accord, lequel se fonde sur des relations commerciales
 - (c) prévoir des conditions équitables de concurrence dans les échanges entre les Parties au présent Accord et garantir une protection adéquate et efficace des droits de propriété intellectuelle; et
 - (d) soutenir le développement harmonieux des relations économiques entre les Parties par le biais d’une extension des échanges, de la coopération économique et de l’assistance technique.
 
-[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1
+[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1
 
 #### Art. 2
 
 **Relations commerciales régies par le présent Accord**
 
-Le présent Accord s’applique aux relations commerciales entre, d’une part, les différents Etats de l’AELE et, d’autre part, la Tunisie, mais non pas aux relations commerciales entre les différents Etats de l’AELE, sauf dispositions contraires du présent Accord.
+Le présent Accord s’applique aux relations commerciales entre, d’une part, les différents États de l’AELE et, d’autre part, la Tunisie, mais non pas aux relations commerciales entre les différents États de l’AELE, sauf dispositions contraires du présent Accord.
 
 #### Art. 3
 
@@ -92,15 +92,15 @@ Le présent Accord est applicable sur le territoire des Parties sous réserve de
 
 <sup>1.</sup>
 
-Le présent chapitre s’applique aux produits suivants originaires d’un Etat de l’AELE ou de la Tunisie:
+Le présent chapitre s’applique aux produits suivants originaires d’un État de l’AELE ou de la Tunisie:
 
 - (a) tous les produits relevant des chap. 25 à 97 du Système harmonisé de désignation et de codification des marchandises (SH)[^4-1], à l’exclusion des produits énumérés dans l’Annexe II;
 - (b) les produits agricoles transformés figurant dans le Protocole A, compte tenu des modalités particulières prévues dans ce Protocole;
 - (c) le poisson et les autres produits de la mer qui figurent dans l’Annexe III;
 
-<sup>2.</sup> Les accords sur le commerce des produits agricoles conclus sur une base bilatérale, entre la Tunisie et chaque Etat de l’AELE pris individuellement, constituent une partie des instruments instituant une zone de libre-échange entre les Etats de l’AELE et la Tunisie.
+<sup>2.</sup> Les accords sur le commerce des produits agricoles conclus sur une base bilatérale, entre la Tunisie et chaque État de l’AELE pris individuellement, constituent une partie des instruments instituant une zone de libre-échange entre les États de l’AELE et la Tunisie.
 
-[^4-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^4-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 5
 
@@ -112,9 +112,9 @@ Le Protocole B énonce les règles d’origine et les méthodes de coopération 
 
 **Droits de douane à l’importation et taxes d’effet équivalent**
 
-<sup>1.</sup> Aucun nouveau droit de douane à l’importation et aucune nouvelle taxe d’effet équivalent ne seront introduits dans les échanges commerciaux entre les Etats de l’AELE et la Tunisie.
+<sup>1.</sup> Aucun nouveau droit de douane à l’importation et aucune nouvelle taxe d’effet équivalent ne seront introduits dans les échanges commerciaux entre les États de l’AELE et la Tunisie.
 
-<sup>2.</sup> Les Etats de l’AELE élimineront, dès l’entrée en vigueur du présent Accord, tous les droits de douane à l’importation et toutes les taxes d’effet équivalent.
+<sup>2.</sup> Les États de l’AELE élimineront, dès l’entrée en vigueur du présent Accord, tous les droits de douane à l’importation et toutes les taxes d’effet équivalent.
 
 <sup>3.</sup> La Tunisie éliminera graduellement ses droits de douane à l’importation et toute taxe d’effet équivalent, sous réserve des dispositions de l’Annexe IV.
 
@@ -136,7 +136,7 @@ Les dispositions de l’art. 6 sont également applicables aux droits de douane 
 
 **Droits de douane et restrictions quantitatives à l’exportation**
 
-Sans préjudice des dispositions du GATT 1994, les Etats de l’AELE et la Tunisie n’appliqueront dans leurs exportations mutuelles ni droits de douane et taxes d’effet équivalent, ni restrictions quantitatives et mesures d’effet équivalent.
+Sans préjudice des dispositions du GATT 1994, les États de l’AELE et la Tunisie n’appliqueront dans leurs exportations mutuelles ni droits de douane et taxes d’effet équivalent, ni restrictions quantitatives et mesures d’effet équivalent.
 
 #### Art. 10
 
@@ -146,8 +146,8 @@ Sans préjudice des dispositions du GATT 1994, les Etats de l’AELE et la Tunis
 
 Sans préjudice des dispositions du GATT 1994:
 
-- (a) Aucune nouvelle restriction quantitative à l’importation ou mesure d’effet équivalent ne sera introduite dans les échanges commerciaux entre les Etats de l’AELE et la Tunisie.
-- (b) Les restrictions quantitatives à l’importation et les mesures d’effet équivalent seront éliminées dans les échanges commerciaux entre les Etats de l’AELE et la Tunisie dès l’entrée en vigueur du présent Accord.
+- (a) Aucune nouvelle restriction quantitative à l’importation ou mesure d’effet équivalent ne sera introduite dans les échanges commerciaux entre les États de l’AELE et la Tunisie.
+- (b) Les restrictions quantitatives à l’importation et les mesures d’effet équivalent seront éliminées dans les échanges commerciaux entre les États de l’AELE et la Tunisie dès l’entrée en vigueur du présent Accord.
 
 <sup>2.</sup> Les dispositions de l’al. 1(b) ne s’appliqueront pas aux produits de la catégorie D figurant à l’Annexe IV. Le régime applicable à ces produits sera réexaminé par le Comité mixte quatre ans après l’entrée en vigueur de l’Accord.
 
@@ -169,7 +169,7 @@ Sans préjudice des dispositions du GATT 1994:
 
 <sup>3.</sup> Sans préjudice du premier alinéa, les Parties conviennent de tenir des consultations immédiates au sein du Comité mixte si la Tunisie ou une Partie AELE estime qu’une ou plusieurs Parties AELE ou la Tunisie ont pris des mesures qui pourraient créer, ou qui ont déjà créé, un obstacle au commerce, de façon à trouver une solution appropriée en conformité avec les dispositions de l’Accord de l’OMC sur les obstacles techniques au commerce.
 
-[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.6
+[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.6
 
 #### Art. 13
 
@@ -177,15 +177,15 @@ Sans préjudice des dispositions du GATT 1994:
 
 Les droits et obligations des Parties en matière sanitaire et phytosanitaire découlent de l’Accord de l’OMC sur l’application des mesures sanitaires et phytosanitaires[^13-1].
 
-[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.4
+[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.4
 
 #### Art. 14
 
-**Monopoles d’Etat**
+**Monopoles d’État**
 
-<sup>1.</sup> Les Etats de l’AELE et la Tunisie, sans porter préjudice aux droits et obligations du GATT 1994, veillent à ce que les monopoles d’Etat présentant un caractère commercial soient aménagés de telle façon que, lors de l’entrée en vigueur du présent Accord, aucune discrimination dans les conditions d’approvisionnement et de commercialisation des marchandises n’existe entre les ressortissants des Etats de l’AELE et de la Tunisie.
+<sup>1.</sup> Les États de l’AELE et la Tunisie, sans porter préjudice aux droits et obligations du GATT 1994, veillent à ce que les monopoles d’État présentant un caractère commercial soient aménagés de telle façon que, lors de l’entrée en vigueur du présent Accord, aucune discrimination dans les conditions d’approvisionnement et de commercialisation des marchandises n’existe entre les ressortissants des États de l’AELE et de la Tunisie.
 
-<sup>2.</sup> Les dispositions du présent article s’appliquent à tout organisme par lequel les autorités compétentes des Parties au présent Accord, en droit ou en fait, soit directement ou indirectement, supervisent, déterminent ou influencent sensiblement, les importations ou les exportations entre les Parties au présent Accord. Ces dispositions s’appliquent également aux monopoles délégués par l’Etat à d’autres organismes.
+<sup>2.</sup> Les dispositions du présent article s’appliquent à tout organisme par lequel les autorités compétentes des Parties au présent Accord, en droit ou en fait, soit directement ou indirectement, supervisent, déterminent ou influencent sensiblement, les importations ou les exportations entre les Parties au présent Accord. Ces dispositions s’appliquent également aux monopoles délégués par l’État à d’autres organismes.
 
 #### Art. 15
 
@@ -195,10 +195,10 @@ Les droits et obligations des Parties en matière sanitaire et phytosanitaire d�
 
 <sup>2.</sup> Si une Partie estime que des subventions accordées affectent les échanges avec une autre Partie, la Partie concernée peut prendre toute mesure appropriée sur la base des Accords ci-dessus mentionnés et les règlements de mise en œuvre internes pertinents.
 
-<sup>3.</sup> Avant qu’un Etat de l’AELE ou la Tunisie, selon le cas, n’engage une procédure d’investigation afin de déterminer l’existence, l’ampleur et l’effet d’une subvention alléguée à la Tunisie, ou dans un Etat de l’AELE, conformément aux dispositions de l’art. 11 de l’Accord de l’OMC sur les subventions et les mesures compensatoires, la Partie ayant l’intention d’engager cette procédure d’investigation le notifie par écrit à la Partie dont les marchandises sont sujettes à investigation et accorde un délai de trente jours en vue de trouver une solution mutuellement acceptable. Les consultations auront lieu au sein du Comité mixte si une Partie en fait la demande dans les dix jours qui suivent la date de réception de la notification.
+<sup>3.</sup> Avant qu’un État de l’AELE ou la Tunisie, selon le cas, n’engage une procédure d’investigation afin de déterminer l’existence, l’ampleur et l’effet d’une subvention alléguée à la Tunisie, ou dans un État de l’AELE, conformément aux dispositions de l’art. 11 de l’Accord de l’OMC sur les subventions et les mesures compensatoires, la Partie ayant l’intention d’engager cette procédure d’investigation le notifie par écrit à la Partie dont les marchandises sont sujettes à investigation et accorde un délai de trente jours en vue de trouver une solution mutuellement acceptable. Les consultations auront lieu au sein du Comité mixte si une Partie en fait la demande dans les dix jours qui suivent la date de réception de la notification.
 
-[^15-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.13
-[^15-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.3
+[^15-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.13
+[^15-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.3
 
 #### Art. 16
 
@@ -206,11 +206,11 @@ Les droits et obligations des Parties en matière sanitaire et phytosanitaire d�
 
 <sup>1.</sup> Les droits et les obligations des Parties relatifs à l’application des mesures antidumping sont régis par les dispositions de l’art. VI du GATT 1994 et de l’Accord relatif à la mise en œuvre de l’art. VI du GATT 1994[^16-1].
 
-<sup>2.</sup> Après qu’un Etat de l’AELE ou la Tunisie, selon le cas, a reçu une demande dûment documentée et avant d’initier toute investigation en vertu des dispositions de l’Accord mentionné au premier al., la Partie concernée s’engage à notifier ladite demande par écrit à la Partie dont il est allégué que les marchandises font l’objet de dumping et à donner la possibilité pour des consultations en vue de trouver une solution mutuellement acceptable. L’issue des consultations est communiquée aux autres Parties.
+<sup>2.</sup> Après qu’un État de l’AELE ou la Tunisie, selon le cas, a reçu une demande dûment documentée et avant d’initier toute investigation en vertu des dispositions de l’Accord mentionné au premier al., la Partie concernée s’engage à notifier ladite demande par écrit à la Partie dont il est allégué que les marchandises font l’objet de dumping et à donner la possibilité pour des consultations en vue de trouver une solution mutuellement acceptable. L’issue des consultations est communiquée aux autres Parties.
 
 <sup>3.</sup> Les Parties s’engagent, à la demande de l’une des Parties, à se réunir au sein du Comité mixte afin de réviser le contenu du présent article.
 
-[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.8
+[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.8
 
 #### Art. 17
 
@@ -218,7 +218,7 @@ Les droits et obligations des Parties en matière sanitaire et phytosanitaire d�
 
 <sup>1.</sup>
 
-Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure où ils sont susceptibles d’affecter les échanges entre un Etat de l’AELE et la Tunisie:
+Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure où ils sont susceptibles d’affecter les échanges entre un État de l’AELE et la Tunisie:
 
 - (a) tous les accords entre entreprises, toutes les décisions d’associations d’entreprises et toutes les pratiques concertées entre entreprises qui ont pour objet ou pour effet d’empêcher, de restreindre ou de fausser le jeu de la concurrence;
 - (b) l’exploitation abusive, par une ou plusieurs entreprises, d’une position dominante sur l’ensemble ou dans une partie substantielle du territoire des Parties.
@@ -239,7 +239,7 @@ Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure
 
 <sup>3.</sup> En vue de trouver une solution, les Parties s’engagent immédiatement à tenir des consultations au sein du Comité mixte. Si ces consultations ne débouchent pas sur un accord dans un délai de trente jours après leur lancement en vue d’éviter l’application de mesures de sauvegarde, la Partie ayant l’intention d’appliquer des mesures de sauvegarde a la possibilité de la faire, conformément aux dispositions de l’art. XIX du GATT de 1994 et de l’Accord de l’OMC sur les sauvegardes.
 
-<sup>4.</sup> Au cas où un Etat de l’AELE ou la Tunisie soumet l’importation de produits censés provoquer des difficultés visées au présent article à une procédure administrative ayant pour but la fourniture rapide d’informations sur les tendances relatives aux flux des échanges, elle en informe l’autre Partie.
+<sup>4.</sup> Au cas où un État de l’AELE ou la Tunisie soumet l’importation de produits censés provoquer des difficultés visées au présent article à une procédure administrative ayant pour but la fourniture rapide d’informations sur les tendances relatives aux flux des échanges, elle en informe l’autre Partie.
 
 <sup>5.</sup> Lors de circonstances critiques pour lesquelles un retard causerait un dommage qui serait difficile à réparer, les mesures découlant de l’al. 1 peuvent être appliquées sans consultation préalable, à la condition qu’une consultation soit effectuée immédiatement après la prise d’une telle action.
 
@@ -247,7 +247,7 @@ Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure
 
 <sup>7.</sup> Les mesures de sauvegarde sont notifiées sans délai au Comité mixte et font l’objet de consultations périodiques au sein de ce Comité, en particulier, en vue d’établir un calendrier pour leur élimination dès que les circonstances le permettent.
 
-[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.14
+[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.14
 
 #### Art. 19
 
@@ -257,9 +257,9 @@ Sont incompatibles avec le bon fonctionnement du présent Accord, dans la mesure
 
 <sup>2.</sup> Ces mesures ne peuvent s’appliquer qu’en faveur d’industries naissantes ou de certains secteurs en cours de restructuration ou confrontés à de sérieuses difficultés, en particulier lorsque ces difficultés provoquent de graves problèmes sociaux.
 
-<sup>3.</sup> Après l’introduction de telles mesures, les droits de douane à l’importation applicables en Tunisie aux produits originaires des Etats de l’AELE introduits par ces mesures ne peuvent pas excéder 25 % *ad valorem* et doivent conserver un élément préférentiel pour les produits originaires des Etats de l’AELE. La valeur totale des importations de produits assujettis à ces mesures ne peut pas être supérieure à 15 % du total des importations de produits industriels, tels que définis à l’al. 1(a) de l’art. 4, originaires des Etats de l’AELE, réalisées pendant la dernière année pour laquelle des données statistiques sont disponibles.
+<sup>3.</sup> Après l’introduction de telles mesures, les droits de douane à l’importation applicables en Tunisie aux produits originaires des États de l’AELE introduits par ces mesures ne peuvent pas excéder 25 % *ad valorem* et doivent conserver un élément préférentiel pour les produits originaires des États de l’AELE. La valeur totale des importations de produits assujettis à ces mesures ne peut pas être supérieure à 15 % du total des importations de produits industriels, tels que définis à l’al. 1(a) de l’art. 4, originaires des États de l’AELE, réalisées pendant la dernière année pour laquelle des données statistiques sont disponibles.
 
-<sup>4.</sup> La Tunisie informe le Comité mixte de toute mesure exceptionnelle qu’elle envisage de prendre, et, à la demande des Etats de l’AELE, des consultations auront lieu au sein du Comité mixte sur de telles mesures et sur les secteurs auxquels elles doivent s’appliquer, et ce avant que ces mesures ne soient mises en œuvre. Au moment de prendre de telles mesures, la Tunisie communiquera au Comité mixte un calendrier pour l’élimination des droits de douane introduits en application du présent article. Ce calendrier devra fixer une élimination de ces droits en tranches annuelles égales débutant au plus tard deux ans après leur introduction, à moins que le Comité mixte ne décide de fixer un calendrier différent.
+<sup>4.</sup> La Tunisie informe le Comité mixte de toute mesure exceptionnelle qu’elle envisage de prendre, et, à la demande des États de l’AELE, des consultations auront lieu au sein du Comité mixte sur de telles mesures et sur les secteurs auxquels elles doivent s’appliquer, et ce avant que ces mesures ne soient mises en œuvre. Au moment de prendre de telles mesures, la Tunisie communiquera au Comité mixte un calendrier pour l’élimination des droits de douane introduits en application du présent article. Ce calendrier devra fixer une élimination de ces droits en tranches annuelles égales débutant au plus tard deux ans après leur introduction, à moins que le Comité mixte ne décide de fixer un calendrier différent.
 
 <sup>5.</sup> La durée d’application des mesures exceptionnelles spécifiées dans le présent article ne peut dépasser cinq ans. Toutes les mesures d’ajustement structurel exceptionnelles cessent de s’appliquer trois ans après l’expiration de la période maximale de transition à laquelle référence est faite dans l’Annexe IV. Le Comité mixte peut décider de la fixation de délais différents de ceux qui sont mentionnés dans le présent alinéa.
 
@@ -308,11 +308,11 @@ Aucune disposition du présent Accord n’empêche une Partie de prendre les mes
 
 <sup>2.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles réservent à leurs propres ressortissants. Les exceptions à cette obligation doivent être conformes aux dispositions matérielles de l’art. 3 de l’Accord de l’OMC sur les aspects des droits de propriété intellectuelle qui touchent au commerce[^23-1] (ci-après dénommé «l’Accord sur les ADPIC»).
 
-<sup>3.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles réservent aux ressortissants de tout autre Etat. Les exceptions à cette obligation doivent être conformes aux dispositions matérielles de l’Accord sur les ADPIC, en particulier à ses art. 4 et 5.
+<sup>3.</sup> Les Parties accordent aux ressortissants des autres Parties un traitement non moins favorable que celui qu’elles réservent aux ressortissants de tout autre État. Les exceptions à cette obligation doivent être conformes aux dispositions matérielles de l’Accord sur les ADPIC, en particulier à ses art. 4 et 5.
 
 <sup>4.</sup> Les Parties conviennent de réexaminer, à la demande de l’une d’elles et en accord avec toutes les Parties, les dispositions relatives à la protection des droits de la propriété intellectuelle contenues dans le présent article et dans l’Annexe V, en vue d’améliorer davantage les niveaux de protection et de promouvoir le développement des échanges entre les Parties.
 
-[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1C
+[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1C
 
 ## IV Investissements
 
@@ -328,9 +328,7 @@ Aucune disposition du présent Accord n’empêche une Partie de prendre les mes
 
 **Promotion de l’investissement**
 
-<sup>1.</sup>
-
-Les Parties reconnaissent l’importance de la promotion des flux d’investissement et de technologies entre elles en tant que moyen de réaliser la croissance et le développement économiques. A cette fin, la coopération comprend:
+Les Parties reconnaissent l’importance de la promotion des flux d’investissement et de technologies entre elles en tant que moyen de réaliser la croissance et le développement économiques. À cette fin, la coopération comprend:
 
 - (a) des moyens appropriés permettant l’identification des possibilités d’investissement et des canaux d’information relatifs aux règles sur l’investissement;
 - (b) la fourniture d’informations sur les mesures de promotion de l’investissement à l’étranger adoptées par les Parties (assistance technique, soutien financier, assurance des investissements, etc.);
@@ -343,11 +341,11 @@ Les Parties reconnaissent l’importance de la promotion des flux d’investisse
 
 **Commerce des services**
 
-<sup>1.</sup> Les Parties s’engagent à réaliser une libéralisation graduelle et l’ouverture réciproque de leurs marchés dans le commerce des services sur la base des dispositions de l’Accord Général sur le Commerce des Services[^26-1] (ci-après dénommé «AGCS»), tenant compte des travaux en cours sous les auspices de l’OMC. A cet effet, les Parties s’engagent à revoir en commun les développements dans le secteur des services et à considérer l’adoption de mesures de libéralisation en tenant compte de l’art. V AGCS.
+<sup>1.</sup> Les Parties s’engagent à réaliser une libéralisation graduelle et l’ouverture réciproque de leurs marchés dans le commerce des services sur la base des dispositions de l’Accord Général sur le Commerce des Services[^26-1] (ci-après dénommé «AGCS»), tenant compte des travaux en cours sous les auspices de l’OMC. À cet effet, les Parties s’engagent à revoir en commun les développements dans le secteur des services et à considérer l’adoption de mesures de libéralisation en tenant compte de l’art. V AGCS.
 
 <sup>2.</sup> Lorsque après l’entrée en vigueur du présent Accord, une Partie accorde à une non‑partie des bénéfices supplémentaires en matière d’accès à ses marchés de services, elle se déclare prête à entrer en consultations au sein du Comité mixte en vue de traiter cette question à la lumière des objectifs énumérés à l’al. 1.
 
-[^26-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1B
+[^26-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1B
 
 ## VI Paiements courants et mouvement de capitaux
 
@@ -361,15 +359,15 @@ Sous réserve des dispositions de l’art. 29, les Parties s’engagent à autor
 
 **Mouvements de capitaux**
 
-En ce qui concerne les transactions sur le montant des capitaux de la balance des paiements, les Etats de l’AELE et la Tunisie veillent, dès l’entrée en vigueur du présent Accord, à ce que les capitaux en relation avec des investissements directs en Tunisie, dans des sociétés établies en accord avec les lois courantes, peuvent se déplacer librement et que le rendement de tels investissements et de tout bénéfice en découlant peut être converti et rapatrié.
+En ce qui concerne les transactions sur le montant des capitaux de la balance des paiements, les États de l’AELE et la Tunisie veillent, dès l’entrée en vigueur du présent Accord, à ce que les capitaux en relation avec des investissements directs en Tunisie, dans des sociétés établies en accord avec les lois courantes, peuvent se déplacer librement et que le rendement de tels investissements et de tout bénéfice en découlant peut être converti et rapatrié.
 
 #### Art. 29
 
 **Difficultés en matière de balance des paiements**
 
-Si un ou plusieurs Etats de l’AELE ou la Tunisie rencontrent des difficultés en matière de balance des paiements ou en sont menacés, les Etats de l’AELE ou la Tunisie peuvent, le cas échéant, conformément aux conditions prévues par le GATT 1994 et aux art. VIII et XIV de l’Accord sur le Fonds monétaire international[^29-1], adopter des restrictions sur les transactions courantes qui doivent être de durée limitée et qui ne pourront pas aller au delà de ce qui est strictement nécessaire pour remédier à la situation de la balance des paiements. Les Etats de l’AELE ou la Tunisie informent, le cas échéant, les autres Parties immédiatement et leur soumettent dès que possible un calendrier pour l’élimination des mesures concernées.
+Si un ou plusieurs États de l’AELE ou la Tunisie rencontrent des difficultés en matière de balance des paiements ou en sont menacés, les États de l’AELE ou la Tunisie peuvent, le cas échéant, conformément aux conditions prévues par le GATT 1994 et aux art. VIII et XIV de l’Accord sur le Fonds monétaire international[^29-1], adopter des restrictions sur les transactions courantes qui doivent être de durée limitée et qui ne pourront pas aller au delà de ce qui est strictement nécessaire pour remédier à la situation de la balance des paiements. Les États de l’AELE ou la Tunisie informent, le cas échéant, les autres Parties immédiatement et leur soumettent dès que possible un calendrier pour l’élimination des mesures concernées.
 
-[^29-1]: [RS 0.979.1](https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571)
+[^29-1]: [RS 0.979.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4695)
 
 ## VII Marchés publics
 
@@ -389,12 +387,12 @@ Si un ou plusieurs Etats de l’AELE ou la Tunisie rencontrent des difficultés 
 
 <sup>1.</sup>
 
-Les Etats de l’AELE se déclarent prêts à s’engager en matière de coopération économique et à accorder de l’assistance technique à la Tunisie, dans le respect des objectifs de leurs politiques nationales, en vue de :
+Les États de l’AELE se déclarent prêts à s’engager en matière de coopération économique et à accorder de l’assistance technique à la Tunisie, dans le respect des objectifs de leurs politiques nationales, en vue de:
 
 - (a) faciliter la mise en œuvre des objectifs généraux du présent Accord, en particulier pour améliorer les possibilités d’échanges commerciaux et d’investissement découlant du présent Accord;
 - (b) de soutenir les propres efforts de la Tunisie en vue d’atteindre un développement économique et social durable.
 
-<sup>2.</sup> La coopération et l’assistance seront ciblées sur les secteurs souffrant de difficultés internes ou affectés par le processus de libéralisation de l’économie tunisienne, ainsi que sur les secteurs censés rapprocher les économies des Etats de l’AELE et de la Tunisie, en particulier ceux qui génèrent de la croissance et de l’emploi.
+<sup>2.</sup> La coopération et l’assistance seront ciblées sur les secteurs souffrant de difficultés internes ou affectés par le processus de libéralisation de l’économie tunisienne, ainsi que sur les secteurs censés rapprocher les économies des États de l’AELE et de la Tunisie, en particulier ceux qui génèrent de la croissance et de l’emploi.
 
 #### Art. 32
 
@@ -402,7 +400,7 @@ Les Etats de l’AELE se déclarent prêts à s’engager en matière de coopér
 
 <sup>1.</sup> La coopération et l’assistance sont effectuées bilatéralement ou par le biais de programmes de l’AELE ou en combinant les deux.
 
-<sup>2.</sup> Les Parties coopèrent avec pour objectif l’identification et l’emploi des méthodes et des moyens les plus efficaces pour la mise en œuvre du présent chapitre. A cette fin, elles peuvent coordonner leurs efforts avec les organisations internationales compétentes.
+<sup>2.</sup> Les Parties coopèrent avec pour objectif l’identification et l’emploi des méthodes et des moyens les plus efficaces pour la mise en œuvre du présent chapitre. À cette fin, elles peuvent coordonner leurs efforts avec les organisations internationales compétentes.
 
 <sup>3.</sup> La préservation de l’environnement sera prise en compte dans la mise en œuvre de l’assistance dans les différents secteurs concernés.
 
@@ -435,7 +433,7 @@ La coopération et l’assistance couvriront tout domaine identifié conjointeme
 
 <sup>1.</sup> La mise en œuvre du présent Accord est placée sous la surveillance et l’administration d’un Comité mixte. Chacune des Parties est représentée au sein du Comité mixte.
 
-<sup>2.</sup> Pour assurer la bonne exécution du présent Accord, les Parties se tiennent mutuellement informées et, à la demande de l’une d’entre elles, procèdent à des consultations au sein du Comité mixte. Le Comité mixte reste attentif à toute possibilité de lever d’autres obstacles au commerce entre les Etats de l’AELE et la Tunisie.
+<sup>2.</sup> Pour assurer la bonne exécution du présent Accord, les Parties se tiennent mutuellement informées et, à la demande de l’une d’entre elles, procèdent à des consultations au sein du Comité mixte. Le Comité mixte reste attentif à toute possibilité de lever d’autres obstacles au commerce entre les États de l’AELE et la Tunisie.
 
 <sup>3.</sup> Le Comité mixte est habilité à prendre des décisions sur les cas prévus par le présent Accord. Concernant les autres sujets, le Comité mixte peut formuler des recommandations.
 
@@ -467,7 +465,7 @@ La coopération et l’assistance couvriront tout domaine identifié conjointeme
 
 **Mesures provisoires**
 
-Si un Etat de l’AELE estime que la Tunisie ou si la Tunisie estime qu’un Etat de l’AELE a manqué à une obligation découlant du présent Accord et si le Comité mixte n’est pas parvenu à une solution mutuellement acceptable dans les trois mois, la Partie concernée peut prendre les mesures de rééquilibrage provisoires appropriées et strictement nécessaires pour corriger le déséquilibre. La priorité doit être donnée aux mesures qui perturbent le moins le fonctionnement du présent Accord. Les mesures prises sont immédiatement notifiées aux Parties ainsi qu’au Comité mixte, qui tient des consultations régulières en vue de leur élimination. Les mesures doivent être supprimées lorsque les conditions ne justifient plus leur maintien ou, si le différend est soumis à arbitrage, lorsqu’une sentence arbitrale aura été rendue et exécutée.
+Si un État de l’AELE estime que la Tunisie ou si la Tunisie estime qu’un État de l’AELE a manqué à une obligation découlant du présent Accord et si le Comité mixte n’est pas parvenu à une solution mutuellement acceptable dans les trois mois, la Partie concernée peut prendre les mesures de rééquilibrage provisoires appropriées et strictement nécessaires pour corriger le déséquilibre. La priorité doit être donnée aux mesures qui perturbent le moins le fonctionnement du présent Accord. Les mesures prises sont immédiatement notifiées aux Parties ainsi qu’au Comité mixte, qui tient des consultations régulières en vue de leur élimination. Les mesures doivent être supprimées lorsque les conditions ne justifient plus leur maintien ou, si le différend est soumis à arbitrage, lorsqu’une sentence arbitrale aura été rendue et exécutée.
 
 #### Art. 38
 
@@ -499,7 +497,7 @@ Les Annexes et Protocoles du présent Accord en sont des parties intégrantes. L
 
 <sup>1.</sup> Les amendements au présent Accord sont, après approbation par le Comité mixte, soumis aux Parties pour ratification, acceptation ou approbation.
 
-<sup>2.</sup> A moins que les Parties n’en conviennent autrement, les amendements entrent en vigueur le premier jour du troisième mois qui suit le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation.
+<sup>2.</sup> À moins que les Parties n’en conviennent autrement, les amendements entrent en vigueur le premier jour du troisième mois qui suit le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation.
 
 <sup>3.</sup> Le texte des amendements ainsi que les instruments d’acceptation sont déposés auprès du dépositaire.
 
@@ -517,9 +515,9 @@ Les Annexes et Protocoles du présent Accord en sont des parties intégrantes. L
 
 **Adhésion**
 
-<sup>1.</sup> Tout Etat devenu membre de l’Association européenne de libre-échange peut adhérer au présent Accord, à condition que le Comité mixte décide d’approuver son adhésion, qui doit être négociée entre l’Etat candidat et les Parties intéressées, dans les termes et aux conditions énoncés dans la décision. L’instrument d’adhésion est déposé auprès du dépositaire.
+<sup>1.</sup> Tout État devenu membre de l’Association européenne de libre-échange peut adhérer au présent Accord, à condition que le Comité mixte décide d’approuver son adhésion, qui doit être négociée entre l’État candidat et les Parties intéressées, dans les termes et aux conditions énoncés dans la décision. L’instrument d’adhésion est déposé auprès du dépositaire.
 
-<sup>2.</sup> A l’égard d’un Etat qui décide d’y adhérer, le présent Accord entre en vigueur le premier jour du troisième mois qui suit le dépôt de l’instrument d’adhésion ou, si elle intervient ultérieurement, à la date d’approbation des termes et conditions d’adhésion par les Parties existantes.
+<sup>2.</sup> À l’égard d’un État qui décide d’y adhérer, le présent Accord entre en vigueur le premier jour du troisième mois qui suit le dépôt de l’instrument d’adhésion ou, si elle intervient ultérieurement, à la date d’approbation des termes et conditions d’adhésion par les Parties existantes.
 
 #### Art. 44
 
@@ -527,7 +525,7 @@ Les Annexes et Protocoles du présent Accord en sont des parties intégrantes. L
 
 <sup>1.</sup> Chacune des Parties peut se retirer du présent Accord moyennant une notification écrite adressée au gouvernement dépositaire. Le retrait prend effet six mois après la date de réception de la notification par le dépositaire.
 
-<sup>2.</sup> Tout Etat de l’AELE qui se retire de la Convention instituant l’Association européenne de libre-échange cesse *ipso facto* d’être une Partie au présent Accord le jour même où son retrait prend effet.
+<sup>2.</sup> Tout État de l’AELE qui se retire de la Convention instituant l’Association européenne de libre-échange cesse *ipso facto* d’être une Partie au présent Accord le jour même où son retrait prend effet.
 
 #### Art. 45
 
@@ -535,13 +533,13 @@ Les Annexes et Protocoles du présent Accord en sont des parties intégrantes. L
 
 <sup>1.</sup> Le présent Accord est soumis à la ratification, l’acceptation ou l’approbation. Les instruments de ratification, acceptation ou approbation doivent être déposés auprès du dépositaire.
 
-<sup>2.</sup> Le présent Accord entrera en vigueur le 1<sup>er</sup> juin 2005 à l’égard des Etats signataires qui ont déposé à cette date leurs instruments de ratification ou d’acceptation auprès du dépositaire, à condition que la Tunisie soit parmi les Etats qui ont déposé leurs instruments de ratification ou d’acceptation.
+<sup>2.</sup> Le présent Accord entrera en vigueur le 1<sup>er</sup> juin 2005 à l’égard des États signataires qui ont déposé à cette date leurs instruments de ratification ou d’acceptation auprès du dépositaire, à condition que la Tunisie soit parmi les États qui ont déposé leurs instruments de ratification ou d’acceptation.
 
-<sup>3.</sup> Si le présent Accord n’entrera pas en vigueur le 1<sup>er</sup> juin 2005, il entrera en vigueur le premier jour du deuxième mois qui suit le dépôt des instruments de ratification par la Tunisie et par au moins un Etat de l’AELE.
+<sup>3.</sup> Si le présent Accord n’entrera pas en vigueur le 1<sup>er</sup> juin 2005, il entrera en vigueur le premier jour du deuxième mois qui suit le dépôt des instruments de ratification par la Tunisie et par au moins un État de l’AELE.
 
-<sup>4.</sup> Le présent Accord entrera en vigueur le premier jour du deuxième mois qui suit le dépôt de l’instrument de ratification par rapport à un Etat de l’AELE qui dépose de son instrument de ratification après l’entrée en vigueur du présent Accord.
+<sup>4.</sup> Le présent Accord entrera en vigueur le premier jour du deuxième mois qui suit le dépôt de l’instrument de ratification par rapport à un État de l’AELE qui dépose de son instrument de ratification après l’entrée en vigueur du présent Accord.
 
-<sup>5.</sup> Tout Etat de l’AELE peut, si ses règles constitutionnelles le lui permettent, appliquer le présent Accord à titre provisoire. L’application provisoire du présent Accord en vertu de cet alinéa doit être notifiée au dépositaire.
+<sup>5.</sup> Tout État de l’AELE peut, si ses règles constitutionnelles le lui permettent, appliquer le présent Accord à titre provisoire. L’application provisoire du présent Accord en vertu de cet alinéa doit être notifiée au dépositaire.
 
 #### Art. 46
 
@@ -551,7 +549,7 @@ Le Gouvernement de la Norvège agit en qualité de dépositaire.
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Genève, le 17 décembre 2004, en deux exemplaires originaux, chacun en anglais et en français, les deux textes faisant également foi. En cas de divergence, la version anglaise prévaut. Un exemplaire original dans chaque langue sera déposé auprès du Gouvernement de la Norvège. (Suivent les signatures)
 
-Liste des annexes**[^t-2]**
+Liste des annexes[^t-2]
 
 <table>
 <tr><td></td><td>**Protocole d’entente**</td></tr>
@@ -563,21 +561,23 @@ Liste des annexes**[^t-2]**
 <tr><td>**Annexe VI**</td><td>Mentionnée à l’Article 38 – Constitution et fonctionnement du tribunal arbitral</td></tr>
 <tr><td></td><td>Appendice à l’Annexe IV</td></tr>
 <tr><td>**Protocole A**</td><td>Mentionnée à l’Article 4, Alinéa 1, Lettre (b) – Produits agricoles transformés</td></tr>
-<tr><td></td><td>Table I au Protocole A</td></tr>
-<tr><td></td><td>Table II au Protocole A – Islande</td></tr>
-<tr><td></td><td>Table III au Protocole A – Liechtenstein, Suisse</td></tr>
-<tr><td></td><td>Table IV au Protocole A – Norvège</td></tr>
-<tr><td></td><td>Table V au Protocole A – Tunisie</td></tr>
-<tr><td>**Protocole B**</td><td>Mentionnée à l’Article 5 – Relatif à la définition de la notion de produits originaires et aux méthodes de coopération administrative</td></tr>
-<tr><td></td><td>Annexe I au Protocole B – Notes introductives à la liste de l'Annexe II</td></tr>
-<tr><td></td><td>Annexe II au Protocole B – Liste des ouvraisons ou transformations à appliquer aux matières non originaires pour que le produit transformé puisse obtenir le caractère originaire</td></tr>
-<tr><td></td><td>Annexe III A au Protocole B – Modèles de certificat de circulation des marchandises EUR.1 et de demande de certificat de circulation des marchandises EUR.1</td></tr>
-<tr><td></td><td>Annexe III B au Protocole B – Modèles de certificat de circulation des marchandises EUR-MED et de demande de certificat de circulation des marchandises EUR-MED</td></tr>
-<tr><td></td><td>Annexe IV A au Protocole B – Texte de la déclaration sur facture</td></tr>
-<tr><td></td><td>Annexe IV B au Protocole B – Texte de la déclaration sur facture EUR-MED</td></tr>
-<tr><td></td><td>Annexe V au Protocole B – Liste de pays ou territoires participant au parterariat euro-méditerranéen</td></tr>
+<tr><td></td><td>Liste I au Protocole A</td></tr>
+<tr><td></td><td>Liste II au Protocole A – Islande</td></tr>
+<tr><td></td><td>Liste III au Protocole A – Liechtenstein, Suisse</td></tr>
+<tr><td></td><td>Liste IV au Protocole A – Norvège</td></tr>
+<tr><td></td><td>Liste V au Protocole A – Tunisie</td></tr>
+<tr><td>**Protocole B**</td><td>Mentionnée à l’Article 5 – Relatif à la définition de la notion de «produits originaires» et aux méthodes de coopération administrative</td></tr>
+<tr><td></td><td>Annexe I au Protocole B – Notes introductives à la liste de l’Annexe II</td></tr>
+<tr><td></td><td>Annexe II au Protocole B – Liste des ouvraisons ou transformations</td></tr>
+<tr><td></td><td>Annexe III A au Protocole B – Certificat EUR.1</td></tr>
+<tr><td></td><td>Annexe III B au Protocole B – Certificat EUR-MED</td></tr>
+<tr><td></td><td>Annexe IV A au Protocole B – Déclaration</td></tr>
+<tr><td></td><td>Annexe IV B au Protocole B – Déclaration EUR-MED</td></tr>
+<tr><td></td><td>Annexe V au Protocole B – Liste de pays ou territoires EURO-MED</td></tr>
 <tr><td></td><td>Annexe VI au Protocole B – Déclaration du fournisseur</td></tr>
 <tr><td></td><td>Annexe VII au Protocole B – Déclaration à long terme du fournisseur</td></tr>
+<tr><td>***Joint*** ***Committee*** ***Decisions***</td><td></td></tr>
+<tr><td>*No 1/2024*</td><td>Amendments to Protocol B</td></tr>
 </table>
 
-[^t-2]: Ces documents ne sont publiés ni au RO ni au RS. Ils ne sont disponibles qu’en anglais et français et peuvent être consultés sur le site Internet de l’AELE à l’adresse suivante: http://www.efta.int/free-trade/free-trade-agreements/tunisia/
+[^t-2]: Ces documents ne sont publiés ni au RO ni au RS ([RO 2026 85](https://fedlex.data.admin.ch/eli/oc/2026/85)). Ils peuvent être obtenus en version originale anglaise auprès de l’Office fédéral des constructions et de la logistique, Diffusions publications, 3003 Berne, et sont disponibles sur le site Internet du Secrétariat de l’AELE: [www.efta.int/trade-relations/free-trade-network/tunisia](https://www.efta.int/trade-relations/free-trade-network/tunisia).
