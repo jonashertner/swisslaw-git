@@ -4,7 +4,7 @@ number: "451.16"
 title: LOI du 30.11.2021 sur la protection du patrimoine culturel immobilier (LPrPCI)
 short: LPrPCI
 language: fr
-version: 2022-06-01
+version: 2026-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/451.16?id=f984aee9-7a19-49c1-9536-8b97cda27a78"
 ---
 
@@ -192,6 +192,8 @@ décrète
 <sup>1</sup> Le recensement architectural permet d'identifier, de connaître, d'évaluer et de répertorier le patrimoine culturel immobilier, à l'exclusion des sites archéologiques et des objets navals lacustres.
 
 <sup>2</sup> Le département établit le recensement en collaboration avec les communes en prenant notamment en compte les inventaires fédéraux.
+
+<sup>2bis</sup> Les frais découlant de l'établissement du recensement architectural sont supportés conjointement par l'Etat et les communes. La part communale est fixée par le département en fonction du nombre de bâtiments référencés sis sur le territoire communal, calculé selon l'identificateur fédéral de bâtiment (EGID). La part communale à une révision du recensement architectural est au minimum de CHF 20'000.- et au maximum de CHF 400'000.-. Le règlement fixe le montant forfaitaire par bâtiment ainsi que les modalités de la participation financière communale.
 
 <sup>3</sup> Une note est attribuée à chaque objet recensé. Des notes de sites peuvent être attribuées si cela se justifie. La signification de chaque note est donnée par le règlement d'application de la présente loi.
 
