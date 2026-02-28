@@ -4,7 +4,7 @@ number: "850.051.1"
 title: "RÈGLEMENT du 26.10.2005 d'application de la loi du 2 décembre 2003 sur l'action sociale vaudoise (RLASV)"
 short: RLASV
 language: fr
-version: 2023-03-01
+version: 2026-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051.1?id=86dc5911-3814-4eb8-baac-e4b1a20db83c"
 ---
 
@@ -435,25 +435,25 @@ arrête
 
 **Frais de loyer [^22-3]**
 
-<sup>1</sup> Lorsque le taux de vacance cantonal est inférieur à 1,5%, le département en charge de l'action sociale[^22a-1] peut fixer un taux de majoration des frais de loyer d'au maximum 20%.
+<sup>1</sup> ...
 
-<sup>1bis</sup> Ce taux de majoration ne s'applique pas aux frais de loyer des jeunes adultes visés à l'article 31, alinéa 2bis LASV[^22a-2].
+<sup>1bis</sup> ...
 
-<sup>2</sup> Lorsque les frais de loyer dépassent le barème, taux de majoration compris, le loyer effectif est pris en charge au plus tard jusqu'à l'échéance du bail ou jusqu'à une année dès l'octroi du RI si le bail est conclu pour plus d'une année. Le dépassement du barème est toutefois plafonné à Fr. 800.-- pour une personne seule et à Fr. 1'200.-- pour une famille.
+<sup>2</sup> Lorsque les frais de loyer dépassent le barème, le loyer effectif est pris en charge au plus tard jusqu'à l'échéance du bail ou jusqu'à une année dès l'octroi du RI si le bail est conclu pour plus d'une année. Le dépassement du barème est toutefois plafonné à Fr. 800.-- pour une personne seule et à Fr. 1'200.-- pour une famille.
 
-[^22-3]: Modif. 4 du 11.01.2012: Introduction Art. 22a; entrée en vigueur au 01.01.2012 · Modif. 6 du 28.09.2016: Introduction Al. 1bis; entrée en vigueur au 01.01.2017; Modification Al. 2; entrée en vigueur au 01.01.2017 · Modif. 8 du 27.03.2019: Modification Al. 1; entrée en vigueur au 01.01.2019 · Modif. 11 du 10.09.2025: Abrogation Al. 1,1bis; entrée en vigueur au 01.03.2026; Modification Al. 2; entrée en vigueur au 01.03.2026; Introduction Al. 3; entrée en vigueur au 01.03.2026; Introduction Art. 56a; entrée en vigueur au 01.03.2026
-[^22a-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
-[^22a-2]: Loi du 02.12.2003 sur l'action sociale vaudoise ([BLV 850.051](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051?id=8b71b9d3-03d0-4865-8475-19e60cc46a73))
+<sup>3</sup> En cas de modification du barème des normes en cours de droit, les dispositions d'accompagnement pour les frais de loyer prévues en début de droit s'appliquent au bénéficiaire RI par analogie.
+
+[^22-3]: Modif. 4 du 11.01.2012: Introduction Art. 22a; entrée en vigueur au 01.01.2012 · Modif. 6 du 28.09.2016: Introduction Al. 1bis; entrée en vigueur au 01.01.2017; Modification Al. 2; entrée en vigueur au 01.01.2017 · Modif. 8 du 27.03.2019: Modification Al. 1; entrée en vigueur au 01.01.2019 · Modif. 11 du 10.09.2025: Abrogation Al. 1,1bis; entrée en vigueur au 01.03.2026; Modification Al. 2; entrée en vigueur au 01.03.2026; Introduction Al. 3; entrée en vigueur au 01.03.2026
 
 #### Art. 22b
 
-**[^22a-3]**
+**[^22a-1]**
 
 <sup>1</sup> Le supplément au forfait entretien prévu à l'article 22, alinéa 1, lettre g) est alloué dès le mois au cours duquel intervient l'inscription à l'ORP, ou le début de la mesure d'insertion ou du stage non rémunéré.
 
 <sup>2</sup> Il est supprimé dès le mois suivant la radiation de l'inscription à l'ORP ou la fin de la mesure d'insertion ou du stage non rémunéré.
 
-[^22a-3]: Modif. 4 du 11.01.2012: Introduction Art. 22b; entrée en vigueur au 01.07.2012
+[^22a-1]: Modif. 4 du 11.01.2012: Introduction Art. 22b; entrée en vigueur au 01.07.2012
 
 #### Art. 22c
 
@@ -864,6 +864,18 @@ Le prélèvement ne touche pas la part du forfait affectée aux enfants mineurs 
 
 <sup>1</sup> Le règlement du 18 novembre 1977 d'application de la loi du 25 mai 1977 sur la prévoyance et l'aide sociales est abrogé.
 
+#### Art. 56a
+
+**Dispositions transitoires de la modification du 10 septembre 2025 [^56-1]**
+
+<sup>1</sup> Le nouveau barème de loyer entre en vigueur au 1er mars 2026, à l'exception de celui pour les jeunes adultes visés à l'article 31, alinéa 2bis LASV, pour lesquels l'entrée en vigueur du nouveau barème sera fixée ultérieurement par arrêté du Conseil d'Etat et pour lesquels le barème actuel demeure entre-temps en vigueur.
+
+<sup>2</sup> L'ancien droit reste applicable pendant 2 ans à compter de l'entrée en vigueur de la présente modification aux bénéficiaires du RI dont un montant est alloué pour les frais de loyer et pour lesquels la modification du barème des normes entraîne une diminution ou une perte du montant relatif aux frais de loyer pris en charge.
+
+<sup>3</sup> Le barème des normes fixant les frais de loyer défini à l'article 22 ne s'applique qu'aux prestations versées après l'entrée en vigueur de la présente modification.
+
+[^56-1]: Modif. 11 du 10.09.2025: Introduction Art. 56a; entrée en vigueur au 01.03.2026
+
 #### Art. 57
 
 <sup>1</sup> Le Département de la santé et de l'action sociale est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2006.
@@ -872,6 +884,6 @@ Annexes [^57-1]
 
 1
 
-[Bareme RI](https://prestations.vd.ch/pub/blv-publication/api/actes/86dc5911-3814-4eb8-baac-e4b1a20db83c/annexes/1?dmev=01.03.2023)
+[Bareme RI](https://prestations.vd.ch/pub/blv-publication/api/actes/86dc5911-3814-4eb8-baac-e4b1a20db83c/annexes/1?dmev=01.03.2026)
 
-[^57-1]: Modif. 3 du 16.01.2008: Modification Annexes, Ann. 1; entrée en vigueur au 01.02.2008 · Modif. 4 du 11.01.2012: Modification Ann; entrée en vigueur au 01.07.2012; Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2012 · Modif. 5 du 16.05.2012: Modification Ann; entrée en vigueur au 01.07.2012 · Modif. 6 du 28.09.2016: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2017 · Modif. 10 du 01.02.2023: Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2023 · Modif. 11 du 10.09.2025: Introduction Art. 22a, Al. 3; entrée en vigueur au 01.03.2026; Introduction Art. 56a; entrée en vigueur au 01.03.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2026
+[^57-1]: Modif. 3 du 16.01.2008: Modification Annexes, Ann. 1; entrée en vigueur au 01.02.2008 · Modif. 4 du 11.01.2012: Modification Ann; entrée en vigueur au 01.07.2012; Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2012 · Modif. 5 du 16.05.2012: Modification Ann; entrée en vigueur au 01.07.2012 · Modif. 6 du 28.09.2016: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2017 · Modif. 10 du 01.02.2023: Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2023 · Modif. 11 du 10.09.2025: Modification Annexes, Ann. 1; entrée en vigueur au 01.03.2026
