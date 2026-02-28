@@ -4,7 +4,7 @@ number: "740.21"
 title: LOI du 11.12.1990 sur la mobilité et les transports publics (LMTP)
 short: LMTP
 language: fr
-version: 2013-12-01
+version: 2026-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/740.21?id=0d81db52-2208-40b5-bd1b-34da4ea67f02"
 ---
 
@@ -68,7 +68,7 @@ décrète
 
 **Champ d'application et but [^chapterChapitreI-1]**
 
-<sup>1</sup> La loi, dans les limites de la compétence laissée au canton par la législation fédérale, s'applique aux transports publics, à la mobilité douce, aux transports à câbles et à l'aviation.
+<sup>1</sup> La loi, dans les limites de la compétence laissée au canton par la législation fédérale, s'applique aux transports publics, à la mobilité douce, aux transports à câbles, au transport de marchandises et à l'aviation.
 
 <sup>1bis</sup> On entend par mobilité douce, les déplacements effectués à pied ou en deux roues non-motorisés.
 
@@ -78,21 +78,21 @@ décrète
 
 <sup>3</sup> Elle fixe les modalités et les conditions de la subvention de l'Etat et des communes.
 
-<sup>4</sup> Elle fixe les attributions et compétences des autorités cantonales dans le domaine des transports publics, de la mobilité douce, des transports à câbles et de l'aviation.
+<sup>4</sup> Elle fixe les attributions et compétences des autorités cantonales dans le domaine des transports publics, de la mobilité douce, des transports à câbles, du transport de marchandises et de l'aviation.
 
-[^chapterChapitreI-1]: Modif. 3 du 27.08.2013: Modification Al. 1-3; entrée en vigueur au 01.12.2013; Introduction Al. 1bis,2bis,4; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 1,4; entrée en vigueur au 01.03.2026; Introduction Art. 29g; entrée en vigueur au 01.03.2026; Introduction Art. 29h; entrée en vigueur au 01.03.2026
+[^chapterChapitreI-1]: Modif. 3 du 27.08.2013: Modification Al. 1-3; entrée en vigueur au 01.12.2013; Introduction Al. 1bis,2bis,4; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 1,4; entrée en vigueur au 01.03.2026
 
 #### Art. 2
 
 **Collaboration entre autorités [^1-1]**
 
-<sup>1</sup> Les autorités cantonales et communales, ainsi que les instances concernées étudient de concert l'aménagement du réseau des lignes et de l'offre de transport public ainsi que les réseaux de mobilité douce.
+<sup>1</sup> Les autorités cantonales et communales, ainsi que les instances concernées étudient de concert l'aménagement du réseau des lignes et de l'offre de transport public ainsi que les réseaux de mobilité douce et du transport de marchandises.
 
 <sup>2</sup> Les mesures proposées tiennent compte des conceptions et plans sectoriels de la Confédération, du plan directeur cantonal, des plans directeurs communaux et régionaux prévus par la loi cantonale sur l'aménagement du territoire et les constructions[^2-1] , des projets d'agglomération ainsi que des programmes de développement économique régional.
 
-<sup>3</sup> Les autorités cantonales harmonisent leurs actions avec celles des cantons voisins, de la Confédération et avec les autorités étrangères des régions limitrophes en ce qui concerne les problèmes communs relatifs aux transports publics et à la mobilité douce.
+<sup>3</sup> Les autorités cantonales harmonisent leurs actions avec celles des cantons voisins, de la Confédération et avec les autorités étrangères des régions limitrophes en ce qui concerne les problèmes communs relatifs aux transports publics, à la mobilité douce et au transport de marchandises.
 
-[^1-1]: Modif. 3 du 27.08.2013: Modification Al. 1-3; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 1,3; entrée en vigueur au 01.03.2026; Introduction Art. 29g; entrée en vigueur au 01.03.2026; Introduction Art. 29h; entrée en vigueur au 01.03.2026
+[^1-1]: Modif. 3 du 27.08.2013: Modification Al. 1-3; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 1,3; entrée en vigueur au 01.03.2026
 [^2-1]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
 
 #### Art. 3
@@ -103,13 +103,13 @@ décrète
 
 <sup>2</sup> Ses attributions sont les suivantes :
 
-- a. il fixe la stratégie de développement des transports publics et de la mobilité douce ;
+- a. il fixe la stratégie de développement des transports publics, de la mobilité douce et du transport de marchandises ;
 - b. il édicte les dispositions d'application de la loi ;
 - c. ...
 - d. il fixe les limites des régions constituant des bassins de transport public qui sont notamment utilisées pour la répartition des charges entre communes au sens du chapitre III ci-après ;
 - e. ...
 
-[^2-2]: Modif. 1 du 21.11.2000: Modification Al. 1,2 a-e; entrée en vigueur au 30.01.2001; Abrogation Al. 2 f-h; entrée en vigueur au 30.01.2001 · Modif. 3 du 27.08.2013: Modification Al. 2 a; entrée en vigueur au 01.12.2013; Abrogation Al. 2 c,e; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 2, a; entrée en vigueur au 01.03.2026; Introduction Art. 29g; entrée en vigueur au 01.03.2026; Introduction Art. 29h; entrée en vigueur au 01.03.2026
+[^2-2]: Modif. 1 du 21.11.2000: Modification Al. 1,2 a-e; entrée en vigueur au 30.01.2001; Abrogation Al. 2 f-h; entrée en vigueur au 30.01.2001 · Modif. 3 du 27.08.2013: Modification Al. 2 a; entrée en vigueur au 01.12.2013; Abrogation Al. 2 c,e; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 2, a; entrée en vigueur au 01.03.2026
 
 #### Art. 4
 
@@ -120,11 +120,11 @@ décrète
 - a. il approuve les conventions conclues au nom du canton, notamment en matière d'investissement, de prestations de service public ou de communautés tarifaires ;
 - b. il fixe la planification du réseau des transports publics ;
 - c. il octroie les subventions en application de la présente loi, sous réserve des compétences données au service en charge des transports publics et de la mobilité selon l'article 4a, lettre c ;
-- d. il est l'autorité compétente pour exercer les tâches attribuées au canton par la législation fédérale dans le domaine des transports publics, de la mobilité douce, des installations de transports à câbles et de l'aviation ;
+- d. il est l'autorité compétente pour exercer les tâches attribuées au canton par la législation fédérale dans le domaine des transports publics, de la mobilité douce, des installations de transports à câbles, du transport de marchandises et de l'aviation ;
 - e. il donne le préavis du canton pour les concessions de la compétence du Conseil fédéral en application de la législation fédérale sur les transports publics, sur les transports à câbles et sur l'aviation ;
 - f. ...
 
-[^3-1]: Modif. 1 du 21.11.2000: Modification Art. 4; entrée en vigueur au 30.01.2001 · Modif. 3 du 27.08.2013: Modification Al. t,1 c-e; entrée en vigueur au 01.12.2013; Abrogation Al. 1 f; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 1, d; entrée en vigueur au 01.03.2026; Introduction Art. 29g; entrée en vigueur au 01.03.2026; Introduction Art. 29h; entrée en vigueur au 01.03.2026
+[^3-1]: Modif. 1 du 21.11.2000: Modification Art. 4; entrée en vigueur au 30.01.2001 · Modif. 3 du 27.08.2013: Modification Al. t,1 c-e; entrée en vigueur au 01.12.2013; Abrogation Al. 1 f; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 1, d; entrée en vigueur au 01.03.2026
 [^4-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 4a
@@ -135,17 +135,17 @@ décrète
 
 - a. il procède à la commande de prestations de service public et évalue de manière régulière les prestations commandées en vue de leur amélioration en fonction des besoins des usagers ;
 - b. il procède à la classification des lignes de transport public ;
-- c. il octroie les subventions en application de la présente loi, qui sont financées par le budget de fonctionnement de l'Etat ainsi que les subventions en faveur de la mobilité douce qui sont financées par le budget d'investissement de l'Etat ;
+- c. il octroie les subventions en application de la présente loi, qui sont financées par le budget de fonctionnement de l'Etat ainsi que les subventions en faveur de la mobilité douce et du transport de marchandises qui sont financées par le budget d'investissement de l'Etat
 - d. il donne le préavis du canton à l'autorité fédérale concernant :
 - - les demandes de concession pour les infrastructures de transport public, pour le transport des voyageurs et pour les installations de transports par câbles ;
-- - les projets de construction dont l'approbation est de la compétence fédérale, concernant les transports publics, les transports à câbles et l'aviation ;
+- - les projets de construction dont l'approbation est de la compétence fédérale, concernant les transports publics, les transports à câbles, le transport de marchandises et l'aviation ;
 - - l'établissement des horaires des transports publics, après avoir consulté les partenaires intéressés ;
 - e. il établit les plans cantonaux des réseaux de mobilité douce ;
 - f. il octroie les autorisations cantonales de transport en application de la loi et de l'ordonnance fédérales sur le transport des voyageurs[^4a-1] ;
 - g. il octroie les autorisations cantonales pour la construction et l'exploitation des téléphériques et téléskis en application de la loi fédérale sur les installations à câbles[^4a-2] et du Concordat intercantonal concernant les installations de transport par câbles et skilifts sans concession fédérale[^4a-3] ;
 - h. il établit les tableaux de répartition des subventions entre l'Etat et les communes.
 
-[^4-2]: Modif. 3 du 27.08.2013: Introduction Art. 4a; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 1, c; entrée en vigueur au 01.03.2026; Modification Al. 1, d, Tiret 2; entrée en vigueur au 01.03.2026; Introduction Art. 29g; entrée en vigueur au 01.03.2026; Introduction Art. 29h; entrée en vigueur au 01.03.2026
+[^4-2]: Modif. 3 du 27.08.2013: Introduction Art. 4a; entrée en vigueur au 01.12.2013 · Modif. 4 du 26.08.2025: Modification Al. 1, c; entrée en vigueur au 01.03.2026; Modification Al. 1, d, Tiret 2; entrée en vigueur au 01.03.2026
 [^4a-1]: Ordonnance du 04.11.2009 sur le transport des voyageurs (RS 745.11)
 [^4a-2]: Loi fédérale du 23.06.2006 sur les installations à câbles transportant des personnes (RS 743.01)
 [^4a-3]: Concordat du 15.10.1951 concernant les installations de transport par câbles et skilifts sans concession fédérale ([BLV 743.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/743.91?id=e1367407-bc20-4917-b018-1a9bf8287ed7))
@@ -519,6 +519,37 @@ décrète
 <sup>1</sup> Les articles 6a, 8 et 9 sont applicables par analogie.
 
 [^29b-1]: Modif. 3 du 27.08.2013: Introduction Art. 29c; entrée en vigueur au 01.12.2013
+[^29c-1]: Modif. 4 du 26.08.2025: Introduction ; entrée en vigueur au 01.03.2026
+
+## Chapitre Vquater Subvention d'investissement en faveur du transport ferroviaire de marchandises
+
+[^29c-1]
+
+#### Art. 29g
+
+**Installations de transbordement et de chargement multimodales [^chapterChapitreVquater-1]**
+
+<sup>1</sup> L'Etat peut accorder une subvention d'investissement à fonds perdu pour la construction, la rénovation et la modification des installations de transbordement et de chargement multimodales.
+
+<sup>2</sup> La subvention s'élève à 20% au minimum des coûts pris en considération et à 50% au maximum.
+
+<sup>3</sup> Le taux est fixé en fonction du volume de marchandises transbordées, chargées et déchargées sur l'installation subventionnée.
+
+<sup>4</sup> Les éventuelles contributions allouées par d'autres prestations des pouvoirs publics sont déduites des coûts pris en considération.
+
+[^chapterChapitreVquater-1]: Modif. 4 du 26.08.2025: Introduction tArt; entrée en vigueur au 01.03.2026; Introduction Al. 1-4; entrée en vigueur au 01.03.2026; Introduction Art. 29g; entrée en vigueur au 01.03.2026
+
+#### Art. 29h
+
+**Conditions d'octroi [^29g-1]**
+
+<sup>1</sup> En règle générale, la subvention est accordée au propriétaire de l'installation de transbordement et de chargement multimodale.
+
+<sup>2</sup> Le Conseil d'Etat règle les conditions d'octroi et la procédure de financement des subventions d'investissement en faveur du transport de marchandises.
+
+<sup>3</sup> Les articles 6a, 9 et 10 sont applicables par analogie.
+
+[^29g-1]: Modif. 4 du 26.08.2025: Introduction tArt; entrée en vigueur au 01.03.2026; Introduction Al. 1-3; entrée en vigueur au 01.03.2026; Introduction Art. 29h; entrée en vigueur au 01.03.2026
 
 ## Chapitre VI Droit d'expropriation
 
