@@ -3,20 +3,19 @@ canton: VS
 number: "741.109"
 title: Arrêté concernant les restrictions de circulation pour les véhicules à moteur sur la route cantonale NG13 Täsch - Zermatt
 language: fr
-version: 2022-06-01
-valid_until: 2026-02-28
-version_adopted: 2022-02-23
+version: 2026-03-01
+version_adopted: 2026-03-25
 adopted: 2020-06-24
 in_force: 2020-07-17
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.109"
-pdf: "https://lex.vs.ch/api/fr/versions/3031/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3592/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté concernant les restrictions de circulation pour les véhicules à moteur sur la route cantonale NG13 Täsch - Zermatt
 
-du 24.06.2020 (état 01.06.2022)
+du 24.06.2020 (état 01.03.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -42,13 +41,13 @@ arrête:
 
 #### Art. 2
 
-<sup>1</sup> Les véhicules d’un poids d’ensemble supérieur à 3,5 tonnes ainsi que les transports exceptionnels peuvent utiliser la route cantonale NG 13 Täsch - Zermatt uniquement munis d'une autorisation spéciale délivrée par le service en charge de la mobilité.
+<sup>1</sup> Les véhicules motorisés peuvent utiliser la route cantonale NG 13 Täsch-Zermatt uniquement munis d'une autorisation spéciale délivrée par le service en charge de la mobilité. Le service en charge de la mobilité peut mettre en place un système d'information sur l'état de la route destiné aux usagers.
 
 - a) …
 - b) …
 - c) …
 
-<sup>2</sup> L'autorisation pour emprunter la route cantonale NG 13 Täsch - Zermatt avec des véhicules à moteur d’un poids d’ensemble inférieur à 3,5 tonnes est délivrée par la Police cantonale.
+<sup>2</sup>
 
 <sup>3</sup> Le Conseil d'Etat fixe le montant de l'émolument de l'autorisation ainsi que sa durée par un arrêté séparé.
 
@@ -68,7 +67,7 @@ arrête:
 - f) résidents disposant d'une attestation de domicile de la commune de Zermatt et d'une résidence principale ou secondaire à Zermatt ainsi que d'une place de parc sur territoire de la commune de Zermatt;
 - g) détenteurs de véhicules agricoles pour des activités agricoles sur territoire des communes concernées;
 - h) propriétaires de l'infrastructure ferroviaire et leurs exploitants pour des activités en lien avec un service de bus, y inclus des services de remplacement des rails;
-- i) détenteurs de véhicules exerçant dans une forme quelconque de transport de matériel et/ou de marchandises autorisé par la Police cantonale.
+- i) détenteurs de véhicules exerçant dans une forme quelconque de transport de matériel et/ou de marchandises autorisé par le service en charge de la mobilité.
 
 #### Art. 5
 

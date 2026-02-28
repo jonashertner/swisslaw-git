@@ -3,20 +3,19 @@ canton: VS
 number: "741.109"
 title: Beschluss betreffend die Beschränkungen des Motorfahrzeugverkehrs auf der Kantonsstrasse NG 13 Täsch - Zermatt
 language: de
-version: 2022-06-01
-valid_until: 2026-02-28
-version_adopted: 2022-02-23
+version: 2026-03-01
+version_adopted: 2026-03-25
 adopted: 2020-06-24
 in_force: 2020-07-17
 url: "https://lex.vs.ch/app/de/texts_of_law/741.109"
-pdf: "https://lex.vs.ch/api/de/versions/3031/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3592/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss betreffend die Beschränkungen des Motorfahrzeugverkehrs auf der Kantonsstrasse NG 13 Täsch - Zermatt
 
-vom 24.06.2020 (Stand 01.06.2022)
+vom 24.06.2020 (Stand 01.03.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -42,13 +41,13 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Fahrzeuge mit einem Gesamtgewicht von über 3,5 Tonnen sowie Ausnahmetransporte dürfen die Kantonsstrasse NG 13 Täsch – Zermatt nur benutzen, wenn sie über eine von der für die Mobilität zuständigen Dienstelle erteilte Spezialbewilligung verfügen.
+<sup>1</sup> Motorfahrzeuge dürfen die Kantonsstrasse NG 13 Täsch – Zermatt nur benutzen, wenn sie über eine von der für die Mobilität zuständigen Dienststelle erteilte Spezialbewilligung verfügen. Die für die Mobilität zuständigen Dienststelle kann für die Strassenbenutzer ein Informationssystem über den Strassenzustand einrichten.
 
 - a) …
 - b) …
 - c) …
 
-<sup>2</sup> Die Bewilligung für das Befahren der Kantonsstrasse NG 13 Täsch – Zermatt mit einem Motofahrzeug mit einem Gewicht von unter 3,5 Tonnen wird von der Kantonspolizei ausgestellt.
+<sup>2</sup>
 
 <sup>3</sup> Der Staatsrat legt die Höhe der Bewilligungsgebühr mittels separatem Beschluss fest.
 
@@ -68,7 +67,7 @@ beschliesst:
 - f) Einwohner im Besitze einer Wohnsitzbestätigung der Einwohnergemeinde Zermatt, die über einen Haupt- oder Zweitwohnsitz sowie einen Parkplatz auf Gebiet der Gemeinde Zermatt verfügen;
 - g) Halter von Landwirtschaftsfahrzeugen für Einsätze auf Gebiet der betreffenden Gemeinden;
 - h) Eigentümer der Bahninfrastruktur und deren Betreiber für Tätigkeiten im Zusammenhang mit dem Bustransport, einschliesslich des Schienenersatzverkehrs;
-- i) Halter von Fahrzeugen, die irgendeine Form des Material- und/oder des Gütertransportes ausführen, der von der Kantonspolizei als solcher genehmigt worden ist.
+- i) Halter von Fahrzeugen, die irgendeine Form des Material- und/oder Gütertransportes ausführen, der von der für die Mobilität zuständigen Dienststelle als solcher bewilligt worden ist.
 
 #### Art. 5
 
