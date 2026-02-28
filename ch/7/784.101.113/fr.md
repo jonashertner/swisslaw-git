@@ -3,24 +3,24 @@ sr: "784.101.113"
 title: "Ordonnance de l'OFCOM du 9 décembre 1997 sur les services de télécommunication et les ressources d'adressage"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: fr
-version: 2026-01-01
+version: 2026-03-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20260301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20260301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFCOM sur les services de télécommunication et les ressources d’adressage
 
-du 9 décembre 1997 (État le 1<sup>er</sup> janvier 2026)[^t-1]
+du 9 décembre 1997 (État le 1<sup>er</sup> mars 2026)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 25 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
 L’Office fédéral de la communication (OFCOM),
 
-vu l’art. 28 de la loi du 30 avril 1997 sur les télécommunications[^ingress-1], vu les art. 7, al. 4, 15, al. 3, 16, al. 5, 17, al. 5, 21, al. 2, 30, al. 3, 31, al. 5, 96, al. 2, et 105, al. 1, de l’ordonnance du 9 mars 2007 sur les services de télécommunication[^ingress-2], vu les art. 2, al. 1, 13*m*, al. 2, 18, 20, al. 3, 24*a*, al. 1, 24*b*, 24*e*, al. 3, 24*h*, al. 1, 31*a*, al. 4, et 52, al. 1, de l’ordonnance du 6 octobre 1997 sur les ressources d’adressage dans le domaine des télécommunications[^ingress-3], vu les art. 9, al. 3, 24, al. 3 et 4, 25, al. 1, let. a, et 60, al. 1, de l’ordonnance du 5 novembre 2014 sur les domaines Internet[^ingress-4],[^ingress-5]
+vu l’art. 28 de la loi du 30 avril 1997 sur les télécommunications[^ingress-1], vu les art. 7, al. 4, 15, al. 3, 16, al. 5, 17, al. 5, 21, al. 2, 30, al. 3, 31, al. 5, 94*a*, al. 4, let. a et b, et 5, 94*b*, 96, al. 2, 96*h*, al. 1 et 2, 96*i*, al. 2, 105, al. 1, et 108*d*, al. 2, let. a et b, de l’ordonnance du 9 mars 2007 sur les services de télécommunication[^ingress-2], vu les art. 2, al. 1, 13*m*, al. 2, 18, 20, al. 3, 24*a*, al. 1, 24*b*, 24*e*, al. 3, 24*h*, al. 1, 31*a*, al. 4, et 52, al. 1, de l’ordonnance du 6 octobre 1997 sur les ressources d’adressage dans le domaine des télécommunications[^ingress-3], vu les art. 9, al. 3, 24, al. 3 et 4, 25, al. 1, let. a, et 60, al. 1, de l’ordonnance du 5 novembre 2014 sur les domaines Internet[^ingress-4],[^ingress-5]
 
 arrête:
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-2]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 [^ingress-3]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^ingress-4]: [RS 784.104.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9197)
-[^ingress-5]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 12 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)).
+[^ingress-5]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 27 janv. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 62](https://fedlex.data.admin.ch/eli/oc/2026/62)).
 
 #### Art. 1
 
@@ -50,7 +50,7 @@ Annexe 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I des O de l’OFCOM du 10 fév. 2009 ([RO 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), du 18 nov. 2020 ([RO 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), du 23 nov. 2022 ([RO 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), du 15 mars 2023 ([RO 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)), du 13 juil. 2023 ([RO 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)), du 24 janv. 2024 ([RO 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)), du 12 mars 2025 ([RO 2025 171](https://fedlex.data.admin.ch/eli/oc/2025/171)) et du 15 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 580](https://fedlex.data.admin.ch/eli/oc/2025/580)).
+[^t-2]: Mise à jour par le ch. I des O de l’OFCOM du 10 fév. 2009 ([RO 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), du 18 nov. 2020 ([RO 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), du 23 nov. 2022 ([RO 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), du 15 mars 2023 ([RO 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)), du 13 juil. 2023 ([RO 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)), du 24 janv. 2024 ([RO 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)), du 12 mars 2025 ([RO 2025 171](https://fedlex.data.admin.ch/eli/oc/2025/171)), du 15 sept. 2025 ([RO 2025 580](https://fedlex.data.admin.ch/eli/oc/2025/580)) et le ch. II de l’O de l’OFCOM du 27 janv. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 62](https://fedlex.data.admin.ch/eli/oc/2026/62)).
 [^annex1-lvlu1-1]: Le contenu des prescriptions n<sup>o</sup> 1, 4 et 11 n’est pas publié au RO. Commmande: Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne; téléchargement: [www.ofcom.admin.ch](http://www.ofcom.admin.ch) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Télécommunication. Le contenu des autres prescriptions est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur [www.fedlex.admin.ch](https://www.fedlex.admin.ch/fr) &gt; Recueil officiel &gt; Éditions du RO &gt; année &gt; séquence &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 - 1\. Prescriptions techniques et administratives concernant la gestion et la mise à disposition des données d’annuaire des fournisseurs du service téléphonique public (7<sup>e</sup> édition)
@@ -66,6 +66,7 @@ Annexe 1[^t-2]
 - 11\. Prescriptions techniques et administratives concernant le libre choix du fournisseur des liaisons nationales et internationales (1<sup>re</sup> édition)
 - 12\. Prescriptions techniques et administratives concernant la manipulation non autorisée d’installations de télécommunication au moyen de techniques de transmission des télécommunications ([2 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2024/68/fr/annexes))
 - 13\. Prescriptions techniques et administratives concernant la sécurité des réseaux et des services exploités par les concessionnaires de radiocommunication mobile ([1 <sup>re</sup> édition](https://www.fedlex.admin.ch/eli/oc/2022/740/fr/annexes))
+- 14\. Prescriptions techniques et administratives concernant le renforcement des réseaux de radiocommunication mobile contre les perturbations de l’approvisionnement en électricité ([1 <sup>re</sup> édition](https://www.fedlex.admin.ch/eli/oc/2026/62/fr/annexes))
 
 Annexe 2[^t-3]
 
@@ -82,9 +83,11 @@ Annexe 2[^t-3]
 - 2\. Prescriptions techniques et administratives concernant le plan de numérota-tion et la répartition des numéros E.164 ([8 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2024/68/fr/annexes))
 - 3\. Prescriptions techniques et administratives concernant le plan de numérotation télex F.69 (3<sup>e</sup> édition)
 - 4\. Prescriptions techniques et administratives concernant le plan de numérotation X.121 (2<sup>e</sup> édition)
-- 5\. et 6. …
+- 5\. …
+- 6\. …
 - 7\. Prescriptions techniques et administratives concernant la gestion des paramètres de communication (8<sup>e</sup> édition)
-- 8\. et 9. …
+- 8\. …
+- 9\. …
 - 10\. Prescriptions techniques et administratives concernant l’attribution de numéros individuels (9<sup>e</sup> édition)
 - 11\. …
 - 12\. Prescriptions techniques et administratives concernant les numéros courts des services de renseignements sur les annuaires (9<sup>e</sup> édition)

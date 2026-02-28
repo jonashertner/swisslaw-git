@@ -3,24 +3,24 @@ sr: "784.101.113"
 title: "Ordinanza dell'UFCOM del 9 dicembre 1997 sui servizi di telecomunicazione e gli elementi d'indirizzo"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: it
-version: 2026-01-01
+version: 2026-03-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20260301/it/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20260301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20260301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’UFCOM sui servizi di telecomunicazione e gli elementi d’indirizzo
 
-del 9 dicembre 1997 (Stato 1° gennaio 2026)[^t-1]
+del 9 dicembre 1997 (Stato 1° marzo 2026)[^t-1]
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O dell’UFCOM del 25 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
-visto l’articolo 28 della legge del 30 aprile 1997[^ingress-1] sulle telecomunicazioni; visti gli articoli 7 capoverso 4, 15 capoverso 3, 16 capoverso 5, 17 capoverso 5, 21 capoverso 2, 30 capoverso 3, 31 capoverso 5, 96 capoverso 2 e 105 capoverso 1 dell’ordinanza del 9 marzo 2007[^ingress-2] sui servizi di telecomunicazione; visti gli articoli 2 capoverso 1, 13*m* capoverso 2, 18, 20 capoverso 3, 24*a* capoverso 1, 24*b*, 24*e* capoverso 3, 24*h* capoverso 1, 31*a* capoverso 4 e 52 capoverso 1 dell’ordinanza del 6 ottobre 1997[^ingress-3] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni; visti gli articoli 9 capoverso 3, 24 capoversi 3 e 4, 25 capoverso 1 lettera a e 60 capoverso 1 dell’ordinanza del 5 novembre 2014[^ingress-4] sui domini Internet,[^ingress-5]
+visto l’articolo 28 della legge del 30 aprile 1997[^ingress-1] sulle telecomunicazioni; visti gli articoli 7 capoverso 4, 15 capoverso 3, 16 capoverso 5, 17 capoverso 5, 21 capoverso 2, 30 capoverso 3, 31 capoverso 5, 94*a* capoverso 4 lettere a e b nonché capoverso 5, 94*b*, 96 capoverso 2, 96*h* capoversi 1 e 2, 96*i* capoverso 2, 105 capoverso 1 e 108*d* capoverso 2 lettere a e b dell’ordinanza del 9 marzo 2007[^ingress-2] sui servizi di telecomunicazione; visti gli articoli 2 capoverso 1, 13*m* capoverso 2, 18, 20 capoverso 3, 24*a* capoverso 1, 24*b*, 24*e* capoverso 3, 24*h* capoverso 1, 31*a* capoverso 4 e 52 capoverso 1 dell’ordinanza del 6 ottobre 1997[^ingress-3] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni; visti gli articoli 9 capoverso 3, 24 capoversi 3 e 4, 25 capoverso 1 lettera a e 60 capoverso 1 dell’ordinanza del 5 novembre 2014[^ingress-4] sui domini Internet,[^ingress-5]
 
 ordina:
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-2]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 [^ingress-3]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^ingress-4]: [RS 784.104.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9197)
-[^ingress-5]: Nuovo testo giusta la cifra I dell’O dell’UFCOM del 12 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)).
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O dell’UFCOM del 27 gen. 2026, in vigore dal 1° mar. 2026 ([RU 2026 62](https://fedlex.data.admin.ch/eli/oc/2026/62)).
 
 #### Art. 1
 
@@ -50,17 +50,15 @@ Allegato 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Aggiornato dalle cifre I delle O dell’UFCOM del 10 feb. 2009 ([RU 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), del 18 nov. 2020 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), del 23 nov. 2022 ([RU 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), del 15 mar. 2023 ([RU 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)), del 13 lug. 2023 ([RU 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)), del 24 gen. 2024 ([RU 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)), del 12 mar. 2024 ([RU 2025 171](https://fedlex.data.admin.ch/eli/oc/2025/171)) e del 15 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 580](https://fedlex.data.admin.ch/eli/oc/2025/580)).
-[^annex1-lvlu1-1]: Il contenuto delle prescrizioni tecniche e amministrative n. 3, 4, 7, 10 e 12–15 non è pubblicato nella RU. È ottenibile presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne o consultabile all’indirizzo Internet: www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione Il contenuto delle prescrizioni è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [www.fedlex.data.admin.ch](https://fedlex.data.admin.ch/eli/oc/2024/68) &gt; Raccolta ufficiale &gt; Edizioni della RU &gt; anno &gt; riferimento &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione mediante rimando
+[^t-2]: Aggiornato dalle cifre I delle O dell’UFCOM del 10 feb. 2009 ([RU 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), del 18 nov. 2020 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), del 23 nov. 2022 ([RU 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), del 15 mar. 2023 ([RU 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)), del 13 lug. 2023 ([RU 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)), del 24 gen. 2024 ([RU 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)), del 12 mar. 2024 ([RU 2025 171](https://fedlex.data.admin.ch/eli/oc/2025/171)), del 15 set. 2025 ([RU 2025 580](https://fedlex.data.admin.ch/eli/oc/2025/580)) e la cifra II dell’O dell’UFCOM del 27 gen. 2026, in vigore dal 1° mar. 2026 ([RU 2026 62](https://fedlex.data.admin.ch/eli/oc/2026/62)).
+[^annex1-lvlu1-1]: Il contenuto delle prescrizioni tecniche e amministrative n. 1, 4 e 11 non è pubblicato nella RU. È ottenibile presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne o consultabile all’indirizzo Internet: www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione Il contenuto delle altre prescrizioni è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [www.fedlex.data.admin.ch](https://www.fedlex.admin.ch/it/home?news_period=last_day&news_pageNb=1&news_order=desc&news_itemsPerPage=10) &gt; Raccolta ufficiale &gt; Edizioni della RU &gt; anno &gt; riferimento &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione mediante rimando
 
 - 1\. Prescrizioni tecniche e amministrative relative alla gestione e alla messa a disposizione dei dati elenco dei fornitori del servizio telefonico pubblico (7<sup>a</sup> edizione)
 - 2\. Prescrizioni tecniche e amministrative relative alla qualità del servizio universale ([10 <sup>a</sup> edizione](http://www.fedlex.admin.ch/eli/oc/2023/163/it/annexes))
 - 3\. Prescrizioni tecniche e amministrative relative all’istradamento e alla localizzazione delle chiamate d’emergenza ([19 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2025/171/it/annexes))
 - 4\. Prescrizioni tecniche e amministrative relative alle interfacce per l’accesso alle reti e ai servizi di telecomunicazione (7<sup>a</sup> edizione)
-- 5\. ...
-
-\6. Prescrizioni tecniche e amministrative relative alle proprietà delle interfacce del servizio universale ([8 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2023/163/it/annexes))
-
+- 5\. …
+- 6\. Prescrizioni tecniche e amministrative relative alle proprietà delle interfacce del servizio universale ([8 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2023/163/it/annexes))
 - 7\. Prescrizioni tecniche e amministrative relative all’identificazione della linea chiamante ([4 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2025/580/it/annexes))
 - 8\. Prescrizioni tecniche e amministrative relative alla segnalazione di interferenze sulle reti ([2 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2022/740/it/annexes))
 - 9\. Prescrizioni tecniche e amministrative concernenti la pubblicazione delle informazioni relative alla qualità dei servizi di telecomunicazione ([2 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2022/740/it/annexes))
@@ -68,6 +66,7 @@ Allegato 1[^t-2]
 - 11\. Prescrizioni tecniche e amministrative relative alla libera scelta del fornitore di collegamenti nazionali e internazionali (1<sup>a</sup> edizione)
 - 12\. Prescrizioni tecniche e amministrative relative a manipolazioni non autorizzate di impianti di telecomunicazione commesse con trasmissione mediante telecomunicazione ([2 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2022/740/it/annexes))
 - 13\. Prescrizioni tecniche e amministrative relative alla sicurezza delle reti e dei servizi esercitati dai concessionari di radiocomunicazione mobile ([1 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2022/740/it/annexes))
+- 14\. Prescrizioni tecniche e amministrative concernenti il rafforzamento delle reti di radiocomunicazione mobile contro i problemi di approvvigionamento elettrico ([1 <sup>a</sup> edizione](https://fedlex.data.admin.ch/eli/oc/2026/62))
 
 Allegato 2[^t-3]
 
@@ -78,19 +77,19 @@ Allegato 2[^t-3]
 [^annex2-lvlu1-1]
 
 [^t-3]: Aggiornato dalle cifre I delle O dell’UFCOM del 12 ago. 2003 ([RU 2003 3246](https://fedlex.data.admin.ch/eli/oc/2003/444)), del 6 nov. 2009 ([RU 2009 5831](https://fedlex.data.admin.ch/eli/oc/2009/705)), del 18 nov. 2020 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), del 1° dic. 2021 ([RU 2021 824](https://fedlex.data.admin.ch/eli/oc/2021/824)) e del 24 gen. 2024 ([RU 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)) e del 12 mar. 2024, in vigore dal 1° mag. 2025 ([RU 2025 171](https://fedlex.data.admin.ch/eli/oc/2025/171)).
-[^annex2-lvlu1-1]: Il contenuto delle prescrizioni tecniche e amministrative n. 3, 4, 7, 10 e 12–15 non è pubblicato nella RU. È ottenibile presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne o consultabile all’indirizzo Internet: www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione Il contenuto delle prescrizioni è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [www.fedlex.data.admin.ch](https://fedlex.data.admin.ch/eli/oc/2024/68) &gt; Raccolta ufficiale &gt; Edizioni della RU &gt; anno &gt; riferimento &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione mediante rimando
+[^annex2-lvlu1-1]: Il contenuto delle prescrizioni tecniche e amministrative n. 3, 4, 7, 10 e 12–15 non è pubblicato nella RU. È ottenibile presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne o consultabile all’indirizzo Internet: www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione Il contenuto delle prescrizioni n. 2 è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [www.fedlex.data.admin.ch](https://www.fedlex.admin.ch/it/home?news_period=last_day&news_pageNb=1&news_order=desc&news_itemsPerPage=10) &gt; Raccolta ufficiale &gt; Edizioni della RU &gt; anno &gt; riferimento &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione mediante rimando
 
-- 1\. ...
+- 1\. …
 - 2\. Prescrizioni tecniche e amministrative relative al piano di numerazione e alla ripartizione dei numeri E.164 ([8 <sup>a</sup> edizione](https://www.fedlex.admin.ch/eli/oc/2024/68/it/annexes))
 - 3\. Prescrizioni tecniche e amministrative relative al piano di numerazione Telex F.69 (3<sup>a</sup> edizione)
 - 4\. Prescrizioni tecniche e amministrative relative al piano di numerazione X.121 (2<sup>a</sup> edizione)
-- 5\. ...
-- 6\. ...
+- 5\. …
+- 6\. …
 - 7\. Prescrizioni tecniche e amministrative relative alla gestione dei parametri di comunicazione (8<sup>a</sup> edizione)
-- 8\. ...
-- 9\. ...
+- 8\. …
+- 9\. …
 - 10\. Prescrizioni tecniche e amministrative relative all’attribuzione di numeri individuali (9<sup>a</sup> edizione)
-- 11\. ...
+- 11\. …
 - 12\. Prescrizioni tecniche e amministrative relative ai numeri brevi dei servizi d’informazione sugli elenchi (9<sup>a</sup> edizione)
 - 13\. Prescrizioni tecniche e amministrative relative all’attribuzione e alla gestione di nomi di dominio di secondo livello che dipendono dal dominio «.ch» (8<sup>a</sup> edizione)
 - 14\. Prescrizioni tecniche e amministrative relative all’attribuzione e alla gestione di nomi di dominio di secondo livello che dipendono dal dominio «.swiss» (3<sup>a</sup> edizione)
