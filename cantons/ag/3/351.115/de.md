@@ -4,13 +4,12 @@ number: "351.115"
 title: Heilmittel- und Betäubungsmittelverordnung
 short: HBV
 language: de
-version: 2021-03-01
-valid_until: 2026-02-28
-version_adopted: 2021-01-20
+version: 2026-03-01
+version_adopted: 2026-01-21
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/351.115"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3646/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3926/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3646/pdf_file"
 
 (HBV)
 
-Vom 11.11.2009 (Stand 01.03.2021)
+Vom 11.11.2009 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -137,7 +136,7 @@ beschliesst:
 <sup>1</sup> Rezepte sind gültig, wenn sie folgende Angaben enthalten:
 
 - a) Name und Praxisadresse der ausstellenden Person in Druckschrift,
-- b) eigenhändige Unterschrift der ausstellenden Person oder qualifizierte elektronische Signatur gemäss Art. 14 Abs. 2bis des Obligationenrechts (OR) vom 30. März 1911[^9-1],
+- b) eigenhändige Unterschrift der ausstellenden Person oder qualifizierte elektronische Signatur gemäss Art. 14 Abs. 2<sup>bis</sup> des Obligationenrechts (OR) vom 30. März 1911[^9-1],
 - c) Datum der Ausstellung,
 - d) Name und Jahrgang der Patientin oder des Patienten,
 - e) Art und Menge des abzugebenden Heilmittels.
@@ -263,14 +262,18 @@ beschliesst:
 
 #### § 22a
 
-**Impfungen durch Apothekerinnen und Apotheker**
+**Impfungen in Apotheken**
 
 <sup>1</sup> Apothekerinnen und Apotheker können ohne ärztliche Verschreibung folgende Impfungen an Personen vornehmen:
 
 - a) Impfung gegen Grippe,
 - b) Impfung gegen Frühsommer-Meningoenzephalitis (FSME),
 - c) Tetanus-Prophylaxe bei Verletzungen (Kombinationsimpfstoff),
-- d) Impfung gegen Covid-19.
+- d) Impfung gegen Covid-19,
+- e) Impfung gegen Diphtherie, Tetanus und Pertussis,
+- f) Impfung gegen Hepatitis A, Hepatitis B sowie Hepatitis A und B,
+- g) Impfung gegen Herpes Zoster (Gürtelrose),
+- h) Impfung gegen Poliomyelitis.
 
 <sup>2</sup> Apothekerinnen und Apotheker dürfen keine Impfungen vornehmen bei
 
@@ -283,6 +286,8 @@ beschliesst:
 - a) verfügen über den Fähigkeitsausweis FPH Impfen und Blutentnahme oder über eine gleichwertige Ausbildung und erfüllen die damit verbundenen Fortbildungspflichten,
 - b) melden sich vorgängig mit dem dafür vorgesehenen Formular bei der Kantonsapothekerin oder dem Kantonsapotheker.
 
+<sup>3<sup>bis</sup></sup> Apothekerinnen und Apotheker, welche die Voraussetzungen gemäss Absatz 3 erfüllen, können die Durchführung der Impfungen unter ihrer fachlichen Aufsicht und Verantwortung an Fachpersonen mit entsprechender Aus- und regelmässiger Fortbildung delegieren.
+
 <sup>4</sup> Die Apotheke, in der Impfungen durchgeführt werden, verfügt über:
 
 - a) geeignete Räumlichkeiten, insbesondere über einen abgetrennten und nicht einsehbaren Bereich mit der Möglichkeit, die zu impfende Person in liegender Position zu lagern,
@@ -294,13 +299,28 @@ beschliesst:
 
 #### § 23
 
-**Anwendung von Arzneimitteln**
+**…**
 
-<sup>1</sup> Personen gemäss Art. 27a Abs. 2 lit. a–d der Verordnung über die Arzneimittel (Arzneimittelverordnung, VAM) vom 17. Oktober 2001[^23-1] sind berechtigt, die in ihrem Beruf notwendigen Arzneimittel anzuwenden.
+#### § 23a
 
-<sup>2</sup> Naturheilpraktikerinnen und Naturheilpraktiker unter eidgenössisch anerkanntem Diplom sind zur Anwendung von Arzneimitteln der Abgabekategorien C und D berechtigt.
+**Verschreibungspflichtige Arzneimittel**
 
-[^23-1]: SR [812.212.21](https://db.clex.ch/link/Bund/812.212.21/de)
+<sup>1</sup> Zur Abgabe von verschreibungspflichtigen Arzneimitteln sind vorbehältlich § 44 GesG Medizinal- und Fachpersonen im Gesundheitswesen (Fachpersonen) gemäss Art. 24 Abs. 1 und 2 des Bundesgesetzes über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG) vom 15. Dezember 2000[^23a-1] berechtigt.
+
+<sup>2</sup> Im Rahmen ihrer Berufsausübung ist es neben Medizinalpersonen auch Personen der Berufskategorien gemäss Art. 52 Abs. 2 der Verordnung über die Arzneimittel (Arzneimittelverordnung, VAM) vom 21. September 2018[^23a-2] gestattet, eigenverantwortlich verschreibungspflichtige Arzneimittel anzuwenden.
+
+<sup>3</sup> Die Bewilligung zur Berufsausübung gemäss § 10 VBOB oder die Betriebsbewilligung gemäss § 35 VBOB beinhaltet die Bewilligung zur Anwendung von verschreibungspflichtigen Arzneimitteln durch die in Absatz 2 genannten Fachpersonen.
+
+<sup>4</sup> Die Kantonsapothekerin oder der Kantonsapotheker bestimmt die Arzneimittel, welche die in Absatz 2 genannten Fachpersonen anwenden dürfen.
+
+[^23a-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
+[^23a-2]: SR [812.212.21](https://db.clex.ch/link/Bund/812.212.21/de)
+
+#### § 23b
+
+**Nicht verschreibungspflichtige Arzneimittel**
+
+<sup>1</sup> Zur Abgabe von nicht verschreibungspflichtigen Arzneimitteln sind Fachpersonen gemäss Art. 25 Abs. 1 HMG im Rahmen ihrer Abgabekompetenz berechtigt.
 
 #### § 24
 
