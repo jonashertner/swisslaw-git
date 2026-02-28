@@ -3,13 +3,12 @@ canton: FR
 number: "922.12"
 title: "Règlement concernant l'examen d'aptitude à la chasse"
 language: fr
-version: 2024-07-01
-valid_until: 2026-02-28
-version_adopted: 2024-03-05
+version: 2026-03-01
+version_adopted: 2026-02-23
 adopted: 2021-10-12
 in_force: 2021-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7989/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8430/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7989/pdf_file"
 
 Examen d'aptitude à la chasse – R
 
-du 12.10.2021 (version entrée en vigueur le 01.07.2024)
+du 12.10.2021 (version entrée en vigueur le 01.03.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -98,8 +97,8 @@ Arrête:
 <sup>3</sup> L'examen pratique comprend, en règle générale, les disciplines suivantes:
 
 - a) l'identification d'animaux;
-- b) l'estimation de distances pour la chasse avec l'arme à canon lisse et avec l'arme à canon rayé;
-- c) la connaissance des armes à canon lisse et canon rayé ainsi que des instruments optiques;
+- b) l'estimation de distances pour la chasse avec l'arme à canon lisse;
+- c) la connaissance des armes à canon lisse ainsi que des instruments optiques;
 - d) le maniement de l'arme à canon lisse et les mesures de sécurité;
 - e) le tir avec l'arme à canon lisse.
 
@@ -110,7 +109,8 @@ Arrête:
 <sup>1</sup> L'examen complémentaire comprend, en règle générale, les disciplines suivantes:
 
 - a) le tir avec l'arme à canon rayé;
-- b) le maniement de l'arme à canon rayé et les mesures de sécurité.
+- b) le maniement de l'arme à canon rayé et les mesures de sécurité;
+- c) l'estimation de distances pour la chasse avec l'arme à canon rayé.
 
 ### 2.2 Admission
 
@@ -218,7 +218,7 @@ Arrête:
 
 <sup>2</sup> La personne qui a échoué aux épreuves pratiques de l'examen de base peut se représenter au maximum une fois durant la même session d'examen. Le parcours de chasse doit être répété dans sa totalité. S'agissant des disciplines de tir, seules celles soldées par un échec doivent être répétées.
 
-<sup>3</sup> La personne qui a échoué aux épreuves pratiques de l'examen complémentaire peut se représenter au maximum une fois durant la même session d'examen et doit subir à nouveau toutes les épreuves pratiques. Dans tous les cas, elle pourra se représenter lors d'une prochaine session d'examens.
+<sup>3</sup> La personne qui a échoué aux épreuves pratiques de l'examen complémentaire peut se représenter au maximum une fois durant la même session d'examen. En cas d'échec au tir ou au maniement de l'arme, toutes ces disciplines doivent être répétées. En cas d'échec à l'estimation des distances, seule cette discipline est à refaire. Dans tous les cas, le candidat ou la candidate pourra se représenter lors d'une prochaine session d'examens.
 
 <sup>4</sup> Il n'est en principe pas organisé d'épreuves particulières pour les personnes empêchées de se présenter aux épreuves ordinaires.
 

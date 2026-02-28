@@ -3,13 +3,12 @@ canton: FR
 number: "922.12"
 title: Reglement über die Fähigkeitsprüfung für die Jagd
 language: de
-version: 2024-07-01
-valid_until: 2026-02-28
-version_adopted: 2024-03-05
+version: 2026-03-01
+version_adopted: 2026-02-23
 adopted: 2021-10-12
 in_force: 2021-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7989/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8430/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7989/pdf_file"
 
 Fähigkeitsprüfung für die Jagd – R
 
-vom 12.10.2021 (Fassung in Kraft getreten am 01.07.2024)
+vom 12.10.2021 (Fassung in Kraft getreten am 01.03.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -96,8 +95,8 @@ beschliesst:
 <sup>3</sup> Die praktische Prüfung umfasst in der Regel folgende Disziplinen:
 
 - a) Bestimmen von Tieren;
-- b) Schätzen von Entfernungen für die Jagd mit der Waffe mit glattem Lauf und mit der Waffe mit gezogenem Lauf;
-- c) Waffenkunde (Waffen mit glattem Lauf und Waffen mit gezogenem Lauf) und optische Instrumente;
+- b) Schätzen von Entfernungen für die Jagd mit der Waffe mit glattem Lauf;
+- c) Waffenkunde (Waffen mit glattem Lauf) und optische Instrumente;
 - d) Umgang mit der Waffe mit glattem Lauf und Sicherheitsmassnahmen;
 - e) Schiessen mit der Waffe mit glattem Lauf.
 
@@ -108,7 +107,8 @@ beschliesst:
 <sup>1</sup> Die Zusatzprüfung umfasst in der Regel folgende Disziplinen:
 
 - a) Schiessen mit der Waffe mit gezogenem Lauf;
-- b) Umgang mit der Waffe mit gezogenem Lauf und Sicherheitsmassnahmen.
+- b) Umgang mit der Waffe mit gezogenem Lauf und Sicherheitsmassnahmen;
+- c) Schätzen von Entfernungen für die Jagd mit der Waffe mit gezogenem Lauf.
 
 ### 2.2 Zulassung
 
@@ -216,7 +216,7 @@ beschliesst:
 
 <sup>2</sup> Wer die praktischen Teilprüfungen der Grundprüfung nicht bestanden hat, kann diese höchstens einmal während der gleichen Prüfungssession wiederholen. Der Jagdparcours muss vollständig wiederholt werden. Bei den Schiessdisziplinen müssen nur die nicht bestandenen wiederholt werden.
 
-<sup>3</sup> Wer die praktischen Teilprüfungen der Zusatzprüfung nicht bestanden hat, kann diese höchstens einmal während der gleichen Prüfungssession wiederholen und muss sämtliche praktischen Teilprüfungen nochmals ablegen. In jedem Fall können diese an einer folgenden Prüfungssession wiederholt werden.
+<sup>3</sup> Wer die praktischen Teilprüfungen der Zusatzprüfung nicht bestanden hat, kann diese höchstens einmal während der gleichen Prüfungssession wiederholen. Bei Nichtbestehen einer der Disziplinen der Schiessprüfung oder der Handhabung einer Waffe müssen beide Disziplinen wiederholt werden. Bei Nichtbestehen der Schätzung der Entfernungen muss nur diese Disziplin wiederholt werden. In jedem Fall kann die Kandidatin oder der Kandidat sich an einer folgenden Prüfungssession anmelden.
 
 <sup>4</sup> Es werden in der Regel keine ausserordentlichen Teilprüfungen für Kandidatinnen und Kandidaten organisiert, die an den ordentlichen Teilprüfungen verhindert waren.
 
