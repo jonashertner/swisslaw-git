@@ -4,7 +4,7 @@ number: "832.01"
 title: "LOI du 25.06.1996 d'application vaudoise de la loi fédérale sur l'assurance-maladie (LVLAMal)"
 short: LVLAMal
 language: fr
-version: 2021-03-01
+version: 2026-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.01?id=604dfd14-925f-4149-ba81-bf2d4ecb9284"
 ---
 
@@ -288,7 +288,9 @@ décrète
 
 <sup>1</sup> Seules les primes de l'assurance obligatoire des soins donnent droit à un subside.
 
-<sup>2</sup> La différence entre le subside déterminé et la prime effective facturée par l'assureur est à la charge de l'assuré.
+<sup>1bis</sup> Les primes de l'assurance obligatoire des soins sont subsidiables jusqu'à concurrence de la prime facturée par l'assureur.
+
+<sup>2</sup> La différence entre le subside déterminé et la prime facturée par l'assureur est à la charge de l'assuré.
 
 [^15-1]: Modif. 1 du 29.05.2001: Modification Art. 16; entrée en vigueur au 01.01.2002 · Modif. 11 du 29.09.2015: Introduction Al. 2; entrée en vigueur au 01.01.2019 · Modif. 17 du 17.12.2025: Introduction Al. 1bis; entrée en vigueur au 01.03.2026; Modification Al. 2; entrée en vigueur au 01.03.2026
 
