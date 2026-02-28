@@ -4,13 +4,12 @@ number: "910.215"
 title: Allgemeine Landwirtschaftsverordnung
 short: ALaV
 language: de
-version: 2024-07-01
-valid_until: 2026-02-28
-version_adopted: 2024-03-13
+version: 2026-03-01
+version_adopted: 2026-01-21
 adopted: 2012-05-23
 in_force: 2012-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/910.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3515/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3928/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3515/pdf_file"
 
 (ALaV)
 
-Vom 23.05.2012 (Stand 01.07.2024)
+Vom 23.05.2012 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -73,6 +72,17 @@ beschliesst:
 
 <sup>2</sup> Die ALK prüft die Voraussetzungen für die Gewährung von Darlehen und ist für den Vollzug der §§ 5–12 zuständig.
 
+<sup>3</sup> Der ALK wird für die Verwaltung von landwirtschaftlichen Darlehen ein Startkapital zur Verfügung gestellt. Dieses Startkapital wird als Rotationsfonds laufend für die wiederkehrenden Darlehensvergaben eingesetzt.
+
+<sup>4</sup> Der Rotationsfonds befindet sich im Fremdkapital der ALK und wird in der Staatsrechnung als Eventualguthaben ausgewiesen.
+
+<sup>5</sup> Die ALK ist berechtigt neue Mittel zu beantragen, sofern
+
+- a) im Zeitpunkt der Beantragung die nicht vergebenen Mittel insgesamt Fr. 1 Mio. nicht übersteigen und
+- b) die in § 33 Abs. 4 LwG AG festgesetzte Limite des gesamten Darlehensbestands nicht überschritten wird.
+
+<sup>6</sup> Bei Verkleinerung oder Aufhebung der Investitionshilfen oder bei Aufhebung der ALK sind die zur Verfügung gestellten Mittel innert angemessener Frist an den Kanton zurückzuerstatten.
+
 #### § 5
 
 **Gewährung von Darlehen**
@@ -113,7 +123,7 @@ beschliesst:
 
 **Form**
 
-<sup>1</sup> Darlehen werden durch Vertrag gewährt.
+<sup>1</sup> Darlehen werden durch Verfügung gewährt.
 
 #### § 7
 
@@ -153,7 +163,7 @@ beschliesst:
 
 **Sicherung der Darlehen**
 
-<sup>1</sup> Die Darlehen sind durch Grundpfand oder in Ausnahmefällen anderweitig sicherzustellen. Bei Darlehen bis zu Fr. 20'000.– kann die Sicherstellung auch durch die Abtretung einer Forderung erfolgen.
+<sup>1</sup> Die Darlehen sind durch Grundpfand oder bei Gewährleistung genügender Sicherheit anderweitig sicherzustellen.
 
 #### § 12
 
@@ -181,37 +191,44 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden beteiligen sich im Auftrag des kantonalen Pflanzenschutzdienstes gegen eine angemessene Entschädigung am Vollzug der Massnahmen auf ihrem Gebiet namentlich durch die Bereitstellung personeller, technischer, infrastruktureller und logistischer Ressourcen.
 
+<sup>3</sup> Die Gemeinden können nach Absprache mit dem Kanton auf ihrem Gebiet eigene Massnahmen ergreifen.
+
+#### § 14a
+
+**Entschädigung an die Gemeinden**
+
+<sup>1</sup> Beteiligen sich die Gemeinden am Vollzug von Massnahmen gemäss den Art. 13 Abs. 1 Bst. d, g, h und i, 16 Abs. 3, 17 Abs. 3, 18, 19 Abs. 1 sowie 22 Bst. c der Verordnung über den Schutz von ​Pflanzen vor besonders gefährlichen Schadorganismen (Pflanzengesundheitsverordnung, PGesV) vom 31. Oktober 2018[^14a-1], werden die Gemeinden mit dem in Art. 21 der Verordnung des WBF und des UVEK zur Pflanzengesundheitsverordnung (PGesV-WBF-UVEK) vom 14. November 2019[^14a-2] festgelegten Tagesansatz entschädigt.
+
+<sup>2</sup> Für den Vollzug von Massnahmen im Zusammenhang mit allen übrigen Schadorganismen gelten als angemessene Entschädigung:
+
+- a) für Kontrollen und Bekämpfung Fr. 38.– pro Stunde,
+- b) für die Verwendung von Motorfahrzeugen eine Kilometerentschädigung gemäss § 6 Abs. 1 der Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen (Spesenverordnung, SpesenV) vom 31. Januar 2001[^14a-3],
+- c) für die Maschinenkosten die Richtwerte gemäss Kostenkatalog von Agroscope.
+
+[^14a-1]: SR [916.20](https://db.clex.ch/link/Bund/916.20/de)
+[^14a-2]: SR [916.201](https://db.clex.ch/link/Bund/916.201/de)
+[^14a-3]: SAR [165.171](https://gesetzessammlungen.ag.ch/data/165.171/de)
+
 #### § 15
 
 **Aufgaben**
 
 <sup>1</sup> Dem Pflanzenschutzdienst obliegen folgende Aufgaben:
 
-- a) Anordnung von Massnahmen wie namentlich die Vernichtung von Befallsherden zur wirksamen Bekämpfung, Verhinderung und Verbreitung von Schadorganismen gemäss § 16,
-- b) Anordnung der Beschlagnahme gemäss Art. 42 der Verordnung über Pflanzenschutz (Pflanzenschutzverordnung, PSV) vom 27. Oktober 2010[^15-1],
-- c) Überwachung des Gesundheitszustands der landwirtschaftlichen Kulturen, der Massnahmen zur Bekämpfung von Schadorganismen sowie der dafür erforderlichen Schutzvorkehrungen,
+- a) ​Ergreifen der Massnahmen ​sowie Vollzug der Aufgaben gemäss Art. 104 PGesV,
+- b) ​Umsetzung und Kontrolle der ​Massnahmen sowie Überwachung der Freilassung von Organismen gemäss Art. ​8 Abs. 1 und 2 der Verordnung über ​koordinierte Massnahmen zur Bekämpfung von Schadorganismen der Kulturpflanzen vom ​29. Oktober 2025[^15-1],
+- c) Überwachung des Gesundheitszustands der landwirtschaftlichen Kulturen, Ergreifen der Massnahmen zur Bekämpfung von Schadorganismen sowie der dafür erforderlichen Schutzvorkehrungen,
 - d) Förderung von Anbaumethoden, die der Lebensmittelhygiene sowie der Erhaltung der Bodenfruchtbarkeit dienen und die Umwelt schonen, sofern sie wirtschaftlich vertretbar sind,
-- e) Weiterbildung und Beratung im Pflanzenschutzdienst,
+- e) Weiterbildung und Beratung im Pflanzenschutz,
 - f) Erteilung von Bewilligungen für den Einsatz von Pflanzenschutzmitteln,
-- g) Aufbau und Betrieb einer öffentlich zugänglichen Dokumentations- und Informationsstelle.
+- g) Aufbau und Betrieb einer öffentlich zugänglichen Dokumentations- und Informationsstelle,
+- h) Umsetzung der Feuerbrandstrategie.
 
-[^15-1]: SR [916.20](https://db.clex.ch/link/Bund/916.20/de)
+[^15-1]: SR [916.23](https://db.clex.ch/link/Bund/916.23/de)
 
 #### § 16
 
-**Kantonale Massnahmen**
-
-<sup>1</sup> Im Umgang mit besonders gefährlichen Schadorganismen gilt:
-
-- a) der Anbau und das Anpflanzen von Chaenomeles Lindl. (Feuerbusch, Scheinquitte, Japanische Quitte), Eriobotrya Lindl. (Wollmispel), Mespilus L. (Mispel) und Pyracantha Roem. (Feuerdorn) ist auf dem ganzen Kantonsgebiet verboten,
-- b) der Anbau und das Anpflanzen aller Arten von Weissdorn (Crataegus spp.) ist ausserhalb der Feuerbrand-Befallszone in Schutzobjekten gemäss Art. 2 lit. l PSV verboten. Der Pflanzenschutzdienst entscheidet auf Gesuch hin über die Ausscheidung der Schutzobjekte,
-- c) das Vorkommen von Erdmandelgras (Cyperus escultentus) ist dem Pflanzenschutzdienst durch die Bewirtschafterinnen und Bewirtschafter landwirtschaftlicher Grundstücke umgehend zu melden. Die Meldepflicht gilt auf dem ganzen Kantonsgebiet bis 31. Dezember 2021.
-
-<sup>1<sup>bis</sup></sup> Auf Gesuch hin entscheidet der Pflanzenschutzdienst über die Ausscheidung von Schutzobjekten gemäss Art. 2 lit. l PSV in Verbindung mit Art. 46 Abs. 1 PSV in der Feuerbrand-Befallszone.
-
-<sup>2</sup> Der Pflanzenschutzdienst kann Sofortmassnahmen zur Bekämpfung von lokal auftretenden Schadorganismen ergreifen.
-
-<sup>3</sup> Die Gemeinden können nach Absprache mit dem Kanton auf ihrem Gebiet eigene Massnahmen ergreifen.
+**…**
 
 #### § 17
 
@@ -266,7 +283,8 @@ beschliesst:
 - a) Kontrolle der vorschriftsgemässen Verwendung von Pflanzenschutzmitteln,
 - b) Kontrolle der Einhaltung der Verwendungsverbote von Düngern,
 - c) Koordination der Kontrollen gemäss Art. 3 der Verordnung über die Koordination der Kontrollen auf Landwirtschaftsbetrieben (VKKL) vom 23. Oktober 2013[^20-1] und Art. 2 Abs. 4 der Verordnung über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände (NKPV) vom 16. Dezember 2016[^20-2],
-- d) Erhebung landwirtschaftlicher Daten.
+- d) Erhebung landwirtschaftlicher Daten,
+- e) Koordination der Massnahmen im Bereich der invasiven Organismen in Zusammenarbeit mit dem Departement Bau, Verkehr und Umwelt (BVU).
 
 [^20-1]: SR [910.15](https://db.clex.ch/link/Bund/910.15/de)
 [^20-2]: SR [817.032](https://db.clex.ch/link/Bund/817.032/de)
@@ -279,10 +297,10 @@ beschliesst:
 
 - a) die Marktüberwachung von Pflanzenschutzmitteln,
 - b) die Marktüberwachung von in Verkehr gebrachten Düngern,
-- c) die Weinhandelskontrolle bei nicht der Schweizerischen Weinhandelskontrolle unterstellten Betrieben,
+- c) …
 - d) die Kontrolle der Einhaltung der Bestimmungen über die Primärproduktion,
 - e) den Vollzug der Bestimmungen über die Hygiene der Milchproduktion,
-- f) den Vollzug im Bereich der invasiven Organismen im Kanton in Zusammenarbeit mit dem DFR und dem Departement Bau, Verkehr und Umwelt (BVU).
+- f) …
 
 ## 6.
 
