@@ -4,13 +4,12 @@ number: "930.1"
 title: Einführungsgesetz zum Bundesgesetz über den Wald
 short: "kantonales Waldgesetz, kWaG"
 language: de
-version: 2025-01-01
-valid_until: 2026-02-28
-version_adopted: 2024-05-23
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 2016-03-10
 in_force: 2016-06-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/930.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1878/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1990/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1878/pdf_file"
 
 (kantonales Waldgesetz, kWaG)
 
-vom 10.03.2016 (Stand 01.01.2025)
+vom 10.03.2016 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -94,14 +93,12 @@ beschliesst:
 - c. erteilt Rodungsbewilligungen, die in kantonaler Zuständigkeit liegen;
 - d. erteilt Bewilligungen für nachteilige Nutzungen gemäss Art. 11 dieses Gesetzes;
 - e. erlässt Waldfeststellungsverfügungen;
-- f. ist zuständig für die Genehmigung von Waldunterabständen nach Art. 40 Abs. 1 Bst. g des Baugesetzes[^4-1];
+- f. …
 - g. ist zuständig für die Erarbeitung und die Nachführung der Grundlagen und der Gefahrenkarten nach Art. 16 Abs. 1 dieses Gesetzes;
 - h. erlässt die Grundlagen der forstlichen Planung nach Art. 19 dieses Gesetzes;
 - i. legt die Gebühr gemäss Art. 22 Abs. 4 dieses Gesetzes fest;
 - j. ist zuständig für die Veräusserung und die Teilung von Wald nach Art. 23 dieses Gesetzes;
 - k. ist zuständig für die Einteilung in Forstkreise und Forstreviere nach Art. 51 Abs. 2 WaG.
-
-[^4-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 5
 
@@ -202,9 +199,7 @@ beschliesst:
 
 **Waldabstand**
 
-<sup>1</sup> Der Waldabstand richtet sich nach dem Baugesetz[^12-1].
-
-[^12-1]: Art. 40 Abs. 1 Bst. g BauG, GDB [710.1](http://gdb.ow.ch/data/710.1/de)
+<sup>1</sup> Der Waldabstand richtet sich nach dem Planungs- und Baugesetz.
 
 #### Art. 13
 
@@ -543,6 +538,8 @@ Aufgehobene Erlasse:
 
 Geändert durch:
 
-\- Nachtrag vom 23. Mai 2024 (OGS 2024, 7), Botschaft und Vorlage des Regierungsrats vom 23. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.02), in Kraft seit 1. Januar 2025 (OGS 2024, 18)
+\- Nachtrag vom 23. Mai 2024 (OGS 2024, 7), Botschaft und Vorlage des Regierungsrats vom 23. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.02), in Kraft seit 1. Januar 2025 (OGS 2024, 18),
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 2016, 16
