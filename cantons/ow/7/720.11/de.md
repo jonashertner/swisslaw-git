@@ -3,20 +3,19 @@ canton: OW
 number: "720.11"
 title: Strassenverordnung
 language: de
-version: 2007-08-01
-valid_until: 2026-02-28
-version_adopted: 2007-03-15
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 1935-09-14
 in_force: 1935-09-14
 url: "http://gdb.ow.ch/app/de/texts_of_law/720.11"
-pdf: "http://gdb.ow.ch/api/de/versions/189/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1982/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Strassenverordnung
 
-vom 14.09.1935 (Stand 01.08.2007)
+vom 14.09.1935 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Unterwalden ob dem Wald erlässt,
 
@@ -171,11 +170,13 @@ folgende Verordnung:
 
 #### Art. 17
 
-<sup>1</sup> Für die Neuanlage und den Ausbau der Kantonsstrassen können Strassenpläne mit allgemeiner Verbindlichkeit aufgestellt werden.
+<sup>1</sup> Für die Neuanlage und den Ausbau der Kantonsstrassen können Strassenpläne mit allgemeiner Verbindlichkeit, einschliesslich der damit verbundenen Anpassung der Bau- und Zonenordnung, aufgestellt werden.
 
-<sup>2</sup> Die Pläne sind auf den zuständigen Gemeindekanzleien während vierzehn Tagen aufzulegen, innerhalb welcher Zeit die Einsprachen schriftlich eingereicht werden müssen. Die Bekanntmachung der Auflage erfolgt im Amtsblatt, unter Bezeichnung der Stelle, bei der die Eingaben zu erfolgen haben.
+<sup>2</sup> Die Pläne sind auf den zuständigen Gemeindekanzleien während 30 Tagen aufzulegen, innerhalb welcher Zeit die Einsprachen schriftlich eingereicht werden müssen. Die Bekanntmachung der Auflage erfolgt im Amtsblatt, unter Bezeichnung der Stelle, bei der die Eingaben zu erfolgen haben.
 
-<sup>3</sup> Die Einsprachen werden, soweit sie gegen die Erstellung der geplanten Anlage gerichtet sind oder sich auf die Art der Ausführung, die Linienführung usw. der geplanten Strasse beziehen, vom Regierungsrat erledigt. Hinsichtlich der Abtretungspflicht und der Festsetzung der Abtretungsentschädigungen ist das Gesetz über die Zwangsenteignung massgebend.
+<sup>3</sup> Die Einsprachen werden, soweit sie gegen die Erstellung der geplanten Anlage gerichtet sind oder sich auf die Art der Ausführung, die Linienführung usw. der geplanten Strasse oder die damit verbundene Zonenplananpassung beziehen, vom Regierungsrat im Rahmen der Genehmigung der Strassenpläne und der Anpassung der Bau- und Zonenordnung erledigt. Hinsichtlich der Abtretungspflicht und der Festsetzung der Abtretungsentschädigungen ist das Gesetz über die Zwangsenteignung massgebend.
+
+<sup>4</sup> Haben Strassenpläne die Anpassung der Bau- und Zonenordnung zur Folge, ist bei der öffentlichen Auflage darauf hinzuweisen.
 
 #### Art. 18
 
@@ -187,7 +188,7 @@ folgende Verordnung:
 
 #### Art. 19
 
-<sup>1</sup> Die Neuanlage und der Ausbau von Gemeindestrassen ist Sache der Einwohner- und Ortseinwohnergemeinden oder gegebenenfalls der Bürgergemeinden oder Korporationen oder öffentlich-rechtlichen Genossenschaften (Art. 114 ff. EG zum ZGB[^19-1]).
+<sup>1</sup> Die Neuanlage und der Ausbau von Gemeindestrassen ist Sache der Einwohner- und Ortseinwohnergemeinden oder gegebenenfalls der Bürgergemeinden oder Korporationen oder öffentlich-rechtlichen Genossenschaften (Art. 114 ff. EG zum ZGB[^19-1]). Ist mit dem Strassenplan eine Anpassung der Bau- und Zonenordnung verbunden, bedarf dieser der Genehmigung des Bau- und Raumentwicklungsdepartements.
 
 [^19-1]: GDB [210.1](http://gdb.ow.ch/data/210.1/de)
 
@@ -452,35 +453,9 @@ folgende Verordnung:
 
 ### 3.3. Bestimmungen über das an die öffentlichen Strassen angrenzende Gebiet
 
-#### Art. 55
+#### Art. 55–58
 
-<sup>1</sup> Neuauszuführende Gebäude sowie An- und Höherbauten an bestehenden Gebäuden müssen bei Kantons- und Gemeindestrassen in einer Entfernung von mindestens vier Metern angelegt werden. An Verkehrswegen in Dörfern, die vermöge ihrer Bedeutung als öffentliche zu betrachten sind, dürfen Gebäude nur in einem Abstand von wenigstens zweieinhalb Metern erstellt werden.
-
-<sup>2</sup> Vordächer, Dachgesimse, einzelne Treppenstufen und Balkone dürfen höchstens einen Meter über diese Baulinien vorspringen.
-
-<sup>3</sup> In Dörfern und bei besonderen Bodenschwierigkeiten kann für Kantonsstrassen vom Regierungsrat eine geringere Entfernung gestattet werden. Für die übrigen Strassen und Wege können derartige Bewilligungen durch den Einwohner- oder Ortseinwohnergemeinderat erteilt werden (Art. 139 EG zum ZGB).
-
-<sup>4</sup> In Kurven ist ein den Verhältnissen entsprechender grösserer Abstand, als in Abs. 1 vorgeschrieben, einzuhalten.
-
-<sup>5</sup> Vor Inangriffnahme von Neu- und Umbauten an öffentlichen Strassen haben die Eigentümer Baugespanne aufzustellen und ein schriftliches Gesuch einzureichen. Mit dem Bau darf erst nach Erledigung des Gesuches begonnen werden.
-
-#### Art. 56
-
-<sup>1</sup> Wird bei der Wiederherstellung abgetragener oder abgebrannter Gebäude in Dörfern der Baugrundeigentümer zu einer veränderten Abstandsgrenze verhalten, so dass dadurch die bisherige Baufläche eine wesentliche Wertverminderung erleidet, so hat er ein Anrecht auf Entschädigung. Die Entschädigung kann auch durch Überlassung von hinter dem Grundstück gelegenem Land geleistet werden (Art. 140 EG zum ZGB).
-
-#### Art. 57
-
-<sup>1</sup> An Gebäuden, bei denen der gesetzliche Bauabstand gegenüber einer öffentlichen Strasse nicht vorhanden ist, dürfen An- und Umbauten innerhalb des Bauabstandes nur mit Bewilligung des Regierungsrates bzw. der zuständigen Gemeindebehörde vorgenommen werden.
-
-#### Art. 58
-
-<sup>1</sup> Brunnen, Dünger- und Jauchegruben sowie deren Ausläufe und dgl. müssen bei Neuerstellung oder bei baulichen Veränderungen auf eine Entfernung von mindestens drei Metern von der Grenze der Strassenfahrbahn bzw. des Trottoirs zurückgesetzt und so angelegt werden, dass eine Verunreinigung der öffentlichen Strassen und eine Gefährdung der öffentlichen Gesundheit nicht möglich ist.
-
-<sup>2</sup> Für öffentliche Brunnen an Kantonsstrassen kann unter speziellen Bedingungen ein verminderter Abstand bewilligt werden.
-
-<sup>3</sup> Bei den übrigen Strassen kann der Strasseneigentümer weitere Ausnahmen von der Abstandsvorschrift bewilligen oder er kann generelle Vorschriften mit reduzierter Abstandsgrenze aufstellen.
-
-<sup>4</sup> Es kann auch die Zurücksetzung bereits bestehender Anlagen auf den vorgeschriebenen Abstand verlangt werden. Die Kosten gehen unter Vorbehalt besonderer Abmachungen und Verpflichtungen zu Lasten des Strasseneigentümers.
+**…**
 
 #### Art. 59
 
@@ -496,13 +471,13 @@ folgende Verordnung:
 
 #### Art. 61
 
-<sup>1</sup> Längs der öffentlichen Strassen und Wege dürfen tote Häge die Höhe von zwei Meter, Lebhäge die Höhe von einem Meter nicht übersteigen. Tote Häge dürfen auf die Strassenmark gestellt werden; neuzuerstellende Lebhäge haben einen Abstand von dreissig Zentimeter von der Strassenmark einzuhalten. Stacheldrahtzäune sind Strassen und Wegen entlang verboten (Art. 105 EG zum ZGB).
+<sup>1</sup> Stacheldrahtzäune entlang von Strassen und Wegen sind verboten.
 
 <sup>2</sup> Die den Hauptstrassen entlang befindlichen Grünhäge sind vom Eigentümer alljährlich ein- bis zweimal, auf vom Strasseneigentümer zu erlassende Aufforderung hin, gegen die Strasse zu und in der Höhe gehörig zu beschneiden. Hinsichtlich der Grünhäge an Kantonsstrassen geschieht die Aufforderung durch das zuständige Departement im Amtsblatt.
 
 <sup>3</sup> Die Hagpflicht an öffentlichen Strassen und Wegen ist Sache des Anstössers, sofern eine Einfriedung notwendig ist und Vertrag und Herkommen nicht etwas anderes bestimmen (Art. 106 EG zum ZGB).
 
-<sup>4</sup> Für Einfriedungen in Kurven und unübersichtlichen Strassenstellen kann der Strasseneigentümer von Fall zu Fall weitergehende Bestimmungen aufstellen. Der Strasseneigentümer trägt die Mehrkosten bezüglicher, von ihm speziell verlangter Massnahmen.
+<sup>4</sup> …
 
 #### Art. 62
 
@@ -634,6 +609,8 @@ geändert durch
 
 \- das Allgemeine Gebührengesetz vom 21. April 2005, in Kraft seit 1. Juli 2005 (OGS 2005, 29),
 
-\- das Gesetz über die Bereinigung der amtlichen Gesetzessammlung (Bereinigungsgesetz II) vom 15. März 2007, in Kraft seit 1. August 2007 (OGS 2007, 13)
+\- das Gesetz über die Bereinigung der amtlichen Gesetzessammlung (Bereinigungsgesetz II) vom 15. März 2007, in Kraft seit 1. August 2007 (OGS 2007, 13),
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 1943, 37
