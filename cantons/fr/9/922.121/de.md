@@ -3,13 +3,12 @@ canton: FR
 number: "922.121"
 title: Verordnung ILFD über die Teilprüfungen der Fähigkeitsprüfung für die Jagd und die Bedingungen für den Prüfungserfolg
 language: de
-version: 2021-11-01
-valid_until: 2026-02-28
-version_adopted: 2021-10-21
+version: 2026-03-01
+version_adopted: 2026-02-25
 adopted: 2021-10-21
 in_force: 2021-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.121"
-pdf: "https://bdlf.fr.ch/api/de/versions/7256/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7256/pdf_file"
 
 Fähigkeitsprüfung für die Jagd, Teilprüfungen und Bedingungen für den Prüfungserfolg – V
 
-vom 21.10.2021 (Fassung in Kraft getreten am 01.11.2021)
+vom 21.10.2021 (Fassung in Kraft getreten am 01.03.2026)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
@@ -120,14 +119,14 @@ beschliesst:
 <tr><th>Disziplin</th><th>Anforderungen</th></tr>
 <tr><td>Umgang mit der Waffe und Sicherheitsmassnahmen</td><td>Die Handhabung einer Waffe mit glattem Lauf und die Kenntnis der Sicherheitsmassnahmen ergeben eine Wertung von höchstens 6 Punkten. Die Disziplin gilt als bestanden, wenn mindestens 4 Punkte erreicht wurden; jede richtige Antwort gibt einen Punkt.</td></tr>
 <tr><td>Bestimmen von Tieren</td><td>Bestimmen von mindestens 4 von 6 präparierten Tieren (alle Tierarten, die im Buch «Jagen in der Schweiz» erwähnt sind). Die Disziplin gilt als bestanden, wenn mindestens 4 Punkte erreicht wurden; jede richtige Antwort gibt einen Punkt.</td></tr>
-<tr><td>Schätzen von Entfernungen</td><td>Schätzen der Entfernungen, in denen präparierte Tiere aufgestellt sind (von 10 bis 200 m), mit einer zulässigen Abweichung von 10 % bis 50 m und von 15 % für Distanzen über 50 m. Das Schätzen von Entfernungen kann auch unter Verwendung von Tier-Silhouetten durchgeführt werden. Es müssen mindestens 2 Punkte erreicht werden; jede richtige Antwort gibt einen Punkt. Das Schätzen der Entfernungen gibt maximal 4 Punkte.</td></tr>
+<tr><td>Schätzen von Entfernungen</td><td>Schätzen der Entfernungen, in denen präparierte Tiere aufgestellt sind (von 10 bis 70 m), mit einer zulässigen Abweichung von 10 % bis 50 m und von 15 % für Distanzen über 50 m. Das Schätzen von Entfernungen kann auch unter Verwendung von Tier-Silhouetten durchgeführt werden. Es müssen mindestens 2 Punkte erreicht werden; jede richtige Antwort gibt einen Punkt. Das Schätzen der Entfernungen gibt maximal 4 Punkte.</td></tr>
 </table>
 
 #### Art. 6
 
 **Waffen und Munition**
 
-<sup>1</sup> Alle Waffenarten, die bei der Jagd im Kanton Freiburg erlaubt sind, sind zugelassen. Die Waffen müssen in gutem Zustand sein. Jede Waffe, die in einem die Sicherheit gefährdenden Zustand ist oder schlecht funktioniert, wird zurückgewiesen.
+<sup>1</sup> Alle Waffenarten mit glattem Lauf, die bei der Jagd im Kanton Freiburg erlaubt sind, sind zugelassen. Die Waffen müssen in gutem Zustand sein. Jede Waffe, die in einem die Sicherheit gefährdenden Zustand ist oder schlecht funktioniert, wird zurückgewiesen.
 
 <sup>2</sup> Die Munition für das Schiessen mit der Waffe mit glattem Lauf wird gegen Bezahlung im Stand abgegeben.
 
@@ -159,7 +158,10 @@ beschliesst:
   - 6\. Munition: Mindestkaliber 6,5 mm; Jagdmunition (Teilmantelgeschosse);
   - 7\. die Auftreffpunkte werden der Schützin oder dem Schützen nicht angezeigt;
   - 8\. Treffer: wird gezählt, wenn der Schuss im Feld «10», «9» oder «8» liegt; jeder Treffer gilt als 1 Punkt.
-- b) Umgang mit der Waffe und Sicherheitsmassnahmen: Handhabung einer Waffe mit gezogenem Lauf, mit einer Wertung von höchstens 6 Punkten.
+- b) Umgang mit der Waffe und Sicherheitsmassnahmen: Handhabung einer Waffe mit gezogenem Lauf, mit einer Wertung von höchstens 6 Punkten;
+- c) Schätzung der Entfernungen, in der sich die Ziele befinden (von 10 bis 250 m), mit einer Abweichung von 10 % bis zu 50 m und von 15 % darüber hinaus. Für die Schätzung der Entfernungen gibt es maximal 4 Punkte.
+
+<sup>2</sup> Der Gebrauch von Feldstechern und von Zielfernrohren ist gestattet. Der Gebrauch von elektronischen Entfernungsmessern und anderen optischen Instrumenten ist streng verboten (Neutralisierung des elektronischen Systems).
 
 #### Art. 9
 
@@ -173,9 +175,12 @@ beschliesst:
 
 **Bedingungen für den Prüfungserfolg**
 
-<sup>1</sup> Die Zusatzprüfung gilt als bestanden, wenn die Kandidatin oder der Kandidat im Schiessen 6 Punkte, jedoch mindestens einen Treffer pro Scheibe, und im Umgang mit der Waffe 4 Punkte erzielt.
+<sup>1</sup> Die Zusatzprüfung gilt als bestanden, wenn die Kandidatin oder der Kandidat im Schiessen 6 Punkte, jedoch mindestens einen Treffer pro Scheibe, und im Umgang mit der Waffe 4 Punkte und für die Schätzung der Distanzen 2 Punkte erzielt.
 
-<sup>2</sup> Kandidatinnen und Kandidaten, welche die Mindestanforderung nicht erfüllen, können sämtliche Disziplinen während der gleichen Zusatzprüfungssession einmal wiederholen.
+<sup>2</sup> Kandidatinnen und Kandidaten, welche die Mindestanforderung nicht erfüllen, können die Disziplinen einmalig während der gleichen Zusatzprüfungssession unter folgenden Bedingungen wiederholen:
+
+- a) Bei Nichtbestehen einer der Disziplinen der Schiessprüfung oder der Handhabung einer Waffe müssen beide Disziplinen wiederholt werden;
+- b) Bei Nichtbestehen der Disziplin der Schätzung der Entfernungen muss nur diese Disziplin wiederholt werden.
 
 ### 2.3.3 Gemeinsame Bestimmungen
 

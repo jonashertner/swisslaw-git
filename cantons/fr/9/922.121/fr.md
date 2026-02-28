@@ -3,13 +3,12 @@ canton: FR
 number: "922.121"
 title: "Ordonnance DIAF concernant les épreuves et les conditions de réussite de l'examen d'aptitude à la chasse"
 language: fr
-version: 2021-11-01
-valid_until: 2026-02-28
-version_adopted: 2021-10-21
+version: 2026-03-01
+version_adopted: 2026-02-25
 adopted: 2021-10-21
 in_force: 2021-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.121"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7256/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8432/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7256/pdf_file"
 
 Examen d'aptitude à la chasse, épreuves et conditions de réussite – O
 
-du 21.10.2021 (version entrée en vigueur le 01.11.2021)
+du 21.10.2021 (version entrée en vigueur le 01.03.2026)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -120,14 +119,14 @@ Adopte ce qui suit:
 <tr><th>Discipline</th><th>Exigences</th></tr>
 <tr><td>Maniement de l'arme et mesures de sécurité</td><td>Manipulation d'une arme à canon lisse et mesures de sécurité donnant droit à 6 points au maximum. L'exigence minimale pour avoir réussi est de 4 points, chaque réponse correcte donne droit à 1 point.</td></tr>
 <tr><td>Identification d'animaux</td><td>Identification d'au moins 4 des 6 animaux naturalisés (toutes les espèces mentionnées dans le livre «Chasser en Suisse»). L'exigence minimale pour avoir réussi est de 4 points, chaque réponse correcte donne droit à 1 point.</td></tr>
-<tr><td>Estimation de distances</td><td>Estimation des distances auxquelles des animaux sont placés (de 10 à 200 mètres), avec un écart de 10 % jusqu'à 50 mètres et de 15 % au-delà. L'estimation des distances peut aussi se faire sur des silhouettes d'animaux. L'exigence minimale est de 2 points, chaque réponse correcte donne droit à 1 point. L'estimation des distances donne droit à 4 points au maximum.</td></tr>
+<tr><td>Estimation de distances</td><td>Estimation des distances auxquelles des animaux sont placés (de 10 à 70 mètres), avec un écart de 10 % jusqu'à 50 mètres et de 15 % au-delà. L'estimation des distances peut aussi se faire sur des silhouettes d'animaux. L'exigence minimale est de 2 points, chaque réponse correcte donne droit à 1 point. L'estimation des distances donne droit à 4 points au maximum.</td></tr>
 </table>
 
 #### Art. 6
 
 **Armes et munitions**
 
-<sup>1</sup> Tous les types d'armes autorisés pour la chasse dans le canton de Fribourg sont admis. Les armes doivent être en bon état; toute arme dangereuse ou dont le fonctionnement est douteux est refusée.
+<sup>1</sup> Tous les types d'armes à canon lisse autorisés pour la chasse dans le canton de Fribourg sont admis. Les armes doivent être en bon état; toute arme dangereuse ou dont le fonctionnement est douteux est refusée.
 
 <sup>2</sup> Pour le tir avec l'arme à canon lisse, la munition est fournie contre paiement au stand de tir.
 
@@ -159,7 +158,10 @@ Adopte ce qui suit:
   - 6\. munition: calibre minimal de 6,5 mm; munition de chasse (balles mi-blindées);
   - 7\. les points d'impact ne sont pas indiqués aux personnes candidates;
   - 8\. touchés: il y a touché lorsque le coup atteint le «10», le «9» ou le «8»; chaque touché donne droit à 1 point;
-- b) maniement de l'arme et mesures de sécurité: manipulation d'une arme à canon rayé, donnant droit à 6 points au maximum.
+- b) maniement de l'arme et mesures de sécurité: manipulation d'une arme à canon rayé, donnant droit à 6 points au maximum;
+- c) estimation des distances auxquelles des cibles sont placées (de 10 à 250 mètres), avec un écart de 10 % jusqu'à 50 mètres et de 15 % au-delà. L'estimation des distances donne droit à 4 points au maximum.
+
+<sup>2</sup> L'utilisation de jumelles et de lunettes de visée est autorisée. L'utilisation des appareils électroniques de mesures de distance et d'autres instruments optiques est strictement interdite (neutralisation du système électronique).
 
 #### Art. 9
 
@@ -173,9 +175,12 @@ Adopte ce qui suit:
 
 **Conditions de réussite**
 
-<sup>1</sup> L'examen complémentaire est réputé réussi lorsque le candidat ou la candidate obtient 6 points au tir, mais au moins un touché par cible, et 4 points au maniement de l'arme.
+<sup>1</sup> L'examen complémentaire est réputé réussi lorsque le candidat ou la candidate obtient 6 points au tir, mais au moins un touché par cible, 4 points au maniement de l'arme et 2 points à l'estimation des distances.
 
-<sup>2</sup> Le candidat ou la candidate qui n'atteint pas l'exigence minimale peut répéter la totalité des disciplines, une seule fois, lors de la même session d'examen complémentaire.
+<sup>2</sup> Le candidat ou la candidate qui n'atteint pas l'exigence minimale peut répéter les disciplines, une seule fois, lors de la même session d'examen complémentaire, selon les modalités suivantes:
+
+- a) en cas d'échec dans une des disciplines de l'épreuve de tir ou de maniement de l'arme, les deux disciplines devront être répétées;
+- b) en cas d'échec dans la discipline de l'estimation de distance, seule cette discipline devra être répétée.
 
 ### 2.3.3 Dispositions communes
 
