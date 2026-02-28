@@ -4,13 +4,12 @@ number: "780.1"
 title: Mobilitätsgesetz
 short: MobG
 language: de
-version: 2024-03-01
-valid_until: 2026-02-28
-version_adopted: 2023-11-24
+version: 2026-03-01
+version_adopted: 2025-12-19
 adopted: 2021-11-05
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/780.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7955/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mobilität – G
 
 (MobG)
 
-vom 05.11.2021 (Fassung in Kraft getreten am 01.03.2024)
+vom 05.11.2021 (Fassung in Kraft getreten am 01.03.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1068,6 +1067,8 @@ beschliesst:
 <sup>1</sup> Massnahmen zur Verkehrsberuhigung und Geschwindigkeitsbeschränkung müssen grundsätzlich Teil eines Gesamtkonzepts sein und in den Gemeinderichtplan integriert werden.
 
 <sup>2</sup> Bei Projekten zur Neugestaltung von Ortsdurchfahrten auf Kantons- und Gemeindestrassen wird im Besonderen darauf geachtet, dass die vom Verkehr verursachten Belastungen und Konflikte reduziert und die Qualität des öffentlichen Raums verbessert werden.
+
+<sup>3</sup> Auf Kantonsstrassen gilt aufgrund ihrer Funktion im Strassennetz grundsätzlich eine minimale Höchstgeschwindigkeit von 50 km/h. Abweichungen davon sind nur in den besonderen Fällen gemäss Bundesgesetzgebung möglich.
 
 ### 4.1.1.5 Verfahren
 

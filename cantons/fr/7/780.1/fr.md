@@ -4,13 +4,12 @@ number: "780.1"
 title: Loi sur la mobilité
 short: LMob
 language: fr
-version: 2024-03-01
-valid_until: 2026-02-28
-version_adopted: 2023-11-24
+version: 2026-03-01
+version_adopted: 2025-12-19
 adopted: 2021-11-05
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/780.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7955/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8383/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Mobilité – L
 
 (LMob)
 
-du 05.11.2021 (version entrée en vigueur le 01.03.2024)
+du 05.11.2021 (version entrée en vigueur le 01.03.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1068,6 +1067,8 @@ Décrète:
 <sup>1</sup> Les mesures de modération du trafic ou de la vitesse doivent en principe s'inscrire dans un concept global et être intégrées au plan directeur communal.
 
 <sup>2</sup> Pour les projets de réaménagement de traversées de localité sur routes cantonales et communales, une attention particulière est portée à leur valorisation pour réduire les nuisances et les conflits qu'engendre le trafic et pour améliorer la qualité de l'espace public.
+
+<sup>3</sup> En raison de leur fonction dans le réseau, la vitesse maximale est, en principe, maintenue à minimum 50 km/h sur les routes cantonales. Une dérogation à ce régime ne peut se faire que dans des cas particuliers prévus par la législation fédérale.
 
 ### 4.1.1.5 Procédure
 
