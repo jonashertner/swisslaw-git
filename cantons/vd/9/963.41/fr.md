@@ -4,7 +4,7 @@ number: "963.41"
 title: "LOI du 17.11.1952 concernant l'assurance des bâtiments et du mobilier contre l'incendie et les éléments naturels (LAIEN)"
 short: LAIEN
 language: fr
-version: 2016-07-01
+version: 2026-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.41?id=6752fd2c-215b-4dff-9bd6-e0e0587e2cd4"
 ---
 
@@ -66,7 +66,7 @@ décrète
 - 2\. du droit de timbre [^2-2] et du droit de mutation sur les transferts à titre onéreux des immeubles de placement [^2-3] ;
 - 3\. de l'impôt sur les gains immobiliers sur les immeubles de placement.
 
-<sup>3</sup> Si le résultat annuel net après affectation aux réserves et provisions nécessaires à l'accomplissement des tâches fixées à l'article 1a le permet, l'Etablissement versera à l'Etat un montant s'élevant au maximum à deux millions de francs, mais au minimum à 1 million de francs. Ces montants sont indexés selon l'article 25.
+<sup>3</sup> Si le résultat annuel net après affectation aux réserves et provisions nécessaires à l'accomplissement des tâches fixées à l'article 1a le permet, l'Etablissement versera à l'Etat un montant s'élevant au maximum à sept millions de francs, mais au minimum à 1 million de francs. Ce montant est indexé selon l'article 25.
 
 <sup>4</sup> La fortune de l'Etablissement est indépendante de celle de l'Etat (Cst. art. 50 al. 2 [^2-4] ).
 
