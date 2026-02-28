@@ -4,13 +4,12 @@ number: "131.4"
 title: Gesetz über die Harmonisierung der amtlichen Register
 short: "kantonales Registerharmonisierungsgesetz, kRHG"
 language: de
-version: 2023-09-01
-valid_until: 2026-02-28
-version_adopted: 2023-06-30
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 2008-12-04
 in_force: 2009-01-15
 url: "http://gdb.ow.ch/app/de/texts_of_law/131.4"
-pdf: "http://gdb.ow.ch/api/de/versions/1827/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1978/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1827/pdf_file"
 
 (kantonales Registerharmonisierungsgesetz, kRHG)
 
-vom 04.12.2008 (Stand 01.09.2023)
+vom 04.12.2008 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -171,11 +170,9 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinden führen nach den Vorgaben des Bundes und des Kantons ein anerkanntes Gebäude- und Wohnungsregister (GWR) mit einem Strassenverzeichnis auf einer gemeinsamen Datenplattform.
 
-<sup>2</sup> Das Baugesetz[^12-1] regelt die Nachführung des Gebäude- und Wohnungsregisters.
+<sup>2</sup> Sie führen die Neu- und Umbauten sowie Gebäudeabbrüche laufend im Gebäude- und Wohnungsregister (GWR) nach und können zur Bestimmung und Nachführung des Wohnungsidentifikators auf Kosten der Eigentümerinnen und Eigentümer eine physische Wohnungsnummerierung einführen.
 
 <sup>3</sup> Im anerkannten Gebäude- und Wohnungsregister werden Gebäude mit und ohne Wohnnutzung, provisorische Unterkünfte sowie Sonderbauten gemäss den Definitionen und Anforderungen des Merkmalkatalogs des eidgenössischen Gebäude- und Wohnungsregisters geführt. Der Regierungsrat kann die Führung zusätzlicher Merkmale vorsehen.
-
-[^12-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 13
 
@@ -235,6 +232,8 @@ Ursprüngliches Inkrafttreten: 15. Januar 2009 (OGS 2009, 2)
 
 Geändert durch:
 
-\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
+\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26),
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 2008, 109
