@@ -4,13 +4,12 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2026-01-01
-valid_until: 2026-02-28
+version: 2026-03-01
 version_adopted: 2025-11-11
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/5605/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5606/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5605/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.01.2026)
+Vom 08.03.2016 (Stand 01.03.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -947,7 +946,13 @@ beschliesst:
 
 **Bauen ausserhalb der Bauzone**
 
-<sup>1</sup> Die Gebühren für die Bewilligung zum Bauen ausserhalb der Bauzone betragen 50-700 Franken.
+<sup>1</sup> Die Gebühren für die Bewilligung zum Bauen ausserhalb der Bauzone betragen 100-5'000 Franken.
+
+#### § 76bis
+
+**Departement als Baubehörde**
+
+<sup>1</sup> Die Gebühren für Entscheide des Departementes als Baubehörde betragen 100-7'000 Franken.
 
 #### § 77
 
@@ -1274,20 +1279,20 @@ beschliesst:
   - 2\. Mindestgebühr — 100
 - c) Entnahme von Grund- und Quellwasser. Kategorie A: private Nutzung als Trinkwasser
   - 1\. Wasserrechtszins, pro Minutenliter — 4
-  - 2\. Wasserverbrauchszins, pro m³ — -.02
+  - 2\. Wasserverbrauchszins, pro m³ — -.03
   - 3\. Mindestgebühr — 300
 - d) Entnahme von Grund- und Quellwasser. Kategorie B: öffentliche Nutzung als Trinkwasser
   - 1\. Wasserrechtszins, pro Minutenliter — 1.50
-  - 2\. Wasserverbrauchszins, pro m³ — -.015
+  - 2\. Wasserverbrauchszins, pro m³ — -.025
   - 3\. Mindestgebühr — 100
 - e) Wird die Fassung nach Buchstaben c und d allein für die Trinkwasserversorgung in Notlagen betriebsbereit gehalten, können Wasserrechts- wie Wasserverbrauchszins reduziert werden.
 - f) Entnahme von Grund- und Quellwasser. Kategorie C: Nutzung für industrielle und gewerbliche Zwecke
   - 1\. Wasserrechtszins, pro Minutenliter — 4
-  - 2\. Wasserverbrauchszins, pro m³ — -.02
+  - 2\. Wasserverbrauchszins, pro m³ — -.03
   - 3\. Mindestgebühr — 400
 - g) Entnahme von Grund- und Quellwasser. Kategorie D: Nutzung für Wärmepumpe (heizen oder kühlen) bei Wiederversickerung
   - 1\. Wasserrechtszins, pro Minutenliter — 1
-  - 2\. Wasserrechtszins, pro m³ — -.005
+  - 2\. Wasserrechtszins, pro m³ — -.015
   - 3\. Mindestgebühr — 300
 - h) Entnahme von Grund- und Quellwasser. Kategorie E: Nutzung zur Bewässerung von landwirtschaftlichen Kulturen
   - 1\. Wasserrechtszins, pro Minutenliter — 4
@@ -1299,7 +1304,7 @@ beschliesst:
 - j) Betrieb von Wärmepumpenanlagen durch Oberflächenwasser
   - 1\. pro MJ/h — 1
 - k) Entnahme von Wasser zur Kühlung von Kernkraftwerken
-  - 1\. pro m³ verdunstetes Wasser (Differenz zwischen Wasserentnahme und Wasserrückgabe) — -.22
+  - 1\. pro m³ verdunstetes Wasser (Differenz zwischen Wasserentnahme und Wasserrückgabe) — -.30
 - l) Schiffshäuser und andere Bauten
   - 1\. pro m² beanspruchte Wasserfläche — 12
   - 2\. Mindestgebühr — 240
@@ -1310,8 +1315,8 @@ beschliesst:
   - 1\. je Anbindestelle — 120
 - o) pro Schiff
   - 1\. ohne Motor — 100
-  - 2\. mit Motorenleistung bis 6 kW — 150
-  - 3\. mit höherer Motorenleistung — 250
+  - 2\. mit Motorenleistung bis 6 kW — 250
+  - 3\. mit höherer Motorenleistung — 350
 
 <sup>2</sup> Einmalige Nutzungsgebühren
 
@@ -1360,7 +1365,8 @@ beschliesst:
 
 - a) Kontrolle und Erlass einer Verfügung — 100-10'000
 - b) Emissions- und Immissionsmessungen — 100-30'000
-- c) Ausbildung und Beratung der Feuerungskontrolleure und Feuerungskontrolleurinnen, pro Kontrolle — 5
+- c) Ausbildung und Beratung der Feuerungskontrolleure und Feuerungskontrolleurinnen, pro Kontrolle — 10
+- d) aufwändige Beratungen für Inhaber und Inhaberinnen einer Anlage sowie beauftragte Dritte gemäss LRV — 100-1'000
 
 <sup>5</sup> Für Tätigkeiten nach der eidgenössischen Lärmschutz-Verordnung (LSV) vom 15. Dezember 1986[^106-4] und der eidgenössischen Verordnung über den Schutz des Publikums von Veranstaltungen vor gesundheitsgefährdenden Schalleinwirkungen und Laserstrahlen (Schall- und Laserverordnung, SLV) vom 28. Februar 2007[^106-5] sind folgende Gebühren geschuldet:
 
