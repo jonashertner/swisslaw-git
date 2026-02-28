@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sui documenti d’identità e dell’ordinanza del DFGP sui documenti d’identità dei cittadini svizzeri in vista dell’introduzione della carta d’identità con microchip
 document: Progetto posto in consultazione-2
 language: it

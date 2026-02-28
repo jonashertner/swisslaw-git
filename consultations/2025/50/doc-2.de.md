@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Ausweisverordnung und der Verordnung des EJPD über die Ausweise für Schweizer Staatsangehörige zur Einführung der Identitätskarte mit Datenchip
 document: Vernehmlassungsvorlage
 language: de

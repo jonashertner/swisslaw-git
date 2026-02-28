@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les documents d’identité et de l’ordonnance du DFJP sur les documents d’identité des ressortissants suisses en vue de l’introduction de la carte d’identité munie d’une puce
 document: Projet mis en consultation
 language: fr
