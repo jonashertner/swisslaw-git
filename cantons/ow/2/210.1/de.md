@@ -4,13 +4,12 @@ number: "210.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2026-01-01
-valid_until: 2026-02-28
-version_adopted: 2025-10-23
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 1911-04-30
 in_force: 1912-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/210.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1950/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1987/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1950/pdf_file"
 
 (EG ZGB)
 
-vom 30.04.1911 (Stand 01.01.2026)
+vom 30.04.1911 (Stand 01.03.2026)
 
 Die Landsgemeinde des Kantons Unterwalden ob dem Wald,
 
@@ -632,6 +631,12 @@ erlässt folgendes Gesetz:
 
 <sup>1</sup> Fundanzeigen (720) sind an den Einwohnergemeindepräsidenten zu richten. Derselbe ordnet dann nötigenfalls auch die Versteigerung an (721).
 
+#### Art. 103a
+
+**Bergregal**
+
+<sup>1</sup> Der Regierungsrat ist zuständig für die Genehmigung des gewerbsmässigen Abbaus von Steinen und Erden.
+
 ### 2.4.2. Nachbarrecht
 
 #### Art. 104
@@ -899,15 +904,9 @@ erlässt folgendes Gesetz:
 
 <sup>2</sup> Bei Enteignung von Wasserkräften kann, wo die besondern Umstände dies als angezeigt erscheinen lassen, die Entschädigung ganz oder teilweise durch Zuweisung von elektrischer Kraft geleistet werden.
 
-#### Art. 135
+#### Art. 135–136
 
 **…**
-
-#### Art. 136
-
-**Anbringen von Bezeichnungstafeln**
-
-<sup>1</sup> Die Gemeinde- und Ortsgemeindebehörden sind berechtigt, auf Privatgrundstücken oder an Privatbauten Tafeln mit Strassennamen, Höhenbezeichnungen, Vermessungs-Versicherungspunkte, Angaben betreffend Wasser- und Lichtleitungen, sowie öffentliche Beleuchtungsvorrichtungen und dgl. anzubringen, ohne dass dafür Entschädigung verlangt werden kann. Billige Wünsche der betreffenden Eigentümer über die Art und Weise der Anbringung derartiger Einrichtungen sind tunlichst zu berücksichtigen. In Streitfällen entscheidet der Regierungsrat.
 
 #### Art. 137
 
@@ -925,15 +924,9 @@ erlässt folgendes Gesetz:
 
 <sup>3</sup> Die auf Grundlage dieses Artikels erlassenen Vorschriften unterliegen der Genehmigung des Regierungsrates.
 
-#### Art. 138–139
+#### Art. 138–140
 
 **…**
-
-#### Art. 140
-
-**Entschädigung bei veränderten Abstandsgrenzen**
-
-<sup>1</sup> Wird bei der Wiederherstellung abgetragener oder abgebrannter Gebäude in Dörfern der Baugrundeigentümer zu einer veränderten Abstandsgrenze verhalten, so dass dadurch die bisherige Baufläche eine wesentliche Wertverminderung erleidet, so hat er ein Anrecht auf Entschädigung. Die Entschädigung kann auch durch Überlassung von hinter dem Grundstück gelegenem Land geleistet werden.
 
 ### 2.5. Grundpfandrecht: Zinsfuss, Schatzung, Belastungsgrenze und Kündigung
 
@@ -1229,6 +1222,8 @@ geändert durch:
 
 \- Nachtrag vom 27. Januar 2022 (OGS 2022, 1), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Kantonsratssitzungen vom 2. Dezember 2021 und 27. Januar 2022 (22.21.04), in Kraft seit 1. April 2022 (OGS 2022, 5),
 
-\- das Gesetz über das Amtsblatt und die Gesetzessammlungen vom 23. Oktober 2025 (OGS 2025, 18), Botschaft und Vorlage des Regierungsrats vom 3. Juni 2005, Kantonsratssitzungen vom 11. September und 23. Oktober 2025 (22.25.04), in Kraft seit 1. Januar 2026 (OGS 2025, 23)
+\- das Gesetz über das Amtsblatt und die Gesetzessammlungen vom 23. Oktober 2025 (OGS 2025, 18), Botschaft und Vorlage des Regierungsrats vom 3. Juni 2005, Kantonsratssitzungen vom 11. September und 23. Oktober 2025 (22.25.04), in Kraft seit 1. Januar 2026 (OGS 2025, 23),
+
+\- das Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 1922, 6
