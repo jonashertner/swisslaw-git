@@ -4,36 +4,36 @@ number: "812.201"
 title: Verordnung über den Verkehr mit Heilmitteln
 short: "Heilmittelverordnung, HMV"
 language: de
-version: 2023-07-01
-corrected: 2024-06-17
-version_adopted: 2023-06-20
+version: 2026-03-01
+version_adopted: 2026-02-10
 adopted: 2016-07-05
 in_force: 2016-07-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/812.201"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/251/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2072/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Verkehr mit Heilmitteln (Heilmittelverordnung, HMV)
+# Verordnung über den Verkehr mit Heilmitteln
 
-vom 5. Juli 2016
+(Heilmittelverordnung, HMV)
+
+Vom 05.07.2016 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf das Heilmittelgesetz vom 15. Dezember 2000 (HMG)[^t-1], das Medizinalberufegesetz vom 23. Juni 2006 (MedBG)[^t-2], das Betäubungsmittelgesetz vom 3. Oktober 1951 (BetmG)[^t-3] und in Ausführung von Art. 21 und 51 des Gesundheitsgesetzes vom 21. Mai 2012 (GesG)[^t-4],
+gestützt auf das Heilmittelgesetz vom 15. Dezember 2000 (HMG)[^ingress-1], das Medizinalberufegesetz vom 23. Juni 2006 (MedBG)[^ingress-2], das Betäubungsmittelgesetz vom 3. Oktober 1951 (BetmG)[^ingress-3] und in Ausführung von Art. 21 und 51 des Gesundheitsgesetzes vom 21. Mai 2012 (GesG)[^ingress-4],
 
-verordnet:
+beschliesst:
 
-[^t-1]: HMG: SR 812.21.
-[^t-2]: MedBG: SR 811.11.
-[^t-3]: BetmG: SR 812.121.
-[^t-4]: GesG: SHR 810.100.
+[^ingress-1]: SR [812.21](http://db.clex.ch/link/Bund/812.21/de).
+[^ingress-2]: SR [811.11](http://db.clex.ch/link/Bund/811.11/de).
+[^ingress-3]: SR [812.121](http://db.clex.ch/link/Bund/812.121/de).
+[^ingress-4]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
 
-### I. Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
-#### § 1
+#### Art. 1
 
 **Geltungsbereich**
 
@@ -41,23 +41,21 @@ verordnet:
 
 <sup>2</sup> Diese Verordnung gilt auch für Tierarzneimittel, vorbehältlich abweichender Bestimmungen der Tierarzneimittelverordnung vom 18. August 2004 (TAMV)[^1-1].
 
-[^1-1]: TAMV: SR 812.212.27.
+[^1-1]: SR [812.212.27](http://db.clex.ch/link/Bund/812.212.27/de).
 
-#### § 2
+#### Art. 2
 
 **Bewilligungen**
 
-Für die Erteilung, den Entzug, die Beendigung und das Erlöschen der heilmittelrechtlichen Bewilligungen gelten die allgemeinen Bestimmungen des GesG und der Verordnung zum Gesundheitsgesetz vom 26. Februar 2013 (GesV)[^2-1] für die Berufe im Gesundheitswesen.
+<sup>1</sup> Für die Erteilung, den Entzug, die Beendigung und das Erlöschen der heilmittelrechtlichen Bewilligungen gelten die allgemeinen Bestimmungen des GesG und der Verordnung zum Gesundheitsgesetz vom 26. Februar 2013 (GesV)[^2-1] für die Berufe im Gesundheitswesen.
 
-Amtsblatt 2016, S. 1019
+[^2-1]: SHR [810.102](https://rechtsbuch.sh.ch/data/810.102/de).
 
-[^2-1]: GesV: SHR 810.102.
+## 2 Heilmittel
 
-### II. Heilmittel
+### 2.1 Arzneimittel
 
-- 1\. Arzneimittel
-
-#### § 3
+#### Art. 3
 
 **Bewilligung zur Herstellung von Arzneimitteln**
 
@@ -69,47 +67,43 @@ Amtsblatt 2016, S. 1019
 
 <sup>4</sup> Die Kantonale Heilmittelkontrolle führt ein Verzeichnis der gemeldeten Hausspezialitäten. Sie löscht diese nach zehn Jahren aus dem Verzeichnis. Soll die Hausspezialität über diesen Zeitpunkt hinaus defekturmässig hergestellt werden, ist eine erneute Meldung erforderlich.
 
-#### § 4
+#### Art. 4
 
 **Versandhandelsbewilligung**
 
-Das Departement des Innern bewilligt den Versandhandel mit Arzneimitteln, wenn die Voraussetzungen des HMG1) und der Verordnung über die Arzneimittel vom 17. Oktober 2001 (VAM)[^4-1] erfüllt sind.
+<sup>1</sup> Das Departement des Innern bewilligt den Versandhandel mit Arzneimitteln, wenn die Voraussetzungen des HMG[^4-1] und der Verordnung über die Arzneimittel vom 17. Oktober 2001 (VAM)[^4-2] erfüllt sind.
 
-[^4-1]: VAM: SR 812.212.21.
+[^4-1]: SR [812.21](http://db.clex.ch/link/Bund/812.21/de).
+[^4-2]: SR [812.212.21](http://db.clex.ch/link/Bund/812.212.21/de).
 
-#### § 5
+#### Art. 5
 
 **Bewilligung zur Lagerung von Blut und Blutprodukten**
 
-Das Departement des Innern erteilt Betrieben die Bewilligung zur Lagerung von Blut und Blutprodukten, wenn diese nachweisen, dass:
+<sup>1</sup> Das Departement des Innern erteilt Betrieben die Bewilligung zur Lagerung von Blut und Blutprodukten, wenn diese nachweisen, dass:
 
-- a) die für die Lagerung verantwortliche Person über die notwendige Sachkenntnis und Erfahrung verfügt;
+- a) die für die Lagerung verantwortliche Person über die notwendige Sachkenntnis und Erfahrung verfügt
+- b) sie die geeigneten qualitätssichernden Massnahmen ergreifen, um den sachgemässen Umgang mit Blut und Blutprodukten sicherzustellen (Regeln der Guten Herstellungspraxis GMP; Art. 37 Abs. 1 HMG[^5-1]
+- c) geeignete Räumlichkeiten und Einrichtungen vorhanden sind
 
-- b) sie die geeigneten qualitätssichernden Massnahmen ergreifen, um den sachgemässen Umgang mit Blut und Blutprodukten sicherzustellen (Regeln der Guten Herstellungspraxis GMP; Art.
+[^5-1]: SR [812.21](http://db.clex.ch/link/Bund/812.21/de).
 
-37 Abs. 1 HMG[^5-1]);
-
-- c) geeignete Räumlichkeiten und Einrichtungen vorhanden sind.
-
-[^5-1]: HMG: SR 812.21.
-
-#### § 6
+#### Art. 6
 
 **Beschriftung der Arzneimittel**
 
 <sup>1</sup> Zusätzlich zu den in der Pharmakopöe vorgeschriebenen Kennzeichnungen sind:
 
-- a) Arzneimittel im Sinne der VAM[^6-1] so zu kennzeichnen, dass die Abgabestelle identifiziert ist;
-
-- b) Arzneimittel nach Formula magistralis mit dem Namen der Patientin oder des Patienten sowie dem Datum der Abgabe zu versehen.
+- a) Arzneimittel im Sinne der VAM[^6-1] so zu kennzeichnen, dass die Abgabestelle identifiziert ist
+- b) Arzneimittel nach Formula magistralis mit dem Namen der Patientin oder des Patienten sowie dem Datum der Abgabe zu versehen
 
 <sup>2</sup> Weitere Kennzeichnungen sind vorzunehmen, wenn das Rezept es anordnet.
 
-- 2\. Betäubungsmittel
+[^6-1]: SR [812.212.21](http://db.clex.ch/link/Bund/812.212.21/de).
 
-[^6-1]: VAM: SR 812.212.21.
+### 2.2 Betäubungsmittel
 
-#### § 7
+#### Art. 7
 
 **Behandlung Betäubungsmittelabhängiger**
 
@@ -119,41 +113,35 @@ Das Departement des Innern erteilt Betrieben die Bewilligung zur Lagerung von Bl
 
 <sup>3</sup> Das Departement des Innern kann Richtlinien über die Behandlung betäubungsmittelabhängiger Personen mit Betäubungsmitteln erlassen.
 
-[^7-1]: BetmSV: SR 812.121.6.
+[^7-1]: SR [812.121.6](http://db.clex.ch/link/Bund/812.121.6/de).
 
-#### § 8
+#### Art. 8
 
 **Verzeichnis und wissenschaftliche Auswertung**
 
 <sup>1</sup> Die Ärztinnen und Ärzte melden dem Kantonsärztlichen Dienst Beginn und Ende der Behandlung betäubungsmittelabhängiger Personen mit Betäubungsmitteln sowie die Personalien der zu Behandelnden. Der Kantonsärztliche Dienst führt ein Verzeichnis der Meldungen. Sofern medizinische Gründe es erfordern, kann er anderen Ärztinnen und Ärzten daraus Auskunft erteilen.
 
-<sup>2</sup> Verlauf und Ergebnisse der Behandlung betäubungsmittelabhängiger Personen mit Betäubungsmitteln sind wissenschaftlich zu prüfen. Die Ärztinnen, Ärzte und Institutionen melden der vom Departement des Innern beauftragten Auswertungsstelle die benötigten Da-
+<sup>2</sup> Verlauf und Ergebnisse der Behandlung betäubungsmittelabhängiger Personen mit Betäubungsmitteln sind wissenschaftlich zu prüfen. Die Ärztinnen, Ärzte und Institutionen melden der vom Departement des Innern beauftragten Auswertungsstelle die benötigten Daten anonymisiert.
 
-ten anonymisiert.
-
-#### § 9
+#### Art. 9
 
 **Lagerung**
 
-Betäubungsmittel müssen diebstahlsicher aufbewahrt werden. Die Kantonale Heilmittelkontrolle kann im Einzelfall weitergehende Sicherheitsvorkehrungen verlangen, wenn Betäubungsmittel in grossen Mengen gelagert werden.
+<sup>1</sup> Betäubungsmittel müssen diebstahlsicher aufbewahrt werden. Die Kantonale Heilmittelkontrolle kann im Einzelfall weitergehende Sicherheitsvorkehrungen verlangen, wenn Betäubungsmittel in grossen Mengen gelagert werden.
 
-### III. Rezepte
+## 3 Rezepte
 
-#### § 10
+#### Art. 10
 
 **Verschreibung von Heilmitteln**
 
 <sup>1</sup> Rezepte für Arzneimittel und Medizinprodukte sind gültig, wenn sie enthalten:
 
-- a) den Namen und Vornamen der ausstellenden Person sowie deren Praxis- oder Betriebsadresse in Druckschrift;
-
-- b) das Ausstellungsdatum und die Unterschrift der ausstellenden Person;
-
-- c) den Namen und Vornamen sowie das Geburtsdatum der Patientin oder des Patienten;
-
-- d) das Datum der Ausstellung;
-
-- e) die Art und Menge des abzugebenden Heilmittels sowie die Dosierung.
+- a) den Namen und Vornamen der ausstellenden Person sowie deren Praxis- oder Betriebsadresse in Druckschrift
+- b) das Ausstellungsdatum und die Unterschrift der ausstellenden Person
+- c) den Namen und Vornamen sowie das Geburtsdatum der Patientin oder des Patienten
+- d) das Datum der Ausstellung
+- e) die Art und Menge des abzugebenden Heilmittels sowie die Dosierung
 
 <sup>2</sup> Rezepte für Arzneimittel und Medizinprodukte sind, wenn nichts anderes verordnet ist oder sich aus den Umständen ergibt, längstens sechs Monate, Dauerrezepte längstens ein Jahr gültig.
 
@@ -161,10 +149,10 @@ Betäubungsmittel müssen diebstahlsicher aufbewahrt werden. Die Kantonale Heilm
 
 <sup>4</sup> Für Rezepte für Tierarzneimittel gelten die Bestimmungen der TAMV[^10-2].
 
-[^10-1]: BetmKV: SR 812.121.1.
-[^10-2]: TAMV: SR 812.212.27.
+[^10-1]: SR [812.121.1](http://db.clex.ch/link/Bund/812.121.1/de).
+[^10-2]: SR [812.212.27](http://db.clex.ch/link/Bund/812.212.27/de).
 
-#### § 11
+#### Art. 11
 
 **Ausführung von Rezepten**
 
@@ -176,7 +164,7 @@ Betäubungsmittel müssen diebstahlsicher aufbewahrt werden. Die Kantonale Heilm
 
 <sup>4</sup> Auf Rezepten für verschreibungspflichtige Heilmittel sind bei jeder Abgabe der Name der Apotheke, die abgegebene Menge, das Visum der abgebenden Person und das Datum der Abgabe zu vermerken.
 
-#### § 12
+#### Art. 12
 
 **Dokumentation**
 
@@ -184,13 +172,13 @@ Betäubungsmittel müssen diebstahlsicher aufbewahrt werden. Die Kantonale Heilm
 
 <sup>2</sup> Wer ein verschreibungspflichtiges Arzneimittel ohne Rezept im Sinne von Art. 24 Abs. 1 Bst. a HMG[^12-1] abgibt, protokolliert dies analog nach Abs. 1 unter Angabe des Grundes.
 
-[^12-1]: HMG: SR 812.21.
+[^12-1]: SR [812.21](http://db.clex.ch/link/Bund/812.21/de).
 
-### IV. Detailhandelsgeschäfte
+## 4 Detailhandelsgeschäfte
 
-### 1. Gemeinsame Bestimmungen
+### 4.1 Gemeinsame Bestimmungen
 
-#### § 13
+#### Art. 13
 
 **Detailhandelsbewilligung**
 
@@ -200,33 +188,28 @@ Betäubungsmittel müssen diebstahlsicher aufbewahrt werden. Die Kantonale Heilm
 
 <sup>3</sup> Es werden für folgende Detailhandelsgeschäfte Bewilligungen erteilt:
 
-- a) öffentliche Apotheken;
-
-- b) ärztliche und zahnärztliche Praxisapotheken zur Abgabe von Arzneimitteln an Patientinnen und Patienten;
-
-- c) tierärztliche Praxisapotheken zur Abgabe von Arzneimitteln für Tiere und Tiergruppen;
-
-- d) Spitalapotheken und Apotheken von Heimen und Institutionen (wie Gefängnissen und Arbeitsstätten) zur Abgabe an Patientinnen und Patienten oder Heimbewohnerinnen und Heimbewohner;
-
-- e) Drogerien;
-
-- f) Fachpersonen der anerkannten Komplementär- und Alternativmedizin nach Art. 6 GesG[^13-1] mit einer Ausbildung, welche die Therapie mit komplementärmedizinischen Arzneimitteln beinhaltet;
-
-- g) weitere Abgabestellen wie Zoo- oder Imkerfachgeschäfte.
+- a) öffentliche Apotheken
+- b) ärztliche und zahnärztliche Praxisapotheken zur Abgabe von Arzneimitteln an Patientinnen und Patienten
+- c) tierärztliche Praxisapotheken zur Abgabe von Arzneimitteln für Tiere und Tiergruppen
+- d) Spitalapotheken und Apotheken von Heimen und Institutionen (wie Gefängnissen und Arbeitsstätten) zur Abgabe an Patientinnen und Patienten oder Heimbewohnerinnen und Heimbewohner
+- e) Drogerien
+- f) Fachpersonen der anerkannten Komplementär- und Alternativmedizin nach Art. 6 GesG[^13-2] mit einer Ausbildung, welche die Therapie mit komplementärmedizinischen Arzneimitteln beinhaltet
+- g) weitere Abgabestellen wie Zoo- oder Imkerfachgeschäfte
 
 <sup>4</sup> Die Bewilligung wird nur unter dem Vorbehalt einer erfolgreichen Inspektion der Räume, der Ausrüstung und des Qualitätssicherungssystems erteilt.
 
-[^13-1]: GesG: SHR 810.100.
+[^13-1]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
+[^13-2]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
 
-#### § 14
+#### Art. 14
 
-**Qualitäts-sicherung**
+**Qualitätssicherung**
 
-Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG[^14-1] unterhält ein geeignetes Qualitätssicherungssystem, das der Art, der Bedeutung und dem Umfang der durchzuführenden Arbeiten und Dienstleistungen angemessen ist.
+<sup>1</sup> Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG[^14-1] unterhält ein geeignetes Qualitätssicherungssystem, das der Art, der Bedeutung und dem Umfang der durchzuführenden Arbeiten und Dienstleistungen angemessen ist.
 
-[^14-1]: HMG: SR 812.21.
+[^14-1]: SR [812.21](http://db.clex.ch/link/Bund/812.21/de).
 
-#### § 15
+#### Art. 15
 
 **Räumlichkeiten und Einrichtungen**
 
@@ -236,9 +219,9 @@ Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG[^14-1] unterhält ein geei
 
 <sup>3</sup> Öffentliche Apotheken verfügen über einen separaten Raum für Herstellungstätigkeiten und analytische Arbeiten. Falls in Drogerien entsprechende Tätigkeiten vorgenommen werden, müssen sie auch über einen solchen Raum verfügen.
 
-[^15-1]: HyV: SR 817.024.1.
+[^15-1]: SR [817.024.1](http://db.clex.ch/link/Bund/817.024.1/de).
 
-#### § 16
+#### Art. 16
 
 **Fachlich verantwortliche Person**
 
@@ -248,10 +231,10 @@ Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG[^14-1] unterhält ein geei
 
 <sup>3</sup> Die fachlich verantwortliche Person übt die unmittelbare fachliche Aufsicht aus und stellt insbesondere den sachgemässen Umfang mit Arzneimitteln sicher. Sie ist in ihrem Tätigkeitsbereich weisungsbefugt.
 
-[^16-1]: GesG: SHR 810.100.
-[^16-2]: GesV: SHR 810.102.
+[^16-1]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
+[^16-2]: SHR [810.102](https://rechtsbuch.sh.ch/data/810.102/de).
 
-#### § 17
+#### Art. 17
 
 **Abgabebeschränkungen und Vermittlung**
 
@@ -263,9 +246,9 @@ Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG[^14-1] unterhält ein geei
 
 <sup>4</sup> Die Vermittlung von Arzneimitteln ist nur zulässig, wenn die Vermittelnden selbst befugt sind, die betreffenden Arzneimittel an die bestellende Person abzugeben.
 
-[^17-1]: TAMV: SR 812.212.27.
+[^17-1]: SR [812.212.27](http://db.clex.ch/link/Bund/812.212.27/de).
 
-#### § 18
+#### Art. 18
 
 **Lagerung**
 
@@ -273,15 +256,15 @@ Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG[^14-1] unterhält ein geei
 
 <sup>2</sup> Sie lagern keine Heilmittel, zu deren Abgabe oder Verarbeitung sie nicht befugt sind.
 
-#### § 19
+#### Art. 19
 
 **Aufbewahrung von Rechnungen**
 
-Rechnungen, die Heilmittel betreffen, müssen fünf Jahre aufbewahrt werden. Die einzelnen Rechnungspositionen müssen vollständig ersichtlich sein.
+<sup>1</sup> Rechnungen, die Heilmittel betreffen, müssen fünf Jahre aufbewahrt werden. Die einzelnen Rechnungspositionen müssen vollständig ersichtlich sein.
 
-- 2\. Besondere Bestimmungen
+### 4.2 Besondere Bestimmungen
 
-#### § 20
+#### Art. 20
 
 **Öffentliche Apotheken**
 
@@ -293,34 +276,28 @@ Rechnungen, die Heilmittel betreffen, müssen fünf Jahre aufbewahrt werden. Die
 
 <sup>4</sup> Mit Bewilligung des Departements des Innern sind sie befugt, ohne ärztliche Verschreibung an gesunden Personen ab 16 Jahren folgende Impfungen vorzunehmen:
 
-- a) alle Impfungen gemäss schweizerischem Impfplan;[^20-1]
-
-- b) …[^20-2]
-
-- c) …[^20-2]
-
-- d) Impfung gegen Covid-19.[^20-3]
+- a) alle Impfungen gemäss schweizerischem Impfplan
+- b)–c) …
+- d) Impfung gegen Covid-19
 
 <sup>5</sup> Die Bewilligung nach Abs. 4 wird Apothekerinnen und Apothekern erteilt, wenn sie über eine genügende fachliche Aus- oder Weiterbildung verfügen.
 
-<sup>6</sup> Apothekerinnen und Apotheker, die Impfungen durchführen, verfügen über eine Haftpflichtversicherung, die das spezifische Risiko der Impftätigkeit abdeckt.[^20-4]
+<sup>6</sup> Apothekerinnen und Apotheker, die Impfungen durchführen, verfügen über eine Haftpflichtversicherung, die das spezifische Risiko der Impftätigkeit abdeckt.
 
-<sup>7</sup> Die Kantonale Heilmittelkontrolle erlässt ergänzende Weisungen, insbesondere zu Dokumentation, Hygiene und Infrastruktur.[^20-4]
+<sup>6<sup>bis</sup></sup> Apothekerinnen und Apotheker können für das Aufziehen und die Injektion des Impfstoffs Personen mit Berufen aus dem Gesundheitswesen mit entsprechender Aus- oder Weiterbildung beiziehen. Die beigezogenen Personen handeln unter Aufsicht und in Verantwortung der Apothekerin oder des Apothekers.
 
-[^20-1]: Fassung gemäss RRB vom 20. Juni 2023, in Kraft getreten am 1. Juli 2023 (Amtsblatt 2023, S. 1095).
-[^20-2]: Aufgehoben durch RRB vom 20. Juni 2023, in Kraft getreten am 1. Juli 2023 (Amtsblatt 2023, S. 1095).
-[^20-3]: Eingefügt durch RRB vom 4. Mai 2021, in Kraft getreten am 7. Mai 2021 (Amtsblatt 2021, S. 831).
-[^20-4]: Eingefügt durch RRB vom 20. Juni 2023, in Kraft getreten am 1. Juli 2023 (Amtsblatt 2023, S. 1095).
+<sup>7</sup> Die Kantonale Heilmittelkontrolle erlässt ergänzende Weisungen, insbesondere zu Dokumentation, Hygiene und Infrastruktur.
 
-#### § 21
+#### Art. 21
 
-**Praxis-apotheken**
+**Praxisapotheken**
 
-Die Abgabe von Arzneimitteln gemäss Art. 22 GesG[^21-1] hat durch die Medizinalperson im Sinne des MedBG2) selbst oder unter ihrer unmittelbaren Aufsicht und Verantwortung zu erfolgen.
+<sup>1</sup> Die Abgabe von Arzneimitteln gemäss Art. 22 GesG[^21-1] hat durch die Medizinalperson im Sinne des MedBG[^21-2] selbst oder unter ihrer unmittelbaren Aufsicht und Verantwortung zu erfolgen.
 
-[^21-1]: GesG: SHR 810.100.
+[^21-1]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
+[^21-2]: SR [811.11](http://db.clex.ch/link/Bund/811.11/de).
 
-#### § 22
+#### Art. 22
 
 **Spitalapotheken und Apotheken in Heimen und anderen Institutionen**
 
@@ -332,35 +309,35 @@ Die Abgabe von Arzneimitteln gemäss Art. 22 GesG[^21-1] hat durch die Medizinal
 
 <sup>4</sup> Werden in einem Spital, Heim oder einem anderen Betrieb im Gesundheitswesen lediglich Arzneimittel für bestimmte Patientinnen und Patienten verwaltet oder auf ärztliches Rezept hin beschafft, ist keine Bewilligung gemäss § 13 dieser Verordnung erforderlich. Abs. 2 gilt diesfalls sinngemäss.
 
-#### § 23
+#### Art. 23
 
-**Spitalapotheke in den "Spitälern Schaffhausen"**
+**Spitalapotheke in den «Spitälern Schaffhausen»**
 
-Die Spitalapotheke in den "Spitälern Schaffhausen" kann zusätzliche Aufgaben der Heilmittelversorgung des Kantons übernehmen, insbesondere ist sie befugt:
+<sup>1</sup> Die Spitalapotheke in den «Spitälern Schaffhausen» kann zusätzliche Aufgaben der Heilmittelversorgung des Kantons übernehmen, insbesondere ist sie befugt:
 
-- a) medizinische Anstalten und Institutionen im Kanton mit Heilmitteln zu versorgen;
+- a) medizinische Anstalten und Institutionen im Kanton mit Heilmitteln zu versorgen
+- b) Aufgaben im Zusammenhang mit der Heilmittelabgabe der Kantonalen Heilmittelkontrolle zu übernehmen
 
-- b) Aufgaben im Zusammenhang mit der Heilmittelabgabe der Kantonalen Heilmittelkontrolle zu übernehmen.
-
-#### § 24
+#### Art. 24
 
 **Fachpersonen der Komplementär- und Alternativmedizin**
 
 <sup>1</sup> Die nach Art. 6 Abs. 1 lit. f bzw. Art. 53 GesG[^24-1] zugelassenen Fachpersonen der anerkannten Komplementär- und Alternativmedizin mit einer Ausbildung, welche die Therapie mit komplementärmedizinischen Arzneimittel beinhaltet, sind zur Abgabe von nicht verschreibungspflichtigen komplementärmedizinischen Arzneimitteln berechtigt, die üblicherweise zum Tätigkeitsbereich des betreffenden Berufes und zur sorgfältigen Berufsausübung gehören.
 
-<sup>2</sup> Die Voraussetzungen und Anforderungen für die Führung einer Praxisapotheke nach Art. 22 Abs. 2 bis Abs. 5 GesG[^24-1] gelten dabei sinngemäss.
+<sup>2</sup> Die Voraussetzungen und Anforderungen für die Führung einer Praxisapotheke nach Art. 22 Abs. 2 bis Abs. 5 GesG[^24-2] gelten dabei sinngemäss.
 
-[^24-1]: GesG: SHR 810.100.
+[^24-1]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
+[^24-2]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
 
-#### § 25
+#### Art. 25
 
 **Zoo- und Imkerfachgeschäfte**
 
-Das Veterinäramt erteilt Zoo- und Imkerfachgeschäften die Bewilligung für die Abgabe von Tierarzneimitteln, wenn diese die Voraussetzungen nach Art. 9 TAMV[^25-1] erfüllen.
+<sup>1</sup> Das Veterinäramt erteilt Zoo- und Imkerfachgeschäften die Bewilligung für die Abgabe von Tierarzneimitteln, wenn diese die Voraussetzungen nach Art. 9 TAMV[^25-1] erfüllen.
 
-[^25-1]: TAMV: SR 812.212.27.
+[^25-1]: SR [812.212.27](http://db.clex.ch/link/Bund/812.212.27/de).
 
-#### § 26
+#### Art. 26
 
 **Anwendung verschreibungspflichtiger Arzneimittel**
 
@@ -370,13 +347,13 @@ Das Veterinäramt erteilt Zoo- und Imkerfachgeschäften die Bewilligung für die
 
 <sup>3</sup> Das Departement des Innern untersagt die Anwendung von verschreibungspflichtigen Arzneimitteln, wenn gegen die Bestimmungen dieses Erlasses über den Detailhandel verstossen wird oder andere als die von ihr bezeichneten Arzneimittel eingesetzt werden.
 
-[^26-1]: VAM: SR 812.212.21.
+[^26-1]: SR [812.212.21](http://db.clex.ch/link/Bund/812.212.21/de).
 
-### V. Verfahren und Vollzug
+## 5 Verfahren und Vollzug
 
-#### § 27
+#### Art. 27
 
-**Befugnisse der Kontrollorgane/Beschlagnahmung**
+**Befugnisse der Kontrollorgane / Beschlagnahmung**
 
 <sup>1</sup> Den Kontrollorganen stehen insbesondere die in Art. 58 und Art. 66 HMG[^27-1] aufgeführten Befugnisse zu.
 
@@ -384,9 +361,9 @@ Das Veterinäramt erteilt Zoo- und Imkerfachgeschäften die Bewilligung für die
 
 <sup>3</sup> Die durch die Beschlagnahmung entstehenden Kosten trägt der Betrieb.
 
-[^27-1]: HMG: SR 812.21.
+[^27-1]: SR [812.21](http://db.clex.ch/link/Bund/812.21/de).
 
-#### § 28
+#### Art. 28
 
 **Proben**
 
@@ -400,7 +377,7 @@ Das Veterinäramt erteilt Zoo- und Imkerfachgeschäften die Bewilligung für die
 
 <sup>5</sup> Notwendige Sofortmassnahmen werden durch das Einspracheverfahren nicht berührt.
 
-#### § 29
+#### Art. 29
 
 **Mängel**
 
@@ -408,9 +385,9 @@ Das Veterinäramt erteilt Zoo- und Imkerfachgeschäften die Bewilligung für die
 
 <sup>2</sup> Werden die verlangten Massnahmen nicht umgesetzt, so erteilt das zuständige Kontrollorgan die erforderlichen Weisungen. Bei Nichterfüllung der Weisung kann das zuständige Kontrollorgan beim Departement des Innern Anzeige erstatten und dieses kann die Bewilligung entziehen.
 
-### VI. Übergangs- und Schlussbestimmungen
+## 6 Übergangs- und Schlussbestimmungen
 
-#### § 30
+#### Art. 30
 
 **Übergangsbestimmung**
 
@@ -420,41 +397,24 @@ Das Veterinäramt erteilt Zoo- und Imkerfachgeschäften die Bewilligung für die
 
 <sup>3</sup> Arzneimittel nach eigener Formel, die defekturmässig hergestellt werden, sind innerhalb eines Jahres nach Inkrafttreten dieser Verordnung der Kantonalen Heilmittelkontrolle zu melden. Bis zur Meldung dürfen sie weiter abgegeben werden.
 
-#### § 31
+#### Art. 31
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
 
-- a) die Verordnung über den Verkehr mit Heilmitteln vom 7. Februar 2006 (SHR 812.201);
+- a) die Verordnung über den Verkehr mit Heilmitteln vom 7. Februar 2006
+- b) die Verordnung zum Bundesgesetz über die Betäubungsmittel vom 3. August 1982
+- c) die Richtlinien der Sanitätsdirektion für die Einrichtung und Ausstattung der öffentlichen Apotheken sowie die Abgabe von Medikamenten vom 1. November 1983
+- d) die Richtlinien der Sanitätsdirektion für die Einrichtung und Ausstattung in einer ärztlichen Privatapotheke sowie die Abgabe von Medikamenten vom 1. November 1983
 
-- b) die Verordnung zum Bundesgesetz über die Betäubungsmittel vom 3. August 1982 (SHR 812.601);
+#### Art. 32
 
-- c) die Richtlinien der Sanitätsdirektion für die Einrichtung und Ausstattung der öffentlichen Apotheken sowie die Abgabe von Medikamenten vom 1. November 1983 (SHR 812.202);
+**Änderung bisherigen Rechts[^32-1]**
 
-- d) die Richtlinien der Sanitätsdirektion für die Einrichtung und Ausstattung in einer ärztlichen Privatapotheke sowie die Abgabe von Medikamenten vom 1. November 1983 (SHR 812.203).
+[^32-1]: Gegenstandslos.
 
-#### § 32
-
-**Änderung bisherigen Rechts**
-
-<sup>1</sup> Die Kantonale Chemikalienverordnung vom 22. April 2008 (SHR 814.801) wird wie folgt geändert:
-
-#### § 7
-
-**Abs. 1 und 2**
-
-<sup>1</sup> Die Kantonale Heilmittelkontrolle kontrolliert den Verkehr mit Chemikalien bei Detailhandelsgeschäften im Sinne der HMV (SHR 812.201).
-
-<sup>2</sup> Das Veterinäramt kontrolliert den Verkehr mit Chemikalien bei tierärztlichen Praxisapotheken und Abgabestellen wie Zoo- oder Imkerfachgeschäfte im Sinne der HMV (SHR 812.201).
-
-#### § 14
-
-**Abs. 1**
-
-Aufgehoben
-
-#### § 33
+#### Art. 33
 
 **Inkrafttreten**
 
@@ -462,6 +422,6 @@ Aufgehoben
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^33-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
-
 [^33-1]: Amtsblatt 2016, S. 1019.
+
+Abl. 2016, S. 1019
