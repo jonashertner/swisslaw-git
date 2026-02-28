@@ -1,0 +1,170 @@
+---
+canton: VS
+number: "451.106"
+title: "Règlement sur l'aide financière en faveur de la biodiversité, du paysage et de l'adaptation aux changements climatiques dans le milieu bâti"
+language: fr
+version: 2026-03-01
+version_adopted: 2026-08-19
+adopted: 2026-08-19
+in_force: 2026-03-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/451.106"
+pdf: "https://lex.vs.ch/api/fr/versions/3652/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
+
+# Règlement sur l'aide financière en faveur de la biodiversité, du paysage et de l'adaptation aux changements climatiques dans le milieu bâti
+
+du 19.08.2026 (état 01.03.2026)
+
+Le Conseil d'Etat du canton du Valais
+
+vu l’article 18b alinéa 2 de la loi fédérale sur la protection de la nature et du paysage du 1<sup>er</sup> juillet 1966 (LPN);
+
+vu l’ordonnance sur la protection de la nature et du paysage du 16 janvier 1991 (OPN);
+
+vu les articles 24 et 27 de la loi cantonale sur la protection de la nature, du paysage et des sites du 13 novembre 1998 (LcPN);
+
+vu l’ordonnance cantonale sur la protection de la nature, du paysage et des sites du 20 septembre 2000 (OcPN);
+
+vu les articles 24 à 28 de la loi sur les subventions du 13 novembre 1995 (LSub);
+
+vu les articles 5, 7 et 12 de l’ordonnance sur les subventions du 14 février 1996;
+
+sur proposition du département en charge de la protection de la nature et du paysage,
+
+ordonne:
+
+#### Art. 1
+
+**Objectifs**
+
+<sup>1</sup> La subvention pour la biodiversité dans le milieu bâti vise à soutenir financièrement les propriétaires privés pour la mise en place de mesures d’aménagement renforçant la biodiversité dans l’espace bâti, tout en contribuant positivement à la qualité du paysage ou à l’adaptation aux changements climatiques.
+
+<sup>2</sup> Le service en charge de la protection de la nature et du paysage (ci-après: le service) est compétent pour l’octroi de cette subvention.
+
+<sup>3</sup> Le service peut déléguer certaines tâches liées à la mise en œuvre du présent règlement, notamment dans l’instruction et l’examen des demandes, à un mandataire externe de l’administration.
+
+#### Art. 2
+
+**Ayants droit**
+
+<sup>1</sup> Les subventions accordées dans le cadre du présent règlement sont destinées aux études préliminaires et aux réalisations de projets visant les objectifs à l’article 1 et situés en zone à bâtir.
+
+<sup>2</sup> Seul le propriétaire de la parcelle concernée par le projet peut bénéficier de la subvention et peut en faire la demande.
+
+#### Art. 3
+
+**Disponibilités des subventions**
+
+<sup>1</sup> Les subventions sont limitées au budget annuel qui est accordé au service. Les demandes seront traitées par ordre de réception et dans la limite budgétaire.
+
+<sup>2</sup> Selon les disponibilités financières, le service se réserve le droit de fixer un plafond par demande et de reporter les demandes qui ne peuvent être satisfaites pour l’année en cours à l’année suivante
+
+#### Art. 4
+
+**Droit à la subvention**
+
+<sup>1</sup> Le taux ou le montant de la subvention est accordé pour la création de nouveaux aménagements renforçant la qualité écologique, tout en améliorant le paysage et l’adaptation aux changements climatiques, des espaces en zone à bâtir. Aucune aide au financement ne pourra être attribuée pour le maintien et l’entretien d’aménagements existants.
+
+<sup>2</sup> Le service fixe les exigences techniques à respecter dans l’aménagement ou la mesure à réaliser au moyen des fiches techniques afin que le projet réponde aux objectifs visés à l’article 1 du règlement.
+
+<sup>3</sup> Le projet devra répondre aux exigences techniques de réalisation (fiches techniques) pour être éligible à la subvention.
+
+<sup>4</sup> Le requérant ne peut déposer qu’une seule demande de subventionnement, qui peut contenir une ou plusieurs mesures, par parcelle et par année civile (la date de la demande de subventionnement fait référence). Le service peut prescrire un délai pour déposer la demande de subventionnement, le cas échéant, il l’indiquera dans le formulaire de demande.
+
+<sup>5</sup> Seuls les coûts effectifs de réalisation du projet peuvent faire l’objet d’une subvention (coûts reconnus), à l’exclusion des émoluments administratifs résultant de la procédure de permis de construire. Par coûts effectifs, on entend l’offre ou le devis estimatif remis par l’entreprise ou le bureau chargé de réaliser la mesure.
+
+#### Art. 5
+
+**Conformité légale et réglementaire**
+
+<sup>1</sup> Certaines mesures, en fonction de leur ampleur, peuvent être soumises à une autorisation de construire qui est à charge du requérant. Le requérant s’informera auprès de l’autorité compétente selon la législation sur les constructions pour vérifier la nécessité ou non d’obtenir une autorisation de construire. Si c’est le cas, le versement de la subvention est suspendu jusqu’à l’entrée en force du permis de construire.
+
+<sup>2</sup> L’octroi de la subvention ne signifie pas pour autant que le permis de construire sera accordé et inversement.
+
+<sup>3</sup> Le projet proposé par le requérant devra être conforme au règlement communal des constructions et des zones (RCCZ) de la commune concernée et à la législation en matière d’aménagement du territoire.
+
+<sup>4</sup> Une demande de subventionnement ne peut être déposée pour réaliser une mesure obligatoire prévue dans le cadre d’un permis de construire (mesures compensatoires), sauf si le requérant apporte une plus-value supplémentaire en termes de biodiversité à la mesure prescrite.
+
+#### Art. 6
+
+**Modalités et conditions d’octroi de la subvention**
+
+<sup>1</sup> La demande de subventionnement (contenant une ou plusieurs mesures) doit porter sur une mesure ou un aménagement d’une valeur minimale de 200 francs, à concurrence de 50 pour cent des coûts reconnus par mesure.
+
+<sup>2</sup> Le montant global de la subvention est déterminé en fonction du type de mesures ou d’aménagement prévus dans les fiches techniques. La durée d’engagement de la mesure, soit la période durant laquelle celle-ci doit être entretenue et pérennisée, est de 5 à 15 ans, selon le type de mesure.
+
+<sup>3</sup> Le service se réserve le droit de diminuer le taux ou le montant de base de la subvention si un autre soutien financier est accordé au projet.
+
+<sup>4</sup> Le service précise également les exigences techniques à respecter pour la réalisation du projet ainsi que les conditions d’entretien et de pérennisation de la mesure à respecter.
+
+<sup>5</sup> La durée de validité du subventionnement (incluant la facturation) est valable en principe 12 mois à compter de la validation du projet déclaration d’engagement relatif à l’allocation des moyens financiers par le service, de sorte que le requérant devra réaliser la mesure durant ce délai.
+
+<sup>6</sup> Le service peut exceptionnellement et sous réserve des disponibilités financières accorder une prolongation de ce délai, à condition que le requérant en fasse la demande par écrit avant la fin du délai précité et en justifiant la raison.
+
+#### Art. 7
+
+**Participation aux frais d’études préliminaires**
+
+<sup>1</sup> Une subvention peut être accordée rétroactivement pour une étude préliminaire réalisée par un bureau en environnement ou une personne spécialisée en environnement tendant à identifier les mesures qui seraient utiles à mettre en œuvre pour renforcer les valeurs naturelles et paysagères sur la parcelle concernée.
+
+<sup>2</sup> Une offre de prestations pour la réalisation d’une mesure ou d’un aménagement n’est pas considérée comme une étude préliminaire.
+
+<sup>3</sup> La subvention relative à cette étude préliminaire ne pourra être accordée à titre rétroactif que si une ou plusieurs mesures identifiées dans ladite étude sont réalisées et après validation finale du projet (art. 9 du règlement).
+
+<sup>4</sup> L’étude préliminaire devra au moins contenir les éléments suivants:
+
+- a) analyse environnementale de la situation initiale: faune, flore, type de milieu, connectivités possibles, autres spécificités (par exemple, présence de néophytes ou d’espèces à protéger);
+- b) proposition d’aménagements appropriés, incluant un plan d’aménagement, le type structures, d’essences ou mélanges grainiers utilisés et, éventuellement, une justification de la pertinence des mesures proposées (connectivité avec d’autres parcelles, espèces ciblées, etc.);
+- c) les recommandations nécessaires pour l’aménagement et un entretien favorable à la biodiversité.
+
+<sup>5</sup> Si un autre soutien financier est accordé pour cette étude préliminaire, le service se réserve le droit de diminuer le taux ou le montant de la subvention relative à l’étude préliminaire.
+
+#### Art. 8
+
+**Demande d’octroi de la subvention**
+
+<sup>1</sup> La demande de subventionnement doit être soumise au service moyennant un formulaire ad hoc comprenant l’ensemble des informations utiles au projet d’aménagement souhaité et l’éventuelle étude préliminaire selon l’article 6.
+
+<sup>2</sup> Après réception de la demande, le service vérifie la conformité du projet aux fiches techniques et valide la demande en fixant le montant maximal de la subvention sous réserve de la validation finale du projet une fois les travaux réalisés. A cet effet, le service indique les conditions de réalisation, d’entretien et de pérennisation de la ou les mesures ainsi que les pièces justificatives à transmettre après l’achèvement des travaux.
+
+<sup>3</sup> Le versement de la subvention est suspendu jusqu’à la validation finale du projet après sa réalisation (art. 9).
+
+<sup>4</sup> Si le service refuse une demande de subventionnement, le requérant conserve le droit de déposer une nouvelle demande de subvention adaptée aux exigences du service.
+
+<sup>5</sup> Si le service refuse une demande de subventionnement, le requérant conserve le droit de déposer une nouvelle demande de subvention adaptée aux exigences du service.
+
+#### Art. 9
+
+**Contrôle en cours de réalisation du projet**
+
+<sup>1</sup> Le service se réserve le droit, pendant la phase de réalisation de mesures complexes, de procéder à une visite sur place, moyennant un avis préalable au propriétaire concerné, et ce afin de s’assurer d’une mise en œuvre conforme aux exigences techniques.
+
+<sup>2</sup> Il ne pourra toutefois pas accéder sur la parcelle privée sans l’accord du propriétaire concerné. Les dispositions de la loi sur les subventions (LSub) relatives à l’obligation de renseigner et de collaborer demeurent réservées.
+
+<sup>3</sup> Conformément à l’article 1 alinéa 3 du règlement, le contrôle sur place peut être effectuée par un mandataire externe.
+
+#### Art. 10
+
+**Validation finale du projet**
+
+<sup>1</sup> Le requérant, une fois les travaux achevés, transmettra au service l’ensemble des pièces justificatives requises pour vérifier la conformité du projet aux exigences techniques et les mesures d’entretien et de pérennisation du projet qu’il s’engage à respecter.
+
+<sup>2</sup> Conformément à l’article 1 alinéa 3 du règlement, le service peut faire appel à un mandataire externe dans l’examen des pièces justificatives et pour le contrôle sur place des travaux réalisés.
+
+<sup>3</sup> Si le projet a été réalisé conformément aux exigences techniques et si les conditions d’entretien et pérennisation de la mesure sont garanties, le service valide l’octroi de la subvention et son versement.
+
+#### Art. 11
+
+**Réduction, suppression ou restitution de la subvention**
+
+<sup>1</sup> Le service se réserve le droit de baisser ou supprimer la subvention accordée en cas de non-conformité de la mesure réalisée avec les exigences techniques ou des pièces justificatives requises (art. 27 LcPN). En pareil cas, il précisera les motifs dans une décision sujette à recours (art. 27 LSub).
+
+<sup>2</sup> En cas de non-respect des conditions d’entretien et de pérennisation de la mesure durant la durée d’engagement et malgré une sommation préalable adressée au propriétaire concerné, le service peut exiger le remboursement de toute ou partie de la subvention déjà versée (art. 27 LcPN et art. 25 LSub). Il en ira de même si le propriétaire concerné a bénéficié d’un autre soutien financier pour ce projet qu’il n’aurait pas communiqué auparavant au service.
+
+<sup>3</sup> En cas de changement de propriétaire ou d’aliénation de la parcelle concernée durant la durée d’engagement de la mesure, le service peut exiger le remboursement de la subvention accordée à l’ancien propriétaire au prorata de la durée restante à compter de la sommation préalable du SFNP si le nouveau propriétaire n’assume pas les obligations liées à l’entretien et à la pérennisation de la mesure ou si ce dernier supprime tout ou partie de l’aménagement réalisé. L’article 26 LSub est applicable pour le surplus.
+
+<sup>4</sup> La prescription du droit à la restitution de la subvention demeure réservée (art. 28 LSub).
+
+RCV RO/AGS 2026-107
