@@ -4,13 +4,12 @@ number: "411.012"
 title: Landesschulkommissionsbeschluss zum Schulgesetz
 short: LSKB SchG
 language: de
-version: 2025-08-01
-valid_until: 2026-02-28
-version_adopted: 2025-02-06
+version: 2026-03-01
+version_adopted: 2026-02-12
 adopted: 2005-05-18
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.012"
-pdf: "https://ai.clex.ch/api/de/versions/2376/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2376/pdf_file"
 
 (LSKB SchG)
 
-vom 18.05.2005 (Stand 01.08.2025)
+vom 18.05.2005 (Stand 01.03.2026)
 
 Die Landesschulkommission des Kantons Appenzell I.Rh.,
 
@@ -1653,6 +1652,58 @@ Sorgfaltspflicht:
 <sup>2</sup> Auf Antrag der Landesschulkommission bereitet das Departement gestützt auf die Berichterstattung die erforderlichen Anpassungen der Schulgesetzgebung vor.
 
 #### Art. A3-8
+
+**Befristung**
+
+<sup>1</sup> Der Anhang wird längstens bis 31. Juli 2033 angewendet.
+
+## A4. Anhang 4: Einsatz schulische Heilpädagogik Zyklus 2 (3. bis 6. Primarklassen)
+
+#### Art. A4-1
+
+**Geltungsbereich und anwendbares Recht**
+
+<sup>1</sup> Die Bestimmungen dieses Anhangs gelten für die Schulgemeinden des inneren Landesteils.
+
+<sup>2</sup> Soweit dieser Anhang keine Regelung enthält, werden für den Schulversuch die Bestimmungen des Schulgesetzes vom 25. April 2004 (SchG) samt Ausführungserlassen angewendet.
+
+### A4.I Schulorganisation
+
+#### Art. A4-2
+
+**Unterstützung durch schulische Heilpädagogik**
+
+<sup>1</sup> Die Schulgemeinden setzen im Zyklus 2 schulische Heilpädagoginnen und Heilpädagogen ein.
+
+<sup>2</sup> Die Unterstützung durch die schulische Heilpädagogik erfolgt spätestens ab dem Schuljahr 2027/2028. Die Schulgemeinden melden dem Erziehungsdepartement bis Ende April 2026 verbindlich den Umstellungszeitpunkt.
+
+<sup>3</sup> Für die Berechnung der heilpädagogischen Unterstützung stehen pro Klasse 2 bis 4 Wochenlektionen zur Verfügung.
+
+<sup>4</sup> Die Schulgemeinden setzen dafür Fachpersonen für schulische Heilpädagogik ein. Art. 22d dieses Beschlusses gilt sinngemäss.
+
+### A4.II Finanzielles
+
+#### Art. A4-3
+
+**Kostenausweis**
+
+<sup>1</sup> Die Personalkosten der schulischen Heilpädagogik, die der Schulgemeinde aus der Unterstützung durch die schulische Heilpädagogik entstehen, sind auszuweisen.
+
+#### Art. A4-4
+
+**Kantonaler Grundbeitrag**
+
+<sup>1</sup> Der Kanton entrichtet für den Schulversuch einen Beitrag von 30% an die Personalkosten (Löhne und Sozialleistungen) der schulischen Heilpädagogik.
+
+#### Art. A4-5
+
+**Berichterstattung und Nachfolgeregelung**
+
+<sup>1</sup> Das Departement sorgt für eine angemessene Auswertung des Schulversuchs und erstattet der Landesschulkommission spätestens innert sechs Jahren seit Inkrafttreten dieses Anhangs Bericht zu den Ergebnissen.
+
+<sup>2</sup> Auf Antrag der Landesschulkommission bereitet das Departement gestützt auf die Berichterstattung die erforderlichen Anpassungen der Schulgesetzgebung vor.
+
+#### Art. A4-6
 
 **Befristung**
 
