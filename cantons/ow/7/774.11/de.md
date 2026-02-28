@@ -4,13 +4,12 @@ number: "774.11"
 title: Verordnung über die Schifffahrt
 short: VSF
 language: de
-version: 2009-01-15
-valid_until: 2026-02-28
-version_adopted: 2008-12-04
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 2008-12-04
 in_force: 2009-01-15
 url: "http://gdb.ow.ch/app/de/texts_of_law/774.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1617/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1989/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1617/pdf_file"
 
 (VSF)
 
-vom 04.12.2008 (Stand 15.01.2009)
+vom 04.12.2008 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -75,7 +74,7 @@ beschliesst:
 - e. bewilligt Startgassen und Wasserflächen für das Wasserskifahren auf dem Alpnachersee (Art. 54 Abs. 2 BSV);
 - f. bezeichnet die für das Fahren mit Drachensegelbrettern oder ähnlichen Geräten freigegebenen Wasserflächen (Art. 54 Abs. 2bis BSV);
 - g. kann die Höchstgeschwindigkeit in der äusseren Uferzone aufheben (Art. 53 Abs. 4 BSV);
-- h. genehmigt den Richtplan über Anlagen für die Schifffahrt und bewilligt Ausnahmen.
+- h. …
 
 <sup>2</sup> Er hört vorgängig die an der Schifffahrt besonders interessierten natürlichen und juristischen Personen sowie die Ufergemeinden an.
 
@@ -106,9 +105,11 @@ beschliesst:
 
 **Bau- und Raumentwicklungsdepartement**
 
-<sup>1</sup> Das Bau- und Raumentwicklungsdepartement erstellt in Zusammenarbeit mit dem Sicherheits- und Sozialdepartement und den Ufergemeinden einen Richtplan über sämtliche Anlagen für die Schifffahrt, welcher der Genehmigung durch den Regierungsrat bedarf.
+<sup>1</sup> Das Bau- und Raumentwicklungsdepartement erstellt in Zusammenarbeit mit dem Sicherheits- und Sozialdepartement und den Ufergemeinden einen Richtplan über sämtliche Anlagen für die Schifffahrt. Für den Erlass, die Überarbeitung, Anpassung und Fortschreibung des Richtplans gelten sinngemäss die entsprechenden Vorschriften zum kantonalen Richtplan gemäss dem Planungs- und Baugesetz[^7-1].
 
 <sup>2</sup> Es ist im Rahmen des Richtplans zuständig für die Bewilligungserteilung zur baulichen Inanspruchnahme öffentlicher Gewässer. Dies gilt insbesondere für Boots- und Badehütten, Boots- und Badestege, bauliche Vorkehren für die Schifffahrt am Ufer, Schifffahrtsrinnen, Bojen und Wasserungsstellen sowie Sprungtürme.
+
+[^7-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 8
 
@@ -163,7 +164,7 @@ beschliesst:
 
 <sup>1</sup> Bewilligungen für die Inanspruchnahme öffentlicher Gewässer für Bauten und Anlagen der Schifffahrt können nur erteilt werden, wenn diese im Anlagebereich gemäss Richtplan liegen, gemeinschaftlich benutzt werden und die öffentlichen Interessen, insbesondere bezüglich Schifffahrt, Fischerei sowie Natur-, Ufer-, Gewässer- und Landschaftsschutz, nicht überwiegen.
 
-<sup>2</sup> Ausnahmebewilligungen können erteilt werden, wenn die Benützung einer gemeinschaftlichen Anlage nicht zumutbar ist und keine öffentlichen Interessen entgegenstehen.
+<sup>2</sup> Ausnahmebewilligungen können vom Bau- und Raumentwicklungsdepartement erteilt werden, wenn die Benützung einer gemeinschaftlichen Anlage nicht zumutbar ist und keine öffentlichen Interessen entgegenstehen.
 
 <sup>3</sup> Die Beseitigung von Bojen kann verfügt werden, wenn die Ersatzbeschaffung in einer gemeinschaftlichen Boots- oder Steganlage möglich und zumutbar ist.
 
@@ -299,5 +300,15 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat bestimmt, wann diese Verordnung in Kraft tritt.[^27-1]
 
 [^27-1]: Vom Regierungsrat auf 15. Januar 2009 in Kraft gesetzt (OGS 2009, 6)
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2008, 111
+
+Ursprüngliches Inkrafttreten: 15. Januar 2009
+
+Geändert durch:
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 2008, 111
