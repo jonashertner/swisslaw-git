@@ -1,105 +1,83 @@
 ---
 canton: UR
 number: "70.1125"
-title: REGLEMENT über die Berufsmaturitätsschule
+title: Reglement über die Berufsmaturitätsschule
 language: de
-version: 2023-08-01
-corrected: 2025-08-19
-version_adopted: 2023-01-24
+version: 2026-03-01
+version_adopted: 2025-11-04
 adopted: 2009-03-03
 in_force: 2009-04-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1125"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/18/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/1109/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# REGLEMENT über die Berufsmaturitätsschule
+# Reglement über die Berufsmaturitätsschule
 
-REGLEMENT über die Berufsmaturitätsschule
+Vom 03.03.2009 (Stand 01.03.2026)
 
-(vom 3. März 2009[^t-1]; Stand am 1. August 2023)
+Der Regierungsrat des Kantons Uri,
 
-Der Regierungsrat des Kantons Uri, gestützt auf Artikel 23 Absatz 2 der Verordnung vom 20. Dezember 2006 über die Berufs- und Weiterbildung (BWV)[^t-2],
+gestützt auf Artikel 23 Absatz 2 der Verordnung vom 20. Dezember 2006 über die Berufs- und Weiterbildung (BWV, RB [70.1103](https://rechtsbuch.ur.ch/data/70.1103/de)),
 
 beschliesst:
 
-**Allgemeine Bestimmungen**
-
-[^t-1]: AB vom 20. März 2009
-[^t-2]: RB 70.1103
-
-### 1. Abschnitt:
+## 1 Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement vollzieht die Verordnung über die Berufsmaturität (Berufsmaturitätsverordnung)[^1-1].[^1-2]
+<sup>1</sup> Dieses Reglement vollzieht die Verordnung über die Berufsmaturität (Berufsmaturitätsverordnung, SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)).
 
 <sup>2</sup> Es regelt das Angebot, die Organisation, das Aufnahmeverfahren und die Promotion an der Berufsmaturitätsschule.
 
-[^1-1]: SR 412.103.1
-[^1-2]: Fassung gemäss RRB vom 30. Juni 2015, in Kraft gesetzt auf den 1. August 2015 (AB vom 10. Juli 2015).
-[^1-3]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-
 #### Artikel 2
 
-**Zweck**[^1-3]
+**Zweck**
 
-Die Berufsmaturitätsschule bereitet auf den Erwerb der eidgenössischen Berufsmaturität vor.
+<sup>1</sup> Die Berufsmaturitätsschule bereitet auf den Erwerb der eidgenössischen Berufsmaturität vor.
 
-**Angebot**
-
-### 2. Abschnitt:
+## 2 Angebot
 
 #### Artikel 3
 
-Die Berufsmaturitätsschule wird als Vollzeitmodell für die Ausrichtung Technik, Architektur, Life Sciences und für die Ausrichtung Gesundheit und Soziales sowie als lehrbegleitender Unterricht für die Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, angeboten.[^3-1]
-
-[^3-1]: Fassung gemäss RRB vom 30. Juni 2015, in Kraft gesetzt auf den 1. August 2015 (AB vom 10. Juli 2015).
-[^3-2]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
+<sup>1</sup> Die Berufsmaturitätsschule wird als Vollzeitmodell für die Ausrichtung Technik, Architektur, Life Sciences und für die Ausrichtung Gesundheit und Soziales sowie als lehrbegleitender Unterricht für die Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, angeboten.
 
 #### Artikel 4
 
-**Kosten**[^3-2]
+**Kosten**
 
-<sup>1</sup> Der Unterricht an der Berufsmaturitätsschule ist gemäss Artikel 25 Absatz 4 des Berufsbildungsgesetzes[^4-1] unentgeltlich.
+<sup>1</sup> Der Unterricht an der Berufsmaturitätsschule ist gemäss Artikel 25 Absatz 4 des Berufsbildungsgesetzes (SR [412.10](https://db.clex.ch/link/Bund/412.10/de)) unentgeltlich.
 
 <sup>2</sup> Für Studierende mit Wohnsitz ausserhalb des Kantons Uri wird dem Wohnortskanton der entsprechende Betrag gemäss Berufsfachschulvereinbarung in Rechnung gestellt.
 
 <sup>3</sup> Die Studierenden tragen die übrigen Kosten wie jene für Lehrmittel, Schulmaterialien, Exkursionen, Reisespesen und eine allfällige Maturareise, Sprachaufenthalte und Sprachdiplome.
 
-[^4-1]: SR 412.10
-
-### 3. Abschnitt: Organisation
+## 3 Organisation
 
 #### Artikel 5
 
 **Schulträger**
 
-Schulträger ist die Berufsfachschule Uri. Soweit dieses Reglement nichts anderes bestimmt, gelten die Bestimmungen über die Berufsfachschule sinngemäss auch für die Berufsmaturitätsschule.
-
-[^5-1]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
+<sup>1</sup> Schulträger ist die Berufsfachschule Uri. Soweit dieses Reglement nichts anderes bestimmt, gelten die Bestimmungen über die Berufsfachschule sinngemäss auch für die Berufsmaturitätsschule.
 
 #### Artikel 6
 
-**Amt für Berufsbildung**[^5-1]
+**Amt für Berufsbildung**
 
-Das Amt für Berufsbildung:
+<sup>1</sup> Das Amt für Berufsbildung:
 
-- a) übt die Aufsicht über die Berufsmaturitätsschule aus;
-
-- b) stellt dem Staatssekretariat für Bildung, Forschung und Innovation Antrag zur eidgenössischen Anerkennung für die Bildungsgänge der Berufsmaturität;
-
-- c) sorgt für den notwendigen Kontakt zu den eidgenössischen und regionalen Berufsmaturitätsgremien.
+- a) übt die Aufsicht über die Berufsmaturitätsschule aus
+- b) stellt dem Staatssekretariat für Bildung, Forschung und Innovation Antrag zur eidgenössischen Anerkennung für die Bildungsgänge der Berufsmaturität
+- c) sorgt für den notwendigen Kontakt zu den eidgenössischen und regionalen Berufsmaturitätsgremien
 
 #### Artikel 7
 
 **Schulkommission**
 
-Die Schulkommission regelt die organisatorische Eingliederung der Berufsmaturitätsschule in die Berufsfachschule. Sie wählt die Leitung der Berufsmaturitätsschule und auf Antrag der Berufsmaturitätskonferenz die Prüfungsexpertinnen und Prüfungsexperten. Sie übernimmt weitere Aufgaben, die ihr in diesem Reglement zugewiesen werden.
+<sup>1</sup> Die Schulkommission regelt die organisatorische Eingliederung der Berufsmaturitätsschule in die Berufsfachschule. Sie wählt die Leitung der Berufsmaturitätsschule und auf Antrag der Berufsmaturitätskonferenz die Prüfungsexpertinnen und Prüfungsexperten. Sie übernimmt weitere Aufgaben, die ihr in diesem Reglement zugewiesen werden.
 
 #### Artikel 8
 
@@ -113,15 +91,13 @@ Die Schulkommission regelt die organisatorische Eingliederung der Berufsmaturit�
 
 **Klassenkonferenzen**
 
-Die Klassenkonferenzen bestehen aus allen Lehrpersonen, die in den jeweiligen Klassen Unterricht erteilen. Die Leitung der Berufsmaturitätsschule leitet die Klassenkonferenzen.
+<sup>1</sup> Die Klassenkonferenzen bestehen aus allen Lehrpersonen, die in den jeweiligen Klassen Unterricht erteilen. Die Leitung der Berufsmaturitätsschule leitet die Klassenkonferenzen.
 
 #### Artikel 10
 
 **Lehrpersonen**
 
-Die Lehrpersonen verfügen über die in der Berufsmaturitätsverordnung[^10-1] festgelegten beruflichen Qualifikationen.
-
-[^10-1]: SR 412.103.1
+<sup>1</sup> Die Lehrpersonen verfügen über die in der Berufsmaturitätsverordnung (SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)) festgelegten beruflichen Qualifikationen.
 
 #### Artikel 11
 
@@ -129,11 +105,9 @@ Die Lehrpersonen verfügen über die in der Berufsmaturitätsverordnung[^10-1] f
 
 <sup>1</sup> Die Prüfungsexpertinnen und Prüfungsexperten begutachten die schriftlichen und überwachen den ordnungsgemässen Verlauf der mündlichen Berufsmaturitätsprüfungen. Sie verfassen ein Prüfungsprotokoll.
 
-<sup>2</sup> Die Entschädigung richtet sich nach Artikel 11 des Reglements über die Berufs- und Weiterbildung (BWR)[^11-1].
+<sup>2</sup> Die Entschädigung richtet sich nach Artikel 11 des Reglements über die Berufs- und Weiterbildung (BWR, RB [70.1105](https://rechtsbuch.ur.ch/data/70.1105/de)).
 
-[^11-1]: RB 70.1105
-
-### 4. Abschnitt: Aufnahme
+## 4 Aufnahme
 
 #### Artikel 12
 
@@ -141,7 +115,7 @@ Die Lehrpersonen verfügen über die in der Berufsmaturitätsverordnung[^10-1] f
 
 <sup>1</sup> In die Berufsmaturitätsschule wird aufgenommen, wer die Aufnahmeprüfung bestanden hat oder prüfungsfrei zugelassen worden ist.
 
-2 Die Aufnahme in das Vollzeitmodell bedingt den vorgängigen Abschluss in einer beruflichen Grundbildung.
+<sup>2</sup> Die Aufnahme in das Vollzeitmodell bedingt den vorgängigen Abschluss in einer beruflichen Grundbildung.
 
 <sup>3</sup> Die Aufnahme in das lehrbegleitende Modell bedingt einen gültigen Lehrvertrag für eine berufliche Grundbildung mit eidgenössischem Fähigkeitszeugnis (EFZ).
 
@@ -151,21 +125,23 @@ Die Lehrpersonen verfügen über die in der Berufsmaturitätsverordnung[^10-1] f
 
 <sup>1</sup> Die Aufnahmeprüfung findet in schriftlicher Form statt. Die Schulkommission legt die Prüfungsfächer und die zu verwendenden Prüfungsunterlagen fest.
 
-<sup>2</sup> Das Amt für Berufsbildung kann Studierende, die eine lehrbegleitende Berufsmatura ausserhalb des Kantons Uri erwerben wollen, zur Aufnahmeprüfung zuweisen.[^13-1]
+<sup>2</sup> Das Amt für Berufsbildung kann Studierende, die eine lehrbegleitende Berufsmatura ausserhalb des Kantons Uri erwerben wollen, zur Aufnahmeprüfung zuweisen.
 
 <sup>3</sup> Die Aufnahmeprüfung wird durch die Leitung und durch Lehrpersonen der Berufsmaturitätsschule durchgeführt und beurteilt.
 
-<sup>4</sup> Die Aufnahmeprüfung gilt als bestanden, wenn der Durchschnitt aller Fachnoten mindestens 4,0 beträgt und nicht mehr als eine Fachnote unter 4,0 liegt.
+<sup>4</sup> Die Aufnahmeprüfung gilt als bestanden, wenn der Notendurchschnitt der beiden Bereiche Mathematik und Sprachen mindestens 4.0 beträgt. Für die Ausrichtung «Technik, Architektur, Life Sciences» muss zusätzlich die Note in Mathematik mindestens 4.0 betragen.
 
 <sup>5</sup> Das Prüfungsergebnis bleibt zwei Jahre gültig.
 
-Artikel 14[^13-2] Prüfungsfreie Aufnahme
+#### Artikel 14
 
-<sup>1</sup> Prüfungsfrei ins lehrbegleitende Modell wird aufgenommen, wer im Durchschnitt der Fächer Deutsch, Französisch, Englisch und Mathematik im 5. Semester der Oberstufe eine 5,0 erreicht und in allen Fächern die höchste Niveaustufe besucht hat. Massgebend für die Berechnung des Durchschnitts sind die Noten im Zeugnis.
+**Prüfungsfreie Aufnahme**
 
-<sup>2</sup> Prüfungsfrei ins Vollzeitmodell wird aufgenommen, wer innerhalb der letzten zwei Kalenderjahre vor Eintritt in den Berufsmaturitätsunterricht das eidgenössische Fähigkeitszeugnis (EFZ) mit einer Gesamtnote von mindestens 5,0 erlangt hat. Diese Regelung gilt sinngemäss auch für berufsbegleitende Teilzeitmodelle des Berufsmaturitätsunterrichts für Personen mit abgeschlossenem EFZ.
+<sup>1</sup> Prüfungsfrei ins lehrbegleitende Modell wird aufgenommen, wer im Durchschnitt der Fächer Deutsch, Französisch, Englisch und Mathematik im 5. Semester der Oberstufe eine 5.0 erreicht und in allen Fächern die höchste Niveaustufe besucht hat. Massgebend für die Berechnung des Durchschnitts sind die Noten im Zeugnis. Definiert eine aufnehmende Schule einen früheren Zeitpunkt des Aufnahmeverfahrens, bildet das Zeugnis des 4. Semesters der Oberstufe die Grundlage für die Berechnung. In diesem Fall kann die Bescheinigung einer prüfungsfreien Aufnahme provisorischen Charakter haben, falls die aufnehmende Schule zu einem späteren Zeitpunkt zusätzlich das Zeugnis des 5. Semesters der Oberstufe einer Beurteilung unterziehen will.
 
-<sup>3</sup> Liegt im Zeitpunkt des Entscheids über die prüfungsfreie Zulassung das EFZ noch nicht vor, weil die Lernenden sich noch in der Lehre befinden, wird von der Berufsfachschule eine Zulassungsnote berechnet. Diese auf eine Dezimale gerundete Zulassungsnote muss mindestens 5,0 betragen. Sie errechnet sich analog zum Qualifikationsverfahren aus den Noten der beruflichen Grundbildung bis zum Ende des ersten Semesters des letzten Schuljahrs. Die Zulassungsnote gilt im Jahr des Erlangens und solange kein EFZ vorliegt. Danach gilt die Gesamtnote im Notenausweis zum EFZ gemäss Absatz 2.
+<sup>2</sup> Prüfungsfrei ins Vollzeitmodell wird aufgenommen, wer innerhalb der letzten zwei Kalenderjahre vor Eintritt in den Berufsmaturitätsunterricht das eidgenössische Fähigkeitszeugnis (EFZ) mit einer Gesamtnote von mindestens 5.0 erlangt hat. Diese Regelung gilt sinngemäss auch für berufsbegleitende Teilzeitmodelle des Berufsmaturitätsunterrichts für Personen mit abgeschlossenem EFZ.
+
+<sup>3</sup> Liegt im Zeitpunkt des Entscheids über die prüfungsfreie Zulassung das EFZ noch nicht vor, weil die Lernenden sich noch in der Lehre befinden, wird von der Berufsfachschule eine Zulassungsnote berechnet. Diese auf eine Dezimale gerundete Zulassungsnote muss mindestens 5.0 betragen. Sie errechnet sich analog zum Qualifikationsverfahren aus den Noten der beruflichen Grundbildung bis zum Ende des ersten Semesters des letzten Schuljahrs. Die Zulassungsnote gilt im Jahr des Erlangens und solange kein EFZ vorliegt. Danach gilt die Gesamtnote im Notenausweis zum EFZ gemäss Absatz 2.
 
 <sup>4</sup> Analog zu Absatz 2 und 3 gilt die Möglichkeit zur prüfungsfreien Aufnahme auch für Personen, die den Berufsmaturitätsunterricht an einer ausserkantonalen Schule besuchen, wenn sie die Voraussetzungen erfüllen.
 
@@ -175,9 +151,6 @@ Artikel 14[^13-2] Prüfungsfreie Aufnahme
 
 <sup>7</sup> Bei Unklarheiten entscheidet das Amt für Berufsbildung.
 
-[^13-1]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-[^13-2]: Fassung gemäss RRB vom 24. Januar 2023, in Kraft gesetzt auf den 1. August 2023 (AB vom 3. Februar 2023).
-
 #### Artikel 15
 
 **Anmeldung**
@@ -186,115 +159,122 @@ Artikel 14[^13-2] Prüfungsfreie Aufnahme
 
 <sup>2</sup> Im Vollzeitmodell hat die Anmeldung zu enthalten:
 
-- a) eine Bestätigung, dass die Aufnahmeprüfung für die Berufsmaturitätsschule bestanden wurde oder eine Bescheinigung über die prüfungsfreie Aufnahme;
+- a) eine Bestätigung, dass die Aufnahmeprüfung für die Berufsmaturitätsschule bestanden wurde oder eine Bescheinigung über die prüfungsfreie Aufnahme
+- b) bei Studierenden nach Artikel 4 Absatz 2 den Nachweis der Kostengutsprache durch den Wohnkanton oder, sofern dieser nicht beizubringen ist, die Zusicherung, die Kosten selber zu übernehmen
 
-- b) bei Studierenden nach Artikel 4 Absatz 2 den Nachweis der Kostengutsprache durch den Wohnkanton oder, sofern dieser nicht beizubringen ist, die Zusicherung, die Kosten selber zu übernehmen.
+## 5 Unterricht
 
-### 5. Abschnitt: Unterricht
+#### Artikel 16
 
-Artikel 16[^h5AbschnittUnterr-1] Unterricht Die Schulkommission bestimmt im Rahmen der Berufsmaturitätsverordnung[^h5AbschnittUnterr-2] und auf der Grundlage des Rahmenlehrplans für die Berufsmaturität (RLP-BM) des Bunds die Unterrichtsfächer.
+**Unterricht**
 
-Artikel 17[^h5AbschnittUnterr-3] Dispensation vom Unterricht Wer in einem oder mehreren Fächern über die Kenntnisse gemäss Rahmenlehrplan für die Berufsmaturität (RLP-BM) verfügt, kann durch die Rektorin oder den Rektor vom Unterricht im jeweiligen Fach dispensiert werden.
+<sup>1</sup> Die Schulkommission bestimmt im Rahmen der Berufsmaturitätsverordnung (SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)) und auf der Grundlage des Rahmenlehrplans für die Berufsmaturität (RLP-BM) des Bunds die Unterrichtsfächer.
 
-[^h5AbschnittUnterr-1]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-[^h5AbschnittUnterr-2]: SR 412.103.1
-[^h5AbschnittUnterr-3]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
+#### Artikel 17
 
-### 6. Abschnitt: Promotion
+**Dispensation vom Unterricht**
+
+<sup>1</sup> Wer in einem oder mehreren Fächern über die Kenntnisse gemäss Rahmenlehrplan für die Berufsmaturität (RLP-BM) verfügt, kann durch die Rektorin oder den Rektor vom Unterricht im jeweiligen Fach dispensiert werden.
+
+## 6 Promotion
 
 #### Artikel 18
 
-<sup>1</sup> Die Promotion richtet sich nach dem 4. Abschnitt der Berufsmaturitätsverordnung[^18-1].[^18-2]
+<sup>1</sup> Die Promotion richtet sich nach dem 4. Abschnitt der Berufsmaturitätsverordnung (SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)).
 
 <sup>2</sup> Die Klassenkonferenzen entscheiden aufgrund des Zeugnisses über die Promotion.
 
-[^18-1]: SR 412.103.1
-[^18-2]: Fassung gemäss RRB vom 30. Juni 2015, in Kraft gesetzt auf den 1. August 2015 (AB vom 10. Juli 2015).
+## 7 Berufsmaturitätsprüfung
 
-### 7. Abschnitt: Berufsmaturitätsprüfung
+#### Artikel 19
 
-Artikel 19[^h7AbschnittBerufs-1] Zulassung Zu den Abschlussprüfungen wird zugelassen, wer die Berufsmaturitätsschule besucht hat und die Promotion gemäss Artikel 18 erfüllt.
+**Zulassung**
 
-[^h7AbschnittBerufs-1]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
+<sup>1</sup> Zu den Abschlussprüfungen wird zugelassen, wer die Berufsmaturitätsschule besucht hat und die Promotion gemäss Artikel 18 erfüllt.
 
 #### Artikel 20
 
-Prüfungsorganisation Die Schulkommission bestimmt die Prüfungsorganisation.
+**Prüfungsorganisation**
 
-Artikel 21[^20-1] Prüfungsfächer Die Prüfungsfächer richten sich nach den Bestimmungen der Berufsmaturitätsverordnung[^20-2] und nach dem Rahmenlehrplan für die Berufsmaturität (RLP-BM) des Bunds.
+<sup>1</sup> Die Schulkommission bestimmt die Prüfungsorganisation.
 
-Artikel 22[^20-3] Prüfungsstoff
+#### Artikel 21
+
+**Prüfungsfächer**
+
+<sup>1</sup> Die Prüfungsfächer richten sich nach den Bestimmungen der Berufsmaturitätsverordnung (SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)) und nach dem Rahmenlehrplan für die Berufsmaturität (RLP-BM) des Bunds.
+
+#### Artikel 22
+
+**Prüfungsstoff**
 
 <sup>1</sup> Der Prüfungsstoff orientiert sich am Rahmenlehrplan für die Berufsmaturität (RLP-BM) des Bunds und an den Schullehrplänen.
 
-<sup>2</sup> Die Leitung der Berufsmaturitätsschule kann in den Sprachfächern Diplome gemäss den Vorgaben des Staatssekretariats für Bildung, Forschung und Innovation für die Berufsmaturitätsprüfung anrechnen.
+<sup>2</sup> Die Schulkommission entscheidet zuhanden der Leitung der Berufsmaturitätsschule, welche Fremdsprachendiplomprüfungen zum Ersatz der Abschlussprüfung führen können. Die Leitung der Berufsmaturitätsschule definiert, wie das Ergebnis der Fremdsprachendiplomprüfung in die Prüfungsnote umgerechnet wird.
 
-Artikel 23[^20-4] Zeitpunkt und Form
+<sup>3</sup> Wer in einem Fach die erforderlichen Kenntnisse und Fähigkeiten nachweist, kann durch die Rektorin oder den Rektor von den entsprechenden Abschlussprüfungen dispensiert werden.
+
+#### Artikel 23
+
+**Zeitpunkt und Form**
 
 <sup>1</sup> Der Zeitpunkt und die Form der Prüfungen orientieren sich am Rahmenlehrplan für die Berufsmaturität (RLP-BM) des Bunds.
 
 <sup>2</sup> Im Falle der lehrbegleitenden Ausbildung können drei Prüfungsfächer am Ende des vierten Semesters abgeschlossen werden. Die Prüfungsfächer werden bei Beginn des Studiengangs durch die Schulkommission festgelegt.
 
-[^20-1]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-[^20-2]: SR 412.103.1
-[^20-3]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-[^20-4]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-
 #### Artikel 24
 
 **Vorbereitung und Durchführung der Prüfungen**
 
-<sup>1</sup> Die Lehrpersonen nehmen zusammen mit den Prüfungsexpertinnen und Prüfungsexperten die Prüfungen ab.[^24-1]
+<sup>1</sup> Die Lehrpersonen nehmen zusammen mit den Prüfungsexpertinnen und Prüfungsexperten die Prüfungen ab.
 
 <sup>2</sup> Die Lehrpersonen und die Prüfungsexpertinnen oder Prüfungsexperten bestätigen die Richtigkeit der Prüfungsnoten durch ihre Unterschrift auf dem Notenblatt.
 
-<sup>3</sup> Bei Uneinigkeit zwischen Lehrperson und Prüfungsexpertin oder Prüfungsexperte entscheidet die prüfende Lehrperson über die endgültige Note. Artikel 25[^24-2] Verhinderung
+<sup>3</sup> Bei Uneinigkeit zwischen Lehrperson und Prüfungsexpertin oder Prüfungsexperte entscheidet die prüfende Lehrperson über die endgültige Note.
+
+#### Artikel 25
+
+**Verhinderung**
 
 <sup>1</sup> Wer an die Prüfungen oder an Teile davon aus wichtigen Gründen wie Krankheit oder Unfall nicht antreten oder diese nicht zu Ende führen kann, hat die Rektorin oder den Rektor umgehend zu informieren und die Absenz zu begründen, beispielsweise mit einem Arztzeugnis. Liegen wichtige Gründe vor, kann die Rektorin oder der Rektor besondere Nachprüfungen anordnen.
 
 <sup>2</sup> Fehlen wichtige Gründe, gelten die verpassten Teile der Prüfung als nicht bestanden und werden mit der Note 1 bewertet. Die angemeldete Person hat die verursachten Kosten zu tragen.
 
-[^24-1]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-[^24-2]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-
 #### Artikel 26
 
 **Unregelmässigkeiten**
 
-<sup>1</sup> Bei Unregelmässigkeiten im Zusammenhang mit den Prüfungen wie Gebrauch unerlaubter Hilfsmittel, unerlaubte Kommunikation mit Dritten, nicht selbstständige Erarbeitung von schriftlichen Arbeiten oder Erstellung von Plagiaten kann die Prüfung in diesem Fach von der Rektorin oder vom Rektor, je nach Schwere der Verfehlung, als nicht bestanden erklärt werden.[^26-1]
+<sup>1</sup> Bei Unregelmässigkeiten im Zusammenhang mit den Prüfungen wie Gebrauch unerlaubter Hilfsmittel, unerlaubte Kommunikation mit Dritten, nicht selbstständige Erarbeitung von schriftlichen Arbeiten oder Erstellung von Plagiaten kann die Prüfung in diesem Fach von der Rektorin oder vom Rektor, je nach Schwere der Verfehlung, als nicht bestanden erklärt werden.
 
 <sup>2</sup> Der Rektor oder die Rektorin entscheidet, ob die Prüfung im betreffenden Fach wiederholt werden kann.
 
 <sup>3</sup> In besonders schweren Fällen kann der Rektor oder die Rektorin den Ausschluss für die gesamte Prüfung verfügen.
 
-Artikel 27[^26-2] Bestehen der Berufsmaturitätsprüfung Die Berufsmaturitätsprüfung ist bestanden, wenn die Voraussetzungen nach dem 5. Abschnitt der Berufsmaturitätsverordnung[^26-3] erfüllt sind.
+#### Artikel 27
 
-[^26-1]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-[^26-2]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-[^26-3]: SR 412.103.1
+**Bestehen der Berufsmaturitätsprüfung**
+
+<sup>1</sup> Die Berufsmaturitätsprüfung ist bestanden, wenn die Voraussetzungen nach dem 6. Abschnitt der Berufsmaturitätsverordnung (SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)) erfüllt sind.
 
 #### Artikel 28
 
 **Wiederholung der Berufsmaturitätsprüfung**
 
-<sup>1</sup> Das Verfahren zur Wiederholung der Berufsmaturitätsprüfung richtet sich nach Artikel 26 der Berufsmaturitätsverordnung[^28-1].[^28-2]
+<sup>1</sup> Das Verfahren zur Wiederholung der Berufsmaturitätsprüfung richtet sich nach Artikel 25 der Berufsmaturitätsverordnung (SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)).
 
-2 Die Wiederholung findet in der Regel frühestens nach einem Jahr statt. Über Ausnahmen entscheidet der Rektor oder die Rektorin.
+<sup>2</sup> Die Wiederholung findet in der Regel frühestens nach einem Jahr statt. Über Ausnahmen entscheidet der Rektor oder die Rektorin.
 
-Artikel 29[^28-3] Notenberechnung
+<sup>3</sup> Besteht Unklarheit, in welcher Form (mündlich oder schriftlich) eine Wiederholungsprüfung durchgeführt werden soll, entscheidet die Schulkommission zuhanden der Leitung der Berufsmaturitätsschule.
 
-<sup>1</sup> Die Notengebung richtet sich nach der Verordnung über die Berufsbildung[^28-4] und nach Artikel 16 der Berufsmaturitätsverordnung[^28-5].
+#### Artikel 29
+
+**Notenberechnung**
+
+<sup>1</sup> Die Notengebung richtet sich nach der Verordnung über die Berufsbildung (SR [412.101](https://db.clex.ch/link/Bund/412.101/de)) und nach Artikel 23 der Berufsmaturitätsverordnung (SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)).
 
 <sup>2</sup> Die Berufsmaturitätskonferenz, ergänzt durch die Rektorin oder den Rektor, bestimmt unter Leitung eines Mitglieds der Schulkommission die Berufsmaturitätsnoten im Einzelfall.
 
-<sup>3</sup> Die Noten des Interdisziplinären Arbeitens werden im Berufsmaturitätszeugnis ausgewiesen. Sie werden in die Gesamtnote einberechnet.[^28-6]
-
-[^28-1]: SR 412.103.1
-[^28-2]: Fassung gemäss RRB vom 30. Juni 2015, in Kraft gesetzt auf den 1. August 2015 (AB vom 10. Juli 2015).
-[^28-3]: Fassung gemäss RRB vom 30. Juni 2015, in Kraft gesetzt auf den 1. August 2015 (AB vom 10. Juli 2015). Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
-[^28-4]: SR 412.101
-[^28-5]: SR 412.103.1
-[^28-6]: Fassung gemäss RRB vom 25. Oktober 2016, in Kraft gesetzt auf den 1. Dezember 2016 (AB vom 4. November 2016).
+<sup>3</sup> Die Noten des Interdisziplinären Arbeitens werden im Berufsmaturitätszeugnis ausgewiesen. Sie werden in die Gesamtnote einberechnet.
 
 #### Artikel 30
 
@@ -304,7 +284,7 @@ Artikel 29[^28-3] Notenberechnung
 
 <sup>2</sup> Das Berufsmaturitätszeugnis wird von der Schulkommission ausgestellt und vom Rektor oder der Rektorin der Berufsfachschule mit unterzeichnet.
 
-### 8. Abschnitt: Rechtsschutz
+## 8 Rechtsschutz
 
 #### Artikel 31
 
@@ -312,28 +292,26 @@ Artikel 29[^28-3] Notenberechnung
 
 <sup>2</sup> Einsprachentscheide können mit Verwaltungsbeschwerde bei der Bildungs- und Kulturdirektion angefochten werden. Deren Entscheid unterliegt direkt der Verwaltungsgerichtsbeschwerde an das Obergericht.
 
-### 9. Abschnitt: Schlussbestimmungen
-
-[^h9AbschnittSchlus-1]: RB 70.1125
+## 9 Schlussbestimmungen
 
 #### Artikel 32
 
-Aufhebung bisherigen Rechts Das Reglement der kantonalen Berufsbildungskommission Uri über die Berufsmaturität im Kanton Uri vom 9. März 1999[^h9AbschnittSchlus-1] wird aufgehoben.
+**Aufhebung bisherigen Rechts**
 
-Artikel 32a[^32-1] Übergangsbestimmung zur Änderung vom 30. Juni 2015
+<sup>1</sup> Das Reglement der kantonalen Berufsbildungskommission Uri über die Berufsmaturität im Kanton Uri vom 9. März 1999 wird aufgehoben.
 
-<sup>1</sup> Für Berufsmaturandinnen und Berufsmaturanden, die ihre Berufsmaturitätsausbildung vor dem 1. Januar 2015 begonnen haben, gilt das bisherige Recht.
+#### Artikel 32a
 
-<sup>2</sup> Die Wiederholung der Berufsmaturitätsprüfung findet letztmals 2019 nach bisherigem Recht statt.
+**Übergangsbestimmung zur Änderung vom 4. November 2025**
 
-[^32-1]: Eingefügt durch RRB vom 30. Juni 2015, in Kraft gesetzt auf den 1. August 2015 (AB vom 10. Juli 2015).
+<sup>1</sup> Für Berufsmaturandinnen und Berufsmaturanden, die ihre Berufsmaturitätsausbildung vor dem 1. März 2026 begonnen haben, gilt das bisherige Recht.
+
+<sup>2</sup> Berufsmaturitätsprüfungen nach bisherigem Recht finden letztmals 2033 statt.
 
 #### Artikel 33
 
 **Inkrafttreten**
 
-Dieses Reglement tritt am 1. April 2009 in Kraft.
+<sup>1</sup> Dieses Reglement tritt am 1. April 2009 in Kraft.
 
-Im Namen des Regierungsrats
-
-Der Landammann: Isidor Baumann Der Kanzleidirektor: Dr. Peter Huber
+AB 20.03.2009
