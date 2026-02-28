@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2025-06-01
+version: 2026-03-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20250601/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20250601-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20250601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260301/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260301-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Status as of 1 June 2025)
+of 9 March 2007 (Last amended on 1 March 2026)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on the Telecommunications Act of 30 April 1997[^ingress-1] (TCA),[^ingress
 
 ordains:
 
-[^ingress-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^ingress-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Chapter 1 Definitions
@@ -81,7 +81,7 @@ Any person transmitting data:
 <sup>2</sup> OFCOM shall publish the postal address. It may make the address available through an online search process.
 
 [^4-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^4-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^4-2]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 5
 
@@ -101,7 +101,7 @@ The Post and Telecommunications Surveillance Service shall provide OFCOM free of
 
 <sup>3</sup> In an emergency, a provider may immediately disconnect telecommunications equipment from the network if this is required to protect the network and if the user can be offered an alternative immediately and free of charge. The provider shall immediately inform OFCOM.
 
-[^6-1]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^6-1]: [SR 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^6-2]: Title in accordance with Art. 43 para. 1 let. a of the O of 25 Nov. 2015 on Telecommunications Installations, in force since 13 June 2016 ([AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
 
 #### Art. 7
@@ -127,7 +127,7 @@ The Post and Telecommunications Surveillance Service shall provide OFCOM free of
 The Ordinance of 18 November 2020[^8-2] on Using the Radio Frequency Spectrum applies to providers that use the frequency spectrum to provide their services.
 
 [^8-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^8-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^8-2]: [SR 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 9
 
@@ -305,7 +305,7 @@ The entry for a customer in directories of telecommunications services consists 
 - [tab] <sup>5</sup> OFCOM shall define the data field designations and the other additional data required for formatting and publishing directories.
 
 [^11-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^11-2]: [SR 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+[^11-2]: [SR 942.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11240)
 
 ## Chapter 3 Universal Service
 
@@ -682,7 +682,7 @@ Regular billing by post must be offered free of charge to customers not provided
 <sup>2</sup> Providers of services of the universal service by satellite mobile communications to which the International Telecommunication Union has allocated addressing resources need only guarantee free-of-charge access to the European emergency number 112.
 
 [^27-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^27-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^27-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 28
 
@@ -691,7 +691,7 @@ Regular billing by post must be offered free of charge to customers not provided
 Providers of the public telephony service must assure the routing of emergency calls to the emergency services specified in Article 28 TSRO[^28-2].
 
 [^28-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^28-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^28-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 29
 
@@ -704,7 +704,7 @@ Providers of the public telephony service must assure the routing of emergency c
 <sup>3</sup> On request, OFCOM may designate other numbers exclusively for emergency services of the police, fire brigade, ambulance and rescue services for which caller location must be possible. OFCOM shall publish a list of these numbers.
 
 [^29-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^29-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 29a
 
@@ -898,7 +898,7 @@ Telecommunications service providers that are required to guarantee number porta
 
 <sup>5</sup> Value-added services with erotic or pornographic content must belong to a separate category clearly identifiable for customers.
 
-[^36-1]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^36-1]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^36-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^36-3]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
@@ -964,8 +964,8 @@ Provided the possibility of disputing their bill exists, customers may require t
 <sup>2</sup> No surcharges may be added to prices regulated in paragraph 1 and Article 39*a* for connections to numbers of type 0800, 00800, 084x, 0878, 090x and short numbers under Articles 29–32 and 54 TSRO.
 
 [^39b-1]: Inserted by No I of the O of 5 Nov. 2014 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^39b-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
-[^39b-3]: [SR 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+[^39b-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+[^39b-3]: [SR 942.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11240)
 
 #### Art. 40
 
@@ -982,7 +982,7 @@ Provided the possibility of disputing their bill exists, customers may require t
 <sup>5</sup> Telecommunications service providers in accordance with paragraphs 1, 2 and 3 shall inform their customers of these call blocking options on conclusion of the contract and thereafter at least once a year.
 
 [^40-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^40-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^40-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^40-3]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 41
@@ -1011,7 +1011,7 @@ To determine whether it is appropriate to block access to value-added services, 
 - b. demand, in case of doubt, the production of a valid passport or identity card or another travel document recognised for entry into Switzerland.
 
 [^41-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^41-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^41-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 ## Chapter 6 Dispute Resolution Service
 
@@ -1036,7 +1036,7 @@ It may assign the task of dispute resolution to the Agent if the Agent:
 
 <sup>5</sup> OFCOM approves the appointment of the natural person responsible for the dispute resolution service.
 
-[^42-1]: [ [[AS 1996 518](https://www.fedlex.admin.ch/eli/oc/1996/518_518_518/de)](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [[1997 2779](https://www.fedlex.admin.ch/eli/oc/1997/2779_2779_2779/de)](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)annex No II 5; [[2002 886](https://www.fedlex.admin.ch/eli/oc/2002/157/de)](https://fedlex.data.admin.ch/eli/oc/2002/157), [[1759](https://www.fedlex.admin.ch/eli/oc/2002/264/de)](https://fedlex.data.admin.ch/eli/oc/2002/264); [[2006 1667](https://www.fedlex.admin.ch/eli/oc/2006/259/de)](https://fedlex.data.admin.ch/eli/oc/2006/259), [[5613](https://www.fedlex.admin.ch/eli/oc/2006/829/de)](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 para. 2 No 1; [[2009 6149](https://www.fedlex.admin.ch/eli/oc/2009/752/de)](https://fedlex.data.admin.ch/eli/oc/2009/752)No I and II; **2010** 3175 annex 3 No 2; [2015 775](https://www.fedlex.admin.ch/eli/oc/2015/141/de); [2017 5161](https://www.fedlex.admin.ch/eli/oc/2017/568/de)annex 2 No II 3. [[AS 2020 691](https://www.fedlex.admin.ch/eli/oc/2020/127/de)](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 para. 1 No 1]. See now: the O of 12 Febr. 2020 ([SR 1](https://www.fedlex.admin.ch/eli/cc/2020/127/de)[72.056.11](https://www.fedlex.admin.ch/eli/cc/2020/127/de)).
+[^42-1]: [ [[AS 1996 518](https://www.fedlex.admin.ch/eli/oc/1996/518_518_518/de)](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [[1997 2779](https://www.fedlex.admin.ch/eli/oc/1997/2779_2779_2779/de)](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)annex No II 5; [[2002 886](https://www.fedlex.admin.ch/eli/oc/2002/157/de)](https://fedlex.data.admin.ch/eli/oc/2002/157), [[1759](https://www.fedlex.admin.ch/eli/oc/2002/264/de)](https://fedlex.data.admin.ch/eli/oc/2002/264); [[2006 1667](https://www.fedlex.admin.ch/eli/oc/2006/259/de)](https://fedlex.data.admin.ch/eli/oc/2006/259), [[5613](https://www.fedlex.admin.ch/eli/oc/2006/829/de)](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 para. 2 No 1; [[2009 6149](https://www.fedlex.admin.ch/eli/oc/2009/752/de)](https://fedlex.data.admin.ch/eli/oc/2009/752)No I and II; **2010** 3175 annex 3 No 2; [2015 775](https://www.fedlex.admin.ch/eli/oc/2015/141/de); [2017 5161](https://www.fedlex.admin.ch/eli/oc/2017/568/de)annex 2 No II 3. [[AS 2020 691](https://www.fedlex.admin.ch/eli/oc/2020/127/de)](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 para. 1 No 1]. See now: the O of 12 Febr. 2020 ([[SR 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)](https://www.fedlex.admin.ch/eli/cc/2020/127/de)[72.056.11](https://www.fedlex.admin.ch/eli/cc/2020/127/de)).
 
 #### Art. 43
 
@@ -1112,7 +1112,7 @@ An application for dispute resolution is permitted only if:
 <sup>5</sup> It must communicate free of charge the personal data which it has available at the time of cessation of its dispute resolution activity to a new appointee or to OFCOM.[^48-6]
 
 [^48-1]: Amended by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^48-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^48-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^48-3]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 [^48-4]: Second sentence amended by Annex 2 No II 87 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^48-5]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
@@ -1663,7 +1663,7 @@ Telecommunications service providers may process customers’ traffic data witho
 
 [^81-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^81-2]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^81-3]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^81-3]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^81-4]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 82
@@ -1682,7 +1682,7 @@ Where a customer credibly shows in writing they are the victim of nuisance calls
 <sup>3</sup> If nuisance calls are made or unfair advertising is sent from connections of customers of another telecommunications service provider, all the providers involved in the communication process must supply the required information to the provider required to provide information under paragraph 1.
 
 [^82-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^82-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^82-2]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 83
 
@@ -1705,7 +1705,7 @@ Where a customer credibly shows in writing they are the victim of nuisance calls
 <sup>6</sup> In the case of unfair advertising as defined in Article 3 letters o and v UCA or a breach of related foreign regulations, the competent federal office may obtain the information and request documents from providers as required to exercise its right to file an action and to provide administrative assistance in accordance with the above-mentioned Act.
 
 [^83-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^83-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^83-2]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 84
 
@@ -1747,7 +1747,7 @@ When technically feasible with justifiable outlay, telecommunications service pr
 
 <sup>1</sup> Customers appearing in a directory shall have the right to indicate clearly therein that they do not wish to receive advertising communications from persons with whom they have no commercial relationship and that their particulars may not be communicated for direct canvassing.[^88-1]
 
-<sup>2</sup> and <sup>3</sup> ...[^88-2]
+<sup>2 and <sup>3</sup></sup> ...[^88-2]
 
 <sup>4</sup> Suppliers of online directories shall adopt the appropriate technical and organisational measures to prevent the contents of an entry or part of the directory from being changed or deleted by unauthorised persons.
 
@@ -1761,7 +1761,7 @@ When technically feasible with justifiable outlay, telecommunications service pr
 Provided this Ordinance does not contain any special regulations, the Federal Act of 25 September 2020[^89-2] on Data Protection applies.
 
 [^89-1]: Amended by Annex 2 No II 87 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^89-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^89-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 89a
 
@@ -1847,7 +1847,7 @@ Telecommunications service providers may be enlisted to support the bodies refer
 
 #### Art. 94
 
-**Measures**[^94-1]
+**Measures related to security communication[^94-2]**[^94-1]
 
 <sup>1</sup> Provided the chosen technology allows, DETEC may in exceptional situations order that civil telecommunications be restricted for the benefit of the bodies referred to in Article 47 paragraph 1 TCA.
 
@@ -1856,6 +1856,54 @@ Telecommunications service providers may be enlisted to support the bodies refer
 <sup>3</sup> Telecommunications service providers are authorised to partially restrict telecommunications for the benefit of the bodies referred to in Article 47 paragraph 1 TCA for no more than 36 hours if they find that their networks are overloaded. They shall notify OFCOM immediately.
 
 [^94-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^94-2]: Amended by No I of the O of 14 Jan. 2026, in force since 1 March 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 94a
+
+**Measures to be taken in the event of power outages to ensure mobile communications**[^94a-1]
+
+<sup>1</sup> Mobile telephony licensees may restrict mobile communications in the event of a power outage only to the extent required.
+
+<sup>2</sup> If restrictions are necessary, they must, as a matter of priority, restrict internet access for services that consume large amounts of data and are primarily intended for entertainment purposes.
+
+<sup>3</sup> They must inform users and OFCOM of the restrictions.
+
+<sup>4</sup>
+
+The following shall not be restricted:
+
+- a. emergency services;
+- b. the public telephone service;
+- c. basic services for the hearing impaired (Art. 15 para. 1 let. e);
+- d. services under Article 90;
+- e. radio broadcasts.
+
+<sup>5</sup>
+
+The following third-party services provided via the internet shall also not be restricted, provided that it is technically possible to exempt them from the restriction:
+
+- a. official communications and announcements;
+- b. telemedicine applications;
+- c. applications that serve public safety.
+
+<sup>6</sup> Providers of the services referred to in paragraph 5 must inform mobile telephony licensees of services that may not be restricted.
+
+[^94a-1]: Inserted by No I of the O of 14 Jan. 2026, in force since 1 March 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 94b
+
+**Contact point**[^94b-1]
+
+<sup>1</sup>
+
+Mobile telephony licensees must operate a contact point to receive the following reports:
+
+- a. information pursuant to Article 94*a* paragraph 6;
+- b. reports of services that have been wrongly restricted.
+
+<sup>2</sup> They must publish the contact details for the contact point.
+
+[^94b-1]: Inserted by No I of the O of 14 Jan. 2026, in force since 1 March 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
 
 #### Art. 95
 
@@ -1950,6 +1998,38 @@ Articles 96*e*–96*g* apply to mobile telephony networks that meet the internat
 
 <sup>2</sup> If there is justified suspicion of an infringement of the law and if it proves necessary to establish the circumstances, OFCOM may request the mobile telephony licensees to undergo an audit by a suitably qualified body at their expense or to have their telecommunications installations investigated.
 
+### Section 6 Availability of Mobile Telephony Licensees’ Networks and Services in the event of a Power Outage
+
+[^chap10-sec6-1]
+
+[^chap10-sec6-1]: Inserted by No I of the O of 14 Jan. 2026, in force since 1 March 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 96h
+
+**Duty to prepare and scope of guarantee**
+
+<sup>1</sup> Mobile telephony licensees must take the necessary measures to ensure that, in the event of power outages lasting up to four hours, followed by a period of power supply lasting at least twice as long as the outage, they are able to maintain the telecommunications services referred to in Article 94*a* paragraphs 4 and 5 and internet access services.
+
+<sup>2</sup> They must ensure that, in the event of a power outage as referred to in paragraph 1, at least 99 per cent of their customers in each commune have access to mobile telecommunications services at their registered address.
+
+<sup>3</sup> If coverage under normal circumstances is less than 99 per cent, they must ensure that at least this lower level of coverage is achieved.
+
+<sup>4</sup> In the event of other power supply disruptions, the best possible level of telecommunications services must be guaranteed.
+
+#### Art. 96i
+
+**Tests**
+
+<sup>1</sup> Mobile telephony licensees must carry out regular tests.
+
+<sup>2</sup> They must report annually to OFCOM on the conduct and results of the tests.
+
+#### Art. 96j
+
+**Audit**
+
+If there is reasonable suspicion that a mobile telephony licensee is failing to fulfil its obligations under Article 96*h*, OFCOM may commission an audit at the licensee’s expense.
+
 ## Chapter 11 Official Telecommunications Statistics
 
 #### Art. 97
@@ -1962,7 +2042,7 @@ Articles 96*e*–96*g* apply to mobile telephony networks that meet the internat
 
 <sup>3</sup> Pursuant to the Federal Statistics Ordinance of 30 April 2025[^97-1], it shall co-ordinate its statistical work with the Federal Statistical Office and co-operate with that office.[^97-2]
 
-[^97-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^97-1]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^97-2]: Amended by Annex 3 No 13 of the Federal Statistics Ordinance of 30 April 2025, in force since 1 June 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 98
@@ -2042,7 +2122,7 @@ The persons entrusted with carrying out statistical work are subject to professi
 
 <sup>2</sup> The Secretary-General of the International Telecommunication Union (ITU) may recognise as «Sector Members» (Article 19, ITU Convention) other telecommunications service providers and other organisations or institutions with a registered office or commercial activities in Switzerland if they guarantee that they fulfil the ITU’s requirements.[^104-2]
 
-[^104-1]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^104-1]: [SR 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 [^104-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Chapter 13 Final Provisions
@@ -2111,6 +2191,21 @@ Providers of value-added services that do not have a registered office or a perm
 Article 96*a* paragraphs 2 and 3 must be implemented by 1 January 2024 at the latest.
 
 [^108c-1]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 108d
+
+**Transitional provisions to the Amendment of 14 January 2026**[^108d-1]
+
+<sup>1</sup> Mobile telephony licensees must implement the measures set out in Article 96*h* relating to emergency services by 31 January 2031, and the measures relating to other services by 31 January 2034.
+
+<sup>2</sup>
+
+They must report to OFCOM as follows:
+
+- a. They shall submit a plan for the implementation of the measures set out in Articles 94*a*, 96*h* and 96*i* by 31 January 2027.
+- b. They shall submit an interim progress report annually, starting on 31 January 2028 and ending on 31 January 2034.
+
+[^108d-1]: Inserted by No I of the O of 14 Jan. 2026, in force since 1 March 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
 
 ### Section 4 Commencement
 

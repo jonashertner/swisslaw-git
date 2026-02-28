@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2025-06-01
+version: 2026-03-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20250601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260301/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20250601/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. Juni 2025)
+vom 9. März 2007 (Stand am 1. März 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Fernmeldegesetz vom 30. April 1997[^ingress-1] (FMG),[^ingress
 
 verordnet:
 
-[^ingress-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## 1. Kapitel: Begriffe
@@ -77,7 +77,7 @@ Keinen Fernmeldedienst erbringt namentlich, wer Informationen überträgt:
 <sup>2</sup> Das BAKOM veröffentlicht die Korrespondenzadresse. Es kann sie durch ein Abrufverfahren zugänglich machen.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^4-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^4-2]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 5
 
@@ -97,7 +97,7 @@ Der Dienst Überwachung Post- und Fernmeldeverkehr stellt dem BAKOM kostenlos di
 
 <sup>3</sup> Im Notfall kann eine Anbieterin eine Fernmeldeendeinrichtung unverzüglich vom Netz trennen, wenn dessen Schutz dies erfordert und der Benutzerin oder dem Benutzer umgehend und kostenfrei eine Alternative angeboten werden kann. Sie unterrichtet unverzüglich das BAKOM.
 
-[^6-1]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^6-1]: [SR 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^6-2]: Bezeichnung gemäss Art. 43 Abs. 1 Bst. a der V vom 25. Nov. 2015 über Fernmeldeanlagen, in Kraft seit 13. Juni 2016 ([AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
 
 #### Art. 7
@@ -123,7 +123,7 @@ Der Dienst Überwachung Post- und Fernmeldeverkehr stellt dem BAKOM kostenlos di
 Für Anbieterinnen, die zur Erbringung ihrer Fernmeldedienste das Funkfrequenzspektrum nutzen, gilt die Verordnung vom 18. November 2020[^8-2] über die Nutzung des Funkfrequenzspektrums.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^8-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^8-2]: [SR 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 9
 
@@ -301,7 +301,7 @@ Der Eintrag einer Kundin oder eines Kunden in Verzeichnissen von Fernmeldedienst
 <sup>5</sup> Das BAKOM definiert die Datenfeldbezeichnungen und die anderen Zusatzdaten, die für die Formatierung und Veröffentlichung von Verzeichnissen notwendig sind.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^11-2]: [SR 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+[^11-2]: [SR 942.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11240)
 
 ## 3. Kapitel: Grundversorgung
 
@@ -678,7 +678,7 @@ Der periodische Versand der Papierrechnung muss für diejenigen Kundinnen und Ku
 <sup>2</sup> Die Anbieterinnen von Satellitenmobilfunkdiensten der Grundversorgung, denen die Internationale Fernmeldeunion Adressierungselemente zugewiesen hat, müssen nur den unentgeltlichen Zugang zur europäischen Notrufnummer gewährleisten.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^27-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^27-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 28
 
@@ -687,7 +687,7 @@ Der periodische Versand der Papierrechnung muss für diejenigen Kundinnen und Ku
 Die Anbieterinnen des öffentlichen Telefondienstes müssen die Leitweglenkung der Notrufe zu den Notrufdiensten nach Artikel 28 AEFV[^28-2] sicherstellen.
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^28-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^28-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 29
 
@@ -700,7 +700,7 @@ Die Anbieterinnen des öffentlichen Telefondienstes müssen die Leitweglenkung d
 <sup>3</sup> Auf Gesuch hin kann das BAKOM weitere ausschliesslich für Notrufdienste der Polizei, der Feuerwehr sowie der Sanitäts- und Rettungsdienste bestimmte Nummern bezeichnen, bei denen die Standortidentifikation zu garantieren ist. Es publiziert die Liste dieser Nummern.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^29-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 29a
 
@@ -892,7 +892,7 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 
 <sup>5</sup> Mehrwertdienste mit erotischen oder pornografischen Inhalten müssen einer separaten, für die Kundinnen und Kunden klar erkennbaren Kategorie angehören.
 
-[^36-1]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^36-1]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^36-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^36-3]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
@@ -958,8 +958,8 @@ Solange die Möglichkeit der Anfechtung ihrer Rechnung besteht, können die Kund
 <sup>2</sup> Zu den in Absatz 1 und Artikel 39*a* geregelten Preisen dürfen für Verbindungen zu Nummern des Typs 0800, 00800, 084x, 090x sowie zu Kurznummern nach den Artikeln 29–32 und 54 AEFV keine Zuschläge verlangt werden.
 
 [^39b-1]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^39b-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
-[^39b-3]: [SR 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+[^39b-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+[^39b-3]: [SR 942.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11240)
 
 #### Art. 40
 
@@ -976,7 +976,7 @@ Solange die Möglichkeit der Anfechtung ihrer Rechnung besteht, können die Kund
 <sup>5</sup> Die Anbieterinnen von Fernmeldediensten nach den Absätzen 1, 2 und 3 informieren ihre Kundinnen und Kunden beim Vertragsabschluss und danach mindestens einmal jährlich über diese Sperrmöglichkeiten.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^40-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^40-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^40-3]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 41
@@ -1005,7 +1005,7 @@ Um zu entscheiden, ob der Zugang zu Mehrwertdiensten gesperrt werden muss, tun d
 - b. Im Zweifelsfall verlangen sie, dass ein gültiger Reisepass, eine gültige Identitätskarte oder ein anderes für den Grenzübertritt in die Schweiz zulässiges Reisedokument vorgezeigt wird.
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^41-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^41-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 ## 6. Kapitel: Schlichtungsstelle
 
@@ -1030,7 +1030,7 @@ Es kann der Beauftragten die Schlichtungsaufgabe übertragen, wenn die Beauftrag
 
 <sup>5</sup> Das BAKOM genehmigt die Ernennung der für die Schlichtungsstelle verantwortlichen natürlichen Person.
 
-[^42-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Anhang Ziff. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff. I und II; **2010** 3175 Anhang 3 Ziff. 2; **2015** 775; **2017** 5161 Anhang 2 Ziff. II 3. [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)Art. 31 Abs. 1 Ziff. 1]. Siehe heute: die V vom 12. Febr. 2020 ([SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
+[^42-1]: [[AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Anhang Ziff. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157), [1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259), [5613](https://fedlex.data.admin.ch/eli/oc/2006/829)Art. 30 Abs. 2 Ziff. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752)Ziff. I und II; **2010** 3175 Anhang 3 Ziff. 2; **2015** 775; **2017** 5161 Anhang 2 Ziff. II 3. [AS 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)Art. 31 Abs. 1 Ziff. 1]. Siehe heute: die V vom 12. Febr. 2020 ([SR 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)).
 
 #### Art. 43
 
@@ -1106,7 +1106,7 @@ Ein Schlichtungsbegehren ist nur zulässig, wenn:
 <sup>5</sup> Sie muss einer neuen Beauftragten oder dem BAKOM die persönlichen Daten, über die sie zum Zeitpunkt der Einstellung ihrer Schlichtungstätigkeit verfügt, unentgeltlich mitteilen.[^48-6]
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^48-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^48-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^48-3]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 [^48-4]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 87 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^48-5]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
@@ -1657,7 +1657,7 @@ Die Anbieterinnen von Fernmeldediensten dürfen die Verkehrsdaten der Kundinnen 
 
 [^81-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^81-2]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^81-3]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^81-3]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^81-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 82
@@ -1676,7 +1676,7 @@ Macht eine Kundin oder ein Kunde schriftlich glaubhaft, dass sie oder er missbr�
 <sup>3</sup> Erfolgen missbräuchliche Anrufe oder der Versand von unlauterer Werbung von Anschlüssen von Kundinnen oder Kunden einer anderen Anbieterin aus, so müssen sämtliche an der Kommunikation beteiligten Anbieterinnen der nach Absatz 1 auskunftspflichtigen Anbieterin die notwendigen Informationen liefern.
 
 [^82-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^82-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^82-2]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 83
 
@@ -1699,7 +1699,7 @@ Macht eine Kundin oder ein Kunde schriftlich glaubhaft, dass sie oder er missbr�
 <sup>8</sup> Bei unlauterer Werbung im Sinne von Artikel 3 Buchstaben o und v UWG oder entsprechenden ausländischen Vorschriften kann die zuständige Bundesstelle für die Ausübung ihres Klagerechts und für die Gewährung der Amtshilfe nach dem UWG von den Anbieterinnen die erforderlichen Auskünfte einholen und Unterlagen verlangen.
 
 [^83-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^83-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^83-2]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 84
 
@@ -1755,7 +1755,7 @@ Wenn es mit vertretbarem Aufwand technisch möglich ist, müssen die Anbieterinn
 Soweit diese Verordnung keine besondere Regelung enthält, gilt das Datenschutzgesetz vom 25. September 2020[^89-2].
 
 [^89-1]: Fassung gemäss Anhang 2 Ziff. II 87 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^89-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^89-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 89a
 
@@ -1841,7 +1841,7 @@ Die Anbieterinnen von Fernmeldediensten können zur Unterstützung der Organe na
 
 #### Art. 94
 
-**Massnahmen**[^94-1]
+**Massnahmen im Bereich der Sicherheitskommunikation[^94-2]**[^94-1]
 
 <sup>1</sup> Soweit es die gewählte Technik zulässt, kann das UVEK in ausserordentlichen Lagen anordnen, dass der zivile Fernmeldeverkehr zugunsten der Organe nach Artikel 47 Absatz 1 FMG eingeschränkt wird.
 
@@ -1850,6 +1850,54 @@ Die Anbieterinnen von Fernmeldediensten können zur Unterstützung der Organe na
 <sup>3</sup> Die Anbieterinnen von Fernmeldediensten können den zivilen Fernmeldeverkehr zugunsten der Organe nach Artikel 47 Absatz 1 FMG für höchstens 36 Stunden einschränken, wenn sie eine Überlastung ihrer Netze feststellen. Sie informieren das BAKOM unverzüglich.
 
 [^94-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^94-2]: Fassung gemäss Ziff. I der V vom 14. Jan. 2026, in Kraft seit 1. März 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 94a
+
+**Massnahmen bei Stromausfällen zugunsten des Mobilfunkverkehrs**[^94a-1]
+
+<sup>1</sup> Die Mobilfunkkonzessionärinnen dürfen den Mobilfunkverkehr bei einem Stromausfall nur so weit wie nötig einschränken.
+
+<sup>2</sup> Ist eine Einschränkung erforderlich, so müssen sie in erster Priorität den Zugangsdienst zum Internet für Dienste einschränken, die grosse Datenmengen beanspruchen und hauptsächlich der Unterhaltung dienen.
+
+<sup>3</sup> Sie müssen die Nutzerinnen und Nutzer und das BAKOM über die Einschränkungen informieren.
+
+<sup>4</sup>
+
+Nicht eingeschränkt werden dürfen:
+
+- a. die Notrufdienste;
+- b. der öffentliche Telefondienst;
+- c. die Grundversorgungsdienste für Hörbehinderte (Art. 15 Abs. 1 Bst. e);
+- d. Leistungen nach Artikel 90;
+- e. Radioprogramme.
+
+<sup>5</sup>
+
+Ebenfalls nicht eingeschränkt werden dürfen die folgenden, über das Internet erbrachten Dienstleistungen Dritter, sofern sie technisch von der Einschränkung ausgenommen werden können:
+
+- a. behördliche Mitteilungen und Nachrichten;
+- b. telemedizinische Anwendungen;
+- c. Anwendungen, die der öffentlichen Sicherheit dienen.
+
+<sup>6</sup> Die Anbieterinnen der Dienstleistungen nach Absatz 5 müssen die Mobilfunkkonzessionärinnen über Dienstleistungen, die nicht eingeschränkt werden dürfen, informieren.
+
+[^94a-1]: Eingefügt durch Ziff. I der V vom 14. Jan. 2026, in Kraft seit 1. März 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 94b
+
+**Kontaktstelle**[^94b-1]
+
+<sup>1</sup>
+
+Die Mobilfunkkonzessionärinnen müssen eine Kontaktstelle betreiben, welche die folgenden Meldungen entgegennimmt:
+
+- a. Informationen nach Artikel 94*a* Absatz 6;
+- b. Meldungen von zu Unrecht eingeschränkten Dienstleistungen.
+
+<sup>2</sup> Sie müssen deren Kontaktangaben veröffentlichen.
+
+[^94b-1]: Eingefügt durch Ziff. I der V vom 14. Jan. 2026, in Kraft seit 1. März 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
 
 #### Art. 95
 
@@ -1944,6 +1992,38 @@ Die Artikel 96*e*–96*g* gelten für Mobilfunknetze, die den international fest
 
 <sup>2</sup> Besteht ein begründeter Verdacht auf eine Rechtsverletzung und erweist es sich zur Feststellung des Sachverhalts als notwendig, so kann das BAKOM von den Mobilfunkkonzessionärinnen verlangen, sich auf eigene Kosten einem Audit durch eine qualifizierte Stelle zu unterziehen oder ihre Fernmeldeanlagen prüfen zu lassen.
 
+### 6. Abschnitt: Verfügbarkeit von Netzen und Diensten der Mobilfunkkonzessionärinnen bei einer Störung der Stromversorgung
+
+[^chap10-sec6-1]
+
+[^chap10-sec6-1]: Eingefügt durch Ziff. I der V vom 14. Jan. 2026, in Kraft seit 1. März 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 96h
+
+**Pflicht zur Vorbereitung und Umfang der Gewährleistung**
+
+<sup>1</sup> Die Mobilfunkkonzessionärinnen müssen die erforderlichen Massnahmen treffen, damit sie bei Stromausfällen von bis zu 4 Stunden, gefolgt von einer Phase mit Strom, die mindestens zweimal so lange dauert wie der Ausfall, die Fernmeldedienste nach Artikel 94*a* Absätze 4 und 5 sowie den Zugangsdienst zum Internet gewährleisten können.
+
+<sup>2</sup> Sie müssen gewährleisten, dass bei einem Stromausfall nach Absatz 1 pro Gemeinde mindestens 99 Prozent ihrer Kundinnen und Kunden an ihrer Vertragsadresse Zugang zu den mobilen Fernmeldediensten haben.
+
+<sup>3</sup> Beträgt die Abdeckung in der normalen Lage weniger als 99 Prozent, so müssen sie mindestens diesen Wert gewährleisten.
+
+<sup>4</sup> Bei anderen Störungen der Stromversorgung sind die Fernmeldedienste so gut wie möglich zu gewährleisten.
+
+#### Art. 96i
+
+**Tests**
+
+<sup>1</sup> Die Mobilfunkkonzessionärinnen müssen regelmässig Tests durchführen.
+
+<sup>2</sup> Sie müssen dem BAKOM über die Durchführung und die Resultate der Tests jährlich Bericht erstatten.
+
+#### Art. 96j
+
+**Audit**
+
+Besteht der begründete Verdacht, dass eine Mobilfunkkonzessionärin ihre Pflichten nach Artikel 96*h* nicht erfüllt, so kann das BAKOM auf Kosten der Mobilfunkkonzessionärin ein Audit durchführen lassen.
+
 ## 11. Kapitel: Amtliche Fernmeldestatistik
 
 #### Art. 97
@@ -1956,7 +2036,7 @@ Die Artikel 96*e*–96*g* gelten für Mobilfunknetze, die den international fest
 
 <sup>3</sup> In Anwendung der Bundesstatistikverordnung vom 30. April 2025[^97-1] koordiniert es seine statistischen Arbeiten mit dem Bundesamt für Statistik und arbeitet mit diesem zusammen.[^97-2]
 
-[^97-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^97-1]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^97-2]: Fassung gemäss Anhang 3 Ziff. 13 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 98
@@ -2036,7 +2116,7 @@ Die mit der Durchführung von statistischen Arbeiten betrauten Personen unterlie
 
 <sup>2</sup> Die Generalsekretärin oder der Generalsekretär der Internationalen Fernmeldeunion (ITU) kann andere Anbieterinnen von Fernmeldediensten sowie andere Organisationen und Institutionen mit Sitz oder Geschäftstätigkeit in der Schweiz als Mitglieder der Sektoren im Sinne von Artikel 19 der ITU-Konvention anerkennen, wenn sie Gewähr bieten, dass sie die Anforderungen der ITU erfüllen.[^104-2]
 
-[^104-1]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^104-1]: [SR 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 [^104-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## 13. Kapitel: Schlussbestimmungen
@@ -2105,6 +2185,21 @@ Die Anbieterinnen von Mehrwertdiensten, die im Zeitpunkt des Inkrafttretens dies
 Artikel 96*a* Absätze 2 und 3 ist spätestens bis zum 1. Januar 2024 umzusetzen.
 
 [^108c-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 108d
+
+**Übergangsbestimmungen zur Änderung vom 14. Januar 2026**[^108d-1]
+
+<sup>1</sup> Die Mobilfunkkonzessionärinnen müssen die Massnahmen nach Artikel 96*h* betreffend die Notrufdienste bis zum 31. Januar 2031 umsetzen, die Massnahmen betreffend die weiteren Dienste bis zum 31. Januar 2034.
+
+<sup>2</sup>
+
+Sie müssen dem BAKOM wie folgt Bericht erstatten:
+
+- a. Sie reichen bis zum 31. Januar 2027 einen Plan über die Umsetzung der Massnahmen nach den Artikeln 94*a*, 96*h* und *96i* ein.
+- b. Sie reichen jährlich einen Zwischenstandsbericht ein, erstmals am 31. Januar 2028, letztmals am 31. Januar 2034.
+
+[^108d-1]: Eingefügt durch Ziff. I der V vom 14. Jan. 2026, in Kraft seit 1. März 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
 
 ### 4. Abschnitt: Inkrafttreten
 

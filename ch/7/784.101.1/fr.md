@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2025-06-01
+version: 2026-03-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20250601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20250601/fr"
 
 (OST)
 
-du 9 mars 2007 (État le 1<sup>er</sup> juin 2025)
+du 9 mars 2007 (État le 1<sup>er</sup> mars 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 30 avril 1997 sur les télécommunications (LTC)[^ingress-1],[^ingr
 
 arrête:
 
-[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Chapitre 1 Définitions
@@ -77,7 +77,7 @@ N’est pas réputé fournir un service de télécommunication quiconque transme
 <sup>2</sup> L’OFCOM publie l’adresse de correspondance. Il peut la rendre accessible par procédure d’appel.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^4-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^4-2]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 5
 
@@ -97,7 +97,7 @@ Le Service de surveillance de la correspondance par poste et télécommunication
 
 <sup>3</sup> En cas d’urgence, le fournisseur de services de télécommunication peut immédiatement déconnecter une installation du réseau si la protection de ce dernier l’exige et si une solution de rechange peut être offerte gratuitement et sans délai à l’utilisateur. Il en informe immédiatement l’OFCOM.
 
-[^6-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24). Nouvelle expression selon l’art. 43 al. 1 let. a de l’O du 25 nov. 2015 sur les installations de télécommunication, en vigueur depuis le 13 juin 2016 ([RO 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
+[^6-1]: [RS 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182). Nouvelle expression selon l’art. 43 al. 1 let. a de l’O du 25 nov. 2015 sur les installations de télécommunication, en vigueur depuis le 13 juin 2016 ([RO 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
 
 #### Art. 7
 
@@ -122,7 +122,7 @@ Le Service de surveillance de la correspondance par poste et télécommunication
 L’ordonnance du 18 novembre 2020 sur l’utilisation du spectre des fréquences de radiocommunication[^8-2] est applicable à tout fournisseur de services de télécommunication utilisant le spectre des fréquences.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^8-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^8-2]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 9
 
@@ -300,7 +300,7 @@ L’inscription d’un client dans les annuaires de services de télécommunicat
 <sup>5</sup> L’OFCOM définit les désignations des champs de données et les autres données complémentaires dont l’utilisation s’avère nécessaire pour mettre en forme et publier des annuaires.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^11-2]: [RS 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+[^11-2]: [RS 942.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11240)
 
 ## Chapitre 3 Service universel
 
@@ -677,7 +677,7 @@ L’envoi périodique de la facture papier doit être gratuit pour le client qui
 <sup>2</sup> Les fournisseurs de services de télécommunication mobiles par satellite relevant du service universel auxquels des ressources d’adressage ont été attribuées par l’Union internationale des télécommunications doivent uniquement garantir, gratuitement, l’accès au numéro d’urgence européen.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^27-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^27-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 28
 
@@ -686,7 +686,7 @@ L’envoi périodique de la facture papier doit être gratuit pour le client qui
 Les fournisseurs du service téléphonique public doivent garantir l’acheminement des appels d’urgence vers les services d’appel d’urgence visés à l’art. 28 ORAT[^28-2].
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^28-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^28-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 29
 
@@ -699,7 +699,7 @@ Les fournisseurs du service téléphonique public doivent garantir l’acheminem
 <sup>3</sup> Sur demande, l’OFCOM peut désigner d’autres numéros destinés exclusivement aux services d’appel d’urgence de la police, des pompiers et des services sanitaires et de sauvetage, pour lesquels la localisation des appels doit être garantie. Il publie la liste de ces numéros.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^29-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 29a
 
@@ -891,7 +891,7 @@ Les fournisseurs de services de télécommunication ayant l’obligation d’ass
 
 <sup>5</sup> Les services à valeur ajoutée à caractère érotique ou pornographique doivent faire l’objet d’une catégorie à part, clairement identifiable par le client.
 
-[^36-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^36-1]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^36-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^36-3]: Introduit par le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
@@ -957,8 +957,8 @@ Aussi longtemps qu’ils peuvent contester la facture, les clients peuvent exige
 <sup>2</sup> Aucun supplément ne peut être perçu en sus des prix réglés à l’al. 1 et à l’art. 39*a* pour les communications vers des numéros de type 0800, 00800, 084x et 090x ainsi que vers des numéros courts au sens des art. 29 à 32 et 54 ORAT.
 
 [^39b-1]: Introduit par le ch. I de l’O du 5 nov. 2014 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^39b-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
-[^39b-3]: [RS 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
+[^39b-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+[^39b-3]: [RS 942.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11240)
 
 #### Art. 40
 
@@ -975,7 +975,7 @@ Aussi longtemps qu’ils peuvent contester la facture, les clients peuvent exige
 <sup>5</sup> Les fournisseurs de services de télécommunication visés aux al. 1, 2 et 3 signalent ces possibilités de blocage à leurs clients lors de la conclusion du contrat, puis au moins une fois par année.
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^40-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^40-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^40-3]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 41
@@ -1004,7 +1004,7 @@ Pour déterminer s’il y a lieu de bloquer l’accès à des services à valeur
 - b. exigent, en cas de doute, la production d’un passeport ou d’une carte d’identité valables ou d’un autre document de voyage reconnu pour entrer en Suisse.
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^41-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^41-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 ## Chapitre 6 Organe de conciliation
 
@@ -1029,7 +1029,7 @@ Il peut charger un délégataire d’exercer la tâche incombant à l’organe d
 
 <sup>5</sup> L’OFCOM approuve la nomination de la personne physique désignée en tant que personne responsable de l’organe de conciliation.
 
-[^42-1]: [[RO 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157)[1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259)[5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 al. 2 ch. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752); [2010 1565](https://fedlex.data.admin.ch/eli/oc/2010/222)[3175](https://fedlex.data.admin.ch/eli/oc/2010/427)annexe 3 ch. 2; [2015 775](https://fedlex.data.admin.ch/eli/oc/2015/141); [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)annexe 2 ch. II 3. [RO 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 al. 1 ch. 1]. Voir actuellement l’O du 12 février 2020 ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
+[^42-1]: [[RO 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 5; [2002 886](https://fedlex.data.admin.ch/eli/oc/2002/157)[1759](https://fedlex.data.admin.ch/eli/oc/2002/264); [2006 1667](https://fedlex.data.admin.ch/eli/oc/2006/259)[5613](https://fedlex.data.admin.ch/eli/oc/2006/829)art. 30 al. 2 ch. 1; [2009 6149](https://fedlex.data.admin.ch/eli/oc/2009/752); [2010 1565](https://fedlex.data.admin.ch/eli/oc/2010/222)[3175](https://fedlex.data.admin.ch/eli/oc/2010/427)annexe 3 ch. 2; [2015 775](https://fedlex.data.admin.ch/eli/oc/2015/141); [2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)annexe 2 ch. II 3. [RO 2020 691](https://fedlex.data.admin.ch/eli/oc/2020/127)art. 31 al. 1 ch. 1]. Voir actuellement l’O du 12 février 2020 ([RS 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)).
 
 #### Art. 43
 
@@ -1105,7 +1105,7 @@ Une requête en conciliation est recevable uniquement:
 <sup>5</sup> Il est tenu de communiquer gratuitement à un nouveau délégataire ou à l’OFCOM les données personnelles qu’il détient au moment où il cesse ses activités de conciliation.[^48-5]
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^48-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^48-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^48-3]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 [^48-4]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^48-5]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
@@ -1654,7 +1654,7 @@ Les fournisseurs de services de télécommunication peuvent traiter les données
 
 [^81-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^81-2]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^81-3]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^81-3]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 [^81-4]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 82
@@ -1673,7 +1673,7 @@ Lorsqu’un client établit de manière vraisemblable, par écrit, qu’il a re�
 <sup>3</sup> Lorsque les communications abusives ou les envois de publicité déloyale proviennent d’un client d’un autre fournisseur, tous les fournisseurs impliqués dans la communication doivent livrer les informations requises au fournisseur assujetti à l’obligation de renseigner selon l’al. 1.
 
 [^82-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^82-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^82-2]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 83
 
@@ -1696,7 +1696,7 @@ Lorsqu’un client établit de manière vraisemblable, par écrit, qu’il a re�
 <sup>8</sup> En cas de publicité déloyale au sens de l’art. 3, let. o et v, LCD ou de dispositions étrangères similaires, l’autorité fédérale compétente peut demander aux fournisseurs de lui livrer les informations et les documents nécessaires pour exercer son droit d’action et pour garantir l’entraide administrative selon la LCD.
 
 [^83-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^83-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^83-2]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 84
 
@@ -1752,7 +1752,7 @@ Lorsque cela est techniquement réalisable à des conditions raisonnables, les f
 Dans la mesure où la présente ordonnance ne contient pas de disposition particulière, la loi fédérale du 25 septembre 2020 sur la protection des données[^89-2] est applicable.
 
 [^89-1]: Nouvelle teneur selon l’annexe 2 ch. II 87 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^89-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^89-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 89a
 
@@ -1838,7 +1838,7 @@ Les fournisseurs de services de télécommunication peuvent être amenés à off
 
 #### Art. 94
 
-**Mesures**[^94-1]
+**Mesures dans le domaine de la communication de sécurité[^94-2]**[^94-1]
 
 <sup>1</sup> Pour autant que la technique choisie le permette, le DETEC peut ordonner, dans des situations extraordinaires, que les télécommunications civiles soient limitées aux organismes visés à l’art. 47, al. 1, LTC.
 
@@ -1847,6 +1847,54 @@ Les fournisseurs de services de télécommunication peuvent être amenés à off
 <sup>3</sup> Les fournisseurs de services de télécommunication peuvent limiter les télécommunications civiles en faveur des organismes visés à l’art. 47, al. 1, LTC pour 36 heures au maximum lorsqu’ils constatent une surcharge de leur réseau. Ils en informent l’OFCOM immédiatement.
 
 [^94-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^94-2]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 94a
+
+**Mesures destinées à la radiocommunication mobile en cas de pannes d’électricité**[^94a-1]
+
+<sup>1</sup> En cas de panne d’électricité, les concessionnaires de radiocommunication mobile ne peuvent restreindre les télécommunications mobiles que dans la mesure où cela est nécessaire.
+
+<sup>2</sup> Si une restriction se révèle nécessaire, ils doivent restreindre en priorité le service d’accès à Internet pour les services qui nécessitent de gros volumes de données et servent principalement au divertissement.
+
+<sup>3</sup> Ils doivent communiquer les restrictions aux utilisateurs et à l’OFCOM.
+
+<sup>4</sup>
+
+Ils ne peuvent pas restreindre:
+
+- a. les services d’appel d’urgence;
+- b. le service téléphonique public;
+- c. les services pour malentendants (art. 15, al. 1, let. e);
+- d. les prestations énoncées à l’art. 90;
+- e. les programmes de radio.
+
+<sup>5</sup>
+
+Ils ne peuvent pas non plus restreindre les services de tiers ci-après fournis par Internet, pour autant qu’ils puissent techniquement les exclure de la restriction:
+
+- a. les communications et messages des autorités;
+- b. les applications de télémédecine;
+- c. les applications destinées à assurer la sécurité publique.
+
+<sup>6</sup> Les fournisseurs de services visés à l’al. 5 doivent informer les concessionnaires de radiocommunication mobile sur les services qu’ils ne peuvent pas restreindre.
+
+[^94a-1]: Introduit par le ch. I de l’O du 14 janv. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 94b
+
+**Point de contact**[^94b-1]
+
+<sup>1</sup>
+
+Les concessionnaires de radiocommunication mobile doivent disposer d’un point de contact, chargé de recenser:
+
+- a. les informations visées à l’art. 94*a*, al. 6;
+- b. les annonces concernant des services restreints à tort.
+
+<sup>2</sup> Ils doivent publier les coordonnées de leur point de contact.
+
+[^94b-1]: Introduit par le ch. I de l’O du 14 janv. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
 
 #### Art. 95
 
@@ -1941,6 +1989,38 @@ Les art. 96*e* à 96*g* s’appliquent aux réseaux de radiocommunication mobile
 
 <sup>2</sup> S’il existe un soupçon fondé de violation du droit et que cela s’avère nécessaire pour constater les faits, l’OFCOM peut obliger les concessionnaires de radiocommunication mobile à se soumettre à leurs frais à un audit réalisé par un organisme qualifié ou à faire contrôler leurs installations de télécommunication.
 
+### Section 6 Disponibilité des réseaux et services des concessionnaires de radiocommunication mobile en cas de perturbation de l’approvisionnement en électricité
+
+[^chap10-sec6-1]
+
+[^chap10-sec6-1]: Introduite par le ch. I de l’O du 14 janv. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 96h
+
+**Obligation de préparation et étendue de la garantie**
+
+<sup>1</sup> En cas de panne d’électricité ne dépassant pas 4 heures, suivie d’une phase d’alimentation au moins deux fois aussi longue que la panne, les concessionnaires de radiocommunication mobile doivent prendre les mesures nécessaires pour assurer les services de télécommunication visés à l’art. 94*a*, al. 4 et 5, ainsi que le service d’accès à Internet.
+
+<sup>2</sup> En cas de panne d’électricité visée à l’al. 1, ils doivent garantir que, dans chaque commune, au moins 99 % de leurs clients disposent d’un accès aux services de télécommunication mobile à l’adresse figurant sur leur contrat.
+
+<sup>3</sup> Si la couverture n’atteint pas 99 % en situation normale, ils doivent au moins garantir la couverture habituelle.
+
+<sup>4</sup> En cas d’autres perturbations de l’approvisionnement en électricité, les services de télécommunication doivent être assurés autant que possible.
+
+#### Art. 96i
+
+**Tests**
+
+<sup>1</sup> Les concessionnaires de radiocommunication mobile doivent effectuer des tests réguliers.
+
+<sup>2</sup> Ils doivent remettre chaque année à l’OFCOM un rapport sur la réalisation et les résultats des tests.
+
+#### Art. 96j
+
+**Audit**
+
+S’il existe un soupçon fondé qu’un concessionnaire de radiocommunication mobile ne remplit pas les obligations prévues à l’art. 96*h*, l’OFCOM peut faire réaliser un audit aux frais du concessionnaire.
+
 ## Chapitre 11 Statistique officielle sur les télécommunications
 
 #### Art. 97
@@ -1953,7 +2033,7 @@ Les art. 96*e* à 96*g* s’appliquent aux réseaux de radiocommunication mobile
 
 <sup>3</sup> Il collabore et coordonne ses travaux statistiques avec l’Office fédéral de la statistique en application de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^97-1].[^97-2]
 
-[^97-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
+[^97-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^97-2]: Nouvelle teneur selon l’annexe 3 ch. 13 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 98
@@ -2033,7 +2113,7 @@ Les personnes chargées des travaux statistiques sont tenues de garder le secret
 
 <sup>2</sup> Le Secrétaire général de l’Union internationale des télécommunications (UIT) peut reconnaître comme membres des Secteurs au sens de l’art. 19 de la Convention de l’UIT tout autre fournisseur de services de télécommunication ainsi que toute autre organisation ou institution ayant son siège ou son activité commerciale en Suisse, s’ils garantissent qu’ils satisfont aux exigences de l’UIT.[^104-2]
 
-[^104-1]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^104-1]: [RS 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 [^104-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 ## Chapitre 13 Dispositions finales
@@ -2102,6 +2182,21 @@ Les fournisseurs de services à valeur ajoutée qui n’ont ni leur siège ni un
 L’art. 96*a*, al. 2 et 3, doit être mis en oeuvre au plus tard le 1<sup>er</sup> janvier 2024.
 
 [^108c-1]: Introduit par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 108d
+
+**Dispositions transitoires relatives à la modification du 14 janvier 2026**[^108d-1]
+
+<sup>1</sup> Les concessionnaires de radiocommunication mobile ont jusqu’au 31 janvier 2031 pour mettre en œuvre les mesures énumérées à l’art. 96*h* concernant les services d’appel d’urgence, et jusqu’au 31 janvier 2034 pour mettre en œuvre les mesures concernant les autres services.
+
+<sup>2</sup>
+
+Ils sont tenus de remettre à l’OFCOM:
+
+- a. un plan de mise en œuvre des mesures énumérées aux art. 94*a*, 96*h* et 96*i* au plus tard le 31 janvier 2027;
+- b. un rapport annuel intermédiaire, la première fois le 31 janvier 2028, et la dernière fois le 31 janvier 2034.
+
+[^108d-1]: Introduit par le ch. I de l’O du 14 janv. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
 
 ### Section 4 Entrée en vigueur
 
