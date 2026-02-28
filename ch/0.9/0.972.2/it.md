@@ -3,11 +3,11 @@ sr: "0.972.2"
 title: "Accordo di fondazione della Banca asiatica di sviluppo, del 4 dicembre 1965"
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/860_861_861"
 language: it
-version: 2022-05-13
+version: 2026-03-01
 adopted: 1965-12-04
 in_force: 1967-12-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20220513/it/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20220513-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20220513/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20260301/it/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20260301-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20260301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Manila il 4 dicembre 1965 Approvato dall’Assemblea federale il 5 dicembre 1967[^t-1] Strumento d’accettazione depositato dalla Svizzera il 29 dicembre 1967 Entrato in vigore per la Svizzera il 31 dicembre 1967
 
-(Stato 13 maggio 2022)
+(Stato 1° marzo 2026)
 
 [^t-1]: [RU 1971 860](https://fedlex.data.admin.ch/eli/oc/1971/858_859_860)
 
@@ -171,15 +171,17 @@ Riservate le condizioni stipulate nel presente Accordo, la Banca ha la facoltà 
 
 #### Art. 12
 
-**Limiti delle operazioni ordinarie**
+**Limiti delle operazioni ordinarie**[^12-1]
 
-<sup>1.</sup> Il montante totale in corso delle operazioni di mutuo, di sottoscrizione di azioni e di garanzia effettuate dalla Banca nell’ambito ordinario, non dovrà mai eccedere il capitale, sottoscritto e non ridotto, le riserve e gli eccedenti compresi nel capitale ordinario, eccettuate la riserva speciale giusta l’articolo 17 e le altre riserve non utilizzabili in operazioni ordinarie.
+<sup>1.</sup> *...*
 
-<sup>2.</sup> Se la Banca concede mutui mediante mezzi che si è procurata con l’assunzione di crediti e che pertanto sono soggetti al richiamo di cui all’articolo 6, paragrafo 5, la somma complessiva dei mutui aperti e rifondibile in una determinata valuta non potrà mai eccedere quella dei crediti in corso, assunti dalla Banca e pagabili nella medesima valuta.
+<sup>2.</sup> Se la Banca concede mutui mediante mezzi che si è procurata con l’assunzione di crediti e che pertanto sono soggetti al richiamo di cui all’articolo 6 paragrafo 5, la somma complessiva dei mutui aperti e rifondibile in una determinata valuta non potrà mai eccedere quella dei crediti in corso, assunti dalla Banca e pagabili nella medesima valuta.
 
 <sup>3.</sup> Se parte del capitale ordinario è investita in capitali sociali, la somma investita non deve superare il dieci (10) per cento di quella complessiva del capitale azionario, integro liberato e, in un determinato momento, effettivamente versato nonché delle riserve ed eccedenze attinenti ai mezzi ordinari, senza la riserva speciale di cui all’articolo 17.
 
 <sup>4.</sup> La somma investita in capitali sociali non deve superare la percentuale, che il Consiglio d’amministrazione ha stabilito nei singoli casi, del capitale sociale della rispettiva corporazione od impresa. Questi investimenti non devono però indurre la Banca ad assicurarsi una partecipazione dominante nell’impresa o corporazione, a meno che ciò non sia necessario per tutelare l’investimento.
+
+[^12-1]: Nuovo testo giusta la Ris. n. 437 approvata dal Consiglio dei Governatori il 30 nov. 2025, in vigore per la Svizzera dal 1° mar. 2026 ([RU 2026 121](https://fedlex.data.admin.ch/eli/oc/2026/121)).
 
 #### Art. 13
 
@@ -252,7 +254,9 @@ I pagamenti destinati a liberare la Banca dagli impegni contratti per crediti o 
 
 <sup>3.</sup> Ogni qualvolta sia necessario, per pagare interessi contrattuali, altri oneri od ammortamenti di mutui contratti dalla Banca nell’ambito delle operazioni ordinarie, o per adempiere a simili obblighi di pagamento inerenti a mutui garantiti e computabili nel capitale ordinario, la Banca ha facoltà di richiamare un montante adeguato del capitale sottoscritto soggetto a richiamo conformemente all’articolo 6, paragrafi 6 e 7.
 
-<sup>4.</sup> Nell’eventualità di mora nel pagamento di un mutuo accordato mediante mezzi prestati o garantiti dalla Banca nell’ambito delle operazioni ordinarie, essa può, se ritiene che la mora abbia a persistere, liberare una frazione addizionale di capitale soggetto a richiamo, sempreché tale frazione, non superi, annualmente, l’uno (1) per cento del totale delle sottoscrizioni dei Paesi membri a detto capitale.
+<sup>4.</sup>
+
+Nell’eventualità di mora nel pagamento di un mutuo accordato mediante mezzi prestati o garantiti dalla Banca nell’ambito delle operazioni ordinarie, essa può, se ritiene che la mora abbia a persistere, liberare una frazione addizionale di capitale soggetto a richiamo, sempreché tale frazione, non superi, annualmente, l’uno (1) per cento del totale delle sottoscrizioni dei Paesi membri a detto capitale:
 
 - i) per sciogliere o altrimenti adempiere l’impegno relativo a tutto o a parte della somma mutuata, non rimborsata di ogni muto da essa garantito e per il quale il debitore è in mora; e
 - ii) per riscattare, parzialmente o completamente, o altrimenti adempiere gli impegni della Banca inerenti a mezzi da essa assunti e non ancora rifusi.
@@ -300,10 +304,10 @@ Oltre le competenze ad essa riconosciute dal presente Accordo, la Banca ha la fa
 
   Contrarre mutui nei Paesi membri od altrove e, all’uopo, prestare fideiussioni e altre garanzie da essa giudicate come adeguate, restando tuttavia inteso che:
 
-  - a) prima di mettere in vendita proprie obbligazioni sul territorio di un Paese, la Banca abbia il consenso da quest’ultimo,
-  - b) se dette obbligazioni devono essere nella valuta di un Paese membro, occorre il consenso di quest’ultimo,
-  - c) essa ottenga l’assenso dei Paesi di cui alle lettere a e b del presente paragrafo affinché il reddito dei mutui possa essere cambiato, senza restrizioni, nella valuta di qualsiasi Paese membro,
-  - d) prima di emettere dette obbligazioni in un determinato Paese, la Banca esaminerà il montante da essa, eventualmente, già mutuato nel Paese in questione, nonché in altri Paesi e la possibilità di trovare dei fondi in quest’ultimi; essa terrà debitamente conto del principio secondo cui i mutui assunti siano distribuiti nella maggior misura possibile fra i Paesi finanziatori;
+  - a) prima di mettere in vendita proprie obbligazioni sul territorio di un Paese, la Banca abbia il consenso da quest’ultimo;
+  - b) se dette obbligazioni devono essere nella valuta di un Paese membro, occorre il consenso di quest’ultimo;
+  - c) essa ottenga l’assenso dei Paesi di cui alle lettere a e b del presente paragrafo affinché il reddito dei mutui possa essere cambiato, senza restrizioni, nella valuta di qualsiasi Paese membro;
+  - d) prima di emettere dette obbligazioni in un determinato Paese, la Banca esaminerà il montante da essa, eventualmente, già mutuato nel Paese in questione, nonché in altri Paesi e la possibilità di trovare dei fondi in quest’ultimi; essa terrà debitamente conto del principio secondo cui i mutui assunti siano distribuiti nella maggior misura possibile fra i Paesi finanziatori.
 
 - ii) Acquistare e vendere titoli da essa emessi o garantiti od in cui essa abbia investito dei fondi; rimane tuttavia riservato il previo consenso del Paese sul cui territorio i titoli sono acquistati o venduti.
 - iii) Garantire per facilitarne la vendita, titoli in cui essa abbia fatto degli investimenti.
@@ -363,9 +367,29 @@ La Banca non utilizza l’oro e le valute in suo possesso per acquistare altre d
 
 **Mantenimento del valore degli averi della Banca**
 
-<sup>1.</sup> Ogni volta che a) la parità della valuta di un Paese membro, dichiarata al Fondo Monetario Internazionale, è ridotta rispetto al dollaro definito all’articolo 4 del presente Accordo, oppure b) a giudizio della Banca, previa consultazione del Fondo Monetario Internazionale, il cambio della valuta di un Paese membro abbia subito un notevole deprezzamento, il Paese membro versa alla Banca, in un lasso ragionevole di tempo, la valuta necessaria al mantenimento del valore dell’avere della Banca in detta valuta in cui non sono compresi a) i fondi che essa si è procurata contraendo mutui e b) i Fondi speciali accettati conformemente all’articolo 19, paragrafo 1 ii); rimangono tuttavia riservate eventuali disposizioni contrarie dell’accordo di fondazione dei summenzionati Fondi.
+<sup>1.</sup>
 
-<sup>2.</sup> Ogni volta che, a) la parità della valuta di un Paese membro dichiarata al Fondo Monetario Internazionale, è aumentata rispetto al dollaro definito all’articolo 4 del presente Accordo, oppure b) a giudizio della Banca, previa consultazione del Fondo Monetario Internazionale, il cambio della valuta d’un Paese membro, è sensibilmente aumentato, la Banca, ristorna a detto Paese membro, entro un termine ragionevole, la valuta sufficiente a riadeguare l’avere in detta valuta, in cui non sono compresi: a) i fondi che essa si è procurata contraendo mutui e b) i Fondi speciali da essa accettati conformemente all’articolo 19, paragrafo 1 ii); rimangono tuttavia riservate le eventuali disposizioni contrarie dell’accordo di fondazione dei summenzionati Fondi.
+Ogni volta che:
+
+- a) la parità della valuta di un Paese membro, dichiarata al Fondo Monetario Internazionale, è ridotta rispetto al dollaro definito all’articolo 4 del presente Accordo, oppure
+- b) a giudizio della Banca, previa consultazione del Fondo Monetario Internazionale, il cambio della valuta di un Paese membro abbia subito un notevole deprezzamento,
+
+il Paese membro versa alla Banca, in un lasso ragionevole di tempo, la valuta necessaria al mantenimento del valore dell’avere della Banca in detta valuta in cui non sono compresi:
+
+- a) i fondi che essa si è procurata contraendo mutui e
+- b) i Fondi speciali accettati conformemente all’articolo 19, paragrafo 1 ii); rimangono tuttavia riservate eventuali disposizioni contrarie dell’accordo di fondazione dei summenzionati Fondi.
+
+<sup>2.</sup>
+
+Ogni volta che:
+
+- a) la parità della valuta di un Paese membro dichiarata al Fondo Monetario Internazionale, è aumentata rispetto al dollaro definito all’articolo 4 del presente Accordo, oppure
+- b) a giudizio della Banca, previa consultazione del Fondo Monetario Internazionale, il cambio della valuta d’un Paese membro, è sensibilmente aumentato,
+
+la Banca, ristorna a detto Paese membro, entro un termine ragionevole, la valuta sufficiente a riadeguare l’avere in detta valuta, in cui non sono compresi:
+
+- a) i fondi che essa si è procurata contraendo mutui e
+- b) i Fondi speciali da essa accettati conformemente all’articolo 19, paragrafo 1 ii); rimangono tuttavia riservate le eventuali disposizioni contrarie dell’accordo di fondazione dei summenzionati Fondi.
 
 <sup>3.</sup> La Banca ha la facoltà di rinunciare all’applicazione delle disposizioni del presente articolo, allorquando la modifica della parità è proporzionale e uniforme per tutte le valute dei Paesi membri.
 
@@ -432,8 +456,8 @@ Il Consiglio dei Governatori ha la facoltà di delegare parte o totalità delle 
 
   Il Consiglio d’amministrazione è composto di dieci (10) membri non appartenenti al Consiglio dei Governatori, di cui:
 
-  - a. sette (7), eletti dai Governatori rappresentanti i Paesi membri della regione; e
-  - b. tre (3) dai Governatori nominati dai Paesi membri non appartenenti alla regione.
+  - a) sette (7), eletti dai Governatori rappresentanti i Paesi membri della regione; e
+  - b) tre (3) dai Governatori nominati dai Paesi membri non appartenenti alla regione.
 
 - Gli Amministratori saranno persone profondamente competenti nel ramo finanziario ed economico e verranno eletti in conformità all’Allegato B del presente Accordo.
 - ii) Durante la seconda assemblea annuale del Consiglio dei Governatori, che farà seguito all’assemblea inaugurale, quest’ultimo riesaminerà l’effettivo e la composizione del Consiglio d’amministrazione ed aumenterà, a suo giudizio, il numero degli amministratori, tenendo debitamente conto dell’opportunità d’accrescere secondo le circostanze, la rappresentanza dei Paesi membri piccoli e meno sviluppati. Il Consiglio dei Governatori prende le decisioni di cui nel presente paragrafo a maggioranza del plenum rappresentante almeno i due terzi delle voci attribuite ai Paesi membri.
@@ -689,12 +713,16 @@ I Governatori, Amministratori, supplenti, funzionari ed impiegati della Banca, c
 
 <sup>2.</sup> Nessuna imposta è riscossa su o a cagione di salari ed onorari pagati dalla Banca ai propri Amministratori, supplenti, funzionari o impiegati, compresi gli esperti in missione, tranne qualora il Paese membro, depositando lo strumento di ratifica o d’accettazione, abbia dichiarato di riservare a se stesso, o a una sua suddivisone politica, il diritto di riscuotere imposte sui salari ed onorari della Banca pagati ai suoi cittadini o attinenti.
 
-<sup>3.</sup> Non può essere riscossa, sulle obbligazioni o suoi valori emessi dalla Banca, presso qualunque possessore, né sui pertinenti dividendi o interessi, alcuna imposta, di qualunque specie,
+<sup>3.</sup>
+
+Non può essere riscossa, sulle obbligazioni o suoi valori emessi dalla Banca, presso qualunque possessore, né sui pertinenti dividendi o interessi, alcuna imposta, di qualunque specie:
 
 - i) la quale discrimini tale obbligazione o valore per l’unico motivo d’essere stati emessi dalla Banca; oppure
 - ii) la quale riposi sull’unica base giuridica del luogo o della valuta d’emissione o pagamento, o della sede d’un ufficio o d’un centro operativo della Banca.
 
-<sup>4.</sup> Non può essere riscossa, sulle obbligazioni o sui valori garantiti dalla Banca, presso qualunque detentore, né sui pertinenti dividenti o interessi, alcuna imposta, di qualunque specie,
+<sup>4.</sup>
+
+Non può essere riscossa, sulle obbligazioni o sui valori garantiti dalla Banca, presso qualunque detentore, né sui pertinenti dividenti o interessi, alcuna imposta, di qualunque specie:
 
 - i) la quale discrimini tale obbligazione o valore per l’unico motivo d’essere stati garantiti dalla Banca; oppure
 - ii) la quale riposi sull’unica base giuridica della sede d’un ufficio o d’un centro operativo della Banca.
@@ -777,7 +805,9 @@ Il presente Accordo entra in vigore non appena gli strumenti di ratificazione o 
 
 <sup>1.</sup> Entrato in vigore l’Accordo, ciascun Paese membro provvede a nominare un Governatore e il Segretario esecutivo della Commissione economica dell’ONU per l’Asia e l’Estremo Oriente provvede a convocare l’assemblea inaugurale del Consiglio dei Governatori.
 
-<sup>2.</sup> Il Consiglio, nella sua prima assemblea,
+<sup>2.</sup>
+
+Il Consiglio, nella sua prima assemblea:
 
 - i) prende le disposizioni per l’elezione degli Amministratori della Banca, giusta il paragrafo 1 dell’articolo 30 del presente Accordo; e
 - ii) prende le disposizioni per stabilire la data d’inizio delle operazioni della Banca.
@@ -954,9 +984,7 @@ Campo d’applicazione il 13 maggio 2022[^t-2]
 <tr><td>Uzbekistan <sup>a</sup></td><td>31 agosto</td><td>1995</td><td>31 agosto</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>15 aprile</td><td>1982</td><td>15 aprile</td><td>1982</td></tr>
 <tr><td>Vietnam</td><td>22 settembre</td><td>1966</td><td>22 settembre</td><td>1966</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](https://treaties.un.org/Pages/Home.aspx?clang=_en) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Ammissione conformemente all’art. 3 cpv. 2.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Ammissione conformemente all’art. 3 cpv. 3.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Ammissione conformemente all’art. 3 cpv. 2. <sup>b</sup> Ammissione conformemente all’art. 3 cpv. 3.</td></tr>
 </table>
 
 [^t-2]: [RU 1971 861](https://fedlex.data.admin.ch/eli/oc/1971/860_861_861); [1974 1192](https://fedlex.data.admin.ch/eli/oc/1974/1192_1192_1192); [1981 1357](https://fedlex.data.admin.ch/eli/oc/1981/1357_1357_1357); [1983 442](https://fedlex.data.admin.ch/eli/oc/1983/442_442_442); [1986 1961](https://fedlex.data.admin.ch/eli/oc/1986/1961_1961_1961); [2006 3455](https://fedlex.data.admin.ch/eli/oc/2006/547); [2022 299](https://fedlex.data.admin.ch/eli/oc/2022/299). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).

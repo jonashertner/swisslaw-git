@@ -3,11 +3,11 @@ sr: "0.972.2"
 title: Accord du 4 décembre 1965 portant création de la Banque asiatique de développement
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/860_861_861"
 language: fr
-version: 2022-05-13
+version: 2026-03-01
 adopted: 1965-12-04
 in_force: 1967-12-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20220513/fr/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20220513-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20220513/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20260301-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20260301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu à Manille le 4 décembre 1965 Approuvé par l’Assemblée fédérale le 5 décembre 1967[^t-1] Instrument d’acceptation déposé par la Suisse le 29 décembre 1967 Entré en vigueur pour la Suisse le 31 décembre 1967
 
-(État le 13 mai 2022)
+(État le 1<sup>er</sup> mars 2026)
 
 [^t-1]: [RS 972.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11684)
 
@@ -103,7 +103,9 @@ Pour atteindre son but, la Banque exerce les fonctions suivantes:
 
 <sup>1.</sup> Le montant que chaque partie au présent Accord qui devient membre conformément à l’art. 64 souscrit initialement au capital‑actions de la Banque à libérer entièrement est payé en cinq (5) versements, représentant chacun vingt (20) % dudit montant. Le premier versement est effectué par chaque pays membre dans les trente (30) jours suivant l’entrée en vigueur du présent Accord, ou dès ou avant la date du dépôt, en son nom, de son instrument de ratification ou d’acceptation conformément au par. 1 de l’art. 64, selon celle des deux dates qui est postérieure à l’autre. Le deuxième versement vient à échéance un (1) an après l’entrée en vigueur du présent Accord. Les trois (3) derniers versements viennent à échéance, successivement, un (1) an après le jour de l’échéance du versement précédent.
 
-<sup>2.</sup> Sur chaque versement effectué en règlement des souscriptions initiales au capital‑actions autorisé initial,
+<sup>2.</sup>
+
+Sur chaque versement effectué en règlement des souscriptions initiales au capital‑actions autorisé initial:
 
 - a) cinquante (50) % sont payés en or ou en monnaie convertible;
 - b) cinquante (50) % dans la monnaie du pays membre.
@@ -171,15 +173,17 @@ Sous réserve des conditions énoncées au présent Accord, la Banque peut procu
 
 #### Art. 12
 
-**Limites des opérations ordinaires**
+**Limites des opérations ordinaires**[^12-1]
 
-<sup>1.</sup> L’encours total afférent aux opérations de prêt, de souscription d’actions et de garantie réalisées par la Banque au titre de ses opérations ordinaires n’excède à aucun moment le montant total du capital souscrit et non grevé de la Banque, des réserves et de l’actif compris dans ses ressources ordinaires en capital, à l’exclusion toutefois de la réserve spéciale prévue à l’art. 17 du présent Accord et des autres réserves non utilisables pour les opérations ordinaires.
+<sup>1.</sup> …
 
 <sup>2.</sup> Dans le cas de prêts accordés sur les fonds empruntés par la Banque, auxquels s’appliquent les dispositions du par. 5 de l’art. 6 du présent Accord concernant l’obligation d’appel, le montant total du principal restant à régler et payable à la Banque dans une monnaie donnée n’excède à aucun moment le montant total du principal restant à régler pour les fonds que la Banque a empruntés et qui sont remboursables dans la même monnaie.
 
 <sup>3.</sup> Dans le cas de fonds investis en capital social au moyen des ressources ordinaires en capital de la Banque, le montant total investi ne dépasse pas dix (10) % du montant global du capital‑actions non grevé de la Banque à libérer entièrement, qui a été effectivement libéré, à un moment donné, augmenté des réserves et de l’actif compris dans ses ressources ordinaires en capital, à l’exclusion toutefois de la réserve spéciale prévue à l’art. 17 du présent Accord.
 
 <sup>4.</sup> Le montant de tout investissement en capital social ne dépasse pas le pourcentage, que le Conseil des gouverneurs fixe pour chaque cas particulier, du capital social de l’institution ou de l’entreprise intéressée. La Banque ne cherche pas à s’assurer, grâce à ces investissements, une participation dominante dans l’institution ou l’entreprise en question, sauf si cela est nécessaire pour sauvegarder l’investissement de la Banque.
+
+[^12-1]: Nouvelle teneur selon la Résolution n° 437 adoptée par le Conseil des gouverneurs le 30 nov. 2025, en vigueur pour la Suisse depuis le 1<sup>er</sup> mars 2026 ([RO 2026 121](https://fedlex.data.admin.ch/eli/oc/2026/121)).
 
 #### Art. 13
 
@@ -265,7 +269,9 @@ En cas de défaut concernant un prêt consenti sur des fonds empruntés ou garan
 
 **Fonds spéciaux**
 
-<sup>1.</sup> La Banque peut
+<sup>1.</sup>
+
+La Banque peut:
 
 - i) Réserver, à la suite d’une décision prise à la majorité des deux tiers du nombre total des gouverneurs, représentant au moins les trois quarts du nombre total des voix attribuées aux pays membres, un montant ne dépassant pas dix (10) % de la fraction du capital entièrement libéré et non grevé de la Banque versée par les membres en vertu de l’al. a du par. 2 de l’art. 6, et dix (10) % de la fraction de ce capital versée en vertu de l’al. b du par. 2 de l’art. 6, et affecter ce montant à un ou plusieurs fonds spéciaux.
 - ii) Accepter la gestion de fonds spéciaux destinés à servir ses fins dans le cadre de ses fonctions.
@@ -363,9 +369,29 @@ La Banque n’utilise pas l’or ou les monnaies qu’elle détient pour acheter
 
 **Maintien de la valeur des avoirs de la Banque en devises**
 
-<sup>1.</sup> Lorsque a) pour le Fonds monétaire international, la valeur nominale de la monnaie d’un pays membre par rapport au dollar, tel qu’il est défini à l’art. 4 du présent Accord, est réduite, ou que b) de l’avis de la Banque, après consultation du Fonds monétaire international, le taux de change de la monnaie d’un pays membre a subi une dépréciation notable, ledit pays membre verse à la Banque, dans des délais raisonnables, le montant supplémentaire de sa monnaie nécessaire pour maintenir la valeur de tous les avoirs que la Banque détient dans cette monnaie, à l’exclusion a) des fonds qu’elle s’est procurés par voie d’emprunt et b) sauf dispositions contraires de l’accord portant création de ces fonds, des ressources de fonds spéciaux acceptés par la Banque en application du par. 1, ii, de l’art. 19.
+<sup>1.</sup>
 
-<sup>2.</sup> Lorsque a) pour le Fonds monétaire international, la valeur nominale de la monnaie d’un pays membre par rapport audit dollar est augmentée, ou que b) de l’avis de la Banque, après consultation du Fonds monétaire international, le taux de change de la monnaie d’un pays membre a connu une valorisation notable, la Banque reverse audit pays membre, dans des délais raisonnables, le montant de sa monnaie nécessaire pour ajuster la valeur de tous les avoirs que la Banque détient dans cette monnaie, à l’exclusion a) des fonds qu’elle s’est procurés par voie d’emprunt et b) sauf dispositions contraires de l’accord portant création de ces fonds, des ressources de fonds spéciaux acceptés par la Banque en application du par. 1, ii, de l’art. 19.
+Lorsque:
+
+- a) pour le Fonds monétaire international, la valeur nominale de la monnaie d’un pays membre par rapport au dollar, tel qu’il est défini à l’art. 4 du présent Accord, est réduite, ou que
+- b) de l’avis de la Banque, après consultation du Fonds monétaire international, le taux de change de la monnaie d’un pays membre a subi une dépréciation notable,
+
+ledit pays membre verse à la Banque, dans des délais raisonnables, le montant supplémentaire de sa monnaie nécessaire pour maintenir la valeur de tous les avoirs que la Banque détient dans cette monnaie, à l’exclusion:
+
+- a) des fonds qu’elle s’est procurés par voie d’emprunt, et
+- b) sauf dispositions contraires de l’accord portant création de ces fonds, des ressources de fonds spéciaux acceptés par la Banque en application du par. 1, ii, de l’art. 19.
+
+<sup>2.</sup>
+
+Lorsque:
+
+- a) pour le Fonds monétaire international, la valeur nominale de la monnaie d’un pays membre par rapport audit dollar est augmentée, ou que
+- b) de l’avis de la Banque, après consultation du Fonds monétaire international, le taux de change de la monnaie d’un pays membre a connu une valorisation notable,
+
+la Banque reverse audit pays membre, dans des délais raisonnables, le montant de sa monnaie nécessaire pour ajuster la valeur de tous les avoirs que la Banque détient dans cette monnaie, à l’exclusion:
+
+- a) des fonds qu’elle s’est procurés par voie d’emprunt, et
+- b) sauf dispositions contraires de l’accord portant création de ces fonds, des ressources de fonds spéciaux acceptés par la Banque en application du par. 1, ii, de l’art. 19.
 
 <sup>3.</sup> La Banque peut renoncer à appliquer les dispositions du présent article lorsque la valeur nominale des monnaies de tous les pays membres est modifiée dans une proportion uniforme.
 
@@ -962,9 +988,7 @@ Champ d’application le 13 mai 2022[^t-2]
 <tr><td>Tonga<sup>a</sup></td><td>29 mars</td><td>1972</td><td>29 mars</td><td>1972</td></tr>
 <tr><td>Vanuatu<sup>a</sup></td><td>15 avril</td><td>1982</td><td>15 avril</td><td>1982</td></tr>
 <tr><td>Vietnam</td><td>22 septembre</td><td>1966</td><td>22 septembre</td><td>1966</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org/Pages/Home.aspx?clang=_fr) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Admission conformément à l’art. 3, al. 2.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Admission conformément à l’art. 3, al. 3.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Admission conformément à l’art. 3, al. 2. <sup>b</sup> Admission conformément à l’art. 3, al. 3.</td></tr>
 </table>
 
 [^t-2]: [RO 1971 861](https://fedlex.data.admin.ch/eli/oc/1971/860_861_861); [1974 1192](https://fedlex.data.admin.ch/eli/oc/1974/1192_1192_1192); [1981 1357](https://fedlex.data.admin.ch/eli/oc/1981/1357_1357_1357); [1983 442](https://fedlex.data.admin.ch/eli/oc/1983/442_442_442); [1986 1961](https://fedlex.data.admin.ch/eli/oc/1986/1961_1961_1961); [2006 3455](https://fedlex.data.admin.ch/eli/oc/2006/547); [2022 299](https://fedlex.data.admin.ch/eli/oc/2022/299). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).

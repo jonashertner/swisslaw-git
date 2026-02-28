@@ -3,11 +3,11 @@ sr: "0.972.2"
 title: Übereinkommen vom 4. Dezember 1965 über die Errichtung der Asiatischen Entwicklungsbank
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/860_861_861"
 language: de
-version: 2022-05-13
+version: 2026-03-01
 adopted: 1965-12-04
 in_force: 1967-12-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20220513/de/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20220513-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20220513/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/860_861_861/20260301/de/xml/fedlex-data-admin-ch-eli-cc-1971-860_861_861-20260301-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/860_861_861/20260301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1971** 860; BBl **1967** I 1082
 
 Abgeschlossen in Manila am 4. Dezember 1965 Von der Bundesversammlung genehmigt am 5. Dezember 1967[^t-1] Schweizerische Annahme‑Urkunde hinterlegt am 29. Dezember 1967 In Kraft getreten für die Schweiz am 31. Dezember 1967
 
-(Stand am 13. Mai 2022)
+(Stand am 1. März 2026)
 
 [^t-1]: [AS 1971 858](https://fedlex.data.admin.ch/eli/oc/1971/858_859_860)
 
@@ -103,7 +103,9 @@ Zur Erfüllung ihres Zwecks hat die Bank folgende Aufgaben:
 
 <sup>1.</sup> Die Einzahlung des von jedem Unterzeichner dieses Übereinkommens, der nach Artikel 64 Mitglied wird, ursprünglich gezeichneten Betrags des einzuzahlenden Stammkapitals der Bank erfolgt in fünf (5) Raten von je zwanzig (20) Prozent des Betrags. Die erste Rate wird von jedem Mitglied innerhalb von dreissig (30) Tagen seit Inkrafttreten dieses Übereinkommens oder bis zum Tage der Hinterlegung seiner Ratifikations‑ oder Annahmeurkunde nach Artikel 64 Absatz 1 bezahlt, je nachdem, welcher Zeitpunkt der spätere ist. Die zweite Rate wird ein (1) Jahr nach Inkrafttreten des Übereinkommens fällig. Die restlichen drei (3) Raten werden jeweils ein (1) Jahr nach Fälligwerden der vorhergegangenen Rate fällig.
 
-<sup>2.</sup> Zur Einzahlung der Erstzeichnung auf das ursprüngliche einbezahlte Stammkapital sind von jeder Rate
+<sup>2.</sup>
+
+Zur Einzahlung der Erstzeichnung auf das ursprüngliche einbezahlte Stammkapital sind von jeder Rate:
 
 - a) fünfzig (50) Prozent in Gold oder konvertierbarer Währung; und
 - b) fünfzig (50) Prozent in der Währung des betreffenden Mitglieds einzuzahlen.
@@ -171,15 +173,17 @@ Unter Vorbehalt der in diesem Übereinkommen festgesetzten Bedingungen kann die 
 
 #### Art. 12
 
-**Grenzen der ordentlichen Geschäftstätigkeit**
+**Grenzen der ordentlichen Geschäftstätigkeit**[^12-1]
 
-<sup>1.</sup> Der ausstehende Gesamtbetrag der von der Bank im Rahmen ihrer ordentlichen Geschäftstätigkeit gewährten Darlehen, Anlagen in Grundkapital und Garantien darf den Gesamtbetrag ihres unverminderten gezeichneten Kapitals, ihrer Reserven und Überschüsse, die zu ihren ordentlichen Kapitalbeständen gehören, mit Ausnahme der in Artikel 17 vorgesehenen Sonderreserve und sonstiger nicht für die ordentliche Geschäftstätigkeit verfügbarer Reserven, zu keiner Zeit übersteigen.
+<sup>1.</sup> …
 
 <sup>2.</sup> Werden Darlehen aus Mitteln gewährt, welche die Bank durch Kreditaufnahme beschafft hat und auf welche die Verpflichtung gemäss Artikel 6 Absatz 5 über den Abruf anwendbar ist, so darf der Gesamtbetrag der ausstehenden und in einer bestimmten Währung an die Bank zahlbaren Darlehen den Gesamtkapitalbetrag der von der Bank aufgenommenen ausstehenden Kredite, die in derselben Währung zahlbar sind, zu keiner Zeit übersteigen.
 
 <sup>3.</sup> Werden Mittel aus den ordentlichen Kapitalbeständen der Bank in Grundkapital angelegt, so darf der gesamte angelegte Betrag zehn (10) Prozent des Gesamtbetrags des unverminderten einbezahlten Stammkapitals der Bank, welches jeweils zu einem bestimmten Zeitpunkt tatsächlich einbezahlt ist, sowie die zu ihren ordentlichen Kapitalmitteln gehörenden Reserven und Überschüsse, aber ausschliesslich der in Artikel 17 vorgesehenen Sonderreserve, nicht übersteigen.
 
 <sup>4.</sup> Der in Grundkapital angelegte Betrag darf einen von Fall zu Fall vom Direktorium als angemessen festgesetzten Prozentsatz des Grundkapitals der betreffenden Körperschaft oder Unternehmung nicht übersteigen. Die Bank wird nicht versuchen, durch eine derartige Anlage einen beherrschenden Einfluss auf die Körperschaft oder die Unternehmung zu erlangen, es sei denn, dies wäre zur Sicherung der Anlage der Bank erforderlich.
+
+[^12-1]: Fassung gemäss Resolution Nr. 437 des Gouverneursrats vom 30. Nov. 2025 (Streichung der Begrenzung für die Darlehensvergabe), in Kraft für die Schweiz seit 1. März 2026 ([AS 2026 121](https://fedlex.data.admin.ch/eli/oc/2026/121)).
 
 #### Art. 13
 
@@ -243,7 +247,9 @@ Die gemäss Artikel 16 von der Bank eingenommenen Kommissionen und Garantiegebü
 
 <sup>1.</sup> Tritt im Rahmen ihrer ordentlichen Geschäftstätigkeit bei Darlehen, die die Bank gewährt, an denen sie beteiligt ist oder die sie garantiert, ein Zahlungsverzug ein, so trifft sie alle ihr geeignet erscheinenden Massnahmen zur Änderung der Darlehensbedingungen; ausgenommen hiervon ist jedoch die Änderung der Rückzahlungswährung.
 
-<sup>2.</sup> Zahlungen zur Erfüllung von Verbindlichkeiten der Bank aus Krediten oder Garantien nach Artikel 11 Ziffern ii) und iv), die aus den ordentlichen Kapitalbeständen zu bestreiten sind, gehen
+<sup>2.</sup>
+
+Zahlungen zur Erfüllung von Verbindlichkeiten der Bank aus Krediten oder Garantien nach Artikel 11 Ziffern ii) und iv), die aus den ordentlichen Kapitalbeständen zu bestreiten sind, gehen:
 
 - i) vorerst zu Lasten der in Artikel 17 vorgesehenen Sonderreserve; und
 - ii) sodann, soweit erforderlich und nach freiem Ermessen der Bank zu Lasten der übrigen Reserven, des Überschusses und des Kapitals, über welche die Bank verfügt.
@@ -263,7 +269,9 @@ Tritt bei einem Darlehen, das die Bank im Rahmen ihrer ordentlichen Geschäftst�
 
 **Sonderfonds**
 
-<sup>1.</sup> Die Bank kann
+<sup>1.</sup>
+
+Die Bank kann:
 
 - i) mit den Stimmen von zwei Dritteln aller Gouverneure, die dabei mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten, vom unverminderten einbezahlten Kapital der Bank höchstens je zehn (10) Prozent des von den Mitgliedern gemäss Artikel 6 Absatz 2 Buchstabe a und des gemäss Artikel 6 Absatz 2 Buchstabe b einbezahlten Teils abzweigen und daraus einen oder mehrere Sonderfonds errichten; sowie
 - ii) die Verwaltung von Sonderfonds übernehmen, die dazu bestimmt sind, dem Zweck der Bank zu dienen, und in ihren Aufgabenbereich fallen.
@@ -278,7 +286,7 @@ Tritt bei einem Darlehen, das die Bank im Rahmen ihrer ordentlichen Geschäftst�
 
 **Sonderfondsmittel**
 
-In diesem Übereinkommen bezieht sich der Ausdruck «Sonderfondsmittel» auf die Mittel jedes Sonderfonds und umfasst
+In diesem Übereinkommen bezieht sich der Ausdruck «Sonderfondsmittel» auf die Mittel jedes Sonderfonds und umfasst:
 
 - a) Mittel, die vom einbezahlten Kapital für einen Sonderfonds ausgeschieden oder auf andere Weise ursprünglich in einen Sonderfonds eingelegt wurden,
 - b) Mittel, welche die Bank zur Einlage in einen Sonderfonds übernommen hat,
@@ -338,7 +346,9 @@ Die Mitglieder dürfen keine Beschränkungen beibehalten oder einführen, welche
 - iv) Gold oder Währungen, die die Bank als Kapitalrückzahlungen, Zinsen, Dividenden oder andere Spesen im Zusammenhang mit Darlehen oder Kapitalanlagen, welche mit den in Ziffern i) bis iii) dieses Absatzes erwähnten Mitteln erfolgten, oder die sie als Gebühren für von der Bank übernommene Garantien erhält, und
 - v) andere Währungen als die des Mitglieds, welche das Mitglied von der Bank bei Verteilung des Reingewinns der Bank gemäss Artikel 40 des Abkommens erhält.
 
-<sup>2.</sup> Die Mitglieder dürfen keine Beschränkungen aufrechterhalten oder einführen, welche die Bank oder einen Empfänger der Bank daran hindern, für Zahlungen in irgendeinem Land die Währungen eines Mitglieds, die die Bank erhalten hat und die nicht unter die Bestimmungen des vorerwähnten Absatzes fallen, zu verwenden oder zu halten, es sei denn,
+<sup>2.</sup>
+
+Die Mitglieder dürfen keine Beschränkungen aufrechterhalten oder einführen, welche die Bank oder einen Empfänger der Bank daran hindern, für Zahlungen in irgendeinem Land die Währungen eines Mitglieds, die die Bank erhalten hat und die nicht unter die Bestimmungen des vorerwähnten Absatzes fallen, zu verwenden oder zu halten, es sei denn:
 
 - i) ein in Entwicklung befindliches Mitgliedland beschränkt nach Beratung mit der Bank und vorbehältlich periodischer Überprüfung durch diese die Verwendung seiner Währung ganz oder teilweise für Zahlungen für Güter oder Dienstleistungen, die in seinem Gebiet erzeugt werden und zur dortigen Verwendung bestimmt sind; oder
 - ii) ein Mitglied, dessen Zeichnungsbetrag in Teil A des Anhanges A zu diesem Abkommen festgelegt worden ist und dessen Ausfuhr an Industrieerzeugnissen keinen bedeutenden Teil seiner Gesamtausfuhr ausmacht, hinterlegt zusammen mit seiner Ratifikations‑ oder Annahmeurkunde eine Erklärung, wonach es die Verwendung des gemäss Artikel 6 Absatz 2 (b) einbezahlten Teiles seiner Zeichnung ganz oder teilweise für Zahlungen für in seinem Gebiet erzeugte Güter oder erbrachte Dienstleistungen zu beschränken wünscht; dies mit der Massgabe, dass solche Beschränkungen periodischen Überprüfungen durch und Konsultationen mit der Bank unterliegen und dass unter Vorbehalt der üblichen Ausschreibung auf Wettbewerbsbasis Ausgaben für Güter oder Dienstleistungen im Gebiet des betreffenden Mitglieds zuerst dem gemäss Artikel 6 Absatz 2 (b) einbezahlten Teil seiner Zeichnung belastet werden sollen; oder
@@ -346,7 +356,9 @@ Die Mitglieder dürfen keine Beschränkungen beibehalten oder einführen, welche
 
 <sup>3.</sup> Die Mitglieder dürfen keine Beschränkungen aufrechterhalten oder einführen in Bezug auf den Besitz und die Verwendung von Währungen durch die Bank, mit welchen sie Amortisationen oder Vorauszahlungen oder vollständige oder teilweise Rückkäufe ihrer Verbindlichkeiten vornehmen will, und welche die Bank als Rückzahlung auf direkten, aus ihren ordentlichen Kapitalbeständen gewährten Darlehen erhalten hat; dies jedoch mit der Massgabe, dass dieser Besitz oder diese Verwendung bis zu dem Zeitpunkt, in dem das gezeichnete abrufbare Stammkapital der Bank voll abgerufen ist, allen gemäss Absatz 2 Ziffer i) dieses Artikels auferlegten Beschränkungen unterliegt, ausgenommen in Bezug auf Verbindlichkeiten, die in der Währung des betreffenden Mitglieds zahlbar sind.
 
-<sup>4.</sup> Gold oder Währungen im Besitz der Bank werden von ihr nicht zum Kauf anderer Währungen von Mitgliedern oder Nichtmitgliedern verwendet, es sei denn,
+<sup>4.</sup>
+
+Gold oder Währungen im Besitz der Bank werden von ihr nicht zum Kauf anderer Währungen von Mitgliedern oder Nichtmitgliedern verwendet, es sei denn:
 
 - i) um die Verpflichtungen der Bank im ordentlichen Geschäftsbetrieb zu erfüllen; oder
 - ii) nach einem mit den Stimmen von Direktoren, die dabei mindestens zwei Drittel der Gesamtstimmenzahl der Mitglieder vertreten, gefassten Beschluss des Direktoriums.
@@ -401,7 +413,9 @@ Die Bank soll einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen o
 
 <sup>1.</sup> Alle Befugnisse der Bank stehen dem Gouverneursrat zu.
 
-<sup>2.</sup> Der Gouverneursrat kann seine Befugnisse ganz oder teilweise dem Direktorium übertragen, jedoch mit Ausnahme der Befugnis,
+<sup>2.</sup>
+
+Der Gouverneursrat kann seine Befugnisse ganz oder teilweise dem Direktorium übertragen, jedoch mit Ausnahme der Befugnis:
 
 - i) neue Mitglieder aufzunehmen und die Bedingungen für ihre Aufnahme festzusetzen,
 - ii) das genehmigte Stammkapital der Bank zu erhöhen oder herabzusetzen,
@@ -451,7 +465,7 @@ Die Bank soll einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen o
 
 **Das Direktorium: Befugnisse**
 
-Das Direktorium ist für die Leitung der allgemeinen Geschäftstätigkeit der Bank verantwortlich und übt zu diesem Zwecke neben den ihm in diesem Übereinkommen ausdrücklich zugewiesenen Befugnissen alle ihm vom Gouverneursrat übertragenen Befugnisse aus und hat insbesondere
+Das Direktorium ist für die Leitung der allgemeinen Geschäftstätigkeit der Bank verantwortlich und übt zu diesem Zwecke neben den ihm in diesem Übereinkommen ausdrücklich zugewiesenen Befugnissen alle ihm vom Gouverneursrat übertragenen Befugnisse aus und hat insbesondere:
 
 - i) die Arbeit des Gouverneursrats vorzubereiten;
 - ii) in Übereinstimmung mit den allgemeinen Weisungen des Gouverneursrats Entscheide über Darlehen, Garantien, Anlagen in Beteiligungskapital, Kreditaufnahmen durch die Bank, die Bereitstellung technischer Hilfe und die sonstige Geschäftstätigkeit der Bank zu treffen;
@@ -636,7 +650,7 @@ Um es der Bank zu ermöglichen, in wirksamer Weise ihren Zweck zu erfüllen und 
 
 **Rechtsstellung**
 
-Die Bank besitzt volle Rechtspersönlichkeit und insbesondere die uneingeschränkte Fähigkeit,
+Die Bank besitzt volle Rechtspersönlichkeit und insbesondere die uneingeschränkte Fähigkeit:
 
 - i) Verträge zu schliessen;
 - ii) unbewegliches und bewegliches Vermögen zu erwerben und darüber zu verfügen; sowie
@@ -680,7 +694,7 @@ Jedes Mitglied behandelt den amtlichen Nachrichtenverkehr der Bank nicht weniger
 
 **Immunitäten und Vorrechte des Bankpersonals**
 
-Alle Gouverneure, Direktoren, Stellvertreter, Beamten und Angestellten der Bank einschliesslich der Sachverständigen, die im Auftrag der Bank tätig sind,
+Alle Gouverneure, Direktoren, Stellvertreter, Beamten und Angestellten der Bank einschliesslich der Sachverständigen, die im Auftrag der Bank tätig sind:
 
 - i) geniessen Immunität von der Gerichtsbarkeit für ihre in amtlicher Eigenschaft vorgenommenen Handlungen, sofern nicht die Bank diese Immunität aufhebt;
 - ii) geniessen, falls sie nicht Inländer oder Staatsbürger sind, die gleiche Immunität von Einwanderungsbeschränkungen, von der Meldepflicht für Ausländer und von staatlichen Dienstpflichten sowie die gleichen Erleichterungen in Bezug auf Devisenvorschriften, wie sie die Mitglieder den in vergleichbarem Rang stehenden Vertretern, Beamten und Angestellten anderer Mitglieder gewähren; und
@@ -694,12 +708,16 @@ Alle Gouverneure, Direktoren, Stellvertreter, Beamten und Angestellten der Bank 
 
 <sup>2.</sup> Auf oder für Gehälter und sonstige Bezüge, welche die Bank ihren Direktoren, Stellvertretern, Beamten und Angestellten, einschliesslich der im Auftrag der Bank tätigen Sachverständigen, zahlt, werden keine Steuern erhoben, es sei denn, dass ein Mitglied mit seiner Ratifikations‑ oder Annahmeurkunde eine Erklärung hinterlegt, wonach es sich und seinen Gebietskörperschaften das Recht vorbehält, die von der Bank an seine eigenen Staatsbürger oder Staatsangehörigen bezahlten Gehälter und sonstigen Bezüge zu besteuern.
 
-<sup>3.</sup> Von der Bank ausgegebene Obligationen oder Wertpapiere, einschliesslich der darauf entfallenden Dividenden oder Zinsen, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Steuer,
+<sup>3.</sup>
+
+Von der Bank ausgegebene Obligationen oder Wertpapiere, einschliesslich der darauf entfallenden Dividenden oder Zinsen, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Steuer:
 
 - i) die solche Obligationen oder Wertpapiere nur deswegen benachteiligt, weil sie von der Bank ausgegeben sind; oder
 - ii) deren einzige rechtliche Grundlage der Ort oder die Währung ist, in der diese Papiere ausgegeben werden, zahlbar sind oder bezahlt werden, oder der Ort einer von der Bank unterhaltenen Geschäftsstelle oder Geschäftseinrichtung ist.
 
-<sup>4.</sup> Von der Bank garantierte Obligationen oder Wertpapiere, einschliesslich der darauf entfallenden Dividenden oder Zinsen, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Steuer,
+<sup>4.</sup>
+
+Von der Bank garantierte Obligationen oder Wertpapiere, einschliesslich der darauf entfallenden Dividenden oder Zinsen, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Steuer:
 
 - i) die solche Obligationen oder Wertpapiere nur deswegen benachteiligt, weil sie von der Bank garantiert sind; oder
 - ii) deren einzige rechtliche Grundlage der Ort einer von der Bank unterhaltenen Geschäftsstelle oder Geschäftseinrichtung ist.
@@ -724,7 +742,9 @@ Die Bank kann nach ihrem eigenen Ermessen in jedem einzelnen Falle auf Vorrechte
 
 <sup>1.</sup> Dieses Übereinkommen kann nur durch eine Entschliessung des Gouverneursrats geändert werden, deren Annahme der Stimmen von zwei Dritteln aller Gouverneure bedarf, die dabei mindestens drei Viertel der Gesamtstimmenzahl der Mitglieder vertreten.
 
-<sup>2.</sup> Ungeachtet des Absatzes 1 ist die Einstimmigkeit im Gouverneursrat erforderlich für jede Änderung
+<sup>2.</sup>
+
+Ungeachtet des Absatzes 1 ist die Einstimmigkeit im Gouverneursrat erforderlich für jede Änderung:
 
 - i) des Rechts zum Austritt aus der Bank;
 - ii) der Haftungsbeschränkungen nach Artikel 5 Absätze 6 und 7; und
@@ -782,7 +802,9 @@ Dieses Übereinkommen tritt in Kraft, wenn die Ratifikations‑ oder Annahmeurku
 
 <sup>1.</sup> Sobald dieses Übereinkommen in Kraft tritt, ernennt jedes Mitglied einen Gouverneur, und der Exekutivsekretär der Wirtschaftskommission der Vereinten Nationen für Asien und den Fernen Osten beruft die Eröffnungsversammlung des Gouverneursrats ein.
 
-<sup>2.</sup> An seiner Eröffnungssitzung trifft der Gouverneursrat
+<sup>2.</sup>
+
+An seiner Eröffnungssitzung trifft der Gouverneursrat:
 
 - i) Vorkehren für die Wahl der Direktoren der Bank nach Artikel 30 Absatz 1 dieses Übereinkommens; und
 - ii) Vorkehren für die Bestimmung des Zeitpunktes, an dem die Bank ihre Geschäftstätigkeit aufnimmt.
@@ -959,9 +981,7 @@ Geltungsbereich am 13. Mai 2022[^t-2]
 <tr><td>Vereinigte Staaten\*</td><td>16. August</td><td>1966</td><td>22. August</td><td>1966</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>26. September</td><td>1966</td><td>26. September</td><td>1966</td></tr>
 <tr><td>Vietnam</td><td>22. September</td><td>1966</td><td>22. September</td><td>1966</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Aufnahme gemäss Art. 3 Abs. 2.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Aufnahme gemäss Art. 3 Abs. 3.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Aufnahme gemäss Art. 3 Abs. 2. <sup>b</sup> Aufnahme gemäss Art. 3 Abs. 3.</td></tr>
 </table>
 
 [^t-2]: [AS 1971 860](https://fedlex.data.admin.ch/eli/oc/1971/860_861_861); [1974 1192](https://fedlex.data.admin.ch/eli/oc/1974/1192_1192_1192); [1981 1357](https://fedlex.data.admin.ch/eli/oc/1981/1357_1357_1357); [1983 442](https://fedlex.data.admin.ch/eli/oc/1983/442_442_442); [1986 1961](https://fedlex.data.admin.ch/eli/oc/1986/1961_1961_1961); [2006 3455](https://fedlex.data.admin.ch/eli/oc/2006/547); [2022 299](https://fedlex.data.admin.ch/eli/oc/2022/299). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
