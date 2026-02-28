@@ -3,11 +3,10 @@ canton: ZH
 number: "413.250.9"
 title: Aufnahmereglement für die Kantonale Maturitätsschule für Erwachsene
 language: de
-version: "2020-08-01"
-nachtrag: "110"
-valid_until: 2026-03-01
+version: "2026-03-01"
+nachtrag: "132"
 adopted: 2010-01-13
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_250_9-2010_01_13-2010_03_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_250_9-2010_01_13-2010_03_01-132.html"
 text: pdf
 ---
 
@@ -59,11 +58,11 @@ a.[^2-1] Sie dürfen das 39. Altersjahr noch nicht vollendet haben.
 
 **1**
 
-**Besondere Aufnahme: HMS, IMS, FMS**
-
-1.10. 20 - 110 § 5.[^2-1] <sup>1</sup> Inhaberinnen und Inhaber eines eidgenössisch anerkannten Berufsmaturitätszeugnisses können prüfungsfrei in das 3. Semester der Vollzeit- oder Teilzeitschule aufgenommen werden, wenn a. die Zeugnisse der Berufsmaturitätsschule ein gutes Leistungsbild vermitteln,
+- 1\. 4. 26 - 132 § 5.[^2-1] <sup>1</sup> Inhaberinnen und Inhaber eines eidgenössisch anerkannten Berufsmaturitätszeugnisses können prüfungsfrei in das 3. Semester der Vollzeit- oder Teilzeitschule aufgenommen werden, wenn
 
 **Besondere Aufnahme: Eidg. Berufsmaturität**
+
+- a. die Zeugnisse der Berufsmaturitätsschule ein gutes Leistungsbild vermitteln,
 
 - b. die an der Berufsmaturitätsschule gewählten Fächer weitgehend übereinstimmen mit dem Grundstudium der KME,
 
@@ -81,9 +80,11 @@ a.[^2-1] Sie dürfen das 39. Altersjahr noch nicht vollendet haben.
 
 - b. die Schulleitung der KME aufgrund der eingereichten Anmeldeakten und eines Aufnahmegespräches die Motivation und Eignung einer Kandidatin oder eines Kandidaten positiv beurteilt.
 
-<sup>2</sup> Der Besuch des Vorbereitungskurses muss unmittelbar im Anschluss an die Berufs- oder Fachmaturität erfolgen. In begründeten Fällen ist ein Zwischenjahr möglich.
+<sup>2</sup> . . .[^2-3] § 6.[^2-1] <sup>1</sup> Absolventinnen und Absolventen einer Handelsmittelschule (HMS), einer Informatikmittelschule (IMS) oder einer Fachmittelschule (FMS) an einer zürcherischen Kantonsschule oder einer nichtstaatlichen Mittelschule mit vom Kanton Zürich anerkanntem HMS-, IMS- oder FMS-Abschluss, genehmigtem Lehrplan und Standort im Kanton Zürich können im Rahmen der Vereinbarung zwischen den Schulträgern und der KME prüfungsfrei in das 3. Semester der Vollzeit- oder Teilzeitschule aufgenommen werden, wenn
 
-§ 6.[^2-1] <sup>1</sup> Absolventinnen und Absolventen einer Handelsmittelschule (HMS), einer Informatikmittelschule (IMS) oder einer Fachmittelschule (FMS) an einer zürcherischen Kantonsschule oder einer nichtstaatlichen Mittelschule mit vom Kanton Zürich anerkanntem HMS-, IMS- oder FMS-Abschluss, genehmigtem Lehrplan und Standort im Kanton Zürich können im Rahmen der Vereinbarung zwischen den Schulträgern und der KME prüfungsfrei in das 3. Semester der Vollzeit- oder Teilzeitschule aufgenommen werden, wenn a. die Zeugnisse ein gutes Leistungsbild vermitteln und die HMS-, IMS- oder FMS-Schulleitung nach dem Anforderungsprofil der Übergangsklassenregelung eine Schulempfehlung abgibt,
+**.Besondere Aufnahme: HMS, IMS, FMS**
+
+- a. die Zeugnisse ein gutes Leistungsbild vermitteln und die HMS-, IMS- oder FMS-Schulleitung nach dem Anforderungsprofil der Übergangsklassenregelung eine Schulempfehlung abgibt,
 
 - b. die im bisherigen Bildungsgang gewählten Fächer weitgehend übereinstimmen mit dem Grundstudium der KME,
 
@@ -99,11 +100,12 @@ a.[^2-1] Sie dürfen das 39. Altersjahr noch nicht vollendet haben.
 
 § 7.[^2-1] <sup>1</sup> Die Aufnahme erfolgt provisorisch für ein Semester.
 
-<sup>2</sup> Am Ende des Aufnahmesemesters entscheidet der Klassenkonvent gemäss den Bestimmungen des Promotionsreglements für die Kantonale Maturitätsschule für Erwachsene vom 11.August 1998[^2-3] über die definitive Aufnahme.
+<sup>2</sup> Am Ende des Aufnahmesemesters entscheidet der Klassenkonvent gemäss den Bestimmungen des Promotionsreglements für die Kantonale Maturitätsschule für Erwachsene vom 11.August 1998[^2-4] über die definitive Aufnahme.
 
 [^2-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 353; ABl 2020-06-05). In Kraft seit 1. August 2020.
 [^2-2]: Fassung gemäss RRB vom 21. Dezember 2016 (OS 72, 103; ABl 2017-01-13). In Kraft seit 1. Mai 2017.
-[^2-3]: LS 413.251.2.
+[^2-3]: Aufgehoben durch RRB vom 3. Dezember 2025 (OS 81, 42; ABl 2025-12-19). In Kraft seit 1. März 2026.
+[^2-4]: LS 413.251.2.
 
 #### § 8
 
@@ -123,6 +125,6 @@ Studierende, die aus triftigen Gründen den Schulbesuch unterbrechen müssen, k�
 
 **Inkrafttreten**
 
-1.10. 20 - 110 § 11. Dieses Reglement tritt auf Beginn des Herbstsemesters 1998/ 1999[^10-1] in Kraft. Es ersetzt das Aufnahmereglement für die KME vom 4. April 1978.
+- 1\. 4. 26 - 132 § 11. Dieses Reglement tritt auf Beginn des Herbstsemesters 1998/ 1999[^10-1] in Kraft. Es ersetzt das Aufnahmereglement für die KME vom 4. April 1978.
 
 [^10-1]: Das vorliegende, neu vom Regierungsrat erlassene Reglement tritt am 1. März 2010 in Kraft. Es ersetzt das gleichnamige Reglement des Erziehungsrates vom 11. August 1998.
