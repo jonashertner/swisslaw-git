@@ -4,13 +4,12 @@ number: "625.11"
 title: Fischereigesetz
 short: FiG
 language: de
-version: 2018-01-01
-valid_until: 2026-02-28
-version_adopted: 2016-11-09
+version: 2026-03-01
+version_adopted: 2025-07-02
 adopted: 2008-03-12
 in_force: 2009-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/625.11"
-pdf: "https://bgs.so.ch/api/de/versions/4671/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5616/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4671/pdf_file"
 
 (FiG)
 
-Vom 12.03.2008 (Stand 01.01.2018)
+Vom 12.03.2008 (Stand 01.03.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -88,6 +87,33 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat regelt Ausnahmen und Einzelheiten.
 
+#### § 6bis
+
+**Hegearbeit**
+
+<sup>1</sup> Wer ein Jahrespatent erwerben will, muss den Nachweis für geleistete Hegearbeiten erbringen oder eine Hegeersatzabgabe bezahlen.
+
+<sup>2</sup> Als Hegearbeiten gelten Arbeiten, welche die natürliche Artenvielfalt und den Bestand einheimischer Fische, Krebse und Fischnährtiere sowie deren Lebensräume im Kanton Solothurn fördern.
+
+<sup>3</sup> Die Mitgliedschaft in einem vom Regierungsrat anerkannten Fischereiverein gilt als Nachweis für geleistete Hegearbeiten. Das Departement publiziert die Vereine, deren Mitglieder von der Hegeersatzabgabe befreit sind.
+
+<sup>4</sup> Das Departement kann für die Kontrolle des Nachweises der Hegearbeit im Rahmen der Mitgliedschaft in einem Fischereiverein gemäss Absatz 3 Personendaten der Patentinhaber und der Patentinhaberinnen mit den Fischereivereinen austauschen.
+
+<sup>5</sup> Der Regierungsrat regelt durch Verordnung
+
+- a) die Voraussetzungen für eine Anerkennung der zu leistenden Hegearbeiten;
+- b) den Datenaustausch mit den Fischereivereinen gemäss Absatz 4.
+
+#### § 6ter
+
+**Hegeersatzabgabe**
+
+<sup>1</sup> Wird beim Erwerb des Jahrespatents der Nachweis geleisteter Hegearbeiten nicht erbracht, ist eine Hegeersatzabgabe geschuldet. Die Hegeersatzabgabe beträgt jährlich im Minimum 20 Franken und im Maximum 100 Franken. Der Regierungsrat legt die Höhe der Hegeersatzabgabe durch Verordnung fest.
+
+<sup>2</sup> Die Hegeersatzabgabe wird zweckgebunden für Arbeiten verwendet, welche die natürliche Artenvielfalt und den Bestand einheimischer Fische, Krebse und Fischnährtiere sowie deren Lebensräume im Kanton Solothurn fördern.
+
+<sup>3</sup> Das Departement schliesst zur Umsetzung von Absatz 2 Leistungsvereinbarungen mit Dritten ab, welche unter anderem die Pflichten und die Berichterstattung regeln.
+
 #### § 7
 
 **Patentgewässer**
@@ -98,9 +124,13 @@ beschliesst:
 
 **Pacht**
 
-<sup>1</sup> Das Departement bestimmt die Pachtgewässer, legt den Mindestpachtwert und die Pachtdauer fest.
+<sup>1</sup> Das Departement bestimmt die Pachtgewässer und legt den Mindestpachtzins sowie die Pachtdauer pro Gewässer fest.
 
-<sup>2</sup> Pachtgewässer werden öffentlich versteigert.
+<sup>2</sup> Pachtgewässer werden öffentlich versteigert. Die meistbietende Person erhält den Zuschlag.
+
+<sup>2<sup>bis</sup></sup> Für Pachtgewässer, an denen in der vorangegangenen Pachtperiode Hegearbeit gemäss § 6<sup>bis</sup> geleistet wurde, legt das Departement einen Höchstpachtzins von 150 % des Mindestpachtzinses fest.
+
+<sup>2<sup>ter</sup></sup> Steigern mehrere Personen bis zum festgelegten Höchstpachtzins, erhält diejenige Person den Zuschlag, welche am betreffenden Pachtgewässer in der vorangegangenen Pachtperiode Hegearbeit geleistet hat. Erfüllen mehrere Personen diese Voraussetzungen, entscheidet das Los. Wird der Höchstpreis nicht geboten, erhält die meistbietende Person den Zuschlag.
 
 <sup>3</sup> Das Departement erlässt die Pacht- und Steigerungsbedingungen.
 
@@ -157,7 +187,7 @@ beschliesst:
 
 **Schutzvorschriften**
 
-<sup>1</sup> Der Regierungsrat kann insbesondere
+<sup>1</sup> Der Regierungsrat kann durch Verordnung insbesondere
 
 - a) Schutz- und Schongebiete schaffen;
 - b) Fangbeschränkungen oder –verbote für gefährdete Fisch- und Krebsarten erlassen;
@@ -167,7 +197,8 @@ beschliesst:
 <sup>2</sup> Das Departement kann insbesondere
 
 - a) geeignete Lebensräume wiederbesetzen;
-- b) eine einseitige Bewirtschaftung einzelner Arten oder Rassen verhindern.
+- b) eine einseitige Bewirtschaftung einzelner Arten oder Rassen verhindern;
+- c) zeitlich und örtlich beschränkte Fischerei- und Betretungsverbote in Gewässern erlassen, soweit es zum Schutz von Fischen, Krebsen und Fischnährtieren erforderlich ist.
 
 #### § 15
 
@@ -194,9 +225,9 @@ beschliesst:
 
 **Uferbegehungsrecht und Zutrittsverbote**
 
-<sup>1</sup> Zur Ausübung der Fischerei ist es gestattet, die Ufer und das Gewässerbett zu begehen und zu betreten.
+<sup>1</sup> Zur Ausübung der Fischerei ist es gestattet, die Ufer und das Gewässerbett zu begehen und zu betreten. Fischer und Fischerinnen haften für vermeidbaren Schaden.
 
-<sup>2</sup> Eingezäunte Grundstücke dürfen nur mit Einwilligung der Grundeigentümerin oder des Grundeigentümers betreten werden. Fischer und Fischerinnen haften für vermeidbaren Schaden.
+<sup>2</sup> Eingezäunte Grundstücke dürfen nur mit Einwilligung der Grundeigentümerin oder des Grundeigentümers betreten werden.
 
 <sup>3</sup> Grundeigentümer und Grundeigentümerinnen dürfen am Gewässer nur mit Bewilligung des Departements Zutrittsverbote erlassen oder bauliche Veränderungen und Umzäunungen vornehmen, welche die Begehung des Ufers dauernd verunmöglichen oder beeinträchtigen.
 
@@ -286,6 +317,14 @@ beschliesst:
 **Übergangsbestimmungen**
 
 <sup>1</sup> Pachtverhältnisse für Gewässer, die unter bisherigem Recht entstanden und neu als Patentgewässer ausgeschieden sind, enden am 31. Dezember 2008.
+
+#### § 23bis
+
+**Übergangsbestimmung zur Teilrevision vom 02.07.2025**
+
+<sup>1</sup> Vor Inkrafttreten der Änderungen dieses Gesetzes für Pachtgewässer abgeschlossene Pachtverträge behalten ihre Gültigkeit bis zu ihrem regulären Ablauf.
+
+<sup>2</sup> Die Hegeersatzabgabe wird erstmalig im Folgejahr nach Inkrafttreten der Änderungen dieses Gesetzes erhoben.
 
 #### § 24
 
