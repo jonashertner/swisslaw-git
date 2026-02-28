@@ -4,11 +4,11 @@ number: "172.110.3"
 title: Organisationsverordnung der Finanzdirektion (OV FD)
 short: OV FD
 language: de
-version: "2025-04-01"
-nachtrag: "128"
-valid_until: 2026-03-01
+version: "2026-03-01"
+nachtrag: "131"
+valid_until: 2026-06-01
 adopted: 2015-12-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-128.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-131.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ B. Direktionsvorsteherin oder Direktionsvorsteher
 
 **1**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 - d. weist den Verwaltungseinheiten Aufgaben und Kompetenzen zu,
 
@@ -145,7 +145,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 **3**
 
-- 1\. 4. 25 - 128 § 9. Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung für die Führung, Steuerung und Aufgabenerfüllung in ihrer oder seiner Verwaltungseinheit. Sie oder er erfüllt insbesondere die folgenden Aufgaben:
+- 1\. 4. 26 - 132 § 9. Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung für die Führung, Steuerung und Aufgabenerfüllung in ihrer oder seiner Verwaltungseinheit. Sie oder er erfüllt insbesondere die folgenden Aufgaben:
 
 **Leitung a. Verwaltungseinheiten im Allgemeinen**
 
@@ -227,11 +227,19 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 **5**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Sie oder er kann Verwaltungseinheiten und Mitarbeitende ermächtigen, in bestimmten Aufgabenbereichen namens der Direktion zu entscheiden.
 
 <sup>3</sup> Die Verwaltungseinheiten entscheiden erstinstanzlich in eigenem Namen in den Zuständigkeitsbereichen gemäss dem Anhang zu dieser Verordnung und in den anderen von der Rechtsordnung vorgesehenen Fällen.
+
+<sup>4</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher entscheidet jedoch in jedem Fall über:[^12-1] a. den Abschluss und die Kündigung von Kapitalmarktgeschäften (ausser für Legate und Stiftungen),
+
+- b. die Festlegung der Geldhandelslimiten mit möglichen Gegenparteien,
+
+- c. den Abschluss und die Kündigung von derivativen Instrumenten.
+
+[^12-1]: Eingefügt durch Vfg. vom 27. November 2025 (OS 81, 39; ABl 2025-12-05). In Kraft seit 1. März 2026. 1. 4. 26 - 132 13
 
 #### § 13
 
@@ -312,17 +320,13 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 - j. interne Verrechnungen.
 
-#### § 16
+**7**
+
+- 1\. 4. 26 - 132 § 16. <sup>1</sup> Entscheide und Ausgabenbewilligungen werden von derjenigen Person unterzeichnet, die für den Entscheid oder die Ausgabenbewilligung zuständig ist.
 
 **Unterschrift**
 
-<sup>1</sup> Entscheide und Ausgabenbewilligungen werden von derjenigen Person unterzeichnet, die für den Entscheid oder die Ausgabenbewilligung zuständig ist.
-
 <sup>2</sup> Im Übrigen ist die sachverantwortliche Person zur Unterzeichnung von Schriftstücken berechtigt, soweit diese Verordnung und das anwendbare Organisationsreglement nichts anderes vorsehen.
-
-**7**
-
-- 1\. 4. 25 - 128
 
 <sup>3</sup> Verträge, die zu Verpflichtungen des Kantons führen, werden mit Doppelunterschrift unterzeichnet, wobei die linienvorgesetzte Person links und die sachverantwortliche Person rechts unterzeichnet.
 
@@ -404,19 +408,15 @@ Für den persönlichen und vertraulichen Austausch führt die Direktionsvorstehe
 
 Die Verantwortlichen der Verwaltungseinheiten für die Querschnittaufgaben Finanzen und Controlling, Personal, Informatik und Kommunikation sorgen für die erforderliche Koordination unter den Verwaltungseinheiten und für die erforderliche Weiterleitung von Informationen in ihrer jeweiligen Verwaltungseinheit.
 
-#### § 24
+**9**
+
+- 1\. 4. 26 - 132 § 24. <sup>1</sup> Die Leiterin oder der Leiter der Verwaltungseinheit informiert die Direktionsvorsteherin oder den Direktionsvorsteher frühzeitig über die folgenden Geschäfte:
 
 **Information über Planungen und Projekte**
-
-<sup>1</sup> Die Leiterin oder der Leiter der Verwaltungseinheit informiert die Direktionsvorsteherin oder den Direktionsvorsteher frühzeitig über die folgenden Geschäfte:
 
 - a. grundlegende Planungen und Zielfestlegungen,
 
 - b. Projekte von besonderer politischer Bedeutung, mit erheblichen organisatorischen, personellen oder finanziellen Auswirkungen oder mit erheblichem Aufwand.
-
-**9**
-
-- 1\. 4. 25 - 128
 
 <sup>2</sup> Über Projektschritte, Zielerreichungen und den Vollzug von Aufgaben wird die Direktionsvorsteherin oder der Direktionsvorsteher regelmässig informiert.
 
@@ -497,6 +497,10 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 <sup>1</sup> Medienmitteilungen und Medienkonferenzen werden von der oder dem Kommunikationsbeauftragten koordiniert.
 
+**11**
+
+- 1\. 4. 26 - 132
+
 <sup>2</sup> Sie oder er holt dafür vorab das Einverständnis der Direktionsvorsteherin oder des Direktionsvorstehers ein und besorgt die Koordination mit der Kommunikationsabteilung des Regierungsrates.
 
 #### § 33
@@ -505,17 +509,17 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 Die Kommunikation mit dem Kantonsrat, politischen Parteien, Interessenverbänden und dem Stiftungsrat der BVK Personalvorsorge des Kantons Zürich erfolgt über die Direktionsvorsteherin oder den Direktionsvorsteher oder in ihrem oder seinem Auftrag.
 
-**11**
+[^33-1]: LS 170.4.
 
-- 1\. 4. 25 - 128 § 34. <sup>1</sup> Die Verwaltungseinheiten behandeln Gesuche um Informationszugang gemäss dem Gesetz über die Information und den Datenschutz (IDG) vom 12. Februar 2007[^33-1] in ihrem Zuständigkeitsbereich gemäss dem Anhang zu dieser Verordnung.
+#### § 34
 
 **Gesuche um Informationszugang**
+
+<sup>1</sup> Die Verwaltungseinheiten behandeln Gesuche um Informationszugang gemäss dem Gesetz über die Information und den Datenschutz (IDG) vom 12. Februar 2007[^33-1] in ihrem Zuständigkeitsbereich gemäss dem Anhang zu dieser Verordnung.
 
 <sup>2</sup> Betrifft ein Gesuch Belange der gesamten Direktion oder die Zuständigkeitsbereiche mehrerer Verwaltungseinheiten, wird es vom Generalsekretariat behandelt.
 
 <sup>3</sup> Die Verwaltungseinheiten informieren das Generalsekretariat jährlich über die von ihnen behandelten Gesuche.
-
-[^33-1]: LS 170.4.
 
 ### 5. Teil: Schlussbestimmungen
 
@@ -586,7 +590,7 @@ Bereich
 [^hZuständigkeitsbereic_2-1]: Fassung gemäss Vfg. vom 18. August 2017 (OS 72, 448; ABl 2017-08-25). In Kraft seit 1. Januar 2018.
 [^hZuständigkeitsbereic_2-2]: Eingefügt durch Vfg. vom 30. September 2016 (OS 71, 470; ABl 2016-10-07). In Kraft seit 1. Januar 2017.
 [^hZuständigkeitsbereic_2-3]: Fassung gemäss Vfg. vom 30. September 2016 (OS 71, 470; ABl 2016-10-07). In Kraft seit 1. Januar 2017.
-[^hZuständigkeitsbereic_2-4]: Fassung gemäss Vfg. vom 24. Februar 2025 (OS 80, 54; ABl 2025-02-28). In Kraft seit 1. April 2025. 1. 4. 25 - 128 13
+[^hZuständigkeitsbereic_2-4]: Fassung gemäss Vfg. vom 24. Februar 2025 (OS 80, 54; ABl 2025-02-28). In Kraft seit 1. April 2025.
 [^hZuständigkeitsbereic_2-5]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
 ### Weitere Zuständigkeitsbereiche der Direktion
@@ -599,4 +603,4 @@ Rekurse und Aufsichtsbeschwerden (oder andere Verwaltungseinheit gemäss besonde
 
 **15**
 
-- 1\. 4. 25 - 128
+- 1\. 4. 26 - 132
