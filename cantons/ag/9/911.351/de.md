@@ -4,13 +4,12 @@ number: "911.351"
 title: Verordnung über die Aargauische Landwirtschaftliche Kreditkasse
 short: ALK-Verordnung
 language: de
-version: 2019-05-01
-valid_until: 2026-02-28
-version_adopted: 2019-03-20
+version: 2026-03-01
+version_adopted: 2026-01-21
 adopted: 2012-05-23
 in_force: 2012-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/911.351"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2709/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3929/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2709/pdf_file"
 
 (ALK-Verordnung)
 
-Vom 23.05.2012 (Stand 01.05.2019)
+Vom 23.05.2012 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -43,14 +42,14 @@ beschliesst:
 
 <sup>2</sup> Gestützt auf § 57 Abs. 2 LwG AG werden ihr zusätzlich folgende Aufgaben übertragen:
 
-- a) Gewährung von Investitionskrediten gemäss Art. 87 des Bundesgesetzes über die Landwirtschaft (Landwirtschaftsgesetz, LwG) vom 29. April 1998[^2-1],
+- a) Gewährung von Investitionskrediten gemäss den Art. 105–109 des Bundesgesetzes über die Landwirtschaft (Landwirtschaftsgesetz, LwG) vom 29. April 1998[^2-1],
 - b) Gewährung von forstlichen Investitionskrediten gemäss Art. 40 des Bundesgesetzes über den Wald (Waldgesetz, WaG) vom 4. Oktober 1991[^2-2],
-- c) Gewährung von Betriebshilfen gemäss Art. 78 LwG,
-- d) Gewährung von kantonalen Beiträgen an landwirtschaftliche Hochbauten gemäss § 31 LwG AG,
-- e) Beantragung von Bundesbeiträgen an landwirtschaftliche Hochbauten gemäss Art. 93 LwG,
+- c) Gewährung von Betriebshilfen gemäss den Art. 78–83 LwG,
+- d) Gewährung von kantonalen Beiträgen an Strukturverbesserungsprojekte gemäss § 8 Abs. 1 LwG AG,
+- e) Beantragung von Bundesbeiträgen an Strukturverbesserungsprojekte gemäss den Art. 93–97 LwG,
 - f) Gewährung von landwirtschaftlichen Darlehen gemäss § 33 Abs. 1 LwG AG.
 
-<sup>3</sup> Aufgaben und Pflichten der ALK werden in Form einer Leistungsvereinbarung mit dem Departement Finanzen und Ressourcen (DFR) festgehalten.
+<sup>3</sup> Die Modalitäten der Aufgabenübertragung an die ALK werden in Form eines Leistungsvertrags mit dem Departement Finanzen und Ressourcen (DFR) festgehalten.
 
 [^2-1]: SR [910.1](https://db.clex.ch/link/Bund/910.1/de)
 [^2-2]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
@@ -67,7 +66,7 @@ beschliesst:
 
 <sup>4</sup> Er errichtet eine Geschäftsstelle.
 
-<sup>5</sup> Er erlässt ein Geschäftsreglement, das vom Regierungsrat zu genehmigen ist.
+<sup>5</sup> Er erlässt ein Geschäftsreglement und unterbreitet es dem DFR zur Kenntnisnahme.
 
 <sup>6</sup> Er wählt die Revisionsstelle.
 
@@ -89,7 +88,9 @@ beschliesst:
 
 **Geldanlage**
 
-<sup>1</sup> Die verfügbaren Geldmittel der ALK sind, soweit sie nicht für Unterstützungen oder zur Deckung von Betriebskosten verwendet werden müssen, gemäss Anlagereglement des Stiftungsrats einzusetzen.
+<sup>1</sup> Die verfügbaren Geldmittel der ALK sind, soweit sie nicht für Unterstützungen oder zur Deckung von Betriebskosten verwendet werden müssen, so zu bewirtschaften, dass das Eigenkapital erhalten bleibt und angemessene Erträge erwirtschaftet werden. Die Sicherheit ist dabei der Rendite übergeordnet.
+
+<sup>2</sup> Der Stiftungsrat erlässt hierfür ein Anlagereglement.
 
 #### § 7
 
