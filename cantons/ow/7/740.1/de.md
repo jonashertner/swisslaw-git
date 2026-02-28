@@ -4,13 +4,12 @@ number: "740.1"
 title: Gesetz über den Wasserbau und die Wassernutzung
 short: "Wasserbaugesetz, WBG"
 language: de
-version: 2019-01-01
-valid_until: 2026-02-28
-version_adopted: 2017-10-27
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 2001-05-31
 in_force: 2005-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/740.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1705/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1984/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1705/pdf_file"
 
 (Wasserbaugesetz, WBG)
 
-vom 31.05.2001 (Stand 01.01.2019)
+vom 31.05.2001 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -108,7 +107,7 @@ beschliesst:
 
 - a. die Beschaffung und Nachführung der Grundlagen, die für den Vollzug dieses Gesetzes erforderlich sind;
 - b. das Ausarbeiten und Nachführen der Gefahrenkataster und Gefahrenkarten sowie den Aufbau und den Betrieb der Frühwarndienste;
-- c. die Vorprüfung und die Genehmigung der Ausführungsprojekte;
+- c. die Vorprüfung und die Genehmigung der Ausführungsprojekte, einschliesslich der damit verbundenen Anpassung der Bau- und Zonenordnung;
 - d. die Erteilung der kantonalen Bewilligungen, insbesondere für die Inanspruchnahme der Gewässer durch Bauten und Anlagen, für Materialentnahmen und für die Nutzung zu Trink-, Gebrauchs- oder Wärmezwecken;
 - e. das Führen der Verzeichnisse der Konzessionen und Bewilligungen;
 - f. die Festsetzung und das Erheben der Grundeigentümerbeiträge in seinem Zuständigkeitsbereich;
@@ -213,6 +212,20 @@ beschliesst:
 [^12-1]: SR [721.1](https://db.clex.ch/link/Bund/721.1/de)
 [^12-2]: SR [814.2](https://db.clex.ch/link/Bund/814.2/de)
 [^12-3]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
+
+#### Art. 12a
+
+**Entlastungskorridore**
+
+<sup>1</sup> Entlastungskorridore dienen der Ableitung von Wasser, welches im Falle eines Hochwassers ausserhalb von Gerinnen abfliesst. Sie werden als überlagerte Zonen im kommunalen Nutzungsplan festgelegt.
+
+<sup>2</sup> Sämtliche baulichen Massnahmen und Vorkehrungen in Entlastungskorridoren unterstehen der Bewilligungspflicht, einschliesslich temporärer Einrichtungen, Lagerplätze, Nutzungsänderungen, Terrainveränderungen, Einfriedungen und Bepflanzungen mit einer Wuchshöhe von über 0,5 m. Das zuständige Departement legt fest, in welchen Fällen ein Meldeverfahren ausreicht.
+
+<sup>3</sup> Bauliche Massnahmen und andere Vorkehrungen können mit Zustimmung des Amts für Wald und Landschaft bewilligt werden, wenn von der Bauherrschaft nachgewiesen wird, dass sie:
+
+- a. die Funktionsfähigkeit des Entlastungskorridors nicht beeinträchtigen,
+- b. die Abflusskapazität nur unmassgeblich verringern und
+- c. nicht zu einer Erhöhung des Schadenspotenzials führen.
 
 #### Art. 13
 
@@ -708,6 +721,8 @@ geändert durch:
 
 \- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26),
 
-\- Nachtrag vom 27. Oktober 2017 (OGS 2017, 51), Botschaft und Vorlage des Regierungsrats vom 20. Juni 2017, Kantonsratssitzungen vom 7. September und 27. Oktober 2017 (22.17.05), in Kraft seit 1. Januar 2019 (OGS 2017, 63)
+\- Nachtrag vom 27. Oktober 2017 (OGS 2017, 51), Botschaft und Vorlage des Regierungsrats vom 20. Juni 2017, Kantonsratssitzungen vom 7. September und 27. Oktober 2017 (22.17.05), in Kraft seit 1. Januar 2019 (OGS 2017, 63),
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 2001, 82
