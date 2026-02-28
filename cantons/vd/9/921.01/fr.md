@@ -4,7 +4,7 @@ number: "921.01"
 title: LOI du 08.05.2012 forestière (LVLFo)
 short: LVLFo
 language: fr
-version: 2025-01-01
+version: 2026-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/921.01?id=41b5f7b0-9b3b-49f4-bbd8-32e09cde5ac5"
 ---
 
@@ -1007,6 +1007,8 @@ décrète
 - d. d'éventuelles particularités régionales ;
 - e. des difficultés spéciales d'exécution ;
 - f. du solde des frais à la charge du bénéficiaire.
+
+<sup>3</sup> L'Etat n'accorde pas de subvention d'un montant total inférieur à CHF 500.-.
 
 [^82-1]: Modif. 6 du 17.12.2025: Introduction Al. 3; entrée en vigueur au 01.03.2026
 [^83-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
