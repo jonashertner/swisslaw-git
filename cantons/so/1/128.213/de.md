@@ -4,13 +4,12 @@ number: "128.213"
 title: Juristische Prüfungsverordnung
 short: JPV
 language: de
-version: 2026-01-01
-valid_until: 2026-02-28
-version_adopted: 2024-12-17
+version: 2026-03-01
+version_adopted: 2025-11-17
 adopted: 2000-07-04
 in_force: 2001-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/128.213"
-pdf: "https://bgs.so.ch/api/de/versions/5545/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5603/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5545/pdf_file"
 
 (JPV)
 
-Vom 04.07.2000 (Stand 01.01.2026)
+Vom 04.07.2000 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -65,9 +64,9 @@ beschliesst:
 <sup>1</sup> Zur Notariatsprüfung wird zugelassen, wer sich ausweist über:
 
 - a) das Schweizer Bürgerrecht;
-- b) Wohnsitz im Kanton Solothurn während mindestens zwei Jahren seit Vollendung des 18. Altersjahres;
+- b) …
 - c) Arbeit von 3 Jahren auf einer solothurnischen Amtschreiberei (Notariat, Grundbuchamt, Erbschaftsamt, Handelsregister, Betreibungs- und Konkursamt);
-- d) den lückenlosen Besuch der Ausbildung gemäss der Verordnung über Seminarkurse für Angestellte der Amtschreibereien zur Vorbereitung auf die solothurnische Notariatsprüfung vom 7. Juni 2005[^4-1];
+- d) den lückenlosen Besuch der Ausbildung gemäss der Verordnung über Seminarkurse für Angestellte der Amtschreibereien zur Vorbereitung auf die solothurnische Notariatsprüfung vom 7. Juni 2005[^4-1], wobei das Departement in begründeten Ausnahmefällen geringfügige Abweichungen von dieser Voraussetzung bewilligen kann;
 - e) die Empfehlung in fachlicher Hinsicht durch die Konferenz der Fachlehrkräfte.
 
 <sup>2</sup> Zur Notariatsprüfung wird ferner zugelassen, wer sich ausweist über:
