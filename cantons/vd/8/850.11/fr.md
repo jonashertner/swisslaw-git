@@ -4,7 +4,7 @@ number: "850.11"
 title: "LOI du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale (LAPRAMS)"
 short: LAPRAMS
 language: fr
-version: 2025-09-01
+version: 2026-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98"
 ---
 
@@ -194,9 +194,25 @@ décrète
 
 [^6c-1]: Modif. 12 du 11.12.2018: Introduction Art. 6d; entrée en vigueur au 01.03.2019
 
+#### Art. 6e
+
+**Entrée en possession d'une fortune [^6d-1]**
+
+<sup>1</sup> Le bénéficiaire qui a obtenu des aides financières au titre de la loi est tenu au remboursement de celles-ci, lorsqu'il entre en possession d'une fortune mobilière ou immobilière.
+
+<sup>2</sup> Le remboursement est seulement exigible pour la part de fortune supérieure aux montants fixés à l'article 37, alinéa 3 du règlement d'application de la présente loi.
+
+<sup>3</sup> Les héritiers sont tenus au remboursement de l'aide financière touchée par le défunt, pour autant qu'ils tirent profit de la succession et jusqu'à concurrence de celle-ci.
+
+<sup>4</sup> La direction en charge de l'octroi des prestations au sens de la présente loi réclame, par voie de décision, le remboursement des aides financières.
+
+<sup>5</sup> Le règlement peut préciser les modalités.
+
+[^6d-1]: Modif. 17 du 17.12.2025: Introduction tArt; entrée en vigueur au 01.03.2026; Introduction Al. 1-5; entrée en vigueur au 01.03.2026; Introduction Art. 6e; entrée en vigueur au 01.03.2026
+
 #### Art. 7
 
-**Contrôle et surveillance [^6d-1]**
+**Contrôle et surveillance [^6e-1]**
 
 <sup>1</sup> Le département a notamment pour mission d'assurer le contrôle de la gestion et la surveillance des fournisseurs de prestations et organismes soumis à la loi, et de surveiller l'activité des organismes et établissements qu'il subventionne.
 
@@ -210,7 +226,7 @@ décrète
 
 <sup>5</sup> Le règlement [^7-1] précise la portée et les modalités relatives à la surveillance, au contrôle et aux informations requises.
 
-[^6d-1]: Modif. 5 du 17.05.2011: Modification Al. 1,2; entrée en vigueur au 01.10.2011; Abrogation Al. 4; entrée en vigueur au 01.10.2011 · Modif. 11 du 07.11.2017: Modification Al. 3; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Al. 3bis; entrée en vigueur au 01.07.2023
+[^6e-1]: Modif. 5 du 17.05.2011: Modification Al. 1,2; entrée en vigueur au 01.10.2011; Abrogation Al. 4; entrée en vigueur au 01.10.2011 · Modif. 11 du 07.11.2017: Modification Al. 3; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Al. 3bis; entrée en vigueur au 01.07.2023
 [^7-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
 
 #### Art. 8
@@ -762,11 +778,11 @@ décrète
 
 **Prescription [^37a-1]**
 
-<sup>1</sup> Le droit d'exiger la restitution d'une subvention ou d'une aide individuelle se prescrit par une année à compter du jour où l'Etat a eu connaissance du fait qu'elles ont été perçues indûment, mais au plus tard par cinq ans à compter du jour où la dernière subvention ou aide individuelle a été versée.
+<sup>1</sup> L'obligation de remboursement se prescrit par dix ans à compter du jour où la dernière subvention ou aide financière a été versée. A l'égard des héritiers du bénéficiaire, l'obligation de remboursement se prescrit par une année dès la dévolution de la succession.
 
-<sup>2</sup> Si le droit d'exiger la restitution naît d'un acte punissable, pour lequel la loi pénale prévoit un délai de prescription plus long, ce délai est déterminant.
+<sup>2</sup> Si le droit d'exiger le remboursement naît d'un acte punissable, pour lequel la loi pénale prévoit un délai de prescription plus long, ce délai est déterminant.
 
-[^37a-1]: Modif. 17 du 17.12.2025: Introduction Art. 6e; entrée en vigueur au 01.03.2026; Modification Al. 1-2; entrée en vigueur au 01.03.2026
+[^37a-1]: Modif. 17 du 17.12.2025: Modification Al. 1-2; entrée en vigueur au 01.03.2026
 
 #### Art. 38a
 
