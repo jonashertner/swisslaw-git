@@ -3,11 +3,10 @@ canton: ZH
 number: "181.131"
 title: Vollzugsverordnung zur Finanzverordnung
 language: de
-version: "2023-04-01"
-nachtrag: "120"
-valid_until: 2026-03-01
+version: "2026-03-01"
+nachtrag: "132"
 adopted: 2010-10-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_131-2010_10_06-2011_01_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_131-2010_10_06-2011_01_01-132.html"
 text: pdf
 ---
 
@@ -62,7 +61,7 @@ Kirchgemeinden und Landeskirche unterstehen für ihr Verwaltungs- und Finanzverm
 
 **1**
 
-- 1\. 4. 23 - 120 § 5.[^4-5] <sup>1</sup> Für die Berechnung des mittelfristigen Rechnungsausgleichs werden die Ergebnisse der Jahresrechnungen der letzten drei Rechnungsjahre, das budgetierte Ergebnis des laufenden Jahres sowie die Ergebnisse der folgenden drei Jahre gemäss Finanzplan berücksichtigt.
+- 1\. 4. 26 - 132 § 5.[^4-5] <sup>1</sup> Für die Berechnung des mittelfristigen Rechnungsausgleichs werden die Ergebnisse der Jahresrechnungen der letzten drei Rechnungsjahre, das budgetierte Ergebnis des laufenden Jahres sowie die Ergebnisse der folgenden drei Jahre gemäss Finanzplan berücksichtigt.
 
 **Haushaltsgleichgewicht (§§ 6 Abs. 1 und 31 Abs. 1 FiVO)**
 
@@ -165,7 +164,7 @@ Der Jahresbericht der Kirchgemeinde stellt insbesondere dar:
 
 **3**
 
-- 1\. 4. 23 - 120 § 13.[^11-3] Der Kirchenrat beauftragt den Koordinationsausschuss Finanzen mit der Überprüfung der Prozentsätze gemäss § 27 Abs. 2 und 3 FiVO, sobald er eine wesentliche Veränderung der Berechnungsgrundlagen feststellt.
+- 1\. 4. 26 - 132 § 13.[^11-3] Der Kirchenrat beauftragt den Koordinationsausschuss Finanzen mit der Überprüfung der Prozentsätze gemäss § 27 Abs. 2 und 3 FiVO, sobald er eine wesentliche Veränderung der Berechnungsgrundlagen feststellt.
 
 **Negative Zweckbindung (§ 27 Abs. 4 FiVO)**
 
@@ -244,7 +243,7 @@ Der Jahresbericht der Kirchgemeinde stellt insbesondere dar:
 
 **5**
 
-- 1\. 4. 23 - 120 § 18.[^17-3] Die Kirchgemeinden bilden für die Beiträge an die Zentralkasse und an den Finanzausgleich Rückstellungen.
+- 1\. 4. 26 - 132 § 18.[^17-3] Die Kirchgemeinden bilden für die Beiträge an die Zentralkasse und an den Finanzausgleich Rückstellungen.
 
 **Rückstellungen für Beiträge**
 
@@ -353,7 +352,7 @@ Haben die Stimmberechtigten oder die Kirchensynode zum Zeitpunkt der Budgetierun
 
 **7**
 
-- 1\. 4. 23 - 120 § 29. <sup>1</sup> Die Kreditüberschreitung erhöht den Budgetkredit nicht.
+- 1\. 4. 26 - 132 § 29. <sup>1</sup> Die Kreditüberschreitung erhöht den Budgetkredit nicht.
 
 **Kreditüberschreitung (§ 51 FiVO)**
 
@@ -454,7 +453,7 @@ b.[^34-1] vor der Beschlussfassung anfallende Aufwendungen von Investitionsbeitr
 
 **9**
 
-- 1\. 4. 23 - 120 § 35. <sup>1</sup> Leasing ohne Kaufabsicht (operatives Leasing) wird als wiederkehrende, Leasing mit Kaufabsicht (Finanzierungsleasing) als einmalige Ausgabe behandelt.
+- 1\. 4. 26 - 132 § 35. <sup>1</sup> Leasing ohne Kaufabsicht (operatives Leasing) wird als wiederkehrende, Leasing mit Kaufabsicht (Finanzierungsleasing) als einmalige Ausgabe behandelt.
 
 **Leasing**
 
@@ -564,7 +563,7 @@ Der Kirchenrat beschliesst über die Annahme von Erbschaften und von Zuwendungen
 
 **11**
 
-- 1\. 4. 23 - 120 § 54. Der Kirchenrat erlässt Richtlinien betreffend die Anlage des Finanzvermögens der Landeskirche.
+- 1\. 4. 26 - 132 § 54. Der Kirchenrat erlässt Richtlinien betreffend die Anlage des Finanzvermögens der Landeskirche.
 
 **Anlagerichtlinien**
 
@@ -673,7 +672,7 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 **13**
 
-- 1\. 4. 23 - 120 § 75. <sup>1</sup> Teilzahlungen von Beiträgen der Landeskirche werden im Rahmen von § 86 a Abs. 1 und 2 FiVO auf Gesuch hin nach Massgabe der bewilligten Kredite ausgerichtet.[^hABeiträgederLand-2]
+- 1\. 4. 26 - 132 § 75. <sup>1</sup> Teilzahlungen von Beiträgen der Landeskirche werden im Rahmen von § 86 a Abs. 1 und 2 FiVO auf Gesuch hin nach Massgabe der bewilligten Kredite ausgerichtet.[^hABeiträgederLand-2]
 
 **Teilzahlung (§ 86 a Abs. 3 FiVO)**
 
@@ -685,7 +684,7 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 [^hABeiträgederLand-1]: Aufgehoben durch B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
 [^hABeiträgederLand-2]: Fassung gemäss B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
-[^hABeiträgederLand-3]: Aufgehoben durch B des Kirchenrates vom 1. Februar 2023 (OS 78, 125; ABl 2023-02-03). In Kraft seit 1. April 2023. 1. 4. 23 - 120 21
+[^hABeiträgederLand-3]: Aufgehoben durch B des Kirchenrates vom 1. Februar 2023 (OS 78, 125; ABl 2023-02-03). In Kraft seit 1. April 2023.
 
 ### B. Beiträge an Gemeindezusammenschlüsse
 
@@ -749,25 +748,27 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 **15**
 
-- 1\. 4. 23 - 120 § 83 a.[^hBBeiträgeanGemei-3] Ein Entschuldungsbeitrag gemäss § 88 b Abs. 1 FiVO kann einer zusammengeschlossenen Kirchgemeinde für jede beteiligte Kirchgemeinde ausgerichtet werden,
+- 1\. 4. 26 - 132 § 83 a.[^hBBeiträgeanGemei-3] Ein Entschuldungsbeitrag geäss § 88 b Abs. 1 FiVO kann einer zusammengeschlossenen Kirchgemeinde für jede beteiligte Kirchgemeinde ausgerichtet werden, die für vier aufeinanderfolgende Rechnungsjahre für jedes derselben
 
 **Entschuldungsbeiträge (§ 88 b FiVO) a. Voraussetzungen**
 
-- a. die höchstens 3000 Mitglieder zählt,
+- a. höchstens 3000 Mitglieder zählte,
 
-- b. die eine Nettoschuld von mehr als 200 Franken pro Mitglied aufweist und c.[^hBBeiträgeanGemei-4] die während dreier Jahre einen Steuerfuss aufwies, der mindestens drei Prozentpunkte über dem gewogenen kantonalen Mittel der Kirchensteuerfüsse gemäss § 61 Abs. 1 lag.
+- b. eine Nettoschuld von mehr als 200 Franken pro Mitglied aufwies und
+
+- c. einen Steuerfuss von mindestens drei Prozentpunkten über dem gewogenen kantonalen Mittel der Kirchensteuerfüsse gemäss § 61 Abs. 1 aufwies.
 
 **b. Berechnungsgrundlagen**
 
-§ 83 b.[^hBBeiträgeanGemei-5] <sup>1</sup> Für die Zahl der Mitglieder gemäss § 83 a Abs. 1 lit. a ist die Mitgliederzahl gemäss der Erhebung des Statistischen Amtes des Kantons Zürich am 31. Dezember 2017 massgebend.
+§ 83 b.[^hBBeiträgeanGemei-3] <sup>1</sup> Für die Zahl der Mitglieder gemäss § 83 a Abs. 1 lit. a ist die Mitgliederzahl gemäss der Erhebung des Statistischen Amtes des Kantons Zürich am 31. Dezember des jeweiligen Rechnungsjahres massgebend.
 
-<sup>2</sup> Die Nettoschuld gemäss § 83 a Abs. 1 lit. b berechnet sich gemäss Anhang 2 Ziff. 3.4 der Gemeindeverordnung[^hBBeiträgeanGemei-6]. Massgebend ist die von der Kirchgemeindeversammlung genehmigte Rechnung für das Jahr 2017.
+<sup>2</sup> Die Nettoschuld gemäss § 83 a Abs. 1 lit. b berechnet sich gemäss Anhang 2 Ziff. 3.4 der Gemeindeverordnung[^hBBeiträgeanGemei-4]. Massgebend sind die von der Kirchgemeindeversammlung genehmigten Jahresrechnungen.
 
-<sup>3</sup> Für den Steuerfuss gemäss § 83 a Abs. 1 lit. c sind die Jahre 2015, 2016 und 2017 massgebend.
+<sup>3</sup> Massgebend sind die vier Rechnungsjahre, die dem Jahr vorangehen, in dem die beteiligten Kirchgemeinden über den Zusammenschluss beschliessen.
 
 **c. Beitragshöhe**
 
-§ 83 c.[^hBBeiträgeanGemei-3] <sup>1</sup> Für beteiligte Kirchgemeinden mit höchstens 2000 Mitgliedern entspricht der Entschuldungsbeitrag dem Ergebnis der Multiplikation des Betrags, um den die Nettoschuld pro Mitglied 200 Franken übersteigt, mit der Mitgliederzahl der Kirchgemeinde.
+§ 83 c.[^hBBeiträgeanGemei-5] <sup>1</sup> Für beteiligte Kirchgemeinden mit höchstens 2000 Mitgliedern entspricht der Entschuldungsbeitrag dem Ergebnis der Multiplikation des Betrags, um den die Nettoschuld pro Mitglied 200 Franken übersteigt, mit der Mitgliederzahl der Kirchgemeinde.
 
 <sup>2</sup> Beteiligte Kirchgemeinden mit mehr als 2000 und höchstens 3000 Mitgliedern erhalten einen verminderten Entschuldungsbeitrag, der dem Ergebnis der Multiplikation folgender Faktoren entspricht:
 
@@ -777,9 +778,17 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 <sup>3</sup> Der Kirchenrat setzt den Entschuldungsbeitrag im Rahmen und auf die Dauer der bewilligten Kredite im Einzelfall fest.
 
+[^hBBeiträgeanGemei-1]: Fassung gemäss B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
+[^hBBeiträgeanGemei-2]: Fassung gemäss B des Kirchenrates vom 3. Februar 2021 (OS 76, 118; ABl 2021-02-05). In Kraft seit 1. Juni 2021.
+[^hBBeiträgeanGemei-3]: Fassung gemäss B des Kirchenrates vom 26. November 2025 (OS 81, 40; ABl 2025-12-05). In Kraft seit 1. März 2026. 1. 4. 26 - 132 21
+[^hBBeiträgeanGemei-4]: LS 131.11.
+[^hBBeiträgeanGemei-5]: Eingefügt durch B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
+
+#### § 83 d
+
 **d. Verfahren**
 
-§ 83 d.[^hBBeiträgeanGemei-3] <sup>1</sup> An einem Zusammenschluss beteiligte Kirchgemeinden reichen das Gesuch um einen Entschuldungsbeitrag so rechtzeitig ein, dass der Kirchenrat dieses vor dem Beschluss der beteiligten Kirchgemeinden über den Zusammenschluss entscheiden kann.
+<sup>1</sup> An einem Zusammenschluss beteiligte Kirchgemeinden reichen das Gesuch um einen Entschuldungsbeitrag in der Regel so rechtzeitig ein, dass der Kirchenrat dieses vor dem Beschluss der beteiligten Kirchgemeinden über den Zusammenschluss entscheiden kann.[^hBBeiträgeanGemei-3]
 
 <sup>2</sup> Die Auszahlung des Entschuldungsbeitrags erfolgt nach Eintritt der Rechtskraft des Beschlusses der Kirchensynode über den Zusammenschluss an die zusammengeschlossene Kirchgemeinde.
 
@@ -795,7 +804,7 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 **e. Rückzahlung**
 
-§ 83 e.[^hBBeiträgeanGemei-3] <sup>1</sup> Zusammengeschlossene Kirchgemeinden, denen ein Entschuldungsbeitrag ausbezahlt wurde, reichen dem Kirchenrat nach der Auszahlung des Entschuldungsbeitrags während zehn Kalenderjahren jährlich Jahresrechnung und Bilanz ein.
+§ 83 e.[^83d-1] <sup>1</sup> Zusammengeschlossene Kirchgemeinden, denen ein Entschuldungsbeitrag ausbezahlt wurde, reichen dem Kirchenrat nach der Auszahlung des Entschuldungsbeitrags während zehn Kalenderjahren jährlich Jahresrechnung und Bilanz ein.
 
 <sup>2</sup> Nimmt das Eigenkapital einer zusammengeschlossenen Kirchgemeinde, der ein Entschuldungsbeitrag ausbezahlt wurde, innerhalb von fünf Jahren seit der Auszahlung des Entschuldungsbeitrags mindestens um das Eineinhalbfache des ausbezahlten Entschuldungsbeitrags zu, insbesondere durch die Veräusserung von Liegenschaften, durch die Umwandlung von Verwaltungsvermögen in Finanzvermögen oder durch zweckfreie Zuwendungen Dritter, so ist der Entschuldungsbeitrag zurückzuzahlen.
 
@@ -805,16 +814,11 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 <sup>5</sup> Der zurückzuzahlende Betrag wird binnen 30 Tagen nach Eintritt der Rechtskraft des Beschlusses gemäss Abs. 4 zur Zahlung fällig.
 
-[^hBBeiträgeanGemei-1]: Fassung gemäss B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
-[^hBBeiträgeanGemei-2]: Fassung gemäss B des Kirchenrates vom 3. Februar 2021 (OS 76, 118; ABl 2021-02-05). In Kraft seit 1. Juni 2021.
-[^hBBeiträgeanGemei-3]: Eingefügt durch B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
-[^hBBeiträgeanGemei-4]: Fassung gemäss B des Kirchenrates vom 29. August 2018 (OS 73, 396; ABl 2018-09-07). In Kraft seit 1. Dezember 2018.
-[^hBBeiträgeanGemei-5]: Fassung gemäss B des Kirchenrates vom 8. Mai 2019 (OS 74, 317; ABl 2019- 05-10). In Kraft seit 1. August 2019.
-[^hBBeiträgeanGemei-6]: LS 131.11.
+[^83d-1]: Eingefügt durch B des Kirchenrates vom 4. Oktober 2017 (OS 72, 592; ABl 2017-10-13). In Kraft seit 1. Januar 2018.
 
 ### 8. Abschnitt: Liegenschaften der Kirchgemeinden
 
-[^hBBeiträgeanGemei-3]
+[^83d-1]
 
 **Fachstelle (§§ 89 Abs. 3 und 89 d Abs. 2 FiVO)**
 
@@ -824,7 +828,7 @@ Kirchgemeinden, die Leistungen aus dem Finanzausgleich[^63-1] beantragen, legen 
 
 **17**
 
-- 1\. 4. 23 - 120 § 83 g.[^h8AbschnittLiegen-1] <sup>1</sup> Bei Renovationen, Um- und Neubauten von kirchlichen Liegenschaften ist ein solider, einfacher und zweckmässiger Ausbau- und Installationsstandard zu wählen.
+- 1\. 4. 26 - 132 § 83 g.[^h8AbschnittLiegen-1] <sup>1</sup> Bei Renovationen, Um- und Neubauten von kirchlichen Liegenschaften ist ein solider, einfacher und zweckmässiger Ausbau- und Installationsstandard zu wählen.
 
 **Ausbaustandard**
 
@@ -923,7 +927,7 @@ IV. Das Verwaltungsvermögen wird nicht neu bewertet.
 
 **19**
 
-- 1\. 4. 23 - 120 V. Auf im Zeitpunkt des Inkrafttretens der Teilrevision der Vollzugsverordnung zur Finanzverordnung vom 4. Oktober 2017 laufende Abschreibungen bleiben §§ 19 Abs. 4 und 48 der Vollzugsverordnung zur Finanzverordnung in der Fassung vom 19. Januar 2010 anwendbar.
+- 1\. 4. 26 - 132 V. Auf im Zeitpunkt des Inkrafttretens der Teilrevision der Vollzugsverordnung zur Finanzverordnung vom 4. Oktober 2017 laufende Abschreibungen bleiben §§ 19 Abs. 4 und 48 der Vollzugsverordnung zur Finanzverordnung in der Fassung vom 19. Januar 2010 anwendbar.
 
 VI. Der Anspruch von Kirchgemeinden auf im Zeitpunkt des Inkrafttretens der Teilrevision der Finanzverordnung vom 2. Mai 2017 vom Kirchenrat zugesicherte Baubeiträge bleibt bestehen. §§ 79–81 und 83 der Vollzugsverordnung zur Finanzverordnung in der Fassung vom 19. Januar 2010 bleiben auf solche Baubeiträge anwendbar.
 
@@ -940,3 +944,8 @@ IX.[^hÜbergangsbestimmunge-1] Die Kirchgemeinden können die gemäss § 18 zur�
 (OS 76, 118)
 
 § 83 Abs. 4 und 5 gilt für alle Zusammenschlussprojekte und Zusammenschlüsse von Kirchgemeinden, bei denen die Rechtskraft des zustimmenden Beschlusses der Kirchensynode über den Zusammenschluss nach dem 1. Januar 2018 eingetreten ist.
+
+## Weitere Fussnoten
+
+- [17] Fassung gemäss B des Kirchenrates vom 29. August 2018 (OS 73, 396; ABl 2018-09-07). In Kraft seit 1. Dezember 2018.
+- [19] Fassung gemäss B des Kirchenrates vom 8. Mai 2019 (OS 74, 317; ABl 2019- 05-10). In Kraft seit 1. August 2019.
