@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-02-26
+version: 2026-03-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260226/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260226-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260301/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 26 febbraio 2026)
+del 4 marzo 2022 (Stato 1° marzo 2026)
 
 Il Consiglio federale svizzero,
 
@@ -124,8 +124,8 @@ D’intesa con i servizi competenti del Dipartimento federale degli affari ester
 - b. per le attrezzature di sminamento e il materiale da impiegare in operazioni di sminamento esclusivamente destinati a fini umanitari.[^2a-11]
 
 [^2a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^2a-2]: Con effetto fino al 22 nov. 2026 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)cifra III).
-[^2a-3]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 al 28 mar. 2027 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^2a-2]: In vigore fino al 22 nov. 2026, prolungato fino al 1° mar. 2030 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)cifra III; [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 3).
+[^2a-3]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 al 28 mar. 2027, prolungato fino al 1° mar. 2030 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 4).
 [^2a-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^2a-5]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-6]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -175,12 +175,12 @@ La vendita diretta o indiretta, la cessione in licenza o il trasferimento in alt
 
 [^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^4-3]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^4-3]: In vigore fino al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
 [^4-4]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^4-5]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^4-6]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^4-6]: In vigore fino al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra i n. 1).
 [^4-7]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^4-8]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^4-8]: In vigore fino al 15 ago. 2027, prolungato fino al 1° mar. 2030 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 5).
 [^4-9]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^4-10]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^4-11]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
@@ -219,16 +219,16 @@ La vendita diretta o indiretta, la cessione in licenza o il trasferimento in alt
 
 <sup>3</sup> La SECO nega l’autorizzazione per i beni e i servizi di cui ai capoversi 1 lettera b e 2 lettera b se sono in parte o interamente destinati a fini militari o a destinatari finali militari.[^5-10]
 
-[^5-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
 [^5-2]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^5-3]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00, la lett. b con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^5-4]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 30 ott. 2025 ([RU 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
-[^5-5]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-5]: In vigore fino al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
 [^5-6]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^5-7]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^5-7]: In vigore fino al 15 ago. 2027, prolungato fino al 1° mar. 2030 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 5).
 [^5-8]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^5-9]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^5-10]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-10]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
 
 #### Art. 6
 
@@ -279,7 +279,7 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 
 <sup>4</sup> L’obbligo di autorizzazione per i beni utilizzabili a fini civili e militari di cui all’articolo 3 OBDI[^6-22] si applica anche in caso di deroghe secondo i capoversi 1 e 2.[^6-23]
 
-[^6-1]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^6-1]: In vigore fino al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
 [^6-2]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-3]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-4]: Abrogate dalla cifra I dell’O del 14 mag. 2025, con effetto dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -407,13 +407,13 @@ La vendita diretta o indiretta, la cessione in licenza o il trasferimento in alt
 <sup>5</sup> La SECO nega l’autorizzazione per i beni e i servizi di cui ai capoversi 1 lettera b e 2 lettera b se essi sono in parte o interamente destinati a fini militari o a destinatari finali militari.[^9a-8]
 
 [^9a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-2]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-3]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-4]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9a-2]: In vigore fino al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
+[^9a-3]: In vigore fino al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
+[^9a-4]: In vigore fino al 15 ago. 2027, prolungato fino al 1° mar. 2030 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 5).
 [^9a-5]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9a-6]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^9a-6]: In vigore fino al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
 [^9a-7]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^9a-8]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^9a-8]: In vigore fino al 28 feb. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 1).
 
 #### Art. 9b
 
@@ -460,12 +460,12 @@ La SECO può autorizzare deroghe al divieto di cui al capoverso 1<sup>bis</sup> 
 <sup>4</sup> La SECO nega l’autorizzazione per i beni e i servizi di cui ai capoversi 1 lettera b, 1<sup>bis</sup> lettera b e 2 lettera b se sono in parte o interamente destinati a fini militari o a destinatari finali militari.[^9b-11]
 
 [^9b-1]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 fino al 26 apr. 2026 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-3]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-2]: In vigore fino al 26 apr. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 2).
+[^9b-3]: In vigore fino al 15 ago. 2027, prolungato fino al 1° mar. 2030 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 5).
 [^9b-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-5]: In vigore fino al 26 apr. 2026 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^9b-5]: In vigore fino al 26 apr. 2026, prolungato fino al 1° mar. 2030 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 2).
 [^9b-6]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-7]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-7]: In vigore fino al 15 ago. 2027, prolungato fino al 1° mar. 2030 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)cifra I n. 5).
 [^9b-8]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^9b-9]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^9b-10]: Originario cpv. 2<sup>ter</sup>. Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).

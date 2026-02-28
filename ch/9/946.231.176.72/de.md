@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-02-26
+version: 2026-03-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260226/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260226-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260301/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 26. Februar 2026)
+vom 4. März 2022 (Stand am 1. März 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -125,8 +125,8 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 - b. Minenräumungsgeräte und Material zur Verwendung bei Minenräumungsaktionen, die ausschliesslich für humanitäre Zwecke bestimmt sind.[^2a-11]
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^2a-2]: In Kraft bis zum 22. Nov. 2026 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)Ziff. III).
-[^2a-3]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft vom 29. März 2023 um 20.00 Uhr bis zum 28. März 2027 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^2a-2]: In Kraft bis zum 22. Nov. 2026, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)Ziff. III; [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 3).
+[^2a-3]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft vom 29. März 2023 um 20.00 Uhr bis zum 28. März 2027, verlängert bis zum 1. März 2030 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 4).
 [^2a-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^2a-5]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-6]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -176,12 +176,12 @@ Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder
 
 [^4-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Fassung gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^4-3]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^4-3]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 [^4-4]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^4-6]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^4-6]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 [^4-7]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^4-8]: In Kraft bis zum 15. Aug. 2027 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^4-8]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
 [^4-9]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^4-10]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^4-11]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
@@ -220,17 +220,17 @@ Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder
 
 <sup>3</sup> Das SECO verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.[^5-11]
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft vom 25. März 2022 um 23.00 Uhr bis zum 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft vom 25. März 2022 um 23.00 Uhr bis zum 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 [^5-2]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^5-3]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^5-4]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 30. Okt. 2025 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
 [^5-5]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^5-6]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-6]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 [^5-7]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^5-8]: In Kraft bis zum 15. Aug. 2027 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^5-8]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
 [^5-9]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^5-10]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^5-11]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft vom 25. März 2022 um 23.00 Uhr bis zum 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-11]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft vom 25. März 2022 um 23.00 Uhr bis zum 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 
 #### Art. 6
 
@@ -281,7 +281,7 @@ Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur 
 
 <sup>4</sup> Die Bewilligungspflicht für zivil und militärisch verwendbare Güter nach Artikel 3 GKV[^6-22] gilt auch bei Ausnahmen nach den Absätzen 1 und 2.[^6-23]
 
-[^6-1]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^6-1]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 [^6-2]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-3]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-4]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -411,13 +411,13 @@ Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^9a-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9a-3]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-4]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-5]: In Kraft bis zum 15. Aug. 2027 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9a-3]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
+[^9a-4]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
+[^9a-5]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
 [^9a-6]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9a-7]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^9a-7]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 [^9a-8]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^9a-9]: In Kraft bis 28. Febr. 2026 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^9a-9]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 
 #### Art. 9b
 
@@ -464,12 +464,12 @@ Das SECO kann Ausnahmen vom Verbot nach Absatz 1<sup>bis</sup> bewilligen für F
 <sup>4</sup> Es verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b, 1<sup>bis</sup> Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.[^9b-11]
 
 [^9b-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-2]: In Kraft bis zum 26. April 2026 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-3]: In Kraft bis zum 15. Aug. 2027 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-2]: In Kraft bis zum 26. April 2026, verlängert bis zum 1. März 2030 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 2).
+[^9b-3]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
 [^9b-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-5]: In Kraft bis zum 26. April 2026 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^9b-5]: In Kraft bis zum 26. April 2026, verlängert bis zum 1. März 2030 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 2).
 [^9b-6]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-7]: In Kraft bis zum 15. Aug. 2027 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-7]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
 [^9b-8]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^9b-9]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^9b-10]: Ursprünglich: Abs. 2<sup>ter</sup>. Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -794,7 +794,7 @@ Das Verbot nach Absatz 1 gilt nicht für:
 
 **Kauf und Einfuhr von Flüssigerdgas**[^12g-1]
 
-<sup>1</sup> ...
+<sup>1</sup> …
 
 <sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Flüssigerdgas nach Absatz 1 sind verboten.
 
@@ -1948,7 +1948,7 @@ Die folgenden Tätigkeiten sind verboten:
   - 1\. juristischen Personen, Unternehmen oder Organisationen, die als in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1 oder 2 ansässig registriert sind oder dort ihren Sitz, ihre Hauptniederlassung oder ihre Betriebsstätte haben,
   - 2\. juristischen Personen, Unternehmen oder Organisationen im Eigentum oder unter Kontrolle von juristischen Personen, Unternehmen oder Organisationen nach Ziffer 1;
 
-- b. ...
+- b. …
 - c.
 
   die Gründung eines neuen Joint Venture:
@@ -1956,9 +1956,9 @@ Die folgenden Tätigkeiten sind verboten:
   - 1\. in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1 oder 2,
   - 2\. mit juristischen Personen, Unternehmen oder Organisationen nach Buchstabe a;
 
-- d. ...
+- d. …
 - e. die Gründung neuer Niederlassungen oder Repräsentationsbüros in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1 oder 2;
-- f. ...
+- f. …
 - g.
 
   der Abschluss neuer Verträge oder Vereinbarungen über:
@@ -1966,7 +1966,7 @@ Die folgenden Tätigkeiten sind verboten:
   - 1\. die Lieferung von Gütern an juristische Personen, Unternehmen oder Organisationen nach Buchstabe a,
   - 2\. die Erbringung von Dienstleistungen und die Bereitstellung damit zusammenhängender Rechte des geistigen Eigentums oder von Geschäftsgeheimnissen für juristische Personen, Unternehmen oder Organisationen nach Buchstabe a;
 
-- h. ...
+- h. …
 - i.
 
   die Gewährung oder Bereitstellung von Darlehen, Krediten oder sonstiger Finanzmittel, einschliesslich Eigenkapital, an:
@@ -2481,7 +2481,7 @@ Das SECO kann bis zum 31. Dezember 2026 nach Rücksprache mit den zuständigen S
 
 <sup>2</sup> Es lehnt das Gesuch um Bewilligung einer Ausnahme nach Absatz 1 ab, wenn es hinreichende Gründe zur Annahme hat, dass die Dienstleistungen oder die Software mittelbar oder unmittelbar für die Regierung der Russischen Föderation, militärische Endnutzerinnen und Endnutzer oder eine militärische Endverwendung in der Russischen Föderation bestimmt sein könnten.[^30c-4]
 
-<sup>3</sup> ...[^30c-5]
+<sup>3</sup> …[^30c-5]
 
 [^30c-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^30c-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
@@ -2731,7 +2731,7 @@ Die Verordnung vom 27. August 2014[^34-1] über Massnahmen im Zusammenhang mit d
 
 <sup>9</sup> Artikel 10 ist nicht auf Geschäfte anwendbar, die vor dem 5. März 2022 vertraglich vereinbart wurden und bis zum 3. Juni 2022 erfüllt sind.[^35-4]
 
-<sup>10</sup> ...[^35-5]
+<sup>10</sup> …[^35-5]
 
 <sup>11</sup> Artikel 11*a* Absätze 1, 2 und 2<sup>bis</sup> ist nicht anwendbar auf Geschäfte im Zusammenhang mit Gütern nach Anhang 23 Ziffer 2, die vor dem 30. Oktober 2025 vertraglich vereinbart wurden und bis zum 31. Januar 2026 erfüllt sind.[^35-6]
 

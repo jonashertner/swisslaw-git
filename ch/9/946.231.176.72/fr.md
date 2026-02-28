@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2026-02-26
+version: 2026-03-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260226/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260226-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 26 février 2026)
+du 4 mars 2022 (État le 1<sup>er</sup> mars 2026)
 
 Le Conseil fédéral suisse,
 
@@ -124,8 +124,8 @@ Le Secrétariat d’État à l’économie (SECO) peut, après avoir consulté l
 - b. le matériel de déminage et le matériel devant servir aux opérations de déminage qui sont exclusivement destinés à des fins humanitaires.[^2a-11]
 
 [^2a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^2a-2]: En vigueur jusqu’au 22 nov. 2026 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)ch. III).
-[^2a-3]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur du 29 mars 2023 à 20 heures au 28 mars 2027 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^2a-2]: En vigueur jusqu’au 22 nov. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)ch. III; [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 3).
+[^2a-3]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur du 29 mars 2023 à 20 heures au 28 mars 2027, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 4).
 [^2a-4]: Introduit par le ch. I de l’O du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^2a-5]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-6]: Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -175,12 +175,12 @@ La vente directe ou indirecte, la concession sous licence ou tout autre transfer
 
 [^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^4-3]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^4-3]: En vigueur jusqu’au 28 fév. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
 [^4-4]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^4-5]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^4-6]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^4-6]: En vigueur jusqu’au 28 fév. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
 [^4-7]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^4-8]: En vigueur jusqu’au 15 août 2027 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^4-8]: En vigueur jusqu’au 15 août 2027, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025](https://fedlex.data.admin.ch/eli/oc/2023/2025)[779](https://fedlex.data.admin.ch/eli/oc/2023/779)ch. I 5).
 [^4-9]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^4-10]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^4-11]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
@@ -219,16 +219,16 @@ La vente directe ou indirecte, la concession sous licence ou tout autre transfer
 
 <sup>3</sup> Le SECO refuse l’autorisation pour les biens et les services visés aux al. 1, let. b, et 2, let. b, lorsqu’ils sont, en totalité ou en partie, destinés à un usage militaire ou à des destinataires finaux militaires.[^5-10]
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur du 25 mars 2022 à 23 heures au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur du 25 mars 2022 à 23 heures au 28 fév. 2026, prolongée jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
 [^5-2]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^5-3]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^5-4]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 30 oct. 2025 ([RO 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
-[^5-5]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-5]: En vigueur jusqu’au 28 fév. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
 [^5-6]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^5-7]: En vigueur jusqu’au 15 août 2027 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^5-7]: En vigueur jusqu’au 15 août 2027, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 5).
 [^5-8]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^5-9]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^5-10]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur du 25 mars 2022 à 23 heures au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-10]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur du 25 mars 2022 à 23 heures au 28 fév. 2026, prolongée jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
 
 #### Art. 6
 
@@ -279,7 +279,7 @@ Le SECO refuse l’autorisation des dérogations visées à l’al. 2 s’il y a
 
 <sup>4</sup> Le régime du permis pour les biens utilisables à des fins civiles et militaires visés à l’art. 3 OCB[^6-22] s’applique également aux exceptions prévues par les al. 1 et 2.[^6-23]
 
-[^6-1]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^6-1]: En vigueur jusqu’au 28 fév. 2026 prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-4]: Abrogées par le ch. I de l’O du 14 mai 2025, avec effet au 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
@@ -407,13 +407,13 @@ La vente directe ou indirecte, la concession sous licence ou tout autre transfer
 <sup>5</sup> Il refuse l’autorisation pour les biens et les services visés aux al. 1, let. b, et 2, let. b, lorsqu’ils sont, en totalité ou en partie, destinés à un usage militaire ou à des destinataires finaux militaires.[^9a-8]
 
 [^9a-1]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-2]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-3]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-4]: En vigueur jusqu’au 15 août 2027 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9a-2]: En vigueur jusqu’au 28 fév. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
+[^9a-3]: En vigueur jusqu’au 28 fév. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
+[^9a-4]: En vigueur jusqu’au 15 août 2027, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 5).
 [^9a-5]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9a-6]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^9a-6]: En vigueur jusqu’au 28 fév. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
 [^9a-7]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^9a-8]: En vigueur jusqu’au 28 fév. 2026 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^9a-8]: En vigueur jusqu’au 28 fév. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 1).
 
 #### Art. 9b
 
@@ -460,11 +460,11 @@ Le SECO peut autoriser des dérogations à l’interdiction prévue à l’al. 1
 <sup>4</sup> Il refuse l’autorisation pour les biens et les services visés aux al. 1, let. b, 1<sup>bis</sup>, let. b, et 2, let. b, lorsqu’ils sont, en totalité ou en partie, destinés à un usage militaire ou à des destinataires finaux militaires.[^9b-10]
 
 [^9b-1]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-2]: En vigueur jusqu’au 26 avr. 2026 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-3]: En vigueur jusqu’au 15 août 2027 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-2]: En vigueur jusqu’au 26 avr. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 2).
+[^9b-3]: En vigueur jusqu’au 15 août 2027, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 5).
 [^9b-4]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-5]: En vigueur jusqu’au 26 avr. 2026 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-6]: En vigueur jusqu’au 15 août 2027 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-5]: En vigueur jusqu’au 26 avr. 2026, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 2).
+[^9b-6]: En vigueur jusqu’au 15 août 2027, prolongé jusqu’au 1<sup>er</sup> mars 2030 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)ch. I 5).
 [^9b-7]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^9b-8]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^9b-9]: Anciennement al. 2<sup>ter</sup>. Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
