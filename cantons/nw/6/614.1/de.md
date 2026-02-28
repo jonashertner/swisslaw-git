@@ -1,448 +1,438 @@
 ---
 canton: NW
 number: "614.1"
-title: Einführungsgesetz zur Bundesgesetzgebung über Fuss- und Wanderwege
-short: "Kantonales Fuss- und Wanderweggesetz, kFWG"
+title: "Gesetz über die Fuss-, Wander-, und Mountainbikewege"
+short: "Fuss-, Wander- und Mountainbikeweggesetz, FWMG"
 language: de
-version: 2016-01-01
-corrected: 2021-11-04
-version_adopted: 2015-05-27
+version: 2026-03-01
+version_adopted: 2025-11-26
 adopted: 2025-11-26
 in_force: 2026-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/614.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/224/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1478/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zur Bundesgesetzgebung über Fuss- und Wanderwege (Kantonales Fuss- und Wanderweggesetz, kFWG)
+# Gesetz über die Fuss-, Wander-, und Mountainbikewege
 
-vom 29. April 1990[^t-2][^t-1]
+(Fuss-, Wander- und Mountainbikeweggesetz, FWMG)
 
-Die Landsgemeinde,
+vom 26.11.2025 (Stand 01.03.2026)
 
-gestützt auf Art. 52 der Kantonsverfassung, in Ausführung der Bundesgesetzgebung über Fuss- und Wanderwege[^t-3],
+Der Landrat von Nidwalden,
+
+gestützt auf Art. 60 Abs. 1 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 4. Oktober 1985 über Fuss- und Wanderwege (FWG)[^ingress-1] und des Bundesgesetzes vom 18. März 2022 über Velowege (Veloweggesetz)[^ingress-2],
 
 beschliesst:
 
-[^t-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
-[^t-2]: A 1990, 829
-[^t-3]: SR 704
+[^ingress-1]: SR 704
+[^ingress-2]: SR 705
 
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Zweck**
+**Gegenstand, Geltungsbereich**
 
-Dieses Gesetz regelt die Planung, den Bau, den Unterhalt, die Erhaltung und den Ersatz von zusammenhängenden Fuss- und Wanderwegnetzen im Interesse der Bevölkerung und des Tourismus.
+<sup>1</sup> Dieses Gesetz regelt die Planung, die Anlage, den Unterhalt, die Erhaltung und den Ersatz von zusammenhängenden Fuss-, Wander- und Mountainbikewegnetzen im Interesse der Bevölkerung und des Tourismus.
+
+<sup>2</sup> Es enthält Regelungen zur Haftung.
+
+<sup>3</sup> Es gilt nicht für:
+
+- 1\. Strassen, Velowege, Plätze, Trottoirs und dergleichen, die auch als Fuss-, Wander- oder Mountainbikeweg dienen und vom Geltungsbereich des Strassengesetzes (StrG)[^1-1] erfasst sind;
+- 2\. Mountainbikeanlagen und Mountainbikepisten, sofern diese nicht Bestandteil einer Mountainbikeroute sind.
+
+<sup>4</sup> Die Bestimmungen der Planungs- und Baugesetzgebung[^1-2] betreffend die Überbindung der Erstellung von Erschliessungsanlagen an die betroffenen Grundeigentümerinnen und Grundeigentümer bleiben vorbehalten.
+
+[^1-1]: NG 622.1
+[^1-2]: NG 611.1
 
 #### Art. 2
 
-**Begriffe**
+**Begriffe 1. Fuss- und Wanderwege**
 
-<sup>1</sup> Der Plan der Fusswegnetze im Sinne von Art. 2 des Bundesgesetzes über Fuss- und Wanderwege (Bundesgesetz)[^2-1] gibt Auskunft über die bestehende und vorgesehene Erschliessung der Siedlungsgebiete durch Fusswege.
+<sup>1</sup> Als Fusswege gelten diejenigen Wege des Fusswegnetzes gemäss Art. 2 des Bundesgesetzes über Fuss- und Wanderwege (FWG)[^2-1], die im kommunalen Fusswegplan bezeichnet sind.
 
-<sup>2</sup> Der Plan der Wanderwegnetze im Sinne von Art. 3 des Bundesgesetzes gibt Auskunft über die bestehende und vorgesehene Erschliessung von Erholungsgebieten und Aussichtspunkten; Wanderwege liegen in der Regel ausserhalb des Siedlungsgebietes.
+<sup>2</sup> Als Wanderwege gelten diejenigen Wege des Wanderwegnetzes gemäss Art. 3 FWG, die im kantonalen Wanderwegplan bezeichnet sind.
 
-<sup>3</sup> Öffentliche Fuss- und Wanderwege privater Eigentümer sind Wege im Eigentum öffentlich-rechtlicher Körperschaften oder Privater, die von jedermann benützt werden können, insbesondere alle öffentlichen Wege, die im Grundbuch eingetragen sind oder die schon vor dem Jahre 1900 öffentlich benützt worden sind.
-
-[^2-1]: SR 704.1
+[^2-1]: SR 704
 
 #### Art. 3
 
-**Träger der Planung**
+**2. Mountainbikewege**
 
-Träger der Planung sind für die Wanderwegnetze (Wanderwegpläne) der Kanton und für die Fusswegnetze (Fusswegpläne) die politischen Gemeinden.
+<sup>1</sup> Als Mountainbikewege gelten diejenigen Wege des Velowegnetzes für die Freizeit gemäss Art. 4 Veloweggesetz[^3-1], die im kantonalen Mountainbikewegplan bezeichnet sind. Es handelt sich um Wege, die aufgrund des hügeligen und bergigen Geländes üblicherweise mit Mountainbikes befahren werden.
+
+<sup>2</sup> Mountainbikerouten sind signalisierte Mountainbikewege zwischen einem Ausgangspunkt und einem Ziel. Sie beginnen und enden in der Regel an Schnittstellen zum öffentlichen Verkehr oder zum weiteren Velowegnetz.
+
+[^3-1]: SR 705
 
 #### Art. 4
 
 **Koordination**
 
-<sup>1</sup> Die Träger der Planung und alle ihre Behörden und Amtsstellen arbeiten bei der Ausübung von Tätigkeiten, die sich auf die Fuss- oder Wanderwege auswirken, zusammen und sind für die nötige Koordination besorgt; diese Verpflichtung obliegt dem Kanton auch gegenüber den Nachbarkantonen und dem Bund.
+<sup>1</sup> Die Planungs- und Vollzugsbehörden koordinieren ihre Tätigkeiten, die sich auf Fuss-, Wander- oder Mountainbikewege auswirken.
 
-<sup>2</sup> Die Planungs- und Vollzugsbehörden berücksichtigen andere vorhandene Interessen, insbesondere jene der Land- und Forstwirtschaft.
+<sup>2</sup> Sie stellen die Koordination mit Nachbarkantonen und dem Bund sicher.
 
 #### Art. 5
 
-**Änderung der Pläne**
+**Fachstellen**
 
-Die Fuss- und Wanderwegpläne sind in der Regel alle zehn Jahre gesamthaft zu prüfen und nötigenfalls anzupassen.
+<sup>1</sup> Der Regierungsrat bezeichnet in einer Verordnung die Fachstelle für Fusswege gemäss Art. 13 FWG[^5-1] und die Fachstelle für Wander- und Mountainbikewege gemäss Art. 13 FWG und Art. 17 Veloweggesetz[^5-2].
+
+[^5-1]: SR 704
+[^5-2]: SR 705
+
+## 2 Planung
 
 #### Art. 6
 
-**Gemeingebrauch**
+**Planungsträger**
 
-Die diesem Gesetz unterstellten Fuss- und Wanderwege dürfen im Rahmen ihrer Zweckbestimmung, ihrer Gestaltung, der örtlichen Verhältnisse und der geltenden Vorschriften von jedermann unentgeltlich und ohne besondere Bewilligung benützt werden.
+<sup>1</sup> Träger der Planung sind:
+
+- 1\. für die Fusswege die Gemeinden;
+- 2\. für die Wanderwege und Mountainbikewege der Kanton.
+
+<sup>2</sup> Der Kanton hat die Gemeinden bei der Planung der Wanderwege und Mountainbikewege miteinzubeziehen und anzuhören.
 
 #### Art. 7
 
-**Ersatz**
+**Planungsgrundsätze**
 
-<sup>1</sup> Müssen die in den Plänen festgehaltenen Fuss- oder Wanderwege gemäss Art. 7 des Bundesgesetzes[^7-1] durch vorhandene oder neu zu schaffende Wege ersetzt werden, hat der Verursacher die Kosten zu tragen, wenn er dazu in finanzieller Hinsicht in der Lage ist; werden diese Kosten dem Verursacher nicht überbunden, hat sie die Gemeinde zu tragen.
+<sup>1</sup> Die Planunterlagen sind aufeinander abzustimmen, damit ein möglichst zusammenhängendes Wegnetz sichergestellt werden kann.
 
-<sup>2</sup> Ist ein Ersatz nicht möglich, hat der Verursacher eine Entschädigung zu leisten; diese Entschädigung muss zweckgebunden für die Anlegung oder den Unterhalt von Fuss- beziehungsweise Wanderwegen verwendet werden.
+<sup>2</sup> Die Planungsträger berücksichtigen die öffentlichen und privaten Interessen angemessen. Sie nehmen insbesondere auf die Anliegen der Verkehrs- und Siedlungsplanung, der Land-, Alp- und Forstwirtschaft, des Natur- und Heimatschutzes sowie anderer raumwirksamer Tätigkeiten Rücksicht.
 
-[^7-1]: SR 704.1
+<sup>3</sup> Wanderwege und Mountainbikewege verlaufen möglichst abseits von Strassen. Sie weisen in der Regel keine grösseren Wegstrecken mit bitumen-, teer- oder zementgebundenen Deckbelägen auf.
 
-### II. ORGANISATION
+<sup>4</sup> Die Planungsträger haben bei der Planung die beschwerdeberechtigten Organisationen sowie die Grundeigentümerinnen und Grundeigentümer miteinzubeziehen und anzuhören.
 
 #### Art. 8
 
-**Landrat**
+**Planunterlagen**
 
-Dem Landrat obliegt der Erlass des kantonalen Wanderwegplanes.
+<sup>1</sup> Die vorgesehenen Wege werden in einem Fusswegrichtplan, einem Wanderwegrichtplan und einem Mountainbikewegrichtplan festgelegt. Diese Wegrichtpläne sind für die Behörden aller Stufen verbindlich. Unwesentliche Abweichungen sind zulässig.
+
+<sup>2</sup> Die bestehenden Wege werden in einem Fusswegplan, einem Wanderwegplan und einem Mountainbikewegplan abgebildet. Diese Wegpläne sind für die Grundeigentümerinnen und Grundeigentümer verbindlich.
+
+<sup>3</sup> Die Wegrichtpläne und die Wegpläne sind in elektronischer Form öffentlich zugänglich.
 
 #### Art. 9
 
-**Regierungsrat**
+**Behördenverbindliche Wegrichtpläne 1. allgemein**
 
-<sup>1</sup> Der Regierungsrat übt die Aufsicht über den Vollzug der eidgenössischen und kantonalen Vorschriften über Fuss- und Wanderwege aus.
+<sup>1</sup> Die Wegrichtpläne geben einen Gesamtüberblick über die vorgesehenen Wege und deren räumliche Abstimmung.
 
-<sup>2</sup> Ihm obliegt insbesondere:
+<sup>2</sup> Sie sind in der Regel alle zehn Jahre gesamthaft zu überprüfen und bei Bedarf anzupassen.
 
-- 1\. die Genehmigung der Fusswegpläne;
-
-- 2\. die Vornahme von geringfügigen Änderungen des Wanderwegplanes;
-
-- 3\. die Beschlussfassung betreffend die Ersatzpflicht und die Kostentragung gemäss Art. 7, wenn ein Wanderweg ersetzt werden muss;
-
-- 4\. die Erfüllung der weiteren ihm durch die Gesetzgebung übertragenen Aufgaben.
+<sup>3</sup> Der Bund ist beim erstmaligen Erlass des Wanderwegrichtplans und des Mountainbikewegrichtplans sowie bei wesentlichen Anpassungen vorgängig anzuhören.
 
 #### Art. 10
 
-**Baudirektion**
+**2. Vorprüfung und Genehmigung bei Fusswegrichtplänen**
 
-<sup>1</sup> Der Baudirektion obliegt die Koordination der Fusswegpläne.
+<sup>1</sup> Die Gemeinden haben die Fusswegrichtpläne der Direktion zur Vorprüfung einzureichen.
 
-<sup>2</sup> Ihr ist die kantonale Fachstelle für Fusswege im Sinne von Art. 13 des Bundesgesetzes[^10-1] unterstellt.
+<sup>2</sup> Die Fusswegrichtpläne bedürfen zur Rechtsgültigkeit der Genehmigung des Regierungsrates. Er prüft, ob die Fusswegrichtpläne mit den gesetzlichen Vorschriften und den Wegrichtplänen der Nachbargemeinden übereinstimmen.
 
-[^10-1]: SR 704.1
+<sup>3</sup> Er kann im Rahmen der Genehmigung Änderungen beschliessen oder den Fusswegrichtplan an die Gemeinde zurückweisen. Der Gemeinderat sowie die betroffenen Personen und Organisationen sind vorgängig anzuhören.
+
+<sup>4</sup> Der Regierungsrat hat Änderungen im Amtsblatt zu veröffentlichen.
 
 #### Art. 11
 
-**Forstwirtschaftsdirektion**
+**3. Zuständigkeit**
 
-<sup>1</sup> Der Forstwirtschaftsdirektion obliegt die Erarbeitung der Planungsgrundlagen für den Erlass des kantonalen Wanderwegplanes.
+<sup>1</sup> Die Gemeindeversammlung legt den Fusswegrichtplan fest.
 
-<sup>2</sup> Sie ist beim Vollzug der Gesetzgebung über die Fuss- und Wanderwege[^11-1] für alle Verfügungen und Entscheide zuständig, die nicht ausdrücklich einer andern Instanz zugewiesen werden.
-
-<sup>3</sup> Das Oberforstamt ist ihr als kantonale Fachstelle für Wanderwege im Sinne von Art. 13 des Bundesgesetzes[^11-2] unterstellt.
-
-[^11-1]: SR 704
-[^11-2]: SR 704.1
+<sup>2</sup> Der Landrat legt den Wanderwegrichtplan und den Mountainbikewegrichtplan fest.
 
 #### Art. 12
 
-**Gemeinderat**
+**4. öffentliche Auflage**
 
-<sup>1</sup> Der Gemeinderat vollzieht unter dem Vorbehalt der Befugnisse der Gemeindeversammlung die in die Zuständigkeit der Gemeinde fallenden Aufgaben der Gesetzgebung über die Fuss- und Wanderwege[^12-1].
+<sup>1</sup> Der Gemeinderat beziehungsweise der Regierungsrat legt den Entwurf des Wegrichtplans während 30 Tagen öffentlich auf.
 
-<sup>2</sup> Ihm obliegt insbesondere:
-
-- 1\. die Vornahme von geringfügigen Änderungen des Fusswegplanes;
-
-- 2\. die Zuteilung der im Voranschlag enthaltenen Mittel für den Unterhalt und den Bau von Fuss- und Wanderwegen;
-
-- 3\. die Beschlussfassung betreffend die Ersatzpflicht und die Kostentragung gemäss Art. 7, wenn ein Fussweg ersetzt werden muss;
-
-- 4\. die Erfüllung der weiteren ihm durch die Gesetzgebung übertragenen Aufgaben.
-
-[^12-1]: SR 704
-
-### III. PLANUNGSVORSCHRIFTEN
-
-### A. Rechtswirkung der Pläne
+<sup>2</sup> Während dieser Frist können beim Gemeinderat beziehungsweise Regierungsrat schriftlich und begründet Anregungen und Vorschläge eingereicht werden.
 
 #### Art. 13
 
-**Bestehende Wege**
+**5. Beschlussfassung a) bei Fusswegrichtplänen**
 
-<sup>1</sup> Die im Fuss- und Wanderwegplan festgehaltenen bestehenden Wege sind für die betreffenden Grundeigentümer verbindlich.
+<sup>1</sup> Der Gemeinderat nimmt zu den Anregungen und Vorschlägen zuhanden der Gemeindeversammlung Stellung.
 
-<sup>2</sup> Die Grundeigentümer haben die bestimmungsgemässe Benutzung und Kennzeichnung der Fuss- und Wanderwege zu dulden.
+<sup>2</sup> Abänderungsanträge im Sinne des Gemeindegesetzes[^13-1] sind von den Stimmberechtigten spätestens zehn Tage vor der Gemeindeversammlung schriftlich und begründet beim Gemeinderat einzureichen.
+
+<sup>3</sup> Der Gemeinderat orientiert die betroffenen Grundeigentümerinnen und Grundeigentümer sowie die Direktion über den Eingang von Abänderungsanträgen.
+
+<sup>4</sup> Der Gemeinderat unterbreitet den Stimmberechtigten die Abänderungsanträge zur Beschlussfassung und nimmt dazu Stellung.
+
+[^13-1]: NG 171.1
 
 #### Art. 14
 
-**Vorgesehene Wege**
+**b) bei Wanderwegrichtplänen und Mountainbikewegrichtplänen**
 
-Die im Fuss- oder Wanderwegplan enthaltenen vorgesehenen Wege sind für die Behörden der Gemeinde und des Kantons verbindlich; für die Bundesstellen sind sie gemäss Art. 10 des Bundesgesetzes[^14-1] verbindlich.
+<sup>1</sup> Der Regierungsrat nimmt zu den Anregungen und Vorschlägen zuhanden des Landrates Stellung.
 
-[^14-1]: SR 704.1
-
-### B. Planung des Fusswegnetzes
+<sup>2</sup> Beschliesst der Landrat Änderungen, orientiert das Amt die betroffenen Grundeigentümerinnen und Grundeigentümer.
 
 #### Art. 15
 
-**Grundsätze**
+**Grundeigentümerverbindliche Wegpläne 1. allgemein**
 
-<sup>1</sup> Die politische Gemeinde erstellt entsprechend ihren Bedürfnissen den Fusswegplan.
+<sup>1</sup> Die Wegpläne bilden die bestehenden Fusswege, Wanderwege und Mountainbikewege parzellenscharf ab.
 
-<sup>2</sup> Sie ist verpflichtet, die bestehenden öffentlichen Fusswege privater Eigentümer in den Fusswegplan aufzunehmen.
+<sup>2</sup> Die Aufnahme eines Weges in den Wegplan bedarf der Zustimmung der betroffenen Grundeigentümerschaft.
 
 #### Art. 16
 
-**Zuständigkeit**
+**2. Vorprüfung und Zustimmung bei Fusswegplänen**
 
-<sup>1</sup> Für den Erlass des Fusswegplanes ist die Gemeindeversammlung zuständig.
+<sup>1</sup> Die Gemeinden haben die Fusswegpläne der Direktion zur Vorprüfung einzureichen.
 
-<sup>2</sup> Die erforderlichen Vorarbeiten sind unter Beizug von kantonalen Fachorganisationen durch den Gemeinderat zu leisten.
+<sup>2</sup> Die Fusswegpläne bedürften zur Rechtsgültigkeit die Zustimmung der Direktion. Diese prüft, ob sich die Fusswegpläne an den Fusswegrichtplänen orientieren.
 
 #### Art. 17
 
-**Vorprüfung**
+**3. öffentliche Auflage**
 
-Der Fusswegplan ist vor der öffentlichen Auflage beziehungsweise vor der Änderung gemäss Art. 12 Abs. 2 Ziff. 1 der Baudirektion zur Vorprüfung einzureichen.
+<sup>1</sup> Die Planungsträger veröffentlichen den Fusswegplan, den Wanderwegplan und den Mountainbikewegplan unter Hinweis auf die Möglichkeit zur Einwendung während 20 Tagen im Amtsblatt und legen die Planunterlagen zur öffentlichen Einsicht auf.
+
+<sup>2</sup> Im veröffentlichten Wegplan sind die betroffenen Grundstücke zu bezeichnen.
+
+<sup>3</sup> Die Grundeigentümerinnen und Grundeigentümer und weitere betroffene Personen sind schriftlich über die öffentliche Auflage zu informieren, soweit sie bekannt sind.
+
+<sup>4</sup> Das Auflageverfahren ist mit dem baurechtlichen Verfahren zu koordinieren.
 
 #### Art. 18
 
-**Genehmigung**
+**4. Einwendung, Entscheid**
 
-<sup>1</sup> Der Fusswegplan bedarf der Genehmigung durch den Regierungsrat.[^18-1]
+<sup>1</sup> Während der Auflagefrist kann beim Gemeinderat beziehungsweise bei der Direktion Einwendung erhoben werden.
 
-<sup>2</sup> Bei der Genehmigung sind die Pläne auf ihre Übereinstimmung mit den gesetzlichen Vorschriften und den Plänen der Nachbargemeinden zu überprüfen.
+<sup>2</sup> Der Gemeinderat beziehungsweise die Direktion entscheidet über den Wegplan und die öffentlich-rechtlichen Einwendungen.
 
-<sup>3</sup> Änderungen im Hinblick auf die Übereinstimmung mit den Nachbargemeinden dürfen im Genehmigungsentscheid nur nach erfolgter Anhörung der betreffenden Gemeinderäte, der kantonalen Fachorganisationen und der Betroffenen vorgenommen werden.
-
-<sup>4</sup> Mit der Genehmigung ist über allfällige Beschwerden zu entscheiden.
-
-[^18-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-[^18-2]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+<sup>3</sup> Ändert der Planungsträger den Wegplan wesentlich, ist das Verfahren zu wiederholen.
 
 #### Art. 19
 
-**Verfahren[^18-2]**
+**5. zulässige Nutzung, Rechtswirkung**
 
-- 1\. Auflage
+<sup>1</sup> Die in den Wegplänen bezeichneten Wege dürfen nach deren Erstellung im Rahmen der zugelassenen Nutzung, ihrer Gestaltung, der örtlichen Verhältnisse und der geltenden Vorschriften von der Allgemeinheit unentgeltlich und ohne Bewilligung benutzt werden.
 
-<sup>1</sup> Der Entwurf des Fusswegplans ist unter Hinweis auf die Möglichkeit zur Einwendung sowie zu Anregungen und Vorschlägen im Amtsblatt zu veröffentlichen und zusammen mit den Beilagen während 30 Tagen zur öffentlichen Einsicht bei der Gemeinde aufzulegen.
+<sup>2</sup> Wanderwege und Mountainbikewege dürfen durch Fussgängerinnen und Fussgänger sowie Mountainbikerinnen und -biker benutzt werden, soweit:
 
-<sup>2</sup> Während der Auflagefrist können stimmberechtigte Personen sowie die gemäss dem Verwaltungsrechtspflegegesetz[^19-1] Legitimierten schriftlich und begründet Einwendungen, Anregungen und Vorschläge einreichen.[^19-2]
+- 1\. das Befahren durch die Rechtsordnung nicht untersagt ist; oder
+- 2\. die zulässige Nutzung aufgrund übergeordneter Schutz- oder Nutzungsinteressen in den Wegplänen nicht eingeschränkt wird.
 
-[^19-1]: NG 265.1
-[^19-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-[^19-3]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+<sup>3</sup> Mountainbikerinnen und Mountainbiker haben im Grundsatz die Mountainbikewege zu benutzen.
+
+<sup>4</sup> Mountainbiken abseits der Wander- und Mountainbikewege ist verboten. Vorbehalten bleiben die kantonale Waldgesetzgebung[^19-1] und abweichende Bestimmungen des Bundesrechts.
+
+<sup>5</sup> Die betroffenen Grundeigentümerinnen und Grundeigentümer haben zu dulden, dass die im Wegplan bezeichneten Wege angelegt, gekennzeichnet, bestimmungsgemäss benutzt und unterhalten werden.
+
+<sup>6</sup> Die Planungsträger lassen den Wegplan bei den betroffenen Grundstücken im Grundbuch anmerken.
+
+[^19-1]: NG 831.1
 
 #### Art. 20
 
-**2. Behandlung der Eingaben[^19-3]**
+**6. Ersatz**
 
-<sup>1</sup> Hat die Behandlung der Einwendungen, Anregungen und Vorschläge wesentliche Änderungen zur Folge, ist das Verfahren für betroffene Dritte und kantonale Fachorganisationen zu wiederholen.
+<sup>1</sup> Müssen die in den Wegplänen bezeichneten Wege gemäss Art. 7 FWG[^20-1] beziehungsweise Art. 9 Veloweggesetz[^20-2] durch vorhandene oder neu zu schaffende Wege ersetzt werden, haben die Verursacherinnen und Verursacher die Kosten zu tragen.
 
-<sup>2</sup> Kann die Einwendung nicht gütlich erledigt werden, teilt der Gemeinderat der einwendenden Person mit, warum er den Stimmberechtigten die Abweisung der Einwendung beantragen werde.
+<sup>2</sup> Die Gemeinden müssen sich an den Kostenfolgen der Grundeigentümerinnen und Grundeigentümer beteiligen, wenn der Wegersatz Vorteile für die Nutzerinnen und Nutzer der Wege bringt.
 
-<sup>3</sup> Der Gemeinderat nimmt zu den nicht berücksichtigten Anregungen und Vorschlägen gesamthaft und abschliessend in einem Bericht zuhanden der Gemeindeversammlung Stellung.
+<sup>3</sup> Ist ein Ersatz nicht möglich, haben die Verursacherinnen und Verursacher eine Entschädigung zu leisten. Diese Entschädigung muss für die Erstellung oder den Unterhalt von Wegen verwendet werden.
 
-[^20-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+<sup>4</sup> Sind die Verursacherinnen und Verursacher finanziell nicht in der Lage, die Kosten für die Erstellung oder die Entschädigung zu tragen, kann die Gemeinde diese übernehmen, wenn vorgängig ein Gesuch und eine Kostengutsprache erfolgt.
+
+[^20-1]: SR 704
+[^20-2]: SR 705
 
 #### Art. 21
 
-**3. Abänderungsanträge, Abstimmung, Eröffnung[^20-1]**
+**7. Änderung oder Erneuerung von Wegen**
 
-<sup>1</sup> Abänderungsanträge im Sinne des Gemeindegesetzes[^21-1] sind von den Stimmberechtigten spätestens zehn Tage vor der Gemeindeversammlung schriftlich und begründet beim Gemeinderat einzureichen.
+<sup>1</sup> Bei der Änderung oder Erneuerung von Wegen können die Wegpläne im entsprechenden Gebiet durch die Bewilligungsinstanz angepasst werden. Die Anpassung darf sich nicht nachteilig auf das Wegnetz auswirken.
 
-<sup>2</sup> Der Gemeinderat orientiert die betroffenen Grundeigentümerinnen und Grundeigentümer sowie die Direktion über den Eingang von Abänderungsanträgen.
+<sup>2</sup> Die öffentliche Auflage muss den Vorgaben gemäss Art. 17 Rechnung tragen.
 
-<sup>3</sup> Der Gemeinderat unterbreitet den Stimmberechtigten den Fusswegplan mit dem begründeten Antrag auf Abweisung der nicht gütlich erledigten Einwendungen und die Abänderungsanträge zur Beschlussfassung. Dabei sind allfällige wesentliche Differenzen zum Vorprüfungsbericht gemäss Art. 17 bekanntzugeben und zu begründen.
+<sup>3</sup> Der Planungsträger sowie die Grundeigentümerinnen und Grundeigentümer müssen der Änderung vor der öffentlichen Auflage zustimmen.
 
-<sup>4</sup> Der Gemeinderat eröffnet den einwendenden Personen den Entscheid über die Einwendungen und den betroffenen Grundeigentümerinnen oder Grundeigentümern die beschlossenen Änderungen.
-
-[^21-1]: NG 171.1
-
-### C. Planung des Wanderwegnetzes
-
-[^hCPlanungdesWande-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+## 3 Anlage, Kennzeichnung und Unterhalt
 
 #### Art. 22
 
-**Vorarbeiten[^hCPlanungdesWande-1]**
+**Zuständigkeit**
 
-<sup>1</sup> Die erforderlichen Vorarbeiten sind unter Beizug von kantonalen Fachorganisationen durch eine vom Landrat gewählte Kommission zu leisten.
+<sup>1</sup> Die Fuss-, Wander- und Mountainbikewege sind durch die Gemeinden anzulegen, zu kennzeichnen und zu unterhalten. Vorbehalten bleibt die Ersterstellung gemäss Art. 34.
 
-<sup>2</sup> Die bestehenden öffentlichen Wanderwege sind in den Wanderwegplan aufzunehmen.
+<sup>2</sup> Der Gemeinderat kann mittels Vereinbarung:
 
-[^22-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+- 1\. den Unterhalt an Grundeigentümerinnen und Grundeigentümer übertragen;
+- 2\. die Kennzeichnung oder den Unterhalt mittels Vereinbarung touristischen Organisationen oder privaten Fachorganisationen übertragen.
+
+<sup>3</sup> Vereinbarungen gemäss Abs. 2 Ziff. 1 können im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung angemerkt werden.
 
 #### Art. 23
 
-**Verfahren[^22-1]**
+**Sicherheitsabschrankungen, Einfriedungen**
 
-### 1. Auflage
+<sup>1</sup> Die Erstellung und der Unterhalt von Sicherheitsabschrankungen obliegen der Gemeinde.
 
-<sup>1</sup> Der Entwurf des Wanderwegplans ist unter Hinweis auf die Möglichkeit zur Einwendung sowie zu Anregungen und Vorschlägen im Amtsblatt zu veröffentlichen und zusammen mit den Beilagen während 30 Tagen zur öffentlichen Einsicht auf der Direktion und in den betroffenen Gemeinden aufzulegen.
+<sup>2</sup> Die Erstellung und der Unterhalt von Einfriedungen entlang von Wegen obliegen den Anstösserinnen und Anstössern.
 
-<sup>2</sup> Während der Auflagefrist können stimmberechtigte Personen sowie die gemäss dem Verwaltungsrechtspflegegesetz[^h1Auflage-1] Legitimierten schriftlich und begründet Einwendungen, Anregungen und Vorschläge einreichen.[^h1Auflage-2]
+<sup>3</sup> Die Beschaffenheit der Einfriedungen richtet sich nach den Bestimmungen des Einführungsgesetzes zum Zivilgesetzbuch[^23-1].
 
-[^h1Auflage-1]: NG 265.1
-[^h1Auflage-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-[^h1Auflage-3]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^23-1]: NG 211.1
 
 #### Art. 24
 
-**2. Behandlung der Eingaben[^h1Auflage-3]**
+**Haftung**
 
-<sup>1</sup> Hat die Behandlung der Einwendungen, Anregungen und Vorschläge wesentliche Änderungen zur Folge, ist das Verfahren für betroffene Dritte und kantonale Fachorganisationen zu wiederholen.
+<sup>1</sup> Die Gemeinde haftet für Schäden, die wegen Mängel des Weges einschliesslich fehlender Sicherheitsabschrankungen oder mangelhaftem Unterhalt entstanden sind.
 
-<sup>2</sup> Kann die Einwendung nicht gütlich erledigt werden, teilt die Kommission der einsprechenden Person mit, warum sie dem Landrat die Abweisung der Einwendung beantragen werde.
+<sup>2</sup> Die Haftung richtet sich nach dem kantonalen Haftungsgesetz[^24-1], soweit die Haftung nicht durch Bundesrecht oder abweichende kantonale Haftungsvorschriften geregelt ist.
 
-<sup>3</sup> Die Kommission nimmt zu den nicht berücksichtigten Anregungen und Vorschlägen gesamthaft und abschliessend in einem Bericht zuhanden des Landrates Stellung.
+<sup>3</sup> Schadenersatzpflichtige Grundeigentümerinnen und Grundeigentümer können für Schäden gemäss Abs. 1 auf die Gemeinde Rückgriff nehmen, wenn sie allfällige Schadenersatzforderungen umgehend nach Bekanntwerden der Gemeinde melden.
 
-[^24-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+<sup>4</sup> Die Nutzerinnen und Nutzer von Fuss-, Wander- und Mountainbikewegen tragen eine hohe Eigenverantwortung.
+
+[^24-1]: NG 161.2
 
 #### Art. 25
 
-**3. Inkraftsetzung[^24-1]**
+**Ersatzvornahme**
 
-<sup>1</sup> Der Landrat erlässt den kantonalen Wanderwegplan.
+<sup>1</sup> Der Regierungsrat kann die einer Gemeinde obliegenden Aufgaben auf deren Kosten ganz oder teilweise übernehmen, wenn:
 
-<sup>2</sup> Er entscheidet über die nicht erledigten Einwendungen.
+- 1\. es die Sicherung eines Wanderweges oder Mountainbikeweges oder die Vollendung eines Fuss-, Wanderweg- oder Mountainbikewegnetzes erfordert; und
+- 2\. die Gemeinde die ihr übertragenen Aufgaben nicht innert einer angemessenen Frist ausführt.
 
-### IV. BAU UND UNTERHALT DER FUSS- UND WANDERWEGE
+<sup>2</sup> Die gleichen Befugnisse stehen dem Gemeinderat gegenüber Grundeigentümerinnen und Grundeigentümern, touristischen Organisationen oder privaten Fachorganisationen zu, denen Aufgaben übertragen wurden.
+
+## 4 Nutzungsvorschriften
 
 #### Art. 26
 
-**Fusswege**
+**Rücksichtnahme**
 
-<sup>1</sup> Fusswege sind durch die Gemeinde zu bauen und zu kennzeichnen; sie sind unter dem Vorbehalt geltender Grunddienstbarkeiten durch die Gemeinde zu unterhalten.
-
-<sup>2</sup> Der Gemeinderat kann mit touristischen Vereinigungen oder privaten Fachorganisationen eine Vereinbarung treffen über die Kennzeichnung der Fusswege sowie über den Unterhalt jener Fusswege, die von der Gemeinde unterhalten werden müssen.
+<sup>1</sup> Nutzerinnen und Nutzer von Fuss-, Wander- und Mountainbikewegen haben aufeinander und auf die betroffene Grundeigentümerschaft, auf tägliche Arbeiten für die Alp-, Forst- und Landwirtschaft sowie auf Natur und Umwelt Rücksicht zu nehmen.
 
 #### Art. 27
 
-**Wanderwege**
+**Kennzeichnung von Nutzungseinschränkungen**
 
-<sup>1</sup> Wanderwege sind durch die Gemeinde zu bauen und zu kennzeichnen; sie sind unter dem Vorbehalt geltender Grunddienstbarkeiten durch die Gemeinde zu unterhalten.
+<sup>1</sup> Nutzungseinschränkungen gemäss Art. 19 Abs. 2 Ziff. 2 sind durch die Gemeinde zusätzlich zu kennzeichnen.
 
-<sup>2</sup> Der Gemeinderat kann mit touristischen Vereinigungen oder privater Fachorganisationen eine Vereinbarung treffen über die Kennzeichnung der Wanderwege sowie über den Unterhalt jener Wanderwege, die von der Gemeinde unterhalten werden müssen.
-
-<sup>3</sup> Der Gemeinderat ist zuständig, mit den Eigentümern von Flurstrassen, die keinen staubfreien Deckbelag aufweisen und die als Wanderwege benutzt werden, die Beteiligung der Gemeinde an den Unterhaltsaufwendungen zu regeln.
-
-[^27-1]: Fassung gemäss Landratsbeschluss vom 3. Juni 1998, A 1998, 1023, 1530; in Kraft seit 1. Januar 1999
+## 5 Finanzierung
 
 #### Art. 28
 
-**..[^27-1]**
+**Kostentragung**
+
+<sup>1</sup> Der Kanton trägt die Kosten, die bei der Erfüllung der kantonalen Aufgaben gemäss diesem Gesetz anfallen. Dazu zählen insbesondere die Kosten:
+
+- 1\. für die Erstellung der Planungsinstrumente für die Wanderwege und Mountainbikewege;
+- 2\. für die Genehmigung der Fusswegrichtpläne;
+- 3\. für die Fachstelle für Wander- und Mountainbikewege und die Fachstelle für Fusswege.
+
+<sup>2</sup> Die Gemeinden tragen unter Vorbehalt von Art. 34 die Kosten, die bei der Erfüllung der kommunalen Aufgaben gemäss diesem Gesetz anfallen. Dazu zählen insbesondere die Kosten:
+
+- 1\. für die Erstellung der Planungsinstrumente für die Fusswege;
+- 2\. für die Anlage, die Kennzeichnung und den Unterhalt von Fuss-, Wander- und Mountainbikewegen.
+
+## 6 Rechtsschutz- und Strafbestimmungen
 
 #### Art. 29
 
-**Baubewilligungsverfahren**
+**Rechtsschutz 1. Rechtsmittel**
 
-### 1. Baubeschluss
+<sup>1</sup> Die Rechtsmittel richten sich nach dem Verwaltungsrechtspflegegesetz[^29-1].
 
-Der Gemeinderat beschliesst den Bau neuer Fuss- oder Wanderwege im Rahmen des Fuss- oder Wanderwegplanes.
+<sup>2</sup> Gegen Wegrichtpläne ist die Verwaltungs- und Verwaltungsgerichtsbeschwerde ausgeschlossen.
 
-[^h1Baubeschluss-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^29-1]: NG 265.1
 
 #### Art. 30
 
-**Auflage des Projektes[^h1Baubeschluss-1]**
+**2. Legitimation von Sektionen schweizerischer Fachorganisationen**
 
-<sup>1</sup> Das Ausführungsprojekt ist unter Hinweis auf die Möglichkeit zur Einwendung im Amtsblatt zu veröffentlichen und zusammen mit den Beilagen während 20 Tagen zur öffentlichen Einsicht bei der Gemeinde aufzulegen.
+<sup>1</sup> Sektionen schweizerischer Fachorganisationen sind zur Einwendung und Beschwerde legitimiert, wenn:
 
-<sup>2</sup> Bei Wanderwegen ist das Ausführungsprojekt auch bei der Direktion aufzulegen.
+- 1\. sie seit mindestens 10 Jahren im Kanton tätig sind;
+- 2\. die Förderung von Fuss-, Wander-, Mountainbike- oder Velowegen gemäss den Statuten zu den dauernden Hauptaufgaben zählt; und
+- 3\. sie rein ideelle Zwecke verfolgen; allfällige wirtschaftliche Tätigkeiten müssen der Erreichung der ideellen Zwecke dienen.
 
-[^30-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>2</sup> Zuständig für die Erhebung der Einwendung beziehungsweise Beschwerde ist das oberste Exekutivorgan der Sektion.
 
 #### Art. 31
 
-**Einwendungsverfahren[^30-1]**
+**Strafbarkeit**
 
-<sup>1</sup> Während der Auflagefrist kann gegen das Ausführungsprojekt beim Gemeinderat Einwendung erhoben werden.
+<sup>1</sup> Vorsätzliche Widerhandlungen gegen Nutzungsvorschriften oder Nutzungseinschränkungen auf Wanderwegen oder Mountainbikewegen werden mit Busse bestraft.
 
-<sup>2</sup> Rügen, die bereits im Planungsverfahren hätten erhoben werden können, sind im Baubewilligungsverfahren nicht mehr zulässig.
+<sup>2</sup> Strafbar macht sich insbesondere, wer gegen gekennzeichnete Nutzungseinschränkungen verstösst (Art. 19 Abs. 2 Ziff. 2 und Art. 27) oder abseits der Wander- und Mountainbikewege widerrechtlich das Mountainbike benutzt (Art. 19 Abs. 4).
+
+<sup>3</sup> Die Strafverfolgung verjährt fünf Jahre nach der strafbaren Handlung.
+
+## 7 Vollzugs-, Übergangs- und Schlussbestimmungen
 
 #### Art. 32
 
-**Einfriedungen**
+**Überprüfung der Auswirkungen**
 
-<sup>1</sup> Erstellung und Unterhalt der Einfriedungen, die entlang von Fuss- und Wanderwegen im Sinne dieses Gesetzes erforderlich sind, obliegt den Anstössern, soweit keine andern Vereinbarungen getroffen werden.
-
-<sup>2</sup> Die Beschaffenheit der Einfriedungen richtet sich nach den Bestimmungen des Einführungsgesetzes zum Zivilgesetzbuch[^32-1].
-
-<sup>3</sup> Die Erstellung und der Unterhalt von Sicherheitsabschrankungen obliegen den Bau- und Unterhaltspflichtigen gemäss Art. 26 und Art. 27.
-
-[^32-1]: NG 211.1
+<sup>1</sup> Der Regierungsrat überprüft spätestens acht Jahre nach Inkrafttreten dieses Gesetzes dessen Auswirkungen und unterbreitet dem Landrat einen Bericht.
 
 #### Art. 33
 
-**Ersatzvornahme**
+**Vollzug**
 
-<sup>1</sup> Durch Beschluss des Regierungsrates kann der Kanton die einer Gemeinde nach Massgabe dieses Gesetzes obliegenden Aufgaben auf Kosten der Gemeinde ganz oder teilweise übernehmen, wenn es die Sicherung eines Wanderweges oder die Vollendung eines Fuss- oder Wanderwegnetzes erfordert und die Gemeinde sich weigert, binnen einer vom Regierungsrat festzusetzenden angemessenen Frist die ihr übertragenen Aufgaben auszuführen.
-
-<sup>2</sup> Die gleichen Befugnisse stehen dem Gemeinderat gegenüber den belasteten Grundeigentümern in bezug auf öffentliche Fusswege zu.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 34
 
-**Vorbehalt der Strassen- und Baugesetzgebung**
+**Übergangsbestimmungen 1. Ersterstellung von Mountainbikewegen a) Zuständigkeit, Finanzierung**
 
-<sup>1</sup> Bau und Unterhalt von öffentlichen Strassen, Radrouten, Plätzen und Trottoirs, die auch als Fuss- oder Wanderwege dienen, richtet sich nach den Bestimmungen des Strassengesetzes[^34-1].
+<sup>1</sup> Der Kanton ist während den ersten acht Jahren nach Inkrafttreten dieses Gesetzes für die Ersterstellung und -kennzeichnung der Mountainbikewege zuständig.
 
-<sup>2</sup> Die Bestimmungen der Planungs- und Baugesetzgebung[^34-2] betreffend die Überbindung der Erstellung von Erschliessungsanlagen an die interessierten Grundeigentümerinnen und Grundeigentümer bleiben vorbehalten.[^34-3]
+<sup>2</sup> Der Landrat beschliesst für die Ersterstellung und -kennzeichnung einen Rahmenkredit.
 
-[^34-1]: NG 622.1
-[^34-2]: NG 611.1
-[^34-3]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
-
-### V. RECHTSSCHUTZ
-
-[^hVRECHTSSCHUTZ-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>3</sup> Die Gemeinden haben dem Kanton gemeinsam nach Einwohnerzahl 50 Prozent der angefallenen Kosten zu entrichten. Der Regierungsrat schliesst mit den Gemeinden eine Vereinbarung zur Regelung der Kostenbeteiligung ab; bei Bedarf erlässt er eine Verfügung. Massgebend ist die Einwohnerzahl zu Beginn des Jahres, in dem die Vereinbarung abgeschlossen beziehungsweise die Verfügung erlassen wird.
 
 #### Art. 35
 
-**Rechtsmittel[^hVRECHTSSCHUTZ-1]**
+**b) Entschädigung**
 
-<sup>1</sup> Gegen Entscheide des Landrates gemäss Art. 25 kann binnen 20 Tagen nach erfolgter Zustellung Beschwerde beim Verwaltungsgericht erhoben werden.
+<sup>1</sup> Grundeigentümerinnen und Grundeigentümer haben im Rahmen der Ersterstellung der Mountainbikewege für neue Flächenbeanspruchungen bei der Anlage neuer Wege oder der Verbreiterung bestehender Wege einen einmaligen Entschädigungsanspruch.
 
-<sup>2</sup> Im Übrigen richten sich die Rechtsmittel nach dem Verwaltungsrechtspflegegesetz[^35-1].
+<sup>2</sup> Die Entschädigung orientiert sich am Verkehrswert. Der Regierungsrat legt in einer Verordnung die Kriterien für die Festlegung der Entschädigung fest.
 
-[^35-1]: NG 265.1
-[^35-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>3</sup> Die Direktion legt die Entschädigung fest. Sie kann für die Festlegung eine Schatzung beim kantonalen Steueramt einholen.
 
 #### Art. 36
 
-**Legitimation[^35-2]**
+**2. Überführung der bisherigen Fuss- und Wanderwegpläne**
 
-<sup>1</sup> Sektionen schweizerischer Fachorganisationen, die seit mindestens 10 Jahren im Kanton tätig sind und nach deren Statuten die Förderung von Fuss- oder Wanderwegen zu den dauernden Hauptaufgaben zählt, sind zur Erhebung einer Einwendung oder Beschwerde legitimiert, soweit sie an der Abweisung, Änderung oder Aufhebung des angefochtenen Beschlusses oder Entscheides ein schutzwürdiges Interesse haben.
+<sup>1</sup> Mit Inkrafttreten dieses Gesetzes werden die bisherigen Fuss- und Wanderwegpläne gemäss dem Einführungsgesetz vom 29. April 1990 zur Bundesgesetzgebung über Fuss- und Wanderwege (Kantonales Fuss- und Wanderweggesetz, kFWG)[^36-1] ohne öffentliche Auflage in die neuen Planunterlagen überführt:
 
-<sup>2</sup> Im Übrigen richtet sich die Legitimation nach dem Verwaltungsrechtspflegegesetz[^36-1].
+- 1\. In den behördenverbindlichen Wegrichtplänen werden die vorgesehenen und bestehenden Wege abgebildet.
+- 2\. In den grundeigentümerverbindlichen Wegplänen werden die bestehenden Wege abgebildet.
 
-[^36-1]: NG 265.1
+<sup>2</sup> Der Planungsträger kann bestehende Dienstbarkeiten im Einvernehmen mit der Grundeigentümerschaft löschen lassen, wenn sie aufgrund der grundeigentümerverbindlichen Wegpläne keine Bedeutung mehr haben.
 
-### VI. SCHLUSSBESTIMMUNGEN
+[^36-1]: A 1990, 829
 
 #### Art. 37
 
-**Vollzug**
+**3. Mountainbikewegrichtplan**
 
-Der Landrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Vorschriften.
+<sup>1</sup> Der Kanton legt den Mountainbikewegrichtplan spätestens innert zweier Jahre nach Inkrafttreten dieses Gesetzes öffentlich auf.
 
-#### Art. 38
-
-**Änderung bestehender Erlasse**
-
-### 1. Strassengesetz
-
-<sup>1</sup> Art. 1 Abs. 3 des Gesetzes vom 24. April 1966 über den Bau und den Unterhalt der Strassen (Strassengesetz)[^h1Strassengesetz-1] wird aufgehoben.
-
-<sup>2</sup> Das Strassengesetz lautet neu: …
-
-[^h1Strassengesetz-1]: NG 622.1
-
-#### Art. 39
-
-**2. Fremdenverkehrsgesetz**
-
-<sup>1</sup> Art. 1 Abs. 2 des Gesetzes vom 25. April 1971 über die Förderung des Fremdenverkehrs (Fremdenverkehrsgesetz)[^39-1] wird aufgehoben.
-
-<sup>2</sup> Das Fremdenverkehrsgesetz lautet neu: …
-
-[^39-1]: NG 865.1
-
-#### Art. 40
-
-**Rechtskraft**
-
-<sup>1</sup> Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft.
-
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
+2026-011
