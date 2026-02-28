@@ -4,13 +4,12 @@ number: "720.71"
 title: Vollziehungsverordnung zum Bundesgesetz über Fuss- und Wanderwege
 short: VV FWG
 language: de
-version: 2016-06-01
-valid_until: 2026-02-28
-version_adopted: 2016-03-10
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 1989-10-19
 in_force: 1990-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/720.71"
-pdf: "http://gdb.ow.ch/api/de/versions/1706/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1983/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1706/pdf_file"
 
 (VV FWG)
 
-vom 19.10.1989 (Stand 01.06.2016)
+vom 19.10.1989 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Obwalden erlässt,
 
@@ -56,13 +55,16 @@ als Verordnung:
 
 **Verfahren**
 
-<sup>1</sup> Die Betroffenen sowie die interessierten Organisationen und Bundesstellen sind bei der Richtplanung anzuhören.
+<sup>1</sup> Für den Erlass, die Überarbeitung und die Anpassung des kommunalen Richtplans für das Fusswegnetz gilt sinngemäss das Verfahren für den Erlass der kommunalen Richtpläne gemäss dem Planungs- und Baugesetz[^4-1].
 
-<sup>2</sup> Die zuständige Behörde verabschiedet den Entwurf des Richtplanes zuhanden der öffentlichen Planauflage. Der Planentwurf ist sodann unter Bekanntgabe im Amtsblatt während 90 Tagen öffentlich aufzulegen. Die zuständige Behörde sorgt während der ersten 60 Tage der Auflagefrist für eine zweckmässige Information der Öffentlichkeit über den Richtplanentwurf. Sie lädt die privaten Fachorganisationen, die kantonalen Amtsstellen, welche raumwirksame Aufgaben erfüllen, die Nachbargemeinden, die Nachbarkantone (für die Wanderwege) und den Bund zur Vernehmlassung ein.
+<sup>2</sup> Im Genehmigungsentscheid darf das Bau- und Raumentwicklungsdepartement nach vorheriger Anhörung der Einwohnergemeinde Änderungen vornehmen.
 
-<sup>3</sup> Während der Auflagefrist kann jedermann zu den Fussweg-Richtplanentwürfen beim Einwohnergemeinderat und zu den Wanderweg-Richtplanentwürfen beim Regierungsrat schriftlich Einwendungen erheben. Die zuständige Behörde nimmt zu diesen Einwendungen Stellung und bestimmt dafür das Verfahren.
+<sup>3</sup> Für den Erlass, die Überarbeitung und die Anpassung des kantonalen Richtplans für das Wanderwegnetz gilt sinngemäss das Verfahren für den Erlass des kantonalen Richtplans gemäss dem Planungs- und Baugesetz[^4-2].
 
 <sup>4</sup> Nach erfolgter Bereinigung wird der Richtplan für das Fusswegnetz vom Einwohnergemeinderat, der Richtplan für das Wanderwegnetz vom Regierungsrat erlassen.
+
+[^4-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
+[^4-2]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 5
 
@@ -72,23 +74,9 @@ als Verordnung:
 
 <sup>2</sup> Die kantonale Fachstelle koordiniert das Wanderwegnetz mit den Nachbarkantonen sowie mit den raumwirksamen Tätigkeiten der Kantone und des Bundes.
 
-#### Art. 6
+#### Art. 6–7
 
-**Genehmigung und Verbindlichkeit**
-
-<sup>1</sup> Der Richtplan für das Fusswegnetz bedarf der Genehmigung des Regierungsrates, der im Genehmigungsentscheid nach vorheriger Anhörung der Einwohnergemeinde Änderungen vornehmen kann.
-
-<sup>2</sup> Der Richtplan für das Wanderwegnetz bedarf der abschliessenden Genehmigung des Kantonsrates.
-
-<sup>3</sup> Mit der Genehmigung werden die Richtpläne für die Behörden verbindlich.
-
-#### Art. 7
-
-**Überprüfung, Anpassung und Änderung**
-
-<sup>1</sup> Die Richtpläne für Fuss- und Wanderwegnetze sind in der Regel alle zehn Jahre von der erlassenden Instanz zu überprüfen und nötigenfalls anzupassen.
-
-<sup>2</sup> Für die Anpassung und Änderung gilt das gleiche Verfahren wie für den Entwurf; mit Ausnahme von Gesamtüberarbeitungen ist jedoch nur eine Auflagefrist von 30 Tagen zu beachten. Geringfügige Anpassungen und Änderungen sind der Genehmigungsbehörde nur zur Kenntnis zu bringen.
+**…**
 
 ## 2. Anlage und Erhaltung
 
@@ -226,6 +214,8 @@ geändert durch
 
 \- das Gesetz über die Bereinigung der amtlichen Gesetzessammlung (Bereinigungsgesetz II) vom 15. März 2007, in Kraft seit 1. August 2007 (OGS 2007, 13),
 
-\- Einführungsgesetz zum Bundesgesetz über den Wald (kantonales Waldgesetz) vom 10. März 2016 (OGS 2016, 16), Botschaft und Vorlage des Regierungsrats vom 3. November 2015, Kantonsratssitzungen vom 28. Januar und 10. März 2016 (22.15.06), in Kraft seit 1. Juni 2016 (OGS 2016, 22)
+\- Einführungsgesetz zum Bundesgesetz über den Wald (kantonales Waldgesetz) vom 10. März 2016 (OGS 2016, 16), Botschaft und Vorlage des Regierungsrats vom 3. November 2015, Kantonsratssitzungen vom 28. Januar und 10. März 2016 (22.15.06), in Kraft seit 1. Juni 2016 (OGS 2016, 22),
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 1989, 133
