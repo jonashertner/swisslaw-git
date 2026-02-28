@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protocollo del 1978 relativo alla Convenzione internazionale del 1973 per la prevenzione dell'inquinamento da parte delle navi, del 17 febbraio 1978 (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: it
-version: 2026-01-01
+version: 2026-03-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260301/it/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Londra il 17 febbraio 1978 Approvato dall’Assemblea federale il 9 marzo 1987[^t-1] Strumento d’adesione depositato dalla Svizzera il 15 dicembre 1987 Entrato in vigore per la Svizzera il 15 marzo 1988
 
-(Stato 1° gennaio 2026)
+(Stato 1° marzo 2026)
 
 [^t-1]: Art. 3 lett. a del DF del 17 feb. 1978 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -53,7 +53,7 @@ Le Parti contraenti del presente Protocollo si impegnano a dare effetto:
 
 <sup>3.</sup> Qualsiasi riferimento al presente Protocollo costituisce al tempo stesso riferimento anche al suo Annesso.
 
-[^I-1]: Questo all. e i suoi emendamenti, non sono pubblicati nella RU ([RU 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
+[^I-1]: Questo all. e i suoi emendamenti, non sono pubblicati nella RU ([RU 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 #### Art. II
 
@@ -173,7 +173,7 @@ hanno convenuto quanto segue:
 <sup>2.</sup> Salvo espressa disposizione in senso contrario, ogni riferimento alla presente Convenzione costituisce al tempo stesso un riferimento ai suoi Protocolli e Allegati.
 
 [^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3521)
-[^annexu1-1-1]: Questi all. e i loro emendamenti, non sono pubblicati nella RU (vedi [RU 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866), [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366), [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077), [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937), [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943), [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436), [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)) Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx . Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
+[^annexu1-1-1]: Questi all. e i loro emendamenti, non sono pubblicati nella RU (vedi [RU 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866), [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366), [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077), [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937), [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943), [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436), [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)) Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx . Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 #### Art. 2
 
@@ -481,7 +481,7 @@ Fatto a Londra il 2 novembre 1973.
 
 (in applicazione dell’articolo 8 della Convenzione)
 
-[^annexu1-lvlu2-2]: Il contenuto di questo protocollo non è pubblicato nella RU. Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
+[^annexu1-lvlu2-2]: Il contenuto di questo prot. non è pubblicato nella RU. Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 ## Protocollo II
 

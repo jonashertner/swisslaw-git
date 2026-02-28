@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protokoll von 1978 zu den Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe, vom 17. Februar 1978 (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: de
-version: 2026-01-01
+version: 2026-03-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260301/de/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1988** 1652; BBl **1986** II 717
 
 Abgeschlossen in London am 17. Februar 1978 Von der Bundesversammlung genehmigt am 9. März 1987[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 15. März 1988
 
-(Stand am 1. Januar 2026)
+(Stand am 1. März 2026)
 
 [^t-1]: Art. 3 Bst. a des BB vom 17. Feb. 1978 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240))
 
@@ -53,7 +53,7 @@ Die Vertragsparteien dieses Protokolls verpflichten sich, folgenden Bestimmungen
 
 <sup>3.</sup> Jede Bezugnahme auf dieses Protokoll stellt gleichzeitig eine Bezugnahme auf seine Anlage dar.
 
-[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Der französische Text sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
+[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Der französische Text sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
 #### Art. II
 
@@ -170,7 +170,7 @@ sind wie folgt übereingekommen:
 <sup>2.</sup> Soweit nicht ausdrücklich etwas anderes bestimmt ist, bedeutet eine Bezugnahme auf dieses Übereinkommen gleichzeitig eine Bezugnahme auf seine Protokolle und auf die Anlagen.
 
 [^t-2]: [SR 0.814.288.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3521)
-[^annexu1-1-1]: Diese Anlagen und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866); [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366); [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077); [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937); [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943); [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436); [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden.
+[^annexu1-1-1]: Diese Anlagen und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866); [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366); [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077); [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937); [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943); [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436); [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel eingesehen werden.
 
 #### Art. 2
 

@@ -3,11 +3,11 @@ sr: "0.814.288.2"
 title: "Protocole de 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires, du 17 février 1978 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652"
 language: fr
-version: 2026-01-01
+version: 2026-03-01
 adopted: 1978-02-17
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1652_1652_1652-20260301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1652_1652_1652/20260301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 décembre 1987
 
 Entré en vigueur pour la Suisse le 15 mars 1988
 
-(État le 1<sup>er</sup> janvier 2026)
+(État le 1<sup>er</sup> mars 2026)
 
 [^t-1]: Art. 3 let. a de l’AF du 9 mars 1987 ([RO 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -59,7 +59,7 @@ Les Parties au présent Protocole s’engagent à donner effet aux dispositions:
 
 <sup>3.</sup> Toute référence au présent Protocole constitue en même temps une référence à son Annexe.
 
-[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
+[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1989 636](https://fedlex.data.admin.ch/eli/oc/1989/636_636_636); [1993 2522](https://fedlex.data.admin.ch/eli/oc/1993/2522_2522_2522); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
 #### Art. II
 
@@ -179,7 +179,7 @@ sont convenues de ce qui suit:
 <sup>2.</sup> Sauf disposition expresse contraire, toute référence à la présente Convention constitue en même temps une référence à ses Protocoles et aux Annexes.
 
 [^t-2]: [RS 0.814.288.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3521)
-[^annexu1-1-1]: Ces annexes et leurs amendements ne sont pas publiés au RO ([RO 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866); [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366); [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077); [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937); [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943); [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436); [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
+[^annexu1-1-1]: Ces annexes et leurs amendements ne sont pas publiés au RO ([RO 1989 866](https://fedlex.data.admin.ch/eli/oc/1989/866_866_866); [1990 1366](https://fedlex.data.admin.ch/eli/oc/1990/1366_1366_1366); [1991 2077](https://fedlex.data.admin.ch/eli/oc/1991/2077_2077_2077); [1992 937](https://fedlex.data.admin.ch/eli/oc/1992/937_937_937); [1996 943](https://fedlex.data.admin.ch/eli/oc/1996/943_943_943); [2003 3229](https://fedlex.data.admin.ch/eli/oc/2003/436); [2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Le texte de ces amendements n’est pas publié au RO. Il peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
 #### Art. 2
 
