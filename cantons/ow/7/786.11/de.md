@@ -4,13 +4,12 @@ number: "786.11"
 title: Verordnung über den Natur- und Landschaftsschutz
 short: "Naturschutzverordnung, NSV"
 language: de
-version: 2017-06-01
-valid_until: 2026-02-28
-version_adopted: 2016-12-01
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 1990-03-30
 in_force: 1991-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/786.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1698/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1986/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1698/pdf_file"
 
 (Naturschutzverordnung, NSV)
 
-vom 30.03.1990 (Stand 01.06.2017)
+vom 30.03.1990 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Obwalden erlässt,
 
@@ -118,21 +117,19 @@ als Verordnung:
 
 #### Art. 9
 
-**Nutzungsplanung a. Grundsatz**
+**Schutzpläne a. Grundsatz**
 
-<sup>1</sup> Landschaftsschutzgebiete, Naturschutzzonen und Naturschutzobjekte werden im öffentlich-rechtlichen Verfahren der Nutzungsplanung[^9-1] durch die zuständigen Behörden unter Schutz gestellt.
-
-[^9-1]: Art. 9 und 11 BauG (GDB [710.1](http://gdb.ow.ch/data/710.1/de))
+<sup>1</sup> Landschaftsschutzgebiete, Naturschutzzonen und Naturschutzobjekte werden durch die zuständigen Behörden unter Schutz gestellt.
 
 #### Art. 10
 
 **b. Vorsorgliche Massnahmen**
 
-<sup>1</sup> Solange ein verbindlicher Gebiets- oder Objektschutz noch aussteht, kann die zuständige Behörde für gefährdete, genau abgegrenzte Areale eine Planungszone[^10-1] als vorsorgliche Massnahme verfügen. Innerhalb der Planungszone darf nichts unternommen werden, was dem Schutzziel widerspricht.
+<sup>1</sup> Fehlt ein verbindlicher Gebiets- oder Objektschutz oder muss ein solcher angepasst werden, kann die zuständige Behörde für gefährdete, genau abgegrenzte Areale eine Planungszone als vorsorgliche Massnahme verfügen. Innerhalb der Planungszone darf nichts unternommen werden, was dem voraussichtlichen Schutzziel widerspricht.
 
-<sup>2</sup> Das Verfahren für die Planungszone richtet sich nach dem Baugesetz. Einsprachen gegen die Planungszone kommt keine aufschiebende Wirkung zu.
+<sup>2</sup> Das Verfahren für die Planungszone richtet sich nach Art. 45 f. des Planungs- und Baugesetzes[^10-1].
 
-[^10-1]: Art. 25 BauG
+[^10-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 11
 
@@ -140,7 +137,7 @@ als Verordnung:
 
 <sup>1</sup> In Landschaftsschutzgebieten können Eingriffe, die eine nachhaltige Veränderung des Landschaftsbildes zur Folge haben, nur unter grösstmöglicher Schonung der Landschaft und mit entsprechenden Auflagen bewilligt werden. Dies betrifft insbesondere umfangreiche Ablagerungen aller Art sowie den Materialabbau.
 
-<sup>2</sup> Zulässige Bauten und Anlagen haben erhöhten Anforderungen in bezug auf Gestaltung, Materialwahl, Farbgebung und Einpassung ins Landschaftsbild zu genügen.
+<sup>2</sup> Zulässige Bauten und Anlagen haben erhöhten Anforderungen in Bezug auf Gestaltung, Materialwahl, Farbgebung und Einpassung ins Landschaftsbild zu genügen. Die Gestaltungsvorgaben dürfen die Bauten und Anlagen in ihren zulässigen Dimensionen nicht einschränken.
 
 <sup>3</sup> Das Landschaftsbild störende Umgebungsgestaltungen durch unpassende Terrainveränderungen und auffällige Pflanzungen exotischer Gehölze sind untersagt.
 
@@ -232,13 +229,13 @@ als Verordnung:
 
 #### Art. 19
 
-**Schutzreglement bzw. -verfügung**
+**Schutzverfügung**
 
-<sup>1</sup> Kommt eine erforderliche Vereinbarung nicht zustande, so kann die zuständige Behörde von sich aus den Schutzumfang durch ein öffentlich-rechtliches Schutzreglement bzw. durch eine öffentlich-rechtliche Schutzverfügung festlegen.
+<sup>1</sup> Kommt eine erforderliche Vereinbarung nicht zustande, so kann das Amt für Wald und Landschaft von sich aus den Schutzumfang durch eine Schutzverfügung festlegen.
 
-<sup>2</sup> Im Schutzreglement bzw. in der Schutzverfügung ist der Umfang einer allfälligen Beitragszahlung zu regeln.
+<sup>2</sup> In der Schutzverfügung ist der Umfang einer allfälligen Beitragszahlung zu regeln.
 
-<sup>3</sup> Die zuständige Behörde lässt die Schutzreglemente bzw. -verfügungen auf den belasteten Parzellen im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung anmerken.
+<sup>3</sup> Das Amt für Wald und Landschaft lässt die Schutzverfügungen auf den belasteten Grundstücken im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung anmerken.
 
 #### Art. 20
 
@@ -302,15 +299,19 @@ als Verordnung:
 
 **Landschaftsschutz**
 
-<sup>1</sup> Landschaftsschutzgebiete werden in kantonalen Schutzplänen nach Baugesetz bezeichnet. Das Verfahren richtet sich nach kantonalem Baugesetz.
+<sup>1</sup> Landschaftsschutzgebiete werden in kantonalen Schutzplänen bezeichnet. Das Verfahren richtet sich nach Art. 16 bis 20 des Planungs- und Baugesetzes[^25-1].
+
+[^25-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 26
 
 **Naturschutzzonen und Naturschutzobjekte**
 
-<sup>1</sup> Naturschutzzonen und Naturschutzobjekte von regionaler und nationaler Bedeutung werden in kantonalen Schutzplänen nach Baugesetz bezeichnet. Das Verfahren richtet sich nach kantonalem Baugesetz.
+<sup>1</sup> Naturschutzzonen und Naturschutzobjekte von regionaler und nationaler Bedeutung werden in kantonalen Schutzplänen bezeichnet. Das Verfahren richtet sich nach Art. 16 bis 20 des Planungs- und Baugesetzes[^26-1].
 
-<sup>2</sup> Naturschutzzonen und Naturschutzobjekte von lokaler Bedeutung werden von den Einwohnergemeinden im Rahmen ihrer Zonenpläne bezeichnet.
+<sup>2</sup> Naturschutzzonen und Naturschutzobjekte von lokaler Bedeutung werden von den Einwohnergemeinden im Rahmen ihrer Bau- und Zonenordnung bezeichnet.
+
+[^26-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 27
 
@@ -338,9 +339,7 @@ als Verordnung:
 
 <sup>2</sup> Soweit in dieser Verordnung keine andere kantonale Vollzugsbehörde bestimmt ist und sich die Zuständigkeit auch nicht aus anderen kantonalen Erlassen ergibt, vollzieht das Amt für Wald und Landschaft die Aufgaben des Natur- und Landschaftsschutzes. Es ist zuständig für die Information der Öffentlichkeit.
 
-<sup>3</sup> Für den Erlass der kantonalen Schutzpläne ist der Regierungsrat zuständig.
-
-<sup>4</sup> Kantonale Schutzpläne bedürfen der Genehmigung durch den Kantonsrat.
+<sup>3–4</sup> …
 
 #### Art. 30
 
@@ -362,7 +361,7 @@ als Verordnung:
 
 <sup>1</sup> Das Amt für Wald und Landschaft ist die Fachstelle im Sinne von Art. 25 des Gesetzes über den Natur- und Heimatschutz[^32-1].
 
-<sup>2</sup> Es behandelt die laufenden Geschäfte des Natur- und Landschaftsschutzes, erarbeitet Schutz- und Nutzungsplanungen, schliesst Bewirtschaftungsverträge ab und berät die Gemeinden bei ihren Aufgaben in diesem Bereich.
+<sup>2</sup> Es behandelt die laufenden Geschäfte des Natur- und Landschaftsschutzes, schliesst Bewirtschaftungsverträge ab und berät die Gemeinden bei ihren Aufgaben in diesem Bereich.
 
 <sup>3</sup> Bei wichtigen Fragen des Natur- und Landschaftsschutzes holt das Amt für Wald und Landschaft die Stellungnahme der kantonalen Natur- und Landschaftsschutzkommission ein. Weitere Fachleute können beigezogen werden.
 
@@ -493,6 +492,8 @@ geändert durch:
 
 \- Einführungsgesetz zum Bundesgesetz über den Wald (kantonales Waldgesetz) vom 10. März 2016 (OGS 2016, 16), Botschaft und Vorlage des Regierungsrats vom 3. November 2015, Kantonsratssitzungen vom 28. Januar und 10. März 2016 (22.15.06), in Kraft seit 1. Juni 2016 (OGS 2016, 22),
 
-\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26)
+\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26),
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 1991, 4
