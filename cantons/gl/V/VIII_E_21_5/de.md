@@ -4,13 +4,12 @@ number: VIII E/21/5
 title: Verordnung über die Bemessung der wirtschaftlichen Sozialhilfe und der Hilfe in Notlagen in Ausnahme der Richtlinien der Schweizerischen Konferenz für Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2022-06-01
-valid_until: 2026-02-28
-version_adopted: 2022-05-19
+version: 2026-03-01
+version_adopted: 2026-02-09
 adopted: 2022-05-19
 in_force: 2022-06-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-E.21.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2299/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2625/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2299/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-Vom 19.05.2022 (Stand 01.06.2022)
+Vom 19.05.2022 (Stand 01.03.2026)
 
 Das Departement Volkswirtschaft und Inneres des Kantons Glarus,
 
@@ -83,13 +82,13 @@ erlässt:
 <sup>1</sup> An das Unterstützungsbudget sind höchstens folgende Mietzinsen anrechenbar:
 
 <table>
-<tr><th>Haushaltgrösse</th><th>Nettomiete</th><th>Bruttomiete</th></tr>
-<tr><td>1</td><td>600 Fr.</td><td>690 Fr.</td></tr>
-<tr><td>2</td><td>868 Fr.</td><td>988 Fr.</td></tr>
-<tr><td>3</td><td>1108 Fr.</td><td>1249 Fr.</td></tr>
-<tr><td>4</td><td>1238 Fr.</td><td>1410 Fr.</td></tr>
-<tr><td>5</td><td>1364 Fr.</td><td>1553 Fr.</td></tr>
-<tr><td>6</td><td>1490 Fr.</td><td>1696 Fr.</td></tr>
+<tr><th>Haushaltgrösse</th><th>Glarus Nord Nettomiete</th><th>Glarus Nord Bruttomiete</th><th>Glarus Nettomiete</th><th>Glarus Bruttomiete</th><th>Glarus Süd Nettomiete</th><th>Glarus Süd Bruttomiete</th></tr>
+<tr><td>1 Person</td><td>888 Fr.</td><td>978 Fr.</td><td>744 Fr.</td><td>834 Fr.</td><td>672 Fr.</td><td>762 Fr.</td></tr>
+<tr><td>2 Personen</td><td>1032 Fr.</td><td>1152 Fr.</td><td>888 Fr.</td><td>1008 Fr.</td><td>868 Fr.</td><td>988 Fr.</td></tr>
+<tr><td>3 Personen</td><td>1108 Fr.</td><td>1249 Fr.</td><td>1108 Fr.</td><td>1249 Fr.</td><td>1108 Fr.</td><td>1249 Fr.</td></tr>
+<tr><td>4 Personen</td><td>1238 Fr.</td><td>1410 Fr.</td><td>1238 Fr.</td><td>1410 Fr.</td><td>1238 Fr.</td><td>1410 Fr.</td></tr>
+<tr><td>5 Personen</td><td>1364 Fr.</td><td>1553 Fr.</td><td>1364 Fr.</td><td>1553 Fr.</td><td>1364 Fr.</td><td>1553 Fr.</td></tr>
+<tr><td>6 Personen</td><td>1490 Fr.</td><td>1696 Fr.</td><td>1490 Fr.</td><td>1696 Fr.</td><td>1490 Fr.</td><td>1696 Fr.</td></tr>
 </table>
 
 <sup>2</sup> Die Maximalbeträge erhöhen sich um jeweils 50 Franken für jede weitere, im entsprechenden Haushalt lebende Person.
