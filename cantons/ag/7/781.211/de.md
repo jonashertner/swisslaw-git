@@ -4,13 +4,13 @@ number: "781.211"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern
 short: V EG UWR
 language: de
-version: 2025-08-30
-valid_until: 2026-02-28
-version_adopted: 2025-05-28
+version: 2026-03-01
+valid_until: 2026-03-31
+version_adopted: 2026-01-21
 adopted: 2008-05-14
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/781.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3838/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3927/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3838/pdf_file"
 
 (V EG UWR)
 
-Vom 14.05.2008 (Stand 30.08.2025)
+Vom 14.05.2008 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
