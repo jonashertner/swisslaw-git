@@ -3,20 +3,19 @@ canton: BL
 number: "140.31"
 title: Verordnung über das Mitberichtsverfahren und das Vernehmlassungsverfahren
 language: de
-version: 2019-01-01
-valid_until: 2026-02-28
-version_adopted: 2018-12-18
+version: 2026-03-01
+version_adopted: 2026-01-20
 adopted: 2006-05-16
 in_force: 2006-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.31"
-pdf: "https://bl.clex.ch/api/de/versions/2326/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Mitberichtsverfahren und das Vernehmlassungsverfahren
 
-Vom 16.05.2006 (Stand 01.01.2019)
+Vom 16.05.2006 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -63,7 +62,7 @@ beschliesst:
 - e. für alle Geschäfte, inklusive für solche für die Vernehmlassung oder die Anhörung, welche finanzielle Folgen auslösen können, sowie für Planungsberichte (finanzhaushaltsrechtliche Prüfung): bei der Finanz- und Kirchendirektion;
 - f. für Geschäfte mit grundsätzlicher Bedeutung oder erheblichen Auswirkungen in Personalangelegenheiten: bei der Finanz- und Kirchendirektion;
 - g. für Geschäfte mit grundsätzlicher Bedeutung oder erheblichen Auswirkungen im EDV-Bereich: bei der Finanz- und Kirchendirektion;
-- g<sup>bis</sup> für Geschäfte mit grundsätzlicher Bedeutung für oder erheblichen Auswirkungen auf die kleinen und mittleren Unternehmen (KMU): bei der Volkswirtschafts- und Sanitätsdirektion;
+- g<sup>bis</sup> für Geschäfte mit grundsätzlicher Bedeutung für oder erheblichen Auswirkungen auf die kleinen und mittleren Unternehmen (KMU): bei der Volkswirtschafts- und Gesundheitsdirektion;
 - g.<sup>ter</sup> für Geschäfte mit grundsätzlicher Bedeutung oder erheblichen Auswirkungen im Bereich Standortförderung: bei der Standortförderung;
 - h. für Geschäfte, die den Aufgabenbereich von anderen Direktionen berühren: bei den betroffenen Direktionen.
 
