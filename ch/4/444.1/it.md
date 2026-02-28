@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul trasferimento internazionale dei b
 short: LTBC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/317"
 language: it
-version: 2021-02-01
+version: 2026-03-01
 adopted: 2003-06-20
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2005-317-20210201-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20260301/it/xml/fedlex-data-admin-ch-eli-cc-2005-317-20260301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20260301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/it"
 
 (Legge sul trasferimento dei beni culturali, LTBC)
 
-del 20 giugno 2003 (Stato 1° febbraio 2021)
+del 20 giugno 2003 (Stato 1° marzo 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -49,14 +49,17 @@ decreta:
 
 <sup>2</sup> Per *patrimonio culturale* si intende l’insieme dei beni culturali appartenenti a una delle categorie definite nell’articolo 4 della Convenzione UNESCO 1970.
 
+<sup>2bis</sup> Per *patrimonio culturale storicamente problematico* si intende l’insieme dei beni culturali la cui origine o i cui rapporti di proprietà sollevano questioni a seguito di trasferimenti di diritti avvenuti nel contesto del nazionalsocialismo o del colonialismo.[^2-2]
+
 <sup>3</sup> Per *Stati contraenti* s’intendono gli Stati che hanno ratificato la Convenzione UNESCO 1970.
 
 <sup>4</sup> Per *Servizio specializzato* si intende l’organo amministrativo cui incombe l’esecuzione dei compiti definiti nell’articolo 18.
 
-<sup>5</sup> Per *importazione,* *transito* *o* *esportazione* *illeciti* s’intende un’importazione, un transito o un’esportazione che viola una convenzione secondo l’articolo 7 o un provvedimento secondo l’articolo 8 capoverso 1 lettera a.[^2-2]
+<sup>5</sup> Per *importazione,* *transito* *o* *esportazione* *illeciti* s’intende un’importazione, un transito o un’esportazione che viola una convenzione secondo l’articolo 7 o un provvedimento secondo l’articolo 8 capoverso 1 lettera a.[^2-3]
 
 [^2-1]: Nuovo testo giusta l’all. n. 1 del DF del 21 giu. 2019 che approva la Convenzione sulla protezione del patrimonio culturale subacqueo e la traspone nel diritto svizzero, in vigore dal 1° nov. 2020 ([RU 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [FF 2019 423](https://fedlex.data.admin.ch/eli/fga/2019/110)).
-[^2-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^2-2]: Introdotto dalla cifra I della LF del 21 mar. 2025, in vigore dal 1° mar. 2026 ([RU 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^2-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Sezione 2: Elenchi dei beni culturali
 
@@ -231,7 +234,8 @@ La Confederazione può concedere aiuti finanziari:
 
 - a. ai musei o istituti analoghi in Svizzera, per la custodia provvisoria a titolo fiduciario e la cura conservativa dei beni culturali che sono parte del patrimonio culturale di altri Stati in cui sono minacciati da eventi straordinari;
 - b. per progetti destinati al mantenimento del patrimonio culturale in altri Stati contraenti;
-- c. in casi eccezionali, per facilitare il rimpatrio del patrimonio culturale di uno Stato contraente.
+- c. in casi eccezionali, per facilitare il rimpatrio del patrimonio culturale di uno Stato contraente;
+- d.[^14-2] per la creazione e la gestione di una banca dati accessibile al pubblico destinata alla ricerca sulla provenienza dei beni culturali.
 
 <sup>2</sup>
 
@@ -241,6 +245,7 @@ Gli aiuti finanziari secondo il capoverso 1 lettera a sono versati soltanto se l
 - b. sotto gli auspici dell’UNESCO o di un’altra organizzazione internazionale dedita alla protezione dei beni culturali.
 
 [^14-1]: Introdotto dall’all. cifra II n. 4 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^14-2]: Introdotta dalla cifra I della LF del 21 mar. 2025, in vigore dal 1° mar. 2026 ([RU 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 #### Art. 14a
 
@@ -315,6 +320,35 @@ Per l’esecuzione della presente legge la Confederazione designa un Servizio sp
 - g. gestisce l’Elenco federale in forma di banca dati elettronica e lo pubblica (art. 3);
 - h. rilascia garanzie di restituzione (art. 10–13);
 - i. controlla il rispetto degli obblighi di diligenza da parte delle persone operanti nel commercio d’arte e nelle aste pubbliche (art. 16 e 17).
+
+#### Art. 18a
+
+**Commissione per il patrimonio culturale storicamente problematico**[^18a-1]
+
+<sup>1</sup> Il Consiglio federale istituisce una Commissione per il patrimonio culturale storicamente problematico. Essa è una commissione consultiva ai sensi dell’articolo 8*a* capoverso 2 dell’ordinanza del 25 novembre 1998[^18a-2] sull’organizzazione del Governo e dell’Amministrazione.
+
+<sup>2</sup>
+
+La Commissione ha i compiti seguenti:
+
+- a. fornisce consulenza al Consiglio federale e all’Amministrazione federale per questioni relative al patrimonio culturale storicamente problematico;
+- b. fornisce consulenza al Consiglio federale e all’Amministrazione federale sul trattamento dei beni culturali storicamente problematici di proprietà della Confederazione;
+- c. su richiesta di tutte le parti e d’intesa con esse, elabora raccomandazioni non vincolanti in merito a casi specifici di beni culturali storicamente problematici; su richiesta di persone fisiche oppure di musei o collezioni o dei loro organi responsabili, la Commissione può elaborare raccomandazioni non vincolanti in merito a casi specifici di beni culturali legati al nazionalsocialismo e che si trovano in musei o collezioni finanziati con fondi pubblici.
+
+<sup>3</sup> Per adempiere i compiti di cui al capoverso 2 lettere b e c, la Commissione può trattare, comunicare e rendere accessibili al pubblico dati su persone fisiche e giuridiche, inclusi quelli degni di particolare protezione.
+
+<sup>4</sup> Per adempiere i compiti di cui al capoverso 2 lettera c, la Commissione può emanare prescrizioni procedurali. Dà seguito unicamente alle richieste in cui il diritto di proprietà relativo al bene culturale contestato è reso verosimile e se sono stati compiuti sforzi appropriati al fine di giungere a un accordo e determinare la provenienza del bene culturale. La Commissione informa le parti della ricezione della richiesta. Le parti hanno il diritto di essere sentite.
+
+[^18a-1]: Introdotto dalla cifra I della LF del 21 mar. 2025, in vigore dal 1° mar. 2026 ([RU 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^18a-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+
+#### Art. 18b
+
+**Valutazione**[^18b-1]
+
+Entro tre anni dall’entrata in vigore dell’articolo 18*a*, il Consiglio federale valuta l’operato della Commissione per il patrimonio culturale storicamente problematico e presenta un rapporto in merito al Parlamento.
+
+[^18b-1]: Introdotto dalla cifra I della LF del 21 mar. 2025, in vigore dal 1° mar. 2026 ([RU 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 #### Art. 19
 

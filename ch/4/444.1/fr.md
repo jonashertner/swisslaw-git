@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 sur le transfert international des biens 
 short: LTBC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/317"
 language: fr
-version: 2021-02-01
+version: 2026-03-01
 adopted: 2003-06-20
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-317-20210201-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-2005-317-20260301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20260301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/fr"
 
 (Loi sur le transfert des biens culturels, LTBC)
 
-du 20 juin 2003 (État le 1<sup>er</sup> février 2021)
+du 20 juin 2003 (État le 1<sup>er</sup> mars 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -49,14 +49,17 @@ arrête:
 
 <sup>2</sup> Par *patrimoine culturel,* on entend les biens culturels qui font partie de l’une des catégories prévues à l’art. 4 de la convention de l’UNESCO de 1970.
 
+<sup>2bis</sup> Par *patrimoine culturel au passé problématique*, on entend tous les biens culturels dont la provenance ou les rapports de propriété soulèvent des questions en raison de transferts de droits dans les contextes du national-socialisme ou du colonialisme.[^2-2]
+
 <sup>3</sup> Par *États parties,* on entend les États qui ont ratifié la convention de l’UNESCO de 1970.
 
 <sup>4</sup> Par *service spécialisé,* on entend l’unité administrative chargée de l’exécution des tâches prévues à l’art. 18.
 
-<sup>5</sup> Par *importation, transit ou exportation* *illicites*, on entend une importation, un transit ou une exportation qui contreviennent à un accord au sens de l’art. 7 ou à une mesure au sens de l’art. 8, al. 1, let. a.[^2-2]
+<sup>5</sup> Par *importation, transit ou exportation* *illicites*, on entend une importation, un transit ou une exportation qui contreviennent à un accord au sens de l’art. 7 ou à une mesure au sens de l’art. 8, al. 1, let. a.[^2-3]
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 21 juin 2019 portant approbation et mise en œuvre de la convention sur la protection du patrimoine culturel subaquatique, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [FF 2019 461](https://fedlex.data.admin.ch/eli/fga/2019/110)).
-[^2-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^2-2]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^2-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Section 2 Inventaires des biens culturels
 
@@ -231,7 +234,8 @@ La Confédération peut allouer des aides financières:
 
 - a. à des musées ou à des institutions similaires en Suisse pour la garde en dépôt temporaire à titre fiduciaire et la conservation de biens culturels faisant partie du patrimoine culturel d’autres États et qui, en raison d’événements extraordinaires, sont mis en danger sur leur territoire;
 - b. à des projets visant à conserver le patrimoine culturel dans d’autres États parties;
-- c. dans des cas exceptionnels, pour faciliter le retour du patrimoine culturel d’un État partie.
+- c. dans des cas exceptionnels, pour faciliter le retour du patrimoine culturel d’un État partie;
+- d.[^14-2] pour la création et l’exploitation d’une banque de données sur la recherche de provenance de biens culturels accessible au public.
 
 <sup>2</sup>
 
@@ -241,6 +245,7 @@ Les aides financières visées à l’al. 1, let. a, ne sont allouées que si le
 - b. est placé sous l’égide de l’UNESCO ou d’une autre organisation internationale œuvrant en faveur de la protection du patrimoine culturel.
 
 [^14-1]: Introduit par l’annexe ch. II 4 de la L du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^14-2]: Introduite par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 #### Art. 14a
 
@@ -315,6 +320,35 @@ La Confédération désigne un service spécialisé chargé d’exécuter la pr�
 - g. tenir l’inventaire fédéral sous forme de banque de données électronique et le publier (art. 3);
 - h. délivrer les garanties de restitution (art. 10 à 13);
 - i. s’assurer que les commerçants d’art et les personnes pratiquant la vente aux enchères respectent leur devoir de diligence (art. 16 et 17).
+
+#### Art. 18a
+
+**Commission pour le patrimoine culturel au passé problématique**[^18a-1]
+
+<sup>1</sup> Le Conseil fédéral institue une Commission pour le patrimoine culturel au passé problématique. Celle-ci est une commission consultative au sens de l’art. 8*a,* al. 2, de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration[^18a-2].
+
+<sup>2</sup>
+
+La commission est chargée des tâches suivantes:
+
+- a elle conseille le Conseil fédéral et l’administration fédérale sur les questions en lien avec le patrimoine culturel au passé problématique;
+- b. elle conseille le Conseil fédéral et l’administration fédérale sur la manière de traiter des biens culturels au passé problématique qui appartiennent à la Confédération;
+- c. elle émet, au cas par cas, sur demande et avec l’accord de toutes les parties, des recommandations non contraignantes pour des biens culturels au passé problématique; elle peut, à la demande de personnes physiques ou à celle de musées ou de collections ou de leurs organismes responsables, émettre, au cas par cas, des recommandations non contraignantes pour des biens culturels qui sont liés au national-socialisme et se trouvent dans des musées ou collections financés par des fonds publics.
+
+<sup>3</sup> Dans l’accomplissement des tâches définies à l’al. 2, let. b et c, la commission peut traiter, communiquer et rendre accessibles au public des données de personnes physiques ou morales, y compris des données sensibles.
+
+<sup>4</sup> Dans l’accomplissement des tâches définies à l’al. 2, let. c, la commission peut édicter des règles de procédure. Elle ne donne suite qu’aux demandes pour lesquelles le droit de propriété sur le bien culturel contesté est rendu vraisemblable et pour lesquelles les efforts que l’on pouvait raisonnablement attendre ont été accomplis pour parvenir à un accord ainsi que pour rechercher la provenance du bien culturel. La commission informe les parties de la réception de la demande. Celles-ci ont le droit d’être entendues.
+
+[^18a-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^18a-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+
+#### Art. 18b
+
+**évaluation**[^18b-1]
+
+Dans un délai de trois ans à compter de l’entrée en vigueur de l’art. 18*a*, le Conseil fédéral évalue le fonctionnement de la commission pour le patrimoine culturel au passé problématique et présente au Parlement un rapport à ce sujet.
+
+[^18b-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 #### Art. 19
 

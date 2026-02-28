@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 2003 on the International Transfer of Cultural Pr
 short: CPTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/317"
 language: en
-version: 2021-02-01
+version: 2026-03-01
 adopted: 2003-06-20
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2005-317-20210201-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20260301/en/xml/fedlex-data-admin-ch-eli-cc-2005-317-20260301-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20260301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Cultural Property Transfer Act, CPTA)
 
-of 20 June 2003 (Status as of 1 February 2021)
+of 20 June 2003 (Last amended on 1 March 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of Articles 69 paragraph 2 and 95 paragraph 1 of the Federal Constitution[^ingress-1], in implementation of the Convention of 14 November 1970[^ingress-2] on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property (1970 UNESCO Convention) and of the Convention of 2 November 2001[^ingress-3] on the Protection of the Underwater Cultural Heritage (2001 UNESCO Convention),[^ingress-4]
+on the basis of Articles 69 paragraph 2 and 95 paragraph 1 of the Federal Constitution[^ingress-1], in implementation of the Convention of 14 November 1970[^ingress-2] on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property (1970 UNESCO Convention) and of the Convention of 2 November 2001[^ingress-3] on the Protection of the Underwater Cultural Heritage (2001 UNESCO Convention),[^ingress-4] having considered the Federal Council Dispatch of 21 November 2001[^ingress-5],
 
 decrees:
 
@@ -31,6 +31,7 @@ decrees:
 [^ingress-2]: [SR 0.444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1825)
 [^ingress-3]: [SR 0.444.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1834)
 [^ingress-4]: Amended by Annex No 1 of the FD of 21 June 2019 on the Approval of the Convention on the Protection of Underwater Cultural Heritage, in force since 1 Nov. 2020 ([AS 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [BBl 2019 467](https://fedlex.data.admin.ch/eli/fga/2019/110)).
+[^ingress-5]: [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)
 
 ## Section 1 General Provisions
 
@@ -50,14 +51,17 @@ decrees:
 
 <sup>2</sup> *Cultural heritage* means the entirety of cultural property belonging to one of the categories specified in Article 4 of the 1970 UNESCO Convention.
 
+<sup>2bis</sup> *Historically problematic cultural heritage* means any cultural property whose provenance or ownership raises questions because of transfers of title that took place in the context of National Socialism or colonialism.[^2-2]
+
 <sup>3</sup> *Contracting states* means states that have ratified the 1970 UNESCO Convention.
 
 <sup>4</sup> *Specialised Body* means the administrative body responsible for carrying out the tasks specified in Article 18.
 
-<sup>5</sup> *Unlawful import, transit or export* means any import, transit or export that violates an agreement pursuant to Article 7 or a measure pursuant to Article 8 paragraph 1 letter a.[^2-2]
+<sup>5</sup> *Unlawful import, transit or export* means any import, transit or export that violates an agreement pursuant to Article 7 or a measure pursuant to Article 8 paragraph 1 letter a.[^2-3]
 
 [^2-1]: Amended by Annex No 1 of the FD of 21 June 2019 on the Approval of the Convention on the Protection of Underwater Cultural Heritage, in force since 1 Nov. 2020 ([AS 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [BBl 2019 467](https://fedlex.data.admin.ch/eli/fga/2019/110)).
-[^2-2]: Amended by No I of the FA of 25 Sept. 2020, in force since 1 Feb. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^2-2]: Inserted by No I of the FA of 21 March 2025, in force since 1 March 2026 ([AS 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^2-3]: Amended by No I of the FA of 25 Sept. 2020, in force since 1 Feb. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Section 2 Registers of Cultural Property
 
@@ -232,7 +236,8 @@ The Confederation may grant financial assistance:
 
 - a. to museums or similar institutions in Switzerland for the temporary fiduciary custody and conservational supervision of cultural property that forms part of the cultural heritage of other states and that is at risk there due to exceptional events;
 - b. for projects to maintain cultural heritage in other contracting states;
-- c. under exceptional circumstances, to facilitate restitution of the cultural heritage of contracting states.
+- c. under exceptional circumstances, to facilitate restitution of the cultural heritage of contracting states;
+- d.[^14-2] for the development and operation of a publicly accessible database for research into the provenance of cultural assets.
 
 <sup>2</sup>
 
@@ -242,6 +247,7 @@ Financial assistance under paragraph 1 letter a may only be paid out if fiduciar
 - b. takes place under the auspices of UNESCO or of another international organisation for the protection of cultural property.
 
 [^14-1]: Inserted by Annex No II 4 des Culture Promotion Act of 11 Dec. 2009, in force since 1 Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^14-2]: Inserted by No I of the FA of 21 March 2025, in force since 1 March 2026 ([AS 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 #### Art. 14a
 
@@ -316,6 +322,35 @@ The Confederation shall appoint a Specialised Body to implement this Act, which 
 - g. it maintains and publishes the Federal Register in the form of an electronic database (Art. 3);
 - h. it issues guarantees of return (Art. 10–13);
 - i. it verifies compliance with duties of diligence by persons active in the art trade and auction business (Art. 16 and 17).
+
+#### Art. 18a
+
+**Commission for Historically Problematic Cultural Heritage**[^18a-1]
+
+<sup>1</sup> The Federal Council shall appoint a Commission for Historically Problematic Cultural Heritage. It shall be an administrative commission established under Article 8*a* paragraph 2 of the Ordinance of 25 November 1998 on the Organisation of the Government and the Federal Administration[^18a-2].
+
+<sup>2</sup>
+
+The Commission shall have the following tasks:
+
+- a. It shall advise the Federal Council and the Federal Administration on matters relating to historically problematic cultural heritage.
+- b. It shall advise the Federal Council and the Federal Administration on how to deal with historically problematic cultural property owned by the Swiss Confederation.
+- c. On request and in agreement with the parties, it shall draw up non-binding recommendations in individual cases concerning historically problematic cultural property; it may, on request from individuals or from museums or collections or their sponsors, draw up non-binding recommendations in individual cases concerning cultural property associated with National Socialism and held in publicly funded museums or collections.
+
+<sup>3</sup> In order to carry out its tasks under paragraph 2 letters b and c, the Commission may process, disclose and make publicly available data relating to natural persons and legal entities, including sensitive data.
+
+<sup>4</sup> The Commission may adopt procedural rules for the purpose of carrying out its tasks under paragraph 2 letter c. It shall only consider requests where a credible claim to ownership of disputed cultural property has been established and where reasonable efforts have been made to reach a settlement and to investigate the provenance of the cultural property. The Commission shall notify the parties that the request has been received. They shall be entitled to a hearing.
+
+[^18a-1]: Inserted by No I of the FA of 21 March 2025, in force since 1 March 2026 ([AS 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^18a-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+
+#### Art. 18b
+
+**Evaluation**[^18b-1]
+
+Within three years of Article 18*a* coming into force, the Federal Council shall evaluate the procedures of the Commission for Historically Problematic Cultural Heritage and submit a report thereon to Parliament.
+
+[^18b-1]: Inserted by No I of the FA of 21 March 2025, in force since 1 March 2026 ([AS 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 #### Art. 19
 

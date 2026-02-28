@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2003 über den internationalen Kulturgütertra
 short: KGTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/317"
 language: de
-version: 2021-02-01
+version: 2026-03-01
 adopted: 2003-06-20
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2005-317-20210201-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20260301/de/xml/fedlex-data-admin-ch-eli-cc-2005-317-20260301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20260301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/de"
 
 (Kulturgütertransfergesetz, KGTG)
 
-vom 20. Juni 2003 (Stand am 1. Februar 2021)
+vom 20. Juni 2003 (Stand am 1. März 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -49,14 +49,17 @@ beschliesst:
 
 <sup>2</sup> Als *kulturelles Erbe* gilt die Gesamtheit der Kulturgüter, die einer der Kategorien nach Artikel 4 der UNESCO-Konvention 1970 angehören.
 
+<sup>2bis</sup> Als *historisch belastetes Kulturerbe* gilt die Gesamtheit der Kulturgüter, deren Herkunft oder Eigentumsverhältnisse aufgrund von Rechtsübertragungen im Kontext des Nationalsozialismus oder des Kolonialismus Fragen aufwerfen.[^2-2]
+
 <sup>3</sup> Als *Vertragsstaaten* gelten Staaten, welche die UNESCO-Konvention 1970 ratifiziert haben.
 
 <sup>4</sup> Als *Fachstelle* gilt die Verwaltungsstelle, die für den Vollzug der in Artikel 18 bezeichneten Aufgaben zuständig ist.
 
-<sup>5</sup> Als *rechtswidrige Ein-, Durch- oder Ausfuhr* gilt eine Ein-, Durch- oder Ausfuhr, die eine Vereinbarung im Sinne von Artikel 7 oder eine Massnahme im Sinne von Artikel 8 Absatz 1 Buchstabe a verletzt.[^2-2]
+<sup>5</sup> Als *rechtswidrige Ein-, Durch- oder Ausfuhr* gilt eine Ein-, Durch- oder Ausfuhr, die eine Vereinbarung im Sinne von Artikel 7 oder eine Massnahme im Sinne von Artikel 8 Absatz 1 Buchstabe a verletzt.[^2-3]
 
 [^2-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 21. Juni 2019 über die Genehmigung des Übereinkommens über den Schutz des Unterwasser-Kulturerbes und über seine Umsetzung, in Kraft seit 1. Nov. 2020 ([AS 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [BBl 2019 467](https://fedlex.data.admin.ch/eli/fga/2019/110)).
-[^2-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^2-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. März 2026 ([AS 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^2-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## 2. Abschnitt: Kulturgüterverzeichnisse
 
@@ -231,7 +234,8 @@ Der Bund kann Finanzhilfen gewähren:
 
 - a. Museen oder ähnlichen Institutionen in der Schweiz für die vorübergehende treuhänderische Aufbewahrung und konservatorische Betreuung von Kulturgütern, die Teil des kulturellen Erbes anderer Staaten sind und die dort wegen ausserordentlicher Ereignisse gefährdet sind;
 - b. für Projekte zur Erhaltung des kulturellen Erbes in andern Vertragsstaaten;
-- c. in Ausnahmefällen, um die Wiedererlangung des kulturellen Erbes von Vertragsstaaten zu erleichtern.
+- c. in Ausnahmefällen, um die Wiedererlangung des kulturellen Erbes von Vertragsstaaten zu erleichtern;
+- d.[^14-2] für den Aufbau und den Betrieb einer öffentlich zugänglichen Datenbank zur Provenienzforschung zu Kulturgütern.
 
 <sup>2</sup>
 
@@ -241,6 +245,7 @@ Finanzhilfen nach Absatz 1 Buchstabe a können nur ausgerichtet werden, wenn die
 - b. unter der Schirmherrschaft der UNESCO oder einer anderen internationalen Organisation zum Schutz von Kulturgut steht.
 
 [^14-1]: Eingefügt durch Anhang Ziff. II 4 des Kulturförderungsgesetzes vom 11. Dez. 2009, in Kraft seit 1. Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^14-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. März 2026 ([AS 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 #### Art. 14a
 
@@ -315,6 +320,35 @@ Für den Vollzug dieses Gesetzes bezeichnet der Bund eine Fachstelle, die nament
 - g. sie führt das Bundesverzeichnis in Form einer elektronischen Datenbank und veröffentlicht es (Art. 3);
 - h. sie erteilt Rückgabegarantien (Art. 10–13);
 - i. sie kontrolliert die Einhaltung der Sorgfaltspflichten der im Kunsthandel und Auktionswesen tätigen Personen (Art. 16 und 17).
+
+#### Art. 18a
+
+**Kommission für historisch belastetes Kulturerbe**[^18a-1]
+
+<sup>1</sup> Der Bundesrat setzt eine Kommission für historisch belastetes Kulturerbe ein. Sie ist eine Verwaltungskommission nach Artikel 8*a* Absatz 2 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^18a-2].
+
+<sup>2</sup>
+
+Die Kommission hat folgende Aufgaben:
+
+- a. Sie berät den Bundesrat und die Bundesverwaltung in Fragen im Zusammenhang mit historisch belastetem Kulturerbe.
+- b. Sie berät den Bundesrat und die Bundesverwaltung betreffend den Umgang mit historisch belasteten Kulturgütern im Eigentum der Eidgenossenschaft.
+- c. Sie erarbeitet auf Gesuch und im Einverständnis mit den Parteien im Einzelfall nicht bindende Empfehlungen zu historisch belasteten Kulturgütern; sie kann auf Gesuch von natürlichen Personen oder auf Gesuch von Museen oder Sammlungen oder deren Trägern im Einzelfall nicht bindende Empfehlungen erarbeiten für Kulturgüter, die im Zusammenhang mit dem Nationalsozialismus stehen und sich in Museen oder Sammlungen befinden, die mit öffentlichen Geldern finanziert werden.
+
+<sup>3</sup> Die Kommission kann zur Erfüllung ihrer Aufgaben nach Absatz 2 Buchstaben b und c Daten natürlicher und juristischer Personen, einschliesslich besonders schützenswerter Daten, bearbeiten, bekanntgeben und öffentlich zugänglich machen.
+
+<sup>4</sup> Die Kommission kann zur Erfüllung ihrer Aufgaben nach Absatz 2 Buchstabe c Verfahrensvorschriften erlassen. Sie tritt nur auf Gesuche ein, bei denen der Eigentumsanspruch auf das umstrittene Kulturgut glaubhaft gemacht ist und angemessene Bestrebungen zur Einigung sowie zur Nachforschung der Provenienz des Kulturgutes erfolgt sind. Die Kommission informiert die Parteien über den Gesuchseingang. Diese haben einen Anspruch auf Anhörung.
+
+[^18a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. März 2026 ([AS 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^18a-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+
+#### Art. 18b
+
+**Evaluation**[^18b-1]
+
+Der Bundesrat evaluiert innerhalb von drei Jahren ab Inkrafttreten von Artikel 18*a* die Funktionsweise der Kommission für belastetes Kulturerbe und legt dem Parlament einen entsprechenden Bericht vor.
+
+[^18b-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. März 2026 ([AS 2026 47](https://fedlex.data.admin.ch/eli/oc/2026/47); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
 
 #### Art. 19
 
