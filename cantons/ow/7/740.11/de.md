@@ -4,13 +4,12 @@ number: "740.11"
 title: Wasserbauverordnung
 short: WBV
 language: de
-version: 2017-06-01
-valid_until: 2026-02-28
-version_adopted: 2016-12-01
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 2001-05-31
 in_force: 2002-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/740.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1704/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1704/pdf_file"
 
 (WBV)
 
-vom 31.05.2001 (Stand 01.06.2017)
+vom 31.05.2001 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -99,7 +98,8 @@ beschliesst:
 - c. eine Übersicht über die bestehende Naturgefahrensituation, die möglichen Schäden und die gewählten Schutzziele;
 - d. die Beurteilung der Notwendigkeit der baulichen Massnahmen und deren Auswirkungen;
 - e. den allfälligen Bericht über die Umweltverträglichkeit;
-- f. Angaben über die Vereinbarkeit mit der Richt- und Nutzungsplanung.
+- f. Angaben über die Vereinbarkeit mit der Richt- und Nutzungsplanung;
+- g. Anpassungen der Bau- und Zonenordnung.
 
 <sup>2</sup> Das zuständige Departement kann weitere Unterlagen, das Aufstellen eines Baugespanns und dergleichen verlangen sowie eine Planungszone verfügen. Es sorgt für die Koordination unter den zuständigen kantonalen und eidgenössischen Amtsstellen.
 
@@ -107,7 +107,7 @@ beschliesst:
 
 **Bekanntmachung**
 
-<sup>1</sup> Nach der Vorprüfung durch das zuständige Departement ist das Ausführungsprojekt in der betreffenden Gemeinde während zehn Tagen öffentlich aufzulegen und gleichzeitig im Amtsblatt unter Hinweis auf die Einsprachemöglichkeit bekannt zu machen.
+<sup>1</sup> Nach der Vorprüfung durch das zuständige Departement ist das Ausführungsprojekt in der betreffenden Gemeinde während 30 Tagen öffentlich aufzulegen und gleichzeitig im Amtsblatt unter Hinweis auf die Einsprachemöglichkeit bekannt zu machen.
 
 <sup>2</sup> Der Gemeinderat stellt die Einsprachen zusammen mit seiner Vernehmlassung umgehend dem zuständigen Departement zu.
 
@@ -115,7 +115,7 @@ beschliesst:
 
 **Genehmigung**
 
-<sup>1</sup> Das zuständige Departement holt die erforderlichen kantonalen und eidgenössischen Bewilligungen ein, hört vom Vorhaben betroffene Departemente oder Amtsstellen an, entscheidet über die Einsprachen, soweit diese nicht gütlich erledigt werden können, und genehmigt anschliessend das Ausführungsprojekt.
+<sup>1</sup> Das zuständige Departement holt die erforderlichen kantonalen und eidgenössischen Bewilligungen ein, hört vom Vorhaben betroffene Departemente oder Amtsstellen an, entscheidet über die Einsprachen, soweit diese nicht gütlich erledigt werden können und genehmigt anschliessend das Ausführungsprojekt sowie mit dem Projekt verbundene Anpassungen der Bau- und Zonenordnung.
 
 <sup>2</sup> Nach erfolgter Genehmigung stellt das zuständige Departement beim zuständigen Bundesamt das Gesuch um die bundesrechtliche Genehmigung des Projektes und um Abgeltungen oder Finanzhilfen[^7-1]. Liegt noch kein Beschluss über einen Kantonsbeitrag vor, so ist ein entsprechender Antrag zu unterbreiten. Vorbehalten bleibt die Regelung in einer Programmvereinbarung zwischen dem Bund und dem Kanton.
 
@@ -300,6 +300,8 @@ geändert durch
 
 \- die Verordnung über die Schifffahrt vom 4. Dezember 2008, in Kraft seit 15. Januar 2009 (OGS 2008, 111),
 
-\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26)
+\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26),
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 2001, 82
