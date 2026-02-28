@@ -4,11 +4,11 @@ title: "Verordnung des BLW vom 30. November 2021 über die Einschätzung und Kla
 short: EKV-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/802"
 language: de
-version: 2025-01-01
+version: 2026-03-01
 adopted: 2021-11-30
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2021-802-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20260301/de/xml/fedlex-data-admin-ch-eli-cc-2021-802-20260301-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20260301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/de"
 
 (EKV-BLW)
 
-vom 30. November 2021 (Stand am 1. Januar 2025)
+vom 30. November 2021 (Stand am 1. März 2026)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 5 der Schlachtviehverordnung vom 26. November 2003[^ingres
 
 verordnet:
 
-[^ingress-1]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^ingress-1]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 1
 
@@ -129,7 +129,7 @@ Anhang 1[^t-1]
 
 ## Einstufung der Qualität von Tieren der Rindviehgattung
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLW vom 28. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLW vom 28. März 2024 ([AS 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)) und vom 9. Jan. 2026, in Kraft seit 1. März 2026 (AS **202****6** 14).
 
 ### 1 Einschätzung
 
@@ -145,11 +145,11 @@ Die Schlacht- und Masttiere werden unter Berücksichtigung von Alter, Geschlecht
 <tr><th>Kategorie</th><th>Abkürzung</th></tr>
 <tr><td>Kälber bis 240 Tage</td><td>KV</td></tr>
 <tr><td>Jungvieh bis 300 Tage, wenn für Weitermast verwendet; die Einteilung in diese Kategorie darf nur auf überwachten öffentlichen Märkten vorgenommen werden.</td><td>JB</td></tr>
-<tr><td>Stiere (Muni) 241–540 Tage</td><td>MT</td></tr>
-<tr><td>Stiere (Muni) älter als 540 Tage und Ochsen älter als 730 Tage</td><td>MA</td></tr>
-<tr><td>Ochsen 241–730 Tage</td><td>OB</td></tr>
-<tr><td>Rinder 241–900 Tage, nicht gekalbt</td><td>RG</td></tr>
-<tr><td>Kühe und Rinder älter als 900 Tage sowie gekalbte Rinder bis 900 Tage</td><td>VK</td></tr>
+<tr><td>Stiere (Muni) 241–600 Tage</td><td>MT</td></tr>
+<tr><td>Stiere (Muni) älter als 600 Tage</td><td>MA</td></tr>
+<tr><td>Ochsen älter als 240 Tage</td><td>OB</td></tr>
+<tr><td>Rinder 241–900 Tage</td><td>RG</td></tr>
+<tr><td>Kühe älter als 240 Tage und Rinder älter als 900 Tage</td><td>VK</td></tr>
 </table>
 
 ### 2.2 Bestimmung der Handelsklasse

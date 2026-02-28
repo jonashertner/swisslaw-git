@@ -4,11 +4,11 @@ title: "Ordinanza dell’UFAG del 30 novembre 2021 concernente la valutazione e 
 short: OVC-UFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/802"
 language: it
-version: 2025-01-01
+version: 2026-03-01
 adopted: 2021-11-30
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2021-802-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20260301/it/xml/fedlex-data-admin-ch-eli-cc-2021-802-20260301-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20260301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/it"
 
 (OVC-UFAG)
 
-del 30 novembre 2021 (Stato 1° gennaio 2025)
+del 30 novembre 2021 (Stato 1° marzo 2026)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -25,7 +25,7 @@ visto l’articolo 5 dell’ordinanza del 26 novembre 2003[^ingress-1] sul besti
 
 ordina:
 
-[^ingress-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^ingress-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 1
 
@@ -129,7 +129,7 @@ Allegato 1[^t-1]
 
 ## Classificazione della qualità di animali della specie bovina
 
-[^t-1]: Aggiornato dal n. I dell’O dell’UFAG del 28 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
+[^t-1]: Aggiornato dalle cifre I delle O dell’UFAG del 28 mar. 2024 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)) e del 9 gen. 2026, in vigore dal 1° mar. 2026 ([RU 2026 14](https://fedlex.data.admin.ch/eli/oc/2026/14)).
 
 ### 1 Valutazione
 
@@ -145,11 +145,11 @@ Gli animali da macello e da ingrasso vengono classificati nelle seguenti categor
 <tr><th>Categoria</th><th>Abbreviazione</th></tr>
 <tr><td>Vitelli fino a 240 giorni</td><td>KV</td></tr>
 <tr><td>Bestiame giovane fino a 300 giorni se utilizzato per l’ingrasso di proseguimento; la classificazione in questa categoria può essere effettuata solo sui mercati pubblici sorvegliati</td><td>JB</td></tr>
-<tr><td>Tori (torelli) 241–540 giorni</td><td>MT</td></tr>
-<tr><td>Tori (torelli) a partire da 540 giorni e buoi a partire da 730 giorni</td><td>MA</td></tr>
-<tr><td>Buoi 241–730 giorni</td><td>OB</td></tr>
-<tr><td>Manze 241–900 giorni, che non hanno partorito</td><td>RG</td></tr>
-<tr><td>Vacche e manze a partire da 900 giorni nonché manze che hanno partorito fino a 900 giorni</td><td>VK</td></tr>
+<tr><td>Tori (torelli) 241–600 giorni</td><td>MT</td></tr>
+<tr><td>Tori (torelli) a partire da 600 giorni</td><td>MA</td></tr>
+<tr><td>Buoi a partire da 240 giorni</td><td>OB</td></tr>
+<tr><td>Manze 241–900 giorni</td><td>RG</td></tr>
+<tr><td>Vacche a partire da 240 giorni e manze a partire da 900 giorni</td><td>VK</td></tr>
 </table>
 
 ### 2.2 Determinazione della classe commerciale
@@ -338,7 +338,7 @@ Allegato 4[^t-2]
 
 ## Classificazione della qualità di animali della specie ovina
 
-[^t-2]: Aggiornato dal n. I dell’O dell’UFAG del 28 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
+[^t-2]: Aggiornato dalla cifra I dell’O dell’UFAG del 28 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 ### 1 Valutazione
 
@@ -441,7 +441,7 @@ Allegato 6[^t-3]
 
 ## Omologazione di apparecchi di classificazione a ubicazione vincolata per la classificazione della qualità di animali della specie bovina
 
-[^t-3]: Aggiornato dal n. I dell’O dell’UFAG del 28 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
+[^t-3]: Aggiornato dalla cifra I dell’O dell’UFAG del 28 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
 
 - 1\. Prima di utilizzare per la prima volta uno degli apparecchi di classificazione menzionati nell’allegato 1 numero 3, l’organizzazione incaricata effettua, con il supporto scientifico, un collaudo tecnico con classificazione di riferimento e una comparazione dei valori di misurazione (validazione).
 - 2\. Per la comparazione dei valori di misurazione vigono le seguenti norme:

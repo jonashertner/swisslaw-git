@@ -4,11 +4,11 @@ title: "Ordonnance de l’OFAG du 30 novembre 2021 sur l’estimation et la clas
 short: OESC-OFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/802"
 language: fr
-version: 2025-01-01
+version: 2026-03-01
 adopted: 2021-11-30
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-802-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/802/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-2021-802-20260301-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20260301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/802/20250101/fr"
 
 (OESC-OFAG)
 
-du 30 novembre 2021 (État le 1<sup>er</sup> janvier 2025)
+du 30 novembre 2021 (État le 1<sup>er</sup> mars 2026)
 
 L’Office fédéral de l’agriculture (OFAG),
 
@@ -25,7 +25,7 @@ vu l’art. 5 de l’ordonnance du 26 novembre 2003 sur le bétail de boucherie[
 
 arrête:
 
-[^ingress-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^ingress-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 1
 
@@ -129,7 +129,7 @@ Annexe 1[^t-1]
 
 ## Évaluation de la qualité des animaux de l’espèce bovine
 
-[^t-1]: Mise à jour par le ch. I de l’O de l’OFAG du 28 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)).
+[^t-1]: Mise à jour par le ch. I de l’O de l’OFAG du 28 mars 2024 ([RO 2024 155](https://fedlex.data.admin.ch/eli/oc/2024/155)) et du 9 janv. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 14](https://fedlex.data.admin.ch/eli/oc/2026/14)).
 
 ### 1 Estimation
 
@@ -139,17 +139,17 @@ Les animaux sur pied et les carcasses sont estimés en évaluant successivement 
 
 ### 2.1 Catégories d’animaux de boucherie et d’animaux à l’engrais
 
-Compte tenu de l’âge, du sexe et des possibilités de mise en valeur des demi-carcasses, les animaux de boucherie et à l’engrais sont répartis dans les catégories suivantes:
+Compte tenu de l’âge, du sexe et des possibilités de mise en valeur des demi-carcasses, les animaux de boucherie et les animaux à l’engrais sont répartis dans les catégories suivantes:
 
 <table>
 <tr><th>Catégorie</th><th>Abréviation</th></tr>
 <tr><td>veaux jusqu’à 240 jours</td><td>KV</td></tr>
 <tr><td>jeune bétail jusqu’à 300 jours, si les animaux sont destinés à l’engraissement; catégorisation valable seulement pour les marchés publics surveillés</td><td>JB</td></tr>
-<tr><td>taureaux, de 241 à 540 jours</td><td>MT</td></tr>
-<tr><td>taureaux de plus de 540 jours et bœufs de plus de 730 jours</td><td>MA</td></tr>
-<tr><td>bœufs, de 241 à 730 jours</td><td>OB</td></tr>
-<tr><td>génisses n’ayant pas encore vêlé, de 241 à 900 jours</td><td>RG</td></tr>
-<tr><td>vaches et génisses de plus de 900 jours et génisses ayant vêlé, jusqu’à 900 jours</td><td>VK</td></tr>
+<tr><td>taureaux de 241 à 600 jours</td><td>MT</td></tr>
+<tr><td>taureaux de plus de 600 jours</td><td>MA</td></tr>
+<tr><td>bœufs de plus de 240 jours</td><td>OB</td></tr>
+<tr><td>génisses de 241 à 900 jours</td><td>RG</td></tr>
+<tr><td>vaches de plus de 240 jours et génisses de plus de 900 jours</td><td>VK</td></tr>
 </table>
 
 ### 2.2 Détermination de la classe commerciale
