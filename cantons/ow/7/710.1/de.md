@@ -1,31 +1,32 @@
 ---
 canton: OW
 number: "710.1"
-title: Baugesetz
-short: BauG
+title: Planungs- und Baugesetz
+short: PBG
 language: de
-version: 2020-09-01
-valid_until: 2026-02-28
-version_adopted: 2019-10-24
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 2025-12-04
 in_force: 2026-03-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/710.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1776/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1988/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Baugesetz
+# Planungs- und Baugesetz
 
-(BauG)
+(PBG)
 
-vom 12.06.1994 (Stand 01.09.2020)
+vom 04.12.2025 (Stand 01.03.2026)
 
-Das Volk des Kantons Obwalden erlässt,
+Der Kantonsrat des Kantons Obwalden,
 
-gestützt auf Artikel 36 Absatz 1 des Bundesgesetzes über die Raumplanung vom 22. Juni 1979[^ingress-1] sowie Artikel 31 und Artikel 35 Absatz 4 der Kantonsverfassung vom 19. Mai 1968[^ingress-2],
+in Ausführung des Bundesgesetzes über die Raumplanung vom 22. Juni 1979[^ingress-1],
 
-als Gesetz:
+gestützt auf Artikel 31 und Artikel 35 Absatz 4 der Kantonsverfassung vom 19. Mai 1968[^ingress-2],
+
+beschliesst:
 
 [^ingress-1]: SR [700](https://db.clex.ch/link/Bund/700/de)
 [^ingress-2]: GDB [101.0](http://gdb.ow.ch/data/101.0/de)
@@ -34,304 +35,534 @@ als Gesetz:
 
 #### Art. 1
 
-**Zweck und Geltungsbereich**
+**Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt eine ausgewogene und haushälterische Nutzung des Bodens sowie eine sinnvolle und den Bedürfnissen der Bevölkerung und Wirtschaft dienende Besiedlung des Kantons, unter Wahrung der natürlichen Lebensgrundlagen, der Ortsbilder und der Schönheit und Eigenart der Landschaft.
+<sup>1</sup> Dieses Gesetz dient der Umsetzung des Bundesrechts über die Raumplanung[^1-1] und bildet die Grundlage für planungs- und baurechtliche Massnahmen des Kantons und der Gemeinden.
 
-<sup>2</sup> Es regelt die Anforderungen, die aus Gründen der Raumplanung, der Bausicherheit und Bauordnung, der sparsamen Energieverwendung und der Umwelt an Bauten und Anlagen zu stellen sind.
+<sup>2</sup> Es bezweckt eine haushälterische Nutzung des Bodens sowie eine sinnvolle und den Bedürfnissen der Bevölkerung und Wirtschaft dienende Besiedlung des Kantons unter Wahrung der natürlichen Lebensgrundlagen, der Ortsbilder und der Schönheit und Eigenart der Landschaft.
 
-<sup>3</sup> In diesem Gesetz gelten als Rechtsbegriffe: Eigentümer sowohl für Eigentümerinnen und Eigentümer, Nachbar sowohl für Nachbarinnen und Nachbarn sowie Gesuchsteller sowohl für Gesuchstellerinnen und Gesuchsteller.
+<sup>3</sup> Es legt baurechtliche Erfordernisse an Bauten und Anlagen fest, damit diese bezüglich Sicherheit, Gesundheit, sparsamer Energieverwendung und Umweltschutz den gesellschaftlichen und technischen Anforderungen entsprechen.
+
+<sup>4</sup> Besondere Bestimmungen, wie jene über den Wald, den Natur- und Heimatschutz, den Brandschutz sowie den Gewässer- und Umweltschutz, bleiben vorbehalten.
+
+[^1-1]: Bundesgesetz über die Raumplanung (RPG; SR [700](https://db.clex.ch/link/Bund/700/de)), Raumplanungsverordnung (RPV; SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
 
 #### Art. 2
 
-**Aufgaben und Organisation des Kantons a. Aufgaben**
+**Organisation**
 
-<sup>1</sup> Der Kanton führt die kantonale Richtplanung durch und erlässt die kantonalen Nutzungs- und Schutzpläne. Er erarbeitet die dazu nötigen kantonalen Grundlagen, wie Inventare, Sachpläne und Konzepte. Er prüft und koordiniert die Planungen der Gemeinden.
+<sup>1</sup> Der Regierungsrat übt die Aufsicht aus über die Anwendung des Planungsrechts und des öffentlichen Baurechts.
+
+<sup>2</sup> Für kantonale Aufgaben in Planungs- und Bausachen ist das Bau- und Raumentwicklungsdepartement zuständig, soweit das kantonale Recht nichts anderes bestimmt.
+
+<sup>3</sup> Für kommunale Aufgaben in Planungs- und Bausachen regeln die Gemeinden die Zuständigkeiten im Bau- und Zonenreglement, soweit dieses Gesetz nichts anderes bestimmt. Fehlt eine Regelung im Bau- und Zonenreglement und weist dieses Gesetz die Kompetenz nicht einer bestimmten Behörde oder Stelle der Gemeinde zu, so ist der Gemeinderat zuständig.
 
 #### Art. 3
 
-**b. Kantonsrat**
+**Digitalisierung**
 
-<sup>1</sup> Der Kantonsrat ist zuständig für:
+<sup>1</sup> Der Regierungsrat erlässt Ausführungsbestimmungen über die Digitalisierung in Planungs- und Bausachen.
 
-- a. die Genehmigung des kantonalen Richtplans, wobei er von den kantonalen Grundlagen Kenntnis nimmt;
-- b. die Genehmigung der kantonalen Nutzungs- und Schutzpläne mit den dazugehörenden Bestimmungen.
+<sup>2</sup> Er kann das elektronische Verfahren und die elektronische Auflage als massgeblich erklären und erlässt insbesondere Bestimmungen über:
+
+- a. das elektronische Verfahren, inklusive die elektronische Auflage von Plänen und Gesuchen im Internet;
+- b. die Rechtsverbindlichkeit von Plänen, Verfügungen und Mitteilungen in elektronischer Form;
+- c. die Datenmodelle von Plänen und das Format von Eingaben;
+- d. das elektronische Bewilligungs-, Einsprache- und Beschwerdeverfahren.
+
+<sup>3</sup> Bei elektronischen Verfahren und Plänen kann auf das Erfordernis von Unterschriften verzichtet oder diese können durch andere Authentifizierungsformen ersetzt werden.
+
+<sup>4</sup> Dem Schutz der Daten und deren Integrität sowie dem Schutz der Persönlichkeits- und Immaterialgüterrechte ist Beachtung zu schenken. Personendaten können im Rahmen der elektronischen Auflage zugänglich gemacht werden, soweit dies für die Bekanntmachung notwendig ist[^3-1]. Die Einsicht in Akten und Pläne auf elektronischem Weg kann eingeschränkt und/oder von einer Registrierung oder Authentifizierung abhängig gemacht werden.
+
+[^3-1]: Art. 7 Abs. 3 Bundesgesetz über den Datenschutz (DSG; SR [235.1](https://db.clex.ch/link/Bund/235.1/de))
+
+## 2. Planung
+
+### 2.1 Grundlagen
 
 #### Art. 4
 
-**c. Regierungsrat**
+**Inhalt, Verbindlichkeit und Verfahren**
 
-<sup>1</sup> Dem Regierungsrat obliegt die Aufsicht über die Raumplanung und das Bauen. Er ist insbesondere zuständig für:
+<sup>1</sup> Kanton und Gemeinden erarbeiten die Grundlagen für ihre Planungen wie Inventare und Konzepte. Ihnen kommt keine Rechtswirkung zu.
 
-- a. den Erlass des kantonalen Richtplanes;
-- b. den Erlass der kantonalen Nutzungs- und Schutzpläne;
-- c. die Festlegung der massgebenden kantonalen Grundlagen, wie Inventare, Sachpläne und Konzepte;
-- d. die Genehmigung der Ortsplanungen und der nach Art. 18 Abs. 9 und 10 dieses Gesetzes genehmigungsbedürftigen Quartierpläne, soweit Letztere nicht vom zuständigen Departement gemäss Art. 5 Abs. 1 Bst. b dieses Gesetzes genehmigt werden können;
-- e. den Erlass von Planungszonen im kantonalen Zuständigkeitsbereich und die Verlängerung kommunaler Planungszonen;
-- f. die Genehmigung des gewerbsmässigen Abbaus von Steinen und Erden;
-- g. die Genehmigung von Ausnahmebewilligungen im Rahmen von Beschwerdeverfahren;
-- h. den Erlass von Ausführungsbestimmungen zum Vollzug von Art. 49 dieses Gesetzes und von Art. 45 Abs. 2, 3 und 5 des Energiegesetzes vom 30. September 2016[^4-1] sowie zur kantonalen Energieplanung;
-- h1. die Erstellung einer kantonalen Energieplanung unter Einbezug der Gemeinden, der Energieversorgungsunternehmen und der Energieproduzenten; diese sowie die Grossverbraucher haben dem Kanton sämtliche Auskünfte zu erteilen und Daten zu liefern, welche er für die Erarbeitung der kantonalen Energieplanung benötigt. Die kantonalen Behörden haben den Datenschutz sowie das Geschäftsgeheimnis zu respektieren;
-- i. die Bewilligung von Kantonsbeiträgen nach Art. 49 Abs. 2 dieses Gesetzes im Rahmen des Staatsvoranschlags.
+<sup>2</sup> Das von den Gemeinden zu erarbeitende räumliche Entwicklungskonzept stellt eine massgebende Grundlage für deren Planung dar. Es kann dem Bau- und Raumentwicklungsdepartment zur Stellungnahme unterbreitet werden.
 
-[^4-1]: SR [730.0](https://db.clex.ch/link/Bund/730.0/de)
+<sup>3</sup> Die massgebenden Grundlagen werden vom Regierungsrat für die kantonalen Planungen und vom Gemeinderat für die kommunalen Planungen festgelegt.
+
+### 2.2 Richtplanung
+
+### 2.2.1 Kantonaler Richtplan
 
 #### Art. 5
 
-**d. Zuständiges Departement**
+**Inhalt und Verbindlichkeit**
 
-<sup>1</sup> Soweit keine andere kantonale Vollzugsbehörde bestimmt ist, vollzieht das zuständige Departement die Aufgaben auf dem Gebiet des Planungs- und Baurechts. Es ist insbesondere zuständig für:
+<sup>1</sup> Der kantonale Richtplan gibt in Karte und Text darüber Auskunft, wie sich das Kantonsgebiet räumlich entwickeln soll. Kanton und Gemeinden stimmen ihre raumwirksamen Tätigkeiten darauf ab.
 
-- a. die Erteilung von Ausnahmebewilligungen für Bauten und Anlagen ausserhalb der Bauzonen[^5-1];
-- b. die Genehmigung von Änderungen an vom Regierungsrat genehmigten Quartierplänen, sofern gegen diese Änderungen keine Beschwerden durch den Regierungsrat zu entscheiden sind;
-- c. die Genehmigung der von den Gemeinden erteilten, genehmigungsbedürftigen baurechtlichen Ausnahmebewilligungen.
+<sup>2</sup> Mit der Genehmigung durch den Kantonsrat wird der kantonale Richtplan für die Behörden des Kantons und der Gemeinden verbindlich.
 
-[^5-1]: Art. 24 ff. RPG, SR [700](https://db.clex.ch/link/Bund/700/de)
+<sup>3</sup> Die massgebenden Grundlagen, der Mindestinhalt sowie die Verbindlichkeit des kantonalen Richtplans für die Nachbarkantone und den Bund ergeben sich aus dem Raumplanungsrecht des Bundes[^5-1].
+
+[^5-1]: Art. 6 ff. RPG (SR [700](https://db.clex.ch/link/Bund/700/de)); Art. 4 ff. RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
 
 #### Art. 6
 
-**Aufgaben und Organisation der Gemeinden a. Aufgaben**
+**Verfahren a. Erarbeitung**
 
-<sup>1</sup> Die Gemeinden führen die Ortsplanung durch. Sie sorgen dafür, dass die Nutzung des Bodens und die zu erstellenden Bauten und Anlagen mit der erwünschten räumlichen Ordnung übereinstimmen.
-
-<sup>2</sup> Sie führen die Neu- und Umbauten sowie Gebäudeabbrüche laufend im Gebäude- und Wohnungsregister (GWR) nach und können zur Bestimmung und Nachführung des Wohnungsidentifikators auf Kosten der Gebäude- und Wohnungseigentümer eine physische Wohnungsnummerierung einführen.
+<sup>1</sup> Das Bau- und Raumentwicklungsdepartement erarbeitet den kantonalen Richtplan in Zusammenarbeit mit den kantonalen Amtsstellen, die raumwirksame Aufgaben erfüllen. Betroffene Gemeinden, Nachbarkantone, der Bund sowie weitere Träger raumwirksamer Aufgaben und beschwerdeberechtigte Organisationen werden sachgerecht einbezogen.
 
 #### Art. 7
 
-**b. Organisation**
+**b. Information und Mitwirkung**
 
-<sup>1</sup> In diesem Gesetz und seinen Ausführungserlassen werden unter dem Begriff Gemeinde die Einwohnergemeinden verstanden.
+<sup>1</sup> Der Regierungsrat sorgt für die Information und Mitwirkung[^7-1] der Bevölkerung.
 
-<sup>2</sup> Dem Gemeinderat obliegt die kommunale Nutzungsplanung. Er ist insbesondere zuständig für:
+<sup>2</sup> Auf die Mitwirkung wird im Amtsblatt hingewiesen. Sie dauert 90 Tage. Personen, Organisationen und Behörden können im Rahmen der Mitwirkung schriftlich und begründet Anregungen und Vorschläge einreichen.
 
-- a. die Erarbeitung der Ortsplanung;
-- b. den Vollzug des Baubewilligungsverfahrens;
-- c. den Erlass und die Genehmigung von Quartierplänen, unter Vorbehalt von Art. 18 Abs. 9 und 10 dieses Gesetzes;
-- d. den Erlass von Planungszonen für genau bezeichnete Gebiete im Zuständigkeitsbereich der Gemeinde für längstens fünf Jahre.
-
-<sup>3</sup> Der Gemeinderat kann die Bewilligung von Bauvorhaben von geringer Bedeutung einer Kommission übertragen, deren Entscheid an den Gemeinderat weiterziehbar ist.
-
-<sup>4</sup> Die Gemeindeversammlung ist für den Erlass des Baureglementes und des Zonenplanes zuständig.
-
-## 2. Planungsrecht
-
-### 2.1. Kantonale Richtplanung
+[^7-1]: Art. 4 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
 
 #### Art. 8
 
-**Aufgabe und Verbindlichkeit**
+**c. Erlass und Genehmigung**
 
-<sup>1</sup> Die kantonale Richtplanung koordiniert die raumwirksamen Tätigkeiten von Bund, Kantonen und Gemeinden im Hinblick auf die anzustrebende Entwicklung.
+<sup>1</sup> Der Regierungsrat erlässt nach allfälliger Vorprüfung durch den Bund[^8-1] den kantonalen Richtplan. Er bedarf der Genehmigung durch den Kantonsrat und den Bund[^8-2].
 
-<sup>2</sup> Der kantonale Richtplan zeigt, wie die raumwirksamen Tätigkeiten aufeinander abgestimmt sind. Er enthält Aussagen über den Planungsstand der raumwirksamen Vorhaben sowie Angaben, in welcher zeitlichen Folge und mit welchen Mitteln diese erfüllt werden.
-
-<sup>3</sup> Der kantonale Richtplan ist für die Behörden verbindlich. Er ist bei Sachplanungen und bei räumlichen Gesamtplanungen von Kanton und Gemeinden zu berücksichtigen.
-
-### 2.2. Kantonale Nutzungsplanung
+[^8-1]: Art. 10 Abs. 3 RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
+[^8-2]: Art. 11 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
 
 #### Art. 9
 
-**Aufgabe und Verbindlichkeit**
+**d. Überarbeitung, Anpassung, geringfügige Anpassung und Fortschreibung**
 
-<sup>1</sup> Der Kanton kann kantonale Nutzungs- und Schutzpläne und zugehörige Vorschriften erlassen, soweit überkommunale Interessen es erfordern, insbesondere zum Schutz von Landschaften und Tieren, Gewässern, Naturschutz- und Kulturobjekten, zur längerfristigen Versorgung mit Rohmaterialien, zur Entsorgung sowie zur Erstellung von öffentlichen Werken.
+<sup>1</sup> Für die Überarbeitung und Anpassung des kantonalen Richtplans gilt dasselbe Verfahren wie für den Erlass.
 
-<sup>2</sup> Die kantonalen Nutzungs- und Schutzpläne müssen sich auf Gebiete und Objekte beziehen, die im kantonalen Richtplan enthalten sind oder sich auf Vorgaben des Bundesrechts stützen.
+<sup>2</sup> Der Regierungsrat kann für einzelne Teile des kantonalen Richtplans geringfügige Anpassungen vornehmen. Geringfügig sind Anpassungen, bei denen keine wesentlichen Auswirkungen auf Raum und Umwelt zu erwarten sind. Sie bedürfen weder der Mitwirkung noch der Genehmigung durch den Kantonsrat.
 
-<sup>3</sup> Im Weiteren kann der Kanton im Einverständnis mit dem betreffenden Einwohnergemeinderat Zonen für Arbeitsgebiete von kantonalem Interesse mit zugehörigen Vorschriften festlegen.
+<sup>3</sup> Das Bau- und Raumentwicklungsdepartement nimmt Fortschreibungen im kantonalen Richtplan vor und teilt sie dem Bund mit[^9-1].
 
-<sup>4</sup> Die kantonalen Nutzungs- und Schutzpläne sind für jedermann verbindlich.
+[^9-1]: Art. 11 Abs. 3 RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
+
+### 2.2.2 Kommunale Richtpläne
 
 #### Art. 10
 
-**Grundlagen**
+**Inhalt und Verbindlichkeit**
 
-<sup>1</sup> Der Kanton erarbeitet die erforderlichen fachlichen Grundlagen, wie Inventare, Sachpläne und Konzepte. Ihnen kommt keine Rechtswirkung zu.
+<sup>1</sup> Die Gemeinden erlassen einen kommunalen Richtplan Erschliessung (Erschliessungsprogramm[^10-1]). Darin wird aufgezeigt wie, wann und mit welchen Gesamtkosten die Erschliessung, ihr Ausbau oder ihr Ersatz erfolgen.
 
-### 2.3. Kommunale Nutzungsplanung
+<sup>2</sup> Die Gemeinden können weitere kommunale Richtpläne erlassen. Sie geben in Karte und Text Auskunft darüber, wie sich das Gemeindegebiet räumlich entwickeln soll.
 
-### 2.3.1. Ortsplanung
+<sup>3</sup> Haben sich die Verhältnisse geändert, stellen sich neue Aufgaben oder ist eine gesamthaft bessere Lösung möglich, werden die kommunalen Richtpläne überprüft und nötigenfalls angepasst.
+
+<sup>4</sup> Kommunale Richtpläne sind für die Gemeindebehörden verbindlich.
+
+[^10-1]: Art. 19 Abs. 2 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
 
 #### Art. 11
 
-**Aufgaben**
+**Verfahren a. Erarbeitung**
 
-<sup>1</sup> Die Ortsplanung ist die räumliche Grundordnung der Gemeinde. Sie besteht aus dem Zonenplan und dem Baureglement.
+<sup>1</sup> Die Gemeinden erarbeiten ihre Richtpläne. Betroffene Nachbargemeinden, Nachbarkantone, kantonale Stellen sowie weitere Träger raumwirksamer Aufgaben und beschwerdeberechtigte Organisationen werden sachgerecht einbezogen.
 
-<sup>2</sup> Die Gemeinden erarbeiten die für die Erfüllung der Ortsplanung notwendigen Grundlagen. Sie stellen die erwünschte räumliche Ordnung und die dazu erforderliche Groberschliessung dar.
-
-<sup>3</sup> Die Gemeinden teilen das Gemeindegebiet in unterschiedliche Zonen der Grundnutzung ein und informieren im Zonenplan über kantonale Nutzungs- und Schutzpläne.
-
-<sup>4</sup> Sie berücksichtigen die Anliegen der Gestaltung und des Schutzes durch überlagerte Zonen.
-
-<sup>5</sup> Die Gemeinden sorgen dafür, dass als Bauzone ausgeschiedenes Land für die Überbauung tatsächlich zur Verfügung steht.
-
-#### Art. 11a
-
-**Sicherstellen oder Steigern der Baulandverfügbarkeit**
-
-<sup>1</sup> Der Bauzone zugewiesene Grundstücke sind innerhalb von zehn Jahren nach realisierter Groberschliessung zu überbauen, sofern keine andern längerfristigen Entwicklungsziele im Sinne von Art. 11 Abs. 2 dieses Gesetzes vorliegen. Die Frist beginnt frühestens mit Inkrafttreten dieser Bestimmung zu laufen. Die Frist steht still, wenn sich der Baubeginn aus Gründen, welche die Bauherrschaft nicht zu vertreten hat, verzögert.
-
-<sup>2</sup> Werden die Grundstücke innerhalb der in Absatz 1 festgelegten Frist nicht überbaut, so kann die Gemeinde jederzeit das gesetzliche Kaufrecht zum Verkehrswert geltend machen, sofern das öffentliche Interesse die entgegenstehenden privaten Interessen überwiegt. Will die Gemeinde das Kaufrecht ausüben, so erlässt sie eine entsprechende Verfügung. Das Kaufrecht ist im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung anzumerken. Beschwerden gegen die Feststellung des Verkehrswerts entscheidet die Schätzungskommission, alle anderen Beschwerden der Regierungsrat. Auf diesem Weg erworbene Grundstücke sind innert nützlicher Frist der Überbauung zuzuführen. Der Regierungsrat kann die Einzelheiten zum Vollzug in Ausführungsbestimmungen regeln.
-
-<sup>3</sup> Um die Baulandverfügbarkeit sicherzustellen oder zu steigern, kann die Gemeinde mit den Grundeigentümern verwaltungsrechtliche Verträge abschliessen, welche insbesondere ein Kaufrecht zugunsten der Gemeinde vor Ablauf der in Absatz 1 festgelegten Frist vorsehen.
+<sup>2</sup> Kommunale Richtpläne können dem Bau- und Raumentwicklungsdepartement zur Vorprüfung eingereicht werden.
 
 #### Art. 12
 
-**Grundsätze der Zonenordnung**
+**b. Information und Mitwirkung**
 
-<sup>1</sup> Mit Grundnutzungszonen wird die nutzungsmässige Hauptbestimmung des Bodens festgelegt. Es werden vorab Bauzonen und Nicht-Bauzonen festgelegt.
+<sup>1</sup> Der Gemeinderat sorgt für die Information und Mitwirkung[^12-1] der Bevölkerung.
 
-<sup>2</sup> Überlagerte Zonen beinhalten untergeordnete Nutzungsaspekte sowie Gestaltungs- oder Schutzaspekte.
+<sup>2</sup> Auf die Mitwirkung wird im Amtsblatt hingewiesen. Sie dauert 90 Tage. Personen, Organisationen und Behörden können im Rahmen der Mitwirkung schriftlich und begründet Anregungen und Vorschläge einreichen.
+
+[^12-1]: Art. 4 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
 
 #### Art. 13
 
-**Grundnutzungszonen**
+**c. Erlass und Genehmigung**
 
-<sup>1</sup> Als Bauzonen gelten insbesondere Wohnzonen, Wohn-Gewerbezonen, Gewerbezonen, Industriezonen, Kernzonen, Zonen für öffentliche Bauten und Anlagen, Tourismuszonen, Sport- und Freizeitzonen, Materialabbau- und Deponiezonen sowie Grünzonen.
-
-<sup>2</sup> Zu den Nicht-Bauzonen gehören die Landwirtschaftszone, die Alpwirtschaftszone und die Naturschutzzone sowie das übrige Gebiet. Das Waldareal ist durch die Waldgesetzgebung umschrieben.
+<sup>1</sup> Der Gemeinderat erlässt die kommunalen Richtpläne. Sie bedürfen der Genehmigung durch das Bau- und Raumentwicklungsdepartement.
 
 #### Art. 14
 
-**Überlagerte Zonen**
+**d. Überarbeitung und Anpassung, geringfügige Anpassung, Fortschreibung**
 
-<sup>1</sup> Als überlagerte Nutzung gelten insbesondere Kleinsiedlungen, Erholung und Tourismus, temporärer Abbau und Materialablagerungen.
+<sup>1</sup> Für die Überarbeitung und Anpassung von kommunalen Richtplänen gilt dasselbe Verfahren wie für den Erlass.
 
-<sup>2</sup> Wo wertvolle Gebiete und Objekte zu erhalten sind, werden Schutzmassnahmen in bezug auf Ortsbild, Umgebung, Kulturschutz- und Naturschutzobjekte, ökologischen Ausgleich sowie Archäologie festgelegt.
+<sup>2</sup> Der Gemeinderat kann für einzelne Teile eines kommunalen Richtplans geringfügige Anpassungen vornehmen. Geringfügig sind Anpassungen, bei denen keine wesentlichen Auswirkungen auf Raum und Umwelt zu erwarten sind. Sie bedürfen weder der Mitwirkung noch der Genehmigung durch das Bau- und Raumentwicklungsdepartment; sie sind diesem aber mitzuteilen.
 
-<sup>3</sup> Wo Naturgefahren drohen, werden Gefahrengebiete bezeichnet.
+<sup>3</sup> Die Gemeinden nehmen Fortschreibungen in kommunalen Richtplänen vor.
 
-<sup>4</sup> In Bauzonen können Gebiete mit Quartierplanpflicht bezeichnet werden.
+### 2.3 Nutzungsplanung
+
+### 2.3.1 Kantonale Nutzungspläne
 
 #### Art. 15
 
-**…**
+**Inhalt und Verbindlichkeit**
+
+<sup>1</sup> Der Kanton kann kantonale Nutzungspläne erlassen, wenn überkommunale Interessen es erfordern. Sie bestehen aus einem Plan und den dazugehörigen Zonenbestimmungen.
+
+<sup>2</sup> Kantonale Nutzungspläne werden insbesondere zur längerfristigen Versorgung mit Rohmaterialien und Energie, zur Entsorgung sowie zur Erstellung von öffentlichen Werken erlassen. Im Einverständnis mit dem betreffenden Gemeinderat können kantonale Nutzungspläne für Arbeitsgebiete von kantonalem Interesse erlassen werden.
+
+<sup>3</sup> Kantonale Nutzungspläne bedürfen der Genehmigung durch den Kantonsrat. Sie sind für alle verbindlich.
 
 #### Art. 16
 
-**Mindestnutzung**
+**Verfahren a. Erarbeitung**
 
-<sup>1</sup> Die Gemeinden können im Baureglement für bestimmte Gebiete oder in Quartierplänen verlangen, dass die Nutzungsmöglichkeiten ausgeschöpft werden oder dass eine Mindestnutzung zu erreichen ist, sofern eine verdichtete Bauweise zum Zwecke einer landsparenden Überbauung oder aus siedlungspolitischen Gründen nötig ist und anderen Grundsätzen der Raumplanung nicht widerspricht.
-
-<sup>2</sup> Wird durch eine Baueingabe das Mass der zulässigen baulichen Nutzung wesentlich unterschritten, so kann die Bewilligungsbehörde den Nachweis verlangen, dass die Nutzungsreserve ohne Beseitigung der Baute oder ohne unverhältnismässige Eingriffe in die Bausubstanz nachträglich in Anspruch genommen werden kann.
+<sup>1</sup> Das Bau- und Raumentwicklungsdepartement erarbeitet die kantonalen Nutzungspläne.
 
 #### Art. 17
 
-**Baureglement**
+**b. Information, Mitwirkung und öffentliche Auflage**
 
-<sup>1</sup> Die Gemeinden fassen ihre Vorschriften zur Planung und zum Bauen im Baureglement zusammen. Sie können für bereits überbaute und für unüberbaute Bauzonen unterschiedliche Vorschriften aufstellen.
+<sup>1</sup> Nach erfolgter Information und Mitwirkung der Bevölkerung[^17-1] legt das Bau- und Raumentwicklungsdepartement den kantonalen Nutzungsplan während 30 Tagen öffentlich auf. Die öffentliche Auflage wird im Amtsblatt bekannt gemacht.
 
-<sup>2</sup> Sie sind namentlich befugt, ein Erschliessungsreglement zu erlassen sowie siedlungspolitische Massnahmen, Gebühren, Beiträge und Ersatzabgaben vorzusehen.
+<sup>2</sup> Während der Auflagefrist kann beim Bau- und Raumentwicklungsdepartement Einsprache erhoben werden.
 
-<sup>3</sup> Die kantonalen Verfahrensvorschriften dürfen nicht abgeändert, die materiellen Bestimmungen des kantonalen Baurechts nicht gemildert werden.
+<sup>3</sup> Ab dem Tag der öffentlichen Auflage eingereichte Baugesuche dürfen nur bewilligt werden, sofern sie sowohl den aufgelegten wie auch den geltenden Nutzungs- und Schutzplänen entsprechen.
 
-### 2.3.2. Quartierplanung
+[^17-1]: Art. 4 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
 
 #### Art. 18
 
-**Quartierplan a. Begriff und Aufgabe**
+**c. Einsprachebehandlung**
 
-<sup>1</sup> Quartierpläne regeln die Überbaubarkeit von Teilgebieten der Bauzonen in Ergänzung und Verfeinerung der Grundordnung. Sie können vom Gemeinderat oder vom Grundeigentümer aufgestellt werden.
+<sup>1</sup> Das Bau- und Raumentwicklungsdepartement führt in der Regel eine Einigungsverhandlung durch. Kommt keine Einigung zustande, so entscheidet das Bau- und Raumentwicklungsdepartement über die Einsprachen.
 
-<sup>2</sup> Quartierpläne bezwecken eine siedlungsgerechte, architektonisch und erschliessungsmässig gute, der baulichen und landschaftlichen Umgebung entsprechende Überbauung von zusammenhängenden Gebieten. Bei Wohnüberbauungen ist den Erfordernissen der Wohnhygiene und Wohnqualität in besonderem Mass Rechnung zu tragen.
+<sup>2</sup> Führen Einsprachen zu wesentlichen Änderungen, so ist die öffentliche Auflage erneut durchzuführen. Betreffen unwesentliche Änderungen nur eine kleine Zahl von Einspracheberechtigten, so sind sie diesen unter Einräumung einer neuen Einsprachefrist von 30 Tagen zur Kenntnis zu bringen.
 
-<sup>3</sup> Quartierpläne können von den Vorschriften der Regelbauweise abweichen, wenn dadurch ein siedlungs- und landschaftsgestalterisch besseres sowie energieeffizienteres Ergebnis erzielt wird, die zonengemässe Nutzungsart eingehalten wird und keine überwiegenden Interessen entgegenstehen. Die Gemeinden legen im Baureglement fest, unter welchen Voraussetzungen und in welchem Umfang von der Regelbauweise abgewichen werden darf.
-
-<sup>4</sup> In Quartierplänen können zudem die baugesetzlichen Gebäudeabstände unterschritten werden, gegenüber Nachbargrundstücken jedoch nur unter Vorbehalt von Art. 23 Abs. 6[^18-1] dieses Gesetzes.
-
-<sup>5</sup> Quartierpläne können gemeinsame Anlagen für das Plangebiet vorsehen, wie Parkierungsanlagen, Energieerzeugungsanlagen, Spielplätze und Freizeiträume.
-
-<sup>6</sup> In Quartierpläne können bereits überbaute Flächen einbezogen werden, wenn damit eine sinnvolle Verdichtung und Sanierung innerhalb der bestehenden Überbauung möglich wird und eine insgesamt gute Planung gewährleistet bleibt.
-
-<sup>7</sup> Quartierpläne können die planerische Grundlage für die Durchführung der Grob- oder Feinerschliessung sowie einer Landumlegung bilden.
-
-<sup>8</sup> Die Mindestfläche für einen Quartierplan, bei dem von der Regelbauweise abgewichen werden kann, ist im Baureglement festzulegen.
-
-<sup>9</sup> Ein Quartierplan bedarf der Genehmigung des Regierungsrates beziehungsweise in Fällen gemäss Art. 5 Abs. 1 Bst. b dieses Gesetzes des zuständigen Departementes, wenn innerhalb des Quartierplanareals:
-
-- a. die Gesamthöhe von 20.0 m überschritten wird;
-- b. die traufseitige Fassadenhöhe von 15.0 m überschritten wird;
-- c. mehr als vier Vollgeschosse vorgesehen sind;
-- d. die Gebäudelänge von 36.0 m bei zwei- und mehrgeschossigen Bauten überschritten wird;
-- e. Baulinien gemäss Art. 23 Abs. 1[^18-2] dieses Gesetzes begründet oder geändert werden.
-
-<sup>10</sup> Für Quartierpläne in reinen Industriezonen besteht die Genehmigungspflicht nur, wenn die Gesamthöhe von 20.0 m überschritten wird.
-
-[^18-1]: Richtigerweise Art. 23 Abs. 7; beim Verweis auf Art. 23 Abs. 6 handelt es sich um ein gesetzgeberisches Versehen (RRB vom 14. Februar 2017 [Nr. 324])
-[^18-2]: Gemäss Botschaft des Regierungsrats zum Einführungsgesetz zum Bundesgestz über den Wald vom 3. November 2015, S. 18, wird darauf hingewiesen, dass Art. 23 Abs. 1 BauG Baulinien gegenüber Verkehrsanlagen, Leitungen, anderen Grundstücken, Gewässern, Wäldern, geschützten Hecken und Ufergehölzen, Natur- und Kulturobjekten sowie Aussichtspunkten betreffe; diese Baulinien werden aber in Art. 23 Abs. 2 BauG erwähnt
+<sup>3</sup> Gegen den Einspracheentscheid des Bau- und Raumentwicklungsdepartements kann beim Regierungsrat Beschwerde erhoben werden. Die Beschwerdebehandlung erfolgt im Rahmen des Erlassverfahrens.
 
 #### Art. 19
 
-**b. Form und Inhalt**
+**d. Erlass, Genehmigung und Beschwerdebehandlung**
 
-<sup>1</sup> Der Quartierplan besteht in der Regel aus:
+<sup>1</sup> Der Regierungsrat erlässt die kantonalen Nutzungspläne.
 
-- a. planlichen Darstellungen im Massstab 1:500 oder Massstab 1:200;
-- b. Bericht mit Berechnungen;
-- c. besonderen Bauvorschriften;
-- d. Modell (je nach Gegebenheit);
-- e. Lärmschutznachweis, sofern es ein lärmbelastetes Gebiet betrifft.
+<sup>2</sup> Der Regierungsrat unterbreitet die kantonalen Nutzungspläne dem Kantonsrat mit einem Bericht zur Genehmigung[^19-1].
 
-<sup>2</sup> Der Quartierplan weist in der Regel Bestimmungen auf über:
+<sup>3</sup> Gegen den Beschwerdeentscheid des Regierungsrats kann Beschwerde beim Verwaltungsgericht erhoben werden. Die Beschwerdefrist von 30 Tagen beginnt mit der Anzeige des Genehmigungsentscheids des Kantonsrats gegenüber den Beschwerdeberechtigten oder der Publikation im Amtsblatt.
 
-- a. Lage, Grösse, Gestaltung und Zweckbestimmung der Bauten;
-- b. Bebaubarkeit durch Baulinien oder Abstandsmasse;
-- c. zulässige Höchst- und Mindestnutzung;
-- d. Firstrichtung und Dachformen;
-- e. Materialwahl und farbliche Gestaltung;
-- f. Ausstattung mit Gemeinschaftsanlagen;
-- g. Massnahmen für behindertengerechtes Bauen;
-- h. Anordnung, Gestaltung und Bepflanzung der Freiräume;
-- i. Erschliessung, Fusswege und Parkierungsanlagen;
-- k. Versorgungs- und Entsorgungsanlagen, zentrale Energieerzeugungsanlagen;
-- l. Abweichungen von Regelbauvorschriften.
-
-<sup>3</sup> Der Quartierplan kann ferner Bestimmungen enthalten über:
-
-- a. Landumlegung und Grenzbereinigung;
-- b. Etappierung.
-
-<sup>4</sup> Der Gemeinderat kann vorschreiben, dass wichtige Fuss- und Radwegverbindungen innerhalb des Quartierplanareals öffentlich benützbar sein müssen.
-
-<sup>5</sup> Über Form und Inhalt kann die Gemeinde im Baureglement weitere Vorschriften erlassen.
+[^19-1]: Art. 47 RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
 
 #### Art. 20
 
-**Quartierplan mit Teilinhalt a. Begriff**
+**e. Anpassungen und Korrekturen**
 
-<sup>1</sup> Wo es die Verhältnisse rechtfertigen, kann sich ein Quartierplan auf die Regelung einzelner Elemente beschränken.
+<sup>1</sup> Für Anpassungen der kantonalen Nutzungspläne gelten sinngemäss die Verfahrensvorschriften gemäss Art. 16 ff. dieses Gesetzes.
+
+<sup>2</sup> Anpassungen, bei welchen keine Entscheidungsfreiheit besteht, wie technische Anpassungen aufgrund geänderter Grundlagen der amtlichen Vermessung oder Korrekturen offensichtlicher Fehler, kann der Regierungsrat ohne Mitwirkungs- und Auflageverfahren beschliessen, und sie bedürfen keiner Genehmigung durch den Kantonsrat. Die betroffenen Grundeigentümerinnen und Grundeigentümer sowie die betroffenen Gemeinden sind vorgängig anzuhören.
+
+### 2.3.2 Bau- und Zonenordnung
 
 #### Art. 21
 
-**b. Inhalt**
+**Inhalt und Verbindlichkeit**
 
-<sup>1</sup> Sind mit einem Quartierplan nur einzelne Elemente zu regeln, so kann der Quartierplan in Form und Inhalt vereinfacht werden.
+<sup>1</sup> Die Gemeinden erlassen eine Bau- und Zonenordnung. Sie besteht aus dem Zonenplan sowie dem Bau- und Zonenreglement; dieses enthält neben den Zonenbestimmungen die kommunalen Vorschriften zum Planen und Bauen.
 
-<sup>2</sup> Der Quartierplan kann sich insbesondere beschränken auf Bestimmungen über:
+<sup>2</sup> Die Bau- und Zonenordnung legt für jede Zone die Art und das Mass der Nutzung fest. Sie kann:
 
-- a. Erschliessung;
-- b. Baulinien gegenüber Strassen;
-- c. Versorgungs- und Entsorgungsanlagen.
+- a. für bereits überbaute und für unüberbaute Bauzonen unterschiedliche Masse festlegen;
+- b. bestimmen, dass in Arbeitszonen einzelne Masse im Baubewilligungsverfahren vom Gemeinderat festgelegt werden, wenn keine überwiegenden öffentlichen Interessen entgegenstehen;
+- c. bestimmen, dass in Zonen, die mit einer Ortsbildschutzzone überlagert sind, und in Zonen für öffentliche Nutzungen der Gemeinderat die Masse im Baubewilligungsverfahren festlegt;
+- d. in Bauzonen und weiteren Nutzungszonen gemäss Art. 18 Abs. 1 RPG Gebiete mit Quartierplanpflicht bezeichnen.
+
+<sup>3</sup> In der Bau- und Zonenordnung kann verlangt werden, dass die Nutzungsmöglichkeiten in bestimmten Gebieten ausgeschöpft werden oder dass eine Mindestnutzung zu erreichen ist.
+
+<sup>4</sup> Ferner können in der Bau- und Zonenordnung Beiträge und Ersatzabgaben festgelegt werden.
+
+<sup>5</sup> Die materiellen Bestimmungen des kantonalen Planungs- und Baurechts dürfen nicht gemildert, die kantonalen Verfahrensvorschriften nicht abgeändert werden.
+
+<sup>6</sup> Die Bau- und Zonenordnung bedarf der Genehmigung durch den Regierungsrat. Sie ist für alle verbindlich.
 
 #### Art. 22
 
-**Wirkung und Geltungsdauer**
+**Bauzonen**
 
-<sup>1</sup> Quartierpläne sind für jedermann verbindlich; sie sind im Grundbuch anzumerken.
+<sup>1</sup> Als Bauzonen nach Art. 15 RPG können bestimmt werden:
 
-<sup>2</sup> Die Geltungsdauer von Quartierplänen ist zu befristen. Werden sie nicht innert Frist ausgeführt, so ordnet der Gemeinderat deren Überprüfung und allenfalls eine Anpassung an geänderte Verhältnisse an.
-
-<sup>3</sup> Der Gemeinderat kann eine Anpassung bestehender, nicht befristeter Quartierpläne verlangen oder selber durchführen, wenn sich die planerischen Voraussetzungen wesentlich geändert haben.
-
-### 2.3.3. Weitere Planungsinstrumente
+- a. Wohnzonen;
+- b. Arbeitszonen;
+- c. Mischzonen;
+- d. Zentrumszonen;
+- e. Zonen für öffentliche Nutzungen;
+- f. Grünzonen;
+- g. Tourismus- und Freizeitzonen;
+- h. Verkehrszonen;
+- i. weitere Bauzonen.
 
 #### Art. 23
 
+**Nichtbauzonen a. Landwirtschaftszonen**
+
+<sup>1</sup> Als Landwirtschaftszonen nach Art. 16 RPG können bestimmt werden:
+
+- a. Landwirtschaftszonen;
+- b. Speziallandwirtschaftszonen;
+- c. Rebbauzonen;
+- d. Alpwirtschaftszonen.
+
+#### Art. 24
+
+**b. Weitere Zonen und Gebiete**
+
+<sup>1</sup> Als weitere Zonen und Gebiete ausserhalb der Bauzonen nach Art. 18 RPG können bestimmt werden:
+
+- a. Tourismus- und Freizeitzonen;
+- b. Weilerzonen;
+- c. Sonderbauzonen;
+- d. Abbau- und Deponiezonen;
+- e. Reservezonen;
+- f. Übriges Gebiet;
+- g. Verkehrsflächen;
+- h. weitere Zonen.
+
+#### Art. 25
+
+**c. Schutzzonen**
+
+<sup>1</sup> Als Schutzzonen nach Art. 17 RPG können bestimmt werden:
+
+- a. Ortsbildschutzzonen;
+- b. Archäologische Schutzzonen;
+- c. Naturschutzzonen;
+- d. Zonen der Landschaftsschutzgebiete;
+- e. Moorlandschaftszonen;
+- f. Zonen für flächenhafte Naturobjekte;
+- g. Auenschutzzonen;
+- h. Gewässerschutzzonen;
+- i. Gewässerraumzonen;
+- j. Wildruhezonen;
+- k. Freihaltezonen;
+- l. Zonen für Entlastungskorridore[^25-1];
+- m. weitere Schutzzonen.
+
+[^25-1]: Siehe Art. 12a Wasserbaugesetz (WBG; GDB [740.1](http://gdb.ow.ch/data/740.1/de))
+
+#### Art. 26
+
+**d. Zonenüberlagerung**
+
+<sup>1</sup> Weitere Zonen und Gebiete nach Art. 24 und Schutzzonen nach Art. 25 dieses Gesetzes können überlagernd ausgeschieden werden, wenn:
+
+- a. sich ihre Zwecke nicht ausschliessen oder
+- b. die Nutzung zeitlich gestaffelt erfolgt.
+
+#### Art. 27
+
+**Verfahren a. Erarbeitung und Vorprüfung**
+
+<sup>1</sup> Die Gemeinde erarbeitet die Bau- und Zonenordnung und lässt sie dem Bau- und Raumentwicklungsdepartement zur Vorprüfung zukommen. Dieses erstellt einen Vorprüfungsbericht.
+
+#### Art. 28
+
+**b. Information, Mitwirkung und öffentliche Auflage**
+
+<sup>1</sup> Nach erfolgter Information und Mitwirkung der Bevölkerung[^28-1] legt die Gemeinde die Bau- und Zonenordnung während 30 Tagen öffentlich auf. Die öffentliche Auflage wird im Amtsblatt bekannt gemacht.
+
+<sup>2</sup> Während der Auflagefrist kann beim Gemeinderat Einsprache erhoben werden.
+
+<sup>3</sup> Ab dem Tag der öffentlichen Auflage eingereichte Baugesuche dürfen nur bewilligt werden, sofern sie sowohl den aufgelegten wie auch den geltenden Nutzungs- und Schutzplänen entsprechen.
+
+[^28-1]: Art. 4 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
+
+#### Art. 29
+
+**c. Einsprachebehandlung**
+
+<sup>1</sup> Die Gemeinde führt in der Regel eine Einigungsverhandlung durch. Kommt keine Einigung zustande, so sind die Einsprachen vom Gemeinderat zu entscheiden.
+
+<sup>2</sup> Führen Einsprachen zu wesentlichen Änderungen der Bau- und Zonenordnung, so ist die öffentliche Auflage erneut durchzuführen. Betreffen unwesentliche Änderungen nur eine kleine Zahl von Einspracheberechtigten, so sind sie diesen unter Einräumung einer neuen Einsprachefrist von 30 Tagen zur Kenntnis zu bringen.
+
+#### Art. 30
+
+**d. Erlass, Genehmigung und Beschwerdebehandlung**
+
+<sup>1</sup> Der Gemeinderat erlässt die Bau- und Zonenordnung. Sie ist der Volksabstimmung zu unterbreiten.
+
+<sup>2</sup> Der Gemeinderat unterbreitet die Bau- und Zonenordnung dem Regierungsrat mit einem Bericht zur Genehmigung[^30-1], welche in begründeten Fällen schrittweise erfolgen kann. Der Regierungsrat kann die Bau- und Zonenordnung ganz oder teilweise zur Änderung an den Gemeinderat zurückweisen oder Anpassungen nach Anhörung des Gemeinderats und der in ihren schutzwürdigen Interessen Betroffenen selbst vornehmen, wenn sie von geringer Tragweite sind oder wenn keine erhebliche Entscheidungsfreiheit besteht.
+
+<sup>3</sup> Der Gemeinderat beschliesst nach erfolgter Genehmigung über das Inkrafttreten und publiziert dieses im Amtsblatt. Die Inkraftsetzung kann in begründeten Fällen schrittweise erfolgen.
+
+<sup>4</sup> Gegen den Beschluss der Stimmberechtigten kann beim Regierungsrat Beschwerde erhoben werden. Die Beschwerdebehandlung erfolgt im Rahmen des Genehmigungsverfahrens.
+
+[^30-1]: Art. 47 RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
+
+#### Art. 31
+
+**e. Anpassungen und Korrekturen sowie Anpassungen infolge von Strassen- und Wasserbauprojekten**
+
+<sup>1</sup> Für Anpassungen der Bau- und Zonenordnung gelten sinngemäss die Verfahrensvorschriften gemäss Art. 27 ff. dieses Gesetzes.
+
+<sup>2</sup> Anpassungen, bei welchen keine Entscheidungsfreiheit besteht, wie technische Anpassungen aufgrund geänderter Grundlagen der amtlichen Vermessung oder Korrekturen offensichtlicher Fehler, kann der Gemeinderat ohne Mitwirkungs-, Vorprüfungs- und Auflageverfahren beschliessen. Die betroffenen Grundeigentümerinnen und Grundeigentümer sind vorgängig anzuhören. Solche Anpassungen sind dem Bau- und Raumentwicklungsdepartement mit einem Bericht[^31-1] zur Genehmigung zu unterbreiten.
+
+<sup>3</sup> Anpassungen der Bau- und Zonenordnung infolge rechtskräftig bewilligter Strassen- und Wasserbauprojekte[^31-2] oder plangenehmigungspflichtiger Vorhaben nach Bundesrecht erfolgen unmittelbar gestützt auf diese besonderen Bewilligungen und Pläne.
+
+[^31-1]: Art. 47 RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
+[^31-2]: Art. 17 und 19 Strassenverordnung (GDB [720.11](http://gdb.ow.ch/data/720.11/de)), Art. 6 Abs. 2 Bst. c WBG (GDB [740.1](http://gdb.ow.ch/data/740.1/de))
+
+### 2.3.3 Quartierpläne
+
+#### Art. 32
+
+**Zweck**
+
+<sup>1</sup> Quartierpläne bezwecken eine siedlungsgerechte, ortsbaulich, architektonisch und erschliessungsmässig sehr gute, der baulichen und landschaftlichen Umgebung angepasste Überbauung von zusammenhängenden Gebieten. Bei der Bereitstellung von Wohnraum ist den Erfordernissen der Wohnqualität in besonderem Mass Rechnung zu tragen.
+
+#### Art. 33
+
+**Inhalt und Verbindlichkeit**
+
+<sup>1</sup> Quartierpläne regeln in Ergänzung und Verfeinerung der Bau- und Zonenordnung die Bebaubarkeit von Teilgebieten in Bauzonen und weiteren Nutzungszonen gemäss Art. 18 Abs. 1 RPG. Sie bestehen aus einem Plan, besonderen Bauvorschriften und einem Bericht[^33-1].
+
+<sup>2</sup> Die Gemeinden legen die Mindestfläche für einen Quartierplan fest.
+
+<sup>3</sup> Quartierpläne:
+
+- a. sehen gemeinsame Anlagen für das Plangebiet vor, wie Parkierungsanlagen, energietechnische Anlagen, Grünflächen oder naturnahe Freiräume, Spielplätze und Gemeinschaftsräume;
+- b. sollen bereits überbaute Flächen einbeziehen, wenn damit eine sinnvolle Verdichtung und Weiterentwicklung innerhalb der bestehenden Überbauung möglich wird;
+- c. können die planerische Grundlage für die Durchführung der Grob- oder Feinerschliessung sowie einer Landumlegung bilden;
+- d. können die Ausschöpfung der Nutzungsmöglichkeiten oder eine Mindestnutzung vorschreiben;
+- e. können vorschreiben, dass wichtige Fuss- und Radwegverbindungen innerhalb des Quartierplanareals öffentlich benützbar sind.
+
+<sup>4</sup> Wo es die Verhältnisse rechtfertigen, kann ein Quartierplan mit Teilinhalt erlassen werden, der sich insbesondere auf Erschliessung, Baulinien oder Versorgungs- und Entsorgungsanlagen beschränkt.
+
+<sup>5</sup> Quartierpläne sind für alle verbindlich.
+
+[^33-1]: Art. 47 RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
+
+#### Art. 34
+
+**Abweichungen von der Regelbauweise**
+
+<sup>1</sup> Wenn in den unter Art. 32 dieses Gesetzes aufgeführten Kriterien ein sehr gutes Ergebnis erzielt wird, die zonengemässe Nutzungsart eingehalten ist und keine überwiegenden Interessen entgegenstehen, kann innerhalb des Quartierplans von den baugesetzlichen Mindestabständen abgewichen werden. Unter denselben Voraussetzungen kann zudem von den Vorschriften der Regelbauweise höchstens wie folgt abgewichen werden:
+
+- a. 3,5 m von der maximalen Gesamthöhe und der maximalen Fassadenhöhe;
+- b. ein Drittel der maximalen Gebäudelänge.
+
+<sup>2</sup> Die Gemeinden können unter Einhaltung der Voraussetzungen gemäss Absatz 1 weitere Abweichungen von der Regelbauweise im Bau- und Zonenreglement festlegen.
+
+<sup>3</sup> Bei Quartierplänen mit Teilinhalt sind Abweichungen von der Regelbauweise nicht zulässig. Ausgenommen sind Baulinien, bei welchen kantonale Mindestvorschriften unterschritten werden.
+
+#### Art. 35
+
+**Genehmigungspflichtige Quartierpläne**
+
+<sup>1</sup> Ein Quartierplan bedarf der Genehmigung des Regierungsrats beziehungsweise in Fällen gemäss Art. 42 Abs. 2 dieses Gesetzes des Bau- und Raumentwicklungsdepartements, wenn innerhalb des Quartierplanareals:
+
+- a. eine Gesamthöhe von 16,0 m bei Gebäuden mit einem Flachdach oder eine Gesamthöhe von 20,0 m bei allen übrigen Dachformen überschritten wird;
+- b. die traufseitige Fassadenhöhe von 16,0 m überschritten wird;
+- c. die Gebäudelänge von 36,0 m überschritten wird;
+- d. Baulinien gemäss Art. 43 dieses Gesetzes begründet oder geändert werden, die kantonale Mindestabstände unterschreiten;
+- e. Baubereiche nach Art. 44 dieses Gesetzes begründet oder geändert werden, die kantonale Mindestabstände unterschreiten.
+
+<sup>2</sup> Von der Genehmigungspflicht ausgenommen sind Quartierpläne, welche die Regelbauweise gemäss Bau- und Zonenordnung einhalten.
+
+<sup>3</sup> Für Quartierpläne in Arbeitszonen und in Zonen für öffentliche Nutzungen besteht die Genehmigungspflicht nur, wenn die Gesamthöhe von 20,0 m überschritten oder Baulinien und Baubereiche begründet werden, mit denen kantonale Mindestabstände unterschritten werden.
+
+#### Art. 36
+
+**Umsetzung, Anpassung und Anmerkung im Grundbuch**
+
+<sup>1</sup> Die Gemeinden setzen eine Umsetzungsfrist für Quartierpläne.
+
+<sup>2</sup> Ist die Umsetzungsfrist abgelaufen, so kann erst wieder eine Baubewilligung erteilt werden, nachdem der Quartierplan durch die Gemeinde überprüft und soweit notwendig angepasst wurde.
+
+<sup>3</sup> Haben sich die planerischen Voraussetzungen wesentlich geändert, so kann die Gemeinde eine Anpassung oder Aufhebung bestehender Quartierpläne verlangen oder selbst durchführen.
+
+<sup>4</sup> Quartierpläne sind im Grundbuch anzumerken.
+
+#### Art. 37
+
+**Einzureichende Unterlagen und nötige Angaben**
+
+<sup>1</sup> Es sind folgende Unterlagen einzureichen:
+
+- a. Pläne im Massstab 1:500 oder 1:200;
+- b. besondere Bauvorschriften;
+- c. erläuternder Bericht und Berechnungen;
+- d. nach Bedarf Modell;
+- e. nach Bedarf Lärmschutznachweis und weitere Nachweise.
+
+<sup>2</sup> Die Unterlagen enthalten in der Regel Angaben über:
+
+- a. Lage, Grösse und Zweckbestimmung der Bauten und Anlagen;
+- b. Gestaltung der Bauten und Anlagen wie Dachformen, Firstrichtungen, Materialwahl, farbliche Gestaltung;
+- c. Bebaubarkeit durch Baulinien, Baubereiche oder Abstände;
+- d. Abweichungen von der Regelbauweise;
+- e. zulässige Höchst- und Mindestnutzung;
+- f. gemeinsame Anlagen wie Parkierungsanlagen, energietechnische Anlagen, Spielplätze und Gemeinschaftsräume;
+- g. verkehrsmässige Erschliessung inklusive Fuss- und Velowege, Feuerwehrzufahrten;
+- h. Anlagen zur Ver- und Entsorgung;
+- i. Anordnung, Gestaltung und Bepflanzung der Freiräume;
+- j. Massnahmen für hindernisfreies Bauen;
+- k. Landumlegung und Grenzbereinigung;
+- l. Etappierung.
+
+<sup>3</sup> Die Gemeinde kann in der Bau- und Zonenordnung weitere Vorschriften erlassen sowie im Einzelfall zusätzliche Unterlagen oder Angaben verlangen.
+
+#### Art. 38
+
+**Verfahren a. Erarbeitung und Vorprüfung**
+
+<sup>1</sup> Quartierpläne werden von der Gemeinde oder von den Grundeigentümerinnen und Grundeigentümern erarbeitet. Wo es die Verhältnisse rechtfertigen, kann der Gemeinderat ein Varianzverfahren verlangen.
+
+<sup>2</sup> Auf Gesuch der Grundeigentümerinnen und Grundeigentümer, denen die Mehrheit des in den Quartierplan einzubeziehenden Bodens gehört, kann die Gemeinde den Quartierplan erarbeiten.
+
+<sup>3</sup> Bedarf der Quartierplan der Genehmigung des Regierungsrats, so stellt die Gemeinde diesen dem Bau- und Raumentwicklungsdepartement zur Vorprüfung zu. Dieses erstellt einen Vorprüfungsbericht.
+
+<sup>4</sup> Bedarf der Quartierplan keiner Genehmigung des Regierungsrats, so stellt die Gemeinde diesen dem Bau- und Raumentwicklungsdepartement zur Einholung der Stellungnahmen der betroffenen kantonalen Amtsstellen zu.
+
+#### Art. 39
+
+**b. Information, Mitwirkung und öffentliche Auflage**
+
+<sup>1</sup> Nach erfolgter Information und Mitwirkung[^39-1] der Bevölkerung legt die Gemeinde den Quartierplan während 30 Tagen öffentlich auf. Die öffentliche Auflage wird im Amtsblatt bekannt gemacht.
+
+<sup>2</sup> Während der Auflagefrist kann beim Gemeinderat Einsprache erhoben werden.
+
+[^39-1]: Art. 4 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
+
+#### Art. 40
+
+**c. Einsprachebehandlung**
+
+<sup>1</sup> Die Gemeinde führt in der Regel eine Einigungsverhandlung durch. Kommt keine Einigung zustande, so sind die Einsprachen vom Gemeinderat zu entscheiden.
+
+<sup>2</sup> Führen Einsprachen zu wesentlichen Änderungen des Quartierplans, so ist die öffentliche Auflage erneut durchzuführen. Betreffen unwesentliche Änderungen nur eine kleine Zahl von Einspracheberechtigten, so werden sie diesen unter Einräumung einer neuen Einsprachefrist von 30 Tagen zur Kenntnis gebracht.
+
+#### Art. 41
+
+**d. Erlass, Genehmigung und Beschwerdebehandlung**
+
+<sup>1</sup> Der Gemeinderat erlässt den Quartierplan. Gegen den Beschluss des Gemeinderats kann beim Regierungsrat Beschwerde erhoben werden.
+
+<sup>2</sup> Bedarf ein Quartierplan der Genehmigung des Regierungsrats, so unterbreitet der Gemeinderat ihn zusammen mit einem Bericht[^41-1] dem Regierungsrat.
+
+[^41-1]: Art. 47 RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
+
+#### Art. 42
+
+**e. Anpassung und Aufhebung**
+
+<sup>1</sup> Für Anpassungen und die Aufhebung eines Quartierplans gelten die Verfahrensvorschriften gemäss Art. 38 ff. dieses Gesetzes.
+
+<sup>2</sup> Die Genehmigung der Anpassung oder Aufhebung an vom Regierungsrat genehmigten Quartierplänen, gegen welche keine Beschwerden erhoben wurden, erfolgt durch das Bau- und Raumentwicklungsdepartement.
+
+<sup>3</sup> Wird nur ein Teilbereich des Quartierplans von einer Anpassung erfasst, so können die davon betroffenen Grundeigentümerinnen und Grundeigentümer diese bei der Gemeinde beantragen.
+
+<sup>4</sup> Bauliche Massnahmen von untergeordneter Bedeutung, die im Quartierplan nicht enthalten sind und denen keine öffentlichen oder privaten Interessen entgegenstehen, können ohne Anpassung des Quartierplans vom Gemeinderat bewilligt werden.
+
+### 2.3.4 Baulinien und Baubereich
+
+#### Art. 43
+
 **Baulinien**
 
-<sup>1</sup> Baulinien begrenzen die Bebauung und dienen insbesondere der Sicherung bestehender und geplanter Anlagen und Flächen sowie der baulichen Gestaltung.
-
-<sup>2</sup> Baulinien begrenzen die Bebaubarkeit der Grundstücke gegenüber:
+<sup>1</sup> Baulinien begrenzen die Bebaubarkeit der Grundstücke gegenüber:
 
 - a. vorhandenen oder projektierten Verkehrsanlagen und Leitungen;
 - b. anderen Grundstücken;
@@ -339,104 +570,186 @@ als Gesetz:
 - d. Wäldern, geschützten Hecken und Ufergehölzen;
 - e. Natur- und Kulturobjekten sowie Aussichtspunkten.
 
-<sup>3</sup> Baulinien können im Rahmen von Zonenplänen oder Quartierplänen festgelegt werden.
+<sup>2</sup> Baulinien können Abstände zwischen Bauten innerhalb des Quartierplanareals festlegen.
 
-<sup>4</sup> Im Rahmen von Quartierplänen können Baulinien zudem den Mindestabstand zwischen Bauten festlegen.
+<sup>3</sup> Aus ortsbaulichen oder gestalterischen Gründen kann festgelegt werden, dass direkt an die Baulinie zu bauen ist.
 
-<sup>5</sup> Im massgebenden Plan kann festgelegt werden, ob und wo aus gestalterischen Gründen an die Baulinie zu bauen ist.
+<sup>4</sup> Für unterirdische Bauten, Unterniveaubauten, oberirdische Bauten und bei einzelnen Stockwerken können unterschiedliche Baulinien festgelegt werden.
 
-<sup>6</sup> Für unterirdische Bauten, Unterniveaubauten, oberirdische Bauten und bei einzelnen Stockwerken können unterschiedliche Baulinien festgelegt werden.
+<sup>5</sup> Baulinien werden in kantonalen Nutzungs- und Schutzplänen, der Bau- und Zonenordnung oder Quartierplänen festgelegt.
 
-<sup>7</sup> Die durch Baulinien festgelegten Abstände gehen allen anderen öffentlich-rechtlichen Abstandsbestimmungen vor. Werden in Quartierplänen die ordentlichen Abstände zu Nachbargrundstücken verringert, so ist eine entsprechende Dienstbarkeit zu Lasten der betroffenen Nachbargrundstücke erforderlich.
-
-#### Art. 23a
+#### Art. 44
 
 **Baubereich**
 
 <sup>1</sup> Der Baubereich umfasst den bebaubaren Bereich, der abweichend von Abstandsvorschriften und Baulinien im Rahmen von Zonenplänen oder Quartierplänen festgelegt wird.
 
-#### Art. 24
+<sup>2</sup> Art. 43 dieses Gesetzes gilt sinngemäss.
 
-**Landumlegung**
+### 2.3.5 Planungszonen
 
-<sup>1</sup> Umlegungen von überbauten und nicht überbauten Grundstücken können von Amtes wegen oder müssen auf Antrag einer Mehrheit der beteiligten Grundeigentümer, denen die Mehrheit der in das Landumlegungsverfahren einzubeziehenden Landfläche gehört, durch den Gemeinderat angeordnet werden:
+#### Art. 45
 
-- a. zur sinnvollen Nutzungsentflechtung im Rahmen der Ortsplanung zwischen Baugrundstücken und nicht der Überbauung dienenden Grundstücken;
-- b. zur sinnvollen Überbauung und Erschliessung eines Gebietes im Rahmen einer Quartierplanung;
-- c. wenn auf diesem Weg eine den Zielen der Raumplanung besser entsprechende Nutzungsordnung verwirklicht werden kann oder das öffentliche Interesse die Sanierung eines überbauten Gebietes erfordert;
+**Inhalt und Verbindlichkeit**
+
+<sup>1</sup> Müssen kantonale Nutzungspläne oder die Bau- und Zonenordnung angepasst werden oder liegen sie noch nicht vor, so kann für genau bezeichnete Gebiete eine Planungszone als vorsorgliche Massnahme erlassen werden. Innerhalb der Planungszone darf nichts unternommen werden, was dem voraussichtlichen Nutzungsziel widerspricht.
+
+<sup>2</sup> In begründeten Fällen kann eine Planungszone über die vom Bund vorgegebene Maximaldauer von fünf Jahren verlängert werden.[^45-1]
+
+<sup>3</sup> Planungszonen sind für alle verbindlich.
+
+[^45-1]: Art. 27 Abs. 2 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
+
+#### Art. 46
+
+**Verfahren**
+
+<sup>1</sup> Planungszonen des Kantons werden vom Bau- und Raumentwicklungsdepartement erarbeitet und vom Regierungsrat erlassen. Kommunale Planungszonen werden von der Gemeinde erarbeitet und vom Gemeinderat erlassen. Für die Verlängerung von Planungszonen ist immer der Regierungsrat zuständig.
+
+<sup>2</sup> Beschlüsse über den Erlass einer Planungszone sowie über die Verlängerung bestehender Planungszonen werden im Amtsblatt veröffentlicht und während 30 Tagen öffentlich aufgelegt. Während der Auflagefrist kann gegen kommunale Planungszonen beim Gemeinderat und gegen kantonale Planungszonen sowie gegen die Verlängerung kommunaler und kantonaler Planungszonen beim Regierungsrat Einsprache erhoben werden.
+
+<sup>3</sup> Bei kantonalen Planungszonen führt das Bau- und Raumentwicklungsdepartement in der Regel eine Einigungsverhandlung durch. Kommt keine Einigung zustande, so sind die Einsprachen vom Regierungsrat zu entscheiden. Bei kommunalen Planungszonen führt die Gemeinde in der Regel eine Einigungsverhandlung durch. Kommt keine Einigung zustande, so sind die Einsprachen vom Gemeinderat zu entscheiden.
+
+<sup>4</sup> Führen Einsprachen zu wesentlichen Änderungen, so ist die öffentliche Auflage erneut durchzuführen. Betreffen unwesentliche Änderungen nur eine kleine Zahl von Einspracheberechtigten, so werden sie diesen unter Einräumung einer neuen Einsprachefrist von 30 Tagen zur Kenntnis gebracht.
+
+<sup>5</sup> Einsprachen und Beschwerden haben keine aufschiebende Wirkung.
+
+### 2.4 Landumlegung
+
+#### Art. 47
+
+**Inhalt**
+
+<sup>1</sup> Landumlegungen können vorgenommen werden:
+
+- a. zur sinnvollen Nutzungsentflechtung im Rahmen der Bau- und Zonenordnung zwischen Baugrundstücken und nicht der Überbauung dienenden Grundstücken;
+- b. zur sinnvollen Überbauung und Erschliessung eines Gebiets im Rahmen eines Quartierplans;
+- c. wenn auf diesem Weg eine den Zielen der Raumplanung besser entsprechende Nutzungsordnung verwirklicht werden kann oder das öffentliche Interesse die Sanierung eines überbauten Gebiets erfordert;
 - d. wenn damit für öffentliche oder im öffentlichen Interesse liegende Werke Land ausgesondert werden kann und ein Flächenabtausch möglich ist.
 
-<sup>2</sup> Das für Strassen und öffentliche Anlagen benötigte Land ist von der Gesamtfläche, unter Vorbehalt der Entschädigungsansprüche, auszuscheiden. Die anteilsmässigen Eigentumsrechte sind im übrigen zu wahren.
+<sup>2</sup> Das für Strassen und öffentliche Anlagen benötigte Land ist von der Gesamtfläche, unter Vorbehalt der Entschädigungsansprüche, auszuscheiden. Die anteilsmässigen Eigentumsrechte sind im Übrigen zu wahren.
 
-<sup>3</sup> Die Grundeigentümer haben die ihnen neu zugewiesenen Grundstücke zu übernehmen. Eigentümer von zu kleinen Parzellen, die sich zur Überbauung nicht mehr eignen, sind mit Geld oder durch Anrechte auf Stockwerkeigentum abzufinden.
+<sup>3</sup> Die Grundeigentümerinnen und Grundeigentümer haben die ihnen neu zugewiesenen Grundstücke zu übernehmen. Eigentümerinnen und Eigentümer von zu kleinen Grundstücken, die sich zur Überbauung nicht mehr eignen, werden mit Geld oder durch Anrechte auf Stockwerkeigentum oder Miteigentum entschädigt.
 
-### 2.4. Planungszonen
+#### Art. 48
 
-#### Art. 25
+**Verfahren a. Einleitung**
 
-**Planungszonen**
+<sup>1</sup> Landumlegungen können von Amtes wegen eingeleitet oder von den Grundeigentümerinnen und Grundeigentümern, denen die Mehrheit des einzubeziehenden Bodens gehört, beantragt werden.
 
-<sup>1</sup> Müssen Nutzungspläne angepasst werden oder liegen noch keine vor, so kann für genau bezeichnete Gebiete eine Planungszone als vorsorgliche Massnahme verfügt werden.
+<sup>2</sup> Die Gemeinde bezeichnet das voraussichtliche Landumlegungsgebiet und orientiert die betroffenen Grundeigentümerinnen und Grundeigentümer.
 
-<sup>2</sup> Innerhalb der Planungszone darf nichts unternommen werden, was dem voraussichtlichen Nutzungs- oder Schutzziel widerspricht.
+<sup>3</sup> Der Gemeinderat beschliesst über die Einleitung der Landumlegung. Im Beschluss ist der Zweck der Landumlegung anzugeben und das Landumlegungsgebiet genau zu umschreiben. Der Entscheid ist den beteiligten Grundeigentümerinnen und Grundeigentümern zu eröffnen.
 
-### 2.5. Auswirkungen und Kosten der Planungen
+<sup>4</sup> Vom Zeitpunkt des Einleitungsentscheids an bedürfen Parzellierungen und Flächenänderungen der Genehmigung des Gemeinderats. Der Genehmigungsvorbehalt ist im Grundbuch anzumerken.
 
-#### Art. 26
+<sup>5</sup> Beschliesst der Gemeinderat die Einleitung eines Landumlegungsverfahrens, so kann er eine Planungszone erlassen.
 
-**Entschädigungspflichtige Eingriffe und Heimschlagsrecht**
+#### Art. 49
 
-<sup>1</sup> Führen Planungen zu Eigentumsbeschränkungen, die einer Enteignung gleichkommen, so wird nach Massgabe des Enteignungsrechts[^26-1] voll entschädigt.
+**b. Durchführung**
 
-<sup>2</sup> Kommt die auf einem Grundstück lastende Grünzone oder Zone für öffentliche Bauten und Anlagen in ihrer Wirkung einer Enteignung gleich, so kann der Eigentümer gegen volle Entschädigung die Übernahme des Bodens durch das Gemeinwesen verlangen.
+<sup>1</sup> Die Gemeinde führt die Landumlegung durch.
 
-[^26-1]: GDB [760.1](http://gdb.ow.ch/data/760.1/de)
+<sup>2</sup> Von den in die Landumlegung einbezogenen Grundstücken können die Flächen für Verkehrsanlagen, Spielplätze, Freizeitanlagen und weitere den gemeinsamen Bedürfnissen des Landumlegungsgebiets dienende Anlagen ausgeschieden werden. Diese Flächen sind den Eigentümerinnen und Eigentümern der an der Landumlegung beteiligten Grundstücke zu Gesamteigentum zuzuweisen.
 
-#### Art. 27
+<sup>3</sup> Für öffentliche Bauten und Anlagen, die nicht nur dem Landumlegungsgebiet dienen, kann Land ausgeschieden werden, das gegen Entschädigung dem Gemeinwesen zu Eigentum zugewiesen wird.
 
-**Nachteilsausgleich**
+<sup>4</sup> Jede beteiligte Grundeigentümerin und jeder beteiligte Grundeigentümer soll von den in die Landumlegung einbezogenen Grundstücken einen Anteil erhalten, der wertmässig dem eingebrachten Land entspricht, wobei die für den Gemeinbedarf ausgeschiedenen Flächen anteilmässig anzurechnen sind. Durch Boden nicht ausgleichbare Mehr- oder Minderwerte sind mit Geld zu entschädigen.
 
-<sup>1</sup> Tätigt ein Grundeigentümer im Vertrauen auf die geltende Nutzungsordnung Massnahmen mit erheblichen Kostenfolgen und werden diese durch eine Änderung der Nutzungsordnung nutzlos, so hat er Anspruch auf die Vergütung der nutzlos gewordenen Aufwendungen, sofern er von der Änderung nicht rechtzeitig Kenntnis haben konnte.
+#### Art. 50
 
-<sup>2</sup> Der Nachteilsausgleich wird vom Gemeinwesen geleistet, welches die Planänderung auslöst.
+**c. Umlegungsplan**
 
-<sup>3</sup> Das Verfahren richtet sich nach dem Enteignungsrecht.[^27-1]
+<sup>1</sup> Der Gemeinderat legt die Neuzuteilung im Umlegungsplan fest. Dieser
 
-[^27-1]: GDB [760.1](http://gdb.ow.ch/data/760.1/de)
+- a. enthält die Neuordnung der grundbuchlichen Rechte und Lasten;
+- b. gibt Auskunft über die Bewertung der Grundstücke, den allfälligen Wertausgleich und allfällig zu leistende Entschädigungen;
+- c. legt den Schlüssel, nach dem die Kosten des Verfahrens zu verteilen sind, im Verhältnis der Vor- und Nachteile fest.
 
-#### Art. 28
+<sup>2</sup> Für die Bewertung der Grundstücke ist der Verkehrswert im Zeitpunkt des Beschlusses des Umlegungsplans massgebend. Wird eine Landumlegung im Hinblick auf einen neuen oder anzupassenden Nutzungsplan durchgeführt, so wird der Verkehrswert nach den zukünftigen Nutzungsmöglichkeiten bestimmt.
+
+<sup>3</sup> Der Umlegungsplan ist den betroffenen Grundeigentümerinnen und Grundeigentümern mit Rechtsmittelbelehrung zuzustellen. Die von geänderten Dienstbarkeiten und Grundlasten betroffenen Personen sowie die Pfandgläubigerinnen und Pfandgläubiger sind zu benachrichtigen.
+
+<sup>4</sup> Ausgleichszahlungen werden auf den Zeitpunkt des Inkrafttretens des Landumlegungsplans fällig. Sie sind ab dem Zeitpunkt der Fälligkeit zu fünf Prozent zu verzinsen.
+
+<sup>5</sup> Ergeben sich bei der Vermessung Korrekturen im Umlegungsplan, so entscheidet der Gemeinderat über Nach- und Rückforderungen.
+
+<sup>6</sup> Nach Rechtskraft des Umlegungsplans legt der Gemeinderat den Zeitpunkt der Eigentumsübertragung und des Inkrafttretens fest und veranlasst die Anmeldungen im Grundbuch.
+
+#### Art. 51
+
+**d. Rechtsmittel**
+
+<sup>1</sup> Gegen den Einleitungsentscheid und den Umlegungsplan kann innert 20 Tagen beim Gemeinderat Einsprache erhoben werden.
+
+<sup>2</sup> Die Gemeinde führt in der Regel eine Einigungsverhandlung durch. Kommt keine Einigung zustande, so sind die Einsprachen vom Gemeinderat zu entscheiden. Gegen den Beschluss des Gemeinderats kann beim Regierungsrat Beschwerde erhoben werden.
+
+### 2.5 Baulandmobilisierung
+
+#### Art. 52
+
+**Baulandmobilisierung**
+
+<sup>1</sup> Der Bauzone zugewiesene Grundstücke sind innerhalb von zehn Jahren nach realisierter Groberschliessung zu überbauen, sofern keine anderen längerfristigen Entwicklungsziele vorliegen.[^52-1] Die Frist steht still, wenn sich der Baubeginn aus Gründen, welche die Bauherrschaft nicht zu vertreten hat, verzögert.
+
+<sup>2</sup> Werden die Grundstücke innerhalb der in Absatz 1 festgelegten Frist nicht überbaut, so kann die Gemeinde jederzeit das gesetzliche Kaufrecht zum Verkehrswert geltend machen, sofern das öffentliche Interesse die entgegenstehenden privaten Interessen überwiegt. Will die Gemeinde das Kaufrecht ausüben, so erlässt sie eine entsprechende Verfügung. Das Kaufrecht ist im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkung anzumerken. Beschwerden gegen die Feststellung des Verkehrswerts entscheidet die Schätzungskommission, alle anderen Beschwerden der Regierungsrat. Auf diesem Weg erworbene Grundstücke sind innert nützlicher Frist der Überbauung zuzuführen. Der Regierungsrat kann die Einzelheiten zum Vollzug in Ausführungsbestimmungen regeln.
+
+<sup>3</sup> Um die Baulandverfügbarkeit sicherzustellen oder zu steigern, kann die Gemeinde mit den Grundeigentümerinnen und Grundeigentümern verwaltungsrechtliche Verträge abschliessen, welche insbesondere ein Kaufrecht zugunsten der Gemeinde vor Ablauf der in Absatz 1 festgelegten Frist vorsehen.
+
+[^52-1]: Die Frist begann frühestens am 1. Juli 2009 mit dem Inkrafttreten des Nachtrags zum Baugesetz vom 30. April 2009 (OGS 2009, 20) zu laufen
+
+### 2.6 Erschliessung
+
+#### Art. 53
 
 **Erschliessungspflicht und -recht**
 
-<sup>1</sup> Die Groberschliessung des Baugebietes obliegt den Gemeinden. Diese Aufgabe kann an öffentlich-rechtliche oder privatrechtliche Versorgungswerke abgetreten werden. In diesem Fall obliegt die Pflicht zur Groberschliessung dem Versorgungswerk.
+<sup>1</sup> Die Groberschliessung des Baugebiets obliegt den Gemeinden. Diese Aufgabe kann an öffentlich-rechtliche oder privatrechtliche Versorgungswerke abgetreten werden. In diesem Fall obliegt die Pflicht zur Groberschliessung dem Versorgungswerk.
 
-<sup>2</sup> Der Gemeinderat kann gestützt auf das Erschliessungsprogramm[^28-1] den interessierten Grundeigentümern vertraglich die Planung und Erstellung von Erschliessungsanlagen nach den von der Gemeinde festgelegten Plänen übertragen. Für den entsprechenden Vertrag gelten folgende Mindestinhalte:
+<sup>2</sup> Der Gemeinderat kann gestützt auf den kommunalen Richtplan Erschliessung den interessierten Grundeigentümerinnen und Grundeigentümern vertraglich die Planung und Erstellung von Erschliessungsanlagen nach den von der Gemeinde festgelegten Plänen übertragen. Für den entsprechenden Vertrag gelten folgende Mindestinhalte:
 
 - a. Zeit und Höhe der Leistungen der Gemeinde an die Kosten der betreffenden Anlagen sowie der Grundeigentümeranteil;
 - b. Aufsicht über Bau und Ausführung der Anlagen;
 - c. Regelung der Eigentumsverhältnisse an den Anlagen.
 
-<sup>3</sup> Die Feinerschliessung obliegt den Grundeigentümern. Anlagen der Feinerschliessung haben den Vorschriften der Gemeinde, der Versorgungswerke oder dem massgebenden Quartierplan zu entsprechen.
+<sup>3</sup> Die Feinerschliessung obliegt den Grundeigentümerinnen und Grundeigentümern. Anlagen der Feinerschliessung haben den Vorschriften der Gemeinde, der Versorgungswerke oder dem massgebenden Quartierplan zu entsprechen.
 
-<sup>4</sup> Erfordert die Feinerschliessung die gemeinsame Mitwirkung mehrerer Grundeigentümer und können sich diese nicht einigen, so kann die Gemeinde die Erschliessung anstelle der Grundeigentümer selber ausführen, wenn ein ausgewiesener Bedarf an erschlossenem Bauland besteht.
+<sup>4</sup> Erfordert die Feinerschliessung die gemeinsame Mitwirkung mehrerer Grundeigentümerinnen und Grundeigentümer und können sich diese nicht einigen, so kann die Gemeinde die Erschliessung anstelle der Grundeigentümerinnen und Grundeigentümer selber ausführen, wenn ein ausgewiesener Bedarf an erschlossenem Bauland besteht.
 
-<sup>5</sup> Der Gemeinderat kann Eigentümer privater Erschliessungsanlagen verpflichten, deren Mitbenützung durch Dritte gegen volle Entschädigung zu dulden, sofern dies zumutbar und für eine landsparende oder technisch zweckmässige Lösung notwendig ist. Können sich die beteiligten Grundeigentümer nach dem Entscheid des Gemeinderates nicht einigen, so wird die Entschädigung nach Massgabe des Enteignungsrechts[^28-2] festgelegt.
+<sup>5</sup> Der Gemeinderat kann Eigentümerinnen und Eigentümer privater Erschliessungsanlagen verpflichten, deren Mitbenützung und Ausbau durch Dritte gegen volle Entschädigung zu dulden, sofern dies zumutbar und für eine landsparende oder technisch zweckmässige Lösung notwendig ist. Können sich die beteiligten Grundeigentümerinnen und Grundeigentümer nach dem Entscheid des Gemeinderats nicht einigen, so wird die Entschädigung nach Massgabe des Enteignungsrechts festgelegt.
 
-<sup>6</sup> Die Bestimmungen über die Bodenverbesserungen nach Art. 114 ff. des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches[^28-3] finden auch auf die Grob- und Feinerschliessung von Baugebiet Anwendung.
+<sup>6</sup> Die Bestimmungen über die Bodenverbesserungen nach Art. 114 ff. des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches[^53-1] finden auch auf die Grob- und Feinerschliessung von Baugebiet Anwendung.
 
-[^28-1]: Art. 19 Abs. 2 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
-[^28-2]: GDB [760.1](http://gdb.ow.ch/data/760.1/de)
-[^28-3]: GDB [210.1](http://gdb.ow.ch/data/210.1/de)
+[^53-1]: GDB [210.1](http://gdb.ow.ch/data/210.1/de)
 
-#### Art. 28a
+#### Art. 54
+
+**Erschliessungsreglement**
+
+<sup>1</sup> Die Gemeinden erlassen ein Erschliessungsreglement, welches die Einzelheiten der Kostentragung der Erschliessungsaufwendungen sowie die weiteren Folgen, die sich aus der Erschliessungspflicht ergeben, regelt.
+
+#### Art. 55
+
+**Ergänzendes Recht**
+
+<sup>1</sup> Soweit dieses Gesetz keine besonderen Vorschriften enthält, gelten die Grundsätze und Bestimmungen des Erschliessungsrechts gemäss der Wohnbau- und Eigentumsförderungsgesetzgebung[^55-1].
+
+<sup>2</sup> Der Kantonsrat kann durch Verordnung Bestimmungen über Erschliessungskosten erlassen, die für jene Gemeinden verbindlich sind, die über kein eigenes Erschliessungsreglement verfügen.
+
+[^55-1]: SR [843](https://db.clex.ch/link/Bund/843/de) und SR [843.1](https://db.clex.ch/link/Bund/843.1/de)
+
+### 2.7 Mehrwert- und Nachteilsausgleich
+
+#### Art. 56
 
 **Vertragliche Mehrwertbeteiligung**
 
-<sup>1</sup> Die Gemeinden können mit den Grundeigentümern im Hinblick auf die Überbauung von Grundstücken verwaltungsrechtliche Verträge abschliessen, in denen besondere Finanzierungsmodalitäten für die Erschliessung festgelegt sind.
+<sup>1</sup> Die Gemeinden können mit den Grundeigentümerinnen und Grundeigentümern im Hinblick auf die Überbauung von Grundstücken verwaltungsrechtliche Verträge abschliessen, in denen besondere Finanzierungsmodalitäten für die Erschliessung festgelegt sind.
 
-<sup>2</sup> Grundeigentümer, denen durch Planungsmassnahmen zusätzliche Vorteile zur Ein- oder Aufzonung verschafft werden, können vertraglich verpflichtet werden, einen angemessenen Anteil des Planungsmehrwertes zur Sicherstellung oder Steigerung der Baulandverfügbarkeit zur Verfügung zu stellen.
+<sup>2</sup> Grundeigentümerinnen und Grundeigentümer, denen durch Planungsmassnahmen zusätzliche Vorteile zur Ein- oder Aufzonung verschafft werden, können vertraglich verpflichtet werden, einen angemessenen Anteil des Planungsmehrwertes zur Sicherstellung oder Steigerung der Baulandverfügbarkeit zur Verfügung zu stellen.
 
-#### Art. 28b
+#### Art. 57
 
 **Mehrwertabgabe bei Neueinzonungen**
 
@@ -448,17 +761,17 @@ als Gesetz:
 
 <sup>4</sup> Mit der Genehmigung der Planänderung stellt der Regierungsrat die Abgabepflicht fest und lässt diese im Grundbuch anmerken.
 
-#### Art. 28c
+#### Art. 58
 
 **Festsetzung**
 
-<sup>1</sup> Die Steuerverwaltung schätzt den Landwert und legt die Mehrwertabgabe oder eine Befreiung nach Art. 28h Abs. 2 dieses Gesetzes mittels Verfügung unmittelbar nach der Genehmigung der abgaberelevanten Planänderung fest.
+<sup>1</sup> Die Steuerverwaltung schätzt den Landwert und legt die Mehrwertabgabe oder eine Befreiung nach Art. 63 Abs. 2 dieses Gesetzes mittels Verfügung unmittelbar nach der Genehmigung der abgaberelevanten Planänderung fest.
 
-<sup>2</sup> Der Rechtsmittelweg gegen die Verfügung der Mehrwertabgabe richtet sich sinngemäss nach den Vorschriften des Gesetzes über die amtliche Schätzung der Grundstücke und das Grundpfandrecht.[^28c-1]
+<sup>2</sup> Der Rechtsmittelweg gegen die Verfügung der Mehrwertabgabe richtet sich sinngemäss nach den Vorschriften des Gesetzes über die amtliche Schätzung der Grundstücke und das Grundpfandrecht[^58-1].
 
-[^28c-1]: GDB 213.7
+[^58-1]: GDB [213.7](http://gdb.ow.ch/data/213.7/de)
 
-#### Art. 28d
+#### Art. 59
 
 **Fälligkeit**
 
@@ -466,17 +779,17 @@ als Gesetz:
 
 <sup>2</sup> Wird das Grundstück oder eine Teilfläche davon überbaut, wird die gesamte Mehrwertabgabe mit der Bauabnahme fällig. In Härtefällen können Ratenzahlungen gewährt und Abgaben gestundet werden. Die Stundungsdauer darf in der Regel fünf Jahre nicht überschreiten.
 
-<sup>3</sup> Eine spätere Änderung des Nutzungsplans begründet keinen Anspruch auf Rückerstattung der geleisteten Zahlung.
+<sup>3</sup> Eine spätere Anpassung des Nutzungsplans begründet keinen Anspruch auf Rückerstattung der geleisteten Zahlung.
 
-#### Art. 28e
+#### Art. 60
 
 **Abgabepflichtige**
 
-<sup>1</sup> Abgabepflichtig ist derjenige, der im Zeitpunkt des Inkrafttretens der den Mehrwert verursachenden Planänderung Grundeigentümer der Liegenschaft ist. Mehrere Grundeigentümer haften solidarisch.
+<sup>1</sup> Abgabepflichtig ist, wer im Zeitpunkt des Inkrafttretens der den Mehrwert verursachenden Planänderung Grundeigentümerin oder Grundeigentümer der Liegenschaft ist. Mehrere Grundeigentümerinnen und Grundeigentümer haften solidarisch.
 
-<sup>2</sup> Für die im Zeitpunkt des Liegenschaftserwerbs noch ausstehenden Mehrwertabgabeforderungen haften alle Rechtsnachfolger solidarisch.
+<sup>2</sup> Für die im Zeitpunkt des Liegenschaftserwerbs noch ausstehenden Mehrwertabgabeforderungen haften alle Rechtsnachfolgenden solidarisch.
 
-#### Art. 28f
+#### Art. 61
 
 **Meldepflicht und Bezug**
 
@@ -484,17 +797,19 @@ als Gesetz:
 
 <sup>2</sup> Die Bestimmungen über die Erhebung der kantonalen Steuern gelten für die Erhebung der Mehrwertabgabe sinngemäss; anderslautende Bestimmungen dieses Gesetzes bleiben vorbehalten.
 
-#### Art. 28g
+#### Art. 62
 
 **Gesetzliches Grundpfandrecht**
 
 <sup>1</sup> Die Forderung aus der Mehrwertabgabe entsteht im Zeitpunkt der Rechtskraft der Planänderung.
 
-<sup>2</sup> Zur Sicherung der Forderung und der Verzugszinsen aus der Erhebung der Mehrwertabgabe steht dem Gemeinwesen am betroffenen Grundstück ab Rechtskraft der Planänderung ohne Eintragung im Grundbuch ein gesetzliches Pfandrecht zu, das allen eingetragenen Belastungen vorgeht (Art. 836 Abs. 2 ZGB).
+<sup>2</sup> Zur Sicherung der Forderung und der Verzugszinsen aus der Erhebung der Mehrwertabgabe steht dem Gemeinwesen am betroffenen Grundstück ab Rechtskraft der Planänderung ohne Eintragung im Grundbuch ein gesetzliches Pfandrecht zu, das allen eingetragenen Belastungen vorgeht[^62-1].
 
 <sup>3</sup> Die zuständige kantonale Behörde meldet das Grundpfandrecht dem Grundbuchamt zur Eintragung an, sobald die Festsetzungsverfügung rechtskräftig geworden ist. Wird der Mehrwert vertraglich abgeschöpft, ist das Grundpfandrecht sogleich nach Eintritt der Rechtskraft der Planänderung durch den Kanton bzw. die Gemeinde zur Eintragung anzumelden.
 
-#### Art. 28h
+[^62-1]: Art. 836 Abs. 2 ZGB (SR [210](https://db.clex.ch/link/Bund/210/de))
+
+#### Art. 63
 
 **Kürzung und Befreiung**
 
@@ -507,582 +822,938 @@ als Gesetz:
 
 <sup>3</sup> In Bezug auf die Freigrenze gemäss Absatz 2 Buchstabe a ist der planungsbedingte Bodenmehrwert der gesamten eingezonten Fläche massgebend. Spätere Parzellierungen und der parzellenweise Verkauf bleiben ohne Beachtung.
 
-#### Art. 28i
+#### Art. 64
 
 **Zweckbindung und Mittelverwendung**
 
 <sup>1</sup> Der Kanton weist die Mehrwertabgabe einem zweckgebundenen Fonds zu.
 
-<sup>2</sup> Die Mehrwertabgabe ist vorab für die Finanzierung von Entschädigungen bei planungsbedingten Eigentumsbeschränkungen, die einer Enteignung gleichkommen, zu verwenden.
+<sup>2</sup> Die Mehrwertabgabe ist für die Finanzierung von Entschädigungen bei planungsbedingten Eigentumsbeschränkungen, die einer Enteignung gleichkommen und der Abbruchprämie nach Art. 5a RPG zu verwenden.
 
-<sup>3</sup> Die nicht gemäss Absatz 2 verwendeten Mittel können für raumplanerische Massnahmen im Sinne von Art. 3 RPG verwendet werden. Der Regierungsrat entscheidet über die Verwendung und die Verteilung der überschüssigen Mittel. Er erlässt hierzu Ausführungsbestimmungen. Es besteht kein Rechtsanspruch auf die Ausrichtung von Beiträgen.
+<sup>3</sup> Die nicht gemäss Absatz 2 verwendeten Mittel können für raumplanerische Massnahmen im Sinne von Art. 3 RPG verwendet werden. Der Regierungsrat entscheidet über die Verwendung und die Verteilung der Mehrwertabgabe. Er erlässt hierzu Ausführungsbestimmungen. Es besteht kein Rechtsanspruch auf die Ausrichtung von Beiträgen.
 
-#### Art. 29
+#### Art. 65
 
-**Kostentragung bei Erschliessungen**
+**Entschädigungspflichtige Eingriffe und Heimschlagsrecht**
 
-<sup>1</sup> An die Kosten der Groberschliessung erhebt die Gemeinde angemessene Beiträge von den Grundeigentümern, denen durch den Bau der Anlage ein wirtschaftlicher Sondervorteil erwächst.
+<sup>1</sup> Führen Planungen zu Eigentumsbeschränkungen, die einer Enteignung gleichkommen, so wird nach Massgabe des Enteignungsrechts[^65-1] voll entschädigt.
 
-<sup>2</sup> Die Kosten der Feinerschliessung gehen in der Regel voll zu Lasten der Grundeigentümer. Die Gemeinde hat einen Kostenanteil zu übernehmen, wenn die Anlage teilweise auch dem Gemeinwesen dient.
+<sup>2</sup> Kommt die auf einem Grundstück lastende Grünzone oder Zone für öffentliche Bauten und Anlagen in ihrer Wirkung einer Enteignung gleich, so kann die Eigentümerin oder der Eigentümer gegen volle Entschädigung die Übernahme des Bodens durch das Gemeinwesen verlangen.
 
-<sup>3</sup> Beiträge an Erschliessungsanlagen werden spätestens mit der Fertigstellung des Werkes fällig. Sie können in Härtefällen gestundet werden, wenn der Grundeigentümer aus achtbaren Gründen den Sondervorteil nicht nutzen kann.
+[^65-1]: GDB [760.1](http://gdb.ow.ch/data/760.1/de)
 
-<sup>4</sup> Bei leitungsgebundenen Erschliessungsanlagen können neben Erschliessungsbeiträgen auch Anschluss- und Benützungsgebühren erhoben werden.
+#### Art. 66
 
-<sup>5</sup> Die Gemeinden und die Versorgungswerke gemäss Art. 28 Abs. 1 dieses Gesetzes haben für ihre Forderungen aus Erschliessungs- und Anschlussbeiträgen Anspruch auf Errichtung eines gesetzlichen Grundpfandes.
+**Nachteilsausgleich**
 
-#### Art. 30
+<sup>1</sup> Tätigt eine Grundeigentümerin oder ein Grundeigentümer im Vertrauen auf die geltende Nutzungsordnung Massnahmen mit erheblichen Kostenfolgen und werden diese durch eine Anpassung der Nutzungsordnung nutzlos, so hat sie oder er Anspruch auf die Vergütung der nutzlos gewordenen Aufwendungen, sofern sie oder er von der Anpassung nicht rechtzeitig Kenntnis haben konnte.
 
-**Erschliessungsprogramm und -reglement**
+<sup>2</sup> Der Nachteilsausgleich wird vom Gemeinwesen geleistet, welches die Planänderung auslöst.
 
-<sup>1</sup> Der Gemeinderat beschliesst das Erschliessungsprogramm[^30-1]. Darin wird gestützt auf die erwünschte räumliche Ordnung der Gemeinde aufgezeigt, wie, wann und mit welchen Gesamtkosten die Erschliessung, ihr Ausbau oder Ersatz erfolgen.
+<sup>3</sup> Das Verfahren richtet sich nach dem Enteignungsrecht[^66-1].
 
-<sup>2</sup> Die Gemeinden regeln die Einzelheiten der Kostentragung der Erschliessungsaufwendungen sowie die weiteren Folgen, die sich aus der Erschliessungspflicht ergeben, in einem Erschliessungsreglement.
+[^66-1]: GDB [760.1](http://gdb.ow.ch/data/760.1/de)
 
-[^30-1]: Art. 19 Abs. 2 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
+## 3. Materielle Bauvorschriften
 
-#### Art. 31
+### 3.1 Allgemeine Bauvorschriften
 
-**Ergänzendes Recht**
+#### Art. 67
 
-<sup>1</sup> Soweit dieses Gesetz keine besonderen Vorschriften enthält, gelten die Grundsätze und Bestimmungen des Erschliessungsrechts gemäss der Wohnbau- und Eigentumsförderungsgesetzgebung[^31-1].
+**Baureife und Erschliessungsanlagen**
 
-<sup>2</sup> Der Kantonsrat kann durch Verordnung Bestimmungen über Erschliessungskosten erlassen, die für jene Gemeinden verbindlich sind, die über kein eigenes Erschliessungsreglement verfügen.
+<sup>1</sup> Bauten und Anlagen dürfen nur auf baureifem und in der Regel mit Strasse, Kanalisation, Wasser und Strom erschlossenem Land bewilligt werden. Die Baureife richtet sich im Einzelnen nach Lage, Form und Beschaffenheit des Grundstücks und nach dem vorgesehenen Nutzungszweck. Die Erschliessung muss spätestens mit dem Gebäude erstellt werden.
 
-[^31-1]: SR [843](https://db.clex.ch/link/Bund/843/de) und [843.1](https://db.clex.ch/link/Bund/843.1/de)
+<sup>2</sup> Die Gemeinden bestimmen die Strassenbreiten in Berücksichtigung der Verkehrserfordernisse und der Sicherheit; die versiegelten Flächen sind möglichst klein zu halten.
 
-#### Art. 32
+#### Art. 68
 
-**Kosten der kantonalen Planungen sowie der Ortsplanungen**
+**Eingliederung**
 
-<sup>1</sup> Der Kanton trägt die Kosten der kantonalen Richtplanung und der kantonalen Nutzungsplanung.
+<sup>1</sup> Bauten, Anlagen und ihr Umschwung sind für sich und in ihrem Zusammenhang mit der baulichen und landschaftlichen Umgebung im Ganzen und in ihren Teilen so zu gestalten, dass eine gute Gesamtwirkung erreicht wird; dies gilt auch für Materialien und Farben. Ausserhalb der Bauzone gelten natürliche Gestaltungen der Umgebung mit einheimischen Pflanzen als Verbesserung gestalterischer Art im Sinne der Raumplanungsverordnung[^68-1]. Gestaltungsvorgaben dürfen die Bauten und Anlagen in ihren zulässigen Dimensionen nicht einschränken.
 
-<sup>2</sup> Die Gemeinden tragen die Kosten der Ortsplanung.
+<sup>2</sup> Bauten, Anlagen und ihr Umschwung sind im Interesse des Orts- und Landschaftsbilds in ordentlichem Zustand zu erhalten. Der Gemeinderat kann bei Störung des Orts- und Landschaftsbilds geeignete Massnahmen anordnen, insbesondere den Abbruch und die Beseitigung von zerfallenen Gebäuden und Anlagen sowie die Wiederherstellung des ursprünglichen Geländeverlaufs.
 
-#### Art. 33
+<sup>3</sup> Der Regierungsrat kann in Ausführungsbestimmungen Gestaltungsvorschriften für Bauten, Anlagen und deren Umgebung ausserhalb der Bauzonen und für Solaranlagen festlegen.
 
-**Kosten von Quartierplänen**
+[^68-1]: Siehe Art. 42 Abs. 1 RPV (SR [700.1](https://db.clex.ch/link/Bund/700.1/de))
 
-<sup>1</sup> Die Grundeigentümer tragen die Kosten der Quartierpläne. Trägt ein Quartierplan zur öffentlichen Aufgabenerfüllung bei, so kann die Gemeinde Beiträge leisten.
-
-<sup>2</sup> Erstellt der Gemeinderat einen Quartierplan, so kann er vor Beginn der Arbeiten von den betroffenen Grundeigentümern eine entsprechende Kostengutsprache verlangen.
-
-<sup>3</sup> Können sich die Grundeigentümer über die Kostenverteilung bei privaten Quartierplänen nicht einigen, so entscheidet hierüber der Gemeinderat nach Massgabe der Flächen und der den Grundeigentümern erwachsenden Vor- und Nachteile.
-
-## 3. Bauvorschriften
-
-### 3.1. Materielle Bauvorschriften
-
-#### Art. 34
-
-**Baubewilligungspflicht**
-
-<sup>1</sup> Bauten und Anlagen sind nach Massgabe dieses Gesetzes und der dazugehörenden Verordnung bewilligungspflichtig.
-
-<sup>2</sup> Keiner Baubewilligung bedürfen Bauten, die nach Bundesrecht nicht der kantonalen Bauhoheit unterliegen, oder Bauvorhaben, die durch andere Gesetze umfassend geregelt sind, insbesondere hinsichtlich der Berücksichtigung der Anliegen des Bau- und Planungsrechts und der Wahrung der Einsprache- und Beschwerdemöglichkeit.
-
-<sup>3</sup> Berühren Vorhaben keine wesentlichen öffentlichen Interessen und steht der Kreis der betroffenen Personen eindeutig fest, so können sie in einem vereinfachten Verfahren bewilligt werden.
-
-#### Art. 35
-
-**Baureife**
-
-<sup>1</sup> Bauten und Anlagen dürfen nur auf baureifem und in der Regel mit Strasse, Kanalisation, Wasser und Strom erschlossenem Land bewilligt werden. Die Baureife richtet sich im einzelnen nach Lage, Form und Beschaffenheit des Grundstücks und nach dem vorgesehenen Nutzungszweck. Die Erschliessung muss spätestens mit dem Gebäude erstellt werden.
-
-<sup>2</sup> Die Gemeinden sorgen dafür, dass Erschliessungsanlagen nicht grösser erstellt werden, als es ihr Zweck erfordert. Sie bestimmen die Strassenbreiten in Berücksichtigung der Verkehrserfordernisse und der Sicherheit; die versiegelten Flächen sind möglichst klein zu halten.
-
-#### Art. 36
+#### Art. 69
 
 **Arten von Bauten**
 
 <sup>1</sup> Gebäude sind ortsfeste Bauten, die zum Schutz von Menschen, Tieren oder Sachen eine feste Überdachung und in der Regel weitere Abschlüsse aufweisen.
 
-<sup>2</sup> Als Mehrfamilienhäuser und Wohnüberbauungen gelten Gebäude mit sechs und mehr Wohnungen.
+<sup>2</sup> Kleinbauten sind freistehende Gebäude bis zu einer Gebäudefläche von 80,0 m², einer Gesamthöhe von 4,5 m sowie einer traufseitigen Fassadenhöhe von 4,0 m, die nur Nebennutzflächen enthalten.
 
-<sup>3</sup> Kleinbauten sind freistehende Gebäude bis zu einer Gebäudefläche von 80.0 m², einer Gesamthöhe von 4.5 m sowie einer traufseitigen Fassadenhöhe von 4.0 m, die nur Nebennutzflächen enthalten.
+<sup>3</sup> Anbauten sind mit einem anderen Gebäude zusammengebaut, überschreiten in ihren Dimensionen die zulässigen Masse von Kleinbauten nicht und enthalten nur Nebennutzflächen.
 
-<sup>4</sup> Anbauten sind mit einem anderen Gebäude zusammengebaut, überschreiten in ihren Dimensionen die zulässigen Masse von Kleinbauten nicht und enthalten nur Nebennutzflächen.
+<sup>4</sup> Kleinstbauten sind planungs- und baurechtlich unbedeutende Bauten und Anlagen bis zu einer Gebäude- bzw. Grundfläche von 8,0 m² und einer Gesamthöhe von 2,4 m, die unbewohnt, nicht am Wasser- und Kanalisationsnetz angeschlossen sind und nicht der Lagerung leicht brennbarer oder umweltgefährdender Materialien dienen, wie Fahrradunterstände, Holzschöpfe, Ställe und Gehege für Kleintiere.
 
-<sup>5</sup> Kleinstbauten sind bau- und planungsrechtlich unbedeutende Bauten und Anlagen bis zu einer Gebäudefläche von 8.0 m² und einer Gesamthöhe von 2.4 m, die unbewohnt, nicht am Wasser- und Kanalisationsnetz angeschlossen sind und nicht der Lagerung leicht brennbarer oder umweltgefährdender Materialien dienen, wie Fahrradunterstände, Holzschöpfe, Ställe und Gehege für Kleintiere.
+<sup>5</sup> Unterirdische Bauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen, vollständig unter dem massgebenden bzw. unter dem tiefer gelegten Terrain liegen.
 
-<sup>6</sup> Unterirdische Bauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen, vollständig unter dem massgebenden bzw. unter dem tiefer gelegten Terrain liegen.
+<sup>6</sup> Unterniveaubauten sind Gebäude, die einschliesslich Geländer im Mittel über alle Fassaden höchstens 1,5 m und nirgends mehr als 2,5 m über das massgebende bzw. über das tiefer gelegte Terrain hinausragen. Ein von der Fassade zurückversetztes Geländer ist im Mass der Zurückversetzung in Abzug zu bringen.
 
-<sup>7</sup> Unterniveaubauten sind Gebäude, die ohne Geländer im Mittel höchstens 1.0 m über das massgebende bzw. über das tiefer gelegte Terrain hinausragen.
+#### Art. 70
 
-#### Art. 36a
+**Zusammenbau von Gebäuden**
+
+<sup>1</sup> Innerhalb der gleichen Zone können Gebäude zusammengebaut werden und gelten als ein Gebäude, wenn sie auf dem gleichen Grundstück stehen oder eine entsprechende nachbarrechtliche Dienstbarkeit im Grundbuch eingetragen ist, die Gebäudeteile optisch als bauliche Einheit in Erscheinung treten und mindestens
+
+- a. mit der halben Fassadenlänge der kürzeren Fassade zusammengebaut werden oder
+- b. durch einen eingeschossigen, dreiseitig geschlossenen Zwischenbau mit einer minimalen Gesamthöhe und Tiefe von 3,0 m verbunden sind.
+
+<sup>2</sup> Bei zusammengebauten Gebäuden werden die Fassadenhöhe, die Gesamthöhe und die Vollgeschosszahl für jeden Gebäudeteil separat ermittelt. Das gleiche gilt für Gebäude, die in der Höhe oder in der Situation gestaffelt sind.
+
+#### Art. 71
 
 **Massgebendes Terrain**
 
 <sup>1</sup> Als massgebendes Terrain gilt der natürlich gewachsene Geländeverlauf. Kann dieser infolge früherer Abgrabungen und Aufschüttungen nicht mehr festgestellt werden, ist vom natürlichen Geländeverlauf der Umgebung auszugehen. Aus planerischen oder erschliessungstechnischen Gründen kann das massgebende Terrain in einem Planungs- oder im Baubewilligungsverfahren abweichend festgelegt werden.
 
-#### Art. 36b
-
-**Weitere baurechtliche Begriffe**
-
-<sup>1</sup> Die Fassadenflucht ist die Mantelfläche, gebildet aus den lotrechten Geraden durch die äussersten Punkte des Baukörpers über dem massgebenden Terrain: Vorspringende und unbedeutend rückspringende Gebäudeteile werden nicht berücksichtigt.
-
-<sup>2</sup> Die Fassadenlinie ist die Schnittlinie von Fassadenflucht und massgebendem Terrain.
-
-<sup>3</sup> Die projizierte Fassadenlinie ist die Projektion der Fassadenlinie auf die Ebene der amtlichen Vermessung.
-
-<sup>4</sup> Vorspringende Gebäudeteile wie Dachvorsprünge, Vordächer, Balkone, Erker, Hauseingänge, Aussentreppen usw. ragen höchstens bis zu 1.5 m, bei Klein-, An- und Kleinstbauten bis zu 0.5 m über die Fassadenflucht hinaus und dürfen – mit Ausnahme der Dachvorsprünge – die folgenden Masse nicht überschreiten: 3.0 m Breite pro Gebäudeteil des zugehörigen Fassadenabschnitts bei Gebäudeteilen mit allseitigen Abschlüssen und 40 Prozent des zugehörigen Fassadenabschnitts in den übrigen Fällen.
-
-<sup>5</sup> Rückspringende Gebäudeteile wie innenliegende Balkone, Arkaden, zurückversetzte Eingänge usw. sind gegenüber der Hauptfassade zurückversetzt. Sie gelten als unbedeutend, wenn sie 1.5 m in der Tiefe und 3.0 m in der Breite nicht überschreiten.
-
-<sup>6</sup> Die Gebäudelänge ist die längere Seite des flächenkleinsten Rechtecks, welches die projizierte Fassadenlinie umfasst.
-
-<sup>7</sup> Die Gebäudebreite ist die kürzere Seite des flächenkleinsten Rechtecks, welches die projizierte Fassadenlinie umfasst.
-
-#### Art. 37
-
-**Einordnung von Bauten und Anlagen**
-
-<sup>1</sup> Bauten, Anlagen und Umschwung sind für sich und in ihrem Zusammenhang mit der baulichen und landschaftlichen Umgebung im ganzen und in ihren Teilen so zu gestalten, dass eine befriedigende Gesamtwirkung erreicht wird; dies gilt auch für Materialien und Farben.
-
-#### Art. 38
-
-**Abstandsvorschriften a. Grenz- und Gebäudeabstände**
-
-<sup>1</sup> Die Gemeinden legen im Baureglement die Grenz- und Gebäudeabstände fest, wobei der Gebäudeabstand sich in der Regel aus der Summe der Grenzabstände ergibt.
-
-<sup>2</sup> Der Grenzabstand ist die Entfernung zwischen der projizierten Fassadenlinie und der Parzellengrenze.
-
-<sup>3</sup> Der Gebäudeabstand ist die Entfernung zwischen den projizierten Fassadenlinien zweier Gebäude.
-
-<sup>4</sup> Der ordentliche Grenzabstand ist in Abhängigkeit von der Geschosszahl oder der Fassadenhöhe festzulegen, wobei ein Mindestabstand von 4.0 m, in Kernzonen von 3.0 m, zu beachten ist.
-
-#### Art. 39
-
-**b. bei Klein-, An- und Kleinstbauten**
-
-<sup>1</sup> Für Klein-, An- und Kleinstbauten kann der Grenzabstand bis auf 1.5 m und der Gebäudeabstand bis auf 3.0 m vermindert werden, wenn die Gebäudelänge gegenüber der Nachbargrenze 10.0 m nicht übersteigt.
-
-<sup>2</sup> Für Klein- und Kleinstbauten kann der Gebäudeabstand gegenüber zugehörigen Gebäuden, die auf der gleichen Parzelle stehen, unterschritten werden.
-
-<sup>3</sup> Für Kleinstbauten können mit dem schriftlichen Einverständnis des Nachbarn die gleichen Abstandsvorschriften wie für Einfriedungen angewendet werden.
-
-#### Art. 40
-
-**c. gegenüber Strassen, Gewässern und Wäldern**
-
-<sup>1</sup> Es sind folgende Mindestabstände einzuhalten:
-
-- a. 8.0 m bei Hauptstrassen ausserhalb des Baugebiets;
-- b. 4.0 m bei allen übrigen öffentlichen Strassen;
-- c. gegenüber Nationalstrassen gelten die bundesrechtlichen Bestimmungen;
-- d. 4.0 m bei Fliessgewässern;
-- e. 10.0 m bei Seen;
-- f. 4.0 m bei geschützten Hecken und Ufergehölzen;
-- g. 15.0 m bei Wäldern für Bauten und Anlagen.
-
-<sup>2</sup> Die Strassenabstandsbestimmungen gehen den Bestimmungen über die Grenzabstände vor.
-
-#### Art. 41
-
-**d. weitere Abstandsbestimmungen**
-
-<sup>1</sup> Vorspringende Gebäudeteile, welche die Masse nach Art. 36b Abs. 4 dieses Gesetzes überschreiten, werden beim Grenzabstand nur im Umfang dieser überschreitenden Masse mitberechnet. Sie dürfen Baulinien längs Strassen höchstens bis zu 1.0 m überragen, sofern bei bestehenden oder geplanten Trottoirs eine lichte Höhe von mindestens 3.0 m eingehalten und das Strassenprofil freigehalten wird.
-
-<sup>2</sup> Unterirdische Bauten sowie Unterniveaubauten haben einen Grenzabstand von mindestens 1.0 m einzuhalten. Mit schriftlichem Einverständnis des Nachbarn darf dieser Abstand unterschritten oder an die Grenze gebaut werden. Gegenüber Strassen können für unterirdische Bauten ohne Geländer und Brüstungen mit dem schriftlichen Einverständnis des Strasseneigentümers verminderte Abstände bewilligt werden.
-
-<sup>3</sup> Gegenüber einem bestehenden, nach dem vorliegenden Gesetz zu nahe an der Grenze liegenden Altbau ist nur der ordentliche Grenzabstand einzuhalten, sofern dadurch keine hygienisch schlechten Verhältnisse entstehen; andernfalls kann der Gemeinderat eine Vergrösserung des Grenzabstandes verlangen.
-
-<sup>4</sup> Bauten können zusammengebaut werden, sofern sie auf dem gleichen Grundstück erstellt werden oder eine entsprechende nachbarrechtliche Dienstbarkeit im Grundbuch eingetragen ist. Die zulässigen Gebäudemasse bleiben vorbehalten.
-
-<sup>5</sup> Durch nachbarrechtliche Dienstbarkeit können die Grenzabstände bei Einhaltung des Gebäudeabstandes auf die in Betracht kommenden Grundstücke ungleich verteilt werden.
-
-<sup>6</sup> Die durch Baulinien festgelegten Abstände gehen allen anderen öffentlich-rechtlichen Abstandsbestimmungen vor.
-
-<sup>7</sup> Der Abstand gegenüber Bahnlinien und Hochspannungsleitungen bemisst sich nach den Bestimmungen des Bundesrechts[^41-1].
-
-[^41-1]: SR [742.141.1](https://db.clex.ch/link/Bund/742.141.1/de), SR [734](https://db.clex.ch/link/Bund/734/de)
-
-#### Art. 42
-
-**e. Berechnung einzelner Abstände**
-
-<sup>1</sup> Der Strassenabstand wird senkrecht zum bestehenden oder projektierten Strassenrand gemessen. Das Trottoir ist nicht Bestandteil der Strasse.
-
-<sup>2</sup> Der Waldabstand wird, sofern keine Waldfeststellung erfolgt ist, von der Waldgrenze zum nächstliegenden Punkt der projizierten Fassadenlinie oder der Anlage gemessen, wobei die Waldgrenze 2 m ausserhalb der äussersten Stämme des geschlossenen Waldes liegt.
-
-<sup>3</sup> Der Heckenabstand wird vom Stock der Hecke bis zum nächstliegenden Gebäudeteil gemessen.
-
-<sup>4</sup> Der Abstand zu Seen und Fliessgewässern wird ab oberer Böschungskante, bei Dämmen ab äusserem Böschungsfuss, gemessen.
-
-<sup>5</sup> Der Mehrlängenzuschlag bezeichnet bei Gebäuden, welche eine Gebäudelänge von 18.0 m überschreiten, den Zuschlag zum ordentlichen Grenzabstand.
-
-<sup>6</sup> Der Zuschlag beträgt einen Drittel der Mehrlänge des Gebäudes, höchstens jedoch das Ausmass des ordentlichen Grenzabstandes. Die Mehrlänge bezeichnet dabei das Mass über 18.0 m Gebäudelänge.
-
-<sup>7</sup> Die massgebende Gebäudelänge für die Berechnung des Mehrlängenzuschlags ergibt sich aus der senkrechten Projektion des Gebäudekörpers auf die Grundstückgrenze. Bei gestaffelten oder nicht parallel zur Grenze gestellten Baukörpern vermindert sich die massgebende Gebäudelänge um das Mass der Zurückversetzung, gemessen ab dem ordentlichen Grenzabstand. Klein- und Anbauten mit höchstens 10.0 m Gebäudelänge werden nicht mitgerechnet.
-
-<sup>8</sup> Der Mehrhöhenzuschlag bezeichnet bei Gebäuden, welche eine traufseitige Fassadenhöhe von 14.0 m überschreiten, den Zuschlag zum ordentlichen Grenzabstand.
-
-<sup>9</sup> Der Zuschlag beträgt das Ausmass der Mehrhöhe über 14.0 m traufseitiger Fassadenhöhe.
-
-<sup>10</sup> Innerhalb reiner Gewerbe- oder Industriezonen kann der Gemeinderat auf einen Mehrlängen- bzw. Mehrhöhenzuschlag verzichten, wenn dadurch keine hygienisch schlechten Verhältnisse entstehen. Gegenüber Wohnzonen und gemischten Zonen ist jedoch der Mehrlängen- bzw. Mehrhöhenzuschlag einzuhalten.
-
-<sup>11</sup> Der Grenzabstand wird senkrecht zum zugehörigen Fassadenabschnitt gemessen.
-
-<sup>12</sup> Gegenüber den Gebäudeecken gilt auf jeden Fall nur der ordentliche, kleinere Grenzabstand.
-
-#### Art. 43
-
-**Einfriedungen und Böschungen**
-
-<sup>1</sup> Tote Häge und freistehende oder hinterfüllte Mauern bis zu 1.2 m Höhe dürfen gegenüber dem Nachbargrundstück sowie gegenüber Strassen und Wegen an die Grenze gestellt werden.
-
-<sup>2</sup> Für Lebhäge bis zu 1.2 m Höhe ist ohne schriftliche Zustimmung des Nachbarn ein Grenzabstand von wenigstens 0.3 m zu beachten.
-
-<sup>3</sup> Für Häge und freistehende oder hinterfüllte Mauern von mehr als 1.2 m Höhe ist ohne schriftliche Zustimmung des Nachbarn ein der Mehrhöhe entsprechender zusätzlicher Abstand einzuhalten.
-
-<sup>4</sup> Ohne schriftliches Einverständnis des Nachbarn sind Böschungen und Abgrabungen nur zulässig, wenn von der Nachbargrenze ein Abstand von 0.5 m eingehalten und eine Neigung von 1:1 nicht überschritten wird.
-
-#### Art. 44
-
-**Gebäudemasse a. Grundsatz**
-
-<sup>1</sup> Die Gemeinden legen im Baureglement die zulässigen Gebäudemasse und die zulässige Geschosszahl fest.
-
-<sup>2</sup> Gebäude mit einer Wohnnutzung und mehr als vier Vollgeschossen sind nur aufgrund eines Quartierplans zulässig.
-
-#### Art. 45
-
-**b. Berechnung**
-
-<sup>1</sup> Die Gesamthöhe ist der grösste Höhenunterschied zwischen dem höchsten Punkt der Dachkonstruktion und den lotrecht darunter liegenden Punkten auf dem massgebenden Terrain. Im geneigten Gelände ergibt sich die zulässige Gesamthöhe aus der festgelegten Gesamthöhe und einem Zuschlag, welcher der halben Höhendifferenz des massgebenden Terrains gemessen bei den berg- und talseitigen Fassaden entspricht; der Zuschlag wird wie die Gesamthöhe berechnet und beträgt maximal 3 m.
-
-<sup>2</sup> Die Fassadenhöhe ist der grösste Höhenunterschied zwischen der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion und der dazugehörigen Fassadenlinie. Im geneigten Gelände ergibt sich die zulässige traufseitige Fassadenhöhe bzw. die zulässige Höhe der Seitenfassade aus der festgelegten Fassadenhöhe und einem Zuschlag. Dieser entspricht dem Zuschlag bei der Gesamthöhe und beträgt maximal 3 m.
-
-<sup>3</sup> Die Geschosshöhe wird von Oberkant zu Oberkant der fertigen Böden gemessen. Die lichte Höhe ist der Höhenunterschied zwischen der Oberkante des fertigen Bodens und der Unterkante der fertigen Decke bzw. Balkenlage, wenn die Nutzbarkeit eines Geschosses durch die Balkenlage bestimmt wird. Die Kniestockhöhe ist der Höhenunterschied zwischen der Oberkante des Dachgeschossbodens im Rohbau und der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion.
-
-<sup>4</sup> Die Geschosszahl entspricht der Zahl der Vollgeschosse. Bei Gebäuden mit überhohen Räumen von mehr als 4.5 m Geschosshöhe werden jeweils 3.5 m Geschosshöhe als Vollgeschoss angerechnet.
-
-<sup>5</sup> Vollgeschosse sind alle Geschosse von Gebäuden ausser Unter-, Dach- und Attikageschosse.
-
-<sup>6</sup> Bei zusammengebauten Gebäuden und bei Gebäuden, die in der Höhe oder in der Situation gestaffelt sind, werden die Fassadenhöhe, die Gesamthöhe und die Vollgeschosszahl für jeden Gebäudeteil bzw. für jedes Gebäude separat ermittelt.
-
-<sup>7</sup> Untergeschosse sind Geschosse, bei denen die Oberkante des fertigen Bodens, gemessen in der Fassadenflucht, im Mittel höchstens bis zu 1.4 m über die Fassadenlinie hinausragt.
-
-<sup>8</sup> Dachgeschosse sind Geschosse, deren Kniestockhöhen 1.8 m nicht überschreiten; Dachaufbauten oder -einschnitte dürfen höchstens 40 Prozent der darunterliegenden Fassadenbreite erreichen. Die Gemeinden können für bestimmte Dachformen im Baureglement zusätzlich eine grosse Kniestockhöhe festlegen.
-
-<sup>9</sup> Attikageschosse sind auf Flachdächern aufgesetzte, zusätzliche Geschosse. Das Attikageschoss muss bei mindestens einer ganzen Fassade gegenüber dem darunterliegenden Geschoss um 125 Prozent der Geschosshöhe des Attikageschosses zurückversetzt sein.
-
-#### Art. 46
-
-**Abstellflächen für Fahrzeuge**
-
-<sup>1</sup> Bei Neubauten und wesentlichen Umbauten, Erweiterungen und Zweckänderungen von Bauten sind in der Regel genügend Abstellflächen für Motorfahrzeuge und Fahrräder auf privatem Grund vorzusehen. Die Abstellflächen müssen dauernd benutzt werden können.
-
-<sup>2</sup> Ist die Errichtung der geforderten Flächen rechtlich oder tatsächlich nicht möglich oder wäre der Aufwand unzumutbar, so sind angemessene Ersatzabgaben zu leisten, die zweckgebunden zur Schaffung entsprechender gemeinschaftlicher Anlagen zu verwenden sind.
-
-<sup>3</sup> Die Gemeinden stellen die Bemessungsgrundsätze für Abstellflächen auf und legen die Höhe der Ersatzabgaben fest.
-
-<sup>4</sup> Die Gemeinden können bestimmen, dass:
-
-- a. in bestimmten Gebieten, die vom Verkehr zu entlasten sind, keine oder nur beschränkte Parkierungsmöglichkeiten geschaffen werden dürfen;
-- b. erhaltenswerte Vorgärten und Höfe nicht für Parkierungsflächen beansprucht werden dürfen;
-- c. Abstellplätze für bestimmte Gebiete als Gemeinschaftsanlagen zu erstellen sind.
-
-#### Art. 47
-
-**Spielplätze und Gemeinschaftsbereiche**
-
-<sup>1</sup> Bei Mehrfamilienhäusern sind ausreichend geschützte, sonnige und kindergerechte Spielplätze herzurichten.
-
-<sup>2</sup> Beim Bau von Mehrfamilienhaussiedlungen ist ein angemessener Teil der Spiel-, Freizeit- und Gemeinschaftsbereiche wetterunabhängig zu gestalten.
-
-<sup>3</sup> Die Gemeinden stellen die Bemessungsgrundsätze auf.
-
-#### Art. 48
-
-**Sicherheit und Gesundheit**
-
-<sup>1</sup> Bauten und Anlagen sind so zu gestalten, dass sie den Regeln der Baukunde und den Erfordernissen der Sicherheit und Gesundheit entsprechen. Erstellung und Abbruch haben den anerkannten Regeln der Technik zu genügen. Werden infolge mangelhaften Gebäudeunterhalts Personen oder Tiere gefährdet, so veranlasst die Gemeinde nach erfolgloser Mahnung die Ersatzvornahme auf Kosten des Eigentümers.
-
-<sup>2</sup> Die Gemeinden erlassen im Baureglement die entsprechenden Vorschriften.
-
-#### Art. 49
-
-**Energieverwendung**
-
-<sup>1</sup> Neubauten und Umbauten haben den Anforderungen an eine sparsame Energieverwendung und rationelle Energienutzung, insbesondere im Bereich der Gebäudehülle und Haustechnik, gemäss den anerkannten Regeln der Technik zu genügen.
-
-<sup>2</sup> Der Kanton kann energetische Massnahmen bei Neubauten und Umbauten oder eine vorbildliche Bauweise sowie Projekte zur Förderung sparsamer Energieverwendung oder rationeller Energienutzung mit Beiträgen unterstützen.
-
-<sup>3</sup> Für die Berechnung der Baumassenziffer und der Geschossflächenziffer ist die Konstruktionsstärke der Aussenwand und des Dachs bis höchstens 35 cm zu berücksichtigen.
-
-<sup>4</sup> Der Regierungsrat kann in den Ausführungsbestimmungen die zertifizierten Energiestandards bestimmen, bei deren Umsetzung die Konstruktionsstärke der Aussenwand und des Dachs nur teilweise oder gar nicht berücksichtigt werden muss.
-
-#### Art. 50
-
-**Behindertengerechtes Bauen**
-
-<sup>1</sup> Bei Bauten und Anlagen ist auf die Bedürfnisse der Behinderten angemessen Rücksicht zu nehmen. Bauten und Anlagen mit erheblichem Publikumsverkehr sind so zu gestalten, dass sie für Behinderte zugänglich und benützbar sind. Dies gilt auch bei wesentlichen Erweiterungen und neubauähnlichen Umbauten.
-
-<sup>2</sup> Auf Vorkehren für Behinderte kann ganz oder teilweise verzichtet werden, wenn andernfalls unverhältnismässige Mehrkosten entstehen oder andere Interessen überwiegen.
-
-#### Art. 51
-
-**Beanspruchung öffentlichen Grundes, Duldung öffentlicher Einrichtungen**
-
-<sup>1</sup> Die Gemeinden regeln Zulässigkeit, Verfahren und Entschädigung bei vorübergehender Inanspruchnahme öffentlichen Grundes für Bauarbeiten.
-
-<sup>2</sup> Die Grundeigentümer haben Signale, Strassenbezeichnungen, Zeichen öffentlicher Werke, öffentliche Beleuchtungseinrichtungen sowie Leitungen an ihren Bauten, an Einfriedungen und auf ihren Grundstücken zu dulden. Ihre Interessen sind angemessen zu berücksichtigen. Entschädigungsansprüche bleiben vorbehalten.
-
-#### Art. 52
-
-**Verkehrsabwicklung**
-
-<sup>1</sup> Der Verkehr auf Strasse und Trottoir darf weder durch unzweckmässige Ausfahrten, noch durch Mauern, Pflanzen, Einfriedungen oder andere Anlagen entlang von Strassen und Trottoirs behindert werden.
-
-<sup>2</sup> Bei Garagen mit direkter Ausfahrt ist gegenüber dem Trottoir und, wo kein Trottoir besteht, gegenüber Strassen ein Abstand von 6.0 m einzuhalten.
-
-<sup>3</sup> Ein- und Ausfahrten von Garagen dürfen höchstens 18 Prozent Neigung aufweisen. Angrenzend an die Strasse bzw. an das Trottoir darf die Ausfahrt auf eine Tiefe von mindestens 2.0 m nicht mehr als drei Prozent Gefälle aufweisen.
-
-#### Art. 53
-
-**Ausnahmebewilligungen**
-
-<sup>1</sup> Der Gemeinderat kann bei schützenswerten Interessen des Eigentümers von den Planungs- oder Bauvorschriften abweichende Bewilligungen erteilen:
-
-- a. wenn die Anwendung der Vorschriften für die Bauherrschaft zu einer offensichtlichen Härte führt;
-- b. wenn eine den öffentlichen Interessen, namentlich dem Sinn dieses Gesetzes besser entsprechende Überbauung erzielt werden kann;
-- c. beim Umbau von Altbauten.
-
-<sup>2</sup> Von der Geschosszahl und von Dichteziffern sind nur dort Ausnahmen möglich, wo dies gesetzlich, reglementarisch oder in Quartierplänen als zulässig erklärt wird.
-
-<sup>3</sup> Soweit eine Ausnahmebewilligung eine Abweichung von den kantonalen Mindestvorschriften beinhaltet, bedarf sie der Genehmigung durch das zuständige Departement.
-
-#### Art. 54
-
-**Bestandesgarantie a. Grundsatz**
-
-<sup>1</sup> Weiterbestand, Unterhalt und zeitgemässe Erneuerung bestehender Bauten und Anlagen sind gewährleistet.
-
-<sup>2</sup> Umbauten sowie der Wiederaufbau zerstörter oder abgebrochener Gebäude innert fünf Jahren sind zulässig, sofern keine ungünstigen Verhältnisse entstehen oder bestehen bleiben und keine überwiegenden öffentlichen Interessen entgegenstehen.
-
-#### Art. 55
-
-**b. Erweiterung innerhalb der Bauzone**
-
-<sup>1</sup> Bestehende Bauten, die dem Zweck der Nutzungszone widersprechen, dürfen angemessen erweitert werden, wenn die Bauvorschriften eingehalten, keine wesentlichen öffentlichen Interessen verletzt und durch die Erweiterung auf die Nachbarschaft nach den örtlichen Verhältnissen keine übermässigen Immissionen entstehen.
-
-<sup>2</sup> Bei bestehenden Bauten, die den Bauvorschriften nicht entsprechen, können neubauähnliche Umbauten und Erweiterungen gestattet werden, wenn keine wesentlichen öffentlichen und privaten Interessen entgegenstehen.
-
-#### Art. 56
+#### Art. 72
 
 **Bauten und Anlagen ausserhalb der Bauzone**
 
-<sup>1</sup> Für die Errichtung neuer und die vollständige Zweckänderung bestehender Bauten und Anlagen ausserhalb der Bauzone, die dem Zweck der Nutzungszone widersprechen, gelten die bundesrechtlichen Vorschriften[^56-1].
+<sup>1</sup> Für Bauten und Anlagen ausserhalb der Bauzonen gelten die Bestimmungen des Bundesrechts.
 
-<sup>2</sup> Bestehende Bauten und Anlagen ausserhalb der Bauzone dürfen erneuert, teilweise geändert, erweitert oder wieder aufgebaut werden, wenn dies mit den wichtigen Anliegen der Raumplanung vereinbar ist.
+<sup>2</sup> Das Bau- und Raumentwicklungsdepartement entscheidet bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung erteilt werden kann[^72-1]. Es entscheidet zudem über die Zonenkonformität von Bauvorhaben in Zonen nach Art. 24 dieses Gesetzes.
 
-[^56-1]: SR [700](https://db.clex.ch/link/Bund/700/de) und [700.1](https://db.clex.ch/link/Bund/700.1/de)
+[^72-1]: Art. 25 Abs. 2 RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
 
-### 3.2. Baubewilligungsverfahren, Baukontrolle und Gebühren
+### 3.2 Gebäudemasse
 
-#### Art. 57
+#### Art. 73
 
-**Baubewilligungsverfahren und Baukontrolle**
+**Festlegung der Gebäudemasse**
 
-<sup>1</sup> Der Kantonsrat regelt das Baubewilligungsverfahren durch Verordnung. Es stellt sicher, dass im Hinblick auf eine umfassende Interessenabwägung und einen beförderlichen zeitlichen Ablauf alle raumplanerischen, energiepolitischen, natur- und umweltschutzrechtlichen Bestimmungen frühzeitig berücksichtigt und koordiniert werden.
+<sup>1</sup> Die Gemeinden legen im Bau- und Zonenreglement die zulässigen Gebäudemasse nach Massgabe der nachfolgenden Bestimmungen fest.
 
-<sup>2</sup> Die Gemeinden überwachen die Einhaltung der erteilten Baubewilligungen.
+<sup>2</sup> Wird durch ein Bauvorhaben das Mass der zulässigen baulichen Nutzung wesentlich unterschritten, so kann der Nachweis verlangt werden, dass die Nutzungsreserve ohne Beseitigung der Baute oder ohne unverhältnismässige Eingriffe in die Bausubstanz nachträglich in Anspruch genommen werden kann.
 
-#### Art. 58
+<sup>3</sup> Wo eine bauliche Mindestnutzung festgelegt ist, darf die Unterschreitung der baulichen Nutzung nur unter den Voraussetzungen von Art. 102 Abs. 1 dieses Gesetzes bewilligt werden.
 
-**Wiederherstellung des rechtmässigen Zustandes**
+#### Art. 74
 
-<sup>1</sup> Wird unberechtigterweise mit der Errichtung oder Änderung von Bauten und Anlagen begonnen, so verfügt der Gemeinderat sofort die Einstellung der Arbeiten.
+**Gebäudelänge und -fläche**
 
-<sup>2</sup> Widerspricht die Ausführung den gesetzlichen Vorschriften oder den genehmigten Plänen, so setzt die Baubewilligungsbehörde Bauherrschaft und Grundeigentümer eine angemessene Frist zur Wiederherstellung des rechtmässigen Zustandes oder zur Einreichung eines Gesuchs um nachträgliche Baubewilligung.
+<sup>1</sup> Die Gebäudelänge ist die längere, die Gebäudebreite die kürzere Seite des flächenkleinsten Rechtecks, welches die projizierte Fassadenlinie umfasst. Nicht berücksichtigt werden Anbauten bis zu einer Ausladung von 10,0 m über das flächenkleinste Rechteck, Unterniveaubauten und unterirdische Bauten.
 
-<sup>3</sup> Wird der rechtmässige Zustand nicht wiederhergestellt oder kann das nachträgliche Baugesuch nicht bewilligt werden, so ist die Entfernung oder Änderung der rechtswidrig ausgeführten Bauten und Anlagen zu verfügen.
+<sup>2</sup> Die projizierte Fassadenlinie ist die Projektion der Fassadenlinie auf die Ebene der amtlichen Vermessung. Die Fassadenlinie ist die Schnittlinie von Fassadenflucht und massgebendem Terrain.
 
-<sup>4</sup> Wird der verfügte Zustand nicht innert angesetzter Frist hergestellt, so kann der Gemeinderat die erforderlichen Massnahmen auf Kosten der Bauherrschaft durchführen lassen. Die Gemeinde kann die Bauherrschaft verpflichten, die mutmasslichen Kosten der Ersatzvornahme sicherzustellen.
+<sup>3</sup> Die Fassadenflucht ist die Mantelfläche, gebildet aus den lotrechten Geraden durch die äussersten Punkte des Baukörpers über dem massgebenden Terrain; vorspringende und unbedeutend rückspringende Gebäudeteile werden nicht berücksichtigt.
 
-<sup>5</sup> Für die Kosten der Ersatzvornahme besteht ein gesetzliches Grundpfandrecht. Das Pfandrecht muss innert vier Monaten seit Fälligkeit der Forderung, spätestens aber zwei Jahre seit der Entstehung der Forderung im Grundbuch eingetragen werden.
+<sup>4</sup> Vorspringende Gebäudeteile wie Dachvorsprünge, Vordächer, Balkone, Erker, Hauseingänge und Aussentreppen ragen höchstens bis zu 1,5 m, bei Klein-, An- und Kleinstbauten bis zu 0,5 m über die zulässige Fassadenflucht hinaus und dürfen – mit Ausnahme der Dachvorsprünge – gesamthaft eine Breite von 40 Prozent des zugehörigen Fassadenabschnitts nicht überschreiten. Gebäudeteile mit allseitigen Abschlüssen sind zudem auf 4,0 m Breite beschränkt.
 
-#### Art. 59
+<sup>5</sup> Rückspringende Gebäudeteile wie innenliegende Balkone, Arkaden und zurückversetzte Eingänge sind gegenüber der zugehörigen Hauptfassade zurückversetzt. Sie gelten als unbedeutend, wenn sie 2,0 m in der Tiefe und 3,0 m in der Breite nicht überschreiten.
+
+<sup>6</sup> Die Gebäudefläche ist die Fläche innerhalb der projizierten Fassadenlinie, wobei unbedeutend rückspringende Gebäudeteile in Abzug gebracht werden und bedeutend rückspringende Gebäudeteile hinzuzurechnen sind. Anbauten und Unterniveaubauten zählen nicht zur Gebäudefläche.
+
+#### Art. 75
+
+**Höhen**
+
+<sup>1</sup> Die Gesamthöhe ist der grösste Höhenunterschied zwischen dem höchsten Punkt der Dachkonstruktion und den lotrecht darunter liegenden Punkten auf dem massgebenden Terrain.
+
+<sup>2</sup> Die Oberkante der Dachfläche darf höchstens 0,5 m über den für die Gesamthöhe massgebenden höchsten Punkt der Dachkonstruktion liegen. Bei Flachdächern und technisch bedingten Dachaufbauten kommt diese Regelung nicht zur Anwendung.
+
+<sup>3</sup> Die Fassadenhöhe ist der grösste Höhenunterschied zwischen der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion und der dazugehörigen Fassadenlinie. Die Höhe einer von der Fassade zurückversetzten Brüstung ist im Mass der Zurückversetzung in Abzug zu bringen.
+
+<sup>4</sup> Die Kniestockhöhe ist der Höhenunterschied zwischen der Oberkante des Dachgeschossbodens im Rohbau und der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion.
+
+#### Art. 76
+
+**Geschosse**
+
+<sup>1</sup> Vollgeschosse sind alle Geschosse von Gebäuden ausser Unter-, Dach- und Attikageschosse.
+
+<sup>2</sup> Bei Gebäuden mit überhohen Räumen von mehr als 4,5 m Geschosshöhe werden jeweils 3,5 m Geschosshöhe als Vollgeschoss angerechnet.
+
+<sup>3</sup> Die Geschosshöhe wird von Oberkant zu Oberkant der fertigen Böden gemessen. Die lichte Höhe ist der Höhenunterschied zwischen der Oberkante des fertigen Bodens und der Unterkante der fertigen Decke bzw. Balkenlage, wenn die Nutzbarkeit eines Geschosses durch die Balkenlage bestimmt wird.
+
+<sup>4</sup> Untergeschosse sind Geschosse, bei denen die Oberkante des fertigen Bodens, gemessen in der Fassadenflucht, im Mittel über alle Fassaden höchstens bis zu 1,4 m über die Fassadenlinie hinausragt.
+
+<sup>5</sup> Dachgeschosse sind Geschosse, deren Kniestockhöhen 1,8 m nicht überschreiten. Dachaufbauten oder -einschnitte dürfen höchstens 40 Prozent der darunterliegenden Fassadenlänge erreichen. Die Gemeinden können für bestimmte Dachformen im Bau- und Zonenreglement zusätzlich eine grosse Kniestockhöhe festlegen.
+
+<sup>6</sup> Attikageschosse sind auf Flachdächern aufgesetzte, zusätzliche Geschosse. Das Attikageschoss muss bei mindestens einer ganzen Fassade gegenüber dem darunterliegenden Geschoss um 125 Prozent der Geschosshöhe des Attikageschosses zurückversetzt sein.
+
+### 3.3 Abstände
+
+#### Art. 77
+
+**Grenz- und Gebäudeabstand a. Definition**
+
+<sup>1</sup> Der Grenzabstand ist die Entfernung zwischen der projizierten Fassadenlinie und der Grundstückgrenze.
+
+<sup>2</sup> Vorspringende Gebäudeteile gemäss Art. 74 Abs. 4 dieses Gesetzes, sowie Lauben an Gebäuden im traditionellen Stil, die mehr als 1,5 m, bei Klein-, An- und Kleinstbauten mehr als 0,5 m über die zulässige Fassadenflucht hinausragen, werden beim Grenzabstand nur im Umfang der Überschreitung mitberechnet.
+
+<sup>3</sup> Der Grenzabstand wird senkrecht zum zugehörigen Fassadenabschnitt gemessen.
+
+<sup>4</sup> Der Gebäudeabstand ist die Entfernung zwischen den projizierten Fassadenlinien zweier Gebäude.
+
+#### Art. 78
+
+**b. Festlegung der Abstände**
+
+<sup>1</sup> Die Gemeinden legen im Bau- und Zonenreglement die Grenz- und Gebäudeabstände fest.
+
+<sup>2</sup> Der Grenzabstand ist pro Zone oder in Abhängigkeit der Fassadenhöhe festzulegen, wobei ein Mindestabstand von 4,0 m zu beachten ist.
+
+<sup>3</sup> Gegenüber der Hauptwohnseite kann ein grosser Grenzabstand festgelegt werden. Die Hauptwohnseite bestimmt sich insbesondere nach der Fläche der Hauptwohnräume und der Grösse der Fensterflächen, wobei Untergeschosse nur zu berücksichtigen sind, wenn sie Wohn- oder Arbeitsnutzungen dienen.
+
+<sup>4</sup> Der Gebäudeabstand beträgt mindestens 8,0 m. Wo besondere Bestimmungen fehlen, ergibt sich der Gebäudeabstand aus der Summe der massgebenden Grenzabstände.
+
+<sup>5</sup> Die Gemeinden können im Bau- und Zonenreglement innerhalb von Arbeits- und Zentrumszonen in Abweichung von Absatz 2 und 4, Art. 79 Abs. 1 und 3 sowie Art. 80 Abs. 1 dieses Gesetzes geringere Grenz- und Gebäudeabstände festlegen.
+
+<sup>6</sup> Für zeitlich befristete Bauten können die Gemeinden einen geringeren Gebäudeabstand bewilligen, wenn sich die Bauten auf demselben Grundstück befinden oder die Eigentümerin oder der Eigentümer des angrenzenden Nachbargrundstücks schriftlich zustimmt.
+
+#### Art. 79
+
+**c. bei Klein-, An- und Kleinstbauten**
+
+<sup>1</sup> Für Klein- und Anbauten gilt ein Grenzabstand von 1,5 m, wenn deren Länge gegenüber der Nachbargrenze 10,0 m nicht übersteigt.
+
+<sup>2</sup> Klein- und Kleinstbauten haben gegenüber zugehörigen Gebäuden, die auf dem gleichen Grundstück stehen, keinen Gebäudeabstand einzuhalten.
+
+<sup>3</sup> Für Kleinstbauten gilt ein Grenzabstand von 1,0 m. Mit dem schriftlichen Einverständnis der Eigentümerin oder des Eigentümers des angrenzenden Grundstücks können die gleichen Abstandsvorschriften wie für Einfriedungen angewendet werden.
+
+#### Art. 80
+
+**d. unterirdische Bauten und Unterniveaubauten**
+
+<sup>1</sup> Unterirdische Bauten haben einen Grenzabstand von mindestens 1,0 m einzuhalten. Das gleiche gilt für Unterniveaubauten, wenn sie entlang der entsprechenden Grenze nicht mehr als 1,0 m über das massgebende bzw. tiefer gelegte Terrain ragen.
+
+<sup>2</sup> Mit schriftlichem Einverständnis der Eigentümerin oder des Eigentümers des angrenzenden Grundstücks darf von den Massen gemäss Absatz 1 abgewichen werden.
+
+#### Art. 81
+
+**e. Mehrlängenzuschlag**
+
+<sup>1</sup> Der Mehrlängenzuschlag bezeichnet bei Gebäuden innerhalb der Bauzonen nach Artikel 22 dieses Gesetzes, welche eine Gebäudelänge von 36,0 m überschreiten, den Zuschlag zum Grenzabstand.
+
+<sup>2</sup> Der Zuschlag beträgt einen Drittel der Mehrlänge des Gebäudes, höchstens jedoch das Mass des jeweiligen Grenzabstands.
+
+<sup>3</sup> Die massgebende Gebäudelänge für die Berechnung des Mehrlängenzuschlags ergibt sich aus der senkrechten Projektion des Gebäudekörpers auf die Grundstückgrenze. Bei gestaffelten oder nicht parallel zur Grenze gestellten Baukörpern vermindert sich die massgebende Gebäudelänge um das Mass der Zurückversetzung, gemessen ab dem Grenzabstand.
+
+<sup>4</sup> Gegenüber den Gebäudeecken ist der Mehrlängenzuschlag nicht zu berücksichtigen.
+
+<sup>5</sup> In Arbeits-, Zentrums- sowie Tourismus- und Freizeitzonen kann der Gemeinderat auf den Mehrlängenzuschlag verzichten, wenn dadurch keine wohnhygienisch schlechten Verhältnisse entstehen. Gegenüber Wohnzonen und gemischten Zonen ist jedoch der Mehrlängenzuschlag einzuhalten.
+
+#### Art. 82
+
+**f. Altbauten und abweichende Vereinbarungen**
+
+<sup>1</sup> Hält ein Altbau den geltenden Grenzabstand nicht ein, hat ein Neubau auf einem angrenzenden Grundstück nur den Grenzabstand, nicht aber den Gebäudeabstand einzuhalten, sofern dadurch keine wohnhygienisch schlechten Verhältnisse entstehen; andernfalls kann der Gemeinderat eine Vergrösserung des Grenzabstands bis zur Einhaltung des Gebäudeabstands verlangen.
+
+<sup>2</sup> Durch nachbarrechtliche Dienstbarkeit können die Grenzabstände bei Einhaltung des Gebäudeabstands auf die in Betracht kommenden Grundstücke ungleich verteilt werden, sofern beide Grundstücke in der Bauzone oder beide Grundstücke ausserhalb der Bauzone liegen.
+
+<sup>3</sup> Bei Vorliegen einer projektbezogenen Dienstbarkeit kann der Gemeinderat eine Reduktion des Gebäudeabstands zwischen zwei Gebäuden auf benachbarten Grundstücken um maximal die Hälfte bewilligen, wenn dies architektonisch oder aussenraumgestalterisch zu einer besseren Gesamtlösung führt. Das Gleiche gilt, wenn sich die Gebäude auf dem gleichen Grundstück befinden. In diesem Fall ist mit der Baubewilligung im Grundbuch die Pflicht anzumerken, dass bei einer künftigen Parzellierung eine entsprechende Dienstbarkeit abzuschliessen ist.
+
+#### Art. 83
+
+**Abstand zur Nichtbauzone**
+
+<sup>1</sup> Gebäude mit Wohnnutzung innerhalb Bauzonen haben gegenüber der Landwirtschaftszone immer den massgebenden Grenzabstand einzuhalten, auch wenn keine Grundstücksgrenze vorliegt.
+
+<sup>2</sup> Ausserhalb der Bauzonen gilt gegenüber der Bauzonengrenze der Grenzabstand der angrenzenden Bauzone.
+
+#### Art. 84
+
+**Strassenabstand**
+
+<sup>1</sup> Gegenüber Strassen sind folgende Mindestabstände für Bauten und oberirdische Anlagen einzuhalten:
+
+- a. 8,0 m bei Hauptstrassen ausserhalb des Siedlungsgebiets;
+- b. 4,0 m bei allen übrigen Strassen.
+
+<sup>2</sup> Auskragende Gebäudeteile dürfen den Strassenabstand und Baulinien entlang von Strassen höchstens bis zu 1,0 m überragen, sofern bei bestehenden oder geplanten Trottoirs eine lichte Höhe von mindestens 3,0 m eingehalten und das Lichtraumprofil der Strasse freigehalten wird.
+
+<sup>3</sup> Für unterirdische Bauten kann der Gemeinderat mit dem schriftlichen Einverständnis der Strasseneigentümerschaft verminderte Abstände bewilligen. Das Gleiche gilt für Unterniveaubauten, wenn sie im Bereich des Strassenabstands vollständig unter dem massgebenden oder tiefer gelegten Terrain liegen.
+
+<sup>4</sup> Bei siedlungsorientierten, verkehrsberuhigten Strassen kann der Gemeinderat für Anlagen, Klein-, An- und Kleinstbauten mit schriftlicher Zustimmung der Strasseneigentümerschaft verminderte Abstände bewilligen, sofern die Verkehrssicherheit gewährleistet bleibt.
+
+<sup>5</sup> Für Anlagen mit funktionalem Zusammenhang zu Strassen wie Billettautomaten, Kehrichtsammelstellen, Verteilerkästen, Parkplätze, Fahrradständer usw. kann der Gemeinderat mit schriftlicher Zustimmung der Strasseneigentümerschaft Ausnahmen von den Abstandsvorschriften bewilligen, wenn keine überwiegenden Interessen entgegenstehen.
+
+<sup>6</sup> Der Strassenabstand wird senkrecht zum bestehenden oder projektierten Strassenrand gemessen. Parkfelder und das Trottoir werden beim Strassenabstand nicht berücksichtigt.
+
+#### Art. 85
+
+**Wald-, Hecken- und Ufergehölzabstand**
+
+<sup>1</sup> Strassen, unterirdische Bauten und Anlagen sowie Park- und Lagerplätze haben einen Waldabstand von 8,0 m einzuhalten. Alle anderen Bauten und Anlagen haben einen Waldabstand von 15,0 m einzuhalten.
+
+<sup>2</sup> Für An-, Klein- und Kleinstbauten sowie für Anlagen kann mit schriftlicher Zustimmung der Waldeigentümerin oder des Waldeigentümers und der Bewilligung des Amts für Wald und Landschaft der Waldabstand bis auf 8,0 m reduziert werden. Die Bewilligung wird erteilt, wenn die Erhaltung, Pflege und Nutzung des Waldes nicht beeinträchtigt wird. Unter den gleichen Voraussetzung kann für öffentliche Fuss- und Wanderwege sowie für landwirtschaftliche Bewirtschaftungswege ein Waldabstand von weniger als 8,0 m bewilligt werden.
+
+<sup>3</sup> Der Waldabstand wird von der Waldgrenze zum nächstliegenden Punkt der projizierten Fassadenlinie oder der Anlage gemessen, wobei die Waldgrenze, sofern keine Waldfeststellung erfolgt ist, 2,0 m ausserhalb der äussersten Stämme des geschlossenen Waldes liegt.
+
+<sup>4</sup> Gegenüber geschützten Hecken und Ufergehölzen haben Bauten und Anlagen einen Abstand von 4,0 m einzuhalten.
+
+<sup>5</sup> Der Hecken- und Ufergehölzabstand wird vom äussersten Stock der Hecke bzw. des Ufergehölzes bis zum nächstliegenden Gebäudeteil gemessen.
+
+#### Art. 86
+
+**Gewässerabstand**
+
+<sup>1</sup> Bauten und Anlagen haben zum Gewässer den durch den Gewässerraum bestimmten Abstand einzuhalten.
+
+<sup>2</sup> Wo kein Gewässerraum ausgeschieden wurde[^86-1], sind folgende Mindestabstände einzuhalten:
+
+- a. 4,0 m bei Fliessgewässern;
+- b. 10,0 m bei Seen.
+
+<sup>3</sup> Der Abstand zu Fliessgewässern wird ab oberer Böschungskante, bei Dämmen ab äusserem Böschungsfuss gemessen. Bei Seen wird der Abstand ab der fachlich definierten Seeuferlinie gemessen.
+
+[^86-1]: Siehe Übergangsbestimmungen zur Änderung der Gewässerschutzverordnung (GSchV) vom 4. Mai 2011, für Gewässer, bei denen der Gewässerraum noch nicht festgelegt wurde (SR [814.201](https://db.clex.ch/link/Bund/814.201/de))
+
+#### Art. 87
+
+**Besondere Abstandsbestimmungen**
+
+<sup>1</sup> Der Abstand gegenüber Nationalstrassen, Bahnlinien und Hochspannungsleitungen bemisst sich nach den Bestimmungen des Bundesrechts.
+
+<sup>2</sup> Die Abstandsbestimmungen von Art. 84 bis 87 dieses Gesetzes gehen den Grenzabstandsbestimmungen vor.
+
+<sup>3</sup> Die durch Baulinien festgelegten Abstände gehen allen anderen öffentlich-rechtlichen Abstandsbestimmungen vor.
+
+#### Art. 88
+
+**Einfriedungen, Abgrabungen und Böschungen**
+
+<sup>1</sup> Künstliche Einfriedungen bis zu 1,2 m Höhe sowie hinterfüllte Mauern bis 1,0 m Höhe dürfen an die Grundstückgrenze und bei öffentlichen Wegen an den Wegrand gestellt werden. Übersteigen sie diese Höhe, ist ein der Mehrhöhe entsprechender zusätzlicher Abstand einzuhalten. Die Absturzsicherung ist einzurechnen.
+
+<sup>2</sup> Lebhäge bis zu 1,2 m Höhe dürfen bis 0,6 m, gemessen ab dem äussersten Stock, an die Grenze und an öffentliche Wege gestellt werden. Übersteigen sie diese Höhe, ist ein der Mehrhöhe entsprechender zusätzlicher Abstand einzuhalten.
+
+<sup>3</sup> Entlang von Strassen und Trottoirs sind im Abstand von 1,0 m sichtbehindernde Einfriedungen, sichtbehindernde hinterfüllte Mauern und andere sichtbehindernde Anlagen und Pflanzungen mit einer Höhe von mehr als 0,6 m nicht zulässig. Darüber hinaus und für nicht sichtbehindernde Einfriedungen, hinterfüllte Mauern und andere nicht sichtbehindernden Anlagen und Pflanzungen gelten die Abstandsregeln nach Absatz 1 und 2 sinngemäss. Gegenüber angrenzenden Grundstücken ist darauf zu achten, dass die Sichtweiten bei bestehenden oder zukünftigen Ausfahrten eingehalten werden bzw. eingehalten werden können.
+
+<sup>4</sup> Mit Mauern befestigte Abgrabungen bis zu einer Höhe von 1,0 m dürfen bis an die Grundstückgrenze, den Strassen-, Trottoir- oder Wegrand errichtet werden. Übersteigen sie diese Höhe, ist zusätzlich ein der Mehrhöhe entsprechender Abstand, höchstens jedoch 1,5 m, einzuhalten. Die Absturzsicherung ist einzurechnen.
+
+<sup>5</sup> Die Gemeinden legen im Bau- und Zonenreglement die maximale Höhe von Stützmauern und mauerartigen Böschungen fest.
+
+<sup>6</sup> Böschungen aufgrund von Abgrabungen oder Aufschüttungen haben vom Nachbargrundstück, von Strassen, Trottoirs und öffentlichen Wegen einen Abstand von 0,5 m einzuhalten und dürfen eine Neigung von 1:1 nicht überschreiten.
+
+<sup>7</sup> Mit schriftlicher Zustimmung der Eigentümerin oder des Eigentümers des angrenzenden Grundstücks bzw. der Inhaberin oder des Inhabers des Wegrechts kann von den Abstandsvorschriften gemäss Absatz 1, 2, 4 und 6 abgewichen werden.
+
+### 3.4 Frei- und Gemeinschaftsflächen
+
+#### Art. 89
+
+**Freiflächen**
+
+<sup>1</sup> Die Gemeinden legen im Bau- und Zonenreglement Mindestmasse an Freiflächen fest. Sie berücksichtigen dabei, dass Freiflächen möglichst:
+
+- a. nicht versiegelt (sickerfähig) sind (Art. 7 Abs. 2 GSchG[^89-1]);
+- b. begrünt und mit einheimischen Bäumen und Sträuchern bepflanzt sind (Art. 3 Abs. 3 Bst. e RPG[^89-2]);
+- c. dem ökologischen Ausgleich dienen (Art. 18b Abs. 2 NHG[^89-3]).
+
+<sup>2</sup> In Tourismus- und Freizeitzonen sowie in Grünzonen kann darauf verzichtet werden.
+
+[^89-1]: Bundesgesetz über den Schutz der Gewässer (GSchG; SR [814.20](https://db.clex.ch/link/Bund/814.20/de))
+[^89-2]: SR [700](https://db.clex.ch/link/Bund/700/de)
+[^89-3]: Bundesgesetz über den Natur- und Heimatschutz (NHG; SR [451](https://db.clex.ch/link/Bund/451/de))
+
+#### Art. 90
+
+**Spiel- und Gemeinschaftsflächen**
+
+<sup>1</sup> Bei Mehrfamilienhäusern und Wohnüberbauungen mit sechs Wohnungen oder mehr sind an geeigneten Orten dem Bedarf entsprechende Spielplätze und Flächen für das freie Spiel zu erstellen.
+
+<sup>2</sup> Bei Wohnüberbauungen mit sechs oder mehr Wohnungen sind zusätzlich Treffpunkte und Aufenthaltsflächen im gemeinschaftlichen Aussenraum zu errichten, von denen ein angemessener Teil vor Witterungseinflüssen ausreichend geschützt ist.
+
+<sup>3</sup> Die Gemeinden können im Bau- und Zonenreglement festlegen, dass eine Ersatzabgabe zu leisten ist, wenn die örtlichen Verhältnisse die Erstellung der erforderlichen Spiel- und Gemeinschaftsflächen verunmöglichen. Die Ersatzabgabe ist für die Errichtung und den Unterhalt öffentlicher Spielplätze, Freiflächen und Freizeitanlagen zu verwenden.
+
+### 3.5 Abstellflächen und Verkehrsabwicklung
+
+#### Art. 91
+
+**Abstellflächen für Motorfahrzeuge, Motorfahrräder und Fahrräder**
+
+<sup>1</sup> Die Gemeinden legen im Bau- und Zonenreglement bei Neubauten, wesentlichen Umbauten, Erweiterungen und Nutzungsänderungen von Bauten den notwendigen Bedarf an Abstellflächen für Motorfahrzeuge, Motorfahrräder und Fahrräder in Anlehnung an die Normen des Schweizerischen Verbandes der Strassen- und Verkehrsfachleute (VSS) fest. Die Abstellflächen müssen auf privatem Grund erstellt werden und dauernd benutzt werden können.
+
+<sup>2</sup> Eine Abweichung vom Bedarf gemäss Absatz 1 ist bei speziellen örtlichen Verhältnissen beziehungsweise Nutzungen oder mit einem Mobilitätskonzept möglich.
+
+<sup>3</sup> Grössere Parkierungsanlagen sind landsparend anzuordnen.
+
+<sup>4</sup> Die Gemeinden können im Bau- und Zonenreglement bestimmen, dass:
+
+- a. erhaltenswerte Grün- und Freiräume nicht für Abstellflächen beansprucht werden dürfen;
+- b. Abstellflächen für bestimmte Gebiete als Gemeinschaftsanlagen zu erstellen sind;
+- c. grössere, öffentlich zugängliche Abstellflächen bewirtschaftet werden;
+- d. eine Ersatzabgabe zu entrichten ist, wenn die Erstellung der erforderlichen Abstellflächen rechtlich oder tatsächlich nicht möglich oder der Aufwand unzumutbar ist; die Ersatzabgabe ist in erster Linie für die Errichtung oder den Unterhalt öffentlich zugänglicher Abstellflächen zu verwenden.
+
+#### Art. 92
+
+**Verkehrsabwicklung**
+
+<sup>1</sup> Die Verkehrssicherheit auf Strassen, Trottoirs und öffentlichen Wegen darf weder durch unzweckmässige Ausfahrten noch durch Mauern, Pflanzen, Einfriedungen oder andere Anlagen beeinträchtigt werden. Der Gemeinderat ist berechtigt, Massnahmen zur Behebung von unrechtmässigen oder verkehrsmässig gefährlichen Situationen anzuordnen.
+
+<sup>2</sup> Mit dem Baugesuch ist nachzuweisen, dass die Sichtweiten gemäss den Normen des Schweizerischen Verbands der Strassen- und Verkehrsfachleute (VSS) bei Ausfahrten eingehalten werden.
+
+<sup>3</sup> Der Gemeinderat kann angrenzende Grundeigentümerinnen und Grundeigentümer verpflichten, bestehende Einfriedungen oder andere sichtbehindernde Anlagen und Pflanzungen auf Kosten der Gesuchstellerin oder des Gesuchstellers anzupassen, sofern nicht anderweitig eine zweckmässige und verkehrssichere Erschliessung realisiert werden kann.
+
+<sup>4</sup> Bei Garagen mit direkter Ausfahrt ist vom Trottoir und, wo kein Trottoir besteht, von der Strasse ein Abstand von 6,0 m einzuhalten, soweit kein grösserer Strassenabstand gilt. Bei siedlungsorientierten, verkehrsberuhigten Strassen kann der Gemeinderat einen Mindestabstand von 4,0 m bewilligen, wenn die Verkehrssicherheit gewährleistet ist.
+
+<sup>5</sup> Ein- und Ausfahrten von Garagen und Parkplätzen dürfen höchstens 18 Prozent Neigung aufweisen. Angrenzend an die Strasse bzw. an das Trottoir darf die Ausfahrt auf eine Tiefe von mindestens 2,0 m nicht mehr als drei Prozent Neigung aufweisen.
+
+#### Art. 93
+
+**Beanspruchung öffentlichen Grundes, Duldung öffentlicher Einrichtungen**
+
+<sup>1</sup> Die Gemeinden regeln im Bau- und Zonenreglement die Zulässigkeit, das Verfahren und die Entschädigung bei vorübergehender Inanspruchnahme öffentlichen Grundes für Bauarbeiten.
+
+<sup>2</sup> Die Grundeigentümerinnen und Grundeigentümer haben Signale, Strassenbezeichnungen, Zeichen öffentlicher Werke, Vermessungszeichen, öffentliche Beleuchtungseinrichtungen und dergleichen sowie Leitungen an ihren Bauten, an Einfriedungen und auf ihren Grundstücken zu dulden. Ihre Interessen sind angemessen zu berücksichtigen. Entschädigungsansprüche bleiben vorbehalten.
+
+### 3.6 Gesundheit und hindernisfreies Bauen
+
+#### Art. 94
+
+**Gesundheit**
+
+<sup>1</sup> Bauten und Anlagen müssen so gestaltet sein, dass die Gesundheit der Benutzerinnen und Benutzer nicht gefährdet wird und sie den Anforderungen der Hygiene entsprechen. Die Gemeinden erlassen im Bau- und Zonenreglement die entsprechenden Vorschriften.
+
+<sup>2</sup> Bei Gefahr für die Gesundheit kann der Gemeinderat die Benutzung der Baute oder Anlage verbieten oder andere Massnahmen anordnen.
+
+#### Art. 95
+
+**Hindernisfreies Bauen**
+
+<sup>1</sup> Neue öffentlich zugängliche Bauten und Anlagen im Sinne der Behindertengleichstellungsgesetzgebung[^95-1] müssen für Menschen mit Behinderungen zugänglich und benützbar sein.
+
+<sup>2</sup> Bei neuen Wohngebäuden mit mehr als fünf Wohneinheiten müssen alle Einheiten hindernisfrei zugänglich sein. Das Innere der einzelnen Wohneinheiten muss bei Bedarf hindernisfrei ausgestaltet werden können.
+
+<sup>3</sup> Neue Gebäude mit mehr als 30 Arbeitsplätzen müssen hindernisfrei zugänglich sein und das Innere muss bei Bedarf hindernisfrei ausgestaltet werden können.
+
+<sup>4</sup> Bei Erneuerung, Änderung und Erweiterung von Bauten und Anlagen gemäss Absatz 1 bis 3 sind die Anforderungen an das hindernisfreie Bauen angemessen zu berücksichtigen.
+
+<sup>5</sup> Die baulichen Anforderungen richten sich nach der Norm SN 521 500 "Hindernisfreie Bauten" des Schweizerischen Ingenieur- und Architektenvereins (SIA).
+
+<sup>6</sup> Auf Vorkehren für hindernisfreies Bauen kann ganz oder teilweise verzichtet werden, wenn dadurch wesentliche betriebliche Nachteile oder unverhältnismässige Mehrkosten entstehen oder andere Interessen überwiegen.
+
+[^95-1]: Bundesgesetz über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (BehiG; SR [151.3](https://db.clex.ch/link/Bund/151.3/de))
+
+### 3.7 Sicherheit
+
+#### Art. 96
+
+**Sicherheit von Bauten und Anlagen**
+
+<sup>1</sup> Bauten und Anlagen sind so zu gestalten, dass sie den Regeln der Baukunde und den Erfordernissen der Sicherheit entsprechen. Erstellung und Abbruch haben den anerkannten Regeln der Technik zu genügen. Werden infolge mangelhafter Ausführung oder wegen mangelhaftem Unterhalt Personen, Tiere oder die Umwelt gefährdet, so veranlasst der Gemeinderat nach erfolgloser Aufforderung die Ersatzvornahme auf Kosten der Eigentümerin oder des Eigentümers.
+
+#### Art. 97
+
+**Bauen in Gefahrengebieten**
+
+<sup>1</sup> Gefahrenkarten bezeichnen Gebiete, die durch Überschwemmungen, Steinschlag, Rutschungen, Lawinen oder andere Naturereignisse bedroht sind wie folgt:
+
+- a. erhebliche Gefährdung: rot;
+- b. mittlere Gefährdung: blau;
+- c. geringe Gefährdung: gelb;
+- d. Restgefährdung: gelb-weiss schraffiert.
+
+<sup>2</sup> In Gebieten mit erheblicher Gefährdung sind baubewilligungspflichtige Massnahmen unzulässig. Das Amt für Wald und Landschaft kann Ausnahmen bewilligen, insbesondere
+
+- a. für neue Bauten und Anlagen, wenn die Gefährdung beseitigt oder zureichend reduziert wurde;
+- b. für den Wiederaufbau, die Erweiterung, die Sanierung, den Umbau, und die Nutzungsänderung von Bauten und Anlagen, wenn damit eine zureichende Reduktion des Risikos für Personen und Sachwerte einhergeht;
+- c. wenn die Gefährdung für das Bauvorhaben nicht relevant ist.
+
+<sup>3</sup> In Gebieten mit mittlerer Gefährdung und geringer Gefährdung sind für Bauten und Anlagen sachgerechte Objektschutzmassnahmen oder Auflagen anzuordnen.
+
+<sup>4</sup> In Gebieten mit einer Restgefährdung können bei Sonderrisiken, insbesondere bei einer möglichen Gefährdung Dritter, bei umweltgefährdenden Stoffen oder bei wichtigen Versorgungseinrichtungen, Massnahmen zur Gefahrenreduktion angeordnet werden.
+
+<sup>5</sup> Der Nachweis, dass dem Schutz vor Naturgefahren genügend Rechnung getragen wird, ist zusammen mit dem Baugesuch zu erbringen. Bauvorhaben in Gebieten mit mittlerer Gefährdung sowie bei Sonderrisiken in Gebieten mit geringer Gefährdung und in Gebieten mit einer Restgefährdung sind durch das Amt für Wald und Landschaft zu beurteilen, sofern die Gefahr für das Vorhaben relevant ist.
+
+<sup>6</sup> Bei Bauten und Anlagen mit einem erhöhten Schutzbedarf aufgrund der Personenbelegung, des Schadenpotenzials oder der Bedeutung für die Krisenbewältigung ist mit dem Baugesuch der Nachweis des erdbebensicheren Bauens zu erbringen.
+
+### 3.8 Energie
+
+#### Art. 98
+
+**Energieeffizientes Bauen**
+
+<sup>1</sup> Neubauten, Umbauten und Sanierungen haben den Anforderungen an eine sparsame Energieverwendung und rationelle Energienutzung, insbesondere im Bereich der Gebäudehülle und Haustechnik, gemäss den anerkannten Regeln der Technik zu genügen.
+
+<sup>2</sup> Bei Neubauten und erheblichen Erweiterungen muss das Gebäude einen Teil der benötigten Elektrizität selbst oder im Verbund erzeugen.
+
+<sup>3</sup> Soweit keine überwiegenden öffentlichen Interessen entgegenstehen, sind für energetische Sanierungen an bestehenden Gebäuden folgende Abweichungen von den gesetzlichen und reglementarischen Bestimmungen zulässig:
+
+- a. die Abstände dürfen um maximal 25 cm unterschritten werden;
+- b. die Höhenmasse dürfen um maximal 25 cm überschritten werden;
+- c. die Gebäudelänge und Gebäudebreite dürfen insgesamt je um maximal 50 cm überschritten werden.
+
+<sup>4</sup> Kanton und Gemeinden nehmen in Bezug auf eine sparsame Energienutzung eine Vorbildfunktion ein.
+
+#### Art. 99
+
+**Energiefonds**
+
+<sup>1</sup> Der Kanton unterhält einen Energiefonds, der durch Beiträge des Kantons, des Bundes und Dritter geäufnet wird. Der Fonds bezweckt die Förderung energetischer Massnahmen bei Neu- und Umbauten und energieeffizienter Bauweisen sowie von Projekten zur Förderung sparsamer Energieverwendung oder rationeller Energienutzung.
+
+<sup>2</sup> Es besteht kein Rechtsanspruch auf Fördergelder aus dem Energiefonds.
+
+<sup>3</sup> Der Regierungsrat erlässt ein Fondsreglement und legt die Förderbedingungen fest.
+
+#### Art. 100
+
+**Ausführungsrecht im Energiebereich**
+
+<sup>1</sup> Der Regierungsrat erlässt Ausführungsbestimmungen zu Art. 45, Art. 45a und Art. 46 des Energiegesetzes[^100-1] sowie Art. 9 des CO₂-Gesetzes[^100-2] und regelt die Einzelheiten über die Energienutzung im Baubereich. Er bestimmt, welche Teile der Mustervorschriften der Kantone im Energiebereich anwendbar sind und regelt die Einzelheiten. Er kann insbesondere:
+
+- a. die Höhe der Eigenstromproduktion und eine Ersatzabgabe bei ungenügender Eigenstromproduktion bis Fr. 1 500.– pro nicht realisierter kW-Leistung festlegen;
+- b. bestimmte Heiz- und Wärmeerzeugungssysteme verbieten;
+- c. Vorschriften zur verbrauchsabhängigen Heiz- und Warmwasserkostenabrechnung erlassen;
+- d. Vorschriften zur Energienutzung in Ferienhäusern und Ferienwohnungen erlassen;
+- e. festlegen, in welchen Fällen der Energienachweis und der Gebäudeenergieausweis zu erbringen sind.
+
+[^100-1]: SR [730.0](https://db.clex.ch/link/Bund/730.0/de)
+[^100-2]: SR [641.71](https://db.clex.ch/link/Bund/641.71/de)
+
+#### Art. 101
+
+**Energieplanung**
+
+<sup>1</sup> Der Regierungsrat kann unter Einbezug der Gemeinden, der Energieversorgungsunternehmen und der Energieproduzenten die kantonale Energieplanung erarbeiten und entsprechende Ausführungsbestimmungen erlassen. Er kann die Gemeinden zu einer kommunalen Energieplanung verpflichten.
+
+<sup>2</sup> Die Gemeinden, Energieversorgungsunternehmen, Energieproduzenten, Energielieferanten und Grossverbraucher sind verpflichtet, Auskünfte zu erteilen und Daten zu liefern, die für die Erarbeitung der Energieplanung benötigt werden; die Vorgaben des Datenschutzes sind dabei zu berücksichtigen und Geschäftsgeheimnisse zu wahren.
+
+### 3.9 Ausnahmebewilligung und Bestandesgarantie
+
+#### Art. 102
+
+**Ausnahmebewilligung**
+
+<sup>1</sup> Der Gemeinderat kann bei schützenswerten Interessen der Eigentümerin oder des Eigentümers eine von den Bauvorschriften abweichende Bewilligung erteilen:
+
+- a. wenn ausserordentliche Verhältnisse vorliegen und die Anwendung der Vorschriften für die Bauherrschaft zu einer offensichtlichen Härte führt;
+- b. wenn eine den öffentlichen Interessen, namentlich dem Sinn dieses Gesetzes besser entsprechende Überbauung erzielt werden kann;
+- c. beim Umbau von Altbauten;
+- d. wenn die Einhaltung gesetzlicher Bestimmungen im Einzelfall zu einer offensichtlich unsinnigen Lösung führen würde;
+- e. für befristete Zwischennutzungen und die dafür notwendigen Bauten und Anlagen, auch wenn diese nicht zonenkonform sind.
+
+<sup>2</sup> Durch die Ausnahmebewilligung dürfen weder wichtige öffentliche noch private Interessen wesentlich beeinträchtigt werden.
+
+<sup>3</sup> Unterschreitungen von den kantonalen Mindestvorschriften bedürfen der Zustimmung des Bau- und Raumentwicklungsdepartements. Die Gemeinde hat das Gesuch um Zustimmung zu begründen.
+
+#### Art. 103
+
+**Bestandesgarantie a. Grundsatz**
+
+<sup>1</sup> Weiterbestand, Unterhalt und zeitgemässe Erneuerung rechtmässig erstellter und bestimmungsgemäss nutzbarer Bauten und Anlagen, die dem Zweck der Nutzungszone oder den Bauvorschriften nicht entsprechen, sind gewährleistet.
+
+#### Art. 104
+
+**b. Erweiterung und Änderung**
+
+<sup>1</sup> In ihrem Bestand geschützte Bauten und Anlagen, die dem Zweck der Nutzungszone nicht entsprechen, dürfen unter Einhaltung der Bauvorschriften erweitert oder geändert werden, wenn keine wesentlichen öffentlichen Interessen verletzt werden und für die Nachbarschaft keine übermässigen Immissionen entstehen.
+
+<sup>2</sup> In ihrem Bestand geschützte Bauten und Anlagen, die den Bauvorschriften nicht entsprechen, können erweitert und geändert werden, wenn dadurch ihre Rechtswidrigkeit nicht verstärkt wird.
+
+#### Art. 105
+
+**c. Wiederaufbau**
+
+<sup>1</sup> In ihrem Bestand geschützte Bauten und Anlagen dürfen innert fünf Jahren innerhalb der bisherigen Abmessungen wieder aufgebaut werden. Nutzungsänderungen sind zulässig, wenn dadurch die Rechtswidrigkeit nicht verstärkt wird. Eine Änderung des Standorts zur Verbesserung der Situation ist zulässig, soweit keine überwiegenden Interessen entgegenstehen.
+
+<sup>2</sup> Zur Wahrung überwiegender Interessen kann der Gemeinderat Änderungen der Abmessungen, der Nutzung, der Gestaltung oder des Standorts anordnen.
+
+## 4. Formelle Bauvorschriften
+
+### 4.1 Baubewilligungspflicht und Organisation
+
+#### Art. 106
+
+**Baubewilligungspflicht**
+
+<sup>1</sup> Errichtung, Änderung, Abbruch und Nutzungsänderungen von Bauten und Anlagen sind baubewilligungspflichtig, sofern die Massnahmen die Nutzungsordnung zu beeinflussen vermögen, insbesondere indem sie den Raum äusserlich erheblich verändern, die Erschliessung belasten oder die Umwelt beeinträchtigen können.
+
+<sup>2</sup> Baubewilligungspflichtige Bauten und Anlagen sind insbesondere:
+
+- a. alle Gebäude und gebäudeähnlichen sowie alle weiteren, künstlich hergestellten und mit dem Boden fest verbundenen Objekte;
+- b. Tiefbauten wie Strassen, Wege, Abstellflächen, unterirdische Bauten, Swimmingpools;
+- c. Steinbrüche, Kies- und andere Gruben, Ablagerungen und Deponien, Materialaufbereitungen;
+- d. Freizeit- und andere Anlagen mit erheblichen Einwirkungen auf Umwelt und Umgebung;
+- e. Fahrnisbauten, welche über nicht unerhebliche Zeiträume ortsfest verwendet werden.
+
+<sup>3</sup> Die Baubewilligungspflicht kann mit einer Bauanzeige abgeklärt werden.
+
+<sup>4</sup> Der Regierungsrat kann in Ausführungsbestimmungen die Typen von Schutzzonen festlegen, in denen Solaranlagen baubewilligungspflichtig sind[^106-1].
+
+[^106-1]: Art. 18a Abs. 2 Bst. b RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
+
+#### Art. 107
+
+**Baubewilligungsfreie Bauvorhaben innerhalb der Bauzonen**
+
+<sup>1</sup> Sind keine öffentlichen Interessen betroffen, sind innerhalb der Bauzonen insbesondere folgende Bauvorhaben baubewilligungsfrei:
+
+- a. energetisch unbedeutende Sanierungen, Renovationen und Unterhaltsarbeiten, bei denen bestehende Materialien durch gleichartige neue ersetzt werden[^107-1];
+- b. Kleinstbauten;
+- c. Baubaracken, Bauinstallationen, Baupisten, Bauparkplätze und Baureklamen für die Dauer der Bauausführung;
+- d. offene und geschlossene Einfriedungen bis 1,2 m Höhe;
+- e. Terrainveränderungen mit oder ohne Stützmauer mit einer Aufschüttung oder Abgrabung von höchstens 0,8 m und einer veränderten Kubatur von höchstens 200 m³;
+- f. Aussenreklamen mit einer Fläche bis 1,0 m²;[^107-2]
+- g. Bauten und Anlagen, die nach Bundesrecht nicht der kantonalen Bauhoheit unterliegen, oder Bauvorhaben, die durch andere Gesetze umfassend geregelt sind, insbesondere hinsichtlich der Berücksichtigung der Anliegen des Planungs- und Baurechts und der Wahrung der Einsprache- und Beschwerdemöglichkeit.
+
+<sup>2</sup> Der Regierungsrat kann in Ausführungsbestimmungen Typen von ästhetisch wenig empfindlichen Bauzonen festlegen, in denen nicht auf Dächern montierte Solaranlagen und energetische Sanierungen nur meldepflichtig sind[^107-3]. Er kann im Rahmen der bundesrechtlichen Vorgaben die Baubewilligungsfreiheit weiter ausdehnen.
+
+[^107-1]: Siehe Art. 10 und 11 Denkmalschutzverordnung (DSV; GDB [451.21](http://gdb.ow.ch/data/451.21/de))
+[^107-2]: Siehe Art. 10 bis 12 DSV (GDB [451.21](http://gdb.ow.ch/data/451.21/de)); Strassenreklamen bedürfen zudem nach Art. 99 der Strassensignalisationsverordnung (SSV; SR [741.21](https://db.clex.ch/link/Bund/741.21/de)) einer Bewilligung durch die Kantonspolizei (Art. 7 Bst. i EG kantonales Strassenverkehrsgesetz [GDB [771.1](http://gdb.ow.ch/data/771.1/de)])
+[^107-3]: Art. 18a Abs. 2 Bst. a RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
+
+#### Art. 108
+
+**Baubewilligungsbehörde**
+
+<sup>1</sup> Baubewilligungsbehörde ist der Gemeinderat. Soweit die Gesetzgebung nichts anderes bestimmt, können die Gemeinden im Bau- und Zonenreglement den Entscheid über Bauvorhaben von geringer Bedeutung einer Kommission oder der Verwaltung übertragen.
+
+<sup>2</sup> Eine Delegation ist ausgeschlossen, wenn ein Bauvorhaben einer kantonalen Bewilligung bedarf.
+
+### 4.2 Verfahren
+
+#### Art. 109
+
+**Verfahrensarten**
+
+<sup>1</sup> Baubewilligungen werden im ordentlichen Verfahren erteilt.
+
+<sup>2</sup> Bauvorhaben, die keine wesentlichen öffentlichen Interessen berühren und bei denen der Kreis der Betroffenen eindeutig feststeht, können im vereinfachten Verfahren beurteilt werden. Namentlich können darunterfallen:
+
+- a. geringfügige, aber bewilligungsrechtlich erhebliche Planänderungen an bereits bewilligten Vorhaben;
+- b. bauliche bewilligungsrechtlich erhebliche Änderungen, die nach aussen nicht oder nur unwesentlich in Erscheinung treten;
+- c. baubewilligungspflichtige energetische Sanierungen;
+- d. zeitlich befristete Bauten und Anlagen sowie Fahrnisbauten;
+- e. Einfriedungen über 1,2 m Höhe;
+- f. Terrainveränderungen mit einer Aufschüttung oder Abgrabung von höchstens 1,2 m und einer veränderten Kubatur von höchstens 1 000 m³;
+- g. Aussenreklamen mit einer Fläche von mehr als 1,0 m², ausgenommen in Ortsbildschutzgebieten, Umgebungsschutzgebieten oder an geschützten Kulturobjekten;
+- h. unterirdische Werkleitungen;
+- i. Abbrüche von Bauten und Anlagen.
+
+<sup>3</sup> Ausgeschlossen ist das vereinfachte Verfahren, wenn ideelle Verbände einspracheberechtigt sind, insbesondere beim Vollzug von Bundesaufgaben (Bauten und Anlagen ausserhalb der Bauzonen, Gewässerschutzbewilligungen, Rodungsbewilligungen usw.).
+
+<sup>4</sup> Bei grösseren Bauvorhaben oder zur Abklärung wichtiger Bau- und Nutzungsfragen kann um einen Vorentscheid ersucht werden.
+
+#### Art. 110
+
+**Ordentliches Verfahren a. Baugesuch**
+
+<sup>1</sup> Für bewilligungspflichtige Bauvorhaben ist vor Baubeginn ein von der Gesuchstellerin oder vom Gesuchsteller unterzeichnetes Baugesuch auf dem amtlichen Formular bei der Gemeinde einzureichen.
+
+<sup>2</sup> Bei Bauen auf fremdem Grund hat die Gesuchstellerin oder der Gesuchsteller den Nachweis der Berechtigung für das geplante Bauvorhaben zu erbringen.
+
+#### Art. 111
+
+**b. Beilagen**
+
+<sup>1</sup> Mit dem Baugesuch sind die für die Beurteilung benötigten Beilagen einzureichen. Das Bau- und Raumentwicklungsdepartement legt die Einzelheiten fest.
+
+<sup>2</sup> Mit Zustimmung der Gemeinde kann in besonderen Fällen auf die Einreichung einzelner Beilagen verzichtet werden.
+
+<sup>3</sup> Die mit der Prüfung betrauten Stellen können im Einzelfall ergänzende Unterlagen einfordern.
+
+<sup>4</sup> Beim Gesuch um einen Vorentscheid oder bei der Bauanzeige sind jene Unterlagen einzureichen, die zur Beurteilung der gestellten Fragen nötig sind.
+
+<sup>5</sup> Werden notwendige Unterlagen oder Ergänzungen auch nach Mahnung nicht eingereicht, wird auf das Gesuch nicht eingetreten.
+
+#### Art. 112
+
+**c. Baugespann und öffentliche Auflage**
+
+<sup>1</sup> Für Bauvorhaben sind vor der Bekanntmachung des Baugesuches Baugespanne aufzustellen. Baugespanne dürfen vor der rechtskräftigen Erledigung des Baugesuches entfernt werden, sofern keine Einsprachen vorliegen. Bei Rechtsmittelverfahren ist die mit dem Fall befasste Rechtsmittelinstanz für die Bewilligung zur vorzeitigen Entfernung zuständig.
+
+<sup>2</sup> Baugesuche werden – vorbehältlich bundesrechtlicher Minimalvorgaben – während 20 Tagen unter Hinweis auf die Zonenzuordnung bzw. allfällig benötigter Sonderbewilligungen öffentlich aufgelegt und gleichzeitig im Amtsblatt bekannt gemacht. Auf die Einsprachemöglichkeit ist hinzuweisen.
+
+#### Art. 113
+
+**d. Einsprache**
+
+<sup>1</sup> Während der Auflagefrist kann bei der Gemeinde Einsprache erhoben werden.
+
+<sup>2</sup> Die Gemeinde führt in der Regel eine Einigungsverhandlung durch.
+
+<sup>3</sup> Führen Einsprachen zu wesentlichen Änderungen des Baugesuchs, so ist die öffentliche Auflage erneut durchzuführen. Ist nur eine kleine Zahl von Einspracheberechtigten von der Änderung betroffen, so kann die Änderung diesen unter Einräumung einer neuen Einsprachefrist von 20 Tagen ohne erneute öffentliche Auflage zur Kenntnis gebracht werden.
+
+<sup>4</sup> Über öffentlich-rechtliche Einsprachen wird zusammen mit dem Baugesuch entschieden.
+
+<sup>5</sup> Privatrechtliche Einsprachen werden auf den Zivilrechtsweg verwiesen.
+
+#### Art. 114
+
+**Vereinfachtes Verfahren**
+
+<sup>1</sup> Beim vereinfachten Verfahren kann die Gemeinde auf einzelne Unterlagen und das Baugespann verzichten sowie von der Bekanntmachung und der öffentlichen Auflage absehen, sofern die Einspracheberechtigten dem Bauvorhaben schriftlich zugestimmt haben.
+
+<sup>2</sup> Bei Bauvorhaben, die offensichtlich keine privaten Interessen Dritter berühren, kann von der Zustimmung abgesehen werden.
+
+#### Art. 115
+
+**Koordination[^115-1] a. Grundsätze**
+
+<sup>1</sup> Erfordern Bauvorhaben neben der Baubewilligung der Gemeinde Bewilligungen oder Stellungnahmen von kantonalen oder eidgenössischen Stellen und besteht zwischen diesen und der Baubewilligung der Gemeinde ein derart enger Sachzusammenhang, dass sie nicht unabhängig voneinander erteilt werden können, so sind sie inhaltlich und formell zu koordinieren.
+
+<sup>2</sup> Zuständige Koordinationsstelle auf Stufe Kanton ist die kantonale Baukoordination. Sie sorgt für die Koordination zwischen den kantonalen Stellen und mit dem Bund. Für die Koordination auf kommunaler Stufe sorgen die Gemeinden.
+
+<sup>3</sup> Der Regierungsrat kann in Ausführungsbestimmungen Einzelheiten zur materiellen und formellen Koordination regeln.
+
+[^115-1]: Art. 25a RPG (SR [700](https://db.clex.ch/link/Bund/700/de))
+
+#### Art. 116
+
+**b. Verfahren**
+
+<sup>1</sup> Die Gemeinde prüft, ob der rechtserhebliche Sachverhalt aus dem Baugesuch hervorgeht und sorgt bei Bedarf für die Ergänzung der Unterlagen.
+
+<sup>2</sup> Die Gemeinde leitet das Baugesuch mit ihrer Stellungnahme der kantonalen Baukoordination weiter, sofern das Baugesuch nicht aus Gründen abzuweisen ist, für deren Beurteilung die Gemeinde zuständig ist.
+
+<sup>3</sup> Die kantonale Baukoordination bezieht die betroffenen kantonalen und eidgenössische Stellen ein.
+
+<sup>4</sup> Die kantonale Baukoordination bestimmt den Inhalt der amtlichen Publikation, wenn kantonale Bewilligungen erforderlich sind. Die Gemeinde sorgt für die amtliche Publikation und führt die öffentliche Auflage durch.
+
+<sup>5</sup> Betreffen eingegangene Einsprachen Aspekte, die von kantonalen Stellen zu beurteilen sind, so leitet die Gemeinde sie mit ihrer Stellungnahme der kantonalen Baukoordination weiter, sofern die Eintretensvoraussetzungen erfüllt sind. Die betroffenen kantonalen Stellen beurteilen die Einsprachen materiell.
+
+<sup>6</sup> Die kantonale Baukoordination stellt den kantonalen Gesamtentscheid oder die kantonale Bewilligung und Stellungnahmen der Gemeinde gesamthaft zu.
+
+<sup>7</sup> Die Gemeinde entscheidet über Einsprachen und eröffnet sämtliche Bewilligungen zusammen mit dem Einspracheentscheid.
+
+### 4.3 Baubewilligung und Vorentscheid
+
+#### Art. 117
+
+**Baubewilligung**
+
+<sup>1</sup> Bauvorhaben werden bewilligt, wenn sie den planungs- und baurechtlichen sowie weiteren, im Baubewilligungsverfahren zu prüfenden Vorschriften entsprechen.
+
+<sup>2</sup> Die Baubewilligung kann mit Auflagen, Bedingungen und weiteren Nebenbestimmungen verbunden werden, insbesondere um:
+
+- a. geringfügige Verstösse gegen Vorschriften zu korrigieren;
+- b. eine Bewilligung nur für eine bestimmte Zeitdauer oder unter Vorbehalt des jederzeitigen Widerrufs zu erteilen, wobei die Baute oder Anlage entschädigungslos zu entfernen ist;
+- c. eine Bewilligung nur für einen bestimmten Zweck zu erteilen;
+- d. Pflichten, die mit der Bewilligung verbunden sind, sicherzustellen.
+
+<sup>3</sup> Nebenbestimmungen mit längerer zeitlicher Wirkung sind als öffentlich-rechtliche Eigentumsbeschränkung im Grundbuch anzumerken.
+
+<sup>4</sup> Die Gemeinden entscheiden über das Baugesuch in der Regel innert vier Wochen nach Abschluss der öffentlichen Auflage bzw. nach Vorliegen der kantonalen Bewilligungen und Stellungnahmen. Die kantonalen Bewilligungen sind in der Regel innert vier Wochen zu erteilen.
+
+#### Art. 118
+
+**Vorentscheid**
+
+<sup>1</sup> Der Vorentscheid gilt nur für die darin beurteilten Sachverhalte.
+
+<sup>2</sup> Gegenüber Dritten ist der Vorentscheid nur dann verbindlich, wenn das gleiche Verfahren wie für Baubewilligungen durchgeführt worden ist.
+
+<sup>3</sup> Die Geltungsdauer richtet sich nach Art. 119 Abs. 2 dieses Gesetzes. Eine Verlängerung ist nicht möglich.
+
+#### Art. 119
+
+**Baubeginn und Geltungsdauer der Baubewilligung**
+
+<sup>1</sup> Mit den Bauarbeiten darf erst begonnen werden, wenn die Baubewilligung in Rechtskraft erwachsen ist. Wurden Einsprachen eingereicht und auf den Zivilrechtsweg verwiesen, so darf frühestens 30 Tage nach der Erteilung der Baubewilligung mit den Grab- und Bauarbeiten begonnen werden.
+
+<sup>2</sup> Die Baubewilligung erlischt, wenn die Bauarbeiten nicht innert 18 Monaten nach Eintritt der Rechtskraft begonnen werden.
+
+<sup>3</sup> Begonnene Arbeiten müssen ohne erhebliche Unterbrechung zu Ende geführt werden. Bleiben sie länger als 18 Monate eingestellt, so erlischt die Baubewilligung.
+
+<sup>4</sup> Die Fristen können auf begründetes Gesuch hin aus wichtigen Gründen zweimal um je ein Jahr verlängert werden.
+
+<sup>5</sup> Bei unvollendeten Bauten kann eine angemessene Frist für die Fertigstellung der von aussen sichtbaren Bauteile festgesetzt werden.
+
+### 4.4 Baukontrolle, Wiederherstellung rechtmässiger Zustand
+
+#### Art. 120
+
+**Baukontrolle**
+
+<sup>1</sup> Die Gemeinden kontrollieren die Einhaltung der erteilten Baubewilligungen und regeln im Bau- und Zonenreglement die Einzelheiten. Das Ergebnis der Baukontrollen ist in geeigneter Weise zu dokumentieren. Die kantonalen Stellen können verlangen, dass sie bei der Baukontrolle miteinbezogen werden.
+
+<sup>2</sup> Die Kontrollorgane haben das Recht, das Grundstück resp. die Bauten zu betreten. Sie können nach Vorankündigung Flugaufnahmen von Grundstücken erstellen lassen. Auf Verlangen der Grundeigentümerschaft sind die Aufnahmen nach Abschluss des Verfahrens zu löschen.
+
+<sup>3</sup> Werden der Gemeinde baurechtliche Verstösse gemeldet oder erhält sie im Rahmen ihrer Tätigkeiten anderweitig Kenntnis davon, gelangt Art. 121 dieses Gesetzes zur Anwendung. Ausserhalb der Bauzonen hat sie das Bau- und Raumentwicklungsdepartement zu informieren.
+
+#### Art. 121
+
+**Wiederherstellung rechtmässiger Zustand**
+
+<sup>1</sup> Wird unberechtigterweise mit der Errichtung oder Änderung von Bauten und Anlagen begonnen oder widerspricht die Ausführung der Bewilligung, verfügt die Gemeinde die sofortige Einstellung der Arbeiten. Die Anordnung ist sofort vollstreckbar.
+
+<sup>2</sup> Widerspricht die Ausführung oder Nutzung den gesetzlichen Vorschriften oder den genehmigten Plänen, so wird der Grundeigentümerschaft und/oder Bauherrschaft eine angemessene Frist zur Wiederherstellung des rechtmässigen Zustands oder zur Einreichung eines Gesuchs um nachträgliche Baubewilligung gesetzt. Die Gemeinde kann ein Nutzungsverbot erlassen, das sofort vollstreckbar ist.
+
+<sup>3</sup> Wird der rechtmässige Zustand nicht wiederhergestellt oder kann das Bauvorhaben nicht nachträglich bewilligt werden, so wird die Entfernung oder Änderung der rechtswidrig ausgeführten Bauten und Anlagen angeordnet. Die Pflicht zur Wiederherstellung des rechtmässigen Zustands ist als öffentlich-rechtliche Eigentumsbeschränkung im Grundbuch anzumerken.
+
+<sup>4</sup> Wird der rechtmässige Zustand nicht innert angesetzter Frist wiederhergestellt, so kann der Gemeinderat die erforderlichen Massnahmen auf Kosten der Bauherrschaft, der Grundeigentümerin oder des Grundeigentümers oder der Verursacherin oder des Verursachers durchführen lassen. Für die mutmasslichen Kosten der Ersatzvornahme kann ein Vorschuss oder eine Sicherstellung verlangt werden.
+
+<sup>5</sup> Für die Kosten der Ersatzvornahme besteht ein gesetzliches Grundpfandrecht, das allen eingetragenen Belastungen vorgeht. Das Pfandrecht muss innert vier Monaten seit Fälligkeit der Forderung, spätestens aber zwei Jahre seit der Entstehung der Forderung im Grundbuch eingetragen werden.
+
+## 5. Kostentragung und Gebühren
+
+#### Art. 122
+
+**Kosten der kantonalen und kommunalen Planungen**
+
+<sup>1</sup> Der Kanton trägt grundsätzlich die Kosten der kantonalen Richtplanung und der kantonalen Nutzungsplanung.
+
+<sup>2</sup> Die Gemeinden tragen grundsätzlich die Kosten der kommunalen Richtplanung und der kommunalen Nutzungsplanung.
+
+<sup>3</sup> Die Grundeigentümerinnen und Grundeigentümer tragen die Kosten der Quartierplanung; trägt ein Quartierplan zur öffentlichen Aufgabenerfüllung bei, so kann die Gemeinde Beiträge leisten. Erstellt die Gemeinde einen Quartierplan, so kann sie vor Beginn der Arbeiten von den betroffenen Grundeigentümerinnen und Grundeigentümern einen entsprechenden Kostenvorschuss oder eine Sicherheitsleistung verlangen.
+
+<sup>4</sup> Den Grundeigentümerinnen und Grundeigentümern können Kosten von kantonalen Nutzungsplanungen und von kommunalen Planungen überwälzt werden, wenn ihnen ein besonderer Vorteil entsteht. Die Beiträge werden mittels Verfügung oder verwaltungsrechtlichem Vertrag festgelegt.
+
+#### Art. 123
+
+**Kosten der Grob- und der Feinerschliessung sowie von Erschliessungsanlagen**
+
+<sup>1</sup> An die Kosten der Groberschliessung erhebt die Gemeinde angemessene Beiträge von den Grundeigentümerinnen und Grundeigentümern, denen durch den Bau der Anlage ein wirtschaftlicher Sondervorteil erwächst.
+
+<sup>2</sup> Die Kosten der Feinerschliessung gehen in der Regel voll zulasten der Grundeigentümerinnen und Grundeigentümer. Die Gemeinde hat einen Kostenanteil zu übernehmen, wenn die Anlage teilweise auch dem Gemeinwesen dient.
+
+<sup>3</sup> Beiträge an Erschliessungsanlagen werden spätestens mit der Fertigstellung des Werkes fällig. Sie können in Härtefällen gestundet werden, wenn die Grundeigentümerin oder der Grundeigentümer aus achtbaren Gründen den Sondervorteil nicht nutzen kann.
+
+<sup>4</sup> Bei leitungsgebundenen Erschliessungsanlagen können neben Erschliessungsbeiträgen auch Anschluss- und Benützungsgebühren erhoben werden.
+
+<sup>5</sup> Die Gemeinden und die Versorgungswerke gemäss Art. 53 Abs. 1 dieses Gesetzes haben für ihre Forderungen aus Erschliessungs- und Anschlussbeiträgen Anspruch auf Errichtung eines gesetzlichen Grundpfands.
+
+#### Art. 124
+
+**Kosten bei Ersatzvornahme der Feinerschliessung**
+
+<sup>1</sup> Führt die Gemeinde die Feinerschliessung aus, so legt der Gemeinderat den Kreis der mitwirkungspflichtigen Grundeigentümerinnen und Grundeigentümer fest und erstellt aufgrund eines Projekts mit Kostenvoranschlag einen Beitragsplan über die Aufteilung der Bau- und Unterhaltskosten.
+
+<sup>2</sup> Der Beitragsplan wird den betroffenen Grundeigentümerinnen und Grundeigentümern schriftlich zugestellt. Gegen den Beitragsplan kann innert 20 Tagen beim Gemeinderat Einsprache erhoben werden.
+
+<sup>3</sup> Nach Fertigstellung der Erschliessungsanlage legt der Gemeinderat die dinglichen Rechte der Beteiligten entsprechend ihren Beiträgen fest und veranlasst deren Eintragung im Grundbuch.
+
+#### Art. 125
+
+**Grundeigentümerbeiträge bei Anlagen der Groberschliessung**
+
+<sup>1</sup> Die einzelnen Grundeigentümerbeiträge werden von der Gemeinde in einem Beitragsplan festgelegt. Dieser Plan wird während 20 Tagen öffentlich aufgelegt, unter gleichzeitiger schriftlicher Benachrichtigung der betroffenen Grundeigentümerinnen und Grundeigentümer. Der Gemeinderat entscheidet über die während der Auflagefrist erhobenen Einsprachen.
+
+<sup>2</sup> Die Gemeinden regeln durch Reglement insbesondere:
+
+- a. die Grundsätze der Bemessung und Verteilung der Grundeigentümerbeiträge;
+- b. die Voraussetzungen für die Übernahme privater Erschliessungsanlagen durch die Gemeinde;
+- c. die Tarife für Anschluss und Benützung der Anlagen für Wasserversorgung und Abwasserbeseitigung;
+- d. allenfalls Einzelheiten anderer Erschliessungen, wie Erstellung, Betrieb und Kostentragung von Fernheizanlagen, Gemeinschaftsantennen und dergleichen.
+
+#### Art. 126
 
 **Gebühren**
 
-<sup>1</sup> Kanton und Gemeinden erheben für die Behandlung von Gesuchen und für amtliche Verrichtungen beim Vollzug dieses Gesetzes Gebühren.
+<sup>1</sup> Kanton und Gemeinden erheben für amtliche Verrichtungen beim Vollzug dieses Gesetzes und für die Behandlung von Gesuchen Gebühren. Auch in Fällen, die nicht durch Verfügung zu erledigen sind, können Gebühren erhoben werden.
 
-## 4. Rechtsschutz
+<sup>2</sup> Die Gebührenerhebung richtet sich für den Kanton nach den Vorschriften der Allgemeinen Gebührengesetzgebung. Die Gemeinden legen die Gebühren für kommunale Aufgaben fest.
 
-#### Art. 60
+<sup>3</sup> Einer Einsprecherin oder einem Einsprecher werden amtliche Kosten des Einspracheverfahrens überbunden, wenn die Einsprache mutwillig, trölerisch oder sonstwie rechtsmissbräuchlich erfolgt.
+
+## 6. Rechtschutz und Strafbestimmungen
+
+#### Art. 127
 
 **Rechtsschutz a. Legitimation**
 
-<sup>1</sup> Zur Erhebung von Einsprachen und Beschwerden ist befugt, wer vom Entscheid berührt ist und ein schutzwürdiges Interesse hat.
+<sup>1</sup> Zur Erhebung von Einsprachen und Beschwerden ist befugt, wer besonders betroffen ist und ein schutzwürdiges Interesse hat.
 
-<sup>2</sup> Die Einsprache- und Beschwerdebefugnis der kantonalen Vereinigungen und Sektionen schweizerischer Vereinigungen regelt der Kantonsrat durch Verordnung.
+<sup>2</sup> Die Einsprache- und Beschwerdebefugnis der kantonalen Vereinigungen und Sektionen schweizerischer Vereinigungen regelt der Kantonsrat durch Verordnung[^127-1].
 
-<sup>3</sup> Bei Kollektiveinsprachen und gleichlautenden Einzeleinsprachen ist ein Vertreter anzugeben. Erfolgt dies nicht innert angemessener Frist, so bezeichnet die Behörde einen oder mehrere Vertreter.
+[^127-1]: DSV (GDB [451.21](http://gdb.ow.ch/data/451.21/de)), NSV (GDB [786.11](http://gdb.ow.ch/data/786.11/de))
 
-#### Art. 61
+#### Art. 128
 
-**b. Rechtsmittel**
+**b. Einsprache**
 
-<sup>1</sup> Wer es unterlässt, Einsprache zu erheben, obwohl er dazu Anlass gehabt hätte, kann den ergehenden Entscheid nicht anfechten. Vorbehalten ist die Wiederherstellung bei unverschuldeter Säumnis.
+<sup>1</sup> Die Einsprache ist schriftlich und begründet einzureichen. Die Beweismittel sind genau zu bezeichnen und, soweit möglich, beizulegen.
 
-<sup>2</sup> Einsprachen sind während der Auflagefrist, Beschwerden innert 20 Tagen seit Zustellung des Entscheides schriftlich und begründet einzureichen.
+<sup>2</sup> Genügt die Einsprache diesen Anforderungen nicht, so ist der einsprechenden Person eine kurze Nachfrist zur Verbesserung anzusetzen mit der Androhung, dass nach unbenütztem Fristablauf aufgrund der Akten entschieden, oder wenn Antrag, Begründung oder Unterschrift fehlen, auf die Einsprache nicht eingetreten wird.
 
-<sup>3</sup> Gegen Verfügungen und Beschlüsse des Gemeinderates, der Gemeindeversammlung oder eines kantonalen Departementes kann beim Regierungsrat Beschwerde erhoben werden.
+<sup>3</sup> Kann auf die Einsprache eingetreten werden und erweist sie sich nicht als offensichtlich unbegründet, wird den Beteiligten die Einsprache zur Vernehmlassung zugestellt. Bei Bedarf kann ein weiterer Schriftenwechsel angeordnet und ein Beweisverfahren durchgeführt werden.
+
+#### Art. 129
+
+**c. Beschwerde**
+
+<sup>1</sup> Wer es unterlässt, Einsprache zu erheben, obwohl sie oder er dazu Anlass gehabt hätte, kann den ergehenden Entscheid nicht mit Beschwerde anfechten.
+
+<sup>2</sup> Verfügungen kommunaler Stellen und Behörden können beim Gemeinderat, Verfügungen des Gemeinderats und eines kantonalen Departements beim Regierungsrat mit Beschwerde angefochten werden.
+
+<sup>3</sup> Die Beschwerdefrist beträgt 20 Tage seit Eröffnung des Entscheids. Das Verfahren richtet sich nach den Bestimmungen des Staatsverwaltungsgesetzes[^129-1] und der Verwaltungsverfahrensverordnung[^129-2].
 
 <sup>4</sup> Dem Regierungsrat kommt die volle Überprüfungsbefugnis zu.
 
-<sup>5</sup> Auf dem Gebiet des Bau- und Planungsrechts ist die Beschwerde an das kantonale Verwaltungsgericht zulässig. Vorbehalten bleiben die Ausnahmen nach dem Gerichtsorganisationsgesetz[^61-1].
+[^129-1]: GDB [130.1](http://gdb.ow.ch/data/130.1/de)
+[^129-2]: GDB [133.21](http://gdb.ow.ch/data/133.21/de)
 
-[^61-1]: GDB [134.1](http://gdb.ow.ch/data/134.1/de)
-
-## 5. Strafbestimmungen
-
-#### Art. 62
+#### Art. 130
 
 **Strafen**
 
-<sup>1</sup> Vorsätzliche und fahrlässige Widerhandlungen gegen Vorschriften dieses Gesetzes sowie darauf gestützter Erlasse und Verfügungen werden mit Busse bis Fr. 20 000.– bestraft. Strafbar sind insbesondere auch die Ausführung von Bauten ohne Bewilligung, die Abweichung von bewilligten Plänen sowie die Missachtung von Bedingungen und Auflagen.
+<sup>1</sup> Vorsätzliche und fahrlässige Widerhandlungen gegen Vorschriften dieses Gesetzes sowie darauf gestützter Erlasse und Verfügungen werden mit Busse bis Fr. 50 000.– bestraft. Strafbar sind insbesondere die Ausführung von Bauten ohne Bewilligung, die Abweichung von bewilligten Plänen sowie die Missachtung von Bedingungen und Auflagen.
 
-<sup>2</sup> In schweren Fällen oder bei wiederholten Zuwiderhandlungen kann mit der Busse eine Freiheitsstrafe bis zu drei Jahren verbunden werden.
+<sup>2</sup> In schweren Fällen, bei wiederholten Zuwiderhandlungen oder bei Gewinnsucht kann eine Busse bis Fr. 100 000.– ausgesprochen werden.
 
-<sup>3</sup> Zuständigkeit und Verfahren richten sich nach der Strafprozessordnung[^62-1].
+<sup>3</sup> Werden durch Bauten und Anlagen, die ohne Baubewilligung oder in Abweichung einer solchen errichtet, geändert oder genutzt wurden, Gewinne erzielt, werden diese nach den Bestimmungen des Strafgesetzbuches zugunsten des Mehrwertfonds (Art. 64 dieses Gesetzes) eingezogen. Das Gleiche gilt bei unbewilligtem Abbruch geschützter Bauten und Anlagen oder bei Unterlassung eines angeordneten Abbruchs einer Altbaute.
 
-<sup>4</sup> Anstiftung und Gehilfenschaft sind strafbar.
+<sup>4</sup> Anstiftung und Gehilfenschaft sind strafbar. Wurde die Widerhandlung durch eine juristische Person, eine Kollektiv- oder eine Kommanditgesellschaft begangen, so können die Strafmassnahmen entweder auf die juristische Person beziehungsweise die Gesellschaft oder auf die Personen, die in deren Namen gehandelt haben oder hätten handeln müssen, angewandt werden.
 
-<sup>5</sup> Die Strafverfolgung verjährt in drei Jahren seit der Feststellung der Widerhandlung. Die absolute Verjährung tritt sechs Jahre nach Begehung der Tat ein.
+<sup>5</sup> Zuständigkeit und Verfahren richten sich nach der Schweizerischen Strafprozessordnung[^130-1].
 
-[^62-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+<sup>6</sup> Die Strafverfolgung verjährt in fünf Jahren seit der Feststellung der Widerhandlung. Die absolute Verjährung tritt zehn Jahre nach Begehung der Tat ein.
 
-## 6. Übergangs- und Schlussbestimmungen
+[^130-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
-#### Art. 63
+## 7. Übergangsbestimmungen
 
-**Anpassung an das neue Recht und Weitergeltung bisherigen Rechts**
+#### Art. 131
 
-<sup>1</sup> Baureglemente und Zonenpläne sind, soweit nötig, bei nächster Gelegenheit den Bestimmungen dieses Gesetzes anzupassen. In begründeten Fällen kann der Regierungsrat Fristen ansetzen.
+**Anwendung des neuen Rechts**
 
-<sup>2</sup> Die aufgrund bisherigen Rechts geltenden Baureglemente und Pläne der Gemeinden bleiben in Kraft, soweit sie nicht zwingenden Vorschriften des neuen, übergeordneten Rechts widersprechen. Sie erhalten durch das neue Recht keine weitergehenden Rechtswirkungen.
+<sup>1</sup> Mit Inkrafttreten dieses Gesetzes sind die folgenden Bestimmungen sofort anwendbar:
 
-<sup>3</sup> Entstehen mit dem Inkrafttreten dieses Gesetzes infolge eines Verweises auf die alte baugesetzliche Regel Lücken im kommunalen Recht, so gelten die bisherigen baugesetzlichen Bestimmungen bis zum Erlass des neuen Baureglementes weiter.
+- a. Allgemeine Bestimmungen (Art. 1 bis 3 dieses Gesetzes);
+- b. Planung, mit Ausnahme der Quartierpläne (Art. 4 bis 31 und Art. 43 bis 66 dieses Gesetzes);
+- c. Energie (Art. 98 bis 101 dieses Gesetzes);
+- d. Formelle Bauvorschriften (Art. 106 bis 121 dieses Gesetzes);
+- e. Kostentragung und Gebühren (Art. 122 bis 126 dieses Gesetzes);
+- f. Rechtschutz und Strafbestimmungen (Art. 127 bis 130 dieses Gesetzes).
 
-<sup>4</sup> Bestehende Quartierpläne sind auf die Bestimmungen dieses Gesetzes hin zu überprüfen und soweit nötig anzupassen. Der Gemeinderat kann im Einzelfall Fristen ansetzen.
+<sup>2</sup> Die Bestimmungen über die Quartierpläne (Art. 32 bis 42 dieses Gesetzes) und die übrigen materiellen Bauvorschriften (Art. 67 bis 97 und Art. 102 bis 105 dieses Gesetzes) finden Anwendung, sobald die Gemeinde ihre Bau- und Zonenordnung an das neue Recht angepasst hat. Der Regierungsrat entscheidet mit der Genehmigung der Bau- und Zonenordnung der Gemeinde über die Anwendbarkeit des neuen Rechts.
 
-#### Art. 64
+#### Art. 132
+
+**Anpassung an das neue Recht und Weitergeltung des bisherigen Rechts**
+
+<sup>1</sup> Die Bau- und Zonenordnung der Gemeinde ist zeitnah den Bestimmungen dieses Gesetzes anzupassen. Der Regierungsrat kann nötigenfalls Fristen ansetzen oder Ersatzanordnungen treffen.
+
+<sup>2</sup> Bis zur Anwendbarkeit des neuen Rechts bleibt für die entsprechenden Gemeinden das bisherige kantonale Recht (vor oder nach Umsetzung der Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe [IVHB][^132-1]) und das kommunale Recht anwendbar.
+
+<sup>3</sup> Bauvorhaben in Gebieten mit einem bestehenden Quartierplan werden nach dem bisherigen Recht bewilligt, wenn
+
+- a. der Quartierplan bereits teilweise umgesetzt ist und das Baugesuch innert zwei Jahren nach dem Inkrafttreten des neuen Rechts gemäss Art. 131 Abs. 2 dieses Gesetzes eingereicht wird, oder
+- b. die öffentliche Auflage des Quartierplans vor dem Inkrafttreten des neuen Rechts gemäss Art. 131 Abs. 2 dieses Gesetzes begonnen hat und das Baugesuch innert zwei Jahren nach Rechtskraft des Quartierplans eingereicht wird.
+
+[^132-1]: Nachtrag zum Baugesetz vom 29. Januar 2015 (OGS 2015, 7 und 49)
+
+#### Art. 133
 
 **Hängige Verfahren**
 
-<sup>1</sup> Dieses Gesetz findet auf alle Baugesuche Anwendung, die nach dem Inkrafttreten eingereicht werden. Die bei Inkrafttreten dieses Gesetzes noch nicht entschiedenen Gesuche und die beim Regierungsrat hängigen Beschwerden werden nach neuem Recht entschieden, wenn dieses für die Bauherrschaft günstiger ist.
+<sup>1</sup> Für Verfahren, die vor Anwendbarkeit der neuen Bestimmungen eingeleitet wurden, gilt:
 
-<sup>2</sup> Auf laufende Planungen sind die neuen materiellen Vorschriften dieses Gesetzes anzuwenden, wenn angesichts der getätigten Vorarbeiten eine Anpassung an das neue Recht zumutbar ist, insbesondere wenn noch keine öffentliche Auflage von Baureglement und Zonenplan stattgefunden hat.
+- a. Nutzungsplanungen (einschliesslich Quartierpläne), die bereits öffentlich aufgelegt wurden, werden nach bisherigem Recht beurteilt;
+- b. hängige Baugesuche und Einsprachen werden nach neuem Recht, hängige Beschwerden nach bisherigem Recht beurteilt.
 
-<sup>3</sup> Behörden, die nach neuem Recht nicht mehr zuständig sind, erledigen die bei ihnen hängigen Verfahren. Die Rechtsmittel richten sich nach neuem Recht.
+**Informationen zum Erlass:**
 
-#### Art. 64a
+Ursprüngliche Fundstelle: OGS 2026, 002
 
-**…**
+Ursprüngliches Inkrafttreten: 1. März 2026
 
-#### Art. 64b
+Botschaft und Vorlage des Regierungsrats vom 29. April 2025
 
-**Übergangsrecht zum Nachtrag vom 29. Januar 2015**
+Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05)
 
-<sup>1</sup> Die Gemeinden haben ihre Ortsplanung innert fünf Jahren seit Genehmigung des kantonalen Richtplans durch den Bundesrat[^64b-1] dem neuen Recht anzupassen.
+Aufgehobene Erlasse:
 
-<sup>2</sup> Bis zum Inkrafttreten der angepassten Ortsplanungen bleiben für die betreffenden Gemeinden die bisherigen kantonalen und kommunalen Bestimmungen in Kraft.
+\- Baugesetz vom 12. Juni 1994 (OGS 1995, 22, OGS 2003, 58, OGS 2005, 61, OGS 2007, 13, OGS 2008, 98, OGS 2008, 109, OGS 2009, 20, OGS 2010, 33, OGS 2011, 25, OGS 2011, 26, OGS 2015, 7 und 49, OGS 2016, 16, OGS 2016, 35, OGS 2016, 79, OGS 2018, 3, OGS 2019, 12, OGS 2019, 48
 
-<sup>3</sup> Die Regelung von Art. 64 Abs. 1 dieses Gesetzes ist auf den Nachtrag vom 29. Januar 2015 anwendbar.[^64b-2]
+\- Verordnung zum Baugesetz vom 7. Juli 1994 (OGS 1995, 23, OGS 2011, 27, OGS 2011, 36, OGS 2015, 7 und 49, OGS 2016, 35, OGS 2016, 79
 
-<sup>3a</sup> Bis zum Inkrafttreten der angepassten Ortsplanung ist die Konstruktionsstärke der Aussenwand und des Dachs für die Berechnung der Ausnützungsziffer, der Geschossflächenziffer und der Überbauungsziffer bis höchstens 35 cm zu berücksichtigen.
+\- Ausführungsbestimmungen zum Bundesgesetz über die Raumplanung (Übergangsrechtliche Schutzmassnahmen) vom 22. Dezember 1987 (OGS 1989, 53, OGS 1991, 4, OGS 1991, 5, OGS 1995, 23, OGS 2006, 94)
 
-<sup>4</sup> Passt eine Gemeinde ihre Ortsplanung nicht innert der Frist gemäss Absatz 1 an, so kann der Regierungsrat in Ausführungsbestimmungen festlegen, welche Bestimmungen dieses Gesetzes unmittelbar anwendbar sind und abweichenden kommunalen Vorschriften vorgehen.
-
-[^64b-1]: Die fünfjährige Frist der Gemeinden für die Anpassung ihrer Ortsplanungen begann mit dem bundesrätlichen Genehmigungsbeschluss vom 24. Juni 2020 zu laufen (BBl 2020, 5989)
-[^64b-2]: Die Übergangsregelung von Art. 64 Abs. 1 gelangt zur Anwendung, sobald in der betreffenden Gemeinde der Nachtrag vom 29. Januar 2015 anwendbar ist
-
-#### Art. 64c
-
-**Übergangsrecht zum Nachtrag vom 15. März 2018**
-
-<sup>1</sup> Die Bestimmungen über die Mehrwertabgabe nach Art. 28b ff. dieses Gesetzes sind anwendbar, wenn die zu einem Mehrwert führende Beschlussfassung der Stimmberechtigten nach dem Inkrafttreten der Änderung vom 15. März 2018 erfolgt.
-
-#### Art. 65
-
-**Änderung bisherigen Rechts**
-
-<sup>1</sup> ...[^65-1]
-
-[^65-1]: Die Änderungen bisherigen Rechts sind im entsprechenden Erlass nachgeführt und können unter OGS 1995, 22 konsultiert werden
-
-#### Art. 66
-
-**Vollzugsverordnung**
-
-<sup>1</sup> Der Kantonsrat erlässt die zum Vollzug dieses Gesetzes notwendigen Vorschriften durch Verordnung.
-
-#### Art. 66a
-
-**Ausführungsrecht zur IVHB**
-
-<sup>1</sup> Der Regierungsrat erlässt die zur Umsetzung der Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe (IVHB) nötigen Bestimmungen.
-
-#### Art. 67
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes wird das Baugesetz vom 4. Juni 1972[^67-1] aufgehoben.
-
-[^67-1]: OGS 1973, 14
-
-#### Art. 68
-
-**Inkrafttreten**
-
-<sup>1</sup> Der Regierungsrat bestimmt, wann dieses Gesetz in Kraft tritt.[^68-1]
-
-<sup>2</sup> Art. 15 Abs. 7, Art. 22 Abs. 1 und Art. 40 Abs. 1 Bst. g dieses Gesetzes bedürfen der Genehmigung des Bundes.[^68-2]
-
-[^68-1]: Vom Regierungsrat auf 1. September 1994 in Kraft gesetzt
-[^68-2]: Art. 15 Abs. 7 und Art. 22 Abs. 1 vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 20. Oktober 1994; Art. 40 Abs. 1 Bst. g vom Eidgenössischen Departement des Innern genehmigt am 28. Juli 1994
-
-**Informationen zum Erlass**
-
-Ursprüngliche Fundstelle: OGS 1995, 22
-
-geändert durch:
-
-\- den Nachtrag vom 18. Dezember 2003, in Kraft seit 1. Januar 2004 (OGS 2003, 58),
-
-\- das Einführungsgesetz zur Änderung des Strafgesetzbuches und des Jugendstrafrechts (Einführungsgesetz zum AT StGB) vom 14. Oktober 2005, in Kraft seit 1. Januar 2007 (OGS 2005, 61; OGS 2006, 91),
-
-\- das Gesetz über die Bereinigung der amtlichen Gesetzessammlung (Bereinigungsgesetz II) vom 15. März 2007, in Kraft seit 1. August 2007 (OGS 2007, 13),
-
-\- die Ausführungsbestimmungen über die Umsetzung der Rechtsweggarantie sowie der Bundesrechtspflege (Übergangsrechtliche Anpassung von Erlassen) vom 25. November 2008, in Kraft seit 1. Januar 2009 (OGS 2008, 98),
-
-\- das Gesetz über die Harmonisierung der amtlichen Register (kantonales Registerharmonisierungsgesetz) vom 4. Dezember 2008, in Kraft seit 15. Januar 2009 (OGS 2008, 109),
-
-\- den Nachtrag vom 30. April 2009 (Dringliche Umsetzung der Richtplanung im Bereich Baulandverfügbarkeit), Art. 11a Abs. 2 vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 30. Juni 2009, in Kraft seit 1. Juli 2009 (OGS 2009, 20)
-
-\- das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. I. 13. und OGS 2010, 41),
-
-\- den Nachtrag vom 14. April 2011 (Umsetzung Energiekonzept 2009), in Kraft seit 1. Juni 2011 (OGS 2011, 25 und 31),
-
-\- den Nachtrag vom 14. April 2011 (Zonen für Arbeitsgebiete von kantonalem Interesse), in Kraft seit 1. Juni 2011 (OGS 2011, 26 und 31),
-
-\- Nachtrag vom 29. Januar 2015, Botschaft und Entwurf des Regierungsrats vom 11. Februar 2014, Kantonsratssitzungen vom 16. April 2014 und 29. Januar 2015 (22.14.02), Abstimmungserläuterungen zur Volksabstimmung vom 18. Oktober 2015 (OGS 2015, 49), Volksabstimmung vom 18. Oktober 2015 (OGS 2015, 51 und 55), in Kraft seit 1. Januar 2016 (OGS 2015, 55),
-
-\- Einführungsgesetz zum Bundesgesetz über den Wald (kantonales Waldgesetz) vom 10. März 2016 (OGS 2016, 16), Botschaft und Vorlage des Regierungsrats vom 3. November 2015, Kantonsratssitzungen vom 28. Januar und 10. März 2016 (22.15.06), in Kraft seit 1. Juni 2016 (OGS 2016, 22),
-
-\- das Gesetz über das Konsolidierungs- und Aufgabenüberprüfungspaket vom 19. Mai 2016 (OGS 2016, 35), Botschaft und Vorlage des Regierungsrats vom 15. Dezember 2015, Kantonsratssitzungen vom 14. April und 19. Mai 2016 (22.15.07), in Kraft seit 1. Januar 2017 (OGS 2016, 35 und 44),
-
-\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26)
-
-\- Nachtrag vom 15. März 2018 (OGS 2018, 3), Botschaft und Vorlage des Regierungsrats vom 21. November 2017, Kantonsratssitzungen vom 25. Januar und 15. März 2018 (22.17.07), in Kraft seit 1. Mai 2019 (OGS 2018, 8),
-
-\- Nachtrag vom 24. Januar 2019 (OGS 2019, 12), Botschaft und Vorlage des Regierungsrats vom 16. Oktober 2018, Kantonsratssitzungen vom 5. Dezember 2018 und 24. Januar 2019 (22.18.07), in Kraft seit 1. Mai 2019 (OGS 2019, 16),
-
-\- Nachtrag vom 24. Oktober 2019 (OGS 2019, 48), Bericht des Regierungsrats zur Gesamtrevision der kantonalen Richtplanung vom 12. August 2019, Kantonratssitzungen vom 12. September und 24. Oktober 2019 (26.19.01/22.19.07), in Kraft seit 1. September 2020 (OGS 2019, 53 und OGS 2020, 35)
-
-Der Nachtrag zum Baugesetz (Dringliche Umsetzung der Richtplanung im Bereich von Zonen mit hoher Wohnqualität von kantonalem Interesse sowie von Arbeitsgebieten von kantonalem Interesse) vom 30. April 2009 (OGS 2009, 21) wurde vom Volk abgelehnt (OGS 2009, 51)
-
-OGS 1995, 22
+2026, 002
