@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Einführung eines obligatorischen Orientierungstags für Schweizerinnen: Teilrevision der Bundesverfassung sowie der dazugehörigen Gesetzesbestimmungen"
 document: Vernehmlassungsvorlage
 language: de

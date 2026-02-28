@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Introduzione di una giornata informativa obbligatoria per le Svizzere: revisione parziale della Costituzione federale nonché delle relative disposizioni di legge"
 document: Progetto posto in consultazione
 language: it

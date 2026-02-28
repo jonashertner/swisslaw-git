@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Instauration d’une journée d’information obligatoire pour les Suissesses : révision partielle de la Constitution et des dispositions légales associées"
 document: Projet mis en consultation
 language: fr
