@@ -1,15 +1,15 @@
 ---
 canton: VD
 number: "413.00.181125.1"
-title: "DÉCRET du 18.11.2025 accordant au Conseil d'État un crédit d'investissement de CHF 49'647'000 destiné à financer la rénovation du Centre professionnel du nord vaudois (CPNV), bâtiments A, B & E, à Yverdon-les-Bains"
+title: "DÉCRET du 18.11.2025 accordant au Conseil d'État un crédit d'investissement de CHF 4'626'000 destiné à financer la rénovation de l'Ecole Professionnelle Commerciale de Lausanne – Vallée de la Jeunesse à Lausanne"
 language: fr
 version: 2026-03-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.00.181125.1?id=528afbc3-9201-439a-bf3e-6edd93294f1b"
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.00.181125.1?id=994e0e8e-ec61-4f3a-b285-dbaafbaed095"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# DÉCRET accordant au Conseil d'État un crédit d'investissement de CHF 49'647'000 destiné à financer la rénovation du Centre professionnel du nord vaudois (CPNV), bâtiments A, B & E, à Yverdon-les-Bains
+# DÉCRET accordant au Conseil d'État un crédit d'investissement de CHF 4'626'000 destiné à financer la rénovation de l'Ecole Professionnelle Commerciale de Lausanne – Vallée de la Jeunesse à Lausanne
 
 du 18 novembre 2025
 
@@ -21,7 +21,7 @@ décrète
 
 #### Art. 1
 
-<sup>1</sup> Un crédit d'investissement de CHF 49'647'000 est accordé au Conseil d'État pour financer la rénovation du Centre Professionnel du Nord Vaudois (CPNV), bâtiments A, B & E, à Yverdon-les-Bains.
+<sup>1</sup> Un crédit d'investissement de CHF 4'626'000 est accordé au Conseil d'État pour financer la rénovation de l'Ecole Professionnelle Commerciale de Lausanne – Vallée de la Jeunesse à Lausanne.
 
 #### Art. 2
 
