@@ -4,13 +4,12 @@ number: "143.1"
 title: Personalgesetz
 short: PersG
 language: de
-version: 2026-01-01
-valid_until: 2026-02-28
-version_adopted: 2025-05-06
+version: 2026-03-01
+version_adopted: 2026-01-27
 adopted: 2011-01-25
 in_force: 2011-01-25
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3811/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3877/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3811/pdf_file"
 
 (PersG)
 
-vom 25.01.2011 (Stand 01.01.2026)
+vom 25.01.2011 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -472,11 +471,11 @@ als Gesetz:[^ingress-2]
 
 #### Art. 39
 
-**Zulagen a) Geburts- und Kinderzulage**
+**Zulagen a) Kinderzulage**
 
 <sup>1</sup> Es werden ausgerichtet:
 
-- a) die Geburtszulage bei Geburt eines Kindes;
+- a) …
 - b) die Kinderzulage nach Massgabe der Gesetzgebung über die Kinderzulagen.[^39-1]
 
 [^39-1]: sGS [371.1](https://www.gesetzessammlung.sg.ch/data/371.1/de).
