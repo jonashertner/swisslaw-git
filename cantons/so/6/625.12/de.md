@@ -4,13 +4,12 @@ number: "625.12"
 title: Fischereiverordnung
 short: FiVO
 language: de
-version: 2019-01-01
-valid_until: 2026-02-28
-version_adopted: 2017-12-11
+version: 2026-03-01
+version_adopted: 2025-12-08
 adopted: 2008-08-25
 in_force: 2009-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/625.12"
-pdf: "https://bgs.so.ch/api/de/versions/4713/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5617/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4713/pdf_file"
 
 (FiVO)
 
-Vom 25.08.2008 (Stand 01.01.2019)
+Vom 25.08.2008 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -39,7 +38,7 @@ beschliesst:
 
 <sup>2</sup> Die zuständige Fachstelle regelt die Einzelheiten betreffend den Erwerb des Sachkundenachweises.
 
-<sup>3</sup> Wer ein Tages- oder Wochenpatent beziehen will, erhält von der Patentausgabestelle eine schriftliche Information über die tierschutzgerechte Ausübung der Fischerei.
+<sup>3</sup> Fischzuchtbetreibende sind verpflichtet, den Fischern und Fischerinnen eine schriftliche Information über die tierschutzgerechte Ausübung der Fischerei abzugeben oder diese zu beaufsichtigen.
 
 #### § 2
 
@@ -47,32 +46,33 @@ beschliesst:
 
 <sup>1</sup> Als Sachkundenachweise werden anerkannt:
 
-- a) der schweizerische Sachkundenachweis mit Prüfung;
-- b) der schweizerische Sachkundenachweis gemäss Übergangslösung;
+- a) der schweizerische Sachkundenachweis Fischerei mit Prüfung;
+- b) der schweizerische Sachkundenachweis Fischerei gemäss Übergangslösung;
 - c) gleichwertige ausländische Sachkundenachweise.
 
 #### § 3
 
-**Patentgewässer, Klassierung**
+**Patentgewässer**
 
-<sup>1</sup> Fliessgewässer mit vorwiegendem Edelfischbestand:
+<sup>1</sup> Folgende Gewässer sind Patentgewässer:
 
-- a) Chastelbach;
-- b) Dünnern, von der Einmündung des Augstbach in Balsthal abwärts;
-- c) Emme;
-- d) Emmekanal;
-- e) Lüssel;
-- f) Lützel.
+- a) Aare Grenchen bis Deitingen (A1);
+- b) Aare KW Wynau bis Wehr KW Gösgen (A2);
+- c) Aare Kraftwerkskanäle KW Gösgen (A3);
+- d) Aare Restwasserstrecke Wehr Winznau bis Wehr Schönenwerd (A4);
+- e) Aare Kraftwerkkanäle KW Aarau auf Gebiet Kt. SO (A5);
+- f) Aare Restwasserstrecke Wehr Schönenwerd bis Kantonsgrenze SO/AG (A6);
+- g) Birs bei Dornach auf dem Gebiet Kt. SO (B);
+- h) Chastelbach ab der Mündung Chaltenbach (CH);
+- i) Dünnern in Balsthal ab der Brücke zum Von Roll-Areal (D);
+- j) Emme von der Kantonsgrenze bis zur Mauer des Kiessammlers (E);
+- k) Emmekanal (EK);
+- l) Lüssel ab der Brücke Neuhüsli (LS);
+- m) Lützel (LT).
 
-<sup>2</sup> Fliessgewässer mit gemischtem Fischbestand:
+<sup>2</sup> …
 
-- a) Aare und Kanäle;
-- b) Birs bei Dornach.
-
-<sup>3</sup> Stauseen mit gemischtem Fischbestand:
-
-- a) Stau von Flumenthal, vom Stauwehr bis zur Wengibrücke in Solothurn;
-- b) Stau von Ruppoldingen, vom Stauwehr bis zur militärischen Übersetzstelle in Boningen.
+<sup>3</sup> …
 
 #### § 4
 
@@ -96,11 +96,71 @@ beschliesst:
 
 **Ausserkantonaler Zuschlag**
 
-<sup>1</sup> Wer ein Patent zum Grundtarif beziehen will, hat seinen Wohnsitz im Kanton Solothurn oder eine gültige kantonale oder ausserkantonale Jahresfischfangbewilligung nachzuweisen.
+<sup>1</sup> Ein Patent zum Grundtarif erhält, wer:
 
-<sup>2</sup> Der Zuschlag für ausserkantonale Fischer und Fischerinnen ohne gültige Jahresfischfangbewilligung beträgt 50%.
+- a) Niederlassung im Kanton Solothurn hat;
+- b) Mitglied in einem Fischereiverein des Kantons Solothurn ist;
+- c) Pächter oder Pächterin eines Solothurner Pachtgewässers ist; oder
+- d) Niederlassung in einem anderen Kanton hat, welcher hinsichtlich Gebühren Gegenrecht gewährt.
+
+<sup>2</sup> Unter Vorbehalt von Absatz 1 beträgt der Zuschlag für ausserkantonale Fischer und Fischerinnen 50%.
 
 <sup>3</sup> Bei Jugend- und Gastpatenten wird kein ausserkantonaler Zuschlag erhoben.
+
+#### § 5bis
+
+**Anerkennung von Hegearbeiten**
+
+<sup>1</sup> Als Hegearbeiten im Sinne von § 6<sup>bis</sup> Absatz 2 des Fischereigesetzes (FiG) vom 12. März 2008[^5bis-1] gelten insbesondere:
+
+- a) Arbeiten zur Aufwertung der Gewässerlebensräume;
+- b) die Durchführung von fischereilichen Grund- und Weiterbildungskursen;
+- c) Informations- und Kommunikationsarbeiten zu fisch- und gewässerbezogenen Themen.
+
+<sup>2</sup> Fischereivereine gelten als vom Regierungsrat im Sinne von § 6<sup>bis</sup> Absatz 3 FiG[^5bis-2] anerkannt, wenn:
+
+- a) sie Mitglied des Solothurnisch Kantonalen Fischereiverbandes (SOKFV) sind und von diesem für geleistete Hegearbeiten finanziell abgegolten werden; oder
+- b) sie bei der Fachstelle beantragte und genehmigte Hegearbeiten leisten; der Antrag hat bis 31. März des laufenden Jahres zu erfolgen.
+
+<sup>3</sup> Geleistete Hegearbeiten von Personen ohne Vereinszugehörigkeit können anerkannt werden, wenn diese Arbeiten vorgängig bei der Fachstelle beantragt und genehmigt wurden; der Antrag hat bis 31. März des laufenden Jahres zu erfolgen.
+
+<sup>4</sup> Die ausgeführten Hegearbeiten sind zu dokumentieren und dem Departement als Leistungsnachweis bis 30. Oktober des laufenden Jahres zur Prüfung und Anerkennung einzureichen. Als Leistungsnachweis gilt auch die Bestätigung des SOKFV, für welche Hegearbeiten der Verein entschädigt wurde.
+
+[^5bis-1]: BGS [625.11](https://bgs.so.ch/data/625.11/de).
+[^5bis-2]: BGS [625.11](https://bgs.so.ch/data/625.11/de).
+
+#### § 5ter
+
+**Hegearbeiten an Pachtgewässern**
+
+<sup>1</sup> Für Pächter und Pächterinnen von Gewässern im Sinne von § 8 FiG[^5ter-1] kann die Fachstelle für die gesamte Pachtdauer festlegen, welche Hegearbeiten gemäss § 5<sup>bis</sup> Absatz 1 zu leisten sind. Sie kann weitere Kriterien, wie namentlich zum zeitlichen Ablauf und der jährlichen Quantität der Hegearbeiten, festlegen.
+
+<sup>2</sup> Pächter und Pächterinnen haben dem Departement den Leistungsnachweis für geleistete Hegearbeiten sechs Monate vor der öffentlichen Versteigerung zur Prüfung eines Höchstpachtzinses gemäss § 8 Absatz 2<sup>bis</sup> FiG[^5ter-2] einzureichen.
+
+[^5ter-1]: BGS [625.11](https://bgs.so.ch/data/625.11/de).
+[^5ter-2]: BGS [625.11](https://bgs.so.ch/data/625.11/de).
+
+#### § 5quater
+
+**Datenaustausch mit Fischereivereinen**
+
+<sup>1</sup> Die vom Regierungsrat anerkannten Fischereivereine melden der Fachstelle Ein- und Austritte ihrer Mitglieder mindestens einmal pro Jahr. Die Fachstelle kann den Zeitpunkt für die Meldungen festlegen.
+
+<sup>2</sup> Die Fachstelle kann ein elektronisches Meldesystem vorsehen.
+
+#### § 5quinquies
+
+**Hegeersatzabgabe**
+
+<sup>1</sup> Die Hegeersatzabgabe beträgt 48 Franken.
+
+<sup>2</sup> Die Hegeersatzabgabe ist bei Bezug des Jahrespatents zu entrichten.
+
+<sup>3</sup> Von der Bezahlung der Hegeersatzabgabe befreit ist, wer:
+
+- a) Mitglied eines anerkannten Fischereivereins gemäss § 5<sup>bis</sup> Absatz 2 ist;
+- b) anerkannte Hegearbeiten nach den Vorgaben gemäss § 5<sup>bis</sup> Absatz 3 leistet;
+- c) ein Jahrespatent gemäss § 4 Absatz 4 gebührenfrei erhält.
 
 #### § 6
 
@@ -130,7 +190,7 @@ beschliesst:
 
 **Nachweis Fischereiberechtigung**
 
-<sup>1</sup> Das Patent respektive die Fischereikarte für Pachtgewässer sind bei der Fangausübung stets zusammen mit der Fischfangstatistik und einem offiziellen Personalausweis mitzuführen.
+<sup>1</sup> Das Patent respektive die Fischereikarte für Pachtgewässer sind bei der Fangausübung stets zusammen mit der Fischfangstatistik, einem offiziellen Personalausweis und dem Sachkundenachweis mitzuführen.
 
 <sup>2</sup> Diese Dokumente sind den Fischereiaufsichtsorganen auf Verlangen vorzuweisen.
 
@@ -142,10 +202,13 @@ beschliesst:
 
 <sup>1</sup> Die Ausübung der Fischerei ist in folgenden Gewässern oder Gewässerstrecken verboten:
 
-- a) In Gewässern mit vorwiegendem Edelfischbestand: vom 1. Oktober bis 15. März;
-- b) in der Dünnern, von der Eisenbahnbrücke in Olten bis zur Einmündung in die Aare;
-- c) in der Lüssel, von der südseitigen Einzäunung der Badeanstalt in Breitenbach bis unterkant der Laufenstrassen-Brücke in Breitenbach;
-- d) in der Lützel, im Bereich des Areals der "Schloss- und Beschlägefabrik MSL" in Kleinlützel.
+- a) Chastelbach, Dünnern, Emme, Emmekanal, Lüssel und Lützel, sowie Fliessgewässer, die als Pachtgewässer oder mit privatem Fischereirecht bewirtschaftet werden: vom 1. Oktober bis 15. März;
+- b) in der Dünnern in Olten von der Eisenbahnbrücke bis zur Brücke Schützenmattstrasse (Badibrücke);
+- b<sup>bis</sup>) in der Dünnern in Balsthal von der Einmündung des Augstbachs bis zur Brücke zum Von Roll-Areal;
+- c) in der Lüssel in Breitenbach von der südseitigen Einzäunung der Badeanstalt bis zur Brücke Laufenstrasse;
+- c<sup>bis</sup>) in der Lüssel in Beinwil von der Kantonsgrenze bis zur Brücke Neuhüsli;
+- d) in der Lützel in Kleinlützel im Bereich des Areals der "Schloss- und Beschlägefabrik MSL";
+- e) in der Emme in Biberist ab dem Wehr bis zur BLS-Eisenbahnbrücke.
 
 <sup>2</sup> In Fischmigrationshilfen (Fischpässe, Umgehungsgerinne) ist das Fangen von Fischen und anderen Wassertieren verboten.
 
@@ -159,31 +222,34 @@ beschliesst:
 
 <sup>1</sup> Folgende Fischarten, Rundmäuler und Krebse sind geschützt:
 
-- a) Alle Fischarten, welche im Anhang 1 der Verordnung zum Bundesgesetz über die Fischerei vom 24. November 1993 mit Gefährdungsstatus 0 - 2 bezeichnet sind;
+- a) Alle Fischarten, welche im Anhang 1 der Verordnung zum Bundesgesetz über die Fischerei (VBGF) vom 24. November 1993[^11-1] mit Gefährdungsstatus 0 - 2 bezeichnet sind und für die keine Schonzeiten oder Fangmindestmasse bestehen; insbesondere Aal, Bachneunauge, Bitterling, Lachs und Nase;
 - b) Strömer;
 - c) Edel-, Dohlen- und Steinkrebse.
 
+[^11-1]: SR [923.01](https://db.clex.ch/link/Bund/923.01/de).
+
 #### § 12
 
-**Fangmindestmasse und Schonzeiten**
+**Fangmasse und Schonzeiten**
 
 <sup>1</sup> Als Mass gilt die Distanz von der Kopfspitze bis zum natürlich ausgebreiteten Schwanzende.
 
 <sup>2</sup> Gefangene Fische müssen jederzeit zur Kontrolle vorgelegt werden. Die vorgefundenen Fische gelten als in demjenigen Gewässer gefangen, an dem sich der Fischer oder die Fischerin aufhält.
 
-<sup>3</sup>
+<sup>3</sup> …
+
+<sup>3<sup>bis</sup></sup>
 
 <table>
-<tr><th>Gewässer</th><th>Fischart</th><th>Fangmindestmass</th><th>Schonzeit</th></tr>
-<tr><td>Aare und Kanäle</td><td>Bachforelle</td><td>28 cm</td><td>01.10. - 15.03.</td></tr>
-<tr><td>Aare und Kanäle</td><td>Äsche</td><td>36 cm</td><td>01.01. - 15.05.</td></tr>
-<tr><td>Aare und Kanäle</td><td>Hecht</td><td>45 cm</td><td>01.03. - 30.04.</td></tr>
-<tr><td>Aare und Kanäle</td><td>Felchen</td><td>25 cm</td><td>01.11. - 31.12.</td></tr>
-<tr><td>Emme mit -kanal und Dünnern</td><td>Bachforelle</td><td>26 cm</td><td>01.10. - 15.03.</td></tr>
-<tr><td>Emme mit -kanal und Dünnern</td><td>(übrige Arten wie Aare)</td><td></td><td></td></tr>
-<tr><td>Alle übrigen Gewässer</td><td>Bachforelle</td><td>22 cm</td><td>01.10. - 15.03.</td></tr>
-<tr><td>Alle übrigen Gewässer</td><td>Äsche</td><td>30 cm</td><td>01.01. - 15.05.</td></tr>
-<tr><td>Alle übrigen Gewässer</td><td>(übrige Arten wie Aare)</td><td></td><td></td></tr>
+<tr><th>Gewässer</th><th>Fischart</th><th>Fangmasse</th><th>Schonzeit</th></tr>
+<tr><td>Aare A1 bis A6</td><td>Bachforelle</td><td>ab 38 cm</td><td>01.10. - 15.03.</td></tr>
+<tr><td>Chastelbach, Lüssel und Lützel</td><td>Bachforelle</td><td>ab 30 cm</td><td>01.10. - 15.03.</td></tr>
+<tr><td>Dünnern</td><td>Bachforelle</td><td>von 32 bis 42 cm und ab 55 cm</td><td>01.10. - 15.03.</td></tr>
+<tr><td>Emme und Emmekanal</td><td>Bachforelle</td><td>von 35 bis 45 cm</td><td>01.10. - 15.03.</td></tr>
+<tr><td>Pachtgewässer und Gewässer mit privatem Fischereirecht</td><td>Bachforelle</td><td>ab 26 cm</td><td>01.10. - 15.03.</td></tr>
+<tr><td>Sämtliche Gewässer</td><td>Äsche</td><td></td><td>ganzjährig geschont</td></tr>
+<tr><td>Sämtliche Gewässer</td><td>Felchen</td><td>ab 25 cm</td><td>01.11. - 31.12.</td></tr>
+<tr><td>Sämtliche Gewässer</td><td>Hecht</td><td>ab 45 cm</td><td>01.03. - 30.04.</td></tr>
 <tr><td>Aare Grenzgewässer AG/SO</td><td>Masse und Schonzeiten richten sich nach der Vereinbarung mit dem Kanton Aargau</td><td></td><td></td></tr>
 <tr><td>Aare Grenzgewässer BE/SO</td><td>Masse und Schonzeiten richten sich nach der Vereinbarung mit dem Kanton Bern</td><td></td><td></td></tr>
 <tr><td>Birs Grenzgewässer BL/SO</td><td>Masse und Schonzeiten richten sich nach der Vereinbarung mit dem Kanton Basel-Landschaft</td><td></td><td></td></tr>
@@ -195,22 +261,19 @@ beschliesst:
 
 **Fangzahlbeschränkung**
 
-<sup>1</sup> In der Aare und deren Kanälen, in der Emme und dem Emmekanal und allen Pachtgewässern gelten folgende Fangzahlbeschränkungen pro Tag:
+<sup>1</sup> In allen Patent- und Pachtgewässern gelten folgende Fangzahlbeschränkungen:
 
-- a) Forellen, Saiblinge: 6 pro Tag
-- b) Äschen: 2 pro Tag
+- a) Bachforellen, Saiblinge: 2 pro Tag
+- b) …
 - c) Hechte: 5 pro Tag
-- d) Felchen: 25 pro Tag
-- e) Flussbarsche: 50 pro Tag
+- d) Felchen: 20 pro Tag
+- e) …
 
-<sup>2</sup> In den übrigen Patentgewässern:
+<sup>2</sup> …
 
-- a) Forellen, Saiblinge: 3 pro Tag
-- b) Äschen: 2 pro Tag
+<sup>3</sup> Nach dem Erreichen der Tagesfangzahlbeschränkung von zwei Bachforellen ist das Weiterangeln auf andere Fischarten nur in der Aare (A1 bis A6) erlaubt.
 
-<sup>3</sup> Die Fischerei ist in Gewässern mit vorwiegendem Edelfischbestand nach dem Erreichen der Maximalfangzahl pro Tag verboten.
-
-<sup>4</sup> In Patentgewässern dürfen pro Jahr insgesamt maximal 20 Äschen gefangen werden.
+<sup>4</sup> In Patentgewässern dürfen pro Jahr insgesamt maximal 20 Bachforellen gefangen werden.
 
 #### § 14
 
@@ -226,7 +289,7 @@ beschliesst:
 
 <sup>1</sup> Unter Vorbehalt von Absatz zwei und Absatz drei, dürfen gleichzeitig nur zwei Angelgeräte mit je höchstens zwei Ködern verwendet werden.
 
-<sup>2</sup> In Stauseen darf die Hegene mit höchstens fünf Ködern verwendet werden.
+<sup>2</sup> In der Aare A1 und vom Kraftwerk Wynau/Schwarzhäusern bis zum Kraftwerk Ruppoldingen darf die Hegene mit höchstens fünf Ködern verwendet werden.
 
 <sup>3</sup> Mitangler und Mitanglerinnen dürfen nur ein Angelgerät mit einem Köder verwenden.
 
@@ -243,9 +306,10 @@ beschliesst:
 - c) den Durchzug der Fische durch Anbringen von Gittern oder auf andere Weise zu erschweren oder zu verhindern;
 - d) die Abflussverhältnisse von Gewässern zu verändern;
 - e) den Fisch mit einem Angelgerät absichtlich an einem anderen Körperteil als dem Maul zu fangen;
-- f) unter Vorbehalt von Absatz zwei, Angelhaken mit Widerhaken zu verwenden.
+- f) Angelhaken mit Widerhaken zu verwenden;
+- g) in Pacht- und Patentgewässern sind Mehrfachhaken, wie beispielsweise der Drillingshaken, verboten; die Aare (A1 - A6) ist von diesem Verbot ausgenommen.
 
-<sup>2</sup> Wer im Besitz eines Sachkundenachweises ist, darf im Burgäschi- und Inkwilersee Angelhaken mit Widerhaken verwenden.
+<sup>2</sup> …
 
 #### § 17
 
@@ -261,7 +325,7 @@ beschliesst:
 
 <sup>2</sup> Das Verwenden von lebenden Köderfischen ist verboten.
 
-<sup>3</sup> Es dürfen, mit Ausnahme der Regenbogenforelle, nur einheimische und nicht geschützte Fische als Köderfische verwendet werden.
+<sup>3</sup> Als Köderfische dürfen nicht geschützte Fische verwendet werden, welche im befischten Gewässer gefangen wurden, sowie Salzwasserfischarten.
 
 #### § 19
 
