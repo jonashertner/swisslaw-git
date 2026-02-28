@@ -4,7 +4,7 @@ number: "850.61"
 title: "LOI du 10.02.2004 sur les mesures d'aide et d'intégration pour personnes handicapées (LAIH)"
 short: LAIH
 language: fr
-version: 2024-03-01
+version: 2026-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.61?id=8515f5f1-5503-47fa-8ea7-9df0c12c04d5"
 ---
 
@@ -1114,14 +1114,14 @@ Dans ces domaines, il collabore directement avec la direction de l'établissemen
 
 **Obligation de remboursement [^47-1]**
 
-<sup>1</sup> La personne qui, dès sa majorité, a obtenu une aide individuelle ou pour laquelle le département s'est substitué pour le paiement de la contribution personnelle, est tenue à son remboursement :
+<sup>1</sup> La personne qui, dès sa majorité, a obtenu une aide individuelle (art. 37), une aide individuelle pour les frais annexes au placement (art. 38) ou une aide consistant dans le paiement par substitution de la contribution personnelle (art. 39 al. 3) est tenue à son remboursement :
 
 - a. lorsqu'elle l'a obtenue indûment;
 - b. en cas de restitution prévue par les lois fédérales ou des conventions intercantonales;
 - c. lorsqu'elle a obtenu une aide lui permettant de subvenir à ses besoins en attendant de réaliser ses biens;
 - d. lorsqu'elle est entrée en possession d'une fortune.
 
-<sup>2</sup> Les conditions des lettres c et d ne sont applicables que dans les cas où le département s'est substitué pour le paiement de la contribution personnelle et/ou des frais annexes au placement.
+<sup>2</sup> Les conditions des lettres c et d ne sont applicables que dans les cas où le département s'est substitué pour le paiement de la contribution personnelle et/ou dans les cas où le département a couvert tout ou partie des frais annexes au placement.
 
 <sup>3</sup> Le règlement [^48-1] fixe les modalités.
 
@@ -1150,7 +1150,7 @@ Dans ces domaines, il collabore directement avec la direction de l'établissemen
 
 **Héritiers [^48a-1]**
 
-<sup>1</sup> Les héritiers sont tenus au remboursement de l'aide touchée par le bénéficiaire défunt, pour autant qu'ils tirent profit de la situation, et jusqu'à concurrence de celui-ci, que l'aide ait été obtenue indûment ou que le département se soit substitué pour le paiement de la contribution personnelle et/ou des frais annexes au placement.
+<sup>1</sup> Les héritiers sont tenus au remboursement de l'aide touchée par le bénéficiaire défunt, pour autant qu'ils tirent profit de la situation, et jusqu'à concurrence de celui-ci, que l'aide ait été obtenue indûment ou que l'aide doive être remboursée au sens de l'article 48 de la présente loi.
 
 [^48a-1]: Modif. 15 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.03.2026
 
