@@ -4,13 +4,12 @@ number: "173.7"
 title: Loi sur le Conseil de la magistrature
 short: LCDM
 language: fr
-version: 2024-01-01
-corrected: 2023-12-19
-version_adopted: 2023-09-07
+version: 2026-03-01
+version_adopted: 2025-11-13
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/fr/versions/3136/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3586/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3136/pdf_file"
 
 (LCDM)
 
-du 13.09.2019 (état 01.01.2024)
+du 13.09.2019 (état 01.03.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -71,7 +70,7 @@ ordonne:[^ingress-1]
 <sup>1</sup> Demeurent réservées les dispositions de la législation cantonale traitant:
 
 - a) de la direction administrative, de l'organisation interne et de la gestion des tribunaux et des offices du ministère public;
-- b) de la surveillance sur les greffiers et le personnel administratif des tribunaux, ainsi que de la surveillance du personnel administratif des offices du ministère public;
+- b) de la surveillance sur les greffiers et le personnel administratif des tribunaux et du ministère public;
 - c) du contrôle financier de la gestion administrative et financière des tribunaux et des offices du ministère public.
 
 ## 2 Composition du Conseil de la magistrature et mode de désignation de ses membres
@@ -88,7 +87,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Sont membres de droit:
 
-- a) le procureur général;
+- a) un membre du Bureau du ministère public désigné par celui-ci;
 - b) un membre du Conseil de l'Ordre des avocats valaisans désigné par celui-ci;
 - c) un membre de la commission administrative du Tribunal cantonal désigné par celle-ci.
 
@@ -142,11 +141,11 @@ ordonne:[^ingress-1]
 
 #### Art. 11
 
-**Rémunération**
+**Rémunération et décharge**
 
 <sup>1</sup> Le président du Conseil de la magistrature perçoit un montant d'honoraires annuel forfaitaire de 3'000 francs.
 
-<sup>2</sup> Les juges et les procureurs ne perçoivent aucune indemnité de fonction.
+<sup>2</sup> Les juges et les procureurs ne perçoivent aucune indemnité de fonction. Ils ont droit à une décharge dans leur activité. Les modalités de leur décharge sont fixées par le Tribunal cantonal, respectivement par le ministère public.
 
 <sup>3</sup> Les autres membres perçoivent les mêmes indemnités de fonction journalières, demi-journalières et horaires que celles allouées aux députés.
 
@@ -186,7 +185,7 @@ ordonne:[^ingress-1]
 
 **Secrétariat**
 
-<sup>1</sup> Le Conseil de la magistrature dispose de son propre secrétariat composé de juristes et de personnel administratif.
+<sup>1</sup> Le Conseil de la magistrature dispose de son propre secrétariat composé de juristes ou de personnel administratif.
 
 #### Art. 17
 
@@ -272,7 +271,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Une sanction disciplinaire ne peut être prononcée qu'après enquête. La personne concernée est informée de l'ouverture de la procédure.
 
-<sup>2</sup> L'enquête est conduite par le président du Conseil de la magistrature ou par le membre désigné par le Conseil de la magistrature.
+<sup>2</sup> L'enquête est conduite par le président du Conseil de la magistrature ou par le membre désigné par le Conseil de la magistrature, le secret de fonction ne pouvant lui être opposé.
 
 <sup>3</sup> La personne concernée est entendue. Au terme de l'enquête, elle peut déposer un mémoire et demander un complément d'enquête.
 
@@ -284,7 +283,7 @@ ordonne:[^ingress-1]
 
 **Prescription**
 
-<sup>1</sup> La responsabilité disciplinaire est prescrite si aucune procédure disciplinaire n'est ouverte dans le délai d'une année après la découverte du manquement aux devoirs de fonction et dans tous les cas cinq ans après le dernier manquement aux dits devoirs.
+<sup>1</sup> La responsabilité disciplinaire est prescrite si aucune procédure disciplinaire n'est ouverte dans le délai de 2 ans après la découverte du manquement aux devoirs de fonction et dans tous les cas 5 ans après le dernier manquement auxdits devoirs.
 
 <sup>2</sup> La prescription est suspendue pendant la durée des procédures de recours concernant la procédure disciplinaire.
 

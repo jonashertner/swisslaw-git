@@ -4,13 +4,12 @@ number: "173.7"
 title: Gesetz über den Justizrat
 short: GJR
 language: de
-version: 2024-01-01
-corrected: 2023-12-19
-version_adopted: 2023-09-07
+version: 2026-03-01
+version_adopted: 2025-11-13
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/de/versions/3136/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3136/pdf_file"
 
 (GJR)
 
-vom 13.09.2019 (Stand 01.01.2024)
+vom 13.09.2019 (Stand 01.03.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -71,7 +70,7 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Vorbehalten bleiben die Bestimmungen der kantonalen Gesetzgebung zur:
 
 - a) Verwaltungsdirektion, der internen Organisation und der Leitung der Gerichte und Ämter der Staatsanwaltschaft;
-- b) Aufsicht über die Gerichtsschreiber und das administrative Personal der Gerichte sowie der Aufsicht über das administrative Personal der Ämter der Staatsanwaltschaft;
+- b) Aufsicht über die Gerichtsschreiber und das administrative Personal der Gerichte und der Staatsanwaltschaft;
 - c) Finanzkontrolle der Geschäftsführung und des Finanzhaushalts der Gerichte und der Ämter der Staatsanwaltschaft.
 
 ## 2 Zusammensetzung des Justizrates und Art der Bezeichnung seiner Mitglieder
@@ -88,7 +87,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Von Amtes wegen Mitglied sind:
 
-- a) der Generalstaatsanwalt;
+- a) ein Mitglied des Büros der Staatsanwaltschaft, das von diesem bezeichnet wird;
 - b) ein Mitglied des Vorstands des Walliser Anwaltsverbands, das von diesem bezeichnet wird;
 - c) ein Mitglied der Verwaltungskommission des Kantonsgerichts, das von diesem bezeichnet wird.
 
@@ -142,11 +141,11 @@ beschliesst:[^ingress-1]
 
 #### Art. 11
 
-**Entschädigung**
+**Entschädigung und Entlastung**
 
 <sup>1</sup> Der Präsident des Justizrates erhält ein Pauschalhonorar von jährlich 3'000 Franken.
 
-<sup>2</sup> Die Richter und Staatsanwälte erhalten keine Amtsentschädigung.
+<sup>2</sup> Die Richter und Staatsanwälte erhalten keine Amtsentschädigung. Sie haben Anspruch auf eine Entlastung von ihrer Tätigkeit. Die Modalitäten ihrer Entlastung werden vom Kantonsgericht beziehungsweise von der Staatsanwaltschaft festgelegt.
 
 <sup>3</sup> Die übrigen Mitglieder erhalten die gleiche Amtsentschädigung wie sie den Grossräten pro Tag, Halbtag oder pro Stunde gewährt wird.
 
@@ -186,7 +185,7 @@ beschliesst:[^ingress-1]
 
 **Sekretariat**
 
-<sup>1</sup> Der Justizrat verfügt über ein eigenes Sekretariat, das sich aus Juristen und Verwaltungspersonal zusammensetzt.
+<sup>1</sup> Der Justizrat verfügt über ein eigenes Sekretariat, das sich aus Juristen oder Verwaltungspersonal zusammensetzt.
 
 #### Art. 17
 
@@ -272,7 +271,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Eine Disziplinarstrafe kann nur nach einer Untersuchung ausgesprochen werden. Die betroffene Person wird über die Eröffnung des Verfahrens informiert.
 
-<sup>2</sup> Die Untersuchung wird vom Präsidenten des Justizrates oder einem vom Justizrat bestimmten Mitglied durchgeführt.
+<sup>2</sup> Die Untersuchung wird vom Präsidenten des Justizrates oder von einem vom Justizrat bestimmten Mitglied durchgeführt, wobei ihm das Amtsgeheimnis nicht entgegengehalten werden kann.
 
 <sup>3</sup> Die betroffene Person wird angehört. Am Ende der Untersuchung kann sie eine Rechtsschrift einreichen und eine ergänzende Untersuchung verlangen.
 
@@ -284,7 +283,7 @@ beschliesst:[^ingress-1]
 
 **Verjährung**
 
-<sup>1</sup> Die disziplinarische Verantwortlichkeit verjährt, wenn innert Frist eines Jahres nach Bekanntwerden der Dienstpflichtverletzung kein Disziplinarverfahren eröffnet wurde und in jedem Fall fünf Jahre nach der letzten Verletzung dieser Pflichten.
+<sup>1</sup> Die disziplinarische Verantwortlichkeit verjährt, wenn innert 2 Jahren nach Bekanntwerden der Dienstpflichtverletzung kein Disziplinarverfahren eröffnet wurde und in jedem Fall 5 Jahre nach der letzten Verletzung dieser Pflichten.
 
 <sup>2</sup> Während eines Beschwerdeverfahrens betreffend das Disziplinarverfahren wird die Verjährung unterbrochen.
 
