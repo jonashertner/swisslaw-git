@@ -3,20 +3,19 @@ canton: OW
 number: "451.21"
 title: "Verordnung über den Schutz von Bau- und Kulturdenkmälern (Denkmalschutzverordnung, DSV)"
 language: de
-version: 2016-07-01
-valid_until: 2026-02-28
-version_adopted: 2016-03-10
+version: 2026-03-01
+version_adopted: 2025-12-04
 adopted: 1990-03-30
 in_force: 1990-11-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/451.21"
-pdf: "http://gdb.ow.ch/api/de/versions/1717/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1979/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Schutz von Bau- und Kulturdenkmälern (Denkmalschutzverordnung, DSV)
 
-vom 30.03.1990 (Stand 01.07.2016)
+vom 30.03.1990 (Stand 01.03.2026)
 
 Der Kantonsrat des Kantons Obwalden erlässt,
 
@@ -92,21 +91,19 @@ als Verordnung:
 
 #### Art. 8
 
-**Nutzungsplanung a. Grundsatz**
+**Schutzpläne a. Grundsatz**
 
-<sup>1</sup> Schützenswerte Ortsbilder, schützenswerte Kulturobjekte samt ihrer Umgebung sowie archäologische Fundstellen und Gebiete werden im öffentlich-rechtlichen Verfahren der Nutzungsplanung[^8-1] durch die zuständigen Behörden unter Schutz gestellt. Sie werden damit zu Ortsbildschutzgebieten, Schutzobjekten, Umgebungsschutzgebieten und archäologischen Schutzgebieten.
-
-[^8-1]: Art. 9 und 11 BauG (GDB [710.1](http://gdb.ow.ch/data/710.1/de))
+<sup>1</sup> Schützenswerte Ortsbilder, schützenswerte Kulturobjekte samt ihrer Umgebung sowie archäologische Fundstellen und Gebiete werden durch die zuständigen Behörden unter Schutz gestellt. Sie werden damit zu Ortsbildschutzgebieten, Schutzobjekten, Umgebungsschutzgebieten und archäologischen Schutzgebieten.
 
 #### Art. 9
 
 **b. Vorsorgliche Massnahmen**
 
-<sup>1</sup> Fehlt ein verbindlicher Gebiets- oder Objektschutz, so kann die zuständige Behörde für gefährdete, genau abgegrenzte Areale eine Planungszone[^9-1] als vorsorgliche Massnahme verfügen. Innerhalb der Planungszone darf nichts unternommen werden, was dem Schutzziel widerspricht.
+<sup>1</sup> Fehlt ein verbindlicher Gebiets- oder Objektschutz oder muss ein solcher angepasst werden, so kann die zuständige Behörde für gefährdete, genau abgegrenzte Areale eine Planungszone als vorsorgliche Massnahme verfügen. Innerhalb der Planungszone darf nichts unternommen werden, was dem voraussichtlichen Schutzziel widerspricht.
 
-<sup>2</sup> Das Verfahren für die Planungszone richtet sich nach dem Baugesetz. Einsprachen gegen die Planungszone kommt keine aufschiebende Wirkung zu.
+<sup>2</sup> Das Verfahren für die Planungszone richtet sich sinngemäss nach Art. 45 f. des Planungs- und Baugesetzes[^9-1].
 
-[^9-1]: Art. 25 BauG
+[^9-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 10
 
@@ -114,7 +111,7 @@ als Verordnung:
 
 <sup>1</sup> In Ortsbildschutzgebieten sind die Baukörper in Grösse, Anordnung, Erscheinungsbild und in ihren gegenseitigen Beziehungen grundsätzlich zu wahren, ebenso der Charakter und die Dimension der von ihnen eingeschlossenen Freiräume.
 
-<sup>2</sup> Die Einwohnergemeinden regeln in ihren Baureglementen, wie weit Neubauten, Umbauten und Renovationen sich bezüglich Gebäudeform und -stellung, Dachform und -neigung, Gebäude- und Firsthöhe, Fassadengliederung, Material und Farben an den bestehenden Bauten zu orientieren haben. Abweichende Lösungen müssen mindestens gleichwertige Qualitäten aufweisen.
+<sup>2</sup> Neubauten, Umbauten und Renovationen haben sich insbesondere bezüglich Gebäudeform und -stellung, Dachform und -neigung, Gesamt- und Fassadenhöhe, Fassadengliederung, Material und Farben an den bestehenden Bauten zu orientieren. Abweichende Lösungen müssen mindestens gleichwertige Qualitäten aufweisen.
 
 <sup>3</sup> Abbrüche können bewilligt werden, wenn die Ausführung eines bewilligten Ersatzbaus gesichert ist oder die entsprechende Lücke im Ortsbild nicht stört.
 
@@ -237,10 +234,9 @@ als Verordnung:
 
 <sup>2</sup> Die Unterschutzstellung von Kulturobjekten samt ihrer Umgebung fällt in die Zuständigkeit des Kantons, wenn es sich um Kulturobjekte von nationaler und regionaler Bedeutung, in jene der Einwohnergemeinden, wenn es sich um solche von lokaler Bedeutung handelt.
 
-<sup>3</sup> Die Unterschutzstellung durch den Kanton erfolgt im Rahmen kantonaler Schutzpläne[^21-1], jene durch die Einwohnergemeinden im Rahmen ihrer Zonenpläne[^21-2]. Die Einwohnergemeinden haben in ihren Zonenplänen auf vom Kanton geschützte Schutzobjekte hinzuweisen.
+<sup>3</sup> Die Unterschutzstellung durch den Kanton erfolgt im Rahmen kantonaler Schutzpläne. Das Verfahren richtet sich sinngemäss nach Art. 16 bis 20 des Planungs- und Baugesetzes[^21-1]. Die Unterschutzstellung durch die Einwohnergemeinden erfolgt im Rahmen ihrer Bau- und Zonenordnung. Die Einwohnergemeinden haben in ihren Zonenplänen auf vom Kanton geschützte Schutzobjekte hinzuweisen.
 
-[^21-1]: Art. 9 BauG
-[^21-2]: Art. 11 BauG
+[^21-1]: GDB [710.1](http://gdb.ow.ch/data/710.1/de)
 
 #### Art. 22
 
@@ -381,6 +377,8 @@ geändert durch
 
 \- Nachtrag vom 25. April 2008, in Kraft seit 1. Juli 2008 (OGS 2008, 37),
 
-\- Kulturgesetz vom 10. März 2016 (OGS 2016, 17), Botschaft und Vorlage des Regierungsrats vom 23. Juni 2015, Kantonsratssitzungen vom 28. Januar und 10. März 2016 (22.15.04), in Kraft seit 1. Juli 2016 (OGS 2016, 23)
+\- Kulturgesetz vom 10. März 2016 (OGS 2016, 17), Botschaft und Vorlage des Regierungsrats vom 23. Juni 2015, Kantonsratssitzungen vom 28. Januar und 10. März 2016 (22.15.04), in Kraft seit 1. Juli 2016 (OGS 2016, 23),
+
+\- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 
 OGS 1991, 5
