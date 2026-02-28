@@ -4,13 +4,12 @@ number: "311.1"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2025-01-01
-valid_until: 2026-02-28
-version_adopted: 2024-06-25
+version: 2026-03-01
+version_adopted: 2026-01-27
 adopted: 1979-06-28
 in_force: 1980-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/311.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3672/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3878/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3672/pdf_file"
 
 (GesG)
 
-vom 28.06.1979 (Stand 01.01.2025)
+vom 28.06.1979 (Stand 01.03.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -554,49 +553,157 @@ als Gesetz:[^ingress-4]
 
 #### Art. 50bis
 
-**Notfalldienst a) Grundsatz**
-
-<sup>1</sup> Die kantonalen Standesorganisationen der Medizinalberufe nach Art. 41 dieses Erlasses[^50bis-1] sorgen soweit nötig für eine zweckmässige Organisation des Notfalldienstes.
-
-<sup>2</sup> Medizinalpersonen mit einer Berufsausübungsbewilligung nach Art. 44 dieses Erlasses sind unabhängig von einer persönlichen Mitgliedschaft in ihrer Standesorganisation zur Beteiligung an deren Notfalldienst verpflichtet. Davon ausgenommen sind Amtsärzte, die amtsärztlichen Notfalldienst leisten.
-
-<sup>3</sup> Wer Notfalldienst leistet, wählt seinen Aufenthaltsort während dieser Zeit so, dass der Notfalldienst gewährleistet ist.
-
-[^50bis-1]: Siehe auch Art. 2 des BG über die universitären Medizinalberufe vom 23. Juni 2006, SR [811.11](https://db.clex.ch/link/Bund/811.11/de).
+**…**
 
 #### Art. 50ter
 
-**b) Dispensation und Ersatzabgabe**
-
-<sup>1</sup> Die Standesorganisation kann eine zum Notfalldienst verpflichtete Medizinalperson auf Gesuch hin oder von sich aus von dieser Pflicht befreien. Sie kann die von der Dienstpflicht befreite Medizinalperson zur Leistung einer Ersatzabgabe verpflichten und dazu Ausnahmeregelungen vorsehen.
-
-<sup>2</sup> Die Ersatzabgabe beträgt höchstens 2,5 Prozent des AHV-pflichtigen Jahreseinkommens aus medizinischer Tätigkeit der betroffenen Medizinalperson, höchstens jedoch Fr. 5'000.– je Jahr.
-
-<sup>3</sup> Die Ersatzabgaben werden zur Organisation und Sicherstellung des Notfalldienstes verwendet und fliessen zu diesem Zweck an den Notfalldienstfonds der Standesorganisation.
+**…**
 
 #### Art. 50quater
 
-**c) Reglement der Standesorganisation und Delegation an die regionalen Organisationen**
-
-<sup>1</sup> Die Standesorganisation regelt die sich aus dem Notfalldienst ergebenden Rechte und Pflichten, insbesondere Dispensation und Ersatzabgabe, durch Reglement und bringt dieses dem zuständigen Departement zur Kenntnis.
-
-<sup>2</sup> Die kantonale Standesorganisation kann die Regelung und den Vollzug des Notfalldienstes an ihre regionalen Organisationen delegieren. Die Entscheide der regionalen Standesorganisationen betreffend die Notfalldienstpflicht und die Leistung von Ersatzabgaben können im Streitfall der kantonalen Standesorganisation unterbreitet werden. Kommt keine Einigung zustande, erlässt die kantonale Standesorganisation eine Verfügung.
+**…**
 
 #### Art. 50quinquies
 
-**d) Rechtsmittel**
-
-<sup>1</sup> Verfügungen der kantonalen Standesorganisation betreffend die Notfalldienstpflicht und die Leistung von Ersatzabgaben können beim zuständigen Departement mit Rekurs angefochten werden.
-
-<sup>2</sup> Das Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege vom 16. Mai 1965[^50quinquies-1].
-
-[^50quinquies-1]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
+**…**
 
 #### Art. 50sexies
 
-**e) Leistungsvereinbarung**
+**…**
 
-<sup>1</sup> Das zuständige Departement kann mit der Standesorganisation eine Leistungsvereinbarung über den Notfalldienst abschliessen.
+#### Art. 50a
+
+**Dienstpflicht a) Grundsatz**
+
+<sup>1</sup> Wer eine Berufsausübungsbewilligung nach dem Bundesgesetz über die universitären Medizinalberufe vom 23. Juni 2006[^50a-1] hat und die bewilligungspflichtige Tätigkeit im Kanton ausübt, leistet Notfalldienst.
+
+<sup>2</sup> Die Dienstpflicht wird im Rahmen des Notfalldienstes erfüllt, der von der Standesorganisation organisiert wird.
+
+<sup>3</sup> Der Umfang des Notfalldienstes, den eine dienstpflichtige Person leistet, richtet sich nach dem Pensum ihrer bewilligungspflichtigen Tätigkeit im Kanton.
+
+[^50a-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de).
+
+#### Art. 50b
+
+**b) Ausnahmen**
+
+<sup>1</sup> Von der Dienstpflicht ausgenommen sind:
+
+- a) Amtsärztinnen und Amtsärzte;
+- b) Ärztinnen und Ärzte, die gleichwertigen Notfalldienst leisten:
+  - 1\. in einem Betrieb mit einer Notfallaufnahme, der auf einer Spitalliste im Sinn von [Art. 8](https://www.gesetzessammlung.sg.ch/data/320.1/de/art8) des Gesetzes über die Spitalplanung und -finanzierung vom 31. Januar 2012[^50b-1] aufgeführt ist;
+  - 2\. für eine andere Organisation an einem Betriebsstandort, der durch eine Leistungsvereinbarung mit dem Kanton zum Betrieb eines Notfalldienstes verpflichtet ist;
+- c) Tierärztinnen und Tierärzte;
+- d) weitere von der Regierung bezeichnete universitäre Medizinalberufe.
+
+[^50b-1]: sGS [320.1](https://www.gesetzessammlung.sg.ch/data/320.1/de).
+
+#### Art. 50c
+
+**c) Beginn und Ende**
+
+<sup>1</sup> Die Dienstpflicht beginnt mit Eintritt der Rechtskraft der Berufsausübungsbewilligung.
+
+<sup>2</sup> Sie endet mit der Aufgabe der beruflichen Tätigkeit im Kanton, spätestens aber mit Erreichen des Referenzalters nach [Art. 21](https://db.clex.ch/link/Bund/831.10/de) des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946[^50c-1].
+
+[^50c-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
+
+#### Art. 50d
+
+**Dispensation von der persönlichen Erfüllung der Dienstpflicht**
+
+<sup>1</sup> Dienstpflichtige, die aus fachlichen oder aus gewichtigen persönlichen Gründen nicht für den Notfalldienst geeignet sind, werden auf Gesuch oder von Amtes wegen von der persönlichen Erfüllung der Dienstpflicht dispensiert.
+
+<sup>2</sup> Die Dispensation entbindet nicht von der Pflicht, die Ersatzabgabe nach [Art. 50e](https://www.gesetzessammlung.sg.ch/data/311.1/de/art50e) ff. dieses Erlasses zu bezahlen.
+
+#### Art. 50e
+
+**Ersatzabgabe a) Grundsatz**
+
+<sup>1</sup> Wer die Dienstpflicht nicht erfüllt, bezahlt eine Ersatzabgabe.
+
+<sup>2</sup> Die Ersatzabgabe beträgt Fr. 5'000.– je Jahr, höchstens aber 2,5 Prozent des AHV-pflichtigen Jahreseinkommens aus der bewilligungspflichtigen Tätigkeit im Kalenderjahr, für das die Ersatzabgabe verlangt wird.
+
+#### Art. 50f
+
+**b) Kürzungen**
+
+<sup>1</sup> Die Ersatzabgabe wird anteilsmässig gekürzt, wenn die abgabepflichtige Person:
+
+- a) nicht während des ganzen Kalenderjahrs notfalldienstpflichtig ist;
+- b) die Dienstpflicht nur während eines Teils des Kalenderjahrs nicht erfüllt;
+- c) auch in einem anderen Kanton eine bewilligungspflichtige Tätigkeit im Sinn des Bundesgesetzes über die universitären Medizinalberufe vom 23. Juni 2006[^50f-1] ausübt;
+- d) ihre Dienstpflicht wegen krankheits- oder unfallbedingter Arbeitsunfähigkeit ganz oder teilweise nicht erfüllt.
+
+[^50f-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de).
+
+#### Art. 50g
+
+**c) Veranlagung 1. Pauschalveranlagung**
+
+<sup>1</sup> Die zuständige Organisation zieht bei der abgabepflichtigen Person im Kalenderjahr, für das die Ersatzabgabe geschuldet ist, die Pauschale nach [Art. 50e](https://www.gesetzessammlung.sg.ch/data/311.1/de/art50e) Abs. 2 dieses Erlasses ein.
+
+<sup>2</sup> Sie kann die Pauschale auf Fr. 3'000.– kürzen, wenn die abgabepflichtige Person glaubhaft macht, dass ihr AHV-pflichtiges Jahreseinkommen aus der bewilligungspflichtigen Tätigkeit höchstens Fr. 120'000.– betrug.
+
+<sup>3</sup> Die Pauschale nach Abs. 1 oder 2 dieser Bestimmung wird anteilsmässig gekürzt, wenn die abgabepflichtige Person Kürzungsgründe nach [Art. 50f](https://www.gesetzessammlung.sg.ch/data/311.1/de/art50f) dieses Erlasses nachweist.
+
+#### Art. 50h
+
+**2. ordentliche Veranlagung**
+
+<sup>1</sup> Die abgabepflichtige Person kann verlangen, dass die Ersatzabgabe aufgrund ihres AHV-pflichtigen Jahreseinkommens veranlagt wird.
+
+<sup>2</sup> Sie weist die Höhe ihres AHV-pflichtigen Jahreseinkommens durch eine rechtskräftige Steuerveranlagung oder die steuerrechtlichen Lohnausweise nach. Ganz oder teilweise selbständig erwerbstätige Personen weisen das AHV-pflichtige Jahreseinkommen durch die Beitragsverfügung nach der AHV-Gesetzgebung[^50h-1] nach.
+
+<sup>3</sup> Das Gesuch um ordentliche Veranlagung kann innert drei Jahren ab Rechtskraft der Steuerveranlagung eingereicht werden. Bei ganz oder teilweise selbständig erwerbstätigen Personen ist die Rechtskraft der Beitragsverfügung nach der AHV-Gesetzgebung[^50h-2] massgebend. Nach unbenutztem Ablauf der Frist verwirkt der Anspruch auf eine ordentliche Veranlagung der Ersatzabgabe für das betroffene Kalenderjahr.
+
+[^50h-1]: [Art. 9](https://db.clex.ch/link/Bund/831.10/de) des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946, SR [831.10](https://db.clex.ch/link/Bund/831.10/de), und [Art. 25](https://db.clex.ch/link/Bund/831.101/de) der eidgenössischen Verordnung über die Alters- und Hinterlassenenversicherung vom 31. Oktober 1947, SR [831.101](https://db.clex.ch/link/Bund/831.101/de).
+[^50h-2]: [Art. 9](https://db.clex.ch/link/Bund/831.10/de) des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946, SR [831.10](https://db.clex.ch/link/Bund/831.10/de), und [Art. 25](https://db.clex.ch/link/Bund/831.101/de) der eidgenössischen Verordnung über die Alters- und Hinterlassenenversicherung vom 31. Oktober 1947, SR [831.101](https://db.clex.ch/link/Bund/831.101/de).
+
+#### Art. 50i
+
+**d) Verwendung und Rechenschaftspflicht**
+
+<sup>1</sup> Die Ersatzabgabe wird ausschliesslich zur Organisation und Durchführung des Notfalldienstes verwendet.
+
+<sup>2</sup> Die Standesorganisation legt gegenüber dem zuständigen Departement jährlich Rechenschaft über die Einnahmen und die Verwendung der Ersatzabgabe ab.
+
+#### Art. 50j
+
+**Organisation a) Grundsatz**
+
+<sup>1</sup> Die Standesorganisation organisiert den Notfalldienst für den von ihr vertretenen universitären Medizinalberuf. Als Standesorganisation gilt ein Berufsverband, der den ganzen Kanton abdeckt oder überkantonal organisiert ist.
+
+<sup>2</sup> Sie kann den Notfalldienst nach Regionen oder Berufsrichtungen gliedern und die Organisation und Durchführung des Notfalldienstes sowie die Verwendung der Ersatzabgabe ihren regionalen Organisationen übertragen.
+
+<sup>3</sup> Die Standesorganisationen und die Listenspitäler sorgen für eine Koordination zwischen dem ambulanten Notfalldienst und der stationären Notfallversorgung.
+
+#### Art. 50k
+
+**b) Vollzugszuständigkeiten**
+
+<sup>1</sup> Die Standesorganisation:
+
+- a) entscheidet über die Dispensation von der persönlichen Erfüllung der Dienstpflicht;
+- b) veranlagt und bezieht die Ersatzabgabe.
+
+<sup>2</sup> Sie kann den Entscheid über die Dispensation von der Erfüllung der persönlichen Dienstpflicht sowie die Veranlagung und den Bezug der Ersatzabgabe ihren regionalen Organisationen übertragen.
+
+<sup>3</sup> Die zuständige Organisation ist berechtigt, im Bereich ihrer Vollzugszuständigkeit durch Verfügung zu handeln.
+
+<sup>4</sup> Verfügungen der zuständigen Organisation können mit Rekurs beim zuständigen Departement angefochten werden.
+
+#### Art. 50l
+
+**Beiträge des Kantons**
+
+<sup>1</sup> Der Kanton kann der Standesorganisation einen jährlichen Beitrag an die Organisation und Durchführung des Notfalldienstes gewähren.
+
+<sup>2</sup> Er kann der Standesorganisation Beiträge gewähren:
+
+- a) an die Entwicklung von neuen Modellen der ambulanten Notfallversorgung;
+- b) für Pilotprojekte, in denen Modelle der ambulanten Notfallversorgung erprobt werden;
+- c) für die Entwicklung und Umsetzung von Massnahmen zur Koordination zwischen dem Notfalldienst und der stationären Notfallversorgung.
 
 ### 2. Private Einrichtungen
 
@@ -860,6 +967,16 @@ als Gesetz:[^ingress-4]
 
 - a) einen anderen Beruf der Gesundheitspflege ausgeübt hat und ihn gemäss Art. 46 dieses Gesetzes weiterhin ausüben will;
 - b) eine private Einrichtung betrieben hat und sie gemäss Art. 51 dieses Gesetzes weiterhin betreiben will.
+
+#### Art. 62a
+
+**c) des XV. Nachtrags vom 27. Januar 2026**
+
+<sup>1</sup> Die Ersatzabgabe nach [Art. 50e](https://www.gesetzessammlung.sg.ch/data/311.1/de/art50e) ff. dieses Erlasses ist für das Kalenderjahr, in dem dieser Nachtrag in Vollzug tritt, pro rata temporis geschuldet.
+
+<sup>2</sup> Gesuche um Dispensation vom Notfalldienst, die bei Vollzugsbeginn dieses Nachtrags bei einer Standesorganisation oder einer regionalen Organisation hängig sind, werden nach neuem Recht weitergeführt.
+
+<sup>3</sup> Die Anfechtung von Verfügungen einer Standesorganisation betreffend Dispensation, die bei Vollzugsbeginn dieses Erlasses bereits eröffnet wurden, richtet sich nach [Art. 50<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/311.1/de/art50bis) bis [50<sup>quinquies</sup>](https://www.gesetzessammlung.sg.ch/data/311.1/de/art50quinquies) dieses Erlasses in der Fassung vor Vollzugsbeginn dieses Nachtrags.
 
 #### Art. 63
 
