@@ -4,13 +4,12 @@ number: "910.111"
 title: Verordnung über Produktion und Vermarktung in der Landwirtschaft
 short: PVLV
 language: de
-version: 2022-01-01
-valid_until: 2026-02-28
-version_adopted: 2021-11-17
+version: 2026-03-01
+version_adopted: 2026-01-14
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2441/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3338/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2441/pdf_file"
 
 (PVLV)
 
-vom 05.11.1997 (Stand 01.01.2022)
+vom 05.11.1997 (Stand 01.03.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -86,13 +85,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Beitragsgesuch ist von der Trägerschaft beim LANAT einzureichen und hat mindestens folgende Unterlagen zu umfassen:
-
-- a eine Stellungnahme zur Erfüllung der Beitragsvoraussetzungen gemäss Artikel 2 Absatz 1,
-- b eine Beschreibung der Ausgangssituation,
-- c die Ziele und Massnahmen,
-- d das Budget und den Finanzierungsplan,
-- e den Antrag und die Unterschrift.
+<sup>1</sup> Das Beitragsgesuch ist von der Trägerschaft beim LANAT mit den erforderlichen Unterlagen einzureichen.
 
 <sup>2</sup> Das LANAT stimmt die Projektförderung soweit erforderlich auf andere kantonale Massnahmen ab und nimmt insbesondere bei sektorübergreifenden Verbundprojekten und regionalen Grossverbundprojekten Rücksprache mit dem Amt für Wirtschaft oder dem Amt für Gemeinden und Raumordnung.
 
@@ -110,7 +103,7 @@ beschliesst:
 
 <sup>3</sup> Das Amt für Veterinärwesen zeigt Widerhandlungen gegen Vorschriften des Lebensmittelrechts der Strafverfolgungsbehörde an. In leichten Fällen kann es auf eine Strafanzeige verzichten.
 
-<sup>4</sup> Er teilt Milchliefersperren den Milchkäuferinnen und Milchkäufern mit.
+<sup>4</sup> Es teilt Milchliefersperren den Milchkäuferinnen und Milchkäufern mit.
 
 #### Art. 6a
 
@@ -155,7 +148,7 @@ beschliesst:
 
 <sup>3</sup> Die Tiere müssen ausserdem
 
-- a aus Betrieben stammen, welche den ökologischen Leistungsnachweis gemäss der Verordnung vom 7. Dezember 1998 über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV[^16-2]) erbringen,
+- a aus Betrieben stammen, die den ökologischen Leistungsnachweis gemäss der eidgenössischen Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV)[^16-2] erbringen,
 - b vor der Veräusserung, soweit die Rindergattung betroffen ist, mindestens drei Monate oder, soweit die Schaf- und Ziegenhaltung betroffen ist, zwei Monate auf dem eigenen Betrieb gehalten worden sein.
 
 <sup>4</sup> Für Schafe und Ziegen werden die Beiträge nach Absatz 1 zudem nur gewährt, wenn je Betrieb jährlich mindestens vier Tiere vermarktet werden.
@@ -188,7 +181,7 @@ beschliesst:
 
 <sup>4</sup> Anerkannten lokalen Organisationen kann ein Beitrag an die Betriebskosten zur Durchführung von Tierschauen ausgerichtet werden; der Beitrag beläuft sich auf höchstens fünf Franken je ausgestelltes Tier.
 
-<sup>5</sup> Das LANAT kann mit repräsentativen Produzenten- oder Branchenorganisationen wie der LOBAG oder der PROVIANDE bei Bedarf Leistungsverträge zur Durchführung der Marktorganisation an anerkannten öffentlichen Marktorten gemäss Artikel 6 Absatz 2 SV sowie zur Übernahme von Dienstleistungen im öffentlichen Interesse abschliessen. Leistungsaufwand, welcher bereits anderweitig abgegolten wird, wird nicht vergütet.
+<sup>5</sup> Das LANAT kann mit repräsentativen Produzenten- oder Branchenorganisationen wie dem Berner Bauern Verband oder der Proviande bei Bedarf Leistungsverträge zur Durchführung der Marktorganisation an anerkannten öffentlichen Marktorten gemäss Artikel 6 Absatz 2 SV sowie zur Übernahme von Dienstleistungen im öffentlichen Interesse abschliessen. Leistungsaufwand, der bereits anderweitig abgegolten wird, wird nicht vergütet.
 
 #### Art. 17a
 
@@ -214,7 +207,7 @@ beschliesst:
 
 <sup>3</sup> Beitragsgesuche nach Artikel 16 Absatz 2 Buchstabe b sind für Tiere der Rindergattung spätestens 90 Tage und für Tiere der Schaf- und Ziegengattung spätestens ein Jahr nach dem Schlachttag beim LANAT einzureichen; dieses kann für bestimmte Tierkategorien die Jahresfrist abkürzen.
 
-<sup>4</sup> Beitragsgesuche nach Artikel 17 Absätze 3 und 4 sind zu Beginn des Beitragsjahres bzw. spätestens 30 Tage vor dem Anlass beim LANAT einzureichen. Gesuche nach Artikel 17 Absatz 3 müssen ein Budget der Aufwendungen enthalten.
+<sup>4</sup> Beitragsgesuche nach Artikel 17 Absätze 3 und 4 sind im Beitragsjahr beim LANAT einzureichen. Gesuche nach Artikel 17 Absatz 3 müssen ein Budget der Aufwendungen enthalten.
 
 ## 5 Allgemeine Direktzahlungen und Ökobeiträge
 
@@ -228,11 +221,9 @@ beschliesst:
 
 <sup>3</sup> Falls die Gesuchstellerin oder der Gesuchsteller zugleich Beiträge nach der Naturschutzgesetzgebung geltend macht, oder wenn dies aus andern Gründen gerechtfertigt erscheint, ist die Kontrolle mit anderen Organen zu koordinieren.
 
-<sup>4</sup> Die Einhaltung der Regeln hinsichtlich des ökologischen Leistungsnachweises, der besonders tierfreundlichen Haltung landwirtschaftlicher Nutztiere, des biologischen Landbaus sowie der Bewirtschaftung auf den Sömmerungsbetrieben nach den Vorschriften der eidgenössischen Verordnung vom 29. März 2000 über Sömmerungsbeiträge (Sömmerungsbeitragsverordnung, SöBV[^19-1]) überprüfen die Kontrollkommission für umweltschonende und tierfreundliche Landwirtschaft im Kanton Bern (KUL) sowie allfällige weitere, vergleichbare Organisationen, die vom LANAT anerkannt sind. Dieses macht stichprobenweise Nachkontrollen.
+<sup>4</sup> Die Einhaltung der Vorgaben der DZV überprüfen die Kontrollorganisationen, die einen Leistungsvertrag zur Durchführung öffentlich-rechtlicher Kontrollen auf Landwirtschaftsbetrieben mit dem LANAT abgeschlossen haben. Dieses macht stichprobeweise Nachkontrollen.
 
-<sup>5</sup> Für die Kontrolle der Einhaltung der eidgenössischen Tierschutzvorschriften in den ergänzende Direktzahlungen des Bundes beziehenden Betrieben, welche weder integriert noch biologisch produzieren und für die Anerkennung als entsprechend produzierender Betrieb auch nicht angemeldet sind, zieht das LANAT die KUL bei.
-
-[^19-1]: SR 910.133
+<sup>5</sup> …
 
 #### Art. 20
 
@@ -254,7 +245,7 @@ beschliesst:
 
 <sup>2</sup> Entsprechende Gesuche sind beim LANAT einzureichen.
 
-<sup>3</sup> Der Kontrollaufwand der KUL nach Artikel 19 Absatz 5 ist abzugelten.
+<sup>3</sup> …
 
 #### Art. 22
 
@@ -278,10 +269,12 @@ beschliesst:
 
 **Datenzugriff**
 
-<sup>1</sup> Die zuständige Stelle des LANAT ist berechtigt, zur Erhebung und Kontrolle der Daten für die Ausrichtung der landwirtschaftlichen Beiträge mit einem Abrufverfahren auf folgende Datenbanken der Kantonalen Steuerverwaltung zu greifen:
+<sup>1</sup> Die zuständige Stelle des LANAT ist berechtigt, zur Erhebung und Kontrolle der Daten für die Ausrichtung der landwirtschaftlichen Beiträge mit einem Abrufverfahren auf folgende Daten der Kantonalen Steuerverwaltung zuzugreifen:
 
-- a die Flächendaten der amtlichen Bewertung und
-- b das steuerbare Einkommen und das steuerbare Vermögen der einzelnen Beitragsempfängerinnen und Beitragsempfänger.
+- a die Flächendaten der amtlichen Bewertung,
+- b das steuerbare Einkommen und das steuerbare Vermögen der einzelnen Beitragsempfängerinnen und Beitragsempfänger,
+- c das Geburtsdatum der Ehefrauen und Ehemänner sowie der eingetragenen Partnerinnen und eingetragenen Partner der einzelnen Beitragsempfängerinnen und Beitragsempfänger und deren Einkommen,
+- d die Abzüge nach Artikel 38 Absatz 2 Buchstabe b des Steuergesetzes vom 21. Mai 2000 (StG)[^24-1].
 
 <sup>2</sup> Das LANAT stellt sicher, dass die Bewirtschafterinnen und Bewirtschafter mit ihren Zugangsdaten Zugriff auf die von ihnen hinterlegten Betriebsdaten und die Daten der ihnen eröffneten Verfügungen haben.
 
@@ -289,19 +282,20 @@ beschliesst:
 
 - a das Amt für Gemeinden und Raumordnung,
 - b das Amt für Wasser und Abfall,
+- b1 das Amt für Umwelt und Energie,
 - c die Bienenkommissarinnen und -kommissare,
 - d die Erhebungsstellen der Gemeinden,
 - e die Fondation Rurale Interjurassienne,
-- f die Trägerschaften von Projekten, die nach der eidgenössischen Verordnung vom 4. April 2001 über die regionale Förderung der Qualität und der Vernetzung von ökologischen Ausgleichsflächen in der Landwirtschaft (Öko-Qualitätsverordnung, ÖQV)[^24-1] gefördert werden,
+- f die Trägerschaften von Projekten, die nach der DZV gefördert werden,
 - g die Kontrollorganisationen,
 - h die Regierungsstatthalterämter,
-- i die Rechtsabteilung der Wirtschafts-, Energie- und Umweltdirektion.
+- i die Rechtsabteilung des Generalsekretariats der Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>4</sup> Es führt eine Liste mit den individuell festgelegten Zugriffsberechtigungen sämtlicher interner und externer Personen.
 
 <sup>5</sup> Die Steuerverwaltung und die zuständige Stelle des LANAT beschränken den Zugriff im Abrufverfahren so, dass den abrufenden Stellen sachlich höchstens diejenigen Daten zur Verfügung stehen, die sie zu ihrer Aufgabenerfüllung benötigen.
 
-[^24-1]: SR 910.14
+[^24-1]: BSG [661.11](https://www.belex.sites.be.ch/data/661.11/de)
 
 #### Art. 25
 

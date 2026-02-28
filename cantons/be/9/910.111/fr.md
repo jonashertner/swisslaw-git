@@ -4,13 +4,12 @@ number: "910.111"
 title: "Ordonnance sur la production et la commercialisation dans l'agriculture"
 short: OPCA
 language: fr
-version: 2022-01-01
-valid_until: 2026-02-28
-version_adopted: 2021-11-17
+version: 2026-03-01
+version_adopted: 2026-01-14
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2441/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3338/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2441/pdf_file"
 
 (OPCA)
 
-du 05.11.1997 (état au 01.01.2022)
+du 05.11.1997 (état au 01.03.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -86,13 +85,7 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> La demande de subvention doit être présentée à l’OAN par l’organisme responsable et contient au moins les documents suivants:
-
-- a une prise de position quant à la satisfaction aux conditions préalables au subventionnement d’après l’article 2, alinéa 1,
-- b un état des lieux,
-- c les objectifs et les mesures prévus,
-- d le budget et le plan de financement et
-- e la requête et la signature.
+<sup>1</sup> La demande de subvention doit être présentée à l'OAN par l'organisme responsable avec les documents requis.
 
 <sup>2</sup> L’OAN harmonise autant que possible la promotion des projets avec d’autres mesures cantonales et consulte l’Office de l’économie ou l’Office des affaires communales et de l’organisation du territoire, en particulier en cas de projets de coopération touchant plusieurs secteurs ou de grands projets de coopération régionaux.
 
@@ -155,7 +148,7 @@ arrête:
 
 <sup>3</sup> Les animaux doivent en outre
 
-- a provenir d’exploitations qui fournissent les prestations écologiques requises en vertu de l’ordonnance du 7 décembre 1998 sur les paiements directs versés dans l’agriculture (ordonnance sur les paiements directs, OPD)[^16-2],
+- a provenir d’exploitations qui fournissent les prestations écologiques requises en vertu de l’ordonnance fédérale du 23 octobre 2013 sur les paiements directs versés dans l’agriculture (ordonnance sur les paiements directs, OPD)[^16-2],
 - b avant la vente, avoir été détenus sur l’exploitation au moins trois mois pour les animaux de l’espèce bovine, ou au moins deux mois pour les animaux des espèces ovine et caprine.
 
 <sup>4</sup> En ce qui concerne les moutons et les chèvres, les subventions au sens de l’alinéa 1 ne sont en outre allouées que si quatre animaux au moins sont commercialisés par année et par exploitation.
@@ -188,7 +181,7 @@ arrête:
 
 <sup>4</sup> Une subvention aux frais d’exploitation liés à l’organisation d’expositions d’animaux peut être allouée aux organisations locales reconnues; la subvention s’élève à cinq francs au plus par animal exposé.
 
-<sup>5</sup> L’OAN peut au besoin conclure avec des organisations représentatives de producteurs ou de branches telles que la LOBAG ou PROVIANDE des contrats de prestations pour l’organisation de marchés sur des places de marché publiques locales agréées au sens de l’article 6, alinéa 2 OBB ainsi que pour la prise en charge de services d’intérêt public. Les frais de prestations qui ont déjà été compensés par d’autres sources ne sont pas indemnisés.
+<sup>5</sup> L’OAN peut au besoin conclure avec des organisations représentatives de producteurs ou de branches telles que le Berner Bauern Verband ou Proviande des contrats de prestations pour l’organisation de marchés sur des places de marché publiques locales agréées au sens de l’article 6, alinéa 2 OBB ainsi que pour la prise en charge de services d’intérêt public. Les frais de prestations qui ont déjà été compensés par d’autres sources ne sont pas indemnisés.
 
 #### Art. 17a
 
@@ -214,7 +207,7 @@ arrête:
 
 <sup>3</sup> Les demandes de subventions au sens de l’article 16, alinéa 2, lettre b doivent être présentées à l’OAN au plus tard 90 jours après le jour de l’abattage pour les animaux de l’espèce bovine et au plus tard un an après l’abattage pour les animaux des espèces ovine et caprine; l’OAN peut écourter le délai d’un an pour certaines catégories d’animaux.
 
-<sup>4</sup> Les demandes de subventions au sens de l’article 17, alinéas 3 et 4 doivent être présentées à l’OAN au début de l’année de subvention ou au plus tard 30 jours avant le début de la manifestation. Les demandes au sens de l’article 17, alinéa 3 doivent contenir un budget faisant état des dépenses.
+<sup>4</sup> Les demandes de subventions au sens de l’article 17, alinéas 3 et 4 doivent être présentées à l’OAN durant l’année de subvention. Les demandes au sens de l’article 17, alinéa 3 doivent contenir un budget faisant état des dépenses.
 
 ## 5 Production végétale, paiements directs complémentaires
 
@@ -228,11 +221,9 @@ arrête:
 
 <sup>3</sup> Lorsque le requérant ou la requérante sollicite aussi des subventions prévues par la législation sur la protection de la nature, ou lorsque cela paraît justifié pour d'autres motifs, le contrôle est coordonné avec d'autres organes.
 
-<sup>4</sup> Le respect des règles régissant la preuve des prestations écologiques, la garde d’animaux de rente particulièrement respectueuse de l’espèce, la culture biologique ainsi que l’exploitation dans les exploitations d’estivage selon les prescriptions de l’ordonnance fédérale du 29 mars 2000 sur les contributions d’estivage (OCest)[^19-1] est contrôlé par la Commission de contrôle pour une agriculture ménageant l’environnement et respectueuse des animaux dans le canton de Berne (KUL) et d’autres organisations similaires reconnues par l’OAN. Ce dernier effectue des contrôles au moyen de sondages.
+<sup>4</sup> Le respect des prescriptions de l'OPD est contrôlé par les organisations de contrôle qui ont conclu avec l'OAN un contrat de prestations portant sur la réalisation de contrôles de droit public au sein des exploitations agricoles. L'OAN effectue des contrôles au moyen de sondages.
 
-<sup>5</sup> L'OAN a recours à ladite commission pour procéder au contrôle du respect des dispositions fédérales en matière de protection des animaux dans les exploitations bénéficiant des paiements directs complémentaires de la Confédération, dont la production n'est ni intégrée ni biologique et qui n'ont pas déposé de demande pour que leur production soit reconnue en tant que telle.
-
-[^19-1]: RS 910.133
+<sup>5</sup> …
 
 #### Art. 20
 
@@ -254,7 +245,7 @@ arrête:
 
 <sup>2</sup> Les demandes d'aide financière doivent être déposées à l'OAN.
 
-<sup>3</sup> La KUL est indemnisée pour les contrôles effectués au sens de l'article 19, 5e alinéa.
+<sup>3</sup> …
 
 #### Art. 22
 
@@ -278,10 +269,12 @@ arrête:
 
 **Accès aux données**
 
-<sup>1</sup> Afin de relever et de contrôler les données liées au versement des subventions agricoles, le service compétent de l'OAN est autorisé à accéder par une procédure d'appel aux banques de données suivantes de l'Intendance cantonale des impôts:
+<sup>1</sup> Afin de relever et de contrôler les données liées au versement des subventions agricoles, le service compétent de l'OAN est autorisé à accéder par une procédure d'appel aux données suivantes de l'Intendance cantonale des impôts:
 
-- a les superficies servant de base à l'évaluation officielle et
-- b le revenu et la fortune imposables des bénéficiaires.
+- a les superficies servant de base à l'évaluation officielle,
+- b le revenu et la fortune imposables des bénéficiaires,
+- c la date de naissance ainsi que le revenu des conjoints, conjointes, partenaires enregistrés ou partenaires enregistrées des bénéficiaires,
+- d les déductions prévues par l'article 38, alinéa 2, lettre b de la loi du 21 mai 2000 sur les impôts (LI)[^24-1].
 
 <sup>2</sup> L’OAN garantit l’accès des exploitants et des exploitantes aux données qu’ils ont saisies sur leur exploitation et aux décisions qui leur ont été notifiées au moyen de leurs données d’accès.
 
@@ -289,19 +282,20 @@ arrête:
 
 - a l’Office des affaires communales et de l’organisation du territoire,
 - b l’Office des eaux et des déchets,
+- b1 l'Office de l'environnement et de l'énergie
 - c les commissaires aux ruchers,
 - d les offices de recensement des communes,
 - e la Fondation Rurale Interjurassienne,
-- f les organismes responsables des projets subventionnés en vertu de l’ordonnance fédérale du 4 avril 2001 sur la promotion régionale de la qualité et de la mise en réseau des surfaces de compensation écologique dans l’agriculture (ordonnance sur la qualité écologique, OQE)[^24-1],
+- f les organismes responsables des projets subventionnés en vertu de l'OPD,
 - g les organisations de contrôle,
 - h les préfectures,
-- i le Service juridique de la Direction de l’économie, de l’énergie et de l’environnement.
+- i le Service juridique du Secrétariat général de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>4</sup> Il dresse une liste de tous les droits d’accès attribués nommément à des personnes internes et externes à l’office.
 
 <sup>5</sup> L'Intendance des impôts et le service compétent de l'OAN limitent l'accès par appel des données de telle manière que les services lançant l'appel ne puissent accéder qu'aux données dont ils ont besoin pour accomplir leurs tâches.
 
-[^24-1]: RS 910.14
+[^24-1]: RSB [661.11](https://www.belex.sites.be.ch/data/661.11/fr)
 
 #### Art. 25
 
