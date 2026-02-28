@@ -4,13 +4,12 @@ number: "381.1"
 title: Sozialhilfegesetz
 short: SHG
 language: de
-version: 2026-01-01
-corrected: 2025-12-06
-version_adopted: 2025-11-11
+version: 2026-03-01
+version_adopted: 2026-01-27
 adopted: 1998-09-27
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3710/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3876/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3710/pdf_file"
 
 (SHG)
 
-vom 27.09.1998 (Stand 01.01.2026)
+vom 27.09.1998 (Stand 01.03.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -144,13 +143,7 @@ als Gesetz:[^ingress-2]
 
 #### Art. 6a
 
-**Fach- und Anlaufstelle Radikalisierung und Extremismus**
-
-<sup>1</sup> Für Früherkennung sowie zur Beratung und Unterstützung von Jugendlichen, Erwachsenen und Fachpersonen besteht eine Fach- und Anlaufstelle Radikalisierung und Extremismus.
-
-<sup>2</sup> Die Regierung legt die zuständige Stelle fest und schliesst eine Leistungsvereinbarung ab.
-
-<sup>3</sup> Die Fach- und Anlaufstelle Radikalisierung und Extremismus steht unter der Aufsicht des Departementes des Innern.
+**…**
 
 ### 2. Betreuende Sozialhilfe
 
@@ -256,6 +249,15 @@ als Gesetz:[^ingress-2]
 <sup>2</sup> Sie wird rechtzeitig gewährt und bei Bedarf mit betreuender Sozialhilfe verbunden.
 
 <sup>3</sup> Sie wird so geleistet, dass sie weder durch die hilfebedürftige Person noch durch ihre Familienangehörigen missbraucht werden kann. Bietet die hilfebedürftige Person keine Gewähr für die bestimmungsgemässe Verwendung, können Leistungen an berechtigte Dritte ausgerichtet werden.
+
+<sup>4</sup> Sozialhilfe für Wohn- und Nebenkosten für anerkannte Flüchtlinge und vorläufig aufgenommene Flüchtlinge wird:
+
+- a) grundsätzlich als Sachleistung ausgerichtet;
+- b) in Ausnahmefällen als Geldleistung ausgerichtet, insbesondere wenn:
+  - 1\. dies dem Integrationsziel dient und
+  - 2\. die bisherige und die neue Wohnsitzgemeinde dem Wohnsitzwechsel zustimmen.
+
+<sup>5</sup> Flüchtlinge mit Landesverweisung werden von der Sozialhilfe ausgeschlossen. Es wird ausschliesslich Nothilfe gewährt. Diese wird grundsätzlich als Sachleistung ausgerichtet.
 
 #### Art. 11
 
