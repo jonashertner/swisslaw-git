@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2025-09-08
+version: 2026-03-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20260302/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20260302-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 8 settembre 2025)
+del 13 dicembre 2002 (Stato 2 marzo 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -574,6 +574,20 @@ Gli organi dell’Assemblea federale sono:
 
 [^32-1]: Introdotto dalla cifra I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
+#### Art. 32a
+
+**Sedute della Camera in linea**[^32a-1]
+
+<sup>1</sup> Se la riunione in presenza non è possibile, l’Ufficio di una Camera può decidere di svolgere in linea singole sedute della Camera. Sono fatte salve decisioni contrarie della Camera.
+
+<sup>2</sup> Le elezioni, come pure le deliberazioni segrete secondo l’articolo 4 capoverso 2, non possono essere svolte in linea.
+
+<sup>3</sup> Se per motivi tecnici un parlamentare non ha potuto trasmettere il proprio voto, la votazione non è ripetuta.
+
+<sup>4</sup> Salvo decisioni contrarie della Camera, l’Ufficio determina le sedute che sono svolte in linea e il loro ordine del giorno. Può adottare provvedimenti di tipo organizzativo limitati nel tempo che derogano alle disposizioni del regolamento della Camera.
+
+[^32a-1]: Introdotto dalla cifra I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 2 mar. 2026 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2026 78](https://fedlex.data.admin.ch/eli/oc/2026/78); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
 #### Art. 33
 
 **Convocazione**
@@ -630,7 +644,7 @@ La Conferenza di coordinamento ha i compiti seguenti:
 
 - a.[^37-1] stabilisce le settimane in cui si svolgono le sessioni ordinarie e le sessioni straordinarie;
 - b. cura le relazioni tra le due Camere e tra queste e il Consiglio federale;
-- c.[^37-2] …
+- c.[^37-2] ...
 - d. elegge il segretario generale dell’Assemblea federale. L’elezione va confermata dall’Assemblea federale plenaria;
 - e. approva la costituzione di nuovi gruppi parlamentari secondo i criteri di cui all’articolo 61.
 
@@ -867,7 +881,7 @@ Le commissioni informano l’opinione pubblica sui risultati delle loro delibera
 
 <sup>4</sup> In caso di affari intersettoriali, altre commissioni possono presentare rapporti alle commissioni incaricate dell’esame preliminare.
 
-<sup>5</sup> …[^49-1]
+<sup>5</sup> ...[^49-1]
 
 [^49-1]: Abrogato dalla cifra I della LF del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
@@ -2448,7 +2462,7 @@ Per adempiere i loro compiti, le delegazioni delle commissioni di vigilanza hann
 <sup>3</sup> La Delegazione delle finanze e la Delegazione delle Commissioni della gestione ricevono costantemente tutte le decisioni del Consiglio federale, proposte e corapporti inclusi. Stabiliscono congiuntamente i dettagli della loro trasmissione, consultazione e conservazione. [^154-2]
 
 [^154-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Precisazione dei diritti d’informazione delle commissioni di vigilanza), in vigore dal 1° nov. 2011 ([RU 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1683](https://fedlex.data.admin.ch/eli/fga/2011/209)[1705](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^154-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Precisazione dei diritti d’informazione delle commissioni di vigilanza), in vigore dal 1° nov. 2011 ([RU 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1683](https://fedlex.data.admin.ch/eli/fga/2011/209)[1705](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^154-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Precisazione dei diritti d’informazione delle commissioni di vigilanza), in vigore dal 1° nov. 2011 (RU**2011** 4537; [FF 2011 1683](https://fedlex.data.admin.ch/eli/fga/2011/209)[1705](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 154a
 
@@ -2741,7 +2755,7 @@ Alle iniziative popolari federali pendenti al momento dell’entrata in vigore d
 
 <sup>2</sup> La Conferenza di coordinamento ne determina l’entrata in vigore.
 
-<sup>3</sup> Gli articoli 14, 15 e 61 entrano in vigore all’inizio della prima sessione che segue il rinnovo integrale del Consiglio nazionale successivo all’entrata in vigore della presente legge[^174-1]. Allo stesso momento è abrogato l’articolo 18 della legge federale del 17 dicembre 1976[^174-2] sui diritti politici (allegato[^174-3] n. II 1).
+<sup>3</sup> Gli articoli 14, 15 e 61 entrano in vigore all’inizio della prima sessione che segue il rinnovo integrale del Consiglio nazionale successivo all’entrata in vigore della presente legge[^174-1]. Allo stesso momento è abrogato l’articolo 18 della legge federale del 17 dicembre 1976[^174-2] sui diritti politici (allegato[^174-3] cifra II n. 1).
 
 Data dell’entrata in vigore: 1° dicembre 2003[^174-4]
 
@@ -2796,7 +2810,7 @@ Le leggi qui appresso sono modificate come segue:
 
 …[^annex1-lvlu1-4]
 
-[^annex1-lvlu1-1]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. I, [414](https://fedlex.data.admin.ch/eli/oc/2000/91); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 3].
+[^annex1-lvlu1-1]: [CS **1** 148; [RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 cpv. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I n. 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. cifra I, [414](https://fedlex.data.admin.ch/eli/oc/2000/91); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 3].
 [^annex1-lvlu1-2]: [CS **1** 431]
 [^annex1-lvlu1-3]: [[RU 1962 831](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831); [1966 1363](https://fedlex.data.admin.ch/eli/oc/1966/1325_1375_1363), [1753](https://fedlex.data.admin.ch/eli/oc/1966/__1753); [1970 1249](https://fedlex.data.admin.ch/eli/oc/1970/1253_1249_1249); [1972 245](https://fedlex.data.admin.ch/eli/oc/1972/241_245_245), [1686](https://fedlex.data.admin.ch/eli/oc/1972/1486_1514_1686); [1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)cifra II n. 1; [1978 570](https://fedlex.data.admin.ch/eli/oc/1978/__570), [688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 2; [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)art. 66, [679](https://fedlex.data.admin.ch/eli/oc/1979/679_679_679), [1318](https://fedlex.data.admin.ch/eli/oc/1979/1318_1318_1318); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1986 1712](https://fedlex.data.admin.ch/eli/oc/1986/1712_1712_1712); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 n. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [260](https://fedlex.data.admin.ch/eli/oc/1989/260_260_260); [1990 1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530), [1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 1; [1992 641](https://fedlex.data.admin.ch/eli/oc/1992/641_641_641), [2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [1994 360](https://fedlex.data.admin.ch/eli/oc/1994/360_360_360), [2147](https://fedlex.data.admin.ch/eli/oc/1994/2147_2147_2147); [1995 4840](https://fedlex.data.admin.ch/eli/oc/1995/4840_4840_4840); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 1, [2868](https://fedlex.data.admin.ch/eli/oc/1996/2868_2868_2868); [1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753), [760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 1, [2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 4; [1998 646](https://fedlex.data.admin.ch/eli/oc/1998/646_646_646), [1418](https://fedlex.data.admin.ch/eli/oc/1998/1418_1418_1418), [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 8; [1999 468](https://fedlex.data.admin.ch/eli/oc/1999/61); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54), [2093](https://fedlex.data.admin.ch/eli/oc/2000/317); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I n. 1; [2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 1; [2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310). [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. cifra I n. 3].
 [^annex1-lvlu1-4]: Le mod. possono essere consultate alla [RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).

@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2025-09-08
+version: 2026-03-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20260302/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20260302-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dals 8 da settember 2025)
+dals 13 da december 2002 (versiun dals 2 da mars 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -576,6 +576,20 @@ Ils organs da l’Assamblea federala èn:
 <sup>3</sup> Sch’i n’è betg pussaivel da sa radunar a Berna, po la Conferenza da coordinaziun concluder che l’Assamblea federala sa radunia en in auter lieu.[^32-1]
 
 [^32-1]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
+#### Art. 32a
+
+**Sesidas virtualas da las chombras**[^32a-1]
+
+<sup>1</sup> Sch’i n’è betg pussaivel da sa radunar fisicamain, po il biro d’ina chombra concluder da far singulas sesidas da la chombra en moda virtuala. Conclus cuntraris da la chombra restan resalvads.
+
+<sup>2</sup> Elecziuns e tractativas secretas tenor l’artitgel 4 alinea 2 na dastgan betg avair lieu en moda virtuala.
+
+<sup>3</sup> Votaziuns na vegnan betg repetidas, sch’in parlamentari n’ha, per motivs tecnics, betg pudì votar.
+
+<sup>4</sup> Cun resalva da conclus cuntraris da la chombra fixescha il biro las sesidas che vegnan fatgas en moda virtuala e lur tractandas. Il biro po prender mesiras organisatoricas da durada limitada, che divergeschan dal reglament da gestiun da la chombra respectiva.
+
+[^32a-1]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 2 da mars 2026 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483), [2026 78](https://fedlex.data.admin.ch/eli/oc/2026/78); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 33
 

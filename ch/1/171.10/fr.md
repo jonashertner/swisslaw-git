@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2025-09-08
+version: 2026-03-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20260302/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20260302-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 8 septembre 2025)
+du 13 décembre 2002 (État le 2 mars 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -194,7 +194,7 @@ Les députés sont tenus de participer aux séances du conseil et des commission
 
 <sup>5</sup> Le nom des députés participant en ligne aux séances est communiqué au conseil et au public.
 
-[^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session) ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nouvelle teneur selon le ch. I de la LF du 17 mars 2024(Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 2 déc. 2024 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2024 675](https://fedlex.data.admin.ch/eli/oc/2024/675); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+[^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session) ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 2 déc. 2024 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2024 675](https://fedlex.data.admin.ch/eli/oc/2024/675); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 10b
 
@@ -569,6 +569,20 @@ Les organes de l’Assemblée fédérale sont:
 <sup>3</sup> Lorsque l’Assemblée fédérale ne peut se réunir à Berne, la Conférence de coordination peut désigner un autre lieu de séance.[^32-1]
 
 [^32-1]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
+#### Art. 32a
+
+**Séances du conseil tenues en ligne**[^32a-1]
+
+<sup>1</sup> Si un conseil ne peut se réunir physiquement, le bureau peut décider de tenir certaines séances en ligne. Les décisions contraires du conseil sont réservées.
+
+<sup>2</sup> Les élections et les délibérations à huis clos selon l’art. 4, al. 2, ne peuvent avoir lieu en ligne.
+
+<sup>3</sup> Les votes ne sont pas répétés si des députés n’ont pas pu, pour des raisons techniques, communiquer leur suffrage.
+
+<sup>4</sup> Sauf décision contraire du conseil, le bureau détermine les séances qui doivent être tenues en ligne ainsi que leur ordre du jour. Il peut prendre des mesures provisoires d’ordre organisationnel qui dérogent au règlement du conseil.
+
+[^32a-1]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 2 mars 2026 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2026 78](https://fedlex.data.admin.ch/eli/oc/2026/78); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 33
 

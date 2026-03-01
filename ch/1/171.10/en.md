@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2025-09-08
+version: 2026-03-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20260302/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20260302-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Last amended on 8 September 2025)
+of 13 December 2002 (Last amended on 2 March 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -60,7 +60,7 @@ One quarter of the members of a council or of the Federal Council may request th
 - a. drafts by the Federal Council or of a Federal Assembly committee of a Federal Assembly enactment;
 - b. identical motions that have been submitted in both councils;
 - c. elections;
-- d. declarations by the Federal Council or identical drafts submitted in both councils for declarations by the National Council and des Council of States.[^2-1]
+- d. declarations by the Federal Council or identical drafts submitted in both councils for declarations by the National Council and the Council of States.[^2-1]
 
 <sup>3bis</sup>
 
@@ -574,6 +574,20 @@ The organs of the Federal Assembly are:
 <sup>3</sup> If it is not possible to convene in Bern, the Conference for Coordination may decide that the Federal Assembly shall meet at a different location.[^32-1]
 
 [^32-1]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
+#### Art. 32a
+
+**Council meetings held virtually**[^32a-1]
+
+<sup>1</sup> If an in-person meeting is not possible, a council’s office may decide to hold individual council meetings virtually. Council decisions to the contrary remain reserved.
+
+<sup>2</sup> Elections and meetings in camera in accordance with Article 4 paragraph 2 shall not be held virtually.
+
+<sup>3</sup> Votes shall not be held again if assembly members are unable to cast their votes on technical grounds.
+
+<sup>4</sup> Subject to any other decisions taken by the council, the office shall determine which meetings are to be held virtually and the items on the agenda for those meetings. It may adopt temporary organisational measures that deviate from the rules of procedure of the relevant council.
+
+[^32a-1]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 2 March 2026 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2026 78](https://fedlex.data.admin.ch/eli/oc/2026/78); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 33
 

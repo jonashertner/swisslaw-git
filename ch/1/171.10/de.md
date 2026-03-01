@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2025-09-08
+version: 2026-03-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20260302/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20260302-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20260302/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 8. September 2025)
+vom 13. Dezember 2002 (Stand am 2. März 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -572,6 +572,20 @@ Die Organe der Bundesversammlung sind:
 <sup>3</sup> Ist ein Zusammentreten in Bern nicht möglich, so kann die Koordinationskonferenz beschliessen, dass die Bundesversammlung an einem anderen Ort tagt.[^32-1]
 
 [^32-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
+
+#### Art. 32a
+
+**Virtuell durchgeführte Ratssitzungen**[^32a-1]
+
+<sup>1</sup> Ist ein physisches Zusammentreten nicht möglich, so kann das Büro eines Rates beschliessen, einzelne Ratssitzungen virtuell durchzuführen. Anderslautende Beschlüsse des Rates bleiben vorbehalten.
+
+<sup>2</sup> Die virtuelle Durchführung von Wahlen und geheimen Beratungen nach Artikel 4 Absatz 2 ist ausgeschlossen.
+
+<sup>3</sup> Abstimmungen werden nicht wiederholt, wenn Ratsmitglieder ihre Stimme aus technischen Gründen nicht abgeben konnten.
+
+<sup>4</sup> Das Büro legt unter Vorbehalt anderer Beschlüsse des Rates fest, welche Sitzungen mit welchen Traktanden virtuell durchzuführen sind. Es kann zeitlich befristete organisatorische Vorkehrungen beschliessen, die vom Geschäftsreglement des jeweiligen Rates abweichen.
+
+[^32a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 2. März 2026 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2026 78](https://fedlex.data.admin.ch/eli/oc/2026/78); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 33
 
