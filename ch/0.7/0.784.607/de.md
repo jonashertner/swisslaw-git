@@ -3,11 +3,11 @@ sr: "0.784.607"
 title: Übereinkommen vom 3. September 1976 über die Internationale Organisation für mobile Satellitenkommunikation (mit Anhang und Betriebsvereinbarung samt Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926"
 language: de
-version: 2023-03-23
+version: 2026-03-03
 adopted: 1976-09-03
 in_force: 1989-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20230323/de/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20230323-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20230323/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20260303/de/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20260303-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20260303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1989** 1926[^t-1]
 
 Abgeschlossen in London am 3. September 1976 Von der Bundesversammlung genehmigt am 16. Dezember 1988[^t-2] Schweizerische Beitrittsurkunde hinterlegt am 17. Mai 1989 In Kraft getreten für die Schweiz am 17. Mai 1989
 
-(Stand am 23. März 2023)
+(Stand am 3. März 2026)
 
 [^t-1]: Das Übereink., sein Anhang und die Betriebsvereinbarung wurden bereinigt gemäss Änd. der Inmarsat-Versammlung vom 16. Okt. 1985, 19. Jan. 1989 ([AS 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)), 9. Dez. 1994 ([AS 2007 3949](https://fedlex.data.admin.ch/eli/oc/2007/526)) und 24. April 1998, für die Schweiz in Kraft seit 31. Juli 2001 ([AS 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
 [^t-2]: [AS 1989 1925](https://fedlex.data.admin.ch/eli/oc/1989/1925_1925_1925)
@@ -670,7 +670,7 @@ f) Tritt eine neue Vertragspartei in die Organisation ein oder tritt eine Vertra
 
 g) Die nach Artikel V Absatz 8 der Betriebsvereinbarung festgelegten Investitionsanteile von 0,05 Prozent werden nicht nach den Buchstaben c, d, e und f dieses Anhangs erhöht.
 
-Geltungsbereich am 23. März 2023[^t-3]
+Geltungsbereich am 3. März 2026[^t-3]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -683,6 +683,7 @@ Geltungsbereich am 23. März 2023[^t-3]
 <tr><td colspan="2">Bahamas</td><td>12. Mai</td><td>1994 B</td><td>12. Mai</td><td>1994</td></tr>
 <tr><td colspan="2">Bahrain</td><td>8. Januar</td><td>1986 B</td><td>8. Januar</td><td>1986</td></tr>
 <tr><td colspan="2">Bangladesch</td><td>17. September</td><td>1993 B</td><td>17. September</td><td>1993</td></tr>
+<tr><td colspan="2">Barbados</td><td>8. März</td><td>2023 B</td><td>8. März</td><td>2023</td></tr>
 <tr><td colspan="2">Belarus</td><td>29. März</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Belgien</td><td>14. Juli</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Bolivien</td><td>9. März</td><td>2018 B</td><td>9. März</td><td>2018</td></tr>
@@ -705,6 +706,7 @@ Geltungsbereich am 23. März 2023[^t-3]
 <tr><td colspan="2">Georgien</td><td>12. Januar</td><td>2015 B</td><td>12. Januar</td><td>2015</td></tr>
 <tr><td colspan="2">Ghana</td><td>11. Juli</td><td>1995 B</td><td>11. Juli</td><td>1995</td></tr>
 <tr><td colspan="2">Griechenland</td><td>13. Juli</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
+<tr><td colspan="2">Haiti</td><td>28. November</td><td>2025 B</td><td>28. November</td><td>2025</td></tr>
 <tr><td colspan="2">Honduras</td><td>16. November</td><td>2016 B</td><td>16. November</td><td>2016</td></tr>
 <tr><td colspan="2">Indien</td><td>6. Juni</td><td>1978</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Indonesien\*</td><td>9. Oktober</td><td>1986 B</td><td>9. Oktober</td><td>1986</td></tr>
@@ -732,6 +734,7 @@ Geltungsbereich am 23. März 2023[^t-3]
 <tr><td colspan="2">Liberia</td><td>14. November</td><td>1980</td><td>14. November</td><td>1980</td></tr>
 <tr><td colspan="2">Libyen</td><td>29. Januar</td><td>1999 B</td><td>29. Januar</td><td>1999</td></tr>
 <tr><td colspan="2">Malaysia</td><td>12. Juni</td><td>1986 B</td><td>12. Juni</td><td>1986</td></tr>
+<tr><td colspan="2">Malediven</td><td>20. Juli</td><td>2023 B</td><td>20. Juli</td><td>2023</td></tr>
 <tr><td colspan="2">Malta</td><td>11. Januar</td><td>1991 B</td><td>11. Januar</td><td>1991</td></tr>
 <tr><td colspan="2">Marokko</td><td>4. August</td><td>1999 B</td><td>4. August</td><td>1999</td></tr>
 <tr><td colspan="2">Marshallinseln</td><td>12. Mai</td><td>1997 B</td><td>12. Mai</td><td>1997</td></tr>
@@ -767,6 +770,7 @@ Geltungsbereich am 23. März 2023[^t-3]
 <tr><td colspan="2">Serbien</td><td>19. Februar</td><td>2002 N</td><td>27. April</td><td>1992</td></tr>
 <tr><td colspan="2">Singapur</td><td>29. Juni</td><td>1979 U</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Slowakei</td><td>20. Juli</td><td>1993 B</td><td>20. Juli</td><td>1993</td></tr>
+<tr><td colspan="2">Somalia</td><td>27. November</td><td>2025 B</td><td>27. November</td><td>2025</td></tr>
 <tr><td colspan="2">Spanien</td><td>5. September</td><td>1978</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Sri Lanka</td><td>15. Dezember</td><td>1981 B</td><td>15. Dezember</td><td>1981</td></tr>
 <tr><td colspan="2">Südafrika</td><td>3. März</td><td>1994 B</td><td>3. März</td><td>1994</td></tr>
@@ -776,6 +780,7 @@ Geltungsbereich am 23. März 2023[^t-3]
 <tr><td colspan="2">Tschechische Republik</td><td>31. Dezember</td><td>1992 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td colspan="2">Tunesien</td><td>9. Mai</td><td>1983 B</td><td>9. Mai</td><td>1983</td></tr>
 <tr><td colspan="2">Türkei</td><td>16. November</td><td>1989</td><td>16. November</td><td>1989</td></tr>
+<tr><td colspan="2">Tuvalu</td><td>8. August</td><td>2023 B</td><td>8. August</td><td>2023</td></tr>
 <tr><td colspan="2">Ukraine</td><td>29. März</td><td>1979</td><td>16. Juli</td><td>1979</td></tr>
 <tr><td colspan="2">Ungarn</td><td>24. Juli</td><td>1997 B</td><td>24. Juli</td><td>1997</td></tr>
 <tr><td colspan="2">Uruguay</td><td>16. September</td><td>2022 B</td><td>16. September</td><td>2022</td></tr>
@@ -787,8 +792,8 @@ Geltungsbereich am 23. März 2023[^t-3]
 <tr><td colspan="2">Bermudas</td><td>22. August</td><td>1979</td><td>22. August</td><td>1979</td></tr>
 <tr><td colspan="2">Vietnam</td><td>15. April</td><td>1998 B</td><td>15. April</td><td>1998</td></tr>
 <tr><td colspan="2">Zypern</td><td>8. Juni</td><td>1992 B</td><td>8. Juni</td><td>1992</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): http://www.imo.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [http://www.imo.org/](http://www.imo.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="6"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
+[^t-3]: [AS 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156); [2026 109](https://fedlex.data.admin.ch/eli/oc/2026/109). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -3,11 +3,11 @@ sr: "0.784.607"
 title: "Convention du 3 septembre 1976 portant création de l'Organisation internationale de télécommunications mobiles par satellites (avec ac. d'exploitation et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926"
 language: fr
-version: 2023-03-23
+version: 2026-03-03
 adopted: 1976-09-03
 in_force: 1989-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20230323/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20230323-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20230323/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20260303/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20260303-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20260303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 17 mai 1989
 
 Entrée en vigueur pour la Suisse le 17 mai 1989
 
-(État le 23 mars 2023)
+(État le 3 mars 2026)
 
 [^t-1]: La présente Conv., ainsi que son annexe et son accord d’exploitation, a été mise à jour selon les Amendements de l’Assemblée d’Inmarsat du 16 oct. 1985, du 19 janv. 1989 ([RO 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)), du 9 déc. 1994 ([RO 2007 3949](https://fedlex.data.admin.ch/eli/oc/2007/526)) et du 24 avril 1998, en vigueur depuis le 31 juil. 2001 ([RO 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
 [^t-2]: Art. 1 al. 1 de l’AF du 16 déc. 1988 ([RO 1989 1925](https://fedlex.data.admin.ch/eli/oc/1989/1925_1925_1925))
@@ -39,17 +39,17 @@ considérant les dispositions pertinentes du Traité sur les principes régissan
 
 résolus à cet effet, à continuer à fournir pour le bien des utilisateurs de télécommunications de tous les pays, en recourant à la technique de télécommunications spatiales la plus avancée et la plus appropriée, les moyens les plus efficaces et les plus économiques dans toute la mesure compatible avec l’utilisation la plus efficace et la plus équitable de spectre des fréquences radioélectriques et des orbites de satellites,
 
-reconnaissant que l’Organisation internationale de télécommunications mobiles par satellites a, conformément à son objectif d’origine, créé un système mondial de communications mobiles par satellite pour les communications maritimes, notamment des moyens permettant les communications de détresse et de sécurité, qui sont spécifiées dans la Convention internationale de 1974[^ingress-2] pour la sauvegarde de la vie humaine en mer, avec ses modifications, et dans le Règlement des radiocommunications[^ingress-3] tel que stipulé dans la Constitution[^ingress-4] et la Convention de l’Union internationale des télécommunications[^ingress-5], avec ses modifications, comme répondant à certaines exigences de radiocommunications du Système mondial de détresse et de sécurité en mer (SMDSM);
+reconnaissant que l’Organisation internationale de télécommunications mobiles par satellites a, conformément à son objectif d’origine, créé un système mondial de communications mobiles par satellite pour les communications maritimes, notamment des moyens permettant les communications de détresse et de sécurité, qui sont spécifiées dans la Convention internationale de 1974[^ingress-2] pour la sauvegarde de la vie humaine en mer, avec ses modifications, et dans le Règlement des radiocommunications[^ingress-3] tel que stipulé dans la Constitution[^ingress-4] et la Convention de l’Union internationale des télécommunications[^ingress-5], avec ses modifications, comme répondant à certaines exigences de radiocommunications du Système mondial de détresse et de sécurité en mer (SMDSM),
 
-rappelant que l’Organisation avait élargi son objectif d’origine en mettant en place des communications aéronautiques et mobiles terrestres, ainsi que des communications aéronautiques par satellites pour la gestion du trafic aérien et du contrôle opérationnel des aéronefs (services de sécurité aéronautique), et qu’elle met en place également des services de radiorepérage;
+rappelant que l’Organisation avait élargi son objectif d’origine en mettant en place des communications aéronautiques et mobiles terrestres, ainsi que des communications aéronautiques par satellites pour la gestion du trafic aérien et du contrôle opérationnel des aéronefs (services de sécurité aéronautique), et qu’elle met en place également des services de radiorepérage,
 
-reconnaissant que l’augmentation de la concurrence sur le marché des services de communications mobiles par satellite a rendu nécessaire que le système à satellites d’Inmarsat fonctionne par l’intermédiaire de la Société telle que définie à l’art. 1 afin de pouvoir rester viable du point de vue commercial et assurer ainsi, comme principe de base, la continuité des services de communications maritimes par satellite de détresse et de sécurité pour le Système mondial de détresse et de sécurité en mer (SMDSM);
+reconnaissant que l’augmentation de la concurrence sur le marché des services de communications mobiles par satellite a rendu nécessaire que le système à satellites d’Inmarsat fonctionne par l’intermédiaire de la Société telle que définie à l’art. 1 afin de pouvoir rester viable du point de vue commercial et assurer ainsi, comme principe de base, la continuité des services de communications maritimes par satellite de détresse et de sécurité pour le Système mondial de détresse et de sécurité en mer (SMDSM),
 
-ayant l’intention que la Société observe certains autres principes de base, notamment de ne pas effectuer de discrimination sur la base de la nationalité, de mener des activités orientées exclusivement vers des objectifs pacifiques, de viser à desservir toutes les régions où il existe un besoin de communications mobiles par satellite, et de garantir le principe de concurrence loyale;
+ayant l’intention que la Société observe certains autres principes de base, notamment de ne pas effectuer de discrimination sur la base de la nationalité, de mener des activités orientées exclusivement vers des objectifs pacifiques, de viser à desservir toutes les régions où il existe un besoin de communications mobiles par satellite, et de garantir le principe de concurrence loyale,
 
-notant que la Société fonctionnera selon des principes financiers et économiques sains, compte tenu des principes commerciaux généralement reconnus;
+notant que la Société fonctionnera selon des principes financiers et économiques sains, compte tenu des principes commerciaux généralement reconnus,
 
-affirmant qu’un contrôle intergouvernemental est nécessaire pour assurer que la Société remplit les obligations de prestataire de services pour le Système mondial de détresse et de sécurité en mer (SMDSM) et respecte les autres principes de base;
+affirmant qu’un contrôle intergouvernemental est nécessaire pour assurer que la Société remplit les obligations de prestataire de services pour le Système mondial de détresse et de sécurité en mer (SMDSM) et respecte les autres principes de base,
 
 sont convenus de ce qui suit:
 
@@ -676,7 +676,7 @@ f) Lorsqu’une nouvelle Partie devient Membre de l’Organisation ou lorsqu’u
 
 g) Les parts d’investissement de 0,05 % déterminées conformément au par. 8) de l’art. V de l’Accord d’exploitation ne sont pas relevées en application des par. c), d), e) et f) de la présente Annexe.
 
-Champ d’application le 23 mars 2023[^t-3]
+Champ d’application le 3 mars 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -691,6 +691,7 @@ Champ d’application le 23 mars 2023[^t-3]
 <tr><td>Bahamas</td><td>12 mai</td><td>1994 A</td><td>12 mai</td><td>1994</td></tr>
 <tr><td>Bahreïn</td><td>8 janvier</td><td>1986 A</td><td>8 janvier</td><td>1986</td></tr>
 <tr><td>Bangladesh</td><td>17 septembre</td><td>1993 A</td><td>17 septembre</td><td>1993</td></tr>
+<tr><td>Barbade</td><td>8 mars</td><td>2023 A</td><td>8 mars</td><td>2023</td></tr>
 <tr><td>Bélarus</td><td>29 mars</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Belgique</td><td>14 juillet</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Bolivie</td><td>9 mars</td><td>2018 A</td><td>9 mars</td><td>2018</td></tr>
@@ -724,6 +725,7 @@ Champ d’application le 23 mars 2023[^t-3]
 <tr><td>Géorgie</td><td>12 janvier</td><td>2015 A</td><td>12 janvier</td><td>2015</td></tr>
 <tr><td>Ghana</td><td>11 juillet</td><td>1995 A</td><td>11 juillet</td><td>1995</td></tr>
 <tr><td>Grèce</td><td>13 juillet</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
+<tr><td>Haïti</td><td>28 novembre</td><td>2025 A</td><td>28 novembre</td><td>2025</td></tr>
 <tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 novembre</td><td>2016</td></tr>
 <tr><td>Hongrie</td><td>24 juillet</td><td>1997 A</td><td>24 juillet</td><td>1997</td></tr>
 <tr><td>Îles Cook</td><td>31 octobre</td><td>2007 A</td><td>31 octobre</td><td>2007</td></tr>
@@ -745,6 +747,7 @@ Champ d’application le 23 mars 2023[^t-3]
 <tr><td>Libéria</td><td>14 novembre</td><td>1980</td><td>14 novembre</td><td>1980</td></tr>
 <tr><td>Libye</td><td>29 janvier</td><td>1999 A</td><td>29 janvier</td><td>1999</td></tr>
 <tr><td>Malaisie</td><td>12 juin</td><td>1986 A</td><td>12 juin</td><td>1986</td></tr>
+<tr><td>Maldives</td><td>20 juillet</td><td>2023 A</td><td>20 juillet</td><td>2023</td></tr>
 <tr><td>Malte</td><td>11 janvier</td><td>1991 A</td><td>11 janvier</td><td>1991</td></tr>
 <tr><td>Maroc</td><td>4 août</td><td>1999 A</td><td>4 août</td><td>1999</td></tr>
 <tr><td>Maurice</td><td>7 décembre</td><td>1992 A</td><td>7 décembre</td><td>1992</td></tr>
@@ -779,6 +782,7 @@ Champ d’application le 23 mars 2023[^t-3]
 <tr><td>Serbie</td><td>19 février</td><td>2002 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Singapour</td><td>29 juin</td><td>1979 Si</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Slovaquie</td><td>20 juillet</td><td>1993 A</td><td>20 juillet</td><td>1993</td></tr>
+<tr><td>Somalie</td><td>27 novembre</td><td>2025 A</td><td>27 novembre</td><td>2025</td></tr>
 <tr><td>Sri Lanka</td><td>15 décembre</td><td>1981 A</td><td>15 décembre</td><td>1981</td></tr>
 <tr><td>Suède</td><td>19 juin</td><td>1979 Si</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Suisse</td><td>17 mai</td><td>1989 A</td><td>17 mai</td><td>1989</td></tr>
@@ -787,13 +791,14 @@ Champ d’application le 23 mars 2023[^t-3]
 <tr><td>Tonga</td><td>18 septembre</td><td>2003 A</td><td>18 septembre</td><td>2003</td></tr>
 <tr><td>Tunisie</td><td>9 mai</td><td>1983 A</td><td>9 mai</td><td>1983</td></tr>
 <tr><td>Turquie</td><td>16 novembre</td><td>1989</td><td>16 novembre</td><td>1989</td></tr>
+<tr><td>Tuvalu</td><td>8 août</td><td>2023 A</td><td>8 août</td><td>2023</td></tr>
 <tr><td>Ukraine</td><td>29 mars</td><td>1979</td><td>16 juillet</td><td>1979</td></tr>
 <tr><td>Uruguay</td><td>16 septembre</td><td>2022 A</td><td>16 septembre</td><td>2022</td></tr>
 <tr><td>Vanuatu</td><td>20 août</td><td>2008</td><td>20 août</td><td>2008</td></tr>
 <tr><td>Venezuela</td><td>27 avril</td><td>2005 A</td><td>27 avril</td><td>2005</td></tr>
 <tr><td>Vietnam</td><td>15 avril</td><td>1998 A</td><td>15 avril</td><td>1998</td></tr>
 <tr><td>Yémen</td><td>24 janvier</td><td>2011 A</td><td>24 janvier</td><td>2011</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & listes de codes, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-3]: [RO 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156); [2026 109](https://fedlex.data.admin.ch/eli/oc/2026/109). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

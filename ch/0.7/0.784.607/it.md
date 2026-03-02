@@ -3,11 +3,11 @@ sr: "0.784.607"
 title: "Convenzione del 3 settembre 1976 istitutiva dell'Organizzazione internazionale per le telecomunicazioni mobili via satellite (con Acc. operativo e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926"
 language: it
-version: 2023-03-23
+version: 2026-03-03
 adopted: 1976-09-03
 in_force: 1989-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20230323/it/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20230323-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20230323/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1926_1926_1926/20260303/it/xml/fedlex-data-admin-ch-eli-cc-1989-1926_1926_1926-20260303-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1926_1926_1926/20260303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Londra il 3 settembre 1976 Approvata dall’Assemblea federale il 16 dicembre 1988[^t-2] Strumento d’adesione depositato dalla Svizzera il 17 maggio 1989 Entrata in vigore per la Svizzera il 17 maggio 1989
 
-(Stato 23 marzo 2023)
+(Stato 3 marzo 2026)
 
 [^t-1]: La presente Conv., nonchè il suo all. e l’Acc. operativo, è stata aggiornata giusta gli emendamenti dell’Assemblea Inmarsat del 16 ott. 1985, del 19 gen. 1989 ([RU 2007 3365](https://fedlex.data.admin.ch/eli/oc/2007/411)), del 9 dic. 1994 ([RU 2007 3949](https://fedlex.data.admin.ch/eli/oc/2007/526)) e del 24 apr. 1998, in vigore dal 31 lug. 2001 ([RU 2007 3937](https://fedlex.data.admin.ch/eli/oc/2007/525)).
 [^t-2]: [RU 1989 1925](https://fedlex.data.admin.ch/eli/oc/1989/1925_1925_1925)
@@ -670,7 +670,7 @@ f) Quando una nuova Parte diviene Membro dell’Organizzazione, o quando una Par
 
 g) Le quote di investimento dello 0,05 per cento determinate conformemente al paragrafo 8) dell’articolo V dell’accordo operativo non saranno aumentate sulla base dei paragrafi c), d), e) e f) del presente allegato.
 
-Campo d’applicazione il 23 marzo 2023[^t-3]
+Campo d’applicazione il 3 marzo 2026[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -683,6 +683,7 @@ Campo d’applicazione il 23 marzo 2023[^t-3]
 <tr><td>Bahamas</td><td>12 maggio</td><td>1994 A</td><td>12 maggio</td><td>1994</td></tr>
 <tr><td>Bahrein</td><td>8 gennaio</td><td>1986 A</td><td>8 gennaio</td><td>1986</td></tr>
 <tr><td>Bangladesh</td><td>17 settembre</td><td>1993 A</td><td>17 settembre</td><td>1993</td></tr>
+<tr><td>Barbados</td><td>8 marzo</td><td>2023 A</td><td>8 marzo</td><td>2023</td></tr>
 <tr><td>Belarus</td><td>29 marzo</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Belgio</td><td>14 luglio</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Bolivia</td><td>9 marzo</td><td>2018 A</td><td>9 marzo</td><td>2018</td></tr>
@@ -720,22 +721,24 @@ Campo d’applicazione il 23 marzo 2023[^t-3]
 <tr><td>Giappone</td><td>25 novembre</td><td>1977</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Giordania</td><td>18 novembre</td><td>2014 A</td><td>18 novembre</td><td>2014</td></tr>
 <tr><td>Grecia</td><td>13 luglio</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
+<tr><td>Haiti</td><td>28 novembre</td><td>2025 A</td><td>28 novembre</td><td>2025</td></tr>
+<tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 novembre</td><td>2016</td></tr>
 <tr><td>India</td><td>6 giugno</td><td>1978</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Indonesia<sup>\*</sup></td><td>9 ottobre</td><td>1986 A</td><td>9 ottobre</td><td>1986</td></tr>
 <tr><td>Iran</td><td>12 ottobre</td><td>1984 A</td><td>12 ottobre</td><td>1984</td></tr>
 <tr><td>Iraq</td><td>21 luglio</td><td>1980</td><td>21 luglio</td><td>1980</td></tr>
 <tr><td>Islanda</td><td>26 marzo</td><td>1991 A</td><td>26 marzo</td><td>1991</td></tr>
+<tr><td>Isole Salomone</td><td>20 novembre</td><td>2020 A</td><td>20 novembre</td><td>2020</td></tr>
 <tr><td>Israele</td><td>13 ottobre</td><td>1987 A</td><td>13 ottobre</td><td>1987</td></tr>
 <tr><td>Italia</td><td>10 luglio</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Kenya</td><td>21 luglio</td><td>1998 A</td><td>21 luglio</td><td>1998</td></tr>
-<tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 novembre</td><td>2016</td></tr>
-<tr><td>Isole Salomone</td><td>20 novembre</td><td>2020 A</td><td>20 novembre</td><td>2020</td></tr>
 <tr><td>Kuwait</td><td>25 febbraio</td><td>1977</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Lettonia</td><td>22 marzo</td><td>1995 A</td><td>22 marzo</td><td>1995</td></tr>
 <tr><td>Libano</td><td>29 dicembre</td><td>1994 A</td><td>29 dicembre</td><td>1994</td></tr>
 <tr><td>Liberia</td><td>14 novembre</td><td>1980</td><td>14 novembre</td><td>1980</td></tr>
 <tr><td>Libia</td><td>29 gennaio</td><td>1999 A</td><td>29 gennaio</td><td>1999</td></tr>
 <tr><td>Malaysia</td><td>12 giugno</td><td>1986 A</td><td>12 giugno</td><td>1986</td></tr>
+<tr><td>Maldive</td><td>20 luglio</td><td>2023 A</td><td>20 luglio</td><td>2023</td></tr>
 <tr><td>Malta</td><td>11 gennaio</td><td>1991 A</td><td>11 gennaio</td><td>1991</td></tr>
 <tr><td>Marocco</td><td>4 agosto</td><td>1999 A</td><td>4 agosto</td><td>1999</td></tr>
 <tr><td>Marshall, Isole</td><td>12 maggio</td><td>1997 A</td><td>12 maggio</td><td>1997</td></tr>
@@ -769,6 +772,7 @@ Campo d’applicazione il 23 marzo 2023[^t-3]
 <tr><td>Serbia</td><td>19 febbraio</td><td>2002 S</td><td>27 aprile</td><td>1992</td></tr>
 <tr><td>Singapore</td><td>29 giugno</td><td>1979 F</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Slovacchia</td><td>20 luglio</td><td>1993 A</td><td>20 luglio</td><td>1993</td></tr>
+<tr><td>Somalia</td><td>27 novembre</td><td>2025 A</td><td>27 novembre</td><td>2025</td></tr>
 <tr><td>Spagna</td><td>5 settembre</td><td>1978</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Sri Lanka</td><td>15 dicembre</td><td>1981 A</td><td>15 dicembre</td><td>1981</td></tr>
 <tr><td>Stati Uniti</td><td>15 febbraio</td><td>1979 F</td><td>16 luglio</td><td>1979</td></tr>
@@ -780,6 +784,7 @@ Campo d’applicazione il 23 marzo 2023[^t-3]
 <tr><td>Tonga</td><td>18 settembre</td><td>2003 A</td><td>18 settembre</td><td>2003</td></tr>
 <tr><td>Tunisia</td><td>9 maggio</td><td>1983 A</td><td>9 maggio</td><td>1983</td></tr>
 <tr><td>Turchia</td><td>16 novembre</td><td>1989</td><td>16 novembre</td><td>1989</td></tr>
+<tr><td>Tuvalu</td><td>8 agosto</td><td>2023 A</td><td>8 agosto</td><td>2023</td></tr>
 <tr><td>Ucraina</td><td>29 marzo</td><td>1979</td><td>16 luglio</td><td>1979</td></tr>
 <tr><td>Ungheria</td><td>24 luglio</td><td>1997 A</td><td>24 luglio</td><td>1997</td></tr>
 <tr><td>Uruguay</td><td>16 settembre</td><td>2022 A</td><td>16 settembre</td><td>2022</td></tr>
@@ -791,4 +796,4 @@ Campo d’applicazione il 23 marzo 2023[^t-3]
 <tr><td colspan="5"><sup>a</sup> Applicabile al Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
+[^t-3]: [RU 1989 1926](https://fedlex.data.admin.ch/eli/oc/1989/1926_1926_1926); [1990 1940](https://fedlex.data.admin.ch/eli/oc/1990/1940_1940_1940); [2003 372](https://fedlex.data.admin.ch/eli/oc/2003/77); [2007 4463](https://fedlex.data.admin.ch/eli/oc/2007/626); [2013 1597](https://fedlex.data.admin.ch/eli/oc/2013/372); [2015 181](https://fedlex.data.admin.ch/eli/oc/2015/21); [2017 3731](https://fedlex.data.admin.ch/eli/oc/2017/434); [2023 156](https://fedlex.data.admin.ch/eli/oc/2023/156); [2026 109](https://fedlex.data.admin.ch/eli/oc/2026/109). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
