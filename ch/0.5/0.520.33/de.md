@@ -3,11 +3,11 @@ sr: "0.520.33"
 title: Zweites Protokoll vom 26. März 1999 zum Haager Abkommen von 1954 für den Schutz von Kulturgut bei bewaffneten Konflikten
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/29"
 language: de
-version: 2024-07-11
+version: 2026-03-03
 adopted: 1999-03-26
 in_force: 2004-10-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20240711/de/xml/fedlex-data-admin-ch-eli-cc-2005-29-20240711-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20240711/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20260303/de/xml/fedlex-data-admin-ch-eli-cc-2005-29-20260303-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20260303/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,10 +20,10 @@ AS **2005** 149; BBl **2003** 6091[^t-1]
 
 Abgeschlossen in Den Haag am 26. März 1999 Von der Bundesversammlung genehmigt am 19. März 2004[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 9. Juli 2004 In Kraft getreten für die Schweiz am 9. Oktober 2004
 
-(Stand am 11. Juli 2024)
+(Stand am 3. März 2026)
 
 [^t-1]: Titel für Deutschland: «Zweites Protokoll zur Haager Konvention von 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten».
-[^t-2]: Die französische Originalfassung des Zweiten Protokolls enthielt beim Abschluss sprachliche Abweichungen von der englischen Originalfassung. Um die sprachliche Übereinstimmung wiederherzustellen hat der Ausschuss für den Schutz von Kulturgut bei bewaffneten Konflikten Korrekturen angenommen, die am 7. September 2017 wirksam geworden sind (AS 2024 382).
+[^t-2]: Die französische Originalfassung des Zweiten Protokolls enthielt beim Abschluss sprachliche Abweichungen von der englischen Originalfassung. Um die sprachliche Übereinstimmung wiederherzustellen hat der Ausschuss für den Schutz von Kulturgut bei bewaffneten Konflikten Korrekturen angenommen, die am 7. September 2017 wirksam geworden sind ([AS 2024 382](https://fedlex.data.admin.ch/eli/oc/2024/382)).
 [^t-3]: [AS 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
 
 Die Vertragsparteien,
@@ -40,7 +40,7 @@ in Bekräftigung des Grundsatzes, dass die Sätze des Völkergewohnheitsrechts w
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.520.3](https://fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045)
+[^ingress-1]: [SR 0.520.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1975)
 
 ## Kapitel 1: Einleitung
 
@@ -468,7 +468,7 @@ Die militärischen oder zivilen Dienststellen, die in Zeiten eines bewaffneten K
 
 Die Vertragsparteien verpflichten sich, im Fall schwerer Verstösse gegen dieses Protokoll gemeinsam durch den Ausschuss oder einzeln in Zusammenarbeit mit der UNESCO und den Vereinten Nationen und im Einklang mit der Charta der Vereinten Nationen[^31-1] zu handeln.
 
-[^31-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^31-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 32
 
@@ -598,7 +598,7 @@ Dieses Protokoll wird auf Ersuchen des Generaldirektors nach Artikel 102 der Cha
 
 *Zu Urkund dessen* haben die gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Den Haag am 26. März 1999 in einer Urschrift, die im Archiv der UNESCO hinterlegt wird; beglaubigte Abschriften werden allen Hohen Vertragsparteien übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 11. Juli 2024[^t-4]
+Geltungsbereich am 3. März 2026[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -633,6 +633,7 @@ Geltungsbereich am 11. Juli 2024[^t-4]
 <tr><td>Georgien</td><td>13. September</td><td>2010 B</td><td>13. Dezember</td><td>2010</td></tr>
 <tr><td>Griechenland</td><td>20. April</td><td>2005</td><td>20. Juli</td><td>2005</td></tr>
 <tr><td>Guatemala</td><td>4. Februar</td><td>2005 B</td><td>4. Mai</td><td>2005</td></tr>
+<tr><td>Haiti</td><td>19. Mai</td><td>2025 B</td><td>19. August</td><td>2025</td></tr>
 <tr><td>Honduras</td><td>26. Januar</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
 <tr><td>Irak</td><td>6. April</td><td>2022 B</td><td>6. Juli</td><td>2022</td></tr>
 <tr><td>Iran\*</td><td>24. Mai</td><td>2005 B</td><td>24. August</td><td>2005</td></tr>
@@ -645,6 +646,7 @@ Geltungsbereich am 11. Juli 2024[^t-4]
 <tr><td>Kanada</td><td>29. November</td><td>2005 B</td><td>28. Februar</td><td>2006</td></tr>
 <tr><td>Katar</td><td>4. September</td><td>2000</td><td>9. März</td><td>2004</td></tr>
 <tr><td>Kolumbien</td><td>24. November</td><td>2010</td><td>24. Februar</td><td>2011</td></tr>
+<tr><td>Kongo (Kinshasa)<sup>b</sup></td><td>28. August</td><td>2024</td><td>28. August</td><td>2024</td></tr>
 <tr><td>Kroatien</td><td>8. Februar</td><td>2006</td><td>8. Mai</td><td>2006</td></tr>
 <tr><td>Libanon</td><td>8. Oktober</td><td>2020 B</td><td>8. Januar</td><td>2021</td></tr>
 <tr><td>Libyen</td><td>20. Juli</td><td>2001 B</td><td>9. März</td><td>2004</td></tr>
@@ -653,9 +655,11 @@ Geltungsbereich am 11. Juli 2024[^t-4]
 <tr><td>Luxemburg</td><td>30. Juni</td><td>2005</td><td>30. September</td><td>2005</td></tr>
 <tr><td>Madagaskar</td><td>3. Juli</td><td>2018</td><td>3. Oktober</td><td>2018</td></tr>
 <tr><td>Mali <sup>b</sup></td><td>15. November</td><td>2012 B</td><td>15. November</td><td>2012</td></tr>
+<tr><td>Malta</td><td>12. Februar</td><td>2025 B</td><td>12. Mai</td><td>2025</td></tr>
 <tr><td>Marokko</td><td>5. Dezember</td><td>2013</td><td>5. März</td><td>2014</td></tr>
 <tr><td>Mauretanien</td><td>7. Juli</td><td>2023</td><td>7. Oktober</td><td>2023</td></tr>
 <tr><td>Mexiko</td><td>7. Oktober</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
+<tr><td>Moldau</td><td>16. Januar</td><td>2026 B</td><td>16. April</td><td>2026</td></tr>
 <tr><td>Montenegro</td><td>26. April</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Neuseeland <sup>c</sup></td><td>23. Oktober</td><td>2013 B</td><td>23. Januar</td><td>2014</td></tr>
 <tr><td>Nicaragua</td><td>1. Juni</td><td>2001 B</td><td>9. März</td><td>2004</td></tr>
@@ -674,6 +678,7 @@ Geltungsbereich am 11. Juli 2024[^t-4]
 <tr><td>Polen</td><td>3. Januar</td><td>2012 B</td><td>3. April</td><td>2012</td></tr>
 <tr><td>Portugal</td><td>9. April</td><td>2018 B</td><td>9. Juli</td><td>2018</td></tr>
 <tr><td>Rumänien</td><td>7. August</td><td>2006</td><td>7. November</td><td>2006</td></tr>
+<tr><td>San Marino</td><td>10. Dezember</td><td>2024 B</td><td>10. März</td><td>2025</td></tr>
 <tr><td>Saudi-Arabien</td><td>6. November</td><td>2007 B</td><td>6. Februar</td><td>2008</td></tr>
 <tr><td>Schweden</td><td>10. November</td><td>2017</td><td>10. Februar</td><td>2018</td></tr>
 <tr><td>Schweiz</td><td>9. Juli</td><td>2004</td><td>9. Oktober</td><td>2004</td></tr>
@@ -691,7 +696,7 @@ Geltungsbereich am 11. Juli 2024[^t-4]
 <tr><td>Uruguay</td><td>3. Januar</td><td>2007 B</td><td>3. April</td><td>2007</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>12. September</td><td>2017 B</td><td>12. Dezember</td><td>2017</td></tr>
 <tr><td>Zypern</td><td>16. Mai</td><td>2001</td><td>9. März</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur (UNESCO): [www.unesco.org &gt; Français &gt; Ressources &gt; Documents et publications](https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöerinseln und Grönland. <sup>b</sup> Beitritt mit sofortiger Wirkung gemäss Art. 44 des Protokolls. <sup>c</sup> Das Protokoll gilt nicht für Tokelau. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur (UNESCO): [www.u n esco.org &gt; Français &gt; Ressources &gt; Documents et publications](https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöerinseln und Grönland. <sup>b</sup> Beitritt mit sofortiger Wirkung gemäss Art. 44 des Protokolls. <sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-4]: Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29); [2024 382](https://fedlex.data.admin.ch/eli/oc/2024/382); [2026 115](https://fedlex.data.admin.ch/eli/oc/2026/115). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

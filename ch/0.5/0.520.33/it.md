@@ -3,11 +3,11 @@ sr: "0.520.33"
 title: "Secondo Protocollo del 26 marzo 1999 relativo alla Convenzione dell'Aia del 1954 per la protezione dei beni culturali in caso di conflitto armato"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/29"
 language: it
-version: 2024-07-11
+version: 2026-03-03
 adopted: 1999-03-26
 in_force: 2004-10-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20240711/it/xml/fedlex-data-admin-ch-eli-cc-2005-29-20240711-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20240711/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20260303/it/xml/fedlex-data-admin-ch-eli-cc-2005-29-20260303-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20260303/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione[^t-1]
 
 Concluso all’Aia il 26 marzo 1999 Approvato dall’Assemblea federale il 19 marzo 2004[^t-2] Strumento di ratifica depositato dalla Svizzera il 9 luglio 2004 Entrato in vigore per la Svizzera il 9 ottobre 2004
 
-(Stato 11 luglio 2024)
+(Stato 3 marzo 2026)
 
 [^t-1]: Al momento della sua conclusione, la versione originale francese del Secondo Protocollo conteneva discrepanze linguistiche con la versione originale inglese. Il Comitato per la protezione dei beni culturali in caso di conflitto armato ha adottato delle correzioni, entrate in vigore il 7 settembre 2017, per ripristinare la concordanza linguistica ([RU 2024 382](https://fedlex.data.admin.ch/eli/oc/2024/382)).
 [^t-2]: [RU 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
@@ -39,7 +39,7 @@ affermando che le regole del diritto internazionale consuetudinario continuerann
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.520.3](https://fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045)
+[^ingress-1]: [RS 0.520.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1975)
 
 ## Capitolo 1: Introduzione
 
@@ -467,7 +467,7 @@ Le autorità militari o civili che, in periodo di conflitto armato, assumono res
 
 In caso di grave violazione del presente Protocollo, le Parti s’impegnano ad agire, sia congiuntamente, per il tramite del Comitato, sia separatamente, in cooperazione con l’UNESCO e l’Organizzazione delle Nazioni Unite e conformemente allo Statuto delle Nazioni Unite[^31-1].
 
-[^31-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^31-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 32
 
@@ -595,11 +595,11 @@ Il Direttore generale informa tutte le Alte Parti contraenti e l’Organizzazion
 
 Il presente Protocollo è registrato presso il Segretariato dell’Organizzazione delle Nazioni Unite, conformemente all’articolo 102 dello Statuto delle Nazioni Unite[^47-1], su richiesta del Direttore generale.
 
-[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto all’Aia, il 26 marzo 1999, in un solo esemplare che sarà depositato nell’archivio dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, e copie del quale, certificate conformi, saranno rimesse a tutte le Alte Parti contraenti. (Seguono le firme)
 
-Campo d’applicazione l’11 luglio 2024[^t-3]
+Campo d’applicazione il 3 marzo 2026[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -624,9 +624,10 @@ Campo d’applicazione l’11 luglio 2024[^t-3]
 <tr><td>Cile</td><td>11 settembre</td><td>2008 A</td><td>11 dicembre</td><td>2008</td></tr>
 <tr><td>Cipro</td><td>16 maggio</td><td>2001</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Colombia</td><td>24 novembre</td><td>2010</td><td>24 febbraio</td><td>2011</td></tr>
+<tr><td>Congo (Kinshasa) <sup>a</sup></td><td>28 agosto</td><td>2024</td><td>28 agosto</td><td>2024</td></tr>
 <tr><td>Costa Rica</td><td>9 dicembre</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Croazia</td><td>8 febbraio</td><td>2006</td><td>8 maggio</td><td>2006</td></tr>
-<tr><td>Danimarca <sup>a</sup></td><td>5 settembre</td><td>2018 A</td><td>5 dicembre</td><td>2018</td></tr>
+<tr><td>Danimarca <sup>b</sup></td><td>5 settembre</td><td>2018 A</td><td>5 dicembre</td><td>2018</td></tr>
 <tr><td>Ecuador</td><td>2 agosto</td><td>2004</td><td>2 novembre</td><td>2004</td></tr>
 <tr><td>Egitto</td><td>3 agosto</td><td>2005</td><td>3 novembre</td><td>2005</td></tr>
 <tr><td>El Salvador</td><td>27 marzo</td><td>2002 A</td><td>9 marzo</td><td>2004</td></tr>
@@ -642,6 +643,7 @@ Campo d’applicazione l’11 luglio 2024[^t-3]
 <tr><td>Grecia</td><td>20 aprile</td><td>2005</td><td>20 luglio</td><td>2005</td></tr>
 <tr><td>Guatemala</td><td>4 febbraio</td><td>2005 A</td><td>4 maggio</td><td>2005</td></tr>
 <tr><td>Guinea equatoriale</td><td>19 novembre</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
+<tr><td>Haiti</td><td>19 maggio</td><td>2025 A</td><td>19 agosto</td><td>2025</td></tr>
 <tr><td>Honduras</td><td>26 gennaio</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Iran\*</td><td>24 maggio</td><td>2005 A</td><td>24 agosto</td><td>2005</td></tr>
 <tr><td>Iraq</td><td>6 aprile</td><td>2022 A</td><td>6 luglio</td><td>2022</td></tr>
@@ -654,10 +656,12 @@ Campo d’applicazione l’11 luglio 2024[^t-3]
 <tr><td>Lussemburgo</td><td>30 giugno</td><td>2005</td><td>30 settembre</td><td>2005</td></tr>
 <tr><td>Macedonia del Nord</td><td>19 aprile</td><td>2002</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Madagascar</td><td>3 luglio</td><td>2018</td><td>3 ottobre</td><td>2018</td></tr>
-<tr><td>Mali <sup>b</sup></td><td>15 novembre</td><td>2012 A</td><td>15 novembre</td><td>2012</td></tr>
+<tr><td>Mali <sup>a</sup></td><td>15 novembre</td><td>2012 A</td><td>15 novembre</td><td>2012</td></tr>
+<tr><td>Malta</td><td>12 febbraio</td><td>2025 A</td><td>12 maggio</td><td>2025</td></tr>
 <tr><td>Marocco</td><td>5 dicembre</td><td>2013</td><td>5 marzo</td><td>2014</td></tr>
 <tr><td>Mauritania</td><td>7 luglio</td><td>2023</td><td>7 ottobre</td><td>2023</td></tr>
 <tr><td>Messico</td><td>7 ottobre</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
+<tr><td>Moldova</td><td>16 gennaio</td><td>2026 A</td><td>16 aprile</td><td>2026</td></tr>
 <tr><td>Montenegro</td><td>26 aprile</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Nicaragua</td><td>1° giugno</td><td>2001 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Niger</td><td>16 giugno</td><td>2006 A</td><td>16 settembre</td><td>2006</td></tr>
@@ -678,6 +682,7 @@ Campo d’applicazione l’11 luglio 2024[^t-3]
 <tr><td>Repubblica Ceca</td><td>8 giugno</td><td>2007 A</td><td>8 settembre</td><td>2007</td></tr>
 <tr><td>Repubblica Dominicana</td><td>3 marzo</td><td>2009 A</td><td>3 giugno</td><td>2009</td></tr>
 <tr><td>Romania</td><td>7 agosto</td><td>2006</td><td>7 novembre</td><td>2006</td></tr>
+<tr><td>San Marino</td><td>10 dicembre</td><td>2024 A</td><td>10 marzo</td><td>2025</td></tr>
 <tr><td>Serbia</td><td>2 settembre</td><td>1999 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Slovacchia</td><td>11 febbraio</td><td>2004</td><td>11 maggio</td><td>2004</td></tr>
 <tr><td>Slovenia</td><td>13 aprile</td><td>2004 A</td><td>13 luglio</td><td>2004</td></tr>
@@ -688,11 +693,11 @@ Campo d’applicazione l’11 luglio 2024[^t-3]
 <tr><td>Tagikistan</td><td>21 febbraio</td><td>2006 A</td><td>21 maggio</td><td>2006</td></tr>
 <tr><td>Togo</td><td>24 gennaio</td><td>2017 A</td><td>24 aprile</td><td>2017</td></tr>
 <tr><td>Turkmenistan</td><td>22 gennaio</td><td>2018 A</td><td>22 aprile</td><td>2018</td></tr>
-<tr><td>Ucraina\* <sup>b</sup></td><td>30 giugno</td><td>2020 A</td><td>30 giugno</td><td>2020</td></tr>
+<tr><td>Ucraina\* <sup>a</sup></td><td>30 giugno</td><td>2020 A</td><td>30 giugno</td><td>2020</td></tr>
 <tr><td>Ungheria</td><td>26 ottobre</td><td>2005</td><td>26 gennaio</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>3 gennaio</td><td>2007 A</td><td>3 aprile</td><td>2007</td></tr>
 <tr><td>Yemen</td><td>1° giugno</td><td>2023</td><td>1° settembre</td><td>2023</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [www.unesco.org](http://www.unesco.org) &gt; Français &gt; Ressources &gt; Documents, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Protocollo non vale né per le Isole Féroé né per la Groenlandia. <sup>b</sup> Adesione con applicazione che dà effetto immediato nel senso dell’art. 44 del Protocollo. <sup>c</sup> Il Protocollo non vale per Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese e in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO) [https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535](https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535 )oppure richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Adesione con applicazione che dà effetto immediato nel senso dell’art. 44 del Protocollo. <sup>b</sup> Il Protocollo non vale né per le Isole Féroé né per la Groenlandia. <sup>c</sup> Il Protocollo non vale per Tokelau.</td></tr>
 </table>
 
-[^t-3]: Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)
+[^t-3]: [RU 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29); [2024 382](https://fedlex.data.admin.ch/eli/oc/2024/382); [2026 115](https://fedlex.data.admin.ch/eli/oc/2026/115). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)

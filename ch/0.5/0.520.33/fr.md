@@ -3,11 +3,11 @@ sr: "0.520.33"
 title: Deuxième Protocole du 26 mars 1999 relatif à la Convention de la Haye de 1954 pour la protection des biens culturels en cas de conflit armé
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/29"
 language: fr
-version: 2024-07-11
+version: 2026-03-03
 adopted: 1999-03-26
 in_force: 2004-10-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20240711/fr/xml/fedlex-data-admin-ch-eli-cc-2005-29-20240711-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20240711/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20260303/fr/xml/fedlex-data-admin-ch-eli-cc-2005-29-20260303-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20260303/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original[^t-1]
 
 Conclu à La Haye le 26 mars 1999 Approuvé par l’Assemblée fédérale le 19 mars 2004[^t-2] Instrument de ratification déposé par la Suisse le 9 juillet 2004 Entré en vigueur pour la Suisse le 9 octobre 2004
 
-(État le 11 juillet 2024)
+(État le 3 mars 2026)
 
 [^t-1]: Lors de sa conclusion, la version originale française du Deuxième Protocole contenait des divergences linguistiques par rapport à la version originale anglaise. Afin de rétablir la concordance linguistique, le Comité pour la protection des biens culturels en cas de conflit armé a adopté des corrections qui ont pris effet le 7 septembre 2017 ([RO 2024 382](https://fedlex.data.admin.ch/eli/oc/2024/382)).
 [^t-2]: [RO 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
@@ -39,7 +39,7 @@ affirmant que les règles de droit international coutumier continueront à régi
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.520.3](https://fedlex.data.admin.ch/eli/cc/1962/1007_1041_1045)
+[^ingress-1]: [RS 0.520.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1975)
 
 ## Chapitre 1 Introduction
 
@@ -467,7 +467,7 @@ Les autorités militaires ou civiles qui, en période de conflit armé, assument
 
 Dans les cas de violations graves du présent Protocole, les Parties s’engagent à agir, tant conjointement, par l’intermédiaire du Comité, que séparément, en coopération avec l’UNESCO et l’Organisation des Nations Unies et en conformité avec la Charte des Nations Unies[^31-1].
 
-[^31-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^31-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 32
 
@@ -595,11 +595,11 @@ Le Directeur général informera toutes les Hautes Parties contractantes, ainsi 
 
 Conformément à l’art. 102 de la Charte des Nations Unies[^47-1], le présent Protocole sera enregistré au Secrétariat de l’Organisation des Nations Unies à la requête du Directeur général.
 
-[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé le présent Protocole. Fait à La Haye, le 26 mars 1999, en un seul exemplaire qui sera déposé dans les archives de l’Organisation des Nations Unies pour l’éducation, la science et la culture, et dont des copies certifiées conformes seront remises à toutes les Hautes Parties contractantes. (Suivent les signatures)
 
-Champ d’application le 11 juillet 2024[^t-3]
+Champ d’application le 3 mars 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -626,9 +626,10 @@ Champ d’application le 11 juillet 2024[^t-3]
 <tr><td>Chili</td><td>11 septembre</td><td>2008 A</td><td>11 décembre</td><td>2008</td></tr>
 <tr><td>Chypre</td><td>16 mai</td><td>2001</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Colombie</td><td>24 novembre</td><td>2010</td><td>24 février</td><td>2011</td></tr>
+<tr><td>Congo (Kinshasa) <sup>a</sup></td><td>28 août</td><td>2024</td><td>28 août</td><td>2024</td></tr>
 <tr><td>Costa Rica</td><td>9 décembre</td><td>2003 A</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Croatie</td><td>8 février</td><td>2006</td><td>8 mai</td><td>2006</td></tr>
-<tr><td>Danemark <sup>a</sup></td><td>5 septembre</td><td>2018 A</td><td>5 décembre</td><td>2018</td></tr>
+<tr><td>Danemark <sup>b</sup></td><td>5 septembre</td><td>2018 A</td><td>5 décembre</td><td>2018</td></tr>
 <tr><td>Djibouti</td><td>9 avril</td><td>2018 A</td><td>9 juillet</td><td>2018</td></tr>
 <tr><td>Égypte</td><td>3 août</td><td>2005</td><td>3 novembre</td><td>2005</td></tr>
 <tr><td>El Salvador</td><td>27 mars</td><td>2002 A</td><td>9 mars</td><td>2004</td></tr>
@@ -642,6 +643,7 @@ Champ d’application le 11 juillet 2024[^t-3]
 <tr><td>Grèce</td><td>20 avril</td><td>2005</td><td>20 juillet</td><td>2005</td></tr>
 <tr><td>Guatemala</td><td>4 février</td><td>2005 A</td><td>4 mai</td><td>2005</td></tr>
 <tr><td>Guinée équatoriale</td><td>19 novembre</td><td>2003 A</td><td>9 mars</td><td>2004</td></tr>
+<tr><td>Haïti</td><td>19 mai</td><td>2025 A</td><td>19 août</td><td>2025</td></tr>
 <tr><td>Honduras</td><td>26 janvier</td><td>2003 A</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Hongrie</td><td>26 octobre</td><td>2005</td><td>26 janvier</td><td>2006</td></tr>
 <tr><td>Iran\*</td><td>24 mai</td><td>2005 A</td><td>24 août</td><td>2005</td></tr>
@@ -657,10 +659,12 @@ Champ d’application le 11 juillet 2024[^t-3]
 <tr><td>Luxembourg</td><td>30 juin</td><td>2005</td><td>30 septembre</td><td>2005</td></tr>
 <tr><td>Macédoine du Nord</td><td>19 avril</td><td>2002</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Madagascar</td><td>3 juillet</td><td>2018</td><td>3 octobre</td><td>2018</td></tr>
-<tr><td>Mali <sup>b</sup></td><td>15 novembre</td><td>2012 A</td><td>15 novembre</td><td>2012</td></tr>
+<tr><td>Mali <sup>a</sup></td><td>15 novembre</td><td>2012 A</td><td>15 novembre</td><td>2012</td></tr>
+<tr><td>Malte</td><td>12 février</td><td>2025 A</td><td>12 mai</td><td>2025</td></tr>
 <tr><td>Maroc</td><td>5 décembre</td><td>2013</td><td>5 mars</td><td>2014</td></tr>
 <tr><td>Mauritanie</td><td>7 juillet</td><td>2023</td><td>7 octobre</td><td>2023</td></tr>
 <tr><td>Mexique</td><td>7 octobre</td><td>2003 A</td><td>9 mars</td><td>2004</td></tr>
+<tr><td>Moldova</td><td>16 janvier</td><td>2026 A</td><td>16 avril</td><td>2026</td></tr>
 <tr><td>Monténégro</td><td>26 avril</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Nicaragua</td><td>1<sup>er</sup> juin</td><td>2001 A</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Niger</td><td>16 juin</td><td>2006 A</td><td>16 septembre</td><td>2006</td></tr>
@@ -681,6 +685,7 @@ Champ d’application le 11 juillet 2024[^t-3]
 <tr><td>République tchèque</td><td>8 juin</td><td>2007 A</td><td>8 septembre</td><td>2007</td></tr>
 <tr><td>Roumanie</td><td>7 août</td><td>2006</td><td>7 novembre</td><td>2006</td></tr>
 <tr><td>Royaume-Uni\*</td><td>12 septembre</td><td>2017 A</td><td>12 décembre</td><td>2017</td></tr>
+<tr><td>Saint-Marin</td><td>10 décembre</td><td>2024 A</td><td>10 mars</td><td>2025</td></tr>
 <tr><td>Serbie</td><td>2 septembre</td><td>1999 A</td><td>9 mars</td><td>2004</td></tr>
 <tr><td>Slovaquie</td><td>11 février</td><td>2004</td><td>11 mai</td><td>2004</td></tr>
 <tr><td>Slovénie</td><td>13 avril</td><td>2004 A</td><td>13 juillet</td><td>2004</td></tr>
@@ -689,10 +694,10 @@ Champ d’application le 11 juillet 2024[^t-3]
 <tr><td>Tadjikistan</td><td>21 février</td><td>2006 A</td><td>21 mai</td><td>2006</td></tr>
 <tr><td>Togo</td><td>24 janvier</td><td>2017 A</td><td>24 avril</td><td>2017</td></tr>
 <tr><td>Turkménistan</td><td>22 janvier</td><td>2018 A</td><td>22 avril</td><td>2018</td></tr>
-<tr><td>Ukraine\* <sup>b</sup></td><td>30 juin</td><td>2020 A</td><td>30 juin</td><td>2020</td></tr>
+<tr><td>Ukraine\* <sup>a</sup></td><td>30 juin</td><td>2020 A</td><td>30 juin</td><td>2020</td></tr>
 <tr><td>Uruguay</td><td>3 janvier</td><td>2007 A</td><td>3 avril</td><td>2007</td></tr>
 <tr><td>Yémen</td><td>1<sup>er</sup> juin</td><td>2023</td><td>1<sup>er</sup> septembre</td><td>2023</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO) [https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535](https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535 )ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groënland. <sup>b</sup> Adhésion avec application à effet immédiat selon art. 44 du protocole. <sup>c</sup> Le protocole ne s’applique pas à Tokélaou. [tab]</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO) [https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535](https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535 )ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Adhésion avec application à effet immédiat selon art. 44 du protocole. <sup>b</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groënland. <sup>c</sup> Le protocole ne s’applique pas à Tokélaou.</td></tr>
 </table>
 
-[^t-3]: Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-3]: [RO 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29); [2024 382](https://fedlex.data.admin.ch/eli/oc/2024/382); [2026 115](https://fedlex.data.admin.ch/eli/oc/2026/115). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
