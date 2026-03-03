@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2026-01-01
+version: 2026-03-04
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20260304/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20260304-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260304/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260101/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. Januar 2026)
+vom 27. Mai 2020 (Stand am 4. März 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1991,6 +1991,14 @@ In Ausnahmefällen darf die Tätigkeit als Lebensmittelinspektorin oder Lebensmi
 [^118h-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 [^118h-2]: Verordnung (EG) Nr. 401/2006 der Kommission vom 23. Februar 2006 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Kontrolle des Mykotoxingehalts von Lebensmitteln, ABl. L 70 vom 9.3.2006, S. 12; zuletzt geändert durch Verordnung (EU) Nr. 519/2014, ABl. L 147 vom 17.5.2014, S. 29.
 
+#### Art. 118i
+
+**Übergangsbestimmung zur Änderung vom 2. März 2026**[^118i-1]
+
+Sendungen mit Arachidonsäure-Öl aus China, die zum Zeitpunkt des Inkrafttretens der Änderung vom 2. März 2026 bereits versendet wurden, dürfen bis zum 26. April 2026 ohne amtliche Bescheinigung sowie ohne Ergebnisse von Probenahmen und Analysen eingeführt werden.
+
+[^118i-1]: Eingefügt durch Ziff. I der V des BLV vom 2. März 2026, in Kraft seit 4. März 2026 ([AS 2026 103](https://fedlex.data.admin.ch/eli/oc/2026/103)).
+
 #### Art. 119
 
 **Inkrafttreten**
@@ -2012,12 +2020,12 @@ Anhang 2[^t-1]
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 26. Aug. 2025, in Kraft seit 15. Sept. 2025 ([AS 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 2. März 2026, in Kraft seit 4. März 2026 ([AS 2026 103](https://fedlex.data.admin.ch/eli/oc/2026/103)).
 
 - 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2025/1441, ABl. L, 2025/1441, 23.07.2025.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 der Kommission vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch Durchführungsverordnung (EU) 2026/459, ABl. L, 2026/459, 25.2.2026.
 
 Anhang 3[^t-2]
 

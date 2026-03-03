@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2026-01-01
+version: 2026-03-04
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20260304/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20260304-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260304/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260101/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° gennaio 2026)
+del 27 maggio 2020 (Stato 4 marzo 2026)
 
 Il Consiglio federale svizzero,
 
@@ -1120,7 +1120,7 @@ Chi intende esercitare una delle seguenti funzioni deve disporre del diploma cor
 
 La CE ha in particolare i compiti e le competenze seguenti:
 
-- assicura le possibilità di formazione per gli esami di diploma;
+- a. assicura le possibilità di formazione per gli esami di diploma;
 - b. assiste l’USAV su richiesta, se il candidato soddisfa le condizioni condizioni per l’ammissione all’esame;
 - c. fissa gli obiettivi e i contenuti concernenti l’apprendimento delle materie di cui agli articoli 79 capoverso 2 e 89 capoverso 1;
 - d. prepara gli esami di cui agli articoli 80 e 90, fissa i compiti d’esame e conduce gli esami;
@@ -1972,15 +1972,26 @@ In casi eccezionali l’attività di ispettore delle derrate alimentari, di cont
 
 [^118g-1]
 
-**Art. 118**h[^118g-2] Disposizione transitoria della modifica del 26 novembre 2025
+[^118g-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 ago. 2025 ([RU 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
-<sup>1</sup> Per i metodi di analisi delle micotossine approvati prima del 1° gennaio 2026 continuano ad applicarsi fino al 1° gennaio 2030 le prescrizioni specifiche di cui all’allegato II punto 4.3 del regolamento (CE) n. 401/2006[^118g-3].
+#### Art. 118h
+
+**Disposizione transitoria della modifica del 26 novembre 2025**[^118h-1]
+
+<sup>1</sup> Per i metodi di analisi delle micotossine approvati prima del 1° gennaio 2026 continuano ad applicarsi fino al 1° gennaio 2030 le prescrizioni specifiche di cui all’allegato II punto 4.3 del regolamento (CE) n. 401/2006[^118h-2].
 
 <sup>2</sup> I metodi di analisi delle tossine vegetali approvati prima del 1° gennaio 2026 possono continuare ad essere utilizzati fino al 1° luglio 2029, anche se non soddisfano tutte le prescrizioni specifiche di cui all’allegato II punto 4.2 del regolamento di esecuzione (UE) 2023/2783.
 
-[^118g-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 ago. 2025 ([RU 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
-[^118g-2]: Introdotto dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
-[^118g-3]: Regolamento (CE) n. 401/2006 della Commissione, del 23 febbraio 2006, relativo ai metodi di campionamento e di analisi per il controllo ufficiale dei tenori di micotossine nei prodotti alimentari, GU L 70 del 9.3.2006, pag. 12; modificato da ultimo dal regolamento (UE) n. 519/2014, GU L 147 del 17.5.2014, pag. 29.
+[^118h-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
+[^118h-2]: Regolamento (CE) n. 401/2006 della Commissione, del 23 febbraio 2006, relativo ai metodi di campionamento e di analisi per il controllo ufficiale dei tenori di micotossine nei prodotti alimentari, GU L 70 del 9.3.2006, pag. 12; modificato da ultimo dal regolamento (UE) n. 519/2014, GU L 147 del 17.5.2014, pag. 29.
+
+#### Art. 118i
+
+**Disposizione transitoria della modifica del 2 marzo 2026**[^118i-1]
+
+Le partite contenenti olio di acido arachidonico provenienti dalla Cina già inviate al momento dell’entrata in vigore della modifica del 2 marzo 2026 possono essere importate fino al 26 aprile 2026 senza certificazione ufficiale e senza i risultati delle campionature e delle analisi.
+
+[^118i-1]: Introdotto dalla cifra I dell’O dell’USAV del 2 mar. 2026, in vigore dal 4 mar. 2026 ([RU 2026 103](https://fedlex.data.admin.ch/eli/oc/2026/103)).
 
 #### Art. 119
 
@@ -2003,12 +2014,12 @@ Allegato 2[^t-1]
 
 ## Derrate alimentari non di origine animale provenienti da determinati Paesi che sono soggetti temporaneamente ai controlli ufficiali approfonditi secondo gli articoli 37−43
 
-[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 25. ago. 2025, in vigore dal 15 set. 2025 ([RU 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
+[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 2 mar. 2026, in vigore dal 4 mar. 2026 ([RU 2026 103](https://fedlex.data.admin.ch/eli/oc/2026/103)).
 
 - 1\. Tutte le derrate alimentari iscritte nell’allegato I del regolamento di esecuzione (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato I.
 
-[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2025/1441, GU L, 2025/1441, 23.7.2025.
+[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2026/459, GU L, 2026/459, 25.2.2026.
 
 Allegato 3[^t-2]
 

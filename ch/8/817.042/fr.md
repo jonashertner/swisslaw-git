@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2026-01-01
+version: 2026-03-04
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20260304/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20260304-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260304/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260101/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (État le 1<sup>er</sup> janvier 2026)
+du 27 mai 2020 (État le 4 mars 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1998,6 +1998,14 @@ L’activité d’inspecteur des denrées alimentaires, de contrôleur des denr�
 [^118h-1]: Introduit par le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 [^118h-2]: Règlement (CE) n<sup>o</sup> 401/2006 de la Commission du 23 février 2006 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires, JO L 70 du 9.3.2006, p. 12; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 519/2014, JO L 147 du 17.5.2014, p. 29.
 
+#### Art. 118i
+
+**Disposition transitoire de la modification du 2 mars 2026**[^118i-1]
+
+Les lots d’huile d’acide arachidonique en provenance de Chine déjà expédiés à l’entrée en vigueur de la modification du 2 mars 2026 peuvent être importés sans certificat officiel ni résultats de l’échantillonnage et des analyses jusqu’au 26 avril 2026.
+
+[^118i-1]: Introduit par le ch. I de l’O de l’OSAV du 2 mars 2026, en vigueur depuis le 4 mars 2026 ([RO 2026 103](https://fedlex.data.admin.ch/eli/oc/2026/103)).
+
 #### Art. 119
 
 **Entrée en vigueur**
@@ -2019,12 +2027,12 @@ Annexe 2[^t-1]
 
 ## Denrées alimentaires d’origine non animale provenant de certains pays, temporairement soumises à des contrôles renforcés en vertu des art. 37 à 43
 
-[^t-1]: Mise à jour par le ch. II de l’O de l’OSAV du 26 août 2025, en vigueur depuis le 15 sept. 2025 ([RO 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
+[^t-1]: Mise à jour par le ch. II de l’O de l’OSAV du 2 mars 2026, en vigueur depuis le 4 mars 2026 ([RO 2026 103](https://fedlex.data.admin.ch/eli/oc/2026/103)).
 
 - 1\. Ensemble des denrées alimentaires figurant à l’annexe I du règlement d’exécution (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. Les procédures d’échantillonnage et les méthodes d’analyses sont régies par l’annexe III du règlement d’exécution, dans la mesure où l’annexe I du règlement d’exécution y renvoie.
 
-[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2025/1441, JO L, 2025/1441, 23.7.2025.
+[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2026/459, JO L 2026/459, 25.2.2026.
 
 Annexe 3[^t-2]
 
