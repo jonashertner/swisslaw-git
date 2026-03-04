@@ -3,11 +3,11 @@ sr: "0.747.712"
 title: Protokoll von 2005 vom 14. Oktober 2005 zum Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschifffahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/459"
 language: de
-version: 2023-03-23
+version: 2026-03-05
 adopted: 2005-10-14
 in_force: 2010-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20230323/de/xml/fedlex-data-admin-ch-eli-cc-2010-459-20230323-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20230323/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20260305/de/xml/fedlex-data-admin-ch-eli-cc-2010-459-20260305-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20260305/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Oktober 2008
 
 In Kraft getreten für die Schweiz am 28. Juli 2010
 
-(Stand am 23. März 2023)
+(Stand am 5. März 2026)
 
 [^t-1]: [AS 2010 3353](https://fedlex.data.admin.ch/eli/oc/2010/458)
 
@@ -62,22 +62,22 @@ in der Überzeugung, dass es notwendig ist, Bestimmungen zur Ergänzung des Übe
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.747.71](https://fedlex.data.admin.ch/eli/cc/1993/1910_1910_1910)
-[^ingress-2]: [SR 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
-[^ingress-3]: [SR 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
-[^ingress-4]: [SR 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
-[^ingress-5]: [SR 0.351.5](https://fedlex.data.admin.ch/eli/cc/1985/439_439_439)
-[^ingress-6]: [SR 0.351.4](https://fedlex.data.admin.ch/eli/cc/1985/429_429_429)
-[^ingress-7]: [SR 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
-[^ingress-8]: [SR 0.748.710.31](https://fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935)
-[^ingress-9]: [SR 0.747.711](https://fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923)
-[^ingress-10]: [SR 0.748.710.4](https://fedlex.data.admin.ch/eli/cc/2002/532)
-[^ingress-11]: [SR 0.353.21](https://fedlex.data.admin.ch/eli/cc/2004/302)
-[^ingress-12]: [SR 0.353.22](https://fedlex.data.admin.ch/eli/cc/2004/303)
-[^ingress-13]: [SR 0.353.23](https://fedlex.data.admin.ch/eli/cc/2009/90)
-[^ingress-14]: [SR 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
-[^ingress-15]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-16]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^ingress-1]: [SR 0.747.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3104)
+[^ingress-2]: [SR 0.748.710.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3307)
+[^ingress-3]: [SR 0.748.710.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3309)
+[^ingress-4]: [SR 0.748.710.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3311)
+[^ingress-5]: [SR 0.351.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1358)
+[^ingress-6]: [SR 0.351.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1357)
+[^ingress-7]: [SR 0.732.031](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2764)
+[^ingress-8]: [SR 0.748.710.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3312)
+[^ingress-9]: [SR 0.747.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3105)
+[^ingress-10]: [SR 0.748.710.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3315)
+[^ingress-11]: [SR 0.353.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1405)
+[^ingress-12]: [SR 0.353.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1406)
+[^ingress-13]: [SR 0.353.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1407)
+[^ingress-14]: [SR 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
+[^ingress-15]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-16]: [SR 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
 
 #### Art. 1
 
@@ -147,7 +147,7 @@ Im Sinne dieses Übereinkommens:
 - a) haben die Ausdrücke «öffentlicher Ort», «staatliche oder öffentliche Einrichtung», «Versorgungseinrichtung» und «öffentliches Verkehrssystem» dieselbe Bedeutung wie in dem am 15. Dezember 1997 in New York beschlossenen Internationalen Übereinkommen zur Bekämpfung terroristischer Bombenanschläge; und
 - b) haben die Ausdrücke «Ausgangsmaterial» und «besonderes spaltbares Material» dieselbe Bedeutung wie in der am 26. Oktober 1956[^2-subdivu2-1] beschlossenen Satzung der Internationalen Atomenergie-Organisation (IAEO).
 
-[^2-subdivu2-1]: [SR 0.732.011](https://fedlex.data.admin.ch/eli/cc/1958/505_527_527)
+[^2-subdivu2-1]: [SR 0.732.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2756)
 
 #### Art. 3
 
@@ -161,29 +161,27 @@ Im Sinne dieses Übereinkommens:
 
 <sup>3.</sup> Dieses Übereinkommen lässt die Rechte, Verpflichtungen und Verantwortlichkeiten, die sich aus dem am 1. Juli 1968[^3-subdivu2-1] in Washington, London und Moskau beschlossenen Vertrag über die Nichtverbreitung von Kernwaffen, dem am 10. April 1972[^3-subdivu2-2] in Washington, London und Moskau beschlossenen Übereinkommen über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen und dem am 13. Januar 1993[^3-subdivu2-3] in Paris beschlossenen Übereinkommen über das Verbot der Entwicklung, Herstellung, Lagerung und des Einsatzes chemischer Waffen und über die Vernichtung solcher Waffen für die Vertragsstaaten dieser Verträge ergeben, unberührt.
 
-[^3-subdivu2-1]: [SR 0.515.03](https://fedlex.data.admin.ch/eli/cc/1977/472_472_472)
-[^3-subdivu2-2]: [SR 0.515.07](https://fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439)
-[^3-subdivu2-3]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^3-subdivu2-1]: [SR 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^3-subdivu2-2]: [SR 0.515.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1925)
+[^3-subdivu2-3]: [SR 0.515.08](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1926)
 
 #### Art. 4
 
 ### Der einleitende Halbsatz des Artikels 3 Absatz 1 des Übereinkommens wird durch folgenden Wortlaut ersetzt:
 
-Eine Straftat im Sinne dieses Übereinkommens begeht, wer widerrechtlich und vorsätzlich ...
+Eine Straftat im Sinne dieses Übereinkommens begeht, wer widerrechtlich und vorsätzlich …
 
-<sup>2.</sup>
+### Artikel 3 Absatz 1 Buchstabe f des Übereinkommens wird durch folgenden Wortlaut ersetzt:
 
-Artikel 3 Absatz 1 Buchstabe f des Übereinkommens wird durch folgenden Wortlaut ersetzt:
+- f) …wissentlich unrichtige Angaben macht und dadurch die sichere Führung eines Schiffes gefährdet.
 
-- f) ...wissentlich unrichtige Angaben macht und dadurch die sichere Führung eines Schiffes gefährdet.
+### Artikel 3 Absatz 1 Buchstabe g des Übereinkommens wird gestrichen.
 
-<sup>3.</sup> Artikel 3 Absatz 1 Buchstabe g des Übereinkommens wird gestrichen.
-
-<sup>4.</sup> Artikel 3 Absatz 2 des Übereinkommens wird durch folgenden Wortlaut ersetzt:
+### Artikel 3 Absatz 2 des Übereinkommens wird durch folgenden Wortlaut ersetzt:
 
 <sup>2.</sup> Eine Straftat begeht auch, wer droht, eine der in Absatz 1 Buchstaben b, c und e genannten Straftaten zu begehen, sofern diese Drohung geeignet ist, die sichere Führung des betreffenden Schiffes zu gefährden, gleichviel ob die Drohung nach innerstaatlichem Recht mit einer Bedingung verknüpft ist, die darauf abzielt, eine natürliche oder juristische Person zu einem Tun oder Unterlassen zu nötigen.
 
-<sup>5.</sup> Folgender Wortlaut wird als Artikel 3<sup>bis</sup> des Übereinkommens eingefügt:
+### Folgender Wortlaut wird als Artikel 3bis des Übereinkommens eingefügt:
 
 ### Art. 3<sup>bis</sup>
 
@@ -212,13 +210,13 @@ Artikel 3 Absatz 1 Buchstabe f des Übereinkommens wird durch folgenden Wortlaut
 - a) die sich daraus ergebende Weitergabe oder Entgegennahme des Gegenstands oder Materials, auch innerhalb eines Staates, den Verpflichtungen dieses Vertragsstaats aus dem Vertrag über die Nichtverbreitung von Kernwaffen nicht widerspricht, und
 - b) falls der Gegenstand oder das Material für Trägersysteme von Kernwaffen oder sonstigen Kernsprengkörpern eines Vertragsstaats des Vertrags über die Nichtverbreitung von Kernwaffen bestimmt ist, der Besitz solcher Waffen oder Sprengkörper nicht den Verpflichtungen dieses Vertragsstaats aus jenem Vertrag widerspricht.
 
-<sup>6.</sup> Folgender Wortlaut wird als Artikel 3<sup>ter</sup> des Übereinkommens eingefügt:
+### Folgender Wortlaut wird als Artikel 3ter des Übereinkommens eingefügt:
 
 ### Art. 3<sup>ter</sup>
 
 Eine Straftat im Sinne dieses Übereinkommens begeht, wer widerrechtlich und vorsätzlich eine andere Person an Bord eines Schiffes befördert in der Kenntnis, dass diese Person eine Handlung begangen hat, die eine in Artikel 3, 3<sup>bis</sup> oder 3<sup>quater</sup> genannte Straftat oder eine in einem der in der Anlage aufgeführten Verträge genannte Straftat darstellt, und beabsichtigt, dieser Person zu helfen, sich der Strafverfolgung zu entziehen.
 
-<sup>7.</sup> Folgender Wortlaut wird als Artikel 3<sup>quater</sup> des Übereinkommens eingefügt:
+### Folgender Wortlaut wird als Artikel 3quater des Übereinkommens eingefügt:
 
 ### Art. 3<sup>quater</sup>
 
@@ -238,7 +236,7 @@ Eine Straftat im Sinne dieses Übereinkommens begeht auch, wer:
 
 Jeder Vertragsstaat bedroht die in den Artikeln 3, 3<sup>bis</sup>, 3<sup>ter</sup> und 3<sup>quater</sup> genannten Straftaten mit angemessenen Strafen, welche die Schwere der Tat berücksichtigen.
 
-<sup>2.</sup> Folgender Wortlaut wird als Artikel 5<sup>bis</sup> des Übereinkommens eingefügt:
+### Folgender Wortlaut wird als Artikel 5bis des Übereinkommens eingefügt:
 
 ### Art. 5<sup>bis</sup>
 
@@ -517,7 +515,7 @@ Staaten können ihre Zustimmung, durch dieses Protokoll gebunden zu sein, ausdr�
 
 <sup>2.</sup> Der Generalsekretär beruft eine Konferenz der Vertragsstaaten dieses Protokolls zur Revision oder Änderung des Protokolls ein, wenn ein Drittel der Vertragsstaaten oder zehn Vertragsstaaten, je nachdem, welche Zahl grösser ist, dies verlangen.
 
-<sup>3.</sup> Jede nach Inkrafttreten einer Änderung dieses Protokolls hinterlegte Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde gilt für das Protokoll in seiner geänderten Fassung.
+<sup>3.</sup> Jede nach Inkrafttreten einer Änderung dieses Protokolls hinterlegte Ratifikations‑, Annahme-, Genehmigungs- oder Beitrittsurkunde gilt für das Protokoll in seiner geänderten Fassung.
 
 #### Art. 21
 
@@ -533,7 +531,9 @@ Staaten können ihre Zustimmung, durch dieses Protokoll gebunden zu sein, ausdr�
 
 **Änderungen der Anlage**
 
-<sup>1.</sup> Die Anlage kann durch das Hinzufügen einschlägiger Verträge geändert werden, die
+<sup>1.</sup>
+
+Die Anlage kann durch das Hinzufügen einschlägiger Verträge geändert werden, die:
 
 - a) für alle Staaten zur Teilnahme offen stehen;
 - b) in Kraft getreten sind; und
@@ -580,12 +580,13 @@ Geschehen zu London am 14. Oktober 2005.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. März 2023[^t-2]
+Geltungsbereich am 5. März 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Algerien</td><td>25. Januar</td><td>2011 B</td><td>25. April</td><td>2011</td></tr>
 <tr><td>Antigua und Barbuda</td><td>24. November</td><td>2015 B</td><td>22. Februar</td><td>2016</td></tr>
+<tr><td>Barbados</td><td>8. März</td><td>2023 B</td><td>6. Juni</td><td>2023</td></tr>
 <tr><td>Belgien</td><td>2. Juli</td><td>2019 B</td><td>2. Oktober</td><td>2019</td></tr>
 <tr><td>Benin</td><td>28. Juni</td><td>2018 B</td><td>26. September</td><td>2018</td></tr>
 <tr><td>Bulgarien</td><td>7. Oktober</td><td>2010</td><td>5. Januar</td><td>2011</td></tr>
@@ -636,12 +637,13 @@ Geltungsbereich am 23. März 2023[^t-2]
 <tr><td>Uruguay</td><td>29. April</td><td>2015 B</td><td>28. Juli</td><td>2015</td></tr>
 <tr><td>Vanuatu</td><td>20. August</td><td>2008 B</td><td>28. Juli</td><td>2010</td></tr>
 <tr><td>Vereinigte Staaten</td><td>28. August</td><td>2015</td><td>26. November</td><td>2015</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td>Zypern</td><td>28. April</td><td>2025 B</td><td>27. Juli</td><td>2025</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org/](http://www.imo.org/) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Protokoll gilt nicht für die Färöer und Grönland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Für das Königreich in Europa und den karibischen Teil der Niederlande (Bonaire, Sint Eustatius und Saba).</td></tr>
 </table>
 
-[^t-2]: [AS 2010 3355](https://fedlex.data.admin.ch/eli/oc/2010/459); [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544); [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169); [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550); [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509); [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456); [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491); [2023 165](https://fedlex.data.admin.ch/eli/oc/2023/165). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2010 3355](https://fedlex.data.admin.ch/eli/oc/2010/459); [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544); [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169); [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550); [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509); [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456); [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491); [2023 165](https://fedlex.data.admin.ch/eli/oc/2023/165); [2026 108](https://fedlex.data.admin.ch/eli/oc/2026/108). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 

@@ -3,11 +3,11 @@ sr: "0.747.712"
 title: "Protocole de 2005 du 14 octobre 2005 relatif à la Convention pour la répression d'actes illicites contre la sécurité de la navigation maritime"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/459"
 language: fr
-version: 2023-03-23
+version: 2026-03-05
 adopted: 2005-10-14
 in_force: 2010-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20230323/fr/xml/fedlex-data-admin-ch-eli-cc-2010-459-20230323-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20230323/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20260305/fr/xml/fedlex-data-admin-ch-eli-cc-2010-459-20260305-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20260305/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 15 octobre 2008
 
 Entré en vigueur pour la Suisse le 28 juillet 2010
 
-(État le 23 mars 2023)
+(État le 5 mars 2026)
 
 [^t-1]: [RO 2010 3353](https://fedlex.data.admin.ch/eli/oc/2010/458)
 
@@ -62,22 +62,22 @@ estimant qu’il est nécessaire d’adopter des dispositions en complément de 
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.747.71](https://fedlex.data.admin.ch/eli/cc/1993/1910_1910_1910)
-[^ingress-2]: [RS 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
-[^ingress-3]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
-[^ingress-4]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
-[^ingress-5]: [RS 0.351.5](https://fedlex.data.admin.ch/eli/cc/1985/439_439_439)
-[^ingress-6]: [RS 0.351.4](https://fedlex.data.admin.ch/eli/cc/1985/429_429_429)
-[^ingress-7]: [RS 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
-[^ingress-8]: [RS 0.748.710.31](https://fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935)
-[^ingress-9]: [RS 0.747.711](https://fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923)
-[^ingress-10]: [RS 0.748.710.4](https://fedlex.data.admin.ch/eli/cc/2002/532)
-[^ingress-11]: [RS 0.353.21](https://fedlex.data.admin.ch/eli/cc/2004/302)
-[^ingress-12]: [RS 0.353.22](https://fedlex.data.admin.ch/eli/cc/2004/303)
-[^ingress-13]: [RS 0.353.23](https://fedlex.data.admin.ch/eli/cc/2009/90)
-[^ingress-14]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
-[^ingress-15]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-16]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^ingress-1]: [RS 0.747.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3104)
+[^ingress-2]: [RS 0.748.710.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3307)
+[^ingress-3]: [RS 0.748.710.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3309)
+[^ingress-4]: [RS 0.748.710.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3311)
+[^ingress-5]: [RS 0.351.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1358)
+[^ingress-6]: [RS 0.351.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1357)
+[^ingress-7]: [RS 0.732.031](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2764)
+[^ingress-8]: [RS 0.748.710.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3312)
+[^ingress-9]: [RS 0.747.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3105)
+[^ingress-10]: [RS 0.748.710.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3315)
+[^ingress-11]: [RS 0.353.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1405)
+[^ingress-12]: [RS 0.353.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1406)
+[^ingress-13]: [RS 0.353.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1407)
+[^ingress-14]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
+[^ingress-15]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-16]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
 
 #### Art. 1
 
@@ -131,8 +131,7 @@ Aux fins de la présente Convention:
       - A) des fins industrielles, agricoles, de recherche, des fins médicales, pharmaceutiques ou d’autres fins pacifiques ou
       - B) des fins de protection, à savoir les fins ayant un rapport direct avec la protection contre les produits chimiques toxiques et la protection contre les armes chimiques ou
       - C) des fins militaires sans rapport avec l’emploi d’armes chimiques et qui ne sont pas tributaires de l’emploi, en tant que moyen de guerre, des propriétés toxiques de produits chimiques ou
-      - D) des fins de maintien de l’ordre public, y compris de lutte antiémeute sur le plan intérieur,
-      - aussi longtemps que les types et quantités en jeu sont compatibles avec de telles fins,
+      - D) des fins de maintien de l’ordre public, y compris de lutte antiémeute sur le plan intérieur, aussi longtemps que les types et quantités en jeu sont compatibles avec de telles fins,
 
     - 2\. des munitions et dispositifs spécifiquement conçus pour provoquer la mort ou d’autres dommages par l’action toxique des produits chimiques toxiques définis à l’al. ii) 1), qui seraient libérés du fait de l’emploi de ces munitions et dispositifs,
     - 3\. tout matériel spécifiquement conçu pour être utilisé en liaison directe avec l’emploi des munitions et dispositifs définis à l’al. ii) 2);
@@ -151,7 +150,7 @@ Aux fins de la présente Convention:
 - a) Les expressions «lieu public», «installation gouvernementale ou publique», «infrastructure», et «système de transport public» s’entendent au sens de la Convention internationale pour la répression des attentats terroristes à l’explosif, conclue à New York le 15 décembre 1997 et
 - b) les expressions «matière brute» et «produit fissile spécial» s’entendent au sens du Statut de l’Agence internationale de l’énergie atomique (AIEA)[^2-subdivu2-1], établi à New York le 26 octobre 1956.
 
-[^2-subdivu2-1]: [RS 0.732.011](https://fedlex.data.admin.ch/eli/cc/1958/505_527_527)
+[^2-subdivu2-1]: [RS 0.732.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2756)
 
 #### Art. 3
 
@@ -165,9 +164,9 @@ Aux fins de la présente Convention:
 
 <sup>3.</sup> Aucune disposition de la présente Convention ne porte atteinte aux droits, obligations et responsabilités qui découlent du Traité sur la non-prolifération des armes nucléaires[^3-subdivu2-1], conclu à Washington, Londres et Moscou le 1<sup>er</sup> juillet 1968, de la Convention sur l’interdiction de la mise au point, de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction[^3-subdivu2-2], conclue à Washington, Londres et Moscou le 10 avril 1972 ou de la Convention sur l’interdiction de la mise au point, de la fabrication, du stockage et de l’emploi des armes chimiques et sur leur destruction[^3-subdivu2-3], conclue à Paris le 13 janvier 1993, pour les États Parties à ces traités.
 
-[^3-subdivu2-1]: [RS 0.515.03](https://fedlex.data.admin.ch/eli/cc/1977/472_472_472)
-[^3-subdivu2-2]: [RS 0.515.07](https://fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439)
-[^3-subdivu2-3]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^3-subdivu2-1]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^3-subdivu2-2]: [RS 0.515.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1925)
+[^3-subdivu2-3]: [RS 0.515.08](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1926)
 
 #### Art. 4
 
@@ -597,7 +596,7 @@ Fait à Londres, ce quatorze octobre deux mille cinq.
 
 (Suivent les signatures)
 
-Champ d’application le 23 mars 2023[^t-2]
+Champ d’application le 5 mars 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -606,9 +605,11 @@ Champ d’application le 23 mars 2023[^t-2]
 <tr><td>Antigua-et-Barbuda</td><td>24 novembre</td><td>2015 A</td><td>22 février</td><td>2016</td></tr>
 <tr><td>Arabie Saoudite</td><td>31 juillet</td><td>2013 A</td><td>29 octobre</td><td>2013</td></tr>
 <tr><td>Autriche</td><td>18 juin</td><td>2010</td><td>16 septembre</td><td>2010</td></tr>
+<tr><td>Barbade</td><td>8 mars</td><td>2023 A</td><td>6 juin</td><td>2023</td></tr>
 <tr><td>Belgique</td><td>2 juillet</td><td>2019 A</td><td>2 octobre</td><td>2019</td></tr>
 <tr><td>Bénin</td><td>28 juin</td><td>2018 A</td><td>26 septembre</td><td>2018</td></tr>
 <tr><td>Bulgarie</td><td>7 octobre</td><td>2010</td><td>5 janvier</td><td>2011</td></tr>
+<tr><td>Chypre</td><td>28 avril</td><td>2025 A</td><td>27 juillet</td><td>2025</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 mai</td><td>2015 A</td><td>26 août</td><td>2015</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23 mars</td><td>2012 A</td><td>21 juin</td><td>2012</td></tr>
 <tr><td>Cuba</td><td>10 avril</td><td>2014 A</td><td>9 juillet</td><td>2014</td></tr>
@@ -653,10 +654,10 @@ Champ d’application le 23 mars 2023[^t-2]
 <tr><td>Turquie</td><td>19 juillet</td><td>2010</td><td>17 octobre</td><td>2010</td></tr>
 <tr><td>Uruguay</td><td>29 avril</td><td>2015 A</td><td>28 juillet</td><td>2015</td></tr>
 <tr><td>Vanuatu</td><td>20 août</td><td>2008 A</td><td>28 juillet</td><td>2010</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org/ &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groënland. <sup>b</sup> Pour le Royaume en Europe et la partie caribienne des Pays-Bas (Bonaire, Sint Eustatius et Saba).</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & listes de codes, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groënland. <sup>b</sup> Pour le Royaume en Europe et la partie caribienne des Pays-Bas (Bonaire, Sint Eustatius et Saba).</td></tr>
 </table>
 
-[^t-2]: RO **2010** 3376; [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544); [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169); [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550); [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509); [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456); [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491); [2023 165](https://fedlex.data.admin.ch/eli/oc/2023/165). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: RO **2010** 3376; [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544); [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169); [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550); [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509); [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456); [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491); [2023 165](https://fedlex.data.admin.ch/eli/oc/2023/165); [2026 108](https://fedlex.data.admin.ch/eli/oc/2026/108). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclaration
 

@@ -3,11 +3,11 @@ sr: "0.747.712"
 title: Protocollo del 2005 del 14 ottobre 2005 relativo alla Convenzione per la repressione di atti illeciti contro la sicurezza della navigazione marittima
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/459"
 language: it
-version: 2023-03-23
+version: 2026-03-05
 adopted: 2005-10-14
 in_force: 2010-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20230323/it/xml/fedlex-data-admin-ch-eli-cc-2010-459-20230323-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20230323/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/459/20260305/it/xml/fedlex-data-admin-ch-eli-cc-2010-459-20260305-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/459/20260305/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Londra il 14 ottobre 2005 Approvato dall’Assemblea federale il 13 giugno 2008[^t-1] Strumento di ratifica depositato il 15 ottobre 2008 Entrato in vigore per la Svizzera il 28 luglio 2010
 
-(Stato 23 marzo 2023)
+(Stato 5 marzo 2026)
 
 [^t-1]: [RU 2010 3353](https://fedlex.data.admin.ch/eli/oc/2010/458)
 
@@ -56,22 +56,22 @@ ritenendo necessario adottare disposizioni a complemento di quelle della Convenz
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.71](https://fedlex.data.admin.ch/eli/cc/1993/1910_1910_1910)
-[^ingress-2]: [RS 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
-[^ingress-3]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
-[^ingress-4]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
-[^ingress-5]: [RS 0.351.5](https://fedlex.data.admin.ch/eli/cc/1985/439_439_439)
-[^ingress-6]: [RS 0.351.4](https://fedlex.data.admin.ch/eli/cc/1985/429_429_429)
-[^ingress-7]: [RS 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
-[^ingress-8]: [RS 0.748.710.31](https://fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935)
-[^ingress-9]: [RS 0.747.711](https://fedlex.data.admin.ch/eli/cc/1993/1923_1923_1923)
-[^ingress-10]: [RS 0.748.710.4](https://fedlex.data.admin.ch/eli/cc/2002/532)
-[^ingress-11]: [RS 0.353.21](https://fedlex.data.admin.ch/eli/cc/2004/302)
-[^ingress-12]: [RS 0.353.22](https://fedlex.data.admin.ch/eli/cc/2004/303)
-[^ingress-13]: [RS 0.353.23](https://fedlex.data.admin.ch/eli/cc/2009/90)
-[^ingress-14]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
-[^ingress-15]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-16]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^ingress-1]: [RS 0.747.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3104)
+[^ingress-2]: [RS 0.748.710.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3307)
+[^ingress-3]: [RS 0.748.710.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3309)
+[^ingress-4]: [RS 0.748.710.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3311)
+[^ingress-5]: [RS 0.351.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1358)
+[^ingress-6]: [RS 0.351.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1357)
+[^ingress-7]: [RS 0.732.031](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2764)
+[^ingress-8]: [RS 0.748.710.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3312)
+[^ingress-9]: [RS 0.747.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3105)
+[^ingress-10]: [RS 0.748.710.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3315)
+[^ingress-11]: [RS 0.353.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1405)
+[^ingress-12]: [RS 0.353.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1406)
+[^ingress-13]: [RS 0.353.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1407)
+[^ingress-14]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
+[^ingress-15]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-16]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
 
 #### Art. 1
 
@@ -144,7 +144,7 @@ Ai fini della presente Convenzione:
 - a) le espressioni «luogo pubblico», «installazione governativa o pubblica», «infrastruttura» e «sistema di trasporto pubblico» vanno intese conformemente alla Convenzione per la repressione degli attentati terroristici con esplosivo, conclusa a New York il 15 dicembre 1997; e
 - b) le espressioni «materie grezze» e «materiale fissile speciale» vanno intese conformemente allo Statuto dell’Agenzia internazionale dell’energia nucleare (AIEA), approvato a New York il 26 ottobre 1956[^2-subdivu2-1].
 
-[^2-subdivu2-1]: [RS 0.732.011](https://fedlex.data.admin.ch/eli/cc/1958/505_527_527)
+[^2-subdivu2-1]: [RS 0.732.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2756)
 
 #### Art. 3
 
@@ -158,9 +158,9 @@ Ai fini della presente Convenzione:
 
 <sup>3.</sup> Nessuna disposizione della presente Convenzione pregiudica i diritti, gli obblighi e le responsabilità derivanti dal Trattato di non proliferazione nucleare, concluso a Washington, Londra e Mosca il 1° luglio 1968[^3-subdivu2-1], dalla Convenzione che vieta la messa in punto, la fabbricazione e lo stoccaggio delle armi batteriologiche (biologiche) e a tossine e che disciplina la loro distruzione, conclusa a Washington, Londra e Mosca il 10 aprile 1972[^3-subdivu2-2] o dalla Convenzione sulla proibizione dello sviluppo, produzione, immagazzinaggio ed uso di armi chimiche e sulla loro distruzione, conclusa a Parigi il 13 gennaio 1993[^3-subdivu2-3], per gli Stati Parte a questi trattati.
 
-[^3-subdivu2-1]: [RS 0.515.03](https://fedlex.data.admin.ch/eli/cc/1977/472_472_472)
-[^3-subdivu2-2]: [RS 0.515.07](https://fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439)
-[^3-subdivu2-3]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^3-subdivu2-1]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^3-subdivu2-2]: [RS 0.515.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1925)
+[^3-subdivu2-3]: [RS 0.515.08](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1926)
 
 #### Art. 4
 
@@ -590,7 +590,7 @@ Fatto a Londra il quattordici ottobre due mila cinque.
 
 (Seguono le firme)
 
-Campo d’applicazione il 23 marzo 2023[^t-2]
+Campo d’applicazione il 5 marzo 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -598,9 +598,11 @@ Campo d’applicazione il 23 marzo 2023[^t-2]
 <tr><td>Antigua e Barbuda</td><td>24 novembre</td><td>2015 A</td><td>22 febbraio</td><td>2016</td></tr>
 <tr><td>Arabia Saudita</td><td>31 luglio</td><td>2013 A</td><td>29 ottobre</td><td>2013</td></tr>
 <tr><td>Austria</td><td>18 giugno</td><td>2010</td><td>16 settembre</td><td>2010</td></tr>
+<tr><td>Barbados</td><td>8 marzo</td><td>2023 A</td><td>6 giugno</td><td>2023</td></tr>
 <tr><td>Belgio</td><td>2 luglio</td><td>2019 A</td><td>2 ottobre</td><td>2019</td></tr>
 <tr><td>Benin</td><td>28 giugno</td><td>2018 A</td><td>26 settembre</td><td>2018</td></tr>
 <tr><td>Bulgaria</td><td>7 ottobre</td><td>2010</td><td>5 gennaio</td><td>2011</td></tr>
+<tr><td>Cipro</td><td>28 aprile</td><td>2025 A</td><td>27 luglio</td><td>2025</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 maggio</td><td>2015 A</td><td>26 agosto</td><td>2015</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23 marzo</td><td>2012 A</td><td>21 giugno</td><td>2012</td></tr>
 <tr><td>Cuba</td><td>10 aprile</td><td>2014 A</td><td>9 luglio</td><td>2014</td></tr>
@@ -651,7 +653,7 @@ Campo d’applicazione il 23 marzo 2023[^t-2]
 <tr><td colspan="5"><sup>b</sup> Per il Regno in Europa e la parte caraibica dei Paesi Bassi (Bonaire, Sint Eustatius e Saba).</td></tr>
 </table>
 
-[^t-2]: [RU 2010 3355](https://fedlex.data.admin.ch/eli/oc/2010/459); [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544); [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169); [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550); [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509); [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456); [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491), [2023 165](https://fedlex.data.admin.ch/eli/oc/2023/165). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2010 3355](https://fedlex.data.admin.ch/eli/oc/2010/459); [2011 3823](https://fedlex.data.admin.ch/eli/oc/2011/544); [2014 769](https://fedlex.data.admin.ch/eli/oc/2014/169); [2015 2933](https://fedlex.data.admin.ch/eli/oc/2015/550); [2016 3009](https://fedlex.data.admin.ch/eli/oc/2016/509); [2019 2461](https://fedlex.data.admin.ch/eli/oc/2019/456); [2020 2725](https://fedlex.data.admin.ch/eli/oc/2020/491); [2023 165](https://fedlex.data.admin.ch/eli/oc/2023/165); [2026 108](https://fedlex.data.admin.ch/eli/oc/2026/108). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazione
 
