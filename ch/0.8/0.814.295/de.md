@@ -3,11 +3,11 @@ sr: "0.814.295"
 title: Internationales Übereinkommen von 2001 vom 5. Oktober 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/889"
 language: de
-version: 2023-03-29
+version: 2026-03-05
 adopted: 2001-10-05
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20230329/de/xml/fedlex-data-admin-ch-eli-cc-2013-889-20230329-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20230329/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20260305/de/xml/fedlex-data-admin-ch-eli-cc-2013-889-20260305-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20260305/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2013** 5543; BBl **2012** 8639
 
 Abgeschlossen in London am 5. Oktober 2001 Von der Bundesversammlung genehmigt am 22. März 2013[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013 In Kraft getreten für die Schweiz am 24. Dezember 2013
 
-(Stand am 29. März 2023)
+(Stand am 5. März 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. c des BB vom 22. März 2013 ([AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -84,8 +84,8 @@ Im Sinne dieses Übereinkommens haben, sofern nicht ausdrücklich etwas anderes 
 
 <sup>10</sup> Eine «Facharbeitsgruppe» ist ein Gremium, das sich aus Vertretern der Vertragsparteien, von Mitgliedern der Organisation, der Vereinten Nationen und ihrer Sonderorganisationen, von zwischenstaatlichen Organisationen, die mit der Organisation Abkommen geschlossen haben, sowie von nichtstaatlichen Organisationen mit Beraterstatus bei der Organisation zusammensetzt, zu denen möglichst Vertreter von Einrichtungen und Laboratorien gehören sollen, in denen Analysen von Bewuchsschutzsystemen durchgeführt werden. Diese Vertreter müssen über Fachkenntnisse auf den Gebieten Verhalten von Stoffen in der Umwelt und Auswirkungen von Stoffen auf die Umwelt (environmental fate and effects), toxikologische Auswirkungen, Meeresbiologie, menschliche Gesundheit, wirtschaftliche Analyse, Risikomanagement, internationale Schifffahrt, Beschichtungstechnik bei Bewuchsschutzsystemen oder über sonstige Fachkenntnisse verfügen, die zur objektiven Beurteilung der fachlichen Vor- und Nachteile eines umfassenden Vorschlags erforderlich sind.
 
-[^2-1]: [SR 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
-[^2-2]: [SR 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
+[^2-1]: [SR 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
+[^2-2]: [SR 0.747.305.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3072)
 
 #### Art. 3
 
@@ -262,7 +262,7 @@ Die Vertragsparteien legen alle zwischen ihnen entstehenden Streitigkeiten über
 
 Dieses Übereinkommen berührt nicht die Rechte und Pflichten eines Staates nach dem Völkergewohnheitsrecht, wie es im Seerechtsübereinkommen der Vereinten Nationen[^15-1] niedergelegt ist.
 
-[^15-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^15-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 16
 
@@ -384,7 +384,7 @@ Neben seinen Aufgaben, die an anderer Stelle in diesem Übereinkommen ausgeführ
 
 - b) Er übermittelt, sobald dieses Übereinkommen in Kraft getreten ist, dessen Wortlaut an das Sekretariat der Vereinten Nationen zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^20-1].
 
-[^20-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^20-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 21
 
@@ -398,12 +398,14 @@ Anlagen 1–4[^t-2]
 
 [^t-2]: Die Anlagen und ihre Änderungen werden in der AS und in der SR nicht mehr veröffentlicht ([AS 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
-Geltungsbereich am 29. März 2023[^t-3]
+Geltungsbereich am 5. März 2026[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten<sup>\*</sup></td><td>26. September</td><td>2012 B</td><td>26. Dezember</td><td>2012</td></tr>
+<tr><td>Albanien</td><td>9. Juli</td><td>2024 B</td><td>9. Oktober</td><td>2024</td></tr>
 <tr><td>Antigua und Barbuda</td><td>6. Januar</td><td>2003 B</td><td>17. September</td><td>2008</td></tr>
+<tr><td>Äquatorialguinea</td><td>3. Dezember</td><td>2025 B</td><td>3. März</td><td>2026</td></tr>
 <tr><td>Äthiopien</td><td>14. Juli</td><td>2009 B</td><td>14. Oktober</td><td>2009</td></tr>
 <tr><td>Australien</td><td>9. Januar</td><td>2007</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Bahamas</td><td>30. Januar</td><td>2008 B</td><td>17. November</td><td>2008</td></tr>
@@ -434,6 +436,7 @@ Geltungsbereich am 29. März 2023[^t-3]
 <tr><td>Guyana</td><td>20. Februar</td><td>2019 B</td><td>20. Mai</td><td>2019</td></tr>
 <tr><td>Indien</td><td>24. April</td><td>2015 B</td><td>27. Juli</td><td>2015</td></tr>
 <tr><td>Indonesien</td><td>11. September</td><td>2014 B</td><td>11. Dezember</td><td>2014</td></tr>
+<tr><td>Irak</td><td>8. August</td><td>2023 B</td><td>8. November</td><td>2023</td></tr>
 <tr><td>Iran<sup>\*</sup></td><td>6. April</td><td>2011 B</td><td>6. Juli</td><td>2011</td></tr>
 <tr><td>Irland</td><td>20. Oktober</td><td>2011 B</td><td>20. Januar</td><td>2012</td></tr>
 <tr><td>Italien</td><td>21. Januar</td><td>2013 B</td><td>21. April</td><td>2013</td></tr>
@@ -474,10 +477,12 @@ Geltungsbereich am 29. März 2023[^t-3]
 <tr><td>Portugal</td><td>8. Januar</td><td>2019 B</td><td>8. April</td><td>2019</td></tr>
 <tr><td>Rumänien</td><td>16. Februar</td><td>2005 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Russland</td><td>19. Oktober</td><td>2012 B</td><td>19. Januar</td><td>2012</td></tr>
+<tr><td>Salomoninseln</td><td>30. September</td><td>2024 B</td><td>30. Dezember</td><td>2024</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>15. August</td><td>2022 B</td><td>15. November</td><td>2022</td></tr>
 <tr><td>Saudi-Arabien</td><td>25. April</td><td>2018 B</td><td>25. Juli</td><td>2018</td></tr>
 <tr><td>Schweden</td><td>10. Dezember</td><td>2003</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Schweiz</td><td>24. September</td><td>2013 B</td><td>24. Dezember</td><td>2013</td></tr>
+<tr><td>Seychellen</td><td>28. November</td><td>2023 B</td><td>28. Februar</td><td>2024</td></tr>
 <tr><td>Serbien</td><td>8. Juli</td><td>2010 B</td><td>8. Oktober</td><td>2010</td></tr>
 <tr><td>Sierra Leone</td><td>21. November</td><td>2007 B</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Singapur</td><td>31. Dezember</td><td>2009 B</td><td>31. März</td><td>2010</td></tr>
@@ -504,7 +509,7 @@ Geltungsbereich am 29. März 2023[^t-3]
 <tr><td>Insel Man</td><td>21. Mai</td><td>2014</td><td>21. Mai</td><td>2014</td></tr>
 <tr><td>Vietnam</td><td>27. November</td><td>2015 B</td><td>27. Februar</td><td>2015</td></tr>
 <tr><td>Zypern</td><td>23. Dezember</td><td>2005 B</td><td>17. September</td><td>2008</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org/](http://www.imo.org/) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland.</td></tr>
 </table>
 
-[^t-3]: [AS 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510); [2023 178](https://fedlex.data.admin.ch/eli/oc/2023/178). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
+[^t-3]: [AS 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510); [2023 178](https://fedlex.data.admin.ch/eli/oc/2023/178); [2026 110](https://fedlex.data.admin.ch/eli/oc/2026/110). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

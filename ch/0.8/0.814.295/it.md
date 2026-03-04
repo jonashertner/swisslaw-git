@@ -3,11 +3,11 @@ sr: "0.814.295"
 title: Convenzione internazionale del 2001 del 5 ottobre 2001 sul controllo dei sistemi antivegetativi nocivi sulle navi (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/889"
 language: it
-version: 2023-03-29
+version: 2026-03-05
 adopted: 2001-10-05
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20230329/it/xml/fedlex-data-admin-ch-eli-cc-2013-889-20230329-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20230329/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20260305/it/xml/fedlex-data-admin-ch-eli-cc-2013-889-20260305-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20260305/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Londra il 5 ottobre 2001 Approvata dall’Assemblea federale il 22 marzo 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 24 settembre 2013 Entrata in vigore per la Svizzera il 24 dicembre 2013
 
-(Stato 29 marzo 2023)
+(Stato 5 marzo 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. c del DF del 22 mar. 2013 ([RU 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -84,8 +84,8 @@ Ai fini della presente Convenzione, salvo disposizione espressamente contraria:
 
 <sup>10</sup> Per «gruppo tecnico» si intende un organo composto da rappresentanti delle Parti, dei membri dell’Organizzazione delle Nazioni Unite e delle sue agenzie specializzate, di organizzazioni intergovernative che hanno concluso accordi con l’Organizzazione e di organizzazioni non-governative che hanno lo status di consulente presso l’Organizzazione, che dovrebbe includere preferibilmente rappresentanti delle istituzioni e di laboratori che effettuano le analisi dei sistemi antivegetativi. Tali rappresentanti devono essere esperti nel campo dello sviluppo ambientale e degli effetti tossici, della biologia marina, della salute dell’uomo, dell’analisi economica, della gestione dei rischi, dei trasporti marittimi internazionali, delle tecnologie di rivestimento con sistemi antivegetativi o di altri settori specializzati necessari per esaminare in modo obiettivo le qualità tecniche di proposte dettagliate.
 
-[^2-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
-[^2-2]: [RS 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
+[^2-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
+[^2-2]: [RS 0.747.305.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3072)
 
 #### Art. 3
 
@@ -262,7 +262,7 @@ Le Parti regolano tra di esse qualsiasi controversia per quanto riguarda l’int
 
 Nessuna norma della presente Convenzione interferisce nei diritti e negli obblighi di ogni Stato in virtù delle regole del diritto internazionale consuetudinario enunciate dalle Nazioni Unite sul diritto del mare[^15-1].
 
-[^15-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^15-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 16
 
@@ -384,7 +384,7 @@ Oltre alle funzioni specificate in altri articoli della presente Convenzione, il
 
 - b. dal momento dell’entrata in vigore della presente Convenzione, ne trasmette il testo al Segretario generale dell’Organizzazione delle Nazioni Unite in vista della sua registrazione e della sua pubblicazione, conformemente all’articolo 102 della Carta delle Nazioni Unite[^20-1].
 
-[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 21
 
@@ -398,10 +398,11 @@ Allegato 1 a 4[^t-2]
 
 [^t-2]: Gli all. e i loro emendamenti non sono più pubblicati nella RU e nella RS ([RU 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì vengono aggiornati nelle risoluzioni del comitato competente dell’IMO. I testi in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
-Campo d’applicazione il 29 marzo 2023[^t-3]
+Campo d’applicazione il 5 marzo 2026[^t-3]
 
 <table>
 <tr><th>Stati Parti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>9 luglio</td><td>2024 A</td><td>9 ottobre</td><td>2024</td></tr>
 <tr><td>Antigua e Barbuda</td><td>6 gennaio</td><td>2003 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Arabia Saudita</td><td>25 aprile</td><td>2018 A</td><td>25 luglio</td><td>2018</td></tr>
 <tr><td>Australia</td><td>9 gennaio</td><td>2007</td><td>17 settembre</td><td>2008</td></tr>
@@ -441,11 +442,14 @@ Campo d’applicazione il 29 marzo 2023[^t-3]
 <tr><td>Grecia</td><td>22 dicembre</td><td>2005 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Grenada</td><td>26 luglio</td><td>2018 A</td><td>26 ottobre</td><td>2018</td></tr>
 <tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
+<tr><td>Guinea Equatoriale</td><td>3 dicembre</td><td>2025 A</td><td>3 marzo</td><td>2026</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>20 maggio</td><td>2019</td></tr>
 <tr><td>India</td><td>24 aprile</td><td>2015 A</td><td>27 luglio</td><td>2015</td></tr>
 <tr><td>Indonesia</td><td>11 settembre</td><td>2014 A</td><td>11 dicembre</td><td>2014</td></tr>
 <tr><td>Iran<sup>\*</sup></td><td>6 aprile</td><td>2011 A</td><td>6 luglio</td><td>2011</td></tr>
+<tr><td>Iraq</td><td>8 agosto</td><td>2023 A</td><td>8 novembre</td><td>2023</td></tr>
 <tr><td>Irlanda</td><td>20 ottobre</td><td>2011 A</td><td>20 gennaio</td><td>2012</td></tr>
+<tr><td>Isole Salomone</td><td>30 settembre</td><td>2024 A</td><td>30 dicembre</td><td>2024</td></tr>
 <tr><td>Italia</td><td>21 gennaio</td><td>2013 A</td><td>21 aprile</td><td>2013</td></tr>
 <tr><td>Kenya</td><td>7 luglio</td><td>2015 A</td><td>7 ottobre</td><td>2015</td></tr>
 <tr><td>Kiribati</td><td>5 febbraio</td><td>2007 A</td><td>17 settembre</td><td>2008</td></tr>
@@ -484,6 +488,7 @@ Campo d’applicazione il 29 marzo 2023[^t-3]
 <tr><td>Santa Lucia</td><td>2 dicembre</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>15 agosto</td><td>2022 A</td><td>15 novembre</td><td>2022</td></tr>
 <tr><td>Serbia</td><td>8 luglio</td><td>2010 A</td><td>8 ottobre</td><td>2010</td></tr>
+<tr><td>Seycelles</td><td>28 novembre</td><td>2023 A</td><td>28 febbraio</td><td>2024</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>17 settembre</td><td>2008</td></tr>
 <tr><td>Singapore</td><td>31 dicembre</td><td>2009 A</td><td>31 marzo</td><td>2010</td></tr>
 <tr><td>Siria<sup>\*</sup></td><td>24 aprile</td><td>2009 A</td><td>24 luglio</td><td>2009</td></tr>
@@ -507,4 +512,4 @@ Campo d’applicazione il 29 marzo 2023[^t-3]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alla Groenlandia.</td></tr>
 </table>
 
-[^t-3]: [RU 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510); [2023 178](https://fedlex.data.admin.ch/eli/oc/2023/178). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-3]: [RU 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510); [2023 178](https://fedlex.data.admin.ch/eli/oc/2023/178); [2026 110](https://fedlex.data.admin.ch/eli/oc/2026/110). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

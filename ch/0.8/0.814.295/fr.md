@@ -3,11 +3,11 @@ sr: "0.814.295"
 title: Convention internationale de 2001 du 5 octobre 2001 sur le contrôle des systèmes antisalissure nuisibles sur les navires (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/889"
 language: fr
-version: 2023-03-29
+version: 2026-03-05
 adopted: 2001-10-05
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20230329/fr/xml/fedlex-data-admin-ch-eli-cc-2013-889-20230329-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20230329/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20260305/fr/xml/fedlex-data-admin-ch-eli-cc-2013-889-20260305-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20260305/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 24 septembre 2013
 
 Entrée en vigueur pour la Suisse le 24 décembre 2013
 
-(État le 29 mars 2023)
+(État le 5 mars 2026)
 
 [^t-1]: Art. 1 al. 1 let. c de l’AF du 22 mars 2013 ([RO 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886))
 
@@ -90,8 +90,8 @@ Aux fins de la présente Convention, sauf disposition expresse contraire:
 
 <sup>10</sup> «Groupe technique» désigne un organe composé de représentants des Parties, des Membres de l’Organisation, de l’ONU et de ses institutions spécialisées, d’organisations intergouvernementales ayant conclu des accords avec l’Organisation et d’organisations non gouvernementales dotées du statut consultatif auprès de l’Organisation, qui devrait comprendre de préférence des représentants d’établissements et de laboratoires se livrant à l’analyse des systèmes antisalissure. Ces représentants doivent être des experts dans les domaines du devenir dans l’environnement et des effets sur l’environnement, des effets toxiques, de la biologie marine, de la santé de l’homme, de l’analyse économique, de la gestion des risques, des transports maritimes internationaux, des techniques de revêtement des systèmes antisalissure ou d’autres domaines spécialisés nécessaires pour étudier de manière objective le bien-fondé sur le plan technique d’une proposition détaillée.
 
-[^2-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
-[^2-2]: [RS 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
+[^2-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
+[^2-2]: [RS 0.747.305.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3072)
 
 #### Art. 3
 
@@ -268,7 +268,7 @@ Les Parties règlent tout différend survenant entre elles quant à l’interpr�
 
 Aucune disposition de la présente Convention ne porte atteinte aux droits et obligations qu’a tout État en vertu des règles de droit international coutumier énoncées dans la Convention des Nations Unies sur le droit de la mer[^15-1].
 
-[^15-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^15-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 16
 
@@ -390,7 +390,7 @@ Outre les fonctions spécifiées dans d’autres articles de la présente Conven
 
 - b) dès l’entrée en vigueur de la présente Convention, en transmet le texte au Secrétariat de l’Organisation des Nations Unies en vue de son enregistrement et de sa publication conformément à l’art. 102 de la Charte des Nations Unies[^20-1].
 
-[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 21
 
@@ -404,11 +404,12 @@ Annexes 1 à 4[^t-2]
 
 [^t-2]: Les annexes et leurs amendements ne sont plus publiés dans le RO et le RS ([RO 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Les textes en anglais peuvent être consultés sur le site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Ils y sont mis à jour dans les résolutions du comité compétent de l’OMI. Les textes français ainsi qu’une version anglaise consolidée peuvent être consultés auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
-Champ d’application le 29 mars 2023[^t-3]
+Champ d’application le 5 mars 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>2 juillet</td><td>2008 A</td><td>2 octobre</td><td>2008</td></tr>
+<tr><td>Albanie</td><td>9 juillet</td><td>2024 A</td><td>9 octobre</td><td>2024</td></tr>
 <tr><td>Allemagne</td><td>20 août</td><td>2008 A</td><td>20 novembre</td><td>2008</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>6 janvier</td><td>2003 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Arabie Saoudite</td><td>25 avril</td><td>2018 A</td><td>25 juillet</td><td>2018</td></tr>
@@ -433,10 +434,10 @@ Champ d’application le 29 mars 2023[^t-3]
 <tr><td>Croatie</td><td>2 décembre</td><td>2006 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Danemark\* <sup>a</sup></td><td>19 février</td><td>2003 Si</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Îles Féroé</td><td>4 juin</td><td>2010</td><td>4 juin</td><td>2010</td></tr>
-<tr><td>Égypte<sup>\*</sup></td><td>26 septembre</td><td>2012 A</td><td>26 décembre</td><td>2012</td></tr>
+<tr><td>Égypte\*</td><td>26 septembre</td><td>2012 A</td><td>26 décembre</td><td>2012</td></tr>
 <tr><td>Espagne</td><td>16 février</td><td>2004 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Estonie</td><td>23 janvier</td><td>2009 A</td><td>23 avril</td><td>2009</td></tr>
-<tr><td>États-Unis<sup>\*</sup></td><td>21 août</td><td>2012</td><td>21 novembre</td><td>2012</td></tr>
+<tr><td>États-Unis\*</td><td>21 août</td><td>2012</td><td>21 novembre</td><td>2012</td></tr>
 <tr><td>Éthiopie</td><td>14 juillet</td><td>2009 A</td><td>14 octobre</td><td>2009</td></tr>
 <tr><td>Fidji</td><td>8 mars</td><td>2016 A</td><td>8 juin</td><td>2016</td></tr>
 <tr><td>Finlande</td><td>9 juillet</td><td>2010</td><td>9 juillet</td><td>2010</td></tr>
@@ -446,13 +447,16 @@ Champ d’application le 29 mars 2023[^t-3]
 <tr><td>Grèce</td><td>22 décembre</td><td>2005 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Grenade</td><td>26 juillet</td><td>2018 A</td><td>26 octobre</td><td>2018</td></tr>
 <tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 août</td><td>2022</td></tr>
+<tr><td>Guinée équatoriale</td><td>3 décembre</td><td>2025 A</td><td>3 mars</td><td>2026</td></tr>
 <tr><td>Guyana</td><td>20 février</td><td>2019 A</td><td>20 mai</td><td>2019</td></tr>
 <tr><td>Hongrie</td><td>30 janvier</td><td>2008 A</td><td>17 novembre</td><td>2008</td></tr>
 <tr><td>Îles Cook</td><td>12 mars</td><td>2007 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Îles Marshall</td><td>9 mai</td><td>2008 A</td><td>17 septembre</td><td>2008</td></tr>
+<tr><td>Îles Salomon</td><td>30 septembre</td><td>2024 A</td><td>30 décembre</td><td>2024</td></tr>
 <tr><td>Inde</td><td>24 avril</td><td>2015 A</td><td>27 juillet</td><td>2015</td></tr>
 <tr><td>Indonésie</td><td>11 septembre</td><td>2014 A</td><td>11 décembre</td><td>2014</td></tr>
-<tr><td>Iran<sup>\*</sup></td><td>6 avril</td><td>2011 A</td><td>6 juillet</td><td>2011</td></tr>
+<tr><td>Iran\*</td><td>6 avril</td><td>2011 A</td><td>6 juillet</td><td>2011</td></tr>
+<tr><td>Iraq</td><td>8 août</td><td>2023 A</td><td>8 novembre</td><td>2023</td></tr>
 <tr><td>Irlande</td><td>20 octobre</td><td>2011 A</td><td>20 janvier</td><td>2012</td></tr>
 <tr><td>Italie</td><td>21 janvier</td><td>2013 A</td><td>21 avril</td><td>2013</td></tr>
 <tr><td>Japon</td><td>8 juillet</td><td>2003 A</td><td>17 septembre</td><td>2008</td></tr>
@@ -478,7 +482,7 @@ Champ d’application le 29 mars 2023[^t-3]
 <tr><td>Oman</td><td>6 mars</td><td>2019 A</td><td>6 juin</td><td>2019</td></tr>
 <tr><td>Palaos</td><td>28 septembre</td><td>2011 A</td><td>28 décembre</td><td>2011</td></tr>
 <tr><td>Panama</td><td>17 septembre</td><td>2007 A</td><td>17 septembre</td><td>2008</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup></td><td>16 avril</td><td>2008 A</td><td>17 septembre</td><td>2008</td></tr>
+<tr><td>Pays-Bas\*</td><td>16 avril</td><td>2008 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
 <tr><td>Pérou</td><td>2 juillet</td><td>2019 A</td><td>2 octobre</td><td>2019</td></tr>
 <tr><td>Philippines</td><td>6 juin</td><td>2018 A</td><td>6 septembre</td><td>2018</td></tr>
@@ -494,12 +498,13 @@ Champ d’application le 29 mars 2023[^t-3]
 <tr><td>Saint-Kitts-et-Nevis</td><td>30 août</td><td>2005 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>15 août</td><td>2022 A</td><td>15 novembre</td><td>2022</td></tr>
 <tr><td>Serbie</td><td>8 juillet</td><td>2010 A</td><td>8 octobre</td><td>2010</td></tr>
+<tr><td>Seychelles</td><td>28 novembre</td><td>2023 A</td><td>28 février</td><td>2024</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Singapour</td><td>31 décembre</td><td>2009 A</td><td>31 mars</td><td>2010</td></tr>
 <tr><td>Slovénie</td><td>18 mai</td><td>2007 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Suède</td><td>10 décembre</td><td>2003</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Suisse</td><td>24 septembre</td><td>2013 A</td><td>24 décembre</td><td>2013</td></tr>
-<tr><td>Syrie<sup>\*</sup></td><td>24 avril</td><td>2009 A</td><td>24 juillet</td><td>2009</td></tr>
+<tr><td>Syrie\*</td><td>24 avril</td><td>2009 A</td><td>24 juillet</td><td>2009</td></tr>
 <tr><td>Togo</td><td>6 février</td><td>2017 A</td><td>6 mai</td><td>2017</td></tr>
 <tr><td>Tonga</td><td>16 avril</td><td>2014 A</td><td>16 juillet</td><td>2014</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>3 janvier</td><td>2012 A</td><td>3 avril</td><td>2012</td></tr>
@@ -510,7 +515,7 @@ Champ d’application le 29 mars 2023[^t-3]
 <tr><td>Uruguay</td><td>26 mars</td><td>2013 A</td><td>26 juin</td><td>2013</td></tr>
 <tr><td>Vanuatu</td><td>20 août</td><td>2008 A</td><td>20 novembre</td><td>2008</td></tr>
 <tr><td>Vietnam</td><td>27 novembre</td><td>2015 A</td><td>27 février</td><td>2015</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](https://www.imo.org/) &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groënland.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & listes de codes, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groënland.</td></tr>
 </table>
 
-[^t-3]: [RO 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510); [2023 178](https://fedlex.data.admin.ch/eli/oc/2023/178). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-3]: [RO 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510); [2023 178](https://fedlex.data.admin.ch/eli/oc/2023/178); [2026 110](https://fedlex.data.admin.ch/eli/oc/2026/110). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
