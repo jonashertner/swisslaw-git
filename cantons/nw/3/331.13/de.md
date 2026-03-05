@@ -4,11 +4,12 @@ number: "331.13"
 title: Verordnung über den Schutz bedrohter Tiere und Pflanzen
 language: de
 version: 2026-01-01
+corrected: 2026-03-06
 version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/331.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/1480/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -378,7 +379,5 @@ beschliesst:
 <sup>3</sup> Mit Zustimmung der Fachstelle für Natur- und Landschaftsschutz können bei Bedarf neue Wasserstellen gegraben und Fassungen erneuert werden.
 
 <sup>4</sup> Bei baulichen Massnahmen oder Nutzungsänderungen kann die Fachstelle für Natur- und Landschaftsschutz ein Fachgutachten zu den Auswirkungen des Projektes auf die Tiere und ihren Lebensraum verlangen.
-
-## A Anhänge
 
 2025-058
