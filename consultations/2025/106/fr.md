@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur le respect des obligations de neutralité en lien avec la situation en Ukraine
 document: Projet mis en consultation
 language: fr

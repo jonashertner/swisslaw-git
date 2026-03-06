@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Wahrung der neutralitätsrechtlichen Verpflichtungen im Zusammenhang mit der Situation in der Ukraine
 document: Vernehmlassungsvorlage
 language: de

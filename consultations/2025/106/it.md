@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sul rispetto degli obblighi di neutralità in relazione alla situazione in Ucraina
 document: Progetto posto in consultazione
 language: it
