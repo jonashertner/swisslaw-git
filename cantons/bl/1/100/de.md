@@ -3,20 +3,19 @@ canton: BL
 number: "100"
 title: Verfassung des Kantons Basel-Landschaft
 language: de
-version: 2023-11-20
-valid_until: 2026-03-08
-version_adopted: 2023-11-19
+version: 2026-03-09
+version_adopted: 2026-03-08
 adopted: 1984-05-17
 in_force: 1987-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/100"
-pdf: "https://bl.clex.ch/api/de/versions/3853/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4487/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Basel-Landschaft
 
-Vom 17.05.1984 (Stand 20.11.2023)
+Vom 17.05.1984 (Stand 09.03.2026)
 
 Das Baselbieter Volk,
 
@@ -1286,11 +1285,17 @@ medizinischen Lehre und ordnet die Ausübung der Heilberufe.
 
 #### § 113
 
-**Abwässer und Abfälle**
+**Rohstoffe, Abfälle, Abwasser**
 
-<sup>1</sup> Kanton und Gemeinden sorgen für eine umweltgerechte Ableitung der Abwässer und Abfallbeseitigung. Der Verursacher ist mitverantwortlich.
+<sup>1</sup> Kanton und Gemeinden schaffen günstige Rahmenbedingungen, die:
 
-<sup>2</sup> Abfälle sind der Wiederverwertung zuzuführen, sofern dies möglich und sinnvoll ist.
+- a. einen schonenden Umgang mit Rohstoffen, Materialien und Gütern fördern und zur Schliessung von Stoffkreisläufen führen;
+- b. eine umweltgerechte Abwasserwirtschaft und -behandlung gewährleisten.
+
+<sup>2</sup> Sie treffen Massnahmen, damit:
+
+- a. Abfälle vermieden sowie die Wiederverwendung und die stoffliche Verwertung von Materialien und Gütern gefördert werden;
+- b. Abwasser möglichst vermieden wird und das anfallende, verschmutzte Abwasser stofflich und energetisch genutzt sowie Nährstoffkreisläufe sinnvoll geschlossen werden können.
 
 #### § 114
 
