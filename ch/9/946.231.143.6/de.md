@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 12. Dezember 2025 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: de
-version: 2026-02-10
+version: 2026-03-10
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260210/de/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260210-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260210/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260310/de/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260310-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260310/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 12. Dezember 2025 (Stand am 10. Februar 2026)
+vom 12. Dezember 2025 (Stand am 10. März 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -807,11 +807,13 @@ Anhang 2
 <tr><td>III.B.001</td><td>Technologien und Software, die für die Verwendung der in Teil A (Güter) aufgeführten Güter erforderlich ist.</td><td>1B225</td></tr>
 </table>
 
-Anhang 3
+Anhang 3[^t-1]
 
 (Art. 4 Abs. 1–4)
 
 ## Güter und Technologien, die unter die Verbote betreffend Güter und Technologien für unbemannte Luftfahrzeuge und Raketen fallen
+
+[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des WBF vom 9. März 2026, in Kraft seit 10. März 2026 um 23 Uhr ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
 
 ### A. Begriffe
 
@@ -830,13 +832,14 @@ In diesem Anhang bedeuten:
 <tr><td></td><td>Energetische Materialien wie folgt und Mischungen daraus:</td></tr>
 <tr><td>ex 2812 90</td><td>Difluoramin (CAS-Nr. 10405-27-3)</td></tr>
 <tr><td>ex 2850 00 ex 2908 99 ex 3602 00</td><td>Bleiazid (CAS-Nr. 13424-46-9), normales Bleistyphnat (CAS‑Nr. 15245‑44‑0) und basisches Bleistyphnat (CAS‑Nr. 12403‑82‑6) und sonstige Anzünder, die Azide oder komplexe Azide enthalten</td></tr>
-<tr><td>ex 2904 20</td><td>Trinitronaphthalin (CUS-Nr. 90003)</td></tr>
+<tr><td>ex 2902 41 ex 2902 42 ex 2902 43 ex 2902 44</td><td>Trinitroxylene</td></tr>
+<tr><td>ex 2904 20</td><td>Trinitronaphthalin</td></tr>
 <tr><td>ex 2904 20</td><td>Tetranitronaphthalin</td></tr>
 <tr><td>ex 2904 20</td><td>Trinitroxylol</td></tr>
 <tr><td>ex 2904 20</td><td>2,4,6-Trinitrotoluol (TNT) (CAS-Nr. 118-96-7)</td></tr>
 <tr><td>ex 2905 59</td><td>2,2-Dinitropropanol (CAS-Nr. 918-52-5)</td></tr>
 <tr><td>ex 2908 99</td><td>Ammoniumpikrat (CAS-Nr. 131-74-8)</td></tr>
-<tr><td>ex 2909 30</td><td>Trinitroanisol (CAS-Nr. 606-35-9)</td></tr>
+<tr><td>ex 2909 30</td><td>Trinitroanisol</td></tr>
 <tr><td>ex 2916 12</td><td>Ethylhexylacrylat (CAS-Nr. 103-11-7)</td></tr>
 <tr><td>ex 2917 19</td><td>Dioctylmaleat (CAS-Nr. 142-16-5)</td></tr>
 <tr><td>ex 2920 90</td><td>Nitroglycerin (oder Glycerinnitrat) (NG) (CAS‑Nr. 55‑63‑0)</td></tr>
@@ -885,6 +888,12 @@ In diesem Anhang bedeuten:
 <tr><td>8532 22</td><td>Aluminium-Elektrolytkondensatoren</td></tr>
 <tr><td>8532 24</td><td>Mehrschichtige Keramikkondensatoren</td></tr>
 <tr><td>ex 8536 69 ex 8536 90</td><td>Elektrische Stecker, Verbindungselemente, Buchsen, Jumper, Anschlüsse, Sockel oder Adapter mit einer der folgenden Eigenschaften: a. ausgelegt für eine Betriebstemperatur über 398 K (125 °C); b. ausgelegt für eine Betriebstemperatur unter 218 K (– 55 °C); oder c. ausgelegt für einen Betriebstemperaturbereich von 218 K (– 55 °C) bis 398 K (125 °C).</td></tr>
+<tr><td>8504 40</td><td>Statische Umformer</td></tr>
+<tr><td>8486 10</td><td>Maschinen, Apparate und Geräte zum Herstellen von Halbleiterbarren (Boules) oder Halbleiterscheiben (Wafers)</td></tr>
+<tr><td>8486 20</td><td>Maschinen, Apparate und Geräte zum Herstellen von Halbleiterbauelementen oder elektronischen integrierten Schaltungen</td></tr>
+<tr><td>9030 20</td><td>Oszilloskope und Oszillografen</td></tr>
+<tr><td>9030 82</td><td>Instrumente, Apparate und Geräte zum Messen oder Prüfen von Halbleiterscheiben (Wafers) oder Halbleiterbauelementen (einschl. integrierte Schaltungen)</td></tr>
+<tr><td>8543 20</td><td>Signalgeneratoren</td></tr>
 <tr><td>ex 8541 10 ex 8541 21 ex 8541 29 ex 8541 30 ex 8541 49 ex 8541 51 ex 8541 59</td><td>Halbleiterbauelemente, die den Militärstandard MIL-STD-750D oder einen anderen gleichwertigen Standard erfüllen. Technische Anmerkung Für den vorliegenden Zweck sind Halbleiterbauelemente elektronische Bauteile, die auf die elektronischen Eigenschaften eines Halbleitermaterials angewiesen sind, wie Dioden, Transducer, lichtempfindliche Halbleiterbauelemente, Thyristoren, Diacs, Triacs oder Transistoren, einschliesslich Feldeffekttransistoren in MOS-Technik (MOSFET), FETs, FinFETs, IGBT.</td></tr>
 <tr><td>8541 60</td><td>Gefasste oder montierte piezoelektrische Kristalle</td></tr>
 <tr><td>ex 8542 31 ex 8542 39</td><td>Integrierte Schaltungen wie folgt: anwenderprogrammierbares Logikgatter (*Field Programmable Gate Array*, FPGA), Mikrocontroller, Mikroprozessoren, Signalprozessoren, Signalanalysatoren, Analog-Digital-Wandler (ADC), Spannungsregler, Video-Encoder und Gleichstrom-Gleichstrom-Wandler</td></tr>
@@ -919,9 +928,10 @@ In diesem Anhang bedeuten:
 <tr><td>ex 8525 89 ex 9006 30</td><td>Kameras, die die Kriterien von Anhang 2 Teil 2 Nummer 6A003 Buchstabe b Ziffer 4 GKV erfüllen</td></tr>
 <tr><td>ex 8529 90 ex 8542 39 ex 9006 91 ex 9013 80 ex 9025 80 ex 9025 90 ex 9026 80 ex 9026 90 ex 9027 50 ex 9032 10</td><td>Optische Sensoren wie folgt: a. Bildverstärkerröhren und besonders konstruierte Bestandteile hierfür wie folgt: 1. Bildverstärkerröhren mit folgenden Eigenschaften: – Spitzenempfindlichkeit innerhalb des Wellenlängenbereichs grösser als 400 nm und kleiner/gleich 1050 nm – Mikrokanalplatte zur elektronischen Bildverstärkung mit einem Lochabstand (Lochmitte zu Lochmitte) kleiner als 25 μm; und – mit einer der folgenden Eigenschaften: 1. eine S‑20-, S‑25- oder multialkalische Fotokathode 2. eine GaAs- oder GaInAs-Fotokathode, 2. besonders konstruierte Mikrokanalplatten mit folgenden Eigenschaften: – 15 000 oder mehr Röhrchen je Platte und – Lochabstand (Lochmitte zu Lochmitte) kleiner als 25 μm; b. Ausrüstung zur direkten Bildgebung für das sichtbare oder Infrarot-Spektrum mit Bildverstärkerröhren mit den Eigenschaften der Bildverstärkerröhren, die in dieser Erfassung enthalten sind.</td></tr>
 <tr><td>ex 9006 30</td><td>Luftbild-Überwachungskameras</td></tr>
+<tr><td>9013 10</td><td>Zielfernrohre für Waffen; Periskope; Fernrohre für Maschinen, Apparate oder Instrumente dieses Kapitels oder des Abschnitts XVI</td></tr>
 <tr><td>ex 9013 20 ex 9013 80 ex 9013 90 ex 9015 10 ex 9015 80 ex 9015 90 ex 9031 80 ex 9031 90 ex 9033</td><td>Luftgestützte Laser-Entfernungsmesser</td></tr>
 <tr><td>ex 8506</td><td>Primärzellen oder Batterien und Komponenten mit einer Energiedichte grösser/gleich 150 Wh/kg bei 293 K (20 °C) Technische Anmerkungen 1. Für den vorliegenden Zweck wird die Energiedichte (Wh/kg) berechnet aus der Nominalspannung multipliziert mit der nominellen Kapazität (in Amperestunden [Ah]) geteilt durch die Masse (in Kilogramm). Falls die nominelle Kapazität nicht angegeben ist, wird die Energiedichte berechnet aus der quadrierten Nominalspannung multipliziert mit der Entladedauer (in Stunden), dividiert durch die Entladelast (in Ohm) und die Masse (in Kilogramm). 2. Für den vorliegenden Zweck wird «Zelle» definiert als ein elektrochemisches Bauelement, das über positive und negative Elektroden sowie über einen Elektrolyten verfügt und eine Quelle für elektrische Energie ist. Sie ist die Grundeinheit einer Batterie. 3. Für den vorliegenden Zweck wird «Primärzelle» definiert als eine Zelle, die nicht durch irgendeine andere Quelle aufgeladen werden kann.</td></tr>
-<tr><td>ex 8526 10 ex 8529 90 ex 9015 10 ex 90</td><td>Andere als von der GKV erfasste Radarsysteme, -geräte und wichtige Bestandteile sowie besonders konstruierte Bestandteile hierfür, wie folgt: a. andere als von der GKV erfasste Luftfahrzeug- Bordradarsysteme und besonders konstruierte Bestandteile hierfür; b. weltraumgeeignetes Laser- oder Lichtradar (*Light Detection And Ranging,* LIDAR), besonders konstruiert für die Landvermessung oder für meteorologische Beobachtung; c. Millimeterwellen-Enhanced-Vision-Bildgebungssysteme für Radar, besonders konstruiert für Luftfahrzeuge mit rotierenden Tragflächen und mit folgenden Eigenschaften: 1. Betriebsfrequenz 94 GHz, 2. mittlere Ausgangsleistung kleiner als 20 mW, 3. Radarbündelbreite 1 Grad, und 4. Betriebsbereich grösser/gleich 1500 m.</td></tr>
+<tr><td>ex 8526 10 ex 8529 90 ex 9015 10 ex 90</td><td>Andere als von der GKV erfasste Radarsysteme, -geräte und wichtige Bestandteile sowie besonders konstruierte Bestandteile hierfür, wie folgt: a. andere als von der GKV erfasste Luftfahrzeug-Bordradarsysteme und besonders konstruierte Bestandteile hierfür; b. weltraumgeeignetes Laser- oder Lichtradar (*Light Detection And Ranging,* LIDAR), besonders konstruiert für die Landvermessung oder für meteorologische Beobachtung; c. Millimeterwellen-Enhanced-Vision-Bildgebungssysteme für Radar, besonders konstruiert für Luftfahrzeuge mit rotierenden Tragflächen und mit folgenden Eigenschaften: 1. Betriebsfrequenz 94 GHz, 2. mittlere Ausgangsleistung kleiner als 20 mW, 3. Radarbündelbreite 1 Grad, und 4. Betriebsbereich grösser/gleich 1500 m.</td></tr>
 <tr><td>ex 9015 80 ex 9031 80</td><td>Magnetometer, supraleitende elektromagnetische Sensoren und besonders konstruierte Bestandteile hierfür, wie folgt: a. andere als von der GKV erfasste Magnetometer mit einer Empfindlichkeit kleiner (besser) als 1,0 nT (rms)/√Hz; *Technische Anmerkung:* Für den vorliegenden Zweck bezeichnet «Empfindlichkeit» (Rauschpegel) den quadratischen Mittelwert des geräteseitig begrenzten Grundrauschens, bei dem es sich um das kleinste messbare Signal handelt. b. supraleitende elektromagnetische Sensoren, Bestandteile aus supraleitenden Werkstoffen oder Materialien: 1. konstruiert zum Betrieb mindestens eines ihrer supraleitenden Bestandteile bei Temperaturen unterhalb der kritischen Temperatur (einschliesslich Josephson-Elementen und SQUIDs [*Super Conductive Quantum Interference Devices*]), 2. konstruiert zum Erkennen von Änderungen des elektromagnetischen Felds bei Frequenzen kleiner/gleich 1 kHz, sowie 3. mit einer der folgenden Eigenschaften: – mit Dünnfilm-SQUIDs, deren kleinste Strukturabmessung kleiner ist als 2 μm, und mit zugehörigen Ein- und Ausgangskopplungsschaltungen – konstruiert zum Betrieb mit einer Magnetfeldänderungsgeschwindigkeit von mehr als 1 × 10<sup>6</sup> magnetischen Flussquanten pro Sekunde – konstruiert zum Betrieb ohne magnetische Abschirmung innerhalb des Erdmagnetfelds – mit einem Temperaturkoeffizienten kleiner (weniger) als 0,1 magnetische Flussquanten/K.</td></tr>
 <tr><td>ex 9015 80</td><td>Andere als von der GKV erfasste Schwerkraftmesser (Gravimeter) konstruiert oder geändert für die Verwendung an Land, wie folgt: a. mit einer statischen Genauigkeit kleiner (besser) als 100 μGal; oder b. solche mit Quarzelement (Worden-Prinzip).</td></tr>
 <tr><td></td><td>Andere als von der GKV erfasste Software, besonders entwickelt für die Entwicklung, Herstellung oder Verwendung von Gütern, die von Anhang 2 Teil 2 Nummer 6A002 und 6A003 GKV erfasst werden, sowie Radare, Magnetometer und Schwerkraftmesser, die in die vorliegende Kategorie 6 fallen.</td></tr>
@@ -931,14 +941,14 @@ In diesem Anhang bedeuten:
 
 <table>
 <tr><th>HS-Code</th><th>Beschreibung</th></tr>
-<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 90 ex 8807 30</td><td>Fernsteuerungsgeräte für unbemannte Luftfahrzeuge (UAV)</td></tr>
+<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 ex 8807 30</td><td>Fernsteuerungsgeräte für unbemannte Luftfahrzeuge (UAV)</td></tr>
 <tr><td>ex 8517 62 ex 8517 69</td><td>Telekommunikationsapparate, -geräte oder -anlagen für Luftfahrzeuge</td></tr>
 <tr><td>ex 8517 71 ex 8529 10</td><td>Antennen und Antennenreflektoren für Luftfahrzeuge</td></tr>
 <tr><td>ex 8517 71 ex 8526 10 ex 8526 91 ex 8526 92 ex 8529 10 ex 8529 90</td><td>Ausrüstung für Satellitennavigationssysteme, einschliesslich für den Empfang von GNSS-Signalen geeigneter Antennen</td></tr>
 <tr><td>ex 8526 10 ex 8529 90</td><td>Radargeräte für unbemannte Luftfahrzeuge (UAV) und speziell konzipierte Komponenten hierfür, namentlich folgende Radargeräte: Lichtradar (LIDAR), Funkmessvisier (*Airborne Intercept*, AI), Zielverfolgungsradar (*Target Tracking*, TT), Flugabwehrartillerie (*Anti-aircraft Artillery*, AAA), Zielerfassungsradar (Target Acquisition, TA), luftgestützte Frühwarnung (*Airborne Early Warning*, AEW)</td></tr>
 <tr><td>ex 8526 91 ex 8529 90</td><td>Funknavigationsgeräte für Luftfahrzeuge und speziell konzipierte Komponenten hierfür</td></tr>
 <tr><td>ex 8537 10 ex 8807 30</td><td>Flugsteuerorgane (FCU) für unbemannte Luftfahrzeuge (UAV)</td></tr>
-<tr><td>ex 8543 70</td><td>Digitale Flugdatenschreiber *Anmerkung:* Umfasst nicht Flugdatenschreiber mit folgenden Eigenschaften: a. zugelassen von den zivilen Luftfahrtbehörden eines oder mehrerer EU-Mitgliedstaaten oder Teilnehmerstaaten des Wassenaar-Arrangements; und b. bestimmt für ein nichtmilitärisches Luftfahrzeug, für das eines der folgenden Dokumente von einem oder mehreren EU‑Mitgliedstaaten oder Teilnehmerstaaten des Wassenaar-Arrangements für ein Luftfahrzeug mit diesem speziellen Triebwerkstyp ausgestellt wurde: 1. eine zivile Musterzulassung, oder 2. ein gleichwertiges, von der Internationalen Zivilluftfahrt-Organisation (ICAO) anerkanntes Dokument.</td></tr>
+<tr><td>ex 8543 70</td><td>Digitale Flugdatenschreiber</td></tr>
 <tr><td>ex 9014 20 ex 9014 80 ex 9014 90</td><td>Trägheitsnavigationssysteme, Trägheitsplattformen (IMU), Beschleunigungsmesser oder Kreisel</td></tr>
 </table>
 
@@ -950,7 +960,7 @@ In diesem Anhang bedeuten:
 <tr><td>ex 8408 90</td><td>Kolbenmotoren mit Kompressionszündung (Diesel- oder Halbdieselmotoren) für Luftfahrzeuge</td></tr>
 <tr><td>8409 10</td><td>Teile, erkennbar ausschliesslich oder hauptsächlich für Motoren für Luftfahrzeuge bestimmt</td></tr>
 <tr><td>ex 8411 11 ex 8411 12 ex 8411 21 ex 8411 22 ex 8411 91</td><td>Turbostrahltriebwerke und Turbopropellertriebwerke für Luftfahrzeuge sowie Teile dafür</td></tr>
-<tr><td>ex 8526 92 ex 8529 90</td><td>Systeme für die Flugbeendigung und speziell konstruierte Komponenten. *Anmerkung:* Für den vorliegenden Zweck werden digitale und analoge Kommunikationsstandards für Flugbeendigungssysteme, einschliesslich verschlüsselter Betriebsarten, erfasst. Technische Anmerkungen 1. Für den vorliegenden Zweck kann die Flugbeendigung einen kontrollierten Sinkflug, eine Selbstzerstörung oder eine Detonation der Gefechtsköpfe zur Minimierung des Risikos von Kollateralschäden umfassen. 2. Für den vorliegenden Zweck sind Komponenten Boden- und Bordausrüstung, Befehlsauslöser, Codierer, Verstärker-Kontroller, Empfänger zur Befehlsüberprüfung, Verstärker, Sender, Decoder und Empfänger.</td></tr>
+<tr><td>ex 8526 92 ex 8529 90</td><td>Systeme für die Flugbeendigung und speziell konstruierte Komponenten. *Anmerkung:* Für den vorliegenden Zweck werden digitale und analoge Kommunikationsstandards für Flugbeendigungssysteme, einschliesslich verschlüsselter Betriebsarten, erfasst. Technische Anmerkungen 1. Für den vorliegenden Zweck kann die Flugbeendigung einen kontrollierten Sinkflug, eine Selbstzerstörung oder eine Detonation der Gefechtsköpfe zur Minimierung des Risikos von Kollateralschäden umfassen. 2. Für den vorliegenden Zweck sind Komponenten Boden- und Bordausrüstung, Befehlsauslöser, Codierer, Verstärker‑Kontroller, Empfänger zur Befehlsüberprüfung, Verstärker, Sender, Decoder und Empfänger.</td></tr>
 <tr><td>ex 8805 10</td><td>Bodendienstgeräte für unbemannte Luftfahrzeuge (UAV)</td></tr>
 <tr><td>ex 8501 ex 8807 30</td><td>Servomotoren für unbemannte Luftfahrzeuge (UAV)</td></tr>
 <tr><td>ex 8805 10 ex 8807 30</td><td>Startapparate und -vorrichtungen für unbemannte Luftfahrzeuge (UAV)</td></tr>
@@ -1430,7 +1440,7 @@ Anmerkung
 
 \2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.
 
-Anhang 12
+Anhang 12[^t-2]
 
 (Art. 16 Abs. 1 Bst. a, 2 Bst. a und b, 4 und 5 Bst. c, 17 Abs. 3, 26 Abs. 1 und 3, 27 Bst. b sowie 31)
 
@@ -1438,9 +1448,10 @@ Anhang 12
 
 [^annex12-lvlu1-1]
 
-[^annex12-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026, in Kraft seit 10. März 2026 um 23 Uhr ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex12-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 13
+Anhang 13[^t-3]
 
 (Art. 16 Abs. 1 Bst. b, 2 Bst. c, 4 und 5 Bst. c, 17 Abs. 3, 20 Abs. 4, 26 Abs. 1 und 3, 27 Bst. b sowie 31)
 
@@ -1448,9 +1459,10 @@ Anhang 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026, in Kraft seit 10. März 2026 um 23 Uhr ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex13-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 14
+Anhang 14[^t-4]
 
 (Art. 16 Abs. 1 Bst. c, 2 Bst. a, 4 und 5 Bst. c, 17 Abs. 3, 27 Bst. b sowie 31)
 
@@ -1458,7 +1470,8 @@ Anhang 14
 
 [^annex14-lvlu1-1]
 
-[^annex14-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-4]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026, in Kraft seit 10. März 2026 um 23 Uhr ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex14-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 15
 

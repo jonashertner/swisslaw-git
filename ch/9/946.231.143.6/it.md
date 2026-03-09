@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Ordinanza del 12 dicembre 2025 che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: it
-version: 2026-02-10
+version: 2026-03-10
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260210/it/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260210-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260210/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260310/it/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260310-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260310/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-del 12 dicembre 2025 (Stato 10 febbraio 2026)
+del 12 dicembre 2025 (Stato 10 marzo 2026)
 
 Il Consiglio federale svizzero,
 
@@ -653,9 +653,7 @@ L’articolo 8 capoversi 1 e 2 non si applica:
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 12 dicembre 2025 alle ore 23[^34-1].
-
-[^34-1]: Pubblicazione urgente del 12 dic. 2025 ai sensi dell’art. 7 cpv. 3 della legge del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+La presente ordinanza entra in vigore il 12 dicembre 2025 alle ore 23.
 
 Allegato 1
 
@@ -811,11 +809,13 @@ Allegato 2
 <tr><td>III.B.001</td><td>Tecnologie e software necessari per l’utilizzo degli articoli elencati nella parte A (Beni).</td><td>1B225</td></tr>
 </table>
 
-Allegato 3
+Allegato 3[^t-1]
 
 (art. 4 cpv. 1–4)
 
 ## Beni e tecnologie soggetti ai divieti concernenti beni e tecnologie per i veicoli aerei senza equipaggio e per i missili
+
+[^t-1]: Nuovo testo giusta la cifra I cpv. 1 dell’O del DEFR del 9 mar. 2026, in vigore dal 10 mar. 2026 alle ore 23.00 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
 
 ### A. Definizioni
 
@@ -834,13 +834,14 @@ Nel presente allegato s’intende per:
 <tr><td></td><td>Materiali energetici, come segue, e relative miscele:</td></tr>
 <tr><td>ex 2812 90</td><td>difluoroammina (n. CAS 10405-27-3)</td></tr>
 <tr><td>ex 2850 00 ex 2908 99 ex 3602 00</td><td>azoturo di piombo (n. CAS 13424-46-9), stifnato normale di piombo (n. CAS 15245‑44‑0) e stifnato basico di piombo (n. CAS 12403‑82‑6) ed esplosivi primari o composizioni di innesco contenenti azoturi o complessi di azoturi</td></tr>
+<tr><td>ex 2902 41 ex 2902 42 ex 2902 43 ex 2902 44</td><td>trinitrossilene</td></tr>
 <tr><td>ex 2904 20</td><td>trinitronaftalina (CUS 90003)</td></tr>
 <tr><td>ex 2904 20</td><td>tetranitronaftalina</td></tr>
 <tr><td>ex 2904 20</td><td>trinitrossilene</td></tr>
 <tr><td>ex 2904 20</td><td>2,4,6-trinitrotoluene (TNT) (n. CAS 118-96-7)</td></tr>
 <tr><td>ex 2905 59</td><td>2,2-dinitropropanolo (n. CAS 918-52-5)</td></tr>
 <tr><td>ex 2908 99</td><td>picrato di ammonio (n. CAS 131-74-8)</td></tr>
-<tr><td>ex 2909 30</td><td>trinitroanisolo (n. CAS 606-35-9)</td></tr>
+<tr><td>ex 2909 30</td><td>trinitroanisolo</td></tr>
 <tr><td>ex 2916 12</td><td>etilesilacrilato (n. CAS 103-11-7)</td></tr>
 <tr><td>ex 2917 19</td><td>diottimaleato (n. CAS 142-16-5)</td></tr>
 <tr><td>ex 2920 90</td><td>nitroglicerina (o trinitrato di glicerina, trinitroglicerina) (NG) (n. CAS 55‑63‑0)</td></tr>
@@ -889,6 +890,12 @@ Nel presente allegato s’intende per:
 <tr><td>8532 22</td><td>Condensatori elettrolitici all’alluminio</td></tr>
 <tr><td>8532 24</td><td>Condensatori a dielettrico di ceramica, a più strati</td></tr>
 <tr><td>ex 8536 69 ex 8536 90</td><td>Spine di corrente, connettori, spine a jack, ponti, terminali, prese o adattatori, aventi una delle caratteristiche seguenti: a. qualificati per funzionare ad una temperatura ambiente superiore a 398 K (125 °C); b. qualificati per funzionare ad una temperatura ambiente inferiore a 218 K (– 55 °C); c. qualificati per funzionare nell’intera gamma di temperatura ambiente da 218 K (– 55 °C) a 398 K (125 °C).</td></tr>
+<tr><td>8504 40</td><td>Convertitori statici</td></tr>
+<tr><td>8486 10</td><td>Macchine e apparecchi per la fabbricazione di lingotti o di placchette semiconduttori</td></tr>
+<tr><td>8486 20</td><td>Macchine e apparecchi per la fabbricazione di dispositivi semiconduttori o di circuiti integrati elettronici</td></tr>
+<tr><td>9030 20</td><td>Oscilloscopi e oscillografi</td></tr>
+<tr><td>9030 82</td><td>Strumenti e apparecchi per la misura o il controllo di dischi (wafer) o di dispositivi a semiconduttore</td></tr>
+<tr><td>8543 20</td><td>Generatori di segnali</td></tr>
 <tr><td>ex 8541 10 ex 8541 21 ex 8541 29 ex 8541 30 ex 8541 49 ex 8541 51 ex 8541 59</td><td>Dispositivi a semiconduttore che rispettano la norma militare MIL‑STD‑750D o altre norme equivalenti. Nota tecnica ai fini della presente autorizzazione, i dispositivi a semiconduttore sono componenti elettronici che si basano sulle proprietà elettroniche di un materiale semiconduttore, ad esempio diodi, trasduttori, dispositivi fotosensibili, tiristori, diac, triac o transistor, compresi transistor a effetto di campo in tecnologia MOS (MOSFET), FET, FINFETs, IGBT.</td></tr>
 <tr><td>8541 60</td><td>Cristalli piezoelettrici montati</td></tr>
 <tr><td>ex 8542 31 ex 8542 39</td><td>Circuiti integrati, come segue: rete di porte programmabili dall’utilizzatore (FPGA), microcontrollori, microprocessori, processori di segnale, analizzatori di segnale, convertitori analogico-digitale (ADC), regolatori di tensione, codificatori video e convertitori CC/CC.</td></tr>
@@ -923,6 +930,7 @@ Nel presente allegato s’intende per:
 <tr><td>ex 8525 89 ex 9006 30</td><td>Apparecchi da ripresa che soddisfano i criteri dell’allegato 2 parte 2 voce 6A003 lettera b numero 4 OBDI</td></tr>
 <tr><td>ex 8529 90 ex 8542 39 ex 9006 91 ex 9013 80 ex 9025 80 ex 9025 90 ex 9026 80 ex 9026 90 ex 9027 50 ex 9032 10</td><td>Sensori ottici, come segue: a. tubi intensificatori d’immagine e loro componenti appositamente progettati, come segue: 1. tubi intensificatori d’immagine aventi le caratteristiche seguenti: – risposta di picco nella gamma di lunghezze d’onda superiori a 400 nm, ma non superiori a 1050 nm, – una placca a microcanali per amplificazione elettronica dell’immagine con una spaziatura dei fori (da centro a centro) inferiore a 25 μm, e – una delle caratteristiche seguenti: 1. un fotocatodo S-20, S-25 o multialcalino, 2. un fotocatodo GaAs o GaInAs; 2. placche a microcanali appositamente progettate aventi le caratteristiche seguenti: – 15 000 o più tubi cavi per placca, e – spaziatura dei fori (da centro a centro) inferiore a 25 μm; b. apparecchiature per l’immagine a visione diretta funzionanti nello spettro visibile o all’infrarosso che incorporano tubi intensificatori d’immagine aventi le caratteristiche del tubo intensificatore d’immagine di cui alla presente autorizzazione.</td></tr>
 <tr><td>ex 9006 30</td><td>Apparecchi da ripresa per rilevazione aerea</td></tr>
+<tr><td>9013 10</td><td>Cannocchiali con mirino di puntamento per armi; periscopi; cannocchiali per macchine, apparecchi o strumenti di questo capitolo o della sezione XVI</td></tr>
 <tr><td>ex 9013 20 ex 9013 80 ex 9013 90 ex 9015 10 ex 9015 80 ex 9015 90 ex 9031 80 ex 9031 90 ex 9033</td><td>Telemetri laser avionici</td></tr>
 <tr><td>ex 8506</td><td>Celle primarie o batterie e componenti aventi una densità di energia di 150 Wh/kg o più alla temperatura di 293 K (20 <sup>o</sup>C) Note tecniche 1. Ai fini della presente autorizzazione, la densità di energia (Wh/kg) è calcolata moltiplicando la tensione nominale per la capacità nominale espressa in ampere/ora (Ah) e dividendo il prodotto ottenuto per la massa espressa in chilogrammi. Se la capacità nominale non è definita, la densità di energia è calcolata moltiplicando il quadrato della tensione nominale per la durata della scarica, espressa in ore, e dividendo il prodotto ottenuto per il carico di scarica espresso in ohm e la massa espressa in chilogrammi. 2. Ai fini della presente autorizzazione, per cella si intende un dispositivo elettrochimico che è dotato di elettrodi positivi e negativi e di un elettrolito e costituisce una sorgente di energia elettrica. È l’elemento costitutivo principale di una batteria. 3. Ai fini della presente autorizzazione, per cella primaria si intende una cella che non è progettata per essere caricata da un’altra sorgente.</td></tr>
 <tr><td>ex 8526 10 ex 8529 90 ex 9015 10 ex 90</td><td>Sistemi e apparecchiature radar e componenti principali per radar, diversi da quelli specificati nell’OBDI, e loro componenti appositamente progettati, come segue: a. apparecchiature radar avioniche, diverse da quelle specificate nell’OBDI, e loro componenti appositamente progettati; b. apparecchiature radar a laser oppure apparecchiature per la rivelazione e la misura della distanza a mezzo della luce (LIDAR) qualificate per impiego spaziale appositamente progettate per effettuare rilevamenti o per l’osservazione meteorologica; c. sistemi visivi potenziati per mappatura mediante radar a onde millimetriche appositamente progettati per aeromobili ad ala rotante, aventi le caratteristiche seguenti: 1. funzionanti a una frequenza di 94 GHz, 2. potenza media di uscita inferiore a 20 mW, 3. larghezza del fascio radar di 1 grado, e 4. gamma di funzionamento uguale o superiore a 1500 m.</td></tr>
@@ -935,14 +943,14 @@ Nel presente allegato s’intende per:
 
 <table>
 <tr><th>Codice SA</th><th>Designazione</th></tr>
-<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 90 ex 8807 30</td><td>Unità di controllo a distanza per veicoli aerei senza equipaggio (UAV)</td></tr>
+<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 ex 8807 30</td><td>Unità di controllo a distanza per veicoli aerei senza equipaggio (UAV)</td></tr>
 <tr><td>ex 8517 62 ex 8517 69</td><td>Apparecchiature, dispositivi o macchinari di telecomunicazione per aeromobili</td></tr>
 <tr><td>ex 8517 71 ex 8529 10</td><td>Antenne e riflettori di antenne per aeromobili</td></tr>
 <tr><td>ex 8517 71 ex 8526 10 ex 8526 91 ex 8526 92 ex 8529 10 ex 8529 90</td><td>Attrezzature per sistemi di navigazione via satellite, comprese le antenne adatte alla ricezione di segnali GNSS</td></tr>
 <tr><td>ex 8526 10 ex 8529 90</td><td>Radar per veicoli aerei senza equipaggio (UAV) e loro componenti appositamente progettati, fra gli altri i sistemi radar seguenti: a rivelazione e misura della distanza a mezzo della luce (LIDAR), avioportato da intercettazione, di inseguimento del bersaglio (TT), di artiglieria contraerea , di acquisizione del bersaglio , avioportato di allarme tempestivo</td></tr>
 <tr><td>ex 8526 91 ex 8529 90</td><td>Apparecchi di radionavigazione per aeromobili e loro componenti appositamente progettati</td></tr>
 <tr><td>ex 8537 10 ex 8807 30</td><td>Unità di controllo di volo (FCU) per veicoli aerei senza equipaggio (UAV)</td></tr>
-<tr><td>ex 8543 70</td><td>Registratori digitali di dati di volo Nota: non si applica ai registratori di dati di volo che soddisfano le caratteristiche seguenti: a. omologati dalle autorità dell’aviazione civile di uno o più Stati membri dell’UE o Stati partecipanti all’intesa di Wassenaar; e b. destinati ad aeromobili non militari per i quali le autorità dell’aviazione civile di uno o più Stati membri dell’UE o Stati partecipanti all’intesa di Wassenaar hanno rilasciato per l’aeromobile con quello specifico tipo di motore: 1. una certificazione di tipo civile, oppure 2. un documento equivalente riconosciuto dall’Organizzazione dell’aviazione civile internazionale (ICAO)</td></tr>
+<tr><td>ex 8543 70</td><td>Registratori digitali di dati di volo</td></tr>
 <tr><td>ex 9014 20 ex 9014 80 ex 9014 90</td><td>Sistemi di navigazione inerziale, unità di misura inerziali (IMU), accelerometri o giroscopi</td></tr>
 </table>
 
@@ -1434,7 +1442,7 @@ Nota
 
 \2. Gli elenchi vengono inseriti dalla SECO nella banca dati SESAM (SECO Sanctions Management) di norma un giorno lavorativo dopo la comunicazione da parte delle Nazioni Unite.
 
-Allegato 12
+Allegato 12[^t-2]
 
 (art. 16 cpv. 1 lett. a, 2 lett. a e b, 4, 5 lett. c, 17 cpv. 3, 26 cpv. 1 e 3, 27 lett. b e 31)
 
@@ -1442,9 +1450,10 @@ Allegato 12
 
 [^annex12-lvlu1-1]
 
-[^annex12-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026, in vigore dal 10 mar. 2026 alle ore 23.00 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex12-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 13
+Allegato 13[^t-3]
 
 (art. 16 cpv. 1 lett. b, 2 lett. c, 4, 5 lett. c, 17 cpv. 3, 20 cpv. 4, 26 cpv. 1 e 3, 27 lett. b e 31)
 
@@ -1452,9 +1461,10 @@ Allegato 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026, in vigore dal 10 mar. 2026 alle ore 23.00 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex13-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 14
+Allegato 14[^t-4]
 
 (art. 16 cpv. 1 lett. c, 2 lett. a, 4, 5 lett. c, 17 cpv. 3, 27 lett. b e 31)
 
@@ -1462,7 +1472,8 @@ Allegato 14
 
 [^annex14-lvlu1-1]
 
-[^annex14-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026, in vigore dal 10 mar. 2026 alle ore 23.00 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex14-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 15
 

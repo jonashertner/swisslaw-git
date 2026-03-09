@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Ordonnance du 12 décembre 2025 instituant des mesures à l’encontre de la République islamique d’Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: fr
-version: 2026-02-10
+version: 2026-03-10
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260210/fr/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260210-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260210/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260310/fr/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260310-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260310/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 12 décembre 2025 (État le 10 février 2026)
+du 12 décembre 2025 (État le 10 mars 2026)
 
 Le Conseil fédéral suisse,
 
@@ -807,11 +807,13 @@ Annexe 2
 <tr><td>III.B.001</td><td>Technologies et logiciels requis pour l’utilisation des articles de la partie A (Biens).</td><td>1B225</td></tr>
 </table>
 
-Annexe 3
+Annexe 3[^t-1]
 
 (art. 4, al. 1 à 4)
 
 ## Biens et technologies frappés par les interdictions concernant les biens et technologies servant aux véhicules aériens sans pilote et aux fusées
+
+[^t-1]: Nouvelle teneur selon le ch. I al. 1 de l’O du DEFR du 9 mars 2026, en vigueur depuis le 10 mars 2026 à 23 heures ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
 
 ### A. Définitions
 
@@ -830,6 +832,7 @@ On entend par:
 <tr><td></td><td>Matières énergétiques suivantes et leurs mélanges:</td></tr>
 <tr><td>ex 2812 90</td><td>Difluoroamine (n<sup>o</sup> CAS 10405-27-3)</td></tr>
 <tr><td>ex 2850 00 ex 2908 99 ex 3602 00</td><td>Azoture de plomb (n<sup>o</sup> CAS 13424-46-9), styphnate de plomb normal (n<sup>o</sup> CAS 15245‑44‑0) et styphnate de plomb basique (n<sup>o</sup> CAS 12403‑82‑6), et explosifs primaires ou compositions d’amorçage contenant des azotures ou des complexes d’azotures</td></tr>
+<tr><td>ex 2902 41 ex 2902 42 ex 2902 43 ex 2902 44</td><td>Trinitroxylène</td></tr>
 <tr><td>ex 2904 20</td><td>Trinitronaphtalène (CUS 90003)</td></tr>
 <tr><td>ex 2904 20</td><td>Tétranitronaphtalène</td></tr>
 <tr><td>ex 2904 20</td><td>Trinitroxylène</td></tr>
@@ -885,6 +888,12 @@ On entend par:
 <tr><td>8532 22</td><td>Condensateurs électrolytiques à l’aluminium</td></tr>
 <tr><td>8532 24</td><td>Condensateurs à diélectrique en céramique, multicouches</td></tr>
 <tr><td>ex 8536 69 ex 8536 90</td><td>Fiches, connecteurs, cavaliers, bornes, prises ou adaptateurs électriques présentant l’une des caractéristiques suivantes: a. prévus pour fonctionner à une température ambiante supérieure à 398 K (125 °C); b. prévus pour fonctionner à une température ambiante inférieure à 218 K (– 55 °C); c. prévus pour fonctionner dans toute la gamme de températures ambiantes comprise entre 218 K (– 55 °C) et 398 K (125 °C).</td></tr>
+<tr><td>8504 40</td><td>Convertisseurs statiques</td></tr>
+<tr><td>8486 10</td><td>Machines et appareils pour la fabrication de lingots ou de plaquettes à semi-conducteur</td></tr>
+<tr><td>8486 20</td><td>Machines et appareils pour la fabrication de dispositifs à semi-conducteur ou des circuits intégrés électroniques</td></tr>
+<tr><td>9030 20</td><td>Oscilloscopes et oscillographes</td></tr>
+<tr><td>9030 82</td><td>Instruments et appareils pour la mesure ou le contrôle des disques ou des dispositifs à semi-conducteur (y compris les circuits intégrés)</td></tr>
+<tr><td>8543 20</td><td>Générateurs de signaux</td></tr>
 <tr><td>ex 8541 10 ex 8541 21 ex 8541 29 ex 8541 30 ex 8541 49 ex 8541 51 ex 8541 59</td><td>Dispositifs à semi-conducteur répondant à la norme militaire MIL‑STD‑750D ou à une autre norme équivalente. *Note technique:* aux fins de ce contrôle, les dispositifs à semi-conducteur sont des composants électroniques qui reposent sur les propriétés électroniques d’un matériau semi-conducteur, tels que diodes, transducteurs, dispositifs photosensibles, thyristors, diacs, triacs ou transistors, y compris les transistors à effet de champ à structure métal-oxyde (MOSFET), les transistors à effet de champ (TEC), les transistors à effet de champ à ailettes (FinFET) et les transistors bipolaires à grille isolée (IGBT).</td></tr>
 <tr><td>8541 60</td><td>Cristaux piézo-électriques montés</td></tr>
 <tr><td>ex 8542 31 ex 8542 39</td><td>Circuits intégrés, comme suit: réseau programmable de portes (FPGA), microcontrôleurs, microprocesseurs, dispositifs de traitement des signaux, analyseurs de signaux, convertisseurs analogique-numérique, régulateurs de tension, encodeurs vidéo et convertisseurs CC‑CC</td></tr>
@@ -916,9 +925,10 @@ On entend par:
 <tr><th>Code SH</th><th>Description</th></tr>
 <tr><td>ex 8506</td><td>Piles primaires ou batteries ayant une densité d’énergie de 150 Wh/kg ou plus à 293 K (20 °C)</td></tr>
 <tr><td>8525 83</td><td>Caméras à vision nocturne</td></tr>
-<tr><td>ex 8525 89 ex 9006 30</td><td>Appareils de prise de vue qui remplissent les critères de l’annexe 2, partie 2, n<sup>o</sup>. 6A003, let. b, ch. 4, OCB</td></tr>
+<tr><td>ex 8525 89 ex 9006 30</td><td>Appareils de prise de vue qui remplissent les critères de l’annexe 2, partie 2, n<sup>o</sup> 6A003, let. b, ch. 4, OCB</td></tr>
 <tr><td>ex 8529 90 ex 8542 39 ex 9006 91 ex 9013 80 ex 9025 80 ex 9025 90 ex 9026 80 ex 9026 90 ex 9027 50 ex 9032 10</td><td>Capteurs optiques suivants: a. tubes intensificateurs d’image et leurs composants spécialement conçus, comme suit: 1. tubes intensificateurs d’image présentant les caractéristiques suivantes: – une réponse de crête dans la gamme de longueurs d’onde supérieure à 400 nm mais non supérieure à 1050 nm – une plaque à microcanaux pour l’amplification électronique de l’image, présentant un espacement des trous (espacement centre à centre) inférieur à 25 μm – disposant: 1. d’une photocathode S-20, S-25 ou multialcaline, ou 2. d’une photocathode GaAs ou GaInAs, 2. plaques à microcanaux spécialement conçues présentant l’ensemble des caractéristiques suivantes: – 15 000 tubes creux ou plus par plaque – espacement des trous (espacement entre les centres) de moins de 25 μm; b. matériels d’imagerie à vision directe opérant dans le spectre visible ou l’infrarouge et comportant des tubes intensificateurs d’image présentant les caractéristiques du tube intensificateur d’image visé dans ce contrôle.</td></tr>
 <tr><td>ex 9006 30</td><td>Appareils de prise de vue aérienne</td></tr>
+<tr><td>9013 10</td><td>Lunettes de visée pour armes; périscopes; lunettes pour machines, appareils ou instruments du présent Chapitre ou de la Section XVI</td></tr>
 <tr><td>ex 9013 20 ex 9013 80 ex 9013 90 ex 9015 10 ex 9015 80 ex 9015 90 ex 9031 80 ex 9031 90 ex 9033</td><td>Télémètres laser aéroportés</td></tr>
 <tr><td>ex 8506</td><td>Éléments primaires ou batteries et composants ayant une densité d’énergie de 150 Wh/kg ou plus à 293 K (20 °C) Notes techniques 1. Aux fins de ce contrôle, la densité d’énergie (Wh/kg) est calculée à partir du voltage nominal, multiplié par la capacité nominale en ampères heures (Ah), divisé par la masse en kilogrammes. Si la capacité nominale n’est pas indiquée, la densité d’énergie est calculée à partir du voltage nominal au carré puis multiplié par la durée de décharge exprimée en heures et divisé par la résistance de décharge en ohms et la masse en kilogrammes. 2. Aux fins de ce contrôle, on entend par élément un dispositif électrochimique, doté d’électrodes positives et négatives et d’un électrolyte, qui constitue une source d’énergie électrique. Il s’agit du composant de base d’une pile ou batterie. 3. Aux fins de ce contrôle, on entend par élément primaire un élément qui n’est pas conçu pour être chargé par une autre source.</td></tr>
 <tr><td>ex 8526 10 ex 8529 90 ex 9015 10 ex 90</td><td>Systèmes radar, matériels radar et composants radar importants autres que ceux spécifiés dans l’OCB, et leurs composants spécialement conçus, comme suit: a. matériels radar aéroportés autres que ceux spécifiés dans l’OCB, et leurs composants spécialement conçus; b. matériels radar à laser ou équipement de détection et mesure de distance par onde lumineuse (LIDAR) qualifiés pour l’usage spatial spécialement conçus pour la topographie ou l’observation météorologique; c. systèmes d’imagerie radar à vision augmentée à ondes millimétriques spécialement conçus pour les aéronefs à voilure rotative et présentant l’ensemble des caractéristiques suivantes: 1. une fréquence de fonctionnement de 94 GHz, 2. une puissance moyenne de sortie inférieure à 20 mW, 3. une largeur de faisceau radar de 1 degré, 4. une gamme de fonctionnement égale ou supérieure à 1500 m.</td></tr>
@@ -931,14 +941,14 @@ On entend par:
 
 <table>
 <tr><th>Code SH</th><th>Description</th></tr>
-<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 90 ex 8807 30</td><td>Télécommandes pour véhicules aériens sans pilote (UAV)</td></tr>
+<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 ex 8807 30</td><td>Télécommandes pour véhicules aériens sans pilote (UAV)</td></tr>
 <tr><td>ex 8517 62 ex 8517 69</td><td>Appareils, dispositifs et machines de télécommunication pour aéronefs</td></tr>
 <tr><td>ex 8517 71 ex 8529 10</td><td>Antennes et réflecteurs d’antennes pour aéronefs</td></tr>
 <tr><td>ex 8517 71 ex 8526 10 ex 8526 91 ex 8526 92 ex 8529 10 ex 8529 90</td><td>Équipements de système de navigation par satellite, y compris les antennes adaptées à la réception des signaux GNSS</td></tr>
 <tr><td>ex 8526 10 ex 8529 90</td><td>Radars pour véhicules aériens sans pilote (UAV) et leurs composants spécialement conçus, notamment les radars suivants: radars de télédétection et télémétrie par onde lumineuse (LIDAR), radars d’interception aéroportés, radars de poursuite de cibles (TT), artillerie antiaérienne, acquisition d’objectif, alerte lointaine par moyens aéroportés</td></tr>
 <tr><td>ex 8526 91 ex 8529 90</td><td>Appareils de radionavigation pour aéronefs et leurs composants spécialement conçus</td></tr>
 <tr><td>ex 8537 10 ex 8807 30</td><td>Modules de commande de vol (FCU) pour véhicules aériens sans pilote (UAV)</td></tr>
-<tr><td>ex 8543 70</td><td>Enregistreurs numériques de données de vol *Note:* ne s’applique pas aux enregistreurs numériques de données de vol qui remplissent les conditions suivantes: a. ils ont été certifiés par les services de l’aviation civile d’un ou de plusieurs États membres de l’UE ou États participant à l’arrangement de Wassenaar; b. ils sont destinés à un aéronef non militaire pour lequel l’un des documents ci-après a été délivré par les services de l’aviation civile d’un ou de plusieurs États membres de l’UE ou États participant à l’arrangement de Wassenaar pour l’aéronef, avec ce type de moteur spécifique: 1. un certificat de type civil, 2. un document équivalent reconnu par l’Organisation de l’aviation civile internationale.</td></tr>
+<tr><td>ex 8543 70</td><td>Enregistreurs numériques de données de vol</td></tr>
 <tr><td>ex 9014 20 ex 9014 80 ex 9014 90</td><td>Systèmes de navigation à inertie, unités de mesure inertielles (IMU), accéléromètres ou gyroscopes</td></tr>
 </table>
 
@@ -1430,7 +1440,7 @@ Remarque
 
 \2. Les listes sont généralement intégrées par le SECO dans la base de données SESAM (SECO Sanctions Management) un jour ouvrable après leur communication par les Nations Unies.
 
-Annexe 12
+Annexe 12[^t-2]
 
 (art. 16, al. 1, let. a, 2, let. a et b, 4 et 5, let. c, 17, al. 3, 26, al. 1 et 3, 27, let. b, et 31)
 
@@ -1438,9 +1448,10 @@ Annexe 12
 
 [^annex12-lvlu1-1]
 
-[^annex12-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026, en vigueur depuis le 10 mars 2026 à 23 heures ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex12-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 13
+Annexe 13[^t-3]
 
 (art. 16, al. 1, let. b, 2, let. c, 4 et 5, let. c, 17, al. 3, 20, al. 4, 26, al. 1 et 3, 27, let. b, et 31)
 
@@ -1448,9 +1459,10 @@ Annexe 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-3]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026, en vigueur depuis le 10 mars 2026 à 23 heures ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 14
+Annexe 14[^t-4]
 
 (art. 16, al. 1, let. c, 2, let. a, 4 et 5, let. c, 17, al. 3, 27, let. b, et 31)
 
@@ -1458,7 +1470,8 @@ Annexe 14
 
 [^annex14-lvlu1-1]
 
-[^annex14-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/838](https://fedlex.data.admin.ch/eli/oc/2025/838) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-4]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026, en vigueur depuis le 10 mars 2026 à 23 heures ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
+[^annex14-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 15
 
