@@ -4,11 +4,11 @@ title: "Abkommen vom 21. Dezember 2023 zwischen der Schweizerischen Eidgenossens
 short: BFSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/803"
 language: de
-version: 2026-01-01
+version: 2026-03-10
 adopted: 2023-12-21
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/803/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2025-803-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/803/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/803/20260310/de/xml/fedlex-data-admin-ch-eli-cc-2025-803-20260310-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/803/20260310/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -23,7 +23,7 @@ Originaltext
 
 Abgeschlossen in Bern am 21. Dezember 2023 Von der Bundesversammlung genehmigt am 21. März 2025[^t-1] In Kraft getreten durch Notenaustausch am 1. Januar 2026
 
-(Stand am 1. Januar 2026)
+(Stand am 10. März 2026)
 
 [^t-1]: BB vom 21. März 2025 ([AS 2025 802](https://fedlex.data.admin.ch/eli/oc/2025/802))
 
@@ -1949,9 +1949,11 @@ Wo eine Partei auf die innerstaatlichen Bewilligungs- und aufsichtsrechtlichen A
 
   - j. Die FINMA benachrichtigt die zuständige Aufsichtsbehörde des Vereinigten Königreichs und den gemischten Ausschuss unverzüglich über die Aufhebung einer nach Absatz a oder b ergriffenen Massnahme.
 
-Anhang 5
+Anhang 5[^t-2]
 
 ## Sektoraler Anhang Investment Services
+
+[^t-2]: Die Berichtigung vom 10. März 2026 betrifft nur den französischen Text ([AS 2026 112](https://fedlex.data.admin.ch/eli/oc/2026/112)).
 
 ### I. Zweck des sektoralen Anhangs
 

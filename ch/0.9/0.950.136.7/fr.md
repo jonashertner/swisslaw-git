@@ -4,11 +4,11 @@ title: "Accord du 21 décembre 2023 de reconnaissance mutuelle entre la Conféd�
 short: BFSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/803"
 language: fr
-version: 2026-01-01
+version: 2026-03-10
 adopted: 2023-12-21
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/803/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-803-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/803/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/803/20260310/fr/xml/fedlex-data-admin-ch-eli-cc-2025-803-20260310-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/803/20260310/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -23,7 +23,7 @@ Traduction
 
 Conclu à Berne le 21 décembre 2023 Approuvé par l’Assemblée fédérale le 21 mars 2025[^t-1] Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2026
 
-(État le 1<sup>er</sup> janvier 2026)
+(État le 10 mars 2026)
 
 [^t-1]: [RO 2025 802](https://fedlex.data.admin.ch/eli/oc/2025/802)
 
@@ -39,7 +39,7 @@ ci-après dénommés collectivement les «parties» et individuellement une «pa
 
 *résolus* à éliminer les entraves à la fourniture de services financiers et à supprimer les obstacles réglementaires aux activités transfrontalières sur la base de et assuré par la reconnaissance mutuelle et par une coopération étroite en matière de réglementation et de surveillance,
 
-*s**’**efforçant* de renforcer leur coopération en lien avec les services financiers visés par le présent accord de reconnaissance mutuelle dans le domaine des services financiers («accord») et d’assurer que les entreprises bénéficient d’un cadre réglementaire prévisible, même en cas de révocation de la reconnaissance mutuelle,
+*s’efforçant* de renforcer leur coopération en lien avec les services financiers visés par le présent accord de reconnaissance mutuelle dans le domaine des services financiers («accord») et d’assurer que les entreprises bénéficient d’un cadre réglementaire prévisible, même en cas de révocation de la reconnaissance mutuelle,
 
 *décidés* à garantir la stabilité financière, l’intégrité du marché et la protection des investisseurs et des consommateurs dans le champ d’application de l’accord,
 
@@ -721,7 +721,7 @@ Sauf disposition contraire, les notifications et les autres informations sont é
 
 <sup>2</sup> L’accord entre en vigueur le premier jour du deuxième mois qui suit le jour où la dernière notification concernant la conclusion des procédures nationales est parvenue aux parties.
 
-*En foi de quoi,* les soussignés, dûment autorisés par leur gouvernement respectif, ont signé le présent accord. Fait en deux exemplaires à Berne, le 21 décembre 2023, en langues allemande et anglaise, chaque texte faisant également foi. En cas de contradiction entre les versions faisant foi, le texte anglais prévaut. Pour la Confédération suisse Karin Keller-Sutter Pour le Royaume-Uni de Grande-Bretagne et d’Irlande Jeremy Hunt
+*En foi de quoi,* les soussignés, dûment autorisés par leur gouvernement respectif, ont signé le présent accord. Fait en deux exemplaires à Berne, le 21 décembre 2023, en langues allemande et anglaise, chaque texte faisant également foi. En cas de contradiction entre les versions faisant foi, le texte anglais prévaut. Pour la Confédération suisse Karin Keller-Sutter Pour le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord Jeremy Hunt
 
 Annexe
 
@@ -1951,9 +1951,11 @@ Les dispositions suivantes s’appliquent lorsqu’une partie se conforme aux ex
 
   - j. La FINMA informe sans délai l’autorité de surveillance compétente du Royaume-Uni et le comité mixte de l’abrogation d’une mesure prise selon les par. a ou b.
 
-Annexe 5
+Annexe 5[^t-2]
 
 ## Annexe sectorielle sur les services d’investissement
+
+[^t-2]: Mise à jour par l’erratum du 10 mars 2026 ([RO 2026 112](https://fedlex.data.admin.ch/eli/oc/2026/112)).
 
 ### I. But de l’annexe sectorielle
 
@@ -2521,7 +2523,7 @@ Lorsqu’une partie se conforme aux exigences internes en matière d’autorisat
     - ii. si nécessaire, prendre des mesures pour corriger sans délai la situation.
 
   - d. Lorsque le dialogue visé au par. b n’a pas permis de résoudre le cas, l’autorité de surveillance du Royaume-Uni compétente peut se renseigner directement auprès d’un prestataire de services financiers couvert suisse.
-  - e. Dans la mesure où cela est raisonnablement possible et en tenant compte de l’urgence d’une situation spécifique, l’autorité de surveillance compétente informe la FINMA de toute demande de renseignements visée à la lettre b ou, dans les cas urgents, parallèlement à la demande adressée au prestataire de services financiers couvert.
+  - e. Dans la mesure où cela est raisonnablement possible et en tenant compte de l’urgence d’une situation spécifique, l’autorité de surveillance compétente informe la FINMA de toute demande de renseignements visée à la lettre d ou, dans les cas urgents, parallèlement à la demande adressée au prestataire de services financiers couvert.
   - f. Dans les limites de leur cadre juridique respectif, les autorités de surveillance prennent toutes les mesures nécessaires pour permettre la transmission directe d’informations confidentielles par les prestataires de services financiers couverts à l’autorité de surveillance compétente de l’autre partie.
 
 - 4\. Droit d’intervention de l’État hôte

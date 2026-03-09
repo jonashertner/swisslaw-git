@@ -4,24 +4,26 @@ title: "Accordo del 21 dicembre 2023 tra la Confederazione Svizzera e il Regno U
 short: BFSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/803"
 language: it
-version: 2026-01-01
+version: 2026-03-10
 adopted: 2023-12-21
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/803/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2025-803-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/803/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/803/20260310/it/xml/fedlex-data-admin-ch-eli-cc-2025-803-20260310-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/803/20260310/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e d’Irlanda del Nord concernente il riconoscimento reciproco nel settore dei servizi finanziari (Berne Financial Services Agreement, BFSA)
+# Accordo tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e d’Irlanda del Nord concernente il riconoscimento reciproco nel settore dei servizi finanziari
 
 RU **2025** 803; FF **2024** 2385
 
 Traduzione
 
+(Berne Financial Services Agreement, BFSA)
+
 Concluso a Berna il 21 dicembre 2023 Approvato dall’Assemblea federale il 21 marzo 2025[^t-1] Entrato in vigore mediante scambio di note il 1° gennaio 2026
 
-(Stato 1° gennaio 2026)
+(Stato 10 marzo 2026)
 
 [^t-1]: [RU 2025 802](https://fedlex.data.admin.ch/eli/oc/2025/802)
 
@@ -1947,9 +1949,11 @@ Quando una Parte si orienta ai requisiti del diritto interno in materia di autor
 
   - j. La FINMA informa senza indugio l’autorità di vigilanza competente del Regno Unito e il Comitato misto in merito all’annullamento di una misura adottata secondo la lettera a o b.
 
-Allegato 5
+Allegato 5[^t-2]
 
 ## Allegato settoriale Investment Services
+
+[^t-2]: La correzione del 10 mar. 2026 concerne soltanto il testo francese ([RU 2026 112](https://fedlex.data.admin.ch/eli/oc/2026/112)).
 
 ### I. Scopo dell’allegato settoriale
 
