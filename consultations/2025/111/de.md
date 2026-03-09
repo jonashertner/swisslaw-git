@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über Ergänzungsleistungen zur AHV/IV; Leistungen für Hilfe und Betreuung zu Hause
 document: Vernehmlassungsvorlage
 language: de

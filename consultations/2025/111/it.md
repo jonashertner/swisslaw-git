@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità (OPC-AVS/AI) – Prestazioni di aiuto e assistenza a domicilio"
 document: Progetto posto in consultazione
 language: it

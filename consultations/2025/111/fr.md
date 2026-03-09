@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l'ordonnance sur les prestations complémentaires à l'AVS/AI; prestations d'aide et d’assistance à domicile"
 document: Projet mis en consultation
 language: fr
