@@ -1,24 +1,23 @@
 ---
 canton: FR
 number: "431.1.13"
-title: Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2025/26
+title: Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2026/27
 language: de
-version: 2025-04-01
-valid_until: 2026-03-09
-version_adopted: 2025-04-01
+version: 2026-03-10
+version_adopted: 2026-03-17
 adopted: 2026-03-17
 in_force: 2026-03-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/8168/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2025/26
+# Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2026/27
 
 Universität, Bachelor of Medicine (BMed) – V
 
-vom 01.04.2025 (Fassung in Kraft getreten am 01.04.2025)
+vom 17.03.2026 (Fassung in Kraft getreten am 10.03.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -26,13 +25,13 @@ gestützt auf das Gesetz vom 19. November 1997 über die Universität (UniG);
 
 in Erwägung:
 
-Am 28. Februar 2025 hat die Schweizerische Hochschulkonferenz aufgrund der Feststellung, dass die Aufnahmekapazitäten erneut bei Weitem überschritten wurden und Umteilungen an andere Universitäten nicht ausreichten, ihre Empfehlung an die Universitätskantone Basel-Stadt, Basel-Land, Bern, Freiburg, Tessin und Zürich und an den ETH-Rat erneuert, einen Eignungstest für das Studium der Human- und Zahnmedizin durchzuführen.
+Am 26. Februar 2026 hat die Schweizerische Hochschulkonferenz aufgrund der Feststellung, dass die Aufnahmekapazitäten erneut bei Weitem überschritten wurden und Umteilungen an andere Universitäten nicht ausreichten, ihre Empfehlung an die Universitätskantone Basel-Stadt, Basel-Land, Bern, Freiburg, Tessin und Zürich und an den ETH-Rat erneuert, einen Eignungstest für das Studium der Human- und Zahnmedizin durchzuführen.
 
 Die Durchführung des Eignungstests in Freiburg gewährleistet den Studierenden, dass sie ihr Studium an einer anderen Universität fortsetzen können, weil bekannterweise ein Grossteil der Studierenden das Studium an einer der deutschsprachigen Universitäten fortsetzt, die den Eignungstest eingeführt haben.
 
-Seit dem akademischen Jahr 2025/26 ist ein Wechsel der Universität oder des Studiengangs nur noch für Personen möglich, die einen Master in Zahnmedizin, Tiermedizin oder Chiropraktik erworben haben.
+Seit dem akademischen Jahr 2025/26 ist ein Wechsel der Universität oder des Studiengangs nur noch für Personen möglich, die einen Master in Zahnmedi-zin, Tiermedizin oder Chiropraktik erworben haben.
 
-Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 13. Januar 2025 zur Durchführung eines Eignungstests unter diesen Umständen positiv Stellung genommen.
+Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 12. Januar 2026 zur Durchführung eines Eignungstests unter diesen Umständen positiv Stellung genommen.
 
 Auf Antrag der Direktion für Bildung und kulturelle Angelegenheiten,
 
@@ -48,7 +47,7 @@ beschliesst:
 
 **Aufnahmekapazität**
 
-<sup>1</sup> Für das akademische Jahr 2025/26 wurde die Aufnahmekapazität für das erste Studienjahr der Humanmedizin auf 125 Plätze festgesetzt.
+<sup>1</sup> Für das akademische Jahr 2026/27 wurde die Aufnahmekapazität für das erste Studienjahr der Humanmedizin auf 125 Plätze festgesetzt.
 
 #### Art. 3
 
@@ -74,13 +73,13 @@ beschliesst:
 
 <sup>1</sup> Studienanwärterinnen und ‑anwärter müssen sich mit 300 Franken an den Kosten der Durchführung des Eignungstests beteiligen.
 
-<sup>2</sup> Wer diesen Betrag nicht bis spätestens 20. Mai 2025 bei swissuniversities einbezahlt, wird nicht zum Eignungstest zugelassen. Die Anmeldung gilt als zurückgezogen.
+<sup>2</sup> Wer diesen Betrag nicht bis spätestens 19. Mai 2026 bei swissuniversities einbezahlt, wird nicht zum Eignungstest zugelassen. Die Anmeldung gilt als zurückgezogen.
 
 #### Art. 7
 
 **Datum des Eignungstests**
 
-<sup>1</sup> Gemäss Entscheid der Schweizerischen Hochschulkonferenz wird der Eignungstest für das akademische Jahr 2025/26 am 4. Juli 2025 durchgeführt.
+<sup>1</sup> Gemäss Entscheid der Schweizerischen Hochschulkonferenz wird der Eignungstest für das akademische Jahr 2026/27 am 3. Juli 2026 durchgeführt.
 
 #### Art. 8
 
@@ -88,7 +87,7 @@ beschliesst:
 
 <sup>1</sup> Wer den ordnungsgemässen Testverlauf stört, kann von der Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Als Testergebnis zählt das bis zum Ausschluss erzielte Resultat.
 
-<sup>2</sup> Wer das Testergebnis durch Unredlichkeit zu beeinflussen versucht, kann von der Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Unredlichkeiten sind insbesondere das Verwenden unerlaubter Hilfsmittel und das Bearbeiten eines Testabschnittes ausserhalb der dafür zugestandenen Zeit.
+<sup>2</sup> Wer das Testergebnis durch Unredlichkeit zu beeinflussen versucht, kann von der Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Unredlichkeiten sind insbesondere das Verwenden unerlaubter Hilfsmittel sowie das Bearbeiten eines Testabschnittes ausserhalb der dafür zugestandenen Zeit.
 
 <sup>3</sup> Wird eine Studienanwärterin oder ein Studienanwärter wegen Unredlichkeit von der weiteren Teilnahme am Test ausgeschlossen oder werden Unredlichkeiten nach Abschluss des Tests festgestellt, so gilt ein Testergebnis von null Punkten.
 
@@ -96,9 +95,9 @@ beschliesst:
 
 #### Art. 9
 
-**Zuteilung der Studienplätze**
+**Zuteilung der Studienplätze und ‑orte**
 
-<sup>1</sup> Die Studienanwärterinnen und -anwärter werden aufgrund eines Eignungstests zum Medizinstudium zugelassen (Art. 4).
+<sup>1</sup> Die Studienanwärterinnen und -anwärter werden aufgrund eines Eignungs-tests zum Medizinstudium zugelassen (Art. 4).
 
 <sup>2</sup> Die Zuteilung der Studienplätze erfolgt durch swissuniversities gemäss ihrer Regelung der Studienplatzvergabe vom 25. Oktober 2023.
 
@@ -110,7 +109,7 @@ beschliesst:
 
 <sup>1</sup> Studienanwärterinnen und ‑anwärter, die aufgrund ihres Testergebnisses keinen Studienplatz erhalten haben, können sich erneut für das Medizinstudium anmelden und den Test wiederholen. Nur das zuletzt erzielte Testergebnis zählt.
 
-<sup>2</sup> Wer sich innerhalb eines Jahres nach Absolvierung des Eignungstests erneut für das Medizinstudium anmeldet, kann auf eine Wiederholung des Eignungstests verzichten. Das im Vorjahr erzielte Testergebnis wird so umgerechnet, dass es der Skala des Tests des laufenden Jahres entspricht. Massgebend ist das auf diese Weise berechnete Ergebnis.
+<sup>2</sup> Wer sich innerhalb eines Jahres nach Absolvierung des Eignungstests erneut für das Medizinstudium anmeldet, kann auf eine Wiederholung des Eignungstests verzichten. Das im Vorjahr erzielte Testergebnis wird so umgerechnet, dass es der Skala des Tests des laufenden Jahres entspricht. Massgebend ist der auf diese Weise berechnete Wert.
 
 #### Art. 11
 
@@ -150,4 +149,4 @@ beschliesst:
 
 <sup>2</sup> Gegen Entscheide des Rektorats kann bei der Rekurskommission der Universität Freiburg Beschwerde erhoben werden.
 
-2025\_015
+2026\_024
