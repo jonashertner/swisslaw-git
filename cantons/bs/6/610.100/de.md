@@ -2,15 +2,14 @@
 canton: BS
 number: "610.100"
 title: Gesetz über den kantonalen Finanzhaushalt
-short: Finanzhaushaltgesetz
+short: "Finanzhaushaltgesetz, FHG"
 language: de
-version: 2016-07-01
-valid_until: 2026-03-11
-version_adopted: 2015-06-03
+version: 2026-03-12
+version_adopted: 2026-01-14
 adopted: 2012-03-14
 in_force: 2012-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/610.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3842/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6799/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +18,9 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3842/pdf_file"
 
 Finanzhaushaltgesetz | Finanzordnung
 
-(Finanzhaushaltgesetz)
+(Finanzhaushaltgesetz, FHG)
 
-Vom 14. März 2012 (Stand 1. Juli 2016)
+Vom 14. März 2012 (Stand 12. März 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -79,9 +78,9 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat überprüft die kantonalen Tätigkeiten periodisch, mindestens ein Mal pro Legislaturperiode, auf ihre staatliche Notwendigkeit, ihre Wirksamkeit und die Effizienz ihrer Erbringung sowie auf die Tragbarkeit ihrer finanziellen Auswirkungen.
 
-<sup>2</sup> Er kann dabei Schwerpunkte vornehmen und orientiert sich an Vergleichsgrössen ausserhalb der kantonalen Verwaltung.
+<sup>2</sup> Er kann dabei Schwerpunkte vornehmen und orientiert sich an Vergleichsgrössen ausserhalb der kantonalen Verwaltung. Er setzt sich konkrete Entlastungsziele.
 
-<sup>3</sup> Der Regierungsrat unterbreitet dem Grossen Rat das Ergebnis der Prüfung zur Kenntnisnahme und veranlasst gegebenenfalls das Erforderliche.
+<sup>3</sup> Der Regierungsrat unterbreitet dem Grossen Rat das Ergebnis der Prüfung zur Kenntnisnahme und veranlasst gegebenenfalls das Erforderliche. Er berichtet über die Erreichung der Entlastungsziele.
 
 #### § 8
 
