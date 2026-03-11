@@ -4,11 +4,12 @@ number: "152.2"
 title: Vereinbarung über das Informatikleistungszentrum der Kantone Obwalden und Nidwalden
 language: de
 version: 2023-03-15
+corrected: 2026-03-12
 version_adopted: 2022-08-30
 adopted: 2001-11-13
 in_force: 2002-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/1481/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1248/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -89,7 +90,7 @@ vereinbaren:
 
 <sup>2</sup> Die Kommission konstituiert sich selbst.
 
-<sup>3</sup> Sie erfüllt ihre Aufgaben indem sie:
+Sie erfüllt ihre Aufgaben indem sie:
 
 - a) vor der Genehmigung durch die Regierungen der Vereinbarungskantone Stellung zum Geschäftsbericht, zur Jahresrechnung und zum Revisionsbericht nimmt;
 - b) die Kantonsparlamente der Vereinbarungskantone im Rahmen der Geschäftsprüfung über die Ausführung der Dienstleistungen informiert;
