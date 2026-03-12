@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Participation de la Confédération aux coûts des cantons des Grisons, du Tessin et du Valais en lien avec les intempéries de l’été 2024"
 document: Projet mis en consultation - LF
 language: fr

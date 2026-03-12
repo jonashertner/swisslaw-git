@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Partecipazione della Confederazione alle spese sostenute dai Cantoni dei Grigioni, del Ticino e del Vallese per i danni causati dal maltempo nell’estate del 2024"
 document: Progetto posto in consultazione - DF
 language: it

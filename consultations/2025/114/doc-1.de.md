@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Beteiligung des Bundes an den Kosten der Kantone Graubünden, Tessin und Wallis in Zusammenhang mit den Unwetterschäden im Sommer 2024"
 document: Vernehmlassungsvorlage - BG
 language: de
