@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Krankenversicherung (Massnahmen Kostendämpfungspaket 2 – Leistungen Krankenversicherung)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’OAMal (2e volet de mesures visant à maîtriser les coûts – volet prestations de l’assurance-maladie)
 document: Projet mis en consultation
 language: fr

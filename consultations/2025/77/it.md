@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’OAMal (secondo pacchetto di misure di contenimento dei costi – pacchetto prestazioni dell’assicurazione malattie)
 document: Progetto posto in consultazione
 language: it
