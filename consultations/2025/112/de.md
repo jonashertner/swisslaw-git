@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Gewässerschutzgesetzes zum Schutz des Grundwassers und zur Erhöhung der Reinigungsleistung der Abwasserreinigungsanlagen
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur la protection des eaux en vue de protéger les eaux souterraines et d’augmenter l’efficacité des stations d’épuration des eaux usées
 document: Projet mis en consultation
 language: fr

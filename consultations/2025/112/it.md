@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sulla protezione delle acque per la protezione delle acque sotterranee e l’aumento dell’efficienza depurativa degli impianti di depurazione delle acque di scarico
 document: Progetto posto in consultazione
 language: it
