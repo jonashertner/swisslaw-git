@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2025-10-24
+version: 2026-03-13
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20251024-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20251024/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260313-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260313/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 24 octobre 2025)
+du 17 juillet 2025 (État le 13 mars 2026)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -48,6 +48,18 @@ L’étendue des zones de protection et de surveillance au sens de l’art. 88, 
 L’importation d’animaux des espèces réceptives ainsi que de viande, de lait et de sous-produits animaux issus de ces animaux dans les zones de protection et de surveillance de même que leur exportation hors de ces zones sont régies par les dispositions de l’ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord[^3-1] et par les dispositions de l’OITE‑PT.
 
 [^3-1]: [RS 916.443.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10896)
+
+## Section 1*a* Limitation du trafic transfrontalier d’animaux
+
+[^sec1a-1]
+
+[^sec1a-1]: Introduite par le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+
+#### Art. 3a
+
+**Interdiction d’estivage et de pacage frontalier en France**
+
+L’estivage et le pacage frontalier, en France, d’animaux des espèces réceptives sont interdits.
 
 ## Section 2 Mesures dans les zones de protection
 
@@ -128,28 +140,30 @@ Les sous-produits animaux issus d’animaux des espèces réceptives provenant d
 
 **Vaccins et administration**
 
-<sup>1</sup>
-
-Les préparations suivantes sont utilisées pour la vaccination:
-
-- a. Bovilis Lumpyvax-E du fabricant Intervet International B.V. – MSD Animal Health;
-- b. OBP Lumpy Skin Disease du fabricant Onderstepoort Biological Products SOC Ltd.
+<sup>1</sup> La préparation Bovilis Lumpyvax-E du fabricant Intervet International B.V. – MSD Animal Health est utilisée pour la vaccination.[^11-1]
 
 <sup>2</sup> Les animaux en bonne santé sont vaccinés avec une dose standard.
 
-<sup>3</sup> Par ailleurs, chaque vaccin est administré conformément aux indications figurant dans la notice d’emballage.
+<sup>3</sup> Le vaccin est administré conformément aux indications figurant dans la notice d’emballage.[^11-2]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 12
 
-**Délais d’attente**
+**Délais d’attente**[^12-1]
 
-Les délais d’attente applicables sont indiqués dans la notice d’emballage du vaccin administré.
+Les délais d’attente applicables sont indiqués dans la notice d’emballage du vaccin.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 13
 
-**Protection vaccinale**
+**Protection vaccinale**[^13-1]
 
-L’immunité de base est acquise conformément aux indications figurant dans la notice d’emballage du vaccin administré.
+L’immunité de base est acquise conformément aux indications figurant dans la notice d’emballage du vaccin.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 14
 
@@ -276,7 +290,10 @@ Dans les zones de vaccination, le vétérinaire cantonal ordonne les examens né
 
 <sup>3</sup> La présente ordonnance est prorogée jusqu’au 16 mai 2026.[^22-1]
 
+<sup>4</sup> Elle est prorogée jusqu’au 28 février 2027.[^22-2]
+
 [^22-1]: Introduit par le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^22-2]: Introduit par le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 Annexe 1
 
@@ -311,4 +328,4 @@ Sont des zones de vaccination:
 - – le territoire La Pile Dessus de la commune de Saint-Cergue, dans le canton de Vaud;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/fr/xml/image/image1.png)

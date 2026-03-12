@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2025-10-24
+version: 2026-03-13
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20251024-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20251024/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260313-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260313/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 24 ottobre 2025)
+del 17 luglio 2025 (Stato 13 marzo 2026)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -48,6 +48,18 @@ L’estensione delle zone di protezione e di sorveglianza ai sensi dell’artico
 L’importazione di animali delle specie ricettive, di carne, latte e sottoprodotti di origine animale di tali animali nelle zone di protezione e di sorveglianza nonché l’esportazione da tali zone sono disciplinate dalle disposizioni dell’ordinanza del DFI del 18 novembre 2015[^3-1] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia nonché Irlanda del Nord e dalle disposizioni dell’OITE‑PT.
 
 [^3-1]: [RS 916.443.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10896)
+
+## Sezione 1*a*: Limitazione del traffico internazionale di animali
+
+[^sec1a-1]
+
+[^sec1a-1]: Introdotta dalla cifra I dell’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+
+#### Art. 3a
+
+**Divieto di estivazione e pascolo frontaliero in Francia**
+
+L’estivazione e il pascolo frontaliero di animali delle specie ricettive in Francia sono vietati.
 
 ## Sezione 2: Misure nelle zone di protezione
 
@@ -128,28 +140,30 @@ I sottoprodotti di animali delle specie ricettive provenienti dalla zona di sorv
 
 **Vaccini e impiego**
 
-<sup>1</sup>
-
-Per la vaccinazione vengono impiegati i seguenti preparati:
-
-- a. Bovilis Lumpyvax-E del fabbricante Intervet International B.V. – MSD Animal Health;
-- b. OBP Lumpy Skin Disease del fabbricante Onderstepoort Biological Products SOC Ltd.
+<sup>1</sup> Per la vaccinazione è impiegato il preparato Bovilis Lumpyvax-E del fabbricante Intervet International B.V. – MSD Animal Health.[^11-1]
 
 <sup>2</sup> La dose standard si applica ad animali sani.
 
-<sup>3</sup> Inoltre, il vaccino è applicato secondo il rispettivo foglietto illustrativo.
+<sup>3</sup> Il vaccino è applicato secondo il foglietto illustrativo.[^11-2]
+
+[^11-1]: Nuovo testo giusta la cifra I dall’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^11-2]: Nuovo testo giusta la cifra I dall’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 12
 
-**Termini di attesa**
+**Termini di attesa**[^12-1]
 
-I termini di attesa sono stabiliti secondo il foglietto illustrativo del rispettivo vaccino.
+I termini di attesa sono stabiliti secondo il foglietto illustrativo del vaccino.
+
+[^12-1]: Nuovo testo giusta la cifra I dall’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 13
 
-**Protezione vaccinale**
+**Protezione vaccinale**[^13-1]
 
-L’immunità di base è stabilita secondo il foglietto illustrativo del rispettivo vaccino.
+L’immunità di base è stabilita secondo il foglietto illustrativo del vaccino.
+
+[^13-1]: Nuovo testo giusta la cifra I dall’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 14
 
@@ -272,7 +286,10 @@ Il veterinario cantonale ordina nelle zone di vaccinazione le analisi necessarie
 
 <sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 16 maggio 2026.[^22-1]
 
+<sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 28 febbraio 2027.[^22-2]
+
 [^22-1]: Introdotto dalla cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^22-2]: Introdotto dalla cifra I dall’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 Allegato 1
 
@@ -307,4 +324,4 @@ Sono zone di vaccinazione:
 - – la zona di La Pile Dessus del Comune di Saint-Cergue nel Cantone di Vaud;
 - – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/it/xml/image/image1.png)

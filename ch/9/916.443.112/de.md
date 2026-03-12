@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2025-10-24
+version: 2026-03-13
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20251024-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20251024/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260313-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260313/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 24. Oktober 2025)
+vom 17. Juli 2025 (Stand am 13. März 2026)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -48,6 +48,18 @@ Der Umfang der Schutz- und Überwachungszonen nach Artikel 88 Absatz 1 TSV ist i
 Die Ein- und Ausfuhr von Tieren empfänglicher Arten sowie von Fleisch, Milch und tierischen Nebenprodukten solcher Tiere in beziehungsweise aus den Schutz- und Überwachungszonen richten sich nach den Bestimmungen der Verordnung des EDI vom 18. November 2015[^3-1] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland und den Bestimmungen der EDAV‑DS.
 
 [^3-1]: [SR 916.443.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10896)
+
+## 1*a*. Abschnitt: Einschränkung des grenzüberschreitenden Tierverkehrs
+
+[^sec1a-1]
+
+[^sec1a-1]: Eingefügt durch Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+
+#### Art. 3a
+
+**Verbot der Sömmerung und des Grenzweidgangs in Frankreich**
+
+Die Sömmerung und der Grenzweidegang von Tieren empfänglicher Arten in Frankreich sind verboten.
 
 ## 2. Abschnitt: Massnahmen in den Schutzzonen
 
@@ -128,28 +140,30 @@ Tierische Nebenprodukte von Tieren empfänglicher Arten aus der Überwachungszon
 
 **Impfstoffe und Anwendung**
 
-<sup>1</sup>
-
-Für die Impfung werden die folgenden Präparate verwendet:
-
-- a. Bovilis Lumpyvax-E der Herstellerin Intervet International B.V. – MSD Animal Health;
-- b. OBP Lumpy Skin Disease der Herstellerin Onderstepoort Biological Products SOC Ltd.
+<sup>1</sup> Für die Impfung wird das Präparat Bovilis Lumpyvax-E der Herstellerin Intervet International B.V. – MSD Animal Health verwendet.[^11-1]
 
 <sup>2</sup> Die Standarddosis wird bei gesunden Tieren appliziert.
 
-<sup>3</sup> Im Weiteren richtet sich die Applikation nach der Packungsbeilage des jeweiligen Impfstoffes.
+<sup>3</sup> Die Applikation richtet sich nach der Packungsbeilage des Impfstoffes.[^11-2]
+
+[^11-1]: Fassung gemäss Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^11-2]: Fassung gemäss Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 12
 
-**Absetzfristen**
+**Absetzfristen**[^12-1]
 
-Die Absetzfristen richten sich nach der Packungsbeilage des jeweiligen Impfstoffes.
+Die Absetzfristen richten sich nach der Packungsbeilage des Impfstoffes.
+
+[^12-1]: Fassung gemäss Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 13
 
-**Impfschutz**
+**Impfschutz**[^13-1]
 
-Die Grundimmunität richtet sich nach der Packungsbeilage des jeweiligen Impfstoffes.
+Die Grundimmunität richtet sich nach der Packungsbeilage des Impfstoffes.
+
+[^13-1]: Fassung gemäss Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 14
 
@@ -272,7 +286,10 @@ Die Kantonstierärztin oder der Kantonstierarzt ordnet in den Impfzonen für die
 
 <sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 16. Mai 2026 verlängert.[^22-1]
 
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 28. Februar 2027 verlängert.[^22-2]
+
 [^22-1]: Eingefügt durch Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^22-2]: Eingefügt durch Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 Anhang 1
 
@@ -307,4 +324,4 @@ Als Impfzonen gelten:
 - – das Gebiet La Pile Dessus der Gemeinde Saint-Cergue des Kantons Waadt;
 - – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/de/xml/image/image1.png)
