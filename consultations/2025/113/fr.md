@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance sur la protection des eaux (OEaux)
 document: Projet mis en consultation
 language: fr

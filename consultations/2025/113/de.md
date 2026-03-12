@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Gewässerschutzverordnung (GSchV)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale dell’Ordinanza sulla protezione delle acque (OPAc)
 document: Progetto posto in consultazione
 language: it
