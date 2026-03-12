@@ -3,11 +3,11 @@ sr: "0.946.291.561"
 title: Accordo di commercio e di cooperazione economica del 19 novembre 1998 tra il Consiglio federale svizzero e il Governo della Repubblica di Armenia
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/11"
 language: it
-version: 2000-01-01
+version: 2026-03-13
 adopted: 1998-11-19
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/11/20000101/it/xml/fedlex-data-admin-ch-eli-cc-2001-11-20000101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/11/20000101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/11/20260313/it/xml/fedlex-data-admin-ch-eli-cc-2001-11-20260313-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/11/20260313/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/11/20000101/it"
 
 RU **2001** 51; FF **1999** 939
 
-Traduzione[^t-1]
+Traduzione
 
-Concluso il 19 novembre 1998 Approvato dall’Assemblea federale il 18 marzo 1999[^t-2] Entrato in vigore mediante scambio di note il 1° gennaio 2000
+Concluso il 19 novembre 1998 Approvato dall’Assemblea federale il 18 marzo 1999[^t-1] Entrato in vigore mediante scambio di note il 1° gennaio 2000
 
-(Stato 1° gennaio 2000)
+(Stato 13 marzo 2026)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 2001 50](https://fedlex.data.admin.ch/eli/oc/2001/10)
+[^t-1]: [RU 2001 50](https://fedlex.data.admin.ch/eli/oc/2001/10)
 
 Il Consiglio federale svizzero e il Governo della Repubblica di Armenia,
 
@@ -219,9 +218,12 @@ Il Comitato misto ha in particolare il compito di:
 - – esaminare questioni che concernono gli scambi fra le Parti contraenti;
 - – valutare i progressi compiuti nello sviluppo degli scambi e della cooperazione fra le Parti contraenti;
 - – scambiare informazioni e previsioni commerciali nonché informazioni ai sensi dell’articolo 8 (Trasparenza);
+- – fungere da forum per consultazioni ai sensi dell’articolo 9 (Perturbazioni del mercato);
 - – fungere da forum per le consultazioni su problemi bilaterali e l’evoluzione internazionale nell’ambito dei diritti di proprietà intellettuale; tali consultazioni possono parimenti svolgersi fra i periti delle Parti contraenti;
 - – sviluppare la cooperazione economica conformemente all’articolo 12;
-- – formulare e in seguito sottoporre alle autorità delle Parti contraenti emendamenti al presente Accordo al fine di tenere conto delle nuove evoluzioni nonché delle raccomandazioni in merito all’esecuzione del presente Accordo e all’estensione del suo campo d’applicazione ai sensi dell’articolo 14 (Revisione dell’Accordo ed estensione del campo d’applicazione).
+- – formulare e in seguito sottoporre alle autorità delle Parti contraenti emendamenti al presente Accordo al fine di tenere conto delle nuove evoluzioni nonché delle raccomandazioni in merito all’esecuzione del presente Accordo e all’estensione del suo campo d’applicazione ai sensi dell’articolo 14 (Revisione dell’Accordo ed estensione del campo d’applicazione).[^13-1]
+
+[^13-1]: Correzione del 13 mar. 2026 ([RU 2026 120](https://fedlex.data.admin.ch/eli/oc/2026/120)).
 
 #### Art. 14
 

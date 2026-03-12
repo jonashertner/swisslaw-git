@@ -3,11 +3,11 @@ sr: "0.946.291.561"
 title: Abkommen vom 19. November 1998 über Handel und wirtschaftliche Zusammenarbeit zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Armenien
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/11"
 language: de
-version: 2000-01-01
+version: 2026-03-13
 adopted: 1998-11-19
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/11/20000101/de/xml/fedlex-data-admin-ch-eli-cc-2001-11-20000101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/11/20000101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/11/20260313/de/xml/fedlex-data-admin-ch-eli-cc-2001-11-20260313-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/11/20260313/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 18. März 1999[^t-1]
 
 In Kraft getreten durch Notenaustausch am 1. Januar 2000
 
-(Stand am 1. Januar 2000)
+(Stand am 13. März 2026)
 
 [^t-1]: [AS 2001 50](https://fedlex.data.admin.ch/eli/oc/2001/10)
 
@@ -71,13 +71,13 @@ Die Vertragsparteien unternehmen alle Anstrengungen, um ihren Handel im Einklang
 
 <sup>1.</sup> Die Vertragsparteien gewähren sich gegenseitig bezüglich der Zölle und Abgaben jeder Art auf oder in Verbindung mit der Warenein- oder -ausfuhr oder auf internationalen Zahlungstransfers für die Ein- und Ausfuhr sowie der Steuern und anderen Abgaben, welche unmittelbar oder mittelbar auf eingeführte Waren erhoben werden und bezüglich der Verfahren für die Erhebung dieser Zölle, Steuern und Abgaben sowie aller Vorschriften und Formalitäten in Verbindung mit dem Warenverkehr, die Meistbegünstigung.
 
-<sup>2.</sup> Absatz 1 darf nicht dahingehend ausgelegt werden, dass er eine Vertragspartei verpflichtet, die Vergünstigungen, welche sie
+<sup>2.</sup> gewährt, auf die andere Vertragspartei auszudehnen.
 
-gewährt, auf die andere Vertragspartei auszudehnen.
+Absatz 1 darf nicht dahingehend ausgelegt werden, dass er eine Vertragspartei verpflichtet, die Vergünstigungen, welche sie:
 
 - – zur Erleichterung des grenzüberschreitenden Warenverkehrs;
 - – mit dem Ziel, eine Zollunion oder eine Freihandelszone zu errichten oder im Gefolge der Errichtung einer derartigen Union oder Zone im Einklang mit Artikel XXIV des GATT 1994[^3-1];
-- – Entwicklungsländern im Einklang mit dem GATT/WTO oder anderen internationalen Vereinbarungen
+- – Entwicklungsländern im Einklang mit dem GATT/WTO oder anderen internationalen Vereinbarungen;
 
 [^3-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
@@ -178,13 +178,13 @@ In Übereinstimmung mit Artikel 4, Absatz (d) des TRIPS-Abkommens sind alle Vort
 
 **Ausnahmen**
 
-<sup>1.</sup> Unter der Voraussetzung, dass die nachstehend aufgeführten Massnahmen nicht in einer Weise angewandt werden, welche zu einer willkürlichen oder nicht zu rechtfertigenden Diskriminierung des Handels oder zu einer verschleierten Beschränkung des Handels zwischen den Vertragsparteien führen, hindert dieses Abkommen die Vertragsparteien nicht daran, Massnahmen zu treffen, die
+<sup>1.</sup> gerechtfertigt sind, oder solche, auf die sich Artikel XX des GATT 1994 bezieht.
 
-gerechtfertigt sind, oder solche, auf die sich Artikel XX des GATT 1994 bezieht.
+Unter der Voraussetzung, dass die nachstehend aufgeführten Massnahmen nicht in einer Weise angewandt werden, welche zu einer willkürlichen oder nicht zu rechtfertigenden Diskriminierung des Handels oder zu einer verschleierten Beschränkung des Handels zwischen den Vertragsparteien führen, hindert dieses Abkommen die Vertragsparteien nicht daran, Massnahmen zu treffen, die:
 
 - – auf Grund der öffentlichen Sittlichkeit;
 - – zum Schutze des Lebens und der Gesundheit von Menschen, Tieren oder Pflanzen und zum Schutze der Umwelt;
-- – zum Schutze des geistigen Eigentums
+- – zum Schutze des geistigen Eigentums;
 
 <sup>2.</sup> Dieses Abkommen beschränkt das Recht der Vertragsparteien nicht, jedwelche Massnahme auf Grund von Artikel XXI des GATT 1994 zu ergreifen.
 
@@ -194,7 +194,9 @@ gerechtfertigt sind, oder solche, auf die sich Artikel XX des GATT 1994 bezieht.
 
 <sup>1.</sup> Die Vertragsparteien trachten danach, die wirtschaftliche Zusammenarbeit in Bereichen von gemeinsamem Interesse zu fördern.
 
-<sup>2.</sup> Gegenstand dieser Zusammenarbeit ist unter anderem
+<sup>2.</sup>
+
+Gegenstand dieser Zusammenarbeit ist unter anderem:
 
 - – die Festigung und Diversifizierung der Wirtschaftsbindungen zwischen den Vertragsparteien;
 - – die Entwicklung ihrer Volkswirtschaften;
@@ -210,7 +212,9 @@ gerechtfertigt sind, oder solche, auf die sich Artikel XX des GATT 1994 bezieht.
 
 <sup>1.</sup> Zur ordnungsgemässen Durchführung dieses Abkommens wird ein Gemischter Ausschuss eingesetzt. Er setzt sich aus Vertretern der Vertragsparteien zusammen, handelt in gegenseitigem Einvernehmen und tritt so oft dies erforderlich ist, mindestens jedoch einmal jährlich, abwechslungsweise in der Schweiz und in der Republik Armenien zusammen. Der Vorsitz obliegt abwechselnd einer der beiden Vertragsparteien.
 
-<sup>2.</sup> Der Gemischte Ausschuss soll insbesondere
+<sup>2.</sup>
+
+Der Gemischte Ausschuss soll insbesondere:
 
 - – die Durchführung dieses Abkommens, namentlich auch die Auslegung und Anwendung seiner Bestimmungen sowie die Möglichkeit der Erweiterung seines Anwendungsbereichs überprüfen;
 - – in förderlichem Sinne Mittel und Wege prüfen, um die Rahmenbedingungen für die weitere Entwicklung direkter Beziehungen zwischen den im Gebiet der Vertragsparteien niedergelassenen Unternehmen zu verbessern;
@@ -221,7 +225,9 @@ gerechtfertigt sind, oder solche, auf die sich Artikel XX des GATT 1994 bezieht.
 - – als Konsultationsforum gemäss Artikel 9 (Marktverzerrungen) dienen;
 - – als Gremium für Konsultationen über bilaterale Fragen und über Entwicklungen auf internationaler Ebene auf dem Gebiet der Rechte des geistigen Eigentums dienen; derartige Konsultationen können auch zwischen Sachverständigen aus den Vertragsparteien stattfinden;
 - – die wirtschaftliche Zusammenarbeit gemäss Artikel 12 fördern;
-- – neuen Entwicklungen Rechnung tragen im Bemühen, Abänderungsvorschläge zu diesem Abkommen sowie Empfehlungen in Zusammenhang mit der Durchführung des Abkommens und der Erweiterung seines Anwendungsbereiches gemäss Artikel 14 (Überprüfung und Erweiterung) zuhanden der Behörden der Vertragsparteien auszuarbeiten.
+- – neuen Entwicklungen Rechnung tragen im Bemühen, Abänderungsvorschläge zu diesem Abkommen sowie Empfehlungen in Zusammenhang mit der Durchführung des Abkommens und der Erweiterung seines Anwendungsbereiches gemäss Artikel 14 (Überprüfung und Erweiterung) zuhanden der Behörden der Vertragsparteien auszuarbeiten.[^13-1]
+
+[^13-1]: Die Berichtigung vom 13. März 2026 betrifft nur den italienischen Text ([AS 2026 120](https://fedlex.data.admin.ch/eli/oc/2026/120)).
 
 #### Art. 14
 

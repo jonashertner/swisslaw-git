@@ -3,11 +3,11 @@ sr: "0.946.291.561"
 title: "Accord de commerce et de coopération économique du 19 novembre 1998 entre le Conseil fédéral suisse et le Gouvernement de la République d'Arménie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/11"
 language: fr
-version: 2000-01-01
+version: 2026-03-13
 adopted: 1998-11-19
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/11/20000101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-11-20000101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/11/20000101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/11/20260313/fr/xml/fedlex-data-admin-ch-eli-cc-2001-11-20260313-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/11/20260313/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu le 19 novembre 1998 Approuvé par l’Assemblée fédérale le 18 mars 1999[^t-1] Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2000
 
-(État le 1<sup>er</sup> janvier 2000)
+(État le 13 mars 2026)
 
 [^t-1]: [RO 2001 50](https://fedlex.data.admin.ch/eli/oc/2001/10)
 
@@ -219,7 +219,9 @@ Le Comité mixte devra en particulier:
 - – offrir un lieu de rencontre pour des consultations en rapport avec l’art. 9 (Perturbations du marché);
 - – offrir un lieu de rencontre pour des consultations au sujet de problèmes bilatéraux et d’événements internationaux dans le domaine des droits de propriété intellectuelle; de telles consultations peuvent aussi avoir lieu entre experts des Parties contractantes;
 - – développer la coopération économique en application de l’art. 12;
-- – formuler puis soumettre aux autorités des Parties contractantes des amendements au présent Accord pour tenir compte de faits nouveaux, ainsi que des recommandations au sujet de l’exécution du présent Accord et de l’élargissement de son champ d’application au sens de l’art. 14 (Révision de l’Accord et extension du champ d’application).
+- – formuler puis soumettre aux autorités des Parties contractantes des amendements au présent Accord pour tenir compte de faits nouveaux, ainsi que des recommandations au sujet de l’exécution du présent Accord et de l’élargissement de son champ d’application au sens de l’art. 14 (Révision de l’Accord et extension du champ d’application).[^13-1]
+
+[^13-1]: Erratum du 13 mars 2026, ne concerne que le texte italien ([RO 2026 120](https://fedlex.data.admin.ch/eli/oc/2026/120)).
 
 #### Art. 14
 
