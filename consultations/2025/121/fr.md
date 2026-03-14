@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Soutien apporté à la candidature, à la préparation et à la réalisation des Jeux olympiques et paralympiques d’hiver 2038 en Suisse – Arrêté de principe et de planification"
 document: Projet mis en consultation
 language: fr

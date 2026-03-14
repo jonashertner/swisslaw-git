@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Sostegno della candidatura, della prepara-zione e dello svolgimento dei Giochi olimpici e paralimpici invernali 2038 in Svizzera – Decisione di principio e programmatica"
 document: Progetto posto in consultazione
 language: it

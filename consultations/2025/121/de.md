@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Unterstützung der Kandidatur, Vorbereitung und Durchführung der Olympischen und Paralympischen Winterspiele 2038 in der Schweiz – Grundsatz- und Planungsbeschluss"
 document: Vernehmlassungsvorlage
 language: de
