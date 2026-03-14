@@ -4,43 +4,43 @@ number: "172.202"
 title: Verordnung über den elektronischen Rechtsverkehr in Verfahren vor Verwaltungsbehörden
 short: VERV
 language: de
-version: 2014-01-01
-corrected: 2024-06-17
-version_adopted: 2013-11-19
+version: 2026-03-15
+version_adopted: 2026-03-10
 adopted: 2013-11-19
 in_force: 2014-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.202"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/394/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2074/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den elektronischen Rechtsverkehr in Verfahren vor Verwaltungsbehörden (VERV)
+# Verordnung über den elektronischen Rechtsverkehr in Verfahren vor Verwaltungsbehörden
 
-vom 19. November 2013
+(VERV)
+
+Vom 19.11.2013 (Stand 15.03.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 3a des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 20. September 1971[^t-1],
+gestützt auf Art. 3a des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 20. September 1971[^ingress-1],
 
 verordnet:
 
-[^t-1]: SHR 172.200.
+[^ingress-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
-## I. Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
-#### § 1
+#### Art. 1
 
 **Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt den elektronischen Verkehr in Verfahren vor Verwaltungsbehörden des Kantons gemäss Art. 1 des Verwaltungsrechtspflegegesetzes (VRG)[^1-1].
+<sup>1</sup> Diese Verordnung regelt den elektronischen Verkehr, insbesondere die Anforderungen an die elektronischen Eingaben Dritter sowie an die Mitteilungen der Behörden im Verfahren vor Verwaltungsbehörden des Kantons und der Gemeinden gemäss Art. 1 des Verwaltungsrechtspflegegesetzes (VRG)[^1-1].
 
-<sup>2</sup> Für das Verfahren vor Gemeindebehörden gilt diese Verordnung, wenn die Gemeinde den elektronischen Verkehr ausdrücklich vorsieht.
+<sup>2</sup> …
 
-[^1-1]: SHR 172.200.
+[^1-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
-#### § 2
+#### Art. 2
 
 **Zustellplattform**
 
@@ -48,21 +48,21 @@ verordnet:
 
 <sup>2</sup> Die Zustellplattform muss nach Art. 3 der Verordnung des Bundesrates über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren[^2-1] anerkannt sein.
 
-Amtsblatt 2013, S. 1719
+[^2-1]: SR [272.1](http://db.clex.ch/link/Bund/272.1/de).
 
-[^2-1]: SR 272.1.
-
-#### § 3
+#### Art. 3
 
 **Signatur**
 
 <sup>1</sup> Die unterschriftsbedürftigen Dokumente müssen mit einer qualifizierten elektronischen Signatur versehen sein.
 
-<sup>2</sup> Sie muss auf einem qualifizierten Zertifikat eines anerkannten Anbieters von Zertifizierungsdiensten nach dem Bundesgesetz über Zertifizierungsdienste im Bereich der elektronischen Signatur (ZertES)[^3-1] beruhen.
+<sup>2</sup> Behördenseitig ausgestellte Dokumente können auch mit einem elektronischen Siegel versehen sein.
 
-[^3-1]: SR 943.03.
+<sup>3</sup> Die Voraussetzungen für Signatur und Siegel richten sich nach dem Bundesgesetz über die elektronische Signatur vom 18. März 2016 (ZertES)[^3-1]
 
-#### § 4
+[^3-1]: SR [943.03](http://db.clex.ch/link/Bund/943.03/de).
+
+#### Art. 4
 
 **Format**
 
@@ -70,21 +70,21 @@ Amtsblatt 2013, S. 1719
 
 <sup>2</sup> Die Behörde kann die Formatgrösse von Eingaben beschränken und bei Bedarf verlangen, dass Eingaben oder Beilagen in Papierform nachgereicht werden.
 
-## II. Eingaben an eine Behörde
+## 2 Eingaben an eine Behörde
 
-#### § 5
+#### Art. 5
 
 **Zustelladresse**
 
-Eingaben an eine Behörde sind an die Adresse auf der von ihr verwendeten Zustellplattform zu senden.
+<sup>1</sup> Eingaben an eine Behörde sind an die Adresse auf der von ihr verwendeten Zustellplattform zu senden.
 
-#### § 6
+#### Art. 6
 
 **Zertifikat**
 
-Ist das qualifizierte Zertifikat mit dem Signaturprüfschlüssel weder im Verzeichnis der anerkannten Anbieter gemäss ZertES aufgeführt noch auf der von der Behörde verwendeten Zustellplattform zugänglich, so muss es der Sendung beigefügt werden.
+<sup>1</sup> Ist das qualifizierte Zertifikat mit dem Signaturprüfschlüssel weder im Verzeichnis der anerkannten Anbieter gemäss ZertES aufgeführt noch auf der von der Behörde verwendeten Zustellplattform zugänglich, so muss es der Sendung beigefügt werden.
 
-#### § 7
+#### Art. 7
 
 **Signaturprüfung und Papierausdruck**
 
@@ -92,15 +92,15 @@ Ist das qualifizierte Zertifikat mit dem Signaturprüfschlüssel weder im Verzei
 
 <sup>2</sup> Sie fügt dem Papierausdruck das Ergebnis der Signaturprüfung bei sowie eine Bestätigung, dass der Ausdruck den Inhalt der elektronischen Eingabe korrekt wiedergibt.
 
-#### § 8
+#### Art. 8
 
 **Fristwahrung**
 
-Der Fristenlauf gemäss Art. 9 Abs. 2 VRG ist gewahrt, wenn die Zustellplattform den Empfang vor Ablauf der Frist bestätigt hat.
+<sup>1</sup> Der Fristenlauf gemäss Art. 9 Abs. 2 VRG ist gewahrt, wenn die Zustellplattform den Empfang vor Ablauf der Frist bestätigt hat.
 
-## III. Zustellung durch eine Behörde
+## 3 Zustellung durch eine Behörde
 
-#### § 9
+#### Art. 9
 
 **Zustimmung**
 
@@ -110,13 +110,13 @@ Der Fristenlauf gemäss Art. 9 Abs. 2 VRG ist gewahrt, wenn die Zustellplattform
 
 <sup>3</sup> Zustimmung und Widerruf müssen schriftlich erfolgen; sie können auch mündlich zu Protokoll gegeben werden. Eine elektronische Eingabe gilt als Zustimmung für elektronische Zustellungen durch die Behörde im konkreten Verfahren.
 
-#### § 10
+#### Art. 10
 
 **Modalitäten**
 
-Wer Zustellungen von einer Behörde auf elektronischem Weg erhalten will, hat die Zustellplattform zu bezeichnen und sich dort eintragen zu lassen.
+<sup>1</sup> Wer Zustellungen von einer Behörde auf elektronischem Weg erhalten will, hat die Zustellplattform zu bezeichnen und sich dort eintragen zu lassen.
 
-#### § 11
+#### Art. 11
 
 **Zeitpunkt der Zustellung**
 
@@ -124,9 +124,9 @@ Wer Zustellungen von einer Behörde auf elektronischem Weg erhalten will, hat di
 
 <sup>2</sup> Eine Zustellung, die nicht heruntergeladen wird, gilt am siebten Tag nach der Bereitstellung als zugestellt.
 
-## IV. Schlussbestimmungen
+## 4 Schlussbestimmungen
 
-#### § 12
+#### Art. 12
 
 **Inkrafttreten**
 
@@ -134,6 +134,6 @@ Wer Zustellungen von einer Behörde auf elektronischem Weg erhalten will, hat di
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^12-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
-
 [^12-1]: Amtsblatt 2013, S. 1719.
+
+Abl. 2013, S. 1719
