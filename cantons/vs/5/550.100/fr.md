@@ -5,11 +5,12 @@ title: Ordonnance de la loi sur la police cantonale
 short: OPol
 language: fr
 version: 2024-11-01
+corrected: 2026-03-16
 version_adopted: 2024-10-30
 adopted: 2017-12-20
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3590/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3391/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -354,7 +355,7 @@ ordonne:[^ingress-1]
 - a) un groupe juridique;
 - b) un groupe séquestres.
 
-<sup>2</sup> Elle est en charge des aspects juridiques et législatifs relevant de la compétence de la police cantonale. Elle veille également à l'application de la législation en matière d'armes, d'entreprises de sécurité et de séquestres.
+<sup>2</sup> Elle est en charge des aspects juridiques et législatifs relavant de la compétence de la police cantonale. Elle veille également à l'application de la législation en matière d'armes, d'entreprises de sécurité et de séquestres.
 
 #### Art. 23
 

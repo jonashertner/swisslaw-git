@@ -5,11 +5,12 @@ title: Verordnung zum Gesetz über die Kantonspolizei
 short: PolV
 language: de
 version: 2024-11-01
+corrected: 2026-03-16
 version_adopted: 2024-10-30
 adopted: 2017-12-20
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.100"
-pdf: "https://lex.vs.ch/api/de/versions/3590/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3391/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
