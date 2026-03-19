@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale régissant la taxe sur la valeur ajoutée (LTVA)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Mehrwertsteuer (MWSTG)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge concernente l’imposta sul valore aggiunto (LIVA)
 document: Progetto posto in consultazione
 language: it
