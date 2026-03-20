@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die separate Besteuerung von Geldspielgewinnen am steuerrechtlichen Wohnsitz im Zeitpunkt der Resultatermittlung (Umsetzung Mo. Zanetti 23.3701)
 document: Vernehmlassungsvorlage
 language: de

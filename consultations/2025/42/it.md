@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sull’imposizione separata delle vincite da giochi in denaro al domicilio fiscale al momento dell’ottenimento del risultato (attuazione mo. Zanetti 23.3701)
 document: Progetto posto in consultazione
 language: it

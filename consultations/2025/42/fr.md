@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur l’imposition séparée des gains provenant de jeux d’argent au domicile fiscal au moment de la détermination du résultat (mise en œuvre mo. Zanetti 23.3701)
 document: Projet mis en consultation
 language: fr
