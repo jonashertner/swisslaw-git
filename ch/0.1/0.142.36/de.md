@@ -3,30 +3,31 @@ sr: "0.142.36"
 title: "Abkommen vom 1. Juni 1993 über die Einrichtung und den Betrieb des Internationalen Zentrums für Migrationspolitikentwicklung (ICMPD) in Wien, abgeändert am 27. März 1996, am 26. April 1996 sowie am 25. Juni 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/93"
 language: de
-version: 2004-04-30
+version: 2026-03-23
 adopted: 1993-06-01
 in_force: 1993-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/93/20040430/de/xml/fedlex-data-admin-ch-eli-cc-2005-93-20040430-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/93/20040430/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/93/20260323/de/xml/fedlex-data-admin-ch-eli-cc-2005-93-20260323-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/93/20260323/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich über die Einrichtung und den Betrieb des Internationalen Zentrums für Migrationspolitikentwicklung (ICMPD) in Wien
+# Abkommen über die Einrichtung und den Betrieb des Internationalen Zentrums für Migrationspolitikentwicklung (ICMPD) in Wien, abgeändert am 27. März 1996, am 26. April 1996 sowie am 25. Juni 2003
 
-AS **2005** 757; BBl **2003** 3723, **2004** 3179
+AS **2005** 757; BBl **2003** 3723, **2004** 3179[^t-1]
 
 Originaltext
 
 Abgeschlossen in Wien am 1. Juni 1993
 
-Von der Bundesversammlung genehmigt am 18. Juni 2004[^t-1]
+Von der Bundesversammlung genehmigt am 18. Juni 2004[^t-2]
 
 Rückwirkend in Kraft getreten für die Schweiz am 1. Mai 1993
 
-(Stand am 30. April 2004)
+(Stand am 23. März 2026)
 
-[^t-1]: [AS 2005 755](https://fedlex.data.admin.ch/eli/oc/2005/92)
+[^t-1]: Fassung gemäss Änderung vom 26. April 1996 ([AS 2026 128](https://fedlex.data.admin.ch/eli/oc/2026/128)).
+[^t-2]: [AS 2005 755](https://fedlex.data.admin.ch/eli/oc/2005/92)
 
 #### Art. 1
 
@@ -159,17 +160,32 @@ Wien, den 1. Juni 1993.
 
 [^12-1]: Neue Nummerierung infolge der Aufhebung von Art. 11 durch Art. 1 Ziff. 2 und 3 des Abk. vom 25. Juni 2003, mit Wirkung für die Schweiz am 30. April 2004 ([AS 2005 763](https://fedlex.data.admin.ch/eli/oc/2005/94)).
 
-Geltungsbereich des Abkommens am 13. Dezember 2004
+Geltungsbereich am 23. März 2026[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Bulgarien</td><td>29. April</td><td>2004</td><td>30. April</td><td>2004</td></tr>
-<tr><td>Kroatien</td><td>14. September</td><td>2004</td><td>30. April</td><td>2004</td></tr>
-<tr><td>Österreich</td><td>30. März</td><td>2004</td><td>30. April</td><td>2004</td></tr>
-<tr><td>Polen</td><td>6. Dezember</td><td>2004</td><td>30. April</td><td>2004</td></tr>
-<tr><td>Schweden</td><td>1. Oktober</td><td>2003</td><td>30. April</td><td>2004</td></tr>
-<tr><td>Schweiz</td><td>12. November</td><td>2004</td><td>30. April</td><td>2004</td></tr>
-<tr><td>Slowenien</td><td>7. Dezember</td><td>2004</td><td>30. April</td><td>2004</td></tr>
-<tr><td>Tschechische Republik</td><td>21. April</td><td>2004</td><td>30. April</td><td>2004</td></tr>
-<tr><td>Ungarn</td><td>24. Juni</td><td>2004</td><td>30. April</td><td>2004</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>11. Juni</td><td>2012 B</td><td>11. Juni</td><td>2012</td></tr>
+<tr><td>Bulgarien</td><td>27. Juni</td><td>2003</td><td>27. Juni</td><td>2003</td></tr>
+<tr><td>Deutschland</td><td>22. April</td><td>2020 B</td><td>22. April</td><td>2020</td></tr>
+<tr><td>Griechenland</td><td>18. Oktober</td><td>2021 B</td><td>18. Oktober</td><td>2021</td></tr>
+<tr><td>Irland</td><td>18. Juli</td><td>2024 B</td><td>18. Juli</td><td>2024</td></tr>
+<tr><td>Kroatien</td><td>16. März</td><td>2004 B</td><td>30. April</td><td>2004</td></tr>
+<tr><td>Malta</td><td>27. April</td><td>2018 B</td><td>27. April</td><td>2018</td></tr>
+<tr><td>Niederlande <sup>b</sup></td><td>21. April</td><td>2023 B</td><td>21. April</td><td>2023</td></tr>
+<tr><td>Nordmazedonien</td><td>9. September</td><td>2015 B</td><td>9. September</td><td>2015</td></tr>
+<tr><td>Österreich <sup>a</sup></td><td>1. Juni</td><td>1993</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Polen</td><td>28. November</td><td>2003</td><td>28. November</td><td>2003</td></tr>
+<tr><td>Portugal</td><td>25. September</td><td>2018</td><td>30. April</td><td>2004</td></tr>
+<tr><td>Rumänien</td><td>24. Oktober</td><td>2011 B</td><td>24. Oktober</td><td>2011</td></tr>
+<tr><td>Schweden</td><td>2. Dezember</td><td>2002 B</td><td>2. Dezember</td><td>2002</td></tr>
+<tr><td>Schweiz <sup>a</sup></td><td>1. Juni</td><td>1993</td><td>1. Mai</td><td>1993</td></tr>
+<tr><td>Serbien</td><td>22. Januar</td><td>2014 B</td><td>22. Januar</td><td>2014</td></tr>
+<tr><td>Slowakei</td><td>10. Februar</td><td>2006 B</td><td>10. Februar</td><td>2006</td></tr>
+<tr><td>Slowenien</td><td>6. August</td><td>1998 B</td><td>30. April</td><td>2004</td></tr>
+<tr><td>Tschechische Republik</td><td>26. September</td><td>2001 B</td><td>26. September</td><td>2001</td></tr>
+<tr><td>Türkei</td><td>1. Mai</td><td>2018 B</td><td>1. Mai</td><td>2018</td></tr>
+<tr><td>Ungarn</td><td>8. September</td><td>1995 B</td><td>30. April</td><td>2004</td></tr>
+<tr><td colspan="5"><sup>a</sup> Rückwirkend in Kraft getreten am 1. Mai 1993 gemäss Artikel 12 des Abkommens in der Fassung vom 1. Juni 1993. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
+
+[^t-3]: [AS 2026 128](https://fedlex.data.admin.ch/eli/oc/2026/128). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).

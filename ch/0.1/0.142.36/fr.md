@@ -3,20 +3,20 @@ sr: "0.142.36"
 title: "Accord du 1<sup>er</sup> juin 1993 concernant l’établissement et le fonctionnement du Centre international pour le développement des politiques migratoires (CIDPM) à Vienne, modifié le 27 mars 1996, le 26 avril 1996 ainsi que le 25 juin 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/93"
 language: fr
-version: 2004-04-30
+version: 2026-03-23
 adopted: 1993-06-01
 in_force: 1993-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/93/20040430/fr/xml/fedlex-data-admin-ch-eli-cc-2005-93-20040430-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/93/20040430/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/93/20260323/fr/xml/fedlex-data-admin-ch-eli-cc-2005-93-20260323-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/93/20260323/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord entre la Confédération suisse et la République d’Autriche concernant l’établissement et le fonctionnement du Centre international pour le développement de politiques migratoires (CIDPM) à Vienne
+# Accord du 1<sup>er</sup> juin 1993 concernant l’établissement et le fonctionnement du Centre international pour le développement des politiques migratoires (CIDPM) à Vienne, modifié le 27 mars 1996, le 26 avril 1996 ainsi que le 25 juin 2003
 
-RO **2005** 757; FF **2003** 3297
+RO **2005** 757; FF **2003** 3297[^t-1]
 
-Traduction*[^t-1]*
+Traduction
 
 Conclu à Vienne le 1<sup>er</sup> juin 1993
 
@@ -24,9 +24,9 @@ Approuvé par l’Assemblée fédérale le 18 juin 2004[^t-2]
 
 Entré en vigueur pour la Suisse avec effet rétroactif le 1<sup>er</sup> mai 1993
 
-(Etat le 30 avril 2004)
+(État le 23 mars 2026)
 
-[^t-1]: Texte original allemand.
+[^t-1]: Nouvelle teneur selon la mod. du 26 avr. 1996 ([RO 2026 128](https://fedlex.data.admin.ch/eli/oc/2026/128)).
 [^t-2]: [RO 2005 755](https://fedlex.data.admin.ch/eli/oc/2005/92)
 
 #### Art. 1
@@ -156,17 +156,32 @@ Le présent Accord entre en vigueur avec effet rétroactif le 1<sup>er</sup> mai
 
 Vienne, le 1<sup>er</sup> juin 1993. Pour la Confédération suisse: P. Arbenz Pour la République d’Autriche: M. Matzka
 
-Champ d’application de l’Accord le 13 décembre 2004
+Champ d’application le 23 mars 2026[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Autriche</td><td>30 mars</td><td>2004</td><td>30 avril</td><td>2004</td></tr>
-<tr><td>Bulgarie</td><td>29 avril</td><td>2004</td><td>30 avril</td><td>2004</td></tr>
-<tr><td>Croatie</td><td>14 septembre</td><td>2004</td><td>30 avril</td><td>2004</td></tr>
-<tr><td>Hongrie</td><td>24 juin</td><td>2004</td><td>30 avril</td><td>2004</td></tr>
-<tr><td>Pologne</td><td>6 décembre</td><td>2004</td><td>30 avril</td><td>2004</td></tr>
-<tr><td>République tchèque</td><td>21 avril</td><td>2004</td><td>30 avril</td><td>2004</td></tr>
-<tr><td>Slovénie</td><td>7 décembre</td><td>2004</td><td>30 avril</td><td>2004</td></tr>
-<tr><td>Suède</td><td>1<sup>er</sup> octobre</td><td>2003</td><td>30 avril</td><td>2004</td></tr>
-<tr><td>Suisse</td><td>12 novembre</td><td>2004</td><td>30 avril</td><td>2004</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>22 avril</td><td>2020 A</td><td>22 avril</td><td>2020</td></tr>
+<tr><td>Autriche <sup>a</sup></td><td>1<sup>er</sup> juin</td><td>1993</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>11 juin</td><td>2012 A</td><td>11 juin</td><td>2012</td></tr>
+<tr><td>Bulgarie</td><td>27 juin</td><td>2003</td><td>27 juin</td><td>2003</td></tr>
+<tr><td>Croatie</td><td>16 mars</td><td>2004 A</td><td>30 avril</td><td>2004</td></tr>
+<tr><td>Grèce</td><td>18 octobre</td><td>2021 A</td><td>18 octobre</td><td>2021</td></tr>
+<tr><td>Hongrie</td><td>8 septembre</td><td>1995 A</td><td>30 avril</td><td>2004</td></tr>
+<tr><td>Irlande</td><td>18 juillet</td><td>2024 A</td><td>18 juillet</td><td>2024</td></tr>
+<tr><td>Macédoine du Nord</td><td>9 septembre</td><td>2015 A</td><td>9 septembre</td><td>2015</td></tr>
+<tr><td>Malte</td><td>27 avril</td><td>2018 A</td><td>27 avril</td><td>2018</td></tr>
+<tr><td>Pays-Bas <sup>b</sup></td><td>21 avril</td><td>2023 A</td><td>21 avril</td><td>2023</td></tr>
+<tr><td>Pologne</td><td>28 novembre</td><td>2003</td><td>28 novembre</td><td>2003</td></tr>
+<tr><td>Portugal</td><td>25 septembre</td><td>2018</td><td>30 avril</td><td>2004</td></tr>
+<tr><td>République tchèque</td><td>26 septembre</td><td>2001 A</td><td>26 septembre</td><td>2001</td></tr>
+<tr><td>Roumanie</td><td>24 octobre</td><td>2011 A</td><td>24 octobre</td><td>2011</td></tr>
+<tr><td>Serbie</td><td>22 janvier</td><td>2014 A</td><td>22 janvier</td><td>2014</td></tr>
+<tr><td>Slovaquie</td><td>10 février</td><td>2006 A</td><td>10 février</td><td>2006</td></tr>
+<tr><td>Slovénie</td><td>6 août</td><td>1998 A</td><td>30 avril</td><td>2004</td></tr>
+<tr><td>Suisse <sup>a</sup></td><td>1<sup>er</sup> juin</td><td>1993</td><td>1<sup>er</sup> mai</td><td>1993</td></tr>
+<tr><td>Suède</td><td>2 décembre</td><td>2002 A</td><td>2 décembre</td><td>2002</td></tr>
+<tr><td>Turquie</td><td>1<sup>er</sup> mai</td><td>2018 A</td><td>1<sup>er</sup> mai</td><td>2018</td></tr>
+<tr><td colspan="5"><sup>a</sup> Entré en vigueur avec effet rétroactif au 1<sup>er</sup> mai 1993, conformément à l’art. 12 de l’accord dans sa version du 1<sup>er</sup> juin 1993. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
+
+[^t-3]: [RO 2026 128](https://fedlex.data.admin.ch/eli/oc/2026/128). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).

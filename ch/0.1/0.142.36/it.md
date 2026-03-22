@@ -3,30 +3,29 @@ sr: "0.142.36"
 title: "Accordo del 1° giugno 1993 concernente l’istituzione e il funzionamento del Centro internazionale per lo sviluppo delle politiche migratorie (ICMPD) a Vienna, modificato il 27 marzo 1996, il 26 aprile 1996 e il 25 giugno 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/93"
 language: it
-version: 2004-04-30
+version: 2026-03-23
 adopted: 1993-06-01
 in_force: 1993-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/93/20040430/it/xml/fedlex-data-admin-ch-eli-cc-2005-93-20040430-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/93/20040430/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/93/20260323/it/xml/fedlex-data-admin-ch-eli-cc-2005-93-20260323-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/93/20260323/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo
+# Accordo del 1° giugno 1993 concernente l’istituzione e il funzionamento del Centro internazionale per lo sviluppo delle politiche migratorie (ICMPD) a Vienna, modificato il 27 marzo 1996, il 26 aprile 1996 e il 25 giugno 2003
+
+RU **2005** 757; FF **2003** 3181
 
 Traduzione
 
-tra la Confederazione Svizzera e la Repubblica d’Austria concernente l’istituzione e il funzionamento del Centro internazionale per lo sviluppo delle politiche migratorie (ICMPD) a Vienna
+Accordo del 1° giugno 1993 concernente l’istituzione e il funzionamento del Centro internazionale per lo sviluppo delle politiche migratorie (ICMPD) a Vienna, modificato il 27 marzo 1996, il 26 aprile 1996 e il 25 giugno 2003[^t-1]
 
-Concluso a Vienna il 1° giugno 1993
+Concluso a Vienna il 1° giugno 1993 Approvato dall’Assemblea federale il 18 giugno 2004[^t-2] Entrato in vigore per la Svizzera retroattivamente il 1° maggio 1993
 
-Approvato dall’Assemblea federale il 18 giugno 2004[^t-1]
+(Stato 23 marzo 2026)
 
-Entrato in vigore per la Svizzera retroattivamente il 1° maggio 1993
-
-(Stato 30 aprile 2004)
-
-[^t-1]: [RU 2005 755](https://fedlex.data.admin.ch/eli/oc/2005/92)
+[^t-1]: Nuovo testo giusta la mod. 26 apr. 1996 ([RU 2026 128](https://fedlex.data.admin.ch/eli/oc/2026/128)).
+[^t-2]: [RU 2005 755](https://fedlex.data.admin.ch/eli/oc/2005/92)
 
 #### Art. 1
 
@@ -159,17 +158,32 @@ Vienna, 1° giugno 1993
 
 [^12-1]: Nuova numerazione a seguito dell’abrogazione dell’art. 11 da parte dell’art. 1 n. 2 e 3 dell’Acc. del 25 giu. 2003, con effetto per la Svizzera dal 30 apr. 2004 ([RU 2005 763](https://fedlex.data.admin.ch/eli/oc/2005/94)).
 
-Campo d’applicazione il 13 dicembre 2004
+Campo d’applicazione il 23 marzo 2026[^t-3]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Austria</td><td>30 marzo</td><td>2004</td><td>30 aprile</td><td>2004</td></tr>
-<tr><td>Bulgaria</td><td>29 aprile</td><td>2004</td><td>30 aprile</td><td>2004</td></tr>
-<tr><td>Ceca, Repubblica</td><td>21 aprile</td><td>2004</td><td>30 aprile</td><td>2004</td></tr>
-<tr><td>Croazia</td><td>14 settembre</td><td>2004</td><td>30 aprile</td><td>2004</td></tr>
-<tr><td>Polonia</td><td>6 dicembre</td><td>2004</td><td>30 aprile</td><td>2004</td></tr>
-<tr><td>Slovenia</td><td>7 dicembre</td><td>2004</td><td>30 aprile</td><td>2004</td></tr>
-<tr><td>Svezia</td><td>1° ottobre</td><td>2003</td><td>30 aprile</td><td>2004</td></tr>
-<tr><td>Svizzera</td><td>12 novembre</td><td>2004</td><td>30 aprile</td><td>2004</td></tr>
-<tr><td>Ungheria</td><td>24 giugno</td><td>2004</td><td>30 aprile</td><td>2004</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Austria <sup>a</sup></td><td>1° giugno</td><td>1993</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>11 giugno</td><td>2012 A</td><td>11 giugno</td><td>2012</td></tr>
+<tr><td>Bulgaria</td><td>27 giugno</td><td>2003</td><td>27 giugno</td><td>2003</td></tr>
+<tr><td>Croazia</td><td>16 marzo</td><td>2004 A</td><td>30 aprile</td><td>2004</td></tr>
+<tr><td>Germania</td><td>22 aprile</td><td>2020 A</td><td>22 aprile</td><td>2020</td></tr>
+<tr><td>Grecia</td><td>18 ottobre</td><td>2021 A</td><td>18 ottobre</td><td>2021</td></tr>
+<tr><td>Irlanda</td><td>18 luglio</td><td>2024 A</td><td>18 luglio</td><td>2024</td></tr>
+<tr><td>Macedonia del Nord</td><td>9 settembre</td><td>2015 A</td><td>9 settembre</td><td>2015</td></tr>
+<tr><td>Malta</td><td>27 aprile</td><td>2018 A</td><td>27 aprile</td><td>2018</td></tr>
+<tr><td>Paesi Bassi <sup>b</sup></td><td>21 aprile</td><td>2023 A</td><td>21 aprile</td><td>2023</td></tr>
+<tr><td>Polonia</td><td>28 novembre</td><td>2003</td><td>28 novembre</td><td>2003</td></tr>
+<tr><td>Portogallo</td><td>25 settembre</td><td>2018</td><td>30 aprile</td><td>2004</td></tr>
+<tr><td>Repubblica Ceca</td><td>26 settembre</td><td>2001 A</td><td>26 settembre</td><td>2001</td></tr>
+<tr><td>Romania</td><td>24 ottobre</td><td>2011 A</td><td>24 ottobre</td><td>2011</td></tr>
+<tr><td>Serbia</td><td>22 gennaio</td><td>2014 A</td><td>22 gennaio</td><td>2014</td></tr>
+<tr><td>Slovacchia</td><td>10 febbraio</td><td>2006 A</td><td>10 febbraio</td><td>2006</td></tr>
+<tr><td>Slovenia</td><td>6 agosto</td><td>1998 A</td><td>30 aprile</td><td>2004</td></tr>
+<tr><td>Svezia</td><td>2 dicembre</td><td>2002 A</td><td>2 dicembre</td><td>2002</td></tr>
+<tr><td>Svizzera <sup>a</sup></td><td>1° giugno</td><td>1993</td><td>1° maggio</td><td>1993</td></tr>
+<tr><td>Turchia</td><td>1° maggio</td><td>2018 A</td><td>1° maggio</td><td>2018</td></tr>
+<tr><td>Ungheria</td><td>8 settembre</td><td>1995 A</td><td>30 aprile</td><td>2004</td></tr>
+<tr><td colspan="5"><sup>a</sup> Entrato in vigore con effetto retroattivo al 1° mag. 1993, conformemente all’art. 12 dell’Acc. nella versione del 1° giu. 1993. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
+
+[^t-3]: [RU 2026 128](https://fedlex.data.admin.ch/eli/oc/2026/128). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
