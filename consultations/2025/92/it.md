@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale della legge federale sulle imprese di armamento della Confederazione (LAAC) e trasformazione della RUAG MRO in una società anonima di diritto speciale
 document: Progetto posto in consultazione
 language: it

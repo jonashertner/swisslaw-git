@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision totale de la loi fédérale sur les entreprises d'armement de la Confédération (LEAC) et transformation de RUAG MRO en une société anonyme de droit public"
 document: Projet mis en consultation
 language: fr

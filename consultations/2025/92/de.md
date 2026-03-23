@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision des Bundesgesetzes über Rüstungsunternehmen des Bundes (BGRB) und Überführung der RUAG MRO in eine spezialgesetzliche Aktiengesellschaft
 document: Vernehmlassungsvorlage
 language: de
