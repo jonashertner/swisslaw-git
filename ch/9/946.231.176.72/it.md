@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-03-20
+version: 2026-03-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260320/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260320-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260320/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260327/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260327-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260327/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 20 marzo 2026)
+del 4 marzo 2022 (Stato 27 marzo 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2090,7 +2090,10 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - b. contabilità, revisione contabile, compresa la revisione legale dei conti, tenuta della contabilità, consulenza fiscale, consulenze aziendali e gestionali nonché relazioni pubbliche;
 - c. edilizia, architettura, ingegneria, ingegneria integrata, urbanistica, servizi connessi di consulenza scientifica e tecnica legati a servizi di ingegneria e servizi tecnici di verifica e analisi;
 - d. pubblicità, ricerca di mercato e sondaggi di opinione;
-- e. consulenza informatica.
+- e. consulenza informatica;
+- f. servizi spaziali commerciali nel campo dell’osservazione della Terra e della navigazione satellitare;
+- g. servizi nel campo dell’intelligenza artificiale (IA) relativi all’accesso a modelli o piattaforme per l’addestramento, la messa a punto e l’inferenza dell’IA;
+- h. servizi di calcolo a elevate prestazioni, compreso l’accesso a tecnologie di calcolo accelerate da processori grafici, e servizi di informatica quantistica.
 
 <sup>2</sup> I divieti di cui al capoverso 1 lettere a–c ed e si applicano anche alle persone giuridiche, imprese o organizzazioni nei territori designati di cui all’allegato 6.
 
@@ -2162,7 +2165,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>16</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di cui al capoverso 1 lettera f per i servizi necessari per la cooperazione intergovernativa nei programmi spaziali.
 
-[^28e-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
+[^28e-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026, ad eccezione del cpv. 1 lett. f–h, in vigore dal 27 mar. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 
 #### Art. 28f
 

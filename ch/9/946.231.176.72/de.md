@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-03-20
+version: 2026-03-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260320/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260320-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260320/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260327/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260327-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260327/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 20. März 2026)
+vom 4. März 2022 (Stand am 27. März 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2094,7 +2094,10 @@ Die direkte oder indirekte Erbringung von Dienstleistungen in den folgenden Bere
 - b. Rechnungswesen, Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung, Steuerberatung und Unternehmens- und Managementberatung, und Öffentlichkeitsarbeit;
 - c. Bauwesen, Architektur, Ingenieurwesen, integriertes Ingenieurwesen, Stadtplanung, mit Ingenieurdienstleistungen zusammenhängende wissenschaftliche und technische Beratungsdienstleistungen und technische Prüf- und Analysedienste;
 - d. Werbung, Markt- und Meinungsforschung;
-- e. IT-Beratung.
+- e. IT-Beratung;
+- f. gewerbliche weltraumgestützte Dienstleistungen in Bezug auf Erdbeobachtung und Satellitennavigation;
+- g. Dienstleistungen im Bereich der künstlichen Intelligenz in Bezug auf den Zugang zu Modellen oder Plattformen für deren Training, Feinabstimmung und Inferenz;
+- h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen.
 
 <sup>2</sup> Die Verbote nach Absatz 1 Buchstaben a–c und e gelten auch für juristische Personen, Unternehmen oder Organisationen in den in Anhang 6 bezeichneten Gebieten.
 
@@ -2166,7 +2169,7 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 <sup>16</sup> Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 Buchstabe f bewilligen für Dienstleistungen, die erforderlich sind für die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen.
 
-[^28e-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
+[^28e-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026, Abs. 1 Bst. f–h in Kraft seit 27. März 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 
 #### Art. 28f
 
