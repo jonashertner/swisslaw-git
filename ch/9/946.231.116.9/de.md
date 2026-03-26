@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2026-02-26
+version: 2026-03-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20260226/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20260226-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20260226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20260327/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20260327-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20260327/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 26. Februar 2026)
+vom 16. März 2022 (Stand am 27. März 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -955,7 +955,10 @@ Die direkte oder indirekte Erbringung von Dienstleistungen in den folgenden Bere
 - b. Rechnungswesen, Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung, Steuerberatung und Unternehmens- und Managementberatung, und Öffentlichkeitsarbeit;
 - c. Bauwesen, Architektur, Ingenieurwesen, integriertes Ingenieurwesen, Stadtplanung, mit Ingenieurdienstleistungen zusammenhängende wissenschaftliche und technische Beratungsdienstleistungen und technische Prüf- und Analysedienste;
 - d. Werbung, Markt- und Meinungsforschung;
-- e. IT-Beratung.
+- e. IT-Beratung;
+- f. gewerbliche weltraumgestützte Dienstleistungen in Bezug auf Erdbeobachtung und Satellitennavigation;
+- g. Dienstleistungen im Bereich der künstlichen Intelligenz in Bezug auf den Zugang zu Modellen oder Plattformen für deren Training, Feinabstimmung und Inferenz;
+- h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen.
 
 <sup>2</sup> Der Verkauf, die Lieferung, die Ausfuhr, der Transport und die Bereitstellung von Software für die Unternehmensführung, für Industriedesign und Fertigung sowie für den Banken- und Finanzsektor nach Anhang 27 an die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder natürliche oder juristische Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, sowie die Durchfuhr dieser Software durch die Schweiz sind verboten.
 
@@ -1028,7 +1031,7 @@ Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausna
 
 <sup>13</sup> Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 Buchstaben g und h sowie 2 bewilligen für Dienstleistungen und Software, die erforderlich sind für den Beitrag belarussischer Staatsangehöriger in Belarus zu internationalen Open-Source-Projekten.
 
-[^24b-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026 ([AS 2026 91](https://fedlex.data.admin.ch/eli/oc/2026/91)).
+[^24b-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026, Abs. 1 Bst. f–h in Kraft seit 27. März 2026 ([AS 2026 91](https://fedlex.data.admin.ch/eli/oc/2026/91)).
 
 ## 4. Abschnitt: Weitere Beschränkungen
 

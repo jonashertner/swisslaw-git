@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2026-02-26
+version: 2026-03-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20260226/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20260226-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20260226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20260327/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20260327-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20260327/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 26 febbraio 2026)
+del 16 marzo 2022 (Stato 27 marzo 2026)
 
 Il Consiglio federale svizzero,
 
@@ -473,7 +473,7 @@ Il divieto di cui al capoverso 1 non si applica ai beni:
 
 - a. necessari per le attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera o dei suoi partner in Bielorussia o di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
 - b. destinati a uso personale da parte di collaboratori delle rappresentanze e organizzazioni di cui alla lettera a;
-- c.[^10e-2] …
+- c.[^10e-2] ...
 
 <sup>5</sup> La SECO può autorizzare deroghe al divieto di cui al capoverso 1 per il trasferimento o l’esportazione in Bielorussia di beni culturali in prestito nel contesto della cooperazione culturale ufficiale con la Bielorussia.
 
@@ -954,7 +954,10 @@ D’intesa con i servizi competenti del DFAE, del Dipartimento federale dell’a
 - b. contabilità, revisione contabile, compresa la revisione legale dei conti, tenuta della contabilità, consulenza fiscale, consulenze aziendali e gestionali nonché relazioni pubbliche;
 - c. edilizia, architettura, ingegneria, ingegneria integrata, urbanistica, servizi connessi di consulenza scientifica e tecnica legati a servizi di ingegneria e servizi tecnici di verifica e analisi;
 - d. pubblicità, ricerca di mercato e sondaggi di opinione;
-- e. consulenza informatica.
+- e. consulenza informatica;
+- f. servizi spaziali commerciali nel campo dell’osservazione della Terra e della navigazione satellitare;
+- g. servizi nel campo dell’intelligenza artificiale (IA) relativi all’accesso a modelli o piattaforme per l’addestramento, la messa a punto e l’inferenza dell’IA;
+- h. servizi di calcolo a elevate prestazioni, compreso l’accesso a tecnologie di calcolo accelerate da processori grafici, e servizi di informatica quantistica.
 
 <sup>2</sup> Sono vietati la vendita, la fornitura, l’esportazione, il trasporto e la messa a disposizione di software gestionali per le imprese, di software di progettazione e fabbricazione industriali nonché di software per il settore bancario e finanziario di cui all’allegato 27, alla Repubblica di Bielorussia, al suo governo, ai suoi enti, imprese e agenzie pubblici, o a persone fisiche o giuridiche, organizzazioni o organismi che agiscono per conto o sotto la direzione della Repubblica di Bielorussia, del suo governo, dei suoi enti pubblici, imprese o agenzie pubbliche, nonché il transito di tali software attraverso la Svizzera.
 
@@ -1027,7 +1030,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>13</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 lettere g e h nonché 2 per i servizi e i software necessari per il contributo di cittadini bielorussi a progetti open source internazionali in Bielorussia.
 
-[^24b-1]: Introdotto dalla cifra I dell’O del 30 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 ([RU 2026 91](https://fedlex.data.admin.ch/eli/oc/2026/91)).
+[^24b-1]: Introdotto dalla cifra I dell’O del 30 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 ad eccezione del cpv. 1 lett. f–h in vigore dal 27 mar. 2026 ([RU 2026 91](https://fedlex.data.admin.ch/eli/oc/2026/91)).
 
 ## Sezione 4: Ulteriori restrizioni
 

@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2026-02-26
+version: 2026-03-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20260226/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20260226-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20260226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20260327/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20260327-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20260327/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 26 février 2026)
+du 16 mars 2022 (État le 27 mars 2026)
 
 Le Conseil fédéral suisse,
 
@@ -952,7 +952,10 @@ La fourniture, directe ou indirecte, des services suivants au Bélarus, à son g
 - b. des services de comptabilité, de contrôle des comptes, y compris de contrôle légal des comptes, de tenue de livres, de conseils fiscaux et des services en matière d’entreprise et de gestion ou des services de relations publiques;
 - c. des services de construction, d’architecture, d’ingénierie, d’ingénierie intégrée, d’urbanisme, de consultations scientifiques et techniques en lien avec l’ingénierie ou d’essais techniques et analyses;
 - d. des services de publicité, d’étude de marché ou de sondage d’opinion;
-- e. des services de conseil informatique.
+- e. des services de conseil informatique;
+- f. des services spatiaux commerciaux d’observation de la Terre ou de navigation par satellite;
+- g. des services d’intelligence artificielle consistant en l’accès à des modèles ou à des plateformes pour leur entraînement, leur réglage fin et leur inférence;
+- h. des services de calcul à haute performance, y compris l’accès au calcul accéléré par processeur graphique, ou des services d’informatique quantique.
 
 <sup>2</sup> La vente, la livraison, l’exportation, le transport et la mise à disposition des logiciels de gestion d’entreprise, des logiciels de conception et de fabrication industrielles et des logiciels pour le secteur bancaire et financier visés à l’annexe 27 au Bélarus, à son gouvernement, à ses organismes, entreprises ou agences publics ou à toute personne physique ou morale, toute entité ou tout organisme agissant pour le compte ou selon les instructions du Bélarus, de son gouvernement, de ses organismes, entreprises ou agences publics ainsi que le transit de ces logiciels par la Suisse sont interdits.
 
@@ -1025,7 +1028,7 @@ Il peut, après avoir consulté les services compétents du DFAE et du DFF, auto
 
 <sup>13</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1, let. g et h, et 2 pour des services et logiciels nécessaires à la contribution de ressortissants bélarussiens à des projets internationaux en code source libre au Bélarus.
 
-[^24b-1]: Introduit par le ch. I de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 26 fév. 2026 ([RO 2026 91](https://fedlex.data.admin.ch/eli/oc/2026/91)).
+[^24b-1]: Introduit par le ch. I de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)). Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 26 fév. 2026, sous réserve de l’al. 1, let. f à h, en vigueur depuis le 27 mars 2026 ([RO 2026 91](https://fedlex.data.admin.ch/eli/oc/2026/91)).
 
 ## Section 4 Autres restrictions
 
