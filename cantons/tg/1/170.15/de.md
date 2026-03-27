@@ -4,13 +4,12 @@ number: "170.15"
 title: "Verordnung des Regierungsrates betreffend die elektronische Übermittlung im Rahmen von Verwaltungs-, Zivil-, Straf- sowie Schuldbetreibungs- und Konkursverfahren"
 short: "Übermittlungsverordnung, VeÜ"
 language: de
-version: 2015-07-01
-valid_until: 2026-03-27
-version_adopted: 2015-05-12
+version: 2026-03-28
+version_adopted: 2026-03-24
 adopted: 2015-05-12
 in_force: 2015-07-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/170.15"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2410/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3034/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ VeÜ
 
 (Übermittlungsverordnung, VeÜ)
 
-vom 12.05.2015 (Stand 01.07.2015)
+vom 12.05.2015 (Stand 28.03.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -29,9 +28,9 @@ vom 12.05.2015 (Stand 01.07.2015)
 
 **Verwaltungs- und Verwaltungsrechtspflegeverfahren**
 
-<sup>1</sup> Diese Verordnung regelt die Anforderungen an den elektronischen Verkehr zwischen den Behörden und den Beteiligten in Verfahren nach dem Gesetz über die Verwaltungsrechtspflege[^1-1].
+<sup>1</sup> Diese Verordnung regelt die Anforderungen an den elektronischen Verkehr zwischen den Behörden und den Beteiligten in Verfahren nach dem Gesetz über die Verwaltungsrechtspflege (VRG)[^1-1].
 
-<sup>2</sup> Für Verfahren vor Gemeindebehörden gilt diese Verordnung, wenn die Gemeinde über einen qualifizierten elektronischen Zugang verfügt.
+<sup>2</sup> …
 
 [^1-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
@@ -51,13 +50,23 @@ vom 12.05.2015 (Stand 01.07.2015)
 
 <sup>1</sup> Als anerkannte Zustellplattformen gelten die vom Bund gestützt auf die VeÜ-ZSSV anerkannten Plattformen.
 
+<sup>2</sup> Der Regierungsrat kann für Verfahren gemäss VRG auf Antrag eines Departements, der Staatskanzlei oder des Verwaltungsgerichts weitere Zustellplattformen zulassen.
+
 #### § 4
 
-**Anerkannte elektronische Signatur**
+**Anerkannte elektronische Signaturen und elektronische Siegel**
 
 <sup>1</sup> Als anerkannte elektronische Signatur gilt die qualifizierte Signatur, die auf einem qualifizierten Zertifikat einer anerkannten Anbieterin von Zertifizierungsdiensten gemäss dem Bundesgesetz über Zertifizierungsdienste im Bereich der elektronischen Signatur (Bundesgesetz über die elektronische Signatur, ZertES)[^4-1] beruht.
 
+<sup>2</sup> Als anerkanntes elektronisches Siegel gilt das geregelte elektronische Siegel gemäss dem ZertES.
+
 [^4-1]: SR [943.03](https://db.clex.ch/link/Bund/943.03/de)
+
+#### § 4a
+
+**Elektronische Identifikation**
+
+<sup>1</sup> Zur elektronischen Identifikation werden die Identifikationsverfahren des Bundes sowie vom Regierungsrat zugelassene Identifikationsverfahren verwendet.
 
 #### § 5
 
@@ -69,6 +78,17 @@ vom 12.05.2015 (Stand 01.07.2015)
 
 <sup>3</sup> Die Staatskanzlei holt vor der Aufnahme die Zustimmung des Obergerichtes, des Verwaltungsgerichtes, des zuständigen Departementes oder der zuständigen Gemeindebehörde ein.
 
+#### § 5a
+
+**Anforderungen an kantonale Zustellplattformen**
+
+<sup>1</sup> Für die Anerkennung kantonaler Zustellplattformen gemäss § 3 Abs. 2 sind die IT-Standards und Vorgaben des Amts für Informatik zu berücksichtigen.
+
+<sup>2</sup> Die Zustellplattformen führen nachvollziehbare und manipulationssichere Prüfprotokolle (Audit Logs). In den Audit Logs werden insbesondere zustell- und verfahrensrelevante Ereignisse protokolliert, namentlich:
+
+- 1\. die Bereitstellung rechtsrelevanter Dokumente, insbesondere von Entscheiden und Bewilligungen
+- 2\. der erstmalige Abruf und Download solcher Dokumente durch berechtigte Personen
+
 ## 2. Elektronische Eingaben an Behörden
 
 #### § 6
@@ -79,11 +99,13 @@ vom 12.05.2015 (Stand 01.07.2015)
 
 <sup>2</sup> Unterschriftsbedürftige Dokumente müssen mit einer anerkannten elektronischen Signatur versehen sein.
 
+<sup>3</sup> Auf die anerkannte elektronische Signatur kann verzichtet werden, wenn eine Identifikation nach einem Verfahren gemäss § 4a erfolgt.
+
 #### § 7
 
 **Format**
 
-<sup>1</sup> Die Beteiligten haben ihre Eingaben einschliesslich der Beilagen im Format PDF zu übermitteln.
+<sup>1</sup> Dokumente, die über eine anerkannte Plattform eingereicht werden, sind grundsätzlich im Format PDF zu übermitteln. In Verwaltungsverfahren können Beilagen zu elektronischen Eingaben auch in verbreiteten Dateiformaten wie JPEG, PNG oder Excel zugelassen werden.
 
 #### § 8
 
@@ -91,10 +113,10 @@ vom 12.05.2015 (Stand 01.07.2015)
 
 <sup>1</sup> Die Behörde überprüft die elektronische Signatur bezüglich:
 
-- 1\. Integrität des Dokuments;
-- 2\. Identität der unterzeichnenden Person;
-- 3\. Gültigkeit und Qualität der elektronischen Signatur einschliesslich allfälliger rechtlich bedeutender Attribute;
-- 4\. Datum und Uhrzeit der elektronischen Signatur einschliesslich Qualität dieser Angaben.
+- 1\. Integrität des Dokuments
+- 2\. Identität der unterzeichnenden Person
+- 3\. Gültigkeit und Qualität der elektronischen Signatur einschliesslich allfälliger rechtlich bedeutender Attribute
+- 4\. Datum und Uhrzeit der elektronischen Signatur einschliesslich Qualität dieser Angaben
 
 <sup>2</sup> Sie fügt dem Papierausdruck das Ergebnis der Signaturprüfung und eine Bestätigung bei, dass der Papierausdruck den Inhalt der elektronischen Eingabe korrekt wiedergibt.
 
@@ -114,13 +136,15 @@ vom 12.05.2015 (Stand 01.07.2015)
 
 **Voraussetzungen**
 
-<sup>1</sup> Die Behörden können den Beteiligten einen Entscheid oder andere Mitteilungen auf elektronischem Weg eröffnen und zustellen, sofern sie dieser Zustellungsart ausdrücklich zugestimmt haben und sie bei einer anerkannten Zustellplattform registriert sind.
+<sup>1</sup> Die Behörden können den Beteiligten einen Entscheid oder andere Mitteilungen auf elektronischem Weg eröffnen oder zustellen, sofern sie dieser Zustellungsart ausdrücklich zugestimmt haben und sie bei einer anerkannten Zustellplattform registriert sind.
 
-<sup>2</sup> Eine Person, die regelmässig Partei in Verfahren vor einer bestimmten Behörde ist oder regelmässig Parteien vor einer bestimmten Behörde vertritt, kann dieser mitteilen, dass sie in einem oder in allen Verfahren einer elektronischen Zustellung zustimmt.
+<sup>2</sup> Personen, die regelmässig Partei in Verfahren vor einer bestimmten Behörde sind oder regelmässig Parteien in Verfahren vor einer bestimmten Behörde vertreten, können gegenüber dieser erklären, dass sie der elektronischen Zustellung in sämtlichen Verfahren zustimmen.
 
-<sup>3</sup> Die Zustimmung kann jederzeit widerrufen werden.
+<sup>2<sup>bis</sup></sup> Personen, die regelmässig Partei in Verfahren sind, die über ein Behördenportal abgewickelt werden können, oder die regelmässig Parteien in solchen Verfahren vertreten, können erklären, dass sie der elektronischen Zustellung für sämtliche über dieses Behördenportal abwickelbaren Verfahren zustimmen.
 
-<sup>4</sup> Zustimmung und Widerruf müssen schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, erfolgen.
+<sup>3</sup> Die generelle Zustimmung zur Zustellungsart kann jederzeit widerrufen werden. Für ein laufendes Verfahren kann die Zustimmung zur Zustellungsart nicht widerrufen werden.
+
+<sup>4</sup> Die generelle Zustimmung und der Widerruf müssen schriftlich oder über die genutzte Behördenplattform erfolgen.
 
 #### § 11
 
@@ -132,9 +156,9 @@ vom 12.05.2015 (Stand 01.07.2015)
 
 **Format und Unterzeichnung**
 
-<sup>1</sup> Mitteilungen der Behörden sind im Format PDF/A, Beilagen im Format PDF zu übermitteln.
+<sup>1</sup> Rechtsverbindliche Mitteilungen und rechtswirksame behördliche Dokumente (Entscheide, Urkunden) und zugehörige Beilagen sind im Format PDF/A zu übermitteln.
 
-<sup>2</sup> Mitteilungen müssen mit einer anerkannten elektronischen Signatur versehen sein.
+<sup>2</sup> Rechtsverbindliche Mitteilungen müssen mit einem anerkannten elektronischen Siegel oder einer elektronischen Signatur versehen sein.
 
 #### § 13
 
@@ -144,12 +168,10 @@ vom 12.05.2015 (Stand 01.07.2015)
 
 <sup>2</sup> Am siebten Tag nach erfolgter Bereitstellung im elektronischen Postfach gilt die Zustellung als erfolgt.
 
-## 4. Schlussbestimmung
+## 4.
 
 #### § 14
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Juli 2015 in Kraft.
+**…**
 
 21/2015
