@@ -3,11 +3,11 @@ sr: "0.814.294"
 title: "Convenzione internazionale del 2001 del 23 marzo 2001 sulla responsabilità civile per i danni derivanti dall'inquinamento determinato dal carburante delle navi (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/888"
 language: it
-version: 2024-01-23
+version: 2026-03-30
 adopted: 2001-03-23
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20240123/it/xml/fedlex-data-admin-ch-eli-cc-2013-888-20240123-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20240123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20260330/it/xml/fedlex-data-admin-ch-eli-cc-2013-888-20260330-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20260330/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Londra il 23 marzo 2001 Approvata dall’Assemblea federale il 22 marzo 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 24 settembre 2013 Entrata in vigore per la Svizzera il 24 dicembre 2013
 
-(Stato 23 gennaio 2024)
+(Stato 30 marzo 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 22 mar. 2013 ([RU 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -42,9 +42,9 @@ desiderosi di adottare norme e procedure internazionali uniformi atte a discipli
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
-[^ingress-2]: [RS 0.814.291.2](https://fedlex.data.admin.ch/eli/cc/1998/1031_1031_1031)
-[^ingress-3]: [RS 0.814.292](https://fedlex.data.admin.ch/eli/cc/2007/277)
+[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
+[^ingress-2]: [RS 0.814.291.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3528)
+[^ingress-3]: [RS 0.814.292](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3529)
 
 #### Art. 1
 
@@ -83,7 +83,7 @@ Ai fini della presente Convenzione valgono le seguenti definizioni:
 
 <sup>13</sup> «Segretario generale»: il Segretario generale dell’Organizzazione.
 
-[^1-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^1-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
 
 #### Art. 2
 
@@ -146,7 +146,7 @@ Se si verifica un avvenimento che coinvolge due o più navi e ne risultano danni
 
 Le disposizioni della presente Convenzione lasciano impregiudicato il diritto l’armatore della nave e della persona, o delle persone, che forniscono l’assicurazione o un’altra garanzia finanziaria di limitare la sua responsabilità in virtù di qualsiasi regime nazionale o internazionale applicabile, quale la Convenzione del 1976[^6-1] sulla limitazione della responsabilità per crediti marittimi, modificata.
 
-[^6-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^6-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 7
 
@@ -200,7 +200,7 @@ Per ogni nave è rilasciato un certificato attestante che un’assicurazione o u
 
 <sup>15</sup> All’atto della ratifica, accettazione o approvazione della presente Convenzione o dell’adesione alla stessa, oppure in qualsiasi momento successivo, uno Stato può dichiarare che il presente articolo non si applica alle navi che operano esclusivamente nel suo territorio, ai sensi dell’articolo 2, lettera a), punto i).
 
-[^7-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^7-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 8
 
@@ -325,7 +325,7 @@ Il Segretario generale:
 
 Non appena la presente Convenzione entra in vigore, il Segretario generale ne trasmette il testo al Segretariato delle Nazioni Unite per la registrazione e la pubblicazione in conformità dell’articolo 102 della Carta delle Nazioni Unite[^18-1].
 
-[^18-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^18-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 19
 
@@ -394,7 +394,7 @@ Note esplicative
 
 \5. La voce «nome e indirizzo dell’assicuratore (o degli assicuratori) e/o del garante (o dei garanti)» deve contenere l’indirizzo della sede principale dell’assicuratore (o degli assicuratori) e/o del garante (o dei garanti). Se necessario, andrà indicato il luogo della sede presso cui l’assicurazione o la garanzia sono state sottoscritte.
 
-Campo d’applicazione il 23 gennaio 2024[^t-2]
+Campo d’applicazione il 30 marzo 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -441,6 +441,7 @@ Campo d’applicazione il 23 gennaio 2024[^t-2]
 <tr><td>Grecia</td><td>22 dicembre</td><td>2005 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Grenada</td><td>26 luglio</td><td>2018 A</td><td>26 ottobre</td><td>2018</td></tr>
 <tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
+<tr><td>Guinea Equatoriale</td><td>3 dicembre</td><td>2025 A</td><td>3 marzo</td><td>2026</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>20 maggio</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>15 febbraio</td><td>2022 A</td><td>15 maggio</td><td>2022</td></tr>
 <tr><td>Indonesia</td><td>11 settembre</td><td>2014 A</td><td>11 dicembre</td><td>2014</td></tr>
@@ -484,6 +485,8 @@ Campo d’applicazione il 23 gennaio 2024[^t-2]
 <tr><td>Bermuda</td><td>16 gennaio</td><td>2009</td><td>16 gennaio</td><td>2009</td></tr>
 <tr><td>Cayman, Isole</td><td>12 gennaio</td><td>2011</td><td>12 gennaio</td><td>2011</td></tr>
 <tr><td>Gibilterra</td><td>28 novembre</td><td>2009</td><td>28 novembre</td><td>2009</td></tr>
+<tr><td>Guernsey</td><td>12 gennaio</td><td>2023</td><td>12 gennaio</td><td>2023</td></tr>
+<tr><td>Isole Falkland</td><td>2 agosto</td><td>2023</td><td>2 agosto</td><td>2023</td></tr>
 <tr><td>Man, Isola di</td><td>21 novembre</td><td>2008</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Vergini Britanniche, Isole</td><td>9 settembre</td><td>2013</td><td>9 settembre</td><td>2013</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>15 giugno</td><td>2009 A</td><td>15 settembre</td><td>2009</td></tr>
@@ -502,12 +505,14 @@ Campo d’applicazione il 23 gennaio 2024[^t-2]
 <tr><td>Slovacchia</td><td>1° maggio</td><td>2013 A</td><td>1° agosto</td><td>2013</td></tr>
 <tr><td>Slovenia</td><td>20 maggio</td><td>2004 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>10 dicembre</td><td>2003</td><td>21 novembre</td><td>2008</td></tr>
+<tr><td>Sudafrica</td><td>11 marzo</td><td>2026 A</td><td>11 giugno</td><td>2026</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>3 giugno</td><td>2013</td><td>3 settembre</td><td>2013</td></tr>
 <tr><td>Svizzera</td><td>24 settembre</td><td>2013 A</td><td>24 dicembre</td><td>2013</td></tr>
 <tr><td>Togo</td><td>23 aprile</td><td>2012 A</td><td>23 luglio</td><td>2012</td></tr>
 <tr><td>Tonga</td><td>18 settembre</td><td>2003 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Tunisia<sup>\*</sup></td><td>5 settembre</td><td>2011 A</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Turchia</td><td>12 settembre</td><td>2013 A</td><td>12 dicembre</td><td>2013</td></tr>
+<tr><td>Turkmenistan</td><td>23 gennaio</td><td>2024 A</td><td>23 aprile</td><td>2024</td></tr>
 <tr><td>Tuvalu</td><td>12 gennaio</td><td>2009 A</td><td>12 aprile</td><td>2009</td></tr>
 <tr><td>Ungheria</td><td>30 gennaio</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Vanuatu</td><td>20 agosto</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
@@ -516,4 +521,4 @@ Campo d’applicazione il 23 gennaio 2024[^t-2]
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773); [2024 47](https://fedlex.data.admin.ch/eli/oc/2024/47). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773); [2024 47](https://fedlex.data.admin.ch/eli/oc/2024/47); [2026 137](https://fedlex.data.admin.ch/eli/oc/2026/137). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

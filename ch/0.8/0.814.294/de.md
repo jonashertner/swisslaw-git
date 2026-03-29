@@ -3,11 +3,11 @@ sr: "0.814.294"
 title: Internationales Übereinkommen von 2001 vom 23. März 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/888"
 language: de
-version: 2024-01-23
+version: 2026-03-30
 adopted: 2001-03-23
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20240123/de/xml/fedlex-data-admin-ch-eli-cc-2013-888-20240123-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20240123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20260330/de/xml/fedlex-data-admin-ch-eli-cc-2013-888-20260330-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20260330/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2013** 5527; BBl **2012** 8639
 
 Abgeschlossen in London am 23. März 2001 Von der Bundesversammlung genehmigt am 22. März 2013[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013 Für die Schweiz in Kraft getreten am 24. Dezember 2013
 
-(Stand am 23. Januar 2024)
+(Stand am 30. März 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 22. März 2013 ([AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -42,9 +42,9 @@ in dem Wunsch, einheitliche internationale Vorschriften und Verfahren zur Regelu
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
-[^ingress-2]: [SR 0.814.291.2](https://fedlex.data.admin.ch/eli/cc/1998/1031_1031_1031)
-[^ingress-3]: [SR 0.814.292](https://fedlex.data.admin.ch/eli/cc/2007/277)
+[^ingress-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
+[^ingress-2]: [SR 0.814.291.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3528)
+[^ingress-3]: [SR 0.814.292](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3529)
 
 #### Art. 1
 
@@ -83,7 +83,7 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Ausdrücke folgende Bede
 
 <sup>13</sup> «Generalsekretär» bedeutet den Generalsekretär der Organisation.
 
-[^1-1]: [SR 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^1-1]: [SR 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
 
 #### Art. 2
 
@@ -146,7 +146,7 @@ Tritt ein Ereignis ein, an dem mehr als ein Schiff beteiligt ist, und entstehen 
 
 Dieses Übereinkommen berührt nicht das Recht des Schiffseigentümers und der eine Versicherung oder sonstige finanzielle Sicherheit leistenden Person oder Personen, die Haftung nach einem anwendbaren nationalen oder internationalen Regelwerk, wie etwa dem Übereinkommen von 1976 über die Beschränkung der Haftung für Seeforderungen[^6-1] in der jeweils geltenden Fassung, zu beschränken.
 
-[^6-1]: [SR 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^6-1]: [SR 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 7
 
@@ -200,7 +200,7 @@ Nachdem die zuständige Behörde eines Vertragsstaats sich vergewissert hat, das
 
 <sup>15</sup> Ein Staat kann im Zeitpunkt der Ratifikation, Annahme oder Genehmigung dieses Übereinkommens oder des Beitritts zu diesem oder jederzeit danach erklären, dass er diesen Artikel nicht auf Schiffe anwendet, die ausschliesslich das in Artikel 2 Buchstabe a) Ziffer i) genannte Gebiet dieses Staates befahren.
 
-[^7-1]: [SR 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^7-1]: [SR 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 8
 
@@ -325,7 +325,7 @@ Der Generalsekretär:
 
 Sobald dieses Übereinkommen in Kraft tritt, übermittelt der Generalsekretär dem Sekretariat der Vereinten Nationen den Wortlaut des Übereinkommens zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^18-1].
 
-[^18-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^18-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 19
 
@@ -394,13 +394,14 @@ Erläuterungen
 
 \5. Die Eintragung «Anschrift» des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) hat die Anschrift des Hauptgeschäftssitzes des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) zu enthalten. Gegebenenfalls ist der Geschäftssitz anzugeben, an dem die Versicherung oder sonstige Sicherheit abgeschlossen wurde.
 
-Geltungsbereich am 23. Januar 2024[^t-2]
+Geltungsbereich am 30. März 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten<sup>\*</sup></td><td>15. Februar</td><td>2010 B</td><td>15. Mai</td><td>2010</td></tr>
 <tr><td>Albanien</td><td>30. April</td><td>2010 B</td><td>30. Juli</td><td>2010</td></tr>
 <tr><td>Antigua und Barbuda</td><td>19. Dezember</td><td>2008 B</td><td>19. März</td><td>2010</td></tr>
+<tr><td>Äquatorialguinea</td><td>3. Dezember</td><td>2025 B</td><td>3. März</td><td>2026</td></tr>
 <tr><td>Aserbaidschan</td><td>22. Juni</td><td>2010 B</td><td>22. September</td><td>2010</td></tr>
 <tr><td>Äthiopien</td><td>17. Februar</td><td>2009 B</td><td>17. Mai</td><td>2009</td></tr>
 <tr><td>Australien</td><td>16. März</td><td>2009</td><td>16. Juni</td><td>2009</td></tr>
@@ -491,9 +492,10 @@ Geltungsbereich am 23. Januar 2024[^t-2]
 <tr><td>Slowakei</td><td>1. Mai</td><td>2013 B</td><td>1. August</td><td>2013</td></tr>
 <tr><td>Slowenien</td><td>20. Mai</td><td>2004 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Spanien<sup>\*</sup></td><td>10. Dezember</td><td>2003</td><td>21. November</td><td>2008</td></tr>
-<tr><td>St. Lucia</td><td>26. Mai</td><td>2016 B</td><td>26. August</td><td>2016</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>21. Oktober</td><td>2009 B</td><td>21. Januar</td><td>2010</td></tr>
+<tr><td>St. Lucia</td><td>26. Mai</td><td>2016 B</td><td>26. August</td><td>2016</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>26. November</td><td>2008 B</td><td>26. Februar</td><td>2009</td></tr>
+<tr><td>Südafrika</td><td>11. März</td><td>2026 B</td><td>11. Juni</td><td>2026</td></tr>
 <tr><td>Syrien<sup>\*</sup></td><td>24. April</td><td>2009 B</td><td>24. Juli</td><td>2009</td></tr>
 <tr><td>Togo</td><td>23. April</td><td>2012 B</td><td>23. Juli</td><td>2012</td></tr>
 <tr><td>Tonga</td><td>18. September</td><td>2003 B</td><td>21. November</td><td>2008</td></tr>
@@ -501,13 +503,16 @@ Geltungsbereich am 23. Januar 2024[^t-2]
 <tr><td>Tunesien<sup>\*</sup></td><td>5. September</td><td>2011 B</td><td>5. Dezember</td><td>2011</td></tr>
 <tr><td>Tuvalu</td><td>12. Januar</td><td>2009 B</td><td>12. April</td><td>2009</td></tr>
 <tr><td>Türkei</td><td>12. September</td><td>2013 B</td><td>12. Dezember</td><td>2013</td></tr>
+<tr><td>Turkmenistan</td><td>23. Januar</td><td>2024 B</td><td>23. April</td><td>2024</td></tr>
 <tr><td>Ungarn</td><td>30. Januar</td><td>2008 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Vanuatu</td><td>20. August</td><td>2008 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>23. März</td><td>2021</td><td>23. Juni</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>29. Juni</td><td>2006</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Bermudas</td><td>16. Januar</td><td>2009</td><td>16. Januar</td><td>2009</td></tr>
 <tr><td>Britische Jungferninseln</td><td>9. September</td><td>2013</td><td>9. September</td><td>2013</td></tr>
+<tr><td>Falklandinseln</td><td>2. August</td><td>2023</td><td>2. August</td><td>2023</td></tr>
 <tr><td>Gibraltar</td><td>28. November</td><td>2009</td><td>28. November</td><td>2009</td></tr>
+<tr><td>Guernsey</td><td>12. Januar</td><td>2023</td><td>12. Januar</td><td>2023</td></tr>
 <tr><td>Insel Man</td><td>21. November</td><td>2008</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Kaimaninseln</td><td>12. Januar</td><td>2011</td><td>12. Januar</td><td>2011</td></tr>
 <tr><td>Vietnam</td><td>18. Juni</td><td>2010 B</td><td>18. September</td><td>2010</td></tr>
@@ -517,4 +522,4 @@ Geltungsbereich am 23. Januar 2024[^t-2]
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773); [2024 47](https://fedlex.data.admin.ch/eli/oc/2024/47). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773); [2024 47](https://fedlex.data.admin.ch/eli/oc/2024/47); [2026 137](https://fedlex.data.admin.ch/eli/oc/2026/137). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
