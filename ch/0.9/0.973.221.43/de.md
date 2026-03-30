@@ -3,11 +3,11 @@ sr: "0.973.221.43"
 title: Rahmenabkommen vom 28. Oktober 2025 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Bulgarien über die Umsetzung des zweiten Schweizer Beitrags an ausgewählte Mitgliedstaaten der Europäischen Union zur Unterstützung von Massnahmen im Bereich der Migration
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/7"
 language: de
-version: 2025-10-28
+version: 2026-03-31
 adopted: 2025-10-28
 in_force: 2025-10-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/7/20251028/de/xml/fedlex-data-admin-ch-eli-cc-2026-7-20251028-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/7/20251028/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/7/20260331/de/xml/fedlex-data-admin-ch-eli-cc-2026-7-20260331-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/7/20260331/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,11 @@ AS **2026** 7
 
 Übersetzung
 
-Abgeschlossen am 28. Oktober 2025 Vorläufig angewendet ab dem 28. Oktober 2025
+Abgeschlossen am 28. Oktober 2025 Vorläufig angewendet ab dem 28. Oktober 2025 In Kraft getreten durch Notenaustausch am 31. März 2026[^t-1]
 
-(Stand am 28. Oktober 2025)
+(Stand am 31. März 2026)
+
+[^t-1]: [AS 2026 151](https://fedlex.data.admin.ch/eli/oc/2026/151)
 
 Der Schweizerische Bundesrat
 

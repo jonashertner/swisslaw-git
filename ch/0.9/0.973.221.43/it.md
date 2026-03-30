@@ -3,11 +3,11 @@ sr: "0.973.221.43"
 title: Accordo quadro del 28 ottobre 2025 tra il Consiglio federale svizzero e il Governo della Repubblica di Bulgaria concernente l’attuazione del secondo contributo svizzero ad alcuni Stati membri dell’Unione europea per il sostegno di misure nel settore della migrazione
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/7"
 language: it
-version: 2025-10-28
+version: 2026-03-31
 adopted: 2025-10-28
 in_force: 2025-10-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/7/20251028/it/xml/fedlex-data-admin-ch-eli-cc-2026-7-20251028-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/7/20251028/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/7/20260331/it/xml/fedlex-data-admin-ch-eli-cc-2026-7-20260331-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/7/20260331/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,9 +18,11 @@ RU **2026** 7
 
 Traduzione
 
-Concluso il 28 ottobre 2025 Applicato provvisoriamente dal 28 ottobre 2025
+Concluso il 28 ottobre 2025 Applicato provvisoriamente dal 28 ottobre 2025 Entrato in vigore mediante scambio di note il 31 marzo 2026[^t-1]
 
-(Stato 28 ottobre 2025)
+(Stato 31 marzo 2026)
+
+[^t-1]: [RU 2026 151](https://fedlex.data.admin.ch/eli/oc/2026/151)
 
 Il Consiglio federale svizzero
 
@@ -82,7 +84,7 @@ Ai fini del presente Accordo valgono le seguenti definizioni:
 
 «sostegno tecnico»: parte del contributo fornito nell’ambito del programma di cooperazione per la preparazione di misure di sostegno e per l’attuazione efficiente ed efficace di tale programma.
 
-[^1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/7](https://fedlex.data.admin.ch/eli/oc/2026/7) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^1-1]: Il contenuto di questo allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/7](https://fedlex.data.admin.ch/eli/oc/2026/7) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 #### Art. 2
 

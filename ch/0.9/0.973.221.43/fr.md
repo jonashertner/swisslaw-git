@@ -3,11 +3,11 @@ sr: "0.973.221.43"
 title: Accord-cadre du 28 octobre 2025 entre le Conseil fédéral suisse et le Gouvernement de la République de Bulgarie sur la mise en œuvre de la deuxième contribution de la Suisse en faveur de certains États membres de l’Union européenne visant à soutenir des mesures dans le domaine de la migration
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/7"
 language: fr
-version: 2025-10-28
+version: 2026-03-31
 adopted: 2025-10-28
 in_force: 2025-10-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/7/20251028/fr/xml/fedlex-data-admin-ch-eli-cc-2026-7-20251028-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/7/20251028/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/7/20260331/fr/xml/fedlex-data-admin-ch-eli-cc-2026-7-20260331-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/7/20260331/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,9 +18,11 @@ RO **2026** 7
 
 Traduction
 
-Conclu le 28 octobre 2025 Appliqué provisoirement dès le 28 octobre 2025
+Conclu le 28 octobre 2025 Appliqué provisoirement dès le 28 octobre 2025 Entré en vigueur par échange de notes le 31 mars 2026[^t-1]
 
-(État le 28 octobre 2025)
+(État le 31 mars 2026)
+
+[^t-1]: [RO 2026 151](https://fedlex.data.admin.ch/eli/oc/2026/151)
 
 Le Conseil fédéral suisse
 
