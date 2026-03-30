@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 décembre 2020 sur les crédits garantis par un cau
 short: LCaS-COVID-19
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: fr
-version: 2025-03-31
+version: 2026-03-31
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20250331/fr/xml/fedlex-data-admin-ch-eli-cc-2020-982-20250331-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20250331/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20260331/fr/xml/fedlex-data-admin-ch-eli-cc-2020-982-20260331-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20260331/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20250331/fr"
 
 (Loi sur les cautionnements solidaires liés au COVID-19, LCaS-COVID-19)
 
-du 18 décembre 2020 (État le 31 mars 2025)
+du 18 décembre 2020 (État le 31 mars 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 103 de la Constitution (Cst.)[^ingress-1], vu les messages du Consei
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182)
 [^ingress-3]: [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)
 
@@ -43,7 +43,7 @@ La présente loi définit:
 - f. le transfert simplifié des créances de crédit à la Banque nationale suisse (BNS) en vue du refinancement des donneurs de crédit.
 
 [^1-1]: [[RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^1-2]: [RS 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
+[^1-2]: [RS 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
 
 ## Section 2 But du cautionnement solidaire, utilisation illicite des fonds, amortissement et taux d’intérêt
 
@@ -76,8 +76,8 @@ Les fonds issus de crédits cautionnés en vertu de l’OCaS-COVID-19 ne peuvent
 <sup>6</sup> Le preneur de crédit n’est pas autorisé à transférer les droits et obligations qui découlent de la relation de crédit. Si un transfert a tout de même lieu, il ne déploie aucun effet sur le crédit cautionné en vertu de l’OCaS-COVID-19. Est en revanche autorisé le transfert dans le cadre d’une restructuration au sens de la loi du 3 octobre 2003 sur la fusion[^2-2]. Le donneur de crédit approuve un tel transfert pour autant qu’il soit lié au transfert de tous les actifs et passifs ou au moins de la partie essentielle de l’entreprise du preneur de crédit, ou à une transformation du preneur de crédit. Dans ce cas, il n’est pas nécessaire que le donneur de crédit exige une garantie. L’art. 493, al. 5, deuxième phrase du code des obligations (CO)[^2-3] ne s’applique pas aux transferts qui sont autorisés conformément au présent alinéa. L’organisation de cautionnement est informée de la restructuration par écrit ou par voie électronique.
 
 [^2-1]: [[RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^2-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^2-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
+[^2-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 3
 
@@ -104,15 +104,15 @@ Un cautionnement solidaire dure au maximum huit ans:
 
 Le taux d’intérêt s’élève à:
 
-- a.[^4-1] pour les crédits garantis par un cautionnement solidaire au sens de l’art. 3 OCaS-COVID-19[^4-2]: 0,25 % par an;
-- b.[^4-3] pour les crédits garantis par un cautionnement solidaire au sens de l’art. 4 OCaS-COVID-19: en cas de limite en compte courant, 0,75 % par an et, en cas d’avance à échéance fixe, 0,75 % par an;
+- a.[^4-1] pour les crédits garantis par un cautionnement solidaire au sens de l’art. 3 OCaS-COVID-19[^4-2]: 0,0 % par an;
+- b.[^4-3] pour les crédits garantis par un cautionnement solidaire au sens de l’art. 4 OCaS-COVID-19: en cas de limite en compte courant, 0,5 % par an et, en cas d’avance à échéance fixe, 0,5 % par an;
 - c. pour les parts de crédits qui ne sont pas garanties par un cautionnement solidaire au sens de l’OCaS-COVID-19: selon le contrat de crédit.
 
 <sup>2</sup> Sur proposition du Département fédéral des finances (DFF), le Conseil fédéral adapte chaque année au 31 mars les taux d’intérêt définis à l’al. 1, let. a et b, à l’évolution du marché, la première fois le 31 mars 2021. Le taux d’intérêt défini à l’al. 1, let. a, s’élève au moins à 0,0 % et celui défini à l’al. 1, let. b, au moins à 0,5 %. Le DFF entend au préalable les banques créancières.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025 concernant l’adaptation des taux d’intérêt visés par la loi sur les cautionnements solidaires liés au COVID-19, en vigueur depuis le 31 mars 2025 ([RO 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 mars 2026 concernant l’adaptation des taux d’intérêt visés par la loi sur les cautionnements solidaires liés au COVID-19, en vigueur depuis le 31 mars 2026 ([RO 2026 131](https://fedlex.data.admin.ch/eli/oc/2026/131)).
 [^4-2]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025 concernant l’adaptation des taux d’intérêt visés par la loi sur les cautionnements solidaires liés au COVID-19, en vigueur depuis le 31 mars 2025 ([RO 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 20 mars 2026 concernant l’adaptation des taux d’intérêt visés par la loi sur les cautionnements solidaires liés au COVID-19, en vigueur depuis le 31 mars 2026 ([RO 2026 131](https://fedlex.data.admin.ch/eli/oc/2026/131)).
 
 ## Section 3 Tâches des organisations de cautionnement et convention avec la Confédération
 
@@ -207,7 +207,7 @@ Si le recouvrement de créances semble voué à l’échec ou si les charges et 
 
 <sup>6</sup> Le Conseil fédéral peut édicter des prescriptions concernant la gestion des créances transférées aux organisations de cautionnement afin d’uniformiser la pratique des organisations de cautionnement ou de préserver les intérêts de la Confédération.
 
-[^8-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^8-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 9
 
@@ -376,7 +376,7 @@ Les membres de l’organe supérieur de direction ou d’administration du prene
 <sup>2</sup> L’al. 1 s’applique par analogie à toutes les formes juridiques pour lesquelles la loi prévoit un avis obligatoire en cas de perte de capital et de surendettement au sens de l’art. 725*a* et 725*b* CO.
 
 [^24-1]: Teneur selon l’art. 30 ci-après, en vigueur depuis le 1<sup>er</sup> janv. 2023.
-[^24-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^24-3]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 25
@@ -390,7 +390,7 @@ Les membres de l’organe supérieur de direction ou d’administration du prene
 <sup>3</sup> Les employés du SECO et de l’organisation de cautionnement sont habilités à dénoncer aux autorités de poursuite pénale ou au CDF les contraventions au sens de la présente loi et de l’OCaS-COVID-19 dont ils ont eu connaissance ou qui leur ont été signalées dans l’exercice de leur fonction.
 
 [^25-1]: [[RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^25-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Section 8 Octroi de cautionnements solidaires pour des crédits supplémentaires en raison des effets persistants de l’épidémie de COVID-19
 
@@ -445,8 +445,8 @@ Le Conseil fédéral règle les modalités, en particulier:
 - e. l’octroi de crédits garantis par des cautionnements solidaires de PostFinance SA aux clients qu’elle servait déjà avant le 26 mars 2020 et la poursuite de ces crédits jusqu’à leur amortissement complet.
 
 [^26-1]: [[RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^26-3]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^26-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^26-3]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
 [^26-4]: Teneur selon l’art. 30 ci-après, en vigueur depuis le 1<sup>er</sup> janv. 2023.
 
 ## Section 9 Dispositions finales
@@ -479,8 +479,8 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^29-3]
 
-[^29-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-[^29-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^29-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993); [FF 2020 7397](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^29-2]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^29-3]: Les disp. de coordination peuvent être consultées dans le [RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982).
 
 #### Art. 30
@@ -492,7 +492,7 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 …[^30-3]
 
 [^30-1]: [RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
-[^30-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^30-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^30-3]: Les mod. peuvent être consultés au [RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982).
 
 #### Art. 31

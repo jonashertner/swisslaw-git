@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 2020 concernente i crediti garantiti da u
 short: LFiS-COVID-19
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: it
-version: 2025-03-31
+version: 2026-03-31
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20250331/it/xml/fedlex-data-admin-ch-eli-cc-2020-982-20250331-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20250331/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20260331/it/xml/fedlex-data-admin-ch-eli-cc-2020-982-20260331-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20260331/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20250331/it"
 
 (Legge sulle fideiussioni solidali COVID-19, LFiS-COVID-19)
 
-del 18 dicembre 2020 (Stato 31 marzo 2025)
+del 18 dicembre 2020 (Stato 31 marzo 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 103 della Costituzione federale[^ingress-1] (Cost.); visto i 
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182)
 [^ingress-3]: [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)
 
@@ -43,7 +43,7 @@ La presente legge disciplina:
 - f. il trasferimento agevolato di crediti alla Banca nazionale svizzera (BNS) per il rifinanziamento dei mutuanti.
 
 [^1-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^1-2]: [RS 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
+[^1-2]: [RS 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
 
 ## Sezione 2: Scopo della fideiussione solidale e modalità di utilizzo dei fondi non consentite, nonché ammortamento e tassi d’interesse
 
@@ -76,8 +76,8 @@ I fondi derivanti da crediti garantiti secondo l’OFis-COVID-19 non possono ess
 <sup>6</sup> Il mutuatario non può trasferire i diritti e gli obblighi derivanti dalla relazione di credito. Se ha tuttavia luogo, tale trasferimento non ha alcun effetto sul credito garantito secondo l’OFis-COVID-19. È tuttavia consentito un trasferimento nell’ambito di una ristrutturazione secondo la legge del 3 ottobre 2003[^2-2] sulla fusione. Il mutuante dà il proprio assenso al trasferimento se questo comporta il trasferimento di tutti gli attivi e passivi, o almeno della parte essenziale dell’impresa del mutuatario, oppure la trasformazione del mutuatario. In tal caso non è necessario che il mutuante esiga una garanzia. Ai trasferimenti consentiti secondo il presente capoverso non è applicabile l’articolo 493 capoverso 5 secondo periodo del Codice delle obbligazioni (CO)[^2-3]. Il mutuante informa per scritto o per via elettronica l’organizzazione che concede fideiussioni in merito alla ristrutturazione.
 
 [^2-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^2-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^2-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
+[^2-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 3
 
@@ -104,15 +104,15 @@ La fideiussione solidale dura al massimo otto anni:
 
 Il tasso d’interesse ammonta:
 
-- a.[^4-1] allo 0,25 per cento annuo, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 3 OFis-COVID-19[^4-2];
-- b.[^4-3] allo 0,75 per cento annuo in caso di limite sul conto corrente e allo 0,75 per cento annuo in caso di anticipi con scadenza fissa, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 4 OFis-COVID-19;
+- a.[^4-1] allo 0,0 per cento annuo, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 3 OFis-COVID-19[^4-2];
+- b.[^4-3] allo 0,5 per cento annuo in caso di limite sul conto corrente e allo 0,5 per cento annuo in caso di anticipi con scadenza fissa, per l’importo di credito garantito da una fideiussione solidale di cui all’articolo 4 OFis-COVID-19;
 - c. al tasso fissato nel contratto di credito, per l’importo di credito non garantito da una fideiussione solidale secondo l’OFis-COVID-19.
 
 <sup>2</sup> Su proposta del Dipartimento federale delle finanze (DFF), a partire dal 2021 il Consiglio federale adegua ogni anno agli sviluppi del mercato, con effetto a decorrere dal 31 marzo, i tassi d’interesse di cui al capoverso 1 lettere a e b. Il tasso d’interesse secondo il capoverso 1 lettera a ammonta ad almeno lo 0,0 per cento e il tasso d’interesse secondo il capoverso 1 lettera b ad almeno lo 0,5 per cento. Il DFF consulta previamente le banche mutuanti.
 
-[^4-1]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore dal 31 mar. 2025 ([RU 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 20 mar. 2026 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore dal 31 mar. 2026 ([RU 2026 131](https://fedlex.data.admin.ch/eli/oc/2026/131)).
 [^4-2]: [RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
-[^4-3]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore dal 31 mar. 2025 ([RU 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 20 mar. 2026 sull’adeguamento dei tassi d’interesse secondo la legge sulle fideiussioni solidali COVID-19, in vigore dal 31 mar. 2026 ([RU 2026 131](https://fedlex.data.admin.ch/eli/oc/2026/131)).
 
 ## Sezione 3: Compiti delle organizzazioni che concedono fideiussioni e convenzione con la Confederazione
 
@@ -207,7 +207,7 @@ Se l’esazione dei crediti appare priva di probabilità di successo o il dispen
 
 <sup>6</sup> Al fine di uniformare la prassi delle organizzazioni che concedono fideiussioni o di tutelare gli interessi della Confederazione, il Consiglio federale può emanare disposizioni sulla gestione dei crediti trasferiti alle organizzazioni che concedono fideiussioni.
 
-[^8-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^8-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 9
 
@@ -376,7 +376,7 @@ I membri dell’organo superiore di amministrazione o di direzione nonché tutte
 <sup>2</sup> Il capoverso 1 si applica per analogia a tutte le forme giuridiche soggette per legge all’avviso obbligatorio in caso di perdita di capitale e di eccedenza di debiti secondo gli articoli 725*a* e 725*b* CO.
 
 [^24-1]: Testo giusta l’art. 30 qui avanti.
-[^24-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^24-3]: [RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 25
@@ -390,7 +390,7 @@ I membri dell’organo superiore di amministrazione o di direzione nonché tutte
 <sup>3</sup> Gli impiegati della SECO e dell’organizzazione che concede fideiussioni hanno il diritto di denunciare alle autorità di perseguimento penale o al CDF le contravvenzioni secondo la presente legge e l’OFis-COVID-19 che hanno constatato o che sono state loro segnalate nell’ambito della loro attività.
 
 [^25-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^25-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Sezione 8: Fideiussioni solidali per ulteriori crediti concessi a causa delle conseguenze persistenti dell’epidemia di COVID-19
 
@@ -445,8 +445,8 @@ A tal fine, il Consiglio federale può emanare disposizioni che deroghino al CO[
 - e. la concessione di crediti garantiti da fideiussioni solidali da parte di PostFinance SA a chi era cliente prima del 26 marzo 2020, nonché il mantenimento in essere di tali crediti fino al loro ammortamento integrale.
 
 [^26-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^26-3]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^26-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^26-3]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
 [^26-4]: Testo giusta l’art. 30 qui avanti.
 
 ## Sezione 9: Disposizioni finali
@@ -479,8 +479,8 @@ All’entrata in vigore della legge federale del 25 settembre 2020[^29-1] sulla 
 
 ...[^29-3]
 
-[^29-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^29-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^29-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^29-2]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^29-3]: Le disp. di coordinazione possono essere consultate alla [RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982).
 
 #### Art. 30
@@ -492,7 +492,7 @@ All’entrata in vigore della modifica del 19 giugno 2020[^30-1] del Codice dell
 ...[^30-3]
 
 [^30-1]: [RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
-[^30-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^30-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^30-3]: Le mod. possono essere consultate alla [RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982).
 
 #### Art. 31

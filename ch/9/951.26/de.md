@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 2020 über Kredite mit Solidarbürgschaft 
 short: Covid-19-SBüG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: de
-version: 2025-03-31
+version: 2026-03-31
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20250331/de/xml/fedlex-data-admin-ch-eli-cc-2020-982-20250331-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20250331/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20260331/de/xml/fedlex-data-admin-ch-eli-cc-2020-982-20260331-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20260331/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20250331/de"
 
 (Covid-19-Solidarbürgschaftsgesetz, Covid-19-SBüG)
 
-vom 18. Dezember 2020 (Stand am 31. März 2025)
+vom 18. Dezember 2020 (Stand am 31. März 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 103 der Bundesverfassung (BV)[^ingress-1], nach Einsicht i
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)
 [^ingress-3]: [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)
 
@@ -43,7 +43,7 @@ Dieses Gesetz regelt:
 - f. die vereinfachte Übertragung von Kreditforderungen an die Schweizerische Nationalbank (SNB) zum Zweck der Refinanzierung der Kreditgeberinnen.
 
 [^1-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^1-2]: [SR 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
+[^1-2]: [SR 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
 
 ## 2. Abschnitt: Zweck der Solidarbürgschaft und unzulässige Verwendungen von Mitteln sowie Amortisation und Zinssätze
 
@@ -76,8 +76,8 @@ Die Mittel aus nach der Covid-19-SBüV verbürgten Krediten dürfen nicht zur Um
 <sup>6</sup> Die Kreditnehmerin oder der Kreditnehmer darf die Rechte und Pflichten aus dem Kreditverhältnis nicht übertragen. Findet trotzdem eine Übertragung statt, so entfaltet sie mit Bezug auf den gestützt auf die Covid-19-SBüV verbürgten Kredit keine Wirkung. Zulässig ist hingegen eine Übertragung im Rahmen einer Umstrukturierung nach dem Fusionsgesetz vom 3. Oktober 2003[^2-2]. Die Kreditgeberin stimmt einer solchen Übertragung zu, sofern sie mit der Übertragung sämtlicher Aktiven und Passiven oder zumindest des wesentlichen Teils des Unternehmens der Kreditnehmerin oder des Kreditnehmers oder mit einer Umwandlung der Kreditnehmerin oder des Kreditnehmers verbunden ist. Die Kreditgeberin muss dabei keine Sicherstellung verlangen. Auf eine Übertragung, die nach diesem Absatz zulässig ist, findet Artikel 493 Absatz 5 zweiter Satz des Obligationenrechts (OR)[^2-3] keine Anwendung. Die Bürgschaftsorganisation wird schriftlich oder elektronisch durch die Kreditgeberin über die Umstrukturierung informiert.
 
 [^2-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^2-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^2-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
+[^2-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 3
 
@@ -104,15 +104,15 @@ Eine Solidarbürgschaft dauert höchstens acht Jahre:
 
 Der Zinssatz beträgt:
 
-- a.[^4-1] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 3 Covid-19-SBüV[^4-2]: 0,25 Prozent pro Jahr;
-- b.[^4-3] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 4 Covid-19-SBüV: bei Kontokorrentlimiten 0,75 Prozent pro Jahr und bei Vorschüssen mit fester Laufzeit 0,75 Prozent pro Jahr;
+- a.[^4-1] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 3 Covid-19-SBüV[^4-2]: 0,0 Prozent pro Jahr;
+- b.[^4-3] für den Kreditbetrag, besichert durch eine Solidarbürgschaft nach Artikel 4 Covid-19-SBüV: bei Kontokorrentlimiten 0,5 Prozent pro Jahr und bei Vorschüssen mit fester Laufzeit 0,5 Prozent pro Jahr;
 - c. für den Kreditbetrag, der nicht durch eine Solidarbürgschaft nach der Covid-19-SBüV besichert ist: gemäss Kreditvertrag.
 
 <sup>2</sup> Der Bundesrat passt auf Antrag des Eidgenössischen Finanzdepartements (EFD) jährlich per 31. März, erstmals per 31. März 2021, die Zinssätze nach Absatz 1 Buchstaben a und b an die Marktentwicklungen an. Der Zinssatz nach Absatz 1 Buchstabe a beträgt mindestens 0,0 Prozent und derjenige nach Absatz 1 Buchstabe b mindestens 0,5 Prozent. Das EFD hört die kreditgebenden Banken im Voraus an.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 21. März 2025 über die Anpassung der Zinssätze, in Kraft seit 31. März 2025 ([AS 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 20. März 2026 über die Anpassung der Zinssätze, in Kraft seit 31. März 2026 ([AS 2026 131](https://fedlex.data.admin.ch/eli/oc/2026/131)).
 [^4-2]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
-[^4-3]: Fassung gemäss Ziff. I der V vom 21. März 2025 über die Anpassung der Zinssätze, in Kraft seit 31. März 2025 ([AS 2025 202](https://fedlex.data.admin.ch/eli/oc/2025/202)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 20. März 2026 über die Anpassung der Zinssätze, in Kraft seit 31. März 2026 ([AS 2026 131](https://fedlex.data.admin.ch/eli/oc/2026/131)).
 
 ## 3. Abschnitt: Aufgaben der Bürgschaftsorganisationen und Vertrag mit dem Bund
 
@@ -207,7 +207,7 @@ Erscheint die Eintreibung von Forderungen als aussichtslos oder stehen Verwaltun
 
 <sup>6</sup> Der Bundesrat kann zur Vereinheitlichung der Praxis der Bürgschaftsorganisationen oder zur Wahrung der Interessen des Bundes Vorschriften zur Bewirtschaftung der auf die Bürgschaftsorganisationen übergegangenen Forderungen erlassen.
 
-[^8-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^8-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 9
 
@@ -376,7 +376,7 @@ Die Mitglieder des obersten Verwaltungs- oder Leitungsorgans sowie alle mit der 
 <sup>2</sup> Absatz 1 gilt sinngemäss für alle Rechtsformen, die einer gesetzlichen Anzeigepflicht bei Kapitalverlust und bei Überschuldung nach Artikel 725*a* und 725*b* OR unterstehen.
 
 [^24-1]: Fassung gemäss Art. 30 hiernach, in Kraft seit 1. Jan. 2023.
-[^24-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^24-3]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)
 
 #### Art. 25
@@ -390,7 +390,7 @@ Die Mitglieder des obersten Verwaltungs- oder Leitungsorgans sowie alle mit der 
 <sup>3</sup> Die Angestellten des SECO und der Bürgschaftsorganisation sind berechtigt, Übertretungen nach diesem Gesetz und nach der Covid-19-SBüV, die sie bei ihrer Tätigkeit festgestellt haben oder die ihnen gemeldet worden sind, den Strafverfolgungsbehörden oder der EFK anzuzeigen.
 
 [^25-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^25-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 8. Abschnitt: Solidarbürgschaften für weitere Kredite wegen anhaltender Folgen der Covid-19-Epidemie
 
@@ -445,8 +445,8 @@ Er kann dabei vom OR[^26-2] und vom Postorganisationsgesetz vom 17. Dezember 201
 - e. die Gewährung von mit Solidarbürgschaften besicherten Krediten durch die PostFinance AG an ihre vor dem 26. März 2020 bestehenden Kundinnen und Kunden sowie die Weiterführung solcher Kredite bis zur vollständigen Amortisation.
 
 [^26-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^26-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^26-3]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^26-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^26-3]: [SR 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
 [^26-4]: Fassung gemäss Art. 30 hiernach, in Kraft seit 1. Jan. 2023.
 
 ## 9. Abschnitt: Schlussbestimmungen
@@ -479,8 +479,8 @@ Mit Inkrafttreten des Datenschutzgesetzes vom 25. September 2020[^29-1] lauten d
 
 …[^29-3]
 
-[^29-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
-[^29-2]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^29-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993); [BBl 2020 7639](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^29-2]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^29-3]: Die Koordinationbestimmungen können unter [AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982)konsultiert werden.
 
 #### Art. 30
@@ -492,7 +492,7 @@ Mit Inkrafttreten der Änderung vom 19. Juni 2020[^30-1] des OR[^30-2] lauten di
 …[^30-3]
 
 [^30-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
-[^30-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^30-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^30-3]: Die Koordinationsbestimmung kann unter [AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982)konsultiert werden.
 
 #### Art. 31
