@@ -5,11 +5,12 @@ title: Verordnung über die Rechte und die Inklusion von Menschen mit Behinderun
 short: VRIMB
 language: de
 version: 2022-01-01
+corrected: 2026-03-31
 version_adopted: 2021-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.60"
-pdf: "https://lex.vs.ch/api/de/versions/3594/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2999/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.

@@ -5,11 +5,12 @@ title: "Ordonnance sur les droits et l'inclusion des personnes en situation de h
 short: ODIPH
 language: fr
 version: 2022-01-01
+corrected: 2026-03-31
 version_adopted: 2021-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.60"
-pdf: "https://lex.vs.ch/api/fr/versions/3594/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2999/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -309,7 +310,7 @@ ordonne:
 
 **E-accessibilité et communication**
 
-<sup>1</sup> Le canton, les communes et les organes assumant des tâches publiques cantonales et communales aménagent conformément aux standards informatiques nationaux et internationaux régissant l'accessibilité des pages Internet, reconnus par la Confédération pour ses propres sites. Ils doivent atteindre le niveau de conformité "AA" requis par ces standards.
+<sup>1</sup> Le canton, les communes et les organes assumant des tâches publiques cantonales et communales aménage conformément aux standards informatiques nationaux et internationaux régissant l'accessibilité des pages Internet, reconnus par la Confédération pour ses propres sites. Ils doivent atteindre le niveau de conformité "AA" requis par ces standards.
 
 #### Art. 34
 
