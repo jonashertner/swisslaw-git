@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Placement des avoirs de libre passage de l’institution supplétive (modification de la LPP)
 document: Projet mis en consultation
 language: fr

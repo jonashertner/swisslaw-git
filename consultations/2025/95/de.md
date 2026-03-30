@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Anlage von Freizügigkeitsgeldern der Auffangeinrichtung (Änderung des BVG)
 document: Vernehmlassungsvorlage
 language: de

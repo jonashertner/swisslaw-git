@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Investimento di fondi di libero passaggio dell’istituto collettore (modifica della LPP)
 document: Progetto posto in consultazione
 language: it
