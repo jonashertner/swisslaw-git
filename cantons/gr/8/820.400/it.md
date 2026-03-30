@@ -5,11 +5,12 @@ title: "Legge concernente la promozione e il finanziamento di misure per la prot
 short: "Legge grigionese sul clima e sull'innovazione, LGCI"
 language: it
 version: 2025-12-31
+corrected: 2026-03-31
 version_adopted: 2025-04-24
 adopted: 2025-04-24
 in_force: 2025-12-31
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3628/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3595/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.

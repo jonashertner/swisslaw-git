@@ -5,11 +5,12 @@ title: "Lescha davart la promoziun e la finanziaziun da mesiras per la protecziu
 short: "Lescha grischuna davart il clima e l'innovaziun, LGCI"
 language: rm
 version: 2025-12-31
+corrected: 2026-03-31
 version_adopted: 2025-04-24
 adopted: 2025-04-24
 in_force: 2025-12-31
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3628/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3595/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
