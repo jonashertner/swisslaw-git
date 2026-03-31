@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.24"
 title: "Steuerverordnung Nr. 24: Algorithmische Systeme"
 language: de
-version: 2025-01-01
-valid_until: 2026-03-31
-version_adopted: 2024-11-04
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 2024-11-04
 in_force: 2025-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.24"
-pdf: "https://bgs.so.ch/api/de/versions/5563/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5640/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 24: Algorithmische Systeme
 
-Vom 04.11.2024 (Stand 01.01.2025)
+Vom 04.11.2024 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -71,7 +70,7 @@ beschliesst:
 
 <sup>4</sup> Zur Ermittlung einer Regelabweichung werden die Daten gemäss § 2 Absatz 1 Buchstaben b und c berücksichtigt.
 
-<sup>5</sup> Die eingesetzten algorithmischen Systeme erstellen eine Prognose, inwieweit eine weitergehende Untersuchung durch die Veranlagungsbehörde notwendig ist. Wenn keine weitergehende Untersuchung notwendig ist, erfolgt gestützt auf diese Prognose eine automatisierte Veranlagung.
+<sup>5</sup> Die eingesetzten algorithmischen Systeme erstellen eine Prognose, inwieweit eine weitergehende Untersuchung durch das Kantonale Steueramt notwendig ist. Wenn keine weitergehende Untersuchung notwendig ist, erfolgt gestützt auf diese Prognose eine automatisierte Veranlagung.
 
 <sup>6</sup> Basierend auf Daten gemäss § 2 Absatz 1 Buchstabe a werden Muster identifiziert, die eine Prognose auf neuen Daten ermöglichen.
 
@@ -91,7 +90,7 @@ beschliesst:
 - b) überprüft es automatisierte Veranlagungen stichprobenweise,
 - c) schult es die Mitarbeitenden.
 
-<sup>3</sup> Wurde eine Veranlagung ohne weitere Untersuchung gemäss § 4 Absatz 2 automatisiert erstellt, wird die steuerpflichtige Person auf der Veranlagungsverfügung darauf hingewiesen.
+<sup>3</sup> Wurde eine Veranlagung ohne weitere Untersuchung gemäss § 5 Absatz 5 automatisiert erstellt, wird die steuerpflichtige Person auf der Veranlagungsverfügung darauf hingewiesen.
 
 #### § 7
 
