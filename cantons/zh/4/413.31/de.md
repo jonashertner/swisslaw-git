@@ -4,11 +4,10 @@ number: "413.31"
 title: Einführungsgesetz zum Berufsbildungsgesetz (EG BBG)
 short: EG BBG
 language: de
-version: "2024-08-01"
-nachtrag: "125"
-valid_until: 2026-04-01
+version: "2026-04-01"
+nachtrag: "132"
 adopted: 2008-01-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_31-2008_01_14-2011_01_01-125.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_31-2008_01_14-2011_01_01-132.html"
 text: pdf
 ---
 
@@ -52,7 +51,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 24 - 125
+- 1\. 4. 26 - 132
 
 - b. die Regelung der Durchführung von Qualifikationsverfahren der beruflichen Grundbildung und deren Finanzierung,
 
@@ -130,7 +129,7 @@ beschliesst:
 
 **3**
 
-- 1\. 7. 24 - 125 § 7.<sup>18</sup> <sup>1</sup> Der Bildungsrat regelt für die Berufsvorbereitungsjahre:
+- 1\. 4. 26 - 132 § 7.<sup>18</sup> <sup>1</sup> Der Bildungsrat regelt für die Berufsvorbereitungsjahre:
 
 **Ausführungsrecht**
 
@@ -182,6 +181,12 @@ beschliesst:
 
 <sup>4</sup> Die kantonalen Schulen werden von ihren Organen im Rahmen der Rechtsordnung selbstständig geleitet.
 
+**Auftrag**
+
+§ 10 a.<sup>34</sup> Die Berufsfachschulen a. bereiten die Lernenden gemäss den bundesrechtlichen und kantonalen Vorgaben auf die Qualifikationsverfahren zum eidgenössischen Berufsattest oder zum eidgenössischen Fähigkeitszeugnis und auf die Berufsmaturität vor,
+
+- b. fördern die körperliche, geistige, emotionale und soziale Entwicklung der Lernenden und sorgen für eine Schulkultur des gegenseitigen Respekts.
+
 **Organe der kantonalen Schulen a. Schulkommission**
 
 § 11.<sup>20</sup> <sup>1</sup> Jede kantonale Berufsfachschule untersteht der unmittelbaren Aufsicht ihrer Schulkommission. Die Schulkommission ist das oberste Organ der Schule.
@@ -212,6 +217,10 @@ beschliesst:
 
 - i. beaufsichtigt die Qualitätssicherung und fördert die Qualitätsentwicklung,
 
+**5**
+
+- 1\. 4. 26 - 132
+
 - j. genehmigt die mit der Schule abgeschlossene Leistungsvereinbarung,
 
 - k. überprüft die Umsetzung der Jahresziele und die Einhaltung des Budgets,
@@ -221,10 +230,6 @@ beschliesst:
 **b. Schulleitung**
 
 § 12.<sup>20</sup> <sup>1</sup> Die Schulleitung ist für die pädagogische, personelle, finanzielle und administrative Führung der Schule verantwortlich und vertritt diese nach aussen.
-
-**5**
-
-- 1\. 7. 24 - 125
 
 <sup>2</sup> Die Rektorin oder der Rektor und mindestens eine Prorektorin oder ein Prorektor als Stellvertretung bilden die Schulleitung. Sie erhalten eine angemessene Stundenentlastung für ihre Tätigkeit in der Schulleitung.
 
@@ -280,6 +285,26 @@ beschliesst:
 
 § 14 b.<sup>28</sup> Wird eine Administrativuntersuchung durchgeführt, kann die Direktion bei kantonal angestellten Lehrpersonen vorsorgliche Massnahmen anordnen.
 
+**Schulsozialarbeitende**
+
+§ 14 c.<sup>34</sup> <sup>1</sup> Die kantonalen Berufsfachschulen und die nichtkantonalen Berufsfachschulen mit Leistungsvereinbarung sorgen für ein Angebot an Schulsozialarbeit.
+
+**7**
+
+- 1\. 4. 26 - 132
+
+<sup>2</sup> Die Schulsozialarbeitenden erfüllen insbesondere folgende Aufgaben:
+
+- a. Unterstützung und Beratung von einzelnen Lernenden,
+
+- b. Unterstützung und Beratung von Gruppen von Lernenden, von Klassen oder von der Schulgemeinschaft,
+
+- c. Unterstützung und Beratung der Schulleitung und der Lehrpersonen namentlich bei der Förderung einer Schulkultur des gegenseitigen Respekts,
+
+- d. Stärkung der interdisziplinären Zusammenarbeit durch inner- und ausserschulische Vernetzung.
+
+<sup>3</sup> Die Verordnung regelt die Einzelheiten.
+
 **Lernende a. Zulassung**
 
 § 15.<sup>20</sup> <sup>1</sup> Eine Person wird zum Besuch der Berufsfachschule zugelassen, wenn a. der Lehrort im Kanton Zürich liegt,
@@ -296,11 +321,9 @@ beschliesst:
 
 <sup>2</sup> Das Mitspracherecht der Lernenden gemäss Art. 10 BBG wird durch diese Organisation wahrgenommen. Die Schulordnung regelt das Nähere.
 
-**7**
-
-- 1\. 7. 24 - 125 § 17.<sup>20</sup> Das Schuljahr gliedert sich in zwei Semester. Diese umfassen in der Regel je 20 Unterrichtswochen.
-
 **Schulbetrieb a. Schuljahr**
+
+§ 17.<sup>20</sup> Das Schuljahr gliedert sich in zwei Semester. Diese umfassen in der Regel je 20 Unterrichtswochen.
 
 **b. Schulort**
 
@@ -354,6 +377,10 @@ beschliesst:
 
 - b. Die Strafverfolgungsbehörden teilen die Eröffnung und den Abschluss von Strafuntersuchungen mit.
 
+**9**
+
+- 1\. 4. 26 - 132
+
 - c. Die Gerichte teilen die Anordnung von Untersuchungshaft und die rechtskräftigen Strafurteile mit.
 
 <sup>2</sup> Die Direktion prüft nach einer Mitteilung gemäss § 21 a oder gemäss Abs. 1 die Notwendigkeit der Anordnung personalrechtlicher Massnahmen und teilt das Ergebnis ihrer Prüfung der Ausbildungsstätte mit.
@@ -368,11 +395,9 @@ beschliesst:
 
 <sup>3</sup> Der Kanton kann Dritte mittels Leistungsvereinbarung mit der Führung nichtkantonaler Schulen und Lehrwerkstätten beauftragen. Die Bestimmungen über die nichtkantonalen Berufsfachschulen gelten sinngemäss.
 
-**9**
-
-- 1\. 7. 24 - 125 § 23.<sup>20</sup> <sup>1</sup> Private können Lernende mit schulisch organisierten Angeboten der Grundbildung auf das Qualifikationsverfahren zum eidgenössischen Fähigkeitszeugnis oder Berufsattest vorbereiten. Sie bedürfen hierzu einer Bewilligung durch die Direktion.
-
 **b. Private Angebote der Grundbildung**
+
+§ 23.<sup>20</sup> <sup>1</sup> Private können Lernende mit schulisch organisierten Angeboten der Grundbildung auf das Qualifikationsverfahren zum eidgenössischen Fähigkeitszeugnis oder Berufsattest vorbereiten. Sie bedürfen hierzu einer Bewilligung durch die Direktion.
 
 <sup>2</sup> Die Bewilligung wird erteilt, wenn a. die bundesrechtlichen Vorgaben eingehalten werden, insbesondere die Anforderungen an die Berufsbildungsverantwortlichen und das Bildungsangebot,
 
@@ -390,9 +415,13 @@ beschliesst:
 
 § 25.<sup>20</sup> <sup>1</sup> Der Kanton bietet den Unterricht für die Berufsmaturität an Berufsmaturitätsschulen, an Berufsfachschulen oder an Mittelschulen an.
 
-<sup>2</sup> Der Kantonsrat entscheidet über die Errichtung oder Aufhebung von kantonalen Berufsmaturitätsschulen. Für sie gelten die Bestimmungen über die kantonalen Berufsfachschulen sinngemäss, sofern die Verordnung nichts Abweichendes regelt.
+<sup>2</sup> Die Berufsmaturitätsschulen<sup>34</sup> a. bereiten die Lernenden gemäss den bundesrechtlichen und kantonalen Vorgaben auf die Berufsmaturität vor,
 
-<sup>3</sup> Der Kanton kann Dritte mittels Leistungsvereinbarung beauftragen, Berufsmaturitätsunterricht anzubieten. Die Bestimmungen über nichtkantonale Berufsfachschulen gelten sinngemäss.
+- b. fördern die körperliche, geistige, emotionale und soziale Entwicklung der Lernenden und sorgen für eine Schulkultur des gegenseitigen Respekts.
+
+<sup>3</sup> Der Kantonsrat entscheidet über die Errichtung oder Aufhebung von kantonalen Berufsmaturitätsschulen. Für sie gelten die Bestimmungen über die kantonalen Berufsfachschulen sinngemäss, sofern die Verordnung nichts Abweichendes regelt.
+
+<sup>4</sup> Der Kanton kann Dritte mittels Leistungsvereinbarung beauftragen, Berufsmaturitätsunterricht anzubieten. Die Bestimmungen über nichtkantonale Berufsfachschulen gelten sinngemäss.
 
 ### E. Qualifikationsverfahren
 
@@ -413,6 +442,10 @@ beschliesst:
 - a. die den einzelnen Ausbildungsbetrieben entstehenden Kosten der Berufsbildung durch die Beteiligung aller Betriebe des Kantons zu senken,
 
 - b. Betriebe, die Lernende ausbilden, zu unterstützen,
+
+**11**
+
+- 1\. 4. 26 - 132
 
 - c. den Aufbau von branchenbezogenen Fonds gemäss Art. 60 BBG zu fördern,
 
@@ -439,10 +472,6 @@ beschliesst:
 <sup>2</sup> Der Beitrag eines Arbeitgebers oder einer Landwirtin oder eines Landwirts beträgt höchstens ein Promille der AHV-pflichtigen Lohnsumme, die er oder sie gesamthaft ausrichtet. Der Regierungsrat legt den Beitragssatz fest.
 
 <sup>3</sup> Betriebe, die Lernende nach diesem Gesetz ausbilden oder Beiträge an einen branchenbezogenen Fonds gemäss Art. 60 BBG leisten, sind von der Beitragspflicht befreit.
-
-**11**
-
-- 1\. 7. 24 - 125
 
 <sup>4</sup> Die Beiträge werden durch die vom Kanton anerkannten Familienkassen und von der kantonalen Familienausgleichskasse eingezogen.
 
@@ -488,9 +517,11 @@ beschliesst:
 
 - b. die Angebote andernfalls nicht ausreichend bereitgestellt würden.
 
-**Organisation**
+**13**
 
-§ 29.<sup>20</sup> <sup>1</sup> Die Organe der kantonalen höheren Fachschulen sind:
+- 1\. 4. 26 - 132 § 29.<sup>20</sup> <sup>1</sup> Die Organe der kantonalen höheren Fachschulen sind:
+
+**Organisation**
 
 - a. Fachschulkommission,
 
@@ -510,10 +541,6 @@ beschliesst:
 
 <sup>2</sup> Bei Zulassungsbeschränkungen entscheidet grundsätzlich die Eignung der Studienanwärterinnen und Studienanwärter. Die Eignungsabklärungen können Dritten übertragen werden.
 
-**13**
-
-- 1\. 7. 24 - 125
-
 ### 4. Abschnitt: Weiterbildung
 
 **Berufsorientierte Weiterbildung**
@@ -528,11 +555,9 @@ beschliesst:
 
 <sup>2</sup> . . .<sup>33</sup>
 
-<sup>3</sup> . . .<sup>33</sup>
+<sup>3</sup> . . .<sup>33</sup> § 32 a.<sup>31</sup> <sup>1</sup> Der Kanton kann Angebote zum Erwerb und Erhalt von Grundkompetenzen Erwachsener gemäss Art. 13 WeBiG führen.
 
 **Grundkompetenzen**
-
-§ 32 a.<sup>31</sup> <sup>1</sup> Der Kanton kann Angebote zum Erwerb und Erhalt von Grundkompetenzen Erwachsener gemäss Art. 13 WeBiG führen.
 
 <sup>2</sup> Er kann Angebote Dritter finanziell unterstützen. Er schliesst dazu Leistungsvereinbarungen ab.
 
@@ -564,6 +589,10 @@ beschliesst:
 
 <sup>3</sup> Der Betrag gemäss Abs. 2 wird mit der Zahl der Bevölkerung der Altersgruppe von 15 bis 30 Jahren der Stadt Zürich multipliziert. Der Kostenanteil entspricht 40% dieses Betrages.
 
+**15**
+
+- 1\. 4. 26 - 132
+
 ### 6. Abschnitt: Leistungsvereinbarungen und Finanzierung
 
 ### A. Leistungsvereinbarungen
@@ -590,19 +619,15 @@ beschliesst:
 
 **Kostenanteile**
 
-§ 36.<sup>32</sup> <sup>1</sup> Der Kanton leistet Kostenanteile von 100% an die ungedeckten anrechenbaren Aufwendungen des in seinem Auftrag durchgeführten Berufsfachschul- und Berufsmaturitätsunterrichts.
+§ 36.<sup>35</sup> <sup>1</sup> Der Kanton leistet in der beruflichen Grundbildung Kostenanteile von 100% der ungedeckten anrechenbaren Aufwendungen an die von ihm beauftragten Berufsfachschulen und an den in seinem Auftrag durchgeführten Berufsmaturitätsunterricht.
 
-<sup>2</sup> Unter Einrechnung der Beiträge des Bundes leistet der Kanton Kostenanteile bis zu 75% der anrechenbaren Aufwendungen für a. die fachkundige individuelle Begleitung von Lernenden in der zweijährigen beruflichen Grundbildung gemäss Art. 18 Abs. 2 BBG, b.<sup>18</sup> Berufsvorbereitungsjahre gemäss § 6,
+<sup>2</sup> Unter Einrechnung der Beiträge des Bundes leistet der Kanton Kostenanteile bis zu 75% der anrechenbaren Aufwendungen für a.<sup>18</sup> Berufsvorbereitungsjahre gemäss § 6,
 
-**15**
+- b. die schulisch organisierte berufliche Grundbildung an Vollzeitschulen oder Lehrwerkstätten gemäss § 22 Abs. 3,
 
-- 1\. 7. 24 - 125
+- c. überbetriebliche Kurse und vergleichbare dritte Lernorte gemäss § 24 für Teilnehmende mit Lehrvertrag,
 
-- c. die schulisch organisierte berufliche Grundbildung an Vollzeitschulen oder Lehrwerkstätten gemäss § 22 Abs. 3,
-
-- d. überbetriebliche Kurse und vergleichbare dritte Lernorte gemäss § 24 für Teilnehmende mit Lehrvertrag,
-
-- e. Bildungsveranstaltungen für Berufsbildnerinnen und Berufsbildner.
+- d. Bildungsveranstaltungen für Berufsbildnerinnen und Berufsbildner.
 
 <sup>3</sup> Die Kostenanteile können in Form von Pauschalen ausgerichtet werden. Diese werden auf der Grundlage der Kostenrechnung nach Abs. 1 und 2 festgelegt.
 
@@ -634,7 +659,11 @@ beschliesst:
 
 - e. Organisationen und Einrichtungen für die interkantonale Koordination der Berufsbildung.
 
-<sup>2</sup> Übersteigt das nach Ausrichtung von Kostenanteilen verbleibende Defizit für Bildungsangebote gemäss § 36 Abs. 2 lit. b und c die zumutbare Eigenleistung des Bildungsanbieters, kann der Kanton das Defizit teilweise oder ganz übernehmen, wenn für das Angebot ein besonderes öffentliches Interesse besteht.<sup>20</sup>
+<sup>2</sup> Übersteigt das nach Ausrichtung von Kostenanteilen verbleibende Defizit für Bildungsangebote gemäss § 36 Abs. 2 lit. a und b die zumutbare Eigenleistung des Bildungsanbieters, kann der Kanton das Defizit teilweise oder ganz übernehmen, wenn für das Angebot ein besonderes öffentliches Interesse besteht.<sup>35</sup>
+
+**17**
+
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Der Kanton kann Subventionen bis zu 100% der anrechenbaren Aufwendungen ausrichten für<sup>31</sup> a. Angebote zum Erwerb und Erhalt von Grundkompetenzen Erwachsener gemäss § 32 a Abs. 2,
 
@@ -661,10 +690,6 @@ beschliesst:
 **Verfahren**
 
 § 40.<sup>20</sup> Ausbildungseinrichtungen, die um Staatsbeiträge ersuchen, gewähren Einblick in die Rechnungsführung. Der Kanton kann Richtlinien über die Kostenrechnung erlassen.
-
-**17**
-
-- 1\. 7. 24 - 125
 
 ### C. Gebühren, Schul- und Kursgelder
 
@@ -704,6 +729,10 @@ beschliesst:
 
 - c. Fr. 140 bis 400 je Semesterlektion für Personen, die sich auf die Lehrabschlussprüfung vorbereiten und weder in einem Lehrverhältnis stehen noch Repetierende sind,
 
+**19**
+
+- 1\. 4. 26 - 132
+
 - d. bis Fr. 200 je Semesterlektion für Kurse zum Erwerb und Erhalt von Grundkompetenzen Erwachsener,
 
 - e. Fr. 180 bis 600 je Semesterlektion für alle übrigen Kurse.
@@ -727,10 +756,6 @@ beschliesst:
 § 45.<sup>20</sup> <sup>1</sup> Hat der Kanton eine kommunale Baute gemäss dem Gesetz über die Trägerschaft der Berufsschulen vom 2. Dezember 1984 übernommen und wird diese für den Berufsschulunterricht nicht mehr benötigt, so kann die Gemeinde die Baute zurückverlangen. Der Rückgabeanspruch erlischt 100 Jahre nach der Übernahme der Baute durch den Kanton.
 
 <sup>2</sup> Die Gemeinde hat die ihr ausgerichtete Übernahmeentschädigung zurück zu erstatten und die wertvermehrenden Investitionen des Kantons abzugelten.
-
-**19**
-
-- 1\. 7. 24 - 125
 
 ### 7. Abschnitt: Rechtspflege
 
@@ -770,7 +795,11 @@ a.<sup>20</sup> Einführungsgesetz zum Bundesgesetz über die Berufsbildung vom 
 
 - c. Gesetz über das Arbeitsverhältnis des Staatspersonals vom 27. September 1998<sup>6</sup>: . . .<sup>17</sup> d.<sup>18</sup> Volksschulgesetz vom 7. Februar 2005<sup>7</sup>: . . .<sup>17</sup> e.<sup>18</sup> Gesetz über die hauswirtschaftliche Fortbildung vom 28. September 1986<sup>8</sup>: . . .<sup>17</sup>
 
-- f. Jugendhilfegesetz vom 14. Juni 1981<sup>11</sup>: . . .<sup>17</sup> § 51.<sup>21</sup> Anordnungen über Staatsbeiträge, die in Anwendung des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 21. Juni 1987 ergangen sind, bleiben in Kraft, sofern sie nicht unter Vorbehalt des neuen Rechts ausgesprochen wurden.
+- f. Jugendhilfegesetz vom 14. Juni 1981<sup>11</sup>: . . .<sup>17</sup>
+
+**21**
+
+- 1\. 4. 26 - 132 § 51.<sup>21</sup> Anordnungen über Staatsbeiträge, die in Anwendung des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 21. Juni 1987 ergangen sind, bleiben in Kraft, sofern sie nicht unter Vorbehalt des neuen Rechts ausgesprochen wurden.
 
 **Übergangsbestimmung**
 
@@ -824,10 +853,6 @@ a.<sup>20</sup> Einführungsgesetz zum Bundesgesetz über die Berufsbildung vom 
 
 <sup>25</sup> Eingefügt durch G vom 3. Februar 2014 (OS 69, 309; ABl 2013-07-05). In Kraft seit 1. August 2014.
 
-**21**
-
-- 1\. 7. 24 - 125
-
 <sup>26</sup> Eingefügt durch G über die Anpassung der Gesetzgebung im Bereich der Bildungsdirektion an das Gesetz über die Information und den Datenschutz vom 24. August 2015 (OS 71, 9; ABl 2014-11-14). In Kraft seit 1. Januar 2017 (OS 71, 463; ABl 2016-10-14).
 
 <sup>27</sup> Fassung gemäss G vom 23. Januar 2017 (OS 72, 383; ABl 2016-07-08). In Kraft seit 1. August 2017.
@@ -843,3 +868,11 @@ a.<sup>20</sup> Einführungsgesetz zum Bundesgesetz über die Berufsbildung vom 
 <sup>32</sup> Fassung gemäss G vom 13. November 2023 (OS 79, 193; ABl 2022-03-11). In Kraft seit 1. August 2024.
 
 <sup>33</sup> Aufgehoben durch G vom 13. November 2023 (OS 79, 193; ABl 2022-03-11). In Kraft seit 1. August 2024.
+
+<sup>34</sup> Eingefügt durch G vom 27. Januar 2025 (OS 81, 88; ABl 2023-10-06). In Kraft seit 1. April 2026.
+
+<sup>35</sup> Fassung gemäss G vom 27. Januar 2025 (OS 81, 88; ABl 2023-10-06). In Kraft seit 1. April 2026.
+
+**23**
+
+- 1\. 4. 26 - 132
