@@ -4,13 +4,12 @@ number: "811.18"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
 short: V EG Ausbildungsfördergesetz Pflege
 language: de
-version: 2024-07-01
-valid_until: 2026-03-31
-version_adopted: 2024-06-18
+version: 2026-04-01
+version_adopted: 2026-01-26
 adopted: 2024-06-18
 in_force: 2024-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.18"
-pdf: "https://bgs.so.ch/api/de/versions/5456/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5621/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5456/pdf_file"
 
 (V EG Ausbildungsfördergesetz Pflege)
 
-Vom 18.06.2024 (Stand 01.07.2024)
+Vom 18.06.2024 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -37,10 +36,11 @@ beschliesst:
 
 <sup>1</sup> Das Departement des Innern ist das für den Vollzug der Ausbildungsverpflichtung und die Gewährung von Beiträgen für Ausbildungsleistungen zuständige Departement.
 
-<sup>2</sup> Das Departement für Bildung und Kultur:
+<sup>2</sup> Das Departement für Bildung, Kultur und Sport:
 
 - a) ist das für die Förderung einer bedarfsgerechten Erhöhung der Anzahl Ausbildungsabschlüsse in Pflege an der Höheren Fachschule Pflege Olten und die Gewährung von Ausbildungsbeiträgen zuständige Departement;
-- b) bestimmt die für die Einrichtungen des Gesundheitswesens gemäss § 4 Absatz 1 EG Ausbildungsfördergesetz Pflege[^1-1] (Einrichtungen) geltenden Vorgaben zur Ausbildungsqualität und überprüft deren Einhaltung.
+- b) überprüft die von den Einrichtungen des Gesundheitswesens (Einrichtungen) erarbeiteten Ausbildungskonzepte gemäss § 4 Absatz 1 EG Ausbildungsfördergesetz Pflege[^1-1] im Rahmen der Erteilung der Ausbildungsbewilligung;
+- c) bestimmt die für die Einrichtungen gemäss § 5 Absatz 1 EG Ausbildungsfördergesetz Pflege geltenden Vorgaben zur Ausbildungsqualität und überprüft deren Einhaltung.
 
 <sup>3</sup> Die Departemente können in ihren jeweiligen Zuständigkeitsbereichen Richtlinien erlassen.
 
@@ -54,7 +54,7 @@ beschliesst:
 
 <sup>1</sup> Die Pflicht zur Erbringung von Ausbildungsleistungen:
 
-- a) beginnt bei der Aufnahme der Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung (OKP) in der ersten Jahreshälfte ab dem auf die Tätigkeitsaufnahme folgenden Kalenderjahr und bei der Aufnahme der betreffenden Tätigkeit in der zweiten Jahreshälfte ab dem übernächsten Kalenderjahr;
+- a) beginnt bei Aufnahme der Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung (OKP) ab dem überübernächsten Kalenderjahr;
 - b) endet mit der Aufgabe der Tätigkeit zulasten der OKP.
 
 <sup>2</sup> Die Einrichtungen entscheiden im Rahmen der vom Departement festgelegten Ausbildungsleistungen frei über die Verteilung der Ausbildungsleistungen auf Personen, welche den Bildungsgang Pflege an einer höheren Fachschule (HF) und Personen, welche den Bachelorstudiengang in Pflege an einer Fachhochschule (FH) absolvieren (Pflegefachpersonen HF und FH).
@@ -77,7 +77,7 @@ beschliesst:
 
 <sup>3</sup> Der Standardwert bei Organisationen, die Pflegefachpersonen beschäftigen, legt fest, wie viele Ausbildungswochen die betreffenden Einrichtungen pro 1'000 Leistungsstunden gemäss Artikel 7*a* der Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV) vom 29. September 1995[^3-1] erbringen müssen.
 
-<sup>4</sup> Der Standard bei Spitälern legt fest, wie viele Ausbildungswochen die betreffenden Einrichtungen pro Vollzeitäquivalent (VZÄ) im Bereich der Pflege und Betreuung pro Jahr erbringen müssen. In Bezug auf die Berechnung der VZÄ gelten folgende Vorgaben:
+<sup>4</sup> Der Standardwert bei Spitälern legt fest, wie viele Ausbildungswochen die betreffenden Einrichtungen pro Vollzeitäquivalent (VZÄ) im Bereich der Pflege und Betreuung pro Jahr erbringen müssen. In Bezug auf die Berechnung der VZÄ gelten folgende Vorgaben:
 
 - a) Bei Personen mit mehreren Ausbildungsabschlüssen wird der jeweils höchste Ausbildungsabschluss berücksichtigt.
 - b) Es werden unabhängig vom Einsatzort und der hierarchischen Stellung innerhalb der Einrichtung sämtliche angestellten und beauftragten Personen, die im Kerngeschäft Pflege und Betreuung tätig sind, berücksichtigt. Nicht anrechenbar sind:
@@ -85,7 +85,7 @@ beschliesst:
   - 2\. Bildungsverantwortliche im Rahmen des betreffenden Bildungsauftrags;
   - 3\. Forschende ohne Bezug zu Patienten und Patientinnen.
 
-<sup>5</sup> Der Standard bei Pflegeheimen legt fest, wie viele Ausbildungswochen die betreffenden Einrichtungen pro VZÄ gemäss Richtstellenplan pro Jahr erbringen müssen. Der Richtstellenwert wird aufgrund der Anzahl erbrachter Pflegetage pro Pflegestufe gemäss dem Bedarfserfassungssystem RAI-RUG und basierend auf dem mittleren minimalen Personalbedarf pro Pflegestufe berechnet.
+<sup>5</sup> Der Standardwert bei Pflegeheimen legt fest, wie viele Ausbildungswochen die betreffenden Einrichtungen pro VZÄ gemäss Richtstellenplan pro Jahr erbringen müssen. Der Richtstellenwert wird aufgrund der Anzahl erbrachter Pflegetage pro Pflegestufe gemäss dem Bedarfserfassungssystem RAI-RUG und basierend auf dem mittleren minimalen Personalbedarf pro Pflegestufe berechnet.
 
 <sup>6</sup> Als Ausbildungswochen gilt die effektive Anzahl von Arbeitswochen, in welchen die auszubildenden Pflegefachpersonen HF und FH pro Kalenderjahr in der Einrichtung arbeiten.
 
@@ -95,7 +95,7 @@ beschliesst:
 
 **Gewichtungsfaktor**
 
-<sup>1</sup> Das Departement legt für den Bildungsgang Pflege HF und den Studiengang in Pflege FH jährlich einen versorgungsspezifischen Gewichtungsfaktor von 0.5 bis 1.5 fest. In diesem Rahmen ist Folgendes zu berücksichtigen:
+<sup>1</sup> Das Departement legt für den Bildungsgang Pflege HF und den Studiengang in Pflege FH jährlich einen versorgungsspezifischen Gewichtungsfaktor von 0.17 bis 1.50 fest. In diesem Rahmen ist Folgendes zu berücksichtigen:
 
 - a) Den Einrichtungen, die sich ernsthaft darum bemühen, soll es möglich sein, die festgelegten Ausbildungsleistungen zu erbringen.
 - b) Die Ausbildungsziele der kantonalen Bedarfsplanung sollen im Wesentlichen erfüllt werden.
@@ -108,6 +108,8 @@ beschliesst:
 
 - a) für den Bildungsgang Pflege HF 300 Franken;
 - b) für den Studiengang in Pflege FH 450 Franken.
+
+<sup>1<sup>bis</sup></sup> Das Departement kann den Einrichtungen im Rahmen der Erträge der Ausgleichszahlungen auf Gesuch hin pauschale zusätzliche Abgeltungen für Massnahmen und Projekte zur Förderung der Innovation und der Qualität in der praktischen Ausbildung gewähren. Vorrangig werden Projekte betreffend die Bildung von versorgungsbereichsübergreifenden Ausbildungsverbünden im Rahmen einer Anschubfinanzierung unterstützt. Nicht verteilte Erträge sind jeweils zugunsten des Fonds Ausgleichszahlungen auf das folgende Jahr zu übertragen.
 
 <sup>2</sup> Die Abgeltungen sind von den Einrichtungen für die Verbesserung der praktischen Ausbildung zu verwenden. Das Departement kann entsprechende Nachweise verlangen.
 
@@ -128,18 +130,18 @@ beschliesst:
   - 4\. massgeblicher Wert entsprechend der Normverteilung gemäss Anhang 2;
 - b) bei Spitälern:
   - 1\. Anzahl VZÄ im Bereich der Pflege und Betreuung;
-  - 2\. Standard gemäss § 3 Absatz 4;
+  - 2\. Standardwert gemäss § 3 Absatz 4;
   - 3\. Gewichtungsfaktor gemäss § 4;
   - 4\. massgeblicher Wert entsprechend der Normverteilung gemäss Anhang 2;
 - c) bei Pflegeheimen:
   - 1\. Anzahl VZÄ gemäss Richtstellenplan;
-  - 2\. Standard gemäss § 3 Absatz 5;
+  - 2\. Standardwert gemäss § 3 Absatz 5;
   - 3\. Gewichtungsfaktor gemäss § 4;
   - 4\. massgeblicher Wert entsprechend der Normverteilung gemäss Anhang 2.
 
 <sup>4</sup> Im Rahmen der Festlegung der Ausbildungsleistungen wird den Einrichtungen unverbindlich die voraussichtliche Höhe der Abgeltung mitgeteilt.
 
-<sup>5</sup> Sofern Einrichtungen aufgrund von höherer Gewalt, wie insbesondere Naturereignisse, Pandemien oder anderweitige Störungen der öffentlichen Ordnung, trotz ernsthafter Bemühungen nicht in der Lage waren, die gemäss Absatz 1 festgelegten Ausbildungsleistungen zu erbringen, kann das Departement die Ausbildungsleistungen der betroffenen Einrichtungen nachträglich in angemessenem Umfang reduzieren oder die betroffenen Einrichtungen von der Ausbildungspflicht befreien.
+<sup>5</sup> Sofern Einrichtungen aufgrund von höherer Gewalt, wie insbesondere Naturereignisse, Pandemien oder anderweitige Störungen der öffentlichen Ordnung, trotz ernsthafter Bemühungen nicht in der Lage waren, die gemäss Absatz 1 festgelegten Ausbildungsleistungen zu erbringen, kann das Departement die Ausbildungsleistungen der betroffenen Einrichtungen auf Gesuch hin nachträglich in angemessenem Umfang reduzieren oder die betroffenen Einrichtungen von der Ausbildungspflicht befreien.
 
 [^6-1]: SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de).
 
@@ -160,13 +162,17 @@ beschliesst:
 <sup>2</sup> Die Höhe der Ausgleichszahlung entspricht dem Betrag, der sich aus der Multiplikation folgender Faktoren ergibt:
 
 - a) Abgeltung für die festgelegte Ausbildungsleistung;
-- b) zweifache prozentuale Differenz zwischen festgelegter und im Kalenderjahr erbrachter Ausbildungsleistung.
+- b) zweifache prozentuale Differenz zwischen festgelegter und im Kalenderjahr erbrachter Ausbildungsleistung abzüglich des Toleranzwerts von 10 Prozent.
+
+<sup>3</sup> Die von den Einrichtungen geleisteten Ausgleichszahlungen dürfen im Rahmen der Festlegung der Tarife und Taxen nicht in den Kostenrechnungen berücksichtigt werden.
+
+<sup>4</sup> Die Erträge der Ausgleichszahlungen sind zweckgebunden für Abgeltungen gemäss § 5 Absatz 1<sup>bis</sup> zu verwenden.
 
 #### § 9
 
 **Mitwirkungspflichten**
 
-<sup>1</sup> Die Einrichtungen haben dem Departement jährlich ein Ausbildungskonzept einzureichen.
+<sup>1</sup> …
 
 <sup>2</sup> Organisationen, die Pflegefachpersonen beschäftigen, haben dem Departement insbesondere folgende Daten zur Verfügung zu stellen:
 
@@ -259,6 +265,10 @@ beschliesst:
 **Nachweis der Berufstätigkeit**
 
 <sup>1</sup> Personen, die Beiträge erhalten haben, melden dem Departement umgehend die Aufnahme der Tätigkeit als Pflegefachperson HF oder FH. Sie informieren das Departement erneut nach dreijähriger Berufstätigkeit.
+
+<sup>2</sup> Die Pflicht, nach Abschluss der Ausbildung drei Jahre in diesem Beruf tätig zu sein, muss spätestens innerhalb von sechs Jahren erfüllt werden.
+
+<sup>3</sup> Das Arbeitspensum hat während der dreijährigen Tätigkeit durchschnittlich mindestens 40 Prozent zu betragen.
 
 #### § 17
 
