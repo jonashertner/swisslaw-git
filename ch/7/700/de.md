@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz
 short: RPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: de
-version: 2026-01-01
+version: 2026-04-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/de/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/de"
 
 (Raumplanungsgesetz, RPG)[^t-1]
 
-vom 22. Juni 1979 (Stand am 1. Januar 2026)
+vom 22. Juni 1979 (Stand am 1. April 2026)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
@@ -215,9 +215,14 @@ Jeder Kanton erstellt einen Richtplan, worin er mindestens festlegt:
 - b. wie die raumwirksamen Tätigkeiten im Hinblick auf die anzustrebende Entwicklung aufeinander abgestimmt werden;
 - c. in welcher zeitlichen Folge und mit welchen Mitteln vorgesehen ist, die Aufgaben zu erfüllen.
 
-<sup>2</sup> Vorhaben mit gewichtigen Auswirkungen auf Raum und Umwelt bedürfen einer Grundlage im Richtplan.
+<sup>2</sup> Vorhaben mit gewichtigen Auswirkungen auf Raum und Umwelt bedürfen einer Grundlage im Richtplan. Keiner Grundlage im Richtplan bedürfen insbesondere Vorhaben für die Nutzung erneuerbarer Energien ohne gewichtige Auswirkungen auf Raum und Umwelt, auch wenn es sich dabei um Anlagen von nationalem Interesse nach den Artikeln 12 Absatz 2 und 13 Absatz 1 des Energiegesetzes vom 30. September 2016[^8-2] (EnG) handelt.[^8-3]
+
+<sup>3</sup> Vorhaben für die Nutzung erneuerbarer Energien können unabhängig von der Festlegung eines Gebiets oder einer Gewässerstrecke nach Artikel 8*b* des vorliegenden Gesetzes und nach Artikel 10 Absatz 1 EnG geplant und bewilligt werden.[^8-4]
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^8-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8-3]: Zweiter Satz eingefügt durch Anhang Ziff. 2 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^8-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 8a
 
@@ -469,6 +474,16 @@ Das kantonale Recht kann:
 [^18a-3]: Fassung gemäss Ziff. III des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^18a-4]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^18a-5]: Eingefügt durch Ziff. III des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 18b
+
+**Wasserkraftwerke**[^18b-1]
+
+<sup>1</sup> Wasserkraftwerke mit einer installierten Leistung von höchstens 10 MW bedürfen keiner Grundlage im Richtplan nach Artikel 8 Absatz 2.
+
+<sup>2</sup> Wasserkraftwerke und ihre Erschliessungsanlagen bedürfen keiner Grundlage in einem Nutzungsplan.
+
+[^18b-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 19
 

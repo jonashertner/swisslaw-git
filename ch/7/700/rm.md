@@ -4,11 +4,11 @@ title: "Lescha federala dals 22 da zercladur 1979 davart la planisaziun dal terr
 short: LPT
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: rm
-version: 2026-01-01
+version: 2026-04-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/rm/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart la planisaziun dal territori, LPT)[^t-1]
 
-dals 22 da zercladur 1979 (versiun dal 1. da schaner 2026)
+dals 22 da zercladur 1979 (versiun dal 1. d’avrigl 2026)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 6 d’oct. 1995, en vigur dapi il 1. da schan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
@@ -183,7 +183,7 @@ En las basas descrivan ils chantuns er il stadi ed il svilup vertent:[^6-4]
 - b<sup>ter</sup>.[^6-8] dals edifizis e stabiliments publics;
 - c.[^6-9] da lur surfatschas cultivablas.
 
-<sup>4</sup> Els resguardan ils concepts ed ils plans secturials da la Confederaziun, ils plans directivs dals chantuns vischins sco er concepts regiunals da svilup e plans regiunals.
+<sup>4</sup> Els resguardan ils concepts ed ils plans sectorials da la Confederaziun, ils plans directivs dals chantuns vischins sco er concepts regiunals da svilup e plans regiunals.
 
 [^6-1]: Abolì tras la cifra I da la LF dals 15 da zer. 2012, cun effect dapi il 1. da matg 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^6-2]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da matg 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
@@ -217,9 +217,14 @@ Mintga chantun fa in plan directiv che fixescha almain:
 - b. co che las activitads che han in effect sin il territori vegnan coordinadas ina cun l’autra en vista al svilup giavischà;
 - c. l’urari ed ils meds ch’èn previs per ademplir las incumbensas.
 
-<sup>2</sup> Projects cun effects considerabels sin il territori e sin l’ambient ston avair ina basa en il plan directiv.
+<sup>2</sup> Projects cun effects considerabels sin il territori e sin l’ambient ston avair ina basa en il plan directiv. Nagina basa en il plan directiv na dovran en spezial projects per l’utilisaziun d’energias regenerablas senza effects considerabels sin il territori e sin l’ambient, er sch’i sa tracta d’implants d’interess naziunal tenor ils artitgels 12 alinea 2 e 13 alinea 1 da la Lescha d’energia dals 30 da settember 2016[^8-2] (LEn).[^8-3]
+
+<sup>3</sup> Projects per l’utilisaziun d’energias regenerablas pon vegnir planisads e permess independentamain da la determinaziun d’in territori u d’in traject d’aua tenor l’artitgel 8*b* da questa lescha e tenor l’artitgel 10 alinea 1 LEn.[^8-4]
 
 [^8-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da matg 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^8-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8-3]: Integrà las segunda frasa tras la cifra 2 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^8-4]: Integrà tras la cifra 2 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 8a
 
@@ -292,11 +297,11 @@ Il plan directiv designescha ils territoris ed ils trajects d’auas ch’èn ad
 
 #### Art. 13
 
-**Concepts e plans secturials**
+**Concepts e plans sectorials**
 
-<sup>1</sup> La Confederaziun elavura las basas per pudair ademplir sias incumbensas che han in effect sin il territori; ella fa ils concepts ed ils plans secturials necessaris ed als accordescha in cun l’auter.
+<sup>1</sup> La Confederaziun elavura las basas per pudair ademplir sias incumbensas che han in effect sin il territori; ella fa ils concepts ed ils plans sectorials necessaris ed als accordescha in cun l’auter.
 
-<sup>2</sup> Ella collavura cun ils chantuns ed als renda enconuschent a temp ses concepts, ses plans secturials e ses projects da construcziun.
+<sup>2</sup> Ella collavura cun ils chantuns ed als renda enconuschent a temp ses concepts, ses plans sectorials e ses projects da construcziun.
 
 ### 3. chapitel Plans d’utilisaziun
 
@@ -471,6 +476,16 @@ Il dretg chantunal po:
 [^18a-3]: Versiun tenor la cifra III da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^18a-4]: Versiun tenor la cifra I da la LF dals 29 da sett. 2023, en vigur dapi il 1. da schan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^18a-5]: Integrà tras la cifra III da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 18b
+
+**Ovras idraulicas**[^18b-1]
+
+<sup>1</sup> Ovras idraulicas cun ina prestaziun installada da maximalmain 10 MW na dovran nagina basa en il plan directiv tenor l’artitgel 8 alinea 2.
+
+<sup>2</sup> Las ovras idraulicas e lur stabiliments d’avertura na dovran nagina basa en in plan d’utilisaziun.
+
+[^18b-1]: Integrà tras la cifra 2 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 19
 

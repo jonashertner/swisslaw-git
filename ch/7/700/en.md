@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 1979 on Spatial Planning (Spatial Planning Act, S
 short: SPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: en
-version: 2026-01-01
+version: 2026-04-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/en/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/en/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Spatial Planning Act, SPA)[^t-1]
 
-of 22 June 1979 (Last amended on 1 January 2026)
+of 22 June 1979 (Last amended on 1 April 2026)
 
 [^t-1]: Amended by No 1 of the FA of 6 Oct. 1995, in force since 1 Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
@@ -217,9 +217,14 @@ Each canton shall prepare a structure plan, which shall define the following as 
 - b. how activities that have a spatial impact are to be coordinated with a view to achieving development targets;
 - c. the proposed schedule and resources for fulfilling tasks.
 
-<sup>2</sup> Projects with significant effects on space and the environment must have a basis in the structure plan.
+<sup>2</sup> Projects with significant effects on space and the environment must have a basis in the structure plan. Specification in the structure plan is not required for projects that do not have a significant impact on space or the environment, in particular projects for the use of renewable energies, even if they involve installations of national interest in accordance with Articles 12 paragraph 2 and 13 paragraph 1 of the Energy Act of 30 September 2016[^8-2] (EnA).[^8-3]
+
+<sup>3</sup> Projects for the use of renewable energies may be planned and permitted irrespective of whether an area or a stretch of water pursuant to Article 8*b* of this Act and to Article 10 paragraph 1 EnA has been designated.[^8-4]
 
 [^8-1]: Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^8-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8-3]: Second sentence inserted by Annex No 2 of the FA of 26 Sept. 2025, in force since 1 April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^8-4]: Inserted by Annex No 2 of the FA of 26 Sept. 2025, in force since 1 April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 8a
 
@@ -366,7 +371,7 @@ Agricultural zones shall ensure the long-term use of the land for food, the cons
 
 <sup>5</sup> The Federal Council shall specify the cases in which exemptions from the provisions of the Environmental Protection Act of 7 October 1983[^16-3] are permitted outside building zones with regard to ambient levels of odours and noise from agriculture, in order to ensure the priority of agriculture.[^16-4]
 
-[^16-1]: Amended by No 1 of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^16-1]: Amended by No 1 of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^16-2]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^16-3]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^16-4]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
@@ -389,7 +394,7 @@ Buildings and installations at farms that are required for the production of ene
 
 <sup>3</sup> Buildings and installations that serve a purpose beyond the internal expansion of an agricultural or horticultural concern may be deemed be in conformity with zone requirements if they are to be constructed in an exempted area within the agricultural zone, as determined by the canton in a planning procedure.
 
-[^16a-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^16a-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^16a-2]: Inserted by No I of the FA of 23 March 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Amended by No III of the FA of 29 Sept. 2023 on a Secure Energy Supply from Renewable Energy Sources, in force since 1 Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^16a-3]: Second sentence inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^16a-4]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2000 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
@@ -472,6 +477,16 @@ Cantonal law may:
 [^18a-4]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^18a-5]: Inserted by No III of the FA of 29. Sept. 2023 on a Secure Energy Supply from Renewable Energy Sources, in force since 1 Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
+#### Art. 18b
+
+**Hydropower plants**[^18b-1]
+
+<sup>1</sup> Hydropower plants with an installed capacity of a maximum of 10 MW need not be specified in the structure plan in accordance with Article 8 paragraph 2.
+
+<sup>2</sup> Hydropower plants and their ancillary installations need not be specified in a land use plan.
+
+[^18b-1]: Inserted by Annex No 2 of the FA of 26 Sept. 2025, in force since 1 April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+
 #### Art. 19
 
 **Infrastructure**
@@ -545,7 +560,7 @@ Notwithstanding Article 22 paragraph 2a, permits to erect buildings and installa
 
 <sup>2</sup> The Federal Council may permit energy-related redevelopment projects that are not provided for in any other provision.[^24-3]
 
-[^24-1]: Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^24-1]: Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^24-2]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^24-3]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
@@ -624,7 +639,7 @@ If the change in purpose of a building or installation outside the building zone
 
 <sup>2</sup> The exceptional permit must be issued subject to the condition that a new official ruling be made should circumstances change.
 
-[^24a-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^24a-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 
 #### Art. 24b
 
@@ -646,7 +661,7 @@ If the change in purpose of a building or installation outside the building zone
 
 <sup>5</sup> The provisions of the Federal Act of 4 October 1991 on Rural Land Rights with respect to non-agricultural businesses do not apply to subsidiary operations.
 
-[^24b-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^24b-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^24b-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 [^24b-3]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^24b-4]: Inserted by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
@@ -668,7 +683,7 @@ If the change in purpose of a building or installation outside the building zone
 
 <sup>5</sup> Every case is subject to compatibility with the priority concerns of spatial planning.[^24c-6]
 
-[^24c-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^24c-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^24c-2]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^24c-3]: Amended by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
 [^24c-4]: Inserted by No I of the FA of 23 Dec. 2011, in force since 1 Nov. 2012 ([AS 2012 5535](https://fedlex.data.admin.ch/eli/oc/2012/640); [BBl 2011 7083](https://fedlex.data.admin.ch/eli/fga/2011/1125)[7097](https://fedlex.data.admin.ch/eli/fga/2011/1127)).
@@ -726,7 +741,7 @@ Permits under this Article may be issued only if:[^24d-6]
 - d. the agricultural cultivation of the surrounding land is not endangered; and
 - e. there are no overriding interests to the contrary.
 
-[^24d-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^24d-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^24d-2]: Amended by No I of the FA of 22 March 2013, in force since 1 May 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^24d-3]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^24d-4]: Inserted by No I of the FA of 23 March 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Repealed by No I of the FA of 22 March 2013, with effect from 1 May 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
@@ -769,8 +784,8 @@ Permits under this Article may be issued only if:[^24d-6]
 
 <sup>5</sup> The right to restore to the lawful state is subject to a 30-year statute of limitations. The time limit is deemed to have been met if the competent authority takes action for the first time before expiry of the time limit. No statute of limitations applies if public interests, in particular public order, peace, safety and security or health, are at risk.[^25-4]
 
-[^25-1]: Inserted by No I of the FA of 6 Oct. 1995 (AS**1996** 965; [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
-[^25-2]: Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^25-1]: Inserted by No I of the FA of 6 Oct. 1995 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^25-2]: Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^25-3]: Come into force on 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^25-4]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
@@ -793,7 +808,7 @@ The authority responsible for coordination:
 
 <sup>4</sup> These principles apply by analogy to the land use plan procedure.
 
-[^25a-1]: Inserted by No I of the FA of 6 Oct. 1996, in force since 1 Jan. 1997 (AS **1996** 965; BBl **199****4** III 1075).
+[^25a-1]: Inserted by No I of the FA of 6 Oct. 1996, in force since 1 Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 #### Art. 26
 
@@ -958,7 +973,7 @@ The cantons shall ensure that:
 
 The Federal Council shall determine the conditions under which a change of purpose may be permitted to commercial buildings and installations built before 1 January 1980 or which subsequently come to contravene zone requirements as a result of changes in the land use plans.
 
-[^37a-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); BBl **199****6** III 513).
+[^37a-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 
 #### Art. 38
 

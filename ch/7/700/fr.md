@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 juin 1979 sur l'aménagement du territoire (Loi sur
 short: LAT
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: fr
-version: 2026-01-01
+version: 2026-04-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/fr"
 
 (Loi sur l’aménagement du territoire, LAT)[^t-1]
 
-du 22 juin 1979 (État le 1<sup>er</sup> janvier 2026)
+du 22 juin 1979 (État le 1<sup>er</sup> avril 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 1059](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
@@ -215,9 +215,14 @@ Tous les cantons établissent un plan directeur dans lequel ils précisent au mo
 - b. la façon de coordonner les activités qui ont des effets sur l’organisation du territoire, afin d’atteindre le développement souhaité;
 - c. une liste de priorités et les moyens à mettre en œuvre.
 
-<sup>2</sup> Les projets qui ont des incidences importantes sur le territoire et l’environnement doivent avoir été prévus dans le plan directeur.
+<sup>2</sup> Les projets qui ont des incidences importantes sur le territoire et l’environnement doivent avoir été prévus dans le plan directeur. Ne doivent pas obligatoirement avoir été prévus dans le plan directeur notamment les projets d’utilisation d’énergies renouvelables qui n’ont pas d’incidences importantes sur le territoire et l’environnement, même s’il s’agit d’installations qui présentent un intérêt national au sens des art. 12, al. 2, et 13, al. 1, de la loi du 30 septembre 2016 sur l’énergie (LEne)[^8-2].[^8-3]
+
+<sup>3</sup> Les projets d’utilisation d’énergies renouvelables peuvent être planifiés et autorisés indépendamment de la désignation d’une zone ou d’un tronçon de cours d’eau au sens de l’art. 8*b* de la présente loi et de l’art. 10, al. 1, LEne.[^8-4]
 
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^8-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8-3]: Phrase introduite par l’annexe ch. 2 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^8-4]: Introduit par l’annexe ch. 2 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 8a
 
@@ -469,6 +474,16 @@ Le droit cantonal peut:
 [^18a-3]: Nouvelle teneur selon le ch. III de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^18a-4]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^18a-5]: Introduit par le ch. III de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 18b
+
+**Installations hydroélectriques**[^18b-1]
+
+<sup>1</sup> Les centrales hydroélectriques dont la puissance installée n’excède pas 10 MW ne doivent pas être prévues dans le plan directeur au sens de l’art. 8, al. 2.
+
+<sup>2</sup> Les centrales hydroélectriques et leurs installations d’équipement ne doivent pas être prévues dans un plan d’affectation.
+
+[^18b-1]: Introduit par l’annexe ch. 2 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 19
 

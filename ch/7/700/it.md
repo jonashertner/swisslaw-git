@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 1979 sulla pianificazione del territorio (L
 short: LPT
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: it
-version: 2026-01-01
+version: 2026-04-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/it/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260101/it"
 
 (Legge sulla pianificazione del territorio, LPT)[^t-1]
 
-del 22 giugno 1979 (Stato 1° gennaio 2026)
+del 22 giugno 1979 (Stato 1° aprile 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I della LF del 6 ott. 1995, in vigore dal 1° gen. 1997 ([RU 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 971](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
@@ -215,9 +215,14 @@ Ogni Cantone elabora un piano direttore, nel quale definisce almeno:
 - b. le modalità di coordinamento delle attività d’incidenza territoriale in vista dello sviluppo che intende perseguire;
 - c. i tempi e i mezzi previsti per l’attuazione.
 
-<sup>2</sup> I progetti con ripercussioni considerevoli sul territorio e sull’ambiente necessitano di una base nel piano direttore.
+<sup>2</sup> I progetti con ripercussioni considerevoli sul territorio e sull’ambiente necessitano di una base nel piano direttore. Non necessitano di una base nel piano direttore in particolare i progetti per l’impiego delle energie rinnovabili senza ripercussioni considerevoli sul territorio e sull’ambiente, anche se concernono impianti di interesse nazionale secondo gli articoli 12 capoverso 2 e 13 capoverso 1 della legge federale del 30 settembre 2016[^8-2] sull’energia (LEne).[^8-3]
+
+<sup>3</sup> I progetti per l’impiego delle energie rinnovabili possono essere pianificati e autorizzati a prescindere dalla delimitazione di un territorio o di una sezione di corso d’acqua secondo l’articolo 8b della presente legge e l’articolo 10 capoverso 1 LEne.[^8-4]
 
 [^8-1]: Nuovo testo giusta la cifra I della LF del 15 giu. 2012, in vigore dal 1° mag. 2014 ([RU 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 931](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^8-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8-3]: Secondo per. introdotto dall’all. n. 2 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^8-4]: Introdotto dall’all. n. 2 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 8a
 
@@ -469,6 +474,16 @@ Il diritto cantonale può:
 [^18a-3]: Nouvo testo giusta la cifra III della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^18a-4]: Nuovo testo giusta la cifra I della LF del 29 set. 2023, in vigore dal 1° gen. 2026 ([RU 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 6267](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^18a-5]: Introdotto dalla cifra III della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art 18b
+
+**Centrali idroelettriche**[^18b-1]
+
+<sup>1</sup> Le centrali idroelettriche la cui potenza installata non eccede 10 MW non necessitano di una base nel piano direttore secondo l’articolo 8 capoverso 2.
+
+<sup>2</sup> Le centrali idroelettriche e i loro impianti di raccordo non necessitano di una base in un piano di utilizzazione.
+
+[^18b-1]: Introdotto dall’all. n. 2 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 19
 
