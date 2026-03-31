@@ -4,13 +4,12 @@ number: "851.1"
 title: Einführungsgesetz zum Krankenversicherungsgesetz
 short: EG KVG
 language: de
-version: 2022-01-01
-valid_until: 2026-03-31
-version_adopted: 2021-06-25
+version: 2026-04-01
+version_adopted: 2025-05-22
 adopted: 1999-01-28
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/851.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1694/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1965/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1694/pdf_file"
 
 (EG KVG)
 
-vom 28.01.1999 (Stand 01.01.2022)
+vom 28.01.1999 (Stand 01.04.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -50,11 +49,11 @@ beschliesst:
 
 <sup>1</sup> Ein Anspruch auf Prämienverbilligung besteht, soweit die kantonalen Richtprämien der obligatorischen Krankenpflegegrundversicherung den Selbstbehalt gemäss Absatz 2 übersteigen und die Voraussetzungen gemäss Art. 7 der Verordnung zum Einführungsgesetz zum Krankenversicherungsgesetz (V zum EG KVG)[^2-1] erfüllt sind.
 
-<sup>2</sup> Der Selbstbehalt entspricht einem bestimmten Prozentsatz des anrechenbaren Einkommens. Der Prozentsatz verläuft linear und steigt ab einer bestimmten Grenze des anrechenbaren Einkommens an (linear-progressives System). Er wird vom Kantonsrat jährlich durch Kantonsratsbeschluss abschliessend festgelegt.
+<sup>2</sup> Der Selbstbehalt entspricht einem bestimmten Prozentsatz des anrechenbaren Einkommens und beträgt zwischen 9,0 und 12,0 Prozent. Der Prozentsatz verläuft linear und steigt ab einer bestimmten Grenze des anrechenbaren Einkommens an (linear-progressives System). Er wird vom Regierungsrat jeweils im Vorjahr festgelegt.
 
 <sup>3</sup> Für untere und mittlere Einkommen werden die kantonalen Richtprämien von Kindern um mindestens 80 Prozent und von jungen Erwachsenen in Ausbildung um mindestens 50 Prozent gemäss Art. 7 Abs. 3 und 4 V zum EG KVG verbilligt (Mindestanspruch).
 
-<sup>4</sup> Der in das Budget aufzunehmende Kantonsbeitrag entspricht mindestens 8,5 Prozent der Prämienkosten der obligatorischen Krankenpflegeversicherung des Kantons Obwalden.
+<sup>4</sup> …
 
 <sup>5</sup> Die Prämienverbilligung darf, vorbehältlich bundesrechtlicher Vorgaben, die im Anspruchsjahr geschuldeten Prämien für die obligatorische Krankenpflegeversicherung nicht übersteigen.
 
@@ -121,6 +120,12 @@ beschliesst:
 
 <sup>1</sup> Der Kantonsrat erlässt die zum Vollzug dieses Gesetzes notwendigen Vorschriften durch Verordnung. Insbesondere regelt er Anspruchsberechtigung, Verfahren und Zuständigkeiten der Prämienverbilligung in der Krankenversicherung.
 
+#### Art. 7a
+
+**Evaluation**
+
+<sup>1</sup> Der Regierungsrat legt dem Kantonsrat nach Ablauf von vier Jahren seit Aufhebung von Art. 2 Abs. 4 dieses Gesetzes einen Evaluationsbericht vor und beantragt allfällige Massnahmen.
+
 #### Art. 8
 
 **Inkrafttreten**
@@ -163,7 +168,9 @@ geändert durch
 
 \- Nachtrag vom 28. Juni 2019 (OGS 2019, 28), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.02), in Kraft seit 1. Januar 2020 (OGS 2019, 39),
 
-\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41),
+
+\- Nachtrag vom 22. Mai 2025 (OGS 2025, 8), Abstimmungserläuterungen vom 30. November 2025 (OGS 2025, 21a), Volksabstimmung vom 30. November 2025 (ABl 2025, 1683), in Kraft seit 1. April 2026 (OGS 2023, 33)
 
 Der Nachtrag vom 28. Januar 2016 (OGS 2016, 9 und OGS 2016, 18 und 26) wurde an der Volksabstimmung vom 25. September 2016 (OGS 2016, 15, 52, 53 und 54) abgelehnt.
 
