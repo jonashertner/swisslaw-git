@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2005 davart il Tribunal federal (Le
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: rm
-version: 2025-01-01
+version: 2026-04-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20250101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20260401/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20260401-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20260401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il Tribunal federal, LTF)
 
-dals 17 da zercladur 2005 (versiun dal 1. da schaner 2025)
+dals 17 da zercladur 2005 (versiun dal 1. d’avrigl 2026)
 
 [^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
 
@@ -29,7 +29,7 @@ sa basond sin ils artitgels 188–191*c* da la Constituziun federala[^ingress-1]
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 ## 1. chapitel Posiziun ed organisaziun
@@ -340,7 +340,7 @@ Il Tribunal federal regla la repartiziun da las fatschentas a las partiziuns ten
 <sup>2</sup> Il Tribunal federal decretescha las disposiziuns executivas.
 
 [^25b-1]: Integrà tras la cifra II 1 da la LF dal 1. d’oct. 2010 (protecziun da datas en il rom da l’utilisaziun da l’infrastructura electronica), en vigur dapi il 1. d’avr. 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
-[^25b-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^25b-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 26
 
@@ -372,7 +372,7 @@ Il Tribunal federal regla la repartiziun da las fatschentas a las partiziuns ten
 
 <sup>2</sup> Il Tribunal federal designescha in organ da recurs che decida davart recurs cunter sias disposiziuns concernent l’access als documents uffizials. El po prevair ch’i na vegnia fatga nagina procedura da mediaziun; en quest cas decretescha el sia posiziun tar ina dumonda da survegnir access a documents uffizials en furma d’ina disposiziun contestabla.
 
-[^28-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^28-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## 2. chapitel Disposiziuns generalas da procedura
 
@@ -496,7 +496,7 @@ Sch’igl è avant maun in motiv da recusaziun tar ina persuna giudiziala, sto e
 
 <sup>2</sup> Ils represchentants da las partidas ston sa legitimar tras in plainpudair.
 
-[^40-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^40-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 41
 
@@ -535,7 +535,7 @@ En cas d’ina inoltraziun electronica sto la scrittira giuridica vegnir munida 
 [^42-1]: Integrà tras la cifra II 1 da la LF dals 17 da mars 2023 (meglieraziun da la praticabilitad e da l’applicaziun dal dretg), en vigur dapi il 1. da schan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^42-2]: Versiun da la segunda frasa tenor la cifra I 1 da la LF dals 20 da zer. 2014 davart la dispensaziun da la taglia, en vigur dapi il 1. da schan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^42-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 28 da sett. 2012 davart l’assistenza administrativa fiscala, en vigur dapi il 1. da fav. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^42-4]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^42-4]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^42-5]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 43
@@ -684,7 +684,7 @@ Pliras pretensiuns d’ina chaussa da dretg da facultad che vegnan fatgas valair
 
 <sup>3</sup> Per interrogaziuns da perditgas, per inspecziuns al lieu e per interrogaziuns da las partidas cloma el in segund derschader.
 
-[^55-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^55-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 56
 
@@ -744,7 +744,7 @@ Cun il consentiment da la partida pon decisiuns vegnir communitgadas sin via ele
 - c. la moda e maniera da la transmissiun;
 - d. il mument, il qual la decisiun vala sco communitgada.[^60-2]
 
-[^60-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^60-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^60-2]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 18 da mars 2016 davart la signatura electronica, en vigur dapi il 1. da schan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 61
@@ -811,7 +811,7 @@ Ella importa 200–1000 francs e na vegn betg calculada tenor la valur en dispit
 
 <sup>5</sup> Sche motivs particulars giustifitgeschan quai, po il Tribunal federal pronunziar taxas da dretgira ch’èn pli autas che quellas fixadas en las disposiziuns respectivas, maximalmain però fin a l’import dubel en ils cas da l’alinea 3 e fin a 10 000 francs en ils cas da l’alinea 4.
 
-[^65-1]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^65-1]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 
 #### Art. 66
 
@@ -855,7 +855,7 @@ Sche la decisiun contestada vegn midada, po il Tribunal federal reparter autrama
 
 Decisiuns che obligheschan da pajar ina summa da daners u da prestar ina garanzia en furma da daners vegnan exequidas tenor la Lescha federala dals 11 d’avrigl 1889[^69-1] davart la scussiun ed il concurs.
 
-[^69-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^69-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 70
 
@@ -875,9 +875,9 @@ Percunter ston ellas vegnir exequidas tenor las suandantas disposiziuns:
 
 <sup>4</sup> Cunter in’execuziun manglusa poi vegnir fatg recurs tar il Cussegl federal. Quel prenda las mesiras necessarias.
 
-[^70-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^70-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^70-3]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^70-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^70-2]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^70-3]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^70-4]: Versiun tenor la cifra II 5 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^70-5]: Abolì tras la cifra II 5 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, cun effect dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -887,7 +887,7 @@ Percunter ston ellas vegnir exequidas tenor las suandantas disposiziuns:
 
 Nua che questa lescha na cuntegna naginas disposiziuns spezialas davart la procedura, èn applitgablas tenor il senn las disposiziuns da la PC[^71-1].
 
-[^71-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^71-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ## 3. chapitel Il Tribunal federal sco instanza ordinaria da recurs
 
@@ -1003,8 +1003,8 @@ Independentamain da la valur en dispita è il recurs en chaussas civilas admissi
 
 [^77-1]: Versiun tenor la cifra II 2 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^77-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^77-4]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^77-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^77-4]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^77-5]: Versiun tenor la cifra II 2 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-6]: Versiun tenor la cifra II 2 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-7]: Integrà tras la cifra 1 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
@@ -1039,7 +1039,7 @@ Il recurs è inadmissibel cunter decisiuns da la Chombra da recurs dal Tribunal 
 <sup>2</sup> Sco ultimas instanzas chantunalas nomineschan ils chantuns dretgiras superiuras. Quellas decidan sco instanzas da recurs. Exceptads èn ils cas, en ils quals ina dretgira superiura u ina dretgira da mesiras repressivas decida sco suletta instanza chantunala tenor il Cudesch da procedura penala (CPP)[^80-2].[^80-3]
 
 [^80-1]: Versiun tenor la cifra II 1 da la LF dals 17 da mars 2017 (installaziun d’ina chombra d’appellaziun al TPF), en vigur dapi il 1. da schan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
-[^80-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^80-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^80-3]: Versiun tenor la cifra II da la LF dals 16 da zer. 2023 davart la revisiun dal dretg penal sexual, en vigur dapi il 1. da fan. 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 81
@@ -1071,7 +1071,7 @@ Il dretg da far recurs en chaussas penalas ha, tgi che:
 [^81-2]: Abolì tras la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, cun effect dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^81-3]: Versiun tenor la cifra II 5 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^81-4]: Integrà tras la cifra II 8 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^81-5]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^81-6]: Versiun tenor la cifra 2 da l’agiunta 1 da la LF dals 17 da zer. 2022, en vigur dapi il 1. da schan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468), [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 3. secziun Recurs en chaussas da dretg public
@@ -1166,35 +1166,43 @@ Il recurs è inadmissibel cunter:
 - w.[^83-22] decisiuns en il sectur dal dretg d’electricitad concernent l’approvaziun dals plans d’implants electrics da current ferm e da current lev e concernent l’expropriaziun dals dretgs necessaris per construir e per manar tals implants, sch’i na sa tschentan naginas dumondas giuridicas d’impurtanza fundamentala;
 - x.[^83-23] decisiuns concernent la concessiun da contribuziuns da solidaritad tenor la Lescha federala dals 30 da settember 2016[^83-24] davart las mesiras repressivas preventivas ed ils plazzaments extrafamigliars avant 1981, nun ch’i sa tractia d’ina dumonda giuridica d’impurtanza fundamentala u ch’i saja avant maun per auters motivs in cas spezialmain impurtant;
 - y.[^83-25] decisiuns dal Tribunal administrativ federal en proceduras da mediaziun per evitar ina imposiziun da taglia che na correspunda betg a las cunvegnas internaziunalas applitgablas en il sectur fiscal;
-- z.[^83-26] decisiuns concernent las permissiuns da construcziun numnadas en l’artitgel 71*c* alinea 1 litera b da la Lescha d’energia dals 30 da settember 2016[^83-27] e concernent las permissiuns ch’èn en la cumpetenza dals chantuns e che stattan necessariamain en connex cun las permissiuns da construcziun per implants d’energia da vent d’interess naziunal, sch’i na resultan naginas dumondas giuridicas d’impurtanza fundamentala.
+- z.[^83-26] decisiuns concernent las permissiuns da construcziun numnadas en l’artitgel 71*c* alinea 1 litera b da la Lescha d’energia dals 30 da settember 2016[^83-27] e concernent las permissiuns ch’èn en la cumpetenza dals chantuns e che stattan necessariamain en connex cun las permissiuns da construcziun per implants d’energia da vent d’interess naziunal, sch’i na resultan naginas dumondas giuridicas d’impurtanza fundamentala;
+- z<sup>bis</sup>.[^83-28] decisiuns davart l’approvaziun da concessiuns dal dretg da las auas per stabiliments tenor l’artitgel 9*a* alinea 3 en cumbinaziun cun l’agiunta 2 da la Lescha dals 23 da mars 2007[^83-29] davart il provediment d’electricitad, sch’i na sa tschentan naginas dumondas giuridicas d’impurtanza fundamentala;
+- z<sup>ter</sup>.[^83-30] decisiuns davart recurs d’organisaziuns tenor l’artitgel 55 da la Lescha dals 7 d’october 1983[^83-31] davart la protecziun da l’ambient e tenor l’artitgel 12 da la Lescha federala dal 1. da fanadur 1966[^83-32] davart la protecziun da la natira e da la patria concernent ovras idraulicas tenor l’artitgel 9*a* alinea 3 e l’agiunta 2 da la Lescha davart il provediment d’electricitad en la versiun dals 29 da settember 2023[^83-33].
 
 [^83-1]: Versiun tenor la cifra I 1 da l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LF davart il TF e da la LF davart il TAF, en vigur dapi il 1. da schan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
 [^83-2]: Integrà tras la cifra I 1 l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LF davart il TF e da la LF davart il TAF, en vigur dapi il 1. da schan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
 [^83-3]: Versiun tenor la cifra I 2 da la LF dal 1. d’oct. 2010 davart la coordinaziun tranter la procedura d’asil e la procedura d’extradiziun, en vigur dapi il 1. d’avr. 2011 ([AS 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [BBl 2010 1467](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 [^83-4]: Versiun tenor la cifra II 2 da l’agiunta 7 da la LF dals 21 da zer. 2019 davart las acquisiziuns publicas, en vigur dapi il 1. da schan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
-[^83-5]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^83-5]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 [^83-6]: Integrà tras la cifra I 2 da la LF dals 16 da mars 2012 davart il segund pass da la refurma da la viafier 2, en vigur dapi il 1. da fan. 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^83-7]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^83-7]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^83-8]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 28 da sett. 2012 davart l’assistenza administrativa fiscala, en vigur dapi il 1. da fav. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^83-9]: Versiun tenor la cifra II 1 da l’agiunta 2 da la LF dals 17 da zer. 2016 davart il provediment dal pajais, en vigur dapi il 1. da zer. 2017 ([AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308); [BBl 2014 7119](https://fedlex.data.admin.ch/eli/fga/2014/1571)).
 [^83-10]: Versiun tenor la cifra I 1 da la LF dals 20 da zer. 2014 davart la dispensaziun da la taglia, en vigur dapi il 1. da schan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^83-11]: Versiun tenor l’art. 106 cifra 3 da la LF dals 24 da mars 2006 davart radio e televisiun, en vigur dapi il 1. d’avr. 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 [^83-12]: Versiun tenor la cifra II 1 da l’agiunta da la L da posta dals 17 da dec. 2010, en vigur dapi il 1. d’oct. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)).
-[^83-13]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^83-13]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^83-14]: Integrà tras la cifra II 1 da l’agiunta da la L da posta dals 17 da dec. 2010, en vigur dapi il 1. d’oct. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)).
-[^83-15]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^83-16]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^83-17]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). Quest art. è ussa abolì. Guardar ussa: art. 33 lit. i LTAF en cumbinaziun cun l’art. 53 al. 1 da la LF dals 18 da mars 1994 davart l’assicuranza da malsauns ([SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)).
+[^83-15]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^83-16]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^83-17]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). Quest art. è ussa abolì. Guardar ussa: art. 33 lit. i LTAF en cumbinaziun cun l’art. 53 al. 1 da la LF dals 18 da mars 1994 davart l’assicuranza da malsauns ([SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)).
 [^83-18]: Abolì tras la cifra 1 da l’agiunta da la LF dals 22 da mars 2013, cun effect dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^83-19]: Integrà tras la cifra 3 da l’agiunta da la LF dals 22 da zer. 2007 davart la surveglianza dals martgads da finanzas ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 19 da zer. 2015 davart la surveglianza dals martgads da finanzas, en vigur dapi il 1. da schan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^83-20]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^83-20]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^83-21]: Integrà tras la cifra 3 da l’agiunta da la LF dals 22 da zer. 2007 davart la surveglianza dals martgads da finanzas, en vigur dapi il 1. da schan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^83-22]: Integrà tras la cifra II 1 da l’agiunta da la L d’energia dals 30 da sett. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^83-23]: Integrà tras l’art. 21 al. 2 da la LF dals 30 da sett. 2016 davart las mesiras repressivas preventivas ed ils plazzaments extrafamigliars avant 1981, en vigur dapi il 1. d’avr. 2017 ([AS 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [BBl 2016 101](https://fedlex.data.admin.ch/eli/fga/2016/40)).
-[^83-24]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^83-24]: [SR 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
 [^83-25]: Integrà tras l’art. 36 al. 2 da la LF dals 18 da zer. 2021 davart l’execuziun da las cunvegnas internaziunalas en il sectur fiscal, en vigur dapi il 1. da schan. 2022 ([AS 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [BBl 2020 9219](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
 [^83-26]: Integrà tras la cifra I 2 da la LF dals 16 da zer. 2023 davart l’acceleraziun da las proceduras da permissiun per implants d’energia da vent, en vigur dapi il 1. da favr. 2024 ([AS 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [BBl 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
-[^83-27]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^83-27]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^83-28]: Integrà tras la cifra 1 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^83-29]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^83-30]: Integrà tras la cifra 1 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^83-31]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^83-32]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^83-33]: [AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679)
 
 #### Art. 84
 
@@ -1417,10 +1425,10 @@ Il termin da recurs importa 5 dis:
 
 [^100-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 28 da sett. 2012 davart l’assistenza administrativa fiscala, en vigur dapi il 1. da fav. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^100-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^100-3]: [SR 0.211.230.01](https://fedlex.data.admin.ch/eli/cc/1983/1681_1681_1681)
-[^100-4]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^100-3]: [SR 0.211.230.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/855)
+[^100-4]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
 [^100-5]: Integrà tras la cifra 2 da l’agiunta da la LF dals 20 da mars 2009 davart il TFP, en vigur dapi il 1. da schan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
-[^100-6]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^100-6]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^100-7]: Abolì tras la cifra II 2 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, cun effect dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 101
@@ -1499,7 +1507,7 @@ D’uffizi u sin dumonda d’ina partida po il derschader d’instrucziun prende
 <sup>4</sup> Davart recurs cunter decisiuns dal Tribunal federal da patentas davart la concessiun d’ina licenza tenor l’artitgel 40*d* da la Lescha da patentas dals 25 da zercladur 1954[^107-2] decida il Tribunal federal entaifer 1 mais suenter l’inoltraziun dal recurs.[^107-3]
 
 [^107-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 28 da sett. 2012 davart l’assistenza administrativa fiscala, en vigur dapi il 1. da fav. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^107-2]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^107-2]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^107-3]: Integrà tras la cifra 2 da l’agiunta da la LF dals 20 da mars 2009 davart il TFP, en vigur dapi il 1. da schan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
 
 ### 6. secziun Procedura simplifitgada
@@ -1609,7 +1617,15 @@ Cun il recurs constituziunal po vegnir contestada la violaziun da dretgs constit
 
 **Procedura da recurs**
 
-Per la procedura dal recurs constituziunal valan ils artitgels 90–94, 99, 100, 102, 103 alineas 1 e 3, 104, 106 alinea 2 sco er 107–112 tenor il senn.
+<sup>1</sup> Per la procedura dal recurs constituziunal valan ils artitgels 90–94, 99, 100, 102, 103 alineas 1 e 3, 104, 106 alinea 2 sco er 107–112 tenor il senn.
+
+<sup>2</sup> Recurs d’organisaziuns tenor l’artitgel 55 da la Lescha dals 7 d’october 1983[^117-1] davart la protecziun da l’ambient e tenor l’artitgel 12 da la Lescha federala dal 1. da fanadur 1966[^117-2] davart la protecziun da la natira e da la patria cunter plans d’utilisaziun, decisiuns da permissiun e decisiuns da concessiun concernent ovras idraulicas tenor l’artitgel 9*a* alinea 3 e l’agiunta 2 da la Lescha dals 23 da mars 2007[^117-3] davart il provediment d’electricitad en la versiun dals 29 da settember 2023[^117-4] n’han betg in effect suspensiv.[^117-5]
+
+[^117-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^117-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^117-3]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^117-4]: [AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679)
+[^117-5]: Integrà tras la cifra 1 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 118
 
@@ -1645,7 +1661,7 @@ Per la procedura dal recurs constituziunal valan ils artitgels 90–94, 99, 100,
 
 <sup>4</sup> Sche la dretgira da cumpromiss n'è betg pli cumpletta, è applitgabel l'artitgel 179 da la Lescha federala davart il dretg internaziunal privat.
 
-[^119a-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^119a-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## 6. chapitel Plant
 
@@ -1664,8 +1680,8 @@ Sin basa d’in plant giuditgescha il Tribunal federal sco unica instanza:
 <sup>3</sup> La procedura da plant sa drizza tenor la PC[^120-3].
 
 [^120-1]: Versiun tenor la cifra II 5 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^120-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^120-3]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^120-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^120-3]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ## 7. chapitel Revisiun, interpretaziun e rectificaziun
 
@@ -1692,7 +1708,7 @@ La revisiun pervia d’ina violaziun da la Convenziun dals 4 da november 1950[^1
 - b. ina indemnisaziun n’è betg adattada per cumpensar las consequenzas da la violaziun; e
 - c. la revisiun è necessaria per eliminar la violaziun.
 
-[^122-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^122-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^122-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da fan. 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 123
@@ -1711,9 +1727,9 @@ Plinavant po la revisiun vegnir dumandada:
 
 [^123-1]: Versiun tenor la cifra II 1 da la LF dals 17 da mars 2023 (meglieraziun da la praticabilitad e da l’applicaziun dal dretg), en vigur dapi il 1. da schan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^123-2]: Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^123-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^123-4]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 13 da zer. 2008 davart la responsabladad civila per l’energia nucleara, en vigur dapi il 1. da schan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^123-5]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^123-5]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 
 #### Art. 124
 
@@ -1737,8 +1753,8 @@ Suenter la scadenza da 10 onns dapi che la decisiun è vegnida prendida, na po l
 
 <sup>3</sup> Ils termins spezials tenor l’artitgel 5 alinea 5 da la Lescha federala dals 13 da zercladur 2008[^124-2] davart la responsabladad civila per l’energia nucleara restan resalvads.[^124-3]
 
-[^124-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^124-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^124-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^124-2]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 [^124-3]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 13 da zer. 2008 davart la responsabladad civila per l’energia nucleara, en vigur dapi il 1. da schan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 125
@@ -1769,7 +1785,7 @@ Sch’il Tribunal federal n’è betg da l’avis che la dumonda da revisiun saj
 
 <sup>3</sup> Sch’il Tribunal federal prenda ina nova decisiun en ina chaussa penala, è applitgabel l’artitgel 415 CPP[^128-1] tenor il senn.[^128-2]
 
-[^128-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^128-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^128-2]: Versiun tenor la cifra II 3 da l’agiunta 1 dal Cudesch da procedura penala dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### 2. secziun Interpretaziun e rectificaziun
@@ -1835,6 +1851,14 @@ Sch’il Tribunal federal n’è betg da l’avis che la dumonda da revisiun saj
 La procedura da recurs cunter decisiuns ch’èn vegnidas pronunziadas avant l’entrada en vigur da la midada dals 20 da zercladur 2014 da questa lescha, sa drizza tenor il dretg vertent.
 
 [^132a-1]: Integrà tras la cifra I 1 da la LF dals 20 da zer. 2014 davart la dispensaziun da la taglia, en vigur dapi il 1. da schan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+
+#### Art. 132b
+
+**Disposiziun transitorica da la midada dals 26 da settember 2025**[^132b-1]
+
+L’artitgel 83 litera z<sup>ter</sup> e l’artitgel 117 alinea 2 èn applitgabels directamain per ils recurs d’organisaziuns cun dretg da far recurs, ch’èn pendents tar autoritads u dretgiras il mument da l’entrada en vigur da la midada dals 26 da settember 2025. Ils recurs ch’èn pendents davant il Tribunal federal il mument da l’entrada en vigur da questa midada, vegnan giuditgads tenor il dretg vegl.
+
+[^132b-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 133
 

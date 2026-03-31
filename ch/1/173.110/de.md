@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsge
 short: BGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: de
-version: 2025-01-01
+version: 2026-04-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20250101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20260401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/de"
 
 (Bundesgerichtsgesetz, BGG)
 
-vom 17. Juni 2005 (Stand am 1. Januar 2025)
+vom 17. Juni 2005 (Stand am 1. April 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 188–191*c* der Bundesverfassung[^ingress-1], nach Ei
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 ## 1. Kapitel: Stellung und Organisation
@@ -336,7 +336,7 @@ Das Bundesgericht regelt die Verteilung der Geschäfte auf die Abteilungen nach 
 <sup>2</sup> Das Bundesgericht erlässt die Ausführungsbestimmungen.
 
 [^25b-1]: Eingefügt durch Ziff. II 1 des BG vom 1. Okt. 2010 (Datenschutz bei der Benutzung der elektronischen Infrastruktur), in Kraft seit 1. April 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
-[^25b-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^25b-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 26
 
@@ -368,7 +368,7 @@ Das Bundesgericht regelt die Verteilung der Geschäfte auf die Abteilungen nach 
 
 <sup>2</sup> Das Bundesgericht bezeichnet ein Beschwerdeorgan, das über Beschwerden gegen seine Verfügungen betreffend den Zugang zu amtlichen Dokumenten entscheidet. Es kann vorsehen, dass kein Schlichtungsverfahren durchgeführt wird; in diesem Fall erlässt es die Stellungnahme zu einem Gesuch um Zugang zu amtlichen Dokumenten in Form einer beschwerdefähigen Verfügung.
 
-[^28-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^28-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## 2. Kapitel: Allgemeine Verfahrensbestimmungen
 
@@ -492,7 +492,7 @@ Trifft bei einer Gerichtsperson ein Ausstandsgrund zu, so hat sie dies rechtzeit
 
 <sup>2</sup> Die Parteivertreter und -vertreterinnen haben sich durch eine Vollmacht auszuweisen.
 
-[^40-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^40-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 41
 
@@ -531,7 +531,7 @@ Bei elektronischer Einreichung muss die Rechtsschrift von der Partei oder ihrem 
 [^42-1]: Eingefügt durch Ziff. II 1 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^42-2]: Fassung des zweiten Satzes gemäss Ziff. I 1 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^42-3]: Fassung gemäss Anhang Ziff. 1 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^42-4]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^42-4]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^42-5]: Fassung gemäss Anhang Ziff. II 2 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 43
@@ -680,7 +680,7 @@ Mehrere in einer vermögensrechtlichen Sache von der gleichen Partei oder von St
 
 <sup>3</sup> Zu Zeugeneinvernahmen, Augenschein und Parteiverhör zieht er oder sie einen zweiten Richter oder eine zweite Richterin bei.
 
-[^55-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^55-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 56
 
@@ -740,7 +740,7 @@ Mit dem Einverständnis der Partei können Entscheide elektronisch eröffnet wer
 - c. die Art und Weise der Übermittlung;
 - d. den Zeitpunkt, zu dem der Entscheid als eröffnet gilt.[^60-2]
 
-[^60-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^60-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^60-2]: Fassung gemäss Anhang Ziff. II 2 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 61
@@ -807,7 +807,7 @@ Sie beträgt 200–1000 Franken und wird nicht nach dem Streitwert bemessen in S
 
 <sup>5</sup> Wenn besondere Gründe es rechtfertigen, kann das Bundesgericht bei der Bestimmung der Gerichtsgebühr über die Höchstbeträge hinausgehen, jedoch höchstens bis zum doppelten Betrag in den Fällen von Absatz 3 und bis zu 10 000 Franken in den Fällen von Absatz 4.
 
-[^65-1]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^65-1]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 
 #### Art. 66
 
@@ -851,7 +851,7 @@ Wird der angefochtene Entscheid geändert, so kann das Bundesgericht die Kosten 
 
 Entscheide, die zur Zahlung einer Geldsumme oder zur Sicherheitsleistung in Geld verpflichten, werden nach dem Bundesgesetz vom 11. April 1889[^69-1] über Schuldbetreibung und Konkurs vollstreckt.
 
-[^69-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^69-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 70
 
@@ -871,9 +871,9 @@ Sie sind hingegen nach folgenden Bestimmungen zu vollstrecken:
 
 <sup>4</sup> Im Falle mangelhafter Vollstreckung kann beim Bundesrat Beschwerde geführt werden. Dieser trifft die erforderlichen Massnahmen.
 
-[^70-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^70-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^70-3]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^70-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^70-2]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^70-3]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^70-4]: Fassung gemäss Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^70-5]: Aufgehoben durch Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -883,7 +883,7 @@ Sie sind hingegen nach folgenden Bestimmungen zu vollstrecken:
 
 Wo dieses Gesetz keine besonderen Bestimmungen über das Verfahren enthält, sind die Vorschriften des BZP[^71-1] sinngemäss anwendbar.
 
-[^71-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^71-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ## 3. Kapitel: Das Bundesgericht als ordentliche Beschwerdeinstanz
 
@@ -999,8 +999,8 @@ Die Beschwerde in Zivilsachen ist ungeachtet des Streitwerts zulässig gegen Ent
 
 [^77-1]: Fassung gemäss Anhang 1 Ziff. II 2 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^77-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^77-4]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^77-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^77-4]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^77-5]: Fassung gemäss Anhang 1 Ziff. II 2 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-6]: Fassung gemäss Anhang 1 Ziff. II 2 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-7]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
@@ -1035,7 +1035,7 @@ Die Beschwerde ist unzulässig gegen Entscheide der Beschwerdekammer des Bundess
 <sup>2</sup> Die Kantone setzen als letzte kantonale Instanzen obere Gerichte ein. Diese entscheiden als Rechtsmittelinstanzen. Ausgenommen sind die Fälle, in denen nach der Strafprozessordnung (StPO)[^80-2] ein oberes Gericht oder ein Zwangsmassnahmengericht als einzige kantonale Instanz entscheidet.[^80-3]
 
 [^80-1]: Fassung gemäss Ziff. II 1 des BG vom 17. März 2017 (Schaffung einer Berufungskammer am Bundesstrafgericht), in Kraft seit 1. Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
-[^80-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^80-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^80-3]: Fassung gemäss Ziff. II des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 81
@@ -1067,7 +1067,7 @@ Zur Beschwerde in Strafsachen ist berechtigt, wer:
 [^81-2]: Aufgehoben durch Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^81-3]: Fassung gemäss Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^81-4]: Eingefügt durch Ziff. II 8 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^81-5]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^81-6]: Fassung gemäss Anhang 1 Ziff. 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### 3. Abschnitt: Beschwerde in öffentlich-rechtlichen Angelegenheiten
@@ -1162,35 +1162,43 @@ Die Beschwerde ist unzulässig gegen:
 - w.[^83-22] Entscheide auf dem Gebiet des Elektrizitätsrechts betreffend die Plangenehmigung von Starkstromanlagen und Schwachstromanlagen und die Entscheide auf diesem Gebiet betreffend Enteignung der für den Bau oder Betrieb solcher Anlagen notwendigen Rechte, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
 - x.[^83-23] Entscheide betreffend die Gewährung von Solidaritätsbeiträgen nach dem Bundesgesetz vom 30. September 2016[^83-24] über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, ausser wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt oder aus anderen Gründen ein besonders bedeutender Fall vorliegt;
 - y.[^83-25] Entscheide des Bundesverwaltungsgerichts in Verständigungsverfahren zur Vermeidung einer den anwendbaren internationalen Abkommen im Steuerbereich nicht entsprechenden Besteuerung;
-- z.[^83-26] Entscheide betreffend die in Artikel 71*c* Absatz 1 Buchstabe b des Energiegesetzes vom 30. September 2016[^83-27] genannten Baubewilligungen und notwendigerweise damit zusammenhängenden in der Kompetenz der Kantone liegenden Bewilligungen für Windenergieanlagen von nationalem Interesse, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt.
+- z.[^83-26] Entscheide betreffend die in Artikel 71*c* Absatz 1 Buchstabe b des Energiegesetzes vom 30. September 2016[^83-27] genannten Baubewilligungen und notwendigerweise damit zusammenhängenden in der Kompetenz der Kantone liegenden Bewilligungen für Windenergieanlagen von nationalem Interesse, wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
+- z<sup>bis</sup>.[^83-28] Entscheide über die Gewährung von Wasserrechtskonzessionen für Anlagen nach Artikel 9*a* Absatz 3 in Verbindung mit Anhang 2 des Stromversorgungsgesetzes vom 23. März 2007[^83-29], wenn sich keine Rechtsfrage von grundsätzlicher Bedeutung stellt;
+- z<sup>ter</sup>.[^83-30] Entscheide über Beschwerden von Organisationen nach den Artikeln 55 des Umweltschutzgesetzes vom 7. Oktober 1983[^83-31] und 12 des Bundesgesetzes vom 1. Juli 1966[^83-32] über den Natur- und Heimatschutz betreffend Wasserkraftwerke nach Artikel 9*a* Absatz 3 und Anhang 2 in der Fassung vom 29. September 2023[^83-33] des Stromversorgungsgesetzes.
 
 [^83-1]: Fassung gemäss Ziff. I 1 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
 [^83-2]: Eingefügt durch Ziff. I 1 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2008 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826)).
 [^83-3]: Fassung gemäss Ziff. I 2 des BG vom 1. Okt 2010 über die Koordination des Asyl- und des Auslieferungsverfahrens, in Kraft seit 1. April 2011 ([AS 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [BBl 2010 1467](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 [^83-4]: Fassung gemäss Anhang 7 Ziff. II 2 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
-[^83-5]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^83-5]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 [^83-6]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^83-7]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^83-7]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^83-8]: Fassung gemäss Anhang Ziff. 1 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^83-9]: Fassung gemäss Anhang 2 Ziff. II 1 des Landesversorgungsgesetzes vom 17. Juni 2016, in Kraft seit 1. Juni 2017 ([AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308); [BBl 2014 7119](https://fedlex.data.admin.ch/eli/fga/2014/1571)).
 [^83-10]: Fassung gemäss Ziff. I 1 des BG vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^83-11]: Fassung gemäss Art. 106 Ziff. 3 des BG vom 24. März 2006 über Radio und Fernsehen, in Kraft seit 1. April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 [^83-12]: Fassung gemäss Anhang Ziff. II 1 des Postgesetzes vom 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)).
-[^83-13]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^83-13]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^83-14]: Eingefügt durch Anhang Ziff. II 1 des Postgesetzes vom 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)).
-[^83-15]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^83-16]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^83-17]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). Dieser Art. ist aufgehoben. Siehe heute: Art. 33 Bst. i VGG in Verbindung mit Art. 53 Abs. 1 des BG vom 18. März 1994 über die Krankenversicherung ([SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)).
+[^83-15]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^83-16]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^83-17]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). Dieser Art. ist aufgehoben. Siehe heute: Art. 33 Bst. i VGG in Verbindung mit Art. 53 Abs. 1 des BG vom 18. März 1994 über die Krankenversicherung ([SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)).
 [^83-18]: Aufgehoben durch Anhang Ziff. 1 des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^83-19]: Eingefügt durch Anhang Ziff. 3 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)). Fassung gemäss Anhang Ziff. 1 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^83-20]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^83-20]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^83-21]: Eingefügt durch Anhang Ziff. 3 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^83-22]: Eingefügt durch Anhang Ziff. II 1 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^83-23]: Eingefügt durch Art. 21 Abs. 2 des BG vom 30. Sept. 2016 über die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981, in Kraft seit 1. April 2017 ([AS 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [BBl 2016 101](https://fedlex.data.admin.ch/eli/fga/2016/40)).
-[^83-24]: [SR 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^83-24]: [SR 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
 [^83-25]: Eingefügt durch Art. 36 Abs. 2 des BG vom 18. Juni 2021 über die Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [BBl 2020 9219](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
 [^83-26]: Eingefügt durch Ziff. I 2 des BG vom 16. Juni 2023 über die Beschleunigung der Bewilligungsverfahren für Windenergieanlagen, in Kraft seit 1. Febr. 2024 ([AS 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [BBl 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
-[^83-27]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^83-27]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^83-28]: Eingefügt durch Anhang Ziff. 1 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^83-29]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^83-30]: Eingefügt durch Anhang Ziff. 1 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^83-31]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^83-32]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^83-33]: [AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679)
 
 #### Art. 84
 
@@ -1413,10 +1421,10 @@ Die Beschwerdefrist beträgt fünf Tage:
 
 [^100-1]: Fassung gemäss Anhang Ziff. 1 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^100-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 21. Juni 2013 (Elterliche Sorge), in Kraft seit 1. Juli 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^100-3]: [SR 0.211.230.01](https://fedlex.data.admin.ch/eli/cc/1983/1681_1681_1681)
-[^100-4]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^100-3]: [SR 0.211.230.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/855)
+[^100-4]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
 [^100-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2009 über das Bundespatentgericht, in Kraft seit 1. Jan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
-[^100-6]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^100-6]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^100-7]: Aufgehoben durch Anhang 1 Ziff. II 2 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 101
@@ -1495,7 +1503,7 @@ Der Instruktionsrichter oder die Instruktionsrichterin kann von Amtes wegen oder
 <sup>4</sup> Über Beschwerden gegen Entscheide des Bundespatentgerichts über die Erteilung einer Lizenz nach Artikel 40*d* des Patentgesetzes vom 25. Juni 1954[^107-2] entscheidet das Bundesgericht innerhalb eines Monats nach Anhebung der Beschwerde.[^107-3]
 
 [^107-1]: Fassung gemäss Anhang Ziff. 1 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^107-2]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^107-2]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^107-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2009 über das Bundespatentgericht, in Kraft seit 1. Jan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
 
 ### 6. Abschnitt: Vereinfachtes Verfahren
@@ -1605,7 +1613,15 @@ Mit der Verfassungsbeschwerde kann die Verletzung von verfassungsmässigen Recht
 
 **Beschwerdeverfahren**
 
-Für das Verfahren der Verfassungsbeschwerde gelten die Artikel 90–94, 99, 100, 102, 103 Absätze 1 und 3, 104, 106 Absatz 2 sowie 107–112 sinngemäss.
+<sup>1</sup> Für das Verfahren der Verfassungsbeschwerde gelten die Artikel 90–94, 99, 100, 102, 103 Absätze 1 und 3, 104, 106 Absatz 2 sowie 107–112 sinngemäss.
+
+<sup>2</sup> Beschwerden von Organisationen nach den Artikeln 55 des Umweltschutzgesetzes vom 7. Oktober 1983[^117-1] und 12 des Bundesgesetzes vom 1. Juli 1966[^117-2] über den Natur- und Heimatschutz gegen Nutzungspläne, Bewilligungs- und Konzessionsentscheide betreffend Wasserkraftwerke nach Artikel 9*a* Absatz 3 und Anhang 2 in der Fassung vom 29. September 2023[^117-3] des Stromversorgungsgesetzes vom 23. März 2007[^117-4] haben keine aufschiebende Wirkung.[^117-5]
+
+[^117-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^117-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^117-3]: [AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679)
+[^117-4]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^117-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 118
 
@@ -1641,7 +1657,7 @@ Für das Verfahren der Verfassungsbeschwerde gelten die Artikel 90–94, 99, 100
 
 <sup>4</sup> Ist das Schiedsgericht nicht mehr vollständig, so ist Artikel 179 des Bundesgesetzes über das Internationale Privatrecht anwendbar.
 
-[^119a-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^119a-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## 6. Kapitel: Klage
 
@@ -1660,8 +1676,8 @@ Das Bundesgericht beurteilt auf Klage als einzige Instanz:
 <sup>3</sup> Das Klageverfahren richtet sich nach dem BZP[^120-3].
 
 [^120-1]: Fassung gemäss Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^120-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^120-3]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^120-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^120-3]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ## 7. Kapitel: Revision, Erläuterung und Berichtigung
 
@@ -1688,7 +1704,7 @@ Die Revision wegen Verletzung der Konvention zum Schutz der Menschenrechte und G
 - b. eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
 - c. die Revision notwendig ist, um die Verletzung zu beseitigen.
 
-[^122-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^122-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^122-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 123
@@ -1707,9 +1723,9 @@ Die Revision kann zudem verlangt werden:
 
 [^123-1]: Fassung gemäss Ziff. II 1 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^123-2]: Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^123-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^123-4]: Eingefügt durch Anhang Ziff. II 1 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^123-5]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^123-5]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 
 #### Art. 124
 
@@ -1733,8 +1749,8 @@ Nach Ablauf von zehn Jahren nach der Ausfällung des Entscheids kann die Revisio
 
 <sup>3</sup> Die besonderen Fristen nach Artikel 5 Absatz 5 Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^124-2] bleiben vorbehalten.[^124-3]
 
-[^124-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^124-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^124-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^124-2]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 [^124-3]: Eingefügt durch Anhang Ziff. II 1 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 125
@@ -1765,7 +1781,7 @@ Soweit das Bundesgericht das Revisionsgesuch nicht als unzulässig oder unbegrü
 
 <sup>3</sup> Entscheidet das Bundesgericht in einer Strafsache neu, so ist Artikel 415 StPO[^128-1] sinngemäss anwendbar.[^128-2]
 
-[^128-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^128-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^128-2]: Fassung gemäss Anhang 1 Ziff. II 3 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### 2. Abschnitt: Erläuterung und Berichtigung
@@ -1831,6 +1847,14 @@ Soweit das Bundesgericht das Revisionsgesuch nicht als unzulässig oder unbegrü
 Das Beschwerdeverfahren gegen Entscheide, die vor dem Inkrafttreten der Änderung vom 20. Juni 2014 dieses Gesetzes ergangen sind, richtet sich nach dem bisherigen Recht.
 
 [^132a-1]: Eingefügt durch Ziff. I 1 des BG vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+
+#### Art. 132b
+
+**Übergangsbestimmung zur Änderung vom 26. September 2025**[^132b-1]
+
+Die Artikel 83 Buchstabe z<sup>ter</sup> und 117 Absatz 2 sind auf Beschwerden von beschwerdeberechtigten Organisationen, die bei Behörden oder Gerichten zum Zeitpunkt des Inkrafttretens der Änderung vom 26. September 2025 hängig sind, unmittelbar anwendbar. Beschwerden, die zum Zeitpunkt des Inkrafttretens dieser Änderung vor Bundesgericht hängig sind, werden nach bisherigem Recht zu Ende geführt.
+
+[^132b-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 133
 

@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale federale (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: it
-version: 2025-01-01
+version: 2026-04-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20250101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2006-218-20260401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20250101/it"
 
 (LTF)
 
-del 17 giugno 2005 (Stato 1° gennaio 2025)
+del 17 giugno 2005 (Stato 1° aprile 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 188–191*c* della Costituzione federale[^ingress-1]; visto i
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 ## Capitolo 1: Statuto e organizzazione
@@ -336,7 +336,7 @@ Il Tribunale federale disciplina mediante regolamento la ripartizione delle caus
 <sup>2</sup> Il Tribunale federale emana le disposizioni d’esecuzione necessarie.
 
 [^25b-1]: Introdotto dalla cifra II n. 1 della LF del 1° ott. 2010 (Protezione dei dati derivanti dall’utilizzazione dell’infrastruttura elettronica), in vigore dal 1° apr. 2012 ([RU 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7407](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
-[^25b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^25b-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 26
 
@@ -368,7 +368,7 @@ Il Tribunale federale disciplina mediante regolamento la ripartizione delle caus
 
 <sup>2</sup> Il Tribunale federale designa un organo di ricorso che pronuncia sui ricorsi contro le sue decisioni concernenti l’accesso a documenti ufficiali. Può prevedere che non venga svolta una procedura di conciliazione; in tal caso, sulla domanda di accedere ai documenti ufficiali si pronuncia con decisione ricorribile.
 
-[^28-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^28-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## Capitolo 2: Disposizioni generali di procedura
 
@@ -492,7 +492,7 @@ Il giudice o cancelliere che si trovi in un caso di ricusazione deve comunicarlo
 
 <sup>2</sup> I patrocinatori devono giustificare il loro mandato mediante procura.
 
-[^40-1]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^40-1]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 41
 
@@ -531,7 +531,7 @@ In caso di trasmissione per via elettronica, la parte o il suo patrocinatore dev
 [^42-1]: Introdotto dalla cifra II n. 1 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^42-2]: Nuovo testo del per. giusta la cifra I n. 1 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^42-3]: Nuovo testo giusta l’all. n. 1 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
-[^42-4]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^42-4]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^42-5]: Nuovo testo giusta l’all. cifra II n. 2 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 43
@@ -680,7 +680,7 @@ Nelle cause di carattere pecuniario le conclusioni di una parte o di litisconsor
 
 <sup>3</sup> Procede all’audizione di testimoni, alle ispezioni oculari e all’interrogatorio delle parti insieme con un secondo giudice.
 
-[^55-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^55-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 56
 
@@ -740,7 +740,7 @@ Previo assenso dei destinatari, le decisioni possono essere notificate per via e
 - c. le modalità di trasmissione;
 - d. il momento in cui la decisione è considerata notificata.[^60-2]
 
-[^60-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^60-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^60-2]: Nuovo testo giusta l’all. cifra II n. 2 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 61
@@ -807,7 +807,7 @@ Di regola, il suo importo è di:
 
 <sup>5</sup> Se motivi particolari lo giustificano, il Tribunale federale può aumentare tali importi, ma al massimo fino al doppio nei casi di cui al capoverso 3 e fino a 10 000 franchi nei casi di cui al capoverso 4.
 
-[^65-1]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^65-1]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 
 #### Art. 66
 
@@ -851,7 +851,7 @@ Se modifica la decisione impugnata, il Tribunale federale può ripartire diversa
 
 Le sentenze che impongono il pagamento di una somma di denaro o la prestazione di garanzie pecuniarie sono eseguite conformemente alla legge federale dell’11 aprile 1889[^69-1] sull’esecuzione e sul fallimento.
 
-[^69-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^69-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 70
 
@@ -871,9 +871,9 @@ Le sentenze sono invece eseguite conformemente alle seguenti disposizioni:
 
 <sup>4</sup> In caso di esecuzione viziata può essere interposto ricorso al Consiglio federale. Quest’ultimo adotta le misure necessarie.
 
-[^70-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^70-2]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^70-3]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^70-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^70-2]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^70-3]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^70-4]: Nuovo testo giusta l’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^70-5]: Abrogato dall’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, con effetto dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -883,7 +883,7 @@ Le sentenze sono invece eseguite conformemente alle seguenti disposizioni:
 
 Nei casi per i quali la presente legge non prevede disposizioni speciali sulla procedura si applicano per analogia le prescrizioni della PC[^71-1].
 
-[^71-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^71-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ## Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso
 
@@ -999,8 +999,8 @@ A prescindere dal valore litigioso, contro le decisioni arbitrali è ammesso il 
 
 [^77-1]: Nuovo testo giusta l’all. 1 cifra II n. 2 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-2]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^77-3]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^77-4]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^77-3]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^77-4]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^77-5]: Nuovo testo giusta l’all. 1 cifra II n. 2 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-6]: Nuovo testo giusta l’all. 1 cifra II n. 2 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^77-7]: Introdotto dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
@@ -1035,7 +1035,7 @@ Il ricorso è inammissibile contro le decisioni della Corte dei reclami penali d
 <sup>2</sup> I Cantoni istituiscono tribunali superiori quali autorità cantonali di ultima istanza. Tali tribunali giudicano su ricorso. Sono fatti salvi i casi in cui secondo il Codice di procedura penale (CPP)[^80-2] si pronuncia, quale istanza cantonale unica, un tribunale superiore o un giudice dei provvedimenti coercitivi.[^80-3]
 
 [^80-1]: Nuovo testo giusta la cifra II n. 1 della LF del 17 mar. 2017 (Istituzione di una corte d’appello in seno al Tribunale penale federale), in vigore dal 1° gen. 2019 ([RU 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6121](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5587](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
-[^80-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^80-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^80-3]: Nuovo testo giusta la cifra II della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154), [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 81
@@ -1067,7 +1067,7 @@ Ha diritto di interporre ricorso in materia penale chi:
 [^81-2]: Abrogato dall’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^81-3]: Nuovo testo giusta l’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^81-4]: Introdotto dalla cifra II n. 8 della L201F del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)). Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^81-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^81-5]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^81-6]: Nuovo testo giusta l’all. 1 n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 ### Sezione 3: Ricorso in materia di diritto pubblico
@@ -1162,36 +1162,44 @@ Il ricorso è inammissibile contro:
 - w.[^83-23] le decisioni in materia di diritto dell’elettricità concernenti l’approvazione dei piani di impianti elettrici a corrente forte e di impianti elettrici a corrente debole e l’espropriazione dei diritti necessari per la costruzione o l’esercizio di siffatti impianti, se non si pone alcuna questione di diritto d’importanza fondamentale;
 - x.[^83-24] le decisioni concernenti la concessione di contributi di solidarietà ai sensi della legge federale del 30 settembre 2016[^83-25] sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981, tranne se si pone una questione di diritto di importanza fondamentale o si tratta di un caso particolarmente importante per altri motivi;
 - y.[^83-26] le decisioni pronunciate dal Tribunale amministrativo federale nelle procedure amichevoli per evitare un’imposizione non conforme alla convenzione internazionale applicabile in ambito fiscale;
-- z.[^83-27] le decisioni concernenti le autorizzazioni edilizie di impianti eolici d’interesse nazionale secondo l’articolo 71*c* capoverso 1 lettera b della legge federale del 30 settembre 2016[^83-28] sull’energia e le autorizzazioni di competenza cantonale a esse necessariamente connesse, se non si pone alcuna questione di diritto d’importanza fondamentale.
+- z.[^83-27] le decisioni concernenti le autorizzazioni edilizie di impianti eolici d’interesse nazionale secondo l’articolo 71*c* capoverso 1 lettera b della legge federale del 30 settembre 2016[^83-28] sull’energia e le autorizzazioni di competenza cantonale a esse necessariamente connesse, se non si pone alcuna questione di diritto d’importanza fondamentale;
+- z<sup>bis</sup>.[^83-29] le decisioni concernenti il rilascio di concessioni di diritti d’acqua per gli impianti di cui all’articolo 9*a* capoverso 3, in combinato disposto con l’allegato 2, della legge del 23 marzo 2007[^83-30] sull’approvvigionamento elettrico, se non si pongono questioni di diritto di importanza fondamentale;
+- z<sup>ter</sup>.[^83-31] le decisioni sui ricorsi di organizzazioni ai sensi dell’articolo 55 della legge del 7 ottobre 1983[^83-32] sulla protezione dell’ambiente e dell’articolo 12 della legge federale del 1° luglio 1966[^83-33] sulla protezione della natura e del paesaggio, in relazione alle centrali idroelettriche di cui all’articolo 9*a* capoverso 3 e all’allegato 2 nel tenore del 29 settembre 2023[^83-34] della legge sull’approvvigionamento elettrico.
 
 [^83-1]: Nuovo testo giusta la cifra I n. 1 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^83-2]: Introdotta dalla cifraI n. 1 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della legge sul Tribunale federale e della legge sul Tribunale amministrativo federale, in vigore dal 1° gen. 2008 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^83-3]: Nuovo testo giusta la cifra I n. 2 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
 [^83-4]: Nuovo testo giusta l’all. 7 cifra II n. 2 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
-[^83-5]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^83-5]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 [^83-6]: Introdotta dalla cifra I n. 2 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^83-7]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^83-7]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^83-8]: Nuovo testo giusta l’all. n. 1 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^83-9]: Nuovo testo giusta l’all. 2 cifra II n. 1 della L del 17 giu. 2016 sull’approvvigionamento del Paese, in vigore dal 1° giu. 2017 ([RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308); [FF 2014 6105](https://fedlex.data.admin.ch/eli/fga/2014/1571)).
 [^83-10]: Nuovo testo giusta la cifra I n. 1 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^83-11]: Nuovo testo giusta l’art. 106 n. 3 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
 [^83-12]: Nuovo testo giusta l’all. cifra II n. 1 della LF del 17 dic. 2010 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [FF 2009 4493](https://fedlex.data.admin.ch/eli/fga/2009/917)).
-[^83-13]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^83-13]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^83-14]: Introdotto dall’all. cifra II n. 1 della LF del 17 dic. 2010 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [FF 2009 4493](https://fedlex.data.admin.ch/eli/fga/2009/917)).
-[^83-15]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^83-16]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^83-17]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352). Quest’art. è abrogato. Vedi ora: l’art. 33 lett. i LTAF in connessione con l’art. 53 cpv. 1 della LF del 18 marzo 1994 sull’assicurazione malattie ([RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)).
+[^83-15]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^83-16]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^83-17]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621). Quest’art. è abrogato. Vedi ora: l’art. 33 lett. i LTAF in connessione con l’art. 53 cpv. 1 della LF del 18 marzo 1994 sull’assicurazione malattie ([RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)).
 [^83-18]: Abrogata dall’all. n. 1 della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^83-19]: Nuovo testo giusta l’all. n. 5 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^83-20]: Introdotta dall’all. n. 3 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Nuovo testo giusta l’all. n. 1 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^83-21]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^83-21]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^83-22]: Introdotta dall’all. n. 3 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^83-23]: Introdotta dall’all. cifra II n. 1 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^83-24]: Introdotta dall’art. 21 cpv. 2 della LF del 30 set. 2016 sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del1981, in vigore dal 1° apr. 2017 ([RU 2017 753](https://fedlex.data.admin.ch/eli/oc/2017/145); [FF 2016 73](https://fedlex.data.admin.ch/eli/fga/2016/40)).
-[^83-25]: [RS 211.223.13](https://fedlex.data.admin.ch/eli/cc/2017/145)
+[^83-25]: [RS 211.223.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5747)
 [^83-26]: Introdotta dall’art 36 cpv. 2 della LF del 18 giu. 2021 concernente l’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703); [FF 2020 8063](https://fedlex.data.admin.ch/eli/fga/2020/2501)).
 [^83-27]: Introdotta dalla cifra I n. 2 della LF del 16 giu. 2023 concernente l’accelerazione della procedura di autorizzazione degli impianti eolici, in vigore dal 1° feb. 2024 ([RU 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [FF 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
-[^83-28]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^83-28]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^83-29]: Introdotta dall’all. n. 1 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^83-30]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^83-31]: Introdotta dall’all. n. 1 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^83-32]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^83-33]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^83-34]: [RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679)
 
 #### Art. 84
 
@@ -1414,10 +1422,10 @@ Il termine è di cinque giorni per i ricorsi contro le decisioni:
 
 [^100-1]: Nuovo testo giusta l’all. n. 1 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^100-2]: Nuovo testo giusta l’all. n. 1 della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^100-3]: [RS 0.211.230.01](https://fedlex.data.admin.ch/eli/cc/1983/1681_1681_1681)
-[^100-4]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^100-3]: [RS 0.211.230.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/855)
+[^100-4]: [RS 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
 [^100-5]: Introdotta dall’all. n. 2 della LF del 20 mar. 2009 sul Tribunale federale dei brevetti, in vigore dal 1° gen. 2012 ([RU 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 349](https://fedlex.data.admin.ch/eli/fga/2008/145)).
-[^100-6]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^100-6]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 [^100-7]: Abrogato dall’all. 1 cifra II n. 2 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 101
@@ -1605,7 +1613,15 @@ Con il ricorso in materia costituzionale può essere censurata la violazione di 
 
 **Procedura di ricorso**
 
-Alla procedura di ricorso in materia costituzionale si applicano per analogia gli articoli 90–94, 99, 100, 102, 103 capoversi 1 e 3, 104, 106 capoverso 2 e 107–112.
+<sup>1</sup> Alla procedura di ricorso in materia costituzionale si applicano per analogia gli articoli 90–94, 99, 100, 102, 103 capoversi 1 e 3, 104, 106 capoverso 2 e 107–112.
+
+<sup>2</sup> I ricorsi delle organizzazioni ai sensi dell’articolo 55 della legge del 7 ottobre 1983[^117-1] sulla protezione dell’ambiente e dell’articolo 12 della legge federale del 1° luglio 1966[^117-2] sulla protezione della natura e del paesaggio contro piani di utilizzazione e decisioni relative ad autorizzazioni e concessioni in relazione alle centrali idroelettriche di cui all’articolo 9*a* capoverso 3 e all’allegato 2 nel tenore del 29 settembre 2023[^117-3] della legge del 23 marzo 2007[^117-4] sull’approvvigionamento elettrico non hanno effetto sospensivo.[^117-5]
+
+[^117-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^117-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^117-3]: [RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679)
+[^117-4]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^117-5]: Introdotto dall’all. n. 1 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 118
 
@@ -1641,7 +1657,7 @@ Alla procedura di ricorso in materia costituzionale si applicano per analogia gl
 
 <sup>4</sup> Se il tribunale arbitrale non è più al completo, è applicabile l’articolo 179 della legge federale sul diritto internazionale privato.
 
-[^119a-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^119a-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## Capitolo 6: Azione
 
@@ -1660,8 +1676,8 @@ Il Tribunale federale giudica su azione come giurisdizione unica:
 <sup>3</sup> La procedura in sede di azione è retta dalla PC[^120-3].
 
 [^120-1]: Nuovo testo giusta l’all. cifra II n. 5 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^120-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^120-3]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^120-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^120-3]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 ## Capitolo 7: Revisione, interpretazione e rettifica
 
@@ -1688,7 +1704,7 @@ La revisione di una sentenza del Tribunale federale per violazione della Convenz
 - b. un’indennità non è atta a compensare le conseguenze della violazione; e
 - c. la revisione è necessaria per rimediare alla violazione.
 
-[^122-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^122-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^122-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 123
@@ -1707,9 +1723,9 @@ La revisione può inoltre essere domandata:
 
 [^123-1]: Nuovo testo giusta la cifra II n. 1 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^123-2]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^123-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^123-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^123-4]: Introdotta dall’all. cifra II n. 1 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicata il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^123-5]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^123-5]: [RS 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 
 #### Art. 124
 
@@ -1733,8 +1749,8 @@ Dopo dieci anni dalla pronuncia della sentenza la revisione non può più essere
 
 <sup>3</sup> Sono fatti salvi i termini particolari di cui all’articolo 5 capoverso 5 della legge federale del 13 giugno 2008[^124-2] sulla responsabilità civile in materia nucleare.[^124-3]
 
-[^124-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^124-2]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^124-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^124-2]: [RS 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 [^124-3]: Introdotto dall’all. cifra II n. 1 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 125
@@ -1765,7 +1781,7 @@ Se non ritiene inammissibile o infondata la domanda di revisione, il Tribunale f
 
 <sup>3</sup> Se pronuncia una nuova sentenza in una causa penale, si applica per analogia l’articolo 415 CPP[^128-1].[^128-2]
 
-[^128-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^128-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^128-2]: Nuovo testo giusta l’all. 1 cifra II n. 3 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### Sezione 2: Interpretazione e rettifica
@@ -1831,6 +1847,14 @@ Se non ritiene inammissibile o infondata la domanda di revisione, il Tribunale f
 La procedura di ricorso contro le decisioni pronunciate prima dell’entrata in vigore della modifica del 20 giugno 2014 è retta dal diritto anteriore.
 
 [^132a-1]: Introdotto dalla cifra I n. 1 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
+
+#### Art. 132b
+
+**Disposizione transitoria della modifica del 26 settembre 2025**[^132b-1]
+
+Gli articoli 83 lettera z<sup>ter</sup> e 117 capoverso 2 sono direttamente applicabili ai ricorsi delle organizzazioni legittimate a ricorrere che al momento dell’entrata in vigore della modifica del 26 settembre 2025 sono pendenti dinanzi ad autorità o tribunali. I ricorsi che al momento dell’entrata in vigore di tale modifica sono pendenti dinanzi al Tribunale federale sono trattati secondo il diritto anteriore.
+
+[^132b-1]: Introdotto dall’all. n. 1 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 133
 
