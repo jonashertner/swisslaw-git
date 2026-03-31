@@ -4,13 +4,12 @@ number: "923.013"
 title: Standeskommissionsbeschluss über die Fischerei
 short: StKB Fischerei
 language: de
-version: 2024-03-15
-valid_until: 2026-03-31
-version_adopted: 2024-03-05
+version: 2026-04-01
+version_adopted: 2026-03-17
 adopted: 2020-02-04
 in_force: 2020-02-10
 url: "https://ai.clex.ch/app/de/texts_of_law/923.013"
-pdf: "https://ai.clex.ch/api/de/versions/2259/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2259/pdf_file"
 
 (StKB Fischerei)
 
-vom 04.02.2020 (Stand 15.03.2024)
+vom 04.02.2020 (Stand 01.04.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -47,12 +46,12 @@ beschliesst:
 
 <sup>1</sup> Die Mindestmasse für Fische betragen:
 
-- a) Fliessgewässer — 26cm
+- a) Fliessgewässer — 32cm
 - b) Fählensee — 28cm
 - c) Sämtisersee — 28cm
 - d) Seealpsee — 24cm
-- e) Befischbare Zuflüsse Bergseen — 24cm
-- f) Abfluss Seealpsee Berggasthaus Seealpsee bis Wasserfall Chobel — 24cm
+- e) Befischbare Zuflüsse Bergseen — 32cm
+- f) Abfluss Seealpsee Berggasthaus Seealpsee bis Wasserfall Chobel — 32cm
 
 <sup>2</sup> Für den Amerikanischen Seesaibling (Namaycush) gelten keine Mindestmassbeschränkungen. Gefangene Amerikanische Seesaiblinge aller Grössen müssen behändigt und unverzüglich getötet werden.
 
