@@ -3,11 +3,11 @@ sr: "235.26"
 title: Verordnung vom 25. September 2020 über das Informationssystem Plato (Plato-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
 language: de
-version: 2023-09-01
+version: 2026-04-01
 adopted: 2020-09-25
 in_force: 2020-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-747-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2020-747-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20230901/de"
 
 (Plato-Verordnung)
 
-vom 25. September 2020 (Stand am 1. September 2023)
+vom 25. September 2020 (Stand am 1. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -92,9 +92,11 @@ Das Plato besteht aus einer Anwendungsoberfläche sowie den folgenden, voneinand
 
 #### Art. 7
 
-**Bekanntgabe von Daten**
+**Bekanntgabe von Daten**[^7-1]
 
-Dem Krisenmanagementzentrum des EDA und der Konsularischen Direktion können zur Erfüllung ihrer Aufgaben im Rahmen der Bewältigung von Krisen und Sicherheitsvorfällen sowie der Krisenvorsorge Daten über im Einsatz stehende Expertinnen und Experten übermittelt werden.
+Der Konsularischen Direktion können zur Erfüllung ihrer Aufgaben im Rahmen der Bewältigung von Krisen und Sicherheitsvorfällen sowie der Krisenvorsorge Daten über im Einsatz stehende Expertinnen und Experten übermittelt werden.
+
+[^7-1]: Fassung gemäss Ziff. II 3 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 8
 

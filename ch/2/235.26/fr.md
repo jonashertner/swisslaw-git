@@ -3,11 +3,11 @@ sr: "235.26"
 title: "Ordonnance du 25 septembre 2020 sur le système d'information Plato (Ordonnance Plato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
 language: fr
-version: 2023-09-01
+version: 2026-04-01
 adopted: 2020-09-25
 in_force: 2020-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-747-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-747-20260401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20230901/fr"
 
 (Ordonnance Plato)
 
-du 25 septembre 2020 (État le 1<sup>er</sup> septembre 2023)
+du 25 septembre 2020 (État le 1<sup>er</sup> avril 2026)
 
 Le Conseil fédéral suisse,
 
@@ -92,9 +92,11 @@ Plato est constitué d’une interface utilisateur et des bases de données ind�
 
 #### Art. 7
 
-**Communication de données**
+**Communication de données**[^7-1]
 
-Des données relatives à des experts déployés en mission peuvent être communiquées au Centre de gestion des crises du DFAE et à la Direction consulaire afin de permettre à ces unités de s’acquitter de leurs missions dans le cadre de la gestion de crises et d’incidents de sécurité ainsi que de la préparation aux crises.
+Des données relatives à des experts déployés en mission peuvent être communiquées à la Direction consulaire afin de lui permettre de s’acquitter de ses missions dans le cadre de la gestion de crises et d’incidents de sécurité ainsi que de la préparation aux crises.
+
+[^7-1]: Nouvelle teneur selon le ch. II 3 de l’O du 11 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 8
 

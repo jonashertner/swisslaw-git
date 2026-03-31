@@ -3,11 +3,11 @@ sr: "235.26"
 title: "Ordinanza del 25 settembre 2020 concernente il sistema d'informazione Plato (Ordinanza Plato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
 language: it
-version: 2023-09-01
+version: 2026-04-01
 adopted: 2020-09-25
 in_force: 2020-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-747-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2020-747-20260401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20230901/it"
 
 (Ordinanza Plato)
 
-del 25 settembre 2020 (Stato 1° settembre 2023)
+del 25 settembre 2020 (Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -92,9 +92,11 @@ Plato è costituito da un’interfaccia di applicazione e dalle seguenti banche 
 
 #### Art. 7
 
-**Comunicazione di dati**
+**Comunicazione di dati**[^7-1]
 
-I dati relativi agli esperti in servizio possono essere trasmessi al Centro di gestione delle crisi del DFAE e alla Direzione consolare per l’adempimento dei loro compiti nell’ambito della gestione delle crisi e degli incidenti di sicurezza nonché della prevenzione delle crisi.
+I dati relativi agli esperti in servizio possono essere trasmessi alla Direzione consolare per l’adempimento dei suoi compiti nell’ambito della gestione delle crisi e degli incidenti di sicurezza nonché della prevenzione delle crisi.
+
+[^7-1]: Nuovo testo giusta la cifra II n. 3 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 8
 
