@@ -4,13 +4,12 @@ number: "150.11"
 title: Verordnung zum Personalgesetz
 short: Personalverordnung
 language: de
-version: 2026-01-01
-valid_until: 2026-03-31
-version_adopted: 2025-12-09
+version: 2026-04-01
+version_adopted: 2026-03-24
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.11"
-pdf: "https://bl.clex.ch/api/de/versions/4376/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4376/pdf_file"
 
 (Personalverordnung)
 
-Vom 19.12.2000 (Stand 01.01.2026)
+Vom 19.12.2000 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -56,7 +55,7 @@ beschliesst:
 
 <sup>2</sup> Die Anstellungsbehörde juristischer Volontärinnen und Volontäre ist bei den Gerichten die Geschäftsleitung, bei der Staatsanwaltschaft die Staatsanwaltschaft, bei den besonderen Behörden deren Vorsteherin bzw. Vorsteher, bei den übrigen kantonalen Stellen die Sicherheitsdirektion.
 
-<sup>3</sup> Die Anstellungsbehörde der Mitarbeitenden an integrativen Arbeitsplätzen ist das Personalamt.
+<sup>3</sup> …
 
 <sup>4</sup> Die Anstellungsbehörde aller übrigen Mitarbeitenden sind die Direktionen und die besonderen Behörden gemäss ihren Weisungen, soweit nicht in anderen Erlassen eine andere Stelle hierzu bestimmt ist.
 
@@ -96,9 +95,10 @@ beschliesst:
 
 - a. für Anstellungen, die aufgrund ihrer Aufgabenstellung befristet sind;
 - b. für den befristeten Einsatz in einer Stellvertretungsfunktion;
-- c. für Anstellungen von Lehrpersonen, wenn die Ausbildung unvollständig ist.
+- c. für Anstellungen von Lehrpersonen, wenn die Ausbildung unvollständig ist;
+- d. für den erstmaligen Abschluss eines Arbeitsvertrags auf einem inklusiven Arbeitsplatz.
 
-<sup>2</sup> Die Gesamtdauer aller befristeten Verträge beträgt in der Regel nicht mehr als 48 Monate.
+<sup>2</sup> Die Gesamtdauer aller befristeten Verträge beträgt in der Regel nicht mehr als 48 Monate. Vorbehalten bleibt § 15c Abs. 1.
 
 <sup>3</sup> Bei temporären Arbeitsüberlastungen können für die Dauer von 6 Monaten befristete Arbeitsverträge abgeschlossenen werden.
 
@@ -234,6 +234,43 @@ beschliesst:
 
 <sup>3</sup> Eine Verwarnung ist nicht anfechtbar.
 
+### 1.3a Krankheit und Unfall
+
+#### § 15a
+
+**Case Management**
+
+<sup>1</sup> Bei krankheits- oder unfallbedingter Arbeitsunfähigkeit einer Mitarbeiterin oder eines Mitarbeiters, die mindestens 30 Kalendertage dauert, kann die Anstellungsbehörde die Wiedereingliederung in den Arbeitsprozess im Rahmen eines Case Managements mit geeigneten Massnahmen unterstützen.
+
+<sup>2</sup> Für das Case Management kann die Anstellungsbehörde externe Fachstellen beiziehen.
+
+#### § 15b
+
+**Inklusive Arbeitsplätze**
+
+<sup>1</sup> Wenn die Wiedereingliederung in die gemäss Stellenbeschrieb vorgesehene Funktion nicht erfolgreich war und der betroffenen Mitarbeiterin bzw. dem betroffenen Mitarbeiter keine Beschäftigung entsprechend ihrer bzw. seiner Fähigkeiten mit verhältnismässigem Aufwand bei der gleichen Organisationseinheit angeboten werden kann, bei welcher sie bzw. er die bisherige Tätigkeit wahrgenommen hat, kann die Anstellungsbehörde mittels Faktenblatt zur Weiterbeschäftigung einen Übertritt auf einen inklusiven Arbeitsplatz beantragen.
+
+<sup>2</sup> Der Aufwand, mit welchem einer Mitarbeiterin bzw. einem Mitarbeiter ein passender Arbeitsplatz bei der gleichen Organisationseinheit angeboten werden kann, gilt insbesondere als unverhältnismässig, wenn:
+
+- a. die für die Umgestaltung des Arbeitsplatzes erforderlichen baulichen, technischen oder organisatorischen Massnahmen unverhältnismässig gross sind;
+- b. die finanziellen Mittel, die für die Umgestaltung des Arbeitsplatzes eingesetzt werden müssen, sowie die zur Verfügung stehenden Stellenkontingente gegenüber dem Nutzen des Arbeitsplatzes unverhältnismässig sind.
+
+<sup>3</sup> Der Übertritt auf einen inklusiven Arbeitsplatz erfordert eine Funktionsänderung.
+
+<sup>4</sup> Die Finanzierung des inklusiven Arbeitsplatzes erfolgt zulasten des Budgets derjenigen Anstellungsbehörde, welche den Arbeitsplatz zur Verfügung stellt.
+
+<sup>5</sup> Inklusive Arbeitsplätze können auch für die Anstellung von neuen Mitarbeitenden mit Behinderungen beantragt werden.
+
+#### § 15c
+
+**Dauer des Arbeitsvertrags für einen inklusiven Arbeitsplatz**
+
+<sup>1</sup> Der erstmalige Arbeitsvertrag für einen inklusiven Arbeitsplatz erfolgt befristet auf maximal 24 Monate.
+
+<sup>2</sup> Nach Ablauf der Befristung entscheidet die Anstellungsbehörde, bei der der Arbeitsplatz angesiedelt ist, ob das Arbeitsverhältnis durch einen unbefristeten Arbeitsvertrag weitergeführt oder beendet wird. In begründeten Fällen kann die Befristung um weitere maximal 24 Monate verlängert werden.
+
+<sup>3</sup> Die Weiterführung des Arbeitsverhältnisses erfolgt in der Regel auf einem inklusiven Arbeitsplatz. Die Anstellung auf einer regulären Planstelle kann jederzeit erfolgen.
+
 ### 1.4 Beendigung
 
 #### § 16
@@ -266,7 +303,7 @@ beschliesst:
 
 <sup>3</sup> ...
 
-<sup>4</sup> Das Personalamt ist von der Einleitung der Invalidisierung zu unterrichten.
+<sup>4</sup> …
 
 #### § 20
 
@@ -500,6 +537,8 @@ beschliesst:
 **Zuständigkeit**
 
 <sup>1</sup> Das Personalamt koordiniert die Ausbildung bei den handwerklich-technischen und den kaufmännischen Berufen. Das Kantonsgericht und die besonderen Behörden wirken je in ihrem Bereich mit.
+
+<sup>2</sup> Für die Ausbildung von Menschen mit Behinderungen kann mit anderen Institutionen zusammengearbeitet werden.
 
 ### 2.2 Personalentwicklung
 
@@ -925,25 +964,15 @@ beschliesst:
   - 1\. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
   - 2\. die Leiterin oder der Leiter des Fachbereichs Gemeinden der Finanz- und Kirchendirektion.
 
-## 7 Geschützte Arbeitsplätze
+## 7
 
 #### § 56
 
-**Integrative Arbeitsplätze**
-
-<sup>1</sup> Der Kanton stellt eine bestimmte Anzahl Arbeitsplätze für Personen zur Verfügung, die aus gesundheitlichen Gründen in ihrer Leistungsfähigkeit eingeschränkt sind.
-
-<sup>2</sup> Die Finanzierung erfolgt über das Budget des Personalamtes. Das Personalamt kann einen der Leistungsfähigkeit des oder der Mitarbeitenden entsprechenden Betrag dem sie oder ihn beschäftigenden Betrieb belasten.
-
-<sup>3</sup> Die Anstellung erfolgt befristet auf maximal 2 Jahre. Im Anschluss daran entscheidet das Personalamt unter Berücksichtigung aller Umstände über den Abschluss eines neuen Arbeitsvertrags.
+**…**
 
 #### § 57
 
-**Folgen der Teilinvalidisierung bei Mitarbeitenden**
-
-<sup>1</sup> Wird eine Mitarbeiterin oder ein Mitarbeiter teilinvalid und ist sie oder er deswegen in der Leistungsfähigkeit eingeschränkt, kann auf Antrag der Anstellungsbehörde ein Übertritt in einen integrativen Arbeitsplatz erfolgen.
-
-<sup>2</sup> Der Übertritt in einen integrativen Arbeitsplatz erfordert eine Funktionsänderung.
+**…**
 
 ## 8 Übergangs- und Schlussbestimmungen
 
