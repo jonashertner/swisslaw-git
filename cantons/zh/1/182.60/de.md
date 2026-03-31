@@ -4,11 +4,10 @@ number: "182.60"
 title: Reglement der Römisch-katholischen Körperschaft des Kantons Zürich über die Kirchgemeinden (KGR) (Kirchgemeindereglement)
 short: KGR
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2026-04-01
+version: "2026-04-01"
+nachtrag: "132"
 adopted: 2017-06-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_60-2017_06_29-2018_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_60-2017_06_29-2018_01_01-132.html"
 text: pdf
 ---
 
@@ -69,7 +68,7 @@ Die Kirchgemeinden regeln ihre Angelegenheiten im Rahmen des übergeordneten Rec
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Soweit die Kirchgemeinden keine eigenen Regelungen erlassen müssen, können sie beschliessen, das Kirchgemeindereglement direkt anzuwenden.
 
@@ -150,15 +149,15 @@ Die Information und der Datenschutz richten sich nach den kirchlichen Vorschrift
 
 - e. nicht von der Ausübung der politischen Rechte ausgeschlossen ist.
 
-**3**
-
-- 1\. 1. 24 - 123
-
 ### B. Urnenabstimmungen und -wahlen
 
 **Obligatorische Urnenabstimmung**
 
 § 11.[^hBUrnenabstimmungen-1] <sup>1</sup> Die Kirchgemeindeordnung bezeichnet die Gegenstände, über welche die Stimmberechtigten zwingend an der Urne zu entscheiden haben.
+
+**3**
+
+- 1\. 4. 26 - 132
 
 <sup>2</sup> In Kirchgemeinden mit Kirchgemeindeparlament beschliessen die Stimmberechtigten an der Urne über die in der Kirchgemeindeordnung bezeichneten Gegenstände. Der Urnenabstimmung (obligatorisches Referendum) unterliegen zwingend:
 
@@ -254,7 +253,7 @@ Die Aufgaben des Wahlbüros sowie der Wahlleitung werden von der politischen Gem
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 26 - 132
 
 <sup>4</sup> Die erforderliche Unterschriftenzahl darf 5% der Stimmberechtigten nicht übersteigen und nicht grösser als 3000 sein.
 
@@ -364,7 +363,7 @@ Die Kirchgemeindeversammlung ist die Versammlung der Stimmberechtigten.
 
 **7**
 
-- 1\. 1. 24 - 123 e.[^22-1] Wahl der Mitglieder der Synode, sofern dies in der Kirchgemeindeordnung vorgesehen ist.
+- 1\. 4. 26 - 132 e.[^22-1] Wahl der Mitglieder der Synode, sofern dies in der Kirchgemeindeordnung vorgesehen ist.
 
 <sup>3</sup> Die Kirchgemeindeversammlung ist für die Bestätigungswahl der Pfarrer zuständig, sofern dies in der Kirchgemeindeordnung vorgesehen ist.[^22-1]
 
@@ -462,7 +461,7 @@ Die Versammlungsleitung erteilt Stimmberechtigten auf Verlangen Auskunft über d
 
 **9**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Ordnungsanträge betreffen die Verhandlungsführung. Darunter fallen insbesondere die folgenden Anträge:
 
@@ -566,7 +565,7 @@ Die Kirchenpflege ist berechtigt, einen von der Kirchgemeindeversammlung zurück
 
 **11**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Die Stimmabgabe erfolgt auf den ausgegebenen leeren Wahlzetteln. Die Kirchgemeindeordnung kann die Verwendung gedruckter Wahlvorschläge vorsehen.
 
@@ -658,7 +657,7 @@ Die Kirchenpflege ist berechtigt, einen von der Kirchgemeindeversammlung zurück
 
 **13**
 
-- 1\. 1. 24 - 123 § 39 i.[^h3AbschnittKirchg-1] <sup>1</sup> Die Kirchenpflege unterbreitet dem Kirchgemeindeparlament Geschäfte zur Beschlussfassung.
+- 1\. 4. 26 - 132 § 39 i.[^h3AbschnittKirchg-1] <sup>1</sup> Die Kirchenpflege unterbreitet dem Kirchgemeindeparlament Geschäfte zur Beschlussfassung.
 
 **Rechte der Kirchenpflege**
 
@@ -681,17 +680,22 @@ Die Kirchenpflege ist berechtigt, einen von der Kirchgemeindeversammlung zurück
 
 **Wählbarkeitsvoraussetzungen und Beendigung der Amtsdauer**
 
-§ 40.[^hAWählbarkeitundA-1] <sup>1</sup> Als Behördenmitglied ist wählbar, wer zum Zeitpunkt der Wahl stimm- und wahlberechtigt gemäss § 10 Abs. 2 ist. Es besteht kein Amtszwang.
+§ 40.[^hAWählbarkeitundA-1] <sup>1</sup> Als Behördenmitglied ist wählbar, wer zum Zeitpunkt der Wahl stimm- und wahlberechtigt gemäss § 10 Abs. 2 ist.
 
-<sup>2</sup> Der Pfarrer, die oder der Pfarreibeauftragte und Angestellte der Kirchgemeinde können nicht Mitglied einer Behörde der sie anstellenden Kirchgemeinde sein. Diese Bestimmung gilt auch für Ehegattinnen und Ehegatten und eingetragene Partnerinnen und Partner von Pfarreibeauftragten sowie für Personen, die mit Pfarreibeauftragten in faktischer Lebensgemeinschaft verbunden sind.
+<sup>2</sup> Der Pfarrer, die oder der Pfarreibeauftragte und Angestellte der Kirchgemeinde können nicht Mitglied einer Behörde der sie anstellenden Kirchgemeinde sein. Diese Bestimmung gilt auch für Ehepartnerinnen und Ehepartner sowie eingetragene Partnerinnen und Partner von Pfarreibeauftragten sowie für Personen, die mit Pfarreibeauftragten in faktischer Lebensgemeinschaft verbunden sind.
 
-<sup>3</sup> Für die Wahl in die Rechnungsprüfungskommission kann die Kirchgemeindeordnung anstelle des Wohnsitzes in der Kirchgemeinde den Wohnsitz in einer anderen römisch-katholischen Kirchgemeinde des Kantons Zürich vorsehen.
+<sup>3</sup> Die Kirchgemeindeordnung kann für Mitglieder der Behörden auf den Wohnsitz in der Kirchgemeinde verzichten und stattdessen den Wohnsitz in einer anderen römisch-katholischen Kirchgemeinde des Kantons Zürich vorsehen. Dies gilt nicht für die Präsidentin oder den Präsidenten der Kirchenpflege. Bei Mitgliedern der Kirchenpflege kann der Verzicht auf den Wohnsitz in der Kirchgemeinde auf die Wiederwahl beschränkt werden.
 
-<sup>4</sup> Mit der Aufgabe des für die Wahl erforderlichen Wohnsitzes endet die Amtsdauer. Die Kirchgemeindeordnung kann Behördenmitgliedern gestatten, die Amtsdauer zu beenden, wenn sie infolge Aufgabe des erforderlichen Wohnsitzes die Wählbarkeit verlieren.
+<sup>4</sup> Eine Person kann gleichzeitig nur einer Kirchenpflege und höchstens drei Rechnungsprüfungskommissionen angehören.
 
-<sup>5</sup> Behördenmitglieder, die zwischenzeitlich den erforderlichen Wohnsitz gemäss Kirchgemeindeordnung aufgegeben haben, können wiedergewählt werden, wenn dies die Kirchgemeindeordnung vorsieht und sie weiterhin Wohnsitz in einer anderen römisch-katholischen Kirchgemeinde des Kantons Zürich haben. Dies gilt nicht für die Präsidentin oder den Präsidenten der Behörde.
+<sup>5</sup> Mit der Aufgabe des für die Wahl erforderlichen Wohnsitzes endet die Amtsdauer. Die Kirchgemeindeordnung kann Behördenmitgliedern gestatten, die Amtsdauer zu beenden, wenn sie infolge Aufgabe des erforderlichen Wohnsitzes die Wählbarkeit verlieren.
 
-[^hAWählbarkeitundA-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+**Amtszwang**
+
+§ 40 a.[^hAWählbarkeitundA-2] Für die Mitglieder von Behörden der Kirchgemeinden besteht kein Amtszwang.
+
+[^hAWählbarkeitundA-1]: Fassung gemäss B vom 6. November 2025 (OS 81, 85; ABl 2025-11-28). In Kraft seit 1. April 2026. 1. 4. 26 - 132 27
+[^hAWählbarkeitundA-2]: Eingefügt durch B vom 6. November 2025 (OS 81, 85; ABl 2025-11-28). In Kraft seit 1. April 2026.
 
 #### § 41
 
@@ -743,7 +747,7 @@ Die Kirchenpflege ist berechtigt, einen von der Kirchgemeindeversammlung zurück
 
 **15**
 
-- 1\. 1. 24 - 123 § 45. <sup>1</sup> Wer die Wählbarkeit verliert und aus der Behörde ausscheidet, informiert die Aufsichtskommission über Kirchgemeinden und Zweckverbände. Wer aus anderen Gründen vorzeitig aus dem Amt ausscheiden will, ersucht die Aufsichtskommission über Kirchgemeinden und Zweckverbände um vorzeitige Entlassung.
+- 1\. 4. 26 - 132 § 45. <sup>1</sup> Wer die Wählbarkeit verliert und aus der Behörde ausscheidet, informiert die Aufsichtskommission über Kirchgemeinden und Zweckverbände. Wer aus anderen Gründen vorzeitig aus dem Amt ausscheiden will, ersucht die Aufsichtskommission über Kirchgemeinden und Zweckverbände um vorzeitige Entlassung.
 
 **Vorzeitige Entlassung**
 
@@ -761,27 +765,32 @@ Die Kirchenpflege ist berechtigt, einen von der Kirchgemeindeversammlung zurück
 
 ### B. Einberufung und Beschlussfassung
 
-#### § 47
+**Einberufung und Teilnahme an Sitzungen**
 
-**Sitzungen**
+§ 47.[^hBEinberufungundB-1] <sup>1</sup> Behörden versammeln sich auf Einladung der Präsidentin oder des Präsidenten sowie auf Verlangen von mindestens einem Drittel ihrer Mitglieder.
 
-<sup>1</sup> Behörden versammeln sich auf Einladung der Präsidentin oder des Präsidenten sowie auf Verlangen von mindestens einem Drittel ihrer Mitglieder.
+<sup>2</sup> Die Mitglieder sind zur Teilnahme an den Sitzungen verpflichtet.
 
-<sup>2</sup> Der Pfarrer und die oder der Pfarreibeauftragte nehmen an den Sitzungen der Kirchenpflege mit beratender Stimme teil. Stellvertretung ist nur bei längeren Abwesenheiten mit Einverständnis der Präsidentin oder des Präsidenten gestattet. Für einzelne Verhandlungsgegenstände können Gäste und Sachverständige zur Sitzung eingeladen werden.[^47-1]
+<sup>3</sup> Die Sitzungen können physisch an einem Ort oder mit elektronischen Mitteln stattfinden. Der Synodalrat erlässt Richtlinien für die Durchführung von Sitzungen mit elektronischen Mitteln.
 
-<sup>3</sup> Die Kirchgemeindeordnung kann die Teilnahme von weiteren Angestellten der Kirchgemeinde vorsehen.
+<sup>4</sup> Der Pfarrer und die oder der Pfarreibeauftragte nehmen an den Sitzungen der Kirchenpflege mit beratender Stimme teil. Stellvertretung ist nur bei längeren Abwesenheiten mit Einverständnis der Präsidentin oder des Präsidenten gestattet. Für einzelne Verhandlungsgegenstände können Gäste und Sachverständige zur Sitzung eingeladen werden.[^hBEinberufungundB-2]
 
-<sup>4</sup> Die Verhandlungsgegenstände werden den Mitgliedern vor der Sitzung bekannt gegeben.
+<sup>5</sup> Die Kirchgemeindeordnung kann die Teilnahme von weiteren Angestellten der Kirchgemeinde vorsehen.
 
-<sup>5</sup> Die Mitglieder sind zur Teilnahme an den Sitzungen verpflichtet. Gegen Mitglieder, die im Besuch der Sitzungen nachlässig sind, erlässt die Präsidentin oder der Präsident die nötigen Mahnungen. Bleiben diese fruchtlos, wird die Aufsichtskommission über Kirchgemeinden und Zweckverbände über diesen Sachverhalt in Kenntnis gesetzt.
+<sup>6</sup> Die Verhandlungsgegenstände werden den Mitgliedern vor der Sitzung bekannt gegeben.
 
-[^47-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
-
-#### § 48
+<sup>7</sup> Gegen Mitglieder, die in der Teilnahme an Sitzungen nachlässig sind, erlässt die Präsidentin oder der Präsident die nötigen Mahnungen. Bleiben diese fruchtlos, wird die Aufsichtskommission über Kirchgemeinden und Zweckverbände über diesen Sachverhalt in Kenntnis gesetzt.
 
 **Beschlussfassung**
 
-Eine Behörde kann beschliessen, wenn die Mehrheit ihrer Mitglieder anwesend ist.
+§ 48.[^hBEinberufungundB-1] <sup>1</sup> Eine Behörde kann beschliessen, wenn die Mehrheit ihrer Mitglieder an der Sitzung teilnimmt.
+
+<sup>2</sup> Sie trifft ihre Entscheidung nach gemeinsamer Beratung als Kollegium.
+
+<sup>3</sup> Die Mitglieder der Behörde vertreten die Entscheide des Kollegiums.
+
+[^hBEinberufungundB-1]: Fassung gemäss B vom 6. November 2025 (OS 81, 85; ABl 2025-11-28). In Kraft seit 1. April 2026. 1. 4. 26 - 132 27
+[^hBEinberufungundB-2]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### § 49
 
@@ -819,6 +828,10 @@ Können dringende Angelegenheiten nicht rechtzeitig in der Behörde behandelt we
 
 Die Verhandlungen von Behörden sind nicht öffentlich.
 
+**17**
+
+- 1\. 4. 26 - 132
+
 ### C. Aufgabenübertragung, Kommissionen und Sachverständige
 
 #### § 53
@@ -834,10 +847,6 @@ Die Verhandlungen von Behörden sind nicht öffentlich.
 **Beratende Kommissionen und Sachverständige**
 
 Eine Behörde kann zur Vorberatung ihrer Geschäfte beratende Kommissionen einsetzen oder Sachverständige beziehen.
-
-**17**
-
-- 1\. 1. 24 - 123
 
 ### D. Kirchenpflege
 
@@ -923,9 +932,11 @@ Die Kirchenpflege bestellt aus ihrer Mitte die Verantwortlichen für die einzeln
 
 § 60 c.[^60-2] Die Kirchenpflege schränkt die Herausgabe von Unterlagen und die Erteilung von Auskünften ein, soweit ein überwiegendes öffentliches oder privates Interesse dies gebietet.
 
-**Fachkunde**
+**19**
 
-§ 61.[^60-1] <sup>1</sup> Die finanztechnische Prüfung des Kirchgemeindehaushaltes muss durch eine Person geleitet werden, die über die notwendige Fachkunde verfügt. In Kirchgemeinden mit Kirchgemeindeparlament muss hierfür eine externe Prüfstelle gemäss Abs. 2 eingesetzt werden.
+- 1\. 4. 26 - 132 § 61.[^60-1] <sup>1</sup> Die finanztechnische Prüfung des Kirchgemeindehaushaltes muss durch eine Person geleitet werden, die über die notwendige Fachkunde verfügt. In Kirchgemeinden mit Kirchgemeindeparlament muss hierfür eine externe Prüfstelle gemäss Abs. 2 eingesetzt werden.
+
+**Fachkunde**
 
 <sup>2</sup> Erfüllt in Kirchgemeinden ohne Kirchgemeindeparlament kein Mitglied der Rechnungsprüfungskommission die Anforderung gemäss Abs. 1 Satz 1, ist eine externe Prüfstelle nach den Vorschriften des Finanzreglements der Kirchgemeinden[^60-3] einzusetzen.
 
@@ -933,21 +944,23 @@ Die Kirchenpflege bestellt aus ihrer Mitte die Verantwortlichen für die einzeln
 
 <sup>4</sup> Der Synodalrat legt in einem Merkblatt die Anforderungen an die Fachkunde fest.
 
-**19**
+[^60-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^60-2]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+[^60-3]: LS 182.63.
 
-- 1\. 1. 24 - 123 § 62. <sup>1</sup> Die Mitglieder der Rechnungsprüfungskommission müssen tatsächlich und dem Anschein nach unabhängig sein.
+#### § 62
 
 **Unabhängigkeit**
+
+<sup>1</sup> Die Mitglieder der Rechnungsprüfungskommission müssen tatsächlich und dem Anschein nach unabhängig sein.
 
 <sup>2</sup> Sie dürfen weder ein anderes Amt in der Kirchgemeinde ausüben noch in einem vertraglichen Verhältnis zur Kirchgemeinde stehen.
 
 <sup>3</sup> Sie üben ihr Amt frei von Weisungen der Kirchgemeinde aus.
 
-<sup>4</sup> Abs. 1 und 2 sind nicht auf Mitglieder der Rechnungs- und Geschäftsprüfungskommissionen in Kirchgemeinden mit Kirchgemeindeparlament anwendbar.[^60-2]
+<sup>4</sup> Abs. 1 und 2 sind nicht auf Mitglieder der Rechnungs- und Geschäftsprüfungskommissionen in Kirchgemeinden mit Kirchgemeindeparlament anwendbar.[^62-1]
 
-[^60-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
-[^60-2]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
-[^60-3]: LS 182.63.
+[^62-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 ### 3. Teil: Zusammenarbeit
 
@@ -977,9 +990,11 @@ Die Kirchenpflege bestellt aus ihrer Mitte die Verantwortlichen für die einzeln
 
 <sup>5</sup> Erlass und Änderungen der Zweckverbandsstatuten bedürfen der Genehmigung des Synodalrates. Dieser prüft sie auf ihre Rechtmässigkeit.
 
-<sup>6</sup> Die Aufgaben des Wahlbüros sowie der Wahlleitung bei Wahlen und Abstimmungen an der Urne werden von der in den Zweckverbandsstatuten bezeichneten politischen Gemeinde wahrgenommen. § 63 a.[^h3TeilZusammenarb-2] <sup>1</sup> Kirchgemeinden können zur gemeinsamen Erfüllung einer oder mehrerer Aufgaben a. eine juristische Person des Privatrechts errichten,
+<sup>6</sup> Die Aufgaben des Wahlbüros sowie der Wahlleitung bei Wahlen und Abstimmungen an der Urne werden von der in den Zweckverbandsstatuten bezeichneten politischen Gemeinde wahrgenommen.
 
 **Juristische Personen des Privatrechts**
+
+§ 63 a.[^h3TeilZusammenarb-2] <sup>1</sup> Kirchgemeinden können zur gemeinsamen Erfüllung einer oder mehrerer Aufgaben a. eine juristische Person des Privatrechts errichten,
 
 - b. sich an einer bestehenden juristischen Person des Privatrechts beteiligen,
 
@@ -1016,6 +1031,10 @@ Die Kirchenpflege bestellt aus ihrer Mitte die Verantwortlichen für die einzeln
 
 <sup>3</sup> Im Vertrag wird bestimmt, welche Punkte als grundlegend gelten.
 
+**21**
+
+- 1\. 4. 26 - 132
+
 <sup>4</sup> Über den Abschluss und die grundlegenden Änderungen von Verträgen beschliessen die Kirchgemeindeversammlungen oder Kirchgemeindeparlamente der beteiligten Kirchgemeinden. In den übrigen Fällen kann die Kirchgemeindeordnung die Zuständigkeit der Kirchenpflege vorsehen.[^64-1]
 
 [^64-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
@@ -1031,10 +1050,6 @@ Die Kirchenpflege bestellt aus ihrer Mitte die Verantwortlichen für die einzeln
 **Bestandesänderungen**
 
 § 65.[^h1AbschnittÄnderu-1] <sup>1</sup> Die Kirchgemeinden sind in einem Verzeichnis zur Kirchenordnung aufgeführt.
-
-**21**
-
-- 1\. 1. 24 - 123
 
 <sup>2</sup> Neubildung, Zusammenschluss und Auflösung von Kirchgemeinden erfolgen durch Beschluss der Synode auf Gesuch der betreffenden Kirchgemeinden an den Synodalrat oder auf Antrag des Synodalrates.
 
@@ -1099,6 +1114,10 @@ Die Kirchenpflege bestellt aus ihrer Mitte die Verantwortlichen für die einzeln
 
 <sup>4</sup> Der Vertrag bedarf der Genehmigung des Synodalrates. Dieser prüft ihn auf seine Rechtmässigkeit. Die Genehmigung ist Voraussetzung für das Inkrafttreten des Vertrags.
 
+**23**
+
+- 1\. 4. 26 - 132
+
 [^h2AbschnittÄnderu-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 ### 5. Teil: Aufsicht und Rechtsschutz
@@ -1121,10 +1140,6 @@ Die Kirchenpflege bestellt aus ihrer Mitte die Verantwortlichen für die einzeln
 **Visitationen**
 
 <sup>1</sup> Die Aufsichtskommission über Kirchgemeinden und Zweckverbände nimmt alle zwei Jahre Visitationen bei Kirchgemeinden und Zweckverbänden vor. Ausserordentliche Visitationen bei Missständen bleiben vorbehalten.
-
-**23**
-
-- 1\. 1. 24 - 123
 
 <sup>2</sup> Sie prüft insbesondere a. die Archive, Protokolle, Register und Verzeichnisse,
 
@@ -1194,15 +1209,15 @@ Die Aufsichtskommission über Kirchgemeinden und Zweckverbände greift ein, wenn
 
 <sup>6</sup> Gegen die neue Beurteilung kann Rekurs erhoben werden.
 
+**25**
+
+- 1\. 4. 26 - 132 § 73. Gestützt auf dieses Reglement ergangene Akte können nach Massgabe von Art. 47 KO[^72-1] mit Rekurs bei der Rekurskommission angefochten werden. Vorbehalten bleibt die Zuständigkeit des Synodalrates nach Art. 41 KO[^72-1].
+
 [^72-1]: LS 182.10.
 
-#### § 73
+#### § 74
 
 **Rekurs an die Rekurskommission**
-
-Gestützt auf dieses Reglement ergangene Akte können nach Massgabe von Art. 47 KO[^72-1] mit Rekurs bei der Rekurskommission angefochten werden. Vorbehalten bleibt die Zuständigkeit des Synodalrates nach Art. 41 KO[^72-1].
-
-#### § 74
 
 **Rekursberechtigung und -gründe**
 
@@ -1213,10 +1228,6 @@ Gestützt auf dieses Reglement ergangene Akte können nach Massgabe von Art. 47 
 - b. die Verletzung von Garantien rügen, die ihnen die Kantons-[^74-1] oder Bundesverfassung[^74-2] gewährt,
 
 - c. bei der Erfüllung von gesetzlichen Aufgaben in ihren schutzwürdigen Interessen anderweitig verletzt sind, insbesondere bei einem wesentlichen Eingriff in ihr Finanz- oder Verwaltungsvermögen.
-
-**25**
-
-- 1\. 1. 24 - 123
 
 <sup>3</sup> In Stimmrechtssachen steht der Rekurs jeder Person zu, die in der betreffenden Angelegenheit stimmberechtigt ist. Wird beanstandet, im Rahmen einer Kirchgemeindeversammlung seien Vorschriften über die politischen Rechte verletzt worden, so kann nur eine Person, die an der Versammlung teilgenommen hat und dort die Verletzung gerügt hat, Rekurs erheben.
 
@@ -1271,4 +1282,4 @@ Dieses Reglement tritt nach Ablauf der Referendumsfrist durch Beschluss des Syno
 ## Weitere Fussnoten
 
 - [5] LS 161.1.
-- [14] Aufgehoben durch B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 27
+- [14] Aufgehoben durch B vom 1. Dezember 2022 (OS 78, 442; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
