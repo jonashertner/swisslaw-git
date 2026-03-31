@@ -4,13 +4,12 @@ number: "901"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2024-09-23
-valid_until: 2026-03-31
-version_adopted: 2024-04-11
+version: 2026-04-01
+version_adopted: 2026-01-15
 adopted: 2008-02-21
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/901"
-pdf: "https://bl.clex.ch/api/de/versions/4013/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4013/pdf_file"
 
 (GesG)
 
-Vom 21.02.2008 (Stand 23.09.2024)
+Vom 21.02.2008 (Stand 01.04.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -791,6 +790,28 @@ beschliesst:[^ingress-2]
 - b. Entwicklung und Bereitstellung von Angeboten, Aktionsprogrammen und Projekten in Zusammenarbeit mit den entsprechenden Zielgruppen;
 - c. Bereitstellung von niederschwelligen Angeboten der Kinder-, Jugend- und Elternhilfe;
 - d. Koordination und Vernetzung der Aktivitäten im Bereich Gesundheitsförderung und Prävention im Kanton.
+
+#### § 58a
+
+**Krebsregister**
+
+<sup>1</sup> Zur Erhöhung der Kenntnisse über Krebserkrankungen in der Bevölkerung führt der Kanton vorbehältlich bundesrechtlicher Bewilligungen ein Krebsregister. Er strebt eine kantonsübergreifende Trägerschaft an. Der Regierungsrat kann entsprechende Verträge mit anderen Kantonen abschliessen.
+
+<sup>2</sup> Das Krebsregister gibt den Früherkennungsprogrammen auf Anfrage folgende für die Qualitätssicherung erforderlichen Daten über die in der Zeitspanne zwischen 2 Screening-Zeitpunkten erkrankten Personen bekannt:
+
+- a. amtlicher Name und Vornamen;
+- b. Versichertennummer nach Art. 50c des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^58a-1];
+- c. Wohnadresse;
+- d. Geburtsdatum;
+- e. Geschlecht;
+- f. diagnostische Daten zur Krebserkrankung;
+- g. Daten zur Erstbehandlung.
+
+<sup>3</sup> Die Bekanntgabe der Daten gemäss Abs. 2 setzt voraus, dass die betroffene Person am Früherkennungsprogramm teilgenommen und eine Bekanntgabe nicht ausdrücklich verweigert hat.
+
+<sup>4</sup> Die Bekanntgabe der Daten gemäss Abs. 3 setzt voraus, dass die erforderlichen Daten aus dem Krebsregister nur mit Betreibern von Screeningprogrammen geteilt werden dürfen, die nachweislich über ein geprüftes, gesichertes Datenschutzkonzept verfügen.
+
+[^58a-1]: [SR 831.10](https://db.clex.ch/link/Bund/831.10/de)
 
 #### § 59
 
