@@ -3,11 +3,10 @@ canton: ZH
 number: "182.41"
 title: Anstellungsordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2023-10-01"
-nachtrag: "123"
-valid_until: 2026-04-01
+version: "2026-04-01"
+nachtrag: "132"
 adopted: 2007-03-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_41-2007_03_22-2008_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_41-2007_03_22-2008_01_01-132.html"
 text: pdf
 ---
 
@@ -15,11 +14,9 @@ text: pdf
 
 # Anstellungsordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 
-(vom 22. März 2007)[^t-1]
+(vom 22. März 2007)<sup>1</sup>
 
 Die Synode der Römisch-katholischen Körperschaft des Kantons Zürich beschliesst:
-
-[^t-1]: OS 69, 76.
 
 ### Präambel
 
@@ -45,26 +42,23 @@ Die staatskirchenrechtlichen und innerkirchlichen Organe entscheiden und handeln
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 4. 26 - 132
 
 - 1\. Allgemeine Bestimmungen
 
 **Geltungsbereich**
 
-§ 1. <sup>1</sup> Die Anstellungsordnung regelt verbindlich das Arbeitsverhältnis der voll- und teilzeitlichen Angestellten, (…) eingeschlossen die gemäss dem Reglement über die Neuwahl von Pfarrern[^hPräambel-1] von der Kirchgemeinde gewählten Pfarrer, Diakone mit Gemeindeleitungsfunktion und Pfarreibeauftragten.<sup>8</sup>
+§ 1. <sup>1</sup> Die Anstellungsordnung regelt verbindlich das Arbeitsverhältnis der voll- und teilzeitlichen Angestellten, die befristet oder unbefristet im Dienste der Körperschaft, einer Kirchgemeinde oder eines Zweckverbandes stehen, eingeschlossen die gemäss dem Reglement über die Neuwahl von Pfarrern<sup>3</sup> von der Kirchgemeinde gewählten Pfarrer, Diakone mit Gemeindeleitungsfunktion und Pfarreibeauftragten.<sup>8</sup>
 
 <sup>2</sup> Weitere kirchliche Institutionen können mit Zustimmung des Synodalrates diese Anstellungsordnung für ihre Angestellten als verbindlich erklären.
 
 <sup>3</sup> Die Mitglieder von Behörden und Personen, die Freiwilligenarbeit leisten, sind der Anstellungsordnung nicht unterstellt.
 
-[^hPräambel-1]: LS 182.22.
-[^hPräambel-2]: SR 220.
-
 #### § 2
 
 **Ergänzendes Recht**
 
-Enthalten diese Verordnung und die zugehörigen Vollzugsverordnungen keine auf den Einzelfall anwendbare Regelung, gelten sinngemäss die Bestimmungen des Obligationenrechts[^hPräambel-2].
+Enthalten diese Verordnung und die zugehörigen Vollzugsverordnungen keine auf den Einzelfall anwendbare Regelung, gelten sinngemäss die Bestimmungen des Obligationenrechts<sup>4</sup>.
 
 **Berufsbezogene Bestimmungen**
 
@@ -74,15 +68,21 @@ Enthalten diese Verordnung und die zugehörigen Vollzugsverordnungen keine auf d
 
 <sup>3</sup> Die abweichenden Regelungen beschränken sich auf folgende Sachgebiete: Anstellung oder Wahl, Aufsicht, Lohn, Arbeitszeit.
 
-#### § 4
-
 **Anstellungsinstanz**
 
-<sup>1</sup> Anstellungsinstanzen sind der Synodalrat bzw. die Kirchenpflegen. Bei Institutionen und Zweckverbänden erfolgt die Anstellung durch die zuständige Trägerschaft nach deren Reglementen.
+§ 4.<sup>17</sup> <sup>1</sup> Anstellungsinstanzen sind der Synodalrat bzw. die Kirchenpflegen. Bei Institutionen und Zweckverbänden erfolgt die Anstellung durch die zuständige Trägerschaft nach deren Reglementen.
 
-<sup>2</sup> Der Synodalrat kann ihre Anstellungsbefugnisse der Generalsekretärin bzw. dem Generalsekretär oder den Kommissionen der Dienststellen übertragen.
+<sup>2</sup> Der Synodalrat kann seine Anstellungsbefugnisse der Generalsekretärin bzw. dem Generalsekretär oder den zuständigen Gremien der Dienststellen übertragen.
 
-<sup>3</sup> Priester und Diakone sowie Angestellte im Verkündigungsdienst werden im Einvernehmen mit der zuständigen kirchlichen Instanz angestellt.
+**Allgemeine Voraussetzungen einer Anstellung im Verkündigungsdienst**
+
+§ 4 a.<sup>16</sup> <sup>1</sup> Von den Angestellten im Verkündigungsdienst wird eine positive Grundhaltung und Offenheit gegenüber der Botschaft des Evangeliums und die Bereitschaft vorausgesetzt, den christlichen Charakter der Einrichtung zu achten und dazu beizutragen, ihn im eigenen Aufgabenfeld zur Geltung zu bringen.
+
+<sup>2</sup> Für die Anstellung im Verkündigungsdienst bleibt der Kernbereich der privaten Lebensgestaltung unbeachtet. Das Beziehungsleben, die sexuelle Orientierung und Lebensführung, insbesondere die Intimsphäre, bleiben rechtlichen Bewertungen entzogen und bilden kein Anstellungskriterium. Besondere kirchliche Voraussetzungen an Priester und Diakone sowie Ordensangehörige bleiben hiervon unberührt.
+
+<sup>3</sup> Priester und Diakone sowie weitere Angestellte im Verkündigungsdienst werden im Einvernehmen mit der zuständigen kirchlichen Instanz angestellt. Die Verantwortung für die Verkündigung liegt bei der zuständigen kirchlichen Instanz.
+
+<sup>4</sup> Für den Verkündigungsdienst können in der Regel nur Personen angestellt werden, die der römisch-katholischen Kirche angehören (staatskirchenrechtliche Mitgliedschaft).
 
 #### § 5
 
@@ -118,9 +118,11 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 <sup>3</sup> Arbeitsverhältnisse von privatrechtlichen Arbeitgebern werden durch Vertrag begründet.
 
-**Privatauszug aus dem Strafregister und Sonderprivatauszug**
+**3**
 
-§ 8 a.<sup>9</sup> <sup>1</sup> Die Anstellung erfolgt unter der Voraussetzung, dass die Bewerberinnen und Bewerber der Anstellungsinstanz einen Privatauszug aus dem Strafregister einreichen.
+- 1\. 4. 26 - 132 § 8 a.<sup>9</sup> <sup>1</sup> Die Anstellung erfolgt unter der Voraussetzung, dass die Bewerberinnen und Bewerber der Anstellungsinstanz einen Privatauszug aus dem Strafregister einreichen.
+
+**Privatauszug aus dem Strafregister und Sonderprivatauszug**
 
 <sup>2</sup> Bei der Anstellung von Bewerberinnen und Bewerbern in seelsorgerlicher, erzieherischer oder betreuender Funktion ist zusätzlich zum Privatauszug aus dem Strafregister ein Sonderprivatauszug einzureichen.
 
@@ -134,11 +136,9 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 <sup>3</sup> Für die Auflösung bestehender Arbeitsverhältnisse bei einer Verurteilung wegen eines Verbrechens oder Vergehens gelten §§ 14 ff. sinngemäss.
 
-**3**
-
-- 1\. 1. 24 - 123 § 8 c.<sup>15</sup> <sup>1</sup> Die Angestellten sind dem Verhaltenskodex zum Umgang mit Macht im Bistum Chur zur Prävention von spirituellem Missbrauch und sexueller Ausbeutung verpflichtet.
-
 **Richtlinien zur strukturellen Prävention von Machtmissbrauch**
+
+§ 8 c.<sup>15</sup> <sup>1</sup> Die Angestellten sind dem Verhaltenskodex zum Umgang mit Macht im Bistum Chur zur Prävention von spirituellem Missbrauch und sexueller Ausbeutung verpflichtet.
 
 <sup>2</sup> Der Synodalrat erlässt ein Reglement zur Umsetzung des Verhaltenskodex.
 
@@ -198,7 +198,7 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 - d. Beendigung infolge Invalidität gemäss § 20,
 
-- e. vorzeitiger Altersrücktritt gemäss § 20 a,
+- e. vorzeitigen Altersrücktritt gemäss § 20 a,
 
 - f. Erreichen der Altersgrenze gemäss § 20 b Abs. 1 und 3,
 
@@ -208,13 +208,11 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 - i. Tod.
 
-<sup>2</sup> Der sachlich begründete Entzug der kirchlichen Ernennung oder der Missio canonica hat, sofern diese für die Anstellung erforderlich sind und vor dem Entzug eine Anhörung durch den Bischof oder seinen Personalverantwortlichen stattfand (rechtliches Gehör), zwingend die Kündigung des Arbeitsverhältnisses zur Folge.
-
-#### § 15
+<sup>2</sup> . . .<sup>18</sup>
 
 **Kündigungsfristen und Kündigungstermine**
 
-<sup>1</sup> Die Fristen für die Kündigung des Arbeitsverhältnisses nach Ablauf der Probezeit betragen:
+§ 15. <sup>1</sup> Die Fristen für die Kündigung des Arbeitsverhältnisses nach Ablauf der Probezeit betragen:
 
 - a. im ersten Dienstjahr einen Monat,
 
@@ -222,35 +220,57 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 - c. vom dritten Dienstjahr an drei Monate.
 
+**5**
+
+- 1\. 4. 26 - 132
+
 <sup>2</sup> Das Arbeitsverhältnis kann jeweils auf Ende eines Monats beendet werden.
 
 <sup>3</sup> Die Kündigungsfrist kann im gegenseitigen Einvernehmen verkürzt oder verlängert werden.
 
-#### § 16
+**Kündigungsvoraussetzungen und -verfahren**
 
-**Kündigungsschutz**
+§ 16.<sup>17</sup> <sup>1</sup> Die Kündigung durch die Anstellungsinstanz darf nicht missbräuchlich sein und setzt einen sachlich zureichenden Grund voraus. Der Tatbestand der missbräuchlichen Kündigung richtet sich nach den Bestimmungen des Obligationenrechts über die missbräuchliche Kündigung.
 
-<sup>1</sup> Die Kündigung wird durch die Anstellungsinstanz schriftlich und begründet mitgeteilt.
+<sup>2</sup> Erweist sich die Kündigung als missbräuchlich oder sachlich nicht gerechtfertigt und wird die oder der Angestellte nicht wieder eingestellt, bemisst sich die Entschädigung nach den Bestimmungen des Obligationenrechts über die missbräuchliche Kündigung.
 
-<sup>2</sup> Bei der Kündigung von Mitarbeitenden im Verkündigungsdienst ist die schriftliche Stellungnahme der kirchlichen Instanzen einzuholen.
+<sup>3</sup> Vor dem Erlass einer Kündigung ist die oder der Betroffene anzuhören (rechtliches Gehör).
 
-<sup>3</sup> Die Kündigung durch die Anstellungsinstanz darf nicht missbräuchlich sein und setzt einen sachlich zureichenden Grund voraus. Der Tatbestand der missbräuchlichen Kündigung richtet sich nach den Bestimmungen des Obligationenrechts[^16-1].
+<sup>4</sup> Die Kündigung wird durch die Anstellungsinstanz in einer schriftlichen, begründeten und mit einer Rechtsmittelbelehrung versehenen Verfügung mitgeteilt.
 
-<sup>4</sup> Erweist sich die Kündigung als missbräuchlich oder sachlich nicht gerechtfertigt und wird der oder die Angestellte nicht wieder eingestellt, so bemisst sich die Entschädigung nach den Bestimmungen des Obligationenrechts[^16-1] über die missbräuchliche Kündigung.
+**Besondere Kündigungsbestimmungen für Angestellte im Verkündigungsdienst**
 
-**5**
+§ 16 a.<sup>16</sup> <sup>1</sup> Die Anstellungsinstanz holt vor der Kündigung von Angestellten im Verkündigungsdienst die schriftliche Stellungnahme der zuständigen kirchlichen Instanz ein.
 
-- 1\. 1. 24 - 123
+<sup>2</sup> Das rechtliche Gehör wird bei Angestellten im Verkündigungsdienst von der Anstellungsinstanz oder bei gewählten Pfarrern und Pfarreibeauftragten vom Synodalrat zusammen mit der zuständigen kirchlichen Instanz wahrgenommen.
 
-<sup>5</sup> Vor dem Erlass einer Kündigung ist der oder die Betroffene anzuhören.
+<sup>3</sup> Die zuständige kirchliche Instanz kann der Anstellungsinstanz die Kündigung von Angestellten im Verkündigungsdienst beantragen. Dazu hat sie sachliche Kündigungsgründe gemäss § 16 b schriftlich darzulegen, insbesondere bei Verletzungen theologischer oder kirchenrechtlicher Vorgaben. Bei gewählten Pfarrern und Pfarreibeauftragten sind wichtige Gründe gemäss § 18 Abs. 4 darzulegen.
 
-[^16-1]: SR 220.
+<sup>4</sup> Wenn die Anstellungsinstanz oder bei gewählten Pfarrern und Pfarreibeauftragten der Synodalrat den Antrag auf Kündigung ablehnt, muss die Ablehnung begründet in einer beschwerdefähigen Verfügung mitgeteilt werden.
+
+<sup>5</sup> Bei Angestellten im Verkündigungsdienst führt der Austritt aus der Kirche (staatskirchenrechtlicher Austritt) in der Regel zur Beendigung des Anstellungsverhältnisses. Von einer Beendigung kann abgesehen werden, wenn Gründe des Einzelfalls dies als unangemessen erscheinen lassen.
+
+**Kündigungsgründe**
+
+§ 16 b.<sup>16</sup> <sup>1</sup> Sachlich zureichende Kündigungsgründe sind insbesondere:
+
+- a. mangelhalte Leistung oder unbefriedigendes Verhalten,
+
+- b. organisatorische oder wirtschaftliche Gründe,
+
+- c. langandauernde Arbeitsunfähigkeit wegen Krankheit oder Unfall.
+
+<sup>2</sup> Bezüglich des unbefriedigenden Verhaltens richten sich die sachlichen Kündigungsgründe in erster Linie auf das Verhalten im Dienst. Ausserdienstliches Verhalten ist rechtlich nur bedeutsam, wenn es öffentlich wahrnehmbar ist, grundlegende Werte der katholischen Kirche verletzt und dadurch deren Glaubwürdigkeit beeinträchtigt.
+
+<sup>3</sup> Für die Kündigung von Angestellten im Verkündigungsdienst bleibt der Kernbereich der privaten Lebensgestaltung unbeachtet. Das Beziehungsleben, die sexuelle Orientierung und Lebensführung, insbesondere die Intimsphäre, bleiben rechtlichen Bewertungen entzogen und bilden kein Kündigungskriterium. Besondere kirchliche Voraussetzungen an Priester und Diakone sowie Ordensangehörige bleiben hiervon unberührt.
+
+<sup>4</sup> Die Treuepflicht (Art. 321 a OR<sup>4</sup>) gilt nicht nur gegenüber der anstellenden Instanz, sondern auch gegenüber der römisch-katholischen Kirche insgesamt. Verletzungen der Treuepflicht können unter Wahrung des Verhältnismässigkeitsprinzips zu einer Kündigung des Arbeitsverhältnisses führen.
 
 #### § 17
 
 **Kündigung zur Unzeit**
 
-<sup>1</sup> Tatbestand und Rechtsfolgen der Kündigung zur Unzeit richten sich nach den Bestimmungen des Obligationenrechts[^16-1].
+<sup>1</sup> Tatbestand und Rechtsfolgen der Kündigung zur Unzeit richten sich nach den Bestimmungen des Obligationenrechts<sup>4</sup>.
 
 <sup>2</sup> Eine fortgesetzte Kündigungsfrist verlängert sich bis zum nächstfolgenden Monatsende.
 
@@ -262,11 +282,9 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 <sup>2</sup> Als wichtiger Grund gilt jeder Umstand, bei dessen Vorhandensein nach Treu und Glauben die Fortsetzung des Arbeitsverhältnisses nicht zumutbar ist.
 
-<sup>3</sup> Tatbestand und Rechtsfolgen der fristlosen Auflösung richten sich nach den Bestimmungen des Obligationenrechts[^18-1].
+<sup>3</sup> Tatbestand und Rechtsfolgen der fristlosen Auflösung richten sich nach den Bestimmungen des Obligationenrechts<sup>4</sup>.
 
 <sup>4</sup> Bei den Pfarrern ist der Synodalrat für die Auflösung aus wichtigen Gründen zuständig. Er nimmt dabei Rücksprache mit dem Generalvikar.
-
-[^18-1]: SR 220.
 
 #### § 19
 
@@ -274,9 +292,11 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 Das Arbeitsverhältnis kann mit schriftlicher Vereinbarung im gegenseitigen Einvernehmen abweichend von den Bestimmungen dieser Anstellungsordnung beendet werden.
 
-**Beendigung infolge Invalidität**
+**7**
 
-§ 20.<sup>13</sup> Der Synodalrat regelt das Verfahren bei Beendigung des Arbeitsverhältnisses infolge Invalidität.
+- 1\. 4. 26 - 132 § 20.<sup>13</sup> Der Synodalrat regelt das Verfahren bei Beendigung des Arbeitsverhältnisses infolge Invalidität.
+
+**Beendigung infolge Invalidität**
 
 **Vorzeitiger Altersrücktritt**
 
@@ -348,10 +368,6 @@ Der Jahreslohn wird nachschüssig in 13 gleichen Teilen ausbezahlt, 12 davon mon
 
 - 1\. Für jede Besoldungsklasse bestehen ein Minimum, ein erstes und ein zweites Maximum. Das erste Maximum beträgt 128% des Minimums, das zweite 146%.
 
-**7**
-
-- 1\. 1. 24 - 123
-
 - 2\. In jeder Klasse bestehen 16 Erfahrungsstufen von je 1,75% des Minimums bis zum ersten Maximum und 12 Leistungsstufen von je 1,5% des Minimums bis zum zweiten Maximum.
 
 - 3\. Dem Minimum der Besoldungsklassen sind zwei Anlaufstufen von je 1,75% des Minimums vorangestellt.
@@ -380,11 +396,11 @@ Der Synodalrat umschreibt, soweit erforderlich, die Richtpositionen und die Vora
 
 <sup>3</sup> Die Arbeitgeberin kann aufgrund der allgemeinen Finanzlage Stufenanstiege und Beförderungen aussetzen.
 
-#### § 30
+**9**
+
+- 1\. 4. 26 - 132 § 30. <sup>1</sup> Die Höhe des Lohnes und sämtlicher Zulagen richtet sich nach dem Grad der Beschäftigung.
 
 **Lohnberechnung bei Teilzeitverhältnissen**
-
-<sup>1</sup> Die Höhe des Lohnes und sämtlicher Zulagen richtet sich nach dem Grad der Beschäftigung.
 
 <sup>2</sup> Die Anstellungsinstanz kann Stundenlöhne festlegen, in denen Entschädigungen für Urlaub, Ferien oder Freitage und Ruhetage eingerechnet sind und separat ausgewiesen werden.
 
@@ -454,10 +470,6 @@ Die Anstellungsinstanz kann besondere Leistungen mit einer einmaligen Zulage ode
 
 <sup>2</sup> Auf besonderes Verlangen der Angestellten hat sich das Zeugnis auf Angaben über die Art und Dauer des Arbeitsverhältnisses zu beschränken.
 
-**9**
-
-- 1\. 1. 24 - 123
-
 ### 3.2 Pflichten
 
 #### § 39
@@ -477,6 +489,10 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Anliegen der Menschen
 **Seelsorgegeheimis**
 
 § 40 a.<sup>10</sup> <sup>1</sup> Das Seelsorgegeheimnis umfasst die Verschwiegenheitspflicht bei Geheimnissen, die Seelsorgerinnen und Seelsorgern und ihren Hilfspersonen aufgrund ihres Berufs anvertraut worden sind. Eine Offenlegung ist nur bei ausdrücklicher Entbindung gestattet.
+
+**11**
+
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Eine Entbindung vom Seelsorgegeheimnis ist nur mit Bewilligung der anvertrauenden Person oder eines vom Synodalrat und vom Generalvikar bezeichneten Gremiums möglich.
 
@@ -540,11 +556,11 @@ Der Synodalrat regelt die Modalitäten der vorgeschriebenen, erwünschten und fr
 
 <sup>2</sup> Für die Vortage von Karfreitag, Auffahrt und Weihnachten legt die Arbeitgeberin den Arbeitsschluss fest.
 
-**11**
-
-- 1\. 1. 24 - 123 § 47. <sup>1</sup> Den voll- und teilzeitbeschäftigten Angestellten steht im Kalenderjahr folgender Ferienanspruch zu:<sup>6</sup> bis und mit dem Kalenderjahr, in dem sie das 59. Altersjahr vollenden:
+#### § 47
 
 **Ferien**
+
+<sup>1</sup> Den voll- und teilzeitbeschäftigten Angestellten steht im Kalenderjahr folgender Ferienanspruch zu:<sup>6</sup> bis und mit dem Kalenderjahr, in dem sie das 59. Altersjahr vollenden:
 
 **5 Wochen**
 
@@ -567,6 +583,10 @@ Der Synodalrat regelt die Gewährung von bezahltem und unbezahltem Urlaub.
 **Mutterschaftsurlaub**
 
 <sup>1</sup> Die Angestellte hat Anspruch auf einen bezahlten Mutterschaftsurlaub von insgesamt 16 Wochen, der frühestens zwei Wochen vor dem ärztlich bestimmten Niederkunftstermin beginnt. Muss die Angestellte ihre Tätigkeit wegen schwangerschaftsbedingter Beschwerden früher niederlegen, werden die letzten zwei Wochen der Abwesenheit vor der Niederkunft an den Mutterschaftsurlaub angerechnet.
+
+**13**
+
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Im Übrigen gelten die Anspruchsvoraussetzungen der eidgenössischen Mutterschaftsentschädigung. Soweit die Arbeitgeberin Lohnzahlungen während des Mutterschaftsurlaubs erbringt, fallen ihr die Leistungen der staatlichen Mutterschaftsentschädigung zu.
 
@@ -600,13 +620,11 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 § 52. Die Angestellten werden im Rahmen der gesetzlichen Bestimmungen auf Kosten der Arbeitgeberin gegen Berufs- und Nichtberufsunfälle versichert. Die Arbeitgeberin übernimmt die Hälfte der Prämien für die Nichtberufsunfallversicherung.
 
-[^51-1]: SR 832.20.
-
 #### § 53
 
 **Lohnfortzahlung bei Krankheit und Unfall**
 
-<sup>1</sup> Dienstaussetzungen wegen Krankheit und Unfall im Sinne des Bundesgesetzes über die Unfallversicherung[^51-1] werden hinsichtlich der Lohnzahlung gleich behandelt.
+<sup>1</sup> Dienstaussetzungen wegen Krankheit und Unfall im Sinne des Bundesgesetzes über die Unfallversicherung<sup>5</sup> werden hinsichtlich der Lohnzahlung gleich behandelt.
 
 <sup>2</sup> Den Angestellten wird im ersten und zweiten Dienstjahr der Lohn unabhängig des Grades der Arbeitsverhinderung wie folgt ausgerichtet:
 
@@ -620,11 +638,11 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 § 53 a.<sup>7</sup> Übersteigt das ausbezahlte Taggeld den Betrag der Lohnfortzahlung gemäss § 53, so ist der oder dem Angestellten mindestens das volle Taggeld auszurichten.
 
-**13**
-
-- 1\. 1. 24 - 123 § 54. <sup>1</sup> Besteht nach Ablauf der Lohnfortzahlung gemäss § 53 begründete Aussicht, dass die oder der Angestellte in absehbarer Zeit wieder arbeitsfähig wird, oder ist die Wiederaufnahme der Arbeit oder die Auflösung des Arbeitsverhältnisses wegen Invalidität noch ungewiss, kann die Anstellungsinstanz die Weiterausrichtung von höchstens 75% des Lohnes bis zu einer gesamten Lohnfortzahlungsdauer von längstens zwei Jahren bewilligen.
+#### § 54
 
 **Weiterführung der Lohnfortzahlung**
+
+<sup>1</sup> Besteht nach Ablauf der Lohnfortzahlung gemäss § 53 begründete Aussicht, dass die oder der Angestellte in absehbarer Zeit wieder arbeitsfähig wird, oder ist die Wiederaufnahme der Arbeit oder die Auflösung des Arbeitsverhältnisses wegen Invalidität noch ungewiss, kann die Anstellungsinstanz die Weiterausrichtung von höchstens 75% des Lohnes bis zu einer gesamten Lohnfortzahlungsdauer von längstens zwei Jahren bewilligen.
 
 <sup>2</sup> Beim Entscheid ist den Umständen des einzelnen Falles, wie Versicherungsleistungen und Anzahl der Dienstjahre, angemessen Rechnung zu tragen. Taggelder der obligatorischen Unfallversicherung werden angerechnet.
 
@@ -637,6 +655,10 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 **Einschränkung der Lohnfortzahlung**
 
 <sup>1</sup> Tritt die Krankheit oder der Unfall während der Kündigungsfrist ein, endet die Lohnfortzahlungspflicht gleichzeitig mit dem Ende des Arbeitsverhältnisses.
+
+**15**
+
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Bei befristeten Anstellungsverhältnissen endet die Dauer der Lohnfortzahlung bei Arbeitsunfähigkeit infolge Krankheit oder Unfall mit dem Ende des Arbeitsverhältnisses.
 
@@ -700,11 +722,7 @@ Streitigkeiten aus privatrechtlichen Arbeitsverhältnissen entscheidet das Zivil
 
 **Rechtsmittel**
 
-§ 65.<sup>8</sup> Soweit diese Anstellungsordnung nichts Abweichendes regelt, richtet sich das Verfahren des Weiterzugs von personalrechtlichen Entscheiden durch das Personal nach dem Verwaltungsrechtspflegegesetz[^64-1].
-
-**15**
-
-- 1\. 1. 24 - 123
+§ 65.<sup>8</sup> Soweit diese Anstellungsordnung nichts Abweichendes regelt, richtet sich das Verfahren des Weiterzugs von personalrechtlichen Entscheiden durch das Personal nach dem Verwaltungsrechtspflegegesetz<sup>2</sup>.
 
 - 8\. Übergangs- und Schlussbestimmungen
 
@@ -713,8 +731,6 @@ Streitigkeiten aus privatrechtlichen Arbeitsverhältnissen entscheidet das Zivil
 § 66. <sup>1</sup> Für alle beim Inkrafttreten dieses Gesetzes bereits bestehenden Arbeitsverhältnisse gelten ab diesem Zeitpunkt die neue Anstellungsordnung und ihre Ausführungserlasse. Soweit bisherige Anstellungsverhältnisse mit der neuen Anstellungsordnung nicht übereinstimmen, gehen deren Bestimmungen vor.
 
 <sup>2</sup> Für Arbeitsverhältnisse, die beim Inkrafttreten des Personalgesetzes bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
-
-[^64-1]: LS 175.2.
 
 #### § 67
 
@@ -728,6 +744,10 @@ Für diejenigen Kirchgemeinden, welche die Anstellungsordnung bisher noch nicht 
 
 <sup>1</sup> Die in § 27 dieser Anstellungsordnung dem Synodalrat zuerkannte Kompetenz zum Erlass des Einreihungsplanes kann zur Neueinreihung von bestimmten Funktionen führen. Die erstmalige Überführung dieser Funktionen in die neuen Lohnklassen erfolgt mit dem Inkrafttreten des Einreihungsplanes. Die jeweiligen Erfahrungs- oder Leistungsstufen werden unter Vorbehalt von Abs. 2 unverändert übernommen.
 
+**17**
+
+- 1\. 4. 26 - 132
+
 <sup>2</sup> Angestellte, die aufgrund der Lage auf dem Arbeitsmarkt bei der Anstellung in die nach den nun aufgehobenen Bestimmungen richtige Lohnklasse, nicht aber in die gemäss den Einreihungsrichtlinien empfohlene Lohnstufe eingereiht wurden, können bei unveränderter Lohnhöhe zurückgestuft werden.
 
 <sup>3</sup> Im Jahr der Überführung in die neue Lohnklasse wird kein Stufenanstieg gewährt.
@@ -737,6 +757,16 @@ Für diejenigen Kirchgemeinden, welche die Anstellungsordnung bisher noch nicht 
 **Inkrafttreten**
 
 Diese Anstellungsordnung ersetzt jene vom 23. Mai 1996. Sie tritt am 1. Januar 2008 in Kraft.
+
+<sup>1</sup> OS 69, 76.
+
+<sup>2</sup> LS 175.2.
+
+<sup>3</sup> LS 182.22.
+
+<sup>4</sup> SR 220.
+
+<sup>5</sup> SR 832.20.
 
 <sup>6</sup> Fassung gemäss B vom 7. Dezember 2017 (OS 73, 163; ABl 2018-01-05). In Kraft seit 1. Januar 2019.
 
@@ -758,9 +788,11 @@ Diese Anstellungsordnung ersetzt jene vom 23. Mai 1996. Sie tritt am 1. Januar 2
 
 <sup>15</sup> Eingefügt durch B vom 22. Juni 2023 (OS 78, 421; ABl 2023-07-14). In Kraft seit 1. Oktober 2023.
 
-**17**
+<sup>16</sup> Eingefügt durch B vom 4. Dezember 2025 (OS 81, 82; ABl 2026-01-09). In Kraft seit 1. April 2026.
 
-- 1\. 1. 24 - 123
+<sup>17</sup> Fassung gemäss B vom 4. Dezember 2025 (OS 81, 82; ABl 2026-01-09). In Kraft seit 1. April 2026.
+
+<sup>18</sup> Aufgehoben durch B vom 4. Dezember 2025 (OS 81, 82; ABl 2026-01-09). In Kraft seit 1. April 2026.
 
 ### Anhang
 
@@ -773,3 +805,7 @@ Besoldungsklasse Minimum (AS 1) 1. Maximum (ES 16) 2. Maximum (LS 12)
 **67 605 68 482 69 603 70 988 72 664 74 657 76 998 79 718 82 842 86 404 90 437 94 975 100 051 105 697 111 951 118 846 126 427 134 724 142 605 152 454 163 138 173 525 186 003 199 438 213 877**
 
 1 44 684 59 270 2 45 263 60 039 3 46 005 61 022 4 46 920 62 235 5 48 027 63 705 6 49 346 65 453 7 50 892 67 505 8 52 689 69 890 9 54 756 72 630 10 57 110 75 749 11 59 775 79 289 12 62 774 83 265 13 66 129 87 714 14 69 861 92 665 15 73 995 98 148 16 78 553 104 195 17 83 565 110 839 18 89 046 118 113 19 94 255 125 021 20 100 767 133 659 21 107 826 143 023 22 114 693 152 131 23 122 941 163 071 24 131 822 174 851 25 141 363 187 509
+
+**19**
+
+- 1\. 4. 26 - 132
