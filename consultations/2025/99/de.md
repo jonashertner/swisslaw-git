@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision des Fernmeldegesetzes (FMG) im Bereich Mobilfunk
 document: Vernehmlassungsvorlage
 language: de
