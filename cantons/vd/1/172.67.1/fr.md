@@ -4,7 +4,7 @@ number: "172.67.1"
 title: "RÈGLEMENT du 07.10.2020 d'application de la loi du 6 novembre 2018 sur les moyens d'identification électronique et le portail sécurisé des prestations en ligne de l'Etat (RLCyber)"
 short: RLCyber
 language: fr
-version: 2020-12-01
+version: 2026-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.67.1?id=ea555a48-8342-4036-9f8a-4e25267057b3"
 ---
 
@@ -38,13 +38,23 @@ arrête
 
 <sup>1</sup> Le département en charge des systèmes d'information (ci-après : le département)[^2-1] exécute le présent règlement. Il peut déléguer ses compétences et ses tâches au service en charge des systèmes d'information (ci-après : le service)[^2-2].
 
-<sup>2</sup> Les préfectures ainsi que toute entité désignée par décision du Conseil d'Etat concourent à la réalisation de la procédure de délivrance du moyen d'identification électronique délivré par l'Etat (ci-après : MIE) et d'accès au portail sécurisé.
+<sup>2</sup> Toute entité publique ou concessionnée désignée par décision du Conseil d'Etat concourt à la réalisation de la procédure de délivrance du moyen d'identification électronique délivré par l'Etat (ci-après : MIE) et d'accès au portail sécurisé.
 
 <sup>3</sup> Le département établit des directives concernant les exigences minimales de sécurité, de formation et de protection de données personnelles applicables à la procédure de délivrance d'un MIE et d'accès au portail sécurisé.
 
-[^1-2]: Modif. 1 du 25.03.2026: Modification Al. 2; entrée en vigueur au 01.04.2026; Introduction Art. 2a; entrée en vigueur au 01.04.2026; Introduction Art. 5, Al. 5; entrée en vigueur au 01.04.2026; Introduction Art. 11, Al. 3; entrée en vigueur au 01.04.2026; Introduction Art. 14, Al. 3; entrée en vigueur au 01.04.2026
+[^1-2]: Modif. 1 du 25.03.2026: Modification Al. 2; entrée en vigueur au 01.04.2026
 [^2-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^2-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+
+#### Art. 2a
+
+**Reconnaissance de fournisseurs publics ou concessionnés (art. 8 LCyber) [^2-3]**
+
+<sup>1</sup> Le Conseil d'Etat reconnaît par décision les moyens d'identification électronique délivrés par d'autres fournisseurs publics ou concessionnés.
+
+<sup>2</sup> Cette décision liste les fournisseurs publics ou concessionnés de moyens d'identification électronique reconnus.
+
+[^2-3]: Modif. 1 du 25.03.2026: Introduction Art. 2a; entrée en vigueur au 01.04.2026
 
 ## Chapitre II Conditions et procédure d'obtention d'un MIE
 
@@ -56,23 +66,23 @@ arrête
 
 - a. est détentrice d'un numéro AVS ;
 - b. dispose d'une adresse de courrier électronique personnelle, et ;
-- c. dispose d'un numéro de téléphone portable personnel.
+- c. dispose d'un moyen d'identification au sens de l'art. 2a ou d'un numéro de téléphone portable personnel.
 
-[^chapterChapitreII-1]: Modif. 1 du 25.03.2026: Introduction Art. 2a; entrée en vigueur au 01.04.2026; Modification Al. 1, c; entrée en vigueur au 01.04.2026; Introduction Art. 5, Al. 5; entrée en vigueur au 01.04.2026; Introduction Art. 11, Al. 3; entrée en vigueur au 01.04.2026; Introduction Art. 14, Al. 3; entrée en vigueur au 01.04.2026
+[^chapterChapitreII-1]: Modif. 1 du 25.03.2026: Modification Al. 1, c; entrée en vigueur au 01.04.2026
 
 #### Art. 4
 
 **Demande en ligne (art. 8 et 11 LCyber) [^3-1]**
 
-<sup>1</sup> La demande d'un MIE est déposée au moyen d'un formulaire électronique.
+<sup>1</sup> La demande d'un MIE est initiée auprès du service à la première connexion au portail sécurisé via un moyen d'identification au sens de l'art. 2a ou d'un formulaire électronique.
 
-<sup>2</sup> Le demandeur y indique son numéro AVS, sa date de naissance, son adresse de courrier électronique personnelle et son numéro de téléphone portable personnel.
+<sup>2</sup> Une fois la demande initiée, le demandeur reçoit une requête de validation de sa demande du service. Lors de cette validation, le demandeur indique, en fonction des données requises pour le moyen d'identification utilisé, son numéro AVS, sa date de naissance, son adresse de courrier électronique personnelle et son numéro de téléphone portable personnel.
 
-<sup>3</sup> A réception de la demande, le département délivre un code personnel et secret à l'adresse de courrier électronique indiquée par le demandeur, valable 90 jours.
+<sup>3</sup> A réception de la demande au moyen d'un formulaire électronique, le département délivre un code personnel et secret à l'adresse de courrier électronique indiquée par le demandeur, valable 90 jours.
 
 <sup>4</sup> La demande vaut en outre demande d'accès au portail sécurisé à titre personnel.
 
-[^3-1]: Modif. 1 du 25.03.2026: Introduction Art. 2a; entrée en vigueur au 01.04.2026; Modification Al. 1-3; entrée en vigueur au 01.04.2026; Introduction Art. 5, Al. 5; entrée en vigueur au 01.04.2026; Introduction Art. 11, Al. 3; entrée en vigueur au 01.04.2026; Introduction Art. 14, Al. 3; entrée en vigueur au 01.04.2026
+[^3-1]: Modif. 1 du 25.03.2026: Modification Al. 1-3; entrée en vigueur au 01.04.2026
 
 #### Art. 5
 
@@ -89,7 +99,9 @@ arrête
 
 <sup>4</sup> L'accord du représentant légal est nécessaire pour les personnes qui n'ont pas l'exercice des droits civils.
 
-[^4-1]: Modif. 1 du 25.03.2026: Introduction Art. 2a; entrée en vigueur au 01.04.2026; Introduction Al. 5; entrée en vigueur au 01.04.2026; Introduction Art. 11, Al. 3; entrée en vigueur au 01.04.2026; Introduction Art. 14, Al. 3; entrée en vigueur au 01.04.2026
+<sup>5</sup> Le service règle les modalités de vérification de l'accord du représentant légal dans les conditions d'utilisation.
+
+[^4-1]: Modif. 1 du 25.03.2026: Introduction Al. 5; entrée en vigueur au 01.04.2026
 [^5-1]: Loi fédérale du 16.12.2005 sur les étrangers et l'intégration (RS 142.20)
 
 #### Art. 6
@@ -158,7 +170,9 @@ arrête
 
 <sup>2</sup> Si le titulaire du MIE dispose d'un accès à plusieurs comptes usager, il indique à chaque connexion à quel compte il souhaite accéder. L'authentification effectuée lors d'une connexion au portail sécurisé permet d'accéder à un seul compte à la fois.
 
-[^chapterChapitreIV-1]: Modif. 1 du 25.03.2026: Introduction Art. 2a; entrée en vigueur au 01.04.2026; Introduction Art. 5, Al. 5; entrée en vigueur au 01.04.2026; Introduction Al. 3; entrée en vigueur au 01.04.2026; Introduction Art. 14, Al. 3; entrée en vigueur au 01.04.2026
+<sup>3</sup> Après 30 mois sans connexion au portail sécurisé, l'usager est avisé que son compte sera désactivé dans un délai de 6 mois. En l'absence de nouvelle connexion du titulaire dans ce délai, le compte est désactivé.
+
+[^chapterChapitreIV-1]: Modif. 1 du 25.03.2026: Introduction Al. 3; entrée en vigueur au 01.04.2026
 
 #### Art. 12
 
@@ -190,9 +204,11 @@ arrête
 
 <sup>1</sup> L'entité disposant d'un IDE peut en tout temps demander un changement de référent. Elle adresse sa demande au département, par voie électronique. Le département définit les documents permettant d'attester des pouvoirs de représentation du référent.
 
-<sup>2</sup> Le département procède au changement de référent une fois les pouvoirs de représentation validés par les autorités compétentes au sens de l'article 2.
+<sup>2</sup> L'entité disposant d'un IDE précise dans sa demande si le référent inscrit précédemment doit conserver ou non son accès au compte de l'entité IDE.
 
-[^13-1]: Modif. 1 du 25.03.2026: Introduction Art. 2a; entrée en vigueur au 01.04.2026; Introduction Art. 5, Al. 5; entrée en vigueur au 01.04.2026; Introduction Art. 11, Al. 3; entrée en vigueur au 01.04.2026; Modification Al. 2; entrée en vigueur au 01.04.2026; Introduction Al. 3; entrée en vigueur au 01.04.2026
+<sup>3</sup> Le département procède au changement de référent une fois les pouvoirs de représentation validés par les autorités compétentes au sens de l'article 2.
+
+[^13-1]: Modif. 1 du 25.03.2026: Modification Al. 2; entrée en vigueur au 01.04.2026; Introduction Al. 3; entrée en vigueur au 01.04.2026
 
 #### Art. 15
 
