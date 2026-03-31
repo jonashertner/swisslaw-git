@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.07"
 title: "Steuerverordnung Nr. 7: Auskünfte aus Steuerakten und Herausgabe von Steuerakten an Verwaltungsbehörden und Gerichte"
 language: de
-version: 2025-05-01
-valid_until: 2026-03-31
-version_adopted: 2025-04-22
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1986-07-01
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.07"
-pdf: "https://bgs.so.ch/api/de/versions/5546/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 7: Auskünfte aus Steuerakten und Herausgabe von Steuerakten an Verwaltungsbehörden und Gerichte
 
-Vom 01.07.1986 (Stand 01.05.2025)
+Vom 01.07.1986 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -64,7 +63,7 @@ beschliesst:
 
 <sup>1</sup> Anderen schweizerischen Verwaltungsbehörden können Auskünfte aus Steuerakten erteilt werden, soweit sich der Steuerpflichtige oder sein mit ihm in ungetrennter Ehe lebender Ehegatte schriftlich damit einverstanden erklärt hat. Unter der gleichen Bedingung kann solchen Behörden auch Einsicht in Steuerakten gewährt werden, und es dürfen ihnen Steuerakten herausgegeben werden. Vorbehalten ist § 5.
 
-<sup>2</sup> Originalakten dürfen nur mit Bewilligung des Finanzdepartementes[^4-1] herausgegeben werden; in der Regel sind Kopien zu erstellen. Auf Antrag bestätigt die Veranlagungsbehörde, dass die Kopie mit dem Original übereinstimmt.
+<sup>2</sup> Originalakten dürfen nur mit Bewilligung des Finanzdepartementes[^4-1] herausgegeben werden; in der Regel sind Kopien zu erstellen. Auf Antrag bestätigt das Kantonale Steueramt, dass die Kopie mit dem Original übereinstimmt.
 
 [^4-1]: Im ganzen Erlass neue Departementsbezeichnung ab 1. August 2000.
 
