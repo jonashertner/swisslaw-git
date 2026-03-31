@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Sicherheitspolitische Strategie der Schweiz 2026
 document: Vernehmlassungsvorlage
 language: de

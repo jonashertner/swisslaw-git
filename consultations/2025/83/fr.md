@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Stratégie en matière de politique de sécurité de la Suisse 2026
 document: Projet mis en consultation
 language: fr
