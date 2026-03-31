@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.04"
 title: "Steuerverordnung Nr. 4: Organisation des kantonalen Steuerwesens für die Veranlagung der Nebensteuern (Handänderungssteuer, Nachlasstaxe, Erbschafts- und Schenkungssteuer)"
 language: de
-version: 2016-01-01
-valid_until: 2026-03-31
-version_adopted: 2015-08-31
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1986-12-23
 in_force: 1987-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.04"
-pdf: "https://bgs.so.ch/api/de/versions/4433/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5635/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 4: Organisation des kantonalen Steuerwesens für die Veranlagung der Nebensteuern (Handänderungssteuer, Nachlasstaxe, Erbschafts- und Schenkungssteuer)
 
-Vom 23.12.1986 (Stand 01.01.2016)
+Vom 23.12.1986 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -32,7 +31,7 @@ beschliesst:
 
 <sup>1</sup> Die Amtschreibereien melden nach Anordnung des Kantonalen Steueramtes fortlaufend die ihnen zur Kenntnis gelangten Rechtsgeschäfte, die Nebensteuern begründen.
 
-<sup>2</sup> Die Veranlagungsbehörden erstellen entsprechende Meldungen nach Weisung des Kantonalen Steueramtes.
+<sup>2</sup> …
 
 #### § 2
 
