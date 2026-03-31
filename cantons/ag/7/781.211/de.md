@@ -4,13 +4,13 @@ number: "781.211"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern
 short: V EG UWR
 language: de
-version: 2026-03-01
-valid_until: 2026-03-31
-version_adopted: 2026-01-21
+version: 2026-04-01
+valid_until: 2026-08-29
+version_adopted: 2026-03-18
 adopted: 2008-05-14
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/781.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3927/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3933/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3927/pdf_file"
 
 (V EG UWR)
 
-Vom 14.05.2008 (Stand 01.03.2026)
+Vom 14.05.2008 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -830,6 +830,14 @@ beschliesst:
 - b) §§ 44c Abs. 1, 53a Abs. 2 oder 53a Abs. 3; die Sanierungsfrist beträgt höchstens 10 Jahre.
 
 <sup>2</sup> Für Anlagen, die mit dem Inkrafttreten dieser Änderung gegen § 44b Abs. 1 verstossen und zusätzlich Emissionsgrenzwerte für Feststoffe gemäss Anhang 3 Ziff. 522 Abs. 1 LRV verletzen, beträgt die Sanierungsfrist höchstens 5 Jahre.
+
+#### § 67b
+
+**Übergangsbestimmung zum Bauen in lärmbelasteten Gebieten**
+
+<sup>1</sup> Baubewilligungen für Neubauten und wesentliche Änderungen von Gebäuden mit lärmempfindlichen Räumen bedürfen der Zustimmung des Departements Bau, Verkehr und Umwelt, wenn die Immissionsgrenzwerte überschritten werden.
+
+<sup>2</sup> § 67b gilt gestützt auf § 91 Abs. 2<sup>bis</sup> lit. b der Kantonsverfassung für die Dauer von längstens zwei Jahren ab Inkrafttreten.
 
 #### § 68
 
