@@ -4,11 +4,11 @@ title: Ordinanza del 29 giugno 2022 sulla cooperazione internazionale per la sic
 short: OCISC
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/461"
 language: it
-version: 2022-09-01
+version: 2026-04-01
 adopted: 2022-06-29
 in_force: 2022-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2022-461-20220901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2022-461-20260401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20220901/it"
 
 (OCISC)
 
-del 29 giugno 2022 (Stato 1° settembre 2022)
+del 29 giugno 2022 (Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 2 capoverso 2, 92, 92*a*, 113 e 130 della legge del 18 marzo 
 
 ordina:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-3]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Sezione 1: Disposizioni generali
 
@@ -42,17 +42,18 @@ La presente ordinanza disciplina:
 - a. le modalità della cooperazione operativa tra l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) e l’Agenzia europea della guardia di frontiera e costiera (Agenzia) nonché gli altri Stati Schengen ai sensi del regolamento (UE) 2019/1896[^1-1];
 - b. l’impiego di collaboratori dell’UDSC all’estero nel quadro della cooperazione con l’Agenzia;
 - c. l’impiego di personale estero in Svizzera nel quadro della cooperazione con l’Agenzia;
-- d. l’impiego di consulenti in materia di documenti.
+- d.[^1-2] l’impiego all’estero di consulenti in materia di documenti.
 
-<sup>2</sup> Per quanto attiene ai collaboratori dell’UDSC di cui al capoverso 1 lettera b, essa disciplina le modalità dell’impiego all’estero nella misura in cui la competenza in materia non spetti allo Stato ospitante o all’Agenzia, nonché le particolarità del rapporto di lavoro in deroga all’ordinanza del 3 luglio 2001[^1-2] sul personale federale (OPers).
+<sup>2</sup> Per quanto attiene ai collaboratori dell’UDSC di cui al capoverso 1 lettera b, essa disciplina le modalità dell’impiego all’estero nella misura in cui la competenza in materia non spetti allo Stato ospitante o all’Agenzia, nonché le particolarità del rapporto di lavoro in deroga all’ordinanza del 3 luglio 2001[^1-3] sul personale federale (OPers).
 
 <sup>3</sup> Per quanto attiene al personale estero di cui al capoverso 1 lettera c, la presente ordinanza disciplina gli impieghi in Svizzera.
 
-<sup>4</sup> La collaborazione nel quadro di interventi internazionali di rimpatrio è retta dagli articoli 15*b*–15*e*<sup>quinquies</sup> dell’ordinanza dell’11 agosto 1999[^1-3] concernente l’esecuzione dell’allontanamento e dell’espulsione di stranieri.
+<sup>4</sup> La collaborazione nel quadro di interventi internazionali di rimpatrio è retta dagli articoli 15*b*–15*e*<sup>quinquies</sup> dell’ordinanza dell’11 agosto 1999[^1-4] concernente l’esecuzione dell’allontanamento e dell’espulsione di stranieri.
 
 [^1-1]: Regolamento (UE) 2019/1896 del Parlamento europeo e del Consiglio, del 13 novembre 2019, relativo alla guardia di frontiera e costiera europea e che abroga i regolamenti (UE) n. 1052/2013 e (UE) 2016/1624, versione della GU L 295 del 14.11.2019, pag. 1.
-[^1-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^1-3]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^1-3]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^1-4]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 
 #### Art. 2
 
@@ -61,7 +62,12 @@ La presente ordinanza disciplina:
 Nella presente ordinanza s’intende per:
 
 - a. *personale estero:* i collaboratori delle autorità estere che partecipano in Svizzera, unitamente al personale svizzero, a impieghi alle frontiere esterne dello spazio Schengen, così come il personale dell’Agenzia;
-- b. *consulenti in materia di documenti:* i collaboratori dell’UDSC che assistono in particolare le autorità estere competenti per il controllo al confine, le imprese di trasporto aereo e le rappresentanze all’estero nel controllo dei documenti.
+- b. *consulenti in materia di documenti:* i collaboratori dell’UDSC che assistono in particolare le autorità estere competenti per il controllo al confine, le imprese di trasporto aereo e le rappresentanze all’estero nel controllo dei documenti;
+- c.[^2-1] *impieghi a favore dell’Agenzia:* le attività nel quadro delle quali i collaboratori dell’UDSC svolgono compiti operativi o amministrativi direttamente per l’Agenzia all’estero;
+- d.[^2-2] *giorni d’impiego:* i giorni che i collaboratori dell’UDSC impiegati passano effettivamente in loco all’estero, compresi il viaggio di andata e di ritorno; i giorni di vacanza non sono considerati giorni d’impiego.
+
+[^2-1]: Introdotta dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^2-2]: Introdotta dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 
 ## Sezione 2: Compiti dell’UDSC e scambio di dati
 
@@ -166,9 +172,9 @@ Per quanto riguarda le disposizioni operative d’impiego e di servizio, l’UDS
 
 <sup>3</sup> Per gli impieghi fino a due anni (distaccamenti a lungo termine) è possibile stabilire disposizioni in deroga agli articoli 8–20.
 
-[^8-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^8-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
-[^8-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^8-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^8-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
+[^8-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 #### Art. 9
 
@@ -186,10 +192,10 @@ Per quanto riguarda le disposizioni operative d’impiego e di servizio, l’UDS
 
 <sup>6</sup> Se ai collaboratori dell’UDSC vengono contestate violazioni delle regole d’impiego, in particolare violazioni dei diritti fondamentali, l’UDSC può chiedere informazioni presso lo Stato estero o l’Agenzia sotto forma di un rapporto.
 
-[^9-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^9-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^9-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^9-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^9-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^9-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^9-3]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^9-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 10
 
@@ -201,17 +207,17 @@ Per quanto riguarda le disposizioni operative d’impiego e di servizio, l’UDS
 
 <sup>3</sup> L’impiego di armi all’estero è retto dal diritto dello Stato ospitante, nella misura in cui non preveda un impiego più ampio di quello previsto agli articoli 229–232 OD.
 
-[^10-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^10-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 11
 
-**Tempo di lavoro, tempo d’impiego, vacanze e giorni di libero**
+**Tempo di lavoro, vacanze e giorni di libero[^11-1]**
 
 <sup>1</sup> Il tempo di lavoro dipende dai requisiti posti dall’impiego e dalle direttive dell’Agenzia.
 
-<sup>2</sup> È considerato tempo d’impiego il tempo durante il quale i collaboratori non svolgono il regolare servizio presso l’UDSC. Ne fanno parte il tempo per il viaggio, la durata effettiva dell’impiego, i giorni di briefing, i giorni per preparare i bagagli nonché i giorni di libero supplementari secondo il capoverso 3.
+<sup>2</sup> *...*[^11-2]
 
-<sup>3</sup> Ogni impiego della durata di quattro settimane dà diritto a un giorno di libero. In tal modo si considerano compensati i giorni festivi del luogo d’impiego. Per i giorni festivi riconosciuti in tutta la Svizzera che cadono in un giorno feriale sono accordati giorni di libero supplementari. Sono fatte salve le direttive dell’Agenzia, così come disposizioni derogatorie per distaccamenti a lungo termine fino a due anni.
+<sup>3</sup> Ogni impiego della durata di quattro settimane a favore dell’Agenzia dà diritto a un giorno di libero. In tal modo si considerano compensati i giorni festivi del luogo d’impiego. Per i giorni festivi riconosciuti in tutta la Svizzera che cadono in un giorno feriale sono accordati giorni di libero supplementari. Sono fatte salve le direttive dell’Agenzia, così come disposizioni derogatorie per distaccamenti a lungo termine fino a due anni.[^11-3]
 
 <sup>4</sup> I giorni di libero che rientrano nel periodo d’impiego devono essere compensati e presi nel corso di tale periodo. I saldi dei giorni non compensati o non presi decadono alla fine dell’impiego e non vengono compensati con prestazioni in denaro o altre agevolazioni. In casi motivati l’UDSC può autorizzare deroghe.
 
@@ -221,9 +227,12 @@ Per quanto riguarda le disposizioni operative d’impiego e di servizio, l’UDS
 
 <sup>7</sup> Terminato l’impiego, non sussiste alcun diritto di compensazione del tempo di lavoro o a indennità per lavoro aggiuntivo, lavoro straordinario o lavoro domenicale e notturno.
 
-<sup>8</sup> Dalla limitazione dell’indennità sono escluse l’indennità di residenza secondo l’articolo 43 OPers[^11-1], l’indennità in funzione del mercato del lavoro secondo l’articolo 50 OPers e l’indennità di funzione secondo l’articolo 46 OPers.
+<sup>8</sup> Dalla limitazione dell’indennità sono escluse l’indennità di residenza secondo l’articolo 43 OPers[^11-4], l’indennità in funzione del mercato del lavoro secondo l’articolo 50 OPers e l’indennità di funzione secondo l’articolo 46 OPers.
 
-[^11-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-2]: Abrogato dalla cifra I dell’O del 25 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 12
 
@@ -237,7 +246,7 @@ Per quanto riguarda le disposizioni operative d’impiego e di servizio, l’UDS
 
 <sup>4</sup> I costi di viaggio non sono rimborsati quando è data la possibilità di viaggiare gratuitamente o se i costi sono assunti da terzi.
 
-[^12-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^12-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 13
 
@@ -247,19 +256,25 @@ Per quanto riguarda le disposizioni operative d’impiego e di servizio, l’UDS
 
 <sup>2</sup> L’UDSC può assumersi i costi di viaggio nei casi di cui all’articolo 40 capoverso 3 lettere a–e nonché g O-OPers. L’articolo 12 capoverso 3 della presente ordinanza si applica per analogia.
 
-[^13-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^13-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 14
 
 **Indennità d’impiego**
 
-<sup>1</sup> Per ogni impiego è corrisposta un’indennità d’impiego di 60 franchi al giorno, sempre che gli inconvenienti legati all’impiego non siano indennizzati in altro modo. Essa costituisce un indennizzo per le particolari condizioni d’impiego, come disponibilità permanente, privazioni ed elevati rischi, nonché una compensazione materiale per i costi supplementari direttamente connessi con l’impiego.
+<sup>1</sup> Per ogni giorno d’impiego effettuato è corrisposta un’indennità d’impiego di 60 franchi, sempre che gli inconvenienti legati all’impiego non siano indennizzati in altro modo. L’UDSC stabilisce quali spese sono coperte dall’indennità.[^14-1]
 
-<sup>2</sup> Con l’indennità d’impiego si considerano compensati i diritti derivanti, nell’ambito del regolare servizio dell’UDSC, dal lavoro domenicale, notturno, a squadre e dal servizio di picchetto. Non sussiste alcun diritto supplementare a compensazioni orarie.
+<sup>2</sup> L’indennità d’impiego costituisce un indennizzo per le particolari condizioni d’impiego, come disponibilità permanente, privazioni ed elevati rischi in loco, nonché una compensazione materiale per i costi supplementari direttamente connessi con l’impiego, come materiale di consumo necessario all’impiego, spese di trasporto private in loco o fabbisogno domestico.[^14-2]
+
+<sup>2bis</sup> Con l’indennità d’impiego si considerano compensati i diritti derivanti, nell’ambito del regolare servizio dell’UDSC, dal lavoro domenicale, notturno, a squadre e dal servizio di picchetto. Non sussiste alcun diritto supplementare a compensazioni orarie.[^14-3]
 
 <sup>3</sup> Il diritto all’indennità d’impiego sussiste per l’intera durata dell’impiego.
 
 <sup>4</sup> In caso di distaccamenti a lungo termine per l’Agenzia, l’indennità d’impiego è pagata direttamente da quest’ultima. In tal caso non sussiste alcun diritto a un’indennità d’impiego secondo il capoverso 1.
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^14-2]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^14-3]: Originario cpv. 2.
 
 #### Art. 15
 
@@ -267,13 +282,17 @@ Per quanto riguarda le disposizioni operative d’impiego e di servizio, l’UDS
 
 <sup>1</sup> Il rimborso dei pasti e dei pernottamenti si fonda, per analogia, sui rimborsi fissati all’articolo 67 O-OPers–DFAE[^15-1].
 
-<sup>2</sup> L’UDSC può versare un’indennità giornaliera per i pasti corrispondente ai costi abituali locali. Se differisce dai costi effettivi, tale indennità può essere adeguata dopo 60 giorni d’impiego.
+<sup>2</sup> L’UDSC può versare, durante quattro mesi, un’indennità giornaliera per i pasti corrispondente ai costi abituali locali. In casi eccezionali motivati, la durata può essere prolungata.[^15-2]
+
+<sup>2bis</sup> In caso di distaccamenti a lungo termine a favore dell’Agenzia, l’importo forfetario per i pasti è pagato direttamente da quest’ultima.[^15-3]
 
 <sup>3</sup> L’UDSC può rimborsare i costi effettivi di un alloggio appropriato se corrispondono ai costi abituali locali.
 
 <sup>4</sup> I costi per i pasti e i pernottamenti non vengono rimborsati quando è disponibile una possibilità gratuita di vitto e alloggio oppure se le spese vengono assunte dall’Agenzia o da terzi.
 
-[^15-1]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^15-1]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^15-3]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 
 #### Art. 16
 
@@ -313,7 +332,7 @@ L’UDSC adotta le misure necessarie a salvaguardare e migliorare la tutela dell
 
 In casi eccezionali, l’UDSC può offrire assistenza giuridica e finanziaria ai propri collaboratori implicati in un procedimento civile, amministrativo o penale nell’esercizio delle loro funzioni all’estero. L’UDSC assiste il personale interessato in particolare nella ricerca di un patrocinatore legale all’estero. L’indennizzo delle spese di procedura e ripetibili è retto dall’articolo 77 OPers[^20-1].
 
-[^20-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^20-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Sezione 4: Impiego di personale estero in Svizzera
 
@@ -345,7 +364,7 @@ Per quanto attiene al rapporto di lavoro e alle norme disciplinari, il personale
 
 <sup>2</sup> L’impiego di armi e di mezzi di autodifesa e coattivi è retto dagli articoli 229–232 OD. L’UDSC può ordinare restrizioni in singoli casi.
 
-[^23-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^23-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 24
 
@@ -371,10 +390,10 @@ Per quanto attiene al rapporto di lavoro e alle norme disciplinari, il personale
 
 <sup>5</sup> In caso di violazioni delle regole d’impiego da parte del personale estero nel quadro dell’impiego di quest’ultimo, l’UDSC presenta un rapporto all’Agenzia. Se si riscontrano violazioni dei diritti fondamentali da parte del personale estero, l’UDSC interrompe immediatamente l’impiego e avvia una procedura.
 
-[^25-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^25-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^25-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^25-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^25-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-3]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^25-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Sezione 5: Impiego di consulenti in materia di documenti
 
@@ -398,11 +417,16 @@ L’ordinanza del 26 agosto 2009[^27-1] sulla cooperazione operativa con gli alt
 
 #### Art. 28
 
-**Disposizione transitoria**
+**Disposizione transitoria**[^28-1]
 
-Agli impieghi iniziati prima dell’entrata in vigore conformemente all’articolo 29 rimane applicabile l’OCOFE nella versione del 15 agosto 2018[^28-1].
+L’OCISC nella versione del 29 giugno 2022[^28-2] rimane applicabile:
 
-[^28-1]: [RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)
+- a. agli impieghi iniziati prima dell’entrata in vigore dell’OCISC;
+- b. alle proroghe degli impieghi autorizzate prima dell’entrata in vigore della modifica del 25 febbraio 2026[^28-3].
+
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^28-2]: [RU 2022 461](https://fedlex.data.admin.ch/eli/oc/2022/461)
+[^28-3]: [RU 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)
 
 #### Art. 29
 

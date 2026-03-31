@@ -4,11 +4,11 @@ title: Verordnung vom 29. Juni 2022 über die internationale Zusammenarbeit zur 
 short: ViZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/461"
 language: de
-version: 2022-09-01
+version: 2026-04-01
 adopted: 2022-06-29
 in_force: 2022-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2022-461-20220901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2022-461-20260401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20220901/de"
 
 (ViZG)
 
-vom 29. Juni 2022 (Stand am 1. September 2022)
+vom 29. Juni 2022 (Stand am 1. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 2 Absatz 2, 92, 92*a*, 113 und 130 des Zollgesetzes vo
 
 verordnet:
 
-[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -42,17 +42,19 @@ Diese Verordnung regelt:
 - a. die Modalitäten der operativen Zusammenarbeit zwischen dem Bundesamt für Zoll und Grenzsicherheit (BAZG) und der Europäischen Agentur für die Grenz- und Küstenwache (Agentur) sowie den anderen Schengen-Staaten im Sinne der Verordnung (EU) 2019/1896[^1-1];
 - b. den Einsatz von Mitarbeiterinnen und Mitarbeitern des BAZG im Ausland im Rahmen der Zusammenarbeit mit der Agentur;
 - c. den Einsatz ausländischen Personals in der Schweiz im Rahmen der Zusammenarbeit mit der Agentur;
-- d. den Einsatz von Dokumentenberaterinnen und -beratern.
+- d.[^1-2] den Einsatz von Dokumentenberaterinnen und -beratern im Ausland.
 
-<sup>2</sup> Sie regelt für die Mitarbeiterinnen und Mitarbeiter des BAZG nach Absatz 1 Buchstabe b die Modalitäten des Einsatzes im Ausland soweit dafür nicht ihr Einsatzstaat beziehungsweise die Agentur zuständig ist, sowie die Besonderheiten des Arbeitsverhältnisses in Abweichung von der Bundespersonalverordnung vom 3. Juli 2001[^1-2] (BPV).
+<sup>2</sup> Sie regelt für die Mitarbeiterinnen und Mitarbeiter des BAZG nach Absatz 1 Buchstabe b die Modalitäten des Einsatzes im Ausland, soweit dafür nicht der Einsatzstaat beziehungsweise die Agentur zuständig ist, sowie die Besonderheiten des Arbeitsverhältnisses in Abweichung von der Bundespersonalverordnung vom 3. Juli 2001[^1-3] (BPV).[^1-4]
 
 <sup>3</sup> Für das ausländische Personal nach Absatz 1 Buchstabe c regelt sie die Einsätze in der Schweiz.
 
-<sup>4</sup> Für die Zusammenarbeit bei internationalen Rückführungseinsätzen gelten die Artikel 15*b*–15*e*<sup>quinquies</sup> der Verordnung vom 11. August 1999[^1-3] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen.
+<sup>4</sup> Für die Zusammenarbeit bei internationalen Rückführungseinsätzen gelten die Artikel 15*b*–15*e*<sup>quinquies</sup> der Verordnung vom 11. August 1999[^1-5] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen.
 
 [^1-1]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnungen (EU) Nr. 1052/2013 und (EU) 2016/1624, Fassung gemäss ABl. L 295 vom 14.11.2019, S.1.
-[^1-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^1-3]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^1-2]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^1-3]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^1-4]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^1-5]: [SR 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 
 #### Art. 2
 
@@ -61,7 +63,12 @@ Diese Verordnung regelt:
 Im Sinne dieser Verordnung gelten als:
 
 - a. *ausländisches Personal:* Mitarbeiterinnen und Mitarbeiter ausländischer Behörden, die zusammen mit schweizerischem Personal bei Einsätzen an den Aussengrenzen des Schengen-Raums in der Schweiz mitwirken, sowie das Personal der Agentur;
-- b. *Dokumentenberaterinnen und -berater:* Mitarbeiterinnen und Mitarbeiter des BAZG, die insbesondere die für die Grenzkontrolle zuständigen ausländischen Behörden, die Luftverkehrsunternehmen und die Auslandvertretungen bei der Dokumentenkontrolle unterstützen.
+- b. *Dokumentenberaterinnen und -berater:* Mitarbeiterinnen und Mitarbeiter des BAZG, die insbesondere die für die Grenzkontrolle zuständigen ausländischen Behörden, die Luftverkehrsunternehmen und die Auslandvertretungen bei der Dokumentenkontrolle unterstützen;
+- c.[^2-1] *Einsätze zugunsten der Agentur:* Tätigkeiten, bei denen Mitarbeiterinnen und Mitarbeiter des BAZG operative oder administrative Aufgaben direkt für die Agentur im Ausland wahrnehmen;
+- d.[^2-2] *Einsatztage:* Tage, welche die eingesetzten Mitarbeiterinnen und Mitarbeiter des BAZG tatsächlich vor Ort im Ausland verbringen, einschliesslich der Hin- und Rückreise; Ferientage gelten nicht als Einsatztage.
+
+[^2-1]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 
 ## 2. Abschnitt: Aufgaben des BAZG und Datenaustausch
 
@@ -95,15 +102,16 @@ Es arbeitet namentlich in den folgenden Bereichen mit der Agentur und den andere
 
 #### Art. 4
 
-**Einsätze von Mitarbeiterinnen und Mitarbeiter des BAZG im Ausland**
+**Einsätze von Mitarbeiterinnen und Mitarbeitern des BAZG im Ausland[^4-1]**
 
-<sup>1</sup> Das BAZG stellt Personal nach den Anhängen II bis IV der Verordnung (EU) 2019/1896[^4-1] bereit.
+<sup>1</sup> Das BAZG stellt Personal nach den Anhängen II bis IV der Verordnung (EU) 2019/1896[^4-2] bereit.
 
 <sup>2</sup> Es kann Gesuche um Bereitstellung von zusätzlichem Personal gemäss Anhang IV der Verordnung (EU) 2019/1896 aus der Reserve für Soforteinsätze ablehnen, wenn eine Ausnahmesituation in der Schweiz besteht, die die Erledigung nationaler Aufgaben erheblich beeinträchtigt.
 
 <sup>3</sup> Es wählt die Mitarbeiterinnen und Mitarbeiter für einen Einsatz im Ausland aus und bestimmt die Dauer ihrer Entsendung.
 
-[^4-1]: Siehe Fussnote zu Art. 1 Abs. 1 Bst. a.
+[^4-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^4-2]: Siehe Fussnote zu Art. 1 Abs. 1 Bst. a.
 
 #### Art. 5
 
@@ -166,9 +174,9 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>3</sup> Für Einsätze von bis zu zwei Jahren (längerfristige Einsätze) können zu Artikel 8–20 abweichende Regelungen getroffen werden.
 
-[^8-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^8-2]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
-[^8-3]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^8-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^8-2]: [SR 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
+[^8-3]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 #### Art. 9
 
@@ -186,10 +194,10 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>6</sup> Werden Mitarbeiterinnen oder Mitarbeitern des BAZG Verstösse gegen die Einsatzregeln, namentlich Grundrechtsverletzungen, vorgeworfen, so kann das BAZG beim ausländischen Staat oder bei der Agentur Informationen in Form eines Berichts einholen.
 
-[^9-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^9-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^9-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^9-4]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^9-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^9-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^9-3]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^9-4]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 10
 
@@ -201,17 +209,17 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>3</sup> Der Waffeneinsatz im Ausland richtet sich nach dem Recht des Einsatzstaats, sofern die Befugnisse für den Waffeneinsatz nicht umfassender sind als diejenigen nach den Artikeln 229–232 ZV.
 
-[^10-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^10-1]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 11
 
-**Arbeitszeit, Einsatzzeit, Ferien und freie Tage**
+**Arbeitszeit, Ferien und freie Tage[^11-1]**
 
 <sup>1</sup> Die Arbeitszeit richtet sich nach den Anforderungen, die der Einsatz stellt und den Vorgaben der Agentur.
 
-<sup>2</sup> Als Einsatzzeit gilt die Zeit, während derer sich die Mitarbeiterinnen und Mitarbeiter nicht im regulären Betrieb im BAZG befinden. Dazu gehören die Reisezeit, die eigentliche Einsatzzeit, die Briefingtage, die Packtage sowie die zusätzlichen freien Tage nach Absatz 3.
+<sup>2</sup> …[^11-2]
 
-<sup>3</sup> Für jeden vierwöchigen Einsatz besteht Anspruch auf einen freien Tag. Damit sind die Feiertage am Einsatzort abgegolten. Für gesamtschweizerische Feiertage, die auf einen Werktag fallen, werden zusätzliche freie Tage gewährt. Vorgaben der Agentur sowie abweichende Regelungen für längerfristige Einsätze von bis zu zwei Jahren bleiben vorbehalten.
+<sup>3</sup> Pro vier Wochen Einsatz zugunsten der Agentur besteht Anspruch auf einen freien Tag. Damit sind die Feiertage am Einsatzort abgegolten. Für gesamtschweizerische Feiertage, die auf einen Werktag fallen, werden zusätzliche freie Tage gewährt. Vorgaben der Agentur sowie abweichende Regelungen für längerfristige Einsätze von bis zu zwei Jahren bleiben vorbehalten.[^11-3]
 
 <sup>4</sup> Freie Tage, die während der Dauer des Einsatzes anfallen, sind während dessen Dauer zu kompensieren und zu beziehen. Nicht kompensierte oder bezogene Guthaben gelten mit dem Ende des Einsatzes als verfallen und werden nicht durch Geldleistungen oder andere Vergünstigungen abgegolten. Das BAZG kann in begründeten Fällen Ausnahmen bewilligen.
 
@@ -221,9 +229,12 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>7</sup> Für Mehrarbeit, Überzeit oder Sonntags- und Nachtarbeit besteht nach dem Ende des Einsatzes kein Anspruch auf Zeitkompensation oder Vergütung.
 
-<sup>8</sup> Von der Vergütungsbeschränkung ausgenommen sind der Ortszuschlag nach Artikel 43 der BPV[^11-1], die Arbeitsmarktzulage nach Artikel 50 BPV und die Funktionszulage nach Artikel 46 BPV.
+<sup>8</sup> Von der Vergütungsbeschränkung ausgenommen sind der Ortszuschlag nach Artikel 43 der BPV[^11-4], die Arbeitsmarktzulage nach Artikel 50 BPV und die Funktionszulage nach Artikel 46 BPV.
 
-[^11-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^11-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-2]: Aufgehoben durch Ziff. I der V vom 25. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-4]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 12
 
@@ -237,7 +248,7 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>4</sup> Die Reisekosten werden nicht übernommen, wenn eine kostenlose Transportmöglichkeit zur Verfügung steht oder die Kosten von Dritten übernommen werden.
 
-[^12-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^12-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 13
 
@@ -247,19 +258,25 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>2</sup> Das BAZG kann die Reisekosten in den Fällen nach Artikel 40 Absatz 3 Buchstaben a–e und g VBPV übernehmen. Artikel 12 Absatz 3 gilt sinngemäss.
 
-[^13-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^13-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 14
 
 **Einsatzzulage**
 
-<sup>1</sup> Für jeden Einsatz wird eine Einsatzzulage von 60 Franken pro Tag gewährt, sofern die Inkonvenienzen des Einsatzes nicht anderweitig vergütet werden. Sie dient der Abgeltung besonderer Einsatzbedingungen wie permanenter Verfügbarkeit, Entbehrungen und erhöhter Risiken sowie dem materiellen Ausgleich für die mit dem Einsatz direkt verbundenen Mehrkosten.
+<sup>1</sup> Für jeden geleisteten Einsatztag wird eine Einsatzzulage von 60 Franken gewährt, sofern die Inkonvenienzen des Einsatzes nicht anderweitig vergütet werden. Das BAZG legt fest, welche Ausgaben mit der Zulage abgedeckt sind.[^14-1]
 
-<sup>2</sup> Mit der Einsatzzulage gelten die im regulären Betrieb des BAZG entstehenden Ansprüche aus Sonntags-, Nacht- und Schichtarbeit sowie dem Pikettdienst als abgegolten. Es besteht kein zusätzlicher Anspruch auf Zeitgutschrift.
+<sup>2</sup> Die Einsatzzulage gilt der Abgeltung besonderer Einsatzbedingungen wie permanenter Verfügbarkeit, Entbehrungen und erhöhte Risiken vor Ort sowie dem materiellen Ausgleich für die mit dem Einsatz direkt verbundenen Mehrkosten wie Ausgaben für Kleinmaterial für den Einsatz, private Transportkosten vor Ort oder Haushaltsbedarf.[^14-2]
+
+<sup>2<sup>bis</sup></sup> Mit der Einsatzzulage gelten die im regulären Betrieb des BAZG entstehenden Ansprüche aus Sonntags-, Nacht- und Schichtarbeit sowie dem Pikettdienst als abgegolten. Es besteht kein zusätzlicher Anspruch auf Zeitgutschrift.[^14-3]
 
 <sup>3</sup> Der Anspruch auf die Einsatzzulage besteht für die gesamte Dauer des Einsatzes.
 
 <sup>4</sup> Bei längerfristigen Einsätzen für die Agentur wird die Einsatzzulage direkt durch die Agentur bezahlt. In diesem Fall besteht kein Anspruch auf eine Einsatzzulage gemäss Absatz 1.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^14-2]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^14-3]: Ursprünglich: Abs. 2.
 
 #### Art. 15
 
@@ -267,13 +284,17 @@ Das BAZG kann operative Einsatz- und dienstliche Regelungen:
 
 <sup>1</sup> Die Vergütung für Mahlzeiten und Übernachtungen richtet sich sinngemäss nach den vom EDA gestützt auf Artikel 67 der VBPV-EDA[^15-1] zur Bundespersonalverordnung festgesetzten Vergütungen.
 
-<sup>2</sup> Das BAZG kann für die Mahlzeiten ein Taggeld ausrichten, das den ortsüblichen Kosten entspricht. Weicht es von den tatsächlichen Kosten ab, kann es nach 60 Tagen Einsatz angepasst werden.
+<sup>2</sup> Das BAZG kann für die Mahlzeiten während vier Monaten ein Taggeld ausrichten, das den ortsüblichen Kosten entspricht. In begründeten Ausnahmefällen kann die Dauer verlängert werden.[^15-2]
+
+<sup>2bis</sup> Bei längerfristigen Einsätzen für die Agentur wird die Mahlzeitpauschale direkt durch die Agentur bezahlt.[^15-3]
 
 <sup>3</sup> Es kann die tatsächlichen Kosten für eine zweckmässige Unterkunft vergüten, wenn sie den ortsüblichen Kosten entsprechen.
 
 <sup>4</sup> Die jeweiligen Kosten für Mahlzeiten und Übernachtungen werden nicht übernommen, wenn eine kostenlose Verpflegung oder Übernachtungsmöglichkeit zur Verfügung steht oder die Kosten von der Agentur oder von Dritten übernommen werden.
 
-[^15-1]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^15-1]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
+[^15-2]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^15-3]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 
 #### Art. 16
 
@@ -313,7 +334,7 @@ Das BAZG trifft die Massnahmen, die notwendig sind, um den Gesundheitsschutz der
 
 Werden Mitarbeiterinnen und Mitarbeiter des BAZG in Ausübung ihrer dienstlichen Tätigkeit im Ausland in ein Zivil-, Verwaltungs- oder Strafverfahren verwickelt, so kann das BAZG in Ausnahmefällen rechtliche und finanzielle Unterstützung leisten. Es unterstützt das betroffene Personal namentlich bei der Vermittlung einer anwaltlichen Vertretung im Ausland. Die Entschädigung von Verfahrens- und Parteikosten richtet sich nach Artikel 77 der BPV[^20-1].
 
-[^20-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^20-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## 4. Abschnitt: Einsatz von ausländischem Personal in der Schweiz
 
@@ -345,7 +366,7 @@ Das ausländische Personal untersteht in Bezug auf das Arbeitsverhältnis sowie 
 
 <sup>2</sup> Der Einsatz von Waffen, Selbstverteidigungs- und Zwangsmitteln richtet sich nach den Artikeln 229–232 ZV. Das BAZG kann im Einzelfall Einschränkungen anordnen.
 
-[^23-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^23-1]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 24
 
@@ -371,10 +392,10 @@ Das ausländische Personal untersteht in Bezug auf das Arbeitsverhältnis sowie 
 
 <sup>5</sup> Das BAZG erstattet der Agentur bei Verstössen gegen die Einsatzregeln durch das ausländische Personal in Zusammenhang mit dessen Einsatz Bericht. Wird festgestellt, dass ausländisches Person Grundrechte verletzt hat, so bricht das BAZG den Einsatz umgehend ab und leitet ein Verfahren ein.
 
-[^25-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^25-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^25-4]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^25-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^25-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-3]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^25-4]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## 5. Abschnitt: Einsatz von Dokumentenberaterinnen und -beratern
 
@@ -398,11 +419,16 @@ Die Verordnung vom 26. August 2009[^27-1] über die operative Zusammenarbeit mit
 
 #### Art. 28
 
-**Übergangsbestimmung**
+**Übergangsbestimmungen**[^28-1]
 
-Für Einsätze die vor dem Inkrafttreten nach Artikel 29 begonnen haben, bleibt die VZAG in der Fassung vom 15. August 2018[^28-1] anwendbar.
+Die ViZG in der Fassung vom 29. Juni 2022[^28-2] bleibt anwendbar für:
 
-[^28-1]: [AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)
+- a. Einsätze, die vor dem Inkrafttreten der ViZG begonnen haben;
+- b. Verlängerungen von Einsätzen, die vor dem Inkrafttreten der Änderung vom 25. Februar 2026[^28-3] bewilligt worden sind.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^28-2]: [AS 2022 461](https://fedlex.data.admin.ch/eli/oc/2022/461)
+[^28-3]: [AS 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)
 
 #### Art. 29
 

@@ -4,11 +4,11 @@ title: Ordonnance du 29 juin 2022 relative à la coopération internationale en 
 short: OCISF
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/461"
 language: fr
-version: 2022-09-01
+version: 2026-04-01
 adopted: 2022-06-29
 in_force: 2022-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-461-20220901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/461/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-461-20260401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/461/20220901/fr"
 
 (OCISF)
 
-du 29 juin 2022 (État le 1<sup>er</sup> septembre 2022)
+du 29 juin 2022 (État le 1<sup>er</sup> avril 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu les art. 2, al. 2, 92, 92*a*, 113 et 130 de la loi du 18 mars 2005 sur les do
 
 arrête:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-3]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Section 1 Dispositions générales
 
@@ -42,17 +42,19 @@ La présente ordonnance règle:
 - a. les modalités de la coopération opérationnelle entre l’Office fédéral de la douane et de la sécurité des frontières (OFDF), l’Agence européenne de garde-frontières et de garde-côtes (Agence) et les autres États Schengen au sens du règlement (UE) 2019/1896[^1-1];
 - b. l’engagement de collaborateurs de l’OFDF à l’étranger dans le cadre de la coopération avec l’Agence;
 - c. l’engagement de personnel étranger en Suisse dans le cadre de la coopération avec l’Agence;
-- d. l’engagement de conseillers en matière de documents.
+- d.[^1-2] l’engagement à l’étranger de conseillers en matière de documents.
 
-<sup>2</sup> Elle règle les modalités de l’engagement à l’étranger des collaborateurs de l’OFDF visés à l’al. 1, let. b, dans la mesure où l’Agence ou leur État d’affectation n’est pas compétent en la matière, ainsi que les particularités des rapports de travail en dérogation à l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^1-2].
+<sup>2</sup> Elle règle les modalités de l’engagement à l’étranger des collaborateurs de l’OFDF visés à l’al. 1, let. b, dans la mesure où l’Agence ou l’État d’affectation n’est pas compétent en la matière, ainsi que les particularités des rapports de travail en dérogation à l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^1-3].[^1-4]
 
 <sup>3</sup> Elle règle les engagements en Suisse du personnel étranger visé à l’al. 1, let. c.
 
-<sup>4</sup> La coopération dans le cadre d’interventions internationales en matière de retour est régie par les art. 15*b* à 15*e*<sup>quinquies</sup> de l’ordonnance du 11 août 1999 sur l’exécution du renvoi et de l’expulsion d’étrangers[^1-3].
+<sup>4</sup> La coopération dans le cadre d’interventions internationales en matière de retour est régie par les art. 15*b* à 15*e*<sup>quinquies</sup> de l’ordonnance du 11 août 1999 sur l’exécution du renvoi et de l’expulsion d’étrangers[^1-5].
 
 [^1-1]: Règlement (UE) 2019/1896 du Parlement européen et du Conseil du 13 novembre 2019 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) n<sup>o</sup> 1052/2013 et (UE) 2016/1624, version selon JO L 295 du 14.11.2019, p. 1
-[^1-2]: [<sup>RS</sup> <sup>172.220.111.3</sup>](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^1-3]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^1-3]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^1-5]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 
 #### Art. 2
 
@@ -61,7 +63,12 @@ La présente ordonnance règle:
 On entend par:
 
 - a. *personnel étranger:* les collaborateurs d’autorités étrangères qui participent en Suisse, en compagnie de personnel suisse, à des engagements aux frontières extérieures de l’espace Schengen ainsi que le personnel de l’Agence;
-- b. *conseillers en matière de documents:* les collaborateurs de l’OFDF qui assistent notamment les autorités étrangères compétentes en matière de contrôle des frontières, les entreprises de transport aérien et les représentations à l’étranger dans le contrôle des documents.
+- b. *conseillers en matière de documents:* les collaborateurs de l’OFDF qui assistent notamment les autorités étrangères compétentes en matière de contrôle des frontières, les entreprises de transport aérien et les représentations à l’étranger dans le contrôle des documents;
+- c.[^2-1] *engagements au profit de l’Agence:* les activités dans le cadre desquelles les collaborateurs de l’OFDF accomplissent des tâches opérationnelles ou administratives à l’étranger directement pour l’Agence;
+- d.[^2-2] *jours d’engagement:* les jours que les collaborateurs de l’OFDF engagés passent effectivement sur place à l’étranger, y compris les trajets d’aller et de retour; les jours de vacances ne sont pas considérés comme des jours d’engagement.
+
+[^2-1]: Introduite par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^2-2]: Introduite par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 
 ## Section 2 Tâches de l’OFDF et échange de données
 
@@ -166,9 +173,9 @@ Il peut fixer des règles d’engagement et de service opérationnelles:
 
 <sup>3</sup> Les règles applicables aux engagements de deux ans au plus (engagements de longue durée) peuvent déroger aux art. 8 à 20.
 
-[^8-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
-[^8-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
-[^8-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^8-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^8-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
+[^8-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
 
 #### Art. 9
 
@@ -186,10 +193,10 @@ Il peut fixer des règles d’engagement et de service opérationnelles:
 
 <sup>6</sup> Si des violations des règles d’engagement, notamment des droits fondamentaux, sont reprochées à des collaborateurs de l’OFDF, celui-ci peut demander à l’État étranger ou à l’Agence de lui fournir des informations sous forme de rapport.
 
-[^9-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^9-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^9-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^9-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^9-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^9-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^9-3]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^9-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 10
 
@@ -201,17 +208,17 @@ Il peut fixer des règles d’engagement et de service opérationnelles:
 
 <sup>3</sup> À l’étranger, l’usage de l’arme est régi par le droit de l’État d’affectation, pour autant que les compétences en matière d’usage de l’arme ne soient pas plus étendues que celles exposées dans les art. 229 à 232 OD.
 
-[^10-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^10-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 11
 
-**Temps de travail, temps d’engagement, vacances et jours de congé**
+**Temps de travail, vacances et jours de congé[^11-1]**
 
 <sup>1</sup> Le temps de travail est fixé en fonction des exigences de l’engagement et selon les prescriptions de l’Agence.
 
-<sup>2</sup> Est réputé temps d’engagement le temps pendant lequel les collaborateurs ne participent pas à l’activité régulière de l’OFDF. En font partie le temps de voyage, le temps d’engagement à proprement parler, les jours de breffage, les jours consacrés à faire et défaire les bagages et les jours de congé supplémentaires visés à l’al. 3.
+<sup>2</sup> …[^11-2]
 
-<sup>3</sup> Chaque période de quatre semaines d’engagement donne droit à un jour de congé. Les jours fériés locaux sont ainsi compensés. Des jours de congé supplémentaires sont accordés pour les jours fériés à l’échelle suisse qui tombent sur un jour ouvrable. Les prescriptions de l’Agence ainsi que les dérogations applicables aux engagements d’une durée de deux ans au plus sont réservées.
+<sup>3</sup> Chaque période de quatre semaines d’engagement au profit de l’Agence donne droit à un jour de congé. Les jours fériés locaux sont ainsi compensés. Des jours de congé supplémentaires sont accordés pour les jours fériés à l’échelle suisse qui tombent sur un jour ouvrable. Les prescriptions de l’Agence ainsi que les dérogations applicables aux engagements d’une durée de deux ans au plus sont réservées.[^11-3]
 
 <sup>4</sup> Les jours de congé dus pour la période d’engagement doivent être compensés et pris pendant celui-ci. Les avoirs non compensés ou pris sont réputés perdus à la fin de l’engagement et ne peuvent pas être échangés contre une prestation en argent ni contre d’autres avantages. L’OFDF peut autoriser des exceptions dans des cas motivés.
 
@@ -221,9 +228,12 @@ Il peut fixer des règles d’engagement et de service opérationnelles:
 
 <sup>7</sup> Une fois l’engagement terminé, il n’existe aucun droit à des compensations en temps ou à des indemnités pour les heures d’appoint, les heures supplémentaires, le travail dominical ou le travail de nuit.
 
-<sup>8</sup> Font exception à la restriction concernant les indemnités l’allocation de résidence au sens de l’art. 43 OPers[^11-1], l’allocation liée au marché de l’emploi au sens de l’art. 50 OPers et la prime de fonction au sens de l’art. 46 OPers.
+<sup>8</sup> Font exception à la restriction concernant les indemnités l’allocation de résidence au sens de l’art. 43 OPers[^11-4], l’allocation liée au marché de l’emploi au sens de l’art. 50 OPers et la prime de fonction au sens de l’art. 46 OPers.
 
-[^11-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-2]: Abrogé par le ch. I de l’O du 25 fév. 2026, avec effet au 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^11-4]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 12
 
@@ -237,7 +247,7 @@ Il peut fixer des règles d’engagement et de service opérationnelles:
 
 <sup>4</sup> Les frais de voyage ne sont pas pris en charge s’il existe une possibilité de transport gratuit ou s’ils sont pris en charge par des tiers.
 
-[^12-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^12-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 13
 
@@ -247,19 +257,25 @@ Il peut fixer des règles d’engagement et de service opérationnelles:
 
 <sup>2</sup> Dans les cas visés à l’art. 40, al. 3, let. a à e et g, O-OPers, l’OFDF peut prendre en charge les frais de voyage. L’art. 12, al. 3, est applicable par analogie.
 
-[^13-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
+[^13-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5350)
 
 #### Art. 14
 
 **Indemnité d’engagement**
 
-<sup>1</sup> Une indemnité d’engagement de 60 francs par jour est accordée pour chaque engagement pour autant que les inconvénients ne soient pas indemnisés d’une autre manière. Elle sert à dédommager la personne de conditions d’engagement particulières telles que la disponibilité permanente, les privations et les risques accrus et à compenser les coûts supplémentaires directement liés au séjour à l’étranger.
+<sup>1</sup> Une indemnité d’engagement de 60 francs est accordée pour chaque jour d’engagement effectué, pour autant que les inconvénients ne soient pas indemnisés d’une autre manière. L’OFDF fixe les dépenses couvertes par l’indemnité.[^14-1]
 
-<sup>2</sup> L’indemnité d’engagement compense les droits liés au travail dominical, au travail de nuit et au travail par équipes ainsi qu’au service de permanence liés à l’activité régulière au sein de l’OFDF. Il n’existe pas de droit supplémentaire à une compensation en temps.
+<sup>2</sup> L’indemnité d’engagement sert à dédommager la personne concernée de conditions d’engagement particulières telles que la disponibilité permanente, les privations et les risques accrus sur place et à compenser les coûts supplémentaires directement liés au séjour à l’étranger tels que les dépenses pour le petit matériel nécessaire à l’engagement, les frais de transport privé sur place et les besoins du ménage.[^14-2]
+
+<sup>2bis</sup> L’indemnité d’engagement compense les droits liés au travail dominical, au travail de nuit et au travail par équipes ainsi qu’au service de permanence liés à l’activité régulière au sein de l’OFDF. Il n’existe pas de droit supplémentaire à une compensation en temps.[^14-3]
 
 <sup>3</sup> Le droit à l’indemnité d’engagement existe pendant toute la durée de l’engagement.
 
 <sup>4</sup> Pour les engagements de longue durée au service de l’Agence, l’indemnité d’engagement est payée directement par l’Agence. Dans ce cas, il n’existe pas de droit à l’indemnité d’engagement au sens de l’al. 1.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^14-2]: Introduit par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^14-3]: Anciennement al. 2
 
 #### Art. 15
 
@@ -267,13 +283,17 @@ Il peut fixer des règles d’engagement et de service opérationnelles:
 
 <sup>1</sup> Le remboursement des frais de repas et d’hébergement est traité par analogie comme les indemnités fixées par le DFAE sur la base de l’art. 67 O-OPers-DFAE[^15-1].
 
-<sup>2</sup> L’OFDF peut verser pour les repas une indemnité journalière correspondant aux prix usuels pour l’endroit. Si elle diffère des coûts effectifs, elle peut être ajustée après 60 jours d’engagement.
+<sup>2</sup> L’OFDF peut verser pour les repas, pendant quatre mois, une indemnité journalière correspondant aux prix usuels pour l’endroit. Dans des cas exceptionnels justifiés, cette durée peut être prolongée.[^15-2]
+
+<sup>2bis</sup> Le forfait pour les repas est directement pris en charge par l’Agence pour les engagements de longue durée en sa faveur.[^15-3]
 
 <sup>3</sup> L’OFDF peut rembourser les frais effectifs d’un hébergement adapté aux besoins de la personne pour l’engagement s’ils correspondent aux prix usuels pour l’endroit.
 
 <sup>4</sup> Les frais de repas et d’hébergement ne sont pas pris en charge lorsque des repas gratuits ou des hébergements gratuits sont à disposition ou lorsque les coûts sont pris en charge par l’Agence ou par des tiers.
 
-[^15-1]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/eli/cc/2002/427)
+[^15-1]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^15-3]: Introduit par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
 
 #### Art. 16
 
@@ -313,7 +333,7 @@ L’OFDF prend les mesures nécessaires pour assurer et améliorer la protection
 
 Si des collaborateurs de l’OFDF se trouvent impliqués dans une procédure civile, administrative ou pénale dans l’exercice de leur activité professionnelle à l’étranger, l’OFDF peut fournir un appui juridique et financier dans des cas exceptionnels. Il les soutient notamment dans la recherche d’un représentant légal à l’étranger. L’indemnisation des frais de procédure et des dépens est régie par l’art. 77 OPers[^20-1].
 
-[^20-1]: [<sup>RS</sup> <sup>172.220.111.3</sup>](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^20-1]: [<sup>RS</sup> <sup>172.220.111.3</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Section 4 Engagement de personnel étranger en Suisse
 
@@ -345,7 +365,7 @@ En ce qui concerne les rapports de travail et le régime disciplinaire, le perso
 
 <sup>2</sup> L’usage d’armes et d’autres moyens d’autodéfense ou de contrainte est régi par les art. 229 à 232 OD. L’OFDF peut ordonner des restrictions au cas par cas.
 
-[^23-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^23-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 24
 
@@ -371,10 +391,10 @@ En ce qui concerne les rapports de travail et le régime disciplinaire, le perso
 
 <sup>5</sup> L’OFDF notifie à l’Agence les violations des règles d’engagement commises par le personnel étranger en relation avec son engagement. S’il est constaté que des violations des droits fondamentaux ont été commises par du personnel étranger, l’OFDF interrompt immédiatement l’engagement et ouvre une procédure.
 
-[^25-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^25-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^25-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^25-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^25-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^25-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^25-3]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^25-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Section 5 Engagement de conseillers en matière de documents
 
@@ -398,11 +418,16 @@ L’ordonnance du 26 août 2009 sur la coopération opérationnelle avec les aut
 
 #### Art. 28
 
-**Disposition transitoire**
+**Disposition transitoire**[^28-1]
 
-L’OCOFE dans sa teneur au 15 août 2018[^28-1] demeure applicable pour les engagements qui ont commencé avant l’entrée en vigueur en vertu de l’art. 29.
+L’OCISF dans sa version du 29 juin 2022[^28-2] demeure applicable pour:
 
-[^28-1]: [RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)
+- a. les engagements ayant commencé avant l’entrée en vigueur de l’OCISF;
+- b. les engagements dont la prolongation a été autorisée avant l’entrée en vigueur de la modification du 25 février 2026[^28-3].
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)).
+[^28-2]: [RO 2022 461](https://fedlex.data.admin.ch/eli/oc/2022/461)
+[^28-3]: [RO 2026 118](https://fedlex.data.admin.ch/eli/oc/2026/118)
 
 #### Art. 29
 
