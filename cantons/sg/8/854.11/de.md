@@ -5,11 +5,12 @@ title: Fischereiverordnung
 short: FV
 language: de
 version: 2026-04-01
+corrected: 2026-03-10
 version_adopted: 2026-02-24
 adopted: 2008-12-02
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/854.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3883/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3882/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
