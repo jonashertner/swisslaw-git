@@ -3,11 +3,11 @@ sr: "0.191.111.631"
 title: "Accordo del 3 dicembre 2015 fra il Consiglio federale svizzero e il Governo della Repubblica d'Austria sulla collaborazione in affari consolari (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/199"
 language: it
-version: 2024-10-01
+version: 2026-04-01
 adopted: 2015-12-03
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2016-199-20241001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2016-199-20260401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 3 dicembre 2015 Entrato in vigore mediante scambio di note il 1° aprile 2016
 
-(Stato 1° ottobre 2024)
+(Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -42,7 +42,7 @@ risoluti ad attualizzare e approfondire la cooperazione consolare concordata nel
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^ingress-1]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 [^ingress-2]: [[RU 1980 593](https://fedlex.data.admin.ch/eli/oc/1980/593_593_593)]
 
 ## Capitolo 1: Disposizioni generali
@@ -127,7 +127,7 @@ Sono fatti salvi gli obblighi internazionali delle Parti contraenti in materia d
 
 Le rappresentanze sono autorizzate a rilasciare a favore di cittadini dell’altra Parte contraente attestazioni concernenti fatti la cui esattezza è debitamente provata e se tali attestazioni sono destinate a essere utilizzate esclusivamente nello Stato d’origine. Sono fatte salve le disposizione della Convenzione europea del 7 giugno 1968[^9-1] sulla soppressione della legalizzazione di atti compilati dagli agenti diplomatici o consolari.
 
-[^9-1]: [RS 0.172.030.3](https://fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207)
+[^9-1]: [RS 0.172.030.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/468)
 
 #### Art. 10
 
@@ -273,26 +273,26 @@ Le Parti contraenti valutano la possibilità di cooperare nel settore del rileva
 
 Appendice II[^t-1]
 
-## Elenco dei paesi ospitanti in cui è assicurato il trasferimento di funzioni consolari.
+## Elenco dei paesi ospitanti in cui è assicurato il trasferimento di funzioni consolari
 
-[^t-1]: Nuovo testo giusta la dec. del Comitato misto del 3 giu. 2024, in vigore dal 1° ott. 2024 ([RU 2024 503](https://fedlex.data.admin.ch/eli/oc/2024/503)).
+[^t-1]: Nuovo testo giusta la dec. del Comitato misto del 19 nov. 2025, in vigore dal 1° apr. 2026 ([RU 2026 20](https://fedlex.data.admin.ch/eli/oc/2026/20)).
 
 ### A) Preso in carica dall’Austria
 
 <table>
 <tr><th></th><th>Rappresentato dall’Ambasciata</th><th>Rappresentato da un CO</th><th>Rappresentanza ad hoc/ Emergenza</th></tr>
-<tr><td>Europa</td><td></td><td>Creta (Grecia) Parikia (Grecia) Volos (Grecia) Patras (Grecia) Trondheim (Norvegia) Czernowitz (Ucraina)</td><td>Chisinau (Moldova)</td></tr>
+<tr><td>Europa</td><td></td><td>Creta (Grecia) Parikia (Grecia) Volos (Grecia) Patras (Grecia) Trondheim (Norvegia) Czernowitz (Ucraina) Burgas (Bulgaria) Fort-de-France (Francia)</td><td>Chisinau (Moldavia)</td></tr>
 <tr><td>Africa</td><td></td><td>São Tomé (São Tomé e Príncipe)</td><td></td></tr>
-<tr><td>America</td><td></td><td>Scarborough (Tobago)</td><td></td></tr>
+<tr><td>America</td><td></td><td>Scarborough (Tobago)</td><td>Anchorage (USA)</td></tr>
 </table>
 
 ### B) Preso in carica dalla Svizzera
 
 <table>
 <tr><th></th><th>Rappresentato dall’Ambasciata</th><th>Rappresentato da un CO</th><th>Rappresentanza ad hoc/ Emergenza</th></tr>
-<tr><td>Europa</td><td></td><td></td><td>Digione (Francia)</td></tr>
-<tr><td>Africa</td><td></td><td>Bissau (Guinea Bissau) Monrovia (Liberia) Douala (Camerun)</td><td>Praia (Capo Verde)</td></tr>
+<tr><td>Europa</td><td></td><td>Nouméa (Francia) Ponta Delgada (Portogallo)</td><td>Dijon (Francia)</td></tr>
+<tr><td>Africa</td><td></td><td>Marrakesch (Marocco)</td><td>Praia (Cabo Verde)</td></tr>
 <tr><td>America</td><td></td><td></td><td>San José (Costa Rica) Port of Spain (Trinidad) Maracaibo (Venezuela) Caracas (Venezuela)</td></tr>
 <tr><td>Asia</td><td></td><td></td><td>Bali (Indonesia)</td></tr>
-<tr><td>Oceania</td><td></td><td>Apia (Samoa) Papeete (Tahiti) Suva (Figi)</td><td>Wellington (Nuova Zelanda)</td></tr>
+<tr><td>Oceania</td><td></td><td>Apia (Samoa) Papeete (Tahiti) Suva (Fidji)</td><td>Wellington (Nuova Zelanda)</td></tr>
 </table>

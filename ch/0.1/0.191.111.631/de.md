@@ -3,11 +3,11 @@ sr: "0.191.111.631"
 title: Abkommen vom 3. Dezember 2015 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Österreich über die Zusammenarbeit in konsularischen Angelegenheiten (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/199"
 language: de
-version: 2024-10-01
+version: 2026-04-01
 adopted: 2015-12-03
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2016-199-20241001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2016-199-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 3. Dezember 2015
 
 In Kraft getreten durch Notenaustausch am 1. April 2016
 
-(Stand am 1. Oktober 2024)
+(Stand am 1. April 2026)
 
 Der Schweizerische Bundesrat, vertreten durch den Vorsteher des Eidgenössischen Departements für auswärtige Angelegenheiten, und die Regierung der Republik Österreich, vertreten durch den Bundesminister für Europa, Integration und Äusseres,
 
@@ -36,7 +36,7 @@ im Bestreben, die im bilateralen Abkommen über die Zusammenarbeit auf konsulari
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^ingress-1]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 [^ingress-2]: [AS 1980 593](https://fedlex.data.admin.ch/eli/oc/1980/593_593_593)
 
 ## Kapitel 1: Allgemeine Bestimmungen
@@ -121,7 +121,7 @@ Internationale Verpflichtungen der Vertragsparteien in konsularischen Angelegenh
 
 Die Vertretungen sind befugt, den Angehörigen der anderen Vertragspartei Bestätigungen über Tatsachen auszustellen, deren Richtigkeit von ihnen hinreichend festgestellt ist, wenn diese Bestätigungen ausschliesslich in deren Heimatstaat verwendet werden sollen. Die Bestimmungen des Europäischen Übereinkommens zur Befreiung der von diplomatischen und konsularischen Vertretern errichteten Urkunden von der Beglaubigung vom 7. Juni 1968[^9-1] bleiben vorbehalten.
 
-[^9-1]: [SR 0.172.030.3](https://fedlex.data.admin.ch/eli/cc/1970/1211_1207_1207)
+[^9-1]: [SR 0.172.030.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/468)
 
 #### Art. 10
 
@@ -269,23 +269,23 @@ Anhang II[^t-1]
 
 ## Liste der Empfangsstaaten, in denen die Übertragung konsularischer Aufgaben wahrgenommen wird
 
-[^t-1]: Fassung gemäss Beschluss des Gemischten Ausschusses vom 3. Juni 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 503](https://fedlex.data.admin.ch/eli/oc/2024/503)).
+[^t-1]: Fassung gemäss Beschluss des Gemischten Ausschusses vom 19. Nov. 2025, in Kraft seit 1. April 2026 ([AS 2026 20](https://fedlex.data.admin.ch/eli/oc/2026/20)).
 
 ### A) Übernahme durch Österreich
 
 <table>
 <tr><th></th><th>Vertretung durch Botschaft</th><th>Vertretung durch HK</th><th>Ad-hoc/Notfall Vertretung</th></tr>
-<tr><td>Europa</td><td></td><td>Kreta (Griechenland) Parikia (Griechenland) Volos (Griechenland) Patras (Griechenland) Trondheim (Norwegen) Czernowitz (Ukraine)</td><td>Kischinau (Moldau)</td></tr>
+<tr><td>Europa</td><td></td><td>Kreta (Griechenland) Parikia (Griechenland) Volos (Griechenland) Patras (Griechenland) Trondheim (Norwegen) Czernowitz (Ukraine) Burgas (Bulgarien) Fort-de-France (Frankreich)</td><td>Kischinau (Moldau)</td></tr>
 <tr><td>Afrika</td><td></td><td>São Tomé (São Tomé und Príncipe)</td><td></td></tr>
-<tr><td>Amerika</td><td></td><td>Scarborough (Tobago)</td><td></td></tr>
+<tr><td>Amerika</td><td></td><td>Scarborough (Tobago)</td><td>Anchorage (USA)</td></tr>
 </table>
 
 ### B) Übernahme durch die Schweiz
 
 <table>
 <tr><th></th><th>Vertretung durch Botschaft</th><th>Vertretung durch HK</th><th>Ad-hoc/Notfall Vertretung</th></tr>
-<tr><td>Europa</td><td></td><td></td><td>Dijon (Frankreich)</td></tr>
-<tr><td>Afrika</td><td></td><td>Bissau (Guinea-Bissau) Monrovia (Liberia) Douala (Kamerun)</td><td>Praia (Kapverden)</td></tr>
+<tr><th>Europa</th><th></th><th>Nouméa (Frankreich) Ponta Delgada (Portugal)</th><th>Dijon (Frankreich)</th></tr>
+<tr><td>Afrika</td><td></td><td>Marrakesch (Marokko)</td><td>Praia (Kapverden)</td></tr>
 <tr><td>Amerika</td><td></td><td></td><td>San José (Costa Rica) Port of Spain (Trinidad) Maracaibo (Venezuela) Caracas (Venezuela)</td></tr>
 <tr><td>Asien</td><td></td><td></td><td>Bali (Indonesien)</td></tr>
 <tr><td>Ozeanien</td><td></td><td>Apia (Samoa) Papeete (Tahiti) Suva (Fidschi)</td><td>Wellington (Neuseeland)</td></tr>
