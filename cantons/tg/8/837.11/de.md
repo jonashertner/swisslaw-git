@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "837.11"
-title: Verordnung des Regierungsrates zum Gesetz über Massnahmen gegen die Arbeitslosigkeit und zur Standortförderung
+title: Verordnung über Massnahmen gegen die Arbeitslosigkeit und zur Standortförderung
 short: MASV
 language: de
-version: 2018-09-15
-valid_until: 2026-03-31
-version_adopted: 2018-09-11
+version: 2026-04-01
+version_adopted: 2026-03-24
 adopted: 1996-12-03
 in_force: 1997-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/837.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2290/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3028/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über Massnahmen gegen die Arbeitslosigkeit und zur Standortförderung
+# Verordnung über Massnahmen gegen die Arbeitslosigkeit und zur Standortförderung
 
 MASV
 
 (MASV)
 
-vom 03.12.1996 (Stand 15.09.2018)
+vom 03.12.1996 (Stand 01.04.2026)
 
 ## 1. Allgemeines
 
@@ -197,51 +196,9 @@ vom 03.12.1996 (Stand 15.09.2018)
 
 <sup>2</sup> Das Konzept legt die Ziele fest und regelt insbesondere die Organisation, die Mittel und Massnahmen sowie das Controlling.
 
-#### § 13
+#### § 13–17
 
-**Gewährung von Bürgschaften und Zinskostenbeiträgen**
-
-<sup>1</sup> Das Departement entscheidet über die Gewährung von Bürgschaften und Zinskostenbeiträgen gemäss § 10 des Gesetzes[^13-1].
-
-<sup>2</sup> Entsprechende Gesuche sind dem AWA über die kreditgebende Bank oder über eine Bürgschaftsgenossenschaft einzureichen.
-
-[^13-1]: RB [837.1](https://www.rechtsbuch.tg.ch/data/837.1/de)
-
-#### § 14
-
-**Bürgschaften**
-
-<sup>1</sup> Bürgschaften können für Investitionskredite bis zu einem Drittel der Gesamtkosten des Vorhabens gewährt werden, sofern
-
-- 1\. ein angemessener Teil der Gesamtkosten des Vorhabens durch eigene Mittel gedeckt wird,
-- 2\. die kreditgebende Bank das Vorhaben nach geschäftsüblichen Grundsätzen geprüft und die erforderlichen Kredite zu marktüblichen Bedingungen zugesichert hat,
-- 3\. die kreditgebende Bank auf dem verbürgten Teil der Kredite eine angemessene Zinsverbilligung gewährt.
-
-<sup>2</sup> Bürgschaftsverpflichtungen können für längstens zehn Jahre eingegangen werden.
-
-#### § 15
-
-**Zinskostenbeiträge**
-
-<sup>1</sup> Zinskostenbeiträge von höchstens der Hälfte des geschäftsüblichen Zinses können bis zu einem Drittel der Gesamtkosten eines Vorhabens gewährt werden.
-
-<sup>2</sup> Zinskostenbeiträge werden auf höchstens sechs Jahre zugesichert.
-
-#### § 16
-
-**Überwachung**
-
-<sup>1</sup> Die kreditgebende Bank sowie Bürgschaftsgenossenschaften haben die Zahlungsfähigkeit des Empfängers oder der Empfängerin von Bürgschaften und Zinskostenbeiträgen während deren Dauer in geeigneter Weise zu überwachen.
-
-<sup>2</sup> Sie erstatten dem Amt auf Abschluss des Geschäftsjahres oder bei Verschlechterung des Geschäftsganges Bericht.
-
-#### § 17
-
-**Fachstellen, Experten, Expertinnen**
-
-<sup>1</sup> Die Gewährung von Bürgschaften und Zinskostenbeiträgen kann an die Beratung des Empfängers oder der Empfängerin durch geeignete Fachstellen, Experten oder Expertinnen gebunden werden.
-
-<sup>2</sup> Diese erstatten dem Amt regelmässig Bericht.
+**…**
 
 #### § 18
 
@@ -251,23 +208,55 @@ vom 03.12.1996 (Stand 15.09.2018)
 
 [^18-1]: RB [837.1](https://www.rechtsbuch.tg.ch/data/837.1/de)
 
-### 3.3. Technologietransfer und Innovationsberatung
+### 3.3. Technologietransfer und Innovationsförderung
 
-#### § 19
+#### § 19–20
 
-**Zuständigkeit, Verfahren**
+**…**
 
-<sup>1</sup> Das Departement entscheidet über Beiträge an Technologietransfer- und Innovationsberatungsstellen.
+#### § 20a
 
-<sup>2</sup> Gesuche sind dem Amt einzureichen.
+**Unterstützungsbeiträge**
 
-<sup>3</sup> Vom Kanton unterstützte Beratungsstellen erstatten dem Amt jährlich Bericht und geben Einblick in ihre Tätigkeit.
+<sup>1</sup> Vorhaben in den Bereichen des Technologietransfers und der Innovation gemäss § 11 Abs. 1 MASG können mit Beiträgen aus dem kantonalen Arbeitsmarkt- und Innovationsfonds im Rahmen des dafür bewilligten Kredits unterstützt werden.
 
-#### § 20
+#### § 20b
 
-**Zugänglichkeit**
+**Zuständigkeit**
 
-<sup>1</sup> Vom Kanton unterstützte Technologietransfer- und Innovationsberatungsstellen müssen allen thurgauischen Unternehmen offenstehen.
+<sup>1</sup> Die zu gründende Stiftung Innovation Thurgau (SIT) ist die verwaltungsexterne Stelle gemäss § 11 Abs. 3 MASG.
+
+<sup>2</sup> Das Departement schliesst mit der SIT eine Leistungsvereinbarung ab, die mindestens die zu erbringenden Leistungen und ihre Abgeltung, die Modalitäten des Berichtswesens und das Controlling regelt.
+
+<sup>3</sup> Abschluss und Änderungen der Leistungsvereinbarung bedürfen der Genehmigung durch den Regierungsrat.
+
+#### § 20c
+
+**Machbarkeitsstudien sowie Forschungs- und Entwicklungsprojekte**
+
+<sup>1</sup> Für Machbarkeitsstudien sowie Forschungs- und Entwicklungsprojekte gemäss § 11 Abs. 2 MASG können Förderbeiträge zugesprochen werden, wenn das Vorhaben nicht durch andere Instrumente gefördert werden kann und sich die gesuchstellenden anspruchsberechtigten Unternehmen finanziell wie folgt an den Kosten beteiligen:
+
+- 1\. für Machbarkeitsstudien im Umfang von mindestens 10 %
+- 2\. für Forschungs- und Entwicklungsprojekte im Umfang von mindestens einem Drittel
+
+<sup>2</sup> Zugesprochene Förderbeiträge werden dem an der Studie oder am Projekt beteiligten anerkannten Hochschul- oder Forschungspartner ausgerichtet.
+
+<sup>3</sup> Als anerkannte Hochschul- und Forschungspartner gelten:
+
+- 1\. Hochschulen und andere Institutionen des Hochschulbereichs, die nach dem Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG)[^20c-1] akkreditiert sind
+- 2\. Leistungserbringer nach Art. 20 Abs. 3 des Bundesgesetzes über die Förderung der Forschung und der Innovation (FIFG)[^20c-2], die auf der von der Schweizerischen Agentur für Innovationsförderung (Innosuisse) geführten Liste stehen
+- 3\. die Universität Konstanz und die Hochschule Konstanz Technik, Wirtschaft und Gestaltung (HTWG)
+
+[^20c-1]: SR [414.20](https://db.clex.ch/link/Bund/414.20/de)
+[^20c-2]: SR [420.1](https://db.clex.ch/link/Bund/420.1/de)
+
+#### § 20d
+
+**Verfahren und Berichterstattung**
+
+<sup>1</sup> Gesuche gemäss § 11 MASG sind bei der SIT einzureichen. Diese entscheidet über die Gesuche.
+
+<sup>2</sup> Die SIT erstattet dem Amt jährlich Bericht über ihre Tätigkeiten.
 
 ## 4. Arbeitsmarktliche Massnahmen
 
@@ -285,22 +274,8 @@ vom 03.12.1996 (Stand 15.09.2018)
 
 ## 5. Schlussbestimmungen
 
-#### § 23
+#### § 23–25
 
 **…**
-
-#### § 24
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates zum Gesetz über Massnahmen gegen die Arbeitslosigkeit vom 19. Juni 1990 wird aufgehoben.
-
-#### § 25
-
-**Inkraftsetzung**
-
-<sup>1</sup> Das Gesetz über die Änderung des Gesetzes über Massnahmen gegen die Arbeitslosigkeit vom 30. September 1996 und diese Verordnung treten auf den 1. Januar 1997 in Kraft[^25-1].
-
-[^25-1]: Vom Bund genehmigt am 21. Januar 1997.
 
 ABl. 51/1996
