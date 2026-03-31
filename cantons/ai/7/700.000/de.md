@@ -4,13 +4,12 @@ number: "700.000"
 title: Baugesetz
 short: BauG
 language: de
-version: 2022-05-01
-valid_until: 2026-03-31
-version_adopted: 2022-04-24
+version: 2026-04-01
+version_adopted: 2025-04-27
 adopted: 2012-04-29
 in_force: 2013-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/700.000"
-pdf: "https://ai.clex.ch/api/de/versions/2030/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2030/pdf_file"
 
 (BauG)
 
-vom 29.04.2012 (Stand 01.05.2022)
+vom 29.04.2012 (Stand 01.04.2026)
 
 Die Landsgemeinde des Kantons Appenzell I.Rh.,
 
@@ -93,7 +92,7 @@ beschliesst:
 
 **Bestandesgarantie**
 
-<sup>1</sup> Für bestehende Bauten, die vor Inkrafttreten dieses Gesetzes erstellt wurden und den neuen Bestimmungen nicht entsprechen, bleiben der Weiterbestand, ein angemessener Unterhalt und die zeitgemässe Erneuerung gewährleistet, unter Vorbehalt einschränkender Regelungen für Bauten ausserhalb der Bauzonen. Als zeitgemässe Erneuerung gelten auch der Abbruch und der Wiederaufbau im bisherigen Umfang, sofern dadurch nicht wesentliche öffentliche oder nachbarrechtliche Interessen, beispielsweise der Ortsbildschutz, verletzt werden, sowie die Erstellung einzelner Bauteile, die für sich die geltenden Vorschriften einhalten.
+<sup>1</sup> Für rechtmässig erstellte bestehende Bauten, die vor Inkrafttreten dieses Gesetzes und des Ausführungsrechts erstellt wurden und den neuen Bestimmungen nicht entsprechen, bleiben der Weiterbestand, ein angemessener Unterhalt und die zeitgemässe Erneuerung gewährleistet, unter Vorbehalt einschränkender Regelungen für Bauten ausserhalb der Bauzonen. Als zeitgemässe Erneuerung gelten auch der Abbruch und der Wiederaufbau im bisherigen Umfang, sofern dadurch nicht wesentliche öffentliche oder nachbarrechtliche Interessen, beispielsweise der Ortsbildschutz, verletzt werden, sowie die Erstellung einzelner Bauteile, die für sich die geltenden Vorschriften einhalten.
 
 <sup>2</sup> Die Regelung gemäss Abs. 1 gilt auch für Bauten, die aus anderen Gründen nicht entfernt werden können und für bestandesgeschützte Bauten, die durch höhere oder fremde Gewalt zerstört wurden, sofern sie innert drei Jahren wieder aufgebaut werden.
 
@@ -299,6 +298,8 @@ beschliesst:
 <sup>1</sup> Kernzonen umfassen Ortsteile, die zentrumsbildende Funktion aufweisen oder einen Ort prägen.
 
 <sup>2</sup> In ihnen sind öffentliche Bauten, Wohnbauten sowie mässig störende Gewerbebetriebe zulässig, sofern sie sich mit dem gewachsenen Charakter des Ortskerns vereinbaren lassen.
+
+<sup>2<sup>bis</sup></sup> Die Planungsbehörden können in ihren Reglementen oder in Quartierplänen die Nutzung des Erdgeschosses im Ortskern auf Betriebe mit Publikumsverkehr einschränken.
 
 <sup>3</sup> Sind erhaltenswürdige Kernzonen nicht bereits durch eine überlagerte Ortsbildschutzzone geschützt, sind im Rahmen eines Quartierplanes geeignete Schutzvorschriften zu erlassen.
 
@@ -568,7 +569,7 @@ beschliesst:
 
 **Baulinien**
 
-<sup>1</sup> Baulinien begrenzen die Bebauung und dienen insbesondere der Sicherung bestehender und geplanter Bauten, Anlagen und Flächen sowie der baulichen Gestaltung. Mit ihnen lässt sich beispielsweise der Mindestabstand jeglicher Bauten gegenüber vorhandenen oder projektierten Strassen, Wegen, Plätzen, öffentlichen Anlagen, Bahnlinien, Gewässern, Waldrändern und Aussichtslagen sichern.
+<sup>1</sup> Baulinien begrenzen die Bebauung und dienen insbesondere der Sicherung bestehender und geplanter Bauten, Anlagen und Flächen sowie der baulichen Gestaltung. Mit ihnen lässt sich beispielsweise der Mindestabstand jeglicher Bauten gegenüber vorhandenen oder projektierten Strassen, Wegen, Plätzen, öffentlichen Anlagen, Bahnlinien, Gewässern, Wäldern und Aussichtslagen sichern.
 
 <sup>2</sup> Zum Zwecke der Gestaltung von Überbauungen, der Freihaltung von Hintergelände, der Ermöglichung von Arkaden und der Begrenzung unterirdischer Bauten können besondere Baulinien festgelegt werden.
 
@@ -812,17 +813,17 @@ beschliesst:
 
 **Waldabstand**
 
-<sup>1</sup> Gegenüber Waldrändern ist, ausser bei forstwirtschaftlichen oder durch Mensch und Tier unbewohnten landwirtschaftlichen Gebäuden sowie bei Parkplätzen, ein Abstand von wenigstens 20 m einzuhalten. Der Abstand wird ab Stockgrenze gemessen.
+<sup>1</sup> Gegenüber Wald ist, ausser bei forstwirtschaftlichen Bauten und Anlagen, ein Abstand von wenigstens 20 m, für ebenerdige oder unterirdische nicht-forstliche Anlagen sowie Terrainveränderungen ein Abstand von 5 m einzuhalten. Der Abstand wird ab der Waldgrenze gemessen.
 
-<sup>2</sup> Wenn es die örtlichen Verhältnisse erlauben, insbesondere bei niederstämmigen Beständen, kann in Quartierplänen der Waldabstand bis auf 10 m gesenkt werden.
+<sup>2</sup> Wenn es die örtlichen Verhältnisse erlauben, kann in Quartierplänen der ordentliche Waldabstand von 20 m bis auf 10 m gesenkt werden.
 
-<sup>3</sup> Neupflanzungen von Wald haben gegenüber bestehenden Bauten einen Abstand von mindestens 20 m einzuhalten.
+<sup>3</sup> Neupflanzungen und Neubegründungen von Wald haben gegenüber bestehenden Bauten und Anlagen die unter Abs. 1 und Abs. 2 genannten Abstände einzuhalten.
 
 #### Art. 74
 
 **Abstand zu Ufergehölzen**
 
-<sup>1</sup> Zu Ufergehölzen ist gemessen ab Stockgrenze ein Abstand von 5 m einzuhalten. Bei grösseren, der Waldgesetzgebung unterstellten Ufergehölzen ist der Waldabstand einzuhalten.
+<sup>1</sup> Zu Ufergehölzen ist ein Abstand vom 5 m einzuhalten. Bei grösseren, der Waldgesetzgebung unterstellten Ufergehölzen ist der Waldabstand einzuhalten.
 
 #### Art. 75
 
@@ -844,7 +845,9 @@ beschliesst:
 
 **Ausnahmen**
 
-<sup>1</sup> Die Standeskommission kann Ausnahmen von Vorschriften dieses Gesetzes und dessen Ausführungsbestimmungen bewilligen, wenn das Gesetz dies ausdrücklich vorsieht oder wenn weder öffentliche noch nachbarliche Interessen erheblich beeinträchtigt werden und gleichzeitig ausserordentliche Verhältnisse vorliegen, beispielsweise wenn die Beachtung der Vorgaben nach Art. 68 bis 74 bei bestandesgeschützten Bauten deren Wiederaufbau oder Umnutzung unverhältnismässig erschwert.
+<sup>1</sup> Das zuständige Departement kann im Rahmen von Baubewilligungsverfahren Ausnahmen von Vorschriften dieses Gesetzes und dessen Ausführungsbestimmungen bewilligen, wenn das Gesetz dies ausdrücklich vorsieht oder wenn ausserordentliche Verhältnisse vorliegen und gleichzeitig weder öffentliche noch nachbarliche Interessen erheblich beeinträchtigt werden.
+
+<sup>1<sup>bis</sup></sup> Die Standeskommission kann ausserhalb von Baubewilligungsverfahren Ausnahmen von Vorschriften dieses Gesetzes und dessen Ausführungsbestimmungen bewilligen, wenn das Gesetz dies ausdrücklich vorsieht oder wenn ausserordentliche Verhältnisse vorliegen.
 
 <sup>2</sup> Ausnahmebewilligungen sind erforderlichenfalls unter sichernden Auflagen, welche im Grundbuch angemerkt werden können, zu erteilen.
 
@@ -888,6 +891,8 @@ beschliesst:
 
 <sup>1</sup> Ist das Baugesuch vollständig, legt die Baubewilligungsbehörde dieses unverzüglich während zwanzig Tagen öffentlich auf und leitet es gleichzeitig an weitere zuständige Behörden weiter.
 
+<sup>1<sup>bis</sup></sup> Die Auflage der Baugesuchsunterlagen ist physisch am Sitz der Baubewilligungsbehörde und gleichzeitig elektronisch vorzunehmen. Zur Gewährleistung des Datenschutzes können auf dem Verordnungsweg Vorgaben für die Auflage oder Einschränkungen festgelegt werden.
+
 <sup>2</sup> Die Auflage ist unter Angabe von Name und Wohnadresse des Gesuchstellers, des Standortes und des Zweckes der Baute, der Art des Verfahrens sowie des Endtermins für Baueinsprachen zu veröffentlichen. An die Eigentümer der direkt angrenzenden Grundstücke erfolgt eine schriftliche Anzeige.
 
 <sup>3</sup> Bei geringfügigen Bauvorhaben, die keine nachbarlichen oder öffentlichen Interessen berühren, kann von der öffentlichen Auflage und von einem Baugespann abgesehen werden.
@@ -898,9 +903,11 @@ beschliesst:
 
 <sup>1</sup> In Ergänzung zu Art. 37 VerwVG ist jede im Kanton wohnhafte natürliche Person zur öffentlich-rechtlichen Einsprache gegen bewilligungspflichtige Bauvorhaben und zur Ergreifung von daran unmittelbar anschliessenden Rechtsmitteln berechtigt.
 
-<sup>2</sup> Zudem sind die Bezirke des inneren Landesteils und die Feuerschaugemeinde bei baupflichtigen Bauvorhaben auf dem eigenen Gebiet zur öffentlichrechtlichen Einsprache und zur Ergreifung von daran unmittelbar anschliessenden Rechtsmitteln berechtigt.
+<sup>2</sup> Zudem sind die Bezirke des inneren Landesteils und die Feuerschaugemeinde bei baupflichtigen Bauvorhaben auf dem eigenen Gebiet zur öffentlich-rechtlichen Einsprache und zur Ergreifung von daran unmittelbar anschliessenden Rechtsmitteln berechtigt.
 
 <sup>3</sup> Bei offensichtlich unzulässigen oder offensichtlich unbegründeten Einsprachen kann die Baubewilligungsbehörde Verfahrenskosten bis Fr. 10'000.-- erheben.
+
+<sup>4</sup> Über die öffentlich-rechtliche Einsprache wird gleichzeitig mit der Verfügung im Baubewilligungsverfahren entschieden.
 
 #### Art. 83
 
@@ -910,11 +917,11 @@ beschliesst:
 
 <sup>2</sup> Kann ein Einsprecher durch Auszug aus dem Grundbuch oder durch Vorlage einer gleichwertigen Urkunde beweisen, dass ein Baugesuch einem zu seinen Gunsten bestehenden bessern Recht zuwiderläuft, wird die Baubewilligung verweigert.
 
-<sup>3</sup> Bei allen übrigen Einsprachen zivilrechtlicher Natur setzt die Baubewilligungsbehörde dem Baugesuchsteller eine Frist von 20 Tagen, innert welcher er den Einsprecher aufzufordern hat, innert 20 Tagen Klage beim Gericht zu erheben. Dabei gilt:
+<sup>3</sup> Bei allen übrigen Einsprachen zivilrechtlicher Natur setzt die Baubewilligungsbehörde dem Einsprecher eine Frist von 20 Tagen zur Einleitung eines zivilrechtlichen Klageverfahrens. Dabei gilt:
 
-- a) Unterbleibt die Klageaufforderung, gilt das Baugesuch als zurückgezogen.
-- b) Unterbleibt eine rechtzeitige Klage, gilt die Einsprache als zurückgezogen.
-- c) Wird rechtzeitig Klage erhoben, bleibt das Baugesuchsverfahren bis zum rechtskräftigen Entscheid der Zivilklage sistiert.
+- a) Unterbleibt eine rechtzeitige Klage, gilt die Einsprache als zurückgezogen.
+- b) Während der zwanzigtägigen Frist gemäss Abs. 3 und einem allfälligen Vermittlungsverfahren inklusive Frist zur Klage bleibt das Baugesuchsverfahren sistiert. Darüber hinaus kann das Bezirksgericht den Baubeginn bis zur rechtskräftigen Erledigung der Klage untersagen.
+- c) …
 
 #### Art. 84
 
@@ -926,7 +933,7 @@ beschliesst:
 
 **Baubewilligung**
 
-<sup>1</sup> Die Baubewilligung wird erteilt, wenn die öffentlich-rechtlichen Voraussetzungen erfüllt und allfällige Einsprachen rechtskräftig erledigt sind.
+<sup>1</sup> Die Baubewilligung wird erteilt, wenn die öffentlich-rechtlichen Voraussetzungen erfüllt sind.
 
 <sup>2</sup> Die Baubewilligung kann mit Auflagen und Bedingungen verbunden werden. Insbesondere sind zulässig:
 
@@ -985,7 +992,7 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Für die Behandlung der Baugesuche durch die Baubewilligungsbehörden werden Gebühren von 1‰ der geschätzten Baukosten, mindestens Fr. 50.-- erhoben. Die Kosten für das Anzeigeverfahren, die erforderlichen Kontrollen sowie allfällige Gutachten werden entsprechend dem tatsächlichen Aufwand zu den Gebühren hinzugerechnet. Die Baubewilligungsbehörde kann vom Baugesuchsteller angemessene Kostenvorschüsse verlangen.
+<sup>1</sup> Für die Behandlung der Baugesuche durch die Baubewilligungsbehörden werden Gebühren von 1‰ der geschätzten Baukosten, mindestens Fr. 100.-- erhoben. Die Kosten für das Anzeigeverfahren, für ausserordentliche und administrative Verrichtungen und weitere baupolizeiliche Verfahren, die erforderlichen Kontrollen sowie allfällige Gutachten werden entsprechend dem tatsächlichen Aufwand zu den Gebühren hinzugerechnet. Die Baubewilligungsbehörde kann vom Baugesuchsteller angemessene Kostenvorschüsse verlangen.
 
 <sup>2</sup> Für Bauermittlungsgesuche kann die Gebühr ermässigt werden.
 
@@ -1027,13 +1034,14 @@ beschliesst:
 
 **Fälligkeit**
 
-<sup>1</sup> Die Mehrwertabgabe wird fällig
+<sup>1</sup> Die Mehrwertabgabe wird innert zwölf Monaten nach rechtskräftiger Verfügung des Mehrwertes fällig.
 
-- a) bei Veräusserung des Grundstücks mit Eintragung im Grundbuch;
-- b) bei Übertragung der wirtschaftlichen Verfügungsgewalt mit der Rechtskraft der Verfügung über den Grundstückgewinn;
-- c) bei der Überbauung des Grundstücks mit der Rechtskraft der Baubewilligung.
+- a) bei Veräusserung des eingezonten Grundstücks mit Eintragung im Grundbuch;
+- b) bei Übertragung der wirtschaftlichen Verfügungsgewalt über ein eingezontes Grundstück mit der Rechtskraft der Verfügung über den Grundstückgewinn;
+- c) bei der Überbauung des eingezonten Grund-stücks mit der Rechtskraft der Baubewilligung;
+- d) bei Abparzellierung eines Grundstücks innert zwölf Monaten nach Rechtskraft der Verfügung über den Grundstückgewinn.
 
-<sup>2</sup> Bei Überbauung oder Veräusserung eines Teils des Grundstücks wird die gesamte Mehrwertabgabe fällig. Ist eine Etappierung in einem Quartierplan vorgesehen, wird die Abgabe mit jeder Etappe anteilmässig fällig.
+<sup>2</sup> …
 
 <sup>3</sup> Die Verordnung kann Ausnahmen vorsehen.
 
@@ -1044,6 +1052,8 @@ beschliesst:
 <sup>1</sup> Dem Bezirk der gelegenen Sache steht für die Mehrwertabgabe samt allfälligen Verzugszinsen ein gesetzliches Pfandrecht zu, das allen eingetragenen Pfandrechten vorgeht.
 
 <sup>2</sup> Das gesetzliche Pfandrecht entsteht mit der Verfügung des Mehrwertes.
+
+<sup>3</sup> Der Bezirksrat der gelegenen Sache kann die Mehrwertabgabepflicht im Grundbuch anmerken lassen.
 
 #### Art. 90g
 
