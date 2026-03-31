@@ -3,20 +3,19 @@ canton: SO
 number: "613.41"
 title: Vollzugsverordnung zum Bundesgesetz über die Verrechnungssteuer
 language: de
-version: 2006-01-01
-valid_until: 2026-03-31
-version_adopted: 2005-01-11
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1967-05-12
 in_force: 1967-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/613.41"
-pdf: "https://bgs.so.ch/api/de/versions/3398/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5631/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Bundesgesetz über die Verrechnungssteuer
 
-Vom 12.05.1967 (Stand 01.01.2006)
+Vom 12.05.1967 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -37,7 +36,7 @@ beschliesst:
 - a) dem Finanzdepartement;
 - b) dem Kantonalen Steueramt;
 - c) …
-- d) den Veranlagungsbehörden für natürliche Personen;
+- d)
 - e) …
 
 #### § 2
@@ -60,7 +59,7 @@ beschliesst:
 
 <sup>2</sup> Ihm obliegen insbesondere:
 
-- a) die Leitung und Überwachung des Rückerstattungswesens bei den Veranlagungsbehörden für natürliche Personen;
+- a)
 - b) die Prüfung und der Entscheid über Anträge auf vorzeitige Rückerstattung;
 - c) der Verkehr mit der Eidgenössischen Steuerverwaltung in Rückerstattungsfragen;
 - d) die Rechnungsstellung an die Eidgenössische Steuerverwaltung über die bewilligten Rückerstattungen;
@@ -68,9 +67,7 @@ beschliesst:
 
 #### § 5
 
-**Veranlagungsbehörden für natürliche Personen**
-
-<sup>1</sup> Die Veranlagungsbehörden für natürliche Personen prüfen und entscheiden über die Anträge auf ordentliche Rückerstattung.
+**…**
 
 #### § 6
 
@@ -140,7 +137,7 @@ beschliesst:
 
 **Ergänzung**
 
-<sup>1</sup> Die Veranlagungsbehörde für natürliche Personen überprüft die Rückerstattungsanträge auf Vollständigkeit und formelle Richtigkeit.
+<sup>1</sup> Das Kantonale Steueramt überprüft die Rückerstattungsanträge auf Vollständigkeit und formelle Richtigkeit.
 
 <sup>2</sup> Ungenügende Anträge sind zur Ergänzung innert 8 Tagen zurückzusenden.
 
@@ -150,7 +147,7 @@ beschliesst:
 
 **Prüfung und Entscheid**
 
-<sup>1</sup> Nach ihrer Vervollständigung prüft die zuständige Veranlagungsbehörde für natürliche Personen die Anträge und fällt nach Abschluss der Untersuchung einen Entscheid nach Artikel 52 VStG.
+<sup>1</sup> Nach ihrer Vervollständigung prüft das Kantonale Steueramt die Anträge und fällt nach Abschluss der Untersuchung einen Entscheid nach Artikel 52 VStG.
 
 <sup>2</sup> Der Entscheid über den Rückerstattungsantrag wird, sofern eine Veranlagungsverfügung nach § 148 StG ergeht, mit dieser verbunden und eröffnet.
 
@@ -160,11 +157,11 @@ beschliesst:
 
 **Einsprache**
 
-<sup>1</sup> Gegen den Entscheid kann innert 30 Tagen nach der Eröffnung bei der zuständigen Veranlagungsbehörde für natürliche Personen schriftlich Einsprache eingereicht werden.
+<sup>1</sup> Gegen den Entscheid kann innert 30 Tagen nach der Eröffnung beim Kantonalen Steueramt schriftlich Einsprache eingereicht werden.
 
 <sup>2</sup> Das Einspracheverfahren richtet sich nach §§ 149 ff. StG. Ist jedoch der Entscheid über den Rückerstattungsanspruch nicht mit einer Veranlagungsverfügung verbunden worden, so finden auf das Verfahren die Artikel 42 und 44 VStG sinngemäss Anwendung.
 
-<sup>3</sup> Die Veranlagungsbehörde für natürliche Personen überprüft die Einsprache und trifft einen Entscheid, der dem Einsprecher unter Hinweis auf das Beschwerderecht, gegebenenfalls mit dem Einspracheentscheid in Staatssteuersachen, eröffnet wird.
+<sup>3</sup> Das Kantonale Steueramt überprüft die Einsprache und trifft einen Entscheid, der dem Einsprecher unter Hinweis auf das Beschwerderecht, gegebenenfalls mit dem Einspracheentscheid in Staatssteuersachen, eröffnet wird.
 
 #### § 18
 
