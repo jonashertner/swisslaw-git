@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordinanza del 16 marzo 2007 concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo (Ordinanza sulle preferenze tariffali)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: it
-version: 2025-10-01
+version: 2026-04-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20251001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20251001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20260401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20251001/it"
 
 (Ordinanza sulle preferenze tariffali)
 
-del 16 marzo 2007 (Stato 1° ottobre 2025)
+del 16 marzo 2007 (Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -38,7 +38,11 @@ La presente ordinanza disciplina le preferenze tariffali generalizzate a favore 
 
 **Campo di applicazione**
 
-Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e territori di cui all’allegato 1.
+<sup>1</sup> Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e territori di cui all’allegato 1.
+
+<sup>2</sup> Il Consiglio federale esamina la pertinenza di una modifica dell’allegato 1 dopo ogni esame triennale dell’elenco del Comitato di aiuto allo sviluppo dell’Organizzazione per la cooperazione e lo sviluppo economico basandosi su questo elenco.[^2-1]
+
+[^2-1]: Introdotto dalla cifra I dell’O del 29 gen. 2025, in vigore dal 1° apr. 2026 ([RU 2025 93](https://fedlex.data.admin.ch/eli/oc/2025/93), [251](https://fedlex.data.admin.ch/eli/oc/2025/251)cifra I).
 
 #### Art. 3
 
@@ -97,7 +101,9 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 <sup>1</sup> L’importazione di prodotti originari dai Paesi in sviluppo meno progrediti (LDC, *Least Developed Countries*) (allegato 1 colonna C) è esente da dazio.
 
-<sup>2</sup> I Paesi che hanno aderito ad un’iniziativa internazionale per la riduzione del debito, condivisa dalla Svizzera, e che non sono ancora sdebitati (allegato 1 colonna D), sono equiparati ai Paesi in sviluppo meno progrediti. Questa equiparazione temporanea termina dopo lo sdebitamento.
+<sup>2</sup> ...[^6-1]
+
+[^6-1]: Abrogato dalla cifra I dell’O del 29 gen. 2025, con effetto dal 1° avr. 2026 ([RU 2025 93](https://fedlex.data.admin.ch/eli/oc/2025/93), [251](https://fedlex.data.admin.ch/eli/oc/2025/251)cifra I ).
 
 #### Art. 7
 
@@ -129,7 +135,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 L’ordinanza del 29 gennaio 1997[^9-1] concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo è abrogata.
 
-[^9-1]: [[RU 1997 466](https://fedlex.data.admin.ch/eli/oc/1997/466_466_466), [1998 2679](https://fedlex.data.admin.ch/eli/oc/1998/2679_2679_2679), [1999 1694](https://fedlex.data.admin.ch/eli/oc/1999/256)[3584](https://fedlex.data.admin.ch/eli/oc/1999/509), [2001 720](https://fedlex.data.admin.ch/eli/oc/2001/108)[2387](https://fedlex.data.admin.ch/eli/oc/2001/343)[3380](https://fedlex.data.admin.ch/eli/oc/2001/504), [2002 740](https://fedlex.data.admin.ch/eli/oc/2002/142)cifra III n. 2, [2004 1427](https://fedlex.data.admin.ch/eli/oc/2004/180)[4707](https://fedlex.data.admin.ch/eli/oc/2004/721), [2005 581](https://fedlex.data.admin.ch/eli/oc/2005/67)[2291](https://fedlex.data.admin.ch/eli/oc/2005/387), [2006 797](https://fedlex.data.admin.ch/eli/oc/2006/120)[867](https://fedlex.data.admin.ch/eli/oc/2006/151)all. n. 4 [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 cifra II n. 9 [5751](https://fedlex.data.admin.ch/eli/oc/2006/852)]
+[^9-1]: [[RU 1997 466](https://fedlex.data.admin.ch/eli/oc/1997/466_466_466); [1998 2679](https://fedlex.data.admin.ch/eli/oc/1998/2679_2679_2679); [1999 1694](https://fedlex.data.admin.ch/eli/oc/1999/256), [3584](https://fedlex.data.admin.ch/eli/oc/1999/509); [2001 720](https://fedlex.data.admin.ch/eli/oc/2001/108), [2387](https://fedlex.data.admin.ch/eli/oc/2001/343), [3380](https://fedlex.data.admin.ch/eli/oc/2001/504); [2002 740](https://fedlex.data.admin.ch/eli/oc/2002/142)cifra III n. 2; [2004 1427](https://fedlex.data.admin.ch/eli/oc/2004/180), [4707](https://fedlex.data.admin.ch/eli/oc/2004/721); [2005 581](https://fedlex.data.admin.ch/eli/oc/2005/67), [2291](https://fedlex.data.admin.ch/eli/oc/2005/387); [2006 797](https://fedlex.data.admin.ch/eli/oc/2006/120), [867](https://fedlex.data.admin.ch/eli/oc/2006/151)all. n. 4, [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 cifra II n. 9, [5751](https://fedlex.data.admin.ch/eli/oc/2006/852)]
 
 #### Art. 10
 
@@ -145,150 +151,145 @@ La presente ordinanza entra in vigore il 1° aprile 2007.
 
 Allegato 1[^t-1]
 
-(art. 2, 5 cpv. 4, 6 cpv. 1 e 2)
+(art. 2, 5 cpv. 4 e art. 6)
 
 ## Elenco dei Paesi e territori in sviluppo
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dalla cifra I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dalla cifra I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dalla cifra I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dalla cifra I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla cifra I dell’O del 24 set. 2021 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)), dalle cifre I delle O del 14 mar. 2025 ([RU 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)) e del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2025, in vigore dal 1° apr. 2026 ([RU 2025 251](https://fedlex.data.admin.ch/eli/oc/2025/251)). Aggiornato dalla cifra II dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)).
+
+Legenda
 
 Colonna A: Codice ISO del Paese
 
 Colonna B: Nome del Paese
 
-Colonna C: Paesi che sono considerati Paesi in sviluppo meno progrediti (art. 6 cpv. 1)
+Colonna C: Paesi che sono considerati Paesi in sviluppo meno progrediti (art. 6)
 
-Colonna D: Paesi che hanno aderito ad un’iniziativa internazionale per la riduzione del debito e che non sono ancora sdebitati (art. 6 cpv. 2)
-
-Colonna E: Sospensioni delle preferenze tariffali (art. 5 cpv. 4; art. 2 cpv. 1 della L del 9 ott. 1981 sulle preferenze tariffali)
+Colonna D: Sospensioni delle preferenze tariffali (art. 5 cpv. 4; art. 2 cpv. 1 della legge del 9 ottobre 1981 sulle preferenze tariffali)
 
 <table>
-<tr><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr>
-<tr><td>AF</td><td>Afghanistan</td><td>X</td><td></td><td></td></tr>
-<tr><td>AG</td><td>Antigua e Barbuda</td><td></td><td></td><td></td></tr>
-<tr><td>AI</td><td>Anguilla</td><td></td><td></td><td></td></tr>
-<tr><td>AM</td><td>Armenia</td><td></td><td></td><td></td></tr>
-<tr><td>AO</td><td>Angola</td><td>X</td><td></td><td></td></tr>
-<tr><td>AR</td><td>Argentina</td><td></td><td></td><td></td></tr>
-<tr><td>AZ</td><td>Azerbaigian</td><td></td><td></td><td></td></tr>
-<tr><td>BD</td><td>Bangladesh</td><td>X</td><td></td><td></td></tr>
-<tr><td>BF</td><td>Burkina Faso</td><td>X</td><td></td><td></td></tr>
-<tr><td>BI</td><td>Burundi</td><td>X</td><td></td><td></td></tr>
-<tr><td>BJ</td><td>Benin</td><td>X</td><td></td><td></td></tr>
-<tr><td>BO</td><td>Bolivia</td><td></td><td></td><td></td></tr>
-<tr><td>BR</td><td>Brasile</td><td></td><td></td><td>Le aliquote di dazio preferenziali delle voci di tariffa 0901.1200/2200 (caffè) e 1701 (zuccheri di canna o di barbabietola e saccarosio chimicamente puro, allo stato solido) della tariffa doganale svizzera non sono applicabili alle merci originarie di questo Paese.</td></tr>
-<tr><td>BT</td><td>Bhutan</td><td>X</td><td></td><td></td></tr>
-<tr><td>BY</td><td>Bielorussia</td><td></td><td></td><td></td></tr>
-<tr><td>BZ</td><td>Belize</td><td></td><td></td><td></td></tr>
-<tr><td>CD</td><td>Repubblica Democratica del Congo</td><td>X</td><td></td><td></td></tr>
-<tr><td>CF</td><td>Repubblica centrafricana</td><td>X</td><td></td><td></td></tr>
-<tr><td>CG</td><td>Repubblica del Congo</td><td></td><td></td><td></td></tr>
-<tr><td>CI</td><td>Costa d’Avorio</td><td></td><td>X</td><td></td></tr>
-<tr><td>CK</td><td>Isole Cook</td><td></td><td></td><td></td></tr>
-<tr><td>CM</td><td>Camerun</td><td></td><td></td><td></td></tr>
-<tr><td>CU</td><td>Cuba</td><td></td><td></td><td></td></tr>
-<tr><td>CV</td><td>Capo Verde</td><td></td><td></td><td></td></tr>
-<tr><td>DJ</td><td>Gibuti</td><td>X</td><td></td><td></td></tr>
-<tr><td>DM</td><td>Dominica</td><td></td><td></td><td></td></tr>
-<tr><td>DO</td><td>Repubblica dominicana</td><td></td><td></td><td></td></tr>
-<tr><td>DZ</td><td>Algeria</td><td></td><td></td><td></td></tr>
-<tr><td>ER</td><td>Eritrea</td><td>X</td><td>X</td><td></td></tr>
-<tr><td>ET</td><td>Etiopia</td><td>X</td><td></td><td></td></tr>
-<tr><td>FJ</td><td>Figi</td><td></td><td></td><td></td></tr>
-<tr><td>FM</td><td>Micronesia</td><td></td><td></td><td></td></tr>
-<tr><td>GA</td><td>Gabon</td><td></td><td></td><td></td></tr>
-<tr><td>GD</td><td>Grenada</td><td></td><td></td><td></td></tr>
-<tr><td>GH</td><td>Ghana</td><td></td><td></td><td></td></tr>
-<tr><td>GM</td><td>Gambia</td><td>X</td><td></td><td></td></tr>
-<tr><td>GN</td><td>Guinea</td><td>X</td><td>X</td><td></td></tr>
-<tr><td>GQ</td><td>Guinea equatoriale</td><td>X</td><td></td><td></td></tr>
-<tr><td>GT</td><td>Guatemala</td><td></td><td></td><td></td></tr>
-<tr><td>GW</td><td>Guinea-Bissau</td><td>X</td><td></td><td></td></tr>
-<tr><td>GY</td><td>Guyana</td><td></td><td></td><td></td></tr>
-<tr><td>HN</td><td>Honduras</td><td></td><td></td><td></td></tr>
-<tr><td>HT</td><td>Haiti</td><td>X</td><td></td><td></td></tr>
-<tr><td>IQ</td><td>Iraq</td><td></td><td></td><td></td></tr>
-<tr><td>IR</td><td>Iran</td><td></td><td></td><td></td></tr>
-<tr><td>JM</td><td>Giamaica</td><td></td><td></td><td></td></tr>
-<tr><td>KE</td><td>Kenia</td><td></td><td></td><td></td></tr>
-<tr><td>KG</td><td>Kirghizistan</td><td></td><td></td><td></td></tr>
-<tr><td>KH</td><td>Cambogia</td><td>X</td><td></td><td></td></tr>
-<tr><td>KI</td><td>Kiribati</td><td>X</td><td></td><td></td></tr>
-<tr><td>KM</td><td>Comore</td><td>X</td><td>X</td><td></td></tr>
-<tr><td>KN</td><td>Saint Kitts e Nevis</td><td></td><td></td><td></td></tr>
-<tr><td>KP</td><td>Repubblica popolare democratica di Corea</td><td></td><td></td><td></td></tr>
-<tr><td>KZ</td><td>Kazakistan</td><td></td><td></td><td></td></tr>
-<tr><td>LA</td><td>Laos</td><td>X</td><td></td><td></td></tr>
-<tr><td>LC</td><td>Saint Lucia</td><td></td><td></td><td></td></tr>
-<tr><td>LK</td><td>Sri Lanka</td><td></td><td></td><td></td></tr>
-<tr><td>LR</td><td>Liberia</td><td>X</td><td></td><td></td></tr>
-<tr><td>LY</td><td>Libia</td><td></td><td></td><td></td></tr>
-<tr><td>MG</td><td>Madagascar</td><td>X</td><td></td><td></td></tr>
-<tr><td>MH</td><td>Isole Marshall</td><td></td><td></td><td></td></tr>
-<tr><td>ML</td><td>Mali</td><td>X</td><td></td><td></td></tr>
-<tr><td>MM</td><td>Myanmar</td><td>X</td><td></td><td></td></tr>
-<tr><td>MN</td><td>Mongolia</td><td></td><td></td><td></td></tr>
-<tr><td>MR</td><td>Mauritania</td><td>X</td><td></td><td></td></tr>
-<tr><td>MS</td><td>Montserrat</td><td></td><td></td><td></td></tr>
-<tr><td>MU</td><td>Maurizio</td><td></td><td></td><td></td></tr>
-<tr><td>MV</td><td>Maldive</td><td></td><td></td><td></td></tr>
-<tr><td>MW</td><td>Malawi</td><td>X</td><td></td><td></td></tr>
-<tr><td>MY</td><td>Malaysia</td><td></td><td></td><td></td></tr>
-<tr><td>MZ</td><td>Mozambico</td><td>X</td><td></td><td></td></tr>
-<tr><td>NE</td><td>Niger</td><td>X</td><td></td><td></td></tr>
-<tr><td>NG</td><td>Nigeria</td><td></td><td></td><td></td></tr>
-<tr><td>NI</td><td>Nicaragua</td><td></td><td></td><td></td></tr>
-<tr><td>NP</td><td>Nepal</td><td>X</td><td></td><td></td></tr>
-<tr><td>NR</td><td>Nauru</td><td></td><td></td><td></td></tr>
-<tr><td>NU</td><td>Niue</td><td></td><td></td><td></td></tr>
-<tr><td>PG</td><td>Papua Nuova Guinea</td><td></td><td></td><td></td></tr>
-<tr><td>PK</td><td>Pakistan</td><td></td><td></td><td></td></tr>
-<tr><td>PW</td><td>Palau</td><td></td><td></td><td></td></tr>
-<tr><td>PY</td><td>Paraguay</td><td></td><td></td><td></td></tr>
-<tr><td>RW</td><td>Ruanda</td><td>X</td><td></td><td></td></tr>
-<tr><td>SB</td><td>Isole Salomone</td><td>X</td><td></td><td></td></tr>
-<tr><td>SC</td><td>Seicelle</td><td></td><td></td><td></td></tr>
-<tr><td>SD</td><td>Sudan</td><td>X</td><td>X</td><td></td></tr>
-<tr><td>SH</td><td>Sant’Elena</td><td></td><td></td><td></td></tr>
-<tr><td>SL</td><td>Sierra Leone</td><td>X</td><td></td><td></td></tr>
-<tr><td>SN</td><td>Senegal</td><td>X</td><td></td><td></td></tr>
-<tr><td>SO</td><td>Somalia</td><td>X</td><td>X</td><td></td></tr>
-<tr><td>SR</td><td>Suriname</td><td></td><td></td><td></td></tr>
-<tr><td>SS</td><td>Sudan del Sud</td><td></td><td></td><td></td></tr>
-<tr><td>ST</td><td>São Tomé e Príncipe</td><td>X</td><td></td><td></td></tr>
-<tr><td>SV</td><td>El Salvador</td><td></td><td></td><td></td></tr>
-<tr><td>SY</td><td>Siria</td><td></td><td></td><td></td></tr>
-<tr><td>TD</td><td>Ciad</td><td>X</td><td>X</td><td></td></tr>
-<tr><td>TG</td><td>Togo</td><td>X</td><td></td><td></td></tr>
-<tr><td>TH</td><td>Thailandia</td><td></td><td></td><td></td></tr>
-<tr><td>TJ</td><td>Tagikistan</td><td></td><td></td><td></td></tr>
-<tr><td>TK</td><td>Tokelau</td><td></td><td></td><td></td></tr>
-<tr><td>TL</td><td>Timor-Leste</td><td>X</td><td></td><td></td></tr>
-<tr><td>TM</td><td>Turkmenistan</td><td></td><td></td><td></td></tr>
-<tr><td>TO</td><td>Tonga</td><td></td><td></td><td></td></tr>
-<tr><td>TV</td><td>Tuvalu</td><td>X</td><td></td><td></td></tr>
-<tr><td>TZ</td><td>Tanzania</td><td>X</td><td></td><td></td></tr>
-<tr><td>UG</td><td>Uganda</td><td>X</td><td></td><td></td></tr>
-<tr><td>UY</td><td>Uruguay</td><td></td><td></td><td></td></tr>
-<tr><td>UZ</td><td>Uzbekistan</td><td></td><td></td><td></td></tr>
-<tr><td>VC</td><td>Saint Vincent e Grenadine</td><td></td><td></td><td></td></tr>
-<tr><td>VE</td><td>Venezuela</td><td></td><td></td><td></td></tr>
-<tr><td>VN</td><td>Vietnam</td><td></td><td></td><td></td></tr>
-<tr><td>VU</td><td>Vanuatu</td><td>X</td><td></td><td></td></tr>
-<tr><td>WF</td><td>Wallis e Futuna</td><td></td><td></td><td></td></tr>
-<tr><td>WS</td><td>Samoa</td><td>X</td><td></td><td></td></tr>
-<tr><td>XK</td><td>Kosovo</td><td></td><td></td><td></td></tr>
-<tr><td>YE</td><td>Yemen</td><td>X</td><td></td><td></td></tr>
-<tr><td>ZM</td><td>Zambia</td><td>X</td><td></td><td></td></tr>
-<tr><td>ZW</td><td>Zimbabwe</td><td></td><td></td><td></td></tr>
+<tr><th>A</th><th>B</th><th>C</th><th>D</th></tr>
+<tr><td>AF</td><td>Afghanistan</td><td>X</td><td></td></tr>
+<tr><td>AM</td><td>Armenia</td><td></td><td></td></tr>
+<tr><td>AO</td><td>Angola</td><td>X</td><td></td></tr>
+<tr><td>AR</td><td>Argentina</td><td></td><td></td></tr>
+<tr><td>AZ</td><td>Azerbaigian</td><td></td><td></td></tr>
+<tr><td>BD</td><td>Bangladesh</td><td>X</td><td></td></tr>
+<tr><td>BF</td><td>Burkina Faso</td><td>X</td><td></td></tr>
+<tr><td>BI</td><td>Burundi</td><td>X</td><td></td></tr>
+<tr><td>BJ</td><td>Benin</td><td>X</td><td></td></tr>
+<tr><td>BO</td><td>Bolivia</td><td></td><td></td></tr>
+<tr><td>BR</td><td>Brasile</td><td></td><td>Le aliquote di dazio preferenziali delle voci di tariffa 0901.1200/2200 (caffè) e 1701 (zuccheri di canna o di barbabietola e saccarosio chimicamente puro, allo stato solido) della tariffa doganale svizzera non sono applicabili alle merci originarie di questo Paese.</td></tr>
+<tr><td>BT</td><td>Bhutan</td><td>X</td><td></td></tr>
+<tr><td>BY</td><td>Bielorussia</td><td></td><td></td></tr>
+<tr><td>BZ</td><td>Belize</td><td></td><td></td></tr>
+<tr><td>CD</td><td>Repubblica Democratica del Congo</td><td>X</td><td></td></tr>
+<tr><td>CF</td><td>Repubblica centrafricana</td><td>X</td><td></td></tr>
+<tr><td>CG</td><td>Repubblica del Congo</td><td></td><td></td></tr>
+<tr><td>CI</td><td>Costa d’Avorio</td><td></td><td></td></tr>
+<tr><td>CM</td><td>Camerun</td><td></td><td></td></tr>
+<tr><td>CU</td><td>Cuba</td><td></td><td></td></tr>
+<tr><td>CV</td><td>Capo Verde</td><td></td><td></td></tr>
+<tr><td>DJ</td><td>Gibuti</td><td>X</td><td></td></tr>
+<tr><td>DM</td><td>Dominica</td><td></td><td></td></tr>
+<tr><td>DO</td><td>Repubblica dominicana</td><td></td><td></td></tr>
+<tr><td>DZ</td><td>Algeria</td><td></td><td></td></tr>
+<tr><td>ER</td><td>Eritrea</td><td>X</td><td></td></tr>
+<tr><td>ET</td><td>Etiopia</td><td>X</td><td></td></tr>
+<tr><td>FJ</td><td>Figi</td><td></td><td></td></tr>
+<tr><td>FM</td><td>Micronesia</td><td></td><td></td></tr>
+<tr><td>GA</td><td>Gabon</td><td></td><td></td></tr>
+<tr><td>GD</td><td>Grenada</td><td></td><td></td></tr>
+<tr><td>GH</td><td>Ghana</td><td></td><td></td></tr>
+<tr><td>GM</td><td>Gambia</td><td>X</td><td></td></tr>
+<tr><td>GN</td><td>Guinea</td><td>X</td><td></td></tr>
+<tr><td>GQ</td><td>Guinea equatoriale</td><td></td><td></td></tr>
+<tr><td>GT</td><td>Guatemala</td><td></td><td></td></tr>
+<tr><td>GW</td><td>Guinea-Bissau</td><td>X</td><td></td></tr>
+<tr><td>GY</td><td>Guyana</td><td></td><td></td></tr>
+<tr><td>HN</td><td>Honduras</td><td></td><td></td></tr>
+<tr><td>HT</td><td>Haiti</td><td>X</td><td></td></tr>
+<tr><td>IQ</td><td>Iraq</td><td></td><td></td></tr>
+<tr><td>IR</td><td>Iran</td><td></td><td></td></tr>
+<tr><td>JM</td><td>Giamaica</td><td></td><td></td></tr>
+<tr><td>KE</td><td>Kenia</td><td></td><td></td></tr>
+<tr><td>KG</td><td>Kirghizistan</td><td></td><td></td></tr>
+<tr><td>KH</td><td>Cambogia</td><td>X</td><td></td></tr>
+<tr><td>KI</td><td>Kiribati</td><td>X</td><td></td></tr>
+<tr><td>KM</td><td>Comore</td><td>X</td><td></td></tr>
+<tr><td>KP</td><td>Repubblica popolare democratica di Corea</td><td></td><td></td></tr>
+<tr><td>KZ</td><td>Kazakistan</td><td></td><td></td></tr>
+<tr><td>LA</td><td>Laos</td><td>X</td><td></td></tr>
+<tr><td>LC</td><td>Saint Lucia</td><td></td><td></td></tr>
+<tr><td>LK</td><td>Sri Lanka</td><td></td><td></td></tr>
+<tr><td>LR</td><td>Liberia</td><td>X</td><td></td></tr>
+<tr><td>LY</td><td>Libia</td><td></td><td></td></tr>
+<tr><td>MG</td><td>Madagascar</td><td>X</td><td></td></tr>
+<tr><td>MH</td><td>Isole Marshall</td><td></td><td></td></tr>
+<tr><td>ML</td><td>Mali</td><td>X</td><td></td></tr>
+<tr><td>MM</td><td>Myanmar</td><td>X</td><td></td></tr>
+<tr><td>MN</td><td>Mongolia</td><td></td><td></td></tr>
+<tr><td>MR</td><td>Mauritania</td><td>X</td><td></td></tr>
+<tr><td>MS</td><td>Montserrat</td><td></td><td></td></tr>
+<tr><td>MU</td><td>Maurizio</td><td></td><td></td></tr>
+<tr><td>MV</td><td>Maldive</td><td></td><td></td></tr>
+<tr><td>MW</td><td>Malawi</td><td>X</td><td></td></tr>
+<tr><td>MY</td><td>Malaysia</td><td></td><td></td></tr>
+<tr><td>MZ</td><td>Mozambico</td><td>X</td><td></td></tr>
+<tr><td>NE</td><td>Niger</td><td>X</td><td></td></tr>
+<tr><td>NG</td><td>Nigeria</td><td></td><td></td></tr>
+<tr><td>NI</td><td>Nicaragua</td><td></td><td></td></tr>
+<tr><td>NP</td><td>Nepal</td><td>X</td><td></td></tr>
+<tr><td>NR</td><td>Nauru</td><td></td><td></td></tr>
+<tr><td>NU</td><td>Niue</td><td></td><td></td></tr>
+<tr><td>PG</td><td>Papua Nuova Guinea</td><td></td><td></td></tr>
+<tr><td>PK</td><td>Pakistan</td><td></td><td></td></tr>
+<tr><td>PW</td><td>Palau</td><td></td><td></td></tr>
+<tr><td>PY</td><td>Paraguay</td><td></td><td></td></tr>
+<tr><td>RW</td><td>Ruanda</td><td>X</td><td></td></tr>
+<tr><td>SB</td><td>Isole Salomone</td><td>X</td><td></td></tr>
+<tr><td>SD</td><td>Sudan</td><td>X</td><td></td></tr>
+<tr><td>SH</td><td>Sant’Elena</td><td></td><td></td></tr>
+<tr><td>SL</td><td>Sierra Leone</td><td>X</td><td></td></tr>
+<tr><td>SN</td><td>Senegal</td><td>X</td><td></td></tr>
+<tr><td>SO</td><td>Somalia</td><td>X</td><td></td></tr>
+<tr><td>SR</td><td>Suriname</td><td></td><td></td></tr>
+<tr><td>SS</td><td>Sudan del Sud</td><td>X</td><td></td></tr>
+<tr><td>ST</td><td>São Tomé e Príncipe</td><td>X</td><td></td></tr>
+<tr><td>SV</td><td>El Salvador</td><td></td><td></td></tr>
+<tr><td>SY</td><td>Siria</td><td></td><td></td></tr>
+<tr><td>TD</td><td>Ciad</td><td>X</td><td></td></tr>
+<tr><td>TG</td><td>Togo</td><td>X</td><td></td></tr>
+<tr><td>TH</td><td>Thailandia</td><td></td><td></td></tr>
+<tr><td>TJ</td><td>Tagikistan</td><td></td><td></td></tr>
+<tr><td>TK</td><td>Tokelau</td><td></td><td></td></tr>
+<tr><td>TL</td><td>Timor-Leste</td><td>X</td><td></td></tr>
+<tr><td>TM</td><td>Turkmenistan</td><td></td><td></td></tr>
+<tr><td>TO</td><td>Tonga</td><td></td><td></td></tr>
+<tr><td>TV</td><td>Tuvalu</td><td>X</td><td></td></tr>
+<tr><td>TZ</td><td>Tanzania</td><td>X</td><td></td></tr>
+<tr><td>UG</td><td>Uganda</td><td>X</td><td></td></tr>
+<tr><td>UY</td><td>Uruguay</td><td></td><td></td></tr>
+<tr><td>UZ</td><td>Uzbekistan</td><td></td><td></td></tr>
+<tr><td>VC</td><td>Saint Vincent e Grenadine</td><td></td><td></td></tr>
+<tr><td>VE</td><td>Venezuela</td><td></td><td></td></tr>
+<tr><td>VN</td><td>Vietnam</td><td></td><td></td></tr>
+<tr><td>VU</td><td>Vanuatu</td><td></td><td></td></tr>
+<tr><td>WF</td><td>Wallis e Futuna</td><td></td><td></td></tr>
+<tr><td>WS</td><td>Samoa</td><td></td><td></td></tr>
+<tr><td>XK</td><td>Kosovo</td><td></td><td></td></tr>
+<tr><td>YE</td><td>Yemen</td><td>X</td><td></td></tr>
+<tr><td>ZM</td><td>Zambia</td><td>X</td><td></td></tr>
+<tr><td>ZW</td><td>Zimbabwe</td><td></td><td></td></tr>
 </table>
 
 Allegato 2[^t-2]
 
-(art. 3 e 4)
+(art. 3 cpv. 1, 4 cpv. 1 e 8 cpv. 3)
 
 ## Elenco delle preferenze
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 25 mar. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Aggiornato dalla cifra I cpv. 2 dell’O del 10 giu. 2011 ([RU 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dalla cifra I cpv. 2 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. 8 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. 5 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 25 mar. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Aggiornato dalla cifra I cpv. 2 dell’O del 10 giu. 2011 ([RU 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dalla cifra I cpv. 2 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. 8 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. 5 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)) e della cifra II cpv. 2 dell’O del 29 gen. 2025, in vigore dal 1° apr. 2026 ([RU 2025 93](https://fedlex.data.admin.ch/eli/oc/2025/93), [251](https://fedlex.data.admin.ch/eli/oc/2025/251)cifra I).
 
 <table>
 <tr><th colspan="2">Voce di tariffa[^annex2-lvlu1-1]</th><th colspan="2">Aliquota di dazio preferenziale</th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -370,7 +371,8 @@ Allegato 2[^t-2]
 <tr><td></td><td>60 11</td><td></td><td>6.—</td><td></td><td></td></tr>
 <tr><td></td><td>60 21</td><td></td><td>15.—</td><td></td><td></td></tr>
 <tr><td></td><td>60 91</td><td></td><td>30.—</td><td></td><td></td></tr>
-<tr><td>0208.</td><td>10 00/90 90</td><td></td><td>15.—</td><td></td><td></td></tr>
+<tr><td>0208.</td><td>10 00</td><td></td><td>15.—</td><td></td><td></td></tr>
+<tr><td>0208.</td><td>30 00/90 90</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>0210.</td><td>11 10</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>11 91</td><td></td><td>75.—</td><td></td><td></td></tr>
 <tr><td></td><td>19 10</td><td>esente</td><td></td><td></td><td></td></tr>
