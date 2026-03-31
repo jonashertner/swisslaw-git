@@ -4,11 +4,10 @@ number: "213.21"
 title: Verordnung über die Organisation der Oberstaatsanwaltschaft und der Staatsanwaltschaften (VOSTA)
 short: VOSTA
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2026-04-01
+version: "2026-04-01"
+nachtrag: "132"
 adopted: 2004-10-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-213_21-2004_10_27-2005_01_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-213_21-2004_10_27-2005_01_01-132.html"
 text: pdf
 ---
 
@@ -71,7 +70,7 @@ Der Regierungsrat kann die Oberstaatsanwältinnen und Oberstaatsanwälte ablöse
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 26 - 132
 
 <sup>4</sup> Sie stellt die Koordination der an der Strafverfolgung beteiligten Behörden im Kanton sowie mit anderen Amtsstellen der Kantone und des Bundes sicher und sorgt für eine einheitliche Rechtsanwendung.
 
@@ -97,7 +96,7 @@ a.[^5-1] Mitwirkung bei der Antragstellung der Direktion der Justiz und des Inne
 
 [^5-1]: Fassung gemäss RRB vom 3. November 2010 (OS 65, 770; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
 [^5-2]: LS 211.1.
-[^5-3]: Aufgehoben durch RRB vom 15. Januar 2020 (OS 75, 104; ABl 2020-01-31). In Kraft seit 1. April 2020. 1. 4. 20 - 108 5
+[^5-3]: Aufgehoben durch RRB vom 15. Januar 2020 (OS 75, 104; ABl 2020-01-31). In Kraft seit 1. April 2020.
 [^5-4]: Fassung gemäss RRB vom 15. Januar 2020 (OS 75, 104; ABl 2020-01-31). In Kraft seit 1. April 2020.
 
 ### 2. Abschnitt: Staatsanwaltschaften
@@ -124,20 +123,23 @@ a.[^5-1] Mitwirkung bei der Antragstellung der Direktion der Justiz und des Inne
 
 **Kantonale Staatsanwaltschaften**
 
-§ 10.[^hAZuständigkeiten-1] <sup>1</sup> Zur Bearbeitung besonderer Geschäfte bestehen drei für das ganze Kantonsgebiet zuständige Staatsanwaltschaften:
+§ 10.[^hAZuständigkeiten-2] <sup>1</sup> Zur Bearbeitung besonderer Geschäfte bestehen vier für das ganze Kantonsgebiet zuständige Staatsanwaltschaften:
 
 - a. Staatsanwaltschaft I für schwere Gewaltkriminalität,
 
 - b. Staatsanwaltschaft II für Schwerpunktkriminalität, Cybercrime und Besondere Untersuchungen,
 
-- c. Staatsanwaltschaft III für qualifizierte Wirtschaftskriminalität und internationale Rechtshilfe.
+- c. Staatsanwaltschaft III für qualifizierte Wirtschaftskriminalität und internationale Rechtshilfe,
 
-<sup>2</sup> Der Amtssitz der Kantonalen Staatsanwaltschaften ist Zürich. § 10 a.[^hAZuständigkeiten-2] Die Direktion der Justiz und des Innern kann Zweigstellen einrichten.
+- d. Entlastungsstaatsanwaltschaft zur Entlastung der anderen Staatsanwaltschaften.
+
+<sup>2</sup> Der Amtssitz der Kantonalen Staatsanwaltschaften ist Zürich. § 10 a.[^hAZuständigkeiten-3] Die Direktion der Justiz und des Innern kann Zweigstellen einrichten.
 
 **Zweigstellen**
 
 [^hAZuständigkeiten-1]: Fassung gemäss RRB vom 15. Januar 2020 (OS 75, 104; ABl 2020-01-31). In Kraft seit 1. April 2020.
-[^hAZuständigkeiten-2]: Eingefügt durch RRB vom 3. November 2010 (OS 65, 770; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
+[^hAZuständigkeiten-2]: Fassung gemäss RRB vom 28. Januar 2026 (OS 81, 87; ABl 2026-02-13). In Kraft seit 1. April 2026. 1. 4. 26 - 132 5
+[^hAZuständigkeiten-3]: Eingefügt durch RRB vom 3. November 2010 (OS 65, 770; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
 
 ### B. Organisation
 
@@ -161,13 +163,13 @@ Jede Staatsanwaltschaft wird von einer Leitenden Staatsanwältin oder einem Leit
 
 <sup>2</sup> Die zentralen Dienste sind der Leitung der Staatsanwaltschaft direkt unterstellt.
 
+**3**
+
+- 1\. 4. 26 - 132
+
 <sup>3</sup> Die Oberstaatsanwaltschaft kann a. die zentralen Dienste verschiedener Staatsanwaltschaften zusammenlegen,
 
 - b. den zentralen Diensten allgemeine Weisungen erteilen,
-
-**3**
-
-- 1\. 4. 20 - 108
 
 - c. bei Staatsanwaltschaften mit Zweigstellen die dezentrale Führung der zentralen Dienste bewilligen.
 
@@ -178,7 +180,7 @@ Jede Staatsanwaltschaft wird von einer Leitenden Staatsanwältin oder einem Leit
 §§ 22–26.[^12-2]
 
 [^12-1]: Fassung gemäss RRB vom 15. Januar 2020 (OS 75, 104; ABl 2020-01-31). In Kraft seit 1. April 2020.
-[^12-2]: Aufgehoben durch RRB vom 15. Januar 2020 (OS 75, 104; ABl 2020-01-31). In Kraft seit 1. April 2020. 1. 4. 20 - 108 5
+[^12-2]: Aufgehoben durch RRB vom 15. Januar 2020 (OS 75, 104; ABl 2020-01-31). In Kraft seit 1. April 2020.
 [^12-3]: Aufgehoben durch RRB vom 3. November 2010 (OS 65, 770; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
 
 ### 3. Abschnitt: Schluss- und Übergangsbestimmungen
