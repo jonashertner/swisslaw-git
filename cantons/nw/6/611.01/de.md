@@ -4,13 +4,12 @@ number: "611.01"
 title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Baugesetz, BauG"
 language: de
-version: 2026-01-01
-valid_until: 2026-03-31
-version_adopted: 2024-10-23
+version: 2026-04-01
+version_adopted: 2025-12-17
 adopted: 1988-04-24
 in_force: 1989-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.01"
-pdf: "https://gesetze.nw.ch/api/de/versions/1444/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1444/pdf_file"
 
 (Baugesetz, BauG)
 
-vom 24.04.1988 (Stand 01.01.2026)
+vom 24.04.1988 (Stand 01.04.2026)
 
 Die Landsgemeinde,
 
@@ -694,15 +693,7 @@ beschliesst:
 
 #### Art. 133
 
-**Reklameverordnung**
-
-<sup>1</sup> Der Landrat erlässt für das ganze Kantonsgebiet eine Reklameverordnung. Sie regelt das Anbringen und Entfernen sowie die Gestaltung von Reklamen im Freien.
-
-<sup>2</sup> Die Reklameverordnung dient der Verkehrssicherheit sowie dem Schutz des Orts- und Landschaftsbildes, der Kultur- und Naturdenkmäler und der Aussichtspunkte.
-
-<sup>3</sup> Sie umschreibt die Bewilligungspflicht und das Bewilligungsverfahren.
-
-<sup>4</sup> Für die Bewilligung kann eine angemessene Gebühr erhoben werden, bei deren Bemessung insbesondere der Standort und die Grösse sowie die Dauer der Aufstellung der Reklame zu berücksichtigen sind. Der Gebührentarif ist in der Reklameverordnung festzusetzen.
+**…**
 
 ### 5.2 Erschliessung
 
