@@ -4,13 +4,12 @@ number: "413.13"
 title: "Schulordnung des Gewerblich-industriellen Bildungszentrums, des Kaufmännischen Bildungszentrums und des Landwirtschaftlichen Bildungs- und Beratungszentrums"
 short: Schulordnung Bildungszentren
 language: de
-version: 2018-07-01
-valid_until: 2026-03-31
-version_adopted: 2018-06-22
+version: 2026-04-01
+version_adopted: 2026-03-13
 adopted: 2008-07-11
 in_force: 2008-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.13"
-pdf: "https://bgs.zg.ch/api/de/versions/1828/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2992/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/1828/pdf_file"
 
 (Schulordnung Bildungszentren)
 
-Vom 11. Juli 2008 (Stand 1. Juli 2018)
+Vom 11. Juli 2008 (Stand 1. April 2026)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
-gestützt auf § 2 Abs. 1 Bst. f des Einführungsgesetzes Berufsbildung vom 30. August 2001[^ingress-1] und § 6 Abs. 1 Ziff. 3 der Delegationsverordnung (DelV) vom 28. November 2017[^ingress-2],
+gestützt auf § 2 Abs. 1 Bst. f des Einführungsgesetzes zu den Bundesgesetzen über die Berufsbildung und die Fachhochschulen (EG Berufsbildung) vom 30. August 2001[^ingress-1] und § 6 Abs. 1 Ziff. 3 der Delegationsverordnung (DelV) vom 28. November 2017[^ingress-2],
 
 erlässt folgende Schulordnung Bildungszentren:
 
@@ -34,21 +33,21 @@ erlässt folgende Schulordnung Bildungszentren:
 
 #### § 1
 
-<sup>1</sup> Die Schulordnung regelt das Absenzen-, das Dispensations- und das Disziplinarwesen im Pflichtunterricht. Ausserhalb dieses Bereichs sind von der Leitung des betroffenen Bildungszentrums schuleigene Regelungen zu treffen, soweit die nachstehenden Bestimmungen nicht oder nicht in analoger Weise herangezogen werden können.
+<sup>1</sup> Die Schulordnung regelt das Abwesenheits- und das Disziplinarwesen im Pflichtunterricht. Ausserhalb dieses Bereichs sind von der Leitung des betroffenen Bildungszentrums schuleigene Regelungen zu treffen, soweit die nachstehenden Bestimmungen nicht oder nicht in analoger Weise herangezogen werden können.
 
 ## 2. Grundsatz
 
 #### § 2
 
-<sup>1</sup> Die Lernenden haben den Anordnungen der Schulleitung, der Lehrpersonen und der Mitarbeitenden ihres Bildungszentrums Folge zu leisten und ihnen sowie den übrigen Lernenden mit Respekt zu begegnen. Die Lernenden arbeiten im Unterricht aktiv mit und erledigen ihre Hausaufgaben gemäss den Vorgaben der Lehrpersonen. Schulleitung, Lehrpersonen, Mitarbeitende des Bildungszentrums und Lernende sorgen mit einer konstruktiven Haltung dafür, dass die im Schulleitbild vermittelte Grundhaltung zum Tragen kommt und sich Disziplinarmassnahmen möglichst erübrigen. Zu den Gebäuden und Einrichtungen ist Sorge zu tragen.
+<sup>1</sup> Die Lernenden haben den Anordnungen der Schulleitung, der Lehrpersonen und der Mitarbeitenden ihres Bildungszentrums Folge zu leisten und ihnen sowie den übrigen Lernenden mit Respekt zu begegnen. Die Lernenden arbeiten im Unterricht aktiv mit und erledigen ihre Hausaufgaben gemäss den Vorgaben der Lehrpersonen. Schulleitung, Lehrpersonen, Mitarbeitende des Bildungszentrums und Lernende sorgen mit einer konstruktiven Haltung dafür, dass die im Schulleitbild vermittelte Grundhaltung zum Tragen kommt und sich Disziplinarmassnahmen möglichst erübrigen. Zu den Gebäuden und Einrichtungen ist Sorge zu tragen. Sie sind sauber und ordentlich zu hinterlassen.
 
 <sup>2</sup> Die Lernenden haben das Recht, von Lehrpersonen und Mitgliedern der Schulleitung angehört zu werden.
 
-<sup>3</sup> Absenzen und Fehlverhalten im Unterricht, die schwerwiegende Probleme zum Ausdruck bringen, sind vertieft abzuklären.
+<sup>3</sup> Abwesenheiten und Fehlverhalten im Unterricht, die schwerwiegende Probleme zum Ausdruck bringen, sind vertieft abzuklären.
 
-## 3. Absenzen und Dispensation
+## 3. Abwesenheiten
 
-### 3.1. Allgemeines
+### 3.1.
 
 #### § 2a
 
@@ -56,75 +55,60 @@ erlässt folgende Schulordnung Bildungszentren:
 
 #### § 3
 
-<sup>1</sup> Absenzen vom Unterricht sind in geeigneter Form festzuhalten. Versäumte Lektionen (Pflichtunterricht, Freifächer, Stützkurse und obligatorische Exkursionen) werden im Semesterzeugnis als Absenz eingetragen.
+<sup>1</sup> Abwesenheiten vom Unterricht sind in geeigneter Form festzuhalten.
 
 <sup>2</sup> Der Lehrstoff der versäumten Lektionen muss von den Lernenden auf eigene Initiative nachgearbeitet werden. Das Nachholen verpasster Prüfungen kann auch ausserhalb der üblichen Unterrichtszeiten erfolgen.
 
-<sup>3</sup> Fehlen Lernende pro Semester mehr als drei Schultage hintereinander oder vereinzelt, verlangt die zuständige Lehrperson eine schriftliche Begründung; die Schule ist spätestens ab dem dritten versäumten Schultag über die Gründe für diese Absenz zu benachrichtigen.
+<sup>3</sup> Die Schulleitung kann bei längeren Abwesenheiten ein ärztliches Zeugnis verlangen.
 
-<sup>4</sup> Lernende, die aus Unfall- oder Krankheitsgründen am Sportunterricht nicht teilnehmen können, melden sich bei der zuständigen Lehrperson, welche entsprechende Massnahmen anordnet. Die Schulleitung kann bei längeren Abwesenheiten ein ärztliches Zeugnis verlangen.
+<sup>4</sup> Lernende, die aus Unfall- oder Krankheitsgründen am Sportunterricht nicht teilnehmen können, melden sich bei der zuständigen Lehrperson, welche entsprechende Massnahmen anordnet.
 
 <sup>5</sup> Lernende, die ohne zweckmässige Ausrüstung zum Sportunterricht erscheinen, werden von der Lehrperson für die Dauer des Sportunterrichts anderweitig beschäftigt. Es können Massnahmen gemäss Disziplinarordnung angeordnet werden.
 
-### 3.2. Absenzen
+### 3.2.
 
 #### § 4
 
-<sup>1</sup> Als akzeptierte Absenzen gelten:
+<sup>1</sup> Bei unvorhersehbaren Abwesenheiten ist die Schule in geeigneter Form zu informieren.
 
-- a) Krankheit, Unfall oder ausserordentliche Ereignisse, welche die Lernenden nicht beeinflussen können;
-- b) Ausserordentliche Ereignisse in der Familie der Lernenden;
-- c) Militär-, Feuerwehr- und Zivilschutzdienst;
-- d) Arzt- und Zahnarztbesuch in Not- und Ausnahmefällen;
-- e) ausserschulische Jugendarbeit (Regelung gemäss Art. 329e OR und Merkblatt des Bundesamts für Kultur);
-- f) durch die Schulleitung bewilligte Dispensation für Sonderfälle; die Schulleitung erlässt eine interne Weisung.
-
-<sup>2</sup> Begründungen für Absenzen sind den betroffenen Lehrpersonen, soweit möglich und zumutbar, innert vier Schulwochen nach der Absenz zur Unterschrift vorzulegen. Sie sind vorher von den Lernenden und den Lehrvertragsparteien zu unterzeichnen.
-
-<sup>3</sup> Als nicht akzeptierte Absenzen gelten:
-
-- a) Fernbleiben vom Unterricht ohne akzeptablen Grund;
+- a) …
 - b) …
-- c) Nichtbeibringen der Unterschriften von Absenzen gemäss Abs. 2 innerhalb von vier Schulwochen;
-- d) Nichtbeibringen eines verlangten Arztzeugnisses;
-- e) Nichteinholen einer Dispens bei vorhersehbarer Absenz.
+- c) …
+- d) …
+- e) …
+- f) …
 
-### 3.3. Dispensationsgesuche
+<sup>2</sup> Bei vorhersehbarer Abwesenheit ist die Schule frühestmöglich schriftlich zu informieren.
+
+<sup>3</sup> …
+
+### 3.3.
 
 #### § 5
 
-<sup>1</sup> Für vorhersehbare Abwesenheiten ist mindestens vier Schulwochen zum Voraus ein Dispensationsgesuch bei der Schulleitung einzureichen. Beim Entscheid können Verhalten, Fleiss und Leistung der Lernenden mitberücksichtigt werden.
+**…**
 
-<sup>2</sup> Die Schulleitung kann die Kompetenz, über Dispensationsgesuche zu entscheiden, die im Einzelfall weniger als zwei Schulwochen oder total pro Semester nicht mehr als drei Schulwochen betreffen, an die Klassenlehrpersonen delegieren.
-
-<sup>3</sup> Wird ein Ereignis, für das ein Dispensationsgesuch gestellt werden muss, den Lernenden weniger als vier Schulwochen vor dem Eintreten bekannt, ist das Einverständnis der zuständigen Instanz einzuholen und die Klassenlehrperson umgehend zu informieren. Die Absenz ist zu begründen.
-
-<sup>4</sup> Über Dispensationen, welche die Lehrabschlussprüfung beeinflussen können, entscheidet das Amt für Berufsbildung.
-
-### 3.4. Massnahmen bei nicht akzeptierten Absenzen
+### 3.4.
 
 #### § 6
 
-<sup>1</sup> Für die ganze Dauer der gesetzlichen Lehrzeit gelten bei nicht akzeptierten Absenzen, für welche die Lernenden zur Verantwortung gezogen werden, die folgenden Massnahmen:
+<sup>1</sup> Für die ganze Dauer der gesetzlichen Lehrzeit gelten bei Abwesenheiten, für welche die Lernenden zur Verantwortung gezogen werden, die folgenden Massnahmen:
 
-- a) Bei der ersten nicht akzeptierten Absenz gemäss § 4 Abs. 3: mündliche Ermahnung der Lernenden durch die betroffenen Lehrpersonen, Meldung an die Klassenlehrpersonen und an den Lehrbetrieb.
-- b) Bei der zweiten nicht akzeptierten Absenz gemäss § 4 Abs. 3: schriftliche Verwarnung der Lernenden durch die Schulleitung mit der Androhung, bei Wiederholung das Lehrverhältnis durch das Amt für Berufsbildung überprüfen zu lassen. Die Schulleitung kann diese Kompetenz an die Klassenlehrpersonen delegieren.
-- c) Bei der dritten nicht akzeptierten Absenz gemäss § 4 Abs. 3: schriftliche Verwarnung der Lernenden durch die Schulleitung und Meldung an das Amt für Berufsbildung mit Antrag auf Überprüfung oder auf Widerruf der Genehmigung des Lehrvertrags.
+- a) Bei den ersten beiden Fällen: mündliche Ermahnung der Lernenden durch die betroffenen Lehrpersonen und Meldung an die Klassenlehrpersonen, den Lehrbetrieb sowie bei Minderjährigen an deren gesetzliche Vertretung.
+- b) …
+- c) Beim dritten Fall: schriftliche Verwarnung der Lernenden durch die Schulleitung, mit der Androhung, dass bei Wiederholung das Lehrverhältnis durch das Amt für Berufsbildung überprüft wird. Die Verwarnung wird der Klassenlehrperson, dem Lehrbetrieb, bei Minderjährigen deren gesetzlichen Vertretung sowie dem Amt für Berufsbildung zugestellt. Die Schulleitung kann diese Kompetenz an die Klassenlehrpersonen delegieren.
 
-<sup>1a</sup> Im Fall von Bst. a werden die Lehrvertragsparteien und die Schulleitung über die Massnahme benachrichtigt; im Fall von Bst. b und c wird zusätzlich das Amt für Berufsbildung informiert.
+<sup>1a</sup> …
 
-<sup>2</sup> Bei nicht akzeptierten Absenzen, für welche die Lehrbetriebe verantwortlich sind, gelten folgende Massnahmen:
+<sup>2</sup> …
 
-- a) Beim ersten nicht akzeptierten Fernbleiben vom Unterricht: schriftliche Mitteilung an die Ausbildenden im Lehrbetrieb durch die Schulleitung.
-- b) Bei weiterem nicht akzeptiertem Fernbleiben vom Unterricht: Antrag an das Amt für Berufsbildung, Massnahmen zu ergreifen.
+<sup>2a</sup> …
 
-<sup>2a</sup> Im Fall von Bst. a werden die Lernenden und das Amt für Berufsbildung, im Fall von Bst. b werden bis zur Volljährigkeit auch diejenigen Personen informiert, welche die elterliche Sorge innehaben.
+<sup>3</sup> …
 
-<sup>3</sup> In besonders schwerwiegenden Fällen können die Verfahren gemäss Abs. 1 und 2 abgekürzt werden.
+<sup>4</sup> …
 
-<sup>4</sup> Für Sanktionen im Zusammenhang mit verspätetem Erscheinen zum Unterricht ist die Schule zuständig.
-
-## 4. Disziplinarordnung – Sanktionen
+## 4. Disziplinarordnung
 
 #### § 7
 
@@ -138,16 +122,16 @@ erlässt folgende Schulordnung Bildungszentren:
 <sup>2</sup> Lehrpersonen und Schulleitung haben folgende Kompetenzen (abschliessende Aufzählung; die Massnahmen können auch kombiniert werden):
 
 - a) Aussprache und Ermahnung der Lernenden;
-- b) Schriftliche Verwarnung der Lernenden; über die Verwarnung werden die Lehrvertragsparteien informiert;
-- c) Verlangen einer schriftlichen Entschuldigung oder Erklärung (mit oder ohne Visum Lehrvertragsparteien);
+- b) Schriftliche Verwarnung der Lernenden mit Information der Lehrbetriebe, bei Minderjährigen deren gesetzliche Vertretung sowie des Amts für Berufsbildung;
+- c) Verlangen einer schriftlichen Entschuldigung oder Erklärung (mit oder ohne Visum des Lehrbetriebs und bei Minderjährigen deren gesetzlichen Vertretung);
 - d) Eintrag einer Zeugnisbemerkung;
-- e) Wegweisung der Lernenden in die Lehrbetriebe mit telefonischer Information der Berufsbildenden im Lehrbetrieb;
+- e) Wegweisung der Lernenden in die Lehrbetriebe mit Information des Lehrbetriebs und bei Minderjährigen deren gesetzliche Vertretung;
 - f) Aussprache mit weiteren Personen;
 - g) Anordnung einer sinnvollen Arbeitsleistung für das Bildungszentrum;
-- h) Zuweisung zu einer schulinternen oder schulexternen Betreuung durch einen Spezialdienst;
-- i) Meldung an die Schulleitung für Massnahmen gemäss Abs. 3.
+- h) Zuweisung zu einer schulinternen oder schulexternen Betreuung durch einen Spezialdienst. Der Lehrbetrieb und bei Minderjährigen deren gesetzliche Vertretung sind über die Massnahmen zu informieren;
+- i) Antrag an die Schulleitung für Massnahmen gemäss Abs. 3.
 
-<sup>3</sup> Zusätzliche Kompetenzen der Schulleitung (die Massnahmen können auch kombiniert werden):
+<sup>3</sup> Zusätzliche Kompetenzen der Schulleitung (die Massnahmen können auch kombiniert werden) mit jeweiliger Information an den Lehrbetrieb, bei Minderjährigen an die gesetzliche Vertretung und an das Amt für Berufsbildung:
 
 - a) Versetzen der Lernenden in eine Parallelklasse;
 - b) Ausschluss der Lernenden aus dem Freifach- oder Stützkursunterricht;
@@ -157,7 +141,7 @@ erlässt folgende Schulordnung Bildungszentren:
 
 <sup>4</sup> Leitende Mitarbeitende des Bildungszentrums haben sinngemäss die gleichen Kompetenzen wie die Lehrpersonen gemäss Abs. 2 Bst. a, b, c, f und i.
 
-## 5. Prüfungen und bewertete Arbeiten – Sanktionen
+## 5. Prüfungen und bewertete Arbeiten
 
 #### § 8
 
@@ -174,14 +158,10 @@ erlässt folgende Schulordnung Bildungszentren:
 
 [^9-1]: BGS [413.11](https://bgs.zg.ch/data/413.11/de)
 
-## 7. Schlussbestimmungen
+## 7.
 
 #### § 10
 
-<sup>1</sup> Diese Schulordnung tritt auf den 1. August 2008 in Kraft.
-
-<sup>2</sup> Die Schulordnung Bildungszentren vom 4. Juli 2002[^10-1] wird aufgehoben.
-
-[^10-1]: GS 27, 433
+**…**
 
 GS 29, 869
