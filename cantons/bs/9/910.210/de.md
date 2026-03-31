@@ -4,13 +4,12 @@ number: "910.210"
 title: Verordnung zum Standortförderungsgesetz
 short: StaföV
 language: de
-version: 2025-06-30
-valid_until: 2026-03-31
-version_adopted: 2025-06-24
+version: 2026-04-01
+version_adopted: 2026-03-31
 adopted: 2025-06-24
 in_force: 2025-06-30
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/910.210"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6619/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6815/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Wirtschaft
 
 (StaföV)
 
-Vom 24. Juni 2025 (Stand 30. Juni 2025)
+Vom 24. Juni 2025 (Stand 1. April 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -94,7 +93,21 @@ beschliesst:
 
 #### § 7
 
-<sup>1</sup> Gesuchsberechtigt sind juristische Personen, die zur Hauptsache in den forschungs- und entwicklungsorientierten (F+E) Bereichen tätig sind. Darunter fallen die folgenden, vom Bundesamt für Statistik bezeichneten F+E-Wirtschaftszweige:
+<sup>1</sup> Gesuchsberechtigt sind juristische Personen, deren förderberechtigte Aufwendungen für Forschung und Entwicklung (F+E) im Durchschnitt der letzten drei abgeschlossenen Geschäftsjahre mindestens 5 Prozent ihrer Gesamtaufwendungen betragen haben.
+
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
+- h) …
+- i) …
+
+<sup>2</sup> Verfügt eine juristische Person noch nicht über drei abgeschlossene Geschäftsjahre im Sinne von Abs. 1, werden die jeweils verfügbaren Geschäftsjahre zur Berechnung herangezogen.
+
+<sup>3</sup> Bei juristischen Personen, die zur Hauptsache in den forschungs- und entwicklungsorientierten Bereichen tätig sind, kann auf den Nachweis nach Abs. 1 verzichtet werden. Darunter fallen die folgenden, vom Bundesamt für Statistik bezeichneten F+E-Wirtschaftszweige:
 
 - a) Nahrungsmittel;
 - b) Chemie;
@@ -105,10 +118,6 @@ beschliesst:
 - g) Herstellung von Informations- und Kommunikationstechnologie (IKT);
 - h) IKT-Dienstleistungen;
 - i) Forschung und Entwicklung.
-
-<sup>2</sup> Kann eine juristische Person nachweisen, dass ihre förderberechtigten Aufwendungen für Forschung und Entwicklung im Durchschnitt der letzten drei abgeschlossenen Geschäftsjahre mindestens 10 Prozent ihrer Gesamtaufwendungen betragen haben, ist sie ebenfalls gesuchsberechtigt.
-
-<sup>3</sup> Verfügt sie noch nicht über drei abgeschlossene Geschäftsjahre im Sinne von Abs. 2, werden die jeweils verfügbaren Geschäftsjahre zur Berechnung herangezogen.
 
 ### 3.2.2 Geförderte Personalaufwendungen gemäss § 5e Abs. 1 lit. a StaföG
 
@@ -275,69 +284,86 @@ beschliesst:
 
 ### 3.4 Förderung im Bereich Umwelt
 
-### 3.4.1 Geförderte Massnahmen zur Reduktion der direkten Treibhausgasemissionen im Kanton und in der Schweiz
+### 3.4.1 Geförderte Massnahmen zur Reduktion der direkten Treibhausgasemissionen oder zur Steigerung der Energieeffizienz
 
 #### § 23
 
-**Geförderte Massnahmen**
+**Fördergegenstand**
 
-<sup>1</sup> Gefördert werden verminderte Tonnen CO₂-Äquivalente (CO₂eq) für überverpflichtend umgesetzte Massnahmen zur Reduktion direkter Treibhausgasemissionen (Scope 1 gemäss Greenhouse Gas Protocol [GHG-Protokoll]) im Kanton und in der Schweiz.
+<sup>1</sup> Gefördert werden umgesetzte Massnahmen, die eine Reduktion direkter Treibhausgasemissionen (Scope 1 gemäss Greenhouse Gas Protocol [GHG-Protokoll]) oder eine Steigerung der Energieeffizienz bewirken.
+
+<sup>2</sup> Die Massnahme muss gegenüber dem Zustand vor der Massnahmenumsetzung einen massgeblichen Beitrag zur Reduktion direkter Treibhausgasemissionen oder zur Steigerung der Energieeffizienz leisten.
+
+<sup>3</sup> Eine umgesetzte Massnahme kann im Rahmen von Abs. 1 nur einmal gefördert werden und muss im massgebenden Geschäftsjahr umgesetzt worden sein.
+
+<sup>4</sup> Nicht gefördert werden:
+
+- a) Ersatzneubauten;
+- b) Massnahmen, die im Rahmen des nationalen Gebäudeprogramms förderberechtigt sind;
+- c) Stromeffizienzmassnahmen, die im Rahmen des Förderinstrumentes «ProKilowatt» bereits Fördermittel erhalten haben;
+- d) Massnahmen, bei denen Offsets oder vergleichbare Instrumente eingesetzt wurden;
+- e) Massnahmen, bei denen fossile Energieträger durch andere fossile Energieträger ersetzt werden.
+
+<sup>5</sup> Massnahmen, die bereits über ein anderes Förderinstrument des Kantons finanziell unterstützt wurden, können von der Förderung ausgeschlossen werden.
 
 #### § 24
 
 **Fördersätze**
 
-<sup>1</sup> Die Förderung beträgt pro verminderter Tonne CO₂eq je nach Ort der Massnahmenumsetzung:
+<sup>1</sup> Die Förderung beträgt je nach Ort der Massnahmenumsetzung:
 
-- a) im Kanton Fr. 150 pro verminderter Tonne CO₂eq;
-- b) in der übrigen Schweiz Fr. 75 pro verminderter Tonne CO₂eq.
+- a) 40 Prozent der Investitionskosten einer im Kanton umgesetzten Massnahme;
+- b) 20 Prozent der Investitionskosten einer in der übrigen Schweiz umgesetzten Massnahme.
 
-<sup>2</sup> Die Verminderung in Tonnen CO₂eq durch eine Massnahme wird über deren Wirkungsdauer kumuliert berechnet und einmalig vergütet. Die Massnahme muss im massgebenden Geschäftsjahr umgesetzt sein.
+<sup>2</sup> …
 
-<sup>3</sup> Es werden maximal 40 Prozent der Investitionskosten einer umgesetzten Massnahme gefördert.
+<sup>3</sup> …
 
-### 3.4.2 Geförderte Massnahmen zur Steigerung der Energieeffizienz im Kanton und in der Schweiz
+#### § 24a
+
+**Zu- und Abschläge**
+
+<sup>1</sup> Alle förderberechtigten Massnahmen des massgebenden Geschäftsjahres werden innerhalb der jeweiligen Kategorie gemäss § 23 (direkte Treibhausgasemissionen oder Energieeffizienz) nach dem Prinzip der Kosteneffizienz (Verhältnis der Reduktionswirkung zum investierten Franken) bewertet.
+
+<sup>2</sup> Anschliessend werden die Massnahmen gemäss ihrer Kosteneffizienz in absteigender Reihenfolge geordnet und in Drittel eingeteilt. Das oberste Drittel enthält die kosteneffizientesten Massnahmen.
+
+<sup>3</sup> Für die einzelnen Drittel gelten folgende Zu- oder Abschläge auf die Förderbeiträge gemäss § 24:
+
+- a) oberstes Drittel: Zuschlag von 25 Prozent;
+- b) mittleres Drittel: kein Zu- oder Abschlag;
+- c) unterstes Drittel: Abschlag von 25 Prozent.
+
+### 3.4.2
 
 #### § 25
 
-**Geförderte Massnahmen**
-
-<sup>1</sup> Gefördert werden eingesparte Kilowattstunden (kWh) Energie für überverpflichtend umgesetzte Massnahmen zur Steigerung der Energieeffizienz im Kanton und in der Schweiz.
+**…**
 
 #### § 26
 
-**Fördersätze**
+**…**
 
-<sup>1</sup> Die Förderung beträgt pro kWh eingesparter Energie je nach Ort der Massnahmenumsetzung:
-
-- a) im Kanton Rp. 4 pro eingesparter kWh Energie;
-- b) in der übrigen Schweiz Rp. 2 pro eingesparter kWh Energie.
-
-<sup>2</sup> Die Einsparung in kWh durch eine Massnahme wird über deren Wirkungsdauer kumuliert berechnet und einmalig vergütet. Die Massnahme muss im massgebenden Geschäftsjahr umgesetzt sein.
-
-<sup>3</sup> Es werden maximal 40 Prozent der Investitionskosten einer umgesetzten Massnahme gefördert.
-
-### 3.4.3 Geförderte Reduktion der Emissionsintensität direkter Treibhausgasemissionen weltweit
+### 3.4.3 Geförderte Reduktion der Emissionsintensität direkter Treibhausgasemissionen
 
 #### § 27
 
 **Fördergegenstand**
 
-<sup>1</sup> Gefördert werden weltweit verminderte Tonnen CO₂eq für die Reduktion der Emissionsintensität direkter Treibhausgasemissionen (Scope 1 gemäss GHG-Protokoll) im Vergleich zum Vorjahr.
+<sup>1</sup> Gefördert werden gesamthaft verminderte Tonnen CO₂-Äquivalente (CO₂eq) für die Reduktion der Emissionsintensität direkter Treibhausgasemissionen (Scope 1 gemäss GHG-Protokoll) im Vergleich zum Vorjahr.
 
 #### § 28
 
 **Fördersätze**
 
-<sup>1</sup> Die Förderung beträgt pro verminderter Tonne CO₂eq Fr. 15.
+<sup>1</sup> Die Förderung beträgt pro verminderter Tonne CO₂eq Fr. 30.
 
 <sup>2</sup> Der maximale Förderbetrag pro juristischer Person beträgt Fr. 5 Mio. im Jahr.
 
-### 3.4.4 Gemeinsame Bestimmungen im Bereich Umwelt
+### 3.4.4 Dokumentation
 
 #### § 29
 
-**Dokumentation der umgesetzten Massnahmen im Kanton oder in der Schweiz**
+**Dokumentation der umgesetzten Massnahmen**
 
 <sup>1</sup> Mit dem Beitragsgesuch sind für umgesetzte Massnahmen im Kanton oder in der Schweiz insbesondere folgende Angaben und Nachweise einzureichen:
 
@@ -345,33 +371,47 @@ beschliesst:
 - b) detaillier Nachweis über die Höhe der Investitionskosten;
 - c) Nachweis der Reduktion der direkten Treibhausgasemissionen beziehungsweise Nachweis der eingesparten Energie.
 
-<sup>2</sup> Zusätzlich muss zwingend eine Dokumentation der folgenden Instrumente eingereicht werden:
-
-- a) eine verpflichtende Zielvereinbarung oder das Monitoring von Teilnehmenden am Emissionshandelssystem (EHS);
-- b) falls keine Zielvereinbarung nach lit. a vorliegt, eine Zielvereinbarung als freiwillige Massnahme;
-- c) falls weder eine Zielvereinbarung nach lit. a noch nach lit. b vorliegt, eine vom Kanton anerkannte Dekarbonisierungs- oder Energieeffizienzanalyse.
+<sup>2</sup> …
 
 <sup>3</sup> Die Massnahmenwirkung, die Massnahmenumsetzung sowie die Höhe der Investitionskosten sind durch externe, vom Kanton anerkannte Energieberatende zu prüfen und zu bestätigen.
 
 #### § 30
 
-**Dokumentation der Reduktion der Treibhausgasintensität weltweit**
+**Dokumentation der Reduktion der Treibhausgasintensität**
 
-<sup>1</sup> Im Beitragsgesuch für eine Förderung weltweit gemäss §§ 27 und 28 ist im Rahmen der nichtfinanziellen Berichterstattung (Klimaberichterstattung) anhand eines Indikators die Reduktion der Emissionsintensität im Vergleich zum Vorjahr nachzuweisen.
+<sup>1</sup> Im Beitragsgesuch für eine Förderung gemäss §§ 27 und 28 ist im Rahmen der nichtfinanziellen Berichterstattung (Klimaberichterstattung) anhand der Indikatoren «Anzahl Mitarbeitende» oder «Vollzeitäquivalente» die Reduktion der Emissionsintensität im Vergleich zum Vorjahr nachzuweisen.
 
-<sup>2</sup> Die nichtfinanzielle Berichterstattung (Klimaberichterstattung) muss anhand eines international anerkannten Standards erstellt worden sein. Die Reduktion der Treibhausgasemissionen ist gemäss den Vorgaben des GHG-Protokolls zu berechnen und pro Tonne CO₂e (Scope 1) auszuweisen.
+<sup>1<sup>bis</sup></sup> In begründeten Ausnahmefällen kann vor Gesuchseinreichung auf Antrag hin ein alternativer Indikator bewilligt werden.
 
-<sup>3</sup> Der Bericht über nichtfinanzielle Belange ist durch eine vom Kanton anerkannte externe Prüfinstanz zu prüfen.
+<sup>2</sup> Die nichtfinanzielle Berichterstattung (Klimaberichterstattung) muss anhand eines international anerkannten Standards erstellt worden sein. Die Reduktion der Treibhausgasemissionen ist gemäss den Vorgaben des GHG-Protokolls zu berechnen und pro Tonne CO₂eq (Scope 1) auszuweisen.
+
+<sup>3</sup> Die in den Berichten über nichtfinanzielle Belange ausgewiesenen Treibhausgasemissionen sowie die Indikatoren gemäss Abs. 1 oder Abs. 1<sup>bis</sup> sind durch eine vom Kanton anerkannte externe Prüfinstanz zu prüfen.
+
+### 3.4.5 Gemeinsame Bestimmungen im Bereich Umwelt
 
 #### § 31
 
-**Mehrfachförderung**
+**Mindest- und Maximalhöhe der Förderbeiträge**
 
-<sup>1</sup> Eine umgesetzte Massnahme gemäss § 23 oder § 25 kann nur in einem Bereich (Reduktion der direkten Treibhausgasemissionen oder Steigerung der Energieeffizienz) und innerhalb dieses Bereiches jeweils nur für einen Ort (im Kanton oder in der übrigen Schweiz) gefördert werden.
+<sup>1</sup> Fördergesuche mit einer Beitragssumme von weniger als Fr. 2’000 werden nicht berücksichtigt.
 
-<sup>2</sup> Bei juristischen Personen, die sowohl Beiträge für Massnahmen im Bereich der Reduktion der direkten Treibhausgasemissionen im Kanton oder in der Schweiz gemäss § 23 als auch Beiträge im Bereich der Reduktion der Emissionsintensität direkter Treibhausgasemissionen weltweit gemäss § 27 beantragen, wird der Fördersatz gemäss § 24 um den Fördersatz gemäss § 28 reduziert.
+<sup>2</sup> Der maximale Förderbeitrag pro juristische Person beträgt Fr. 10 Mio.
 
-<sup>3</sup> Massnahmen, bei denen Offsets oder ähnliche Instrumente eingesetzt wurden, sind von der Förderung ausgeschlossen.
+<sup>3</sup> …
+
+#### § 31a
+
+**Betriebsanalysen**
+
+<sup>1</sup> Innerhalb von drei Jahren nach Erhalt der Beiträge im Sinne von § 23 ist eine Betriebsanalyse zur Dekarbonisierung oder Energieeffizienzsteigerung zu erarbeiten.
+
+<sup>2</sup> Von dieser Pflicht ausgenommen sind juristische Personen, die:
+
+- a) eine Vereinbarung zur Erfüllung der Bestimmungen für Grossverbraucher gemäss § 17 des Energiegesetzes (EnG) vom 16. November 2016[^31a-1] abgeschlossen haben;
+- b) über eine Zielvereinbarung des Bundes als freiwillige Massnahme (ZV-FRM) verfügen;
+- c) oder bereits eine vom Kanton anerkannte Betriebsanalyse zur Dekarbonisierung oder Energieeffizienzsteigerung erarbeitet haben.
+
+[^31a-1]: SG 772.100
 
 ### 3.5 Verfahren und Ausrichtung der Beiträge
 
@@ -397,7 +437,7 @@ beschliesst:
 
 <sup>1</sup> Beitragsgesuche für das massgebende Geschäftsjahr 2024 sind bis 30. September 2025, danach bis 30. Juni des dem massgebenden Geschäftsjahr nachfolgenden Kalenderjahrs über die elektronische Plattform einzureichen.
 
-<sup>2</sup> In begründeten Ausnahmefällen kann für die Einreichung der Gesuche im Bereich Umwelt eine einmalige Fristverlängerung gewährt werden.
+<sup>2</sup> …
 
 <sup>3</sup> In begründeten Ausnahmefällen kann eine Nachfrist eingeräumt werden, um Unterlagen nachzureichen oder zusätzliche Angaben zu machen. Wenn das Gesuch innert dieser Frist nicht vervollständigt wird, wird darauf nicht eingetreten.
 
@@ -457,6 +497,8 @@ beschliesst:
 
 <sup>2</sup> Wird eine Verfügung angefochten, kann der unbestrittene Teil der Beiträge ausgerichtet werden.
 
+<sup>3</sup> Bestehen zum Zeitpunkt der Ausrichtung der Beiträge begründete Zweifel an der Fortführung der juristischen Person, kann die Ausrichtung der Beiträge längstens bis zum 31. Dezember des dem Gesuchsjahr folgenden Kalenderjahrs aufgeschoben werden.
+
 #### § 41
 
 **Kontrolle**
@@ -467,9 +509,214 @@ beschliesst:
 
 ### 3.6 Forschungskooperationen
 
+### 3.6.1 Allgemeine Bestimmungen
+
 #### § 42
 
-<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt ist für den Vollzug im Bereich der Forschungskooperationen gemäss § 5j StaföG zuständig.
+**Fördergegenstand**
+
+<sup>1</sup> Gegenstand der Förderung sind neuartige Forschungskooperationsprojekte im Bereich der Life Sciences mit dem Ziel, die Gesundheit und das Wohlergehen der Bevölkerung zu verbessern.
+
+<sup>2</sup> Der Begriff Life Sciences umfasst die Lebenswissenschaften im Sinne der zu Beginn der im Gesuchsjahr geltenden Evaluation-Panel-Struktur des Europäischen Forschungsrats sowie die Bereiche Humanmedizin und Digital Health.
+
+<sup>3</sup> Gefördert werden Projekte in den Bereichen Global Health und risikobehaftete Märkte.
+
+<sup>4</sup> Proof-of-Concept-Projekte für neue Technologien sowie Capacity Building in Zukunftstechnologien werden nur gefördert, wenn sie einen unmittelbaren Bezug zu den Bereichen gemäss Abs. 3 aufweisen.
+
+<sup>5</sup> Die Projekte erbringen oder erweitern wissenschaftliche Erkenntnisse und zielen darauf ab, diese in die praktische Anwendung zu überführen.
+
+#### § 42a
+
+**Ausschluss der Förderung**
+
+<sup>1</sup> Von der Förderung ausgeschlossen sind Projekte mit Vorhaben und Tätigkeiten, die gegen die wissenschaftliche Integrität oder die gute wissenschaftliche Praxis verstossen.
+
+<sup>2</sup> Ausgeschlossen sind Beiträge an die Betriebskosten der Forschungspartner im Sinne von § 42k.
+
+#### § 42b
+
+**Verhältnis zu anderen Förderungen**
+
+<sup>1</sup> Die Förderbeiträge können mit anderen Förderungen kombiniert werden, sofern keine Überfinanzierung derselben Projektkosten erfolgt.
+
+#### § 42c
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt kann ausführende Bestimmungen erlassen.
+
+<sup>2</sup> Es kann die Anzahl Gesuche und die Förderbeiträge pro förderberechtigten Forschungspartner im Sinne von § 42k begrenzen.
+
+### 3.6.2 Forschungsbeirat
+
+#### § 42d
+
+**Organisation**
+
+<sup>1</sup> Zur Evaluation der Fördergesuche und für die Begleitung des Vollzugs der Fördertätigkeit setzt das Departement für Wirtschaft, Soziales und Umwelt den Forschungsbeirat ein.
+
+<sup>2</sup> Das Amt für Wirtschaft und Arbeit führt dessen Geschäftsstelle.
+
+#### § 42e
+
+**Zusammensetzung**
+
+<sup>1</sup> Der Forschungsbeirat besteht aus 5 bis 9 Mitgliedern einschliesslich:
+
+- a) des Präsidiums;
+- b) weiterer Fachpersonen, die mit der Forschungslandschaft im Bereich Life Sciences und dem regionalen Ökosystem gut vertraut sind;
+- c) einer vom Departement für Wirtschaft, Soziales und Umwelt nominierten Person ohne Stimmrecht.
+
+#### § 42f
+
+**Wahl**
+
+<sup>1</sup> Der Regierungsrat wählt die Mitglieder und bestimmt das Präsidium.
+
+<sup>2</sup> Die Amtsdauer beträgt für alle Mitglieder vier Jahre. Eine Wiederwahl ist möglich.
+
+<sup>3</sup> Im Übrigen konstituiert sich der Forschungsbeirat selbst.
+
+<sup>4</sup> Der Regierungsrat kann die Mitglieder jederzeit abberufen.
+
+<sup>5</sup> Die Mitglieder legen ihre Interessen offen.
+
+#### § 42g
+
+**Organisationsreglement und Entschädigung**
+
+<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt genehmigt das Organisationsreglement.
+
+<sup>2</sup> Die Mitglieder des Forschungsbeirats erhalten für ihre Tätigkeit eine jährliche Pauschalentschädigung.
+
+<sup>3</sup> Die Entschädigung pro Jahr beträgt für das Präsidium maximal 30'000 Franken und für die übrigen Mitglieder maximal 10'000 Franken, jeweils einschliesslich aller Sitzungsgelder und Spesen, jedoch exklusiv allfälliger Mehrwertsteuer.
+
+<sup>4</sup> Spesen von Mitgliedern im Sinne von § 42e Abs. 1 lit. b mit ausländischem Wohnort können vergütet werden.
+
+#### § 42h
+
+**Aufgaben**
+
+<sup>1</sup> Der Forschungsbeirat hat insbesondere folgende Aufgaben:
+
+- a) Er präzisiert die Förderinhalte unter Berücksichtigung wissenschaftlicher oder technologischer sowie wirtschaftlicher Entwicklungen und relevanter Zukunftsfelder und kann Schwerpunkte setzen.
+- b) Er erarbeitet die Grundlagen des Auswahlverfahrens und der Beurteilungskriterien sowie weitere Einzelheiten der Förderung.
+- c) Er evaluiert die Fördergesuche nach wissenschaftlicher Exzellenz und Anwendungs- bzw. Wertschöpfungspotenzial.
+- d) Er kann Expertinnen und Experten zur Begutachtung von Gesuchen in den definierten Bereichen beiziehen.
+- e) Er unterbreitet dem Departement für Wirtschaft, Soziales und Umwelt Empfehlungen zu den Förderentscheiden.
+- f) Er prüft den Projektfortschritt der geförderten Projekte.
+- g) Er stellt Qualität und Integrität in der Förderung sicher.
+- h) Er erstattet dem Departement für Wirtschaft, Soziales und Umwelt jährlich Bericht.
+- i) Er kann dem Departement für Wirtschaft, Soziales und Umwelt Empfehlungen zur Weiterentwicklung der Förderung unterbreiten.
+
+<sup>2</sup> Das Departement für Wirtschaft, Soziales und Umwelt kann dem Forschungsbeirat weitere Aufgaben übertragen.
+
+### 3.6.3 Voraussetzungen der Förderung
+
+#### § 42i
+
+**Globaler gesellschaftlicher Nutzen**
+
+<sup>1</sup> Forschungskooperationsprojekte stiften einen globalen gesellschaftlichen Nutzen, wenn die daraus resultierenden Forschungserkenntnisse Wirkung, Gültigkeit oder Relevanz haben, welche über die nationalen und regionalen Grenzen hinausgehen und die Bevölkerung oder Staaten weltweit betreffen oder potenziell betreffen können.
+
+#### § 42j
+
+**Neuartige Forschungskooperationen**
+
+<sup>1</sup> Als neuartige Forschungskooperationen gelten Kooperationen, deren Projekte die nachfolgenden Voraussetzungen erfüllen:
+
+- a) Sie verfolgen neue wissenschaftliche oder technologische Perspektiven oder Methoden oder testen bahnbrechende Ansätze, die das Potenzial haben, zu einer besseren Gesundheit und zum Wohlergehen der Bevölkerung beizutragen.
+- b) Sie verfolgen das Ziel, durch die Anwendung der Erkenntnisse gesellschaftlichen Mehrwert zu generieren und, wo möglich, zur wirtschaftlichen Wertschöpfung beizutragen.
+
+#### § 42k
+
+**Förderberechtigte Forschungspartner**
+
+<sup>1</sup> Förderberechtigt sind:
+
+- a) Hochschulen, sofern sie einen Standort im Kanton haben oder vom Kanton als Träger oder Mitträger gesteuert oder finanziert werden;
+- b) Forschungseinrichtungen, welche vom Kanton als Träger oder Mitträger gesteuert oder finanziert werden;
+- c) Nicht-kommerzielle Forschungseinrichtungen, sofern sie ihren Standort im Kanton haben und von einer Hochschule mitgegründet wurden oder mitfinanziert werden;
+- d) Universitätsspitäler und -kliniken mit Sitz und Standort im Kanton.
+
+#### § 42l
+
+**Förderfähige Kooperationsprojekte**
+
+<sup>1</sup> Förderfähig sind Forschungskooperationsprojekte mit Beteiligung von:
+
+- a) mindestens einem Forschungspartner im Sinne von § 42k;
+- b) und mindestens einer gemäss § 5d Abs. 1 StaföG steuerpflichtigen juristischen Person, nachfolgend «Industriepartner».
+
+<sup>2</sup> Die Industriepartner müssen sich am Projekt mit Eigenleistungen oder finanziellen Leistungen beteiligen.
+
+#### § 42m
+
+**Verwendung der Förderbeiträge**
+
+<sup>1</sup> Die Förderbeiträge sind mehrheitlich im Kanton oder der übrigen Nordwestschweiz im Sinne von § 8 Abs. 3 einzusetzen.
+
+<sup>2</sup> Eine Verwendung der Förderbeiträge für Aufwendungen der beteiligten Industriepartner im Sinne von § 42l Abs. 1 lit. b ist ausgeschlossen.
+
+### 3.6.4 Verfahren und Anforderungen
+
+#### § 42n
+
+**Gesuche**
+
+<sup>1</sup> Beitragsgesuche sind von den Forschungs- und Industriepartnern gemeinsam einzureichen.
+
+#### § 42o
+
+**Auswahlverfahren**
+
+<sup>1</sup> Die Vergabe der Förderbeiträge erfolgt im Rahmen eines kompetitiven Auswahlverfahrens.
+
+<sup>2</sup> Projekte zur Bekämpfung von Infektionskrankheiten, vernachlässigten Tropenkrankheiten, Krankheiten mit besonders hoher epidemischer und pandemischer Gefahr sowie Projekte zur Bekämpfung der Antibiotika- und antimikrobiellen Resistenzen werden bei der Bewertung höher gewichtet.
+
+<sup>3</sup> Kooperiert ein Forschungspartner erstmals mit einem Industriepartner, kann dieser Umstand als förderrelevanter Faktor mit erhöhter Gewichtung in die Beurteilung des Gesuchs einfliessen
+
+#### § 42p
+
+**Entscheid**
+
+<sup>1</sup> Über die Gewährung von Förderbeiträgen entscheidet der Regierungsrat auf Antrag des Departements für Wirtschaft, Soziales und Umwelt.
+
+#### § 42q
+
+**Vertrag**
+
+<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt schliesst mit den Forschungspartnern einen entsprechenden Vertrag ab.
+
+<sup>2</sup> Die Gewährung von Förderbeiträgen kann davon abhängig gemacht werden, dass die Forschungs- und Industriepartner eine Vereinbarung über das geistige Eigentum und die Nutzungsrechte abschliessen.
+
+#### § 42r
+
+**Auszahlung der Förderbeiträge**
+
+<sup>1</sup> Die Förderbeiträge werden an die Forschungspartner im Sinne von § 42k ausbezahlt.
+
+<sup>2</sup> Die Forschungspartner bestimmen eine Stelle zur Verwaltung der ausbezahlten Förderbeiträge.
+
+#### § 42s
+
+**Berichterstattung**
+
+<sup>1</sup> Die Forschungspartner berichten über den Verlauf des Projekts.
+
+<sup>2</sup> Spätestens ein Monat nach Abschluss des Projekts ist ein inhaltlicher und finanzieller Schlussbericht einzureichen.
+
+#### § 42t
+
+**Auskunfts- und Evaluationspflicht**
+
+<sup>1</sup> Die Forschungspartner haben Auskunft zu erteilen über:
+
+- a) sämtliche für die Begleitung und Kontrolle der Förderung erforderlichen Angaben;
+- b) die Verwertung der gewonnenen Erkenntnisse;
+- c) Gesuche für die Finanzierung desselben Projekts oder von Teilen davon, die sie während der laufenden Förderung oder danach bei einer anderen Stelle einreichen oder eingereicht haben.
+
+<sup>2</sup> Diese Auskunftspflicht gilt bis fünf Jahre nach Einreichung des Schlussberichts gemäss § 42s Abs. 2.
 
 ### 3.7 Fonds für Innovation und Fonds für Gesellschaft und Umwelt gemäss § 5k StaföG
 
