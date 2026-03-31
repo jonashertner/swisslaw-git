@@ -4,13 +4,13 @@ number: "150.1"
 title: Dekret zum Personalgesetz
 short: Personaldekret
 language: de
-version: 2026-01-01
-valid_until: 2026-03-31
-version_adopted: 2025-12-10
+version: 2026-04-01
+valid_until: 2026-07-31
+version_adopted: 2025-09-11
 adopted: 2000-06-08
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.1"
-pdf: "https://bl.clex.ch/api/de/versions/4407/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4448/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4407/pdf_file"
 
 (Personaldekret)
 
-Vom 08.06.2000 (Stand 01.01.2026)
+Vom 08.06.2000 (Stand 01.04.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -493,33 +493,30 @@ beschliesst:
 
 **Monatliche Vergütungen**
 
-<sup>1</sup> Die pauschale monatliche Vergütung wird gemäss folgenden, in Anhang 2 Ziff. 2 definierten Ansätzen ausgerichtet:
+<sup>1</sup> Die pauschale monatliche Vergütung wird wie folgt ausgerichtet:
 
-- a. Abteilungsvizepräsidentinnen und Abteilungsvizepräsidenten des Kantonsgerichts — Ansatz C 13.1;
-- b. Mitglieder des Kantonsgerichts — Ansatz C 13.2.
+- a. Abteilungsvizepräsidentinnen und Abteilungsvizepräsidenten des Kantonsgerichts — CHF 3'500.–;
+- b. Mitglieder des Kantonsgerichts — CHF 3'200.–.
+
+#### § 33bis
+
+**Vergütung für den Bereitschaftsdienst am Zwangsmassnahmengericht**
+
+<sup>1</sup> Vizepräsidentinnen und Vizepräsidenten des Zwangsmassnahmengerichts erhalten pro Tag, an dem sie sich für einen Einsatz am Zwangsmassnahmengericht bereithalten, eine Entschädigung von CHF 100.–, sofern es an dem betreffenden Tag zu keinem Einsatz kommt.
 
 #### § 33a
 
-**Ausserordentliche jährliche Vergütung**
-
-<sup>1</sup> Vizepräsidentinnen und Vizepräsidenten der erstinstanzlichen Gerichte, die eine Aufwandentschädigung (Entschädigung aus Sitzungsgeldern, Aktenstudium, Zuschlag für Sitzungspräsidium und Zuschlag für Referat) von mehr als CHF 20'000.– brutto jährlich beziehen, erhalten zusätzlich eine Pauschalvergütung in Höhe von
-
-- a. 20 % der Bruttoentschädigung ab einer jährlichen Bruttoentschädigung von CHF 20'000.–;
-- b. 25 % der Bruttoentschädigung ab einer jährlichen Bruttoentschädigung von CHF 40'000.–.
-
-<sup>2</sup> Entschädigungen für aussergewöhnliche Inanspruchnahme nach § 38 Abs. 4 dieses Dekrets werden bei der Ermittlung der massgebenden jährlichen Aufwandentschädigung nicht angerechnet.
-
-<sup>3</sup> Die zusätzliche Pauschalentschädigung wird jeweils im Januar für das Vorjahr ausgerichtet.
+**…**
 
 #### § 34
 
 **Sitzungsgelder**
 
-<sup>1</sup> Die Mitglieder und die Ersatzmitglieder des Kantonsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld gemäss Anhang 2 Ziff. 2 Ansatz C 6 pro halben Tag (entsprechend 4 Stunden) und gemäss Ansatz C 3 für jede weitere Stunde.
+<sup>1</sup> Die Mitglieder und die Ersatzmitglieder des Kantonsgerichts erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld von CHF 260.– pro halben Tag (entspricht 4 Stunden) und von CHF 65.– für jede weitere Stunde.
 
-<sup>1<sup>bis</sup></sup> Die Einzelrichterinnen und Einzelrichter gemäss § 3 Abs. 2 des kantonalen Gesetzes über die Zwangsmassnahmen im Ausländerrecht vom 20. Mai 1996[^34-1] erhalten pro Fall eine pauschale Vergütung gemäss Anhang 2 Ziff. 2 Ansatz C 3.
+<sup>1<sup>bis</sup></sup> Die Einzelrichterinnen und Einzelrichter gemäss § 3 Abs. 2 des kantonalen Gesetzes über die Zwangsmassnahmen im Ausländerrecht vom 20. Mai 1996[^34-1] erhalten pro Fall eine pauschale Entschädigung von CHF 50.–.
 
-<sup>2</sup> Die Mitglieder und die Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts und des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld gemäss Anhang 2 Ziff. 2 Ansatz C 5.1 pro halben Tag (entsprechend 4 Stunden) und gemäss Ansatz C 2 für jede weitere Stunde.
+<sup>2</sup> Die Mitglieder und die Ersatzmitglieder der erstinstanzlichen Gerichte (Zivilkreisgerichte, Strafgericht, Jugendgericht, Steuer- und Enteignungsgericht) erhalten für Sitzungen, Augenscheine und amtliche Verrichtungen ein Sitzungsgeld von CHF 240.– pro halben Tag (entspricht 4 Stunden) und von CHF 60.– für jede weitere Stunde.
 
 [^34-1]: [SGS 112](https://bl.clex.ch/data/112/de/art3)
 
@@ -527,40 +524,64 @@ beschliesst:
 
 **Aktenstudium**
 
-<sup>1</sup> Für das Aktenstudium wird pro Sitzung folgende Vergütung gemäss Anhang 2 Ziff. 2 ausgerichtet:
+<sup>1</sup> Die Mitglieder und Ersatzmitglieder des Kantonsgerichts erhalten pro Fall je nach Umfang und Komplexität eine Entschädigung von CHF 50–400.– für das Aktenstudium.
 
-- a. Mitglieder und Ersatzmitglieder des Kantonsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, — Ansatz C 7;
-- b. Mitglieder und Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts und des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, — Ansatz C 5.2.
+<sup>2</sup> Wenn für die Behandlung eines Falls mehr als eine Sitzung notwendig ist, wird pro Sitzung eine Entschädigung für das Aktenstudium ausgerichtet.
+
+<sup>3</sup> Die Mitglieder und Ersatzmitglieder des Strafgerichts, des Zwangsmassnahmengerichts und des Jugendgerichts erhalten pro Sitzung (entspricht 4 Stunden) eine Entschädigung von CHF 480.– für das Aktenstudium.
+
+<sup>4</sup> Die Mitglieder und Ersatzmitglieder der Zivilkreisgerichte erhalten pro Sitzung (entspricht 4 Stunden) eine Entschädigung von CHF 400–960.– für das Aktenstudium.
+
+<sup>5</sup> Die Mitglieder und Ersatzmitglieder des Steuer- und Enteignungsgerichts erhalten pro Fall je nach Umfang und Komplexität eine Entschädigung von CHF 300–400.– für das Aktenstudium.
+
+<sup>6</sup> Die Geschäftsleitung der Gerichte erlässt die Kriterien, nach denen die Präsidentinnen und Präsidenten der Abteilungen des Kantonsgerichts, der Zivilkreisgerichte und des Steuer- und Enteignungsgerichts innerhalb der Bandbreite die Höhe der Entschädigung für das Aktenstudium festlegen.
 
 #### § 36
 
 **Zuschlag für Sitzungspräsidium**
 
-<sup>1</sup> Bei Übernahme des Präsidiums in einer Sitzung hat das betreffende Mitglied oder Ersatzmitglied des Gerichts, mit Ausnahme der Präsidentinnen und Präsidenten, Anspruch auf einen Zuschlag von 100 % des Sitzungsgeldes. Präsidiert das betreffende Mitglied oder Ersatzmitglied mehr als einen Fall in einer Sitzung, besteht ein Anspruch auf einen Zuschlag von 200 % des Sitzungsgeldes.
+<sup>1</sup> Ein Mitglied oder Ersatzmitglied des Gerichts, das in einer Sitzung den Vorsitz übernimmt, erhält auf das Sitzungsgeld und die Entschädigung für das Aktenstudium einen Zuschlag von 100 %. Erfordert das Urteil eine schriftliche Begründung, beträgt der Zuschlag 150 %.
 
 <sup>2</sup> Teilen sich mehrere Mitglieder in den Vorsitz einer Sitzung, ist der Zuschlag durch die Präsidentin bzw. den Präsidenten entsprechend der Inanspruchnahme aufzuteilen.
 
 #### § 37
 
-**Zuschlag für Referat**
+**Referat**
 
-<sup>1</sup> Die Mitglieder und die Ersatzmitglieder des Kantonsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, haben pro Referat Anspruch auf einen Zuschlag gemäss Ansatz C 9.
+<sup>1</sup> Die Mitglieder und die Ersatzmitglieder des Kantonsgerichts erhalten für das Referat pro Fall eine Entschädigung in der Höhe von 150 % der Entschädigung für das Aktenstudium.
 
-<sup>2</sup> Die Mitglieder und die Ersatzmitglieder der Zivilkreisgerichte, des Strafgerichts, des Jugendgerichts sowie des Steuer- und Enteignungsgerichts, mit Ausnahme der Präsidentinnen und Präsidenten, haben pro Referat Anspruch auf einen Zuschlag von CHF 50–200.–.
+<sup>2</sup> Die Mitglieder und die Ersatzmitglieder des Strafgerichts und des Jugendgerichts erhalten pro Sitzung (entspricht 4 Stunden) für das Referat CHF 360.–.
 
-<sup>3</sup> Die Geschäftsleitung des Kantonsgerichts erlässt die Kriterien, nach denen die Präsidentin oder der Präsident des betreffenden Gerichts die Höhe des einzelnen Referatszuschlags festzulegen hat.
+<sup>3</sup> Die Mitglieder und Ersatzmitglieder der Zivilkreisgerichte erhalten für das Referat pro Fall eine Entschädigung von CHF 100–400.–.
+
+<sup>4</sup> Die Mitglieder und Ersatzmitglieder des Steuer- und Enteignungsgerichts erhalten für das Referat pro Fall eine Entschädigung in der Höhe von 150 % der Entschädigung für das Aktenstudium.
+
+#### § 37a
+
+**Ausgefallene Sitzungen**
+
+<sup>1</sup> Fällt eine angesetzte Sitzung weg, wird diese wie folgt entschädigt:
+
+- a. Müssen eine angesetzte Sitzung, ein angesetzter Augenschein oder eine andere angesetzte amtliche Verrichtung innerhalb von weniger als 14 Tagen vor dem Termin abgeboten werden, so wird das Sitzungsgeld wie vorgesehen ausgerichtet, höchstens aber für 3 Tage. In den anderen Fällen wird kein Sitzungsgeld ausgerichtet.
+- b. Das Aktenstudium wird wie angesetzt entschädigt.
+- c. Das Referat wird entschädigt, falls die Referentin oder der Referent dieses bereits verfasst hat.
+- d. Für die Übernahme des Präsidiums in einer Sitzung, die abgeboten wird, wird keine Entschädigung ausgerichtet.
+
+<sup>2</sup> Findet die neue Verhandlung innerhalb von 3 Monaten seit der Ansetzung der verschobenen Sitzung statt, werden ausbezahlte Vergütungen für das Aktenstudium nicht nochmals entschädigt. Die Referatsentschädigung wird einmalig ausgerichtet.
+
+<sup>3</sup> Das Präsidium kann in begründeten Fällen von den Abs. 1 und 2 abweichen.
 
 #### § 38
 
 **Sonderansätze, Zuständigkeit**
 
-<sup>1</sup> Für im Voraus angesetzte Kurzsitzungen bis 2 Stunden Dauer wird eine Vergütung in der Höhe des halben Sitzungsgeldes ausgerichtet.
+<sup>1</sup> Für im Voraus angesetzte Kurzsitzungen bis 2 Stunden Dauer wird eine Entschädigung in der Höhe des halben Sitzungsgeldes ausgerichtet.
 
-<sup>2</sup> Für Aktenstudium von geringfügigem oder überdurchschnittlichem Umfang kann die Vergütung gemäss § 35 durch die Präsidentin bzw. den Präsidenten herabgesetzt beziehungsweise erhöht werden.
+<sup>2</sup> …
 
-<sup>3</sup> Ebenso kann durch die Präsidentin bzw. den Präsidenten die Vergütung gemäss § 37 für das Referat entsprechend der Beanspruchung erhöht beziehungsweise herabgesetzt werden.
+<sup>3</sup> …
 
-<sup>4</sup> Bei aussergewöhnlicher Inanspruchnahme eines Mitglieds des Gerichts kann die Präsidentin beziehungsweise der Präsident die Ausrichtung einer angemessenen zusätzlichen Pauschalvergütung anordnen.
+<sup>4</sup> Bei aussergewöhnlicher Inanspruchnahme eines Mitglieds des Gerichts kann die Präsidentin oder der Präsident des Gerichts im Rahmen der Vorgaben der Geschäftsleitung der Gerichte die Ausrichtung einer angemessenen, zusätzlichen Pauschalentschädigung anordnen.
 
 #### § 39
 
