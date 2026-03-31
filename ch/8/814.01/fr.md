@@ -4,11 +4,11 @@ title: "Loi fédérale du 7 octobre 1983 sur la protection de l'environnement (L
 short: LPE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: fr
-version: 2025-04-01
+version: 2026-04-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250401-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/fr"
 
 (Loi sur la protection de l’environnement, LPE)
 
-du 7 octobre 1983 (État le 1<sup>er</sup> avril 2025)
+du 7 octobre 1983 (État le 1<sup>er</sup> avril 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 74, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [FF 1979 III 741](https://fedlex.data.admin.ch/eli/fga/1979/3_749_741_713)
 
@@ -261,8 +261,8 @@ Le Conseil fédéral évalue au moins tous les quatre ans l’état de l’envir
 
 <sup>4</sup> Le droit cantonal régit les demandes d’accès adressées aux autorités cantonales. Si les cantons n’ont pas encore édicté de dispositions sur l’accès aux documents, la présente loi et la LTrans sont applicables par analogie.
 
-[^10g-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^10g-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^10g-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^10g-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Chapitre 5 Préservation des ressources naturelles et renforcement de l’économie circulaire
 
@@ -400,13 +400,32 @@ Les propriétaires des installations fixes à l’origine du bruit supportent le
 
 #### Art. 22
 
-**Permis de construire dans les zones affectées par le bruit**
+**Permis de construire dans les zones affectées par le bruit**[^22-1]
 
-<sup>1</sup> Les permis de construire de nouveaux immeubles destinés au séjour prolongé de personnes ne seront délivrés, sous réserve de l’al. 2, que si les valeurs limites d’immissions ne sont pas dépassées.
+<sup>1</sup> Sous réserve de l’al. 2, un permis de construire portant sur l’édification ou sur la modification notable d’un immeuble destiné au séjour prolongé de personnes n’est délivré que s’il est possible, pour autant que cela soit proportionné, de respecter les valeurs limites d’immission.
 
-<sup>2</sup> Si les valeurs limites d’immissions sont dépassées, les permis de construire de nouveaux immeubles destinés au séjour prolongé de personnes ne seront délivrés que si les pièces ont été judicieusement disposées et si les mesures complémentaires de lutte contre le bruit qui pourraient encore être nécessaires ont été prises.[^22-1]
+<sup>2</sup>
 
-[^22-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+Si les valeurs limites d’immission ne peuvent être respectées, le permis de construire n’est délivré que si:
+
+- a.
+
+  pour chaque unité d’habitation:
+
+  - 1\. une ventilation contrôlée des pièces d’habitation est installée afin d’aérer et de ventiler les locaux à usage sensible au bruit, et
+    - – un système de refroidissement est disponible, ou
+    - – au moins un local à usage sensible au bruit est équipé d’une fenêtre au niveau de laquelle les valeurs limites d’immission sont respectées,
+
+  - 2\. une part correspondant au moins à la moitié des locaux à usage sensible au bruit dispose d’une fenêtre au niveau de laquelle les valeurs limites d’immission sont respectées, ou
+  - 3\. au moins un local à usage sensible au bruit est équipé d’une fenêtre, ainsi que d’un espace extérieur utilisable de manière privée, pour lesquels les valeurs limites d’immission sont respectées, et
+
+- b. la protection minimale à assurer contre le bruit extérieur et intérieur sur le plan des aménagements au sens de l’art. 21 est renforcée de manière adéquate.
+
+<sup>3</sup> Des dérogations aux exigences visées à l’al. 2, let. a, peuvent être accordées dans le cas du bruit du trafic aérien ou pour une petite part des unités d’habitation de grands lotissements.
+
+<sup>4</sup> L’obligation des détenteurs d’installations de limiter les émissions reste valable même si un permis de construire est délivré conformément aux al. 2 et 3.
+
+[^22-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [2026 113](https://fedlex.data.admin.ch/eli/oc/2026/113); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 23
 
@@ -416,14 +435,21 @@ Aux fins d’assurer la protection contre le bruit causé par de nouvelles insta
 
 #### Art. 24
 
-**Exigences requises pour les zones à bâtir[^24-1]**
+**Exigences requises pour les zones à bâtir**[^24-1]
 
-<sup>1</sup> Les nouvelles zones à bâtir destinées à la construction de logements ou d’autres immeubles destinés au séjour prolongé de personnes, ne peuvent être prévues qu’en des endroits où les immissions causées par le bruit ne dépassent pas les valeurs de planification, ou en des endroits dans lesquels des mesures de planification, d’aménagement ou de construction permettent de respecter ces valeurs. Le changement d’affectation de zones à bâtir n’est pas réputé délimitation de nouvelles zones à bâtir.[^24-2]
+<sup>1</sup> Une zone à bâtir vouée à la construction de logements ou d’autres immeubles destinés au séjour prolongé de personnes ne peut être délimitée que s’il est possible de respecter les valeurs de planification.
 
-<sup>2</sup> Les zones à bâtir existantes mais non encore équipées, qui sont destinées à la construction de logements ou d’autres immeubles destinés au séjour prolongé de personnes et dans lesquelles les valeurs de planification sont dépassées, doivent être affectées à une utilisation moins sensible au bruit à moins que des mesures de planification, d’aménagement ou de construction permettent de respecter les valeurs de planification dans la plus grande partie de ces zones.
+<sup>2</sup> Dans une zone à bâtir, la modification du plan d’affectation visant à accroître l’espace habitable n’est autorisée que s’il est possible de respecter les valeurs limites d’immission.
 
-[^24-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^24-2]: Phrase introduite par le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+<sup>3</sup>
+
+En dérogation aux al. 1 et 2, une zone à bâtir peut être délimitée ou une modification du plan d’affectation dans une zone à bâtir peut être autorisée si les conditions suivantes sont réunies:
+
+- a. la délimitation ou la modification revêt un intérêt prépondérant à l’égard du développement de l’urbanisation vers l’intérieur du milieu bâti;
+- b. un espace ouvert servant à la détente, correspondant à la densité et au type d’utilisation de la zone et accessible à la population concernée se trouve à l’intérieur ou à proximité de la zone à bâtir;
+- c. des mesures sont prévues, en particulier concernant les infrastructures destinées au trafic routier ainsi que les bâtiments et leurs abords, afin de garantir une qualité de l’habitat appropriée du point de vue sonore.
+
+[^24-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [2026 113](https://fedlex.data.admin.ch/eli/oc/2026/113); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 25
 
@@ -513,7 +539,7 @@ Quiconque utilise des organismes doit veiller à ce que ces organismes, leurs m�
 
 <sup>3</sup> Les prescriptions prévues par d’autres lois fédérales et visant à protéger la santé de l’homme contre les menaces directes constituées par des organismes sont réservées.
 
-[^29a-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^29a-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 29b
 
@@ -562,7 +588,7 @@ Le Conseil fédéral fixe les conditions et la procédure. Il arrête notamment 
 <sup>2</sup> Quiconque a qualité de partie en vertu de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^29dbis-2] peut faire opposition auprès de l’autorité qui délivre l’autorisation pendant le délai de mise à l’enquête. Toute personne qui n’a pas fait opposition est exclue de la suite de la procédure.
 
 [^29dbis-1]: Introduit par le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^29dbis-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29dbis-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 29e
 
@@ -600,7 +626,7 @@ Il peut notamment:
 
 La Commission fédérale d’experts pour la sécurité biologique et la Commission fédérale d’éthique pour la biotechnologie dans le domaine non humain (art. 22 et 23 de la loi du 21 mars 2003 sur le génie génétique[^29g-1]) conseillent le Conseil fédéral dans l’élaboration de prescriptions et dans l’exécution des dispositions sur les organismes.
 
-[^29g-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^29g-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 29h
 
@@ -878,7 +904,7 @@ Si l’obligation de désigner un représentant en Suisse est imposée au titre 
 <sup>3</sup> Est réputé exploitant d’une plateforme numérique quiconque exploite une plateforme au sens de l’art. 20*a* de la loi du 12 juin 2009 sur la TVA[^32asexies-2].
 
 [^32asexies-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^32asexies-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^32asexies-2]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 32a<sup>septies</sup>
 
@@ -1182,7 +1208,7 @@ Les indemnités visées à l’art. 32*e*<sup>bis</sup> ne sont octroyées que s
 
 <sup>2</sup> Il n’est permis de porter atteinte physiquement à un sol que dans la mesure où sa fertilité n’en est pas altérée durablement; cette disposition ne concerne pas les terrains destinés à la construction. Le Conseil fédéral peut édicter des prescriptions ou des recommandations sur les mesures destinées à lutter contre les atteintes physiques telles que l’érosion ou le compactage.
 
-[^33-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^33-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^33-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 34
@@ -1274,7 +1300,7 @@ Le Conseil fédéral fixe le taux de taxation d’après les objectifs de protec
 
 <sup>4</sup> Quiconque produit en Suisse des substances ou des organismes soumis à la taxe doit les déclarer.
 
-[^35c-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^35c-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^35c-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^35c-3]: Nouvelle teneur selon l’annexe 2 ch. 6 de la LF du 21 juin 1996 sur l’imposition des huiles minérales, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 133](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-4]: Introduit par l’annexe 2 ch. 6 de la LF du 21 juin 1996 sur l’imposition des huiles minérales ([RO 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 133](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Abrogé par le ch. I de la LF du 27 sept. 2024, avec effet au 1<sup>er</sup> avr. 2025 ([RO 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
@@ -1487,7 +1513,7 @@ Il peut conclure des accords internationaux relatifs à:
 <sup>4</sup> Les autorités fédérales chargées de l’exécution tiennent compte des mesures prises par les cantons aux fins de protéger l’environnement.[^41-5]
 
 [^41-1]: Nouvelle teneur selon le ch. III de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^41-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^41-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^41-3]: Nouvelle teneur selon le ch. I 14 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^41-4]: Nouvelle teneur selon le ch. I 14 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^41-5]: Anciennement al. 3.
@@ -1669,7 +1695,7 @@ Dans le cadre de l’utilisation du produit net de l’impôt sur les huiles min
 <sup>2</sup> Les cantons présentent à la Confédération un rapport sur l’utilisation des subventions versées pour des mesures de protection de l’environnement à prendre le long des routes principales qui doivent être aménagées avec l’aide fédérale et le long des autres routes.
 
 [^50-1]: Nouvelle teneur selon le ch. II 22 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^50-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^50-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 
 #### Art. 51
 
@@ -1788,7 +1814,7 @@ Une organisation de protection de l’environnement a qualité pour recourir con
 <sup>4</sup> Les al. 2 et 3 s’appliquent également aux oppositions et recours formés contre des plans d’affectation en vertu du droit cantonal.
 
 [^55b-1]: Introduit par le ch. I de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^55b-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^55b-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 55c
 
@@ -1807,7 +1833,7 @@ Les accords entre requérants et organisations qui portent sur des prestations, 
 <sup>3</sup> L’autorité de recours n’entre pas en matière sur un recours si celui-ci est abusif ou si l’organisation a émis des prétentions à des prestations illicites au sens de l’al. 2.
 
 [^55c-1]: Introduit par le ch. I de la LF du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 5041](https://fedlex.data.admin.ch/eli/fga/2005/841)[5081](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^55c-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55c-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 55d
 
@@ -1880,7 +1906,7 @@ Les communes sont habilitées à user des moyens de recours prévus par le droit
 <sup>3</sup> La législation fédérale sur l’expropriation est applicable lorsqu’il s’agit d’ouvrages situés sur le territoire de plusieurs cantons.[^58-4] Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication statue sur l’expropriation.
 
 [^58-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^58-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^58-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^58-3]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^58-4]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
@@ -1947,7 +1973,7 @@ Présentent en règle générale un danger particulier pour l’environnement, n
 [^59a-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59a-2]: Nouvelle teneur de la phrase selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59a-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^59a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59a-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^59a-5]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 59a<sup>bis</sup>
@@ -1992,7 +2018,7 @@ Un organisme pathogène est considéré comme défectueux lorsqu’il n’offre 
 [^59abis-1]: Introduit par l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59abis-2]: Nouvelle expression selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)). Il a été tenu compte de cette mod. dans tout le texte.
 [^59abis-3]: Nouvelle expression selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^59abis-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59abis-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59b
 
@@ -2022,7 +2048,7 @@ Si le dommage est dû à l’utilisation d’organismes pathogènes, les actions
 - b. les organismes pathogènes ont été mis dans le commerce.
 
 [^59c-1]: Introduit par l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^59c-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59c-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59d
 
@@ -2037,7 +2063,7 @@ L’action récursoire se prescrit selon l’art. 59*c*. Le délai de trois ans 
 [^tit5-1][^tit5-2]
 
 [^tit5-1]: Anciennement tit. quatrième.
-[^tit5-2]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^tit5-2]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 60
 
@@ -2186,7 +2212,7 @@ Est puni d’une amende de 30 000 francs au plus quiconque, intentionnellement:
 
 <sup>2</sup> Les autres dispositions de la loi sur le droit pénal administratif s’appliquent en outre aux infractions visées aux art. 61*a* et 61*b*.[^62-2]
 
-[^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^62-2]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 62a
@@ -2246,7 +2272,7 @@ Lorsqu’elles ne sont pas conformes aux dispositions de la présente loi, les p
 Les demandes d’indemnités pour les coûts des mesures prévues à l’art. 32*e*<sup>bis</sup>, al. 3, 4, let. a, 5 et 12, sont, en dérogation à l’art. 36 de la loi du 5 octobre 1990 sur les subventions[^65a-2], évaluées selon le droit en vigueur au moment du dépôt de la demande si les mesures ont commencé à être mises en œuvre ou ont été achevées avant l’entrée en vigueur de la modification du 27 septembre 2024. Elles doivent être déposées auprès de l’Office deux ans au plus tard après l’entrée en vigueur de cette modification.
 
 [^65a-1]: Introduit par le ch. I de la LF du 26 sept. 2014 ([RO 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3505](https://fedlex.data.admin.ch/eli/fga/2014/820), [3517](https://fedlex.data.admin.ch/eli/fga/2014/822)). Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^65a-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65a-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 

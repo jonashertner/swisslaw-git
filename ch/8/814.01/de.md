@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzges
 short: USG
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: de
-version: 2025-04-01
+version: 2026-04-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250401-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260401/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/de"
 
 (Umweltschutzgesetz, USG)
 
-vom 7. Oktober 1983 (Stand am 1. April 2025)
+vom 7. Oktober 1983 (Stand am 1. April 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 74 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [BBl 1979 III 749](https://fedlex.data.admin.ch/eli/fga/1979/3_749_741_713)
 
@@ -261,8 +261,8 @@ Der Bundesrat beurteilt mindestens alle vier Jahre den Zustand der Umwelt in der
 
 <sup>4</sup> Bei Behörden der Kantone richtet sich der Anspruch nach dem kantonalen Recht. Soweit die Kantone noch keine Bestimmungen über den Zugang zu Dokumenten erlassen haben, wenden sie die Bestimmungen dieses Gesetzes und des BGÖ sinngemäss an.
 
-[^10g-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^10g-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^10g-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^10g-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 5. Kapitel: Schonung der natürlichen Ressourcen und Stärkung der Kreislaufwirtschaft
 
@@ -400,13 +400,32 @@ Die Eigentümer der lärmigen ortsfesten Anlagen tragen die Kosten für die notw
 
 #### Art. 22
 
-**Baubewilligungen in lärmbelasteten Gebieten**
+**Baubewilligungen in lärmbelasteten Gebieten**[^22-1]
 
-<sup>1</sup> Baubewilligungen für neue Gebäude, die dem längeren Aufenthalt von Personen dienen, werden unter Vorbehalt von Absatz 2 nur erteilt, wenn die Immissionsgrenzwerte nicht überschritten werden.
+<sup>1</sup> Baubewilligungen für die Erstellung und die wesentliche Änderung von Gebäuden, die dem längeren Aufenthalt von Personen dienen, werden unter Vorbehalt von Absatz 2 nur erteilt, wenn die Immissionsgrenzwerte eingehalten werden können, soweit dies verhältnismässig ist.
 
-<sup>2</sup> Sind die Immissionsgrenzwerte überschritten, so werden Baubewilligungen für Neubauten, die dem längeren Aufenthalt von Personen dienen, nur erteilt, wenn die Räume zweckmässig angeordnet und die allenfalls notwendigen zusätzlichen Schallschutzmassnahmen getroffen werden.[^22-1]
+<sup>2</sup>
 
-[^22-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+Können die Immissionsgrenzwerte nicht eingehalten werden, so darf die Baubewilligung nur erteilt werden, wenn:
+
+- a.
+
+  bei jeder Wohneinheit:
+
+  - 1\. zur Be- und Entlüftung der lärmempfindlichen Räume eine kontrollierte Wohnraumlüftung installiert wird, und
+    - – ein Kühlsystem vorhanden ist oder
+    - – mindestens ein lärmempfindlicher Raum über ein Fenster verfügt, bei dem die Immissionsgrenzwerte eingehalten sind,
+
+  - 2\. mindestens die Hälfte der lärmempfindlichen Räume über ein Fenster verfügt, bei dem die Immissionsgrenzwerte eingehalten sind, oder
+  - 3\. mindestens ein lärmempfindlicher Raum über ein Fenster verfügt, bei dem die Immissionsgrenzwerte eingehalten sind, sowie ein privat nutzbarer Aussenraum zur Verfügung steht, bei dem die Immissionsgrenzwerte eingehalten sind; und
+
+- b. der bauliche Mindestschutz nach Artikel 21 gegen Aussen- und Innenlärm angemessen und verhältnismässig verschärft wird.
+
+<sup>3</sup> Bei Fluglärm oder für einen kleinen Anteil an Wohneinheiten bei grossen Wohnüberbauungen können Ausnahmen von den Anforderungen nach Absatz 2 Buchstabe a gewährt werden.
+
+<sup>4</sup> Die Pflicht der Inhaber von Anlagen zur Begrenzung der Emissionen bleibt auch bei Erteilung einer Baubewilligung nach den Absätzen 2 und 3 bestehen.
+
+[^22-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2026 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [2026 113](https://fedlex.data.admin.ch/eli/oc/2026/113); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 23
 
@@ -416,13 +435,21 @@ Für die Planung neuer Bauzonen und für den Schutz vor neuen lärmigen ortsfest
 
 #### Art. 24
 
-**Anforderungen an Bauzonen**
+**Anforderungen an Bauzonen**[^24-1]
 
-<sup>1</sup> Neue Bauzonen für Wohngebäude oder andere Gebäude, die dem längeren Aufenthalt von Personen dienen, dürfen nur in Gebieten vorgesehen werden, in denen die Lärmimmissionen die Planungswerte nicht überschreiten oder in denen diese Werte durch planerische, gestalterische oder bauliche Massnahmen eingehalten werden können. Die Umzonung von Bauzonen gilt nicht als Ausscheidung neuer Bauzonen.[^24-1]
+<sup>1</sup> Bauzonen für Wohngebäude oder andere Gebäude, die dem längeren Aufenthalt von Personen dienen, dürfen nur ausgeschieden werden, wenn die Planungswerte eingehalten werden können.
 
-<sup>2</sup> Werden die Planungswerte in einer bestehenden, aber noch nicht erschlossenen Bauzone für Wohngebäude oder andere Gebäude, die dem längeren Aufenthalt von Personen dienen, überschritten, so sind sie einer weniger lärmempfindlichen Nutzungsart zuzuführen, sofern nicht durch planerische, gestalterische oder bauliche Massnahmen im überwiegenden Teil dieser Zone die Planungswerte eingehalten werden können.
+<sup>2</sup> In Bauzonen dürfen Änderungen von Nutzungsplänen, mit denen zusätzlicher Wohnraum geschaffen werden soll, nur beschlossen werden, wenn die Immissionsgrenzwerte eingehalten werden können.
 
-[^24-1]: Satz eingefügt durch Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+<sup>3</sup>
+
+In Abweichung der Absätze 1 und 2 können Bauzonen ausgeschieden oder Änderungen von Nutzungsplänen in Bauzonen beschlossen werden, wenn:
+
+- a. daran ein überwiegendes Interesse zur Siedlungsentwicklung nach innen besteht;
+- b. innerhalb der Bauzone oder in deren Nähe ein der Dichte und Nutzungsart der Zone entsprechender und für die betroffene Bevölkerung zugänglicher Freiraum vorhanden ist, welcher der Erholung dient; und
+- c. Massnahmen, insbesondere bei Strassenverkehrsanlagen sowie bei Gebäuden und deren Umfeld, festgelegt werden, die in akustischer Hinsicht zu einer angemessenen Wohnqualität beitragen.
+
+[^24-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2026 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [2026 113](https://fedlex.data.admin.ch/eli/oc/2026/113); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 25
 
@@ -511,7 +538,7 @@ Mit Organismen darf nur so umgegangen werden, dass sie, ihre Stoffwechselprodukt
 
 <sup>3</sup> Vorschriften in anderen Bundesgesetzen, die den Schutz der Gesundheit des Menschen vor unmittelbaren Gefährdungen durch Organismen bezwecken, bleiben vorbehalten.
 
-[^29a-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^29a-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 29b
 
@@ -560,7 +587,7 @@ Der Bundesrat bestimmt die Anforderungen und das Verfahren. Er regelt insbesonde
 <sup>2</sup> Wer nach den Vorschriften des Bundesgesetzes vom 20. Dezember 1968[^29dbis-2] über das Verwaltungsverfahren Partei ist, kann während der Auflagefrist bei der Bewilligungsbehörde Einsprache erheben. Wer keine Einsprache erhebt, ist vom weiteren Verfahren ausgeschlossen.
 
 [^29dbis-1]: Eingefügt durch Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^29dbis-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29dbis-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 29e
 
@@ -598,7 +625,7 @@ Er kann insbesondere:
 
 Die Eidgenössische Fachkommission für die biologische Sicherheit und die Eidgenössische Ethikkommission für die Biotechnologie im Ausserhumanbereich (Art. 22 und 23 Gentechnikgesetz vom 21. März 2003[^29g-1]) beraten den Bundesrat beim Erlass von Vorschriften und beim Vollzug der Bestimmungen über Organismen.
 
-[^29g-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^29g-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 29h
 
@@ -874,7 +901,7 @@ Wird als Massnahme nach Artikel 32*a*<sup>quater</sup> die Pflicht zur Bezeichnu
 <sup>3</sup> Als Betreiber elektronischer Plattformen gilt, wer eine Plattform nach Artikel 20*a* des Mehrwertsteuergesetzes vom 12. Juni 2009[^32asexies-2] betreibt.
 
 [^32asexies-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^32asexies-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^32asexies-2]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 32a<sup>septies</sup>
 
@@ -1178,7 +1205,7 @@ Die Abgeltungen nach Artikel 32*e*<sup>bis</sup> werden nur geleistet, wenn die 
 
 <sup>2</sup> Der Boden darf nur so weit physikalisch belastet werden, dass seine Fruchtbarkeit nicht nachhaltig beeinträchtigt wird; dies gilt nicht für die bauliche Nutzung des Bodens. Der Bundesrat kann über Massnahmen gegen physikalische Belastungen wie die Erosion oder die Verdichtung Vorschriften oder Empfehlungen erlassen.
 
-[^33-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^33-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^33-2]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 34
@@ -1270,7 +1297,7 @@ Der Bundesrat legt den Abgabesatz im Hinblick auf die Luftreinhalteziele fest un
 
 <sup>4</sup> Wer Stoffe oder Organismen, die der Abgabe unterworfen sind, im Inland herstellt oder erzeugt, muss diese deklarieren.
 
-[^35c-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^35c-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^35c-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^35c-3]: Fassung gemäss Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-4]: Eingefügt durch Anhang 2 Ziff. 6 des Mineralölsteuergesetzes vom 21. Juni 1996 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Aufgehoben durch Ziff. I des BG vom 27. Sept. 2024, mit Wirkung seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
@@ -1484,7 +1511,7 @@ Er kann völkerrechtliche Vereinbarungen abschliessen über:[^39-2]
 <sup>4</sup> Die Vollzugsbehörden des Bundes berücksichtigen die Umweltschutzmassnahmen der Kantone.[^41-5]
 
 [^41-1]: Fassung gemäss Ziff. III des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^41-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^41-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^41-3]: Fassung gemäss Ziff. I 14 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-4]: Fassung gemäss Ziff. I 14 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-5]: Ursprünglich: Abs. 3.
@@ -1666,7 +1693,7 @@ Im Rahmen der Verwendung des Reinertrags der Mineralölsteuer und der Nationalst
 <sup>2</sup> Die Kantone erstatten dem Bund Bericht über die Verwendung der Beiträge für die Umweltschutzmassnahmen bei den Hauptstrassen, die mit Bundeshilfe auszubauen sind, und bei den übrigen Strassen.
 
 [^50-1]: Fassung gemäss Ziff. II 22 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^50-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^50-2]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 
 #### Art. 51
 
@@ -1785,7 +1812,7 @@ Gegen Verfügungen der kantonalen Behörden oder der Bundesbehörden über die P
 <sup>4</sup> Die Absätze 2 und 3 gelten auch für Einsprachen und Beschwerden nach kantonalem Recht gegen Nutzungspläne.
 
 [^55b-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^55b-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^55b-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 55c
 
@@ -1804,7 +1831,7 @@ Vereinbarungen zwischen Gesuchstellern und Organisationen über finanzielle oder
 <sup>3</sup> Die Rechtsmittelbehörde tritt auf eine Beschwerde nicht ein, wenn diese rechtsmissbräuchlich ist oder die Organisation unzulässige Leistungen im Sinne von Absatz 2 gefordert hat.
 
 [^55c-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^55c-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55c-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 55d
 
@@ -1877,7 +1904,7 @@ Die Gemeinden sind berechtigt, gegen Verfügungen der kantonalen und der Bundesb
 <sup>3</sup> Für Werke, die das Gebiet mehrerer Kantone beanspruchen, gilt das eidgenössische Enteignungsrecht.[^58-4] Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation entscheidet über die Enteignung.
 
 [^58-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^58-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^58-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^58-3]: Fassung gemäss Anhang Ziff. 17 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^58-4]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1995, in Kraft seit 1. Juli 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
@@ -1944,7 +1971,7 @@ In der Regel mit einer besonderen Gefahr für die Umwelt verbunden sind namentli
 [^59a-1]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59a-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59a-3]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^59a-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59a-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^59a-5]: Fassung gemäss Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 59a<sup>bis</sup>
@@ -1988,7 +2015,7 @@ Pathogene Organismen sind fehlerhaft, wenn sie nicht die Sicherheit bieten, die 
 
 [^59abis-1]: Eingefügt durch Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59abis-2]: Ausdruck gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^59abis-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59abis-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59b
 
@@ -2018,7 +2045,7 @@ Ist der Schaden wegen des Umgangs mit pathogenen Organismen entstanden, verjähr
 - b. die pathogenen Organismen in Verkehr gebracht worden sind.
 
 [^59c-1]: Eingefügt durch Anhang Ziff. 4 des Gentechnikgesetzes vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^59c-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59c-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59d
 
@@ -2181,7 +2208,7 @@ Mit Busse bis zu 30 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Für Widerhandlungen nach den Artikeln 61*a* und 61*b* gelten zudem die übrigen Bestimmungen des Bundesgesetzes über das Verwaltungsstrafrecht.[^62-2]
 
-[^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^62-2]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Fassung gemäss Anhang Ziff. 4 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 62a
@@ -2241,7 +2268,7 @@ Wenn aufgrund anderer Bundesgesetze erlassene Umweltvorschriften diesem Gesetz w
 Gesuche um Abgeltungen an die Kosten von Massnahmen nach Artikel 32*e*<sup>bis</sup> Absätze 3, 4 Buchstabe a, 5 und 12 werden in Abweichung von Artikel 36 des Subventionsgesetzes vom 5. Oktober 1990[^65a-2] nach dem im Zeitpunkt der Gesuchseinreichung geltenden Recht beurteilt, wenn mit den Massnahmen vor Inkrafttreten der Änderung vom 27. September 2024 begonnen wurde oder diese bereits abgeschlossen sind. Sie sind spätestens bis zwei Jahre nach Inkrafttreten dieser Änderung beim Bundesamt einzureichen.
 
 [^65a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 

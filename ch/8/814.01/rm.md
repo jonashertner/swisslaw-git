@@ -4,11 +4,11 @@ title: "Lescha federala dals 7 d'october 1983 davart la protecziun da l'ambient 
 short: LPAmb
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: rm
-version: 2025-04-01
+version: 2026-04-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250401/rm/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250401-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260401/rm/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260401-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart la protecziun da l’ambient, LPAmb)
 
-dals 7 d’october 1983 (versiun dal 1. d’avrigl 2025)
+dals 7 d’october 1983 (versiun dal 1. d’avrigl 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 74 alinea 1 da la Constituziun federala[^ingress-1],[
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [BBl 1979 III 749](https://fedlex.data.admin.ch/eli/fga/1979/3_749_741_713)
 
@@ -263,8 +263,8 @@ Il Cussegl federal giuditgescha almain mintga 4 onns il stadi da l’ambient en 
 
 <sup>4</sup> Per autoritads chantunalas sa drizza quest dretg tenor la legislaziun chantunala. Uschenavant ch’ils chantuns n’han betg anc decretà disposiziuns davart l’access a documents, applitgeschan els las disposiziuns da questa lescha e da la LTrans tenor il senn.
 
-[^10g-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^10g-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^10g-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^10g-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 5. chapitel Schanetg da las resursas natiralas e rinforzament da l’economia circulara
 
@@ -402,13 +402,32 @@ Ils proprietaris dals stabiliments fixs che produceschan la canera portan ils cu
 
 #### Art. 22
 
-**Permissiuns da construcziun en regiuns engrevgiadas cun canera**
+**Permissiuns da construcziun en regiuns engrevgiadas cun canera**[^22-1]
 
-<sup>1</sup> Permissiuns da construcziun per edifizis novs che servan ad ina dimora pli lunga da persunas vegnan concedidas cun resalva da l’alinea 2 mo, sche las limitas d’immissiuns na vegnan betg surpassadas.
+<sup>1</sup> Permissiuns da construcziun per construir e midar essenzialmain edifizis che servan ad ina dimora pli lunga da persunas, vegnan concedidas – cun resalva da l’alinea 2 – mo, sche las limitas d’immissiuns pon vegnir observadas, uschenavant che quai è commensurà.
 
-<sup>2</sup> Sche las limitas d’immissiuns èn surpassadas, vegnan concedidas permissiuns da construcziun per edifizis novs che servan ad ina dimora pli lunga da persunas mo, sch’ils locals èn ordinads en moda adattada e sch’i èn vegnidas prendidas las mesiras supplementaras da protecziun cunter la canera ch’èn eventualmain necessarias.[^22-1]
+<sup>2</sup>
 
-[^22-1]: Versiun tenor la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+Sche las limitas d’immissiuns na pon betg vegnir observadas, dastga la permissiun da construcziun vegnir concedida mo, sche:
+
+- a.
+
+  per mintga unitad d’abitar:
+
+  - 1\. i vegn installà ina ventilaziun controllada per dar aria frestga e per allontanar l’aria duvrada dals locals sensibels a canera, ed
+    - – igl è avant maun in sistem da sfradentar u
+    - – almain in local sensibel a canera ha ina fanestra, nua che las limitas d’immissiuns vegnan observadas,
+
+  - 2\. almain la mesadad dals locals sensibels a canera han ina fanestra, nua che las limitas d’immissiuns vegnan observadas, u
+  - 3\. almain in local sensibel a canera ha ina fanestra, nua che las limitas d’immissiuns vegnan observadas, ed i stat a disposiziun in spazi exteriur per l’utilisaziun privata, nua che las limitas d’immissiuns vegnan observadas; e
+
+- b. la protecziun architectonica minimala cunter la canera externa ed interna tenor l’artitgel 21 vegn augmentada adequatamain e commensuradamain.
+
+<sup>3</sup> En cas da canera tras il traffic aviatic u per ina pitschna cumpart d’unitads d’abitar en cas da grondas surbajegiadas cun abitaziuns pon vegnir concedidas excepziuns da las pretensiuns tenor l’alinea 2 litera a.
+
+<sup>4</sup> Ils possessurs dals stabiliments èn obligads da limitar las emissiuns, er suenter ch’ina permissiun da construcziun tenor ils alineas 2 e 3 è vegnida concedida.
+
+[^22-1]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2026 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [2026 113](https://fedlex.data.admin.ch/eli/oc/2026/113); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 23
 
@@ -418,13 +437,21 @@ Per la planisaziun da novas zonas da construcziun e per la protecziun cunter nov
 
 #### Art. 24
 
-**Pretensiuns a zonas da construcziun**
+**Pretensiuns a zonas da construcziun**[^24-1]
 
-<sup>1</sup> Novas zonas da construcziun per edifizis d’abitar u per auters edifizis che servan ad ina dimora pli lunga da persunas dastgan vegnir previsas mo en regiuns, nua che las immissiuns da canera na surpassan betg las valurs da planisaziun u nua che questas valurs pon vegnir observadas tras mesiras da planisaziun, da concepziun u da construcziun. La midada da zona da zonas da construcziun na vala betg sco determinaziun da novas zonas da construcziun.[^24-1]
+<sup>1</sup> Zonas da construcziun per edifizis d’abitar u per auters edifizis che servan ad ina dimora pli lunga da persunas, dastgan mo vegnir determinadas, sche las valurs da planisaziun pon vegnir observadas.
 
-<sup>2</sup> Las zonas da construcziun ch’existan, ma che n’èn anc betg rendidas accessiblas per edifizis d’abitar u per auters edifizis che servan ad ina dimora pli lunga da persunas, ed en las qualas las valurs da planisaziun vegnan surpassadas, ston vegnir attribuidas ad ina moda d’utilisaziun main sensibla a canera, nun che las valurs da planisaziun possian vegnir observadas en la gronda part da questas zonas cun mesiras da planisaziun, da concepziun u da construcziun.
+<sup>2</sup> En zonas da construcziun dastgan midadas dals plans d’utilisaziun, che han l’intent da stgaffir spazi d’abitar supplementar, mo vegnir concludidas, sche las limitas d’immissiuns pon vegnir observadas.
 
-[^24-1]: Integrà la frasa tras la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+<sup>3</sup>
+
+En divergenza dals alineas 1 e 2 pon vegnir determinadas zonas da construcziun u vegnir concludidas midadas dals plans d’utilisaziun en las zonas da construcziun, sche:
+
+- a. igl exista in interess predominant per sviluppar l’abitadi vers anen;
+- b. igl è avant maun – entaifer la zona da construcziun u en sia vischinanza – in spazi liber che correspunda a la spessezza ed al tip d’utilisaziun da la zona, ch’è accessibel a la populaziun pertutgada e che serva a la recreaziun; e
+- c. i vegnan fixadas, en spezial per ils stabiliments dal traffic sin via sco er per ils edifizis e per lur conturns, mesiras che procuran per ina qualitad d’abitar adequata areguard l’acustica.
+
+[^24-1]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2026 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [2026 113](https://fedlex.data.admin.ch/eli/oc/2026/113); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 25
 
@@ -513,7 +540,7 @@ Organissems dastgan vegnir applitgads mo uschia, ch’els, lur products metaboli
 
 <sup>3</sup> Prescripziuns en autras leschas federalas che han l’intent da proteger la sanadad da l’uman cunter periclitaziuns directas tras organissems restan resalvadas.
 
-[^29a-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^29a-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 29b
 
@@ -562,7 +589,7 @@ Il Cussegl federal regla las pretensiuns e la procedura. El regla en spezial:
 <sup>2</sup> Tgi ch’è partida tenor las prescripziuns da la Lescha federala dals 20 da december 1968[^29dbis-2] davart la procedura administrativa, po far protesta tar l’autoritad da permissiun durant il termin d’exposiziun. Tgi che na fa betg protesta, è exclus da l’ulteriura procedura.
 
 [^29dbis-1]: Integrà tras la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^29dbis-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29dbis-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 29e
 
@@ -600,7 +627,7 @@ En spezial po el:
 
 La Cumissiun federala spezialisada per la segirezza biologica e la Cumissiun federala d’etica per la biotecnologia en il sectur betg uman (art. 22 e 23 da la Lescha dals 21 da mars 2003[^29g-1] davart la tecnica genetica) cusseglian il Cussegl federal en connex cun il decret da prescripziuns ed en connex cun l’execuziun da las disposiziuns davart organissems.
 
-[^29g-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^29g-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 29h
 
@@ -876,7 +903,7 @@ Sche l’obligaziun da designar ina represchentanza en Svizra vegn fixada sco me
 <sup>3</sup> Sco gestiunari d’ina plattafurma electronica vegn considerà, tgi che maina ina plattafurma tenor l’artitgel 20*a* da la Lescha dals 12 da zercladur 2009[^32asexies-2] davart la taglia sin la plivalur.
 
 [^32asexies-1]: Integrà tras la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^32asexies-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^32asexies-2]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 32a<sup>septies</sup>
 
@@ -1180,7 +1207,7 @@ Las indemnisaziuns tenor l’artitgel 32*e*<sup>bis</sup> vegnan pajadas mo, sch
 
 <sup>2</sup> Il terren dastga vegnir engrevgià fisicalmain mo uschè ferm che sia fritgaivladad na vegn betg donnegiada duraivlamain; quai na vala betg per l’utilisaziun architectonica dal terren. Il Cussegl federal po decretar prescripziuns u recumandaziuns davart mesiras cunter grevezzas fisicalas dal terren sco l’erosiun u la densificaziun.
 
-[^33-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^33-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^33-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 34
@@ -1272,7 +1299,7 @@ Il Cussegl federal fixescha la tariffa da la taxa en vista a las finamiras dal m
 
 <sup>4</sup> Tgi che producescha en Svizra substanzas u organissems ch’èn suttamess a la taxa, sto declerar tals.
 
-[^35c-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^35c-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^35c-2]: Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^35c-3]: Versiun tenor la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli, en vigur dapi il 1. da schan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-4]: Integrà tras la cifra 6 da l’agiunta 2 da la LF dals 21 da zer. 1996 davart la taglia sin il petroli ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Abolì tras la cifra I da la LF dals 27 da sett. 2024, cun effect dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
@@ -1486,7 +1513,7 @@ El po concluder cunvegnas internaziunalas davart:[^39-2]
 <sup>4</sup> Las autoritads executivas da la Confederaziun resguardan las mesiras ch’ils chantuns han prendì a favur da la protecziun da l’ambient.[^41-5]
 
 [^41-1]: Versiun tenor la cifra III da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^41-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^41-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^41-3]: Versiun tenor la cifra I 14 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-4]: Versiun tenor la cifra I 14 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-5]: Oriundamain: al. 3.
@@ -1668,7 +1695,7 @@ En il rom da l’utilisaziun dal retgav net da la taglia sin ielis minerals e da
 <sup>2</sup> Ils chantuns preschentan a la Confederaziun in rapport davart l’utilisaziun da las contribuziuns per las mesiras per la protecziun da l’ambient per lung da las vias principalas che ston vegnir renovadas cun l’agid finanzial federal, e per lung da las ulteriuras vias.
 
 [^50-1]: Versiun tenor la cifra II 22 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^50-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^50-2]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 
 #### Art. 51
 
@@ -1723,9 +1750,10 @@ Il Cussegl federal po prevair che las partidas stoppian liquidar sin via electro
 
 ### 1*a*. secziun Giurisdicziun
 
-[^tit3-chap3-sec1a-1]
+[^tit3-chap3-sec1a-1][^tit3-chap3-sec1a-2]
 
-[^tit3-chap3-sec1a-1]: Oriundamain: 1. secziun. Integrà tras la cifra I da la LF dals 20 da dec. 2006, en vigur dapi il 1. da fan. 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec1a-1]: Oriundamain: 1. secziun.
+[^tit3-chap3-sec1a-2]: Integrà tras la cifra I da la LF dals 20 da dec. 2006, en vigur dapi il 1. da fan. 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 54
 
@@ -1786,7 +1814,7 @@ Las organisaziuns per la protecziun da l’ambient han il dretg da far recurs cu
 <sup>4</sup> Ils alineas 2 e 3 valan er per protestas e per recurs tenor il dretg chantunal cunter plans d’utilisaziun.
 
 [^55b-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2006, en vigur dapi il 1. da fan. 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^55b-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^55b-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 55c
 
@@ -1805,7 +1833,7 @@ Las cunvegnas tranter ils petents e las organisaziuns concernent prestaziuns fin
 <sup>3</sup> L’autoritad da recurs n’entra betg en in recurs, sche quel è abusiv u sche l’organisaziun ha pretendì prestaziuns inadmissiblas en il senn da l’alinea 2.
 
 [^55c-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2006, en vigur dapi il 1. da fan. 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^55c-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55c-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 55d
 
@@ -1878,7 +1906,7 @@ Las vischnancas han il dretg da far diever dals meds legals tenor il dretg feder
 <sup>3</sup> Per ovras ch’èn situadas sin il territori da plirs chantuns vala il dretg federal d’expropriaziun.[^58-4] Il Departament federal per ambient, traffic, energia e communicaziun decida davart l’expropriaziun.
 
 [^58-1]: Versiun tenor la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^58-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^58-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^58-3]: Versiun tenor la cifra 17 da l’agiunta da la LF dals 19 da zer. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^58-4]: Versiun tenor la cifra I da la LF dals 21 da dec. 1995, en vigur dapi il 1. da fan. 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
@@ -1945,7 +1973,7 @@ In privel spezial per l’ambient signifitgan per regla cunzunt manaschis e stab
 [^59a-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59a-2]: Versiun da la segunda frasa tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59a-3]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^59a-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59a-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^59a-5]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 59a<sup>bis</sup>
@@ -1989,7 +2017,7 @@ Organissems patogens èn manglus, sch’els na porschan betg la segirezza ch’i
 
 [^59abis-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59abis-2]: Expressiun tenor la cifra II 1 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Questa midada è vegnida resguardada en l’entir decret.
-[^59abis-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59abis-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59b
 
@@ -2019,7 +2047,7 @@ Sch’il donn è resultà pervia da l’applicaziun d’organissems patogens, su
 - b. ils organissems patogens èn vegnids mess en circulaziun.
 
 [^59c-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica, en vigur dapi il 1. da schan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^59c-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59c-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59d
 
@@ -2182,7 +2210,7 @@ Cun ina multa da fin 30 000 francs vegn chastià, tgi che fa intenziunadamain il
 
 <sup>2</sup> Per cuntravenziuns tenor ils artitgels 61*a* e 61*b* valan plinavant las ulteriuras disposiziuns da la Lescha federala davart il dretg penal administrativ.[^62-2]
 
-[^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^62-2]: Integrà tras la cifra I da la LF dals 21 da dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376), [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 62a
@@ -2242,7 +2270,7 @@ Sche prescripziuns davart l’ambient ch’èn vegnidas decretadas sin basa d’
 Dumondas d’indemnisar ils custs da mesiras tenor l’artitgel 32*e*<sup>bis</sup> alineas 3, 4 litera a, 5 e 12 vegnan giuditgadas – en divergenza da l’artitgel 36 da la Lescha da subvenziuns dals 5 d’october 1990[^65a-2] – tenor il dretg che vala il mument da l’inoltraziun da las dumondas, sche las mesiras èn vegnidas cumenzadas u èn gia terminadas avant l’entrada en vigur da la midada dals 27 da settember 2024. Las dumondas ston vegnir inoltradas a l’uffizi federal il pli tard 2 onns suenter l’entrada en vigur da questa midada.
 
 [^65a-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)). Versiun tenor la cifra I da la LF dals 27 da sett. 2024, en vigur dapi il 1. d’avr. 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 

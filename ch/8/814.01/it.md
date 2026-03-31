@@ -4,11 +4,11 @@ title: "Legge federale del 7 ottobre 1983 sulla protezione dell'ambiente (Legge 
 short: LPAmb
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: it
-version: 2025-04-01
+version: 2026-04-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250401-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260401/it/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250401/it"
 
 (Legge sulla protezione dell’ambiente, LPAmb[^t-1])
 
-del 7 ottobre 1983 (Stato 1° aprile 2025)
+del 7 ottobre 1983 (Stato 1° aprile 2026)
 
 [^t-1]: Nuova abbreviazione giusta l’art. 1 lett. e dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi, in vigore dal 1° feb. 1996 ([RU 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
 
@@ -27,7 +27,7 @@ visto l’articolo 74 capoverso 1 della Costituzione federale[^ingress-1];[^ingr
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [FF 1979 III 713](https://fedlex.data.admin.ch/eli/fga/1979/3_749_741_713)
 
@@ -264,8 +264,8 @@ Il Consiglio federale valuta almeno ogni quattro anni lo stato dell’ambiente i
 
 <sup>4</sup> Per quanto riguarda le autorità cantonali, il diritto di consultazione è disciplinato dal diritto cantonale. Se non hanno ancora emanato disposizioni relative all’accesso ai documenti, i Cantoni applicano per analogia le disposizioni della presente legge e della LTras.
 
-[^10g-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^10g-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^10g-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^10g-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Capitolo 5: Salvaguardia delle risorse naturali e rafforzamento dell’economia circolare
 
@@ -403,13 +403,32 @@ I proprietari degli impianti fissi rumorosi assumono le spese delle necessarie m
 
 #### Art. 22
 
-**Permessi di costruzione in zone esposte al rumore**
+**Permessi di costruzione in zone esposte al rumore**[^22-1]
 
-<sup>1</sup> I permessi di costruzione per edifici nuovi, destinati al soggiorno prolungato di persone, sono concessi, con riserva del capoverso 2, soltanto se i valori limite delle immissioni non sono superati.
+<sup>1</sup> I permessi di costruzione di edifici destinati al soggiorno prolungato di persone e quelli concernenti la loro modifica sostanziale sono concessi, fatto salvo il capoverso 2, soltanto se i valori limite delle immissioni possono essere rispettati, sempre che esigerne il rispetto non risulti sproporzionato.
 
-<sup>2</sup> Se i valori limite delle immissioni sono superati, i permessi di costruzione per edifici nuovi, destinati al soggiorno prolungato di persone, sono concessi soltanto qualora i locali siano disposti opportunamente e siano state prese le eventuali misure complementari di protezione acustica ancora necessarie.[^22-1]
+<sup>2</sup>
 
-[^22-1]: Nuovo testo giusta la cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+Se i valori limite delle immissioni non possono essere rispettati, il permesso di costruzione può essere concesso soltanto se:
+
+- a.
+
+  in ogni unità abitativa:
+
+  - 1\. per aerare e ventilare i locali sensibili al rumore viene installato un impianto di ventilazione controllata, e
+    - ‒ si dispone di un impianto di raffrescamento, o
+    - ‒ almeno un locale sensibile al rumore dispone di una finestra in corrispondenza della quale i valori limite delle immissioni sono rispettati,
+
+  - 2\. almeno la metà dei locali sensibili al rumore dispone di una finestra in corrispondenza della quale i valori limite delle immissioni sono rispettati, o
+  - 3\. almeno un locale sensibile al rumore dispone di una finestra in corrispondenza della quale i valori limite delle immissioni sono rispettati e uno spazio esterno ad uso privato dove i valori limite delle immissioni sono rispettati; e
+
+- b. la protezione edile minima contro il rumore esterno e interno di cui all’articolo 21 è rafforzata in modo adeguato e proporzionato.
+
+<sup>3</sup> Possono essere concesse deroghe ai requisiti di cui al capoverso 2 lettera a per il rumore prodotto dagli aeromobili o per una percentuale limitata delle unità abitative di grandi complessi residenziali.
+
+<sup>4</sup> I titolari di impianti restano tenuti a limitare le emissioni anche dopo che è stato loro rilasciato un permesso di costruzione conformemente ai capoversi 2 e 3.
+
+[^22-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2026 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [2026 113](https://fedlex.data.admin.ch/eli/oc/2026/113); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 23
 
@@ -419,13 +438,21 @@ Per la pianificazione di nuove zone edificabili e la protezione contro il rumore
 
 #### Art. 24
 
-**Requisiti per le zone edificabili**
+**Requisiti per le zone edificabili**[^24-1]
 
-<sup>1</sup> Le nuove zone per la costruzione di abitazioni o di altri edifici, destinati al soggiorno prolungato di persone, possono essere previste soltanto nelle regioni in cui le immissioni foniche non superano i valori di pianificazione o nelle quali questi valori possono essere rispettati mediante misure di pianificazione, sistemazione o costruzione. Il cambiamento di destinazione delle zone edificabili non implica una delimitazione di nuove zone edificabili.[^24-1]
+<sup>1</sup> Le zone per la costruzione di abitazioni o di altri edifici destinati al soggiorno prolungato di persone possono essere delimitate soltanto se i valori di pianificazione possono essere rispettati.
 
-<sup>2</sup> Le zone esistenti, ma non ancora urbanizzate per la costruzione di abitazioni o di altri edifici destinati al soggiorno prolungato di persone, nelle quali i valori di pianificazione sono superati, devono essere riservate per usi meno sensibili al rumore, eccetto che, nella parte preponderante di tali zone, i valori di pianificazione possano venir rispettati mediante misure di pianificazione, sistemazione o costruzione.
+<sup>2</sup> Nelle zone edificabili le modifiche dei piani di utilizzazione destinate ad accrescere lo spazio abitativo possono essere approvate soltanto se i valori limite delle immissioni possono essere rispettati.
 
-[^24-1]: Per. introdotto dalla cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+<sup>3</sup>
+
+In deroga ai capoversi 1 e 2, le zone edificabili possono essere delimitate o le modifiche dei piani di utilizzazione nelle zone edificabili possono essere approvate se:
+
+- a. sussiste un interesse preponderante allo sviluppo centripeto degli insediamenti;
+- b. all’interno della zona edificabile o nelle sue vicinanze vi è uno spazio libero confacente alla densità e al tipo di utilizzazione della zona, destinato allo svago e al ristoro della popolazione interessata; e
+- c. sono previste misure, in particolare per le infrastrutture per i trasporti stradali nonché per gli edifici e i loro dintorni, che concorrono ad assicurare una qualità abitativa adeguata sotto il profilo acustico.
+
+[^24-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2026 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [2026 113](https://fedlex.data.admin.ch/eli/oc/2026/113); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 25
 
@@ -514,7 +541,7 @@ Gli organismi possono essere utilizzati soltanto in modo che essi, i loro metabo
 
 <sup>3</sup> Sono fatte salve le prescrizioni contenute in altre leggi federali destinate a proteggere la salute dell’uomo da pericoli diretti dovuti a organismi.
 
-[^29a-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^29a-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 29b
 
@@ -563,7 +590,7 @@ Il Consiglio federale stabilisce le esigenze e la procedura. In particolare disc
 <sup>2</sup> Chi ha qualità di parte secondo le prescrizioni della legge federale del 20 dicembre 1968[^29dbis-2] sulla procedura amministrativa può, durante il termine di deposito, fare opposizione presso l’autorità competente in materia di autorizzazione. Se non fa opposizione, è escluso dal seguito della procedura.
 
 [^29dbis-1]: Introdotto dalla cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^29dbis-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29dbis-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 29e
 
@@ -601,7 +628,7 @@ In particolare, il Consiglio federale può:
 
 La Commissione federale di esperti per la sicurezza biologica e la Commissione federale d’etica per la biotecnologia nel settore non umano (art. 22 e 23 della L del 21 mar. 2003[^29g-1] sull’ingegneria genetica) prestano consulenza al Consiglio federale per l’elaborazione delle prescrizioni e per l’esecuzione delle disposizioni sugli organismi.
 
-[^29g-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^29g-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 #### Art. 29h
 
@@ -843,23 +870,6 @@ I Cantoni provvedono affinché i costi di smaltimento dei rifiuti urbani, per qu
 [^32abis-5]: Introdotto la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^32abis-6]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
-#### Art. 32b
-
-**Garanzie finanziarie relative alle discariche**
-
-<sup>1</sup> Chi gestisce o intende gestire una discarica deve garantire la copertura dei costi per la chiusura, gli interventi ulteriori e il risanamento, mediante accantonamento, assicurazione o in altro modo.
-
-<sup>2</sup> Il titolare della discarica che si fa garante deve notificare ogni anno all’autorità l’ammontare della garanzia.
-
-<sup>3</sup> Il terzo che si porta garante deve notificare all’autorità l’esistenza, la sospensione o la cessazione della garanzia. Il Consiglio federale può prevedere che la garanzia sia sospesa o cessi soltanto 60 giorni dopo il ricevimento della notifica.
-
-<sup>4</sup>
-
-Il Consiglio federale può emanare prescrizioni sulla garanzia. Può in particolare:
-
-- a. fissarne l’entità e la durata o lasciare che sia l’autorità a decidere di caso in caso;
-- b. prevedere che la chiusura della discarica comporti il trasferimento al Cantone della proprietà del fondo sul quale la discarica è situata e regolare la questione dell’indennizzo.
-
 #### Art. 32a<sup>ter</sup>
 
 [^32ater-1]
@@ -893,7 +903,7 @@ Se in virtù dell’articolo 32*a*<sup>quater</sup> è stabilito l’obbligo di 
 <sup>3</sup> È considerato gestore di piattaforme elettroniche chi gestisce una piattaforma elettronica secondo l’articolo 20*a* della legge del 12 giugno 2009[^32asexies-2] sull’IVA.
 
 [^32asexies-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^32asexies-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^32asexies-2]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 32a<sup>septies</sup>
 
@@ -928,6 +938,23 @@ Può disporre i provvedimenti amministrativi seguenti:
 Nell’attuare gli articoli 32*a*<sup>bis</sup>–32*a*<sup>septies</sup> il Consiglio federale tiene conto delle normative dei principali partner commerciali della Svizzera.
 
 [^32aocties-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32b
+
+**Garanzie finanziarie relative alle discariche**
+
+<sup>1</sup> Chi gestisce o intende gestire una discarica deve garantire la copertura dei costi per la chiusura, gli interventi ulteriori e il risanamento, mediante accantonamento, assicurazione o in altro modo.
+
+<sup>2</sup> Il titolare della discarica che si fa garante deve notificare ogni anno all’autorità l’ammontare della garanzia.
+
+<sup>3</sup> Il terzo che si porta garante deve notificare all’autorità l’esistenza, la sospensione o la cessazione della garanzia. Il Consiglio federale può prevedere che la garanzia sia sospesa o cessi soltanto 60 giorni dopo il ricevimento della notifica.
+
+<sup>4</sup>
+
+Il Consiglio federale può emanare prescrizioni sulla garanzia. Può in particolare:
+
+- a. fissarne l’entità e la durata o lasciare che sia l’autorità a decidere di caso in caso;
+- b. prevedere che la chiusura della discarica comporti il trasferimento al Cantone della proprietà del fondo sul quale la discarica è situata e regolare la questione dell’indennizzo.
 
 #### Art. 32b<sup>bis</sup>
 
@@ -1185,7 +1212,7 @@ Le indennità di cui all’articolo 32*e*<sup>bis</sup> sono versate soltanto se
 
 <sup>2</sup> Un suolo può essere deteriorato nella sua struttura fisica soltanto nella misura in cui il pregiudizio che ne deriva alla sua fertilità non è durevole; questa disposizione non vale per l’uso edilizio del suolo. Il Consiglio federale può emanare prescrizioni o raccomandazioni sulle misure contro i deterioramenti di natura fisica, quali l’erosione o il costipamento.
 
-[^33-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^33-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^33-2]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 34
@@ -1275,7 +1302,7 @@ Il Consiglio federale fissa l’importo della tassa in base agli obiettivi di pr
 
 <sup>4</sup> Chi produce all’interno del Paese sostanze o organismi soggetti alla tassa deve dichiararli.
 
-[^35c-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^35c-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^35c-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^35c-3]: Nuovo testo giusta l’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali, in vigore dal 1° gen. 1997 ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-4]: Introdotto dall’all. 2 n. 6 della LF del 21 giu. 1996 sull’imposizione degli oli minerali ([RU 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Abrogato dalla cifra I della LF del 27 set. 2024, con effetto dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
@@ -1488,7 +1515,7 @@ Esso può stipulare accordi internazionali su:
 <sup>4</sup> Le autorità esecutive federali tengono conto delle misure di protezione dell’ambiente previste dai Cantoni.[^41-5]
 
 [^41-1]: Nuovo testo giusta la cifra III della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^41-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^41-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^41-3]: Nuovo testo giusta la cifra I n. 14 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 [^41-4]: Nuovo testo giusta la cifra I n. 14 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472)3124; FF **1998** 2029).
 [^41-5]: Originario cpv. 3.
@@ -1670,7 +1697,7 @@ Nell’ambito dell’impiego del prodotto netto dell’imposta sugli oli mineral
 <sup>2</sup> I Cantoni presentano alla Confederazione un rapporto sull’utilizzo dei sussidi per le misure di protezione dell’ambiente lungo le strade principali che devono essere sistemate con l’aiuto federale e lungo le rimanenti strade.
 
 [^50-1]: Nuovo testo giusta la cifra II n. 22 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^50-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^50-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 
 #### Art. 51
 
@@ -1789,7 +1816,7 @@ Le organizzazioni di protezione dell’ambiente sono legittimate a ricorrere con
 <sup>4</sup> In materia di piani di utilizzazione i capoversi 2 e 3 si applicano anche alle opposizioni e ai ricorsi interposti secondo il diritto cantonale.
 
 [^55b-1]: Introdotto dalla cifra I della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^55b-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^55b-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 55c
 
@@ -1808,7 +1835,7 @@ Sono illeciti gli accordi fra i richiedenti e le organizzazioni relativi a prest
 <sup>3</sup> L’autorità di ricorso non entra nel merito dei ricorsi che configurano un abuso di diritto o qualora l’organizzazione abbia chiesto prestazioni illecite ai sensi del capoverso 2.
 
 [^55c-1]: Introdotto dalla cifra I della LF del 20 dic. 2006, in vigore dal 1° lug. 2007 ([RU 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [FF 2005 4777](https://fedlex.data.admin.ch/eli/fga/2005/841)[4817](https://fedlex.data.admin.ch/eli/fga/2005/843)).
-[^55c-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55c-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 55d
 
@@ -1881,7 +1908,7 @@ I Comuni sono autorizzati ad avvalersi, contro le decisioni cantonali e federali
 <sup>3</sup> La legislazione federale sull’espropriazione è applicabile alle opere situate sul territorio di più Cantoni.[^58-4] Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni decide sul diritto d’espropriazione.
 
 [^58-1]: Nuovo testo giusta la cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^58-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^58-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^58-3]: Nuovo testo giusta l’all. n. 17 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^58-4]: Nuovo testo giusta la cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
@@ -1948,7 +1975,7 @@ Di norma, costituiscono un pericolo particolare per l’ambiente le aziende e gl
 [^59a-1]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59a-2]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^59a-3]: Nuovo testo del per. giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^59a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59a-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^59a-5]: Nuovo testo giusta l’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 59a<sup>bis</sup>
@@ -1994,7 +2021,7 @@ Sono difettosi gli organismi patogeni che non offrono la sicurezza che è lecito
 [^59abis-2]: Nuova espr. giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^59abis-3]: Nuova espr. giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^59abis-4]: Nuova espr. giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^59abis-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59abis-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59b
 
@@ -2024,7 +2051,7 @@ Se il danno è stato causato dall’utilizzazione di organismi patogeni, le pret
 - b. gli organismi patogeni sono stati messi in commercio.
 
 [^59c-1]: Introdotto dall’all. n. 4 della LF del 21 mar. 2003 sull’ingegneria genetica, in vigore dal 1° gen. 2004 ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^59c-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59c-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59d
 
@@ -2039,7 +2066,7 @@ Il diritto di regresso si prescrive secondo l’articolo 59*c*. Il termine di tr
 [^tit5-1][^tit5-2]
 
 [^tit5-1]: Originario Tit. 4
-[^tit5-2]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^tit5-2]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
 #### Art. 60
 
@@ -2189,7 +2216,7 @@ In caso di circostanze aggravanti la pena è una pena detentiva sino a cinque an
 
 <sup>2</sup> Alle infrazioni secondo gli articoli 61*a* e 61*b* si applicano inoltre le altre disposizioni della legge federale sul diritto penale amministrativo.[^62-2]
 
-[^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^62-2]: Introdotto dalla cifra I della LF del 21 dic. 1995 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nuovo testo giusta l’all. n. 4 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 62a
@@ -2249,7 +2276,7 @@ Le prescrizioni concernenti l’ambiente, emanate in virtù di altre leggi feder
 In deroga all’articolo 36 della legge del 5 ottobre 1990[^65a-2] sui sussidi, le domande di indennità per le spese risultanti dai provvedimenti secondo l’articolo 32*e*<sup>bis</sup> capoversi 3, 4 lettera a, 5 e 12 sono esaminate secondo il diritto vigente al momento della presentazione della domanda se i provvedimenti sono stati avviati o si sono già conclusi prima dell’entrata in vigore della presente modifica. Le domande devono essere presentate all’Ufficio federale al più tardi due anni dopo l’entrata in vigore della presente modifica.
 
 [^65a-1]: Introdotto dalla cifra I della LF del 26 set. 2014 ([RU 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [FF 2014 3151](https://fedlex.data.admin.ch/eli/fga/2014/820)[3163](https://fedlex.data.admin.ch/eli/fga/2014/822)). Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^65a-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^65a-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 
