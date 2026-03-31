@@ -4,7 +4,7 @@ number: "171.01"
 title: LOI du 08.05.2007 sur le Grand Conseil (LGC)
 short: LGC
 language: fr
-version: 2025-03-01
+version: 2026-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01?id=f2e96e40-e605-4a11-8df5-73896762e321"
 ---
 
@@ -1055,7 +1055,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>1</sup> La commission, ou une délégation de celle-ci, peut procéder à des visites inopinées des lieux de détention situés dans le canton.
 
-<sup>2</sup> La commission, ou une délégation de celle-ci, peut se rendre en tout temps dans ces lieux de détention, à condition d'avertir au moins la veille le conseiller d'Etat en charge du département ou du service concerné du caractère inopiné de la visite.
+<sup>2</sup> La commission, ou une délégation de celle-ci, peut se rendre en tout temps dans ces lieux de détention.
 
 <sup>3</sup> Pendant la visite, la commission, ou une délégation de celle-ci, peut se faire accompagner par l'une ou plusieurs des personnes indiquées à l'article 63f, alinéa 4 de la présente loi.
 
