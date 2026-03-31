@@ -4,7 +4,7 @@ number: "814.68"
 title: "LOI du 17.01.2006 sur l'assainissement des sites pollués (LASP)"
 short: LASP
 language: fr
-version: 2022-03-01
+version: 2026-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/814.68?id=514cc140-edaa-4010-915e-3996cc2a4c5b"
 ---
 
@@ -355,10 +355,10 @@ décrète
 
 **Modalités de calcul [^27a-1]**
 
-<sup>1</sup> Le service alloue une aide aux communes ou aux groupements de communes qui s'élève à:
+<sup>1</sup> Le service alloue une aide aux communes ou aux groupements de communes qui s'élève à 30 % des coûts imputables.
 
-- a. un forfait de 6'000 francs par cible dans le cas d'installations de tir à 300 mètres;
-- b. 30% des coûts imputables dans le cas des autres installations de tir.
+- a. ...
+- b. ...
 
 <sup>2</sup> Cette aide s'additionne aux indemnités versées par la Confédération dans le cadre de l'ordonnance relative à la taxe pour l'assainissement des sites contaminés (OTAS), mais ne peut pas dépasser les coûts effectifs d'investigation, de surveillance et d'assainissement.
 
@@ -381,11 +381,11 @@ décrète
 <sup>1</sup> Les conditions suivantes doivent être remplies pour qu'une commune ou un groupement de communes puisse bénéficier de l'aide du canton:
 
 - a. la nécessité d'assainir doit avoir fait l'objet d'une décision préalable d'assainissement de l'autorité compétente;
-- b. pour les buttes de tir communales situées en zone de protection des eaux souterraines, l'assainissement doit être terminé avant le 31 décembre 2025. Pour les autres buttes devant être assainies, l'assainissement doit être terminé dans un délai de 5 ans dès réception de la décision d'assainissement;
+- b. pour les buttes de tir communales situées en zone de protection des eaux souterraines, l'assainissement doit être terminé avant le 31 décembre 2028. Pour les autres buttes devant être assainies, l'assainissement doit être terminé dans un délai de 5 ans dès réception de la décision d'assainissement;
 - c. pour les buttes de tir communales situées en zone de protection des eaux souterraines, aucune balle ne doit plus avoir été tirée dans le sol après le 31 décembre 2012. Pour les autres buttes, aucune balle ne doit plus avoir été tirée dans le sol après le 31 décembre 2020;
 - d. une investigation technique et un cahier des charges du projet d'assainissement doivent avoir été approuvés par l'autorité compétente avant la réalisation des travaux;
 - e. les travaux d'assainissement doivent avoir débuté après le 1er octobre 2009;
-- f. sur demande du bénéficiaire, la subvention cantonale peut être versée rétroactivement pour les installations ayant été assainies avant 2021 et ayant été au bénéfice d'indemnités OTAS;
+- f. sur demande du bénéficiaire, la subvention cantonale peut être versée rétroactivement pour les installations ayant été assainies avant 2021 et ayant été au bénéfice d'indemnités OTAS. Dans ce cas, la subvention octroyée s'élève à un forfait de 6'000 francs par cible pour les installations de tir à 300 mètres et à 30% des coûts imputables pour les autres installations de tir.
 - g. l'autorité compétente requiert le préavis de la Confédération sur l'octroi d'une indemnité en application de l'ordonnance relative à la taxe pour l'assainissement des sites contaminés (OTAS).
 
 [^27c-1]: Modif. 4 du 14.12.2021: Introduction tArt; entrée en vigueur au 01.03.2022; Introduction Al. 1; entrée en vigueur au 01.03.2022; Introduction Art. 27d; entrée en vigueur au 01.03.2022 · Modif. 5 du 17.12.2025: Modification Al. 1, b,f; entrée en vigueur au 01.04.2026
