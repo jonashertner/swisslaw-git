@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2025-07-01
+version: 2026-04-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260401/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260401-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250701/de"
 
 (VRV)[^t-1]
 
-vom 13. November 1962 (Stand am 1. Juli 2025)
+vom 13. November 1962 (Stand am 1. April 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -1728,7 +1728,7 @@ Das Betriebsgewicht von Fahrzeugen und Fahrzeugkombinationen darf höchstens bet
 - g.[^67-8] 24,00 t bei Anhängern mit drei Achsen, ausgenommen Sattelanhänger, Zentralachsanhänger und Starrdeichselanhänger;
 - h.[^67-9] 18,00 t bei Anhängern mit zwei Achsen, ausgenommen Sattelanhänger, Zentralachsanhänger und Starrdeichselanhänger.
 
-<sup>1bis</sup> Als unbegleiteter kombinierter Verkehr gilt die Beförderung von Ladebehältern (Container, Wechselaufbau) oder die Überführung eines Sattelanhängers von oder zu einer beliebigen schweizerischen Umladestation der Bahn bzw. von oder zu einem schweizerischen Hafen, ohne dass das Ladegut beim Übergang vom einen zum anderen Verkehrsträger das Transportgefäss wechselt. Das UVEK kann festlegen, welche in Grenznähe liegenden ausländischen Umladestationen den schweizerischen gleichgestellt sind. Der Fahrzeugführer muss im unbegleiteten kombinierten Verkehr ein geeignetes Nachweisdokument (z. B. Frachtbrief der Bahn) mitführen.[^67-10]
+<sup>1bis</sup> Als unbegleiteter kombinierter Verkehr gilt die Beförderung von Ladebehältern (Container, Wechselaufbau) oder die Überführung eines Sattelanhängers von oder zu einer beliebigen schweizerischen Umladestation der Bahn bzw. von oder zu einem schweizerischen Hafen, ohne dass das Ladegut beim Übergang vom einen zum anderen Verkehrsträger das Transportgefäss wechselt. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann festlegen, welche in Grenznähe liegenden ausländischen Umladestationen den schweizerischen gleichgestellt sind. Der Fahrzeugführer muss im unbegleiteten kombinierten Verkehr ein geeignetes Nachweisdokument (z. B. Frachtbrief der Bahn) mitführen.[^67-10]
 
 <sup>1<sup>ter</sup></sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstaben b–d und e mit alternativem Antrieb (Art. 9*a* Abs. 1 VTS[^67-11]) darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS) höchstens 2 t, höher sein.[^67-12]
 
@@ -2310,10 +2310,10 @@ Die kantonale Behörde kann die gewerbliche Verwendung land- und forstwirtschaft
 
 Unter das Sonntags- und Nachtfahrverbot fallen:
 
-- a. schwere Motorwagen (Art. 10 Abs. 2 VTS[^91-2]);
+- a. schwere Motorwagen (Art. 10 Abs. 2 VTS [^91-2]);
 - b. gewerbliche Traktoren und Arbeitsmotorwagen;
-- c. Sattelmotorfahrzeuge mit einem zulässigen Gesamtzugsgewicht (Art. 7 Abs. 6 VTS) von über 5 t;
-- d. Fahrzeuge, die einen Anhänger mit einem zulässigen Gesamtgewicht (Art. 7 Abs. 4 VTS) von mehr als 3,5 t mitführen.
+- c. Sattelmotorfahrzeuge mit einem zulässigen Gesamtzugsgewicht (Art. 7 Abs. 6 VTS ) von über 5 t;
+- d. Fahrzeuge, die einen Anhänger mit einem zulässigen Gesamtgewicht (Art. 7 Abs. 4 VTS ) von mehr als 3,5 t mitführen.
 
 [^part5-chap1-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^91-1]: Fassung gemäss Ziff. I der V vom 1. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
@@ -2412,7 +2412,7 @@ In der Bewilligung sind anzugeben:
 
 [^93-1]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
 [^93-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
-[^93-3]: Aufgehoben durch Ziff. II 62 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^93-3]: Aufgehoben durch Ziff. II 62 der V vom 8. Nov. 2006 über die Anpassung von Bun-desratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### 2. Abschnitt: Sportliche Veranstaltungen
 
@@ -2434,7 +2434,7 @@ Gestattet sind jedoch mit Bewilligung der kantonalen Behörde:
 - b. Geschicklichkeitswettfahrten im Gelände;
 - c. Rennen mit besonderen Fahrzeugen von höchstens 250 cm<sup>3</sup> Zylinderinhalt wie sogenannte Karts;
 - d. Autoslaloms;
-- e. Rennen im Rahmen der Formel-E-Meisterschaft.[^94-1]
+- e. … [^94-1]
 
 [^94-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. April 2016 ([AS 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61)). Bst. e gilt nur bis zum 31. März 2026 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -2450,7 +2450,7 @@ Gestattet sind jedoch mit Bewilligung der kantonalen Behörde:
 
 <sup>4</sup> Sind Durchschnittsgeschwindigkeiten vorgesehen, so hat der Veranstalter geheime Kontrollen vorzunehmen und Überschreitungen bei der Bewertung angemessen zu berücksichtigen.
 
-<sup>5</sup> Für Rennen im Rahmen der Formel-E-Meisterschaft legt die kantonale Behörde in der Bewilligung eine für Rennkurs und Fahrzeuge angemessene Höchstgeschwindigkeit fest. Die kantonale Behörde stellt sicher, dass die Höchstgeschwindigkeit kontrolliert und durchgesetzt wird.[^95-1]
+<sup>5</sup> … [^95-1]
 
 \* Für den Versicherungsnachweis vgl. die Art. 30 und 31 der Verkehrsversicherungsverordnung vom 20. Nov. 1959 (SR **741.31**).
 
@@ -2517,7 +2517,7 @@ Diese Informationssysteme enthalten insbesondere folgende Daten:
 
 Bereits in Verkehr stehende Fahrzeuge, welche der vor dem 1. August 2002 geltenden Fahrraddefinition nach Artikel 24 Absatz 1 VTS[^98-2] entsprechen und alle technischen Anforderungen an Fahrräder erfüllen, dürfen noch bis zum 31. Dezember 2003 wie Fahrräder verwendet werden, sofern sie eine Fahrradvignette tragen.
 
-[^98-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
+[^98-1]: Aufgehoben durch Ziff. I der V vom 10. Juli 1972 ([AS 1972 1573](https://fedlex.data.admin.ch/eli/oc/1972/1573_1605_1777)). Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^98-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 98a

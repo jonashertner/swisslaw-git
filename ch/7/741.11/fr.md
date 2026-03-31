@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2025-07-01
+version: 2026-04-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260401-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250701/fr"
 
 (OCR)[^t-1]
 
-du 13 novembre 1962 (État le 1<sup>er</sup> juillet 2025)
+du 13 novembre 1962 (État le 1<sup>er</sup> avril 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -2430,7 +2430,7 @@ Sont admises toutefois, avec l’autorisation des cantons:
 - b. les courses mettant en jeu l’habileté des concurrents à circuler sur un terrain difficile;
 - c. les courses de véhicules spéciaux dont la cylindrée n’excède pas 250 cm<sup>3</sup>, telles que les courses dites de karts;
 - d. les slaloms pour automobiles;
-- e. les courses effectuées dans le cadre du championnat de Formule E.[^94-1]
+- e. …[^94-1]
 
 [^94-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61)). La let. e a effet jusqu’au 31 mars 2026 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -2446,7 +2446,7 @@ Sont admises toutefois, avec l’autorisation des cantons:
 
 <sup>4</sup> Si le règlement de la course prévoit une vitesse moyenne, l’organisateur de la manifestation effectuera des contrôles secrets et les dépassements de la vitesse seront pris en considération lors du classement.
 
-<sup>5</sup> En ce qui concerne les courses effectuées dans le cadre du championnat de Formule E, l’autorité cantonale fixe une vitesse maximale adaptée au circuit et aux véhicules dans l’autorisation qu’elle délivre. Elle s’assure que la vitesse maximale autorisée est contrôlée et respectée.[^95-1]
+<sup>5</sup> …[^95-1]
 
 \* En ce qui concerne l’attestation d’assurance, voir les art. 30 et 31 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^95-2].
 
