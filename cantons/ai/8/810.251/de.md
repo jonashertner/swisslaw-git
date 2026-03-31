@@ -4,13 +4,12 @@ number: "810.251"
 title: Standeskommissionsbeschluss betreffend Einrichtungen der Gesundheitsversorgung
 short: StKB Gesundheitsversorgung
 language: de
-version: 2022-09-03
-valid_until: 2026-03-31
-version_adopted: 2022-08-30
+version: 2026-04-01
+version_adopted: 2026-03-17
 adopted: 2019-12-17
 in_force: 2020-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/810.251"
-pdf: "https://ai.clex.ch/api/de/versions/2115/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2115/pdf_file"
 
 (StKB Gesundheitsversorgung)
 
-vom 17.12.2019 (Stand 03.09.2022)
+vom 17.12.2019 (Stand 01.04.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -68,6 +67,27 @@ beschliesst:
 - e) über geeignete Räumlichkeiten und die erforderliche Ausrüstung verfügt;
 - f) den Anforderungen der Qualitätssicherungs-Richtlinien der anerkannten Fachorganisationen sowie an Hygiene und Sicherheit der Patientinnen und Patienten genügt;
 - g) über eine Haftpflichtversicherung mit angemessener Deckung verfügt.
+
+#### Art. 3a
+
+**Pflegende Angehörige**
+
+<sup>1</sup> Als pflegende Angehörige gelten:
+
+- a) Personen, die mit der pflegebedürftigen Person verwandt oder verheiratet sind oder mit ihr in eingetragener Partnerschaft leben;
+- b) Personen aus dem engen Umfeld der pflegebedürftigen Person, die ihr regelmässige und substanzielle Unterstützung leisten und die Verantwortung und Verbindlichkeit dafür übernehmen, selbst wenn die Unterstützung nicht entschädigt wird.
+
+<sup>2</sup> Stellt eine Einrichtung pflegende Angehörige an, hat sie sicherzustellen, dass die fallverantwortliche Pflegefachperson die pflegenden Angehörigen:
+
+- a) umfassend instruiert und kontinuierlich fachlich begleitet;
+- b) in der Erbringung sowie Dokumentation der Pflegeleistung anleitet;
+- c) in regelmässigen Abständen beaufsichtigt und bei Bedarf ergänzend anleitet. Mindestens alle zwei Wochen muss ein telefonischer Kontakt stattfinden und mindestens einmal monatlich ein Besuch vor Ort erfolgen.
+
+<sup>3</sup> Die pflegenden Angehörigen melden der fallverantwortlichen Pflegefachperson unverzüglich alle wesentlichen Veränderungen der Pflegesituation.
+
+<sup>4</sup> Eine fallverantwortliche Pflegefachperson darf bei einem Pensum von 100 Prozent höchstens 24 pflegende Angehörige begleiten und überwachen. Bei einem niedrigeren Pensum reduziert sich die Zahl der beaufsichtigten pflegenden Angehörigen entsprechend.
+
+<sup>5</sup> Stellt eine Einrichtung pflegende Angehörige an, hat sie zudem sicherzustellen, dass die pflegenden Angehörigen spätestens ein Jahr nach Stellenantritt erfolgreich einen Kurs in Pflegehilfe oder eine gleichwertige Ausbildung absolviert haben.
 
 #### Art. 4
 
@@ -165,6 +185,12 @@ beschliesst:
 <sup>1</sup> Betriebsbewilligungen, die vor Inkrafttreten dieses Erlasses erteilt wurden, bleiben bis zu ihrem Ablauf gültig.
 
 <sup>2</sup> Für neu der Bewilligungspflicht unterstellte Einrichtungen ist innerhalb von zwei Jahren seit Inkrafttreten dieses Standeskommissionsbeschlusses ein Bewilligungsgesuch einzureichen. Wird kein Bewilligungsgesuch eingereicht oder wird ihm nicht entsprochen, ist die weitere Ausübung der Tätigkeit untersagt.
+
+#### Art. 12a
+
+**Übergangsbestimmung zur Änderung vom 17. März 2026**
+
+<sup>1</sup> Wer beim Inkrafttreten der Änderung dieses Erlasses vom 17. März 2026 über eine Betriebsbewilligung verfügte, hat die mit der Änderung eingeführten Vorgaben bis spätestens ein Jahr nach dem Inkrafttreten zu erfüllen.
 
 #### Art. 13
 
