@@ -4,13 +4,13 @@ number: "611.1"
 title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Planungs- und Baugesetz, PBG"
 language: de
-version: 2026-01-01
-valid_until: 2026-03-31
-version_adopted: 2024-10-23
+version: 2026-04-01
+valid_until: 2026-06-30
+version_adopted: 2025-12-17
 adopted: 2014-05-21
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1446/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1487/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1446/pdf_file"
 
 (Planungs- und Baugesetz, PBG)[^t-1]
 
-vom 21.05.2014 (Stand 01.01.2026)
+vom 21.05.2014 (Stand 01.04.2026)
 
 Der Landrat von Nidwalden,
 
@@ -1361,11 +1361,22 @@ beschliesst:
 
 #### Art. 97
 
-**►Reklamen◄**
+**Reklamen**
 
-<sup>1</sup> Die Zulässigkeit, die Bewilligung und die Gestaltung von Reklamen im Freien richtet sich nach der Reklamengesetzgebung[^97-1].
+<sup>1</sup> Reklamen im Freien oder in Bauten und Anlagen mit Wirkung ins Freie sind grundsätzlich bewilligungspflichtig. Für baubewilligungspflichtige Reklamen ist das Baubewilligungsverfahren massgebend.
 
-[^97-1]: NG 611.12
+<sup>2</sup> Der Regierungsrat regelt in einer Verordnung insbesondere:
+
+- 1\. Ausnahmen von der Bewilligungspflicht;
+- 2\. die Zulässigkeit, das Anbringen, die Ausgestaltung, die Abstände und den Unterhalt von Reklamen;
+- 3\. das Bewilligungsverfahren;
+- 4\. den Vollzug der eidgenössischen Strassenverkehrsgesetzgebung[^97-1].
+
+<sup>3</sup> Die Verordnung berücksichtigt den Schutz des Orts- und Landschaftsbildes, der Kultur- und Naturdenkmäler sowie der Verkehrssicherheit und den Schutz vor übermässigen Lichtemissionen.
+
+<sup>4</sup> Die Gemeinden können in ihrer Nutzungsplanung Reklamemöglichkeiten in Gebieten, denen wegen ihrer Lage, Bedeutung, Umgebungssensivität oder Beschaffenheit eine besondere Schutzwürdigkeit zukommt, generell einschränken.
+
+[^97-1]: SR 741.01
 
 #### Art. 98
 
