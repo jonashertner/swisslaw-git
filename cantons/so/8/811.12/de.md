@@ -4,13 +4,12 @@ number: "811.12"
 title: Vollzugsverordnung zum Gesundheitsgesetz
 short: GesV
 language: de
-version: 2024-07-01
-valid_until: 2026-03-31
-version_adopted: 2024-06-18
+version: 2026-04-01
+version_adopted: 2026-01-26
 adopted: 2019-04-30
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.12"
-pdf: "https://bgs.so.ch/api/de/versions/5457/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5620/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5457/pdf_file"
 
 (GesV)
 
-Vom 30.04.2019 (Stand 01.07.2024)
+Vom 30.04.2019 (Stand 01.04.2026)
 
 der Regierungsrat des Kantons Solothurn
 
@@ -477,7 +476,7 @@ beschliesst:
 
 **Übergangsbestimmung zur Änderung vom 18. Juni 2024**
 
-<sup>1</sup> Spitex-Organisationen und Pflegeheime, welchen bereits vor Inkrafttreten von § 24<sup>bis</sup> eine Betriebsbewilligung erteilt worden ist, müssen die Vorgaben zum Stellenplan und zu den beruflichen Kompetenzen innert einem Jahr ab Publikation der betreffenden Richtlinien erfüllen.
+<sup>1</sup> Spitex-Organisationen und Pflegeheime, welchen bereits vor der Publikation der Richtlinien zum Stellenplan und zu den beruflichen Kompetenzen gemäss § 24<sup>bis</sup> Absatz 1 eine Betriebsbewilligung erteilt worden ist, müssen die betreffenden Vorgaben spätestens innert zweier Jahre ab Publikation der Richtlinien erfüllen.
 
 RRB Nr. 2019/720 vom 30. April 2019.
 
