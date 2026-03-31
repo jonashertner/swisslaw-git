@@ -1,21 +1,19 @@
 ---
 canton: VD
 number: "810.00.171225.1"
-title: "DÉCRET du 17.12.2025 fixant, pour l'exercice 2026, le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par des établissements sanitaires privés reconnus d'intérêt public afin de financer leurs investissements dans le cadre de la LPFES"
+title: "DÉCRET du 17.12.2025 accordant au Conseil d'Etat un crédit d'investissement de CHF 3'515'000 pour financer une restauration collective durable"
 language: fr
-version: 2026-01-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.00.171225.1?id=6b0d2daf-f3d8-4ea3-810c-9323b070552c"
+version: 2026-04-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.00.171225.1?id=d16bf69d-6b35-4e79-8c70-6342cbc4504c"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# DÉCRET fixant, pour l'exercice 2026, le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par des établissements sanitaires privés reconnus d'intérêt public afin de financer leurs investissements dans le cadre de la LPFES
+# DÉCRET accordant au Conseil d'Etat un crédit d'investissement de CHF 3'515'000 pour financer une restauration collective durable
 
 du 17 décembre 2025
 
 LE GRAND CONSEIL DU CANTON DE VAUD
-
-vu la loi sur la planification et le financement des établissements sanitaires d'intérêt public du 5 décembre 1978 (LPFES)
 
 vu le projet de décret présenté par le Conseil d'Etat
 
@@ -23,14 +21,22 @@ décrète
 
 #### Art. 1
 
-<sup>1</sup> Le montant maximum des garanties que le Conseil d'Etat peut octroyer au nom de l'Etat pour les emprunts contractés par des établissements sanitaires privés reconnus d'intérêt public afin de financer leurs investissements s'élève pour l'exercice 2026 à CHF 1'079'459'728.35 pour les EMS/EPSM et CHF 248'000'000.00 pour les hôpitaux.
+<sup>1</sup> Un crédit d'investissement de CHF 3'515'000 est accordé au Conseil d'Etat pour financer la stratégie sur la restauration collective.
 
 #### Art. 2
 
-<sup>1</sup> Le présent décret entre en vigueur le 1<sup>er</sup> janvier 2026.
+<sup>1</sup> Ce montant sera prélevé sur le compte Dépenses d'investissement et amorti en 5 ans, sans intérêt.
 
 #### Art. 3
 
+<sup>1</sup> Des aides financières peuvent être accordées aux entités impliquées dans la mise en œuvre de la stratégie sur la restauration collective, notamment les communes et les organismes prestataires de l'Etat.
+
+<sup>2</sup> L'Office de la durabilité et du climat assure le contrôle et le suivi de la Stratégie sur la restauration collective, d'un montant de CHF 2'660'000. Dans ce cadre, il fixe les conditions d'octroi, alloue et assure le suivi des aides versées.
+
+<sup>3</sup> Le Département de l'enseignement et de la formation professionnelle assure le contrôle et le suivi des mesures complémentaires pour l'alimentation scolaire, d'un montant de CHF 855‘000. Dans ce cadre, il fixe les conditions d'octroi, alloue et assure le suivi des aides versées.
+
+#### Art. 4
+
 <sup>1</sup> Le Conseil d'Etat est chargé de l'exécution du présent décret, qui est sujet au référendum facultatif.
 
-<sup>2</sup> Il en publiera le texte et le mettra en vigueur, par voie d'arrêté, conformément à l'article 2.
+<sup>2</sup> Il en publiera le texte et en fixera, par voie d'arrêté, la date d'entrée en vigueur.
