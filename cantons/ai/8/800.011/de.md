@@ -4,13 +4,12 @@ number: "800.011"
 title: Standeskommissionsbeschluss über die Pflegefinanzierung
 short: StKB Pflegefinanzierung
 language: de
-version: 2024-07-01
-valid_until: 2026-03-31
-version_adopted: 2024-06-18
+version: 2026-04-01
+version_adopted: 2026-03-17
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/800.011"
-pdf: "https://ai.clex.ch/api/de/versions/2298/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2298/pdf_file"
 
 (StKB Pflegefinanzierung)
 
-vom 30.11.2010 (Stand 01.07.2024)
+vom 30.11.2010 (Stand 01.04.2026)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -87,6 +86,7 @@ beschliesst:
 
 - a) Kosten für Pflegeleistungen und Leistungen der Akut- und Übergangspflege;
 - b) Kosten für nicht-pflegerische Spitex-Leistungen.
+- c) Kosten für Pflegeleistungen, die von pflegenden Angehörigen erbracht werden.
 
 #### Art. 6
 
@@ -106,7 +106,10 @@ beschliesst:
 
 <sup>1</sup> Leistungserbringer der Pflege und Hilfe zu Hause sind Spitex-Organisationen und Pflegefachpersonen, die zur Abrechnung mit der obligatorischen Krankenpflegeversicherung zugelassen sind.
 
-<sup>2</sup> Für Leistungserbringer, die dem Gesundheitsamt jährlich eine anerkannte standardisierte Kostenrechnung nach den Richtlinien des Spitex-Verbands Schweiz ("Spitex-Finanzmanual, Handbuch zum standardisierten Rechnungswesen für Spitex-Organisationen") einreichen, richten sich die Restkostenfinanzierung nach Anhang A-1a, für die übrigen nach Anhang A-1b.
+<sup>2</sup> Die Restkostenfinanzierung richtet sich:
+
+- a) nach Anhang A-1a für Leistungen der Leistungserbringer, die dem Gesundheitsamt jährlich eine anerkannte standardisierte Kostenrechnung nach den Richtlinien des Spitex-Verbands Schweiz ("Spitex-Finanzmanual, Handbuch zum standardisierten Rechnungswesen für Spitex-Organisationen") einreichen, soweit die Leistungen nicht durch pflegende Angehörige erbracht werden;
+- b) nach Anhang A-1b für die übrigen Leistungen.
 
 <sup>3</sup> Die Kostenrechnung ist dem Gesundheitsamt bis spätestens am 30. April des Folgejahres einzureichen.
 
