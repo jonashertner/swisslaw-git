@@ -4,20 +4,21 @@ number: "811.002"
 title: Standeskommissionsbeschluss über die Ausübung der anderen Berufe des Gesundheitswesens
 short: StKB andere Gesundheitsberufe
 language: de
-version: 2019-01-01
-corrected: 2021-09-17
-version_adopted: 2021-09-14
+version: 2026-04-01
+version_adopted: 2026-03-17
 adopted: 2018-12-04
 in_force: 2019-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/811.002"
-pdf: "https://ai.clex.ch/api/de/versions/1604/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2437/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Ausübung der anderen Berufe des Gesundheitswesens
 
-vom 04.12.2018 (Stand 01.01.2019)
+(StKB andere Gesundheitsberufe)
+
+vom 04.12.2018 (Stand 01.04.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -187,12 +188,7 @@ beschliesst:
 
 #### Art. 17
 
-**Pflege**
-
-<sup>1</sup> Nicht bewilligungspflichtig sind
-
-- a) die Pflege von Familienangehörigen und von nahestehenden Personen; die pflegebedürftige Person entscheidet eigenverantwortlich, ob ihr eine Person nahesteht;
-- b) die häusliche Betreuung, bei der nicht die Pflege von Kranken im Vordergrund steht.
+**…**
 
 #### Art. 18
 
@@ -211,6 +207,8 @@ beschliesst:
 <sup>2</sup> Für neu der Bewilligungspflicht unterstellte Tätigkeiten ist innerhalb von einem Jahr seit Inkrafttreten dieses Standeskommissionsbeschlusses ein Bewilligungsgesuch einzureichen. Wird kein Bewilligungsgesuch eingereicht oder wird ihm nicht entsprochen, ist die weitere Ausübung der Tätigkeit untersagt.
 
 <sup>3</sup> Das Departement kann Personen, die vor Inkrafttreten dieses Standeskommissionsbeschlusses während mindestens drei Jahren einen der Bewilligungspflicht unterstellten Beruf in eigener Verantwortung ausgeübt haben, bei genügender Qualifikation die Berufsausübungsbewilligung für höchstens fünf Jahre erteilen, auch wenn die gesetzlich geforderten Voraussetzungen nicht erfüllt sind.
+
+<sup>4</sup> Das Departement kann Naturheilpraktikerinnen und -praktikern mit einer kantonalen Approbation des Kantons Appenzell A.Rh. innert fünf Jahren seit Inkrafttretens dieses Erlasses eine Berufsausübungsbewilligung erteilen. Für die Weitergeltung der Bewilligung nach Ablauf der Übergangsfrist gilt Abs. 1 sinngemäss.
 
 #### Art. 20
 
