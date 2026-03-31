@@ -3,20 +3,19 @@ canton: SO
 number: "614.175.611"
 title: Verordnung zur Vereinbarung zwischen der Schweiz und Frankreich über die Besteuerung der Erwerbseinkünfte von Grenzgängern
 language: de
-version: 2011-12-01
-valid_until: 2026-03-31
-version_adopted: 2011-08-22
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 2011-08-22
 in_force: 2011-12-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.175.611"
-pdf: "https://bgs.so.ch/api/de/versions/3873/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5641/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Vereinbarung zwischen der Schweiz und Frankreich über die Besteuerung der Erwerbseinkünfte von Grenzgängern
 
-Vom 22.08.2011 (Stand 01.12.2011)
+Vom 22.08.2011 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -71,7 +70,7 @@ beschliesst:
 
 <sup>1</sup> Um die doppelte Besteuerung ihres Erwerbseinkommens zu vermeiden, stellen Personen mit Wohnsitz im Kanton Solothurn, die in Frankreich eine unselbständige Erwerbstätigkeit ausüben und regelmässig nach Arbeitschluss hierher zurückkehren, dem französischen Arbeitgeber oder der französischen Arbeitgeberin eine Ansässigkeitsbescheinigung zu. § 2 Absatz 2 ist sinngemäss anwendbar.
 
-<sup>2</sup> Die Ansässigkeitsbescheinigung wird durch die Veranlagungsbehörde am Wohnsitz des solothurnischen Grenzgängers oder der solothurnischen Grenzgängerin ausgestellt.
+<sup>2</sup> Die Ansässigkeitsbescheinigung wird durch das Kantonale Steueramt ausgestellt.
 
 #### § 6
 
