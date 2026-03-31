@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2026-03-13
+version: 2026-04-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260313-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260313/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 13 mars 2026)
+du 17 juillet 2025 (État le 1<sup>er</sup> avril 2026)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -53,13 +53,21 @@ L’importation d’animaux des espèces réceptives ainsi que de viande, de lai
 
 [^sec1a-1]
 
-[^sec1a-1]: Introduite par le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^sec1a-1]: Introduite par le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026, l’art. 3*b* en vigueur du 1<sup>er</sup> avr. au 30 nov. 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 3a
 
 **Interdiction d’estivage et de pacage frontalier en France**
 
 L’estivage et le pacage frontalier, en France, d’animaux des espèces réceptives sont interdits.
+
+#### Art. 3b
+
+**Interdiction d’importation depuis les zones franches du Pays de Gex et de la Haute‑Savoie**
+
+Il est interdit d’importer en Suisse des animaux des espèces réceptives destinés à l’abattage en provenance des zones franches du Pays de Gex et de la Haute-Savoie visées dans le règlement du 1<sup>er</sup> décembre 1933 concernant les importations en Suisse des produits des zones franches[^3b-1].
+
+[^3b-1]: [RS 0.631.256.934.953](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2211)
 
 ## Section 2 Mesures dans les zones de protection
 
@@ -328,4 +336,4 @@ Sont des zones de vaccination:
 - – le territoire La Pile Dessus de la commune de Saint-Cergue, dans le canton de Vaud;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/fr/xml/image/image1.png)

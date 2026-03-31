@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2026-03-13
+version: 2026-04-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260313-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260313/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 13. März 2026)
+vom 17. Juli 2025 (Stand am 1. April 2026)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -53,13 +53,21 @@ Die Ein- und Ausfuhr von Tieren empfänglicher Arten sowie von Fleisch, Milch un
 
 [^sec1a-1]
 
-[^sec1a-1]: Eingefügt durch Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^sec1a-1]: Eingefügt durch Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026, Art. 3*b* in Kraft vom 1. April bis zum 30. Nov. 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 3a
 
 **Verbot der Sömmerung und des Grenzweidgangs in Frankreich**
 
 Die Sömmerung und der Grenzweidegang von Tieren empfänglicher Arten in Frankreich sind verboten.
+
+#### Art. 3b
+
+**Verbot der Einfuhr aus den Freizonen der Landschaft Gex und Hochsavoyens**
+
+Die Einfuhr in die Schweiz von Tieren empfänglicher Arten, die zur Schlachtung bestimmt sind, aus den Freizonen der Landschaft Gex und Hochsavoyens nach dem Reglement vom 1. Dezember 1933[^3b-1] für die Einfuhr der Erzeugnisse der Freizonen in die Schweiz ist verboten.
+
+[^3b-1]: [SR 0.631.256.934.953](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2211)
 
 ## 2. Abschnitt: Massnahmen in den Schutzzonen
 
@@ -324,4 +332,4 @@ Als Impfzonen gelten:
 - – das Gebiet La Pile Dessus der Gemeinde Saint-Cergue des Kantons Waadt;
 - – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/de/xml/image/image1.png)

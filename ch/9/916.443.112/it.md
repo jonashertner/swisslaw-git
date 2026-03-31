@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2026-03-13
+version: 2026-04-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260313-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260313/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 13 marzo 2026)
+del 17 luglio 2025 (Stato 1° aprile 2026)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -53,13 +53,21 @@ L’importazione di animali delle specie ricettive, di carne, latte e sottoprodo
 
 [^sec1a-1]
 
-[^sec1a-1]: Introdotta dalla cifra I dell’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^sec1a-1]: Introdotta dalla cifra I dell’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026, l’art. 3*b* dal 1° apr. 2026 al 30 nov. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 3a
 
 **Divieto di estivazione e pascolo frontaliero in Francia**
 
 L’estivazione e il pascolo frontaliero di animali delle specie ricettive in Francia sono vietati.
+
+#### Art. 3b
+
+**Divieto di importazione dalle zone franche del Paese di Gex e dell’Alta Savoia**
+
+L’importazione in Svizzera di animali delle specie ricettive destinati alla macellazione provenienti dalle zone franche del Paese di Gex e dell’Alta Savoia in conformità con le disposizioni del Regolamento del 1° dicembre 1933[^3b-1] concernente le importazioni in Svizzera dei prodotti delle zone franche è vietata.
+
+[^3b-1]: [RS 0.631.256.934.953](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2211)
 
 ## Sezione 2: Misure nelle zone di protezione
 
@@ -324,4 +332,4 @@ Sono zone di vaccinazione:
 - – la zona di La Pile Dessus del Comune di Saint-Cergue nel Cantone di Vaud;
 - – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260313/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/it/xml/image/image1.png)
