@@ -4,13 +4,12 @@ number: "651.1"
 title: Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr
 short: "Kantonales Strassenverkehrsgesetz, kSVG"
 language: de
-version: 2025-01-01
-valid_until: 2026-03-31
-version_adopted: 2024-09-25
+version: 2026-04-01
+version_adopted: 2025-12-17
 adopted: 2008-10-22
 in_force: 2009-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/651.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1332/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1332/pdf_file"
 
 (Kantonales Strassenverkehrsgesetz, kSVG)
 
-vom 22.10.2008 (Stand 01.01.2025)
+vom 22.10.2008 (Stand 01.04.2026)
 
 Der Landrat von Nidwalden,
 
@@ -141,7 +140,8 @@ beschliesst:
 - 8\. erstattet dem Bund die Meldung der Strassenverkehrsunfälle (Unfallstatistik)[^7-8];
 - 9\. entfernt vorschriftswidrig aufgestellte Fahrzeuge, die den Verkehr behindern oder gefährden, auf Kosten und Gefahr der Fahrzeughalterin oder des ‑halters, sofern diese oder dieser nicht erreichbar ist oder sich weigert, das Fahrzeug selber wegzustellen;
 - 10\. zieht herumstehende Fahrzeuge und Anhänger ein, die Anlass zur polizeilichen Überprüfung geben, und führt sie der Fahrzeugfahndung zu;
-- 11\. lässt Fahrzeuge, die den Verkehrsvorschriften nicht entsprechen, einer polizeilichen Nachkontrolle oder einer Kontrolle durch das VSZ zuführen.
+- 11\. lässt Fahrzeuge, die den Verkehrsvorschriften nicht entsprechen, einer polizeilichen Nachkontrolle oder einer Kontrolle durch das VSZ zuführen;
+- 12\. entfernt vorschriftswidrige Strassenreklamen nach vorgängiger Androhung auf Kosten der Verantwortlichen. Auf die Androhung und Einräumung einer angemessenen Frist, die vorschriftswidrige Strassenreklamen zu entfernen, kann verzichtet werden, wenn Gefahr in Verzug ist.
 
 [^7-1]: Art. 53a SVG (SR 741.01)
 [^7-2]: ARV 1 (SR 822.221) und ARV 2 (SR 822.222)
