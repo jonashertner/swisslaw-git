@@ -4,13 +4,12 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2026-01-01
-valid_until: 2026-03-31
-version_adopted: 2025-09-23
+version: 2026-04-01
+version_adopted: 2026-01-26
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5581/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5624/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5581/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.01.2026)
+Vom 29.10.2007 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -59,51 +58,15 @@ beschliesst:
 
 #### § 3bis
 
-**Aus- und Weiterbildung sowie Ausgleichszahlung, § 22<sup>bis</sup> und § 168<sup>bis</sup> SG**
-
-<sup>1</sup> Die Pflicht zur Erbringung von Ausbildungsleistungen:
-
-- a) beginnt bei der Aufnahme der Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung in der ersten Jahreshälfte ab dem auf die Tätigkeitsaufnahme folgenden Kalenderjahr und bei der Aufnahme der betreffenden Tätigkeit in der zweiten Jahreshälfte ab dem übernächsten Kalenderjahr;
-- b) endet mit der Aufgabe der Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung.
-
-<sup>1<sup>bis</sup></sup> Die Beteiligung kann in Form eigener Aus- und Weiterbildungsplätze, in einem Ausbildungsverbund, bei welchem sich die Aus- und Weiterbildungsplätze im Kanton Solothurn befinden, oder durch Einkauf bei einem anderen Betrieb im Kanton Solothurn erfolgen.
-
-<sup>2</sup> Bei der Festlegung des Bedarfs können die Empfehlungen der Berufsverbände berücksichtigt werden.
-
-<sup>3</sup> Aufwendungen im Zusammenhang mit bundesrechtlich geregelten Ausbildungsverpflichtungen können berücksichtigt werden.
-
-<sup>4</sup> Als Betriebe, die gemäss § 22<sup>bis</sup> Absatz 4 SG aufgrund ihrer Grösse nicht in der Lage sind, Ausbildungsplätze anzubieten, gelten solche mit weniger als 400 Stellenprozenten im Bereich der nicht-universitären Gesundheitsberufe.
-
-<sup>5</sup> Die Höhe der Ausgleichszahlung entspricht dem Betrag, der sich aus der Multiplikation folgender Faktoren ergibt:
-
-- a) Normansätze für die festgelegten Aus- und Weiterbildungsleistungen;
-- b) zweifache prozentuale Differenz zwischen festgelegter und im Kalenderjahr erbrachter Aus- und Weiterbildungsleistung.
-
-<sup>6</sup> Die Pflicht zur Leistung einer Ausgleichszahlung entfällt, wenn die Differenz gemäss Absatz 5 einen Toleranzwert von 10 Prozent nicht überschreitet.
+**…**
 
 #### § 3ter
 
-**Vollzug der Aus- und Weiterbildung, § 22<sup>ter</sup> SG**
-
-<sup>1</sup> Der Vollzug und die damit verbundene Verfügungskompetenz zur Festlegung und Überprüfung der Aus- und Weiterbildungsverpflichtung werden an die Stiftung OdA Gesundheit und Soziales im Kanton Solothurn (SOdAS) delegiert.
-
-<sup>2</sup> Das Reglement der SOdAS über die Ausbildungsverpflichtung für nicht-universitäre Gesundheitsberufe im Kanton Solothurn wird in der Fassung vom 23. April 2024 für verbindlich erklärt.
+**…**
 
 #### § 3quater
 
-**Mitwirkungspflicht und Datenbearbeitung bei der Aus- und Weiterbildung**
-
-<sup>1</sup> Die Wohnheime und Tagesstätten gemäss § 141 SG, die ambulanten und teilstationären Dienste gemäss § 142 SG und die Pflegeheime gemäss § 142 SG, die ihren Sitz im Kanton Solothurn haben und Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen, sind verpflichtet, der SOdAS die zum Vollzug der Aus- und Weiterbildungsverpflichtung notwendigen Daten unentgeltlich in elektronischer Form zur Verfügung zu stellen. Sie haben dieser insbesondere die Vollzeitäquivalente und die Anzahl Betten bzw. die jährliche Anzahl Stunden gemäss Artikel 7*a* Absatz 1 der Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV) vom 29. September 1995[^3quater-1] pro Beruf sowie die Anzahl geleisteter Ausbildungswochen pro Beruf zu melden.
-
-<sup>2</sup> Bei Nichterfüllen der Mitwirkungspflicht trotz Mahnung wird eine Berechnung nach pflichtgemässem Ermessen vorgenommen. In diesem Rahmen können Erfahrungswerte und die Entwicklungen in den Vorjahren berücksichtigt werden.
-
-<sup>3</sup> Die SOdAS und das Departement können zur Überprüfung der Angaben der Betriebe insbesondere folgende Daten unentgeltlich in elektronischer Form beziehen:
-
-- a) von den stationären Pflegeeinrichtungen und den Spitexorganisationen die Stellenpläne inklusive Ausbildungsstellen bzw. -wochen und die anonymisierten Belege über Praktikumszuteilungen von Lernenden bzw. Studierenden ausserkantonaler Bildungsinstitutionen;
-- b) von den Berufsbildungszentren pro Betrieb die Anzahl Lernender der Sekundarstufe II und die Anzahl Studierender der Tertiärstufe;
-- c) vom Gesundheitsamt die Erhebung der KLV-Stunden und die Daten aus den Qualitätsreportings.
-
-[^3quater-1]: SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de).
+**…**
 
 ### 1.3. Organisation
 
