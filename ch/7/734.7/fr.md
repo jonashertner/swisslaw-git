@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2026-01-01
+version: 2026-04-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260101/fr"
 
 (LApEl)
 
-du 23 mars 2007 (État le 1<sup>er</sup> janvier 2026)
+du 23 mars 2007 (État le 1<sup>er</sup> avril 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -304,11 +304,21 @@ Les principes suivants s’appliquent aux centrales hydroélectriques à accumul
 - b. leur nécessité est avérée;
 - c. leur implantation est imposée par leur destination;
 - d. l’intérêt à leur réalisation prime en principe d’autres intérêts nationaux, et
-- e. des mesures de compensation supplémentaires doivent être prévues pour protéger la biodiversité et le paysage.
+- e. des mesures de compensation supplémentaires doivent être prévues pour protéger la biodiversité et le paysage;
+- f.[^9a-3]
+
+  si une mesure de compensation au sens de la let. e ne peut être décidée concrètement avec l’autorisation du projet pour des raisons objectives et crédibles, le requérant est astreint à verser une prestation de garantie au canton; par raison objective, on entend notamment:
+
+  - 1\. impossibilité ou retards dans la garantie des terrains,
+  - 2\. impossibilité de réalisation due à l’absence de garanties pour le financement des coûts résiduels,
+  - 3\. autres procédures en cours,
+  - 4\. raisons que le requérant ne peut influencer.
+
+<sup>3bis</sup> La prestation de garantie visée à l’al. 3, let. f sert à la réalisation de la mesure et correspond au minimum à une fois et demie les coûts probables. Si le concessionnaire réalise la mesure, le montant est remboursé sans intérêts. S’il n’a pas réalisé la mesure jusqu’à la mise en service officielle des installations de la centrale, le montant revient au canton; celui-ci affecte le montant à la réalisation d’autres mesures et à la couverture de ses frais. Le Conseil fédéral fixe les principes régissant le calcul de la prestation de garantie ainsi que son montant maximal.[^9a-4]
 
 <sup>4</sup>
 
-Les principes suivants s’appliquent aux installations solaires et éoliennes d’intérêt national visées à l’art. 12 LEne[^9a-3], prévues dans une zone appropriée selon l’art. 10, al. 1, LEne et l’art. 8*b* de la loi du 22 juin 1979 sur l’aménagement du territoire, mais en dehors d’objets visés à l’art. 5 de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^9a-4]:
+Les principes suivants s’appliquent aux installations solaires et éoliennes d’intérêt national visées à l’art. 12 LEne[^9a-5], prévues dans une zone appropriée selon l’art. 10, al. 1, LEne et l’art. 8*b* de la loi du 22 juin 1979 sur l’aménagement du territoire, mais en dehors d’objets visés à l’art. 5 de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^9a-6]:
 
 - a. leur nécessité est avérée;
 - b. leur implantation est imposée par leur destination, et
@@ -320,8 +330,10 @@ Les principes suivants s’appliquent aux installations solaires et éoliennes d
 
 [^9a-1]: Introduit par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^9a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
-[^9a-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
-[^9a-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^9a-3]: Introduite par l’annexe ch. 5 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^9a-4]: Introduit par l’annexe ch. 5 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^9a-5]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^9a-6]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 9a<sup>bis</sup>
 
@@ -614,6 +626,8 @@ Dans les cas suivants, les gestionnaires de réseau remboursent, sur demande et 
 - b. pour les installations transformant l’électricité en hydrogène, gaz ou carburants synthétiques: un remboursement correspondant à la quantité d’électricité réinjectée dans le réseau après reconversion en courant;
 - c. pour les installations transformant l’électricité en hydrogène, gaz, combustibles ou carburants synthétiques: un remboursement correspondant à la quantité d’électricité soutirée du réseau pour la transformer en ces substrats chimiques qui peuvent être stockés; ce droit est limité aux installations pilotes et de démonstration exploitées avec de l’électricité provenant d’énergies renouvelables, dont la puissance totale ne dépasse pas 200 MW.
 
+<sup>4bis</sup> Les mesures nécessaires pour faire la preuve des quantités d’électricité visées à l’al. 4, let. a, peuvent être effectuées avec les appareils de mesure déjà présents sur les installations de stockage, par dérogation aux art. 17*a* et 17*a*<sup>bis</sup>. Le Conseil fédéral fixe les exigences relatives à ces appareils de mesure et à la transmission des données aux gestionnaires de réseau.[^14a-2]
+
 <sup>5</sup>
 
 Le Conseil fédéral peut:
@@ -624,6 +638,7 @@ Le Conseil fédéral peut:
 <sup>6</sup> Il arrête en outre la réglementation nécessaire concernant le remboursement aux installations pilotes et de démonstration (al. 4, let. c) et en limite la durée de manière que seules soient concernées les installations qui profitent déjà du remboursement au 31 décembre 2034.
 
 [^14a-1]: Introduit par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025, sous réserve des al. 4, 5, let. a, et 6, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^14a-2]: Introduit par l’annexe ch. 5 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 15
 

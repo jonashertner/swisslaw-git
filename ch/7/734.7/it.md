@@ -4,11 +4,11 @@ title: "Legge del 23 marzo 2007 sull'approvvigionamento elettrico (LAEl)"
 short: LAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: it
-version: 2026-01-01
+version: 2026-04-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260101/it"
 
 (LAEl)
 
-del 23 marzo 2007 (Stato 1° gennaio 2026)
+del 23 marzo 2007 (Stato 1° aprile 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -163,7 +163,7 @@ I gestori delle reti di distribuzione si attengono inoltre ai principi seguenti:
 
 [^6-1]: Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^6-2]: Introdotto dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^6-3]: Nuovo testo giusta l’all. cifra II 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^6-3]: Nuovo testo giusta l’all. cifra II n. 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-4]: Nuovo testo del secondo e terzo per. giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^6-5]: Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^6-6]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
@@ -306,11 +306,21 @@ Alle centrali idroelettriche ad accumulazione secondo l’allegato 2, nonché al
 - b. la loro necessità è comprovata;
 - c. sono a ubicazione vincolata;
 - d. l’interesse alla loro realizzazione prevale in linea di principio su altri interessi nazionali; e
-- e. vanno previste ulteriori misure di compensazione per la protezione della biodiversità e del paesaggio.
+- e. vanno previste ulteriori misure di compensazione per la protezione della biodiversità e del paesaggio;
+- f.[^9a-3]
+
+  se per motivi oggettivi e credibili con l’approvazione del progetto non possono essere disposte concretamente misure di compensazione ai sensi della lettera e, il richiedente è tenuto a versare una garanzia al Cantone; sono motivi oggettivi in particolare:
+
+  - 1\. impossibilità o ritardi nella riservazione di terreni,
+  - 2\. impossibilità di realizzazione a causa dell’assenza di garanzie per il finanziamento dei costi residui,
+  - 3\. altre procedure in corso,
+  - 4\. motivi su cui il richiedente non può influire.
+
+<sup>3bis</sup> La garanzia di cui al capoverso 3 lettera f serve alla realizzazione della misura e corrisponde almeno a una volta e mezza i costi previsti. Se il concessionario realizza la misura, l’importo è rimborsato senza interessi. Se il concessionario non ha realizzato la misura prima della messa in servizio ufficiale degli impianti della centrale, l’importo spetta al Cantone; quest’ultimo destina l’importo ottenuto alla realizzazione di altre misure e alla copertura dei propri costi. Il Consiglio federale stabilisce i principi alla base del calcolo della prestazione di garanzia e il suo importo massimo.[^9a-4]
 
 <sup>4</sup>
 
-Agli impianti solari ed eolici di interesse nazionale secondo l’articolo 12 LEne[^9a-3], previsti in un territorio adeguato ai sensi dell’articolo 10 capoverso 1 LEne e ai sensi dell’articolo 8*b* della legge del 22 giugno 1979 sulla pianificazione del territorio ma al di fuori di oggetti secondo l’articolo 5 della legge federale del 1° luglio 1966[^9a-4] sulla protezione della natura e del paesaggio, si applica quanto segue:
+Agli impianti solari ed eolici di interesse nazionale secondo l’articolo 12 LEne[^9a-5], previsti in un territorio adeguato ai sensi dell’articolo 10 capoverso 1 LEne e ai sensi dell’articolo 8*b* della legge del 22 giugno 1979 sulla pianificazione del territorio ma al di fuori di oggetti secondo l’articolo 5 della legge federale del 1° luglio 1966[^9a-6] sulla protezione della natura e del paesaggio, si applica quanto segue:
 
 - a. la loro necessità è comprovata;
 - b. sono a ubicazione vincolata; e
@@ -322,8 +332,10 @@ Agli impianti solari ed eolici di interesse nazionale secondo l’articolo 12 LE
 
 [^9a-1]: Introdotto dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^9a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
-[^9a-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
-[^9a-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^9a-3]: Introdotta dall’all. n. 5 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^9a-4]: Introdotto dall’all. n. 5 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^9a-5]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^9a-6]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 9a<sup>bis</sup>
 
@@ -616,6 +628,8 @@ Su richiesta, nei casi indicati qui di seguito i gestori della rete rimborsano a
 - b. per gli impianti per la trasformazione di elettricità in idrogeno, gas sintetici o combustibili sintetici, il rimborso corrisponde alla quantità di elettricità reimmessa nella rete dopo la riconversione in elettricità;
 - c. per gli impianti per la trasformazione di elettricità in idrogeno, gas sintetici, combustibili sintetici o carburanti sintetici, il rimborso corrisponde alla quantità di elettricità che prelevano dalla rete per la sua trasformazione in tali substrati chimici stoccabili; il diritto al rimborso è limitato agli impianti pilota e di dimostrazione esercitati con elettricità generata da energie rinnovabili e la cui potenza totale non supera 200 MW.
 
+<sup>4bis</sup> In deroga agli articoli 17*a* e 17*a**<sup>bis</sup>*, le misurazioni necessarie per fornire la prova delle quantità di elettricità previste dal capoverso 4 lettera a possono essere effettuate mediante strumenti di misurazione già presenti negli impianti di stoccaggio. Il Consiglio federale disciplina i requisiti applicabili a tali strumenti e la trasmissione dei dati ai gestori di rete.[^14a-2]
+
 <sup>5</sup>
 
 Il Consiglio federale può:
@@ -626,6 +640,7 @@ Il Consiglio federale può:
 <sup>6</sup> Il Consiglio federale emana inoltre le disposizioni necessarie riguardanti il rimborso nel caso degli impianti pilota e di dimostrazione (cpv. 4 lett. c), limitandole sotto il profilo temporale in maniera tale da applicarle soltanto agli impianti che il 31 dicembre 2034 sono già a beneficio del rimborso.
 
 [^14a-1]: Introdotto dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025, i cpv. 4, 5 lett. a e 6 dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^14a-2]: Introdotto dall’all. n. 5 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 15
 
@@ -1070,7 +1085,7 @@ In particolare, la società di rete:
 
 <sup>4</sup> Per adempiere i propri compiti, nel singolo caso la società di rete può chiedere l’espropriazione alla ElCom. Le disposizioni procedurali della legge federale del 20 giugno 1930[^20-7] sull’espropriazione non sono applicabili.
 
-[^20-1]: Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); FF 2021 1666).
+[^20-1]: Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^20-2]: Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^20-3]: Introdotta dalla cifra I n. 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^20-4]: Introdotta dalla cifra I n. 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
@@ -1288,7 +1303,7 @@ A copertura dei costi necessari inerenti alla collaborazione della ElCom e dell�
 
 <sup>3</sup> L’UFE persegue e giudica le infrazioni secondo la legge federale del 22 marzo 1974[^29-7] sul diritto penale amministrativo.
 
-[^29-1]: Abrogata dalla cifra I 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, con effetto dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^29-1]: Abrogata dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, con effetto dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^29-2]: Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^29-3]: Correzione della Commissione di redazione dell’AF del 15 novembre 2023.
 [^29-4]: Introdotta dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -1403,7 +1418,7 @@ Allegato 1[^t-1]
 
 Le leggi qui appresso sono modificate come segue:
 
-…[^annex1-lvlu1-1]
+...[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418).
 

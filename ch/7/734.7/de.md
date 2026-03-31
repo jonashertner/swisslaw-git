@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgu
 short: StromVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: de
-version: 2026-01-01
+version: 2026-04-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260101/de"
 
 (Stromversorgungsgesetz, StromVG)
 
-vom 23. März 2007 (Stand am 1. Januar 2026)
+vom 23. März 2007 (Stand am 1. April 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -307,12 +307,22 @@ Für Speicherwasserkraftwerke nach Anhang 2 sowie für das Wasserkraftwerk Chlus
 - a. sie nur planungspflichtig sind, wenn eine Anlage an einem neuen Standort vorgesehen ist; dabei beschränkt sich die Planungspflicht auf die Durchführung eines Richtplanverfahrens nach Artikel 8 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^9a-2];
 - b. ihr Bedarf ausgewiesen ist;
 - c. sie standortgebunden sind;
-- d. das Interesse an ihrer Realisierung anderen nationalen Interessen grundsätzlich vorgeht; und
-- e. zusätzliche Ausgleichsmassnahmen zum Schutz von Biodiversität und Landschaft vorzusehen sind.
+- d. das Interesse an ihrer Realisierung anderen nationalen Interessen grundsätzlich vorgeht;
+- e. zusätzliche Ausgleichsmassnahmen zum Schutz von Biodiversität und Landschaft vorzusehen sind; und
+- f.[^9a-3]
+
+  wenn eine Ausgleichsmassnahme nach Buchstabe e aus glaubhaft gemachten sachlichen Gründen nicht mit der Projektgenehmigung konkret verfügt werden kann, der Gesuchsteller verpflichtet ist, dem Kanton eine Sicherheitsleistung zu bezahlen; sachliche Gründe sind insbesondere:
+
+  - 1\. Unmöglichkeit oder Verzögerungen bei der Landsicherung,
+  - 2\. fehlende Realisierbarkeit aufgrund ausstehender Zusicherungen für die Restkostenfinanzierung,
+  - 3\. andere laufende Verfahren,
+  - 4\. Gründe, die nicht durch die Gesuchsteller beeinflusst werden können.
+
+<sup>3bis</sup> Die Sicherheitsleistung nach Absatz 3 Buchstabe f dient zur Realisierung der Massnahme und beträgt mindestens das Eineinhalbfache der voraussichtlichen Kosten. Realisiert der Konzessionär die Massnahme, ist der Betrag zinslos zu erstatten. Hat er aber bis spätestens zur offiziellen Inbetriebnahme der Kraftwerksanlagen die Massnahme nicht realisiert, fällt der Betrag an den Kanton, der diesen zweckgebunden für die Realisierung anderer Massnahmen sowie zur Deckung seiner Kosten verwendet. Der Bundesrat legt die Grundsätze zur Berechnung der Sicherheitsleistung sowie deren maximale Höhe fest.[^9a-4]
 
 <sup>4</sup>
 
-Für Solar- und Windkraftanlagen von nationalem Interesse nach Artikel 12 EnG[^9a-3], die in einem geeigneten Gebiet nach Artikel 10 Absatz 1 EnG und Artikel 8*b* des Raumplanungsgesetzes vom 22. Juni 1979, aber ausserhalb von Objekten nach Artikel 5 des Bundesgesetzes vom 1. Juli 1966[^9a-4] über den Natur- und Heimatschutz vorgesehen sind, gilt dass:
+Für Solar- und Windkraftanlagen von nationalem Interesse nach Artikel 12 EnG[^9a-5], die in einem geeigneten Gebiet nach Artikel 10 Absatz 1 EnG und Artikel 8*b* des Raumplanungsgesetzes vom 22. Juni 1979, aber ausserhalb von Objekten nach Artikel 5 des Bundesgesetzes vom 1. Juli 1966[^9a-6] über den Natur- und Heimatschutz vorgesehen sind, gilt dass:
 
 - a. ihr Bedarf ausgewiesen ist;
 - b. sie standortgebunden sind; und
@@ -324,8 +334,10 @@ Für Solar- und Windkraftanlagen von nationalem Interesse nach Artikel 12 EnG[^9
 
 [^9a-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^9a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
-[^9a-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
-[^9a-4]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^9a-3]: Eingefügt durch Anhang Ziff. 5 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^9a-4]: Eingefügt durch Anhang Ziff. 5 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^9a-5]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^9a-6]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 9a<sup>bis</sup>
 
@@ -618,6 +630,8 @@ In den folgenden Fällen erstatten die Netzbetreiber den Betreibern der betreffe
 - b. bei Anlagen zur Umwandlung von Elektrizität in Wasserstoff oder synthetische Gase oder Brennstoffe: Rückerstattung für die Elektrizitätsmenge, die nach einer Rückverstromung ins Netz zurückgespeist wird;
 - c. bei Anlagen zur Umwandlung von Elektrizität in Wasserstoff, synthetische Gase, Brenn- oder Treibstoffe: Rückerstattung für die Elektrizitätsmenge, die für die Umwandlung in diese speicherbaren chemischen Substrate aus dem Netz bezogen wird; dieses Recht auf Rückerstattung ist auf Pilot- und Demonstrationsanlagen, die mit Elektrizität aus erneuerbaren Energien betrieben werden und insgesamt höchstens eine Leistung von 200 MW aufweisen, beschränkt.
 
+<sup>4bis</sup> Messungen, die für den Nachweis der Elektrizitätsmengen nach Absatz 4 Buchstabe a erforderlich sind, dürfen in Abweichung von Artikel 17*a* und Artikel 17*a*<sup>bis</sup> mit beim Speicher bereits vorhandenen Messgeräten erfolgen. Der Bundesrat regelt die Anforderungen an diese Messgeräte und die Datenübermittlung an die Netzbetreiber.[^14a-2]
+
 <sup>5</sup>
 
 Der Bundesrat kann:
@@ -628,6 +642,7 @@ Der Bundesrat kann:
 <sup>6</sup> Er erlässt ausserdem die erforderliche Rückerstattungsregelung zu den Pilot- und Demonstrationsanlagen (Abs. 4 Bst. c) und befristet sie so, dass nur Anlagen darunterfallen, die am 31. Dezember 2034 bereits von der Rückerstattung profitieren.
 
 [^14a-1]: Eingefügt durch Ziff. I 2 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025, Abs. 4, 5 Bst. a und 6 seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^14a-2]: Eingefügt durch Anhang Ziff. 5 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 15
 
