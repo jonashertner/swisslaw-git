@@ -4,13 +4,12 @@ number: "142.11"
 title: Dienstordnung der Finanz- und Kirchendirektion
 short: Do FKD
 language: de
-version: 2025-01-01
-valid_until: 2026-03-31
-version_adopted: 2024-12-03
+version: 2026-04-01
+version_adopted: 2026-03-24
 adopted: 2022-05-10
 in_force: 2022-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.11"
-pdf: "https://bl.clex.ch/api/de/versions/4052/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4452/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4052/pdf_file"
 
 (Do FKD)
 
-Vom 10.05.2022 (Stand 01.01.2025)
+Vom 10.05.2022 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -115,7 +114,7 @@ beschliesst:
 
 <sup>2</sup> Für juristische Volontärinnen und Volontäre gilt § 2 Abs. 2 der Personalverordnung.
 
-<sup>3</sup> Anstellungsbehörde für die Mitarbeitenden an integrativen Arbeitsplätzen ist gemäss § 2 Abs. 3 Personalverordnung die Dienstellenleiterin oder der Dienststellenleiter des Personalamts mit der Leiterin oder dem Leiter des Aufgabenbereichs integrative Arbeitsplätze.
+<sup>3</sup> …
 
 <sup>4</sup> Anstellungsbehörden gemäss § 2 Abs. 4 Personalverordnung sind:
 
