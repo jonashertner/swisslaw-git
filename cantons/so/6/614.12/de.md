@@ -3,20 +3,19 @@ canton: SO
 number: "614.12"
 title: Vollzugsverordnung zum Gesetz über die Staats- und Gemeindesteuern
 language: de
-version: 2026-01-01
-valid_until: 2026-03-31
-version_adopted: 2025-09-16
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1986-01-28
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.12"
-pdf: "https://bgs.so.ch/api/de/versions/5576/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5632/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Gesetz über die Staats- und Gemeindesteuern
 
-Vom 28.01.1986 (Stand 01.01.2026)[^t-1]
+Vom 28.01.1986 (Stand 01.04.2026)[^t-1]
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -394,7 +393,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Für die Steuerberechnung pro rata temporis und für die Berechnung von Vergütungs-, Verzugs- und Rückerstattungszins werden der Monat zu 30 Tagen und das Jahr zu 360 Tagen gerechnet.
 
-<sup>2</sup> Der Entscheid über die Steuerberechnung pro rata temporis wird von der Veranlagungsbehörde im Verfahren nach §§ 140ff. des Gesetzes getroffen.
+<sup>2</sup> Der Entscheid über die Steuerberechnung pro rata temporis wird vom Kantonalen Steueramt im Verfahren nach §§ 140ff. des Gesetzes getroffen.
 
 #### § 39
 
@@ -801,7 +800,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> …
 
-<sup>2</sup> Steuerausscheidungen, die nach § 251 Absatz 2 des Gesetzes für eine Steuerperiode rechtzeitig geltend gemacht worden sind, werden für die folgenden Steuerperioden von den Veranlagungsbehörden von Amtes wegen vorgenommen.
+<sup>2</sup> Steuerausscheidungen, die nach § 251 Absatz 2 des Gesetzes für eine Steuerperiode rechtzeitig geltend gemacht worden sind, werden für die folgenden Steuerperioden vom Kantonalen Steueramt von Amtes wegen vorgenommen.
 
 <sup>3</sup> Die Ausscheidung ist den beteiligten Gemeinden und den Steuerpflichtigen auf besonderem Formular und unter Angabe der Rechtsmittel zu eröffnen.
 
