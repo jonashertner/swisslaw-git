@@ -4,11 +4,11 @@ title: Ordinanza del 29 agosto 2012 sulle poste (OPO)
 short: OPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/586"
 language: it
-version: 2021-12-01
+version: 2026-04-01
 adopted: 2012-08-29
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2012-586-20211201-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2012-586-20260401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/it"
 
 (OPO)
 
-del 29 agosto 2012 (Stato 1° dicembre 2021)
+del 29 agosto 2012 (Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 4 capoverso 2, 6 capoverso 5, 7 capoverso 5, 9 capoverso 2, 1
 
 ordina:
 
-[^ingress-1]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^ingress-1]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 ## Capitolo 1: Definizioni e adempimento dell’obbligo di fornire il servizio universale
 
@@ -42,9 +42,23 @@ Nella presente ordinanza si intende per:
 - e. *società del gruppo Posta:* PostFinance e le imprese controllate direttamente o indirettamente dalla Posta, in particolare le società di capitali;
 - f. *impianto di caselle postali:* struttura di un fornitore finalizzata alla distribuzione di invii postali, accessibile soltanto al gestore dell’installazione e ai proprietari delle caselle postali;
 - g. *costi incrementali:* costi marginali di una prestazione e costi fissi specifici a una prestazione;
-- h. *costi unici*: costi che avrebbe una prestazione se fosse l’unica ad essere offerta.
+- h. *costi unici*: costi che avrebbe una prestazione se fosse l’unica ad essere offerta;
+- i.[^1-2] *invio elettronico:* contenuti o dati trasmessi per via elettronica da un mittente al sistema di recapito ibrido della Posta, che nella loro forma definitiva possono essere recapitati ai destinatari come invio indirizzato sia tramite il canale elettronico sia tramite quello ibrido; sono considerati come invii elettronici anche gli scambi di atti giuridici per via elettronica con le autorità e che possono essere recapitati solo tramite il canale elettronico;
+- j.[^1-3] *sistema di recapito ibrido:* sistema della Posta con cui un mittente può far spedire a un destinatario invii elettronici tramite il canale elettronico o il canale ibrido;
+- k.[^1-4] *canale elettronico:* canale tramite il quale un invio elettronico viene recapitato per via elettronica al destinatario;
+- l.[^1-5] *canale ibrido:* canale tramite il quale un invio elettronico viene recapitato al destinatario come lettera (art. 2 lett. c LPO) o pacco (art. 2 lett. d LPO);
+- m.[^1-6] *invio elettronico singolo:* invio elettronico che il mittente affida per il trasporto alla Posta in base alle condizioni generali;
+- n.[^1-7] *invio elettronico di massa:* invio elettronico che il mittente affida per il trasporto alla Posta in base a condizioni contrattuali individuali;
+- o.[^1-8] *smistamento di invii elettronici:* processo che garantisce il recapito di invii elettronici tramite il canale elettronico o il canale ibrido conformemente alle direttive del destinatario.
 
-[^1-1]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^1-1]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
+[^1-2]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-3]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-4]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-5]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-6]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-7]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-8]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 2
 
@@ -66,11 +80,9 @@ Nella presente ordinanza si intende per:
 
 **Obbligo di notifica ordinaria**
 
-<sup>1</sup> I fornitori che con i servizi postali forniti a proprio nome realizzano una cifra d’affari annua di almeno 500 000 franchi devono notificare l’inizio della loro attività alla Commissione delle poste (PostCom) entro due mesi e trasmetterle le indicazioni e le prove di cui agli articoli 4 e 5.[^3-1]
+<sup>1</sup> I fornitori che con i servizi postali forniti a proprio nome realizzano una cifra d’affari annua di almeno 500 000 franchi devono notificare l’inizio della loro attività alla Commissione delle poste (PostCom) entro due mesi e trasmetterle le indicazioni e le prove di cui agli articoli 4 e 5.
 
 <sup>2</sup> La PostCom disciplina i dettagli amministrativi.
-
-[^3-1]: La correzione del 28 lug. 2015 concerne solo il testo francese ([RU 2015 2521](https://fedlex.data.admin.ch/eli/oc/2015/474)).
 
 #### Art. 4
 
@@ -129,25 +141,21 @@ I fornitori che con i servizi postali forniti a proprio nome realizzano una cifr
 
 - a. nome, ditta e indirizzo;
 - b. descrizione delle prestazioni;
-- c. indicazioni sulla cifra d’affari annua realizzata con i servizi postali forniti a proprio nome.[^8-1]
+- c. indicazioni sulla cifra d’affari annua realizzata con i servizi postali forniti a proprio nome.
 
 <sup>2</sup> La PostCom disciplina i dettagli amministrativi.
-
-[^8-1]: La correzione del 28 lug. 2015 concerne solo il testo francese ([RU 2015 2521](https://fedlex.data.admin.ch/eli/oc/2015/474)).
 
 #### Art. 9
 
 **Disposizioni non applicabili**
 
-I fornitori sono esonerati dai seguenti obblighi:[^9-1]
+I fornitori sono esonerati dai seguenti obblighi:
 
 - a. l’obbligo di fornire le indicazioni e le prove di cui agli articoli 4–7;
 - b. l’obbligo di informazione di cui agli articoli 11–16;
 - c. l’obbligo di cui all’articolo 28;
 - d. l’obbligo di fornire informazioni di cui all’articolo 59;
 - e. l’obbligo di pagare la tassa di vigilanza di cui all’articolo 78.
-
-[^9-1]: La correzione del 28 lug. 2015 concerne solo il testo francese ([RU 2015 2521](https://fedlex.data.admin.ch/eli/oc/2015/474)).
 
 #### Art. 10
 
@@ -229,7 +237,7 @@ Il gestore di un impianto di caselle postali deve accordare ai fornitori che eff
 
 <sup>3</sup> Nel garantire le prestazioni di cui al capoverso 1, il gestore di un impianto di caselle postali assume una responsabilità al massimo pari a quella assunta nei confronti dei propri clienti dal fornitore che effettua la distribuzione a domicilio.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 19
 
@@ -259,13 +267,11 @@ Se la PostCom dispone la conclusione di un accordo sull’accesso all’impianto
 
 **Non discriminazione e consultazione degli accordi**
 
-<sup>1</sup> Il gestore di un impianto di caselle postali non deve discriminare i fornitori che effettuano la distribuzione a domicilio.[^21-1]
+<sup>1</sup> Il gestore di un impianto di caselle postali non deve discriminare i fornitori che effettuano la distribuzione a domicilio.
 
 <sup>2</sup> Il gestore di un impianto di caselle postali deve consegnare alla PostCom, entro due settimane dalla sua conclusione, l’accordo sull’accesso all’impianto di caselle postali.
 
 <sup>3</sup> Su richiesta, la PostCom autorizza il fornitore che effettua la distribuzione a domicilio e che negozia un accordo sull’accesso con il gestore di un impianto di caselle postali a consultare gli accordi che il gestore dell’impianto ha concluso con altri fornitori che effettuano la distribuzione a domicilio. Sono esclusi i contenuti che sottostanno al segreto d’affari.
-
-[^21-1]: La correzione del 28 lug. 2015 concerne solo il testo francese ([RU 2015 2521](https://fedlex.data.admin.ch/eli/oc/2015/474)).
 
 ### Sezione 5: Scambio di dati
 
@@ -273,7 +279,7 @@ Se la PostCom dispone la conclusione di un accordo sull’accesso all’impianto
 
 **Diritto allo scambio dei dati**
 
-<sup>1</sup> I fornitori che effettuano la distribuzione a domicilio hanno il diritto di scambiarsi dati di indirizzi contenuti in ordini dei clienti (dati).[^22-1]
+<sup>1</sup> I fornitori che effettuano la distribuzione a domicilio hanno il diritto di scambiarsi dati di indirizzi contenuti in ordini dei clienti (dati).
 
 <sup>2</sup>
 
@@ -286,8 +292,6 @@ I fornitori che effettuano la distribuzione a domicilio possono scambiarsi dati 
 <sup>3</sup> I fornitori che effettuano la distribuzione a domicilio devono informare i propri clienti in merito all’impiego dei dati di indirizzi.
 
 <sup>4</sup> Per poter trasmettere dati a terzi, i fornitori che effettuano la distribuzione a domicilio devono ottenere il consenso della persona interessata. Quest’ultima non deve incorrere in alcun costo se rifiuta di dare il proprio consenso.
-
-[^22-1]: La correzione del 28 lug. 2015 concerne solo il testo francese ([RU 2015 2521](https://fedlex.data.admin.ch/eli/oc/2015/474)).
 
 #### Art. 23
 
@@ -386,25 +390,26 @@ Il servizio universale in Svizzera nel settore dei servizi postali comprende alm
 
 - b. lettere fino a 1 kg e pacchi fino a 20 kg distribuiti come invii di massa;
 - c. giornali e periodici in abbonamento con distribuzione regolare;
-- d.[^29-1] atti giudiziari ed esecutivi con ricevuta e successiva trasmissione della ricevuta al mittente.
+- d.[^29-1] atti giudiziari ed esecutivi con ricevuta e successiva trasmissione della ricevuta al mittente;
+- e.[^29-2] invii elettronici.
 
 <sup>2</sup>
 
 Il servizio universale transfrontaliero nel settore dei servizi postali comprende almeno l’offerta per il trasporto all’estero dei seguenti invii postali indirizzati:
 
 - a. lettere fino a 2 kg e pacchi fino a 20 kg distribuiti come invio singolo;
-- b. lettere fino a 2 kg e pacchi fino a 20 kg distribuiti come invii di massa.[^29-2]
+- b. lettere fino a 2 kg e pacchi fino a 20 kg distribuiti come invii di massa.[^29-3]
 
-<sup>2bis</sup> La somma della lunghezza, della larghezza e dell’altezza delle lettere di cui al capoverso 2 può essere al massimo di 90 cm, e nessun lato può superare i 60 cm.[^29-3]
+<sup>2bis</sup> La somma della lunghezza, della larghezza e dell’altezza delle lettere di cui al capoverso 2 può essere al massimo di 90 cm, e nessun lato può superare i 60 cm.[^29-4]
 
 <sup>3</sup>
 
 La Posta offre ai mittenti i seguenti servizi:
 
-- a.[^29-4] ricevuta;
+- a.[^29-5] ricevuta;
 - b. rinvio.
 
-<sup>3bis</sup> Gli invii postali per i quali il mittente richiede una ricevuta sono considerati ricevuti ai sensi del contratto per il trasporto se il destinatario, o un’altra persona autorizzata a ricevere l’invio conformemente alle condizioni generali della Posta, conferma su carta o su un apparecchio elettronico di rilevazione usato dalla Posta che un determinato invio gli è stato consegnato. Il mittente deve avere la possibilità di escludere la consegna a persone minori di sedici anni senza sovrapprezzo. Nel caso di una ricevuta elettronica occorre garantire, mediante le opportune misure tecniche e organizzative, che il livello della protezione contro la falsificazione e la contraffazione della ricevuta corrisponda a quello della ricevuta cartacea.[^29-5]
+<sup>3bis</sup> Gli invii postali per i quali il mittente richiede una ricevuta sono considerati ricevuti ai sensi del contratto per il trasporto se il destinatario, o un’altra persona autorizzata a ricevere l’invio conformemente alle condizioni generali della Posta, conferma su carta o su un apparecchio elettronico di rilevazione usato dalla Posta che un determinato invio gli è stato consegnato. Il mittente deve avere la possibilità di escludere la consegna a persone minori di sedici anni senza sovrapprezzo. Nel caso di una ricevuta elettronica occorre garantire, mediante le opportune misure tecniche e organizzative, che il livello della protezione contro la falsificazione e la contraffazione della ricevuta corrisponda a quello della ricevuta cartacea.[^29-6]
 
 <sup>4</sup>
 
@@ -414,7 +419,7 @@ La Posta offre ai destinatari i seguenti servizi:
 - b. deviazione;
 - c. trattenimento.
 
-<sup>4bis</sup> La Posta può prevedere un’offerta in virtù della quale i destinatari possono autorizzare per via elettronica la Posta a recapitare direttamente nella cassetta delle lettere o nella casella postale un invio postale ben definito per il quale il mittente richiede una ricevuta. Il mittente che agisce in adempimento di compiti di diritto pubblico deve avere la possibilità, senza sovrapprezzo, di escludere che si faccia uso di questa offerta per la distribuzione dei propri invii. L’autorizzazione elettronica è equiparata ai sensi del contratto per il trasporto alla ricevuta di cui al capoverso 3 lettera a.[^29-6]
+<sup>4bis</sup> La Posta può prevedere un’offerta in virtù della quale i destinatari possono autorizzare per via elettronica la Posta a recapitare direttamente nella cassetta delle lettere o nella casella postale un invio postale ben definito per il quale il mittente richiede una ricevuta. Il mittente che agisce in adempimento di compiti di diritto pubblico deve avere la possibilità, senza sovrapprezzo, di escludere che si faccia uso di questa offerta per la distribuzione dei propri invii. L’autorizzazione elettronica è equiparata ai sensi del contratto per il trasporto alla ricevuta di cui al capoverso 3 lettera a.[^29-7]
 
 <sup>5</sup> Per invio unico si intendono gli invii postali che il mittente affida alla Posta affinché quest’ultima li trasporti secondo le proprie condizioni generali.
 
@@ -424,12 +429,13 @@ La Posta offre ai destinatari i seguenti servizi:
 
 <sup>8</sup> Non fanno parte dell’offerta del servizio universale gli invii espressi e per corriere.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-3]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-4]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-5]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-6]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-2]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-4]: Introdotto dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-5]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-6]: Introdotto dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-7]: Introdotto dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 30
 
@@ -441,7 +447,7 @@ La Posta offre ai destinatari i seguenti servizi:
 
 <sup>3</sup> La Posta mette a disposizione appositi uffici d’accettazione per gli invii postali di cui all’articolo 29 capoversi 1 lettere b–d e 2 lettera b.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 31
 
@@ -461,10 +467,10 @@ La Posta non è tenuta a distribuire a domicilio gli invii postali conformemente
 
 <sup>3</sup> Se non è tenuta a effettuare la distribuzione a domicilio, la Posta deve offrire al destinatario una soluzione alternativa. Può ridurre la frequenza di distribuzione o designare un altro punto di distribuzione. Il destinatario deve essere previamente consultato.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 [^31-3]: [RU 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)
-[^31-4]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^31-4]: Introdotto dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 31a
 
@@ -485,23 +491,20 @@ Non è tenuta a effettuare la distribuzione entro il termine stabilito, se:
 
 <sup>5</sup> La PostCom approva il metodo e gli strumenti di misurazione.
 
-[^31a-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^31a-2]: Nuovo testo giusta il n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^31a-2]: Nuovo testo giusta la cifra I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 32
 
 **Tempi di consegna nel settore dei servizi postali in Svizzera**
 
-<sup>1</sup>
-
-La Posta deve rispettare i tempi di consegna degli invii postali di cui all’articolo 29 capoverso 1 lettera a:
-
-- a. nel 97 per cento dei casi per le lettere;
-- b. nel 95 per cento dei casi per i pacchi.
+<sup>1</sup> La Posta deve rispettare i tempi di consegna degli invii postali di cui all’articolo 29 capoverso 1 lettera a nel 90 per cento dei casi per le lettere e i pacchi.[^32-1]
 
 <sup>2</sup> I metodi per misurare i tempi di consegna devono essere scientificamente riconosciuti e certificati da un organo indipendente. Devono inoltre basarsi su standard di qualità internazionali e tenere conto dello stato della tecnica.
 
 <sup>3</sup> La PostCom approva i metodi e gli strumenti di misurazione.
+
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 33
 
@@ -527,10 +530,10 @@ La Posta deve rispettare i tempi di consegna degli invii postali di cui all’ar
 
 <sup>9</sup> La Posta mette a disposizione in Internet un sistema interattivo dotato di funzione di ricerca e di una mappa, il quale fornisce informazioni sull’ubicazione dei punti d’accesso.[^33-4]
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^33-2]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^33-3]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^33-4]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^33-2]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^33-3]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^33-4]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 
 #### Art. 34
 
@@ -558,9 +561,9 @@ Un volta adita, la PostCom rivolge entro sei mesi una raccomandazione alla Posta
 
 <sup>8</sup> La Posta non può chiudere né trasferire l’ufficio o l’agenzia postale prima che sia stata notificata la raccomandazione della PostCom.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^34-3]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^34-3]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 
 #### Art. 35
 
@@ -575,6 +578,168 @@ La Posta può escludere dal trasporto gli invii postali di cui all’articolo 29
 - c. merci che potrebbero ferire persone o causare danni a cose.
 
 <sup>2</sup> Nelle proprie condizioni generali la Posta specifica gli invii postali esclusi dal trasporto.
+
+### Sezione 1*a*: Sistema di recapito ibrido
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+
+#### Art. 35a
+
+**Prestazioni**
+
+Tramite un sistema di recapito ibrido, la Posta assicura il servizio universale e fornisce alle persone fisiche e giuridiche con domicilio, sede o stabile organizzazione in Svizzera le prestazioni seguenti:
+
+- a. la gestione di una piattaforma per la presa in consegna, lo smistamento, il recapito e il salvataggio temporaneo di invii elettronici;
+- b. la messa a disposizione di un’interfaccia utente e di interfacce di programmazione che consentano agli utenti di trasmettere invii elettronici e di recuperare invii elettronici trasmessi o ricevuti;
+- c. il recapito di invii elettronici tramite il canale elettronico o il canale ibrido;
+- d. la stampa, l’imbustamento o l’imballaggio, l’affrancatura e l’invio del contenuto di un invio elettronico come lettera o pacco;
+- e. la notifica al destinatario, tramite il canale elettronico, immediatamente dopo il recapito di un invio elettronico ad egli indirizzato;
+- f. la trasmissione di invii elettronici a una piattaforma riconosciuta ai sensi dell’ordinanza del 18 giugno 2010[^35a-1] sulla comunicazione per via elettronica nell’ambito di procedimenti civili e penali nonché di procedure d’esecuzione e fallimento;
+- g. l’identificazione e l’autenticazione dell’utente.
+
+[^35a-1]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
+
+#### Art. 35b
+
+**Recapito tramite il canale elettronico**
+
+<sup>1</sup> Per il recapito di invii elettronici tramite il canale elettronico è necessario l’espresso consenso del destinatario. Il destinatario può revocare il consenso in ogni momento senza indicarne i motivi.
+
+<sup>2</sup> La Posta consente ai destinatari il ritiro di invii elettronici immediatamente dopo che essa li ha presi in consegna.
+
+<sup>3</sup> Dopo la presa in consegna, la Posta appone a tutti gli invii elettronici un sigillo elettronico regolamentato e una marca temporale elettronica qualificata ai sensi della legge del 18 marzo 2016[^35b-1] sulla firma elettronica.
+
+<sup>4</sup>
+
+Immediatamente dopo il recapito di un invio elettronico, la Posta emette una conferma di ricezione per il mittente. Inoltre, su richiesta di quest’ultimo, emette le seguenti conferme:
+
+- a. una conferma di ritiro: per ciascun destinatario, non appena ha ritirato per la prima volta l’invio elettronico;
+- b. una conferma di mancato ritiro: se un destinatario di un invio elettronico non lo ha ritirato entro la fine del settimo giorno dopo la consegna.
+
+<sup>5</sup> Gli invii e le conferme elettronici vengono cancellati 90 giorni dopo il recapito, a meno che non siano memorizzati in modo decentralizzato sui supporti di dati degli utenti. Sono fatti salvi obblighi di messa a disposizione o di conservazione, in particolare nei confronti delle autorità preposte al perseguimento penale.
+
+<sup>6</sup> La Posta comunica immediatamente al mittente se essa, per motivi tecnici o di altro tipo, non è in grado di recapitare tramite il canale elettronico un invio elettronico che questi ha accettato, o se può farlo solo con un ritardo.
+
+<sup>7</sup>
+
+Fa sì che il destinatario di un invio elettronico, in modo semplice, possa:
+
+- a. bloccare i mittenti affinché essi non abbiano più la possibilità di spedirgli ulteriori invii elettronici mediante il canale elettronico;
+- b. comunicare ai mittenti che non desidera più ricevere invii elettronici con contenuto analogo.
+
+<sup>8</sup> I mittenti di invii elettronici in relazione a scambi di atti giuridici per via elettronica con le autorità di cui all’articolo 35*a* lettera f non possono essere bloccati ai sensi del capoverso 7.
+
+[^35b-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+
+#### Art. 35c
+
+**Recapito tramite il canale ibrido**
+
+<sup>1</sup> Ai destinatari che non hanno dato il loro consenso al recapito elettronico, che lo hanno revocato o che hanno bloccato il mittente in virtù dell’articolo 35*b* capoverso 7 lettera a, la Posta recapita gli invii elettronici attraverso il canale ibrido.
+
+<sup>2</sup> A tale scopo esegue i passaggi di cui all’articolo 35*a* lettera d.
+
+<sup>3</sup> Nell’ambito degli scambi di atti giuridici per via elettronica con le autorità di cui all’articolo 35*a* lettera f, la Posta non è tenuta a recapitare invii elettronici tramite il canale ibrido.
+
+<sup>4</sup>
+
+Per il recapito di invii elettronici singoli tramite il canale ibrido si applicano le scadenze seguenti:
+
+- a. se l’invio elettronico viene spedito in un giorno lavorativo, lo stesso giorno la Posta produce la lettera o il pacco e vi attribuisce la classe di affrancatura selezionata per il trasporto;
+- b. se l’invio elettronico viene spedito il sabato, la domenica o in un giorno festivo ordinario, la Posta produce la lettera o il pacco il primo giorno lavorativo successivo al giorno della presa in consegna dell’invio elettronico e vi attribuisce la classe di affrancatura selezionata per il trasporto.
+
+#### Art. 35d
+
+**Interfaccia utente**
+
+L’interfaccia utente del sistema di recapito ibrido deve poter essere accessibile e utilizzabile tramite tecnologie comuni.
+
+#### Art. 35e
+
+**Identificazione e autenticazione**
+
+<sup>1</sup> Gli utenti del sistema di recapito ibrido devono identificarsi e autenticarsi presso la Posta.
+
+<sup>2</sup>
+
+L’identificazione può essere fatta nei modi seguenti:
+
+- a. convalida tramite lettera dell’indirizzo di una persona fisica;
+- b. esibizione di un documento ai sensi dell’articolo 20*a* capoverso 1 o verifica delle informazioni ai sensi dell’articolo 20*b* capoverso 1 dell’ordinanza del 15 novembre 2017[^35e-1] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni; o
+- c. esibizione di una prova elettronica dell’identità.
+
+<sup>3</sup> La PostCom determina quali prove elettroniche dell’identità sono considerate valide.
+
+<sup>4</sup> Gli utenti dell’interfaccia devono disporre di un conto utente presso la Posta.
+
+<sup>5</sup> La procedura di autenticazione per l’accesso all’interfaccia utente deve essere conforme all’attuale stato della tecnica.
+
+<sup>6</sup> La Posta deve bloccare l’accesso al sistema di recapito ibrido alle persone che hanno utilizzato l’identità di una persona inesistente o che non ha previamente acconsentito all’utilizzo del sistema di recapito ibrido.
+
+[^35e-1]: [RS 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
+
+#### Art. 35f
+
+**Protezione e sicurezza dei dati**
+
+<sup>1</sup> I dati devono essere trattati in Svizzera secondo il diritto svizzero.
+
+<sup>2</sup> La Posta è autorizzata a trattare i dati personali e i dati di persone giuridiche a condizione che ciò sia necessario per la fornitura delle prestazioni previste nella presente sezione e che tali dati non siano divulgati a terzi non autorizzati.
+
+<sup>3</sup>
+
+Si assicura che:
+
+- a. i dati di contenuto e i metadati del sistema di recapito ibrido vengano salvati ed elaborati in maniera logicamente separata rispetto ad altri insiemi di dati;
+- b. per il salvataggio e la trasmissione dei dati siano utilizzati metodi di criptaggio conformi all’attuale stato della tecnica;
+- c. la trasmissione dei dati sia garantita in base agli standard tecnici dell’Amministrazione federale in materia di trasmissione sicura;
+- d. dopo la cancellazione di un conto utente, tutti i dati che non sono necessari alla fornitura di servizi postali esterni al sistema di recapito ibrido saranno distrutti nel rispetto dei termini legali;
+- e. se l’utente non ha effettuato l’accesso da più di due anni, il relativo conto utente verrà cancellato; la cancellazione deve essere preannunciata.
+
+<sup>4</sup> La PostCom può stabilire le prescrizioni tecniche e organizzative applicabili alla protezione e alla sicurezza dei dati. Ne verifica periodicamente il rispetto.
+
+<sup>5</sup> La Posta definisce per scritto le misure tecniche e organizzative atte a impedire il trattamento non autorizzato dei dati e tiene automaticamente traccia del trattamento dei dati.
+
+<sup>6</sup> Impiega un sistema adeguato ai rischi per riconoscere e gestire gli incidenti legati alla sicurezza. Segnala alla PostCom gli incidenti relativi alla protezione e alla sicurezza dei dati classificati come rilevanti per la sicurezza.
+
+#### Art. 35g
+
+**Accesso non discriminatorio**
+
+<sup>1</sup> La Posta garantisce a terzi l’accesso non discriminatorio e trasparente alle installazioni elettroniche e alle prestazioni del sistema di recapito ibrido.
+
+<sup>2</sup>
+
+Mette a disposizione di terzi interfacce di programmazione sicure per il sistema di recapito ibrido. In particolare fa in modo che gli invii elettronici:
+
+- a. siano spediti tramite trasmissione diretta di dati tra le applicazioni specializzate di terzi e il sistema di recapito ibrido;
+- b. siano presi in consegna e ritirati tramite trasmissione sicura di dati tra le applicazioni specializzate di terzi e il sistema di recapito ibrido.
+
+<sup>3</sup> La PostCom emana una decisione in caso di controversie relative all’accesso non discriminatorio fra la Posta e terzi.
+
+#### Art. 35h
+
+**Combinazione con prestazioni che non rientrano nei mandati di servizio universale**
+
+La Posta può combinare le prestazioni del sistema di recapito ibrido con prestazioni che non rientrano nei mandati di servizio universale, a condizione:
+
+- a. di offrire anche una combinazione composta esclusivamente da prestazioni del servizio universale;
+- b. di mettere anche a disposizione di terzi le interfacce di programmazione utilizzate ai fini della combinazione ai sensi dell’articolo 35*g* capoverso 2; e
+- c. che la combinazione non si ripercuota negativamente sulla sicurezza e la protezione dei dati nel servizio universale.
+
+#### Art. 35i
+
+**Emolumenti e tassa di vigilanza**
+
+<sup>1</sup> La PostCom riscuote emolumenti amministrativi per le prestazioni e le decisioni in relazione all’accesso non discriminatorio al sistema di recapito ibrido.
+
+<sup>2</sup> Riscuote una tassa annua di vigilanza presso la Posta per coprire i costi della vigilanza sul sistema di recapito ibrido non coperti dalle entrate provenienti dagli emolumenti.
+
+<sup>3</sup> Il calcolo, l’esigibilità, il differimento e la prescrizione sono retti dalle disposizioni dell’ordinanza generale dell’8 settembre 2004[^35i-1] sugli emolumenti.
+
+[^35i-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Sezione 2: Promozione della stampa regionale e locale, nonché della stampa associativa e delle fondazioni
 
@@ -644,9 +809,9 @@ Allo scopo di garantire la varietà della stampa associativa e delle fondazioni 
 
 <sup>6</sup> Per il resto si applicano le disposizioni della legge del 5 ottobre 1990[^37-3] sulle sovvenzioni.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
-[^37-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-3]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Sezione 3: Francobolli speciali con e senza supplemento sul prezzo di vendita
 
@@ -714,7 +879,7 @@ Il servizio universale comprende almeno l’offerta, destinata alle persone fisi
 
 <sup>2</sup> Su richiesta, PostFinance emette un giustificativo cartaceo o elettronico per le prestazioni di cui al capoverso 1 lettere b–e.
 
-[^43-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^43-1]: Introdotto dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 44
 
@@ -722,20 +887,23 @@ Il servizio universale comprende almeno l’offerta, destinata alle persone fisi
 
 <sup>1</sup> L’accesso alle prestazioni nel settore del traffico dei pagamenti è adeguato se il 90 per cento della popolazione residente permanente di un Cantone può accedere nell’arco di 20 minuti, a piedi o con i mezzi pubblici, alle prestazioni di cui all’articolo 43 capoverso 1 lettere c–e.[^44-1]
 
-<sup>1bis</sup> In zone in cui vi è unicamente un’agenzia postale, la Posta offre il servizio di pagamento in contanti al domicilio del cliente o in un altro modo appropriato.[^44-2]
+<sup>1<sup>bis</sup></sup> In zone in cui vi è unicamente un’agenzia postale, la Posta offre il servizio di pagamento in contanti al domicilio del cliente o in un altro modo appropriato.[^44-2]
+
+<sup>1ter</sup> Se la Posta adempie la prestazione di cui all’articolo 43 capoverso 1 lettera b con un’offerta da realizzare attraverso la rete degli uffici postali e delle agenzie, si applicano le disposizioni in materia di raggiungibilità di cui al capoverso 1. Nelle zone con servizio a domicilio la Posta offre una soluzione alternativa al domicilio del cliente.[^44-3]
 
 <sup>2</sup> Il metodo per misurare l’accesso deve essere scientificamente riconosciuto e certificato da un organo indipendente. Deve inoltre tenere conto dello stato della tecnica.
 
 <sup>3</sup> L’UFCOM approva il metodo e gli strumenti di misurazione.
 
-<sup>4</sup> La Posta e i Cantoni intrattengono un dialogo regolare sulla pianificazione e sul coordinamento della rete di uffici e agenzie postali nel rispettivo territorio cantonale. I Cantoni assicurano la comunicazione con i propri Comuni.[^44-3]
+<sup>4</sup> La Posta e i Cantoni intrattengono un dialogo regolare sulla pianificazione e sul coordinamento della rete di uffici e agenzie postali nel rispettivo territorio cantonale. I Cantoni assicurano la comunicazione con i propri Comuni.[^44-4]
 
-<sup>5</sup> La Posta mette a disposizione in Internet un sistema interattivo dotato di funzione di ricerca e di una mappa, il quale fornisce informazioni sull’ubicazione dei punti di accesso.[^44-4]
+<sup>5</sup> La Posta mette a disposizione in Internet un sistema interattivo dotato di funzione di ricerca e di una mappa, il quale fornisce informazioni sull’ubicazione dei punti di accesso.[^44-5]
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^44-2]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^44-3]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^44-4]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-2]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-3]: Introdotto dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^44-4]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-5]: Introdotto dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 
 #### Art. 45
 
@@ -750,7 +918,7 @@ PostFinance può precludere a determinati clienti la fruizione delle prestazioni
 
 <sup>2</sup> Nelle proprie condizioni generali PostFinance specifica i casi che danno luogo alla preclusione delle prestazioni.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 ## Capitolo 5: Finanziamento del servizio universale nei settori dei servizi postali e del traffico dei pagamenti
 
@@ -766,7 +934,7 @@ Il servizio universale è finanziato con i ricavi della Posta e delle società d
 
 <sup>1</sup> La Posta e le società del gruppo Posta fissano i prezzi delle proprie prestazioni in base a principi economici e tenendo conto del finanziamento del servizio universale.
 
-<sup>2</sup> La Posta fissa i prezzi degli invii postali di cui all’articolo 29 capoverso 1 lettera a indipendentemente dalla distanza e secondo principi uniformi. La PostCom controlla periodicamente se i prezzi sono stati fissati indipendentemente dalla distanza.
+<sup>2</sup> La Posta fissa i prezzi degli invii postali di cui all’articolo 29 capoverso 1 lettera a e degli invii elettronici singoli indipendentemente dalla distanza e secondo principi uniformi. La PostCom controlla periodicamente se i prezzi sono stati fissati indipendentemente dalla distanza.[^47-1]
 
 <sup>3</sup> La Posta fissa i prezzi per la distribuzione dei giornali e periodici di cui all’articolo 29 capoverso 1 lettera c indipendentemente dalla distanza. L’UFCOM controlla periodicamente se i prezzi sono stati fissati indipendentemente dalla distanza.
 
@@ -782,6 +950,16 @@ Gli invii postali di cui all’articolo 29 capoverso 1 lettera a, aperti e recan
 
 - a. sono consegnati da ipovedenti, non vedenti o dalle organizzazioni di ipovedenti o non vedenti oppure sono loro indirizzati; e
 - b. contengono documenti in Braille o registrazioni sonore non utilizzati per scopi di comunicazione commerciale.
+
+<sup>8</sup>
+
+Gli invii elettronici recanti la dicitura «cecogrammi» sono trasportati gratuitamente, se:
+
+- a. sono consegnati da ipovedenti, non vedenti o dalle organizzazioni di ipovedenti o non vedenti oppure sono loro indirizzati; e
+- b. il contenuto non persegue scopi di comunicazione commerciale.[^47-2]
+
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^47-2]: Introdotto dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 48
 
@@ -860,7 +1038,7 @@ La Posta definisce un’eventuale compensazione dei costi netti in modo tale da 
 
 <sup>3</sup> La PostCom verifica i risultati e pubblica l’esito della verifica.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 54
 
@@ -904,7 +1082,7 @@ La Posta incarica un’impresa di revisione sotto sorveglianza statale secondo l
 - b. del rispetto dei requisiti relativi alla contabilità secondo l’articolo 52;
 - c. dell’attribuzione dei costi e dei ricavi, nonché della prova annuale del rispetto del divieto di sovvenzionamento trasversale secondo l’articolo 55 capoverso 3.
 
-[^57-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^57-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 58
 
@@ -945,12 +1123,14 @@ Entro il 31 marzo di ogni anno la Posta presenta alla PostCom un rapporto sul ri
 - a. specificare le zone con servizio a domicilio;
 - b. descrivere l’evoluzione del servizio universale nel settore dei servizi postali;
 - c. indicare gli invii postali persi e i reclami relativi al servizio universale nel settore dei servizi postali;
-- d.[^60-1] indicare il numero complessivo di case di cui agli articoli 31 capoversi 2 e 2<sup>bis</sup> e 83*a* che non beneficiano della distribuzione a domicilio.
+- d.[^60-1] indicare il numero complessivo di case di cui agli articoli 31 capoversi 2 e 2<sup>bis</sup> e 83*a* che non beneficiano della distribuzione a domicilio;
+- e.[^60-2] informare in merito a incidenti relativi alla sicurezza e alla protezione dei dati.
 
-<sup>2</sup> Entro il 31 marzo di ogni anno la Posta presenta alla PostCom un rapporto sul rispetto dei requisiti per la distribuzione dei quotidiani in abbonamento conformemente all’articolo 31*a*. La PostCom definisce nel quadro dell’approvazione del metodo di misurazione di cui all’articolo 31*a* capoverso 5 le informazioni che devono figurare nel rapporto. La Posta è tenuta a presentare il rapporto per la prima volta per l’esercizio 2022.[^60-2]
+<sup>2</sup> Entro il 31 marzo di ogni anno la Posta presenta alla PostCom un rapporto sul rispetto dei requisiti per la distribuzione dei quotidiani in abbonamento conformemente all’articolo 31*a*. La PostCom definisce nel quadro dell’approvazione del metodo di misurazione di cui all’articolo 31*a* capoverso 5 le informazioni che devono figurare nel rapporto. La Posta è tenuta a presentare il rapporto per la prima volta per l’esercizio 2022.[^60-3]
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^60-2]: Introdotto dal n. I dell’O del 18 set. 2020 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Nuovo testo giusta il n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^60-2]: Introdotta dalla cifra I dell’O del 19 dic. 2025, in vigore dal 1° apr. 2026 ([RU 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^60-3]: Introdotto dalla cifra I dell’O del 18 set. 2020 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Nuovo testo giusta la cifra I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 61
 
@@ -1023,7 +1203,7 @@ L’organo di conciliazione deve:
 
 <sup>4</sup> La nomina avviene sotto forma di contratto di diritto amministrativo.
 
-[^65-1]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^65-1]: [RS 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)
 
 #### Art. 66
 
@@ -1082,7 +1262,7 @@ Una richiesta di conciliazione può essere accolta solo se:
 
 <sup>4</sup> Se la PostCom istituisce un nuovo organo di conciliazione, il precedente organo deve trasmettere gratuitamente a quello nuovo i dati sui procedimenti pendenti al momento in cui cessa le sue attività di conciliazione.
 
-[^70-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^70-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 71
 
@@ -1179,7 +1359,7 @@ La PostCom riscuote tasse amministrative per la propria attività, in particolar
 
 <sup>4</sup> Per il resto si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^77-1] sugli emolumenti.
 
-[^77-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^77-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 78
 
@@ -1207,7 +1387,7 @@ La PostCom riscuote tasse amministrative per la propria attività, in particolar
 
 <sup>3</sup> L’esigibilità, il differimento e la prescrizione sono retti dalle disposizioni dell’ordinanza generale dell’8 settembre 2004[^80-1] sugli emolumenti.
 
-[^80-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^80-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Capitolo 9: Relazioni internazionali
 
@@ -1243,8 +1423,8 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 <sup>6</sup> Entro 15 mesi dall’entrata in vigore della presente ordinanza, la PostCom istituisce un organo di conciliazione o affida tale incarico a terzi.
 
-[^83-1]: [[RU 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 3, [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474), [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [RU 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)all. n. I]
-[^83-2]: [[RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
+[^83-1]: [[RU 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 22; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 3; [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474); [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [RU 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)all. cifra I]
+[^83-2]: [[RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
 
 #### Art. 83a
 
@@ -1252,7 +1432,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 Per le soluzioni alternative di cui nell’articolo 31 capoverso 3 adottate prima dell’entrata in vigore della presente ordinanza nella versione del 18 settembre 2020 in applicazione dell’articolo 31 nella versione del 29 agosto 2012[^83a-2], si applica il diritto previgente per quanto attiene all’obbligo della Posta di effettuare la distribuzione a domicilio.
 
-[^83a-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^83a-1]: Introdotto dalla cifra I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 [^83a-2]: [RU 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)
 
 #### Art. 83b
@@ -1261,7 +1441,7 @@ Per le soluzioni alternative di cui nell’articolo 31 capoverso 3 adottate prim
 
 Per il 2020 i beneficiari della riduzione non devono presentare l’autodichiarazione di cui all’articolo 37 capoverso 3.
 
-[^83b-1]: Introdotto dal n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^83b-1]: Introdotto dalla cifra I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 84
 
@@ -1305,8 +1485,8 @@ II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-…[^annex2-lvlu1-3]
+...[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [[RU 2003 4753](https://fedlex.data.admin.ch/eli/oc/2003/692), [2006 3](https://fedlex.data.admin.ch/eli/oc/2006/2)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II 78, [2007 5649](https://fedlex.data.admin.ch/eli/oc/2007/777), [2009 1665](https://fedlex.data.admin.ch/eli/oc/2009/244), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)I 7.[1](https://fedlex.data.admin.ch/eli/oc/2011/1)]
+[^annex2-lvlu1-1]: [[RU 2003 4753](https://fedlex.data.admin.ch/eli/oc/2003/692); [2006 3](https://fedlex.data.admin.ch/eli/oc/2006/2), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 78; [2007 5649](https://fedlex.data.admin.ch/eli/oc/2007/777); [2009 1665](https://fedlex.data.admin.ch/eli/oc/2009/244); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 7.[1](https://fedlex.data.admin.ch/eli/oc/2011/1)]
 [^annex2-lvlu1-2]: [[RU 1998 1609](https://fedlex.data.admin.ch/eli/oc/1998/1609_1609_1609)]
 [^annex2-lvlu1-3]: Le mod. possono essere consultate alla [RU 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586).

@@ -4,11 +4,11 @@ title: Ordonnance du 29 août 2012 sur la poste (OPO)
 short: OPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/586"
 language: fr
-version: 2021-12-01
+version: 2026-04-01
 adopted: 2012-08-29
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-586-20211201-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2012-586-20260401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/fr"
 
 (OPO)
 
-du 29 août 2012 (État le 1<sup>er</sup> décembre 2021)
+du 29 août 2012 (État le 1<sup>er</sup> avril 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 4, al. 2, 6, al. 5, 7, al. 5, 9, al. 2, 10, 12, al. 1, 13, al. 2, 14
 
 arrête:
 
-[^ingress-1]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^ingress-1]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 ## Chapitre 1 Définitions et exécution de l’obligation de fournir le service universel
 
@@ -42,9 +42,23 @@ Au sens de la présente ordonnance, on entend par:
 - e. *société du groupe Poste:* PostFinance et les entreprises contrôlées directement ou indirectement par la Poste, notamment les sociétés de capitaux;
 - f. *installation de cases postales:* installation d’un prestataire destinée à la distribution d’envois postaux, accessible uniquement à son exploitant et aux titulaires des cases postales;
 - g. *coûts incrémentaux:* coûts marginaux d’une prestation et coûts fixes spécifiques à la prestation;
-- h. *coûts de fourniture isolée* (stand-alone costs)*:* coûts d’une prestation pour autant qu’elle soit seule à être proposée.
+- h. *coûts de fourniture isolée* (stand-alone costs)*:* coûts d’une prestation pour autant qu’elle soit seule à être proposée;
+- i.[^1-2] *envoi électronique:* données ou contenus transmis par un expéditeur par voie électronique au système de distribution hybride, pouvant être distribués aux destinataires dans la forme définitive comme envoi adressé, aussi bien par le canal électronique que par le canal hybride; la communication électronique des écrits aux autorités qui peut être distribuée uniquement via le canal électronique est aussi considérée comme envoi électronique;
+- j.[^1-3] *système de distribution hybride:* système de la Poste au moyen duquel un expéditeur peut faire distribuer des envois électroniques à un destinataire via le canal électronique ou hybride;
+- k.[^1-4] *canal électronique:* canal par lequel un envoi électronique est distribué par voie électronique au destinataire;
+- l.[^1-5] *canal hybride:* canal par lequel un envoi électronique est distribué au destinataire sous forme de lettre (art. 2, let. c, LPO) ou de colis (art. 2, let. d, LPO);
+- m.[^1-6] *envoi électronique isolé:* envoi électronique confié par l’expéditeur à la Poste pour être acheminé aux conditions générales;
+- n.[^1-7] *envoi électronique en nombre:* envoi électronique confié par l’expéditeur à la Poste pour être acheminé aux conditions particulières définies par contrat;
+- o.[^1-8] *tri des envois électroniques:* processus qui garantit la distribution d’envois électroniques via le canal électronique ou le canal hybride suivant les consignes données par le destinataire.
 
-[^1-1]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^1-1]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
+[^1-2]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-3]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-4]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-5]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-6]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-7]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-8]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 2
 
@@ -384,35 +398,36 @@ Dans le trafic postal national, le service universel comprend au moins une offre
 
 - b. les lettres jusqu’à 1 kg et les colis jusqu’à 20 kg envoyés en nombre;
 - c. les journaux et périodiques en abonnement en distribution régulière;
-- d.[^29-1] les actes judiciaires ou de poursuite avec accusé de réception et transmission ultérieure de l’accusé de réception à l’expéditeur.
+- d.[^29-1] les actes judiciaires ou de poursuite avec accusé de réception et transmission ultérieure de l’accusé de réception à l’expéditeur;
+- e.[^29-2] les envois électroniques.
 
 <sup>2</sup>
 
 Dans le trafic postal international, le service universel comprend au moins une offre de transport des envois postaux adressés suivants à destination de l’étranger:
 
 - a. les envois isolés de lettres jusqu’à 2 kg et de colis jusqu’à 20 kg;
-- b. les lettres jusqu’à 2 kg et les colis jusqu’à 20 kg envoyés en nombre.[^29-2]
+- b. les lettres jusqu’à 2 kg et les colis jusqu’à 20 kg envoyés en nombre.[^29-3]
 
-<sup>2bis</sup> La longueur, la largeur et la hauteur des lettres visées à l’al. 2 ne peuvent pas dépasser ensemble 90 cm, et aucun côté ne peut dépasser 60 cm.[^29-3]
+<sup>2bis</sup> La longueur, la largeur et la hauteur des lettres visées à l’al. 2 ne peuvent pas dépasser ensemble 90 cm, et aucun côté ne peut dépasser 60 cm.[^29-4]
 
 <sup>3</sup>
 
 La Poste propose aux expéditeurs les prestations suivantes:
 
-- a.[^29-4] l’accusé de réception;
+- a.[^29-5] l’accusé de réception;
 - b. le renvoi.
 
-<sup>3bis</sup> Les envois postaux pour lesquels l’expéditeur demande un accusé de réception sont réputés avoir été réceptionnés au sens du contrat de transport si le destinataire ou une autre personne désignée dans les conditions générales de la Poste comme étant habilitée à réceptionner l’envoi confirme sur papier ou sur un appareil électronique de saisie que l’envoi en question lui a été remis. L’expéditeur doit avoir la possibilité de faire bloquer la remise aux personnes de moins de 16 ans sans supplément de prix. Pour les accusés de réception électroniques, il convient de prendre les mesures techniques et organisationnelles propres à garantir une protection contre la falsification des accusés de réception et la création de faux aussi élevée que pour les accusés de réception imprimés.[^29-5]
+<sup>3bis</sup> Les envois postaux pour lesquels l’expéditeur demande un accusé de réception sont réputés avoir été réceptionnés au sens du contrat de transport si le destinataire ou une autre personne désignée dans les conditions générales de la Poste comme étant habilitée à réceptionner l’envoi confirme sur papier ou sur un appareil électronique de saisie que l’envoi en question lui a été remis. L’expéditeur doit avoir la possibilité de faire bloquer la remise aux personnes de moins de 16 ans sans supplément de prix. Pour les accusés de réception électroniques, il convient de prendre les mesures techniques et organisationnelles propres à garantir une protection contre la falsification des accusés de réception et la création de faux aussi élevée que pour les accusés de réception imprimés.[^29-6]
 
 <sup>4</sup>
 
-La Poste propose aux destinataires les prestations suivantes:[^29-6]
+La Poste propose aux destinataires les prestations suivantes:[^29-7]
 
 - a. la réexpédition;
 - b. la déviation;
 - c. la garde.
 
-<sup>4bis</sup> Elle peut prévoir une offre consistant à ce que les destinataires puissent autoriser par voie électronique la Poste à distribuer directement dans leur boîte aux lettres ou dans leur case postale un envoi postal clairement défini pour lequel l’expéditeur demande un accusé de réception. Si l’expéditeur agit dans l’exercice de tâches de droit public, il doit avoir la possibilité, sans supplément de prix, de faire bloquer l’offre pour la distribution de ses propres envois. L’autorisation électronique est considérée comme un accusé de réception au sens du contrat de transport, conformément à l’al. 3, let. a.[^29-7]
+<sup>4bis</sup> Elle peut prévoir une offre consistant à ce que les destinataires puissent autoriser par voie électronique la Poste à distribuer directement dans leur boîte aux lettres ou dans leur case postale un envoi postal clairement défini pour lequel l’expéditeur demande un accusé de réception. Si l’expéditeur agit dans l’exercice de tâches de droit public, il doit avoir la possibilité, sans supplément de prix, de faire bloquer l’offre pour la distribution de ses propres envois. L’autorisation électronique est considérée comme un accusé de réception au sens du contrat de transport, conformément à l’al. 3, let. a.[^29-8]
 
 <sup>5</sup> Par envois isolés, on entend les envois postaux confiés par l’expéditeur à la Poste afin que celle-ci les transporte aux conditions générales.
 
@@ -423,12 +438,13 @@ La Poste propose aux destinataires les prestations suivantes:[^29-6]
 <sup>8</sup> Les envois coursier et les envois exprès ne font pas partie de l’offre du service universel.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1er janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-2]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-3]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-4]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-5]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-6]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-7]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-2]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^29-3]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-4]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-5]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-6]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-7]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-8]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 30
 
@@ -491,16 +507,13 @@ Elle n’est pas tenue de respecter les délais de distribution:
 
 **Délais d’acheminement en trafic postal national**
 
-<sup>1</sup>
-
-La Poste est tenue de respecter les délais d’acheminement des envois postaux visés à l’art. 29, al. 1, let. a:
-
-- a. pour 97 % des lettres;
-- b. pour 95 % des colis.
+<sup>1</sup> La Poste est tenue de respecter à 90 % les délais d’acheminement des envois postaux visés à l’art. 29, al. 1, let. a, pour les lettres et les colis.[^32-1]
 
 <sup>2</sup> Les méthodes de mesure des délais d’acheminement doivent être reconnues scientifiquement et certifiées par un organe indépendant. Elles doivent reposer sur des normes de qualité internationales et tenir compte de l’état de la technique.
 
 <sup>3</sup> La PostCom approuve les méthodes et les instruments de mesure.
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 33
 
@@ -575,6 +588,168 @@ La Poste peut exclure du transport les envois postaux visés à l’art. 29 s’
 
 <sup>2</sup> Elle désigne dans ses conditions générales les envois postaux exclus du transport.
 
+### Section 1*a* Système de distribution hybride
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+
+#### Art. 35a
+
+**Prestations**
+
+La Poste garantit le service universel au moyen d’un système de distribution hybride et fournit aux personnes physiques et morales ayant leur domicile, leur siège ou leur établissement en Suisse:
+
+- a. l’exploitation d’une plateforme pour la réception, le tri, la distribution et la sauvegarde temporaire d’envois électroniques;
+- b. la mise à disposition d’une interface utilisateur et d’autres interfaces qui permettent aux utilisateurs d’expédier et de consulter les envois électroniques reçus ou envoyés;
+- c. la distribution d’envois électroniques via le canal électronique ou le canal hybride;
+- d. l’impression, la mise sous pli ou l’empaquetage, l’affranchissement et le dépôt d’un envoi électronique sous forme de lettre ou de colis;
+- e. la notification au destinataire immédiatement après la distribution d’un envoi électronique qui lui est adressé via le canal électronique;
+- f. la transmission d’envois électroniques à une plateforme reconnue conformément à l’ordonnance du 18 juin 2010 sur la communication électronique dans le cadre de procédures civiles et pénales et de procédures en matière de poursuite pour dettes et de faillite[^35a-1];
+- g. l’identification et l’authentification des utilisateurs.
+
+[^35a-1]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
+
+#### Art. 35b
+
+**Distribution via le canal électronique**
+
+<sup>1</sup> La distribution d’envois électroniques via le canal électronique requiert le consentement explicite du destinataire. Celui-ci peut révoquer son consentement à tout moment et sans motif.
+
+<sup>2</sup> La Poste permet aux destinataires de consulter les envois électroniques immédiatement après qu’elle a réceptionné ces envois.
+
+<sup>3</sup> Après les avoir réceptionnés, la Poste appose sur tous les envois électroniques un cachet électronique réglementé et un horodatage électronique qualifié au sens de la loi du 18 mars 2016 sur la signature électronique[^35b-1].
+
+<sup>4</sup>
+
+La Poste délivre à l’expéditeur une confirmation de réception immédiatement après la distribution d’un envoi électronique. Elle lui délivre également, sur demande:
+
+- a. une confirmation de consultation, dès qu’un destinataire consulte l’envoi électronique la première fois;
+- b. une confirmation de non-consultation, si un destinataire n’a pas consulté un envoi électronique au terme du septième jour suivant la distribution.
+
+<sup>5</sup> Pour autant qu’ils ne soient pas stockés de manière décentralisée sur des supports de données des utilisateurs, les envois et les confirmations électroniques sont effacés 90 jours après la distribution de l’envoi. Les obligations de remise ou de conservation, notamment vis-à-vis des autorités de poursuite pénale, sont réservées.
+
+<sup>6</sup> La Poste informe immédiatement l’expéditeur si, pour des raisons techniques ou autres, elle ne peut pas distribuer via le canal électronique, ou uniquement avec un certain retard, un envoi électronique qu’il a déposé.
+
+<sup>7</sup>
+
+Elle offre au destinataire d’un envoi électronique une possibilité simple:
+
+- a. de bloquer l’expéditeur afin que celui-ci n’ait plus la possibilité de lui distribuer d’autres envois électroniques via le canal électronique;
+- b. d’informer l’expéditeur qu’il ne souhaite pas recevoir d’autres envois électroniques au contenu similaire.
+
+<sup>8</sup> Les expéditeurs d’envois électroniques en lien avec la communication électronique des écrits aux autorités visée à l’art. 35*a*, let. f, ne peuvent pas être bloqués conformément à l’al. 7.
+
+[^35b-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+
+#### Art. 35c
+
+**Distribution via le canal hybride**
+
+<sup>1</sup> La Poste distribue des envois électroniques via le canal hybride aux destinataires qui n’ont pas donné leur consentement à une distribution électronique, qui l’ont révoqué ou qui ont bloqué l’expéditeur en vertu de l’art. 35*b*, al. 7, let. a.
+
+<sup>2</sup> Elle effectue les étapes de traitement mentionnées à l’art 35*a*, let. d.
+
+<sup>3</sup> La Poste n’est pas tenue de distribuer par le canal hybride les envois électroniques en lien avec la communication électronique des écrits aux autorités visée à l’art. 35*a*, let. f.
+
+<sup>4</sup>
+
+La distribution d’envois électroniques isolés via le canal hydride est soumise aux délais suivants:
+
+- a. si l’envoi électronique est déposé un jour ouvrable, la Poste produit la lettre ou le colis le même jour et le dépose pour le transport dans la catégorie de port sélectionnée;
+- b. si l’envoi électronique est déposé un samedi, un dimanche ou un jour férié général, la Poste produit la lettre ou le colis le premier jour ouvrable suivant le jour du dépôt de l’envoi électronique et le dépose pour le transport dans la catégorie de port sélectionnée.
+
+#### Art. 35d
+
+**Interface utilisateur**
+
+L’interface utilisateur du système de distribution hybride doit être accessible et utilisable au moyen des technologies usuelles.
+
+#### Art. 35e
+
+**Identification et authentification**
+
+<sup>1</sup> Les utilisateurs du système de distribution hybride doivent s’identifier et s’authentifier auprès de la Poste.
+
+<sup>2</sup>
+
+L’identification peut se faire au moyen des procédures suivantes:
+
+- a. la validation de l’adresse d’une personne physique par courrier;
+- b. la présentation d’un document défini à l’art. 20*a*, al. 1, ou la vérification des indications exigées à l’art. 20*b*, al. 1, de l’ordonnance du 15 novembre 2017 sur la surveillance de la correspondance par poste et télécommunication[^35e-1], ou
+- c. la présentation d’un moyen d’identification électronique.
+
+<sup>3</sup> La PostCom détermine quels moyens d’identification électroniques peuvent être employés.
+
+<sup>4</sup> Les utilisateurs de l’interface doivent disposer d’un compte d’utilisateur de la Poste.
+
+<sup>5</sup> La procédure d’authentification donnant accès à l’interface utilisateur doit correspondre à l’état actuel de la technique.
+
+<sup>6</sup> Si des personnes ont utilisé l’identité d’une personne qui n’existe pas ou qui n’a pas donné son consentement préalable à l’utilisation du système de distribution hybride, la Poste bloque leur accès au système.
+
+[^35e-1]: [RS 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
+
+#### Art. 35f
+
+**Protection et sécurité des données**
+
+<sup>1</sup> Les données doivent être traitées en Suisse conformément au droit suisse.
+
+<sup>2</sup> La Poste peut traiter des données personnelles et des données de personnes morales pour autant que ce traitement s’avère nécessaire à la fourniture des prestations visées dans la présente section, et que les données ne soient pas divulguées à des tiers non autorisés.
+
+<sup>3</sup>
+
+Elle veille à ce que:
+
+- a. les données de contenu et les données secondaires du système de distribution hybride soient sauvegardées et traitées séparément des autres données;
+- b. les procédés de chiffrement utilisés pour le stockage et la transmission des données correspondent à l’état actuel de la technique;
+- c. la transmission de données respecte les normes techniques de l’administration fédérale en matière de transmission sécurisée des données;
+- d. toutes les données qui ne sont pas nécessaires à la fourniture de services postaux en dehors du système de distribution hybride soient effacées dans le respect des délais légaux après la suppression du compte d’utilisateur;
+- e. le compte d’utilisateur soit supprimé si l’utilisateur ne s’est plus connecté à ce compte depuis plus de deux ans; la suppression doit être notifiée.
+
+<sup>4</sup> La PostCom peut fixer les prescriptions techniques et organisationnelles applicables à la protection et à la sécurité des données. Elle vérifie régulièrement qu’elles sont respectées.
+
+<sup>5</sup> La Poste établit par écrit les mesures techniques et organisationnelles à prendre pour empêcher le traitement non autorisé des données, et enregistre automatiquement le traitement des données.
+
+<sup>6</sup> Elle exploite un système de détection et de gestion des incidents de sécurité adapté aux risques. Elle signale à la PostCom les incidents concernant la protection et la sécurité des données qui sont classés comme pertinents pour la sécurité.
+
+#### Art. 35g
+
+**Accès non discriminatoire**
+
+<sup>1</sup> La Poste garantit à des tiers l’accès transparent et non discriminatoire aux installations électroniques et aux prestations du système de distribution hybride.
+
+<sup>2</sup>
+
+Elle met à la disposition de tiers les interfaces sécurisées avec le système de distribution hybride. Elle permet notamment:
+
+- a. le dépôt d’envois électroniques par transmission directe de données entre des applications de tiers et le système de distribution hybride;
+- b. la réception et la consultation d’envois électroniques par transmission sécurisée de données entre des applications de tiers et le système de distribution hybride.
+
+<sup>3</sup> La PostCom rend une décision en cas de litige entre la Poste et des tiers concernant l’accès non discriminatoire.
+
+#### Art. 35h
+
+**Groupage avec des prestations ne relevant pas des mandats de service universel**
+
+La Poste peut grouper les prestations du système de distribution hybride avec des prestations ne relevant pas des mandats de service universel à condition:
+
+- a. qu’elle offre aussi un groupage composé exclusivement de prestations relevant du service universel;
+- b. qu’elle mette aussi à la disposition de tiers les interfaces visées à l’art. 35g, al. 2, utilisées pour le groupage de prestations, et
+- c. que le groupage n’ait pas d’effet négatif sur la sécurité et la protection des données dans le service universel.
+
+#### Art. 35i
+
+**Émoluments et taxe de surveillance**
+
+<sup>1</sup> La PostCom perçoit des émoluments pour les prestations et décisions liées à l’accès non discriminatoire au système de distribution hybride.
+
+<sup>2</sup> Elle prélève une taxe annuelle de surveillance auprès de la Poste pour couvrir les coûts engendrés par la surveillance du système de distribution hybride qui ne sont pas couverts par des émoluments.
+
+<sup>3</sup> Le calcul, l’échéance, le sursis et la prescription sont régis par les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^35i-1].
+
+[^35i-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+
 ### Section 2 Aide à la presse régionale et locale ainsi qu’à la presse associative et à la presse des fondations
 
 #### Art. 36
@@ -645,7 +820,7 @@ Afin de maintenir une presse associative et une presse des fondations diversifi�
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 [^37-2]: Nouvelle teneur selon le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
-[^37-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-3]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Section 3 Timbres-poste spéciaux avec ou sans supplément sur le prix de vente
 
@@ -723,18 +898,21 @@ Le service universel comprend, pour les personnes physiques ou morales ayant leu
 
 <sup>1bis</sup> Dans les régions ne disposant que d’une agence postale, la Poste est tenue de proposer le service de paiement en espèces au domicile du client, ou d’une autre manière appropriée.[^44-2]
 
+<sup>1ter</sup> Si la Poste fournit la prestation visée à l’art. 43, al. 1, let. b, par le biais d’une offre devant être effectuée via le réseau d’offices de poste et d’agences postales, les exigences en matière d’accessibilité visées à l’al. 1 s’appliquent. Dans les régions où elle propose un service à domicile, la Poste offre une solution de remplacement à l’adresse du client.[^44-3]
+
 <sup>2</sup> La méthode de mesure de l’accès doit être reconnue scientifiquement et certifiée par un organe indépendant. Elle doit tenir compte de l’état de la technique.
 
 <sup>3</sup> L’OFCOM approuve la méthode et les instruments de mesure.
 
-<sup>4</sup> La Poste et les cantons mènent un dialogue régulier sur la planification et la coordination du réseau d’offices de poste et d’agences postales sur le territoire cantonal. Les cantons assurent la communication avec leurs communes.[^44-3]
+<sup>4</sup> La Poste et les cantons mènent un dialogue régulier sur la planification et la coordination du réseau d’offices de poste et d’agences postales sur le territoire cantonal. Les cantons assurent la communication avec leurs communes.[^44-4]
 
-<sup>5</sup> La Poste met à disposition sur l’internet un système interactif doté d’une fonction de recherche et d’une carte, lequel renseigne sur les emplacements des points d’accès.[^44-4]
+<sup>5</sup> La Poste met à disposition sur l’internet un système interactif doté d’une fonction de recherche et d’une carte, lequel renseigne sur les emplacements des points d’accès.[^44-5]
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 [^44-2]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^44-3]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-3]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 [^44-4]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-5]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 
 #### Art. 45
 
@@ -765,7 +943,7 @@ Le service universel est financé par les recettes de la Poste et des sociétés
 
 <sup>1</sup> La Poste et les sociétés du groupe Poste fixent les tarifs de leurs prestations selon des principes économiques, en fonction du financement du service universel.
 
-<sup>2</sup> La Poste fixe les tarifs pour les envois postaux mentionnés à l’art. 29, al. 1, let. a, indépendamment de la distance et selon des principes uniformes. La PostCom contrôle périodiquement si les tarifs sont fixés indépendamment de la distance.
+<sup>2</sup> La Poste fixe les tarifs pour les envois postaux visés à l’art. 29, al. 1, let. a, et les envois électroniques isolés indépendamment de la distance et selon des principes uniformes. La PostCom contrôle périodiquement si les tarifs sont fixés indépendamment de la distance.[^47-1]
 
 <sup>3</sup> La Poste fixe les tarifs de la distribution des journaux et périodiques mentionnés à l’art. 29, al. 1, let. c, indépendamment de la distance. L’OFCOM contrôle périodiquement si les tarifs sont fixés indépendamment de la distance.
 
@@ -781,6 +959,16 @@ Les envois postaux non fermés visés à l’art. 29, al. 1, let. a, avec mentio
 
 - a. d’être adressés à des personnes malvoyantes ou aveugles ou à leurs organisations, ou expédiés par celles-ci; et
 - b. de contenir des documents en braille ou des enregistrements sonores qui ne sont pas utilisés à des fins de communication commerciale.
+
+<sup>8</sup>
+
+Les envois électroniques portant la mention «Cécogramme» sont transportés gratuitement à condition:
+
+- a. d’être adressés à des personnes malvoyantes ou aveugles ou à leurs organisations, ou expédiés par celles-ci, et
+- b. de ne pas contenir de communication commerciale.[^47-2]
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^47-2]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 48
 
@@ -905,7 +1093,7 @@ La Poste charge une entreprise de révision soumise à la surveillance de l’Et
 - b. le respect des prescriptions comptables selon l’art. 52;
 - c. l’attribution des coûts et des recettes ainsi que la preuve annuelle du respect de l’interdiction des subventions croisées selon l’art. 55, al. 3.
 
-[^57-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^57-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 58
 
@@ -946,12 +1134,14 @@ Le 31 mars de chaque année au plus tard, la Poste fournit à la PostCom un rapp
 - a. les zones desservies par un service à domicile;
 - b. l’évolution des services postaux relevant du service universel;
 - c. les envois postaux perdus et les réclamations concernant les services postaux relevant du service universel;
-- d.[^60-1] le nombre total de maisons visées aux art. 31, al. 2 et 2<sup>bis</sup>, et 83*a* qui ne bénéficient pas de la distribution à domicile.
+- d.[^60-1] le nombre total de maisons visées aux art. 31, al. 2 et 2<sup>bis</sup>, et 83*a* qui ne bénéficient pas de la distribution à domicile;
+- e.[^60-2] des indications sur les incidents concernant la sécurité et la protection des données.
 
-<sup>2</sup> Le 31 mars de chaque année au plus tard, la Poste fournit à la PostCom un rapport sur le respect des prescriptions relatives à la distribution des quotidiens en abonnement formulées à l’art. 31*a*. Lors de l’approbation de la méthode de mesure visée à l’art. 31*a*, al. 5, la PostCom détermine les informations qui doivent figurer dans le rapport. La Poste doit présenter le rapport pour la première fois pour l’année 2022.[^60-2]
+<sup>2</sup> Le 31 mars de chaque année au plus tard, la Poste fournit à la PostCom un rapport sur le respect des prescriptions relatives à la distribution des quotidiens en abonnement formulées à l’art. 31*a*. Lors de l’approbation de la méthode de mesure visée à l’art. 31*a*, al. 5, la PostCom détermine les informations qui doivent figurer dans le rapport. La Poste doit présenter le rapport pour la première fois pour l’année 2022.[^60-3]
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^60-2]: Introduit par le ch. I de l’O du 18 sept. 2020 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Nouvelle teneur selon le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^60-2]: Introduite par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^60-3]: Introduit par le ch. I de l’O du 18 sept. 2020 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Nouvelle teneur selon le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 61
 
@@ -1024,7 +1214,7 @@ L’organe de conciliation doit:
 
 <sup>4</sup> La nomination revêt la forme d’un contrat de droit administratif.
 
-[^65-1]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^65-1]: [RS 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)
 
 #### Art. 66
 
@@ -1083,7 +1273,7 @@ Une requête en conciliation est recevable uniquement:
 
 <sup>4</sup> Si la PostCom nomme un nouvel organe de conciliation, l’ancien organe de conciliation est tenu de communiquer gratuitement au nouvel organe de conciliation les données relatives aux procédures en suspens au moment de la cessation des activités de conciliation.
 
-[^70-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^70-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 71
 
@@ -1180,7 +1370,7 @@ La PostCom perçoit des émoluments pour son activité, notamment pour:
 
 <sup>4</sup> L’ordonnance générale du 8 septembre 2004 sur les émoluments[^77-1] s’applique au demeurant.
 
-[^77-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^77-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 78
 
@@ -1208,7 +1398,7 @@ La PostCom perçoit des émoluments pour son activité, notamment pour:
 
 <sup>3</sup> L’échéance, le sursis et la prescription sont régis par les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^80-1].
 
-[^80-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^80-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapitre 9 Droit international
 

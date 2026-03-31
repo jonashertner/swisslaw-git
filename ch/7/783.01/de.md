@@ -4,11 +4,11 @@ title: Postverordnung vom 29. August 2012 (VPG)
 short: VPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/586"
 language: de
-version: 2021-12-01
+version: 2026-04-01
 adopted: 2012-08-29
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2012-586-20211201-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2012-586-20260401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/de"
 
 (VPG)
 
-vom 29. August 2012 (Stand am 1. Dezember 2021)
+vom 29. August 2012 (Stand am 1. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 4 Absatz 2, 6 Absatz 5, 7 Absatz 5, 9 Absatz 2, 10, 12
 
 verordnet:
 
-[^ingress-1]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^ingress-1]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 ## 1. Kapitel: Begriffe und Erfüllung der Verpflichtung zur Grundversorgung
 
@@ -42,9 +42,23 @@ In dieser Verordnung bedeuten:
 - e. *Postkonzerngesellschaft:* die PostFinance und die von der Post direkt oder indirekt kontrollierten Unternehmen, insbesondere Kapitalgesellschaften;
 - f. *Postfachanlage:* Einrichtung einer Anbieterin für die Zustellung von Postsendungen, zu der nur die Betreiberin der Einrichtung und die Inhaberin oder der Inhaber des jeweiligen Postfachs Zugang haben;
 - g. *inkrementelle Kosten:* Grenzkosten einer Dienstleistung und dienstleistungsspezifische Fixkosten;
-- h. *Stand-alone-Kosten:* Kosten einer Dienstleistung, wenn nur diese angeboten würde.
+- h. *Stand-alone-Kosten:* Kosten einer Dienstleistung, wenn nur diese angeboten würde;
+- i.[^1-2] *elektronische Sendung:* von einer Absenderin oder einem Absender elektronisch an das hybride Zustellsystem übermittelte Inhalte oder Daten, die in der endgültigen Form den Empfängerinnen oder Empfängern als adressierte Sendung sowohl über den elektronischen als auch über den hybriden Kanal zugestellt werden können; als elektronische Sendungen gelten auch Sendungen des elektronischen Rechtsverkehrs, die nur über den elektronischen Kanal zugestellt werden können;
+- j.[^1-3] *hybrides Zustellsystem:* System der Post, mit dem eine Absenderin oder ein Absender elektronische Sendungen aufgeben und über den elektronischen oder den hybriden Kanal einer Empfängerin oder einem Empfänger zustellen lassen kann;
+- k.[^1-4] *elektronischer Kanal:* Kanal, über den eine elektronische Sendung der Empfängerin oder dem Empfänger elektronisch zugestellt wird;
+- l.[^1-5] *hybrider Kanal:* Kanal, über den eine elektronische Sendung der Empfängerin oder dem Empfänger als Brief (Art. 2 Bst. c PG) oder Paket (Art. 2 Bst. d PG) zugestellt wird;
+- m.[^1-6] *elektronische Einzelsendung:* elektronische Sendung, welche die Absenderin oder der Absender der Post zu allgemeinen Geschäftsbedingungen zur Beförderung übergibt;
+- n.[^1-7] *elektronische Massensendung:* elektronische Sendung, welche die Absenderin oder der Absender der Post zu individuellen Vertragsbedingungen zur Beförderung übergibt;
+- o.[^1-8] *Sortieren elektronischer Sendungen:* Prozess, der die Zustellung elektronischer Sendungen über den elektronischen oder den hybriden Kanal gemäss den Vorgaben der Empfängerin oder des Empfängers sicherstellt.
 
-[^1-1]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^1-1]: [SR 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
+[^1-2]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-3]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-4]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-6]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-7]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-8]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 2
 
@@ -384,35 +398,36 @@ Die Grundversorgung im inländischen Postverkehr umfasst mindestens ein Angebot 
 
 - b. Briefe bis 1 kg und Pakete bis 20 kg als Massensendung;
 - c. abonnierte Zeitungen und Zeitschriften in der Tageszustellung;
-- d.[^29-1] Gerichts- und Betreibungsurkunden mit Empfangsbestätigung und anschliessender Übermittlung der Empfangsbestätigung an die Absenderin oder den Absender.
+- d.[^29-1] Gerichts- und Betreibungsurkunden mit Empfangsbestätigung und anschliessender Übermittlung der Empfangsbestätigung an die Absenderin oder den Absender;
+- e.[^29-2] elektronische Sendungen.
 
 <sup>2</sup>
 
 Die Grundversorgung im grenzüberschreitenden Postverkehr umfasst mindestens ein Angebot für die Beförderung folgender adressierter Postsendungen ins Ausland:
 
 - a. Briefe bis 2 kg und Pakete bis 20 kg als Einzelsendung;
-- b. Briefe bis 2 kg und Pakete bis 20 kg als Massensendung.[^29-2]
+- b. Briefe bis 2 kg und Pakete bis 20 kg als Massensendung.[^29-3]
 
-<sup>2bis</sup> Bei Briefen nach Absatz 2 dürfen Länge, Breite und Höhe zusammen höchstens 90 cm betragen und keine Seite darf länger als 60 cm sein.[^29-3]
+<sup>2bis</sup> Bei Briefen nach Absatz 2 dürfen Länge, Breite und Höhe zusammen höchstens 90 cm betragen und keine Seite darf länger als 60 cm sein.[^29-4]
 
 <sup>3</sup>
 
 Die Post bietet Absenderinnen und Absendern folgende Dienste an:
 
-- a.[^29-4] Empfangsbestätigung;
+- a.[^29-5] Empfangsbestätigung;
 - b. Rücksendung.
 
-<sup>3bis</sup> Postsendungen, für die die Absenderin oder der Absender eine Empfangsbestätigung verlangt, gelten im Sinne des Beförderungsvertrags als empfangen, wenn die Empfängerin oder der Empfänger oder eine andere in den allgemeinen Geschäftsbedingungen der Post als empfangsberechtigt bezeichnete Person auf Papier oder einem elektronischen Erfassungsgerät bestätigt, dass ihr oder ihm eine bestimmte Sendung ausgehändigt wurde. Die Absenderin oder der Absender muss die Möglichkeit haben, die Aushändigung an Personen unter 16 Jahren ohne Aufpreis sperren zu lassen. Bei der elektronischen Form muss durch geeignete technische und organisatorische Massnahmen sichergestellt sein, dass der Schutz vor Fälschung oder Verfälschung der Empfangsbestätigung gleich hoch ist wie bei der Papierform.[^29-5]
+<sup>3bis</sup> Postsendungen, für die die Absenderin oder der Absender eine Empfangsbestätigung verlangt, gelten im Sinne des Beförderungsvertrags als empfangen, wenn die Empfängerin oder der Empfänger oder eine andere in den allgemeinen Geschäftsbedingungen der Post als empfangsberechtigt bezeichnete Person auf Papier oder einem elektronischen Erfassungsgerät bestätigt, dass ihr oder ihm eine bestimmte Sendung ausgehändigt wurde. Die Absenderin oder der Absender muss die Möglichkeit haben, die Aushändigung an Personen unter 16 Jahren ohne Aufpreis sperren zu lassen. Bei der elektronischen Form muss durch geeignete technische und organisatorische Massnahmen sichergestellt sein, dass der Schutz vor Fälschung oder Verfälschung der Empfangsbestätigung gleich hoch ist wie bei der Papierform.[^29-6]
 
 <sup>4</sup>
 
-Die Post bietet Empfängerinnen und Empfängern folgende Dienste an:[^29-6]
+Die Post bietet Empfängerinnen und Empfängern folgende Dienste an:[^29-7]
 
 - a. Nachsendung;
 - b. Umleitung;
 - c. Rückbehalt.
 
-<sup>4bis</sup> Sie kann ein Angebot vorsehen, das darin besteht, dass die Empfängerinnen und Empfänger die Post auf elektronischem Weg ermächtigen können, eine genau bezeichnete Postsendung, für die die Absenderin oder der Absender eine Empfangsbestätigung verlangt, direkt in den Briefkasten oder das Postfach zuzustellen. Handelt die Absenderin oder der Absender in Erfüllung öffentlich-rechtlicher Aufgaben, so muss sie oder er die Möglichkeit haben, das Angebot für den Versand der eigenen Sendungen ohne Aufpreis sperren zu lassen. Die elektronische Ermächtigung gilt im Sinne des Beförderungsvertrags als Empfangsbestätigung nach Absatz 3 Buchstabe a.[^29-7]
+<sup>4bis</sup> Sie kann ein Angebot vorsehen, das darin besteht, dass die Empfängerinnen und Empfänger die Post auf elektronischem Weg ermächtigen können, eine genau bezeichnete Postsendung, für die die Absenderin oder der Absender eine Empfangsbestätigung verlangt, direkt in den Briefkasten oder das Postfach zuzustellen. Handelt die Absenderin oder der Absender in Erfüllung öffentlich-rechtlicher Aufgaben, so muss sie oder er die Möglichkeit haben, das Angebot für den Versand der eigenen Sendungen ohne Aufpreis sperren zu lassen. Die elektronische Ermächtigung gilt im Sinne des Beförderungsvertrags als Empfangsbestätigung nach Absatz 3 Buchstabe a.[^29-8]
 
 <sup>5</sup> Als Einzelsendung gelten Postsendungen, welche die Absenderin oder der Absender der Post zu allgemeinen Geschäftsbedingungen zur Beförderung übergibt.
 
@@ -423,12 +438,13 @@ Die Post bietet Empfängerinnen und Empfängern folgende Dienste an:[^29-6]
 <sup>8</sup> Express- und Kurierpostsendungen sind nicht Teil des Angebots der Grundversorgung.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-2]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-3]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-4]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-5]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-6]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-7]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-2]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^29-3]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-4]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-5]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-6]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-7]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-8]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 30
 
@@ -491,16 +507,13 @@ Sie ist nicht zur fristgerechten Zustellung verpflichtet, wenn:
 
 **Laufzeiten im inländischen Postverkehr**
 
-<sup>1</sup>
-
-Die Post hat die Laufzeiten der Postsendungen nach Artikel 29 Absatz 1 Buchstabe a wie folgt einzuhalten:
-
-- a. bei Briefen zu 97 Prozent;
-- b. bei Paketen zu 95 Prozent.
+<sup>1</sup> Die Post hat die Laufzeiten der Postsendungen nach Artikel 29 Absatz 1 Buchstabe a bei Briefen und Paketen zu 90 Prozent einzuhalten.[^32-1]
 
 <sup>2</sup> Die Methoden zur Messung der Laufzeiten müssen wissenschaftlich anerkannt und von einer unabhängigen Fachstelle zertifiziert sein. Sie beruhen auf internationalen Qualitätsstandards und berücksichtigen den Stand der Technik.
 
 <sup>3</sup> Die PostCom genehmigt die Methoden und die Messinstrumente.
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 33
 
@@ -575,6 +588,168 @@ Die Post kann Postsendungen nach Artikel 29 von der Beförderung ausschliessen, 
 
 <sup>2</sup> Sie bezeichnet in ihren allgemeinen Geschäftsbedingungen, welche Postsendungen von der Beförderung ausgeschlossen werden.
 
+### 1*a*. Abschnitt: Hybrides Zustellsystem
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+
+#### Art. 35a
+
+**Leistungen**
+
+Die Post gewährleistet die Grundversorgung mit einem hybriden Zustellsystem und erbringt für natürliche und juristische Personen mit Wohnsitz, Sitz oder Niederlassung in der Schweiz folgende Leistungen:
+
+- a. das Betreiben einer Plattform für das Annehmen, Sortieren, Zustellen und Zwischenspeichern elektronischer Sendungen;
+- b. das Bereitstellen einer Benutzeroberfläche und von Schnittstellen, die den Nutzerinnen und Nutzern das Versenden sowie das Abrufen empfangener und versendeter elektronischer Sendungen ermöglicht;
+- c. das Zustellen elektronischer Sendungen über den elektronischen oder den hybriden Kanal;
+- d. das Ausdrucken, Kuvertieren oder Verpacken, Frankieren und Aufgeben des Inhalts einer elektronischen Sendung als Brief oder Paket;
+- e. das Verständigen der Empfängerin oder des Empfängers unmittelbar nach der Zustellung einer an sie oder ihn adressierten elektronischen Sendung über den elektronischen Kanal;
+- f. das Übermitteln elektronischer Sendungen an eine anerkannte Plattform nach der Verordnung vom 18. Juni 2010[^35a-1] über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren;
+- g. die Identifikation und Authentifikation der Nutzerinnen und Nutzer.
+
+[^35a-1]: [SR 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
+
+#### Art. 35b
+
+**Zustellung über den elektronischen Kanal**
+
+<sup>1</sup> Für die Zustellung elektronischer Sendungen über den elektronischen Kanal ist die ausdrückliche Einwilligung der Empfängerin oder des Empfängers erforderlich. Die Empfängerin oder der Empfänger kann die Einwilligung jederzeit ohne Angabe von Gründen widerrufen.
+
+<sup>2</sup> Die Post ermöglicht den Empfängerinnen und Empfängern, die elektronischen Sendungen abzurufen, unmittelbar nachdem sie diese angenommen hat.
+
+<sup>3</sup> Sie versieht alle elektronischen Sendungen nach der Annahme mit einem geregelten elektronischen Siegel und einem qualifizierten elektronischen Zeitstempel nach dem Bundesgesetz vom 18. März 2016[^35b-1] über die elektronische Signatur.
+
+<sup>4</sup>
+
+Die Post stellt der Absenderin oder dem Absender unmittelbar nach der Zustellung einer elektronischen Sendung eine Eingangsbestätigung aus. Sie stellt ihr oder ihm auf Wunsch überdies folgende Bestätigungen aus:
+
+- a. eine Abrufbestätigung: für jede Empfängerin und jeden Empfänger, sobald sie oder er die elektronische Sendung erstmals abgerufen hat;
+- b. eine Nichtabrufbestätigung: wenn eine Empfängerin oder ein Empfänger eine elektronische Sendung bis zum Ende des siebten Tags nach der Zustellung nicht abgerufen hat.
+
+<sup>5</sup> Die elektronischen Sendungen und Bestätigungen werden, sofern sie nicht dezentral auf Datenträgern der Nutzerinnen und Nutzer gespeichert sind, 90 Tage nach der Zustellung gelöscht. Vorbehalten bleiben Herausgabe- oder Aufbewahrungspflichten namentlich gegenüber Strafverfolgungsbehörden.
+
+<sup>6</sup> Die Post setzt die Absenderin oder den Absender unverzüglich in Kenntnis, wenn sie eine von ihr angenommene elektronische Sendung aus technischen oder anderen Gründen nicht oder nur mit einer Verzögerung über den elektronischen Kanal zustellen kann.
+
+<sup>7</sup>
+
+Sie ermöglicht der Empfängerin oder dem Empfänger einer elektronischen Sendung auf einfache Art und Weise:
+
+- a. Absenderinnen und Absender zu blockieren, sodass diese ihr oder ihm keine weiteren elektronischen Sendungen über den elektronischen Kanal zustellen können;
+- b. Absenderinnen und Absendern mitzuteilen, dass sie keine weiteren elektronischen Sendungen mit ähnlichem Inhalt erhalten möchte.
+
+<sup>8</sup> Die Absenderinnen und Absender elektronischer Sendungen im Zusammenhang mit dem elektronischen Rechtsverkehr nach Artikel 35*a* Buchstabe f können nicht nach Absatz 7 blockiert werden.
+
+[^35b-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+
+#### Art. 35c
+
+**Zustellung über den hybriden Kanal**
+
+<sup>1</sup> Die Post stellt Empfängerinnen oder Empfängern, die keine Einwilligung zur elektronischen Zustellung gegeben, diese widerrufen oder die Absenderin oder den Absender nach Artikel 35*b* Absatz 7 Buchstabe a blockiert haben, elektronische Sendungen über den hybriden Kanal zu.
+
+<sup>2</sup> Sie unternimmt dazu die Arbeitsschritte nach Artikel 35*a* Buchstabe d.
+
+<sup>3</sup> Die Post ist im Zusammenhang mit dem elektronischen Rechtsverkehr nach Artikel 35*a* Buchstabe f nicht zur Zustellung elektronischer Sendungen über den hybriden Kanal verpflichtet.
+
+<sup>4</sup>
+
+Für die Zustellung elektronischer Einzelsendungen über den hybriden Kanal gelten folgende Fristen:
+
+- a. Wird die elektronische Sendung an einem Werktag aufgegeben, so produziert die Post am selben Tag den Brief oder das Paket und gibt diesen beziehungsweise dieses in der gewählten Portoklasse zur Beförderung auf.
+- b. Wird die elektronische Sendung an einem Samstag, einem Sonntag oder einem allgemeinen Feiertag aufgegeben, so produziert die Post den Brief oder das Paket am ersten Werktag nach dem Tag der Aufgabe der elektronischen Sendung und gibt diesen beziehungsweise dieses in der gewählten Portoklasse zur Beförderung auf.
+
+#### Art. 35d
+
+**Benutzeroberfläche**
+
+Die Benutzeroberfläche des hybriden Zustellsystems muss über gängige Technologien erreicht und benutzt werden können.
+
+#### Art. 35e
+
+**Identifikation und Authentifikation**
+
+<sup>1</sup> Die Nutzerinnen und Nutzer des hybriden Zustellsystems müssen sich gegenüber der Post identifizieren und authentifizieren.
+
+<sup>2</sup>
+
+Zur Identifikation können folgende Verfahren verwendet werden:
+
+- a. die briefliche Validierung der Adresse einer natürlichen Person;
+- b. das Vorzeigen eines Dokuments nach Artikel 20*a* Absatz 1 oder das Überprüfen der Angaben nach Artikel 20*b* Absatz 1 der Verordnung vom 15. November 2017[^35e-1] über die Überwachung des Post- und Fernmeldeverkehrs; oder
+- c. das Vorweisen eines elektronischen Identitätsnachweises.
+
+<sup>3</sup> Die PostCom bestimmt, welche elektronischen Identitätsnachweise eingesetzt werden können.
+
+<sup>4</sup> Die Nutzerinnen und Nutzer der Benutzeroberfläche müssen über ein Benutzerkonto der Post verfügen.
+
+<sup>5</sup> Das Authentifizierungsverfahren für den Zugang zur Benutzeroberfläche muss dem aktuellen Stand der Technik entsprechen.
+
+<sup>6</sup> Die Post muss den Zugang zum hybriden Zustellsystem für Personen sperren, wenn sie die Identität einer Person verwendet haben, die nicht existiert oder die der Nutzung des hybriden Zustellsystems nicht vorgängig zugestimmt hat.
+
+[^35e-1]: [SR 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
+
+#### Art. 35f
+
+**Datenschutz und Datensicherheit**
+
+<sup>1</sup> Die Daten sind nach schweizerischem Recht in der Schweiz zu bearbeiten.
+
+<sup>2</sup> Die Post darf Personendaten und Daten juristischer Personen bearbeiten, soweit dies für die Erbringung der Dienstleistungen nach diesem Abschnitt nötig ist und die Daten nicht an unbefugte Dritte bekanntgegeben werden.
+
+<sup>3</sup>
+
+Sie stellt sicher, dass:
+
+- a. die Inhalts- und Randdaten des hybriden Zustellsystems logisch getrennt von anderen Datenbeständen gespeichert und bearbeitet werden;
+- b. für die Speicherung und Übermittlung der Daten Verschlüsselungsverfahren nach dem aktuellen Stand der Technik verwendet werden;
+- c. die Datenübermittlung nach den technischen Standards der Bundesverwaltung bezüglich der sicheren Übermittlung gewährleistet ist;
+- d. nach der Auflösung eines Benutzerkontos sämtliche Daten, die nicht zur Erbringung von Postdiensten ausserhalb des hybriden Zustellsystems benötigt werden, unter Einhaltung der gesetzlichen Fristen vernichtet werden;
+- e. das Benutzerkonto einer Nutzerin oder eines Nutzers aufgelöst wird, wenn diese oder dieser sich mehr als zwei Jahre lang nicht mehr angemeldet hat; die Auflösung muss angekündigt werden.
+
+<sup>4</sup> Die PostCom kann die technischen und organisatorischen Anforderungen an den Datenschutz und die Datensicherheit festlegen. Sie überprüft regelmässig deren Einhaltung.
+
+<sup>5</sup> Die Post legt die organisatorischen und technischen Massnahmen gegen die unbefugte Bearbeitung der Daten schriftlich fest und protokolliert die Bearbeitung der Daten automatisch.
+
+<sup>6</sup> Sie betreibt ein risikogerechtes System zur Erkennung von Sicherheitsvorfällen und zum Umgang mit diesen. Sie meldet in Bezug auf den Datenschutz und die Datensicherheit als sicherheitsrelevant eingestufte Vorfälle der PostCom.
+
+#### Art. 35g
+
+**Nichtdiskriminierender Zugang**
+
+<sup>1</sup> Die Post gewährt Dritten den diskriminierungsfreien und transparenten Zugang zu den elektronischen Einrichtungen und Dienstleistungen des hybriden Zustellsystems.
+
+<sup>2</sup>
+
+Sie stellt Dritten sichere Schnittstellen zum hybriden Zustellsystem zur Verfügung. Sie ermöglicht namentlich, dass elektronische Sendungen:
+
+- a. mittels direkter Datenübermittlung zwischen Fachapplikationen Dritter und dem hybriden Zustellsystem aufgegeben werden können;
+- b. mittels sicherer Datenübermittlung zwischen Fachapplikationen Dritter und dem hybriden Zustellsystem angenommen und abgerufen werden können.
+
+<sup>3</sup> Die PostCom erlässt bei Streitigkeiten zwischen der Post und Dritten betreffend den nichtdiskriminierenden Zugang eine Verfügung.
+
+#### Art. 35h
+
+**Bündelung mit Dienstleistungen ausserhalb der Grundversorgungsaufträge**
+
+Die Post kann die Dienstleistungen des hybriden Zustellsystems mit Dienstleistungen ausserhalb der Grundversorgungsaufträge bündeln, sofern:
+
+- a. sie auch ein ausschliesslich aus den Dienstleistungen der Grundversorgung bestehendes Bündel anbietet;
+- b. sie die zur Bündelung verwendeten Schnittstellen nach Artikel 35*g* Absatz 2 auch Dritten zur Verfügung stellt; und
+- c. sich die Bündelung nicht nachteilig auf die Datensicherheit und den Datenschutz in der Grundversorgung auswirkt.
+
+#### Art. 35i
+
+**Gebühren und Aufsichtsabgabe**
+
+<sup>1</sup> Die PostCom erhebt Gebühren für Dienstleistungen und Verfügungen im Zusammenhang mit dem nichtdiskriminierenden Zugang zum hybriden Zustellsystem.
+
+<sup>2</sup> Sie erhebt zur Deckung der Kosten für die Aufsicht über das hybride Zustellsystem, die nicht durch Gebühreneinnahmen gedeckt sind, bei der Post eine jährliche Aufsichtsabgabe.
+
+<sup>3</sup> Bemessung, Fälligkeit, Stundung und Verjährung richten sich nach den Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^35i-1].
+
+[^35i-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+
 ### 2. Abschnitt: Förderung der Regional- und Lokalpresse sowie der Mitgliedschafts- und Stiftungspresse
 
 #### Art. 36
@@ -645,7 +820,7 @@ Zur Erhaltung einer vielfältigen Mitgliedschafts- und Stiftungspresse werden Zu
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 [^37-2]: Fassung gemäss Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
-[^37-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-3]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 3. Abschnitt: Sondermarken mit und ohne Zuschlag auf den Verkaufspreis
 
@@ -723,18 +898,21 @@ Die Grundversorgung umfasst mindestens ein Angebot für folgende inländische Di
 
 <sup>1bis</sup> In Gebieten, in denen nur eine Postagentur vorhanden ist, bietet die Post die Bareinzahlung an der Wohnadresse der Kundin oder des Kunden oder in anderer geeigneter Weise an.[^44-2]
 
+<sup>1ter</sup> Erfüllt die Post die Dienstleistung nach Artikel 43 Absatz 1 Buchstabe b mit einem über das Poststellen- und Agenturnetz abzuwickelnden Angebot, so gelten für die Erreichbarkeit die Vorgaben nach Absatz 1. In Gebieten mit Hausservice bietet die Post eine Ersatzlösung an der Wohnadresse der Kundin oder des Kunden an.[^44-3]
+
 <sup>2</sup> Die Methode zur Messung des Zugangs muss wissenschaftlich anerkannt und von einer unabhängigen Fachstelle zertifiziert sein. Sie berücksichtigt den Stand der Technik.
 
 <sup>3</sup> Das BAKOM genehmigt die Methode und die Messinstrumente.
 
-<sup>4</sup> Die Post und die Kantone stehen zur Planung und Koordination des Poststellen- und Postagenturennetzes in ihrem Gebiet regelmässig im Dialog. Die Kantone stellen die Kommunikation mit ihren Gemeinden sicher.[^44-3]
+<sup>4</sup> Die Post und die Kantone stehen zur Planung und Koordination des Poststellen- und Postagenturennetzes in ihrem Gebiet regelmässig im Dialog. Die Kantone stellen die Kommunikation mit ihren Gemeinden sicher.[^44-4]
 
-<sup>5</sup> Die Post stellt im Internet ein interaktives System mit Suchfunktion und Karte zur Verfügung, das über die Standorte der Zugangspunkte Auskunft gibt.[^44-4]
+<sup>5</sup> Die Post stellt im Internet ein interaktives System mit Suchfunktion und Karte zur Verfügung, das über die Standorte der Zugangspunkte Auskunft gibt.[^44-5]
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 [^44-2]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^44-3]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-3]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 [^44-4]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-5]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 
 #### Art. 45
 
@@ -765,7 +943,7 @@ Die Grundversorgung wird mit den Umsatzerlösen der Post und der Postkonzerngese
 
 <sup>1</sup> Die Post und die Postkonzerngesellschaften legen die Preise ihrer Dienstleistungen nach wirtschaftlichen Grundsätzen unter Berücksichtigung der Finanzierung der Grundversorgung fest.
 
-<sup>2</sup> Die Post legt die Preise für Postsendungen nach Artikel 29 Absatz 1 Buchstabe a distanzunabhängig sowie nach einheitlichen Grundsätzen fest. Die PostCom kontrolliert periodisch, ob die Preise distanzunabhängig festgelegt sind.
+<sup>2</sup> Die Post legt die Preise für Postsendungen nach Artikel 29 Absatz 1 Buchstabe a und elektronische Einzelsendungen distanzunabhängig sowie nach einheitlichen Grundsätzen fest. Die PostCom kontrolliert periodisch, ob die Preise distanzunabhängig festgelegt sind.[^47-1]
 
 <sup>3</sup> Die Post legt die Preise für die Zustellung von Zeitungen und Zeitschriften nach Artikel 29 Absatz 1 Buchstabe c distanzunabhängig fest. Das BAKOM kontrolliert periodisch, ob die Preise distanzunabhängig festgelegt sind.
 
@@ -781,6 +959,16 @@ Unverschlossene Postsendungen nach Artikel 29 Absatz 1 Buchstabe a mit der Kennz
 
 - a. von sehbehinderten oder blinden Personen oder ihren Organisationen aufgegeben werden oder an diese adressiert sind; und
 - b. Dokumente in Blindenschrift oder Tonaufnahmen enthalten, die nicht zur kommerziellen Kommunikation dienen.
+
+<sup>8</sup>
+
+Elektronische Sendungen mit der Kennzeichnung «Blindensendung» sind unentgeltlich zu befördern, sofern sie:
+
+- a. von sehbehinderten oder blinden Personen oder ihren Organisationen aufgegeben werden oder an diese adressiert sind; und
+- b. der Inhalt nicht zur kommerziellen Kommunikation dient.[^47-2]
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^47-2]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 48
 
@@ -905,7 +1093,7 @@ Die Post beauftragt ein staatlich beaufsichtigtes Revisionsunternehmen nach Arti
 - b. die Einhaltung der Vorgaben zum Rechnungswesen nach Artikel 52;
 - c. die Zuordnung der Kosten und Umsatzerlöse und den jährlichen Nachweis über die Einhaltung des Quersubventionierungsverbots nach Artikel 55 Absatz 3.
 
-[^57-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^57-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 58
 
@@ -946,12 +1134,14 @@ Die Post reicht der PostCom jährlich bis 31. März einen Bericht über die Einh
 - a. die Gebiete mit Hausservice zu bezeichnen;
 - b. die Entwicklung der Grundversorgung mit Postdiensten zu beschreiben;
 - c. Verluste von Postsendungen und Reklamationen zur Grundversorgung mit Postdiensten anzugeben;
-- d.[^60-1] die Gesamtzahl Häuser nach den Artikeln 31 Absätze 2 und 2<sup>bis</sup> und 83*a* ohne Hauszustellung anzugeben.
+- d.[^60-1] die Gesamtzahl Häuser nach den Artikeln 31 Absätze 2 und 2<sup>bis</sup> und 83*a* ohne Hauszustellung anzugeben;
+- e.[^60-2] über Vorfälle betreffend die Datensicherheit und den Datenschutz zu informieren.
 
-<sup>2</sup> Sie reicht der PostCom jährlich bis 31. März einen Bericht über die Einhaltung er Vorgaben zur Zustellung von abonnierten Tageszeitungen nach Artikel 31*a* ein. Die PostCom bestimmt anlässlich der Genehmigung der Messmethode nach Artikel 31*a* Absatz 5 die in der Berichterstattung auszuweisenden Angaben. Die Post hat den Bericht erstmals für das Berichtsjahr 2022 einzureichen.[^60-2]
+<sup>2</sup> Sie reicht der PostCom jährlich bis 31. März einen Bericht über die Einhaltung er Vorgaben zur Zustellung von abonnierten Tageszeitungen nach Artikel 31*a* ein. Die PostCom bestimmt anlässlich der Genehmigung der Messmethode nach Artikel 31*a* Absatz 5 die in der Berichterstattung auszuweisenden Angaben. Die Post hat den Bericht erstmals für das Berichtsjahr 2022 einzureichen.[^60-3]
 
 [^60-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^60-2]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Fassung gemäss Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^60-2]: Eingefügt durch Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. April 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^60-3]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Fassung gemäss Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 61
 
@@ -1024,7 +1214,7 @@ Die Schlichtungsstelle muss:
 
 <sup>4</sup> Die Ernennung erfolgt in Form eines verwaltungsrechtlichen Vertrags.
 
-[^65-1]: [SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^65-1]: [SR 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)
 
 #### Art. 66
 
@@ -1083,7 +1273,7 @@ Ein Schlichtungsbegehren ist nur zulässig, wenn:
 
 <sup>4</sup> Ernennt die PostCom eine neue Schlichtungsstelle, so muss die bisherige Schlichtungsstelle die Daten der Verfahren, die zum Zeitpunkt der Einstellung der Schlichtungstätigkeit hängig sind, der neuen Schlichtungsstelle unentgeltlich übermitteln.
 
-[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 71
 
@@ -1180,7 +1370,7 @@ Die PostCom erhebt für ihre Tätigkeit Gebühren, insbesondere für:
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^77-1].
 
-[^77-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^77-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 78
 
@@ -1208,7 +1398,7 @@ Die PostCom erhebt für ihre Tätigkeit Gebühren, insbesondere für:
 
 <sup>3</sup> Fälligkeit, Stundung und Verjährung richten sich nach den Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^80-1].
 
-[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 9. Kapitel: Internationales
 
@@ -1244,8 +1434,8 @@ Die Aufhebung und die Änderung bisherigen Rechts werden in Anhang 2 geregelt.
 
 <sup>6</sup> Die PostCom richtet innerhalb von 15 Monaten nach Inkrafttreten dieser Verordnung eine Schlichtungsstelle ein oder beauftragt Dritte damit.
 
-[^83-1]: [[AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31 Ziff. 3, [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474), [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)Anhang Ziff. I]
-[^83-2]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
+[^83-1]: [[AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 22; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31 Ziff. 3; [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474); [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)Anhang Ziff. I]
+[^83-2]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
 
 #### Art. 83a
 

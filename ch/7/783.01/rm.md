@@ -4,11 +4,11 @@ title: "Ordinaziun da posta dals 29 d'avust 2012 (OPO)"
 short: OPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/586"
 language: rm
-version: 2021-12-01
+version: 2026-04-01
 adopted: 2012-08-29
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20211201/rm/xml/fedlex-data-admin-ch-eli-cc-2012-586-20211201-rm-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20260401/rm/xml/fedlex-data-admin-ch-eli-cc-2012-586-20260401-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20260401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OPO)
 
-dals 29 d’avust 2012 (versiun dal 1. da december 2021)
+dals 29 d’avust 2012 (versiun dal 1. d’avrigl 2026)
 
 Il Cussegl federal svizzer,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 4 alinea 2, 6 alinea 5, 7 alinea 5, 9 alinea 2, 10, 
 
 decretescha:
 
-[^ingress-1]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^ingress-1]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 ## 1. chapitel Noziuns ed adempliment da l’obligaziun da prestar il provediment da basa
 
@@ -44,9 +44,23 @@ En questa ordinaziun signifitgan:
 - e. *societad da la gruppa Posta:* la PostFinance e las interpresas controlladas directamain u indirectamain da la Posta, particularmain societads da chapital;
 - f. *indriz da chaschas postalas:* indriz d’ina purschidra per la distribuziun da spediziuns postalas, al qual mo la gestiunaria da l’indriz ed il possessur da la chascha postala respectiva han access;
 - g. *custs incrementals:* custs marginals d’in servetsch e custs fixs specifics per in servetsch;
-- h. *custs unics:* custs ch’in servetsch avess, sch’el fiss l’unic che vegniss purschì.
+- h. *custs unics:* custs ch’in servetsch avess, sch’el fiss l’unic che vegniss purschì;
+- i.[^1-2] *spediziun electronica:* datas u cuntegns che vegnan transmess d’in speditur sin via electronica al sistem da distribuziun ibrid e che pon vegnir tramess als retschaviders en la furma definitiva sco spediziun adressada tant sur il chanal electronic sco er sur il chanal ibrid; sco spediziuns electronicas valan er spediziuns da la correspundenza giuridica electronica che pon vegnir tramessas mo sur il chanal electronic;
+- j.[^1-3] *sistem da distribuziun ibrid:* sistem da la Posta, cun il qual in speditur po laschar trametter spediziuns electronicas ad in retschavider sur il chanal electronic u ibrid;
+- k.[^1-4] *chanal electronic:* chanal, sur il qual ina spediziun electronica vegn tramessa al retschavider sin via electronica;
+- l.[^1-5] *chanal ibrid:* chanal, sur il qual ina spediziun electronica vegn tramessa al retschavider sco brev (art. 2 lit. c LPO) u sco pachet (art. 2 lit. d LPO);
+- m.[^1-6] *spediziun electronica singula:* spediziun electronica ch’il speditur surdat a la Posta per il transport tenor las cundiziuns generalas da fatschenta;
+- n.[^1-7] *spediziun electronica en massa:* spediziun electronica ch’il speditur surdat a la Posta per il transport tenor cundiziuns contractualas individualas;
+- o.[^1-8] *zavrar spediziuns electronicas:* process che garantescha la distribuziun da spediziuns electronicas sur il chanal electronic u ibrid tenor las directivas dal retschavider.
 
-[^1-1]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^1-1]: [SR 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
+[^1-2]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-3]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-4]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-5]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-6]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-7]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^1-8]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 2
 
@@ -386,35 +400,36 @@ Il provediment da basa en il traffic postal naziunal cumpiglia almain ina pursch
 
 - b. brevs fin 1 kg e pachets fin 20 kg sco spediziuns en massa;
 - c. gasettas e revistas abunadas cun distribuziun normala;
-- d.[^29-1] actas da dretgira e da scussiun cun conferma da la retschavida e transmissiun suandanta da la conferma da la retschavida al speditur.
+- d.[^29-1] actas da dretgira e da scussiun cun conferma da la retschavida e transmissiun suandanta da la conferma da la retschavida al speditur;
+- e.[^29-2] spediziuns electronicas.
 
 <sup>2</sup>
 
 Il provediment da basa en il traffic postal transcunfinal cumpiglia almain ina purschida per transportar a l’exteriur las suandantas spediziuns postalas adressadas:
 
 - a. brevs fin 2 kg e pachets fin 20 kg sco spediziuns singulas;
-- b. brevs fin 2 kg e pachets fin 20 kg sco spediziuns en massa.[^29-2]
+- b. brevs fin 2 kg e pachets fin 20 kg sco spediziuns en massa.[^29-3]
 
-<sup>2bis</sup> La lunghezza, la ladezza e l’autezza da brevs tenor l’alinea 2 dastgan importar ensemen maximalmain 90 cm, e nagina vart na dastga esser pli lunga che 60 cm.[^29-3]
+<sup>2bis</sup> La lunghezza, la ladezza e l’autezza da brevs tenor l’alinea 2 dastgan importar ensemen maximalmain 90 cm, e nagina vart na dastga esser pli lunga che 60 cm.[^29-4]
 
 <sup>3</sup>
 
 La Posta offra a spediturs ils suandants servetschs:
 
-- a.[^29-4] conferma da la retschavida;
+- a.[^29-5] conferma da la retschavida;
 - b. respediziun.
 
-<sup>3bis</sup> Spediziuns postalas, per las qualas il speditur pretenda ina conferma da la retschavida, valan sco retschavidas en il senn dal contract da spediziun, sch’il retschavider – u in’autra persuna designada che ha il dretg da retschaiver la spediziun postala tenor las cundiziuns da fatschenta da la Posta – conferma sin palpiri u sin in apparat da registraziun electronic ch’ina tscherta spediziun saja vegnida surdada ad el. Il speditur sto avair la pussaivladad da laschar bloccar la consegna a persunas sut 16 onns, senza stuair pajar in supplement. Per la furma electronica da la conferma da la retschavida stoi vegnir garantì cun agid da mesiras tecnicas ed organisatoricas adequatas che la protecziun cunter falsificaziun u sfalsificaziun saja tuttina buna sco per la furma sin palpiri.[^29-5]
+<sup>3bis</sup> Spediziuns postalas, per las qualas il speditur pretenda ina conferma da la retschavida, valan sco retschavidas en il senn dal contract da spediziun, sch’il retschavider – u in’autra persuna designada che ha il dretg da retschaiver la spediziun postala tenor las cundiziuns da fatschenta da la Posta – conferma sin palpiri u sin in apparat da registraziun electronic ch’ina tscherta spediziun saja vegnida surdada ad el. Il speditur sto avair la pussaivladad da laschar bloccar la consegna a persunas sut 16 onns, senza stuair pajar in supplement. Per la furma electronica da la conferma da la retschavida stoi vegnir garantì cun agid da mesiras tecnicas ed organisatoricas adequatas che la protecziun cunter falsificaziun u sfalsificaziun saja tuttina buna sco per la furma sin palpiri.[^29-6]
 
 <sup>4</sup>
 
-La Posta offra a retschaviders ils suandants servetschs:[^29-6]
+La Posta offra a retschaviders ils suandants servetschs:[^29-7]
 
 - a. spedir suenter;
 - b. deviar;
 - c. retenziun.
 
-<sup>4bis</sup> Ella po prevair ina purschida che permetta als retschaviders d’autorisar la Posta sin via electronica da metter ina spediziun postala designada exactamain, per la quala il speditur pretenda ina conferma da la retschavida, directamain en la chascha da brevs u en la chascha postala. Sch’il speditur agescha en adempliment d’incumbensas da dretg public, sto el avair la pussaivladad da laschar bloccar la purschida per la consegna da las atgnas spediziuns, senza stuair pajar in supplement. L’autorisaziun electronica vala sco conferma da la retschavida tenor l’alinea 3 litera a en il senn dal contract da spediziun.[^29-7]
+<sup>4bis</sup> Ella po prevair ina purschida che permetta als retschaviders d’autorisar la Posta sin via electronica da metter ina spediziun postala designada exactamain, per la quala il speditur pretenda ina conferma da la retschavida, directamain en la chascha da brevs u en la chascha postala. Sch’il speditur agescha en adempliment d’incumbensas da dretg public, sto el avair la pussaivladad da laschar bloccar la purschida per la consegna da las atgnas spediziuns, senza stuair pajar in supplement. L’autorisaziun electronica vala sco conferma da la retschavida tenor l’alinea 3 litera a en il senn dal contract da spediziun.[^29-8]
 
 <sup>5</sup> Sco spediziuns singulas valan spediziuns postalas ch’il speditur surdat a la Posta per la spediziun tenor las cundiziuns da fatschenta generalas.
 
@@ -425,12 +440,13 @@ La Posta offra a retschaviders ils suandants servetschs:[^29-6]
 <sup>8</sup> Spediziuns postalas d’express e per curier na fan betg part da la purschida dal provediment da basa.
 
 [^29-1]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-2]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-3]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-4]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-5]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-6]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^29-7]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-2]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^29-3]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-4]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-5]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-6]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-7]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^29-8]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 
 #### Art. 30
 
@@ -493,16 +509,13 @@ Ella n’è betg obligada da consegnar las gasettas quotidianas abunadas entaife
 
 **Temps da distribuziun en il traffic postal naziunal**
 
-<sup>1</sup>
-
-La Posta sto garantir ils temps da distribuziun da las spediziuns postalas tenor l’artitgel 29 alinea 1 litera a sco suonda:
-
-- a. per 97 pertschient da las brevs;
-- b. per 95 pertschient dals pachets.
+<sup>1</sup> La Posta sto respectar ils temps da distribuziun da las spediziuns postalas tenor l’artitgel 29 alinea 1 litera a per 90 pertschient da las brevs e dals pachets.[^32-1]
 
 <sup>2</sup> Las metodas per mesirar ils temps da distribuziun ston esser renconuschidas scientificamain e certifitgadas d’ina post spezialisà independent. Ellas sa basan sin standards da qualitad internaziunals e resguardan il stadi da la tecnica.
 
 <sup>3</sup> La PostCom approva las metodas ed ils instruments da mesiraziun.
+
+[^32-1]: Versiun tenor la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 33
 
@@ -577,6 +590,168 @@ La Posta po excluder spediziuns postalas tenor l’artitgel 29 da la spediziun, 
 
 <sup>2</sup> Ella designescha en sias cundiziuns da fatschenta generalas, tge spediziuns postalas che vegnan exclusas da la spediziun.
 
+### 1*a*. part Sistem da distribuziun ibrid
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+
+#### Art. 35a
+
+**Prestaziuns**
+
+La Posta garantescha il provediment da basa cun in sistem da distribuziun ibrid e furnescha las suandantas prestaziuns per persunas natiralas e giuridicas cun domicil, sedia u filiala en Svizra:
+
+- a. la gestiun d’ina plattafurma per recepir, zavrar, trametter ed arcunar temporarmain spediziuns electronicas;
+- b. il metter a disposiziun ina surfatscha d’utilisaziun ed interfatschas che pussibiliteschan als utilisaders da spedir sco er da consultar spediziuns electronicas retschavidas e spedidas;
+- c. la distribuziun da spediziuns electronicas sur il chanal electronic u ibrid;
+- d. la stampa, il metter en cuvertas u il pachetadi, la francatura e la surdada dal cuntegn d’ina spediziun electronica sco brev u pachet;
+- e. l’infurmaziun dal retschavider sur il chanal electronic directamain suenter la consegna d’ina spediziun electronica ch’è adressada ad el;
+- f. la transmissiun da spediziuns electronicas ad ina plattafurma renconuschida tenor l’Ordinaziun dals 18 da zercladur 2010[^35a-1] davart la communicaziun electronica en il rom da process civils e penals sco er da proceduras da scussiun e concurs;
+- g. l’identificaziun e l’autentificaziun dals utilisaders.
+
+[^35a-1]: [SR 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
+
+#### Art. 35b
+
+**Distribuziun sur il chanal electronic**
+
+<sup>1</sup> Per la distribuziun da spediziuns electronicas sur il chanal electronic dovri il consentiment explicit dal retschavider. Il retschavider po revocar da tut temp il consentiment, senza inditgar motivs.
+
+<sup>2</sup> La Posta pussibilitescha als retschaviders da consultar las spediziuns electronicas immediatamain suenter ch’ella ha recepì talas.
+
+<sup>3</sup> Suenter la recepziun proveda ella tut las spediziuns electronicas cun in sigil electronic reglamentà e cun in bul da temp electronic qualifitgà tenor la Lescha dals 18 da mars 2016[^35b-1] davart la signatura electronica.
+
+<sup>4</sup>
+
+Immediatamain suenter la consegna d’ina spediziun electronica emetta la Posta ina conferma d’entrada al speditur. Sin giavisch emetta la Posta ultra da quai las suandantas confermas al speditur:
+
+- a. ina conferma da consultaziun: per mintga retschavider, uschespert ch’el ha consultà l’emprima giada la spediziun electronica;
+- b. ina conferma da nunconsultaziun: sch’in retschavider n’ha betg consultà ina spediziun electronica fin la fin dal 7. di suenter la consegna.
+
+<sup>5</sup> Uschenavant ch’ellas n’èn betg arcunadas en moda decentrala sin purtaders da datas dals utilisaders, vegnan las spediziuns e confermas electronicas stizzadas 90 dis suenter la consegna. Resalvadas restan obligaziuns da consegna u da conservaziun, en spezial envers autoritads da persecuziun penala.
+
+<sup>6</sup> La Posta infurmescha immediatamain il speditur, sch’ella na po – per motivs tecnics u per autras raschuns – betg trametter sur il chanal electronic ina spediziun electronica ch’ella ha recepì, u sch’ella po far quai mo cun retard.
+
+<sup>7</sup>
+
+Ella porscha al retschavider d’ina spediziun electronica ina pussaivladad simpla:
+
+- a. da bloccar spediturs, uschia che quels n’al pon trametter naginas ulteriuras spediziuns electronicas sur il chanal electronic;
+- b. da communitgar als spediturs, ch’el na veglia survegnir naginas ulteriuras spediziuns electronicas cun in cuntegn sumegliant.
+
+<sup>8</sup> Ils spediturs da spediziuns electronicas en connex cun la correspundenza giuridica electronica tenor l’artitgel 35*a* litera f na pon betg vegnir bloccads tenor l’alinea 7.
+
+[^35b-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+
+#### Art. 35c
+
+**Distribuziun sur il chanal ibrid**
+
+<sup>1</sup> A retschaviders che n’han betg dà il consentiment a la consegna electronica, che han revocà il consentiment u che han bloccà il speditur tenor l’artitgel 35*b* alinea 7 litera a, trametta la Posta las spediziuns electronicas sur il chanal ibrid.
+
+<sup>2</sup> Per quest intent fa ella ils pass da lavur tenor l’artitgel 35*a* litera d.
+
+<sup>3</sup> En connex cun la correspundenza giuridica electronica tenor l’artitgel 35*a* litera f n’è la Posta betg obligada da trametter spediziuns electronicas sur il chanal ibrid.
+
+<sup>4</sup>
+
+Per trametter spediziuns electronicas singulas sur il chanal ibrid valan ils suandants termins:
+
+- a. sche la spediziun electronica vegn surdada in lavurdi, producescha la Posta la brev u il pachet il medem di e surdat la brev u il pachet per il transport en la classa da porto selecziunada;
+- b. sche la spediziun electronica vegn surdada ina sonda, ina dumengia u in firà general, producescha la Posta la brev u il pachet l’emprim lavurdi suenter il di da la surdada e surdat la brev u il pachet per il transport en la classa da porto selecziunada.
+
+#### Art. 35d
+
+**Surfatscha d’utilisaziun**
+
+La surfatscha d’utilisaziun dal sistem da distribuziun ibrid sto esser cuntanschibla ed utilisabla sur tecnologias usitadas.
+
+#### Art. 35e
+
+**Identificaziun ed autentificaziun**
+
+<sup>1</sup> Tgi che utilisescha il sistem da distribuziun ibrid, sto s’identifitgar e s’autentifitgar envers la Posta.
+
+<sup>2</sup>
+
+Per l’identificaziun pon vegnir applitgadas las suandantas proceduras:
+
+- a. la validaziun da l’adressa d’ina persuna natirala tras brev;
+- b. la preschentaziun d’in document tenor l’artitgel 20*a* alinea 1 u la controlla da las indicaziuns tenor l’artitgel 20*b* alinea 1 da l’Ordinaziun dals 15 da november 2017[^35e-1] davart la surveglianza da la correspundenza postala e dal traffic da telecommunicaziun; u
+- c. la preschentaziun d’ina cumprova electronica da l’identitad.
+
+<sup>3</sup> La PostCom determinescha, tge cumprovas electronicas da l’identitad che pon vegnir utilisadas.
+
+<sup>4</sup> Tgi che utilisescha la surfatscha d’utilisaziun, sto avair in conto d’utilisaziun tar la Posta.
+
+<sup>5</sup> La procedura d’autentificaziun per l’access a la surfatscha d’utilisaziun sto correspunder al stadi actual da la tecnica.
+
+<sup>6</sup> La Posta sto bloccar l’access al sistem da distribuziun ibrid per persunas che han duvrà l’identitad d’ina persuna che n’exista betg u d’ina persuna che n’ha betg dà ordavant ses consentiment a l’utilisaziun dal sistem da distribuziun ibrid.
+
+[^35e-1]: [SR 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
+
+#### Art. 35f
+
+**Protecziun e segirezza da las datas**
+
+<sup>1</sup> Las datas ston vegnir elavuradas en Svizra tenor il dretg svizzer.
+
+<sup>2</sup> La Posta dastga elavurar datas persunalas e datas da persunas giuridicas, sche quai è necessari per furnir ils servetschs tenor questa part e sche las datas na vegnan betg communitgadas a terzs nunautorisads.
+
+<sup>3</sup>
+
+Ella procura che:
+
+- a. las datas dal cuntegn e las metadatas dal sistem da distribuziun ibrid vegnian arcunadas ed elavuradas en moda logicamain separada d’auters effectivs da datas;
+- b. i vegnian duvradas proceduras da codaziun che correspundan al stadi actual da la tecnica per arcunar e per transmetter las datas;
+- c. la transmissiun da datas resguardia ils standards tecnics da l’administraziun federala pertutgant ina transmissiun segira;
+- d. tut las datas che na vegnan betg duvradas per furnir servetschs postals ordaifer il sistem da distribuziun ibrid, vegnian destruidas suenter la schliaziun d’in conto d’utilisaziun, observond ils termins legals;
+- e. il conto d’utilisaziun vegnia schlià, sche ses utilisader n’è durant pli che 2 onns betg pli s’annunzià en ses conto; la schliaziun sto vegnir annunziada.
+
+<sup>4</sup> La PostCom po fixar las pretensiuns tecnicas ed organisatoricas envers la protecziun e la segirezza da las datas. Ella controllescha regularmain, che quellas vegnian observadas.
+
+<sup>5</sup> La Posta fixescha en scrit las mesiras organisatoricas e tecnicas per impedir in’elavuraziun nunautorisada da las datas e protocollescha automaticamain l’elavuraziun da las datas.
+
+<sup>6</sup> Ella maina in sistem che tegna quint da las ristgas, per identifitgar incidents da segirezza e per tractar tals. Areguard la protecziun e la segirezza da las datas annunzia ella a la PostCom incidents che vegnan classifitgads sco relevants per la segirezza.
+
+#### Art. 35g
+
+**Access nundiscriminant**
+
+<sup>1</sup> La Posta conceda a terzs in access nundiscriminant e transparent a las installaziuns electronicas ed als servetschs dal sistem da distribuziun ibrid.
+
+<sup>2</sup>
+
+Ella metta a disposiziun a terzs interfatschas segiras al sistem da distribuziun ibrid. En spezial pussibilitescha ella, che spediziuns electronicas:
+
+- a. pon vegnir surdadas cun agid d’ina transmissiun da datas directa tranter applicaziuns specificas da terzs ed il sistem da distribuziun ibrid;
+- b. pon vegnir recepidas e consultadas cun agid d’ina transmissiun da datas segira tranter applicaziuns specificas da terzs ed il sistem da distribuziun ibrid.
+
+<sup>3</sup> En cas da dispitas tranter la Posta e terzs concernent l’access nundiscriminant decretescha la PostCom ina disposiziun.
+
+#### Art. 35h
+
+**Cumbinaziun cun servetschs che na tutgan betg tar las incumbensas dal provediment da basa**
+
+La Posta po cumbinar ils servetschs dal sistem da distribuziun ibrid cun servetschs che na tutgan betg tar las incumbensas dal provediment da basa, sche:
+
+- a. ella porscha er ina cumbinaziun che sa cumpona exclusivamain dals servetschs dal provediment da basa;
+- b. ella metta a disposiziun er a terzs las interfatschas duvradas per la cumbinaziun tenor l’artitgel 35*g* alinea 2; e
+- c. la cumbinaziun n’ha nagins dischavantatgs per la segirezza e la protecziun da las datas en il provediment da basa.
+
+#### Art. 35i
+
+**Taxas e taxa da surveglianza**
+
+<sup>1</sup> La PostCom incassescha taxas per servetschs e disposiziuns en connex cun l’access nundiscriminant al sistem da distribuziun ibrid.
+
+<sup>2</sup> Per cuvrir ils custs per la surveglianza dal sistem da distribuziun ibrid che n’èn betg cuvrids tras entradas da taxas, incassescha la PostCom ina taxa da surveglianza annuala.
+
+<sup>3</sup> La calculaziun, il termin da pajament, la prorogaziun e la surannaziun sa drizzan tenor las disposiziuns da l’Ordinaziun generala dals 8 da settember 2004[^35i-1] davart las taxas.
+
+[^35i-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+
 ### 2. part Promoziun da la pressa regiunala e locala sco er da la pressa da commembranza e da fundaziuns
 
 #### Art. 36
@@ -647,7 +822,7 @@ Per mantegnair ina pressa da commembranza e da fundaziuns multifara vegnan conce
 
 [^37-1]: Versiun tenor la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 [^37-2]: Versiun tenor la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
-[^37-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-3]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 3. part Marcas postalas spezialas cun e senza supplement sin il pretsch da vendita
 
@@ -725,18 +900,21 @@ Il provediment da basa cumpiglia almain ina purschida per ils suandants servetsc
 
 <sup>1bis</sup> En intschess, nua ch’igl è avant maun mo in’agentura postala, porscha la Posta il pajament en daner blut a l’adressa da domicil dal client u en in’autra moda adattada.[^44-2]
 
+<sup>1ter</sup> Sche la Posta ademplescha il servetsch tenor l’artitgel 43 alinea 1 litera b cun agid d’ina purschida ch’è da liquidar sur la rait d’uffizis postals e d’agenturas, valan per la cuntanschibladad las directivas tenor l’alinea 1. En territoris cun servetsch a domicil porscha la Posta ina soluziun alternativa a l’adressa da domicil dal client.[^44-3]
+
 <sup>2</sup> La metoda per mesirar l’access sto esser renconuschida scientificamain e certifitgada d’ina post spezialisà independent. Ella resguarda il stadi da la tecnica.
 
 <sup>3</sup> Il UFCOM approva la metoda ed ils instruments da mesiraziun.
 
-<sup>4</sup> La Posta ed ils chantuns stattan regularmain en in dialog, sch’i sa tracta da planisar e da coordinar la rait d’uffizis postals e d’agenturas postalas en lur intschess. Ils chantuns garanteschan la communicaziun cun lur vischnancas.[^44-3]
+<sup>4</sup> La Posta ed ils chantuns stattan regularmain en in dialog, sch’i sa tracta da planisar e da coordinar la rait d’uffizis postals e d’agenturas postalas en lur intschess. Ils chantuns garanteschan la communicaziun cun lur vischnancas.[^44-4]
 
-<sup>5</sup> La Posta metta a disposiziun en l’internet in sistem interactiv cun funcziun da tschertga e cun ina charta che orientescha, nua ch’ils puncts d’access sa chattan.[^44-4]
+<sup>5</sup> La Posta metta a disposiziun en l’internet in sistem interactiv cun funcziun da tschertga e cun ina charta che orientescha, nua ch’ils puncts d’access sa chattan.[^44-5]
 
 [^44-1]: Versiun tenor la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 [^44-2]: Integrà tras la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
-[^44-3]: Integrà tras la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-3]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 [^44-4]: Integrà tras la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
+[^44-5]: Integrà tras la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 
 #### Art. 45
 
@@ -767,7 +945,7 @@ Il provediment da basa vegn finanzià cun ils retgavs da la svieuta da la Posta 
 
 <sup>1</sup> La Posta e las societads da la gruppa Posta fixeschan ils pretschs da lur servetschs tenor princips economics resguardond la finanziaziun dal provediment da basa.
 
-<sup>2</sup> La Posta fixescha ils pretschs da las spediziuns postalas tenor l’artitgel 29 alinea 1 litera a independentamain da las distanzas sco er tenor princips unitars. La PostCom controllescha periodicamain, sch’ils pretschs èn fixads independentamain da las distanzas.
+<sup>2</sup> La Posta fixescha ils pretschs da las spediziuns postalas tenor l’artitgel 29 alinea 1 litera a sco er da las spediziuns electronicas singulas independentamain da las distanzas sco er tenor princips unitars. La PostCom controllescha periodicamain, sch’ils pretschs èn fixads independentamain da las distanzas.[^47-1]
 
 <sup>3</sup> La Posta fixescha ils pretschs per distribuir gasettas e revistas tenor l’artitgel 29 alinea 1 litera c independentamain da las distanzas. Il UFCOM controlla periodicamain, sch’ils pretschs èn fixads independentamain da las distanzas.
 
@@ -781,8 +959,18 @@ Il provediment da basa vegn finanzià cun ils retgavs da la svieuta da la Posta 
 
 Spediziuns postalas tenor l’artitgel 29 alinea 1 litera a ch’èn avertas e che portan la designaziun «Spediziun per tschorvs» ston vegnir transportadas gratuitamain, premess ch’ellas:
 
-- a. vegnian consegnadas da persunas cun impediments da la vesida u da persunas tschorvas ubain da lur organisaziuns u èn adressadas a talas persunas u organisaziuns; e
+- a. vegnian consegnadas da persunas cun impediments da la vesida u da persunas tschorvas ubain da lur organisaziuns u sajan adressadas a talas persunas u organisaziuns; e
 - b. cuntegnian documents scrits cun scrittira per tschorvs u registraziuns sonoras che na servan betg ad ina communicaziun commerziala.
+
+<sup>8</sup>
+
+Spediziuns electronicas che portan la designaziun «Spediziun per tschorvs» ston vegnir transportadas gratuitamain, premess che:
+
+- a. ellas vegnian consegnadas da persunas cun impediments da la vesida u da persunas tschorvas ubain da lur organisaziuns u sajan adressadas a talas persunas u organisaziuns; e
+- b. il cuntegn na servia betg ad ina communicaziun commerziala.[^47-2]
+
+[^47-1]: Versiun tenor la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^47-2]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
 
 #### Art. 48
 
@@ -907,7 +1095,7 @@ La Posta incumbensescha ina interpresa da revisiun che stat sut la surveglianza 
 - b. l’observanza da las directivas per la contabilitad tenor l’artitgel 52;
 - c. l’attribuziun dals custs e dals retgavs da la svieuta e la cumprova annuala ch’il scumond d’in subvenziunament traversal saja observà tenor l’artitgel 55 alinea 3.
 
-[^57-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^57-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 58
 
@@ -948,12 +1136,14 @@ La Posta inoltrescha a la PostCom mintga onn fin ils 31 da mars in rapport davar
 - a. designar ils territoris cun servetsch a domicil;
 - b. descriver il svilup dal provediment da basa cun servetschs postals;
 - c. inditgar quantas spediziuns postalas ch’èn idas a perder e las reclamaziuns concernent il provediment da basa cun servetschs postals;
-- d.[^60-1] inditgar il dumber total da chasas tenor ils artitgels 31 alineas 2 e 2<sup>bis</sup> ed 83*a*, tar las qualas i n’exista nagina obligaziun da distribuir las spediziuns postalas a chasa.
+- d.[^60-1] inditgar il dumber total da chasas tenor ils artitgels 31 alineas 2 e 2<sup>bis</sup> ed 83*a*, tar las qualas i n’exista nagina obligaziun da distribuir las spediziuns postalas a chasa;
+- e.[^60-2] infurmar davart incidents concernent la segirezza e la protecziun da las datas.
 
-<sup>2</sup> Ella inoltrescha a la PostCom mintga onn fin ils 31 da mars in rapport davart l’observaziun da las prescripziuns da consegna da gasettas quotidianas abunadas tenor l’artitgel 31*a*. A chaschun da l’approvaziun da la metoda da mesiraziun tenor l’artitgel 31*a* alinea 5 fixescha la PostCom las indicaziuns che ston figurar en il rapport. La Posta sto inoltrar il rapport per l’emprima giada per l’onn da rapport 2022.[^60-2]
+<sup>2</sup> Ella inoltrescha a la PostCom mintga onn fin ils 31 da mars in rapport davart l’observaziun da las prescripziuns da consegna da gasettas quotidianas abunadas tenor l’artitgel 31*a*. A chaschun da l’approvaziun da la metoda da mesiraziun tenor l’artitgel 31*a* alinea 5 fixescha la PostCom las indicaziuns che ston figurar en il rapport. La Posta sto inoltrar il rapport per l’emprima giada per l’onn da rapport 2022.[^60-3]
 
 [^60-1]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^60-2]: Integrà tras la cifra I da l’O dals 18 da sett. 2020 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Versiun tenor la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^60-2]: Integrà tras la cifra I da l’O dals 19 da dec. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 3](https://fedlex.data.admin.ch/eli/oc/2026/3)).
+[^60-3]: Integrà tras la cifra I da l’O dals 18 da sett. 2020 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Versiun tenor la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 61
 
@@ -1026,7 +1216,7 @@ Il post da mediaziun sto:
 
 <sup>4</sup> La nominaziun vegn fatga en furma d’in contract da dretg administrativ.
 
-[^65-1]: [SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+[^65-1]: [SR 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)
 
 #### Art. 66
 
@@ -1085,7 +1275,7 @@ Igl è mo admess da far ina dumonda da mediaziun, sche:
 
 <sup>4</sup> Sche la PostCom nominescha in nov post da mediaziun, sto il post da mediaziun vertent transferir al nov post da mediaziun gratuitamain las datas da las proceduras ch’èn pendentas il mument che l’activitad da mediaziun vegn terminada.
 
-[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 71
 
@@ -1182,7 +1372,7 @@ Per sia activitad incassescha la PostCom taxas, particularmain per:
 
 <sup>4</sup> Dal rest valan las disposiziuns da l’Ordinaziun generala davart las taxas dals 8 da settember 2004[^77-1].
 
-[^77-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^77-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 78
 
@@ -1210,7 +1400,7 @@ Per sia activitad incassescha la PostCom taxas, particularmain per:
 
 <sup>3</sup> Il termin da pajament da la taxa, la prorogaziun e la surannaziun sa drizzan tenor las disposiziuns da l’Ordinaziun generala davart las taxas dals 8 da settember 2004[^80-1].
 
-[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^80-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 9. chapitel Fatgs internaziunals
 
@@ -1246,8 +1436,8 @@ L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta 2.
 
 <sup>6</sup> La PostCom installescha in post da mediaziun entaifer 15 mais suenter che questa ordinaziun è entrada en vigur u incumbensescha terzas persunas da far quai.
 
-[^83-1]: [[AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 cifra 3, [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474), [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)agiunta cifra I]
-[^83-2]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
+[^83-1]: [[AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 22; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 cifra 3; [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474); [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)agiunta cifra I]
+[^83-2]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638)]
 
 #### Art. 83a
 
