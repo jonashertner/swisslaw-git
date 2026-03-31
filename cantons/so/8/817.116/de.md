@@ -4,13 +4,12 @@ number: "817.116"
 title: Verordnung über die Spitalliste
 short: SpiVO
 language: de
-version: 2024-07-01
-valid_until: 2026-03-31
-version_adopted: 2024-06-18
+version: 2026-04-01
+version_adopted: 2026-01-26
 adopted: 2011-09-27
 in_force: 2012-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/817.116"
-pdf: "https://bgs.so.ch/api/de/versions/5459/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5623/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5459/pdf_file"
 
 (SpiVO)
 
-Vom 27.09.2011 (Stand 01.07.2024)
+Vom 27.09.2011 (Stand 01.04.2026)
 
 Der Regierungsrat von Solothurn
 
@@ -117,48 +116,15 @@ beschliesst:
 
 #### § 9
 
-**Aus- und Weiterbildung sowie Ausgleichszahlung**
-
-<sup>1</sup> …
-
-<sup>1<sup>bis</sup></sup> Die Pflicht zur Erbringung von Ausbildungsleistungen:
-
-- a) beginnt bei der Aufnahme der Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung in der ersten Jahreshälfte ab dem auf die Tätigkeitsaufnahme folgenden Kalenderjahr und bei der Aufnahme der betreffenden Tätigkeit in der zweiten Jahreshälfte ab dem übernächsten Kalenderjahr;
-- b) endet mit der Aufgabe der Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung.
-
-<sup>2</sup> Die Beteiligung kann in Form eigener Aus- und Weiterbildungsplätze, in einem Ausbildungsverbund, bei welchem sich die Aus- und Weiterbildungsplätze im Kanton Solothurn befinden, oder durch Einkauf bei einem anderen Betrieb im Kanton Solothurn erfolgen.
-
-<sup>3</sup> Bei der Festlegung des Bedarfs können die Empfehlungen der Berufsverbände berücksichtigt werden.
-
-<sup>4</sup> Aufwendungen im Zusammenhang mit bundesrechtlich geregelten Ausbildungsverpflichtungen können berücksichtigt werden.
-
-<sup>5</sup> Die Höhe der Ausgleichszahlung entspricht dem Betrag, der sich aus der Multiplikation folgender Faktoren ergibt:
-
-- a) Normansätze für die festgelegten Aus- und Weiterbildungsleistungen;
-- b) zweifache prozentuale Differenz zwischen festgelegter und im Kalenderjahr erbrachter Aus- und Weiterbildungsleistung.
-
-<sup>6</sup> Die Pflicht zur Leistung einer Ausgleichszahlung entfällt, wenn die Differenz gemäss Absatz 5 einen Toleranzwert von 10 Prozent nicht überschreitet.
+**…**
 
 #### § 9bis
 
-**Vollzug und Vollstreckung der Aus- und Weiterbildung**
-
-<sup>1</sup> Der Vollzug und die damit verbundene Verfügungskompetenz zur Festlegung und Überprüfung der Aus- und Weiterbildungsverpflichtung werden an die Stiftung OdA Gesundheit und Soziales im Kanton Solothurn (SOdAS) delegiert.
-
-<sup>2</sup> Das Reglement der SOdAS über die Ausbildungsverpflichtung für nicht-universitäre Gesundheitsberufe im Kanton Solothurn wird in der Fassung vom 23. April 2024 für verbindlich erklärt.
+**…**
 
 #### § 9ter
 
-**Mitwirkungspflicht und Datenbearbeitung bei der Aus- und Weiterbildung**
-
-<sup>1</sup> Die auf der Spitalliste aufgeführten Spitäler mit innerkantonalem Standort sind verpflichtet, der SOdAS die für den Vollzug der Aus- und Weiterbildungsverpflichtung notwendigen Daten unentgeltlich in elektronischer Form zur Verfügung zu stellen. Sie haben insbesondere die Vollzeitäquivalente und die Anzahl geleisteter Ausbildungswochen pro Beruf zu melden.
-
-<sup>2</sup> Bei Nichterfüllen der Mitwirkungspflicht trotz Mahnung wird eine Berechnung nach pflichtgemässem Ermessen vorgenommen. In diesem Rahmen können Erfahrungswerte und die Entwicklungen in den Vorjahren berücksichtigt werden.
-
-<sup>3</sup> Die SOdAS und das Departement können zur Überprüfung der Angaben der Betriebe insbesondere folgende Daten unentgeltlich in elektronischer Form beziehen:
-
-- a) von den Spitälern die Stellenpläne inklusive Ausbildungsstellen bzw. -wochen und die anonymisierten Belege über Praktikumszuteilungen von Lernenden bzw. Studierenden ausserkantonaler Bildungsinstitutionen;
-- b) von den Berufsbildungszentren pro Betrieb die Anzahl Lernender der Sekundarstufe II und die Anzahl Studierender der Tertiärstufe.
+**…**
 
 #### § 10
 
